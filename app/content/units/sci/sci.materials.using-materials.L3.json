@@ -165,7 +165,7 @@
    "description": "Think of a raincoat. Its job is to keep you dry. So it needs a material that is waterproof. It must also be flexible, so you can move your arms. Plastic and rubber-coated cloth have both properties. A towel has a different job. It must soak up water, so it needs an absorbent material, like cotton. The same property can be good for one job and bad for another. Soaking up water is perfect for a towel and terrible for a raincoat.",
    "examples": [
     "A window is glass because glass is transparent, so light comes in and you can see out.",
-    "A cricket bat is willow wood because it is strong but not too heavy, and it does not shatter.",
+    "A cricket bat is made of willow wood, which is strong but not too heavy, and does not shatter.",
     "An electric wire is copper inside, because copper carries electricity well. Its cover is plastic, because plastic stops electricity from reaching your hand."
    ],
    "perspectives": [],
@@ -218,7 +218,7 @@
    "concept": "Pans and handles: conductors and insulators",
    "status": "defined",
    "definition": "A conductor of heat lets heat pass through it quickly. An insulator lets heat pass through only slowly. Most metals are good conductors. Wood, plastic, cloth, cork and air are good insulators.",
-   "description": "A kadai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon stays solid. Many pressure cookers have metal bodies and plastic handles for exactly this reason.",
+   "description": "A kadai must carry heat from the flame to the food, fast and evenly. So it is made of a metal, like iron, steel or aluminium. But the handle must keep heat away from your hand. So it is made of wood or a special hard plastic, which are insulators. The Hot Spoon Race in this unit shows the difference. Butter stuck on the handle of a steel spoon standing in hot water melts within a few minutes. Butter on a wooden spoon usually stays solid for much longer. Many pressure cookers have metal bodies and plastic handles for exactly this reason.",
    "examples": [
     "A dosa tawa is iron. Its handle is often wood.",
     "A steel tumbler of hot chai is too hot to hold. A clay kulhad of the same chai is easy to hold.",
@@ -235,7 +235,7 @@
    "definition": "Wool, cotton wool and feathers keep things warm because they trap lots of still air. Still air is a very good insulator. They do not make any heat themselves. They only slow heat down as it tries to escape.",
    "description": "Your body makes heat all the time. Without a sweater, that heat leaks away into the cold air. A sweater is full of tiny pockets of air between its curly fibres. The trapped air cannot move about, so heat passes through it very slowly. So your own heat stays near you. Here is the surprise. Wrap an ice cube in a woollen sock and it melts more slowly than an ice cube left in the open. The sock keeps the room's heat out, just as it keeps your body's heat in. Insulators slow heat down in both directions.",
    "examples": [
-    "An ice cube inside a woollen sock stays frozen longer than one on a bare plate.",
+    "A tea cosy keeps a pot of tea hot for longer.",
     "A quilt, a razai, is thick with cotton and air, so it keeps you warm on winter nights.",
     "Birds fluff up their feathers on cold mornings, to trap more air."
    ],
@@ -247,7 +247,7 @@
   {
    "concept": "Why a clay pot keeps water cool",
    "status": "defined",
-   "definition": "A clay pot, like a clay pot or a kooja, is porous. Water seeps slowly through its tiny holes to the outside. There it evaporates, and evaporation takes heat away from the pot and the water inside.",
+   "definition": "A clay pot, such as a matka or a kooja, is porous. Water seeps slowly through its tiny holes to the outside. There it evaporates, and evaporation takes heat away from the pot and the water inside.",
    "description": "When a liquid evaporates, it needs heat to turn into a gas. It takes that heat from whatever it is touching. That is why you feel cool when you come out of a bath and stand in a breeze. A clay pot works the same way. Its outside is always a little damp. As that water evaporates, it takes heat from the pot. So the water inside stays cooler than the air. It works best in dry, breezy weather. In very damp, sticky weather, water evaporates slowly, so the clay pot cools less. A plastic or steel bottle has no pores, so this cannot happen.",
    "examples": [
     "In hot Indian summers, families have kept drinking water in clay pots, koojas and surahis for thousands of years.",
@@ -399,7 +399,7 @@
   },
   {
    "text": "Trapped air keeps things warm, or keeps them cold.",
-   "evidence": "An ice cube wrapped in wool melts more slowly than one left in the open. Flasks, quilts and fur all work by slowing heat down."
+   "evidence": "Flasks, quilts and fur all work by slowing heat down."
   },
   {
    "text": "No material is best at everything.",
@@ -442,9 +442,9 @@
    "claim": "A sweater makes you warm by making heat.",
    "who": "A very common idea, among children and grown-ups",
    "for": "You feel warmer as soon as you put it on.",
-   "against": "A sweater has no heat of its own. It traps your body's heat. Put a sweater on a cold stone and the stone does not get warm. Wrap an ice cube in a woollen sock and it melts more slowly, not faster.",
+   "against": "A sweater has no heat of its own. It traps your body's heat. Put a sweater on a cold stone and the stone does not get warm.",
    "status": "rejected",
-   "context": "This card is about what a sweater really does. The sweater and ice cube test in this unit checks it."
+   "context": "This card is about what a sweater really does. The ice cube test in this unit checks it."
   },
   {
    "claim": "Natural materials are always better than materials made by people.",
@@ -552,7 +552,7 @@
    "That February, on the coldest morning of the year, I opened my inkpot. The ink was blue and liquid and ready. I wrote my whole name, Dolma Angmo, without warming it first. Stanzin Ma'am did not light the stove. Nobody coughed. By the window, where I sat, the sun lay across my desk like a sleeping cat.",
    "Abi-le came to see it. She put her old hand flat on the dark wall and held it there. 'This wall remembers the sun,' she said, as if it were her own idea. I did not mind. It was a good idea. It was everyone's."
   ],
-  "epiphany": "For the parent: the classroom was not warmed by burning more fuel. It was warmed by choosing each material for one job, because of its properties. Glass is transparent, so it lets sunlight in, even though it feels cold to touch. Thick dark mud soaks up heat slowly and gives it back slowly. Straw and wool trap still air, which is an insulator. They do not make heat. They keep heat from leaking away. And glass also lets heat out at night, so a woollen curtain covers it. No one material could do every job. Together they did. The story also notices whose idea it was: a child, a mother's kitchen and an old woman's doubts all helped.",
+  "epiphany": "For the parent: the classroom was not warmed by burning more fuel. It was warmed by choosing each material for one job, because of its properties. Glass is transparent, so it lets sunlight in, even though it feels cold to touch. Thick dark mud soaks up heat slowly and gives it back slowly. Straw and wool trap still air, which is an insulator. They do not make heat. They keep heat from leaking away. And glass also lets heat out at night, so a woollen curtain covers it. No one material could do every job. Together they did.",
   "ask": [
    "Why was the tin roof so cold to touch? What did the village put under it?",
    "Abi-le said glass is cold. She was right. So why did the village still use glass?",
@@ -573,7 +573,7 @@
    "id": "g1",
    "title": "Hire a Material",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about choosing materials for jobs. A property is what a material is like, such as waterproof or strong. Players 'hire' a material for each job and must say which property gets it the job.",
    "printables": [
     {
@@ -622,28 +622,44 @@
     },
     {
      "kind": "tokens",
-     "title": "20 'hired' tokens (small paper circles)",
+     "title": "16 'hired' tokens (small paper circles)",
      "items": [
-      "🔧"
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED",
+      "🔧 HIRED"
      ]
     }
    ],
    "rules": [
-    "Cut out the job cards and the material cards. Put the job cards in a pile, face down.",
-    "Deal 4 material cards to each player. Put the rest face down as a second pile.",
+    "Cut out the job cards and the material cards. Shuffle the job cards and put them face down in a pile.",
+    "Shuffle the material cards. Deal 3 to each player. Put the rest face down as a second pile.",
     "Turn over the top job card and read it out.",
-    "Each player chooses one of their materials for the job, and puts it face down.",
-    "Everyone turns their material over. Each player says which property makes it good for the job.",
-    "The group votes for the best choice. That player wins a 'hired' token. Silly choices that are funny but wrong get a laugh, but no token.",
-    "Everyone picks up a new material card. The player with the most tokens after all 16 jobs wins."
+    "Each player chooses one material from their hand for the job and puts it face down. If nothing fits well, play the closest one and be ready to say what is missing.",
+    "Everyone turns their material over and says which property makes it good for the job.",
+    "Players vote for the best choice, but not their own. The best choice wins a 'hired' token. If the votes tie, the player who read the job card picks between the tied players. With 2 players, decide together; if you cannot agree, both take a token. A funny but wrong choice gets a laugh, but no token.",
+    "Put the played material cards in a discard pile and take a new one from the second pile. If that pile runs out, shuffle the discard pile and use it as the new pile.",
+    "Play 8 jobs. The player with the most tokens wins. If tied, share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Put the job cards face down in one pile. 3. Shuffle the material cards and deal 4 to each player. 4. Put the rest in a second pile.",
+     "do": "1. Cut out the cards. 2. Shuffle the job cards and put them face down in one pile. 3. Shuffle the material cards and deal 3 to each player. 4. Put the rest in a second pile.",
      "say": "Every material is looking for a job. You are the boss. For each job, you hire the best material in your hand. But you must say which property gets it the job.",
-     "kid": "Each material card is looking for a job. You are the boss! Look at your 4 material cards. Read the properties on each one.",
+     "kid": "Each material card is looking for a job. You are the boss! Look at your 3 material cards. Read the properties on each one.",
      "context": "This is the first step of Hire a Material. It is a card game where you choose the best material for each job, and say why."
     },
     {
@@ -651,7 +667,7 @@
      "mins": 3,
      "do": "Play one practice round together with the job card 'the handle of a kadai'.",
      "say": "Practice round. The job is the handle of a kadai. The kadai gets very hot on the gas. Which material would you hire for the handle?",
-     "kid": "Practice job: the handle of a kadai. The pan gets very hot. Which material should hold it? Tap your answer.",
+     "kid": "Practice job: the handle of a kadai. The pan gets very hot. Which material should hold it?",
      "ask": [
       {
        "q": "Why not copper for the handle?",
@@ -676,10 +692,10 @@
     {
      "id": "s3",
      "mins": 11,
-     "do": "1. Turn over one job card at a time. 2. Each player chooses a material and puts it face down. 3. Turn them over together. 4. Each player gives their property reason. 5. Vote, and give a token for the best choice.",
+     "do": "1. Turn over one job card at a time. 2. Each player chooses a material and puts it face down. 3. Turn them over together. 4. Each player gives their property reason. 5. Vote, and give a token for the best choice. 6. Take a new material card. Play 8 jobs.",
      "say": "Turn your material over. Tell us the property that makes it right for this job.",
      "kid": "Read the job. Pick your best material. Put it face down. Then turn it over and say why. Say the property!",
-     "parent": "Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge, squashy. Two good answers can both win if both reasons are true."
+     "parent": "Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge, squashy. If two answers are both good, the clearer reason wins the token."
     },
     {
      "id": "s4",
@@ -692,15 +708,15 @@
    ],
    "setup": [
     {
-     "art": "A pile of face-down job cards with a little briefcase symbol and a fan of material cards with pictures of steel, wood, glass and cotton.",
-     "caption": "1. Put the job cards face down. Deal 4 material cards each."
+     "art": "A pile of face-down job cards and a fan of three material cards, each showing a material's name and its properties.",
+     "caption": "1. Put the job cards face down. Deal 3 material cards each."
     },
     {
      "art": "A child turning over a job card showing a raincoat in the rain, three children each placing a material card face down.",
      "caption": "2. Read the job. Everyone picks a material, face down."
     },
     {
-     "art": "Children turning over their cards together, one holding up a plastic card and pointing to the word 'waterproof', a spanner token beside them.",
+     "art": "Children turning over their cards together, one pointing to the word 'waterproof' on a plastic card, a paper 'hired' token beside them.",
      "caption": "3. Turn over, say the property, and vote for the best hire."
     }
    ]
@@ -746,11 +762,11 @@
     }
    ],
    "rules": [
-    "The shopkeeper takes the top silly product card and tries to sell it, praising it loudly.",
-    "Each customer must say what will go wrong when they use it.",
-    "Then they must name the property that causes the problem, and a better material.",
-    "A customer who gives all three wins the card. Then a new shopkeeper takes over.",
-    "The player with the most cards at the end wins."
+    "Choose a shopkeeper. Put the silly product cards face down.",
+    "The shopkeeper takes the top card and tries to sell it, praising it loudly.",
+    "Each customer says what will go wrong when they use it, names the property that causes the problem, and names a better material.",
+    "A customer who gives all three wins the card. If more than one does, the first to finish wins it. If no customer does, the shopkeeper keeps the card.",
+    "The next player becomes shopkeeper. Play 8 cards. The player with the most cards wins. If tied, share the win."
    ],
    "flow": [
     {
@@ -764,7 +780,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "The grown-up plays shopkeeper first, selling the chocolate kadai, to show how the game works.",
+     "do": "The grown-up plays shopkeeper first, selling the chocolate kadai card to show how the game works. Then shuffle that card back into the pile.",
      "say": "Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying pakoras!",
      "kid": "Listen to the shopkeeper. Would you buy a chocolate kadai? What would happen on the gas?",
      "check": {
@@ -782,7 +798,7 @@
     {
      "id": "s3",
      "mins": 11,
-     "do": "1. Take turns being shopkeeper. 2. Each shopkeeper sells one silly product with lots of acting. 3. Customers fill in a complaint slip or say their answers aloud.",
+     "do": "1. Take turns being shopkeeper. 2. Each shopkeeper sells one silly product with lots of acting. 3. Customers fill in a complaint slip or say their answers aloud. 4. Play 8 cards.",
      "say": "Customers, tell the shopkeeper what will go wrong. Which property is the problem? What should it be made of instead?",
      "kid": "Be the shopkeeper and sell your silly product! Or be a customer. Say what goes wrong. Name the problem property. Name a better material.",
      "parent": "Good answers: paper umbrella, absorbent and weak when wet, use waterproof plastic cloth. Glass chappal, brittle, use rubber. Woollen costume, soaks up water and gets heavy, use stretchy nylon. Steel pillow, too hard and rigid, use cotton stuffing. Cardboard boat, absorbent, use plastic or wood. Rubber knife, too bendy to cut, use steel. Sponge bridge, too squashy, use steel or concrete. Cotton wool helmet, too soft to protect, use hard plastic with foam inside. Copper handle, carries heat, use plastic or wood. Clay bat, brittle, use willow wood. Glass football, brittle and hard, use rubber and leather. Ice spoon, melts in the mouth, use steel. Cardboard bucket, absorbent, use plastic or steel. Tissue-paper school bag, weak and tears, use strong cloth. Wax plate, melts with hot food, use steel or a banana leaf."
@@ -838,6 +854,14 @@
       "insulator"
      ],
      "why": "Wood, wool, plastic and still air are insulators of heat. Metals are the opposite: they are conductors, which let heat pass through quickly."
+    },
+    {
+     "t": "fill",
+     "p": "A material that soaks up water, like a cotton towel, is called ____.",
+     "a": [
+      "absorbent"
+     ],
+     "why": "Absorbent materials, like cotton, paper and sponge, soak up liquids. That is right for a towel and wrong for a raincoat."
     },
     {
      "t": "truefalse",
@@ -959,15 +983,6 @@
      "context": "In the Matka Mystery test, you leave the same water in a clay pot, a plastic bottle and a steel bottle, side by side in the shade, for three hours. Then you measure which water is coolest."
     },
     {
-     "t": "write",
-     "p": "Look around the room you are in. Find one object made of two or more materials. Name each material and the job it does.",
-     "lines": 4,
-     "a": "Any real object, with each material linked to a job. For example: my water bottle has a steel body, because steel is strong and easy to clean. It has a plastic lid, because plastic can be made to fit tightly and bend a little.",
-     "why": "A strong answer names a real object, every material in it, and a property that fits each job.",
-     "how": "a1",
-     "context": "In the Why Is It Made of That? hunt, you go round your home and write down what each thing is made of, and why."
-    },
-    {
      "t": "draw",
      "p": "Draw your school bag. Label three materials it is made of. Next to each label, write the job that material does.",
      "a": "For example: cloth or nylon for the body, because it is strong and light. A plastic or metal zip, because it is stiff and slides. Foam in the straps, because it is soft on the shoulders.",
@@ -1011,15 +1026,6 @@
      "why": "Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says being hard is not the same as being hard to break."
     },
     {
-     "t": "write",
-     "p": "After the Hot Spoon Race, write three sentences. What did you guess before? What did you see? Why do you think it happened?",
-     "lines": 4,
-     "a": "For example: I guessed the plastic spoon would get hot first. I saw the butter on the steel spoon melt first, after about 4 minutes. I think it happened because steel is a metal, and metals are good conductors of heat.",
-     "why": "A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using the word conductor.",
-     "how": "e1",
-     "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of a steel, a plastic and a wooden spoon. You stand them in hot water and time how long each blob takes to melt."
-    },
-    {
      "t": "mcq",
      "p": "A girl puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?",
      "opts": [
@@ -1043,13 +1049,13 @@
      "t": "mcq",
      "p": "Look at the chart from the Hot Spoon Race. The plastic spoon's butter melted after 14 minutes. The wooden spoon's butter had not melted by 15 minutes. What does this tell you?",
      "opts": [
-      "Plastic is an insulator, but here it let heat through a little faster than wood",
+      "Plastic and wood are both insulators: they carried heat much more slowly than steel",
       "Plastic is a conductor, like steel",
       "Plastic makes its own heat",
-      "The plastic spoon had more butter"
+      "Wood is a conductor"
      ],
      "a": 0,
-     "why": "Plastic took more than three times as long as steel, so it is an insulator. But it was a little quicker than wood, so it is a slightly weaker one. Picking 'a conductor, like steel' misses how big the gap is: 4 minutes against 14. A strong answer compares the numbers.",
+     "why": "Steel melted its butter in 4 minutes. Plastic took 14, and wood had still not melted at 15. Both carried heat far more slowly than steel, so both are insulators. Picking 'a conductor, like steel' ignores how big the gap is. A strong answer compares the numbers.",
      "how": "e1",
      "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of a steel, a plastic and a wooden spoon. You stand them in hot water and time how long each blob takes to melt.",
      "chart": {
@@ -1101,17 +1107,23 @@
      "context": "In the Matka Mystery test, you leave the same water in a clay pot, a plastic bottle and a steel bottle, side by side in the shade, for three hours. Then you measure which water is coolest."
     },
     {
-     "t": "truefalse",
-     "p": "A clay pot cools water best on a hot, dry, windy day, and worst on a sticky, damp day.",
-     "a": true,
-     "why": "True. Water evaporates fast into dry, moving air. On a sticky monsoon day, the air already holds lots of water, so evaporation is slow and the pot cools less. A strong answer links the weather to how fast water can evaporate."
-    },
-    {
      "t": "write",
      "p": "Some steel cooking pots have a layer of copper on the bottom. Why would a cook want copper there?",
      "lines": 3,
      "a": "A strong answer says copper is an even better conductor of heat than steel. It spreads the flame's heat quickly across the whole bottom of the pot. So the food cooks evenly and does not burn in one spot.",
      "why": "This is two materials in one object, each doing a job. Steel is strong and easy to clean. Copper spreads the heat."
+    },
+    {
+     "t": "mcq",
+     "p": "Aeroplanes are made mostly of aluminium, not steel. Why?",
+     "opts": [
+      "Aluminium is much lighter, and strong enough for the job",
+      "Aluminium is stronger than steel in every way",
+      "Steel cannot be shaped",
+      "Aluminium is cheaper than paper"
+     ],
+     "a": 0,
+     "why": "This is a trade-off. Steel is stronger, but a plane made of steel would be far too heavy to fly well. Aluminium is lighter and still strong enough. Picking 'stronger in every way' forgets that steel is the stronger metal. A strong answer weighs strength against weight."
     },
     {
      "t": "fill",
@@ -1163,7 +1175,7 @@
        "Trapped air keeps heat in"
       ],
       [
-       "a crow fluffing up their feathers on a cold morning",
+       "a crow with fluffed-up feathers on a cold morning",
        "Trapped air keeps heat in"
       ],
       [
@@ -1215,15 +1227,6 @@
      ],
      "a": 0,
      "why": "In a fair test, only the cloth should change. If one tumbler starts hotter, it may end hotter whatever it is wrapped in. A strong answer names the one thing that should stay the same."
-    },
-    {
-     "t": "write",
-     "p": "Farhan, a boy in Class 4, says, 'A steel bottle keeps water colder than a clay pot, because steel feels colder when I touch it.' What would you tell him? How could he find out?",
-     "lines": 4,
-     "a": "A strong answer says steel feels cold because it takes heat from your hand quickly, not because it is colder. The way to find out is to test: fill a steel bottle and a clay pot with the same water, leave them side by side, and measure both with a thermometer after three hours.",
-     "why": "How a material feels is not the same as its temperature. The Matka Mystery test is the fair way to answer the question.",
-     "how": "e3",
-     "context": "In the Matka Mystery test, you leave the same water in a clay pot, a plastic bottle and a steel bottle, side by side in the shade, for three hours. Then you measure which water is coolest."
     },
     {
      "t": "draw",
@@ -1306,7 +1309,7 @@
      "views": [
       {
        "who": "Sheeba, who fishes off the coast of Kochi",
-       "says": "Ban them. Plastic fills my nets instead of fish, and it never rots away."
+       "says": "Ban them. Plastic fills my nets instead of fish, and plastic never rots away."
       },
       {
        "who": "Dr Anitha, a doctor in Hyderabad",
@@ -1472,7 +1475,7 @@
    "results_table": [
     "Spoon",
     "Minutes until the butter melted and slid",
-    "How the top of the spoon felt after 10 minutes"
+    "How the top of the spoon felt when the race ended"
    ],
    "materials": [
     {
@@ -1538,11 +1541,11 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. A grown-up lifts the spoons out. 2. The grown-up pours hot water into the mug until it is one finger-width below the rim. 3. Stand all three spoons back in at the same moment. 4. Start the timer. 5. Write down the time each pea falls.",
+     "do": "1. A grown-up lifts the spoons out. 2. The grown-up pours hot water into the mug until it is one finger-width below the rim. 3. Stand all three spoons back in at the same moment. 4. Start the timer. 5. Write down the time each pea falls. 6. When the race ends, touch the top end of each spoon with a fingertip.",
      "say": "Go! Now we watch. Call out the moment a pea drops.",
      "kid": "Ask a grown-up to pour the hot water. Stand the spoons in it. Start the timer. Shout when a pea falls! Write down the time.",
      "adult": true,
-     "parent": "Steel usually wins in 2 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. Then let the spoons cool a little and feel the handles: the steel is warm, the wood is cool. If even the steel blob has not melted after 8 minutes, the water was not hot enough or the spoon is very thin. Try again with hotter water."
+     "parent": "Steel usually wins in 2 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. At the end the steel top is warm and the wooden top is cool. If even the steel blob has not melted after 8 minutes, the water was not hot enough or the spoon is very thin. Try again with hotter water."
     },
     {
      "id": "s4",
@@ -1645,7 +1648,7 @@
   {
    "id": "e2",
    "title": "Does a Sweater Make Heat?",
-   "mins": 25,
+   "mins": 105,
    "days": 1,
    "context": "This is the sweater and ice cube test. You wrap ice cubes in different materials, including a woollen sock, and leave one bare. Then you check which melts first. It tests a big idea: does wool make heat, or does it slow heat down?",
    "question": "If wool makes heat, an ice cube in a woollen sock should melt fastest. Does it?",
@@ -1682,12 +1685,11 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up melted water so nobody slips.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Wrap the ice cubes, guess, and check them every 10 minutes until all have melted, which can take one to two hours. Read the explanation cards or do the Lotus Leaf activity while you wait."
+     "mins": 105,
+     "what": "Wrap the ice cubes and guess (8 minutes). Check them every 10 minutes until all four have melted, which can take up to an hour and a half. Read the explanation cards or do the Lotus Leaf activity while you wait. Then draw the chart and say what you think (7 minutes)."
     }
    ],
    "record": "Fill in the table. Draw a bar for each wrapping, as tall as the minutes its ice lasted.",
@@ -1720,11 +1722,11 @@
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. Write down when each one has fully melted. Keep checking until all four have melted. The sock's ice can take one to two hours.",
+     "mins": 90,
+     "do": "1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. At 30 minutes, write down how big each cube is. 4. Write down when each one has fully melted. Keep checking until all four have melted. The sock's ice can take up to an hour and a half.",
      "say": "Let's check. Which ice cube is smallest now? Which is biggest?",
      "kid": "Every 10 minutes, check each ice cube. Peep inside the sock. Which one is melting fastest? Which is still big?",
-     "parent": "Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air."
+     "parent": "Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different."
     },
     {
      "id": "s4",
@@ -1853,6 +1855,10 @@
      "qty": 2
     },
     {
+     "item": "a second steel tumbler or bottle like the first, for the wet-cloth test",
+     "qty": 1
+    },
+    {
      "item": "a jug of tap water, filled an hour before, so it is the same temperature as the room",
      "qty": 1
     },
@@ -1862,16 +1868,15 @@
      "buy": "b-thermometer"
     },
     {
-     "item": "a thin cotton cloth or hanky, for the extra test",
+     "item": "a thin cotton cloth or hanky, for the wet-cloth test",
      "qty": 1
     }
    ],
-   "safety": "A clay pot is brittle, so carry it with two hands. Wipe up spills.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Fill the three containers and measure the start temperature (10 minutes). Come back after 3 hours and measure again (20 minutes)."
+     "what": "Soak the clay pot for an hour beforehand. Fill the containers and measure the start temperature (11 minutes). Come back after 3 hours and measure again (19 minutes)."
     }
    ],
    "record": "Fill in the table. Work out how many degrees each one cooled down. Draw what the outside of the clay pot looked like.",
@@ -1879,23 +1884,23 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Show your child a clay pot. 2. Ask them to feel the outside after it has been soaking. 3. Ask why people keep drinking water in clay pots in summer.",
+     "do": "1. An hour before, put the clay pot in a bucket or sink of water to soak. 2. Show your child the pot and ask them to feel the outside. 3. Ask why people keep drinking water in clay pots in summer.",
      "say": "In many Indian homes, drinking water is kept in a clay pot in summer. People say it keeps the water cool. Is that true? And if it is, how?",
      "kid": "Feel the outside of the clay pot. Is it damp? People say a clay pot keeps water cool. Shall we test it?",
      "context": "This is the first step of the Matka Mystery. You test whether a clay pot really keeps water cooler than bottles."
     },
     {
      "id": "s2",
-     "mins": 6,
-     "do": "1. Pour the same amount of water from one jug into the pot, the plastic bottle and the steel bottle. 2. Measure the water in the jug with the thermometer and write it down. That is the start temperature for all three. 3. Stand them side by side in a shady place with a breeze, like a verandah or a window.",
-     "say": "All three start with the same water, at the same temperature. Only the container is different. That makes it fair.",
-     "kid": "Pour the same water into the pot and both bottles. Measure it with the thermometer. Write the number. Put them side by side in the shade.",
+     "mins": 7,
+     "do": "1. Pour the same amount of water from one jug into each of the four containers. 2. Measure the water in the jug with the thermometer and write it down. That is the start temperature for all four. 3. Wet the cotton hanky and wrap it round the second steel tumbler. 4. Stand all four side by side in a shady place with a breeze, like a verandah or a window.",
+     "say": "All four start with the same water, at the same temperature. Only the container is different. That makes it fair.",
+     "kid": "Pour the same water into the pot, both bottles and the second tumbler. Measure it with the thermometer. Write the number. Wrap a wet hanky round the second tumbler. Put them side by side in the shade.",
      "parent": "Read the thermometer at eye level. If you have only a fever thermometer, do not use it in water. A cheap kitchen or bath thermometer works well."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Leave the three containers for 3 hours. 2. Then feel the outside of each one. 3. Measure the water in each with the thermometer. 4. Write the numbers in the table.",
+     "do": "1. Leave the containers for 3 hours. 2. Then feel the outside of each one. 3. Measure the water in each with the thermometer. 4. Write the numbers in the table.",
      "say": "Feel the outside first. Which one is damp? Now let's measure.",
      "kid": "Three hours later, feel the outside of each one. Which is damp? Now measure the water in each one. Write the numbers.",
      "parent": "Use an unglazed pot. A shiny glazed or painted pot has its pores sealed, so it cools much less. On a dry, warm, breezy day, the clay pot water is often 3 to 8 degrees cooler than the bottles. On a sticky monsoon day, the difference is smaller, because water evaporates slowly into damp air. Either result is good science.",
@@ -1923,10 +1928,10 @@
     },
     {
      "id": "s4",
-     "mins": 6,
-     "do": "Extra test: 1. Wet the cotton hanky and wrap it round the steel bottle. 2. Leave it in the breeze for another hour. 3. Measure again.",
-     "say": "Can we make the steel bottle work like a clay pot? Let's give it a wet coat.",
-     "kid": "Wrap a wet hanky round the steel bottle. Leave it in the breeze for an hour. Is the water cooler now?",
+     "mins": 5,
+     "do": "Extra test: compare the steel tumbler wrapped in the wet hanky with the steel bottle that had no hanky.",
+     "say": "Can we make the steel work like a clay pot? We gave one steel tumbler a wet coat. Is its water cooler than the dry steel bottle's?",
+     "kid": "Compare the wrapped steel tumbler with the plain steel bottle. Is the water in the wrapped one cooler?",
      "think": "Soldiers and travellers once carried water in canvas bags that were always a little wet. Why might that keep the water cool?"
     },
     {
@@ -1995,7 +2000,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not touch the gas, sockets or anything hot. Ask before opening cupboards.",
+   "safety": "Do not touch the gas stove, electric sockets or anything hot.",
    "schedule": [
     {
      "day": 1,
@@ -2098,7 +2103,6 @@
      "qty": 4
     }
    ],
-   "safety": "Handle ceramic and clay plates gently, because they are brittle.",
    "schedule": [
     {
      "day": 1,
@@ -2273,7 +2277,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not light the candle. Wash your hands after touching leaves from outside.",
    "schedule": [
     {
      "day": 1,
@@ -2362,7 +2365,7 @@
      "qty": 1
     }
    ],
-   "safety": "Tap the glass and the clay pot very gently, because they are brittle.",
+   "safety": "Tap the glass gently with the spoon so it does not break.",
    "schedule": [
     {
      "day": 1,
@@ -2442,7 +2445,6 @@
      "qty": 3
     }
    ],
-   "safety": "Jiggle gently. Do not push each other.",
    "schedule": [
     {
      "day": 1,
@@ -2517,7 +2519,7 @@
      "buy": "b-claypot"
     },
     {
-     "item": "clean sand, enough to fill the gap (a plant nursery sells it). Without sand, pack the gap tightly with an old wet towel.",
+     "item": "clean sand, enough to fill the gap (sold at a plant nursery). Without sand, pack the gap tightly with an old wet towel.",
      "qty": 1
     },
     {
@@ -2538,7 +2540,7 @@
      "qty": 2
     }
    ],
-   "safety": "Clay pots are heavy when wet and brittle. A grown-up lifts and carries them. Keep the cooler in the shade.",
+   "safety": "Wet clay pots full of sand are heavy. A grown-up lifts and carries them.",
    "schedule": [
     {
      "day": 1,
@@ -2569,15 +2571,15 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Put a layer of sand in the bottom of the big pot. 2. Stand the small pot on it. 3. Fill the gap all round with sand. 4. Slowly pour water onto the sand until it is soaked but not flooding. 5. Cover the top with a wet cloth.",
+     "do": "1. Stand the big pot on a tray. 2. Put a layer of sand in the bottom of the big pot. 3. Stand the small pot on it. 4. Fill the gap all round with sand. 5. Slowly pour water onto the sand until it is soaked but not flooding. 6. Cover the top with a wet cloth.",
      "say": "The sand holds water like a sponge. The water will seep out through the big pot's clay and evaporate.",
-     "kid": "Put sand in the big pot. Stand the small pot on top. Fill the gap with sand. Pour water on the sand. Cover with a wet cloth.",
+     "kid": "Stand the big pot on a tray. Put sand in the big pot. Stand the small pot on top. Fill the gap with sand. Pour water on the sand. Cover with a wet cloth.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Put one coriander bunch inside the small pot. 2. Put the other in a bowl beside the cooler. 3. After an hour or two, measure the temperature inside the small pot and in the air outside. Write both.",
+     "do": "1. Put one coriander bunch inside the small pot. 2. Put the other in a bowl beside the cooler. 3. Keep the cooler in a shady, breezy spot. 4. After an hour or two, measure the temperature inside the small pot and in the air outside. Write both.",
      "say": "One bunch goes in the cooler. Its twin stays outside. That is our fair test.",
      "kid": "Put one coriander bunch in the cooler. Put its twin in a bowl outside. Measure inside and outside. Write both numbers.",
      "parent": "Measure inside after an hour or two, once the pot has had time to cool. In dry, hot weather, the inside is often 5 to 10 degrees cooler than the air. In sticky monsoon weather it cools less."
@@ -2650,9 +2652,9 @@
   {
    "id": "c1",
    "title": "Keep the Coffee Hot",
-   "mins": 35,
+   "mins": 58,
    "context": "This is a design challenge. You build a cosy, a warm jacket for a tumbler, from things at home. The cosy that keeps the water hottest after 30 minutes wins.",
-   "problem": "A tumbler of hot filter coffee goes cold before Paati gets back to drink it. Design a cosy from home materials that keeps a tumbler of hot water as hot as possible for 30 minutes.",
+   "problem": "A tumbler of hot filter coffee goes cold before anyone gets back to drink it. Design a cosy from home materials that keeps a tumbler of hot water as hot as possible for 30 minutes.",
    "constraints": [
     "Use only materials you find at home.",
     "The cosy must come off easily, so someone can drink.",
@@ -2670,7 +2672,7 @@
     "Put a mat or folded cloth underneath, so heat does not leak into the table."
    ],
    "creative": [
-    "Use layers, like a spacecraft's shiny blanket and the Ladakh classroom: a shiny layer of foil to reflect heat back, then a fluffy layer to trap air.",
+    "Use layers, like a spacecraft's shiny blanket and the Ladakh classroom: a fluffy layer to trap air, with a shiny layer of foil outside it. Foil alone helps only a little.",
     "Copy a flask. A flask has two walls with almost no air between them. Can you make two walls with a gap?",
     "Copy a bird. Birds fluff their feathers to trap more air. Can you fluff up your material?"
    ],
@@ -2693,10 +2695,10 @@
     },
     {
      "id": "s3",
-     "mins": 17,
-     "do": "1. A grown-up pours the same amount of hot water into both tumblers. 2. Measure the start temperature. 3. Put the cosy on one tumbler. Leave the other bare. 4. Wait 30 minutes, then measure both.",
+     "mins": 40,
+     "do": "1. A grown-up pours the same amount of hot water into both tumblers. 2. Measure the start temperature of both. 3. Put the cosy on one tumbler. Leave the other bare. 4. Measure both again every 10 minutes for 30 minutes. Write the numbers in a table.",
      "say": "Both start the same. Only one has a cosy. After 30 minutes, which is hotter?",
-     "kid": "Ask a grown-up to pour hot water in both tumblers. Measure them. Put your cosy on one. Wait 30 minutes. Measure both again.",
+     "kid": "Ask a grown-up to pour hot water in both tumblers. Measure them. Put your cosy on one. Measure both every 10 minutes for 30 minutes.",
      "adult": true,
      "chart": {
       "type": "table",
@@ -2834,7 +2836,7 @@
      "do": "Read the usual solutions and the creative ideas together. Then improve the design.",
      "say": "Shops really pack glass in bubble wrap, crumpled paper and cardboard. Which idea would you try next?",
      "kid": "Read the usual ways and the creative ideas. Which would you try next? Can you invent something new?",
-     "think": "Your helmet does the same job for your head. Which materials inside it are squashy?"
+     "think": "A cycle helmet does the same job for a head. Which materials inside it are squashy?"
     }
    ],
    "setup": [
@@ -2855,28 +2857,28 @@
  ],
  "videos": [
   {
-   "title": "Mark Miodownik: Stuff Matters, the materials of everyday life",
+   "title": "Stuff Matters by Mark Miodownik",
    "channel": "The Royal Society",
    "youtube": "zCzLDln5VGM",
    "mins": 15,
    "why": "For the parent: a materials scientist shows why everyday materials, like steel, glass and plastic, have the properties they have, and how we choose them.",
-   "check": "Found by YouTube search: \"Stuff Matters by Mark Miodownik\" by The Royal Society. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   },
   {
-   "title": "How a clay pot fridge works (Mitticool or the pot-in-pot cooler)",
-   "channel": "a news or science channel",
+   "title": "The Clay Pot Fridge That Worked Without Electricity!",
+   "channel": "NexReveal",
    "youtube": "xOtpWH5rlfI",
    "mins": 5,
-   "why": "Shows real clay coolers, the same idea as the Matka Mystery test and the Clay Pot Cooler project.",
-   "check": "Found by YouTube search: \"🏺 The Clay Pot Fridge That Worked Without Electricity! ❄️\" by NexReveal. Title checked automatically; a parent may still preview it."
+   "why": "Shows how a clay pot fridge keeps food cool without electricity, the same idea as the Matka Mystery test and the Clay Pot Cooler project.",
+   "check": "Title and channel confirmed on YouTube."
   },
   {
-   "title": "Conductors and insulators of heat for children",
-   "channel": "a science education channel",
+   "title": "Conductors and Insulators: science video for kids",
+   "channel": "Make It Easy Education",
    "youtube": "JX2f2EzSWHg",
    "mins": 5,
    "why": "A short, clear look at why metal pans get hot and wooden handles do not, matching the Hot Spoon Race.",
-   "check": "Found by YouTube search: \"CONDUCTORS AND INSULATORS || SCIENCE EDUCATIONAL VIDEO FOR KIDS\" by Make It Easy Education. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   }
  ],
  "quiz": [
@@ -3061,49 +3063,6 @@
   },
   {
    "t": "mcq",
-   "p": "Look at the chart. Which wrapping kept its ice cube frozen longest?",
-   "opts": [
-    "The woollen sock",
-    "The bare plate",
-    "The steel tumbler",
-    "The foil"
-   ],
-   "a": 0,
-   "why": "The sock's bar is tallest, at 95 minutes. Wool trapped air and slowed the room's heat. Picking 'bare plate' usually means the shortest bar was read as 'best'. Here a taller bar means the ice lasted longer.",
-   "outcome": 5,
-   "how": "e2",
-   "context": "In the sweater and ice cube test, you wrap ice cubes in different materials and time how long each takes to melt.",
-   "chart": {
-    "type": "bar",
-    "title": "Minutes until each ice cube melted (made-up results)",
-    "x": "Wrapping",
-    "y": "Minutes until melted",
-    "data": [
-     {
-      "label": "Bare plate",
-      "value": 40,
-      "emoji": "🍽️"
-     },
-     {
-      "label": "Steel tumbler",
-      "value": 45,
-      "emoji": "🥛"
-     },
-     {
-      "label": "Foil",
-      "value": 55,
-      "emoji": "✨"
-     },
-     {
-      "label": "Woollen sock",
-      "value": 95,
-      "emoji": "🧦"
-     }
-    ]
-   }
-  },
-  {
-   "t": "mcq",
    "p": "Why are metals good at carrying heat?",
    "opts": [
     "Some of their electrons move freely and carry energy quickly",
@@ -3233,7 +3192,6 @@
   "How many materials can you count in that bicycle?",
   "Which plate would you use for a party of a hundred people? Why?",
   "If you could invent one new material, what would it do?",
-  "The iron in that spoon was made in a star. Where do you think it has been since?",
   "Who decided what this table should be made of? Did they choose well?"
  ],
  "jokes": [
@@ -3246,36 +3204,16 @@
    "a": "It didn't want to get into a soggy situation."
   },
   {
-   "j": "What did the wooden spoon say to the steel spoon in the hot sambar?",
-   "a": "Keep cool, like me!"
-  },
-  {
-   "j": "Why is a sweater a good secret keeper?",
-   "a": "It never lets the warmth out."
-  },
-  {
    "j": "Why was the clay pot so calm in summer?",
    "a": "It always kept its cool."
-  },
-  {
-   "j": "What did the towel say to the raincoat?",
-   "a": "You never soak anything in!"
   },
   {
    "j": "Why did the glass chappal go to the doctor?",
    "a": "It had a crack in its sole."
   },
   {
-   "j": "Why are steel spoons such good friends?",
-   "a": "They always pass on the warmth."
-  },
-  {
    "j": "What do you call a rubber band that tells stories?",
    "a": "A stretcher of the truth."
-  },
-  {
-   "j": "Why did the ice cube love the woollen sock?",
-   "a": "It was the coolest hiding place."
   },
   {
    "j": "Why did the bamboo win the dance contest?",
@@ -3284,18 +3222,6 @@
   {
    "j": "What did the plastic bottle say on its birthday?",
    "a": "Only four hundred more to go!"
-  },
-  {
-   "j": "Why did the cotton wick get the job at the diya?",
-   "a": "It soaked up everything the boss said."
-  },
-  {
-   "j": "Why did the brick feel left out?",
-   "a": "Everyone said it was too rigid."
-  },
-  {
-   "j": "What did the lotus leaf say to the raindrop?",
-   "a": "Sorry, you just roll off me."
   },
   {
    "j": "Why did the egg love its box of cotton wool?",
@@ -3308,30 +3234,6 @@
   {
    "j": "Why did the sponge do so well at school?",
    "a": "It absorbed everything."
-  },
-  {
-   "j": "What did one clay pot say to the other in the cooler?",
-   "a": "Stay cool, I've got you surrounded."
-  },
-  {
-   "j": "Why did the bell never stop talking?",
-   "a": "Once it got started, it just kept ringing on."
-  },
-  {
-   "j": "Why was the aluminium foil so cheerful?",
-   "a": "It always reflected on the bright side."
-  },
-  {
-   "j": "Why don't steel and wood ever argue in the kitchen?",
-   "a": "Steel handles the heat and wood handles the hand."
-  },
-  {
-   "j": "What did the space blanket say to the Sun?",
-   "a": "Nice try, but I'm bouncing you back."
-  },
-  {
-   "j": "Why was the tea cosy invited to every party?",
-   "a": "It kept everyone warm."
   }
  ],
  "maths": [
@@ -3580,13 +3482,6 @@
    "why": "A living museum of old South Indian houses and crafts. See how builders chose laterite, wood, clay tiles and lime for hot, rainy weather."
   },
   {
-   "title": "A potter, a blacksmith or a weaver near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Ask a craftsperson why they use their material, and what it is good and bad at. Ask a potter why a clay pot is not glazed on the outside."
-  },
-  {
    "title": "ISRO",
    "url": "https://www.isro.gov.in",
    "kind": "interactive",
@@ -3598,20 +3493,19 @@
    "id": "b-thermometer",
    "item": "A kitchen or bath thermometer (0 to 100 degrees)",
    "kind": "tool",
-   "why": "Measures water temperature fairly, because your hand can be fooled. Used in the Matka Mystery, the Clay Pot Cooler and Keep the Coffee Hot.",
+   "why": "Measures water temperature fairly, because your hand can be fooled.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer",
    "used_in": [
     "e3",
     "p1",
     "c1"
-   ],
-   "plan": "Used again in the Heat and States of Matter units."
+   ]
   },
   {
    "id": "b-claypot",
    "item": "Small unglazed clay pots (one that fits inside another)",
    "kind": "material",
-   "why": "For the Matka Mystery and the Clay Pot Cooler. A local potter or a pot seller at the market often has them cheaply.",
+   "why": "A local potter or a pot seller at the market often has them cheaply.",
    "url": "https://www.amazon.in/s?k=small+clay+pot+unglazed",
    "used_in": [
     "e3",
@@ -3627,8 +3521,7 @@
    "used_in": [
     "c1",
     "c2"
-   ],
-   "plan": "If bought, read it before the first design challenge, Keep the Coffee Hot."
+   ]
   },
   {
    "id": "b-book2",
@@ -3638,8 +3531,7 @@
    "url": "https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires",
    "used_in": [
     "a3"
-   ],
-   "plan": "If bought, read it on the day of Take It Apart."
+   ]
   },
   {
    "id": "b-book3",
@@ -3649,8 +3541,7 @@
    "url": "https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik",
    "used_in": [
     "g1"
-   ],
-   "plan": "If bought, the parent reads the chapters on steel and plastic before playing Hire a Material."
+   ]
   }
  ],
  "warmup": [
@@ -3683,16 +3574,8 @@
    "a": "Waterproof cloth, steel ribs, and a plastic or wooden handle."
   },
   {
-   "q": "A steel railing feels colder than a wooden bench. Is it really colder?",
-   "a": "No. Steel just carries heat away from your hand faster."
-  },
-  {
    "q": "What is copying nature to make new materials called?",
    "a": "Biomimicry."
-  },
-  {
-   "q": "Where were the iron atoms in your spoon first made?",
-   "a": "Inside stars, long ago."
   }
  ],
  "plan": {

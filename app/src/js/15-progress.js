@@ -863,6 +863,23 @@ async function upFiles(files) {
     code = ui.up.err;
   S.work = [...(S.work || []), ...added];
   ui.up = null;
+  // art, crafts, experiments and places are learning from life too: each finds the topics it links to
+  added
+    .filter((x) => !["worksheet", "notebook"].includes(x.kind))
+    .forEach((x) =>
+      lifeRecord(
+        {
+          kind: x.kind === "outing" ? "went" : "did",
+          title: x.title,
+          text: (x.tags || []).join(", "),
+          date: x.date,
+          mins: 0,
+          work: x.id,
+          links: x.k ? [{ k: x.k, why: "" }] : [],
+        },
+        true,
+      ),
+    );
   if (added.length) {
     sfx("win");
     toast(

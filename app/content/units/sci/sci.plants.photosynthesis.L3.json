@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Pick up a mango stone. This seed fits in your palm, yet the mango tree they grow into can weigh more than a lorry. Where does all that tree come from?",
-  "text": "Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all their life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in it and gave the tree only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this unit, you will find out where the tree did come from.",
+  "text": "Most people, even most grown-ups, guess the soil. That seems obvious, because a plant sits in soil all their life. Nearly 400 years ago, Jan Baptist van Helmont, a doctor in what is now Belgium, tested that guess. He dried and weighed a big pot of soil. He planted a small willow tree in the pot and gave the tree only rainwater for five years. Then he weighed everything again. The tree had gained about 75 kilograms. The soil had lost only about 60 grams. So the tree did not come from the soil. In this unit, you will find out where the tree did come from.",
   "art": "A child holding a small mango seed in an open palm, with a huge mango tree towering behind, and a question mark drawn in the air between them."
  },
  "outcomes": [
@@ -170,7 +170,7 @@
    "definition": "Chlorophyll is the green colouring in leaves. It soaks up mostly red and blue light, and uses that light's energy to make food. It bounces most of the green light back, so leaves look green to us.",
    "description": "Sunlight looks white, but it is really a mix of all the colours of the rainbow. You can see them when sunlight shines through a glass of water or onto a CD. When light hits something, some colours are soaked up and some bounce off. The colours that bounce off reach your eyes, and that is the colour you see. Chlorophyll soaks up red and blue light very well. It soaks up much less green. So green light bounces back from leaves, and we see green. Leaves also have yellow and orange colourings. They help catch light too, and protect the leaf from too much sun. When a leaf gets old, the green chlorophyll breaks down first. Then the hidden yellow shows through. How a leaf's flat, wide shape helps it catch light is in the unit 'Parts of a plant and their jobs'.",
    "examples": [
-    "An old leaf on a peepal tree turns yellow before it falls.",
+    "An old leaf on a peepal tree turns yellow before the leaf falls.",
     "A strip of chalk dipped in leaf juice and spirit shows a green band and a yellow band.",
     "Moong sprouts grown in a dark cupboard are pale yellow. Moong makes their green chlorophyll only in light."
    ],
@@ -283,7 +283,7 @@
    "concept": "Plants respire too, all day and all night",
    "status": "defined",
    "definition": "Plants use their own sugar for energy by respiration. They take in oxygen and give out carbon dioxide, day and night, just as we do. In daylight they make much more oxygen than they use, so overall they give it out.",
-   "description": "Plants need energy to grow, to build flowers and to mend themselves. They get that energy by breaking down their own sugar, using oxygen. This is respiration, and every living cell does it, in plants and in people. Roots need oxygen from the air in the soil too. That is one reason plants in soggy, waterlogged soil droop. In the day, photosynthesis is much faster than respiration. So a leaf in sunlight gives out far more oxygen than it uses. At night there is no photosynthesis. The plant only respires, so they take in a little oxygen and gives out a little carbon dioxide. An Indian scientist, Kamala Sohonie, helped show how alike plants and animals are inside. She worked in Cambridge in the late 1930s. She found that cytochrome c, a substance animals use in respiration, is in plants too.",
+   "description": "Plants need energy to grow, to build flowers and to mend themselves. They get that energy by breaking down their own sugar, using oxygen. This is respiration, and every living cell does it, in plants and in people. Roots need oxygen from the air in the soil too. That is one reason plants in soggy, waterlogged soil droop. In the day, photosynthesis is much faster than respiration. So a leaf in sunlight gives out far more oxygen than it uses. At night there is no photosynthesis. The plant only respires, so they take in a little oxygen and give out a little carbon dioxide. An Indian scientist, Kamala Sohonie, helped show how alike plants and animals are inside. She worked in Cambridge in the late 1930s. She found that cytochrome c, a substance animals use in respiration, is in plants too.",
    "examples": [
     "A pile of fresh grass clippings gets warm inside, because the grass cells, and tiny microbes in the pile, are respiring.",
     "A potato in a dark cupboard is respiring slowly. They slowly use up some of their stored food, and go soft."
@@ -426,7 +426,7 @@
    "concept": "Who worked out photosynthesis",
    "status": "defined",
    "definition": "Photosynthesis was not discovered by one person. It was pieced together over more than 300 years, by many people in many countries.",
-   "description": "In the first half of the 1600s, Jan Baptist van Helmont showed that a tree is not made of soil. In 1771, Joseph Priestley in England put a sprig of mint in a sealed jar where a candle had burned out. About four weeks later, a candle could burn in that air again. The plant had 'restored' the air. In 1779, Jan Ingenhousz, a Dutch doctor, did hundreds of tests in one summer. He showed that only the green parts of plants do this, and only in light. In 1782, Jean Senebier in Geneva showed that plants need 'fixed air', which we call carbon dioxide. In 1804, Nicolas-Théodore de Saussure showed that water is used too. In the 1940s and 1950s, Melvin Calvin, Andrew Benson and James Bassham in California traced exactly how carbon is built into sugar. In India, Jagadish Chandra Bose wrote a book on photosynthesis in 1924, after years of careful measurements on plants.",
+   "description": "In the first half of the 1600s, Jan Baptist van Helmont showed that a tree is not made of soil. In 1771, Joseph Priestley in England put a sprig of mint in a sealed jar where a candle had burned out. About ten days later, a candle could burn in that air again. The plant had 'restored' the air. In 1779, Jan Ingenhousz, a Dutch doctor, did hundreds of tests in one summer. He showed that only the green parts of plants do this, and only in light. In 1782, Jean Senebier in Geneva showed that plants need 'fixed air', which we call carbon dioxide. In 1804, Nicolas-Théodore de Saussure showed that water is used too. In the 1940s and 1950s, Melvin Calvin, Andrew Benson and James Bassham in California traced exactly how carbon is built into sugar. In India, Jagadish Chandra Bose wrote a book on photosynthesis in 1924, after years of careful measurements on plants.",
    "examples": [
     "Priestley's mint is why people say plants 'freshen the air'.",
     "Ingenhousz showed the same plant did the opposite at night, using up some of the good air."
@@ -554,26 +554,6 @@
    "hint": "Can you see the carbon dioxide you breathe out? Things can be real and still invisible."
   },
   {
-   "q": "The energy in your breakfast came from the Sun. So are you, in a way, running on sunshine?",
-   "kind": "deep",
-   "hint": "Follow your idli back: rice, leaf, sunlight. Where did the Sun get its energy?"
-  },
-  {
-   "q": "When a tree burns, where does the tree go?",
-   "kind": "deep",
-   "hint": "Look at how little ash is left. The rest went back to where it came from."
-  },
-  {
-   "q": "You breathe out carbon dioxide, and a tree takes it in. The tree gives out oxygen, and you breathe it in. Where does the air stop and you begin?",
-   "kind": "big",
-   "hint": "Some of the carbon in your body was once in a leaf. Some of it may be in a leaf next year."
-  },
-  {
-   "q": "A mango is built from air that everyone breathes out, from rain and from sunlight. So who owns it: the person who owns the land, or everyone?",
-   "kind": "big",
-   "hint": "Think about what the mango is made of. Which of those things can anyone buy?"
-  },
-  {
    "q": "Plants feed almost every animal and made most of the oxygen in the air. Why do people so often notice animals and walk past plants?",
    "kind": "big",
    "hint": "Think about how slowly plants move, and how quietly they work. Is quiet the same as unimportant?"
@@ -592,11 +572,6 @@
    "q": "Ingenhousz, Benson and Karpilov did important work but are not famous. Why do some names get remembered and others forgotten?",
    "kind": "big",
    "hint": "Think about who was in charge, who spoke the most common language and who was in the right place."
-  },
-  {
-   "q": "If people one day live on Mars, could plants make their food and air? What would those plants need?",
-   "kind": "deep",
-   "hint": "Mars has sunlight, a thin air full of carbon dioxide, and ice. What is missing?"
   },
   {
    "q": "Plants have made food from light for billions of years, and mend their own leaves every day. No machine can yet grow, mend itself and make food from light. What does that tell us about living things?",
@@ -643,7 +618,7 @@
    "That afternoon, Malar lay on her back under the mango tree, in the speckled shade. She breathed out slowly, all the way, until her chest was empty. Somewhere above her, a leaf in the sunlight was taking that breath and keeping it.",
    "Next summer, she thought, a little bit of me will be a mango."
   ],
-  "epiphany": "For the parent: the tree is not made of soil. Malar's clue is the scratch in the tulsi pot. Years of growth, and the soil has not gone down. A plant's dry body is built mostly from carbon dioxide in the air. It is joined with water using the energy of sunlight. Only a tiny pinch is minerals from the soil. Burning shows it too: a log goes back into the air and leaves a little ash, the soil part. The story also quietly asks who owns what is made from things everyone shares.",
+  "epiphany": "For the parent: a tree is not made of soil. In the story, Malar's clue is the scratch in the tulsi pot, where the soil never sank. That is made up, and in a real pot the soil settles a little. The real evidence is Van Helmont's weighed willow. A plant's dry body is built mostly from carbon dioxide in the air, joined with water using the energy of sunlight. Only a tiny pinch is minerals from the soil. Burning shows it too: a log goes back into the air and leaves a little ash, the soil part.",
   "ask": [
    "Govindan Mudalali said every mango was made of his land. What clue showed Malar that this was wrong?",
    "Why did Malar's mother scratch a line inside the tulsi pot?",
@@ -664,15 +639,60 @@
    "id": "g1",
    "title": "Leaf Kitchen",
    "mins": 25,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "cards",
      "title": "48 ingredient cards to cut out",
      "items": [
-      "16 SUNLIGHT cards ☀️",
-      "16 WATER cards 💧",
-      "16 CARBON DIOXIDE cards 💨"
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "SUNLIGHT ☀️",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "WATER 💧",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨",
+      "CARBON DIOXIDE 💨"
      ]
     },
     {
@@ -685,53 +705,69 @@
       "RAIN: take 2 extra WATER cards.",
       "DRY SPELL: your stomata close to save water. Take no CARBON DIOXIDE this turn.",
       "A FAMILY WALKS PAST AND BREATHES OUT: take 2 extra CARBON DIOXIDE cards.",
-      "A GOAT NIBBLES YOU: lose 1 LEAF, if you have one.",
-      "A CATERPILLAR EATS A LEAF: lose 1 LEAF, but a bird gets a meal.",
+      "A GOAT NIBBLES YOUR PLANT: lose 1 LEAF, but only if you have 2 or more.",
+      "A CATERPILLAR EATS A LEAF: lose 1 LEAF, but only if you have 2 or more. A bird gets a meal.",
       "GROWING TAKES ENERGY: pay 1 SUGAR for respiration.",
       "GROWING TAKES ENERGY: pay 1 SUGAR for respiration.",
       "A NEW LEAF OPENS: if you have 2 SUGAR, you may build a LEAF now.",
       "TOO MUCH WATER: your roots cannot get oxygen. Lose 1 SUGAR.",
-      "A BEE VISITS YOUR FLOWER: if you have a FLOWER, take 1 SEED for free.",
+      "A BEE VISITS YOUR FLOWER: if you have a FLOWER, your SEED costs 2 SUGAR less this turn.",
       "FALLEN LEAVES ROT: everyone takes 1 CARBON DIOXIDE.",
       "SMOKE FROM A FIRE: everyone takes 1 CARBON DIOXIDE, but loses 1 SUNLIGHT.",
       "SHADE FROM A BIG TREE: lose 1 SUNLIGHT.",
       "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
-      "QUESTION: say where the oxygen from your leaf goes. Right answer: take 1 SUGAR.",
-      "QUESTION: say what the soil gives you. Right answer: take 1 SUGAR.",
-      "QUESTION: say why leaves are green. Right answer: take 1 SUGAR."
+      {
+       "f": "QUESTION: say where the oxygen from your leaf goes. If you are right, take 1 SUGAR.",
+       "b": "Answer: it goes out through the stomata into the air, where animals and people breathe it."
+      },
+      {
+       "f": "QUESTION: say what the soil gives your plant. If you are right, take 1 SUGAR.",
+       "b": "Answer: water and a pinch of minerals, not food. The food is made in the leaves."
+      },
+      {
+       "f": "QUESTION: say why leaves are green. If you are right, take 1 SUGAR.",
+       "b": "Answer: chlorophyll soaks up red and blue light and bounces green light back."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "Sugar cubes, oxygen bubbles and building tiles",
+     "title": "Sugar and oxygen tokens",
      "items": [
-      "30 SUGAR tokens (sugar cubes, or paper squares)",
-      "30 OXYGEN bubble tokens (small blue circles)",
-      "Building tiles: LEAF costs 2 SUGAR, STEM costs 2 SUGAR, ROOT costs 2 SUGAR, FLOWER costs 3 SUGAR, SEED costs 4 SUGAR"
+      "30 SUGAR tokens: cut 30 small paper squares, or use sugar cubes",
+      "30 OXYGEN bubble tokens: cut 30 small blue paper circles",
+      "1 coin or button for each space a player builds: about 8 for each player"
      ]
     },
     {
      "kind": "board",
      "title": "A plant mat for each player",
      "items": [
-      "A pot with an empty plant outline: spaces for roots, stem, leaves, flowers and seeds",
-      "A small 'Leaf Kitchen' box where you trade ingredients for sugar"
+      "ROOT space: costs 2 SUGAR",
+      "STEM space: costs 2 SUGAR",
+      "LEAF space 1: every player starts with this one built",
+      "LEAF space 2: costs 2 SUGAR",
+      "LEAF space 3: costs 2 SUGAR",
+      "FLOWER space: costs 3 SUGAR",
+      "SEED space: costs 4 SUGAR, and you need a FLOWER first",
+      "LEAF KITCHEN box: for each LEAF built, trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR"
      ]
     }
    ],
    "rules": [
-    "Each player starts with a plant mat, 1 LEAF tile and 2 of each ingredient card.",
-    "On your turn, first take one weather and life card and do what it says.",
-    "Then take 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE card from the piles.",
-    "Leaf Kitchen: for each LEAF you have, you may trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR. Each time, put 1 OXYGEN bubble into the middle of the table, for the air.",
-    "Spend SUGAR to build tiles on your plant mat. More leaves let you make more sugar.",
-    "The first plant to build at least 1 root, 1 stem, 3 leaves, 1 flower and 1 seed wins. Then count the oxygen bubbles together. That is the air your plants made for everyone."
+    "Each player starts with a plant mat, a coin on LEAF space 1 and 2 of each ingredient card.",
+    "On your turn, first take one weather and life card and do what it says. If you cannot pay or lose what it says, pay or lose what you have. When the weather and life cards run out, shuffle them and use them again.",
+    "Then take 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE card from the piles. Cards you hand in go back under their piles.",
+    "Leaf Kitchen: for each LEAF you have built, you may trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR. Each time, put 1 OXYGEN bubble into the middle of the table, for the air. If the oxygen bubbles run out, make a tally mark on paper instead.",
+    "Spend SUGAR to build on your plant mat: put a coin on a space and put the SUGAR back in the middle. More leaves let you make more sugar.",
+    "When you draw a QUESTION card, another player reads it aloud. You answer, then they read the back and check you.",
+    "The first plant to build the ROOT, the STEM, all 3 LEAF spaces, the FLOWER and the SEED wins. Then count the oxygen bubbles together. That is the air your plants made for everyone."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give each player a plant mat, 1 LEAF tile and 2 of each ingredient card. 2. Put the ingredient piles, the sugar tokens and the oxygen bubbles in the middle. 3. Shuffle the weather and life cards face down.",
+     "do": "1. Give each player a plant mat, a coin on LEAF space 1 and 2 of each ingredient card. 2. Put the ingredient piles, the sugar tokens and the oxygen bubbles in the middle. 3. Shuffle the weather and life cards face down.",
      "say": "In this game, each of us is a plant. We cannot eat. We must make our own food in our leaves, from sunlight, water and carbon dioxide.",
      "kid": "You are a plant! You cannot eat food. You make it in your leaves. You need sunlight, water and carbon dioxide.",
      "context": "This is the first step of Leaf Kitchen. It is a card game where each player is a plant that makes their own food by photosynthesis. Here you set up the game."
@@ -758,7 +794,7 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "1. Take turns. Draw a weather and life card, then collect 3 ingredient cards. 2. Trade ingredients for sugar in the Leaf Kitchen. 3. Build tiles. 4. Read the QUESTION cards aloud and answer them together.",
+     "do": "1. Take turns. Draw a weather and life card, then collect 3 ingredient cards. 2. Trade ingredients for sugar in the Leaf Kitchen. 3. Build on your plant mat. 4. When you draw a QUESTION card, another player reads it aloud and checks your answer on the back.",
      "say": "Watch what happens on a NIGHT card. You can't make sugar, but you still have to pay sugar. Plants respire all the time: they use up food for energy, day and night.",
      "kid": "Take turns. Draw a card and do what it says. Make sugar. Build your plant. On a NIGHT card, you still pay sugar. Plants use food all night!",
      "ask": [
@@ -827,11 +863,11 @@
    "id": "g2",
    "title": "Photon Relay",
    "mins": 20,
-   "players": "3 or more players, in a big room, a terrace or outdoors",
+   "players": "2 or more players, in a big room or on a terrace",
    "printables": [
     {
      "kind": "cards",
-     "title": "Role cards to hang round your neck",
+     "title": "Role cards to hang round your neck, or to put on chairs",
      "items": [
       "SUN ☀️",
       "LEAF 🌿",
@@ -845,41 +881,44 @@
     },
     {
      "kind": "tokens",
-     "title": "Light batons and atom balls",
+     "title": "Light batons and carbon balls",
      "items": [
-      "15 yellow 'light batons' (rolled yellow paper)",
-      "10 black 'carbon' balls (crumpled black paper or socks)"
+      "15 yellow 'light batons': roll 15 strips of yellow paper",
+      "10 black 'carbon' balls: crumple 10 pieces of black paper, or use socks"
      ]
     },
     {
      "kind": "score sheet",
      "title": "Energy chain sheet",
      "items": [
-      "Who got the light first?",
-      "How many hands did the energy pass through?",
-      "Where did the carbon balls end up?",
-      "What did the cloud do?"
+      "How many light batons did the SUN send?",
+      "How many batons ended in the WARMTH bucket?",
+      "Who sat down, and when?",
+      "Where did the carbon balls go after the FUNGUS took them?",
+      "What did the CLOUD change?"
      ]
     }
    ],
    "rules": [
-    "The SUN stands at one end. The LEAVES stand in the middle, next to a basket of black carbon balls, which is the 'air'.",
+    "With 2 players, the child is the LEAF and the parent is the SUN. Put the CATERPILLAR, BIRD, MONGOOSE and FUNGUS cards on four chairs in a line. After the SUN has sent the light, the parent walks each sugar along the chairs. With 3 or more players, other people take these roles.",
+    "The SUN stands at one end. The LEAF stands in the middle, next to a basket of black carbon balls, which is the 'air'. A bucket marked WARMTH stands near the animals.",
     "The SUN runs light batons to a LEAF, one baton on each trip. Only a leaf can take light.",
-    "When a LEAF holds 3 light batons, it picks up one carbon ball. The ball with its 3 batons is now one sugar.",
-    "The CATERPILLAR may take a sugar from a leaf. The BIRD may take it from the caterpillar. The MONGOOSE may take it from the bird.",
-    "At each handover, the giver drops one baton into a 'warmth' bucket and passes on the ball and the batons that are left. This is the energy used up for living.",
-    "Anyone holding a carbon ball with no batons left has no energy left. They sit down. The FUNGUS takes their carbon ball and throws it back into the air basket.",
-    "The CLOUD may stand between the SUN and a LEAF and block it for 10 seconds."
+    "When a LEAF holds 3 light batons, the leaf picks up one carbon ball. The ball with its 3 batons is now one sugar.",
+    "The CATERPILLAR may take a sugar from a leaf. The BIRD may take the sugar from the caterpillar. The MONGOOSE may take the sugar from the bird.",
+    "At each handover, the giver drops one baton into the WARMTH bucket and passes on the ball and the batons that are left. This is the energy used up for living.",
+    "Anyone holding a carbon ball with no batons left has no energy left. They sit down. The FUNGUS takes the carbon ball and throws it back into the air basket.",
+    "The CLOUD may stand between the SUN and a LEAF and block the light for 10 seconds. The CLOUD is an extra role. With 2 players, the parent steps in as the cloud for one round.",
+    "The game ends when the SUN has no batons left. Count the batons in the WARMTH bucket and the carbon balls back in the basket, then fill in the energy chain sheet."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give out the role cards. 2. Put the SUN at one end of the room. 3. Put the air basket of black carbon balls by the LEAVES.",
+     "do": "1. Give out the role cards. With 2 players, put the animal cards on chairs. 2. Put the SUN at one end of the room. 3. Put the air basket of black carbon balls by the LEAF, and the WARMTH bucket by the animals.",
      "say": "This game shows how the Sun's energy travels into a leaf, and then from animal to animal. The black balls are carbon atoms from the air.",
      "kid": "Pick a role card. The Sun gives out light. Only leaves can catch it. The black balls are carbon from the air.",
      "adult": true,
-     "context": "This is the first step of Photon Relay, a running game. A photon is a tiny packet of light. The game shows how sunlight's energy passes from a leaf into animals."
+     "context": "This is the first step of Photon Relay, a running game. A photon is a tiny packet of light. The game shows how the energy of sunlight passes from a leaf into animals."
     },
     {
      "id": "s2",
@@ -908,7 +947,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Play one round with the CLOUD blocking the Sun, and with the FUNGUS returning carbon balls to the air.",
+     "do": "Play one more round with the CLOUD blocking the Sun, and with the FUNGUS returning carbon balls to the air. With 2 players, the parent steps between the Sun and the leaf for 10 seconds.",
      "say": "What happens to the whole chain when the cloud blocks the light? And what does the fungus do with the carbon?",
      "kid": "Now the cloud blocks the Sun. What happens to everyone? Watch the fungus. Where do the carbon balls go?",
      "check": {
@@ -932,7 +971,7 @@
      "think": "The carbon in your body has been in leaves, animals and air many times before. Who might it have belonged to?"
     }
    ],
-   "context": "This is a running game based on the DeepKids 'photon relay' idea. Players pass light from the Sun to leaves, and sugar from leaves to animals. It shows that energy comes from the Sun and carbon goes round and round.",
+   "context": "This is a running game. Players pass light from the Sun to a leaf, and sugar along a food chain. It shows that energy comes fresh from the Sun and carbon goes round and round.",
    "setup": [
     {
      "art": "Children in a big room wearing paper role cards: a sun at one end, two leaves in the middle with a basket of black paper balls, and animals waiting in a line.",
@@ -3126,7 +3165,7 @@
    "youtube": "sQK3Yr4Sc_k",
    "mins": 13,
    "why": "For the parent and curious older children: the whole story of photosynthesis, including light reactions and the Calvin cycle, told fast and clearly.",
-   "check": "Video id recalled, not opened from here. A parent should check that it plays and is the CrashCourse photosynthesis episode before showing it."
+   "check": "Opened and confirmed on YouTube: the title and channel match."
   },
   {
    "title": "Where do trees get their mass?",
@@ -3134,7 +3173,7 @@
    "youtube": "2KZb2_vcNTg",
    "mins": 6,
    "why": "Derek Muller asks people in the street where a tree's wood comes from. Almost everyone says the soil. A perfect match for the big surprise of this unit.",
-   "check": "Found by YouTube search: \"Where Do Trees Get Their Mass?\" by Veritasium. Title checked automatically; a parent may still preview it."
+   "check": "Opened and confirmed on YouTube: the title and channel match."
   },
   {
    "title": "Little Scientist #11: Photosynthesis and Floating Leaf-Disks",
@@ -3142,7 +3181,7 @@
    "youtube": "aPvszIwAZkg",
    "mins": 5,
    "why": "Shows the leaf disc experiment step by step, so the parent can see how to use the syringe before trying it at home.",
-   "check": "Found by YouTube search: \"Little Scientist #11: Photosynthesis and Floating Leaf-Disks\" by Kuala Lumpur Engineering Science Fair -KLESF. Title checked automatically; a parent may still preview it."
+   "check": "Opened and confirmed on YouTube: the title and channel match."
   }
  ],
  "quiz": [
@@ -3463,130 +3502,48 @@
   "Which do you think made more of the oxygen you breathed today: the trees on land, or the tiny living things in the sea?",
   "Where did the energy for your run today come from, all the way back?",
   "Why are the leaves at the top of a tree often smaller and thicker than the ones in the shade below?",
-  "If you could see carbon dioxide, what would the air in this room look like?",
-  "Who owns the sunlight that falls on our balcony?",
-  "What would you plant on Mars first, and why?"
+  "If you could see carbon dioxide, what would the air in this room look like?"
  ],
  "jokes": [
   {
-   "j": "Why did the leaf go to the kitchen?",
-   "a": "To cook up some sunshine."
-  },
-  {
-   "j": "What is a tree's favourite drink?",
-   "a": "Root beer, with a little sunshine on top."
-  },
-  {
-   "j": "Why are leaves never late for breakfast?",
-   "a": "They make it themselves."
-  },
-  {
-   "j": "What did the plant say to the carbon dioxide?",
-   "a": "Come in, I'll make you a sweet."
-  },
-  {
-   "j": "Why do trees love sunny days?",
-   "a": "It's when they make the most dough."
-  },
-  {
-   "j": "What did the Sun say to the leaf?",
-   "a": "I've got a photon for you!"
-  },
-  {
-   "j": "Why did the potato blush when they met iodine?",
-   "a": "They had been caught being starchy."
-  },
-  {
    "j": "Why did the sunflower get top marks?",
    "a": "They were the brightest in the class."
-  },
-  {
-   "j": "What did the tree say to the person breathing out?",
-   "a": "Thanks for the snack."
-  },
-  {
-   "j": "Why was the mushroom never invited to the Leaf Kitchen?",
-   "a": "They can't cook. They only eat."
-  },
-  {
-   "j": "Why did the cactus not need any leaves?",
-   "a": "They liked to stem their own food."
-  },
-  {
-   "j": "What is a chloroplast's favourite colour?",
-   "a": "Anything but green. It gives green away."
-  },
-  {
-   "j": "Why did the leaf disc float to the top?",
-   "a": "It was full of good ideas, and oxygen."
-  },
-  {
-   "j": "Why did the tree go to the bank?",
-   "a": "To store their carbon."
-  },
-  {
-   "j": "What do you call a tree that makes their own lunch?",
-   "a": "Self-made."
-  },
-  {
-   "j": "Why did the plant keep the lights on at night?",
-   "a": "They were afraid of the dark. And hungry."
-  },
-  {
-   "j": "What did the water say to the leaf?",
-   "a": "Split me if you must, but keep my hydrogen safe."
-  },
-  {
-   "j": "Why did the Mudalali try to buy the sky?",
-   "a": "He heard the mangoes were made of it."
-  },
-  {
-   "j": "Why is a sugarcane field always cheerful?",
-   "a": "It's full of sweet sunshine."
-  },
-  {
-   "j": "What did one oxygen atom say to the other?",
-   "a": "Let's pair up and get out of this leaf."
-  },
-  {
-   "j": "Why were the tiny sea algae so popular?",
-   "a": "They made half the oxygen at the party."
-  },
-  {
-   "j": "Why don't plants ever get lost?",
-   "a": "They always follow the light."
-  },
-  {
-   "j": "What did the log say on the fire?",
-   "a": "I'm going back to the air where I came from."
   },
   {
    "j": "Why was the willow tree so light-hearted?",
    "a": "They were mostly made of air."
   },
   {
-   "j": "How does a leaf say goodbye in autumn?",
-   "a": "It shows its true yellow colours."
+   "j": "What do you call a photon that lands on a leaf?",
+   "a": "Lunch."
+  },
+  {
+   "j": "What did the Sun say to the leaf?",
+   "a": "I've got a photon for you!"
+  },
+  {
+   "j": "What did the tree say to the person breathing out?",
+   "a": "Thanks for the snack."
+  },
+  {
+   "j": "What do you call a tree that makes their own lunch?",
+   "a": "Self-made."
+  },
+  {
+   "j": "Why did the moong sprout in the cupboard look so pale?",
+   "a": "They hadn't seen the Sun in days."
   },
   {
    "j": "Why did the astronaut take a plant to Mars?",
    "a": "For a breath of fresh air."
   },
   {
-   "j": "What do you call a photon that lands on a leaf?",
-   "a": "Lunch."
+   "j": "Why are leaves never late for breakfast?",
+   "a": "They make it themselves."
   },
   {
-   "j": "Why did the limewater go cloudy?",
-   "a": "Someone breathed a secret into it."
-  },
-  {
-   "j": "What did the hydrilla say when the lamp came closer?",
-   "a": "Now I'm really bubbling with ideas!"
-  },
-  {
-   "j": "Why did the moong sprout in the cupboard look so pale?",
-   "a": "They hadn't seen the Sun in days."
+   "j": "Why did the leaf go to the kitchen?",
+   "a": "To cook up some sunshine."
   }
  ],
  "maths": [
@@ -3770,7 +3727,7 @@
    "answer": "7 kilograms in a week. 30 kilograms in 30 days.",
    "explain": "Each day adds 1 kilogram. A week has 7 days, so 7 × 1 = 7 kilograms. 30 days give 30 × 1 = 30 kilograms. That is about as heavy as a child of nine. Leaves around the world take in carbon dioxide like this all the time and build it into plants.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
-   "context": "In The Breath a Tree Eats, you blow into limewater and it turns milky. This shows your breath carries carbon dioxide, the gas leaves build sugar from.",
+   "context": "In The Breath a Tree Eats, you blow into limewater and the limewater turns milky. This shows your breath carries carbon dioxide, the gas leaves build sugar from.",
    "how": "a2",
    "answer_chart": {
     "type": "bar",
@@ -3832,7 +3789,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a famous science museum. On the DeepKids list of STEM websites."
+   "why": "Free, tested hands-on activities from a famous science museum in San Francisco."
   },
   {
    "title": "Acharya Jagadish Chandra Bose Indian Botanic Garden",
@@ -3867,7 +3824,7 @@
    "url": "",
    "kind": "place",
    "where": "anywhere",
-   "why": "On a sunny day, look closely at the water plants for tiny bubbles of oxygen. Aquarium shops sell hydrilla for the bubble count."
+   "why": "On a sunny day, look closely at the water plants for tiny bubbles of oxygen. Aquarium shops sell hydrilla for Count the Bubbles."
   }
  ],
  "buy": [
@@ -3875,7 +3832,7 @@
    "id": "b-syringe",
    "item": "Plastic syringes with no needle, 10 or 20 ml (often sold as oral or feeding syringes)",
    "kind": "tool",
-   "why": "To suck the air out of leaf discs so they sink, in the leaf disc experiment and The Fastest Float challenge.",
+   "why": "To suck the air out of leaf discs so they sink, in The Rising Leaf Discs and The Fastest Float.",
    "url": "https://www.amazon.in/s?k=oral+syringe+without+needle+20ml",
    "used_in": [
     "e1",
@@ -3886,7 +3843,7 @@
    "id": "b-iodine",
    "item": "Povidone-iodine solution, the brown antiseptic sold by chemists",
    "kind": "material",
-   "why": "Mixed with a little water, it turns blue-black on starch, in the starch picture experiment.",
+   "why": "Mixed with a little water, it turns blue-black on starch, in The Starch Picture.",
    "url": "https://www.amazon.in/s?k=povidone+iodine+solution",
    "used_in": [
     "e2"
@@ -3907,12 +3864,11 @@
    "id": "b-hydrilla",
    "item": "Hydrilla or another aquarium water plant",
    "kind": "material",
-   "why": "Gives off bubbles of oxygen you can count, in the bubble count.",
+   "why": "Gives off bubbles of oxygen you can count, in Count the Bubbles. Aquarium shops in most Indian towns sell it cheaply. Afterwards, keep it in a jar of water on a windowsill.",
    "url": "https://www.amazon.in/s?k=hydrilla+aquarium+plant",
    "used_in": [
     "e3"
-   ],
-   "plan": "Aquarium shops in most Indian towns sell these plants cheaply. Keep them in a jar of water on a windowsill afterwards. They make a good home pond plant."
+   ]
   },
   {
    "id": "b-chuna",
@@ -3928,24 +3884,22 @@
    "id": "b-scale",
    "item": "Digital kitchen scale that weighs in grams",
    "kind": "tool",
-   "why": "Weighs soil, seeds and plants in Van Helmont's Willow, and twigs and ash in Burn It Back to Air.",
+   "why": "Weighs soil, seeds and plants in Van Helmont's Willow, and twigs and ash in Burn It Back to Air. Many homes already have one.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
    "used_in": [
     "p1",
     "a5"
-   ],
-   "plan": "Many homes already have one. It is used again in weight units in maths and in Forces units."
+   ]
   },
   {
    "id": "b-book",
    "item": "Living Sunlight: How Plants Bring the Earth to Life, by Molly Bang and Penny Chisholm",
    "kind": "book",
-   "why": "A beautiful picture book told by the Sun, about photosynthesis and the breath we share with plants. Penny Chisholm is the scientist who discovered Prochlorococcus.",
+   "why": "A picture book told by the Sun, about photosynthesis and the breath we share with plants. Penny Chisholm is the scientist who discovered Prochlorococcus. Their next book, Ocean Sunlight, goes with the sea card. Read it on day 1, after the story.",
    "url": "https://www.amazon.in/s?k=Living+Sunlight+Molly+Bang+Penny+Chisholm",
    "used_in": [
-    "g1"
-   ],
-   "plan": "If bought, read it after the story on day 1. It can replace the first three explanation cards. Their next book, Ocean Sunlight, goes with the sea card."
+    "a1"
+   ]
   }
  ],
  "warmup": [
@@ -3986,7 +3940,7 @@
    "a": "About half."
   },
   {
-   "q": "In the story, what was the clue in the tulsi pot?",
+   "q": "In the story A Pinch of Soil, what was Malar's clue in the tulsi pot?",
    "a": "The soil was still on the scratched line after nine years."
   },
   {
@@ -4011,6 +3965,7 @@
    "intro",
    "terms",
    "e1",
+   "p1",
    "g1",
    "explanations",
    "a2",
@@ -4023,7 +3978,6 @@
    "a5",
    "agreed",
    "challenging",
-   "p1",
    "g2",
    "ws-stretch",
    "c1",
@@ -4041,7 +3995,6 @@
    "g1",
    "a2",
    "a4",
-   "a5",
    "ws-core",
    "p1"
   ],
@@ -4061,8 +4014,8 @@
    "plants.md: SCI Cards (Lynn Margulis, Kamala Sohonie, Janaki Ammal, Jagadish Chandra Bose)",
    "Founder's sheets, DeepKids HomeSchooling Track, Physics: 'Plant is our food. What is Plant's Food? Guess the answers, find out, discuss with parents' (used as the opening question and activity a1)",
    "Founder's sheets, DeepKids HomeSchooling Track, AI feedback: the building-block game (rebuild a house into a human into a plant) used as Build a Sugar",
-   "Founder's sheets, DeepKids V0.1, Week 7 'Let grow and grow' (growing your own plant and recording it) used in the five-week willow project",
-   "DeepKids Combined sci-C3-plants.json (Day 6 'A tree made of air', van Helmont's willow, the challenge 'do plants get food from the soil', 'plants make oxygen so never need any', 'when a tree burns where does it go'). Its story was not reused.",
+   "Founder's sheets, DeepKids V0.1, Week 7 'Let grow and grow' (growing a plant and writing down what happens) used in the five-week willow project",
+   "DeepKids Combined sci-C3-plants.json (Day 6 'A tree made of air', van Helmont's willow, the challenge 'do plants get food from the soil', 'plants make oxygen so never need any', 'when a tree burns, where does the wood go'). Its story was not reused.",
    "DeepKids Combined sci-C1-plants.json (the 'leaf kitchen' explanation and the dark-grown pale moong)",
    "DeepKids Combined sci-C3-seeds-plant-growth-and-plant-life-cycles.json (measuring growth and recording results)"
   ],
@@ -4109,7 +4062,7 @@
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
-    "teaching": "Look deeply at a sheet of paper, and you can see the cloud, the rain, the sunshine and the tree in it. Without them, the paper could not be.",
+    "teaching": "Look deeply at a sheet of paper, and you can see the cloud, the rain, the sunshine and the tree inside the paper. Without them, the paper could not be.",
     "link": "Paper is cellulose, built by a tree from carbon dioxide and water using sunlight. So the sunshine and the air really are in the paper."
    }
   ],

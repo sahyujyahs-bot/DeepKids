@@ -248,7 +248,7 @@ Years later, other scientists worked out what her squeezed oil films really were
 
 In 1932, when Agnes was seventy years old, the university in Braunschweig gave her an honorary doctorate. That same year, an American scientist named Irving Langmuir won the Nobel Prize, for work that grew from a tray very like hers. Agnes never won a Nobel Prize. But her notebook is remembered. In its early pages, the numbers jump about. Then, on one page, they stand still.
 
-**For the parent:** Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results. The story also quietly asks who is allowed to do science, and who gets the prize.
+**For the parent:** Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results.
 
 - Ask: At first, Agnes's numbers kept jumping about. What was really causing that?
 - Ask: What did Agnes do to make every test the same? Name three things.
@@ -258,10 +258,10 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 
 ## Games
 ### g1 · Fair or Unfair? (20 min)
-- **rules:** Cut out the 24 test cards. Shuffle them and put them face down in a pile.; On your turn, take the top card and read it out loud.; Decide: is this test fair or unfair? Put the card on the FAIR mat or the UNFAIR mat.; If it is unfair, say what else changed, besides the material. A correct answer wins one token.; If you draw a FIX IT card, say how to make the test fair. A good fix wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 test cards to cut out:** 1. A girl tests two cloths. She pours 1 spoon of water on the cotton and 1 spoon on the wool.; 2. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic.; 3. A girl tests three papers. Each strip is 2 cm wide and 15 cm long.; 4. A girl's toilet paper strip is 2 cm wide. Her kitchen towel strip is 4 cm wide.; 5. A girl adds one-rupee coins to every bag, one at a time.; 6. A girl adds one-rupee coins to the first bag and five-rupee coins to the second.; 7. A girl times every cloth for exactly 1 minute.; 8. A girl leaves the cotton for 1 minute and the plastic for 10 minutes.; 9. A girl hangs every rubber band from the same hook.; 10. A girl tests the thin band with 10 coins and the thick band with 20 coins, then says the thick band stretches more.; 11. A girl dips every paper strip 1 cm into the water.; 12. A girl dips the kitchen towel 1 cm into the water and the newspaper 4 cm.; 13. A girl tests each paper three times and writes down every try.; 14. A boy tests each paper once and keeps only the result he likes best.; 15. A girl uses fresh water from the same jug for every cloth.; 16. A girl tests the cotton outside in the hot sun and the wool inside in the shade.; 17. A girl drops every coin gently into the bag.; 18. A girl drops some coins gently and throws some in hard.; 19. A girl measures every band with the same ruler, from the bottom of the hook.; 20. A girl measures one band from the hook and one from the top of the bag.; 21. FIX IT: Make this fair. A test pours 2 spoons on cotton and 5 spoons on plastic.; 22. FIX IT: Make this fair. A test uses a dry strip of tissue and a wet strip of kitchen towel.; 23. FIX IT: Make this fair. A test times the first towel for 1 minute and the second for 5 minutes.; 24. FIX IT: Make this fair. A test hangs one band from a hook and one from a nail that bends.
+- **rules:** Cut out the 24 test cards. Shuffle them and put them face down in a pile.; On your turn, take the top card and read it out loud.; Decide: is this test fair or unfair? Put the card on the FAIR mat or the UNFAIR mat. A right decision wins one token.; If the card is unfair, also say what else changed, besides the material. That wins one more token.; If you draw a FIX IT card, put it beside the mats and say how to make the test fair. A good fix wins two tokens.; If the others disagree with an answer, talk it over. The parent decides.; When the cards run out, the player with the most tokens wins. If two players tie, they share the win.
+- **Printable cards: 24 test cards to cut out:** 1. A girl tests which cloth lets more rain through. She pours 1 spoon of water on the cotton and 1 spoon on the wool.; 2. A boy tests which material lets more rain through. He pours 1 spoon of water on the cotton and 3 spoons on the plastic.; 3. A girl tests which of three papers holds the most coins. Each paper strip is 2 cm wide and 15 cm long.; 4. A girl tests which paper strip holds more coins. Her toilet paper strip is 2 cm wide. Her kitchen towel strip is 4 cm wide.; 5. A girl tests how many coins three paper strips hold. She adds one-rupee coins to every strip's bag, one at a time.; 6. A girl tests which of two paper strips holds more coins. She adds one-rupee coins to the first strip's bag and five-rupee coins to the second strip's bag.; 7. A girl tests which cloth lets more water through. She times every cloth for exactly 1 minute.; 8. A girl tests which material lets more water through. She leaves the cotton for 1 minute and the plastic for 10 minutes.; 9. A girl tests which rubber band stretches most. She hangs every rubber band from the same hook.; 10. A girl tests which rubber band stretches more. She hangs 10 coins on the thin band and 20 coins on the thick band, then says the thick band stretches more.; 11. A girl tests which paper soaks up water fastest. She dips every paper strip 1 cm into the water.; 12. A girl tests which paper soaks up water fastest. She dips the kitchen towel 1 cm into the water and the newspaper 4 cm.; 13. A girl tests which of three papers holds the most coins. She tests each paper three times and writes down every try.; 14. A boy tests which of three papers holds the most coins. He tests each paper three times, then writes down only the best try for each paper and hides the others.; 15. A girl tests which cloth lets more water through. She uses fresh water from the same jug for every cloth.; 16. A girl tests which cloth dries faster. She puts the cotton outside in the hot sun and the wool inside in the shade.; 17. A girl tests how many coins a paper strip holds. She drops every coin gently into the bag.; 18. A girl tests how many coins a paper strip holds. She drops some coins gently into the bag and throws some in hard.; 19. A girl tests which rubber band stretches most. She measures every band with the same ruler, from the bottom of the hook.; 20. A girl tests which rubber band stretches most. She measures one band from the hook and another from the top of the bag.; 21. FIX IT: Make this fair. A test pours 2 spoons of water on cotton and 5 spoons on plastic, to see which lets more through.; 22. FIX IT: Make this fair. A test compares a dry strip of tissue with a wet strip of kitchen towel, to see which holds more coins.; 23. FIX IT: Make this fair. A test times the first kitchen towel for 1 minute and the second for 5 minutes, to see which soaks up more water.; 24. FIX IT: Make this fair. A test hangs one rubber band from a hook and another from a nail that bends, to see which stretches more.
 - **Printable board: Two playing mats:** FAIR: only the material changes; UNFAIR: something else changes too
-- **Printable tokens: 20 scientist tokens (small paper circles):** 🔬
+- **Printable tokens: 40 scientist tokens (small paper circles):** 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬; 🔬
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the FAIR mat and the UNFAIR mat on the floor. 2. Shuffle the 24 test cards and put them face down. 3. Put the tokens in a bowl.  
   *Parent says:* Every card is a test that a child did with materials. Our job is to be the judges. Was the test fair? A fair test changes only the material. Everything else stays the same.  
@@ -269,14 +269,14 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 - **s2 (3 min)**  
   *Parent does:* Find card 2, about a boy who pours 1 spoon on the cotton and 3 spoons on the plastic. Play it together as a practice round.  
   *Parent says:* Let's practise. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic. More water comes through the plastic. Is his test fair?  
-  *Child mode:* Practice card. A boy pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Tap your answer.
+  *Child mode:* Practice card. A boy pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Say your answer.
   - Ask: What else changed, besides the material? (good: The amount of water.; He used more water on the plastic.)
   - Check: A boy poured 1 spoon on the cotton and 3 spoons on the plastic. Is the test fair? → **Unfair, because the amount of water changed too**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns drawing a card and reading it out. 2. The player puts it on FAIR or UNFAIR. 3. For UNFAIR cards, they say what else changed. 4. Give one token for each correct answer.  
+  *Parent does:* 1. Take turns drawing a card and reading it out. 2. The player puts it on FAIR or UNFAIR (or beside the mats, for a FIX IT card). 3. For UNFAIR cards, they say what else changed. 4. Give out tokens as the rules say.  
   *Parent says:* Read your card. Is it fair? If it isn't, tell us the sneaky thing that changed.  
-  *Child mode:* Take turns. Read your card. FAIR or UNFAIR? If it is unfair, say what else changed. Win a token!
-  - Note: Fair cards: 1, 3, 5, 7, 9, 11, 13, 15, 17 and 19. The unfair cards, and the sneaky change in each: Card 2, the amount of water. Card 4, the strip width. Card 6, the kind of coin. Card 8, the time. Card 10, the number of coins. Card 12, how deep the strip dips. Card 14, one try and picking results. Card 16, sun and shade. Card 18, how the coins are dropped. Card 20, where the band was measured from. Card 14 is a good one to talk about. Keeping only the result you like is unfair to the truth.
+  *Child mode:* Take turns. Read your card. FAIR or UNFAIR? If it is unfair, say what else changed. Win tokens!
+  - Note: Fair cards: 1, 3, 5, 7, 9, 11, 13, 15, 17 and 19. The unfair cards, and the sneaky change in each: Card 2, the amount of water. Card 4, the strip width. Card 6, the kind of coin. Card 8, the time. Card 10, the number of coins. Card 12, how deep the strip dips. Card 14, keeping only the best try and hiding the others. Card 16, sun and shade. Card 18, how the coins are dropped. Card 20, where the band was measured from. Card 14 is a good one to talk about. Keeping only the result you like is unfair to the truth.
 - **s4 (3 min)**  
   *Parent does:* When a FIX IT card comes up, stop. Everyone says how they would make the test fair. The best fix wins two tokens.  
   *Parent says:* This test is broken. How would you fix it so that only the material changes?  
@@ -289,7 +289,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Child mode:* Count your tokens. Who won? Look at the unfair pile. Which sneaky change came up most?
   - Think: On card 14, the boy kept only the result he liked. Is that worse than changing the water by mistake? Why?
 ### g2 · Spot the Fluke (15 min)
-- **rules:** Shuffle the result cards and put them face down.; Turn over a card. Everyone looks at the three tries.; The first player to say 'fluke!' and point at the odd result scores one point. If there is no odd result, the first to say 'reliable!' scores the point.; Then say what might have gone wrong in the odd try. A good reason scores one more point.; Last, everyone writes the middle value on their sheet. Each correct middle value scores one point.; After all 16 cards, the player with the most points wins.
+- **rules:** Shuffle the result cards and put them face down.; Turn over a card. Everyone looks at the three tries.; The first player to say 'fluke!' and point at the odd result scores one point. If there is no odd result, the first to say 'reliable!' scores the point.; Then say what might have gone wrong in the odd try. A good reason scores one more point.; Last, everyone writes the middle value on their sheet. Each correct middle value scores one point.; After all 16 cards, the player with the most points wins. If two players tie, they share the win.
 - **Printable cards: 16 result cards, each showing three tries:** Cotton hanky, water through (ml): 20, 21, 20; Toilet paper strip, coins held: 14, 15, 3; Thin rubber band, length with 10 coins (cm): 12, 12, 13; Kitchen towel, water climbed (cm): 9, 2, 10; Kitchen towel strip, coins held: 60, 58, 61; Wool square, water through (ml): 12, 13, 22; Thick rubber band, length with 10 coins (cm): 10, 10, 10; Printer paper, water climbed (cm): 2, 3, 2; Facial tissue strip, coins held: 30, 31, 29; Raincoat cloth, water through (ml): 0, 1, 9; One hair, coins held: 18, 17, 19; Jute strip, water climbed (cm): 5, 6, 5; Old rubber band, length with 10 coins (cm): 14, 15, 22; Plastic bag, water through (ml): 0, 0, 0; Newspaper, water climbed (cm): 4, 4, 1; A different hair, coins held: 6, 20, 7
 - **Printable score sheet: Fluke-finder sheet:** Card; Is there an odd result? Which one?; What might have gone wrong?; Middle value; Points
 - **s1 (2 min)**  
@@ -297,15 +297,15 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent says:* Each card shows a test done three times. Sometimes one try is very different from the others. Scientists call that an odd result. Let's be fluke-finders.  
   *Child mode:* Each card shows three tries of one test. Is one try very different? That is a fluke. Be the first to spot it!
 - **s2 (3 min)**  
-  *Parent does:* Turn over the card 'Toilet paper strip, coins held: 14, 15, 3'. Play it together as a practice round.  
-  *Parent says:* Toilet paper strip, coins held: 14, 15 and 3. Which one is the fluke? What might have gone wrong? And what is the middle value?  
-  *Child mode:* Practice card: 14, 15 and 3 coins. Which try is the fluke? Tap it.
-  - Check: A toilet paper strip held 14, 15 and 3 coins. Which try is the odd result? → **3**
+  *Parent does:* Turn over the card 'Wool square, water through (ml): 12, 13, 22'. Play it together as a practice round.  
+  *Parent says:* Wool square, water through: 12, 13 and 22 millilitres. Which one is the fluke? What might have gone wrong? And what is the middle value?  
+  *Child mode:* Practice card: 12, 13 and 22 ml. Which try is the fluke? Say it.
+  - Check: A wool square let through 12, 13 and 22 ml of water in three tries. Which try is the odd result? → **22**
 - **s3 (8 min)**  
   *Parent does:* 1. Turn over one card at a time. 2. The first to point at the fluke, or say 'reliable', scores a point. 3. Everyone gives a reason and writes the middle value.  
   *Parent says:* Fluke or reliable? Then tell me what might have gone wrong, and write the middle value.  
   *Child mode:* Turn a card. Fluke or reliable? Say what went wrong. Write the middle value.
-  - Note: Flukes: toilet paper strip 3, kitchen towel 2, wool square 22, raincoat cloth 9, old band 22, newspaper climb 1, the second hair 20. The rest are reliable. To find the middle value, put the three numbers in order and take the middle one. For example, 9, 2, 10 becomes 2, 9, 10, so the middle value is 9. Good reasons include a tiny tear, a strip not touching the water, or a coin thrown in. Others are a cloth not stretched tight, a worn-out old band, or a gap at the edge of the cup.
+  - Note: Flukes: toilet paper strip 3, kitchen towel 2, wool square 22, raincoat cloth 9, old band 22, newspaper climb 1, the second hair 20. The rest are reliable. To find the middle value, put the three numbers in order and take the middle one. For example, 6, 20, 7 becomes 6, 7, 20, so the middle value is 7. Good reasons include a tiny tear, a strip not touching the water, or a coin thrown in. Others are a cloth not stretched tight, a worn-out old band, or a gap at the edge of the cup.
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Then look at the cards with no fluke together.  
   *Parent says:* Look at the plastic bag card: 0, 0 and 0. Is that boring, or is it exciting?  
@@ -361,10 +361,10 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   - Check: On the umbrella patch bar chart, which bar shows the best patch? → **The shortest bar**
 - **s8 (4 min) · grown-up needed**  
   *Parent does:* 1. Stretch the umbrella cloth, raincoat or plastic square over a dry tumbler. 2. Test it once with 20 ml of rain. 3. Then a grown-up makes one hole in a fresh square with the drawing pin. 4. Ask your child to guess, with a reason. 5. Test the square with the hole.  
-  *Parent says:* This cloth let no rain through at all. Now it has one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?  
+  *Parent says:* If this cloth let no rain through at all, now it gets one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?  
   *Child mode:* Test the umbrella cloth. Did any rain come through? Now a grown-up makes one tiny hole. Guess first, and say why. Then test it.
   - Ask: Where did the water come through? (good: Only at the hole.; Drops grew under the hole and fell.)
-  - Note: Usually the square stays dry underneath except under the hole, where drops form. Often 1 to 3 ml come through. If nothing comes through, the hole may be too tiny for the water to push in. Make it a little bigger with the pin and test again. The cloth is still waterproof everywhere else. One missing spot decides where the rain gets in. Keep this in mind for the Roots card.
+  - Note: Usually the square stays dry underneath except under the hole, where drops form. A few drops may come through, perhaps 1 to 3 ml, but it depends on the cloth and the hole. If nothing comes through, the hole may be too tiny for the water to push in. Make it a little bigger with the pin and test again. The cloth is still waterproof everywhere else. One missing spot decides where the rain gets in. Keep this in mind for the Roots card.
 - **s9 (3 min)**  
   *Parent does:* 1. Ask your child to write three sentences: what I think, what I saw, and why. 2. Then look at the thickest cloth and the thinnest cloth through the magnifying glass, or against the window.  
   *Parent says:* Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened. Then look closely at the cloths again. Do you see anything new?  
@@ -375,7 +375,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 - **question:** Which thin paper makes the strongest strip?
 - **predict:** Before you test, feel each paper. Put them in a line, from the one you think will hold the most coins to the one that will hold the fewest. Why did you put your first one first?
 - **fair test:** Change only the paper. Keep everything else the same. Every strip is 2 cm wide and 15 cm long, and taped the same way. Use the same bag, and one-rupee coins of the same design, placed gently one at a time. One-rupee coins from different years weigh different amounts. Measure how many coins the strip holds before it tears. Test each paper three times. Check every strip for nicks before you start.
-- **safety:** Keep your feet away from under the bag. When the strip tears, the coins fall. A grown-up helps with the scissors.
+- **safety:** A grown-up helps with the scissors.
 - **record:** Fill in the results table. Write the middle value for each paper. Draw a bar chart.
 - **results table:** Paper | Try 1: coins held | Try 2: coins held | Try 3: coins held | Middle value (coins)
 - **s1 (4 min)**  
@@ -395,23 +395,18 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* 1. Add one-rupee coins one at a time, placing each gently into the bag. 2. Count out loud. 3. When the strip tears, write down the last number before it tore. 4. Repeat three times for each paper.  
   *Parent says:* Gently, one coin at a time. If we drop a coin in hard, it pulls harder than its weight, and the test is not fair.  
   *Child mode:* Place coins in the bag one at a time, gently. Count out loud. When it tears, write down the number. Do each paper three times.
-  - Note: Twelve strips and about 400 coins take time, so let your child place the coins while you hold the bag still. Gather the fallen coins into a bowl after each tear. If you are using rice, pour one level spoonful at a time and count the spoonfuls.
+  - Note: Twelve strips take time, so let your child place the coins while you hold the bag still. Gather the fallen coins into a bowl after each tear. A strong strip, like kitchen towel, may hold 60 or more coins. If the strip still holds when you run out of coins, write the number with a plus sign, like 70+. If you are using rice, pour one level spoonful at a time and count the spoonfuls.
   - Check: A toilet paper strip held 14, 15 and 3 coins. What should you do? → **Check that strip for a nick, test again, and use the middle value**
-- **s5 (2 min)**  
-  *Parent does:* Draw the bar chart of middle values, one bar for each paper.  
+- **s5 (5 min)**  
+  *Parent does:* Draw the bar chart of middle values, one bar for each paper. Compare it with your line of guesses.  
   *Parent says:* Which paper is the strongest? Was your line of guesses right?  
   *Child mode:* Draw one bar for each paper. Which is strongest? Was your guess right?
   - Think: Facial tissue felt soft and kitchen towel felt rough. Does soft mean weak?
-- **s6 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.  
-  *Child mode:* Write three sentences. What I think. What I saw. Why it happened.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: kitchen towel makes the strongest strip. What I saw: kitchen towel held about 60 coins, and toilet paper only about 15. Why: kitchen towel is thicker, with more fibres holding on to each other.
 ### e3 · The Width Test: does a strip twice as wide hold twice as much? (30 min)
 - **question:** Strips cut from the same paper napkin: does a 4 cm strip hold twice as many coins as a 2 cm strip? And do strips of the same size all hold the same?
 - **predict:** Guess first, and say why. If a 2 cm strip holds 20 coins, how many will a 4 cm strip hold? And will three 2 cm strips from the same napkin all hold exactly the same number? Why do you think so?
 - **fair test:** This time, the thing we change is not the paper. It is the width of the strip. Keep everything else the same: the same napkin, one layer, and strips 15 cm long. Tape them the same way, use the same bag, and place one-rupee coins gently, one at a time. Measure how many coins each strip holds before it tears. Test three strips of each width.
-- **safety:** A grown-up helps with the scissors. Keep your feet away from under the bag. When the strip tears, the coins fall.
+- **safety:** A grown-up helps with the scissors.
 - **record:** Fill in the results table, with where each strip tore. Write the middle value for each width. Then write: did doubling the width double the coins?
 - **results table:** Strip | Try 1: coins held | Try 2: coins held | Try 3: coins held | Middle value (coins) | Where it tore
 - **s1 (4 min)**  
@@ -468,21 +463,16 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent says:* Measure from the pencil line, not from the very bottom. The line is where the water started.  
   *Child mode:* Lift the strips out. Measure from the pencil line to the top of the colour. Write each one down.
   - Check: Kitchen towel strips gave 9, 2 and 10 cm. What is the middle value? → **9 cm**
-- **s5 (4 min)**  
+- **s5 (7 min)**  
   *Parent does:* Tear the end of a kitchen towel strip and a printer paper strip. Look at both torn edges through a magnifying glass.  
   *Parent says:* Look at the torn edges. Which one is fluffy, with lots of gaps? Which is pressed flat?  
   *Child mode:* Tear the end of two strips. Look with a magnifier. Which edge is fluffy? Which is flat?
+  - Note: Kitchen towel is fluffy, with lots of fine gaps between its fibres, and water is pulled up those gaps. Printer paper is pressed flat, with far fewer gaps.
   - Think: A diya wick is made of cotton. Why not printer paper?
-- **s6 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.  
-  *Child mode:* Write three sentences. What I think. What I saw. Why it happened.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: kitchen towel soaks up water fastest. What I saw: in 5 minutes, the water climbed 9 cm up the kitchen towel. It climbed only 2 cm up the printer paper. Why: kitchen towel is fluffy, with lots of fine gaps between its fibres. The water is pulled up the gaps.
 
 ## Activities
 ### a1 · The Planning Board (15 min)
-- **safety:** No special safety needed.
-- **record:** Keep your finished planning board. Use it again for the umbrella patch test.
+- **record:** Keep your finished planning board. Use the same three boxes to plan every test.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw three big boxes on the paper: CHANGE, KEEP THE SAME and MEASURE. 2. Read out the question: 'Which cloth would make the best monsoon bag cover?'  
   *Parent says:* Scientists plan before they test. We'll write each thing that could change in a test on its own slip. Then we decide which box each slip goes in.  
@@ -501,15 +491,15 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* Draw an empty results table below the boxes. The CHANGE slip names the rows. The MEASURE slip names the columns.  
   *Parent says:* The table comes straight from the plan. The things we change go down the side. What we measure goes across the top, with its unit.  
   *Child mode:* Draw a table. Write the cloths down the side. Write 'Water through (ml)' across the top. Add Try 1, Try 2, Try 3.
-  - Think: Could you plan a test for something at home, like which chappal grips best, or which soap makes most bubbles?
+  - Think: Could you plan a test for something at home, like which soap makes the most bubbles? What would you keep the same?
 ### a2 · The One Hair Test (20 min)
-- **safety:** Only use hair that someone has agreed to give. Pull gently. Keep feet away from falling coins.
 - **record:** Make a table: whose hair, coins held on each try, middle value. Write one sentence about what surprised you.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask family members for one long hair each. 2. Cut each one to 20 cm, using the ruler. 3. Wind the top of the hair three times round a pencil and tape it there. 4. Put the pencil under a heavy book at the table's edge, so the hair hangs down. 5. Wind the bottom of the hair five times round the paper clip hook, then tie it and tape it. 6. Hang the cup on the hook.  
   *Parent says:* One single hair. How many coins do you think it can hold? Guess first, and tell me why.  
   *Child mode:* Cut one hair to 20 cm. Wind the top round a pencil and tape it. Put the pencil under a book. Wind the bottom round the hook and tape it. Hang the cup. Guess: how many coins?
   - Note: The turns round the pencil and the hook take the pull, so the hair breaks along its length, not at a knot. A knot is a weak spot, as the Knot Test shows.
+  - Check: Why must every hair be cut to the same length for a fair test? → **So that only the person's hair changes, not the length**
 - **s2 (10 min)**  
   *Parent does:* 1. Add coins one at a time, gently. 2. Count until the hair snaps. 3. Write the number. 4. Repeat with a second and third hair from the same person if they agree. 5. Then test the other family members' hairs the same way.  
   *Parent says:* Gently, one at a time. What makes this test fair? What must be the same for every hair?  
@@ -519,12 +509,11 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* Work out how many coins the whole head of hair might hold together.  
   *Parent says:* A head has about one hundred thousand hairs. If each holds about 20 coins, together they could hold two million coins. That is about as heavy as two elephants. Of course, the scalp would let go long before that.  
   *Child mode:* Your head has about 100,000 hairs. Together they could hold as much as two elephants! But your head would not like it.
-  - Check: Why must every hair be cut to the same length for a fair test? → **So that only the person's hair changes, not the length**
 - **s4 (3 min)**  
   *Parent does:* Talk together about what makes hair strong.  
   *Parent says:* Hair is made of a material called keratin. Your nails are made of it too, and so are a cow's horns. It is made of long chains twisted together, like a rope.  
   *Child mode:* Hair is made of keratin, like your nails. Inside, it is like a tiny twisted rope.
-  - Think: Grandmother's hair and your hair held different amounts. Is that because of age, or something else? How could you find out fairly?
+  - Think: An older person's hair and a younger person's hair held different amounts. Is that because of age, or something else? How could you find out fairly?
 ### a3 · The Muffle Test: which material absorbs sound best? (20 min)
 - **safety:** Keep the alarm at a gentle volume. Never hold a loud sound close to anyone's ear.
 - **record:** Fill in a table: cover, three readings, middle value. Draw a bar chart. Put the covers in order from best muffler to worst.
@@ -536,7 +525,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* 1. Wrap the bowl in the first cover, one layer. 2. Start the alarm. 3. Read the sound meter after 5 seconds. 4. Write it down. 5. Do this three times for each cover.  
   *Parent says:* Same alarm, same volume, same bowl, same distance. Only the cover changes. What else must we keep the same?  
   *Child mode:* Wrap the bowl in one cover. Start the alarm. Read the number. Do each cover three times.
-  - Note: No second phone? Then measure how far away you can walk before you stop hearing the alarm. Use a measuring tape. A shorter distance means a better muffler. Keep the room as quiet as you can, and switch off fans, because noise around you is a change too.
+  - Note: No second phone? Then measure how far away you can walk before you stop hearing the alarm. Use a measuring tape. A shorter distance means a better muffler. Keep the room as quiet as you can, and switch off fans, because noise around you is a change too. Phone sound meter apps are rough. If two covers differ by only 1 or 2 decibels, call them about equal.
 - **s3 (4 min)**  
   *Parent does:* Look at the results together and put the covers in order, best muffler first.  
   *Parent says:* Which cover absorbed the most sound? Was it the hard, shiny one, or a soft, fluffy one?  
@@ -548,12 +537,11 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Child mode:* Why do cinemas have soft walls? Why does an empty room echo?
   - Think: A towel hushed the alarm better than foil. Would two layers of towel hush it twice as much? How could you test it fairly?
 ### a4 · The Squash Test: which material springs back? (15 min)
-- **safety:** Lower the books gently. Keep fingers out from under them.
 - **record:** Fill in a table: material, thickness before (cm), thickness under the books (cm), thickness 1 minute after (cm). Circle the ones that sprang back.
 - **s1 (3 min)**  
-  *Parent does:* 1. Stand the ruler upright beside the first material. 2. Measure how thick it is, in centimetres. 3. Write it down.  
+  *Parent does:* 1. Stand the ruler upright beside the first material. 2. Measure how thick it is, in centimetres. 3. Write it down. 4. Do the same for each of the other materials.  
   *Parent says:* First we measure how thick each thing is, before we squash it. Which ones do you think will spring back? Why?  
-  *Child mode:* Stand the ruler beside the sponge. How thick is it? Write it down.
+  *Child mode:* Stand the ruler beside the sponge. How thick is it? Write it down. Do the same for every material.
 - **s2 (8 min)**  
   *Parent does:* 1. Put the cardboard square on top. 2. Gently lower the same three books on top. 3. Measure the thickness now. 4. Lift the books off. 5. Wait 1 minute, then measure again. 6. Do the same for each material.  
   *Parent says:* Same books, same cardboard, same minute of waiting. Only the material changes.  
@@ -564,9 +552,8 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Child mode:* Which ones sprang back? Which stayed squashed? What might be different inside them?
   - Note: After your child has answered, give the words. Springing back is called elastic. Staying squashed is called plastic, from an old Greek word that means 'can be shaped'.
   - Check: The bread was 2.5 cm, then 1 cm under the books, and still 1 cm a minute later. What does that show? → **Bread stays squashed: once its air holes collapse, they don't spring back**
-  - Think: A sponge, foam and bread are all full of air holes. Why does only one kind spring back? What would happen to a sponge squashed a thousand times?
+  - Think: A sponge and foam spring back, but bread stays squashed, even though all three are full of air holes. Why? What would happen to a sponge squashed a thousand times?
 ### a5 · The Knot Test: does a knot make a hair stronger or weaker? (20 min)
-- **safety:** Only use hair that someone has agreed to give. Pull gently. Keep feet away from the falling coins.
 - **record:** Make a table: plain or knotted, coins held on each try, middle value, and where it broke.
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the six hairs. 2. Ask the question below. 3. Write down the guess and the reason.  
@@ -586,13 +573,13 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   - Check: Where do knotted hairs usually break? → **At the knot**
 - **s4 (3 min)**  
   *Parent does:* Talk together about knots in real ropes.  
-  *Parent says:* The knot was made of the same hair. Nothing was taken away. So why do you think the knotted hair held fewer coins? Where would a climber check a rope most carefully?  
-  *Child mode:* Nothing was taken away from the knotted hair. So why was it weaker? Where should a climber check a rope?
+  *Parent says:* The knot was made of the same hair. Nothing was taken away. If your knotted hairs held fewer coins, why do you think that was? Where would a climber check a rope most carefully?  
+  *Child mode:* Nothing was taken away from the knotted hair. If it was weaker, why? Where should a climber check a rope?
   - Ask: Where should a climber check a rope? (good: At the knots.; Where it bends sharply round something.)
   - Note: After your child has answered, you can add: a knot usually leaves a rope with only about half to three quarters of its strength, depending on the knot. Climbers and sailors choose knots carefully for this reason.
   - Think: A sharp bend weakened the hair. Where else might a sharp bend or corner be a weak spot? Think of a folded paper, or a bag's handle.
 ### a6 · Tap and Bend: testing without and with breaking (15 min)
-- **safety:** A grown-up bends the paper clips. Broken ends are sharp, so wrap them in tape before throwing them away. Tap cups gently.
+- **safety:** A grown-up bends the paper clips. Broken ends are sharp, so wrap them in tape before throwing them away.
 - **record:** Write how a whole cup and a cracked cup sounded. Write the number of bends for each paper clip, and the middle value.
 - **s1 (5 min)**  
   *Parent does:* 1. Hang each cup from a finger by its handle. 2. Tap it gently with the spoon. 3. Listen to the ring. 4. No cracked cup? Hang a steel tumbler from a thread and tap it. Then hold it tightly in your hand and tap it again.  
@@ -608,14 +595,14 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* 1. A grown-up opens a paper clip into a straight piece. 2. Bend it at its middle, all the way one way and back again. That is one bend. 3. Count bends until it snaps. 4. Do the same with two more clips, bending the same way each time.  
   *Parent says:* One bend doesn't break it. Let's count how many it takes. Feel the bend after ten. Is it warm?  
   *Child mode:* Ask a grown-up to bend the clip back and forth. Count each bend out loud. When does it snap?
-  - Note: Clips often snap after 10 to 30 bends. Each clip gives a different number, which is the point: tiny hidden flaws differ. This weakening is called fatigue. The bend gets warm because bending metal turns some of the movement into heat.
+  - Note: Clips usually snap after somewhere between about 5 and 30 bends. Each clip gives a different number, which is the point: tiny hidden flaws differ. This weakening is called fatigue. The bend gets warm because bending metal turns some of the movement into heat.
 - **s4 (2 min)**  
   *Parent does:* Find the middle value of the three clips. Then talk about bridges and aeroplanes.  
   *Parent says:* Three clips, three different numbers. That's why engineers can't say exactly when a part will break. So they test many, and they check and replace parts long before.  
   *Child mode:* Each clip broke at a different number. Find the middle one. Engineers check aeroplane parts long before they could break.
   - Think: Which is better for checking a bridge: a test that breaks it, or a test that doesn't? Why do engineers need both?
 ### a7 · The Tiny Cut Test: what does one small cut do to a strip? (17 min)
-- **safety:** A grown-up helps with the scissors. Keep your feet away from under the bag. When the strip tears, the coins fall.
+- **safety:** A grown-up helps with the scissors.
 - **record:** Make a table: strip (no cut or cut), coins held on each try, middle value, and where it tore. Then write what I think, what I saw, and why.
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child two napkin strips, one plain and one with a small cut at one edge. 2. Ask the question below. 3. Write down the guess and the reason.  
@@ -644,7 +631,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 
 ## Projects
 ### p1 · Our Kitchen Towel Report (60 min, 3 days)
-- **safety:** Wipe up spills so nobody slips. A grown-up helps with the scissors.
+- **safety:** A grown-up helps with the scissors.
 - **record:** A report card with a table for each test, the cost per sheet, stars for each towel, and one sentence saying which towel you would buy and why.
 - **schedule:** day 1: Test how much water one sheet of each towel soaks up. Test each three times. (20 min); day 2: Test how strong a wet strip of each towel is, with coins. (20 min); day 3: Work out the cost of one sheet. Write and share the report card. (20 min)
 - **s1 (4 min)**  
@@ -652,9 +639,9 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent says:* The packets make claims. Our job is to test them fairly, like a consumer scientist. That is a person who tests things that people buy.  
   *Child mode:* Read the packets. What do they claim? You will test the claims, like a real consumer scientist.
 - **s2 (16 min)**  
-  *Parent does:* 1. Pour 50 ml of water onto a plate. 2. Lay one whole sheet of Brand A on it for 10 seconds. 3. Lift it by one corner and let it drip back onto the plate for 5 seconds. 4. Pour what is left on the plate into the measuring cup. 5. 50 take away what is left is what the sheet soaked up. 6. Repeat three times for each brand.  
+  *Parent does:* 1. Pour 50 ml of water onto a plate. 2. Lay one whole sheet of Brand A on it for 10 seconds. 3. Lift it by one corner and let it drip back onto the plate for 5 seconds. 4. Pour what is left on the plate into the measuring cup. 5. 50 minus what is left is what the sheet soaked up. 6. Repeat three times for each brand.  
   *Parent says:* We pour the same 50 ml every time. Whatever is left behind tells us how much the sheet soaked up.  
-  *Child mode:* Pour 50 ml on a plate. Lay a sheet on it for 10 seconds. Lift it. Let it drip 5 seconds. Measure what is left. 50 take away that is what it soaked up.
+  *Child mode:* Pour 50 ml on a plate. Lay a sheet on it for 10 seconds. Lift it. Let it drip 5 seconds. Measure what is left. 50 minus that is what it soaked up.
   - Note: If the sheets are different sizes, cut them all to the same size first, for example 20 cm by 20 cm. Otherwise the test is not fair.
 - **s3 (20 min)**  
   *Parent does:* 1. Cut a strip 2 cm by 15 cm from each brand. 2. Drip exactly 1 teaspoon of water along each strip. 3. Hang it from under a heavy book, like in the strip strength test. 4. Add coins gently until it tears. 5. Repeat three times for each brand.  
@@ -671,7 +658,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* Your child presents the report to the family, and says which towel they would buy and why.  
   *Parent says:* Which one would you buy? Is the winner the same if money is tight?  
   *Child mode:* Show your report to your family. Which one would you buy? Why?
-  - Think: Brand C was not the best at anything, but it was good at everything and cheap. Is that a kind of best?
+  - Think: Imagine a towel is not the best at anything, but it is good at everything and cheap. Is that a kind of best?
 
 ## Challenges
 ### c1 · Keep the Notebook Dry (30 min)
@@ -717,7 +704,7 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent does:* 1. Make one idea. 2. Hang it 15 cm long. 3. Add coins gently, counting, until it breaks. 4. Try the next idea with a fresh sheet.  
   *Parent says:* Same paper, same length, same coins. Only the shape changes. That keeps it a fair test.  
   *Child mode:* Make one idea. Hang it. Add coins until it breaks. Then try your next idea with a new sheet.
-  - Note: A twisted rope or a plait usually holds many times more than a flat strip. If 100 coins is too easy, try 200. If the tape at the ends tears first, that is the weakest part of the design, not the paper.
+  - Note: A twisted rope or a plait usually holds more than the same paper laid flat. How many more depends on the paper and how tightly you twist, so your count may be well below or above 100. Count what it really held, and that is an honest result. If the tape at the ends tears first, that is the weakest part of the design, not the paper.
   - Check: One flat sheet of toilet paper held 60 coins. A sheet of the same size, twisted into a rope, held 90. What made the difference? → **The shape: twisting packs the fibres so they grip each other**
 - **s4 (6 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then talk about real ropes.  
@@ -735,10 +722,9 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
   *Parent says:* A plane bends a little on every flight. A tiny crack can start and slowly grow. How could engineers find it before it is dangerous? Guess first, and say why.  
   *Child mode:* A plane can get tiny cracks. How would you find them? Guess, and say why.
 - **s2 (5 min)**  
-  *Parent does:* 1. Tap the whole cup with a spoon. 2. Tap the cracked cup the same way. 3. Ask which sounds different.  
-  *Parent says:* Let's try one idea. Tap both cups the same way. What do you hear? Why might they sound different?  
-  *Child mode:* Tap both cups with a spoon. Which one sounds dull? Why?
-  - Check: The cracked cup sounds dull. Why? → **The crack stops the cup ringing like one whole piece**
+  *Parent does:* 1. Tap the cracked cup with a spoon, as you did in Tap and Bend. 2. Tap the whole cup the same way. 3. Which sounds different? No cracked cup? Skip to the next step.  
+  *Parent says:* Here is one idea engineers use. Tap the part and listen. Tap both cups the same way. What do you hear?  
+  *Child mode:* Tap both cups with a spoon. Which one sounds dull?
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Rub a little ink over the cracked plate or cup. 2. Wait one minute. 3. Wipe the surface clean with a damp cloth. 4. Look closely, with a magnifying glass if you have one.  
   *Parent says:* Now a second idea. The colour gets into the crack. When we wipe the top clean, the colour stays inside. What do you see?  
@@ -833,9 +819,9 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 1. (mcq) Vidya, a girl in Class 4, hangs 10 coins from a thin rubber band and 20 coins from a thick band. The thick band stretched more. She says thick bands are stretchier. What is the best reply?  
    Options: She is right, because the thick band stretched more / Her test is unfair, because the number of coins changed too / She should have used paper money / Thick bands are always less stretchy, so she made a mistake reading the ruler  
    **Answer:** Her test is unfair, because the number of coins changed too. *Why:* Two things changed: the band and the load. The thick band might have stretched more only because it had twice the coins. Picking 'thick bands are always less stretchy' jumps to a new rule without a fair test. We do not know until we test both with the same coins.
-2. (mcq) Vaishali, a girl in Class 4, did the climbing water test three times with kitchen towel. The water climbed 9 cm, 2 cm and 10 cm. What is the middle value?  
-   Options: 2 cm / 7 cm / 9 cm / 10 cm  
-   **Answer:** 9 cm. *Why:* In order: 2, 9, 10. The middle is 9. The 2 is an odd result, but it cannot pull the middle value far. Picking 7 means working out the average: 21 divided by 3. The average is pulled down a lot by the odd result, which is why the middle value is useful here.
+2. (mcq) Vaishali, a girl in Class 4, did the climbing water test three times with kitchen towel. The water climbed 6 cm, 1 cm and 8 cm. What is the middle value?  
+   Options: 1 cm / 5 cm / 6 cm / 8 cm  
+   **Answer:** 6 cm. *Why:* In order: 1, 6, 8. The middle is 6. The 1 is an odd result, but it cannot pull the middle value far. Picking 5 means working out the average: 15 divided by 3. The average is pulled down by the odd result, which is why the middle value is useful here.
 3. (mcq) Agnes Pockels's numbers kept jumping about at first. Why?  
    Options: Her balance was broken / She was changing several things without noticing, like soap, dust and greasy fingers / Water is different every day / She could not read numbers well  
    **Answer:** She was changing several things without noticing, like soap, dust and greasy fingers. *Why:* Many small things changed at once. Once she kept everything the same, her results agreed. Picking 'her balance was broken' is a common guess when results look messy. But the balance was the same each time. The surface of the water was not.
@@ -870,9 +856,9 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
    **Answer:** False. *Why:* False. Agnes Pockels did tests in her kitchen that were printed in the famous journal Nature. What makes a test good is that it is fair, repeated and written down, not how costly the machine is.
 
 ## Videos
-- **A materials testing machine pulling a steel bar until it snaps (a tensile test, in slow motion)** (to find: an engineering university or testing-equipment channel, 3 min) id `M2BXGEFTvzk`: Shows a real testing machine doing the strip strength test on steel, with the bar stretching thin and then snapping. Children see that engineers do the same test they did with paper and coins. *Check:* Found by YouTube search: "ASTM E8 - Violent Break! - Metal Tensile Test Rounded Sample" by The Universal Grip Company. Title checked automatically. A parent may still preview it.
-- **The lotus effect: water drops rolling off a lotus leaf, filmed close up** (to find: a science museum, university or nature channel, 3 min) id `uAbHN3rFzbQ`: Shows water beading and rolling off a lotus leaf and carrying dirt away, much closer than a child can see at home. It shows what the card on why some materials keep water out describes. *Check:* Found by YouTube search: "The Lotus Effect (World Water Day)" by Discover Materials. Title checked automatically. A parent may still preview it.
-- **Boeing 777 wing load test, 1995: bending a wing until it breaks** (to find: Boeing or an aviation history channel, 3 min) id `ET9Da2vOqKM`: For the parent and older children: a huge, real version of 'test it until it breaks'. The wings bend upwards a very long way before they snap. They break at about one and a half times the biggest load the plane should ever meet. *Check:* Found by YouTube search: "Boeing 777 Wing Loading Test" by channel29offical. Title checked automatically. A parent may still preview it.
+- **A materials testing machine pulling a steel bar until it snaps (a tensile test)** (The Universal Grip Company, 3 min) id `M2BXGEFTvzk`: Shows a real testing machine doing the strip strength test on steel, with the bar stretching thin and then snapping. Children see that engineers do the same test they did with paper and coins. *Check:* Please preview it first.
+- **The lotus effect: water drops rolling off a lotus leaf, filmed close up** (Discover Materials, 3 min) id `uAbHN3rFzbQ`: Shows water beading and rolling off a lotus leaf and carrying dirt away, much closer than a child can see at home. It shows why some surfaces keep water out. *Check:* Please preview it first.
+- **Boeing 777 wing load test, 1995: bending a wing until it breaks** (channel29offical, 3 min) id `ET9Da2vOqKM`: For the parent and older children: a huge, real version of 'test it until it breaks'. The wings bend upwards a very long way before they snap. They break at about one and a half times the biggest load the plane should ever meet. *Check:* Please preview it first.
 
 ## Quiz
 1. (mcq) What makes a test fair?  
@@ -977,10 +963,8 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 - That advert says 'stronger than ever'. How could we test it fairly?
 - Your umbrella has a tiny hole. Would a test have found it? How?
 - Why do we try things three times, not just once?
-- Which of your clothes would pass the umbrella test? Which would fail?
-- Why does the milk packet tear so easily at the notch?
 - How could you find out which of your pens writes the longest line before running out, fairly?
-- The potter tapped the pot. What was she listening for?
+- A potter taps a pot before selling it. What is she listening for?
 - Is it fair to test everyone in a class with the same test? Why or why not?
 - If one hair can hold 20 coins, what could a plait of three hairs hold? How could you check?
 - Did anything today give an odd result? What might have gone wrong?
@@ -989,32 +973,15 @@ In 1932, when Agnes was seventy years old, the university in Braunschweig gave h
 
 ## Jokes
 - Why did the paper strip go to the doctor? *It had a little tear.*
-- Why was the rubber band so calm? *It knew how to relax after a stretch.*
 - What did the umbrella say to the rain? *You can't get through to me!*
-- Why did the kitchen towel win the race? *It soaked up all the attention.*
 - Why did the scientist test the joke three times? *In case the first laugh was a fluke.*
-- What did the plastic bag say to the water drop? *Sorry, no entry!*
-- Why was the sponge so popular? *It absorbed everything you told it.*
-- Why did the hair refuse to hold any more coins? *It was at the end of its tether.*
-- What did the table say to the results? *Take a seat in your row.*
 - Why did the paper clip feel tired? *It had been bent out of shape all day.*
 - Why was the lotus leaf never sad? *Everything just rolled off it.*
-- What did the chalk say to the steel key? *Stop scratching my back!*
-- Why did the rubber band get a job at the post office? *It was good at holding things together.*
-- Why did the unfair test get sent home? *It kept changing its mind.*
-- What is a raincoat's favourite subject? *Water-proof maths.*
-- Why did the crack never finish school? *It kept splitting early.*
 - What did the ruler say to the rubber band? *Don't stretch the truth.*
 - Why was the tissue so bad at tug of war? *It always went to pieces.*
-- Why did the middle value feel important? *It was always in the centre of things.*
 - Why did the potter tap every pot? *To make sure none of them was cracking up.*
-- Why did the rope win the contest? *It knew how to twist the rules.*
 - Why don't kitchen towels tell secrets? *They just soak them up.*
 - Why did the odd result sit alone at lunch? *It just didn't fit in.*
-- What did the strong paper bag say to the coins? *Bring it on, I can handle it.*
-- Why did the umbrella go to the tailor? *It had a hole lot of trouble.*
-- Why was the cracked cup never asked to sing? *Every note came out dull.*
-- What did the fair test say to the unfair test? *Change one thing at a time, and I'll listen.*
 
 ## Connected maths
 - A toilet paper strip was tested three times. It held 14 coins, then 15 coins, then 3 coins. What is the middle value? **14 coins.**. Put the three numbers in order, from smallest to biggest: 3, 14, 15. The one in the middle is 14. So the middle value is 14 coins. The 3 is an odd result, but it does not change the middle value much. If we added them all up and shared by 3, we would get only about 11, because the odd result pulls it down. (queues `math.number-sense.comparing-ordering.L3`)
@@ -1036,22 +1003,21 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum full of engines and machines. Look for the materials used in each, and think how they were tested.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about materials, forces and machines.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about metals, machines and engines.
-- [A potter's workshop, a rope maker or a hardware shop near you]() · place · anywhere: Ask the potter how they check a pot for cracks. Ask the hardware shop how they know a rope or chain is strong enough.
 
 ## Things to buy
 - [Medicine cups or a measuring cup with millilitre marks](https://www.amazon.in/s?k=measuring+cup+ml+marks) (tool): Measures how much rain came through a cloth in the umbrella patch test, and how much a towel soaked up. Used in e1, p1. 
-- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures patch sizes, rain height, strip widths, hair length and how high water climbs. Used in e1, e2, e3, e4, a2, a5, a7. Used in many DeepKids units, including Friction L3.
+- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures patch sizes, rain height, strip widths, hair length and how high water climbs. Used in e1, e2, e3, e4, a2, a5, a7. 
 - [Rubber bands](https://www.amazon.in/s?k=rubber+bands) (material): To hold each cloth patch tight over its tumbler in the umbrella patch test. Used in e1. 
 - [Magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the gaps between threads in cloth, the fibres in paper, and where a knotted hair broke. Used in e1, e4, a5. 
 - [Kitchen towel rolls of two or three different brands](https://www.amazon.in/s?k=kitchen+towel+roll) (material): For the kitchen towel report, testing the claims on the packets. Used in p1. 
-- [Rosie Revere, Engineer, by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty) (book): A picture book about a girl whose flying machine fails its test, and why a failed test is a step forward. Ages 4 to 8. Used in c2. If bought, read it before the 100-Coin Strip challenge. Ask: what did Rosie learn from her test?
-- [The Most Magnificent Thing, by Ashley Spires](https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires) (book): A picture book about a girl who builds, tests and rebuilds until her invention works. Ages 3 to 7. Used in c1. If bought, read it on the day of the Keep the Notebook Dry challenge.
-- [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent: a materials scientist's stories of steel, paper, glass and more, and why they behave as they do. Used in e2. Optional reading for the parent. The chapter on paper goes well with the strip strength test.
+- [Rosie Revere, Engineer, by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty) (book): A picture book about a girl whose flying machine fails its test, and why a failed test is a step forward. Ages 4 to 8. Read it before the 100-Coin Strip challenge. Used in c2. 
+- [The Most Magnificent Thing, by Ashley Spires](https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires) (book): A picture book about a girl who builds, tests and rebuilds until her invention works. Ages 3 to 7. Read it on the day of the Keep the Notebook Dry challenge. Used in c1. 
+- [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent: a materials scientist's stories of steel, paper, glass and more, and why they behave as they do. The chapter on paper goes well with the Strip Strength Test. Used in e2. 
 
 ## Warm-up
 - In a fair test, how many things do you change? → Only one. Everything else stays the same.
 - Why do we repeat a test three times? → Because one try can be a fluke.
-- Three tries gave 9, 15 and 14. What is the middle value? → 14. In order: 9, 14, 15.
+- Three tries gave 7, 12 and 11. What is the middle value? → 11. In order: 7, 11, 12.
 - Is a plastic bag waterproof or absorbent? → Waterproof.
 - Is a kitchen towel waterproof or absorbent? → Absorbent.
 - What unit do we use to measure water in a measuring cup? → Millilitres, written ml.

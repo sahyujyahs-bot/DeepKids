@@ -127,9 +127,15 @@ function lifeGuess(text) {
 }
 // links from AI when it's on (it can see how badminton teaches geometry or music teaches fractions), otherwise the map
 async function lifeLink(m) {
-  const g = lifeGuess(m.title + " " + (m.text || ""));
+  const given = m.links || [],
+    g = lifeGuess(m.title + " " + (m.text || ""));
   m.cat = m.cat || g.cat;
   m.links = g.links;
+  await lifeAsk(m);
+  // a link the caller already knew (a photo filed under a chapter) stays first
+  m.links = [...given, ...m.links.filter((l) => !given.some((x) => x.k === l.k))].slice(0, 6);
+}
+async function lifeAsk(m) {
   if (!SAMPLE) return;
   const P = lifePool(),
     prompt = `A parent home-schooling a child aged ${S.age || "6 to 10"} in India told us about this:
@@ -267,9 +273,19 @@ function lifeTab() {
        : `<p class="sm muted">Nothing yet. Cooking, gardening, a trip, a big question: add it and see what it teaches.</p>`
    }</section>`;
 }
-// the transcript's two sections: skills, and learning outside lessons with the topics each one links to
+// books, games and kits from the home shelf, ticked off next to the lesson they went with (07-day-plan)
+function shelfUsed() {
+  return Object.keys(S.tl || {})
+    .map((k) => k.match(/^(\d{4}-\d\d-\d\d)\|shelf-([^-]+)-(.+)$/))
+    .filter(Boolean)
+    .map(([, date, id, uk]) => ({ date, it: (S.inv || []).find((i) => i.id === id), u: unitBy(uk) }))
+    .filter((x) => x.it)
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+}
+// the transcript's sections: skills, learning outside lessons with the topics each one links to, and the home shelf
 function lifeTranscript() {
-  const K = lifeSkills(),
+  const B = shelfUsed(),
+    K = lifeSkills(),
     M = lifeSt()
       .slice()
       .sort((a, b) => (a.date < b.date ? -1 : 1));
@@ -286,6 +302,9 @@ function lifeTranscript() {
               .map((u) => esc(chT(u)))
               .join("; ")}</td></tr>`,
         ).join("")}</table>`
+      : "") +
+    (B.length
+      ? `<h2>Books, games and kits used</h2><table><tr><th>Date</th><th>What</th><th>With the lesson</th></tr>${B.map((x) => `<tr><td>${esc(fmt(x.date))}</td><td>${esc(x.it.name)}</td><td>${x.u ? esc(chT(x.u)) : ""}</td></tr>`).join("")}</table>`
       : "")
   );
 }

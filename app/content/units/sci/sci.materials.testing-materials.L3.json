@@ -645,7 +645,7 @@
    "Years later, other scientists worked out what her squeezed oil films really were. They were layers of oil just one molecule thick. A woman at a kitchen sink had measured something far too thin for any microscope of her time to see.",
    "In 1932, when Agnes was seventy years old, the university in Braunschweig gave her an honorary doctorate. That same year, an American scientist named Irving Langmuir won the Nobel Prize, for work that grew from a tray very like hers. Agnes never won a Nobel Prize. But her notebook is remembered. In its early pages, the numbers jump about. Then, on one page, they stand still."
   ],
-  "epiphany": "Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results. The story also quietly asks who is allowed to do science, and who gets the prize.",
+  "epiphany": "Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results.",
   "ask": [
    "At first, Agnes's numbers kept jumping about. What was really causing that?",
    "What did Agnes do to make every test the same? Name three things.",
@@ -666,36 +666,36 @@
    "id": "g1",
    "title": "Fair or Unfair?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "printables": [
     {
      "kind": "cards",
      "title": "24 test cards to cut out",
      "items": [
-      "1. A girl tests two cloths. She pours 1 spoon of water on the cotton and 1 spoon on the wool.",
-      "2. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic.",
-      "3. A girl tests three papers. Each strip is 2 cm wide and 15 cm long.",
-      "4. A girl's toilet paper strip is 2 cm wide. Her kitchen towel strip is 4 cm wide.",
-      "5. A girl adds one-rupee coins to every bag, one at a time.",
-      "6. A girl adds one-rupee coins to the first bag and five-rupee coins to the second.",
-      "7. A girl times every cloth for exactly 1 minute.",
-      "8. A girl leaves the cotton for 1 minute and the plastic for 10 minutes.",
-      "9. A girl hangs every rubber band from the same hook.",
-      "10. A girl tests the thin band with 10 coins and the thick band with 20 coins, then says the thick band stretches more.",
-      "11. A girl dips every paper strip 1 cm into the water.",
-      "12. A girl dips the kitchen towel 1 cm into the water and the newspaper 4 cm.",
-      "13. A girl tests each paper three times and writes down every try.",
-      "14. A boy tests each paper once and keeps only the result he likes best.",
-      "15. A girl uses fresh water from the same jug for every cloth.",
-      "16. A girl tests the cotton outside in the hot sun and the wool inside in the shade.",
-      "17. A girl drops every coin gently into the bag.",
-      "18. A girl drops some coins gently and throws some in hard.",
-      "19. A girl measures every band with the same ruler, from the bottom of the hook.",
-      "20. A girl measures one band from the hook and one from the top of the bag.",
-      "21. FIX IT: Make this fair. A test pours 2 spoons on cotton and 5 spoons on plastic.",
-      "22. FIX IT: Make this fair. A test uses a dry strip of tissue and a wet strip of kitchen towel.",
-      "23. FIX IT: Make this fair. A test times the first towel for 1 minute and the second for 5 minutes.",
-      "24. FIX IT: Make this fair. A test hangs one band from a hook and one from a nail that bends."
+      "1. A girl tests which cloth lets more rain through. She pours 1 spoon of water on the cotton and 1 spoon on the wool.",
+      "2. A boy tests which material lets more rain through. He pours 1 spoon of water on the cotton and 3 spoons on the plastic.",
+      "3. A girl tests which of three papers holds the most coins. Each paper strip is 2 cm wide and 15 cm long.",
+      "4. A girl tests which paper strip holds more coins. Her toilet paper strip is 2 cm wide. Her kitchen towel strip is 4 cm wide.",
+      "5. A girl tests how many coins three paper strips hold. She adds one-rupee coins to every strip's bag, one at a time.",
+      "6. A girl tests which of two paper strips holds more coins. She adds one-rupee coins to the first strip's bag and five-rupee coins to the second strip's bag.",
+      "7. A girl tests which cloth lets more water through. She times every cloth for exactly 1 minute.",
+      "8. A girl tests which material lets more water through. She leaves the cotton for 1 minute and the plastic for 10 minutes.",
+      "9. A girl tests which rubber band stretches most. She hangs every rubber band from the same hook.",
+      "10. A girl tests which rubber band stretches more. She hangs 10 coins on the thin band and 20 coins on the thick band, then says the thick band stretches more.",
+      "11. A girl tests which paper soaks up water fastest. She dips every paper strip 1 cm into the water.",
+      "12. A girl tests which paper soaks up water fastest. She dips the kitchen towel 1 cm into the water and the newspaper 4 cm.",
+      "13. A girl tests which of three papers holds the most coins. She tests each paper three times and writes down every try.",
+      "14. A boy tests which of three papers holds the most coins. He tests each paper three times, then writes down only the best try for each paper and hides the others.",
+      "15. A girl tests which cloth lets more water through. She uses fresh water from the same jug for every cloth.",
+      "16. A girl tests which cloth dries faster. She puts the cotton outside in the hot sun and the wool inside in the shade.",
+      "17. A girl tests how many coins a paper strip holds. She drops every coin gently into the bag.",
+      "18. A girl tests how many coins a paper strip holds. She drops some coins gently into the bag and throws some in hard.",
+      "19. A girl tests which rubber band stretches most. She measures every band with the same ruler, from the bottom of the hook.",
+      "20. A girl tests which rubber band stretches most. She measures one band from the hook and another from the top of the bag.",
+      "21. FIX IT: Make this fair. A test pours 2 spoons of water on cotton and 5 spoons on plastic, to see which lets more through.",
+      "22. FIX IT: Make this fair. A test compares a dry strip of tissue with a wet strip of kitchen towel, to see which holds more coins.",
+      "23. FIX IT: Make this fair. A test times the first kitchen towel for 1 minute and the second for 5 minutes, to see which soaks up more water.",
+      "24. FIX IT: Make this fair. A test hangs one rubber band from a hook and another from a nail that bends, to see which stretches more."
      ]
     },
     {
@@ -708,8 +708,47 @@
     },
     {
      "kind": "tokens",
-     "title": "20 scientist tokens (small paper circles)",
+     "title": "40 scientist tokens (small paper circles)",
      "items": [
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
+      "🔬",
       "🔬"
      ]
     }
@@ -717,10 +756,11 @@
    "rules": [
     "Cut out the 24 test cards. Shuffle them and put them face down in a pile.",
     "On your turn, take the top card and read it out loud.",
-    "Decide: is this test fair or unfair? Put the card on the FAIR mat or the UNFAIR mat.",
-    "If it is unfair, say what else changed, besides the material. A correct answer wins one token.",
-    "If you draw a FIX IT card, say how to make the test fair. A good fix wins two tokens.",
-    "When the cards run out, the player with the most tokens wins."
+    "Decide: is this test fair or unfair? Put the card on the FAIR mat or the UNFAIR mat. A right decision wins one token.",
+    "If the card is unfair, also say what else changed, besides the material. That wins one more token.",
+    "If you draw a FIX IT card, put it beside the mats and say how to make the test fair. A good fix wins two tokens.",
+    "If the others disagree with an answer, talk it over. The parent decides.",
+    "When the cards run out, the player with the most tokens wins. If two players tie, they share the win."
    ],
    "flow": [
     {
@@ -736,7 +776,7 @@
      "mins": 3,
      "do": "Find card 2, about a boy who pours 1 spoon on the cotton and 3 spoons on the plastic. Play it together as a practice round.",
      "say": "Let's practise. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic. More water comes through the plastic. Is his test fair?",
-     "kid": "Practice card. A boy pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Tap your answer.",
+     "kid": "Practice card. A boy pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Say your answer.",
      "ask": [
       {
        "q": "What else changed, besides the material?",
@@ -760,10 +800,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns drawing a card and reading it out. 2. The player puts it on FAIR or UNFAIR. 3. For UNFAIR cards, they say what else changed. 4. Give one token for each correct answer.",
+     "do": "1. Take turns drawing a card and reading it out. 2. The player puts it on FAIR or UNFAIR (or beside the mats, for a FIX IT card). 3. For UNFAIR cards, they say what else changed. 4. Give out tokens as the rules say.",
      "say": "Read your card. Is it fair? If it isn't, tell us the sneaky thing that changed.",
-     "kid": "Take turns. Read your card. FAIR or UNFAIR? If it is unfair, say what else changed. Win a token!",
-     "parent": "Fair cards: 1, 3, 5, 7, 9, 11, 13, 15, 17 and 19. The unfair cards, and the sneaky change in each: Card 2, the amount of water. Card 4, the strip width. Card 6, the kind of coin. Card 8, the time. Card 10, the number of coins. Card 12, how deep the strip dips. Card 14, one try and picking results. Card 16, sun and shade. Card 18, how the coins are dropped. Card 20, where the band was measured from. Card 14 is a good one to talk about. Keeping only the result you like is unfair to the truth."
+     "kid": "Take turns. Read your card. FAIR or UNFAIR? If it is unfair, say what else changed. Win tokens!",
+     "parent": "Fair cards: 1, 3, 5, 7, 9, 11, 13, 15, 17 and 19. The unfair cards, and the sneaky change in each: Card 2, the amount of water. Card 4, the strip width. Card 6, the kind of coin. Card 8, the time. Card 10, the number of coins. Card 12, how deep the strip dips. Card 14, keeping only the best try and hiding the others. Card 16, sun and shade. Card 18, how the coins are dropped. Card 20, where the band was measured from. Card 14 is a good one to talk about. Keeping only the result you like is unfair to the truth."
     },
     {
      "id": "s4",
@@ -811,7 +851,7 @@
    "id": "g2",
    "title": "Spot the Fluke",
    "mins": 15,
-   "players": "1 to 4 players",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "cards",
@@ -853,7 +893,7 @@
     "The first player to say 'fluke!' and point at the odd result scores one point. If there is no odd result, the first to say 'reliable!' scores the point.",
     "Then say what might have gone wrong in the odd try. A good reason scores one more point.",
     "Last, everyone writes the middle value on their sheet. Each correct middle value scores one point.",
-    "After all 16 cards, the player with the most points wins."
+    "After all 16 cards, the player with the most points wins. If two players tie, they share the win."
    ],
    "flow": [
     {
@@ -867,19 +907,19 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Turn over the card 'Toilet paper strip, coins held: 14, 15, 3'. Play it together as a practice round.",
-     "say": "Toilet paper strip, coins held: 14, 15 and 3. Which one is the fluke? What might have gone wrong? And what is the middle value?",
-     "kid": "Practice card: 14, 15 and 3 coins. Which try is the fluke? Tap it.",
+     "do": "Turn over the card 'Wool square, water through (ml): 12, 13, 22'. Play it together as a practice round.",
+     "say": "Wool square, water through: 12, 13 and 22 millilitres. Which one is the fluke? What might have gone wrong? And what is the middle value?",
+     "kid": "Practice card: 12, 13 and 22 ml. Which try is the fluke? Say it.",
      "check": {
       "t": "mcq",
-      "q": "A toilet paper strip held 14, 15 and 3 coins. Which try is the odd result?",
+      "q": "A wool square let through 12, 13 and 22 ml of water in three tries. Which try is the odd result?",
       "options": [
-       "14",
-       "15",
-       "3"
+       "12",
+       "13",
+       "22"
       ],
       "a": 2,
-      "why": "14 and 15 are close together. 3 is far away from both, so it is the odd result. Maybe that strip had a tiny nick, or a coin was dropped too hard. Picking 14 or 15 usually means looking at the first or biggest number. Instead, ask which one does not fit with the others. The middle value is 14: in order, 3, 14, 15."
+      "why": "12 and 13 are close together. 22 is far away from both, so it is the odd result. Maybe that square was stretched loosely, or some water splashed over the edge. Picking 12 or 13 usually means looking at the first or smallest number. Instead, ask which one does not fit with the others. The middle value is 13: in order, 12, 13, 22."
      }
     },
     {
@@ -888,7 +928,7 @@
      "do": "1. Turn over one card at a time. 2. The first to point at the fluke, or say 'reliable', scores a point. 3. Everyone gives a reason and writes the middle value.",
      "say": "Fluke or reliable? Then tell me what might have gone wrong, and write the middle value.",
      "kid": "Turn a card. Fluke or reliable? Say what went wrong. Write the middle value.",
-     "parent": "Flukes: toilet paper strip 3, kitchen towel 2, wool square 22, raincoat cloth 9, old band 22, newspaper climb 1, the second hair 20. The rest are reliable. To find the middle value, put the three numbers in order and take the middle one. For example, 9, 2, 10 becomes 2, 9, 10, so the middle value is 9. Good reasons include a tiny tear, a strip not touching the water, or a coin thrown in. Others are a cloth not stretched tight, a worn-out old band, or a gap at the edge of the cup."
+     "parent": "Flukes: toilet paper strip 3, kitchen towel 2, wool square 22, raincoat cloth 9, old band 22, newspaper climb 1, the second hair 20. The rest are reliable. To find the middle value, put the three numbers in order and take the middle one. For example, 6, 20, 7 becomes 6, 7, 20, so the middle value is 7. Good reasons include a tiny tear, a strip not touching the water, or a coin thrown in. Others are a cloth not stretched tight, a worn-out old band, or a gap at the edge of the cup."
     },
     {
      "id": "s4",
@@ -1545,15 +1585,15 @@
     },
     {
      "t": "mcq",
-     "p": "Vaishali, a girl in Class 4, did the climbing water test three times with kitchen towel. The water climbed 9 cm, 2 cm and 10 cm. What is the middle value?",
+     "p": "Vaishali, a girl in Class 4, did the climbing water test three times with kitchen towel. The water climbed 6 cm, 1 cm and 8 cm. What is the middle value?",
      "opts": [
-      "2 cm",
-      "7 cm",
-      "9 cm",
-      "10 cm"
+      "1 cm",
+      "5 cm",
+      "6 cm",
+      "8 cm"
      ],
      "a": 2,
-     "why": "In order: 2, 9, 10. The middle is 9. The 2 is an odd result, but it cannot pull the middle value far. Picking 7 means working out the average: 21 divided by 3. The average is pulled down a lot by the odd result, which is why the middle value is useful here.",
+     "why": "In order: 1, 6, 8. The middle is 6. The 1 is an odd result, but it cannot pull the middle value far. Picking 5 means working out the average: 15 divided by 3. The average is pulled down by the odd result, which is why the middle value is useful here.",
      "context": "This question is about the climbing water test. You hang strips of different materials with their ends in coloured water, and after 5 minutes measure how high the water climbed.",
      "how": "e4"
     },
@@ -1999,7 +2039,7 @@
      "mins": 4,
      "adult": true,
      "do": "1. Stretch the umbrella cloth, raincoat or plastic square over a dry tumbler. 2. Test it once with 20 ml of rain. 3. Then a grown-up makes one hole in a fresh square with the drawing pin. 4. Ask your child to guess, with a reason. 5. Test the square with the hole.",
-     "say": "This cloth let no rain through at all. Now it has one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?",
+     "say": "If this cloth let no rain through at all, now it gets one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?",
      "kid": "Test the umbrella cloth. Did any rain come through? Now a grown-up makes one tiny hole. Guess first, and say why. Then test it.",
      "ask": [
       {
@@ -2010,7 +2050,7 @@
        ]
       }
      ],
-     "parent": "Usually the square stays dry underneath except under the hole, where drops form. Often 1 to 3 ml come through. If nothing comes through, the hole may be too tiny for the water to push in. Make it a little bigger with the pin and test again. The cloth is still waterproof everywhere else. One missing spot decides where the rain gets in. Keep this in mind for the Roots card."
+     "parent": "Usually the square stays dry underneath except under the hole, where drops form. A few drops may come through, perhaps 1 to 3 ml, but it depends on the cloth and the hole. If nothing comes through, the hole may be too tiny for the water to push in. Make it a little bigger with the pin and test again. The cloth is still waterproof everywhere else. One missing spot decides where the rain gets in. Keep this in mind for the Roots card."
     },
     {
      "id": "s9",
@@ -2116,7 +2156,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep your feet away from under the bag. When the strip tears, the coins fall. A grown-up helps with the scissors.",
+   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -2167,12 +2207,12 @@
       "a": 1,
       "why": "The 3 is an odd result. Something probably went wrong, like a hidden nick or a coin dropped hard. Scientists check what happened and test again. The middle value, 14, is not pulled far off by the odd result. Picking 'add them together' gives the total, which is not the same as a result for one strip."
      },
-     "parent": "Twelve strips and about 400 coins take time, so let your child place the coins while you hold the bag still. Gather the fallen coins into a bowl after each tear. If you are using rice, pour one level spoonful at a time and count the spoonfuls."
+     "parent": "Twelve strips take time, so let your child place the coins while you hold the bag still. Gather the fallen coins into a bowl after each tear. A strong strip, like kitchen towel, may hold 60 or more coins. If the strip still holds when you run out of coins, write the number with a plus sign, like 70+. If you are using rice, pour one level spoonful at a time and count the spoonfuls."
     },
     {
      "id": "s5",
-     "mins": 2,
-     "do": "Draw the bar chart of middle values, one bar for each paper.",
+     "mins": 5,
+     "do": "Draw the bar chart of middle values, one bar for each paper. Compare it with your line of guesses.",
      "say": "Which paper is the strongest? Was your line of guesses right?",
      "kid": "Draw one bar for each paper. Which is strongest? Was your guess right?",
      "chart": {
@@ -2204,14 +2244,6 @@
       ]
      },
      "think": "Facial tissue felt soft and kitchen towel felt rough. Does soft mean weak?"
-    },
-    {
-     "id": "s6",
-     "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.",
-     "kid": "Write three sentences. What I think. What I saw. Why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: kitchen towel makes the strongest strip. What I saw: kitchen towel held about 60 coins, and toilet paper only about 15. Why: kitchen towel is thicker, with more fibres holding on to each other."
     }
    ],
    "context": "This is the strip strength test. You hang a little bag from a strip of thin paper and add coins, one at a time, until the strip tears. You do this for four papers, three times each.",
@@ -2301,7 +2333,7 @@
      "qty": 60
     }
    ],
-   "safety": "A grown-up helps with the scissors. Keep your feet away from under the bag. When the strip tears, the coins fall.",
+   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -2490,6 +2522,11 @@
      "item": "a ruler and a timer",
      "qty": 1,
      "buy": "b-ruler"
+    },
+    {
+     "item": "a magnifying glass, if you have one",
+     "qty": 1,
+     "buy": "b-magnifier"
     }
    ],
    "safety": "Food colouring and ink stain clothes and hands. Wear old clothes and work on newspaper.",
@@ -2583,19 +2620,12 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 7,
      "do": "Tear the end of a kitchen towel strip and a printer paper strip. Look at both torn edges through a magnifying glass.",
      "say": "Look at the torn edges. Which one is fluffy, with lots of gaps? Which is pressed flat?",
      "kid": "Tear the end of two strips. Look with a magnifier. Which edge is fluffy? Which is flat?",
-     "think": "A diya wick is made of cotton. Why not printer paper?"
-    },
-    {
-     "id": "s6",
-     "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.",
-     "kid": "Write three sentences. What I think. What I saw. Why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: kitchen towel soaks up water fastest. What I saw: in 5 minutes, the water climbed 9 cm up the kitchen towel. It climbed only 2 cm up the printer paper. Why: kitchen towel is fluffy, with lots of fine gaps between its fibres. The water is pulled up the gaps."
+     "think": "A diya wick is made of cotton. Why not printer paper?",
+     "parent": "Kitchen towel is fluffy, with lots of fine gaps between its fibres, and water is pulled up those gaps. Printer paper is pressed flat, with far fewer gaps."
     }
    ],
    "context": "This is the climbing water test. You hang strips of four materials with their ends in coloured water, and after 5 minutes you measure how high the water has climbed up each strip.",
@@ -2655,7 +2685,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needed.",
    "schedule": [
     {
      "day": 1,
@@ -2663,7 +2692,7 @@
      "what": "Plan a fair test using the three planning boxes and sticky notes."
     }
    ],
-   "record": "Keep your finished planning board. Use it again for the umbrella patch test.",
+   "record": "Keep your finished planning board. Use the same three boxes to plan every test.",
    "flow": [
     {
      "id": "s1",
@@ -2713,7 +2742,7 @@
      "do": "Draw an empty results table below the boxes. The CHANGE slip names the rows. The MEASURE slip names the columns.",
      "say": "The table comes straight from the plan. The things we change go down the side. What we measure goes across the top, with its unit.",
      "kid": "Draw a table. Write the cloths down the side. Write 'Water through (ml)' across the top. Add Try 1, Try 2, Try 3.",
-     "think": "Could you plan a test for something at home, like which chappal grips best, or which soap makes most bubbles?"
+     "think": "Could you plan a test for something at home, like which soap makes the most bubbles? What would you keep the same?"
     }
    ],
    "context": "This activity is a planning board. Before any test, you sort every possible change into three boxes: what you change, what you keep the same, and what you measure.",
@@ -2760,7 +2789,6 @@
      "buy": "b-ruler"
     }
    ],
-   "safety": "Only use hair that someone has agreed to give. Pull gently. Keep feet away from falling coins.",
    "schedule": [
     {
      "day": 1,
@@ -2777,7 +2805,18 @@
      "say": "One single hair. How many coins do you think it can hold? Guess first, and tell me why.",
      "kid": "Cut one hair to 20 cm. Wind the top round a pencil and tape it. Put the pencil under a book. Wind the bottom round the hook and tape it. Hang the cup. Guess: how many coins?",
      "context": "This is the first step of the One Hair Test. You find out how many one-rupee coins a single hair can hold before it snaps.",
-     "parent": "The turns round the pencil and the hook take the pull, so the hair breaks along its length, not at a knot. A knot is a weak spot, as the Knot Test shows."
+     "parent": "The turns round the pencil and the hook take the pull, so the hair breaks along its length, not at a knot. A knot is a weak spot, as the Knot Test shows.",
+     "check": {
+      "t": "mcq",
+      "q": "Why must every hair be cut to the same length for a fair test?",
+      "options": [
+       "Because long hair looks nicer",
+       "So that only the person's hair changes, not the length",
+       "Because short hair can't be tied"
+      ],
+      "a": 1,
+      "why": "In a fair test only one thing changes. Here it is whose hair it is. If the lengths were different too, we could not tell which mattered. Picking 'short hair can't be tied' is a practical worry. But it is not why the test needs the same length."
+     }
     },
     {
      "id": "s2",
@@ -2798,7 +2837,7 @@
       ],
       "rows": [
        [
-        "Amma",
+        "An adult",
         "22",
         "24",
         "21",
@@ -2812,7 +2851,7 @@
         "17"
        ],
        [
-        "Paati",
+        "An older person",
         "14",
         "15",
         "13",
@@ -2826,18 +2865,7 @@
      "mins": 3,
      "do": "Work out how many coins the whole head of hair might hold together.",
      "say": "A head has about one hundred thousand hairs. If each holds about 20 coins, together they could hold two million coins. That is about as heavy as two elephants. Of course, the scalp would let go long before that.",
-     "kid": "Your head has about 100,000 hairs. Together they could hold as much as two elephants! But your head would not like it.",
-     "check": {
-      "t": "mcq",
-      "q": "Why must every hair be cut to the same length for a fair test?",
-      "options": [
-       "Because long hair looks nicer",
-       "So that only the person's hair changes, not the length",
-       "Because short hair can't be tied"
-      ],
-      "a": 1,
-      "why": "In a fair test only one thing changes. Here it is whose hair it is. If the lengths were different too, we could not tell which mattered. Picking 'short hair can't be tied' is a practical worry. But it is not why the test needs the same length."
-     }
+     "kid": "Your head has about 100,000 hairs. Together they could hold as much as two elephants! But your head would not like it."
     },
     {
      "id": "s4",
@@ -2845,7 +2873,7 @@
      "do": "Talk together about what makes hair strong.",
      "say": "Hair is made of a material called keratin. Your nails are made of it too, and so are a cow's horns. It is made of long chains twisted together, like a rope.",
      "kid": "Hair is made of keratin, like your nails. Inside, it is like a tiny twisted rope.",
-     "think": "Grandmother's hair and your hair held different amounts. Is that because of age, or something else? How could you find out fairly?"
+     "think": "An older person's hair and a younger person's hair held different amounts. Is that because of age, or something else? How could you find out fairly?"
     }
    ],
    "context": "This activity tests how strong one single hair is. You hang a little cup of one-rupee coins from a hair and count until it snaps, comparing hairs from your family.",
@@ -2912,7 +2940,7 @@
      "do": "1. Wrap the bowl in the first cover, one layer. 2. Start the alarm. 3. Read the sound meter after 5 seconds. 4. Write it down. 5. Do this three times for each cover.",
      "say": "Same alarm, same volume, same bowl, same distance. Only the cover changes. What else must we keep the same?",
      "kid": "Wrap the bowl in one cover. Start the alarm. Read the number. Do each cover three times.",
-     "parent": "No second phone? Then measure how far away you can walk before you stop hearing the alarm. Use a measuring tape. A shorter distance means a better muffler. Keep the room as quiet as you can, and switch off fans, because noise around you is a change too.",
+     "parent": "No second phone? Then measure how far away you can walk before you stop hearing the alarm. Use a measuring tape. A shorter distance means a better muffler. Keep the room as quiet as you can, and switch off fans, because noise around you is a change too. Phone sound meter apps are rough. If two covers differ by only 1 or 2 decibels, call them about equal.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how loud the alarm sounded under each cover (middle values)",
@@ -3019,7 +3047,6 @@
      "qty": 1
     }
    ],
-   "safety": "Lower the books gently. Keep fingers out from under them.",
    "schedule": [
     {
      "day": 1,
@@ -3032,9 +3059,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Stand the ruler upright beside the first material. 2. Measure how thick it is, in centimetres. 3. Write it down.",
+     "do": "1. Stand the ruler upright beside the first material. 2. Measure how thick it is, in centimetres. 3. Write it down. 4. Do the same for each of the other materials.",
      "say": "First we measure how thick each thing is, before we squash it. Which ones do you think will spring back? Why?",
-     "kid": "Stand the ruler beside the sponge. How thick is it? Write it down.",
+     "kid": "Stand the ruler beside the sponge. How thick is it? Write it down. Do the same for every material.",
      "context": "This is the first step of the Squash Test. You squash different materials under the same heavy books, and measure whether they spring back."
     },
     {
@@ -3103,7 +3130,7 @@
       "a": 1,
       "why": "The bread did not go back to 2.5 cm, so it stayed squashed. Its soft walls of baked dough crushed and stuck together. A sponge's walls are springy, so they push back open. Picking 'elastic' means looking at the squash, not at what happened after. Both squashed. Only one sprang back."
      },
-     "think": "A sponge, foam and bread are all full of air holes. Why does only one kind spring back? What would happen to a sponge squashed a thousand times?",
+     "think": "A sponge and foam spring back, but bread stays squashed, even though all three are full of air holes. Why? What would happen to a sponge squashed a thousand times?",
      "parent": "After your child has answered, give the words. Springing back is called elastic. Staying squashed is called plastic, from an old Greek word that means 'can be shaped'."
     }
    ],
@@ -3156,7 +3183,6 @@
      "buy": "b-magnifier"
     }
    ],
-   "safety": "Only use hair that someone has agreed to give. Pull gently. Keep feet away from the falling coins.",
    "schedule": [
     {
      "day": 1,
@@ -3246,8 +3272,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk together about knots in real ropes.",
-     "say": "The knot was made of the same hair. Nothing was taken away. So why do you think the knotted hair held fewer coins? Where would a climber check a rope most carefully?",
-     "kid": "Nothing was taken away from the knotted hair. So why was it weaker? Where should a climber check a rope?",
+     "say": "The knot was made of the same hair. Nothing was taken away. If your knotted hairs held fewer coins, why do you think that was? Where would a climber check a rope most carefully?",
+     "kid": "Nothing was taken away from the knotted hair. If it was weaker, why? Where should a climber check a rope?",
      "ask": [
       {
        "q": "Where should a climber check a rope?",
@@ -3295,7 +3321,7 @@
      "qty": 3
     }
    ],
-   "safety": "A grown-up bends the paper clips. Broken ends are sharp, so wrap them in tape before throwing them away. Tap cups gently.",
+   "safety": "A grown-up bends the paper clips. Broken ends are sharp, so wrap them in tape before throwing them away.",
    "schedule": [
     {
      "day": 1,
@@ -3339,7 +3365,7 @@
      "do": "1. A grown-up opens a paper clip into a straight piece. 2. Bend it at its middle, all the way one way and back again. That is one bend. 3. Count bends until it snaps. 4. Do the same with two more clips, bending the same way each time.",
      "say": "One bend doesn't break it. Let's count how many it takes. Feel the bend after ten. Is it warm?",
      "kid": "Ask a grown-up to bend the clip back and forth. Count each bend out loud. When does it snap?",
-     "parent": "Clips often snap after 10 to 30 bends. Each clip gives a different number, which is the point: tiny hidden flaws differ. This weakening is called fatigue. The bend gets warm because bending metal turns some of the movement into heat.",
+     "parent": "Clips usually snap after somewhere between about 5 and 30 bends. Each clip gives a different number, which is the point: tiny hidden flaws differ. This weakening is called fatigue. The bend gets warm because bending metal turns some of the movement into heat.",
      "chart": {
       "type": "table",
       "title": "Made-up example results: bends until a paper clip snapped",
@@ -3416,7 +3442,7 @@
      "qty": 40
     }
    ],
-   "safety": "A grown-up helps with the scissors. Keep your feet away from under the bag. When the strip tears, the coins fall.",
+   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -3569,7 +3595,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up spills so nobody slips. A grown-up helps with the scissors.",
+   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -3600,9 +3626,9 @@
     {
      "id": "s2",
      "mins": 16,
-     "do": "1. Pour 50 ml of water onto a plate. 2. Lay one whole sheet of Brand A on it for 10 seconds. 3. Lift it by one corner and let it drip back onto the plate for 5 seconds. 4. Pour what is left on the plate into the measuring cup. 5. 50 take away what is left is what the sheet soaked up. 6. Repeat three times for each brand.",
+     "do": "1. Pour 50 ml of water onto a plate. 2. Lay one whole sheet of Brand A on it for 10 seconds. 3. Lift it by one corner and let it drip back onto the plate for 5 seconds. 4. Pour what is left on the plate into the measuring cup. 5. 50 minus what is left is what the sheet soaked up. 6. Repeat three times for each brand.",
      "say": "We pour the same 50 ml every time. Whatever is left behind tells us how much the sheet soaked up.",
-     "kid": "Pour 50 ml on a plate. Lay a sheet on it for 10 seconds. Lift it. Let it drip 5 seconds. Measure what is left. 50 take away that is what it soaked up.",
+     "kid": "Pour 50 ml on a plate. Lay a sheet on it for 10 seconds. Lift it. Let it drip 5 seconds. Measure what is left. 50 minus that is what it soaked up.",
      "parent": "If the sheets are different sizes, cut them all to the same size first, for example 20 cm by 20 cm. Otherwise the test is not fair.",
      "chart": {
       "type": "table",
@@ -3702,7 +3728,7 @@
      "do": "Your child presents the report to the family, and says which towel they would buy and why.",
      "say": "Which one would you buy? Is the winner the same if money is tight?",
      "kid": "Show your report to your family. Which one would you buy? Why?",
-     "think": "Brand C was not the best at anything, but it was good at everything and cheap. Is that a kind of best?"
+     "think": "Imagine a towel is not the best at anything, but it is good at everything and cheap. Is that a kind of best?"
     }
    ],
    "context": "In this 3-day project, you test real kitchen towels fairly: how much water each sheet soaks up, how strong it is when wet, and how much one sheet costs. Then you write a report card.",
@@ -3781,7 +3807,7 @@
        "The test was unfair, so ignore it"
       ],
       "a": 1,
-      "why": "Using a cover bends it again and again, like the paper clip. Cracks or gaps can open at the folds. Testing after use found a real weakness. Picking 'ignore it' throws away the most useful result. A good engineer is glad to find a weakness before the monsoon does."
+      "why": "Using a cover bends it again and again, the way bending a paper clip back and forth weakens it. Cracks or gaps can open at the folds. Testing after use found a real weakness. Picking 'ignore it' throws away the most useful result. A good engineer is glad to find a weakness before the monsoon does."
      },
      "parent": "Waxed paper often cracks at the folds after a few openings. Plastic sleeves work well. Layered designs often do best. If every design passes, make the test harder: 100 ml, or 20 openings."
     },
@@ -3871,7 +3897,7 @@
       "a": 0,
       "why": "It is the same paper, the same size of sheet and the same coins. Only the shape changed. Twisting squeezes the fibres together, so they grip each other and share the pull. Picking 'the paper changed' misses that both sheets were the same kind and size. That is what made the test fair."
      },
-     "parent": "A twisted rope or a plait usually holds many times more than a flat strip. If 100 coins is too easy, try 200. If the tape at the ends tears first, that is the weakest part of the design, not the paper."
+     "parent": "A twisted rope or a plait usually holds more than the same paper laid flat. How many more depends on the paper and how tightly you twist, so your count may be well below or above 100. Count what it really held, and that is an honest result. If the tape at the ends tears first, that is the weakest part of the design, not the paper."
     },
     {
      "id": "s4",
@@ -3954,20 +3980,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Tap the whole cup with a spoon. 2. Tap the cracked cup the same way. 3. Ask which sounds different.",
-     "say": "Let's try one idea. Tap both cups the same way. What do you hear? Why might they sound different?",
-     "kid": "Tap both cups with a spoon. Which one sounds dull? Why?",
-     "check": {
-      "t": "mcq",
-      "q": "The cracked cup sounds dull. Why?",
-      "options": [
-       "The crack stops the cup ringing like one whole piece",
-       "The cracked cup is heavier",
-       "The spoon was different"
-      ],
-      "a": 0,
-      "why": "A whole cup rings like one piece. A crack breaks the ring, so the sound dies quickly. Railway workers once tapped train wheels with hammers for this reason. Picking 'heavier' is a common guess, but a crack adds no weight."
-     }
+     "do": "1. Tap the cracked cup with a spoon, as you did in Tap and Bend. 2. Tap the whole cup the same way. 3. Which sounds different? No cracked cup? Skip to the next step.",
+     "say": "Here is one idea engineers use. Tap the part and listen. Tap both cups the same way. What do you hear?",
+     "kid": "Tap both cups with a spoon. Which one sounds dull?"
     },
     {
      "id": "s3",
@@ -3990,28 +4005,28 @@
  ],
  "videos": [
   {
-   "title": "A materials testing machine pulling a steel bar until it snaps (a tensile test, in slow motion)",
-   "channel": "to find: an engineering university or testing-equipment channel",
+   "title": "A materials testing machine pulling a steel bar until it snaps (a tensile test)",
+   "channel": "The Universal Grip Company",
    "youtube": "M2BXGEFTvzk",
    "mins": 3,
    "why": "Shows a real testing machine doing the strip strength test on steel, with the bar stretching thin and then snapping. Children see that engineers do the same test they did with paper and coins.",
-   "check": "Found by YouTube search: \"ASTM E8 - Violent Break! - Metal Tensile Test Rounded Sample\" by The Universal Grip Company. Title checked automatically. A parent may still preview it."
+   "check": "Please preview it first."
   },
   {
    "title": "The lotus effect: water drops rolling off a lotus leaf, filmed close up",
-   "channel": "to find: a science museum, university or nature channel",
+   "channel": "Discover Materials",
    "youtube": "uAbHN3rFzbQ",
    "mins": 3,
-   "why": "Shows water beading and rolling off a lotus leaf and carrying dirt away, much closer than a child can see at home. It shows what the card on why some materials keep water out describes.",
-   "check": "Found by YouTube search: \"The Lotus Effect (World Water Day)\" by Discover Materials. Title checked automatically. A parent may still preview it."
+   "why": "Shows water beading and rolling off a lotus leaf and carrying dirt away, much closer than a child can see at home. It shows why some surfaces keep water out.",
+   "check": "Please preview it first."
   },
   {
    "title": "Boeing 777 wing load test, 1995: bending a wing until it breaks",
-   "channel": "to find: Boeing or an aviation history channel",
+   "channel": "channel29offical",
    "youtube": "ET9Da2vOqKM",
    "mins": 3,
    "why": "For the parent and older children: a huge, real version of 'test it until it breaks'. The wings bend upwards a very long way before they snap. They break at about one and a half times the biggest load the plane should ever meet.",
-   "check": "Found by YouTube search: \"Boeing 777 Wing Loading Test\" by channel29offical. Title checked automatically. A parent may still preview it."
+   "check": "Please preview it first."
   }
  ],
  "quiz": [
@@ -4424,10 +4439,8 @@
   "That advert says 'stronger than ever'. How could we test it fairly?",
   "Your umbrella has a tiny hole. Would a test have found it? How?",
   "Why do we try things three times, not just once?",
-  "Which of your clothes would pass the umbrella test? Which would fail?",
-  "Why does the milk packet tear so easily at the notch?",
   "How could you find out which of your pens writes the longest line before running out, fairly?",
-  "The potter tapped the pot. What was she listening for?",
+  "A potter taps a pot before selling it. What is she listening for?",
   "Is it fair to test everyone in a class with the same test? Why or why not?",
   "If one hair can hold 20 coins, what could a plait of three hairs hold? How could you check?",
   "Did anything today give an odd result? What might have gone wrong?",
@@ -4440,36 +4453,12 @@
    "a": "It had a little tear."
   },
   {
-   "j": "Why was the rubber band so calm?",
-   "a": "It knew how to relax after a stretch."
-  },
-  {
    "j": "What did the umbrella say to the rain?",
    "a": "You can't get through to me!"
   },
   {
-   "j": "Why did the kitchen towel win the race?",
-   "a": "It soaked up all the attention."
-  },
-  {
    "j": "Why did the scientist test the joke three times?",
    "a": "In case the first laugh was a fluke."
-  },
-  {
-   "j": "What did the plastic bag say to the water drop?",
-   "a": "Sorry, no entry!"
-  },
-  {
-   "j": "Why was the sponge so popular?",
-   "a": "It absorbed everything you told it."
-  },
-  {
-   "j": "Why did the hair refuse to hold any more coins?",
-   "a": "It was at the end of its tether."
-  },
-  {
-   "j": "What did the table say to the results?",
-   "a": "Take a seat in your row."
   },
   {
    "j": "Why did the paper clip feel tired?",
@@ -4480,26 +4469,6 @@
    "a": "Everything just rolled off it."
   },
   {
-   "j": "What did the chalk say to the steel key?",
-   "a": "Stop scratching my back!"
-  },
-  {
-   "j": "Why did the rubber band get a job at the post office?",
-   "a": "It was good at holding things together."
-  },
-  {
-   "j": "Why did the unfair test get sent home?",
-   "a": "It kept changing its mind."
-  },
-  {
-   "j": "What is a raincoat's favourite subject?",
-   "a": "Water-proof maths."
-  },
-  {
-   "j": "Why did the crack never finish school?",
-   "a": "It kept splitting early."
-  },
-  {
    "j": "What did the ruler say to the rubber band?",
    "a": "Don't stretch the truth."
   },
@@ -4508,16 +4477,8 @@
    "a": "It always went to pieces."
   },
   {
-   "j": "Why did the middle value feel important?",
-   "a": "It was always in the centre of things."
-  },
-  {
    "j": "Why did the potter tap every pot?",
    "a": "To make sure none of them was cracking up."
-  },
-  {
-   "j": "Why did the rope win the contest?",
-   "a": "It knew how to twist the rules."
   },
   {
    "j": "Why don't kitchen towels tell secrets?",
@@ -4526,22 +4487,6 @@
   {
    "j": "Why did the odd result sit alone at lunch?",
    "a": "It just didn't fit in."
-  },
-  {
-   "j": "What did the strong paper bag say to the coins?",
-   "a": "Bring it on, I can handle it."
-  },
-  {
-   "j": "Why did the umbrella go to the tailor?",
-   "a": "It had a hole lot of trouble."
-  },
-  {
-   "j": "Why was the cracked cup never asked to sing?",
-   "a": "Every note came out dull."
-  },
-  {
-   "j": "What did the fair test say to the unfair test?",
-   "a": "Change one thing at a time, and I'll listen."
   }
  ],
  "maths": [
@@ -4740,13 +4685,6 @@
    "kind": "place",
    "where": "Kolkata",
    "why": "A science museum with galleries about metals, machines and engines."
-  },
-  {
-   "title": "A potter's workshop, a rope maker or a hardware shop near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Ask the potter how they check a pot for cracks. Ask the hardware shop how they know a rope or chain is strong enough."
   }
  ],
  "buy": [
@@ -4775,8 +4713,7 @@
     "a2",
     "a5",
     "a7"
-   ],
-   "plan": "Used in many DeepKids units, including Friction L3."
+   ]
   },
   {
    "id": "b-bands",
@@ -4814,34 +4751,31 @@
    "id": "b-book1",
    "item": "Rosie Revere, Engineer, by Andrea Beaty",
    "kind": "book",
-   "why": "A picture book about a girl whose flying machine fails its test, and why a failed test is a step forward. Ages 4 to 8.",
+   "why": "A picture book about a girl whose flying machine fails its test, and why a failed test is a step forward. Ages 4 to 8. Read it before the 100-Coin Strip challenge.",
    "url": "https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty",
    "used_in": [
     "c2"
-   ],
-   "plan": "If bought, read it before the 100-Coin Strip challenge. Ask: what did Rosie learn from her test?"
+   ]
   },
   {
    "id": "b-book2",
    "item": "The Most Magnificent Thing, by Ashley Spires",
    "kind": "book",
-   "why": "A picture book about a girl who builds, tests and rebuilds until her invention works. Ages 3 to 7.",
+   "why": "A picture book about a girl who builds, tests and rebuilds until her invention works. Ages 3 to 7. Read it on the day of the Keep the Notebook Dry challenge.",
    "url": "https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires",
    "used_in": [
     "c1"
-   ],
-   "plan": "If bought, read it on the day of the Keep the Notebook Dry challenge."
+   ]
   },
   {
    "id": "b-book3",
    "item": "Stuff Matters, by Mark Miodownik",
    "kind": "book",
-   "why": "For the parent: a materials scientist's stories of steel, paper, glass and more, and why they behave as they do.",
+   "why": "For the parent: a materials scientist's stories of steel, paper, glass and more, and why they behave as they do. The chapter on paper goes well with the Strip Strength Test.",
    "url": "https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik",
    "used_in": [
     "e2"
-   ],
-   "plan": "Optional reading for the parent. The chapter on paper goes well with the strip strength test."
+   ]
   }
  ],
  "warmup": [
@@ -4854,8 +4788,8 @@
    "a": "Because one try can be a fluke."
   },
   {
-   "q": "Three tries gave 9, 15 and 14. What is the middle value?",
-   "a": "14. In order: 9, 14, 15."
+   "q": "Three tries gave 7, 12 and 11. What is the middle value?",
+   "a": "11. In order: 7, 11, 12."
   },
   {
    "q": "Is a plastic bag waterproof or absorbent?",

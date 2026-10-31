@@ -1203,6 +1203,7 @@ function dumpCard() {
 }
 function parsedLine(it) {
   if (it.type === "have") return "Library · " + (it.category || "other");
+  if (it.type === "did" || it.type === "said") return "Learning from life · " + fmt(it.date || today);
   if (it.type === "update") {
     const e = (S.events || []).find((z) => z.id === it.id);
     return (
@@ -1370,7 +1371,7 @@ async function runDump() {
 Routines and classes already in the plan:
 ${routinesText()}
 The parent wrote the message below${D_.files?.length ? " and attached photos (they may be WhatsApp screenshots, notes, timetables or receipts)" : ""}${D_.chat?.length ? ". It ends with their answers to your earlier questions" : ""}.
-Pull out every class, tuition, online class, outing, rest or nap, meal, chore, to-do, exam, reminder, and every learning item the family owns (books, games, electronics, equipment, tools).
+Pull out every class, tuition, online class, outing, rest or nap, meal, chore, to-do, exam, reminder, and every learning item the family owns (books, games, electronics, equipment, tools). Also pull out anything the child already did, made or experienced (cooked, gardened, built, visited, watched, played): type "did"; and anything the child said or asked: type "said". Give these their date and, if told, "mins".
 Rules:
 - Anything that repeats ("every day", "weekdays", "on Mondays") is weekly, with "days" as numbers, 0 = Sunday to 6 = Saturday. "Every day" is [0,1,2,3,4,5,6]; "weekdays" is [1,2,3,4,5]. Never make a repeating thing a todo.
 - Rest, naps, sleep and meals are type "rest" or "meal" with a start and end. A time given relative to something ("1 hour rest after tuition") gets real times worked out from that thing's end time, on the same days.
@@ -1381,7 +1382,7 @@ Rules:
 - A "todo" is a one-off task with no fixed time. A "note" is only for facts that can't go on a calendar.
 - Ask a question only when a needed time or day is really missing and can't be worked out. Never ask about something already in the list above. One short question per gap, at most 3.
 - Never invent details.
-Reply with only JSON: {"items":[{"type":"class|tuition|online|outing|rest|meal|chore|todo|exam|reminder|have|note|update","id":null,"title":"short title","who":"you|kid|both","date":null,"days":null,"start":null,"end":null,"note":"","category":"book|game|electronics|equipment|tool|other"}],"questions":["..."]}
+Reply with only JSON: {"items":[{"type":"class|tuition|online|outing|rest|meal|chore|todo|exam|reminder|have|note|update|did|said","mins":null,"id":null,"title":"short title","who":"you|kid|both","date":null,"days":null,"start":null,"end":null,"note":"","category":"book|game|electronics|equipment|tool|other"}],"questions":["..."]}
 Message:
 """${text.slice(0, 6000)}"""`;
   try {
@@ -1433,6 +1434,13 @@ function addParsed() {
       got.push(x.title + " · " + parsedLine(x));
       if (x.type === "have") {
         S.inv = [...(S.inv || []), { id, name: x.title, cat: x.category || "other", note: x.note || "", from: "told" }];
+        return;
+      }
+      if (x.type === "did" || x.type === "said") {
+        lifeRecord(
+          { kind: x.type, title: x.title, text: x.note || "", date: x.date || today, mins: +x.mins || 0 },
+          true,
+        );
         return;
       }
       if (x.type === "note") {
