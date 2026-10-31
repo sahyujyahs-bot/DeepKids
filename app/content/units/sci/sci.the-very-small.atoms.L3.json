@@ -2,7 +2,7 @@
  "id": "sci.the-very-small.atoms.L3",
  "title": "Atoms: how small they are and what is inside them",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts below 1 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of chapati dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, and the hot colour glass mostly by moving water, not by the molecules wandering alone. The unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts once the piece is shorter than 2 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of chapati dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, and the hot colour glass mostly by moving water, not by the molecules wandering alone. The unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone. The torch extra round in Catch the Electron needs three or more people. The mustard-seed atom needs open space, so that activity is outside the core path, and the gas-stove flame is optional in the staircase activity.",
  "summary": {
   "text": "Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a sliver only one atom wide, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.",
   "art": "A zoom in five circles: a child's hand on a wooden table, the wood's fibres, a cluster of molecules, one atom drawn as a soft glowing cloud, and a tiny bright dot at its centre."
@@ -296,7 +296,7 @@
    "definition": "Things feel solid because the electrons of one thing push away the electrons of another. A quantum rule also stops electrons from crowding into the same place.",
    "description": "If atoms are nearly empty, why doesn't your hand sink into the table? Two reasons. First, all electrons are negative, and two negative charges repel. When your hand comes near the table, its electrons repel the table's electrons very strongly, long before any nuclei meet. Second, quantum physics has a rule, found by Wolfgang Pauli in 1925. Two electrons can never be in exactly the same state. So electrons cannot squeeze together, and atoms keep their size. What you feel as solid is not atoms packed with no gaps. It is electrons repelling electrons.",
    "examples": [
-    "Hold two magnets with the same ends facing. You feel them push apart before they touch.",
+    "Hold two magnets with the same ends facing. You feel them push apart before they touch. This is a magnetic push, not the push between electrons, but it feels alike.",
     "Two rubbed balloons on threads lean away from each other. Their extra electrons repel."
    ],
    "perspectives": [],
@@ -524,34 +524,14 @@
    "hint": "The paper is made of atoms. What happens when you reach one? And what is inside it?"
   },
   {
-   "q": "If atoms are almost all empty space, why can't you walk through a wall?",
-   "kind": "deep",
-   "hint": "Think of two magnets with the same ends facing. Do they need to touch to push?"
-  },
-  {
    "q": "Can we know something is real if we can never see it?",
    "kind": "big",
    "hint": "Nobody saw an atom for 2,000 years. How did scientists become sure? What else do you believe in without seeing it?"
   },
   {
-   "q": "An electron is found in one spot each time we look. Where is it when nothing is looking?",
-   "kind": "deep",
-   "hint": "Scientists still argue about this. What do you think?"
-  },
-  {
    "q": "Your atoms were made in stars and will go on after you. So what is 'you'? The atoms, or the pattern they make?",
    "kind": "big",
    "hint": "Your atoms keep changing as you eat, breathe and grow. Are you still the same you as last year?"
-  },
-  {
-   "q": "Kanada and Democritus had the same idea in two faraway places. Does an idea belong to one people, or to everyone?",
-   "kind": "big",
-   "hint": "Who should get the credit when two people think of the same thing?"
-  },
-  {
-   "q": "Ernest Marsden counted flashes in the dark for hours, but Rutherford's name went on the discovery. Who really discovered the nucleus?",
-   "kind": "big",
-   "hint": "Geiger and Marsden did the counting. Rutherford worked out what it meant. Can a discovery belong to one person?"
   },
   {
    "q": "Every electron is exactly the same as every other one. Is anything else in the world exactly the same as something else?",
@@ -562,16 +542,6 @@
    "q": "If big things are made of tiny things that follow rules of chance, why do big things seem so sure and solid?",
    "kind": "deep",
    "hint": "One dice roll is a surprise. What about the total of a million rolls?"
-  },
-  {
-   "q": "Is anything truly empty?",
-   "kind": "big",
-   "hint": "An atom is mostly empty space. But scientists say even empty space fizzes with energy."
-  },
-  {
-   "q": "Is there a smallest thing in the world, or does it go on getting smaller for ever?",
-   "kind": "big",
-   "hint": "Nobody knows. Which do you think is stranger?"
   }
  ],
  "story": {
@@ -598,7 +568,7 @@
    "The idea became famous, and it was named after Rutherford. Marsden grew older, crossed the world to New Zealand, and became a scientist there. Few people remember the student who sat in the dark and kept looking at the place where nothing was supposed to happen.",
    "But on rainy evenings, in his old age, Marsden would sometimes sit in a dark room on purpose, just for a moment. He would put his hand flat on a table and press. The table pressed back, firm and solid, as tables do. And he would smile, because he knew what the table really was. Almost all empty space, with a tiny speck in the middle of every atom, and electrons pushing back."
   ],
-  "epiphany": "For the parent: the story turns on the idea that atoms are almost entirely empty space. Most alpha particles pass straight through the gold because there is almost nothing there to hit. The rare ones that bounce back have met the tiny, heavy nucleus. What feels solid is not atoms packed with no gaps. It is electrons repelling electrons. The story also asks who gets the credit, and why patience in the 'boring' places matters. The last scene with the table is imagined.",
+  "epiphany": "For the parent: the story turns on the idea that atoms are almost entirely empty space. Most alpha particles pass straight through the gold because there is almost nothing there to hit. The rare ones that bounce back have met the tiny, heavy nucleus. What feels solid is not atoms packed with no gaps. It is electrons repelling electrons. Marsden and Geiger did the counting and Rutherford explained it, so the credit is shared. The last scene with the table is imagined.",
   "ask": [
    "Why did Rutherford think no alpha particles would bounce back?",
    "Most alpha particles went straight through the gold. What did that tell Rutherford about atoms?",
@@ -734,10 +704,10 @@
    ],
    "rules": [
     "Cut out the 22 cards. Each card has an emoji and a name on the front, and its size and a number on the back.",
-    "Playing alone: shuffle the cards and take 8. Lay them in a line, biggest on the left and smallest on the right, front side up. Time yourself. Then turn them over. The numbers should go up from left to right. Each card in the wrong place adds 10 seconds. Try to beat your best time, then try with all 22 cards.",
-    "Playing with others: deal 5 cards each, front side up, and put one card in the middle to start a ladder.",
-    "On your turn, put one of your cards into the ladder where you think it belongs. Say why. Someone turns it over to check the number.",
-    "If you are right, it stays. If you are wrong, take it back and take one more card from the pile.",
+    "Playing alone: shuffle the cards and take 8. Lay them in a line, biggest on the left and smallest on the right, front side up. Time yourself. Then turn them over. The numbers should go up from left to right. Each card with a lower number than the card on its left adds 10 seconds. Try to beat your best time, then try with all 22 cards.",
+    "Playing with others (2 to 4 players): shuffle the cards and deal 5 to each player, front side up. Turn one more card over and put it in the middle to start the ladder. Keep the rest in a pile.",
+    "On your turn, put one of your cards into the ladder where you think it belongs, and say why. Then turn that card and its neighbours over: the numbers must go up from left to right. Turn them face up again.",
+    "If you are right, the card stays. If you are wrong, take it back and take one card from the pile. If the pile is empty, just take your card back.",
     "The first player with no cards left wins."
    ],
    "flow": [
@@ -832,18 +802,20 @@
    "printables": [
     {
      "kind": "board",
-     "title": "The atom map: a dot in the middle (the nucleus) and three rings of numbered spots",
+     "title": "12 parts of the atom map: the nucleus dot and 11 numbered spots in three rings. Cut out or draw each part big enough to hold a seed, and lay them out on the floor with the nucleus in the middle.",
      "items": [
-      "Inner ring: spots 6, 7 and 8",
-      "Middle ring: spots 4, 5, 9 and 10",
-      "Outer ring: spots 2, 3, 11 and 12"
-     ]
-    },
-    {
-     "kind": "tokens",
-     "title": "40 small counters: dried tamarind seeds or chana work well",
-     "items": [
-      "🫘"
+      "Nucleus: a dot in the middle",
+      "Spot 6: inner ring",
+      "Spot 7: inner ring",
+      "Spot 8: inner ring",
+      "Spot 4: middle ring",
+      "Spot 5: middle ring",
+      "Spot 9: middle ring",
+      "Spot 10: middle ring",
+      "Spot 2: outer ring",
+      "Spot 3: outer ring",
+      "Spot 11: outer ring",
+      "Spot 12: outer ring"
      ]
     },
     {
@@ -858,30 +830,30 @@
     }
    ],
    "rules": [
-    "Put the atom map flat on the floor. You need two dice and a bowl of dried tamarind seeds or chana.",
+    "Put the atom map flat on the floor. You need two dice and 20 dried tamarind seeds or chana in a bowl.",
     "The electron is hidden. Nobody knows where it is until it is measured.",
     "Before each roll, every player guesses where the electron will be found: the inner ring, the middle ring or the outer ring. Write your guess down.",
-    "Then 'measure' the electron: roll both dice and add them up. Put one bean on the spot with that number. That is where the electron was found this time.",
+    "Then 'measure' the electron: roll both dice and add them up. Put one seed on the spot with that number. That is where the electron was found this time.",
     "Everyone who guessed the right ring scores one point.",
-    "Play 20 rolls. The player with the most points wins. Playing alone, try to score 9 points or more. Bring a torch for the bonus round.",
-    "At the end, look at the beans. They make a picture of the electron cloud.",
-    "Bonus round with friends: one player holds a torch and is the detector. The others creep towards the nucleus while the torch is off. Anyone the beam lands on is 'measured' and must freeze in that one spot. A rolled paper ball that touches you counts as a measurement too."
+    "Play 20 rolls, one seed for each roll. The player with the most points wins. If players are tied, play 5 more rolls with spare seeds. Playing alone, try to score 9 points or more.",
+    "At the end, look at the seeds. Together they show the electron cloud.",
+    "Extra round for three or more people: one player holds a torch and is the detector. The others creep towards the nucleus while the torch is off. When the detector switches the torch on, anyone the beam lands on is 'measured' and must freeze in that one spot. The detector may also roll a paper ball along the floor, and anyone it touches is measured too. The first player to touch the nucleus without being measured wins."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the atom map on the floor. 2. Put a bowl of beans and two dice beside it. 3. Show the nucleus in the middle and the three rings.",
+     "do": "1. Put the atom map on the floor. 2. Put a bowl of seeds and two dice beside it. 3. Show the nucleus in the middle and the three rings.",
      "say": "This map is an atom. The dot in the middle is the nucleus. Somewhere around it is an electron. We can never know exactly where it will be. We can only measure it and see.",
      "kid": "This map is an atom. The middle dot is the nucleus. An electron is somewhere around it. Nobody knows where until we measure.",
-     "context": "This is the first step of Catch the Electron. It is a dice game where each roll is one measurement of an electron, and the beans build up an electron cloud."
+     "context": "This is the first step of Catch the Electron. It is a dice game where each roll is one measurement of an electron, and the seeds build up an electron cloud."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Before each roll, everyone guesses a ring and writes it down. 2. Roll two dice and add them. 3. Put a bean on that number's spot. 4. Score a point for each right guess. 5. Play 20 rolls.",
-     "say": "Guess first: inner, middle or outer ring? Now let's measure. Roll the dice, add them, and put a bean where the electron was found.",
-     "kid": "Guess a ring. Roll both dice and add them. Put a bean on that number. Did you guess right?",
+     "do": "1. Before each roll, everyone guesses a ring and writes it down. 2. Roll two dice and add them. 3. Put a seed on that number's spot. 4. Score a point for each right guess. 5. Play 20 rolls.",
+     "say": "Guess first: inner, middle or outer ring? Now let's measure. Roll the dice, add them, and put a seed where the electron was found.",
+     "kid": "Guess a ring. Roll both dice and add them. Put a seed on that number. Did you guess right?",
      "ask": [
       {
        "q": "Which ring is the best one to guess? Why?",
@@ -896,27 +868,27 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Look at the beans on the map together after 20 rolls.",
-     "say": "Look at the beans. Where are they thickest? This is how scientists draw an electron. They call it an electron cloud.",
-     "kid": "Look at your beans. Where are there lots? Where are there few? You made an electron cloud!",
+     "do": "Look at the seeds on the map together after 20 rolls.",
+     "say": "Look at the seeds. Where are they thickest? This is how scientists draw an electron. They call it an electron cloud.",
+     "kid": "Look at your seeds. Where are there lots? Where are there few? You made an electron cloud!",
      "check": {
       "t": "mcq",
-      "q": "After 20 measurements, what do the beans show?",
+      "q": "After 20 measurements, what do the seeds show?",
       "options": [
        "Exactly where the electron will be next time",
        "Where the electron is likely to be found: a cloud, thick near the middle",
        "The track the electron goes round on"
       ],
       "a": 1,
-      "why": "Each bean is one measurement. Together they show where the electron is likely and unlikely to be. They cannot tell you the next spot. Picking 'the track' usually comes from the old planet picture of the atom. Real electrons have no track, only a cloud of chances."
+      "why": "Each seed is one measurement. Together they show where the electron is likely and unlikely to be. They cannot tell you the next spot. Picking 'the track' usually comes from the old planet picture of the atom. Real electrons have no track, only a cloud of chances."
      }
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Play the torch bonus round if you have friends. Then talk about who or what can measure.",
-     "say": "In the torch round, the torch was the detector. And the paper ball measured you too. Does a measurement need a person?",
-     "kid": "Did you need a person to measure you? Or could a torch beam or a paper ball do it?",
+     "do": "Talk about who or what can measure. If you have three or more people, play the torch extra round first (about 5 more minutes).",
+     "say": "A torch beam or a paper ball can measure you, just like a person. Does a measurement need a person?",
+     "kid": "Could a torch or a paper ball measure you? Or only a person?",
      "parent": "Say clearly: in physics, an 'observer' is anything that measures. A detector, a beam of light or even air molecules can measure an electron. No person needs to watch. Some people claim quantum physics proves our minds make the world. It does not.",
      "think": "If a speck of dust can 'measure' an electron, what does the word observer really mean?"
     }
@@ -924,15 +896,15 @@
    "setup": [
     {
      "art": "A paper atom map on a floor: a dot in the centre, three rings of numbered circles, two dice and a steel bowl of dark tamarind seeds beside it.",
-     "caption": "1. Put out the atom map, two dice and a bowl of beans."
+     "caption": "1. Put out the atom map, two dice and a bowl of seeds."
     },
     {
      "art": "A child rolling two dice, a written guess on a slip of paper beside her.",
      "caption": "2. Guess a ring. Roll both dice and add them."
     },
     {
-     "art": "The atom map covered with beans, thickest around the centre rings and thin at the edges, like a cloud.",
-     "caption": "3. Put a bean on that number. After 20 rolls, look at the cloud."
+     "art": "The atom map covered with seeds, thickest around the centre rings and thin at the edges, like a cloud.",
+     "caption": "3. Put a seed on that number. After 20 rolls, look at the cloud."
     }
    ]
   }
@@ -1072,9 +1044,9 @@
     },
     {
      "t": "write",
-     "p": "Ammu, a girl in Class 3, says, \"A steel tumbler is hard and solid, so it cannot be mostly empty space.\" How would you answer her? Use the magnet activity if you did it.",
+     "p": "Ammu, a girl in Class 3, says, \"A steel tumbler is hard and solid, so it cannot be mostly empty space.\" How would you answer her? Use the balloon activity if you did it.",
      "lines": 4,
-     "a": "The atoms in the tumbler really are mostly empty space. It feels hard because the electrons in my fingers and the electrons in the steel push each other away before they meet. It is like two magnets pushing apart before they touch. That push is what I feel as hard.",
+     "a": "The atoms in the tumbler really are mostly empty space. It feels hard because the electrons in my fingers and the electrons in the steel push each other away before they meet. It is like two rubbed balloons leaning apart before they touch. That push is what I feel as hard.",
      "why": "A strong answer agrees that atoms are mostly empty, and explains what makes things feel solid: electrons pushing each other away.",
      "how": "a4"
     },
@@ -1111,19 +1083,6 @@
      "p": "When water boils into steam, each water molecule swells up and becomes bigger.",
      "a": false,
      "why": "False. The molecules stay the same size. In steam they move much faster and spread far apart, so the same water takes up much more space. Many people think the molecules themselves grow, but only the gaps between them do."
-    },
-    {
-     "t": "mcq",
-     "p": "A girl's grandmother fries mustard seeds in the kitchen. A minute later, the girl smells them in the bedroom. What travelled to her nose?",
-     "opts": [
-      "Molecules from the hot seeds and oil, far too small to see",
-      "Nothing. A smell is just an idea in the head",
-      "Light from the frying pan"
-     ],
-     "a": 0,
-     "why": "Heat makes molecules float off the seeds and the oil. They spread through the air, bumping into air molecules, until some reach the girl's nose. You can only smell something when its molecules arrive.",
-     "context": "This question is like the Smell Race, where you wait to smell something opened at the far end of a room.",
-     "how": "a5"
     },
     {
      "t": "perspective",
@@ -1258,7 +1217,7 @@
        "a nucleus inside a huge, empty atom"
       ],
       [
-       "Two magnets pushing apart",
+       "Two rubbed balloons leaning apart",
        "electrons pushing each other away"
       ]
      ],
@@ -1362,64 +1321,6 @@
    "mins": 25,
    "items": [
     {
-     "t": "mcq",
-     "p": "Each cut halves the strip. About how many halvings would it take to turn a 24 cm strip into a sliver only one atom wide?",
-     "opts": [
-      "About 31 times",
-      "About 8 times",
-      "About 100 times",
-      "About a million times"
-     ],
-     "a": 0,
-     "why": "Each halving makes the piece half as long. After about 31 halvings, the piece would be only about one atom wide. Picking 8 means the scissors' stopping point was taken for an atom. Picking a million forgets how fast halving shrinks things: each cut halves everything that is left.",
-     "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
-     "how": "e1",
-     "answer_chart": {
-      "type": "bar",
-      "title": "How many times you would have to halve a 24 cm strip to get down to the size of each thing",
-      "x": "Size of",
-      "y": "Number of halvings",
-      "note": "Worked out with maths, not cut for real. Most people stop at about 8 cuts, when the scissors can't cut any more.",
-      "data": [
-       {
-        "label": "Where your scissors stop",
-        "value": 8,
-        "emoji": "✂️"
-       },
-       {
-        "label": "Width of a hair",
-        "value": 12,
-        "emoji": "🧵"
-       },
-       {
-        "label": "A red blood cell",
-        "value": 15,
-        "emoji": "🩸"
-       },
-       {
-        "label": "A bacterium",
-        "value": 17,
-        "emoji": "🦠"
-       },
-       {
-        "label": "A virus",
-        "value": 21,
-        "emoji": "🔬"
-       },
-       {
-        "label": "An atom",
-        "value": 31,
-        "emoji": "⚛️"
-       },
-       {
-        "label": "An atom's centre",
-        "value": 45,
-        "emoji": "•"
-       }
-      ]
-     }
-    },
-    {
      "t": "perspective",
      "p": "People argue about what 'observing' means in quantum physics, the science of the very small.",
      "views": [
@@ -1520,13 +1421,6 @@
     },
     {
      "t": "write",
-     "p": "A book says, 'You never really touch anything, because atoms push each other away before they meet.' Do you agree? Give a reason for each side.",
-     "lines": 4,
-     "a": "For example: in one way it is true, because the electrons push apart and the centres of the atoms never meet. But that push is what we mean by touching. So in another way, we do touch.",
-     "why": "There is no single right answer. A good answer gives a reason for each side."
-    },
-    {
-     "t": "write",
      "p": "The space inside an atom is called empty. Is it truly empty? What do you think?",
      "lines": 3,
      "a": "For example: it has no atoms in it, so in that way it is empty. But the electron cloud spreads through it, and scientists say even empty space fizzes with tiny flickers of energy. So perhaps nothing is truly empty.",
@@ -1571,6 +1465,13 @@
      ],
      "a": 0,
      "why": "To show the shape of something, light waves must be smaller than it. Atoms are far smaller than light waves, so even the best light microscope cannot show one. That is why scientists use needle-tip microscopes instead."
+    },
+    {
+     "t": "write",
+     "p": "In 1909, Ernest Marsden counted tiny flashes in a dark room for days, and Hans Geiger helped him. In 1911, Ernest Rutherford worked out what the flashes meant. Who deserves the credit for discovering the nucleus? Give a reason for each person.",
+     "lines": 4,
+     "a": "For example: Geiger and Marsden found the surprising result, because without their careful counting there would have been nothing to explain. Rutherford worked out that it meant a tiny, heavy centre. So the discovery needed both the counting and the thinking, and the credit can be shared.",
+     "why": "There is no single right answer. A good answer gives a reason for each person and sees that finding a result and explaining it are both part of a discovery."
     }
    ]
   }
@@ -1613,7 +1514,7 @@
      "qty": 1
     }
    ],
-   "safety": "Hold the paper by its long end, away from the blades. A grown-up does the cuts once the piece is shorter than 1 cm.",
+   "safety": "Hold the paper by its long end, away from the blades. A grown-up does the cuts once the piece is shorter than 2 cm.",
    "schedule": [
     {
      "day": 1,
@@ -1670,7 +1571,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 4,
      "do": "1. Cut a strip of paper 24 cm long and 2 cm wide. 2. Put the strip, scissors, ruler and results table on a table. 3. Ask your child to guess how many cuts they will manage.",
      "say": "We'll cut this strip in half, then cut one half in half, again and again. How many cuts do you think we can do before it's too small?",
      "kid": "Here is a strip of paper, 24 cm long. You will cut it in half again and again. How many cuts can you do? Write your guess.",
@@ -1679,7 +1580,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Fold the strip in half to find the middle. 2. Cut across the strip at the fold. 3. Measure one half and write the length in the table. 4. Keep one half and cut it in half the same way. 5. Do this 4 times. The piece is now 1 and a half centimetres long.",
+     "do": "1. Fold the strip in half to find the middle. 2. Cut across the strip at the fold. 3. Measure one half and write the length in the table. 4. Keep one half and cut it in half the same way. 5. Repeat until you have made 4 cuts in all. The piece is now 1 and a half centimetres long.",
      "say": "Each time, we cut across the strip, so the piece stays 2 centimetres wide. That gives you an edge to hold. Measure it and write it down.",
      "kid": "Fold the strip to find the middle. Cut across it. Measure one half. Keep it and cut it in half again.",
      "parent": "The lengths should be 12 cm, 6 cm, 3 cm and then 1 and a half cm. Cutting across the strip keeps one long edge of 2 cm, so small fingers stay away from the blades.",
@@ -1698,11 +1599,11 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. A grown-up now holds the piece by its 2 cm edge and cuts it in half with sharp scissors. 2. Measure with the millimetre marks on the ruler. 3. Keep going until the piece is too thin to cut, usually after 7 to 9 cuts.",
-     "say": "Now the pieces are tiny, so I'll do the cutting. Count with me. Cut five. Cut six. Is it getting hard?",
+     "do": "1. A grown-up now holds the piece by its 2 cm edge and cuts it in half with sharp scissors. 2. Measure with the millimetre marks on the ruler. 3. Keep going until the piece is too thin to cut, usually after 6 to 8 cuts in all.",
+     "say": "Now the pieces are tiny, so I'll do the cutting. Count with me. Is it getting hard?",
      "kid": "Ask a grown-up to do the tiny cuts. Count each cut out loud. When does it get too small?",
      "adult": true,
-     "parent": "After 8 cuts, the piece is a thin sliver about 1 millimetre wide. If the sliver slips, press it under a fingertip on a cutting board and cut beside your finger. Stop when it cannot be cut cleanly. Most people stop at 7, 8 or 9."
+     "parent": "After 8 cuts, the piece would be a thin sliver about 1 millimetre long. The last cuts are fiddly, so stopping at 6 or 7 is fine. If the sliver slips, press it under a fingertip on a cutting board and cut beside your finger. Stop when it cannot be cut cleanly."
     },
     {
      "id": "s4",
@@ -1767,11 +1668,11 @@
      "qty": 1
     },
     {
-     "item": "4 steel tumblers or 4 equal stacks of books, to hold the card up at the corners",
+     "item": "4 steel tumblers taller than the bowl, or 4 equal stacks of books, to hold the card up at the corners",
      "qty": 4
     },
     {
-     "item": "about 10 marbles, or small rubber balls",
+     "item": "about 10 marbles, or small rubber balls (collect them and roll them again to make 20 rolls)",
      "qty": 10,
      "buy": "b-marbles"
     },
@@ -1989,7 +1890,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 5,
      "do": "1. Put the two glasses side by side on the white paper, on a table nobody will bump. 2. Fill one with cold water. 3. A grown-up fills the other with hot water to the same level. 4. Wait one minute until both are still.",
      "say": "This glass is cold and this one is hot. We'll wait one minute so the water stops moving.",
      "kid": "Put two clear glasses on white paper. A grown-up fills one with hot water. You fill the other with cold. Wait one minute.",
@@ -1998,7 +1899,7 @@
     },
     {
      "id": "s2",
-     "mins": 6,
+     "mins": 8,
      "do": "1. Hold the food colour just above the water. 2. Drop one drop into each glass at the same moment. 3. Do not stir. 4. Watch and draw at 1, 3 and 5 minutes.",
      "say": "One drop in each, at the same time. Now hands off the table. What do you see?",
      "kid": "Drop one drop of colour in each glass at the same time. Don't stir! Watch closely and draw what you see.",
@@ -2015,7 +1916,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 7,
      "do": "Talk about what made the colour spread, using the 'How we know atoms are real' card.",
      "say": "Nobody stirred, but the water was moving. In the hot glass, warm water rises and cooler water sinks, so the water stirs itself. This is called convection. Water is also made of molecules that never stop moving. They bump the colour and blur its edges. In hot water, they move faster.",
      "kid": "Nobody stirred, but the water moved. Hot water stirs itself. Warm water rises and cool water sinks. Water molecules never stop moving, too. Hot ones move faster!",
@@ -2029,39 +1930,7 @@
       ],
       "a": 0,
       "why": "Hot water stirs itself: warm water rises and cooler water sinks, which is called convection. Its molecules also move faster, so they bump the colour around faster. Picking 'hot water is thinner' is a sensible guess, because hot water does flow a little more easily. Picking 'the drop fell harder' misses that both drops fell from the same height."
-     },
-     "chart": {
-      "type": "table",
-      "title": "Made-up example results: one drop of food colour, no stirring",
-      "cols": [
-       "Glass",
-       "After 1 minute",
-       "After 3 minutes",
-       "After 5 minutes"
-      ],
-      "rows": [
-       [
-        "Hot water",
-        "Colour swirling through half the glass",
-        "Nearly all the glass is coloured",
-        "Evenly coloured"
-       ],
-       [
-        "Cold water",
-        "A thin stream sinking to the bottom",
-        "A coloured layer at the bottom",
-        "Still mostly clear at the top"
-       ]
-      ]
      }
-    },
-    {
-     "id": "s4",
-     "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What do you think? What did you see? Why did it happen?",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: still water is always moving a little, and hot water moves more. What I saw: nobody stirred, but the colour spread. In the hot glass it spread in about 3 minutes. In the cold glass it was still patchy after 5 minutes. Why: hot water stirs itself as warm water rises, and its molecules move faster."
     }
    ],
    "setup": [
@@ -2089,7 +1958,7 @@
    "context": "In this activity you close your eyes and try to hit a target with a pencil, 50 times. The dots make a cloud. It is a picture of how scientists draw where an electron is likely to be found.",
    "materials": [
     {
-     "item": "a sheet of paper with a bindi, a sticker or a small drawn dot in the middle",
+     "item": "a big sheet of paper, such as a newspaper page, with a bindi, a sticker or a small drawn dot in the middle",
      "qty": 1
     },
     {
@@ -2097,11 +1966,10 @@
      "qty": 1
     },
     {
-     "item": "a bangle and a bigger bangle or a steel plate, to draw rings",
+     "item": "three round things of different sizes to draw rings, such as a bangle, a steel katori and a plate",
      "qty": 1
     }
    ],
-   "safety": "Keep the pencil point down, away from eyes.",
    "schedule": [
     {
      "day": 1,
@@ -2130,7 +1998,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Put the small bangle around the target and draw a ring. 2. Use a bigger bangle or a plate to draw a second ring, and a bigger plate for a third. 3. Count the dots in each ring.",
+     "do": "1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count dots outside the third ring with the outer ring.",
      "say": "Let's draw rings around the target and count. Which ring has the most dots? Where are the dots packed most tightly?",
      "kid": "Draw rings with a bangle and a plate. Count the dots in each ring. Where are they packed most tightly?",
      "chart": {
@@ -2195,7 +2063,7 @@
   },
   {
    "id": "a2",
-   "title": "A Mustard-Seed Atom (if you have a park or a long corridor)",
+   "title": "A Mustard-Seed Atom: a park-sized model (optional, outdoors)",
    "mins": 20,
    "days": 1,
    "context": "In this activity you make a giant model of an atom outdoors. A mustard seed is the nucleus. You walk out to find where the atom's edge would be. It shows how empty an atom is.",
@@ -2321,7 +2189,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use only one or two small drops of water on the phone screen, and wipe it dry straight after. A grown-up holds the phone.",
    "schedule": [
     {
      "day": 1,
@@ -2396,7 +2263,7 @@
    "title": "Pushing Without Touching",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you feel two magnets push each other apart before they touch. It is a hand-sized model of why things feel solid, even though atoms are almost all empty space.",
+   "context": "In this activity you feel two magnets push apart before they touch, and see two rubbed balloons push apart. It is a hand-sized way to feel why things seem solid, even though atoms are almost all empty space.",
    "materials": [
     {
      "item": "two bar magnets or two round ring magnets",
@@ -2408,7 +2275,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep magnets away from phones and bank cards. Pick up every bit of a popped balloon, as it is a choking risk for small children.",
+   "safety": "Pick up every bit of a popped balloon, as it is a choking risk for small children.",
    "schedule": [
     {
      "day": 1,
@@ -2424,7 +2291,8 @@
      "do": "1. Hold one magnet in each hand. 2. Slowly bring the same ends together, north to north. 3. Feel the push before they touch. 4. Turn one around and feel them pull.",
      "say": "Bring them close slowly. Can you feel them pushing? They haven't even touched.",
      "kid": "Hold a magnet in each hand. Bring them close slowly. Feel the push? Now turn one around and try again.",
-     "context": "This is the first step of Pushing Without Touching. You feel two magnets push each other apart before they touch."
+     "context": "This is the first step of Pushing Without Touching. You feel two magnets push each other apart before they touch.",
+     "parent": "The magnet push is a magnetic force, not the push between electrons. It is only a way to feel a push without touching. The balloons below are the electric push between electrons."
     },
     {
      "id": "s2",
@@ -2438,7 +2306,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Press your hand on the table. Explain the link to atoms, using the 'Why things feel solid' card.",
-     "say": "When your hand presses the table, the electrons in your hand push the table's electrons, like those magnets. That push is what 'solid' feels like.",
+     "say": "When your hand presses the table, the electrons in your hand push the table's electrons, like the two balloons. That push is what 'solid' feels like.",
      "kid": "Press your hand on the table. Its electrons push your hand's electrons. That push is what 'solid' feels like!",
      "check": {
       "t": "mcq",
@@ -2488,7 +2356,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not use perfume sprays, incense or anything burning.",
    "schedule": [
     {
      "day": 1,
@@ -2501,7 +2368,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Switch off the fan and close the windows. 2. Everyone stands at different distances from one corner: 1 metre, 2 metres and as far as you can. 3. Everyone closes their eyes.",
+     "do": "1. Switch off the fan and close the windows. 2. Everyone stands at different distances from one corner: 1 metre, 2 metres and as far as you can. If there are only two of you, the child stands as far from the corner as the room allows. 3. Everyone closes their eyes.",
      "say": "Stand still and close your eyes. When you smell something, put your hand up. Don't peek!",
      "kid": "Close your eyes. Stand still. Put your hand up when you smell something.",
      "context": "This is the first step of the Smell Race. You time how long a smell takes to travel across a still room."
@@ -2551,17 +2418,17 @@
   },
   {
    "id": "a6",
-   "title": "Salt Turns the Flame Yellow: atoms on a staircase",
+   "title": "Atoms on a Staircase: why salt turns a flame yellow",
    "mins": 15,
    "days": 1,
    "context": "In this activity a grown-up sprinkles a pinch of salt on a gas flame, and it flashes bright yellow. Then you act out why on a staircase. It shows a strange rule of the very small: electrons can only have certain amounts of energy, like standing on steps.",
    "materials": [
     {
-     "item": "a gas stove, used only by a grown-up",
+     "item": "optional: a gas stove, used only by a grown-up",
      "qty": 1
     },
     {
-     "item": "a pinch of dry table salt on a spoon",
+     "item": "optional: a pinch of dry table salt on a spoon",
      "qty": 1
     },
     {
@@ -2569,12 +2436,12 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up lights the stove and sprinkles the salt. The child watches from at least one metre away. Use dry salt only.",
+   "safety": "Only a grown-up lights the stove and sprinkles the salt. The child watches from at least one metre away. Use dry salt only. No gas stove? Skip step 1.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Watch salt turn a gas flame yellow, then play the staircase game."
+     "what": "Play the staircase game. If you have a gas stove, first watch salt turn the flame yellow."
     }
    ],
    "record": "Draw the flame before and after the salt. Draw a staircase with an electron jumping down one step.",
@@ -2582,7 +2449,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. The child stands at least one metre from the stove. 2. A grown-up lights one burner on low. 3. The grown-up holds a spoon of dry salt high above the flame. 4. They tip it slowly, so a few grains fall in.",
+     "do": "Optional, only with a gas stove: 1. The child stands at least one metre from the stove. 2. A grown-up lights one burner on low. 3. The grown-up holds a spoon of dry salt high above the flame. 4. They tip it slowly, so a few grains fall in. No gas stove? Skip to step 2.",
      "say": "Watch the blue flame. Now I'm sprinkling a few grains of salt. What colour do you see?",
      "kid": "Stand back and watch the blue flame. A grown-up sprinkles salt. What colour flashes?",
      "adult": true,
@@ -2662,7 +2529,7 @@
      "qty": 1
     }
    ],
-   "safety": "Small beans and seeds are a choking risk for children under 3. Wash hands after using chapati dough.",
+   "safety": "Small seeds are a choking risk for children under 3.",
    "schedule": [
     {
      "day": 1,
@@ -2683,14 +2550,14 @@
      "do": "Look at the 'What an atom is made of' card together. Count out 6 tamarind seeds for protons and 6 chana for neutrons.",
      "say": "A carbon atom has 6 protons and 6 neutrons in its nucleus. The tamarind seeds are the protons. The chana are the neutrons.",
      "kid": "Count 6 dark tamarind seeds. These are protons. Count 6 white chana. These are neutrons.",
-     "context": "This is the first step of Make an Honest Carbon Atom. You count out beans to build the centre of a carbon atom."
+     "context": "This is the first step of Make an Honest Carbon Atom. You count out seeds to build the centre of a carbon atom."
     },
     {
      "id": "s2",
      "mins": 15,
      "do": "1. Press the tamarind seeds and chana together into a small ball, using glue or a little chapati dough. 2. Mix the colours. 3. Put it in the middle of the paper plate.",
      "say": "Press them together into one little ball. This is the nucleus, the heavy centre of the atom.",
-     "kid": "Squeeze the beans into one little ball. Mix the colours. Put it in the middle of the plate.",
+     "kid": "Squeeze the seeds into one little ball. Mix the colours. Put it in the middle of the plate.",
      "parent": "Real protons and neutrons are jumbled together like this, not in neat rows."
     },
     {
@@ -2725,7 +2592,7 @@
      "do": "1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.",
      "say": "Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?",
      "kid": "Label your model. Then think: what does it get wrong? Explain your atom to someone at home.",
-     "parent": "Good answers: the nucleus is far too big for the cloud. If this bean were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.",
+     "parent": "Good answers: the nucleus is far too big for the cloud. If this seed were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.",
      "think": "Scientists use models they know are not quite right. Why might a wrong model still be useful?"
     }
    ],
@@ -2735,11 +2602,11 @@
      "caption": "1. Count 6 tamarind seeds for protons and 6 chana for neutrons."
     },
     {
-     "art": "A child pressing the beans into one small mixed ball in the middle of a paper plate.",
+     "art": "A child pressing the seeds into one small mixed ball in the middle of a paper plate.",
      "caption": "2. Press them into one small ball: the nucleus."
     },
     {
-     "art": "A paper plate with a bean nucleus in the middle and a soft cotton-wool cloud around it, thickest near the centre, dotted with pen marks.",
+     "art": "A paper plate with a seed nucleus in the middle and a soft cotton-wool cloud around it, thickest near the centre, dotted with pen marks.",
      "caption": "3. Next day, fluff cotton into a cloud around it, thickest near the middle."
     }
    ]
@@ -2913,7 +2780,7 @@
    "youtube": "yQP4UJhNn0I",
    "mins": 6,
    "why": "A clear animated tour of how small atoms are and how empty they are, with a stadium and a pea to picture the nucleus. Good for children and parents together.",
-   "check": "Found by YouTube search in this session: title 'Just How Small is an Atom?' by TED-Ed, 5 minutes 28 seconds. Not watched from here. A parent may preview it."
+   "check": "Title and channel checked against YouTube. Not watched in full."
   },
   {
    "title": "A Boy And His Atom: The World's Smallest Movie",
@@ -2921,7 +2788,7 @@
    "youtube": "oSCX78-8-q0",
    "mins": 2,
    "why": "A tiny cartoon made by moving single molecules on a copper surface, one frame at a time. Children love it, and it shows that scientists can really see and move atoms.",
-   "check": "Found by YouTube search in this session: title 'A Boy And His Atom: The World's Smallest Movie' by IBM, 1 minute 34 seconds. Not watched from here."
+   "check": "Title and channel checked against YouTube. Not watched in full."
   },
   {
    "title": "The Double Slit Experiment, with Jim Al-Khalili",
@@ -2929,7 +2796,7 @@
    "youtube": "A9tKncAdlHQ",
    "mins": 9,
    "why": "For the parent and curious older children: a physicist explains how electrons and light spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes.",
-   "check": "Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like a person looking matters, so a parent should preview it and check that it says a detector is enough."
+   "check": "Title and channel checked against YouTube. Not watched in full."
   }
  ],
  "quiz": [
@@ -2957,21 +2824,6 @@
    "a": 1,
    "outcome": 0,
    "why": "An atom is about one ten-millionth of a millimetre across. A magnifying glass only makes things a few times bigger. Picking 'only in sunlight' is a guess that more light helps. It doesn't, because light waves are thousands of times longer than an atom is wide."
-  },
-  {
-   "t": "mcq",
-   "p": "In the paper-cutting experiment, each cut halves the strip. A strip starts at 24 cm long. How long is it after 3 cuts?",
-   "opts": [
-    "3 cm",
-    "6 cm",
-    "8 cm",
-    "12 cm"
-   ],
-   "a": 0,
-   "why": "24 halved is 12. 12 halved is 6. 6 halved is 3. So after 3 cuts, the strip is 3 cm long. Picking 8 means dividing 24 by 3, but each cut halves the strip.",
-   "outcome": 1,
-   "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -3182,24 +3034,16 @@
   {
    "q": "Why do big things look so sure and solid, when tiny things follow rules of chance?",
    "why_open": "Scientists understand a lot of this: bumps with the world around them hide the chance in big things. But exactly where the tiny world ends and the everyday world begins is still studied."
-  },
-  {
-   "q": "When did Kanada live, and what exactly did he teach?",
-   "why_open": "Very old texts are hard to date, and his teachings come to us through later writers."
   }
  ],
  "ask_kids": [
   "If you kept cutting this dosa in half, what would you get in the end?",
   "Is the air in this room empty, or full of something?",
-  "You can smell the rasam cooking. What has reached your nose?",
-  "Your hand is almost all empty space. So why doesn't it go through the table?",
   "Which is smaller, an ant or a grain of salt? And what is smaller than both?",
   "Where do you think the atoms in your food came from before they were food?",
   "If you could shrink to the size of an atom, what would you see?",
   "Can something be real if nobody can ever see it?",
-  "Is there a smallest thing in the world?",
-  "When you breathe out near a friend, could some of your atoms end up inside them?",
-  "Every electron is exactly the same. Are any two things in our house exactly the same?"
+  "When you breathe out near a friend, could some of your atoms end up inside them?"
  ],
  "jokes": [
   {
@@ -3211,40 +3055,8 @@
    "a": "'Yes, I'm positive!'"
   },
   {
-   "j": "Why was the atom so calm?",
-   "a": "It had plenty of space inside."
-  },
-  {
-   "j": "What did the nucleus say to the electron who kept wandering off?",
-   "a": "Stop going round in clouds!"
-  },
-  {
-   "j": "Why did the mustard seed feel important?",
-   "a": "It got to be the centre of the atom."
-  },
-  {
-   "j": "How many times can you cut paper in half?",
-   "a": "Just once. After that, you're cutting a half!"
-  },
-  {
-   "j": "Why did the electron never get lost?",
-   "a": "It was always somewhere in its cloud."
-  },
-  {
-   "j": "What do you call a particle that loves dancing?",
-   "a": "A partic-ballet."
-  },
-  {
-   "j": "Why did the marble go back home?",
-   "a": "It hit something it didn't expect."
-  },
-  {
    "j": "Why are atoms bad at hide and seek?",
    "a": "Once you measure them, they're found!"
-  },
-  {
-   "j": "What did the salt grain say to the sugar grain?",
-   "a": "We look alike, but we're made of different atoms."
   },
   {
    "j": "Why did the neutron get free entry to the show?",
@@ -3255,14 +3067,6 @@
    "a": "Cloudy, of course."
   },
   {
-   "j": "Why did the smell win the race across the room?",
-   "a": "It got a lift from the moving air."
-  },
-  {
-   "j": "Why are quarks never seen on their own?",
-   "a": "They always stick together with other quarks."
-  },
-  {
    "j": "What did the yellow flame say to the salt?",
    "a": "You really light me up!"
   },
@@ -3271,20 +3075,8 @@
    "a": "To learn how to bond."
   },
   {
-   "j": "What's a proton's favourite drink?",
-   "a": "Anything, as long as it's positive."
-  },
-  {
    "j": "Why was the electron sad at the party?",
    "a": "Nobody could pin it down for a dance."
-  },
-  {
-   "j": "What do atoms say when they leave?",
-   "a": "We'll be in touch. Sort of."
-  },
-  {
-   "j": "How does a scientist count invisible things?",
-   "a": "Very carefully, in the dark."
   }
  ],
  "maths": [
@@ -3537,13 +3329,6 @@
    "kind": "place",
    "where": "Mumbai",
    "why": "The research institute founded by Homi Bhabha, where scientists study the very small. Look for its public lectures and open days."
-  },
-  {
-   "title": "A gas stove, a street light and a newspaper near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "You can see atoms at work everywhere: salt turning a flame yellow, an old orange street light, the dots in a newspaper photo."
   }
  ],
  "buy": [
@@ -3582,7 +3367,7 @@
    "id": "b-magnets",
    "item": "Bar magnets (a pair)",
    "kind": "tool",
-   "why": "To feel two magnets repel each other without touching, like electrons do.",
+   "why": "To feel two magnets push apart without touching.",
    "url": "https://www.amazon.in/s?k=bar+magnet+pair+school",
    "used_in": [
     "a4"
@@ -3592,12 +3377,11 @@
    "id": "b-dice",
    "item": "Dice (a pair)",
    "kind": "game",
-   "why": "For the Catch the Electron game.",
+   "why": "For the Catch the Electron game. Any two dice from a board game at home work as well.",
    "url": "https://www.amazon.in/s?k=dice+pair",
    "used_in": [
     "g2"
-   ],
-   "plan": "Any two ordinary dice from a board game at home work just as well."
+   ]
   },
   {
    "id": "b-book-shrew",
@@ -3607,8 +3391,7 @@
    "url": "https://www.amazon.in/s?k=What%27s+Smaller+Than+a+Pygmy+Shrew+Robert+Wells",
    "used_in": [
     "g1"
-   ],
-   "plan": "If bought, read it on the day of the size ladder game, before playing. It can replace the 'How small is an atom?' card."
+   ]
   },
   {
    "id": "b-book-quantum",
@@ -3618,8 +3401,7 @@
    "url": "https://www.amazon.in/s?k=Quantum+Physics+for+Babies+Chris+Ferrie",
    "used_in": [
     "a6"
-   ],
-   "plan": "If bought, read it after the staircase game, as a gentle recap of energy steps."
+   ]
   },
   {
    "id": "b-book-elements",
@@ -3629,22 +3411,13 @@
    "url": "https://www.amazon.in/s?k=The+Elements+Theodore+Gray",
    "used_in": [
     "p1"
-   ],
-   "plan": "If bought, look at the carbon pages while making the carbon atom model."
+   ]
   }
  ],
  "warmup": [
   {
    "q": "Everything you can touch is made of tiny particles called ____.",
    "a": "atoms"
-  },
-  {
-   "q": "Can you see one atom with a magnifying glass?",
-   "a": "No. Atoms are far too small."
-  },
-  {
-   "q": "About how many times would you halve a 24 cm strip to get a piece one atom wide?",
-   "a": "About 31 times."
   },
   {
    "q": "What is the tiny, heavy centre of an atom called?",
@@ -3661,10 +3434,6 @@
   {
    "q": "What colour does salt turn a gas flame?",
    "a": "Yellow, from its sodium atoms."
-  },
-  {
-   "q": "In physics, does an 'observer' have to be a person?",
-   "a": "No. Anything that measures counts, like a detector."
   },
   {
    "q": "Which thinker in ancient India taught that everything is made of paramanu?",
@@ -3723,7 +3492,6 @@
    "e2",
    "e3",
    "a1",
-   "a2",
    "a4",
    "a6"
   ],

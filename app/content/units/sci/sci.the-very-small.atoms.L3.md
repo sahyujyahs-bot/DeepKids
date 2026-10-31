@@ -83,7 +83,7 @@ In 1909, in Manchester in England, Hans Geiger and a 20-year-old student, Ernest
 **Definition:** Things feel solid because the electrons of one thing push away the electrons of another. A quantum rule also stops electrons from crowding into the same place.
 
 If atoms are nearly empty, why doesn't your hand sink into the table? Two reasons. First, all electrons are negative, and two negative charges repel. When your hand comes near the table, its electrons repel the table's electrons very strongly, long before any nuclei meet. Second, quantum physics has a rule, found by Wolfgang Pauli in 1925. Two electrons can never be in exactly the same state. So electrons cannot squeeze together, and atoms keep their size. What you feel as solid is not atoms packed with no gaps. It is electrons repelling electrons.
-- e.g. Hold two magnets with the same ends facing. You feel them push apart before they touch.
+- e.g. Hold two magnets with the same ends facing. You feel them push apart before they touch. This is a magnetic push, not the push between electrons, but it feels alike.
 - e.g. Two rubbed balloons on threads lean away from each other. Their extra electrons repel.
 ### Electrons are found in clouds, not on tracks · *defined*
 **Definition:** An electron in an atom does not go round the nucleus on a track. Quantum physics can only say how likely it is to be found in each place. Scientists draw this as a cloud: thick where the electron is likely to be, thin where it is not.
@@ -197,16 +197,10 @@ About 90 kinds of atom build everything you can touch. Each atom is built from o
 
 ## Deep and big questions
 - *deep:* If you had perfect scissors and perfect eyes, could you cut a piece of paper in half for ever? (hint: The paper is made of atoms. What happens when you reach one? And what is inside it?)
-- *deep:* If atoms are almost all empty space, why can't you walk through a wall? (hint: Think of two magnets with the same ends facing. Do they need to touch to push?)
 - *big:* Can we know something is real if we can never see it? (hint: Nobody saw an atom for 2,000 years. How did scientists become sure? What else do you believe in without seeing it?)
-- *deep:* An electron is found in one spot each time we look. Where is it when nothing is looking? (hint: Scientists still argue about this. What do you think?)
 - *big:* Your atoms were made in stars and will go on after you. So what is 'you'? The atoms, or the pattern they make? (hint: Your atoms keep changing as you eat, breathe and grow. Are you still the same you as last year?)
-- *big:* Kanada and Democritus had the same idea in two faraway places. Does an idea belong to one people, or to everyone? (hint: Who should get the credit when two people think of the same thing?)
-- *big:* Ernest Marsden counted flashes in the dark for hours, but Rutherford's name went on the discovery. Who really discovered the nucleus? (hint: Geiger and Marsden did the counting. Rutherford worked out what it meant. Can a discovery belong to one person?)
 - *deep:* Every electron is exactly the same as every other one. Is anything else in the world exactly the same as something else? (hint: Think of two coins, two leaves, two twins. Are they exactly the same?)
 - *deep:* If big things are made of tiny things that follow rules of chance, why do big things seem so sure and solid? (hint: One dice roll is a surprise. What about the total of a million rolls?)
-- *big:* Is anything truly empty? (hint: An atom is mostly empty space. But scientists say even empty space fizzes with energy.)
-- *big:* Is there a smallest thing in the world, or does it go on getting smaller for ever? (hint: Nobody knows. Which do you think is stranger?)
 
 ## Story: Counting in the Dark
 *Real: Ernest Marsden was 20 and a student in Manchester in 1909. He and Hans Geiger counted tiny flashes made by alpha particles from radium, in a darkened room, through a microscope. They found that a few bounced back from metal foil, about 1 in 8,000 for platinum. Rutherford explained it in 1911 with the tiny nucleus. Rutherford's words about the shell and the tissue paper are from a lecture he gave much later. Marsden later moved to New Zealand. Imagined: Marsden's thoughts, the rain, the exact words of the conversations, and the last scene of Marsden in his old age.*
@@ -245,7 +239,7 @@ The idea became famous, and it was named after Rutherford. Marsden grew older, c
 
 But on rainy evenings, in his old age, Marsden would sometimes sit in a dark room on purpose, just for a moment. He would put his hand flat on a table and press. The table pressed back, firm and solid, as tables do. And he would smile, because he knew what the table really was. Almost all empty space, with a tiny speck in the middle of every atom, and electrons pushing back.
 
-**For the parent:** For the parent: the story turns on the idea that atoms are almost entirely empty space. Most alpha particles pass straight through the gold because there is almost nothing there to hit. The rare ones that bounce back have met the tiny, heavy nucleus. What feels solid is not atoms packed with no gaps. It is electrons repelling electrons. The story also asks who gets the credit, and why patience in the 'boring' places matters. The last scene with the table is imagined.
+**For the parent:** For the parent: the story turns on the idea that atoms are almost entirely empty space. Most alpha particles pass straight through the gold because there is almost nothing there to hit. The rare ones that bounce back have met the tiny, heavy nucleus. What feels solid is not atoms packed with no gaps. It is electrons repelling electrons. Marsden and Geiger did the counting and Rutherford explained it, so the credit is shared. The last scene with the table is imagined.
 
 - Ask: Why did Rutherford think no alpha particles would bounce back?
 - Ask: Most alpha particles went straight through the gold. What did that tell Rutherford about atoms?
@@ -255,7 +249,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 
 ## Games
 ### g1 · Smaller and Smaller: the size ladder (20 min)
-- **rules:** Cut out the 22 cards. Each card has an emoji and a name on the front, and its size and a number on the back.; Playing alone: shuffle the cards and take 8. Lay them in a line, biggest on the left and smallest on the right, front side up. Time yourself. Then turn them over. The numbers should go up from left to right. Each card in the wrong place adds 10 seconds. Try to beat your best time, then try with all 22 cards.; Playing with others: deal 5 cards each, front side up, and put one card in the middle to start a ladder.; On your turn, put one of your cards into the ladder where you think it belongs. Say why. Someone turns it over to check the number.; If you are right, it stays. If you are wrong, take it back and take one more card from the pile.; The first player with no cards left wins.
+- **rules:** Cut out the 22 cards. Each card has an emoji and a name on the front, and its size and a number on the back.; Playing alone: shuffle the cards and take 8. Lay them in a line, biggest on the left and smallest on the right, front side up. Time yourself. Then turn them over. The numbers should go up from left to right. Each card with a lower number than the card on its left adds 10 seconds. Try to beat your best time, then try with all 22 cards.; Playing with others (2 to 4 players): shuffle the cards and deal 5 to each player, front side up. Turn one more card over and put it in the middle to start the ladder. Keep the rest in a pile.; On your turn, put one of your cards into the ladder where you think it belongs, and say why. Then turn that card and its neighbours over: the numbers must go up from left to right. Turn them face up again.; If you are right, the card stays. If you are wrong, take it back and take one card from the pile. If the pile is empty, just take your card back.; The first player with no cards left wins.
 - **Printable cards: 22 size cards to cut out. The front shows an emoji and a name. The back shows the size and a number for checking. Print the backs on the other side of the fronts.:** ☀️ The Sun (back: 1. About 1.4 million kilometres across); 🌍 The Earth (back: 2. About 12,700 kilometres across); 🇮🇳 India, from north to south (back: 3. About 3,200 kilometres); 🏔️ Mount Everest (back: 4. Nearly 9 kilometres high); 🏏 A cricket pitch (back: 5. About 20 metres long); 🐘 An Indian elephant (back: 6. About 3 metres tall); 🧒 You (back: 7. About 1 and a quarter metres tall); 🏏 A cricket bat (back: 8. Just under 1 metre long); 🍌 A banana (back: 9. About 15 centimetres long); 🪙 A one-rupee coin (back: 10. 2 centimetres across); 🐜 An ant (back: 11. About 4 millimetres long); 🌱 A mustard seed (back: 12. About 1 millimetre across); 🧂 A grain of salt (back: 13. About one third of a millimetre); 💇 The width of a hair (back: 14. About one tenth of a millimetre); 🩸 A red blood cell (back: 15. A little less than one hundredth of a millimetre); 🧫 A bacterium (back: 16. About 2 thousandths of a millimetre); 🦠 A virus (back: 17. About one ten-thousandth of a millimetre); 💧 A water molecule (back: 18. About 3 ten-millionths of a millimetre); ⚛️ A hydrogen atom (back: 19. About one ten-millionth of a millimetre); 🔵 The nucleus of a carbon atom (back: 20. Tens of thousands of times smaller than its atom); ➕ A proton (back: 21. Smaller still, about a third of a carbon nucleus); ⚡ An electron (back: 22. Nobody has found any size at all. It may have none.)
 - **Printable score sheet: Ladder times (for playing alone):** Date; How many cards; Time taken; Mistakes; My best time so far
 - **s1 (3 min)**  
@@ -280,29 +274,28 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Check: What does the electron card say about its size? → **Nobody has found any size at all**
   - Think: Is there a smallest thing in the world? Or does it go on for ever?
 ### g2 · Catch the Electron (20 min)
-- **rules:** Put the atom map flat on the floor. You need two dice and a bowl of dried tamarind seeds or chana.; The electron is hidden. Nobody knows where it is until it is measured.; Before each roll, every player guesses where the electron will be found: the inner ring, the middle ring or the outer ring. Write your guess down.; Then 'measure' the electron: roll both dice and add them up. Put one bean on the spot with that number. That is where the electron was found this time.; Everyone who guessed the right ring scores one point.; Play 20 rolls. The player with the most points wins. Playing alone, try to score 9 points or more. Bring a torch for the bonus round.; At the end, look at the beans. They make a picture of the electron cloud.; Bonus round with friends: one player holds a torch and is the detector. The others creep towards the nucleus while the torch is off. Anyone the beam lands on is 'measured' and must freeze in that one spot. A rolled paper ball that touches you counts as a measurement too.
-- **Printable board: The atom map: a dot in the middle (the nucleus) and three rings of numbered spots:** Inner ring: spots 6, 7 and 8; Middle ring: spots 4, 5, 9 and 10; Outer ring: spots 2, 3, 11 and 12
-- **Printable tokens: 40 small counters: dried tamarind seeds or chana work well:** 🫘
+- **rules:** Put the atom map flat on the floor. You need two dice and 20 dried tamarind seeds or chana in a bowl.; The electron is hidden. Nobody knows where it is until it is measured.; Before each roll, every player guesses where the electron will be found: the inner ring, the middle ring or the outer ring. Write your guess down.; Then 'measure' the electron: roll both dice and add them up. Put one seed on the spot with that number. That is where the electron was found this time.; Everyone who guessed the right ring scores one point.; Play 20 rolls, one seed for each roll. The player with the most points wins. If players are tied, play 5 more rolls with spare seeds. Playing alone, try to score 9 points or more.; At the end, look at the seeds. Together they show the electron cloud.; Extra round for three or more people: one player holds a torch and is the detector. The others creep towards the nucleus while the torch is off. When the detector switches the torch on, anyone the beam lands on is 'measured' and must freeze in that one spot. The detector may also roll a paper ball along the floor, and anyone it touches is measured too. The first player to touch the nucleus without being measured wins.
+- **Printable board: 12 parts of the atom map: the nucleus dot and 11 numbered spots in three rings. Cut out or draw each part big enough to hold a seed, and lay them out on the floor with the nucleus in the middle.:** Nucleus: a dot in the middle; Spot 6: inner ring; Spot 7: inner ring; Spot 8: inner ring; Spot 4: middle ring; Spot 5: middle ring; Spot 9: middle ring; Spot 10: middle ring; Spot 2: outer ring; Spot 3: outer ring; Spot 11: outer ring; Spot 12: outer ring
 - **Printable score sheet: Guess sheet:** Roll number; My guess: inner, middle or outer ring; Where the electron was found; Point?
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the atom map on the floor. 2. Put a bowl of beans and two dice beside it. 3. Show the nucleus in the middle and the three rings.  
+  *Parent does:* 1. Put the atom map on the floor. 2. Put a bowl of seeds and two dice beside it. 3. Show the nucleus in the middle and the three rings.  
   *Parent says:* This map is an atom. The dot in the middle is the nucleus. Somewhere around it is an electron. We can never know exactly where it will be. We can only measure it and see.  
   *Child mode:* This map is an atom. The middle dot is the nucleus. An electron is somewhere around it. Nobody knows where until we measure.
 - **s2 (12 min)**  
-  *Parent does:* 1. Before each roll, everyone guesses a ring and writes it down. 2. Roll two dice and add them. 3. Put a bean on that number's spot. 4. Score a point for each right guess. 5. Play 20 rolls.  
-  *Parent says:* Guess first: inner, middle or outer ring? Now let's measure. Roll the dice, add them, and put a bean where the electron was found.  
-  *Child mode:* Guess a ring. Roll both dice and add them. Put a bean on that number. Did you guess right?
+  *Parent does:* 1. Before each roll, everyone guesses a ring and writes it down. 2. Roll two dice and add them. 3. Put a seed on that number's spot. 4. Score a point for each right guess. 5. Play 20 rolls.  
+  *Parent says:* Guess first: inner, middle or outer ring? Now let's measure. Roll the dice, add them, and put a seed where the electron was found.  
+  *Child mode:* Guess a ring. Roll both dice and add them. Put a seed on that number. Did you guess right?
   - Ask: Which ring is the best one to guess? Why? (good: The inner ring, because 6, 7 and 8 come up a lot.; The inner ring, because there are more ways to make 7 than 12.)
   - Note: With two dice, 6, 7 and 8 come up most often, about 4 rolls in every 9. A child who always guesses the inner ring will usually win. That is the lesson: you can know the chances, but never the next result. This is how quantum physics treats electrons.
 - **s3 (3 min)**  
-  *Parent does:* Look at the beans on the map together after 20 rolls.  
-  *Parent says:* Look at the beans. Where are they thickest? This is how scientists draw an electron. They call it an electron cloud.  
-  *Child mode:* Look at your beans. Where are there lots? Where are there few? You made an electron cloud!
-  - Check: After 20 measurements, what do the beans show? → **Where the electron is likely to be found: a cloud, thick near the middle**
+  *Parent does:* Look at the seeds on the map together after 20 rolls.  
+  *Parent says:* Look at the seeds. Where are they thickest? This is how scientists draw an electron. They call it an electron cloud.  
+  *Child mode:* Look at your seeds. Where are there lots? Where are there few? You made an electron cloud!
+  - Check: After 20 measurements, what do the seeds show? → **Where the electron is likely to be found: a cloud, thick near the middle**
 - **s4 (2 min)**  
-  *Parent does:* Play the torch bonus round if you have friends. Then talk about who or what can measure.  
-  *Parent says:* In the torch round, the torch was the detector. And the paper ball measured you too. Does a measurement need a person?  
-  *Child mode:* Did you need a person to measure you? Or could a torch beam or a paper ball do it?
+  *Parent does:* Talk about who or what can measure. If you have three or more people, play the torch extra round first (about 5 more minutes).  
+  *Parent says:* A torch beam or a paper ball can measure you, just like a person. Does a measurement need a person?  
+  *Child mode:* Could a torch or a paper ball measure you? Or only a person?
   - Note: Say clearly: in physics, an 'observer' is anything that measures. A detector, a beam of light or even air molecules can measure an electron. No person needs to watch. Some people claim quantum physics proves our minds make the world. It does not.
   - Think: If a speck of dust can 'measure' an electron, what does the word observer really mean?
 
@@ -311,24 +304,24 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **question:** How many times can you cut a strip of paper in half?
 - **predict:** Before you start, guess. How many times do you think you can cut the strip in half before the piece is too small to cut? Why do you think so? Write your guess and your reason down.
 - **fair test:** Always cut the piece exactly in half, across its width, and measure it with a ruler. Always keep one half and cut that one next. Count every cut. If you try again, use the same kind of paper and the same scissors.
-- **safety:** Hold the paper by its long end, away from the blades. A grown-up does the cuts once the piece is shorter than 1 cm.
+- **safety:** Hold the paper by its long end, away from the blades. A grown-up does the cuts once the piece is shorter than 2 cm.
 - **record:** Fill in the table. Then draw a line on a graph for how long the piece was after each cut.
 - **results table:** Cut number | Length of the piece (cm or mm) | Could you still hold it easily? Yes or no
-- **s1 (3 min)**  
+- **s1 (4 min)**  
   *Parent does:* 1. Cut a strip of paper 24 cm long and 2 cm wide. 2. Put the strip, scissors, ruler and results table on a table. 3. Ask your child to guess how many cuts they will manage.  
   *Parent says:* We'll cut this strip in half, then cut one half in half, again and again. How many cuts do you think we can do before it's too small?  
   *Child mode:* Here is a strip of paper, 24 cm long. You will cut it in half again and again. How many cuts can you do? Write your guess.
 - **s2 (8 min)**  
-  *Parent does:* 1. Fold the strip in half to find the middle. 2. Cut across the strip at the fold. 3. Measure one half and write the length in the table. 4. Keep one half and cut it in half the same way. 5. Do this 4 times. The piece is now 1 and a half centimetres long.  
+  *Parent does:* 1. Fold the strip in half to find the middle. 2. Cut across the strip at the fold. 3. Measure one half and write the length in the table. 4. Keep one half and cut it in half the same way. 5. Repeat until you have made 4 cuts in all. The piece is now 1 and a half centimetres long.  
   *Parent says:* Each time, we cut across the strip, so the piece stays 2 centimetres wide. That gives you an edge to hold. Measure it and write it down.  
   *Child mode:* Fold the strip to find the middle. Cut across it. Measure one half. Keep it and cut it in half again.
   - Note: The lengths should be 12 cm, 6 cm, 3 cm and then 1 and a half cm. Cutting across the strip keeps one long edge of 2 cm, so small fingers stay away from the blades.
   - Check: The strip was 24 cm long. How long is one piece after the first cut? → **12 cm**
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up now holds the piece by its 2 cm edge and cuts it in half with sharp scissors. 2. Measure with the millimetre marks on the ruler. 3. Keep going until the piece is too thin to cut, usually after 7 to 9 cuts.  
-  *Parent says:* Now the pieces are tiny, so I'll do the cutting. Count with me. Cut five. Cut six. Is it getting hard?  
+  *Parent does:* 1. A grown-up now holds the piece by its 2 cm edge and cuts it in half with sharp scissors. 2. Measure with the millimetre marks on the ruler. 3. Keep going until the piece is too thin to cut, usually after 6 to 8 cuts in all.  
+  *Parent says:* Now the pieces are tiny, so I'll do the cutting. Count with me. Is it getting hard?  
   *Child mode:* Ask a grown-up to do the tiny cuts. Count each cut out loud. When does it get too small?
-  - Note: After 8 cuts, the piece is a thin sliver about 1 millimetre wide. If the sliver slips, press it under a fingertip on a cutting board and cut beside your finger. Stop when it cannot be cut cleanly. Most people stop at 7, 8 or 9.
+  - Note: After 8 cuts, the piece would be a thin sliver about 1 millimetre long. The last cuts are fiddly, so stopping at 6 or 7 is fine. If the sliver slips, press it under a fingertip on a cutting board and cut beside your finger. Stop when it cannot be cut cleanly.
 - **s4 (4 min)**  
   *Parent does:* 1. Look at the cut edge of the last sliver with a magnifying glass, or a zoomed-in phone camera. 2. Look for tiny threads sticking out.  
   *Parent says:* Look at the edge. Can you see tiny threads? Paper is made of plant fibres. Each fibre is made of molecules, and each molecule is made of atoms.  
@@ -378,30 +371,24 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **safety:** A grown-up pours the hot water. Let the kettle water cool for 2 minutes first, so the glass does not crack. Don't touch the hot glass.
 - **record:** Fill in the table. Draw both glasses at 1, 3 and 5 minutes.
 - **results table:** Glass | After 1 minute | After 3 minutes | After 5 minutes
-- **s1 (4 min) · grown-up needed**  
+- **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the two glasses side by side on the white paper, on a table nobody will bump. 2. Fill one with cold water. 3. A grown-up fills the other with hot water to the same level. 4. Wait one minute until both are still.  
   *Parent says:* This glass is cold and this one is hot. We'll wait one minute so the water stops moving.  
   *Child mode:* Put two clear glasses on white paper. A grown-up fills one with hot water. You fill the other with cold. Wait one minute.
-- **s2 (6 min)**  
+- **s2 (8 min)**  
   *Parent does:* 1. Hold the food colour just above the water. 2. Drop one drop into each glass at the same moment. 3. Do not stir. 4. Watch and draw at 1, 3 and 5 minutes.  
   *Parent says:* One drop in each, at the same time. Now hands off the table. What do you see?  
   *Child mode:* Drop one drop of colour in each glass at the same time. Don't stir! Watch closely and draw what you see.
   - Ask: Nobody is stirring. So what is moving the colour? (good: The water is moving it.; Water molecules are bumping it.)
   - Note: In the hot glass, the colour usually swirls through most of the water within 2 or 3 minutes. In the cold glass, it sinks in a thin stream and is still patchy after 5 minutes. Most of the hot glass's swirling is warm water rising and cooler water sinking. This is called convection. Molecules bumping alone would take hours to colour the glass, but they do blur the colour's edges.
-- **s3 (5 min)**  
+- **s3 (7 min)**  
   *Parent does:* Talk about what made the colour spread, using the 'How we know atoms are real' card.  
   *Parent says:* Nobody stirred, but the water was moving. In the hot glass, warm water rises and cooler water sinks, so the water stirs itself. This is called convection. Water is also made of molecules that never stop moving. They bump the colour and blur its edges. In hot water, they move faster.  
   *Child mode:* Nobody stirred, but the water moved. Hot water stirs itself. Warm water rises and cool water sinks. Water molecules never stop moving, too. Hot ones move faster!
   - Check: Why did the colour spread faster in the hot water? → **Hot water moves more: it swirls as warm water rises, and its molecules move faster**
-- **s4 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What do you think? What did you see? Why did it happen?
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: still water is always moving a little, and hot water moves more. What I saw: nobody stirred, but the colour spread. In the hot glass it spread in about 3 minutes. In the cold glass it was still patchy after 5 minutes. Why: hot water stirs itself as warm water rises, and its molecules move faster.
 
 ## Activities
 ### a1 · Pencil Dots: draw an electron cloud (15 min)
-- **safety:** Keep the pencil point down, away from eyes.
 - **record:** Count the dots in each ring and write the numbers. Draw a bar for each ring.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the paper flat on a table, with the target in the middle. 2. Show your child how to lift the pencil to their ear, close their eyes, and dot.  
@@ -413,7 +400,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Make 50 dots. Look, close your eyes, dot. Count out loud as you go.
   - Note: Some dots will land near the target and a few far away. That is good. If a child peeks, it still works, as long as they keep the pencil moving from the ear each time.
 - **s3 (4 min)**  
-  *Parent does:* 1. Put the small bangle around the target and draw a ring. 2. Use a bigger bangle or a plate to draw a second ring, and a bigger plate for a third. 3. Count the dots in each ring.  
+  *Parent does:* 1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count dots outside the third ring with the outer ring.  
   *Parent says:* Let's draw rings around the target and count. Which ring has the most dots? Where are the dots packed most tightly?  
   *Child mode:* Draw rings with a bangle and a plate. Count the dots in each ring. Where are they packed most tightly?
 - **s4 (3 min)**  
@@ -422,7 +409,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Each dot is like finding an electron once. Many dots make a cloud. That is how scientists draw electrons!
   - Check: Could you have said exactly where your next dot would land? → **No, only that it would probably be near the target**
   - Think: Your dots were spread out because your hand wobbled. An electron's cloud is not caused by wobbling. In quantum physics, the chance is part of nature itself. Does that seem strange to you?
-### a2 · A Mustard-Seed Atom (if you have a park or a long corridor) (20 min)
+### a2 · A Mustard-Seed Atom: a park-sized model (optional, outdoors) (20 min)
 - **safety:** Go outdoors only with a grown-up, and keep away from traffic.
 - **record:** Draw the park, the seed in the middle and the atom's edge. Write how many steps you walked.
 - **s1 (4 min) · grown-up needed**  
@@ -446,7 +433,6 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Press your hand on the ground. It feels solid. But it is almost all empty space! You feel electrons pushing back.
   - Think: If everything is almost all empty space, what does 'solid' really mean?
 ### a3 · Dots Make Pictures (20 min)
-- **safety:** Use only one or two small drops of water on the phone screen, and wipe it dry straight after. A grown-up holds the phone.
 - **record:** Draw what the photo looked like up close. Make one picture using only dots.
 - **s1 (5 min)**  
   *Parent does:* 1. Look at a colour newspaper photo through the magnifier. 2. No magnifier? Put a drop of water on a clear plastic sheet and hold it just above the photo. The drop works like a small lens.  
@@ -469,12 +455,13 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Make a picture with only dots. No lines! Then stand far back. What do you see?
   - Think: Everything is made of atoms too small to see, a little like your dots. Is the picture in the dots, or in how they are arranged?
 ### a4 · Pushing Without Touching (10 min)
-- **safety:** Keep magnets away from phones and bank cards. Pick up every bit of a popped balloon, as it is a choking risk for small children.
+- **safety:** Pick up every bit of a popped balloon, as it is a choking risk for small children.
 - **record:** Draw the two magnets with arrows showing the push. Write one sentence about how it felt.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold one magnet in each hand. 2. Slowly bring the same ends together, north to north. 3. Feel the push before they touch. 4. Turn one around and feel them pull.  
   *Parent says:* Bring them close slowly. Can you feel them pushing? They haven't even touched.  
   *Child mode:* Hold a magnet in each hand. Bring them close slowly. Feel the push? Now turn one around and try again.
+  - Note: The magnet push is a magnetic force, not the push between electrons. It is only a way to feel a push without touching. The balloons below are the electric push between electrons.
 - **s2 (3 min)**  
   *Parent does:* 1. If you have no magnets, or want more: blow up two balloons and tie a thread to each. 2. Rub both on dry hair. 3. Hold them up by their threads, side by side.  
   *Parent says:* Both balloons now have extra electrons. Electrons repel each other: they push each other away. Watch the balloons lean apart.  
@@ -482,14 +469,13 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Note: Balloons work best on a dry day. In humid or monsoon weather they may not push much, so use magnets.
 - **s3 (3 min)**  
   *Parent does:* Press your hand on the table. Explain the link to atoms, using the 'Why things feel solid' card.  
-  *Parent says:* When your hand presses the table, the electrons in your hand push the table's electrons, like those magnets. That push is what 'solid' feels like.  
+  *Parent says:* When your hand presses the table, the electrons in your hand push the table's electrons, like the two balloons. That push is what 'solid' feels like.  
   *Child mode:* Press your hand on the table. Its electrons push your hand's electrons. That push is what 'solid' feels like!
   - Check: Atoms are almost all empty space. Why doesn't your hand sink into the table? → **Electrons in your hand and the table push each other away**
 ### a5 · The Smell Race (15 min)
-- **safety:** Do not use perfume sprays, incense or anything burning.
 - **record:** Write down where each person stood and how many seconds it took for them to smell it.
 - **s1 (3 min)**  
-  *Parent does:* 1. Switch off the fan and close the windows. 2. Everyone stands at different distances from one corner: 1 metre, 2 metres and as far as you can. 3. Everyone closes their eyes.  
+  *Parent does:* 1. Switch off the fan and close the windows. 2. Everyone stands at different distances from one corner: 1 metre, 2 metres and as far as you can. If there are only two of you, the child stands as far from the corner as the room allows. 3. Everyone closes their eyes.  
   *Parent says:* Stand still and close your eyes. When you smell something, put your hand up. Don't peek!  
   *Child mode:* Close your eyes. Stand still. Put your hand up when you smell something.
 - **s2 (6 min)**  
@@ -503,11 +489,11 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Child mode:* Nothing you could see crossed the room. But molecules from the orange did! Your nose caught them.
   - Check: What reached your nose? → **Molecules from the orange, too small to see**
   - Think: Right now, molecules from many things around you are floating in the air. What else might you be breathing in?
-### a6 · Salt Turns the Flame Yellow: atoms on a staircase (15 min)
-- **safety:** Only a grown-up lights the stove and sprinkles the salt. The child watches from at least one metre away. Use dry salt only.
+### a6 · Atoms on a Staircase: why salt turns a flame yellow (15 min)
+- **safety:** Only a grown-up lights the stove and sprinkles the salt. The child watches from at least one metre away. Use dry salt only. No gas stove? Skip step 1.
 - **record:** Draw the flame before and after the salt. Draw a staircase with an electron jumping down one step.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. The child stands at least one metre from the stove. 2. A grown-up lights one burner on low. 3. The grown-up holds a spoon of dry salt high above the flame. 4. They tip it slowly, so a few grains fall in.  
+  *Parent does:* Optional, only with a gas stove: 1. The child stands at least one metre from the stove. 2. A grown-up lights one burner on low. 3. The grown-up holds a spoon of dry salt high above the flame. 4. They tip it slowly, so a few grains fall in. No gas stove? Skip to step 2.  
   *Parent says:* Watch the blue flame. Now I'm sprinkling a few grains of salt. What colour do you see?  
   *Child mode:* Stand back and watch the blue flame. A grown-up sprinkles salt. What colour flashes?
   - Note: The flame flashes bright yellow-orange. That colour comes from sodium, one of the two kinds of atom in salt. Homes with induction cooktops have no flame. Instead, look at an old orange street light, which uses the same sodium yellow, or watch a flame test video.
@@ -525,7 +511,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 
 ## Projects
 ### p1 · Make an Honest Carbon Atom (50 min, 2 days)
-- **safety:** Small beans and seeds are a choking risk for children under 3. Wash hands after using chapati dough.
+- **safety:** Small seeds are a choking risk for children under 3.
 - **record:** Draw your model and label the nucleus, protons, neutrons and electron cloud. Write one sentence about what your model gets wrong.
 - **schedule:** day 1: Build the nucleus from 6 tamarind seeds and 6 chana. Leave the glue to dry overnight. (25 min); day 2: Make the electron cloud from cotton and pen dots. Label the model and explain it to someone. (25 min)
 - **s1 (5 min)**  
@@ -535,7 +521,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **s2 (15 min)**  
   *Parent does:* 1. Press the tamarind seeds and chana together into a small ball, using glue or a little chapati dough. 2. Mix the colours. 3. Put it in the middle of the paper plate.  
   *Parent says:* Press them together into one little ball. This is the nucleus, the heavy centre of the atom.  
-  *Child mode:* Squeeze the beans into one little ball. Mix the colours. Put it in the middle of the plate.
+  *Child mode:* Squeeze the seeds into one little ball. Mix the colours. Put it in the middle of the plate.
   - Note: Real protons and neutrons are jumbled together like this, not in neat rows.
 - **s3 (5 min)**  
   *Parent does:* Leave the nucleus to dry overnight.  
@@ -551,7 +537,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Parent does:* 1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.  
   *Parent says:* Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?  
   *Child mode:* Label your model. Then think: what does it get wrong? Explain your atom to someone at home.
-  - Note: Good answers: the nucleus is far too big for the cloud. If this bean were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.
+  - Note: Good answers: the nucleus is far too big for the cloud. If this seed were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.
   - Think: Scientists use models they know are not quite right. Why might a wrong model still be useful?
 
 ## Challenges
@@ -598,7 +584,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Think: The scientists' letters were only a few atoms tall. What could you build if you could move single atoms?
 
 ## Worksheets
-### Atom Detective (core) (core, 16 questions)
+### Atom Detective (core) (core, 15 questions)
 1. (write) Lakshmi, a girl in Class 4, cuts a 24 cm strip of paper in half, again and again. After 8 cuts, the piece is too small to cut. Her little brother says, "Now you have one atom!" Explain to him why he is wrong.  
    **Answer:** The last piece is about 1 millimetre long. You can still see it and pick it up, but you can never see a single atom, so this piece is far bigger than one. Millions of atoms would still fit in a row across it.. *Why:* A strong answer uses evidence: the piece can still be seen, and atoms are far too small to see, so the piece must still be made of a huge number of atoms.
 2. (sort) Sort these. Is each one made of atoms, or is it light or the lack of light?  
@@ -617,8 +603,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** The nucleus should be far, far smaller, and the electrons should be drawn as a cloud, not as balls on rings. *Why:* In a real atom, the nucleus is tiny compared with the atom. Electrons do not travel on tracks. Scientists can only say where an electron is likely to be found, so they draw a cloud. The ring picture is from 1913 and is still in many books.
 8. (truefalse) Most of an atom is empty space.  
    **Answer:** True. *Why:* True. The nucleus is tiny, and the electrons are tiny too, spread out as a cloud. Almost all of the atom has nothing solid in it.
-9. (write) Ammu, a girl in Class 3, says, "A steel tumbler is hard and solid, so it cannot be mostly empty space." How would you answer her? Use the magnet activity if you did it.  
-   **Answer:** The atoms in the tumbler really are mostly empty space. It feels hard because the electrons in my fingers and the electrons in the steel push each other away before they meet. It is like two magnets pushing apart before they touch. That push is what I feel as hard.. *Why:* A strong answer agrees that atoms are mostly empty, and explains what makes things feel solid: electrons pushing each other away.
+9. (write) Ammu, a girl in Class 3, says, "A steel tumbler is hard and solid, so it cannot be mostly empty space." How would you answer her? Use the balloon activity if you did it.  
+   **Answer:** The atoms in the tumbler really are mostly empty space. It feels hard because the electrons in my fingers and the electrons in the steel push each other away before they meet. It is like two rubbed balloons leaning apart before they touch. That push is what I feel as hard.. *Why:* A strong answer agrees that atoms are mostly empty, and explains what makes things feel solid: electrons pushing each other away.
 10. (draw) Draw an atom the honest way. Put a tiny dot for the nucleus in the middle, and a cloud for the electrons around it. Label both.  
    **Answer:** A very small dot in the middle labelled nucleus, with a soft, dotty cloud around it labelled electron cloud, thicker near the middle.. *Why:* The nucleus is tiny and in the middle. Electrons are drawn as a cloud, not as balls on rings.
 11. (fill) The tiny, heavy centre of an atom is called the ____.  
@@ -628,12 +614,9 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be. *Why:* Scientists cannot follow an electron along a path. They can only say how likely it is to be found in each place. Many findings together make a cloud, thick where the electron is often found and thin where it is rarely found.
 13. (truefalse) When water boils into steam, each water molecule swells up and becomes bigger.  
    **Answer:** False. *Why:* False. The molecules stay the same size. In steam they move much faster and spread far apart, so the same water takes up much more space. Many people think the molecules themselves grow, but only the gaps between them do.
-14. (mcq) A girl's grandmother fries mustard seeds in the kitchen. A minute later, the girl smells them in the bedroom. What travelled to her nose?  
-   Options: Molecules from the hot seeds and oil, far too small to see / Nothing. A smell is just an idea in the head / Light from the frying pan  
-   **Answer:** Molecules from the hot seeds and oil, far too small to see. *Why:* Heat makes molecules float off the seeds and the oil. They spread through the air, bumping into air molecules, until some reach the girl's nose. You can only smell something when its molecules arrive.
-15. (perspective) Two sisters, Meera and Nila, look at a drop of water on a steel plate.  
+14. (perspective) Two sisters, Meera and Nila, look at a drop of water on a steel plate.  
    **Answer:** A strong answer sides with Meera, using evidence: colour spreading by itself in still water shows tiny moving molecules, and today's microscopes can picture single atoms. It is fair to Nila: water really does look smooth, and great thinkers such as Aristotle believed this for about 2,000 years. A very strong answer adds that the smallest piece of water, a molecule, can be split into hydrogen and oxygen atoms, but then it is no longer water.. *Why:* Both ideas were argued over for a very long time. The evidence from the last 200 years shows that water is made of tiny molecules.
-16. (write) Look at a photo in a newspaper through a magnifying glass. What do you see? How is this like the way things are made of atoms? Give one way it is different.  
+15. (write) Look at a photo in a newspaper through a magnifying glass. What do you see? How is this like the way things are made of atoms? Give one way it is different.  
    **Answer:** Close up, the photo is made of tiny dots of ink. From far away it looks smooth. In the same way, a steel tumbler looks smooth, but it is made of tiny atoms. It is different because I can see the ink dots with a magnifying glass, but atoms are far too small to see, even with a microscope.. *Why:* A strong answer says what the child saw, makes the link to atoms, and names a difference.
 ### Inside the Atom (stretch) (stretch, 16 questions)
 1. (mcq) In the marble test, a girl hides a big steel bowl under the card instead of a small battery. Before she rolls, what should she predict?  
@@ -654,7 +637,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 7. (perspective) Around 1900, some famous scientists argued about whether atoms are real.  
    **Answer:** A strong answer sides with Perrin and gives his evidence: his measurements of jiggling specks matched what atoms would do. It is fair to Ostwald: he was right that a big idea needs evidence, and in 1900 there was not enough. A very strong answer adds that Ostwald changed his mind once the evidence came, which is what a good scientist does.. *Why:* This was a real argument. The evidence from jiggling specks settled it, and today single atoms can even be pictured.
 8. (match) Each model in this unit stands for something real. Match each model to what it stands for.  
-   **Answer:** The small battery in the marble test → the tiny nucleus of an atom; The rolled marbles → the alpha particles fired at gold; The dots in Pencil Dots → places where an electron was found; A mustard seed in the middle of a park → a nucleus inside a huge, empty atom; Two magnets pushing apart → electrons pushing each other away. *Why:* A model is a pretend version that helps us think about something we cannot see. Knowing what each part stands for helps you use the model well.
+   **Answer:** The small battery in the marble test → the tiny nucleus of an atom; The rolled marbles → the alpha particles fired at gold; The dots in Pencil Dots → places where an electron was found; A mustard seed in the middle of a park → a nucleus inside a huge, empty atom; Two rubbed balloons leaning apart → electrons pushing each other away. *Why:* A model is a pretend version that helps us think about something we cannot see. Knowing what each part stands for helps you use the model well.
 9. (mcq) A pot of rasam boils over onto the gas flame, and the flame flashes bright yellow. Why?  
    Options: Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light / The salt is burning like wood / Rasam is yellow, so the flame turns yellow  
    **Answer:** Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light. *Why:* The salt in rasam is made of sodium and chlorine. Heat lifts the sodium atoms' electrons up an energy step, and when each one drops back, it gives out light of one exact colour: yellow. Street lamps that glow orange-yellow use the same atoms.
@@ -674,49 +657,46 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 16. (mcq) A friend says, "The carbon atoms in a living leaf must be a different, living kind of carbon from the carbon in a pencil tip." Is she right?  
    Options: No. Both are exactly the same kind of atom, with 6 protons each / Yes. Atoms in living things are a special kind / Yes, because a leaf is green and a pencil tip is grey  
    **Answer:** No. Both are exactly the same kind of atom, with 6 protons each. *Why:* Every carbon atom has 6 protons, wherever it is. What makes a leaf different from a pencil tip is how the atoms are joined together, not a different kind of carbon. A leaf's carbon came from the air, and one day it may become part of a pencil, a person or a cloud.
-### Quantum Puzzles and Big Ideas (challenge) (challenge, 16 questions)
-1. (mcq) Each cut halves the strip. About how many halvings would it take to turn a 24 cm strip into a sliver only one atom wide?  
-   Options: About 31 times / About 8 times / About 100 times / About a million times  
-   **Answer:** About 31 times. *Why:* Each halving makes the piece half as long. After about 31 halvings, the piece would be only about one atom wide. Picking 8 means the scissors' stopping point was taken for an atom. Picking a million forgets how fast halving shrinks things: each cut halves everything that is left.
-2. (perspective) People argue about what 'observing' means in quantum physics, the science of the very small.  
+### Quantum Puzzles and Big Ideas (challenge) (challenge, 15 questions)
+1. (perspective) People argue about what 'observing' means in quantum physics, the science of the very small.  
    **Answer:** A strong answer knows that the film character mixes up the physics word 'observer' with its everyday meaning, because experiments work with no person watching. It may still side with the philosopher, because the question of what happens between measurements really is open. A strong answer gives a reason and is fair to another view.. *Why:* The physicist's point is settled: a measurement does not need a person. The philosopher's point is also true: physicists still disagree about what the electron is like between measurements.
-3. (truefalse) Every electron is exactly the same as every other electron, everywhere in the universe.  
+2. (truefalse) Every electron is exactly the same as every other electron, everywhere in the universe.  
    **Answer:** True. *Why:* True. There is no way at all to tell two electrons apart. Satyendra Nath Bose's work in 1924 used this kind of perfect sameness to count particles of light.
-4. (mcq) If all the empty space were squeezed out of the atoms of every person on Earth, how big would all of humanity be?  
+3. (mcq) If all the empty space were squeezed out of the atoms of every person on Earth, how big would all of humanity be?  
    Options: About the size of a sugar cube / About the size of a house / About the size of India / Exactly the same size  
    **Answer:** About the size of a sugar cube. *Why:* Nearly all of an atom is empty, and nearly all its weight is in the tiny nucleus. Squeeze out the emptiness, and the whole human race would fit in a sugar cube. It would still weigh about 500 million tonnes. Picking 'a house' is already a huge squeeze, but not nearly enough.
-5. (fill) Protons and neutrons are each made mainly of three even smaller particles called ____.  
+4. (fill) Protons and neutrons are each made mainly of three even smaller particles called ____.  
    **Answer:** ['quarks', 'quark']. *Why:* Murray Gell-Mann and George Zweig imagined quarks in 1964. Experiments found signs of them in 1968.
-6. (mcq) Ritu, a girl in Class 5, says, "One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once." What would a physicist tell her?  
+5. (mcq) Ritu, a girl in Class 5, says, "One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once." What would a physicist tell her?  
    Options: No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed / She is right. Our tools just need to get better / Electrons are invisible, so we can never measure them at all  
    **Answer:** No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed. *Why:* Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but never both their exact place and their exact speed at once. Physicists still argue about what this means the electron is really like.
-7. (match) Match each scientist to their idea about electrons between measurements.  
+6. (match) Match each scientist to their idea about electrons between measurements.  
    **Answer:** Niels Bohr and Werner Heisenberg → it has no exact place until it is measured; David Bohm → it always has an exact place, guided by a hidden wave; Hugh Everett → every possible result happens, in different branches. *Why:* These are three of the main ideas. None of them needs a human mind to do the measuring.
-8. (truefalse) Nearly all the atoms in your body, apart from most of the hydrogen, were made inside stars.  
+7. (truefalse) Nearly all the atoms in your body, apart from most of the hydrogen, were made inside stars.  
    **Answer:** True. *Why:* True. Hydrogen was made soon after the Big Bang. Heavier atoms, like the carbon in your nails and the iron in your blood, were made in stars. Margaret Burbidge and her colleagues showed how in 1957.
-9. (mcq) Bibha Chowdhuri and D.M. Bose carried photographic plates up mountains near Darjeeling, to catch the tracks of tiny particles coming from space. Why did they go up mountains?  
+8. (mcq) Bibha Chowdhuri and D.M. Bose carried photographic plates up mountains near Darjeeling, to catch the tracks of tiny particles coming from space. Why did they go up mountains?  
    Options: There is less air above a mountain to stop the particles, so more of them reach the plates / Mountains are closer to the Sun / The cold air makes the particles glow  
    **Answer:** There is less air above a mountain to stop the particles, so more of them reach the plates. *Why:* The particles come from space and crash into the air. High up, there is less air above, so more particles get through. Their work, from 1939 to 1942, was an early step in finding particles called mesons.
-10. (write) A book says, 'You never really touch anything, because atoms push each other away before they meet.' Do you agree? Give a reason for each side.  
-   **Answer:** For example: in one way it is true, because the electrons push apart and the centres of the atoms never meet. But that push is what we mean by touching. So in another way, we do touch.. *Why:* There is no single right answer. A good answer gives a reason for each side.
-11. (write) The space inside an atom is called empty. Is it truly empty? What do you think?  
+9. (write) The space inside an atom is called empty. Is it truly empty? What do you think?  
    **Answer:** For example: it has no atoms in it, so in that way it is empty. But the electron cloud spreads through it, and scientists say even empty space fizzes with tiny flickers of energy. So perhaps nothing is truly empty.. *Why:* Any thoughtful answer is good. Scientists themselves say empty space is never perfectly empty.
-12. (write) Who had the idea of atoms first, Kanada in India or Democritus in Greece? Explain why nobody can say for sure. Then say whether you think it matters who was first.  
+10. (write) Who had the idea of atoms first, Kanada in India or Democritus in Greece? Explain why nobody can say for sure. Then say whether you think it matters who was first.  
    **Answer:** Democritus lived about 2,400 years ago, and his dates are fairly well known. Nobody knows exactly when Kanada lived. Scholars guess somewhere between about 600 and 200 years before the Common Era. So nobody can say who was first. I think it matters less than the idea itself, because both reached it by careful thinking, on their own.. *Why:* A strong answer explains that Kanada's dates are uncertain, then gives an opinion with a reason.
-13. (truefalse) Some of the atoms in your body were once part of other living beings, such as plants and animals.  
+11. (truefalse) Some of the atoms in your body were once part of other living beings, such as plants and animals.  
    **Answer:** True. *Why:* True. Atoms are not used up. The carbon in the rice you eat was taken from the air by the rice plant. When you breathe out, some of those atoms go back into the air, and a plant may take them in again.
-14. (write) Plan a test to find out whether a smell spreads faster through a warm room or a cool room. Say what you will change, what you will keep the same, and what you will measure.  
+12. (write) Plan a test to find out whether a smell spreads faster through a warm room or a cool room. Say what you will change, what you will keep the same, and what you will measure.  
    **Answer:** I will change only how warm the room is. I will keep the same smell, for example a cut orange peel, the same distance from the person, and the same person sniffing. I will measure the time, in seconds, from opening the peel to the person raising a hand. I will try each room three times, because one try can be a fluke.. *Why:* A strong answer changes one thing, keeps the rest the same, measures time, and repeats the test.
-15. (draw) Draw a zoom in 6 circles: your hand, your skin, one cell, one molecule, one atom, and the atom's nucleus. Label each circle.  
+13. (draw) Draw a zoom in 6 circles: your hand, your skin, one cell, one molecule, one atom, and the atom's nucleus. Label each circle.  
    **Answer:** Six circles, each a closer zoom: a hand, skin, a cell, a molecule of joined balls, an atom drawn as a cloud with a dot, and the dot opened to show protons and neutrons.. *Why:* Each circle is many times smaller than the one before. The atom should be a cloud, and the nucleus a tiny ball of protons and neutrons.
-16. (mcq) Light waves are thousands of times longer than an atom is wide. What does this tell you about seeing an atom with light?  
+14. (mcq) Light waves are thousands of times longer than an atom is wide. What does this tell you about seeing an atom with light?  
    Options: Light waves are too big to show the shape of a single atom, so no light microscope can show one / With a brighter light, you could see one / Atoms are dark, so light cannot find them  
    **Answer:** Light waves are too big to show the shape of a single atom, so no light microscope can show one. *Why:* To show the shape of something, light waves must be smaller than it. Atoms are far smaller than light waves, so even the best light microscope cannot show one. That is why scientists use needle-tip microscopes instead.
+15. (write) In 1909, Ernest Marsden counted tiny flashes in a dark room for days, and Hans Geiger helped him. In 1911, Ernest Rutherford worked out what the flashes meant. Who deserves the credit for discovering the nucleus? Give a reason for each person.  
+   **Answer:** For example: Geiger and Marsden found the surprising result, because without their careful counting there would have been nothing to explain. Rutherford worked out that it meant a tiny, heavy centre. So the discovery needed both the counting and the thinking, and the credit can be shared.. *Why:* There is no single right answer. A good answer gives a reason for each person and sees that finding a result and explaining it are both part of a discovery.
 
 ## Videos
-- **Just How Small is an Atom?** (TED-Ed, 6 min) id `yQP4UJhNn0I`: A clear animated tour of how small atoms are and how empty they are, with a stadium and a pea to picture the nucleus. Good for children and parents together. *Check:* Found by YouTube search in this session: title 'Just How Small is an Atom?' by TED-Ed, 5 minutes 28 seconds. Not watched from here. A parent may preview it.
-- **A Boy And His Atom: The World's Smallest Movie** (IBM, 2 min) id `oSCX78-8-q0`: A tiny cartoon made by moving single molecules on a copper surface, one frame at a time. Children love it, and it shows that scientists can really see and move atoms. *Check:* Found by YouTube search in this session: title 'A Boy And His Atom: The World's Smallest Movie' by IBM, 1 minute 34 seconds. Not watched from here.
-- **The Double Slit Experiment, with Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: For the parent and curious older children: a physicist explains how electrons and light spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes. *Check:* Found by YouTube search in this session: title 'Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili' by The Royal Institution, 9 minutes 8 seconds. Not watched from here. Its title sounds like a person looking matters, so a parent should preview it and check that it says a detector is enough.
+- **Just How Small is an Atom?** (TED-Ed, 6 min) id `yQP4UJhNn0I`: A clear animated tour of how small atoms are and how empty they are, with a stadium and a pea to picture the nucleus. Good for children and parents together. *Check:* Title and channel checked against YouTube. Not watched in full.
+- **A Boy And His Atom: The World's Smallest Movie** (IBM, 2 min) id `oSCX78-8-q0`: A tiny cartoon made by moving single molecules on a copper surface, one frame at a time. Children love it, and it shows that scientists can really see and move atoms. *Check:* Title and channel checked against YouTube. Not watched in full.
+- **The Double Slit Experiment, with Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: For the parent and curious older children: a physicist explains how electrons and light spread like waves but land as dots. Watch with the 'observer' card in mind. In physics, 'looking' means measuring with a detector, not only with a person's eyes. *Check:* Title and channel checked against YouTube. Not watched in full.
 
 ## Quiz
 1. (mcq) What is everything made of?  
@@ -725,40 +705,37 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 2. (mcq) Can you see one atom with a magnifying glass?  
    Options: Yes, easily / No, atoms are far too small / Only in sunlight  
    **Answer:** No, atoms are far too small. *Why:* An atom is about one ten-millionth of a millimetre across. A magnifying glass only makes things a few times bigger. Picking 'only in sunlight' is a guess that more light helps. It doesn't, because light waves are thousands of times longer than an atom is wide.
-3. (mcq) In the paper-cutting experiment, each cut halves the strip. A strip starts at 24 cm long. How long is it after 3 cuts?  
-   Options: 3 cm / 6 cm / 8 cm / 12 cm  
-   **Answer:** 3 cm. *Why:* 24 halved is 12. 12 halved is 6. 6 halved is 3. So after 3 cuts, the strip is 3 cm long. Picking 8 means dividing 24 by 3, but each cut halves the strip.
-4. (mcq) Which is the smallest?  
+3. (mcq) Which is the smallest?  
    Options: A grain of salt / A virus / An atom  
    **Answer:** An atom. *Why:* A virus is about a thousand times bigger across than an atom, and a grain of salt is far bigger again. Picking 'a virus' usually means thinking that germs are the smallest things there are.
-5. (mcq) What is in the nucleus of an atom?  
+4. (mcq) What is in the nucleus of an atom?  
    Options: Protons and neutrons / Only electrons / Air  
    **Answer:** Protons and neutrons. *Why:* The nucleus holds protons and neutrons. Electrons are found around it. Picking 'air' is a mix-up, because air is itself made of atoms.
-6. (mcq) Which part of an atom is by far the lightest?  
+5. (mcq) Which part of an atom is by far the lightest?  
    Options: The electron / The proton / The neutron  
    **Answer:** The electron. *Why:* A proton or a neutron is about 1,800 times heavier than an electron. So nearly all of an atom's weight is in the nucleus. Many pictures draw electrons big, but they are very light.
-7. (mcq) Scientists fired alpha particles at thin metal. Almost all went straight through. What did that show?  
+6. (mcq) Scientists fired alpha particles at thin metal. Almost all went straight through. What did that show?  
    Options: Atoms are almost all empty space / Metal is soft / The alpha particles were too small to matter  
    **Answer:** Atoms are almost all empty space. *Why:* If almost everything passes through, there is almost nothing there to hit. The rare bounce showed a tiny, heavy centre. Picking 'metal is soft' misses why a few alpha particles came flying back.
-8. (mcq) Why did Ernest Rutherford decide that the nucleus must be very heavy?  
+7. (mcq) Why did Ernest Rutherford decide that the nucleus must be very heavy?  
    Options: It could throw a fast alpha particle straight back / Gold is a heavy metal / It was big enough to see  
    **Answer:** It could throw a fast alpha particle straight back. *Why:* A fast, heavy alpha particle can only be thrown straight back by something heavier and packed tight. A light thing would simply be knocked out of the way. Nobody could see the nucleus, so the bounce was the evidence.
-9. (mcq) How do electrons move in an atom?  
+8. (mcq) How do electrons move in an atom?  
    Options: Round and round on tracks, like planets / We can only say where they are likely to be found, like a cloud / They sit still on the nucleus  
    **Answer:** We can only say where they are likely to be found, like a cloud. *Why:* Quantum physics gives the chances of finding an electron in each place, so scientists draw a cloud. Picking 'like planets' is the old 1913 picture that is still in many books and logos.
-10. (mcq) Why do scientists draw an electron as a cloud, and not as a dot?  
+9. (mcq) Why do scientists draw an electron as a cloud, and not as a dot?  
    Options: They can only say how likely the electron is to be found in each place / Electrons are made of mist / Electrons are too big to draw as a dot  
    **Answer:** They can only say how likely the electron is to be found in each place. *Why:* An electron does not follow a path that anyone can trace. Scientists can only work out the chances of finding it in each place. The cloud is a picture of those chances: thick where it is often found, thin where it is rarely found.
-11. (mcq) In physics, what can be an 'observer'?  
+10. (mcq) In physics, what can be an 'observer'?  
    Options: Anything that measures, like a detector or a beam of light / Only a person / Only a scientist with a notebook  
    **Answer:** Anything that measures, like a detector or a beam of light. *Why:* Anything that a particle bumps into can measure it. No person is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room.
-12. (mcq) Which of these is a way the very small behaves differently from a cricket ball?  
+11. (mcq) Which of these is a way the very small behaves differently from a cricket ball?  
    Options: An electron in an atom can only have certain amounts of energy, never amounts in between / An electron falls when you drop it / An electron can be caught in a hand  
    **Answer:** An electron in an atom can only have certain amounts of energy, never amounts in between. *Why:* A cricket ball can roll at any speed and stop anywhere. An electron in an atom can only have certain amounts of energy, like standing on steps. The very small follows rules that the things we see do not.
-13. (mcq) Which of these is evidence that atoms are real?  
+12. (mcq) Which of these is evidence that atoms are real?  
    Options: Scientists can make pictures of single atoms with needle-tip microscopes / Atoms are written about in old books / Many people believe in atoms  
    **Answer:** Scientists can make pictures of single atoms with needle-tip microscopes. *Why:* Evidence is something that can be tested or seen. Pictures of single atoms, and the way tiny specks jiggle in water, are evidence. Old books and many believers are not, because people can believe things that are wrong.
-14. (mcq) Which of these is still an open question for scientists?  
+13. (mcq) Which of these is still an open question for scientists?  
    Options: What an electron is doing when nothing is measuring it / Whether everything is made of atoms / Whether an atom has a nucleus  
    **Answer:** What an electron is doing when nothing is measuring it. *Why:* That atoms exist, and that they have a nucleus, is settled science. What an electron is like between measurements is still argued over. Bohr, Bohm and Everett each had a different idea.
 
@@ -794,43 +771,25 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **Why does the universe have more matter than antimatter?** Every particle has an opposite twin. The Big Bang should have made equal amounts, which would destroy each other. Somehow a little matter was left over, and nobody knows why.
 - **What is most of the universe made of?** All the atoms we know make up only about a sixth of the matter in the universe. The rest, called dark matter, has never been seen directly.
 - **Why do big things look so sure and solid, when tiny things follow rules of chance?** Scientists understand a lot of this: bumps with the world around them hide the chance in big things. But exactly where the tiny world ends and the everyday world begins is still studied.
-- **When did Kanada live, and what exactly did he teach?** Very old texts are hard to date, and his teachings come to us through later writers.
 
 ## Questions to ask kids
 - If you kept cutting this dosa in half, what would you get in the end?
 - Is the air in this room empty, or full of something?
-- You can smell the rasam cooking. What has reached your nose?
-- Your hand is almost all empty space. So why doesn't it go through the table?
 - Which is smaller, an ant or a grain of salt? And what is smaller than both?
 - Where do you think the atoms in your food came from before they were food?
 - If you could shrink to the size of an atom, what would you see?
 - Can something be real if nobody can ever see it?
-- Is there a smallest thing in the world?
 - When you breathe out near a friend, could some of your atoms end up inside them?
-- Every electron is exactly the same. Are any two things in our house exactly the same?
 
 ## Jokes
 - Why can't you trust atoms? *They make up everything!*
 - An atom says, 'I've lost an electron!' Its friend asks, 'Are you sure?' What does the atom say? *'Yes, I'm positive!'*
-- Why was the atom so calm? *It had plenty of space inside.*
-- What did the nucleus say to the electron who kept wandering off? *Stop going round in clouds!*
-- Why did the mustard seed feel important? *It got to be the centre of the atom.*
-- How many times can you cut paper in half? *Just once. After that, you're cutting a half!*
-- Why did the electron never get lost? *It was always somewhere in its cloud.*
-- What do you call a particle that loves dancing? *A partic-ballet.*
-- Why did the marble go back home? *It hit something it didn't expect.*
 - Why are atoms bad at hide and seek? *Once you measure them, they're found!*
-- What did the salt grain say to the sugar grain? *We look alike, but we're made of different atoms.*
 - Why did the neutron get free entry to the show? *No charge!*
 - What's an electron's favourite weather? *Cloudy, of course.*
-- Why did the smell win the race across the room? *It got a lift from the moving air.*
-- Why are quarks never seen on their own? *They always stick together with other quarks.*
 - What did the yellow flame say to the salt? *You really light me up!*
 - Why did the atom go to school? *To learn how to bond.*
-- What's a proton's favourite drink? *Anything, as long as it's positive.*
 - Why was the electron sad at the party? *Nobody could pin it down for a dance.*
-- What do atoms say when they leave? *We'll be in touch. Sort of.*
-- How does a scientist count invisible things? *Very carefully, in the dark.*
 
 ## Connected maths
 - Your strip of paper is 24 cm long. You cut it in half, then cut one half in half, then cut one of those in half. How long is your piece now? What fraction of the strip is it? **3 cm, which is one eighth of the strip.**. After the first cut, the piece is half the strip: 24 ÷ 2 = 12 cm. After the second cut, it is half of a half, which is a quarter: 12 ÷ 2 = 6 cm. After the third cut, it is half of a quarter, which is an eighth: 6 ÷ 2 = 3 cm. Check: 8 pieces of 3 cm make 24 cm. (queues `math.fractions.fractions-of-a-whole.L3`)
@@ -853,34 +812,30 @@ Smaller Than Small (sci.the-very-small.L3): Topic-level song
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum in the city where Bibha Chowdhuri, Satyendra Nath Bose and Meghnad Saha worked.
 - [National Council of Science Museums](https://ncsm.gov.in) · place · science centres across India: Find the science centre nearest you. Many have exhibits on atoms and light.
 - [Tata Institute of Fundamental Research](https://www.tifr.res.in) · place · Mumbai: The research institute founded by Homi Bhabha, where scientists study the very small. Look for its public lectures and open days.
-- [A gas stove, a street light and a newspaper near you]() · place · anywhere: You can see atoms at work everywhere: salt turning a flame yellow, an old orange street light, the dots in a newspaper photo.
 
 ## Things to buy
 - [Magnifying glass, or a clip-on macro lens for a phone camera](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look at paper fibres, salt cubes and newspaper dots. Used in e1, a3. 
 - [Glass marbles](https://www.amazon.in/s?k=glass+marbles+kids) (material): Rolled under a card to find a hidden centre, like Rutherford's alpha particles. Used in e2. 
 - [Liquid food colour](https://www.amazon.in/s?k=liquid+food+colour) (material): For the colour-spreading test in hot and cold water. Used in e3. 
-- [Bar magnets (a pair)](https://www.amazon.in/s?k=bar+magnet+pair+school) (tool): To feel two magnets repel each other without touching, like electrons do. Used in a4. 
-- [Dice (a pair)](https://www.amazon.in/s?k=dice+pair) (game): For the Catch the Electron game. Used in g2. Any two ordinary dice from a board game at home work just as well.
-- [What's Smaller Than a Pygmy Shrew?, by Robert E. Wells](https://www.amazon.in/s?k=What%27s+Smaller+Than+a+Pygmy+Shrew+Robert+Wells) (book): A picture book that zooms down from tiny animals to cells, molecules, atoms and the particles inside them. Ages 5 to 9. Used in g1. If bought, read it on the day of the size ladder game, before playing. It can replace the 'How small is an atom?' card.
-- [Quantum Physics for Babies, by Chris Ferrie](https://www.amazon.in/s?k=Quantum+Physics+for+Babies+Chris+Ferrie) (book): A very simple board book on atoms and energy levels. Good for younger siblings, and for a quick, calm read-aloud. Used in a6. If bought, read it after the staircase game, as a gentle recap of energy steps.
-- [The Elements, by Theodore Gray](https://www.amazon.in/s?k=The+Elements+Theodore+Gray) (book): Beautiful photographs of every element. Look at the pictures together to see what pure carbon, gold and sodium look like. Used in p1. If bought, look at the carbon pages while making the carbon atom model.
+- [Bar magnets (a pair)](https://www.amazon.in/s?k=bar+magnet+pair+school) (tool): To feel two magnets push apart without touching. Used in a4. 
+- [Dice (a pair)](https://www.amazon.in/s?k=dice+pair) (game): For the Catch the Electron game. Any two dice from a board game at home work as well. Used in g2. 
+- [What's Smaller Than a Pygmy Shrew?, by Robert E. Wells](https://www.amazon.in/s?k=What%27s+Smaller+Than+a+Pygmy+Shrew+Robert+Wells) (book): A picture book that zooms down from tiny animals to cells, molecules, atoms and the particles inside them. Ages 5 to 9. Used in g1. 
+- [Quantum Physics for Babies, by Chris Ferrie](https://www.amazon.in/s?k=Quantum+Physics+for+Babies+Chris+Ferrie) (book): A very simple board book on atoms and energy levels. Good for younger siblings, and for a quick, calm read-aloud. Used in a6. 
+- [The Elements, by Theodore Gray](https://www.amazon.in/s?k=The+Elements+Theodore+Gray) (book): Beautiful photographs of every element. Look at the pictures together to see what pure carbon, gold and sodium look like. Used in p1. 
 
 ## Warm-up
 - Everything you can touch is made of tiny particles called ____. → atoms
-- Can you see one atom with a magnifying glass? → No. Atoms are far too small.
-- About how many times would you halve a 24 cm strip to get a piece one atom wide? → About 31 times.
 - What is the tiny, heavy centre of an atom called? → The nucleus.
 - Is an atom mostly full or mostly empty? → Mostly empty space.
 - Do electrons go round on tracks like planets? → No. Scientists draw them as clouds of where they are likely to be.
 - What colour does salt turn a gas flame? → Yellow, from its sodium atoms.
-- In physics, does an 'observer' have to be a person? → No. Anything that measures counts, like a detector.
 - Which thinker in ancient India taught that everything is made of paramanu? → Kanada.
 - Where were most of the atoms in your body made? → Inside stars.
 
 ## Plan
 - Start options: e1, story, g1, a1, e2, big_questions, cards
 - Default order: intro → summary → e1 → terms → g1 → explanations → a1 → story → e2 → a2 → videos → ws-core → g2 → e3 → a5 → a4 → a3 → a6 → agreed → challenging → big_questions → ws-stretch → p1 → c1 → c2 → ws-challenge → open_questions → quiz
-- Core: g1, g2, ws-core, e1, e2, e3, a1, a2, a4, a6
+- Core: g1, g2, ws-core, e1, e2, e3, a1, a4, a6
 
 ## Sources
 - The very small topic notes, in ideas/by_topic/the-very-small.md. Grade 3 concept grid for Particles and Matter ('Are atoms little balls or mostly empty space? Mostly empty. Electrons form clouds'), the Quantum Physics grid ('tiny things live in maybes'), Atoms and Molecules, Electrons and Atomic Structure activities (dot drawings of electron clouds, atom models, molecule dances), and SCI Cards for Kanada, Boltzmann, Satyendra Nath Bose, Bibha Chowdhuri and Meghnad Saha

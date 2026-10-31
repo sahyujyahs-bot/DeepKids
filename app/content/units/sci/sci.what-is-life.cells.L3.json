@@ -159,7 +159,7 @@
    "concept": "New cells come only from cells",
    "status": "defined",
    "definition": "Every new cell is made when a cell that already exists splits into two.",
-   "description": "Long ago, many people thought living things could appear out of mud, or that old meat could make maggots by itself. Careful tests showed this is not true. In 1852 a doctor called Robert Remak showed that new cells form only when a cell splits in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. So every cell in you came from a cell, which came from a cell, all the way back to the first cells on Earth. The same rule explains why we set curd with curd. A spoon of curd holds living bacteria, and in warm milk they split again and again. Remak was not given the credit he deserved for many years. Part of the reason was that he was Jewish, and universities in his country held Jewish scientists back.",
+   "description": "Long ago, many people thought living things could appear out of mud, or that old meat could make maggots by itself. Careful tests showed this is not true. In 1852 a doctor called Robert Remak showed that new cells form only when a cell splits in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. So every cell in you came from a cell, which came from a cell, all the way back to the first cells on Earth. The same rule explains why we set curd with curd. A spoon of curd holds living bacteria, and in warm milk they split again and again.",
    "examples": [
     "You began as one single cell. That cell split into two, then four, then many, and became you.",
     "A cut on your knee heals because the skin cells around it split and fill the gap.",
@@ -301,7 +301,7 @@
    "concept": "Wood, cotton and cork: cells that were once alive",
    "status": "defined",
    "definition": "Many things in our homes are made of cells that have died, leaving their walls behind.",
-   "description": "When Robert Hooke looked at cork in 1665, the little rooms he saw were empty. The cork came from the bark of a cork oak tree, and its cells had died. Only their walls were left. Wood is the same. It is made of the strong walls of dead tree cells. Each cotton fibre is one long cell, a hair that grew on a cotton seed. Paper is made from crushed plant cell walls. So a wooden spoon is not alive, but it was made by living cells. A steel spoon was never made of cells at all.",
+   "description": "When Robert Hooke looked at cork in 1665, the little rooms he saw were empty. The cork came from the bark of a cork oak tree, and the bark's cells had died. Only their walls were left. Wood is the same. It is made of the strong walls of dead tree cells. Each cotton fibre is one long cell, a hair that grew on a cotton seed. Paper is made from crushed plant cell walls. So a wooden spoon is not alive, but it was made by living cells. A steel spoon was never made of cells at all.",
    "examples": [
     "A cork bottle stopper is made of empty cell walls.",
     "A cotton kurta is woven from millions of single plant cells.",
@@ -497,7 +497,7 @@
    "id": "g1",
    "title": "Cells or No Cells?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "context": "This is a card game about which things are made of cells. A cell is the smallest living piece of a living thing. Players sort each card: made of living cells now, made of cells that were once alive, or never made of cells.",
    "printables": [
     {
@@ -541,22 +541,15 @@
       "CELLS THAT WERE ONCE ALIVE",
       "NEVER MADE OF CELLS"
      ]
-    },
-    {
-     "kind": "tokens",
-     "title": "20 cell tokens (small paper circles)",
-     "items": [
-      "🟢"
-     ]
     }
    ],
    "rules": [
     "Cut out the 27 cards. Shuffle them and put them face down.",
     "On your turn, take the top card and read it out loud.",
     "Put it on one mat: LIVING CELLS NOW, CELLS THAT WERE ONCE ALIVE, or NEVER MADE OF CELLS. Say why.",
-    "If the others agree, win one cell token. If someone disagrees, both of you give a reason, and the group decides.",
-    "If you draw a TEST IT card, everyone does the test. The first one to explain the result wins two tokens.",
-    "When the cards run out, the player with the most tokens wins."
+    "If the others agree, you score 1 point: make a tally mark on your scrap of paper. If someone disagrees, both of you give a reason, and the group decides.",
+    "If you draw a TEST IT card, everyone does the test. The first one to explain the result scores 2 points.",
+    "When the cards run out, the player with the most points wins. If you are tied, you share the win."
    ],
    "setup": [
     {
@@ -576,7 +569,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the three mats on the floor. 2. Shuffle the cards and put them face down. 3. Put the tokens in a bowl.",
+     "do": "1. Lay the three mats on the floor. 2. Shuffle the cards and put them face down. 3. Give each player a pencil and a scrap of paper for tally marks. 4. Keep a magnifier (or a phone camera zoomed in), a pinch of salt and a sheet of paper nearby for the TEST IT cards.",
      "say": "Every living thing is made of tiny living pieces called cells. Some things were made by cells long ago, but are not alive now. Some things were never made of cells at all. Let's sort them.",
      "kid": "Put the three mats down. Mix the cards. For each card, decide. Living cells now? Cells that were once alive? Or never cells?",
      "context": "This is the first step of Cells or No Cells?, a sorting card game. Here you set up the game."
@@ -658,9 +651,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Count the tokens. Then look at each mat together.",
+     "do": "Count your points. Then look at each mat together.",
      "say": "Look at the 'once alive' mat. Which card surprised you most?",
-     "kid": "Count your tokens. Look at the 'once alive' mat. Which card surprised you?",
+     "kid": "Count your points. Look at the 'once alive' mat. Which card surprised you?",
      "think": "Is there any card you still are not sure about? How could you find out?"
     }
    ]
@@ -672,14 +665,6 @@
    "players": "2 or more: one 'bacterium' and one 'food maker'",
    "context": "This is a moving game. A real bacterium has no eyes and no brain. They sense the chemicals of food in the water, a little like smelling. They swim straight, then check: is the smell stronger now than a moment ago? If yes, they keep going. If no, they tumble and pick a new direction. You play the bacterium.",
    "printables": [
-    {
-     "kind": "cards",
-     "title": "Smell cards: STRONGER and WEAKER",
-     "items": [
-      "STRONGER",
-      "WEAKER"
-     ]
-    },
     {
      "kind": "score sheet",
      "title": "Runs to reach the food",
@@ -817,7 +802,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Keep water off the phone's charging point. Wash hands after.",
+   "safety": "A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Wash hands after.",
    "schedule": [
     {
      "day": 1,
@@ -922,7 +907,7 @@
    "context": "In this experiment you gently scrape the inside of your own cheek and look at the cells. You need a Foldscope, or a toy or school microscope. A phone with a water drop is not strong enough to show their shape. Then you compare your cells with onion cells.",
    "question": "Are my cells like onion cells, or different?",
    "predict": "Draw what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?",
-   "fair_test": "Use the same stain, the same slide and the same magnifier as for the onion. Then any difference comes from the cells, not the tools.",
+   "fair_test": "Stain both kinds of cell with the same stain, look at both with the same microscope and the same light, so any difference comes from the cells, not the tools.",
    "results_table": [
     "What I looked for",
     "Onion cells",
@@ -1010,7 +995,7 @@
       "a": 0,
       "why": "Cheek cells are animal cells. They have no cell wall, so they are floppy, flat and roundish, often folded. Onion cells are plant cells with stiff walls, so they look like boxes. Both have a nucleus, the dark dot. Picking 'exactly the same' usually means the cells were too faint to see clearly. Try more stain or more light."
      },
-     "parent": "Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. Then look at the third step picture to see their shape."
+     "parent": "Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. They are flat and roundish, like fried eggs."
     },
     {
      "id": "s4",
@@ -1052,7 +1037,7 @@
    "title": "Curd Bowls: does milk need living cells to become curd?",
    "mins": 25,
    "days": 2,
-   "context": "In this experiment you set three bowls of warm milk overnight: one with living curd, one with nothing, and one with curd that was boiled first. You find out whether curd is made by living cells. If you did the Habitats bowls, those asked where curd sets best: warm, on the counter or in the fridge. These bowls ask a different question: can boiled curd still set milk, or only living curd?",
+   "context": "In this experiment you set three bowls of warm milk overnight: one with living curd, one with nothing, and one with curd that was boiled first. You find out whether curd is made by living cells. The question is whether boiled curd can still set milk, or only living curd can.",
    "question": "Will boiled curd still turn warm milk into curd?",
    "predict": "Which of the three bowls do you think will turn into curd by morning? Why do you think so?",
    "fair_test": "Use the same milk, the same amount in each bowl, and the same warm place for the same time. Only change what you add. Use a clean spoon for each bowl, so no living curd gets into bowl C by mistake.",
@@ -1284,7 +1269,6 @@
      "qty": 1
     }
    ],
-   "safety": "Keep water away from plugs and switches. Wipe the phone lens dry after.",
    "schedule": [
     {
      "day": 1,
@@ -1378,7 +1362,7 @@
      "qty": 1
     },
     {
-     "item": "a mustard seed, an ant or a picture of one, and a leaf",
+     "item": "a mustard seed, and an ant or a picture of one",
      "qty": 1
     },
     {
@@ -1386,7 +1370,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety worries. If you look at a real ant, let them go afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1473,7 +1456,6 @@
      "qty": 2
     }
    ],
-   "safety": "No safety worries.",
    "schedule": [
     {
      "day": 1,
@@ -1514,7 +1496,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "After experiments e1 and e2, your child draws again and compares the two drawings.",
+     "do": "After the cell experiments (e1, and e2 if you did it), your child draws again and compares the two drawings.",
      "say": "What is new in your second drawing? What changed your mind?",
      "kid": "Draw yourself again. What is new? What changed your mind?",
      "wait": "Do this after the cell experiments.",
@@ -1608,7 +1590,7 @@
        "not made of cells at all"
       ],
       "a": 0,
-      "why": "Each cotton fibre grows from one cell on the cotton seed's skin. The cell grows very long, then dies, leaving their tube-shaped wall. Picking 'not made of cells' usually means thinking cloth was never alive. Cotton comes from a plant."
+      "why": "Each cotton fibre grows from one cell on the cotton seed's skin. The cell grows very long, then dies, leaving the tube-shaped wall. Picking 'not made of cells' usually means thinking cloth was never alive. Cotton comes from a plant."
      }
     },
     {
@@ -1639,7 +1621,7 @@
    "context": "In this project you make your own little book of cells. Over five days you look at a new living thing each day, draw or photograph their cells, and write one fact.",
    "materials": [
     {
-     "item": "a notebook or 6 sheets of paper stapled together",
+     "item": "a notebook or 7 sheets of paper stapled together",
      "qty": 1
     },
     {
@@ -1649,7 +1631,7 @@
     },
     {
      "item": "glass slides or clear plastic strips",
-     "qty": 4,
+     "qty": 5,
      "buy": "b-slides"
     },
     {
@@ -1657,7 +1639,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up handles knives, iodine and the jar of leaf water. Wash hands after each look. Never taste the samples.",
+   "safety": "A grown-up handles knives, iodine and the jar of leaf water. Wash hands after each look. Do not taste anything with iodine on it.",
    "schedule": [
     {
      "day": 1,
@@ -1672,7 +1654,7 @@
     {
      "day": 3,
      "mins": 10,
-     "what": "Third page: a tiny dab of curd with a drop of water. Look for tiny rods and dots."
+     "what": "Third page: a tiny dab of curd with a drop of water. A Foldscope or microscope may show tiny rods and dots; a phone or hand lens will not."
     },
     {
      "day": 4,
@@ -1704,7 +1686,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Make the atlas cover together. Then do the onion page, using what you learned in e1. Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.",
+     "do": "Make the atlas cover together. Then do the onion page, using what you learned in experiment e1 (do e1 first if you have not). Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.",
      "say": "Scientists keep notebooks of everything they see. This is your cell atlas. Let's start with the onion.",
      "kid": "Make your atlas cover. Then draw your onion cells on page 1.",
      "context": "This is the first step of My Cell Atlas, a five-day project where you collect pictures of cells."
@@ -1818,16 +1800,7 @@
      "mins": 15,
      "do": "Try the usual ideas and your child's own ideas. Test each on the same onion skin.",
      "say": "Which one shows the most? Why?",
-     "kid": "Try each idea on the same onion skin. Which shows the most?",
-     "ask": [
-      {
-       "q": "Why is the tiny drop stronger than a big magnifying glass?",
-       "good": [
-        "It is more curved.",
-        "It bends light more."
-       ]
-      }
-     ]
+     "kid": "Try each idea on the same onion skin. Which shows the most?"
     },
     {
      "id": "s3",
@@ -1886,7 +1859,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Place the six cups across the floor, about one big step apart.",
-     "say": "A slime mould is one giant cell, with no brain. They were given oat flakes placed like the cities around Tokyo. They grew tubes between the flakes, a lot like the real railway. Can we do as well?",
+     "say": "A slime mould is one giant cell, with no brain. In a famous test, the slime mould was given oat flakes placed like the cities around Tokyo. They grew tubes between the flakes, a lot like the real railway. Can we do as well?",
      "kid": "Put out 6 cups. They are cities. A one-celled slime mould joined cities like these. Can you?",
      "context": "This is the first step of Slime Mould Railway, a challenge to design a network like a slime mould does."
     },
@@ -1949,7 +1922,7 @@
       "A plastic bucket"
      ],
      "a": 2,
-     "why": "A mango leaf is part of a living tree, so it is made of cells. Steel, glass and plastic were never alive, so they have no cells. Plastic is made from oil, which came from ancient life, but plastic itself has no cells."
+     "why": "A mango leaf is part of a living tree, so the leaf is made of cells. Steel, glass and plastic were never alive, so they have no cells. Plastic is made from oil, which came from ancient life, but plastic itself has no cells."
     },
     {
      "t": "truefalse",
@@ -1976,20 +1949,6 @@
      "why": "Plant cells have a stiff wall outside their membrane. The walls give them straight, box-like edges. The stain does not change the shape. It only makes the walls easier to see.",
      "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
      "how": "e1"
-    },
-    {
-     "t": "mcq",
-     "p": "Your cheek cells looked like flat, floppy fried eggs. Why are they not boxes like onion cells?",
-     "opts": [
-      "They were squashed by your teeth",
-      "They are not real cells",
-      "Animal cells have no stiff wall",
-      "They are dead stones"
-     ],
-     "a": 2,
-     "why": "Animal cells, like yours, have a thin membrane but no stiff wall. So they are soft and roundish. Your teeth did not squash them: cheek cells are this shape even before they come off.",
-     "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
-     "how": "e2"
     },
     {
      "t": "match",
@@ -2111,16 +2070,14 @@
     },
     {
      "t": "write",
-     "p": "Name one way your cheek cells and onion cells are alike, and one way they are different.",
+     "p": "Scientists look at a cheek cell and an onion cell under a microscope. Name one way they are alike and one way they are different.",
      "lines": 3,
      "a": "Alike: both are cells and both have a nucleus, a dark dot. Different: onion cells are stiff boxes with walls, and cheek cells are soft and roundish with no wall.",
-     "why": "Comparing cells shows what all cells share, and how plant and animal cells differ.",
-     "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
-     "how": "e2"
+     "why": "Comparing cells shows what all cells share, and how plant and animal cells differ."
     },
     {
      "t": "write",
-     "p": "Meera, a girl in Class 3, says: 'An elephant is huge, so their cells must be huge too.' Is she right? Explain.",
+     "p": "Meera, a girl in Class 4, says: 'An elephant is huge, so their cells must be huge too.' Is she right? Explain.",
      "lines": 3,
      "a": "No. Most cells in an elephant are about the same size as the cells in an ant or in you. An elephant is bigger because they have far, far more cells, not bigger ones.",
      "why": "This is a very common first guess. A strong answer says that big living things have more cells, not bigger cells."
@@ -2189,9 +2146,7 @@
       "The cells that come off are put back by your tongue"
      ],
      "a": 0,
-     "why": "The lining of your mouth is always shedding old cells, and cells below keep splitting to make new ones. That is why a gentle scrape does not hurt, and why the lining never runs out.",
-     "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
-     "how": "e2"
+     "why": "The lining of your mouth is always shedding old cells, and cells below keep splitting to make new ones. That is why a gentle scrape does not hurt, and why the lining never runs out."
     },
     {
      "t": "truefalse",
@@ -2275,7 +2230,7 @@
     },
     {
      "t": "write",
-     "p": "A tulsi plant droops on a hot afternoon. An hour after watering, they stand up straight again. Use what you know about plant cells to explain why.",
+     "p": "A tulsi plant droops on a hot afternoon. An hour after watering, the plant stands up straight again. Use what you know about plant cells to explain why.",
      "lines": 4,
      "a": "Each plant cell has a stiff wall. When the cells are full of water, they press out against their walls, like a full balloon squeezed in a box. That makes the stem and leaves firm. When the cells lose water, they go soft and the plant droops. Watering fills them up again.",
      "why": "A strong answer uses the cell wall and says that the cells, full of water, push against it. Animals like us stay up with bones instead."
@@ -2376,7 +2331,7 @@
     {
      "t": "truefalse",
      "p": "Many people think all bacteria are harmful. All bacteria make people ill.",
-     "a": "False",
+     "a": false,
      "why": "False. Most bacteria do us no harm, and many help. Curd bacteria turn milk into curd, and bacteria in your gut help you digest food. Only a few kinds cause illness."
     },
     {
@@ -2581,7 +2536,7 @@
   },
   {
    "t": "mcq",
-   "p": "When you stained them, both the onion cells and the cheek cells showed one dark dot. What is that dot?",
+   "p": "When stained, both onion cells and cheek cells show one dark dot. What is that dot?",
    "opts": [
     "The nucleus, which both plant and animal cells have",
     "A speck of dirt",
@@ -2788,10 +2743,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the cell go to the party alone?",
-   "a": "Because they were a single-celled organism."
-  },
-  {
    "j": "What did one cell say to the other after they split?",
    "a": "You're a chip off the old block!"
   },
@@ -2808,14 +2759,6 @@
    "a": "A bat-terium."
   },
   {
-   "j": "Why was the microscope so good at making friends?",
-   "a": "It always saw the small things in people."
-  },
-  {
-   "j": "What did the cheek cell say when they fell off?",
-   "a": "Bye, I'm out of my mouth!"
-  },
-  {
    "j": "Why did the cell phone go to biology class?",
    "a": "It heard it had cells too."
   },
@@ -2828,10 +2771,6 @@
    "a": "Divide and conquer."
   },
   {
-   "j": "Why did Robert Hooke like cork so much?",
-   "a": "Because it was full of little rooms."
-  },
-  {
    "j": "Why did the yeast get a medal?",
    "a": "They rose to the occasion."
   },
@@ -2840,24 +2779,8 @@
    "a": "Easy! I just went with the flow."
   },
   {
-   "j": "Why did the cell wall feel proud?",
-   "a": "Because the whole plant stood up for it."
-  },
-  {
    "j": "Why are bacteria good at maths?",
    "a": "They multiply by dividing."
-  },
-  {
-   "j": "How do you know a tomato cell is friendly?",
-   "a": "They're full of juice and always ready to share."
-  },
-  {
-   "j": "What did the neuron say to their friend?",
-   "a": "Let's stay connected."
-  },
-  {
-   "j": "Why did the Stentor swim away?",
-   "a": "They had heard enough of that chalk talk."
   }
  ],
  "maths": [
@@ -2893,7 +2816,7 @@
    "answer": "About a million years.",
    "explain": "Each year you could count about 30 million cells. 30 trillion is a million lots of 30 million. So it would take about a million years. (A year really has about 31.5 million seconds, so it is a little under a million years.)",
    "math_unit": "math.number-sense.big-numbers.L4",
-   "context": "This is about the cheek cell experiment, where you looked at a few of your own cells, and the fact that a grown-up has about 30 trillion.",
+   "context": "This is about how many cells are in a body. In the cheek cell experiment you looked at a few of your own cells; a grown-up has about 30 trillion.",
    "how": "e2",
    "why_maths": "A number like 30 trillion is too big to picture. Turning it into time helps us feel how many cells we are made of."
   },
@@ -2978,8 +2901,7 @@
     "e1",
     "e2",
     "p1"
-   ],
-   "plan": "Used again in Microbes and Plants units. A toy student microscope also works."
+   ]
   },
   {
    "id": "b-handlens",
@@ -3013,8 +2935,7 @@
    "used_in": [
     "e3",
     "p1"
-   ],
-   "plan": "Read it before the curd bowls experiment, and again after the cell atlas."
+   ]
   }
  ],
  "warmup": [
@@ -3082,7 +3003,7 @@
    {
     "source": "Aristotle, On the Soul (De Anima), Book II",
     "teaching": "Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense.",
-    "link": "Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards it."
+    "link": "Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards the food."
    }
   ],
   "science": [
@@ -3128,13 +3049,13 @@
    "intro",
    "a1",
    "a4",
+   "a2",
    "e1",
    "e3",
    "story",
    "summary",
    "terms",
    "explanations",
-   "a2",
    "e2",
    "g1",
    "videos",
@@ -3156,11 +3077,10 @@
   ],
   "core": [
    "a1",
+   "a2",
    "e1",
    "e3",
-   "e2",
    "g1",
-   "a2",
    "a3",
    "g2",
    "ws-core"

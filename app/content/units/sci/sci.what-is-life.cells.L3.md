@@ -52,7 +52,7 @@ In 1838 a German plant scientist, Matthias Schleiden, said that every plant is m
 ### New cells come only from cells · *defined*
 **Definition:** Every new cell is made when a cell that already exists splits into two.
 
-Long ago, many people thought living things could appear out of mud, or that old meat could make maggots by itself. Careful tests showed this is not true. In 1852 a doctor called Robert Remak showed that new cells form only when a cell splits in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. So every cell in you came from a cell, which came from a cell, all the way back to the first cells on Earth. The same rule explains why we set curd with curd. A spoon of curd holds living bacteria, and in warm milk they split again and again. Remak was not given the credit he deserved for many years. Part of the reason was that he was Jewish, and universities in his country held Jewish scientists back.
+Long ago, many people thought living things could appear out of mud, or that old meat could make maggots by itself. Careful tests showed this is not true. In 1852 a doctor called Robert Remak showed that new cells form only when a cell splits in two. Rudolf Virchow made the idea famous in 1855, with the Latin words 'omnis cellula e cellula'. It means every cell comes from a cell. So every cell in you came from a cell, which came from a cell, all the way back to the first cells on Earth. The same rule explains why we set curd with curd. A spoon of curd holds living bacteria, and in warm milk they split again and again.
 - e.g. You began as one single cell. That cell split into two, then four, then many, and became you.
 - e.g. A cut on your knee heals because the skin cells around it split and fill the gap.
 - e.g. Curd sets because the bacteria from one spoon of curd keep splitting until the whole bowl is full of them.
@@ -117,7 +117,7 @@ A single cell has no brain and no nerves. Yet scientists have watched single cel
 ### Wood, cotton and cork: cells that were once alive · *defined*
 **Definition:** Many things in our homes are made of cells that have died, leaving their walls behind.
 
-When Robert Hooke looked at cork in 1665, the little rooms he saw were empty. The cork came from the bark of a cork oak tree, and its cells had died. Only their walls were left. Wood is the same. It is made of the strong walls of dead tree cells. Each cotton fibre is one long cell, a hair that grew on a cotton seed. Paper is made from crushed plant cell walls. So a wooden spoon is not alive, but it was made by living cells. A steel spoon was never made of cells at all.
+When Robert Hooke looked at cork in 1665, the little rooms he saw were empty. The cork came from the bark of a cork oak tree, and the bark's cells had died. Only their walls were left. Wood is the same. It is made of the strong walls of dead tree cells. Each cotton fibre is one long cell, a hair that grew on a cotton seed. Paper is made from crushed plant cell walls. So a wooden spoon is not alive, but it was made by living cells. A steel spoon was never made of cells at all.
 - e.g. A cork bottle stopper is made of empty cell walls.
 - e.g. A cotton kurta is woven from millions of single plant cells.
 - e.g. A newspaper is made of the crushed walls of plant cells.
@@ -170,7 +170,7 @@ Every cell in you came from a cell, and that one from another, back to the first
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.' (Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from that seed. Science finds that the tree is built of cells too small to see, each one made by another cell.)
 - **Tattvartha Sutra of Umasvati, chapter 2:** Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants. (Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around them.)
-- **Aristotle, On the Soul (De Anima), Book II:** Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense. (Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards it.)
+- **Aristotle, On the Soul (De Anima), Book II:** Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense. (Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards the food.)
 - Science (settled): All living things are made of cells, and all cells come from earlier cells, going back to a shared first ancestor billions of years ago.
 - Science (debated): Single cells sense, choose and keep a short memory. Whether this is the beginning of thinking, or of awareness, is argued about.
 - Other view, The Charvaka school of ancient India, and many scientists today: A chain of cells is a chain of chemistry. What is passed down is matter and chemical instructions, nothing more. A cell's sensing is chemistry, not awareness, and awareness ends when the body ends. Many careful people hold this view.
@@ -268,12 +268,11 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 
 ## Games
 ### g1 · Cells or No Cells? (20 min)
-- **rules:** Cut out the 27 cards. Shuffle them and put them face down.; On your turn, take the top card and read it out loud.; Put it on one mat: LIVING CELLS NOW, CELLS THAT WERE ONCE ALIVE, or NEVER MADE OF CELLS. Say why.; If the others agree, win one cell token. If someone disagrees, both of you give a reason, and the group decides.; If you draw a TEST IT card, everyone does the test. The first one to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
+- **rules:** Cut out the 27 cards. Shuffle them and put them face down.; On your turn, take the top card and read it out loud.; Put it on one mat: LIVING CELLS NOW, CELLS THAT WERE ONCE ALIVE, or NEVER MADE OF CELLS. Say why.; If the others agree, you score 1 point: make a tally mark on your scrap of paper. If someone disagrees, both of you give a reason, and the group decides.; If you draw a TEST IT card, everyone does the test. The first one to explain the result scores 2 points.; When the cards run out, the player with the most points wins. If you are tied, you share the win.
 - **Printable cards: 27 thing cards to cut out:** A mango leaf on the tree; A small stone; A wooden spoon; A cotton handkerchief; A steel tumbler; An ant; A grain of salt; Curd; A cork bottle stopper; A mushroom; A plastic bucket; A cloud; A strand of your hair; Your fingertip; A sheet of paper; A raw onion; A glass marble; Dosa batter that has risen; A dry leaf on the ground; A pearl; Green slime on a water tank; A candle flame; A chicken egg from a shop; A clay pot; TEST IT: look at your fingertip with a magnifier. Can you see the cells? Why not?; TEST IT: look at a grain of salt with a magnifier. Is it made of cells, or of something else?; TEST IT: tear a piece of paper and look at the torn edge with a magnifier. What do you see?
 - **Printable board: Three sorting mats:** LIVING CELLS NOW; CELLS THAT WERE ONCE ALIVE; NEVER MADE OF CELLS
-- **Printable tokens: 20 cell tokens (small paper circles):** 🟢
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the three mats on the floor. 2. Shuffle the cards and put them face down. 3. Put the tokens in a bowl.  
+  *Parent does:* 1. Lay the three mats on the floor. 2. Shuffle the cards and put them face down. 3. Give each player a pencil and a scrap of paper for tally marks. 4. Keep a magnifier (or a phone camera zoomed in), a pinch of salt and a sheet of paper nearby for the TEST IT cards.  
   *Parent says:* Every living thing is made of tiny living pieces called cells. Some things were made by cells long ago, but are not alive now. Some things were never made of cells at all. Let's sort them.  
   *Child mode:* Put the three mats down. Mix the cards. For each card, decide. Living cells now? Cells that were once alive? Or never cells?
 - **s2 (3 min)**  
@@ -295,13 +294,12 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   - Ask: Why can't we see cells on our fingertip with a magnifier? (good: They are too small.; The magnifier is not strong enough.; There are too many layers on top of each other.)
   - Check: A grain of salt under the magnifier looks like a little cube. Is the cube a cell? → **No, salt was never alive, so it has no cells**
 - **s5 (2 min)**  
-  *Parent does:* Count the tokens. Then look at each mat together.  
+  *Parent does:* Count your points. Then look at each mat together.  
   *Parent says:* Look at the 'once alive' mat. Which card surprised you most?  
-  *Child mode:* Count your tokens. Look at the 'once alive' mat. Which card surprised you?
+  *Child mode:* Count your points. Look at the 'once alive' mat. Which card surprised you?
   - Think: Is there any card you still are not sure about? How could you find out?
 ### g2 · Run and Tumble: be a bacterium (15 min)
 - **rules:** One player is the bacterium. They close their eyes or wear a loose cloth over them.; The food maker hides a piece of food, like a cut lemon or a sweet, somewhere in the room.; The bacterium takes 3 steps forward in a straight line. This is a 'run'.; After each run, the food maker says 'stronger' if the bacterium is closer to the food than before, or 'weaker' if they are further away.; If it is stronger, the bacterium runs again the same way. If it is weaker, the bacterium tumbles: they spin slowly on the spot, stop, and set off facing a new way.; Count the runs it takes to touch the food. Then swap.
-- **Printable cards: Smell cards: STRONGER and WEAKER:** STRONGER; WEAKER
 - **Printable score sheet: Runs to reach the food:** Game 1 runs: ___; Game 2 runs: ___; Game 3 runs: ___
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height. 3. Gently cover the bacterium's eyes, or ask them to keep them shut.  
@@ -330,7 +328,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **question:** Is an onion one smooth thing, or is it made of tiny pieces?
 - **predict:** Before you look, draw what you think you will see when the onion skin is made 10 times bigger, and say why you think so. Then draw what you think you will see at 100 times bigger.
 - **fair test:** Look at the same piece of onion skin with each tool, in the same light, so only the magnifier changes. Look for at least one minute with each, because eyes take time to settle.
-- **safety:** A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Keep water off the phone's charging point. Wash hands after.
+- **safety:** A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Wash hands after.
 - **record:** Fill in the table. Draw the onion skin at the strongest magnification you have. Label one cell, one wall and, if you saw one, a nucleus.
 - **results table:** Tool I used | How much bigger it makes things | What I saw (draw or write) | Could I see separate boxes? (yes or no)
 - **s1 (4 min) · grown-up needed**  
@@ -367,7 +365,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 ### e2 · Cheek Cells: are you made of tiny rooms too? (25 min)
 - **question:** Are my cells like onion cells, or different?
 - **predict:** Draw what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?
-- **fair test:** Use the same stain, the same slide and the same magnifier as for the onion. Then any difference comes from the cells, not the tools.
+- **fair test:** Stain both kinds of cell with the same stain, look at both with the same microscope and the same light, so any difference comes from the cells, not the tools.
 - **safety:** Scrape gently, only your own cheek, with a new stick. Never share sticks. Throw them away and wash your hands after.
 - **record:** Fill in the table with rows for shape, edges, the dark dot and colour. Draw a cheek cell next to an onion cell.
 - **results table:** What I looked for | Onion cells | My cheek cells
@@ -384,7 +382,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Parent does:* Look through the microscope or Foldscope. Start with the weakest lens. Move the slide slowly to find blue patches.  
   *Parent says:* Look for flat shapes like fried eggs. Can you find a dark yolk in one?  
   *Child mode:* Look for flat blue shapes. They might be folded. Find a dark dot in one.
-  - Note: Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. Then look at the third step picture to see their shape.
+  - Note: Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. They are flat and roundish, like fried eggs.
   - Check: How are your cheek cells different from onion cells? → **They are soft, flat and round-ish, with no stiff wall**
 - **s4 (5 min)**  
   *Parent does:* Your child draws a cheek cell next to an onion cell and fills in the table.  
@@ -453,7 +451,6 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Draw 4 things, by eye and up close. Which ones were once alive?
   - Think: What do you think you would see if you zoomed in even more, 100 times more?
 ### a2 · Make a Water-Drop Magnifier (15 min)
-- **safety:** Keep water away from plugs and switches. Wipe the phone lens dry after.
 - **record:** Write down which drop made the letters biggest: a small drop or a big drop.
 - **s1 (4 min)**  
   *Parent does:* 1. Put a small drop of water on the plastic. 2. Lay the plastic on the newspaper, with the drop over a letter. 3. Lift the plastic slowly, a few millimetres at a time, and watch the letter.  
@@ -475,7 +472,6 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Why does a drop of water make things look bigger?
   - Ask: Why does the drop magnify? (good: It is curved.; It bends the light.; It is clear and round like a lens.)
 ### a3 · The Size Ladder: from you to a cell (20 min)
-- **safety:** No safety worries. If you look at a real ant, let them go afterwards.
 - **record:** Your ladder has 7 steps. Under each, write how big it is.
 - **s1 (5 min)**  
   *Parent does:* Draw seven boxes down the paper strip. In box 1, draw your child. Write 'about 1 metre'.  
@@ -497,7 +493,6 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Point to where your eyes stop seeing. What do you need below that?
   - Think: Bacteria are on the last step. Are there living things even smaller?
 ### a4 · Draw What's Inside You: before and after (15 min, 2 days)
-- **safety:** No safety worries.
 - **record:** Keep both drawings side by side, with the dates.
 - **schedule:** day 1: Draw what you think is inside you, as deep as you can imagine. (7 min); day 2: After seeing cells, draw it again. Compare the two drawings. (8 min)
 - **s1 (7 min)**  
@@ -506,7 +501,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Draw yourself. Fill in what is inside. Draw a zoom circle on your finger. What is in there?
   - Note: Do not correct anything. This drawing shows your child's starting idea.
 - **s2 (8 min)**  
-  *Parent does:* After experiments e1 and e2, your child draws again and compares the two drawings.  
+  *Parent does:* After the cell experiments (e1, and e2 if you did it), your child draws again and compares the two drawings.  
   *Parent says:* What is new in your second drawing? What changed your mind?  
   *Child mode:* Draw yourself again. What is new? What changed your mind?
   - Ask: What changed in your drawing? (good: I added cells.; The zoom circle has tiny rooms now.; Everything is made of cells, even bones.)
@@ -536,11 +531,11 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 
 ## Projects
 ### p1 · My Cell Atlas: a week of looking (60 min, 5 days)
-- **safety:** A grown-up handles knives, iodine and the jar of leaf water. Wash hands after each look. Never taste the samples.
+- **safety:** A grown-up handles knives, iodine and the jar of leaf water. Wash hands after each look. Do not taste anything with iodine on it.
 - **record:** Each page has a drawing or photo, the name of the living thing, the magnifier used, and one fact.
-- **schedule:** day 1: Make the cover. First page: onion cells. Also put a few torn spinach or coriander leaves in a jar of water, and leave it by a window for day 5. (15 min); day 2: Second page: a leaf peel. (10 min); day 3: Third page: a tiny dab of curd with a drop of water. Look for tiny rods and dots. (10 min); day 4: Fourth page: a thin slice of raw potato with a drop of iodine. The starch grains inside the cells turn dark blue-black. (10 min); day 5: Fifth page: a drop of water from the leaf jar. Last page: 'What I am made of'. Show the atlas to someone. (15 min)
+- **schedule:** day 1: Make the cover. First page: onion cells. Also put a few torn spinach or coriander leaves in a jar of water, and leave it by a window for day 5. (15 min); day 2: Second page: a leaf peel. (10 min); day 3: Third page: a tiny dab of curd with a drop of water. A Foldscope or microscope may show tiny rods and dots; a phone or hand lens will not. (10 min); day 4: Fourth page: a thin slice of raw potato with a drop of iodine. The starch grains inside the cells turn dark blue-black. (10 min); day 5: Fifth page: a drop of water from the leaf jar. Last page: 'What I am made of'. Show the atlas to someone. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* Make the atlas cover together. Then do the onion page, using what you learned in e1. Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.  
+  *Parent does:* Make the atlas cover together. Then do the onion page, using what you learned in experiment e1 (do e1 first if you have not). Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.  
   *Parent says:* Scientists keep notebooks of everything they see. This is your cell atlas. Let's start with the onion.  
   *Child mode:* Make your atlas cover. Then draw your onion cells on page 1.
 - **s2 (10 min)**  
@@ -583,7 +578,6 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Parent does:* Try the usual ideas and your child's own ideas. Test each on the same onion skin.  
   *Parent says:* Which one shows the most? Why?  
   *Child mode:* Try each idea on the same onion skin. Which shows the most?
-  - Ask: Why is the tiny drop stronger than a big magnifying glass? (good: It is more curved.; It bends light more.)
 - **s3 (10 min)**  
   *Parent does:* Your child draws their best design and what it showed.  
   *Parent says:* If you had one more day, how would you make it better?  
@@ -597,7 +591,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **creative:** Add one or two meeting points between cities. Sometimes three roads meeting at a point saves string.; Think like the slime mould: start with string everywhere, then remove the strings that are not needed.; Ask: what if one road breaks? The slime mould kept a few extra links, so the network still worked.
 - **s1 (5 min)**  
   *Parent does:* Place the six cups across the floor, about one big step apart.  
-  *Parent says:* A slime mould is one giant cell, with no brain. They were given oat flakes placed like the cities around Tokyo. They grew tubes between the flakes, a lot like the real railway. Can we do as well?  
+  *Parent says:* A slime mould is one giant cell, with no brain. In a famous test, the slime mould was given oat flakes placed like the cities around Tokyo. They grew tubes between the flakes, a lot like the real railway. Can we do as well?  
   *Child mode:* Put out 6 cups. They are cities. A one-celled slime mould joined cities like these. Can you?
 - **s2 (15 min)**  
   *Parent does:* Try three designs. Measure the string each time and write it down.  
@@ -611,13 +605,13 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   - Think: The slime mould has no brain. How could they still choose the best tubes?
 
 ## Worksheets
-### Cell Spotter (core) (core, 16 questions)
+### Cell Spotter (core) (core, 15 questions)
 1. (mcq) What is a cell?  
    Options: A tiny stone inside living things / The smallest living piece of a living thing / A room in a house / A kind of battery  
    **Answer:** The smallest living piece of a living thing. *Why:* A cell is the smallest piece of a living thing that is alive on their own. We also say 'cell' for a battery. It is the same word with a different meaning. 'A tiny stone' means thinking cells are dead building blocks, but each cell is alive.
 2. (mcq) Which of these is made of cells?  
    Options: A steel spoon / A glass marble / A mango leaf / A plastic bucket  
-   **Answer:** A mango leaf. *Why:* A mango leaf is part of a living tree, so it is made of cells. Steel, glass and plastic were never alive, so they have no cells. Plastic is made from oil, which came from ancient life, but plastic itself has no cells.
+   **Answer:** A mango leaf. *Why:* A mango leaf is part of a living tree, so the leaf is made of cells. Steel, glass and plastic were never alive, so they have no cells. Plastic is made from oil, which came from ancient life, but plastic itself has no cells.
 3. (truefalse) All living things are made of cells.  
    **Answer:** True. *Why:* True. Every living thing ever studied, from bacteria to banyan trees, is made of one or more cells.
 4. (truefalse) You can see most cells with just your eyes.  
@@ -625,29 +619,26 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 5. (mcq) The onion skin looked like long boxes side by side. Why do onion cells have straight edges?  
    Options: They are frozen / They have a stiff cell wall / They are made of glass / The stain makes them straight  
    **Answer:** They have a stiff cell wall. *Why:* Plant cells have a stiff wall outside their membrane. The walls give them straight, box-like edges. The stain does not change the shape. It only makes the walls easier to see.
-6. (mcq) Your cheek cells looked like flat, floppy fried eggs. Why are they not boxes like onion cells?  
-   Options: They were squashed by your teeth / They are not real cells / Animal cells have no stiff wall / They are dead stones  
-   **Answer:** Animal cells have no stiff wall. *Why:* Animal cells, like yours, have a thin membrane but no stiff wall. So they are soft and roundish. Your teeth did not squash them: cheek cells are this shape even before they come off.
-7. (match) Match each tool to something it can show.  
+6. (match) Match each tool to something it can show.  
    **Answer:** Your eyes alone → a mustard seed; A hand lens or a phone with a water drop → the shiny cells in tomato pulp; A microscope or Foldscope → cheek cells; A very powerful microscope → the tiniest bacteria clearly. *Why:* Each stronger lens lets us see smaller things. Cheek cells need a microscope. Tomato cells are big enough for a hand lens.
-8. (sort) Sort these. Made of living cells now, made of cells that were once alive, or never made of cells?  
+7. (sort) Sort these. Made of living cells now, made of cells that were once alive, or never made of cells?  
    **Answer:** an ant → Living cells now; a wooden table → Cells once alive; a stone → Never cells; curd → Living cells now; a cotton shirt → Cells once alive; a cloud → Never cells. *Why:* Ants and the bacteria in curd are alive now. Wood and cotton are made of cells that died. Stones and clouds were never alive, so they never had cells.
-9. (mcq) Where do new cells come from?  
+8. (mcq) Where do new cells come from?  
    Options: From mud and dust / From the air / From cells splitting into two / From food turning into cells by itself  
    **Answer:** From cells splitting into two. *Why:* Every new cell comes from a cell splitting into two. 'Mud and dust' is the old idea that life can appear by itself, and careful experiments showed it is not true. Food gives cells what they need to split, but food alone never becomes a cell.
-10. (fill) A living thing that is just one cell is called a ____-celled living thing.  
+9. (fill) A living thing that is just one cell is called a ____-celled living thing.  
    **Answer:** ['single', 'one']. *Why:* Single-celled living things, like bacteria and yeast, do everything with just one cell.
-11. (truefalse) A wooden spoon is alive.  
+10. (truefalse) A wooden spoon is alive.  
    **Answer:** False. *Why:* False. A wooden spoon is made of the walls of tree cells that have died. It was made by living cells, but it is not alive now.
-12. (order) Put these in order, from BIGGEST to SMALLEST: a bacterium, a big ant, an onion cell, a mustard seed.  
+11. (order) Put these in order, from BIGGEST to SMALLEST: a bacterium, a big ant, an onion cell, a mustard seed.  
    **Answer:** order shown. *Why:* A big ant is about 1 centimetre long. A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre. A bacterium is about a thousandth of a millimetre.
-13. (draw) Draw a group of onion cells as you saw them. Label one cell, one wall and one nucleus.  
+12. (draw) Draw a group of onion cells as you saw them. Label one cell, one wall and one nucleus.  
    **Answer:** Long boxes fitted side by side like bricks, each with a thin outline (the wall) and a dark dot (the nucleus).. *Why:* A labelled drawing shows that you looked closely and know the parts.
-14. (write) Why did we need a magnifier to see onion cells? Use the word 'small' or 'tiny'.  
+13. (write) Why did we need a magnifier to see onion cells? Use the word 'small' or 'tiny'.  
    **Answer:** Onion cells are too small for our eyes alone. Each is about a tenth of a millimetre wide. A lens bends light so they look bigger and we can see them.. *Why:* A strong answer says how small a cell is, and that a lens makes the cell look bigger by bending light.
-15. (write) Name one way your cheek cells and onion cells are alike, and one way they are different.  
+14. (write) Scientists look at a cheek cell and an onion cell under a microscope. Name one way they are alike and one way they are different.  
    **Answer:** Alike: both are cells and both have a nucleus, a dark dot. Different: onion cells are stiff boxes with walls, and cheek cells are soft and roundish with no wall.. *Why:* Comparing cells shows what all cells share, and how plant and animal cells differ.
-16. (write) Meera, a girl in Class 3, says: 'An elephant is huge, so their cells must be huge too.' Is she right? Explain.  
+15. (write) Meera, a girl in Class 4, says: 'An elephant is huge, so their cells must be huge too.' Is she right? Explain.  
    **Answer:** No. Most cells in an elephant are about the same size as the cells in an ant or in you. An elephant is bigger because they have far, far more cells, not bigger ones.. *Why:* This is a very common first guess. A strong answer says that big living things have more cells, not bigger cells.
 ### Cell Detective (stretch) (stretch, 16 questions)
 1. (mcq) Asha, a girl in Class 3, set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing added. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?  
@@ -676,7 +667,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 10. (mcq) Which is the fairest way to compare three magnifiers?  
    Options: Use a new onion for each magnifier / Use the same onion skin and the same light for every magnifier / Use the best light for the weakest magnifier / Look for a different time with each one  
    **Answer:** Use the same onion skin and the same light for every magnifier. *Why:* To be fair, change only one thing: the magnifier. Keep the onion skin, the light and the looking time the same. Otherwise you do not know which change made the difference.
-11. (write) A tulsi plant droops on a hot afternoon. An hour after watering, they stand up straight again. Use what you know about plant cells to explain why.  
+11. (write) A tulsi plant droops on a hot afternoon. An hour after watering, the plant stands up straight again. Use what you know about plant cells to explain why.  
    **Answer:** Each plant cell has a stiff wall. When the cells are full of water, they press out against their walls, like a full balloon squeezed in a box. That makes the stem and leaves firm. When the cells lose water, they go soft and the plant droops. Watering fills them up again.. *Why:* A strong answer uses the cell wall and says that the cells, full of water, push against it. Animals like us stay up with bones instead.
 12. (write) A dry bean seed and a small pebble both look dead. How could you test which one has living cells?  
    **Answer:** Put both on wet cotton or in damp soil, side by side, for a few days. The bean will swell and send out a root, because their cells are alive and start to split. The pebble will not change. A dry seed's cells are alive but resting.. *Why:* A strong answer uses a fair test: same water, same place, same time. Growing is a sign of living cells, because cells grow by splitting.
@@ -749,7 +740,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 6. (mcq) How do you make a water-drop magnifier?  
    Options: Fill a bucket with water and look in / Put one small drop of water on clear plastic, and hold it just above what you want to see / Freeze a drop of water  
    **Answer:** Put one small drop of water on clear plastic, and hold it just above what you want to see. *Why:* A small round drop bends light like a lens, so things under it look bigger. The smaller and rounder the drop, the more it magnifies.
-7. (mcq) When you stained them, both the onion cells and the cheek cells showed one dark dot. What is that dot?  
+7. (mcq) When stained, both onion cells and cheek cells show one dark dot. What is that dot?  
    Options: The nucleus, which both plant and animal cells have / A speck of dirt / An air bubble  
    **Answer:** The nucleus, which both plant and animal cells have. *Why:* Both plant cells and animal cells have a nucleus. The stain makes it darker than the rest of the cell. This is one way the two kinds are alike.
 8. (mcq) Which of these is made of living cells right now?  
@@ -815,24 +806,16 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - What would you like to look at under a microscope next?
 
 ## Jokes
-- Why did the cell go to the party alone? *Because they were a single-celled organism.*
 - What did one cell say to the other after they split? *You're a chip off the old block!*
 - Why did the onion skin win the talent show? *It had layers of talent.*
 - Why don't bacteria ever get lonely? *Because they keep splitting into new friends.*
 - What do you call a cell that loves cricket? *A bat-terium.*
-- Why was the microscope so good at making friends? *It always saw the small things in people.*
-- What did the cheek cell say when they fell off? *Bye, I'm out of my mouth!*
 - Why did the cell phone go to biology class? *It heard it had cells too.*
 - Why was the amoeba never sad for long? *They could always pull themselves together.*
 - What's a cell's favourite game? *Divide and conquer.*
-- Why did Robert Hooke like cork so much? *Because it was full of little rooms.*
 - Why did the yeast get a medal? *They rose to the occasion.*
 - What did the slime mould say about the maze? *Easy! I just went with the flow.*
-- Why did the cell wall feel proud? *Because the whole plant stood up for it.*
 - Why are bacteria good at maths? *They multiply by dividing.*
-- How do you know a tomato cell is friendly? *They're full of juice and always ready to share.*
-- What did the neuron say to their friend? *Let's stay connected.*
-- Why did the Stentor swim away? *They had heard enough of that chalk talk.*
 
 ## Connected maths
 - In a phone photo of onion skin, Meera, a girl in Class 4, counted 10 cells side by side across 1 millimetre. How many cells would fit side by side across 1 centimetre? Remember, 1 centimetre is 10 millimetres. **100 cells.**. 10 cells fit across 1 millimetre. 1 centimetre is 10 millimetres. So it is 10 groups of 10 cells. 10 times 10 is 100. So about 100 onion cells fit across 1 centimetre. (queues `math.multiplication.equal-groups.L3`)
@@ -855,10 +838,10 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 - [National Science Centre](https://nscdelhi.org/) · place · New Delhi: Galleries on life and the human body, and science shows.
 
 ## Things to buy
-- [A Foldscope paper microscope, or a toy student microscope](https://www.amazon.in/s?k=microscope+for+kids) (tool): Only needed for cheek cells and the clearest views of onion cells. A Foldscope makes things about 140 times bigger. A toy student microscope from a toy shop or online works too. Without one, the phone and water drop still show onion cells faintly. Used in e1, e2, p1. Used again in Microbes and Plants units. A toy student microscope also works.
+- [A Foldscope paper microscope, or a toy student microscope](https://www.amazon.in/s?k=microscope+for+kids) (tool): Only needed for cheek cells and the clearest views of onion cells. A Foldscope makes things about 140 times bigger. A toy student microscope from a toy shop or online works too. Without one, the phone and water drop still show onion cells faintly. Used in e1, e2, p1. 
 - [Magnifying glass, about 10 times](https://www.amazon.in/s?k=magnifying+glass+10x+kids) (tool): For the Zoom Walk and for cells you can almost see, like tomato cells. A phone camera zoomed in can be used instead. Used in a1, a5. 
 - [Glass slides and coverslips](https://www.amazon.in/s?k=microscope+glass+slides+coverslips) (material): Optional. Glass slides hold onion skin and cheek cells flat. Strips of clear plastic from a packet also work. Used in e1, e2, p1. 
-- [Tiny Creatures: The World of Microbes, by Nicola Davies, illustrated by Emily Sutton](https://www.amazon.in/s?k=Tiny+Creatures+Nicola+Davies) (book): A beautiful picture book about single-celled life everywhere around us. Used in e3, p1. Read it before the curd bowls experiment, and again after the cell atlas.
+- [Tiny Creatures: The World of Microbes, by Nicola Davies, illustrated by Emily Sutton](https://www.amazon.in/s?k=Tiny+Creatures+Nicola+Davies) (book): A beautiful picture book about single-celled life everywhere around us. Used in e3, p1. 
 
 ## Warm-up
 - What are all living things made of? → Cells.
@@ -873,8 +856,8 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 
 ## Plan
 - Start options: intro, story, a1, e1, e3, g1, big_questions, cards
-- Default order: intro → a1 → a4 → e1 → e3 → story → summary → terms → explanations → a2 → e2 → g1 → videos → ws-core → a3 → a5 → g2 → agreed → challenging → c1 → ws-stretch → p1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
-- Core: a1, e1, e3, e2, g1, a2, a3, g2, ws-core
+- Default order: intro → a1 → a4 → a2 → e1 → e3 → story → summary → terms → explanations → e2 → g1 → videos → ws-core → a3 → a5 → g2 → agreed → challenging → c1 → ws-stretch → p1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Core: a1, a2, e1, e3, g1, a3, g2, ws-core
 
 ## Sources
 - Founder's notes, How life began (ideas/by_topic/how-life-began.md): the first cell sensing food with protein sensors, ion flows as the root of thought, patterns as memory, brains built on what cells already did. Used in the cards on single cells sensing and choosing.

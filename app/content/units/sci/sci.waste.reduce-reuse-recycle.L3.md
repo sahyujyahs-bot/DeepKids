@@ -32,7 +32,7 @@
 - **Microplastic**: A piece of plastic smaller than a grain of rice, often far too small to see. Big plastic slowly breaks into microplastics, but does not rot away. *e.g.* Scientists have found microplastics in the deep sea, in Himalayan snow and in drinking water.
 - **Dumping ground (landfill)**: A big place where a city piles up waste it does not use. A landfill is a dumping ground built so that its waste is covered and its dirty water is caught. *e.g.* Ghazipur in Delhi is one of India's biggest dumping grounds.
 - **Methane**: A gas made when wet waste rots without air, such as deep inside a dump. It can catch fire, and it warms the planet. *e.g.* Fires that smoulder for days in dumping grounds are often fed by methane.
-- **Kabadiwala**: A person who buys old newspapers, bottles, metal and some plastic from homes, and sells them on to be recycled. *e.g.* The kabadiwala weighs your old newspapers on his scale and pays you for them.
+- **Kabadiwala**: A person who buys old newspapers, bottles, metal and some plastic from homes, and sells them on to be recycled. *e.g.* The kabadiwala weighs your old newspapers on a scale and pays you for them.
 - **Waste picker**: A person who collects and sorts things others have thrown out, and sells them for recycling. In Indian cities, many waste pickers are women. *e.g.* In Pune, waste pickers collect sorted waste from lakhs of homes, door to door.
 - **Compost**: Dark, crumbly soil made when peels, leaves and other once-living things rot. It is food for plants. *e.g.* A pot of peels and dry leaves turns into compost in about two to three months.
 - **Upcycle**: To turn waste into something more useful or more beautiful than it was. *e.g.* Old saris stitched together into a warm kantha quilt.
@@ -187,7 +187,6 @@ In a forest, a fallen leaf feeds fungi and worms. What is left becomes soil, and
 - Practice, Look deeply at one thing (3 min): Pick up one thing near you: a steel tumbler, a pencil or a piece of paper. Hold it in both hands. Close your eyes and breathe slowly three times. Now picture where it came from: the mine, the tree, the factory, and the hands that made and carried this thing. Breathe again. Now picture where it will go when you are finished with it. Open your eyes. Look at it as if for the first time.
 - Ask: If one day a microbe evolves an enzyme that fits plastic, will plastic become biodegradable?
 - Ask: If nothing ever really goes away, what does 'throwing away' mean?
-- Ask: Does a fungus rotting a log matter for their own sake, or only for the soil they make for us?
 - Ask: Is anything truly yours, if its atoms were here before you and will stay after you?
 
 ## Deep and big questions
@@ -198,7 +197,7 @@ In a forest, a fallen leaf feeds fungi and worms. What is left becomes soil, and
 - *big:* Is a broken thing finished? Who decides when a thing becomes waste? (hint: Think of a cracked cup, a torn sari and a broken bangle. What could each become?)
 - *big:* The people who clean up after us are often paid the least. Is that fair? (hint: Who cleans your lane? Do you know their name?)
 - *big:* A cow eats plastic, a turtle swallows a bag, a bird feeds plastic to their chicks. Do animals have a right to a clean world, even though they cannot make our laws? (hint: Animals cannot vote or write rules. Who should think of them when people make rules about waste?)
-- *big:* Your grandparents made less waste than we do. Were they poorer or richer than us, in ways that matter? (hint: Ask them what they owned, what they mended, and what they threw out.)
+- *big:* Your grandparents made less waste than we do. Were they poorer or richer than us, in ways that matter? (hint: Ask an older person you know what they owned, what they mended, and what they threw out.)
 - *deep:* Is it better to buy something new and recycle the old one, or to keep the old one for longer? (hint: What did making the new one use up?)
 - *deep:* A peel feeds microbes, then worms, then a plant. What does a plastic packet feed? (hint: Think of your rot jars. Did anything grow on the plastic?)
 - *big:* If everyone in the world lived like your family, how much waste would there be? (hint: Weigh one day's dustbin. Now imagine 800 crore people doing the same.)
@@ -254,7 +253,7 @@ Nek Chand kept building for the rest of his long life. Today millions of people 
 
 Kamla noticed. And every evening she helped her mother sort the city's sacks, tink and tuk, cotton and shiny, so that less of it went to the dump.
 
-**For the parent:** For the parent: the turn comes when Kamla asks 'cleared away where?'. Glass, tile and ceramic do not rot, so there is no away for them. They can only become a dump or become something else. The same property that makes some waste a problem, that it lasts, is what makes it perfect for a garden that lasts. Bimla's lesson is the other half: waste is mostly things mixed up and in the wrong place. Sorted, they are useful again. The story also asks quietly who the real experts on waste are, and whose work we look down on.
+**For the parent:** For the parent: the turn comes when Kamla asks 'cleared away where?'. Glass, tile and ceramic do not rot, so there is no away for them. They can only become a dump or become something else. The same property that makes some waste a problem, that it lasts, is what makes it perfect for a garden that lasts. Bimla's lesson is the other half: waste is mostly things mixed up and in the wrong place. Sorted, they are useful again.
 
 - Ask: Kamla asked the officer, 'Cleared away where?' Why was that such a good question?
 - Ask: Why did Nek Chand use only glass, tile and broken cups, and never peels or paper?
@@ -264,52 +263,51 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 
 ## Games
 ### g1 · Where Does It Go? (20 min)
-- **rules:** Lay the six mats in a row. Shuffle the cards and put them face down.; On your turn, take the top card and read it out loud.; Put it on the mat you think is best, and say why in one sentence. Points are on the score sheet: the higher up the order, the more points.; Another player may challenge you with a better place. If everyone agrees theirs is better, they get the points instead.; A card on the DUMP mat scores 0. Some cards really do belong there.; Hazard cards, like the battery and the tube light, must go to one side, face up. Say why they are dangerous to win 2 points.; On a TEST IT card, everyone does the test. The first to explain the result wins 2 points.; When the cards run out, the player with the most points wins.; Playing alone: set a timer for 8 minutes and place every card. Then check each one with the answer list. Count your points and try to beat your score next time.
-- **Printable cards: 30 waste cards to cut out:** A banana peel; An empty glass jam jar; Yesterday's newspaper; A plastic straw; A shirt with a missing button; A rinsed, dry milk packet; A chips packet, shiny inside; A steel tumbler with a dent; A cardboard shoebox; Coffee grounds after making filter coffee; An old AA battery; A broken glass bangle; A cotton T-shirt that is too small; A plastic water bottle; A drinks can; A cycle tube with a puncture; A school notebook with empty pages at the back; Dry fallen leaves; A torn chappal strap; A pooja flower garland; A used tube light; A pizza box with cheese stuck on it; A toy car with one wheel missing; A gift with shiny wrapping paper; A thin plastic carry bag; Eggshells; TEST IT: tap a glass bottle and a plastic bottle with your fingernail. Can you hear which is which?; TEST IT: hold a cotton rag and a plastic bag. Which one was once a living plant?; TEST IT: look at the bottom of a plastic bottle. Can you find a number inside a triangle of arrows?; TEST IT: name one thing in this room that has been repaired.
-- **Printable board: Six place mats:** REDUCE: we should not have made it; REUSE: use it again; REPAIR: mend it; COMPOST: let it rot; KABADIWALA: recycle it; DUMP: nothing else works
-- **Printable score sheet: Points: Reduce 3, Reuse 2, Repair 2, Compost 2, Kabadiwala 1, Dump 0:** Name; Round 1; Round 2; Total
-- **Printable tokens: A pile of 30 small paper leaves, used as points:** 🍃
+- **rules:** Lay the seven mats in a row. Shuffle the cards and put them face down.; On your turn, take the top card and read the front out loud. Do not turn it over yet.; Put it on the mat you think is best, and say why in one sentence.; Now turn the card over. If the back names your mat, you score 2 points. If you chose a different mat, but your reason is good and the other players agree, you score 1 point. Otherwise you score 0.; A TEST IT card is not placed on a mat. Everyone does the test. The first to explain the result scores 2 points. Then read the back.; When the cards run out, the player with the most points wins. If points are equal, you share the win.; Playing alone: set a timer for 8 minutes and place every card. Then check each one on its back and count your points. Try to beat your score next time.
+- **Printable cards: 30 waste cards to cut out (the best place is on the back):** A banana peel (back: COMPOST. Microbes in the soil turn it into soil.); An empty glass jam jar (back: REUSE. It can store rava, dal or pencils.); Yesterday's newspaper (back: KABADIWALA. It is sold and made into new paper.); A plastic straw (back: REDUCE. Say 'No straw, please', so it is never used.); A shirt with a missing button (back: REPAIR. Five minutes with a needle and thread, and the shirt works again.); A rinsed, dry milk packet (back: KABADIWALA. Clean, dry plastic can be sold and recycled.); A chips packet, shiny inside (back: DUMP. Its layers of plastic and metal are stuck together, so almost nobody recycles it. The real answer comes earlier: REDUCE, by not buying it.); A steel tumbler with a dent (back: REPAIR. A dent can be hammered out. Steel lasts a lifetime.); A cardboard shoebox (back: REUSE. It can keep toys or school things.); Coffee grounds after making filter coffee (back: COMPOST. Microbes feed on them and make soil.); An old AA battery (back: HAZARD. It holds harmful chemicals. It must go to a special collection point, never in the dustbin.); A broken glass bangle (back: REUSE. Press the pieces into a mosaic, as Nek Chand did. If you cannot, wrap them in paper so nobody is cut.); A cotton T-shirt that is too small (back: REUSE. Give it to a younger child, or use it as a duster.); A plastic water bottle (back: KABADIWALA. Hard plastic is sold on to be recycled.); A drinks can (back: KABADIWALA. Metal can be melted and made into new cans again and again.); A cycle tube with a puncture (back: REPAIR. A puncture shop finds the hole with bubbles in water and patches it.); A school notebook with empty pages at the back (back: REUSE. Use the empty pages for rough work.); Dry fallen leaves (back: COMPOST. They rot into soil.); A torn chappal strap (back: REPAIR. A cobbler can stitch it.); A pooja flower garland (back: COMPOST. Flowers rot into soil.); A used tube light (back: HAZARD. An old tube light holds a little mercury, a harmful metal. It needs a special collection point.); A pizza box with cheese stuck on it (back: KABADIWALA for the clean lid, COMPOST for the cheesy part. Either answer scores 2.); A toy car with one wheel missing (back: REPAIR. Make or glue on a new wheel, for example from a bottle cap.); Shiny gift-wrapping paper (back: REDUCE. Shiny paper cannot be recycled. Wrap gifts in cloth or newspaper instead.); A thin plastic carry bag (back: REDUCE. Carry a cloth bag, so you never need it.); Eggshells (back: COMPOST. They rot into soil.); TEST IT: knock a glass bottle and a plastic bottle with your fingernail. Can you hear which is which? (back: Glass goes tink, a clear ring. Plastic goes tuk, a dull sound. Glass is made from sand, and most plastic from oil.); TEST IT: hold a cotton rag and a plastic bag. Which one was once a living plant? (back: The cotton rag. Cotton grows on a plant, so cotton rots in soil. Most plastic is made from oil, and does not rot.); TEST IT: look at the bottom of a plastic bottle. Can you find a number inside a triangle of arrows? (back: The number tells sorters which kind of plastic it is. A 1 means PET, the plastic of most drinking bottles. It does not promise that the bottle will be recycled.); TEST IT: name one thing in this room that has been repaired. (back: Any real answer scores: stitched cloth, a glued toy, a mended chair. Say how it was mended.)
+- **Printable board: Seven place mats:** REDUCE: we should not have made or bought it; REUSE: use it again; REPAIR: mend it; COMPOST: let it rot into soil; KABADIWALA: sell it to be recycled; HAZARD: needs a special collection point; DUMP: nothing else works
+- **Printable score sheet: Score sheet: best place 2 points, another good place 1 point, TEST IT winner 2 points:** Name; Points from cards; Points from TEST IT cards; Total
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay out the six mats in a row: REDUCE, REUSE, REPAIR, COMPOST, KABADIWALA, DUMP. 2. Shuffle the 30 cards and put them face down. 3. Put the score sheet and leaf tokens nearby.  
-  *Parent says:* Every card is something people throw out. For each one, we decide the best place for it. The higher up the line, the more points.  
-  *Child mode:* Lay out the six mats in a row. Mix up the cards. Put them face down. For each card, find its best place.
+  *Parent does:* 1. Lay out the seven mats in a row: REDUCE, REUSE, REPAIR, COMPOST, KABADIWALA, HAZARD, DUMP. 2. Shuffle the 30 cards and put them face down. 3. Put the score sheet and a pencil nearby.  
+  *Parent says:* Every card is something people throw out. For each one, we choose the best place. Then we turn the card over to see what the back says.  
+  *Child mode:* Lay out the seven mats in a row. Mix up the cards. Put them face down. For each card, find its best place.
 - **s2 (3 min)**  
-  *Parent does:* Play the card 'A shirt with a missing button' together as a practice round.  
+  *Parent does:* Find the card 'A shirt with a missing button' in the pile. Play it together first as a practice round, and score it as normal.  
   *Parent says:* Let's practise. A shirt with a missing button. Where is the best place for it?  
-  *Child mode:* Practice card: a shirt with a missing button. Where should it go? Tap your answer.
+  *Child mode:* Practice card: a shirt with a missing button. Where should it go? Choose your answer.
   - Ask: Why is repair better than the kabadiwala here? (good: Sewing on a button is quick, and the shirt works again.; No new shirt has to be made.)
   - Check: A shirt with a missing button. What is the best place for it? → **REPAIR**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns. Each player draws a card, reads it out and places it. 2. They say why. 3. Others may challenge. 4. Give leaf tokens for the points.  
-  *Parent says:* Remember, the higher up the line, the more points. But you must be able to say why.  
-  *Child mode:* Take turns. Read your card. Put it on a mat and say why. Can someone find a better place?
-  - Note: Good answers. Banana peel, coffee grounds, eggshells, dry leaves and the garland go to COMPOST. The jam jar and shoebox are REUSE. The steel tumbler, chappal strap, cycle tube and toy car are REPAIR. Newspaper, a rinsed milk packet, the plastic bottle and the drinks can go to the KABADIWALA. The notebook with empty pages and the small T-shirt are REUSE: use the pages, or give the shirt to a younger child. The broken bangle can be REUSE in a mosaic, as Nek Chand did. Otherwise wrap it in paper so nobody is cut. The straw, the thin carry bag and the shiny gift wrap are best on REDUCE: we should not have taken them. The chips packet usually ends on DUMP, because almost nobody recycles it, so REDUCE is the better answer. The pizza box splits: the clean lid goes to the kabadiwala and the cheesy part to compost. The battery and the tube light are hazards. They need a special collection point, because they hold harmful metals such as mercury in tube lights.
+  *Parent does:* 1. Take turns. Each player draws a card, reads it out and places it. 2. They say why. 3. Turn the card over and give the points.  
+  *Parent says:* Say why before you turn the card over. A good reason can score even when the back names a different place.  
+  *Child mode:* Take turns. Read your card. Put it on a mat and say why. Then turn the card over.
+  - Note: Many things have more than one good answer, so give 1 point for a different place with a good reason, and talk about it. Reuse and repair come before the kabadiwala, because then nothing has to be broken down and made again. Hazards such as the battery and the tube light hold harmful chemicals, so they never go in the ordinary dustbin.
 - **s4 (3 min)**  
-  *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
+  *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first. The first to explain the result scores 2 points.  
   *Parent says:* Before we test it, everyone guess. Then let's try it.  
   *Child mode:* A TEST IT card! First, guess what will happen. Then try it.
   - Ask: The bottle has a number inside a triangle of arrows. What do you think it tells us? (good: Which kind of plastic it is.; It helps people sort plastics for recycling.)
-  - Note: The number tells sorters which kind of plastic it is. A 1 means PET, the plastic of most drinking bottles. It does not promise that it will be recycled.
+  - Note: The number tells sorters which kind of plastic it is. A 1 means PET, the plastic of most drinking bottles. It does not promise that the bottle will be recycled.
   - Think: Why do you think there are so many kinds of plastic, when there is only one kind of banana peel?
 - **s5 (2 min)**  
-  *Parent does:* 1. Count the points and find the winner. 2. Look at the six mats together.  
+  *Parent does:* 1. Count the points and find the winner. 2. Look at the seven mats together.  
   *Parent says:* Look at the mats. Which mat has the most cards? Which cards were the hardest to place?  
-  *Child mode:* Count your leaves. Who won? Look at the DUMP mat. Could any of those cards have been stopped at the start?
+  *Child mode:* Add up your points. Who won? Look at the DUMP mat. Could that card have been stopped at the start?
   - Think: Which cards would not exist at all if we reduced first?
 ### g2 · Loops and Ladders (20 min)
-- **rules:** Everyone puts a bottle-cap counter on square 1.; On your turn, roll the dice and move that many squares.; If you land at the foot of a ladder, read its sentence. Answer its 'why' card out loud, then climb up.; If you land on a snake's head, read the sentence there. Say what should have happened instead, then slide down.; The first player to reach or pass square 30 wins.; Playing alone: play with two counters, a red one for yourself and a blue one for 'the city'. Roll for each in turn. Try to get yours home first, and answer every card.
-- **Printable board: A 30-square board (5 rows of 6), to draw or print:** Square 1: START, your dustbin; Ladder 3 to 11: You carried a cloth bag to the market. Reduce!; Ladder 6 to 14: You sewed a button back on. Repair!; Ladder 9 to 19: You rinsed the milk packets and sold them to the kabadiwala. Recycle!; Ladder 15 to 23: You started a compost pot with peels and dry leaves.; Ladder 20 to 28: You gave your old books to a younger child. Reuse!; Snake 13 to 4: You threw a chips packet out of the bus window.; Snake 17 to 7: You burned a pile of plastic. The smoke hurt everyone's lungs.; Snake 22 to 12: You mixed peels with newspaper, and the newspaper was spoiled.; Snake 26 to 16: You threw a plastic bag with food in it on the road. A cow ate the bag.; Snake 29 to 18: You bought a new toy and threw out one that just needed a wheel fixed.; Square 30: HOME, a clean, green lane
+- **rules:** Everyone puts a bottle-cap counter on square 1.; On your turn, roll the dice and move that many squares.; If you land at the foot of a ladder, read the sentence and the question on that square out loud. Answer the question, then climb up.; If you land on a snake's head, read the sentence and the question on that square out loud. Answer the question, then slide down.; If you cannot answer, another player or the parent reads the answer from the list. You still climb or slide.; The first player to reach or pass square 30 wins.; Playing alone: play with two counters, a red one for yourself and a blue one for 'the city'. Roll for each in turn. Try to get yours home first, and answer every question.
+- **Printable board: A 30-square board (5 rows of 6), to draw or print:** Square 1: START: your home; Square 2; Square 3: LADDER up to 11. You carried a cloth bag to the market. Reduce! Question: Why is a cloth bag better than a new plastic bag each time?; Square 4; Square 5; Square 6: LADDER up to 14. You sewed a button back on. Repair! Question: Why is repairing better than buying new?; Square 7; Square 8; Square 9: LADDER up to 19. You rinsed the milk packets and sold them to the kabadiwala. Recycle! Question: Why must milk packets be rinsed before selling?; Square 10; Square 11; Square 12; Square 13: SNAKE down to 4. You threw a chips packet out of the bus window. Question: Where does the packet end up, and who has to deal with it?; Square 14; Square 15: LADDER up to 23. You started a compost pot with peels and dry leaves. Question: What do microbes need to turn peels into compost?; Square 16; Square 17: SNAKE down to 7. You burned a pile of plastic. The smoke hurt everyone's lungs. Question: What could your family have done with the plastic instead?; Square 18; Square 19; Square 20: LADDER up to 28. You gave your old books to a younger child. Reuse! Question: Why does reusing a book save trees?; Square 21; Square 22: SNAKE down to 12. You mixed peels with newspaper, and the newspaper was spoiled. Question: Why does a wet peel spoil paper?; Square 23; Square 24; Square 25; Square 26: SNAKE down to 16. You threw a plastic bag with food in it on the road. A cow ate the bag. Question: Why can't a cow digest a plastic bag?; Square 27; Square 28; Square 29: SNAKE down to 18. You bought a new toy and threw out one that just needed a wheel fixed. Question: What did making the new toy use up?; Square 30: HOME: a clean, green lane
 - **Printable tokens: One counter for each player, and one dice:** a bottle cap for each player; 1 dice
-- **Printable cards: 12 'why' cards, to read at the ladders and snakes:** Why is a cloth bag better than a new plastic bag each time?; Why is repairing better than buying new?; Why must milk packets be rinsed before selling?; What do microbes need to turn peels into compost?; Why does reusing a book save trees?; Where does a chips packet go after the window?; What does burning turn plastic into?; Why does a wet peel spoil paper?; Why can't a cow digest a plastic bag?; What did making the new toy use up?; What is a kabadiwala?; Name one thing that rots and one that doesn't.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw a 5 by 6 grid on a big sheet, numbered 1 to 30 from the bottom. 2. Draw the five ladders and five snakes from the list. 3. Write each sentence beside its ladder or snake.  
+  *Parent does:* 1. Draw a 5 by 6 grid on a big sheet, numbered 1 to 30 from the bottom. 2. Draw the five ladders and five snakes from the board list. 3. Write each sentence beside its ladder or snake.  
   *Parent says:* Snakes and ladders was first played in India, long ago. Ladders were good deeds and snakes were harmful ones. Let's make a waste version.  
   *Child mode:* Draw a grid of 30 squares. Add the ladders and snakes from the list. Write a few words beside each one.
-  - Note: If drawing takes too long, draw only the numbers and arrows, and keep the sentence list beside the board to read from.
+  - Note: If drawing takes too long, draw only the numbers and arrows, and keep the board list beside you to read from.
 - **s2 (12 min)**  
-  *Parent does:* Play in turns. At each ladder or snake, read the sentence and answer the card before moving.  
-  *Parent says:* Remember, on a ladder you answer the why card. On a snake, you say what should have happened instead.  
-  *Child mode:* Roll and move. On a ladder, answer the card and climb. On a snake, say what should have happened, then slide.
+  *Parent does:* Play in turns. At each ladder or snake, read the sentence and answer the question before moving.  
+  *Parent says:* Remember, at every ladder and snake you read the sentence and answer the question on that square.  
+  *Child mode:* Roll and move. On a ladder or a snake, answer the question first. Then climb or slide.
+  - Note: Answers. Cloth bag: it is used hundreds of times, so no new bag is made for each trip. Repair: it needs only a little thread and skill, while a new thing needs materials, energy and transport. Rinse: sour milk smells, brings flies and spoils the other dry waste. Compost: microbes need water, air, warmth and peels or leaves to feed on. Book: a book used again means no new paper is made. Chips packet: it lies on the road or washes into a drain, and does not rot. Plastic: keep it clean and dry for the kabadiwala, and buy less of it. Wet peel: paper goes soggy and dirty, and cannot be recycled. Cow: gut microbes have enzymes for plants, none for plastic, so the bag stays in her stomach. New toy: materials, energy, a factory, a truck and packaging.
   - Check: You land on the snake: 'You burned a pile of plastic.' What happens to the plastic when it burns? → **It turns into smoke, harmful gases and ash**
 - **s3 (3 min)**  
   *Parent does:* When someone reaches square 30, stop and talk.  
@@ -325,7 +323,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **safety:** Wear gloves or use a spoon when you look closely. Do not sniff the mouldy peel closely, and do not open jars near your face. Wash hands with soap afterwards. A grown-up cuts any plastic bottles.
 - **record:** Fill in the table on days 4, 8 and 14. Draw each jar on day 14. Then draw a bar chart with one bar for each thing, as tall as how much was left.
 - **results table:** Thing buried | My guess (fastest 1 to slowest 4) | Day 4: how much is left (0 to 5) | Day 8: how much is left (0 to 5) | Day 14: how much is left (0 to 5) | What it looked like on day 14
-- **schedule:** day 1: Make your guesses. Fill four jars with damp soil. Push one thing against the glass in each jar, so you can see it from outside. Cover and label them. (20 min); day 4: Look through the glass. Score how much of each thing is left, from 5 to 0. Add a spoon of water if the soil looks dry. (5 min); day 8: Look and score again. Draw what you see. (5 min); day 14: Score a last time, then tip each jar onto newspaper and look closely. Fill in the table, draw a bar chart and say what you found. (10 min)
+- **schedule:** day 1: Make your guesses. Fill four jars with damp soil. Push one thing against the glass in each jar, so you can see it from outside. Cover and label them. (15 min); day 4: Look through the glass. Score how much of each thing is left, from 5 to 0. Add a spoon of water if the soil looks dry. (5 min); day 8: Look and score again. Draw what you see. (5 min); day 14: Score a last time, then tip each jar onto newspaper and look closely. Fill in the table, draw a bar chart and say what you found. (15 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Put the peel, newspaper, cloth and milk packet on a plate. 2. Ask your child to line them up, fastest to rot first.  
   *Parent says:* We're going to bury these four things and watch them for two weeks. Which do you think will rot first? Put them in a line.  
@@ -348,16 +346,16 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Note: Expect the peel to go brown and then black, with white or green mould. The newspaper goes soft and grey. The cloth looks stained. The milk packet looks just the same. If a jar smells bad, it is too wet. Take the cover off for a day to let it dry a little.
   - Wait: Look again on day 4 and day 8.
 - **s5 (10 min)**  
-  *Parent does:* 1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves. 3. Find each thing and look closely. 4. Fill in the table and draw a bar chart.  
+  *Parent does:* 1. On day 14, score each jar one last time. 2. Tip each jar onto old newspaper, wearing gloves or using a spoon. 3. Find each thing and look closely. 4. Fill in the table and draw a bar chart.  
   *Parent says:* Let's see what's left. Gently, so we don't break anything.  
-  *Child mode:* Wear gloves. Tip out each jar. Find your four things. What do they look like now? Draw a bar for each.
+  *Child mode:* Wear gloves or use a spoon. Tip out each jar. Find your four things. What do they look like now? Draw a bar for each.
   - Check: In the rot jar test, the strip of milk packet looked exactly the same after 14 days. Why? → **Soil microbes have almost no enzymes that can cut plastic molecules**
   - Wait: Do this on day 14.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why it happened.
-  - Note: A good answer sounds like this. What I think: things that were once alive rot, and plastic doesn't. What I saw: the peel was black and half gone, and the milk packet looked new. Why: tiny living things in the soil feed on peel, but they have no tools for plastic. Put the peel, paper and cloth back into soil or a compost pot for a month. They will mostly disappear. Put the milk packet in the dry waste.
+  - Note: A good answer sounds like this. What I think: things that were once alive rot, and plastic doesn't. What I saw: the peel was black and half gone, and the milk packet looked new. Why: tiny living things in the soil feed on peel, but they have no tools for plastic. Put the peel, paper and cloth back into soil or a compost pot for a few months. They will slowly turn into soil. Put the milk packet in the dry waste.
   - Think: If you buried the same plastic and came back when you were grown up, what would you find?
 ### e2 · Melt and Remake: new crayons from broken ones (40 min)
 - **question:** Can broken wax crayons be melted and made into new crayons that still draw? What happens when we mix the colours?
@@ -367,7 +365,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **record:** Fill in the table. Stick a strip of paper with ten strokes from an old crayon and ten from a new one in your notebook.
 - **results table:** Mould | Colours put in | Colour that came out | Did it draw well? (yes, a bit, no) | Did it break easily?
 - **s1 (8 min)**  
-  *Parent does:* 1. Soak the broken crayons in water for 10 minutes, so the paper peels off easily. 2. Peel off all the paper, and dry the crayons on a cloth. 3. Break the crayons into pieces about the size of a fingernail. 4. Sort them into two piles: one single colour, and one mix of colours.  
+  *Parent does:* 1. Soak the broken crayons in water for 5 minutes, so the paper peels off easily. 2. Peel off all the paper, and dry the crayons on a cloth. 3. Break the crayons into pieces about the size of a fingernail. 4. Sort them into two piles: one single colour, and one mix of colours (include red, blue and yellow if you have them).  
   *Parent says:* These crayons are broken. Most people throw them out. We're going to recycle them, the way a factory recycles metal or plastic.  
   *Child mode:* Peel the paper off the broken crayons. Break them into small bits. Make two piles: one colour, and a mix.
 - **s2 (12 min) · grown-up needed**  
@@ -396,7 +394,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **fair test:** To make it fair, load every bag the same way: one 1-kilogram weight at a time. Lift each bag by its handles the same height, about a hand's width, and hold it for 10 seconds.
 - **safety:** Test over a cushion, so falling weights don't crack the floor or hurt toes. Keep feet out from under the bag. A grown-up lifts any bag holding more than 3 kilograms.
 - **record:** Fill in the table. Draw a bar chart with one bar for each bag, as tall as the kilograms it held.
-- **results table:** Bag | My guess (1 to 4) | Kilograms it held for 10 seconds | What broke first: handle, bottom or side? | How many times could we use it again?
+- **results table:** Bag | My guess (1 to 4) | Kilograms it held for 10 seconds | What broke first: handle, bottom or side? | Could we still use it after the test? (yes or no)
 - **s1 (3 min)**  
   *Parent does:* 1. Put the four bags in a row. 2. Ask your child to line them up, strongest first.  
   *Parent says:* Which bag do you think will carry the most? Put them in a line, strongest first.  
@@ -420,7 +418,6 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 
 ## Activities
 ### a1 · Dustbin Detective: one day's waste (15 min)
-- **safety:** Nobody needs to touch the waste. You only make a mark each time something is thrown out.
 - **record:** Count the marks in each column. Draw a bar chart with four bars. Circle the column you could make smaller.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw four columns on a sheet. Call them ROTS, KABADIWALA, COULD BE REUSED and NOTHING ELSE. Peels go under ROTS. Paper, bottles and cans go under KABADIWALA. Jars, boxes and old clothes go under COULD BE REUSED. Wrappers and packets go under NOTHING ELSE. 2. Stick it beside the dustbin. 3. Tell the whole family to make one mark for each thing they throw out today.  
@@ -437,7 +434,6 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Child mode:* Look at the NOTHING ELSE column. Choose one thing your family could stop buying. Write it on the fridge.
   - Think: Where do the NOTHING ELSE things go when the garbage van takes them?
 ### a2 · Follow the Bottle (act it out) (15 min)
-- **safety:** Walk, don't run, between the stations.
 - **record:** Draw the two journeys as two roads. Mark where the bottle ends up on each.
 - **s1 (4 min)**  
   *Parent does:* Put up signs in different rooms. Road 1: SHOP, HOME, DRY WASTE BAG, WASTE PICKER OR KABADIWALA, SCRAP DEALER, FACTORY, T-SHIRT. Road 2: MIXED BAG, DUMPING GROUND, DRAIN, RIVER, SEA.  
@@ -483,7 +479,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent says:* These strips will become knots that close the bottom of the bag.  
   *Child mode:* Turn the shirt inside out. Cut strips along the bottom, through both layers. Make them about as long as your finger.
 - **s3 (8 min)**  
-  *Parent does:* 1. Tie each front strip to the back strip under it, with a double knot. 2. Then tie each knot's strip to the strip of the knot next to it, to close the gaps. 3. Turn the bag right side out.  
+  *Parent does:* 1. Tie each front strip to the back strip under it, with a double knot. 2. Then tie a strip from each knot to a strip from the knot beside it, to close the gaps. 3. Turn the bag right side out.  
   *Parent says:* Tie them tight, two knots each. Then tie neighbours together, so nothing can fall through.  
   *Child mode:* Tie each front strip to the back strip under it. Two knots. Then tie neighbours together. Turn the bag right way out.
 - **s4 (4 min)**  
@@ -492,24 +488,22 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Child mode:* Put some things in your bag. Is it strong? Keep it for the bag test.
   - Check: Turning an old T-shirt into a shopping bag is called… → **Upcycling**
 ### a5 · Fold a Newspaper Bag (20 min)
-- **safety:** Flour paste is safe. Wash it off your hands with water.
 - **record:** Draw the folding steps in your own way, so you can make another one.
 - **s1 (6 min)**  
-  *Parent does:* 1. Fold the double sheet in half along its long side, so it is a long strip of four layers. 2. Fold both short ends in so they overlap by 2 cm. 3. Paste the overlap. You now have a flat tube.  
+  *Parent does:* 1. Fold the double sheet in half along its long side, so it is a long strip of four layers. 2. Bring the two short ends together so they overlap by 2 cm. 3. Paste the overlap. You now have a loop. Press it flat into a tube.  
   *Parent says:* Newspapers used to be folded into bags in shops all over India. Let's make one.  
-  *Child mode:* Fold the newspaper in half the long way. Fold the ends in so they overlap. Paste them. Now you have a flat tube.
+  *Child mode:* Fold the newspaper in half the long way. Bring the short ends together so they overlap. Paste them. Press it flat into a tube.
 - **s2 (8 min)**  
   *Parent does:* 1. Fold up the bottom of the tube about 6 cm. 2. Open that fold into a flat diamond shape. 3. Fold the top point of the diamond down to the middle, and the bottom point up to the middle, overlapping. 4. Paste them down firmly.  
   *Parent says:* This is the tricky part. Go slowly. If it goes wrong, unfold and try again.  
   *Child mode:* Fold the bottom up. Open it into a diamond. Fold the top and bottom points to the middle. Paste them down.
   - Note: This bottom fold is the hard part. It usually works on the second or third try. If it won't work, simply fold the bottom up twice and paste it flat. The bag will be weaker, but still useful.
 - **s3 (6 min)**  
-  *Parent does:* 1. Paste a strip of thick paper inside the top as a handle. 2. Let the bag dry for 10 minutes. 3. Gently open it out.  
+  *Parent does:* 1. Paste the two ends of a strip of thick paper inside the top edge, on opposite sides, to make a handle loop. 2. Let the bag dry for 30 minutes. 3. Gently open it out.  
   *Parent says:* Now let it dry. Then we'll see how much it can carry.  
-  *Child mode:* Paste the handle inside the top. Let it dry. Then open it gently.
-  - Wait: Let it dry for 10 minutes.
+  *Child mode:* Paste the ends of the handle strip inside the top. Let it dry. Then open it gently.
+  - Wait: Let it dry for 30 minutes if you used paste. With tape, you can open it at once.
 ### a6 · Microbe Scissors: why peels rot and plastic doesn't (a model) (15 min)
-- **safety:** A grown-up helps with the stapler.
 - **record:** Draw both chains, and draw which one you could take apart.
 - **s1 (6 min)**  
   *Parent does:* 1. Make a chain of 10 linked paper rings. Close each ring with a small piece of tape, and draw a dot on each tape. This is the peel chain. 2. Make a second chain of 10 rings, closed with staples. This is the plastic chain.  
@@ -527,7 +521,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Note: This shows three real ideas. Microbes rot what their enzymes fit. Sunlight only breaks plastic into smaller plastic. And a few microbes, like Ideonella sakaiensis, found in Japan in 2016, have begun to evolve enzymes for one plastic, slowly.
   - Think: Why do you think the plastic-eating microbe was found near a bottle recycling plant?
 ### a7 · Repair Day (30 min)
-- **safety:** A grown-up threads the needle and watches the sewing. Point the needle away from you. Use glue only with a grown-up and open windows.
+- **safety:** A grown-up threads the needle and watches the sewing. Use glue only with a grown-up.
 - **record:** Draw the thing before and after. Write how long the repair took, and how long the thing may now last.
 - **s1 (5 min)**  
   *Parent does:* Hunt around the home for one broken thing that could be mended.  
@@ -540,14 +534,14 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Note: A button usually takes a child about 10 to 15 minutes the first time. That is fine. Darning a big hole is hard, so choose a small one.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* If you can, visit a cobbler, a tailor or a cycle puncture shop. Ask if you can watch for a few minutes.  
-  *Parent says:* Let's watch an expert. What tools does she or he use?  
+  *Parent says:* Let's watch an expert. What tools do they use?  
   *Child mode:* Watch a repair person. What tools do they use? What are they mending?
-  - Note: At a puncture shop, watch the tube being pushed into a tub of water. Bubbles show where the hole is. If no repair shop is near, ask a grandparent to show something they used to mend at home.
+  - Note: At a puncture shop, watch the tube being pushed into a tub of water. Bubbles show where the hole is. If no repair shop is near, skip this step, or ask an older relative or neighbour to show something they used to mend.
   - Check: Why is repairing a chappal usually better for the planet than buying a new one? → **A new chappal would need new rubber, a factory, a truck and packaging**
 
 ## Projects
 ### p1 · Handmade Recycled Paper, and a Thank-you Card (75 min, 4 days)
-- **safety:** Only a grown-up uses the mixer. Never put hands into the mixer jar. Wipe up spilled water so nobody slips.
+- **safety:** Only a grown-up uses the mixer. Never put hands into the mixer jar.
 - **record:** Stick a small piece of your recycled paper beside a piece of newspaper in your notebook. Write three ways they are different.
 - **schedule:** day 1: Tear the used paper into stamp-sized pieces. Soak them in water overnight. (15 min); day 2: Make the pulp. Lift sheets on the net frame. Press them on cloth with a rolling pin. Leave them to dry. (35 min); day 3: Check if the sheets are dry. If they are still damp, leave them another day. (5 min); day 4: Peel off the dry sheets. Compare them with the old paper. Make a thank-you card for the person who collects your waste. (20 min)
 - **s1 (15 min)**  
@@ -555,12 +549,12 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   *Parent says:* We're going to do what a paper recycling factory does, in our kitchen. First the paper has to soak, so its fibres loosen.  
   *Child mode:* Tear the paper into tiny pieces. Put them in water. Leave them overnight.
   - Wait: Leave the paper to soak overnight.
-- **s2 (10 min) · grown-up needed**  
+- **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts two handfuls of soaked paper and lots of water into the mixer. 2. Blend in short bursts until it looks like thin grey porridge. 3. Pour it into the wide tub and add water until it is about one part pulp to three parts water.  
   *Parent says:* Look at the pulp. Those tiny threads are wood fibres, from trees cut years ago.  
   *Child mode:* A grown-up blends the wet paper into grey mush. Look closely. Can you see tiny threads?
   - Note: No mixer? Squeeze and rub the soaked paper between your hands for 10 minutes, or beat it with a whisk. The paper will be rougher, but it works.
-- **s3 (15 min)**  
+- **s3 (20 min)**  
   *Parent does:* 1. Stir the tub. 2. Slide the net frame into the tub, under the pulp. 3. Lift it out flat and slowly, so a thin even layer sits on the net. 4. Let it drip. 5. Turn it face down onto a cloth and lift the frame off. 6. Cover with a second cloth and roll firmly with the rolling pin.  
   *Parent says:* Lift slowly and keep it flat. A thin, even layer makes good paper.  
   *Child mode:* Slide the frame under the mush. Lift it out flat. Let it drip. Flip it onto a cloth. Roll it flat.
@@ -606,8 +600,8 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - **problem:** Build a toy that moves, using only things that were going to be thrown out.
 - **your turn:** Now invent your own toy from trash. Draw it, build it and test it. Then teach someone else to make it.
 - **constraints:** It must really move: roll, spin, fly or make a sound.; Use only waste, plus a little tape or glue.; A grown-up does any cutting with a sharp knife or making holes.
-- **general:** A car: a matchbox body, four bottle-cap wheels, and an old pen refill or a bamboo skewer for each axle.; A spinning top: a bottle cap with a short pencil stub pushed through the middle.; A drum: a tin with a balloon stretched over the top.
-- **creative:** Arvind Gupta, a scientist and toy-maker who worked for many years in Pune, has shown how to make hundreds of science toys from waste. His website is free.; A rubber-band car: a rubber band twisted around the axle makes it drive itself.; A spinner made from a card circle coloured in rainbow stripes. Spin it fast and the colours blur to a pale grey-white.
+- **general:** A car: a matchbox body, four bottle-cap wheels, and an old pen refill or a straight stick for each axle.; A spinning top: a bottle cap with a short pencil stub pushed through the middle.; A drum: an empty tin with a plastic carry bag stretched over the top and held on with a rubber band.
+- **creative:** Arvind Gupta, an engineer and toy-maker who worked for many years in Pune, has shown how to make hundreds of science toys from waste. His website is free.; A rubber-band car: a rubber band twisted around the axle makes it drive itself.; A spinner made from a card circle coloured in rainbow stripes. Spin it fast and the colours blur to a pale grey-white.
 - **s1 (5 min)**  
   *Parent does:* Collect a box of clean waste: matchboxes, caps, card, refills, rubber bands.  
   *Parent says:* Let's collect our building materials from the waste.  
@@ -628,46 +622,44 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Think: Your toy was made of waste. Is it still waste?
 
 ## Worksheets
-### Waste Detective (core) (core, 16 questions)
+### Waste Detective (core) (core, 15 questions)
 1. (write) Kavya, a girl in Class 4, and her family buy a new plastic bottle of water every day. Her mother says, "That is fine, because we give the bottles for recycling." Kavya thinks they should fill a steel bottle at home instead. Explain why Kavya's plan is better. Use the word energy or materials.  
    **Answer:** Kavya's plan means no new bottle is made at all, so no plastic, oil or energy is used to make one. Recycling still needs trucks, washing, shredding and melting, which all use energy. And many bottles never reach a factory. A steel bottle can be used for years.. *Why:* A strong answer says that reducing stops the waste being made, while recycling still uses energy and materials. That is why reduce comes first.
 2. (match) Match each action to its R.  
    **Answer:** Take a steel dabba to the shop for loose dal → Reduce; Use an old sari as a curtain → Reuse; Get the mixie's broken blade fixed → Repair; Sell old newspapers to the kabadiwala → Recycle. *Why:* Reduce stops the waste being made. Reuse uses a thing again. Repair mends it so it works again. Recycle breaks it down into material for something new.
 3. (sort) Sort these things. Will each one rot in damp soil within a few months, or not?  
    **Answer:** a mango peel → Rots within a few months; a steel spoon → Does not rot; curry leaves → Rots within a few months; a glass bangle → Does not rot; a paper bag → Rots within a few months; a toothpaste tube → Does not rot; a plastic straw → Does not rot. *Why:* Things that were once part of a living plant, like peels, leaves and paper, are food for soil microbes, so they rot. Steel, glass and plastic are not food for them. Steel may slowly rust, but it does not rot.
-4. (mcq) Before the rot jar test, A girl makes a prediction. Which thing should she expect to look most changed after two weeks?  
+4. (mcq) Before the rot jar test, a girl makes a prediction. Which thing should she expect to look most changed after two weeks?  
    Options: The banana peel / The newspaper / The cotton cloth / The milk packet  
    **Answer:** The banana peel. *Why:* A banana peel is soft, wet and was alive only days ago, so microbes start on it quickly. Paper and cotton rot too, but more slowly, because their fibres are tough. The milk packet is plastic, and microbes have almost no enzymes for it.
 5. (truefalse) When plastic breaks into tiny pieces, it has rotted away.  
    **Answer:** False. *Why:* False. Tiny pieces of plastic are still plastic. They are called microplastics, and they spread into soil, water and animals.
-6. (truefalse) Burning garbage makes it disappear completely.  
-   **Answer:** False. *Why:* False. Burning turns garbage into smoke, gases and ash. Atoms are never destroyed.
-7. (mcq) Pooja, a girl in Class 4, says, "Plastic does not rot because it is buried too deep for the microbes to reach." What is wrong with her idea?  
+6. (mcq) Pooja, a girl in Class 4, says, "Plastic does not rot because it is buried too deep for the microbes to reach." What is wrong with her idea?  
    Options: Plastic lying on top of the soil does not rot either. The real reason is that almost no microbe has an enzyme that fits plastic / Nothing. Pooja is right / Plastic rots quickly if it is buried deep enough  
    **Answer:** Plastic lying on top of the soil does not rot either. The real reason is that almost no microbe has an enzyme that fits plastic. *Why:* A peel buried at the same depth does rot, so depth is not the reason. Microbes can only eat what their enzymes fit, and their enzymes fit peels, not plastic. Plastic left in the sun cracks into pieces, but it still does not rot.
-8. (fill) Dark, crumbly soil made from rotted peels and leaves is called ____.  
+7. (fill) Dark, crumbly soil made from rotted peels and leaves is called ____.  
    **Answer:** ['compost']. *Why:* Compost is made by microbes and worms, and it feeds plants.
-9. (mcq) Why should we rinse a milk packet before giving it to the kabadiwala?  
+8. (mcq) Why should we rinse a milk packet before giving it to the kabadiwala?  
    Options: To make it heavier / So old milk doesn't go sour and spoil it and the things beside it / So it rots faster / Because water makes plastic recyclable  
    **Answer:** So old milk doesn't go sour and spoil it and the things beside it. *Why:* Sour milk smells, attracts flies and spoils paper and other dry waste. A clean, dry packet can be sold and recycled. Picking 'rots faster' mixes up plastic with peels.
-10. (write) In many Indian streets, cows eat from rubbish heaps. A cow swallows a plastic bag with vegetable peels inside. Explain what can happen to her, and why her stomach cannot deal with the bag.  
+9. (write) In many Indian streets, cows eat from rubbish heaps. A cow swallows a plastic bag with vegetable peels inside. Explain what can happen to her, and why her stomach cannot deal with the bag.  
    **Answer:** Her gut is full of microbes with enzymes that break down grass and peels. None of them has an enzyme that fits plastic. So the peels are digested, but the bag stays in her stomach. Bags can pile up there until she cannot eat properly, and she can become very ill.. *Why:* A strong answer uses the idea of enzymes: the cow's gut microbes can digest plants but not plastic.
-11. (mcq) Which of these is reuse, and not recycling?  
+10. (mcq) Which of these is reuse, and not recycling?  
    Options: Using an empty glass jam jar to store rava / Melting old jars to make new glass / Shredding bottles into flakes / Pulping newspapers to make new paper  
    **Answer:** Using an empty glass jam jar to store rava. *Why:* Reuse means using the thing again as it is. The jar is still a jar. Melting, shredding and pulping break a thing down into material, which is recycling. Reuse saves more energy, because nothing has to be broken down and made again.
-12. (write) Find two things in your home that are being reused. Say what each one was before. Then say what new thing your family did not have to buy because of it.  
+11. (write) Find two things in your home that are being reused. Say what each one was before. Then say what new thing your family did not have to buy because of it.  
    **Answer:** An old cotton T-shirt is now a duster. Before, it was a shirt. So we did not have to buy a new duster. A biscuit tin now holds buttons. Before, it held biscuits. So we did not need a new box.. *Why:* A strong answer gives two real examples and sees that each reuse means one new thing does not have to be made.
-13. (draw) Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.  
+12. (draw) Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.  
    **Answer:** A drawing showing the peel dark and soft or partly gone, the paper soft or torn, the cloth stained, and the milk packet unchanged.. *Why:* Drawing what you really saw is how scientists record. Yours may look different, and that is fine.
-14. (perspective) Lakshmi, a girl aged 9, and her family are deciding what to do with their old newspapers.  
+13. (perspective) Lakshmi, a girl aged 9, and her family are deciding what to do with their old newspapers.  
    **Answer:** A strong answer weighs real trade-offs. Recycling saves trees but still uses trucks, water and energy at the mill. Reusing keeps the paper useful for longer, and it can still be recycled later. Reducing comes first in the order of the Rs, but a phone also uses electricity and is hard to recycle. A strong answer picks one plan, gives a reason, and is fair to another.. *Why:* There is no single right answer. Each plan avoids some waste, and each has a cost.
-15. (mcq) A woman has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?  
+14. (mcq) A woman has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?  
    Options: The vegetable peels / The newspapers / The oil tin / The plastic bucket  
-   **Answer:** The vegetable peels. *Why:* A kabadiwala buys things that factories can remake: paper, metal and hard plastic. He sells them on to dealers. Peels cannot be remade in a factory. They belong in a compost pot, where microbes turn them into soil.
-16. (truefalse) Paper rots in soil because it is made from wood, which was once part of a living tree.  
+   **Answer:** The vegetable peels. *Why:* A kabadiwala buys things that factories can remake: paper, metal and hard plastic. They sell them on to dealers. Peels cannot be remade in a factory. They belong in a compost pot, where microbes turn them into soil.
+15. (truefalse) Paper rots in soil because it is made from wood, which was once part of a living tree.  
    **Answer:** True. *Why:* True. Paper is made of fibres from wood. Soil microbes have been feeding on wood for millions of years, so they have enzymes that fit it. That is why paper rots, though more slowly than a peel.
 ### Following Our Waste (stretch) (stretch, 16 questions)
-1. (mcq) In the rot jar test, A girl puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?  
+1. (mcq) In the rot jar test, a girl puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?  
    Options: She changed two things at once, the material and the place, so she cannot tell which one made the difference / The jars are not the same colour / The milk packet should be in the sun too, so that it rots  
    **Answer:** She changed two things at once, the material and the place, so she cannot tell which one made the difference. *Why:* In a fair test, only one thing changes. Here the material and the warmth are both different. If the peel rots faster, nobody can tell whether the material or the warm sun caused it.
 2. (mcq) Look at the made-up results. The newspaper and the cotton cloth both scored 4 on day 14. What does this tell you?  
@@ -733,8 +725,8 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** Recognition as workers, identity cards, and door-to-door collection work with the city. *Why:* By organising from 1993, they won identity cards from the city and the right to collect waste door to door through their cooperative, SWaCH. Their work is still hard, and many still fight for fair pay.
 12. (truefalse) Nobody has watched a plastic bottle for 450 years, so '450 years to break down' is an estimate.  
    **Answer:** True. *Why:* True. Most plastic has existed for less than 75 years. Times like this are worked out from tests that speed things up, and they are rough guesses.
-13. (write) A fungus is busy rotting a fallen log. Do they matter for their own sake, or only because they make soil for us? Write what you think and why.  
-   **Answer:** I think they matter for their own sake, because they are alive and feeding, like we are. It also helps the forest, and that helps us too.. *Why:* There is no single right answer. Every living thing matters for their own sake, not only for what they give us. Some people think a living thing matters mainly for what they do for people.
+13. (write) Fungi are busy rotting a fallen log. Do they matter for their own sake, or only because they make soil for us? Write what you think and why.  
+   **Answer:** I think fungi matter for their own sake, because they are alive and feeding, like we are. They also help the forest, and that helps us too.. *Why:* There is no single right answer. Every living thing matters for their own sake, not only for what they give us. Some people think a living thing matters mainly for what they do for people.
 14. (write) Design a better chips packet. It must keep chips crisp, and it must not end up in the dump. Describe or draw it.  
    **Answer:** A refillable steel or glass jar that the shop fills from a big tin. Or a paper packet lined with a thin coat that compost microbes can eat.. *Why:* Real engineers are working on this problem. Any idea that keeps chips dry and can be reused, recycled or composted is a good answer.
 15. (write) Waste is sometimes called 'matter out of place'. Give one example of something that is waste in one place and useful in another.  
@@ -744,9 +736,9 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** Into the air, as carbon dioxide gas and water vapour given off by the microbes as they fed. *Why:* As microbes feed on peels, they breathe out carbon dioxide and give off water, just as we do. These float away as gas and vapour. The atoms are not destroyed. They have moved into the air, and plants can take them in again.
 
 ## Videos
-- **What really happens to the plastic you throw away** (TED-Ed (lesson by Emma Bryce), 5 min) id `_6xlNyWPpB8`: An animated journey of three plastic bottles: to a landfill, to a recycling plant and to the sea. It matches the Follow the Bottle activity and the microplastics card. *Check:* Found by YouTube search and checked with YouTube's public title lookup: 'What really happens to the plastic you throw away - Emma Bryce' by TED-Ed. A parent may still preview it. Its numbers are for the whole world, not India.
-- **The Story of SWaCH: India's largest cooperative of waste pickers** (SWaCH Coop, 6 min) id `-WyXhISDIeU`: Shows the waste pickers of Pune, most of them women, collecting and sorting waste door to door. It goes with the card on the people who really recycle. *Check:* Found by YouTube search and checked with YouTube's public title lookup: 'The Story of SWaCH | India's Largest Cooperative of Waste Pickers | Solid Waste Management of Pune' by SWaCH Coop. Not watched from here: a parent should preview its length and language.
-- **Plastic degradation by insects** (TEDx Talks (talk by Federica Bertocchini), 12 min) id `spj-PbklTIo`: For the parent and curious older children: the scientist who noticed wax worms chewing plastic bags tells how it happened. It goes with the plastic-eating microbes and worms card. *Check:* Found by YouTube search and checked with YouTube's public title lookup: 'Plastic degradation by insects | Frederica Bertocchini | TEDxPlaceMuseuxSalon' by TEDx Talks (the title spells her name Frederica). Not watched from here: a parent should preview it, and remember the worm findings are still debated.
+- **What really happens to the plastic you throw away** (TED-Ed (lesson by Emma Bryce), 5 min) id `_6xlNyWPpB8`: An animated journey of three plastic bottles: to a landfill, to a recycling plant and to the sea. It matches the Follow the Bottle activity and the microplastics card. *Check:* A parent may like to preview it first. Its numbers are for the whole world, not India.
+- **The Story of SWaCH: India's largest cooperative of waste pickers** (SWaCH Coop, 6 min) id `-WyXhISDIeU`: Shows the waste pickers of Pune, most of them women, collecting and sorting waste door to door. It goes with the card on the people who really recycle. *Check:* A parent should preview its length and language first.
+- **Plastic degradation by insects** (TEDx Talks (talk by Federica Bertocchini), 12 min) id `spj-PbklTIo`: For the parent and curious older children: the scientist who noticed wax worms chewing plastic bags tells how it happened. It goes with the plastic-eating microbes and worms card. *Check:* A parent should preview it first. The worm findings are still debated.
 
 ## Quiz
 1. (mcq) Which of these comes first, and saves the most?  
@@ -773,7 +765,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 8. (mcq) Why should a family keep wet waste and dry waste in separate bins?  
    Options: So the wet waste can be composted and the dry waste stays clean enough to recycle / So the bins look tidy / Because wet waste is heavier  
    **Answer:** So the wet waste can be composted and the dry waste stays clean enough to recycle. *Why:* Peels in their own bin can go to compost. Paper, metal and plastic kept dry and clean can be sold to the kabadiwala. Mixed together, both are spoilt, and most of it goes to the dump.
-9. (mcq) What does a kabadiwala do with the old newspapers she or he buys from homes?  
+9. (mcq) What does a kabadiwala do with the old newspapers they buy from homes?  
    Options: Sells them on to dealers, who send them to paper mills to be made into new paper / Burns them / Buries them in the dump  
    **Answer:** Sells them on to dealers, who send them to paper mills to be made into new paper. *Why:* Kabadiwalas buy, weigh and sort old paper, metal and bottles, then sell them on. That is how a lot of India's waste paper gets back to the mills.
 10. (mcq) Which of these places turns vegetable peels into something useful?  
@@ -782,9 +774,9 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 11. (mcq) Riya, a girl in Class 3, cuts up an old T-shirt and ties it into a shopping bag. What is this called?  
    Options: Upcycling / Burning / Downcycling / Composting  
    **Answer:** Upcycling. *Why:* Upcycling makes waste into something more useful. Downcycling makes it into something of lower quality.
-12. (mcq) In the bag test, a newspaper bag held 2 kilograms and a cloth bag held 10 kilograms. How many times as much did the cloth bag hold?  
-   Options: 2 times / 5 times / 8 times / 10 times  
-   **Answer:** 5 times. *Why:* 10 divided by 2 is 5. So the cloth bag held 5 times as much. Picking 8 means subtracting, 10 take away 2. That tells how much more, not how many times as much.
+12. (mcq) In the bag test, why do we lift every bag the same height and hold it for 10 seconds?  
+   Options: So the test is fair: only the bag is different / So the bag gets tired / So the weights get warm  
+   **Answer:** So the test is fair: only the bag is different. *Why:* In a fair test, only one thing changes. If every bag is lifted the same way, any difference in what they hold comes from the bags. Picking 'gets tired' treats a bag like a person.
 13. (mcq) In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about this bacterium?  
    Options: They have already cleaned up the oceans / They are real and exciting, but slow, and work mainly on one kind of plastic / They do not exist / They eat all plastic quickly  
    **Answer:** They are real and exciting, but slow, and work mainly on one kind of plastic. *Why:* Ideonella sakaiensis is real, but they took weeks to eat a thin film, and only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.
@@ -811,7 +803,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 
 ## Spotted around us
 - Green and blue dustbins in parks, railway stations and schools: green for wet waste, blue for dry.
-- The kabadiwala's cart and hanging scale, and the call he makes as he walks down the lane.
+- The kabadiwala's cart and hanging scale, and the call they make as they walk down the lane.
 - Sal-leaf plates and clay kulhads at weddings, temples and tea stalls.
 - A cobbler sitting under an umbrella at a street corner, stitching soles.
 - Old ghee and coffee tins used for storing spices, buttons and nails.
@@ -833,43 +825,23 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 - Where do you think this wrapper will be in a hundred years?
 - Could this broken thing be mended instead?
 - Which of these things were once alive?
-- Who takes our waste away? Do we know their name?
 - If you could ban one thing that makes waste, what would it be?
-- What did your grandparents reuse when they were young?
 - Does this shop have something without a packet?
 - Is this rubbish, or is it in the wrong place?
 - If microbes can't eat it, who will?
-- What did making this new toy use up?
 - Can you hear whether this bottle is glass or plastic, by tapping it?
 
 ## Jokes
-- Why did the banana peel go to the compost pot? *It wanted to turn over a new leaf.*
+- Why did the old chappal smile at the cobbler? *Because he gave it a new sole.*
+- Why did the fungus get invited to every forest party? *Because he was a fun-guy who cleaned up afterwards.*
+- What did one recycling bin say to the other? *Let's sort this out.*
+- Why did the T-shirt become a bag? *It wanted to carry on.*
 - Why was the plastic bag so lonely? *Nobody wanted to break down with it.*
 - What did the kabadiwala say to the old newspaper? *Don't worry, you're not old news to me.*
-- Why did the shirt love the needle? *It always had its back, and its buttons.*
-- What is a microbe's favourite fruit? *Anything that has gone a little bit soft.*
-- Why did the bottle go to the factory? *It wanted to become a T-shirt and see the world.*
-- Why did the old chappal smile at the cobbler? *Because he gave it a new sole.*
-- What did one recycling bin say to the other? *Let's sort this out.*
-- Why don't plastic bags tell stories? *Because they never come to an end.*
-- Why was the compost pot so warm? *Millions of tiny friends were having a party inside.*
-- What do you call a broken crayon that gets melted down? *A crayon with a bright future.*
-- Why did the T-shirt become a bag? *It wanted to carry on.*
 - Why does the earthworm love the time when leaves fall? *Lunch keeps dropping from the trees.*
-- Why are tin cans so brave? *They've been through the fire and come back again.*
-- Why did the paper go back to the mixer? *It wanted to make a fresh start.*
-- Where does a plastic bottle go on holiday? *Everywhere. For hundreds of years.*
-- Why did the cow refuse the plastic bag? *She was a smart cow, and she only ate real food.*
-- What do you call a party where everything is reused? *A second-hand celebration.*
-- Why did the glass bangle go to Nek Chand's garden? *It wanted to be a piece of art.*
-- What's a waste picker's favourite game? *Sorting it out first.*
-- Why did the fungus get invited to every forest party? *Because he was a fun-guy who cleaned up afterwards.*
-- Why did the dustbin feel empty? *The whole family started reducing.*
-- Why was the milk packet so clean? *It wanted the kabadiwala to buy it.*
-- What did the steel tiffin say to the paper plate? *See you tomorrow. Oh, wait.*
 - Why did the recycled paper feel rough? *It had been through a lot.*
-- Why did the battery sit on its own? *It knew it was a bit dangerous to mix with.*
-- What did the microbe say to the plastic? *Sorry, I don't have the key.*
+- What do you call a broken crayon that gets melted down? *A crayon with a bright future.*
+- Why did the banana peel go to the compost pot? *It wanted to turn over a new leaf.*
 
 ## Connected maths
 - In the bag test, the newspaper bag held 2 kilograms. The cloth bag held 10 kilograms. How many times as much did the cloth bag hold? **5 times.**. The cloth bag held 10 kilograms. The newspaper bag held 2. 10 divided by 2 is 5. You can check: 2 + 2 + 2 + 2 + 2 = 10. So the cloth bag held 5 times as much. (queues `math.division.sharing-and-grouping.L3`)
@@ -894,12 +866,12 @@ There Is No Away (sci.waste.L3): Topic-level song
 
 ## Things to buy
 - [Clear glass jars with wide mouths (4)](https://www.amazon.in/s?k=clear+glass+jars+wide+mouth) (material): You can see the buried things through the glass in the rot jar test. Old jam or pickle jars work just as well, so check the kitchen first. Used in e1. 
-- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the mould threads and tiny animals in the rot jars. Used in e1. Used again in many Class 3 science units, such as Decomposers and Habitats.
+- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the mould threads and tiny animals in the rot jars. Used in e1. 
 - [Silicone ice tray or chocolate mould](https://www.amazon.in/s?k=silicone+mould+small+shapes) (tool): New crayons pop out of it easily in the melt and remake test. Foil cups pressed around a bottle cap work too. Used in e2. 
 - [Mosquito net cloth, a small piece](https://www.amazon.in/s?k=mosquito+net+fabric) (material): Stretched over an old photo frame, it makes the sieve for handmade paper. An old torn mosquito net is perfect. Used in p1. 
-- [A small sewing kit with needles, thread and buttons](https://www.amazon.in/s?k=small+sewing+kit) (tool): For Repair Day. Most homes already have one. Used in a7. Keep it in an easy place, and hold a repair day every month.
-- [One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia, by Miranda Paul, illustrated by Elizabeth Zunon](https://www.amazon.in/s?k=One+Plastic+Bag+Miranda+Paul) (book): A true picture-book story of a woman who started turning plastic bags into purses with the women of her village, in the Gambia. Used in a4. If bought, read it on the day of the T-shirt bag activity, before starting.
-- [The Adventures of a Plastic Bottle, by Alison Inches](https://www.amazon.in/s?k=Adventures+of+a+Plastic+Bottle+Alison+Inches) (book): A plastic bottle tells its own journey, from oil to factory to recycling. A good picture book for the Follow the Bottle activity. Used in a2. If bought, read it just before acting out Follow the Bottle.
+- [A small sewing kit with needles, thread and buttons](https://www.amazon.in/s?k=small+sewing+kit) (tool): For Repair Day. Most homes already have one. Used in a7. 
+- [One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia, by Miranda Paul, illustrated by Elizabeth Zunon](https://www.amazon.in/s?k=One+Plastic+Bag+Miranda+Paul) (book): A true picture-book story of a woman who started turning plastic bags into purses with the women of her village, in the Gambia. Used in a4. 
+- [The Adventures of a Plastic Bottle, by Alison Inches](https://www.amazon.in/s?k=Adventures+of+a+Plastic+Bottle+Alison+Inches) (book): A plastic bottle tells its own journey, from oil to factory to recycling. A good picture book for the Follow the Bottle activity. Used in a2. 
 
 ## Warm-up
 - Which R comes first: reduce, reuse or recycle? → Reduce. The best waste is the waste we never make.

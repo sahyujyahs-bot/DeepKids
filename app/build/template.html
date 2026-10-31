@@ -18109,100 +18109,46 @@ const SKILLCAT = {
   life: "Life skills",
   other: "Other",
 };
-// what an activity is likely to teach, when there is no AI: a pattern in what the parent wrote, the skill it builds,
-// and the starts of the science units it links to (AI, when on, reads any activity; these are the common ones)
-const LIFEMAP = [
-  [
-    /badminton|tennis|cricket|football|hockey|basketball|volleyball|table tennis|throwball|kabaddi/,
-    "sport",
-    ["forces.push", "forces.changing", "forces.friction", "materials.properties", "body.heart"],
-  ],
-  [/swim/, "sport", ["forces.push", "body.heart", "water.water-sources", "materials.properties"]],
-  [/kite|fl(y|ew)|plane|glider|parachute/, null, ["forces.flight", "forces.push", "gravity.falling"]],
-  [
-    /skat|cycl|bicycle|run|athletic|race/,
-    "sport",
-    ["forces.friction", "forces.changing", "body.heart", "gravity.falling"],
-  ],
-  [
-    /yoga|dance|bharatanatyam|kathak|karate|taekwondo|judo|gymnast|martial/,
-    "movement",
-    ["body.body-parts", "body.keeping", "body.heart", "senses"],
-  ],
-  [
-    /music|sing|guitar|piano|keyboard|violin|tabla|flute|drum|veena|sitar|mridang|carnatic|hindustani|bhajan/,
-    "music",
-    ["sound", "senses", "body.body-parts"],
-  ],
-  [
-    /draw|paint|art|craft|clay|pottery|origami|colou?r|sketch/,
-    "art",
-    ["light.colour", "materials.properties", "materials.using", "materials.what-is"],
-  ],
-  [
-    /cook|bake|kitchen|roti|chapati|dal|rice|cake|recipe|chai|tea|dosa|idli|lemon|juice|sherbet|salad/,
-    "life",
-    ["food.balanced", "food.where", "materials.what-is", "materials.testing", "health.hygiene"],
-  ],
-  [
-    /garden|plant|seed|sow|water(ed|ing) the|soil|compost|flower|sapling/,
-    "life",
-    ["plants", "seeds-and-life", "habitats", "waste"],
-  ],
-  [
-    /zoo|bird|animal|pet|dog|cat|cow|insect|butterfly|ant|spider|snake|aquarium|fish/,
-    null,
-    ["animals", "habitats", "ecology"],
-  ],
-  [/planetarium|star|moon|sky|space|rocket|sunset|sunrise|eclipse/, null, ["sky", "day-night", "light.what-is"]],
-  [/beach|river|lake|rain|sea|waterfall|puddle|well/, null, ["water", "habitats", "weather"]],
-  [
-    /doctor|hospital|teeth|dentist|fever|vaccine|cold|cough|wash(ed)? hands/,
-    null,
-    ["body.immune", "health.hygiene", "body.organs"],
-  ],
-  [/mirror|shadow|torch|rainbow|lens|glasses/, null, ["light"]],
-  [/magnet|fridge/, null, ["magnets", "materials.magnetic"]],
-  [/recycl|garbage|waste|plastic|kabadi/, null, ["waste", "materials.sorting"]],
-  [/chess|abacus|puzzle|rubik|coding|robot|lego/, "mind", ["making-things", "forces.simple"]],
-  [
-    /french|german|spanish|sanskrit|tamil|kannada|telugu|malayalam|marathi|bengali|urdu|language|spoken english|phonics/,
-    "language",
-    [],
-  ],
-];
 const lifeSt = () => (S.moments = S.moments || []);
 const lifeBy = (id) => lifeSt().find((m) => m.id === id);
-// the topics a moment can link to: every DeepKids science unit, and the chapters of the family's boards near the
-// child's level in their other subjects
+// the topics a moment can link to: every DeepKids science unit, and the maths, English, Hindi and social topic tags
+// (app/content/life/tags.json), each of which stands for its chapters in every board
 function lifePool() {
-  const P = Object.entries(DATA.units || {}).map(([id, x]) => ({ k: "unit|" + id, s: "sci", t: x.title }));
-  DATA.items
-    .filter(
-      (u) =>
-        boardsOn().includes(u.board) &&
-        S.subjects.includes(u.subj) &&
-        u.subj !== "sci" &&
-        Math.abs(u.level - (S.levels?.[u.subj] || 3)) <= 1,
-    )
-    .forEach((u) => P.push({ k: u.k, s: u.subj, t: chT(u) }));
-  return P;
+  return [
+    ...Object.entries(DATA.units || {}).map(([id, x]) => ({ k: "unit|" + id, s: "sci", t: x.title })),
+    ...(DATA.life?.tags || []).map((t) => ({ k: t.id, s: t.subj, t: t.name })),
+  ];
 }
+// what a link points to: a unit, or a tag and the chapter that teaches it on the family's board, nearest the child's level
+function lifeTarget(k) {
+  const tag = (DATA.life?.tags || []).find((t) => t.id === k);
+  if (!tag) return { u: unitBy(k), name: unitBy(k) && chT(unitBy(k)) };
+  const lv = S.levels?.[tag.subj] || 3,
+    u = tag.chapters
+      .map(unitBy)
+      .filter((x) => x && boardsOn().includes(x.board) && S.subjects.includes(x.subj))
+      .sort((a, b) => Math.abs(a.level - lv) - Math.abs(b.level - lv))[0];
+  return { u, tag, name: tag.name };
+}
+const lifeSubj = (k) => {
+  const x = lifeTarget(k);
+  return SUBJ[x.u?.subj || x.tag?.subj] || (x.tag?.subj === "social" ? "Social studies" : "");
+};
+// the library first (activities parents write about, each with its topics), then the parent's words against what
+// each unit and tag is about
 function lifeGuess(text) {
   const t = text.toLowerCase(),
-    hits = LIFEMAP.filter(([re]) => new RegExp("\\b(?:" + re.source + ")").test(t)),
-    ids = Object.keys(DATA.units || {}),
+    has = (w) => new RegExp("\\b" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b").test(t),
+    A = (DATA.life?.acts || [])
+      .map((a) => ({ a, n: a.words.filter(has).length + (has(a.name.toLowerCase()) ? 2 : 0) }))
+      .filter((x) => x.n)
+      .sort((x, y) => y.n - x.n)
+      .slice(0, 2)
+      .map((x) => x.a),
     links = [];
-  hits.forEach(([, , frags]) =>
-    frags.forEach((f) =>
-      ids
-        .filter((id) => id.startsWith("sci." + f))
-        .forEach((id) => links.some((l) => l.k === "unit|" + id) || links.push({ k: "unit|" + id, why: "" })),
-    ),
-  );
-  // anything else: the parent's words against what each unit and chapter is about (its title, topic, summary, parts)
+  A.forEach((a) => a.links.forEach((l) => links.some((x) => x.k === l.k) || links.push({ k: l.k, why: l.why || "" })));
   const W = [...shelfWords(text)].filter((w) => !SHELF_SKIP.has(w));
-  if (W.length && links.length < 6)
+  if (W.length && links.length < 3)
     lifePool()
       .map((p) => {
         const x = DATA.units?.[p.k.slice(5)],
@@ -18213,17 +18159,24 @@ function lifeGuess(text) {
       })
       .filter((p) => p.n && !links.some((l) => l.k === p.k))
       .sort((a, b) => b.n - a.n)
-      .slice(0, 6 - links.length)
+      .slice(0, 3 - links.length)
       .forEach((p) => links.push({ k: p.k, why: "" }));
-  return { cat: hits.find((h) => h[1])?.[1] || null, links: links.slice(0, 6) };
+  return {
+    skill: A.find((a) => a.skill)?.skill || null,
+    cat: A.find((a) => a.skillcat)?.skillcat || null,
+    links: links.slice(0, 6),
+    known: A.length > 0,
+  };
 }
 // links from AI when it's on (it can see how badminton teaches geometry or music teaches fractions), otherwise the map
 async function lifeLink(m) {
   const given = m.links || [],
     g = lifeGuess(m.title + " " + (m.text || ""));
   m.cat = m.cat || g.cat;
+  if (m.kind === "class" || m.kind === "did") m.skill = m.skill || g.skill;
   m.links = g.links;
-  await lifeAsk(m);
+  // AI only for what the library doesn't know
+  if (!g.known) await lifeAsk(m);
   // a link the caller already knew (a photo filed under a chapter) stays first
   m.links = [...given, ...m.links.filter((l) => !given.some((x) => x.k === l.k))].slice(0, 6);
 }
@@ -18235,7 +18188,7 @@ Kind: ${LIFEK[m.kind][1]}. Title: ${m.title}. Details: ${m.text || "(none)"}. Ti
 Think like a great teacher: which of the topics below does this really teach, or open a door to? Look past the obvious: badminton teaches forces, materials (the shuttle's feathers), angles and the body; music teaches sound, counting beats and history; cooking teaches measuring, heat, materials and where food comes from. Pick 2 to 6 topics, the strongest first, each with one plain sentence a parent can say to the child, linking what they did to the topic.
 If this is a skill the child is building (a sport, instrument, art, dance, language, a game like chess, cooking), name the skill in one or two words ("Badminton", "Carnatic singing") and pick its kind: sport, movement, music, art, language, mind, life or other. Otherwise the skill is null.
 Topics (key | subject | title):
-${P.map((p) => `${p.k} | ${SUBJ[p.s]} | ${p.t}`).join("\n")}
+${P.map((p) => `${p.k} | ${SUBJ[p.s] || p.s} | ${p.t}`).join("\n")}
 Reply with only JSON: {"skill":null,"cat":null,"links":[{"k":"<key from the list>","why":"<one sentence>"}]}`;
   try {
     const r = await SAMPLE.json(prompt, { modelTier: "quick", cache: false }),
@@ -18289,17 +18242,17 @@ function lifeSkills() {
   return Object.values(K).sort((a, b) => b.mins - a.mins);
 }
 function lifeLinkRow(m, l, i) {
-  const u = unitBy(l.k);
-  if (!u) return "";
+  const x = lifeTarget(l.k);
+  if (!x.name) return "";
   const q = m.queued.includes(l.k);
-  return `<div class="lifelink"><div><b>${esc(chT(u))}</b> <span class="xs muted">${esc(SUBJ[u.subj])}</span>${l.why ? `<p class="sm">${esc(l.why)}</p>` : ""}</div>${q ? `<span class="xs muted">In the queue</span>` : `<button class="link xs" data-act="lifex" data-id="${m.id}" data-i="${i}" aria-label="Remove ${esc(chT(u))}">Remove</button>`}</div>`;
+  return `<div class="lifelink"><div><b>${esc(x.name)}</b> <span class="xs muted">${esc(lifeSubj(l.k))}${x.tag && x.u ? " · " + esc(chT(x.u)) : ""}</span>${l.why ? `<p class="sm">${esc(l.why)}</p>` : ""}</div>${q ? `<span class="xs muted">In the queue</span>` : `<button class="link xs" data-act="lifex" data-id="${m.id}" data-i="${i}" aria-label="Remove ${esc(x.name)}">Remove</button>`}</div>`;
 }
 function momentView() {
   const m = lifeBy(ui.sheet.id);
   document.getElementById("sheetTitle").textContent = "What this taught";
   if (!m) return "";
   const sk = m.skill && lifeSkills().find((x) => x.name.toLowerCase() === m.skill.toLowerCase()),
-    left = m.links.filter((l) => !m.queued.includes(l.k) && unitBy(l.k));
+    left = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
   return `<section class="sec"><span class="eyebrow">${LIFEK[m.kind][0]} ${esc(LIFEK[m.kind][1])} · ${esc(fmt(m.date))}${m.mins ? " · " + hmin(m.mins) : ""}</span><h2>${esc(m.title)}</h2>${m.text ? `<p class="sm">${esc(m.text)}</p>` : ""}
    ${sk ? `<p class="sm lifeskill">Counts towards <b>${esc(sk.name)}</b> · ${sk.n} session${sk.n === 1 ? "" : "s"}, ${hmin(sk.mins)} so far</p>` : ""}</section>
    <section class="sec"><h3>Topics it links to</h3>${ui.sheet.busy ? `<p class="sm muted">Finding the learning in this…</p>` : ""}${m.links.length ? `<div class="card lifelinks">${m.links.map((l, i) => lifeLinkRow(m, l, i)).join("")}</div>` : ui.sheet.busy ? "" : `<p class="sm muted">No topic found for this one. It still counts in hours${m.skill ? " and in the skill" : ""}.</p>`}
@@ -18338,8 +18291,11 @@ function lifeSave() {
 function lifeQueue(id) {
   const m = lifeBy(id);
   if (!m) return;
-  const L = m.links.filter((l) => !m.queued.includes(l.k) && unitBy(l.k));
-  L.forEach((l) => qPut("les", unitBy(l.k).subj, "les:" + l.k, "end"));
+  const L = m.links.filter((l) => !m.queued.includes(l.k) && lifeTarget(l.k).u);
+  L.forEach((l) => {
+    const u = lifeTarget(l.k).u;
+    qPut("les", u.subj, "les:" + u.k, "end");
+  });
   m.queued = [...m.queued, ...L.map((l) => l.k)];
   sfx("ok");
   toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
@@ -18389,9 +18345,9 @@ function lifeTranscript() {
       ? `<h2>Learning outside lessons</h2><table><tr><th>Date</th><th>What</th><th>Time</th><th>Topics it links to</th></tr>${M.map(
           (m) =>
             `<tr><td>${esc(fmt(m.date))}</td><td>${esc(m.title)}</td><td>${m.mins ? hmin(m.mins) : ""}</td><td>${m.links
-              .map((l) => unitBy(l.k))
+              .map((l) => lifeTarget(l.k).name)
               .filter(Boolean)
-              .map((u) => esc(chT(u)))
+              .map(esc)
               .join("; ")}</td></tr>`,
         ).join("")}</table>`
       : "") +
