@@ -387,13 +387,55 @@
      "kind": "cards",
      "title": "24 thing cards to cut out",
      "items": [
-      "A kitchen sponge (air in its holes)",
-      "A slice of bread (air in its holes)",
-      "A football (compressed air inside)",
-      "A pot of dry soil (air between the grains)",
-      "A steel tumbler of rice (air between the grains)",
-      "An 'empty' water bottle (full of air)",
-      "Your lungs (air in tiny air bags)",
+      {
+       "f": "A kitchen sponge (air in its holes)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-00.jpg",
+        "credit": "Robert Fotograf, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "A slice of bread (air in its holes)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-01.jpg",
+        "credit": "Angel Ganev, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "A football (compressed air inside)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-02.jpg",
+        "credit": "Kevin Gong from Berkeley, United States, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "A pot of dry soil (air between the grains)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-03.jpg",
+        "credit": "M Tullottes, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "A steel tumbler of rice (air between the grains)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-04.jpg",
+        "credit": "USDAgov, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "An 'empty' water bottle (full of air)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-05.jpg",
+        "credit": "Jiafei Slay Queen, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Your lungs (air in tiny air bags)",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-06.jpg",
+        "credit": "Pearson Scott Foresman, Public domain, via Wikimedia Commons"
+       }
+      },
       "A lotus stem (air in its canals)",
       "A woollen sweater (air between the fibres)",
       "Bubble wrap (air in each bubble)",
