@@ -618,7 +618,13 @@
         "credit": "Amos777eligius, CC BY 4.0, via Wikimedia Commons"
        }
       },
-      "A street light at the end of the road",
+      {
+       "f": "A street light at the end of the road",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-02.jpg",
+        "credit": "Andrey Belenko from Moscow, Russia, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       {
        "f": "A lighthouse 20 kilometres out at sea",
        "img": {
