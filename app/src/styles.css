@@ -1221,7 +1221,7 @@ dialog.sheet::backdrop {
   gap: 6px;
   justify-content: center;
 }
-.wrow {
+.wgrid .wordrow {
   display: grid;
   grid-template-columns: repeat(5, 54px);
   gap: 6px;
@@ -1767,7 +1767,7 @@ dialog.mini::backdrop {
   font-weight: 700;
 }
 @media (max-width: 400px) {
-  .wrow {
+  .wgrid .wordrow {
     grid-template-columns: repeat(5, 47px);
   }
   .wt {

@@ -6299,7 +6299,7 @@ function wordGame(u) {
   const rows = [...Array(6)]
     .map((_, r) => {
       const w = g.g[r] || (r === g.g.length && !over ? g.cur || "" : "");
-      return `<div class="wrow">${[0, 1, 2, 3, 4]
+      return `<div class="wordrow">${[0, 1, 2, 3, 4]
         .map((i) => {
           const ch = w[i] || "";
           let c = ch ? "f" : "";
@@ -8252,7 +8252,7 @@ const storyHtml = (st) =>
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
   ["research", "Research Papers", "Real research papers, retold for children as flashcards"],
-  ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
+  ["science", "Curated Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
     "have",
     "Home shelf",
@@ -9856,8 +9856,19 @@ const wk1Lessons = () => [
     .map((i) => i.u),
   ...offers().map((o) => o.nx.u),
 ];
-// Day 1 starts the lesson from the card: today's first one, or, on a day with none planned, the next one
+// for now the guide's lesson and printable come from a finished, checked science unit (one in today's plan, else the
+// first one); when every subject is written this goes back to today's first lesson (OPEN_ITEMS)
+const wk1Unit = () =>
+  wk1Lessons().find((u) => u.board === "unit") ||
+  unitBy("unit|" + Object.values(DATA.units || {}).sort((a, b) => a.order - b.order)[0]?.id);
+// Day 1 starts a lesson from the card: a finished science unit, or today's first lesson, or the next one
 function wk1Lesson(d0) {
+  const U = wk1Unit();
+  if (U)
+    return [
+      `Start with a finished science unit together: “${chT(U)}”. It opens right here.`,
+      `<button class="btn sm" data-act="wk1unit">${icon("play")}Start the unit</button>`,
+    ];
   const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),
     o = !L && offers()[0];
   if (L)
@@ -11295,7 +11306,7 @@ function shopView() {
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
-  // Your days: tell DeepKids the week, its questions, your classes and to-dos
+  // Add plans: tell DeepKids the week, its questions, your classes and to-dos
   if (k === "days")
     return (
       head +
@@ -15101,7 +15112,7 @@ const GUIDE = {
     [
       ".segmain",
       "Plan has seven tabs",
-      "Your days, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
+      "Add plans, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
     [
       ".card.dump",
@@ -17289,10 +17300,13 @@ function onAct(e) {
       }
       break;
     }
+    case "wk1unit":
+      fxOpen(wk1Unit().c.unit);
+      break;
     case "wk1ws": {
       // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
       // lesson at its own worksheet, a board chapter at its topic's worksheets
-      const u = wk1Lessons().find((x) => x.board === "unit" || x.c?.p?.worksheets?.length || wsOf(x).length);
+      const u = wk1Unit() || wk1Lessons().find((x) => x.c?.p?.worksheets?.length || wsOf(x).length);
       if (u?.board === "unit")
         fxOpen(u.c.unit).then(() => {
           const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));

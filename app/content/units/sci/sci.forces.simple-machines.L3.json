@@ -882,7 +882,13 @@
       },
       "Hand pump",
       "Nutcracker",
-      "Wheelbarrow",
+      {
+       "f": "Wheelbarrow",
+       "img": {
+        "src": "media/cards/simple-machines-g2-0-04.jpg",
+        "credit": "Oto Zapletal, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "Bottle opener",
       "Sarota, the supari cutter",
       "Chimta tongs",

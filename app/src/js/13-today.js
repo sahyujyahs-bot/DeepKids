@@ -424,8 +424,19 @@ const wk1Lessons = () => [
     .map((i) => i.u),
   ...offers().map((o) => o.nx.u),
 ];
-// Day 1 starts the lesson from the card: today's first one, or, on a day with none planned, the next one
+// for now the guide's lesson and printable come from a finished, checked science unit (one in today's plan, else the
+// first one); when every subject is written this goes back to today's first lesson (OPEN_ITEMS)
+const wk1Unit = () =>
+  wk1Lessons().find((u) => u.board === "unit") ||
+  unitBy("unit|" + Object.values(DATA.units || {}).sort((a, b) => a.order - b.order)[0]?.id);
+// Day 1 starts a lesson from the card: a finished science unit, or today's first lesson, or the next one
 function wk1Lesson(d0) {
+  const U = wk1Unit();
+  if (U)
+    return [
+      `Start with a finished science unit together: “${chT(U)}”. It opens right here.`,
+      `<button class="btn sm" data-act="wk1unit">${icon("play")}Start the unit</button>`,
+    ];
   const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),
     o = !L && offers()[0];
   if (L)

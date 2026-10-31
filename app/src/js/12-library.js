@@ -129,7 +129,7 @@ const storyHtml = (st) =>
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
   ["research", "Research Papers", "Real research papers, retold for children as flashcards"],
-  ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
+  ["science", "Curated Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
     "have",
     "Home shelf",

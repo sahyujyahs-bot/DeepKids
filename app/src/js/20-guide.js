@@ -22,7 +22,7 @@ const GUIDE = {
     [
       ".segmain",
       "Plan has seven tabs",
-      "Your days, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
+      "Add plans, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
     [
       ".card.dump",

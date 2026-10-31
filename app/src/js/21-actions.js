@@ -1603,10 +1603,13 @@ function onAct(e) {
       }
       break;
     }
+    case "wk1unit":
+      fxOpen(wk1Unit().c.unit);
+      break;
     case "wk1ws": {
       // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
       // lesson at its own worksheet, a board chapter at its topic's worksheets
-      const u = wk1Lessons().find((x) => x.board === "unit" || x.c?.p?.worksheets?.length || wsOf(x).length);
+      const u = wk1Unit() || wk1Lessons().find((x) => x.c?.p?.worksheets?.length || wsOf(x).length);
       if (u?.board === "unit")
         fxOpen(u.c.unit).then(() => {
           const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));

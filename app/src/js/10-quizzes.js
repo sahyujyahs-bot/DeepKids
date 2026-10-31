@@ -623,7 +623,7 @@ function wordGame(u) {
   const rows = [...Array(6)]
     .map((_, r) => {
       const w = g.g[r] || (r === g.g.length && !over ? g.cur || "" : "");
-      return `<div class="wrow">${[0, 1, 2, 3, 4]
+      return `<div class="wordrow">${[0, 1, 2, 3, 4]
         .map((i) => {
           const ch = w[i] || "";
           let c = ch ? "f" : "";
