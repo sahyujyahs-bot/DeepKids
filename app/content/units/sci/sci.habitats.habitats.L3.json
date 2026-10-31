@@ -700,7 +700,13 @@
         "credit": "R K, CC BY, via iNaturalist"
        }
       },
-      "Tube worm at a deep sea vent",
+      {
+       "f": "Tube worm at a deep sea vent",
+       "img": {
+        "src": "media/cards/habitats-g1-0-18.jpg",
+        "credit": "null, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "Bacteria in your tummy",
       "TWIST: a mudskipper, a fish that walks on mud. Where do they go?",
       "TWIST: a crow. Which of the six mats could they not live on, and why?",

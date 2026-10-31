@@ -188,7 +188,7 @@ function localDump(text) {
 }
 const needAICard = (D_) =>
   D_.needAI && !SAMPLE
-    ? `<div class="needai"><span class="lk">🔒</span><div><b>${D_.items?.length ? "Some of this needs DeepKids Plus to read properly." : "This needs DeepKids Plus to read."}</b><p class="xs muted">${D_.items?.length ? "We picked out what we could above. " : ""}Your message is kept. After upgrading, DeepKids reads it right away.</p></div><button class="btn sm accent" data-act="plus" data-r="chat">Upgrade</button></div>`
+    ? `<div class="needai"><span class="lk">🔒</span><div><b>${D_.items?.length ? "We read most of it. One part we couldn't:" : "We couldn't read this one:"}</b><p class="sm">“${esc(S.pendAI?.text || "")}”</p><p class="xs muted">Try it as a class, trip, rest time or to-do with a day or time ("Swimming Tue 5 pm"), or use Add by hand. DeepKids Plus reads anything, and keeps this message to read after upgrading.</p></div><button class="btn sm soft" data-act="plus" data-r="chat">DeepKids Plus</button></div>`
     : "";
 function dumpChat(D_) {
   const Q = D_.questions || [],

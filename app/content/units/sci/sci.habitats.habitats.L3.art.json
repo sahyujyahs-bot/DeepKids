@@ -1,4 +1,40 @@
 {
+ "expl.2": {
+  "src": "media/img/sci.habitats.habitats.L3/expl.2.jpg",
+  "credit": "Tom Field, CC BY, via iNaturalist"
+ },
+ "expl.3": {
+  "src": "media/img/sci.habitats.habitats.L3/expl.3.jpg",
+  "credit": "Aditya Rao, CC BY, via iNaturalist"
+ },
+ "expl.4": {
+  "src": "media/img/sci.habitats.habitats.L3/expl.4.jpg",
+  "credit": "Subash Jeyan, CC0, via iNaturalist"
+ },
+ "expl.5": {
+  "src": "media/img/sci.habitats.habitats.L3/expl.5.jpg",
+  "credit": "habitat_institute_ecotourism_centre, CC BY, via iNaturalist"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.habitats.habitats.L3/flow.a1.jpg",
+  "credit": "Joshua S. Martin, CC0, via iNaturalist"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.habitats.habitats.L3/flow.a2.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.habitats.habitats.L3/flow.c2.jpg",
+  "credit": "Ravuri Krishna Chaitanya, CC BY, via iNaturalist"
+ },
+ "flow.e3": {
+  "src": "media/img/sci.habitats.habitats.L3/flow.e3.jpg",
+  "credit": "Tejas M, CC BY, via iNaturalist"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.habitats.habitats.L3/flow.p1.jpg",
+  "credit": "sunnyjosef, CC BY, via iNaturalist"
+ },
  "setup.e2.0": {
   "src": "media/img/sci.habitats.habitats.L3/setup.e2.0.jpg",
   "drawn": true
@@ -39,5 +75,33 @@
   "src": "media/img/sci.habitats.habitats.L3/setup.e4.3.jpg",
   "drawn": true
  },
- "summary": "media/img/sci.habitats.habitats.L3/summary.jpg"
+ "summary": "media/img/sci.habitats.habitats.L3/summary.jpg",
+ "term.10": {
+  "src": "media/img/sci.habitats.habitats.L3/term.10.jpg",
+  "credit": "Rohit Naniwadekar, CC BY, via iNaturalist"
+ },
+ "term.12": {
+  "src": "media/img/sci.habitats.habitats.L3/term.12.jpg",
+  "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+ },
+ "term.2": {
+  "src": "media/img/sci.habitats.habitats.L3/term.2.jpg",
+  "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.habitats.habitats.L3/term.3.jpg",
+  "credit": "sam-rajnikant, CC BY, via iNaturalist"
+ },
+ "term.4": {
+  "src": "media/img/sci.habitats.habitats.L3/term.4.jpg",
+  "credit": "Subhadra Devi, CC BY, via iNaturalist"
+ },
+ "term.5": {
+  "src": "media/img/sci.habitats.habitats.L3/term.5.jpg",
+  "credit": "SUBHASHGHULE, CC0, via iNaturalist"
+ },
+ "term.6": {
+  "src": "media/img/sci.habitats.habitats.L3/term.6.jpg",
+  "credit": "🪶🐾☘️Nandan Sreejith🦌🍄🌍, CC BY, via iNaturalist"
+ }
 }

@@ -11345,7 +11345,7 @@ function dumpCard() {
    <div class="composer tall ${D_.busy ? "busy" : ""}">${IMGOK && SAMPLE ? `<label class="cbtn" aria-label="Add a photo or screenshot">📷<input type="file" id="dumpImg" accept="image/*" multiple hidden></label>` : lockBtn("photo", "cbtn", "📷")}<textarea class="inp" id="dumpText" rows="3" placeholder="${D_.items || D_.chat?.length ? "Add more…" : "Type or speak a plan…"}">${esc(D_.items ? "" : D_.text || "")}</textarea><button class="send" data-act="dump" aria-label="Sort it into my plan" ${D_.busy ? "disabled" : ""}>${D_.busy ? `<span class="dots"><i></i><i></i><i></i></span>` : icon("next")}</button></div>
    ${D_.busy ? `<p class="xs muted">Reading it and putting it on your plan…</p>` : ""}
    ${empty ? `<div class="dex">${DEX.map(([l, t]) => `<button class="chip" data-act="dex" data-t="${esc(t)}">${esc(l)}</button>`).join("")}</div>` : ""}
-   ${SAMPLE ? "" : `<p class="xs muted">Read on this phone: classes, times, days, dates, rest and to-dos. Photos 📷 and longer messages are part of DeepKids Plus.</p>`}
+   ${SAMPLE ? "" : `<p class="xs muted">Read on this phone, however long: classes, trips, times, days, dates, rest, to-dos and things you own. Reading a photo 📷 is part of DeepKids Plus.</p>`}
    <div class="row dfoot"><button class="link sm" data-act="told">Your classes, routines and to-dos · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand ? "Hide add by hand" : "Add by hand"}</button></div>
    ${ui.dhand ? `<div class="handbox">${quickAdd(ui.pday || today)}</div>` : ""}</section>`;
 }
@@ -14462,7 +14462,7 @@ function localDump(text) {
 }
 const needAICard = (D_) =>
   D_.needAI && !SAMPLE
-    ? `<div class="needai"><span class="lk">🔒</span><div><b>${D_.items?.length ? "Some of this needs DeepKids Plus to read properly." : "This needs DeepKids Plus to read."}</b><p class="xs muted">${D_.items?.length ? "We picked out what we could above. " : ""}Your message is kept. After upgrading, DeepKids reads it right away.</p></div><button class="btn sm accent" data-act="plus" data-r="chat">Upgrade</button></div>`
+    ? `<div class="needai"><span class="lk">🔒</span><div><b>${D_.items?.length ? "We read most of it. One part we couldn't:" : "We couldn't read this one:"}</b><p class="sm">“${esc(S.pendAI?.text || "")}”</p><p class="xs muted">Try it as a class, trip, rest time or to-do with a day or time ("Swimming Tue 5 pm"), or use Add by hand. DeepKids Plus reads anything, and keeps this message to read after upgrading.</p></div><button class="btn sm soft" data-act="plus" data-r="chat">DeepKids Plus</button></div>`
     : "";
 function dumpChat(D_) {
   const Q = D_.questions || [],
