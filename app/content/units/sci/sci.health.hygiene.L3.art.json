@@ -1,4 +1,12 @@
 {
+ "flow.a2": {
+  "src": "media/img/sci.health.hygiene.L3/flow.a2.jpg",
+  "credit": "Jacy Chen, CC BY, via iNaturalist"
+ },
+ "flow.e4": {
+  "src": "media/img/sci.health.hygiene.L3/flow.e4.jpg",
+  "credit": "Rodolfo Salinas Villarreal, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.health.hygiene.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +42,13 @@
  "setup.e4.2": {
   "src": "media/img/sci.health.hygiene.L3/setup.e4.2.jpg",
   "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.health.hygiene.L3/term.1.jpg",
+  "credit": "Sinaloa Silvestre, CC0, via iNaturalist"
+ },
+ "term.14": {
+  "src": "media/img/sci.health.hygiene.L3/term.14.jpg",
+  "credit": "lansan, CC BY, via iNaturalist"
  }
 }
