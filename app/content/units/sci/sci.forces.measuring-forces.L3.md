@@ -3,7 +3,7 @@
 
 **Summary.** How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can get different numbers and both be right, because you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn to measure force in newtons with a forcemeter, a spring tool. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.
 
-**Intro.** *Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of rice in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?* Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be your grandmother's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.
+**Intro.** *Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of rice in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?* Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be another person's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.
 
 ## Learning outcomes
 0. I can invent my own unit of pull, such as 'one coin', and use it to compare pulls.
@@ -205,8 +205,6 @@ Before anyone measured it, the notebook's pull was just a pull, with no number. 
 - Other view, Protagoras, a Greek thinker of about 2,400 years ago, as Plato reports in the Theaetetus: Protagoras said that each person is the measure of all things. What feels heavy to you is heavy for you. On this view, the feeling in your own hand is the truest measure. A shared unit leaves out how differently each of us feels the same load.
 - Practice, How many coins can your hand count? (3 min): Close your eyes and hold out one open hand, palm up. I will put coins on it, one at a time, very gently. Say 'now' each time you feel your hand get heavier. Breathe slowly while you wait. Open your eyes. Did you feel every coin, or did some go unnoticed? Your hand felt the weight, but could it count it? What would it need?
 - Ask: If everyone forgot the newton tomorrow, would the notebook still need the same pull? Then what would we have lost?
-- Ask: Before 2019, the kilogram was one metal cylinder. If a speck of dust landed on it, did the cylinder get heavier? Or did everything else get a little lighter?
-- Ask: Is a number something you find in the world, or something you bring to it?
 - Ask: Your hand could feel the coins but not count them. Is a pull you feel the same thing as a pull you count?
 
 ## Deep and big questions
@@ -282,7 +280,7 @@ Mohan Lal did not look at anybody. He turned a small screw at the top of his bal
 
 That season, every porter put a few rupees into a tin. At the end of the summer, they bought their own spring balance from the town. They hung it on a nail on the walnut tree. And every morning after that, before the first basket went on the hook, somebody would call out across the cold air: 'Pushpa! Check the zero!' And Pushpa would look, and nod, and the weighing would begin.
 
-**For the parent:** A spring balance is a forcemeter. It turns a pull into a number by stretching a spring. But the number is only fair if the balance agrees with something everyone already trusts. Pushpa does what scientists call calibrating. She tests the balance with ten packets whose weight everybody has agreed on. Then a second, different balance agrees with them. Her mother's tired back could not prove anything, because a feeling belongs to one person. Ten sealed packets belonged to everyone. That is the whole idea of a unit: a number means something only because people share what it counts. The story also quietly asks who is believed, and who carries the load.
+**For the parent:** A spring balance is a forcemeter. It turns a pull into a number by stretching a spring. But the number is only fair if the balance agrees with something everyone already trusts. Pushpa does what scientists call calibrating. She tests the balance with ten packets whose weight everybody has agreed on. Then a second, different balance agrees with them. Her mother's tired back could not prove anything, because a feeling belongs to one person. Ten sealed packets belonged to everyone. That is the whole idea of a unit: a number means something only because people share what it counts.
 
 - Ask: Basanti said her basket felt like twenty-five kilos. Why couldn't her feeling prove that the balance was wrong?
 - Ask: What was wrong with Mohan Lal's balance before anything was hung on it?
@@ -293,9 +291,9 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 
 ## Games
 ### g1 · Guess the Newtons (25 min)
-- **rules:** Cut out the 20 thing cards. Shuffle them and put them face down.; Hang a bag with handles from the forcemeter. Check that the pointer is on zero with the empty bag. If it isn't, write down the empty reading and take it away each time.; On your turn, turn over a card. Find that thing at home.; Every player holds the thing in their hand and writes a guess in newtons. Use the newton helper strip to help.; Put the thing in the bag and read the forcemeter. Write the real number.; The closest guess wins 2 points. A guess within 1 newton wins 1 extra point.; After 10 cards, add up the points. The player with the most points wins.
+- **rules:** Cut out the 20 thing cards. Shuffle them and put them face down.; Hang a bag with handles from the forcemeter. Check that the pointer is on zero with the empty bag. If it isn't, write down the empty reading and take it away each time.; On your turn, turn over a card. Find that thing at home.; Every player holds the thing in their hand and writes a guess in newtons. Use the newton helper strip to help.; Put the thing in the bag and read the forcemeter. Write the real number.; The closest guess wins 2 points. A guess within 1 newton wins 1 extra point. If two guesses are equally close, both players score.; MYSTERY BAG card: one player fills a bag in secret with things from home. That player does not guess. Everyone else lifts the bag, guesses, and then checks it on the forcemeter. With two players, the grown-up fills the bag and only the child guesses; the child scores 2 points for a guess within 3 newtons.; YOUR CHOICE card: the player whose turn it is picks anything at home that fits in the bag. Everyone guesses.; After 10 cards, add up the points. The player with the most points wins.
 - **Printable cards: 20 thing cards to cut out:** A pencil; A steel spoon; A small apple; A banana; A full steel tumbler of water; A 1 litre water bottle; An empty school bag; A full school bag; One shoe; A big book; A 500 gram packet of dal; A coconut; A ball of wool; A tiffin box with lunch in it; A pair of chappals; A cricket ball; A bunch of keys; A potato; A MYSTERY BAG: a grown-up secretly fills a bag. Guess first!; YOUR CHOICE: pick anything that fits in a bag
-- **Printable score sheet: Guess and check sheet:** Thing; Player 1 guess (N); Player 2 guess (N); Forcemeter shows (N); Who was closest?
+- **Printable score sheet: Guess and check sheet:** Thing; Everyone's guesses (N); Forcemeter shows (N); Who was closest?
 - **Printable board: The newton helper strip:** 1 N: a small apple; 5 N: half a litre of water; 10 N: a 1 litre water bottle; 30 N: about a full school bag
 - **s1 (3 min)**  
   *Parent does:* 1. Put out the forcemeter, a cloth bag with handles and the score sheet. 2. Shuffle the thing cards face down. 3. Hold up a small apple and say it pulls with about 1 newton.  
@@ -313,7 +311,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent says:* Hold it in your hand. Compare it with the apple. Is it like two apples? Ten apples? Now write your guess.  
   *Child mode:* Turn over a card. Find the thing. Hold it and guess its newtons. Then hang it on the forcemeter. Was your guess close?
   - Ask: How did you make your guess? (good: I compared it with the apple.; It felt like five apples, so I guessed 5 newtons.; It is bigger than the water bottle, so more than 10 newtons.)
-  - Note: Guesses usually get better as the game goes on. That is the point. Praise the method, for example 'you compared it with the bottle', not just the closest number.
+  - Note: Things lighter than about 1 newton, like a pencil or a spoon, barely move a 0 to 50 newton forcemeter. For those cards, use the 0 to 10 newton forcemeter, or hang several together. Guesses usually get better as the game goes on. That is the point. Praise the method, for example 'you compared it with the bottle', not just the closest number.
 - **s4 (4 min)**  
   *Parent does:* When the mystery bag comes up, a grown-up fills a bag secretly. Players guess without looking inside, then hang it on the forcemeter.  
   *Parent says:* This one is a mystery bag. You can feel it, but you can't look inside. What do you think it pulls with?  
@@ -326,13 +324,13 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Count the points. Who won? Which thing surprised you most?
   - Think: Why do we need a forcemeter if our guesses got quite good?
 ### g2 · Climb the Force Ladder (20 min)
-- **rules:** Cut out the force cards. The number is on the back, so keep it hidden.; Lay the ladder on the floor, TINY at the bottom and HUGE at the top.; On your turn, take a card and read only the front out loud.; Guess which rung it belongs on. Put it there. Then turn the card over and check.; A right guess wins 1 point. If it is on the wrong rung, move it to the right one.; When all the cards are placed, put the cards on each rung in order, smallest to biggest.
-- **Printable cards: 24 force cards to cut out (the number is on the back):** One molecule walking inside your cell (back: About 6 millionths of a millionth of a newton); The gravity pull between the lead balls in Cavendish's experiment (back: About the weight of a fine grain of sand); A mosquito landing on your arm (back: Far less than 1 newton); A sheet of paper resting on your hand (back: About one twentieth of a newton); A one-rupee coin resting on your hand (back: About three hundredths of a newton); Tapping a phone screen (back: About 1 newton); A small apple on your hand (back: About 1 newton); A cricket ball on your hand (back: About 1.6 newtons); Opening a kitchen drawer (back: About 5 newtons); A 1 litre water bottle on your hand (back: About 10 newtons); Opening a fridge door (back: About 20 newtons); A full school bag on your back (back: About 30 newtons); A pet cat sitting on your lap (back: About 40 newtons); A Class 3 child standing on the floor (back: About 250 newtons); A grown-up standing on the floor (back: About 600 newtons); A grown-up's hardest bite with the back teeth (back: Several hundred newtons); A scooter standing on its wheels (back: About 1,000 newtons); A small car resting on the road (back: About 10,000 newtons); A big saltwater crocodile's bite (back: About 16,000 newtons); An Asian elephant standing (back: About 40,000 newtons); A blue whale's weight (back: About 1,500,000 newtons); The Saturn V rocket lifting off (back: About 34,000,000 newtons); The Earth and the Moon pulling on each other (back: About 200 million million million newtons); MYSTERY (back: Hang something from home on a forcemeter and write its newtons here)
+- **rules:** Cut out the force cards. The number is on the back, so keep it hidden.; Lay the ladder on the floor, TINY at the bottom and HUGE at the top.; On your turn, take a card and read only the front out loud.; Guess which rung it belongs on. Put it there. Then turn the card over and check.; A right guess wins 1 point. If it is on the wrong rung, move it to the right one.; MYSTERY card: guess its rung first. Then hang something from home on a forcemeter, write the thing and its newtons on the back, and check your guess. Score 1 point for a right guess.; When all the cards are placed, put the cards on each rung in order, smallest to biggest. The player with the most points wins. If you are playing alone, try to beat your own best score.
+- **Printable cards: 24 force cards to cut out (the number is on the back):** One molecule walking inside your cell (back: About 6 millionths of a millionth of a newton); The gravity pull between the lead balls in Henry Cavendish's experiment of 1798 (back: About the weight of a fine grain of sand); A mosquito landing on your arm (back: Far less than 1 newton); A sheet of paper resting on your hand (back: About one twentieth of a newton); A one-rupee coin resting on your hand (back: About three hundredths of a newton); Tapping a phone screen (back: About 1 newton); A small apple on your hand (back: About 1 newton); A cricket ball on your hand (back: About 1.6 newtons); Opening a kitchen drawer (back: About 5 newtons); A 1 litre water bottle on your hand (back: About 10 newtons); Opening a fridge door (back: About 20 newtons); A full school bag on your back (back: About 30 newtons); A pet cat sitting on your lap (back: About 40 newtons); A Class 3 child standing on the floor (back: About 250 newtons); A grown-up standing on the floor (back: About 600 newtons); A grown-up's hardest bite with the back teeth (back: Several hundred newtons); A scooter standing on its wheels (back: About 1,000 newtons); A small car resting on the road (back: About 10,000 newtons); A big saltwater crocodile's bite (back: About 16,000 newtons); An Asian elephant standing (back: About 40,000 newtons); A blue whale's weight (back: About 1,500,000 newtons); The Saturn V rocket lifting off (back: About 34,000,000 newtons); The Earth and the Moon pulling on each other (back: About 200 million million million newtons); MYSTERY: pick something from home and weigh it (back: Write the thing and its newtons here)
 - **Printable board: The force ladder (four rungs):** TINY: less than 1 newton; SMALL: 1 newton or more, but less than 10; MEDIUM: 10 newtons or more, but less than 1,000; HUGE: 1,000 newtons or more
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the four rungs of the ladder on the floor in a column. 2. Fold the numbers under on every card. 3. Shuffle the cards.  
+  *Parent does:* 1. Lay the four rungs of the ladder on the floor in a column. 2. Cut out the cards and keep the number sides face down. 3. Shuffle the cards.  
   *Parent says:* This ladder goes from tiny forces at the bottom to huge forces at the top. Let's see where every force belongs.  
-  *Child mode:* Lay the ladder on the floor. Tiny at the bottom. Huge at the top. Fold the numbers under on every card.
+  *Child mode:* Lay the ladder on the floor. Tiny at the bottom. Huge at the top. Keep the number sides face down.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together: 'A 1 litre water bottle on your hand'.  
   *Parent says:* Here's a practice card. A 1 litre water bottle on your hand. Which rung?  
@@ -340,7 +338,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Note: 10 newtons sits right at the start of the Medium rung. Point out that the Small rung stops just before 10.
   - Check: A 1 litre water bottle pulls down with about 10 newtons. Which rung of the force ladder is that? → **Medium: 10 newtons or more, but less than 1,000**
 - **s3 (9 min)**  
-  *Parent does:* Take turns. Each player reads a card, places it, then unfolds the number to check.  
+  *Parent does:* Take turns. Each player reads a card, places it, then turns it over to check the number.  
   *Parent says:* Read the card. Close your eyes and imagine it. Is it tiny, small, medium or huge?  
   *Child mode:* Read your card. Imagine that force. Put it on a rung. Then check the number.
   - Ask: The molecule and the rocket are both on the ladder. How can the same unit, the newton, work for both? (good: You just use very small or very big numbers.; A newton is like a centimetre. You can count tiny parts of it or millions of it.)
@@ -356,7 +354,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **question:** How many coins does it take to start a notebook sliding? How does the number change for two or three notebooks? And will someone using different coins get the same number?
 - **predict:** Before you start, make three guesses, and give a reason for each one. How many coins will one notebook need, and why? Will two stacked notebooks need the same number, a few more, or twice as many? Why do you think so? Will a grown-up using a different kind of coin get the same number as you? Why or why not?
 - **fair test:** Change only one thing at a time. Use the same table, string and cup every time. In your own tests, use coins of only one kind. Put the notebook in the same place, the same way round. Drop each coin in gently, so a bump doesn't start the slide. Do every test 3 times and use the middle number, because one try can be a fluke.
-- **safety:** A grown-up pokes the holes in the cup. Put a cushion under the cup, so the coins land softly when the notebook slides. Keep coins away from babies and toddlers, who might swallow them. Wash hands after handling coins.
+- **safety:** A grown-up pokes the holes in the cup. Put a cushion under the cup, so the coins land softly when the notebook slides. Keep coins away from babies and toddlers, who might swallow them.
 - **record:** Fill in the table. Then draw a bar for each test: one notebook, two notebooks and three notebooks. Under the chart, write the grown-up's number for one notebook, and the kind of coin they used.
 - **results table:** What the cup pulled | My guess (coins) and why | Try 1 (coins) | Try 2 (coins) | Try 3 (coins) | Middle number (coins)
 - **s1 (4 min)**  
@@ -397,18 +395,18 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Check: In the coin-pull test, you needed 6 big coins to slide the notebook. A grown-up needed 12 small coins for the same notebook. What does this show? → **It was the same pull, counted in different units**
 - **s7 (3 min)**  
   *Parent does:* Ask what would happen if every family used its own coins, buttons or stones. Let your child answer before you say anything.  
-  *Parent says:* Your cousin in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours? What would we both need, to compare?  
-  *Child mode:* Your cousin uses buttons and says 'eleven'. Is her pull bigger than yours? What would you both need?
-  - Ask: What would you and your cousin need, to compare your pulls? (good: The same unit.; We both use the same kind of thing.; A unit that everyone agrees on.)
+  *Parent says:* A child in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours? What would we both need, to compare?  
+  *Child mode:* A child in another city uses buttons and says 'eleven'. Is her pull bigger than yours? What would you both need?
+  - Ask: What would you and that child need, to compare your pulls? (good: The same unit.; We both use the same kind of thing.; A unit that everyone agrees on.)
   - Note: This is the reason the whole world agreed on one unit of force, the newton. Let your child say it first, in their own words. The explanation cards come after this.
 - **s8 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, which numbers show it. Third, why I think it happened. Then read their guesses from step 3 together.  
   *Parent says:* Tell me three things. What do you think now, about stacking notebooks or about units? Which numbers show it? And why do you think it happened? Now let's read your first guesses. Would you change them?  
   *Child mode:* Say or write three things. What I think now. Which numbers show it. Why it happened. Then read your first guesses again.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and Amma needed 12 for the same notebook. Why: her coins were lighter.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and a grown-up needed 12 for the same notebook. Why: her coins were lighter.
 ### e1 · The Pull Detective: which pull at home is biggest? (30 min)
 - **question:** Which pull at home needs the biggest force: a door, a drawer, a bag or a chair?
-- **predict:** Before you use the forcemeter, put the six pulls in order, biggest first. Say why you put the first one first and the last one last.
+- **predict:** Before you use the forcemeter, put the six pulls (the fridge door, a drawer, a chair, a school bag, a cupboard door and a slipper) in order, biggest first. Say why you put the first one first and the last one last.
 - **fair test:** Pull every thing the same way: slowly and steadily, straight along the forcemeter. Read the biggest number just as the thing starts to move. Test each pull 2 times, because one try can be a fluke.
 - **safety:** Pull gently and slowly. Never pull a tall cupboard or bookshelf that could tip over. Don't pull past the biggest number on the forcemeter, or the spring may be spoiled.
 - **record:** Fill in the table. Then draw a bar chart, with one bar for each pull. Make each bar as tall as its biggest reading.
@@ -436,19 +434,19 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* Compare the forcemeter's order with the guessed order in the table.  
   *Parent says:* Were your guesses right? Which pull surprised you most?  
   *Child mode:* Look at your guesses. Look at your bars. Which one surprised you?
-  - Note: The fridge door often surprises children. Ask why before you explain. A magnetic strip in the rubber seal pulls the door shut.
-  - Think: Why do you think the fridge door needs a bigger pull than its size suggests?
+  - Note: Ask your child to explain any surprise before you explain it. If the fridge door needed a big pull, one reason is the magnetic strip in its rubber seal, which pulls the door shut.
+  - Think: Which pull surprised you most? Why do you think it needed so much, or so little?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* So, which pull was biggest? Which numbers show it? Why do you think that one needed so much?  
   *Child mode:* Say or write three things. Which pull was biggest. Which numbers show it. Why you think so.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the fridge door needs a big pull. What I saw: it needed 18 newtons, but the drawer only needed 5. Why: there is a magnet in the fridge door pulling it shut.
+  - Note: A good answer sounds like this. What I think: the fridge door needs a big pull. What I saw: it needed 18 newtons, but the drawer only needed 5. Why: there is a magnet in the fridge door pulling it shut.
 ### e2 · What Does a Bathroom Scale Really Measure? (20 min)
 - **question:** Does a bathroom scale show how much of you there is, or how hard you push on it?
 - **predict:** Before you start, guess. You stand on the scale and press down on a table beside you. Will the number go up, go down or stay the same? Why do you think so?
 - **fair test:** Stand in the same place on the scale each time, with both feet. Change only one thing at a time: pressing down on the table, pulling up on it, or bending your knees. Read the number each time when it settles, except for the knee test.
 - **safety:** A grown-up stands beside the child the whole time. Use a strong table that cannot tip. Don't jump on the scale.
-- **record:** Fill in the table. For each kilogram, write about 10 newtons beside it. Draw an arrow for your push on the scale in each picture.
+- **record:** Fill in the table. For each kilogram, write about 10 newtons beside it. For each test, draw yourself on the scale with an arrow for your push on it.
 - **results table:** What I did | My guess (up, down or same) | Number on the scale (kg) | Push in newtons (kg times 10)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put the scale on a hard floor next to a strong table. 2. Your child stands still on it with both feet. 3. Read and write the number when it settles.  
@@ -477,12 +475,12 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think the scale shows? Which numbers show it? And why did the number change when you pressed the table?  
   *Child mode:* Say or write three things. What the scale really shows. Which numbers show it. Why it changed.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the scale shows my push. What I saw: it showed 25 standing still, 18 pressing the table and 29 pulling up. Why: the table took some of my push, or added to it. There was always the same amount of me.
+  - Note: A good answer sounds like this. What I think: the scale shows my push. What I saw: it showed 25 standing still, 18 pressing the table and 29 pulling up. Why: the table took some of my push, or added to it. There was always the same amount of me.
 ### e3 · Can Your Hands Be Fooled? The Big Box and the Small Box (25 min)
 - **question:** If two boxes pull a forcemeter with exactly the same force, will they feel the same when we lift them?
 - **predict:** Before you start, guess. Will people say the big box feels heavier, the small box feels heavier, or that they feel the same? Why do you think so?
-- **fair test:** Make both boxes pull the forcemeter to exactly the same number. Wrap them the same way, so the outside looks alike. Ask each person to look at both boxes and lift them the same way, one in each hand, by the string loops. Ask at least 3 people, and more if you can.
-- **safety:** Keep the boxes light, under 5 newtons each. Wash hands after handling coins.
+- **fair test:** Make both boxes pull the forcemeter to exactly the same number. Use the same kind of string loop on both. Ask each person to look at both boxes and lift them the same way, one in each hand, by the string loops. Swap the boxes between hands for each new person. Ask at least 3 people, and more if you can.
+- **safety:** Keep coins away from babies and toddlers, who might swallow them.
 - **record:** Fill in the table. Count how many people chose each answer. Draw a bar chart.
 - **results table:** Person | Which felt heavier: big, small or same?
 - **s1 (6 min)**  
@@ -499,7 +497,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* 1. Ask each person to look at both boxes, then lift them, one in each hand, by the string loops. 2. Don't tell them what you did. 3. Ask: 'Which feels heavier?' 4. Write each answer in the table.  
   *Parent says:* Please lift these two boxes. Which one feels heavier to you?  
   *Child mode:* Ask a person to lift both boxes. Ask which feels heavier. Write their answer.
-  - Note: Most people say the small box feels heavier, often much heavier. Some even refuse to believe the forcemeter. People must see the boxes: the trick works because they can see which box is bigger.
+  - Note: Most people say the small box feels heavier, often much heavier. A few may say they feel the same, and that is a real result too. Some even refuse to believe the forcemeter. People must see the boxes: the trick works because they can see which box is bigger.
 - **s4 (3 min)**  
   *Parent does:* Count the answers and draw a bar for each one.  
   *Parent says:* Let's count. How many people said small? How many said big? How many said the same?  
@@ -508,7 +506,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. Can our hands be fooled? Which answers show it? And why do you think people felt the small box was heavier?  
   *Child mode:* Say or write three things. What you think about hands. Which answers show it. Why it happened.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: hands can be fooled. What I saw: both boxes showed 3 newtons, but 5 of 6 people said the small one felt heavier. Why: our brains expect big things to be heavier, so the big box surprised them by being light.
+  - Note: A good answer sounds like this. What I think: hands can be fooled. What I saw: both boxes showed 3 newtons, but 5 of 6 people said the small one felt heavier. Why: one common explanation is that our brains expect big things to be heavier, so the big box surprised them by being light. Scientists still argue about the full reason.
 
 ## Activities
 ### a1 · The Squash-o-meter: how big is that push? (15 min)
@@ -529,7 +527,6 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Put the pushes in order, smallest first. Could a balloon tell you an exact number?
   - Think: A balloon shows big and small, but not an exact number. What tool could give us a number?
 ### a2 · Feel One Newton (15 min)
-- **safety:** Hold the heavier things low over a bed or a cushion, in case they slip.
 - **record:** Draw your one newton kit. Write '1 N' beside each thing that pulls with about 1 newton.
 - **s1 (4 min)**  
   *Parent does:* 1. Put one 100 gram packet on your child's open palm. 2. Say that it pulls down with about 1 newton. 3. Then put a small apple on the other palm.  
@@ -547,13 +544,12 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Find three things that feel like 1 newton. Check them. Are they about 100 grams?
   - Think: A small apple is about 1 newton on Earth. Would it still be 1 newton on the Moon?
 ### a3 · Read It Right: the forcemeter drill (15 min)
-- **safety:** A grown-up helps with the scissors.
 - **record:** Write each reading with its unit, for example '3 and a half newtons'.
-- **s1 (4 min)**  
-  *Parent does:* 1. Cut out the paper scale and the card slider. 2. Fold the slider around the scale so it can slide up and down. 3. Fold a small piece of card into a little block. Tape it on the front of the slider. Then tape a toothpick across the block. The toothpick is the pointer. It now stands about 1 centimetre in front of the scale, like the pointer on a real forcemeter.  
+- **s1 (5 min)**  
+  *Parent does:* 1. On the long strip, draw a line down the middle. Write 0 at the bottom. Going up, make a mark every 2 cm and write 1, 2, 3 up to 10. 2. Make a small mark halfway between each pair of numbers. These are the half-newton marks. 3. Fold the short strip round the long one like a sleeve. Tape its ends together loosely, so it slides up and down. This is the slider. 4. Fold the small piece of card into a little block. Tape it on the front of the slider, and tape the toothpick across the block. The toothpick is the pointer. It stands about 1 centimetre in front of the scale, like the pointer on a real forcemeter.  
   *Parent says:* We're going to make a pretend forcemeter. The pointer slides, just like the real one.  
-  *Child mode:* Cut out the scale and the slider. Fold the slider round the scale. Tape a toothpick on it as the pointer. Slide it up and down.
-- **s2 (8 min)**  
+  *Child mode:* Draw a scale on the long strip. Mark 0 to 10. Add a half mark between numbers. Make a slider. Tape a toothpick on it.
+- **s2 (7 min)**  
   *Parent does:* 1. Slide the pointer to a reading, without your child seeing. 2. They read it, with their eyes level with the pointer. 3. Do 8 readings: 2, 5, 7 and a half, 0, 3 and a half, 9, 1 and a half, 10.  
   *Parent says:* Count the big numbers first. Then count the little marks after it. Each little mark is half a newton.  
   *Child mode:* Read the big number first. Then count the small marks. Each one is half a newton. Say the unit too.
@@ -584,7 +580,6 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Note: The door pulls back with exactly the same force. Every pull comes with an equal pull back. Isaac Newton wrote this as his third law of motion. The unit on Pushes and pulls explores it more.
   - Think: If you pull on the door with 5 newtons, how hard is the door pulling you?
 ### a5 · Your Tiffin on the Moon (15 min)
-- **safety:** Do it over a tray, so spilled rice is easy to pick up.
 - **record:** Write the pull on Earth, the Moon and Jupiter. Draw the three tiffins.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the empty tiffin on the kitchen scale and press its zero button, so the scale counts only the rice. 2. Weigh 600 grams of rice into the tiffin. 3. Your child holds it. 4. Say that on Earth the rice pulls with about 6 newtons.  
@@ -602,7 +597,6 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Hold this bag. It is your lunch on Jupiter. Two and a half times heavier!
   - Think: Your lunch felt different in three places. Did your lunch change, or did the planet change?
 ### a6 · Who Checks the Scales? A market visit (30 min)
-- **safety:** Go with a grown-up. Be polite, and ask before touching any scale.
 - **record:** Draw three different scales you saw. Write what each one weighs or shows, and whether you found a seal.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Walk through a vegetable market or visit a kirana shop. 2. Help your child find different kinds of scales: digital, hanging spring balances and two-pan balances.  
@@ -619,11 +613,10 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Ask the shopkeeper: how do you know your scale is right?
   - Think: Why might a shopkeeper want an honest scale, even if nobody checks?
 ### a7 · Swap Coins for Water: a unit anyone can share (15 min)
-- **safety:** Put a tray or towel under the cup, and wipe up spills straight away, so nobody slips.
 - **record:** Write how many millilitres of water started the notebook sliding. Divide by 100 to get newtons. Write it next to your coin number.
 - **s1 (3 min)**  
   *Parent does:* 1. Empty the coins out of the cup and hang it again. 2. Ask your child to guess how much water will start the notebook sliding, and why.  
-  *Parent says:* Your cousin can't use our coins. But she has water. How much water do you think it will take to slide one notebook? Why?  
+  *Parent says:* A child in another city can't use our coins. But she has water. How much water do you think it will take to slide one notebook? Why?  
   *Child mode:* Now you will use water, not coins. How much water will start the notebook sliding? Guess, and say why.
   - Ask: How did you make your guess? (good: I thought about how heavy the coins felt.; The cup was nearly full of coins, so maybe half a cup of water.; Water is lighter than coins, so more of it.)
 - **s2 (6 min)**  
@@ -639,10 +632,10 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Check: In the water-pull test, the notebook slid when the cup held 50 millilitres of water. 100 millilitres pulls with about 1 newton. How big was the pull? → **about half a newton**
 - **s4 (2 min)**  
   *Parent does:* Ask why water might be a better unit than coins. Let your child answer first.  
-  *Parent says:* Could your cousin in another city repeat this test exactly? Why might water be a better unit than our coins?  
-  *Child mode:* Could your cousin repeat this test? Why is water better than your coins?
+  *Parent says:* Could a child in another city repeat this test exactly? Why might water be a better unit than our coins?  
+  *Child mode:* Could a child in another city repeat this test? Why is water better than your coins?
   - Ask: Why is water a good thing to share? (good: Water is the same everywhere.; Anyone can get water and fill a 100 millilitre cup.; Coins are different in different countries.)
-  - Note: France first defined the gram in 1795 in almost this way. It was the mass of a little cube of water, 1 centimetre on each side. Today the kilogram is fixed by a number from nature instead.
+  - Note: Today the kilogram is fixed by a number from nature instead of by an object.
   - Think: Water changes a tiny bit when it is hot or cold. Would a perfect unit need something that never changes at all?
 
 ## Projects
@@ -670,7 +663,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Take the packets out. Does the band go back to 0?
   - Think: What would happen to your marks if the band got tired and stayed a little stretched?
 - **s5 (14 min)**  
-  *Parent does:* Day 2. 1. Check the zero again. 2. Hang five things in the bag, one at a time. Try an apple, a steel spoon, a pencil box, a small water bottle and a potato. 3. Write each reading. 4. Check each one on a kitchen scale and divide the grams by 100, or use a real forcemeter. No scale? Test sealed packets with their weight printed on them, such as a 200 gram biscuit packet.  
+  *Parent does:* Day 2. 1. Check the zero again. 2. Hang five things in the bag, one at a time. Try an apple, a steel tumbler, a pencil box, a potato and a small bottle of water (300 millilitres). 3. Write each reading. 4. Check each one on a kitchen scale and divide the grams by 100, or use a real forcemeter. No scale? Test sealed packets with their weight printed on them, such as a 200 gram biscuit packet.  
   *Parent says:* Before we check, guess: will our forcemeter agree with the kitchen scale? Why? Now let's see if it tells the truth.  
   *Child mode:* Check the zero. Hang five things. Write the newtons. Then check them on the kitchen scale. Do they agree?
   - Wait: Do this step on the next day.
@@ -699,7 +692,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* Help your child build their chosen tool. Test it with 1, 2 and 3 sheets of paper. Write down the stretch or bend each time.  
   *Parent says:* Build it, then test it. Does it show 1 sheet, 2 sheets and 3 sheets clearly? Try each one twice.  
   *Child mode:* Build your tool. Test it with 1, 2 and 3 sheets. Write down how far it moves each time.
-  - Note: With a 30 cm plastic ruler sticking out about 25 cm, one sheet usually bends it a few millimetres. A straw pointer makes it easier to see.
+  - Note: With a 30 cm plastic ruler sticking out about 25 cm, one sheet usually bends it a few millimetres. A straw pointer makes it easier to see. If your ruler hardly bends, try a longer or thinner one, or use the straw balance instead.
 - **s4 (5 min)**  
   *Parent does:* Ask your child to explain why their tool works, and how they could make it even more sensitive.  
   *Parent says:* Why does your tool notice paper when the forcemeter doesn't?  
@@ -731,15 +724,15 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Think: Who should be allowed to check the scales: the shopkeeper, the buyers, or someone else?
 
 ## Worksheets
-### How Big Is a Pull? (core) (core, 16 questions)
+### How Big Is a Pull? (core) (core, 15 questions)
 1. (mcq) Kavya, a girl in Class 3, did the coin-pull test. She used only five-rupee coins, never a mix of coins. Why does that matter?  
    Options: Each five-rupee coin pulls the same amount, so every coin is the same-sized step / Five-rupee coins are shinier / A mix of coins would make the notebook heavier / It does not matter at all  
    **Answer:** Each five-rupee coin pulls the same amount, so every coin is the same-sized step. *Why:* A unit must be the same size every time, like every centimetre on a ruler. Coins of one kind all pull about the same. A mix of big and small coins pulls by different amounts, so counting them tells you nothing. Picking 'the notebook gets heavier' mixes up the cup's pull with the notebook.
 2. (write) You needed 7 coins to start one notebook sliding. Guess how many coins two stacked notebooks will need. Say why you think so.  
    **Answer:** About 14 coins. Two notebooks press down on the table about twice as hard, so they grip the table about twice as much. My real result might be 13 or 15, because no test is perfectly even.. *Why:* A strong answer gives a number and a reason about pressing and gripping. It also expects the real result to be close to the guess, not exactly on it.
-3. (mcq) Farhan, a boy in Class 4, needed 6 big coins to slide a notebook. His sister Meenakshi needed 12 small coins for the same notebook on the same table. Farhan says, 'Meenakshi pulled twice as hard as me.' What is wrong with his idea?  
-   Options: Nothing. He is right / It was the same pull. Only the unit was different, because her coins were smaller / Big coins always pull less than small coins / Meenakshi must have counted wrongly  
-   **Answer:** It was the same pull. Only the unit was different, because her coins were smaller. *Why:* Same notebook and same table means the same pull is needed. Small coins are lighter, so more of them are needed for that pull. Farhan compared 6 and 12 without asking what each number counts. A number means nothing without its unit.
+3. (mcq) You push a plastic cup with a balloon, and then a heavy chair. The balloon squashes much more against the chair. What does that show?  
+   Options: The push on the chair was bigger / The chair is softer than the cup / The balloon got tired / Nothing, because the balloon is not a tool  
+   **Answer:** The push on the chair was bigger. *Why:* A balloon squashes more when the push is bigger, so it shows big and small pushes, but not an exact number. Picking 'the chair is softer' forgets that the same balloon was used for both pushes.
 4. (fill) Scientists everywhere count the size of a force in ____.  
    **Answer:** ['newtons', 'newton', 'N']. *Why:* Force is counted in newtons, written N for short. Everyone in the world uses the same newton, so a pull measured in Kochi can be compared with one measured in Paris.
 5. (match) Match each word to what it means.  
@@ -747,32 +740,29 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 6. (mcq) Look at the forcemeter. Each small mark is half a newton. How hard is it being pulled?  
    Options: 3 newtons / 3 and a half newtons / 4 newtons / 35 newtons  
    **Answer:** 3 and a half newtons. *Why:* The pointer is on the small mark halfway between 3 and 4. Half a newton past 3 is 3 and a half newtons. Picking 3 or 4 means the small marks were not counted. Picking 35 means the 3 and the 5 were read as one number.
-7. (mcq) A forcemeter has nothing hanging on it. Its pointer sits on 1, not on 0. What will happen if you use it like this?  
-   Options: Every reading will be 1 newton too big / Every reading will still be right / Every reading will be 1 newton too small / The spring will snap  
-   **Answer:** Every reading will be 1 newton too big. *Why:* The pointer has a 1 newton head start before anything is hooked on. So every pull will show 1 newton more than it really is. That is why you check the zero first. Picking 'still right' means the zero was thought not to matter.
-8. (truefalse) A girl pushes hard on a wall, and the wall does not move. So her push was zero newtons.  
+7. (truefalse) A girl pushes hard on a wall, and the wall does not move. So her push was zero newtons.  
    **Answer:** False. *Why:* False. In the balloon test, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on her just as hard.
-9. (write) Why does a forcemeter's pointer move further for a bigger pull? Use the word spring in your answer.  
+8. (write) Why does a forcemeter's pointer move further for a bigger pull? Use the word spring in your answer.  
    **Answer:** Inside the forcemeter is a spring, and the pointer is fixed to it. A bigger pull stretches the spring further, so the pointer slides further down the scale.. *Why:* A strong answer joins three things: the pull, the stretch of the spring, and the pointer moving with the spring. Twice the pull gives about twice the stretch.
-10. (sort) Sort these. Does each one pull down on your hand with about 1 newton or about 10 newtons?  
+9. (sort) Sort these. Does each one pull down on your hand with about 1 newton or about 10 newtons?  
    **Answer:** a small apple → About 1 newton; a 100 gram packet of biscuits → About 1 newton; a 1 litre bottle of water → About 10 newtons; a 1 kilogram packet of atta → About 10 newtons; a bar of bathing soap → About 1 newton; a 1 kilogram tub of curd → About 10 newtons. *Why:* Every 100 grams pulls down with about 1 newton. So a 100 gram thing is about 1 newton, and a 1 kilogram thing is about 10 newtons. A bar of soap is about 100 to 125 grams.
-11. (mcq) You pull a forcemeter with a sudden jerk. What does the pointer do?  
+10. (mcq) You pull a forcemeter with a sudden jerk. What does the pointer do?  
    Options: It jumps past the true reading for a moment / It stays on zero / It shows the true reading straight away / It moves backwards  
    **Answer:** It jumps past the true reading for a moment. *Why:* A jerk makes the spring overshoot, so the pointer swings too far and then settles. That is why you pull slowly and steadily, and read the pointer only when it is still.
-12. (order) Put these steps for using a forcemeter in the right order.  
+11. (order) Put these steps for using a forcemeter in the right order.  
    **Answer:** order shown. *Why:* Check the zero first, or every reading starts wrong. Pull steadily so the pointer does not jump. Read at eye level so the pointer does not look shifted. A number without its unit means nothing.
-13. (write) Many people trust their hands to tell which thing is heavier. In the big box and small box test, both boxes pulled the forcemeter to the same number. Which box felt heavier? So should we trust our hands?  
+12. (write) Many people trust their hands to tell which thing is heavier. In the big box and small box test, both boxes pulled the forcemeter to the same number. Which box felt heavier? So should we trust our hands?  
    **Answer:** Most people said the small box felt heavier, even though both pulled with the same force. Our brain expects a big box to be heavy, so it feels surprisingly light. So we cannot fully trust our hands. A forcemeter gives the same number to everyone.. *Why:* A strong answer says what was felt, what the forcemeter showed, and that the two did not agree. This is called the size-weight illusion.
-14. (perspective) Kavya and her grandmother are talking about the coin-pull test.  
-   **Answer:** Both are partly right. Kavya is right that the coin unit works inside one house, where everyone uses the same coins. Her grandmother is right that the coin unit can't be shared with someone who has different coins. So a strong answer might say: for sharing with others, newtons are better, but for comparing at home, coins work.. *Why:* A strong answer picks a side, uses something from the test (for example, 'Amma needed 12 small coins where I needed 6 big ones'), and fairly says what the other side gets right. There is no single right answer.
-15. (mcq) A small apple pulls down on your hand with about 1 newton. About how hard would a bag of 6 small apples pull?  
+13. (perspective) Kavya and her grandmother are talking about the coin-pull test.  
+   **Answer:** Both are partly right. Kavya is right that the coin unit works inside one house, where everyone uses the same coins. Her grandmother is right that the coin unit can't be shared with someone who has different coins. So a strong answer might say: for sharing with others, newtons are better, but for comparing at home, coins work.. *Why:* A strong answer picks a side, uses something from the test (for example, 'a grown-up needed 12 small coins where I needed 6 big ones'), and fairly says what the other side gets right. There is no single right answer.
+14. (mcq) A small apple pulls down on your hand with about 1 newton. About how hard would a bag of 6 small apples pull?  
    Options: About 1 newton / About 6 newtons / About 60 newtons / About 600 newtons  
    **Answer:** About 6 newtons. *Why:* Each apple adds about 1 newton, so 6 apples pull with about 6 newtons. Picking 60 or 600 means the newton was imagined much smaller than it is. A newton is a small force, about one apple.
-16. (draw) Draw a forcemeter. Label the hook, the spring, the pointer and the scale. Then draw the pointer where it would be for a pull of 2 newtons.  
+15. (draw) Draw a forcemeter. Label the hook, the spring, the pointer and the scale. Then draw the pointer where it would be for a pull of 2 newtons.  
    **Answer:** A tube with a spring inside and a hook at the bottom. A pointer is fixed to the spring, next to a scale numbered 0, 1, 2, 3 and so on. The pointer is drawn level with the 2.. *Why:* A strong drawing shows that the pointer is joined to the spring, so it moves when the spring stretches. The 2 newton pointer should be further from 0 than the 1 mark.
-### Read It, Check It (stretch) (stretch, 16 questions)
-1. (write) In the water-pull activity, you started a notebook sliding with water instead of coins. Why can your cousin in Kochi repeat a water test exactly, but not a coin test?  
-   **Answer:** Her coins may be different from mine, so her 'coin' would be a different size. But 100 millilitres of water is the same everywhere. Anyone with a measuring jug can pour exactly the same amount.. *Why:* A strong answer says that a shared unit must be the same for everyone, and that water measured in a jug is the same in every home.
+### Read It, Check It (stretch) (stretch, 15 questions)
+1. (write) In the water-pull activity, you started a notebook sliding with water instead of coins. Why can a child in Kochi repeat a water test exactly, but not a coin test?  
+   **Answer:** Her coins may be different from mine, so her 'coin' could be a different size. But 100 millilitres of water is the same everywhere. Anyone with a measuring jug can pour exactly the same amount.. *Why:* A strong answer says that a shared unit must be the same for everyone, and that water measured in a jug is the same in every home.
 2. (mcq) A forcemeter shows 1 newton with nothing on its hook. With a school bag hooked on, it shows 9 newtons. How hard does the bag really pull?  
    Options: 9 newtons / 10 newtons / 8 newtons / 1 newton  
    **Answer:** 8 newtons. *Why:* The pointer started 1 newton too far down. So take that 1 away: 9 take away 1 is 8 newtons. Picking 9 means the zero was not checked. Picking 10 means the 1 was added instead of taken away.
@@ -782,34 +772,32 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 4. (mcq) On this forcemeter, the numbers go 0, 10, 20, 30 and so on. There are 5 small gaps between each number. What does each small gap stand for?  
    Options: 1 newton / 2 newtons / 5 newtons / 10 newtons  
    **Answer:** 2 newtons. *Why:* 10 newtons shared between 5 gaps is 2 newtons for each gap. Picking 5 means the number of gaps was read as the size of each gap. Picking 10 means the big numbers and the small gaps were mixed up.
-5. (truefalse) On the Moon, a 1 kilogram packet of rice has less rice in it than on Earth.  
-   **Answer:** False. *Why:* False. The rice is exactly the same rice, with the same mass. Only the Moon's pull on it is smaller, about one sixth of the Earth's. A forcemeter would show less, but nothing has gone out of the packet.
-6. (mcq) Your tiffin box pulls a forcemeter down with 6 newtons on Earth. The Moon pulls about one sixth as hard. What would the forcemeter show on the Moon?  
+5. (mcq) Your tiffin box pulls a forcemeter down with 6 newtons on Earth. The Moon pulls about one sixth as hard. What would the forcemeter show on the Moon?  
    Options: 6 newtons / 1 newton / 36 newtons / 0 newtons  
    **Answer:** 1 newton. *Why:* One sixth of 6 is 1. So the forcemeter would show about 1 newton. Picking 36 means multiplying by 6 instead of sharing by 6. Picking 0 means the Moon was thought to have no gravity. It does, but less.
-7. (write) In the bathroom scale test, the number dipped when you bent your knees quickly. Did you get lighter for a moment? What does the scale really measure?  
+6. (write) In the bathroom scale test, the number dipped when you bent your knees quickly. Did you get lighter for a moment? What does the scale really measure?  
    **Answer:** No. My body did not lose anything. As I dropped, my feet pushed less on the scale, so the number dipped. The scale measures how hard I push down on it, and then shows that push as kilograms.. *Why:* A strong answer separates two things: how much of me there is, which stayed the same, and how hard I pushed, which changed.
-8. (mcq) You stand still on a bathroom scale, holding a heavy bag at your waist. Then you lift the bag high above your head and hold it there, still. Once you are still again, what does the scale show?  
+7. (mcq) You stand still on a bathroom scale, holding a heavy bag at your waist. Then you lift the bag high above your head and hold it there, still. Once you are still again, what does the scale show?  
    Options: More than before / Less than before / The same as before  
    **Answer:** The same as before. *Why:* Wherever you hold the bag, its pull goes down through your arms and body into the scale. So once you are still, the number is the same. While you are lifting the bag, the number jumps up for a moment, because you push down to push the bag up. Many people guess 'less', because the bag is further from the scale.
-9. (fill) You measure a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, you should use a forcemeter with a ____ range.  
+8. (fill) You measure a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, you should use a forcemeter with a ____ range.  
    **Answer:** ['smaller', 'small', 'lower', 'low']. *Why:* A forcemeter built for big pulls has a stiff spring, so a small pull hardly stretches it and the reading is hard to see. A forcemeter with a small range, like 0 to 5 newtons, has a softer spring that stretches well for small pulls. Pick the range that fits the pull: not too small, and not too big.
-10. (mcq) Nila, a girl in Class 4, hooks her forcemeter to her uncle's and they pull. Nila says, 'My uncle is stronger, so his forcemeter will show more.' What is wrong with her idea?  
+9. (mcq) Nila, a girl in Class 4, hooks her forcemeter to her uncle's and they pull. Nila says, 'My uncle is stronger, so his forcemeter will show more.' What is wrong with her idea?  
    Options: Nothing. The stronger person's forcemeter shows more / Both forcemeters always show the same, because each pull comes with an equal pull back / The weaker person's forcemeter shows more / Two forcemeters can't be hooked together  
    **Answer:** Both forcemeters always show the same, because each pull comes with an equal pull back. *Why:* When the uncle pulls harder, the pull on Nila's side grows too, by exactly the same amount. Both forcemeters feel the one pull that passes through them. Being stronger lets him pull Nila along, but the readings stay equal.
-11. (write) When you made your rubber band forcemeter, you marked it by hanging 100 gram packets on it. Why not just draw the marks evenly with a ruler, without testing?  
+10. (write) When you made your rubber band forcemeter, you marked it by hanging 100 gram packets on it. Why not just draw the marks evenly with a ruler, without testing?  
    **Answer:** I did not know how far my rubber band stretches for each newton. Every band is different, and a band may not stretch evenly. Hanging packets I already knew put each mark exactly where that pull really is.. *Why:* A strong answer says that the marks must come from known pulls. Putting marks on a tool using things you already know is called calibrating.
-12. (match) Match each thing to about how hard it pulls down on Earth.  
+11. (match) Match each thing to about how hard it pulls down on Earth.  
    **Answer:** a 10 gram pencil → about one tenth of a newton; a 100 gram packet → about 1 newton; a 2 litre bottle of water → about 20 newtons; a 30 kilogram child → about 300 newtons. *Why:* Every 100 grams pulls down with about 1 newton. So divide the grams by 100 to get the newtons. A 2 litre bottle holds about 2,000 grams of water, which is about 20 newtons.
-13. (sort) Sort these tools. Does each one measure a force, or something else?  
+12. (sort) Sort these tools. Does each one measure a force, or something else?  
    **Answer:** a forcemeter → Measures a force; a bathroom scale → Measures a force; a shop's hanging spring balance → Measures a force; a ruler → Measures something else; a measuring jug → Measures something else; a thermometer → Measures something else. *Why:* A bathroom scale and a hanging spring balance both measure a push or a pull, then show it in kilograms. A ruler measures length, a jug measures how much water, and a thermometer measures how hot something is. The bathroom scale is the surprise for most people.
-14. (perspective) Meenakshi, her aunt and her friend Divya are arguing about what a bathroom scale measures.  
+13. (perspective) Meenakshi, her aunt and her friend Divya are arguing about what a bathroom scale measures.  
    **Answer:** The aunt and Divya have the science right: the number dipped when you bent your knees, but no part of you went away. Meenakshi has a fair point too: on Earth, if you stand still, the push and the amount of you go together, so the kilogram number is useful. A strong answer uses the knee-bend result as evidence.. *Why:* A strong answer names a side, uses a result from the test as evidence, and answers back fairly from another side. The best answers notice that everyone is partly right.
-15. (draw) Draw your rubber band forcemeter with two marks on its card: 0 newtons and 1 newton. Draw what you hung on it to find where the 1 newton mark goes.  
+14. (draw) Draw your rubber band forcemeter with two marks on its card: 0 newtons and 1 newton. Draw what you hung on it to find where the 1 newton mark goes.  
    **Answer:** A rubber band hanging from the top of a card strip, with a paper clip hook at the bottom. A 0 mark is level with the hook when nothing hangs on it. A 1 newton mark is lower down, level with the hook when a 100 gram packet hangs on it.. *Why:* A strong drawing shows the 0 mark made with nothing on the hook, and the 1 newton mark made with a known 100 gram packet.
-16. (write) In the Pull Detective test, Megha, a girl in Class 3, pulled open a drawer twice. Once she got 8 newtons, and once she got 12 newtons. What might have made the readings different? What should she do next?  
+15. (write) In the Pull Detective test, Megha, a girl in Class 3, pulled open a drawer twice. Once she got 8 newtons, and once she got 12 newtons. What might have made the readings different? What should she do next?  
    **Answer:** She may have jerked the forcemeter once, or pulled it at a slant, or the drawer may have stuck. She should pull slowly and steadily, in a straight line, the same way each time. Then she should try three times and use the middle number.. *Why:* A strong answer gives a real reason the readings could differ, and a way to make the test fairer. One try can be a fluke, which is why we repeat.
-### From Molecules to the Moon (challenge) (challenge, 16 questions)
+### From Molecules to the Moon (challenge) (challenge, 15 questions)
 1. (write) Until 2019, one metal cylinder near Paris was the kilogram, by law. Imagine a speck of dust had landed on it. What would have happened to every other kilogram in the world?  
    **Answer:** By the rule of that time, the dusty cylinder was still exactly 1 kilogram. So the real kilogram would have grown a tiny bit, and every other kilogram weight in the world would have become a tiny bit too small.. *Why:* A strong answer sees the strange problem: when a unit is one object, any change to the object changes the unit itself.
 2. (mcq) In 2019, scientists stopped using that metal cylinder, and fixed the kilogram using a number from nature, the Planck constant. Why?  
@@ -825,29 +813,26 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    **Answer:** Zero, because the bag and the forcemeter fall together. *Why:* The bag and the forcemeter fall together at the same speed, so the bag does not pull on the spring at all. Gravity is still there, but nothing holds the bag back against it. Astronauts float for the same reason. Einstein used this idea to think about gravity in a new way.
 6. (write) Your homemade forcemeter showed 3 newtons for a pencil box. A kitchen scale said the box was 180 grams. Is your forcemeter right? Explain, and say what you would check.  
    **Answer:** Not quite. 180 grams pulls with about 1.8 newtons, which is nearly 2. My forcemeter showed 3, which is too big. I would check whether the pointer starts on zero, and test the marks again with a 100 gram packet.. *Why:* A strong answer turns grams into newtons (divide by 100), compares the two, and suggests a real cause to check.
-7. (mcq) A shop's hanging spring balance shows 1 kilogram with nothing on its hook. A customer buys what the balance says is 3 kilograms of onions. How many kilograms of onions does she really get?  
-   Options: 3 kilograms / 4 kilograms / 2 kilograms / 1 kilogram  
-   **Answer:** 2 kilograms. *Why:* The balance starts at 1 instead of 0, so every reading is 1 kilogram too big. 3 take away 1 is 2 kilograms. The customer pays for 1 kilogram she never gets. That is why Legal Metrology officers check shop scales.
-8. (write) In the fair scale challenge, you used water to check whether a scale was honest. Why is water a good thing to check with?  
+7. (write) In the fair scale challenge, you used water to check whether a scale was honest. Why is water a good thing to check with?  
    **Answer:** One litre of water always has a mass of about 1 kilogram. Almost everybody can get water and measure a litre with a jug. Nobody owns it, so nobody can cheat with it.. *Why:* A strong answer says the check is the same for everyone and nobody controls it. The gram was first defined in 1795 using water.
-9. (draw) Design a forcemeter that could show the pull of a single sheet of paper. Draw it and label how it works.  
+8. (draw) Design a forcemeter that could show the pull of a single sheet of paper. Draw it and label how it works.  
    **Answer:** For example, a long plastic ruler taped to the edge of a table, sticking out. The paper hangs from the far end, and a straw taped on as a pointer shows the bend against marks on a card.. *Why:* A sheet of paper pulls with only about one twentieth of a newton. A strong design is sensitive: a tiny pull makes a big movement that is easy to see.
-10. (mcq) People often say 'about 10 newtons' for a 1 kilogram bag. Why do scientists say 'about', and not exactly 10?  
+9. (mcq) People often say 'about 10 newtons' for a 1 kilogram bag. Why do scientists say 'about', and not exactly 10?  
    Options: On Earth, the real number is about 9.8 newtons, and it changes a little from place to place / Nobody has ever measured it / Bags come in different colours / Newtons are only a guess  
    **Answer:** On Earth, the real number is about 9.8 newtons, and it changes a little from place to place. *Why:* On Earth, 1 kilogram pulls down with about 9.8 newtons. It is a tiny bit more at the poles and a tiny bit less at the equator and on high mountains. 10 is close enough for everyday sums.
-11. (fill) About 4,500 years ago, traders in the Indus Valley cities used stone weights in these sizes: 1, 2, 4, 8, 16, 32. The next weight in the set was ____.  
+10. (fill) About 4,500 years ago, traders in the Indus Valley cities used stone weights in these sizes: 1, 2, 4, 8, 16, 32. The next weight in the set was ____.  
    **Answer:** ['64']. *Why:* Each weight is double the one before, and double 32 is 64. Picking 33 means the pattern was taken as adding 1. Shared weights let any buyer and seller in those cities agree on an amount.
-12. (perspective) In the story Ten Packets of Salt, a girl called Pushpa found that the contractor's balance was set wrongly. So who should check the scales in a market? Here are three views.  
+11. (perspective) In the story Ten Packets of Salt, a girl called Pushpa found that the contractor's balance was set wrongly. So who should check the scales in a market? Here are three views.  
    **Answer:** Every view has a real point. Selvi checks often, but nobody checks her. Fathima is right about who gains, but customers cannot check every scale. An officer is fair to both sides, but visits only now and then. A strong answer might mix them: the officer seals the scale, and anyone may check it with a known weight.. *Why:* A strong answer picks a side, uses evidence (for example, Pushpa's ten salt packets, or a scale that did not read zero), and names a fair weakness in its own view.
-13. (perspective) Scientists can measure gravity's pull very exactly. But what is gravity, deep down? Here are three answers.  
+12. (perspective) Scientists can measure gravity's pull very exactly. But what is gravity, deep down? Here are three answers.  
    **Answer:** There is no settled answer, and scientists still argue. A strong answer notes what each idea has going for it. Newton's sums still work for bridges and rockets. Einstein's idea passed a famous test in 1919, when starlight was seen bending round the Sun. Gravitons have not been found.. *Why:* A strong answer gives a reason for its choice and fairly states another side. It can also say what would settle the question, such as finding a graviton.
-14. (mcq) One newton is the push that makes a 1 kilogram trolley speed up by 1 metre per second, every second. Now a 2 newton push acts on the same trolley, with nothing slowing it. What happens?  
+13. (mcq) One newton is the push that makes a 1 kilogram trolley speed up by 1 metre per second, every second. Now a 2 newton push acts on the same trolley, with nothing slowing it. What happens?  
    Options: It speeds up twice as fast / It moves at the same steady speed / It speeds up just as fast as with 1 newton / It stops  
    **Answer:** It speeds up twice as fast. *Why:* A force changes how a thing moves. Twice the push on the same thing gives twice the speeding up. Picking 'steady speed' is the old idea that a push only keeps things going. Newton showed that a push changes the speed.
-15. (order) Put these from the smallest force to the biggest: a small apple pulling on your hand, a feather pulling on your hand, the pull between the Earth and the Moon, a Saturn V rocket pushing off the ground.  
+14. (order) Put these from the smallest force to the biggest: a small apple pulling on your hand, a feather pulling on your hand, the pull between the Earth and the Moon, a Saturn V rocket pushing off the ground.  
    **Answer:** order shown. *Why:* A feather pulls with less than one hundredth of a newton, and a small apple with about 1 newton. The Saturn V rocket pushed with about 34 million newtons. The Earth and the Moon pull on each other with about 200 million million million newtons. Most people guess the rocket is biggest, because a launch looks so huge.
-16. (truefalse) A forcemeter that shows the same number every time you hang the same bag must be showing the right number.  
-   **Answer:** False. *Why:* False. A forcemeter whose pointer starts on 1 instead of 0 is wrong by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like Pushpa's sealed salt packets.
+15. (truefalse) A forcemeter that shows the same number every time you hang the same bag must be showing the right number.  
+   **Answer:** False. *Why:* False. A forcemeter can be out by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like Pushpa's sealed salt packets.
 
 ## Videos
 - **The kilogram has changed: Le Grand K and the Kibble balance** (Veritasium, 10 min) id `Oo0jm1PPRuo`: For the parent and curious older children: why the kilogram, and so the newton, was redefined in 2019. *Check:* Found by YouTube search: "How We're Redefining the kg" by Veritasium. Title checked automatically. A parent may still preview it.
@@ -858,46 +843,40 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 1. (mcq) Sneha, a girl in Class 3, invents a unit of pull called 'one eraser'. What must all her erasers be like?  
    Options: The same kind and size, so each one pulls the same / Any erasers at all / Brightly coloured  
    **Answer:** The same kind and size, so each one pulls the same. *Why:* A unit only works if every one is the same size. Picking 'any erasers' means a big and a small eraser would count as the same, so her numbers would mean nothing.
-2. (mcq) Two careful children measure the same pull. One gets 5 and the other gets 20. They can both be right. How?  
-   Options: They counted in different units / One of them must have cheated / A pull changes every second  
-   **Answer:** They counted in different units. *Why:* The same pull can be 5 big coins or 20 small coins. Picking 'cheated' means trusting the numbers without asking what each one counts.
-3. (mcq) A bridge builder in Chennai sends her numbers to a factory in Pune. Why must both of them use newtons?  
+2. (mcq) A bridge builder in Chennai sends her numbers to a factory in Pune. Why must both of them use newtons?  
    Options: So the numbers mean the same thing in both places / Because newtons are cheaper / Because Chennai is bigger than Pune  
    **Answer:** So the numbers mean the same thing in both places. *Why:* A shared unit means a pull written in Chennai is the same pull when it is read in Pune. Without it, the factory could make parts that are too weak.
-4. (mcq) Which of these pulls down on your hand with about 1 newton?  
+3. (mcq) Which of these pulls down on your hand with about 1 newton?  
    Options: A small apple / A school bag full of books / A feather  
    **Answer:** A small apple. *Why:* A small apple of about 100 grams pulls with about 1 newton. A full school bag is more like 30 or 40 newtons. A feather is far less than 1 newton.
-5. (mcq) The newton is named after Isaac Newton. Who decided how big one newton is?  
+4. (mcq) The newton is named after Isaac Newton. Who decided how big one newton is?  
    Options: People agreed on it together, using the kilogram, the metre and the second / Newton measured it inside an apple / Nature made it that size  
    **Answer:** People agreed on it together, using the kilogram, the metre and the second. *Why:* The newton is an agreement between people. It was named in 1948, long after Newton died in 1727. Picking 'nature' mixes up the force, which is real, with the unit we count it in, which people chose.
-6. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
+5. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
    Options: 13 newtons / 3 newtons / 15 newtons  
    **Answer:** 13 newtons. *Why:* The pointer is 3 small marks past 10, and each mark is 1 newton, so it reads 13 newtons. Picking 3 means only the small marks were counted. Picking 15 means the reading was rounded to the nearest number.
-7. (mcq) A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
+6. (mcq) A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
    Options: The pointer looks shifted, so he may read the wrong mark / The spring stretches more / Nothing can go wrong  
    **Answer:** The pointer looks shifted, so he may read the wrong mark. *Why:* Looking from below or above makes the pointer seem to sit on a different mark. Reading with your eyes level with the pointer gives the true reading.
-8. (mcq) Why does a forcemeter use a spring, and not a stiff steel rod?  
+7. (mcq) Why does a forcemeter use a spring, and not a stiff steel rod?  
    Options: A spring stretches more for a bigger pull, so the pointer can show the size / A rod would be too heavy / Springs are prettier  
    **Answer:** A spring stretches more for a bigger pull, so the pointer can show the size. *Why:* The stretch is what shows the size of the pull. A stiff rod would hardly stretch at all, so the pointer would not move.
-9. (mcq) A spring stretches 2 centimetres when it is pulled with 1 newton. How far does it stretch for 3 newtons, inside its range?  
+8. (mcq) A spring stretches 2 centimetres when it is pulled with 1 newton. How far does it stretch for 3 newtons, inside its range?  
    Options: 6 centimetres / 3 centimetres / 2 centimetres  
    **Answer:** 6 centimetres. *Why:* Each newton adds about 2 centimetres, so 3 newtons give 3 times 2, which is 6 centimetres. Robert Hooke found this rule in 1678. Picking 3 means the newtons were read as centimetres.
-10. (mcq) Before the coin test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?  
+9. (mcq) Before the coin test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?  
    Options: So after the test you can see whether your reason was right / To make the test take longer / Because a reason changes the result  
    **Answer:** So after the test you can see whether your reason was right. *Why:* A guess with a reason can be checked. If the result surprises you, your reason was wrong somewhere, and you learn what to think again.
-11. (mcq) A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
+10. (mcq) A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
    Options: She changed two things at once, so she can't tell which one made the difference / Nothing is unfair / She should use more coins  
    **Answer:** She changed two things at once, so she can't tell which one made the difference. *Why:* In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.
-12. (mcq) On the Moon, you lift a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?  
-   Options: About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less / Just the same, because it is still 6 kilograms / You can't lift it, because there is no gravity on the Moon  
-   **Answer:** About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less. *Why:* The Moon pulls about one sixth as hard, so the box pulls down on your hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.
-13. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  
+11. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  
    Options: No. The scale shows her push, and the Moon pulls her less / Yes, the Moon makes people smaller / The scale must be broken  
    **Answer:** No. The scale shows her push, and the Moon pulls her less. *Why:* A bathroom scale measures how hard you push down on it. The Moon pulls about one sixth as hard, so she pushes about one sixth as hard. All of her is still there.
-14. (mcq) You press your palm on a table. Deep down, what pushes your hand back?  
+12. (mcq) You press your palm on a table. Deep down, what pushes your hand back?  
    Options: The electrons in the table push away the electrons in your hand / Tiny springs inside the table / Air trapped under your hand  
    **Answer:** The electrons in the table push away the electrons in your hand. *Why:* Electrons push other electrons away. So your hand and the table push apart, and that push is what you feel. Picking 'tiny springs' is a fair picture, but the real spring is the electric push between atoms.
-15. (mcq) Which of these do scientists still not know?  
+13. (mcq) Which of these do scientists still not know?  
    Options: What gravity really is, deep down / How to measure a pull in newtons / Whether a spring stretches when it is pulled  
    **Answer:** What gravity really is, deep down. *Why:* Measuring forces is well understood. What gravity is, deep down, is still an open question. Newton, Einstein and physicists today give different answers.
 
@@ -939,7 +918,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 
 ## Questions to ask kids
 - If you could invent your own unit of pull, what would it be? What would you call it?
-- How many of your steps fit across this room? Would Amma's steps give the same number? Which number is right?
+- How many of your steps fit across this room? Would a grown-up's steps give the same number? Which number is right?
 - How many newtons do you think that bag of vegetables is pulling with?
 - Which is a bigger pull: opening the fridge door, or opening a drawer? How could we find out?
 - If a shop scale showed 2 kilograms with nothing on it, who would lose out: the shopkeeper or the buyer?
@@ -951,33 +930,16 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - Why do you think the old kilogram was kept under three glass covers?
 
 ## Jokes
-- Why did the forcemeter go to school? *It wanted to make its mark.*
 - What did the spring say to the heavy bag? *You're really stretching me today.*
-- Why was the apple so proud? *It was worth one whole newton.*
 - Why did the scale go to the doctor? *It had a weight problem.*
-- What do you call a forcemeter that tells lies? *A fib balance.*
-- Why did the rubber band forcemeter feel tired? *It had been stretched all day.*
-- Why did the pointer keep going back to zero? *It liked a fresh start.*
 - What did the Moon say to the bag of rice? *Relax, you're light here.*
-- Why did Isaac Newton never get bored of apples? *They always had a pull on him.*
 - What's a spring's favourite season? *Spring, of course.*
-- Why did the elephant refuse to stand on the kitchen scale? *It didn't want to break the news.*
-- What did the crocodile say after biting the forcemeter? *Sixteen thousand, and still hungry.*
-- Why was the newton so friendly? *It got along with every force.*
+- Why did the elephant refuse to stand on the kitchen scale? *She didn't want to break the news.*
 - Why did the tug of war end in a draw? *Both forcemeters agreed.*
 - What did one forcemeter say to the other? *I've got you hooked.*
-- Why don't astronauts carry weighing scales on the Moon? *They'd never take their numbers seriously.*
-- Why did the salt packet go to the market? *To keep the scales honest.*
-- Why was the molecule a good porter? *It never dropped its load, piconewton by piconewton.*
-- What do you call a very tiny force that tells jokes? *A pico-punny-ton.*
-- Why did the bathroom scale go up when Appa sneezed? *It was a big push.*
-- Why did the balloon win the pushing contest? *It took all the pressure.*
-- What did the zero say to the pointer? *Come home, everything starts with me.*
 - Why was the forcemeter a good friend? *It always pulled its weight.*
-- Why did the student bring a ladder to the force lesson? *To climb the force ladder.*
 - What did the notebook say when the seventh coin dropped in? *Okay, okay, I'm going!*
 - Why was Le Grand K so nervous? *Everybody kept watching its weight.*
-- Why did the button refuse to be a unit? *It didn't want to be pushed around by the coins.*
 
 ## Connected maths
 - Look at the forcemeter in the picture. The big numbers are whole newtons. Each small mark between them is half a newton. What is the reading? **3 and a half newtons.**. The pointer is past the 3, but before the 4. It sits on the small mark halfway between them. Each small mark is half a newton. So the reading is 3 newtons and half a newton more. That is 3 and a half newtons. (queues `math.measurement-basics.reading-scales.L3`)
@@ -1006,14 +968,14 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Department of Consumer Affairs, Legal Metrology](https://consumeraffairs.nic.in) · interactive: For parents: the government department that makes sure scales and packets in India are honest.
 
 ## Things to buy
-- [Spring forcemeters, a set with 0 to 10 newtons and 0 to 50 newtons](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): Real forcemeters for the pull detective experiment, the box illusion, the tug of war and Guess the Newtons. Used in e1, e3, a4, g1. Also used in Friction L3 and Gravity L3. Buy two of the same range for the tug of war.
-- [Spring luggage scale, 0 to 50 kilograms](https://www.amazon.in/s?k=spring+luggage+scale) (tool): A cheap forcemeter for big pulls. Multiply its kilograms by 10 to get newtons. Used in e1. If you don't buy school forcemeters, use this in the pull detective experiment for the bigger pulls.
+- [Spring forcemeters, a set with 0 to 10 newtons and 0 to 50 newtons (two of the same range for the tug of war)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): Real forcemeters for the pull detective experiment, the box illusion, the tug of war and Guess the Newtons. Used in e1, e3, a4, g1. 
+- [Spring luggage scale, 0 to 50 kilograms](https://www.amazon.in/s?k=spring+luggage+scale) (tool): A cheap forcemeter for big pulls. Multiply its kilograms by 10 to get newtons. Used in e1. 
 - [Bathroom weighing scale](https://www.amazon.in/s?k=bathroom+weighing+scale) (tool): For the bathroom scale experiment, to see that a scale shows your push. Used in e2. 
 - [Digital kitchen scale, up to 5 kilograms](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Checks your homemade forcemeter, and weighs the rice for the Moon tiffin. Used in p1, a5, c2. 
 - [Measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+ml) (tool): Turns water into a unit anyone can share, for the water-pull activity and the fair scale challenge. Used in a7, c2. 
 - [Strong rubber bands, mixed sizes](https://www.amazon.in/s?k=rubber+bands+assorted) (material): The spring for your homemade forcemeter, and thin ones for the paper challenge. Used in p1, c1. 
 - [Round balloons](https://www.amazon.in/s?k=round+balloons) (material): For the balloon push activity, where a squashed balloon shows the size of a push. Used in a1. 
-- [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in rhyme about a boy and his dog discovering forces, for ages 5 to 9. Used in g1. If bought, read it on day 1 after the story, before playing Guess the Newtons.
+- [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in rhyme about a boy and his dog discovering forces, for ages 5 to 9. Used in g1. 
 
 ## Warm-up
 - In the coin-pull test, what was your unit of pull? → One coin of one kind.

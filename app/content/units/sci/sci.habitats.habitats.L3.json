@@ -3,7 +3,7 @@
  "title": "Habitats: the places that give living things what they need",
  "level": 3,
  "summary": {
-  "text": "Is there anywhere that nothing can live? In 1977, scientists in a small submarine went down to the dark floor of the Pacific Ocean. They expected warm springs and bare rock, and they found giant worms and clams. A habitat is the place where a living thing finds what they need: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea each give some things easily and make other things hard. Even a bowl of warm milk can be a habitat, for the bacteria that turn it into curd. Living things also change their habitats: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Nobody knows yet whether any other world has a habitat with life.",
+  "text": "Is there anywhere that nothing can live? In 1977, scientists in a small submarine went down to the dark floor of the Pacific Ocean. They expected warm springs and bare rock, and they found giant worms and clams. A habitat is the place where a living thing finds what they need: food, water, air, shelter, space and the right warmth. A pond, a forest, a desert and the sea each give some things easily and make other things hard. Even a bowl of warm milk can be a habitat, for the bacteria that turn milk into curd. Living things also change their habitats: trees make shade and damp air, and worms make soil. Your own body is a habitat for trillions of tiny living things. Nobody knows yet whether any other world has a habitat with life.",
   "art": "Four windows in one wall: a pond with a lotus and a frog, a forest with a hornbill, a desert with a camel and a khejri tree, and the blue sea with a turtle; in the corner, a small steel bowl of set white curd."
  },
  "intro": {
@@ -319,7 +319,7 @@
    "concept": "Your body is a habitat",
    "status": "defined",
    "definition": "Your body is a habitat for microbes: tiny living things, mostly bacteria, that live on your skin and inside you.",
-   "description": "You live in habitats. But you are also a habitat. Tiny living things called microbes live on your skin, in your mouth and most of all in your tummy. Scientists have worked out roughly how many there are. A grown-up's body has about as many bacteria living in it as it has human cells. Most of them are harmless or helpful. The ones in your tummy help you break down food and help protect you from germs. Your body gives them food, water, warmth and shelter, just like a pond gives a frog. Most grown-ups even have tiny mites living in the roots of their eyelashes and face hairs. They are too small to see and do no harm.",
+   "description": "You live in habitats. But you are also a habitat. Tiny living things called microbes live on your skin, in your mouth and most of all in your tummy. Scientists have worked out roughly how many there are. A grown-up's body has about as many bacteria as human cells. Most of them are harmless or helpful. The ones in your tummy help you break down food and help protect you from germs. Your body gives them food, water, warmth and shelter, just like a pond gives a frog. Most grown-ups even have tiny mites living in the roots of their eyelashes and face hairs. They are too small to see and do no harm.",
    "examples": [
     "Curd is made by bacteria. In the three bowls experiment, warm milk was a good habitat for them, and they turned it into curd. In the cold fridge, they slowed right down and waited.",
     "Your skin is drier on your arms and damper in your armpits. Different microbes live in each place, like different animals in a desert and a pond.",
@@ -446,14 +446,6 @@
    "context": "This card questions the usual way we think about habitats: as boxes that living things simply sit inside."
   },
   {
-   "claim": "Every place has one clear habitat, with a sharp edge.",
-   "who": "Frederic Clements, a plant scientist, in 1916, and the way maps are drawn",
-   "for": "Some edges are sharp, like where a lake meets a cliff.",
-   "against": "In 1926, Henry Gleason argued that each kind of plant spreads out on their own, so most habitats blend into each other. In the 1950s, careful counts of plants along slopes supported him. Most scientists now agree habitats usually fade into each other.",
-   "status": "minority",
-   "context": "This card is about whether habitats have sharp edges, an argument scientists have had for over a hundred years."
-  },
-  {
    "claim": "Zoos and aquariums can be real habitats for wild animals.",
    "who": "Some zoo keepers, and many visitors",
    "for": "Good zoos give animals food, water, shelter and medical care. Some rare animals survive only because they are bred in zoos.",
@@ -552,7 +544,7 @@
    "People ask Jadav how he made a forest. They want a secret. I watched the whole thing, so I will tell you what I saw. He did not make the deer, or the birds, or the elephants. He could not have carried a single elephant. What he made was shade, and soil, and damp leaves, and food. He made a place that could give. All the rest walked, flew and crawled in by themselves. And each one that came gave something back: the ants made soil, the birds brought seeds, the elephants opened paths.",
    "I still make my sandbars, and I still take them away. That is what I am. But now, when I pass that forest, I slow down a little. The trees drink from me. Their leaves breathe me back into the sky, and the sky rains me onto the hills, and the hills send me down again past the trees. I am no longer sure where the river ends and the forest begins."
   ],
-  "epiphany": "For the parent: the snakes did not die because of the flood. They died because the bare sandbar gave nothing a living thing needs: no shade, no shelter, no food, no damp soil. A habitat is not just a place. It is a place that gives. Jadav could not carry animals to a home. Instead he made the place give shade, soil, water and food, and the animals came by themselves. Each new living thing then changed the place too: ants made soil, birds brought seeds, trees made the air damp. Living things and their habitats make each other. The story also quietly asks what one patient person can do, and who notices.",
+  "epiphany": "For the parent: the snakes did not die because of the flood. They died because the bare sandbar gave nothing a living thing needs: no shade, no shelter, no food, no damp soil. A habitat is not just a place. It is a place that gives. Jadav could not carry animals to a home. Instead he made the place give shade, soil, water and food, and the animals came by themselves. Each new living thing then changed the place too: ants made soil, birds brought seeds, trees made the air damp. Living things and their habitats make each other.",
   "ask": [
    "Why did the snakes on the bare sandbar die?",
    "The old man said, 'Don't carry the animals to a home. Make a home.' What did he mean?",
@@ -575,7 +567,7 @@
    "id": "g1",
    "title": "Who Lives Where?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "context": "This is a card game about habitats. A habitat is the place where a living thing finds food, water, air, shelter, space and the right warmth. Players put each living thing in the habitat that gives them what they need, and say why.",
    "printables": [
     {
@@ -603,7 +595,7 @@
       "Tube worm at a deep sea vent",
       "Bacteria in your tummy",
       "TWIST: a mudskipper, a fish that walks on mud. Where do they go?",
-      "TWIST: a crow. Where can they NOT live?",
+      "TWIST: a crow. Which of the six mats could they not live on, and why?",
       "TWIST: a mangrove tree. Pond or sea?",
       "TWIST: a tiger in the Sundarbans. Forest or sea?"
      ]
@@ -622,8 +614,37 @@
     },
     {
      "kind": "tokens",
-     "title": "30 leaf tokens (small paper leaves)",
+     "title": "30 leaf tokens to cut out",
      "items": [
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
       "🍃"
      ]
     },
@@ -641,12 +662,13 @@
     }
    ],
    "rules": [
-    "Lay out the six habitat mats. Shuffle the living-thing cards and put them face down. Put the need cards face up in a row.",
-    "On your turn, take a card and read it out. Put it on the habitat mat where they live.",
-    "Then pick two need cards. Say how that habitat gives the living thing each of those needs. One leaf token for each good answer.",
-    "Anyone can say 'challenge!' if they think the card is on the wrong mat. If the group agrees, the challenger wins a token.",
-    "A TWIST card has no single right answer. Say what you think and why. A good reason wins two tokens.",
-    "When the cards run out, the player with the most leaf tokens wins."
+    "Lay out the six habitat mats. Shuffle the 24 living-thing cards and put them face down in a pile. Put the six need cards face up in a row. Put the 30 leaf tokens in a heap in the middle.",
+    "On your turn, take the top card and read it out. Put it on the habitat mat where they live.",
+    "Then pick two need cards. Say how that habitat gives the living thing each of those needs. Take one leaf token for each good answer.",
+    "Anyone can say 'challenge!' if they think the card is on the wrong mat. If everyone else agrees, the card moves to the right mat and the challenger takes one leaf token.",
+    "A TWIST card has no single right answer. Say what you think and why, then put the card on the mat you chose. A good reason wins two leaf tokens.",
+    "If the leaf tokens run out, keep score with tally marks on paper.",
+    "The game ends when all 24 cards are on the mats. The player with the most leaf tokens wins. If players tie, they share the win."
    ],
    "setup": [
     {
@@ -666,7 +688,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the six habitat mats in a circle. 2. Shuffle the 24 living-thing cards and put them face down. 3. Put the six need cards face up in a row.",
+     "do": "1. Lay the six habitat mats in a circle. 2. Shuffle the 24 living-thing cards and put them face down. 3. Put the six need cards face up in a row. 4. Put the 30 leaf tokens in a heap.",
      "say": "A habitat is a place that gives a living thing what they need. In this game, we put each living thing where they live. Then we say how that place gives them two of their needs.",
      "kid": "Put the six habitat mats in a circle. Mix up the cards. Put them face down. Put the need cards in a row.",
      "context": "This is the first step of Who Lives Where?, a card game about habitats. Here you set up the game."
@@ -676,7 +698,7 @@
      "mins": 3,
      "do": "Find the Frog card. Play it together as a practice round.",
      "say": "Let's practise with the frog. Where do they go? Now pick two need cards. How does the pond give the frog water? How does it give them food?",
-     "kid": "Practice card: the frog. Which mat does it go on? Tap your answer.",
+     "kid": "Practice card: the frog. Which mat does it go on? Choose your answer.",
      "ask": [
       {
        "q": "How does a pond give a frog food and shelter?",
@@ -886,7 +908,7 @@
      "qty": 3
     },
     {
-     "item": "a thermometer, if you have one (not needed)",
+     "item": "a thermometer, if you have one (optional)",
      "qty": 1,
      "buy": "b-thermometer"
     }
@@ -958,7 +980,7 @@
      "mins": 4,
      "do": "1. Wrap the 'warm' bowl in a thick towel. Put it inside a casserole or a closed cupboard. 2. Put the 'counter' bowl on the kitchen counter, away from the stove. 3. Put the 'fridge' bowl in the fridge. 4. If you have a thermometer, check how warm each place is and write it in the table.",
      "say": "Each bowl now has a different home for the night. Hold your hand inside the fridge, then near the counter, then near the towel. Which place feels warmest?",
-     "kid": "Wrap the warm bowl in a towel. Put it in a closed box. Put one bowl on the counter. Put one in the fridge. Which place feels warmest?",
+     "kid": "Wrap the warm bowl in a towel. Put it in a closed cupboard or a covered pot. Put one bowl on the counter. Put one in the fridge. Which place feels warmest?",
      "check": {
       "t": "mcq",
       "q": "In the three bowls experiment, why do we stir the same spoon of curd into all three bowls?",
@@ -1028,10 +1050,10 @@
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: warmth makes milk a good home for curd bacteria. What I saw: the warm bowl set, the counter bowl got thick, and the fridge bowl stayed runny. Why: the bacteria eat the sugar in milk and make a sour acid, and the acid thickens the milk. They grow fast when warm and slow right down in the cold. Only now, after your child has answered, share this.",
      "check": {
       "t": "mcq",
-      "q": "In the three bowls experiment, the warm bowl set into curd and the fridge bowl stayed runny. Both got the same curd. Why?",
+      "q": "Suppose the warm bowl set into curd and the fridge bowl stayed runny. Both got the same curd. Why?",
       "options": [
        "The bacteria were in both bowls, but only the warm one was a good home for them",
-       "The fridge bowl had no bacteria in it",
+       "The fridge bowl had no bacteria",
        "The cold turned the bacteria into milk",
        "Curd only sets in steel bowls"
       ],
@@ -1314,7 +1336,7 @@
    "days": 1,
    "question": "Do leaves give off water into the air? Is that one way a forest keeps itself damp?",
    "predict": "Before you start, guess. If you tie a clear plastic bag around a leafy branch in the sun, what will you see inside the bag after one hour? Why do you think so?",
-   "fair_test": "To make it fair, tie a second bag around a branch with all its leaves taken off, or around a dry stick, in the same sunny place. Both bags stay on for the same time. Then only the leaves are different.",
+   "fair_test": "To make it fair, tie a second bag around a bare dry stick pushed into the same pot, in the same sunny place. Both bags stay on for the same time. Then only the leaves are different.",
    "results_table": [
     "Bag",
     "What I saw inside after 1 hour",
@@ -1330,7 +1352,7 @@
      "qty": 2
     },
     {
-     "item": "a leafy branch of a bush or small tree in the sun, and a bare dry stick",
+     "item": "a potted plant with plenty of leaves, such as tulsi, hibiscus or a money plant, in full sun on a balcony or by a sunny window, and a bare dry stick",
      "qty": 1
     },
     {
@@ -1347,15 +1369,15 @@
     }
    ],
    "record": "Draw both bags after one hour. Write how much water collected in each.",
-   "context": "This is the tree water experiment. You tie a clear plastic bag around a leafy branch in the sun, and see whether the leaves give off water into the air. A potted plant on a balcony or a window works well.",
+   "context": "This is the tree water experiment. You tie a clear plastic bag around some leaves of a potted plant in the sun, and see whether the leaves give off water into the air.",
    "setup": [
     {
      "art": "A clear plastic bag being slipped over a leafy hibiscus branch in sunshine.",
-     "caption": "1. Slip a clear bag over a leafy branch in the sun."
+     "caption": "1. Slip a clear bag over a leafy stem of a potted plant in the sun."
     },
     {
      "art": "The bag tied at the stem with string, and a second bag tied over a bare dry stick next to it.",
-     "caption": "2. Tie it tight. Tie a second bag over a bare stick."
+     "caption": "2. Tie it tight. Tie a second bag over a bare stick in the same pot."
     },
     {
      "art": "After an hour, the bag on the leafy branch misty with drops collecting at the bottom; the bag on the stick still clear.",
@@ -1366,9 +1388,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Find a leafy branch in the sun. 2. Slip a clear plastic bag over the end, with plenty of leaves inside. 3. Tie the bag tightly around the stem. 4. Tie a second bag over a bare stick in the same sunny place.",
+     "do": "1. Put the potted plant in full sun, on a balcony or by a sunny window. 2. Slip a clear plastic bag over a leafy stem, with plenty of leaves inside. 3. Tie the bag tightly around the stem. 4. Push a bare dry stick into the soil of the same pot and tie a second bag over it.",
      "say": "We'll trap the air around these leaves. The second bag, over a bare stick, is our comparison. Only the leaves are different.",
-     "kid": "Put a clear bag over a leafy branch in the sun. Tie it tight. Put another bag over a bare stick.",
+     "kid": "Put the plant in the sun. Put a clear bag over some leaves. Tie it tight. Push a bare stick into the pot and put another bag over it.",
      "context": "This is the first step of the tree water experiment. You trap the air around some leaves in a clear bag."
     },
     {
@@ -1381,11 +1403,11 @@
     },
     {
      "id": "s3",
-     "mins": 8,
-     "do": "1. Look at both bags. 2. Gently shake the drops in the leafy bag down to one corner. 3. Untie it and pour the water into a spoon. 4. Do the same with the other bag. 5. Write what you found.",
-     "say": "Look, the leafy bag is misty and has drops in it. Where did that water come from? We didn't pour any in.",
-     "kid": "Look at both bags. Which one has water inside? Collect the drops in a spoon.",
-     "parent": "On a sunny day the leafy bag is usually misty within 15 minutes. After an hour there are usually many drops, sometimes a teaspoon or more. The bare-stick bag stays almost dry. This shows the water came out of the leaves. Plants pull water up from their roots and let it out through tiny holes in their leaves.",
+     "mins": 9,
+     "do": "1. Look at both bags before you touch them. 2. Take both bags off now, so the leaves do not get too hot. Hold the bottom corner of the leafy bag shut as you untie it. 3. Shake the drops into that corner. Open it over a spoon and let the water run in. 4. Do the same with the stick bag. 5. Write what you found.",
+     "say": "Look, the leafy bag is misty and has drops in it. Where did that water come from? We didn't pour any in. Let's take the bags off now, so the leaves do not get too hot.",
+     "kid": "Look at both bags. Which one has water inside? Take them off the plant. Collect the drops in a spoon.",
+     "parent": "On a warm, sunny day the leafy bag is usually misty within 15 to 30 minutes. After an hour there are usually many drops, sometimes a teaspoon or more. On a cool or cloudy day there may be only mist and a few drops: leave the bags on for two hours, or try again on a sunnier day. The bare-stick bag stays almost dry. This shows the water came out of the leaves. Plants pull water up from their roots and let it out through tiny holes in their leaves.",
      "check": {
       "t": "mcq",
       "q": "In the tree water experiment, the bag on the leafy branch got misty with drops of water. Where did the water come from?",
@@ -1401,19 +1423,12 @@
     },
     {
      "id": "s4",
-     "mins": 4,
+     "mins": 6,
      "do": "Talk about what this means for a whole forest. Then ask for what I think, what I saw and why.",
      "say": "Our one branch gave all these drops in one hour. A big tree has thousands of branches. A forest has millions of trees. All that water goes up into the air. That is one reason a forest stays damp, and it helps make clouds and rain. Now tell me: what do you think, what did you see, and why?",
      "kid": "One branch gave all these drops. Think of a whole forest! Now say three things. What I think. What I saw. Why.",
      "parent": "A good answer: What I think: leaves give off water into the air. What I saw: the leafy bag had drops after an hour, the stick bag stayed dry. Why: plants pull water from the soil and let it out through their leaves. This is why a forest makes its habitat damp, and why cutting a forest can make a place drier.",
      "think": "If a forest helps make its own rain, what might happen to the rain if the forest is cut down?"
-    },
-    {
-     "id": "s5",
-     "mins": 3,
-     "do": "Take both bags off the plant.",
-     "say": "Let's take the bags off now, so the leaves do not get too hot.",
-     "kid": "Take the bags off the plant, so the leaves do not get too hot."
     }
    ]
   }
@@ -1486,7 +1501,7 @@
        ]
       }
      ],
-     "parent": "Woodlice are small grey creatures with 14 legs. They are cousins of crabs and prawns, not insects. If you find nothing under the stone, that is a real result, not a failure. Write down 0 next to the guess. Then ask: why might nobody live under this stone? Is the soil dry? Is it in full sun? Was it moved recently? Try one more stone in a shadier, damper spot, or after rain. Even a bare stone has bacteria on it, too small to see."
+     "parent": "Woodlice are small grey creatures with 14 legs. They are cousins of crabs and prawns, not insects. If you find nothing under the stone, that is a real result, not a failure. Write down 0 next to the guess. Then ask: why might nobody live under this stone? Is the soil dry? Is it in full sun? Was it moved recently? Try one more stone in a shadier, damper spot, or after rain. Even a bare stone is home to bacteria, too small to see."
     },
     {
      "id": "s3",
@@ -1521,7 +1536,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch animals from a distance. Do not go near street dogs or monkeys. Stay with a grown-up outdoors.",
+   "safety": "If you go outside to watch, stay with a grown-up and keep away from street dogs and monkeys.",
    "schedule": [
     {
      "day": 1,
@@ -1591,7 +1606,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "4 metres of string or wool",
+     "item": "5 metres of string or wool",
      "qty": 1
     },
     {
@@ -1711,7 +1726,7 @@
     }
    ],
    "record": "Draw a map of your walk. Mark where each thing was found, and colour the map by habitat: shady, sunny, wet, dry.",
-   "context": "If you have a garden or a park nearby: This activity comes from a DeepKids nature walk idea. You walk in a park or around your area, collect fallen things, and draw a map of where each one came from. A walk around your building works too.",
+   "context": "If you have a garden or a park nearby: you walk in a park or around your area, collect fallen things, and draw a map of where each one came from. A walk around your building works too.",
    "setup": [
     {
      "art": "A child picking up a fallen feather near a tree, a small cloth bag in her other hand.",
@@ -1785,11 +1800,11 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Move like the four habitats, then act out a meeting of the four habitats."
+     "what": "Move like the four habitats, then take turns acting out a meeting of the four habitats."
     }
    ],
    "record": "Draw yourself as your favourite habitat, and write one thing it gives and one thing that is hard there.",
-   "context": "This is a movement and drama activity from DeepKids' ideas. You move like each of the four habitats, then act out a meeting where they talk about what they give.",
+   "context": "This is a movement and drama activity. You move like each of the four habitats, then take turns acting out a meeting where the habitats talk about what they give.",
    "setup": [
     {
      "art": "Four paper signs on the floor in four corners of a room: pond, forest, desert and sea.",
@@ -1816,10 +1831,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Act out a meeting of the four habitats. Each player is one habitat. Each one says what it gives easily, and what is hard there. Then they argue: who is the best home?",
+     "do": "Take turns being each habitat: pond, forest, desert and sea. As each one, say what you give easily and what is hard in you. Then argue: who is the best home?",
      "say": "I am the desert. I give lots of sunshine and space. But I have very little water. Who are you? What do you give? And who would want to live in you?",
      "kid": "Be one habitat. Say what you give. Say what is hard in you. Who is the best home?",
-     "parent": "Let the argument go on. A good ending is when the children see there is no single best home: each one is best for some living things. If your child is alone, take turns playing two habitats each.",
+     "parent": "Let the argument go on. A good ending is when the children see there is no single best home: each one is best for some living things. If there are only two of you, each plays two habitats.",
      "check": {
       "t": "mcq",
       "q": "In the habitat meeting, which habitat is the best home?",
@@ -1830,7 +1845,7 @@
        "The pond, because it is the smallest"
       ],
       "a": 2,
-      "why": "Each habitat gives some things easily and makes others hard. A camel does best in the desert, a fish in water. Picking forest or sea is a fine opinion, but think of the camel. The forest would be a poor home for them, and the sea would kill them."
+      "why": "Each habitat gives some things easily and makes others hard. A camel does best in the desert, a fish in water. Picking forest or sea is a fine opinion, but think of the camel. The forest would be a poor home for them, and a camel would not manage in the sea."
      }
     },
     {
@@ -1887,12 +1902,12 @@
     {
      "day": 2,
      "mins": 5,
-     "what": "Change the water. Watch for 5 minutes. Write any visitors."
+     "what": "Watch for 5 minutes. Write any visitors."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Change the water. Watch for 5 minutes. Write any visitors."
+     "what": "Watch for 5 minutes. Write any visitors."
     },
     {
      "day": 7,
@@ -1902,7 +1917,7 @@
     {
      "day": 10,
      "mins": 5,
-     "what": "Change the water. Watch for 5 minutes."
+     "what": "Watch for 5 minutes. Write any visitors."
     },
     {
      "day": 14,
@@ -1953,11 +1968,11 @@
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Change the water every day. Every few days, also watch quietly for 5 minutes and write every visitor in the diary.",
+     "mins": 25,
+     "do": "Change the water every day, which takes one minute. On days 2, 4, 7 and 10, also watch quietly for 5 minutes (10 minutes on day 7) and write every visitor in the diary.",
      "say": "Let's watch quietly. Who's here? What are they doing: drinking, bathing, resting or hiding?",
      "kid": "Change the water. Watch quietly for 5 minutes. Write who came and what they did.",
-     "wait": "Come back on days 2, 4, 7 and 10."
+     "wait": "Change the water every day. Come back to watch on days 2, 4, 7 and 10."
     },
     {
      "id": "s5",
@@ -1982,7 +1997,7 @@
      "id": "s6",
      "mins": 5,
      "do": "Decide together what to add or change: a plant with flowers, more shade, a second bowl.",
-     "say": "If we wanted more visitors, which other need could we give? Food from flowers? More shade? Remember Jadav Payeng: he made a place that gives, and life came.",
+     "say": "If we wanted more visitors, which other need could we give? Food from flowers? More shade? Remember Jadav Payeng, from this unit's story: he made a place that gives, and life came.",
      "kid": "What could you add? Flowers for food? More shade? Make your corner give more.",
      "think": "Your corner gives water and shelter. What would it need to become a whole habitat for one bird?"
     }
@@ -1998,7 +2013,7 @@
    "constraints": [
     "The shelter must fit in a shoebox.",
     "Use only things from home, like cardboard, cloth, sand, leaves and paper.",
-    "The cup must be in the sun, not in the house.",
+    "The cup must be in direct sun, on a balcony or a sunny window ledge, not in the shade.",
     "Measure the water's temperature at the start and after one hour."
    ],
    "materials": [
@@ -2066,7 +2081,7 @@
      "parent": "A shade roof usually helps a lot. Burying the cup in damp soil, or wrapping it in a wet cloth, often helps most. This is why many desert animals live in burrows, and why clay pots keep water cool.",
      "check": {
       "t": "mcq",
-      "q": "In the desert shelter challenge, the bare cup reached 42 degrees and the sheltered cup only 31. What does this tell us about desert animals?",
+      "q": "In one made-up test of the desert shelter challenge, the bare cup reached 42 degrees and the sheltered cup only 31. What does this tell us about desert animals?",
       "options": [
        "Shade and shelter make a huge difference in the desert",
        "Desert animals like being hot",
@@ -2083,7 +2098,7 @@
    "id": "c2",
    "title": "A Balcony Habitat for Butterflies",
    "mins": 30,
-   "problem": "Butterflies need flowers to drink nectar from, plants for their caterpillars to eat, water, shelter from wind and sun to warm their wings. Design a habitat for butterflies that fits on a balcony or a window ledge, about 1 metre long.",
+   "problem": "Butterflies need flowers to drink nectar from, plants for their caterpillars to eat, water and shelter from wind. They also need sun to warm their wings. Design a habitat for butterflies that fits on a balcony or a window ledge, about 1 metre long.",
    "constraints": [
     "It must fit in a space about 1 metre long.",
     "It must give at least four of a butterfly's needs.",
@@ -2234,20 +2249,6 @@
      "why": "Living parts grow, take in food and make more of their own kind. The green slime is tiny living algae, so it is living. Mud, water and sunlight are not alive, but every living part of the pond needs them."
     },
     {
-     "t": "mcq",
-     "p": "Before the three bowls test, Divya, a girl in Class 3, guessed the fridge bowl would set first, because curd is kept in the fridge. What did the test show?",
-     "opts": [
-      "The warm bowl set first, and the fridge bowl stayed runny",
-      "The fridge bowl set first",
-      "All three set at the same time",
-      "None of the bowls set"
-     ],
-     "a": 0,
-     "why": "Curd bacteria grow fastest in warmth, so the warm, wrapped bowl set first. We keep curd in the fridge for a different reason: the cold slows the bacteria down, so the curd does not turn too sour. Divya's guess was a good one to test, because many grown-ups think the same.",
-     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
-     "how": "e4"
-    },
-    {
      "t": "truefalse",
      "p": "At noon, the Thar Desert looks empty. So very few animals live there.",
      "a": false,
@@ -2343,7 +2344,7 @@
      "t": "truefalse",
      "p": "A fish lives under water, so a fish does not need air.",
      "a": false,
-     "why": "False. Water holds a little air mixed into it, and fish take it in through their gills. That is why a fish tank has a pump that bubbles air into the water. Air is one of the needs of a habitat, even under water."
+     "why": "False. Water holds a little air mixed into it, and fish take air in through their gills. That is why a fish tank has a pump that bubbles air into the water. Air is one of the needs of a habitat, even under water."
     },
     {
      "t": "write",
@@ -2383,7 +2384,7 @@
      ],
      "a": 0,
      "why": "Under the leaves was the coolest place, at 28 degrees. Fallen leaves also keep the soil damp and give food as they rot. The sunny path was hottest and driest, so an earthworm would dry out there. A strong answer uses the numbers in the chart.",
-     "context": "Remember the five worlds test, where you measured the temperature in five small places in one garden?",
+     "context": "The five worlds test is an outdoor experiment: you measure five small places in one garden. Here are made-up results from it.",
      "how": "e2",
      "chart": {
       "type": "bar",
@@ -2418,15 +2419,6 @@
        }
       ]
      }
-    },
-    {
-     "t": "write",
-     "p": "In the three bowls test, every bowl got the same milk and one level spoon of the same curd. Why did that matter?",
-     "lines": 3,
-     "a": "A strong answer says that only the warmth was different between the bowls. If one bowl got more curd, we could not tell whether the warmth or the extra curd made it set. It names this a fair test.",
-     "why": "A fair test changes one thing and keeps everything else the same. Then we know what caused the difference.",
-     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
-     "how": "e4"
     },
     {
      "t": "mcq",
@@ -2650,7 +2642,7 @@
      ],
      "a": 0,
      "why": "For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. Remember the snakes on Jadav Payeng's bare sandbar. Farhan treats a small number as a small effect.",
-     "context": "Remember the five worlds test, where you measured the temperature in five small places in one garden?",
+     "context": "The five worlds test is an outdoor experiment: you measure five small places in one garden. Here are made-up results from it.",
      "how": "e2"
     },
     {
@@ -2693,20 +2685,6 @@
      "context": "Hydrothermal vents are cracks in the deep sea floor where water heated inside the rock comes out."
     },
     {
-     "t": "mcq",
-     "p": "A big tree gives off water from their leaves all day. What would happen to the air in a forest if many of the trees were cut down?",
-     "opts": [
-      "It would become drier, and less rain might fall",
-      "It would become wetter",
-      "Nothing would change",
-      "It would rain salt"
-     ],
-     "a": 0,
-     "why": "Leaves give water to the air, as the bag test showed. Fewer trees means less water going up, so the air gets drier and less rain may fall. This is one way living things make their own habitat.",
-     "context": "Remember the tree water test, where you tied a clear bag around a leafy branch in the sun, and another around a bare stick?",
-     "how": "e3"
-    },
-    {
      "t": "write",
      "p": "Design a fair test to find out whether milk sets into curd faster with one spoon of curd or with three spoons. Say what you would change, what you would keep the same, and what you would check.",
      "lines": 5,
@@ -2726,7 +2704,7 @@
      ],
      "a": 0,
      "why": "One result can be a fluke. Scientists repeat tests in many places before saying 'always'. Picking 'tests cannot tell us anything' goes too far. The test is good evidence for this garden.",
-     "context": "Remember the Square Metre Safari, where you marked out a 1 metre square and counted the kinds of living things in it?",
+     "context": "The Square Metre Safari is an outdoor activity: you mark out a 1 metre square and count the kinds of living things in it. Here are made-up results from it.",
      "how": "a3"
     },
     {
@@ -2745,7 +2723,7 @@
       "sorts"
      ],
      "why": "Counting kinds tells us how many different living things a place can support. Ten ants of one kind count as one kind. A place with more kinds usually meets more different needs.",
-     "context": "Remember the Square Metre Safari, where you marked out a 1 metre square and counted the living things in it?",
+     "context": "The Square Metre Safari is an outdoor activity: you mark out a 1 metre square and count the kinds of living things in it. Here are made-up results from it.",
      "how": "a3"
     },
     {
@@ -3045,7 +3023,7 @@
    "youtube": "HkZDSqyE1do",
    "mins": 16,
    "why": "Shows the real Molai forest and the man who planted it, from the story in this unit. Good for the family to watch together.",
-   "check": "Found by YouTube search: \"Forest Man\" by William D McMaster. Title checked automatically; a parent may still preview it."
+   "check": ""
   },
   {
    "title": "What are hydrothermal vents?",
@@ -3053,7 +3031,7 @@
    "youtube": "xFAu8CqCtR8",
    "mins": 5,
    "why": "Real footage of the kind of habitat in the intro: animals living around vents on the deep sea floor, with no sunlight. A parent should preview it first.",
-   "check": "Found by YouTube search: \"What are hydrothermal vents?\" by Woods Hole Oceanographic Institution. Title checked automatically; a parent may still preview it."
+   "check": ""
   },
   {
    "title": "The Incredible Wildlife of India",
@@ -3061,7 +3039,7 @@
    "youtube": "TUCNYVlRLoA",
    "mins": 6,
    "why": "Shows wild animals in different Indian habitats, so children can see what each habitat gives. A parent should preview it first.",
-   "check": "Found by YouTube search: \"The Incredible Wildlife of India | BBC Earth\" by BBC Earth. Title checked automatically; a parent may still preview it."
+   "check": ""
   }
  ],
  "applications": [
@@ -3081,7 +3059,7 @@
  "spotted": [
   {
    "text": "Ants, and sometimes earthworms, in the damp soil under flowerpots on balconies.",
-   "art": "A lifted flowerpot with ants and a small earthworm on the damp soil under it."
+   "art": "A lifted flowerpot with ants and a small earthworm on the damp soil under the pot."
   },
   {
    "text": "Moss and tiny ferns in damp cracks of old walls in the monsoon.",
@@ -3161,14 +3139,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the earthworm refuse to go to the beach?",
-   "a": "They didn't want to dry out on holiday."
-  },
-  {
-   "j": "What did the desert say to the rain?",
-   "a": "Long time, no sea!"
-  },
-  {
    "j": "Why did the frog love their pond?",
    "a": "It was un-frog-gettable."
   },
@@ -3181,20 +3151,8 @@
    "a": "Root beer."
   },
   {
-   "j": "Why did the camel bring a water bottle to school?",
-   "a": "Just in case they got a dry teacher."
-  },
-  {
    "j": "What do you call a crab that never shares their shell?",
    "a": "Shellfish."
-  },
-  {
-   "j": "Why did the owl move into the tree hollow?",
-   "a": "It was a hoot of a home."
-  },
-  {
-   "j": "How do trees get on the internet?",
-   "a": "They log in."
   },
   {
    "j": "Why was the sea so friendly?",
@@ -3209,62 +3167,26 @@
    "a": "It was a very cultured place."
   },
   {
-   "j": "What do you call a forest that only has two trees?",
-   "a": "A pair of trees."
-  },
-  {
-   "j": "Why did the desert fox stay home at noon?",
-   "a": "It was too hot to trot."
-  },
-  {
    "j": "Where do fish keep their money?",
    "a": "In the river bank."
-  },
-  {
-   "j": "Why did the lotus never get wet feet?",
-   "a": "They always stood above their troubles."
   },
   {
    "j": "What did the big tree say to the little tree?",
    "a": "Leaf me alone, I'm growing."
   },
   {
-   "j": "Why did the hornbill get a big beak?",
-   "a": "To pick the best fruit off the top shelf."
-  },
-  {
    "j": "Why are deserts never hungry?",
    "a": "Because of all the sand-wiches."
-  },
-  {
-   "j": "Why did the snail live under the tap?",
-   "a": "They liked a drip-ping good habitat."
-  },
-  {
-   "j": "Why did the tube worm never go out for lunch?",
-   "a": "Their bacteria cooked for them at home."
-  },
-  {
-   "j": "Why did the earthworm do so well at school?",
-   "a": "They always dug deep."
-  },
-  {
-   "j": "What do you call a pond with no frogs?",
-   "a": "Unhoppy."
-  },
-  {
-   "j": "Why did the mangrove stand on their roots?",
-   "a": "They didn't want to get their trunk wet."
   }
  ],
  "maths": [
   {
-   "problem": "In the five worlds test, the sunny path was 41 degrees Celsius. Under the stone, it was 29 degrees Celsius. How many degrees cooler was it under the stone?",
+   "problem": "In a made-up five worlds test, the sunny path was 41 degrees Celsius. Under the stone, it was 29 degrees Celsius. How many degrees cooler was it under the stone?",
    "answer": "12 degrees cooler.",
    "explain": "The path was 41 degrees. Under the stone was 29 degrees. 41 take away 29 is 12. You can check by counting on: 29 and 1 makes 30, and 11 more makes 41. 1 + 11 = 12.",
    "math_unit": "math.temperature.reading-thermometers.L3",
    "how": "e2",
-   "context": "This is about the five worlds test. You measured the temperature in five small places in one garden, at midday.",
+   "context": "The five worlds test is an outdoor experiment: you measure five small places in one garden. Here are made-up results from it.",
    "chart": {
     "type": "bar",
     "title": "Temperature on the path and under a stone",
@@ -3286,7 +3208,7 @@
    "why_maths": "Saying 'cooler' is a start. Finding the difference tells us how much cooler, which is how we know a microhabitat really has its own weather."
   },
   {
-   "problem": "In the three bowls experiment, a family tilted the bowls every 2 hours. The warm bowl had set at 6 hours. The counter bowl set at 10 hours. The fridge bowl was still runny at 24 hours. Where were the bacteria busiest? How many hours sooner did that bowl set than the counter bowl?",
+   "problem": "In a made-up three bowls test, a family gently tilted the bowls to check them every 2 hours. The warm bowl had set at 6 hours. The counter bowl set at 10 hours. The fridge bowl was still runny at 24 hours. Where were the bacteria busiest? How many hours sooner did that bowl set than the counter bowl?",
    "answer": "The warm bowl. It set 4 hours sooner than the counter bowl.",
    "explain": "The bowl that sets first is where the bacteria grew fastest. That is the warm bowl, at 6 hours. The counter bowl took 10 hours. 10 take away 6 is 4. So the warm bowl set 4 hours sooner. The fridge bowl had not set even after 24 hours, so the bacteria were slowest there.",
    "math_unit": "math.time.duration.L3",
@@ -3319,7 +3241,7 @@
    }
   },
   {
-   "problem": "In the tree water test, one leafy branch gave 2 teaspoons of water in one hour. A small tree has 10 branches like it. How much water might the whole tree give in one hour?",
+   "problem": "In a made-up tree water test, one leafy branch gave 2 teaspoons of water in one hour. A small tree has 10 branches like this one. How much water might the whole tree give in one hour?",
    "answer": "About 20 teaspoons.",
    "explain": "Each branch gave 2 teaspoons. There are 10 branches. 10 groups of 2 is 20. So the tree might give about 20 teaspoons in one hour. A big forest tree has many more branches, so they give much more.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -3328,12 +3250,12 @@
    "why_maths": "Multiplying lets us go from one branch to a whole tree, and then to imagine how much water a whole forest gives the air."
   },
   {
-   "problem": "In the Square Metre Safari, the lawn square had these kinds of living things: 2 kinds of grass, 2 kinds of small plants, 1 kind of ant and 1 kind of spider. The square under a tree had 14 kinds. How many more kinds were under the tree?",
+   "problem": "In a made-up Square Metre Safari, the lawn square had these kinds of living things: 2 kinds of grass, 2 kinds of small plants, 1 kind of ant and 1 kind of spider. The square under a tree had 14 kinds. How many more kinds were under the tree?",
    "answer": "8 more kinds.",
    "explain": "First add the lawn: 2 + 2 + 1 + 1 = 6 kinds. Then find the difference: 14 take away 6 is 8. So the square under the tree had 8 more kinds of living things.",
    "math_unit": "math.data.sorting-and-tallies.L3",
    "how": "a3",
-   "context": "This is about the Square Metre Safari. You marked out a square 1 metre on each side and counted the different kinds of living things inside it.",
+   "context": "The Square Metre Safari is an outdoor activity: you mark out a 1 metre square and count the kinds of living things in it. Here are made-up results from it.",
    "chart": {
     "type": "bar",
     "title": "Kinds of living things in two squares",
@@ -3482,8 +3404,7 @@
     "e4",
     "e2",
     "c1"
-   ],
-   "plan": "Used again in weather and materials units."
+   ]
   },
   {
    "id": "b-magnifier",
@@ -3525,8 +3446,7 @@
    "url": "https://www.amazon.in/s?k=book+of+indian+birds+salim+ali",
    "used_in": [
     "p1"
-   ],
-   "plan": "Keep it by the window during the Habitat Corner project, and look up each new bird together."
+   ]
   }
  ],
  "warmup": [
@@ -3615,9 +3535,7 @@
    "e4",
    "g1",
    "a2",
-   "e2",
    "ws-core",
-   "a3",
    "e3",
    "p1"
   ],
@@ -3668,7 +3586,7 @@
    "what_is_life": "Living things sense their surroundings and look for places that suit them. Curd bacteria wait in the cold and get busy again when it is warm.",
    "what_is_this_world": "The world is not empty places with a few homes in between. Almost every place is a home for someone, even if it is not a home for us."
   },
-  "thread": "All life comes from one source, and this source shows itself in countless forms. Habitats show how far that goes. Because each kind of life needs something different, life has found a way into almost every corner of the Earth: ponds, deserts, warm milk, your tummy and the dark sea floor. No single kind of life could fill the world alone. Together, the many kinds of life fill nearly every place there is.",
+  "thread": "Habitats show how much variety life has. Each kind of living thing needs something different, so life has found a way into almost every corner of the Earth: ponds, deserts, warm milk, your tummy and the dark sea floor. No single kind of life could fill the world alone. Together, the many kinds fill nearly every place there is.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 1",
@@ -3720,5 +3638,5 @@
   "when": "1976 (Crane's warm-water survey); 1977 (the first dives at the Galapagos vents); 1981 (Cavanaugh's tube worm finding)",
   "wrong_idea": "All life on Earth depends on sunlight, so the dark deep sea floor must have very little life. The vent crowds showed that a whole habitat can run on chemicals from inside the Earth instead."
  },
- "playtest": "The core path works in a city flat. The three bowls experiment (e4) needs only milk, curd, three bowls and a towel. Milk that feels just warm on the wrist sets in the warm bowl overnight. The fridge bowl stays runny, and sets once it is moved somewhere warm. The counter bowl depends on the season: it often sets in summer and stays thick or runny in winter, which is a good thing to talk about. If no bowl sets, the milk was too hot or the curd too old: try again. Under the Stone, Five Worlds, Square Metre Safari, the Nature Map and Nature Bingo are extras for families with a garden or a park, and each says what to do if nothing is found."
+ "playtest": "The core path works in a city flat. The three bowls experiment (e4) needs only milk, curd, three bowls and a towel. Milk that feels just warm on the wrist sets in the warm bowl overnight. The fridge bowl stays runny, and sets once it is moved somewhere warm. The counter bowl depends on the season: it often sets in summer and stays thick or runny in winter, which is a good thing to talk about. If no bowl sets, the milk was too hot or the curd too old: try again. The tree water experiment (e3) uses a potted plant in a sunny window or balcony, and gives fewer drops on a cool or cloudy day. Under the Stone, Five Worlds, Square Metre Safari, the Nature Map and Nature Bingo are extras for families with a garden or a park, and each says what to do if nothing is found."
 }

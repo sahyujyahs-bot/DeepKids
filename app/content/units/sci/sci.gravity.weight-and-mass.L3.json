@@ -26,7 +26,7 @@
    "term": "Gravity",
    "meaning": "The force by which everything attracts everything else. Attract means pull towards. Big things like the Earth attract very strongly. Small things attract too, but far too weakly to notice.",
    "example": "Gravity pulls a mango down from the tree. It also holds the Moon near the Earth.",
-   "art": "A mango falling from a tree, and far above it the Moon, with faint arrows from both pointing towards the Earth."
+   "art": "A mango falling from a tree, and far above the tree the Moon, with faint arrows from both pointing towards the Earth."
   },
   {
    "term": "Weight",
@@ -156,7 +156,7 @@
    "definition": "Weight is the pull of the Earth's gravity on a thing. It is a force, so it is measured in newtons.",
    "description": "Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. The unit on measuring forces shows how a forcemeter works. This unit is about what it measures.",
    "examples": [
-    "A mango drops from a tree because the Earth pulls it.",
+    "A mango drops from the tree because the Earth pulls the mango.",
     "A heavy school bag pulls down on your shoulders.",
     "A plumb line, a stone on a string, always hangs straight down, towards the centre of the Earth. Builders use one to make walls straight."
    ],
@@ -375,7 +375,6 @@
    "definition": "Astronauts float in the International Space Station because they and the station are falling together, all the time. Gravity up there is still about 90 out of every 100 parts as strong as on the ground.",
    "description": "The International Space Station flies about 400 kilometres above the Earth. That is about as far as driving from Chennai to Bengaluru, but straight up. The Earth's gravity there is only a little weaker than on the ground. So why do astronauts float? Because the station is falling. It also moves sideways incredibly fast, about 7.7 kilometres every second. As it falls, the round Earth curves away below it. So it keeps falling, and keeps missing. It goes round the Earth about 15 times every day. Everything inside falls together. Nothing pushes on the astronauts, so they feel weightless. The next unit, on orbits, explains this falling round and missing.",
    "examples": [
-    "In 2007, Sunita Williams, an astronaut whose father came from Gujarat, ran the Boston Marathon on a treadmill in the space station. Stretchy cords pulled her down onto the treadmill, so her feet had something to push on.",
     "Kalpana Chawla, from Karnal in Haryana, flew in space in 1997. She became the first woman of Indian origin in space.",
     "Astronauts drink from pouches with straws. Water will not pour out of a glass up there. It floats out in wobbly balls."
    ],
@@ -795,7 +794,7 @@
      "items": [
       "1 EARTH: start here",
       "2 ★ Earn a force card",
-      "3 Weight surge: you pick up a heavy load. Back 1 (Support Force beats it)",
+      "3 Weight surge: you pick up a heavy load and start to topple. Back 1 (Balance beats it)",
       "4 Rotten plank: it bends under your feet. Back 2 (Support Force beats it)",
       "5 Splashdown: you fall into a lake. Back 2 (Upthrust beats it)",
       "6 ★ Earn a force card",
@@ -806,7 +805,7 @@
       "11 Jupiter has no ground: you keep sinking. Back 3 (Sideways Speed beats it)",
       "12 Mass spike: someone hands you a sack of rice. Back 1 (Support Force beats it)",
       "13 Fact stop: say one true fact about weight, then move on",
-      "14 Trampoline: the push is bigger than your weight. Forward 2",
+      "14 Deep pit: you fall into a pit. Back 2 (Spring Push beats it)",
       "15 ★ Earn a force card",
       "16 Moon stop: you weigh one sixth here. Forward 1",
       "17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed beats it)",
@@ -845,9 +844,9 @@
      "kind": "cards",
      "title": "10 challenge cards, to earn force cards",
      "items": [
-      "Catch a falling friend: a grown-up leans back a hand's width into your hands. Earn SUPPORT FORCE.",
+      "Catch a falling friend: a grown-up stands close behind you. Lean back a hand's width into their hands. Earn SUPPORT FORCE.",
       "Press a wall, a cushion and a bucket of water. Which pushes back hardest? Earn SUPPORT FORCE.",
-      "Push an empty bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.",
+      "Push an empty plastic bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.",
       "Float a paper boat with 3 coins in it. Earn UPTHRUST.",
       "Press the flat end of a pencil, then its sharp point, gently into a ball of chapati dough. Which sinks in more? Earn SPREAD OUT.",
       "Tie a sock to a string and whirl it round in a circle, away from people. Earn SIDEWAYS SPEED.",
@@ -859,7 +858,7 @@
     },
     {
      "kind": "tokens",
-     "title": "4 counters, one for each player, and one dice",
+     "title": "4 counters to cut out, one for each player (you also need one dice)",
      "items": [
       "🧑‍🚀",
       "🪐",
@@ -869,12 +868,13 @@
     }
    ],
    "rules": [
-    "Before you start, each player does two challenge cards and earns two force cards.",
-    "Put your counter on EARTH. Take turns to roll the dice and move forward.",
-    "If you land on a gravity event, you must do what it says. But you can stop it by playing a force card that beats it. You must say how that force fights gravity.",
-    "If you land on a star, do any challenge card to earn a new force card.",
-    "If you land on a forward square, move forward as it says.",
-    "The first player to reach SPACE wins. But to win, they must answer one question. Is gravity still pulling you in space?"
+    "Before you start, each player does two challenge cards and takes the force cards they earn from the pile.",
+    "Put your counter on EARTH. Take turns to roll the dice and move forward. If you reach SPACE or go past it, you have arrived.",
+    "If you land on a gravity event, you must do what it says. But you can stop it by playing a force card that beats it. You must say how that force fights gravity. A WILD CARD beats any event if you explain the force you use.",
+    "If you land on a star, do any challenge card to earn the force card it names. Put the challenge card back at the bottom of its pile.",
+    "If you land on a forward square, move forward as it says. If a back move would take you past EARTH, stay on EARTH.",
+    "Played force cards go in a used pile. When the force pile is empty, shuffle the used pile and use it again.",
+    "The first player to reach SPACE must answer one question to win: is gravity still pulling you in space? A wrong answer means waiting one turn and trying again."
    ],
    "flow": [
     {
@@ -890,7 +890,7 @@
      "mins": 4,
      "do": "Play one practice turn together. Put a counter on square 5, Splashdown, and decide which card beats it.",
      "say": "Practice turn. You've fallen into a lake, square 5. Which force card saves you, and why?",
-     "kid": "Practice turn! You fell into a lake. Which force card saves you? Tap your answer.",
+     "kid": "Practice turn! You fell into a lake. Which force card saves you?",
      "check": {
       "t": "mcq",
       "q": "Splashdown: you fall into a lake. Which force card saves you?",
@@ -925,7 +925,7 @@
        ]
       }
      ],
-     "parent": "Accept any explanation that names a push or pull against gravity. On the Lift Going Up square, STEADY SPEED works because the extra heavy feeling comes only while the lift speeds up. Once it moves steadily, you feel normal again. On Trampoline, the stretched mat pushes up harder than your weight, so you shoot up."
+     "parent": "Accept any explanation that names a push or pull against gravity. On the Lift Going Up square, STEADY SPEED works because the extra heavy feeling comes only while the lift speeds up. Once it moves steadily, you feel normal again. On Deep Pit, SPRING PUSH works because a stretched spring or trampoline mat pushes up harder than your weight, so you shoot up. On Weight Surge, BALANCE works because staying steady over your feet stops a heavy load toppling you."
     },
     {
      "id": "s4",
@@ -974,28 +974,28 @@
    "title": "Pull Cards: who pulls hardest?",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a card game made from element cards. Each card is a thing in the universe, from a dust speck to a giant black hole. Its mass and energy are shown as arrows. Players compare pulls and guess what would happen to a person there.",
+   "context": "This is a card game made from element cards. Each card is a thing in the universe, from a dust speck to a giant black hole, with a pull number from 0 to 9. Players compare pulls and guess what would happen to a person there.",
    "printables": [
     {
      "kind": "cards",
      "title": "16 element cards to cut out",
      "items": [
-      "A DUST SPECK. Mass: a tiny dot. Pull: far too small to feel.",
-      "YOU. Mass: about 30 kilograms. Pull: tiny, but real. You pull the Earth too!",
-      "AN ELEPHANT. Mass: about 5,000 kilograms. Pull: still far too small to feel.",
-      "THE HIMALAYAS. Mass: huge. Pull: a plumb line near the mountains leans very slightly towards them.",
-      "A MOUNTAIN OF GRANITE. Mass: big. Heavy rock pulls a tiny bit harder.",
-      "QUICKSAND. Mass: medium. Wet sand gives way under your feet, so you sink in.",
-      "THE OCEAN. Mass: big. It pushes you up, so you feel light.",
-      "AN ASTEROID. Mass: a mountain's worth. Pull: so weak one jump could launch you into space.",
-      "THE MOON. Mass: ↑↑. Your weight: about one sixth of Earth's.",
-      "MARS. Mass: ↑↑. Your weight: a bit more than one third of Earth's.",
-      "THE EARTH. Mass: ↑↑↑. Your weight: about 300 newtons, if your mass is 30 kilograms.",
-      "JUPITER. Mass: ↑↑↑↑. No ground. Your weight at the cloud tops: about two and a half times Earth's.",
-      "THE SUN. Mass: ↑↑↑↑↑. No ground. Your weight at the surface: about 28 times Earth's.",
-      "A SMALL BLACK HOLE. Mass: ten Suns, squeezed tiny. Its pull would stretch you like a noodle.",
-      "A GIANT BLACK HOLE. Mass: millions of Suns. Even light cannot get out.",
-      "LIGHT. Mass: zero. Energy: yes! Gravity still bends its path."
+      "A DUST SPECK. Pull number: 0. It pulls you too, but far too weakly to feel.",
+      "YOU. Pull number: 0. You pull the Earth too, but far too weakly to feel.",
+      "AN ELEPHANT. Pull number: 0. Still far too small to feel.",
+      "AN ASTEROID. Pull number: 1. So weak that one jump could launch you into space.",
+      "THE HIMALAYAS. Pull number: 1. A plumb line near the mountains leans very slightly towards them.",
+      "THE MOON. Pull number: 2. Your weight there: about one sixth of your Earth weight.",
+      "MARS. Pull number: 3. Your weight there: a bit more than one third of your Earth weight.",
+      "VENUS. Pull number: 4. Solid ground. Your weight there: about nine tenths of your Earth weight.",
+      "THE EARTH. Pull number: 5. Your weight: about 300 newtons, if your mass is 30 kilograms.",
+      "QUICKSAND. Pull number: 5. The Earth's pull, but wet sand gives way under your feet, so you sink in.",
+      "THE OCEAN. Pull number: 5. The Earth's pull, but the water pushes you up, so you feel light.",
+      "JUPITER. Pull number: 6. No ground. Your weight at the cloud tops: about two and a half times your Earth weight.",
+      "THE SUN. Pull number: 7. No ground. Your weight at the surface: about 28 times your Earth weight.",
+      "A SMALL BLACK HOLE. Pull number: 9. The mass of ten Suns, squeezed tiny. Its pull would stretch you like a noodle.",
+      "A GIANT BLACK HOLE. Pull number: 9. The mass of millions of Suns. Even light cannot get out.",
+      "LIGHT. Pull number: 0. Light has no mass, but it has energy. Gravity still bends its path."
      ]
     },
     {
@@ -1007,39 +1007,27 @@
       "You float, because water holds you up.",
       "You bounce very high, because the pull is weak.",
       "You fall round and round in orbit, falling and missing.",
-      "You are squashed flat by a huge pull.",
+      "You are squashed flat, or stretched long, by a huge pull.",
       "You hardly notice any pull at all.",
       "Your path bends, but you keep going."
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Pull score sheet",
-     "items": [
-      "Round",
-      "Player 1 card",
-      "Player 2 card",
-      "Who pulls harder?",
-      "Outcome card played",
-      "Points"
      ]
     }
    ],
    "rules": [
-    "Shuffle the element cards. Deal 4 to each player. Spread the outcome cards face up in the middle.",
+    "Shuffle the element cards. Deal 4 to each player. Spread the outcome cards face up in the middle. Keep score on a sheet of paper.",
     "Each round, everyone puts down one element card at the same time.",
-    "The card with the strongest pull on a person wins the round and scores 1 point. Mass arrows help you decide. More mass close by means more pull.",
-    "Then each player picks the outcome card that fits their own card. A right outcome scores 1 extra point.",
-    "LIGHT is special. It always loses on pull, but if you can explain why gravity bends it, you score 2 points.",
-    "After 4 rounds, the player with the most points wins."
+    "The card with the biggest pull number wins the round, and its player scores 1 point. If two or more cards tie for biggest, each of those players scores 1 point.",
+    "Then each player picks the outcome card that fits what would happen to a person on their own card. A right outcome scores 1 extra point. Several players may pick the same outcome card. A grown-up decides if players disagree.",
+    "LIGHT has pull number 0, so it never wins on pull. But if its player can explain why gravity bends light, they score 2 points.",
+    "After 4 rounds, the player with the most points wins. Equal points means a shared win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the cards. 2. Shuffle the element cards and deal 4 to each player. 3. Spread the outcome cards face up.",
-     "say": "Every card is a thing in the universe. The more mass something has, the harder it pulls. Let's see who pulls hardest.",
-     "kid": "Get 4 element cards each. Look at the mass arrows. More arrows means more mass. More mass means a bigger pull.",
+     "say": "Every card is a thing in the universe. Big worlds pull you harder, and each card has a pull number. Let's see who pulls hardest.",
+     "kid": "Get 4 element cards each. Look at the pull number on each card. A bigger number means a harder pull.",
      "context": "This is the first step of Pull Cards. It is a card game about how hard different things in the universe pull, from a dust speck to a black hole."
     },
     {
@@ -1047,7 +1035,7 @@
      "mins": 4,
      "do": "Play a practice round with THE MOON and THE EARTH.",
      "say": "Practice round. The Moon against the Earth. Which pulls you harder? And which outcome card fits the Moon?",
-     "kid": "Practice! The Moon against the Earth. Which one pulls you harder? Tap it.",
+     "kid": "Practice! The Moon against the Earth. Which one pulls you harder?",
      "check": {
       "t": "mcq",
       "q": "Which pulls you harder when you stand on it, the Moon or the Earth?",
@@ -1066,7 +1054,7 @@
      "do": "1. Play 4 rounds. 2. Each round, everyone plays one card. 3. Decide the winner, then each player picks an outcome card.",
      "say": "Put your cards down together. Who pulls hardest? Now, what would happen to a person on your card?",
      "kid": "Put down a card. Who pulls hardest? Now pick the outcome that fits your card. What would happen to you there?",
-     "parent": "Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A black hole is tricky: up close, 'squashed' or stretched. Far away and moving sideways fast, 'falling round in orbit'.",
+     "parent": "Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Venus, Mars and the Earth, 'you land on solid ground'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A black hole is tricky: up close, 'squashed or stretched'. Far away and moving sideways fast, 'falling round in orbit'. Both black holes show 9 because nobody can stand safely near either.",
      "ask": [
       {
        "q": "The Sun has far more mass than Jupiter. Why can't you stand on either of them?",
@@ -1089,7 +1077,7 @@
    ],
    "setup": [
     {
-     "art": "Sixteen picture cards spread on a table: a dust speck, a child, an elephant, mountains, the ocean, the Moon, the Earth, Jupiter, the Sun, two black holes and a beam of light, each with arrows.",
+     "art": "Sixteen picture cards spread on a table: a dust speck, a child, an elephant, an asteroid, mountains, the Moon, Mars, Venus, the Earth, quicksand, the ocean, Jupiter, the Sun, two black holes and a beam of light, each with a pull number.",
      "caption": "1. Cut out the element cards and outcome cards."
     },
     {
@@ -1119,7 +1107,7 @@
    ],
    "materials": [
     {
-     "item": "a forcemeter that measures up to 10 or 20 newtons",
+     "item": "a forcemeter that measures up to 20 newtons",
      "qty": 1,
      "buy": "b-forcemeter"
     },
@@ -1322,7 +1310,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do this outside or in the bathroom. Wipe up spilled water so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -1482,7 +1469,7 @@
      "qty": 1
     },
     {
-     "item": "a lift in a block of flats, an office, a mall or a hospital",
+     "item": "a lift in a block of flats, an office, a mall or a hospital (no lift? move the forcemeter with your arm instead)",
      "qty": 1
     },
     {
@@ -1490,7 +1477,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes in the lift. Choose a quiet time, and do not get in anyone's way. Stand still, and keep the bag away from the doors.",
+   "safety": "A grown-up comes in the lift. Keep the bag away from the doors.",
    "schedule": [
     {
      "day": 1,
@@ -1513,11 +1500,11 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Get in the lift and press a button for a floor high up. 2. Hold the forcemeter still. 3. Watch the pointer as the lift starts, while it moves, and as it slows and stops. 4. Film it if you can.",
+     "do": "1. Get in the lift and press a button for a floor high up. 2. Hold the forcemeter still. 3. Watch the pointer as the lift starts, while it moves, and as it slows and stops. 4. Film it if you can. No lift? Hold the forcemeter in your hand and move it up quickly, then steadily, then slow it down, and watch the pointer.",
      "say": "Watch closely. The lift is starting. What is the pointer doing? Now we're moving steadily. And now we're slowing down.",
      "kid": "Watch the pointer! The lift starts. Up or down? Now it moves steadily. Now it slows. What happens each time?",
      "adult": true,
-     "parent": "Going up, the reading rises a little as the lift starts. It goes back to normal while the lift moves steadily. It dips a little as the lift slows at the top. Coming down, it is the other way round. The changes are small, often about half a newton to 1 newton. Filming helps.",
+     "parent": "Going up, the reading rises a little as the lift starts. It goes back to normal while the lift moves steadily. It dips a little as the lift slows at the top. Coming down, it is the other way round. The changes are small, often about half a newton to 1 newton, and a slow lift may show hardly any change. If you cannot see it, film the pointer and play it back slowly, or use the arm version, which gives a bigger change.",
      "chart": {
       "type": "line",
       "title": "Made-up example: a 1 kilogram bag on a forcemeter during a lift ride up",
@@ -1666,7 +1653,7 @@
    "days": 1,
    "question": "Does a falling thing still press on what is holding it?",
    "predict": "Guess first. If we drop a leaking bottle of water, will the water keep squirting out while it falls? If we drop coins hanging on a rubber band, will the band stay stretched? Why do you think so?",
-   "fair_test": "Drop each thing from the same height, about as high as a grown-up's head, onto the same soft landing place. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.",
+   "fair_test": "Drop each thing from the same height, about as high as a grown-up's head. Drop the water bottle into the bucket and the coin bottle onto the pillow. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.",
    "results_table": [
     "What we dropped",
     "Before the drop: what happened?",
@@ -1736,7 +1723,7 @@
      "do": "1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.",
      "say": "The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls?",
      "kid": "The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched?",
-     "parent": "If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero."
+     "parent": "If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this one is harder to see than the leaking bottle. Film it in slow motion and play it back. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero."
     },
     {
      "id": "s4",
@@ -1899,7 +1886,7 @@
      "qty": 1
     }
    ],
-   "safety": "Put the scales on a hard, flat floor. Stand on them slowly, and hold a grown-up's hand when you lean or stand on one leg.",
+   "safety": "Put the scales on a hard, flat floor. Hold a grown-up's hand when you lean or stand on one leg.",
    "schedule": [
     {
      "day": 1,
@@ -1975,15 +1962,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a long dupatta or a towel",
-     "qty": 1
-    },
-    {
-     "item": "a pillow and some open space",
+     "item": "a long dupatta or a towel, and some open space",
      "qty": 1
     }
    ],
-   "safety": "Press down gently, never hard. Do the floating part on a soft mattress or carpet.",
+   "safety": "Pull down very gently, never hard.",
    "schedule": [
     {
      "day": 1,
@@ -2056,7 +2039,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needed.",
    "schedule": [
     {
      "day": 1,
@@ -2213,49 +2195,50 @@
      "qty": 1
     }
    ],
-   "safety": "Wash your hands after touching the seeds. Don't eat seeds that have been used in the experiment.",
+   "safety": "Wash your hands after touching the seeds. Don't eat seeds that have grown in the jar.",
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Soak the seeds. Line the jar with wet paper. Push the seeds between the paper and the glass."
+     "mins": 5,
+     "what": "In the evening, soak the seeds in water overnight."
     },
     {
      "day": 2,
      "mins": 5,
-     "what": "Look for tiny roots. Draw them. Keep the paper wet."
+     "what": "Line the jar with wet paper. Push the seeds between the paper and the glass."
     },
     {
      "day": 3,
+     "mins": 5,
+     "what": "Look for tiny roots. Draw them. Keep the paper wet."
+    },
+    {
+     "day": 4,
      "mins": 10,
      "what": "When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points."
     },
     {
-     "day": 4,
+     "day": 5,
      "mins": 5,
      "what": "Look again. Have the roots bent? Draw them."
     },
     {
-     "day": 5,
-     "mins": 5,
-     "what": "Look again, and draw them."
-    },
-    {
      "day": 6,
-     "mins": 10,
-     "what": "Compare all your drawings. Talk about how a root knows which way is down."
+     "mins": 15,
+     "what": "Look and draw once more. Then compare all your drawings and talk about how a root knows which way is down."
     }
    ],
    "record": "Draw the roots every day. Use an arrow to show which way is down. Write the day under each drawing.",
-   "context": "In this 6-day project you grow moong or chana seeds in a jar, then lay the jar on its side. You watch the roots bend to grow downwards again, and find out how plants feel which way is down.",
+   "context": "In this 6-day project you soak moong or chana seeds, grow them in a jar, then lay the jar on its side. You watch the roots bend to grow downwards again, and find out how plants feel which way is down.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Soak 6 moong or chana seeds in water overnight. 2. Line the inside of a clear jar with wet kitchen paper. 3. Push the seeds between the paper and the glass, so you can see them. 4. Put a little water in the bottom.",
+     "do": "1. In the evening, soak 6 moong or chana seeds in water. 2. Next day, line the inside of a clear jar with wet kitchen paper. 3. Push the seeds between the paper and the glass, so you can see them. 4. Put a little water in the bottom.",
      "say": "Plants have no eyes. But they always know which way is down. Let's find out how good they are at it.",
-     "kid": "Line a jar with wet paper. Push the soaked seeds between the paper and the glass. Keep the paper wet.",
-     "context": "This is the first step of The Root That Knows Which Way Is Down. You grow seeds in a clear jar, so you can watch their roots."
+     "kid": "Soak the seeds overnight. Next day, line a jar with wet paper. Push the soaked seeds between the paper and the glass. Keep the paper wet.",
+     "context": "This is the first step of The Root That Knows Which Way Is Down. You grow seeds in a clear jar, so you can watch their roots.",
+     "wait": "Soak the seeds overnight first."
     },
     {
      "id": "s2",
@@ -2275,8 +2258,8 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Look at the roots each day for three days. Draw them each time.",
-     "wait": "Check once a day for 3 days.",
+     "do": "Look at the roots on each of the next two days. Draw them each time.",
+     "wait": "Check once a day for 2 days.",
      "say": "Have the roots turned? Which way?",
      "kid": "Look every day. Have the roots bent? Which way are they growing now? Draw them.",
      "check": {
@@ -2336,13 +2319,12 @@
     "a phone timer"
    ],
    "general": [
-    "Push each thing with the same small push, and see how fast it moves. A bigger mass speeds up less.",
+    "Hang each thing from a long string and give each one the same small flick with a finger. A bigger mass swings out less.",
     "Tape the thing to the end of a ruler held over a table edge. Twang the ruler and watch. A bigger mass makes it wobble more slowly.",
     "Astronauts really do this. Since the 1970s, they have sat in a special chair on a spring and rocked back and forth. A computer times the rocking to find each person's mass."
    ],
    "creative": [
-    "Tie each thing to a rubber band and whirl it round at the same speed. A bigger mass stretches the band more.",
-    "Roll each thing at the same speed into a paper cup and see how far the cup moves.",
+    "Tie each thing to a rubber band and whirl it round at the same speed, away from people. A bigger mass stretches the band more.",
     "Use a stretchy rubber band to catapult each thing gently along the floor. Lighter things fly further."
    ],
    "your_turn": "Now invent your own way to compare masses without weight. Draw it, test it on three things, and explain why it would work in the space station.",
@@ -2351,7 +2333,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Explain the problem. Hold up a forcemeter and remind your child what it reads when it falls.",
+     "do": "Explain the problem. Remind your child of the falling bottle: the water stopped pressing on it. A forcemeter dropped onto a pillow also reads zero while it falls.",
      "say": "In the space station, a forcemeter reads zero for everything. But an astronaut still has mass. How could a doctor find it?",
      "kid": "In space, a forcemeter reads zero for everything. But things still have mass. How can we compare them?",
      "context": "This is the first step of Weigh It in Space. You must find a way to compare masses that would work even where nothing has weight you can feel."
@@ -2428,7 +2410,7 @@
     "A wider boat pushes more water aside, so the water can push up harder."
    ],
    "creative": [
-    "Copy the shape of the giant makhana leaf: very wide and flat, with a little rim.",
+    "Copy the shape of the giant makhana leaf (a pond plant with leaves wider than a table): very wide and flat, with a little rim.",
     "Make a second raft with slightly higher walls, and see if it holds more coins.",
     "Add coins in rings from the middle outwards."
    ],
@@ -2468,7 +2450,7 @@
      "do": "1. Build the raft. 2. Float it. 3. Add coins one at a time, spread out. 4. Count until it sinks. 5. Change the design and try again.",
      "say": "Add the coins one at a time. Count out loud. How many before it sinks?",
      "kid": "Float your raft. Add coins one at a time. Count! How many before it sinks? Then try a better design.",
-     "parent": "Good rafts with low, wide walls can hold more than 100 coins, so you may run out. If you do, add spoonfuls of dry chana instead, and count the spoons. The raft sinks when water spills over the edge, or when one side dips."
+     "parent": "A good raft with low, wide walls can hold 50 coins or more, so you may run out. If you do, add spoonfuls of dry chana instead, and count the spoons. The raft sinks when water spills over the edge, or when one side dips."
     },
     {
      "id": "s4",
@@ -2723,7 +2705,7 @@
        "says": "A bag is heavy because the Earth pulls it hard. On the Moon, the same bag would be light."
       },
       {
-       "who": "Paati, their grandmother",
+       "who": "Paati, Kavya's grandmother",
        "says": "A bag is heavy when it is hard to hold up. It feels lighter in the river and heavier when the lift starts up."
       }
      ],
@@ -2933,7 +2915,7 @@
     {
      "t": "truefalse",
      "p": "In a lift moving upwards at a steady speed, a bag on a forcemeter reads just the same as when the lift is standing still.",
-     "a": true,
+     "a": "True",
      "why": "True. Only speeding up or slowing down changes the reading. At a steady speed, the spring pulls up just as hard as gravity pulls down.",
      "how": "e3",
      "context": "In the lift experiment, you hang a 1 kilogram bag from a forcemeter during a lift ride and watch the reading."
@@ -3063,30 +3045,6 @@
      "context": "This question is about weight on other worlds. A child with a mass of 30 kilograms keeps that mass everywhere, but her weight changes."
     },
     {
-     "t": "order",
-     "p": "Put these in order of how much a 30 kilogram child would weigh, from least to most: Earth, Moon, Mars, Jupiter's cloud tops.",
-     "items": [
-      "Moon",
-      "Mars",
-      "Earth",
-      "Jupiter's cloud tops"
-     ],
-     "a": "order shown",
-     "why": "The Moon pulls weakest, about 49 newtons. Then Mars, about 111. Then the Earth, about 294. Jupiter's cloud tops pull hardest, about 744.",
-     "context": "This question is about weight on other worlds. A child with a mass of 30 kilograms keeps that mass everywhere, but her weight changes."
-    },
-    {
-     "t": "mcq",
-     "p": "Some people say the space station is in a place with no gravity. What shows they are wrong?",
-     "opts": [
-      "The station keeps going round the Earth instead of flying off in a straight line",
-      "The astronauts float",
-      "It is very cold up there"
-     ],
-     "a": 0,
-     "why": "Without gravity, the station would fly off in a straight line into space. Gravity bends its path into a circle round the Earth. Picking 'the astronauts float' is the mistake itself: they float because they are falling, not because gravity is gone."
-    },
-    {
      "t": "forces",
      "p": "An astronaut floats inside the space station. Show the forces on her. Careful: is anything pushing on her?",
      "obj": "an astronaut floating in the space station",
@@ -3195,7 +3153,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A child in Chennai, near the equator, weighs a tiny bit less than she would at the North Pole. The equator is the line round the fattest part of the Earth.",
+     "p": "A child standing on the equator weighs a tiny bit less than she would at the North Pole. The equator is the line round the fattest part of the Earth.",
      "a": true,
      "why": "True. The Earth bulges a little round the equator, so you are further from its centre, and the Earth's spin flings you outwards a little. Together, these make you weigh about half a percent less. Your mass is just the same."
     },
@@ -3332,14 +3290,6 @@
      "context": "Antimatter is a strange mirror version of the matter we are made of. For many years, nobody knew which way gravity would pull it."
     },
     {
-     "t": "write",
-     "p": "Lie on your bed for one minute. Then sit on a chair for one minute. Which parts of your body are being pushed up in each case? Which feels more restful, and why?",
-     "lines": 4,
-     "a": "A strong answer says lying down, the bed pushes up on my head, back, bottom and legs. Sitting, the chair pushes mostly on my bottom, and the floor on my feet. Lying feels more restful, because the push is spread over more of me, so no part is pressed hard.",
-     "why": "The same weight spread over a bigger area presses less on each part. This is the support force at work.",
-     "how": "a1"
-    },
-    {
      "t": "draw",
      "p": "Draw the space station going round the Earth. Draw an arrow for gravity's pull on it, and an arrow for the way it is moving.",
      "a": "The gravity arrow points from the station to the centre of the Earth. The movement arrow points sideways, along the circle.",
@@ -3373,19 +3323,6 @@
    "a": 0,
    "why": "Kilograms measure mass, the amount of matter. The Earth's pull on the bag is its weight, about 30 newtons.",
    "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "On Earth, about what does a 2 kilogram bag of atta read on a forcemeter?",
-   "opts": [
-    "About 20 newtons",
-    "About 2 newtons",
-    "About 200 newtons"
-   ],
-   "a": 0,
-   "why": "On Earth, each kilogram weighs about 10 newtons. 2 times 10 is 20 newtons.",
-   "outcome": 1,
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -3583,12 +3520,12 @@
  ],
  "videos": [
   {
-   "title": "Why Gravity is NOT a Force",
+   "title": "What Everyone Gets Wrong About Gravity",
    "channel": "Veritasium",
    "youtube": "XRr1kaXKBsU",
    "mins": 17,
    "why": "For the parent, and curious older children. It explains why a falling person feels weightless. It also shows Einstein's idea that the floor's push is what we feel as weight. It links to the three meanings of weight.",
-   "check": "Video id recalled, not opened from here. A parent should check that it plays and is the Veritasium video with this title before showing it. Watch the first 10 minutes. The end goes further than this unit needs."
+   "check": "Watch the first 10 minutes. The end goes further than this unit needs."
   },
   {
    "title": "A tour of the International Space Station, with Sunita Williams",
@@ -3596,7 +3533,7 @@
    "youtube": "doN4t5NKW-k",
    "mins": 25,
    "why": "Shows astronauts floating, drinking from pouches, sleeping strapped to walls and exercising on the treadmill with stretchy cords. Watch any 5 to 10 minutes together.",
-   "check": "Found by YouTube search: \"Departing Space Station Commander Provides Tour of Orbital Laboratory\" by NASA. Title checked automatically; a parent may still preview it."
+   "check": "Preview it first, and pick the parts that suit your child."
   },
   {
    "title": "A bathroom scale in a lift: a demonstration",
@@ -3604,7 +3541,7 @@
    "youtube": "yvCdVO3dysQ",
    "mins": 3,
    "why": "Shows a scale's reading going up as a lift starts and down as it slows, the same as the forcemeter in the lift experiment.",
-   "check": "Found by YouTube search: \"Bathroom scales on the elevator\" by KoonPhysics. Title checked automatically; a parent may still preview it."
+   "check": "Short enough to watch twice."
   }
  ],
  "applications": [
@@ -3695,9 +3632,9 @@
  ],
  "ask_kids": [
   "What is holding you up right now?",
-  "Is the Earth pulling this mango harder than that grape? How could we find out?",
+  "Is the Earth pulling a mango harder than a grape? How could we find out?",
   "If you could weigh yourself on the Moon, would you be less of you?",
-  "Did you feel heavier or lighter in the lift just now? When exactly?",
+  "Did you feel heavier or lighter as a lift started and stopped? When exactly?",
   "Why do you feel so light in a pool, and so heavy when you climb out?",
   "When a ball falls, has its weight gone? What has changed?",
   "Is the space station falling right now? Why doesn't it land?",
@@ -3717,64 +3654,16 @@
    "a": "Don't worry, I've got your back. Well, your feet."
   },
   {
-   "j": "Why was the forcemeter so calm?",
-   "a": "It always waited until things settled down."
-  },
-  {
    "j": "What do you call a lazy kilogram?",
    "a": "A dead weight."
-  },
-  {
-   "j": "Why did the bag of rice go to the Moon?",
-   "a": "It wanted to lose weight without losing any rice."
-  },
-  {
-   "j": "Why can't astronauts fall over in the space station?",
-   "a": "They are already falling, all the time."
-  },
-  {
-   "j": "What did the stone say when it went into the bucket?",
-   "a": "Water relief!"
-  },
-  {
-   "j": "Why did the lift feel so heavy in the morning?",
-   "a": "It had a lot on its floors."
-  },
-  {
-   "j": "What do you call a newton that tells jokes?",
-   "a": "A force of humour."
-  },
-  {
-   "j": "Why didn't the makhana leaf sink?",
-   "a": "It knew how to spread itself out."
-  },
-  {
-   "j": "Why did the student bring a scale to the swimming pool?",
-   "a": "She wanted to see the water hold her up."
   },
   {
    "j": "What did gravity say to the apple?",
    "a": "I'm really falling for you."
   },
   {
-   "j": "Why did the spring balance go to school?",
-   "a": "To get a little more stretch in its learning."
-  },
-  {
-   "j": "Why did the black hole never finish its dinner?",
-   "a": "It kept pulling in more."
-  },
-  {
    "j": "What did the Earth say to the Moon?",
    "a": "You're so attractive!"
-  },
-  {
-   "j": "Why doesn't the space station ever land?",
-   "a": "It is too busy falling round the Earth."
-  },
-  {
-   "j": "Which is heavier, a kilogram of cotton or a kilogram of iron?",
-   "a": "Neither! But the cotton needs a much bigger bag."
   },
   {
    "j": "Why did the guru go on a diet?",
@@ -3785,16 +3674,8 @@
    "a": "It never lets you down. Well, it always pulls you down."
   },
   {
-   "j": "What did one kilogram say to the other?",
-   "a": "We have a lot in common: about 10 newtons each!"
-  },
-  {
    "j": "Why did the bathroom scale feel sad in the lift?",
    "a": "It had its ups and downs."
-  },
-  {
-   "j": "Why don't astronauts tell heavy jokes?",
-   "a": "Nothing lands up there."
   },
   {
    "j": "What's a forcemeter's favourite part of the day?",
@@ -3803,30 +3684,6 @@
   {
    "j": "Why did the stone love the swimming pool?",
    "a": "The water took a load off its mind."
-  },
-  {
-   "j": "Why did Jupiter never stand up for itself?",
-   "a": "It didn't have any ground to stand on."
-  },
-  {
-   "j": "Why was the falling bottle so quiet?",
-   "a": "It had stopped leaking secrets."
-  },
-  {
-   "j": "What did the root say to the seed?",
-   "a": "I'm feeling really down today, in a good way."
-  },
-  {
-   "j": "What do you call a light beam that bends near the Sun?",
-   "a": "A sunny detour."
-  },
-  {
-   "j": "Why did the child want her birthday party on the Moon?",
-   "a": "So everyone could jump six times higher."
-  },
-  {
-   "j": "Why did the rubber band let go in the falling bottle?",
-   "a": "There was no weight on its shoulders any more."
   }
  ],
  "maths": [
@@ -4041,7 +3898,7 @@
  "song": {
   "topic_level": "sci.gravity.L3",
   "title": "Gravity",
-  "note": "The founder's Gravity song"
+  "note": "A song about gravity."
  },
  "links": [
   {
@@ -4128,25 +3985,23 @@
    "id": "b-forcemeter",
    "item": "Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons",
    "kind": "tool",
-   "why": "A forcemeter weighs things in newtons. You use it in the kilogram, stone and lift experiments.",
+   "why": "A forcemeter weighs things in newtons. You use it in the kilogram, stone and lift experiments. Look for one marked in newtons (N), often sold as a school spring balance. If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton.",
    "url": "https://www.amazon.in/s?k=spring+balance+newton+meter+school",
    "used_in": [
     "e1",
     "e2",
     "e3"
-   ],
-   "plan": "Already bought for the Forcemeters and newtons unit? Use the same one. Look for one marked in newtons (N), often sold as a school spring balance. If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton."
+   ]
   },
   {
    "id": "b-kitchenscale",
    "item": "Digital kitchen scale, up to 5 kilograms",
    "kind": "tool",
-   "why": "Weighs rice in grams for the kilogram experiment, so you can compare grams with newtons.",
+   "why": "Weighs rice in grams for the kilogram experiment, so you can compare grams with newtons. No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram rice packet.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
    "used_in": [
     "e1"
-   ],
-   "plan": "No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram rice packet."
+   ]
   },
   {
    "id": "b-bathroomscale",
@@ -4157,38 +4012,6 @@
    "used_in": [
     "a2"
    ]
-  },
-  {
-   "id": "b-foil",
-   "item": "Aluminium foil roll",
-   "kind": "material",
-   "why": "For building rafts in The Coin Raft challenge.",
-   "url": "https://www.amazon.in/s?k=aluminium+foil+roll",
-   "used_in": [
-    "c2"
-   ]
-  },
-  {
-   "id": "b-book1",
-   "item": "Gravity, by Jason Chin",
-   "kind": "book",
-   "why": "A beautiful picture book about what gravity holds together, and what would happen without it.",
-   "url": "https://www.amazon.in/s?k=Gravity+Jason+Chin",
-   "used_in": [
-    "g1"
-   ],
-   "plan": "If bought, read it together on the first day, before the Escape Gravity game."
-  },
-  {
-   "id": "b-book2",
-   "item": "Floating in Space, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)",
-   "kind": "book",
-   "why": "A picture book about how astronauts live, eat, sleep and exercise while floating in space.",
-   "url": "https://www.amazon.in/s?k=Floating+in+Space+Franklyn+Branley",
-   "used_in": [
-    "a3"
-   ],
-   "plan": "If bought, read it just before The Space Marathon play. Its exercise pages go with the step about bones."
   }
  ],
  "warmup": [
@@ -4254,6 +4077,7 @@
    "intro",
    "terms",
    "e1",
+   "p1",
    "g1",
    "explanations",
    "a2",
@@ -4263,7 +4087,6 @@
    "e3",
    "e4",
    "a5",
-   "p1",
    "agreed",
    "challenging",
    "a3",

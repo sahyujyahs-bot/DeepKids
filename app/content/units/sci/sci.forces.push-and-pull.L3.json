@@ -402,7 +402,7 @@
   },
   {
    "text": "Forces change motion. A force is needed to start, stop, speed up, slow down or turn something, but not to keep it moving.",
-   "evidence": "Voyager 1 was launched in 1977. Since 1980, no engine has pushed it forward, yet it keeps coasting away from the Sun. On Earth, things only stop because friction and air push against them."
+   "evidence": "On Earth, things only stop because friction and air push against them. A carrom coin slides much further on a powdered board than on a bare one."
   },
   {
    "text": "Forces come in pairs that are equal in size and opposite in direction.",
@@ -422,7 +422,7 @@
    "claim": "A moving thing needs a push to keep it going.",
    "who": "Aristotle, a Greek thinker, about 2,350 years ago. Most of us also feel this without noticing.",
    "for": "Push a box and stop pushing, and it stops. A cycle slows down when you stop pedalling.",
-   "against": "Things only stop because friction and air push against them. Galileo saw that a ball rolls further on smoother ground. In space, with nothing to slow it, a pushed thing keeps going. Voyager 1 has coasted since 1980, with no engine pushing it forward.",
+   "against": "Things only stop because friction and air push against them. Galileo saw that a ball rolls further on smoother ground. In space, with nothing to slow it, a pushed thing keeps going.",
    "status": "rejected",
    "context": "This card is about a very old idea of how pushing and moving are linked."
   },
@@ -454,7 +454,7 @@
    "claim": "Gravity is not really a pull at all. Heavy things bend space and time, and other things follow the bends.",
    "who": "Albert Einstein, in 1915",
    "for": "His idea predicted that starlight would bend round the Sun. This was seen in 1919, and in many experiments since. Satellite navigation in phones must use his idea, or it goes wrong.",
-   "against": "Thinking of gravity as Newton's pull still works almost everywhere, and engineers use it to send spacecraft to other planets. Some physicists hope to describe gravity as a force carried by particles, like the other forces. Nobody has managed it yet.",
+   "against": "Thinking of gravity as Newton's pull still works almost everywhere, and engineers use it to send spacecraft to other planets.",
    "status": "accepted",
    "context": "Most of us learn that gravity is a pull. This card is about a famous idea that says it is something stranger."
   },
@@ -474,24 +474,9 @@
    "hint": "Push your palm against a friend's palm. What do you feel? Is feeling a kind of seeing?"
   },
   {
-   "q": "When you jump, you pull the whole Earth up towards you a tiny bit. Why don't you notice?",
-   "kind": "deep",
-   "hint": "Think of an ant pushing an elephant. Who moves more?"
-  },
-  {
    "q": "If you push a wall, the wall pushes back. Is the wall doing it on purpose?",
    "kind": "deep",
    "hint": "Does a thing need to be alive, or to want something, to push?"
-  },
-  {
-   "q": "A rope can only pull, and a muscle can only pull. How does your body push a door, if all its muscles only pull?",
-   "kind": "deep",
-   "hint": "Watch your arm straighten. Which muscle is pulling now, and where does it pull the bone?"
-  },
-  {
-   "q": "In a tug of war, the rope pulls both teams equally. So what decides who wins?",
-   "kind": "deep",
-   "hint": "Look down, not at the rope. Where are the winners' feet?"
   },
   {
    "q": "The Sun pulls the Earth, the Earth pulls you, and you pull everything around you. Is anything in the universe truly alone?",
@@ -550,7 +535,7 @@
    "Afterwards, the boatmen's captain came to look at the arrows in the mud. He was a big man with a grey moustache. He crouched beside Anjali, and she explained the arrows to him. He nodded slowly and scratched his head.",
    "Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coconut. For eleven years, everybody watched me. Everybody thought the answer was in the rope. A girl of nine was the first one to look at the ground. Somewhere in me there is a twist her grandmother made. I like to think it held on a little tighter today."
   ],
-  "epiphany": "For the parent: the rope is pulled equally at both ends, so 'pulling harder on the rope' cannot be what wins. Every pull needs a push. Each team's feet push the ground towards the middle, and the ground pushes the team back the other way. Whichever team gets the bigger push from the ground wins. Anjali solves it by drawing force arrows: the way she wants to go, and the opposite way her feet must push. The story also asks who notices things, and whose hands made what everyone else uses.",
+  "epiphany": "For the parent: the rope is pulled equally at both ends, so 'pulling harder on the rope' cannot be what wins. Every pull needs a push. Each team's feet push the ground towards the middle, and the ground pushes the team back the other way. Whichever team gets the bigger push from the ground wins. Anjali solves it by drawing force arrows: the way she wants to go, and the opposite way her feet must push.",
   "ask": [
    "The rope says it is always pulled equally hard at both ends. If that is true, how can one team win?",
    "Anjali drew two arrows in the mud. Which way did each one point, and why?",
@@ -571,29 +556,66 @@
    "id": "g1",
    "title": "Arrow Wars: the tug of war card game",
    "mins": 20,
-   "players": "2 players, or one child playing against the app",
+   "players": "2 players, or 4 players in two teams of two",
    "printables": [
     {
      "kind": "cards",
      "title": "30 arrow cards to cut out",
      "items": [
-      "Arrow length 1 (a gentle pull), 8 cards",
-      "Arrow length 2 (a medium pull), 8 cards",
-      "Arrow length 3 (a strong pull), 6 cards",
-      "Arrow length 4 (a very strong pull), 4 cards",
-      "SWAP: swap one of your arrows with your opponent's",
+      "Arrow length 1, a gentle pull (card 1 of 8)",
+      "Arrow length 1, a gentle pull (card 2 of 8)",
+      "Arrow length 1, a gentle pull (card 3 of 8)",
+      "Arrow length 1, a gentle pull (card 4 of 8)",
+      "Arrow length 1, a gentle pull (card 5 of 8)",
+      "Arrow length 1, a gentle pull (card 6 of 8)",
+      "Arrow length 1, a gentle pull (card 7 of 8)",
+      "Arrow length 1, a gentle pull (card 8 of 8)",
+      "Arrow length 2, a medium pull (card 1 of 8)",
+      "Arrow length 2, a medium pull (card 2 of 8)",
+      "Arrow length 2, a medium pull (card 3 of 8)",
+      "Arrow length 2, a medium pull (card 4 of 8)",
+      "Arrow length 2, a medium pull (card 5 of 8)",
+      "Arrow length 2, a medium pull (card 6 of 8)",
+      "Arrow length 2, a medium pull (card 7 of 8)",
+      "Arrow length 2, a medium pull (card 8 of 8)",
+      "Arrow length 3, a strong pull (card 1 of 6)",
+      "Arrow length 3, a strong pull (card 2 of 6)",
+      "Arrow length 3, a strong pull (card 3 of 6)",
+      "Arrow length 3, a strong pull (card 4 of 6)",
+      "Arrow length 3, a strong pull (card 5 of 6)",
+      "Arrow length 3, a strong pull (card 6 of 6)",
+      "Arrow length 4, a very strong pull (card 1 of 4)",
+      "Arrow length 4, a very strong pull (card 2 of 4)",
+      "Arrow length 4, a very strong pull (card 3 of 4)",
+      "Arrow length 4, a very strong pull (card 4 of 4)",
+      "SLIP: your opponent's longest arrow counts 0 this round",
+      "SWAP: swap one of your arrows with one of your opponent's, before adding up",
       "PUSH THE GROUND: double your shortest arrow this round",
-      "SLIP: your opponent's longest arrow is cancelled",
-      "FRIEND JOINS: add one more card from the pile"
+      "FRIEND JOINS: turn over the top card of the pile and add its length"
      ]
     },
     {
      "kind": "board",
-     "title": "A tug of war board",
+     "title": "A tug of war board: 11 squares in a row, with a rope drawn along them",
      "items": [
-      "A rope drawn across the middle, with a chalk line in the centre",
-      "5 squares on each side of the line, numbered 1 to 5",
-      "A marker token for the middle of the rope"
+      "Square 5 on the first player's side: the first player wins here",
+      "Square 4 on the first player's side",
+      "Square 3 on the first player's side",
+      "Square 2 on the first player's side",
+      "Square 1 on the first player's side",
+      "The chalk line in the middle: the marker starts here",
+      "Square 1 on the second player's side",
+      "Square 2 on the second player's side",
+      "Square 3 on the second player's side",
+      "Square 4 on the second player's side",
+      "Square 5 on the second player's side: the second player wins here"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "A rope marker to cut out",
+     "items": [
+      "Rope marker: a small paper circle with a knot drawn on it"
      ]
     },
     {
@@ -609,19 +631,20 @@
     }
    ],
    "rules": [
-    "Put the rope marker on the chalk line. Shuffle the arrow cards and deal 5 to each player.",
-    "Each round, both players secretly choose 2 arrow cards and lay them face down on their side of the rope.",
-    "Turn the cards over. Each player adds up the lengths of their arrows.",
-    "Take the smaller total from the bigger total. Move the rope marker that many squares towards the player with the bigger total.",
+    "Put the rope marker on the chalk line. Shuffle the 30 cards and put them face down in a pile. Deal 5 cards to each player. With 4 players, play as two teams of two. Each team chooses its cards together.",
+    "Each round, both players secretly choose 2 cards from their hand. Lay them face down on your side of the rope.",
+    "Turn the cards over. An arrow card counts its length. A special card counts nothing by itself. A special card with no arrow to act on does nothing.",
+    "Do the special cards in this order: SLIP, SWAP, PUSH THE GROUND, FRIEND JOINS. If both players play the same special card, both of them happen.",
+    "Each player adds up their arrows. Take the smaller total from the bigger total. Move the rope marker that many squares towards the player with the bigger total.",
     "If the totals are the same, the forces are balanced. The marker does not move.",
-    "Special cards change the round as they say. Draw back up to 5 cards after each round.",
-    "The first player to pull the marker onto their square 5 wins."
+    "Put the used cards in a discard pile. Draw back up to 5 cards. When the pile runs out, shuffle the discard pile to make a new pile.",
+    "The first player to pull the marker onto their square 5 wins. If the marker would go past square 5, it stops on square 5. If nobody has won after 10 rounds, the player whose side the marker is on wins."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the board on the floor or a table. 2. Put the marker on the chalk line. 3. Shuffle the arrow cards and deal 5 to each player.",
+     "do": "1. Lay the board on the floor or a table. 2. Put the rope marker on the chalk line. 3. Shuffle the arrow cards and deal 5 to each player.",
      "say": "Each arrow card is a pull on the rope. A longer arrow is a bigger pull. Each round, you both pull with two cards. Let's see which way the rope goes.",
      "kid": "Put the marker on the middle line. Deal 5 cards each. Each arrow is a pull. A longer arrow pulls harder.",
      "context": "This is the first step of Arrow Wars, a card game about tug of war. You add up force arrows to find which way the rope moves."
@@ -672,10 +695,10 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Count who won. Then ask the big question.",
-     "say": "In a real tug of war, the rope pulls both teams equally hard. So what really decides who wins?",
-     "kid": "Who won? Now a puzzle. A real rope pulls both teams equally. So what really decides the winner?",
-     "parent": "A good answer: the team that pushes harder on the ground with their feet. The ground pushes them back, away from the middle. If your child is unsure, leave it as a puzzle. The story and the Push the Wall experiment come back to it."
+     "do": "Count who won. Then look at the totals of the last round together.",
+     "say": "Look at the last round. Whose total was bigger, and by how much? That difference is the pull that moved the rope.",
+     "kid": "Who won? Look at the last round. Whose total was bigger, and by how much?",
+     "parent": "Pulls that are equal and opposite cancel. Only the leftover pull moves the rope. The Gentle Tug of War activity and the story look at what really decides a real tug of war."
     }
    ],
    "context": "This is a card game about tug of war. Each card is an arrow that stands for a pull. Players add up their arrows to find which way the rope will move.",
@@ -749,17 +772,36 @@
      "kind": "tokens",
      "title": "20 arrow tokens (paper arrows to cut out)",
      "items": [
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
+      "➡️",
       "➡️"
      ]
     }
    ],
    "rules": [
-    "Shuffle the action cards and put them face down.",
-    "On your turn, take a card and act it out without words.",
-    "The others guess the action. The first right guess wins an arrow token.",
-    "Then everyone points to the right mat: PUSH, PULL or BOTH. Then everyone points in the direction of the force with one arm.",
+    "Shuffle the action cards and put them face down in a pile.",
+    "On your turn, take a card and act it out without words. Do not show the card.",
+    "The others guess the action. The first right guess wins an arrow token. If nobody guesses in one minute, the actor wins the token.",
+    "Then everyone points to the right mat: PUSH, PULL or BOTH. If you disagree, say why. A card can have two good answers if you can explain each. The actor puts the card on the mat you agree on. Then everyone points one arm in the direction of the force.",
     "BONUS cards are forces you cannot act with your hands. Act them out with your whole body. For each bonus card, also say: is it a touching force or a force from far away?",
-    "When the cards run out, the player with the most arrow tokens wins."
+    "When the cards run out, the player with the most arrow tokens wins. If two players have the same number, they share the win."
    ],
    "flow": [
     {
@@ -816,10 +858,10 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count tokens to find the winner. Then look at the three piles of cards.",
-     "say": "Look at the piles. Were there more pushes, more pulls, or more of both?",
-     "kid": "Count your tokens. Who won? Look at the piles. More pushes or more pulls?",
-     "think": "Your muscles can only pull. So how did you act out all those pushes?"
+     "do": "Count tokens to find the winner. Then look at the cards on the three mats.",
+     "say": "Look at the mats. Are there more pushes, more pulls, or more of both?",
+     "kid": "Count your tokens. Who won? Look at the mats. Which has the most cards?",
+     "think": "Which card was hardest to put on a mat? Why?"
     }
    ],
    "context": "This is an acting game. Players mime everyday actions, then decide whether each is a push, a pull or both, and which way it points.",
@@ -938,19 +980,6 @@
      ],
      "a": 0,
      "why": "A force arrow shows two things: the way the force points, and how big it is. A longer arrow means a bigger force. Picking 'only direction' misses the size."
-    },
-    {
-     "t": "mcq",
-     "p": "A girl sits on a towel on a smooth floor, facing a wall. She pushes the wall hard with her feet. Predict: which way will she move?",
-     "opts": [
-      "Towards the wall",
-      "Away from the wall",
-      "She will not move",
-      "Straight up"
-     ],
-     "a": 1,
-     "why": "The wall pushes back on her, just as hard, so she slides away from it. Many people guess 'she will not move', because the wall is not alive and cannot push. But every push comes with a push back.",
-     "how": "e1"
     },
     {
      "t": "write",
@@ -1321,11 +1350,11 @@
        "says": "The team with the strongest arms wins, because they pull the rope harder."
       },
       {
-       "who": "Anjali, a girl of nine",
+       "who": "Anjali, a girl of nine in this unit's story",
        "says": "The rope pulls both teams equally hard. The team whose feet push the ground harder wins."
       },
       {
-       "who": "Anjali's mother",
+       "who": "Anjali's mother, in the same story",
        "says": "The heavier team wins, because a heavy team is harder to drag along."
       }
      ],
@@ -1391,7 +1420,7 @@
      "t": "truefalse",
      "p": "A spacecraft coasting through empty space needs its engine on all the time to keep moving.",
      "a": false,
-     "why": "False. With nothing to slow it, it keeps going. Voyager 1 has coasted since 1980 with no engine pushing it forwards. A force is needed only to change motion."
+     "why": "False. With nothing to slow it, it keeps going. A force is needed only to change motion."
     },
     {
      "t": "perspective",
@@ -1416,12 +1445,6 @@
      "why": "A strong answer chooses, uses real evidence (a smoother surface means a longer roll), and answers back from another view."
     },
     {
-     "t": "truefalse",
-     "p": "In 1920, a newspaper said rockets could never work in space, because there is no air there to push against. The newspaper was right.",
-     "a": false,
-     "why": "False. A rocket pushes its own gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. Robert Goddard, an American scientist who built early rockets, was right, and the newspaper apologised in 1969, when Apollo 11 flew to the Moon."
-    },
-    {
      "t": "perspective",
      "p": "Kalai and her teacher disagree about touching.",
      "views": [
@@ -1438,41 +1461,6 @@
      "lines": 5,
      "a": "Both use true science. The electrons of two things push each other apart before they meet, so there is always a tiny gap. But that push is exactly what we feel as touch. So the argument is really about what the word 'touch' means.",
      "why": "There is no single right answer. A strong answer uses the electron push, picks a side clearly, and sees that the two are using the word 'touch' in different ways."
-    },
-    {
-     "t": "truefalse",
-     "p": "Physicists have found a particle that carries gravity, called the graviton.",
-     "a": false,
-     "why": "False. Some physicists think gravitons exist, but nobody has ever found one. What gravity is, deep down, is one of the big open questions."
-    },
-    {
-     "t": "mcq",
-     "p": "Muscles can only pull. So how does your arm straighten again after you bend it?",
-     "opts": [
-      "A second muscle, at the back of your upper arm, pulls it straight",
-      "The muscle at the front pushes it straight",
-      "Gravity always does it",
-      "The bones push themselves"
-     ],
-     "a": 0,
-     "why": "Muscles work in pairs. The biceps at the front pulls your arm bent. The triceps at the back pulls it straight. In the cardboard arm, you needed two strings for the same reason. Picking 'pushes it straight' is the natural guess.",
-     "how": "a5"
-    },
-    {
-     "t": "write",
-     "p": "Your muscles can only pull. So how can you push a door open? Explain.",
-     "lines": 4,
-     "a": "My muscles pull on my bones. The bones swing at the joints, and my hand at the end presses on the door. So a pull inside my body becomes a push outside it.",
-     "why": "A strong answer says that muscles pull on bones, and the bones then press on the door.",
-     "how": "a5"
-    },
-    {
-     "t": "write",
-     "p": "In this unit's story, a rope says it is always pulled equally hard at both ends. If that is true, how can one team still win a tug of war? Draw arrows if it helps.",
-     "lines": 4,
-     "a": "The winning team pushes the ground harder with their feet, towards the middle. The ground pushes them back, away from the middle, harder than it pushes the other team. So the winners move back and drag the rope with them.",
-     "why": "A strong answer moves the attention from the rope to the feet and the ground. That is what Anjali noticed in the story.",
-     "how": "a2"
     },
     {
      "t": "write",
@@ -1544,9 +1532,59 @@
      ],
      "a": 0,
      "why": "The push of India into Asia crumpled the rocks upwards into the Himalayas, and they are still rising a little each year. A small push, kept up for millions of years, can build the tallest mountains on Earth."
+    },
+    {
+     "t": "mcq",
+     "p": "A boy kicks a football. His foot pushes the ball forwards. What is the partner force, the one that comes back?",
+     "opts": [
+      "The ball pushes his foot backwards, just as hard",
+      "Gravity pulls the ball down",
+      "The ground pushes the ball forwards",
+      "There is no partner force, because the ball is lighter"
+     ],
+     "a": 0,
+     "why": "A force pair acts on two different things. His foot pushes the ball, and the ball pushes his foot, just as hard, the opposite way. Picking gravity names a different force on the ball. Picking 'no partner' forgets that every push gets a push back, even from a light ball.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A heavy truck and a small car crash head-on. For a moment, the truck pushes the car harder than the car pushes the truck.",
+     "a": "False",
+     "why": "False. The two pushes are a force pair, so they are exactly the same size. The car is thrown about more because it is lighter, so the same push changes its motion more."
+    },
+    {
+     "t": "write",
+     "p": "Meera, a girl in Class 3, pushes a heavy almirah as hard as she can. It does not move. Her friend says, \"Then you made no force.\" Is her friend right? Explain.",
+     "lines": 4,
+     "a": "Her friend is wrong. Meera's push is a real force. The floor grips the almirah and pushes back just as hard, so the two forces are balanced and the almirah stays where it is. Nothing moves, but both forces are there.",
+     "why": "A strong answer says that a push can be real even when nothing moves, because another force balances it. It does not say 'no force' just because nothing happened."
+    },
+    {
+     "t": "match",
+     "p": "Match each force to its partner force, the one that comes back.",
+     "pairs": [
+      [
+       "Your hand pushes a wall",
+       "The wall pushes your hand"
+      ],
+      [
+       "The Earth pulls the Moon",
+       "The Moon pulls the Earth"
+      ],
+      [
+       "A rocket pushes hot gas backwards",
+       "The gas pushes the rocket forwards"
+      ],
+      [
+       "A swimmer pushes water backwards",
+       "The water pushes the swimmer forwards"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Forces come in pairs. The two forces are the same size, point opposite ways, and act on different things."
     }
    ],
-   "context": "This challenge worksheet asks harder questions: why moving things keep moving, what touching is, and how forces work in your body, in space and in the Earth."
+   "context": "This challenge worksheet asks harder questions: why moving things keep moving, what touching is, and how forces work in space and in the Earth."
   }
  ],
  "experiments": [
@@ -1584,7 +1622,7 @@
      "qty": 2
     }
    ],
-   "safety": "A grown-up stays close. Clear the floor of furniture and anything sharp. Keep your head away from the wall and the furniture. Never stand on a skateboard for this.",
+   "safety": "Clear the floor around you of furniture and anything sharp. Keep your head away from the wall.",
    "schedule": [
     {
      "day": 1,
@@ -1729,7 +1767,7 @@
    "days": 1,
    "question": "Which way does a balloon move when it lets its air out? Does more air send it further?",
    "predict": "Guess first. When the air rushes out of the balloon's neck, will the balloon go the same way as the air, or the opposite way? Will a balloon with 9 breaths go further than one with 3 breaths? Why do you think so?",
-   "fair_test": "Change only the number of breaths: 3, then 6, then 9. Use the same balloon, the same string and the same starting place. Try each one 2 or 3 times, because one try can be a fluke.",
+   "fair_test": "Change only the number of breaths: 3, then 6, then 9. Use the same balloon, blown up fresh each time, the same string and the same starting place. Try each one 3 times, because one try can be a fluke.",
    "results_table": [
     "Breaths of air",
     "Try 1: distance (cm)",
@@ -1740,7 +1778,7 @@
    "materials": [
     {
      "item": "a balloon, round or long",
-     "qty": 3,
+     "qty": 2,
      "buy": "b-balloons"
     },
     {
@@ -1766,7 +1804,7 @@
      "buy": "b-tape"
     }
    ],
-   "safety": "Do not let small children chew balloons. Throw away burst balloon pieces at once. A grown-up blows up the balloon if the child finds it hard.",
+   "safety": "Young children can choke on balloons and burst pieces, so throw burst pieces away at once. A grown-up blows up the balloon if the child finds it hard.",
    "schedule": [
     {
      "day": 1,
@@ -1863,7 +1901,7 @@
       ],
       "note": "These numbers are made up, to show what results can look like. Your numbers will be different."
      },
-     "think": "Tipu Sultan's army in Mysore used iron rockets in battles more than 200 years ago. They also worked by pushing gas backwards. What do you think pushed them?"
+     "think": "The balloon with more air went further. Does it push harder, or does it push for longer? How could you find out?"
     },
     {
      "id": "s5",
@@ -2080,7 +2118,7 @@
      "qty": 1
     }
    ],
-   "safety": "Choose things with no sharp edges. Keep the hunt indoors, or go outside with a grown-up.",
+   "safety": "Leave out anything sharp, and anything small enough for a child under 5 to swallow.",
    "schedule": [
     {
      "day": 1,
@@ -2170,7 +2208,7 @@
      "qty": 1
     }
    ],
-   "safety": "Play barefoot on a floor that does not slip, with cushions behind each player, or on grass. Never wrap the rope round hands, wrists or necks. The grown-up pulls gently and never lets go suddenly.",
+   "safety": "Play barefoot on a floor that does not slip, with cushions behind each player. Never wrap the rope round hands, wrists or necks. The grown-up pulls gently and never lets go suddenly.",
    "schedule": [
     {
      "day": 1,
@@ -2271,9 +2309,12 @@
     {
      "item": "a sponge",
      "qty": 1
+    },
+    {
+     "item": "a cushion",
+     "qty": 1
     }
    ],
-   "safety": "Use a plastic ruler, not glass. Press gently so it does not snap.",
    "schedule": [
     {
      "day": 1,
@@ -2455,8 +2496,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Look at the magnet results together.",
-     "say": "Look at the results. The paper didn't block the pull. Why did the thick book stop it?",
-     "kid": "Look at your results. Why did the thick book stop the pull?",
+     "say": "Look at your results. Did the paper block the pull? Did the thick book? Why do you think so?",
+     "kid": "Look at your results. What blocked the pull, and what did not? Why?",
      "chart": {
       "type": "table",
       "title": "Made-up example results: can the magnet drag the clip through it?",
@@ -2481,7 +2522,7 @@
       "note": "These results are made up. Your results will depend on your magnet."
      },
      "think": "Gravity reaches all the way to the Moon. How can a pull cross empty space with nothing there?",
-     "parent": "Paper and books do not block a magnet's pull. A thick book just keeps the magnet too far away, and magnetic pulls get weaker quickly with distance."
+     "parent": "Paper and books do not block a magnet's pull. A thick book just keeps the magnet too far away, and magnetic pulls get weaker quickly with distance. If your magnet is weak, even the notebook may stop it. Write what really happened."
     }
    ],
    "context": "This activity tests three pulls that work without touching: a magnet, a rubbed balloon and the Earth's gravity.",
@@ -2686,7 +2727,7 @@
   },
   {
    "id": "a7",
-   "title": "Arrow Spotting: a day of forces",
+   "title": "Arrow Spotting: six forces drawn as arrows",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2695,15 +2736,14 @@
      "qty": 1
     }
    ],
-   "safety": "Outdoors only with a grown-up. Don't stand near traffic to take photos.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Spot six forces during the day. Draw each one with an arrow."
+     "what": "Spot six forces around the home. Draw each one with an arrow."
     }
    ],
-   "record": "Make a page of six small drawings or printed photos. On each one, draw an arrow for the force, and write what it is.",
+   "record": "Make a page of six small drawings or photos. On each one, draw an arrow for the force, and write what it is.",
    "setup": [
     {
      "art": "A child sketching an auto-rickshaw being pushed by its driver, a big arrow behind it.",
@@ -2722,19 +2762,19 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Explain the job: spot six forces during the day, and draw each one with an arrow.",
-     "say": "Today you're a force spotter. Find six pushes or pulls. Draw each one, with an arrow.",
-     "kid": "You are a force spotter today! Find six pushes or pulls. Draw each one with an arrow.",
+     "do": "Explain the job: spot six forces around the home, and draw each one with an arrow.",
+     "say": "Today you're a force spotter. Find six pushes or pulls around the home. Draw each one, with an arrow.",
+     "kid": "You are a force spotter! Find six pushes or pulls around the home. Draw each one with an arrow.",
      "context": "This is the first step of Arrow Spotting. You find forces during an ordinary day and draw them as arrows."
     },
     {
      "id": "s2",
      "mins": 14,
      "adult": true,
-     "do": "During the day, help your child spot and draw six forces. Try a door, a swing, a cart, a kite, a broom and a falling leaf. Remind them of the three arrow rules.",
+     "do": "Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Remind them of the three arrow rules.",
      "say": "Remember the rules. Start the arrow on the thing. Point it the way of the force. Longer for a bigger force.",
      "kid": "Start your arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
-     "parent": "Good finds include a vegetable seller pushing a cart and wind pushing washing on a line. A crane lifting is a pull. A falling leaf has gravity pulling it down and the air pushing it up."
+     "parent": "Good finds include wind pushing washing on a line, and a hanging bag with gravity pulling it down and the strap pulling it up. A leaf falling outside the window has gravity pulling it down and the air pushing it up."
     },
     {
      "id": "s3",
@@ -2779,7 +2819,7 @@
     },
     {
      "item": "3 drinking straws",
-     "qty": 2,
+     "qty": 3,
      "buy": "b-straws"
     },
     {
@@ -2928,7 +2968,7 @@
    ],
    "creative": [
     "Tape a steel paper clip to the ball. Then a magnet can pull it from far away.",
-    "Rub a balloon on your hair and use its electric pull to roll the ball.",
+    "Rub a balloon on your hair and try to roll the ball with its electric pull. This works only a little, and only on a dry day.",
     "Push a second ball into it, so one ball pushes the other.",
     "Build a ramp with walls made of books. The walls push the ball and steer it."
    ],
@@ -3087,7 +3127,7 @@
    "youtube": "kKKM8Y-u7ds",
    "mins": 11,
    "why": "For the parent, and curious older children: forces, force pairs and drawing forces as arrows, explained clearly with good animations.",
-   "check": "Video id recalled, not opened from here. A parent should check it plays and is the CrashCourse episode before showing it."
+   "check": "Checked: this video exists, and its title and channel (CrashCourse) match. A parent may still preview it."
   },
   {
    "title": "Swings, Slides, and Science | Physics for Kids",
@@ -3095,7 +3135,7 @@
    "youtube": "JvSClZ3vHOI",
    "mins": 4,
    "why": "A short, friendly introduction to pushes and pulls for children, with everyday examples.",
-   "check": "Found by YouTube search: \"Swings, Slides, and Science | Physics for Kids\" by SciShow Kids. Title checked automatically; a parent may still preview it."
+   "check": "Checked: this video exists, and its title and channel (SciShow Kids) match. A parent may still preview it."
   },
   {
    "title": "Solar Sails Explained | The Spaceships Powered by Light",
@@ -3103,7 +3143,7 @@
    "youtube": "MERtPPEPGT4",
    "mins": 3,
    "why": "Shows the gentlest push there is: sunlight pushing a huge thin sail through space, with the IKAROS sail from 2010.",
-   "check": "Found by YouTube search: \"Solar Sails Explained | The Spaceships Powered by Light\" by Science Workshop. Title checked automatically; a parent may still preview it."
+   "check": "Checked: this video exists, and its title and channel (Science Workshop) match. A parent may still preview it."
   }
  ],
  "quiz": [
@@ -3336,7 +3376,6 @@
   "Lifts, cranes and well buckets use ropes and cables, which can only pull.",
   "Magnets pull and push in fridge doors, speakers, electric motors and some fast trains.",
   "Sports coaches study pushes: a sprinter pushes the blocks backwards, and the blocks push the sprinter forwards.",
-  "Tug of war teams crouch low and push the ground, because the ground's push is what wins.",
   "Solar sails let spacecraft be pushed through space by sunlight, with no fuel.",
   "Video game designers use force arrows, called vectors, to make characters and balls move in a real way."
  ],
@@ -3366,7 +3405,7 @@
    "art": "A woman pushing a long bamboo pole into shallow water."
   },
   {
-   "text": "A peepal tree growing out of an old wall, their roots pushing the bricks apart.",
+   "text": "A peepal tree growing out of an old wall, the tree's roots pushing the bricks apart.",
    "art": "A peepal sapling cracking a brick wall."
   },
   {
@@ -3409,23 +3448,17 @@
   }
  ],
  "ask_kids": [
-  "Was that a push or a pull you just did? Which way did it point?",
-  "The fan is spinning. What pushed it, and what is it pushing?",
-  "You're sitting still. Which forces are on you right now?",
+  "Pick something you just did, such as opening a door. Was it a push or a pull? Which way did it point?",
+  "A ceiling fan spins. What pushes the blades round, and what do the blades push?",
+  "When you sit still on a chair, which forces are on you?",
   "If you pushed a wall as hard as you could, how hard would it push you back?",
-  "Can a rope push? Can a stick pull?",
-  "Which muscle pulled just now, when you picked up your glass?",
-  "That kite string is pulling. Which way?",
-  "You walked to the door. What pushed you forward?",
+  "If you see a kite string pulling, which way does it pull?",
+  "When you walk to a door, what pushes you forward?",
   "If everything pulls everything, what are you pulling right now?",
   "What would happen if you pushed a ball in space and nothing stopped it?",
-  "You are pushing down on your chair. What is the chair doing to you?"
+  "When you sit, you push down on your chair. What is the chair doing to you?"
  ],
  "jokes": [
-  {
-   "j": "Why did the rope never win an argument?",
-   "a": "It could only pull its weight, never push its point."
-  },
   {
    "j": "What did the door say to the hand?",
    "a": "Push off! Then pull yourself together."
@@ -3433,10 +3466,6 @@
   {
    "j": "Why was the magnet so popular?",
    "a": "It was really attractive."
-  },
-  {
-   "j": "Why did the arrow go to school?",
-   "a": "To learn which way to point."
   },
   {
    "j": "What do you call a lazy kangaroo?",
@@ -3447,48 +3476,8 @@
    "a": "Because you started it."
   },
   {
-   "j": "What's a tug of war rope's favourite subject?",
-   "a": "Pull-itics."
-  },
-  {
-   "j": "Why did the muscle never push to the front of the queue?",
-   "a": "They can only pull."
-  },
-  {
-   "j": "What did the Earth say to the jumping child?",
-   "a": "You can't get away from me. I'm attached to you!"
-  },
-  {
-   "j": "Why did the balloon rocket go to the front of the class?",
-   "a": "It had a lot of hot air to push out."
-  },
-  {
-   "j": "What did one force arrow say to the other?",
-   "a": "You're pointing the wrong way!"
-  },
-  {
-   "j": "Why was the drawer so tired?",
-   "a": "Everyone kept pulling it out and pushing it in."
-  },
-  {
    "j": "Why did the kite feel loved?",
    "a": "Someone was always pulling for it."
-  },
-  {
-   "j": "What do you call two equal teams in a tug of war?",
-   "a": "Balanced. And very tired."
-  },
-  {
-   "j": "Why did the swing stop talking to the child?",
-   "a": "The child kept pushing it away."
-  },
-  {
-   "j": "Why are fridge magnets good friends?",
-   "a": "They always stick by you."
-  },
-  {
-   "j": "Why was the comet's tail always looking away?",
-   "a": "The Sun kept pushing it."
   },
   {
    "j": "What did the floor say to the book?",
@@ -3499,32 +3488,8 @@
    "a": "It always pushed itself."
   },
   {
-   "j": "What did the push say to the pull?",
-   "a": "We make a great pair."
-  },
-  {
-   "j": "Why did the marble turn the corner?",
-   "a": "The wall gave it a little push in the right direction."
-  },
-  {
-   "j": "Why did the tap never get bored?",
-   "a": "It always had a new twist."
-  },
-  {
    "j": "What did the mango say as it fell?",
    "a": "Gravity is really bringing me down."
-  },
-  {
-   "j": "How do you know the Moon likes the sea?",
-   "a": "It's always pulling it closer."
-  },
-  {
-   "j": "Why did the boatman never get lost?",
-   "a": "He always knew which way to push."
-  },
-  {
-   "j": "What's an arrow's favourite game?",
-   "a": "Follow the leader. It always points the way."
   },
   {
    "j": "Why was the heavy almirah so stubborn?",
@@ -3533,14 +3498,6 @@
   {
    "j": "What did the balanced see-saw say?",
    "a": "I'm feeling very level-headed today."
-  },
-  {
-   "j": "Why did the electron refuse to sit next to another electron?",
-   "a": "They always push each other away."
-  },
-  {
-   "j": "Why did the spinner team win the tug of war?",
-   "a": "They really knew how to push the ground."
   }
  ],
  "maths": [
@@ -3680,13 +3637,6 @@
    "kind": "place",
    "where": "New Delhi",
    "why": "Shows about the Sun, the Moon and comets. Good for the pulls of gravity and the push of sunlight."
-  },
-  {
-   "title": "A tug of war, a well, a kite festival or a boat jetty near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Watch where people push and pull. At a tug of war, look at the winners' feet."
   }
  ],
  "buy": [
@@ -3739,15 +3689,14 @@
   },
   {
    "id": "b-magnet",
-   "item": "Bar magnets for children (a pair)",
+   "item": "A bar magnet for children",
    "kind": "tool",
-   "why": "Shows a pull from far away, and two magnets pushing apart.",
+   "why": "Shows a pull from far away.",
    "url": "https://www.amazon.in/s?k=bar+magnet+kids",
    "used_in": [
     "a4",
     "c1"
-   ],
-   "plan": "Used again in the magnets units."
+   ]
   },
   {
    "id": "b-book1",
@@ -3757,8 +3706,7 @@
    "url": "https://www.amazon.in/s?k=Motion+Push+and+Pull+Fast+and+Slow+Darlene+Stille",
    "used_in": [
     "g2"
-   ],
-   "plan": "If bought, read it on day 1 after the story, before Force charades."
+   ]
   },
   {
    "id": "b-book2",
@@ -3768,8 +3716,7 @@
    "url": "https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer",
    "used_in": [
     "e1"
-   ],
-   "plan": "If bought, read it on the Push the Wall day. Ask which pages show a push getting a push back."
+   ]
   }
  ],
  "warmup": [

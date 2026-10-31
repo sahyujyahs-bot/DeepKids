@@ -29,7 +29,7 @@
 - **Microbiome**: All the microbes that live together in one place, such as your skin, your gut or a patch of soil. *e.g.* Your skin's microbiome is different on your elbow and on your forehead.
 - **Resident and visitor microbes**: Resident microbes live on your skin all the time, deep in its folds. Visitor microbes are picked up from things you touch. A wash with soap lifts off mostly the visitors. *e.g.* After you pat a street dog, their microbes are visitors on your hand.
 - **Saponin**: A natural soap-like molecule made by some plants. Like soap, it has a water-loving end and an oil-loving end. *e.g.* Reetha, the soapnut, makes foam in water because it is full of saponins.
-- **Reetha and shikakai**: Reetha is the dried fruit of the soapnut tree. Shikakai is the pod of a climbing acacia plant. People in India have washed hair and clothes with them for centuries. *e.g.* Many grandmothers still soak reetha and shikakai to wash hair.
+- **Reetha and shikakai**: Reetha is the dried fruit of the soapnut tree. Shikakai is the pod of a climbing acacia plant. People in India have washed hair and clothes with them for centuries. *e.g.* Many families still soak reetha and shikakai to wash hair.
 - **Disinfect**: To kill most of the germs on something, using heat or a strong chemical. *e.g.* Boiling drinking water for one minute kills almost all the germs in it.
 - **Sanitation**: Keeping a place clean and healthy with toilets, drains, safe water and taking rubbish away. *e.g.* A clean public toilet and a covered drain are sanitation.
 - **Mucous membranes**: The soft, wet linings of your eyes, nose and mouth. Germs get into the body most easily here. *e.g.* That is why we wash hands before rubbing our eyes or eating.
@@ -148,7 +148,7 @@ We have been learning how soap lifts oil and germs off our hands. Now we ask wha
 
 **Deep truth.** In the turmeric test, plain water ran over the oily yellow and left it behind. A soap molecule holds oil and water at once, so the rinse carried the yellow away. Most germs leave your hands the same way, still alive, in the rinse water. A good wash moves germs to a place where they cannot reach your mouth.  
 *Habit it breaks:* We talk about washing as a war that kills germs, because adverts do. A plain soap wash mostly moves microbes from one place to another, and that is enough to keep us well.  
-*Evidence:* In the turmeric test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found it cleans hands as well as antibacterial soap that kills them.
+*Evidence:* In the turmeric test, the yellow went down the drain with the soapy water. Plain soap kills very few bacteria, yet tests at home found plain soap cleans hands as well as antibacterial soap that kills them.
 
 - *who am i:* Your skin is home to millions of microbes. A good wash leaves most of them where they live.
 - *what is life:* Bacteria sense what is around them and decide when to settle, swim or grow. On your hands, they live in the skin's oil.
@@ -171,13 +171,8 @@ Soap works because one molecule can hold two things that will not mix by themsel
 ## Deep and big questions
 - *deep:* If you cannot see germs, how can you know they are there? (hint: Think of the mould on the bread slices, and of how Semmelweis used numbers.)
 - *deep:* Why does a molecule with two different ends clean better than one that sticks only to water? (hint: Think about what water does with oil, and what soap does with both.)
-- *big:* Millions of microbes live on your skin. Are they part of you, or guests? (hint: Your skin is their home. Would your skin be healthy without them?)
 - *big:* Doctors were offended when Semmelweis said their hands carried illness. Why is it so hard to accept that you might be causing harm? (hint: Think of a time you found out you were wrong. How did it feel?)
-- *big:* Is anything truly dirty? Or is dirt just something in the wrong place? (hint: Soil is lovely in a garden. Is it lovely on your dinner plate?)
 - *big:* One family washing hands helps one family. Who keeps a whole town clean, and do they get enough thanks? (hint: Think of the people who sweep streets and clean drains near your home.)
-- *deep:* Plants like reetha made soap molecules long before people did. Why might a plant need soap? (hint: Think of insects and fungi that might want to eat the fruit.)
-- *deep:* The thin skin around each of your cells, its membrane, is built a little like soap. Why doesn't soap wash your own cells away? (hint: Think about the tough, dead top layer of your skin.)
-- *big:* When you wash, most microbes from your hands go down the drain alive. Where do they go after that? (hint: Think of drains, sewers, rivers and soil, which are already full of microbes.)
 - *big:* Can a place be too clean for living things? (hint: Think of farm children and allergies, and of the microbes in soil.)
 
 ## Story: The Basin by the Door
@@ -191,7 +186,7 @@ But the mothers knew something. On the days the First Ward took new mothers, wom
 
 'Why?' I asked my mother. 'It is the same building.'
 
-'If I knew that,' said my mother, scrubbing hard, 'I would be a professor and not a washerwoman.'
+'If I knew that, Anna,' said my mother, scrubbing hard, 'I would be a professor and not a washerwoman.'
 
 I asked Frau Weber, the oldest midwife, who smelled of lavender and gave me plums. She was quiet for a while. 'We count everything here,' she said. 'Every mother, every baby, every fever. The numbers do not lie. Our ward is safer. Nobody upstairs has asked us why.'
 
@@ -221,20 +216,20 @@ In April, I had seen many coffins leave the First Ward. In June, I saw few. In J
 
 Many doctors never believed him. They said a gentleman's hands could not carry illness. More than thirty years later, a scientist named Louis Pasteur found the tiny living things that cause childbed fever. Nobody wrote down my name, or my mother's, or Frau Weber's. But I still wash my hands slowly, every time, and I still smell them afterwards.
 
-**For the parent:** For the parent: nobody in the story can see germs. The clue is a smell that soap cannot remove, so something invisible must still be on the doctors' hands. The midwives' careful counting gives the comparison, and the change of just one thing, washing in chlorine water at the door, changes the numbers. That is a fair test, and it is how the invisible was found. The story also asks quietly who gets listened to: mothers, midwives, washerwomen and a child all knew part of the answer.
+**For the parent:** For the parent: nobody in the story can see germs. The clue is a smell that soap cannot remove, so something invisible must still be on the doctors' hands. The midwives' careful counting gives the comparison, and the change of just one thing, washing in chlorine water at the door, changes the numbers. That is a fair test, and it is how the invisible was found. The story also shows who gets listened to: mothers, midwives, washerwomen and a child all knew part of the answer.
 
 - Ask: Why did the mothers beg to go to the midwives' ward?
 - Ask: The doctor's hands still smelled after soap. What did that tell him?
 - Ask: What changed in the First Ward in May, and what happened to the numbers?
 - Ask: Frau Weber said nobody upstairs ever asked the midwives. Why do you think that was?
-- Ask: Anna nearly did not speak. What helped her decide to point at the tub?
+- Ask: The girl telling the story nearly did not speak. What helped her decide to point at the tub?
 
 ## Games
 ### g1 · Germ Journey (20 min)
-- **rules:** Each player is a germ. Put your germ token on START. You also need one dice.; Take turns. Roll the dice and move your germ that many squares along the path.; If you land on a ★ square, take the top hygiene card and do what it says.; TEST IT cards: everyone does the test together. Then the player who drew it moves ahead 1.; The first germ to reach the tummy wins the race. Then everyone talks about which cards stopped germs the most.; If the pile of cards runs out, shuffle the used cards and start a new pile.; Playing alone: you move two germs, a red one and a blue one, one roll each in turn. Before you start, choose 3 hygiene cards to keep in your hand. When a germ gets close to the tummy, you may play one of them instead of rolling. You win if neither germ reaches the tummy in 15 rolls.
-- **Printable board: A path of 20 squares, from a dirty hand to a tummy:** START: a hand after using the toilet; 1; 2; 3 ★; 4; 5 Door handle; 6; 7 ★; 8; 9 Coin; 10 ★; 11; 12 Phone; 13 ★; 14; 15 Plate of food; 16 ★; 17; 18 ★; 19 Mouth; FINISH: the tummy
+- **rules:** Each player is a germ. Put your germ token on START. You also need one dice.; Take turns. Roll the dice and move your germ that many squares along the path.; If you land on a ★ square, take the top hygiene card and do what it says. A square without a star is just a ride: wait there for your next turn.; Moving back never goes past START. You win by landing on or passing FINISH. You do not need an exact roll.; TEST IT cards: everyone does the test together. Then the player who drew it moves ahead 1.; The first germ to reach the tummy wins the race. Then everyone talks about which cards stopped germs the most.; If the pile of cards runs out, shuffle the used cards and start a new pile.; Playing alone: you move two germs, a red one and a blue one, one roll each in turn. Before you start, choose 3 hygiene cards to keep in your hand. When a germ gets close to the tummy, you may play one of them instead of rolling. You win if neither germ reaches the tummy in 15 rolls.
+- **Printable board: A path of 20 squares, from a dirty hand to a tummy:** START: a hand after using the toilet; 1 Tap handle; 2 Stair rail; 3 ★ Lift button; 4 School bench; 5 Door handle; 6 Pencil box; 7 ★ Bus rail; 8 Ball; 9 Coin; 10 ★ Shop counter; 11 Serving spoon; 12 Phone; 13 ★ Cut fruit; 14 Tumbler; 15 Plate of food; 16 ★ Roti; 17 Fingers; 18 ★ Mouth; FINISH: the tummy
 - **Printable cards: 24 hygiene cards to cut out (draw one when you land on a ★):** Hands washed with soap for 20 seconds. The soap lifts you off and the water carries you down the drain. Go back to START.; Hands rinsed with water only for 2 seconds. You are still stuck in the oil. Move ahead 1.; Nobody washed before eating. Move ahead 3.; Someone rubbed their eyes. Jump ahead 2.; A sneeze into the air! Move ahead 2.; A sneeze into an elbow. Miss a turn.; Food left uncovered, and a fly landed. Move ahead 2.; Food kept covered. Miss a turn.; Wet hands wiped on a dirty cloth. Move ahead 2.; Hands dried on a clean towel. Go back 3.; Nails long and dirty. You hide underneath. Move ahead 2.; Nails short and clean. Go back 2.; Drinking water boiled. Go back 4.; Water from an open, dirty tank. Move ahead 3.; Washed only the palms, not between the fingers. You hide between the fingers. Stay where you are.; Washed everywhere, even the thumbs and wrists. Go back to START.; Played with a puppy, then ate. Move ahead 2.; Played with a puppy, then washed. Go back 3.; Shared a spoon with a friend. Move ahead 1.; Everyone used their own spoon. Miss a turn.; Soap on a string by the tap, easy to reach. Go back 3.; No soap at the tap. Move ahead 2.; TEST IT: rub your palms and fingers with soap for 20 seconds. Count out loud. Did it feel long?; TEST IT: touch your face as few times as you can until your next turn. Did you manage?
-- **Printable tokens: Germ tokens: small paper circles with a germ drawn on each, one colour per player:** 🦠
+- **Printable tokens: 4 germ tokens: small paper circles with a germ drawn on each, one colour per player:** 🦠; 🦠; 🦠; 🦠
 - **s1 (3 min)**  
   *Parent does:* 1. Print or draw the 20-square path. 2. Cut out the 24 hygiene cards and shuffle them face down. 3. Give each player a germ token. 4. Have one dice ready.  
   *Parent says:* In this game, you are a germ. A germ can't travel far on their own. They ride on hands, food and water. Your job is to ride from a dirty hand to someone's tummy.  
@@ -243,7 +238,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent does:* Play one practice turn together. Draw the card 'Hands rinsed with water only for 2 seconds'.  
   *Parent says:* Here is a practice card. Hands were rinsed with water only. The germ moves ahead. Why didn't the water wash them off?  
   *Child mode:* Practice card: hands rinsed with water only. The germ moves ahead! Why did water not wash them off?
-  - Check: Why does a quick rinse with water only leave most germs behind? → **Germs stick in the skin's oil, and water slides off oil**
+  - Ask: Why did a quick rinse with water not wash the germs off? (good: The germs are stuck in the skin's oil.; Water slides off oil, so the germs stay behind.)
 - **s3 (11 min)**  
   *Parent does:* 1. Take turns rolling and moving. 2. On a ★ square, read the card aloud and follow it. 3. When a TEST IT card comes, everyone does it.  
   *Parent says:* When you draw a card, tell us why it helps the germ or stops them.  
@@ -255,15 +250,15 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Child mode:* Sort the cards. Which helped germs? Which stopped them? Which card is the best germ-stopper?
   - Think: A germ needs a ride to reach a tummy. Which of your own habits give germs a ride?
 ### g2 · Make a Micelle (15 min)
-- **rules:** Each player is a soap molecule. Your left hand is your tail, which sticks to oil. Your right hand is your head, which sticks to water.; Put the SKIN sign at one side of the room and the DRAIN sign at the other. Scatter the 10 oil blobs on the SKIN side.; Oil blobs may only be touched by tails, your left hands. Heads, your right hands, must stay pointing outwards, into the 'water'.; Work in pairs or threes. Hold one blob between your left hands, heads facing out, and walk it to the DRAIN. That is a micelle.; If the blob drops, it sticks back on the SKIN. Take it back and try again.; Clear all 10 blobs before a grown-up counts slowly to 120. Then try with only 60.
+- **rules:** Each player is a soap molecule. Your left hand is your tail, which sticks to oil. Your right hand is your head, which sticks to water.; Put the SKIN sign at one side of the room and the DRAIN sign at the other. Scatter the 10 oil blobs on the SKIN side.; Oil blobs may only be touched by tails, your left hands. Heads, your right hands, must stay pointing outwards, into the 'water'.; Work in pairs or threes. Hold one blob between your left hands, heads facing out, and walk it to the DRAIN. That is a micelle.; If the blob drops, it sticks back on the SKIN. Take it back and try again.; Set a phone timer for 2 minutes. Clear all 10 blobs before it rings. Then try again with only 1 minute.
 - **Printable cards: Two big signs to put on the floor:** DRAIN; SKIN
-- **Printable tokens: 10 'oil blobs': crumpled balls of yellow paper, each with a small germ drawn on it:** 🟡
+- **Printable tokens: 10 oil blobs: crumpled balls of yellow paper, with a small germ drawn on each:** 🟡; 🟡; 🟡; 🟡; 🟡; 🟡; 🟡; 🟡; 🟡; 🟡
 - **s1 (3 min)**  
-  *Parent does:* 1. Crumple 10 sheets of scrap paper into balls, and draw a germ on each. These are the oil blobs. 2. Put the SKIN sign on one side of the room and the DRAIN on the other. 3. Scatter the blobs near SKIN. 4. Show everyone which hand is the tail and which is the head.  
+  *Parent does:* 1. Crumple 10 sheets of scrap paper into balls, colour them yellow, and draw a small germ on each. These are the oil blobs. 2. Put the SKIN sign on one side of the room and the DRAIN on the other. 3. Scatter the blobs near SKIN. 4. Show everyone which hand is the tail and which is the head.  
   *Parent says:* You are soap molecules. Your left hand sticks to oil. Your right hand sticks to water. The yellow balls are blobs of oil, with germs inside.  
   *Child mode:* You are a soap molecule! Your left hand holds oil. Your right hand holds water.
 - **s2 (8 min)**  
-  *Parent does:* 1. Players pair up. 2. They pick up a blob between their left hands only, right hands pointing outwards. 3. They carry it to DRAIN without dropping it. 4. Count slowly to 120 while they clear all 10.  
+  *Parent does:* 1. Players pair up. 2. They pick up a blob between their left hands only, right hands pointing outwards. 3. They carry it to DRAIN without dropping it. 4. Start a 2-minute phone timer while they clear all 10.  
   *Parent says:* Tails hold the oil. Heads face the water. Go!  
   *Child mode:* Hold a blob between your left hands. Keep right hands pointing out. Carry it to the drain!
   - Ask: Why must the right hands point outwards? (good: They are the water-loving heads.; The water grabs the heads and carries the ball away.)
@@ -278,26 +273,27 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 ### e1 · The Turmeric Germ Test: water or soap? (25 min)
 - **question:** Does soap clean pretend germs off hands better than water? Does rubbing for longer help?
 - **predict:** Before you test, guess. Rank the three ways from best to worst: water only for 20 seconds, soap for 5 seconds, soap for 20 seconds. Why do you think so?
-- **fair test:** To make it fair, change only the way of washing. Use the same amount of oil and turmeric each time, measured with the same spoon. Use the same tap, and count the seconds out loud. Wash off completely between rounds, then coat again.
-- **safety:** Turmeric stains clothes yellow, so wear old clothes and roll up sleeves. Keep oily hands away from eyes. The floor near the tap can get slippery, so wipe it dry.
+- **fair test:** To make it fair, change only the way of washing. Use the same amount of oil and turmeric each time, measured with the same spoon. Use the same tap, and count the seconds out loud. End every round with the same 5-second rinse. Wash off completely between rounds, then coat again.
+- **safety:** Keep oily, turmeric hands away from your eyes.
 - **record:** Fill in the table. Draw your hands after each wash and colour where yellow stayed. Then draw a bar for each way of washing.
 - **results table:** Way of washing | Yellow left, from 0 (none) to 5 (all) | Where the yellow stayed
 - **s1 (3 min)**  
   *Parent does:* 1. Put the oil, turmeric, soap and towel near the tap. 2. Ask your child to rank the three ways of washing, best first.  
   *Parent says:* Real germs are far too small to see. So today, turmeric in oil is our pretend germ. Germs on real hands sit in the skin's own oil, just like this. Which way of washing do you think will work best? Why do you think so?  
   *Child mode:* Turmeric in oil is your pretend germ. Real germs hide in your skin's oil. Guess which wash will work best.
+  - Note: Turmeric stains clothes, towels and the soap yellow, so wear old clothes and roll up your sleeves.
 - **s2 (5 min)**  
-  *Parent does:* 1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of turmeric. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Rinse under water only for 20 seconds, counting out loud, rubbing as normal. 5. Pat dry with the old towel.  
-  *Parent says:* Round one: water only, for 20 seconds. Count with me. Now look. How much yellow is left, from 0 for none to 5 for all of it?  
-  *Child mode:* Rub oil and turmeric on both hands. Rinse with water only. Count to 20. How much yellow is left? Score it, 0 to 5.
+  *Parent does:* 1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of turmeric. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Wash with water only: rub your hands under running water for 20 seconds, counting out loud. 5. Rinse for 5 more seconds. Do not dry them yet.  
+  *Parent says:* Round one: water only, rubbing for 20 seconds. Count with me. Now look. How much yellow is left, from 0 for none to 5 for all of it?  
+  *Child mode:* Rub oil and turmeric on both hands. Rub under running water only. Count to 20. Rinse 5 more seconds. How much yellow is left? Score it, 0 to 5.
   - Ask: What do the water drops do on your oily hands? (good: They roll off.; They make little beads.; They don't spread out.)
 - **s3 (5 min)**  
-  *Parent does:* 1. Wash off fully with soap and dry. 2. Coat again with the same oil and turmeric, the same way. 3. This time use soap, but rub for only 5 seconds, then rinse. 4. Score the yellow.  
+  *Parent does:* 1. Wash off fully with soap and dry. 2. Coat again with the same oil and turmeric, the same way. 3. This time use soap, but rub for only 5 seconds. 4. Rinse for 5 seconds. 5. Score the yellow.  
   *Parent says:* Round two: soap, but only 5 seconds. Same oil, same turmeric. Only one thing changes. Score it.  
-  *Child mode:* Coat your hands again, the same way. Now soap for just 5 seconds. Rinse. Score the yellow, 0 to 5.
+  *Child mode:* Coat your hands again, the same way. Now soap for just 5 seconds. Rinse for 5 seconds. Score the yellow, 0 to 5.
   - Note: Turmeric dyes skin a little, so a faint yellow tint may stay even after a good wash. Score the clumps and patches of powder, not the faint colour. A pale tint that will not wash off is the dye, not the pretend germs. The soap bar will turn a little yellow too. Rinse it at the end.
 - **s4 (5 min)**  
-  *Parent does:* 1. Wash fully, dry, and coat again. 2. Now wash with soap for 20 seconds: palms, backs, between fingers, round each thumb, fingertips, under nails and wrists. Sing Happy Birthday twice. 3. Rinse well and score.  
+  *Parent does:* 1. Wash fully with soap, dry, and coat again the same way. 2. Now wash with soap for 20 seconds: palms, backs, between fingers, round each thumb, fingertips, under nails and wrists. Sing Happy Birthday twice. 3. Rinse for 5 seconds and score.  
   *Parent says:* Round three: soap for 20 seconds, every part. Sing Happy Birthday twice while you rub. Now score it. Where did the yellow go?  
   *Child mode:* Coat again. Soap for 20 seconds. Rub every part, even thumbs and nails. Sing Happy Birthday twice. Score it.
   - Ask: Where did the yellow go? (good: Down the drain with the water.; The soap took it off my hands and the water carried it away.)
@@ -315,13 +311,13 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - **question:** Can soap make oil and water mix?
 - **predict:** Guess first. After shaking, which jar will stay mixed longer: oil and water, or oil, water and soap? Why do you think so?
 - **fair test:** Use two jars the same size. Put the same amount of water and oil in each. Add soap to only one jar. Shake both for the same time, 10 seconds, then put them down together and start the timer.
-- **safety:** Close lids tightly. Use plastic bottles if a small child will shake them.
+- **safety:** Use plastic bottles rather than glass jars, so nothing breaks when shaken.
 - **record:** Fill in the table. Draw both jars straight after shaking, and after 2 minutes.
 - **results table:** Jar | Seconds until a clear oil layer is back on top | What it looked like
 - **s1 (4 min)**  
-  *Parent does:* 1. Stir a pinch of turmeric into the oil, so the oil turns yellow. 2. Put half a cup of water and 2 tablespoons of yellow oil in each jar. 3. Add half a teaspoon of soap to jar 2 only. 4. Close both lids tightly.  
-  *Parent says:* Look: the yellow oil floats on top of the water in a layer. Oil and water don't mix. Jar 2 also has soap.  
-  *Child mode:* Put water and yellow oil in two jars. Add soap to jar 2 only. See the oil float on top?
+  *Parent does:* 1. Label the jars 1 and 2. 2. If you have turmeric, stir a pinch into the oil so it turns yellow. 3. Put half a cup of water and 2 tablespoons of oil in each jar. 4. Add half a teaspoon of soap to jar 2 only. 5. Close both lids tightly.  
+  *Parent says:* Look: the oil floats on top of the water in a layer. Oil and water don't mix. Jar 2 also has soap.  
+  *Child mode:* Put water and oil in two jars. Add soap to jar 2 only. See the oil float on top?
 - **s2 (6 min)**  
   *Parent does:* 1. Shake both jars hard for 10 seconds, at the same time if you can. 2. Put them down side by side and start the timer. 3. Watch for a clear yellow layer coming back on top. Write down the seconds for each jar.  
   *Parent says:* Shake them both for 10 seconds. Now watch. Which jar separates first?  
@@ -346,11 +342,11 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - **results table:** Day | Not touched: spots | Dirty hands: spots | Water only: spots | Soap: spots
 - **schedule:** day 1: Touch the slices in four ways, seal them in bags, and put them in a warm, dark cupboard. (15 min); day 3: Look through the bags without opening them. Count and draw any spots. (3 min); day 5: Look again. Count and draw the spots on each slice. (4 min); day 7: Look one last time. Fill in the table, draw a bar chart, and throw the sealed bags away. (8 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Label the four bags: Not touched, Dirty hands, Water only, Soap. 2. Use the spoon to put slice 1 into 'Not touched' without touching it. Seal it.  
+  *Parent does:* 1. Label the four bags: Not touched, Dirty hands, Water only, Soap. 2. Use the spoon to put slice 1 into the 'Not touched' bag without touching it. 3. Add 3 drops of water and seal the bag.  
   *Parent says:* Mould is a tiny fungus, a living thing. Their seeds, called spores, are too small to see. If they land on damp bread, they grow into spots we can see. Let's see what our hands carry.  
   *Child mode:* Label four bags. Use a spoon to put one slice in 'Not touched'. Do not touch it! Seal it.
 - **s2 (7 min)**  
-  *Parent does:* 1. Before washing, after play or after handling coins, your child rubs both hands on slice 2 for 10 seconds. Bag it. 2. Rinse hands under water only for 5 seconds, then rub slice 3. Bag it. 3. Wash with soap for 20 seconds, dry on a clean towel, and rub slice 4. Bag it. 4. Add 3 drops of water to each bag and seal tightly.  
+  *Parent does:* 1. Before washing, after play or after handling coins, your child rubs both hands on slice 2 for 10 seconds. Lift it into its bag with the spoon. 2. Rinse hands under water only for 5 seconds, then rub slice 3 for 10 seconds. Lift it into its bag with the spoon. 3. Wash with soap for 20 seconds, dry on a clean towel, and rub slice 4 for 10 seconds. Lift it into its bag with the spoon. 4. Add 3 drops of water to bags 2, 3 and 4 and seal them tightly.  
   *Parent says:* Rub the dirty hands slice for 10 seconds. Now water only. Now soap for 20 seconds. Same 10-second rub each time.  
   *Child mode:* Rub one slice with dirty hands. Rinse with water. Rub the next. Wash with soap. Rub the last. Seal them.
   - Note: Bread with preservatives, which is most packet bread, can take 10 days or more to grow mould. Fresh bakery bread or pav works fastest, often in 4 to 6 days. Keep the bags in a warm, dark cupboard, not the fridge.
@@ -364,7 +360,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent says:* Count the spots on each slice. Green, black, white or orange spots are all mould.  
   *Child mode:* Look through the bags. Do not open them! Count the spots on each slice. Write them down.
   - Note: Results are often messy. The 'dirty hands' slice usually grows most. The 'not touched' slice can still grow some, because spores float in the air everywhere. Water-only is usually in between. If nothing has grown by day 7, wait until day 10. If the soap slice grows a lot, ask: were the hands dried on a clean towel? That is a real result to talk about, not a failure.
-  - Check: Why can the 'not touched' slice still grow a little mould? → **Mould spores float in the air everywhere, so some land on it anyway**
+  - Check: Why can the 'not touched' slice still grow a little mould? → **Mould spores float in the air everywhere, so some land on the slice anyway**
 - **s5 (8 min)**  
   *Parent does:* 1. On day 7, draw a bar chart of the spots on each slice. 2. Ask for three sentences: what I think, what I saw, why. 3. Throw the bags away still sealed, and wash hands.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? Why do you think it happened?  
@@ -393,15 +389,15 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - **safety:** Reetha water stings badly in the eyes. Keep it away from faces. A grown-up helps squeeze the shells. If it gets in an eye, rinse with plenty of clean water.
 - **record:** Draw the foam. Write which cleaned the oily plate better: reetha water, soap or plain water.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Break the reetha shells into pieces and take out any hard black seeds. 2. Drop the shells into a cup of warm water. 3. Leave them to soak for at least 15 minutes. Start this an hour before, or in the morning, if you can.  
+  *Parent does:* 1. Break the reetha shells into pieces and take out any hard black seeds. 2. Drop the shells into a cup of warm water. 3. Leave them to soak for at least 15 minutes while you do the next step. Soaking for an hour, or from the morning, is better.  
   *Parent says:* This dry fruit comes from the soapnut tree. People in India have washed hair and silk with it for hundreds of years. Let's find out why.  
   *Child mode:* Break the reetha shells. Take out the black seeds. Put the shells in warm water. Wait.
 - **s2 (5 min)**  
-  *Parent does:* 1. Rub a few drops of oil on both steel plates. 2. Wipe one plate with plain water only, using your fingers. 3. Feel it. 4. Leave the other oily plate for the reetha.  
+  *Parent does:* 1. Rub the same few drops of oil on three steel plates, spreading it the same way. 2. Wipe one plate with plain water only, using your fingers for 20 seconds. 3. Feel it. 4. Leave the other two oily plates for the reetha water and the soap.  
   *Parent says:* Feel this plate after plain water. Still greasy? Now let's see what reetha does.  
-  *Child mode:* Rub oil on two plates. Wash one with plain water. Is it still greasy? Keep the other one.
+  *Child mode:* Rub oil on three plates. Wash one with plain water. Is it still greasy? Keep the other two.
 - **s3 (7 min) · grown-up needed**  
-  *Parent does:* 1. Squeeze the soaked shells in the water with your fingers, again and again. 2. Watch foam appear. 3. Use the reetha water to wash the second oily plate. 4. Wipe both plates with a tissue and compare. 5. If you like, compare with a third plate washed with soap.  
+  *Parent does:* 1. Squeeze the soaked shells in the water with your fingers, again and again. 2. Watch foam appear. 3. Use the reetha water to wash the second oily plate, rubbing for 20 seconds. 4. Wash the third oily plate with soap, also for 20 seconds. 5. Wipe all three plates with a tissue and compare.  
   *Parent says:* Look at that foam! Reetha has soap-like molecules called saponins. Each one has a water-loving end and an oil-loving end, just like soap. Does it clean the oil?  
   *Child mode:* Squeeze the shells in the water. See the foam? Wash the oily plate with it. Is it cleaner?
   - Note: Squeezing for 1 to 2 minutes usually makes a good foam. If the shells have soaked only a few minutes, rub them hard between your fingers. Foam still comes, just less. Reetha cleans oil off steel well, though usually a little less strongly than dishwashing liquid. If the foam is weak, soak the shells longer, or overnight. Keep the leftover water for washing a cloth. Throw the used shells in compost.
@@ -419,7 +415,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent says:* Germs spread to whole families through dirty water, flies on food, and mosquitoes. Today we are germ-spot detectives. We'll look for still water, open rubbish and uncovered food. We'll also look for clean spots.  
   *Child mode:* You are a germ-spot detective! Look for still water, open rubbish and uncovered food. Look for clean spots too.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Look round the home first: kitchen, bathroom, balcony, roof. 2. Then the street. 3. Look for water standing in flowerpot trays, buckets, coolers, coconut shells, tyres and blocked drains. 4. Look for open rubbish, flies and uncovered food. 5. Notice covered water tanks, covered bins and swept steps too.  
+  *Parent does:* 1. Look round the home first: kitchen, bathroom, balcony, and the roof if you can go up. 2. Then, with a grown-up, the stairs and the lane outside. 3. Look for water standing in flowerpot trays, buckets, coolers, coconut shells, tyres and blocked drains. 4. Look for open rubbish, flies and uncovered food. 5. Notice covered water tanks, covered bins and swept steps too.  
   *Parent says:* Mosquitoes lay eggs in still water, even in a bottle cap. The eggs become flying mosquitoes in about a week. So any water left for a week is a mosquito nursery.  
   *Child mode:* Look for still water anywhere. Even a bottle cap counts! Write each germ spot and clean spot down.
   - Note: You may see tiny wriggling larvae in old water. Tip the water onto dry soil or a dry, sunny floor, where the larvae soon die. Then scrub the container, because some mosquito eggs stick to the sides. Many Indian cities run a weekly 'dry day', when families empty and scrub every water container.
@@ -427,7 +423,6 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent does:* 1. With a grown-up, fix one germ spot at home today, for example tip out and scrub a flowerpot tray. 2. Choose one day of the week as your family's dry day. 3. Talk about who cleans the street.  
   *Parent says:* Who keeps our street clean? Let's find out their names if we can, and say thank you next time we see them.  
   *Child mode:* Fix one germ spot with a grown-up. Pick a dry day each week. Who cleans your street? Say thank you!
-  - Check: Why do we empty still water once a week, not once a month? → **Mosquito eggs become flying mosquitoes in about a week**
   - Think: One flowerpot tray can grow mosquitoes for a whole building. Whose job is it to keep a street healthy?
 ### a5 · My Body Care Map (25 min)
 - **record:** A life-size poster of the outside of your body, with one care rule for each part.
@@ -465,7 +460,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 
 ## Projects
 ### p1 · Build a Tippy-Tap Hand-Washing Station (60 min, 2 days)
-- **safety:** Only a grown-up heats the nail and makes the hole. Hold the hot nail with pliers or a thick cloth. Put the station where spilt water won't make a slippery floor.
+- **safety:** Only a grown-up heats the nail and makes the hole. Hold the hot nail with pliers or a thick cloth.
 - **record:** Draw your tippy-tap and label each part. Write how many washes one bottle gave, and one thing you changed.
 - **schedule:** day 1: A grown-up makes the hole. Tie and hang the bottle. Add the foot loop and the soap on a string. Test it. (40 min); day 2: Use it all day. Count how many washes one full bottle gives. Improve the design. (20 min)
 - **s1 (5 min)**  
@@ -473,7 +468,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent says:* A tippy-tap is a hand-washing station made from a bottle and string. You tip it with your foot, so your dirty hands never touch a tap. Families and schools in many countries use them where there is no running water.  
   *Child mode:* A tippy-tap is a tap made from a bottle. You tip it with your foot. Your hands touch nothing!
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up heats the tip of a nail, holding it with pliers. 2. They push it through the bottle's shoulder, about 3 cm below the cap, to make one small hole. 3. Fill the bottle about three-quarters full, so the water stays below the hole. Screw the cap on loosely, so a little air can get in.  
+  *Parent does:* 1. A grown-up heats the tip of a nail, holding it with pliers. 2. They push it through the bottle's shoulder, about 3 cm below the cap, to make one small hole. 3. Fill the bottle about three-quarters full, 1.5 litres measured with the jug, so the water stays below the hole. Screw the cap on loosely, so a little air can get in.  
   *Parent says:* The hole is near the top. Standing up, no water comes out. When we tip it, the water pours from the hole.  
   *Child mode:* A grown-up makes a small hole near the top. Fill the bottle three-quarters full. Cap on loosely.
   - Note: Keep the hole small, about the size of a pencil lead, so the water comes out in a thin stream and lasts longer. If the stream stops after a moment, loosen the cap a little more.
@@ -500,16 +495,16 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - **your turn:** Now invent your own sneeze catcher. Draw it, test it with the spray bottle, and measure how far the drops go.
 - **constraints:** Use only clean water in a spray bottle as the pretend sneeze. Never real sneezes.; Test each cover the same way: same spray bottle, same distance, same number of sprays.; Measure how far drops travel on newspaper, with a ruler or measuring tape.
 - **general:** Sneeze into a tissue, then throw it away and wash your hands.; If there is no tissue, sneeze into your elbow.; Wear a mask when you have a cold and must be near others.
-- **creative:** Design a 'sneeze pocket' sewn into a sleeve.; Make a family sign that reminds everyone: elbow, not hand.; Invent a way to help a toddler, who often forgets, learn the elbow sneeze, such as a song or a game.
+- **creative:** Design a 'sneeze pocket' sewn into a sleeve.; Make a family sign that reminds everyone: elbow, not hand.; Invent a way to help a young child who often forgets learn the elbow sneeze, such as a song or a game.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the newspapers end to end on the floor. 2. Hold the spray bottle at the start of the paper, at your child's mouth height, pointing along the paper. 3. Spray once, firmly. 4. Measure the furthest coloured drop.  
   *Parent says:* This spray is our pretend sneeze. Let's see how far it goes with nothing in the way.  
   *Child mode:* Spray the coloured water along the newspaper once. How far did the furthest drop go? Measure it.
 - **s2 (10 min)**  
-  *Parent does:* 1. Test each cover in turn: hold it in front of the nozzle, like covering a sneeze, and spray once. 2. Measure the furthest drop each time. 3. Write the results down.  
-  *Parent says:* Try the hand, then the elbow, then the hanky, then the tissue. Which stops the most drops? Look at the hand afterwards too.  
+  *Parent does:* 1. Test each cover in turn. Lay a fresh pair of sheets. 2. Hold the cover about 10 cm in front of the nozzle, the same distance every time, and spray once. 3. Measure the furthest drop each time and write it down.  
+  *Parent says:* Try the hand, then the elbow, then the hanky, then the tissue, then the mask if you have one. Which stops the most drops? Look at the hand afterwards too.  
   *Child mode:* Try each cover. Spray once. Measure. Which stops most? Look at the hand. Is it wet?
-  - Note: Most covers stop most drops. The point is what happens next: the hand is wet with coloured water, and would spread germs to whatever it touches. The elbow and the tissue keep the drops off hands. Use fresh newspaper, or move along, for each test.
+  - Note: Most covers stop most drops. The point is what happens next: the hand is wet with coloured water, and would spread germs to whatever it touches. The elbow and the tissue keep the drops off hands. Drops are easy to miss on printed newspaper, so use plain paper or look at the margins. A plant sprayer makes a finer mist than a real sneeze, so the distances show the idea, not a real measurement.
 - **s3 (5 min)**  
   *Parent does:* Read the usual solutions and creative ideas. Then invent your own.  
   *Parent says:* The hand stopped the drops, but now it's wet. What would that hand touch next?  
@@ -520,13 +515,13 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - **your turn:** Now design your own way to share soap. Draw it, make it, and test it for a day at home.
 - **constraints:** It must cost almost nothing.; A small child must be able to reach and use it.; The soap must not sit in a puddle, because wet soap goes soft and slimy.
 - **general:** Soap on a string, tied beside the tap.; A soap dish with holes, so the water drains away.; Liquid soap in a pump bottle.
-- **creative:** Make 'soapy water' by dissolving soap scraps in a bottle of water with a hole in the cap. It can't be lost and is shared easily.; Put soap in an old stocking or onion net, tied to the tap. The net also helps you scrub.; Use reetha water in a bottle, as people did before soap bars.
+- **creative:** Make 'soapy water' by dissolving soap scraps in a bottle of water with a hole in the cap. It can't be lost and is shared easily.; Put soap in an old stocking or onion net, tied to the tap. The net also helps you scrub.; Use reetha water in a bottle, as people in India have done for centuries.
 - **s1 (5 min)**  
   *Parent does:* Look at how soap is kept at your home's sink. Is it in a puddle? Is it easy to reach?  
   *Parent says:* Where does our soap live? What problems does it have?  
   *Child mode:* Look at your soap at the sink. Is it slimy? Can you reach it? What's the problem?
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Draw two ideas. 2. Make one. For soap on a string, a grown-up pushes a hot nail through the soap bar to make a hole. Then thread string through it. For a soap net, put soap scraps in an old stocking and tie it to the tap.  
+  *Parent does:* 1. Draw two ideas. 2. Make one. For soap on a string, a grown-up pushes a nail or skewer through the soap bar to make a hole. Soap is soft, so no heating is needed. Then thread string through it. For a soap net, put soap scraps in an old stocking and tie it to the tap.  
   *Parent says:* Let's make one of your ideas. Which one will you try first?  
   *Child mode:* Draw two ideas. Pick one. Make it with a grown-up's help.
 - **s3 (5 min)**  
@@ -576,7 +571,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** Germs got into the tank water. *Why:* When many people who share one water supply fall ill together, the water is the first thing to check. Germs from a leaking drain can get into a tank. Picking 'bad smells' is the old idea of bad air. In 1854, John Snow showed that cholera in London spread through water from one pump, not through smells.
 16. (write) Choose one habit at home that stops germs, such as boiling water or covering food. Say which road for germs it blocks: hands, water, food, sneezes or insects.  
    **Answer:** A strong answer names a real habit and links it to one road. For example: we keep a net over the cut fruit, which stops flies carrying germs from the drain onto our food.. *Why:* Every hygiene habit works by blocking one way that germs travel. Knowing the road helps you choose the right habit.
-### Soap Scientists (stretch) (stretch, 16 questions)
+### Soap Scientists (stretch) (stretch, 15 questions)
 1. (mcq) Meenakshi, a girl in Class 3, did the turmeric test. She scored the yellow left on her hands, from 0 (none) to 5 (all). Soap for 5 seconds still left a score of 2. What does that tell her?  
    Options: Soap needs time and rubbing to reach all the oil / Soap does not work at all / Water only is better than soap / The test went wrong  
    **Answer:** Soap needs time and rubbing to reach all the oil. *Why:* Soap for 20 seconds left 0, and soap for 5 seconds left 2. The soap was the same, so the extra rubbing time made the difference. Picking 'soap does not work' ignores the 20-second bar.
@@ -602,7 +597,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** A strong answer picks a side and gives evidence, for example that soap lifts oil and germs off and the rinse carries them away, so killing is not needed. It admits a fair point from another side, for example that Priya is right that children often wash in a hurry. It may say that soap at every tap, used for 20 seconds, matters most.. *Why:* Many families believe killing germs is what makes soap work. The evidence says lifting them off does the job. The real choice is about cost, and about how many children wash well.
 10. (truefalse) You need warm water to wash germs off your hands.  
    **Answer:** False. *Why:* False. In a 2017 study, cold and warm water removed germs about equally well. The soap and the rubbing do the work. Very hot water would burn your skin before it killed many germs.
-11. (write) Explain to a younger cousin why soap cleans better than water. Use the words oil, head and tail.  
+11. (write) Explain to a younger child why soap cleans better than water. Use the words oil, head and tail.  
    **Answer:** A strong answer says that germs sit in the oil on our skin, and water slides off oil. A soap molecule has a head that sticks to water and a tail that sticks to oil. So the water can carry the oil and the germs away.. *Why:* Three steps make a full answer: germs are in oil, water cannot hold oil, and soap holds both.
 12. (write) Reetha shells make foam when you squeeze them in water. What does that tell you about what is inside them?  
    **Answer:** A strong answer says that reetha has soap-like molecules, called saponins, with one end that sticks to water and one end that sticks to oil. That is why it foams and cleans oil off a plate.. *Why:* Foam is a sign of soap-like molecules holding air and water together.
@@ -613,9 +608,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** Down the drain, still alive, in the rinse water. *Why:* Plain soap kills very few bacteria. It wraps the oil they sit in, and the rinse water carries them away. Picking 'killed by the soap' is very common, because adverts talk about killing germs.
 15. (write) In the bread test, the slice touched by unwashed hands grew the most mould. The slice touched after washing with soap grew the least. What does this tell you about hands that look clean?  
    **Answer:** A strong answer says that hands that look clean can still carry living things too small to see. The mould spots grew from them. Soap took most of them off, so that slice grew the least. It may add that the untouched slice is the comparison.. *Why:* The bread made invisible living things visible, by letting them grow into spots of mould.
-16. (match) Match each person to what they did.  
-   **Answer:** Antonie van Leeuwenhoek → saw 'little animals' through his home-made lenses in the 1670s; Ignaz Semmelweis → made doctors wash in chlorine water in 1847; John Snow → showed that cholera spread through one water pump in London in 1854; Filippo Pacini → first saw and described the cholera germ, in 1854. *Why:* Each person added one piece. Germ theory was built by many people over about 300 years.
-### Hidden Worlds and Big Ideas (challenge) (challenge, 16 questions)
+### Hidden Worlds and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Look at the chart of Semmelweis's numbers. What happened after hand-washing began in May 1847?  
    Options: Deaths fell from about 18 out of 100 to about 2 out of 100 / Deaths stayed the same / Deaths went up / Nobody counted  
    **Answer:** Deaths fell from about 18 out of 100 to about 2 out of 100. *Why:* The numbers fell sharply after washing began, and stayed low. Picking 'nobody counted' misses how important counting was. The careful counts were the evidence.
@@ -639,20 +632,17 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 9. (write) Design a fair test to find out whether reetha water or soap cleans oil off a steel plate better. What will you change? What will you keep the same?  
    **Answer:** A strong answer changes only the cleaner: reetha water on one plate, soap on another. It keeps the same amount of oil, the same plates, the same amount of water and the same number of wipes. Then it compares how greasy each plate feels, or how a tissue looks after wiping.. *Why:* A good fair test changes one thing and names at least three things kept the same.
 10. (write) In the story, Anna was nine. She nearly did not speak, because the man in front of her was a doctor. Why is it good for science when everyone's observations count, not only those of important people?  
-   **Answer:** A strong answer says that anyone can notice a clue, and the person who notices may not be important. Anna knew that ordinary soap did not remove a bad smell, but chlorine water did. If the doctor had not listened, the clue would have been lost.. *Why:* Evidence matters, not who brings it. The midwives' careful counts and Anna's nose were both evidence.
+   **Answer:** A strong answer says that anyone can notice a clue, and the person who notices may not be important. Anna knew that ordinary soap did not remove a bad smell, but chlorine water did. If the doctor had not listened, the clue would have been lost.. *Why:* Evidence matters, not who brings it. Anna and her chlorine tub are made up, but the midwives' careful counts were real evidence.
 11. (write) Microbes lived on Earth for billions of years before any animal. Do you think they matter only for what they do for people? Give a reason.  
    **Answer:** A strong answer gives a view with a reason. For example: no, they matter for themselves, because they are living beings with their own lives, and the whole Earth depends on them, not just people.. *Why:* There is no single right answer. A good answer gives a reason.
-12. (order) Put these steps in order, to show how soap cleans an oily hand.  
-   **Answer:** ['The soap tails push into the oil on your skin', 'Rubbing breaks the oil into tiny drops', 'Soap molecules wrap each drop, heads facing out to the water', 'The rinse water carries the wrapped drops, and the germs in them, down the drain']. *Why:* Each step needs the one before. That is why rubbing for 20 seconds matters: without it, the oil stays in big patches that the soap cannot wrap.
-13. (write) Some people say dirt is just 'something in the wrong place'. Do you agree? Give one example for and one against.  
+12. (write) Some people say dirt is just 'something in the wrong place'. Do you agree? Give one example for and one against.  
    **Answer:** A strong answer gives an example for each side. For example: for, soil is good in a flowerpot but dirty on a plate. Against, some things, like cholera germs in drinking water, are harmful almost anywhere we meet them.. *Why:* There is no single right answer. What counts is a reason for each side.
-14. (mcq) Why might plants like reetha make soap-like molecules?  
-   Options: To protect themselves from insects and fungi / So people can wash their hair / To make the fruit sweeter / By accident, for no reason  
-   **Answer:** To protect themselves from insects and fungi. *Why:* Saponins taste bitter and can harm insects and fungi, which helps protect the plant. Picking 'so people can wash' is a very human-centred idea. Plants were making saponins long before people existed.
-15. (mcq) Some tummy viruses have no oily coat, so soap cannot break them. Why does washing with soap still help against them?  
+13. (order) Put these steps in order, to show how soap cleans an oily hand.  
+   **Answer:** ['The soap tails push into the oil on your skin', 'Rubbing breaks the oil into tiny drops', 'Soap molecules wrap each drop, heads facing out to the water', 'The rinse water carries the wrapped drops, and the germs in them, down the drain']. *Why:* Each step needs the one before. That is why rubbing for 20 seconds matters: without it, the oil stays in big patches that the soap cannot wrap.
+14. (mcq) Some tummy viruses have no oily coat, so soap cannot break them. Why does washing with soap still help against them?  
    Options: Soap and rubbing lift them off the hands, and the water carries them away / Soap makes them grow an oily coat / Washing does not help at all / The water is too cold for them  
    **Answer:** Soap and rubbing lift them off the hands, and the water carries them away. *Why:* Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'washing does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands.
-16. (write) A friend says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when sanitiser is a good choice.  
+15. (write) A friend says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when sanitiser is a good choice.  
    **Answer:** A strong answer chooses soap and water for greasy hands, because soap lifts the oil the germs sit in, and sanitiser does not remove oil or dirt. It adds that some tummy viruses are not killed well by sanitiser. It then gives the friend a fair point: sanitiser is useful when hands look clean and there is no soap or water, such as on a bus.. *Why:* Health experts say to wash with soap and water when you can, and use sanitiser when you cannot. Killing is not always better than removing.
 
 ## Videos
@@ -697,13 +687,10 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 12. (mcq) What did Semmelweis do in 1847?  
    Options: Made doctors wash their hands in chlorine water before touching mothers / Invented the microscope / Discovered soap  
    **Answer:** Made doctors wash their hands in chlorine water before touching mothers. *Why:* The washing basin made deaths in his ward fall sharply. Picking 'microscope' is a mix-up: microscopes were around for 200 years before him.
-13. (mcq) Semmelweis compared his ward with another, safer ward. Who ran it?  
-   Options: Midwives / Soldiers / Priests  
-   **Answer:** Midwives. *Why:* The midwives' ward had far fewer fevers. Their careful work gave Semmelweis his clue. Picking another answer usually means the midwives were left out of the story, as they often are.
-14. (mcq) Most microbes are…  
+13. (mcq) Most microbes are…  
    Options: Harmless or helpful / Germs that make us ill / Found only in dirty places  
    **Answer:** Harmless or helpful. *Why:* Only a small number of microbes are germs. Many help us, the soil and the sea. Picking 'germs' is a very common belief, often from adverts.
-15. (mcq) What do scientists still argue about?  
+14. (mcq) What do scientists still argue about?  
    Options: Whether too few harmless microbes in early life helps cause allergies / Whether germs exist / Whether soap holds oil  
    **Answer:** Whether too few harmless microbes in early life helps cause allergies. *Why:* The hygiene hypothesis and the 'old friends' idea are still debated. Picking the others misses that germs and soap are well understood.
 
@@ -744,30 +731,17 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - Who cleaned our street today?
 - The curd set overnight. Who did that work?
 - If you could see germs, what colour would you want them to be?
-- Is dirt just something in the wrong place?
 - How many times have you touched your face since lunch?
-- When you wash your hands, where do the germs go?
 
 ## Jokes
-- Why did the germ cross the road? *They were riding on someone's hand.*
-- What did the soap say to the oil? *I've got you, and I'm not letting go.*
-- Why was the soap so good at making friends? *It gets on with everyone, oil and water both.*
 - What is a germ's least favourite song? *Happy Birthday, sung twice at the tap.*
 - Why did the bar of soap sit in the puddle all day? *It wanted to slip away.*
-- What do you call a germ that never washes? *Very lucky.*
-- Why don't mosquitoes like dry days? *They have nowhere to have a swim.*
 - Why was the reetha so bubbly? *It just couldn't stop foaming about soap.*
-- What did the hand say to the tap? *Let's keep this clean.*
-- Why did the micelle go down the drain? *It was carrying a heavy load of oil.*
-- Why was the elbow so proud? *It caught the sneeze of the year.*
 - Why did the germ fail the test? *They got washed out.*
 - Why are bacteria such good maths students? *They multiply very fast.*
-- What did the towel say to the wet hands? *Don't worry, I've got your back. And your front.*
 - Why did the bread go mouldy first? *It shook hands without washing.*
 - Why did the curd microbes get a medal? *For culture.*
-- What did the virus say when they met soap? *I think I'm coming apart.*
-- What did one friendly skin microbe say to the other? *This is a great neighbourhood. Let's stay.*
-- Why did the doctor keep a basin by the door? *To wash his hands of the problem.*
+- Why did the doctor keep a basin by the door? *To wash her hands of the problem.*
 - Why was the tippy-tap so polite? *It always bowed before giving you water.*
 - What do you call a sneeze in the elbow? *A sleeve-ing gift. Much better than a hand-out.*
 
@@ -790,13 +764,11 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for exhibits about the human body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for its galleries on biology and the human body.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum in the city where Robert Koch studied the cholera germ in 1884.
-- [A local water treatment plant, a kirana shop and your street's sweepers]() · place · anywhere: Ask a kirana shop for reetha and shikakai. Some city water boards allow school visits to treatment plants. And ask your street's sweepers how they keep it clean.
 
 ## Things to buy
-- [Dried reetha (soapnuts)](https://www.amazon.in/s?k=reetha+soapnut+dried) (material): Shows that a plant makes their own soap-like molecules. Used in the reetha foam activity. Used in a2. 
-- [Plant spray bottle](https://www.amazon.in/s?k=plant+spray+bottle) (tool): Makes the pretend sneeze in the Sneeze Catcher challenge. Used in c1. 
-- [A simple student microscope or a phone clip-on microscope lens](https://www.amazon.in/s?k=student+microscope+kids) (tool): Lets a child see mould threads, pond-water life and the cells of an onion skin, as Leeuwenhoek did. Used in e4, a6. If bought, add a 15-minute look at pond water or curd on the timeline day, to see real 'little animals'.
-- [Germs Make Me Sick!, by Melvin Berger (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Germs+Make+Me+Sick+Melvin+Berger) (book): A clear picture book about germs and how to stay healthy, for ages 5 to 8. Used in g1. If bought, read it after the story.
+- [Dried reetha (soapnuts)](https://www.amazon.in/s?k=reetha+soapnut+dried) (material): Shows that a plant makes their own soap-like molecules. Used in a2. 
+- [Plant spray bottle (or a washed empty cleaner spray bottle from home)](https://www.amazon.in/s?k=plant+spray+bottle) (tool): Makes the pretend sneeze in the Sneeze Catcher challenge. Used in c1. 
+- [Germs Make Me Sick!, by Melvin Berger (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Germs+Make+Me+Sick+Melvin+Berger) (book): A clear picture book about germs and how to stay healthy, for ages 5 to 8. Used in g1. 
 
 ## Warm-up
 - A soap molecule has a head that sticks to ____ and a tail that sticks to oil. → water
@@ -804,10 +776,7 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song
 - Why does water alone not clean oily hands? → Water slides off oil, and germs stick in the oil.
 - Where should you sneeze if there's no tissue? → Into your elbow.
 - Are most microbes germs? → No. Most are harmless or helpful.
-- Who made doctors wash their hands in chlorine water in 1847? → Ignaz Semmelweis, after comparing his ward with the midwives' ward.
-- How often should we empty still water to stop mosquitoes? → Once a week.
 - What makes reetha foam? → Saponins, its own soap-like molecules.
-- Is warm water needed to wash hands well? → No. Cold and warm work about the same.
 - After a wash with plain soap, are most of the germs from your hands dead or alive? → Mostly alive. The soap lifted them off, and the rinse water carried them down the drain.
 
 ## Plan

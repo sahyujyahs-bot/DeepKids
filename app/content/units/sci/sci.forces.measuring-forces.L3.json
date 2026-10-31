@@ -2,14 +2,14 @@
  "id": "sci.forces.measuring-forces.L3",
  "title": "How to measure a force, and why we all use newtons",
  "level": 3,
- "playtest": "Checked at home in thought, step by step. The coin pull works on a wooden or laminate table with thin school notebooks: one notebook usually needs 5 to 10 five-rupee coins, and a stack of two needs about twice as many. If one notebook needs more than 12 coins, use thinner notebooks or a smoother table. If it slides with no coins, the cup is too heavy. A cushion under the cup stops coins rolling away. Counts vary by a coin or two between tries, which is why each test is done 3 times. The water version needs something marked in millilitres: the measuring cap of a cough syrup bottle works. In the box illusion, people must see the boxes, and the small box must be a tin filled with coins, because a matchbox cannot hold enough. Digital bathroom scales may freeze their first reading, so step on again for each change. A real forcemeter is needed only for the Go deeper parts.",
+ "playtest": "Checked at home in thought, step by step. The coin pull works on a wooden or laminate table with thin school notebooks: one notebook usually needs 5 to 10 five-rupee coins, and a stack of two needs about twice as many. If one notebook needs more than 12 coins, use thinner notebooks or a smoother table. If it slides with no coins, the cup is too heavy. A cushion under the cup stops coins rolling away. Counts vary by a coin or two between tries, which is why each test is done 3 times. The water version needs something marked in millilitres: the measuring cap of a cough syrup bottle works. In the box illusion, people must see the boxes, and the small box must be a tin filled with coins, because a matchbox cannot hold enough. Digital bathroom scales may freeze their first reading, so step on again for each change. A real forcemeter (0 to 50 newtons) is needed for the pull detective, the tug of war and Guess the Newtons; the box illusion needs one that reads 0 to 10 newtons.",
  "summary": {
   "text": "How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can get different numbers and both be right, because you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn to measure force in newtons with a forcemeter, a spring tool. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.",
   "art": "A child holding a spring forcemeter with an apple hanging from its hook, the pointer on 1 N. Behind her is a ladder of pictures from a feather up to a rocket."
  },
  "intro": {
   "hook": "Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of rice in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?",
-  "text": "Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be your grandmother's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.",
+  "text": "Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be another person's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.",
   "art": "A child with eyes closed holding a small packet in one hand and a big rice packet in the other, a big question mark above."
  },
  "outcomes": [
@@ -712,7 +712,7 @@
    "'Nineteen,' he said quietly.",
    "That season, every porter put a few rupees into a tin. At the end of the summer, they bought their own spring balance from the town. They hung it on a nail on the walnut tree. And every morning after that, before the first basket went on the hook, somebody would call out across the cold air: 'Pushpa! Check the zero!' And Pushpa would look, and nod, and the weighing would begin."
   ],
-  "epiphany": "A spring balance is a forcemeter. It turns a pull into a number by stretching a spring. But the number is only fair if the balance agrees with something everyone already trusts. Pushpa does what scientists call calibrating. She tests the balance with ten packets whose weight everybody has agreed on. Then a second, different balance agrees with them. Her mother's tired back could not prove anything, because a feeling belongs to one person. Ten sealed packets belonged to everyone. That is the whole idea of a unit: a number means something only because people share what it counts. The story also quietly asks who is believed, and who carries the load.",
+  "epiphany": "A spring balance is a forcemeter. It turns a pull into a number by stretching a spring. But the number is only fair if the balance agrees with something everyone already trusts. Pushpa does what scientists call calibrating. She tests the balance with ten packets whose weight everybody has agreed on. Then a second, different balance agrees with them. Her mother's tired back could not prove anything, because a feeling belongs to one person. Ten sealed packets belonged to everyone. That is the whole idea of a unit: a number means something only because people share what it counts.",
   "ask": [
    "Basanti said her basket felt like twenty-five kilos. Why couldn't her feeling prove that the balance was wrong?",
    "What was wrong with Mohan Lal's balance before anything was hung on it?",
@@ -735,7 +735,7 @@
    "id": "g1",
    "title": "Guess the Newtons",
    "mins": 25,
-   "players": "2 to 5 players, or one child playing against the grown-up's guesses",
+   "players": "2 to 5 players",
    "context": "This is an estimating game. Players guess how hard everyday things pull down, in newtons, and then check with a forcemeter. The closest guess wins points.",
    "printables": [
     {
@@ -769,8 +769,7 @@
      "title": "Guess and check sheet",
      "items": [
       "Thing",
-      "Player 1 guess (N)",
-      "Player 2 guess (N)",
+      "Everyone's guesses (N)",
       "Forcemeter shows (N)",
       "Who was closest?"
      ]
@@ -792,7 +791,9 @@
     "On your turn, turn over a card. Find that thing at home.",
     "Every player holds the thing in their hand and writes a guess in newtons. Use the newton helper strip to help.",
     "Put the thing in the bag and read the forcemeter. Write the real number.",
-    "The closest guess wins 2 points. A guess within 1 newton wins 1 extra point.",
+    "The closest guess wins 2 points. A guess within 1 newton wins 1 extra point. If two guesses are equally close, both players score.",
+    "MYSTERY BAG card: one player fills a bag in secret with things from home. That player does not guess. Everyone else lifts the bag, guesses, and then checks it on the forcemeter. With two players, the grown-up fills the bag and only the child guesses; the child scores 2 points for a guess within 3 newtons.",
+    "YOUR CHOICE card: the player whose turn it is picks anything at home that fits in the bag. Everyone guesses.",
     "After 10 cards, add up the points. The player with the most points wins."
    ],
    "flow": [
@@ -822,7 +823,7 @@
        "on the biggest number"
       ],
       "a": 1,
-      "why": "Exactly on zero. Then every reading in the game starts fair. If it starts at 1, every reading is 1 newton too big, and every guess is judged against the wrong number. Picking 'the biggest number' mixes up the start of the scale with the end."
+      "why": "Exactly on zero. Turn the zero screw with the empty bag hanging. If it cannot be set, write down the empty reading and take it away each time. Then every reading in the game starts fair. If it starts at 1, every reading is 1 newton too big, and every guess is judged against the wrong number. Picking 'the biggest number' mixes up the start of the scale with the end."
      }
     },
     {
@@ -842,7 +843,7 @@
        ]
       }
      ],
-     "parent": "Guesses usually get better as the game goes on. That is the point. Praise the method, for example 'you compared it with the bottle', not just the closest number."
+     "parent": "Things lighter than about 1 newton, like a pencil or a spoon, barely move a 0 to 50 newton forcemeter. For those cards, use the 0 to 10 newton forcemeter, or hang several together. Guesses usually get better as the game goes on. That is the point. Praise the method, for example 'you compared it with the bottle', not just the closest number."
     },
     {
      "id": "s4",
@@ -898,7 +899,7 @@
        "b": "About 6 millionths of a millionth of a newton"
       },
       {
-       "f": "The gravity pull between the lead balls in Cavendish's experiment",
+       "f": "The gravity pull between the lead balls in Henry Cavendish's experiment of 1798",
        "b": "About the weight of a fine grain of sand"
       },
       {
@@ -986,8 +987,8 @@
        "b": "About 200 million million million newtons"
       },
       {
-       "f": "MYSTERY",
-       "b": "Hang something from home on a forcemeter and write its newtons here"
+       "f": "MYSTERY: pick something from home and weigh it",
+       "b": "Write the thing and its newtons here"
       }
      ]
     },
@@ -1008,15 +1009,16 @@
     "On your turn, take a card and read only the front out loud.",
     "Guess which rung it belongs on. Put it there. Then turn the card over and check.",
     "A right guess wins 1 point. If it is on the wrong rung, move it to the right one.",
-    "When all the cards are placed, put the cards on each rung in order, smallest to biggest."
+    "MYSTERY card: guess its rung first. Then hang something from home on a forcemeter, write the thing and its newtons on the back, and check your guess. Score 1 point for a right guess.",
+    "When all the cards are placed, put the cards on each rung in order, smallest to biggest. The player with the most points wins. If you are playing alone, try to beat your own best score."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the four rungs of the ladder on the floor in a column. 2. Fold the numbers under on every card. 3. Shuffle the cards.",
+     "do": "1. Lay the four rungs of the ladder on the floor in a column. 2. Cut out the cards and keep the number sides face down. 3. Shuffle the cards.",
      "say": "This ladder goes from tiny forces at the bottom to huge forces at the top. Let's see where every force belongs.",
-     "kid": "Lay the ladder on the floor. Tiny at the bottom. Huge at the top. Fold the numbers under on every card.",
+     "kid": "Lay the ladder on the floor. Tiny at the bottom. Huge at the top. Keep the number sides face down.",
      "context": "This is the first step of Climb the Force Ladder. You set up a ladder that goes from tiny forces to huge ones."
     },
     {
@@ -1043,7 +1045,7 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Take turns. Each player reads a card, places it, then unfolds the number to check.",
+     "do": "Take turns. Each player reads a card, places it, then turns it over to check the number.",
      "say": "Read the card. Close your eyes and imagine it. Is it tiny, small, medium or huge?",
      "kid": "Read your card. Imagine that force. Put it on a rung. Then check the number.",
      "context": "This is the main part of Climb the Force Ladder. Players put each force on the rung where they think it belongs.",
@@ -1074,12 +1076,12 @@
      "caption": "1. Lay the four rungs of the ladder on the floor."
     },
     {
-     "art": "A force card with its number folded underneath, a child placing it on the MEDIUM rung.",
+     "art": "A force card lying with its number side face down, a child placing it on the MEDIUM rung.",
      "caption": "2. Read a card. Put it on the rung you think is right."
     },
     {
      "art": "The finished ladder full of cards, from a molecule at the bottom to the Earth and Moon at the top.",
-     "caption": "3. Unfold the numbers to check. Read the ladder from bottom to top."
+     "caption": "3. Turn the cards over to check. Read the ladder from bottom to top."
     }
    ]
   }
@@ -1136,7 +1138,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pokes the holes in the cup. Put a cushion under the cup, so the coins land softly when the notebook slides. Keep coins away from babies and toddlers, who might swallow them. Wash hands after handling coins.",
+   "safety": "A grown-up pokes the holes in the cup. Put a cushion under the cup, so the coins land softly when the notebook slides. Keep coins away from babies and toddlers, who might swallow them.",
    "schedule": [
     {
      "day": 1,
@@ -1282,11 +1284,11 @@
      "id": "s7",
      "mins": 3,
      "do": "Ask what would happen if every family used its own coins, buttons or stones. Let your child answer before you say anything.",
-     "say": "Your cousin in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours? What would we both need, to compare?",
-     "kid": "Your cousin uses buttons and says 'eleven'. Is her pull bigger than yours? What would you both need?",
+     "say": "A child in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours? What would we both need, to compare?",
+     "kid": "A child in another city uses buttons and says 'eleven'. Is her pull bigger than yours? What would you both need?",
      "ask": [
       {
-       "q": "What would you and your cousin need, to compare your pulls?",
+       "q": "What would you and that child need, to compare your pulls?",
        "good": [
         "The same unit.",
         "We both use the same kind of thing.",
@@ -1304,7 +1306,7 @@
      "say": "Tell me three things. What do you think now, about stacking notebooks or about units? Which numbers show it? And why do you think it happened? Now let's read your first guesses. Would you change them?",
      "kid": "Say or write three things. What I think now. Which numbers show it. Why it happened. Then read your first guesses again.",
      "how": "e4",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and Amma needed 12 for the same notebook. Why: her coins were lighter.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and a grown-up needed 12 for the same notebook. Why: her coins were lighter.",
      "context": "This is the last step of the coin-pull investigation. You say what you found, which numbers show it, and why."
     }
    ]
@@ -1316,7 +1318,7 @@
    "days": 1,
    "context": "This is the pull detective experiment. You hook a forcemeter onto doors, drawers and bags around the home. You find how big a pull each one needs, in newtons, and compare it with your guesses.",
    "question": "Which pull at home needs the biggest force: a door, a drawer, a bag or a chair?",
-   "predict": "Before you use the forcemeter, put the six pulls in order, biggest first. Say why you put the first one first and the last one last.",
+   "predict": "Before you use the forcemeter, put the six pulls (the fridge door, a drawer, a chair, a school bag, a cupboard door and a slipper) in order, biggest first. Say why you put the first one first and the last one last.",
    "fair_test": "Pull every thing the same way: slowly and steadily, straight along the forcemeter. Read the biggest number just as the thing starts to move. Test each pull 2 times, because one try can be a fluke.",
    "results_table": [
     "What we pulled",
@@ -1433,7 +1435,7 @@
       "rows": [
        [
         "Kitchen drawer",
-        "5",
+        "4",
         "4",
         "5",
         "5"
@@ -1504,8 +1506,8 @@
      "kid": "Look at your guesses. Look at your bars. Which one surprised you?",
      "context": "This step of the pull detective experiment compares your guesses with the forcemeter's numbers.",
      "how": "e1",
-     "think": "Why do you think the fridge door needs a bigger pull than its size suggests?",
-     "parent": "The fridge door often surprises children. Ask why before you explain. A magnetic strip in the rubber seal pulls the door shut."
+     "think": "Which pull surprised you most? Why do you think it needed so much, or so little?",
+     "parent": "Ask your child to explain any surprise before you explain it. If the fridge door needed a big pull, one reason is the magnetic strip in its rubber seal, which pulls the door shut."
     },
     {
      "id": "s6",
@@ -1513,7 +1515,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "So, which pull was biggest? Which numbers show it? Why do you think that one needed so much?",
      "kid": "Say or write three things. Which pull was biggest. Which numbers show it. Why you think so.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the fridge door needs a big pull. What I saw: it needed 18 newtons, but the drawer only needed 5. Why: there is a magnet in the fridge door pulling it shut.",
+     "parent": "A good answer sounds like this. What I think: the fridge door needs a big pull. What I saw: it needed 18 newtons, but the drawer only needed 5. Why: there is a magnet in the fridge door pulling it shut.",
      "context": "This is the last step of the pull detective experiment. You say what you found, which numbers show it, and why.",
      "how": "e1"
     }
@@ -1596,7 +1598,7 @@
      "what": "Stand on the scale. Press down on a table, pull up on it, and bend your knees. Write what the number does."
     }
    ],
-   "record": "Fill in the table. For each kilogram, write about 10 newtons beside it. Draw an arrow for your push on the scale in each picture.",
+   "record": "Fill in the table. For each kilogram, write about 10 newtons beside it. For each test, draw yourself on the scale with an arrow for your push on it.",
    "setup": [
     {
      "art": "A bathroom scale on the floor beside a strong table, a child standing still on it, both hands at the sides.",
@@ -1685,7 +1687,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think the scale shows? Which numbers show it? And why did the number change when you pressed the table?",
      "kid": "Say or write three things. What the scale really shows. Which numbers show it. Why it changed.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the scale shows my push. What I saw: it showed 25 standing still, 18 pressing the table and 29 pulling up. Why: the table took some of my push, or added to it. There was always the same amount of me.",
+     "parent": "A good answer sounds like this. What I think: the scale shows my push. What I saw: it showed 25 standing still, 18 pressing the table and 29 pulling up. Why: the table took some of my push, or added to it. There was always the same amount of me.",
      "context": "This is the last step of the bathroom scale experiment. You explain what you found, like a scientist.",
      "how": "e2"
     }
@@ -1699,7 +1701,7 @@
    "context": "This is the big box and small box experiment. You make a big box and a small box pull exactly the same on a forcemeter. Then you ask people which one feels heavier.",
    "question": "If two boxes pull a forcemeter with exactly the same force, will they feel the same when we lift them?",
    "predict": "Before you start, guess. Will people say the big box feels heavier, the small box feels heavier, or that they feel the same? Why do you think so?",
-   "fair_test": "Make both boxes pull the forcemeter to exactly the same number. Wrap them the same way, so the outside looks alike. Ask each person to look at both boxes and lift them the same way, one in each hand, by the string loops. Ask at least 3 people, and more if you can.",
+   "fair_test": "Make both boxes pull the forcemeter to exactly the same number. Use the same kind of string loop on both. Ask each person to look at both boxes and lift them the same way, one in each hand, by the string loops. Swap the boxes between hands for each new person. Ask at least 3 people, and more if you can.",
    "results_table": [
     "Person",
     "Which felt heavier: big, small or same?"
@@ -1731,7 +1733,7 @@
      "qty": 3
     }
    ],
-   "safety": "Keep the boxes light, under 5 newtons each. Wash hands after handling coins.",
+   "safety": "Keep coins away from babies and toddlers, who might swallow them.",
    "schedule": [
     {
      "day": 1,
@@ -1795,7 +1797,7 @@
      "say": "Please lift these two boxes. Which one feels heavier to you?",
      "kid": "Ask a person to lift both boxes. Ask which feels heavier. Write their answer.",
      "context": "This is the main part of the big box and small box experiment. You ask at least 3 people which box feels heavier.",
-     "parent": "Most people say the small box feels heavier, often much heavier. Some even refuse to believe the forcemeter. People must see the boxes: the trick works because they can see which box is bigger."
+     "parent": "Most people say the small box feels heavier, often much heavier. A few may say they feel the same, and that is a real result too. Some even refuse to believe the forcemeter. People must see the boxes: the trick works because they can see which box is bigger."
     },
     {
      "id": "s4",
@@ -1836,7 +1838,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. Can our hands be fooled? Which answers show it? And why do you think people felt the small box was heavier?",
      "kid": "Say or write three things. What you think about hands. Which answers show it. Why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: hands can be fooled. What I saw: both boxes showed 3 newtons, but 5 of 6 people said the small one felt heavier. Why: our brains expect big things to be heavier, so the big box surprised them by being light.",
+     "parent": "A good answer sounds like this. What I think: hands can be fooled. What I saw: both boxes showed 3 newtons, but 5 of 6 people said the small one felt heavier. Why: one common explanation is that our brains expect big things to be heavier, so the big box surprised them by being light. Scientists still argue about the full reason.",
      "context": "This is the last step of the big box and small box experiment. You explain what you found, like a scientist.",
      "how": "e3"
     }
@@ -1969,12 +1971,11 @@
      "qty": 1
     }
    ],
-   "safety": "Hold the heavier things low over a bed or a cushion, in case they slip.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Hold 1, 5 and 10 newtons. Make a one newton kit."
+     "what": "Hold 1 and 10 newtons. Make a one newton kit."
     }
    ],
    "record": "Draw your one newton kit. Write '1 N' beside each thing that pulls with about 1 newton.",
@@ -2039,19 +2040,22 @@
    "days": 1,
    "materials": [
     {
-     "item": "the printed paper forcemeter scale, 0 to 10 newtons, with half-newton marks",
+     "item": "a strip of stiff card, about 25 cm long and 4 cm wide, for the scale",
      "qty": 1
     },
     {
-     "item": "a strip of card with a red line on it, for the pointer slider, and a toothpick",
+     "item": "a second strip of card, about 11 cm long and 2 cm wide, for the slider",
      "qty": 1
     },
     {
-     "item": "scissors and sticky tape",
+     "item": "a ruler, a pencil and a marker pen",
+     "qty": 1
+    },
+    {
+     "item": "a toothpick, a small piece of card, scissors and sticky tape",
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -2078,15 +2082,15 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Cut out the paper scale and the card slider. 2. Fold the slider around the scale so it can slide up and down. 3. Fold a small piece of card into a little block. Tape it on the front of the slider. Then tape a toothpick across the block. The toothpick is the pointer. It now stands about 1 centimetre in front of the scale, like the pointer on a real forcemeter.",
+     "mins": 5,
+     "do": "1. On the long strip, draw a line down the middle. Write 0 at the bottom. Going up, make a mark every 2 cm and write 1, 2, 3 up to 10. 2. Make a small mark halfway between each pair of numbers. These are the half-newton marks. 3. Fold the short strip round the long one like a sleeve. Tape its ends together loosely, so it slides up and down. This is the slider. 4. Fold the small piece of card into a little block. Tape it on the front of the slider, and tape the toothpick across the block. The toothpick is the pointer. It stands about 1 centimetre in front of the scale, like the pointer on a real forcemeter.",
      "say": "We're going to make a pretend forcemeter. The pointer slides, just like the real one.",
-     "kid": "Cut out the scale and the slider. Fold the slider round the scale. Tape a toothpick on it as the pointer. Slide it up and down.",
+     "kid": "Draw a scale on the long strip. Mark 0 to 10. Add a half mark between numbers. Make a slider. Tape a toothpick on it.",
      "context": "This is the first step of the forcemeter reading practice. You make a paper forcemeter."
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 7,
      "do": "1. Slide the pointer to a reading, without your child seeing. 2. They read it, with their eyes level with the pointer. 3. Do 8 readings: 2, 5, 7 and a half, 0, 3 and a half, 9, 1 and a half, 10.",
      "say": "Count the big numbers first. Then count the little marks after it. Each little mark is half a newton.",
      "kid": "Read the big number first. Then count the small marks. Each one is half a newton. Say the unit too.",
@@ -2220,7 +2224,7 @@
      "qty": 1
     },
     {
-     "item": "600 grams of uncooked rice",
+     "item": "1.5 kilograms of uncooked rice (a 1 kilogram packet and a 500 gram packet). The rice is only weighed, not cooked.",
      "qty": 1
     },
     {
@@ -2233,7 +2237,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do it over a tray, so spilled rice is easy to pick up.",
    "schedule": [
     {
      "day": 1,
@@ -2334,7 +2337,6 @@
      "qty": 1
     }
    ],
-   "safety": "Go with a grown-up. Be polite, and ask before touching any scale.",
    "schedule": [
     {
      "day": 1,
@@ -2415,7 +2417,6 @@
      "qty": 1
     }
    ],
-   "safety": "Put a tray or towel under the cup, and wipe up spills straight away, so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -2444,7 +2445,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Empty the coins out of the cup and hang it again. 2. Ask your child to guess how much water will start the notebook sliding, and why.",
-     "say": "Your cousin can't use our coins. But she has water. How much water do you think it will take to slide one notebook? Why?",
+     "say": "A child in another city can't use our coins. But she has water. How much water do you think it will take to slide one notebook? Why?",
      "kid": "Now you will use water, not coins. How much water will start the notebook sliding? Guess, and say why.",
      "ask": [
       {
@@ -2494,8 +2495,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask why water might be a better unit than coins. Let your child answer first.",
-     "say": "Could your cousin in another city repeat this test exactly? Why might water be a better unit than our coins?",
-     "kid": "Could your cousin repeat this test? Why is water better than your coins?",
+     "say": "Could a child in another city repeat this test exactly? Why might water be a better unit than our coins?",
+     "kid": "Could a child in another city repeat this test? Why is water better than your coins?",
      "ask": [
       {
        "q": "Why is water a good thing to share?",
@@ -2506,7 +2507,7 @@
        ]
       }
      ],
-     "parent": "France first defined the gram in 1795 in almost this way. It was the mass of a little cube of water, 1 centimetre on each side. Today the kilogram is fixed by a number from nature instead.",
+     "parent": "Today the kilogram is fixed by a number from nature instead of by an object.",
      "think": "Water changes a tiny bit when it is hot or cold. Would a perfect unit need something that never changes at all?",
      "context": "This is the last step of the water-pull activity. You think about why water makes a unit anyone can share."
     }
@@ -2633,7 +2634,7 @@
     {
      "id": "s5",
      "mins": 14,
-     "do": "Day 2. 1. Check the zero again. 2. Hang five things in the bag, one at a time. Try an apple, a steel spoon, a pencil box, a small water bottle and a potato. 3. Write each reading. 4. Check each one on a kitchen scale and divide the grams by 100, or use a real forcemeter. No scale? Test sealed packets with their weight printed on them, such as a 200 gram biscuit packet.",
+     "do": "Day 2. 1. Check the zero again. 2. Hang five things in the bag, one at a time. Try an apple, a steel tumbler, a pencil box, a potato and a small bottle of water (300 millilitres). 3. Write each reading. 4. Check each one on a kitchen scale and divide the grams by 100, or use a real forcemeter. No scale? Test sealed packets with their weight printed on them, such as a 200 gram biscuit packet.",
      "say": "Before we check, guess: will our forcemeter agree with the kitchen scale? Why? Now let's see if it tells the truth.",
      "kid": "Check the zero. Hang five things. Write the newtons. Then check them on the kitchen scale. Do they agree?",
      "context": "This is day 2 of the forcemeter building project. You test your forcemeter against a kitchen scale.",
@@ -2656,10 +2657,10 @@
         "1 and a half"
        ],
        [
-        "Water bottle",
-        "5",
-        "520",
-        "about 5"
+        "Small bottle with 300 ml of water",
+        "3",
+        "320",
+        "about 3"
        ],
        [
         "Pencil box",
@@ -2752,7 +2753,7 @@
      "kid": "Build your tool. Test it with 1, 2 and 3 sheets. Write down how far it moves each time.",
      "context": "This is the main part of the paper challenge. You build your tiny-force meter and test it.",
      "how": "c1",
-     "parent": "With a 30 cm plastic ruler sticking out about 25 cm, one sheet usually bends it a few millimetres. A straw pointer makes it easier to see."
+     "parent": "With a 30 cm plastic ruler sticking out about 25 cm, one sheet usually bends it a few millimetres. A straw pointer makes it easier to see. If your ruler hardly bends, try a longer or thinner one, or use the straw balance instead."
     },
     {
      "id": "s4",
@@ -2878,16 +2879,16 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 4, needed 6 big coins to slide a notebook. His sister Meenakshi needed 12 small coins for the same notebook on the same table. Farhan says, 'Meenakshi pulled twice as hard as me.' What is wrong with his idea?",
+     "p": "You push a plastic cup with a balloon, and then a heavy chair. The balloon squashes much more against the chair. What does that show?",
      "opts": [
-      "Nothing. He is right",
-      "It was the same pull. Only the unit was different, because her coins were smaller",
-      "Big coins always pull less than small coins",
-      "Meenakshi must have counted wrongly"
+      "The push on the chair was bigger",
+      "The chair is softer than the cup",
+      "The balloon got tired",
+      "Nothing, because the balloon is not a tool"
      ],
-     "a": 1,
-     "why": "Same notebook and same table means the same pull is needed. Small coins are lighter, so more of them are needed for that pull. Farhan compared 6 and 12 without asking what each number counts. A number means nothing without its unit.",
-     "how": "e4"
+     "a": 0,
+     "why": "A balloon squashes more when the push is bigger, so it shows big and small pushes, but not an exact number. Picking 'the chair is softer' forgets that the same balloon was used for both pushes.",
+     "how": "a1"
     },
     {
      "t": "fill",
@@ -2943,19 +2944,6 @@
       "value": 3.5,
       "unit": "N"
      }
-    },
-    {
-     "t": "mcq",
-     "p": "A forcemeter has nothing hanging on it. Its pointer sits on 1, not on 0. What will happen if you use it like this?",
-     "opts": [
-      "Every reading will be 1 newton too big",
-      "Every reading will still be right",
-      "Every reading will be 1 newton too small",
-      "The spring will snap"
-     ],
-     "a": 0,
-     "why": "The pointer has a 1 newton head start before anything is hooked on. So every pull will show 1 newton more than it really is. That is why you check the zero first. Picking 'still right' means the zero was thought not to matter.",
-     "how": "a3"
     },
     {
      "t": "truefalse",
@@ -3057,7 +3045,7 @@
      "ask": "Who do you agree with more? Give a reason from your coin test. Then say one good point the other person makes.",
      "lines": 5,
      "a": "Both are partly right. Kavya is right that the coin unit works inside one house, where everyone uses the same coins. Her grandmother is right that the coin unit can't be shared with someone who has different coins. So a strong answer might say: for sharing with others, newtons are better, but for comparing at home, coins work.",
-     "why": "A strong answer picks a side, uses something from the test (for example, 'Amma needed 12 small coins where I needed 6 big ones'), and fairly says what the other side gets right. There is no single right answer.",
+     "why": "A strong answer picks a side, uses something from the test (for example, 'a grown-up needed 12 small coins where I needed 6 big ones'), and fairly says what the other side gets right. There is no single right answer.",
      "how": "e4"
     },
     {
@@ -3090,9 +3078,9 @@
    "items": [
     {
      "t": "write",
-     "p": "In the water-pull activity, you started a notebook sliding with water instead of coins. Why can your cousin in Kochi repeat a water test exactly, but not a coin test?",
+     "p": "In the water-pull activity, you started a notebook sliding with water instead of coins. Why can a child in Kochi repeat a water test exactly, but not a coin test?",
      "lines": 3,
-     "a": "Her coins may be different from mine, so her 'coin' would be a different size. But 100 millilitres of water is the same everywhere. Anyone with a measuring jug can pour exactly the same amount.",
+     "a": "Her coins may be different from mine, so her 'coin' could be a different size. But 100 millilitres of water is the same everywhere. Anyone with a measuring jug can pour exactly the same amount.",
      "why": "A strong answer says that a shared unit must be the same for everyone, and that water measured in a jug is the same in every home.",
      "how": "a7"
     },
@@ -3140,12 +3128,6 @@
       "value": 14,
       "unit": "N"
      }
-    },
-    {
-     "t": "truefalse",
-     "p": "On the Moon, a 1 kilogram packet of rice has less rice in it than on Earth.",
-     "a": false,
-     "why": "False. The rice is exactly the same rice, with the same mass. Only the Moon's pull on it is smaller, about one sixth of the Earth's. A forcemeter would show less, but nothing has gone out of the packet."
     },
     {
      "t": "mcq",
@@ -3378,18 +3360,6 @@
      "how": "p1"
     },
     {
-     "t": "mcq",
-     "p": "A shop's hanging spring balance shows 1 kilogram with nothing on its hook. A customer buys what the balance says is 3 kilograms of onions. How many kilograms of onions does she really get?",
-     "opts": [
-      "3 kilograms",
-      "4 kilograms",
-      "2 kilograms",
-      "1 kilogram"
-     ],
-     "a": 2,
-     "why": "The balance starts at 1 instead of 0, so every reading is 1 kilogram too big. 3 take away 1 is 2 kilograms. The customer pays for 1 kilogram she never gets. That is why Legal Metrology officers check shop scales."
-    },
-    {
      "t": "write",
      "p": "In the fair scale challenge, you used water to check whether a scale was honest. Why is water a good thing to check with?",
      "lines": 3,
@@ -3497,7 +3467,7 @@
      "t": "truefalse",
      "p": "A forcemeter that shows the same number every time you hang the same bag must be showing the right number.",
      "a": false,
-     "why": "False. A forcemeter whose pointer starts on 1 instead of 0 is wrong by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like Pushpa's sealed salt packets."
+     "why": "False. A forcemeter can be out by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like Pushpa's sealed salt packets."
     }
    ],
    "context": "This challenge worksheet asks harder questions: how the kilogram is kept the same for everyone, how scientists measure very tiny and very huge forces, and who should check the scales."
@@ -3515,18 +3485,6 @@
    "a": 0,
    "why": "A unit only works if every one is the same size. Picking 'any erasers' means a big and a small eraser would count as the same, so her numbers would mean nothing.",
    "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "Two careful children measure the same pull. One gets 5 and the other gets 20. They can both be right. How?",
-   "opts": [
-    "They counted in different units",
-    "One of them must have cheated",
-    "A pull changes every second"
-   ],
-   "a": 0,
-   "why": "The same pull can be 5 big coins or 20 small coins. Picking 'cheated' means trusting the numbers without asking what each one counts.",
-   "outcome": 1
   },
   {
    "t": "mcq",
@@ -3648,19 +3606,6 @@
    "why": "In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.",
    "how": "e4",
    "outcome": 5
-  },
-  {
-   "t": "mcq",
-   "p": "On the Moon, you lift a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?",
-   "opts": [
-    "About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less",
-    "Just the same, because it is still 6 kilograms",
-    "You can't lift it, because there is no gravity on the Moon"
-   ],
-   "a": 0,
-   "why": "The Moon pulls about one sixth as hard, so the box pulls down on your hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.",
-   "how": "a5",
-   "outcome": 6
   },
   {
    "t": "mcq",
@@ -3812,7 +3757,7 @@
  ],
  "ask_kids": [
   "If you could invent your own unit of pull, what would it be? What would you call it?",
-  "How many of your steps fit across this room? Would Amma's steps give the same number? Which number is right?",
+  "How many of your steps fit across this room? Would a grown-up's steps give the same number? Which number is right?",
   "How many newtons do you think that bag of vegetables is pulling with?",
   "Which is a bigger pull: opening the fridge door, or opening a drawer? How could we find out?",
   "If a shop scale showed 2 kilograms with nothing on it, who would lose out: the shopkeeper or the buyer?",
@@ -3825,18 +3770,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the forcemeter go to school?",
-   "a": "It wanted to make its mark.",
-   "src": "unit"
-  },
-  {
    "j": "What did the spring say to the heavy bag?",
    "a": "You're really stretching me today.",
-   "src": "unit"
-  },
-  {
-   "j": "Why was the apple so proud?",
-   "a": "It was worth one whole newton.",
    "src": "unit"
   },
   {
@@ -3845,28 +3780,8 @@
    "src": "unit"
   },
   {
-   "j": "What do you call a forcemeter that tells lies?",
-   "a": "A fib balance.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did the rubber band forcemeter feel tired?",
-   "a": "It had been stretched all day.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did the pointer keep going back to zero?",
-   "a": "It liked a fresh start.",
-   "src": "unit"
-  },
-  {
    "j": "What did the Moon say to the bag of rice?",
    "a": "Relax, you're light here.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did Isaac Newton never get bored of apples?",
-   "a": "They always had a pull on him.",
    "src": "unit"
   },
   {
@@ -3876,17 +3791,7 @@
   },
   {
    "j": "Why did the elephant refuse to stand on the kitchen scale?",
-   "a": "It didn't want to break the news.",
-   "src": "unit"
-  },
-  {
-   "j": "What did the crocodile say after biting the forcemeter?",
-   "a": "Sixteen thousand, and still hungry.",
-   "src": "unit"
-  },
-  {
-   "j": "Why was the newton so friendly?",
-   "a": "It got along with every force.",
+   "a": "She didn't want to break the news.",
    "src": "unit"
   },
   {
@@ -3900,48 +3805,8 @@
    "src": "unit"
   },
   {
-   "j": "Why don't astronauts carry weighing scales on the Moon?",
-   "a": "They'd never take their numbers seriously.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did the salt packet go to the market?",
-   "a": "To keep the scales honest.",
-   "src": "unit"
-  },
-  {
-   "j": "Why was the molecule a good porter?",
-   "a": "It never dropped its load, piconewton by piconewton.",
-   "src": "unit"
-  },
-  {
-   "j": "What do you call a very tiny force that tells jokes?",
-   "a": "A pico-punny-ton.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did the bathroom scale go up when Appa sneezed?",
-   "a": "It was a big push.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did the balloon win the pushing contest?",
-   "a": "It took all the pressure.",
-   "src": "unit"
-  },
-  {
-   "j": "What did the zero say to the pointer?",
-   "a": "Come home, everything starts with me.",
-   "src": "unit"
-  },
-  {
    "j": "Why was the forcemeter a good friend?",
    "a": "It always pulled its weight.",
-   "src": "unit"
-  },
-  {
-   "j": "Why did the student bring a ladder to the force lesson?",
-   "a": "To climb the force ladder.",
    "src": "unit"
   },
   {
@@ -3951,10 +3816,6 @@
   {
    "j": "Why was Le Grand K so nervous?",
    "a": "Everybody kept watching its weight."
-  },
-  {
-   "j": "Why did the button refuse to be a unit?",
-   "a": "It didn't want to be pushed around by the coins."
   }
  ],
  "maths": [
@@ -4177,7 +4038,7 @@
  "buy": [
   {
    "id": "b-forcemeter",
-   "item": "Spring forcemeters, a set with 0 to 10 newtons and 0 to 50 newtons",
+   "item": "Spring forcemeters, a set with 0 to 10 newtons and 0 to 50 newtons (two of the same range for the tug of war)",
    "kind": "tool",
    "why": "Real forcemeters for the pull detective experiment, the box illusion, the tug of war and Guess the Newtons.",
    "url": "https://www.amazon.in/s?k=spring+balance+newton+meter+school",
@@ -4186,8 +4047,7 @@
     "e3",
     "a4",
     "g1"
-   ],
-   "plan": "Also used in Friction L3 and Gravity L3. Buy two of the same range for the tug of war."
+   ]
   },
   {
    "id": "b-luggage",
@@ -4197,8 +4057,7 @@
    "url": "https://www.amazon.in/s?k=spring+luggage+scale",
    "used_in": [
     "e1"
-   ],
-   "plan": "If you don't buy school forcemeters, use this in the pull detective experiment for the bigger pulls."
+   ]
   },
   {
    "id": "b-scale",
@@ -4262,8 +4121,7 @@
    "url": "https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer",
    "used_in": [
     "g1"
-   ],
-   "plan": "If bought, read it on day 1 after the story, before playing Guess the Newtons."
+   ]
   }
  ],
  "warmup": [
@@ -4461,8 +4319,6 @@
   },
   "ask": [
    "If everyone forgot the newton tomorrow, would the notebook still need the same pull? Then what would we have lost?",
-   "Before 2019, the kilogram was one metal cylinder. If a speck of dust landed on it, did the cylinder get heavier? Or did everything else get a little lighter?",
-   "Is a number something you find in the world, or something you bring to it?",
    "Your hand could feel the coins but not count them. Is a pull you feel the same thing as a pull you count?"
   ],
   "art": "Two children in two cities, one on a rooftop in Madurai and one by a window in Paris, each with a cup of coins pulling a notebook, joined by one thin glowing thread marked N."

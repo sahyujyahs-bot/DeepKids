@@ -3,7 +3,7 @@
 
 **Summary.** A light child can lift a heavy grown-up on a see-saw, just by sitting further from the middle. A see-saw is a lever, one of the simple machines. The six simple machines are the lever, the inclined plane (a ramp), the wheel and axle, the pulley, the wedge and the screw. Each one makes a push or a pull easier, for example by letting a small force move a heavy load. But no machine gives something for nothing: a smaller push always has to travel a longer way. The same lever rule works in your elbow, inside your muscles, and between the Earth and the Moon.
 
-**Intro.** *Can you lift a grown-up off the ground, using only a plank? Most children think they are far too light. On a see-saw, a light child can do it, if she sits in the right place. Where is that place, and why does it work?* About 2,200 years ago, a Greek thinker called Archimedes worked out the rule of the lever. A lever is a long, stiff bar that turns on one point. A later writer, Pappus, says Archimedes boasted: 'Give me a place to stand, and I will move the Earth.' Was he showing off? Or was he right? By the end of this unit, you can decide.
+**Intro.** *Can you lift a grown-up off the ground, using only a plank? Most children think they are far too light. On a see-saw, a light child can do it, if the child sits in the right place. Where is that place, and why does it work?* About 2,200 years ago, a Greek thinker called Archimedes worked out the rule of the lever. A lever is a long, stiff bar that turns on one point. A later writer, Pappus, says Archimedes boasted: 'Give me a place to stand, and I will move the Earth.' Was he showing off? Or was he right? By the end of this unit, you can decide.
 
 ## Learning outcomes
 0. I can say what a simple machine is, and name the six kinds: lever, inclined plane, wheel and axle, pulley, wedge and screw.
@@ -167,7 +167,7 @@ We have been learning how levers, inclined planes and wheels let a small push mo
 
 **Deep truth.** On the ruler see-saw, one coin 12 cm from the pencil balanced two coins 6 cm from it. As the ruler tips, the single coin moves twice as far as the pair. So a small push can lift a big load, as long as the push moves further than the load.  
 *Habit it breaks:* We think lifting something heavy needs a strong push. A lever lets a light push lift a heavy load, by making the push travel further.  
-*Evidence:* In the ruler see-saw, one coin 12 cm from the pencil balanced two coins 6 cm from it. In the story, Jonaki lifted the dhenki's heavy head only by standing at the very end of the beam.
+*Evidence:* In the ruler see-saw, one coin 12 cm from the pencil balanced two coins 6 cm from it. In the ramp test, the long ramp needed the smallest pull, but the truck travelled furthest.
 
 - *who am i:* Your arm is a lever, with your elbow as its fulcrum. Your muscle pulls close to the elbow, so your hand can move far and fast.
 - *what is life:* Every movement you make comes from billions of tiny myosin molecules swinging like levers inside your muscles.
@@ -175,7 +175,7 @@ We have been learning how levers, inclined planes and wheels let a small push mo
 
 A lever, an inclined plane, a wheel and axle, a pulley, a wedge and a screw look like six different tools. Underneath, they all make the same trade: a smaller force over a longer distance. The push times the distance stays the same, so nothing is made and nothing is lost. It is only shared out differently. Physics keeps finding this: things that look separate follow one rule underneath. Six machines sharing one rule is a small, clear example, and a child can test it with a ruler and some coins.
 
-- **Zhuangzi, chapter 3, the story of Cook Ding:** A cook carves an ox so skilfully that his knife stays sharp for nineteen years. He never hacks at bone. He guides the blade through the natural gaps between the joints. (A knife is a wedge. Cook Ding puts it exactly where the joints already come apart, so a small push does the cutting. Like Jonaki at the end of the dhenki beam, where the force goes matters as much as how big it is.)
+- **Zhuangzi, chapter 3, the story of Cook Ding:** A cook carves an ox so skilfully that his knife stays sharp for nineteen years. He never hacks at bone. He guides the blade through the natural gaps between the joints. (A knife is a wedge. Cook Ding puts it exactly where the joints already come apart, so a small push does the cutting. Like a foot at the end of a dhenki beam, where the force goes matters as much as how big it is.)
 - **Milindapanha, book 2, the chariot:** The monk Nagasena asks King Milinda: is the chariot the wheels? The axle? The pole? No single part is the chariot. 'Chariot' is the name for all the parts put together. (A bicycle is levers, wheels and axles and a chain, working as one. 'Bicycle' is the name for all of them together. Your body is the same, with its bones, muscles and joints.)
 - Science (settled): A machine can make a push smaller, but it never makes energy. A smaller push always has to travel further. Friction turns a little of the energy into heat.
 - Science (settled): Inside your muscles, tiny molecules called myosin swing like levers and pull thin threads past each other. That is how every muscle shortens.
@@ -192,12 +192,10 @@ A lever, an inclined plane, a wheel and axle, a pulley, a wedge and a screw look
 - *deep:* Could the same rule that balances a see-saw in the park also work for planets and stars? (hint: Think of the Earth and the Moon sitting on the two ends of a see-saw.)
 - *big:* The Moon does not simply go round the Earth. Both swing round a shared balance point. Is anything in space really standing still while other things go round it? (hint: Think of spinning round while holding hands with a grown-up. Which of you stays still?)
 - *big:* Ramps help people in wheelchairs, parents with prams and grandparents with sore knees. Who decides whether a building has a ramp, and who is left out when it doesn't? (hint: Look at the steps of a shop, a temple or a school near you. Could everyone get in?)
-- *big:* Archimedes gets the credit for the lever, but farmers used levers long before him. Who should get the credit: the person who uses an idea, or the person who writes it down? (hint: Think of a recipe your family makes that nobody ever wrote down.)
 - *big:* A machine trades a small push for a long distance. When would you rather push harder for a shorter way? (hint: Think of carrying a light bag to a high shelf. Would you lift it straight up, or walk up a long ramp?)
 - *big:* If you had a lever long enough, what would you want to move, and where would you stand? (hint: Remember Archimedes' boast about moving the Earth.)
 - *big:* Your muscles are moved by billions of tiny molecules that swing like levers. Are you a machine? (hint: What can you do that a see-saw can't? What can a machine do that you can't?)
 - *big:* The peoples of ancient Mexico made toys with wheels but never built carts. Is a better tool always the best choice? (hint: What would a cart need to be useful: roads, animals, flat land?)
-- *deep:* Why does a little push far from a door's hinge open it more easily than a big push close to the hinge? (hint: Try it. Where does the door turn from?)
 
 ## Story: Where Jonaki Stood
 *The dhenki is a real foot-worked rice pounder, used in Assam, Bengal, Odisha and beyond, and mostly worked by women. Magh Bihu, the feast night of Uruka and pitha rice cakes are real. Jonaki, Bubu, Pehi and what happened to them are made up.*
@@ -252,7 +250,7 @@ Her mother did not say anything at first. She looked at their feet, pressed into
 
 That night, under the stars, the whole village ate together round the fires of Uruka. Jonaki's family's pitha did not crack. And in the dark shed at the edge of the fields, the pale dip at the end of the beam was very slightly deeper than it had been that morning.
 
-**For the parent:** For the parent: Jonaki does not get heavier. She moves to the very end of the beam, as far from the fulcrum as she can. On a lever, a force far from the fulcrum turns it much more than the same force close in. So her small weight at the tip lifts the heavy head that her weight near the middle could not. When Bubu adds his weight at the same far point, the turning grows again. The pale, worn dip at the end of the beam is the record of generations of women who knew this rule long before anyone wrote it down. The story also quietly asks whose knowledge gets written down, and whose is kept in wood and habit.
+**For the parent:** For the parent: Jonaki does not get heavier. She moves to the very end of the beam, as far from the fulcrum as she can. On a lever, a force far from the fulcrum turns it much more than the same force close in. So her small weight at the tip lifts the heavy head that her weight near the middle could not. When Bubu adds his weight at the same far point, the turning grows again. The pale, worn dip at the end of the beam is the record of generations of women who knew this rule long before anyone wrote it down.
 
 - Ask: When Jonaki stood in the middle of the beam, nothing happened. What did she change to make the head rise?
 - Ask: Why do you think the wood at the very tip of the beam was worn pale?
@@ -262,34 +260,32 @@ That night, under the stars, the whole village ate together round the fires of U
 
 ## Games
 ### g1 · Balance Bazaar (25 min)
-- **rules:** Glue the printed strip on a 30 cm ruler. Tape a round pencil to the table so it cannot roll. Lay the ruler across it, at the middle, so it can rock.; Shuffle the order cards. Start with the Level 1 cards. Move up a level when you get two right in a row.; On your turn, read a card out loud. Before you touch any coins, say your plan out loud.; Then place the coins. If it balances on your first try, you win 2 points. If it balances on your second try, you win 1 point.; Predict cards: everyone guesses first. Each player who guessed right wins 1 point.; Mystery cards: solve the mystery weight. Then check it with real coins. A right answer wins 3 points.; The first player to 15 points is the Bazaar Master.
-- **Printable board: A see-saw strip to print and glue on a 30 cm ruler:** Pegs on the left: 4, 3, 2, 1; The fulcrum in the middle; Pegs on the right: 1, 2, 3, 4; Peg 1 is 3 cm from the middle, peg 2 is 6 cm, peg 3 is 9 cm, peg 4 is 12 cm
-- **Printable cards: 20 bazaar order cards to cut out:** Level 1: 2 coins sit on left peg 2. Make it balance with 2 coins.; Level 1: 1 coin sits on left peg 3. Make it balance with 1 coin.; Level 1: 3 coins sit on left peg 1. Make it balance with 3 coins.; Level 1: 4 coins sit on left peg 4. Make it balance with 4 coins.; Level 2: 2 coins sit on left peg 2. Make it balance with just 1 coin.; Level 2: 1 coin sits on left peg 4. Make it balance with 2 coins.; Level 2: 3 coins sit on left peg 2. Make it balance with 2 coins.; Level 2: 4 coins sit on left peg 1. Make it balance with 1 coin.; Level 3: 2 coins sit on left peg 3. Make it balance with 3 coins.; Level 3: 4 coins sit on left peg 3. Make it balance using only peg 4.; Level 3: 2 coins on left peg 1 and 1 coin on left peg 4. Make it balance with 2 coins on one peg.; Level 3: 1 coin on left peg 2 and 1 coin on left peg 4. Make it balance with 3 coins.; Level 4 mystery: a small eraser sits on left peg 2. It balances 3 coins on right peg 2. How many coins does the eraser weigh?; Level 4 mystery: a key sits on left peg 4. It balances 2 coins on right peg 2. How many coins does the key weigh?; Level 4 mystery: a sharpener sits on left peg 3. Find where 1 coin must go to balance it.; Level 4 mystery: a bindi packet sits on left peg 1. Find how many coins on right peg 1 balance it.; Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Will it tip left, tip right, or balance? Then test.; Predict card: 3 coins on left peg 1, 1 coin on right peg 2. Will it tip left, tip right, or balance? Then test.; Predict card: 1 coin on left peg 4, 2 coins on right peg 1. Will it tip left, tip right, or balance? Then test.; Predict card: 2 coins on left peg 3, 3 coins on right peg 2. Will it tip left, tip right, or balance? Then test.
-- **Printable score sheet: Bazaar score sheet:** Card; My guess; Did it balance first try?; Points
-- **Printable tokens: Twenty coins that all look exactly alike, such as 1-rupee coins of one design, as weights:** 🪙
+- **rules:** You need a 30 cm ruler, a round pencil, tape and 10 coins that all look the same, such as 1-rupee coins of one design. Stick the labels along the ruler: the fulcrum label in the middle, then label 1 at 3 cm from the middle, label 2 at 6 cm, label 3 at 9 cm and label 4 at 12 cm, on both sides. Without a printer, write the numbers on the ruler with a pen. Tape the pencil to the table so it cannot roll, and lay the ruler across it at the middle.; Sort the order cards into piles: Level 1, Level 2, Level 3, Predict and Level 4 mystery. Shuffle each pile and put it face down. Keep score on a sheet of paper, one column for each player.; Play the Level 1 pile first, then Level 2, then Level 3. On your turn, take the top card of the pile and read it out loud. Before you touch any coins, say your plan out loud.; Then place the coins. If it balances on your first try, you win 2 points. If it balances on your second try, you win 1 point. If it still does not balance, the next player says where to move the coins, and nobody wins points.; After Level 3, play the 4 Predict cards. Everyone guesses first: tips left, tips right or balances. Then place the coins and see. Each player who guessed right wins 1 point.; Last, play the 4 Level 4 mystery cards. Each card says what the object balances. Work out how many coins the object weighs, then put that many coins where the object sat and check that the ruler still balances. A right answer wins 3 points.; The game ends when the first player reaches 15 points, or when all the cards are used. The player with the most points is the Bazaar Master. If players tie, they share the title. With 3 players, some players get one card more, and that is fine.
+- **Printable board: 9 labels to cut out and stick along the ruler:** 4; 3; 2; 1; Fulcrum: the pencil goes under here; 1; 2; 3; 4
+- **Printable cards: 20 bazaar order cards to cut out:** Level 1: 2 coins sit on left peg 2. Make it balance with 2 coins.; Level 1: 1 coin sits on left peg 3. Make it balance with 1 coin.; Level 1: 3 coins sit on left peg 1. Make it balance with 3 coins.; Level 1: 4 coins sit on left peg 4. Make it balance with 4 coins.; Level 2: 2 coins sit on left peg 2. Make it balance with just 1 coin.; Level 2: 1 coin sits on left peg 4. Make it balance with 2 coins.; Level 2: 3 coins sit on left peg 2. Make it balance with 2 coins.; Level 2: 4 coins sit on left peg 1. Make it balance with 1 coin.; Level 3: 2 coins sit on left peg 3. Make it balance with 3 coins.; Level 3: 4 coins sit on left peg 3. Make it balance using only peg 4.; Level 3: 2 coins on left peg 1 and 1 coin on left peg 4. Make it balance with 2 coins on one peg.; Level 3: 1 coin on left peg 2 and 1 coin on left peg 4. Make it balance with 3 coins.; Level 4 mystery: a small eraser sits on left peg 2. It balances 3 coins on right peg 2. How many coins does the eraser weigh?; Level 4 mystery: a key sits on left peg 4. It balances 2 coins on right peg 2. How many coins does the key weigh?; Level 4 mystery: a sharpener sits on left peg 4. It balances 4 coins on right peg 3. How many coins does the sharpener weigh?; Level 4 mystery: a bindi packet sits on left peg 2. It balances 2 coins on right peg 4. How many coins does the bindi packet weigh?; Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Will it tip left, tip right, or balance? Then test.; Predict card: 3 coins on left peg 1, 1 coin on right peg 2. Will it tip left, tip right, or balance? Then test.; Predict card: 1 coin on left peg 4, 2 coins on right peg 1. Will it tip left, tip right, or balance? Then test.; Predict card: 2 coins on left peg 3, 3 coins on right peg 2. Will it tip left, tip right, or balance? Then test.
 - **s1 (4 min)**  
-  *Parent does:* 1. Glue the strip onto a ruler, or write the peg numbers on it with a pen. 2. Lay a round pencil on the table and stick each end down with tape, so it cannot roll. 3. Lay the ruler across the pencil, exactly at the middle. 4. Check it balances empty. If it doesn't, slide it a little until it does.  
+  *Parent does:* 1. Stick the labels along the ruler, or write the peg numbers on it with a pen. 2. Lay a round pencil on the table and stick each end down with tape, so it cannot roll. 3. Lay the ruler across the pencil, exactly at the middle. 4. Check it balances empty. If it doesn't, slide it a little until it does.  
   *Parent says:* This ruler is a see-saw. The pencil is its fulcrum, the point it turns on. Let's check it balances when it is empty.  
   *Child mode:* Put the ruler across a round pencil. The pencil is the fulcrum. Slide the ruler until it balances with nothing on it.
-- **s2 (4 min)**  
-  *Parent does:* Play a Level 1 card together as a practice round: 2 coins on left peg 2, balance with 2 coins.  
+- **s2 (3 min)**  
+  *Parent does:* Draw the first Level 1 card and play it together.  
   *Parent says:* Here's our first order. Two coins sit on peg 2 on the left. Where should we put two coins on the right?  
   *Child mode:* First order: 2 coins on left peg 2. Where do 2 coins go on the right? Say your guess. Then try it.
   - Ask: Why did the same coins need the same peg? (good: Same weight, same distance, so it's even.; Both sides turn the ruler the same amount.)
   - Check: Bazaar order: 2 coins wait on left peg 2. Where do you put your 2 coins to fill the order? → **Right peg 2**
-- **s3 (10 min)**  
-  *Parent does:* 1. Take turns with the cards. 2. Each player says a plan before placing coins. 3. Move up to Level 2 and Level 3 as players get two right in a row.  
+- **s3 (9 min)**  
+  *Parent does:* 1. Take turns with the cards of Level 1, then Level 2, then Level 3. 2. Each player says a plan before placing coins. 3. Move up a level when the cards of a level are used up.  
   *Parent says:* Now the coins on each side are different. Can fewer coins balance more coins? Where would they have to sit?  
   *Child mode:* Take turns. Read a card. Say your plan out loud first. Can fewer coins balance more coins? Where should they sit?
   - Ask: 1 coin balanced 2 coins. Where was the 1 coin? (good: Further out.; Twice as far from the pencil.)
   - Note: The rule is coins times peg number must match on both sides. For example, 2 coins on peg 2 makes 2 times 2, which is 4. 1 coin on peg 4 makes 1 times 4, which is also 4. Let your child find this by trying. Only say the rule after they have spotted a pattern. The ruler will not always sit perfectly level. If it rocks, or stays up when you let go, it is balanced. If one end drops to the table and stays there, it has tipped.
-- **s4 (4 min)**  
-  *Parent does:* Play the Predict cards. Everyone says tip left, tip right, or balance, before you test.  
+- **s4 (3 min)**  
+  *Parent does:* Play the 4 Predict cards. Everyone says tip left, tip right, or balance, before you test.  
   *Parent says:* Before we test, everyone guess. Will it tip left, tip right, or balance? Let's see who was right.  
   *Child mode:* Predict card! Guess first: tip left, tip right, or balance? Then test it.
-  - Check: Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Place your guess token. What happens? → **It balances, because 2 times 4 and 4 times 2 both make 8**
-- **s5 (3 min)**  
-  *Parent does:* Try one Level 4 mystery card. Use the rule to find the weight of an eraser or a key in coins.  
+  - Check: Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Say your guess. What happens? → **It balances, because 2 times 4 and 4 times 2 both make 8**
+- **s5 (5 min)**  
+  *Parent does:* Play the 4 Level 4 mystery cards. Use the rule to find the weight of each object in coins.  
   *Parent says:* Now we're detectives. A tarazu weighs vegetables by balancing them against known weights. How many coins does the eraser weigh?  
   *Child mode:* Mystery card! The eraser balances some coins. How many coins does the eraser weigh? Use the rule to find out.
   - Think: Could you weigh a pencil with this ruler and some coins? How would you do it?
@@ -298,16 +294,15 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* Who's the Bazaar Master? And what was the trick that helped you most?  
   *Child mode:* Add up your points. Who won? What trick helped you most?
 ### g2 · Machine Spotter (20 min)
-- **rules:** Shuffle the object cards and put them face down.; On your turn, take a card and read it out loud. Put it on the LEVER, RAMP or WHEEL mat.; If it is a lever, point to where its fulcrum is, or act it out. That wins a bonus token.; Say what the machine trades. For example, small push for a long way. That wins another token.; If someone disagrees, talk it through. Some things are more than one machine.; When the cards run out, the player with the most tokens wins.
+- **rules:** Lay out the three mats. Shuffle the 30 object cards and put them face down. Keep score on a sheet of paper, one column for each player.; On your turn, take the top card and read it out loud. Put it on the LEVER, RAMP or WHEEL mat. A card on the right mat wins 1 point.; If it is a lever, point to where its fulcrum is, or act it out. That wins 1 more point.; Say what the machine trades. For example, a small push for a long way. That wins 1 more point.; If someone disagrees, talk it through. Some things are more than one machine. If you give a good reason, a card on either mat wins its point.; When the cards run out, the player with the most points wins. If players tie, they share the win.
 - **Printable cards: 30 object cards to cut out:** See-saw; Scissors; Hand pump; Nutcracker; Wheelbarrow; Bottle opener; Sarota, the supari cutter; Chimta tongs; Broom; Cricket bat; Your forearm; Your jaw; Standing on tiptoe; Tarazu weighing scale; Spoon opening a tin lid; Ramp at a railway station; Slide in the park; Zigzag ghat road; Loading plank on a truck; Doorknob; Tap handle; Screwdriver; Bicycle wheel; Rolling pin; Well winch with a handle; Knife; Axe; Jar lid; Spiral staircase; Pulley over a well
 - **Printable board: Three sorting mats:** LEVER; RAMP, the inclined plane (and its cousins, the wedge and the screw); WHEEL (wheels, rollers, wheel and axle, pulleys)
-- **Printable tokens: 30 spotter tokens:** 🔧
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the three mats. 2. Shuffle the object cards face down. 3. Put the tokens in a bowl.  
+  *Parent does:* 1. Lay out the three mats. 2. Shuffle the object cards face down. 3. Get a sheet of paper for the score.  
   *Parent says:* Every card shows a simple machine. Is it a lever, a ramp or a wheel? And where is its fulcrum, the point it turns on?  
   *Child mode:* Lay out three mats: LEVER, RAMP and WHEEL. Mix up the cards. For each card, decide which mat it goes on.
 - **s2 (12 min)**  
-  *Parent does:* 1. Take turns drawing a card and placing it. 2. For levers, the player shows the fulcrum, with a real object if you have one. 3. Give tokens for each good reason.  
+  *Parent does:* 1. Take turns drawing a card and placing it. 2. For levers, the player shows the fulcrum, with a real object if you have one. 3. Score a point for each good reason.  
   *Parent says:* Where does this one turn? Where do you push, and where does it push back?  
   *Child mode:* Draw a card. Put it on a mat. If it's a lever, show where it turns. Say where you push.
   - Ask: Where is the fulcrum of a nutcracker? (good: At the hinge at the end.; Where the two arms are joined.)
@@ -324,7 +319,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **question:** Can one coin balance two coins? If so, where must it sit?
 - **predict:** Guess first. Put 2 coins on one side of the ruler. Where will 1 coin on the other side make it balance? Point to the place, and say why you think so, before you test.
 - **fair test:** Use coins that all look exactly alike. Keep the pencil in the same place, under the middle of the ruler. Change only one thing at a time: the number of coins, or where they sit. Try each balance twice, because one try can be a fluke.
-- **safety:** No special safety needed. Keep coins away from very small children, who might swallow them.
+- **safety:** Keep coins away from children under 5, who might swallow them.
 - **record:** Fill in the table. Then, for each row, multiply coins by distance on each side. What do you notice?
 - **results table:** Coins on the left | Left distance from the pencil (cm) | Coins on the right | Right distance where it balanced (cm) | Coins times distance on each side
 - **s1 (4 min)**  
@@ -372,7 +367,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent does:* 1. Make a pile of books about 10 cm high. 2. Tie the string to the front of the truck. 3. Loop the other end of the string through the rubber band and tie it. 4. Hold the rubber band by its free end. 5. Measure the band before you pull, and write down its length.  
   *Parent says:* We'll use the rubber band to measure how hard we pull. A bigger pull stretches it further.  
   *Child mode:* Tie string to the truck. Tie a rubber band to the string. Measure the band before you pull. A bigger pull stretches it more.
-  - Note: The stretch is how much longer the band gets when you pull. Take the length before pulling away from the length while pulling. Work as a pair: your child pulls, and you hold the ruler beside the band and read its length. If you have a forcemeter from the Measuring forces unit, use it instead, and read the pull in newtons. A forcemeter is a spring tool that measures pulls.
+  - Note: The stretch is how much longer the band gets when you pull. Take the length before pulling away from the length while pulling. Work as a pair: your child pulls, and you hold the ruler beside the band and read its length. If you have a forcemeter, use it instead, and read the pull in newtons. A forcemeter is a spring tool that measures pulls.
 - **s2 (6 min)**  
   *Parent does:* 1. Lift the truck straight up by the rubber band, slowly, from the table to the top of the book pile. 2. While it is rising, measure the band's length with the ruler. 3. Take away the length before pulling. That is the stretch. Write it down. Do it 3 times.  
   *Parent says:* First, lift it straight up. How far does the band stretch?  
@@ -450,10 +445,10 @@ That night, under the stars, the whole village ate together round the fires of U
   - Ask: Where is the fulcrum of a pair of scissors? (good: The screw in the middle.)
   - Note: Good finds: chimta tongs, a nutcracker or sarota, scissors, a bottle opener, a spoon opening a tin, a stapler, a nail clipper, a broom (levers). A doorknob, a tap handle and a screwdriver (wheels and axles). A rolling pin (a roller). A jar lid (a screw). A knife (a wedge). A ramp at the building entrance (an inclined plane).
 - **s3 (6 min)**  
-  *Parent does:* 1. Help your child find levers in their body. 2. Bend the elbow, stand on tiptoe, nod the head, and open and close the jaw.  
-  *Parent says:* Your body is full of levers. Bend your arm. Where does it turn? Now go up on tiptoe. Now nod.  
-  *Child mode:* Bend your arm. Where does it turn? Stand on tiptoe. Nod your head. Open your jaw. Find each fulcrum.
-  - Check: When you bend your arm, what is the fulcrum? → **Your elbow**
+  *Parent does:* 1. Help your child find levers in their body. 2. Bend the elbow, swing the lower leg forward from the knee, and open and close the jaw.  
+  *Parent says:* Your body is full of levers. Bend your arm. Where does it turn? Now swing your lower leg forward. Where does it turn? Now open your jaw.  
+  *Child mode:* Bend your arm. Where does it turn? Swing your lower leg forward. Open your jaw. Find each fulcrum.
+  - Check: When you swing your lower leg forward, what is the fulcrum? → **Your knee**
   - Think: Your body was not designed by an engineer. So how did it end up full of levers?
 ### a2 · The Park See-saw: lift a grown-up (20 min)
 - **safety:** A grown-up must be there. Hold the handles. Never put feet or hands under the see-saw. Get off slowly, warning the other person first.
@@ -475,7 +470,6 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Try with a friend. Who sits where? It's the same rule as the ruler and coins!
   - Think: Could two small children at one end lift a grown-up sitting at the other end? Where would everyone have to sit?
 ### a3 · PhET Balancing Act: the online see-saw game (30 min)
-- **safety:** A grown-up opens the website. Take a break from the screen after 30 minutes.
 - **record:** For each game level, write your score. Write one new trick you learned at each level.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Open phet.colorado.edu and search for Balancing Act. 2. Open the Intro screen. 3. Put bricks on the plank, then remove the supports and watch.  
@@ -487,7 +481,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* Before each level, tell me your plan. Did you change your thinking?  
   *Child mode:* Play Level 1. Write your score. Did you need a new idea? Then try Level 2, 3 and 4.
   - Ask: What makes Level 2 harder than Level 1? (good: The weights are different, so I have to move them.; I have to think about distance as well as weight.)
-  - Note: This step follows the DeepKids Balancing Act worksheet. At higher levels, the game asks for the mass of a mystery object, and to predict which way the plank will tip. The rule is mass times distance on each side.
+  - Note: At higher levels, the game asks for the mass of a mystery object, and to predict which way the plank will tip. The rule is mass times distance on each side.
 - **s3 (7 min)**  
   *Parent does:* Try the mystery objects: use the game to find the mass of an unknown object.  
   *Parent says:* How can a see-saw tell you how heavy something is? Let's find the mystery mass.  
@@ -495,7 +489,6 @@ That night, under the stars, the whole village ate together round the fires of U
   - Check: A 10 kg brick balances a mystery object at the same distance on the other side. How heavy is the mystery object? → **10 kg**
   - Think: How could a see-saw weigh something heavier than all your bricks put together?
 ### a4 · Body Levers: yoga and a water bottle (15 min)
-- **safety:** Move slowly. Stop if anything hurts.
 - **record:** Draw your arm holding the bottle. Mark the fulcrum, the muscle and the load.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child holds a water bottle in one hand, arm bent at the elbow. 2. They put the other hand on the front of the upper arm. 3. They lift and lower the bottle slowly.  
@@ -511,7 +504,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent does:* 1. Nod the head slowly, forward and back. 2. Feel the back of the neck. 3. Talk about how muscles at the back hold the head up like a see-saw.  
   *Parent says:* Your head sits on top of your spine like a see-saw. When you nod, which muscles hold it up?  
   *Child mode:* Nod slowly. Feel the back of your neck. Your head is a see-saw on top of your spine!
-  - Think: Inside your muscles are billions of tiny levers called myosin. Every movement you make is levers inside levers.
+  - Think: A muscle can only pull, never push. So how does your arm get back down after you lift the bottle?
 ### a5 · Find the Balance Point, then dance the Earth and the Moon (20 min)
 - **safety:** Spin slowly, on a soft floor, and stop if you feel dizzy. Keep the hammer low.
 - **record:** Draw the broom with a dot at its balance point. Draw the Earth and the Moon with their balance point.
@@ -533,16 +526,16 @@ That night, under the stars, the whole village ate together round the fires of U
   - Think: If you could see the Earth from far away, would you see it wobble once every month?
 ### a6 · The Door Test: where is it easiest to push? (15 min)
 - **safety:** Keep fingers away from the hinge side of the door. A grown-up holds the door still while setting up.
-- **record:** Write how many coins it took to start the door swinging at each place. Draw a bar chart.
+- **record:** Write how many spoonfuls of rice it took to start the door swinging at each place. Draw a bar chart.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child pushes the door with one finger, close to the hinges. 2. Then in the middle. 3. Then right by the handle.  
   *Parent says:* Push with one finger near the hinges. Now in the middle. Now near the handle. Where is it easiest?  
   *Child mode:* Push the door with one finger near the hinges. Then in the middle. Then by the handle. Which is easiest?
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Open the door halfway. 2. Put a chair a little way from the door, with its back facing the door. 3. Tape the string to the face of the door, 10 cm from the hinge. 4. Run the string straight out, at right angles to the door, over the chair back. Hang the cup from its end. 5. Add coins one at a time until the door starts to move. 6. Repeat at 40 cm and at 70 cm from the hinge.  
-  *Parent says:* Let's measure it. How many coins does it take to make the door start to swing, near the hinge and far away?  
-  *Child mode:* Fix the cup's string to the door near the hinge. Add coins one by one. When does the door move? Now try far from the hinge.
-  - Note: A simpler way: just compare how hard one finger has to push. The cup method gives numbers for a chart. Doors with stiff hinges need more coins. If the door swings by itself, the floor is not level, so try another door. The pattern is what matters: far from the hinge needs far fewer coins.
+  *Parent does:* 1. Open the door halfway. 2. Put a chair a little way from the door, with its back facing the door. 3. Tape the string to the face of the door, 10 cm from the hinge. 4. Run the string straight out, at right angles to the door, over the chair back. Hang the cup from its end. 5. Add rice to the cup one spoonful at a time until the door starts to move. Count the spoonfuls. 6. Repeat at 40 cm and at 70 cm from the hinge.  
+  *Parent says:* Let's measure it. How many spoonfuls of rice does it take to make the door start to swing, near the hinge and far away?  
+  *Child mode:* Fix the cup's string to the door near the hinge. Add rice one spoonful at a time. When does the door move? Now try far from the hinge.
+  - Note: A simpler way: just compare how hard one finger has to push. The cup method gives numbers for a chart. The numbers depend on your door, and a door with stiff hinges needs a lot of rice near the hinge. If it needs more than 30 spoonfuls there, compare only 40 cm and 70 cm. If the door swings by itself, the floor is not level, so try another door. The pattern is what matters: far from the hinge needs far less rice.
 - **s3 (3 min)**  
   *Parent does:* Talk about why door handles are always far from the hinges.  
   *Parent says:* Why do you think every door handle is on the side away from the hinges?  
@@ -556,7 +549,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **record:** Draw your shaduf and label the fulcrum, the load and the counterweight. Write how many cups of water you lifted in one minute, with and without the counterweight.
 - **schedule:** day 1: Learn what a shaduf is. Build the post and tie the beam to it. (25 min); day 2: Add the cup and the counterweight. Find the best counterweight. (20 min); day 3: Lift water. Improve the design. Show the family how it works. (20 min)
 - **s1 (5 min)**  
-  *Parent does:* Show your child a picture of a shaduf, or describe it. It is a long pole on a post. A bucket hangs from one end, and a heavy stone from the other.  
+  *Parent does:* Describe a shaduf to your child, and draw it on paper. It is a long pole on a post. A bucket hangs from one end, and a heavy stone from the other.  
   *Parent says:* A shaduf is a lever for lifting water from a river or a well. Farmers used it about 4,000 years ago in Mesopotamia and Egypt. In India, a lever like it is called a picottah, or etram in Tamil.  
   *Child mode:* A shaduf is a long pole on a post. A bucket hangs at one end. A heavy stone hangs at the other. Farmers used it 4,000 years ago!
 - **s2 (20 min) · grown-up needed**  
@@ -580,8 +573,8 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Count cups of water lifted in one minute. Then change one thing. Did it get better?
 - **s6 (5 min)**  
   *Parent does:* Your child shows the family how the shaduf works, naming the fulcrum, load and counterweight.  
-  *Parent says:* Teach someone else. Who do you think first thought of this? Nobody wrote their name down.  
-  *Child mode:* Show your family your shaduf. Name its parts. Who do you think invented it?
+  *Parent says:* Teach someone else how the shaduf works. Name the fulcrum, the load and the counterweight.  
+  *Child mode:* Show someone at home your shaduf. Name its parts.
   - Think: The first shaduf was invented by someone whose name nobody knows. Do you think they were a farmer, a child or a builder?
 
 ## Challenges
@@ -605,7 +598,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Try each idea. Measure the pull every time. Which is best?
   - Note: A long ramp with the bag on a toy truck usually needs the smallest pull. A lever needs the bag close to the fulcrum and your pull far out. Watch that boards and handles don't slip.
 - **s4 (8 min)**  
-  *Parent does:* Read the usual solutions and the creative ideas together. Then invent a new one.  
+  *Parent does:* Look at the usual solutions and the creative ideas on this card together. Then invent a new one.  
   *Parent says:* Here's what engineers usually do, and some creative ideas. Can you beat them?  
   *Child mode:* Look at the usual ways and the creative ideas. Can you invent a better one?
   - Check: Your best machine needed the smallest pull. What did you have to give up? → **My pull had to travel a longer way**
@@ -632,7 +625,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Draw your ramp. Make a model with books and a board. Push a toy car up with one finger. Steep or gentle?
 - **s4 (5 min)**  
   *Parent does:* Talk about who uses ramps, and why some places don't have them.  
-  *Parent says:* Who in our family or street would use a ramp? Why do you think some places don't have one?  
+  *Parent says:* Who in your street or building would use a ramp? Why do you think some places don't have one?  
   *Child mode:* Who would use your ramp? Why do some places have no ramp?
   - Think: When a place has only steps, who is left outside? Who decides?
 
@@ -649,7 +642,7 @@ That night, under the stars, the whole village ate together round the fires of U
    Options: At the very end / Closer to the middle / On Bhavana's side / Nowhere. They can never balance  
    **Answer:** Closer to the middle. *Why:* Weight close to the fulcrum turns the plank less. So the heavy uncle moves in towards the middle, and Bhavana stays far out. Picking 'never balance' means only weight was counted. Distance matters too.
 5. (truefalse) On a see-saw, the heavier person always goes down, wherever they sit.  
-   **Answer:** False. *Why:* False. Distance from the fulcrum matters as much as weight. A heavy person close to the middle can be lifted by a light person far out. Jonaki, in this unit's story, lifted a heavy rice pounder this way.
+   **Answer:** False. *Why:* False. Distance from the fulcrum matters as much as weight. A heavy person close to the middle can be lifted by a light person far out.
 6. (write) In the ruler see-saw test, one coin balanced two coins. Where did the one coin have to sit? Why there?  
    **Answer:** The one coin had to sit twice as far from the pencil as the two coins. For example, two coins at 6 cm were balanced by one coin at 12 cm. Coins times distance was 12 on both sides.. *Why:* A strong answer uses real numbers from the test and says that weight and distance together decide the turning.
 7. (sort) Sort these into the simple machine each one really is.  
@@ -699,10 +692,10 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** True. *Why:* True. The brake handle turns on a small fulcrum. A gentle squeeze of your fingers far from the fulcrum becomes a strong pull on the brake cable close to it.
 9. (match) Each of these is really a simple machine. Match each one to the machine it is.  
    **Answer:** A knife → wedge; A jar lid → screw; A doorknob → wheel and axle; A slide → ramp. *Why:* A knife is two ramps back to back, a wedge. A jar lid is a ramp wrapped round, a screw. A doorknob is a wheel and axle.
-10. (mcq) Your biceps pulls on your forearm about 5 cm from your elbow. Your hand is about 35 cm from your elbow. How many times as hard must the muscle pull as the weight in your hand?  
-   Options: About 7 times / About the same / About half / About 35 times  
-   **Answer:** About 7 times. *Why:* 35 divided by 5 is 7. The muscle is 7 times closer to the fulcrum, so it must pull about 7 times as hard. A child who picks 'about the same' thinks the muscle pulls the load straight up. But the arm is a lever, built for speed.
-11. (perspective) Your biceps muscle has to pull about 7 times as hard as the load in your hand. Nandini and her grandmother disagree about this.  
+10. (mcq) A child's biceps pulls on the forearm about 4 cm from the elbow. The child's hand is about 24 cm from the elbow. How many times as hard must the muscle pull as the weight in the hand?  
+   Options: About 6 times / About the same / About half / About 24 times  
+   **Answer:** About 6 times. *Why:* 24 divided by 4 is 6. The muscle is 6 times closer to the fulcrum, so it must pull about 6 times as hard. A child who picks 'about the same' thinks the muscle pulls the load straight up. But the arm is a lever, built for speed.
+11. (perspective) Your biceps muscle has to pull several times as hard as the load in your hand. Nandini, a girl in Class 4, and a physiotherapist disagree about this.  
    **Answer:** Both see a real trade. Nandini is right that a muscle joined further out would need less force. Her grandmother is right that, as it is, a tiny shortening of the muscle makes a big, fast swing of the hand. A muscle near the hand would also make a thick, clumsy wrist. A strong answer says what is gained and what is lost.. *Why:* A strong answer names the trade between strength and speed, uses the body levers activity as evidence, and answers back fairly.
 12. (mcq) Mountain roads up the ghats zigzag instead of going straight up. Why?  
    Options: To make the view better / A longer, gentler road needs a smaller push from the engine / Because straight roads are not allowed / To make the trip shorter  
@@ -716,18 +709,18 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** your push down, book pushes down down, pencil pushes up up. *Why:* You push down on one end. The book presses down on the other end. The pencil fulcrum pushes up and holds the ruler up. There is no sliding, so friction is not the main force here.
 16. (draw) Design a ramp for a toy car to reach a 10 cm high box. Draw a short steep ramp and a long gentle ramp. Mark which needs the smaller push.  
    **Answer:** Two ramps from the floor to the top of the box. The long gentle ramp is marked as the smaller push.. *Why:* The longer ramp to the same height needs a smaller push.
-### Balance Puzzles and Big Ideas (challenge) (challenge, 16 questions)
-1. (mcq) Predict: 2 coins sit on left peg 3, and 3 coins sit on right peg 2. What will the see-saw do?  
+### Balance Puzzles and Big Ideas (challenge) (challenge, 15 questions)
+1. (mcq) Predict: 2 coins sit on left peg 2, and 3 coins sit on right peg 1. What will the see-saw do?  
    Options: Tips left / Tips right / Balances  
-   **Answer:** Balances. *Why:* 2 times 3 is 6. 3 times 2 is 6. Both sides make 6, so it balances. Picking 'tips right' means counting coins and forgetting distance.
-2. (fill) A key on peg 4 balances 2 coins on peg 2. The key weighs the same as ____ coin.  
-   **Answer:** ['1', 'one']. *Why:* 2 coins times 2 is 4. The key times 4 must also be 4. So the key weighs 1 coin. This is how you weigh an unknown thing with a lever.
+   **Answer:** Tips left. *Why:* 2 times 2 is 4. 3 times 1 is 3. The left side makes more turning, so it tips left. Picking 'tips right' means counting coins and forgetting distance.
+2. (fill) A packet of salt on peg 3 balances 6 coins on peg 1. The packet weighs the same as ____ coins.  
+   **Answer:** ['2', 'two']. *Why:* 6 coins times 1 is 6. The packet times 3 must also be 6. So the packet weighs 2 coins. This is how you weigh an unknown thing with a lever.
 3. (mcq) Why can't a wheel with shifting weights keep turning for ever by itself?  
    Options: It could, nobody has tried hard enough / The turning on both sides always balances out, and friction slowly stops it / Wheels are too heavy / It needs to be bigger  
    **Answer:** The turning on both sides always balances out, and friction slowly stops it. *Why:* Every design ever tried has failed. Energy cannot come from nothing. Picking 'nobody has tried hard enough' is a hopeful guess. In fact people have tried for over 800 years, since Bhaskara II described one in about 1150.
-4. (mcq) The Earth is about 81 times heavier than the Moon. Where is their balance point?  
-   Options: Exactly halfway between them / Much closer to the Moon / Much closer to the centre of the Earth, inside the Earth / There isn't one  
-   **Answer:** Much closer to the centre of the Earth, inside the Earth. *Why:* Like a heavy grown-up near the middle of a see-saw, the heavy Earth is close to the balance point. It is about 4,700 km from the Earth's centre, inside the Earth. Picking 'halfway' means forgetting that the Earth is far heavier.
+4. (mcq) A vegetable seller's tarazu has two pans hanging the same distance from the middle. A 1 kg weight in one pan balances the tomatoes in the other pan. How much do the tomatoes weigh, and why?  
+   Options: 1 kg, because the distances are equal, so the weights must be equal / 2 kg, because there are more tomatoes / Less than 1 kg, because tomatoes are soft / It cannot be known  
+   **Answer:** 1 kg, because the distances are equal, so the weights must be equal. *Why:* With equal distances from the fulcrum, weight times distance matches only when the weights match. So the tomatoes weigh 1 kg. Picking 'it cannot be known' forgets that this is exactly how a tarazu weighs things.
 5. (truefalse) Astronomers can find planets round other stars by watching the stars wobble.  
    **Answer:** True. *Why:* True. A planet and its star swing round a shared balance point, so the star wobbles a little. In 1995, Michel Mayor and Didier Queloz found a planet this way.
 6. (mcq) Arvind, a boy in Class 5, says, 'A single pulley over a well makes the bucket lighter.' What is wrong with his idea?  
@@ -743,23 +736,21 @@ That night, under the stars, the whole village ate together round the fires of U
 10. (mcq) A see-saw has a child of 20 kg sitting 2 metres from the middle. Where must a 40 kg grown-up sit to balance?  
    Options: 4 metres from the middle / 2 metres from the middle / 1 metre from the middle / Half a metre from the middle  
    **Answer:** 1 metre from the middle. *Why:* 20 times 2 is 40. The grown-up is 40 kg, and 40 times 1 is 40. So the grown-up sits 1 metre from the middle. Picking 4 metres means thinking the heavier person must go further out. It is the opposite.
-11. (write) The peoples of ancient Mexico made toys with wheels but did not build carts. Give two possible reasons.  
-   **Answer:** They had no horses or oxen to pull carts. Their land had thick jungles and steep mountains, where carts would be hard to use. Perhaps people carrying loads, or canoes on lakes, worked better.. *Why:* There is no single answer. Historians still debate it. A good answer gives reasons based on the land and animals.
-12. (write) Ramp guides in many countries, including India, suggest a ramp should be about 12 times as long as it is high, for wheelchairs. Why do you think it must be so long?  
+11. (write) Ramp guides in many countries, including India, suggest a ramp should be about 12 times as long as it is high, for wheelchairs. Why do you think it must be so long?  
    **Answer:** So the slope is gentle. Then a person in a wheelchair can push themselves up with a small push, and won't roll back down too fast.. *Why:* A long, gentle ramp needs a smaller push. That matters for people who push with their arms.
-13. (perspective) Archimedes is said to have boasted: 'Give me a place to stand, and I will move the Earth.' Could he really have done it?  
+12. (perspective) Archimedes is said to have boasted: 'Give me a place to stand, and I will move the Earth.' Could he really have done it?  
    **Answer:** Archimedes is right about the rule: weight times distance must match, so a far-out push can balance a huge load. Sunita is right about the real world: no material is that stiff, there is nowhere to stand, and the trade of a small push for a long distance makes the distance impossibly long.. *Why:* A strong answer uses the rule, and also the trade of push for distance. It sees that the idea is right while the plan is impossible.
-14. (write) A wheelbarrow carries a heavy load of bricks. Where are its fulcrum, load and effort? Why is it easier than carrying the bricks?  
+13. (write) A wheelbarrow carries a heavy load of bricks. Where are its fulcrum, load and effort? Why is it easier than carrying the bricks?  
    **Answer:** The fulcrum is the wheel. The load is the bricks in the middle. The effort is my hands lifting the handles. My hands are further from the wheel than the bricks, so I lift with a smaller force. The wheel also rolls instead of dragging.. *Why:* A wheelbarrow is a lever with the load in the middle, and it has a wheel, so it uses two simple machines.
-15. (write) A girl wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.  
+14. (write) A girl wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.  
    **Answer:** Close to the hinge. The hinge is the fulcrum, the nut is the load, and her hand at the end of the handles is the effort. With the nut near the fulcrum and her hand far away, a small squeeze becomes a big crush on the nut. Near the tips, her hand and the nut would be almost the same distance from the hinge, so there is no gain.. *Why:* A strong answer names the three parts, and uses the lever rule: the further the effort is from the fulcrum compared with the load, the smaller the push needed.
-16. (draw) Draw your own design for a machine that lifts a bucket of water from a well, using at least two simple machines. Label each one.  
+15. (draw) Draw your own design for a machine that lifts a bucket of water from a well, using at least two simple machines. Label each one.  
    **Answer:** Any design using two or more simple machines, labelled. For example: a lever like a shaduf with a stone counterweight, and a pulley wheel.. *Why:* Real machines often combine simple machines.
 
 ## Videos
-- **Super Simple Machines: Levers** (SciShow Kids, 4 min) id `lueqE0lxLyc`: A short, clear episode for children about how levers work, and how to make one at home. *Check:* Found by YouTube search: "Super Simple Machines: Levers" by SciShow Kids. Title checked automatically; a parent may still preview it.
-- **Science Trek: Simple Machines** (PBS (Idaho Public Television), 5 min) id `Kg_vZ2pgQEs`: Short clips on levers, ramps, wheels and pulleys, for parents and children together. *Check:* Found by YouTube search: "Science Trek: Simple Machines" by Idaho Public Television. Title checked automatically; a parent may still preview it.
-- **Solving Problems With Simple Machines** (SciShow Kids, 15 min) id `q4U-HpEVLW8`: A longer compilation on levers, wheels and axles and pulleys, good for a rainy afternoon. *Check:* Found by YouTube search: "Solving Problems with Simple Machines! | SciShow Kids Compilation" by SciShow Kids. Title checked automatically; a parent may still preview it.
+- **Super Simple Machines: Levers** (SciShow Kids, 4 min) id `lueqE0lxLyc`: A short, clear episode for children about how levers work, and how to make one at home. *Check:* A parent may like to preview it first.
+- **Science Trek: Simple Machines** (PBS (Idaho Public Television), 5 min) id `Kg_vZ2pgQEs`: Short clips on levers, ramps, wheels and pulleys, for parents and children together. *Check:* A parent may like to preview it first.
+- **Solving Problems With Simple Machines** (SciShow Kids, 15 min) id `q4U-HpEVLW8`: A longer compilation on levers, wheels and axles and pulleys, good for a rainy afternoon. *Check:* A parent may like to preview it first.
 
 ## Quiz
 1. (mcq) What does every simple machine do?  
@@ -780,7 +771,7 @@ That night, under the stars, the whole village ate together round the fires of U
 6. (mcq) 1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?  
    Options: 2 cm / 8 cm / 32 cm  
    **Answer:** 2 cm. *Why:* 1 times 8 is 8, and 4 times 2 is 8. The heavier side sits closer in. Picking 8 cm matches the place but forgets the weight. Picking 32 cm moves the heavy side further out instead of closer in.
-7. (mcq) Instead of the steps, A girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
+7. (mcq) Instead of using the steps, a girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
    Options: She must push for a longer way / She needs a bigger push / Nothing at all  
    **Answer:** She must push for a longer way. *Why:* A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.
 8. (mcq) A knife is a wedge. Why does a sharp knife cut more easily than a blunt one?  
@@ -840,7 +831,6 @@ That night, under the stars, the whole village ate together round the fires of U
 - **Exactly how were the pyramids and other giant ancient buildings raised?** Most experts agree ramps, levers and sledges were used. Which kinds of ramp, and how they were arranged, is still argued about, and new finds keep changing the picture.
 - **How did the builders of India's temples and stepwells, like those in Gujarat and Rajasthan, lift and place stones weighing many tonnes?** Historians have good guesses: ramps, levers, rollers, ropes, pulleys and huge teams of workers. For most buildings, nobody wrote down exactly how it was done, or the names of the builders.
 - **Who first used a lever, a ramp or a wheel?** It happened long before writing, and wooden tools rot away. The oldest wheels and toy carts we have found may not be the first.
-- **Why did the peoples of ancient Mexico use wheels on toys but not on carts?** There are several ideas: no animals to pull carts, rough land, or other ways that worked better. Historians still debate it.
 - **Exactly how does each tiny myosin lever in a muscle time its swing?** Scientists can now see myosin's shape and watch single molecules move. The fine details of each step are still being studied.
 - **How small can a machine be?** Chemists have built tiny motors, switches and even a 'nanocar' from single molecules. How useful such machines can become is still unknown.
 - **How many planets like the Earth are there round other stars?** Stars' wobbles, and dips in their light, have revealed thousands of planets. Small, Earth-like planets make tiny wobbles that are very hard to see.
@@ -849,7 +839,6 @@ That night, under the stars, the whole village ate together round the fires of U
 ## Questions to ask kids
 - Where is the fulcrum on that pair of scissors?
 - Which end of this broom is heavier? Where will it balance?
-- Why do you think the door handle is on the far side from the hinges?
 - Is that tap handle a lever, a ramp or a wheel?
 - How would you lift this heavy bag onto the bed without lifting it straight up?
 - Why does the road up the hill zigzag?
@@ -857,44 +846,19 @@ That night, under the stars, the whole village ate together round the fires of U
 - When you bend your arm, where is the fulcrum? Where does your muscle pull?
 - What did that machine give us? What did we have to give up?
 - Could this building be used by someone in a wheelchair?
-- Who do you think invented the first lever?
 - Is the Earth wobbling right now, round its balance point with the Moon?
 
 ## Jokes
-- Why did the see-saw go to school? *To learn how to balance its studies.*
-- What did the lever say to the heavy rock? *Don't worry, I've got the point.*
-- Why was the ramp so calm? *It never took things too steeply.*
 - Why did the wheel get the job? *It was very well-rounded.*
-- What's a fulcrum's favourite game? *Turn-taking.*
 - Why did the screw get dizzy? *It kept going round in circles.*
-- Why are levers good at arguments? *They always have a strong point.*
-- What did the axle say to the wheel? *I'll always be there in the middle for you.*
 - Why did the slide never get angry? *It let everything slide.*
 - What do you call a sleepy see-saw? *A see-snore.*
 - Why did the doorknob win the race? *It knew all the turns.*
 - Why was the wheelbarrow so helpful? *It always pulled its weight. Well, it pushed it.*
-- What did one coin say to the other on the ruler see-saw? *Move over, you're making me look light!*
-- Why do ramps make good friends? *They always help you up.*
-- What's a nutcracker's favourite music? *Anything with a good crunch.*
-- Why did the knife get top marks? *It was the sharpest wedge in the drawer.*
-- Why did the bicycle stand up straight? *It had lots of support from its levers.*
-- What did Archimedes say when he lost his lever? *Give me a place to look, and I'll find it!*
 - Why did the pulley go to the party? *It wanted to hang out.*
-- What did the Moon say to the Earth? *Let's spin round our balance point together.*
-- Why was the zigzag road never late? *It took the long way, but never got tired.*
-- Why did the tap handle feel important? *Everyone gave it a turn.*
 - Why don't see-saws ever feel lonely? *They always have someone on the other side.*
-- What did the muscle say to the bone? *You're my favourite lever.*
 - Why did the chimta tongs stay out of trouble? *They kept things at arm's length.*
-- Why did the jar lid feel important? *Because it was a screw, and everyone had to turn to it.*
 - What do you call a lever with no fulcrum? *A stick.*
-- Why did the rolling pin become a teacher? *It was good at smoothing things out.*
-- Why did the heavy grown-up move closer to the middle of the see-saw? *To keep things balanced.*
-- What's a machine's favourite saying? *There's no such thing as a free push.*
-- Why did the hand pump get a medal? *It always handled the pressure.*
-- What did the ramp say to the stairs? *Take it easy. Go the long way.*
-- Why did the shaduf never worry? *Its counterweight always lifted its spirits.*
-- How does the Earth dance with the Moon? *With a little wobble.*
 
 ## Connected maths
 - On a ruler see-saw, 3 coins sit 4 cm from the pencil. How far away must 2 coins sit on the other side to balance them? **6 cm.**. On the left, 3 coins times 4 cm is 12. On the right, 2 coins times something must also be 12. 2 times 6 is 12. So the 2 coins sit 6 cm from the pencil. (queues `math.algebra.balance-and-missing-numbers.L3`)
@@ -925,10 +889,10 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): The beam of the ruler see-saw, and for measuring stretches and ramps. Used in e1, e2, g1. 
 - [A pack of long rubber bands](https://www.amazon.in/s?k=long+rubber+bands) (material): A simple way to measure pulls in the ramp test and the rice bag challenge. A bigger pull stretches the band further. Used in e2, c1. 
 - [A small toy truck or car with free-turning wheels](https://www.amazon.in/s?k=toy+truck+free+wheel) (material): The load in the ramp test and the ramp model. Used in e2, c1, c2. 
-- [A number balance (a plastic balance beam with numbered pegs and weights)](https://www.amazon.in/s?k=number+balance+maths+toy) (game): A ready-made version of the ruler see-saw, with pegs 1 to 10 on each side. Great for Balance Bazaar and for maths. Used in g1, e1. If bought, use it in place of the ruler and coins in Balance Bazaar and the ruler see-saw experiment. It is used again in maths for missing numbers.
-- [Simple Machines: Wheels, Levers, and Pulleys, by David A. Adler, illustrated by Anna Raff](https://www.amazon.in/s?k=Simple+Machines+Wheels+Levers+Pulleys+David+Adler) (book): A clear picture book about simple machines, for ages 5 to 9. Used in g2. If bought, read it on the day of Machine Spotter, before the game. It can replace the 'three families of levers' cards.
-- [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, beautifully drawn book on how machines work, from levers to computers. For parents and curious older children. Used in c1. If bought, look at its section on levers and ramps together after the Lift the Rice Bag challenge. It stays useful through Class 5.
-- [Spring balance, also called a forcemeter (0 to 10 newtons)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): Measures pulls in newtons, instead of rubber band stretch, in the ramp test and the rice bag challenge. Used in e2, c1. Shared with the Friction and Measuring forces units.
+- [A number balance (a plastic balance beam with numbered pegs and weights)](https://www.amazon.in/s?k=number+balance+maths+toy) (game): A ready-made version of the ruler see-saw, with pegs 1 to 10 on each side. Great for Balance Bazaar and for maths. Used in g1, e1. 
+- [Simple Machines: Wheels, Levers, and Pulleys, by David A. Adler, illustrated by Anna Raff](https://www.amazon.in/s?k=Simple+Machines+Wheels+Levers+Pulleys+David+Adler) (book): A clear picture book about simple machines, for ages 5 to 9. Read it on the day of Machine Spotter, before the game. Used in g2. 
+- [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, beautifully drawn book on how machines work, from levers to computers. For parents and curious older children. Look at its pages on levers and ramps together after the Lift the Rice Bag challenge. Used in c1. 
+- [Spring balance, also called a forcemeter (0 to 10 newtons)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): Measures pulls in newtons, instead of rubber band stretch, in the ramp test and the rice bag challenge. Used in e2, c1. 
 
 ## Warm-up
 - The point a lever turns on is called the ____. → Fulcrum. It is also called the pivot.
@@ -944,18 +908,18 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - Can a machine give you more than you put in? → No. There is no free push.
 
 ## Plan
-- Start options: story, e1, a2, g1, big_questions, cards, a3
+- Start options: story, e1, g1, big_questions, cards, a3
 - Default order: intro → e1 → story → summary → terms → a2 → g1 → explanations → a1 → e2 → ws-core → a6 → g2 → e3 → videos → a4 → agreed → challenging → p1 → a3 → ws-stretch → c1 → a5 → big_questions → c2 → ws-challenge → open_questions → quiz
-- Core: e1, a2, g1, a1, e2, ws-core, a6, g2, e3, a3, a5, p1, c2
+- Core: e1, g1, a1, e2, ws-core, a6, g2, e3, a3, a5, p1, c2
 
 ## Sources
-- Founder's notes: Balancing Act Game worksheet for the PhET simulation (levels 1 to 4, mystery masses), used in a3 and as the model for g1 Balance Bazaar
-- DeepKids HomeSchooling Track: Zero Sum, Seesaw Balance Game (plank on a roller or bottle, stones and toys on each side), used in e1, g1 and a2
-- DeepKids HomeSchooling Track: Simple Machines, Tech, Tools (wheel, lever, pulley, fan, switches. Inclined plane with a toy car sliding down a ramp; machines in daily life: bicycle wheels, fans, taps. Scales and balance), used in e2, e3, a1 and g2
-- DeepKids HomeSchooling Track: Physics (balance: centre of gravity with see-saws, standing on one foot), used in a5
-- Forces notebook: rotational motion activities (balance a ruler on a finger and add weights. Use a wrench with different handle lengths to feel torque), used in e1 and a6
-- Forces notebook: Archimedes card (law of the lever, 'give me a place to stand'), used in intro and challenging
-- Forces notebook: Al-Jazari and Al-Khazini cards (machines, The Balance of Wisdom), background for the credit questions
+- PhET Balancing Act, a free simulation with a game worksheet (levels 1 to 4, mystery masses), used in a3 and as the model for g1 Balance Bazaar
+- A seesaw balance game with a plank on a roller or bottle and stones or toys on each side, used in e1, g1 and a2
+- Simple machines in daily life (wheels, levers, pulleys, an inclined plane with a toy car, scales and balances), used in e2, e3, a1 and g2
+- Balance and centre of gravity with see-saws and standing on one foot, used in a5
+- Rotational motion activities (balance a ruler on a finger and add weights, use a spanner with different handle lengths), used in e1 and a6
+- Archimedes and the law of the lever ('give me a place to stand'), used in the intro and the challenging ideas
+- Al-Jazari and Al-Khazini (machines, The Balance of Wisdom), background for the credit questions
 - H.E. Huxley and J. Hanson, Nature 1954, and A.F. Huxley and R. Niedergerke, Nature 1954 (sliding filaments in muscle)
 - I. Rayment and others, Science 1993 (the structure of the myosin head and its lever arm)
 - M. Mayor and D. Queloz, Nature 1995 (a planet found by its star's wobble, 51 Pegasi b)

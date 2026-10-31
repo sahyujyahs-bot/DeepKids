@@ -7,7 +7,7 @@
 
 ## Learning outcomes
 0. I can say what elastic means: a thing changes shape when pushed or pulled, and goes back when you let go. I can name elastic things at home.
-1. I can guess, with a reason, what equal handfuls of coins will do to a rubber band. Then I can test it fairly and find the pattern.
+1. I can guess, with a reason, what equal numbers of coins will do to a rubber band. Then I can test it fairly and find the pattern.
 2. I can explain the elastic limit: pull too far and a thing stays stretched or snaps. I can find where a pen spring stops coming back.
 3. I can explain that a stretched or squashed spring stores energy, and give uses like catapults, wind-up toys, bows and bouncing balls.
 4. I can find springs in machines, in nature and in my own body, and say what job each one does.
@@ -46,11 +46,11 @@
 Pull a rubber band and it gets longer. Let go and it snaps back. Squeeze a sponge and it gets smaller. Let go and it puffs back up. Both are elastic. Elastic things can also be bent or twisted, and then spring back. Steel, wood, stone and even glass are a little elastic too. They need a much bigger force before you can see them change.
 - e.g. A hair band stretches round your hair, then goes back to its small loop.
 - e.g. A plastic ruler bends when you press its end, then springs straight.
-- e.g. A cricket ball squashes a tiny bit when the bat hits it, then springs back round.
+- e.g. A cricket ball squashes a tiny bit when the cricket bat hits the ball, then springs back round.
 ### More pull, more stretch · *defined*
 **Definition:** For small stretches, equal extra pulls give equal extra stretches. Double the pull and you get about double the stretch. This rule is called Hooke's law.
 
-In the coin test, each 5 coins made the band longer by about the same step. Why? Each 5 coins pull down by the same amount. The band stretches until its pull back matches the pull of the coins. Suppose the band's pull back grows by the same amount for each centimetre of stretch. Then equal handfuls of coins must give equal steps. Robert Hooke wrote this rule down in 1678. He put it in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. Steel springs follow it closely, for small stretches. Rubber bands follow it only roughly. Their steps often grow a little as the band gets long. This rule is why a spring balance has evenly spaced marks. The unit on measuring forces looks at spring balances more closely.
+In the coin test, each 5 coins made the band longer by about the same step. Why? Each 5 coins pull down by the same amount. The band stretches until its pull back matches the pull of the coins. Suppose the band's pull back grows by the same amount for each centimetre of stretch. Then equal numbers of coins must give equal steps. Robert Hooke wrote this rule down in 1678. He put it in Latin: 'ut tensio, sic vis'. It means 'as the stretch, so the force'. Steel springs follow it closely, for small stretches. Rubber bands follow it only roughly. Their steps often grow a little as the band gets long. This rule is why a spring balance has evenly spaced marks. The unit on measuring forces looks at spring balances more closely.
 - e.g. One bag of shopping stretches the spring of a luggage scale a little. Two bags stretch it about twice as far.
 - e.g. A thick rubber band needs a bigger pull than a thin one to stretch the same amount. Scientists say it is stiffer.
 ### The elastic limit: spring back, stay stretched, or snap · *defined*
@@ -106,8 +106,8 @@ The squash is too quick to see. Slow-motion films show a tennis ball going flat 
 
 Many living things store energy in springy parts and get it back. When you run, the tendon at the back of your ankle stretches as your foot lands. It springs back as you push off. Tests show that a tendon gives back about nine-tenths of the energy put into it, so your muscles do less work. The arch of your foot works as a spring too. Kangaroos hop a long way on long, springy tendons in their legs. A flea jumps with a pad of a rubbery material called resilin. Torkel Weis-Fogh, a Danish scientist, discovered resilin in insects in 1960. The flea's muscles squash the pad slowly and lock it in place. Then the pad is let go all at once, far faster than any muscle can move. Other elastic parts soak up a hit or keep a shape. A spider's sticky threads stretch to more than twice their length when an insect flies in, then pull back. Your skin springs back because of a stretchy material called elastin. Your biggest blood vessel, the aorta, stretches with each heartbeat and springs back. Inside your muscles, a giant protein called titin works like a tiny spring.
 - e.g. Pinch the skin on the back of your hand and let go. It springs back.
-- e.g. A spider's web sags when an insect hits it, instead of breaking, then springs back.
-- e.g. The mantis shrimp, a sea animal, punches with a spring in their arm. Sheila Patek and her team filmed the punch in 2004.
+- e.g. A spider's web sags when an insect flies into the web, instead of breaking, then springs back.
+- e.g. Mantis shrimp, sea animals, punch with a spring in their arm. Sheila Patek and her team filmed the punch in 2004.
 ### Bend, don't break: why springy things survive · *defined*
 **Definition:** A thing that can bend and spring back can take a sudden heavy push without breaking. A stiff, brittle thing may snap instead.
 
@@ -194,13 +194,12 @@ A spring lying still has strong pushes and pulls inside it. They cancel out, so 
 
 ## Deep and big questions
 - *deep:* A spring lying on the table looks as if nothing is happening inside it. Is anything going on in there? (hint: Think of each atom resting where the pushes and pulls from its neighbours balance. What happens to them when you stretch it?)
-- *deep:* Why should equal handfuls of coins give equal steps of stretch? What would have to be true inside the band? (hint: What if the band pulls back a little harder for each centimetre it is stretched?)
+- *deep:* Why should equal numbers of coins give equal steps of stretch? What would have to be true inside the band? (hint: What if the band pulls back a little harder for each centimetre it is stretched?)
 - *deep:* Is anything completely stiff? Does a brick stretch even a tiny bit when you stand on it? (hint: Hooke saw a long wire stretch when a short one seemed not to. How could you show a brick bending?)
 - *deep:* When you stretch a catapult, where is the energy while you are holding it? Where does it go after you let go? (hint: Think of the atoms pulled out of their resting places, and then the flying paper ball.)
 - *big:* After a big pull, the pen spring rests at a new length, and springs back to that. Is it the same spring as before? (hint: All its atoms are still there. What has changed is which atoms hold which.)
 - *big:* Rock under the Himalaya is being bent a little every year, and nobody can see it. How can anyone know that something is storing strain before it breaks? (hint: Think of a branch that stays a little bent after a swing. What do GPS stations measure?)
 - *deep:* A flea, a kangaroo and you all use springs to move. Why might living things have ended up so full of springs? (hint: A spring gives back most of the energy you put in. Why would that help an animal that runs or jumps every day?)
-- *big:* Space itself stretches. What could space be made of, that it can stretch? (hint: Nobody knows. What would you guess, and how could anyone ever test it?)
 - *big:* People in Mexico made bouncy rubber 3,500 years ago, but the books often credit someone else. Why do some inventors get remembered and others get forgotten? (hint: Who wrote the books? Who was allowed to write?)
 - *big:* An engineer warned that cold rubber would not spring back fast enough, and the launch went ahead. How should people decide when a test result means 'stop'? (hint: Later, the scientist Richard Feynman showed it with a piece of the rubber and a glass of iced water. What made his test so hard to argue with?)
 
@@ -273,10 +272,10 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Games
 ### g1 · Spring Back, Stay or Snap? (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: if you stretch, squash or bend this thing, will it spring back, stay changed, or snap? Put the card on that mat.; Then name one place where that thing is useful because it behaves that way. A good idea wins one spring token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 thing cards to cut out:** Rubber band; Playdough; Dry twig; Kitchen sponge; Pen spring, pulled gently; Pen spring, pulled very hard; Chewing gum; Papad; Hair band; Glass bangle; Strip of thin carry bag; Bouncy ball; Green bamboo stick; Wet clay; Pyjama elastic; Biscuit; Trampoline mat; Aluminium foil, crumpled; Spider web; Your skin, pinched; TEST IT: stretch a rubber band a little and let go. What does it do?; TEST IT: squeeze a ball of chapati dough. Does it spring back?; TEST IT: bend a plastic ruler a little and let go. What does it do? Don't bend it far, or it may snap.; TEST IT: pinch the skin on the back of your hand and let go. Watch it.
+- **rules:** Cut out the 24 cards, the 3 mats and the 20 spring tokens. For the TEST IT cards, keep a rubber band, a lump of chapati dough and a plastic ruler nearby.; Lay the three mats on the floor. Shuffle the cards and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: if you stretch, squash or bend this thing, will it spring back, stay changed, or snap? Put the card on that mat. If the others disagree, talk it through and agree.; Then name one place where that thing is useful because it behaves that way. A good idea wins one spring token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens. Then put the card on the mat the result shows.; If the tokens run out, keep score with tally marks on paper.; When the cards run out, the player with the most tokens wins. If two players tie, they share the win.
+- **Printable cards: 24 thing cards to cut out:** Rubber band; Playdough; Dry twig; Kitchen sponge; Pen spring, pulled gently; Pen spring, pulled very hard; Chewing gum; Papad; Hair band; Glass bangle; Strip of thin carry bag; Bouncy ball; Green bamboo stick; Wet clay; Pyjama elastic; Biscuit; Trampoline mat; Aluminium foil, crumpled; Spider web; Steel spoon, bent a little; TEST IT: stretch a rubber band a little and let go. What does it do?; TEST IT: squeeze a ball of chapati dough. Does it spring back?; TEST IT: bend a plastic ruler a little and let go. What does it do? Don't bend it far, or it may snap.; TEST IT: pinch the skin on the back of your hand and let go. Watch it.
 - **Printable board: Three playing mats:** SPRING BACK: elastic; STAY: stays changed (plastic); SNAP: breaks (brittle)
-- **Printable tokens: 20 spring tokens (small paper circles):** 🌀
+- **Printable tokens: 20 spring tokens to cut out:** Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the three mats on the floor: SPRING BACK, STAY and SNAP. 2. Shuffle the 24 cards and put them face down in a pile. 3. Put the spring tokens in a bowl.  
   *Parent says:* Here are three mats. Spring back, stay changed and snap. Before we start, can you think of one thing for each mat? Why does it belong there?  
@@ -285,7 +284,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s2 (3 min)**  
   *Parent does:* Find the card 'Pen spring, pulled very hard'. Play it together as a practice round.  
   *Parent says:* Let's practise with a tricky one. A pen spring, pulled very hard. Does it spring back, stay, or snap?  
-  *Child mode:* Practice card: a pen spring, pulled very hard. Spring back, stay or snap? Tap your answer.
+  *Child mode:* Practice card: a pen spring, pulled very hard. Spring back, stay or snap? Say your answer.
   - Ask: Why does a spring pulled very hard stay long? (good: It went past its limit.; It was stretched too far, so it can't come back.)
   - Note: The same spring pulled gently goes on SPRING BACK. This shows that one thing can be elastic up to a limit, and then stay changed.
   - Check: A pen spring pulled very hard. Which mat does it go on? → **STAY**
@@ -293,7 +292,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent does:* 1. Take turns. Each player draws a card, reads it out and puts it on a mat. 2. They name a place where that behaviour is useful. 3. Give one token for each good idea.  
   *Parent says:* Put your card on a mat. Then tell me one place where it helps that this thing springs back, stays or snaps.  
   *Child mode:* Take turns. Read your card. Put it on a mat. Then say where that is useful. Each good idea wins a 🌀 token.
-  - Note: Good ideas: a hair band must spring back, or it would fall off. Playdough must stay, or you could not make shapes. A papad snapping is how you know it is crisp. Some cards are tricky. A sponge springs back. Crumpled foil stays. A spider web springs back, which is how it catches flies without breaking.
+  - Note: Good ideas: a hair band must spring back, or it would fall off. Playdough must stay, or you could not make shapes. A papad snapping is how you know it is crisp. Some cards are tricky. A sponge springs back. Crumpled foil stays. A spider web springs back, so the web catches flies without breaking.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess what will happen. Then we'll try it and see who was right.  
@@ -301,14 +300,12 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Ask: You pinched the skin on your hand. Why did it spring back? (good: Skin is elastic.; It has stretchy stuff inside it, called elastin.)
   - Think: Can one thing be on two mats? When?
 - **s5 (2 min)**  
-  *Parent does:* 1. Count everyone's tokens to find the winner. 2. Then look at the three piles together.  
+  *Parent does:* Count everyone's tokens to find the winner. Then look at the three piles together.  
   *Parent says:* Look at the three piles. Which pile is biggest? Which things were the hardest to decide?  
   *Child mode:* Count your tokens. Who won? Now look at the piles. Which things were hard to decide? Why?
-  - Think: Steel, glass and stone are a little elastic too. Do you think anything is never elastic at all?
 ### g2 · Human Springs (15 min)
-- **rules:** Each player is a spring. Stand on a spot marked with a chappal. That is your resting place.; The caller reads a card. For each gentle pull, the spring takes one step forward. For each gentle push, it takes one step back.; On 'Let go!', every spring jumps back to its resting place.; Special cards change the rules for one round, like STIFF SPRING or TOO FAR.; A spring that moves the wrong number of steps sits out one round. Play until every card has been read.
+- **rules:** Cut out the 16 caller cards. The caller shuffles them and holds the pile. Everyone else is a spring.; Each spring stands beside a chappal on the floor. That is your resting place.; The caller reads one card at a time. For each gentle pull, take one step forward. For each gentle push, take one step back. The steps add up until the next 'Let go!'.; On 'Let go!', every spring jumps back to its resting place. That ends the round.; Special cards change the rule until the next 'Let go!'. STIFF SPRING: take half steps. FLOPPY SPRING: take double steps. COLD RUBBER: on 'Let go!', count slowly to five before you spring back. TOO FAR, stay where you are: on 'Let go!', you stay where you are, and walk back to your chappal when the next round starts. TOO FAR, snap: sit down until the next round starts. BOUNCE: crouch, then jump up on the spot. STORE IT: crouch and hold until 'Let go!', then jump.; A spring that takes the wrong number of steps sits out the rest of that round. The others check.; Play until every card has been read. If the last card is not 'Let go!', the caller says it. There is no winner. Everyone wins if every spring follows the cards.
 - **Printable cards: 16 caller cards:** 1 gentle pull; 2 gentle pulls; 3 gentle pulls; 1 gentle push; 2 gentle pushes; 3 gentle pushes; Let go!; Let go!; Let go!; STIFF SPRING: move only half as far; FLOPPY SPRING: move twice as far; COLD RUBBER: spring back very slowly; TOO FAR! You pass your limit and stay where you are; TOO FAR! You snap and sit down; BOUNCE: crouch, then jump up; STORE IT: crouch and hold, then jump on 'Let go!'
-- **Printable score sheet: Spring chart:** Pulls; How many steps I moved; Did I spring back?
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Put one chappal on the floor for each player, in a line with space in front. 2. Each player stands beside a chappal. 3. Shuffle the caller cards.  
   *Parent says:* You are all springs. Your chappal is where you rest. When I pull, you stretch forward. When I push, you squash back. When I say 'Let go', you spring home.  
@@ -320,23 +317,23 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Ask: Three pulls made you move three steps. What would six pulls do? (good: Six steps.; Twice as far.)
   - Note: This acts out the spring rule: double the pull, double the stretch. Robert Hooke wrote this rule down in 1678.
 - **s3 (5 min)**  
-  *Parent does:* Read the special cards: STIFF SPRING, FLOPPY SPRING, COLD RUBBER, TOO FAR and STORE IT.  
+  *Parent does:* Keep reading. When a special card comes up (STIFF SPRING, FLOPPY SPRING, COLD RUBBER or TOO FAR), play it as the rules say.  
   *Parent says:* Too far! You've passed your limit. When I say let go, you can't get home. You stay where you are.  
   *Child mode:* Special card! A stiff spring moves only a little. Too far means you can't get home. Act it out!
   - Note: COLD RUBBER links to a true story. Cold rubber springs back slowly. That mattered on the space shuttle Challenger in 1986. Tell it only if your child is ready for a sad story.
   - Check: A spring is pulled TOO FAR, past its limit. When you let go, what happens? → **It stays stretched, or it snaps**
 - **s4 (2 min)**  
-  *Parent does:* Finish with STORE IT and BOUNCE. Everyone crouches, holds, then jumps on 'Let go!'.  
+  *Parent does:* To finish, the caller reads BOUNCE, then STORE IT, then 'Let go!'. Everyone crouches, holds, then jumps.  
   *Parent says:* Crouch down and hold it. You are a squashed spring, full of stored energy. Let go!  
   *Child mode:* Crouch low and hold. You are a squashed spring. Wait for it. Let go! Jump!
   - Think: When you crouch before a jump, your legs are like springs. Where in your body are the springs?
 
 ## Experiments
 ### e1 · Coin by Coin: find the pattern, find the limit (35 min)
-- **question:** When you add coins in equal handfuls, how does a rubber band's length change? And how far can a spring be pulled before it stops coming back?
+- **question:** When you add coins in equal numbers, how does a rubber band's length change? And how far can a spring be pulled before it stops coming back?
 - **predict:** Before you add any coins, guess. Each time we add 5 coins, will the band grow by the same amount? By more and more? Or by less and less? Why do you think so? And if we pull a spring further and further, will it always come back? Why?
 - **fair test:** Change only the number of coins. Use the same band, the same cup, the same kind of coins and the same ruler. Add exactly 5 coins each time. Wait until the cup stops bouncing, and read the ruler at eye level at the bottom of the band. For the pen spring, change only how far you pull it.
-- **safety:** Stand to the side, not over the cup, in case the band slips. A grown-up takes the spring out of the pen. Keep the spring's ends away from eyes.
+- **safety:** A grown-up takes the spring out of the pen. Keep the spring's ends away from eyes.
 - **record:** Fill in the coin table. Then make a second table for the pen spring. One column says how far you pulled it. The other says its length after you let go. Circle the first pull it did not come back from.
 - **results table:** Coins in the cup | Length of the band (cm) | How much longer than last time (cm)
 - **s1 (4 min)**  
@@ -366,7 +363,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* Look at your steps, in the last column. What do you notice? Was your guess right?
   - Ask: What do you notice about the steps? (good: They are nearly all the same.; Each 5 coins added about 1 cm.; The last steps were a bit bigger.)
   - Note: Many bands give nearly equal steps, then slightly bigger steps near the end. Both are honest results. Write down what you really saw.
-  - Check: Most of the steps were about the same size. What pattern does that show? → **Equal handfuls of coins give equal steps of stretch**
+  - Check: Most of the steps were about the same size. What pattern does that show? → **Equal numbers of coins added give equal steps of stretch**
 - **s6 (2 min)**  
   *Parent does:* 1. Take all the coins out. 2. Measure the band again.  
   *Parent says:* Now the coins are out. What do you think the ruler will say? Let's look.  
@@ -422,38 +419,38 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent says:* Tell me three things in your own words. What do you think now about stretching and flying? What did you see? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think now. What I saw. Why I think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: stretching a band more makes it fly further. What I saw: pulled to 10 cm, it went about 150 cm. Pulled to 15 cm, it went about 350 cm. Why: the more you stretch it, the more energy it stores, and it gives that energy back when it springs.
-### e3 · Find the Limit (25 min)
+### e3 · Find the Limit (22 min)
 - **question:** When we stretch or bend different things, which spring back, which stay changed, and which snap?
 - **predict:** Before you test each thing, guess. Will it spring back, stay changed, or snap? Why do you think so?
-- **fair test:** Measure each thing before you stretch it. Stretch each one to about twice its length, or bend it gently, then let go. Pull the pen spring only a little at first. Measure it again straight away. That way you compare each thing with itself.
-- **safety:** A grown-up cuts the plastic strip. Bend the spaghetti away from your face. Throw away the plastic strip safely afterwards, so animals cannot eat it.
-- **record:** Fill in the table. Circle the things that sprang back. Draw the pen spring before and after a very hard pull.
+- **fair test:** Measure each thing before you stretch it. Stretch each one to about twice its length, or bend it gently, then let go. Measure it again straight away. That way you compare each thing with itself.
+- **safety:** A grown-up cuts the plastic strips. Bend the spaghetti away from your face.
+- **record:** Fill in the table. Circle the things that sprang back. Draw the plastic strip before you pulled it, and after it tore.
 - **results table:** Thing | My guess | Length before (cm) | Length after (cm) | Sprang back, stayed or snapped?
 - **s1 (4 min)**  
-  *Parent does:* 1. Line up the five things. 2. Measure each one and write its length in the table. 3. Write your child's guess for each.  
+  *Parent does:* 1. Line up the four things. 2. Measure each one and write its length in the table. 3. Write your child's guess for each.  
   *Parent says:* Let's guess first. For each thing, will it spring back, stay stretched, or snap? Why do you think so?  
   *Child mode:* Measure each thing. Write the length. Then guess: spring back, stay, or snap?
 - **s2 (10 min)**  
-  *Parent does:* 1. Stretch the rubber band, plastic strip and dough to about twice their length. Pull the pen spring only a little. 2. Let go. 3. Measure each one again straight away. 4. Gently bend the spaghetti until it bends a little, then more.  
+  *Parent does:* 1. Stretch the rubber band, one plastic strip and the dough to about twice their length. 2. Let go. 3. Measure each one again straight away. 4. Gently bend the spaghetti until it bends a little, then more.  
   *Parent says:* Stretch it to twice as long. Let go. Now measure. Is it the same as before?  
   *Child mode:* Stretch each one to twice as long. Let go. Measure again. Bend the spaghetti gently. What happens?
-  - Note: Expect this. The rubber band springs back. The plastic strip stays long and thin. Playdough stays long. Chapati dough shrinks back a little, but stays longer than before. The pen spring springs back if pulled gently, but stays long if pulled hard. The spaghetti bends a tiny bit, then snaps.
+  - Note: Expect this. The rubber band springs back. The plastic strip stays long and thin. Playdough stays long. Chapati dough shrinks back a little, but stays longer than before. The spaghetti bends a tiny bit, then snaps.
 - **s3 (5 min)**  
-  *Parent does:* Pull the old pen spring very hard, far past twice its length. Let go and measure.  
-  *Parent says:* Now let's pull the spring too far on purpose. What do you think it will do when we let go? Why?  
-  *Child mode:* Pull the old pen spring very hard. Let go. Did it come back? Measure it.
-  - Check: The pen spring was pulled very hard. Now it stays long and loose. Why? → **It was pulled past its elastic limit**
-  - Think: The plastic strip and the spring both stayed long. What do you think changed inside them?
+  *Parent does:* Take the second plastic strip. Pull it slowly, further and further, until it tears. Watch the middle of the strip.  
+  *Parent says:* Now let's pull a strip too far on purpose. What do you think will happen to it before it tears? Why?  
+  *Child mode:* Pull the second strip slowly, further and further. What happens in the middle? Does it come back?
+  - Note: Carry bags differ. Most stretch and go thin in the middle before they tear. If yours tears at once, write that down. It is an honest result.
+  - Check: The plastic strip stayed long after a pull. Pulled much further, it tore. What does this show? → **Past its elastic limit it changes for good, and a bit further it breaks**
+  - Think: The plastic strip stayed long. What do you think changed inside it?
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things in your own words. Which things came back and which didn't? What did you see that shows it? And why do you think some stayed long?  
   *Child mode:* Say or write three things. What I think now. What I saw. Why I think it happened.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: elastic things spring back, but only up to a limit. What I saw: the rubber band went back to 6 cm. The plastic strip went from 10 cm to 18 cm and stayed. The spaghetti snapped. The pen spring came back when I pulled it a little, but stayed long when I pulled it hard. Why: every elastic thing has a limit, and past it, it stays changed or breaks.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: elastic things spring back, but only up to a limit. What I saw: the rubber band went back to 6 cm. The plastic strip went from 10 cm to 18 cm and stayed, and the second strip tore when I pulled it hard. The spaghetti snapped. Why: every elastic thing has a limit, and past it, it stays changed or breaks.
 ### e4 · The Bounce Test (25 min)
 - **question:** Which ball bounces highest when dropped from the same height?
 - **predict:** Line up the balls. Put the one you think will bounce highest first, and the one you think will bounce lowest last. Why did you choose that order?
 - **fair test:** Drop every ball from the same height, 1 metre, onto the same hard floor. Let go without pushing it down. Drop each ball 3 times and take the middle value.
-- **safety:** Do this on a clear, hard floor away from glass. Put the dough ball in the bin or the compost afterwards.
 - **record:** Fill in the table. Then draw a bar chart, with one bar for each ball's middle value.
 - **results table:** Ball | Try 1 bounce (cm) | Try 2 bounce (cm) | Try 3 bounce (cm) | Middle value (cm)
 - **s1 (4 min)**  
@@ -483,25 +480,23 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Activities
 ### a1 · Spring Hunt (20 min)
-- **safety:** Go outdoors only with a grown-up. Only bend low, thin, living branches gently, and let them go slowly.
 - **record:** Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce.
 - **s1 (2 min)**  
   *Parent does:* Explain the hunt to your child, and give them the paper and pencil.  
   *Parent says:* We're spring detectives. Springs and elastic things are hiding all over our home. Let's find 12.  
   *Child mode:* You are a spring detective! Find 12 springs or elastic things. Elastic means it springs back.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a woven cot. 4. If you go outside with a grown-up, find a low green branch.  
+  *Parent does:* 1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a woven cot.  
   *Parent says:* For each one, what is its job? Does it stretch, squash, bend or bounce? What would happen if it were not elastic?  
   *Child mode:* For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.
-  - Note: Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too. Outdoors, a low green branch bends and springs back.
+  - Note: Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too.
 - **s3 (3 min)**  
   *Parent does:* Ask each person to share their best find.  
   *Parent says:* Which find surprised you most? Which one would be a disaster if it were not elastic?  
   *Child mode:* Which find surprised you most? Draw it.
   - Think: Who designed these springs? Why did they choose a spring, and not something stiff?
 ### a2 · Two in a Row, Two Side by Side (20 min)
-- **safety:** Stand to the side, not over the cup, in case a band slips.
-- **record:** Write three stretches: one band, two in a chain, two side by side. A stretch is the length with coins take away the length without coins.
+- **record:** Write three stretches: one band, two in a chain, two side by side. A stretch is the length with coins, minus the length without coins.
 - **s1 (4 min)**  
   *Parent does:* 1. Hang one band from the pencil and measure it with the empty cup. 2. Add 20 coins and measure again. 3. Take away the first number from the second to get the stretch.  
   *Parent says:* First, one band and 20 coins. How long is it empty? How long with the coins? So how much did it stretch?  
@@ -528,7 +523,6 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Check: Two bands in a chain stretched about twice as far as one band. Why? → **Each band in the chain holds all 20 coins, so each stretches as much as one band alone**
   - Think: A long wire is like many tiny springs in a row. What could the tiny springs be?
 ### a3 · The Springs in My Body (15 min)
-- **safety:** Jump on a soft mat or grass. Stop if anything hurts.
 - **record:** Draw yourself jumping. Mark three springy parts of your body.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to do 5 small jumps with stiff, straight knees. 2. Then 5 jumps with bendy, springy knees.  
@@ -538,7 +532,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent does:* 1. Find the thick cord at the back of your ankle. 2. Stand on tiptoe and feel it go tight.  
   *Parent says:* Find the thick cord at the back of your ankle. Stand on tiptoe, then come down. What does the cord do? What do you think its job is when you jump?  
   *Child mode:* Feel the back of your ankle. That cord is a tendon. Stand on tiptoe. Feel it go tight!
-  - Ask: Which animals use big springy tendons to hop? (good: Kangaroos.; Rabbits.)
+  - Ask: Which animals use big springy tendons to hop? (good: Kangaroos.)
   - Note: After your child has guessed, give the name. This is the Achilles tendon. It stretches when you land and springs back as you push off, giving back most of the energy.
 - **s3 (4 min)**  
   *Parent does:* 1. Pinch the skin on the back of your hand and let go. Watch it. 2. Then press two fingers gently on the inside of your wrist and feel your pulse.  
@@ -548,12 +542,12 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Check: Your skin springs back after a pinch. That means skin is… → **Elastic**
 - **s4 (3 min)**  
   *Parent does:* Tell your child about the flea.  
-  *Parent says:* A flea jumps much faster than their muscles can move. How do you think they do it? Think of a catapult.  
-  *Child mode:* A flea jumps faster than their muscles can move. How? Think of a catapult.
-  - Note: After their guess: a flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then the flea lets go all at once, like a catapult.
+  *Parent says:* A flea jumps much faster than a muscle can move. How does the flea do it? Think of a catapult.  
+  *Child mode:* A flea jumps faster than a muscle can move. How does the flea do it? Think of a catapult.
+  - Note: After their guess: the flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then the flea lets go all at once, like a catapult.
   - Think: If you were an animal designer, where would you put springs?
 ### a4 · Rubber Band Galaxies (15 min)
-- **safety:** A grown-up cuts the band. Stretch it gently.
+- **safety:** A grown-up cuts the band. Keep the stretched strip away from faces.
 - **record:** Write how far apart the dots were before and after stretching. Which dots moved apart the most?
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the strip flat. 2. Draw 5 dots, 1 cm apart. Label them A, B, C, D and E.  
@@ -564,6 +558,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent says:* Stretch it. Now how far is B from A? And E from A? Which dot moved further?  
   *Child mode:* Stretch the strip to double. Measure from A to each dot. Which one moved furthest?
   - Ask: Which dot moved away from A the most? (good: E, the furthest one.; The far ones moved more.)
+  - Note: To stretch the strip evenly, tape the end beside dot A to the table. Pull the other end until the gap from dot A to dot E is double, 8 cm, and hold it there while you measure.
 - **s3 (6 min)**  
   *Parent does:* 1. Ask your child why the far dot moved most, and wait for an answer. 2. Then talk about the real universe.  
   *Parent says:* No one pushed any dot. So why did dot E end up furthest away? Take your time. Astronomers see far galaxies moving away from us faster than near ones. What do you think is stretching?  
@@ -596,7 +591,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* A veena and a tabla use stretched strings and skins. C. V. Raman, an Indian scientist, found out why the drums sound so musical.
   - Think: Which instruments in your home or temple use something stretched?
 ### a6 · Bend or Snap? Twigs and the Ruler Earthquake (15 min)
-- **safety:** Snap twigs pointing away from faces. Do not bend the ruler until it breaks. Pick twigs that have already fallen, or ask before taking a small piece.
+- **safety:** Snap twigs pointing away from faces. Do not bend the ruler until it breaks.
 - **record:** Draw the green twig and the dry twig after bending. Write which one sprang back.
 - **s1 (5 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Gently bend the green twig, then let go. 3. Gently bend the dry twig the same amount.  
@@ -633,7 +628,6 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent does:* 1. Hook one end of a rubber band on a paper clip taped to the front of the bottle. 2. Loop the other end round the back axle and tape it once to the axle.  
   *Parent says:* Now the motor. When we wind the wheels backwards, what do you think happens to the band? Where will the car get its push from?  
   *Child mode:* Hook a band to the front. Loop it round the back axle. Tape it on. That is the motor!
-  - Wait: Leave the car for the next day's tests.
 - **s4 (10 min)**  
   *Parent does:* 1. Turn the back wheels backwards 5 times. 2. Put the car down at the start of the paper strip and let go. 3. Measure how far it goes. 4. Repeat with 10 winds and 15 winds.  
   *Parent says:* Five winds. Let go! How far? Now ten. What do you think will happen?  
@@ -658,8 +652,8 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **general:** Stack 6 sticks and tie them with bands at both ends. Put this stack between 2 more sticks tied together at one end. The top stick becomes the arm.; Tape a bottle cap or spoon to the end of the arm to hold the paper ball.; Pull the arm down further to fire further. More bend stores more energy.
 - **creative:** Change the stack height. A taller stack lets the arm bend further.; Use two rubber bands at the front to make a stiffer spring.; Mark lines on the arm and test how far each pull-back fires. Then you can aim like a scientist, not by guessing.
 - **s1 (10 min)**  
-  *Parent does:* Build the basic catapult with your child, using the usual design.  
-  *Parent says:* Let's build the usual catapult first. Look at the arm when it's done. What do you think will fling the ball, and why?  
+  *Parent does:* 1. Stack 6 sticks and tie the stack with a band at each end. 2. Tie 2 more sticks together at one end with a band. 3. Push the stack between these 2 sticks. The top stick is the arm. 4. Tape a bottle cap or spoon to the free end of the arm to hold the paper ball.  
+  *Parent says:* Let's build the catapult first. Look at the arm when it's done. What do you think will fling the ball, and why?  
   *Child mode:* Build the catapult. Tie the stack. Push it between two sticks. Tape on the cap.
   - Note: Building it is the slowest part. If the bands keep slipping, wrap them twice.
 - **s2 (8 min)**  
@@ -672,7 +666,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Parent says:* Now mark lines on the arm and fire from each one. Which line do you think will reach 1 metre? Why? Let's measure and see.  
   *Child mode:* Mark lines on the arm. Fire from each one. Which line reaches the bowl?
 - **s4 (4 min)**  
-  *Parent does:* Read the usual and the creative ideas together, then invent something new.  
+  *Parent does:* Try one change from the creative ideas, or invent your own. Then try to hit the bowl 3 times in a row.  
   *Parent says:* People have used bent wood and twisted ropes to throw things for thousands of years. What can you invent?  
   *Child mode:* Look at the ideas. Now invent your own change. Can you hit the bowl 3 times?
   - Think: A bow, a catapult and a trampoline all store energy by bending. What else does?
@@ -684,7 +678,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **creative:** Draw a line graph of bands and fall distance. Use the line to predict.; Use a thicker band at the top to make the chain stiffer.; Real bungee cords are bundles of many thin rubber strands, which work like many bands side by side.
 - **s1 (6 min)**  
   *Parent does:* 1. Make a chain of 2 rubber bands. 2. Tie it round the doll's feet. 3. Hold the top end at the table edge, with the doll at the edge too.  
-  *Parent says:* This doll is going bungee jumping. We'll find out how many bands she needs to come close to the floor, but not touch it.  
+  *Parent says:* This doll is going bungee jumping. We will find out how many bands it needs to come close to the floor, but not touch it.  
   *Child mode:* Loop 2 bands together. Tie them to the doll's feet. Hold the top at the table edge.
 - **s2 (10 min)**  
   *Parent does:* 1. Drop the doll and watch its lowest point. 2. Measure from the table top to the doll's head at its lowest point. 3. Repeat with 3 and 4 bands. 4. Write the results in a table.  
@@ -714,7 +708,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 4. (mcq) You hang a paper cup from a rubber band. With 5 coins in the cup, the band is 11 cm long. With 10 coins, it is 12 cm. What is the best guess for 15 coins?  
    Options: About 13 cm / Still 12 cm / About 24 cm / Shorter, about 10 cm  
    **Answer:** About 13 cm. *Why:* Each 5 coins added about 1 cm, so 5 more coins should add about 1 cm more. 12 + 1 = 13 cm. Picking 24 cm means doubling the length, but only the coins went up by one step. Picking 'shorter' comes from thinking the band fights back. It does pull back, but it still gets longer.
-5. (write) In the coin stretch test, we add coins in equal handfuls of 5. Why not add 3 coins one time and 8 the next?  
+5. (write) In the coin stretch test, we add coins in equal groups of 5 coins. Why not add 3 coins one time and 8 the next?  
    **Answer:** A strong answer says that equal steps let you compare. If each step is the same 5 coins, you can see whether each step adds the same stretch. With 3 and then 8, you could not tell if the band was following a pattern.. *Why:* Equal steps make a pattern easy to see. This is what made the line on the graph straight.
 6. (truefalse) The further a rubber band is stretched, the harder it pulls back.  
    **Answer:** True. *Why:* True. You can feel it in your fingers. The band stops stretching at the point where its pull back is as strong as the pull of the coins. More coins, so the band stretches further, until its pull back matches again.
@@ -726,19 +720,19 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
    **Answer:** The branch bent and stayed bent, so it had passed its elastic limit and might break. *Why:* A branch that springs all the way back is still elastic. One that stays bent has gone past its limit, and that comes just before breaking. Picking the ropes is a fair guess, but the story says the branch was what had sagged.
 9. (match) Match each spring to its job.  
    **Answer:** Springs in a mattress → squash and push your body back up; Spring in a clicky pen → pushes the tip back in; Springs round a trampoline → stretch and fling you up; Springs under a cycle seat → soak up the bumps in the road. *Why:* Springs are used wherever something must push back, pull back, or soak up a bump.
-10. (mcq) In the Band Launch, you pull a rubber band back 5 cm and it flies 1 metre. Next you pull it back 15 cm. What will most likely happen?  
-   Options: It flies further, because a longer stretch stores more energy / It flies the same 1 metre, because it is the same band / It flies less far, because it is tired / It does not fly at all  
-   **Answer:** It flies further, because a longer stretch stores more energy. *Why:* A longer stretch puts more energy into the band. When you let go, the band gives that energy back as movement, so it flies further. Picking 'the same' pictures the band as having one fixed push. Its push depends on how far it is stretched.
-11. (order) Put the steps of a rubber ball's bounce in order, from first to last.  
+10. (order) Put the steps of a rubber ball's bounce in order, from first to last.  
    **Answer:** order shown. *Why:* A bounce is a squash and then a spring back. The squash happens too fast to see, but a wet ball leaves a round mark that shows how flat it went.
-12. (write) In the Bounce Test, a rubber ball bounces back up, but a ball of dough just goes splat. Explain why.  
-   **Answer:** A strong answer says the rubber ball squashes and then springs back, and the spring back pushes it up. The dough squashes and stays squashed. It never springs back, so nothing pushes it up again.. *Why:* A bounce needs an elastic squash. Being heavy or round does not matter: a heavy rubber ball still bounces.
-13. (write) Think of two springy things you found in your Spring Hunt. For each one, say what would go wrong if it stopped springing back.  
+11. (write) Think of two springy things you found in your Spring Hunt. For each one, say what would go wrong if it stopped springing back.  
    **Answer:** Two real finds, each with what would go wrong. For example: if my hair band stopped springing back, it would hang loose and fall out. If the spring in the clothes peg stopped, the peg would not grip and the clothes would blow away.. *Why:* Asking 'what would go wrong?' shows the job each spring does.
-14. (draw) Draw a rubber band held between two fingers, first loose and then stretched. On the stretched one, draw arrows showing which way the band pulls on each finger.  
+12. (draw) Draw a rubber band held between two fingers, first loose and then stretched. On the stretched one, draw arrows showing which way the band pulls on each finger.  
    **Answer:** Two drawings: a small loop, then a long loop. On the long loop, the arrows point inwards, towards the middle of the band, because the band pulls back towards its old shape.. *Why:* A stretched band always pulls back towards its old shape. You can feel this pull on your fingers.
-15. (perspective) In the story The Tired Branch, the children of a lane in Kerala hang an Onam swing from a mango tree. They must choose a branch. Three people say what they think.  
+13. (perspective) In the story The Tired Branch, the children of a lane in Kerala hang an Onam swing from a mango tree. They must choose a branch. Three people say what they think.  
    **Answer:** A strong answer picks a branch and explains it with springing back. A thin branch bends more, which gives a bouncier swing, but it gets near its limit sooner. A thick branch bends less and is safer, but less exciting. The best answers admit the other side and may add a check, like watching the seat height every day.. *Why:* There is no single right answer. Springiness is fun, and safety matters. Watching whether a thing still springs all the way back is how you know it is safe.
+14. (mcq) In the Band Launch, three tries with the band pulled back to 10 cm flew 140 cm, 150 cm and 90 cm. You put them in order and take the middle value. What is it?  
+   Options: 140 cm / 150 cm / 90 cm / 127 cm  
+   **Answer:** 140 cm. *Why:* In order the tries are 90, 140 and 150. The middle one is 140 cm. One try can be a fluke, like the 90, and the middle value ignores it.
+15. (write) A friend says: A heavier ball always bounces higher. In the Bounce Test, how could you check this? Say what you would keep the same.  
+   **Answer:** A strong answer picks balls of different weights, drops each from the same height, 1 metre, onto the same floor, and measures the bounce 3 times. Only the ball changes. Then the results show whether weight matters. A heavy rubber ball and a light sponge ball would give a good comparison.. *Why:* Challenging a popular idea with a fair test is how scientists work. In the Bounce Test, the stretchiest ball bounced highest, not the heaviest.
 ### Springs in the Real World (stretch) (stretch, 16 questions)
 1. (mcq) Look at this graph from a coin stretch test. Where does the pattern change?  
    Options: After 20 coins, each 5 coins add more than 1 cm / At 5 coins, the band stops stretching / The pattern never changes / At 0 coins, the band is too long  
@@ -766,8 +760,8 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 10. (mcq) In the Rubber Band Orchestra, you stretch one band tighter round the box and pluck it again. What happens to the sound?  
    Options: The note goes higher / The note goes lower / The note stays the same / It makes no sound  
    **Answer:** The note goes higher. *Why:* A tighter band pulls back harder, so it springs back and forth faster. Faster shaking, called vibrating, makes a higher note. A veena or guitar player tightens a string to make it higher in the same way.
-11. (match) Match each living being to the springy part they use.  
-   **Answer:** A flea → a springy pad that flings them into a jump; A kangaroo → long tendons that stretch and spring back as they hop; A spider → a stretchy silk web that catches flies without breaking; A cheetah → a springy backbone that bends and springs back as they run. *Why:* Living beings store energy in springy parts and get it back. This saves effort when they jump, hop or run.
+11. (match) Match each animal below to the springy part that helps them.  
+   **Answer:** Fleas → a springy pad that flings them into a jump; Kangaroos → long tendons that stretch and spring back as they hop; Spiders → stretchy silk webs that catch flies without breaking; Cheetahs → a springy backbone that bends and springs back as they run. *Why:* Living beings store energy in springy parts and get it back. This saves effort when they jump, hop or run.
 12. (write) After a storm in Mysuru, a clump of bamboo is still standing. But an old, dry branch nearby has snapped. Explain why one bent and one broke.  
    **Answer:** A strong answer says the green bamboo is elastic. It bends in the wind, stores the push for a moment, and springs back. The dry branch is brittle. It cannot bend much, so the push breaks it.. *Why:* Bending lets a thing soak up a sudden push. This is why green twigs bend and dry twigs snap in the Bend or Snap activity.
 13. (write) A hanging luggage scale has a spring inside. Why does a heavier bag move the pointer further? And why would a far too heavy bag ruin the scale?  
@@ -819,9 +813,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
    **Answer:** ['slowly', 'slow']. *Why:* Cold rubber chains jiggle less, so they spring back slowly. The engineer Roger Boisjoly warned about this the night before. A seal failed, and the shuttle broke apart. Springing back on time can matter a great deal.
 
 ## Videos
-- **Slinky drop in slow motion** (Veritasium, 4 min) id `JsytnJ_pSf8`: Shows a stretched spring in slow motion. The bottom of a dropped Slinky stays still in the air until the top crashes into it. It shows that a spring's pull back travels along it, coil by coil. *Check:* Found by YouTube search: "Supersized Slow-Mo Slinky Drop" by Veritasium. Title checked automatically; a parent may still preview it.
-- **LIGO's first gravitational wave, as sound** (LIGO Lab Caltech, 3 min) id `6zisf2xKvjA`: Plays the 'chirp' of the first gravitational wave, caught in 2015, turned into sound. It helps children feel that space itself was stretched and squeezed. *Check:* Found by YouTube search: "Direct Detection of Gravitational Waves: What Does That Mean?" by LIGO Lab Caltech : MIT. Title checked automatically; a parent may still preview it.
-- **Tapping a rubber tree for latex** (Thai Sabai, 5 min) id `ami3xanZjPI`: Shows the real work from the story: tapping rubber trees, collecting latex, rolling it into sheets and smoking them. (Filmed in Thailand; tapping in Kerala works the same way.) *Check:* Found by YouTube search: "Tapping rubber tree" by Thai Sabai. Title checked automatically; a parent may still preview it.
+- **Slinky drop in slow motion** (Veritasium, 4 min) id `JsytnJ_pSf8`: Shows a stretched spring in slow motion. The bottom of a dropped Slinky stays still in the air until the top crashes into it. It shows that a spring's pull back travels along it, coil by coil. *Check:* Title and channel confirmed.
+- **LIGO's first gravitational wave, as sound** (LIGO Lab Caltech, 3 min) id `6zisf2xKvjA`: Explains what the first gravitational wave, caught in 2015, was and how scientists found it. It helps children picture space itself being stretched and squeezed. *Check:* Title and channel confirmed.
+- **Tapping a rubber tree for latex** (Thai Sabai, 5 min) id `ami3xanZjPI`: Shows rubber trees being tapped for latex, as in the story. (Filmed in Thailand; tapping in Kerala works the same way.) *Check:* Title and channel confirmed.
 
 ## Quiz
 1. (mcq) You hold a steel ruler flat on a table, bend its free end down a little and let go. It flicks straight again. What does this show?  
@@ -833,43 +827,34 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 3. (mcq) In the coin stretch test, what should stay the same every time you add coins?  
    Options: The rubber band, the cup and how you read the ruler / Nothing. Change everything / The number of coins  
    **Answer:** The rubber band, the cup and how you read the ruler. *Why:* Only the number of coins should change. Then you know the coins caused the stretch. Picking 'the number of coins' gets it backwards: that is the one thing you change.
-4. (mcq) A band is 10 cm long with no coins. Each 5 coins make it 1 cm longer. How many coins make it 13 cm long?  
-   Options: 15 coins / 13 coins / 3 coins  
-   **Answer:** 15 coins. *Why:* 13 cm is 3 cm longer than 10 cm. Each 1 cm needs 5 coins. 3 times 5 is 15 coins. Picking 3 coins counts the centimetres, not the coins.
-5. (mcq) A rubber band held 30 coins. You take the coins off, and now the band is 2 cm longer than before. What does this tell you?  
+4. (mcq) A rubber band held 30 coins. You take the coins off, and now the band is 2 cm longer than before. What does this tell you?  
    Options: The coins pulled it past its elastic limit / The band has become more elastic / The coins added some rubber to it  
    **Answer:** The coins pulled it past its elastic limit. *Why:* An elastic band goes all the way back. This one stayed longer, so the coins pulled it past its elastic limit. It is now less elastic, not more.
-6. (mcq) What is a warning sign that something is near its elastic limit?  
+5. (mcq) What is a warning sign that something is near its elastic limit?  
    Options: It no longer goes all the way back to its old shape / It springs back very quickly / It feels cold  
    **Answer:** It no longer goes all the way back to its old shape. *Why:* When a thing stays a little stretched or bent, it is near its limit and may soon break. This is what Ammu saw in the swing branch in the story.
-7. (mcq) Pulling a catapult back further makes the paper ball fly further. Why?  
-   Options: A bigger stretch stores more energy / The ball gets lighter / The air pushes the ball harder  
-   **Answer:** A bigger stretch stores more energy. *Why:* More stretch stores more energy, up to the elastic limit. Letting go turns that energy into movement.
-8. (mcq) Before you let go of a wound-up toy, where is the energy kept?  
+6. (mcq) Before you let go of a wound-up toy, where is the energy kept?  
    Options: In its tightly coiled spring / In its wheels / In the air around it  
    **Answer:** In its tightly coiled spring. *Why:* Winding coils the spring tighter and stores energy in it. As the spring unwinds, it turns the wheels.
-9. (mcq) What job does the spring in a clothes peg do?  
+7. (mcq) What job does the spring in a clothes peg do?  
    Options: It snaps the jaws shut so the peg grips / It makes the peg lighter / It lets the peg stretch longer  
    **Answer:** It snaps the jaws shut so the peg grips. *Why:* When you squeeze the peg, you bend its spring. Let go, and the spring springs back and closes the jaws.
-10. (mcq) When you land from a jump, which part of you stretches and then springs back to help the next jump?  
+8. (mcq) When you land from a jump, which part of you stretches and then springs back to help the next jump?  
    Options: The tendon at the back of your ankle / Your eyebrows / Your teeth  
    **Answer:** The tendon at the back of your ankle. *Why:* This tendon is called the Achilles tendon. It stretches as you land and springs back as you push off, so you use less effort.
-11. (mcq) A steel spring springs back even when it is upside down or lying sideways. What does that tell us?  
+9. (mcq) A steel spring springs back even when it is upside down or lying sideways. What does that tell us?  
    Options: Pulls between its atoms bring it back, not gravity / Gravity pulls it back every time / There is air trapped inside it  
    **Answer:** Pulls between its atoms bring it back, not gravity. *Why:* Gravity only pulls down, so it cannot pull a spring back sideways. The bonds between atoms pull each atom back to its resting place, whichever way the spring faces.
-12. (mcq) Three of the same rubber bands are joined in a chain. The same coins hang from it. Compared with one band, about how far does the chain stretch?  
-   Options: About three times as far / About a third as far / The same  
-   **Answer:** About three times as far. *Why:* Each band in the chain carries all the coins, so each stretches as much as one band alone. Three stretches add up. Picking 'a third' mixes it up with bands side by side, which share the pull.
-13. (mcq) Why does a spring that was pulled past its elastic limit stay long?  
+10. (mcq) Why does a spring that was pulled past its elastic limit stay long?  
    Options: Rows of its atoms slipped into new places and stay there / Some of its atoms fell out / It got colder and shrank back the wrong way  
    **Answer:** Rows of its atoms slipped into new places and stay there. *Why:* Past the limit, rows of atoms slip and settle beside new neighbours. Every atom is still there, just in a new place, so the new shape stays.
-14. (mcq) For hundreds of years before an earthquake, what is the rock deep underground doing?  
+11. (mcq) For hundreds of years before an earthquake, what is the rock deep underground doing?  
    Options: Slowly bending and storing energy / Slowly melting / Staying perfectly still  
    **Answer:** Slowly bending and storing energy. *Why:* Giant pieces of the Earth push on each other, so the rock bends slowly, like a pressed ruler. Then it slips all at once, and the ground shakes.
-15. (mcq) What does a gravitational wave do as it passes?  
+12. (mcq) What does a gravitational wave do as it passes?  
    Options: It stretches and squeezes space itself, by a tiny amount / It makes waves on the sea / It is a beam of light  
    **Answer:** It stretches and squeezes space itself, by a tiny amount. *Why:* Gravitational waves are ripples in space. LIGO measured one in 2015. Picking 'the sea' mixes them up with ocean waves.
-16. (mcq) After a giant earthquake in Chile in 1960, what did instruments find the whole Earth doing for days?  
+13. (mcq) After a giant earthquake in Chile in 1960, what did instruments find the whole Earth doing for days?  
    Options: Vibrating slowly, like a bell after it is struck / Spinning backwards / Getting bigger  
    **Answer:** Vibrating slowly, like a bell after it is struck. *Why:* Rock is elastic, so the whole planet rang like a bell. The shaking travelled through it as waves.
 
@@ -904,7 +889,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Open questions
 - **What is space made of, that it can stretch and ripple?** We can measure space stretching, but nobody knows what it is made of. String theory and loop quantum gravity are ideas, with no evidence yet.
-- **Exactly how do spiders make silk that is so strong and so stretchy, and can we make it in factories?** Scientists know a lot about the proteins in silk. But copying how the spider spins it, at a large scale, is still very hard.
+- **Exactly how do spiders make silk that is so strong and so stretchy, and can we make it in factories?** Scientists know a lot about the proteins in silk. But copying the way spiders spin silk, at a large scale, is still very hard.
 - **Can we predict when bent rock will slip and cause an earthquake?** Scientists can measure rock slowly bending. But they still cannot say when it will slip.
 - **Why do springs and rubber get 'tired' and crack after being stretched many times?** This is called fatigue. Engineers test it carefully, but exactly when a crack will start is still hard to predict.
 - **How exactly does titin, the giant spring protein in our muscles, work?** Scientists know titin acts like a spring, but how all its parts work together is still being studied.
@@ -915,14 +900,11 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - You just sat on the sofa. Did it spring back when you stood up?
 - Chapati dough shrinks back a little after you roll it. Is it a bit elastic? How is it different from a rubber band?
 - Why does a hanging spring balance move further with a heavier bag?
-- That ball bounced. Where did it squash?
+- A ball just bounced on the floor. Where did it squash?
 - Can you find a spring in this room?
 - When you jump, which parts of your legs are springs?
 - What would happen if hair bands were not elastic?
-- That tree is bending in the wind. Why doesn't it snap?
-- Is anything completely stiff? Does the floor bend when you stand on it?
-- Space can stretch. What do you think space is made of?
-- A spring balance has evenly spaced marks. What would happen to its readings if its spring were pulled too far once?
+- A tree is bending in the wind. Why does it not snap?
 
 ## Jokes
 - Why did the rubber band go to school? *It wanted to stretch its mind.*
@@ -930,25 +912,11 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - Why was the spring so good at sport? *It always bounced back.*
 - What did the rubber band say to the playdough? *Snap out of it!*
 - Why did the trampoline get a medal? *It always lifted people up.*
-- Why did the pen spring feel tired? *It had been pushed around all day.*
-- What do you call a spring that tells stories? *A coil-teller.*
-- Why don't rubber bands ever win arguments? *They always come back to where they started.*
-- Why did the bouncy ball love the floor? *Every time they met, it got a lift.*
-- What did the spider say about their web? *It's a stretch, but it works.*
 - Why was the old rubber band so floppy? *It went past its limit and never got over it.*
-- How does a kangaroo stay so cheerful? *They keep a spring in their step.*
+- Why are kangaroos always cheerful? *They keep a spring in their step.*
 - Why did the papad refuse to do yoga? *It was afraid it would snap.*
-- What do you call a sleepy spring? *A coil napper.*
-- Why did the catapult go to the doctor? *It had a bad case of tension.*
-- What did the flea say after their big jump? *I'm on a spring roll!*
-- Why did the slinky never get lost? *It always found its way down the stairs.*
-- What did the mango branch say after Onam? *I'm feeling a bit swung out.*
-- Why was the elastic band such a good friend? *It always held everyone together.*
 - Why did the chewing gum fail the spring test? *It just couldn't let go of the past.*
-- What does a spring eat for breakfast? *Bounce-flakes.*
-- Why is space a good listener? *It stretches to hear everyone out.*
 - What did the tennis ball say to the racket? *Let's bounce some ideas around.*
-- Why did the sponge win the game? *It never stayed down for long.*
 
 ## Connected maths
 - In the coin stretch test, the thin band was 10 cm long with no coins. Each 5 coins made it 1 cm longer. How long will it be with 30 coins? Use the line graph to help. **16 cm.**. 30 coins is 6 lots of 5 coins, because 30 divided by 5 is 6. Each lot adds 1 cm, so the band grows 6 cm. 10 + 6 = 16 cm. On the graph, the line keeps going up 1 cm for every 5 coins. (queues `math.data.line-graphs.L4`)
@@ -973,15 +941,12 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum full of machines and engines. Look for springs, clocks and shock absorbers.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about forces and machines.
 - [Inter-University Centre for Astronomy and Astrophysics (IUCAA)](https://www.iucaa.in) · place · Pune: An Indian centre that helped find gravitational waves and is helping build LIGO-India. Look out for its open days and public lectures.
-- [A playground, a cycle repair shop and a trampoline park near you]() · place · anywhere: Springs are everywhere nearby. At the cycle shop, ask to see the springs in a seat or a brake.
 
 ## Things to buy
-- [Rubber bands in mixed sizes and thicknesses](https://www.amazon.in/s?k=rubber+bands+assorted) (material): Used in the coin test, the band launch, the limit test, Two in a Row, the galaxies, the orchestra, the car and the challenges. Used in e1, e2, e3, a2, a4, a5, p1, c1, c2. 
+- [Rubber bands in mixed sizes and thicknesses](https://www.amazon.in/s?k=rubber+bands+assorted) (material): For the coin test, the band launch, the two-band chains, the galaxy strip, the orchestra, the car and the challenges. Used in e1, e2, e3, a2, a4, a5, p1, c1, c2. 
 - [30 cm ruler and a 1-metre measuring tape](https://www.amazon.in/s?k=30+cm+ruler+measuring+tape) (tool): For measuring stretches, launches, bounces and how far the car goes. Used in e1, e2, e3, e4, a6, p1, a2. 
-- [A set of different balls: a rubber bouncy ball, a tennis ball and a sponge ball](https://www.amazon.in/s?k=bouncy+ball+sponge+ball+set) (material): For comparing how elastic different balls are in the Bounce Test. Used in e4. 
+- [A set of different balls: a rubber bouncy ball, a tennis ball and a sponge ball](https://www.amazon.in/s?k=bouncy+ball+sponge+ball+set) (material): For comparing how well different balls bounce. Used in e4. 
 - [Ice-cream sticks (craft sticks)](https://www.amazon.in/s?k=ice+cream+sticks+craft) (material): For building the catapult. Used in c1. 
-- [A metal or plastic Slinky spring toy](https://www.amazon.in/s?k=slinky+spring+toy) (tool): A giant spring to stretch, squash and send waves along. Watch it drop, like in the Veritasium video. Used in g2, a1. If bought, add 10 minutes on the Human Springs day: stretch it across the floor and send a squash wave along it. Betty James named the Slinky and ran the company that made it for many years.
-- [Rubber Band Engineer, by Lance Akiyama](https://www.amazon.in/s?k=Rubber+Band+Engineer+Lance+Akiyama) (book): A book of rubber-band-powered builds, from launchers to cars, for older children working with a grown-up. Used in p1, c1. If bought, use one of its builds in place of the catapult challenge, or as an extra challenge at the end of the unit. Skip any build that fires at people.
 
 ## Warm-up
 - A thing that springs back after stretching is called ____. → elastic
@@ -993,10 +958,10 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - A bounce is a squash and a ____. → spring back
 - Which tendon at the back of your ankle works like a spring? → The Achilles tendon.
 - Two rubber bands in a chain, holding the same coins, stretch about ____ as far as one band. → Twice.
-- In the story, what warned Ammu that the swing branch would break? → It stayed bent and did not spring all the way back.
+- In the story The Tired Branch, what warned Ammu that the swing branch would break? → It stayed bent and did not spring all the way back.
 - What happens underground in an earthquake? → Bent rock suddenly slips and springs back.
 - What can stretch and squeeze space itself? → A gravitational wave.
-- Equal handfuls of coins give about equal steps of stretch. What is this rule called? → Hooke's law.
+- Adding equal numbers of coins gives about equal steps of stretch. What is this rule called? → Hooke's law.
 
 ## Plan
 - Start options: intro, e1, story, g1, big_questions, cards, a2
