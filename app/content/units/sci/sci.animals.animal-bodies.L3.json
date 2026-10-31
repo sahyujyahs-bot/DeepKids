@@ -905,7 +905,7 @@
    "id": "g2",
    "title": "Bat and Moth",
    "mins": 15,
-   "players": "2 or more players, in a cleared room",
+   "players": "2 to 4 players, in a cleared room",
    "printables": [
     {
      "kind": "cards",
@@ -913,7 +913,8 @@
      "items": [
       "BAT (wears the blindfold, calls 'Bat!')",
       "MOTH (answers 'Moth!' every time)",
-      "TREE (only with 3 or more players: stands still, says 'Tree!' if the bat comes within two steps)"
+      "TREE (only with 3 or 4 players: stands still, says 'Tree!' if the bat comes within two steps)",
+      "TREE (only with 4 players: the second tree)"
      ]
     },
     {
@@ -929,11 +930,11 @@
    ],
    "rules": [
     "Clear a space in a room. Its walls, or a ring of chairs and cushions, are the cave wall.",
-    "One player is the bat and wears a blindfold. One is the moth. Any other players are trees, who stand still inside the space. With two players there are no trees.",
+    "One player is the bat and wears a blindfold. One is the moth. The other players (one or two) are trees, who stand still inside the space. With two players there are no trees.",
     "The bat calls 'Bat!'. The moth must answer 'Moth!' straight away, then may take one slow step. Trees answer 'Tree!' if the bat is within two steps of them.",
     "The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth. Each time the bat touches a tree, add 10 seconds.",
     "A round ends when the bat tags the moth, or after one minute. If the moth is not caught, the round counts as 60 seconds. Write the seconds on the sheet.",
-    "Swap roles until everyone has been the bat once. The bat with the fewest seconds wins."
+    "Swap roles until everyone has been the bat once (the sheet has four rounds). The bat with the fewest seconds wins."
    ],
    "context": "Bat and Moth is a blindfold game. It shows how bats find insects in the dark by echolocation.",
    "setup": [
@@ -1017,6 +1018,31 @@
       "gills"
      ],
      "why": "Gills are the feathery red parts under the flaps on a fish's head. Water flows over them and they take oxygen out."
+    },
+    {
+     "t": "fill",
+     "p": "Almost every animal needs a gas called ____ to get energy from their food.",
+     "a": [
+      "oxygen"
+     ],
+     "why": "Cells use oxygen to release the energy stored in food. Breathing is how the body gets the oxygen in."
+    },
+    {
+     "t": "truefalse",
+     "p": "A tadpole breathes with gills. A grown frog breathes with lungs and with damp skin.",
+     "a": true,
+     "why": "True. A tadpole lives in water and has gills. When she grows into a frog, she gets lungs, and her thin damp skin also takes in oxygen."
+    },
+    {
+     "t": "mcq",
+     "p": "A fish tank has a pump that bubbles air into the water. How does this help the fish?",
+     "opts": [
+      "The moving bubbles help more oxygen dissolve in the water, so the gills can take it out",
+      "The bubbles give the fish air to breathe in with lungs",
+      "The bubbles keep the fish warm"
+     ],
+     "a": 0,
+     "why": "Fish breathe oxygen that is dissolved in water. Air bubbles stir the water so more air dissolves into it. Picking 'lungs' mixes up fish with air-breathing animals like dolphins."
     },
     {
      "t": "sort",
@@ -1117,71 +1143,10 @@
      "art": "The outline of a fish side-on, with a dotted line where the gill cover is."
     },
     {
-     "t": "match",
-     "p": "Match each animal to how they mainly find food.",
-     "pairs": [
-      [
-       "Bat",
-       "echoes of their own sounds"
-      ],
-      [
-       "Dog",
-       "smell"
-      ],
-      [
-       "Eagle",
-       "sharp eyesight"
-      ],
-      [
-       "Owl",
-       "hearing tiny rustles"
-      ],
-      [
-       "Pit viper",
-       "sensing warmth"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each animal relies most on the sense that suits their life. Bats hunt in the dark by echoes. Dogs follow smells. Eagles see far. Owls hear mice in the dark. Pit vipers feel the warmth of a mouse."
-    },
-    {
-     "t": "mcq",
-     "p": "A dolphin lives in the sea all the time. Why does a dolphin keep coming up to the surface?",
-     "opts": [
-      "They breathe air with lungs, through the blowhole on top of their head",
-      "They come up to look for birds",
-      "Their gills need fresh air to dry them"
-     ],
-     "a": 0,
-     "why": "Dolphins are mammals, not fish. They have lungs, not gills, so they must come up to breathe air. Picking 'gills' is a common mix-up, because dolphins live in water like fish."
-    },
-    {
-     "t": "mcq",
-     "p": "Ants on a sugar trail walk in a line. Why?",
-     "opts": [
-      "They follow a smell trail left by the ants who found the food",
-      "They can see the sugar from far away",
-      "The wind blows them in a line"
-     ],
-     "a": 0,
-     "why": "An ant who finds food leaves a smell trail on the way home. Other ants follow it with their antennae, so they walk in a line. Picking 'see the sugar' is a natural guess, but ants find food mostly by smell.",
-     "how": "e3",
-     "context": "In Ant Detectives, you put out sugar, salt and biscuit near an ant path and watched the ants come."
-    },
-    {
      "t": "truefalse",
      "p": "Bats are blind.",
      "a": false,
      "why": "False. All bats can see, and many see well. Many bats that hunt insects at night also use echolocation: they make high sounds and listen for the echoes. 'As blind as a bat' is an old saying, not a fact."
-    },
-    {
-     "t": "write",
-     "p": "In the Mouth Tools Buffet, you tried kitchen tools as animal mouths. A flamingo's beak works like a sieve. A cow has wide, flat teeth. What does each mouth tell you about how that animal gets food?",
-     "lines": 3,
-     "a": "The flamingo's sieve beak lets water out and keeps tiny shrimps and algae in, so she is a filter feeder. The cow's flat teeth grind grass, so she is a grazer who chews plants for hours.",
-     "why": "An animal's mouth fits the way they get food. A strong answer links each mouth shape to the food and how it is eaten.",
-     "how": "a7",
-     "context": "In the Mouth Tools Buffet, you pretended kitchen tools were animal mouths and found which tool was best for which food."
     },
     {
      "t": "perspective",
@@ -1204,6 +1169,12 @@
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.",
      "why": "There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as the skin stays damp."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a bat hunting a moth at night. Draw lines to show the bat's sounds going out and the echo coming back.",
+     "a": "A bat, a moth, curved lines going from the bat to the moth, and curved lines coming back to the bat's ears.",
+     "why": "The bat sends out high sounds. They bounce off the moth and return as echoes, which tell the bat where the moth is."
     }
    ]
   },
@@ -1243,6 +1214,15 @@
      "lines": 3,
      "a": "Air goes in through tiny holes along the grasshopper's sides, called spiracles. It travels down thin air pipes that branch again and again until they reach every muscle. So air goes straight to the cells.",
      "why": "In insects, air pipes carry oxygen right to the cells, so their blood does not have to carry much oxygen."
+    },
+    {
+     "t": "write",
+     "p": "In the Mouth Tools Buffet, you tried kitchen tools as animal mouths. A flamingo's beak works like a sieve. A cow has wide, flat teeth. What does each mouth tell you about how that animal gets food?",
+     "lines": 3,
+     "a": "The flamingo's sieve beak lets water out and keeps tiny shrimps and algae in, so she is a filter feeder. The cow's flat teeth grind grass, so she is a grazer who chews plants for hours.",
+     "why": "An animal's mouth fits the way they get food. A strong answer links each mouth shape to the food and how it is eaten.",
+     "how": "a7",
+     "context": "In the Mouth Tools Buffet, you pretended kitchen tools were animal mouths and found which tool was best for which food."
     },
     {
      "t": "mcq",
@@ -1301,12 +1281,6 @@
      ],
      "a": 0,
      "why": "The Ganges river dolphin uses echolocation. They send out clicks, and the echoes tell them where fish are. Their eyes are tiny because seeing doesn't help much in muddy water."
-    },
-    {
-     "t": "truefalse",
-     "p": "A mosquito can find you in the dark by sensing the carbon dioxide you breathe out.",
-     "a": true,
-     "why": "True. Mosquitoes sense carbon dioxide from a distance, then follow warmth and smell close up."
     },
     {
      "t": "order",
@@ -1909,7 +1883,7 @@
      "say": "Blow out gently through the straw, in slow bubbles. Breathe in through your nose, never through the straw. I'll squeeze room air from the bottle into the other glass at the same time.",
      "kid": "Breathe in through your nose. Blow out gently through the straw. Never suck. Watch the bubbles. A grown-up squeezes air into the other glass.",
      "adult": true,
-     "parent": "The breath glass usually goes cloudy within 30 seconds to a minute. The room-air glass stays nearly clear, because room air has only a tiny bit of carbon dioxide. Stop at 2 minutes: if you keep blowing for many minutes, the milkiness can clear again. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bottle, if you have one.",
+     "parent": "The breath glass usually goes cloudy within 30 seconds to a minute. The room-air glass stays nearly clear, because room air has only a tiny bit of carbon dioxide. Look at 30 seconds and 1 minute, and stop by 2 minutes. If you keep blowing for longer, the milkiness can clear again, because extra carbon dioxide dissolves the white powder. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bottle, if you have one.",
      "context": "This is the step where you bubble your breath into one glass of limewater, and room air into the other."
     },
     {
@@ -1950,7 +1924,7 @@
       "why": "Carbon dioxide turns limewater milky, and breathed-out air carries carbon dioxide made by your cells from food. Picking 'no oxygen at all' is a common mistake. Breathed-out air still has a lot of oxygen, just a bit less. Picking 'spit' is a good scientist's worry. But only a tiny drop of spit could get in, and the whole glass turned milky as the bubbles went through. Only carbon dioxide does that to limewater."
      },
      "context": "This is the last step of the Limewater Test. You compare the two glasses and explain what happened.",
-     "parent": "Let your child guess first. Then explain: the milky colour is tiny bits of calcium carbonate, the same material as chalk and eggshell. It forms when carbon dioxide meets limewater. Your cells use oxygen to get energy from food. The carbon in the food comes out as carbon dioxide, and the blood carries it to the lungs. So part of every meal leaves the body in the breath. This is the idea behind the unit's deep truth."
+     "parent": "Let your child guess first. Then explain: the milky colour is tiny bits of calcium carbonate, the same material as chalk and eggshell. It forms when carbon dioxide meets limewater. Your cells use oxygen to get energy from food. The carbon in the food comes out as carbon dioxide, and the blood carries it to the lungs. So part of every meal leaves the body in the breath."
     }
    ]
   },
@@ -1995,7 +1969,7 @@
     }
    ],
    "record": "Fill in the table. Draw a bar chart of ants at 30 minutes. Draw a map of the ant trail you saw.",
-   "context": "In this experiment you put out sugar, salt and biscuit near an ant path, and count how many ants find each one. It shows how ants use smell to find food.",
+   "context": "In this experiment you put out sugar, salt and biscuit near an ant path, and count how many ants find each one. It shows how ants find food and bring other ants to it.",
    "setup": [
     {
      "art": "Three small white paper squares on a kitchen floor near a wall, one with sugar, one with salt, one with a biscuit crumb, each the same distance from a line of small black ants.",
@@ -2029,7 +2003,7 @@
       }
      ],
      "context": "This is the first step of Ant Detectives. You put three kinds of food near an ant path.",
-     "parent": "Most Indian homes have small ants somewhere. If you cannot see any, put a pinch of sugar on a paper near a window or balcony crack the day before. Ants usually find it within a day, and you can start the test where they come."
+     "parent": "Most Indian homes have small ants somewhere. If you cannot see any, leave a pinch of sugar on a paper near a window or balcony crack, and start the test on the day ants come to it."
     },
     {
      "id": "s2",
@@ -2037,7 +2011,7 @@
      "do": "1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and the time taken. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow them.",
      "say": "Look, one ant found the sugar. Watch what they do next. Do they go home? Do they touch other ants? Let's count every ten minutes.",
      "kid": "Watch quietly. Which food did the first ant find? Count the ants on each paper every ten minutes. Follow one ant with your eyes.",
-     "parent": "Usually one scout ant finds the sugar or biscuit by smell, wanders back towards the nest, and soon a trail of ants arrives. The scout leaves a smell trail, called a pheromone trail, on the way home. Salt usually gets few or no ants. Results vary with the kind of ant, so whatever happens is real data.",
+     "parent": "Usually one scout ant finds the sugar or biscuit, by smell or by wandering onto it, goes back towards the nest, and soon a trail of ants arrives. The scout leaves a smell trail, called a pheromone trail, on the way home. Salt usually gets few or no ants. Results vary with the kind of ant, and the bait the ants meet first can get more visits. If one end of the row gets all the ants, repeat with the baits in a different order. Whatever happens is real data.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: ants on each bait after 30 minutes",
@@ -2074,7 +2048,7 @@
       {
        "q": "Claim?",
        "good": [
-        "Ants find sweet food by smell, and they find sugar faster than salt."
+        "Ants find sugar faster than salt, and other ants follow the first one to the food."
        ]
       },
       {
@@ -2177,14 +2151,7 @@
       }
      ],
      "parent": "The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet.",
-     "context": "This is the first step of Breath on a Steel Tumbler. You breathe on steel and a tissue and notice what happens."
-    },
-    {
-     "id": "s2",
-     "mins": 6,
-     "do": "1. Your child sits still, one hand on the chest and one on the belly. 2. They breathe normally for ten breaths and notice which hand moves. 3. Then they take three big slow breaths.",
-     "say": "Close your eyes. One hand on your chest, one on your belly. Just notice. Which hand moves? Now take a big slow breath in. Where does the air go?",
-     "kid": "Close your eyes. One hand on your chest. One hand on your belly. Breathe. Which hand moves? Now take a big, slow breath.",
+     "context": "This is the first step of Breath on a Steel Tumbler. You breathe on steel and a tissue and notice what happens.",
      "check": {
       "t": "mcq",
       "q": "Your breath made the steel tumbler misty. What is the mist?",
@@ -2196,7 +2163,14 @@
       "a": 0,
       "why": "Your breath is warm and full of water vapour. When it touches cooler steel, the vapour turns into tiny drops, just like the drops on a cold glass of water. Picking 'smoke' means thinking breathing is like burning. That is partly a good idea, because cells do use oxygen to get energy from food, but there is no smoke. Oxygen has no colour, so you can never see it."
      },
-     "think": "You breathed out water. Where did that water come from? A fish lives in water. How does a fish breathe?",
+     "think": "You breathed out water. Where did that water come from? A fish lives in water. How does a fish breathe?"
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Your child sits still, one hand on the chest and one on the belly. 2. They breathe normally for ten breaths and notice which hand moves. 3. Then they take three big slow breaths.",
+     "say": "Close your eyes. One hand on your chest, one on your belly. Just notice. Which hand moves? Now take a big slow breath in. Where does the air go?",
+     "kid": "Close your eyes. One hand on your chest. One hand on your belly. Breathe. Which hand moves? Now take a big, slow breath.",
      "context": "This is the step where you feel your chest and belly move as you breathe."
     }
    ]
@@ -2377,7 +2351,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "If you can, visit a fish market or ask at the fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills.",
+     "do": "Optional, if you can: if you can, visit a fish market or ask at the fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills.",
      "say": "Fish sellers lift the gill flap to show how fresh a fish is. Bright red gills mean fresh. Why do you think they're so red?",
      "kid": "Look under the flap of a fresh fish. See the red gills? They look like a comb with many thin teeth.",
      "adult": true,
@@ -2473,7 +2447,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds. Lift them out and let them drip for 10 seconds. Don't squeeze them, or the strips will tear. 5. Hang them side by side, under a fan if you have one.",
+     "do": "1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds. Lift them out and let them drip for 10 seconds. Don't squeeze them, or the strips will tear. 5. Hang them side by side on the string, two hand-widths apart (pinch the ball in a clothes peg). If you use a fan, let it blow on both the same.",
      "say": "Water leaves a wet towel through its surface, the outside that touches the air. Gills and lungs take oxygen in through their surface too. Which towel do you think has more surface touching the air?",
      "kid": "Crumple one towel into a ball. Cut the other into thin strips. Wet both. Hang them up. Which one has more outside touching the air?",
      "ask": [
@@ -2490,7 +2464,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Every 10 minutes, for about 40 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes a minute, so do something else in between.",
+     "do": "Every 10 minutes, for about 40 minutes, gently touch both towels and note how they feel: wet, damp or dry. The whole wait is about 40 minutes, but each check takes only a minute, so do something else in between.",
      "say": "Let's check. Touch them gently. Which feels drier? The water is leaving through the surface, just as oxygen enters through the surface of a gill.",
      "kid": "Every 10 minutes, touch both towels. Wet, damp or dry? Write it down.",
      "parent": "The frilly towel usually dries much faster, often in half the time or less. The crumpled ball may still be damp at the end. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
@@ -2529,7 +2503,7 @@
      "qty": 5
     },
     {
-     "item": "a smelly snack, like a piece of banana, a crushed elaichi pod or a little vanilla essence on cotton",
+     "item": "three smelly things, one for each round: a piece of banana, a crushed elaichi pod, a little vanilla essence on cotton",
      "qty": 1
     },
     {
@@ -2564,7 +2538,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. While your child is out of the room, put the snack in one bowl and cover all five. 2. Blindfold your child. 3. They sniff each bowl and choose one. 4. Try 3 rounds with different snacks.",
+     "do": "1. While your child is out of the room, put the snack in one bowl and cover all five. 2. Blindfold your child. 3. They sniff each bowl and choose one. 4. Do 3 rounds, with a different smell in each.",
      "say": "You're going to be a dog for a minute. A dog finds food mostly by smell. Sniff each bowl. Which one hides the snack?",
      "kid": "Put on the blindfold. Sniff each bowl, one by one. Which one has the snack? Point to it.",
      "ask": [
@@ -2703,11 +2677,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "tools: a straw, a tea strainer, a clothes peg, a pair of tweezers or two ice-cream sticks, a spoon",
+     "item": "tools: a straw, a tea strainer, a clothes peg, a pair of tweezers or two ice-cream sticks",
      "qty": 1
     },
     {
-     "item": "foods: a bowl of water or juice, a bowl of water with puffed rice floating in it, a few cooked noodles hidden in a tray of dry atta, some peanuts",
+     "item": "foods: a bowl of water or juice, a bowl of water with puffed rice floating in it, a few cooked noodles hidden in a tray of dry atta, some peanuts (or roasted chana, if anyone is allergic to peanuts)",
      "qty": 1
     },
     {
@@ -2719,14 +2693,14 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Try five kitchen tools as animal mouths on four foods, then match each tool to an animal."
+     "what": "Try four kitchen tools as animal mouths on four foods, then match each tool to an animal."
     }
    ],
    "record": "Make a table: tool, which food it was best at, and which animal has a mouth like that tool.",
    "context": "In this activity you pretend different kitchen tools are animal mouths. You find which tool is best at which food, to see how animal mouths fit the way they get food.",
    "setup": [
     {
-     "art": "A table with a straw, a tea strainer, a clothes peg, tweezers and a spoon, and bowls of juice, floating puffed rice, noodles in atta and peanuts.",
+     "art": "A table with a straw, a tea strainer, a clothes peg, and tweezers, and bowls of juice, floating puffed rice, noodles in atta and peanuts.",
      "caption": "1. Lay out the tool mouths and the foods."
     },
     {
@@ -2817,12 +2791,12 @@
     {
      "day": 3,
      "mins": 8,
-     "what": "Count breaths while reading, after climbing stairs, and while a grown-up counts yours while you sleep."
+     "what": "Count breaths while reading and after climbing stairs. A grown-up also counts your breaths for one minute while you sleep."
     },
     {
      "day": 4,
      "mins": 8,
-     "what": "Count the breaths of a pet or of another person at home, with permission."
+     "what": "Count the breaths of a pet or another person at home, with their permission, if there is one."
     },
     {
      "day": 5,
@@ -2858,7 +2832,7 @@
     {
      "id": "s2",
      "mins": 24,
-     "do": "Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths while asleep. On day 4, count a pet or another person at home, with permission.",
+     "do": "Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths for one minute while they sleep. On day 4, count a pet or another person at home, with permission, if there is one.",
      "say": "Today's counts are in the diary plan. Remember, sit the same way each time, and count for one whole minute.",
      "kid": "Do today's counts. Write each one in your table. Count for one whole minute.",
      "wait": "Do the next count tomorrow.",
@@ -3021,7 +2995,7 @@
     "a bowl"
    ],
    "general": [
-    "A tea strainer lets water through fast, but tiny bits of leaf get through too.",
+    "A tea strainer lets water through fast, but it may let the finest bits of leaf through.",
     "A cloth catches every bit, but water flows through it slowly.",
     "Two filters, a coarse one first and a fine one second, can catch more without clogging."
    ],
@@ -3064,7 +3038,7 @@
      "kid": "Build your own filter. Pour the tea water through. Time it. Try again and make it better.",
      "check": {
       "t": "mcq",
-      "q": "A pleated cloth caught all the tea leaves, just like a flat cloth, but the water went through faster. Why?",
+      "q": "Imagine a pleated cloth catches all the tea leaves, just like a flat cloth, but the water goes through faster. Why?",
       "options": [
        "Pleats give more cloth for the water to pass through",
        "Pleats make the water colder",
@@ -3084,7 +3058,8 @@
      "think": "A filter catches things. A gill lets oxygen pass through into blood. How are they alike, and how are they different?",
      "context": "This is the last step of Build a Filter-Feeder's Sieve. You compare designs and connect them to real gills."
     }
-   ]
+   ],
+   "safety": "Only a grown-up cuts the bottle. Cover the cut edge with tape so it isn't sharp."
   }
  ],
  "videos": [
@@ -3094,7 +3069,7 @@
    "youtube": "zj5v3n6Nlm8",
    "mins": 3,
    "why": "A short, clear video for children on how gills take oxygen out of water.",
-   "check": "Title and channel matched by YouTube. A parent should still preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "This Titicaca Water Frog Breathes Oxygen Through its Skin",
@@ -3102,7 +3077,7 @@
    "youtube": "VosMbumTzIg",
    "mins": 2,
    "why": "Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the skin breathing card.",
-   "check": "Title and channel matched by YouTube. A parent should still preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "Gangetic River Dolphin communication through ultrasound clicks",
@@ -3110,7 +3085,7 @@
    "youtube": "hXVkH_2Y2WM",
    "mins": 1,
    "why": "A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. They breathe air and find food by echoes.",
-   "check": "Title and channel matched by YouTube. A parent should still preview it."
+   "check": "A parent should preview it first."
   }
  ],
  "quiz": [
@@ -3397,12 +3372,9 @@
   "How do you think a crow finds food that you drop?",
   "Why do you think the fish at the market have such red gills?",
   "If you could have one animal's sense for a day, which would you pick?",
-  "Why do you breathe so hard after running?",
   "How does a fish in the river breathe at night, when you are sleeping?",
-  "Where did the oxygen in your breath come from?",
   "Why do frogs come out in the monsoon and hide in summer?",
-  "How do you think a bat finds a mosquito in the dark?",
-  "Does a sleeping cat breathe fast or slow?"
+  "How do you think a bat finds a mosquito in the dark?"
  ],
  "jokes": [
   {
@@ -3416,14 +3388,6 @@
   {
    "j": "Why did the frog take the bus to work?",
    "a": "His car got toad away."
-  },
-  {
-   "j": "Why do bats sleep upside down?",
-   "a": "So they can hang out with their friends."
-  },
-  {
-   "j": "Why are fish so clever?",
-   "a": "Because they swim in schools."
   },
   {
    "j": "Why couldn't the whale keep a secret?",
@@ -3744,13 +3708,13 @@
    "a4",
    "g1",
    "videos",
-   "ws-core",
    "e2",
    "a5",
    "e3",
    "g2",
    "a6",
    "a7",
+   "ws-core",
    "agreed",
    "challenging",
    "big_questions",
@@ -3768,10 +3732,10 @@
    "e1",
    "a2",
    "g1",
-   "ws-core",
    "e2",
    "a5",
-   "e3"
+   "e3",
+   "ws-core"
   ],
   "spine": [
    "intro",
