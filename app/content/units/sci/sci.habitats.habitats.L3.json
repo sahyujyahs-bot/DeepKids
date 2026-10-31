@@ -574,8 +574,20 @@
      "kind": "cards",
      "title": "24 living-thing cards to cut out",
      "items": [
-      "Frog",
-      "Lotus",
+      {
+       "f": "Frog",
+       "img": {
+        "src": "media/cards/habitats-g1-0-00.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus",
+       "img": {
+        "src": "media/cards/habitats-g1-0-01.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
       "Dragonfly",
       "Water snail",
       "Hornbill",
