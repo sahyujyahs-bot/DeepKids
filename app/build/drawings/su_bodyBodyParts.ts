@@ -62,19 +62,19 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  // the bag, open at the top, the slice half way in
-  const bx = 660, by = 1010, bw = 440, bh = 520;
+  // the open bag, the slice half way in, a clean spoon (in a grown-up hand) pushing it down
+  const bx = 540, by = 1020, bw = 500, bh = 660;
   shadow(c, bx + 40, by + 8, bw * 0.6, 28);
-  bread(c, bx, 470, 320, 320, 0, 4);
-  shape(c, () => rrect(c, bx - bw / 2, by - bh, bw, bh, 16), "rgba(214,236,250,0.5)", 6);
-  shine(c, [[bx - bw * 0.38, by - bh * 0.8], [bx - bw * 0.38, by - 90]], 10);
-  line(c, [[bx - bw / 2, by - bh], [bx + bw / 2, by - bh]], 9, INK);
-  // a clean steel spoon, held by a grown-up hand, sliding the slice in
-  line(c, [[300, 240], [560, 390]], 34, INK); line(c, [[300, 240], [560, 390]], 20, COL.steel);
-  shape(c, () => ell(c, 590, 405, 90, 60, 0.5), COL.steel, 6);
-  shape(c, () => ell(c, 594, 407, 62, 38, 0.5), COL.steelIn, 4);
-  hand(c, 120, 140, 0.5, 2.3, SKIN.adult, CLOTH.adult, false);
-  arrow(c, [[930, 250], [930, 470]], RED, 16);
+  bread(c, bx, 420, 360, 360, 0, 4);
+  c.save(); c.beginPath(); rrect(c, bx - bw / 2, by - bh, bw, bh, 16); c.clip(); c.fillStyle = "rgba(214,236,250,0.22)"; c.fillRect(0, 0, 1080, 1080); c.restore();
+  shape(c, () => rrect(c, bx - bw / 2, by - bh, bw, bh, 16), "rgba(214,236,250,0.12)", 6);
+  shine(c, [[bx - bw * 0.4, by - bh * 0.8], [bx - bw * 0.4, by - 90]], 10);
+  line(c, [[bx - bw / 2, by - bh], [bx + bw / 2, by - bh]], 12, INK);
+  line(c, [[100, 74], [480, 218]], 34, INK); line(c, [[100, 74], [480, 218]], 20, COL.steel);
+  shape(c, () => ell(c, 520, 236, 85, 56, 0.38), COL.steel, 6);
+  shape(c, () => ell(c, 524, 238, 58, 34, 0.38), COL.steelIn, 4);
+  hand(c, 20, 40, 0.38, 2.3, SKIN.adult, CLOTH.adult, false);
+  arrow(c, [[920, 230], [920, 470]], RED, 18);
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
@@ -153,36 +153,31 @@ const paste = (c: Ctx, x: number, y: number, r: number) => { shape(c, () => ell(
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  shadow(c, 580, 940, 430, 90);
-  shape(c, () => ell(c, 540, 800, 450, 160), "#f5f0e6", 6);
-  shape(c, () => ell(c, 540, 795, 340, 110), "#e4ddcf", 4);
-  egg(c, 520, 650, 170, 240, 1.35, EGG, EGGDK);
-  // toothpaste smeared over the egg
-  c.save(); c.translate(520, 650); c.rotate(1.35); c.beginPath(); c.moveTo(0, -240); c.bezierCurveTo(162, -240, 196, 216, 0, 240); c.bezierCurveTo(-196, 216, -162, -240, 0, -240); c.closePath(); c.clip();
-  const lumps = (): number[][] => [[-300, -300, 0], [300, -300, 0]].concat([-230, -130, -30, 70, 170, 260].map((x, i) => [x, 30 + (i % 2) * 40, 60]));
-  for (const pass of [0, 1]) {
-    c.beginPath(); c.rect(-320, -320, 640, 350);
-    lumps().slice(2).forEach(([x, y, r]) => { c.moveTo(x + r, y); c.arc(x, y, r, 0, Math.PI * 2); });
-    if (pass === 0) { c.lineWidth = 14; c.strokeStyle = INK; c.lineJoin = "round"; c.stroke(); } else { c.fillStyle = "#f4fbff"; c.fill(); }
-  }
-  line(c, [[-120, -140], [100, -170]], 5, "#bcd8e8"); line(c, [[-130, -60], [120, -80]], 5, "#bcd8e8"); line(c, [[-110, 10], [90, -5]], 5, "#bcd8e8");
+  shadow(c, 580, 960, 430, 90);
+  shape(c, () => ell(c, 540, 840, 450, 150), "#f5f0e6", 6);
+  shape(c, () => ell(c, 540, 836, 340, 100), "#e4ddcf", 4);
+  // an egg standing on the saucer, toothpaste squeezed in ribbons over its top half
+  const ex = 600, ey = 650, ern = 0.1;
+  egg(c, ex, ey, 150, 210, ern, EGG, EGGDK);
+
+  const rib = [[488, 402], [548, 478], [660, 468], [520, 520], [690, 530], [505, 580], [700, 590]];
+  for (const [w, col] of [[56, INK], [40, "#f4fbff"]] as [number, string][]) { c.beginPath(); c.moveTo(rib[0][0], rib[0][1]); for (let k = 1; k < rib.length; k++) c.lineTo(rib[k][0], rib[k][1]); c.lineWidth = w; c.strokeStyle = col; c.lineCap = "round"; c.lineJoin = "round"; c.stroke(); }
+  // the tube, nozzle just above the egg, in a hand
+  c.save(); c.translate(480, 395); c.rotate(0.7);
+  shape(c, () => polyP(c, [[0, -16], [-60, -26], [-60, 26], [0, 16]]), COL.steelDk, 5);
+  shape(c, () => polyP(c, [[-60, -26], [-250, -56], [-250, 56], [-60, 26]]), "#f4fbff", 6);
+  shape(c, () => polyP(c, [[-110, -36], [-180, -48], [-180, 48], [-110, 36]]), COL.teal, 4);
+  shape(c, () => rrect(c, -330, -58, 80, 116, 10), COL.blue, 6);
   c.restore();
-  // the tube
-  c.save(); c.translate(260, 250); c.rotate(-0.3);
-  shape(c, () => polyP(c, [[-190, -65], [170, -85], [170, 85], [-190, 65]]), "#f4fbff", 6);
-  shape(c, () => polyP(c, [[-10, -75], [70, -78], [70, 78], [-10, 75]]), COL.teal, 4);
-  shape(c, () => polyP(c, [[-225, -65], [-190, -65], [-190, 65], [-225, 65]]), COL.steelDk, 5);
-  shape(c, () => rrect(c, 170, -60, 80, 120, 16), COL.blue, 6);
-  c.restore();
-  hand(c, 760, 440, 2.4, 2.6, SKIN.adult, CLOTH.adult, true);
+  hand(c, 232, 151, 0.7, 2.2, SKIN.adult, CLOTH.adult, false);
 };
 const vinegarGlass = (c: Ctx, x: number) => glass2(c, x);
 const glass2 = (c: Ctx, x: number) => {
   const y = 900, w = 330, h = 440;
   shadow(c, x + 40, y + 6, w * 0.6, 24);
   const bot = w * 0.4, top = w / 2, ly = y - h * 0.82, lw = bot + (top - bot) * 0.82;
-  shape(c, () => polyP(c, [[x - lw, ly], [x + lw, ly], [x + bot, y], [x - bot, y]]), "#f0d77a", 0);
-  shape(c, () => ell(c, x, ly, lw, w * 0.06), "#f8e69a", 0);
+  shape(c, () => polyP(c, [[x - lw, ly], [x + lw, ly], [x + bot, y], [x - bot, y]]), "#cfe8f3", 0);
+  shape(c, () => ell(c, x, ly, lw, w * 0.06), "#e8f5fb", 0);
 };
 const glassFront = (c: Ctx, x: number) => {
   const y = 900, w = 330, h = 440, top = w / 2, bot = w * 0.4;
@@ -193,18 +188,20 @@ const glassFront = (c: Ctx, x: number) => {
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   ground(c);
-  const bubble = (x: number, y: number, r: number) => { c.beginPath(); ell(c, x, y, r, r); c.fillStyle = "rgba(255,255,255,0.85)"; c.fill(); c.lineWidth = 3; c.strokeStyle = INK; c.stroke(); };
+  c.save(); c.translate(540, 560); c.scale(1.2, 1.2); c.translate(-540, -680);
+  const bubble = (x: number, y: number, r: number) => { c.beginPath(); ell(c, x, y, r, r); c.fillStyle = "rgba(255,255,255,0.9)"; c.fill(); c.lineWidth = 3.5; c.strokeStyle = INK; c.stroke(); };
   vinegarGlass(c, 290); vinegarGlass(c, 790);
-  egg(c, 290, 800, 78, 108, 1.3, EGG, EGGDK);
-  egg(c, 790, 800, 78, 108, 1.3, EGG, EGGDK);
+  egg(c, 290, 765, 95, 135, 0.1, EGG, EGGDK);
+  egg(c, 790, 765, 95, 135, 0.1, EGG, EGGDK);
   // thin white film left on the wiped egg
-  paste(c, 760, 790, 24); paste(c, 825, 830, 18);
+  paste(c, 770, 700, 34); paste(c, 820, 790, 28); paste(c, 750, 830, 22);
   // many bubbles on and above the plain egg, hardly any on the wiped one
   const r = rnd(5);
-  for (let i = 0; i < 26; i++) bubble(215 + r() * 150, 520 + r() * 270, 6 + r() * 9);
-  for (let i = 0; i < 9; i++) bubble(220 + i * 18, 512 + (i % 2) * 6, 11);
-  bubble(805, 735, 6);
+  for (let i = 0; i < 20; i++) bubble(225 + r() * 130, 650 + r() * 230, 8 + r() * 10);
+  for (let i = 0; i < 12; i++) bubble(190 + r() * 200, 560 + r() * 90, 10 + r() * 12);
+  bubble(830, 650, 7);
   glassFront(c, 290); glassFront(c, 790);
+  c.restore();
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
@@ -214,15 +211,17 @@ const e3_2 = (c: Ctx) => {
   for (let x = 100; x < 1060; x += 90) line(c, [[x, 420], [x, 1010]], 5, COL.sky);
   for (let y = 470; y < 1010; y += 90) line(c, [[40, y], [1040, y]], 5, COL.sky);
   c.restore();
-  shadow(c, 340, 850, 170, 36); shadow(c, 790, 850, 170, 36);
+  shadow(c, 360, 930, 150, 34); shadow(c, 800, 930, 150, 34);
   // the plain egg: shell eaten away, dull, pitted and chalky
-  egg(c, 310, 730, 125, 175, 1.4, "#efe6d2", "#cfc3a8");
+  egg(c, 340, 740, 135, 190, 0.08, "#e6dcc4", "#bfb294");
   const r = rnd(8);
-  for (let i = 0; i < 30; i++) { c.beginPath(); ell(c, 200 + r() * 240, 680 + r() * 110, 3 + r() * 4, 2 + r() * 3); c.fillStyle = "#a99c82"; c.fill(); }
+  c.save(); c.translate(340, 740); c.rotate(0.08); c.beginPath(); c.moveTo(0, -190); c.bezierCurveTo(128, -190, 155, 171, 0, 190); c.bezierCurveTo(-155, 171, -128, -190, 0, -190); c.closePath(); c.clip();
+  for (let i = 0; i < 45; i++) { c.beginPath(); ell(c, (r() - 0.5) * 240, (r() - 0.5) * 340, 5 + r() * 7, 4 + r() * 5); c.fillStyle = r() < 0.5 ? "#8c7f66" : "#a99c82"; c.fill(); }
+  c.restore();
   // the toothpaste egg: smooth and shiny
-  egg(c, 790, 730, 125, 175, 1.4, EGG, EGGDK);
-  shine(c, [[700, 670], [800, 655]], 12);
-  hand(c, 132, 426, 1.0, 2.6, SKIN.child, CLOTH.child, true);
+  egg(c, 800, 740, 135, 190, 0.08, EGG, EGGDK);
+  shine(c, [[722, 700], [722, 620], [760, 570]], 22);
+  hand(c, 110, 395, 0.85, 2.8, SKIN.child, CLOTH.child, true);
 };
 
 export const su_bodyBodyParts = cards("sci.body.body-parts.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

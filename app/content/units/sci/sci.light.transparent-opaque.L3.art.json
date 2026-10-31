@@ -1,4 +1,8 @@
 {
+ "flow.e3": {
+  "src": "media/img/sci.light.transparent-opaque.L3/flow.e3.jpg",
+  "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.light.transparent-opaque.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +38,9 @@
  "setup.e3.2": {
   "src": "media/img/sci.light.transparent-opaque.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.light.transparent-opaque.L3/term.9.jpg",
+  "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
  }
 }

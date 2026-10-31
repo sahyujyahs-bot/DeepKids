@@ -22,7 +22,9 @@ function rsScore(p) {
     tops = new Set(liked.flatMap((x) => x.topics)),
     learnt = Object.keys(fxSt().time),
     base = (id) => id.split(".").slice(0, 2).join(".");
+  const ints = intSt().map((x) => x.t.toLowerCase());
   return (
+    2 * ints.filter((w) => (p.title + " " + p.tags.join(" ")).toLowerCase().includes(w)).length +
     3 * p.tags.filter((t) => tags.has(t)).length +
     3 * p.topics.filter((t) => tops.has(t)).length +
     2 * p.topics.filter((t) => learnt.includes(t)).length +

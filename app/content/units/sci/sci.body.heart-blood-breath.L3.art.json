@@ -1,4 +1,20 @@
 {
+ "e2.1": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/e2.1.jpg",
+  "drawn": true
+ },
+ "e2.2": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/e2.2.jpg",
+  "drawn": true
+ },
+ "e3.1": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/e3.1.jpg",
+  "drawn": true
+ },
+ "e3.2": {
+  "src": "media/img/sci.body.heart-blood-breath.L3/e3.2.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.body.heart-blood-breath.L3/flow.a1.jpg",
   "credit": "Unknown, CC BY 4.0, via Wikimedia Commons"

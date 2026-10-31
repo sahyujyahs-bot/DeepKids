@@ -275,10 +275,13 @@ const e2_2 = (c: Ctx) => {
   for (let i = 0; i < 16; i++) { const x = 90 + r() * 840; if (x > 420 && x < 650) continue; shape(c, () => ell(c, x, 520 + r() * 440, 12 + r() * 10, 7 + r() * 5), COL.soilDk, 3); }
   shape(c, () => rect(c, 60, 424, 960, 40), COL.green, 6);
   shape(c, () => polyP(c, [[450, 424], [620, 424], [610, 808], [460, 808]]), "#4a2c19", 6);
+  // the leaf laid over the opening, covering it; the probe stands up beside it
+  const lf = () => { c.moveTo(330, 428); c.quadraticCurveTo(440, 340, 560, 352); c.quadraticCurveTo(690, 360, 740, 432); c.quadraticCurveTo(540, 470, 330, 428); c.closePath(); };
+  shape(c, lf, COL.leaf, 6);
+  shade(c, lf, COL.leafDk, 0, 30, 0.45);
+  line(c, [[350, 426], [560, 410], [725, 430]], 5, COL.leafDk);
+  line(c, [[560, 410], [520, 372]], 4, COL.leafDk); line(c, [[560, 410], [630, 378]], 4, COL.leafDk);
   probe(c, 530, 790, 0.23, 400, "24°");
-  // the leaf laid loosely over the opening
-  shape(c, () => { c.moveTo(380, 424); c.quadraticCurveTo(480, 380, 590, 420); c.quadraticCurveTo(480, 452, 380, 424); c.closePath(); }, COL.leaf, 5);
-  line(c, [[392, 424], [570, 420]], 4, COL.leafDk);
 };
 
 // setup.e3.0
@@ -292,23 +295,25 @@ const e3_0 = (c: Ctx) => {
 const e3_1 = (c: Ctx) => {
   floor(c);
   sugarPaper(c, 540, 880);
-  // the finger's shadow on the floor, then ants walking under it
-  c.save(); c.translate(705, 415); c.rotate(2.07); c.beginPath(); ell(c, 0, 0, 170, 24); c.fillStyle = "rgba(43,35,64,0.2)"; c.fill(); c.restore();
+  // the finger's shadow lies on the floor below and apart from the finger: the finger is up in the air, not touching
+  const tip = [520, 420], an = 2.85, bx = -Math.cos(an), by = -Math.sin(an);
+  c.save(); c.translate(tip[0] + 20, tip[1] + 110); c.rotate(Math.atan2(by, bx)); line(c, [[0, 0], [250, 0]], 44, "rgba(43,35,64,0.2)"); c.beginPath(); ell(c, 330, 0, 90, 70); c.fillStyle = "rgba(43,35,64,0.2)"; c.fill(); c.restore();
   [270, 360, 450, 540, 630, 715].forEach((y) => ant(c, trailX(y), y, trailAn(y), 0.78));
-  pointAt(c, 595, 450, 2.07, 1.6);
+  pointAt(c, tip[0], tip[1], an, 1.6);
+  for (let k = 0; k < 3; k++) line(c, [[tip[0] + 3 + k * 7, tip[1] + 22 + k * 30], [tip[0] + 5 + k * 7, tip[1] + 36 + k * 30]], 6, INK);
 };
 
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   floor(c);
   sugarPaper(c, 540, 880);
-  // the rubbed strip across the trail
-  shape(c, () => rrect(c, 330, 560, 420, 64, 30), "#f6f1e6", 5);
-  for (const [x1, x2, y] of [[370, 520, 580], [450, 640, 600], [560, 700, 585]]) line(c, [[x1, y], [x2, y]], 5, "#cfc6b4");
-  // ants arrive, stop and turn round at the strip
-  [[trailX(260), 260, trailAn(260)], [trailX(350), 350, trailAn(350)], [440, 470, 2.6], [650, 470, -0.6], [545, 505, 4.4], [470, 540, 3.4], [640, 535, 0.3]].forEach(([x, y, a]) => ant(c, x, y, a, 0.78));
-  pointAt(c, 700, 585, 2.07, 1.8);
-  arrow(c, [[400, 690], [660, 690]]); arrow(c, [[660, 690], [400, 690]]);
+  // the rubbed strip across the trail: floor wiped clean and pale, no edge of an object
+  c.beginPath(); c.moveTo(330, 575); c.quadraticCurveTo(540, 548, 750, 570); c.lineTo(748, 636); c.quadraticCurveTo(540, 650, 332, 632); c.closePath(); c.fillStyle = "#faf6ea"; c.fill();
+  for (const [x1, x2, y] of [[360, 560, 586], [420, 700, 603], [380, 650, 620]]) line(c, [[x1, y], [x2, y]], 6, "#e2d8bf");
+  // ants arrive and stop at the strip, none beyond it
+  [[trailX(260), 260, trailAn(260)], [trailX(350), 350, trailAn(350)], [440, 470, 2.6], [650, 470, -0.6], [545, 505, 4.4], [470, 540, 3.4]].forEach(([x, y, a]) => ant(c, x, y, a, 0.78));
+  pointAt(c, 700, 600, 2.07, 1.8);
+  arrow(c, [[420, 598], [620, 598]]); arrow(c, [[620, 598], [420, 598]]);
 };
 
 export const su_animalsAnimalsAroundUs = cards("sci.animals.animals-around-us.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

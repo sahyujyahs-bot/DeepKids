@@ -186,12 +186,19 @@ const e3s1 = (c: Ctx) => {
   for (const [dx, dy] of [[-80, 5], [-30, 22], [30, 12], [85, 0], [-50, -22], [10, -26], [65, -20]]) jelly(c, X[1] + dx, Y + dy, 30);
   c.globalAlpha = 0.4; c.fillStyle = COL.water; c.fillRect(X[1] - R, Y - 80, 2 * R, 160); c.globalAlpha = 1; c.restore();
   line(c, [[X[1] - 100, Y - 20], [X[1] - 70, Y - 28], [X[1] - 40, Y - 20]], 5, COL.drop); line(c, [[X[1] + 40, Y + 30], [X[1] + 70, Y + 22], [X[1] + 100, Y + 30]], 5, COL.drop);
-  // 3: inside a taped egg shell
-  const egg = () => { c.moveTo(X[2], Y - 270); c.bezierCurveTo(X[2] + 120, Y - 270, X[2] + 110, Y + 10, X[2], Y + 10); c.bezierCurveTo(X[2] - 110, Y + 10, X[2] - 120, Y - 270, X[2], Y - 270); c.closePath(); };
-  shape(c, egg, COL.cloth); shade(c, egg, COL.grey, 40, 0, 0.55);
-  line(c, [[X[2] - 106, Y - 140], [X[2] - 60, Y - 160], [X[2] - 20, Y - 125], [X[2] + 30, Y - 160], [X[2] + 70, Y - 128], [X[2] + 108, Y - 150]], 5);
-  shape(c, () => polyP(c, [[X[2] - 118, Y - 175], [X[2] + 118, Y - 175], [X[2] + 118, Y - 105], [X[2] - 118, Y - 105]]), "#f3e3b5", 5);
-  shine(c, [[X[2] - 70, Y - 235], [X[2] - 90, Y - 190]], 8);
+  // 3: inside a taped egg shell: a cracked egg shut with two strips of tape across the crack
+  const ex = X[2], eb = Y + 22, eh = 250, seam = eb - 120;
+  const egg = () => { c.moveTo(ex, eb - eh); c.bezierCurveTo(ex + 125, eb - eh, ex + 110, eb, ex, eb); c.bezierCurveTo(ex - 110, eb, ex - 125, eb - eh, ex, eb - eh); c.closePath(); };
+  shape(c, egg, "#ecd3ae"); shade(c, egg, "#c9a77a", 40, 0, 0.55);
+  shine(c, [[ex - 70, eb - eh + 55], [ex - 88, eb - eh + 105]], 8);
+  const zz: number[][] = []; for (let k = 0; k <= 10; k++) zz.push([ex - 125 + k * 25, seam + (k % 2 ? -14 : 14)]);
+  c.save(); c.beginPath(); egg(); c.clip(); line(c, zz, 6); c.restore();
+  for (const [dx, rot] of [[-38, -0.1], [38, 0.1]]) {
+    c.save(); c.translate(ex + dx, seam); c.rotate(rot);
+    shape(c, () => rrect(c, -17, -62, 34, 124, 3), "#f3e3b5", 5);
+    line(c, [[-6, -48], [-6, 48]], 3, "#d9bd82");
+    c.restore();
+  }
   shape(c, () => ell(c, X[2], Y, R, R * 0.38), "rgba(0,0,0,0)", 0);
   c.save(); c.beginPath(); c.rect(0, Y, 1080, 400); c.clip(); const b3 = () => { c.moveTo(X[2] - R, Y); c.bezierCurveTo(X[2] - R * 0.9, Y + R * 0.95, X[2] + R * 0.9, Y + R * 0.95, X[2] + R, Y); c.closePath(); }; shape(c, b3, COL.steel); shade(c, b3, COL.steelDk, R * 0.35, -R * 0.05); c.restore();
   c.save(); c.beginPath(); c.rect(0, Y + 1, 1080, 400); c.clip(); c.beginPath(); ell(c, X[2], Y, R, R * 0.38); c.strokeStyle = INK; c.lineWidth = 6; c.stroke(); c.restore();
@@ -199,29 +206,27 @@ const e3s1 = (c: Ctx) => {
 // setup.e3.2
 const e3s2 = (c: Ctx) => {
   ground(c, WALL); c.fillStyle = COL.wood; c.fillRect(0, 0, 1080, 1080);
-  plate(c, 560, 640, 480, 290);
+  plate(c, 540, 720, 480, 270);
+  // a dried-out jelly clump: flat, shrivelled, wrinkled, dark dried seeds
   const dry = (x: number, y: number, s: number) => {
-    const bl = () => { c.moveTo(x - 110 * s, y + 20 * s); c.quadraticCurveTo(x - 130 * s, y - 50 * s, x - 60 * s, y - 70 * s); c.quadraticCurveTo(x, y - 95 * s, x + 70 * s, y - 60 * s); c.quadraticCurveTo(x + 130 * s, y - 20 * s, x + 105 * s, y + 25 * s); c.quadraticCurveTo(x, y + 60 * s, x - 110 * s, y + 20 * s); c.closePath(); };
-    shape(c, bl, "#b79f78", 5 * s); shade(c, bl, "#8d7650", 30 * s, 30 * s, 0.7);
-    line(c, [[x - 70 * s, y - 20 * s], [x - 20 * s, y - 5 * s], [x + 10 * s, y - 40 * s], [x + 60 * s, y - 20 * s]], 4 * s, "#6a5738");
-    line(c, [[x - 10 * s, y + 20 * s], [x + 20 * s, y + 0], [x + 80 * s, y + 10 * s]], 4 * s, "#6a5738");
-    for (const [dx, dy] of [[-40, -45], [30, -55], [-80, 0], [60, 20], [-20, 30]]) shape(c, () => ell(c, x + dx * s, y + dy * s, 9 * s, 6 * s), "#2a2630", 0);
+    const bl = () => { const q = (u: number, v: number) => [x + u * s, y + v * s]; c.moveTo(...(q(-115, 0) as [number, number])); c.bezierCurveTo(...(q(-115, -50) as [number, number]), ...(q(-60, -62) as [number, number]), ...(q(0, -60) as [number, number])); c.bezierCurveTo(...(q(60, -58) as [number, number]), ...(q(120, -45) as [number, number]), ...(q(115, 5) as [number, number])); c.bezierCurveTo(...(q(110, 50) as [number, number]), ...(q(40, 62) as [number, number]), ...(q(0, 58) as [number, number])); c.bezierCurveTo(...(q(-60, 55) as [number, number]), ...(q(-115, 45) as [number, number]), ...(q(-115, 0) as [number, number])); c.closePath(); };
+    shape(c, bl, "#b79f78", 5 * s); shade(c, bl, "#8d7650", 30 * s, 28 * s, 0.7);
+    for (const [dx, dy, w] of [[-55, -20, 44], [20, -30, 50], [60, 10, 40], [-30, 22, 54], [-85, 20, 26]]) { const pts: number[][] = []; for (let k = 0; k <= 6; k++) { const t = k / 6 - 0.5; pts.push([x + (dx + t * w) * s, y + (dy + (t * t * 4 - 0.5) * 14) * s]); } line(c, pts, 4 * s, "#6a5738"); }
+    for (const [dx, dy] of [[-70, 5], [-25, -30], [30, -8], [80, -15], [20, 28]]) shape(c, () => ell(c, x + dx * s, y + dy * s, 7 * s, 5 * s), "#2a2630", 0);
   };
-  const L = [430, 480], r = 185;
-  dry(L[0], L[1] + 40, 1.0);
-  for (const [dx, dy] of [[0, 0], [66, -12], [-60, -10], [30, -62], [-30, -62], [100, 40], [-90, 40], [10, 52], [60, 50], [-45, 55]]) jelly(c, 790 + dx * 1.3, 640 + dy * 1.3, 44);
-  // hand and handle
-  const dir = [0.6, -0.8], W = [L[0] - dir[0] * 700, L[1] - dir[1] * 700];
-  line(c, [[L[0] - dir[0] * (r + 8), L[1] - dir[1] * (r + 8)], [L[0] - dir[0] * 560, L[1] - dir[1] * 560]], 34, INK);
-  line(c, [[L[0] - dir[0] * (r + 8), L[1] - dir[1] * (r + 8)], [L[0] - dir[0] * 560, L[1] - dir[1] * 560]], 20, COL.brown);
-  // lens
+  const L = [380, 540], r = 190;
+  dry(300, 770, 1.0);
+  for (const [dx, dy] of [[0, 0], [66, -12], [-60, -10], [30, -62], [-30, -62], [100, 40], [-90, 40], [10, 52], [60, 50], [-45, 55]]) jelly(c, 800 + dx * 1.3, 720 + dy * 1.3, 44);
+  // lens, held from the upper left; inside it the dried clump is seen big
+  const dir = [0.6, 0.8], d = 440, W = [L[0] - dir[0] * d, L[1] - dir[1] * d];
+  line(c, [[L[0] - dir[0] * (r + 8), L[1] - dir[1] * (r + 8)], [L[0] - dir[0] * 385, L[1] - dir[1] * 385]], 34, INK);
+  line(c, [[L[0] - dir[0] * (r + 8), L[1] - dir[1] * (r + 8)], [L[0] - dir[0] * 385, L[1] - dir[1] * 385]], 20, COL.brown);
   shape(c, () => ell(c, L[0], L[1], r, r), "rgba(235,246,252,0.95)", 0);
-  c.save(); c.beginPath(); ell(c, L[0], L[1], r - 4, r - 4); c.clip(); c.fillStyle = "#e8d7b0"; c.fillRect(0, 0, 1080, 1080);
-  dry(L[0], L[1] + 50, 2.0); c.restore();
+  c.save(); c.beginPath(); ell(c, L[0], L[1], r - 4, r - 4); c.clip(); c.fillStyle = COL.steelIn; c.fillRect(0, 0, 1080, 1080);
+  dry(L[0], L[1] + 15, 1.4); c.restore();
   shape(c, () => ell(c, L[0], L[1], r, r), "rgba(0,0,0,0)", 12);
   shine(c, [[L[0] - r * 0.7, L[1] - r * 0.3], [L[0] - r * 0.45, L[1] - r * 0.7]], 10);
-  void W;
-  hand2(c, L[0] - dir[0] * 505, L[1] - dir[1] * 505, Math.atan2(dir[1], dir[0]), 1.4);
+  hand2(c, W[0], W[1], Math.atan2(dir[1], dir[0]), 1.4);
 };
 
 export const su_animalsVertebrateGroups = cards("sci.animals.vertebrate-groups.L3 set-up", [e1s0, e1s1, e1s2, e2s0, e2s1, e2s2, e3s0, e3s1, e3s2]);

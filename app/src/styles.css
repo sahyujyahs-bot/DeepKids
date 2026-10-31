@@ -3507,6 +3507,14 @@ table.rtab th {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.pastrow {
+  display: grid;
+  gap: 8px;
+  padding: 8px 0;
+}
+.pastrow + .pastrow {
+  border-top: 1px dashed var(--line);
+}
 .pastev {
   display: grid;
   gap: 10px;
@@ -6810,4 +6818,16 @@ body {
 .pzwin {
   font: 400 26px var(--poster);
   text-align: center;
+}
+
+.introw {
+  display: grid;
+  gap: 6px;
+  padding: 10px 0;
+}
+.introw + .introw {
+  border-top: 1px dashed var(--line);
+}
+.introw p {
+  margin: 2px 0 0;
 }

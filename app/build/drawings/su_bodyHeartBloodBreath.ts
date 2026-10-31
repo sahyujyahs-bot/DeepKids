@@ -146,19 +146,26 @@ const squeezy = (c: Ctx, x: number, y: number) => {
   shape(c, () => rrect(c, x - 20, y - 352, 40, 24, 8), COL.teal, 5);
   shine(c, [[x - 40, y - 240], [x - 22, y - 170]], 8);
 };
-// e2.1 -> setup.e2.1
-const e2_1 = (c: Ctx) => {
+// e2.1 and e2.2: two halves split by a line. Left: room air from the squeezy bottle through a straw into one glass.
+// Right: the child's breath through a straw into the other glass. Same objects in the result card, no arrows or bubbles.
+const twoGlasses = (c: Ctx, doing: boolean) => {
   ground(c);
-  blower(c, 962, 300, 80, 800, -1);
+  blower(c, 975, 300, 75, 800, -1);
   counter(c, 800);
-  glass(c, 495, 930, 200, 420, 0.7, CLEAR); glass(c, 740, 930, 200, 420, 0.7, CLEAR);
-  c.save(); c.translate(215, 930); c.scale(1.25, 1.25); squeezy(c, 0, 0); c.restore();
-  straw(c, [[215, 498], [215, 338], [495, 338], [495, 880]]);
-  straw(c, [[892, 338], [740, 338], [740, 880]]);
-  for (const [bx, by, br] of [[472, 860, 12], [500, 820, 15], [478, 780, 11], [505, 740, 9], [717, 860, 12], [745, 820, 15], [723, 780, 11], [750, 740, 9]]) bubble(c, bx, by, br);
-  hand(c, 100, 790, 0, 1.1, SKIN.child, CLOTH.child);
-  arrow(c, [[270, 270], [420, 270]]); arrow(c, [[860, 270], [770, 270]]);
+  line(c, [[560, 0], [560, D]], 6);
+  glass(c, 465, 930, 170, 420, 0.7, CLEAR);
+  if (doing) glass(c, 680, 930, 170, 420, 0.7, CLEAR); else milkGlass(c, 680, 930, 170, 420, 0.7);
+  squeezy(c, 250, 930);
+  straw(c, [[250, 575], [250, 420], [465, 420], [465, 880]]);
+  straw(c, [[911, 335], [680, 335], [680, 880]]);
+  if (doing) {
+    for (const [bx, by, br] of [[445, 860, 12], [478, 820, 15], [452, 780, 11], [482, 740, 9], [660, 860, 12], [693, 820, 15], [667, 780, 11], [697, 740, 9]]) bubble(c, bx, by, br);
+    arrow(c, [[300, 365], [420, 365]]); arrow(c, [[850, 280], [740, 280]]);
+  }
+  hand(c, 112, 790, 0, 1.1, SKIN.child, CLOTH.child);
 };
+// e2.1 -> setup.e2.1
+const e2_1 = (c: Ctx) => twoGlasses(c, true);
 // a glass of milky limewater: the glass kit's tumbler, with the milk painted over its blue tint
 const milkGlass = (c: Ctx, x: number, y: number, w: number, h: number, fill: number) => {
   glass(c, x, y, w, h, fill, MILK);
@@ -169,17 +176,13 @@ const milkGlass = (c: Ctx, x: number, y: number, w: number, h: number, fill: num
   shine(c, [[x - top * 0.65, y - h * 0.85], [x - bot * 0.7, y - h * 0.2]], 7);
 };
 // e2.2 -> setup.e2.2
-const e2_2 = (c: Ctx) => {
-  ground(c); counter(c, 700);
-  glass(c, 340, 900, 290, 480, 0.75, CLEAR); milkGlass(c, 740, 900, 290, 480, 0.75);
-  straw(c, [[290, 340], [335, 830]]); straw(c, [[690, 340], [735, 830]]);
-};
+const e2_2 = (c: Ctx) => twoGlasses(c, false);
 
 // ---------------------------------------------------------------- e3 : the upside-down bottle
 // a 2 litre bottle: base edge at yEdge, body 500 long (25 px = 100 ml), then shoulder and neck. flip = upside down.
 const BODY = 500, SHOULDER = 45, NECK = 60, HALF = 100, NECKW = 28;
 // water fills between distances a and b from the base; ticks are labelled lines on a paper tape
-const bottle = (c: Ctx, bx: number, yEdge: number, flip: boolean, water: [number, number] | null, ticks: [number, string?][]) => {
+const bottle = (c: Ctx, bx: number, yEdge: number, flip: boolean, water: [number, number] | null, ticks: [number, string?][], air: [number, number] | null = null) => {
   const sg = flip ? 1 : -1, Y = (t: number) => yEdge + sg * t, end = BODY + SHOULDER + NECK;
   const body = () => {
     c.moveTo(bx - HALF, Y(BODY)); c.lineTo(bx - HALF, Y(24)); c.quadraticCurveTo(bx - HALF, Y(0), bx - HALF + 24, Y(0)); c.lineTo(bx + HALF - 24, Y(0)); c.quadraticCurveTo(bx + HALF, Y(0), bx + HALF, Y(24)); c.lineTo(bx + HALF, Y(BODY));
@@ -187,6 +190,7 @@ const bottle = (c: Ctx, bx: number, yEdge: number, flip: boolean, water: [number
     c.bezierCurveTo(bx - NECKW, Y(BODY + SHOULDER * 0.5), bx - HALF, Y(BODY + SHOULDER * 0.8), bx - HALF, Y(BODY)); c.closePath();
   };
   if (water) { c.save(); c.beginPath(); body(); c.clip(); c.fillStyle = COL.water; c.fillRect(bx - 150, Math.min(Y(water[0]), Y(water[1])), 300, Math.abs(Y(water[1]) - Y(water[0]))); c.restore(); }
+  if (air) { c.save(); c.beginPath(); body(); c.clip(); c.fillStyle = "rgba(255,255,255,0.85)"; c.fillRect(bx - 150, Math.min(Y(air[0]), Y(air[1])), 300, Math.abs(Y(air[1]) - Y(air[0]))); c.restore(); }
   shape(c, body, "rgba(235,245,252,0.28)", 6);
   shade(c, body, COL.glassEdge, -26, 0, 0.3);
   shape(c, () => rrect(c, bx - NECKW - 7, Math.min(Y(end), Y(end - 12)), (NECKW + 7) * 2, 12, 5), COL.paper, 5);
@@ -196,18 +200,23 @@ const bottle = (c: Ctx, bx: number, yEdge: number, flip: boolean, water: [number
   for (const [t, lab] of ticks) { const y = Y(6 + t * 0.25); line(c, [[tx + 8, y], [tx + 8 + (lab ? 24 : 16), y]], 3.5); if (lab) write(c, lab, tx + 38, y - 8, 16, INK, 3.5); }
 };
 const bucket = (c: Ctx, waterY: number, front: boolean) => {
-  const xl = 380, xr = 900, rimY = 440, botY = 900, inset = 50, edge = (y: number, s: number) => (s < 0 ? xl : xr) - s * inset * ((y - rimY) / (botY - rimY)) * -1;
+  const xl = 380, xr = 900, rimY = 440, botY = 900, inset = 50, cx = (xl + xr) / 2, rx = (xr - xl) / 2, ry = 36;
   const body = () => { c.moveTo(xl, rimY); c.lineTo(xr, rimY); c.lineTo(xr - inset, botY); c.lineTo(xl + inset, botY); c.closePath(); };
+  const wl = xl + inset * ((waterY - rimY) / (botY - rimY)), wr = xr - inset * ((waterY - rimY) / (botY - rimY));
   if (!front) {
     shadow(c, 660, botY + 10, 330, 34);
+    for (const sx of [xl, xr]) { const d = sx < cx ? -1 : 1; line(c, [[sx, rimY + 20], [sx + d * 50, rimY + 10], [sx + d * 50, rimY + 90], [sx - d * 4, rimY + 100]], 16, INK); line(c, [[sx, rimY + 20], [sx + d * 50, rimY + 10], [sx + d * 50, rimY + 90], [sx - d * 4, rimY + 100]], 7, COL.steelIn); }
     shape(c, body, "rgba(255,255,255,0.4)", 0);
     c.save(); c.beginPath(); body(); c.clip(); c.fillStyle = COL.water; c.fillRect(0, waterY, D, D); c.restore();
-    line(c, [[edge(waterY, -1) + 8, waterY], [edge(waterY, 1) - 8, waterY]], 5, COL.drop);
+    shape(c, () => ell(c, cx, waterY, (wr - wl) / 2, 26), COL.drop, 0);
+    shape(c, () => ell(c, cx, rimY, rx, ry), "rgba(214,236,250,0.5)", 6);
   } else {
-    shape(c, body, "rgba(214,236,250,0.22)", 6);
+    shape(c, body, "rgba(214,236,250,0.22)", 0);
+    c.beginPath(); c.moveTo(xl, rimY); c.lineTo(xl + inset, botY); c.lineTo(xr - inset, botY); c.lineTo(xr, rimY); c.strokeStyle = INK; c.lineWidth = 6; c.lineJoin = "round"; c.stroke();
     shade(c, body, COL.glassEdge, -40, 0, 0.25);
-    shape(c, () => rrect(c, xl - 14, rimY - 14, xr - xl + 28, 28, 12), COL.steelIn, 6);
-    shine(c, [[xl + 40, rimY + 60], [xl + 80, botY - 90]], 9);
+    c.beginPath(); c.ellipse(cx, rimY, rx, ry, 0, 0, Math.PI); c.strokeStyle = INK; c.lineWidth = 18; c.stroke();
+    c.beginPath(); c.ellipse(cx, rimY, rx, ry, 0, 0, Math.PI); c.strokeStyle = COL.steelIn; c.lineWidth = 8; c.stroke();
+    shine(c, [[xl + 40, rimY + 80], [xl + 80, botY - 90]], 9);
   }
 };
 const TUBE = [[240, 335], [330, 355], [368, 430], [404, 520], [430, 760], [470, 860], [560, 905], [640, 890], [640, 700]];
@@ -256,12 +265,12 @@ const e3_2 = (c: Ctx) => {
   blower(c, 140, 300, 72, 720, 1);
   counter(c, 720);
   bucket(c, 505, false);
-  bottle(c, 640, 130, true, [375 + 6, 605], fullTicks);
-  line(c, [[650, 511], [738, 511]], 6, COL.drop);
+  bottle(c, 640, 130, true, [375 + 6, 605], fullTicks, [0, 375 + 6]);
+  line(c, [[650, 511], [738, 511]], 8, RED);
   tube(c, TUBE);
   for (const [bx, by, br] of [[632, 690, 9], [650, 650, 12], [636, 610, 8], [648, 575, 10]]) bubble(c, bx, by, br);
   bucket(c, 505, true);
-  line(c, [[556, 511], [584, 511]], 8, RED);
+  line(c, [[548, 511], [584, 511]], 8, RED);
   holdBottle(c);
   arrow(c, [[250, 270], [340, 285]]);
 };

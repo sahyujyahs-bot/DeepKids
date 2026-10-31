@@ -172,6 +172,7 @@ function mergeIn(a, b) {
     quiz: { ...(b.quiz || {}), ...(a.quiz || {}) },
     work: mergeById(a.work, b.work),
     moments: mergeById(a.moments, b.moments),
+    interests: mergeById(a.interests, b.interests),
     mins: (() => {
       const m = { ...(b.mins || {}) };
       Object.entries(a.mins || {}).forEach(([k, v]) => {

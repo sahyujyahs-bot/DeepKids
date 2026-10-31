@@ -56,6 +56,7 @@ const sitKid = (c: Ctx, handOnChest = true) => {
   shape(c, () => rrect(c, KX - h * 0.24, SEAT - h * 0.5, h * 0.045, h * 0.52, 8), COL.wood, 5);
   shape(c, () => rrect(c, KX - h * 0.24, SEAT, h * 0.46, h * 0.045, 8), COL.wood, 5);
   person(c, KX, SEAT, h, { sit: true, armR: handOnChest ? [Math.PI * 0.4, 3.55] : undefined });
+  if (handOnChest) hand(c, 335, 498, Math.PI + 0.25, 0.8, SKIN.child, CLOTH.child, true);
   for (const s of [-1, 1]) {
     const sx = KX + h * 0.3 + s * h * 0.03;
     thick(c, [[sx, SEAT], [sx, FY - 14]], h * 0.065, "#6b5a8c");
@@ -182,15 +183,18 @@ const e2s1 = (c: Ctx) => {
   thick(c, [[356, 322], [326, 840]], 14, COL.pink);
   shape(c, () => ell(c, 350, 322, 14, 11), "#b9794f", 4);
   bubbles(c, [[318, 800, 14], [345, 760, 10], [296, 735, 9], [338, 690, 12], [316, 640, 8]]);
-  // the grown-up squeezes an empty bottle held upside down over the other glass
-  shape(c, () => rrect(c, 692, 70, 196, 330, 40), COL.glass, 6);
-  shape(c, () => rrect(c, 756, 396, 68, 52, 8), COL.glass, 6);
-  shape(c, () => rrect(c, 746, 438, 88, 16, 5), COL.blue, 5);
-  shine(c, [[716, 120], [716, 340]], 9);
-  thick(c, [[790, 444], [800, 850]], 14, COL.pink);
+  // the grown-up squeezes an empty plastic bottle held upside down: pinched waist, ribs, narrow neck
+  const bt = () => { c.moveTo(722, 70); c.lineTo(858, 70); c.quadraticCurveTo(892, 70, 892, 104); c.lineTo(892, 330); c.quadraticCurveTo(892, 372, 846, 394); c.lineTo(826, 412); c.lineTo(826, 450); c.lineTo(756, 450); c.lineTo(756, 412); c.lineTo(736, 394); c.quadraticCurveTo(688, 372, 688, 330); c.lineTo(688, 300); c.quadraticCurveTo(750, 250, 688, 200); c.lineTo(688, 104); c.quadraticCurveTo(688, 70, 722, 70); c.closePath(); };
+  shape(c, bt, "#d6ecfa", 6);
+  shade(c, bt, COL.glassEdge, 30, 0, 0.35);
+  line(c, [[700, 110], [880, 110]], 5, COL.glassEdge); line(c, [[700, 132], [880, 132]], 5, COL.glassEdge);
+  line(c, [[704, 345], [876, 345]], 5, COL.glassEdge);
+  shape(c, () => rrect(c, 746, 440, 88, 16, 5), COL.blue, 5);
+  shine(c, [[712, 150], [712, 190]], 9); shine(c, [[712, 310], [720, 350]], 9);
+  thick(c, [[790, 446], [800, 850]], 14, COL.pink);
   bubbles(c, [[820, 800, 14], [776, 770, 10], [830, 720, 9], [782, 680, 12], [816, 630, 8]]);
-  hand(c, 895, 250, Math.PI, 1.5, SKIN.adult, CLOTH.adult);
-  arrow(c, [[570, 250], [670, 250]]);
+  hand(c, 925, 250, Math.PI, 1.75, SKIN.adult, CLOTH.adult);
+  arrow(c, [[560, 250], [650, 250]]);
 };
 // e2.2
 const e2s2 = (c: Ctx) => {
@@ -241,20 +245,19 @@ const sugarHeap = (c: Ctx, r: number) => {
   line(c, [[r * 0.61, r * 0.28], [r * 0.82, r * 0.28]], 3, "#c9c2b0");
 };
 const saltHeap = (c: Ctx, r: number) => {
-  mound(c, r, "#e6dce2", "#bdaeb8");
-  grains(c, r, 30, 5, "#b9aab4", r * 0.07);
-  grains(c, r, 22, 6, "#f6e9ee", r * 0.07);
-  grains(c, r, 8, 7, "#d9a5b0", r * 0.09);
+  mound(c, r, "#eef0f2", "#c3c8cf");
+  grains(c, r, 70, 5, "#ffffff", r * 0.045);
+  grains(c, r, 50, 6, "#b4bcc6", r * 0.045);
 };
+// a round biscuit with a bite out of it and a few crumbs
 const crumbHeap = (c: Ctx, r: number) => {
+  shape(c, () => ell(c, 0, -r * 0.1, r * 0.62, r * 0.62), "#e0a85a", 6);
+  shade(c, () => ell(c, 0, -r * 0.1, r * 0.62, r * 0.62), "#b9772f", r * 0.18, r * 0.12, 0.5);
+  c.save(); c.beginPath(); ell(c, 0, -r * 0.1, r * 0.62, r * 0.62); c.clip(); shape(c, () => ell(c, r * 0.55, r * 0.35, r * 0.3, r * 0.26), "#ffffff", 0); c.restore();
+  c.beginPath(); c.arc(r * 0.55, r * 0.35, r * 0.3, Math.PI * 0.9, Math.PI * 1.6); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  for (const [dx, dy] of [[-0.25, -0.35], [0.1, -0.5], [-0.35, -0.05], [0, -0.15], [-0.1, 0.2], [0.3, -0.3]]) shape(c, () => ell(c, dx * r, dy * r, r * 0.05, r * 0.05), "#7a4a2a", 0);
   const g = rnd(11);
-  for (let i = 0; i < 9; i++) {
-    const cx = (g() - 0.5) * r * 1.1, cy = (g() - 0.5) * r * 0.5, cr = r * (0.2 + g() * 0.14);
-    c.save(); c.translate(cx, cy);
-    shape(c, () => polyP(c, [[-cr, 0], [-cr * 0.4, -cr * 0.9], [cr * 0.6, -cr * 0.7], [cr, cr * 0.1], [cr * 0.2, cr * 0.8], [-cr * 0.6, cr * 0.6]]), "#e0a85a", 4.5);
-    shape(c, () => ell(c, cr * 0.2, -cr * 0.1, cr * 0.18, cr * 0.18), "#7a4a2a", 0);
-    c.restore();
-  }
+  for (let i = 0; i < 6; i++) { const cx = (g() - 0.2) * r * 1.1, cy = r * 0.4 + g() * r * 0.15; c.save(); c.translate(cx, cy); c.rotate(g() * 3); shape(c, () => rrect(c, -9, -7, 18, 14, 4), "#e0a85a", 3.5); c.restore(); }
 };
 const dotted = (c: Ctx, x: number, y0: number, y1: number) => { for (let y = y0; y <= y1; y += 26) shape(c, () => ell(c, x, y, 5, 5), "rgba(43,35,64,0.45)", 0); };
 // e3.0

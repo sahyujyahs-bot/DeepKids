@@ -126,38 +126,97 @@ async function afterUpgrade() {
 // a message read on the phone, part by part: sentences, and "and her grandmother visits…" style second parts
 // (not "Mondays and Wednesdays"); the child's name and "goes to" come off titles; rest and meals with no days
 // are every day. Only the parts that give nothing go to AI.
-const lifeName = () => (S.child || "").trim().split(/\s+/)[0];
+const lifeName = () =>
+  (S.child || "")
+    .trim()
+    .split(/\s+/)[0]
+    .replace(/[^A-Za-z]/g, "");
+// "She is interested in…", "loves…", "is into…": interests, kept per child, never on the calendar
+const INTEREST =
+  /\b(?:interested in|loves?|likes?|enjoys?|is into|really into|fascinated by|obsessed with|curious about|crazy about|mad about)\s+(.+)/i;
+const SUBJW =
+  /^(art|arts|craft|crafts|music|dance|science|chemistry|physics|biology|maths|math|history|geography|coding|reading|writing|stitching|sewing|cooking|baking|gardening|drawing|painting|singing|space|animals|plants|rocks|robots|chess|football|cricket|swimming|insects|birds|stories|poetry|languages)$/;
+// one interest per comma or "and"; a short run of words with no commas splits too when each word is something the
+// activity library knows ("stitching chemistry art")
+function interestsOf(t) {
+  const L = t
+    .replace(/[.!]+$/, "")
+    .split(/,|\band\b|&|\//i)
+    .map((x) => x.trim())
+    .filter(Boolean);
+  const known = (w) =>
+    SUBJW.test(w) ||
+    (DATA.life?.acts || []).some((a) => a.words.includes(w) || a.name.toLowerCase().split(/\W+/).includes(w));
+  return L.flatMap((x) => {
+    const W = x.toLowerCase().split(/\s+/);
+    return W.length > 1 && W.length <= 5 && W.every(known) ? W : [x];
+  }).map((x) => x[0].toUpperCase() + x.slice(1));
+}
+const TITLEFILL =
+  /\b(everyday|every day|daily|weekdays|weekends|only|on|at|from|to|a\.?m\.?|p\.?m\.?|in the (morning|evening|afternoon))\b/gi;
 function readOnPhone(text) {
   const nm = lifeName(),
-    joiner = new RegExp(
-      `\\s+(?:and|also|plus|then)\\s+(?=(?:her|his|my|our|we|she|he|they|their|i|on|every${nm ? "|" + nm.replace(/[^\\w]/g, "") : ""})\\b)`,
-      "i",
-    ),
+    who = `her|his|my|our|we|she|he|they|their|i|on|every${nm ? "|" + nm : ""}`,
+    joiner = new RegExp(`\\s+(?:and|also|plus|then)\\s+(?=(?:${who})\\b)`, "i"),
     parts = text
+      .replace(/\b([ap])\.m\./gi, "$1m")
       .split(/(?<=[.;!?\n])\s+|\n+/)
       .flatMap((t) => t.split(joiner))
-      .map((t) => t.trim())
+      .map((t) =>
+        t
+          .trim()
+          // "Liri goes to…", "She has…": the person at the start isn't part of the title
+          .replace(
+            /^(?:[A-Z][a-z]+(?:'s)?|she|he|they|we)\s+(?=(?:goes|go|has|have|attends|attend|does|will|is|are|learns|takes|plays|joins)\b)/i,
+            "",
+          )
+          // "everyday … only on weekdays": the narrower days win
+          .replace(/\b(?:every ?day|daily)\b(?=.*\bonly\b.*\b(?:weekdays|weekends|mon|tue|wed|thu|fri|sat|sun))/i, ""),
+      )
       .filter((t) => t.length > 2),
     items = [],
     asks = [],
     left = [];
   parts.forEach((t) => {
+    const I = t.match(INTEREST);
+    if (I && !/\b\d|(mon|tue|wed|thu|fri|sat|sun)[a-z]*\b/i.test(t)) {
+      interestsOf(I[1]).forEach((x) => items.push({ type: "interest", title: x, who: "kid", keep: true }));
+      return;
+    }
     const R = localParse(t);
     if (!R.items.length) return left.push(t);
     R.asks.forEach((a) => asks.push({ ...a, i: a.i + items.length }));
     items.push(...R.items);
   });
-  items.forEach((x, i) => {
+  const nameRe = nm ? new RegExp(`^${nm}('s)?\\s+`, "i") : null;
+  for (let i = 0; i < items.length; i++) {
+    const x = items[i];
+    if (x.type === "interest") continue;
     x.title = x.title
-      .replace(new RegExp(`^${nm ? nm.replace(/[^\\w]/g, "") + "('s)?\\s+" : "^$"}`, "i"), "")
+      .replace(nameRe || /^\b$/, "")
       .replace(/^(goes to|go to|has|attends|does|will go to|is going to)\s+/i, "")
-      .replace(/^./, (c) => c.toUpperCase());
+      .replace(TITLEFILL, "")
+      .replace(/\s+/g, " ")
+      .trim();
+    // "only on weekdays": a part that only changes the days of the thing before it
+    if ((!x.title || /^(only|also|just|but)$/i.test(x.title)) && i > 0 && items[i - 1].type !== "interest") {
+      if (x.days?.length) items[i - 1].days = x.days;
+      if (x.start && !items[i - 1].start) [items[i - 1].start, items[i - 1].end] = [x.start, x.end];
+      items.splice(i, 1);
+      for (let k = asks.length - 1; k >= 0; k--) {
+        if (asks[k].i === i) asks.splice(k, 1);
+        else if (asks[k].i > i) asks[k].i--;
+      }
+      i--;
+      continue;
+    }
+    x.title = x.title.replace(/^./, (c) => c.toUpperCase());
     if ((x.type === "rest" || x.type === "meal") && !x.days?.length && !x.date) {
       x.days = [0, 1, 2, 3, 4, 5, 6];
       for (let k = asks.length - 1; k >= 0; k--)
         if (asks[k].i === i && /which days/i.test(asks[k].q)) asks.splice(k, 1);
     }
-  });
+  }
   return { items, asks, left };
 }
 function localDump(text) {

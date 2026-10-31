@@ -21,30 +21,38 @@ const box = (c: Ctx, x: number, y: number, w: number, h: number, dx: number, dy:
   shape(c, () => polyP(c, [[x, y - h], [x + w, y - h], [x + w, y], [x, y]]), front, lw);
 };
 const BK = { dx: 28, dy: -18 };
+// a book lying flat, its page edges towards us between two covers
 const book = (c: Ctx, x: number, y: number, w: number, h: number, col: string, top: string, side: string) => {
-  box(c, x, y, w, h, BK.dx, BK.dy, col, top, side);
-  shape(c, () => polyP(c, [[x + 16, y - h + 8], [x + w - 3, y - h + 8], [x + w - 3, y - 8], [x + 16, y - 8]]), COL.paper, 3);
+  box(c, x, y, w, h, BK.dx, BK.dy, COL.paper, top, side);
+  const cv = Math.max(9, h * 0.2);
+  shape(c, () => polyP(c, [[x, y - h], [x + w, y - h], [x + w, y - h + cv], [x, y - h + cv]]), col, 4);
+  shape(c, () => polyP(c, [[x, y - cv], [x + w, y - cv], [x + w, y], [x, y]]), col, 4);
+  if (h > 60) line(c, [[x + 8, y - h / 2], [x + w - 8, y - h / 2]], 3, "#b9b4ab");
 };
 const BOOKS: [string, string, string][] = [[COL.purple, "#a58be0", "#6d52a8"], [COL.orange, "#f7b46a", "#c97a20"], [COL.green, COL.greenLt, COL.greenDk], [COL.pink, "#f8bccd", "#c9708b"], [COL.blue, "#8db4ea", COL.blueDk], [COL.yellow, "#ffe58a", "#d9ad1f"]];
-const DX = 80, DY = -50; // the way a bottle lying on its side goes back
+const DX = 80, DY = -50; // the way a board goes back
+const BX = DX * 2, BY = DY * 2; // the way a bottle lying on its side goes back
 const board = (c: Ctx, x: number, y: number, w: number) => box(c, x, y, w, 24, DX, DY, COL.wood, "#f8d98a", COL.woodDk);
 
 type Kind = "open" | "cap" | "water";
-// a bottle lying on its side, its neck end towards us at (x, y), the body going back to the upper right
+// a bottle lying on its side: the neck end towards us at (x, y), the body (rx wide, ry high; squashed flat when ry is small) going back to the upper right
 const lying = (c: Ctx, x: number, y: number, rx: number, ry: number, kind: Kind) => {
-  const pts: number[][] = [];
-  for (let i = 0; i < 48; i++) { const a = (i / 48) * Math.PI * 2; for (const [ox, oy] of [[0, 0], [DX, DY]]) pts.push([x + ox + Math.cos(a) * rx, y + oy + Math.sin(a) * ry]); }
-  const H = hull(pts), body = () => polyP(c, H), wet = kind === "water";
-  shadow(c, x + DX / 2 + 24, y + ry - 4, rx + DX / 2 + 30, 22);
-  shape(c, body, wet ? COL.water : "#d6ecfa");
-  dark(c, body, wet ? COL.waterDk : COL.glassEdge, 26, -14, 0.55);
-  shine(c, [[x - rx * 0.5, y - ry * 0.75], [x + DX * 0.85 - rx * 0.4, y + DY * 0.85 - ry * 0.8]], 8);
-  shape(c, () => ell(c, x, y, rx, ry), wet ? COL.water : "#e6f3fc");
-  if (ry >= 30) shape(c, () => ell(c, x, y, rx * 0.55, ry * 0.55), wet ? COL.waterDk : "#cfe3f2", 4);
-  if (ry < 30) for (const t of [0.35, 0.65]) line(c, [[x + DX * t - rx * 0.85, y + DY * t], [x + DX * t - rx * 0.3, y + DY * t - 5], [x + DX * t + rx * 0.3, y + DY * t + 4], [x + DX * t + rx * 0.85, y + DY * t]], 3);
-  if (ry < 30) shape(c, () => ell(c, x - rx * 0.62, y, rx * 0.2, ry * 0.7), COL.steelDk, 4);
-  else if (kind === "open") shape(c, () => ell(c, x, y, rx * 0.3, ry * 0.3), "#4f6f8a", 4);
-  else shape(c, () => ell(c, x, y, rx * 0.34, ry * 0.34), COL.blue, 5);
+  const at = (t: number) => [x + BX * t, y + BY * t];
+  const ring = (t: number, a: number, b: number) => { const [cx, cy] = at(t); const q: number[][] = []; for (let i = 0; i < 40; i++) { const an = (i / 40) * Math.PI * 2; q.push([cx + Math.cos(an) * a, cy + Math.sin(an) * b]); } return q; };
+  const rn = 26, capped = kind !== "open";
+  const body = () => polyP(c, hull([...ring(0.12, rn, rn), ...ring(0.3, rx, ry), ...ring(1, rx, ry)]));
+  const neck = () => polyP(c, hull([...ring(0, rn, rn), ...ring(0.12, rn, rn)]));
+  shadow(c, x + BX * 0.5 + 30, y + ry + BY * 0.5 + 6, rx + BX * 0.5 + 20, 22);
+  shape(c, body, "#d6ecfa");
+  dark(c, body, COL.glassEdge, 26, -14, 0.55);
+  const [sx, sy] = at(0.3); line(c, [[sx - rx, sy], [sx, sy + ry], [sx + rx * 0.7, sy + ry * 0.7]], 3, COL.glassEdge);
+  shine(c, [[sx - rx * 0.4, sy - ry * 0.8], [x + BX * 0.9 - rx * 0.4, y + BY * 0.9 - ry * 0.8]], 8);
+  if (ry < 30) for (const t of [0.45, 0.6, 0.75, 0.9]) { const [wx, wy] = at(t); line(c, [[wx - rx * 0.85, wy + ry * 0.2], [wx - rx * 0.3, wy - 7], [wx + rx * 0.3, wy + 5], [wx + rx * 0.85, wy - ry * 0.2]], 3); }
+  shape(c, neck, capped ? COL.blue : "#e6f3fc");
+  if (capped) dark(c, neck, COL.blueDk, 14, -8, 0.7);
+  shape(c, () => ell(c, x, y, rn, rn), capped ? COL.blue : "#eaf4fb", 5);
+  if (capped) shape(c, () => ell(c, x, y, rn * 0.55, rn * 0.55), "#8db4ea", 4);
+  else shape(c, () => ell(c, x, y, rn * 0.62, rn * 0.62), "#4f6f8a", 4);
 };
 // a bottle standing at (x, y); kind open = no cap, cap = capped and empty, water = full and capped
 const standing = (c: Ctx, x: number, y: number, w: number, h: number, kind: Kind, o: { waist?: number; level?: number } = {}) => {
@@ -86,14 +94,18 @@ const ruler = (c: Ctx, x: number, gy: number) => {
 };
 const level = (c: Ctx, x0: number, x1: number, y: number) => { c.save(); c.setLineDash([16, 12]); line(c, [[x0, y], [x1, y]], 5, RED); c.restore(); };
 
-// ---- the stack of two lying bottles with the board across them (L, R = the bottles' fronts; top = height of the board's front top edge)
-const L = 430, R = 720, RB = 100;
+// ---- the stack of two lying bottles with the board across them (L, R = the bottles' neck ends)
+const L = 430, R = 720;
+const FLAT = 18, ROUND = 73;
+const topOf = (flat: boolean) => GY - 2 * (flat ? FLAT : ROUND) - 74; // height of the board's front top edge
+// the bottles lying side by side, a book against the outside of each so they cannot roll, the board across the middle of them
 const stack = (c: Ctx, kind: Kind, flat: boolean) => {
-  const ry = flat ? 16 : RB;
-  lying(c, L, GY - ry, RB, ry, kind); lying(c, R, GY - ry, RB, ry, kind);
-  const top = GY - 2 * ry - 24;
-  board(c, 270, top + 24, 610);
-  return top;
+  const ry = flat ? FLAT : ROUND, rx = flat ? 100 : ROUND;
+  book(c, L - 185, GY - 45, 120, 90, BOOKS[3][0], BOOKS[3][1], BOOKS[3][2]);
+  lying(c, L, GY - ry, rx, ry, kind); lying(c, R, GY - ry, rx, ry, kind);
+  book(c, R + 168, GY - 45, 120, 90, BOOKS[3][0], BOOKS[3][1], BOOKS[3][2]);
+  board(c, 330, GY - 2 * ry - 50, 610);
+  return topOf(flat);
 };
 
 // setup.e1.0
@@ -106,34 +118,39 @@ const e1_0 = lift((c: Ctx) => {
 const e1_1 = lift((c: Ctx) => {
   towel(c); ruler(c, 40, GY);
   const top = stack(c, "open", false);
-  book(c, L - RB - 120, GY, 120, 80, BOOKS[3][0], BOOKS[3][1], BOOKS[3][2]); book(c, R + RB, GY, 120, 80, BOOKS[3][0], BOOKS[3][1], BOOKS[3][2]);
-  level(c, 104, 268, top);
+  level(c, 104, 330, top);
 });
 // setup.e1.2
 const e1_2 = lift((c: Ctx) => {
-  towel(c); ruler(c, 40, GY);
+  towel(c);
+  person(c, 200, GY, 360, { armL: [2.0, 2.5] });
+  ruler(c, 40, GY);
   const top = stack(c, "open", true);
-  for (let i = 0; i < 5; i++) { const b = BOOKS[i]; book(c, 350 + (i % 2) * 14, top - 6 - i * 50, 380, 46, b[0], b[1], b[2]); }
-  level(c, 104, 268, top);
-  person(c, 215, GY, 470, { armL: [1.9, 2.0] });
+  for (let i = 0; i < 5; i++) { const b = BOOKS[i]; book(c, 400 + (i % 2) * 14, top - 20 - i * 46, 380, 42, b[0], b[1], b[2]); }
+  const was = topOf(false);
+  c.save(); c.setLineDash([16, 12]); line(c, [[104, was], [330, was]], 5, COL.greyDk); c.restore();
+  level(c, 104, 330, top);
+  arrow(c, [[135, was + 14], [135, top - 14]]);
 });
 // setup.e1.3
 const e1_3 = lift((c: Ctx) => {
   towel(c); ruler(c, 40, GY);
   const top = stack(c, "cap", false);
-  level(c, 104, 268, top);
-  person(c, 575, top - 26, 380, { sit: true, armR: [0.6, -0.5] });
-  person(c, 960, GY, 700, { adult: true, armL: [2.5, 2.58] });
+  level(c, 104, 330, top);
+  person(c, 960, GY, 640, { adult: true, armL: [2.4, 2.75], armR: [1.65, 1.55] });
+  person(c, 560, top - 20, 380, { sit: true, armL: [3.3, 3.1], armR: [0.05, 0.2] });
 });
 // setup.e1.4
 const e1_4 = (c: Ctx) => {
   ground(c);
-  const one = (bx: number, waist: number, kind: Kind) => {
+  // a capped empty bottle gives (dented deep, creased), a capped full one stays round
+  const one = (bx: number, waist: number, kind: Kind, gap: number) => {
     standing(c, bx, 940, 170, 640, kind, { waist });
-    hand(c, bx - 138, 700, 0, 1.2, SKIN.child, CLOTH.child); hand(c, bx + 138, 700, Math.PI, 1.2, SKIN.child, CLOTH.child);
-    arrow(c, [[bx - 215, 540], [bx - 125, 540]]); arrow(c, [[bx + 215, 540], [bx + 125, 540]]);
+    if (waist) for (const [dx, dy] of [[-30, 0], [26, 14], [-24, 70], [30, -50]]) line(c, [[bx + dx, 640 + dy], [bx + dx * 0.3, 662 + dy]], 4, COL.glassEdge);
+    hand(c, bx - gap - 94, 700, 0, 1.2, SKIN.child, CLOTH.child); hand(c, bx + gap + 94, 700, Math.PI, 1.2, SKIN.child, CLOTH.child);
+    arrow(c, [[bx - gap - 170, 540], [bx - gap - 50, 540]]); arrow(c, [[bx + gap + 170, 540], [bx + gap + 50, 540]]);
   };
-  one(280, 0.8, "cap"); one(800, 0, "water");
+  one(280, 1.5, "cap", 32); one(800, 0, "water", 85);
 };
 // setup.e1.5
 const e1_5 = (c: Ctx) => {
@@ -144,15 +161,20 @@ const e1_5 = (c: Ctx) => {
   dark(c, () => rrect(c, 120, 800, 840, 190, 28), COL.steelDk, 0, 30, 0.55);
   shape(c, () => ell(c, 540, 900, 46, 20), COL.steelDk, 5);
   line(c, [[930, 770], [930, 640], [800, 640], [800, 690]], 40, INK); line(c, [[930, 770], [930, 640], [800, 640], [800, 690]], 28, COL.steel);
-  standing(c, 520, 740, 210, 640, "open", { waist: 0.6, level: 0.9 });
-  line(c, [[520 - 40, 740 - 640 * 0.84], [520 + 40, 740 - 640 * 0.84]], 7, INK);
-  hand(c, 345, 560, 0, 1.4, SKIN.child, CLOTH.child); hand(c, 695, 560, Math.PI, 1.4, SKIN.child, CLOTH.child);
-  arrow(c, [[640, 330], [640, 190]]);
+  standing(c, 520, 740, 210, 640, "open", { waist: 1.2, level: 0.92 });
+  const mark = 740 - 640 * 0.8, now = 740 - 640 * 0.92;
+  line(c, [[520 - 62, mark], [520 + 62, mark]], 8, INK);
+  line(c, [[520 + 62, mark], [600, mark]], 4, COL.greyDk); line(c, [[520 + 40, now], [600, now]], 4, COL.greyDk);
+  arrow(c, [[600, mark - 4], [600, now - 4]]);
+  hand(c, 358, 540, 0, 1.4, SKIN.child, CLOTH.child); hand(c, 682, 540, Math.PI, 1.4, SKIN.child, CLOTH.child);
+  arrow(c, [[250, 430], [400, 430]]); arrow(c, [[790, 430], [640, 430]]);
 };
 
 // ---- paper columns
+// how far a crushed paper column bulges at each fold, from top to bottom
+const CRUSH = [0, 3, 14, 42, 54, 40, 12, 3, 0];
 const tube = (c: Ctx, x: number, y: number, h: number, crumple = 0) => {
-  const r = 95, ry = 28, n = 8, off = (i: number) => (i === 0 || i === n ? 0 : crumple * (i % 2 ? 16 : -10));
+  const r = 95, ry = 28, n = 8, off = (i: number) => (crumple ? CRUSH[i] : 0);
   const body = () => {
     c.moveTo(x - r, y - h);
     for (let i = 1; i <= n; i++) c.lineTo(x - r - off(i), y - h + (h * i) / n);
@@ -162,7 +184,7 @@ const tube = (c: Ctx, x: number, y: number, h: number, crumple = 0) => {
   };
   shadow(c, x + 26, y + 8, r + 30, ry);
   shape(c, body, COL.paper); dark(c, body, "#d9cfb8", 40, 0, 0.8);
-  if (crumple) for (let i = 1; i < n; i++) line(c, [[x - r - off(i), y - h + (h * i) / n], [x + r + off(i), y - h + (h * i) / n + 8]], 3, "#9a8f7a");
+  if (crumple) for (let i = 1; i < n; i++) line(c, [[x - r - off(i), y - h + (h * i) / n], [x + r + off(i), y - h + (h * i) / n + (i % 2 ? 26 : -4)]], 3, "#9a8f7a");
   shape(c, () => ell(c, x, y - h, r, ry), "#cfc4ad");
 };
 // setup.e2.0
@@ -195,18 +217,16 @@ const e2_1 = (c: Ctx) => { ground(c); triangle(c, 420, 0); };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
   ground(c);
-  const fy = triangle(c, 330, 1, -180);
-  for (let i = 0; i < 5; i++) { const b = BOOKS[i]; book(c, 215 + (i % 2) * 12, fy - 50 - i * 46, 350, 42, b[0], b[1], b[2]); }
-  c.save(); c.translate(0, -130);
-  shadow(c, 850, 960, 150, 22);
-  shape(c, () => rrect(c, 700, 540, 260, 360, 8), "#ffffff");
-  for (const y of [630, 720, 810]) line(c, [[700, y], [960, y]], 4, "#8a8fa6");
-  line(c, [[800, 540], [800, 900]], 4, "#8a8fa6");
-  write(c, "1", 740, 565, 44); write(c, "2", 740, 655, 44); write(c, "3", 740, 745, 44); write(c, "2", 855, 565, 44); write(c, "4", 855, 655, 44);
-  line(c, [[880, 790], [1000, 955]], 22, INK); line(c, [[880, 790], [1000, 955]], 12, COL.orange);
-  write(c, "6", 850, 745, 44, COL.blueDk);
-  hand(c, 993, 943, -2.2, 1.4, SKIN.child, CLOTH.child);
-  c.restore();
+  const fy = triangle(c, 250, 1, -180);
+  for (let i = 0; i < 5; i++) { const b = BOOKS[i]; book(c, 200 + (i % 2) * 12, fy - 50 - i * 46, 350, 42, b[0], b[1], b[2]); }
+  // the chart: a book picture over the number of books it held, being written
+  shadow(c, 870, 790, 150, 22);
+  shape(c, () => rrect(c, 730, 330, 270, 440, 8), "#ffffff");
+  book(c, 790, 480, 130, 56, BOOKS[4][0], BOOKS[4][1], BOOKS[4][2]);
+  line(c, [[750, 530], [980, 530]], 4, "#8a8fa6");
+  write(c, "5", 830, 575, 130, COL.blueDk, 14);
+  line(c, [[868, 706], [928, 788]], 24, INK); line(c, [[868, 706], [928, 788]], 14, COL.orange);
+  hand(c, 968, 844, -2.2, 1.4, SKIN.child, CLOTH.child);
 };
 
 // ---- the tile wall, suckers and the bag

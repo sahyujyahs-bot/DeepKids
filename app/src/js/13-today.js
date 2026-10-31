@@ -5,7 +5,7 @@ const evPast = (i, date) => i.kind === "event" && !i.done && !i.anytime && date 
 function pastEvCard(items) {
   const P = items.filter((i) => evPast(i, today));
   if (!P.length) return "";
-  return `<section class="card pastev"><span class="eyebrow">Did ${P.length > 1 ? "these" : "this"} happen?</span>${P.map((i) => `<div class="row" style="flex-wrap:nowrap;gap:10px;align-items:center"><div style="flex:1;min-width:0"><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end ? "–" + clock(hm(i.ev.end)) : ""} · ${esc(evShort(i.ev))}</span></div><button class="btn green xs" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Done</button><button class="btn line xs" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div>`).join("")}</section>`;
+  return `<section class="card pastev"><span class="eyebrow">Did ${P.length > 1 ? "these" : "this"} happen?</span>${P.map((i) => `<div class="pastrow"><div><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end ? "–" + clock(hm(i.ev.end)) : ""} · ${esc(evShort(i.ev))}</span></div><div class="row"><button class="btn green sm" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Yes, done</button><button class="btn line sm" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div></div>`).join("")}</section>`;
 }
 function ioptsView() {
   const { date, id } = ui.sheet,
@@ -484,8 +484,8 @@ function viewToday() {
   );
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
-  if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   h += firstWeekCard() + fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
+  if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   window.FXANIMED = 1;
   // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
   h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;

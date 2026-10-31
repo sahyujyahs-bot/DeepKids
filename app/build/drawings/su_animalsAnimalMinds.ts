@@ -16,21 +16,23 @@ const tape = (c: Ctx, x: number, yb: number, w: number, h: number, y: number) =>
   const top = w / 2, bot = w * 0.4, half = bot + (top - bot) * ((yb - y) / h);
   shape(c, () => rrect(c, x - half - 4, y - 9, half * 2 + 8, 18, 4), COL.orange, 4);
 };
-// a white thermocol piece (rough block with specks)
+// a white thermocol piece: a rough, lumpy chunk full of tiny holes
 const thermo = (c: Ctx, x: number, y: number, w: number, h: number, rot = 0) => {
   c.save(); c.translate(x, y); c.rotate(rot);
-  shape(c, () => rrect(c, -w / 2, -h / 2, w, h, h * 0.3), WHITE, 5);
-  shade(c, () => rrect(c, -w / 2, -h / 2, w, h, h * 0.3), "#d8d4cb", w * 0.12, h * 0.25);
-  for (const [u, v] of [[-0.25, -0.1], [0.1, 0.15], [0.3, -0.15]]) { c.beginPath(); ell(c, u * w, v * h, 2.5, 2.5); c.fillStyle = COL.grey; c.fill(); }
+  const p = () => polyP(c, [[-0.5, 0.1], [-0.38, -0.4], [-0.1, -0.5], [0.15, -0.38], [0.45, -0.45], [0.5, 0.05], [0.38, 0.45], [0.05, 0.5], [-0.3, 0.4]].map(([u, v]) => [u * w, v * h]));
+  shape(c, p, WHITE, 5);
+  shade(c, p, "#d8d4cb", w * 0.1, h * 0.2);
+  for (const [u, v] of [[-0.3, -0.1], [-0.05, 0.2], [0.25, -0.15], [0.1, -0.25], [0.3, 0.2], [-0.2, 0.25], [0, 0]]) { c.beginPath(); ell(c, u * w, v * h, 3.5, 3.5); c.fillStyle = COL.greyDk; c.fill(); }
   c.restore();
 };
-// the thermocol "worm": a white segmented body with two dot eyes, floating at the water line
+// the thermocol "worm": a flat pink piece with a face, floating on the water line (y is the water line)
 const worm = (c: Ctx, x: number, y: number) => {
-  c.save(); c.translate(x, y); c.scale(1.7, 1.7); c.translate(-x, -y);
-  for (let i = 0; i < 4; i++) shape(c, () => ell(c, x - 54 + i * 36, y - 22 - (i === 3 ? 8 : 0), 24, 22), WHITE, 5);
-  shade(c, () => ell(c, x + 18, y - 22, 24, 22), "#d8d4cb", 8, 8);
-  c.beginPath(); ell(c, x + 96, y - 36, 4, 4); c.fillStyle = INK; c.fill(); c.beginPath(); ell(c, x + 84, y - 36, 4, 4); c.fill();
-  c.restore();
+  const body = () => rrect(c, x - 120, y - 62, 240, 70, 35);
+  c.beginPath(); ell(c, x, y + 4, 150, 14); c.fillStyle = "rgba(255,255,255,0.55)"; c.fill();
+  shape(c, body, COL.pink, 6); shade(c, body, "#d9708f", 0, 26, 0.5);
+  for (const dx of [-30, 20, 70]) line(c, [[x + dx, y - 56], [x + dx + 6, y - 40]], 4, "#d9708f");
+  for (const dx of [78, 106]) { shape(c, () => ell(c, x + dx, y - 38, 13, 15), WHITE, 4); shape(c, () => ell(c, x + dx + 3, y - 36, 6, 7), INK, 0); }
+  c.beginPath(); c.arc(x + 92, y - 22, 12, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
 };
 // the tray under the glass
 const tray = (c: Ctx, x0: number, x1: number, y: number) => {
@@ -58,8 +60,9 @@ const cup = (c: Ctx, x: number, y: number, w: number, h: number) => {
   shine(c, [[x - tw * 0.38, y - h * 0.8], [x - w * 0.4, y - h * 0.15]], 8);
 };
 const coin = (c: Ctx, x: number, y: number, r: number) => {
-  shape(c, () => ell(c, x, y, r, r * 0.9), COL.yellow, 5);
-  shape(c, () => ell(c, x, y, r * 0.6, r * 0.52), COL.orange, 3);
+  shape(c, () => ell(c, x, y, r, r * 0.9), COL.yellow, 6);
+  shape(c, () => ell(c, x, y, r * 0.65, r * 0.58), COL.orange, 4);
+  line(c, [[x - r * 0.3, y - r * 0.2], [x + r * 0.3, y - r * 0.2]], 5, WHITE);
 };
 // three cups in a row on a table with the third tipped up at its left edge; coin slides under it
 const CUPX = [290, 510, 730], CUPY = 880, CUPW = 190, CUPH = 230;
@@ -93,7 +96,8 @@ const bust = (c: Ctx, x: number, hy: number, hr: number, bodyTo: number, o: Bust
     if (eye === "shut") { c.beginPath(); c.arc(ex, ey - hr * 0.04, hr * 0.2, 0.15 * Math.PI, 0.85 * Math.PI); c.strokeStyle = INK; c.lineWidth = 7; c.lineCap = "round"; c.stroke(); }
     else { shape(c, () => ell(c, ex, ey, hr * 0.2, hr * 0.24), WHITE, 4); shape(c, () => ell(c, ex + (o.gx ?? 0) * hr * 0.06, ey + (o.gy ?? 0) * hr * 0.06, hr * 0.11, hr * 0.13), INK, 0); }
   }
-  c.beginPath(); c.arc(x, hy + hr * 0.42, hr * 0.28, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  if (ad) for (const s of [-1, 1]) shape(c, () => ell(c, x + s * hr * 0.2, hy + hr * 0.5, hr * 0.2, hr * 0.08, s * 0.2), CLOTH.hair, 3);
+  c.beginPath(); c.arc(x, hy + hr * (ad ? 0.6 : 0.42), hr * 0.28, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
 };
 // a hand with one finger pointing, wrist at (x, y), pointing at angle an, size s
 const pointHand = (c: Ctx, x: number, y: number, an: number, s = 1, skin: string = SKIN.child, sleeve: string = CLOTH.child) => {
@@ -161,7 +165,7 @@ const e1_0 = (c: Ctx) => {
   glass(c, GX, GB, GW, GH, 0.6);
   tape(c, GX, GB, GW, GH, GB - GH * 0.6);
   tape(c, GX, GB, GW, GH, GB - GH * 0.6 - 100);
-  worm(c, GX - 40, GB - GH * 0.6 + 4);
+  worm(c, GX - 20, GB - GH * 0.6);
   line(c, [[780, GB - GH * 0.6 - 100], [800, GB - GH * 0.6 - 100], [800, GB - GH * 0.6], [780, GB - GH * 0.6]], 6);
   write(c, "2 cm", 830, GB - GH * 0.6 - 78, 46, INK, 7);
 };
@@ -175,7 +179,7 @@ const e1_1 = (c: Ctx) => {
   stone(c, GX - 50, GB - 38, 78, 50, 0.1); stone(c, GX + 70, GB - 44, 70, 54, -0.2);
   tape(c, GX, GB, GW, GH, GB - GH * 0.6);
   tape(c, GX, GB, GW, GH, GB - GH * 0.6 - 100);
-  worm(c, GX - 40, ly + 4);
+  worm(c, GX - 20, ly);
   handL(c, 700, 135, 2.3, CLOTH.child, SKIN.child, 0.5);
   stone(c, 540, 215, 80, 60, 0.3);
   arrow(c, [[400, 130], [400, 250]]);
@@ -184,14 +188,14 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  tray(c, 20, 1060, 730);
-  const xs = [190, 540, 890], yb = 770, w = 290, h = 400, ly = yb - h * 0.75, r = rnd(5);
-  xs.forEach((x) => glass(c, x, yb, w, h, 0.75));
-  stone(c, 140, yb - 44, 62, 44, 0.1); stone(c, 242, yb - 44, 60, 44, -0.2); stone(c, 192, yb - 100, 58, 42, 0.3);
-  for (let row = 0; row < 4; row++) for (let i = 0; i < 6 - row; i++) stone(c, 540 - (5 - row) * 20 + i * 40 + r() * 6, yb - 24 - row * 38, 22, 18, r() * 3);
+  tray(c, 20, 1060, 740);
+  const xs = [170, 540, 910], yb = 780, w = 270, h = 420, ly = yb - h * 0.75, r = rnd(5);
+  glass(c, xs[0], yb, w, h, 0.75); glass(c, xs[1], yb, w, h, 0.75); glass(c, xs[2], yb, w, h, 0.55);
+  stone(c, 120, yb - 44, 62, 44, 0.1); stone(c, 218, yb - 44, 60, 44, -0.2); stone(c, 170, yb - 100, 58, 42, 0.3);
+  for (let row = 0; row < 5; row++) for (let i = 0; i < 7 - row; i++) stone(c, 540 - (6 - row) * 18 + i * 36 + r() * 5, yb - 22 - row * 34, 20, 16, r() * 3);
   xs.forEach((x) => tape(c, x, yb, w, h, ly));
-  for (const [dx, dy, wd, rot] of [[-80, 0, 70, 0.1], [-10, -8, 76, -0.2], [66, -2, 66, 0.15], [-40, -34, 56, 0.4], [30, -38, 58, -0.3]] as number[][]) thermo(c, 890 + dx, ly + dy, wd, 44, rot);
-  xs.forEach((x) => shine(c, [[x - w * 0.3, yb - h * 0.9], [x - w * 0.22, yb - h * 0.6]], 7));
+  const wl = yb - h * 0.55;
+  for (const [dx, dy, wd, rot] of [[-70, 0, 70, 0.1], [0, -6, 78, -0.2], [66, 0, 66, 0.15], [-30, -40, 60, 0.4], [34, -42, 62, -0.3]] as number[][]) thermo(c, 910 + dx, wl + dy - 20, wd, 52, rot);
 };
 
 // the cups for the coin cards: three big cups, the middle one tipped up at its right edge, a hand slipping the coin under
@@ -199,9 +203,9 @@ const coinScene = (c: Ctx, sleeve: string) => {
   table(c, 560);
   cup(c, 220, 800, 230, 280); cup(c, 830, 800, 230, 280);
   const px = 405;
-  c.save(); c.translate(px, 800); c.rotate(-0.3); c.translate(-px, -800); cup(c, 520, 800, 230, 280); c.restore();
-  hand(c, 590, 985, -Math.PI / 2, 2.3, SKIN.adult, sleeve);
-  coin(c, 590, 790, 36);
+  c.save(); c.translate(px, 800); c.rotate(-0.42); c.translate(-px, -800); cup(c, 520, 800, 230, 280); c.restore();
+  hand(c, 590, 1000, -Math.PI / 2, 2.3, SKIN.adult, sleeve);
+  coin(c, 600, 800, 52);
   arrow(c, [[800, 960], [720, 880]]);
 };
 
@@ -215,11 +219,11 @@ const e2_0 = (c: Ctx) => {
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  bust(c, 540, 235, 125, 590, { adult: true, eye: "open", gx: 2, gy: 1 });
-  table(c, 590);
+  bust(c, 540, 250, 150, 600, { adult: true, eye: "open", gx: -2.5, gy: 2.5 });
+  table(c, 600);
   cup(c, 220, 800, 230, 280); cup(c, 540, 800, 230, 280); cup(c, 860, 800, 230, 280);
-  pointHand(c, 410, 1125, -1.2, 2.0);
-  arrow(c, [[640, 950], [960, 950]]);
+  pointHand(c, 120, 1130, -1.0, 2.0);
+  arrow(c, [[330, 960], [720, 960]]);
 };
 
 // setup.e2.2
@@ -235,14 +239,16 @@ const e2_2 = (c: Ctx) => {
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  table(c, 200);
-  domeBowl(c, 700, 720, 135);
-  c.save(); c.translate(440, 720); c.rotate(0.32); c.translate(-440, -720); domeBowl(c, 300, 720, 135); c.restore();
-  dosa(c, 255, 700, 1.3);
-  hand(c, 215, 480, 0.7, 1.7);
-  dog(c, 825, 1010, 0.85, 1, "sit");
-  line(c, [[900, 775], [870, 650], [800, 540]], 10, COL.purple);
-  hand(c, 770, 440, 1.25, 1.4, SKIN.adult, CLOTH.adult);
+  table(c, 300);
+  domeBowl(c, 930, 840, 120);
+  c.save(); c.translate(700, 840); c.rotate(0.4); c.translate(-700, -840); domeBowl(c, 560, 840, 140); c.restore();
+  dosa(c, 520, 880, 1.9);
+  for (const [dx, dy] of [[-20, 8], [10, -14], [34, 6]]) { c.beginPath(); ell(c, 520 + dx, 880 + dy, 5, 4); c.fillStyle = DOSA_DK; c.fill(); }
+  hand(c, 500, 520, 1.2, 2, SKIN.child, CLOTH.child);
+  arrow(c, [[800, 500], [800, 640]]);
+  dog(c, 250, 1020, 0.75, -1, "sit");
+  line(c, [[165, 800], [150, 600]], 8, COL.purple);
+  hand(c, 140, 470, Math.PI / 2, 1.6, SKIN.adult, CLOTH.adult);
 };
 
 // setup.e3.1

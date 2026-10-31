@@ -656,16 +656,40 @@
      "kind": "cards",
      "title": "12 object cards to cut out, for the hider",
      "items": [
-      "a steel spoon",
-      "a glass of water",
+      {
+       "f": "a steel spoon",
+       "img": {
+        "src": "media/cards/transparent-opaque-g2-0-00.jpg",
+        "credit": "Abraham, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "a glass of water",
+       "img": {
+        "src": "media/cards/transparent-opaque-g2-0-01.jpg",
+        "credit": "Derek Jensen (Tysto), Public domain, via Wikimedia Commons"
+       }
+      },
       "a leaf",
       "a plastic comb",
       "a sheet of butter paper",
       "a clear plastic bottle",
       "a cotton handkerchief",
       "a toy car",
-      "a pair of sunglasses",
-      "an onion",
+      {
+       "f": "a pair of sunglasses",
+       "img": {
+        "src": "media/cards/transparent-opaque-g2-0-08.jpg",
+        "credit": "ShyAndroid, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "an onion",
+       "img": {
+        "src": "media/cards/transparent-opaque-g2-0-09.jpg",
+        "credit": "Tomwsulcer, CC0, via Wikimedia Commons"
+       }
+      },
       "a cling film sheet in a cardboard frame",
       "a hand making a bird shape"
      ]

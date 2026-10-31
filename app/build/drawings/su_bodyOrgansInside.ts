@@ -117,32 +117,47 @@ const clock = (c: Ctx, x: number, y: number, r: number) => {
 };
 
 // setup.e2.0
+// water soaks over the biscuit so both bags plainly hold the same biscuit and the same water
+const wetBiscuit = (c: Ctx, x: number, y: number, r: number, waterTop: number, x0: number, w: number) => {
+  biscuit(c, x, y, r);
+  c.fillStyle = "rgba(95,159,211,0.16)"; c.fillRect(x0, waterTop, w, 900);
+};
 const setupE2_0 = zoom(1.05, 540, 560, (c) => {
-  bag(c, 60, 320, 340, 460, 0.28, () => biscuit(c, 230, 690, 115));
-  bag(c, 440, 320, 340, 460, 0.28, () => biscuit(c, 610, 690, 115));
+  bag(c, 60, 320, 340, 460, 0.55, () => wetBiscuit(c, 230, 690, 115, 527, 60, 340));
+  bag(c, 440, 320, 340, 460, 0.55, () => wetBiscuit(c, 610, 690, 115, 527, 440, 340));
   clock(c, 920, 650, 100);
 });
 
 // setup.e2.1
-const setupE2_1 = zoom(1, 525, 560, (c) => {
-  // the squished bag: soft mush, hands pressing both sides; the other bag lies still, biscuit whole
-  bag(c, 230, 300, 300, 440, 0.28, () => {
-    c.fillStyle = MUSH; c.beginPath(); c.moveTo(230, 560); c.quadraticCurveTo(380, 520, 530, 570); c.lineTo(530, 740); c.lineTo(230, 740); c.closePath(); c.fill();
-    const r = rnd(5); for (let i = 0; i < 14; i++) shape(c, () => ell(c, 250 + r() * 260, 590 + r() * 130, 10 + r() * 8, 7), MUSHDK, 0);
+const setupE2_1 = zoom(0.92, 540, 520, (c) => {
+  // two bags the same size: the left one squished by both hands (mush), the right one lies still with its biscuit whole
+  bag(c, 235, 300, 270, 420, 0.45, () => {
+    c.fillStyle = MUSH; c.beginPath(); c.moveTo(235, 520); c.quadraticCurveTo(370, 480, 505, 530); c.lineTo(505, 720); c.lineTo(235, 720); c.closePath(); c.fill();
+    const r = rnd(5); for (let i = 0; i < 14; i++) shape(c, () => ell(c, 255 + r() * 230, 560 + r() * 140, 10 + r() * 8, 7), MUSHDK, 0);
   });
-  hand(c, 123, 560, 0, 1.5, SKIN.child, CLOTH.child, true);
-  hand(c, 637, 560, Math.PI, 1.5, SKIN.child, CLOTH.child, true);
-  arrow(c, [[130, 380], [215, 380]]);
-  arrow(c, [[630, 380], [545, 380]]);
-  bag(c, 800, 540, 250, 200, 0.3, () => biscuit(c, 925, 650, 62));
+  hand(c, 95, 520, 0, 1.4, SKIN.child, CLOTH.child, true);
+  hand(c, 645, 520, Math.PI, 1.4, SKIN.child, CLOTH.child, true);
+  arrow(c, [[110, 380], [215, 380]]);
+  arrow(c, [[630, 380], [525, 380]]);
+  bag(c, 760, 300, 270, 420, 0.45, () => wetBiscuit(c, 895, 640, 100, 300 + 420 * 0.55, 760, 270));
 });
 
 // setup.e2.2
-const setupE2_2 = zoom(1, 540, 540, (c) => {
-  bag(c, 100, 330, 340, 460, 0.5, () => { c.fillStyle = MUSH; c.fillRect(100, 470, 340, 330); const r = rnd(3); for (let i = 0; i < 12; i++) shape(c, () => ell(c, 130 + r() * 280, 500 + r() * 260, 8, 6), MUSHDK, 0); }, false);
-  bag(c, 640, 330, 340, 460, 0.5, () => { chunk(c, 730, 570, 70, 1); chunk(c, 870, 670, 76, 2.4); chunk(c, 760, 720, 60, 3.8); chunk(c, 900, 540, 50, 5.1); }, false);
+// a soggy lump: a big rounded pale piece of wet biscuit
+const soggy = (c: Ctx, x: number, y: number, r: number, rot: number) => {
+  shape(c, () => ell(c, x, y, r, r * 0.7, rot), "#e6c58f", 6);
+  shade(c, () => ell(c, x, y, r, r * 0.7, rot), BISCDK, r * 0.25, r * 0.2);
+  shape(c, () => ell(c, x - r * 0.3, y - r * 0.15, r * 0.12, r * 0.08, rot), BISCDK, 0);
+  shape(c, () => ell(c, x + r * 0.25, y + r * 0.1, r * 0.1, r * 0.07, rot), BISCDK, 0);
+};
+const setupE2_2 = zoom(1, 540, 520, (c) => {
+  // both bags held up by a hand: left one smooth brown mush all through, right one big soggy lumps in cloudy water
+  bag(c, 100, 330, 340, 460, 0.8, () => { c.fillStyle = MUSH; c.fillRect(100, 440, 340, 360); c.fillStyle = MUSHDK; c.globalAlpha = 0.3; c.fillRect(330, 440, 120, 360); c.globalAlpha = 1; line(c, [[100, 440], [190, 428], [280, 446], [370, 430], [440, 440]], 5, MUSHDK); }, false);
+  bag(c, 640, 330, 340, 460, 0.8, () => { c.fillStyle = "rgba(214,180,120,0.45)"; c.fillRect(640, 440, 340, 360); soggy(c, 740, 560, 78, 0.3); soggy(c, 880, 640, 82, -0.4); soggy(c, 770, 710, 70, 0.2); soggy(c, 900, 520, 52, 0.5); }, false);
   hand(c, 270, 219, Math.PI / 2, 1.9);
   hand(c, 810, 219, Math.PI / 2, 1.9);
+  arrow(c, [[60, 650], [60, 480]]);
+  arrow(c, [[1020, 650], [1020, 480]]);
 });
 
 // ---- mishri
@@ -167,27 +182,36 @@ const rollingPin = (c: Ctx, x: number, y: number, len: number, rot: number) => {
   shade(c, () => rrect(c, -len / 2, -30, len, 60, 16), COL.woodDk, 0, 22);
   c.restore();
 };
+// a folded kitchen cloth: checks, a fringe, a corner flap folded over, a lump bulging under it
 const cloth = (c: Ctx, x: number, y: number, w: number, h: number) => {
   shadow(c, x + w * 0.55, y + h + 10, w * 0.55, 18);
-  const p = () => rrect(c, x, y, w, h, 14);
+  const p = () => rrect(c, x, y, w, h, 10);
+  for (let i = 0; i < 9; i++) line(c, [[x - 18, y + 14 + i * (h - 28) / 8], [x, y + 14 + i * (h - 28) / 8]], 5, COL.teal);
+  for (let i = 0; i < 9; i++) line(c, [[x + w, y + 14 + i * (h - 28) / 8], [x + w + 18, y + 14 + i * (h - 28) / 8]], 5, COL.teal);
   shape(c, p, COL.cloth, 6);
-  shade(c, p, "#e0d8c4", 0, h * 0.7, 0.8);
+  shade(c, p, "#e0d8c4", 0, h * 0.75, 0.8);
   c.save(); c.beginPath(); p(); c.clip();
-  for (const dy of [0.14, 0.86]) line(c, [[x, y + h * dy], [x + w, y + h * dy]], 12, COL.teal);
-  line(c, [[x + w * 0.5, y], [x + w * 0.5, y + h]], 3, COL.grey);
+  for (let i = 1; i < 8; i++) { line(c, [[x + i * w / 8, y], [x + i * w / 8, y + h]], 8, COL.teal); line(c, [[x, y + i * h / 5], [x + w, y + i * h / 5]], 8, COL.teal); }
+  c.globalAlpha = 0.35; for (let i = 1; i < 8; i++) for (let j = 1; j < 5; j++) { c.fillStyle = COL.tealDk; c.fillRect(x + i * w / 8 - 4, y + j * h / 5 - 4, 8, 8); } c.globalAlpha = 1;
   c.restore();
   shape(c, p, "rgba(0,0,0,0)", 6);
+  // the lump pushing up the cloth, with fold lines running over it
+  const bx = x + w * 0.45, by = y + h * 0.5;
+  shape(c, () => ell(c, bx, by, 70, 48, -0.1), "#fff6e2", 6);
+  shade(c, () => ell(c, bx, by, 70, 48, -0.1), SUGDK, 18, 14);
+  line(c, [[bx - 60, by - 20], [bx - 10, by - 36], [bx + 55, by - 22]], 4, SUGDK);
+  line(c, [[bx - 50, by + 22], [bx, by + 36], [bx + 60, by + 18]], 4, SUGDK);
+  // folded corner flap
+  shape(c, () => polyP(c, [[x + w - 110, y], [x + w, y], [x + w, y + 90]]), "#ece4cf", 6);
+  line(c, [[x + w - 90, y + 20], [x + w - 20, y + 20]], 6, COL.teal);
 };
-// a lump showing through the cloth
-const lumpUnder = (c: Ctx, x: number, y: number, r: number) => { shape(c, () => ell(c, x, y, r, r * 0.6), "rgba(255,250,240,0.9)", 4); shade(c, () => ell(c, x, y, r, r * 0.6), SUGDK, r * 0.25, r * 0.2); };
 // setup.e3.0
 const setupE3_0 = zoom(1.1, 540, 590, (c) => {
   glass(c, 650, 480, 190, 260, 0.5);
   glass(c, 890, 480, 190, 260, 0.5);
   mishri(c, 160, 380, 80, 0.3);
   mishri(c, 380, 380, 80, 0.3);
-  cloth(c, 110, 640, 400, 240);
-  lumpUnder(c, 310, 740, 70);
+  cloth(c, 90, 630, 440, 260);
   rollingPin(c, 800, 780, 300, 0);
 });
 

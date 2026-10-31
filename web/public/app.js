@@ -725,6 +725,7 @@ function mergeIn(a, b) {
     quiz: { ...(b.quiz || {}), ...(a.quiz || {}) },
     work: mergeById(a.work, b.work),
     moments: mergeById(a.moments, b.moments),
+    interests: mergeById(a.interests, b.interests),
     mins: (() => {
       const m = { ...(b.mins || {}) };
       Object.entries(a.mins || {}).forEach(([k, v]) => {
@@ -9569,7 +9570,9 @@ function rsScore(p) {
     tops = new Set(liked.flatMap((x) => x.topics)),
     learnt = Object.keys(fxSt().time),
     base = (id) => id.split(".").slice(0, 2).join(".");
+  const ints = intSt().map((x) => x.t.toLowerCase());
   return (
+    2 * ints.filter((w) => (p.title + " " + p.tags.join(" ")).toLowerCase().includes(w)).length +
     3 * p.tags.filter((t) => tags.has(t)).length +
     3 * p.topics.filter((t) => tops.has(t)).length +
     2 * p.topics.filter((t) => learnt.includes(t)).length +
@@ -9643,7 +9646,7 @@ const evPast = (i, date) => i.kind === "event" && !i.done && !i.anytime && date 
 function pastEvCard(items) {
   const P = items.filter((i) => evPast(i, today));
   if (!P.length) return "";
-  return `<section class="card pastev"><span class="eyebrow">Did ${P.length > 1 ? "these" : "this"} happen?</span>${P.map((i) => `<div class="row" style="flex-wrap:nowrap;gap:10px;align-items:center"><div style="flex:1;min-width:0"><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end ? "–" + clock(hm(i.ev.end)) : ""} · ${esc(evShort(i.ev))}</span></div><button class="btn green xs" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Done</button><button class="btn line xs" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div>`).join("")}</section>`;
+  return `<section class="card pastev"><span class="eyebrow">Did ${P.length > 1 ? "these" : "this"} happen?</span>${P.map((i) => `<div class="pastrow"><div><b>${esc(i.title)}</b><br><span class="xs muted">${clock(i.at)}${i.ev?.end ? "–" + clock(hm(i.ev.end)) : ""} · ${esc(evShort(i.ev))}</span></div><div class="row"><button class="btn green sm" data-act="tlcheck" data-id="${i.id}" data-date="${today}">Yes, done</button><button class="btn line sm" data-act="evmiss" data-id="${esc(i.ev.id)}" data-date="${today}">Didn't happen</button></div></div>`).join("")}</section>`;
 }
 function ioptsView() {
   const { date, id } = ui.sheet,
@@ -10122,8 +10125,8 @@ function viewToday() {
   );
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
-  if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   h += firstWeekCard() + fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
+  if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   window.FXANIMED = 1;
   // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
   h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
@@ -11385,7 +11388,7 @@ function dumpCard() {
     empty = !D_.text && !D_.items && !D_.files?.length;
   return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Plan your days</h3><p class="xs muted">Tell us your family's week in your own words: classes, outings, trips, rest and meal times, to-dos. We fit lessons around them. Type, use your keyboard's mic, or send a photo.</p></div></div>
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
-   ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><b style="font:600 16px var(--display)">${esc(it.title)}</b><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
+   ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><b style="font:600 16px var(--display)">${esc(it.title)}</b><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
    ${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
    ${needAICard(D_)}
    ${D_.files?.length ? `<div class="row" style="gap:6px"><span class="chip" style="pointer-events:none">${icon("plus")}${D_.files.length} photo${D_.files.length > 1 ? "s" : ""} attached</span><button class="link xs" data-act="dnofiles">Remove</button></div>` : ""}
@@ -11398,6 +11401,7 @@ function dumpCard() {
 }
 function parsedLine(it) {
   if (it.type === "have") return "Library · " + (it.category || "other");
+  if (it.type === "interest") return "An interest · linked to topics, not put on the calendar";
   if (it.type === "did" || it.type === "said") return "Learning from life · " + fmt(it.date || today);
   if (it.type === "update") {
     const e = (S.events || []).find((z) => z.id === it.id);
@@ -11634,6 +11638,10 @@ function addParsed() {
         S.inv = [...(S.inv || []), { id, name: x.title, cat: x.category || "other", note: x.note || "", from: "told" }];
         return;
       }
+      if (x.type === "interest") {
+        addInterest(x.title);
+        return;
+      }
       if (x.type === "did" || x.type === "said") {
         lifeRecord(
           { kind: x.type, title: x.title, text: x.note || "", date: x.date || today, mins: +x.mins || 0 },
@@ -11729,6 +11737,13 @@ const SKILLCAT = {
   other: "Other",
 };
 const lifeSt = () => (S.moments = S.moments || []);
+// the child's interests ("dinosaurs", "stitching"): kept apart from the calendar, each linked to topics
+const intSt = () => (S.interests = S.interests || []);
+function addInterest(t) {
+  t = t.trim();
+  if (!t || intSt().some((x) => x.t.toLowerCase() === t.toLowerCase())) return;
+  intSt().push({ id: Math.random().toString(36).slice(2, 9), t, date: today, links: lifeGuess(t).links, queued: [] });
+}
 const lifeBy = (id) => lifeSt().find((m) => m.id === id);
 // the topics a moment can link to: every DeepKids science unit, and the maths, English, Hindi and social topic tags
 // (app/content/life/tags.json), each of which stands for its chapters in every board
@@ -11759,7 +11774,14 @@ function lifeGuess(text) {
   const t = text.toLowerCase(),
     has = (w) => new RegExp("\\b" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b").test(t),
     A = (DATA.life?.acts || [])
-      .map((a) => ({ a, n: a.words.filter(has).length + (has(a.name.toLowerCase()) ? 2 : 0) }))
+      .map((a) => ({
+        a,
+        n:
+          a.words.filter(has).length +
+          (has(a.name.toLowerCase()) ? 2 : 0) +
+          // a one- or two-word interest ("art", "space") also matches the activities named after it
+          (t.split(/\s+/).length <= 2 && a.name.toLowerCase().split(/\W+/).includes(t.trim()) ? 1 : 0),
+      }))
       .filter((x) => x.n)
       .sort((x, y) => y.n - x.n)
       .slice(0, 2)
@@ -11923,12 +11945,22 @@ function lifeQueue(id) {
 }
 // Progress → Skills and life: each skill with its hours, and every moment, newest first
 function lifeTab() {
-  const K = lifeSkills(),
+  const I = intSt(),
+    K = lifeSkills(),
     M = lifeSt()
       .slice()
       .sort((a, b) => (a.date < b.date ? 1 : -1)),
     mx = Math.max(1, ...K.map((x) => x.mins));
   return `<section class="sec"><button class="btn" data-act="lifeadd">＋ Something they did or said</button></section>
+   <section class="sec"><div class="sech"><h3>Interests</h3><span class="xs muted">${I.length}</span></div>${
+     I.length
+       ? `<div class="card" style="gap:0">${I.map((x) => {
+           const T = x.links.map((l) => lifeTarget(l.k)).filter((t) => t.name),
+             left = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
+           return `<div class="introw"><div><b>${esc(x.t)}</b>${T.length ? `<p class="xs muted">Topics: ${T.map((t) => esc(t.name)).join(" · ")}</p>` : `<p class="xs muted">No topic found yet. Research papers and projects on it are picked first.</p>`}</div><div class="row">${left.length ? `<button class="btn soft sm" data-act="intq" data-id="${x.id}">Add ${left.length === 1 ? "the topic" : left.length + " topics"} to the queue</button>` : x.queued.length ? `<span class="xs muted">✓ In the queue</span>` : ""}<button class="link xs" data-act="intx" data-id="${x.id}" aria-label="Remove ${esc(x.t)}">Remove</button></div></div>`;
+         }).join("")}</div>`
+       : `<p class="sm muted">Tell the Planner what your child loves (“She is interested in stitching and space”), and DeepKids links it to topics.</p>`
+   }</section>
    <section class="sec"><div class="sech"><h3>Skills</h3><span class="xs muted">from classes and practice</span></div>${
      K.length
        ? `<div class="col" style="gap:10px">${K.map((x) => `<div class="hbar"><span class="sm"><b>${esc(x.name)}</b> · ${esc(SKILLCAT[x.cat] || "Skill")} · ${x.n} session${x.n === 1 ? "" : "s"}, ${hmin(x.mins)} since ${esc(fmt(x.from))}</span><div class="hb"><i style="width:${(x.mins / mx) * 100}%"></i></div></div>`).join("")}</div>`
@@ -11951,12 +11983,14 @@ function shelfUsed() {
 }
 // the transcript's sections: skills, learning outside lessons with the topics each one links to, and the home shelf
 function lifeTranscript() {
-  const B = shelfUsed(),
+  const I = intSt(),
+    B = shelfUsed(),
     K = lifeSkills(),
     M = lifeSt()
       .slice()
       .sort((a, b) => (a.date < b.date ? -1 : 1));
   return (
+    (I.length ? `<h2>Interests</h2><p>${I.map((x) => esc(x.t)).join(", ")}</p>` : "") +
     (K.length
       ? `<h2>Skills and activities</h2><table><tr><th>Skill</th><th>Kind</th><th>Sessions</th><th>Time</th><th>From</th><th>To</th></tr>${K.map((x) => `<tr><td>${esc(x.name)}</td><td>${esc(SKILLCAT[x.cat] || "")}</td><td>${x.n}</td><td>${hmin(x.mins)}</td><td>${esc(fmt(x.from))}</td><td>${esc(fmt(x.to))}</td></tr>`).join("")}</table>`
       : "") +
@@ -14448,38 +14482,97 @@ async function afterUpgrade() {
 // a message read on the phone, part by part: sentences, and "and her grandmother visits…" style second parts
 // (not "Mondays and Wednesdays"); the child's name and "goes to" come off titles; rest and meals with no days
 // are every day. Only the parts that give nothing go to AI.
-const lifeName = () => (S.child || "").trim().split(/\s+/)[0];
+const lifeName = () =>
+  (S.child || "")
+    .trim()
+    .split(/\s+/)[0]
+    .replace(/[^A-Za-z]/g, "");
+// "She is interested in…", "loves…", "is into…": interests, kept per child, never on the calendar
+const INTEREST =
+  /\b(?:interested in|loves?|likes?|enjoys?|is into|really into|fascinated by|obsessed with|curious about|crazy about|mad about)\s+(.+)/i;
+const SUBJW =
+  /^(art|arts|craft|crafts|music|dance|science|chemistry|physics|biology|maths|math|history|geography|coding|reading|writing|stitching|sewing|cooking|baking|gardening|drawing|painting|singing|space|animals|plants|rocks|robots|chess|football|cricket|swimming|insects|birds|stories|poetry|languages)$/;
+// one interest per comma or "and"; a short run of words with no commas splits too when each word is something the
+// activity library knows ("stitching chemistry art")
+function interestsOf(t) {
+  const L = t
+    .replace(/[.!]+$/, "")
+    .split(/,|\band\b|&|\//i)
+    .map((x) => x.trim())
+    .filter(Boolean);
+  const known = (w) =>
+    SUBJW.test(w) ||
+    (DATA.life?.acts || []).some((a) => a.words.includes(w) || a.name.toLowerCase().split(/\W+/).includes(w));
+  return L.flatMap((x) => {
+    const W = x.toLowerCase().split(/\s+/);
+    return W.length > 1 && W.length <= 5 && W.every(known) ? W : [x];
+  }).map((x) => x[0].toUpperCase() + x.slice(1));
+}
+const TITLEFILL =
+  /\b(everyday|every day|daily|weekdays|weekends|only|on|at|from|to|a\.?m\.?|p\.?m\.?|in the (morning|evening|afternoon))\b/gi;
 function readOnPhone(text) {
   const nm = lifeName(),
-    joiner = new RegExp(
-      `\\s+(?:and|also|plus|then)\\s+(?=(?:her|his|my|our|we|she|he|they|their|i|on|every${nm ? "|" + nm.replace(/[^\\w]/g, "") : ""})\\b)`,
-      "i",
-    ),
+    who = `her|his|my|our|we|she|he|they|their|i|on|every${nm ? "|" + nm : ""}`,
+    joiner = new RegExp(`\\s+(?:and|also|plus|then)\\s+(?=(?:${who})\\b)`, "i"),
     parts = text
+      .replace(/\b([ap])\.m\./gi, "$1m")
       .split(/(?<=[.;!?\n])\s+|\n+/)
       .flatMap((t) => t.split(joiner))
-      .map((t) => t.trim())
+      .map((t) =>
+        t
+          .trim()
+          // "Liri goes to…", "She has…": the person at the start isn't part of the title
+          .replace(
+            /^(?:[A-Z][a-z]+(?:'s)?|she|he|they|we)\s+(?=(?:goes|go|has|have|attends|attend|does|will|is|are|learns|takes|plays|joins)\b)/i,
+            "",
+          )
+          // "everyday … only on weekdays": the narrower days win
+          .replace(/\b(?:every ?day|daily)\b(?=.*\bonly\b.*\b(?:weekdays|weekends|mon|tue|wed|thu|fri|sat|sun))/i, ""),
+      )
       .filter((t) => t.length > 2),
     items = [],
     asks = [],
     left = [];
   parts.forEach((t) => {
+    const I = t.match(INTEREST);
+    if (I && !/\b\d|(mon|tue|wed|thu|fri|sat|sun)[a-z]*\b/i.test(t)) {
+      interestsOf(I[1]).forEach((x) => items.push({ type: "interest", title: x, who: "kid", keep: true }));
+      return;
+    }
     const R = localParse(t);
     if (!R.items.length) return left.push(t);
     R.asks.forEach((a) => asks.push({ ...a, i: a.i + items.length }));
     items.push(...R.items);
   });
-  items.forEach((x, i) => {
+  const nameRe = nm ? new RegExp(`^${nm}('s)?\\s+`, "i") : null;
+  for (let i = 0; i < items.length; i++) {
+    const x = items[i];
+    if (x.type === "interest") continue;
     x.title = x.title
-      .replace(new RegExp(`^${nm ? nm.replace(/[^\\w]/g, "") + "('s)?\\s+" : "^$"}`, "i"), "")
+      .replace(nameRe || /^\b$/, "")
       .replace(/^(goes to|go to|has|attends|does|will go to|is going to)\s+/i, "")
-      .replace(/^./, (c) => c.toUpperCase());
+      .replace(TITLEFILL, "")
+      .replace(/\s+/g, " ")
+      .trim();
+    // "only on weekdays": a part that only changes the days of the thing before it
+    if ((!x.title || /^(only|also|just|but)$/i.test(x.title)) && i > 0 && items[i - 1].type !== "interest") {
+      if (x.days?.length) items[i - 1].days = x.days;
+      if (x.start && !items[i - 1].start) [items[i - 1].start, items[i - 1].end] = [x.start, x.end];
+      items.splice(i, 1);
+      for (let k = asks.length - 1; k >= 0; k--) {
+        if (asks[k].i === i) asks.splice(k, 1);
+        else if (asks[k].i > i) asks[k].i--;
+      }
+      i--;
+      continue;
+    }
+    x.title = x.title.replace(/^./, (c) => c.toUpperCase());
     if ((x.type === "rest" || x.type === "meal") && !x.days?.length && !x.date) {
       x.days = [0, 1, 2, 3, 4, 5, 6];
       for (let k = asks.length - 1; k >= 0; k--)
         if (asks[k].i === i && /which days/i.test(asks[k].q)) asks.splice(k, 1);
     }
-  });
+  }
   return { items, asks, left };
 }
 function localDump(text) {
@@ -16175,13 +16268,15 @@ function onAct(e) {
       break;
     }
     case "tday": {
-      navPush();
-      const d = b.dataset.d;
+      // the day changes in place: the day header stays where it was on the screen, only the list below it changes
+      const d = b.dataset.d,
+        top = document.querySelector(".calhead")?.getBoundingClientRect().top;
       ui.tday = d === "0" ? null : addDays(ui.tday || today, +d);
       if (ui.tday === today) ui.tday = null;
       sfx("tap");
       render();
-      scrollTo(0, 0);
+      const el = document.querySelector(".calhead");
+      if (el && top != null) scrollBy(0, el.getBoundingClientRect().top - top);
       break;
     }
     case "quickday": {
@@ -17373,6 +17468,20 @@ function onAct(e) {
       break;
     case "lifeopen":
       openSheet({ mode: "moment", id: b.dataset.id });
+      break;
+    case "intq": {
+      const x = intSt().find((y) => y.id === b.dataset.id),
+        L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
+      L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
+      x.queued = [...x.queued, ...L.map((l) => l.k)];
+      sfx("ok");
+      toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+      commit();
+      break;
+    }
+    case "intx":
+      S.interests = intSt().filter((y) => y.id !== b.dataset.id);
+      commit();
       break;
     case "lifeq":
       lifeQueue(b.dataset.id);

@@ -62,7 +62,7 @@ const clockFace = (c: Ctx, x: number, y: number, r: number, hh: number, mm: numb
   shape(c, () => ell(c, x, y, r, r), WHITE, 5);
   for (let i = 0; i < 4; i++) { const a = (i * Math.PI) / 2; line(c, [[x + Math.cos(a) * r * 0.78, y + Math.sin(a) * r * 0.78], [x + Math.cos(a) * r * 0.92, y + Math.sin(a) * r * 0.92]], 4); }
   const ah = ((hh + mm / 60) / 12) * Math.PI * 2 - Math.PI / 2, am = (mm / 60) * Math.PI * 2 - Math.PI / 2;
-  line(c, [[x, y], [x + Math.cos(ah) * r * 0.5, y + Math.sin(ah) * r * 0.5]], 7); line(c, [[x, y], [x + Math.cos(am) * r * 0.75, y + Math.sin(am) * r * 0.75]], 5);
+  line(c, [[x, y], [x + Math.cos(am) * r * 0.8, y + Math.sin(am) * r * 0.8]], 4); line(c, [[x, y], [x + Math.cos(ah) * r * 0.48, y + Math.sin(ah) * r * 0.48]], 9, RED);
 };
 // a body temperature like 36.6 with the degree mark and C; (x, y) top left, h the digit height
 const temp = (c: Ctx, a: string, b: string, x: number, y: number, h: number, col: string = INK, w = 6) => {
@@ -78,7 +78,7 @@ const tapeCard = (c: Ctx, x: number, y: number, w: number, h: number, sticky: bo
   for (const s of [-1, 1]) line(c, [[x + s * 75, y - h * 0.32], [x + s * 75, y + h * 0.4]], 6, "#5a5560");
   shape(c, () => rrect(c, x - tw / 2, y - th / 2, tw, th, 4), sticky ? "rgba(255,226,140,0.75)" : "rgba(214,236,250,0.65)", 5);
   if (sticky) {
-    for (let i = 0; i < 5; i++) for (let j = 0; j < 2; j++) shape(c, () => ell(c, x - tw / 2 + 30 + i * (tw - 60) / 4 + j * 28, y - 18 + j * 34, 5, 5), "#d9a62c", 0);
+    shine(c, [[x - tw * 0.3, y - 22], [x + tw * 0.2, y - 22]], 10);
     for (const s of [-1, 1]) shape(c, () => polyP(c, [[x + s * tw / 2 - 34, y - 50], [x + s * tw / 2 + 34, y - 50], [x + s * tw / 2 + 34, y + 50], [x + s * tw / 2 - 34, y + 50]]), "rgba(255,238,170,0.9)", 5);
   } else shine(c, [[x - tw * 0.4, y - 20], [x + tw * 0.15, y - 20]], 10);
   line(c, [[x - 75, y - h * 0.32], [x + 75, y - h * 0.32]], 5); write(c, "4 cm", x - 62, y - h * 0.32 - 62, 44, INK, 7);
@@ -180,27 +180,32 @@ const thermScreen = (c: Ctx) => {
 // setup.e2.2
 const tempTable = (c: Ctx) => {
   ground(c);
-  shadow(c, 560, 850, 450, 30);
-  shape(c, () => rrect(c, 90, 90, 900, 760, 18), WHITE, 6);
+  shadow(c, 560, 770, 450, 30);
+  shape(c, () => rrect(c, 60, 70, 960, 690, 18), WHITE, 6);
   const times: [number, number][] = [[7, 0], [11, 0], [3, 0], [8, 0]], vals = [["36", "4"], ["36", "8"], ["36", "5"], ["36", "7"]];
+  const keys = [COL.orange, COL.blue, COL.green, COL.purple], ys = [470, 220, 408, 283], xs = [750, 830, 910, 975];
+  // one boxed row per reading: colour dot, clock, temperature; the same colour marks its dot on the chart
   for (let i = 0; i < 4; i++) {
-    const cy = 215 + i * 130;
-    line(c, [[130, cy + 62], [490, cy + 62]], 4, "#b9b4ab");
-    clockFace(c, 190, cy, 48, times[i][0], times[i][1]);
-    temp(c, vals[i][0], vals[i][1], 275, cy - 36, 72);
+    const cy = 165 + i * 135;
+    shape(c, () => rrect(c, 90, cy - 58, 540, 116, 16), "#fffaf0", 5);
+    shape(c, () => ell(c, 125, cy, 20, 20), keys[i], 5);
+    clockFace(c, 215, cy, 48, times[i][0], times[i][1]);
+    temp(c, vals[i][0], vals[i][1], 310, cy - 36, 72);
   }
   // line chart
-  line(c, [[640, 190], [640, 410], [950, 410]], 7);
-  const pts: number[][] = [[700, 330], [775, 250], [850, 310], [915, 270]];
-  line(c, pts, 9, COL.blue);
-  pts.forEach(([x, y]) => shape(c, () => ell(c, x, y, 13, 13), COL.orange, 5));
-  // a hand with a pencil, just written
-  const px = 540, tipY = 690;
-  shape(c, () => polyP(c, [[px - 16, tipY - 60], [px + 16, tipY - 60], [px, tipY]]), COL.wood, 5);
-  shape(c, () => polyP(c, [[px - 5, tipY - 20], [px + 5, tipY - 20], [px, tipY]]), INK, 2);
-  shape(c, () => rrect(c, px - 16, tipY - 300, 32, 244, 6), COL.yellow, 5);
-  shape(c, () => rrect(c, px - 16, tipY - 316, 32, 24, 6), COL.pink, 5);
-  hand(c, px + 90, tipY - 150, Math.PI, 1.3, SKIN.child, CLOTH.child);
+  line(c, [[690, 130], [690, 540], [1000, 540]], 7);
+  const pts: number[][] = xs.map((x, i) => [x, ys[i]]);
+  line(c, pts, 9, INK);
+  pts.forEach(([x, y], i) => { shape(c, () => ell(c, x, y, 18, 18), keys[i], 5); shape(c, () => ell(c, x, 575, 14, 14), keys[i], 4); });
+  // a hand with a pencil writing the last reading
+  const tx = 575, ty = 600, an = Math.PI + 0.9, ux = Math.cos(an), uy = Math.sin(an), wx = tx - ux * 250, wy = ty - uy * 250;
+  c.save(); c.translate(wx, wy); c.rotate(an);
+  shape(c, () => polyP(c, [[185, -17], [185, 17], [250, 0]]), COL.wood, 5);
+  shape(c, () => polyP(c, [[233, -5], [233, 5], [250, 0]]), INK, 2);
+  shape(c, () => rrect(c, -30, -17, 220, 34, 5), COL.yellow, 5);
+  shape(c, () => rrect(c, -48, -17, 22, 34, 5), COL.pink, 5);
+  c.restore();
+  hand(c, wx, wy, an, 1.7, SKIN.child, CLOTH.child);
 };
 
 // ---------------------------------------------------------------- experiment 3: dust on tape
@@ -209,6 +214,9 @@ const twoTapeCards = (c: Ctx) => {
   ground(c);
   tapeCard(c, 275, 560, 460, 700, true);
   tapeCard(c, 805, 560, 460, 700, false);
+  // a hand presses a bit of tape over the end of the sticky strip; another smooths the plain strip flat
+  hand(c, 463, 705, -Math.PI / 2, 1.4, SKIN.child, CLOTH.child, true);
+  hand(c, 770, 705, -Math.PI / 2, 1.4, SKIN.child, CLOTH.child, true);
 };
 
 // setup.e3.1

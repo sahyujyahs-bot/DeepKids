@@ -144,12 +144,21 @@ const runner = (c: Ctx, x: number, y: number, h: number) => {
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c); table(c, 800);
-  tumbler(c, 200, 900, 240, 330); steam(c, 200, 560, 0.9);
-  tumbler(c, 480, 900, 240, 330); steam(c, 480, 560, 0.9);
-  const flow = [[470, 300], [468, 420], [482, 600]];
+  // a see-through window in each tumbler shows the water inside: both end at the same height (red line)
+  const win = (x: number, level: number) => {
+    shape(c, () => rrect(c, x - 70, 640, 140, 220, 16), "#eef3f8", 5);
+    c.save(); c.beginPath(); rrect(c, x - 70, 640, 140, 220, 16); c.clip();
+    c.fillStyle = COL.water; c.fillRect(x - 70, level, 140, 860 - level); line(c, [[x - 70, level], [x + 70, level]], 6, COL.waterDk); c.restore();
+    c.beginPath(); rrect(c, x - 70, 640, 140, 220, 16); c.lineWidth = 5; c.strokeStyle = INK; c.stroke();
+  };
+  tumbler(c, 200, 900, 240, 330); win(200, 700); steam(c, 200, 560, 0.9);
+  tumbler(c, 520, 900, 240, 330); win(520, 700);
+  for (const dx of [-80, 85]) line(c, [[520 + dx, 560], [520 + dx + 20, 520], [520 + dx - 16, 480], [520 + dx + 10, 440]], 10, WHITE);
+  line(c, [[110, 700], [610, 700]], 7, RED);
+  const flow = [[535, 330], [533, 450], [527, 600]];
   line(c, flow, 34, INK); line(c, flow, 22, COL.water);
-  jug(c, 670, 330, 0.65);
-  handLeft(c, 870, 290, Math.PI - 0.5, 1.7);
+  jug(c, 720, 330, 0.65);
+  handLeft(c, 890, 290, Math.PI - 0.5, 1.7);
 };
 // setup.e1.1
 const e1_1 = (c: Ctx) => {

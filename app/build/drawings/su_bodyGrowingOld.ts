@@ -122,22 +122,29 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  restHand(c, 330, 700, 1.1);
-  skinFold(c, 242, 676, 62);
-  phone(c, 850, 330, 270, 440, timerScreen("03", true));
+  restHand(c, 400, 700, 1.1);
+  // the skin stands up in a rounded ridge where it was pinched: a raised bump, light on top, dark underneath, ripples round it
+  for (const k of [-1, 1]) for (const j of [0, 1]) line(c, [[320 + k * (120 + j * 30) - 16, 690 + k * (60 + j * 22) - 30], [320 + k * (120 + j * 30) + 16, 690 + k * (60 + j * 22) + 30]], 5, SKIN.childDk);
+  shape(c, () => ell(c, 332, 716, 112, 40, -0.5), SKIN.childDk, 0);
+  shape(c, () => ell(c, 320, 690, 112, 40, -0.5), SKIN_LT, 8);
+  shade(c, () => ell(c, 320, 690, 112, 40, -0.5), SKIN.childDk, 10, 22, 0.55);
+  shine(c, [[270, 700], [320, 650], [370, 628]], 9);
+  phone(c, 860, 330, 270, 440, timerScreen("03", true));
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  restHand(c, 320, 250, 0.8);
+  restHand(c, 300, 250, 0.8);
   phone(c, 880, 240, 250, 380, timerScreen("04", false));
   shadow(c, 450, 990, 380, 36);
   shape(c, () => polyP(c, [[110, 470], [790, 470], [790, 980], [110, 980]]), COL.paper);
   for (const y of [640, 810]) line(c, [[110, y], [790, y]], 5);
-  line(c, [[400, 470], [400, 980]], 5);
-  write(c, "1", 235, 520, 80); write(c, "2", 235, 690, 80); write(c, "3", 235, 860, 80);
-  write(c, "6", 560, 520, 80); write(c, "5", 560, 690, 80);
-  write(c, "4", 560, 860, 80, RED, 9);
+  line(c, [[260, 470], [260, 980]], 5);
+  miniHead(c, 185, 555, 46, SKIN.child, CLOTH.hair);
+  miniHead(c, 185, 725, 46, SKIN.adult, CLOTH.hair);
+  miniHead(c, 185, 895, 46, SKIN.adult, "#e6e3dc");
+  write(c, "1", 480, 510, 90); write(c, "2", 480, 680, 90);
+  write(c, "4", 480, 850, 90, RED, 10);
   penHand(c, 620, 930, 2.5);
 };
 // setup.e2.0
@@ -185,15 +192,15 @@ const e2_2 = (c: Ctx) => {
   shape(c, () => ell(c, 385, 400, 12, 16), INK, 0);
   c.beginPath(); c.arc(395, 545, 36, 0.4, 1.6); c.strokeStyle = INK; c.lineWidth = 5; c.stroke();
   shape(c, () => ell(c, 395, 480, 40, 18), "rgba(240,150,150,0.5)", 0);
-  // the card, held up from below by the child's hand
-  printCard(c, 800, 420, 230, 360, true);
-  hand(c, 915, 930, -Math.PI / 2, 1.6);
+  // the card, held up from below by the child's hand (fingers in front of the card)
+  printCard(c, 800, 400, 230, 360, true);
+  hand(c, 915, 850, -Math.PI / 2, 1.9);
   // measuring tape from the cheekbone to the card
-  shape(c, () => rrect(c, 390, 505, 440, 54, 4), COL.yellow, 6);
-  for (let i = 0; i <= 25; i++) { const tx = 400 + i * (420 / 25); line(c, [[tx, 505], [tx, 505 + (i % 5 === 0 ? 26 : 14)]], i % 5 === 0 ? 4 : 2.5); }
-  write(c, "25 cm", 580, 430, 50, INK, 7);
+  shape(c, () => rrect(c, 390, 505, 420, 54, 4), COL.yellow, 6);
+  for (let i = 0; i <= 25; i++) { const tx = 400 + i * (400 / 25); line(c, [[tx, 505], [tx, 505 + (i % 5 === 0 ? 26 : 14)]], i % 5 === 0 ? 4 : 2.5); }
+  write(c, "25 cm", 560, 430, 50, INK, 7);
   // the parent's hand holds the tape end on the cheekbone
-  pinchHand(c, 405, 556, -2.3, 1.1, SKIN.adult, CLOTH.adult);
+  hand(c, 400, 660, -1.35, 1.5, SKIN.adult, CLOTH.adult);
 };
 // setup.e3.0
 const sitting = (c: Ctx) => {

@@ -18,6 +18,13 @@ const SKILLCAT = {
   other: "Other",
 };
 const lifeSt = () => (S.moments = S.moments || []);
+// the child's interests ("dinosaurs", "stitching"): kept apart from the calendar, each linked to topics
+const intSt = () => (S.interests = S.interests || []);
+function addInterest(t) {
+  t = t.trim();
+  if (!t || intSt().some((x) => x.t.toLowerCase() === t.toLowerCase())) return;
+  intSt().push({ id: Math.random().toString(36).slice(2, 9), t, date: today, links: lifeGuess(t).links, queued: [] });
+}
 const lifeBy = (id) => lifeSt().find((m) => m.id === id);
 // the topics a moment can link to: every DeepKids science unit, and the maths, English, Hindi and social topic tags
 // (app/content/life/tags.json), each of which stands for its chapters in every board
@@ -48,7 +55,14 @@ function lifeGuess(text) {
   const t = text.toLowerCase(),
     has = (w) => new RegExp("\\b" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b").test(t),
     A = (DATA.life?.acts || [])
-      .map((a) => ({ a, n: a.words.filter(has).length + (has(a.name.toLowerCase()) ? 2 : 0) }))
+      .map((a) => ({
+        a,
+        n:
+          a.words.filter(has).length +
+          (has(a.name.toLowerCase()) ? 2 : 0) +
+          // a one- or two-word interest ("art", "space") also matches the activities named after it
+          (t.split(/\s+/).length <= 2 && a.name.toLowerCase().split(/\W+/).includes(t.trim()) ? 1 : 0),
+      }))
       .filter((x) => x.n)
       .sort((x, y) => y.n - x.n)
       .slice(0, 2)
@@ -212,12 +226,22 @@ function lifeQueue(id) {
 }
 // Progress → Skills and life: each skill with its hours, and every moment, newest first
 function lifeTab() {
-  const K = lifeSkills(),
+  const I = intSt(),
+    K = lifeSkills(),
     M = lifeSt()
       .slice()
       .sort((a, b) => (a.date < b.date ? 1 : -1)),
     mx = Math.max(1, ...K.map((x) => x.mins));
   return `<section class="sec"><button class="btn" data-act="lifeadd">＋ Something they did or said</button></section>
+   <section class="sec"><div class="sech"><h3>Interests</h3><span class="xs muted">${I.length}</span></div>${
+     I.length
+       ? `<div class="card" style="gap:0">${I.map((x) => {
+           const T = x.links.map((l) => lifeTarget(l.k)).filter((t) => t.name),
+             left = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
+           return `<div class="introw"><div><b>${esc(x.t)}</b>${T.length ? `<p class="xs muted">Topics: ${T.map((t) => esc(t.name)).join(" · ")}</p>` : `<p class="xs muted">No topic found yet. Research papers and projects on it are picked first.</p>`}</div><div class="row">${left.length ? `<button class="btn soft sm" data-act="intq" data-id="${x.id}">Add ${left.length === 1 ? "the topic" : left.length + " topics"} to the queue</button>` : x.queued.length ? `<span class="xs muted">✓ In the queue</span>` : ""}<button class="link xs" data-act="intx" data-id="${x.id}" aria-label="Remove ${esc(x.t)}">Remove</button></div></div>`;
+         }).join("")}</div>`
+       : `<p class="sm muted">Tell the Planner what your child loves (“She is interested in stitching and space”), and DeepKids links it to topics.</p>`
+   }</section>
    <section class="sec"><div class="sech"><h3>Skills</h3><span class="xs muted">from classes and practice</span></div>${
      K.length
        ? `<div class="col" style="gap:10px">${K.map((x) => `<div class="hbar"><span class="sm"><b>${esc(x.name)}</b> · ${esc(SKILLCAT[x.cat] || "Skill")} · ${x.n} session${x.n === 1 ? "" : "s"}, ${hmin(x.mins)} since ${esc(fmt(x.from))}</span><div class="hb"><i style="width:${(x.mins / mx) * 100}%"></i></div></div>`).join("")}</div>`
@@ -240,12 +264,14 @@ function shelfUsed() {
 }
 // the transcript's sections: skills, learning outside lessons with the topics each one links to, and the home shelf
 function lifeTranscript() {
-  const B = shelfUsed(),
+  const I = intSt(),
+    B = shelfUsed(),
     K = lifeSkills(),
     M = lifeSt()
       .slice()
       .sort((a, b) => (a.date < b.date ? -1 : 1));
   return (
+    (I.length ? `<h2>Interests</h2><p>${I.map((x) => esc(x.t)).join(", ")}</p>` : "") +
     (K.length
       ? `<h2>Skills and activities</h2><table><tr><th>Skill</th><th>Kind</th><th>Sessions</th><th>Time</th><th>From</th><th>To</th></tr>${K.map((x) => `<tr><td>${esc(x.name)}</td><td>${esc(SKILLCAT[x.cat] || "")}</td><td>${x.n}</td><td>${hmin(x.mins)}</td><td>${esc(fmt(x.from))}</td><td>${esc(fmt(x.to))}</td></tr>`).join("")}</table>`
       : "") +

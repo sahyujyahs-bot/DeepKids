@@ -65,26 +65,37 @@ const darkRoom = (c: Ctx) => {
   shape(c, () => ell(c, 810, 691, 11, 37), "#fff6c4", 5);
 };
 
-// card e1.0: a pencil pushed through the orange, three dots stuck in a row
+// card e1.0: one hand holds the orange, the other pushes the pencil down into it (arrow along the pencil)
+const pencilIn = (c: Ctx, x: number, top: number, tip: number) => {
+  shape(c, () => rrect(c, x - 18, top + 48, 36, tip - 80 - top - 48, 3), COL.yellow, 5);
+  shade(c, () => rrect(c, x - 18, top + 48, 36, tip - 80 - top - 48, 3), "#e0a820", 11, 0, 0.7);
+  shape(c, () => polyP(c, [[x - 18, tip - 80], [x, tip], [x + 18, tip - 80]]), "#f1d3a0", 5);
+  shape(c, () => polyP(c, [[x - 6.5, tip - 26], [x, tip], [x + 6.5, tip - 26]]), INK, 3);
+  shape(c, () => rrect(c, x - 18, top + 30, 36, 18, 3), COL.steel, 5);
+  shape(c, () => rrect(c, x - 18, top, 36, 34, 12), COL.pink, 5);
+};
 const e1s0 = (c: Ctx) => {
   ground(c);
-  skewered(c, 540, 440, 230, [-64, -32, 0], false, 30, 960);
-  armHand(c, 540 - 126, 830, 0, 1.8);
-  arrow(c, [[740, 830], [740, 640]], RED, 16);
+  shadow(c, 560, 820, 200, 22);
+  fruit(c, 540, 560, 230, [-70, -40, -10], false); holes(c, 540, 560, 230);
+  pencilIn(c, 540, 40, 380);
+  armHand(c, 250, 800, -0.6, 1.8);
+  armHand(c, 666, 200, 0, 1.8, true);
+  arrow(c, [[400, 110], [400, 300]], RED, 16);
 };
 // card e1.1: the torch on the books shines at the orange, its right half bright
 const e1s1 = (c: Ctx) => {
   darkRoom(c);
-  skewered(c, 360, 430, 175, [-64, -32, 0], true, 70, 940);
+  skewered(c, 360, 430, 175, [-80, -50, -20], true, 70, 940);
   armHand(c, 360 - 126, 820, 0, 1.8);
 };
-// card e1.2: hands turn the orange, a dot just coming into the light
+// card e1.2: the hand turns the orange, arrow round the pencil towards the light, one dot just inside the light
 const e1s2 = (c: Ctx) => {
   darkRoom(c);
-  skewered(c, 360, 430, 175, [-52, -20, 12], true, 70, 940);
+  skewered(c, 360, 430, 175, [-48, -18, 12], true, 70, 940);
   armHand(c, 360 - 126, 820, 0, 1.8);
-  const pts: number[][] = []; for (let i = 0; i <= 10; i++) { const t = (i / 10) * Math.PI; pts.push([360 - 95 * Math.cos(t), 650 + 24 * Math.sin(t)]); }
-  arrow(c, pts, RED, 12);
+  const pts: number[][] = []; for (let i = 0; i <= 10; i++) { const t = (i / 10) * Math.PI; pts.push([360 - 130 * Math.cos(t), 652 + 30 * Math.sin(t)]); }
+  arrow(c, pts, RED, 16);
 };
 
 // ------------------------------------------------------------------ e2: the shadow stick

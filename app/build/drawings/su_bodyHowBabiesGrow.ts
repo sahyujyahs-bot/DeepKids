@@ -114,15 +114,18 @@ const shoulders = (c: Ctx, x: number, y: number, r: number, w: number, adult = f
   shape(c, p, cloth); shade(c, p, cdk, w * 0.07, 0, 0.7);
   shape(c, () => { c.moveTo(x - r * 0.3, y + r * 1.15); c.quadraticCurveTo(x, y + r * 1.6, x + r * 0.3, y + r * 1.15); c.closePath(); }, skin, 5);
 };
-// the zip-lock bag full of water, middle (x, y)
+// the zip-lock bag full of water, middle (x, y): a clear flat bag with a zip strip at the top and a bulging body
 const waterBag = (c: Ctx, x: number, y: number, w: number, h: number) => {
-  const p = () => rrect(c, x - w / 2, y - h / 2, w, h, 30);
+  const T = y - h / 2, B = y + h / 2;
+  const p = () => { c.moveTo(x - w * 0.5, T + 44); c.bezierCurveTo(x - w * 0.66, T + h * 0.45, x - w * 0.6, B - 20, x - w * 0.3, B); c.lineTo(x + w * 0.3, B); c.bezierCurveTo(x + w * 0.6, B - 20, x + w * 0.66, T + h * 0.45, x + w * 0.5, T + 44); c.closePath(); };
+  shadow(c, x + w * 0.1, B + 8, w * 0.5, w * 0.08);
+  shape(c, () => rrect(c, x - w * 0.5, T, w, 56, 10), "rgba(214,236,250,0.7)", 6);
   shape(c, p, "rgba(214,236,250,0.55)", 0);
-  c.save(); c.beginPath(); p(); c.clip(); c.fillStyle = COL.water; c.fillRect(x - w / 2, y - h / 2 + 40, w, h); c.fillStyle = COL.waterDk; c.globalAlpha = 0.5; c.fillRect(x + w * 0.2, y - h / 2, w, h); c.restore(); c.globalAlpha = 1;
+  c.save(); c.beginPath(); p(); c.clip(); c.fillStyle = COL.water; c.fillRect(x - w, T + 78, w * 2, h); c.fillStyle = COL.drop; c.fillRect(x - w, T + 78, w * 2, 12); c.fillStyle = COL.waterDk; c.globalAlpha = 0.5; c.fillRect(x + w * 0.2, T, w, h); c.restore(); c.globalAlpha = 1;
   shape(c, p, "rgba(255,255,255,0.1)", 6);
-  line(c, [[x - w / 2 + 8, y - h / 2 + 34], [x + w / 2 - 8, y - h / 2 + 34]], 6);
-  shape(c, () => rrect(c, x - 26, y - h / 2 + 18, 52, 30, 8), COL.teal, 5);
-  shine(c, [[x - w / 2 + 28, y - h / 2 + 90], [x - w / 2 + 28, y + h / 2 - 50]], 9);
+  line(c, [[x - w * 0.5 + 10, T + 16], [x + w * 0.5 - 10, T + 16]], 5); line(c, [[x - w * 0.5 + 10, T + 30], [x + w * 0.5 - 10, T + 30]], 5);
+  shape(c, () => rrect(c, x + w * 0.12, T + 8, 46, 30, 8), COL.teal, 5);
+  shine(c, [[x - w * 0.42, T + 120], [x - w * 0.44, B - 60]], 9);
 };
 const note = (c: Ctx, x: number, y: number, s: number, col: string) => {
   line(c, [[x + 24 * s, y], [x + 24 * s, y - 90 * s]], 8 * s, INK);
@@ -156,29 +159,33 @@ const e1_2 = (c: Ctx) => {
 
 // ---------------------------------------------------------------- e2: hearing through water
 // setup.e2.0
+const towelDrape = (c: Ctx, x: number, y: number) => {
+  // a folded towel hanging over the shoulder, two teal stripes
+  c.save(); c.translate(x, y); c.rotate(0.12);
+  const p = () => rrect(c, -90, 0, 180, 230, 20);
+  shape(c, p, COL.cloth); shade(c, p, "#d9d0bb", 26, 0, 0.7);
+  c.save(); c.beginPath(); p(); c.clip(); c.fillStyle = COL.teal; c.fillRect(-100, 60, 200, 24); c.fillRect(-100, 120, 200, 24); c.restore();
+  shape(c, p, "rgba(0,0,0,0)", 6);
+  c.restore();
+};
 const e2_0 = (c: Ctx) => {
   ground(c);
   shoulders(c, 400, 480, 205, 560);
-  // towel on the shoulder
-  c.save(); c.translate(235, 740); c.rotate(-0.28);
-  shape(c, () => rrect(c, -130, -50, 270, 150, 22), COL.cloth); shade(c, () => rrect(c, -130, -50, 270, 150, 22), "#d9d0bb", 20, 0, 0.7);
-  c.save(); c.beginPath(); rrect(c, -130, -50, 270, 150, 22); c.clip(); c.fillStyle = COL.teal; c.fillRect(-140, -6, 290, 24); c.fillRect(-140, 40, 290, 24); c.restore();
-  shape(c, () => rrect(c, -130, -50, 270, 150, 22), "rgba(0,0,0,0)", 6);
-  c.restore();
+  towelDrape(c, 590, 690);
   face(c, 400, 480, 205);
-  waterBag(c, 705, 500, 230, 310);
-  hand(c, 812, 600, Math.PI, 1.6, SKIN.child, CLOTH.child);
+  waterBag(c, 668, 500, 230, 320);
+  hand(c, 880, 600, Math.PI, 1.6, SKIN.child, CLOTH.child);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  shoulders(c, 790, 330, 140, 380, true);
-  face(c, 790, 330, 140, true, "shut", "hum");
-  note(c, 480, 380, 1.5, COL.blueDk); note(c, 600, 215, 0.8, COL.orange);
-  shoulders(c, 310, 660, 190, 520);
-  face(c, 310, 660, 190);
-  waterBag(c, 620, 700, 200, 270);
-  hand(c, 722, 780, Math.PI, 1.4, SKIN.child, CLOTH.child);
+  shoulders(c, 840, 290, 130, 340, true);
+  face(c, 840, 290, 130, true, "shut", "hum");
+  note(c, 540, 330, 1.5, COL.blueDk); note(c, 660, 200, 0.8, COL.orange);
+  shoulders(c, 300, 660, 185, 500);
+  face(c, 300, 660, 185);
+  waterBag(c, 560, 690, 210, 290);
+  hand(c, 690, 780, Math.PI, 1.4, SKIN.child, CLOTH.child);
 };
 // setup.e2.2
 const wave = (c: Ctx, x: number, y: number, len: number, amp: number, per: number, col: string) => {
@@ -188,9 +195,10 @@ const e2_2 = (c: Ctx) => {
   ground(c);
   shoulders(c, 500, 520, 200, 560);
   face(c, 500, 520, 200, false, "shut");
-  waterBag(c, 800, 560, 220, 300);
-  hand(c, 912, 660, Math.PI, 1.55, SKIN.child, CLOTH.child);
-  hand(c, 170, 540, 0, 1.8, SKIN.child, CLOTH.child, true);
+  waterBag(c, 745, 560, 220, 310);
+  hand(c, 900, 660, Math.PI, 1.55, SKIN.child, CLOTH.child);
+  // the other hand cups flat over the other ear
+  hand(c, 255, 720, -1.4, 1.7, SKIN.child, CLOTH.child, true);
   wave(c, 540, 90, 440, 34, 220, COL.blueDk);
   wave(c, 540, 200, 440, 18, 55, COL.orange);
 };
@@ -214,15 +222,17 @@ const e3_1 = (c: Ctx) => {
   ground(c); table(c, 900);
   standBottle(c, 150, 960, 170, 400); steam(c, 150, 500, 1);
   standBottle(c, 430, 960, 170, 400); towelWrap(c, 430, 960, 170, 400); steam(c, 430, 500, 1);
-  // the third bottle held to a grown-up's chest under a dupatta
-  const chest = () => rrect(c, 640, 300, 520, 900, 120);
-  shape(c, chest, CLOTH.adult); shade(c, chest, CLOTH.adultDk, 40, 0, 0.7);
-  shape(c, () => { c.moveTo(780, 300); c.quadraticCurveTo(880, 400, 980, 300); c.closePath(); }, SKIN.adult, 5);
-  bottle(c, 830, 650, 0, 150, 360, -60);
-  shape(c, () => { c.moveTo(680, 620); c.quadraticCurveTo(830, 560, 980, 640); c.lineTo(1000, 1000); c.lineTo(660, 1000); c.closePath(); }, COL.pink);
-  shade(c, () => { c.moveTo(680, 620); c.quadraticCurveTo(830, 560, 980, 640); c.lineTo(1000, 1000); c.lineTo(660, 1000); c.closePath(); }, "#d97090", 30, 0, 0.6);
-  line(c, [[672, 640], [662, 1000]], 12, COL.yellow); line(c, [[672, 640], [662, 1000]], 4, INK);
-  hand(c, 985, 850, Math.PI * 1.15, 1.6, SKIN.adult, CLOTH.adult);
+  // the third bottle held to a grown-up's chest, a dupatta over it
+  shoulders(c, 840, 280, 115, 420, true);
+  face(c, 840, 280, 115, true);
+  bottle(c, 840, 700, 0, 150, 340, -85);
+  const cloth = () => { c.moveTo(690, 650); c.quadraticCurveTo(840, 585, 990, 650); c.lineTo(1010, 980); c.lineTo(670, 980); c.closePath(); };
+  const strap = (a: number) => shape(c, () => polyP(c, [[840 + a * 90, 420], [840 + a * 140, 440], [840 + a * 175, 650], [840 + a * 150, 650]]), COL.pink, 5);
+  strap(-1); strap(1);
+  shape(c, cloth, COL.pink); shade(c, cloth, "#d97090", 40, 0, 0.6);
+  line(c, [[740, 700], [735, 960]], 5, "#d97090"); line(c, [[940, 700], [945, 960]], 5, "#d97090");
+  hand(c, 700, 890, -0.8, 1.5, SKIN.adult, CLOTH.adult, true);
+  hand(c, 960, 890, Math.PI + 0.8, 1.5, SKIN.adult, CLOTH.adult, true);
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {

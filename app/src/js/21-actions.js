@@ -252,13 +252,15 @@ function onAct(e) {
       break;
     }
     case "tday": {
-      navPush();
-      const d = b.dataset.d;
+      // the day changes in place: the day header stays where it was on the screen, only the list below it changes
+      const d = b.dataset.d,
+        top = document.querySelector(".calhead")?.getBoundingClientRect().top;
       ui.tday = d === "0" ? null : addDays(ui.tday || today, +d);
       if (ui.tday === today) ui.tday = null;
       sfx("tap");
       render();
-      scrollTo(0, 0);
+      const el = document.querySelector(".calhead");
+      if (el && top != null) scrollBy(0, el.getBoundingClientRect().top - top);
       break;
     }
     case "quickday": {
@@ -1450,6 +1452,20 @@ function onAct(e) {
       break;
     case "lifeopen":
       openSheet({ mode: "moment", id: b.dataset.id });
+      break;
+    case "intq": {
+      const x = intSt().find((y) => y.id === b.dataset.id),
+        L = x.links.filter((l) => !x.queued.includes(l.k) && lifeTarget(l.k).u);
+      L.forEach((l) => qPut("les", lifeTarget(l.k).u.subj, "les:" + lifeTarget(l.k).u.k, "end"));
+      x.queued = [...x.queued, ...L.map((l) => l.k)];
+      sfx("ok");
+      toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+      commit();
+      break;
+    }
+    case "intx":
+      S.interests = intSt().filter((y) => y.id !== b.dataset.id);
+      commit();
       break;
     case "lifeq":
       lifeQueue(b.dataset.id);

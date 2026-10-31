@@ -69,15 +69,20 @@ const cardE12 = (c: Ctx) => {
   ground(c);
   shadow(c, 560, 1010, 450, 22);
   shape(c, () => rrect(c, 60, 90, 960, 910, 18), WHITE, 6);
-  line(c, [[60, 500], [1020, 500]], 4, COL.sky);
-  const icon = (x: number, y: number, hot: boolean) => glassIn(c, x, y, 150, 190, 0.8, hot ? HOT : COL.water, () => { egg(c, x, y - 55, 38, 50); if (!hot) ice(c, x - 25, y - 150, 16, 0.3); }, 0.4);
-  icon(200, 400, true); icon(200, 780, false); steam(c, 195, 200, 110);
+  line(c, [[60, 520], [1020, 520]], 4, COL.sky);
+  // the hot glass shows its trails of bubbles; the cold glass has none, so its tally is 0
+  const icon = (x: number, y: number, hot: boolean) => glassIn(c, x, y, 200, 260, 0.8, hot ? HOT : COL.water, () => {
+    egg(c, x, y - 75, 50, 66);
+    if (hot) { [-30, 0, 30].forEach((dx, k) => [155, 180, 203].forEach((d, i) => bubble(c, x + dx + (i % 2 ? 5 : -5), y - d - (k === 1 ? 0 : 4), 8))); bubble(c, x - 58, y - 100, 7); bubble(c, x + 60, y - 120, 7); }
+    else { ice(c, x - 40, y - 205, 20, 0.3); ice(c, x + 35, y - 200, 18, -0.2); }
+  }, 0.4);
+  icon(200, 450, true); icon(200, 910, false); steam(c, 200, 175, 60);
   const mark = (x: number, y0: number) => line(c, [[x, y0], [x, y0 + 105]], 11);
-  [380, 414, 448, 482].forEach((x) => mark(x, 290)); line(c, [[362, 385], [505, 300]], 11); [545, 579].forEach((x) => mark(x, 290));
-  [380, 414, 448].forEach((x) => mark(x, 650));
-  // the pencil making the fourth mark, a child's hand holding it
-  const tip = [482, 755], an = Math.PI - 0.5, dx = Math.cos(an), dy = Math.sin(an), wx = tip[0] - dx * 310, wy = tip[1] - dy * 310;
-  line(c, [[482, 650], tip], 11);
+  [380, 414, 448, 482].forEach((x) => mark(x, 270)); line(c, [[362, 365], [505, 280]], 11); mark(545, 270);
+  write(c, "0", 400, 690, 150, INK, 13);
+  // the pencil making the next mark, a child's hand holding it
+  const tip = [579, 375], an = Math.PI - 0.5, dx = Math.cos(an), dy = Math.sin(an), wx = tip[0] - dx * 310, wy = tip[1] - dy * 310;
+  line(c, [[579, 270], tip], 11);
   const pt = (d: number) => [wx + dx * d, wy + dy * d];
   line(c, [pt(40), pt(255)], 38, INK); line(c, [pt(40), pt(255)], 28, COL.yellow);
   shape(c, () => polyP(c, [[pt(250)[0] - dy * 18, pt(250)[1] + dx * 18], [pt(250)[0] + dy * 18, pt(250)[1] - dx * 18], tip]), COL.wood, 5);
@@ -148,20 +153,23 @@ const tadpole = (c: Ctx, x: number, y: number, s: number, rot = 0, col = "#4a3f3
 const cardE30 = (c: Ctx) => {
   ground(c, "#cfe3a8");
   [[70, 90, 3.7], [110, 70, 4.1], [980, 100, 5.2], [1010, 140, 5.6]].forEach(([x, y, a]) => leaf(c, x, y, 110, a));
-  shape(c, () => ell(c, 540, 770, 520, 260), "#8c6a45", 6); shape(c, () => ell(c, 540, 765, 485, 232), "#b48a5c", 0);
-  line(c, [[200, 700], [320, 650]], 8, "#d9c3a0"); line(c, [[780, 880], [900, 840]], 8, "#d9c3a0");
-  [[300, 700, 1.0, 0.3], [410, 650, 1.1, 2.9], [330, 820, 1.0, 3.5], [700, 730, 1.1, 0.4], [820, 810, 1.0, 5.6], [520, 850, 1.1, 0.1], [610, 650, 0.9, 3.2]].forEach(([x, y, s, r]) => tadpole(c, x, y, s, r));
-  // the steel tumbler, tilted, its mouth dipping into the water
-  [[485, 590, 130, 32], [485, 590, 185, 50]].forEach(([x, y, rx, ry], i) => { c.beginPath(); ell(c, x, y + 12, rx, ry); c.strokeStyle = WHITE; c.lineWidth = i ? 5 : 8; c.globalAlpha = i ? 0.6 : 0.9; c.stroke(); c.globalAlpha = 1; });
-  c.save(); c.translate(560, 430); c.rotate(3.665);
+  // a shallow puddle in the mud, tadpoles swimming in it
+  shape(c, () => ell(c, 540, 780, 520, 250), "#8c6a45", 6);
+  const pud = () => ell(c, 540, 780, 465, 205);
+  shape(c, pud, "#9ccbd8", 5); shade(c, pud, COL.waterDk, 40, 30, 0.45);
+  // the steel tumbler, tilted, its mouth dipping under the water
+  c.save(); c.translate(560, 580); c.rotate(3.665);
   const body = () => { c.moveTo(-85, -150); c.lineTo(85, -150); c.lineTo(68, 150); c.lineTo(-68, 150); c.closePath(); };
   shape(c, body, COL.steel); shade(c, body, COL.steelDk, -30, -10, 0.8);
   shape(c, () => ell(c, 0, -150, 85, 24), "#6f7a8b", 6);
   line(c, [[-55, -110], [-45, 90]], 9, WHITE);
   c.restore();
-  arrow(c, [[800, 600], [720, 640], [650, 660]]);
-  hand(c, 683, 305, 2.5, 1.3);
-  hand(c, 421, 444, 0.35, 1.5, SKIN.adult, CLOTH.adult);
+  c.save(); c.beginPath(); pud(); c.clip(); c.fillStyle = "rgba(143,195,234,0.4)"; c.fillRect(0, 700, 1080, 400); c.restore();
+  [[260, 790, 1.0, 0.3], [640, 850, 1.1, 2.9], [770, 760, 1.0, 0.4], [860, 830, 1.0, 5.6], [700, 910, 1.1, 0.1], [560, 800, 1.0, 3.2], [300, 880, 1.1, 5.5]].forEach(([x, y, s, r]) => tadpole(c, x, y, s, r));
+  [[480, 720, 130, 36], [480, 720, 185, 54]].forEach(([x, y, rx, ry], i) => { c.beginPath(); ell(c, x, y + 12, rx, ry); c.strokeStyle = WHITE; c.lineWidth = i ? 5 : 8; c.globalAlpha = i ? 0.6 : 0.9; c.stroke(); c.globalAlpha = 1; });
+  tadpole(c, 450, 810, 1.1, 5.9); tadpole(c, 395, 770, 1.0, 0.6);
+  arrow(c, [[330, 990], [405, 870]], RED, 14);
+  hand(c, 683, 455, 2.5, 1.3);
 };
 
 // the clear tub, seen from the front; `inside` draws what is in the water
