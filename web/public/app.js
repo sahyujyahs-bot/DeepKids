@@ -8497,8 +8497,11 @@ function invContext() {
 }
 // a typed list of things the family owns, read on the phone: one thing per comma, line or "and", sorted by what it is
 const INVCAT = [
-  ["book", /\b(book|books|reader|encyclop|atlas|comic|magazine|dictionary|storybook|workbook|series)\b/i],
-  ["game", /\b(game|games|cards|puzzle|jigsaw|lego|blocks|chess|ludo|carrom|uno|monopoly|scrabble|domino)/i],
+  ["book", /\b(book|reader|encyclop|atlas|comic|magazine|dictionar|novel|series)|[A-Z][\w]+'s [A-Z]/],
+  [
+    "game",
+    /\b(game|games|cards|puzzle|jigsaw|lego|blocks|chess|ludo|carrom|uno|monopoly|scrabble|domino|snakes|ladders|bingo|housie|pictionary|jenga|business)/i,
+  ],
   ["electronics", /\b(tablet|laptop|computer|kindle|phone|ipad|speaker|tv|television)\b/i],
   [
     "equipment",
@@ -8507,8 +8510,11 @@ const INVCAT = [
   ["tool", /\b(scissors|hammer|screwdriver|tool|glue|stapler|saw|pliers)\b/i],
 ];
 function invLocal(text) {
+  // "Snakes and Ladders": an "and" between two capitalised words is part of a title
   return text
+    .replace(/\b([A-Z][\w']*) and (?=[A-Z])/g, "$1 \u0026 ")
     .split(/\n|,|;|\band\b/i)
+    .map((t) => t.replace(/ \u0026 /g, " and "))
     .map((t) =>
       t
         .trim()
