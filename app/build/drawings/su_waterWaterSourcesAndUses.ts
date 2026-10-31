@@ -143,13 +143,21 @@ const bottle = (c: Ctx, x: number, y: number, w: number, h: number, wrapped: boo
   shape(c, () => rrect(c, x - w * 0.24, y - h - 30, w * 0.48, 36, 10), COL.teal, 6);
   shine(c, [[x - w * 0.32, y - h * 0.78], [x - w * 0.32, y - h * 0.3]], 9);
   if (wrapped) {
-    const ct = y - h * 0.8, cloth = () => { c.moveTo(x - w / 2 - 8, ct); c.lineTo(x + w / 2 + 8, ct + 10); c.lineTo(x + w / 2 + 8, y - 6); c.quadraticCurveTo(x + w / 2 + 8, y + 6, x + w / 2 - 6, y + 6); c.lineTo(x - w / 2 + 6, y + 6); c.quadraticCurveTo(x - w / 2 - 8, y + 6, x - w / 2 - 8, y - 6); c.closePath(); };
-    shape(c, cloth, "#b9d6ee", 6); shade(c, cloth, "#8fb3dc", w * 0.25, 0, 0.5);
-    for (const fx of [-0.25, 0.05, 0.3]) line(c, [[x + w * fx, ct + 14], [x + w * fx + 4, y - 14]], 4, "#8fb3dc");
-    for (const [dx, dy] of [[-0.3, 0.3], [0.1, 0.45], [0.3, 0.2], [-0.1, 0.65]]) drop(c, x + w * dx, ct + (y - ct) * dy, 9);
+    const ct = y - h * 0.8, L = x - w / 2 - 14, R = x + w / 2 + 14, bt = y + 10;
+    const cloth = () => { c.moveTo(L, ct + 8); c.bezierCurveTo(L + 40, ct - 14, L + 90, ct + 26, x, ct + 8); c.bezierCurveTo(x + 40, ct - 10, R - 50, ct + 24, R, ct + 8); c.bezierCurveTo(R + 14, ct + (bt - ct) * 0.5, R + 10, bt - 30, R - 2, bt - 6); c.bezierCurveTo(R - 40, bt + 14, x + 60, bt - 14, x, bt + 4); c.bezierCurveTo(x - 60, bt + 18, L + 40, bt - 12, L + 2, bt - 6); c.bezierCurveTo(L - 12, bt - 30, L - 14, ct + (bt - ct) * 0.5, L, ct + 8); c.closePath(); };
+    shape(c, cloth, "#fbf4df", 6); shade(c, cloth, "#d9c9a0", w * 0.28, 0, 0.6);
+    c.save(); c.beginPath(); cloth(); c.clip();
+    c.fillStyle = "rgba(95,159,211,0.38)"; c.fillRect(L - 20, ct + (bt - ct) * 0.4, R - L + 40, bt - ct);
+    for (const fx of [-0.3, 0.0, 0.3]) { c.beginPath(); c.moveTo(x + w * fx, ct + 20); c.bezierCurveTo(x + w * fx + 18, ct + (bt - ct) * 0.35, x + w * fx - 18, ct + (bt - ct) * 0.65, x + w * fx + 4, bt - 10); c.strokeStyle = "rgba(43,35,64,0.45)"; c.lineWidth = 5; c.lineCap = "round"; c.stroke(); }
+    line(c, [[L, bt - 60], [R, bt - 60]], 9, COL.blue);
+    c.restore();
+    shape(c, () => { c.moveTo(R - 6, ct + 30); c.bezierCurveTo(R + 50, ct + 20, R + 80, ct + 90, R + 56, ct + 150); c.lineTo(R + 30, ct + 130); c.lineTo(R + 14, ct + 160); c.bezierCurveTo(R - 4, ct + 110, R - 10, ct + 70, R - 6, ct + 30); c.closePath(); }, "#fbf4df", 5);
+    for (const [dx, dy] of [[-0.3, 0.3], [0.2, 0.5], [0, 0.78]]) drop(c, x + w * dx, ct + (bt - ct) * dy, 9);
+    drop(c, R + 40, ct + 215, 9); drop(c, x - w * 0.2, bt + 40, 9); drop(c, x + w * 0.25, bt + 62, 9);
   }
 };
 
+// ---- the sunny sill (e4)
 // ---------------------------------------------------------------- the sunny sill (e4)
 const sill = (c: Ctx) => {
   ground(c);
@@ -227,24 +235,26 @@ const su_e2_1 = (c: Ctx) => {
 // setup.e2.2
 const su_e2_2 = (c: Ctx) => {
   ground(c);
-  const x = 620, y = 990, sx = x - JW / 2 + 38, top = y - JH;
-  jar(c, x, y, 70, false, () => strawPath(c, sx, 340, y - 24, 340));
-  strawPath(c, sx, 340, top - 4, 340);
+  const x = 620, y = 990, sx = x - JW / 2 + 38, top = y - JH, st = 354;
+  jar(c, x, y, 70, false, () => strawPath(c, sx, st, y - 24, 400));
+  strawPath(c, sx, st, top - 4, 400);
   // marker lines: where the water was and where it is now
   line(c, [[x - JW / 2 - 12, y - 160], [x + JW / 2 + 70, y - 160]], 9, INK);
   line(c, [[x - JW / 2 - 12, y - 70], [x + JW / 2 + 70, y - 70]], 9, INK);
   arrow(c, [[x + JW / 2 + 40, y - 150], [x + JW / 2 + 40, y - 85]]);
-  // the syringe, full of the water it pulled up
-  const bx = sx, bt = 130, bb = 330, pp = 250;
-  shape(c, () => rrect(c, bx - 11, bb, 22, 20, 4), COL.steelDk, 5);
-  shape(c, () => rrect(c, bx - 11, 20, 22, pp - 20, 4), COL.steel, 5);
-  shape(c, () => rrect(c, bx - 60, 14, 120, 18, 8), COL.steel, 5);
-  shape(c, () => rrect(c, bx - 40, bt, 80, bb - bt, 10), "rgba(214,236,250,0.5)", 6);
-  c.save(); c.beginPath(); rrect(c, bx - 37, pp, 74, bb - pp - 3, 8); c.clip(); c.fillStyle = COL.water; c.fillRect(bx - 40, pp, 80, 200); c.restore();
-  shape(c, () => rrect(c, bx - 38, pp - 14, 76, 24, 6), COL.black, 5);
-  for (let i = 0; i < 4; i++) line(c, [[bx + 8, 168 + i * 34], [bx + 36, 168 + i * 34]], 4);
-  shape(c, () => rrect(c, bx - 62, bt - 8, 124, 14, 6), COL.steel, 5);
-  hand(c, bx - 98, 200, 0.05, 1.4);
+  // the syringe sits on the top end of the straw: nozzle over the straw, wide barrel, plunger pulled up
+  const bt = 136, bb = 314, stop = 214;
+  shape(c, () => polyP(c, [[sx - 15, st + 6], [sx + 15, st + 6], [sx + 42, bb], [sx - 42, bb]]), COL.steel, 6);
+  c.save(); c.beginPath(); rrect(c, sx - 50, bt, 100, bb - bt, 10); c.clip(); c.fillStyle = "rgba(235,246,252,0.9)"; c.fillRect(sx - 60, bt, 120, bb - bt); c.fillStyle = COL.water; c.fillRect(sx - 60, stop, 120, bb - stop); c.restore();
+  shape(c, () => rrect(c, sx - 10, 36, 20, stop - 36, 4), COL.steel, 5);
+  shape(c, () => rrect(c, sx - 47, stop - 14, 94, 26, 6), COL.black, 5);
+  shape(c, () => rrect(c, sx - 50, bt, 100, bb - bt, 10), "rgba(214,236,250,0.3)", 6);
+  for (let i = 0; i < 4; i++) line(c, [[sx + 14, 242 + i * 18], [sx + 46, 242 + i * 18]], 4);
+  shine(c, [[sx - 34, 154], [sx - 34, 194]], 7);
+  shape(c, () => rrect(c, sx - 68, bt - 8, 136, 16, 6), COL.steel, 5);
+  shape(c, () => rrect(c, sx - 44, 22, 88, 16, 7), COL.steel, 5);
+  handL(c, sx + 84, 92, 0, 1.2);
+  arrow(c, [[sx - 100, 200], [sx - 100, 100]]);
 };
 // setup.e3.0
 const su_e3_0 = (c: Ctx) => {

@@ -62,13 +62,21 @@ const thing = (c: Ctx, kind: Kind, x: number, y: number, s: number, aged = false
       for (let i = 0; i < 5; i++) shape(c, () => ell(c, -22 + r() * 44, -14 + r() * 44, 7 + r() * 5, 5 + r() * 4, r() * 3), "#6f6a62", 0);
     }
   } else if (kind === "cloth") {
-    const p = () => { c.moveTo(-50, -42); c.quadraticCurveTo(0, -52, 50, -42); c.lineTo(46, 30); for (let i = 0; i < 6; i++) c.lineTo(46 - (i + 0.5) * 15.3, 46), c.lineTo(46 - (i + 1) * 15.3, 30); c.closePath(); };
-    shape(c, p, aged ? "#d8cdb2" : COL.cloth, 6);
+    // a check cotton cloth (a gamchha): plaid, a folded corner, fringe at both ends; aged = stained, mouldy, with holes
+    const p = () => { c.moveTo(-50, -44); c.quadraticCurveTo(0, -52, 50, -44); c.quadraticCurveTo(56, 0, 50, 44); c.quadraticCurveTo(0, 36, -50, 44); c.quadraticCurveTo(-56, 0, -50, -44); c.closePath(); };
+    for (let i = 0; i < 6; i++) for (const sx of [-1, 1]) line(c, [[sx * 50, -34 + i * 14], [sx * 66, -38 + i * 14]], 4, INK);
+    shape(c, p, aged ? "#cfc19b" : COL.cloth, 6);
     c.save(); c.beginPath(); p(); c.clip();
-    c.fillStyle = COL.blue; c.fillRect(-60, -22, 120, 10); c.fillRect(-60, 2, 120, 10);
-    if (aged) { c.fillStyle = "rgba(122,86,40,0.7)"; c.beginPath(); ell(c, -22, -8, 26, 20, 0.4); c.fill(); c.beginPath(); ell(c, 26, 16, 22, 18, 0); c.fill(); c.fillStyle = "rgba(90,100,60,0.65)"; c.beginPath(); ell(c, 8, -30, 18, 11, 0); c.fill(); }
-    c.fillStyle = "rgba(43,35,64,0.12)"; c.fillRect(20, -60, 60, 120);
-    c.restore(); shape(c, p, "rgba(0,0,0,0)", 6);
+    c.fillStyle = aged ? "rgba(111,127,154,0.55)" : "rgba(91,143,214,0.6)";
+    for (const g of [-34, -6, 22]) { c.fillRect(g, -60, 10, 120); c.fillRect(-60, g, 120, 10); }
+    c.fillStyle = "rgba(43,35,64,0.12)"; c.fillRect(22, -60, 60, 120);
+    if (aged) {
+      c.fillStyle = "rgba(110,72,34,0.75)"; c.beginPath(); ell(c, -24, -14, 28, 22, 0.4); c.fill(); c.beginPath(); ell(c, 26, 20, 24, 18, 0); c.fill();
+      c.fillStyle = "rgba(80,100,50,0.8)"; c.beginPath(); ell(c, 14, -30, 20, 12, 0); c.fill();
+    }
+    c.restore();
+    if (aged) { shape(c, () => ell(c, -22, -10, 15, 11, 0.4), COL.soil, 4); shape(c, () => ell(c, 24, 18, 12, 9, 0.2), COL.soil, 4); }
+    shape(c, () => polyP(c, [[50, -44], [52, -8], [14, -46]]), aged ? "#b9ab86" : "#ebe3cc", 5);
   } else pillow(c, 0, 0, 82, 104, COL.blue, "drop");
   c.restore();
 };
@@ -154,18 +162,19 @@ const heap = (c: Ctx, cx: number, yb: number, w: number, h: number, col: string,
 // card: setup.e2.0
 const c_e2_0 = (c: Ctx) => {
   table(c, 0);
-  plate(c, 540, 800, 440, 190);
-  heap(c, 330, 820, 260, 150, COL.red, "#b73a26", 3);
-  heap(c, 750, 820, 260, 150, COL.blue, COL.blueDk, 4);
-  // a child's hand holds a crayon and peels its paper off in a strip
-  const an = 0.9, s = 2.2, d = [Math.cos(an), Math.sin(an)], mid = [380, 250], len = 520;
-  const back = [mid[0] - d[0] * len * 0.2, mid[1] - d[1] * len * 0.2], wx = mid[0] - d[0] * 70 * s, wy = mid[1] - d[1] * 70 * s;
-  crayon(c, back[0], back[1], an, len, 76, COL.red, "#b73a26", 0.55);
-  const P = [back[0] + d[0] * len * 0.55, back[1] + d[1] * len * 0.55];
-  const curl = [[P[0], P[1]], [P[0] + 60, P[1] + 40], [P[0] + 70, P[1] + 110], [P[0] + 10, P[1] + 140], [P[0] - 20, P[1] + 100], [P[0] + 20, P[1] + 80]];
-  line(c, curl, 34, INK); line(c, curl, 22, COL.paper);
-  arm(c, wx, wy, an, s, CLOTH.child, 420);
-  hand(c, wx, wy, an, s, SKIN.child, CLOTH.child);
+  plate(c, 540, 860, 420, 140);
+  heap(c, 340, 870, 200, 100, COL.red, "#b73a26", 3);
+  heap(c, 740, 870, 200, 100, COL.blue, COL.blueDk, 4);
+  // one hand holds the broken crayon, the other pulls the paper off in a strip
+  const cy = 450;
+  crayon(c, 180, cy, 0, 640, 120, COL.red, "#b73a26", 0.6);
+  const strip = [[570, cy - 60], [520, cy - 130], [450, cy - 190], [405, cy - 235]];
+  line(c, strip, 50, INK); line(c, strip, 38, COL.paper); line(c, strip, 6, COL.red);
+  arm(c, 321, 131, 0.785, 1.6, CLOTH.child, 420);
+  hand(c, 321, 131, 0.785, 1.6, SKIN.child, CLOTH.child);
+  arm(c, 110, cy, 0, 1.6, CLOTH.child, 300);
+  hand(c, 110, cy, 0, 1.6, SKIN.child, CLOTH.child);
+  arrow(c, [[640, 300], [560, 210], [500, 150]], RED, 14);
 };
 
 // ------------------------------------------------------------ melting
@@ -209,27 +218,27 @@ const c_e2_1 = (c: Ctx) => {
 // card: setup.e2.2
 const c_e2_2 = (c: Ctx) => {
   table(c, 0);
-  // the paper with the test strokes
+  // the paper with the test strokes: four of each new crayon
   shadow(c, 560, 1010, 440, 30);
   shape(c, () => rrect(c, 100, 440, 880, 580, 14), COL.paper, 6);
-  const stroke = (pts: number[][], col: string) => { line(c, pts, 34, INK); line(c, pts, 24, col); };
-  stroke([[200, 560], [330, 640], [250, 700], [420, 760]], COL.brown);
-  stroke([[540, 560], [650, 650], [570, 710], [690, 790]], COL.blue);
-  // the silicone tray with the two new crayons in it
-  shadow(c, 560, 420, 450, 36);
-  shape(c, () => rrect(c, 100, 50, 880, 350, 50), COL.purple, 6);
-  shade(c, () => rrect(c, 100, 50, 880, 350, 50), "#6c4fa8", 0, 40, 0.5);
-  for (const [x, col, dk] of [[160, COL.blue, COL.blueDk], [560, COL.brown, "#7c4a22"]] as [number, string, string][]) {
-    shape(c, () => rrect(c, x, 120, 360, 210, 40), "#6c4fa8", 5);
-    shape(c, () => rrect(c, x + 18, 140, 324, 170, 30), col, 5);
-    shade(c, () => rrect(c, x + 18, 140, 324, 170, 30), dk, 0, 50, 0.6);
-    if (x > 400) for (const [dx, cc] of [[80, COL.orange], [180, COL.red], [250, COL.yellow]] as [number, string][]) { c.beginPath(); ell(c, x + dx, 225, 30, 14, 0.4); c.fillStyle = cc; c.globalAlpha = 0.8; c.fill(); c.globalAlpha = 1; }
-    shine(c, [[x + 50, 168], [x + 150, 168]], 9);
+  const stroke = (pts: number[][], col: string) => { line(c, pts, 30, INK); line(c, pts, 20, col); };
+  for (let i = 0; i < 4; i++) {
+    stroke([[150 + i * 56, 500 + (i % 2) * 8], [195 + i * 56, 640], [150 + i * 56, 780]], COL.brown);
+    stroke([[470 + i * 62, 500], [515 + i * 62, i === 3 ? 640 : 640 + (i % 2) * 10], [470 + i * 62, i === 3 ? 720 : 780]], COL.blue);
   }
+  // the silicone tray with the two new crayons, each in its crayon-shaped hollow
+  shadow(c, 560, 410, 450, 30);
+  shape(c, () => rrect(c, 100, 40, 880, 330, 44), COL.purple, 6);
+  shade(c, () => rrect(c, 100, 40, 880, 330, 44), "#6c4fa8", 0, 40, 0.5);
+  crayon(c, 150, 135, 0, 700, 130, "#6c4fa8", "#6c4fa8", 0); crayon(c, 150, 275, 0, 700, 130, "#6c4fa8", "#6c4fa8", 0);
+  crayon(c, 170, 135, 0, 660, 100, COL.blue, COL.blueDk, 0);
+  crayon(c, 170, 275, 0, 660, 100, COL.brown, "#7c4a22", 0);
+  for (const [dx, cc] of [[100, COL.orange], [260, COL.red], [400, COL.yellow], [520, COL.orange]] as [number, string][]) { c.beginPath(); ell(c, 170 + dx, 275 + (dx % 40 ? -8 : 10), 40, 14, 0.4); c.fillStyle = cc; c.globalAlpha = 0.8; c.fill(); c.globalAlpha = 1; }
+  shine(c, [[230, 112], [420, 112]], 9);
   // a child's hand draws with the new blue crayon
-  const an = 2.3, d = [Math.cos(an), Math.sin(an)], T = [690, 790], len = 340, s = 1.8;
-  const back = [T[0] - d[0] * len, T[1] - d[1] * len], mid = [T[0] - d[0] * 190, T[1] - d[1] * 190];
-  crayon(c, back[0], back[1], an, len, 74, COL.blue, COL.blueDk, 0);
+  const an = 2.3, d = [Math.cos(an), Math.sin(an)], T = [668, 725], len = 440, s = 1.5;
+  const back = [T[0] - d[0] * len, T[1] - d[1] * len], mid = [T[0] - d[0] * 300, T[1] - d[1] * 300];
+  crayon(c, back[0], back[1], an, len, 90, COL.blue, COL.blueDk, 0);
   arm(c, mid[0] - d[0] * 70 * s, mid[1] - d[1] * 70 * s, an, s, CLOTH.child, 420);
   hand(c, mid[0] - d[0] * 70 * s, mid[1] - d[1] * 70 * s, an, s, SKIN.child, CLOTH.child);
 };
@@ -320,6 +329,18 @@ const c_e3_0 = (c: Ctx) => {
   for (let i = 0; i < 5; i++) atta(c, 585 + i * 98, 1010, 86, 170);
 };
 
+// a child's hand held up counting: three fingers raised, the thumb holding the little finger down; wrist at (x, y)
+const countHand = (c: Ctx, x: number, y: number, s: number) => {
+  c.save(); c.translate(x, y); c.scale(s, s);
+  shape(c, () => rrect(c, -80, 0, 160, 120, 16), CLOTH.child, 6);
+  for (const [fx, fh] of [[-52, 130], [-8, 160], [36, 135]]) shape(c, () => rrect(c, fx - 19, -110 - fh, 38, fh + 40, 19), SKIN.child, 6);
+  shape(c, () => rrect(c, -70, -120, 140, 130, 30), SKIN.child, 6);
+  shape(c, () => ell(c, 58, -62, 20, 30), SKIN.child, 5);
+  shape(c, () => rrect(c, -66, -66, 110, 36, 18), SKIN.child, 5);
+  line(c, [[-30, -48], [10, -48]], 3, SKIN.childDk);
+  c.restore();
+};
+
 // card: setup.e3.1
 const cushion = (c: Ctx, x: number, y: number, w: number, h: number) => {
   shadow(c, x + 20, y + h * 0.5, w * 0.55, h * 0.18);
@@ -352,8 +373,7 @@ const c_e3_2 = (c: Ctx) => {
   bagShirt(c, 440, 770, 400, 330, [440, 260]);
   arm(c, 440, 100, Math.PI / 2, 2.2, CLOTH.adult, 300);
   hand(c, 440, 100, Math.PI / 2, 2.2, SKIN.adult, CLOTH.adult);
-  arm(c, 920, 1000, -Math.PI / 2, 1.8, CLOTH.child, 300);
-  hand(c, 920, 1000, -Math.PI / 2, 1.8, SKIN.child, CLOTH.child, true);
+  countHand(c, 900, 1040, 1.3);
   arrow(c, [[110, 880], [110, 620]], RED, 14);
 };
 

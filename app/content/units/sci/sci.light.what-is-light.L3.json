@@ -614,17 +614,71 @@
       "A bulb on the ceiling",
       "A street light at the end of the road",
       "A lighthouse 20 kilometres out at sea",
-      "Lightning in a storm 5 kilometres away",
-      "The Moon",
-      "The Sun",
-      "Venus, the bright 'evening star'",
-      "Mars",
-      "Jupiter",
-      "Saturn",
+      {
+       "f": "Lightning in a storm 5 kilometres away",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-04.jpg",
+        "credit": "NPS, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "The Moon",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-05.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
+      },
+      {
+       "f": "The Sun",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-06.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "Venus, the bright 'evening star'",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-07.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
+      },
+      {
+       "f": "Mars",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-08.jpg",
+        "credit": "JPL/NASA/STScI, public domain"
+       }
+      },
+      {
+       "f": "Jupiter",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-09.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "Saturn",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-10.jpg",
+        "credit": "NASA/JPL/Space Science Institute, public domain"
+       }
+      },
       "Sirius, the brightest star",
       "Betelgeuse, the red star in Orion",
-      "The Orion Nebula, a glowing cloud in Orion's sword",
-      "The Andromeda galaxy",
+      {
+       "f": "The Orion Nebula, a glowing cloud in Orion's sword",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-13.jpg",
+        "credit": "NASA/JPL-Caltech/UCLA, public domain"
+       }
+      },
+      {
+       "f": "The Andromeda galaxy",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-14.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "The oldest light: the glow left over from the young universe"
      ]
     },

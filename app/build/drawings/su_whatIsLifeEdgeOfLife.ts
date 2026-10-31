@@ -11,7 +11,11 @@ const curve = (c: Ctx, pts: number[][], w: number, col: string) => {
   const path = () => { c.beginPath(); c.moveTo(pts[0][0], pts[0][1]); for (let i = 1; i < pts.length - 1; i++) c.quadraticCurveTo(pts[i][0], pts[i][1], (pts[i][0] + pts[i + 1][0]) / 2, (pts[i][1] + pts[i + 1][1]) / 2); c.lineTo(pts[pts.length - 1][0], pts[pts.length - 1][1]); };
   c.lineCap = "round"; c.lineJoin = "round"; path(); c.strokeStyle = INK; c.lineWidth = w + 8; c.stroke(); path(); c.strokeStyle = col; c.lineWidth = w; c.stroke();
 };
-const pebble = (c: Ctx, x: number, y: number, r: number, rot: number) => { shape(c, () => ell(c, x, y, r, r * 0.75, rot), COL.grey, 4); shade(c, () => ell(c, x, y, r, r * 0.75, rot), COL.greyDk, r * 0.3, r * 0.25, 0.5); };
+const pebble = (c: Ctx, x: number, y: number, r: number, rot: number) => {
+  const p = () => { c.save(); c.translate(x, y); c.rotate(rot * 0.5); c.moveTo(-r, 0); c.quadraticCurveTo(-r * 0.8, -r * 0.85, -r * 0.1, -r * 0.8); c.quadraticCurveTo(r * 0.9, -r * 0.9, r, -r * 0.1); c.quadraticCurveTo(r * 1.05, r * 0.7, r * 0.2, r * 0.8); c.quadraticCurveTo(-r * 0.8, r * 0.9, -r, 0); c.closePath(); c.restore(); };
+  shape(c, p, "#a9a299", 4); shade(c, p, "#6d675f", r * 0.35, r * 0.3, 0.6);
+  [[-0.35, -0.2], [0.2, 0.25], [0.35, -0.35]].forEach(([u, v]) => shape(c, () => ell(c, x + u * r, y + v * r, r * 0.09, r * 0.07), "#4b4650", 0));
+};
 // a pad of cotton on a plate; wet = soaked blue-white
 const cotton = (c: Ctx, x: number, y: number, rx: number, ry: number, wet: boolean) => {
   const col = wet ? "#c9def2" : COL.cloth;
@@ -24,7 +28,7 @@ const wetDrops = (c: Ctx, x: number, y: number, rx: number, ry: number, seedN: n
 const plateOf = (c: Ctx, x: number, y: number, rx: number, ry: number, wet: boolean, kind: "seed" | "pebble") => {
   plate(c, x, y, rx, ry); cotton(c, x, y - ry * 0.03, rx * 0.8, ry * 0.68, wet);
   if (wet) wetDrops(c, x, y, rx * 0.7, ry * 0.5, x);
-  for (let k = 0; k < 6; k++) { const ix = x + ((k % 3) - 1) * rx * 0.42 + (k < 3 ? -8 : 10), iy = y + (k < 3 ? -0.2 : 0.3) * ry * 0.9, r = rx * 0.15; if (kind === "seed") seed(c, ix, iy, r, 0.4 + k * 1.1, wet); else pebble(c, ix, iy, r, k * 0.9); }
+  for (let k = 0; k < 6; k++) { const ix = x + ((k % 3) - 1) * rx * 0.42 + (k < 3 ? -8 : 10), iy = y + (k < 3 ? -0.2 : 0.3) * ry * 0.9, r = rx * 0.15; if (kind === "seed") seed(c, ix, iy, r, 0.4 + k * 1.1, wet); else pebble(c, ix, iy, r * 1.3, k * 0.9); }
 };
 const tag = (c: Ctx, x: number, y: number, n: string, wet: boolean) => {
   shape(c, () => rrect(c, x - 75, y, 150, 90, 14), WHITE, 5);
@@ -123,30 +127,25 @@ const cone = (c: Ctx, tx: number, ty: number, an: number) => {
 const su4 = (c: Ctx) => {
   ground(c);
   [200, 530, 860].forEach((x, i) => bottle(c, x, 930, { label: i + 1, sugar: i !== 1 }));
-  thick(c, [[245, 268], [500, 355]], 18, COL.steel);
+  thick(c, [[215, 253], [440, 330]], 18, COL.steel);
   const sp = 0.35;
-  shape(c, () => ell(c, 545, 372, 82, 50, sp), COL.steel, 6);
-  shape(c, () => { c.moveTo(480, 370); c.quadraticCurveTo(545, 308, 615, 372); c.closePath(); }, WHITE, 4);
-  hand(c, 130, 235, sp, 1.6);
-  const r = rnd(2); [[586, 420], [578, 450], [586, 478], [574, 440], [592, 462]].forEach(([x, y]) => shape(c, () => rrect(c, x + (r() - 0.5) * 6, y, 9, 9, 2), WHITE, 3));
-  arrow(c, [[680, 400], [680, 490]]);
+  shape(c, () => ell(c, 470, 340, 82, 50, sp), COL.steel, 6);
+  shape(c, () => { c.moveTo(405, 335); c.quadraticCurveTo(470, 280, 540, 345); c.closePath(); }, WHITE, 4);
+  hand(c, 100, 220, sp, 1.6);
+  const r = rnd(2); [[536, 392], [528, 420], [538, 446], [524, 470], [534, 496], [530, 520]].forEach(([x, y]) => shape(c, () => rrect(c, x + (r() - 0.5) * 6, y, 11, 11, 2), WHITE, 3));
+  arrow(c, [[640, 400], [640, 500]]);
 };
 
 // setup.e2.1
 const su5 = (c: Ctx) => {
   ground(c);
-  c.save(); c.translate(540 * 0.18, 930 * 0.18); c.scale(0.82, 0.82);
-  bottle(c, 200, 930, { label: 1, lv: 190 }); bottle(c, 530, 930, { label: 2, lv: 190, yeast: true, ice: true }); bottle(c, 860, 930, { label: 3, lv: 110 });
-  steam(c, 250, 470); steam(c, 790, 470);
-  // grown-up pours warm water from a steel tumbler into bottle 3
-  tumbler(c, 930, 330, -2.09);
-  curve(c, [[850, 390], [853, 440], [858, 492]], 14, COL.water);
-  hand(c, 997, 280, 2.5, 1.2, SKIN.adult, CLOTH.adult);
-  // child tips yeast from a paper cone into bottle 1
-  const r = rnd(6); [[200, 440], [208, 462], [196, 482]].forEach(([x, y]) => shape(c, () => ell(c, x + (r() - 0.5) * 6, y, 6, 5), "#d8b077", 2.5));
-  cone(c, 200, 420, 0.9);
-  hand(c, 70, 270, 0.9, 1.35);
-  c.restore();
+  bottle(c, 200, 930, { label: 1, lv: 200, yeast: true }); bottle(c, 530, 930, { label: 2, lv: 200 }); bottle(c, 860, 930, { label: 3, lv: 200 });
+  steam(c, 170, 480); steam(c, 830, 480);
+  // yeast tipped from a paper cone into bottle 2
+  const r = rnd(6); [[530, 460], [538, 484], [526, 508], [534, 532]].forEach(([x, y]) => shape(c, () => ell(c, x + (r() - 0.5) * 6, y, 8, 6), "#d8b077", 3));
+  cone(c, 530, 430, 0.9);
+  hand(c, 380, 242, 0.9, 1.6);
+  arrow(c, [[640, 410], [640, 500]]);
 };
 
 // balloon on a bottle neck: full = standing and half full, else limp
@@ -212,15 +211,20 @@ const pencil = (c: Ctx, x: number, y: number, len: number) => {
   shape(c, () => polyP(c, [[L + 56, y - h], [L, y], [L + 56, y + h]]), "#f2d3a0", 5); shape(c, () => polyP(c, [[L + 18, y - 5], [L, y], [L + 18, y + 5]]), INK, 2);
   shape(c, () => rrect(c, R - 80, y - h, 30, h * 2, 3), COL.steel, 5); shape(c, () => rrect(c, R - 52, y - h, 52, h * 2, 12), COL.pink, 5);
 };
-const hangThread = (c: Ctx, x: number, ty: number, bottom: number) => { thick(c, [[x, ty], [x - 4, (ty + bottom) / 2], [x + 3, bottom]], 9, COL.paper); };
+const hangThread = (c: Ctx, x: number, ty: number, bottom: number) => {
+  thick(c, [[x, ty - 10], [x - 4, (ty + bottom) / 2], [x + 3, bottom]], 12, COL.purple);
+  shape(c, () => ell(c, x, ty - 14, 17, 17), COL.purple, 5);
+  shape(c, () => ell(c, x + 3, bottom + 22, 30, 30), COL.yellow, 5);
+  [[-9, 17], [9, 17]].forEach(([dx, dy]) => shape(c, () => ell(c, x + 3 + dx, bottom + dy + 5, 5, 5), INK, 0));
+};
 
 // setup.e3.1
 const su8 = (c: Ctx) => {
   ground(c);
   [[290, true], [790, false]].forEach(([x, salty]) => {
     const xx = x as number, T = 900 - 460;
-    jar(c, xx, 900, 330, 460, 370, salty ? () => saltHeap(c, xx, 905, 120, 48, 11) : undefined);
-    hangThread(c, xx, T - 12, 900 - 130);
+    jar(c, xx, 900, 330, 460, 370, salty ? () => saltHeap(c, xx, 905, 140, 70, 11) : undefined);
+    hangThread(c, xx, T - 12, 900 - 200);
     pencil(c, xx, T - 17, 480);
   });
 };

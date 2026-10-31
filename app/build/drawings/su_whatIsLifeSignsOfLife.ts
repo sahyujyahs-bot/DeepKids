@@ -68,8 +68,10 @@ const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, dx: number,
   c.restore();
 };
 const stream = (c: Ctx, x: number, y0: number, y1: number) => { line(c, [[x, y0], [x, y1]], 24, INK); line(c, [[x, y0], [x, y1]], 14, COL.water); };
-const steam = (c: Ctx, x: number, y: number) => { for (const dx of [-26, 0, 26]) line(c, [[x + dx, y], [x + dx - 12, y - 24], [x + dx + 12, y - 50], [x + dx, y - 76]], 8, COL.grey); };
-const snow = (c: Ctx, x: number, y: number, r: number) => { for (let k = 0; k < 3; k++) { const a = (k / 3) * Math.PI; line(c, [[x - Math.cos(a) * r, y - Math.sin(a) * r], [x + Math.cos(a) * r, y + Math.sin(a) * r]], 6, COL.blueDk); } };
+const steam = (c: Ctx, x: number, y: number, s = 1) => { for (const dx of [-34, 0, 34]) line(c, [[x + dx * s, y], [x + (dx - 16) * s, y - 40 * s], [x + (dx + 16) * s, y - 85 * s], [x + dx * s, y - 130 * s]], 12, "#9a948a"); };
+const snow = (c: Ctx, x: number, y: number, r: number) => { for (let k = 0; k < 3; k++) { const a = (k / 3) * Math.PI; line(c, [[x - Math.cos(a) * r, y - Math.sin(a) * r], [x + Math.cos(a) * r, y + Math.sin(a) * r]], 8, COL.blueDk); } };
+// an ice cube
+const ice = (c: Ctx, x: number, y: number, s: number, rot: number) => { c.save(); c.translate(x, y); c.rotate(rot); shape(c, () => rrect(c, -s / 2, -s / 2, s, s, s * 0.18), "#e3f3ff", 5); shade(c, () => rrect(c, -s / 2, -s / 2, s, s, s * 0.18), COL.waterDk, s * 0.25, s * 0.25, 0.4); line(c, [[-s * 0.3, -s * 0.15], [-s * 0.3, s * 0.2]], 5, WHITE); c.restore(); };
 
 const BX = [190, 540, 890], BW = 190, BH = 420, BY = 880, NY = BY - BH;
 
@@ -104,7 +106,7 @@ const e1s1 = (c: Ctx) => {
   bottle(c, BX[0], BY, BW, BH, { label: "A", fill: 0.3 });
   bottle(c, BX[1], BY, BW, BH, { label: "B", fill: 0.4 });
   bottle(c, BX[2], BY, BW, BH, { label: "C", fill: 0.3 });
-  steam(c, BX[1], NY - 24); steam(c, BX[0] + 120, NY + 20);
+  steam(c, BX[1], NY - 24, 1.3); steam(c, BX[0] + 140, NY + 10, 1.3);
   tumbler(c, lipA[0] - dA[0] * 200, lipA[1] - dA[1] * 200, 150, 200, dA[0], dA[1]);
   handAt(c, lipA[0] - dA[0] * 90, lipA[1] - dA[1] * 90, Math.atan2(-0.45, 0.89), 1.7, true);
   // child pours fridge-cold water into C
@@ -113,7 +115,8 @@ const e1s1 = (c: Ctx) => {
   bottle(c, 0, 0, 120, 250, { tint: "#a9d2f0", shadow: false });
   const fr = rnd(3); for (let i = 0; i < 7; i++) shape(c, () => ell(c, -40 + fr() * 80, -40 - fr() * 110, 5, 7), WHITE, 0);
   c.restore();
-  snow(c, 770, 150, 24); snow(c, 800, 330, 18);
+  ice(c, BX[2] - 48, BY - BH * 0.3 + 28, 56, 0.2); ice(c, BX[2] + 42, BY - BH * 0.3 + 40, 50, -0.3);
+  snow(c, 740, 150, 36); snow(c, 790, 350, 30); snow(c, 1000, 560, 34); snow(c, 760, 560, 28);
   handAt(c, cb[0] + dC[0] * 110, cb[1] + dC[1] * 110, Math.atan2(-0.45, -0.89), 1.7);
 };
 // setup.e1.2
@@ -147,7 +150,7 @@ const cup = (c: Ctx, x: number, y: number, r: number, kind: Kind, label: string,
   const bd = () => { c.moveTo(x - r, y); c.bezierCurveTo(x - r * 0.9, y + r * 0.75, x + r * 0.9, y + r * 0.75, x + r, y); c.closePath(); };
   shape(c, bd, COL.steel); shade(c, bd, COL.steelDk, r * 0.35, -r * 0.05);
   shape(c, () => ell(c, x, y, r, r * 0.2), COL.steelIn, 5);
-  const cot = wet ? "#cfe3f5" : COL.cloth, cotDk = wet ? "#9cc2e6" : "#e4dccb";
+  const cot = wet ? "#a9cdee" : COL.cloth, cotDk = wet ? "#7aaedd" : "#e4dccb";
   const mound = () => { c.moveTo(x - r * 0.9, y + 2); c.bezierCurveTo(x - r * 0.8, y - r * 0.55, x + r * 0.8, y - r * 0.55, x + r * 0.9, y + 2); c.ellipse(x, y + 2, r * 0.9, r * 0.17, 0, 0, Math.PI); c.closePath(); };
   shape(c, mound, cot, 5); shade(c, mound, cotDk, r * 0.25, r * 0.05, 0.8); shape(c, mound, "rgba(0,0,0,0)", 5);
   const rd = rnd(kind.length * 7 + label.charCodeAt(0));
@@ -162,7 +165,7 @@ const cup = (c: Ctx, x: number, y: number, r: number, kind: Kind, label: string,
     else if (kind === "boiled") { shape(c, () => ell(c, sx, sy, rr, rr * 0.72, i), "#d9d79a", 4); line(c, [[sx - rr * 0.5, sy], [sx + rr * 0.3, sy + rr * 0.35]], 3, "#8d8a52"); }
     else seed(c, sx, sy, rr, i * 0.7, kind === "soaked");
   });
-  if (wet) { const wr = rnd(2); for (let i = 0; i < 4; i++) shape(c, () => ell(c, x - r * 0.55 + wr() * r * 1.1, y - r * 0.05 - wr() * r * 0.12, r * 0.05, r * 0.07), COL.drop, 2.5); }
+  if (wet) { const wr = rnd(2); for (let i = 0; i < 9; i++) shape(c, () => ell(c, x - r * 0.7 + wr() * r * 1.4, y - r * 0.05 - wr() * r * 0.3, r * 0.05, r * 0.07), COL.drop, 2.5); shine(c, [[x - r * 0.6, y - r * 0.25], [x - r * 0.3, y - r * 0.38]], 7); }
   tag(c, label, x, y + r * 0.34, r * 0.5, r * 0.3);
 };
 const seed = (c: Ctx, x: number, y: number, r: number, rot: number, soaked: boolean) => {
@@ -182,11 +185,11 @@ const e2s1 = (c: Ctx) => {
   ground(c);
   CUPS.forEach(([x, y, k, l]) => cup(c, x, y, 205, k, l, l !== "B"));
   // a spoon of water dripping on A
-  thick(c, [[250, 120], [600, 40]], 18, COL.steel);
-  c.save(); c.translate(235, 128); c.rotate(-0.4); shape(c, () => ell(c, 0, 0, 62, 34), COL.steel); shape(c, () => ell(c, 0, -3, 46, 20), COL.water, 4); c.restore();
-  for (const dy of [175, 225, 275]) shape(c, () => { c.moveTo(215, dy); c.quadraticCurveTo(199, dy + 20, 215, dy + 30); c.quadraticCurveTo(231, dy + 20, 215, dy); c.closePath(); }, COL.water, 4);
-  handAt(c, 560, 50, Math.PI - 0.2, 1.5);
-  arrow(c, [[350, 190], [350, 290]]);
+  thick(c, [[250, 150], [600, 108]], 18, COL.steel);
+  c.save(); c.translate(235, 158); c.rotate(-0.4); shape(c, () => ell(c, 0, 0, 62, 34), COL.steel); shape(c, () => ell(c, 0, -3, 46, 20), COL.water, 4); c.restore();
+  for (const dy of [205, 245, 285]) shape(c, () => { c.moveTo(215, dy); c.quadraticCurveTo(199, dy + 20, 215, dy + 30); c.quadraticCurveTo(231, dy + 20, 215, dy); c.closePath(); }, COL.water, 4);
+  handAt(c, 560, 112, Math.PI - 0.1, 1.5);
+  arrow(c, [[380, 190], [380, 285]]);
 };
 // setup.e2.2
 const e2s2 = (c: Ctx) => {
@@ -280,6 +283,9 @@ const e3s0 = (c: Ctx) => {
   room(c);
   adultTimer(c, 820, 720, 0.75);
   sitKid(c);
+  // the child's flat hand on the tummy, and a breath going in and out at the nose
+  c.save(); c.translate(338, 542); c.scale(-1, 1); hand(c, 0, 0, 0, 0.8, SKIN.child, CLOTH.child, true); c.restore();
+  arrow(c, [[455, 300], [385, 300]]); arrow(c, [[385, 350], [455, 350]]);
 };
 // setup.e3.1
 const e3s1 = (c: Ctx) => {
@@ -298,15 +304,23 @@ const e3s1 = (c: Ctx) => {
 const e3s2 = (c: Ctx) => {
   ground(c);
   c.fillStyle = COUNTER; c.fillRect(0, 0, 1080, 1080);
-  // the table on paper: three columns, a picture of what the child was doing on top, the breath count underneath
+  // the table on paper: three columns, what the child was doing on top, a dot for every breath counted, then the number
   shadow(c, 430, 930, 390, 30);
   shape(c, () => rrect(c, 40, 150, 780, 760, 14), WHITE);
-  const cx = [170, 430, 690];
+  const cx = [170, 430, 690], counts = [5, 9, 6];
   for (const x of [300, 560]) line(c, [[x, 150], [x, 910]], 6);
   line(c, [[40, 530], [820, 530]], 6);
-  person(c, cx[0], 505, 300, { sit: true }); person(c, cx[1], 505, 300, { armL: [-2.2, -1.9], armR: [-0.95, -1.25] }); person(c, cx[2], 505, 300, { sit: true });
-  write(c, "5", cx[0] - 30, 610, 190, INK, 11); write(c, "9", cx[1] - 30, 610, 190, INK, 11);
-  write(c, "6", cx[2] - 30, 610, 190, INK, 11);
+  const stool = (x: number) => { thick(c, [[x - 50, 496], [x - 54, 524]], 10, COL.brown); thick(c, [[x + 50, 496], [x + 54, 524]], 10, COL.brown); shape(c, () => rrect(c, x - 70, 478, 140, 18, 6), COL.wood, 5); };
+  stool(cx[0] + 40); stool(cx[2] + 40);
+  person(c, cx[0], 480, 300, { sit: true }); person(c, cx[2], 480, 300, { sit: true });
+  shadow(c, cx[1], 522, 70, 9);
+  person(c, cx[1], 470, 300, { armL: [-2.2, -1.9], armR: [-0.95, -1.25] });
+  counts.forEach((n, i) => {
+    const cols = n > 6 ? 3 : n > 3 ? 3 : n, rows = Math.ceil(n / cols), gx = cx[i] - ((cols - 1) * 62) / 2;
+    for (let k = 0; k < n; k++) { const px = gx + (k % cols) * 62, py = 590 + Math.floor(k / cols) * 60 + (rows === 2 ? 20 : 0); shape(c, () => ell(c, px, py, 24, 24), COL.sky, 5); shine(c, [[px - 10, py - 6], [px - 6, py - 12]], 5); }
+  });
+  write(c, "5", cx[0] - 25, 760, 120, INK, 11); write(c, "9", cx[1] - 25, 760, 120, INK, 11);
+  write(c, "6", cx[2] - 25, 760, 120, INK, 11);
   // a pencil writing the last number
   const tip = [cx[2] + 80, 800], dir = [0.5, -0.87];
   thick(c, [[tip[0] + dir[0] * 40, tip[1] + dir[1] * 40], [tip[0] + dir[0] * 440, tip[1] + dir[1] * 440]], 28, COL.yellow);

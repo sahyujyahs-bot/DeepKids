@@ -119,10 +119,10 @@ const bagPath = (c: Ctx, w: number, h: number) => {
 };
 // a tied bag with its neck at (x, y), body pointing up; inside() is drawn clipped to the bag, before the film
 const bag = (c: Ctx, x: number, y: number, w: number, h: number, inside: (() => void) | null, mist = false) => {
-  c.save(); c.translate(x, y); c.rotate(-Math.PI / 2);
-  c.save(); c.beginPath(); bagPath(c, w, h); c.clip(); c.rotate(Math.PI / 2); c.translate(-x, -y); if (inside) inside(); c.restore();
+  c.save(); c.translate(x, y);
+  c.save(); c.beginPath(); bagPath(c, w, h); c.clip(); c.translate(-x, -y); if (inside) inside(); c.restore();
   c.save(); c.beginPath(); bagPath(c, w, h); c.clip();
-  if (mist) { c.fillStyle = "rgba(255,255,255,0.72)"; c.fillRect(-10, -h, w + 20, h * 2); }
+  if (mist) { c.fillStyle = "rgba(255,255,255,0.62)"; c.fillRect(-10, -h, w + 20, h * 2); }
   c.restore();
   shape(c, () => bagPath(c, w, h), mist ? "rgba(255,255,255,0.0)" : "rgba(214,236,250,0.4)", 6);
   line(c, [[w * 0.35, -h * 0.36], [w * 0.7, -h * 0.4]], 9, WHITE);
@@ -303,58 +303,62 @@ const e2_3 = (c: Ctx) => {
 const e3_0 = (c: Ctx) => {
   ground(c);
   sun(c, 140, 140, 66);
-  pot(c, 250, 990, 280);
-  stem(c, [[250, 830], [260, 710], [330, 610], [420, 550]], 14);
-  hibiscus(c, 330, 650, 62);
-  leaf(c, 258, 750, 90, -2.3); leaf(c, 270, 710, 80, -0.6);
-  stem(c, [[420, 550], [560, 510], [760, 480]], 12);
-  for (const [x, y, a] of [[520, 520, -2.0], [520, 520, 1.1], [640, 494, -1.1], [650, 494, 1.5], [760, 480, -0.5]] as number[][]) leaf(c, x, y, 110, a);
-  // the bag: closed end on the right, mouth on the left, sliding over the branch
-  const bp = () => { c.moveTo(430, 370); c.bezierCurveTo(600, 340, 940, 340, 980, 490); c.bezierCurveTo(950, 660, 600, 670, 430, 630); c.closePath(); };
-  shape(c, bp, "rgba(214,236,250,0.4)", 6);
-  shape(c, () => ell(c, 430, 500, 34, 130), "rgba(255,255,255,0.2)", 6);
-  line(c, [[520, 395], [800, 395]], 9, WHITE);
-  arrow(c, [[860, 760], [620, 760]], RED, 12);
-  hand(c, 520, 235, 1.5, 1.7);
+  pot(c, 200, 1000, 260);
+  // the branch grows out to the right, its tip going into the open bag
+  stem(c, [[200, 840], [205, 740], [260, 650], [400, 600], [560, 575], [740, 560]], 14);
+  leaf(c, 218, 770, 90, -2.4); leaf(c, 330, 625, 100, 1.3); leaf(c, 395, 602, 100, -1.1);
+  hibiscus(c, 290, 570, 54);
+  for (const [x, y, a] of [[540, 578, -0.9], [600, 572, 1.0], [680, 565, -0.8], [700, 563, 0.9], [740, 560, -0.1]] as number[][]) leaf(c, x, y, 105, a);
+  // the open bag: mouth at the left (an open ring), closed end pinched in the child's hand on the right
+  const mx = 440, cy = 520;
+  shape(c, () => { c.moveTo(mx, cy - 150); c.bezierCurveTo(mx + 240, cy - 175, mx + 420, cy - 110, mx + 470, cy - 14); c.lineTo(mx + 470, cy + 14); c.bezierCurveTo(mx + 420, cy + 110, mx + 240, cy + 175, mx, cy + 150); c.closePath(); }, "rgba(214,236,250,0.42)", 6);
+  shape(c, () => ell(c, mx, cy, 42, 150), "rgba(120,150,185,0.35)", 7);
+  line(c, [[mx + 90, cy - 122], [mx + 330, cy - 112]], 9, WHITE);
+  handR(c, 1015, cy, 0, 1.6);
+  arrow(c, [[880, 290], [560, 290]], RED, 13);
 };
 
-// the two pots of experiment 3: the leafy one with a tied bag, and a bare stick with an empty tied bag
-const bagPair = (c: Ctx, fogged: boolean) => {
-  pot(c, 270, 990, 250);
-  stem(c, [[270, 830], [270, 700], [270, 640]], 14);
-  bag(c, 270, 650, 420, 300, () => leafyTop(c, 270, 650, 330), fogged);
-  if (fogged) {
-    // mist all over, drops on the walls, a little pool in the bottom
-    bag(c, 270, 650, 420, 300, null, true);
-    for (const [x, y] of [[200, 330], [330, 360], [215, 450], [320, 470], [250, 540], [175, 400], [350, 560]]) bead(c, x, y, 13);
-    shape(c, () => ell(c, 270, 628, 80, 16), COL.water, 4);
+// the leafy plant (top) and the bare stick (bottom), each with a tied bag on the tip of its branch; the same on cards 2 and 3
+const bagRow = (c: Ctx, y: number, leafy: boolean, mist: boolean) => {
+  const yb = y + 270, rim = yb - 160;
+  pot(c, 160, yb, 220);
+  stem(c, [[160, rim], [168, y + 60], [260, y + 10], [400, y]], 14);
+  if (leafy) { leaf(c, 172, rim - 40, 80, -2.4); leaf(c, 280, y + 12, 85, 1.3); leaf(c, 300, y + 8, 85, -1.1); }
+  bag(c, 400, y, 620, 300, () => {
+    stem(c, [[400, y], [600, y - 8], [800, y - 14]], 12);
+    if (leafy) for (const [x, ly, a] of [[470, y - 4, -0.9], [540, y - 6, 1.0], [620, y - 9, -0.8], [660, y - 9, 0.9], [740, y - 12, -0.2]] as number[][]) leaf(c, x, ly, 100, a);
+    else { line(c, [[800, y - 14], [830, y - 40]], 9, INK); line(c, [[800, y - 14], [830, y - 40]], 5, COL.brown); }
+  }, mist);
+  if (mist) {
+    for (const [bx, by] of [[540, y - 55], [610, y - 95], [700, y - 112], [790, y - 108], [880, y - 80], [930, y - 25], [890, y + 60], [600, y + 70]]) bead(c, bx, by, 14);
+    shape(c, () => ell(c, 690, y + 108, 125, 14), COL.water, 4);
   }
-  pot(c, 810, 990, 250);
-  stem(c, [[810, 830], [810, 650], [810, 380]], 14);
-  bag(c, 810, 650, 420, 300, () => stem(c, [[810, 660], [810, 330]], 12), false);
 };
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   ground(c);
-  bagPair(c, false);
+  bagRow(c, 240, true, false);
+  bagRow(c, 760, false, false);
+  handR(c, 1105, 760, 0, 1.6);
 };
 
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c);
-  bagPair(c, true);
+  bagRow(c, 240, true, true);
+  bagRow(c, 760, false, false);
 };
 
 // setup.e4.0
 const e4_0 = (c: Ctx) => {
-  tableTop(c, 760);
-  tumbler(c, 350, 900, 280, 380, "ice");
-  tumbler(c, 790, 900, 280, 380, "water");
-  // a cloth wiping the icy tumbler dry
-  shape(c, () => rrect(c, 240, 640, 230, 130, 30), "#fff8e6", 6);
-  line(c, [[280, 700], [430, 700]], 3, "#d9cfb8");
-  hand(c, 120, 700, -0.05, 1.7, SKIN.child, CLOTH.child, true);
-  arrow(c, [[585, 690], [585, 620]], RED, 11); arrow(c, [[585, 690], [585, 760]], RED, 11);
+  tableTop(c, 780);
+  tumbler(c, 430, 930, 320, 420, "ice");
+  tumbler(c, 850, 930, 320, 420, "water");
+  // a cloth in the child's fist wiping the icy tumbler's side, up and down
+  shape(c, () => rrect(c, 170, 640, 230, 170, 44), COL.teal, 6); shade(c, () => rrect(c, 170, 640, 230, 170, 44), COL.tealDk, -40, 0, 0.6);
+  line(c, [[215, 690], [350, 700]], 5, WHITE); line(c, [[210, 745], [345, 755]], 5, WHITE);
+  hand(c, 40, 715, 0, 2.1, SKIN.child, CLOTH.child);
+  arrow(c, [[480, 670], [480, 560]], RED, 12); arrow(c, [[480, 770], [480, 880]], RED, 12);
 };
 
 // setup.e4.1
@@ -373,27 +377,29 @@ const e4_1 = (c: Ctx) => {
 // setup.e4.2
 const e4_2 = (c: Ctx) => {
   ground(c);
-  c.save(); c.translate(540, 560); c.rotate(-0.04);
-  shadow(c, 20, 330, 440, 50);
-  shape(c, () => rrect(c, -420, -330, 840, 640, 14), WHITE, 6);
+  c.save(); c.translate(540, 700); c.rotate(-0.03);
+  shadow(c, 20, 330, 450, 40);
+  shape(c, () => rrect(c, -460, -290, 920, 580, 14), WHITE, 6);
   c.restore();
-  // a clear wet smear from the icy tumbler, and a yellow drop from inside to compare
-  shape(c, () => ell(c, 240, 640, 120, 60, -0.1), "#cfe5f6", 4); bead(c, 170, 655, 26);
-  shape(c, () => ell(c, 800, 640, 120, 60, 0.1), "#fde9a4", 4); bead(c, 820, 650, 26, COL.yellow);
-  hand(c, 275, 455, 1.5, 1.7, SKIN.child, CLOTH.child, true);
+  // left: the icy tumbler and its clear drop; right: a spoon of yellow water and its yellow drop
+  tumbler(c, 270, 420, 250, 320, "ice");
+  for (const [x, y] of [[190, 200], [230, 270], [310, 230], [350, 300], [200, 340]]) bead(c, x, y, 14);
+  shape(c, () => ell(c, 270, 720, 130, 78, -0.08), "#d6ebfa", 6); line(c, [[190, 700], [230, 676]], 10, WHITE); line(c, [[300, 765], [350, 750]], 7, WHITE);
+  tumbler(c, 790, 420, 250, 320, "water");
+  shape(c, () => ell(c, 770, 720, 130, 78, 0.08), COL.yellow, 6); line(c, [[690, 700], [730, 676]], 10, WHITE);
+  hand(c, 0, 725, 0.08, 2.1, SKIN.child, CLOTH.child, true);
 };
 
 // setup.e5.0
 const e5_0 = (c: Ctx) => {
-  tableTop(c, 640);
-  for (const x of [190, 460, 730]) { plate(c, x, 850, 125, 55); puddle(c, x, 852, 60, 20); }
-  glass(c, 960, 940, 90, 260, 0.12);
-  // a spoon pouring water onto the middle plate
-  spoon(c, 440, 520, -0.5, 340);
-  drop(c, 415, 680, 15); drop(c, 425, 765, 13);
-  arrow(c, [[300, 570], [300, 680]], RED, 11);
-  handR(c, 800, 270, 0.5, 1.6);
-  write(c, "2", 590, 500, 90, INK, 12);
+  tableTop(c, 600);
+  for (const x of [150, 390, 630]) { plate(c, x, 850, 112, 50); puddle(c, x, 852, 52, 18); }
+  glass(c, 900, 920, 110, 330, 0.1);
+  // a spoon of water tipping into the narrow glass, the child's hand holding it
+  c.save(); c.translate(880, 440); c.scale(-1, 1); spoon(c, 0, 0, -0.5, 340); c.restore();
+  drop(c, 860, 535, 15); drop(c, 862, 600, 12);
+  hand(c, 505, 275, 0.5, 1.6);
+  write(c, "2", 130, 230, 140, INK, 16);
 };
 
 const tile = (c: Ctx, x: number, y: number, col: string) => { shape(c, () => rrect(c, x, y, 450, 450, 30), col, 6); };

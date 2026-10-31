@@ -103,22 +103,25 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  // a window with the clear plastic and the skin against it
-  shape(c, () => rrect(c, 50, 50, 520, 420, 14), "#cfe9f8", 8);
-  line(c, [[310, 50], [310, 470]], 8); line(c, [[50, 260], [570, 260]], 8);
-  shape(c, () => polyP(c, [[110, 100], [510, 100], [510, 420], [110, 420]]), "rgba(255,255,255,0.55)", 5);
-  shape(c, () => ell(c, 310, 255, 130, 95), SKIN_FILM, 5);
-  c.save(); c.beginPath(); ell(c, 310, 255, 130, 95); c.clip(); bricks(c, 170, 150, 300, 220, 50, 28, "rgba(190,130,170,0.55)", 2); c.restore();
-  // the phone, back side, its camera lens carrying a drop of water
-  const px = 330, py = 330;
+  // a window with the clear plastic and a big piece of onion skin against it
+  shape(c, () => rrect(c, 50, 50, 540, 450, 14), "#cfe9f8", 8);
+  line(c, [[320, 50], [320, 500]], 8); line(c, [[50, 275], [590, 275]], 8);
+  shape(c, () => polyP(c, [[100, 95], [540, 95], [540, 455], [100, 455]]), "rgba(255,255,255,0.55)", 5);
+  shape(c, () => ell(c, 300, 255, 190, 130), SKIN_FILM, 5);
+  c.save(); c.beginPath(); ell(c, 300, 255, 190, 130); c.clip(); bricks(c, 110, 120, 380, 280, 60, 34, "rgba(190,130,170,0.6)", 2.5); c.restore();
+  // the phone seen from its back, the camera lens right over the skin and a big water drop sitting on the lens
+  const px = 400, py = 230;
   shadow(c, px + 150, py + 445, 150, 22);
   const body = () => rrect(c, px, py, 240, 430, 40);
   shape(c, body, COL.black, 7); shade(c, body, "#1f1b27", 22, 0, 0.5);
-  shape(c, () => ell(c, px + 70, py + 76, 50, 50), COL.steelDk, 6); shape(c, () => ell(c, px + 70, py + 76, 30, 30), "#161420", 5);
-  drop(c, px + 70, py + 82, 22, COL.drop);
-  c.setLineDash([16, 14]); line(c, [[410, 330], [440, 300]], 5, COL.greyDk); line(c, [[470, 260], [640, 470]], 5, COL.greyDk); c.setLineDash([]);
-  zoom(c, 850, 710, 220, "#f6e6ef", () => bricks(c, 580, 470, 520, 440, 110, 66, "rgba(150,80,130,0.7)", 6));
-  hand(c, px + 120, 900, -Math.PI / 2, 2.0, SKIN.child, CLOTH.child);
+  shape(c, () => rrect(c, px + 12, py + 12, 150, 150, 34), "#4b4558", 6);
+  shape(c, () => ell(c, px + 62, py + 62, 52, 52), COL.steelDk, 6); shape(c, () => ell(c, px + 62, py + 62, 36, 36), "#161420", 5);
+  shape(c, () => ell(c, px + 122, py + 122, 20, 20), COL.steelDk, 5); shape(c, () => ell(c, px + 122, py + 40, 11, 11), COL.yellow, 4);
+  shape(c, () => ell(c, px + 62, py + 62, 32, 32), "rgba(233,243,255,0.88)", 5);
+  shine(c, [[px + 48, py + 54], [px + 54, py + 44]], 8);
+  c.setLineDash([16, 14]); line(c, [[px + 90, py + 100], [700, 520]], 5, COL.greyDk); c.setLineDash([]);
+  zoom(c, 850, 730, 220, "#f6e6ef", () => bricks(c, 580, 490, 520, 440, 110, 66, "rgba(150,80,130,0.7)", 6));
+  hand(c, px + 120, 790, -Math.PI / 2, 2.0, SKIN.child, CLOTH.child);
 };
 
 // setup.e2.0
@@ -206,59 +209,72 @@ const e3_0 = (c: Ctx) => {
   arrow(c, pts.reverse().map(([x, y]) => [x, y + 6]));
 };
 
+const MILK = "#f6eed8";
+// a rounded lump of curd, centre (x, y), radius r
+const lump = (c: Ctx, x: number, y: number, r: number, col: string = CURD) => {
+  shape(c, () => { c.moveTo(x - r, y + r * 0.2); c.bezierCurveTo(x - r * 1.1, y - r * 1.2, x + r * 1.1, y - r * 1.2, x + r, y + r * 0.2); c.bezierCurveTo(x + r * 0.6, y + r * 0.9, x - r * 0.6, y + r * 0.9, x - r, y + r * 0.2); c.closePath(); }, col, 5);
+};
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   ground(c);
-  c.fillStyle = "#e3d3b3"; c.fillRect(0, 840, 1080, 240); line(c, [[0, 840], [1080, 840]], 6);
-  const xs = [190, 540, 890], by = 700, r = 140;
+  c.fillStyle = "#e3d3b3"; c.fillRect(0, 860, 1080, 220); line(c, [[0, 860], [1080, 860]], 6);
+  const xs = [190, 540, 890], by = 700, r = 150;
   xs.forEach((x, i) => {
-    bowl(c, x, by, r);
-    shape(c, () => ell(c, x, by + 2, r - 16, r * 0.17), "#fbf7ea", 0);
-    tag(c, "ABC"[i], x, 960);
+    bowl(c, x, by, r, MILK);
+    tag(c, "ABC"[i], x, 970);
   });
-  // a spoon of curd going into A, nothing into B, the boiled curd into C
+  // A: one thick spoon of curd falling into the milk. B: nothing. C: the boiled curd, broken into lumps and watery whey
   const held = (x: number, an: number, skin: string, sleeve: string) => {
-    spoon(c, x, 420, an, 360, CURD);
+    spoon(c, x, 420, an, 360, null);
     hand(c, x - Math.cos(an) * 315, 420 - Math.sin(an) * 315, an, 1.5, skin, sleeve);
   };
   held(215, 1.2, SKIN.adult, CLOTH.adult);
-  drop(c, 190, 610, 20, CURD); arrow(c, [[300, 480], [300, 570]]);
+  lump(c, 222, 408, 30); lump(c, 190, 590, 36);
+  arrow(c, [[300, 480], [300, 560]]);
+  for (const x of [190, 190]) { c.beginPath(); ell(c, x, by + 8, 70, 14); c.strokeStyle = "rgba(43,35,64,0.35)"; c.lineWidth = 4; c.stroke(); }
   held(865, Math.PI - 1.2, SKIN.child, CLOTH.child);
-  drop(c, 890, 610, 20, CURD); arrow(c, [[780, 480], [780, 570]]);
+  lump(c, 855, 410, 14); lump(c, 885, 414, 12); lump(c, 870, 394, 11);
+  lump(c, 880, 580, 17, "#efe9d0"); lump(c, 915, 600, 13, "#efe9d0"); lump(c, 852, 612, 12, "#efe9d0");
+  drop(c, 905, 520, 12, "#e8ecb8"); drop(c, 840, 550, 10, "#e8ecb8");
+  arrow(c, [[780, 480], [780, 560]]);
+  c.beginPath(); ell(c, 890, by + 8, 70, 14); c.strokeStyle = "rgba(43,35,64,0.35)"; c.lineWidth = 4; c.stroke();
 };
 
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c);
-  c.fillStyle = "#e3d3b3"; c.fillRect(0, 830, 1080, 250); line(c, [[0, 830], [1080, 830]], 6);
-  const xs = [220, 540, 860], cy = 500, r = 130, th = 0.5;
+  c.fillStyle = "#e3d3b3"; c.fillRect(0, 850, 1080, 230); line(c, [[0, 850], [1080, 850]], 6);
+  const xs = [200, 530, 860], cy = 480, r = 125, th = 0.7;
   xs.forEach((cx, i) => {
     const outer = () => { c.moveTo(-r, 0); c.bezierCurveTo(-r * 0.9, r * 0.95, r * 0.9, r * 0.95, r, 0); c.closePath(); };
     const cav = () => { c.moveTo(-r + 16, 0); c.bezierCurveTo(-r * 0.9 + 14, r * 0.95 - 18, r * 0.9 - 14, r * 0.95 - 18, r - 16, 0); c.closePath(); };
     const lip = [cx + r * Math.cos(th), cy + r * Math.sin(th)];
-    if (i > 0) { // milk still runs: a stream over the lower lip, a puddle on the counter
-      shape(c, () => { c.moveTo(lip[0] - 18, lip[1] - 6); c.quadraticCurveTo(lip[0] + 10, lip[1] + 40, lip[0] + 4, 810); c.lineTo(lip[0] + 34, 810); c.quadraticCurveTo(lip[0] + 36, lip[1] + 40, lip[0] + 22, lip[1] - 6); c.closePath(); }, CURD, 5);
-      shape(c, () => ell(c, lip[0] + 10, 832, 76, 18), CURD, 5);
+    if (i > 0) { // milk still runs: a wide stream over the lower lip, a big puddle on the counter, splashes
+      shape(c, () => { c.moveTo(lip[0] - 8, lip[1] - 4); c.quadraticCurveTo(lip[0] + 22, lip[1] + 50, lip[0] + 18, 846); c.lineTo(lip[0] + 58, 846); c.quadraticCurveTo(lip[0] + 56, lip[1] + 40, lip[0] + 30, lip[1] - 8); c.closePath(); }, MILK, 5);
+      shape(c, () => ell(c, lip[0] + 38, 868, 85, 20), MILK, 5);
+      drop(c, lip[0] - 20, 826, 10, MILK); drop(c, lip[0] + 90, 822, 10, MILK);
     }
     c.save(); c.translate(cx, cy); c.rotate(th);
     shape(c, outer, COL.steel); shade(c, outer, COL.steelDk, 24, 6, 0.55);
     shape(c, cav, COL.steelIn, 4);
-    if (i === 0) { // set: the curd keeps its shape, tilting with the bowl
-      c.save(); c.beginPath(); cav(); c.clip();
-      c.beginPath(); c.moveTo(-r, 4); c.quadraticCurveTo(0, -30, r, 4); c.lineTo(r, r); c.lineTo(-r, r); c.closePath(); c.fillStyle = CURD; c.fill();
-      c.restore(); c.save(); c.beginPath(); cav(); c.clip(); line(c, [[-r, 4], [-r * 0.5, -10], [0, -14], [r * 0.5, -10], [r, 4]].map(([x, y]) => [x, y + 4]), 5); c.restore();
+    c.save(); c.beginPath(); cav(); c.clip();
+    if (i === 0) { // set: the curd fills the bowl, keeps its shape and bulges at the lip without flowing
+      c.beginPath(); c.moveTo(-r, 6); c.quadraticCurveTo(0, -46, r, 6); c.lineTo(r, r); c.lineTo(-r, r); c.closePath(); c.fillStyle = CURD; c.fill();
+      line(c, [[-r, 6], [-r * 0.5, -16], [0, -24], [r * 0.5, -16], [r, 6]], 5);
+      line(c, [[-40, 40], [10, 30]], 4, "rgba(43,35,64,0.25)"); line(c, [[20, 70], [70, 56]], 4, "rgba(43,35,64,0.25)");
     } else { // runny: the milk lies level
-      c.save(); c.beginPath(); cav(); c.clip(); c.rotate(-th); c.translate(-0, 0);
-      c.fillStyle = CURD; c.fillRect(-400, r * Math.sin(th) - 2, 800, 400);
-      c.restore();
-      c.save(); c.beginPath(); cav(); c.clip(); c.rotate(-th); line(c, [[-400, r * Math.sin(th) - 2], [400, r * Math.sin(th) - 2]], 5); c.restore();
+      c.rotate(-th); c.fillStyle = MILK; c.fillRect(-400, r * Math.sin(th) - 2, 800, 400);
+      line(c, [[-400, r * Math.sin(th) - 2], [400, r * Math.sin(th) - 2]], 5);
     }
-    shape(c, () => { c.moveTo(-r, 0); c.lineTo(-r + 16, 0); c.lineTo(-r + 16, -1); c.closePath(); }, COL.steel, 0);
+    c.restore();
     c.restore();
     // the hand under the bowl
     const gx = cx - Math.sin(th) * 0.6 * r - 10, gy = cy + Math.cos(th) * 0.6 * r + 20, ca = -1.0;
-    hand(c, gx - Math.cos(ca) * 115, gy - Math.sin(ca) * 115, ca, 1.5, i === 1 ? SKIN.adult : SKIN.child, i === 1 ? CLOTH.adult : CLOTH.child);
-    tag(c, "ABC"[i], cx, 160);
+    hand(c, gx - Math.cos(ca) * 100, gy - Math.sin(ca) * 100, ca, 1.3, i === 1 ? SKIN.adult : SKIN.child, i === 1 ? CLOTH.adult : CLOTH.child);
+    // tilt arrow over the bowl
+    const ap: number[][] = []; for (let t = -2.0; t <= -0.9; t += 0.1) ap.push([cx + 175 * Math.cos(t), cy + 175 * Math.sin(t)]);
+    arrow(c, ap);
+    tag(c, "ABC"[i], cx, 130);
   });
 };
 
