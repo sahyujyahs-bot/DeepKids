@@ -405,10 +405,34 @@
      "kind": "cards",
      "title": "40 circuit cards to cut out",
      "items": [
-      "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
-      "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
-      "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
-      "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
+      {
+       "f": "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-00.jpg",
+        "credit": "Asim18, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-01.jpg",
+        "credit": "Asim18, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-02.jpg",
+        "credit": "Asim18, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "CELL: a 1.5 V AA cell, with + at the bump and − at the flat end",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-03.jpg",
+        "credit": "Asim18, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
       "BULB: a torch bulb",
       "BULB: a torch bulb",
       "BULB: a torch bulb",
