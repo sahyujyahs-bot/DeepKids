@@ -751,12 +751,36 @@
       "BONUS: a mango falling from a tree",
       "BONUS: a balloon rubbed on hair, pulling up bits of paper",
       "BONUS: a seedling pushing up through soil",
-      "BONUS: a rocket blasting off",
-      "BONUS: a bird flapping their wings",
-      "BONUS: the Moon pulling the sea",
+      {
+       "f": "BONUS: a rocket blasting off",
+       "img": {
+        "src": "media/cards/push-and-pull-g2-0-24.jpg",
+        "credit": "NASA/Bill Ingalls, public domain"
+       }
+      },
+      {
+       "f": "BONUS: a bird flapping their wings",
+       "img": {
+        "src": "media/cards/push-and-pull-g2-0-25.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "BONUS: the Moon pulling the sea",
+       "img": {
+        "src": "media/cards/push-and-pull-g2-0-26.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "BONUS: your heart beating",
       "BONUS: the wind pushing a sailing boat",
-      "BONUS: a comet's tail pushed by sunlight"
+      {
+       "f": "BONUS: a comet's tail pushed by sunlight",
+       "img": {
+        "src": "media/cards/push-and-pull-g2-0-29.jpg",
+        "credit": "NASA/JPL-Caltech/UCLA, public domain"
+       }
+      }
      ]
     },
     {
