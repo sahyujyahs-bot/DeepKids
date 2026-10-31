@@ -854,7 +854,7 @@
      "caption": "2. Trade sunlight, water and carbon dioxide for one sugar."
     },
     {
-     "art": "A plant mat with paper tiles placed on it: roots, a stem, three leaves and a flower, and a sugar cube being paid for a seed tile.",
+     "art": "A plant mat with coins placed on the spaces: a root, a stem, three leaves and a flower, and a sugar cube being paid for the seed space.",
      "caption": "3. Spend sugar to build your plant. First to finish wins."
     }
    ]
@@ -906,7 +906,7 @@
     "When a LEAF holds 3 light batons, the leaf picks up one carbon ball. The ball with its 3 batons is now one sugar.",
     "The CATERPILLAR may take a sugar from a leaf. The BIRD may take the sugar from the caterpillar. The MONGOOSE may take the sugar from the bird.",
     "At each handover, the giver drops one baton into the WARMTH bucket and passes on the ball and the batons that are left. This is the energy used up for living.",
-    "Anyone holding a carbon ball with no batons left has no energy left. They sit down. The FUNGUS takes the carbon ball and throws it back into the air basket.",
+    "Anyone holding a carbon ball with no batons left has no energy left. They sit down. The FUNGUS takes the carbon ball and throws the ball back into the air basket.",
     "The CLOUD may stand between the SUN and a LEAF and block the light for 10 seconds. The CLOUD is an extra role. With 2 players, the parent steps in as the cloud for one round.",
     "The game ends when the SUN has no batons left. Count the batons in the WARMTH bucket and the carbon balls back in the basket, then fill in the energy chain sheet."
    ],
@@ -1685,11 +1685,11 @@
   {
    "id": "e1",
    "title": "The Rising Leaf Discs",
-   "mins": 50,
+   "mins": 55,
    "days": 1,
    "question": "Does a leaf need light and carbon dioxide to make oxygen?",
    "predict": "Before you start, guess. Which discs will float up first: the ones in the light, the ones in the dark, or the ones in plain water? Will some not float at all? Why do you think so?",
-   "fair_test": "Keep everything the same except one thing. Use discs from the same leaves, the same number of discs, the same cups and the same amount of liquid. Cup A and cup B both have baking soda water. Only the light changes. Cup A and cup C are both in the light. Only the baking soda changes.",
+   "fair_test": "Keep everything the same except one thing. Use discs from the same leaves, the same number of discs, the same cups and the same amount of liquid. All the water was boiled and cooled, so it holds very little carbon dioxide. Cup A and cup B both have baking soda water. Only the light changes. Cup A and cup C are both in the light. Only the baking soda changes.",
    "results_table": [
     "Minutes",
     "Cup A: light, baking soda (discs floating)",
@@ -1715,8 +1715,12 @@
      "qty": 1
     },
     {
-     "item": "a drinking straw or a hole punch, to cut discs",
-     "qty": 1
+     "item": "3 clear glasses or cups, labelled A, B and C",
+     "qty": 3
+    },
+    {
+     "item": "2 glasses of water that was boiled and has cooled, about 300 ml each. Boil it a few hours before you start.",
+     "qty": 2
     },
     {
      "item": "3 clear glasses or cups, labelled A, B and C, and a glass of water that was boiled and has cooled",
@@ -1731,11 +1735,10 @@
      "qty": 1
     }
    ],
-   "safety": "Use a syringe with no needle. Do not drink the baking soda water. A grown-up helps with the syringe, as the first few tries are tricky.",
    "schedule": [
     {
      "day": 1,
-     "mins": 50,
+     "mins": 55,
      "what": "Cut leaf discs, sink them, and count how many float in each cup every 3 minutes, for up to 25 minutes."
     }
    ],
@@ -1744,10 +1747,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Stir a quarter teaspoon of baking soda into one glass of water, about 300 ml. Add one drop of washing-up liquid. 2. Take the glass of boiled and cooled water. Add one drop of washing-up liquid. 3. Label three cups A, B and C.",
-     "say": "Baking soda puts carbon dioxide into the water, in a form that leaves can use to make food. Boiling drives the carbon dioxide out of water, so the boiled water has very little. That is the only difference.",
-     "kid": "Stir baking soda into one glass of water. The other glass has boiled water, now cool. Add one drop of soap to each. Label three cups A, B and C.",
-     "parent": "The soap helps the liquid soak into the leaf. Baking soda water holds carbon dioxide that the leaf can use. Tap water often holds some carbon dioxide, which is why cup C uses water that was boiled and left to cool.",
+     "do": "1. Pour about 300 ml of the boiled and cooled water into each of two glasses. 2. Stir a quarter teaspoon of baking soda into one glass. 3. Add one drop of washing-up liquid to each glass. 4. Label three cups A, B and C.",
+     "say": "Baking soda puts carbon dioxide into the water, in a form that leaves can use to make food. Boiling drives the carbon dioxide out of water, so the boiled water has very little. Both glasses hold boiled water, so the baking soda is the only difference.",
+     "kid": "Stir baking soda into one glass of boiled water, now cool. The other glass has only boiled water. Add one drop of soap to each. Label three cups A, B and C.",
+     "parent": "The soap helps the liquid soak into the leaf. Baking soda water holds carbon dioxide that the leaf can use. Tap water often holds some carbon dioxide too, which is why both glasses use water that was boiled and left to cool.",
      "context": "This is the first step of the leaf disc experiment. Tiny circles of spinach leaf are sunk in water. If they make oxygen, the bubbles make them float back up."
     },
     {
@@ -1761,7 +1764,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take the plunger out of the syringe. Drop in 10 discs. 2. Push the plunger back in, nearly to the discs. 3. Suck up 5 ml of baking soda water. 4. Put a finger tightly over the tip. Pull the plunger back hard and hold for 10 seconds. 5. Let go and tap. Repeat until the discs sink. 6. Do this twice more: once more with baking soda water, then, after rinsing the syringe, with the boiled water.",
+     "do": "1. Take the plunger out of the syringe. Drop in 10 discs. 2. Push the plunger back in, nearly to the discs. 3. Suck up 5 ml of baking soda water. 4. Put a finger tightly over the tip. Pull the plunger back hard and hold for 10 seconds. 5. Let go and tap. Repeat until the discs sink. 6. Do all of this again with 10 more discs and baking soda water. 7. Rinse the syringe, then do it once more with 10 discs and the plain boiled water.",
      "say": "Pulling the plunger sucks the air out of the leaf. The liquid rushes in, and the discs get heavy and sink. Now they're empty of air, ready to start.",
      "kid": "Put 10 circles in the syringe. Suck up a little baking soda water. Finger over the tip. Pull back hard. Let go. Repeat until they sink.",
      "adult": true,
@@ -1770,7 +1773,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Tip the discs sunk in baking soda water into cups A and B, with baking soda water. 2. Tip the boiled-water discs into cup C, with boiled water. 3. Put A and C in bright sun, or 10 cm under a bright lamp. 4. Put B under a box in the same place.",
+     "do": "1. Squirt the first 10 sunk discs and their baking soda water into cup A. Squirt the second 10 into cup B. 2. Squirt the 10 discs in plain boiled water into cup C. 3. Put A and C in bright sun, or 10 cm under a bright lamp. 4. Put B under a box in the same place.",
      "say": "A and C get light. B is in the dark. Now we count. Every 3 minutes, we write down how many discs are floating in each cup.",
      "kid": "Cups A and C go in the bright light. Cup B goes under a box. Every 3 minutes, count the floating circles."
     },
@@ -1832,7 +1835,7 @@
      "kid": "Draw one bar for each cup. Which cup's circles floated? What did that cup have that the others didn't?",
      "check": {
       "t": "mcq",
-      "q": "Only the discs in cup A floated: light and baking soda water. What does that show?",
+      "q": "In a test like this, only the discs in cup A floated: light and baking soda water. What does that show?",
       "options": [
        "Leaves need light and carbon dioxide to make oxygen",
        "Leaves need only water",
@@ -1869,7 +1872,7 @@
     },
     {
      "id": "s7",
-     "mins": 3,
+     "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
@@ -1919,7 +1922,7 @@
   {
    "id": "e2",
    "title": "The Starch Picture: a leaf that keeps a secret",
-   "mins": 40,
+   "mins": 41,
    "days": 3,
    "question": "Does a leaf make starch only where light falls on it?",
    "predict": "Guess first. You will cover part of a leaf with a black paper shape for two sunny days. Then you will test the leaf for starch. Which part will turn blue-black: the covered part, the uncovered part, or all of it? Why do you think so?",
@@ -1932,7 +1935,7 @@
    ],
    "materials": [
     {
-     "item": "a potted plant with thin, soft leaves that stands in direct sun for at least 3 hours a day, such as balsam, geranium, or a bean plant grown from a rajma seed for two or three weeks. Thick, waxy leaves like money plant work badly.",
+     "item": "a potted plant with thin, soft leaves that stands in direct sun for at least 3 hours a day, such as balsam, coleus or a tomato or chilli seedling from a nursery. Thick, waxy leaves like money plant work badly.",
      "qty": 1
     },
     {
@@ -1962,7 +1965,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 11,
      "what": "Practise the iodine test on potato and rice. In the evening, clip a black paper shape on both sides of one leaf. Put the plant in the sunniest place."
     },
     {
@@ -1972,7 +1975,7 @@
     },
     {
      "day": 3,
-     "mins": 23,
+     "mins": 28,
      "what": "In the afternoon, pick the leaf. A grown-up softens it and takes out its green colour. Test it with iodine and see the picture."
     }
    ],
@@ -1998,16 +2001,16 @@
      "parent": "Starch turns dark blue or almost black within a few seconds. Sugar and salt stay brown."
     },
     {
-     "id": "s3",
-     "mins": 5,
-     "do": "1. In the evening, cut a simple shape from black paper, like a star or your child's first letter. Cut a matching plain square. 2. Clip the shape on top of one big leaf and the square underneath, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual.",
+     "id": "s2",
+     "mins": 7,
+     "do": "1. In the evening, cut a simple shape from black paper, like a star or your child's first letter. Cut a matching plain square. 2. Clip the shape on top of one big leaf and the square underneath, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual. 4. On day 2, check that the plant has had sun and water. Leave the shape on.",
      "say": "Under the shape, the leaf will be in the dark for two whole days. All around it, the leaf gets sunshine. Our question is, where will it make starch?",
      "kid": "Cut a black paper star or your first letter. Clip it on a big leaf. Put the plant in the sun for two days.",
      "wait": "Leave the plant in the sun for 2 days.",
      "parent": "You do not need to keep the plant in a cupboard first. Each night a leaf sends its starch away, so the covered part uses up its old starch over the two days. If the days are cloudy, leave the shape on for one more sunny day."
     },
     {
-     "id": "s4",
+     "id": "s3",
      "mins": 15,
      "do": "1. In the afternoon, pick the leaf and take off the paper. 2. A grown-up dips the leaf in just-boiled water for 1 minute, to soften it. 3. Put the leaf in a small steel tumbler with spirit. 4. Stand the tumbler in a bowl of very hot water, with the stove off. 5. Wait 10 to 15 minutes, until the leaf is pale. If the water cools first, pour in fresh hot water.",
      "say": "The green colour would hide the iodine colour. So we wash the green out with spirit. The spirit catches fire easily, so it never goes near the stove.",
@@ -2016,7 +2019,7 @@
      "parent": "Never heat spirit directly or near a flame. Very hot water is enough, and the spirit may bubble gently. The leaf goes pale and a little stiff. Rinse it in warm water so it softens again."
     },
     {
-     "id": "s5",
+     "id": "s4",
      "mins": 6,
      "do": "1. Rinse the pale leaf in warm water and spread it flat on the white plate. 2. Cover it with the diluted iodine. 3. Wait 2 minutes, then rinse gently and look.",
      "say": "A picture has appeared. Where is it blue-black, and where is it pale?",
@@ -2024,7 +2027,7 @@
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "After the iodine test, the leaf is blue-black everywhere except the star shape. What does that show?",
+      "q": "In a test like this, the leaf is blue-black everywhere except the star shape. What does that show?",
       "options": [
        "The leaf made starch only where light fell on it",
        "The black paper made starch",
@@ -2032,12 +2035,12 @@
        "The leaf makes starch best in the dark"
       ],
       "a": 0,
-      "why": "Blue-black means starch. The covered star got no light, so that part made no food and stayed pale. The rest of the leaf got light, made sugar, and stored it as starch. Picking 'best in the dark' usually means mixing up starch with something that was kept safe under the paper. The paper only blocked the light."
+      "why": "Blue-black means starch. The covered star got no light, so that part made no food and stayed pale. The rest of the leaf got light, made sugar, and stored it as starch. Picking 'best in the dark' usually means thinking the paper helped the leaf. The paper only blocked the light."
      },
-     "parent": "Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun, or this plant stores little starch in their leaves. Try again in a sunnier spot, or with a leaf from another plant. If the star is only a little paler than the rest, leave the shape on for one more sunny day next time."
+     "parent": "Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun, or this plant stores little starch in their leaves. Try again in a sunnier spot, or with a leaf from another plant. If the star is only a little paler than the rest, leave the shape on for one more sunny day next time. Povidone-iodine is weaker than the iodine in a school lab, so the colour may be a dull blue-grey and not black. The edge of the star may look blurry. If you cannot see a clear difference, say so honestly and try again with a sunnier plant."
     },
     {
-     "id": "s6",
+     "id": "s5",
      "mins": 3,
      "do": "Lay the tested leaf next to your drawing from before. Compare them.",
      "say": "In the 1860s, a German scientist called Julius Sachs did tests like this. He showed that leaves make starch only in the light.",
@@ -2045,7 +2048,7 @@
      "think": "Could you write a secret message on a leaf, using only light?"
     },
     {
-     "id": "s7",
+     "id": "s6",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
@@ -2096,7 +2099,7 @@
   {
    "id": "e3",
    "title": "Count the Bubbles: a water plant and a lamp",
-   "mins": 30,
+   "mins": 33,
    "days": 1,
    "question": "Does a water plant make more oxygen in brighter light?",
    "predict": "Guess first. Will the plant give off more bubbles when the lamp is close, far away, or switched off? Why do you think so?",
@@ -2134,7 +2137,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 33,
      "what": "Count bubbles from a water plant with the lamp at 10, 20 and 40 cm, and with the lamp off."
     }
    ],
@@ -2158,7 +2161,7 @@
     },
     {
      "id": "s3",
-     "mins": 12,
+     "mins": 15,
      "do": "1. Move the lamp to 20 cm. Wait 3 minutes and count twice. 2. Move it to 40 cm. Wait and count twice. 3. Switch the lamp off and close the curtains. Wait and count twice.",
      "say": "Each time, only the distance changes. Same plant, same glass, same minute. That keeps the test fair.",
      "kid": "Now move the lamp to 20 cm. Count twice. Then 40 cm. Count twice. Then switch it off. Count again.",
@@ -2296,7 +2299,6 @@
      "qty": 1
     }
    ],
-   "safety": "If you go out to a tree, go with a grown-up. Do not climb the tree.",
    "schedule": [
     {
      "day": 1,
@@ -2331,19 +2333,7 @@
      "do": "Ask where all the tree's wood came from. Give four choices: soil, water, air or sunlight. Let your child choose and give a reason. Do not tell them the answer.",
      "say": "The seed was tiny. Now the tree weighs more than a lorry. Where did all that wood come from? The soil, the water, the air, or the sunlight?",
      "kid": "The seed was tiny. The tree is huge. Where did all the wood come from? Soil, water, air or sunlight? Choose one.",
-     "parent": "Most children, and most grown-ups, say the soil. That is a fine guess. Don't correct it now. The unit lets your child find out, which is much more powerful than being told.",
-     "check": {
-      "t": "mcq",
-      "q": "Your guess: where did most of this tree's wood come from?",
-      "options": [
-       "The soil",
-       "The water",
-       "The air",
-       "The sunlight"
-      ],
-      "a": 2,
-      "why": "This is a guess, so any answer is fine for now. Most people say the soil, because roots sit in it. The surprising answer is the air. Leaves take in carbon dioxide and build it into wood, using sunlight's energy and a little water. You will see the evidence in this unit."
-     }
+     "parent": "Most children, and most grown-ups, say the soil. That is a fine guess. Don't correct it now. The unit lets your child find out, which is much more powerful than being told. The surprising answer is the air: leaves take in carbon dioxide and build it into wood, using sunlight's energy and a little water."
     },
     {
      "id": "s3",
@@ -2534,7 +2524,8 @@
       ],
       "a": 0,
       "why": "The chalk shows that a green leaf already has yellow colours hidden in it. The green chlorophyll covers them up. When a leaf gets old, the plant breaks down their chlorophyll first, to save the useful parts. Then the yellow shows. Picking 'painted by the sun' usually means thinking the colour comes from outside the leaf."
-     }
+     },
+     "parent": "Chalk bands can be faint. You may see only a green band and a pale yellow one, and the yellow can be hard to see. If you see only green, the colours still came apart a little: the green travelled with the spirit. Try again with more leaf and less spirit."
     },
     {
      "id": "s4",
@@ -2580,7 +2571,7 @@
      "qty": 2
     }
    ],
-   "safety": "If you use toothpicks, take care with the sharp points. Do not eat raw dough.",
+   "safety": "Toothpick points are sharp. Keep the balls and sticks away from children under 5.",
    "schedule": [
     {
      "day": 1,
@@ -2596,13 +2587,13 @@
      "do": "1. Explain the colours: black is carbon, red is oxygen, white is hydrogen. 2. Build 6 carbon dioxide molecules: one black ball with a red ball on each side. 3. Build 6 water molecules: one red ball with two white balls. 4. Put them all on the IN plate.",
      "say": "These are models of the molecules a leaf takes in. Carbon dioxide from the air, and water from the roots. Real ones are far too small to see.",
      "kid": "Black is carbon. Red is oxygen. White is hydrogen. Make 6 carbon dioxides: red, black, red. Make 6 waters: white, red, white.",
-     "context": "This is the first step of Build a Sugar, based on the DeepKids building-block game. You build models of carbon dioxide and water, then rebuild them into sugar, the way a leaf does."
+     "context": "This is the first step of Build a Sugar. You build models of carbon dioxide and water, then rebuild them into sugar, the way a leaf does."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Take all the molecules apart. Sunlight's energy is what does this in a real leaf. 2. Build one sugar: a ring of 5 black balls and 1 red ball, with the sixth black ball sticking out. Add the rest of the red and white balls round it, 12 white and 6 red altogether. 3. Put it on the OUT plate.",
-     "say": "In a real leaf, sunlight's energy breaks the molecules apart. Then the atoms join up again in a new way. Nothing is lost. Nothing new is made. They are only rearranged.",
+     "say": "In a real leaf, sunlight's energy powers many small steps. At the end, the atoms have joined up in a new way. Nothing is lost. Nothing new is made. They are only rearranged.",
      "kid": "Pull them all apart. That is sunlight's job in a leaf. Now build one sugar. It needs 6 black, 12 white and 6 red.",
      "parent": "The real sugar, glucose, has 6 carbon, 12 hydrogen and 6 oxygen atoms. Its shape is a ring of 5 carbons and 1 oxygen, with the sixth carbon on a little arm. A neat model does not matter. The counting is what matters."
     },
@@ -2719,7 +2710,7 @@
      "parent": "A kitchen scale may show 0 or 1 gram for the ash, because it is so light. Both mean almost nothing was left. The rest went into the air as carbon dioxide and water vapour."
     }
    ],
-   "context": "In this activity, a grown-up burns a few dry twigs outdoors. You weigh them before and after. Most of the wood goes back into the air, showing that it came from the air.",
+   "context": "This is an extra for families with a terrace, a yard or open ground, and a grown-up. A grown-up burns a few dry twigs outdoors. You weigh them before and after. Most of the wood goes back into the air, showing that it came from the air.",
    "setup": [
     {
      "art": "A child weighing a small heap of dry twigs in a steel bowl on a kitchen scale.",
@@ -2746,7 +2737,6 @@
      "qty": 1
     }
    ],
-   "safety": "Clear the space of anything you could bump into.",
    "schedule": [
     {
      "day": 1,
@@ -2759,10 +2749,10 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. One dancer is a SUNBEAM, with the yellow cloth. 2. The others are LEAVES, with the green cloth, curled up on the floor. 3. The room is dim. It is night.",
+     "do": "1. Move chairs and bags aside. One dancer is a SUNBEAM, with the yellow cloth. 2. The others are LEAVES, with the green cloth, curled up on the floor. 3. The room is dim. It is night.",
      "say": "It's night. The leaves are resting and only breathing gently. They can't make any food without light.",
      "kid": "Curl up small. You are a leaf at night. Breathe slowly. You can't cook food in the dark.",
-     "context": "This is the first step of the Sunbeam Dance, from the DeepKids dance ideas. One dancer is sunlight. The others are leaves, waking up to make food."
+     "context": "This is the first step of the Sunbeam Dance. One dancer is sunlight. The others are leaves, waking up to make food."
     },
     {
      "id": "s2",
@@ -2801,7 +2791,7 @@
   {
    "id": "p1",
    "title": "Van Helmont's Willow, in Five Weeks",
-   "mins": 75,
+   "mins": 80,
    "days": 36,
    "materials": [
     {
@@ -2826,7 +2816,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after handling soil. Ask a grown-up to help lift the pot onto the scale.",
    "schedule": [
     {
      "day": 1,
@@ -2856,7 +2845,7 @@
     {
      "day": 29,
      "mins": 5,
-     "what": "Measure and draw the plants. Stop watering for the last few days so the soil starts drying."
+     "what": "Measure and draw the plants."
     },
     {
      "day": 30,
@@ -2865,7 +2854,7 @@
     },
     {
      "day": 36,
-     "mins": 15,
+     "mins": 20,
      "what": "Weigh the dried plants and the dried soil. Compare everything. Write what you found."
     }
    ],
@@ -2891,7 +2880,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Once a week, measure the tallest plant with a ruler and draw the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser. 4. Stop watering for the last three days, so the soil starts drying.",
+     "do": "1. Once a week, measure the tallest plant with a ruler and draw the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser.",
      "say": "We are giving the plants only water. Watch what they build.",
      "kid": "Each week, measure the tallest plant. Draw them. Give only clean water. No plant food!",
      "wait": "Check once a week for about 4 weeks."
@@ -2913,7 +2902,7 @@
      "kid": "Weigh the dry plants. Weigh the dry soil. Did the soil get lighter? Did the plants get heavier? Where did they come from?",
      "check": {
       "t": "mcq",
-      "q": "The dry plants weighed more than the dry seeds. The soil weighed almost the same as at the start. Where did most of the plants come from?",
+      "q": "Suppose the dry plants weighed more than the dry seeds, and the soil weighed almost the same as at the start. Where did most of the plants come from?",
       "options": [
        "The air, as carbon dioxide",
        "The soil",
@@ -2952,7 +2941,7 @@
        }
       ]
      },
-     "parent": "If the dry plants weigh less than the dry seeds, they did not get enough sun to make more food than they used. Try again in a sunnier place. The clearest result is the plants: they got only water, yet their dry weight grew. Dry the soil the same way both times, so its weight is as fair as possible."
+     "parent": "Be honest about what you see. Seedlings first use up the food stored in their seed, so after four weeks in a flat the dried plants may weigh about the same as the dry seeds, or even less. A kitchen scale also shows only whole grams. If that happens, say so, and look at the soil: it should not have lost anything like the weight of the new leaves and stems. Dry the soil the same way both times, so its weight is as fair as possible."
     },
     {
      "id": "s6",
@@ -2960,7 +2949,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my plants were built mostly from air. What I saw: my 6 dry seeds weighed 4 grams, and the dried plants weighed 11 grams. The soil stayed at 1,200 grams. Why: the leaves used sunlight to build carbon dioxide from the air into sugar. The sugar became stems and leaves."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this, with made-up numbers. What I think: my plants were built mostly from air. What I saw: my 6 dry seeds weighed 4 grams, and the dried plants weighed 11 grams. The soil stayed at 1,200 grams. Why: the leaves used sunlight to build carbon dioxide from the air into sugar. The sugar became stems and leaves."
     }
    ],
    "context": "In this five-week project, you weigh dry soil, grow plants in it with only water, and weigh everything again. It copies Jan Baptist van Helmont's famous willow experiment.",
@@ -3074,7 +3063,7 @@
   {
    "id": "c2",
    "title": "The Fastest Float",
-   "mins": 40,
+   "mins": 60,
    "problem": "In the leaf disc experiment, the sunlit discs in baking soda water floated up after some minutes. Can you make 10 discs all float in less time?",
    "constraints": [
     "You must use leaf discs cut with a straw, sunk in a syringe.",
@@ -3100,7 +3089,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Find how long your sunlit discs took in the leaf disc experiment. Write it at the top of a page.",
+     "do": "Find how long your sunlit discs took in the leaf disc experiment. Write it at the top of a page. You will also set up one cup exactly like that one, to beat.",
      "say": "Last time, how long did all 10 discs take to float? That's the time to beat.",
      "kid": "How long did the discs take last time? Write that down. That is the time to beat!",
      "context": "This is the first step of The Fastest Float. You try to make spinach leaf discs float up faster, by giving the leaf better conditions for making oxygen."
@@ -3114,8 +3103,8 @@
     },
     {
      "id": "s3",
-     "mins": 25,
-     "do": "1. Try each idea, one at a time, with 10 fresh discs. 2. Time how long until all 10 float. 3. Write each time down.",
+     "mins": 45,
+     "do": "1. Sink 10 discs in the syringe for each idea, and 10 more for a cup that is set up exactly like the first experiment. 2. Put the cups side by side. In each cup, change only one thing. 3. Time how long until all 10 discs float in each cup. 4. Write each time down.",
      "say": "Try one idea at a time. If we change two things together, we won't know which one worked.",
      "kid": "Try each idea one at a time. Time how long until all 10 float. Write each time down.",
      "check": {
