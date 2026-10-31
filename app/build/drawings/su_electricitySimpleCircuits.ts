@@ -138,12 +138,15 @@ const e1_0 = (c: Ctx) => {
   wire(c, [[116, B + 4], [116, B + 200], [330, B + 200]], BLACKW); tip(c, 330, B + 200, 0, 44);
   arrow(c, [[400, B + 300], [450, B + 300]]); arrow(c, [[540, B + 300], [490, B + 300]]);
 };
-// setup.e1.1
+// setup.e1.1 : two piles. Left under the lit bulb (metal things), right under the crossed bulb; a hand sorts one in
 const e1_1 = (c: Ctx) => {
-  table(c, 440);
-  label(c, 290, true); label(c, 790, false);
-  spoon(c, 215, 570, 0.2); key(c, 400, 560, -0.15); coin(c, 120, 760); foil(c, 280, 775); paperclip(c, 440, 770, 0.1); nail(c, 270, 940, -0.1); coin(c, 450, 945);
-  eraser(c, 690, 580); stick(c, 900, 570, 0.15); comb(c, 640, 760); marble(c, 790, 780); band(c, 930, 770); paper(c, 790, 940); marble(c, 960, 930);
+  table(c, 300);
+  for (const [x, lit] of [[270, true], [810, false]] as [number, boolean][]) { c.save(); c.translate(x, 20); c.scale(0.7, 0.7); c.translate(-x, -90); label(c, x, lit); c.restore(); }
+  line(c, [[540, 330], [540, 1060]], 8, WOODLN);
+  spoon(c, 200, 430, 0.2); key(c, 400, 420, -0.15); coin(c, 110, 590); foil(c, 270, 600); paperclip(c, 440, 610, 0.1); nail(c, 280, 750, -0.1);
+  eraser(c, 690, 430); stick(c, 900, 430, 0.15); comb(c, 640, 600); marble(c, 800, 610); band(c, 930, 610); paper(c, 780, 770);
+  coin(c, 615, 875); hand(c, 700, 965, -2.2, 1.2, SKIN.child, CLOTH.child, false);
+  arrow(c, [[540, 860], [420, 810]]);
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
@@ -155,13 +158,18 @@ const e1_2 = (c: Ctx) => {
   hand(c, 330, 965, -0.9, 1.3, SKIN.adult, CLOTH.adult, false); hand(c, 800, 965, -2.4, 1.3, SKIN.adult, CLOTH.adult, false);
   tip(c, 395, 885, -0.5, 60); tip(c, 725, 890, -2.6, 70);
 };
+// a bare twisted join of two wires, with a number flag standing on it
+const twist = (c: Ctx, x: number, y: number) => {
+  shape(c, () => ell(c, x, y, 30, 22), COPPER, 5);
+  for (let i = -1; i <= 1; i++) line(c, [[x + i * 12 - 9, y - 18], [x + i * 12 + 9, y + 18]], 4, INK);
+};
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   const B = 570; loopCell(c, B, 780, 2);
   wire(c, [[334, B + 4], [334, B + 110], [540, B + 110]], RED); wire(c, [[540, B + 110], [735, B + 110], [735, B + 4]], RED);
   wire(c, [[826, B + 4], [826, B + 230], [116, B + 230], [116, B + 4]], BLACKW);
-  clip(c, 540, B + 110);
-  flag(c, 334, B + 110, "1"); flag(c, 540, B + 110, "2"); flag(c, 735, B + 110, "3");
+  twist(c, 334, B + 110); twist(c, 540, B + 110); twist(c, 735, B + 110);
+  flag(c, 334, B + 90, "1"); flag(c, 540, B + 90, "2"); flag(c, 735, B + 90, "3");
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
