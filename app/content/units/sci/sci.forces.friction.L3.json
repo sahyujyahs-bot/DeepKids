@@ -667,7 +667,13 @@
       "Holding a slippery fish",
       "Opening a stuck jar lid",
       "A cricket bowler's shoes on the pitch",
-      "Skates on an ice rink",
+      {
+       "f": "Skates on an ice rink",
+       "img": {
+        "src": "media/cards/friction-g1-0-07.jpg",
+        "credit": "en:User:Dr.frog, Public domain, via Wikimedia Commons"
+       }
+      },
       "A door hinge that squeaks",
       "Writing with a pencil",
       "A rubber bathroom mat",

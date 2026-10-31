@@ -646,7 +646,13 @@
       "SUN",
       "SUN",
       "SUN",
-      "Grass",
+      {
+       "f": "Grass",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-04.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
       {
        "f": "Rice plant",
        "img": {
@@ -719,8 +725,20 @@
         "credit": "Suhel Quader, CC BY, via iNaturalist"
        }
       },
-      "Small fish",
-      "Big fish",
+      {
+       "f": "Small fish",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-17.jpg",
+        "credit": "Zakqary Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Big fish",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-18.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
       "Milk",
       "Curd",
       "Ghee",
@@ -833,8 +851,20 @@
         "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
        }
       },
-      "Palak",
-      "Tea",
+      {
+       "f": "Palak",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-04.jpg",
+        "credit": "Tanzil Rahman Tonoy, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Tea",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-05.jpg",
+        "credit": "Kristof Zyskowski, CC BY, via iNaturalist"
+       }
+      },
       "Cauliflower",
       "Clove",
       "Mango",
@@ -860,7 +890,13 @@
       "Milk",
       "Egg",
       "Honey",
-      "Fish",
+      {
+       "f": "Fish",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-19.jpg",
+        "credit": "vaazhaikumar, CC BY, via iNaturalist"
+       }
+      },
       {
        "f": "Mushroom",
        "img": {

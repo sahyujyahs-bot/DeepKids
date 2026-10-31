@@ -687,7 +687,13 @@
       "Rolling a chapati with a rolling pin",
       "Pulling a rubber band",
       "Wringing out a wet towel",
-      "A bamboo in a strong wind",
+      {
+       "f": "A bamboo in a strong wind",
+       "img": {
+        "src": "media/cards/changing-motion-g1-0-03.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "Sitting on a cushion",
       "Winding a rubber band round and round a pencil",
       "Kneading chapati dough",

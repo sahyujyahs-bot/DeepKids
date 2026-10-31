@@ -630,14 +630,62 @@
      "kind": "cards",
      "title": "24 flyer cards to cut out",
      "items": [
-      "House sparrow",
-      "Black kite (cheel) circling on a hot day",
-      "Vulture",
-      "Purple sunbird at a flower",
-      "Bat",
-      "Butterfly",
-      "Housefly",
-      "Dandelion seed",
+      {
+       "f": "House sparrow",
+       "img": {
+        "src": "media/cards/flight-g1-0-00.jpg",
+        "credit": "John Brew, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Black kite (cheel) circling on a hot day",
+       "img": {
+        "src": "media/cards/flight-g1-0-01.jpg",
+        "credit": "Tero Linjama, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Vulture",
+       "img": {
+        "src": "media/cards/flight-g1-0-02.jpg",
+        "credit": "William Stephens, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Purple sunbird at a flower",
+       "img": {
+        "src": "media/cards/flight-g1-0-03.jpg",
+        "credit": "Shiva Shenoy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bat",
+       "img": {
+        "src": "media/cards/flight-g1-0-04.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Butterfly",
+       "img": {
+        "src": "media/cards/flight-g1-0-05.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Housefly",
+       "img": {
+        "src": "media/cards/flight-g1-0-06.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Dandelion seed",
+       "img": {
+        "src": "media/cards/flight-g1-0-07.jpg",
+        "credit": "Meghaa, CC BY, via iNaturalist"
+       }
+      },
       "Big-leaf mahogany seed",
       "Silky aak seed",
       "Drumstick seed",
@@ -646,13 +694,55 @@
       "Glider",
       "Helicopter",
       "Passenger jet",
-      "Hot-air balloon",
-      "Rocket",
-      "Ornate flying snake",
-      "Flying lizard",
-      "Indian giant flying squirrel",
-      "Flying fish",
-      "Ingenuity, the helicopter on Mars",
+      {
+       "f": "Hot-air balloon",
+       "img": {
+        "src": "media/cards/flight-g1-0-16.jpg",
+        "credit": "Neuroxic, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Rocket",
+       "img": {
+        "src": "media/cards/flight-g1-0-17.jpg",
+        "credit": "NASA/Bill Ingalls, public domain"
+       }
+      },
+      {
+       "f": "Ornate flying snake",
+       "img": {
+        "src": "media/cards/flight-g1-0-18.jpg",
+        "credit": "Ankur Nandi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Flying lizard",
+       "img": {
+        "src": "media/cards/flight-g1-0-19.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Indian giant flying squirrel",
+       "img": {
+        "src": "media/cards/flight-g1-0-20.jpg",
+        "credit": "kalyanvarma, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Flying fish",
+       "img": {
+        "src": "media/cards/flight-g1-0-21.jpg",
+        "credit": "Debra Baker, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Ingenuity, the helicopter on Mars",
+       "img": {
+        "src": "media/cards/flight-g1-0-22.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
+      },
       "Box kite at the beach"
      ]
     },

@@ -489,8 +489,20 @@
         "credit": "FlagKBwiki, CC0, via Wikimedia Commons"
        }
       },
-      "CONDUCTOR: aluminium foil. Works like a wire.",
-      "CONDUCTOR: a steel key. Works like a wire.",
+      {
+       "f": "CONDUCTOR: aluminium foil. Works like a wire.",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-24.jpg",
+        "credit": "images-of-elements.com (site says that \"Most element samples came from smart-ele, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "CONDUCTOR: a steel key. Works like a wire.",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-25.jpg",
+        "credit": "Unknown artistUnknown artist, Public domain, via Wikimedia Commons"
+       }
+      },
       "INSULATOR: a wooden stick. Play it on another player's loop to make a gap.",
       "INSULATOR: a plastic ruler. Play it on another player's loop to make a gap.",
       "INSULATOR: a rubber band. Play it on another player's loop to make a gap.",
@@ -502,9 +514,27 @@
       "FIX IT: take a GAP! or INSULATOR card out of your loop, then play one more card",
       "FIX IT: take a GAP! or INSULATOR card out of your loop, then play one more card",
       "FIX IT: take a GAP! or INSULATOR card out of your loop, then play one more card",
-      "SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card",
-      "SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card",
-      "SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card"
+      {
+       "f": "SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-37.jpg",
+        "credit": "McNairBF, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-38.jpg",
+        "credit": "McNairBF, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "SWITCH: part of your loop. If a GAP! or INSULATOR lands on you, turn the switch face down instead of losing a card",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-39.jpg",
+        "credit": "McNairBF, CC0, via Wikimedia Commons"
+       }
+      }
      ]
     },
     {
