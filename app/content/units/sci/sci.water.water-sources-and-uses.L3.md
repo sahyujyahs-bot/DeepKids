@@ -155,7 +155,7 @@ Water is not only on Earth. In 2009, scientists studying data from India's first
 Every living thing needs water. More than half of your body weight is water. A newborn baby is about three-quarters water. Your blood is mostly water. It carries food and oxygen to every part of you. You lose water every day when you breathe out, sweat and go to the toilet. So you must drink to replace it. Your two kidneys are your body's own water-cleaning plant. Each day an adult's kidneys clean about 180 litres of fluid. That is about 12 buckets of 15 litres. They keep most of it, and send out the waste as urine.
 - e.g. Breathe onto a cold steel plate. The mist is water from inside you.
 - e.g. When you are thirsty, your body is telling you it needs water back.
-- e.g. A cactus lives where rain may not come for months. They store water in their thick, fleshy stem, so they can keep living through the dry months.
+- e.g. Cacti live where rain may not come for months. They store water in their thick, fleshy stems, so they can keep living through the dry months.
 
 ## Mostly agreed
 - Almost all the fresh water people use begins as rain. *How we know:* River levels, lake levels and well levels all rise after the monsoon and fall in the dry months. Weather stations across India measure the rain every day.
@@ -224,7 +224,7 @@ Rain is almost pure when it falls. As it soaks through soil and rock, it dissolv
 - *deep:* Why can water look perfectly clean and still make you ill? (hint: Think of salt stirred into water. Where did it go?)
 - *deep:* If rain soaks into the ground so slowly, how long has the water in a deep borewell been waiting there? (hint: Some water in deep borewells fell as rain thousands of years ago.)
 - *deep:* How did people find water under the ground before there were machines and maps? (hint: Look at which trees stay green in a dry summer. Where do termites build?)
-- *big:* Why do women and girls do most of the water-fetching in the world? Is that fair? (hint: Who fills the water bottles in your home?)
+- *big:* Why do women and girls do most of the water-fetching in the world? Is that fair? (hint: In a home without a tap, who walks to the well or the handpump, and how many times a day?)
 - *big:* Is there water on other worlds, and could anything live there? (hint: Some icy moons may have oceans under their ice, in the dark.)
 - *big:* John Snow's map saved lives because he looked at where people got their water. What other problems could you solve by drawing a map? (hint: Where do people slip? Where do mosquitoes breed? Where are the shady places?)
 
@@ -275,7 +275,7 @@ Later, Dr Snow drew a map of the streets. He put a little black bar for each per
 
 Today, on that same street in London, there is a copy of the old pump. It has no handle.
 
-**For the parent:** For the parent: the clue that cracks the mystery is distance. The cholera reached Mrs Eley's house on a hill with fresh air, where nobody else was ill, and the only thing from Broad Street in that house was the water. So the illness was not in the air. It was in water that looked, smelled and tasted perfect. Germs are too small to see, so clear water is not always clean water. The way to find danger was to trace where the water came from and who drank it. The story also quietly asks who gets remembered: the doctor with the map, the priest who changed his mind, or the people who carried the water.
+**For the parent:** For the parent: the clue that cracks the mystery is distance. The cholera reached Mrs Eley's house on a hill with fresh air, where nobody else was ill, and the only thing from Broad Street in that house was the water. So the illness was not in the air. It was in water that looked, smelled and tasted perfect. Germs are too small to see, so clear water is not always clean water. The way to find danger was to trace where the water came from and who drank it.
 
 - Ask: Why did people trust the Broad Street pump more than any other?
 - Ask: Mrs Eley lived far away, in fresh air, and nobody near her was ill. Why was that the big clue?
@@ -285,9 +285,9 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 
 ## Games
 ### g1 · Drop's Journey (20 min)
-- **rules:** Each player is a raindrop. Everyone starts at the cloud, on square 1.; Take turns to roll a dice and move.; Read your square out loud and do what it says.; Before you move again, say why the square sent you forward or back. For example, 'Cement has no gaps, so rain runs off.'; If a square sends you back to START, begin again at the cloud.; The first drop to reach the WELL wins. Then play again. Can anyone get there without being sent back?
-- **Printable board: A board of 30 squares, from the cloud to the well:** 1 START: you fall from a cloud; 2 You land on a forest floor. Soak in. Go forward 3.; 3 A tarred road. You run off into a drain. Go back 2.; 4 You trickle between sand grains.; 5 A leaf catches you. Miss a turn.; 6 Hot sun! You evaporate. Go back to START.; 7 A grassy field. Soak in. Go forward 2.; 8 A tin roof. You run into a gutter. Go back 3.; 9 A johad, a mud wall, slows you down. Soak in. Go forward 3.; 10 You seep down through gravel.; 11 A tree root drinks you. Miss a turn.; 12 A tiled courtyard. You run off. Go back 2.; 13 A village pond. You sink in slowly. Go forward 1.; 14 You rest in the gaps of the rock for a hundred years.; 15 A borewell pumps too fast. Go back 2.; 16 You slide sideways through an aquifer, a wet rock layer. Go forward 2.; 17 A tanka catches you from a clean roof. Go forward 2.; 18 You seep past a leaking sewer pipe and pick up germs. Go back 1.; 19 Someone leaves a tap running. Back to START.; 20 You join the groundwater.; 21 You move only a few centimetres today. Groundwater is slow.; 22 A farmer floods a field all afternoon. Go back 3.; 23 You pick up some dissolved salt from the rock.; 24 You trickle towards a deep stepwell.; 25 A family fixes a dripping tap. Go forward 2.; 26 You pass through a sand layer, which catches mud.; 27 A cement building covers the ground above you.; 28 Rain refills the ground behind you. Go forward 1.; 29 You find a crack in the well wall.; 30 WELL: you made it!
-- **Printable tokens: One raindrop counter for each player:** 💧
+- **rules:** Each player is a raindrop. Everyone starts at the cloud, on square 1.; Take turns to roll a dice and move that many squares.; Read your square out loud and do what it says. Do it once. Do not follow the next square's instructions.; Miss a turn means you skip your next turn. If you are sent back past square 1, stay on square 1.; Before you move again, say why the square sent you forward or back. For example, 'Cement has no gaps, so rain runs off.'; If a square sends you back to START, begin again at the cloud.; The first drop to reach or pass square 30, the WELL, wins. Then play again. Can anyone get there without being sent back?
+- **Printable board: A board of 30 squares, from the cloud to the well:** 1 START: you fall from a cloud; 2 You land on a forest floor. Soak in. Go forward 3.; 3 A tarred road. You run off into a drain. Go back 2.; 4 You trickle between sand grains. Sand has big gaps. Go forward 1.; 5 A leaf catches you. Miss a turn.; 6 Hot sun! You evaporate. Go back to START.; 7 A grassy field. Soak in. Go forward 2.; 8 A tin roof. You run into a gutter. Go back 3.; 9 A johad, a mud wall, slows you down. Soak in. Go forward 3.; 10 You seep down through gravel. Go forward 1.; 11 A tree root drinks you. Miss a turn.; 12 A tiled courtyard. You run off. Go back 2.; 13 A village pond. You sink in slowly. Go forward 1.; 14 You rest in the gaps of the rock for a hundred years. Miss a turn.; 15 A borewell pumps too fast. Go back 2.; 16 You slide sideways through an aquifer, a wet rock layer. Go forward 2.; 17 A tanka catches you from a clean roof. Go forward 2.; 18 You seep past a leaking sewer pipe and pick up germs. Go back 1.; 19 Someone leaves a tap running. Back to START.; 20 You join the groundwater. Go forward 1.; 21 You move only a few centimetres today. Groundwater is slow. Miss a turn.; 22 A farmer floods a field all afternoon. Go back 3.; 23 You pick up some dissolved minerals from the rock. This is normal. Go forward 1.; 24 You trickle towards a deep stepwell. Go forward 2.; 25 A family fixes a dripping tap. Go forward 2.; 26 You pass through a sand layer, which catches mud. Go forward 2.; 27 A cement building covers the ground above you, so rain cannot reach you from above. Go back 2.; 28 Rain refills the ground behind you. Go forward 1.; 29 You find a crack in the well wall and slip in. Go forward 1.; 30 WELL: you made it!
+- **Printable tokens: 4 raindrop counters, one for each player:** 💧; 💧; 💧; 💧
 - **Printable score sheet: Where my drop went:** Squares where I soaked in; Squares where I ran off; Squares where I evaporated; How many turns to reach the well
 - **s1 (2 min)**  
   *Parent does:* 1. Put the board in the middle. 2. Give each player a raindrop counter on square 1. 3. Have a dice ready.  
@@ -304,17 +304,17 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Child mode:* Roll and move. Read your square. Say why it helps or not. Then mark your score sheet.
   - Ask: Why does a forest floor help a drop reach the well? (good: Leaves slow the rain down.; Soil and roots have gaps, so water soaks in.)
   - Ask: Why does the tanka square send you forward? (good: The tanka catches rain from a clean roof and stores it.; The water is kept, not lost.)
-  - Note: Squares 3, 8 and 12 send drops back, because rain runs off hard ground. Squares 6, 19 and 22 send drops back through evaporation and waste. Squares 2, 7 and 9 help, because water soaks in. Square 15 shows over-pumping. Square 23 shows how water picks up dissolved salts from rock.
+  - Note: Squares 3, 8, 12 and 27 send drops back, because rain runs off hard ground or cannot get in. Squares 6, 19 and 22 send drops back through evaporation and waste. Squares 2, 4, 7, 9, 10, 13, 17, 24 and 26 help, because water soaks in or is kept and cleaned. Square 15 shows over-pumping. Squares 14 and 21 show that groundwater moves slowly. Square 18 shows how dirty water can reach groundwater. Square 23 shows that groundwater carries dissolved minerals from the rock.
 - **s4 (3 min)**  
   *Parent does:* When someone reaches the well, stop. Look at everyone's score sheets together.  
   *Parent says:* Look at your score sheet. Where did you soak in? Where did you run off? What kind of land helps a well stay full?  
   *Child mode:* Look at your score sheet. Count your soak-in squares. Count your run-off squares. What helps the well most?
   - Think: If our whole street were cement, how would the well get water?
 ### g2 · Drink, Boil or Never? (20 min)
-- **rules:** Shuffle the 20 water cards. Put them face down in a pile.; On your turn, take a card and read it out loud.; Put it on one of the three mats: DRINK IT, MAKE IT SAFE FIRST, or NEVER DRINK IT.; Say why. A good reason wins one drop token.; Other players can challenge you. If they give a better reason, they win the token instead.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 20 water cards to cut out:** A sealed bottle of water from a shop, with the seal unbroken; Water from a stream in the hills, clear and very cold; A puddle on the road after rain; Water from the sea at Marina beach; Water from your home purifier, working properly; Water from a village handpump that has never been tested; Water from a well that was tested and found to have arsenic; Rainwater caught in a clean steel bowl, left out for two days; Tap water in a hotel in a city you do not know; Water that was boiled well and cooled in a clean, covered pot; Muddy river water, left to settle, then poured through cloth; Water from a clean, covered matka, filled with boiled water; Water from a bucket with a dead insect in it; Water from a borewell where the test showed too much fluoride; Melted ice from a street-side ice block; Water from a clear bottle left in strong sun all day on a roof; Water from a garden hose lying in the sun; Water from a fish tank; Water from a stepwell where people also wash; Water from your own tap at home, from a city treatment plant
+- **rules:** Shuffle the 20 water cards. Put them face down in a pile. Put the drop tokens in a bowl.; The mats mean this. DRINK IT: the water has already been made safe. MAKE IT SAFE FIRST: boiling or a purifier will fix it. NEVER DRINK IT: boiling cannot fix it, or the water is too dirty or too old.; On your turn, take a card and read it out loud.; Put it on one of the three mats and say why. A good reason wins one drop token.; Other players can challenge you. If they give a better reason, they win the token instead.; When the cards run out, the player with the most tokens wins. If two players tie, they share the win.
+- **Printable cards: 20 water cards to cut out:** A sealed bottle of water from a shop, with the seal unbroken; Water from a stream in the hills, clear and very cold; A puddle on the road after rain; Water from the sea at Marina beach; Water from your home purifier, working properly; Water from a village handpump that has never been tested; Water from a well that was tested and found to have arsenic; Rainwater caught in a clean steel bowl, left out for two days; Tap water in a hotel in a city you do not know; Water that was boiled well and cooled in a clean, covered pot; Muddy river water, left to settle, then poured through cloth; Water from a clean, covered matka, filled with boiled water; Water from a bucket with a dead insect floating in the water; Water from a borewell where the test showed too much fluoride; Melted ice from a street-side ice block; Water from a drain beside a factory, with a rainbow-coloured shine on top; Water from a garden hose lying in the sun; Water from a fish tank; Water from a stepwell where people also wash; Water from your own tap at home, from a city treatment plant
 - **Printable board: Three mats:** DRINK IT: safe as it is; MAKE IT SAFE FIRST: boil it, or purify it; NEVER DRINK IT
-- **Printable tokens: 20 drop tokens:** 💧
+- **Printable tokens: 20 drop tokens:** 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧; 💧
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the three mats. 2. Shuffle the 20 water cards and put them face down. 3. Put the drop tokens in a bowl.  
   *Parent says:* Every card is some water. For each one, we decide. Can we drink it as it is? Must we make it safe first? Or should we never drink it at all?  
@@ -322,14 +322,14 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 - **s2 (3 min)**  
   *Parent does:* Play a practice card together: 'Water from a stream in the hills, clear and very cold.'  
   *Parent says:* This stream water is clear and cold. Is it safe as it is?  
-  *Child mode:* Practice card: clear, cold stream water. Which mat? Tap your answer.
+  *Child mode:* Practice card: clear, cold stream water. Which mat?
   - Check: Water from a stream in the hills, clear and very cold. Which mat? → **MAKE IT SAFE FIRST: boil or purify it**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns drawing a card and placing it on a mat. 2. The player says why. 3. Others may challenge. 4. Give a drop token for each good reason.  
   *Parent says:* Remember, a good reason wins a token. Can anyone give a better reason?  
   *Child mode:* Take a card. Put it on a mat. Say why. A good reason wins a 💧 token.
   - Ask: Why can't we just boil the water from the well with arsenic? (good: Boiling kills germs but does not take out arsenic.; The arsenic is dissolved. It stays in the pot.)
-  - Note: Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the stream, the untested handpump and the hotel tap. Also the settled river water, the rainwater left out, the street ice and the stepwell. NEVER: the puddle, the sea water, the arsenic well, the fluoride borewell, the fish tank the bucket with the insect and the garden hose. Old water sits in a hose and in a fish tank, and germs grow in the old water. Boiling does not remove salt, arsenic or fluoride. City tap water depends on your city. Many families boil or purify it to be sure. The sunny bottle is tricky. Sunlight can kill many germs. But it needs a clean, clear bottle in strong sun for about six hours.
+  - Note: Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Old water sits in a hose and a fish tank, and germs grow in it. Boiling does not remove salt, arsenic, fluoride or factory chemicals.
 - **s4 (3 min)**  
   *Parent does:* Count the tokens. Then look at the NEVER mat together.  
   *Parent says:* Look at the NEVER pile. Which of these waters looked clear? Why can't boiling save them?  
@@ -340,25 +340,24 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 ### e1 · Rain on Four Grounds: soak in or run off? (25 min)
 - **question:** When rain falls on different ground, where does it go?
 - **predict:** Before you pour, guess. Put the four grounds in order, from the one that will soak up the water fastest to the one that will let it run away. Why do you think so?
-- **fair test:** To make it fair, change only the ground. Use the same mug, filled to the same line. Pour from the same height, at the same slow speed. Time each one the same way.
-- **safety:** Do this outside, on a balcony or in the bathroom, with a grown-up. Wet tiles are slippery, so walk carefully.
+- **fair test:** To make it fair, change only the ground. Use tubs of the same size and the same depth. Use the same mug, filled to the same line. Pour from the same height, at the same slow speed. Time each one the same way.
 - **record:** Fill in the table. Then draw the four grounds, with arrows showing where the water went.
 - **results table:** Ground | Did the water soak in, run off or make a puddle? | Seconds until no puddle was left | Where did the water go?
-- **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Find four places close together: bare soil, grass, sand and a cement or tiled floor. In a flat, use a big plant pot's soil, a tray of sand and a tile. Do it on the balcony or in the bathroom. 2. Ask your child to guess which will soak up the water fastest, and why.  
-  *Parent says:* Rain is about to fall on these four places. Which one do you think will drink it up fastest? Which one will let it run away?  
-  *Child mode:* Find four grounds: soil, grass, sand and cement. Guess! Which one drinks water fastest? Which one lets it run away?
-  - Ask: Why did you choose that one first? (good: Sand has gaps.; Soil is soft and spongy.)
-- **s2 (12 min)**  
-  *Parent does:* 1. Fill the mug to the line. 2. Hold it at knee height. 3. Pour it slowly onto the first ground. 4. Start the timer. 5. Stop it when no puddle is left. If water is still there after 5 minutes, write 'more than 5 minutes'. 6. Do the same on each ground.  
+- **s1 (5 min) · grown-up needed**  
+  *Parent does:* 1. Do this in the bathroom or on a balcony, where spills do not matter. 2. Fill one tub with soil, one with sand and one with gravel, each 5 cm deep. Press each flat. 3. Put the tile or plate on a tray. That is the fourth ground. 4. Ask your child to guess which ground will soak up the water fastest, and why.  
+  *Parent says:* Rain is about to fall on these four grounds. Which one do you think will drink it up fastest? Which one will let it run away?  
+  *Child mode:* Look at the four grounds: soil, sand, gravel and a tile. Guess! Which one drinks water fastest? Which one lets it run away?
+  - Ask: Why did you choose that one first? (good: Gravel and sand have gaps.; Soil is soft and spongy.; A tile is hard and flat.)
+- **s2 (10 min)**  
+  *Parent does:* 1. Fill the mug to the line. 2. Hold it at knee height. 3. Pour it slowly onto the first ground. 4. Start the timer. 5. Stop it when no water is left on top. If water is still there after 5 minutes, write 'more than 5 minutes'. 6. Do the same on each ground.  
   *Parent says:* Pour slowly, like steady rain. Watch the water. Does it sink in, run away, or sit there?  
   *Child mode:* Fill the mug to the line. Pour it slowly from knee height. Start the timer. Stop it when the puddle is gone. Do this on each ground.
-  - Note: Sand usually drinks water fastest. Then soil and grass. Cement and tiles let the water run off or sit in a puddle. That puddle will only go by evaporating, which takes much longer.
+  - Note: Gravel and sand usually drink water fastest. Then soil, which can take a minute or more if it is packed hard. Most of the water on the tile runs off into the tray. The thin puddle left on the tile only goes by evaporating, which takes much longer.
 - **s3 (4 min)**  
-  *Parent does:* Look again at the cement puddle after 30 minutes, if you can.  
-  *Parent says:* The cement puddle is smaller now. Nothing soaked in. So where did the water go?  
-  *Child mode:* Look at the cement puddle again later. Is it smaller? Where did the water go?
-  - Check: A puddle on cement slowly gets smaller. Where does its water go? → **It evaporates into the air as invisible vapour**
+  *Parent does:* Look again at the puddle on the tile after 30 minutes, if you can.  
+  *Parent says:* The puddle on the tile is smaller now. Nothing soaked in. So where did the water go?  
+  *Child mode:* Look at the puddle on the tile again later. Is it smaller? Where did the water go?
+  - Check: A puddle on a tile slowly gets smaller. Where does its water go? → **It evaporates into the air as invisible vapour**
 - **s4 (3 min)**  
   *Parent does:* Talk about the whole street, and the whole city.  
   *Parent says:* Imagine a whole city covered in cement and tar. Where does the monsoon rain go?  
@@ -368,15 +367,15 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: soft ground like sand and soil drinks rain, but cement makes it run off. What I saw: the sand puddle was gone in 10 seconds, but the cement puddle lasted more than 5 minutes. Why: sand and soil have tiny gaps for water to trickle into, and cement has none.
+  - Note: Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: gravel, sand and soil drink rain, but a hard tile makes it run off. What I saw: the sand puddle was gone in 10 seconds, but the puddle on the tile lasted more than 5 minutes. Why: gravel, sand and soil have gaps for water to trickle into, and a tile has none.
 ### e2 · A Well in a Jar (25 min)
 - **question:** How is water stored under the ground, and what happens to a well when we pump too fast?
 - **predict:** Guess first. When you pour 'rain' on top of the soil, where will it go? What will happen to the water at the bottom when you pump some out? Why do you think so?
 - **fair test:** Pour the same amount of 'rain' each time. Pump the same number of times each time. Mark the water level after every change, so you can compare.
-- **safety:** A grown-up cuts the bottle. Do not drink any of the water. Wash your hands after touching the soil.
+- **safety:** A grown-up cuts the bottle, because the cut edge is sharp.
 - **record:** Fill in the table. Draw the jar with all its layers and the water level marks.
 - **results table:** What we did | Water level at the bottom (cm from the bottom of the jar)
-- **s1 (6 min) · grown-up needed**  
+- **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Stand the straw against the inside wall of the jar, touching the bottom. 2. Hold it there. 3. Pour in gravel up to about 4 cm. 4. Add sand on top, then soil, until the jar is two-thirds full. 5. The straw is your well.  
   *Parent says:* This jar is the ground under a village, cut open so we can see inside. The gravel at the bottom is like rock with gaps. The straw is a well.  
   *Child mode:* Stand the straw against the side of the jar. Fill with gravel, then sand, then soil. The straw is your well!
@@ -384,35 +383,34 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent does:* 1. Pour water slowly onto the soil, one cup at a time, like rain. 2. Watch through the side. Dry soil soaks up a lot first, so keep going. 3. Stop when water has collected between the pebbles at the bottom, about 3 to 4 cm deep. 4. Wait 2 minutes, then mark the water level with the marker. Write down how many cups it took.  
   *Parent says:* Watch closely. Where does the rain go? Can you see it in the gaps between the stones?  
   *Child mode:* Pour water on top, one cup at a time, like rain. Watch through the side. Stop when water fills the pebbles at the bottom. Mark the level.
-  - Ask: Is the groundwater a lake or a pool? (good: No, it is in the gaps between the stones.; It fills the spaces, like water in a sponge.)
-- **s3 (6 min)**  
-  *Parent does:* 1. Push the tip of the syringe into the top of the straw. Squeeze the straw tight round it with your fingers, so no air gets in. 2. Pull the plunger to suck water up, then squirt it into a cup. 3. Do this 10 times. 4. Mark the new water level.  
-  *Parent says:* Now the village is pumping water from its well. Ten pumps. What happens to the water level?  
-  *Child mode:* Push the syringe onto the top of the straw. Pull to suck water up. Squirt it into a cup. Do it 10 times. Mark the new level.
-  - Note: Ten full syringes take out about 100 millilitres. In a jar about 10 cm across, that lowers the level by 2 to 4 cm, enough to see. With a small medicine dropper the change is too small, so use a syringe.
+  - Ask: Is the groundwater an underground lake? (good: No, it is in the gaps between the stones.; It fills the spaces, like water in a sponge.)
+- **s3 (4 min)**  
+  *Parent does:* 1. Push the tip of the syringe into the top of the straw. Squeeze the straw tight round it with your fingers, so no air gets in. 2. Pull the plunger to suck water up, then squirt it into a cup. 3. Do this 5 times. 4. Mark the new water level.  
+  *Parent says:* Now the village is pumping water from its well. Five pumps. What happens to the water level?  
+  *Child mode:* Push the syringe onto the top of the straw. Pull to suck water up. Squirt it into a cup. Do it 5 times. Mark the new level.
+  - Note: Five full syringes take out about 50 millilitres. In a jar about 10 cm across, the water sits in the gaps between the stones, so that lowers the level by about 1 to 2 cm, enough to see. With a small medicine dropper the change is too small, so use a syringe.
   - Check: In the jar well, the water level dropped after pumping. What would refill it? → **More rain soaking down from the top**
-- **s4 (4 min)**  
-  *Parent does:* 1. Pour half a cup of water on top. 2. Wait 5 minutes, then mark the level again. 3. Now cover the soil with a plastic bag, and pour another half cup on top of the plastic. 4. Wait 5 minutes and look at the level.  
+- **s4 (8 min)**  
+  *Parent does:* 1. Pour half a cup of water on top. 2. Wait 3 minutes, then mark the level again. 3. Now cover the soil with a plastic bag, and pour another half cup on top of the plastic. 4. Wait 3 minutes and look at the level.  
   *Parent says:* First, a little rain. Then, what if the land were covered in cement? The plastic is our cement.  
   *Child mode:* Pour half a cup of rain. Mark the level. Now cover the soil with plastic. Pour again. Does the well fill?
   - Think: In the real ground, rain can take months or years to reach a deep borewell. What happens if people pump faster than that?
-- **s5 (4 min)**  
+- **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a well only stays full if rain soaks in to refill the ground. What I saw: the level fell from 4 cm to 2 cm after pumping. It came back to 3 cm after rain. It did not rise when the soil was covered. Why: groundwater sits in the gaps between stones, and only rain soaking down can refill those gaps.
+  - Note: Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a well only stays full if rain soaks in to refill the ground. What I saw: the level fell from 4 cm to 2 cm after pumping. It came back to 3 cm after rain. It did not rise when the soil was covered. Why: groundwater sits in the gaps between stones, and only rain soaking down can refill those gaps.
 ### e3 · The Cool Matka Test (25 min)
 - **question:** Does water stay cooler in a clay matka than in a steel or plastic bottle? Why?
 - **predict:** Guess first. After four hours in the same place, which will be coolest: the matka, the steel bottle, or the steel bottle wrapped in a wet cloth? Why do you think so?
-- **fair test:** To make it fair, fill all three from the same tap at the same time. Keep them side by side in the same shady, airy place. Measure them all at the same time, with the same thermometer.
-- **safety:** Use tap water at room temperature, not hot water.
+- **fair test:** To make it fair, fill all three from the same tap at the same time, with the same amount of water, about half a litre each. Put the lid on the matka and the caps on the bottles. Keep them side by side in the same shady, airy place. Measure them all at the same time, with the same thermometer.
 - **record:** Fill in the table. Draw the matka and show, with arrows, where the water goes and where the heat goes.
 - **results table:** Container | Temperature at the start (°C) | Temperature after 4 hours (°C) | Is its outside dry or damp?
 - **s1 (6 min)**  
   *Parent does:* 1. In the morning, fill the matka and the two bottles from the same tap. 2. Wet the cloth, squeeze it a little, and wrap it round one bottle. 3. Put all three side by side in a shady, airy place. 4. Measure the water in each with the thermometer, and write it down.  
   *Parent says:* These three start the same. Same water, same tap, same place. Which do you think will be coolest by lunchtime?  
   *Child mode:* Fill the matka and both bottles from the same tap. Wrap one bottle in a wet cloth. Put them side by side. Measure each one.
-  - Note: Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation.
+  - Note: Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation. On a humid monsoon day all three may end up close together. That is a real result, and it is the answer to the question in step 4.
 - **s2 (6 min)**  
   *Parent does:* 1. After about four hours, measure the water in each again. 2. Feel the outside of the matka and of the wrapped bottle.  
   *Parent says:* Feel the outside of the matka. Is it dry or damp? Where did that water come from?  
@@ -433,12 +431,11 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the matka keeps water coolest because water evaporates from its outside. What I saw: after four hours the matka was 24 °C, the wrapped bottle 26 °C and the steel bottle 29 °C. The matka felt damp outside. Why: evaporating water takes heat away with it.
+  - Note: Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the matka keeps water coolest because water evaporates from its outside. What I saw: after four hours the matka was 24 °C, the wrapped bottle 26 °C and the steel bottle 29 °C. The matka felt damp outside. Why: evaporating water takes heat away with it.
 ### e4 · The Invisible Ring: is clear water clean? (25 min)
 - **question:** Can two glasses of water look exactly the same, but have different things hidden in them?
 - **predict:** Guess first. Two glasses of water look exactly the same. If you dry a spoonful of each on a plate, will they leave the same marks? And will plain tap water leave anything at all? Why do you think so?
 - **fair test:** Use the same amount of water from each glass, the same plate and the same sunny spot. Only the water changes.
-- **safety:** Do not taste or drink any of the test water. Wash your hands after touching the soil.
 - **record:** Fill in the table. Draw the plate, showing what each spot left behind.
 - **results table:** Water | How it looked in the glass | What it left on the plate when it dried
 - **s1 (5 min)**  
@@ -447,9 +444,9 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Child mode:* Fill three glasses from the kitchen tap. Stir salt into glass B. Stir soil into glass C. Can you still see the salt?
   - Ask: Where did the salt go? (good: It dissolved.; It is still there, but in tiny bits we can't see.)
 - **s2 (5 min)**  
-  *Parent does:* 1. Leave glass C still for 10 minutes. 2. Watch the soil sink to the bottom. 3. Hold glasses A and B up to the light side by side.  
+  *Parent does:* 1. Hold glasses A and B up to the light side by side. 2. Leave glass C still. The soil takes about 10 minutes to sink to the bottom.  
   *Parent says:* The mud is settling, sinking to the bottom. Now look at A and B. Can you tell which one is salty, just by looking?  
-  *Child mode:* Leave the muddy glass still. Watch the mud sink. Now hold up A and B. Which is salty? Can you tell?
+  *Child mode:* Hold up glasses A and B. Which is salty? Can you tell? Leave the muddy glass still and watch the mud sink.
 - **s3 (5 min)**  
   *Parent does:* 1. Put one spoon of water from A on the plate. 2. Put one spoon from B a little way off. 3. Gently take one spoon from the clear top of C, and put it on too. 4. Leave the plate in strong sun, or under a fan, until the spots are dry.  
   *Parent says:* Now the water will evaporate. Whatever was hiding in it will be left behind.  
@@ -465,7 +462,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water that looks clear can still have things hidden in it. What I saw: glasses A and B looked the same. But B left a thick white ring of salt, and A left only a faint mark. Why: the salt dissolved, so I could not see it until the water evaporated.
+  - Note: Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water that looks clear can still have things hidden in it. What I saw: glasses A and B looked the same. But B left a thick white ring of salt, and A left only a faint mark. Why: the salt dissolved, so I could not see it until the water evaporated.
 
 ## Activities
 ### a1 · Follow the Pipe (20 min)
@@ -494,7 +491,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 ### a2 · Rain Gauge and Sky Diary (40 min, 7 days)
 - **safety:** Only a grown-up cuts the bottle. Do not go out to read the gauge in a thunderstorm.
 - **record:** Every day at the same time, write the date, the rain in millimetres, and draw the sky. At the end of the week, add up the total and draw a line chart.
-- **schedule:** day 1: Make the rain gauge and place it outside. Start the sky diary. (15 min); day 2: Read the gauge at the same time. Draw the sky. (4 min); day 3: Read the gauge. Draw the sky. (4 min); day 4: Read the gauge. Draw the sky. (4 min); day 5: Read the gauge. Draw the sky. (4 min); day 6: Read the gauge. Draw the sky. (4 min); day 7: Read the gauge. Add up the week's rain and draw a line chart. (5 min)
+- **schedule:** day 1: Make the rain gauge and place it outside. Start the sky diary. (15 min); day 2: Read the gauge at the same time. Draw the sky. (4 min); day 3: Read the gauge. Draw the sky. (4 min); day 4: Read the gauge. Draw the sky. (4 min); day 5: Read the gauge. Draw the sky. (4 min); day 7: Read the gauge for the last time. Add up the rain and draw a line chart. (5 min); day 7: Read the gauge. Add up the week's rain and draw a line chart. (5 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top third off the bottle. 2. Put pebbles in the bottom, and pour in water until it covers them. Mark that line as 0. 3. Tape the ruler on the side, with its 0 at the line. 4. Turn the top upside down and push it into the bottle as a funnel.  
   *Parent says:* Rain falls evenly, so this bottle catches the same depth of rain as the ground around it. We'll measure it in millimetres.  
@@ -505,18 +502,17 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent says:* Where should it go? Not under a tree or a roof, because they would block the rain or drip extra water in.  
   *Child mode:* Put your rain gauge in an open place. Not under a tree. Not under a roof. Put stones around it.
 - **s3 (20 min)**  
-  *Parent does:* Every morning for a week, at the same time: 1. Read the water level against the ruler. 2. Write it in the sky diary, in millimetres. 3. Draw the sky. 4. Tip out water back down to the 0 line.  
+  *Parent does:* Every morning for six days, at the same time: 1. Read the water level against the ruler. 2. Write it in the sky diary, in millimetres. 3. Draw the sky. 4. Tip out water back down to the 0 line.  
   *Parent says:* Weather scientists all over India do exactly this, every morning at the same time. Today you are one of them.  
   *Child mode:* Every morning, read your gauge. Write the number. Draw the sky. Then tip the water back to 0.
   - Ask: Why do we read it at the same time every day? (good: So each reading is one whole day of rain.; To make it fair.)
 - **s4 (5 min)**  
-  *Parent does:* At the end of the week, add up all the readings. Draw a line chart of the seven days.  
-  *Parent says:* How much rain fell this week altogether? Which day was the wettest?  
-  *Child mode:* Add up the whole week. Which day had the most rain? Draw a line chart.
+  *Parent does:* At the end, add up all the readings. Draw a line chart of the days.  
+  *Parent says:* How much rain fell altogether? Which day was the wettest?  
+  *Child mode:* Add up all your readings. Which day had the most rain? Draw a line chart.
   - Check: Your rain gauge shows 0 millimetres, but the soil outside is wet. What is the best explanation? → **Dew or a sprinkle wet the soil, but too little to measure, or the soil got water another way**
   - Think: If no rain falls this week, where can you find out how much fell in your city? (Look for the India Meteorological Department's rainfall report, or the newspaper.)
 ### a3 · The Family Water Count (30 min, 2 days)
-- **safety:** Do not climb up to look inside a toilet tank. Ask a grown-up, or read the size printed on it.
 - **record:** Fill in the tally chart for one whole day. Then multiply each tally by its litres, add up the total, and draw a bar chart.
 - **schedule:** day 1: Measure how many litres your mug and bucket hold. Make the tally chart. Start counting. (15 min); day 2: After 24 hours, add up the litres. Draw a bar chart. Choose one way to use less. (15 min)
 - **s1 (3 min)**  
@@ -544,7 +540,6 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Child mode:* Which job could use less water? Choose one change for your family. Write it on the chart.
   - Think: We used this many litres. A family in a desert village may manage on far less. How?
 ### a4 · Drip Detective (15 min)
-- **safety:** Turn the tap off properly at the end.
 - **record:** Write how many millilitres dripped in 10 minutes. Then work out an hour, and a day.
 - **s1 (2 min)**  
   *Parent does:* Open a tap just enough that it drips, about one drop every second. Put a cup under it. Start a 10-minute timer.  
@@ -558,7 +553,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent does:* 1. Measure the water in the cup, using a measuring cup, or by counting teaspoons. One teaspoon is about 5 millilitres. 2. Work out one hour: 6 lots of 10 minutes.  
   *Parent says:* So that's how much in 10 minutes. An hour has 6 lots of 10 minutes. How much in an hour?  
   *Child mode:* Measure the water. A teaspoon is about 5 millilitres. An hour is 6 lots of 10 minutes. How much in an hour?
-  - Check: A tap drips 50 millilitres in 10 minutes. How much does it drip in one hour? → **300 millilitres**
+  - Check: A tap drips 40 millilitres in 10 minutes. How much does it drip in one hour? → **240 millilitres**
   - Think: That's in one hour. How much in a whole day of 24 hours? Who should fix a dripping tap at school, if nobody owns it?
 ### a5 · Read the Land like Varahamihira (25 min)
 - **safety:** Go only with a grown-up. Never put your hand into a termite mound or a hole, and keep away from open wells.
@@ -579,7 +574,6 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Child mode:* Look at your map. Pick one sign. How could you test it, to check if it is true?
   - Check: A neem tree stays green in a dry field. What is the best way to test whether this is a sign of water? → **Check many green trees and many dry places, and see where water is really found**
 ### a6 · Carry the Morning's Water (20 min)
-- **safety:** Carry only what feels comfortable. Walk, do not run. A grown-up comes along outdoors.
 - **record:** Write how many trips it would take to carry the morning's water, and how long one trip took.
 - **s1 (3 min)**  
   *Parent does:* Count, or guess, how many litres your family used this morning before breakfast: brushing, the toilet, washing and the kettle.  
@@ -601,7 +595,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 ### p1 · Catch the Rain: a model rooftop tank (60 min, 3 days)
 - **safety:** A grown-up cuts the bottles and card. On a rainy day, collect rain from a drainpipe only at ground level, never on a roof, and never in lightning.
 - **record:** Write how much 'rain' you poured and how much the tank caught. Write how much real rain the bucket caught in 10 minutes. Draw your home's rain-catching plan.
-- **schedule:** day 1: Build the model house with a sloping foil roof and a gutter. Pour 'rain' and measure how much the tank catches. (25 min); day 2: On a rainy day, catch real rain from a drainpipe for 10 minutes and measure it. If it does not rain, wait for a rainy day. (15 min); day 3: Work out how much rain your real roof could catch. Draw a plan for your home. (20 min)
+- **schedule:** day 1: Build the model house with a sloping foil roof and a gutter. Pour 'rain' and measure how much the tank catches. (25 min); day 2: On a rainy day, catch real rain in a bucket for 10 minutes and measure it. If it does not rain, wait for a rainy day. (15 min); day 3: Work out how much rain your real roof could catch. Draw a plan for your home. (20 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Cover the stiff card with foil. 2. Tape it onto the shoebox as a sloping roof. 3. Tape the half-bottle along the low edge as a gutter, sloping a little towards one corner. 4. Put the 'tank' bottle under that corner.  
   *Parent says:* In the Thar desert, families make every drop count. Rain on a clean roof or courtyard runs into a tank, and they drink it for months. Let's build one.  
@@ -616,7 +610,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent says:* Engineers always try to do better. How could we catch more?  
   *Child mode:* Can you catch more? Make the roof steeper, or the gutter wider. Try again with 500 millilitres.
 - **s4 (15 min) · grown-up needed**  
-  *Parent does:* 1. On a rainy day, put a clean bucket under a drainpipe at ground level. 2. Collect for exactly 10 minutes. 3. Measure the water with a 1-litre bottle.  
+  *Parent does:* 1. On a rainy day, put a clean bucket under a drainpipe at ground level. In a flat, put it on the balcony or terrace, away from walls and roofs. 2. Collect for exactly 10 minutes. 3. Measure the water with a 1-litre bottle.  
   *Parent says:* This is real rain from our real roof. Let's see how much one drainpipe gives in ten minutes.  
   *Child mode:* It's raining! Put a clean bucket under a drainpipe. Wait 10 minutes. Measure the water in litres.
   - Wait: Wait for a rainy day.
@@ -680,128 +674,99 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   - Think: If the courtyard is dirty when the rain comes, what happens to the drinking water for the whole year?
 
 ## Worksheets
-### Water Detective (core) (core, 16 questions)
+### Water Detective (core) (core, 13 questions)
 1. (mcq) Where does almost all the fresh water we use begin?  
    Options: In the tap / As rain / In the overhead tank / In the sea  
    **Answer:** As rain. *Why:* Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we cannot drink it without removing the salt.
 2. (fill) Water hidden under the ground, in the gaps between grains of soil and rock, is called ____.  
    **Answer:** ['groundwater', 'ground water']. *Why:* Groundwater is rain that soaked into the ground. Wells and borewells pull it up.
-3. (mcq) In Rain on Four Grounds, you pour the same mug of water on a pot of soil, a tray of sand and a tile. Guess first: where will most of the water run off?  
-   Options: The sand / The soil / The tile  
-   **Answer:** The tile. *Why:* A tile has no gaps for water to go into, so the water runs off its edges. Sand and soil have gaps between their grains, so water soaks in. Sand soaks it up fastest, because its gaps are biggest.
+3. (mcq) In Rain on Four Grounds, you pour the same mug of water on a tub of soil, a tub of sand, a tub of gravel and a tile. Guess first: where will most of the water run off?  
+   Options: The sand / The gravel / The tile  
+   **Answer:** The tile. *Why:* A tile has no gaps for water to go into, so the water runs off its edges. Sand, gravel and soil have gaps, so water soaks in. Gravel and sand soak it up fastest, because their gaps are biggest.
 4. (sort) Sort these grounds. Does rain mostly soak in, or run off?  
    **Answer:** a grassy field → Soaks in; a tarred road → Runs off; a forest floor → Soaks in; a tin roof → Runs off; a sandy beach → Soaks in; a tiled courtyard → Runs off. *Why:* Soil, sand, grass and forest floors have gaps for water to trickle into. Roads, roofs and tiles have none.
 5. (match) Match each water source to what it is.  
    **Answer:** River → water flowing over the land towards the sea; Borewell → a deep, narrow hole with a pump that brings up groundwater; Reservoir → a big lake made by building a dam across a river; Tanker → a truck that carries water to homes. *Why:* These are the main places our water comes from. Rivers and reservoirs are surface water. Borewells bring up groundwater. Tankers carry water from somewhere else.
-6. (truefalse) Most of the water in a well fell straight into it as rain.  
-   **Answer:** False. *Why:* False, though it is a common picture. Almost all of it seeps in from the groundwater around the well. That water soaked into the land, sometimes far away and long ago.
-7. (mcq) Why does water in a clay matka stay cool?  
+6. (mcq) Why does water in a clay matka stay cool?  
    Options: Clay is made of something cold / The matka keeps the sunlight out / Water seeps through the clay and evaporates, taking heat away / The water inside slowly turns to ice  
    **Answer:** Water seeps through the clay and evaporates, taking heat away. *Why:* Evaporating water carries heat away, so the water inside cools. 'Clay is cold' is a common guess. But a dry clay pot left in the sun gets hot like anything else. Any covered pot keeps sunlight out, but that does not explain why a matka is cooler than a steel pot.
-8. (mcq) Old stepwells in India have long stone stairs going down to the water. Why were the stairs built?  
+7. (mcq) Old stepwells in India have long stone stairs going down to the water. Why were the stairs built?  
    Options: So people could reach the water even when its level fell in the dry season / Only to make the well look beautiful / To make the water cold  
    **Answer:** So people could reach the water even when its level fell in the dry season. *Why:* In the dry months the groundwater level falls, and the water in the well sinks lower. The stairs let people walk down to it, however low it went. Many stepwells are also beautiful, but the stairs were built for reaching the water.
-9. (truefalse) If water looks clear, it is always safe to drink.  
-   **Answer:** False. *Why:* False. Germs are too small to see. Salt, arsenic and fluoride can be dissolved in water and stay invisible. Clear water can still be unsafe.
-10. (mcq) Which way kills germs in water?  
+8. (mcq) Which way kills germs in water?  
    Options: Leaving it to settle / Pouring it through a cloth / Boiling it until big bubbles roll / Putting it in a steel tumbler  
    **Answer:** Boiling it until big bubbles roll. *Why:* Boiling kills germs. Settling and a cloth remove bits you can see, but germs are far too small to be caught that way. Most slip right through the cloth.
-11. (fill) A bucket holds about 15 litres. A girl uses 2 full buckets of water for her bath. She uses ____ litres.  
+9. (fill) A bucket holds about 15 litres. A girl uses 2 full buckets of water for her bath. She uses ____ litres.  
    **Answer:** ['30', 'thirty']. *Why:* 2 lots of 15 litres is 15 + 15 = 30 litres. A litre is a unit for how much liquid something holds. A big water bottle often holds 1 litre.
-12. (mcq) In most homes, which job uses the least water each day?  
-   Options: Bathing / Flushing the toilet / Drinking / Washing clothes  
-   **Answer:** Drinking. *Why:* Each person drinks only about 2 or 3 litres a day. Bathing, flushing and washing use far more. Many people guess drinking is a big one, because drinking is what we think of first.
-13. (write) Write the journey of the water in your home, from where it really begins to your tap. Use arrows between the steps.  
+10. (write) Write the journey of the water in your home, from where it really begins to your tap. Use arrows between the steps.  
    **Answer:** Any journey with a real source and real steps. For example: rain filled the river → the river water went to a treatment plant → pipes took the water to our sump → the motor lifted it to the overhead tank → it came down to our tap.. *Why:* A strong answer starts at a real source, such as a river, a lake or a borewell, and follows each step to the tap.
-14. (write) Anu, a girl in Class 2, says: 'Our water comes from the overhead tank, so we will never run out.' What has she missed?  
+11. (write) Anu, a girl in Class 2, says: 'Our water comes from the overhead tank, so we will never run out.' What has she missed?  
    **Answer:** The tank does not make water. It is filled by a motor from a sump, a borewell or the city pipe. If the river, the lake or the groundwater runs low, the tank stays empty too.. *Why:* A strong answer follows the water back past the tank to its real source, and says that the source can run low.
-15. (write) Name two places in your home or street where you could catch or save rain. Say how.  
+12. (write) Name two places in your home or street where you could catch or save rain. Say how.  
    **Answer:** Any two sensible ideas. For example: put a bucket under the drainpipe to water the plants, or leave a patch of soil unpaved so rain can soak in.. *Why:* Catching rain from roofs, and leaving soil open so rain soaks in, both save water. A strong answer says how each idea would work.
-16. (draw) Draw a well and the ground around it. Show where the groundwater is, and how it gets into the well.  
+13. (draw) Draw a well and the ground around it. Show where the groundwater is, and how it gets into the well.  
    **Answer:** The drawing shows water filling the gaps in soil or rock below the ground, with arrows showing it seeping into the well from the sides and the bottom.. *Why:* Well water seeps in from the groundwater all around. Very little falls straight in as rain.
-### Water in Real Life (stretch) (stretch, 16 questions)
+### Water in Real Life (stretch) (stretch, 12 questions)
 1. (mcq) Look at the chart from the Cool Matka Test. Which container kept the water coolest?  
    Options: The steel bottle / The bottle in a wet cloth / The clay matka  
    **Answer:** The clay matka. *Why:* The matka's bar is the shortest, at 24 °C. On this chart a shorter bar means cooler water. Picking the steel bottle usually means reading the tallest bar as the best.
-2. (fill) In the Cool Matka Test, all three started at 30 °C. After 4 hours, the matka water was 24 °C. It cooled by ____ degrees.  
-   **Answer:** ['6', 'six']. *Why:* 30 take away 24 is 6. So the matka cooled the water by 6 degrees.
-3. (mcq) On a hot, dry day the matka water is cool. On a sticky, humid day in the monsoon, it is hardly cooler than the room. Why?  
+2. (mcq) On a hot, dry day the matka water is cool. On a sticky, humid day in the monsoon, it is hardly cooler than the room. Why?  
    Options: The clay gets wet from the rain / Water evaporates slowly when the air is already full of water vapour / Matkas only work in summer  
    **Answer:** Water evaporates slowly when the air is already full of water vapour. *Why:* The matka cools because water evaporates from its outside. Humid air already holds a lot of vapour, so evaporation is slow, and less heat is carried away. This is also why wet clothes dry slowly in the monsoon.
-4. (mcq) In the jar well, the water level fell after 10 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?  
+3. (mcq) In the jar well, the water level fell after 5 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?  
    Options: The level rose a lot / The level did not rise, because the rain could not soak in / The jar overflowed  
    **Answer:** The level did not rise, because the rain could not soak in. *Why:* The plastic stopped the rain soaking down, just like cement over real ground. So nothing refilled the groundwater. Picking 'rose a lot' means thinking rain reaches the well whatever covers the ground.
-5. (sort) What does each way of cleaning water do? Sort them.  
+4. (sort) What does each way of cleaning water do? Sort them.  
    **Answer:** settling → Removes bits you can see; a cloth filter → Removes bits you can see; boiling → Kills germs; chlorine → Kills germs; a sand filter → Removes bits you can see; strong sunlight on a clear bottle for 6 hours → Kills germs. *Why:* Settling and filters catch bits that are big enough to sink or get stuck. Boiling, chlorine and strong sunlight kill germs.
-6. (truefalse) Boiling sea water makes it safe to drink.  
-   **Answer:** False. *Why:* False. Boiling kills germs, but the salt stays dissolved. If you boil sea water until it is all gone, the salt is left in the pot.
-7. (mcq) Why does a city with lots of roads and buildings often flood in heavy rain?  
+5. (mcq) Why does a city with lots of roads and buildings often flood in heavy rain?  
    Options: Cities get more rain than villages / Buildings make rain / Rain cannot soak into cement and tar, so it all runs off at once  
    **Answer:** Rain cannot soak into cement and tar, so it all runs off at once. *Why:* Hard ground has no gaps, so the rain runs off all at once and overfills the drains. Cities usually do not get more rain than villages. The difference is the ground, not the sky.
-8. (match) Match each water store to what it is.  
+6. (match) Match each water store to what it is.  
    **Answer:** Tanka → a covered underground tank in the Thar desert; Stepwell → a deep well with stairs down to the water; Matka → a clay pot that keeps drinking water cool; Overhead tank → a tank on a roof that sends water down the pipes. *Why:* These are ways Indian homes and villages store water, old and new.
-9. (fill) A tap drips 50 millilitres in 10 minutes. One hour has 6 lots of 10 minutes. So in one hour it drips ____ millilitres.  
-   **Answer:** ['300']. *Why:* 6 lots of 50 is 6 × 50 = 300 millilitres. That is more than a full tumbler of water every hour.
-10. (mcq) Two neighbours share the same groundwater. One digs a much deeper borewell and pumps all day. What might happen?  
-   Options: The other neighbour's shallow well may go dry / Nothing, because groundwater never runs out / It will rain more  
-   **Answer:** The other neighbour's shallow well may go dry. *Why:* The groundwater under the land is shared. Pumping a lot lowers the water level for everyone, so shallow wells dry first. Groundwater is not endless. It only refills as fast as rain soaks in.
-11. (order) Put the steps of a city water treatment plant in order.  
+7. (order) Put the steps of a city water treatment plant in order.  
    **Answer:** order shown. *Why:* First the water is collected. Then heavy bits settle, smaller bits are filtered out, germs are killed with chlorine, and only then is it sent to homes.
-12. (mcq) Look at the chart from a Family Water Count. Which job used the most water?  
+8. (mcq) Look at the chart from a Family Water Count. Which job used the most water?  
    Options: Drinking / The toilet / Bathing / Washing clothes  
    **Answer:** Bathing. *Why:* Bathing has the tallest bar, at 150 litres. The toilet is second, at 120 litres. Picking drinking means guessing from what we think matters most, not reading the chart.
-13. (perspective) In a village near Kolar, in Karnataka, the wells are drying up. Three people disagree about what to do.  
+9. (perspective) In a village near Kolar, in Karnataka, the wells are drying up. Three people disagree about what to do.  
    **Answer:** A strong answer picks a side and uses the jar well as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.. *Why:* This is a real problem in many parts of India. Groundwater is shared, but each farmer needs it. There is no single right answer, so listen for evidence and fairness.
-14. (write) A family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell them to change?  
+10. (write) A family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell them to change?  
    **Answer:** It may not be safe any more. Germs can get back in from dust, flies, and hands or tumblers dipped into the bucket. Keep the boiled water covered, up off the floor, and pour it out with a ladle or a tap instead of dipping in.. *Why:* A strong answer sees that boiling only kills the germs that are there at that moment. Germs can come back in, so clean water must also be stored safely.
-15. (write) In the Invisible Ring, even the tap water left a faint ring on the dark plate. Does that mean the tap water is unsafe? Explain.  
+11. (write) In the Invisible Ring, even the tap water left a faint ring on the dark plate. Does that mean the tap water is unsafe? Explain.  
    **Answer:** Not by itself. The ring shows that the tap water has some dissolved minerals, such as calcium. Small amounts of these are normal and harmless. The ring tells you something is dissolved, but not what it is or whether it is harmful. Only a proper test can tell that.. *Why:* A strong answer separates 'something is dissolved' from 'something harmful is dissolved'. Almost all water has some minerals in it.
-16. (write) Choose one job that uses lots of water in your home. Write two ways your family could use less for that job.  
+12. (write) Choose one job that uses lots of water in your home. Write two ways your family could use less for that job.  
    **Answer:** For example, bathing: use a bucket instead of a shower, and turn off the tap while soaping. Any two real ideas are good.. *Why:* Small daily changes in the biggest water jobs save the most water. A strong answer picks a big job, not drinking.
-### Water Puzzles and Big Ideas (challenge) (challenge, 16 questions)
-1. (mcq) Glass A is plain water. Glass B has salt dissolved in it. They look the same. How could you tell them apart without tasting?  
-   Options: Look at them very hard / Dry a spoonful of each on a dark plate and see what is left / Smell them  
-   **Answer:** Dry a spoonful of each on a dark plate and see what is left. *Why:* When the water evaporates, the dissolved salt is left behind as a white ring. Looking or smelling will not work, because dissolved salt is invisible and has no smell.
-2. (mcq) A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?  
+### Water Puzzles and Big Ideas (challenge) (challenge, 11 questions)
+1. (mcq) A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?  
    Options: The well was dug too deep / Rain ran off the bare hills before it could soak in and refill the groundwater / Trees drink all the rain, so cutting them should have helped  
    **Answer:** Rain ran off the bare hills before it could soak in and refill the groundwater. *Why:* Forest floors slow rain down and let it soak in. Bare, hard ground makes it run away. So less water refilled the ground. Trees do use water, but forests help far more rain soak in than they use.
-3. (mcq) Water from a well has arsenic in it. A family boils it before drinking. Is it now safe?  
-   Options: Yes, boiling makes all water safe / No. Boiling kills germs but does not remove arsenic. / Yes, if they boil it for an hour  
-   **Answer:** No. Boiling kills germs but does not remove arsenic.. *Why:* Arsenic is dissolved, like salt. Boiling leaves it behind, and can even make it a little stronger as some water boils away. More boiling does not fix everything.
-4. (fill) 1 millimetre of rain on 1 square metre of roof gives 1 litre of water. A roof is 50 square metres. 20 millimetres of rain falls on it. The roof can catch ____ litres.  
-   **Answer:** ['1000', '1,000', 'one thousand']. *Why:* Each square metre gives 20 litres, because 20 millimetres fell. 50 square metres give 50 × 20 = 1,000 litres. That is enough to fill about 66 buckets.
-5. (mcq) Scientists measured the groundwater under north-west India using two satellites. What did the satellites actually measure?  
+2. (mcq) Scientists measured the groundwater under north-west India using two satellites. What did the satellites actually measure?  
    Options: Photographs of underground lakes / Tiny changes in the pull of gravity / The temperature of the soil  
    **Answer:** Tiny changes in the pull of gravity. *Why:* Water is heavy, so it adds a tiny bit to the Earth's pull of gravity. When groundwater is pumped out, the pull gets slightly weaker, and the satellites feel it. Satellites cannot see under the ground. Groundwater is also not mostly in lakes.
-6. (truefalse) Some of the water on Earth may be older than the Sun.  
+3. (truefalse) Some of the water on Earth may be older than the Sun.  
    **Answer:** True. *Why:* True, scientists think. A 2014 study worked out that up to half of Earth's water may have formed as ice in space before the Sun was born. It is a strong idea, but not yet proved.
-7. (order) Put these places in order, from the most rain in a year to the least.  
+4. (order) Put these places in order, from the most rain in a year to the least.  
    **Answer:** order shown. *Why:* Mawsynram gets nearly 12 metres. Mumbai gets about 2 metres. Delhi gets about 80 centimetres. Jaisalmer gets about 20 centimetres.
-8. (write) Sohra, also called Cherrapunji, in Meghalaya, is one of the wettest places on Earth. Yet in winter many families there run short of drinking water. How can that be?  
+5. (write) Sohra, also called Cherrapunji, in Meghalaya, is one of the wettest places on Earth. Yet in winter many families there run short of drinking water. How can that be?  
    **Answer:** Almost all the rain falls in a few monsoon months. The hills are steep and much of the land is bare rock or thin soil, so the rain runs off fast instead of soaking in. Little is stored in tanks or in the ground. So in the dry winter months the springs and streams run low.. *Why:* A strong answer says that how much rain falls matters less than whether it soaks in or is stored. It challenges the idea that lots of rain always means lots of water.
-9. (mcq) John Snow was a doctor in London in 1854. A widow called Susannah Eley lived in Hampstead, far away on a hill. She liked the water from the Broad Street pump, so it was carried to her house. She drank it and died of cholera. Nobody else near her was ill. Why was this strong evidence?  
-   Options: She was old / Hampstead had bad air / She shared none of the Broad Street air, only its water, so the water must carry the illness  
-   **Answer:** She shared none of the Broad Street air, only its water, so the water must carry the illness. *Why:* If cholera came from bad air, she should have been safe on the fresh hill. The one thing from Broad Street in her house was the water. 'She was old' does not explain why nobody else around her got ill.
-10. (sort) A family boils all their drinking water. Which problems does boiling fix, and which does it not fix?  
+6. (sort) A family boils all their drinking water. Which problems does boiling fix, and which does it not fix?  
    **Answer:** cholera germs → Boiling fixes it; arsenic from a deep well → Boiling does not fix it; germs from a dirty pond → Boiling fixes it; too much fluoride → Boiling does not fix it; salt from the sea → Boiling does not fix it; worm eggs → Boiling fixes it. *Why:* Boiling kills living things such as germs and worm eggs. It cannot remove things that are dissolved, such as arsenic, fluoride and salt. Those stay in the pot when water boils away.
-11. (perspective) A city must decide how people should pay for water.  
+7. (perspective) A city must decide how people should pay for water.  
    **Answer:** A strong answer picks a side and gives a real reason, then looks at the poorest family under each idea. For example: free water helps the poor family but may leave the pipes leaking, so they might get dirty water. Paying for everything may leave them thirsty. Some Indian cities already give a little free water to every home and charge for more.. *Why:* There is no single right answer. This is a real choice that cities make. Listen for reasons and for thinking about fairness.
-12. (write) A village pond is used by farmers, buffaloes, frogs, birds and children who swim. In a dry summer there isn't enough for everyone. Who should decide how it is shared, and how? Give reasons.  
-   **Answer:** There is no single right answer. A strong answer names who should decide, such as the whole village together, and gives fair reasons. It remembers the animals and the people who cannot speak for themselves.. *Why:* This is a real problem in many villages. Listen for reasons and fairness, not one answer.
-13. (write) Design a fair test to find out whether a matka cools water better in a breezy place or a still place. What will you keep the same? What will you change?  
+8. (write) Design a fair test to find out whether a matka cools water better in a breezy place or a still place. What will you keep the same? What will you change?  
    **Answer:** Use two matkas of the same size and clay, filled with the same water at the same time. Put one in a breeze and one in still air, both in the shade. Measure both after the same time. Change only the breeze.. *Why:* A fair test changes only one thing. Everything else stays the same, so you know the breeze made the difference.
-14. (draw) Draw the journey of one water molecule over a very long time. Show at least five places it has been, from space to your glass.  
+9. (draw) Draw the journey of one water molecule over a very long time. Show at least five places it has been, from space to your glass.  
    **Answer:** Any drawing with a sensible order, such as: ice in space, an icy comet or rock, the sea, a cloud, rain, a river, groundwater, a tree, a dinosaur, a well, your glass.. *Why:* Water goes round and round for billions of years. It is never new and never used up.
-15. (mcq) In 2019, Chennai's main lakes nearly dried up. How did the city get water?  
+10. (mcq) In 2019, Chennai's main lakes nearly dried up. How did the city get water?  
    Options: Trains carried water from Jolarpettai, more than 200 kilometres away / It waited for snow / It used sea water just as it was  
    **Answer:** Trains carried water from Jolarpettai, more than 200 kilometres away. *Why:* Special trains carried millions of litres of water to Chennai every day. Sea water cannot be drunk until the salt is removed, which needs special plants and lots of electricity.
-16. (truefalse) Many people say India is short of water mainly because it does not rain enough. Is that true?  
+11. (truefalse) Many people say India is short of water mainly because it does not rain enough. Is that true?  
    **Answer:** False. *Why:* False. India gets a lot of rain, but mostly in a few months. In many places more groundwater is pumped out than rain puts back, and rain on hard ground runs away to the sea. Saving and soaking in rain matters as much as how much falls.
 
 ## Videos
-- **How Does Water Get to Your House?** (SciShow Kids, 4 min) id `cGi4PugN4qY`: A clear, child-friendly walk from a river or a well, through a treatment plant and pipes, to the tap. It matches Follow the Pipe. *Check:* Found by YouTube search, and its title and channel checked through YouTube's own page information. It shows an American town, so talk about how your own home's water differs. A parent may still preview it.
-- **The 1850s map that changed how we fight outbreaks** (Vox, 7 min) id `VJ86D_DtyWg`: For the parent and curious older children. It tells the true story behind this unit's story: John Snow, the Broad Street pump and the map of cholera deaths. *Check:* Found by YouTube search, and its title and channel checked through YouTube's own page information. It talks about deaths and illness, so a parent should preview it first.
-- **Get Lost in the Maze-Like Stepwell of Chand Baori** (Great Big Story, 2 min) id `UjubH9b4BvE`: Shows the huge stepwell at Abhaneri in Rajasthan, more than a thousand years old, with about 3,500 steps zigzagging down to the water. *Check:* Found by YouTube search, and its title and channel checked through YouTube's own page information. A parent may still preview it.
+- **How Does Water Get to Your House?** (SciShow Kids, 4 min) id `cGi4PugN4qY`: A clear, child-friendly walk from a river or a well, through a treatment plant and pipes, to the tap. It matches Follow the Pipe. *Check:* It shows an American town, so talk about how your own home's water differs.
+- **The 1850s map that changed how we fight outbreaks** (Vox, 7 min) id `VJ86D_DtyWg`: For the parent and curious older children. It tells the true story behind this unit's story: John Snow, the Broad Street pump and the map of cholera deaths. *Check:* It talks about deaths and illness, so a parent should watch it first.
+- **Get Lost in the Maze-Like Stepwell of Chand Baori** (Great Big Story, 2 min) id `UjubH9b4BvE`: Shows the huge stepwell at Abhaneri in Rajasthan, more than a thousand years old, with about 3,500 steps zigzagging down to the water. *Check:* A parent may like to watch it first.
 
 ## Quiz
 1. (mcq) Which of these only stores water and passes it on, but is not where the water really comes from?  
@@ -834,19 +799,13 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 10. (mcq) A girl counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?  
    Options: Different days use different amounts, so it is better to count on a few days / Water is heavier on Sundays / Tally marks only work on school days  
    **Answer:** Different days use different amounts, so it is better to count on a few days. *Why:* One day can be unusual. Counting on a few different days and comparing gives a fairer picture of what a family usually uses.
-11. (mcq) A shower uses about 10 litres of water each minute. A girl's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?  
-   Options: 65 litres / 80 litres / 7 litres  
-   **Answer:** 65 litres. *Why:* The shower uses 8 × 10 = 80 litres. The bucket uses 15 litres. 80 − 15 = 65 litres saved. Picking 80 means forgetting that the bucket bath uses some water too.
-12. (mcq) Why do wells and borewells in many parts of India go dry?  
+11. (mcq) Why do wells and borewells in many parts of India go dry?  
    Options: People pump out groundwater faster than rain refills it / It never rains in India / The water sinks too deep to be found  
    **Answer:** People pump out groundwater faster than rain refills it. *Why:* When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.
-13. (mcq) In homes without a tap, who usually does most of the water-carrying?  
-   Options: Grandfathers / Women and girls / Nobody, water is delivered  
-   **Answer:** Women and girls. *Why:* Around the world, women and girls do most of the water-fetching in homes without water nearby. A tap at home gives them hours back every day.
-14. (mcq) Scientists think the hydrogen atoms in the water you drink were made…  
+12. (mcq) Scientists think the hydrogen atoms in the water you drink were made…  
    Options: at the water treatment plant / in the Big Bang, when the universe began / last monsoon  
    **Answer:** in the Big Bang, when the universe began. *Why:* Hydrogen atoms were made in the Big Bang, about 13.8 billion years ago. The water itself goes round and round, so it is very old. 'Last monsoon' mixes up when the rain fell with when its atoms were made.
-15. (mcq) In 2009, data from India's Chandrayaan-1 Moon mission showed that…  
+13. (mcq) In 2009, data from India's Chandrayaan-1 Moon mission showed that…  
    Options: the Moon has rivers / there is a trace of water in the Moon's dust / the Moon is made of ice  
    **Answer:** there is a trace of water in the Moon's dust. *Why:* Chandrayaan-1 carried an instrument that found a thin trace of water in the Moon's dust. The Moon has no rivers, but its dark polar craters hold ice.
 
@@ -888,40 +847,24 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 
 ## Questions to ask kids
 - Where was the water in your glass yesterday?
-- That puddle is shrinking. Where is its water going?
 - Which ground on our street drinks rain? Which ground lets it run away?
-- Who fills the water bottles in our home? Have you thanked them?
 - If the overhead tank were empty, where would we get water today?
 - Is this water clear? Does that mean it is clean?
-- Why does the matka feel damp on the outside?
 - How many litres do you think your bath used?
-- If rain falls on our roof, whose water is it?
-- Could the water you are drinking once have been in a dinosaur?
 - Is there water on the Moon? How do we know?
 - What would you do if our taps stopped for a week?
 
 ## Jokes
 - What did the ocean say to the beach? *Nothing. It just waved.*
-- What do clouds do when they get too heavy? *They let it all out, as rain.*
-- What comes down but never goes up? *Rain. Except it does go up again, as vapour!*
 - Why was the matka so calm? *It always kept its cool.*
-- What did the tap say to the bucket? *I'm drip-ending on you.*
-- Why did the raindrop take the stairs? *It wanted to reach the stepwell.*
 - What is a well's favourite subject? *Deep science.*
 - Why don't puddles ever finish their homework? *They evaporate before it's done.*
-- How does a borewell say hello? *It just pumps into you.*
-- Why did the borewell feel low? *Everyone kept pumping it for more.*
 - Why did the overhead tank feel important? *Everyone looked up to it.*
-- Why did the germ love clear water? *Because nobody could see it there.*
-- What do you call a sleepy river? *A slow flow.*
 - Why did the bucket go to the doctor? *It was feeling a little pail.*
-- What kind of music do rivers like? *Anything with a good flow.*
-- What did the ground say after the monsoon? *I'm soaked to the bone.*
 - Why did the water go to school? *To get a little more current.*
 - What is the laziest thing in the house? *The water in the pipes. It just hangs around until you open the tap.*
 - Why did the drip join a band? *It had perfect tap rhythm.*
 - What does a cloud wear under its clothes? *Thunderwear.*
-- How do you know the sea is friendly? *It's always waving.*
 
 ## Connected maths
 - A tap drips 50 millilitres in 10 minutes. How much does it drip in one hour? How much in one whole day of 24 hours? Give the day's answer in litres and millilitres. **300 millilitres in one hour. 7,200 millilitres in a day, which is 7 litres and 200 millilitres.**. One hour has 6 lots of 10 minutes. So in one hour the tap drips 6 × 50 = 300 millilitres. A day has 24 hours. 24 × 300 = 7,200 millilitres. 1,000 millilitres make 1 litre. So 7,000 millilitres is 7 litres, and 200 millilitres are left over. That is about half a bucket, from one small drip. (queues `math.multiplication.equal-groups.L3`)
@@ -948,17 +891,14 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [Agrasen ki Baoli]() · place · New Delhi: An old stepwell right in the middle of the city, near Connaught Place.
 - [Dholavira](https://whc.unesco.org) · place · Kutch, Gujarat: A Harappan city about 4,500 years old, with huge stone reservoirs for storing rain. It became a UNESCO World Heritage Site in 2021.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for ones about water, pumps and pressure.
-- [Your local water treatment plant, or a village pond]() · place · anywhere: Many city water boards allow school and family visits to a treatment plant. A village pond, in the monsoon and again in May, shows how water is stored and used up.
 
 ## Things to buy
-- [A small clay matka, unglazed](https://www.amazon.in/s?k=clay+matka+water+pot) (tool): Used in the Cool Matka Test and the Cool Water challenge. It keeps drinking water cool all summer afterwards. Used in e3, c1. If you already have a matka, use it. A local potter's matka is often better and cheaper.
-- [A digital kitchen thermometer with a probe](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): Measures water temperature in the Cool Matka Test and the Cool Water challenge. Used in e3, c1. Used again in later units on heat and weather.
-- [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Taped on the rain gauge, and used to measure the water level in the jar well. Used in a2, e2. 
-- [A simple kitchen timer, if you do not want to use a phone](https://www.amazon.in/s?k=kitchen+timer) (tool): Times the puddles in Rain on Four Grounds, and the 10 minutes in Drip Detective. Used in e1, a4. 
+- [A small clay matka, unglazed](https://www.amazon.in/s?k=clay+matka+water+pot) (tool): Used in the Cool Matka Test and the Cool Water challenge. It keeps drinking water cool all summer afterwards. Used in e3, c1. 
+- [A digital kitchen thermometer with a probe](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): Measures water temperature in the Cool Matka Test and the Cool Water challenge. Used in e3, c1. 
 - [A 1-litre measuring jug, marked in millilitres](https://www.amazon.in/s?k=1+litre+measuring+jug) (tool): Measures water in Drip Detective, the Family Water Count and Catch the Rain. Used in a3, a4, p1. 
-- [The Water Princess, by Susan Verde, illustrated by Peter H. Reynolds](https://www.amazon.in/s?k=The+Water+Princess+Susan+Verde) (book): A picture book based on the childhood of Georgie Badiel in Burkina Faso, who walked with her mother every day to fetch water. Used in a6. If bought, read it just before Carry the Morning's Water. Its pictures can replace the talk in step 3.
-- [Water Is Water, by Miranda Paul, illustrated by Jason Chin](https://www.amazon.in/s?k=Water+Is+Water+Miranda+Paul) (book): A gentle picture book about water changing form, from rain to fog to ice and back. Used in e1. If bought, read it on the day of Rain on Four Grounds, after the experiment.
-- [Aaj Bhi Khare Hain Talab, by Anupam Mishra (in Hindi, for the parent)](https://www.amazon.in/s?k=Aaj+Bhi+Khare+Hain+Talab+Anupam+Mishra) (book): A famous book about the ordinary people who built and cared for India's ponds and tanks. The title means 'The Ponds Are Still Standing'. Used in c2. For the parent. Read a few pages before Water for a Desert Home, and share one story with your child.
+- [The Water Princess, by Susan Verde, illustrated by Peter H. Reynolds](https://www.amazon.in/s?k=The+Water+Princess+Susan+Verde) (book): A picture book based on the childhood of Georgie Badiel in Burkina Faso, who walked with her mother every day to fetch water. Used in a6. 
+- [Water Is Water, by Miranda Paul, illustrated by Jason Chin](https://www.amazon.in/s?k=Water+Is+Water+Miranda+Paul) (book): A gentle picture book about water changing form, from rain to fog to ice and back. Used in e1. 
+- [Aaj Bhi Khare Hain Talab, by Anupam Mishra (in Hindi, for the parent)](https://www.amazon.in/s?k=Aaj+Bhi+Khare+Hain+Talab+Anupam+Mishra) (book): A famous book about the ordinary people who built and cared for India's ponds and tanks. The title means 'The Ponds Are Still Standing'. Used in c2. 
 
 ## Warm-up
 - Where does almost all our fresh water begin? → As rain.
