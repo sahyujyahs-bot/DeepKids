@@ -43,7 +43,7 @@
   {
    "term": "Light",
    "meaning": "What lets us see. For a plant, light is also the energy they use to make their own food.",
-   "example": "Sunlight through a window. A plant on a windowsill leans towards it.",
+   "example": "Sunlight through a window. A plant on a windowsill leans towards the window.",
    "art": "A plant on a windowsill leaning towards a sunny window."
   },
   {
@@ -132,7 +132,7 @@
   },
   {
    "term": "Chlorophyll",
-   "meaning": "The green substance in leaves that catches light. A plant makes it only when they get light.",
+   "meaning": "The green substance in leaves that catches light. A plant makes chlorophyll only when the plant gets light.",
    "example": "Leaves are green because of chlorophyll. Sprouts grown in a closed box are pale, because they have not made it yet.",
    "art": "A leaf with a magnifier showing tiny green specks inside."
   },
@@ -377,12 +377,12 @@
     }
    ],
    "art": "A tiny cartoon switch inside a leaf cell: a red sunbeam flips it ON, a dark night slowly flips it OFF, and a little thermometer beside it shows that warmth speeds up the flip back.",
-   "context": "Plants have no eyes and no brain. This card is about how they still notice light and warmth, and what scientists are still finding out."
+   "context": "Plants sense light and warmth without eyes or a brain like ours. This card is about how they still notice light and warmth, and what scientists are still finding out."
   },
   {
    "concept": "Do plants need soil?",
    "status": "defined",
-   "definition": "Plants do not need soil itself. They need what soil gives them: support, water, air for the roots and minerals. Growing plants in mineral water without soil is called hydroponics.",
+   "definition": "Plants do not need the soil. They need what soil gives them: support, water, air for the roots and minerals. Growing plants in mineral water without soil is called hydroponics.",
    "description": "Most plants grow in soil, so it is easy to think they need it. But think about what soil gives a plant. It holds the roots, so the plant does not fall over. It holds water, with air between its grains. And it has small amounts of minerals. If you give a plant those things another way, they do not need soil at all. In the 1860s, two German scientists, Julius Sachs and Wilhelm Knop, grew plants with their roots in water mixed with minerals. In the 1930s, an American scientist, William Gericke, grew huge tomato plants this way and called it hydroponics. Many city farms in India now grow lettuce and herbs like this.",
    "examples": [
     "A money plant cutting grows roots and leaves in a jar of water on a windowsill.",
@@ -404,7 +404,7 @@
    ],
    "perspectives": [],
    "art": "A beam of light travelling from the glowing Sun across black space to a moong seedling on an Indian windowsill, a clock showing 8 minutes along the way.",
-   "context": "This card follows the light that a plant needs all the way back to where it came from."
+   "context": "This card follows the light that a plant needs all the way back to the Sun."
   },
   {
    "concept": "Plants in space and on the Moon",
@@ -575,7 +575,7 @@
    "hint": "What do we learn? Can we give the dark plants back their light at the end? Would you test on an animal?"
   },
   {
-   "q": "The light that grew your idli left the Sun about 8 minutes before the rice plant caught it. So are you made of sunlight?",
+   "q": "The light that grew your idli left the Sun about 8 minutes before the rice plant caught the light. So are you made of sunlight?",
    "kind": "deep",
    "hint": "Follow your food back step by step: idli, batter, rice plant, leaf, sunlight."
   },
@@ -617,7 +617,7 @@
    "Rukmini Mami looked at the yellow plant leaning on their pencil for a long time. Then she looked at Arjun's, short and green and stubborn. She rolled up her tape. 'Then next year,' she said slowly, 'I will need a better ruler.'",
    "Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chins. But Zoya hardly tasted her slice. She was thinking of the second cup on her windowsill downstairs. Its plants were only as tall as her little finger. They were green as a parrot. And they were leaning, every one of them, towards an old steel thali full of sun."
   ],
-  "epiphany": "For the parent: Zoya's plant grew tallest because they were starving for light. A seedling in dim light spends their stored food on stretching their stem, and stays pale with folded leaves. Scientists call this etiolation. So height alone is the wrong measure of how well a plant is doing. Light was the need in shortest supply, and Zoya fixed it by bouncing sunlight in with a thali. The story also asks what we choose to measure, and whether the person with the biggest number has really done best.",
+  "epiphany": "For the parent: Zoya's plant grew tallest because they were starving for light. A seedling in dim light spends their stored food on stretching their stem, and stays pale with folded leaves. Scientists call this etiolation. So height alone is the wrong measure of how well a plant is doing. Light was the need in shortest supply, and Zoya fixed it by bouncing sunlight in with a thali.",
   "ask": [
    "Zoya's moong grew the tallest. Why weren't they the healthiest?",
    "Which way were all Zoya's plants leaning? What were they looking for?",
@@ -638,14 +638,31 @@
    "id": "g1",
    "title": "Grow or Droop",
    "mins": 25,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "board",
      "title": "A growing-stem board with 20 squares",
      "items": [
-      "Square 1: a seed in the soil",
-      "Squares 2 to 19: the stem, with a leaf drawn every few squares",
+      "Square 1: a seed in the soil. Everyone starts here.",
+      "Square 2: the stem",
+      "Square 3: the stem",
+      "Square 4: the stem",
+      "Square 5: the stem, with a leaf drawn on it",
+      "Square 6: the stem",
+      "Square 7: the stem",
+      "Square 8: the stem",
+      "Square 9: the stem",
+      "Square 10: the stem, with a leaf drawn on it",
+      "Square 11: the stem",
+      "Square 12: the stem",
+      "Square 13: the stem",
+      "Square 14: the stem",
+      "Square 15: the stem, with a leaf drawn on it",
+      "Square 16: the stem",
+      "Square 17: the stem",
+      "Square 18: the stem",
+      "Square 19: the stem",
       "Square 20: a flower. Reach it with at least one green leaf token to win."
      ]
     },
@@ -672,11 +689,11 @@
       "Planted in a crack with almost no soil. Move up only 1.",
       "A taller plant shades you. Move up 1 and lose one green leaf token, unless you play a Move to the Light card.",
       "Moved to a dim corner. Move up 1, unless you play a Move to the Light card.",
-      "A dusty window. Move up 1. Wipe it with a Move to the Light card to move up 3 instead.",
-      "TEST IT: put your hand in the sun and in the shade. Which is warmer? Everyone who answers right moves up 1.",
-      "TEST IT: press a finger into a pot's soil. Is it dry, damp or soggy? Say what the plant needs. Move up 1.",
-      "TEST IT: find the hole in the bottom of a real pot. Why is it there? A good answer moves up 2.",
-      "TEST IT: look at a plant near a window. Which way are they leaning? Say why. Move up 1."
+      "A dusty window. Move up 1. Play a Move to the Light card to clean the window and move up 3 instead.",
+      "TEST IT: hold one hand in the sun and the other in the shade. Which is warmer? Everyone who answers right moves up 1.",
+      "TEST IT: press a finger into the soil of a pot. Is it dry, damp or soggy? Say what the plant needs. Everyone who answers right moves up 1.",
+      "TEST IT: fetch a real pot and find the hole in the bottom. Why is it there? A good answer moves up 2.",
+      "TEST IT: look at a plant near a window. Which way is it leaning? Say why. Everyone who answers right moves up 1."
      ]
     },
     {
@@ -701,17 +718,32 @@
      "kind": "tokens",
      "title": "16 green leaf tokens (each player starts with 4)",
      "items": [
-      "🍃"
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token"
      ]
     }
    ],
    "rules": [
-    "Each player is a moong seedling. Put your counter on square 1 and take 4 green leaf tokens and 2 rescue cards.",
+    "Each player is a moong seedling. Put a counter (a coin or a button) on square 1. Take 4 green leaf tokens and 2 rescue cards. The other leaf tokens make the spare pile.",
     "Shuffle the weather and care cards and put them face down.",
-    "On your turn, take the top card, read it out and do what it says.",
-    "You may play a rescue card when a card says so. To play it, say which need it gives back to your plant. It might be light, water, air for the roots, the right warmth or space.",
-    "Cupboard and doormat cards move you up fast, but you lose a green leaf. Tall and pale is not the same as healthy.",
-    "To win, reach square 20 with at least one green leaf token left. A seedling with no leaves left must go back to square 1 and start again with 2 leaves."
+    "On your turn, take the top weather and care card, read it out and do what it says. You never move back past square 1. When the pile runs out, shuffle the used cards and turn them face down again.",
+    "Play a rescue card only when the card you drew names it. Say which need it gives back to your plant: light, water, air for the roots, the right warmth or space. Then put the rescue card aside. It is used up.",
+    "Cupboard and doormat cards move you up fast, but you lose a green leaf token. Put it in the spare pile. Tall and pale is not the same as healthy.",
+    "To win, reach or pass square 20 with at least one green leaf token left. If you ever have no leaf tokens, put your counter back on square 1 and take 2 leaf tokens from the spare pile."
    ],
    "flow": [
     {
@@ -727,7 +759,7 @@
      "mins": 3,
      "do": "Play the card 'The pot stood in a dish of water all week' together as a practice round.",
      "say": "Let's practise with one card. The pot stood in a dish of water all week. Is that good or bad for the plant? Why?",
-     "kid": "Practice card: the pot stood in water all week. Good or bad for the plant? Tap your answer.",
+     "kid": "Practice card: the pot stood in water all week. Good or bad for the plant? Say your answer.",
      "ask": [
       {
        "q": "Why does standing in water harm the plant?",
@@ -765,7 +797,7 @@
      "kid": "You grew fast in the cupboard, but lost a leaf. Why? Say it out loud.",
      "ask": [
       {
-       "q": "Why does a seedling in the dark grow fast but lose their leaves?",
+       "q": "Why does a seedling kept in the dark grow tall fast, but end up pale and weak?",
        "good": [
         "They stretch to find light.",
         "They can't make green colour or food without light.",
@@ -804,7 +836,7 @@
    "id": "g2",
    "title": "Fair or Unfair?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "printables": [
     {
      "kind": "cards",
@@ -848,7 +880,7 @@
       },
       {
        "f": "A boy grows one seed in the sun and one seed in the shade, then says the sun is better.",
-       "b": "NOT TO BE TRUSTED. Only one seed in each place, so the result could be a fluke. Fix: use many seeds in each place."
+       "b": "UNFAIR to trust. Only one seed in each place, so one weak seed could spoil the result. Fix: use many seeds in each place."
       },
       {
        "f": "A girl uses the same spoon to water every cup, and fills it to the brim each time.",
@@ -878,27 +910,59 @@
     },
     {
      "kind": "cards",
-     "title": "Two paddles to hold up",
+     "title": "10 paddles to hold up: 5 FAIR and 5 UNFAIR (one of each for every player)",
      "items": [
-      "FAIR ✅",
-      "UNFAIR ❌"
+      "FAIR (green paddle)",
+      "FAIR (green paddle)",
+      "FAIR (green paddle)",
+      "FAIR (green paddle)",
+      "FAIR (green paddle)",
+      "UNFAIR (red paddle)",
+      "UNFAIR (red paddle)",
+      "UNFAIR (red paddle)",
+      "UNFAIR (red paddle)",
+      "UNFAIR (red paddle)"
      ]
     },
     {
      "kind": "tokens",
-     "title": "20 magnifying-glass tokens",
+     "title": "25 magnifying-glass tokens",
      "items": [
-      "🔍"
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token",
+      "Magnifying-glass token"
      ]
     }
    ],
    "rules": [
-    "Shuffle the 16 test cards and put them face down.",
-    "One player reads the front of a test card out loud.",
-    "Everyone holds up a paddle at the same time: FAIR or UNFAIR. Then turn the card over to check.",
-    "If it is unfair, the first player to name the extra thing that changed wins a token.",
-    "A second token goes to anyone who says how to fix the test, so only one thing changes.",
-    "After all the cards, the player with the most tokens is the Chief Fair Tester."
+    "Shuffle the 16 test cards and put them face down. Each player takes one FAIR and one UNFAIR paddle.",
+    "Take turns to be the reader. The reader reads only the front of the top card out loud.",
+    "Everyone, the reader too, holds up a paddle at the same time: FAIR or UNFAIR. Then the reader turns the card over to check.",
+    "If the card is UNFAIR, the first player to name the extra thing that changed wins a token. A second token goes to the first player who says how to fix the test.",
+    "If the card is FAIR, the first player to say the one thing that changes wins a token.",
+    "After all 16 cards, the player with the most tokens is the Chief Fair Tester. If players tie, they share the title."
    ],
    "flow": [
     {
@@ -929,10 +993,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Take turns reading the cards. 2. Everyone holds up a paddle together. 3. Give tokens for naming the extra change, and for a good fix.",
+     "do": "1. Take turns being the reader. 2. Everyone holds up a paddle together. 3. Give tokens for naming the extra change, for a good fix, or on a FAIR card for naming the one change.",
      "say": "Paddles up! If it's unfair, what else changed? How would you fix it?",
      "kid": "Paddles up! If it is unfair, say what else changed. Then say how to fix it.",
-     "parent": "The fair ones are the cards where only one thing changes: the cups both watered, 3 cups with water and 3 without, the three places for the sprouts, measuring every cup at the same time, the same spoon for every cup, the two cellophanes, and only the amount of water. The unfair ones are these. The forgotten watering changed water too. The tiny seedling against the big plant changed plant size. Methi against moong changed the kind of seed. Morning against night changed the time of measuring. The bigger pot changed pot size. The one seed in the sun and one in the shade used only one seed each, so the result could be a fluke. The music test changed light and warmth. The fridge water changed water temperature. The box without a lid changed light and the lid as well as warmth. The one-seed test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted."
+     "parent": "The answers are on the backs of the cards. The card about one seed in the sun and one in the shade is worth an argument: it is not exactly unfair, but the result cannot be trusted with only one seed in each place."
     },
     {
      "id": "s4",
@@ -1174,17 +1238,6 @@
      "why": "There is a real trade-off. Too little water and too much water both harm a plant, and the right amount changes with the weather. Checking the soil is a way to find the right amount each day."
     },
     {
-     "t": "mcq",
-     "p": "A girl measures her moong seedling from the rim of the cup, not from the soil. What goes wrong?",
-     "opts": [
-      "Her numbers are too big",
-      "Her numbers are too small, because she misses the part of the stem inside the cup",
-      "Nothing goes wrong"
-     ],
-     "a": 1,
-     "why": "The soil is lower than the rim. Measuring from the rim leaves out the bottom of the stem, so every height is too small. A plant's height is measured from the soil to their highest point."
-    },
-    {
      "t": "fill",
      "p": "When a plant droops and goes floppy because they have too little water, we say the plant ____.",
      "a": [
@@ -1288,7 +1341,7 @@
      "p": "Usha, a girl in Class 4, says: 'My plant grows well because I talk to them every day.' What is the best question to ask her?",
      "opts": [
       "What do you say to your plant?",
-      "Is it a big plant?",
+      "Is the plant big?",
       "Do you also water and check that plant more than your other plants?"
      ],
      "a": 2,
@@ -1368,7 +1421,7 @@
       },
       {
        "who": "Kavitha, aged 8",
-       "says": "Height alone tells us nothing. Next time, count the green leaves and check that each stem stands up by themself."
+       "says": "Height alone tells us nothing. Next time, count the green leaves and check that each stem stands up by itself."
       }
      ],
      "ask": "Who do you agree with? Give a reason from the light test. Then say one thing that another person has right.",
@@ -1379,7 +1432,7 @@
     },
     {
      "t": "write",
-     "p": "Anand's money plant sits in a dark corner of the hall. The plant grows long, thin stems with small leaves far apart. Which need is in short supply? What would you change?",
+     "p": "A money plant sits in a dark corner of the hall. The plant grows long, thin stems with small leaves far apart. Which need is in short supply? What would you change?",
      "lines": 3,
      "a": "Light is in short supply. The plant is stretching towards light, like the dark seedlings. I would move the plant near a bright window, or bounce light onto them with a mirror or a steel plate, like Zoya's thali.",
      "why": "Long, thin stems with leaves far apart are the clue of too little light. A strong answer names the need and gives a cure that adds light."
@@ -1666,7 +1719,7 @@
    "id": "e1",
    "title": "The Light Test: what happens in the dark?",
    "mins": 45,
-   "days": 8,
+   "days": 9,
    "question": "Do moong seedlings need light to grow well? What happens to them in the dark?",
    "predict": "Before you start, guess. After a week, will the seedlings in the dark be taller or shorter than the ones in the light? Will they be green or another colour? Write your guess and your reason.",
    "fair_test": "Change only the light. Use 6 cups that are the same, the same soil, and 5 moong seeds in each cup. Put all 6 cups side by side near the same bright window, out of strong afternoon sun, so the box does not get hotter than the open cups. Cover 3 of them with a cardboard box. Water every cup with the same tablespoon of water each morning. Measure every cup at the same time of day. We use 3 cups for each, because one cup could be a fluke.",
@@ -1713,11 +1766,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pokes the holes in the cups. Wash hands after touching soil. Do not eat the seeds.",
+   "safety": "A grown-up pokes the holes in the cups. Wash hands after touching soil. Do not eat seeds from the cups.",
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 12,
      "what": "Sow 5 soaked moong in each of 6 cups. Write your prediction. Put 3 cups under the box and 3 beside it in the light."
     },
     {
@@ -1753,7 +1806,12 @@
     {
      "day": 8,
      "mins": 2,
-     "what": "Put the dark cups in the light. Look again tomorrow. Do they turn green?"
+     "what": "Put the dark cups in the light."
+    },
+    {
+     "day": 9,
+     "mins": 3,
+     "what": "Look again. Do the dark seedlings turn green?"
     }
    ],
    "record": "Fill in the table. Then draw two bar charts: one of the heights on Day 7, and one of the number of open green leaves.",
@@ -1858,7 +1916,7 @@
        "No. They are tall because they are stretching to find light, and they are pale and weak"
       ],
       "a": 1,
-      "why": "In the dark, a seedling uses their stored food to grow tall and thin, looking for light. They cannot make green chlorophyll or new food. So they are weak and will die when their stored food runs out. Picking 'taller means healthier' is the most common idea. That is why we also count the green leaves."
+      "why": "In the dark, a seedling uses its stored food to grow tall and thin, looking for light. It cannot make green chlorophyll or new food. So it is weak and will die when the stored food runs out. Picking 'taller means healthier' is the most common idea. That is why we also count the green leaves."
      },
      "chart": {
       "type": "table",
@@ -1947,10 +2005,10 @@
     {
      "id": "s8",
      "mins": 5,
-     "do": "On Day 8, move the dark cups into the light. Look again the next day.",
+     "do": "On Day 8, move the dark cups into the light. On Day 9, look again.",
      "say": "Let's give the dark seedlings their light back. What do you think will happen by tomorrow?",
-     "kid": "Put the dark cups in the light. Look tomorrow. Do they turn green?",
-     "wait": "Look again after 1 day.",
+     "kid": "Put the dark cups in the light. Look again tomorrow. Do the seedlings turn green?",
+     "wait": "Look again on Day 9.",
      "parent": "Within a day, the yellow seedlings usually start to turn green, because they make chlorophyll once they have light. Very weak seedlings that have fallen over may not recover. Giving the light back is a kind way to end the test, too.",
      "think": "The dark seedlings had no eyes. How did they know they were in the dark?"
     }
@@ -1993,7 +2051,7 @@
   {
    "id": "e2",
    "title": "The Water Test: too little, just right, too much",
-   "mins": 50,
+   "mins": 73,
    "days": 14,
    "question": "How much water do moong seedlings need? Is more water always better?",
    "predict": "Guess first. Which cups will do best: no water, just right water, or soaked all the time? Which will do worst? Write your guesses and reasons.",
@@ -2045,33 +2103,68 @@
      "what": "Sow 5 soaked moong in each of 9 cups. Water every cup with 1 tablespoon and put them all on the windowsill."
     },
     {
+     "day": 2,
+     "mins": 2,
+     "what": "Water all 9 cups with 1 tablespoon each."
+    },
+    {
      "day": 3,
      "mins": 2,
-     "what": "Water all 9 cups the same. Do this every morning until Day 5."
+     "what": "Water all 9 cups the same."
+    },
+    {
+     "day": 4,
+     "mins": 2,
+     "what": "Water all 9 cups the same."
+    },
+    {
+     "day": 5,
+     "mins": 2,
+     "what": "Water all 9 cups the same."
     },
     {
      "day": 6,
      "mins": 12,
-     "what": "Measure all cups. Write your predictions. Start the three treatments: none, just right, soaked."
+     "what": "Measure all cups. Write your predictions. Label the cups and start the three treatments: none, just right, soaked."
+    },
+    {
+     "day": 7,
+     "mins": 2,
+     "what": "Water the JUST RIGHT cups with 1 tablespoon. Feel the soil in one cup of each group."
     },
     {
      "day": 8,
      "mins": 3,
-     "what": "Water the JUST RIGHT cups. Tip out the SOAKED dish and fill it with fresh water. Write one line about each group."
+     "what": "Water the JUST RIGHT cups. Tip out the SOAKED dish and fill it with fresh water. Look at the leaves and write one line about each group."
+    },
+    {
+     "day": 9,
+     "mins": 2,
+     "what": "Water the JUST RIGHT cups."
     },
     {
      "day": 10,
      "mins": 5,
-     "what": "Water, change the dish water and measure."
+     "what": "Water the JUST RIGHT cups, change the dish water and measure."
+    },
+    {
+     "day": 11,
+     "mins": 2,
+     "what": "Water the JUST RIGHT cups."
     },
     {
      "day": 12,
      "mins": 3,
-     "what": "Water, change the dish water and look closely at the leaves."
+     "what": "Water the JUST RIGHT cups, change the dish water and look closely at the leaves."
+    },
+    {
+     "day": 13,
+     "mins": 2,
+     "what": "Water the JUST RIGHT cups."
     },
     {
      "day": 14,
-     "mins": 13,
+     "mins": 22,
      "what": "Final measuring. Tip one cup from each group out to look at the roots. Draw a bar chart and say what you think, what you saw and why."
     }
    ],
@@ -2079,7 +2172,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 8,
+     "mins": 20,
      "do": "1. Fill 9 cups with soil. 2. Press 5 soaked moong into each. 3. Water each cup with 1 tablespoon. 4. Put all 9 on a tray on a bright windowsill.",
      "say": "First we grow all 9 cups exactly the same way, so they start the test the same.",
      "kid": "Fill 9 cups with soil. Push 5 moong into each. Give each 1 spoon of water. Put them all on the windowsill.",
@@ -2088,7 +2181,7 @@
     },
     {
      "id": "s2",
-     "mins": 6,
+     "mins": 12,
      "do": "On Day 6: 1. Measure the tallest seedling in each cup and write it down. 2. Label 3 cups NONE, 3 JUST RIGHT and 3 SOAKED. 3. Stand the 3 SOAKED cups in a deep dish. Fill the dish with water up to the soil inside the cups. 4. Put all the cups back side by side.",
      "say": "Now the test begins. These get no water at all. These get 1 spoon every morning. And these stand in water all the time. Which do you think will do best?",
      "kid": "Measure every cup. Put labels on: NONE, JUST RIGHT, SOAKED. Stand the SOAKED cups in a dish of water. Which will do best? Guess.",
@@ -2105,7 +2198,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 15,
      "do": "1. Every morning, water the JUST RIGHT cups with 1 tablespoon. 2. Give the NONE cups nothing. 3. Every second day, tip out the SOAKED dish. Fill it again with fresh water, up to the soil inside the cups. 4. Press a finger into the soil of one cup from each group and write: dry, damp or soggy.",
      "say": "Feel the soil. Dry, damp or soggy? Write it down for each group.",
      "kid": "Water only the JUST RIGHT cups. Change the dish water every second day. Feel the soil. Dry, damp or soggy?",
@@ -2115,7 +2208,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "On Day 8 or 10, look closely at the leaves in each group together.",
+     "do": "On Day 8 or Day 10, look closely at the leaves in each group together.",
      "say": "Let's be plant doctors. What do the leaves look like in each group?",
      "kid": "Look at the leaves in each group. Are they firm, drooping, yellow or dry?",
      "check": {
@@ -2127,7 +2220,7 @@
        "They are too cold"
       ],
       "a": 1,
-      "why": "A plant that droops in dry soil is wilting. Their cells are going soft because there is not enough water to fill them. Picking 'light' is a sensible guess, because plants in the dark also flop. But in the dark they are pale and tall. These are green and drooping, and their soil is dry."
+      "why": "A plant that droops in dry soil is wilting. Its cells are going soft because there is not enough water to fill them. Picking 'light' is a sensible guess, because plants in the dark also flop. But in the dark they are pale and tall. These are green and drooping, and their soil is dry."
      }
     },
     {
@@ -2250,6 +2343,7 @@
     "Day 1: total length of 5 sprouts (cm)",
     "Day 2 (cm)",
     "Day 3 (cm)",
+    "Day 4 (cm)",
     "Growth in 3 days (cm)"
    ],
    "materials": [
@@ -2280,12 +2374,12 @@
      "buy": "b-ruler"
     }
    ],
-   "safety": "For the warm spot, use a closed cupboard in the warmest room, or the top of the fridge near the back, where warm air comes out. Never use the stove, the oven, a heater or a flame. Do not eat the sprouts afterwards.",
+   "safety": "For the warm spot, use a closed cupboard in the warmest room, or the top of the fridge near the back, where warm air comes out. Never use the stove, the oven, a heater or a flame.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Set up the three bowls. Measure the sprouts. Put one bowl in the fridge, one in a room cupboard and one in a warm spot."
+     "what": "Set up the three bowls (the moong were soaked 2 nights before). Measure the sprouts. Put one bowl in the fridge, one in a room cupboard and one in a warm spot."
     },
     {
      "day": 2,
@@ -2300,7 +2394,7 @@
     {
      "day": 4,
      "mins": 13,
-     "what": "Final measuring. Work out how much each bowl grew. Draw a bar chart. Move the fridge bowl into the room and watch."
+     "what": "Final measuring. Work out how much each bowl grew. Draw a bar chart. Optional: move the fridge bowl into the room and watch it for 2 more days."
     }
    ],
    "record": "Fill in the table. For each place, take the first total away from the last total. Draw one bar for each place.",
@@ -2342,10 +2436,10 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On Day 2 and Day 3: take each bowl out, measure the 5 longest sprouts and add them up. Add 1 teaspoon of water if the cloth is drying. Put each bowl back quickly.",
+     "do": "On Day 2 and Day 3: take each bowl out, measure the 5 longest sprouts and add them up. Add 1 teaspoon of water if the cloth is drying, and the same to the other two bowls. Put each bowl back quickly.",
      "say": "Measure the 5 longest sprouts and add them up. Which bowl is growing fastest?",
      "kid": "Measure the 5 longest sprouts in each bowl. Add them up. Write the total. Put the bowl back fast.",
-     "wait": "Measure every day for 3 days.",
+     "wait": "Measure on Day 2, Day 3 and Day 4.",
      "check": {
       "t": "mcq",
       "q": "You add water to the warm bowl because its cloth is drying. What should you do for the other two bowls?",
@@ -2360,7 +2454,7 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "On Day 4: 1. Measure one last time. 2. For each bowl, take the Day 1 total away from the last total. That is how much they grew. 3. Draw a bar for each place.",
+     "do": "On Day 4: 1. Measure one last time. 2. For each bowl, take the Day 1 total away from the Day 4 total. That is how much the sprouts grew. 3. Draw a bar for each place.",
      "say": "Take the first total away from the last total. That tells us how much each bowl grew. Let's draw one bar for each.",
      "kid": "Take the first number away from the last number. That is how much they grew. Draw one bar for each place.",
      "chart": {
@@ -2394,14 +2488,14 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think now? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. First, what you think now. Second, what you saw. Third, why you think it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: moong sprouts grow faster when they are warm. What I saw: in 3 days the fridge sprouts grew 1 cm. The cupboard ones grew 18 cm and the warm ones 24 cm. Why: warmth makes the tiny helpers inside the sprouts work faster."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: moong sprouts grow faster when they are warm. What I saw: in 3 days the fridge sprouts grew 1 cm. The cupboard ones grew 18 cm and the warm ones 24 cm. Why: warmth makes the chemical work inside the cells of the sprouts go faster."
     },
     {
      "id": "s7",
      "mins": 3,
-     "do": "Move the fridge bowl into the room cupboard. Look again in 2 days.",
+     "do": "Optional extra: move the fridge bowl into the room cupboard. Look again in 2 days.",
      "say": "Are the fridge sprouts dead, or only waiting? Let's warm them up and see.",
-     "kid": "Put the fridge bowl in the cupboard. Look in 2 days. Are the sprouts dead, or only waiting?",
+     "kid": "Optional: put the fridge bowl in the cupboard. Look in 2 days. Are the sprouts dead, or only waiting?",
      "wait": "Look again after 2 days.",
      "parent": "The cold sprouts usually start growing again in the warmth. Cold slowed them down. A few may have been harmed, because moong comes from warm places and does not like long cold.",
      "think": "Our warm spot was best. Would an even hotter place, like a terrace at 46 degrees, be even better? Why not?"
@@ -2486,21 +2580,41 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Make 4 cellophane covers and put one over each cup. Write your predictions."
+     "mins": 10,
+     "what": "(Sow the cups 3 or 4 days before.) Make 4 cellophane covers and put one over each cup. Write your predictions."
+    },
+    {
+     "day": 2,
+     "mins": 1,
+     "what": "Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers."
+    },
+    {
+     "day": 3,
+     "mins": 1,
+     "what": "Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers."
     },
     {
      "day": 4,
-     "mins": 5,
-     "what": "Water every cup the same each morning, and look through the covers."
+     "mins": 1,
+     "what": "Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers."
+    },
+    {
+     "day": 5,
+     "mins": 1,
+     "what": "Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers."
+    },
+    {
+     "day": 6,
+     "mins": 1,
+     "what": "Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers."
     },
     {
      "day": 7,
-     "mins": 15,
+     "mins": 20,
      "what": "Take off the covers. Measure, compare colour and leaves, and say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Draw each seedling in their colour of light.",
+   "record": "Fill in the table. Draw the seedling from each cover, in the colours you see.",
    "flow": [
     {
      "id": "s1",
@@ -2508,16 +2622,7 @@
      "do": "1. Push 4 sticks or straws into the soil around each cup's edge. 2. Roll a sheet of cellophane into a tall cone or tube and tape it to the sticks. 3. Leave a small gap at the bottom for air. 4. Use one colour for each cup: clear, red, blue, green.",
      "say": "Each cup gets a coloured window. The clear one lets all the colours of sunlight through. The others let mostly one colour through.",
      "kid": "Make a tall see-through hat for each cup. One clear, one red, one blue, one green. Leave a gap at the bottom for air.",
-     "context": "This is the first step of the coloured light test. You cover cups of seedlings with clear, red, blue and green see-through sheets and see how they grow.",
-     "ask": [
-      {
-       "q": "Plants are green. Which colour do you think they like best?",
-       "good": [
-        "Green, because they're green.",
-        "Maybe not green. Maybe they bounce green light away."
-       ]
-      }
-     ]
+     "context": "This is the first step of the coloured light test. You cover cups of seedlings with clear, red, blue and green see-through sheets and see how they grow."
     },
     {
      "id": "s2",
@@ -2680,7 +2785,7 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. The light test will answer the question. Write down your child's wonderings, so you can come back to them. If you have a garden or a park nearby, also lift a brick or flowerpot that has lain on grass for a week. The grass underneath is pale for the same reason."
+     "parent": "Do not explain yet. The light test will answer the question. Write down your child's wonderings, so you can come back to them."
     },
     {
      "id": "s3",
@@ -2739,7 +2844,7 @@
   {
    "id": "a2",
    "title": "Measure Like a Scientist: the paper-strip growth chart",
-   "mins": 25,
+   "mins": 41,
    "days": 10,
    "materials": [
     {
@@ -2764,7 +2869,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 13,
      "what": "Practise measuring things in centimetres and millimetres. Measure the plant and cut and stick the first strip."
     },
     {
@@ -2773,9 +2878,44 @@
      "what": "Measure, cut a strip and stick it next to yesterday's."
     },
     {
+     "day": 3,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
+     "day": 4,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
+     "day": 5,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
+     "day": 6,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
+     "day": 7,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
+     "day": 8,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
+     "day": 9,
+     "mins": 2,
+     "what": "Measure, cut a strip and stick it next to yesterday's."
+    },
+    {
      "day": 10,
-     "mins": 8,
-     "what": "After 10 days of strips, look at the chart. Which day did they grow most?"
+     "mins": 12,
+     "what": "Measure, cut and stick the 10th strip. Then look at the chart. Which day did the plant grow most?"
     }
    ],
    "record": "A row of paper strips, one for each day, each as long as the plant was tall that day. Write the date and the height under each strip.",
@@ -2818,7 +2958,7 @@
     },
     {
      "id": "s3",
-     "mins": 2,
+     "mins": 18,
      "do": "Each day at the same time, measure again, cut a new strip and stick it beside the last one.",
      "say": "Same time every day, so it's fair.",
      "kid": "Same time every day. Measure. Cut a strip. Stick it next to yesterday's.",
@@ -2868,7 +3008,7 @@
    "id": "a3",
    "title": "Plant Doctor: which need is missing?",
    "mins": 20,
-   "days": 1,
+   "days": 8,
    "materials": [
     {
      "item": "5 or more plants at home, on the balcony, in your building or at a neighbour's. If you can find only one or two, also examine the moong cups from the light and water tests",
@@ -2883,12 +3023,16 @@
      "qty": 1
     }
    ],
-   "safety": "Ask the owner before touching anyone else's plant. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
-     "what": "Examine 5 plants, write a diagnosis and a cure for each, and check them again in a week."
+     "mins": 17,
+     "what": "Examine 5 plants, write a diagnosis and a cure for each, and do one cure."
+    },
+    {
+     "day": 8,
+     "mins": 3,
+     "what": "Look at the plant you helped. Was your diagnosis right?"
     }
    ],
    "record": "For each plant, write: the clue, the missing need, and the cure.",
@@ -3144,7 +3288,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Do this in the morning. Mark where the pointer is now. Then mark it again every 2 hours until the evening.",
-     "say": "Let's mark the pointer every 2 hours. Is the plant growing, even while we cannot see it?",
+     "say": "Let's mark the pointer every 2 hours. Is the plant growing, even though we cannot see any movement?",
      "kid": "Mark where the pointer is. Look again every 2 hours. Mark it again. Is it moving?",
      "wait": "Check every 2 hours, from morning to evening.",
      "parent": "A young seedling grows about half a millimetre to one millimetre each hour on a warm day. With this lever, the pointer moves 4 millimetres for every millimetre of growth. So over a whole day it should move 2 centimetres or more. If nothing moves, check that the thread is still tight. Keep the plant away from fans and wind, which make the pointer swing."
@@ -3174,7 +3318,7 @@
       "a": 1,
       "why": "The lever makes growth look 4 times bigger. So the real growth is 8 divided by 4, which is 2 millimetres. Picking '32' means multiplying instead of dividing: the plant's growth is the small number, not the big one."
      },
-     "think": "Bose's machine made growth look ten thousand times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes?"
+     "think": "Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes?"
     }
    ],
    "context": "This activity builds a simple straw lever that makes a plant's growth easier to see. It is a tiny version of the crescograph, a growth-measuring machine invented by Jagadish Chandra Bose in Kolkata.",
@@ -3208,7 +3352,6 @@
      "qty": 1
     }
    ],
-   "safety": "Move gently and keep away from furniture edges.",
    "schedule": [
     {
      "day": 1,
@@ -3259,7 +3402,7 @@
      "kid": "Act it out! Soggy soil. A cold night. A heat wave. Now everything is just right.",
      "check": {
       "t": "mcq",
-      "q": "In the dance, a seedling in the dark stretches tall and keeps their leaves shut. Why?",
+      "q": "In the dance, a seedling in the dark stretches tall and keeps its leaves shut. Why?",
       "options": [
        "They are showing off",
        "They are using their stored food to reach light, and leaves are no use without light",
@@ -3373,7 +3516,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Fill the pot with the soil and compost. 2. Push 3 soaked beans in, about 2 cm deep and a hand-width apart. 3. Water until a little runs out of the hole. 4. Give your plant a name and write it on the pot.",
+     "do": "1. Fill the pot with the soil and compost. 2. Push 3 soaked beans in, about 2 cm deep and a hand-width apart. 3. Water until a little runs out of the hole. 4. Give your plant a name and write the name on the pot.",
      "say": "Some families talk to their plant and name them. Let's name ours. What will you call your bean?",
      "kid": "Fill the pot. Push in 3 beans, 2 cm deep. Water until a little runs out of the hole. Give your plant a name!",
      "parent": "Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and gently pull out the others after a week, so they have space."
@@ -3387,14 +3530,14 @@
      "wait": "Repeat every 3 days for 3 weeks.",
      "check": {
       "t": "mcq",
-      "q": "You press your finger into the bean's soil and it feels damp. What should you do?",
+      "q": "You press your finger into the bean's soil and the soil feels damp. What should you do?",
       "options": [
        "Water them anyway, because more water is better",
        "Wait. Check again tomorrow",
        "Move them into the dark"
       ],
       "a": 1,
-      "why": "Damp soil already has enough water. Watering again could make it soggy, so the roots cannot get air. Picking 'water them anyway' is the most common mistake in looking after plants. Checking first is what good gardeners do."
+      "why": "Damp soil already has enough water. Watering again could make the soil soggy, so the roots cannot get air. Picking 'water them anyway' is the most common mistake in looking after plants. Checking first is what good gardeners do."
      }
     },
     {
@@ -3510,12 +3653,20 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before trying anything, draw or list three ideas together.",
-     "say": "Engineers think before they build. Let's list three ideas.",
-     "kid": "Think like an engineer. Draw three ideas to bring light to the corner."
+     "do": "Read the usual solutions and the creative ideas below.",
+     "say": "Here's what people usually do, and some creative ideas. Which will we try?",
+     "kid": "Look at the usual ways and the creative ideas. Pick the ones you want to try.",
+     "think": "People in a crowded city also live in dim rooms. How do light and sunlight change how people feel?"
     },
     {
      "id": "s3",
+     "mins": 5,
+     "do": "Draw or list three ideas together, including at least one of your own.",
+     "say": "Engineers think before they build. Let's list three ideas.",
+     "kid": "Think like an engineer. Draw three ideas to bring light to the corner, one of them your own."
+    },
+    {
+     "id": "s4",
      "mins": 15,
      "do": "Try each idea, one at a time, and measure the light at the plant after each one.",
      "say": "Try one idea at a time. Measure after each one. That's a fair test of our ideas.",
@@ -3533,14 +3684,6 @@
       "a": 2,
       "why": "Two things changed, so you cannot tell which one helped, or how much. Try one idea, measure, then add the next. Picking 'the foil' or 'the window' means guessing. A fair test of your ideas changes only one thing at a time."
      }
-    },
-    {
-     "id": "s4",
-     "mins": 5,
-     "do": "Read the usual solutions and the creative ideas. Then invent one more.",
-     "say": "Here's what people usually do, and some creative ideas. Can you invent something new?",
-     "kid": "Look at the usual ways and the creative ideas. Now invent your own way.",
-     "think": "People in a crowded city also live in dim rooms. How do light and sunlight change how people feel?"
     }
    ],
    "setup": [
@@ -3597,14 +3740,22 @@
     },
     {
      "id": "s2",
-     "mins": 10,
-     "do": "Draw three ideas together. Then build the one your child likes best.",
-     "say": "Let's draw three ideas, then build the best one.",
-     "kid": "Draw three ideas. Then build the best one. Ask a grown-up for help with holes.",
-     "adult": true
+     "mins": 8,
+     "do": "Read the usual and creative solutions below.",
+     "say": "Here's what people usually do, and some clever old ideas. Which will we try?",
+     "kid": "Look at the usual ways and the creative ideas. Which will you try?",
+     "think": "The buried clay pot idea is very old. Why do you think people kept using it for so long?"
     },
     {
      "id": "s3",
+     "mins": 10,
+     "do": "Draw three ideas together, one of them your own. Then build the one your child likes best.",
+     "say": "Let's draw three ideas, then build the best one.",
+     "kid": "Draw three ideas, one of them your own. Then build the best one. Ask a grown-up for help with holes.",
+     "adult": true
+    },
+    {
+     "id": "s4",
      "mins": 5,
      "do": "Test the waterer on the plant for 3 days. Check the soil each day with a finger and write: dry, damp or soggy.",
      "say": "A good engineer tests before the trip. Let's check the soil every day.",
@@ -3612,7 +3763,7 @@
      "wait": "Check the soil once a day for 3 days."
     },
     {
-     "id": "s4",
+     "id": "s5",
      "mins": 12,
      "do": "Look at the results. Fix the design if the soil was dry or soggy, and test it again.",
      "say": "Was the soil just right every day? If not, what will you change?",
@@ -3628,14 +3779,6 @@
       "a": 1,
       "why": "Soggy soil means water is coming in faster than the plant uses it. A smaller hole slows the drip. A bigger hole lets the water out even faster. A bigger bottle holds more water, but it does not slow the drip. Remember, roots need air too."
      }
-    },
-    {
-     "id": "s5",
-     "mins": 8,
-     "do": "Read the usual and creative solutions. Then invent one more, and choose the one to use on your real trip.",
-     "say": "Here's what people usually do, and some clever old ideas. Which will we use for the real trip?",
-     "kid": "Look at the usual ways and the creative ideas. Can you invent a better one?",
-     "think": "The buried clay pot idea is very old. Why do you think people kept using it for so long?"
     }
    ],
    "setup": [
@@ -3657,12 +3800,12 @@
  ],
  "videos": [
   {
-   "title": "How a plant grows",
-   "channel": "to check",
+   "title": "Plant Life Cycle",
+   "channel": "SuperKidzo Tv",
    "youtube": "ib5uiLMM2wY",
    "mins": 5,
-   "why": "A short video to watch before sowing your first seed. Watch it before the bean diary project.",
-   "check": "Video id taken from the DeepKids DeepKids V0.1 sheet (week 7.0, Let grow and grow). Not watched from here. A parent should check that it plays, how long it is, and that it shows plant growth accurately."
+   "why": "A short cartoon of a seed growing into a plant. Watch it before sowing the bean in the bean diary.",
+   "check": ""
   },
   {
    "title": "A time-lapse of seedlings turning towards the light",
@@ -3670,7 +3813,7 @@
    "youtube": "jJrqmkbiwdE",
    "mins": 3,
    "why": "Shows young plants bending towards the light, again and again, as the light is moved. It shows in a minute what a plant on a windowsill does over days.",
-   "check": "Found by YouTube search: \"Changing the direction of the light during plant growth - Time lapse #greentimelapse #gtl #timelapse\" by Green Timelapse. Title checked automatically; a parent may still preview it."
+   "check": ""
   },
   {
    "title": "Growing lettuce on the International Space Station (NASA Veggie)",
@@ -3678,7 +3821,7 @@
    "youtube": "c1Gxn_nfgWA",
    "mins": 4,
    "why": "Shows how astronauts give plants light, water, air and warmth in space, and the first space-grown lettuce being eaten in 2015.",
-   "check": "Found by YouTube search: \"Space Station Live: Lettuce Look at Veggie\" by NASA Johnson. Title checked automatically; a parent may still preview it."
+   "check": ""
   }
  ],
  "quiz": [
@@ -3708,20 +3851,6 @@
   },
   {
    "t": "mcq",
-   "p": "In the light test, you forget to water the dark cups. What is wrong with the test?",
-   "opts": [
-    "Two things changed, light and water, so you can't tell which caused the result",
-    "Nothing",
-    "The cups were too small"
-   ],
-   "a": 0,
-   "why": "A fair test changes only one thing. Picking 'nothing' means noticing the planned change but not the accidental one.",
-   "outcome": 1,
-   "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "A girl measures her moong seedlings at 7 in the morning one day, and at 9 at night the next day. Why is it better to measure at the same time every day?",
    "opts": [
     "Plants grow only in the morning",
@@ -3730,18 +3859,6 @@
    ],
    "a": 2,
    "why": "Seedlings grow all day and all night. If the gaps are different lengths, a bigger number may only mean a longer gap. Picking 'plants grow only in the morning' is not right: Bose's crescograph showed plants growing at night too.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
-   "p": "A seedling is 6 centimetres and 5 millimetres tall. How many millimetres is that?",
-   "opts": [
-    "11 millimetres",
-    "65 millimetres",
-    "6.5 millimetres"
-   ],
-   "a": 1,
-   "why": "Each centimetre is 10 millimetres. So 6 centimetres is 60 millimetres, and 5 more makes 65. Picking 11 means adding 6 and 5 without changing the units.",
    "outcome": 2
   },
   {
@@ -3851,7 +3968,7 @@
   },
   {
    "t": "mcq",
-   "p": "How does a seedling in the dark sense that it is dark?",
+   "p": "How does a seedling in the dark know there is no light?",
    "opts": [
     "With special light-sensing molecules, such as phytochrome",
     "With tiny eyes on their leaves",
@@ -3957,7 +4074,7 @@
   },
   {
    "q": "How does a seedling decide how to share their stored food between roots, stem and leaves?",
-   "why_open": "Scientists know that light, water and minerals all change the decision, through plant hormones. How a plant without a brain balances all of these is still being studied."
+   "why_open": "Scientists know that light, water and minerals all change the decision, through plant hormones. How a plant, without a brain like ours, balances all of these is still being studied."
   }
  ],
  "ask_kids": [
@@ -3970,129 +4087,48 @@
   "Your bean grew 2 cm since yesterday. How much is that in millimetres?",
   "If we wanted to know if our neighbour's plant grows better because of their soil, how could we test it fairly?",
   "What do you need to grow, apart from food? What does a plant need that you need too?",
-  "Is it fair to keep a plant in the dark for an experiment? Why or why not?",
   "If astronauts grew plants on the Moon, what would they need to bring?"
  ],
  "jokes": [
   {
-   "j": "Why did the seedling go to school?",
-   "a": "To get a little taller, and a little brighter."
-  },
-  {
-   "j": "What did the plant say when they were moved into the sun?",
-   "a": "Things are looking bright!"
-  },
-  {
-   "j": "Why was the moong in the cupboard so pale?",
-   "a": "They had never seen the light of day."
-  },
-  {
-   "j": "What did the seedling in the cupboard say?",
-   "a": "Can somebody please turn on the sun?"
-  },
-  {
-   "j": "Why did the plant hate maths?",
-   "a": "They always got square roots."
-  },
-  {
-   "j": "What did one sprout say to the other in the fridge?",
-   "a": "Let's just chill and grow later."
-  },
-  {
-   "j": "Why did the cactus refuse a drink?",
-   "a": "They were already full of themselves."
-  },
-  {
    "j": "What kind of tree fits in your hand?",
    "a": "A palm tree."
-  },
-  {
-   "j": "Why did the plant bring a ruler to bed?",
-   "a": "To see how long they slept."
-  },
-  {
-   "j": "What is a seedling's favourite game?",
-   "a": "Grow and seek: they always seek the light."
-  },
-  {
-   "j": "Why was the soaked plant so sad?",
-   "a": "They were feeling a little under the water."
-  },
-  {
-   "j": "What did the thermometer say to the sprout?",
-   "a": "You make me feel warm inside."
-  },
-  {
-   "j": "Why did the bean climb the stick?",
-   "a": "They wanted to get to the top of their class."
-  },
-  {
-   "j": "What did the scientist say to the unfair test?",
-   "a": "Change one thing, and we'll talk."
-  },
-  {
-   "j": "Why did the tulsi go to the doctor?",
-   "a": "They were feeling a bit droopy."
-  },
-  {
-   "j": "How do plants talk to each other?",
-   "a": "By leaf-mail."
-  },
-  {
-   "j": "Why was the tomato red?",
-   "a": "It saw the salad dressing."
-  },
-  {
-   "j": "Why did the moong sprout cross the windowsill?",
-   "a": "To get to the bright side."
-  },
-  {
-   "j": "Why did the seed stay home?",
-   "a": "They were too cold to come out."
   },
   {
    "j": "What did the big flower say to the little flower?",
    "a": "Hi, bud!"
   },
   {
-   "j": "Why do potatoes make good detectives?",
-   "a": "They keep their eyes peeled, even in the dark."
+   "j": "Why was the tomato red?",
+   "a": "She saw the salad dressing."
   },
   {
-   "j": "What did the roots say to the soggy soil?",
-   "a": "Give us some air, please!"
+   "j": "Why did the plant hate maths?",
+   "a": "They always got square roots."
   },
   {
    "j": "Why did the money plant get a job?",
    "a": "They were tired of just hanging around."
   },
   {
-   "j": "What's a plant's favourite drink?",
-   "a": "Root beer, but only a little, just right."
+   "j": "Why do potatoes make good detectives?",
+   "a": "They keep their eyes peeled, even in the dark."
   },
   {
-   "j": "Why did the plant in the dark corner ask for a mirror?",
-   "a": "They wanted to reflect on their life."
+   "j": "What did one sprout say to the other in the fridge?",
+   "a": "Let's just chill and grow later."
   },
   {
-   "j": "Why did the sunflower get top marks?",
-   "a": "They always faced the right way."
-  },
-  {
-   "j": "What did the ruler say to the bean?",
-   "a": "I've got my eye on you, centimetre by centimetre."
-  },
-  {
-   "j": "Why don't plants like the fridge?",
-   "a": "It gives them cold feet and slow shoots."
-  },
-  {
-   "j": "What do you call a lettuce grown in space?",
-   "a": "An astro-leaf."
+   "j": "How do plants talk to each other?",
+   "a": "By leaf-mail."
   },
   {
    "j": "Why did the seedling stretch so much in the cupboard?",
    "a": "They were trying to reach the light switch."
+  },
+  {
+   "j": "Why did the cactus refuse a drink?",
+   "a": "They were already full of themselves."
   }
  ],
  "maths": [
@@ -4297,8 +4333,7 @@
    "used_in": [
     "e3",
     "p1"
-   ],
-   "plan": "Used again in the seeds and plant growth unit, and in the weather units."
+   ]
   },
   {
    "id": "b-cellophane",
@@ -4326,12 +4361,11 @@
    "id": "b-book1",
    "item": "How a Seed Grows, by Helene J. Jordan (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A clear picture book in which children grow bean seeds in eggshells and watch them grow. It matches this unit's measuring and growing.",
+   "why": "A clear picture book in which children grow bean seeds in eggshells and watch them grow.",
    "url": "https://www.amazon.in/s?k=How+a+Seed+Grows+Helene+Jordan",
    "used_in": [
     "p1"
-   ],
-   "plan": "If bought, read it on the day you start the bean diary, before sowing."
+   ]
   },
   {
    "id": "b-book2",
@@ -4341,8 +4375,7 @@
    "url": "https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch",
    "used_in": [
     "e1"
-   ],
-   "plan": "If bought, read it on the day you finish the light test, after the conclusion."
+   ]
   },
   {
    "id": "b-squared",

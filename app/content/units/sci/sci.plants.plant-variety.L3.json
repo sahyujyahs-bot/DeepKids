@@ -16,7 +16,7 @@
   "I can test stems fairly to tell soft stems from woody ones, and record what I find in a table.",
   "I can explain why some plants climb or creep instead of standing up on their own.",
   "I can name many ways people use plants: food, medicine, shade, wood, cloth, rope, paper and more.",
-  "I can measure and compare, for example how much cooler it is in a tree's shade, and show it in a bar chart.",
+  "I can measure and compare, for example how much cooler the ground is in a tree's shade, and show it in a bar chart.",
   "I can say what scientists agree about kinds of plants, and give plants that do not fit the boxes.",
   "I can go deep: wood took millions of years to appear, trees grew from many different plant families, and nobody knows how many plants are still undiscovered."
  ],
@@ -549,7 +549,7 @@
    "'There,' he said. 'Pepper growing on a jackfruit tree. Your uncle says it is wrong. He says a jackfruit cannot make pepper. Then where do the berries come from?'",
    "Uncle only smiled, and said, 'Ammini will show you.' He liked to let people find things for themselves. He said a thing you find stays with you, and a thing you are told falls out of your pocket on the way home.",
    "So I took Pieter back to the garden behind the market, where he had sat drawing. I walked up to the jackfruit tree and put my hand flat on their trunk. The bark was rough and warm. 'This is one plant,' I said. Then I moved my hand a little to one side, onto a thin green rope pressed tight against the bark. 'And this is another.'",
-   "The rope was a stem. It was no thicker than my finger. It wandered up the trunk in a long, crooked line. Every little way along it, there were tiny brown roots. They were pushed into the cracks of the bark, like fingers holding on to a wall. Its leaves were not jackfruit leaves at all. They were shaped like hearts, glossy and pointed, with lines running from the stalk to the tip. And up in the branches, the strings of berries hung from that thin stem, not from the tree.",
+   "The rope was a stem. It was no thicker than my finger. It wandered up the trunk in a long, crooked line. Every little way along it, there were tiny brown roots. They were pushed into the cracks of the bark, like fingers holding on to a wall. The leaves along it were not jackfruit leaves at all. They were shaped like hearts, glossy and pointed, with lines running from the stalk to the tip. And up in the branches, the strings of berries hung from that thin stem, not from the tree.",
    "Pieter stared. He touched the stem. He tugged it, gently, and it held on.",
    "'They have no trunk,' he said slowly.",
    "'They don't need one,' I said. 'The jackfruit made the trunk. The pepper climbs it.'",
@@ -561,7 +561,7 @@
    "Many years later, the governor's book was printed far away in Amsterdam. It came in twelve great volumes, with hundreds of drawings of the plants of our coast. In the very first volume, there is a page printed in our own Malayalam letters. It is my uncle's statement, telling every reader who he was, and how he knew these plants. Most people who open that book look only at the pictures. I always look for that page first.",
    "And now, when I see a coconut palm with a green vine winding up their trunk, or a jackfruit wrapped in heart-shaped leaves, I do not see one plant. I see two lives making one shape. One stands. One climbs. Both of them are reaching for the same sun."
   ],
-  "epiphany": "For the parent: the pepper is not part of the jackfruit tree. They are a climber, a plant with a thin, soft stem that cannot stand up alone. So they hold on to a tree and climb to the light, gripping with little roots. Knowing the kind of plant tells you where to look and what you are seeing. The story also quietly asks who gets remembered in a famous book: the governor, the painters, or the healer who knew the plants.",
+  "epiphany": "For the parent: the pepper is not part of the jackfruit tree. They are a climber, a plant with a thin, soft stem that cannot stand up alone. So they hold on to a tree and climb to the light, gripping with little roots. Knowing the kind of plant tells you where to look and what you are seeing.",
   "ask": [
    "Why couldn't Pieter find a 'pepper tree' anywhere?",
    "How does the pepper plant hold on to the jackfruit tree?",
@@ -636,11 +636,11 @@
    "id": "g1",
    "title": "Plant Families",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about kinds of plants and how we use them. You collect families of three plants that share something.",
    "setup": [
     {
-     "art": "Twenty-four small cards spread on a table, each with a drawing of a plant like neem, mint or pumpkin and a small kind symbol in the corner.",
+     "art": "Twenty-four small cards spread on a table, each with the plant's name and its kind written on the front.",
      "caption": "1. Cut out the 24 plant cards."
     },
     {
@@ -648,7 +648,7 @@
      "caption": "2. Deal 5 cards each. Put the rest in a pile."
     },
     {
-     "art": "Three cards laid face up in a row: mango, neem and peepal, all with a tree symbol.",
+     "art": "Three cards laid face up in a row: mango, neem and peepal, all marked tree.",
      "caption": "3. Lay down 3 cards that share a kind or a use."
     }
    ],
@@ -702,7 +702,7 @@
        "b": "Uses: fruit"
       },
       {
-       "f": "Tulsi: herb that becomes a shrub",
+       "f": "Tulsi: shrub (a soft herb when young)",
        "b": "Uses: tea, medicine"
       },
       {
@@ -726,7 +726,7 @@
        "b": "Uses: sugar"
       },
       {
-       "f": "Bamboo: a giant grass",
+       "f": "Bamboo: a giant grass (counts as a herb here)",
        "b": "Uses: building, baskets"
       },
       {
@@ -779,18 +779,19 @@
    ],
    "rules": [
     "Cut out the 24 cards. Shuffle them and deal 5 cards to each player. Put the rest face down in a pile.",
-    "A family is 3 cards that share something. It can be the same kind, like 3 trees. Or the same use, like 3 foods.",
-    "On your turn, ask one player for a card. For example, 'Do you have a creeper?'",
-    "If they have one, they must give it to you. If not, they say 'Go to the forest!' and you take one card from the pile.",
-    "When you have a family, lay it on the mat. Say out loud what the three cards share.",
-    "When the pile runs out, the player with the most families wins."
+    "A family is 3 cards that share a kind, like 3 trees, or a use, like 3 foods. A card can be in only one family.",
+    "On your turn, ask one player for a kind or a use, for example 'Do you have a creeper?' or 'Do you have a food?' You must be holding at least one card of that kind or use yourself.",
+    "If they have one, they give you one such card and you ask again. If not, they say 'Go to the forest!', you take one card from the pile, and your turn ends.",
+    "When you hold a family, lay it on the mat and say out loud what the three cards share.",
+    "If you have no cards, take 3 from the pile. If the pile is empty, you pass.",
+    "When the pile is empty, keep playing. The game ends when a whole round goes by and nobody gives away a card. The player with the most families wins. If two players tie, they share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 24 cards. 2. Lay the family mat on the table. 3. Shuffle and deal 5 cards to each player.",
-     "say": "Every card shows a plant. It says what kind of plant they are, and how people use it. We are going to collect families of three.",
+     "say": "Each card names a plant, its kind and how people use it. We are going to collect families of three.",
      "kid": "Cut out the cards. Mix them up. Take 5 cards each. Look at your plants.",
      "context": "This is the first step of Plant Families, a card game about kinds of plants and their uses. Here you set up the game."
     },
@@ -834,8 +835,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Find the tulsi and bamboo cards and hold them up.",
-     "say": "These two are tricky. Tulsi starts soft and becomes woody. Bamboo is a grass as tall as a tree. Which family would you put them in?",
-     "kid": "Look at tulsi and bamboo. Which family do they fit? Maybe more than one?",
+     "say": "These two are tricky. Tulsi starts soft and becomes woody. Bamboo is a grass as tall as a tree. In this game tulsi counts as a shrub and bamboo as a herb. Which other family could each one fit?",
+     "kid": "Look at tulsi and bamboo. In the game they count as a shrub and a herb. Which other family could they fit?",
      "check": {
       "t": "mcq",
       "q": "Bamboo grows as tall as a house. What kind of plant is bamboo?",
@@ -862,11 +863,11 @@
    "id": "g2",
    "title": "Five Kinds Bingo",
    "mins": 25,
-   "players": "1 to 6 players, on a walk with a grown-up, if you can walk around your building or street",
+   "players": "1 to 6 players, with a grown-up; walk around your building or street, or look from windows and the balcony",
    "context": "This is a bingo game to play on a walk. You tick off plants of each kind as you spot them.",
    "setup": [
     {
-     "art": "A printed bingo card with a 4 by 4 grid of plant pictures: tree, shrub, herb, climber, creeper, grass and some use pictures like a fruit and shade.",
+     "art": "A printed bingo card with a 4 by 4 grid of sixteen squares, each with a few words such as 'A herb you can smell' or 'A plant that gives us fruit'.",
      "caption": "1. Print or draw a bingo card for each player."
     },
     {
@@ -921,7 +922,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Walk slowly around your street, building or park. Stop at each plant someone points out.",
+     "do": "Walk slowly around your street, building or park, or look from the windows and balcony. Stop at each plant someone points out.",
      "say": "What have you found? How do you know they're a climber and not a creeper?",
      "kid": "Look high and low. Point at a plant. Say why they fit a square.",
      "adult": true,
@@ -964,7 +965,7 @@
    "days": 1,
    "question": "Which stems can hold themselves up, and how are they different from the ones that cannot?",
    "predict": "Before you test, line up the stems from the one you think is hardest to the softest. Which ones do you think will stand up by themselves, and why do you think so?",
-   "fair_test": "To make it fair, test every stem in the same three ways, in the same order. Use pieces of about the same length, as long as you can find, at least as long as your hand. Use stems from the kitchen or ones already cut or fallen, so no plant is hurt.",
+   "fair_test": "To make it fair, test every stem in the same three ways, in the same order. Use pieces of about the same length, as long as you can find (about 30 cm is good). Use stems from the kitchen or ones already cut or fallen, so no plant is hurt.",
    "results_table": [
     "Stem",
     "Nail test: does it dent?",
@@ -983,7 +984,7 @@
      "qty": 2
     },
     {
-     "item": "a money plant stem, at least as long as a ruler, if you grow one or a neighbour can spare a cutting. Skip it if you have none",
+     "item": "a money plant stem about 30 cm long, if you grow one or a neighbour can spare a cutting. Skip it if you have none",
      "qty": 1
     },
     {
@@ -1067,7 +1068,7 @@
      "kid": "Hold each stem at the bottom. Does it stand up by itself?",
      "check": {
       "t": "mcq",
-      "q": "In the Stem Test, a long money plant stem flopped over when you held it up by its bottom end. At home, a money plant grows up a pole or a window grill. What kind of plant is a money plant?",
+      "q": "Suppose a long money plant stem flops over when you hold it up by its bottom end. At home, a money plant grows up a pole or a window grill. What kind of plant is a money plant?",
       "options": [
        "A tree",
        "A herb",
@@ -1150,7 +1151,7 @@
    "days": 1,
    "question": "How much cooler is the ground in the shade of a tree than in the sun?",
    "predict": "Before you measure, guess. Which place will be hottest: the sunny ground, the shade of a tree, or the shade of an umbrella? Why do you think so?",
-   "fair_test": "To make it fair, measure all the places at about the same time of day, on the same kind of ground. Leave the thermometer for the same time in each place, 3 minutes.",
+   "fair_test": "To make it fair, measure all the places at about the same time of day, on the same kind of ground, for example all on paving. Leave the thermometer for the same time in each place, 3 minutes.",
    "results_table": [
     "Place",
     "My guess: hottest, middle or coolest",
@@ -1298,7 +1299,7 @@
     "My guess (0 to 5)",
     "Person 1 score",
     "Person 2 score",
-    "Person 3 score",
+    "Person 3 score (if a third person smells)",
     "Middle score"
    ],
    "materials": [
@@ -1355,9 +1356,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Find the middle score for each leaf. Put the three scores in order and take the middle one.",
-     "say": "Each of us scored differently. To be fair, we take the middle score.",
-     "kid": "Put the three scores in order. The middle one is the middle score.",
+     "do": "Find the middle score for each leaf. With three scores, put them in order and take the middle one. With only two people, add the two scores instead and compare the totals.",
+     "say": "Each of us scored differently. To be fair, we take the middle score, or add our scores if there are two of us.",
+     "kid": "Put the three scores in order. The middle one is the middle score. With two people, add your scores.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: middle smell scores",
@@ -1543,7 +1544,7 @@
     }
    ],
    "record": "The six-box sheet, with at least 20 things that came from plants.",
-   "context": "In this hunt, you find everything in your home that came from a plant, and sort it by how we use it.",
+   "context": "In this hunt, you find everything in your home that came from a plant, and sort the things by how we use them.",
    "setup": [
     {
      "art": "A sheet of paper with six boxes, each with a picture: a plate, a medicine bottle, a chair, a T-shirt, a tree's shade and a question mark.",
@@ -1675,7 +1676,7 @@
      "do": "Use the rough rule: many trees grow about 2 and a half centimetres around each year. Divide the distance around by 2 and a half.",
      "say": "Here's a rough rule foresters use. Many trees get about 2 and a half centimetres fatter around, each year. So we divide.",
      "kid": "Many trees grow about 2 and a half centimetres round each year. So divide to guess the age.",
-     "parent": "This rule was made for trees in places like Britain. Trees in India grow at very different speeds. A fast teak or a slow tamarind can be very different. So the answer is a rough guess, not a fact. Say so to your child. For example, 150 cm divided by 2.5 is 60, so about 60 years old.",
+     "parent": "This is a rough rule of thumb. Trees grow at very different speeds: a fast teak and a slow tamarind can be very different. So the answer is a rough guess, not a fact. Say so to your child. For example, 150 cm divided by 2.5 is 60, so about 60 years old.",
      "check": {
       "t": "mcq",
       "q": "In Hug a Tree, a trunk measured 100 cm around. Using the rough rule of 2 and a half cm a year, about how old is the tree?",
@@ -1691,9 +1692,9 @@
     },
     {
      "id": "s4",
-     "mins": 4,
+     "mins": 6,
      "do": "Hold thin paper against the bark and rub the side of a crayon over it.",
-     "say": "Bark protects the tree, like our skin. Every kind of tree has its own bark pattern. Let's collect this one.",
+     "say": "Bark protects the tree, like our skin. Every kind of tree has its own bark pattern. Let's collect this tree's pattern.",
      "kid": "Hold paper on the bark. Rub a crayon over it. Look at the pattern!",
      "think": "Why do you think a tree needs bark? What would happen without it?"
     }
@@ -1706,7 +1707,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a piece of banana stem, about 15 cm long, sold as vazhaithandu or kele ka tana in many markets, especially in south India",
+     "item": "a piece of banana stem, about 15 cm long, sold as vazhaithandu or kele ka tana in many markets, especially in south India. Buy it fresh on the day",
      "qty": 1,
      "buy": "b-bananastem"
     },
@@ -1783,18 +1784,20 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Cut the tree twig and compare the two ends.",
+     "do": "A grown-up cuts the tree twig across. Compare the two ends.",
      "say": "Now look at the twig. Can you peel it? What is different?",
      "kid": "Look at the twig's cut end. Can you peel it? What is different?",
-     "think": "What other plants look like trees, but might not be?"
+     "think": "What other plants look like trees, but might not be?",
+     "adult": true
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Cook the banana stem, if your family eats it. It is used in curries and juice in many Indian homes.",
+     "do": "Optional: a grown-up cooks the banana stem, if your family eats it. It is used in curries and juice in many Indian homes.",
      "say": "Many families in south India cook banana stem. The banana plant gives us fruit, leaves for plates, stem for food and fibre for rope.",
      "kid": "Banana plants give fruit, leaf plates, food and rope. Which use is most surprising?",
-     "parent": "Banana leaves are used as plates, and banana fibre is made into rope, mats and even cloth."
+     "parent": "Banana leaves are used as plates, and banana fibre is made into rope, mats and even cloth.",
+     "adult": true
     }
    ]
   },
@@ -1805,7 +1808,7 @@
    "days": 2,
    "materials": [
     {
-     "item": "a young climber in a pot, like a bean or bottle gourd seedling about two weeks old, with a free shoot tip",
+     "item": "a young climber in a pot, like a bean or bottle gourd seedling about two weeks old, with a free shoot tip (sow the seeds two weeks before)",
      "qty": 1,
      "buy": "b-seeds"
     },
@@ -1818,17 +1821,16 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needed. Handle the shoot gently.",
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 13,
      "what": "Take a photo of the shoot tip from above every 30 minutes for 2 to 3 hours, or mark its position on paper."
     },
     {
      "day": 2,
-     "mins": 10,
-     "what": "Look at the photos in order. Has the tip moved in a circle? Has it found the stick?"
+     "mins": 12,
+     "what": "Look at the photos in order. Has the tip moved in a circle? Has it found the stick? Talk about how a climber differs from a tree."
     }
    ],
    "record": "Draw a dot for each position of the tip, from above, and join the dots.",
@@ -1882,7 +1884,8 @@
       "a": 1,
       "why": "A climber's shoot tip moves slowly in loops, sweeping the space around it, until it touches a support. Then it wraps around it and climbs. Picking 'the wind' is a good idea to test. If you keep the pot indoors with no breeze and it still circles, the movement comes from the plant."
      },
-     "how": "a5"
+     "how": "a5",
+     "parent": "In 2 to 3 hours the tip may not reach the stick yet. That is fine: you are looking for the slow loop, not for the grip."
     },
     {
      "id": "s4",
@@ -1910,7 +1913,6 @@
      "qty": 1
     }
    ],
-   "safety": "Coir can be scratchy. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1953,7 +1955,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Make a second bunch the same size, but do not twist it. 2. Hang a small bag from it and add coins one at a time until it pulls apart. 3. Do the same with your rope.",
+     "do": "1. Make a second bunch the same size, but do not twist it. 2. Hang a small bag from each, tied on the same way, and add coins one at a time until it pulls apart. 3. Test the loose bunch first, then your rope.",
      "say": "Let's test it. How many coins does the loose bunch hold? How many does our rope hold?",
      "kid": "Hang a bag of coins from the loose bunch. Then from your rope. Which holds more?",
      "check": {
@@ -1992,7 +1994,7 @@
      "qty": 1
     },
     {
-     "item": "the string and measuring tape from Hug a Tree",
+     "item": "a piece of string and a measuring tape or ruler",
      "qty": 1,
      "buy": "b-tape"
     },
@@ -2001,7 +2003,6 @@
      "qty": 1
     }
    ],
-   "safety": "Choose a plant near home that you can visit safely with a grown-up. Do not pick their leaves or flowers if they are in someone else's garden.",
    "schedule": [
     {
      "day": 1,
@@ -2049,7 +2050,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "Walk around and help your child choose a plant they can visit every week. Draw them, decide their kind and give them a name.",
+     "do": "Walk around with your child and help them choose a plant they can visit safely every week. Draw them, decide their kind, give them a name and make a bark or leaf rubbing. Do not pick leaves or flowers in someone else's garden.",
      "say": "Pick a plant to be your friend for four weeks. Are they a tree, a shrub, a herb, a climber or a creeper? What will you call them?",
      "kid": "Choose a plant friend. What kind are they? Draw them. Give them a name.",
      "adult": true,
@@ -2115,7 +2116,7 @@
     "It must not hurt the plant."
    ],
    "materials": [
-    "a young climber in a pot",
+    "a young climber in a pot (sow bean seeds two weeks earlier, or use the climber from the Circling Shoot)",
     "sticks, bamboo skewers, old pens, string, wool, a coat hanger, an old dupatta, newspaper rolls"
    ],
    "general": [
@@ -2125,8 +2126,7 @@
    ],
    "creative": [
     "Weave a net of string between two sticks, so tendrils have many places to grab.",
-    "Use a ladder shape made from skewers and string, so the climber can go up step by step.",
-    "Let the climber grow up a sunflower or maize plant, the way farmers in many places grow beans up maize stalks."
+    "Use a ladder shape made from skewers and string, so the climber can go up step by step."
    ],
    "your_turn": "Now design your own support. Draw it, build it, and check your climber every two days. Which way do they climb? Do they like your ladder?",
    "context": "This is a design challenge. You build a support for a climber, a plant that cannot stand up alone and needs something to hold.",
@@ -2206,7 +2206,7 @@
    ],
    "general": [
     "Plant a fast climber, like a gourd or a jasmine, and give them strings to climb up the wall.",
-    "Plant a row of shrubs, like hibiscus, in front of the wall.",
+    "Put pots of shrubs, like hibiscus, on the ground in front of the wall.",
     "Plant a tree a little way out, for shade in later years."
    ],
    "creative": [
@@ -2214,7 +2214,7 @@
     "Choose a climber that also gives food, like bitter gourd, so the shade feeds the family too.",
     "Mix a fast climber for this year with a slow tree for the future."
    ],
-   "your_turn": "Now make your own plan. Which kinds of plants did you choose? Why? Test it with the thermometer from Shade Detective, if you can.",
+   "your_turn": "Now make your own plan. Which kinds of plants did you choose? Why? Use what you learned in Shade Detective about shade to explain your choices.",
    "context": "This is a design challenge. You plan which kinds of plants to grow to shade a hot wall: trees, shrubs or climbers.",
    "setup": [
     {
@@ -2227,14 +2227,14 @@
     },
     {
      "art": "A cardboard model house with green paper leaves on strings up one wall.",
-     "caption": "3. Build a model, or test real shade with a thermometer."
+     "caption": "3. Build a model of your plan."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Find a hot wall at home or in your building. Feel it with your hand in the afternoon.",
+     "do": "Find a hot wall at home or in your building. In the afternoon, touch it briefly with the back of your hand.",
      "say": "Feel this wall. It's soaked up the sun all afternoon. How could plants help?",
      "kid": "Feel the hot wall. How could plants make it cooler?",
      "adult": true,
@@ -2414,7 +2414,7 @@
     },
     {
      "t": "match",
-     "p": "Match each thing to the plant it came from.",
+     "p": "Match each thing to the plant that gave it.",
      "pairs": [
       [
        "Cotton T-shirt",
@@ -2483,10 +2483,10 @@
        "says": "A money plant. They will climb up the balcony grill and shade our hot window."
       }
      ],
-     "ask": "Which plant would you choose? Give a reason that uses the kind of plant they are and how people use it. Then say one good point another person made.",
+     "ask": "Which plant would you choose? Give a reason that uses the kind of plant they are and how people use them. Then say one good point another person made.",
      "lines": 5,
      "a": "A strong answer links the choice to the plant's kind. A curry leaf shrub has woody stems and grows big, so they need a deep pot, but they give leaves for years. A tulsi is a herb. They grow fast in a small pot, and people use their leaves as a home remedy. A money plant is a climber, so they need the grill as a support, and they can shade a window. A strong answer then admits another person's good point.",
-     "why": "Each choice is sensible. They trade off food, medicine, shade and space. What matters is using the plant's kind to say how it will grow in one small pot."
+     "why": "Each choice is sensible. They trade off food, medicine, shade and space. What matters is using the plant's kind to say how they will grow in one small pot."
     },
     {
      "t": "mcq",
@@ -2535,39 +2535,8 @@
      "context": "This question is about the story 'The Pepper Tree That Wasn't', about a Dutch painter in Kerala in 1675."
     },
     {
-     "t": "mcq",
-     "p": "In the Shade Detective test, the sunny ground was 46 degrees and the ground under a tree was 31 degrees. How much cooler was the shade?",
-     "opts": [
-      "15 degrees",
-      "77 degrees",
-      "31 degrees"
-     ],
-     "a": 0,
-     "why": "46 minus 31 is 15. So the shade was 15 degrees cooler. Picking 77 means adding instead of taking away.",
-     "how": "e2",
-     "context": "In Shade Detective, you measured the ground temperature in the sun and in shade with a thermometer.",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example: ground temperature",
-      "x": "Place",
-      "y": "Temperature (degrees Celsius)",
-      "data": [
-       {
-        "label": "Sun",
-        "value": 46,
-        "emoji": "☀️"
-       },
-       {
-        "label": "Under tree",
-        "value": 31,
-        "emoji": "🌳"
-       }
-      ]
-     }
-    },
-    {
      "t": "write",
-     "p": "Kavya, a girl in Class 4, puts a thermometer on the ground in three places at noon: in the sun, under an umbrella and under a neem tree. Predict which place will be coolest, and explain why.",
+     "p": "Tara, a girl in Class 4, puts a thermometer on the ground in three places at noon: in the sun, under an umbrella and under a neem tree. Predict which place will be coolest, and explain why.",
      "lines": 4,
      "a": "Under the neem tree will be coolest. The umbrella and the tree both block the sunlight. But the tree's leaves also let out water, and water turning into vapour takes heat away. So the air under the tree is cooled twice over.",
      "why": "A strong answer says both block the Sun, and then gives the extra reason for the tree: water evaporating from the leaves cools them and the air around them.",
@@ -2580,18 +2549,6 @@
      "lines": 4,
      "a": "Creeping helps because the plant does not spend food on a stem strong enough to stand up. They can spread fast over the open sand and catch lots of sunlight. Their leaves also shade the sand, which keeps it a little damp. The danger is that animals and people can step on them or eat them, and taller plants nearby can shade them.",
      "why": "A strong answer gives a good point and a bad point. Every way of growing has a cost as well as a gain."
-    },
-    {
-     "t": "mcq",
-     "p": "Bamboo grows taller than a house. Which clue shows that bamboo is a grass, not a tree?",
-     "opts": [
-      "Their stem is hollow with joints, and it never grows fatter year after year",
-      "Bamboo has green leaves",
-      "Bamboo is very tall",
-      "Bamboo grows in India"
-     ],
-     "a": 0,
-     "why": "A tree trunk adds a new layer of wood every year, so it grows fatter. A bamboo stem is hollow and jointed, like a wheat stalk, and stays the same thickness. Picking 'very tall' is the mistake this question tests. Height does not tell you the kind."
     },
     {
      "t": "mcq",
@@ -2647,16 +2604,6 @@
      "why": "The bigger the plant and the more leaves high above you, the more shade they give."
     },
     {
-     "t": "fill",
-     "p": "In Hug a Tree, the trunk measured 50 cm around. With the rough rule of 2 and a half cm a year, the tree is about ____ years old.",
-     "a": [
-      "20",
-      "twenty"
-     ],
-     "why": "50 divided by 2 and a half is 20. Check: 20 times 2 and a half is 50. So the tree is roughly 20 years old. Remember the rule is only a rough guess.",
-     "context": "In Hug a Tree, you measured around a tree trunk with string to guess the tree's age."
-    },
-    {
      "t": "write",
      "p": "Name three things in your home that came from plants. Say which plant, and which part of the plant, if you know.",
      "lines": 3,
@@ -2665,7 +2612,7 @@
     },
     {
      "t": "match",
-     "p": "Match each thing to the part of the plant it is made from.",
+     "p": "Match each thing to the part of the plant that gave it.",
      "pairs": [
       [
        "Jute sack",
@@ -2722,6 +2669,21 @@
      "why": "Sorting real plants you can see is harder than sorting names. The labels show which stem clue you used.",
      "context": "In the Plant Count, you count the trees, shrubs, herbs, climbers and creepers you can see from home.",
      "how": "a1"
+    },
+    {
+     "t": "write",
+     "p": "A friend says, 'Every plant with a green stem is a herb.' In the Stem Test, how could you find out if your friend is right?",
+     "lines": 4,
+     "a": "Press a fingernail into the stem and bend it. A young stem from a tree can be green too, but it is firmer than a herb stem and turns woody with age. A green stem that does not dent and snaps when bent has wood in it, so it is not a herb.",
+     "why": "A strong answer uses the tests from the experiment (dent, bend, stand) as evidence, not the colour alone.",
+     "context": "In the Stem Test, you pressed, bent and held up pieces of stem to find out which were woody.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A climber needs less food to build a stem than a tree needs to build a trunk, so a climber can grow long quickly.",
+     "a": true,
+     "why": "True. A thin stem costs little food, because a climber uses a tree, a wall or a stick to hold it up. A tree spends food on wood, year after year."
     }
    ]
   },
@@ -2824,19 +2786,6 @@
      "why": "This is a real question. India and other countries have laws about sharing benefits from plants with the people who knew them first."
     },
     {
-     "t": "mcq",
-     "p": "In the Smell Test, three people gave mint the scores 3, 5 and 4. What is the middle score?",
-     "opts": [
-      "3",
-      "4",
-      "5"
-     ],
-     "a": 1,
-     "why": "Put them in order: 3, 4, 5. The middle one is 4. Using the middle stops one very high or very low score from changing the result too much.",
-     "how": "e3",
-     "context": "In the Smell Test, each person scored the smell of crushed leaves from 0 to 5."
-    },
-    {
      "t": "order",
      "p": "Put these in order of when they first appeared on Earth, oldest first: flowering plants, the first trees, the first tiny land plants.",
      "a": [
@@ -2861,20 +2810,6 @@
     },
     {
      "t": "mcq",
-     "p": "In the Banana Plant Puzzle, a grown-up cut across a banana stem. Inside were soft, rolled layers, and no wood at all. Which conclusion fits best?",
-     "opts": [
-      "The banana is a giant herb, because their stem has no wood",
-      "The banana is a tree, because they are tall",
-      "The banana is a shrub, because they have leaves",
-      "The banana is a climber, because the layers wrap round"
-     ],
-     "a": 0,
-     "why": "The kind of plant is decided by the stem. A tree's trunk is wood. A banana's 'trunk' is rolled leaf bottoms, soft and full of water. So botanists call the banana a giant herb. Picking 'tree' trusts the height, not the evidence inside.",
-     "context": "In the Banana Plant Puzzle, you cut open a banana stem from the market to see whether it has any wood inside.",
-     "how": "a4"
-    },
-    {
-     "t": "mcq",
      "p": "About 390 million years ago, plants that could make wood began to grow much taller than all the others. Why did wood let them grow tall?",
      "opts": [
       "Wood is stiff and strong, so a woody stem can hold leaves high up in the light",
@@ -2884,6 +2819,13 @@
      ],
      "a": 0,
      "why": "The lignin in wood makes the stem stiff. A stiff stem can stand tall and lift leaves above the plants around them, where they catch more light. Picking 'heavy' misses the point. Wood is strong for its weight, not just heavy."
+    },
+    {
+     "t": "write",
+     "p": "Scientists think about 9,000 kinds of trees have not yet been found and named. Why might nobody have found them yet?",
+     "lines": 4,
+     "a": "They may grow in places few botanists have visited, like remote hills and thick rainforest, or only at the very tops of tall trees. There are also far fewer botanists than there are places to search.",
+     "why": "A strong answer gives a reason about where trees grow and who looks for them."
     }
    ]
   }
@@ -2926,20 +2868,6 @@
    "a": 1,
    "why": "A watermelon plant spreads along the ground. Picking 'tulsi' often means thinking every small plant creeps. Tulsi stands up by themselves. Neem is a tree, and bamboo is a tall grass.",
    "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "Arjun, a boy in Class 3, pressed a stem with his fingernail. It did not dent. When he bent it, it snapped. What kind of stem is it most likely?",
-   "opts": [
-    "Woody, from a tree or shrub",
-    "Soft, from a herb",
-    "From a creeper"
-   ],
-   "a": 0,
-   "why": "Woody stems are hard and often snap. Herb stems are soft and flop. Picking 'creeper' means mixing up stiffness with where the plant grows.",
-   "outcome": 1,
-   "how": "e1",
-   "context": "In the Stem Test, you pressed, bent and held up pieces of stem."
   },
   {
    "t": "mcq",
@@ -3149,14 +3077,10 @@
   "That plant is growing out of a wall. How did they get there?",
   "Is there anything in this room that did not come from a plant, or a rock, or oil?",
   "How is that climber holding on?",
-  "Is that tree older than me? Older than Paati? How could we guess?",
+  "Is that tree older than me? Older than the oldest person you know? How could we guess?",
   "Who planted the trees on this road, and why?"
  ],
  "jokes": [
-  {
-   "j": "Why did the climber always do well in school?",
-   "a": "They knew how to get to the top without a trunk."
-  },
   {
    "j": "What did the tree say to the climber?",
    "a": "Lean on me."
@@ -3168,18 +3092,6 @@
   {
    "j": "What kind of tree fits in your hand?",
    "a": "A palm tree."
-  },
-  {
-   "j": "Why did the pumpkin never climb the stairs?",
-   "a": "They were a creeper, not a climber."
-  },
-  {
-   "j": "Why did the shrub skip the tree meeting?",
-   "a": "They had too many stems to choose one trunk."
-  },
-  {
-   "j": "Why did the herb go to the doctor?",
-   "a": "They felt a little soft in the stem."
   },
   {
    "j": "Why was the banana plant so embarrassed?",
@@ -3194,40 +3106,12 @@
    "a": "I'm just a grass, but I'm taller than you!"
   },
   {
-   "j": "Why did the bamboo get invited to the grass party?",
-   "a": "Because they are a grass too, just a very tall one."
-  },
-  {
    "j": "What is a tree's favourite drink?",
    "a": "Root beer."
   },
   {
-   "j": "Why did the leaf go to the doctor?",
-   "a": "It was feeling green."
-  },
-  {
-   "j": "Why did the money plant love the window grill?",
-   "a": "They finally had something to hold on to."
-  },
-  {
-   "j": "Why did the pumpkin lie down all day?",
-   "a": "Their stem was too thin to stand up."
-  },
-  {
-   "j": "What do trees do on their birthday?",
-   "a": "They add another ring."
-  },
-  {
-   "j": "Why was the tendril so good at hugs?",
-   "a": "It never let go."
-  },
-  {
    "j": "What did the coconut palm say to the storm?",
    "a": "Leaf me alone!"
-  },
-  {
-   "j": "What did the pepper vine say to the jackfruit?",
-   "a": "I've got your back. Well, you've got mine."
   },
   {
    "j": "Why don't plants ever get lost?",
@@ -3288,7 +3172,7 @@
    "math_unit": "math.temperature.reading-thermometers.L3",
    "how": "e2",
    "context": "This is about Shade Detective. You measured how hot the ground was in the sun and in a tree's shade with a thermometer.",
-   "why_maths": "Taking one temperature from the other tells us exactly how much a tree cools the ground, not just that it feels cooler."
+   "why_maths": "Taking one temperature from the other tells us exactly how much a tree cools the ground, not just that the shade feels cooler."
   },
   {
    "problem": "In Hug a Tree, a neem trunk measured 150 cm around. Using the rough rule that many trees grow 2 and a half cm around each year, about how old are they?",
@@ -3399,18 +3283,16 @@
    "used_in": [
     "e1",
     "g2"
-   ],
-   "plan": "Used again in Plant Parts L3 and in many nature walks."
+   ]
   },
   {
    "id": "b-thermo",
    "item": "Simple digital thermometer",
    "kind": "tool",
-   "why": "To measure the ground temperature in sun and shade in Shade Detective and Cool the Hot Wall.",
+   "why": "To measure the ground temperature in sun and shade in Shade Detective.",
    "url": "https://www.amazon.in/s?k=digital+thermometer+outdoor+probe",
    "used_in": [
-    "e2",
-    "c2"
+    "e2"
    ]
   },
   {
@@ -3455,7 +3337,7 @@
    "used_in": [
     "a4"
    ],
-   "plan": "Buy it fresh from a local market if you can. Cook it afterwards."
+   "plan": "Buy it fresh from a local market on the day you do the activity."
   },
   {
    "id": "b-book-trees",

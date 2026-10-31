@@ -1,0 +1,596 @@
+{
+ "tags": [
+  {
+   "id": "math:count-place-value",
+   "subj": "math",
+   "name": "Counting and place value",
+   "chapters": [
+    "cam|math|1|1",
+    "cam|math|2|1",
+    "cam|math|3|1",
+    "cam|math|4|1",
+    "cam|math|5|1",
+    "ncert|math|1|5",
+    "ncert|math|1|8",
+    "ncert|math|2|3",
+    "ncert|math|3|1",
+    "ncert|math|3|3",
+    "ncert|math|3|6",
+    "ncert|math|3|9",
+    "ncert|math|4|4",
+    "ncert|math|5|1",
+    "ncert|math|5|4"
+   ]
+  },
+  {
+   "id": "math:add-subtract",
+   "subj": "math",
+   "name": "Adding and subtracting",
+   "chapters": [
+    "cam|math|1|1",
+    "cam|math|2|1",
+    "cam|math|3|1",
+    "cam|math|4|1",
+    "cam|math|5|1",
+    "ncert|math|1|4",
+    "ncert|math|1|8",
+    "ncert|math|2|3",
+    "ncert|math|2|7",
+    "ncert|math|3|3",
+    "ncert|math|3|6",
+    "ncert|math|3|9",
+    "ncert|math|3|12",
+    "ncert|math|4|4"
+   ]
+  },
+  {
+   "id": "math:multiply-divide",
+   "subj": "math",
+   "name": "Multiplying and dividing",
+   "chapters": [
+    "cam|math|2|1",
+    "cam|math|3|1",
+    "cam|math|4|1",
+    "cam|math|5|1",
+    "ncert|math|1|11",
+    "ncert|math|2|8",
+    "ncert|math|3|2",
+    "ncert|math|3|7",
+    "ncert|math|4|9",
+    "ncert|math|4|10",
+    "ncert|math|5|6",
+    "ncert|math|5|9",
+    "ncert|math|5|13"
+   ]
+  },
+  {
+   "id": "math:fractions-sharing",
+   "subj": "math",
+   "name": "Fractions and sharing",
+   "chapters": [
+    "cam|math|3|1",
+    "cam|math|4|1",
+    "cam|math|5|1",
+    "ncert|math|2|8",
+    "ncert|math|3|8",
+    "ncert|math|4|5",
+    "ncert|math|5|2"
+   ]
+  },
+  {
+   "id": "math:money",
+   "subj": "math",
+   "name": "Money",
+   "chapters": [
+    "cam|math|1|1",
+    "cam|math|2|1",
+    "cam|math|3|1",
+    "cam|math|4|1",
+    "cam|math|5|1",
+    "ncert|math|1|12",
+    "ncert|math|2|7",
+    "ncert|math|2|10",
+    "ncert|math|3|2",
+    "ncert|math|3|14"
+   ]
+  },
+  {
+   "id": "math:time-calendar",
+   "subj": "math",
+   "name": "Time and calendar",
+   "chapters": [
+    "cam|math|1|2",
+    "cam|math|2|2",
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|1|10",
+    "ncert|math|2|9",
+    "ncert|math|3|13",
+    "ncert|math|4|12",
+    "ncert|math|5|12"
+   ]
+  },
+  {
+   "id": "math:measure-length",
+   "subj": "math",
+   "name": "Measuring length",
+   "chapters": [
+    "cam|math|1|2",
+    "cam|math|2|2",
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|1|2",
+    "ncert|math|4|6",
+    "ncert|math|5|5"
+   ]
+  },
+  {
+   "id": "math:weight",
+   "subj": "math",
+   "name": "Weight",
+   "chapters": [
+    "cam|math|1|2",
+    "cam|math|2|2",
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|3|11",
+    "ncert|math|4|8",
+    "ncert|math|5|8"
+   ]
+  },
+  {
+   "id": "math:capacity",
+   "subj": "math",
+   "name": "Capacity",
+   "chapters": [
+    "cam|math|1|2",
+    "cam|math|2|2",
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|3|11",
+    "ncert|math|4|8",
+    "ncert|math|5|8"
+   ]
+  },
+  {
+   "id": "math:shapes-space",
+   "subj": "math",
+   "name": "Shapes and space",
+   "chapters": [
+    "cam|math|1|2",
+    "cam|math|2|2",
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|2|2",
+    "ncert|math|2|4",
+    "ncert|math|2|5",
+    "ncert|math|3|5",
+    "ncert|math|4|1",
+    "ncert|math|5|3",
+    "ncert|math|5|7"
+   ]
+  },
+  {
+   "id": "math:patterns",
+   "subj": "math",
+   "name": "Patterns",
+   "chapters": [
+    "cam|math|1|4",
+    "cam|math|2|4",
+    "cam|math|3|4",
+    "cam|math|4|4",
+    "cam|math|5|4",
+    "ncert|math|2|6",
+    "ncert|math|4|3",
+    "ncert|math|5|7",
+    "ncert|math|5|10",
+    "ncert|math|5|11"
+   ]
+  },
+  {
+   "id": "math:data-graphs",
+   "subj": "math",
+   "name": "Data and graphs",
+   "chapters": [
+    "cam|math|1|3",
+    "cam|math|2|3",
+    "cam|math|3|3",
+    "cam|math|4|3",
+    "cam|math|5|3",
+    "ncert|math|2|11",
+    "ncert|math|3|10",
+    "ncert|math|4|14",
+    "ncert|math|5|15"
+   ]
+  },
+  {
+   "id": "math:direction-maps",
+   "subj": "math",
+   "name": "Direction and maps",
+   "chapters": [
+    "cam|math|2|2",
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|1|1",
+    "ncert|math|4|2",
+    "ncert|math|5|14"
+   ]
+  },
+  {
+   "id": "math:estimation",
+   "subj": "math",
+   "name": "Estimation",
+   "chapters": [
+    "cam|math|2|1",
+    "cam|math|3|1",
+    "cam|math|4|1",
+    "cam|math|5|1",
+    "ncert|math|1|5",
+    "ncert|math|4|4",
+    "ncert|math|5|5",
+    "ncert|math|5|8"
+   ]
+  },
+  {
+   "id": "math:symmetry",
+   "subj": "math",
+   "name": "Symmetry",
+   "chapters": [
+    "cam|math|3|2",
+    "cam|math|4|2",
+    "cam|math|5|2",
+    "ncert|math|2|6",
+    "ncert|math|4|11",
+    "ncert|math|5|10"
+   ]
+  },
+  {
+   "id": "math:problem-solving",
+   "subj": "math",
+   "name": "Problem solving",
+   "chapters": [
+    "cam|math|1|4",
+    "cam|math|2|4",
+    "cam|math|3|4",
+    "cam|math|4|4",
+    "cam|math|5|4",
+    "ncert|math|3|14",
+    "ncert|math|4|7",
+    "ncert|math|4|10",
+    "ncert|math|4|13"
+   ]
+  },
+  {
+   "id": "eng:speak-listen",
+   "subj": "eng",
+   "name": "Speaking and listening",
+   "chapters": [
+    "cam|eng|1|3",
+    "cam|eng|2|3",
+    "cam|eng|3|3",
+    "cam|eng|4|3",
+    "cam|eng|5|3",
+    "ncert|eng|1|1",
+    "ncert|eng|1|2",
+    "ncert|eng|2|3",
+    "ncert|eng|2|5",
+    "ncert|eng|3|3",
+    "ncert|eng|4|1"
+   ]
+  },
+  {
+   "id": "eng:new-words",
+   "subj": "eng",
+   "name": "New words",
+   "chapters": [
+    "cam|eng|1|1",
+    "cam|eng|2|1",
+    "cam|eng|3|1",
+    "cam|eng|4|1",
+    "cam|eng|5|1",
+    "ncert|eng|1|3",
+    "ncert|eng|1|6",
+    "ncert|eng|1|7",
+    "ncert|eng|2|2",
+    "ncert|eng|3|1",
+    "ncert|eng|4|6",
+    "ncert|eng|5|9"
+   ]
+  },
+  {
+   "id": "eng:read-stories",
+   "subj": "eng",
+   "name": "Reading stories",
+   "chapters": [
+    "cam|eng|1|1",
+    "cam|eng|2|1",
+    "cam|eng|3|1",
+    "cam|eng|4|1",
+    "cam|eng|5|1",
+    "ncert|eng|1|4",
+    "ncert|eng|1|9",
+    "ncert|eng|2|4",
+    "ncert|eng|2|5",
+    "ncert|eng|2|10",
+    "ncert|eng|2|11",
+    "ncert|eng|3|2",
+    "ncert|eng|3|3",
+    "ncert|eng|3|5",
+    "ncert|eng|3|7",
+    "ncert|eng|3|9",
+    "ncert|eng|4|2",
+    "ncert|eng|4|5",
+    "ncert|eng|4|8",
+    "ncert|eng|4|9",
+    "ncert|eng|4|11",
+    "ncert|eng|5|1",
+    "ncert|eng|5|2",
+    "ncert|eng|5|4",
+    "ncert|eng|5|7",
+    "ncert|eng|5|8",
+    "ncert|eng|5|10"
+   ]
+  },
+  {
+   "id": "eng:poems-rhymes",
+   "subj": "eng",
+   "name": "Poems and rhymes",
+   "chapters": [
+    "cam|eng|1|1",
+    "cam|eng|2|1",
+    "cam|eng|3|1",
+    "cam|eng|4|1",
+    "cam|eng|5|1",
+    "ncert|eng|1|1",
+    "ncert|eng|1|5",
+    "ncert|eng|2|1",
+    "ncert|eng|2|3",
+    "ncert|eng|2|8",
+    "ncert|eng|2|12",
+    "ncert|eng|3|1",
+    "ncert|eng|3|6",
+    "ncert|eng|3|8",
+    "ncert|eng|3|10",
+    "ncert|eng|3|11",
+    "ncert|eng|4|10",
+    "ncert|eng|5|3",
+    "ncert|eng|5|5"
+   ]
+  },
+  {
+   "id": "eng:write-sentences",
+   "subj": "eng",
+   "name": "Writing sentences",
+   "chapters": [
+    "cam|eng|1|2",
+    "cam|eng|2|2",
+    "cam|eng|3|2",
+    "cam|eng|4|2",
+    "cam|eng|5|2",
+    "ncert|eng|1|3",
+    "ncert|eng|2|2",
+    "ncert|eng|2|9"
+   ]
+  },
+  {
+   "id": "eng:write-story-letter",
+   "subj": "eng",
+   "name": "Writing a story or letter",
+   "chapters": [
+    "cam|eng|2|2",
+    "cam|eng|3|2",
+    "cam|eng|4|2",
+    "cam|eng|5|2",
+    "ncert|eng|2|5"
+   ]
+  },
+  {
+   "id": "eng:grammar-in-use",
+   "subj": "eng",
+   "name": "Grammar in use",
+   "chapters": [
+    "cam|eng|2|2",
+    "cam|eng|3|2",
+    "cam|eng|4|2",
+    "cam|eng|5|2"
+   ]
+  },
+  {
+   "id": "eng:describing",
+   "subj": "eng",
+   "name": "Describing things",
+   "chapters": [
+    "ncert|eng|1|7",
+    "ncert|eng|1|8",
+    "ncert|eng|2|6",
+    "ncert|eng|2|7",
+    "ncert|eng|2|8",
+    "ncert|eng|3|1",
+    "ncert|eng|3|4",
+    "ncert|eng|4|11",
+    "ncert|eng|4|12",
+    "ncert|eng|5|3",
+    "ncert|eng|5|6"
+   ]
+  },
+  {
+   "id": "hin:speak-listen",
+   "subj": "hin",
+   "name": "Speaking and listening (बोलना और सुनना)",
+   "chapters": [
+    "ncert|hin|1|1",
+    "ncert|hin|1|2",
+    "ncert|hin|1|3",
+    "ncert|hin|2|10",
+    "ncert|hin|2|20",
+    "ncert|hin|3|17",
+    "ncert|hin|3|18"
+   ]
+  },
+  {
+   "id": "hin:new-words",
+   "subj": "hin",
+   "name": "New words (नए शब्द)",
+   "chapters": [
+    "ncert|hin|1|9",
+    "ncert|hin|1|11",
+    "ncert|hin|2|9",
+    "ncert|hin|3|1",
+    "ncert|hin|3|3",
+    "ncert|hin|4|4",
+    "ncert|hin|4|10",
+    "ncert|hin|5|8"
+   ]
+  },
+  {
+   "id": "hin:read-stories",
+   "subj": "hin",
+   "name": "Reading stories (कहानी पढ़ना)",
+   "chapters": [
+    "ncert|hin|1|4",
+    "ncert|hin|1|6",
+    "ncert|hin|1|8",
+    "ncert|hin|2|1",
+    "ncert|hin|2|5",
+    "ncert|hin|2|7",
+    "ncert|hin|2|8",
+    "ncert|hin|2|11",
+    "ncert|hin|2|12",
+    "ncert|hin|2|18",
+    "ncert|hin|2|21",
+    "ncert|hin|3|6",
+    "ncert|hin|3|8",
+    "ncert|hin|3|11",
+    "ncert|hin|3|14",
+    "ncert|hin|4|2",
+    "ncert|hin|4|5",
+    "ncert|hin|4|7",
+    "ncert|hin|4|9",
+    "ncert|hin|4|12",
+    "ncert|hin|5|2",
+    "ncert|hin|5|3",
+    "ncert|hin|5|6",
+    "ncert|hin|5|9",
+    "ncert|hin|5|10"
+   ]
+  },
+  {
+   "id": "hin:poems-rhymes",
+   "subj": "hin",
+   "name": "Poems and rhymes (कविता)",
+   "chapters": [
+    "ncert|hin|1|7",
+    "ncert|hin|1|10",
+    "ncert|hin|1|14",
+    "ncert|hin|1|17",
+    "ncert|hin|1|18",
+    "ncert|hin|1|19",
+    "ncert|hin|2|4",
+    "ncert|hin|2|13",
+    "ncert|hin|2|17",
+    "ncert|hin|2|26",
+    "ncert|hin|3|2",
+    "ncert|hin|3|4",
+    "ncert|hin|3|15",
+    "ncert|hin|4|1",
+    "ncert|hin|4|11"
+   ]
+  },
+  {
+   "id": "hin:writing",
+   "subj": "hin",
+   "name": "Writing sentences, letters and stories (लिखना)",
+   "chapters": [
+    "ncert|hin|3|7",
+    "ncert|hin|4|6",
+    "ncert|hin|5|7"
+   ]
+  },
+  {
+   "id": "hin:describing",
+   "subj": "hin",
+   "name": "Describing things (वर्णन करना)",
+   "chapters": [
+    "ncert|hin|1|5",
+    "ncert|hin|1|13",
+    "ncert|hin|1|15",
+    "ncert|hin|2|3",
+    "ncert|hin|2|9",
+    "ncert|hin|2|22",
+    "ncert|hin|3|5",
+    "ncert|hin|3|9",
+    "ncert|hin|4|3",
+    "ncert|hin|4|8",
+    "ncert|hin|4|13",
+    "ncert|hin|5|11",
+    "ncert|hin|5|12"
+   ]
+  },
+  {
+   "id": "social:family-community",
+   "subj": "social",
+   "name": "Family and community",
+   "chapters": []
+  },
+  {
+   "id": "social:festivals-culture",
+   "subj": "social",
+   "name": "Festivals and culture",
+   "chapters": []
+  },
+  {
+   "id": "social:history-past",
+   "subj": "social",
+   "name": "History and the past",
+   "chapters": []
+  },
+  {
+   "id": "social:maps-places",
+   "subj": "social",
+   "name": "Maps and places",
+   "chapters": []
+  },
+  {
+   "id": "social:regions-languages",
+   "subj": "social",
+   "name": "India's regions and languages",
+   "chapters": []
+  },
+  {
+   "id": "social:jobs-people-do",
+   "subj": "social",
+   "name": "Jobs people do",
+   "chapters": []
+  },
+  {
+   "id": "social:money-markets",
+   "subj": "social",
+   "name": "Money and markets",
+   "chapters": []
+  },
+  {
+   "id": "social:rules-safety",
+   "subj": "social",
+   "name": "Rules and safety",
+   "chapters": []
+  },
+  {
+   "id": "social:transport",
+   "subj": "social",
+   "name": "Transport",
+   "chapters": []
+  },
+  {
+   "id": "social:water-resources",
+   "subj": "social",
+   "name": "Water and resources",
+   "chapters": []
+  }
+ ]
+}

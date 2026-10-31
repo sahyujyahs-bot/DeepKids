@@ -194,6 +194,16 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'research', '*.json'))):
     if e: print('research skipped', os.path.basename(f), e[:3]); continue
     data['research'].append(r)
 print('research:', len(data['research']))
+# learning from life (app/content/life): everyday activities, each linked to science units and to maths, English,
+# Hindi and social topic tags; a link to anything that doesn't exist is dropped
+LIFE = os.path.join(APP, 'content', 'life')
+if os.path.exists(os.path.join(LIFE, 'tags.json')):
+    tags = json.load(open(os.path.join(LIFE, 'tags.json')))['tags']
+    ok = {t['id'] for t in tags} | {'unit|' + k for k in data['units']}
+    acts = [a for f in sorted(glob.glob(os.path.join(LIFE, 'acts-*.json'))) for a in json.load(open(f))['acts']]
+    for a in acts: a['links'] = [l for l in a['links'] if l['k'] in ok]
+    data['life'] = {'tags': tags, 'acts': [a for a in acts if a['links']]}
+    print('life:', len(data['life']['acts']), 'activities,', len(tags), 'tags')
 data['combined'] = plan
 data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))
