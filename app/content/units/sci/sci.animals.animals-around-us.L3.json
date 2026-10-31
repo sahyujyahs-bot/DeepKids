@@ -490,9 +490,27 @@
      "items": [
       "Crow",
       "Baya weaver bird",
-      "Tailorbird",
-      "Rock pigeon",
-      "Honey bee",
+      {
+       "f": "Tailorbird",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-02.jpg",
+        "credit": "Pearson Scott Foresman, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Rock pigeon",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-03.jpg",
+        "credit": "Trougnouf, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Honey bee",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-04.jpg",
+        "credit": "John Severns (Severnjc), Public domain, via Wikimedia Commons"
+       }
+      },
       "Termite",
       "Spider",
       "Owl",
@@ -512,7 +530,13 @@
      "items": [
       "A stick nest in a tree, sometimes with wire",
       "A hanging nest woven from grass",
-      "Two leaves stitched together",
+      {
+       "f": "Two leaves stitched together",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-02.jpg",
+        "credit": "Mike Prince from Bangalore, India, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "A flat nest on a window ledge",
       "A wax hive with six-sided rooms",
       "A tall mound of soil",
@@ -701,7 +725,11 @@
       },
       {
        "f": "Pigeon",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-08.jpg",
+        "credit": "Trougnouf, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Cockroach",
@@ -709,7 +737,11 @@
       },
       {
        "f": "Honey bee",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-10.jpg",
+        "credit": "John Severns (Severnjc), Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Jackal",
