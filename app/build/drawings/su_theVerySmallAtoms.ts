@@ -149,13 +149,17 @@ const e2_0 = (c: Ctx) => {
   adultHand(c, 125, 225, 0.1, 1.5);
   adultHand(c, 958, 225, Math.PI - 0.1, 1.5);
 };
-// setup.e2.1
+// setup.e2.1  (side view: a hand rolls a marble along the floor into the dark gap under the raised card)
 const e2_1 = (c: Ctx) => {
-  marbleScene(c, false);
-  marble(c, 430, 940, 40);
-  arrow(c, [[430, 880], [430, 790]], RED, 14);
-  childHand(c, 430, 1100, -Math.PI / 2, 1.6);
-  marble(c, 450, 392, 28); marble(c, 520, 372, 24, COL.teal);
+  floor(c);
+  tumbler(c, 600, 650, 90, 190); tumbler(c, 780, 650, 90, 190);
+  c.fillStyle = "rgba(43,35,64,0.9)"; c.beginPath(); polyP(c, [[575, 520], [805, 520], [835, 830], [545, 830]]); c.fill();
+  tumbler(c, 520, 860, 120, 330); tumbler(c, 860, 860, 120, 330);
+  cardboard(c, [[480, 420], [900, 420], [950, 505], [430, 505]], 26);
+  marble(c, 320, 790, 44);
+  arrow(c, [[385, 790], [455, 790]], RED, 14);
+  childHand(c, 120, 735, 0.2, 1.4);
+  marble(c, 990, 800, 40, COL.teal);
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {

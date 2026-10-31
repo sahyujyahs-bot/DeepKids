@@ -5,7 +5,7 @@ import { COL, INK, WHITE, RED, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrec
 
 const CUPG = "rgba(214,236,250,0.28)";
 const CHS = "#ecd08e", CHSD = "#cfa95e", CH = "#d9a45a", CHD = "#b57f36";
-const BOIL = "#a9b36b", BOILD = "#7f8a4a";
+const BOIL = "#cfc983", BOILD = "#a39a52";
 
 const dropP = (c: Ctx, x: number, y: number, s: number) => { c.moveTo(x, y - 1.3 * s); c.bezierCurveTo(x + 0.3 * s, y - 0.6 * s, x + s, y - 0.2 * s, x + s, y + 0.4 * s); c.bezierCurveTo(x + s, y + 1.3 * s, x - s, y + 1.3 * s, x - s, y + 0.4 * s); c.bezierCurveTo(x - s, y - 0.2 * s, x - 0.3 * s, y - 0.6 * s, x, y - 1.3 * s); c.closePath(); };
 const dropAt = (c: Ctx, x: number, y: number, s: number, col: string = COL.water) => shape(c, () => dropP(c, x, y, s), col, Math.max(3, s * 0.15));
@@ -17,7 +17,7 @@ const chana = (c: Ctx, x: number, y: number, r: number, rot: number, soaked = fa
   c.save(); c.beginPath(); ell(c, x, y, r, r * 0.88, rot); c.clip(); c.beginPath(); ell(c, x + r * 0.35, y + r * 0.3, r, r * 0.88, rot); c.fillStyle = d; c.globalAlpha = 0.55; c.fill(); c.restore(); c.globalAlpha = 1;
   line(c, [[x - r * 0.1, y - r * 0.55], [x + r * 0.15, y - r * 0.25], [x + r * 0.05, y + r * 0.05]], Math.max(2, r * 0.13), d);
 };
-const boiledMoong = (c: Ctx, x: number, y: number, r: number, rot: number) => seed(c, x, y, r, rot, true, BOIL, BOILD);
+const boiledMoong = (c: Ctx, x: number, y: number, r: number, rot: number) => { seed(c, x, y, r, rot, true, BOIL, BOILD); line(c, [[x - Math.cos(rot) * r * 0.5, y - Math.sin(rot) * r * 0.5 + r * 0.2], [x + Math.cos(rot) * r * 0.5, y + Math.sin(rot) * r * 0.5 + r * 0.2]], Math.max(2, r * 0.2), "#f3e7a0"); };
 
 // a heap of seeds in a mouth (ellipse rx, ry at x, y) rising hm above it; one(x, y, rot) draws a seed
 const heap = (c: Ctx, x: number, y: number, rx: number, ry: number, hm: number, one: (sx: number, sy: number, rot: number) => void, base: string, cnt: number, sd: number) => {
@@ -182,7 +182,7 @@ const thermo = (c: Ctx, x: number, y0: number, y1: number, redTop: number) => {
   for (let yy = y1 + 36, k = 0; yy < y0 - 12; yy += 24, k++) line(c, [[x + 12, yy], [x + (k % 5 === 0 ? 34 : 24), yy]], 4);
 };
 // a steel flask, bottom centre (x, y), full of moong, a thermometer standing in it, a loose cotton plug
-const flask = (c: Ctx, x: number, y: number, w: number, h: number, live: boolean, tubeTop: number, redTop: number) => {
+const flask = (c: Ctx, x: number, y: number, w: number, h: number, live: boolean, tubeTop: number, redTop: number, lift = 0) => {
   shadow(c, x + w * 0.1, y + 8, w * 0.62, w * 0.1);
   const top = y - h, body = () => rrect(c, x - w / 2, top, w, h, 40);
   shape(c, body, COL.steel); shade(c, body, COL.steelDk, w * 0.2, 0);
@@ -190,8 +190,9 @@ const flask = (c: Ctx, x: number, y: number, w: number, h: number, live: boolean
   shape(c, () => ell(c, x, top, w / 2, 40), COL.steelIn, 6);
   shape(c, () => ell(c, x, top, w * 0.43, 30), "#4a4358", 0);
   heap(c, x, top, w * 0.42, 30, 50, (sx, sy, rt) => (live ? seed(c, sx, sy, 17, rt, true) : boiledMoong(c, sx, sy, 17, rt)), live ? COL.greenDk : BOILD, 34, 3);
-  thermo(c, x + 30, top + 6, tubeTop, redTop);
-  [[-26, 4, 24], [4, -8, 28], [26, 4, 22]].forEach(([dx, dy, r]) => shape(c, () => ell(c, x + 30 + dx, top + dy, r, r * 0.85), WHITE, 4));
+  thermo(c, x + 30, top + 6 - lift, tubeTop - lift, redTop - lift);
+  // a fluffy cotton plug resting loosely in the mouth (left out while the thermometer is still being pushed in)
+  if (!lift) [[-40, 6, 26], [-14, -6, 30], [16, -4, 30], [42, 8, 26], [0, 14, 28]].forEach(([dx, dy, r]) => shape(c, () => ell(c, x + 30 + dx * 0.9, top + dy + 6, r, r * 0.8), COL.cloth, 4));
   // paper tag: live = a sprout, boiled = hot steam
   const ty = y - h * 0.55;
   shape(c, () => rrect(c, x - 70, ty - 56, 140, 112, 12), WHITE, 5);
@@ -206,8 +207,11 @@ const leafAt = (c: Ctx, x: number, y: number, an: number) => { const l = 46; sha
 // setup.e2.1 a LIVE flask and a BOILED flask, each full of moong with a thermometer and a loose cotton plug
 const e2_1 = (c: Ctx) => {
   ground(c);
-  flask(c, 300, 960, 300, 420, true, 230, 400);
-  flask(c, 780, 960, 300, 420, false, 230, 400);
+  flask(c, 300, 960, 300, 420, true, 270, 420, 100);
+  flask(c, 780, 960, 300, 420, false, 270, 420);
+  // a hand pushes the thermometer down into the live flask
+  hand(c, 330, 130, Math.PI / 2, 1.2);
+  arrow(c, [[470, 190], [470, 360]]);
 };
 
 const degC = (c: Ctx, t: string, x: number, y: number, h: number) => {
@@ -218,11 +222,11 @@ const degC = (c: Ctx, t: string, x: number, y: number, h: number) => {
 // setup.e2.2 reading both thermometers: the LIVE flask a little higher
 const e2_2 = (c: Ctx) => {
   ground(c);
-  flask(c, 380, 960, 300, 420, true, 200, 330);
-  flask(c, 800, 960, 300, 420, false, 200, 410);
-  degC(c, "29", 470, 300, 50);
-  degC(c, "27", 890, 380, 50);
-  hand(c, 190, 330, 0.0, 2.0, SKIN.child, CLOTH.child, true);
+  flask(c, 380, 960, 300, 420, true, 200, 300);
+  flask(c, 800, 960, 300, 420, false, 200, 420);
+  degC(c, "29", 450, 270, 56);
+  degC(c, "27", 870, 390, 56);
+  hand(c, 150, 300, 0.0, 2.0, SKIN.child, CLOTH.child, true);
 };
 
 // kitchen scale with a steel bowl of chana on it, in a 1080-wide design; text on the screen
@@ -240,20 +244,21 @@ const scaleOf = (c: Ctx, txt: string, soaked: boolean, bigHeap: number, th = 44)
 // setup.e3.0 50 g of dry chana in a steel bowl on the scale
 const e3_0 = (c: Ctx) => { ground(c); c.save(); c.translate(0, -60); scaleOf(c, "50 g", false, 110); c.restore(); };
 
-// setup.e3.1 a small clear cup filled to the brim with chana and water, the lid pressed on
+// setup.e3.1 a small clear cup filled to the brim with chana and water; a hand presses the lid on
 const e3_1 = (c: Ctx) => {
   ground(c);
-  cup(c, 540, 930, 420, 520, () => {
-    c.fillStyle = "rgba(143,195,234,0.8)"; c.fillRect(100, 430, 900, 520);
-    c.fillStyle = "rgba(95,159,211,0.4)"; c.fillRect(580, 430, 500, 520);
+  cup(c, 540, 960, 420, 520, () => {
+    c.fillStyle = "rgba(143,195,234,0.8)"; c.fillRect(100, 470, 900, 520);
+    c.fillStyle = "rgba(95,159,211,0.4)"; c.fillRect(580, 470, 500, 520);
     const r = rnd(2);
-    for (let row = 0; row < 8; row++) for (let i = 0; i < 6; i++) chana(c, 380 + i * 54 + (row % 2) * 27 + r() * 6, 470 + row * 55 + r() * 6, 29, r() * 3);
+    for (let row = 0; row < 8; row++) for (let i = 0; i < 6; i++) chana(c, 380 + i * 54 + (row % 2) * 27 + r() * 6, 510 + row * 55 + r() * 6, 29, r() * 3);
   });
-  // lid on the rim
-  shape(c, () => ell(c, 540, 410, 236, 40), COL.teal, 6);
-  shape(c, () => ell(c, 540, 396, 204, 28), COL.tealDk, 4);
-  hand(c, 250, 292, 0, 2.3, SKIN.child, CLOTH.child, true);
-  arrow(c, [[820, 190], [820, 320]]);
+  // lid on the rim, with a raised edge
+  shape(c, () => ell(c, 540, 440, 236, 40), COL.teal, 6);
+  shape(c, () => ell(c, 540, 426, 204, 28), COL.tealDk, 4);
+  // a hand pressing down flat on the lid
+  hand(c, 540, 228, Math.PI / 2, 1.9, SKIN.child, CLOTH.child, true);
+  arrow(c, [[860, 220], [860, 380]]);
 };
 
 // setup.e3.2 next day: drained chana weigh about 100 g; the lid on the cup is pushed up by swollen chana

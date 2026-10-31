@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { INK, WHITE, RED, COL, SKIN, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, glass, plate, hand, write, cards } from "./flatKit";
+import { INK, WHITE, RED, COL, SKIN, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, glass, bowl, plate, hand, write, cards } from "./flatKit";
 
 // SET-UP CARDS · sci.plants.photosynthesis.L3 · flat kit
 const TABLE = "#e8d8b6", DARK = "#2f2b63";
@@ -18,8 +18,8 @@ const whitePlate = (c: Ctx, x: number, y: number, rx: number, ry: number) => {
   shape(c, () => ell(c, x, y - ry * 0.02, rx * 0.82, ry * 0.8), "#f6f2ea", 4);
 };
 // the iodine bottle: brown glass, black rubber dropper top, a label with a drop
-const iodine = (c: Ctx, x: number, y: number) => {
-  shadow(c, x + 12, y + 4, 75, 16);
+const iodine = (c: Ctx, x: number, y: number, held = false) => {
+  if (!held) shadow(c, x + 12, y + 4, 75, 16);
   shape(c, () => rrect(c, x - 55, y - 240, 110, 240, 22), "#8a4a1c");
   shade(c, () => rrect(c, x - 55, y - 240, 110, 240, 22), "#5e2f10", -22, -4, 0.6);
   shape(c, () => rrect(c, x - 22, y - 290, 44, 56, 8), "#8a4a1c");
@@ -80,63 +80,67 @@ const e1_1 = (c: Ctx) => {
   hand(c, 190, 650, -Math.PI / 2, 1.7, SKIN.child, "#f39a3c", true);
 };
 
-// setup.e1.2: cups A and C in the sun, cup B under a cardboard box
+// setup.e1.2: cups A and C in the sun (discs float), cup B inside a cardboard box with the front cut away (dark, discs sunk)
 const cup = (c: Ctx, x: number, nFloat: number, nSink: number) => {
-  const y = 800, w = 230, h = 300, lvl = 0.8;
+  const y = 800, w = 210, h = 280, lvl = 0.8;
   glass(c, x, y, w, h, lvl);
   const surf = y - h * lvl;
-  const disc = (dx: number, dy: number) => { shape(c, () => ell(c, x + dx, dy, 24, 11), COL.green, 4); };
-  for (let i = 0; i < nFloat; i++) disc(-62 + i * 42 + (i % 2) * 6, surf + 16 + (i % 2) * 8);
-  for (let i = 0; i < nSink; i++) disc(-44 + i * 60, y - 14);
-  shade(c, () => { c.rect(x - w * 0.5, surf - 20, w, 330); }, "rgba(43,35,64,0.0)", 0, 0, 0);
+  for (let i = 0; i < nFloat; i++) { const dx = -66 + i * 44, dy = surf + 14 + (i % 2) * 6; shape(c, () => ell(c, x + dx, dy, 26, 12), COL.green, 4); }
+  for (let i = 0; i < nSink; i++) { const dx = -66 + i * 44, dy = y - 14 - (i % 2) * 6; shape(c, () => ell(c, x + dx * 0.9, dy, 26, 12), COL.green, 4); }
 };
 const e1_2 = (c: Ctx) => {
   ground(c);
   c.fillStyle = TABLE; c.fillRect(0, 800, 1080, 280); line(c, [[0, 800], [1080, 800]], 5);
-  // sun and its light
   c.fillStyle = "rgba(255,226,90,0.32)";
-  for (const p of [[[480, 175], [535, 215], [300, 520], [80, 520]], [[545, 215], [600, 175], [1000, 520], [780, 520]], [[500, 215], [580, 215], [700, 430], [380, 430]]]) { c.beginPath(); polyP(c, p); c.fill(); }
+  for (const p of [[[480, 175], [535, 215], [330, 520], [60, 520]], [[545, 215], [600, 175], [1020, 520], [750, 520]]]) { c.beginPath(); polyP(c, p); c.fill(); }
   for (let k = 0; k < 14; k++) { const a = (k * Math.PI * 2) / 14; line(c, [[540 + Math.cos(a) * 92, 130 + Math.sin(a) * 92], [540 + Math.cos(a) * 128, 130 + Math.sin(a) * 128]], 9, COL.orange); }
   shape(c, () => ell(c, 540, 130, 76, 76), COL.yellow, 6);
   shade(c, () => ell(c, 540, 130, 76, 76), COL.orange, -16, -16, 0.5);
-  cup(c, 190, 4, 1);
-  cup(c, 890, 3, 2);
-  // the box over the middle cup
-  shadow(c, 575, 806, 230, 26);
-  shape(c, () => polyP(c, [[370, 800], [710, 800], [710, 440], [370, 440]]), "#cf9f66");
+  cup(c, 165, 4, 0);
+  cup(c, 915, 4, 0);
+  // the box over the middle cup: front cut open so the dark inside and the cup show
+  shadow(c, 560, 806, 230, 26);
   shape(c, () => polyP(c, [[710, 800], [765, 772], [765, 412], [710, 440]]), "#a8773f");
-  shape(c, () => polyP(c, [[370, 440], [710, 440], [765, 412], [425, 412]]), "#e4bd88");
-  shape(c, () => polyP(c, [[520, 440], [565, 440], [620, 412], [575, 412]]), "#f4ead0", 4);
-  line(c, [[470, 700], [610, 700]], 6, "#a8773f");
+  shape(c, () => polyP(c, [[390, 800], [710, 800], [710, 440], [390, 440]]), COL.black);
+  cup(c, 550, 0, 4);
+  shape(c, () => polyP(c, [[390, 800], [425, 800], [425, 440], [390, 440]]), "#cf9f66");
+  shape(c, () => polyP(c, [[675, 800], [710, 800], [710, 440], [675, 440]]), "#cf9f66");
+  shape(c, () => polyP(c, [[390, 440], [710, 440], [710, 500], [390, 500]]), "#cf9f66");
+  shape(c, () => polyP(c, [[390, 440], [710, 440], [765, 412], [445, 412]]), "#e4bd88");
 };
 
 // setup.e2.0: white plate: potato and rice turn blue-black with iodine, sugar and salt only brown
-const mound = (c: Ctx, x: number, y: number, fill: string, dk: string) => {
-  const p = () => { c.moveTo(x - 120, y + 40); c.quadraticCurveTo(x - 70, y - 90, x, y - 85); c.quadraticCurveTo(x + 70, y - 90, x + 120, y + 40); c.quadraticCurveTo(x, y + 80, x - 120, y + 40); c.closePath(); };
-  shadow(c, x + 14, y + 56, 120, 22);
-  shape(c, p, fill); shade(c, p, dk, -26, -16, 0.6);
+const heap = (c: Ctx, x: number, y: number, r: number, fill: string, dk: string) => {
+  const p = () => { c.moveTo(x - r * 0.92, y); c.bezierCurveTo(x - r * 0.8, y - r * 0.95, x + r * 0.8, y - r * 0.95, x + r * 0.92, y); c.ellipse(x, y, r * 0.92, r * 0.18, 0, 0, Math.PI); c.closePath(); };
+  shape(c, p, fill); shade(c, p, dk, -r * 0.25, -r * 0.12, 0.6);
+};
+const katori = (c: Ctx, x: number, y: number, kind: number) => {
+  const r = 120;
+  bowl(c, x, y, r);
+  heap(c, x, y, r, "#fffdf6", "#e3dccb");
+  const g = rnd(11 + kind);
+  for (let i = 0; i < 46; i++) {
+    const gx = x + (g() - 0.5) * r * 1.5, gy = y - 6 - g() * r * 0.5;
+    if (kind === 0) shape(c, () => ell(c, gx, gy, 14, 5.5, g() * 3), "#fffdf6", 2.5);
+    else if (kind === 1) shape(c, () => ell(c, gx, gy, 5, 5), "#ffffff", 2);
+    else shape(c, () => rrect(c, gx, gy, 9, 9, 1), "#ffffff", 2.5);
+  }
+  if (kind === 0) shape(c, () => ell(c, x + 4, y - r * 0.45, 50, 30), DARK, 4);
+  else { shape(c, () => ell(c, x + 4, y - r * 0.45, 40, 26), "#9a5a22", 4); shine(c, [[x - 12, y - r * 0.5], [x + 2, y - r * 0.57]], 5); }
 };
 const e2_0 = (c: Ctx) => {
   ground(c);
-  c.fillStyle = TABLE; c.fillRect(0, 880, 1080, 200); line(c, [[0, 880], [1080, 880]], 5);
-  whitePlate(c, 440, 600, 410, 320);
+  c.fillStyle = TABLE; c.fillRect(0, 900, 1080, 180); line(c, [[0, 900], [1080, 900]], 5);
+  whitePlate(c, 440, 590, 420, 340);
   // potato slice with a blue-black blot
-  shape(c, () => ell(c, 270, 500, 125, 82), "#d8b66a");
-  shape(c, () => ell(c, 270, 497, 112, 70), "#f1e1b0", 4);
-  shape(c, () => { c.moveTo(225, 490); c.quadraticCurveTo(240, 450, 285, 462); c.quadraticCurveTo(325, 470, 315, 510); c.quadraticCurveTo(300, 545, 260, 532); c.quadraticCurveTo(215, 525, 225, 490); c.closePath(); }, DARK, 4);
-  shine(c, [[245, 485], [262, 468]], 6);
-  // rice with a blue-black patch
-  mound(c, 610, 520, "#fffdf6", "#e3dccb");
-  const r = rnd(5);
-  for (let i = 0; i < 70; i++) { const x = 520 + r() * 180, y = 465 + r() * 90, dx = x - 600, dy = y - 505, dark = dx * dx + dy * dy < 45 * 45; shape(c, () => ell(c, x, y, 15, 6, r() * 3), dark ? DARK : "#fffdf6", 2.5); }
-  // sugar and salt with a brown drop
-  mound(c, 270, 760, "#fffdf6", "#e3dccb");
-  mound(c, 610, 760, "#f4f4f4", "#d6d6dc");
-  const r2 = rnd(9);
-  for (let i = 0; i < 40; i++) { shape(c, () => ell(c, 190 + r2() * 160, 715 + r2() * 70, 4, 4), "#ffffff", 2); }
-  for (let i = 0; i < 28; i++) { const x = 530 + r2() * 160, y = 715 + r2() * 70; shape(c, () => rrect(c, x, y, 9, 9, 1), "#ffffff", 2.5); }
-  for (const x of [270, 610]) { shape(c, () => ell(c, x, 765, 34, 24), "#9a5a22", 4); shine(c, [[x - 14, 757], [x - 4, 751]], 5); }
-  iodine(c, 960, 870);
+  shape(c, () => ell(c, 250, 420, 150, 105), "#d8b66a");
+  shape(c, () => ell(c, 250, 416, 134, 90), "#f1e1b0", 4);
+  shape(c, () => { c.moveTo(190, 405); c.quadraticCurveTo(210, 355, 270, 370); c.quadraticCurveTo(325, 382, 312, 440); c.quadraticCurveTo(295, 480, 245, 465); c.quadraticCurveTo(180, 455, 190, 405); c.closePath(); }, DARK, 4);
+  shine(c, [[200, 400], [222, 378]], 6);
+  katori(c, 630, 430, 0);
+  katori(c, 250, 730, 1);
+  katori(c, 630, 730, 2);
+  iodine(c, 965, 890);
 };
 
 // setup.e2.1: a black paper star clipped on a leaf of a bean plant in the sun on a windowsill
@@ -168,18 +172,20 @@ const e2_1 = (c: Ctx) => {
   peg(c, sx + 62, sy - 50, 0.9);
 };
 
-// setup.e2.2: the leaf on a white plate, blue-black everywhere except a pale star
+// setup.e2.2: a hand tips the iodine bottle over the leaf on a white plate; blue-black everywhere except a pale star
 const e2_2 = (c: Ctx) => {
   ground(c);
   c.fillStyle = TABLE; c.fillRect(0, 900, 1080, 180); line(c, [[0, 900], [1080, 900]], 5);
-  whitePlate(c, 450, 620, 410, 300);
-  shadow(c, 430, 640, 320, 28);
-  bigLeaf(c, 100, 620, 680, 0, DARK, "#6a64b8", 0.5);
-  const p = () => starP(c, 440, 617, 100, 42, 0.1);
+  whitePlate(c, 450, 640, 410, 290);
+  shadow(c, 430, 660, 320, 28);
+  bigLeaf(c, 100, 640, 680, 0, DARK, "#6a64b8", 0.5);
+  const p = () => starP(c, 440, 637, 100, 42, 0.1);
   shape(c, p, "#e9cb88", 5);
   shade(c, p, "#c9a45a", -10, -10, 0.6);
-  line(c, [[110, 620], [200, 620]], 4, "#6a64b8");
-  iodine(c, 960, 880);
+  line(c, [[110, 640], [200, 640]], 4, "#6a64b8");
+  c.save(); c.translate(730, 120); c.rotate(Math.PI + 0.5); c.scale(0.8, 0.8); iodine(c, 0, 0, true); c.restore();
+  for (const [x, y, s] of [[585, 440, 17], [592, 510, 19]]) shape(c, () => dropP(c, x, y, s), "#9a5a22", 4);
+  hand(c, 805, 215, Math.PI, 1.6);
 };
 
 // plant in a glass: the glass, a sprig of hydrilla with its cut end up, a paper clip weighting it

@@ -221,6 +221,7 @@ addEventListener("resize", iamReplace);
 // drag to reorder: the Up next queue and today's list
 initDrag();
 addEventListener("change", yearStartChange);
+addEventListener("input", ptitleInput);
 document.addEventListener("change", (e) => {
   if (e.target.id === "mbFile") onMyBookFiles(e.target.files);
 });

@@ -11388,7 +11388,7 @@ function dumpCard() {
     empty = !D_.text && !D_.items && !D_.files?.length;
   return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Plan your days</h3><p class="xs muted">Tell us your family's week in your own words: classes, outings, trips, rest and meal times, to-dos. We fit lessons around them. Type, use your keyboard's mic, or send a photo.</p></div></div>
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
-   ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><b style="font:600 16px var(--display)">${esc(it.title)}</b><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
+   ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
    ${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
    ${needAICard(D_)}
    ${D_.files?.length ? `<div class="row" style="gap:6px"><span class="chip" style="pointer-events:none">${icon("plus")}${D_.files.length} photo${D_.files.length > 1 ? "s" : ""} attached</span><button class="link xs" data-act="dnofiles">Remove</button></div>` : ""}
@@ -11398,6 +11398,11 @@ function dumpCard() {
    ${SAMPLE ? "" : `<p class="xs muted">Read on this phone, however long: classes, trips, times, days, dates, rest, to-dos and things you own. Reading a photo 📷 is part of DeepKids Plus.</p>`}
    <div class="row dfoot"><button class="link sm" data-act="told">Your classes, routines and to-dos · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand ? "Hide add by hand" : "Add by hand"}</button></div>
    ${ui.dhand ? `<div class="handbox">${quickAdd(ui.pday || today)}</div>` : ""}</section>`;
+}
+// a found item's name can be changed before it goes in
+function ptitleInput(e) {
+  const t = e.target.closest?.(".ptitle");
+  if (t && ui.dump?.items?.[+t.dataset.pi]) ui.dump.items[+t.dataset.pi].title = t.value.trim().slice(0, 80);
 }
 function parsedLine(it) {
   if (it.type === "have") return "Library · " + (it.category || "other");
@@ -14494,6 +14499,32 @@ const SUBJW =
   /^(art|arts|craft|crafts|music|dance|science|chemistry|physics|biology|maths|math|history|geography|coding|reading|writing|stitching|sewing|cooking|baking|gardening|drawing|painting|singing|space|animals|plants|rocks|robots|chess|football|cricket|swimming|insects|birds|stories|poetry|languages)$/;
 // one interest per comma or "and"; a short run of words with no commas splits too when each word is something the
 // activity library knows ("stitching chemistry art")
+// "to sing", "play badminton", "to draw": the activity, said as a thing ("Singing", "Badminton", "Drawing")
+const ING = {
+  sing: "Singing",
+  dance: "Dancing",
+  draw: "Drawing",
+  paint: "Painting",
+  read: "Reading",
+  write: "Writing",
+  cook: "Cooking",
+  bake: "Baking",
+  swim: "Swimming",
+  stitch: "Stitching",
+  sew: "Sewing",
+  build: "Building",
+  code: "Coding",
+  garden: "Gardening",
+  run: "Running",
+  climb: "Climbing",
+  act: "Acting",
+  knit: "Knitting",
+};
+const asThing = (x) =>
+  x
+    .replace(/^to\s+/i, "")
+    .replace(/^(?:play(?:ing)?|do(?:ing)?|learn(?:ing)?)\s+/i, "")
+    .replace(/^(\w+)$/, (m, w) => ING[w.toLowerCase()] || m);
 function interestsOf(t) {
   const L = t
     .replace(/[.!]+$/, "")
@@ -14503,10 +14534,12 @@ function interestsOf(t) {
   const known = (w) =>
     SUBJW.test(w) ||
     (DATA.life?.acts || []).some((a) => a.words.includes(w) || a.name.toLowerCase().split(/\W+/).includes(w));
-  return L.flatMap((x) => {
-    const W = x.toLowerCase().split(/\s+/);
-    return W.length > 1 && W.length <= 5 && W.every(known) ? W : [x];
-  }).map((x) => x[0].toUpperCase() + x.slice(1));
+  return L.map(asThing)
+    .flatMap((x) => {
+      const W = x.toLowerCase().split(/\s+/);
+      return W.length > 1 && W.length <= 5 && W.every(known) ? W : [x];
+    })
+    .map((x) => x[0].toUpperCase() + x.slice(1));
 }
 const TITLEFILL =
   /\b(everyday|every day|daily|weekdays|weekends|only|on|at|from|to|a\.?m\.?|p\.?m\.?|in the (morning|evening|afternoon))\b/gi;
@@ -14518,14 +14551,23 @@ function readOnPhone(text) {
       .replace(/\b([ap])\.m\./gi, "$1m")
       .split(/(?<=[.;!?\n])\s+|\n+/)
       .flatMap((t) => t.split(joiner))
+      // spoken messages run on: a new idea starts at "she also likes…", "he has…" even with no "and" or full stop
+      .flatMap((t) =>
+        t.split(
+          /\s+(?=(?:she|he|they|we|i)\s+(?:also\s+|really\s+)?(?:likes?|loves?|enjoys?|is|has|goes|attends|plays|wants|does)\b)/i,
+        ),
+      )
       .map((t) =>
         t
           .trim()
+          // what people say before the point: "ok so", "um", "basically"
+          .replace(/^(?:(?:ok(?:ay)?|so|um+|uh+|hmm+|well|basically|actually|like|also|and)[,\s]+)+/i, "")
           // "Liri goes to…", "She has…": the person at the start isn't part of the title
           .replace(
             /^(?:[A-Z][a-z]+(?:'s)?|she|he|they|we)\s+(?=(?:goes|go|has|have|attends|attend|does|will|is|are|learns|takes|plays|joins)\b)/i,
             "",
           )
+          .replace(/^(?:goes to|go to|attends|takes|joins)\s+/i, "")
           // "everyday … only on weekdays": the narrower days win
           .replace(/\b(?:every ?day|daily)\b(?=.*\bonly\b.*\b(?:weekdays|weekends|mon|tue|wed|thu|fri|sat|sun))/i, ""),
       )
@@ -14548,10 +14590,14 @@ function readOnPhone(text) {
   for (let i = 0; i < items.length; i++) {
     const x = items[i];
     if (x.type === "interest") continue;
+    const was = x.title;
     x.title = x.title
       .replace(nameRe || /^\b$/, "")
       .replace(/^(goes to|go to|has|attends|does|will go to|is going to)\s+/i, "")
       .replace(TITLEFILL, "")
+      // "art class art and crafts class": said twice, keep the fuller last one
+      .replace(/^.*?\b(class|tuition|lesson|practice|coaching)\s+(?=.+\b\1\b)/i, "")
+      .replace(/\b(?:on\s+)?(?:a\s+)?few days(?: a week)?\b|\b(?:once|twice|thrice) a week\b/gi, "")
       .replace(/\s+/g, " ")
       .trim();
     // "only on weekdays": a part that only changes the days of the thing before it
@@ -14566,7 +14612,13 @@ function readOnPhone(text) {
       i--;
       continue;
     }
-    x.title = x.title.replace(/^./, (c) => c.toUpperCase());
+    x.title = x.title
+      .replace(/\bfew\b/gi, "")
+      .replace(/\s+/g, " ")
+      .trim()
+      .replace(/^./, (c) => c.toUpperCase());
+    // its questions use the clean title too
+    asks.forEach((a) => a.i === i && (a.q = a.q.split(was).join(x.title)));
     if ((x.type === "rest" || x.type === "meal") && !x.days?.length && !x.date) {
       x.days = [0, 1, 2, 3, 4, 5, 6];
       for (let k = asks.length - 1; k >= 0; k--)
@@ -18882,6 +18934,7 @@ addEventListener("resize", iamReplace);
 // drag to reorder: the Up next queue and today's list
 initDrag();
 addEventListener("change", yearStartChange);
+addEventListener("input", ptitleInput);
 document.addEventListener("change", (e) => {
   if (e.target.id === "mbFile") onMyBookFiles(e.target.files);
 });

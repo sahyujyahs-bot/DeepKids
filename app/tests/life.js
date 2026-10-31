@@ -86,6 +86,16 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
   await p.click('[data-act="evsave"]');
   await p.waitForTimeout(400);
   out.afterClass = await p.evaluate(() => lifeSkills().map((x) => x.name + " " + x.mins));
+  // the planner reads spoken, unpunctuated messages on the phone: classes, days, times and interests
+  out.planner = await p.evaluate(() =>
+    [
+      "Ok so Liri goes to art class art and crafts class on few days a week Tuesday she also likes to sing and play badminton",
+      "Liri goes to Science tuition everyday 4 to 5:00 p.m. only on weekdays. She is interested in stitching chemistry art",
+      "um so he has karate on monday and wednesday at 5 he loves dinosaurs and space and he likes to draw",
+    ].map((t) =>
+      readOnPhone(t).items.map((x) => [x.type, x.title, (x.days || []).join(""), x.start || ""].join(" ").trim()),
+    ),
+  );
   console.log(JSON.stringify({ ...out, errs }, null, 1));
   await b.close();
 })();

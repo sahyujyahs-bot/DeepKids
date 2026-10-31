@@ -152,12 +152,25 @@ const bottle = (c: Ctx, x: number, level: number, leafy: boolean) => {
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  for (const [x, lf] of [[230, true], [850, false]] as [number, boolean][]) { bottle(c, x, 700, lf); line(c, [[x - 112, 700], [x + 112, 700]], 7, THREAD); }
+  for (const [x, lf] of [[230, true], [850, false]] as [number, boolean][]) {
+    bottle(c, x, 700, lf); line(c, [[x - 112, 700], [x + 112, 700]], 7, THREAD);
+    line(c, [[x - 100, 674], [x + 100, 674]], 4); shine(c, [[x - 70, 687], [x + 40, 687]], 6);
+  }
+  // the bottle of oil in the middle, its oil the same yellow as the layer, with arrows to both bottles
+  shadow(c, 560, 886, 100, 16);
+  const ob = () => rrect(c, 470, 640, 140, 240, 30);
+  shape(c, () => polyP(c, [[510, 640], [570, 640], [562, 590], [518, 590]]), COL.yellow, 6);
+  shape(c, () => rrect(c, 512, 556, 56, 38, 8), RED, 6);
+  shape(c, ob, OIL, 6); shade(c, ob, COL.orange, 40, 0, 0.45);
+  shape(c, () => rrect(c, 494, 700, 92, 100, 14), WHITE, 4);
+  dropP(c, 540, 762, 20, OIL);
+  shine(c, [[486, 665], [486, 840]], 8);
+  arrow(c, [[455, 690], [352, 690]], RED, 12); arrow(c, [[625, 690], [728, 690]], RED, 12);
   // the marker pen
-  shadow(c, 545, 958, 110, 14);
-  shape(c, () => rrect(c, 440, 915, 210, 36, 14), COL.yellow, 5);
-  shape(c, () => rrect(c, 440, 915, 80, 36, 14), THREAD, 5);
-  shape(c, () => polyP(c, [[650, 922], [685, 933], [650, 944]]), INK, 4);
+  shadow(c, 545, 1000, 110, 12);
+  shape(c, () => rrect(c, 440, 965, 210, 34, 14), COL.yellow, 5);
+  shape(c, () => rrect(c, 440, 965, 80, 34, 14), THREAD, 5);
+  shape(c, () => polyP(c, [[650, 971], [685, 982], [650, 993]]), INK, 4);
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
@@ -189,13 +202,14 @@ const panelBack = (c: Ctx, sunny: boolean) => {
   }
 };
 // the branch and its leaves, with the clear bag over the end
-const branchBag = (c: Ctx, mist = 0, drops = 0) => {
+const branchBag = (c: Ctx, mist = 0, drops = 0, at = 250) => {
   line(c, [BP(-30), BP(570)], 31, INK); line(c, [BP(-30), BP(570)], 22, COL.brown);
   for (const t of [90, 170, 300, 380, 460]) { const [x, y] = BP(t); leaf(c, x, y, 105, AX - 1.0); leaf(c, x, y, 105, AX + 1.0); }
   { const [x, y] = BP(550); leaf(c, x, y, 85, AX); }
-  const [px, py] = BP(250);
+  const [px, py] = BP(at);
   c.save(); c.translate(px, py); c.rotate(AX);
   shape(c, () => bagPath(c), "rgba(222,240,252,0.4)", 5);
+  if (at > 250) shape(c, () => ell(c, 0, 0, 26, 85), "#cfe3f2", 5);
   if (mist) { c.save(); c.beginPath(); bagPath(c); c.clip(); c.fillStyle = WHITE; c.globalAlpha = mist; c.fillRect(-10, -150, 380, 300); c.restore(); }
   line(c, [[40, -100], [210, -118]], 8, WHITE);
   c.restore();
@@ -216,10 +230,10 @@ const panelsIn = (c: Ctx, fn: (c: Ctx, sunny: boolean) => void) => {
 const e3_0 = (c: Ctx) => {
   ground(c);
   panelsIn(c, (c) => {
-    branchBag(c);
-    armBack(c, 282, 322, 2.356, 0.95);
-    hand(c, 282, 322, 2.356, 0.95, ADULT, SLEEVE);
-    arrow(c, [[60, 590], [160, 690]], RED, 11);
+    branchBag(c, 0, 0, 330);
+    armBack(c, 425, 830, -1.97, 1.2);
+    hand(c, 425, 830, -1.97, 1.2, ADULT, SLEEVE);
+    arrow(c, [[170, 700], [70, 600]], RED, 11);
   });
 };
 // setup.e3.1

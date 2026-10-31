@@ -138,6 +138,32 @@ const SUBJW =
   /^(art|arts|craft|crafts|music|dance|science|chemistry|physics|biology|maths|math|history|geography|coding|reading|writing|stitching|sewing|cooking|baking|gardening|drawing|painting|singing|space|animals|plants|rocks|robots|chess|football|cricket|swimming|insects|birds|stories|poetry|languages)$/;
 // one interest per comma or "and"; a short run of words with no commas splits too when each word is something the
 // activity library knows ("stitching chemistry art")
+// "to sing", "play badminton", "to draw": the activity, said as a thing ("Singing", "Badminton", "Drawing")
+const ING = {
+  sing: "Singing",
+  dance: "Dancing",
+  draw: "Drawing",
+  paint: "Painting",
+  read: "Reading",
+  write: "Writing",
+  cook: "Cooking",
+  bake: "Baking",
+  swim: "Swimming",
+  stitch: "Stitching",
+  sew: "Sewing",
+  build: "Building",
+  code: "Coding",
+  garden: "Gardening",
+  run: "Running",
+  climb: "Climbing",
+  act: "Acting",
+  knit: "Knitting",
+};
+const asThing = (x) =>
+  x
+    .replace(/^to\s+/i, "")
+    .replace(/^(?:play(?:ing)?|do(?:ing)?|learn(?:ing)?)\s+/i, "")
+    .replace(/^(\w+)$/, (m, w) => ING[w.toLowerCase()] || m);
 function interestsOf(t) {
   const L = t
     .replace(/[.!]+$/, "")
@@ -147,10 +173,12 @@ function interestsOf(t) {
   const known = (w) =>
     SUBJW.test(w) ||
     (DATA.life?.acts || []).some((a) => a.words.includes(w) || a.name.toLowerCase().split(/\W+/).includes(w));
-  return L.flatMap((x) => {
-    const W = x.toLowerCase().split(/\s+/);
-    return W.length > 1 && W.length <= 5 && W.every(known) ? W : [x];
-  }).map((x) => x[0].toUpperCase() + x.slice(1));
+  return L.map(asThing)
+    .flatMap((x) => {
+      const W = x.toLowerCase().split(/\s+/);
+      return W.length > 1 && W.length <= 5 && W.every(known) ? W : [x];
+    })
+    .map((x) => x[0].toUpperCase() + x.slice(1));
 }
 const TITLEFILL =
   /\b(everyday|every day|daily|weekdays|weekends|only|on|at|from|to|a\.?m\.?|p\.?m\.?|in the (morning|evening|afternoon))\b/gi;
@@ -162,14 +190,23 @@ function readOnPhone(text) {
       .replace(/\b([ap])\.m\./gi, "$1m")
       .split(/(?<=[.;!?\n])\s+|\n+/)
       .flatMap((t) => t.split(joiner))
+      // spoken messages run on: a new idea starts at "she also likes…", "he has…" even with no "and" or full stop
+      .flatMap((t) =>
+        t.split(
+          /\s+(?=(?:she|he|they|we|i)\s+(?:also\s+|really\s+)?(?:likes?|loves?|enjoys?|is|has|goes|attends|plays|wants|does)\b)/i,
+        ),
+      )
       .map((t) =>
         t
           .trim()
+          // what people say before the point: "ok so", "um", "basically"
+          .replace(/^(?:(?:ok(?:ay)?|so|um+|uh+|hmm+|well|basically|actually|like|also|and)[,\s]+)+/i, "")
           // "Liri goes to…", "She has…": the person at the start isn't part of the title
           .replace(
             /^(?:[A-Z][a-z]+(?:'s)?|she|he|they|we)\s+(?=(?:goes|go|has|have|attends|attend|does|will|is|are|learns|takes|plays|joins)\b)/i,
             "",
           )
+          .replace(/^(?:goes to|go to|attends|takes|joins)\s+/i, "")
           // "everyday … only on weekdays": the narrower days win
           .replace(/\b(?:every ?day|daily)\b(?=.*\bonly\b.*\b(?:weekdays|weekends|mon|tue|wed|thu|fri|sat|sun))/i, ""),
       )
@@ -192,10 +229,14 @@ function readOnPhone(text) {
   for (let i = 0; i < items.length; i++) {
     const x = items[i];
     if (x.type === "interest") continue;
+    const was = x.title;
     x.title = x.title
       .replace(nameRe || /^\b$/, "")
       .replace(/^(goes to|go to|has|attends|does|will go to|is going to)\s+/i, "")
       .replace(TITLEFILL, "")
+      // "art class art and crafts class": said twice, keep the fuller last one
+      .replace(/^.*?\b(class|tuition|lesson|practice|coaching)\s+(?=.+\b\1\b)/i, "")
+      .replace(/\b(?:on\s+)?(?:a\s+)?few days(?: a week)?\b|\b(?:once|twice|thrice) a week\b/gi, "")
       .replace(/\s+/g, " ")
       .trim();
     // "only on weekdays": a part that only changes the days of the thing before it
@@ -210,7 +251,13 @@ function readOnPhone(text) {
       i--;
       continue;
     }
-    x.title = x.title.replace(/^./, (c) => c.toUpperCase());
+    x.title = x.title
+      .replace(/\bfew\b/gi, "")
+      .replace(/\s+/g, " ")
+      .trim()
+      .replace(/^./, (c) => c.toUpperCase());
+    // its questions use the clean title too
+    asks.forEach((a) => a.i === i && (a.q = a.q.split(was).join(x.title)));
     if ((x.type === "rest" || x.type === "meal") && !x.days?.length && !x.date) {
       x.days = [0, 1, 2, 3, 4, 5, 6];
       for (let k = asks.length - 1; k >= 0; k--)

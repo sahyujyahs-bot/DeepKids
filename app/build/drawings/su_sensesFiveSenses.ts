@@ -18,11 +18,11 @@ const sugarKatori = (c: Ctx, x: number, y: number, r: number, spice: string | nu
   c.beginPath(); c.ellipse(x, y, r, r * 0.2, 0, 0.12, Math.PI - 0.12); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
 };
 // a steel spoon from (x1, y1) (end of the handle) to the bowl centred at (x2, y2); sugar = a white heap in the bowl
-const spoon = (c: Ctx, x1: number, y1: number, x2: number, y2: number, sugar = false) => {
+const spoon = (c: Ctx, x1: number, y1: number, x2: number, y2: number, sugar = false, k = 1) => {
   const an = Math.atan2(y2 - y1, x2 - x1);
-  line(c, [[x1, y1], [x2, y2]], 22, INK); line(c, [[x1, y1], [x2, y2]], 11, COL.steel);
-  shape(c, () => ell(c, x2, y2, 46, 30, an), COL.steel, 6);
-  if (sugar) shape(c, () => ell(c, x2 - 4, y2 - 9, 34, 20, an), SUGAR, 4);
+  line(c, [[x1, y1], [x2, y2]], 22 * k, INK); line(c, [[x1, y1], [x2, y2]], 11 * k, COL.steel);
+  shape(c, () => ell(c, x2, y2, 46 * k, 30 * k, an), COL.steel, 6);
+  if (sugar) shape(c, () => ell(c, x2 - 4, y2 - 9 * k, 34 * k, 20 * k, an), SUGAR, 4);
 };
 
 // the child's head, front on, big. blind = blindfold; wide = eyes wide open; mouth = open | o | smile
@@ -103,6 +103,20 @@ const footprint = (c: Ctx, x: number, y: number, an: number, s: number) => {
   c.restore();
 };
 
+
+// the child's own thumb and finger, coming from the lower right at angle rot: pinching the nose (gap 0) or let go and opened (gap > 0), shifted dx away
+const pinch = (c: Ctx, nx: number, ny: number, gap: number, dx: number, rot = -0.3) => {
+  c.save(); c.translate(nx, ny); c.rotate(rot);
+  const bx = 150 + dx, tipX = 14 + dx;
+  for (const s of [-1, 1]) {
+    const pts = [[bx, s * 34], [tipX, s * (13 + gap)]];
+    line(c, pts, 46, INK); line(c, pts, 34, SKIN.child);
+  }
+  shape(c, () => rrect(c, bx - 10, -62, 110, 124, 36), SKIN.child, 6);
+  shape(c, () => rrect(c, bx + 90, -78, 260, 156, 14), CLOTH.child, 6);
+  c.restore();
+};
+
 // ---------------------------------------------------------------- experiment 1: taste and smell
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
@@ -120,24 +134,25 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  bigFace(c, 480, 480, 235, { blind: true, mouth: "open" });
-  // the child's hand pinching her nose, coming in from the upper right
-  hand(c, 561, 501, 2.45, 1.7, SKIN.child, CLOTH.child, false);
+  bigFace(c, 440, 480, 235, { blind: true, mouth: "open" });
+  // the child's own thumb and finger pinch the nose shut
+  pinch(c, 440, 574, 0, 0);
   // the grown-up's hand puts a spoon of sugar on her tongue
-  spoon(c, 127, 859, 430, 668, true);
+  spoon(c, 127, 859, 400, 668, true);
   hand(c, 28, 918, -0.56, 1.6, SKIN.adult, CLOTH.adult, false);
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  bigFace(c, 480, 480, 235, { wide: true, mouth: "o" });
-  // the hand let go, moving away, with a red arrow
-  hand(c, 830, 470, 0.7, 1.9, SKIN.child, CLOTH.child, true);
-  arrow(c, [[640, 560], [720, 600], [780, 650]], RED, 10);
-  // smell swirls rising from the mouth into the nose
+  bigFace(c, 440, 480, 235, { wide: true, mouth: "o" });
+  // the thumb and finger let go of the nose and open, moving away, with a red arrow
+  pinch(c, 440, 574, 30, 150);
+  arrow(c, [[610, 700], [760, 660]], RED, 10);
+  // smell: wavy lines rising from the mouth up into the nose
   for (const s of [-1, 1]) {
-    const pts: number[][] = []; for (let k = 0; k <= 12; k++) pts.push([480 + s * (95 - k * 3) + Math.sin(k * 1.1) * 16, 690 - k * 11]);
+    const pts: number[][] = []; for (let k = 0; k <= 26; k++) pts.push([440 + s * (110 - k * 1.2) + Math.sin(k * 0.55) * 16, 740 - k * 6.5]);
     line(c, pts, 17, INK); line(c, pts, 9, COL.orange);
+    arrow(c, [pts[24], pts[26]], COL.orange, 9);
   }
 };
 
@@ -169,18 +184,18 @@ const e2_0 = (c: Ctx) => {
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  // the child, eyes shut, small at the upper left
-  shape(c, () => rrect(c, 50, 330, 230, 230, 40), CLOTH.child);
-  shape(c, () => ell(c, 160, 230, 120, 126), SKIN.child, 7);
-  shape(c, () => { c.moveTo(40, 230); c.bezierCurveTo(40, 70, 280, 70, 280, 230); c.quadraticCurveTo(160, 160, 40, 230); c.closePath(); }, CLOTH.hair, 6);
-  line(c, [[90, 250], [130, 262]], 7); line(c, [[190, 262], [230, 250]], 7);
-  c.beginPath(); c.arc(160, 300, 24, 0.3, Math.PI - 0.3); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
-  // her hand held out, flat, fingers to the right
-  shape(c, () => rrect(c, -40, 700, 280, 150, 30), CLOTH.child);
-  hand(c, 215, 775, -0.35, 2.1, SKIN.child, CLOTH.child, true);
-  // the grown-up touches the fingertip with the two points
-  tester(c, 372, 525, 900, 420, 40, 125);
-  hand(c, 1030, 405, 2.94, 1.4, SKIN.adult, CLOTH.adult, false);
+  // the child, eyes shut, at the upper left, her arm coming down to the hand held out flat
+  shape(c, () => rrect(c, 40, 360, 250, 400, 50), CLOTH.child);
+  shape(c, () => ell(c, 165, 230, 120, 126), SKIN.child, 7);
+  shape(c, () => { c.moveTo(45, 230); c.bezierCurveTo(45, 70, 285, 70, 285, 230); c.quadraticCurveTo(165, 160, 45, 230); c.closePath(); }, CLOTH.hair, 6);
+  line(c, [[95, 250], [135, 262]], 7); line(c, [[195, 262], [235, 250]], 7);
+  c.beginPath(); c.arc(165, 300, 24, 0.3, Math.PI - 0.3); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  // her big hand, fingers out to the right: the longest fingertip is touched
+  hand(c, 330, 790, 0, 2.6, SKIN.child, CLOTH.child, true);
+  // the grown-up holds the two-point tester and touches the fingertip with both points
+  tester(c, 530, 572, 960, 400, 64, 146);
+  hand(c, 1010, 380, 2.95, 1.5, SKIN.adult, CLOTH.adult, false);
+  arrow(c, [[400, 470], [450, 580]], RED, 10);
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
@@ -223,41 +238,34 @@ const e3_0 = (c: Ctx) => {
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   ground(c);
-  line(c, [[0, 920], [1080, 920]], 6);
-  // the grown-up behind her, in socks, clicking two spoons
-  const ax = 780, ah = 820, pl: [number, number] = [2.1, 0.3], pr: [number, number] = [1.3, -2.7];
-  shadow(c, ax + 20, 925, 190, 24);
-  person(c, ax, 900, ah, { adult: true, armL: pl, armR: pr });
-  for (const s of [-1, 1]) { const sx = ax + s * ah * 0.06; shape(c, () => rrect(c, sx - 38, 882, 76, 38, 16), WHITE, 5); line(c, [[sx - 30, 900], [sx + 30, 900]], 5, COL.teal); }
-  const wl = wrist(ax, 900, ah, -1, pl), wr = wrist(ax, 900, ah, 1, pr), cx = 690, cy = 380;
-  spoon(c, wl[0], wl[1], cx, cy, false); spoon(c, wr[0], wr[1], cx + 8, cy - 4, false);
-  const dl = Math.atan2(cy - wl[1], cx - wl[0]), dr = Math.atan2(cy - wr[1], cx - wr[0]);
-  hand(c, wl[0] - Math.cos(dl) * 20, wl[1] - Math.sin(dl) * 20, dl, 0.85, SKIN.adult, CLOTH.adult, false);
-  hand(c, wr[0] - Math.cos(dr) * 20, wr[1] - Math.sin(dr) * 20, dr, 0.85, SKIN.adult, CLOTH.adult, false);
-  for (const a of [-2.9, -2.35, -1.8, -1.25]) line(c, [[cx + Math.cos(a) * 60, cy + Math.sin(a) * 60], [cx + Math.cos(a) * 105, cy + Math.sin(a) * 105]], 8, RED);
-  // the blindfolded child in front, pointing at the sound
-  const aR: [number, number] = [-0.45, -0.2];
-  seatedChild(c, 300, 800, 480, 920, { armL: [Math.PI * 0.5, Math.PI * 0.5], armR: aR });
-  const w = wrist(300, 800, 480, 1, aR, true);
-  hand(c, w[0] - 20, w[1] + 5, -0.2, 1.0, SKIN.child, CLOTH.child, true);
+  line(c, [[0, 940], [1080, 940]], 6);
+  // two big grown-up hands, each holding a steel spoon, clicking the spoons together
+  const cx = 660, cy = 400, k = 1.5;
+  for (const [wx, wy] of [[1010, 110], [1010, 700]]) {
+    const d = Math.atan2(cy - wy, cx - wx);
+    spoon(c, wx, wy, cx + (wy < cy ? -8 : 8), cy + (wy < cy ? -10 : 10), false, k);
+    hand(c, wx - Math.cos(d) * 10, wy - Math.sin(d) * 10, d, 1.6, SKIN.adult, CLOTH.adult, false);
+  }
+  for (const a of [-3.2, -2.7, -2.2, -1.7]) line(c, [[cx + Math.cos(a) * 80, cy + Math.sin(a) * 80], [cx + Math.cos(a) * 140, cy + Math.sin(a) * 140]], 9, RED);
+  // the blindfolded child, small, pointing at the sound
+  const aR: [number, number] = [-0.7, -0.45];
+  seatedChild(c, 250, 800, 460, 940, { armL: [Math.PI * 0.5, Math.PI * 0.5], armR: aR });
+  const w = wrist(250, 800, 460, 1, aR, true);
+  hand(c, w[0] - 20, w[1] + 5, -0.45, 1.0, SKIN.child, CLOTH.child, true);
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c);
-  line(c, [[0, 960], [1080, 960]], 6);
-  const h = 700, x = 500, y = 830;
-  const aL: [number, number] = [2.45, -1.15], aR: [number, number] = [-0.2, -0.1];
-  const k = seatedChild(c, x, y, h, 960, { armL: aL, armR: aR });
-  // unsure: a wobbly mouth, slanted brows
-  const my = k.hy + k.head * 0.5;
-  shape(c, () => ell(c, x, my, k.head * 0.5, k.head * 0.3), SKIN.child, 0);
-  line(c, [[x - k.head * 0.35, my + 4], [x - k.head * 0.12, my - 6], [x + k.head * 0.12, my + 8], [x + k.head * 0.35, my - 2]], 5);
-  line(c, [[x - k.head * 0.62, k.hy - k.head * 0.3], [x - k.head * 0.25, k.hy - k.head * 0.42]], 7); line(c, [[x + k.head * 0.25, k.hy - k.head * 0.2], [x + k.head * 0.62, k.hy - k.head * 0.3]], 7);
-  // palm over her left ear, the other hand pointing
-  const wl = wrist(x, y, h, -1, aL, true);
-  hand(c, wl[0] + 5, wl[1] + 10, -1.25, 1.15, SKIN.child, CLOTH.child, true);
-  const wr = wrist(x, y, h, 1, aR, true);
-  hand(c, wr[0] - 25, wr[1], -0.1, 1.0, SKIN.child, CLOTH.child, true);
+  const x = 420, y = 520, r = 200;
+  bigFace(c, x, y, r, { blind: true, mouth: "o" });
+  // her right arm pointing out to the side, the hand flat
+  line(c, [[x + r * 1.3, 1000], [x + r * 1.55, 720]], 60, INK); line(c, [[x + r * 1.3, 1000], [x + r * 1.55, 720]], 48, CLOTH.child);
+  hand(c, x + r * 1.55 + 10, 700, -0.3, 1.6, SKIN.child, CLOTH.child, true);
+  // her left palm pressed flat over her left ear
+  line(c, [[x - r * 1.5, 1000], [x - r * 1.0, 700]], 60, INK); line(c, [[x - r * 1.5, 1000], [x - r * 1.0, 700]], 48, CLOTH.child);
+  hand(c, x - r * 0.72, y + r * 0.28, -1.5, 1.8, SKIN.child, CLOTH.child, true);
+  // the click still reaches the open ear: red sound lines from the right
+  for (let i = 0; i < 3; i++) { const rr = 90 + i * 55; c.beginPath(); c.arc(x + r * 2.2, y - r * 0.9, rr, Math.PI * 0.62, Math.PI * 0.95); c.strokeStyle = RED; c.lineWidth = 9; c.lineCap = "round"; c.stroke(); }
 };
 
 export const su_sensesFiveSenses = cards("sci.senses.five-senses.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

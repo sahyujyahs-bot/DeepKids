@@ -175,26 +175,17 @@ const eye = (c: Ctx, x: number, y: number, s: number) => {
 // setup.e1.2
 const c02 = (c: Ctx) => {
   ground(c);
-  // results table
-  shape(c, () => rrect(c, 700, 110, 330, 350, 10), WHITE, 5);
-  CLOTHS.forEach((cl, i) => {
-    const y = 140 + i * 80;
-    shape(c, () => rrect(c, 724, y, 56, 56, 6), cl.col, 4); patFill(c, () => rrect(c, 724, y, 56, 56, 6), cl, 724, y, 780, y + 56, 0.8);
-    const len = [210, 120, 40, 0][i];
-    if (len) shape(c, () => rrect(c, 800, y + 8, len, 40, 6), COL.water, 4);
-    else drop(c, 820, y + 40, 8);
-    line(c, [[700, y + 68], [1030, y + 68]], 2, COL.grey);
-  });
-  medCup(c, 560, 920, 190, 340, 0.55);
-  // tumbler tipped over the cup, hand holding it
-  c.save(); c.translate(380, 360); c.rotate(2.0); tumbler(c, 0, 0, 200, 260, false); c.restore();
-  // water out of the mouth's lower lip
-  shape(c, () => { c.moveTo(560, 559); c.lineTo(594, 559); c.quadraticCurveTo(588, 700, 574, 748); c.lineTo(546, 748); c.quadraticCurveTo(556, 640, 560, 559); c.closePath(); }, COL.water, 4);
-  arrow(c, [[720, 470], [720, 590]]);
-  hand(c, 482, 306, 1.99, 1.3);
-  // eye at the level of the line
-  const wy = 920 - 340 * 0.55;
-  eye(c, 900, wy, 1.1); dashed(c, 820, wy, 655, wy, 4, 14);
+  // medicine cup with its ml marks, half full
+  medCup(c, 575, 960, 230, 340, 0.5);
+  const wy = 960 - 340 * 0.5;
+  // the water running from the lower lip of the tumbler into the cup
+  shape(c, () => { c.moveTo(556, 536); c.lineTo(592, 536); c.quadraticCurveTo(590, 680, 586, wy); c.lineTo(562, wy); c.quadraticCurveTo(556, 680, 556, 536); c.closePath(); }, COL.water, 4);
+  // the plain steel tumbler tipped over the cup, mouth showing, hand gripping it
+  c.save(); c.translate(360, 330); c.rotate(2.0); tumbler(c, 0, 0, 200, 280, true); c.restore();
+  arrow(c, [[790, 480], [790, 650]]);
+  hand(c, 524, 305, 1.99, 1.3);
+  // eye at the level of the water line
+  eye(c, 905, wy, 1.1); dashed(c, 820, wy, 700, wy, 5, 14);
 };
 // setup.e1.3
 const c03 = (c: Ctx) => {
@@ -205,22 +196,22 @@ const c03 = (c: Ctx) => {
   shape(c, out, COL.steel); shade(c, out, COL.steelDk, -50, 0, 0.5);
   shape(c, () => polyP(c, [[cx - 312, ty + 30], [cx + 312, ty + 30], [cx + 256, 920], [cx - 256, 920]]), COL.steelIn, 5);
   shade(c, () => polyP(c, [[cx - 312, ty + 30], [cx + 312, ty + 30], [cx + 256, 920], [cx - 256, 920]]), COL.steelDk, 40, 0, 0.35);
-  // rubber band on the rim
-  for (const s of [-1, 1]) shape(c, () => rrect(c, cx + s * 322 - 22 + (s > 0 ? 4 : 0), ty + 52, 44, 30, 6), COL.yellow, 5);
-  // the cloth, a thin band with a pinhole
+  // the cloth across the mouth, with one pinhole in the middle
   const cl = CLOTHS[3];
   for (const s of [-1, 1]) {
-    const x0 = s < 0 ? cx - 400 : cx + 10, x1 = s < 0 ? cx - 10 : cx + 400;
-    shape(c, () => rrect(c, x0, ty - 22, x1 - x0, 44, 14), cl.col, 5); shade(c, () => rrect(c, x0, ty - 22, x1 - x0, 44, 14), cl.dk, 0, -14, 0.45);
+    const x0 = s < 0 ? cx - 400 : cx + 16, x1 = s < 0 ? cx - 16 : cx + 400;
+    shape(c, () => rrect(c, x0, ty - 26, x1 - x0, 52, 14), cl.col, 5); shade(c, () => rrect(c, x0, ty - 26, x1 - x0, 52, 14), cl.dk, 0, -16, 0.45);
   }
-  // rain beads sitting on the cloth, none going through
-  for (const bx of [cx - 270, cx - 150, cx + 150, cx + 270]) shape(c, () => { c.moveTo(bx - 34, ty - 22); c.quadraticCurveTo(bx, ty - 90, bx + 34, ty - 22); c.closePath(); }, COL.water, 4);
-  shape(c, () => { c.moveTo(cx - 40, ty - 22); c.quadraticCurveTo(cx, ty - 100, cx + 40, ty - 22); c.closePath(); }, COL.water, 4);
-  line(c, [[cx - 20, ty - 40], [cx - 8, ty - 66]], 6, COL.drop);
-  // the drop hanging under the pinhole
-  shape(c, () => { c.moveTo(cx - 6, ty + 20); c.lineTo(cx + 6, ty + 20); c.quadraticCurveTo(cx + 34, ty + 70, cx + 30, ty + 100); c.arc(cx, ty + 100, 30, 0, Math.PI); c.quadraticCurveTo(cx - 34, ty + 70, cx - 6, ty + 20); c.closePath(); }, COL.water, 5);
-  shape(c, () => ell(c, cx - 11, ty + 98, 8, 14), COL.drop, 0);
-  arrow(c, [[cx, 150], [cx, 300]]);
+  // rain beads resting on the cloth, none going through
+  for (const bx of [cx - 290, cx - 170, cx + 170, cx + 290]) {
+    shape(c, () => { c.moveTo(bx - 40, ty - 26); c.quadraticCurveTo(bx, ty - 104, bx + 40, ty - 26); c.closePath(); }, COL.water, 4);
+    shape(c, () => ell(c, bx - 12, ty - 52, 6, 12), COL.drop, 0);
+  }
+  // the water at the pinhole: a heap above, a thread through the hole, a big drop hanging below
+  shape(c, () => { c.moveTo(cx - 62, ty - 26); c.quadraticCurveTo(cx, ty - 140, cx + 62, ty - 26); c.lineTo(cx + 16, ty - 10); c.lineTo(cx + 16, ty + 34); c.bezierCurveTo(cx + 66, ty + 80, cx + 58, ty + 170, cx, ty + 170); c.bezierCurveTo(cx - 58, ty + 170, cx - 66, ty + 80, cx - 16, ty + 34); c.lineTo(cx - 16, ty - 10); c.closePath(); }, COL.water, 5);
+  shape(c, () => ell(c, cx - 20, ty + 118, 9, 20), COL.drop, 0);
+  shape(c, () => ell(c, cx - 14, ty - 60, 7, 14), COL.drop, 0);
+  c.beginPath(); ell(c, cx, ty + 60, 120, 150); c.strokeStyle = RED; c.lineWidth = 9; c.stroke();
 };
 
 // ---------------------------------------------------------------- e2 / e3: strips hung from a book
@@ -321,8 +312,11 @@ const c10 = (c: Ctx) => {
     const x = 90 + 84 * i;
     shadow(c, x + 14, 620, 28, 300);
     mstrip(c, x, 300, 910, 56, MATS[mi]);
-    line(c, [[x - 28, 820], [x + 28, 820]], 6, COL.greyDk);
+    line(c, [[x - 28, 820], [x + 28, 820]], 10, COL.black);
   });
+  // 1 cm between the pencil line and the bottom edge
+  line(c, [[552, 820], [552, 910]], 6, RED); line(c, [[538, 820], [566, 820]], 6, RED); line(c, [[538, 910], [566, 910]], 6, RED);
+  write(c, "1 cm", 488, 930, 44, INK, 6);
   shadow(c, 540, 332, 520, 14);
   shape(c, () => rrect(c, 14, 252, 1052, 50, 25), COL.wood); shade(c, () => rrect(c, 14, 252, 1052, 50, 25), COL.woodDk, 0, -16, 0.5);
   line(c, [[40, 266], [1040, 266]], 5, WHITE);
@@ -337,8 +331,12 @@ const c11 = (c: Ctx) => {
   shape(c, () => ell(c, 540, 190, 112, 112), COL.orange, 6);
   shape(c, () => ell(c, 540, 190, 86, 86), WHITE, 5);
   c.beginPath(); c.moveTo(540, 190); c.arc(540, 190, 80, -Math.PI / 2, -Math.PI / 2 + Math.PI / 6); c.closePath(); c.fillStyle = RED; c.fill();
-  for (let k = 0; k < 12; k++) { const an = (k * Math.PI) / 6 - Math.PI / 2; line(c, [[540 + Math.cos(an) * 70, 190 + Math.sin(an) * 70], [540 + Math.cos(an) * 84, 190 + Math.sin(an) * 84]], 4); }
-  write(c, "5", 566, 210, 40, INK, 6);
+  for (let k = 0; k < 12; k++) {
+    const an = (k * Math.PI) / 6 - Math.PI / 2, t = k ? String(k * 5) : "0", h = 16, wd = 0.8 * h * (t.length - 1) + 0.6 * h;
+    line(c, [[540 + Math.cos(an) * 74, 190 + Math.sin(an) * 74], [540 + Math.cos(an) * 84, 190 + Math.sin(an) * 84]], 4);
+    write(c, t, 540 + Math.cos(an) * 56 - wd / 2, 190 + Math.sin(an) * 56 - h / 2, h, INK, 3.5);
+  }
+  line(c, [[540, 190], [540 + Math.cos(-Math.PI / 3) * 44, 190 + Math.sin(-Math.PI / 3) * 44]], 6);
   // piles of books
   const piles: [number, string, string][] = [[20, COL.teal, COL.tealDk], [850, COL.purple, "#6a50a5"]];
   piles.forEach(([px, col, dk]) => { [COL.orange, col, COL.blue, COL.pink].forEach((cc, k) => book(c, px + (k % 2) * 10, FL - 110 * (k + 1), 190, 110, cc, k === 1 ? dk : "#5b4a8a")); });

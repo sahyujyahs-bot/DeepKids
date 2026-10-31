@@ -6831,3 +6831,19 @@ body {
 .introw p {
   margin: 2px 0 0;
 }
+
+/* a found item's name, editable in place */
+.ptitle {
+  width: 100%;
+  min-width: 0;
+  font: 600 16px var(--display);
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  border-bottom: 1.5px dashed color-mix(in srgb, var(--ink) 30%, transparent);
+  padding: 2px 0;
+}
+.ptitle:focus {
+  outline: 0;
+  border-bottom-color: var(--aqua);
+}

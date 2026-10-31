@@ -120,12 +120,15 @@ const e2_0 = (c: Ctx) => {
   const DIMF = "#272243", DIML = "#4a4377";
   const ghost = (path: () => void) => shape(c, path, DIMF, 0);
   const edge = (path: () => void) => { c.beginPath(); path(); c.strokeStyle = DIML; c.lineWidth = 5; c.stroke(); };
-  // steel plate lying flat
-  ghost(() => ell(c, 160, 810, 120, 36)); edge(() => ell(c, 160, 810, 120, 36)); edge(() => ell(c, 160, 808, 92, 26));
-  // mirror standing
-  ghost(() => rrect(c, 290, 590, 150, 210, 16)); edge(() => rrect(c, 290, 590, 150, 210, 16)); edge(() => rrect(c, 308, 608, 114, 174, 10));
-  // white ball
-  ghost(() => ell(c, 570, 730, 75, 75)); edge(() => ell(c, 570, 730, 75, 75));
+  // steel plate lying flat, with its rim and thickness
+  const rim = (cx: number, cy: number, rx: number, ry: number) => { ghost(() => { c.moveTo(cx - rx, cy); c.lineTo(cx - rx, cy + 16); c.ellipse(cx, cy + 16, rx, ry, 0, Math.PI, 0, true); c.lineTo(cx + rx, cy); c.closePath(); }); edge(() => { c.moveTo(cx - rx, cy); c.lineTo(cx - rx, cy + 16); c.ellipse(cx, cy + 16, rx, ry, 0, Math.PI, 0, true); c.lineTo(cx + rx, cy); }); };
+  rim(140, 800, 128, 40); ghost(() => ell(c, 140, 800, 128, 40)); edge(() => ell(c, 140, 800, 128, 40)); edge(() => ell(c, 140, 802, 96, 27));
+  // hand mirror standing on its handle: round glass in a frame
+  ghost(() => rrect(c, 322, 700, 36, 100, 14)); edge(() => rrect(c, 322, 700, 36, 100, 14));
+  ghost(() => ell(c, 340, 610, 88, 100)); edge(() => ell(c, 340, 610, 88, 100)); edge(() => ell(c, 340, 610, 68, 80));
+  // white ball with its seams
+  ghost(() => ell(c, 575, 720, 88, 88)); edge(() => ell(c, 575, 720, 88, 88));
+  c.save(); c.beginPath(); ell(c, 575, 720, 88, 88); c.clip(); edge(() => { c.moveTo(500, 650); c.quadraticCurveTo(575, 700, 500, 790); }); edge(() => { c.moveTo(650, 650); c.quadraticCurveTo(575, 700, 650, 790); }); c.restore();
   // phone, screen glowing
   glow(c, 770, 650, 200, "180,215,255");
   shadow(c, 790, 808, 80, 14);
@@ -212,42 +215,48 @@ const e3_0 = (c: Ctx) => {
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   c.fillStyle = COL.sky; c.fillRect(0, 0, 1080, 1080);
-  shape(c, () => c.rect(-10, 720, 1100, 400), "#e3c88f", 0); line(c, [[0, 720], [1080, 720]], 5);
-  const Sx = 294, Sy = 70, Hx = 565, Hy = 445, Px = 880, Py = 880;
+  shape(c, () => c.rect(-10, 660, 1100, 460), "#e3c88f", 0); line(c, [[0, 660], [1080, 660]], 5);
+  const Sx = 130, Sy = 40, Hx = 565, Hy = 445, Px = 885, Py = 745;
   sun(c, Sx, Sy, 52);
-  shadow(c, 300, 990, 110, 20); shadow(c, 470, 995, 190, 22);
-  person(c, 240, 980, 640, { armR: [-0.35, 0.25] });
+  shadow(c, 300, 990, 110, 20);
+  // the child seen from behind: back to the Sun, looking down at the paper
+  const cx = 240, ch = 640, head = ch * 0.13, hy = 980 - ch * 0.74 - head * 1.05;
+  person(c, cx, 980, ch, { armR: [-0.35, 0.25] });
+  shape(c, () => ell(c, cx, hy, head * 1.04, head * 1.08), CLOTH.hair, 5);
   // the paper on the ground, the card's shadow on it, a bright round spot in the shadow
-  shadow(c, 890, 960, 200, 24);
-  shape(c, () => polyP(c, [[740, 800], [1040, 800], [1070, 940], [710, 940]]), WHITE, 6);
-  shape(c, () => polyP(c, [[790, 828], [980, 828], [995, 925], [780, 925]]), "#8f8aa8", 0);
+  shadow(c, 890, 830, 200, 24);
+  shape(c, () => polyP(c, [[740, 690], [1040, 690], [1070, 820], [710, 820]]), WHITE, 6);
+  shape(c, () => polyP(c, [[790, 708], [980, 708], [995, 800], [780, 800]]), "#8f8aa8", 0);
   shape(c, () => ell(c, Px, Py, 30, 24), "#fffbe0", 4);
-  // the card, held by the child, with a foil dot
+  line(c, [[Sx + 40, Sy + 40], [Hx - 8, Hy - 10]], 7, COL.yellow); line(c, [[Hx + 8, Hy + 10], [Px - 8, Py - 12]], 7, COL.yellow);
+  // the card, held up in a hand, with a foil dot
   shape(c, () => rrect(c, 500, 350, 130, 190, 8), CARDBOARD, 6); shade(c, () => rrect(c, 500, 350, 130, 190, 8), CARDBOARDDK, 12, 12, 0.5);
   shape(c, () => ell(c, Hx, Hy, 34, 34), COL.steel, 4); shape(c, () => ell(c, Hx, Hy, 4, 4), "#fffbe0", 0);
-  shape(c, () => ell(c, 511, 515, 26, 28), SKIN.child, 5); shape(c, () => ell(c, 531, 502, 14, 10), SKIN.child, 4);
-  line(c, [[Sx + 40, Sy + 45], [Hx - 20, Hy - 24]], 7, COL.yellow); line(c, [[Hx + 10, Hy + 14], [Px - 8, Py - 14]], 7, COL.yellow);
+  hand(c, 516, 560, -1.45, 0.9, SKIN.child, CLOTH.child);
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c, "#e3c88f");
-  const Sx = 360, Sy = 70, Hx = 405, Hy = 235, Px = 520, Py = 730, R = 68;
+  const Sx = 360, Sy = 70, Hx = 405, Hy = 235, Px = 520, Py = 700, R = 70;
   // paper on the ground with the big shadow and the big spot
   shadow(c, 540, 990, 440, 26);
   shape(c, () => rrect(c, 150, 580, 780, 390, 8), WHITE, 6);
   shape(c, () => polyP(c, [[340, 600], [720, 600], [740, 855], [320, 855]]), "#8f8aa8", 0);
   c.save(); c.beginPath(); c.moveTo(Hx - 6, Hy + 6); c.lineTo(Px - R, Py); c.lineTo(Px + R, Py); c.lineTo(Hx + 6, Hy + 6); c.closePath(); c.fillStyle = "rgba(255,226,120,0.4)"; c.fill(); c.restore();
   shape(c, () => ell(c, Px, Py, R, R * 0.95), "#fffbe0", 4);
-  // the ruler along the foot of the spot, 0 at its left edge
-  shape(c, () => rrect(c, Px - R - 14, 800, 330, 70, 4), COL.wood, 6);
-  for (let i = 0; i <= 6; i++) { const x = Px - R + i * 45; line(c, [[x, 800], [x, 834]], 4); if (i < 6) write(c, String(i), x + 6, 840, 24, INK, 4); }
-  // the card held up high by the grown-up, light through its foil dot
+  // the ruler under the spot: 0 at its left edge, the spot reaches 2
+  shape(c, () => rrect(c, Px - R - 14, 790, 400, 70, 4), COL.wood, 6);
+  for (let i = 0; i <= 5; i++) { const x = Px - R + i * R; line(c, [[x, 790], [x, 824]], 4); if (i < 5) write(c, String(i), x + 6, 830, 24, INK, 4); }
+  line(c, [[Px - R, Py + 40], [Px - R, 790]], 4, INK); line(c, [[Px + R, Py + 40], [Px + R, 790]], 4, INK);
+  write(c, "2 cm", Px + R + 40, Py - 30, 52, INK, 7);
+  // the card held up high by the grown-up, light through its foil dot, and an arrow for moving it up
   sun(c, Sx, Sy, 48);
   shape(c, () => rrect(c, 290, 150, 230, 160, 8), CARDBOARD, 6); shade(c, () => rrect(c, 290, 150, 230, 160, 8), CARDBOARDDK, 12, 12, 0.5);
   shape(c, () => ell(c, Hx, Hy, 26, 26), COL.steel, 4); shape(c, () => ell(c, Hx, Hy, 4, 4), "#fffbe0", 0);
   line(c, [[Sx + 4, Sy + 52], [Hx - 4, Hy - 28]], 7, COL.yellow);
   hand(c, 598, 230, Math.PI, 1.3, SKIN.adult, CLOTH.adult);
-  hand(c, 340, 835, 0, 1.2, SKIN.child, CLOTH.child, true);
+  arrow(c, [[860, 330], [860, 160]]);
+  hand(c, 330, 825, 0, 1.2, SKIN.child, CLOTH.child, true);
 };
 
 export const su_skySunMoonStars = cards("sci.sky.sun-moon-stars.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

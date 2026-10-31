@@ -90,17 +90,25 @@ const e1s0 = (c: Ctx) => {
   hand(c, 190, 470, 0.05, 2.1, SKIN.child, CLOTH.child, false);
 };
 // setup.e1.1
+// a fallen, shrivelled bhindi petal: pale yellow, brown curled edge, maroon spot at its base
+const wiltPetal = (c: Ctx, x: number, y: number, r: number, rot: number) => {
+  c.save(); c.translate(x, y); c.rotate(rot);
+  const p = () => { c.moveTo(-r * 0.3, 0); c.bezierCurveTo(-r * 0.2, -r * 0.9, r * 0.5, -r * 1.05, r * 0.95, -r * 0.55); c.bezierCurveTo(r * 1.1, -r * 0.2, r * 0.8, -r * 0.05, r, r * 0.2); c.bezierCurveTo(r * 0.85, r * 0.85, -r * 0.1, r * 0.9, -r * 0.3, 0); c.closePath(); };
+  shape(c, p, PETAL, 6); shade(c, p, "#a8742f", r * 0.35, -r * 0.05, 0.7);
+  line(c, [[r * 0.1, -r * 0.1], [r * 0.7, -r * 0.35]], 3.5, "#a8742f"); line(c, [[r * 0.1, r * 0.1], [r * 0.7, r * 0.3]], 3.5, "#a8742f");
+  shape(c, () => ell(c, -r * 0.18, 0, r * 0.2, r * 0.2), MAROON, 4);
+  c.restore();
+};
 const e1s1 = (c: Ctx) => {
   bhindiPlant(c);
-  const r = rnd(9);
-  for (const [px, py, a] of [[170, 1010, 0.3], [330, 1030, -0.5], [760, 1015, 0.8], [890, 1035, -0.2]]) {
-    shape(c, () => { c.moveTo(px - 50, py); c.quadraticCurveTo(px - 10, py - 40 - r() * 8, px + 50, py - 6); c.quadraticCurveTo(px, py + 30, px - 50, py); c.closePath(); }, "#d9b653", 5); void a;
-  }
-  // the thin green tip standing up from a dry cup at the end of the stalk
-  const tip = () => { c.moveTo(628, 420); c.quadraticCurveTo(620, 300, 640, 200); c.quadraticCurveTo(662, 300, 654, 420); c.closePath(); };
-  shape(c, tip, COL.greenLt, 6); shade(c, tip, COL.green, 8, 0, 0.7);
-  shape(c, () => polyP(c, [[600, 395], [682, 395], [668, 450], [614, 450]]), COL.greenDk, 6);
-  shape(c, () => ell(c, 580, 360, 36, 18, -0.9), "#d9b653", 5); shape(c, () => ell(c, 705, 345, 34, 16, 0.9), "#d9b653", 5);
+  // petals that have dropped onto the soil and two still falling
+  for (const [px, py, r, a] of [[170, 950, 80, 0.3], [310, 1010, 70, -0.5], [760, 960, 85, 0.8], [900, 1020, 70, -0.2], [560, 1030, 60, 0.4]]) wiltPetal(c, px, py, r, a);
+  wiltPetal(c, 840, 600, 70, 0.9); wiltPetal(c, 450, 330, 66, -0.7);
+  arrow(c, [[840, 680], [840, 790]], RED, 12);
+  // the thin green baby pod standing up from the dry green cup at the end of the stalk
+  const tip = () => { c.moveTo(618, 420); c.quadraticCurveTo(606, 280, 640, 150); c.quadraticCurveTo(676, 280, 664, 420); c.closePath(); };
+  shape(c, tip, COL.greenLt, 6); shade(c, tip, COL.green, 10, 0, 0.7);
+  shape(c, () => polyP(c, [[590, 392], [694, 392], [676, 452], [606, 452]]), COL.greenDk, 6);
   thread(c, 604, 486);
 };
 // setup.e1.2
@@ -158,12 +166,12 @@ const e2s0 = (c: Ctx) => {
   arrow(c, [[260, 230], [260, 400]], RED, 14); arrow(c, [[420, 230], [420, 410]], RED, 14); arrow(c, [[990, 270], [945, 400]], RED, 14);
 };
 const cutBhindi = (c: Ctx, x: number, y: number, r: number) => {
-  shadow(c, x + r * 0.1, y + r * 0.8, r, r * 0.2);
-  shape(c, () => ell(c, x, y, r, r * 0.9), COL.green, 6);
-  shape(c, () => ell(c, x, y, r * 0.78, r * 0.7), "#e9f2c4", 4);
-  const st: number[][] = []; for (let k = 0; k < 10; k++) { const a = -Math.PI / 2 + k * Math.PI / 5, rr = k % 2 ? 0.22 : 0.62; st.push([x + Math.cos(a) * r * rr, y + Math.sin(a) * r * rr * 0.9]); }
-  shape(c, () => polyP(c, st), "#cfe39a", 3);
-  for (let k = 0; k < 5; k++) { const a = -Math.PI / 2 + k * Math.PI * 2 / 5; for (const t of [0.4, 0.55]) { c.beginPath(); ell(c, x + Math.cos(a) * r * t, y + Math.sin(a) * r * t * 0.9, r * 0.07, r * 0.07); c.fillStyle = WHITE; c.fill(); c.lineWidth = 3; c.strokeStyle = INK; c.stroke(); } }
+  shadow(c, x + r * 0.1, y + r * 0.85, r, r * 0.2);
+  // a five-ridged pod cut across: green ridged rim, pale inside, five chambers each with round white seeds
+  const ridged = (k: number) => () => { for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + i * Math.PI / 5, rr = (i % 2 ? 0.8 : 1) * k, px = x + Math.cos(a) * r * rr, py = y + Math.sin(a) * r * rr * 0.92; i ? c.lineTo(px, py) : c.moveTo(px, py); } c.closePath(); };
+  shape(c, ridged(1), COL.green, 6); shape(c, ridged(0.8), "#e9f2c4", 4);
+  for (let k = 0; k < 5; k++) { const a = -Math.PI / 2 + k * Math.PI * 2 / 5; line(c, [[x + Math.cos(a) * r * 0.1, y + Math.sin(a) * r * 0.1], [x + Math.cos(a + Math.PI / 5) * r * 0.74, y + Math.sin(a + Math.PI / 5) * r * 0.74 * 0.92]], 4, COL.greenDk); }
+  for (let k = 0; k < 5; k++) { const a = -Math.PI / 2 + k * Math.PI * 2 / 5 + Math.PI / 5 + 0.63; for (const t of [0.34, 0.56]) { c.beginPath(); ell(c, x + Math.cos(a) * r * t, y + Math.sin(a) * r * t * 0.92, r * 0.1, r * 0.1); c.fillStyle = WHITE; c.fill(); c.lineWidth = 3.5; c.strokeStyle = INK; c.stroke(); } }
 };
 const cutTomato = (c: Ctx, x: number, y: number, r: number) => {
   shadow(c, x + r * 0.1, y + r * 0.8, r, r * 0.2);
@@ -278,19 +286,21 @@ const e4s0 = (c: Ctx) => {
 // setup.e4.1
 const e4s1 = (c: Ctx) => {
   ground(c);
-  shadow(c, 600, 780, 400, 24);
-  // barrel with water and leaf circles sunk at the bottom, plunger pulled back
-  line(c, [[340, 540], [190, 540]], 54, INK); line(c, [[340, 540], [190, 540]], 34, COL.glass);
-  shape(c, () => rrect(c, 345, 530, 450, 240, 8), COL.water, 0);
-  shape(c, () => rrect(c, 340, 410, 560, 360, 20), "rgba(214,236,250,0.55)", 7); shine(c, [[380, 440], [860, 440]], 9);
-  shape(c, () => rrect(c, 345, 520, 450, 12, 4), COL.drop, 0);
-  for (const [dx, dy] of [[400, 725], [480, 735], [560, 722], [640, 736], [720, 726]]) disc(c, dx, dy, 32);
-  shape(c, () => rrect(c, 800, 420, 60, 340, 10), COL.black, 5);
-  line(c, [[860, 590], [1020, 590]], 30, INK); line(c, [[860, 590], [1020, 590]], 18, COL.steelIn);
-  shape(c, () => rrect(c, 1010, 450, 44, 280, 12), COL.steel, 6);
-  shape(c, () => rrect(c, 900, 400, 20, 380, 8), COL.steel, 5);
-  arrow(c, [[780, 900], [1000, 900]], RED, 14);
-  hand(c, 40, 540, 0, 1.7, SKIN.child, CLOTH.child, true);
+  shadow(c, 520, 700, 380, 22);
+  // syringe lying flat: nozzle on the left under the child's fingertip, leaf circles sunk in the water, plunger pulled back
+  line(c, [[300, 480], [190, 480]], 50, INK); line(c, [[300, 480], [190, 480]], 32, COL.glass);
+  shape(c, () => rrect(c, 305, 495, 400, 80, 8), COL.water, 0);
+  shape(c, () => rrect(c, 300, 385, 440, 190, 20), "rgba(214,236,250,0.55)", 7); shine(c, [[345, 412], [680, 412]], 9);
+  shape(c, () => rrect(c, 305, 489, 400, 12, 4), COL.drop, 0);
+  for (const [dx, dy] of [[360, 546], [440, 552], [520, 544], [600, 554]]) disc(c, dx, dy, 32);
+  shape(c, () => rrect(c, 690, 395, 60, 170, 10), COL.black, 5);
+  line(c, [[750, 480], [880, 480]], 28, INK); line(c, [[750, 480], [880, 480]], 16, COL.steelIn);
+  shape(c, () => rrect(c, 740, 360, 20, 240, 8), COL.steel, 5);
+  shape(c, () => rrect(c, 860, 390, 40, 180, 12), COL.steel, 6);
+  arrow(c, [[480, 700], [760, 700]], RED, 14);
+  // right hand pulls the plunger back, left fingertip presses over the nozzle
+  hand(c, 975, 480, Math.PI, 1.25, SKIN.child, CLOTH.child, false);
+  hand(c, 225, 655, -Math.PI / 2, 1.8, SKIN.child, CLOTH.child, true);
 };
 // setup.e4.2
 const e4s2 = (c: Ctx) => {

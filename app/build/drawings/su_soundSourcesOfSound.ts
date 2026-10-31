@@ -52,12 +52,14 @@ const e1_1 = (c: Ctx) => {
   arrow(c, [[935, 560], [935, 700]]);
   bracket(c, 520, 820, 880, "5 cm");
 };
-// setup.e1.2
+// setup.e1.2: the longer overhang, with the old 5 cm length marked above it so the two can be compared
 const e1_2 = (c: Ctx) => {
   rulerScene(c, 300, 240, 600);
-  ruler(c, 300, 240, 600, -70, 0.3); ruler(c, 300, 240, 600, 70, 0.3); ruler(c, 300, 240, 600, 0, 1);
+  ruler(c, 300, 240, 600, -85, 0.3); ruler(c, 300, 240, 600, 85, 0.3); ruler(c, 300, 240, 600, 0, 1);
   hnd(c, 160, 368, Math.PI / 2, 2, true);
   arrow(c, [[985, 600], [985, 480]]); arrow(c, [[985, 640], [985, 760]]);
+  for (let y = 410; y < 540; y += 36) line(c, [[600, y], [600, y + 18]], 6, COL.greyDk);
+  bracket(c, 300, 600, 380, "5 cm");
   bracket(c, 300, 900, 860, "10 cm");
 };
 
@@ -120,15 +122,18 @@ const torch = (c: Ctx, x: number, y: number, an: number) => {
 };
 const e2_2 = (c: Ctx) => {
   ground(c);
-  // the beam from the torch across the bowl
-  c.globalAlpha = 0.35; shape(c, () => polyP(c, [[212, 252], [170, 630], [830, 585]]), COL.yellow, 0); c.globalAlpha = 1;
-  torch(c, 150, 190, 0.95);
   bowl(c, 480, 620, 340);
   shape(c, () => ell(c, 480, 635, 286, 48), COL.water, 4);
   shade(c, () => ell(c, 480, 635, 286, 48), COL.waterDk, -40, -14, 0.5);
+  // the torch beam lands on the water and lights it up
+  c.globalAlpha = 0.35; shape(c, () => polyP(c, [[250, 224], [150, 296], [230, 660], [420, 625]]), COL.yellow, 0); c.globalAlpha = 1;
+  c.globalAlpha = 0.55; shape(c, () => ell(c, 330, 640, 120, 26), COL.yellow, 0); c.globalAlpha = 1;
   c.strokeStyle = WHITE; c.lineWidth = 6; c.lineCap = "round"; c.globalAlpha = 0.9;
   for (const d of [12, 34, 56]) for (const [a0, a1] of [[-0.5, 0.5], [Math.PI - 0.5, Math.PI + 0.5]]) { c.beginPath(); c.ellipse(480, 635, 286 - d, 48 - d * 0.17, 0, a0, a1); c.stroke(); }
   c.globalAlpha = 1;
+  for (const [x, y] of [[270, 628], [330, 650], [400, 632]]) { line(c, [[x - 14, y], [x + 14, y]], 5, WHITE); line(c, [[x, y - 14], [x, y + 14]], 5, WHITE); }
+  torch(c, 150, 190, 0.95);
+  hnd(c, 51, 52, 0.95, 1.5);
   spoon(c, 845, 575, -1.1, 300);
   hnd(c, 1000, 392, 2.7, 1.4);
 };
@@ -165,13 +170,24 @@ const e3_1 = (c: Ctx) => {
   [[420, 400, 0.6], [500, 330, 1.4], [580, 410, -0.5], [650, 330, 0.9], [540, 250, 0.2], [450, 270, -0.9]].forEach(([x, y, r]) => { grain(c, x, y, r); line(c, [[x - 8, y + 24], [x - 8, y + 48]], 4); line(c, [[x + 8, y + 30], [x + 8, y + 54]], 4); });
   tapHand(c);
 };
+// a hand with one finger out, tapping the skin (fingertip lands at tipX, tipY)
+const pointHand = (c: Ctx, tipX: number, tipY: number) => {
+  const an = 2.2, s = 1.5, dx = Math.cos(an), dy = Math.sin(an), reach = 150 * s;
+  const wx = tipX - dx * reach + dy * 4.5 * s, wy = tipY - dy * reach - dx * 4.5 * s;
+  hnd(c, wx, wy, an, s);
+  c.save(); c.translate(wx, wy); c.rotate(an); c.scale(s, s);
+  shape(c, () => rrect(c, 30, -20, 120, 26, 13), SKIN.child, 5);
+  c.restore();
+  for (const [x0, y0, x1, y1] of [[636, 556, 614, 566], [660, 574, 656, 596], [690, 566, 704, 586]]) line(c, [[x0, y0], [x1, y1]], 7);
+};
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c); drum(c);
-  const blob = () => { c.moveTo(440, 560); c.bezierCurveTo(430, 490, 470, 440, 540, 442); c.bezierCurveTo(610, 440, 660, 490, 640, 560); c.bezierCurveTo(600, 585, 480, 585, 440, 560); c.closePath(); };
+  const blob = () => { c.moveTo(455, 560); c.bezierCurveTo(430, 500, 470, 455, 530, 455); c.bezierCurveTo(600, 452, 645, 500, 625, 560); c.bezierCurveTo(590, 585, 490, 585, 455, 560); c.closePath(); };
+  shadow(c, 548, 572, 100, 14);
   shape(c, blob, DOUGH, 6); shade(c, blob, DOUGHDK, -40, -10, 0.6);
-  shine(c, [[480, 500], [510, 468]], 9);
-  tapHand(c);
+  line(c, [[480, 490], [505, 472]], 8, WHITE);
+  pointHand(c, 668, 540);
 };
 
 // setup.e3.1 etc. are in frame order

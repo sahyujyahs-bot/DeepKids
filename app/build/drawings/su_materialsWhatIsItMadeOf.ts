@@ -85,26 +85,30 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  shadow(c, 560, 940, 480, 36);
-  shape(c, () => polyP(c, [[170, 640], [910, 640], [1000, 860], [80, 860]]), COL.teal);
-  shape(c, () => polyP(c, [[80, 860], [1000, 860], [1000, 930], [80, 930]]), COL.tealDk);
-  shape(c, () => polyP(c, [[225, 662], [855, 662], [925, 830], [155, 830]]), PULP, 5);
+  shadow(c, 560, 960, 480, 36);
+  shape(c, () => polyP(c, [[170, 700], [910, 700], [1000, 880], [80, 880]]), COL.teal);
+  shape(c, () => polyP(c, [[80, 880], [1000, 880], [1000, 950], [80, 950]]), COL.tealDk);
+  shape(c, () => polyP(c, [[225, 722], [855, 722], [925, 850], [155, 850]]), PULP, 5);
   const r = rnd(4);
-  for (let i = 0; i < 14; i++) line(c, [[280 + r() * 500, 690 + r() * 120], [300 + r() * 480, 700 + r() * 120]], 4, PULPDK);
-  // drips
-  [[330, 640], [470, 660], [600, 635], [740, 655]].forEach(([x, y]) => drop(c, x, y, 16, "#c8c3ba"));
-  // the framed net with a thin layer of fibre
-  shape(c, () => polyP(c, [[250, 330], [830, 330], [900, 540], [180, 540]]), COL.wood);
-  shade(c, () => polyP(c, [[250, 330], [830, 330], [900, 540], [180, 540]]), COL.woodDk, 14, 14);
-  shape(c, () => polyP(c, [[292, 355], [788, 355], [842, 512], [238, 512]]), "#bdb8ae", 5);
-  c.save(); c.beginPath(); polyP(c, [[292, 355], [788, 355], [842, 512], [238, 512]]); c.clip();
-  for (let i = 0; i < 18; i++) { const t = i / 17; line(c, [[292 + t * 496 - 20 * (1 - t), 355], [238 + t * 604, 512]], 2.5, "#8c877f"); }
-  for (let j = 1; j < 6; j++) { const t = j / 6; line(c, [[292 - 54 * t, 355 + 157 * t], [788 + 54 * t, 355 + 157 * t]], 2.5, "#8c877f"); }
+  for (let i = 0; i < 14; i++) line(c, [[280 + r() * 500, 745 + r() * 80], [300 + r() * 480, 755 + r() * 80]], 4, PULPDK);
+  // pulp dripping from the frame back into the tray
+  [[320, 3], [450, 2], [590, 3], [720, 2]].forEach(([x, n]) => { line(c, [[x, 540], [x - 4, 640]], 10, INK); line(c, [[x, 540], [x - 4, 640]], 4, "#c8c3ba"); drop(c, x - 5, 665, 14, "#c8c3ba"); if (n === 3) drop(c, x + 30, 610, 10, "#c8c3ba"); });
+  // the wooden frame with its net: bare net round the edge, a thick grey layer of pulp on top
+  const fr = [[250, 300], [830, 300], [900, 520], [180, 520]], net = [[286, 326], [794, 326], [846, 494], [234, 494]];
+  shape(c, () => polyP(c, fr), COL.wood);
+  shade(c, () => polyP(c, fr), COL.woodDk, 14, 14);
+  shape(c, () => polyP(c, net), "#e9e5da", 5);
+  c.save(); c.beginPath(); polyP(c, net); c.clip();
+  for (let i = 0; i < 22; i++) { const t = i / 21; line(c, [[286 + t * 508 - 20 * (1 - t), 326], [234 + t * 612, 494]], 2.5, "#9b968c"); }
+  for (let j = 1; j < 7; j++) { const t = j / 7; line(c, [[286 - 52 * t, 326 + 168 * t], [794 + 52 * t, 326 + 168 * t]], 2.5, "#9b968c"); }
   c.restore();
-  [[330, 560], [440, 575], [570, 565], [690, 578], [790, 560]].forEach(([x, y]) => drop(c, x, y, 13, "#c8c3ba"));
-  hand(c, 138, 420, 0.25, 1.2);
-  hand(c, 942, 420, Math.PI - 0.25, 1.2);
-  arrow(c, [[540, 290], [540, 120]], RED, 12);
+  const layer = () => { c.moveTo(335, 350); c.quadraticCurveTo(540, 336, 745, 350); c.quadraticCurveTo(790, 410, 800, 470); c.quadraticCurveTo(540, 490, 280, 470); c.quadraticCurveTo(290, 410, 335, 350); c.closePath(); };
+  shape(c, layer, PULP, 5);
+  shade(c, layer, PULPDK, 26, 20, 0.55);
+  for (let i = 0; i < 18; i++) { const x = 330 + r() * 440, y = 365 + r() * 90; line(c, [[x, y], [x + 30 + r() * 20, y + r() * 12 - 6]], 4, "#d3cec4"); }
+  hand(c, 100, 430, 0.1, 1.35);
+  hand(c, 980, 430, Math.PI - 0.1, 1.35);
+  arrow(c, [[540, 270], [540, 90]], RED, 14);
 };
 
 // setup.e1.3
@@ -146,16 +150,20 @@ const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, water = tru
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  tumbler(c, 460, 900, 440, 500);
-  // salt grains drifting in the water
-  [[380, 410, 12], [425, 392, 9], [530, 420, 11], [470, 442, 8], [575, 398, 9], [345, 432, 8]].forEach(([x, y, r]) => { c.beginPath(); ell(c, x, y, r, r * 0.8); c.fillStyle = WHITE; c.fill(); });
-  // spoon
-  spoonWood(c, 860, 215, 500, 395, 22);
-  shape(c, () => ell(c, 490, 402, 44, 22, -0.2), COL.steel, 5);
-  hand(c, 960, 150, 2.67, 1.7);
-  const pts: number[][] = [];
-  for (let t = 3.3; t <= 5.9; t += 0.2) pts.push([460 + Math.cos(t) * 270, 335 + Math.sin(t) * 70]);
-  arrow(c, pts, RED, 11);
+  tumbler(c, 440, 920, 440, 500);
+  // a katori with a heap of salt, the spoon's source
+  bowl(c, 860, 840, 120);
+  const heap = () => { c.moveTo(755, 836); c.quadraticCurveTo(800, 740, 860, 735); c.quadraticCurveTo(920, 740, 965, 836); c.quadraticCurveTo(860, 868, 755, 836); c.closePath(); };
+  shape(c, heap, WHITE, 5); shade(c, heap, "#cfd5df", 24, 14, 0.7);
+  // water in the tumbler with salt grains still floating
+  [[360, 428, 11], [410, 440, 9], [500, 430, 10], [545, 440, 8]].forEach(([x, y, r]) => shape(c, () => ell(c, x, y, r, r * 0.8), WHITE, 3));
+  // the spoon, heaped with salt, tipping it into the water
+  spoonWood(c, 884, 175, 560, 285, 22);
+  shape(c, () => ell(c, 510, 300, 70, 34, 0.25), COL.steel, 6);
+  shape(c, () => { c.moveTo(450, 298); c.quadraticCurveTo(500, 240, 568, 292); c.quadraticCurveTo(510, 322, 450, 298); c.closePath(); }, WHITE, 4);
+  [[470, 345, 11], [500, 372, 12], [455, 385, 10], [520, 405, 9], [485, 330, 9]].forEach(([x, y, r]) => shape(c, () => ell(c, x, y, r, r * 0.85), WHITE, 3.5));
+  hand(c, 990, 110, 2.67, 1.7);
+  arrow(c, [[690, 250], [640, 360]], RED, 12);
 };
 
 // setup.e2.1
@@ -259,9 +267,13 @@ const dyeBowl = (c: Ctx, k: number, x: number, y: number) => {
   shape(c, body, COL.steel); shade(c, body, COL.steelDk, r * 0.35, -6);
   shape(c, () => ell(c, x, y, r, ry), COL.steelIn, 5);
   shape(c, () => ell(c, x, y + 4, r * 0.9, ry * 0.85), DYE[k], 4);
-  const cl = () => { c.moveTo(x - 110, y + 6); c.quadraticCurveTo(x - 90, y - 34, x - 30, y - 22); c.quadraticCurveTo(x + 30, y - 40, x + 90, y - 20); c.quadraticCurveTo(x + 130, y + 10, x + 80, y + 30); c.quadraticCurveTo(x, y + 44, x - 80, y + 32); c.closePath(); };
+  // a white cotton cloth heaped in the dye: the soaked part takes the colour, the top stays white
+  const cl = () => { c.moveTo(x - 130, y + 14); c.quadraticCurveTo(x - 120, y - 70, x - 50, y - 62); c.quadraticCurveTo(x, y - 100, x + 60, y - 60); c.quadraticCurveTo(x + 135, y - 50, x + 130, y + 16); c.quadraticCurveTo(x, y + 62, x - 130, y + 14); c.closePath(); };
   shape(c, cl, WHITE, 5);
-  c.save(); c.globalAlpha = 0.4; shape(c, cl, DYE[k], 0); c.restore();
+  c.save(); c.beginPath(); cl(); c.clip(); c.globalAlpha = 0.6; c.fillStyle = DYE[k]; c.fillRect(x - 200, y - 10, 400, 120);
+  c.globalAlpha = 1; for (let i = -6; i <= 6; i++) { line(c, [[x + i * 22, y - 110], [x + i * 22, y + 70]], 1.5, "#cfc9bc"); line(c, [[x - 140, y - 60 + (i + 6) * 12], [x + 140, y - 60 + (i + 6) * 12]], 1.5, "#cfc9bc"); }
+  c.restore();
+  line(c, [[x - 70, y - 40], [x - 20, y - 8]], 4); line(c, [[x + 10, y - 66], [x + 40, y - 20]], 4); line(c, [[x + 85, y - 40], [x + 60, y]], 4);
 };
 const e3_1 = (c: Ctx) => {
   ground(c, "#f3e9d4");
@@ -271,6 +283,7 @@ const e3_1 = (c: Ctx) => {
   spoonWood(c, x + 150, y - 130, x + 30, y - 10, 16);
   shape(c, () => ell(c, x + 28, y - 8, 30, 17, 0.5), COL.wood, 5);
   hand(c, x + 200, y - 180, 2.36, 1.1);
+  arrow(c, [[x - 80, y - 170], [x - 80, y - 90]], RED, 12);
 };
 
 // setup.e3.2

@@ -1,30 +1,10 @@
 import type { Ctx } from "./core";
-import { D, INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, person, hand, bowl, cards } from "./flatKit";
+import { D, INK, WHITE, RED, COL, SH, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, hand, bowl, write, cards } from "./flatKit";
 
 const NIGHT = "#2c2748", FLOOR = "#3d3560", PALE = "#f6f0dc", DARKB = "#443d66", LAMPY = "#ffe27a";
 
-// a person's wrist position (same maths as person()), so we can put an object in the hand
-const wrist = (x: number, y: number, h: number, side: "L" | "R", a: [number, number]) => {
-  const sh = y - h * 0.74, sx = x + (side === "L" ? -1 : 1) * h * 0.11, sy = sh + h * 0.03;
-  const ex = sx + Math.cos(a[0]) * h * 0.17, ey = sy + Math.sin(a[0]) * h * 0.17;
-  return [ex + Math.cos(a[1]) * h * 0.16, ey + Math.sin(a[1]) * h * 0.16];
-};
 // a pencil from (x1,y1) to (x2,y2)
 const pencil = (c: Ctx, x1: number, y1: number, x2: number, y2: number) => { line(c, [[x1, y1], [x2, y2]], 24, INK); line(c, [[x1, y1], [x2, y2]], 14, COL.wood); };
-// a bare bulb lamp on a stand with rays
-const lamp = (c: Ctx, x: number, y: number, s = 1) => {
-  c.beginPath(); ell(c, x, y, 150 * s, 150 * s); c.fillStyle = "rgba(255,226,122,0.18)"; c.fill();
-  c.beginPath(); ell(c, x, y, 105 * s, 105 * s); c.fillStyle = "rgba(255,226,122,0.25)"; c.fill();
-  for (let k = 0; k < 12; k++) { const a = (k / 12) * Math.PI * 2, r1 = 62 * s, r2 = 90 * s; line(c, [[x + Math.cos(a) * r1, y + Math.sin(a) * r1], [x + Math.cos(a) * r2, y + Math.sin(a) * r2]], 7, LAMPY); }
-  shape(c, () => rrect(c, x - 20 * s, y + 40 * s, 40 * s, 38 * s, 8), COL.steelDk, 5);
-  shape(c, () => ell(c, x, y, 46 * s, 46 * s), LAMPY, 6);
-  shine(c, [[x - 24 * s, y - 14 * s], [x - 12 * s, y - 28 * s]], 8);
-};
-const table = (c: Ctx, x: number, y: number, w: number, floorY: number) => {
-  shadow(c, x + w / 2 + 20, floorY + 4, w * 0.55, 18);
-  shape(c, () => rrect(c, x, y, w, 28, 8), COL.brown, 6);
-  for (const lx of [x + 24, x + w - 44]) shape(c, () => rrect(c, lx, y + 28, 20, floorY - y - 28, 4), COL.woodDk, 5);
-};
 type Lit = "none" | "left" | "right" | "full";
 // the pale ball: lit part toward the lamp, the rest dark ("none" keeps only a thin lit rim)
 const ball = (c: Ctx, x: number, y: number, r: number, lit: Lit, tone = PALE, dark = DARKB) => {
@@ -42,43 +22,57 @@ const inset = (c: Ctx, x: number, y: number, r: number, lit: Lit) => {
   ball(c, x, y, r * 0.72, lit);
 };
 
-// setup.e1.0 : facing the lamp, ball held toward it, dark side toward her -> new Moon
-const card1 = (c: Ctx) => {
-  ground(c, NIGHT); c.fillStyle = FLOOR; c.fillRect(0, 700, D, 380);
-  const gx = 640, gy = 700, gh = 520, a: [number, number] = [Math.PI * 0.97, Math.PI * 0.97];
-  lamp(c, 170, 440, 1.1); table(c, 70, 530, 200, 760);
-  shadow(c, gx + 40, gy + 6, 130, 20);
-  person(c, gx, gy, gh, { armL: a });
-  const [wx, wy] = wrist(gx, gy, gh, "L", a);
-  pencil(c, wx, wy + 40, wx, wy - 70); ball(c, wx, wy - 100, 62, "left");
-  inset(c, 880, 890, 120, "none");
+
+// ---------------------------------------------------------------- the lamp-and-ball set-up, seen from above
+// the child's head (the Earth) is at HX, HY on every card; the lamp (the Sun) is far on the left
+const HX = 620, HY = 540, BR = 62;
+// the lamp from above: a glowing bulb with rays, and light streaking across the floor
+const lampTop = (c: Ctx, x: number, y: number) => {
+  for (const yy of [230, 350, 470, 590, 710, 830, 950]) line(c, [[x + 100, yy], [1060, yy]], 8, "rgba(255,226,122,0.16)");
+  c.beginPath(); ell(c, x, y, 230, 230); c.fillStyle = "rgba(255,226,122,0.16)"; c.fill();
+  c.beginPath(); ell(c, x, y, 150, 150); c.fillStyle = "rgba(255,226,122,0.25)"; c.fill();
+  for (let k = 0; k < 14; k++) { const a = (k / 14) * Math.PI * 2; line(c, [[x + Math.cos(a) * 70, y + Math.sin(a) * 70], [x + Math.cos(a) * 105, y + Math.sin(a) * 105]], 8, LAMPY); }
+  shape(c, () => ell(c, x, y, 54, 54), LAMPY, 6);
+  shine(c, [[x - 28, y - 16], [x - 14, y - 32]], 9);
 };
-// setup.e1.1 : a quarter turn left, the lamp at her right side, half of the ball lit -> half Moon
+// the child seen from above, facing angle an (0 = right, PI = left); right hand holds the pencil and ball out
+const topChild = (c: Ctx, an: number) => {
+  c.save(); c.translate(HX, HY); c.rotate(an);
+  const sh = () => ell(c, 0, 0, 52, 112);
+  shape(c, () => ell(c, 6, -96, 44, 20), CLOTH.child, 5); shape(c, () => ell(c, 50, -98, 14, 14), SKIN.child, 4);
+  shape(c, sh, CLOTH.child); shade(c, sh, CLOTH.childDk, 14, 0, 0.7);
+  line(c, [[0, 92], [118, 66]], 52, INK); line(c, [[0, 92], [118, 66]], 40, CLOTH.child);
+  pencil(c, 110, 66, 320, 66);
+  hand(c, 118, 66, 0, 1.0);
+  shape(c, () => ell(c, 0, -70, 12, 18), SKIN.child, 4); shape(c, () => ell(c, 0, 70, 12, 18), SKIN.child, 4);
+  shape(c, () => ell(c, 72, 0, 12, 10), SKIN.child, 4);
+  const head = () => ell(c, 0, 0, 70, 70);
+  shape(c, head, SKIN.child);
+  c.save(); c.beginPath(); head(); c.clip(); shape(c, () => ell(c, -24, 0, 62, 76), CLOTH.hair, 0); c.restore();
+  c.beginPath(); head(); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  c.restore();
+  const ca = Math.cos(an), sa = Math.sin(an);
+  return [HX + 320 * ca - 66 * sa, HY + 320 * sa + 66 * ca];
+};
+const lampCard = (c: Ctx, an: number, inLit: Lit) => {
+  ground(c, FLOOR);
+  lampTop(c, 90, HY);
+  const [bx, by] = topChild(c, an);
+  c.beginPath(); ell(c, bx + 36, by + 44, BR, BR * 0.9); c.fillStyle = SH; c.fill();
+  ball(c, bx, by, BR, "left");
+  inset(c, 930, 170, 95, inLit);
+};
+
+// setup.e1.0 : facing the lamp, ball held toward it -> the side facing her is dark, a new Moon
+const card1 = (c: Ctx) => lampCard(c, Math.PI, "none");
+// setup.e1.1 : a quarter turn left, the lamp at her right side -> she sees the right half lit, a half Moon
 const card2 = (c: Ctx) => {
-  ground(c, NIGHT); c.fillStyle = FLOOR; c.fillRect(0, 700, D, 380);
-  const gx = 620, gy = 700, gh = 520, a: [number, number] = [Math.PI * 0.75, Math.PI * 1.3];
-  lamp(c, 170, 440, 1.1); table(c, 70, 530, 200, 760);
-  for (let k = 0; k < 3; k++) line(c, [[250, 440 + k * 40 - 40], [370, 440 + k * 40 - 40]], 6, "rgba(255,226,122,0.6)");
-  shadow(c, gx + 40, gy + 6, 130, 20);
-  person(c, gx, gy, gh, { armL: a });
-  const [wx, wy] = wrist(gx, gy, gh, "L", a);
-  pencil(c, wx, wy + 40, wx, wy - 60); ball(c, wx, wy - 95, 62, "left");
-  arrow(c, [[500, 195], [590, 150], [700, 150], [790, 195]], RED, 12);
-  inset(c, 880, 890, 120, "right");
+  lampCard(c, Math.PI / 2, "right");
+  arrow(c, [0, 1, 2, 3, 4, 5].map((k) => { const a = 3.0 - k * 0.16; return [HX + 175 * Math.cos(a), HY + 175 * Math.sin(a)]; }), RED, 12);
 };
-// setup.e1.2 : back to the lamp, ball a little above the head, fully lit -> full Moon
-const card3 = (c: Ctx) => {
-  ground(c, NIGHT); c.fillStyle = FLOOR; c.fillRect(0, 760, D, 320);
-  const gx = 560, gy = 830, gh = 440, a: [number, number] = [-1.2, -1.5];
-  lamp(c, 330, 300, 0.8);
-  shape(c, () => rrect(c, 230, 372, 200, 24, 6), COL.brown, 6); shape(c, () => polyP(c, [[250, 396], [250, 450], [300, 396]]), COL.woodDk, 5); shape(c, () => polyP(c, [[410, 396], [410, 450], [360, 396]]), COL.woodDk, 5);
-  for (let k = 0; k < 3; k++) line(c, [[400, 300 + (k - 1) * 30], [560, 270 + (k - 1) * 22]], 6, "rgba(255,226,122,0.6)");
-  shadow(c, gx + 40, gy + 6, 110, 18);
-  person(c, gx, gy, gh, { armR: a });
-  const [wx, wy] = wrist(gx, gy, gh, "R", a);
-  pencil(c, wx, wy + 30, wx, wy - 60); ball(c, wx, wy - 100, 56, "full");
-  inset(c, 880, 890, 110, "full");
-};
+// setup.e1.2 : back to the lamp, ball held out in front -> the lit side is the side facing her, a full Moon
+const card3 = (c: Ctx) => lampCard(c, 0, "full");
+
 
 // ---------------------------------------------------------------- eclipse set-up
 const football = (c: Ctx, x: number, y: number, r: number) => {
@@ -104,114 +98,111 @@ const eclipseSet = (c: Ctx, beam: () => void, afterBeam: () => void) => {
   bowl(c, FX, 720, 175);
 };
 const beamLit = (c: Ctx, pts: number[][]) => { c.beginPath(); polyP(c, pts); c.fillStyle = "rgba(255,226,122,0.30)"; c.fill(); };
-const shadowCone = (c: Ctx, pts: number[][]) => { c.beginPath(); polyP(c, pts); c.fillStyle = "rgba(14,10,34,0.62)"; c.fill(); };
+const shadowCone = (c: Ctx, pts: number[][], a = 0.62) => { c.beginPath(); polyP(c, pts); c.fillStyle = `rgba(14,10,34,${a})`; c.fill(); };
 const lime = (c: Ctx, x: number, y: number, dark = false) => {
   const b = () => ell(c, x, y, 52, 52);
-  shape(c, b, dark ? "#2d3f2c" : "#9ccf62", 6); if (!dark) { shade(c, b, COL.green, 14, 14, 0.7); shine(c, [[x - 30, y - 18], [x - 14, y - 34]], 8); }
-  shape(c, () => ell(c, x, y - 50, 9, 6), dark ? "#2d3f2c" : COL.greenDk, 4);
+  shape(c, b, dark ? "#3f6232" : "#9ccf62", 6); if (!dark) { shade(c, b, COL.green, 14, 14, 0.7); shine(c, [[x - 30, y - 18], [x - 14, y - 34]], 8); }
+  shape(c, () => ell(c, x, y - 50, 9, 6), dark ? "#3f6232" : COL.greenDk, 4);
 };
 const limeOnPencil = (c: Ctx, x: number, y: number, dark = false) => {
   pencil(c, x, 890, x, y + 30); lime(c, x, y, dark); hand(c, x, 965, -Math.PI / 2, 1.5);
 };
+
 
 // setup.e2.0 : torch shining at the football on the bowl
 const card4 = (c: Ctx) => {
   eclipseSet(c, () => beamLit(c, [[392, 570], [760, 440], [760, 830], [392, 700]]), () => {});
   football(c, FX, FY, FR);
 };
-// setup.e2.1 : lime between torch and football; its small shadow on the football, measured with a ruler
+// setup.e2.1 : lime between torch and football; its small round shadow on the football, measured with a ruler
 const card5 = (c: Ctx) => {
-  eclipseSet(c, () => beamLit(c, [[392, 570], [760, 440], [760, 830], [392, 700]]), () => shadowCone(c, [[520, 585], [650, 598], [650, 672], [520, 685]]));
+  eclipseSet(c, () => beamLit(c, [[392, 570], [760, 440], [760, 830], [392, 700]]), () => shadowCone(c, [[520, 585], [655, 592], [655, 678], [520, 685]]));
   football(c, FX, FY, FR);
-  // the small round shadow on the football, and a ruler lying across it
-  c.beginPath(); ell(c, 648, FY, 24, 40); c.fillStyle = "rgba(14,10,34,0.75)"; c.fill();
-  shape(c, () => polyP(c, [[690, 540], [722, 540], [722, 735], [690, 735]]), COL.wood, 5);
-  for (let k = 0; k <= 16; k++) line(c, [[690, 548 + k * 11.5], [690 + (k % 5 === 0 ? 24 : 12), 548 + k * 11.5]], 3);
+  // the small round shadow on the football, 7 cm wide, with a ruler lying under it and red lines carrying its edges down to the ruler
+  c.beginPath(); ell(c, 655, FY, 41, 50); c.fillStyle = "rgba(14,10,34,0.8)"; c.fill();
+  line(c, [[614, FY + 52], [614, 706]], 5, RED); line(c, [[696, FY + 52], [696, 706]], 5, RED);
+  shape(c, () => rrect(c, 590, 704, 280, 40, 4), COL.wood, 5);
+  for (let k = 0; k <= 22; k++) line(c, [[614 + k * 11.8, 704], [614 + k * 11.8, k % 5 === 0 ? 730 : 718]], 3);
+  write(c, "7 cm", 625, 756, 34, INK, 6);
   limeOnPencil(c, 520, 635);
 };
-// setup.e2.2 : lime behind the football, all dark inside its big shadow
+// setup.e2.2 : lime behind the football, dark inside its big shadow
 const card6 = (c: Ctx) => {
-  eclipseSet(c, () => beamLit(c, [[392, 570], [1080, 330], [1080, 830], [392, 700]]), () => shadowCone(c, [[730, 505], [1080, 540], [1080, 735], [730, 765]]));
+  eclipseSet(c, () => beamLit(c, [[392, 570], [1080, 330], [1080, 830], [392, 700]]), () => shadowCone(c, [[730, 505], [1080, 470], [1080, 800], [730, 765]], 0.85));
   football(c, FX, FY, FR);
-  limeOnPencil(c, 920, 635, true);
-  arrow(c, [[850, 450], [930, 480], [985, 545]], RED, 12);
+  limeOnPencil(c, 930, 635, true);
+  arrow(c, [[1010, 380], [1000, 450], [945, 530]], RED, 12);
 };
 
 // ---------------------------------------------------------------- the lentil measure
-const SKY = "#2d3a6b", ROOF = "#3a2f5c", ROOF2 = "#4a3d70", MOONO = "#f6a23a", MOONW = "#f8f4e6", LENT = "#e0742c";
-const cityNight = (c: Ctx, moonX: number, moonY: number, moonCol: string, moonDk: string, stars: boolean) => {
-  ground(c, SKY);
-  if (stars) for (let k = 0; k < 14; k++) { const sx = (k * 197 + 60) % 1000, sy = (k * 131 + 40) % 420; c.beginPath(); ell(c, sx, sy, 5, 5); c.fillStyle = "#fff6c8"; c.fill(); }
-  c.beginPath(); ell(c, moonX, moonY, 135, 135); c.fillStyle = "rgba(255,226,122,0.16)"; c.fill();
-  shape(c, () => ell(c, moonX, moonY, 100, 100), moonCol, 6); shade(c, () => ell(c, moonX, moonY, 100, 100), moonDk, 22, 18, 0.55);
-  // rooftops, a water tank, little lit windows
-  shape(c, () => polyP(c, [[330, 1080], [330, 700], [560, 700], [560, 1080]]), ROOF2, 6);
-  shape(c, () => polyP(c, [[560, 1080], [560, 640], [800, 640], [800, 1080]]), ROOF, 6);
-  shape(c, () => polyP(c, [[800, 1080], [800, 720], [1080, 720], [1080, 1080]]), ROOF2, 6);
-  shape(c, () => rrect(c, 640, 560, 100, 80, 12), COL.steelDk, 6);
-  line(c, [[660, 640], [660, 680]], 8); line(c, [[720, 640], [720, 680]], 8);
-  for (let rx = 0; rx < 4; rx++) for (let ry = 0; ry < 3; ry++) { shape(c, () => rrect(c, 590 + rx * 55, 700 + ry * 70, 28, 36, 4), (rx + ry) % 2 ? LAMPY : "#5a4d82", 4); }
+const SKY = "#2d3a6b", ROOF = "#3a2f5c", ROOF2 = "#4a3d70", MOONO = "#f6a23a", MOONW = "#f8f4e6", LENTIL = "#d9532a";
+const MX = 470, MR = 74, LR = 54;
+// the Moon: flat disc, shade side, a few craters
+const moonDisc = (c: Ctx, x: number, y: number, r: number, col: string, dk: string) => {
+  const b = () => ell(c, x, y, r, r);
+  shape(c, b, col, 6); shade(c, b, dk, r * 0.22, r * 0.18, 0.55);
+  [[-0.3, -0.25, 0.2], [0.25, 0.1, 0.16], [-0.1, 0.45, 0.13]].forEach(([u, v, k]) => { c.beginPath(); ell(c, x + u * r, y + v * r, k * r, k * r * 0.8); c.fillStyle = "rgba(43,35,64,0.22)"; c.fill(); });
 };
-const girlWithLentil = (c: Ctx, a: [number, number], lentilWink = true) => {
-  const gx = 230, gy = 1040, gh = 560;
-  shadow(c, gx + 30, gy + 6, 130, 18);
-  person(c, gx, gy, gh, { armR: a });
-  const hd = gh * 0.13, hy = gy - gh * 0.74 - hd * 1.05;
-  if (lentilWink) { // the eye towards the moon stays open, the other is shut
-    shape(c, () => ell(c, gx - hd * 0.35, hy + hd * 0.12, hd * 0.2, hd * 0.2), SKIN.child, 0);
-    line(c, [[gx - hd * 0.55, hy + hd * 0.14], [gx - hd * 0.15, hy + hd * 0.14]], 4);
-  }
-  const [wx, wy] = wrist(gx, gy, gh, "R", a);
-  shape(c, () => ell(c, wx + 8, wy - 8, 24, 19, -0.5), LENT, 4.5);
-  return [wx + 6, wy - 6];
+const cityNight = (c: Ctx, moonY: number, moonCol: string, moonDk: string, stars: boolean) => {
+  ground(c, SKY);
+  if (stars) for (let k = 0; k < 16; k++) { const sx = (k * 197 + 60) % 1000, sy = (k * 131 + 40) % 520; c.beginPath(); ell(c, sx, sy, 5, 5); c.fillStyle = "#fff6c8"; c.fill(); }
+  c.beginPath(); ell(c, MX, moonY, 112, 112); c.fillStyle = "rgba(255,226,122,0.10)"; c.fill();
+  moonDisc(c, MX, moonY, MR, moonCol, moonDk);
+  shape(c, () => polyP(c, [[330, 1080], [330, 760], [560, 760], [560, 1080]]), ROOF2, 6);
+  shape(c, () => polyP(c, [[560, 1080], [560, 700], [800, 700], [800, 1080]]), ROOF, 6);
+  shape(c, () => polyP(c, [[800, 1080], [800, 780], [1080, 780], [1080, 1080]]), ROOF2, 6);
+  shape(c, () => rrect(c, 640, 620, 100, 80, 12), COL.steelDk, 6);
+  line(c, [[660, 700], [660, 720]], 8); line(c, [[720, 700], [720, 720]], 8);
+  for (let rx = 0; rx < 4; rx++) for (let ry = 0; ry < 3; ry++) { shape(c, () => rrect(c, 590 + rx * 55, 750 + ry * 80, 28, 36, 4), (rx + ry) % 2 ? LAMPY : "#5a4d82", 4); }
 };
 const railing = (c: Ctx) => {
   shape(c, () => rrect(c, 0, 860, D, 24, 6), COL.woodDk, 6);
   for (let x = 40; x < D; x += 80) shape(c, () => rrect(c, x, 884, 22, 196, 5), COL.wood, 5);
   shape(c, () => rrect(c, 0, 1040, D, 40, 0), COL.woodDk, 6);
 };
-const lentilInset = (c: Ctx, moonCol: string) => {
-  const x = 160, y = 160, r = 120;
-  c.beginPath(); ell(c, x, y, r + 14, r + 14); c.fillStyle = WHITE; c.fill(); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
-  c.beginPath(); ell(c, x, y, r, r); c.fillStyle = SKY; c.fill();
-  shape(c, () => ell(c, x, y, 78, 78), moonCol, 4);
-  shape(c, () => ell(c, x + 2, y, 72, 62, -0.5), LENT, 5);
+// a big close-up arm and hand holding one masoor dal at arm's length exactly in front of the Moon
+const lentilHeld = (c: Ctx, moonY: number) => {
+  const an = Math.atan2(moonY - 1100, MX - 0), s = 1.5, dx = Math.cos(an), dy = Math.sin(an);
+  const wx = MX - dx * 100 * s, wy = moonY - dy * 100 * s;
+  line(c, [[wx - dx * 1500, wy - dy * 1500], [wx - dx * 60, wy - dy * 60]], 108 + 12, INK); line(c, [[wx - dx * 1500, wy - dy * 1500], [wx - dx * 60, wy - dy * 60]], 108, CLOTH.child);
+  hand(c, wx, wy, an, s);
+  const b = () => ell(c, MX, moonY, LR, LR);
+  shape(c, b, LENTIL, 6); shade(c, b, "#a8381a", 14, 12, 0.6);
+  shine(c, [[MX - 34, moonY - 20], [MX - 20, moonY - 36]], 8);
+  line(c, [[MX - 4, moonY + 30], [MX + 14, moonY + 8], [MX + 10, moonY - 14]], 4, "#a8381a");
 };
 
-// setup.e3.0 : the full Moon rising, hide it behind a lentil at arm's length
+// setup.e3.0 : the full Moon rising, hidden behind a dal held at arm's length
 const card7 = (c: Ctx) => {
-  cityNight(c, 790, 520, MOONO, "#d9761f", false);
-  const a: [number, number] = [-0.35, -0.35];
-  girlWithLentil(c, a); railing(c);
-  lentilInset(c, MOONO);
+  cityNight(c, 600, MOONO, "#d9761f", false); railing(c); lentilHeld(c, 600);
 };
-// setup.e3.1 : hours later the small white Moon is high, measured the same way
+// setup.e3.1 : hours later the Moon is high, hidden behind the same dal the same way
 const card8 = (c: Ctx) => {
-  cityNight(c, 790, 250, MOONW, "#b9b4ab", true);
-  const a: [number, number] = [-0.75, -0.75];
-  girlWithLentil(c, a); railing(c);
-  lentilInset(c, MOONW);
+  cityNight(c, 240, MOONW, "#b9b4ab", true); railing(c); lentilHeld(c, 240);
 };
 
-// setup.e3.2 : two phone photos, the Moon the same small size in both
-const phone = (c: Ctx, x: number, trees: boolean, moonCol: string, moonY: number) => {
-  shadow(c, x + 200, 905, 210, 22);
-  shape(c, () => rrect(c, x, 150, 400, 740, 44), COL.black, 7);
-  shape(c, () => rrect(c, x + 22, 190, 356, 660, 20), SKY, 5);
-  c.save(); c.beginPath(); rrect(c, x + 22, 190, 356, 660, 20); c.clip();
-  c.beginPath(); ell(c, x + 200, moonY, 48, 48); c.fillStyle = moonCol; c.fill(); c.lineWidth = 5; c.strokeStyle = INK; c.stroke();
+// setup.e3.2 : two phone photos, the Moon the same size in both
+const phone = (c: Ctx, x: number, trees: boolean, moonCol: string, moonDk: string, moonY: number) => {
+  shadow(c, x + 200, 856, 210, 22);
+  shape(c, () => rrect(c, x, 110, 400, 730, 44), COL.black, 7);
+  shape(c, () => rrect(c, x + 22, 150, 356, 640, 20), SKY, 5);
+  c.save(); c.beginPath(); rrect(c, x + 22, 150, 356, 640, 20); c.clip();
   if (trees) {
-    shape(c, () => polyP(c, [[x + 22, 850], [x + 22, 740], [x + 378, 740], [x + 378, 850]]), "#243a2c", 5);
-    [[x + 80, 720, 70], [x + 170, 690, 80], [x + 270, 715, 72], [x + 345, 700, 60]].forEach(([tx, ty, tr]) => { shape(c, () => ell(c, tx, ty, tr, tr * 1.1), COL.leafDk, 5); });
-  } else { for (let k = 0; k < 6; k++) { c.beginPath(); ell(c, x + 60 + ((k * 61) % 280), 240 + ((k * 97) % 300), 4, 4); c.fillStyle = "#fff6c8"; c.fill(); } }
+    shape(c, () => polyP(c, [[x + 22, 790], [x + 22, 700], [x + 378, 700], [x + 378, 790]]), "#243a2c", 5);
+    [[x + 80, 690, 70], [x + 170, 660, 80], [x + 270, 685, 72], [x + 345, 670, 60]].forEach(([tx, ty, tr]) => { shape(c, () => ell(c, tx, ty, tr, tr * 1.1), COL.leafDk, 5); });
+  } else { for (let k = 0; k < 6; k++) { c.beginPath(); ell(c, x + 60 + ((k * 61) % 280), 200 + ((k * 97) % 300), 4, 4); c.fillStyle = "#fff6c8"; c.fill(); } }
+  moonDisc(c, x + 200, moonY, 60, moonCol, moonDk);
   c.restore();
-  shape(c, () => ell(c, x + 200, 870, 7, 7), COL.steelDk, 0);
+  // a red bracket under the Moon: the same width in both photos
+  const by = moonY + 92;
+  line(c, [[x + 140, by], [x + 260, by]], 8, RED); line(c, [[x + 140, by - 14], [x + 140, by + 14]], 8, RED); line(c, [[x + 260, by - 14], [x + 260, by + 14]], 8, RED);
+  hand(c, x + 200, 930, -Math.PI / 2, 1.4);
 };
 // setup.e3.2
 const card9 = (c: Ctx) => {
   ground(c, NIGHT);
-  phone(c, 110, true, MOONO, 520); phone(c, 570, false, MOONW, 330);
-  line(c, [[510, 470], [570, 470]], 14, RED); line(c, [[510, 520], [570, 520]], 14, RED);
+  phone(c, 110, true, MOONO, "#d9761f", 450); phone(c, 570, false, MOONW, "#b9b4ab", 300);
+  line(c, [[512, 440], [568, 440]], 14, RED); line(c, [[512, 490], [568, 490]], 14, RED);
 };
 
 export const su_skyMoonPhases = cards("sci.sky.moon-phases.L3 set-up", [card1, card2, card3, card4, card5, card6, card7, card8, card9]);

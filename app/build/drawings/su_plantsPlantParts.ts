@@ -309,12 +309,13 @@ const e4_0 = (c: Ctx) => {
   const r = rnd(4);
   for (let i = 0; i < 260; i++) { const y = 200 + r() * 290, t = (y - 190) / 310, x0 = 300 - 120 * t, x1 = 800 + 120 * t, x = x0 + r() * (x1 - x0); line(c, [[x, y], [x + (r() - 0.5) * 14, y - 40 - r() * 20]], 6, INK); line(c, [[x, y], [x + (r() - 0.5) * 14, y - 40 - r() * 20]], 3, r() < 0.5 ? COL.green : COL.greenLt); }
   // the lifted corner shows the tangled white roots underneath
-  const flap = () => polyP(c, [[180, 500], [920, 500], [960, 800], [140, 800]]);
+  const flap = () => polyP(c, [[180, 500], [920, 500], [960, 700], [140, 800]]);
   shape(c, flap, "#a07a55", 6); shade(c, flap, "#6a4128", 20, 12, 0.35);
   c.save(); c.beginPath(); flap(); c.clip();
   for (let i = 0; i < 70; i++) { const x = 160 + r() * 800, y = 520 + r() * 270, a = r() * 6.28, l = 70 + r() * 90; const pts = [[x, y], [x + Math.cos(a) * l * 0.5, y + Math.sin(a) * l * 0.5 + 20], [x + Math.cos(a) * l, y + Math.sin(a) * l]]; line(c, pts, 10, INK); line(c, pts, 5, "#fffaf0"); }
   c.restore();
-  shape(c, () => rrect(c, 140, 786, 820, 26, 12), COL.soilDk, 6);
+  line(c, [[140, 800], [960, 700]], 34, INK); line(c, [[140, 800], [960, 700]], 22, COL.soilDk);
+  shape(c, () => rrect(c, 150, 486, 790, 26, 12), COL.soilDk, 6);
   // the lens held over the roots
   shape(c, () => rrect(c, 388, 740, 26, 200, 10), COL.black, 6);
   shape(c, () => ell(c, 400, 600, 175, 175), "rgba(230,245,255,0.82)", 0);
@@ -326,7 +327,9 @@ const e4_0 = (c: Ctx) => {
   c.beginPath(); ell(c, 400, 600, 172, 172); c.strokeStyle = COL.steel; c.lineWidth = 12; c.stroke();
   shine(c, [[300, 520], [340, 480]], 10);
   hand(c, 316, 860, 0, 1.2);
-  hand(c, 820, 884, -Math.PI / 2, 1.2);
+  // the other hand grips the right edge of the peeled-back mat and lifts it
+  handL(c, 975, 700, 1.2);
+  arrow(c, [[1000, 610], [1000, 520]]);
 };
 
 const book = (c: Ctx, x: number, y: number, w: number, h: number, col: string, dk: string) => {
@@ -346,7 +349,7 @@ const trayRow = (c: Ctx, oy: number, roots: boolean, wet = 0) => {
   shape(c, top, COL.soil, 6); shade(c, top, COL.soilDk, 40, 14, 0.4);
   shape(c, () => polyP(c, [[300, -34], [366, -6], [366, 12], [300, 12]]), COL.teal, 6);
   const r = rnd(roots ? 3 : 8);
-  if (roots) for (let i = 0; i < 140; i++) { const y = -86 + r() * 80, t = (y + 92) / 92, x0 = -262 - 48 * t, x1 = 262 + 48 * t, x = x0 + 14 + r() * (x1 - x0 - 28); line(c, [[x, y], [x, y - 14 - r() * 10]], 7, INK); line(c, [[x, y], [x, y - 14 - r() * 10]], 4, r() < 0.5 ? COL.green : COL.greenLt); }
+  if (roots) for (let i = 0; i < 140; i++) { const y = -86 + r() * 80, t = (y + 92) / 92, x0 = -262 - 48 * t, x1 = 262 + 48 * t, x = x0 + 14 + r() * (x1 - x0 - 28); line(c, [[x, y], [x, y - 7]], 8, INK); line(c, [[x, y], [x, y - 7]], 5, r() < 0.5 ? COL.green : COL.greenLt); }
   else for (let i = 0; i < 40; i++) { const y = -84 + r() * 76, t = (y + 92) / 92; shape(c, () => ell(c, -250 - 40 * t + r() * (500 + 80 * t), y, 4 + r() * 3, 3), i % 2 ? COL.soilDk : "#a97a58", 0); }
   if (wet) {
     c.globalAlpha = 0.55; shape(c, top, wet === 2 ? "#8a5020" : "#d8eefb", 0); c.globalAlpha = 1;
@@ -355,11 +358,24 @@ const trayRow = (c: Ctx, oy: number, roots: boolean, wet = 0) => {
   c.restore();
 };
 const rowGlass = (c: Ctx, oy: number, fill: number, liquid: string) => glass(c, 915, oy + 232, 126, 150, fill, liquid);
+// scissors, handles at the origin, blades pointing right
+const scissors = (c: Ctx, x: number, y: number, an: number) => {
+  c.save(); c.translate(x, y); c.rotate(an); c.scale(1.3, 1.3);
+  ([-1, 1] as const).forEach((s) => {
+    shape(c, () => ell(c, -78, s * 30, 34, 22, s * 0.5), COL.red, 6); shape(c, () => ell(c, -78, s * 30, 18, 10, s * 0.5), TABLE, 4);
+    shape(c, () => polyP(c, [[-60, s * 20], [-40, s * 28], [170, s * 16], [175, s * 2], [0, s * -4]]), COL.steel, 6);
+  });
+  shape(c, () => ell(c, 0, 0, 9, 9), COL.steelDk, 4);
+  c.restore();
+};
 // setup.e4.1
 const e4_1 = (c: Ctx) => {
   ground(c, TABLE);
   trayRow(c, 290, true); rowGlass(c, 290, 0);
   trayRow(c, 760, false); rowGlass(c, 760, 0);
+  // a hand snipping the shoots off the first tray
+  scissors(c, 440, 170, 0.5);
+  hand(c, 277, 81, 0.5, 1.2);
   // the snipped shoots lie in a little heap beside the first tray
   const r = rnd(2);
   for (let i = 0; i < 22; i++) { const x = 480 + r() * 120, y = 290 + 205 + r() * 22, a = -0.4 + r() * 0.8; line(c, [[x, y], [x + 58 * Math.cos(a), y + 30 * Math.sin(a)]], 9, INK); line(c, [[x, y], [x + 58 * Math.cos(a), y + 30 * Math.sin(a)]], 5, i % 2 ? COL.green : COL.greenLt); }
