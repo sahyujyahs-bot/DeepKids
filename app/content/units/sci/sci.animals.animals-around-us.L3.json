@@ -524,7 +524,13 @@
        }
       },
       "Termite",
-      "Spider",
+      {
+       "f": "Spider",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-06.jpg",
+        "credit": "Vijay Barve, CC0, via iNaturalist"
+       }
+      },
       {
        "f": "Owl",
        "img": {
@@ -553,7 +559,13 @@
         "credit": "Tejas M, CC BY, via iNaturalist"
        }
       },
-      "Potter wasp",
+      {
+       "f": "Potter wasp",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-11.jpg",
+        "credit": "Hopeland, CC BY, via iNaturalist"
+       }
+      },
       {
        "f": "Palm squirrel",
        "img": {
@@ -568,8 +580,20 @@
         "credit": "John Brew, CC BY, via iNaturalist"
        }
       },
-      "Black ant",
-      "Earthworm"
+      {
+       "f": "Black ant",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-14.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Earthworm",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-15.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
@@ -577,32 +601,20 @@
      "title": "16 home cards",
      "items": [
       "A stick nest in a tree, sometimes with wire",
-      {
-       "f": "A hanging nest woven from grass",
-       "img": {
-        "src": "media/cards/animals-around-us-g1-1-01.jpg",
-        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
-       }
-      },
-      {
-       "f": "Two leaves stitched together",
-       "img": {
-        "src": "media/cards/animals-around-us-g1-1-02.jpg",
-        "credit": "Mike Prince from Bangalore, India, CC BY 2.0, via Wikimedia Commons"
-       }
-      },
+      "A hanging nest woven from grass",
+      "Two leaves stitched together",
       "A flat nest on a window ledge",
       "A wax hive with six-sided rooms",
-      "A tall mound of soil",
-      "A silk web",
-      "A bare hollow in an old tree trunk",
       {
-       "f": "A tree hole with a mud door",
+       "f": "A tall mound of soil",
        "img": {
-        "src": "media/cards/animals-around-us-g1-1-08.jpg",
-        "credit": "Jahnavee Palsodkar (she/her), CC BY, via iNaturalist"
+        "src": "media/cards/animals-around-us-g1-1-05.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
        }
       },
+      "A silk web",
+      "A bare hollow in an old tree trunk",
+      "A tree hole with a mud door",
       {
        "f": "A burrow in the ground",
        "img": {
@@ -610,28 +622,46 @@
         "credit": "Siya ul haque, CC BY, via iNaturalist"
        }
       },
-      {
-       "f": "Hanging upside down in a big tree",
-       "img": {
-        "src": "media/cards/animals-around-us-g1-1-10.jpg",
-        "credit": "Tejas M, CC BY, via iNaturalist"
-       }
-      },
+      "Hanging upside down in a big tree",
       "A tiny mud pot",
       "A ball of grass and fibre in a tree",
       "A hole in a wall or a roof",
       "Crowded tunnels under the floor or beside a wall",
-      "A tunnel in damp soil"
+      {
+       "f": "A tunnel in damp soil",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-15.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
      "kind": "cards",
      "title": "4 wanderer cards",
      "items": [
-      "Tiger: no fixed home. They rest anywhere in their forest area.",
-      "Elephant: no fixed home. The herd walks from place to place.",
+      {
+       "f": "Tiger: no fixed home. They rest anywhere in their forest area.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-2-00.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Elephant: no fixed home. The herd walks from place to place.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-2-01.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
       "Street dog: a favourite corner, but no house they build.",
-      "Bar-headed goose: one summer home and one winter home."
+      {
+       "f": "Bar-headed goose: one summer home and one winter home.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-2-03.jpg",
+        "credit": "Aryan K, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
@@ -797,11 +827,19 @@
       },
       {
        "f": "House gecko",
-       "b": "MOON: a night animal"
+       "b": "MOON: a night animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-04.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-05.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mosquito",
@@ -837,7 +875,11 @@
       },
       {
        "f": "Myna",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-12.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Moth",
@@ -845,27 +887,51 @@
       },
       {
        "f": "Frog",
-       "b": "MOON: a night animal. Most frogs call after dark."
+       "b": "MOON: a night animal. Most frogs call after dark.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-14.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Kingfisher",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-15.jpg",
+        "credit": "egorbirder, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tiger",
-       "b": "MOON or SUNSET LINE: hunts at night and at dawn and dusk"
+       "b": "MOON or SUNSET LINE: hunts at night and at dawn and dusk",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-16.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Leopard",
-       "b": "MOON or SUNSET LINE: hunts at night and at dawn and dusk"
+       "b": "MOON or SUNSET LINE: hunts at night and at dawn and dusk",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-17.jpg",
+        "credit": "Raja bandi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Deer",
-       "b": "SUNSET LINE: a dawn and dusk animal"
+       "b": "SUNSET LINE: a dawn and dusk animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-18.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Earthworm",
-       "b": "MOON: a night animal. Earthworms come up when the ground is cool and damp."
+       "b": "MOON: a night animal. Earthworms come up when the ground is cool and damp.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-19.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rooster",
