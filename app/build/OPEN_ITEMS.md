@@ -98,3 +98,7 @@ Everything she asked for, 19–27 Oct, that is not done or only partly done. Tic
 44. **Android and iPhone apps.** Only the installable website exists.
 45. **City events** (treks, museums, parent meets). She said "later".
 46. **Facts the writers flagged to spot-check:** no record that each was verified.
+47. **Google Calendar on the website (pinned).** Two parts, neither started:
+    - *Secret calendar link* (no approval needed): a parent pastes their calendar's secret iCal address once; a server function reads busy times for the day plan. Also works for Apple and Outlook calendars.
+    - *One-tap "Connect Google Calendar"*: needs Google's verification of the calendar read scope: a privacy page that says what is read and kept, deepkids.in verified in Google Search Console, a short screen recording of the flow, a written reason. Review takes days to weeks; until then up to 100 test users, who see an "unverified app" warning. Calendar is a sensitive scope, not restricted: no paid security audit.
+48. **Exact Amazon products** for shopping items. Dropped for now.
