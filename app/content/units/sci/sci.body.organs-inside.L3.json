@@ -780,8 +780,20 @@
      "kind": "cards",
      "title": "4 organ role cards",
      "items": [
-      "HEART: you pump blood",
-      "LUNGS: you take in oxygen",
+      {
+       "f": "HEART: you pump blood",
+       "img": {
+        "src": "media/cards/organs-inside-g2-0-00.jpg",
+        "credit": "OpenStax College, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "LUNGS: you take in oxygen",
+       "img": {
+        "src": "media/cards/organs-inside-g2-0-01.jpg",
+        "credit": "Courtesy of NIAID Ryan Kissinger, Public domain, via Wikimedia Commons"
+       }
+      },
       "STOMACH: you churn food",
       "BRAIN: you send and receive messages"
      ]
