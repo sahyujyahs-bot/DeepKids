@@ -613,7 +613,13 @@
       "A phone screen in your hand",
       "A bulb on the ceiling",
       "A street light at the end of the road",
-      "A lighthouse 20 kilometres out at sea",
+      {
+       "f": "A lighthouse 20 kilometres out at sea",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-03.jpg",
+        "credit": "Virtual-Pano, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       {
        "f": "Lightning in a storm 5 kilometres away",
        "img": {
