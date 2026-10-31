@@ -1,4 +1,20 @@
 {
+ "expl.11": {
+  "src": "media/img/sci.forces.flight.L3/expl.11.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "expl.6": {
+  "src": "media/img/sci.forces.flight.L3/expl.6.jpg",
+  "credit": "avocat, CC BY, via iNaturalist"
+ },
+ "expl.8": {
+  "src": "media/img/sci.forces.flight.L3/expl.8.jpg",
+  "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.forces.flight.L3/flow.a4.jpg",
+  "credit": "avocat, CC BY, via iNaturalist"
+ },
  "flow.e1": "media/img/sci.forces.flight.L3/flow.e1.jpg",
  "flow.g1": "media/img/sci.forces.flight.L3/flow.g1.jpg",
  "flow.p1": "media/img/sci.forces.flight.L3/flow.p1.jpg",
@@ -64,5 +80,13 @@
  "story.3": "media/img/sci.forces.flight.L3/story.3.jpg",
  "story.4": "media/img/sci.forces.flight.L3/story.4.jpg",
  "story.5": "media/img/sci.forces.flight.L3/story.5.jpg",
- "summary": "media/img/sci.forces.flight.L3/summary.jpg"
+ "summary": "media/img/sci.forces.flight.L3/summary.jpg",
+ "term.20": {
+  "src": "media/img/sci.forces.flight.L3/term.20.jpg",
+  "credit": "Sandipan Das, CC BY, via iNaturalist"
+ },
+ "term.21": {
+  "src": "media/img/sci.forces.flight.L3/term.21.jpg",
+  "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+ }
 }
