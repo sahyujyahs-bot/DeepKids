@@ -142,7 +142,7 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
     }),
     before,
   );
-  out.chatLocked = await p.$eval(".dump", (x) => x.classList.contains("locked"));
+  out.chatLocked = !!(await p.$(".dumpline[data-act=plus]"));
   console.log(JSON.stringify({ ...out, errs }, null, 1));
   await b.close();
 })();

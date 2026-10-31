@@ -611,7 +611,13 @@
      "title": "16 light cards to cut out",
      "items": [
       "A phone screen in your hand",
-      "A bulb on the ceiling",
+      {
+       "f": "A bulb on the ceiling",
+       "img": {
+        "src": "media/cards/what-is-light-g1-0-01.jpg",
+        "credit": "Amos777eligius, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "A street light at the end of the road",
       {
        "f": "A lighthouse 20 kilometres out at sea",

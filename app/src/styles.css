@@ -3885,8 +3885,26 @@ a.btn {
 .dex .chip {
   font-size: 13px;
 }
-.dump.locked textarea {
-  opacity: 0.6;
+.dumpline {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+}
+.dumpline .inp {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  color: var(--muted);
 }
 /* Add by hand: a grid of kinds, then only the fields that kind needs */
 .addbox {

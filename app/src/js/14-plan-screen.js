@@ -1188,7 +1188,7 @@ function dumpCard() {
     empty = !D_.text && !D_.items && !D_.files?.length,
     head = `<div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Tell DeepKids in your own words</h3><p class="xs muted">Write or speak your family's week the way you'd say it, or send a photo of a timetable: it's sorted into your plan.</p></div></div>`;
   if (!fxAIOn())
-    return `<section class="card dump locked">${head}<div class="composer tall"><span class="cbtn">📷</span><textarea class="inp" rows="2" disabled placeholder="“Swimming Tuesday and Thursday 5 to 6, zoo trip on Saturday…”"></textarea></div><button class="btn soft" data-act="plus" data-r="chat">🔒 Part of DeepKids Plus</button></section>`;
+    return `<button class="dumpline" data-act="plus" data-r="chat"><span class="inp">Tell DeepKids in your own words…</span><span class="pill">🔒 Plus</span></button>`;
   return `<section class="card dump">${head}
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
@@ -1241,14 +1241,13 @@ function parsedLine(it) {
 // One part of the Plan screen; the tabs below put these together
 function planPart(k) {
   const v = ui.pv || "week";
-  // adding to the plan: Add by hand first, DeepKids' questions, everything you've added, then the chat (Plus)
+  // adding to the plan: the own-words chat (Plus) in one line, Add by hand, DeepKids' questions, everything you've added
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3>${quickAdd(ui.pday || today)}</div></section>` +
+      `<section class="sec">${dumpCard()}</section><section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3>${quickAdd(ui.pday || today)}</div></section>` +
       (Q.length ? plPart("asks") : "") +
-      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`) +
-      `<section class="sec">${dumpCard()}</section>`
+      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
