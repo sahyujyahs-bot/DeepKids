@@ -2,11 +2,31 @@
  "expl.0": "media/img/sci.magnets.magnets-and-materials.L3/expl.0.svg",
  "expl.1": "media/img/sci.magnets.magnets-and-materials.L3/expl.1.svg",
  "expl.10": "media/img/sci.magnets.magnets-and-materials.L3/expl.10.svg",
+ "expl.11": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.11.jpg",
+  "credit": "Nigel Voaden, CC BY, via iNaturalist"
+ },
  "expl.2": "media/img/sci.magnets.magnets-and-materials.L3/expl.2.svg",
  "expl.3": "media/img/sci.magnets.magnets-and-materials.L3/expl.3.svg",
  "expl.5": "media/img/sci.magnets.magnets-and-materials.L3/expl.5.svg",
+ "expl.6": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/expl.6.jpg",
+  "credit": "James St. John, CC BY 2.0, via Wikimedia Commons"
+ },
  "expl.8": "media/img/sci.magnets.magnets-and-materials.L3/expl.8.svg",
  "expl.9": "media/img/sci.magnets.magnets-and-materials.L3/expl.9.svg",
+ "flow.a2": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a2.jpg",
+  "credit": "Alexander Wilmer Duff, Public domain, via Wikimedia Commons"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a5.jpg",
+  "credit": "Sundar Lakshmanan, CC BY, via iNaturalist"
+ },
+ "flow.a6": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.a6.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.a1.0": "media/img/sci.magnets.magnets-and-materials.L3/setup.a1.0.svg",
  "setup.a2.0": "media/img/sci.magnets.magnets-and-materials.L3/setup.a2.0.svg",
  "setup.a2.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.a2.2.svg",
@@ -33,6 +53,14 @@
  "setup.p1.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.p1.2.svg",
  "term.0": "media/img/sci.magnets.magnets-and-materials.L3/term.0.svg",
  "term.1": "media/img/sci.magnets.magnets-and-materials.L3/term.1.svg",
+ "term.10": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.10.jpg",
+  "credit": "James St. John, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.11": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.11.jpg",
+  "credit": "James St. John, CC BY 2.0, via Wikimedia Commons"
+ },
  "term.12": "media/img/sci.magnets.magnets-and-materials.L3/term.12.svg",
  "term.13": "media/img/sci.magnets.magnets-and-materials.L3/term.13.svg",
  "term.14": "media/img/sci.magnets.magnets-and-materials.L3/term.14.svg",
@@ -42,6 +70,10 @@
  "term.19": "media/img/sci.magnets.magnets-and-materials.L3/term.19.svg",
  "term.2": "media/img/sci.magnets.magnets-and-materials.L3/term.2.svg",
  "term.20": "media/img/sci.magnets.magnets-and-materials.L3/term.20.svg",
+ "term.21": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.21.jpg",
+  "credit": "NASA, public domain"
+ },
  "term.4": "media/img/sci.magnets.magnets-and-materials.L3/term.4.svg",
  "term.5": "media/img/sci.magnets.magnets-and-materials.L3/term.5.svg",
  "term.7": "media/img/sci.magnets.magnets-and-materials.L3/term.7.svg",
