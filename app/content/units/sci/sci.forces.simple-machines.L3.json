@@ -866,7 +866,13 @@
      "kind": "cards",
      "title": "30 object cards to cut out",
      "items": [
-      "See-saw",
+      {
+       "f": "See-saw",
+       "img": {
+        "src": "media/cards/simple-machines-g2-0-00.jpg",
+        "credit": "Bartholomew, Charles Lewis 'Bart', 1869-1949, Public domain, via Wikimedia Commons"
+       }
+      },
       "Scissors",
       "Hand pump",
       "Nutcracker",

@@ -1645,6 +1645,16 @@ function onAct(e) {
       render();
       break;
     }
+    case "rsq": {
+      const L = rsUnits(rsBy(b.dataset.p));
+      L.forEach((u) => qPut("les", u.subj, "les:" + u.k, "end"));
+      rsSt().queued = { ...(rsSt().queued || {}), [b.dataset.p]: today };
+      sfx("ok");
+      toast(L.length === 1 ? "Added to the queue" : `${L.length} topics added to the queue`);
+      commit();
+      renderSheet();
+      break;
+    }
     case "rslike":
     case "rsdone": {
       const st = rsSt(),
@@ -1652,7 +1662,7 @@ function onAct(e) {
       if (b.dataset.act === "rslike") st.like[id] = st.like[id] ? 0 : 1;
       else if (!st.read[id]) {
         st.read[id] = today;
-        sfx("win");
+        celebrate();
         toast("Lovely. Your next one will be ready next week.");
       }
       if (b.dataset.act === "rslike") sfx(st.like[id] ? "ok" : "tap");

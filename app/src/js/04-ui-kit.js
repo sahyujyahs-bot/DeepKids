@@ -56,40 +56,59 @@ function celebrate() {
   sfx("win");
   confetti();
 }
+// confetti and ribbons over the whole screen for about three seconds: a burst from the middle and a rain from the
+// top. Drawn inside an open pop-up when there is one (a pop-up sits above everything else on the page)
 function confetti() {
   if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-  const c = document.createElement("canvas");
+  const c = document.createElement("canvas"),
+    W = innerWidth,
+    H = innerHeight;
   c.className = "confetti";
-  c.width = innerWidth;
-  c.height = innerHeight;
-  document.body.appendChild(c);
-  const x = c.getContext("2d");
-  const cols = ["#F2603F", "#FFB21E", "#38A862", "#3E86F5", "#8C5CF0", "#F06BA8"];
-  const P = Array.from({ length: 90 }, () => ({
-    x: innerWidth / 2,
-    y: innerHeight * 0.6,
-    vx: (Math.random() - 0.5) * 12,
-    vy: -Math.random() * 14 - 4,
-    r: Math.random() * 6 + 4,
-    c: cols[(Math.random() * 6) | 0],
-    a: Math.random() * 6,
-  }));
+  c.width = W;
+  c.height = H;
+  (document.querySelector("dialog[open]") || document.body).appendChild(c);
+  const x = c.getContext("2d"),
+    cols = ["#F2603F", "#FFB21E", "#38A862", "#3E86F5", "#8C5CF0", "#F06BA8"],
+    R = Math.random,
+    P = [
+      ...Array.from({ length: 70 }, () => ({
+        x: W / 2,
+        y: H * 0.55,
+        vx: (R() - 0.5) * 16,
+        vy: -R() * 16 - 6,
+        ribbon: R() < 0.3,
+      })),
+      ...Array.from({ length: 90 }, () => ({
+        x: R() * W,
+        y: -R() * H * 0.6,
+        vx: (R() - 0.5) * 2,
+        vy: R() * 3 + 2,
+        ribbon: R() < 0.45,
+      })),
+    ].map((p) => ({ ...p, r: R() * 6 + 5, c: cols[(R() * 6) | 0], a: R() * 6, w: R() * 6 }));
   let n = 0;
   (function f() {
-    x.clearRect(0, 0, c.width, c.height);
+    x.clearRect(0, 0, W, H);
     P.forEach((p) => {
-      p.x += p.vx;
+      p.x += p.vx + Math.sin(p.w + n / 9) * (p.ribbon ? 1.6 : 0.6);
       p.y += p.vy;
-      p.vy += 0.45;
-      p.a += 0.2;
+      p.vy = Math.min(p.vy + 0.32, p.ribbon ? 4 : 7);
+      p.vx *= 0.98;
+      p.a += p.ribbon ? 0.05 : 0.2;
       x.save();
       x.translate(p.x, p.y);
       x.rotate(p.a);
-      x.fillStyle = p.c;
-      x.fillRect(-p.r / 2, -p.r / 2, p.r, p.r * 0.6);
+      x.fillStyle = x.strokeStyle = p.c;
+      if (p.ribbon) {
+        x.lineWidth = 4;
+        x.lineCap = "round";
+        x.beginPath();
+        for (let k = 0; k <= 6; k++) x.lineTo(Math.sin(k + n / 5 + p.w) * 5, k * 5 - 15);
+        x.stroke();
+      } else x.fillRect(-p.r / 2, -p.r / 2, p.r, p.r * 0.6);
       x.restore();
     });
-    if (++n < 80) requestAnimationFrame(f);
+    if (++n < 190) requestAnimationFrame(f);
     else c.remove();
   })();
 }

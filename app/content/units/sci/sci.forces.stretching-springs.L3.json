@@ -624,7 +624,13 @@
      "kind": "cards",
      "title": "24 thing cards to cut out",
      "items": [
-      "Rubber band",
+      {
+       "f": "Rubber band",
+       "img": {
+        "src": "media/cards/stretching-springs-g1-0-00.jpg",
+        "credit": "Fructibus, CC0, via Wikimedia Commons"
+       }
+      },
       "Playdough",
       "Dry twig",
       "Kitchen sponge",

@@ -33,6 +33,8 @@ const rsForYou = () =>
   rsAll()
     .filter((p) => !rsSt().read[p.id])
     .sort((a, b) => rsScore(b) - rsScore(a));
+// the units a paper links to that are in the app (its topics)
+const rsUnits = (p) => (p?.topics || []).map((t) => unitBy("unit|" + t)).filter(Boolean);
 // Today's list gets one paper when none was read in the past week; once read, it shows as done that day
 function rsToday(date) {
   const R = Object.entries(rsSt().read),
@@ -76,5 +78,13 @@ function paperView() {
         .filter((x, k, a) => a.indexOf(x) === k)
         .join(" · ")}</p>`
     : `<span class="rsk">${RS_KIND[c.k] || "✨"}</span><h3>${esc(c.t)}</h3>${c.img ? `<figure><img src="${esc(c.img.src)}" alt="${esc(c.img.alt || "")}"><figcaption>${esc(c.img.credit)}</figcaption></figure>` : ""}${c.b ? `<p>${esc(c.b)}</p>` : ""}${c.note ? `<p class="rsnote">${esc(c.note)}</p>` : ""}${c.words ? `<dl class="rswords">${c.words.map((w) => `<dt>${esc(w.w)}</dt><dd>${esc(w.m)}</dd>`).join("")}</dl>` : ""}`;
-  return `<section class="sec"><div class="rstop">${i ? "" : `<img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}">`}<span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}</span><h2>${esc(p.title)}</h2></div>${nav}<div class="card rsflash rs-${last ? "src" : c.k}">${body}</div>${last ? `<div class="row rsend"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}" ${st.read[p.id] ? "disabled" : ""}>${st.read[p.id] ? "✓ Marked as read" : "Mark this paper as read"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>` : ""}</section>`;
+  return `<section class="sec"><div class="rstop">${i ? "" : `<img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}">`}<span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}</span><h2>${esc(p.title)}</h2></div>${nav}<div class="card rsflash rs-${last ? "src" : c.k}">${body}</div>${
+    last && rsUnits(p).length
+      ? `<section class="sec rslinks"><h3>Topics this paper links to</h3>${rsUnits(p)
+          .map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${esc(u.k)}">${esc(chT(u))}</button>`)
+          .join(
+            "",
+          )}${st.queued?.[p.id] ? `<p class="xs muted">✓ Added to the queue</p>` : `<button class="btn soft sm" data-act="rsq" data-p="${esc(p.id)}">Add them to the queue</button>`}</section>`
+      : ""
+  }${last ? `<div class="row rsend"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}" ${st.read[p.id] ? "disabled" : ""}>${st.read[p.id] ? "✓ Marked as read" : "Mark this paper as read"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>` : ""}</section>`;
 }

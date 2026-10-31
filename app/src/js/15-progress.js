@@ -201,15 +201,17 @@ function onTrackView() {
         gap = done - exp,
         catchUp = U.filter((u) => !isDone(u)).slice(0, Math.max(0, -gap)),
         extras = all.filter((u) => isDone(u) && !U.includes(u));
-      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="sm ${gap < 0 ? "behind" : gap > 0 ? "ahead" : ""}">${gap < 0 ? `${-gap} topic${gap < -1 ? "s" : ""} behind` : gap > 0 ? `${gap} topic${gap > 1 ? "s" : ""} ahead` : "On track"}</span></div>
-       <div class="trkbar" role="img" aria-label="${done} of ${U.length} topics done; a school would have covered ${exp} by now"><i style="width:${Math.round((100 * done) / U.length)}%"></i><b style="left:${Math.round(Y.gone * 100)}%"></b></div>
-       <p class="xs muted">By now a school would have covered about <b>${exp} of ${U.length}</b> topics (${Math.round(Y.gone * 100)}%). Done: <b>${done}</b> (${Math.round((100 * done) / U.length)}%).</p>
+      const pc = (n) => Math.round((100 * n) / U.length),
+        bar = (cls, label, n) =>
+          `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
+      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
+       ${bar("done", "Done", done)}${bar("school", "A school by now", exp)}
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
     })
     .join("");
   return rows
-    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><p class="sm"><b>${Math.round(Y.gone * 100)}% of the school year has gone</b> (${fmt(Y.start)} to ${fmt(Y.end)}). The filled bar is the topics done; the line is where a school would be by now.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label>${rows}</div></section>`
+    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · For each subject: topics done, and how many a school would have covered by now.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
     : "";
 }
 function viewJourneyTabs() {
@@ -218,7 +220,6 @@ function viewJourneyTabs() {
   let h =
     pageHead(`${kid}'s progress`, kidBlob("", "happy", 'width="50" height="50"')) + segBar("journey") + `</section>`;
   if (k === "overview") {
-    h += onTrackView();
     const o = viewJourney0().replace(
       /<button class="menurow" data-act="(rem|told|track|uploads|school|folder|todo|hist)"[\s\S]*?<\/button>/g,
       "",
@@ -227,8 +228,9 @@ function viewJourneyTabs() {
       /^<section class="sec" style="margin-top:8px"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
       '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
     );
+    h += onTrackView();
   } else if (k === "time")
-    h += `<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)", 9, "happy", "", 'width="40" height="40"')}<span><b>History</b><br><span class="xs muted">Each lesson your child finished, newest first, by date</span></span>${icon("next")}</button>${trackView()}</section>`;
+    h += `<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)", 9, "happy", "", 'width="40" height="40"')}<span><b>History</b><br><span class="xs muted">Lessons, research papers and things done outside lessons, newest first</span></span>${icon("next")}</button>${trackView()}</section>`;
   else if (k === "life") h += lifeTab();
   else if (k === "work")
     h += `<section class="sec">${uploadsView()}</section><section class="sec"><button class="menurow" data-act="tofinish">${blob("var(--tang)", 11, "calm", "", 'width="40" height="40"')}<span><b>Still to do</b><br><span class="xs muted">What your child started and hasn't finished, and what's not tried yet</span></span>${icon("next")}</button><button class="menurow" data-act="folder">${blob("var(--leaf)", 14, "wow", "", 'width="40" height="40"')}<span><b>Worksheets and quizzes, with answers</b><br><span class="xs muted">Everything finished in the app, to save or print</span></span>${icon("next")}</button></section>`;
@@ -1613,28 +1615,43 @@ function folderPrint() {
 }
 function historyView() {
   document.getElementById("sheetTitle").textContent = "History";
-  const L = S.log.filter((l) => l.kind !== "free" || l.title);
-  if (!L.length)
-    return `<p class="note">Lessons you finish are listed here, newest first, with the time and day of the chapter.</p>`;
-  const by = {};
+  const L = S.log.filter((l) => l.kind !== "free" || l.title),
+    papers = Object.entries(rsSt().read)
+      .map(([id, d]) => ({ d, p: rsBy(id) }))
+      .filter((x) => x.p),
+    lives = lifeSt();
+  if (!L.length && !papers.length && !lives.length)
+    return `<p class="note">Lessons you finish are listed here, newest first, with the time and day of the chapter, with the research papers you read and the things your child did.</p>`;
+  const by = {},
+    more = {};
   L.forEach((l) => (by[l.date] = by[l.date] || []).push(l));
-  const dates = Object.keys(by).sort().reverse(),
+  papers.forEach((x) =>
+    (more[x.d] = more[x.d] || []).push(
+      `<button class="plain hrow" data-act="paper" data-p="${esc(x.p.id)}"><span class="t num">📄</span><span style="min-width:0"><b>Research paper: ${esc(x.p.title)}</b><br><span class="xs muted">Read together · ${esc(x.p.source.name)}</span></span></button>`,
+    ),
+  );
+  lives.forEach((m) =>
+    (more[m.date] = more[m.date] || []).push(
+      `<button class="plain hrow" data-act="lifeopen" data-id="${m.id}"><span class="t num">${LIFEK[m.kind][0]}</span><span style="min-width:0"><b>${esc(m.title)}</b><br><span class="xs muted">${esc(LIFEK[m.kind][1])}${m.mins ? " · " + hmin(m.mins) : ""}</span></span></button>`,
+    ),
+  );
+  const dates = [...new Set([...Object.keys(by), ...Object.keys(more)])].sort().reverse(),
     chs = new Set(L.map((l) => l.key));
   return (
-    `<p class="sm muted">${L.length} lesson${L.length === 1 ? "" : "s"} across ${chs.size} chapter${chs.size === 1 ? "" : "s"} and ${dates.length} day${dates.length === 1 ? "" : "s"}. Tap any to open the chapter.</p>` +
+    `<p class="sm muted">${L.length} lesson${L.length === 1 ? "" : "s"} across ${chs.size} chapter${chs.size === 1 ? "" : "s"}${papers.length ? `, ${papers.length} research paper${papers.length === 1 ? "" : "s"}` : ""}${lives.length ? `, ${lives.length} thing${lives.length === 1 ? "" : "s"} done outside lessons` : ""}, on ${dates.length} day${dates.length === 1 ? "" : "s"}. Tap any to open it.</p>` +
     dates
       .map(
         (d) =>
-          `<section class="card" style="gap:0"><span class="eyebrow">${d === today ? "Today · " : d === addDays(today, -1) ? "Yesterday · " : ""}${esc(fmt(d))}</span>${by[
-            d
-          ]
+          `<section class="card" style="gap:0"><span class="eyebrow">${d === today ? "Today · " : d === addDays(today, -1) ? "Yesterday · " : ""}${esc(fmt(d))}</span>${(
+            by[d] || []
+          )
             .slice()
             .sort((a, b) => (a.at ?? 9999) - (b.at ?? 9999))
             .map((l) => {
               const u = unitByK(l.key);
               return `<button class="plain hrow" ${u ? `data-act="chapter" data-k="${esc(l.key)}"` : ""}><span class="t num">${l.at != null ? clock(l.at) : "–"}</span><span style="min-width:0"><b>${esc(u ? chT(u) : l.title)}</b><br><span class="xs muted">${esc(SUBJ[l.subj] || "")}${l.n ? " · Part " + l.n + (u ? " of " + sessionsFor(u) : "") : ""}${u ? " · " + esc(unitLabel(u).split(" · ")[0]) : ""}</span></span>${u ? icon("next") : ""}</button>`;
             })
-            .join("")}</section>`,
+            .join("")}${(more[d] || []).join("")}</section>`,
       )
       .join("")
   );
