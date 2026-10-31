@@ -1470,7 +1470,7 @@ function onAct(e) {
       ui.sheet = null;
       if (dl?.open) dl.close();
       tab = "week";
-      ui.seg = { ...(ui.seg || {}), week: "cal" };
+      ui.seg = { ...(ui.seg || {}), week: "days" };
       render();
       setTimeout(() => {
         const t = document.getElementById("dumpText");

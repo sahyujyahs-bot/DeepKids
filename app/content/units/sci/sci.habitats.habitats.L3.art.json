@@ -1,3 +1,43 @@
 {
+ "setup.e2.0": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.0": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e3.1.jpg",
+  "drawn": true
+ },
+ "setup.e3.2": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "setup.e4.0": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e4.0.jpg",
+  "drawn": true
+ },
+ "setup.e4.1": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e4.1.jpg",
+  "drawn": true
+ },
+ "setup.e4.2": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e4.2.jpg",
+  "drawn": true
+ },
+ "setup.e4.3": {
+  "src": "media/img/sci.habitats.habitats.L3/setup.e4.3.jpg",
+  "drawn": true
+ },
  "summary": "media/img/sci.habitats.habitats.L3/summary.jpg"
 }

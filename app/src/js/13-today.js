@@ -388,7 +388,7 @@ const WEEK1 = [
     "week",
     "Tell DeepKids your week",
     "Type or say your classes, outings and chores, like “Swimming Tue and Thu 5 pm”. Lessons fit around them.",
-    'data-act="gotab" data-tab="week" data-seg="cal" data-focus="dumpText"',
+    'data-act="gotab" data-tab="week" data-seg="days" data-focus="dumpText"',
     () => S.events.length > 0,
   ],
   [

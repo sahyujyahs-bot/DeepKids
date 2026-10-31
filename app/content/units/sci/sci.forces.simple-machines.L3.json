@@ -870,10 +870,16 @@
        "f": "See-saw",
        "img": {
         "src": "media/cards/simple-machines-g2-0-00.jpg",
-        "credit": "Bartholomew, Charles Lewis 'Bart', 1869-1949, Public domain, via Wikimedia Commons"
+        "credit": "Retired electrician, CC0, via Wikimedia Commons"
        }
       },
-      "Scissors",
+      {
+       "f": "Scissors",
+       "img": {
+        "src": "media/cards/simple-machines-g2-0-01.jpg",
+        "credit": "BGN-WMCO, CC BY 2.5, via Wikimedia Commons"
+       }
+      },
       "Hand pump",
       "Nutcracker",
       "Wheelbarrow",

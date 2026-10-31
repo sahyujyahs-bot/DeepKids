@@ -111,7 +111,7 @@ async function afterUpgrade() {
   if (S.pendAI && SAMPLE) {
     const t = S.pendAI.text;
     tab = "week";
-    ui.seg = { ...(ui.seg || {}), week: "cal" };
+    ui.seg = { ...(ui.seg || {}), week: "days" };
     ui.dump = { text: t, chat: [] };
     delete S.pendAI;
     commit();
@@ -123,27 +123,49 @@ async function afterUpgrade() {
   } else commit();
 }
 /* a message the phone can't read well: too long, nothing found, or sentences that aren't plans */
-function needsAI(text, R) {
-  if (!R.items.length) return true;
-  if (text.length > 280) return true;
-  return R.items.some((x) => x.type !== "have" && x.title.split(" ").length > 5);
+// a message read on the phone, part by part: sentences, and "and her grandmother visits…" style second parts
+// (not "Mondays and Wednesdays"); the child's name and "goes to" come off titles; rest and meals with no days
+// are every day. Only the parts that give nothing go to AI.
+const lifeName = () => (S.child || "").trim().split(/\s+/)[0];
+function readOnPhone(text) {
+  const nm = lifeName(),
+    joiner = new RegExp(
+      `\\s+(?:and|also|plus|then)\\s+(?=(?:her|his|my|our|we|she|he|they|their|i|on|every${nm ? "|" + nm.replace(/[^\\w]/g, "") : ""})\\b)`,
+      "i",
+    ),
+    parts = text
+      .split(/(?<=[.;!?\n])\s+|\n+/)
+      .flatMap((t) => t.split(joiner))
+      .map((t) => t.trim())
+      .filter((t) => t.length > 2),
+    items = [],
+    asks = [],
+    left = [];
+  parts.forEach((t) => {
+    const R = localParse(t);
+    if (!R.items.length) return left.push(t);
+    R.asks.forEach((a) => asks.push({ ...a, i: a.i + items.length }));
+    items.push(...R.items);
+  });
+  items.forEach((x, i) => {
+    x.title = x.title
+      .replace(new RegExp(`^${nm ? nm.replace(/[^\\w]/g, "") + "('s)?\\s+" : "^$"}`, "i"), "")
+      .replace(/^(goes to|go to|has|attends|does|will go to|is going to)\s+/i, "")
+      .replace(/^./, (c) => c.toUpperCase());
+    if ((x.type === "rest" || x.type === "meal") && !x.days?.length && !x.date) {
+      x.days = [0, 1, 2, 3, 4, 5, 6];
+      for (let k = asks.length - 1; k >= 0; k--)
+        if (asks[k].i === i && /which days/i.test(asks[k].q)) asks.splice(k, 1);
+    }
+  });
+  return { items, asks, left };
 }
-const clearItem = (x) =>
-  x.type === "have" ||
-  (x.title.split(" ").length <= 4 &&
-    !/\b(said|might|maybe|thing|stuff|sometimes|basically|figure|think|probably|soon)\b/i.test(x._src || "") &&
-    (x.start || x.days || (x.date && x.type !== "todo") || TODOW.test(x._src || "")));
 function localDump(text) {
   const D_ = (ui.dump = ui.dump || {});
-  const R0 = localParse(text),
-    hard = needsAI(text, R0),
-    R = hard ? { items: R0.items.filter(clearItem), asks: [] } : R0;
+  const R = readOnPhone(text),
+    hard = R.left.length > 0;
   if (hard) {
-    const keep = new Set(R.items);
-    R.asks = R0.asks.filter((a) => keep.has(R0.items[a.i])).map((a) => ({ ...a, i: R.items.indexOf(R0.items[a.i]) }));
-  }
-  if (hard) {
-    S.pendAI = { text, at: Date.now() };
+    S.pendAI = { text: R.left.join(". "), at: Date.now() };
     save();
   }
   D_.needAI = hard;

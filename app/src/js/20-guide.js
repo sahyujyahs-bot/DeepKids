@@ -18,19 +18,21 @@ const GUIDE = {
       "Tap ? any time to see the tips for the screen you're on. Turn the walkthrough off in App settings (the ⚙️ at the top).",
     ],
   ],
-  "week:cal": [
+  "week:days": [
     [
       ".segmain",
-      "Plan has five tabs",
-      "Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
+      "Plan has seven tabs",
+      "Your days, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
-    ['[data-act="pv"]', "See any stretch of time", "Switch between a day, a week, a month or the whole year."],
     [
       ".card.dump",
       "Plan your days",
       "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
     ],
     [".fxfold", "To-dos and other plans", "Things to get ready for coming lessons, and your own to-dos."],
+  ],
+  "week:cal": [
+    ['[data-act="pv"]', "See any stretch of time", "Switch between a day, a week, a month or the whole year."],
   ],
   "week:next": [
     [

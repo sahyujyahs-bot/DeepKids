@@ -3777,7 +3777,8 @@ a.btn {
 .composer:focus-within {
   border-color: var(--aqua);
 }
-.composer .inp {
+.composer .inp,
+.composer .inp:focus {
   flex: 1;
   min-width: 0;
   border: 0;
@@ -3789,6 +3790,23 @@ a.btn {
   font-size: 16px;
   box-shadow: none;
   outline: 0;
+}
+/* the plan box: room to write a few lines, the photo and send buttons underneath */
+.composer.tall {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 8px;
+  border-radius: 20px;
+}
+.composer.tall .inp {
+  order: -1;
+  flex: 1 1 100%;
+  field-sizing: content;
+  min-height: 96px;
+  max-height: 240px;
+  padding: 8px;
+  font-size: 17px;
+  line-height: 1.45;
 }
 .composer .cbtn,
 .composer .send {
