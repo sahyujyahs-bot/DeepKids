@@ -51,7 +51,7 @@ for k, name in (("games", "Games"), ("experiments", "Experiments"), ("activities
         if g.get("results_table"): w(f"- **results table:** {' | '.join(g['results_table'])}")
         for f in ("constraints", "general", "creative", "rules"):
             if g.get(f): w(f"- **{f}:** " + "; ".join(g[f]))
-        for pr in g.get("printables", []): w(f"- **Printable {pr['kind']}: {pr['title']}:** " + "; ".join(x if isinstance(x, str) else f"{x['f']} (back: {x['b']})" for x in pr["items"]))
+        for pr in g.get("printables", []): w(f"- **Printable {pr['kind']}: {pr['title']}:** " + "; ".join(x if isinstance(x, str) else x['f'] + (f" (back: {x['b']})" if x.get('b') else "") + (" [picture]" if x.get('img') else "") for x in pr["items"]))
         if g.get("schedule") and g.get("days", 1) > 1: w("- **schedule:** " + "; ".join(f"day {d['day']}: {d['what']} ({d['mins']} min)" for d in g["schedule"]))
         flow(g["flow"])
 w("\n## Worksheets")

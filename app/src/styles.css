@@ -4521,6 +4521,24 @@ html:has(.fxdlg[open]) {
   width: auto;
   margin: 0 auto;
 }
+.fximg.free {
+  background: #fff;
+}
+.fximg.free img {
+  object-fit: contain;
+}
+.fxcredit {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  padding: 2px 8px;
+  font-size: 10px;
+  line-height: 1.4;
+  color: #fff;
+  background: #0008;
+  border-top-left-radius: 8px;
+}
 .fximg.broken img {
   display: none;
 }

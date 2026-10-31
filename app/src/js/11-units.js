@@ -47,11 +47,13 @@ let FXCUR = 0,
   FXCARDS = [],
   FXOBS = null;
 function fxImg(u, key, brief, cls) {
-  const url = u.img?.[key],
+  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit
+  const p = u.img?.[key],
+    url = p?.src || p,
     em = FXE[key.split(".")[0]] || "🎨";
   if (!url && !brief) return "";
   return url
-    ? `<div class="fximg ${cls || ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')"></div>`
+    ? `<div class="fximg ${cls || ""}${p.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')">${p.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`
     : `<div class="fxph ${cls || ""}"><span>${em}</span>${brief ? `<i>${esc(brief)}</i>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
@@ -1138,8 +1140,10 @@ function fxWsPrintDoc(u, w) {
 }
 /* A game piece is text, or a card with a front and a back ({f, b}); on screen a two-sided card turns over when tapped */
 function fxPiece(it, j, kind) {
-  const two = typeof it === "object";
-  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${two ? `<span class="pcf">${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
+  // an item is text, {f, img} for a card with a picture, or {f, b, img?} for a two-sided card
+  const two = it.b != null,
+    front = it.f != null ? `${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}` : esc(it);
+  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${two ? `<span class="pcf">${front}</span><span class="pcb">${esc(it.b)}</span>` : front}</div>`;
 }
 /* The game's print-out. Two-sided cards come first, a page of fronts then a page of their backs, each row mirrored so a
    back lands behind its own front when the sheet is printed on both sides (or turned over and fed in again);
@@ -1147,7 +1151,7 @@ function fxPiece(it, j, kind) {
 function fxGamePrintDoc(g) {
   const PER = 20,
     cell = (t, img) => `<div class="pc">${img ? `<img src="${esc(img.src)}" alt="">` : ""}${esc(t)}</div>`,
-    two = g.printables.filter((p) => p.items.some((it) => typeof it === "object")),
+    two = g.printables.filter((p) => p.items.some((it) => it.b != null)),
     one = g.printables.filter((p) => !two.includes(p));
   let sheets = "";
   two.forEach((p) => {
@@ -1169,8 +1173,8 @@ function fxGamePrintDoc(g) {
   const tip = two.length
     ? `<div class="tip"><b>Two-sided cards.</b> Print the card pages on both sides of the paper, flipping on the long edge. No two-sided printing? Print the first card page, put the sheet back in the printer turned over, then print the next page. Or print both pages, glue them back to back, then cut.</div>`
     : "";
-  const credits = [...new Set(two.flatMap((p) => p.items.map((x) => x.img?.credit).filter(Boolean)))],
-    rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map(cell).join("")}</div>`).join("")}${credits.length ? `<p class="credit">Pictures: ${credits.map(esc).join(" · ")}</p>` : ""}</section>`;
+  const credits = [...new Set(g.printables.flatMap((p) => p.items.map((x) => x.img?.credit).filter(Boolean)))],
+    rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map((x) => cell(x.f ?? x, x.img)).join("")}</div>`).join("")}${credits.length ? `<p class="credit">Pictures: ${credits.map(esc).join(" · ")}</p>` : ""}</section>`;
   return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.sheet .pc{flex-direction:column;gap:4px}.pc img{width:100%;height:30mm;object-fit:cover;border-radius:6px}.credit{font-size:10px;color:#777}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
 }
 function fxPrint(id) {
