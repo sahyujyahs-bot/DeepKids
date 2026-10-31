@@ -574,7 +574,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Draw a harder puzzle. Two steps. Make it fair. Build it tomorrow!
 
 ## Worksheets
-### Animal Minds Detective (core) (core, 15 questions)
+### Animal Minds Detective (core) (core, 18 questions)
 1. (mcq) Which of these is play?  
    Options: A dog eating their dinner / Two puppies chasing each other with wagging tails / A cat running from a big dog / A crow building a nest  
    **Answer:** Two puppies chasing each other with wagging tails. *Why:* Play is done for fun, when safe and relaxed. Eating, running from danger and nest building all have a job to do right now. Picking 'running from a big dog' means a chase was seen as play, but that cat is scared, not relaxed.
@@ -608,7 +608,13 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** True. *Why:* The play bow means 'let's play, this is not a real fight'.
 15. (write) Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.  
    **Answer:** Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.. *Why:* Each of these was seen in careful tests or long watching, not just told as a story.
-### Testing Animal Minds (stretch) (stretch, 15 questions)
+16. (fill) Keeping what you learned, so you can use it later, is called ____.  
+   **Answer:** ['memory']. *Why:* Memory is keeping what you learned. A jay that finds seeds months later is using memory.
+17. (truefalse) A puppy that bows with the front legs down and the tail up is asking to play.  
+   **Answer:** True. *Why:* The play bow means 'let's play, this is not a real fight'.
+18. (write) Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.  
+   **Answer:** Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.. *Why:* Each of these was seen in careful tests or long watching, not just told as a story.
+### Testing Animal Minds (stretch) (stretch, 17 questions)
 1. (mcq) Look at the chart. The guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does the blind round tell us?  
    Options: 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know / The guesser was having a bad day / The guesser can see through cups / The blind round is not needed  
    **Answer:** 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know. *Why:* With 3 cups, a lucky guess is right about 1 time in 3, which is about 3 in 10. In the blind round the guesser did no better than luck. So the 8 out of 10 must have come from the helper's face. Picking 'bad day' is possible once, but repeating the test would show the same pattern.
@@ -644,7 +650,11 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** Ivan Pavlov → dogs learned to drool at a sound that came before food; Edward Thorndike → cats in puzzle boxes escaped a little faster each time; Wolfgang Kohler → a chimpanzee fitted two short sticks into one long one; Gordon Burghardt → wrote down clear signs that tell play from other things animals do. *Why:* Each of these scientists found out something about how animals learn, solve problems or play.
 15. (write) Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?  
    **Answer:** For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.. *Why:* A good test changes one thing at a time and watches what the animal chooses.
-### Minds, Brains and Big Puzzles (challenge) (challenge, 15 questions)
+16. (match) Match each scientist to what they found.  
+   **Answer:** Ivan Pavlov → dogs learned to drool at a sound that came before food; Edward Thorndike → cats in puzzle boxes escaped a little faster each time; Wolfgang Kohler → a chimpanzee fitted two short sticks into one long one; Gordon Burghardt → wrote down clear signs that tell play from other things animals do. *Why:* Each of these scientists found out something about how animals learn, solve problems or play.
+17. (write) Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?  
+   **Answer:** For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.. *Why:* A good test changes one thing at a time and watches what the animal chooses.
+### Minds, Brains and Big Puzzles (challenge) (challenge, 17 questions)
 1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this unit, is that fair? Give two pieces of evidence.  
    **Answer:** Not fair. For example: Betty the crow bent a wire into a hook, crows remember a human face for years, and jays remember where they hid food. A crow's small brain is packed tightly with neurons.. *Why:* The saying comes from the idea that a small brain must be a simple one. A strong answer gives real tests from the unit, not just an opinion.
 2. (fill) Your brain has about 86 ____ neurons.  
@@ -679,6 +689,11 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    Options: Both being born ready and growing up with people matter / Wolves cannot learn anything / Dogs do not need to learn it at all  
    **Answer:** Both being born ready and growing up with people matter. *Why:* If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.
 15. (write) Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?  
+   **Answer:** For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.. *Why:* A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out.
+16. (mcq) Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?  
+   Options: Both being born ready and growing up with people matter / Wolves cannot learn anything / Dogs do not need to learn it at all  
+   **Answer:** Both being born ready and growing up with people matter. *Why:* If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.
+17. (write) Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?  
    **Answer:** For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.. *Why:* A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out.
 
 ## Videos
