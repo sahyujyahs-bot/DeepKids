@@ -482,7 +482,13 @@
         "credit": "MKFI, Public domain, via Wikimedia Commons"
        }
       },
-      "CONDUCTOR: a coin. Works like a wire.",
+      {
+       "f": "CONDUCTOR: a coin. Works like a wire.",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-23.jpg",
+        "credit": "FlagKBwiki, CC0, via Wikimedia Commons"
+       }
+      },
       "CONDUCTOR: aluminium foil. Works like a wire.",
       "CONDUCTOR: a steel key. Works like a wire.",
       "INSULATOR: a wooden stick. Play it on another player's loop to make a gap.",
