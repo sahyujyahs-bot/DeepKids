@@ -1,3 +1,15 @@
 {
+ "setup.e2.0": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
  "summary": "media/img/sci.food.where-food-comes-from.L3/summary.jpg"
 }
