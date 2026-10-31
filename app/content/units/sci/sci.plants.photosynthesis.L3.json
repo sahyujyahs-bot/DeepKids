@@ -1030,7 +1030,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Light, water and carbon dioxide go in. The plant makes sugar, and stores some of it as starch. Oxygen is left over and goes out. A strong answer does not put oxygen and carbon dioxide the wrong way round."
+     "why": "Light, water and carbon dioxide go in. The plant makes sugar, and stores some of the sugar as starch. Oxygen is left over and goes out. A strong answer does not put oxygen and carbon dioxide the wrong way round."
     },
     {
      "t": "fill",
@@ -1094,7 +1094,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Leaves make sugar. The plant sends it to other parts and stores it, often as starch. That is why seeds, stems and roots can be full of food."
+     "why": "Leaves make sugar. The plant sends the sugar to other parts and stores some, often as starch. That is why seeds, stems and roots can be full of food."
     },
     {
      "t": "mcq",
@@ -1112,7 +1112,7 @@
     },
     {
      "t": "write",
-     "p": "Your aunt adds fertiliser to her potted plant and says, 'This is the plant's food.' Is she right? Explain.",
+     "p": "A neighbour adds fertiliser to her potted plant and says, 'This is the plant's food.' Is she right? Explain.",
      "lines": 3,
      "a": "A strong answer says not quite. Fertiliser gives minerals, which a plant needs in small amounts, a bit like vitamins. The plant's real food is sugar, which the leaves make from carbon dioxide and water, using sunlight.",
      "why": "Many people call fertiliser 'plant food'. The answer should say what fertiliser does and where the real food is made."
@@ -1127,33 +1127,25 @@
      "why": "Stomata open to let carbon dioxide in and oxygen out. They close when the plant is short of water."
     },
     {
-     "t": "mcq",
-     "p": "A girl moves a lamp from 40 cm away to 10 cm away from a water plant. What happens to the bubbles?",
-     "opts": [
-      "More bubbles come, because the light is brighter",
-      "Fewer bubbles come, because the plant gets too hot",
-      "The bubbles stop",
-      "Nothing changes"
+     "t": "fill",
+     "p": "The gas that you breathe out, and that leaves take in to make sugar, is called ____.",
+     "a": [
+      "carbon dioxide"
      ],
-     "a": 0,
-     "why": "Brighter light gives the plant more energy, so they make food and oxygen faster. Picking 'too hot' is a careful thought, which is why the lamp should be an LED that stays cool. A strong answer links light to how fast oxygen is made.",
-     "how": "e3",
-     "context": "In the bubble count, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off."
+     "why": "You breathe out carbon dioxide. A leaf takes it in through the stomata and joins it with water to make sugar."
     },
     {
      "t": "write",
-     "p": "After the Rising Leaf Discs, write three sentences. What did you guess before? What did you see? Why do you think it happened?",
-     "lines": 4,
-     "a": "For example: I guessed the discs in the dark would float too. I saw all 10 discs float in the sunny baking-soda cup, and none in the other two. I think the leaf needs light and carbon dioxide to make oxygen, and the oxygen bubbles lifted the discs.",
-     "why": "A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using light and carbon dioxide.",
-     "how": "e1",
-     "context": "In the Rising Leaf Discs, you sink small circles of spinach leaf in water. When a leaf makes oxygen, tiny bubbles make the circles float up."
+     "p": "Some farmers grow vegetables in the open sun, not in the shade of tall buildings. Use what a leaf needs to explain why.",
+     "lines": 3,
+     "a": "A strong answer says a leaf needs light to make sugar, so plants in the sun make more food and grow faster. Plants in deep shade get less light and make less food.",
+     "why": "The answer should link light to making food, not just say that plants like the sun."
     },
     {
      "t": "draw",
      "p": "Draw a leaf. Draw arrows for what goes in and what comes out. Then draw where the sugar goes.",
      "a": "Arrows in for sunlight, water and carbon dioxide. An arrow out for oxygen. An arrow from the leaf down the stem to the roots, fruit or a growing tip, labelled sugar.",
-     "why": "A strong drawing shows the sugar staying inside the plant, because the plant uses it to live and grow.",
+     "why": "A strong drawing shows the sugar staying inside the plant, because the plant uses the sugar to live and grow.",
      "art": "An empty leaf outline with space around it for arrows."
     },
     {
@@ -1188,7 +1180,7 @@
      "t": "write",
      "p": "Name three foods you ate today. For each one, say how it began with a leaf in the sunlight.",
      "lines": 4,
-     "a": "For example: my dosa was made from rice and urad dal, the seeds of plants whose leaves made sugar in the sun. My curd came from a cow who ate grass. My banana grew on a banana plant whose leaves made the sugar in it.",
+     "a": "For example: my dosa was made from rice and urad dal, the seeds of plants whose leaves made sugar in the sun. My curd came from a cow who ate grass. My banana grew on a banana plant whose leaves made the sugar in the banana.",
      "why": "A strong answer traces each food back to a plant, even animal foods, because animals eat plants."
     },
     {
@@ -1257,36 +1249,47 @@
     },
     {
      "t": "mcq",
-     "p": "In Burn It Back to Air, the dry twigs weighed 50 grams. After burning, the ash weighed about 1 gram. Where did the other 49 grams go?",
+     "p": "In Burn It Back to Air, the ash left after burning is the part of the wood that came from the soil. Why is the heap of ash so small?",
      "opts": [
-      "Into the air, as carbon dioxide and water vapour",
-      "Into the steel bowl",
-      "They turned into nothing",
-      "Into the light of the fire"
+      "Only a tiny part of the tree came from the soil",
+      "The wind blew most of the ash away",
+      "Most of the ash burned too",
+      "The soil part of a tree is the heaviest part"
      ],
      "a": 0,
-     "why": "Burning turns the wood back into the gases it was built from. The ash is the small part that came from the soil. Picking 'nothing' means thinking things can vanish. A strong answer says the wood went back where it came from: the air.",
+     "why": "Most of the wood went back into the air as carbon dioxide and water vapour. Only the minerals from the soil stay behind as ash. A small heap of ash means the soil gave only a small part of the tree.",
      "how": "a5",
      "context": "In Burn It Back to Air, a grown-up burns a few dry twigs outdoors in a steel bowl. You weigh the twigs before, and the ash after."
-    },
-    {
-     "t": "fill",
-     "p": "When you blew into limewater through a straw, it turned ____. This showed that your breath has carbon dioxide in it.",
-     "a": [
-      "milky",
-      "cloudy",
-      "white"
-     ],
-     "why": "Carbon dioxide reacts with the lime and makes tiny bits of chalk, which make the water milky. The same gas is what trees are built from.",
-     "how": "a2",
-     "context": "In The Breath a Tree Eats, you make limewater from chuna, the lime paste in paan, and blow into it through a straw."
     },
     {
      "t": "write",
      "p": "Most people guess that a tree is built from soil. Give two pieces of evidence from this unit that it is not.",
      "lines": 4,
-     "a": "Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In the story, the soil in the tulsi pot stayed on the scratched line for nine years. In my own pot, the plants got heavier but the soil did not get lighter.",
+     "a": "Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In my own pot, the plants got heavier but the soil did not get lighter.",
      "why": "A strong answer gives real evidence, with numbers where it can, and says what each one shows."
+    },
+    {
+     "t": "write",
+     "p": "A friend says the water plant made more bubbles because the lamp's heat, not its light, made them. How could you check whether heat or light made the bubbles?",
+     "lines": 4,
+     "a": "A strong answer keeps the light the same and changes only the heat, or the other way round. For example: put the plant in a bowl of warm water in the dark, and see if bubbles come. Or use an LED lamp, which stays cool, and see if bubbles still come.",
+     "why": "A fair test changes only one thing. The answer should say which thing changes and which stay the same.",
+     "how": "e3",
+     "context": "In Count the Bubbles, a water plant sits in a glass of water under a lamp. They give off bubbles of oxygen as they make food. The lamp is put close by, far away, or switched off."
+    },
+    {
+     "t": "mcq",
+     "p": "In The Starch Picture, a grown-up washed the green colour out of the leaf with spirit before the iodine went on. Why?",
+     "opts": [
+      "The green colour would hide the blue-black colour",
+      "The spirit makes more starch",
+      "Iodine only works on pale things",
+      "The green colour is poisonous"
+     ],
+     "a": 0,
+     "why": "Iodine turns blue-black on starch, but the green chlorophyll would hide that colour. Washing it out lets the picture show. A strong answer says what the step was for.",
+     "how": "e2",
+     "context": "In The Starch Picture, you clip a black paper shape on a leaf for two sunny days. Then you test the leaf for starch with iodine, which turns blue-black on starch."
     },
     {
      "t": "mcq",
@@ -1364,34 +1367,6 @@
      "why": "In the sea, tiny algae do the photosynthesis. Shrimp eat the algae, sardines eat the shrimp, and people eat the sardines. Every step started with sunlight caught by the algae."
     },
     {
-     "t": "mcq",
-     "p": "In the Hidden Colours activity, yellow and orange bands climbed the chalk with the green. Old peepal leaves turn yellow before they fall. Why?",
-     "opts": [
-      "The green chlorophyll breaks down, and the yellow that was always there shows",
-      "The leaves fill up with yellow water",
-      "Yellow is the colour of tired leaves",
-      "The Sun paints them"
-     ],
-     "a": 0,
-     "why": "The chalk showed that green leaves already hold yellow colours. The green covers them until the chlorophyll breaks down. A strong answer uses the chalk result as evidence.",
-     "how": "a3",
-     "context": "In the Hidden Colours activity, you crush leaves in spirit and stand a stick of chalk in the green liquid. The colours climb the chalk in bands."
-    },
-    {
-     "t": "mcq",
-     "p": "In Build a Sugar, you took apart 6 carbon dioxides and 6 waters and built one sugar. You had 12 red oxygen balls left over. What are they in a real leaf?",
-     "opts": [
-      "The oxygen the leaf gives out into the air",
-      "Spare sugar",
-      "Carbon dioxide",
-      "Soil"
-     ],
-     "a": 0,
-     "why": "The 12 leftover oxygen atoms pair up into 6 oxygen molecules, which go out of the leaf. Nothing was lost and nothing new was made. A strong answer says atoms are only rearranged.",
-     "how": "a4",
-     "context": "In Build a Sugar, you build molecules from clay balls: black for carbon, red for oxygen and white for hydrogen."
-    },
-    {
      "t": "perspective",
      "p": "Where does the oxygen we breathe come from? Three people answer differently.",
      "views": [
@@ -1436,7 +1411,7 @@
     },
     {
      "t": "match",
-     "p": "Match each part of a plant to its job in photosynthesis.",
+     "p": "Match each part of a plant with the job that part does in photosynthesis.",
      "pairs": [
       [
        "leaf",
@@ -1490,7 +1465,7 @@
      "t": "mcq",
      "p": "Deep inside the Sun, hydrogen atoms join to make helium and give off energy. How is this linked to the idli you ate for breakfast?",
      "opts": [
-      "The energy reached Earth as light, a rice plant stored it in starch, and you got it from the idli",
+      "The energy reached Earth as light, a rice plant stored the energy in starch, and you got it from the idli",
       "The idli was cooked by the Sun",
       "The idli is made of helium",
       "There is no link"
@@ -3104,7 +3079,7 @@
     {
      "id": "s3",
      "mins": 45,
-     "do": "1. Sink 10 discs in the syringe for each idea, and 10 more for a cup that is set up exactly like the first experiment. 2. Put the cups side by side. In each cup, change only one thing. 3. Time how long until all 10 discs float in each cup. 4. Write each time down.",
+     "do": "1. Sink 10 discs in the syringe for each idea. Sink 10 more for a cup set up exactly like the first experiment. 2. Put the cups side by side. In each cup, change only one thing. 3. Time how long until all 10 discs float in each cup. 4. Write each time down.",
      "say": "Try one idea at a time. If we change two things together, we won't know which one worked.",
      "kid": "Try each idea one at a time. Time how long until all 10 float. Write each time down.",
      "check": {
