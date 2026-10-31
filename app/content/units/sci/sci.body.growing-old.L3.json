@@ -665,7 +665,13 @@
      "kind": "board",
      "title": "The life line mat",
      "items": [
-      "BABY",
+      {
+       "f": "BABY",
+       "img": {
+        "src": "media/cards/growing-old-g1-1-00.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "CHILD",
       "TEENAGER",
       "ADULT",

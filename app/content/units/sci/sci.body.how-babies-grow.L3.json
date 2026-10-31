@@ -746,18 +746,84 @@
      "kind": "cards",
      "title": "12 animal cards (days a baby grows inside the mother, rounded)",
      "items": [
-      "Giraffe: about 450 days",
-      "Pig: about 114 days",
-      "Cow: about 280 days",
-      "Rabbit: about 31 days",
-      "Indian elephant: about 650 days",
+      {
+       "f": "Giraffe: about 450 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-00.jpg",
+        "credit": "scaup, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pig: about 114 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-01.jpg",
+        "credit": "Aryan K, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cow: about 280 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-02.jpg",
+        "credit": "Paul Asman, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rabbit: about 31 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-03.jpg",
+        "credit": "Alexis Lours, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Indian elephant: about 650 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-04.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
       "Human: about 270 days",
-      "Cat: about 65 days",
-      "Camel: about 390 days",
-      "House mouse: about 20 days",
-      "Horse: about 340 days",
-      "Dog: about 63 days",
-      "Goat: about 150 days"
+      {
+       "f": "Cat: about 65 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-06.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Camel: about 390 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-07.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "House mouse: about 20 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-08.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Horse: about 340 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-09.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Dog: about 63 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-10.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Goat: about 150 days",
+       "img": {
+        "src": "media/cards/how-babies-grow-g2-0-11.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],

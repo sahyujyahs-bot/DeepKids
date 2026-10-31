@@ -535,19 +535,35 @@
      "items": [
       {
        "f": "Cow",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-00.jpg",
+        "credit": "wilderbombyx, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Rohu fish",
-       "b": "GILLS"
+       "b": "GILLS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-01.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Earthworm",
-       "b": "SKIN"
+       "b": "SKIN",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-02.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "LUNGS and SKIN"
+       "b": "LUNGS and SKIN",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-03.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Tadpole",
@@ -555,71 +571,139 @@
       },
       {
        "f": "Ganges river dolphin",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-05.jpg",
+        "credit": "Fábio Olmos, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-06.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crab",
-       "b": "GILLS"
+       "b": "GILLS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-07.jpg",
+        "credit": "Name, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Python",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-08.jpg",
+        "credit": "Subhasish Arandhara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Grasshopper",
-       "b": "AIR PIPES"
+       "b": "AIR PIPES",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-09.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mudskipper",
-       "b": "GILLS and SKIN"
+       "b": "GILLS and SKIN",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-10.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mosquito",
-       "b": "AIR PIPES"
+       "b": "AIR PIPES",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-11.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Elephant",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-12.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Prawn",
-       "b": "GILLS"
+       "b": "GILLS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-13.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "AIR PIPES"
+       "b": "AIR PIPES",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-14.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sea turtle",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-15.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lungless salamander",
-       "b": "SKIN"
+       "b": "SKIN",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-16.jpg",
+        "credit": "evangrimes, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bar-headed goose",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-17.jpg",
+        "credit": "Aryan K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shark",
-       "b": "GILLS"
+       "b": "GILLS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-18.jpg",
+        "credit": "Dirk Froebel, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bat",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-19.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ant",
-       "b": "AIR PIPES"
+       "b": "AIR PIPES",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-20.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Goldfish",
-       "b": "GILLS"
+       "b": "GILLS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-21.jpg",
+        "credit": "Mohammad Amin Ghaffari, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Human baby",
@@ -627,7 +711,11 @@
       },
       {
        "f": "Whale",
-       "b": "LUNGS"
+       "b": "LUNGS",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-23.jpg",
+        "credit": "Lawrence Hylton, CC BY, via iNaturalist"
+       }
       }
      ]
     },
@@ -651,15 +739,27 @@
       },
       {
        "f": "How does a dog find food?",
-       "b": "Smell"
+       "b": "Smell",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-2-01.jpg",
+        "credit": "M. B., CC0, via iNaturalist"
+       }
       },
       {
        "f": "How does an eagle find food?",
-       "b": "Sight"
+       "b": "Sight",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-2-02.jpg",
+        "credit": "Naman Kaji, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "How does an owl find food?",
-       "b": "Hearing"
+       "b": "Hearing",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-2-03.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "How does a shark find food?",
@@ -667,15 +767,27 @@
       },
       {
        "f": "How does a pit viper find food?",
-       "b": "Sensing heat"
+       "b": "Sensing heat",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-2-05.jpg",
+        "credit": "Prathamesh Khedwan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "How does an ant find food?",
-       "b": "Smell trails"
+       "b": "Smell trails",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-2-06.jpg",
+        "credit": "🪶🐾🍀Nandan Sreejith🦌🍄🌍, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "How does a flamingo find food?",
-       "b": "Sieving water"
+       "b": "Sieving water",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-2-07.jpg",
+        "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+       }
       }
      ]
     },

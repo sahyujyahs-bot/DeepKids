@@ -558,63 +558,123 @@
      "items": [
       {
        "f": "Earthworm",
-       "b": "NO BACKBONE. A water skeleton: liquid held in tight by their muscles."
+       "b": "NO BACKBONE. A water skeleton: liquid held in tight by their muscles.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-00.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Garden snail",
-       "b": "NO BACKBONE. A soft body, with a shell they make themself."
+       "b": "NO BACKBONE. A soft body, with a shell they make themself.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-01.jpg",
+        "credit": "zebedeugalinha, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crab",
-       "b": "NO BACKBONE. Hard armour on the outside."
+       "b": "NO BACKBONE. Hard armour on the outside.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-02.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "House spider",
-       "b": "NO BACKBONE. Armour on the outside and 8 legs."
+       "b": "NO BACKBONE. Armour on the outside and 8 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-03.jpg",
+        "credit": "Philipp, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ant",
-       "b": "NO BACKBONE. Armour on the outside and 6 legs."
+       "b": "NO BACKBONE. Armour on the outside and 6 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-04.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Starfish (sea star)",
-       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: five arms, tube feet and no bones."
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: five arms, tube feet and no bones.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-05.jpg",
+        "credit": "Stephanie Tran, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Jellyfish",
-       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: a soft body, mostly water."
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: a soft body, mostly water.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-06.jpg",
+        "credit": "Frank Sengpiel, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs."
+       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-07.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mosquito",
-       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs."
+       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-08.jpg",
+        "credit": "Vaishnav K V, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Centipede",
-       "b": "NO BACKBONE. Armour on the outside and many legs."
+       "b": "NO BACKBONE. Armour on the outside and many legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-09.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Octopus",
-       "b": "NO BACKBONE. A soft-bodied mollusc with no shell."
+       "b": "NO BACKBONE. A soft-bodied mollusc with no shell.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-10.jpg",
+        "credit": "Shaunak Modi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Prawn",
-       "b": "NO BACKBONE. Armour on the outside and 10 legs."
+       "b": "NO BACKBONE. Armour on the outside and 10 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-11.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Woodlouse",
-       "b": "NO BACKBONE. Armour in plates and 14 legs. A land cousin of crabs."
+       "b": "NO BACKBONE. Armour in plates and 14 legs. A land cousin of crabs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-12.jpg",
+        "credit": "Joshua S. Martin, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Scorpion",
-       "b": "NO BACKBONE. Armour on the outside, 8 legs and a tail with a sting."
+       "b": "NO BACKBONE. Armour on the outside, 8 legs and a tail with a sting.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-13.jpg",
+        "credit": "Ian Dugdale, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Honeybee",
-       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs."
+       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-14.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Leech",
@@ -622,59 +682,115 @@
       },
       {
        "f": "Sea urchin",
-       "b": "NO BACKBONE. Spines outside and tube feet, like a starfish."
+       "b": "NO BACKBONE. Spines outside and tube feet, like a starfish.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-16.jpg",
+        "credit": "Rama Narayanan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coral",
-       "b": "NO BACKBONE. Tiny soft animals, cousins of jellyfish, that build a stony home."
+       "b": "NO BACKBONE. Tiny soft animals, cousins of jellyfish, that build a stony home.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-17.jpg",
+        "credit": "Rohan Arthur, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cow",
-       "b": "BACKBONE. A mammal, with bones inside."
+       "b": "BACKBONE. A mammal, with bones inside.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-18.jpg",
+        "credit": "Piyush Marwadi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sparrow",
-       "b": "BACKBONE. A bird, with bones inside."
+       "b": "BACKBONE. A bird, with bones inside.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-19.jpg",
+        "credit": "John Brew, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cobra",
-       "b": "BACKBONE. A snake has no legs but a very long backbone."
+       "b": "BACKBONE. A snake has no legs but a very long backbone.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-20.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gecko",
-       "b": "BACKBONE. A lizard, with bones inside."
+       "b": "BACKBONE. A lizard, with bones inside.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-21.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "BACKBONE. An amphibian, with bones inside."
+       "b": "BACKBONE. An amphibian, with bones inside.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-22.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Rohu fish",
-       "b": "BACKBONE. A fish, with bones inside and gills."
+       "b": "BACKBONE. A fish, with bones inside and gills.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-23.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Seahorse",
-       "b": "TRICK CARD, 2 points. BACKBONE. A real fish, with a backbone and gills."
+       "b": "TRICK CARD, 2 points. BACKBONE. A real fish, with a backbone and gills.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-24.jpg",
+        "credit": "Pauline Walsh Jacobson, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bat",
-       "b": "BACKBONE. A mammal that flies, with bones inside."
+       "b": "BACKBONE. A mammal that flies, with bones inside.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-25.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Silverfish (an insect)",
-       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: an insect with 6 legs."
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: an insect with 6 legs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-26.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cuttlefish",
-       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: a mollusc, a cousin of the octopus."
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: a mollusc, a cousin of the octopus.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-27.jpg",
+        "credit": "Shaunak Modi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sea cucumber",
-       "b": "TRICK CARD, 2 points. NO BACKBONE. An animal, not a plant: a cousin of the starfish."
+       "b": "TRICK CARD, 2 points. NO BACKBONE. An animal, not a plant: a cousin of the starfish.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-28.jpg",
+        "credit": "T R Shankar Raman, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tortoise",
-       "b": "BACKBONE. A reptile. Their shell is joined to their backbone and ribs."
+       "b": "BACKBONE. A reptile. Their shell is joined to their backbone and ribs.",
+       "img": {
+        "src": "media/cards/invertebrates-g1-0-29.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       }
      ]
     },
@@ -800,18 +916,90 @@
      "kind": "cards",
      "title": "12 minibeast cards to cut out. Each shows the animal's name and facts about their body.",
      "items": [
-      "Ant: 6 legs. 3 body parts. Feelers. No wings (worker ants). No shell. Lives on land.",
-      "Honeybee: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land.",
-      "Mosquito: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land (the young live in water).",
-      "House spider: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land.",
-      "Scorpion: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land. A tail with a sting.",
-      "Crab: 10 legs, two of them big claws. 2 body parts. Small feelers. No wings. A hard shell. Lives in water or at the shore.",
-      "Prawn: 10 legs. Long feelers. No wings. A thin shell. Lives in water.",
-      "Woodlouse: 14 legs. A short body in plates. Feelers. No wings. No shell. Lives on land.",
-      "Centipede: many legs, one pair on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.",
-      "Millipede: many legs, two pairs on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.",
-      "Earthworm: no legs. A long body in rings. No feelers. No wings. No shell. Lives in damp soil on land.",
-      "Garden snail: no legs, one foot. A shell. Feelers on the head. No wings. Lives on land."
+      {
+       "f": "Ant: 6 legs. 3 body parts. Feelers. No wings (worker ants). No shell. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-00.jpg",
+        "credit": "stli_, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Honeybee: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-01.jpg",
+        "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mosquito: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land (the young live in water).",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-02.jpg",
+        "credit": "chiragmunje, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "House spider: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-03.jpg",
+        "credit": "Paul F, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Scorpion: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land. A tail with a sting.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-04.jpg",
+        "credit": "dhfischer, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Crab: 10 legs, two of them big claws. 2 body parts. Small feelers. No wings. A hard shell. Lives in water or at the shore.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-05.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Prawn: 10 legs. Long feelers. No wings. A thin shell. Lives in water.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-06.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Woodlouse: 14 legs. A short body in plates. Feelers. No wings. No shell. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-07.jpg",
+        "credit": "Anna C, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Centipede: many legs, one pair on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-08.jpg",
+        "credit": "santhoshk, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Millipede: many legs, two pairs on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-09.jpg",
+        "credit": "Firos AK, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Earthworm: no legs. A long body in rings. No feelers. No wings. No shell. Lives in damp soil on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-10.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Garden snail: no legs, one foot. A shell. Feelers on the head. No wings. Lives on land.",
+       "img": {
+        "src": "media/cards/invertebrates-g2-0-11.jpg",
+        "credit": "Cricket Raspet, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

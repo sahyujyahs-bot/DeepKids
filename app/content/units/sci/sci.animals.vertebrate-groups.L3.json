@@ -506,31 +506,163 @@
      "kind": "cards",
      "title": "25 animal cards to cut out, 5 in each family",
      "items": [
-      "Rohu fish",
+      {
+       "f": "Rohu fish",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-00.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
       "Mahseer",
       "Shark",
-      "Seahorse",
-      "Goldfish",
-      "Indian bullfrog",
-      "Common toad",
-      "Purple frog",
-      "Caecilian",
+      {
+       "f": "Seahorse",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-03.jpg",
+        "credit": "Pauline Walsh Jacobson, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Goldfish",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-04.jpg",
+        "credit": "Mohammad Amin Ghaffari, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Indian bullfrog",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-05.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Common toad",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-06.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Purple frog",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-07.jpg",
+        "credit": "rajesh rocky, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Caecilian",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-08.jpg",
+        "credit": "chiragmunje, CC BY, via iNaturalist"
+       }
+      },
       "Tadpole",
-      "Garden lizard",
-      "Cobra",
-      "Mugger crocodile",
-      "Olive ridley turtle",
-      "Star tortoise",
-      "Peacock",
-      "House sparrow",
-      "Emperor penguin",
-      "Great hornbill",
-      "Ostrich",
-      "Cow",
-      "Bat",
-      "Ganges river dolphin",
-      "Elephant",
-      "Yak"
+      {
+       "f": "Garden lizard",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-10.jpg",
+        "credit": "OnePlanet, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cobra",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-11.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mugger crocodile",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-12.jpg",
+        "credit": "Mike Prince, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Olive ridley turtle",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-13.jpg",
+        "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Star tortoise",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-14.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Peacock",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-15.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "House sparrow",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-16.jpg",
+        "credit": "John Brew, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Emperor penguin",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-17.jpg",
+        "credit": "Seig, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Great hornbill",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-18.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Ostrich",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-19.jpg",
+        "credit": "Andrew Allen, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cow",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-20.jpg",
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bat",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-21.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Ganges river dolphin",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-22.jpg",
+        "credit": "Fábio Olmos, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Elephant",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-23.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Yak",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-24.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

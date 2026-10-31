@@ -287,7 +287,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Think: What do you think the very first breath felt like?
 ### g2 · Who Waits Longest? Animal baby cards (15 min)
 - **rules:** Shuffle the cards and share them out face down.; Each player turns over their top card at the same time.; The card with the most days wins both cards. The winner puts them in a pile.; The winner says about how many more days their card has. A good guess is fine.; When all the cards are played, the player with the biggest pile wins. If the piles are equal, shuffle and play again.
-- **Printable cards: 12 animal cards (days a baby grows inside the mother, rounded):** Giraffe: about 450 days; Pig: about 114 days; Cow: about 280 days; Rabbit: about 31 days; Indian elephant: about 650 days; Human: about 270 days; Cat: about 65 days; Camel: about 390 days; House mouse: about 20 days; Horse: about 340 days; Dog: about 63 days; Goat: about 150 days
+- **Printable cards: 12 animal cards (days a baby grows inside the mother, rounded):** Giraffe: about 450 days [picture]; Pig: about 114 days [picture]; Cow: about 280 days [picture]; Rabbit: about 31 days [picture]; Indian elephant: about 650 days [picture]; Human: about 270 days; Cat: about 65 days [picture]; Camel: about 390 days [picture]; House mouse: about 20 days [picture]; Horse: about 340 days [picture]; Dog: about 63 days [picture]; Goat: about 150 days [picture]
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the 12 cards face up and find the human card. 2. Shuffle them and share them out face down.  
   *Parent says:* A human baby grows inside their mother for about 270 days. Let's see which animals wait longer, and which wait less.  

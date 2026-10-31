@@ -533,15 +533,27 @@
      "items": [
       {
        "f": "Crows can recognise one human face and remember it for years.",
-       "b": "TRUE. Crows scolded a researcher's mask for years, even crows that were never caught."
+       "b": "TRUE. Crows scolded a researcher's mask for years, even crows that were never caught.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A goldfish forgets everything after three seconds.",
-       "b": "TALL TALE. Goldfish learn to swim to a sound or a light for food, and remember it for weeks or months."
+       "b": "TALL TALE. Goldfish learn to swim to a sound or a light for food, and remember it for weeks or months.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-01.jpg",
+        "credit": "Mohammad Amin Ghaffari, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bumblebees roll little balls just for fun.",
-       "b": "TRUE. Bumblebees rolled wooden balls again and again, with no food as a prize."
+       "b": "TRUE. Bumblebees rolled wooden balls again and again, with no food as a prize.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-02.jpg",
+        "credit": "Lauren McLaurin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Only humans make tools.",
@@ -549,31 +561,59 @@
       },
       {
        "f": "Dogs can tell a happy human face from an angry one in photos.",
-       "b": "TRUE. Dogs in Vienna learned to tell happy and angry faces, even of strangers."
+       "b": "TRUE. Dogs in Vienna learned to tell happy and angry faces, even of strangers.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-04.jpg",
+        "credit": "M. B., CC0, via iNaturalist"
+       }
       },
       {
        "f": "An elephant never forgets anything at all.",
-       "b": "TALL TALE. Elephants have very good memories, but no animal remembers everything."
+       "b": "TALL TALE. Elephants have very good memories, but no animal remembers everything.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-05.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rats make a happy chirp when they are tickled.",
-       "b": "TRUE. The chirp is so high that people hear it only with a special microphone."
+       "b": "TRUE. The chirp is so high that people hear it only with a special microphone.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-06.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A crow bent a straight wire into a hook to get food.",
-       "b": "TRUE. Betty, a New Caledonian crow, did this in 2002."
+       "b": "TRUE. Betty, a New Caledonian crow, did this in 2002.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-07.jpg",
+        "credit": "Donald Davesne, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Chimpanzees poke grass stems into termite mounds to fish for termites.",
-       "b": "TRUE. Jane Goodall saw this in 1960."
+       "b": "TRUE. Jane Goodall saw this in 1960.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-08.jpg",
+        "credit": "Wairambar Rainforest, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pigeons learned to tell paintings by Monet from paintings by Picasso.",
-       "b": "TRUE. They could even sort new paintings they had never seen."
+       "b": "TRUE. They could even sort new paintings they had never seen.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-09.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A horse called Hans really could do sums.",
-       "b": "TALL TALE. Hans could not do sums. He read tiny changes in the faces of the people asking."
+       "b": "TALL TALE. Hans could not do sums. He read tiny changes in the faces of the people asking.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-10.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bigger brains always mean cleverer animals.",
@@ -581,7 +621,11 @@
       },
       {
        "f": "Octopuses have most of their neurons in their arms.",
-       "b": "TRUE. About two thirds of an octopus's neurons are in their arms."
+       "b": "TRUE. About two thirds of an octopus's neurons are in their arms.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-12.jpg",
+        "credit": "Justin Philbois, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Rooks drop stones into water to raise it and reach a floating worm.",
@@ -589,15 +633,27 @@
       },
       {
        "f": "Young crows learn who is dangerous by watching older crows.",
-       "b": "TRUE. Young crows learned to scold a 'dangerous' mask from older crows."
+       "b": "TRUE. Young crows learned to scold a 'dangerous' mask from older crows.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-14.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A dog that looks guilty always knows they did something wrong.",
-       "b": "TALL TALE. In a test, dogs looked most 'guilty' when they were scolded, even if they had done nothing wrong."
+       "b": "TALL TALE. In a test, dogs looked most 'guilty' when they were scolded, even if they had done nothing wrong.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-15.jpg",
+        "credit": "M. B., CC0, via iNaturalist"
+       }
       },
       {
        "f": "Jays remember what food they hid, where, and when.",
-       "b": "TRUE. Scrub jays in a test remembered all three."
+       "b": "TRUE. Scrub jays in a test remembered all three.",
+       "img": {
+        "src": "media/cards/animal-minds-g1-0-16.jpg",
+        "credit": "Ben, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Many street dogs in India follow a pointing finger, even untrained.",

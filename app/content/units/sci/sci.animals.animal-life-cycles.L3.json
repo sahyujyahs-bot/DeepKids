@@ -605,25 +605,61 @@
      "title": "20 stage cards to cut out, 4 for each of 5 animals",
      "items": [
       "FROG: Frogspawn, jelly eggs floating in a pond",
-      "FROG: Tadpole with gills and a long tail",
+      {
+       "f": "FROG: Tadpole with gills and a long tail",
+       "img": {
+        "src": "media/cards/animal-life-cycles-g1-0-01.jpg",
+        "credit": "Monkeystyle3000, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "FROG: Froglet with four legs and a short tail",
-      "FROG: Adult frog on a lily pad",
+      {
+       "f": "FROG: Adult frog on a lily pad",
+       "img": {
+        "src": "media/cards/animal-life-cycles-g1-0-03.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
       "BUTTERFLY: Tiny egg on a curry leaf",
       "BUTTERFLY: Caterpillar eating leaves",
       "BUTTERFLY: Chrysalis hanging still",
-      "BUTTERFLY: Butterfly drying their wings",
+      {
+       "f": "BUTTERFLY: Butterfly drying their wings",
+       "img": {
+        "src": "media/cards/animal-life-cycles-g1-0-07.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "HEN: Egg in a nest",
       "HEN: Chick pecking out of the shell",
       "HEN: Fluffy chick following their mother",
-      "HEN: Hen laying an egg",
+      {
+       "f": "HEN: Hen laying an egg",
+       "img": {
+        "src": "media/cards/animal-life-cycles-g1-0-11.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "MOSQUITO: Eggs floating on still water",
       "MOSQUITO: Wriggler swimming in water",
       "MOSQUITO: Tumbler, the pupa, curled in water",
-      "MOSQUITO: Adult mosquito flying",
+      {
+       "f": "MOSQUITO: Adult mosquito flying",
+       "img": {
+        "src": "media/cards/animal-life-cycles-g1-0-15.jpg",
+        "credit": "ginko14, CC BY, via iNaturalist"
+       }
+      },
       "GRASSHOPPER: Eggs in the soil",
       "GRASSHOPPER: Small nymph with no wings",
       "GRASSHOPPER: Bigger nymph with wing buds",
-      "GRASSHOPPER: Adult with full wings"
+      {
+       "f": "GRASSHOPPER: Adult with full wings",
+       "img": {
+        "src": "media/cards/animal-life-cycles-g1-0-19.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
