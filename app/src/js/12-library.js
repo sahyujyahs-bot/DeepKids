@@ -537,10 +537,13 @@ function topicOverview(u) {
   return h;
 }
 function plansTab(u) {
-  const P = planOptions(u),
-    pk = ((S.planPick || {})[u.k] || {}).full || P[0]?.id;
-  return `<p class="xs muted">Pick one. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
-   ${P.map((o, i) => `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`).join("")}`;
+  const O = planOptions(u),
+    pk = ((S.planPick || {})[u.k] || {}).full || O.full[0]?.id,
+    card = (o, i) =>
+      `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`;
+  return `<p class="xs muted">Pick one way to teach this chapter. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
+   <h3>Full plans</h3>${O.full.map(card).join("")}
+   <h3>Short plans · about 30 minutes</h3>${O.busy.map((o, i) => card(o, i + 3)).join("")}`;
 }
 function topicHits(q) {
   q = q.trim().toLowerCase();
@@ -664,8 +667,8 @@ Write one topic level for this, pitched at the right level. Keep substance; neve
 Tag it to any of these syllabus chapters that genuinely cover it (use the keys exactly; empty if none):
 ${list}
 Reply with only JSON:
-{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
-Give exactly 3 plans (about 60–90 minutes each). Only list books you are sure exist. No URLs.`;
+{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}],"busy":[{"name":"","idea":"","steps":[{"kind":"","title":"","mins":10,"how":""}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
+Give exactly 3 full-day plans (about 60–90 minutes each) and 3 short plans (about 30 minutes each). Only list books you are sure exist. No URLs.`;
   try {
     const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
     if (!r || !r.name) throw { code: "invalid_json" };
@@ -680,7 +683,7 @@ Give exactly 3 plans (about 60–90 minutes each). Only list books you are sure 
       summary: String(r.summary || "").slice(0, 1200),
       plusSummary: String(r.plusSummary || "").slice(0, 400),
       ideas: (r.ideas || []).slice(0, 5).map((x) => String(x).slice(0, 300)),
-      plans: { full: (r.plans?.full || []).slice(0, 3) },
+      plans: { full: (r.plans?.full || []).slice(0, 3), busy: (r.plans?.busy || []).slice(0, 3) },
       related: {
         prereq: (r.related?.prereq || []).slice(0, 4).map(String),
         deeper: (r.related?.deeper || []).slice(0, 4).map(String),
