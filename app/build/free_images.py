@@ -10,7 +10,7 @@ Only public domain, CC0 and CC BY pictures are offered (never share-alike, non-c
   python3 app/build/free_images.py card <unit id> <game id> <printable no> <item no> "File:Name.jpg"
       a picture on a printed card's front, saved to app/content/media/cards/ and set as the item's img
       (a text item becomes {"f": text, "img": …})"""
-import json, os, re, subprocess, sys, time, urllib.parse, urllib.request
+import fcntl, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
 
 APP = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 API = 'https://commons.wikimedia.org/w/api.php'
@@ -19,15 +19,24 @@ OK = re.compile(r'^(public domain|pd\b|pd-|cc0|cc by \d|cc-by-\d|attribution$)',
 BAD = re.compile(r'\b(sa|nc|nd)\b|share|noncommercial|no deriv', re.I)
 
 
-def get(params):
-    url = API + '?' + urllib.parse.urlencode({**params, 'format': 'json'})
-    for i in range(5):
+def fetch_url(url):
+    """One request to Commons at a time from this machine, at least 1.5 s apart, waiting and retrying when it is busy."""
+    for i in range(8):
+        with open('/tmp/dk_commons.lock', 'a+') as lk:
+            fcntl.flock(lk, fcntl.LOCK_EX)
+            lk.seek(0); last = float(lk.read() or 0)
+            time.sleep(max(0, last + 1.5 - time.time()))
+            lk.seek(0); lk.truncate(); lk.write(str(time.time())); lk.flush()
         try:
-            return json.load(urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60))
+            return urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=90).read()
         except urllib.error.HTTPError as e:
-            if e.code != 429: raise
-            time.sleep(5 * (i + 1))
-    raise SystemExit('Commons is busy, try again in a minute')
+            if e.code not in (429, 503): raise
+            time.sleep(10 * (i + 1))
+    raise SystemExit('Commons is busy, try again in a few minutes')
+
+
+def get(params):
+    return json.loads(fetch_url(API + '?' + urllib.parse.urlencode({**params, 'format': 'json'})))
 
 
 def strip(h):
@@ -63,8 +72,7 @@ def sheet(cands, out):
     f = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 28)
     for i, c in enumerate(cands):
         try:
-            r = urllib.request.urlopen(urllib.request.Request(c['thumb'], headers={'User-Agent': UA}), timeout=60)
-            t = Image.open(BytesIO(r.read())).convert('RGB'); t.thumbnail((S - 8, S - 8))
+            t = Image.open(BytesIO(fetch_url(c['thumb']))).convert('RGB'); t.thumbnail((S - 8, S - 8))
             im.paste(t, ((i % W) * S + (S - t.width) // 2, (i // W) * S + (S - t.height) // 2))
         except Exception:
             pass
@@ -78,8 +86,7 @@ def fetch(title, dst):
     if not x: raise SystemExit(f'{title}: not found, or its licence is not public domain, CC0 or CC BY')
     tmp = dst + '.dl'
     os.makedirs(os.path.dirname(dst), exist_ok=True)
-    with urllib.request.urlopen(urllib.request.Request(x[0]['thumb'], headers={'User-Agent': UA}), timeout=90) as r:
-        open(tmp, 'wb').write(r.read())
+    open(tmp, 'wb').write(fetch_url(x[0]['thumb']))
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', tmp, '-vf', 'scale=min(900\\,iw):-2', '-q:v', '5', dst], check=True)
     os.remove(tmp)
     return x[0]

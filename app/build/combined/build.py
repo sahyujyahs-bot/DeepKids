@@ -110,13 +110,15 @@ def unit_parts(u):
     return out
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
-    if f.endswith(('.art.json', '.photos.json')): continue
+    if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
     u = json.load(open(f)); t = TL.get(u['id'])
     if not t: print('unit not in the curriculum:', u['id']); continue
     art = f[:-5] + '.art.json'
     if os.path.exists(art): u['img'] = json.load(open(art))
     ph = f[:-5] + '.photos.json'   # real, credited pictures from free-licence books (app/build/book_images.py)
     if os.path.exists(ph): u['photos'] = json.load(open(ph))
+    md = f[:-5] + '.models.json'   # free 3D models to turn around (app/build/free_models.py)
+    if os.path.exists(md): u['models'] = json.load(open(md))
     # jokes in one place: the unit's own, plus those written for the board chapters it covers, each tagged with its source
     for j in u.get('jokes', []): j.setdefault('src', 'unit')
     sub_ = SUB.get(u['id'], {}); chap_ = CUR.get('chapters', {})

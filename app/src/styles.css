@@ -4535,7 +4535,9 @@ html:has(.fxdlg[open]) {
 .fximg.free img {
   object-fit: contain;
 }
-.fxcredit {
+.fximg .fxcredit {
+  margin: 0;
+  opacity: 1;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -4853,6 +4855,10 @@ input.fxin {
   background: #000;
   display: grid;
   place-items: center;
+}
+.fx3d {
+  background-size: cover;
+  background-position: center;
 }
 .fxvid iframe {
   width: 100%;

@@ -359,7 +359,19 @@ function fxCards(u) {
     const j = order.findIndex((k) => k === "agreed" || k === "explanations");
     order.splice(j < 0 ? order.length : j + 1, 0, "how_we_found_out");
   }
-  for (const k of ["videos", "jokes", "maths", "applications", "photos", "spotted", "ask_kids", "song", "links", "buy"])
+  for (const k of [
+    "videos",
+    "jokes",
+    "maths",
+    "applications",
+    "photos",
+    "models",
+    "spotted",
+    "ask_kids",
+    "song",
+    "links",
+    "buy",
+  ])
     if (!order.includes(k)) order.splice(k === "videos" ? order.length : order.length, 0, k);
   const all = {};
   for (const k of Object.keys(FXN)) for (const x of u[k] || []) all[x.id] = [k, x];
@@ -569,6 +581,16 @@ function fxCards(u) {
             "photos",
             `<div class="fxtxt"><span class="fxeb">📷 Real pictures</span><div class="fxcar">${u.photos.map((p) => `<div class="fxslide"><img class="fximg" loading="lazy" src="${esc(p.src)}" alt="${esc(p.caption)}"><p>${esc(p.caption)}</p><p class="fxcredit">${esc(p.credit)}</p></div>`).join("")}</div><p class="fxhint">Swipe →</p></div>`,
             u.photos.map((p) => p.caption).join(" "),
+            { wide: 1 },
+          );
+        break;
+      // free 3D models (CC BY or CC0 on Sketchfab, app/build/free_models.py), opened only when tapped
+      case "models":
+        if (u.models?.length)
+          add(
+            "models",
+            `<div class="fxtxt"><span class="fxeb">🧊 Turn it around in 3D</span><div class="fxcar">${u.models.map((m) => `<div class="fxslide"><div class="fxvid fx3d" data-sk="${esc(m.uid)}" style="background-image:url('${esc(m.thumb)}')"><button class="fxb" data-fx="m3d">🧊 Open in 3D</button></div><p><b>${esc(m.title)}</b>${m.why ? " " + esc(m.why) : ""}</p><p class="fxcredit">${esc(m.credit)}</p></div>`).join("")}</div>${u.models.length > 1 ? `<p class="fxhint">Swipe →</p>` : ""}<p class="fxsm">Drag to turn it, pinch to zoom.</p></div>`,
+            u.models.map((m) => m.title).join(". "),
             { wide: 1 },
           );
         break;
@@ -1295,6 +1317,11 @@ function fxClick(e) {
   if (a === "play") {
     const v = b.parentNode;
     v.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.dataset.yt)}?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Video"></iframe>`;
+    return;
+  }
+  if (a === "m3d") {
+    const v = b.parentNode;
+    v.innerHTML = `<iframe src="https://sketchfab.com/models/${encodeURIComponent(v.dataset.sk)}/embed?autostart=1&ui_infos=0&ui_hint=2" allow="autoplay; fullscreen; xr-spatial-tracking" allowfullscreen title="3D model"></iframe>`;
     return;
   }
   if (a === "print") return fxPrint(b.dataset.id);
