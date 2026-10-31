@@ -74,7 +74,7 @@ Animals move from place to place. They walk, swim, fly, crawl and slither. Plant
 ### Sensing: noticing and responding · *defined*
 **Definition:** Sensing is when a living thing notices something around them, like light, touch, sound or heat, and responds to it.
 
-Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. The trap snaps shut only when an insect touches the trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.
+Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. The trap snaps shut only when an insect touches the trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Some thinkers say plants and bacteria feel, remember and decide in their own way, so a root chooses where to grow and a bacterium decides to swim towards food. Many scientists call these automatic responses instead.
 - e.g. You blink when dust flies near your eye.
 - e.g. A moong root turns to grow downwards, even if you plant the seed upside down.
 - e.g. A cat's whiskers feel the walls in the dark.
@@ -102,14 +102,14 @@ To decide if something is alive, scientists do not look at one sign. They look a
 ### Why living things must keep eating: energy and order · *defined*
 **Definition:** Living things need a steady flow of energy, mostly from the Sun, to keep their bodies working and in order.
 
-A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores it in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.
+A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores the energy in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.
 - e.g. You feel warm because respiration in your body gives off heat all the time.
 - e.g. A plant kept in a dark cupboard for weeks uses up their stored food and goes pale and weak.
 - e.g. A fallen leaf, no longer fed by the tree, slowly rots back into soil.
 ### Living, once alive and never alive: one world · *defined*
 **Definition:** Living things are alive now. Once-alive things came from living things. Never-alive things were never part of a living thing.
 
-We can sort things into three groups. Living things are alive now. Once-alive things were part of something alive, like wood, cotton, leather, paper, a fallen leaf or a cooked dal. Never-alive things were never part of a living thing, like stone, steel, glass and water. But the groups are not walled off. The atoms in your body were once in air, water and soil. The carbon in your dal was in the air a year or two ago, before a plant caught it. When a leaf falls and rots, its atoms go back to the soil and air, ready for the next living thing. Everything around us, living and non-living, makes one environment together. Plants need sunlight, water and soil. And living things make soil, change the air and even build rock, like coral reefs.
+We can sort things into three groups. Living things are alive now. Once-alive things were part of something alive, like wood, cotton, leather, paper, a fallen leaf or a cooked dal. Never-alive things were never part of a living thing, like stone, steel, glass and water. But the groups are not walled off. The atoms in your body were once in air, water and soil. The carbon in your dal was in the air a year or two ago, before a plant caught the carbon. When a leaf falls and rots, its atoms go back to the soil and air, ready for the next living thing. Everything around us, living and non-living, makes one environment together. Plants need sunlight, water and soil. And living things make soil, change the air and even build rock, like coral reefs.
 - e.g. A wooden table is once alive. It was part of a tree.
 - e.g. A steel spoon is never alive. It was made from rock dug out of the ground.
 - e.g. The water you drink today may once have been inside a fish, a cloud and a mango tree.
@@ -186,7 +186,7 @@ A dry seed and a boiled seed are made of the same kinds of atoms, and they look 
 - Ask: If your breath goes into a tree, and the tree's mango becomes you, where do you stop and the tree begin?
 - Ask: Is a dry seed alive, asleep, or something in between?
 - Ask: Who decides what counts as alive: nature, or us?
-- Ask: Could something be a little bit alive?
+- Ask: Why does a dry seed wait, instead of growing straight away?
 
 ## Deep and big questions
 - *deep:* Is a dry seed in a packet alive right now, or only alive later? (hint: Think about what happens when you boil a seed. A boiled seed never wakes up. So what was in the dry seed that the boiled seed lost?)
@@ -195,7 +195,7 @@ A dry seed and a boiled seed are made of the same kinds of atoms, and they look 
 - *deep:* Is your body the same body you had last year? (hint: Many of your cells have been replaced since then. Your blood cells last only about four months.)
 - *big:* If we found something on Mars, how would we know if it was alive? (hint: Which of the seven signs could a robot test from far away?)
 - *big:* Could something be a little bit alive? (hint: Think of a dry seed, a virus, or J.C. Bose's tired metal. Is alive a switch, or more like a dimmer?)
-- *deep:* Does a plant feel your touch? (hint: Plants do, in their own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?)
+- *deep:* Does a plant feel your touch? (hint: Plants sense touch and respond. A touch-me-not folds its leaves at once. How could we find out what the touch is like for the plant?)
 - *big:* Why do living things die, when a stone can last for millions of years? (hint: What does a living thing have to keep doing that a stone does not?)
 - *big:* Why do we care more about hurting a dog than a stone? What about hurting a plant? (hint: Jain teachings say even earth and water hold life. How would that change how you treat them?)
 - *big:* Is a river alive? In 2017 a court in Uttarakhand said the Ganga and Yamuna should be treated as living persons. India's Supreme Court later put this on hold. (hint: Check the seven signs. Then ask: what changes if we treat a river as if it were alive?)
@@ -242,7 +242,7 @@ The professor laughed, a big, surprised laugh. 'Now you have asked my question,'
 
 Tuli took the feather. Before she began, she touched the shy plant, very gently, with one finger. Their leaflets folded shut. Then, after a while, slowly, as if they had made up their mind, they opened again.
 
-**For the parent:** For the parent: the wire and the plant share one sign of life, responding when touched, and both even tire and recover. But only the plant does everything else, by themselves and from inside: they drink, grow, move to the light, sleep and wake, and make flowers for seeds. One sign is not enough to call something alive. All the signs together are. The story also leaves Bose's real question open: is the line between living and non-living drawn by nature, or by us? And it quietly asks who gets noticed: a cleaner's daughter, and an Indian scientist paid less than his colleagues.
+**For the parent:** For the parent: the wire and the plant share one sign of life, responding when touched, and both even tire and recover. But only the plant does everything else, by themselves and from inside: they drink, grow, move to the light, sleep and wake, and make flowers for seeds. One sign is not enough to call something alive. All the signs together are. Bose's real question stays open: is the line between living and non-living drawn by nature, or by us? Notice who got noticed, too: a cleaner's daughter, and an Indian scientist paid less than his colleagues.
 
 - Ask: In the story, the plant and the wire both got tired when tapped. So why did Tuli say they were not the same?
 - Ask: What did the plant do in the night, when nobody was touching them?
@@ -252,39 +252,39 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 
 ## Games
 ### g1 · Life Trial: Alive, Once Alive or Never Alive? (20 min)
-- **rules:** Cut out the 24 thing cards. Shuffle them and put them face down.; Each player takes a set of 7 sign cards.; On your turn, turn over a thing card and read it out loud.; Everyone holds up the sign cards they think this thing really shows, at some time in its life.; The player whose turn it is gives the verdict: alive, once alive or never alive. They put the card on that mat and say why.; Score 1 point for each sign you can explain. Score 2 points for a verdict with a good reason. If someone challenges you with good evidence, they win the 2 points instead.; Remember the big rule: one sign is not enough. A living thing does all seven over its life.; When the cards run out, the player with the most points wins.
-- **Printable cards: 24 thing cards to cut out:** A dry moong seed; A cloud; A car; A cat; A mushroom; A tulsi plant; A river; A stone; A wooden chair; A hen's egg; A spoon of dry yeast; You; An ant; A mobile phone; A money plant cutting in a bottle; The wind; A soap bubble; An earthworm; A slice of bread; A fallen dry leaf; A cotton shirt; A coral reef; A light bulb; A ripe mango
-- **Printable cards: 7 sign cards for each player:** N: Nutrition (gets food); R: Respiration (gets energy from food); G: Growth (grows from inside); M: Movement (moves their body or parts of it); S: Sensing (notices and responds); E: Excretion (gets rid of their own waste); R: Reproduction (makes young of their kind)
+- **rules:** Cut out the 24 thing cards and the sign cards. Take out the card 'A car' for the practice round. Shuffle the rest and put them face down.; Each player takes a set of 7 sign cards.; On your turn, turn over a thing card and read it out loud.; Everyone chooses the sign cards they think this thing really shows, at some time in its life. Then everyone holds them up at the same time.; The player whose turn it is gives the verdict: alive, once alive or never alive. They put the card on that mat and say why. A thing can show some signs and still be never alive. A living thing does all seven over its life.; Score 1 point for each sign card you held up and can explain in one sentence. The player whose turn it is also scores 2 points for a verdict with a good reason.; Anyone can challenge a verdict by giving better evidence. If the other players agree, the challenger scores the 2 points instead. If you cannot agree, put the card to one side and nobody scores for the verdict. Look it up in this unit afterwards.; Play 12 cards, not all 24. Keep the rest for another game. The player with the most points wins. If points are equal, you share the win.
+- **Printable cards: 24 thing cards to cut out:** A dry moong seed; A cloud; A car; A cat; A mushroom; A tulsi plant; A river; A stone; A wooden chair; A hen's egg from a shop; A spoon of dry yeast; You; An ant; A mobile phone; A money plant cutting in a bottle; The wind; A soap bubble; An earthworm; A slice of bread; A fallen dry leaf; A cotton shirt; A coral reef; A light bulb; A ripe mango
+- **Printable cards: 7 sign cards (print one set for each player):** N: Nutrition (gets food); R: Respiration (gets energy from food); G: Growth (grows from inside); M: Movement (moves their body or parts of it); S: Sensing (notices and responds); E: Excretion (gets rid of their own waste); R: Reproduction (makes young of their kind)
 - **Printable board: Three verdict mats:** ALIVE; ONCE ALIVE; NEVER ALIVE
 - **Printable score sheet: Score sheet:** Player name; Thing; Signs held up; Verdict; Points
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay out the three mats. 2. Shuffle the thing cards and put them face down. 3. Give each player 7 sign cards.  
+  *Parent does:* 1. Lay out the three mats. 2. Take out the card 'A car'. Shuffle the other thing cards and put them face down. 3. Give each player a set of 7 sign cards.  
   *Parent says:* Every card is a thing from everyday life. We are going to put each one on trial. Is it alive, once alive, or never alive? But first we check which of the seven signs of life it shows.  
   *Child mode:* Put out the three mats. Mix up the thing cards. Take your 7 sign cards. For each thing, you check its signs. Then you decide.
 - **s2 (4 min)**  
-  *Parent does:* Find the card 'A car'. Play it together as a practice round.  
+  *Parent does:* Take the card 'A car'. Play it together as a practice round, then put it on the NEVER ALIVE mat.  
   *Parent says:* Let's practise with the car. Hold up every sign a car shows. Think about a real car on the road.  
   *Child mode:* Practice card: a car. Which signs of life does it show? Hold them up.
   - Ask: Which signs does a car seem to show? (good: It moves.; It takes in petrol, like food.; It sucks in air and burns the petrol.; It gives out smoke.; Some cars have sensors.)
   - Note: A car can look like it does up to five signs. That is the point of the game. Praise your child for spotting them, then ask about growth and young ones.
   - Check: A car moves, drinks fuel and puffs out smoke. Which two signs of life can a car never do? → **Grow and make young**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns. Each player turns over a card and reads it out. 2. Everyone holds up signs. 3. The player gives a verdict and a reason. 4. Keep score on the score sheet.  
+  *Parent does:* 1. Take turns. Each player turns over a card and reads it out. 2. Everyone holds up their sign cards. 3. The player gives a verdict and a reason. 4. Keep score on the score sheet. 5. Stop after 12 cards.  
   *Parent says:* When you give your verdict, tell us your evidence. Which signs does it show? Which is it missing?  
   *Child mode:* Take turns. Turn over a card. Hold up its signs. Then choose: alive, once alive or never alive. Say why.
-  - Note: Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing in it. So many people put it on once alive. An egg that a hen sits on can be alive, with a chick growing inside.
+  - Note: Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing inside the egg. So many people put the egg on once alive. An egg that a hen sits on can be alive, with a chick growing inside.
 - **s4 (2 min)**  
-  *Parent does:* When someone draws 'A dry moong seed', stop and talk about it.  
+  *Parent does:* If someone turns over 'A dry moong seed', stop and talk about the seed. If it does not come up, ask the question yourself at the end.  
   *Parent says:* A dry seed does almost nothing right now. So how can they be alive?  
   *Child mode:* A dry seed! Almost nothing is happening. Is the seed alive?
   - Check: A dry moong seed seems to do nothing. Why do we still call the seed alive? → **Because, with water, they wake up and do all seven signs**
 - **s5 (2 min)**  
-  *Parent does:* Count the points. Then look at the three mats together.  
+  *Parent does:* Add up the points. Then look at the three mats together.  
   *Parent says:* Look at the ALIVE mat. What do all these things have in common?  
   *Child mode:* Count your points. Look at the ALIVE mat. What do they all do?
   - Think: Is there a card you are still not sure about? Keep it to one side. Scientists have cards like that too.
 ### g2 · MRS GREN Moves (10 min)
-- **rules:** The caller shuffles the action cards and calls one out.; Everyone acts it out at once.; In round two, the caller calls a sign and a living-thing card together, for example, 'Movement: a neem tree!'; Players act out how that living thing does that sign, and say it in one sentence.; Anyone can call 'Challenge!' if they think the action is wrong.
+- **rules:** The caller shuffles the action cards and calls one out.; Everyone acts it out at once.; In round two, the caller turns over a living-thing card and calls a sign, for example, 'Movement: a neem tree!'; Players act out how that living thing does that sign, and say it in one sentence.; Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this unit.
 - **Printable cards: 7 action cards:** M for Movement: walk like an elephant; R for Respiration: take three big slow breaths; S for Sensing: freeze and listen like a deer; G for Growth: grow from a tiny crouch to tall; R for Reproduction: rock a baby in your arms; E for Excretion: breathe out a long whoosh; N for Nutrition: munch like a goat
 - **Printable cards: 14 living-thing cards:** A neem tree; A goldfish; A sunflower; A crow; A frog; An earthworm; A mango tree; A honeybee; A baby; A mushroom; A cow; A touch-me-not plant; A spider; A snail
 - **s1 (3 min)**  
@@ -292,7 +292,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Parent says:* MRS GREN helps us remember the seven signs of life. Each letter starts one sign. Ready? M! Walk like an elephant. That's Movement.  
   *Child mode:* Listen to the caller. Act out each sign. M is for Movement. Walk like an elephant!
 - **s2 (5 min)**  
-  *Parent does:* Call a sign together with a living-thing card. For example, 'Movement: a neem tree!'  
+  *Parent does:* Turn over a living-thing card and call a sign with it. For example, 'Movement: a neem tree!'  
   *Parent says:* Now it's harder. Movement, a neem tree! How does a tree move? Show me, and tell me in one sentence.  
   *Child mode:* Now the caller says a sign and a living thing. Show how they do that sign. Say it in one sentence.
   - Ask: How does a neem tree move? (good: Their roots grow down.; Their branches grow towards the light.; Their leaves sway, but that is the wind. They move themselves by growing.)
@@ -321,9 +321,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Parent says:* Bottle A gets yeast, sugar and warm water. B gets yeast and warm water, but no sugar. C gets yeast, sugar and cold water. Which balloon will grow most? Why do you think so?  
   *Child mode:* A gets yeast, sugar and warm water. B gets no sugar. C gets cold water. Which balloon will grow most? Why? Write your guess.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* 1. Wrap the string round each flat balloon and write the length in the table. 2. Put two teaspoons of yeast in each bottle, using a funnel. 3. Add one tablespoon of sugar to A and to C. Add none to B. 4. A grown-up pours half a cup of warm water into A and into B. 5. Pour half a cup of fridge-cold water into C. 6. Swirl each bottle. 7. Stretch a balloon over each neck. Blow each balloon up and let it down two or three times first, so it stretches easily.  
+  *Parent does:* 1. Blow each balloon up and let it down two or three times, so it stretches easily. 2. Wrap the string round each flat balloon and write the length in the table. 3. Put two teaspoons of yeast in each bottle, using a funnel. 4. Add one tablespoon of sugar to A and to C. Add none to B. 5. A grown-up pours half a cup of warm water into A and into B. 6. Pour half a cup of fridge-cold water into C. 7. Swirl each bottle. 8. Stretch a balloon over each neck.  
   *Parent says:* We change only one thing in each bottle, so the test is fair. Now let's stretch on the balloons. If anything in there is alive and gives out a gas, the balloon will catch it.  
-  *Child mode:* Measure each flat balloon. Yeast in all three. Sugar in A and C. Warm water in A and B. Cold water in C. Swirl. Put a balloon on each.
+  *Child mode:* Stretch each balloon. Measure each flat balloon. Yeast in all three. Sugar in A and C. Warm water in A and B. Cold water in C. Swirl. Put a balloon on each.
   - Note: The warm water should feel like a bath on the inside of your wrist, around 40 degrees. Hot water will kill the yeast. If nothing happens in bottle A after 20 minutes, your yeast may be old. Check the date on the packet, and try a fresh one. Keep an opened packet closed tight in the fridge.
 - **s4 (10 min)**  
   *Parent does:* 1. Watch for 10 minutes. 2. Look for bubbles and foam in each bottle. 3. Then wait until 30 minutes have passed.  
@@ -340,7 +340,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Parent says:* Now tell me three things. Is the yeast alive? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: yeast is alive, and needs food and warmth. What I saw: all three balloons started at 12 cm round. Balloon A grew to 30 cm, but B only reached 14 cm and C 13 cm. Why: the yeast fed on the sugar and gave out gas as waste. In the cold, the yeast was too slow. Without sugar, there was almost no food.
-  - Think: Bakers knead yeast into dough and leave it somewhere warm. Why warm? What would happen in the fridge?
+  - Think: Bakers knead yeast into dough and leave the dough somewhere warm. Why warm? What would happen in the fridge?
 ### e2 · Sleeping or dead? The seed test (25 min, 6 days)
 - **question:** Is a dry seed alive? How can we tell a sleeping seed from a dead one?
 - **predict:** Before you start, look at the four cups. Cup A has soaked seeds on wet cotton. Cup B has dry seeds on dry cotton. Cup C has boiled seeds on wet cotton. Cup D has plastic beads on wet cotton. In which cups will something grow? Why do you think so?
@@ -379,20 +379,20 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Parent does:* Ask your child to say or write three short sentences: what I think, what I saw and why.  
   *Parent says:* Now tell me three things. Is a dry seed alive? What did you see? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: a dry seed is alive, but resting. What I saw: all 5 soaked seeds sprouted, and the dry seeds sprouted after I gave them water. The boiled seeds and the beads never grew. Why: the seed has a living baby plant inside. Water wakes them up. Boiling kills them, and beads were never alive.
+  - Note: A good answer sounds like this. What I think: a dry seed is alive, but resting. What I saw: all 5 soaked seeds sprouted, and the dry seeds sprouted after I gave them water. The boiled seeds and the beads never grew. Why: the seed has a living baby plant inside. Water wakes the baby plant up. Boiling kills the baby plant, and beads were never alive.
 ### e3 · Breath Counter: does moving need more energy? (20 min)
 - **question:** When you move fast, does your body need more air? What does that tell us about respiration?
 - **predict:** Guess how many breaths you take in one minute sitting still. Then guess how many after one minute of jumping. Why do you think it will change?
-- **fair test:** To make it fair, the same person counts in the same way each time, for the same 15 seconds. Sit still for two minutes before the first count. Do each count three times and take the middle number.
-- **safety:** Jump on a soft, flat floor. Stop if you feel dizzy or your chest hurts. A child with asthma can march on the spot gently instead.
+- **fair test:** To make it fair, the same person counts in the same way each time, for the same 15 seconds. Sit still for two minutes before the first count. Count straight away after jumping, and again after two minutes of rest.
+- **safety:** Stop if you feel dizzy. A child with asthma can march on the spot gently instead.
 - **record:** Fill in the table. Then draw a bar chart with three bars: sitting still, just after jumping and after two minutes of rest.
-- **results table:** When | Breaths in 15 seconds: try 1 | Try 2 | Try 3 | Middle number | Breaths in 1 minute (middle number times 4)
+- **results table:** When | Breaths in 15 seconds | Breaths in 1 minute (breaths in 15 seconds times 4)
 - **s1 (4 min)**  
-  *Parent does:* 1. Your child sits still for 2 minutes. 2. They put a hand on their tummy. 3. Time 15 seconds while they count each breath in. 4. Do it three times. Write the numbers.  
+  *Parent does:* 1. Your child sits still for 2 minutes. 2. They put a hand on their tummy. 3. Time 15 seconds while they count each breath in. 4. Write the number.  
   *Parent says:* Put a hand on your tummy. Each time it goes out, that is one breath in. I'll say go and stop. You count.  
   *Child mode:* Sit still. Hand on tummy. Count each breath in until the grown-up says stop.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child jumps on the spot for 1 minute. 2. Straight away, count their breaths for 15 seconds. 3. Write the number. Rest and repeat twice more, if they are happy to.  
+  *Parent does:* 1. Your child jumps on the spot for 1 minute. 2. Straight away, count their breaths for 15 seconds. 3. Write the number.  
   *Parent says:* Now jump for one whole minute. Go! Stop. Quick, count your breaths.  
   *Child mode:* Jump for one minute. Stop. Count your breaths straight away.
   - Note: Most children breathe about twice as fast after jumping. Their heart beats faster too. Let them feel their heartbeat with two fingers on the side of the neck.
@@ -406,9 +406,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* Breathe on a cold mirror. See the mist? Where did it come from?
   - Note: After your child has guessed, explain: the mist is water from inside the body, carried out in the breath. The breath also carries out carbon dioxide, which you cannot see. If the mirror does not mist, cool it in the fridge for a few minutes first.
 - **s5 (4 min)**  
-  *Parent does:* 1. Multiply each middle number by 4 to get breaths in one minute. 2. Draw one bar for each.  
+  *Parent does:* 1. Multiply each count by 4 to get breaths in one minute. 2. Draw one bar for each.  
   *Parent says:* Fifteen seconds is a quarter of a minute. So four times the number gives breaths in a whole minute.  
-  *Child mode:* Times each middle number by 4. That gives breaths in one minute. Draw a bar for each.
+  *Child mode:* Times each count by 4. That gives breaths in one minute. Draw a bar for each.
   - Check: In the breath counter, you breathe much faster after jumping. Why? → **Your muscles need more energy, so respiration needs more oxygen**
 - **s6 (3 min)**  
   *Parent does:* Ask your child for three sentences: what I think, what I saw and why.  
@@ -418,7 +418,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 
 ## Activities
 ### a1 · The Seven Signs Trial: a seed, a cloud and a car (20 min)
-- **safety:** Look at real cars only from the pavement, with a grown-up. Never look straight at the Sun.
+- **safety:** Never look straight at the Sun.
 - **record:** Fill in the trial table with a tick, a cross or a wavy line for 'sort of'. Write a verdict under each column.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a table on a big sheet. 2. Across the top, draw a seed, a cloud and a car. 3. Down the side, write the seven signs: nutrition, respiration, growth, movement, sensing, excretion, reproduction.  
@@ -431,8 +431,8 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   - Check: In the seven signs trial, a car moves, takes in petrol and gives out smoke. Is that enough to call it alive? → **No. It never grows or makes young, and people build it.**
 - **s3 (5 min)**  
   *Parent does:* Look at a cloud through the window for a few minutes. If the sky is clear today, use a photo of clouds and remember how clouds change. Then go through the seven signs for the cloud.  
-  *Parent says:* Watch that cloud. Is it moving? Is it changing shape? Clouds can grow and even split into little clouds. Does a cloud eat? Does it make baby clouds of its own?  
-  *Child mode:* Watch a cloud for a few minutes. Does it move? Does it grow? Does it eat? Fill in its column.
+  *Parent says:* Watch that cloud. Is it moving? Is it changing shape? Clouds can grow and even split into little clouds. Does a cloud eat? Does a cloud make baby clouds?  
+  *Child mode:* Watch a cloud for a few minutes. Does it move? Does it grow? Does the cloud eat? Fill in its column.
   - Note: A cloud moves, grows and can split. Your child may want to tick those. Ask: does it grow from the inside by using food? Or does it grow because more water vapour in the air turns into drops? A cloud never feeds, respires or makes young of its own kind. It is a heap of tiny water drops pushed by the wind.
 - **s4 (4 min)**  
   *Parent does:* Look at a dry moong seed. If you have a soaked or sprouted one, look at that too. Fill in the seed column.  
@@ -464,14 +464,14 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* Write a label for each thing. Count each tray. Draw a tally mark for each one.
   - Think: Which tray has the most things? Why do you think so?
 - **s4 (4 min)**  
-  *Parent does:* Look closely at one once-alive thing with a magnifying glass.  
-  *Parent says:* Look at this leaf up close. Can you see its veins? They once carried water through the living leaf.  
+  *Parent does:* Look closely at one once-alive thing, such as a leaf, with a magnifying glass.  
+  *Parent says:* Look at a leaf up close. Can you see the veins? They once carried water through the living leaf.  
   *Child mode:* Look at a leaf with a magnifying glass. Can you see the lines? They once carried water.
 ### a3 · The Shy Plant: does a plant sense touch? (25 min)
 - **safety:** Touch-me-not stems have small prickles. Touch the leaves gently with a feather or one fingertip, not the stem. Wash your hands afterwards.
 - **record:** Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening.
 - **s1 (2 min)**  
-  *Parent does:* Find a touch-me-not plant with their leaves open. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.  
+  *Parent does:* Find a touch-me-not plant with open leaves. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.  
   *Parent says:* This plant is called chhui-mui, or lajwanti, or touch-me-not. Look at their little leaflets, lined up in pairs. What do you think will happen if we touch the plant?  
   *Child mode:* This is a touch-me-not plant. Look at their tiny leaflets. What will happen if you touch the plant?
 - **s2 (3 min)**  
@@ -500,24 +500,24 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **record:** Draw both bags after 2 hours. Write what you see inside each.
 - **s1 (5 min)**  
   *Parent does:* 1. Water the plant. 2. Slip a clear bag over one leafy branch and tie it gently. 3. Push a dead twig into the soil and tie a bag over it. 4. Leave both in sunlight.  
-  *Parent says:* We have a living branch and a dead twig. Both get a bag. If the living plant gives anything out, the bag will catch it.  
+  *Parent says:* We have a living branch and a dead twig. Both get a bag. If the living plant gives anything out, the bag will catch the water.  
   *Child mode:* Tie a bag over a living branch. Tie another over a dead twig. Leave them in the sun.
 - **s2 (5 min)**  
   *Parent does:* After 2 hours, look at both bags. Touch the outside. Then take both bags off.  
   *Parent says:* Look! What is inside the bag on the living branch? And the dead twig's bag?  
   *Child mode:* Look at the two bags. Which one has water drops inside?
+  - Note: Usually a fine mist or a few drops show inside the bag on the living branch within an hour or two. On a cool or cloudy day the mist can be faint, so leave the bags a little longer. The bag on the dead twig stays clear or nearly clear.
   - Check: After 2 hours in the sun, the bag on the living branch is misty with water, and the bag on the dead twig is dry. Why? → **The living plant took water up from their roots and gave it out through their leaves**
   - Wait: Wait 2 hours.
 - **s3 (5 min)**  
   *Parent does:* Talk about what the plant takes in and gives out.  
   *Parent says:* A plant takes in water and air, and gives out water vapour and gases from their leaves. In sunlight, one gas they give out is oxygen, the gas we need.  
   *Child mode:* A plant takes in water and air. They give out water and gases from their leaves. One gas is oxygen, which we breathe.
-  - Note: Strictly, most of this water is not waste. The plant lets it out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall.
+  - Note: Strictly, most of this water is not waste. The plant lets the water out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall.
 ### a5 · All Seven in Me: find the signs of life in your own body (15 min)
-- **safety:** Drop the ruler from a low height. Do not throw it.
 - **record:** Write one piece of evidence for each sign of life in your body. Write your three ruler-catch numbers.
 - **s1 (4 min)**  
-  *Parent does:* Go through the signs one by one. For each, find evidence in your child's body. Nutrition: what did you eat today? Respiration and excretion: breathe on a mirror. Movement: wiggle your fingers. Growth: are your old clothes too small?  
+  *Parent does:* Go through the signs one by one. For each, find evidence in your child's body. Nutrition: what did you eat today? Respiration and excretion: feel the warm breath on your hand. Movement: wiggle your fingers. Growth: are your old clothes too small?  
   *Parent says:* You are a living thing. So you must do all seven signs. Let's find the evidence, one sign at a time.  
   *Child mode:* You are alive. So you do all seven signs. Find evidence for each one in your own body.
 - **s2 (6 min)**  
@@ -536,12 +536,11 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* Which sign can't you do yet? Why is that fine?
   - Check: A child does six signs of life every day, but cannot make babies yet. Is the child alive? → **Yes. Living things do all seven over their whole life, not every day.**
 ### a6 · Who Eats What? Following food back to the Sun (15 min)
-- **safety:** No special safety needed.
 - **record:** A food chart with arrows from the Sun to plants to animals, and back to the soil.
 - **s1 (4 min)**  
-  *Parent does:* Draw the Sun at the top, and six living things: grass, a cow, a spider, a crow, a mushroom and your child.  
+  *Parent does:* Draw the Sun at the top, and six living things: grass, a cow, a grasshopper, a crow, a mushroom and your child.  
   *Parent says:* Every living thing needs food. But where does the food come from in the first place? Let's follow it back.  
-  *Child mode:* Draw the Sun. Then draw grass, a cow, a spider, a crow, a mushroom and you.
+  *Child mode:* Draw the Sun. Then draw grass, a cow, a grasshopper, a crow, a mushroom and you.
 - **s2 (6 min)**  
   *Parent does:* Your child draws an arrow from each food to the thing that eats it.  
   *Parent says:* The arrow goes from the food to the eater. What does the cow eat? What does a crow eat? Where does the grass get their food?  
@@ -558,7 +557,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 ### p1 · Life Diary: watch a moong plant do all seven signs (60 min, 10 days)
 - **safety:** A grown-up cuts the hole in the box. Wash hands after handling soil.
 - **record:** A diary page for each visit: a drawing, the height of the tallest plant, and which signs of life you saw. Finish with a seven-signs page with evidence for each sign.
-- **schedule:** day 1: Plant 3 seeds in each pot. Start the diary with a drawing and a guess. (10 min); day 3: Look for shoots. Measure the tallest. Which signs can you see? (5 min); day 4: A grown-up cuts a hole in one end of the shoebox. Put one pot inside, at the far end. Leave the other pot in the room. (10 min); day 7: Open the box. Compare the two pots. Measure both. Tie a bag over a few leaves of the room pot for 2 hours. (10 min); day 10: Measure again. Fill in the seven signs page. Move the strongest seedling into a bigger pot in a sunny spot, and keep watching for flowers and pods. (25 min)
+- **schedule:** day 1: Plant 3 seeds in each pot. Start the diary with a drawing and a guess. (10 min); day 3: Look for shoots. Measure the tallest. Which signs can you see? (5 min); day 4: A grown-up cuts a hole in one end of the shoebox. Put one pot inside, at the far end. Leave the other pot in the room. (10 min); day 7: Open the box. Compare the two pots. Measure both. (10 min); day 10: Measure again. Fill in the seven signs page. Move the strongest seedling into a bigger pot in a sunny spot, and keep watching for flowers and pods. (25 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. 4. Start the diary: draw the pots and write a guess.  
   *Parent says:* We will keep a life diary for 10 days. Our job is to catch the moong plant doing every sign of life.  
@@ -574,9 +573,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* A grown-up cuts a hole in the box. Put one pot inside. Point the hole at the window. Leave the other pot out.
   - Wait: Come back on day 4.
 - **s4 (10 min)**  
-  *Parent does:* On day 7, open the box. Compare the two pots. Measure both. Then tie a clear bag over a few leaves of the room pot for 2 hours.  
+  *Parent does:* On day 7, open the box. Compare the two pots. Measure both.  
   *Parent says:* Look at the box plants. Which way did they grow? How did they know where the light was?  
-  *Child mode:* Open the box. Which way did the shoots grow? Measure both pots. Tie a bag over some leaves.
+  *Child mode:* Open the box. Which way did the shoots grow? Measure both pots.
   - Note: The box seedlings may be long and pale. They used their stored food to stretch towards the light. A substance in the shoot, called auxin, gathers on the shaded side and makes those cells grow longer.
   - Check: In the life diary, the moong shoots in the shoebox bent towards the hole. Which signs of life does that show? → **Sensing and movement**
   - Wait: Come back on day 7.
@@ -589,7 +588,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   - Wait: Come back on day 10.
 
 ## Challenges
-### c1 · Design a Life Detector for Mars (35 min)
+### c1 · Design a Life Detector for Mars (57 min)
 - **problem:** A robot on Mars will scoop up some soil. Your job is to design tests that could tell whether anything in the soil is alive. Test your design on three mystery cups at home.
 - **your turn:** Now design your own life detector. Draw it, list its tests, and say what result would make you shout 'Life!'. What result would trick you?
 - **constraints:** You cannot see anything alive, even with a magnifying glass.; You can only use tests based on the seven signs of life.; A grown-up secretly prepares three mystery cups, each with 2 tablespoons of atta. A has half a teaspoon of dry yeast mixed in. B is plain atta. C has half a teaspoon of baking soda mixed in. Mix well, so the cups look the same.
@@ -600,12 +599,12 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Parent says:* We can't send a scientist to Mars. A robot has to do the tests. Which signs of life could a robot check?  
   *Child mode:* A robot on Mars scoops up soil. How could it tell if anything in the soil is alive? Which signs could it test?
   - Ask: Which signs could a robot test? (good: Give it food and see if it eats.; See if it gives out gas.; See if it grows.)
-- **s2 (15 min)**  
+- **s2 (30 min)**  
   *Parent does:* 1. Stir 3 tablespoons of warm sugar water with lemon into each mystery cup, to make a thick batter. 2. Watch straight away. 3. Then look every 10 minutes for 30 minutes. 4. Write what you see in each cup each time.  
   *Parent says:* Watch closely. Something might happen fast, or slowly. Write it all down.  
   *Child mode:* Stir sugar water into each cup. Watch at once. Then look every 10 minutes. Write what you see.
   - Note: Cup C fizzes at once, because baking soda reacts with lemon juice. It stops within a minute or two. Cup A starts slowly. After 10 to 20 minutes, small bubbles appear, and the batter keeps getting puffier. Cup B does nothing much. This shows how a non-living chemical reaction can trick a life detector.
-- **s3 (8 min) · grown-up needed**  
+- **s3 (15 min) · grown-up needed**  
   *Parent does:* A grown-up stirs a spoon of dry powder from A and from C into a little boiling water. Let them cool for 5 minutes, until just warm. Then stir in sugar water with lemon and watch.  
   *Parent says:* This is our control. Heat kills living things, but chemicals don't care. If the bubbles stop after heating, they were made by something alive.  
   *Child mode:* A grown-up mixes some of A and C with boiling water. Wait until it cools. Add sugar water. Do they still bubble?
@@ -641,7 +640,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   - Think: Is the Earth a bit like a jar world? What comes in from outside, and what goes round and round?
 
 ## Worksheets
-### Life Detective (core) (core, 16 questions)
+### Life Detective (core) (core, 15 questions)
 1. (match) Kavya, a girl in Class 3, spotted signs of life at home today. Match each sign to what she saw.  
    **Answer:** Nutrition → Her goldfish ate the flakes she dropped in; Respiration → Her body got energy from her breakfast idli, using oxygen; Excretion → She breathed out carbon dioxide and passed wee; Sensing → The crow at the window flew off when she clapped; Growth → Her school shoes from last year are now too small; Movement → The money plant's leaves turned towards the window; Reproduction → The neighbour's cat had three kittens. *Why:* Each sign of life is one job that living things do. Spotting them in everyday life shows you know what each word means.
 2. (fill) Getting energy out of food, inside every cell of the body, is called ____.  
@@ -649,37 +648,34 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 3. (mcq) Many people think breathing and respiration mean the same thing. Which sentence is right?  
    Options: They are two words for the same thing / Respiration happens only inside the lungs / Only animals respire / Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food  
    **Answer:** Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food. *Why:* Breathing brings in the oxygen that respiration uses. Respiration itself happens in every cell, even in plants, which have no lungs. A strong answer keeps the two words apart.
-4. (mcq) An auto rickshaw moves, takes in fuel and gives out smoke. Which sign of life does the auto NOT show?  
-   Options: Moving / Taking in fuel / Giving out waste smoke / Growing from inside and making young autos  
-   **Answer:** Growing from inside and making young autos. *Why:* An auto shows a few signs, but people build it and repair it. It never grows from inside and never makes a baby auto. So a few signs are not enough to be alive.
-5. (truefalse) A tulsi plant on the balcony shows movement, even though the plant never walks anywhere.  
+4. (truefalse) A tulsi plant on the balcony shows movement, even though the plant never walks anywhere.  
    **Answer:** True. *Why:* True. Plants move by growing. Their leaves turn to the light and their roots grow down. A touch-me-not plant can even fold their leaves in a second.
-6. (sort) Sort these into Alive, Once alive and Never alive.  
+5. (sort) Sort these into Alive, Once alive and Never alive.  
    **Answer:** an ant → Alive; a coconut shell → Once alive; a steel spoon → Never alive; a curry leaf plant → Alive; a cotton saree → Once alive; a glass bangle → Never alive; a woollen shawl → Once alive; a plastic bucket → Never alive. *Why:* Alive things do the signs of life now. Once-alive things were part of a living thing, like a shell from a coconut palm, cotton from a cotton plant or wool from a sheep. Never-alive things were never part of a living thing.
-7. (mcq) In the seed test, cup C had boiled seeds on wet cotton. What did cup C help you find out?  
+6. (mcq) In the seed test, cup C had boiled seeds on wet cotton. What did cup C help you find out?  
    Options: That boiling makes seeds grow faster / That water alone does not make a seed grow. The seed must be alive too / That cotton is alive / That seeds do not need water  
    **Answer:** That water alone does not make a seed grow. The seed must be alive too. *Why:* The boiled seeds got the same water as the soaked seeds, but never grew. So water was not the difference. Life was. A strong answer says what cup C was compared with: cup A.
-8. (mcq) In the balloon test, bottle B had yeast and warm water, but no sugar. Before you try it, predict what bottle B's balloon will do.  
+7. (mcq) In the balloon test, bottle B had yeast and warm water, but no sugar. Before you try it, predict what bottle B's balloon will do.  
    Options: Grow the most of all three / Burst / Grow only a little, because the yeast have almost no food / Get smaller  
    **Answer:** Grow only a little, because the yeast have almost no food. *Why:* Yeast are alive and need food to give out gas. Sugar is their food. Without sugar, they make very little gas. Picking 'grow the most' forgets that living things need food.
-9. (truefalse) A child grows taller because her body builds new cells out of the food she eats.  
+8. (truefalse) A child grows taller because the child's body builds new cells out of the food eaten.  
    **Answer:** True. *Why:* True. Living things grow from inside. Cells use food to build new cells, so the body gets bigger. A cloud or a crystal only gets bigger when more stuff is added to the outside.
-10. (fill) Breathing out carbon dioxide, sweating and passing wee all get rid of waste from inside the body. This sign of life is called ____.  
+9. (fill) Breathing out carbon dioxide, sweating and passing wee all get rid of waste from inside the body. This sign of life is called ____.  
    **Answer:** ['excretion']. *Why:* Excretion is getting rid of waste that the body made. Plants excrete too, through tiny holes in their leaves.
-11. (mcq) A dry neem leaf lies on the ground. Which is the best evidence that the leaf is no longer alive?  
+10. (mcq) A dry neem leaf lies on the ground. Which is the best evidence that the leaf is no longer alive?  
    Options: The leaf no longer takes in water or grows, and will never make anything new / The leaf is brown / The leaf is on the ground / The leaf is very light  
    **Answer:** The leaf no longer takes in water or grows, and will never make anything new. *Why:* Colour, place and weight do not tell you about life. What matters is what the leaf does. A dead leaf does none of the signs of life, so the leaf is once alive.
-12. (write) Ananya, a girl in Class 4, wants to explain to her little brother Ravi why a cloud is not alive, even though a cloud moves and grows. Write what she could say.  
-   **Answer:** Ananya could say: 'A cloud moves because the wind pushes it. A cloud grows because more water vapour in the air cools into drops. It does not eat, respire or make baby clouds of its own. Living things do all seven signs, not just one or two.'. *Why:* A strong answer explains why the cloud moves and grows, then names signs the cloud does not show.
-13. (write) Look at your seed test table. Which cup shows most clearly that a dry seed is alive? Write the cup, what happened in it, and why that shows the seed is alive.  
+11. (write) Ananya, a girl in Class 4, wants to explain to her little brother Ravi why a cloud is not alive, even though a cloud moves and grows. Write what she could say.  
+   **Answer:** Ananya could say: 'A cloud moves because the wind pushes it. A cloud grows because more water vapour in the air cools into drops. It does not eat, respire or make baby clouds. Living things do all seven signs, not just one or two.'. *Why:* A strong answer explains why the cloud moves and grows, then names signs the cloud does not show.
+12. (write) Look at your seed test table. Which cup shows most clearly that a dry seed is alive? Write the cup, what happened in it, and why that shows the seed is alive.  
    **Answer:** Cup B. The dry seeds did nothing for five days. When I put them on wet cotton, they swelled and sprouted within a day or two. Boiled seeds never sprout, so the dry seeds must have been alive all along.. *Why:* A strong answer names one cup, gives a real result from the table, and compares it with the boiled seeds or the beads.
-14. (draw) Draw yourself doing three of the seven signs of life. Label each sign.  
+13. (draw) Draw yourself doing three of the seven signs of life. Label each sign.  
    **Answer:** For example: eating a dosa, labelled nutrition. Jumping, labelled movement. Pulling a hand away from a hot tawa, labelled sensing.. *Why:* A strong drawing shows a real action for each sign and uses the right word for it.
-15. (order) A moong seed grows into a plant that makes new seeds. Put these in order, from first to last.  
+14. (order) A moong seed grows into a plant that makes new seeds. Put these in order, from first to last.  
    **Answer:** [0, 1, 2, 3, 4, 5]. *Why:* The seed wakes, grows a root, then a shoot and leaves. Later the plant flowers and makes pods with new seeds. Then the circle starts again.
-16. (perspective) Meera, a girl in Class 3, asks her family: 'Is curd alive?'  
+15. (perspective) Meera, a girl in Class 3, asks her family: 'Is curd alive?'  
    **Answer:** A strong answer uses a sign of life. For Amma: the bacteria in curd make more of themselves in warm milk, which is reproduction. For Paati: the living part is the bacteria, not the whole bowl. For Farhan: most of the curd really is changed milk. Answering back, a strong answer says what is true in another view.. *Why:* Each person sees something true. A strong answer gives evidence, like setting curd from milk, and is fair to another side.
-### Life on Trial (stretch) (stretch, 16 questions)
+### Life on Trial (stretch) (stretch, 15 questions)
 1. (mcq) A tulsi plant sits in a closed jar world, in the dark, for one whole night. What is the plant doing?  
    Options: Nothing at all until the morning / Making food from moonlight / Respiring: using sugar and oxygen for energy, and giving out carbon dioxide / Breathing with tiny lungs  
    **Answer:** Respiring: using sugar and oxygen for energy, and giving out carbon dioxide. *Why:* Plants respire all the time, day and night, like animals. In the dark they cannot make food, so they only respire. A strong answer names respiration and the gas given out.
@@ -689,36 +685,33 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 3. (mcq) Sneha, a girl in Class 4, counted 11 breaths in 15 seconds, just after skipping. How many breaths is that in one minute?  
    Options: 11 / 26 / 44 / 60  
    **Answer:** 44. *Why:* One minute is four lots of 15 seconds. So 11 times 4 is 44. Picking 11 forgets to multiply. Picking 60 mixes up seconds with breaths.
-4. (mcq) After jumping, most children breathe about twice as fast as when they sit still. Why?  
-   Options: Jumping squeezes the air out of their lungs / They are scared of falling / The air gets thinner when they move / Their muscles need more energy, so their cells respire faster and need more oxygen  
-   **Answer:** Their muscles need more energy, so their cells respire faster and need more oxygen. *Why:* Respiration gives muscles their energy, and it uses oxygen. Working muscles need more energy, so the body takes in air faster. The breath counter shows this in numbers.
-5. (sort) Sort these. Can only living things do this, or can non-living things do it too?  
+4. (sort) Sort these. Can only living things do this, or can non-living things do it too?  
    **Answer:** moving → Non-living things can do this too; getting bigger → Non-living things can do this too; using energy → Non-living things can do this too; growing from inside, using food → Only living things do this; making young of their own kind → Only living things do this; being made of cells → Only living things do this; changing shape → Non-living things can do this too; respiring → Only living things do this. *Why:* A cloud gets bigger, a car uses energy and a river moves. But only living things grow from inside, respire, are made of cells and make young of their own kind. That is why one sign is never enough.
-6. (match) Every living thing makes young of their own kind, but in different ways. Match each one to how they make young.  
+5. (match) Every living thing makes young of their own kind, but in different ways. Match each one to how they make young.  
    **Answer:** A crow → eggs laid in a nest; A goat → kids born alive from the mother; A neem tree → seeds inside fruit; Yeast → small buds that grow and break off; A mushroom → tiny spores carried by the air. *Why:* There are many ways to make young, but the young are always the same kind of living thing as the parent.
-7. (truefalse) A mule almost never has young. Even so, a mule is fully alive.  
+6. (truefalse) A mule almost never has young. Even so, a mule is fully alive.  
    **Answer:** True. *Why:* True. A mule's body feeds, respires, grows, moves, senses and gets rid of waste. Making young is a sign for a kind of living thing, not for every single one.
-8. (fill) In the bag-on-a-branch activity, drops of ____ formed inside the bag on the living branch, but not inside the bag on the dead twig.  
-   **Answer:** ['water']. *Why:* The living plant pulled water up from the soil and let it out through tiny holes in the leaves. The dead twig did nothing. A strong answer can say what the dead twig was compared with.
-9. (write) Revathi, a girl in Class 5, sets up the balloon test. Bottle A gets warm water and one spoon of yeast. Bottle C gets cold water and three spoons of yeast. Why can't she tell whether the cold made bottle C slow? What should she change?  
+7. (write) Revathi, a girl in Class 5, sets up the balloon test. Bottle A gets warm water and one spoon of yeast. Bottle C gets cold water and three spoons of yeast. Why can't she tell whether the cold made bottle C slow? What should she change?  
    **Answer:** She changed two things at once: the water and the amount of yeast. So she cannot tell which one made the difference. She should put the same amount of yeast and sugar in both, and change only the water.. *Why:* A strong answer names both changes and says a fair test changes only one thing.
-10. (write) In the shoebox test, the moong shoots bent towards the hole. Which two signs of life does this show? Explain how you know.  
-   **Answer:** Sensing and movement. The shoots sensed where the light came from. Then they moved by growing, bending towards the hole. The shoots in the open room grew straight up.. *Why:* A strong answer names both signs and links each to what the shoots did, ideally comparing them with the pot outside the box.
-11. (write) Follow the energy in your breakfast idli back to the Sun. Write each step in order.  
+8. (write) Follow the energy in your breakfast idli back to the Sun. Write each step in order.  
    **Answer:** The Sun shone on rice and urad dal plants. The plants used sunlight to make sugar and starch, and stored this food in their grains. The grains were ground into batter and steamed into idli. I ate the idli, and my cells respire to get the energy out.. *Why:* A strong answer has every step, from sunlight to the plant's stored food to your cells, with no gap.
-12. (perspective) In 2014, scientists dropped touch-me-not plants a short, harmless distance again and again. After a while, the plants stopped folding their leaves when dropped. Weeks later, they still did not fold when dropped. But they did fold when shaken in a new way.  
+9. (perspective) In 2014, scientists dropped touch-me-not plants a short, harmless distance again and again. After a while, the plants stopped folding their leaves when dropped. Weeks later, they still did not fold when dropped. But they did fold when shaken in a new way.  
    **Answer:** A strong answer uses the evidence. The plants still folded when shaken in a new way, so they were not just tired. That supports Gagliano. Answering back, it admits that one test is not enough, and that scientists still argue about the words.. *Why:* This is a real argument among scientists. There is no single right answer. A strong answer uses the shaking result.
-13. (draw) Draw the four cups of the seed test as they looked on day 6. Under each cup, write one word: alive, dead or never alive.  
-   **Answer:** Cup A: sprouted seeds, 'alive'. Cup B: seeds just starting to sprout after their water, 'alive'. Cup C: boiled seeds, unchanged, 'dead'. Cup D: beads, unchanged, 'never alive'.. *Why:* A strong drawing tells cups B, C and D apart. Cup B is alive even though the seeds started late.
-14. (mcq) A crow's feather has fallen onto the balcony. Which of these is true?  
+10. (mcq) A crow's feather has fallen onto the balcony. Which of these is true?  
    Options: The feather is still alive / The feather was never alive / The feather comes alive when wet / The feather is once alive. The feather was part of a living crow, but no longer grows  
    **Answer:** The feather is once alive. The feather was part of a living crow, but no longer grows. *Why:* A feather grew on a living bird, so the feather is once alive. On the balcony, the feather does none of the signs of life. The crow, flying off somewhere, is still alive.
-15. (truefalse) A flower picked from a plant is still alive for a while.  
+11. (truefalse) A flower picked from a plant is still alive for a while.  
    **Answer:** True. *Why:* True. A freshly picked flower still takes in water and respires for a few days. Then the flower slowly dies, because they can no longer get food and water from the plant.
-16. (mcq) A girl turns a sprouting moong seed upside down, so the root points up. Predict what the root will do over the next day.  
+12. (mcq) A girl turns a sprouting moong seed upside down, so the root points up. Predict what the root will do over the next day.  
    Options: Keep growing upwards / Stop growing for ever / Bend round and grow downwards again / Fall off the seed  
    **Answer:** Bend round and grow downwards again. *Why:* Roots sense gravity and grow down, wherever the seed is facing. This is sensing and movement at the same time.
-### Where Is the Line? (challenge) (challenge, 16 questions)
+13. (fill) A green plant makes sugar as food, using sunlight, air and ____.  
+   **Answer:** ['water']. *Why:* Plants take in water through their roots, carbon dioxide from the air and energy from sunlight, and make sugar. The soil gives water and minerals, not food.
+14. (truefalse) Yeast is a kind of fungus. It is not a plant and not an animal.  
+   **Answer:** True. *Why:* True. Yeast is a fungus made of one cell. Like mushrooms, yeast cannot make food from sunlight, so yeast feeds on sugar.
+15. (write) A friend says: 'A candle flame is alive. It moves, grows bigger, uses up wax as food and gives out smoke.' Which signs does the flame seem to show? Which signs does it never show?  
+   **Answer:** The flame seems to move, to grow, to feed on wax and to give out smoke. But it does not sense, does not respire inside cells, and never makes young of its own kind. It is a chemical change that stops when the wax or air runs out.. *Why:* A strong answer names the signs the flame seems to show, then the ones it lacks, and says one or two signs are not enough.
+### Where Is the Line? (challenge) (challenge, 15 questions)
 1. (perspective) Where is the line between living and non-living? Three views.  
    **Answer:** A strong answer uses the seven signs as evidence and is fair. For the biologists: a wire never feeds or grows. For Bose: the wire and the plant really did tire in the same way. For the Jain view: it reminds us that where we draw the line is partly a choice.. *Why:* There is no single right answer. A strong answer weighs at least two views with evidence.
 2. (perspective) Your body keeps replacing many of its cells. Your red blood cells last only about four months. Lakshmi, aged 10, her brother Vikram, aged 8, and their grandmother talk about it.  
@@ -732,36 +725,34 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 5. (mcq) All living things on Earth, from bacteria to banyan trees to you, use the same kind of instructions, called DNA. What do most scientists think this shows?  
    Options: People put DNA into living things / Only animals have DNA / All life on Earth is related, from one shared ancestor long ago / All living things are the same size  
    **Answer:** All life on Earth is related, from one shared ancestor long ago. *Why:* Sharing one code is strong evidence that all living things are one big family. Plants, fungi and bacteria have DNA too.
-6. (truefalse) A single bacterium, made of just one cell, feeds, respires, gets rid of waste and makes more of themselves, all on their own.  
+6. (truefalse) A single bacterium, made of just one cell, feeds, respires, gets rid of waste and makes more bacteria, all by themselves.  
    **Answer:** True. *Why:* True. One cell can be a whole living being. The bacteria in curd each do all the life processes, and they make more of themselves by splitting in two.
 7. (sort) In the life detector challenge, a grown-up made three mystery cups of atta. Sort each result: does it point to something living, or could ordinary chemistry do it?  
    **Answer:** fizzes at once, then stops within two minutes → Ordinary chemistry could do this; starts slowly, then keeps getting puffier for 30 minutes → Points to something living; still fizzes after the powder was boiled and cooled → Ordinary chemistry could do this; stops bubbling after the powder was boiled and cooled → Points to something living. *Why:* Living things start slowly and keep going, because they feed and multiply. Boiling kills them. A chemical reaction is fast, stops when used up, and still works after boiling.
-8. (write) In the life detector challenge, the baking soda cup fizzed as soon as the sugar water with lemon went in. Why could that cup trick a robot life detector? Which extra test caught the trick?  
-   **Answer:** Baking soda and lemon juice make gas by a chemical reaction, with nothing alive in them. A detector that only looks for gas would think it found life. The trick was caught by boiling the powder first: the baking soda still fizzed, but the yeast cup stopped.. *Why:* A strong answer explains the reaction is not life, and names the boiling test as the control.
-9. (write) Moss on a dry wall looks brown and dead in April. After the first rain, the moss turns green again. Is the dry moss alive? Use the seed test to back up your answer.  
+8. (write) Moss on a dry wall looks brown and dead in April. After the first rain, the moss turns green again. Is the dry moss alive? Use the seed test to back up your answer.  
    **Answer:** The dry moss is alive, but resting, like the dry seeds in cup B. The dry seeds did nothing until they got water, then they sprouted. Boiled seeds never did. The moss also wakes up with water, so the moss was dormant, not dead.. *Why:* A strong answer compares the moss with the dry seeds and says why 'dead' cannot be right: dead things never wake.
-10. (mcq) Nandini, a girl in Class 5, says: 'Plants get their food from the soil. That is why they need soil.' What is the mistake?  
+9. (mcq) Nandini, a girl in Class 5, says: 'Plants get their food from the soil. That is why they need soil.' What is the mistake?  
    Options: Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy / Plants eat insects from the soil / Plants do not need any food / There is no mistake  
    **Answer:** Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy. *Why:* This is one of the most common ideas, even among grown-ups. In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot for five years. The tree gained a lot of weight, but the soil lost almost none.
-11. (truefalse) Scientists have made a whole living cell from scratch, starting only with non-living chemicals.  
-   **Answer:** False. *Why:* False. Scientists have built a full set of DNA and put it into a bacterium, where it worked. But nobody has yet built a whole living cell from non-living chemicals.
-12. (mcq) What would happen to the animals in a forest if the Sun stopped shining for a whole year?  
+10. (truefalse) Scientists have made a whole living cell from scratch, starting only with non-living chemicals.  
+   **Answer:** False. *Why:* False. Scientists have built a full set of DNA and put it into a bacterium, where the DNA worked. But nobody has yet built a whole living cell from non-living chemicals.
+11. (mcq) What would happen to the animals in a forest if the Sun stopped shining for a whole year?  
    Options: Nothing, because animals do not need the Sun / Only the plants would be affected / The plants could not make food, so plant-eaters and then meat-eaters would starve / The animals would eat soil instead  
    **Answer:** The plants could not make food, so plant-eaters and then meat-eaters would starve. *Why:* Almost all the energy in food starts as sunlight caught by plants. Every food chain in the forest leads back to the plants, and the plants lead back to the Sun.
-13. (order) Follow one carbon atom on a journey. Put the steps in order.  
+12. (order) Follow one carbon atom on a journey. Put the steps in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* The same atoms move between air, plants and animals, again and again. Living and non-living things share the same atoms.
-14. (draw) Draw your jar world with the lid shut. Use blue arrows for water and red arrows for the gases the plant takes in and gives out.  
-   **Answer:** Blue arrows from the soil up into the plant, out of the leaves, onto the glass as drops, and down into the soil. Red arrows: the plant takes in carbon dioxide and gives out oxygen in the light, and takes in oxygen and gives out carbon dioxide all the time.. *Why:* A strong drawing shows that nothing leaves the jar. Water and gases go round and round.
-15. (write) Make your own definition of life in one sentence. Then test it on a cloud, a dry seed and a mule. Does your definition put each one in the right place? If not, fix it.  
+13. (write) Make your own definition of life in one sentence. Then test it on a cloud, a dry seed and a mule. Does your definition put each one in the right place? If not, fix it.  
    **Answer:** For example: 'A living thing feeds, grows and makes young.' The cloud is out, which is right. But the mule never has young, and the dry seed does not feed for now. So I change it to: 'A living thing is made of cells and, at some time in their life, feeds, grows and comes from parents.'. *Why:* A strong answer tests the definition honestly, finds where it fails, and improves it. Scientists do exactly this.
-16. (mcq) In 1897, Eduard Buchner, a German scientist, crushed yeast and squeezed out the juice. The juice had no living cells, but it still turned sugar into gas. What did this show?  
+14. (mcq) In 1897, Eduard Buchner, a German scientist, crushed yeast and squeezed out the juice. The juice had no living cells, but it still turned sugar into gas. What did this show?  
    Options: The juice was still alive / The chemistry inside living cells can work outside them too. There is no special 'life force' in the chemicals / Yeast was never alive / Sugar is alive  
    **Answer:** The chemistry inside living cells can work outside them too. There is no special 'life force' in the chemicals. *Why:* Before this, many scientists thought only a living cell, with a special life force, could do this chemistry. Buchner showed the chemicals could do it alone. What is special about life is how it all works together.
+15. (truefalse) Without a living cell to live in, a virus can still make new viruses.  
+   **Answer:** False. *Why:* False. A virus makes new viruses only inside a living cell. That is one reason scientists still argue about whether viruses are alive.
 
 ## Videos
-- **Characteristics of Life** (Amoeba Sisters, 7 min) id `cQPVXrV0GNA`: For the parent and older children: a clear, friendly cartoon of what scientists count as signs of life, with good examples. *Check:* Found by YouTube search: "Characteristics of Life" by Amoeba Sisters. Title checked automatically; a parent may still preview it.
-- **Touch-me-not (Mimosa pudica) leaves folding when touched** (Akshay Marathe, 2 min) id `nPf3FbR6eQE`: Shows the touch-me-not's quick response close up, if you cannot find a real plant for the shy plant activity. *Check:* Found by YouTube search: "Touch-me-not plant/sensitive plant (mimosa pudica) leaves in action | लाजाळूचे झाड" by Akshay Marathe. Title checked automatically; a parent may still preview it.
-- **What Is Life? Is Death Real?** (Kurzgesagt, In a Nutshell, 10 min) id `QOCaacO8wus`: For the parent: a beautifully animated look at why the line between living and non-living is so hard to draw. Watch first, then share parts with older children. *Check:* Found by YouTube search: "What Is Life? Is Death Real?" by Kurzgesagt – In a Nutshell. Title checked automatically; a parent may still preview it.
+- **Characteristics of Life** (Amoeba Sisters, 7 min) id `cQPVXrV0GNA`: For the parent and older children: a clear, friendly cartoon of what scientists count as signs of life, with good examples. *Check:* A parent should watch it first.
+- **Touch-me-not (Mimosa pudica) leaves folding when touched** (Akshay Marathe, 2 min) id `nPf3FbR6eQE`: Shows the touch-me-not's quick response close up, if you cannot find a real plant for the shy plant activity. *Check:* A parent should watch it first.
+- **What Is Life? Is Death Real?** (Kurzgesagt, In a Nutshell, 10 min) id `QOCaacO8wus`: For the parent: a beautifully animated look at why the line between living and non-living is so hard to draw. Watch first, then share parts with older children. *Check:* A parent should watch it first.
 
 ## Quiz
 1. (mcq) A dog hears her name, pricks up her ears and runs to the door. Which two signs of life is she showing?  
@@ -830,9 +821,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **How did the very first living thing come from non-living chemicals?** It happened about 4,000 million years ago and left no clear traces. Scientists test ideas in labs, but nobody has made life from plain chemicals yet.
 - **Is there life anywhere else in the universe?** We have only ever found life on Earth. Scientists are searching on Mars and planning missions to icy moons like Europa and Enceladus, which have hidden oceans.
 - **Is there a sharp line between living and non-living, or a gentle slope?** Most things are easy to sort, but some, like viruses and dormant seeds, are not. Scientists do not agree on one definition of life.
-- **What is it like for a plant to feel a touch?** Plants feel. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows how to measure what the touch is like for the plant.
-- **How does a plant remember, with no brain?** Plants remember: the dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way.
-- **Could people one day build a living cell from scratch?** Scientists have built a full set of instructions, DNA, and put it into a bacterium, where it worked. But building a whole living cell from non-living parts has not been done.
+- **What is it like for a plant to feel a touch?** Plants sense touch and respond to it. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows whether the touch is felt at all, or how to measure that.
+- **How does a plant remember, with no brain?** The dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way.
+- **Could people one day build a living cell from scratch?** Scientists have built a full set of instructions, DNA, and put it into a bacterium, where the DNA worked. But building a whole living cell from non-living parts has not been done.
 - **Why does all life on Earth use the same code?** It points to one shared ancestor. But why this code, and not another, is still not understood.
 
 ## Questions to ask kids
@@ -840,7 +831,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - Is the dal on your plate alive, once alive or never alive?
 - That tree has been standing still all day. How do you know they are alive?
 - What does the fridge do to the tiny living things in our food?
-- If our car could do one more sign of life, which would be the strangest?
+- If a car could do one more sign of life, which would be the strangest?
 - Is the wind alive? How do you know?
 - When you are asleep, which signs of life are you still doing?
 - Where did the water you just drank come from before the tap?
@@ -849,26 +840,15 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - Is a flower in a vase still alive? For how long?
 
 ## Jokes
-- Why did the seed refuse to wake up? *They were dormant, and nobody had given them a drink.*
-- What did the yeast say to the sugar? *You give me so much energy!*
-- Why was the car sad at the life trial? *It had no growth on its record.*
-- What is a cloud's favourite sign of life? *None. It just drifts through the test.*
 - Why did the touch-me-not plant blush? *Somebody touched them without asking.*
-- Why did the moong seed go to school? *They wanted to grow up.*
 - What do you call a plant that keeps leaning to the window? *A light-house plant.*
 - Why didn't the stone win the growing competition? *It had been the same size for a million years.*
 - What did the balloon say to the yeast? *You really blow me away.*
 - Why did the mushroom get invited to every party? *Because he was a fun-gi.*
 - Why did the leaf go to the doctor? *It was feeling a little green.*
-- What did the dry seed say after a drink of water? *I'm sprouting with joy.*
-- Why did the robot fail the life test? *It couldn't grow up, no matter how hard it tried.*
 - What is a tree's favourite drink? *Root beer.*
-- Why did the bread go mouldy? *Something alive found it first.*
 - What do you call a sleeping seed? *A bean bag.*
-- Why did the seed bring a water bottle to the life test? *They needed a drink before they could show their signs.*
 - Why did the river say it wasn't alive? *It was just going with the flow.*
-- What did MRS GREN say to her class? *Seven signs, and no excuses.*
-- Why did the sunflower get a stiff neck? *They watched the Sun all day.*
 - Why did the soap bubble fail the reproduction test? *It popped before it could make a baby bubble.*
 
 ## Connected maths
@@ -893,7 +873,7 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 - [BBC Bitesize, primary science](https://www.bbc.co.uk/bitesize) · interactive: Free short videos and quizzes on living things and life processes, for children.
 
 ## Things to buy
-- [Magnifying glass (hand lens), 3 to 5 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at roots, leaves, ants and mould. Used in e2, a2. Used again in the Cells and Plants units.
+- [Magnifying glass (hand lens), 3 to 5 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at roots, leaves, ants and mould. Used in e2, a2. 
 - [Dry active or instant yeast, a small packet](https://www.amazon.in/s?k=instant+dry+yeast) (material): The living thing in the balloon test and the Mars life detector challenge. Many grocery shops sell small packets of baking yeast. Used in e1, c1. 
 - [A pack of small balloons](https://www.amazon.in/s?k=balloons+small+pack) (material): To catch the gas that yeast gives out in the balloon test. Used in e1. 
 - [Touch-me-not (Mimosa pudica) seeds or a small plant](https://www.amazon.in/s?k=mimosa+pudica+touch+me+not+seeds) (material): For the shy plant activity, if you cannot find one growing wild. Soak the seeds in warm water overnight first. They sprout in one to three weeks. Used in a3. Seedlings take about a month to grow big enough to test, so a small plant from a nursery is quicker. Or look for wild plants by roadsides and railway lines.

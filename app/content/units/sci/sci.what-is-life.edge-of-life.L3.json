@@ -39,7 +39,7 @@
    "term": "Once-living thing",
    "meaning": "Something that was part of a living thing, but is not alive any more.",
    "example": "A wooden table, a cotton shirt and a dry leaf were once parts of living things.",
-   "art": "A wooden table with a faint tree drawn behind it, a cotton shirt with a cotton plant behind it."
+   "art": "A wooden table with a faint tree drawn behind the table, a cotton shirt with a cotton plant behind the shirt."
   },
   {
    "term": "Signs of life",
@@ -537,7 +537,7 @@
    "\"What are you looking at?\" he asked.",
    "\"Everything,\" I said. \"I am trying to work out which of it is only asleep.\""
   ],
-  "epiphany": "For the parent: drying out is not the same as dying. Some tiny animals, like rotifers and water bears, and seeds too, can lose nearly all their water. Their life processes almost stop, so they show no signs of life at all. When water comes back, they wake. Scientists call this dormancy, and in its deepest form 'cryptobiosis', which means hidden life. Some scientists think of it as a third state, between alive and dead. The story also quietly asks who gets the credit for careful work.",
+  "epiphany": "For the parent: drying out is not the same as dying. Some tiny animals, like rotifers and water bears, and seeds too, can lose nearly all their water. Their life processes almost stop, so they show no signs of life at all. When water comes back, they wake. Scientists call this dormancy, and in its deepest form 'cryptobiosis', which means hidden life. Some scientists think of it as a third state, between alive and dead.",
   "ask": [
    "Maria called the dust 'dead dirt'. Why did she think so? What did her father think?",
    "What did the water do to the brown lumps?",
@@ -558,7 +558,7 @@
    "id": "g1",
    "title": "Alive, Not Alive, or Argue It!",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "context": "This is a card game about tricky cases. Each card describes something puzzling. Players decide if it is alive, not alive, or something scientists still argue about, and give a reason.",
    "printables": [
     {
@@ -583,7 +583,7 @@
       "A computer program that copies itself and changes a little each time.",
       "A hen's egg from the shop. It has no chick inside, and never will.",
       "A lotus seed found in a dry lake bed, about 1,300 years old.",
-      "A tree stump, cut last year, with a green shoot growing from their side.",
+      "A tree stump, cut last year, with a green shoot growing from the side.",
       "A xenobot: a tiny blob built by scientists from frog cells. They swim."
      ]
     },
@@ -615,6 +615,35 @@
      "kind": "tokens",
      "title": "30 reason tokens (small paper circles)",
      "items": [
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
       "🔍"
      ]
     }
@@ -624,9 +653,9 @@
     "Lay the 9 sign cards face up where everyone can see them.",
     "On your turn, take the top mystery card and read it out loud.",
     "Choose a mat: ALIVE, NOT ALIVE or ARGUE IT. Put the card on it.",
-    "Give your reason. Point to at least one sign card that helped you decide. A good reason wins one token.",
+    "Give your reason. Point to at least one sign card that helped you decide. A good reason wins one token. If the tokens run out, keep score on paper.",
     "Anyone who disagrees can argue back with a different sign card. A good argument also wins a token.",
-    "When the cards run out, the player with the most tokens wins. Then look at the ARGUE IT mat together."
+    "When the cards run out, the player with the most tokens wins. If two players tie, they both win. Then look at the ARGUE IT mat together."
    ],
    "setup": [
     {
@@ -656,7 +685,7 @@
      "mins": 3,
      "do": "Find the candle flame card. Play it together as a practice round.",
      "say": "Let's practise. 'A candle flame. I eat wax, I need air, I grow and I make new flames.' Which signs does it have? Which sign cards does it not have?",
-     "kid": "Practice card: a candle flame. Which signs does it have? Which is it missing? Tap your answer.",
+     "kid": "Practice card: a candle flame. Which signs does it have? Which is it missing? Say your answer out loud.",
      "ask": [
       {
        "q": "Which sign cards does the flame have?",
@@ -694,7 +723,7 @@
      "do": "Take turns drawing cards. Each player places a card and gives a reason. Hand out a token for every good reason or good argument.",
      "say": "Your turn. Read the card. Choose a mat. Point to a sign card and tell us why. If you disagree with someone, argue back with another sign card.",
      "kid": "Take a card. Read it. Choose a mat. Point to a sign card and say why. You can argue back if you disagree.",
-     "parent": "Good reasons name a sign. For example: 'The seed is alive, because they are made of cells and they will grow when they get water.' Expected places: the virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Your hair is another: the hair you see is dead cells, pushed out by living cells at the root. Accept any well-argued answer.",
+     "parent": "Good reasons name a sign. For example: 'The seed is alive, because a seed is made of cells and grows when water arrives.' Expected places: the virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Your hair is another: the hair you see is dead cells, pushed out by living cells at the root. Accept any well-argued answer.",
      "ask": [
       {
        "q": "The mule can't have babies. Are they still alive?",
@@ -740,7 +769,7 @@
    "title": "The Sign Collectors",
    "mins": 20,
    "players": "2 to 4 players, or one child with the app",
-   "context": "This is a collecting game. Each player is a tricky case, like fire or a robot. Players try to collect all nine signs of life. Nothing but a truly living thing can collect them all.",
+   "context": "This is a collecting game. Each player is a tricky case, like fire or a robot. Players try to collect the nine signs of life, but can only tick a sign their character can honestly do.",
    "printables": [
     {
      "kind": "cards",
@@ -750,7 +779,7 @@
       "Salt crystal",
       "Toy robot",
       "Dry moong seed",
-      "Water bear in a tun",
+      "Water bear, dried into a ball (a tun)",
       "Virus",
       "Mule",
       "Cloud"
@@ -761,13 +790,40 @@
      "title": "36 sign cards (4 of each sign)",
      "items": [
       "Moves",
+      "Moves",
+      "Moves",
+      "Moves",
+      "Gets energy from food",
+      "Gets energy from food",
+      "Gets energy from food",
       "Gets energy from food",
       "Senses",
+      "Senses",
+      "Senses",
+      "Senses",
+      "Grows",
+      "Grows",
+      "Grows",
       "Grows",
       "Makes young",
+      "Makes young",
+      "Makes young",
+      "Makes young",
+      "Gets rid of waste",
+      "Gets rid of waste",
+      "Gets rid of waste",
       "Gets rid of waste",
       "Takes in food",
+      "Takes in food",
+      "Takes in food",
+      "Takes in food",
       "Made of cells",
+      "Made of cells",
+      "Made of cells",
+      "Made of cells",
+      "Passes on instructions",
+      "Passes on instructions",
+      "Passes on instructions",
       "Passes on instructions"
      ]
     },
@@ -792,7 +848,7 @@
     "Shuffle the sign cards and put them face down.",
     "On your turn, draw a sign card and read it.",
     "Ask: can my character honestly do this? If the others agree, tick that box on your sheet.",
-    "If not, put the card on the 'can't do it' pile and say why.",
+    "If not, or if that box is already ticked, put the card on the 'can't do it' pile and say why.",
     "After 6 rounds each, everyone counts their ticks.",
     "The winner is the character with the most ticks. Then everyone checks: did anyone tick 'Made of cells' and 'Passes on instructions'?"
    ],
@@ -825,7 +881,7 @@
      "do": "Take turns. Draw a sign card, read it, and decide together whether the character can do it.",
      "say": "Draw a sign. Can your character really do it? Tell us how. If the rest of us agree, tick it.",
      "kid": "Draw a sign card. Can your character do it? Say how. If everyone agrees, tick it.",
-     "parent": "Expect fire to collect moving, energy, growing, waste and food, and maybe 'makes young' (sparks). Robots get moving and sensing. Crystals get growing. The mule gets everything except 'makes young'. The dry seed and the tun get 'made of cells' and 'passes on instructions', but little else while dry. The virus gets 'passes on instructions' and perhaps 'makes young', only inside a cell. Let the children argue it out.",
+     "parent": "Expect fire to collect moving, energy, growing, waste and food, and maybe 'makes young' (sparks). Robots get moving and sensing. Crystals get growing. The mule gets everything except 'makes young'. The dry seed and the dried water bear get 'made of cells' and 'passes on instructions', but little else while dry. The virus gets 'passes on instructions' and perhaps 'makes young', only inside a cell. Let the children argue it out.",
      "check": {
       "t": "mcq",
       "q": "The Candle flame player draws 'Made of cells'. Can they tick it?",
@@ -1526,10 +1582,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw a long line. Write 'clearly alive' at one end and 'clearly not alive' at the other. Place these on it: a tree, a dry seed, a tun, a virus, a candle flame, a robot, a stone. Next to the two hardest ones, write why you put them there.",
-     "a": "For example: tree and dry seed near 'alive', tun close by, virus in the middle, flame and robot near 'not alive', stone at the end. The virus and the tun are often the hardest.",
-     "why": "There is no single right drawing. A strong answer gives a reason for each hard case, using the signs of life each case shows and lacks.",
-     "how": "a6"
+     "p": "Draw a dry karamani seed cut open. Label the baby plant, the food store and the tough coat. Then write which part wakes up first when water arrives, and what it does.",
+     "a": "The drawing shows a tough coat, a curled baby plant and a food store. The baby plant wakes first: the cells take in water, use the stored food and send out a root.",
+     "why": "A strong answer labels all three parts and explains that the seed is alive but resting, not dead. It uses the idea of dormancy from the sleeping seeds experiment."
     }
    ]
   }
@@ -1538,9 +1593,9 @@
   {
    "id": "e1",
    "title": "Sleeping Seeds: is a dry seed alive?",
-   "mins": 30,
-   "days": 5,
-   "question": "Is a dry seed alive, even though they do nothing? What do they need to wake up?",
+   "mins": 37,
+   "days": 6,
+   "question": "Are dry seeds alive, even though they do nothing? What do they need to wake up?",
    "predict": "Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Draw your guess for each plate, and say why you think so.",
    "fair_test": "To make it fair, keep everything the same except one thing. Use the same plates, the same cotton and the same place. The wet seeds and the wet pebbles test whether water alone makes things grow. The wet seeds and the dry seeds test whether seeds need water. Use 6 seeds, because one seed can be a dud.",
    "results_table": [
@@ -1586,7 +1641,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 13,
      "what": "Guess what will happen. Set up the three plates. Draw them."
     },
     {
@@ -1601,13 +1656,18 @@
     },
     {
      "day": 4,
-     "mins": 3,
+     "mins": 4,
      "what": "Check, draw and measure. Water plates 1 and 2."
     },
     {
      "day": 5,
-     "mins": 4,
-     "what": "Last check. Finish the table. Say what you think, what you saw and why."
+     "mins": 7,
+     "what": "Last check of the three plates. Finish the table. Then add water to plate 3, the dry seeds."
+    },
+    {
+     "day": 6,
+     "mins": 5,
+     "what": "Look at plate 3. Say what you think, what you saw and why."
     }
    ],
    "record": "Fill in the table each day. Draw the three plates side by side each day. On the last day, draw a line chart of the longest root on plate 1, one point for each day.",
@@ -1711,13 +1771,13 @@
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "On the last day, add water to plate 3, the dry seeds. Talk about what will happen next.",
+     "mins": 3,
+     "do": "On day 5, after the last check, add water to plate 3, the dry seeds. Look at it again tomorrow.",
      "say": "Plate 3 has been dry all this time. Were those seeds dead, or still waiting? Let's give them water and see.",
-     "kid": "Plate 3 was dry all week. Are its seeds dead or waiting? Give them water. Check tomorrow.",
+     "kid": "Plate 3 was dry all week. Are its seeds dead or waiting? Give them water. Look again tomorrow.",
      "check": {
       "t": "mcq",
-      "q": "The dry seeds did nothing all week. Then you gave them water, and next day they swelled up. What does this show?",
+      "q": "The dry seeds did nothing all week. Then you gave them water, and the next day they swelled up. What does this show?",
       "options": [
        "They were dead and water brought them back to life",
        "They were alive all along, resting until water came",
@@ -1730,18 +1790,18 @@
     },
     {
      "id": "s6",
-     "mins": 4,
-     "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why.",
+     "mins": 5,
+     "do": "On day 6, look at plate 3 again. Ask your child to say or write three short sentences: what I think, what I saw, and why.",
      "say": "Now tell me what you found. What do you think now about dry seeds? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a dry seed is alive, only resting. What I saw: the seeds on wet cotton grew roots 40 mm long by day 5, but the pebbles on wet cotton did not change. Why: the seed has a baby plant inside that wakes up when the seed gets water."
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a dry seed is alive, only resting. What I saw: for example, the seeds on wet cotton grew roots about 40 mm long by day 5, but the pebbles on wet cotton did not change, and the dry seeds swelled once they got water. Why: the seed has a baby plant inside that wakes up when the seed gets water."
     }
    ]
   },
   {
    "id": "e2",
    "title": "The Balloon Test: is dried yeast alive?",
-   "mins": 35,
+   "mins": 50,
    "days": 1,
    "question": "Dried yeast looks like sand. Is the yeast alive?",
    "predict": "Guess which bottle will blow up its balloon: yeast with warm sugar water, yeast with cold sugar water, or warm sugar water with no yeast. Why do you think so?",
@@ -1760,6 +1820,11 @@
      "buy": "b-yeast"
     },
     {
+     "item": "a hand lens",
+     "qty": 1,
+     "buy": "b-lens"
+    },
+    {
      "item": "sugar",
      "qty": "6 teaspoons"
     },
@@ -1773,8 +1838,8 @@
      "buy": "b-balloons"
     },
     {
-     "item": "warm water (bath-warm) and cold water from the fridge",
-     "qty": "1 cup each"
+     "item": "warm water (bath-warm, 1 cup) and cold water from the fridge (half a cup)",
+     "qty": 1
     },
     {
      "item": "a funnel or a rolled paper cone",
@@ -1790,7 +1855,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 50,
      "what": "Set up three bottles. Watch the balloons for 30 minutes. Measure them. Explain what happened."
     }
    ],
@@ -1855,7 +1920,7 @@
     },
     {
      "id": "s3",
-     "mins": 15,
+     "mins": 30,
      "do": "Watch the bottles for 30 minutes. Check at 10 minutes and at 30 minutes. Look for bubbles and froth.",
      "say": "Let's look at the bottles. Do you see bubbles? Froth? Is any balloon standing up? Living things take in food and give off waste. What could the gas be?",
      "kid": "Look at the bottles. Do you see bubbles? Is a balloon filling up? Check again in a while.",
@@ -1870,7 +1935,7 @@
      "kid": "Wrap the string round each balloon. Measure the string with the ruler. Write it down.",
      "check": {
       "t": "mcq",
-      "q": "Only the yeast bottles made gas. What does this tell us about dried yeast?",
+      "q": "The bottle with warm water and yeast made the most gas, and the bottle with no yeast made none. What does this tell us about dried yeast?",
       "options": [
        "The grains are just sand",
        "Yeast cells are alive: they were resting, and in warm sugar water they ate sugar and gave off gas",
@@ -1895,7 +1960,7 @@
   {
    "id": "e3",
    "title": "The Crystal Garden: it grows, but is it alive?",
-   "mins": 30,
+   "mins": 39,
    "days": 7,
    "question": "Salt crystals grow. Does that make them alive?",
    "predict": "Guess what will happen to a thread hanging in very salty water, and to one in plain water. Will anything grow? If it does, will it be alive? Say why you think so.",
@@ -1942,23 +2007,23 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 11,
      "what": "Make the salty water and the plain water. Hang the threads. Put salty drops on a dark plate. Guess what will happen."
     },
     {
      "day": 3,
-     "mins": 5,
-     "what": "Look at both threads with the hand lens. Draw them."
+     "mins": 6,
+     "what": "Look at both threads and the dark plate with the hand lens. Draw them. Measure the biggest crystal."
     },
     {
      "day": 5,
-     "mins": 5,
+     "mins": 6,
      "what": "Look again. Measure the biggest crystal. Draw."
     },
     {
      "day": 7,
-     "mins": 5,
-     "what": "Last look. Compare with the sleeping seeds. Put the crystal on trial with the signs of life."
+     "mins": 16,
+     "what": "Last look and measure. Put the crystal on trial with the signs of life, next to the moong seedlings or your drawings of them. Say what you think, what you saw and why."
     }
    ],
    "record": "Draw the thread each time you look. Write the size of the biggest crystal.",
@@ -2007,7 +2072,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, if you did it. Go through the signs of life one by one.",
+     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your drawings of them. Go through the signs of life one by one.",
      "say": "Let's put our crystal on trial. Does it move? Eat? Get energy from food? Sense? Make young? Get rid of waste? Is it made of cells? Now the seedling. What is the difference in how they grew?",
      "kid": "Put your crystal on trial. Go through each sign. Then try the seedling. How did each one grow?",
      "check": {
@@ -2030,7 +2095,7 @@
      "do": "Ask for claim, evidence and reasoning.",
      "say": "What do you think now: is the crystal alive? What did you see? Why do you think so?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: the crystal is not alive. What I saw: it grew to about 5 mm, but only salt built up on the outside, and it did nothing else. The plain water thread stayed bare. Why: the salt came out of the water as the water evaporated. The crystal has no cells and takes in no food."
+     "parent": "A good answer: What I think: the crystal is not alive. What I saw: small crystals grew on the thread (they may be only a few millimetres), but only salt built up on the outside, and it did nothing else. The plain water thread stayed bare. Why: the salt came out of the water as the water evaporated. The crystal has no cells and takes in no food."
     }
    ]
   }
@@ -2055,7 +2120,7 @@
      "qty": 3
     }
    ],
-   "safety": "Nothing on the tray is eaten. Watch small children with pebbles and seeds.",
+   "safety": "Keep pebbles and seeds away from children under 5.",
    "schedule": [
     {
      "day": 1,
@@ -2104,7 +2169,7 @@
      "do": "Lay the three labels on the floor. Your child sorts each thing onto one label.",
      "say": "Put each thing on a label: alive, not alive, or once alive. Once alive means it was part of a living thing, but is not alive now. Put a question mark on any you are not sure about.",
      "kid": "Sort each thing. Alive, not alive, or once alive. Once alive means it used to be part of something living. Mark the hard ones with a question mark.",
-     "parent": "Do not correct anything yet. Most children put the seed with the pebble, and many put the candle near 'alive' because it can burn. Both are perfect puzzles for this unit. Bread is made from wheat, which was alive, and it holds yeast that was alive."
+     "parent": "Do not correct anything yet. Most children put the seed with the pebble, and many put the candle near 'alive' because it can burn. Both are perfect puzzles for this unit. Bread is made from wheat, which was alive, and from dough that rose with yeast, which was alive until the bread was baked."
     },
     {
      "id": "s3",
@@ -2278,7 +2343,6 @@
      "buy": "b-clip"
     }
    ],
-   "safety": "A grown-up goes with you to collect moss. Take only a thumb-sized clump. Wash hands afterwards. Never touch your eyes while handling moss.",
    "schedule": [
     {
      "day": 1,
@@ -2334,7 +2398,7 @@
      "kid": "Did anything move in the water? Yesterday the moss was dry. Were those animals dead, or waiting?",
      "check": {
       "t": "mcq",
-      "q": "Tiny animals swim in the water from dry moss. Where did they come from?",
+      "q": "Imagine tiny animals swim in the water from dry moss. Where did they come from?",
       "options": [
        "The water made them out of nothing",
        "They were in the dry moss all along, resting, and woke up in the water",
@@ -2370,7 +2434,6 @@
      "qty": 1
     }
    ],
-   "safety": "Clear a space so nobody trips.",
    "schedule": [
     {
      "day": 1,
@@ -2467,7 +2530,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not open battery boxes. Be gentle with pets.",
+   "safety": "Do not open the battery box.",
    "schedule": [
     {
      "day": 1,
@@ -2496,7 +2559,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Switch the toy on. Go through each sign of life for the toy, then for the plant or pet.",
-     "say": "Does the toy move? Sense? Grow? Eat? Get rid of waste? Make young? Is it made of cells? Now let's try the tulsi plant.",
+     "say": "Does the toy move? Sense? Grow? Eat? Get rid of waste? Make young? Is it made of cells? Now let's try the plant or the pet.",
      "kid": "Switch on the toy. Does it move, sense, grow, eat or make babies? Now test the plant.",
      "context": "This is the start of the robot trial. You test a moving toy against the signs of life."
     },
@@ -2544,11 +2607,10 @@
      "qty": 2
     },
     {
-     "item": "12 small paper cards: a stone, a crystal, fire, a robot, a cloud, a virus, a dry seed, a water bear in a tun, a bacterium, a mule, a tree and you",
+     "item": "12 small paper cards: a stone, a crystal, fire, a robot, a cloud, a virus, a dry seed, a dried-up water bear, a bacterium, a mule, a tree and you",
      "qty": 12
     }
    ],
-   "safety": "Lay the string flat so nobody trips.",
    "schedule": [
     {
      "day": 1,
@@ -2631,7 +2693,6 @@
      "qty": 1
     }
    ],
-   "safety": "Candles stay unlit in the museum.",
    "schedule": [
     {
      "day": 1,
@@ -2874,7 +2935,7 @@
    "youtube": "QOCaacO8wus",
    "mins": 9,
    "why": "For the parent and curious older children. A beautifully animated look at why life is hard to define, with viruses and other edge cases.",
-   "check": "Title and channel checked on YouTube (oEmbed), October 2026. A parent may still preview it."
+   "check": "A parent may like to preview it first."
   },
   {
    "title": "Tardigrades: Chubby, Misunderstood, & Not Immortal",
@@ -2882,7 +2943,7 @@
    "youtube": "kux1j1ccsgg",
    "mins": 8,
    "why": "So children can see real water bears walking, before or after the water bear hunt.",
-   "check": "Title and channel checked on YouTube (oEmbed), October 2026. A parent may still preview it."
+   "check": "A parent may like to preview it first."
   },
   {
    "title": "What's a Virus? Science For Kids",
@@ -2890,7 +2951,7 @@
    "youtube": "0sYXv3jWpHg",
    "mins": 5,
    "why": "To show, with animation, what the virus act-out shows: a virus getting into a cell, and the cell making copies.",
-   "check": "Title and channel checked on YouTube (oEmbed), October 2026. Length not checked. A parent may still preview it."
+   "check": "A parent may like to preview it first."
   }
  ],
  "quiz": [
@@ -2983,19 +3044,6 @@
   },
   {
    "t": "mcq",
-   "p": "Why do scientists still argue about whether viruses are alive?",
-   "opts": [
-    "Nobody has ever seen a virus",
-    "Viruses carry instructions and evolve, but do nothing at all outside a living cell",
-    "Viruses are bigger than animals",
-    "Viruses are made of salt"
-   ],
-   "a": 1,
-   "why": "Viruses have some signs of life and lack others. That is why they sit right on the edge. Scientists have seen them, using electron microscopes.",
-   "outcome": 3
-  },
-  {
-   "t": "mcq",
    "p": "A talking toy says hello when you clap and flaps its paper wings. Which is the best reason the talking toy is not alive?",
    "opts": [
     "It has no cells, takes in no food, does not grow and cannot make young",
@@ -3006,20 +3054,6 @@
    "a": 0,
    "why": "The toy senses a clap and moves, but those are only two signs. A real bird does all the signs of life together.",
    "outcome": 4
-  },
-  {
-   "t": "mcq",
-   "p": "Tanvi, a girl in Class 4, wants to test whether dry chana from the kitchen is alive. She puts chana on wet cotton. What should she put on a second plate to make her test fair?",
-   "opts": [
-    "Beads or pebbles of the same size on wet cotton, to see if water alone changes anything",
-    "More chana on a plate with no cotton",
-    "Nothing, one plate is enough",
-    "Chana fried in oil"
-   ],
-   "a": 0,
-   "why": "The second plate is the comparison. Both plates get the same water. If only the chana grows, the chana's own life made the difference, just like the pebble plate in the sleeping seeds experiment.",
-   "outcome": 5,
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -3036,19 +3070,6 @@
    "how": "e2"
   },
   {
-   "t": "mcq",
-   "p": "Why is it so hard to draw one sharp line between alive and not alive?",
-   "opts": [
-    "Some cases, like viruses and tuns, show some signs of life but not others",
-    "Scientists have never tried to draw it",
-    "Living things keep changing colour",
-    "Every case is easy once you look closely"
-   ],
-   "a": 0,
-   "why": "Most things are clearly on one side: trees are alive and stones are not. The hard part is the edge, where viruses and dormant things sit.",
-   "outcome": 6
-  },
-  {
    "t": "truefalse",
    "p": "Scientists have made some of the building blocks of life from gases in a lab, but nobody yet knows how the first living thing began.",
    "a": true,
@@ -3062,7 +3083,7 @@
   "Doctors and scientists make vaccines by studying how viruses get into cells.",
   "Scientists who study water bears hope to learn how to store medicines and vaccines dry, without a fridge.",
   "NASA and other space agencies design robots and tests to search for signs of life on Mars and other worlds.",
-  "Food is kept in the fridge because cold slows down the bacteria and fungi that spoil it.",
+  "Food is kept in the fridge because cold slows down the bacteria and fungi that spoil food.",
   "Dried fruits and papad last long because, without water, germs cannot grow well. Pickles last because of salt, oil and sourness.",
   "Fire fighters use the 'fire needs fuel, air and heat' idea. Take away one, and the fire dies.",
   "Viruses that attack only bacteria, called phages, are being tested as medicines against infections.",
@@ -3112,7 +3133,7 @@
    "why_open": "It happened about 4 billion years ago and left no clear traces. Experiments have made some building blocks, but no one has made life from scratch."
   },
   {
-   "q": "Is a dried water bear alive while they are dry, or is it in a third state?",
+   "q": "Is a dried water bear alive while they are dry, or are they in a third state?",
    "why_open": "Their life processes are so slow they are very hard to measure. Scientists argue about whether anything at all is happening inside."
   },
   {
@@ -3154,10 +3175,6 @@
    "a": "I'm not alive, but I'm still the life of the party."
   },
   {
-   "j": "Why don't viruses ever get invited to parties?",
-   "a": "They can't do anything on their own, and then they make copies of themselves everywhere."
-  },
-  {
    "j": "What do you call a water bear who has been asleep for 30 years?",
    "a": "Well rested."
   },
@@ -3166,44 +3183,16 @@
    "a": "It grows by stacking, not snacking."
   },
   {
-   "j": "What did the robot say to the tulsi plant?",
-   "a": "You may not move, but you've got more ticks than me."
-  },
-  {
-   "j": "Why was the fire so hungry?",
-   "a": "It was on a wax diet."
-  },
-  {
-   "j": "How do you wake up a sleeping seed?",
-   "a": "Give them a gentle splash."
-  },
-  {
-   "j": "What is a water bear's favourite season?",
-   "a": "The monsoon, of course. They finally get to wake up."
-  },
-  {
    "j": "Why did the yeast blow up the balloon?",
    "a": "They were a little gassy after all that sugar."
-  },
-  {
-   "j": "Why did the mule stop worrying about the alive club?",
-   "a": "Someone told them: you need cells, not kids."
   },
   {
    "j": "Knock knock. Who's there? Dormant. Dormant who?",
    "a": "Dormant wake me till it rains."
   },
   {
-   "j": "Why did the crystal go to school?",
-   "a": "To grow on the outside and learn on the inside."
-  },
-  {
    "j": "What did the virus say to the cell?",
    "a": "Can you make a few copies of this for me? Thousands, please."
-  },
-  {
-   "j": "Why was the tardigrade so calm in space?",
-   "a": "They had already packed themselves into a tun."
   },
   {
    "j": "Why didn't the flame pass the life test?",
@@ -3216,30 +3205,6 @@
   {
    "j": "Why did the robot go to the doctor?",
    "a": "It had a virus. A computer one."
-  },
-  {
-   "j": "Which is the laziest living thing in the kitchen?",
-   "a": "The karamani. They have been resting in that jar for months."
-  },
-  {
-   "j": "Why did the scientist put the seed on trial?",
-   "a": "They were accused of only pretending to be dead."
-  },
-  {
-   "j": "What do you call a crystal that tells jokes?",
-   "a": "A salty comedian."
-  },
-  {
-   "j": "Why did the cloud think it was alive?",
-   "a": "It kept growing and having little clouds."
-  },
-  {
-   "j": "What did Maria say to the gutter dust?",
-   "a": "Don't play dead with me."
-  },
-  {
-   "j": "Why is a seed bank so quiet?",
-   "a": "Everything in it is asleep."
   }
  ],
  "maths": [
@@ -3331,7 +3296,7 @@
    "why_maths": "Counting the signs a thing shows and lacks helps us compare tricky cases fairly, instead of guessing."
   },
   {
-   "problem": "In the crystal garden, the biggest crystal was 2 mm on day 3, 4 mm on day 5 and 6 mm on day 7. If it keeps growing the same way, how big will it be on day 9?",
+   "problem": "In a crystal garden, the biggest crystal was 2 mm on day 3, 4 mm on day 5 and 6 mm on day 7. If it keeps growing the same way, how big will it be on day 9?",
    "answer": "8 mm.",
    "explain": "Every two days, the crystal grew 2 mm: 2, then 4, then 6. The pattern adds 2 each time. So on day 9 it will be 6 + 2 = 8 mm. In real life the crystal will stop when the water dries up or the salt runs out.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -3397,13 +3362,6 @@
    "kind": "place",
    "where": "Mumbai",
    "why": "A science centre with many hands-on exhibits, including some about the human body and living things."
-  },
-  {
-   "title": "An old wall, a tree trunk or a roof with moss near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Water bears live in moss almost everywhere. Look after the monsoon, when moss is green and soft, and again in the dry season, when moss is crisp."
   }
  ],
  "buy": [
@@ -3415,10 +3373,9 @@
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
-    "e3",
-    "a1"
-   ],
-   "plan": "Used again in Cells L3 and in many plant and animal units."
+    "e2",
+    "e3"
+   ]
   },
   {
    "id": "b-clip",
@@ -3428,8 +3385,7 @@
    "url": "https://www.amazon.in/s?k=clip+on+mobile+microscope+lens",
    "used_in": [
     "a3"
-   ],
-   "plan": "Used again in Cells L3 and Microbes L4."
+   ]
   },
   {
    "id": "b-ruler",
@@ -3451,8 +3407,7 @@
    "url": "https://www.amazon.in/s?k=active+dry+yeast",
    "used_in": [
     "e2"
-   ],
-   "plan": "Leftover yeast can make bread or pav with a grown-up."
+   ]
   },
   {
    "id": "b-balloons",
@@ -3464,30 +3419,6 @@
     "e2",
     "c1"
    ]
-  },
-  {
-   "id": "b-seedbook",
-   "item": "A Seed Is Sleepy, by Dianna Hutts Aston, illustrated by Sylvia Long",
-   "kind": "book",
-   "why": "A beautiful picture book about how seeds rest and wake, full of real seeds.",
-   "url": "https://www.amazon.in/s?k=A+Seed+Is+Sleepy+Dianna+Hutts+Aston",
-   "used_in": [
-    "e1",
-    "c2"
-   ],
-   "plan": "Read it on day 1 of the sleeping seeds experiment, while waiting for the roots."
-  },
-  {
-   "id": "b-microbebook",
-   "item": "Tiny Creatures: The World of Microbes, by Nicola Davies, illustrated by Emily Sutton",
-   "kind": "book",
-   "why": "A gentle picture book about living things too small to see, and how fast they multiply.",
-   "url": "https://www.amazon.in/s?k=Tiny+Creatures+Nicola+Davies",
-   "used_in": [
-    "a3",
-    "a4"
-   ],
-   "plan": "Read it before the virus drama, and talk about the difference between microbes and viruses."
   }
  ],
  "warmup": [
@@ -3571,7 +3502,6 @@
   ],
   "core": [
    "a1",
-   "a2",
    "e3",
    "e1",
    "g1",
@@ -3582,7 +3512,7 @@
   ],
   "spine": [
    "intro",
-   "a2",
+   "e1",
    "e3",
    "explanations",
    "roots",

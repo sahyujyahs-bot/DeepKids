@@ -329,7 +329,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   *Parent says:* Remember, a good reason wins a token. Can anyone give a better reason?  
   *Child mode:* Take a card. Put it on a mat. Say why. A good reason wins a 💧 token.
   - Ask: Why can't we just boil the water from the well with arsenic? (good: Boiling kills germs but does not take out arsenic.; The arsenic is dissolved. It stays in the pot.)
-  - Note: Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Old water sits in a hose and a fish tank, and germs grow in it. Boiling does not remove salt, arsenic, fluoride or factory chemicals.
+  - Note: Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Old water sits in a hose and a fish tank, and germs grow in the old water. Boiling does not remove salt, arsenic, fluoride or factory chemicals.
 - **s4 (3 min)**  
   *Parent does:* Count the tokens. Then look at the NEVER mat together.  
   *Parent says:* Look at the NEVER pile. Which of these waters looked clear? Why can't boiling save them?  
@@ -491,7 +491,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 ### a2 · Rain Gauge and Sky Diary (40 min, 7 days)
 - **safety:** Only a grown-up cuts the bottle. Do not go out to read the gauge in a thunderstorm.
 - **record:** Every day at the same time, write the date, the rain in millimetres, and draw the sky. At the end of the week, add up the total and draw a line chart.
-- **schedule:** day 1: Make the rain gauge and place it outside. Start the sky diary. (15 min); day 2: Read the gauge at the same time. Draw the sky. (4 min); day 3: Read the gauge. Draw the sky. (4 min); day 4: Read the gauge. Draw the sky. (4 min); day 5: Read the gauge. Draw the sky. (4 min); day 7: Read the gauge for the last time. Add up the rain and draw a line chart. (5 min); day 7: Read the gauge. Add up the week's rain and draw a line chart. (5 min)
+- **schedule:** day 1: Make the rain gauge and place it outside. Start the sky diary. (15 min); day 2: Read the gauge at the same time. Draw the sky. (4 min); day 3: Read the gauge. Draw the sky. (4 min); day 4: Read the gauge. Draw the sky. (4 min); day 5: Read the gauge. Draw the sky. (4 min); day 6: Read the gauge. Draw the sky. (4 min); day 7: Read the gauge for the last time. Add up the rain and draw a line chart. (5 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top third off the bottle. 2. Put pebbles in the bottom, and pour in water until it covers them. Mark that line as 0. 3. Tape the ruler on the side, with its 0 at the line. 4. Turn the top upside down and push it into the bottle as a funnel.  
   *Parent says:* Rain falls evenly, so this bottle catches the same depth of rain as the ground around it. We'll measure it in millimetres.  
@@ -674,7 +674,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   - Think: If the courtyard is dirty when the rain comes, what happens to the drinking water for the whole year?
 
 ## Worksheets
-### Water Detective (core) (core, 13 questions)
+### Water Detective (core) (core, 15 questions)
 1. (mcq) Where does almost all the fresh water we use begin?  
    Options: In the tap / As rain / In the overhead tank / In the sea  
    **Answer:** As rain. *Why:* Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we cannot drink it without removing the salt.
@@ -706,7 +706,11 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Any two sensible ideas. For example: put a bucket under the drainpipe to water the plants, or leave a patch of soil unpaved so rain can soak in.. *Why:* Catching rain from roofs, and leaving soil open so rain soaks in, both save water. A strong answer says how each idea would work.
 13. (draw) Draw a well and the ground around it. Show where the groundwater is, and how it gets into the well.  
    **Answer:** The drawing shows water filling the gaps in soil or rock below the ground, with arrows showing it seeping into the well from the sides and the bottom.. *Why:* Well water seeps in from the groundwater all around. Very little falls straight in as rain.
-### Water in Real Life (stretch) (stretch, 12 questions)
+14. (write) Rain runs off a road into a drain. Where do you think the water goes next? What is lost when rain goes this way instead of soaking in?  
+   **Answer:** The drain carries it to a stream, a river or the sea. The rain does not soak in, so it does not refill the groundwater, and wells and borewells get less.. *Why:* A strong answer follows the water on from the drain, and says that rain which runs off cannot refill the groundwater.
+15. (truefalse) Rain that soaks into the ground can end up in a well far away from where it fell.  
+   **Answer:** True. *Why:* True. Groundwater moves very slowly through the gaps in soil and rock, sometimes for years, so the rain that fills a well may have fallen a long way off.
+### Water in Real Life (stretch) (stretch, 15 questions)
 1. (mcq) Look at the chart from the Cool Matka Test. Which container kept the water coolest?  
    Options: The steel bottle / The bottle in a wet cloth / The clay matka  
    **Answer:** The clay matka. *Why:* The matka's bar is the shortest, at 24 °C. On this chart a shorter bar means cooler water. Picking the steel bottle usually means reading the tallest bar as the best.
@@ -736,7 +740,13 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Not by itself. The ring shows that the tap water has some dissolved minerals, such as calcium. Small amounts of these are normal and harmless. The ring tells you something is dissolved, but not what it is or whether it is harmful. Only a proper test can tell that.. *Why:* A strong answer separates 'something is dissolved' from 'something harmful is dissolved'. Almost all water has some minerals in it.
 12. (write) Choose one job that uses lots of water in your home. Write two ways your family could use less for that job.  
    **Answer:** For example, bathing: use a bucket instead of a shower, and turn off the tap while soaping. Any two real ideas are good.. *Why:* Small daily changes in the biggest water jobs save the most water. A strong answer picks a big job, not drinking.
-### Water Puzzles and Big Ideas (challenge) (challenge, 11 questions)
+13. (sort) Which of these help a village well stay full, and which make it go dry?  
+   **Answer:** a johad holding rain on a slope → Helps the well stay full; paving every courtyard with cement → Makes the well go dry; pumping faster than rain refills the ground → Makes the well go dry; cleaning and deepening the village pond → Helps the well stay full; planting trees on the hill above the village → Helps the well stay full; a borewell running day and night for one field → Makes the well go dry. *Why:* Anything that lets more rain soak in helps the well. Anything that stops rain soaking in, or takes water out faster than it comes back, makes the well go dry.
+14. (fill) A bucket bath uses one 15-litre bucket. A family of 4 each take a bucket bath. Together they use ____ litres.  
+   **Answer:** ['60', 'sixty']. *Why:* 4 lots of 15 litres is 4 × 15 = 60 litres.
+15. (truefalse) In the same storm, a bigger roof catches more rain than a smaller roof.  
+   **Answer:** True. *Why:* True. Each square metre of roof catches 1 litre for every millimetre of rain, so more square metres catch more litres.
+### Water Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?  
    Options: The well was dug too deep / Rain ran off the bare hills before it could soak in and refill the groundwater / Trees drink all the rain, so cutting them should have helped  
    **Answer:** Rain ran off the bare hills before it could soak in and refill the groundwater. *Why:* Forest floors slow rain down and let it soak in. Bare, hard ground makes it run away. So less water refilled the ground. Trees do use water, but forests help far more rain soak in than they use.
@@ -762,6 +772,14 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Trains carried water from Jolarpettai, more than 200 kilometres away. *Why:* Special trains carried millions of litres of water to Chennai every day. Sea water cannot be drunk until the salt is removed, which needs special plants and lots of electricity.
 11. (truefalse) Many people say India is short of water mainly because it does not rain enough. Is that true?  
    **Answer:** False. *Why:* False. India gets a lot of rain, but mostly in a few months. In many places more groundwater is pumped out than rain puts back, and rain on hard ground runs away to the sea. Saving and soaking in rain matters as much as how much falls.
+12. (write) A village builds a johad on a slope above its dry well. Explain, step by step, how the johad could make the well fill again.  
+   **Answer:** The johad holds the monsoon rain in a pool instead of letting it run away. The water has time to soak into the ground. It joins the groundwater, which moves slowly through the gaps in the soil and rock, and it refills the well.. *Why:* A strong answer follows the rain from the johad into the ground and on to the well, and says that slowing the water is what lets it soak in.
+13. (truefalse) Digging a well deeper always gives more water.  
+   **Answer:** False. *Why:* False. A deeper well only helps if there is groundwater down there. If people pump faster than rain refills the ground, the water level keeps falling, and the deeper well just chases it.
+14. (write) A village has one handpump with clear water. A test finds arsenic in it, and the village has no other water close by. What would you advise them to do?  
+   **Answer:** Stop drinking the handpump water. Boiling will not help. Use another tested source, a rainwater tank, a tanker, or a filter made to remove arsenic, and test the water again.. *Why:* A strong answer knows that boiling does not remove arsenic, and gives a real way to get safe water, such as a tested source, stored rain or a special filter.
+15. (draw) Draw one street in the monsoon two ways: all cement, and with soil, trees and a pond. Use arrows to show where the rain goes in each.  
+   **Answer:** The cement street shows arrows running off into drains and flooding. The street with soil, trees and a pond shows arrows soaking into the ground and into the pond.. *Why:* Hard ground sends rain away all at once. Soil, trees and ponds let rain soak in and refill the groundwater.
 
 ## Videos
 - **How Does Water Get to Your House?** (SciShow Kids, 4 min) id `cGi4PugN4qY`: A clear, child-friendly walk from a river or a well, through a treatment plant and pipes, to the tap. It matches Follow the Pipe. *Check:* It shows an American town, so talk about how your own home's water differs.

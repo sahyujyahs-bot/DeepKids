@@ -949,7 +949,7 @@
        ]
       }
      ],
-     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Old water sits in a hose and a fish tank, and germs grow in it. Boiling does not remove salt, arsenic, fluoride or factory chemicals."
+     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Old water sits in a hose and a fish tank, and germs grow in the old water. Boiling does not remove salt, arsenic, fluoride or factory chemicals."
     },
     {
      "id": "s4",
@@ -1151,6 +1151,19 @@
      "a": "The drawing shows water filling the gaps in soil or rock below the ground, with arrows showing it seeping into the well from the sides and the bottom.",
      "why": "Well water seeps in from the groundwater all around. Very little falls straight in as rain.",
      "art": "An empty cut-away outline of the ground with a well shape drawn in it."
+    },
+    {
+     "t": "write",
+     "p": "Rain runs off a road into a drain. Where do you think the water goes next? What is lost when rain goes this way instead of soaking in?",
+     "lines": 3,
+     "a": "The drain carries it to a stream, a river or the sea. The rain does not soak in, so it does not refill the groundwater, and wells and borewells get less.",
+     "why": "A strong answer follows the water on from the drain, and says that rain which runs off cannot refill the groundwater."
+    },
+    {
+     "t": "truefalse",
+     "p": "Rain that soaks into the ground can end up in a well far away from where it fell.",
+     "a": true,
+     "why": "True. Groundwater moves very slowly through the gaps in soil and rock, sometimes for years, so the rain that fills a well may have fallen a long way off."
     }
    ]
   },
@@ -1404,6 +1417,57 @@
      "lines": 3,
      "a": "For example, bathing: use a bucket instead of a shower, and turn off the tap while soaping. Any two real ideas are good.",
      "why": "Small daily changes in the biggest water jobs save the most water. A strong answer picks a big job, not drinking."
+    },
+    {
+     "t": "sort",
+     "p": "Which of these help a village well stay full, and which make it go dry?",
+     "cats": [
+      "Helps the well stay full",
+      "Makes the well go dry"
+     ],
+     "items": [
+      [
+       "a johad holding rain on a slope",
+       "Helps the well stay full"
+      ],
+      [
+       "paving every courtyard with cement",
+       "Makes the well go dry"
+      ],
+      [
+       "pumping faster than rain refills the ground",
+       "Makes the well go dry"
+      ],
+      [
+       "cleaning and deepening the village pond",
+       "Helps the well stay full"
+      ],
+      [
+       "planting trees on the hill above the village",
+       "Helps the well stay full"
+      ],
+      [
+       "a borewell running day and night for one field",
+       "Makes the well go dry"
+      ]
+     ],
+     "a": "see items",
+     "why": "Anything that lets more rain soak in helps the well. Anything that stops rain soaking in, or takes water out faster than it comes back, makes the well go dry."
+    },
+    {
+     "t": "fill",
+     "p": "A bucket bath uses one 15-litre bucket. A family of 4 each take a bucket bath. Together they use ____ litres.",
+     "a": [
+      "60",
+      "sixty"
+     ],
+     "why": "4 lots of 15 litres is 4 × 15 = 60 litres."
+    },
+    {
+     "t": "truefalse",
+     "p": "In the same storm, a bigger roof catches more rain than a smaller roof.",
+     "a": true,
+     "why": "True. Each square metre of roof catches 1 litre for every millimetre of rain, so more square metres catch more litres."
     }
    ]
   },
@@ -1548,6 +1612,33 @@
      "p": "Many people say India is short of water mainly because it does not rain enough. Is that true?",
      "a": false,
      "why": "False. India gets a lot of rain, but mostly in a few months. In many places more groundwater is pumped out than rain puts back, and rain on hard ground runs away to the sea. Saving and soaking in rain matters as much as how much falls."
+    },
+    {
+     "t": "write",
+     "p": "A village builds a johad on a slope above its dry well. Explain, step by step, how the johad could make the well fill again.",
+     "lines": 4,
+     "a": "The johad holds the monsoon rain in a pool instead of letting it run away. The water has time to soak into the ground. It joins the groundwater, which moves slowly through the gaps in the soil and rock, and it refills the well.",
+     "why": "A strong answer follows the rain from the johad into the ground and on to the well, and says that slowing the water is what lets it soak in."
+    },
+    {
+     "t": "truefalse",
+     "p": "Digging a well deeper always gives more water.",
+     "a": false,
+     "why": "False. A deeper well only helps if there is groundwater down there. If people pump faster than rain refills the ground, the water level keeps falling, and the deeper well just chases it."
+    },
+    {
+     "t": "write",
+     "p": "A village has one handpump with clear water. A test finds arsenic in it, and the village has no other water close by. What would you advise them to do?",
+     "lines": 4,
+     "a": "Stop drinking the handpump water. Boiling will not help. Use another tested source, a rainwater tank, a tanker, or a filter made to remove arsenic, and test the water again.",
+     "why": "A strong answer knows that boiling does not remove arsenic, and gives a real way to get safe water, such as a tested source, stored rain or a special filter."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one street in the monsoon two ways: all cement, and with soil, trees and a pond. Use arrows to show where the rain goes in each.",
+     "a": "The cement street shows arrows running off into drains and flooding. The street with soil, trees and a pond shows arrows soaking into the ground and into the pond.",
+     "why": "Hard ground sends rain away all at once. Soil, trees and ponds let rain soak in and refill the groundwater.",
+     "art": "Two empty street outlines side by side, one for cement and one for soil, trees and a pond."
     }
    ]
   }
@@ -2387,14 +2478,14 @@
      "what": "Read the gauge. Draw the sky."
     },
     {
-     "day": 7,
-     "mins": 5,
-     "what": "Read the gauge for the last time. Add up the rain and draw a line chart."
+     "day": 6,
+     "mins": 4,
+     "what": "Read the gauge. Draw the sky."
     },
     {
      "day": 7,
      "mins": 5,
-     "what": "Read the gauge. Add up the week's rain and draw a line chart."
+     "what": "Read the gauge for the last time. Add up the rain and draw a line chart."
     }
    ],
    "record": "Every day at the same time, write the date, the rain in millimetres, and draw the sky. At the end of the week, add up the total and draw a line chart.",

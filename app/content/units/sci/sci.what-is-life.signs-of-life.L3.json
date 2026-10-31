@@ -38,7 +38,7 @@
    "term": "Once alive",
    "meaning": "Something that was part of a living thing, but is not alive now.",
    "example": "A wooden chair was once a tree. A cotton shirt was once part of a cotton plant. A fallen dry leaf was once alive.",
-   "art": "A wooden chair with a faint outline of the tree it came from behind it."
+   "art": "A wooden chair with a faint outline of the tree the chair came from behind the chair."
   },
   {
    "term": "Life process",
@@ -212,7 +212,7 @@
    "concept": "Sensing: noticing and responding",
    "status": "defined",
    "definition": "Sensing is when a living thing notices something around them, like light, touch, sound or heat, and responds to it.",
-   "description": "Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. The trap snaps shut only when an insect touches the trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Plants and bacteria feel, remember and decide in their own way. A root chooses where to grow, and a bacterium decides to swim towards food. Many scientists would call these automatic responses instead.",
+   "description": "Living things notice what is around them, and they respond. You see, hear, smell, taste and touch. When a ball flies at you, you duck. Plants sense too. They sense light, so their shoots grow towards it. They sense which way is down, so roots grow down even in the dark. They sense touch, so a climbing bean curls round a stick. A Venus flytrap plant even counts. The trap snaps shut only when an insect touches the trigger hairs twice in a short time. Even bacteria, with only one cell, swim towards food. Every cell can sense and respond. Some thinkers say plants and bacteria feel, remember and decide in their own way, so a root chooses where to grow and a bacterium decides to swim towards food. Many scientists call these automatic responses instead.",
    "examples": [
     "You blink when dust flies near your eye.",
     "A moong root turns to grow downwards, even if you plant the seed upside down.",
@@ -268,7 +268,7 @@
    "concept": "Why living things must keep eating: energy and order",
    "status": "defined",
    "definition": "Living things need a steady flow of energy, mostly from the Sun, to keep their bodies working and in order.",
-   "description": "A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores it in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.",
+   "description": "A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores the energy in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.",
    "examples": [
     "You feel warm because respiration in your body gives off heat all the time.",
     "A plant kept in a dark cupboard for weeks uses up their stored food and goes pale and weak.",
@@ -282,7 +282,7 @@
    "concept": "Living, once alive and never alive: one world",
    "status": "defined",
    "definition": "Living things are alive now. Once-alive things came from living things. Never-alive things were never part of a living thing.",
-   "description": "We can sort things into three groups. Living things are alive now. Once-alive things were part of something alive, like wood, cotton, leather, paper, a fallen leaf or a cooked dal. Never-alive things were never part of a living thing, like stone, steel, glass and water. But the groups are not walled off. The atoms in your body were once in air, water and soil. The carbon in your dal was in the air a year or two ago, before a plant caught it. When a leaf falls and rots, its atoms go back to the soil and air, ready for the next living thing. Everything around us, living and non-living, makes one environment together. Plants need sunlight, water and soil. And living things make soil, change the air and even build rock, like coral reefs.",
+   "description": "We can sort things into three groups. Living things are alive now. Once-alive things were part of something alive, like wood, cotton, leather, paper, a fallen leaf or a cooked dal. Never-alive things were never part of a living thing, like stone, steel, glass and water. But the groups are not walled off. The atoms in your body were once in air, water and soil. The carbon in your dal was in the air a year or two ago, before a plant caught the carbon. When a leaf falls and rots, its atoms go back to the soil and air, ready for the next living thing. Everything around us, living and non-living, makes one environment together. Plants need sunlight, water and soil. And living things make soil, change the air and even build rock, like coral reefs.",
    "examples": [
     "A wooden table is once alive. It was part of a tree.",
     "A steel spoon is never alive. It was made from rock dug out of the ground.",
@@ -398,7 +398,7 @@
    "for": "Living things seem so different from stones and water. It feels as if something extra must be inside them.",
    "against": "Scientists found that living things are made of ordinary atoms, the same ones in air and rock. In 1897, Eduard Buchner, a German scientist, crushed yeast cells and used just their juice. It still turned sugar into gas, with no living cells at all. He won a Nobel Prize for it in 1907.",
    "status": "rejected",
-   "context": "This card is about the old idea of a life force, and what yeast showed about it."
+   "context": "This card is about the old idea of a life force, and what yeast showed about a life force."
   },
   {
    "claim": "The whole Earth behaves like one living thing.",
@@ -459,7 +459,7 @@
   {
    "q": "Does a plant feel your touch?",
    "kind": "deep",
-   "hint": "Plants do, in their own way. A touch-me-not senses and responds. How could we find out what the touch is like for the plant?"
+   "hint": "Plants sense touch and respond. A touch-me-not folds its leaves at once. How could we find out what the touch is like for the plant?"
   },
   {
    "q": "Why do living things die, when a stone can last for millions of years?",
@@ -508,7 +508,7 @@
    "The professor laughed, a big, surprised laugh. 'Now you have asked my question,' he said. 'Where is the line, Tuli? Did nature draw it? Or did we?' He did not answer it. He handed Tuli the feather instead. 'Today,' he said, 'you will let the plant rest for a whole hour between taps. Then we will see what a living thing does with rest.'",
    "Tuli took the feather. Before she began, she touched the shy plant, very gently, with one finger. Their leaflets folded shut. Then, after a while, slowly, as if they had made up their mind, they opened again."
   ],
-  "epiphany": "For the parent: the wire and the plant share one sign of life, responding when touched, and both even tire and recover. But only the plant does everything else, by themselves and from inside: they drink, grow, move to the light, sleep and wake, and make flowers for seeds. One sign is not enough to call something alive. All the signs together are. The story also leaves Bose's real question open: is the line between living and non-living drawn by nature, or by us? And it quietly asks who gets noticed: a cleaner's daughter, and an Indian scientist paid less than his colleagues.",
+  "epiphany": "For the parent: the wire and the plant share one sign of life, responding when touched, and both even tire and recover. But only the plant does everything else, by themselves and from inside: they drink, grow, move to the light, sleep and wake, and make flowers for seeds. One sign is not enough to call something alive. All the signs together are. Bose's real question stays open: is the line between living and non-living drawn by nature, or by us? Notice who got noticed, too: a cleaner's daughter, and an Indian scientist paid less than his colleagues.",
   "ask": [
    "In the story, the plant and the wire both got tired when tapped. So why did Tuli say they were not the same?",
    "What did the plant do in the night, when nobody was touching them?",
@@ -529,7 +529,7 @@
    "id": "g1",
    "title": "Life Trial: Alive, Once Alive or Never Alive?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about the seven signs of life. Players put everyday things on trial. For each thing, they decide which signs it shows, then whether it is alive, once alive or never alive.",
    "printables": [
     {
@@ -545,7 +545,7 @@
       "A river",
       "A stone",
       "A wooden chair",
-      "A hen's egg",
+      "A hen's egg from a shop",
       "A spoon of dry yeast",
       "You",
       "An ant",
@@ -564,7 +564,7 @@
     },
     {
      "kind": "cards",
-     "title": "7 sign cards for each player",
+     "title": "7 sign cards (print one set for each player)",
      "items": [
       "N: Nutrition (gets food)",
       "R: Respiration (gets energy from food)",
@@ -597,14 +597,14 @@
     }
    ],
    "rules": [
-    "Cut out the 24 thing cards. Shuffle them and put them face down.",
+    "Cut out the 24 thing cards and the sign cards. Take out the card 'A car' for the practice round. Shuffle the rest and put them face down.",
     "Each player takes a set of 7 sign cards.",
     "On your turn, turn over a thing card and read it out loud.",
-    "Everyone holds up the sign cards they think this thing really shows, at some time in its life.",
-    "The player whose turn it is gives the verdict: alive, once alive or never alive. They put the card on that mat and say why.",
-    "Score 1 point for each sign you can explain. Score 2 points for a verdict with a good reason. If someone challenges you with good evidence, they win the 2 points instead.",
-    "Remember the big rule: one sign is not enough. A living thing does all seven over its life.",
-    "When the cards run out, the player with the most points wins."
+    "Everyone chooses the sign cards they think this thing really shows, at some time in its life. Then everyone holds them up at the same time.",
+    "The player whose turn it is gives the verdict: alive, once alive or never alive. They put the card on that mat and say why. A thing can show some signs and still be never alive. A living thing does all seven over its life.",
+    "Score 1 point for each sign card you held up and can explain in one sentence. The player whose turn it is also scores 2 points for a verdict with a good reason.",
+    "Anyone can challenge a verdict by giving better evidence. If the other players agree, the challenger scores the 2 points instead. If you cannot agree, put the card to one side and nobody scores for the verdict. Look it up in this unit afterwards.",
+    "Play 12 cards, not all 24. Keep the rest for another game. The player with the most points wins. If points are equal, you share the win."
    ],
    "setup": [
     {
@@ -624,7 +624,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay out the three mats. 2. Shuffle the thing cards and put them face down. 3. Give each player 7 sign cards.",
+     "do": "1. Lay out the three mats. 2. Take out the card 'A car'. Shuffle the other thing cards and put them face down. 3. Give each player a set of 7 sign cards.",
      "say": "Every card is a thing from everyday life. We are going to put each one on trial. Is it alive, once alive, or never alive? But first we check which of the seven signs of life it shows.",
      "kid": "Put out the three mats. Mix up the thing cards. Take your 7 sign cards. For each thing, you check its signs. Then you decide.",
      "context": "This is the first step of Life Trial. It is a card game about the seven signs of life. Here you set up the game."
@@ -632,7 +632,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Find the card 'A car'. Play it together as a practice round.",
+     "do": "Take the card 'A car'. Play it together as a practice round, then put it on the NEVER ALIVE mat.",
      "say": "Let's practise with the car. Hold up every sign a car shows. Think about a real car on the road.",
      "kid": "Practice card: a car. Which signs of life does it show? Hold them up.",
      "ask": [
@@ -663,15 +663,15 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns. Each player turns over a card and reads it out. 2. Everyone holds up signs. 3. The player gives a verdict and a reason. 4. Keep score on the score sheet.",
+     "do": "1. Take turns. Each player turns over a card and reads it out. 2. Everyone holds up their sign cards. 3. The player gives a verdict and a reason. 4. Keep score on the score sheet. 5. Stop after 12 cards.",
      "say": "When you give your verdict, tell us your evidence. Which signs does it show? Which is it missing?",
      "kid": "Take turns. Turn over a card. Hold up its signs. Then choose: alive, once alive or never alive. Say why.",
-     "parent": "Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing in it. So many people put it on once alive. An egg that a hen sits on can be alive, with a chick growing inside."
+     "parent": "Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing inside the egg. So many people put the egg on once alive. An egg that a hen sits on can be alive, with a chick growing inside."
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "When someone draws 'A dry moong seed', stop and talk about it.",
+     "do": "If someone turns over 'A dry moong seed', stop and talk about the seed. If it does not come up, ask the question yourself at the end.",
      "say": "A dry seed does almost nothing right now. So how can they be alive?",
      "kid": "A dry seed! Almost nothing is happening. Is the seed alive?",
      "check": {
@@ -689,7 +689,7 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Count the points. Then look at the three mats together.",
+     "do": "Add up the points. Then look at the three mats together.",
      "say": "Look at the ALIVE mat. What do all these things have in common?",
      "kid": "Count your points. Look at the ALIVE mat. What do they all do?",
      "think": "Is there a card you are still not sure about? Keep it to one side. Scientists have cards like that too."
@@ -740,9 +740,9 @@
    "rules": [
     "The caller shuffles the action cards and calls one out.",
     "Everyone acts it out at once.",
-    "In round two, the caller calls a sign and a living-thing card together, for example, 'Movement: a neem tree!'",
+    "In round two, the caller turns over a living-thing card and calls a sign, for example, 'Movement: a neem tree!'",
     "Players act out how that living thing does that sign, and say it in one sentence.",
-    "Anyone can call 'Challenge!' if they think the action is wrong."
+    "Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this unit."
    ],
    "setup": [
     {
@@ -766,7 +766,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Call a sign together with a living-thing card. For example, 'Movement: a neem tree!'",
+     "do": "Turn over a living-thing card and call a sign with it. For example, 'Movement: a neem tree!'",
      "say": "Now it's harder. Movement, a neem tree! How does a tree move? Show me, and tell me in one sentence.",
      "kid": "Now the caller says a sign and a living thing. Show how they do that sign. Say it in one sentence.",
      "ask": [
@@ -932,9 +932,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Wrap the string round each flat balloon and write the length in the table. 2. Put two teaspoons of yeast in each bottle, using a funnel. 3. Add one tablespoon of sugar to A and to C. Add none to B. 4. A grown-up pours half a cup of warm water into A and into B. 5. Pour half a cup of fridge-cold water into C. 6. Swirl each bottle. 7. Stretch a balloon over each neck. Blow each balloon up and let it down two or three times first, so it stretches easily.",
+     "do": "1. Blow each balloon up and let it down two or three times, so it stretches easily. 2. Wrap the string round each flat balloon and write the length in the table. 3. Put two teaspoons of yeast in each bottle, using a funnel. 4. Add one tablespoon of sugar to A and to C. Add none to B. 5. A grown-up pours half a cup of warm water into A and into B. 6. Pour half a cup of fridge-cold water into C. 7. Swirl each bottle. 8. Stretch a balloon over each neck.",
      "say": "We change only one thing in each bottle, so the test is fair. Now let's stretch on the balloons. If anything in there is alive and gives out a gas, the balloon will catch it.",
-     "kid": "Measure each flat balloon. Yeast in all three. Sugar in A and C. Warm water in A and B. Cold water in C. Swirl. Put a balloon on each.",
+     "kid": "Stretch each balloon. Measure each flat balloon. Yeast in all three. Sugar in A and C. Warm water in A and B. Cold water in C. Swirl. Put a balloon on each.",
      "adult": true,
      "parent": "The warm water should feel like a bath on the inside of your wrist, around 40 degrees. Hot water will kill the yeast. If nothing happens in bottle A after 20 minutes, your yeast may be old. Check the date on the packet, and try a fresh one. Keep an opened packet closed tight in the fridge."
     },
@@ -954,7 +954,7 @@
        "The sugar is melting into air"
       ],
       "a": 1,
-      "why": "Yeast is alive. The yeast feeds on the sugar, gets energy from it and gives out carbon dioxide gas as waste. The gas fills the balloon. That is nutrition, respiration and excretion, three signs of life. Picking 'boiling' means mixing up bubbles from heat with bubbles from life. The water is only warm. Picking 'sugar melting into air' means thinking sugar turns into gas by itself. It does not, or bottle C would fill too."
+      "why": "Yeast is alive. The yeast feeds on the sugar, gets energy from the sugar and gives out carbon dioxide gas as waste. The gas fills the balloon. That is nutrition, respiration and excretion, three signs of life. Picking 'boiling' means mixing up bubbles from heat with bubbles from life. The water is only warm. Picking 'sugar melting into air' means thinking sugar turns into gas by itself. It does not, or bottle C would fill too."
      }
     },
     {
@@ -996,7 +996,7 @@
      "say": "Now tell me three things. Is the yeast alive? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: yeast is alive, and needs food and warmth. What I saw: all three balloons started at 12 cm round. Balloon A grew to 30 cm, but B only reached 14 cm and C 13 cm. Why: the yeast fed on the sugar and gave out gas as waste. In the cold, the yeast was too slow. Without sugar, there was almost no food.",
-     "think": "Bakers knead yeast into dough and leave it somewhere warm. Why warm? What would happen in the fridge?"
+     "think": "Bakers knead yeast into dough and leave the dough somewhere warm. Why warm? What would happen in the fridge?"
     }
    ]
   },
@@ -1195,7 +1195,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw and why.",
      "say": "Now tell me three things. Is a dry seed alive? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: a dry seed is alive, but resting. What I saw: all 5 soaked seeds sprouted, and the dry seeds sprouted after I gave them water. The boiled seeds and the beads never grew. Why: the seed has a living baby plant inside. Water wakes them up. Boiling kills them, and beads were never alive."
+     "parent": "A good answer sounds like this. What I think: a dry seed is alive, but resting. What I saw: all 5 soaked seeds sprouted, and the dry seeds sprouted after I gave them water. The boiled seeds and the beads never grew. Why: the seed has a living baby plant inside. Water wakes the baby plant up. Boiling kills the baby plant, and beads were never alive."
     }
    ]
   },
@@ -1206,14 +1206,11 @@
    "days": 1,
    "question": "When you move fast, does your body need more air? What does that tell us about respiration?",
    "predict": "Guess how many breaths you take in one minute sitting still. Then guess how many after one minute of jumping. Why do you think it will change?",
-   "fair_test": "To make it fair, the same person counts in the same way each time, for the same 15 seconds. Sit still for two minutes before the first count. Do each count three times and take the middle number.",
+   "fair_test": "To make it fair, the same person counts in the same way each time, for the same 15 seconds. Sit still for two minutes before the first count. Count straight away after jumping, and again after two minutes of rest.",
    "results_table": [
     "When",
-    "Breaths in 15 seconds: try 1",
-    "Try 2",
-    "Try 3",
-    "Middle number",
-    "Breaths in 1 minute (middle number times 4)"
+    "Breaths in 15 seconds",
+    "Breaths in 1 minute (breaths in 15 seconds times 4)"
    ],
    "materials": [
     {
@@ -1225,11 +1222,11 @@
      "qty": 1
     },
     {
-     "item": "a hand mirror, for an extra test",
+     "item": "a hand mirror, or any shiny steel plate",
      "qty": 1
     }
    ],
-   "safety": "Jump on a soft, flat floor. Stop if you feel dizzy or your chest hurts. A child with asthma can march on the spot gently instead.",
+   "safety": "Stop if you feel dizzy. A child with asthma can march on the spot gently instead.",
    "schedule": [
     {
      "day": 1,
@@ -1281,7 +1278,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Your child sits still for 2 minutes. 2. They put a hand on their tummy. 3. Time 15 seconds while they count each breath in. 4. Do it three times. Write the numbers.",
+     "do": "1. Your child sits still for 2 minutes. 2. They put a hand on their tummy. 3. Time 15 seconds while they count each breath in. 4. Write the number.",
      "say": "Put a hand on your tummy. Each time it goes out, that is one breath in. I'll say go and stop. You count.",
      "kid": "Sit still. Hand on tummy. Count each breath in until the grown-up says stop.",
      "context": "This is the first step of the breath counter. You count your breaths sitting still, so you can compare them with breaths after jumping."
@@ -1289,7 +1286,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child jumps on the spot for 1 minute. 2. Straight away, count their breaths for 15 seconds. 3. Write the number. Rest and repeat twice more, if they are happy to.",
+     "do": "1. Your child jumps on the spot for 1 minute. 2. Straight away, count their breaths for 15 seconds. 3. Write the number.",
      "say": "Now jump for one whole minute. Go! Stop. Quick, count your breaths.",
      "kid": "Jump for one minute. Stop. Count your breaths straight away.",
      "parent": "Most children breathe about twice as fast after jumping. Their heart beats faster too. Let them feel their heartbeat with two fingers on the side of the neck."
@@ -1312,9 +1309,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Multiply each middle number by 4 to get breaths in one minute. 2. Draw one bar for each.",
+     "do": "1. Multiply each count by 4 to get breaths in one minute. 2. Draw one bar for each.",
      "say": "Fifteen seconds is a quarter of a minute. So four times the number gives breaths in a whole minute.",
-     "kid": "Times each middle number by 4. That gives breaths in one minute. Draw a bar for each.",
+     "kid": "Times each count by 4. That gives breaths in one minute. Draw a bar for each.",
      "how": "e3",
      "check": {
       "t": "mcq",
@@ -1363,7 +1360,7 @@
      "qty": 1
     }
    ],
-   "safety": "Look at real cars only from the pavement, with a grown-up. Never look straight at the Sun.",
+   "safety": "Never look straight at the Sun.",
    "schedule": [
     {
      "day": 1,
@@ -1418,8 +1415,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Look at a cloud through the window for a few minutes. If the sky is clear today, use a photo of clouds and remember how clouds change. Then go through the seven signs for the cloud.",
-     "say": "Watch that cloud. Is it moving? Is it changing shape? Clouds can grow and even split into little clouds. Does a cloud eat? Does it make baby clouds of its own?",
-     "kid": "Watch a cloud for a few minutes. Does it move? Does it grow? Does it eat? Fill in its column.",
+     "say": "Watch that cloud. Is it moving? Is it changing shape? Clouds can grow and even split into little clouds. Does a cloud eat? Does a cloud make baby clouds?",
+     "kid": "Watch a cloud for a few minutes. Does it move? Does it grow? Does the cloud eat? Fill in its column.",
      "parent": "A cloud moves, grows and can split. Your child may want to tick those. Ask: does it grow from the inside by using food? Or does it grow because more water vapour in the air turns into drops? A cloud never feeds, respires or makes young of its own kind. It is a heap of tiny water drops pushed by the wind."
     },
     {
@@ -1529,8 +1526,8 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Look closely at one once-alive thing with a magnifying glass.",
-     "say": "Look at this leaf up close. Can you see its veins? They once carried water through the living leaf.",
+     "do": "Look closely at one once-alive thing, such as a leaf, with a magnifying glass.",
+     "say": "Look at a leaf up close. Can you see the veins? They once carried water through the living leaf.",
      "kid": "Look at a leaf with a magnifying glass. Can you see the lines? They once carried water."
     }
    ]
@@ -1564,7 +1561,7 @@
     }
    ],
    "record": "Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening.",
-   "context": "This activity is about sensing, one of the seven signs of life. You touch a touch-me-not plant and watch them respond, and time how long it takes to recover.",
+   "context": "This activity is about sensing, one of the seven signs of life. You touch a touch-me-not plant and watch how the plant responds, and time how long the leaves take to open again.",
    "setup": [
     {
      "art": "A touch-me-not plant in a clay pot on a sunny step, their feathery leaves wide open.",
@@ -1583,7 +1580,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Find a touch-me-not plant with their leaves open. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.",
+     "do": "Find a touch-me-not plant with open leaves. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.",
      "say": "This plant is called chhui-mui, or lajwanti, or touch-me-not. Look at their little leaflets, lined up in pairs. What do you think will happen if we touch the plant?",
      "kid": "This is a touch-me-not plant. Look at their tiny leaflets. What will happen if you touch the plant?",
      "context": "This is the first step of the shy plant activity. You test whether a plant can sense touch."
@@ -1652,7 +1649,7 @@
      "qty": 1
     },
     {
-     "item": "a dry dead twig of about the same size",
+     "item": "a dry dead twig of about the same size, with a few dry leaves if possible",
      "qty": 1
     }
    ],
@@ -1685,7 +1682,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Water the plant. 2. Slip a clear bag over one leafy branch and tie it gently. 3. Push a dead twig into the soil and tie a bag over it. 4. Leave both in sunlight.",
-     "say": "We have a living branch and a dead twig. Both get a bag. If the living plant gives anything out, the bag will catch it.",
+     "say": "We have a living branch and a dead twig. Both get a bag. If the living plant gives anything out, the bag will catch the water.",
      "kid": "Tie a bag over a living branch. Tie another over a dead twig. Leave them in the sun.",
      "context": "This is the first step of the bag-on-a-branch activity. You find out whether a living plant gives out water."
     },
@@ -1706,7 +1703,8 @@
       ],
       "a": 1,
       "why": "A living plant pulls water up from their roots and lets water vapour out of tiny holes in their leaves. The vapour turns back into drops on the inside of the bag. The dead twig is once alive. It no longer does this. Picking 'rain' cannot explain why only one bag is wet. Picking 'the twig drank it' means thinking a dead twig still feeds."
-     }
+     },
+     "parent": "Usually a fine mist or a few drops show inside the bag on the living branch within an hour or two. On a cool or cloudy day the mist can be faint, so leave the bags a little longer. The bag on the dead twig stays clear or nearly clear."
     },
     {
      "id": "s3",
@@ -1714,7 +1712,7 @@
      "do": "Talk about what the plant takes in and gives out.",
      "say": "A plant takes in water and air, and gives out water vapour and gases from their leaves. In sunlight, one gas they give out is oxygen, the gas we need.",
      "kid": "A plant takes in water and air. They give out water and gases from their leaves. One gas is oxygen, which we breathe.",
-     "parent": "Strictly, most of this water is not waste. The plant lets it out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall."
+     "parent": "Strictly, most of this water is not waste. The plant lets the water out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall."
     }
    ]
   },
@@ -1730,15 +1728,10 @@
      "buy": "b-tape"
     },
     {
-     "item": "a hand mirror",
-     "qty": 1
-    },
-    {
      "item": "a pencil and a doorframe or wall you are allowed to mark lightly",
      "qty": 1
     }
    ],
-   "safety": "Drop the ruler from a low height. Do not throw it.",
    "schedule": [
     {
      "day": 1,
@@ -1766,7 +1759,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Go through the signs one by one. For each, find evidence in your child's body. Nutrition: what did you eat today? Respiration and excretion: breathe on a mirror. Movement: wiggle your fingers. Growth: are your old clothes too small?",
+     "do": "Go through the signs one by one. For each, find evidence in your child's body. Nutrition: what did you eat today? Respiration and excretion: feel the warm breath on your hand. Movement: wiggle your fingers. Growth: are your old clothes too small?",
      "say": "You are a living thing. So you must do all seven signs. Let's find the evidence, one sign at a time.",
      "kid": "You are alive. So you do all seven signs. Find evidence for each one in your own body.",
      "context": "This is the first step of All Seven in Me. You look for each of the seven signs of life in your own body."
@@ -1818,7 +1811,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needed.",
    "schedule": [
     {
      "day": 1,
@@ -1830,11 +1822,11 @@
    "context": "This activity is about nutrition, one of the seven signs of life. You draw a chart of who eats what, and find that all food starts with sunlight caught by plants.",
    "setup": [
     {
-     "art": "A sheet of paper with small drawings of a Sun, a grass patch, a cow, a spider, a crow, a mushroom and a child.",
+     "art": "A sheet of paper with small drawings of a Sun, a grass patch, a cow, a grasshopper, a crow, a mushroom and a child.",
      "caption": "1. Draw the Sun and six living things."
     },
     {
-     "art": "The same sheet with arrows from the Sun to the grass, the grass to the cow, the cow's milk to the child, and a fallen leaf to a mushroom.",
+     "art": "The same sheet with arrows from the Sun to the grass, the grass to the cow and the grasshopper, the grasshopper to the crow, the cow's milk to the child, and a fallen leaf to a mushroom.",
      "caption": "2. Draw an arrow from each food to its eater."
     },
     {
@@ -1846,9 +1838,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw the Sun at the top, and six living things: grass, a cow, a spider, a crow, a mushroom and your child.",
+     "do": "Draw the Sun at the top, and six living things: grass, a cow, a grasshopper, a crow, a mushroom and your child.",
      "say": "Every living thing needs food. But where does the food come from in the first place? Let's follow it back.",
-     "kid": "Draw the Sun. Then draw grass, a cow, a spider, a crow, a mushroom and you.",
+     "kid": "Draw the Sun. Then draw grass, a cow, a grasshopper, a crow, a mushroom and you.",
      "context": "This is the first step of Who Eats What. You draw a chart to find where every living thing's food comes from."
     },
     {
@@ -1910,10 +1902,6 @@
      "buy": "b-tape"
     },
     {
-     "item": "a clear plastic bag and a rubber band",
-     "qty": 1
-    },
-    {
      "item": "a notebook for the diary",
      "qty": 1
     }
@@ -1938,7 +1926,7 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Open the box. Compare the two pots. Measure both. Tie a bag over a few leaves of the room pot for 2 hours."
+     "what": "Open the box. Compare the two pots. Measure both."
     },
     {
      "day": 10,
@@ -1991,9 +1979,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On day 7, open the box. Compare the two pots. Measure both. Then tie a clear bag over a few leaves of the room pot for 2 hours.",
+     "do": "On day 7, open the box. Compare the two pots. Measure both.",
      "say": "Look at the box plants. Which way did they grow? How did they know where the light was?",
-     "kid": "Open the box. Which way did the shoots grow? Measure both pots. Tie a bag over some leaves.",
+     "kid": "Open the box. Which way did the shoots grow? Measure both pots.",
      "wait": "Come back on day 7.",
      "check": {
       "t": "mcq",
@@ -2025,7 +2013,7 @@
   {
    "id": "c1",
    "title": "Design a Life Detector for Mars",
-   "mins": 35,
+   "mins": 57,
    "problem": "A robot on Mars will scoop up some soil. Your job is to design tests that could tell whether anything in the soil is alive. Test your design on three mystery cups at home.",
    "constraints": [
     "You cannot see anything alive, even with a magnifying glass.",
@@ -2034,7 +2022,7 @@
    ],
    "materials": [
     "3 small cups with 2 tablespoons of atta in each, prepared by a grown-up and labelled A, B and C",
-    "half a cup of warm sugar water, with the juice of half a lemon stirred in",
+    "one cup of warm sugar water, with the juice of one lemon stirred in",
     "a spoon and a timer",
     "a little boiling water, for a grown-up only"
    ],
@@ -2085,7 +2073,7 @@
     },
     {
      "id": "s2",
-     "mins": 15,
+     "mins": 30,
      "do": "1. Stir 3 tablespoons of warm sugar water with lemon into each mystery cup, to make a thick batter. 2. Watch straight away. 3. Then look every 10 minutes for 30 minutes. 4. Write what you see in each cup each time.",
      "say": "Watch closely. Something might happen fast, or slowly. Write it all down.",
      "kid": "Stir sugar water into each cup. Watch at once. Then look every 10 minutes. Write what you see.",
@@ -2093,7 +2081,7 @@
     },
     {
      "id": "s3",
-     "mins": 8,
+     "mins": 15,
      "do": "A grown-up stirs a spoon of dry powder from A and from C into a little boiling water. Let them cool for 5 minutes, until just warm. Then stir in sugar water with lemon and watch.",
      "say": "This is our control. Heat kills living things, but chemicals don't care. If the bubbles stop after heating, they were made by something alive.",
      "kid": "A grown-up mixes some of A and C with boiling water. Wait until it cools. Add sugar water. Do they still bubble?",
@@ -2169,7 +2157,7 @@
      "do": "1. Wash the jar. 2. Put 2 cm of stones in the bottom. 3. Add 5 cm of damp soil. 4. Plant the cutting. 5. Add 2 spoons of water. 6. Close the lid.",
      "say": "We're making a tiny world. Once the lid is on, nothing goes in and nothing comes out, except light. Can life keep going?",
      "kid": "Stones first. Then soil. Then your plant. Two spoons of water. Close the lid.",
-     "context": "This is the first step of the jar world challenge. You build a closed jar where a plant must keep themselves alive."
+     "context": "This is the first step of the jar world challenge. You build a closed jar where a plant must keep going with no new food or water."
     },
     {
      "id": "s2",
@@ -2194,7 +2182,7 @@
        "The plant did not need any water"
       ],
       "a": 0,
-      "why": "The plant took water from the soil and let it out from their leaves. The water turned into drops on the glass and ran back down into the soil. The same water was used again and again. The plant also used light to make food, and the gases they gave out were used again. Picking 'made water from light' means thinking light is a kind of water. Picking 'did not need water' forgets that all living things need water."
+      "why": "The plant took water from the soil and let the water out from their leaves. The water turned into drops on the glass and ran back down into the soil. The same water was used again and again. The plant also used light to make food, and the gases they gave out were used again. Picking 'made water from light' means thinking light is a kind of water. Picking 'did not need water' forgets that all living things need water."
      }
     },
     {
@@ -2270,18 +2258,6 @@
      ],
      "a": 3,
      "why": "Breathing brings in the oxygen that respiration uses. Respiration itself happens in every cell, even in plants, which have no lungs. A strong answer keeps the two words apart."
-    },
-    {
-     "t": "mcq",
-     "p": "An auto rickshaw moves, takes in fuel and gives out smoke. Which sign of life does the auto NOT show?",
-     "opts": [
-      "Moving",
-      "Taking in fuel",
-      "Giving out waste smoke",
-      "Growing from inside and making young autos"
-     ],
-     "a": 3,
-     "why": "An auto shows a few signs, but people build it and repair it. It never grows from inside and never makes a baby auto. So a few signs are not enough to be alive."
     },
     {
      "t": "truefalse",
@@ -2362,7 +2338,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A child grows taller because her body builds new cells out of the food she eats.",
+     "p": "A child grows taller because the child's body builds new cells out of the food eaten.",
      "a": true,
      "why": "True. Living things grow from inside. Cells use food to build new cells, so the body gets bigger. A cloud or a crystal only gets bigger when more stuff is added to the outside."
     },
@@ -2390,7 +2366,7 @@
      "t": "write",
      "p": "Ananya, a girl in Class 4, wants to explain to her little brother Ravi why a cloud is not alive, even though a cloud moves and grows. Write what she could say.",
      "lines": 3,
-     "a": "Ananya could say: 'A cloud moves because the wind pushes it. A cloud grows because more water vapour in the air cools into drops. It does not eat, respire or make baby clouds of its own. Living things do all seven signs, not just one or two.'",
+     "a": "Ananya could say: 'A cloud moves because the wind pushes it. A cloud grows because more water vapour in the air cools into drops. It does not eat, respire or make baby clouds. Living things do all seven signs, not just one or two.'",
      "why": "A strong answer explains why the cloud moves and grows, then names signs the cloud does not show."
     },
     {
@@ -2497,19 +2473,6 @@
      "how": "e3"
     },
     {
-     "t": "mcq",
-     "p": "After jumping, most children breathe about twice as fast as when they sit still. Why?",
-     "opts": [
-      "Jumping squeezes the air out of their lungs",
-      "They are scared of falling",
-      "The air gets thinner when they move",
-      "Their muscles need more energy, so their cells respire faster and need more oxygen"
-     ],
-     "a": 3,
-     "why": "Respiration gives muscles their energy, and it uses oxygen. Working muscles need more energy, so the body takes in air faster. The breath counter shows this in numbers.",
-     "how": "e3"
-    },
-    {
      "t": "sort",
      "p": "Sort these. Can only living things do this, or can non-living things do it too?",
      "cats": [
@@ -2588,29 +2551,12 @@
      "why": "True. A mule's body feeds, respires, grows, moves, senses and gets rid of waste. Making young is a sign for a kind of living thing, not for every single one."
     },
     {
-     "t": "fill",
-     "p": "In the bag-on-a-branch activity, drops of ____ formed inside the bag on the living branch, but not inside the bag on the dead twig.",
-     "a": [
-      "water"
-     ],
-     "why": "The living plant pulled water up from the soil and let it out through tiny holes in the leaves. The dead twig did nothing. A strong answer can say what the dead twig was compared with.",
-     "how": "a4"
-    },
-    {
      "t": "write",
      "p": "Revathi, a girl in Class 5, sets up the balloon test. Bottle A gets warm water and one spoon of yeast. Bottle C gets cold water and three spoons of yeast. Why can't she tell whether the cold made bottle C slow? What should she change?",
      "lines": 4,
      "a": "She changed two things at once: the water and the amount of yeast. So she cannot tell which one made the difference. She should put the same amount of yeast and sugar in both, and change only the water.",
      "why": "A strong answer names both changes and says a fair test changes only one thing.",
      "how": "e1"
-    },
-    {
-     "t": "write",
-     "p": "In the shoebox test, the moong shoots bent towards the hole. Which two signs of life does this show? Explain how you know.",
-     "lines": 3,
-     "a": "Sensing and movement. The shoots sensed where the light came from. Then they moved by growing, bending towards the hole. The shoots in the open room grew straight up.",
-     "why": "A strong answer names both signs and links each to what the shoots did, ideally comparing them with the pot outside the box.",
-     "how": "p1"
     },
     {
      "t": "write",
@@ -2643,13 +2589,6 @@
      "how": "a3"
     },
     {
-     "t": "draw",
-     "p": "Draw the four cups of the seed test as they looked on day 6. Under each cup, write one word: alive, dead or never alive.",
-     "a": "Cup A: sprouted seeds, 'alive'. Cup B: seeds just starting to sprout after their water, 'alive'. Cup C: boiled seeds, unchanged, 'dead'. Cup D: beads, unchanged, 'never alive'.",
-     "why": "A strong drawing tells cups B, C and D apart. Cup B is alive even though the seeds started late.",
-     "how": "e2"
-    },
-    {
      "t": "mcq",
      "p": "A crow's feather has fallen onto the balcony. Which of these is true?",
      "opts": [
@@ -2679,6 +2618,27 @@
      "a": 2,
      "why": "Roots sense gravity and grow down, wherever the seed is facing. This is sensing and movement at the same time.",
      "how": "e2"
+    },
+    {
+     "t": "fill",
+     "p": "A green plant makes sugar as food, using sunlight, air and ____.",
+     "a": [
+      "water"
+     ],
+     "why": "Plants take in water through their roots, carbon dioxide from the air and energy from sunlight, and make sugar. The soil gives water and minerals, not food."
+    },
+    {
+     "t": "truefalse",
+     "p": "Yeast is a kind of fungus. It is not a plant and not an animal.",
+     "a": true,
+     "why": "True. Yeast is a fungus made of one cell. Like mushrooms, yeast cannot make food from sunlight, so yeast feeds on sugar."
+    },
+    {
+     "t": "write",
+     "p": "A friend says: 'A candle flame is alive. It moves, grows bigger, uses up wax as food and gives out smoke.' Which signs does the flame seem to show? Which signs does it never show?",
+     "lines": 4,
+     "a": "The flame seems to move, to grow, to feed on wax and to give out smoke. But it does not sense, does not respire inside cells, and never makes young of its own kind. It is a chemical change that stops when the wax or air runs out.",
+     "why": "A strong answer names the signs the flame seems to show, then the ones it lacks, and says one or two signs are not enough."
     }
    ]
   },
@@ -2770,7 +2730,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A single bacterium, made of just one cell, feeds, respires, gets rid of waste and makes more of themselves, all on their own.",
+     "p": "A single bacterium, made of just one cell, feeds, respires, gets rid of waste and makes more bacteria, all by themselves.",
      "a": true,
      "why": "True. One cell can be a whole living being. The bacteria in curd each do all the life processes, and they make more of themselves by splitting in two."
     },
@@ -2805,14 +2765,6 @@
     },
     {
      "t": "write",
-     "p": "In the life detector challenge, the baking soda cup fizzed as soon as the sugar water with lemon went in. Why could that cup trick a robot life detector? Which extra test caught the trick?",
-     "lines": 4,
-     "a": "Baking soda and lemon juice make gas by a chemical reaction, with nothing alive in them. A detector that only looks for gas would think it found life. The trick was caught by boiling the powder first: the baking soda still fizzed, but the yeast cup stopped.",
-     "why": "A strong answer explains the reaction is not life, and names the boiling test as the control.",
-     "how": "c1"
-    },
-    {
-     "t": "write",
      "p": "Moss on a dry wall looks brown and dead in April. After the first rain, the moss turns green again. Is the dry moss alive? Use the seed test to back up your answer.",
      "lines": 4,
      "a": "The dry moss is alive, but resting, like the dry seeds in cup B. The dry seeds did nothing until they got water, then they sprouted. Boiled seeds never did. The moss also wakes up with water, so the moss was dormant, not dead.",
@@ -2835,7 +2787,7 @@
      "t": "truefalse",
      "p": "Scientists have made a whole living cell from scratch, starting only with non-living chemicals.",
      "a": false,
-     "why": "False. Scientists have built a full set of DNA and put it into a bacterium, where it worked. But nobody has yet built a whole living cell from non-living chemicals."
+     "why": "False. Scientists have built a full set of DNA and put it into a bacterium, where the DNA worked. But nobody has yet built a whole living cell from non-living chemicals."
     },
     {
      "t": "mcq",
@@ -2869,13 +2821,6 @@
      "why": "The same atoms move between air, plants and animals, again and again. Living and non-living things share the same atoms."
     },
     {
-     "t": "draw",
-     "p": "Draw your jar world with the lid shut. Use blue arrows for water and red arrows for the gases the plant takes in and gives out.",
-     "a": "Blue arrows from the soil up into the plant, out of the leaves, onto the glass as drops, and down into the soil. Red arrows: the plant takes in carbon dioxide and gives out oxygen in the light, and takes in oxygen and gives out carbon dioxide all the time.",
-     "why": "A strong drawing shows that nothing leaves the jar. Water and gases go round and round.",
-     "how": "c2"
-    },
-    {
      "t": "write",
      "p": "Make your own definition of life in one sentence. Then test it on a cloud, a dry seed and a mule. Does your definition put each one in the right place? If not, fix it.",
      "lines": 5,
@@ -2893,6 +2838,12 @@
      ],
      "a": 1,
      "why": "Before this, many scientists thought only a living cell, with a special life force, could do this chemistry. Buchner showed the chemicals could do it alone. What is special about life is how it all works together."
+    },
+    {
+     "t": "truefalse",
+     "p": "Without a living cell to live in, a virus can still make new viruses.",
+     "a": false,
+     "why": "False. A virus makes new viruses only inside a living cell. That is one reason scientists still argue about whether viruses are alive."
     }
    ]
   }
@@ -3064,7 +3015,7 @@
    "youtube": "cQPVXrV0GNA",
    "mins": 7,
    "why": "For the parent and older children: a clear, friendly cartoon of what scientists count as signs of life, with good examples.",
-   "check": "Found by YouTube search: \"Characteristics of Life\" by Amoeba Sisters. Title checked automatically; a parent may still preview it."
+   "check": "A parent should watch it first."
   },
   {
    "title": "Touch-me-not (Mimosa pudica) leaves folding when touched",
@@ -3072,7 +3023,7 @@
    "youtube": "nPf3FbR6eQE",
    "mins": 2,
    "why": "Shows the touch-me-not's quick response close up, if you cannot find a real plant for the shy plant activity.",
-   "check": "Found by YouTube search: \"Touch-me-not plant/sensitive plant (mimosa pudica) leaves in action | लाजाळूचे झाड\" by Akshay Marathe. Title checked automatically; a parent may still preview it."
+   "check": "A parent should watch it first."
   },
   {
    "title": "What Is Life? Is Death Real?",
@@ -3080,7 +3031,7 @@
    "youtube": "QOCaacO8wus",
    "mins": 10,
    "why": "For the parent: a beautifully animated look at why the line between living and non-living is so hard to draw. Watch first, then share parts with older children.",
-   "check": "Found by YouTube search: \"What Is Life? Is Death Real?\" by Kurzgesagt – In a Nutshell. Title checked automatically; a parent may still preview it."
+   "check": "A parent should watch it first."
   }
  ],
  "applications": [
@@ -3146,15 +3097,15 @@
   },
   {
    "q": "What is it like for a plant to feel a touch?",
-   "why_open": "Plants feel. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows how to measure what the touch is like for the plant."
+   "why_open": "Plants sense touch and respond to it. Scientists can measure the electrical signal a touch sets off inside a plant. But nobody knows whether the touch is felt at all, or how to measure that."
   },
   {
    "q": "How does a plant remember, with no brain?",
-   "why_open": "Plants remember: the dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way."
+   "why_open": "The dropped touch-me-not plants seemed to remember for weeks that the drop was safe. Scientists are still finding out where in a plant such a memory could be kept. Some say 'memory' is the wrong word, and more tests are under way."
   },
   {
    "q": "Could people one day build a living cell from scratch?",
-   "why_open": "Scientists have built a full set of instructions, DNA, and put it into a bacterium, where it worked. But building a whole living cell from non-living parts has not been done."
+   "why_open": "Scientists have built a full set of instructions, DNA, and put it into a bacterium, where the DNA worked. But building a whole living cell from non-living parts has not been done."
   },
   {
    "q": "Why does all life on Earth use the same code?",
@@ -3166,7 +3117,7 @@
   "Is the dal on your plate alive, once alive or never alive?",
   "That tree has been standing still all day. How do you know they are alive?",
   "What does the fridge do to the tiny living things in our food?",
-  "If our car could do one more sign of life, which would be the strangest?",
+  "If a car could do one more sign of life, which would be the strangest?",
   "Is the wind alive? How do you know?",
   "When you are asleep, which signs of life are you still doing?",
   "Where did the water you just drank come from before the tap?",
@@ -3176,28 +3127,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the seed refuse to wake up?",
-   "a": "They were dormant, and nobody had given them a drink."
-  },
-  {
-   "j": "What did the yeast say to the sugar?",
-   "a": "You give me so much energy!"
-  },
-  {
-   "j": "Why was the car sad at the life trial?",
-   "a": "It had no growth on its record."
-  },
-  {
-   "j": "What is a cloud's favourite sign of life?",
-   "a": "None. It just drifts through the test."
-  },
-  {
    "j": "Why did the touch-me-not plant blush?",
    "a": "Somebody touched them without asking."
-  },
-  {
-   "j": "Why did the moong seed go to school?",
-   "a": "They wanted to grow up."
   },
   {
    "j": "What do you call a plant that keeps leaning to the window?",
@@ -3220,40 +3151,16 @@
    "a": "It was feeling a little green."
   },
   {
-   "j": "What did the dry seed say after a drink of water?",
-   "a": "I'm sprouting with joy."
-  },
-  {
-   "j": "Why did the robot fail the life test?",
-   "a": "It couldn't grow up, no matter how hard it tried."
-  },
-  {
    "j": "What is a tree's favourite drink?",
    "a": "Root beer."
-  },
-  {
-   "j": "Why did the bread go mouldy?",
-   "a": "Something alive found it first."
   },
   {
    "j": "What do you call a sleeping seed?",
    "a": "A bean bag."
   },
   {
-   "j": "Why did the seed bring a water bottle to the life test?",
-   "a": "They needed a drink before they could show their signs."
-  },
-  {
    "j": "Why did the river say it wasn't alive?",
    "a": "It was just going with the flow."
-  },
-  {
-   "j": "What did MRS GREN say to her class?",
-   "a": "Seven signs, and no excuses."
-  },
-  {
-   "j": "Why did the sunflower get a stiff neck?",
-   "a": "They watched the Sun all day."
   },
   {
    "j": "Why did the soap bubble fail the reproduction test?",
@@ -3459,8 +3366,7 @@
    "used_in": [
     "e2",
     "a2"
-   ],
-   "plan": "Used again in the Cells and Plants units."
+   ]
   },
   {
    "id": "b-yeast",
@@ -3707,7 +3613,7 @@
    "If your breath goes into a tree, and the tree's mango becomes you, where do you stop and the tree begin?",
    "Is a dry seed alive, asleep, or something in between?",
    "Who decides what counts as alive: nature, or us?",
-   "Could something be a little bit alive?"
+   "Why does a dry seed wait, instead of growing straight away?"
   ],
   "art": "A child sitting cross-legged under a mango tree, eyes closed, with soft dotted lines showing breath flowing from the child to the leaves and back, and tiny atoms drifting between the child, the tree, a stone and a cloud."
  },
