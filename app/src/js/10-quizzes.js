@@ -470,7 +470,7 @@ function rfsetBody() {
   return `<p class="sm">Past topics your child goes back over so they stick, about ${R.mins} minutes a day. DeepKids picks them from the three lists below.</p>
    ${coming}${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
 }
-// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Times and pace)
+// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Plan settings)
 function rfTiming() {
   const R = RFS(),
     EV = [1, 2, 3, 5, 7, 10, 14, 30],

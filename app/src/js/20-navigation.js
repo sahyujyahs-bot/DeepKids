@@ -37,7 +37,7 @@ const SEGS = {
     ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",
-      "Times and pace",
+      "Plan settings",
       "Lesson times, subjects, your child's level, how fast each subject goes, and the refresher.",
     ],
   ],
@@ -172,14 +172,14 @@ function settingsView() {
     S.guide?.on === false ? "Off" : "On: each screen shows its tips the first time",
     `<label class="zrow"><input type="checkbox" data-act="guidetoggle" ${S.guide?.on === false ? "" : "checked"}><span>Show tips on each screen</span></label><p class="xs muted">Turning it on again shows every screen's tips once more. The ? at the top shows the tips for the screen you're on at any time.</p>`,
   )}
-  ${grp("day", "Times and pace", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Times and pace.</p><button class="btn soft sm" data-act="gotab" data-tab="week" data-seg="family" style="justify-self:start">Open Times and pace</button>`)}
+  ${grp("day", "Plan settings", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Plan settings.</p><button class="btn soft sm" data-act="gotab" data-tab="week" data-seg="family" style="justify-self:start">Open Plan settings</button>`)}
   ${grp("ai", "AI features", fxAIOn() ? "Unlocked" : "Locked", fxAIRow())}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(hm(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
   ${grp("sound", "Sound and reading aloud", `${soundOn ? "Sounds on" : "Sounds off"} · ${S.autoRead ? "reads each step aloud" : "read aloud on tap"}`, `<label class="zrow"><input type="checkbox" data-act="sndtoggle" ${soundOn ? "checked" : ""}><span><b class="sm">Sounds</b><br><span class="xs muted">Little chimes when things are done</span></span></label><label class="zrow"><input type="checkbox" data-act="autoread" ${S.autoRead ? "checked" : ""}><span><b class="sm">Read each lesson step aloud</b><br><span class="xs muted">Or tap 🔊 on any screen to hear it</span></span></label>`)}
   <p class="xs muted">${syncMode === "account" ? `Everything is saved privately to your claude.ai account${lastSaved ? " · last saved " + new Date(lastSaved).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : ""}. It follows you to any device where you're signed in.` : store ? "Couldn't reach your account just now. Saved on this device; it will retry." : "Saved in this browser only."}</p>`;
-  document.getElementById("sheetTitle").textContent = "Settings";
+  document.getElementById("sheetTitle").textContent = "App settings";
   return out;
 }
 const sheet = document.getElementById("sheet");

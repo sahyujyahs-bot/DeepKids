@@ -1,4 +1,4 @@
-/* Plan: Calendar, Up next, To finish, Shopping, Refresher, Times and pace, and the work lists behind them */
+/* Plan: Calendar, Up next, To finish, Shopping, Refresher, Plan settings, and the work lists behind them */
 /* Day times: a usual routine, changes for a weekday, and changes for one date */
 const DTF = [
   ["prepAt", "Morning prep", "time"],
@@ -1244,7 +1244,7 @@ function planPart(k) {
       (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
   }
-  // how the plan is made: times, subjects, levels, pace and the refresher (Times and pace)
+  // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
   if (k === "tell")
     return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
@@ -1313,7 +1313,7 @@ function shopView() {
        : `<p class="sm muted">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
    }</section>`;
 }
-// Plan: Calendar, Up next, To finish, Shopping, Refresher, and Times and pace
+// Plan: Calendar, Up next, To finish, Shopping, Refresher, and Plan settings
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;

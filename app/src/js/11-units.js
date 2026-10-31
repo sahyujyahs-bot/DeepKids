@@ -1449,7 +1449,7 @@ const fxUnitBtns = (L) =>
 // what a locked unit says when tapped
 const dkLocked = () =>
   toast(
-    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in Settings.",
+    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in App settings.",
     7000,
   );
 const fxDaysSince = (d) => Math.round((parse(today) - parse(d)) / 864e5);

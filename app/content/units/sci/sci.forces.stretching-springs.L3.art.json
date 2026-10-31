@@ -3,6 +3,66 @@
  "flow.g1": "media/img/sci.forces.stretching-springs.L3/flow.g1.jpg",
  "flow.p1": "media/img/sci.forces.stretching-springs.L3/flow.p1.jpg",
  "intro": "media/img/sci.forces.stretching-springs.L3/intro.jpg",
+ "setup.e1.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e1.3": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e1.3.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e3.1.jpg",
+  "drawn": true
+ },
+ "setup.e3.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.3": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e3.3.jpg",
+  "drawn": true
+ },
+ "setup.e4.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e4.0.jpg",
+  "drawn": true
+ },
+ "setup.e4.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e4.1.jpg",
+  "drawn": true
+ },
+ "setup.e4.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e4.2.jpg",
+  "drawn": true
+ },
+ "setup.e4.3": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.e4.3.jpg",
+  "drawn": true
+ },
  "story.0": "media/img/sci.forces.stretching-springs.L3/story.0.jpg",
  "story.2": "media/img/sci.forces.stretching-springs.L3/story.2.jpg",
  "story.3": "media/img/sci.forces.stretching-springs.L3/story.3.jpg",

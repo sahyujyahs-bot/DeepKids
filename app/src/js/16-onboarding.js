@@ -206,7 +206,7 @@ function obNext() {
     setTimeout(
       () =>
         toast(
-          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Times and pace.`,
+          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Plan settings.`,
           8000,
         ),
       1200,

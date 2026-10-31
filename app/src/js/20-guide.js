@@ -15,14 +15,14 @@ const GUIDE = {
     [
       "#guideBtn",
       "Need help again?",
-      "Tap ? any time to see the tips for the screen you're on. Turn the walkthrough off in Settings.",
+      "Tap ? any time to see the tips for the screen you're on. Turn the walkthrough off in App settings (the ⚙️ at the top).",
     ],
   ],
   "week:cal": [
     [
       ".segmain",
       "Plan has five tabs",
-      "Calendar, Up next, To finish, Refresher and Settings. Each is explained when you open it.",
+      "Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
     ['[data-act="pv"]', "See any stretch of time", "Switch between a day, a week, a month or the whole year."],
     [
@@ -159,7 +159,7 @@ function guideClick(e) {
   if (a === "off") {
     S.guide = { ...(S.guide || {}), on: false };
     commit();
-    toast("Walkthrough off. Turn it on again in Settings, or tap ? for this screen.");
+    toast("Walkthrough off. Turn it on again in App settings, or tap ? for this screen.");
     return guideEnd();
   }
   guideShow();

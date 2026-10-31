@@ -5380,7 +5380,7 @@ function wfGuideView() {
       `<table class="wft">${h ? `<tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr>` : ""}${rows.map((r) => `<tr>${r.map((x) => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
   return `<p>${esc(G.intro || "")}</p>
    <section class="card"><b style="font:600 17px var(--display)">What matters most</b>${(G.principles || []).map(([t, d]) => `<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
-   <section class="card"><b style="font:600 17px var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Times and pace → Day times.</p></section>
+   <section class="card"><b style="font:600 17px var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Plan settings → Day times.</p></section>
    <section class="card"><b style="font:600 17px var(--display)">The week's arts rhythm</b>${tbl(G.week || [])}</section>
    <section class="card"><b style="font:600 17px var(--display)">The year and its festivals</b>${tbl(G.year || [])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
    <section class="card"><b style="font:600 17px var(--display)">What to get</b>${tbl(G.materials || [])}</section>
@@ -6127,7 +6127,7 @@ function rfsetBody() {
   return `<p class="sm">Past topics your child goes back over so they stick, about ${R.mins} minutes a day. DeepKids picks them from the three lists below.</p>
    ${coming}${card("not")}${card("grasped")}${card("mastered")}<button class="btn soft sm" data-act="quizgo" style="justify-self:start">🎯 Quick quiz</button>`;
 }
-// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Times and pace)
+// how long the daily refresher is, on which days, and how often each list's topics come back (Plan → Plan settings)
 function rfTiming() {
   const R = RFS(),
     EV = [1, 2, 3, 5, 7, 10, 14, 30],
@@ -7820,7 +7820,7 @@ const fxUnitBtns = (L) =>
 // what a locked unit says when tapped
 const dkLocked = () =>
   toast(
-    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in Settings.",
+    "This unit is on the DeepKids track. Your board track opens the DeepKids units for your board's chapters. To open them all, choose the DeepKids track in App settings.",
     7000,
   );
 const fxDaysSince = (d) => Math.round((parse(today) - parse(d)) / 864e5);
@@ -8562,7 +8562,7 @@ function topicOverview(u) {
     <span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p></section>`;
   h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
-    h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for full and busy days, big questions, worksheets and games. Switch in Settings.</p></section>`;
+    h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for full and busy days, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && u.board !== "dk" && m === "plus")
     h += `<section class="card"><span class="eyebrow">Suggested reading</span><p class="sm">${esc(u.book)}${chNo(u) ? ", " + chNo(u) : ""}${(u.c?.read || []).length ? "; " + u.c.read.map(esc).join("; ") : ""}</p></section>`;
   if (u.board === "gen" && (u.gen.books || []).length)
@@ -9947,7 +9947,7 @@ function fxTodayTop(animate) {
   return `<section class="sec fxtoday${animate ? " fxanim" : ""}">${tiles}${em}${cont}</section>`;
 }
 
-/* Plan: Calendar, Up next, To finish, Shopping, Refresher, Times and pace, and the work lists behind them */
+/* Plan: Calendar, Up next, To finish, Shopping, Refresher, Plan settings, and the work lists behind them */
 /* Day times: a usual routine, changes for a weekday, and changes for one date */
 const DTF = [
   ["prepAt", "Morning prep", "time"],
@@ -11193,7 +11193,7 @@ function planPart(k) {
       (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
   }
-  // how the plan is made: times, subjects, levels, pace and the refresher (Times and pace)
+  // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
   if (k === "tell")
     return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
@@ -11262,7 +11262,7 @@ function shopView() {
        : `<p class="sm muted">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
    }</section>`;
 }
-// Plan: Calendar, Up next, To finish, Shopping, Refresher, and Times and pace
+// Plan: Calendar, Up next, To finish, Shopping, Refresher, and Plan settings
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
@@ -13922,7 +13922,7 @@ function obNext() {
     setTimeout(
       () =>
         toast(
-          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Times and pace.`,
+          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Plan settings.`,
           8000,
         ),
       1200,
@@ -15024,14 +15024,14 @@ const GUIDE = {
     [
       "#guideBtn",
       "Need help again?",
-      "Tap ? any time to see the tips for the screen you're on. Turn the walkthrough off in Settings.",
+      "Tap ? any time to see the tips for the screen you're on. Turn the walkthrough off in App settings (the ⚙️ at the top).",
     ],
   ],
   "week:cal": [
     [
       ".segmain",
       "Plan has five tabs",
-      "Calendar, Up next, To finish, Refresher and Settings. Each is explained when you open it.",
+      "Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
     ['[data-act="pv"]', "See any stretch of time", "Switch between a day, a week, a month or the whole year."],
     [
@@ -15168,7 +15168,7 @@ function guideClick(e) {
   if (a === "off") {
     S.guide = { ...(S.guide || {}), on: false };
     commit();
-    toast("Walkthrough off. Turn it on again in Settings, or tap ? for this screen.");
+    toast("Walkthrough off. Turn it on again in App settings, or tap ? for this screen.");
     return guideEnd();
   }
   guideShow();
@@ -15232,7 +15232,7 @@ const SEGS = {
     ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",
-      "Times and pace",
+      "Plan settings",
       "Lesson times, subjects, your child's level, how fast each subject goes, and the refresher.",
     ],
   ],
@@ -15367,14 +15367,14 @@ function settingsView() {
     S.guide?.on === false ? "Off" : "On: each screen shows its tips the first time",
     `<label class="zrow"><input type="checkbox" data-act="guidetoggle" ${S.guide?.on === false ? "" : "checked"}><span>Show tips on each screen</span></label><p class="xs muted">Turning it on again shows every screen's tips once more. The ? at the top shows the tips for the screen you're on at any time.</p>`,
   )}
-  ${grp("day", "Times and pace", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Times and pace.</p><button class="btn soft sm" data-act="gotab" data-tab="week" data-seg="family" style="justify-self:start">Open Times and pace</button>`)}
+  ${grp("day", "Plan settings", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Plan settings.</p><button class="btn soft sm" data-act="gotab" data-tab="week" data-seg="family" style="justify-self:start">Open Plan settings</button>`)}
   ${grp("ai", "AI features", fxAIOn() ? "Unlocked" : "Locked", fxAIRow())}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(hm(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
   ${grp("sound", "Sound and reading aloud", `${soundOn ? "Sounds on" : "Sounds off"} · ${S.autoRead ? "reads each step aloud" : "read aloud on tap"}`, `<label class="zrow"><input type="checkbox" data-act="sndtoggle" ${soundOn ? "checked" : ""}><span><b class="sm">Sounds</b><br><span class="xs muted">Little chimes when things are done</span></span></label><label class="zrow"><input type="checkbox" data-act="autoread" ${S.autoRead ? "checked" : ""}><span><b class="sm">Read each lesson step aloud</b><br><span class="xs muted">Or tap 🔊 on any screen to hear it</span></span></label>`)}
   <p class="xs muted">${syncMode === "account" ? `Everything is saved privately to your DeepKids account${lastSaved ? " · last saved " + new Date(lastSaved).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : ""}. It follows you to any device where you're signed in.` : store ? "Couldn't reach your account just now. Saved on this device; it will retry." : "Saved in this browser only."}</p>`;
-  document.getElementById("sheetTitle").textContent = "Settings";
+  document.getElementById("sheetTitle").textContent = "App settings";
   return out;
 }
 const sheet = document.getElementById("sheet");
