@@ -1,0 +1,16 @@
+[
+ {
+  "uid": "26cc0b7878bb4d919b68e2be399db466",
+  "title": "The Moon",
+  "why": "Turn it and find the dark flat patches and the round craters; this is the one face we always see from Earth.",
+  "thumb": "media/models/26cc0b7878bb4d919b68e2be399db466.jpg",
+  "credit": "“moon” by RenderX, CC BY 4.0, via Sketchfab"
+ },
+ {
+  "uid": "3874805f5acc48b8a46d57495de53358",
+  "title": "The Earth",
+  "why": "Spin it to see India, the oceans and the clouds; the Moon goes round this planet once a month.",
+  "thumb": "media/models/3874805f5acc48b8a46d57495de53358.jpg",
+  "credit": "“Earth” by tamminen, CC BY 4.0, via Sketchfab"
+ }
+]

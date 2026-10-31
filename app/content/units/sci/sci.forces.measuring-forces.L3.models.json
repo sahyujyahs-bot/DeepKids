@@ -1,0 +1,16 @@
+[
+ {
+  "uid": "3874805f5acc48b8a46d57495de53358",
+  "title": "The Earth",
+  "why": "Gravity is the Earth's pull: it pulls everything toward the middle, so look at how round it is.",
+  "thumb": "media/models/3874805f5acc48b8a46d57495de53358.jpg",
+  "credit": "“Earth” by tamminen, CC BY 4.0, via Sketchfab"
+ },
+ {
+  "uid": "4db2273f6dd943b8ad7fa5e3b1b2431a",
+  "title": "The Moon",
+  "why": "The Earth and the Moon pull on each other across space; look at the craters on its rocky surface.",
+  "thumb": "media/models/4db2273f6dd943b8ad7fa5e3b1b2431a.jpg",
+  "credit": "“Moon” by Akshat, CC BY 4.0, via Sketchfab"
+ }
+]
