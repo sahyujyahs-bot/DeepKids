@@ -29,21 +29,23 @@ ILIC = {'cc0': 'CC0', 'cc-by': 'CC BY'}
 
 
 def fetch_url(url):
-    """One request to Commons at a time from this machine, at least 2.5 s apart, waiting and retrying when it is busy."""
-    if 'wikimedia.org' not in url:
+    """Requests to Commons go one at a time from this machine, at least 2.5 s apart, and to iNaturalist's API at least
+    1.2 s apart (both sites ask for this); a busy answer waits and retries."""
+    gap = 2.5 if 'wikimedia.org' in url else 1.2 if 'api.inaturalist.org' in url else 0
+    if not gap:
         return urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=90).read()
     for i in range(8):
-        with open('/tmp/dk_commons.lock', 'a+') as lk:
+        with open('/tmp/dk_commons.lock' if gap > 2 else '/tmp/dk_inat.lock', 'a+') as lk:
             fcntl.flock(lk, fcntl.LOCK_EX)
             lk.seek(0); last = float(lk.read() or 0)
-            time.sleep(max(0, last + 2.5 - time.time()))
+            time.sleep(max(0, last + gap - time.time()))
             lk.seek(0); lk.truncate(); lk.write(str(time.time())); lk.flush()
         try:
             return urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=90).read()
         except urllib.error.HTTPError as e:
             if e.code not in (429, 503): raise
             time.sleep(10 * (i + 1))
-    raise SystemExit('Commons is busy, try again in a few minutes')
+    raise SystemExit('The picture site is busy, try again in a few minutes')
 
 
 def get(params):
