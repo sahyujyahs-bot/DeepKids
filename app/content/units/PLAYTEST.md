@@ -35,7 +35,7 @@ mistake the founder or a reviewer found in a live unit.
     "Each player…"). Names belong in stories, and to real scientists.
 16. **A name in a question is introduced at first mention** ("Kavya, a girl in your class, says…"), or replaced ("A friend says…").
 17. **Pronouns match the person.** A boy is never "her"; an option never says "her" or "mine" when no such person is in the question.
-18. **Vary the names.** Not the same four names across every unit. Mostly women and girls (WRITING.md rule 27), about 60% South Indian.
+18. **Vary the names.** Not the same four names across every unit. Mostly women and girls (WRITING.md rule 27), about 60% South Indian; places, foods and festivals from all regions too (WRITING.md rule 28).
 19. **No family is assumed.** Not every child has a grandmother at home or a sister. Say "a grandparent or an older relative, if you have one",
     or leave them out of the steps.
 20. **Never "it" for a living being** (WRITING.md rule 26). One animal is "she" or "he"; "they" only for more than one, or when the sex is unknown and it reads naturally.
