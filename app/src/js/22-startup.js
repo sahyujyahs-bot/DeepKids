@@ -989,18 +989,6 @@ document.addEventListener(
   true,
 );
 document.addEventListener(
-  "click",
-  (e) => {
-    const b = e.target.closest("[data-fxsnd]");
-    if (!b) return;
-    e.preventDefault();
-    e.stopPropagation();
-    document.getElementById("snd")?.click();
-    setTimeout(render, 50);
-  },
-  true,
-);
-document.addEventListener(
   "scroll",
   (e) => {
     const c = e.target;

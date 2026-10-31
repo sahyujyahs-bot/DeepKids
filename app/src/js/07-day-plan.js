@@ -1780,6 +1780,7 @@ const fxWT = (wd) => (S.weekType || FXWT0)[wd] || "full";
 function fxWeekRow() {
   const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
     L = { full: "Full", half: "Half", free: "Free" };
-  return `<div class="field"><label>Your week (tap a day to change it)</label><div class="row" style="gap:6px;flex-wrap:wrap">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip fxwt-${fxWT(d)}" data-fxwt="${d}">${N[d]} · ${L[fxWT(d)]}</button>`).join("")}</div><p class="xs muted">Full: the whole plan. Half: short lessons. Free: no lessons that day.</p></div>
-  <div class="field"><label>Sounds</label><button class="chip" data-fxsnd="1">${document.getElementById("snd")?.getAttribute("aria-label") === "Turn sound on" ? "🔇 Off" : "🔊 On"}</button></div><div class="field"><label>AI features (chat, checking a photo of a worksheet)</label><button class="chip" data-fxai="1">${fxAIOn() ? "🔓 Unlocked" : "🔒 Locked until you top up"}</button><p class="xs muted">Top-ups are not open yet. For testing you can unlock here.</p></div>`;
+  return `<div class="field"><label>Your week (tap a day to change it)</label><div class="row" style="gap:6px;flex-wrap:wrap">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip fxwt-${fxWT(d)}" data-fxwt="${d}">${N[d]} · ${L[fxWT(d)]}</button>`).join("")}</div><p class="xs muted">Full: the whole plan. Half: short lessons. Free: no lessons that day.</p></div>`;
 }
+const fxAIRow = () =>
+  `<div class="field"><label>AI features (chat, checking a photo of a worksheet)</label><button class="chip" data-fxai="1">${fxAIOn() ? "🔓 Unlocked" : "🔒 Locked until you top up"}</button><p class="xs muted">Top-ups are not open yet. For testing you can unlock here.</p></div>`;

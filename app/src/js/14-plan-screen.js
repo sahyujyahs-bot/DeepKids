@@ -1,4 +1,4 @@
-/* Plan: Calendar, Up next, To finish, Refresher, Settings, and the work lists behind them */
+/* Plan: Calendar, Up next, To finish, Shopping, Refresher, Times and pace, and the work lists behind them */
 /* Day times: a usual routine, changes for a weekday, and changes for one date */
 const DTF = [
   ["prepAt", "Morning prep", "time"],
@@ -44,7 +44,7 @@ function dayTimesCard() {
   return `<section class="sec"><div class="sech"><h3>Day times</h3><span class="xs muted">Your usual day, and changes for some days</span></div>
    <div class="row chips"><button class="chip" aria-pressed="${sc === "all"}" data-act="dts" data-s="all">Usual</button>${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip" aria-pressed="${wd === d}" data-act="dts" data-s="w${d}">${DAYN[d]}${Object.keys((S.dayW || {})[d] || {}).length ? " ✱" : ""}</button>`).join("")}<label class="chip" aria-pressed="${isD}" style="cursor:pointer">📅 ${isD ? esc(fmt(dt)) : "A date"}<input type="date" id="dtDate" value="${dt || today}" style="width:1px;height:1px;opacity:0;position:absolute"></label></div>
    <div class="card"><p class="xs muted">${sc === "all" ? "Your usual times, every day." : wd != null ? `Every ${DAYFULL[wd]}. Change only what's different; the rest stays as usual.` : `Only on ${esc(fmt(dt))}. This beats the usual and the weekday times.`}</p>
-    <div class="fgrid">${DTF.map(field).join("")}</div>${n ? `<button class="link xs" data-act="dtreset" style="justify-self:start">Back to usual times${wd != null ? " for " + DAYN[wd] : isD ? " for this date" : ""} (${n} changed)</button>` : ""}</div>
+    <div class="fgrid">${DTF.map(field).join("")}</div>${sc === "all" ? fxWeekRow() : ""}${n ? `<button class="link xs" data-act="dtreset" style="justify-self:start">Back to usual times${wd != null ? " for " + DAYN[wd] : isD ? " for this date" : ""} (${n} changed)</button>` : ""}</div>
    ${
      Object.keys(S.dayOver || {}).filter((d) => d >= today && Object.keys(S.dayOver[d]).length).length
        ? `<p class="xs muted">Dates with their own times: ${Object.keys(S.dayOver)
@@ -972,14 +972,6 @@ function plPart(p) {
       tds = (S.todos || []).filter((x) => !x.done);
     h += `<section class="sec"><div class="sech"><h3>Classes, outings and to-dos</h3><button class="link" data-act="toplan">+ Add</button></div>${evs.length || tds.length ? `<div class="tt">${evs.map((e) => `<div class="tcard ${e.kind === "outing" ? "r-out" : "r-" + e.who}"><span class="ic">${icon("event")}</span><span class="m"><b>${esc(e.title)}</b><span>${clock(hm(e.start))} · ${e.rep === "weekly" ? "every " + e.days.map((d) => DAYN[d]).join(", ") : fmt(e.date)} · ${ROLE[e.kind === "outing" ? "out" : e.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="delev" data-e="${e.id}" aria-label="Remove ${esc(e.title)}">${icon("close")}</button></div>`).join("")}${tds.map((x) => `<div class="tcard r-${x.who}"><span class="ic">${icon("prep")}</span><span class="m"><b>${esc(x.title)}</b><span>${fmt(x.date)} · any time · ${ROLE[x.who]}</span></span><button class="iconbtn" style="width:38px;height:38px" data-act="tododel" data-t="${x.id}" aria-label="Remove ${esc(x.title)}">${icon("close")}</button></div>`).join("")}</div>` : `<p class="note">Nothing yet. Type them in “Plan your days” above, or add them by hand.</p>`}</section>`;
   }
-  if (p === "day") {
-    const d = D();
-    h += `<section class="sec"><div class="sech"><h3>Your day</h3></div><div class="card"><div class="fgrid">
-    <div class="field"><label for="dPrep">Morning prep</label><input class="inp" id="dPrep" type="time" data-dayset="prepAt" value="${d.prepAt}"></div><div class="field"><label for="dStart">Lessons start</label><input class="inp" id="dStart" type="time" data-dayset="start" value="${d.start}"></div>
-    <div class="field"><label for="dBrk">Break between</label><select class="inp" id="dBrk" data-dayset="brk">${[0, 10, 15, 20, 30].map((x) => `<option value="${x}" ${+d.brk === x ? "selected" : ""}>${x} min</option>`).join("")}</select></div>
-    <div class="field"><label for="dLunch">Lunch at</label><input class="inp" id="dLunch" type="time" data-dayset="lunch" value="${d.lunch}"></div><div class="field"><label for="dLunchM">Lunch length</label><select class="inp" id="dLunchM" data-dayset="lunchMin">${[30, 45, 60, 90].map((x) => `<option value="${x}" ${+d.lunchMin === x ? "selected" : ""}>${x} min</option>`).join("")}</select></div>
-    <div class="field"><label for="dEve">Evening prep</label><input class="inp" id="dEve" type="time" data-dayset="eveAt" value="${d.eveAt}"></div>${fxWeekRow()}<div class="field"><label for="dEnd">Learning ends by</label><input class="inp" id="dEnd" type="time" data-dayset="endAt" value="${d.endAt || "18:30"}"></div></div></div></section>`;
-  }
   if (p === "pace") {
     h += `<section class="sec"><div class="sech"><h3>Pace</h3><span class="xs muted">Change anything and the year re-plans</span></div>${S.subjects
       .map((s) => {
@@ -1251,7 +1243,7 @@ function planPart(k) {
       (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
   }
-  // how the plan is made: times, subjects, levels, pace and the refresher (Settings)
+  // how the plan is made: times, subjects, levels, pace and the refresher (Times and pace)
   if (k === "tell")
     return `<div id="paceSec">${dayFitNote()}${dayTimesCard()}${subjCard()}${profCard()}${plPart("pace")}<section class="sec">${rfTiming()}</section></div><section class="sec">${acctLine()}</section>`;
   if (k === "cal")
@@ -1320,7 +1312,7 @@ function shopView() {
        : `<p class="sm muted">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
    }</section>`;
 }
-// Plan: Calendar, Up next, To finish, Refresher and Settings
+// Plan: Calendar, Up next, To finish, Shopping, Refresher, and Times and pace
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
@@ -1346,6 +1338,7 @@ function viewPlanner() {
       planPart("pending")
     );
   if (k === "refresh") return head + `<section class="sec">${rfsetBody()}</section>` + fxPractiseAll();
+  if (k === "shop") return head + shopView();
   return head + planPart("tell");
 }
 async function runDump() {
@@ -1505,7 +1498,7 @@ function addParsed() {
   ].slice(-300);
   ui.dump = {};
   sfx("win");
-  toast(`Added ${n} to your plan · see Plan → Settings → Your classes, routines and to-dos`);
+  toast(`Added ${n} to your plan · see Plan → Calendar → To-dos and other plans`);
   commit();
 }
 const clock24 = (m) => String(Math.floor(m / 60) % 24).padStart(2, "0") + ":" + String(m % 60).padStart(2, "0");

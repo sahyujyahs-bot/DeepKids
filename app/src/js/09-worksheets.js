@@ -1172,7 +1172,7 @@ function wfGuideView() {
       `<table class="wft">${h ? `<tr>${h.map((x) => `<th>${x}</th>`).join("")}</tr>` : ""}${rows.map((r) => `<tr>${r.map((x) => `<td>${esc(x)}</td>`).join("")}</tr>`).join("")}</table>`;
   return `<p>${esc(G.intro || "")}</p>
    <section class="card"><b style="font:600 17px var(--display)">What matters most</b>${(G.principles || []).map(([t, d]) => `<p class="sm"><b>${esc(t)}.</b> ${esc(d)}</p>`).join("")}</section>
-   <section class="card"><b style="font:600 17px var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Plan → Settings → Day times.</p></section>
+   <section class="card"><b style="font:600 17px var(--display)">A Waldorf day at home</b>${tbl(G.day || [], ["", "Time", "What"])}<p class="xs muted">DeepKids plans the main lesson, Hindi and the arts each day from your Pace settings. Set times in Plan → Times and pace → Day times.</p></section>
    <section class="card"><b style="font:600 17px var(--display)">The week's arts rhythm</b>${tbl(G.week || [])}</section>
    <section class="card"><b style="font:600 17px var(--display)">The year and its festivals</b>${tbl(G.year || [])}<p class="xs muted">Keep a seasonal table: a cloth in the season's colour, and what you find outside.</p></section>
    <section class="card"><b style="font:600 17px var(--display)">What to get</b>${tbl(G.materials || [])}</section>

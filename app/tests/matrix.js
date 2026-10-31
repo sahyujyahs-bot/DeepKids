@@ -98,13 +98,6 @@ const { chromium } = require("playwright");
           } catch (e) {
             o.rf = "ERR " + e.message.slice(0, 60);
           }
-          try {
-            fxWeekList();
-            fxCoverageNote();
-            o.lists = "ok";
-          } catch (e) {
-            o.lists = "ERR " + e.message.slice(0, 60);
-          }
           return o;
         });
         for (const t of ["Today", "Plan", "Progress", "Library"]) {

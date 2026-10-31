@@ -37,7 +37,7 @@ const SEGS = {
     ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",
-      "Settings",
+      "Times and pace",
       "Lesson times, subjects, your child's level, how fast each subject goes, and the refresher.",
     ],
   ],
@@ -171,7 +171,8 @@ function settingsView() {
     S.guide?.on === false ? "Off" : "On: each screen shows its tips the first time",
     `<label class="zrow"><input type="checkbox" data-act="guidetoggle" ${S.guide?.on === false ? "" : "checked"}><span>Show tips on each screen</span></label><p class="xs muted">Turning it on again shows every screen's tips once more. The ? at the top shows the tips for the screen you're on at any time.</p>`,
   )}
-  ${grp("day", "Your day", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, plPart("day"))}
+  ${grp("day", "Times and pace", `Lessons from ${clock(hm(D().start))} · lunch ${clock(hm(D().lunch))}`, `<p class="sm">Lesson times, your week, subjects, level and pace are all in one place: Plan → Times and pace.</p><button class="btn soft sm" data-act="gotab" data-tab="week" data-seg="family" style="justify-self:start">Open Times and pace</button>`)}
+  ${grp("ai", "AI features", fxAIOn() ? "Unlocked" : "Locked", fxAIRow())}
   ${grp("cal", "Calendar link", S.cal?.on ? "Google Calendar linked" : "Not linked", calendarCard())}
   ${grp("rem", "Reminders", R.time ? `Daily at ${clock(hm(R.time))}` : "Free-time nudges on Today", remView())}
   ${grp("data", "Your data", "Save a copy, or bring one in from another device", dataBox())}
