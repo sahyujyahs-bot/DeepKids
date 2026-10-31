@@ -744,7 +744,13 @@
      "items": [
       "A pencil",
       "A steel spoon",
-      "A small apple",
+      {
+       "f": "A small apple",
+       "img": {
+        "src": "media/cards/measuring-forces-g1-0-02.jpg",
+        "credit": "Abhijit Tembhekar from Mumbai, India, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "A banana",
       "A full steel tumbler of water",
       "A 1 litre water bottle",
@@ -904,7 +910,11 @@
       },
       {
        "f": "A mosquito landing on your arm",
-       "b": "Far less than 1 newton"
+       "b": "Far less than 1 newton",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-02.jpg",
+        "credit": "chiragmunje, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A sheet of paper resting on your hand",
@@ -944,7 +954,11 @@
       },
       {
        "f": "A pet cat sitting on your lap",
-       "b": "About 40 newtons"
+       "b": "About 40 newtons",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-12.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A Class 3 child standing on the floor",
@@ -968,23 +982,43 @@
       },
       {
        "f": "A big saltwater crocodile's bite",
-       "b": "About 16,000 newtons"
+       "b": "About 16,000 newtons",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-18.jpg",
+        "credit": "Ashwin Viswanathan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An Asian elephant standing",
-       "b": "About 40,000 newtons"
+       "b": "About 40,000 newtons",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-19.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A blue whale's weight",
-       "b": "About 1,500,000 newtons"
+       "b": "About 1,500,000 newtons",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-20.jpg",
+        "credit": "steve b, CC0, via iNaturalist"
+       }
       },
       {
        "f": "The Saturn V rocket lifting off",
-       "b": "About 34,000,000 newtons"
+       "b": "About 34,000,000 newtons",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-21.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The Earth and the Moon pulling on each other",
-       "b": "About 200 million million million newtons"
+       "b": "About 200 million million million newtons",
+       "img": {
+        "src": "media/cards/measuring-forces-g2-0-22.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "MYSTERY: pick something from home and weigh it",

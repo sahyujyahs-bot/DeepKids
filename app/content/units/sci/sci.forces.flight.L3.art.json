@@ -3,6 +3,10 @@
   "src": "media/img/sci.forces.flight.L3/expl.11.jpg",
   "credit": "NASA/JPL-Caltech, public domain"
  },
+ "expl.12": {
+  "src": "media/img/sci.forces.flight.L3/expl.12.jpg",
+  "credit": "Siya ul haque, CC BY, via iNaturalist"
+ },
  "expl.6": {
   "src": "media/img/sci.forces.flight.L3/expl.6.jpg",
   "credit": "avocat, CC BY, via iNaturalist"
@@ -88,5 +92,13 @@
  "term.21": {
   "src": "media/img/sci.forces.flight.L3/term.21.jpg",
   "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.forces.flight.L3/term.3.jpg",
+  "credit": "Tejas M, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.forces.flight.L3/term.9.jpg",
+  "credit": "Tejas M, CC BY, via iNaturalist"
  }
 }
