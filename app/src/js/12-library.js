@@ -506,7 +506,7 @@ function topicOverview(u) {
     <span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p></section>`;
   h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
-    h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for full and busy days, big questions, worksheets and games. Switch in App settings.</p></section>`;
+    h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && u.board !== "dk" && m === "plus")
     h += `<section class="card"><span class="eyebrow">Suggested reading</span><p class="sm">${esc(u.book)}${chNo(u) ? ", " + chNo(u) : ""}${(u.c?.read || []).length ? "; " + u.c.read.map(esc).join("; ") : ""}</p></section>`;
   if (u.board === "gen" && (u.gen.books || []).length)
@@ -537,11 +537,10 @@ function topicOverview(u) {
   return h;
 }
 function plansTab(u) {
-  const ty = ui.ptype || "full",
-    P = planOptions(u)[ty] || [],
-    pk = ((S.planPick || {})[u.k] || {})[ty] || P[0]?.id;
-  return `<div class="seg"><button aria-pressed="${ty === "full"}" data-act="ptype" data-t="full">Full day · 3 plans</button><button aria-pressed="${ty === "busy"}" data-act="ptype" data-t="busy">Busy day · 3 plans</button></div><p class="xs muted">Pick one for ${ty === "full" ? "full" : "busy"} days. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
-   ${P.map((o, i) => `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[(i + (ty === "busy" ? 3 : 0)) % PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-t="${ty}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`).join("")}`;
+  const P = planOptions(u),
+    pk = ((S.planPick || {})[u.k] || {}).full || P[0]?.id;
+  return `<p class="xs muted">Pick one. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
+   ${P.map((o, i) => `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`).join("")}`;
 }
 function topicHits(q) {
   q = q.trim().toLowerCase();
@@ -665,8 +664,8 @@ Write one topic level for this, pitched at the right level. Keep substance; neve
 Tag it to any of these syllabus chapters that genuinely cover it (use the keys exactly; empty if none):
 ${list}
 Reply with only JSON:
-{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}],"busy":[{"name":"","idea":"","steps":[{"kind":"","title":"","mins":10,"how":""}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
-Give exactly 3 full-day plans (about 60–90 minutes each) and 3 busy-day plans (about 30 minutes each). Only list books you are sure exist. No URLs.`;
+{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
+Give exactly 3 plans (about 60–90 minutes each). Only list books you are sure exist. No URLs.`;
   try {
     const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
     if (!r || !r.name) throw { code: "invalid_json" };
@@ -681,7 +680,7 @@ Give exactly 3 full-day plans (about 60–90 minutes each) and 3 busy-day plans 
       summary: String(r.summary || "").slice(0, 1200),
       plusSummary: String(r.plusSummary || "").slice(0, 400),
       ideas: (r.ideas || []).slice(0, 5).map((x) => String(x).slice(0, 300)),
-      plans: { full: (r.plans?.full || []).slice(0, 3), busy: (r.plans?.busy || []).slice(0, 3) },
+      plans: { full: (r.plans?.full || []).slice(0, 3) },
       related: {
         prereq: (r.related?.prereq || []).slice(0, 4).map(String),
         deeper: (r.related?.deeper || []).slice(0, 4).map(String),

@@ -552,89 +552,45 @@ function planOptions(u) {
     x = c?.x,
     g = u.gen,
     t = u.topic;
-  if (g?.plans)
-    return {
-      full: (g.plans.full || []).slice(0, 3).map((o, i) => genOpt(o, "f" + (i + 1))),
-      busy: (g.plans.busy || []).slice(0, 3).map((o, i) => genOpt(o, "b" + (i + 1))),
-    };
+  if (g?.plans) return (g.plans.full || []).slice(0, 3).map((o, i) => genOpt(o, "f" + (i + 1)));
   const game = c?.game?.[0] || "The topic game",
     gameHow = c?.game?.[1] || "Play a quick game about the topic.",
     act = c?.act?.[0] || t?.sub?.[0] || "A hands-on activity about the topic.",
     exp = c?.exp?.[0] || "A small experiment or observation.",
     bq = x?.deep?.[0]?.q || t?.oneness || "What do you already know about this, and how do you know it?";
   const P = (kind, title, f, body) => ({ kind, label: KL[kind] || "Step", title, f, body });
-  return {
-    full: [
-      {
-        id: "f1",
-        name: x ? "DeepKids plan" : "Chapter day",
-        idea: x
-          ? "Our full plan: read, think, worksheet, experiments, activities, game and project."
-          : "Read the chapter together, talk about it, then try it with your hands.",
-        real: true,
-      },
-      {
-        id: "f2",
-        name: "Story and play day",
-        idea: "Start with a story, play the chapter game, end with something to make.",
-        placeholder: true,
-        parts: [
-          P("read", "Story time", 0.3, "Tell or read the story of this topic in your own words."),
-          P("game", game, 0.4, gameHow),
-          P("act", "Make it real", 0.3, act),
-        ],
-      },
-      {
-        id: "f3",
-        name: "Outdoor and make day",
-        idea: "Take it outside: observe, collect, build.",
-        placeholder: true,
-        parts: [
-          P("exp", "Go and look", 0.4, exp),
-          P("proj", "Make something", 0.4, c?.proj?.[1] || "Build a small model or poster."),
-          P("learn", "Talk it over", 0.2, bq),
-        ],
-      },
-    ],
-    busy: [
-      {
-        id: "b1",
-        name: "30-minute core",
-        idea: "The one idea that matters most, then a quick check.",
-        placeholder: true,
-        parts: [
-          P(
-            "read",
-            "The key idea",
-            0.5,
-            x?.learn?.[0] || c?.covers || t?.summary || "Read the main part of the chapter.",
-          ),
-          P("learn", "One big question", 0.3, bq),
-          P("game", "Quick check", 0.2, "Three quick questions, said aloud."),
-        ],
-      },
-      {
-        id: "b2",
-        name: "Game-only day",
-        idea: "Learn by playing. Nothing to write.",
-        placeholder: true,
-        parts: [
-          P("game", game, 0.8, gameHow),
-          P("learn", "What did we learn?", 0.2, "Each of you says one thing the game taught."),
-        ],
-      },
-      {
-        id: "b3",
-        name: "Talk and walk",
-        idea: "A walk and a conversation. No screens, no books.",
-        placeholder: true,
-        parts: [
-          P("act", "Walk and spot", 0.6, "On a short walk, look for this topic around you."),
-          P("learn", "The big question", 0.4, bq),
-        ],
-      },
-    ],
-  };
+  return [
+    {
+      id: "f1",
+      name: x ? "DeepKids plan" : "Chapter day",
+      idea: x
+        ? "Our full plan: read, think, worksheet, experiments, activities, game and project."
+        : "Read the chapter together, talk about it, then try it with your hands.",
+      real: true,
+    },
+    {
+      id: "f2",
+      name: "Story and play day",
+      idea: "Start with a story, play the chapter game, end with something to make.",
+      placeholder: true,
+      parts: [
+        P("read", "Story time", 0.3, "Tell or read the story of this topic in your own words."),
+        P("game", game, 0.4, gameHow),
+        P("act", "Make it real", 0.3, act),
+      ],
+    },
+    {
+      id: "f3",
+      name: "Outdoor and make day",
+      idea: "Take it outside: observe, collect, build.",
+      placeholder: true,
+      parts: [
+        P("exp", "Go and look", 0.4, exp),
+        P("proj", "Make something", 0.4, c?.proj?.[1] || "Build a small model or poster."),
+        P("learn", "Talk it over", 0.2, bq),
+      ],
+    },
+  ];
 }
 function genOpt(o, id) {
   const parts = (Array.isArray(o.steps) ? o.steps : []).slice(0, 6).map((s) => ({
@@ -652,9 +608,9 @@ function genOpt(o, id) {
     gen: true,
   };
 }
-const pickOf = (u, type) => {
-  const P = planOptions(u)[type] || [],
-    id = ((S.planPick || {})[u.k] || {})[type];
+const pickOf = (u) => {
+  const P = planOptions(u),
+    id = ((S.planPick || {})[u.k] || {}).full;
   return P.find((o) => o.id === id) || P[0];
 };
 function bookSteps(u, n, tot) {
@@ -685,11 +641,9 @@ function bookSteps(u, n, tot) {
   return L.map(([kind, label, title, f, html]) => ({ kind, label, title, mins: cap * f, html, name: "" }));
 }
 function optionSteps(u, n, tot, date) {
-  const type = dayTypeOf(date),
-    o = pickOf(u, type);
-  if (!o || (o.real && type === "full")) return daySteps(u, n, tot);
-  if (o.real) return daySteps(u, n, tot);
-  const total = lessonMins(u.subj, date);
+  const o = pickOf(u);
+  if (!o || o.real) return daySteps(u, n, tot);
+  const total = lessonMins(u.subj);
   return o.parts.map((p) => ({
     kind: p.kind,
     label: p.label,

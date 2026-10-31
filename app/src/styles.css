@@ -5818,9 +5818,6 @@ body.ai-locked [data-fx="photo"]::after {
   background: var(--leaf, #3f8f5f) !important;
   color: #fff;
 }
-.fxwt-half {
-  background: #f3c64b !important;
-}
 .fxwt-free {
   opacity: 0.6;
 }

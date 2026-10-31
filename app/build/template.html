@@ -5824,9 +5824,6 @@ body.ai-locked [data-fx="photo"]::after {
   background: var(--leaf, #3f8f5f) !important;
   color: #fff;
 }
-.fxwt-half {
-  background: #f3c64b !important;
-}
 .fxwt-free {
   opacity: 0.6;
 }
@@ -8812,7 +8809,7 @@ function buildDayPlan(date) {
         id: "L-" + l.s + "d" + i,
         at: l.at,
         doneAt: l.at,
-        dur: lessonMins(l.s, date),
+        dur: lessonMins(l.s),
         who: "both",
         kind: "lesson",
         s: l.s,
@@ -8826,7 +8823,7 @@ function buildDayPlan(date) {
       });
       return;
     }
-    const dur = lessonMins(l.s, date),
+    const dur = lessonMins(l.s),
       lastEnd = cur;
     if (i > 0) cur += +d.brk;
     const at = place(dur),
@@ -9591,7 +9588,7 @@ function estMins(u, n, tot) {
     const st = stepState({ u, n, tot });
     m = st.filter((x) => !x.ok).reduce((a, x) => a + (x.mins || 0), 0) * 60;
   } catch (e) {}
-  if (!m) m = lessonMins(u.subj, today);
+  if (!m) m = lessonMins(u.subj);
   const f = paceFactor();
   return { m: Math.max(5, Math.round((m * (f || 1)) / 5) * 5), own: !!f };
 }
@@ -10084,8 +10081,7 @@ const GCERR = {
   server_unavailable: "Google Calendar didn't answer. Try again in a minute.",
   tool_error: "Google Calendar couldn't send the events. Try Refresh.",
 };
-const dayTypeOf = (d) => (S.dayType || {})[d] || (fxWT(parse(d).getDay()) === "half" ? "busy" : "full");
-const lessonMins = (s, date) => (dayTypeOf(date) === "busy" ? Math.min(30, hpdOf(s) * 60) : hpdOf(s) * 60);
+const lessonMins = (s) => hpdOf(s) * 60;
 function parseICS(txt) {
   const lines = txt.replace(/\r?\n[ \t]/g, "").split(/\r?\n/),
     ev = [];
@@ -10235,12 +10231,13 @@ function prepView() {
       .join("")
   );
 }
-const FXWT0 = { 0: "free", 1: "full", 2: "full", 3: "full", 4: "full", 5: "full", 6: "half" };
-const fxWT = (wd) => (S.weekType || FXWT0)[wd] || "full";
+const FXWT0 = { 0: "free", 1: "full", 2: "full", 3: "full", 4: "full", 5: "full", 6: "full" };
+// a lesson day ("full") or a free day with no lessons
+const fxWT = (wd) => ((S.weekType || FXWT0)[wd] === "free" ? "free" : "full");
 function fxWeekRow() {
   const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-    L = { full: "Full", half: "Half", free: "Free" };
-  return `<div class="field"><label>Your week (tap a day to change it)</label><div class="row" style="gap:6px;flex-wrap:wrap">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip fxwt-${fxWT(d)}" data-fxwt="${d}">${N[d]} · ${L[fxWT(d)]}</button>`).join("")}</div><p class="xs muted">Full: the whole plan. Half: short lessons. Free: no lessons that day.</p></div>`;
+    L = { full: "Lessons", free: "Free" };
+  return `<div class="field"><label>Your week (tap a day to change it)</label><div class="row" style="gap:6px;flex-wrap:wrap">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip fxwt-${fxWT(d)}" data-fxwt="${d}">${N[d]} · ${L[fxWT(d)]}</button>`).join("")}</div><p class="xs muted">Free: no lessons that day.</p></div>`;
 }
 const fxAIRow = () =>
   `<div class="field"><label>AI features (chat, checking a photo of a worksheet)</label><button class="chip" data-fxai="1">${fxAIOn() ? "🔓 Unlocked" : "🔒 Locked until you top up"}</button><p class="xs muted">Top-ups are not open yet. For testing you can unlock here.</p></div>`;
@@ -10799,89 +10796,45 @@ function planOptions(u) {
     x = c?.x,
     g = u.gen,
     t = u.topic;
-  if (g?.plans)
-    return {
-      full: (g.plans.full || []).slice(0, 3).map((o, i) => genOpt(o, "f" + (i + 1))),
-      busy: (g.plans.busy || []).slice(0, 3).map((o, i) => genOpt(o, "b" + (i + 1))),
-    };
+  if (g?.plans) return (g.plans.full || []).slice(0, 3).map((o, i) => genOpt(o, "f" + (i + 1)));
   const game = c?.game?.[0] || "The topic game",
     gameHow = c?.game?.[1] || "Play a quick game about the topic.",
     act = c?.act?.[0] || t?.sub?.[0] || "A hands-on activity about the topic.",
     exp = c?.exp?.[0] || "A small experiment or observation.",
     bq = x?.deep?.[0]?.q || t?.oneness || "What do you already know about this, and how do you know it?";
   const P = (kind, title, f, body) => ({ kind, label: KL[kind] || "Step", title, f, body });
-  return {
-    full: [
-      {
-        id: "f1",
-        name: x ? "DeepKids plan" : "Chapter day",
-        idea: x
-          ? "Our full plan: read, think, worksheet, experiments, activities, game and project."
-          : "Read the chapter together, talk about it, then try it with your hands.",
-        real: true,
-      },
-      {
-        id: "f2",
-        name: "Story and play day",
-        idea: "Start with a story, play the chapter game, end with something to make.",
-        placeholder: true,
-        parts: [
-          P("read", "Story time", 0.3, "Tell or read the story of this topic in your own words."),
-          P("game", game, 0.4, gameHow),
-          P("act", "Make it real", 0.3, act),
-        ],
-      },
-      {
-        id: "f3",
-        name: "Outdoor and make day",
-        idea: "Take it outside: observe, collect, build.",
-        placeholder: true,
-        parts: [
-          P("exp", "Go and look", 0.4, exp),
-          P("proj", "Make something", 0.4, c?.proj?.[1] || "Build a small model or poster."),
-          P("learn", "Talk it over", 0.2, bq),
-        ],
-      },
-    ],
-    busy: [
-      {
-        id: "b1",
-        name: "30-minute core",
-        idea: "The one idea that matters most, then a quick check.",
-        placeholder: true,
-        parts: [
-          P(
-            "read",
-            "The key idea",
-            0.5,
-            x?.learn?.[0] || c?.covers || t?.summary || "Read the main part of the chapter.",
-          ),
-          P("learn", "One big question", 0.3, bq),
-          P("game", "Quick check", 0.2, "Three quick questions, said aloud."),
-        ],
-      },
-      {
-        id: "b2",
-        name: "Game-only day",
-        idea: "Learn by playing. Nothing to write.",
-        placeholder: true,
-        parts: [
-          P("game", game, 0.8, gameHow),
-          P("learn", "What did we learn?", 0.2, "Each of you says one thing the game taught."),
-        ],
-      },
-      {
-        id: "b3",
-        name: "Talk and walk",
-        idea: "A walk and a conversation. No screens, no books.",
-        placeholder: true,
-        parts: [
-          P("act", "Walk and spot", 0.6, "On a short walk, look for this topic around you."),
-          P("learn", "The big question", 0.4, bq),
-        ],
-      },
-    ],
-  };
+  return [
+    {
+      id: "f1",
+      name: x ? "DeepKids plan" : "Chapter day",
+      idea: x
+        ? "Our full plan: read, think, worksheet, experiments, activities, game and project."
+        : "Read the chapter together, talk about it, then try it with your hands.",
+      real: true,
+    },
+    {
+      id: "f2",
+      name: "Story and play day",
+      idea: "Start with a story, play the chapter game, end with something to make.",
+      placeholder: true,
+      parts: [
+        P("read", "Story time", 0.3, "Tell or read the story of this topic in your own words."),
+        P("game", game, 0.4, gameHow),
+        P("act", "Make it real", 0.3, act),
+      ],
+    },
+    {
+      id: "f3",
+      name: "Outdoor and make day",
+      idea: "Take it outside: observe, collect, build.",
+      placeholder: true,
+      parts: [
+        P("exp", "Go and look", 0.4, exp),
+        P("proj", "Make something", 0.4, c?.proj?.[1] || "Build a small model or poster."),
+        P("learn", "Talk it over", 0.2, bq),
+      ],
+    },
+  ];
 }
 function genOpt(o, id) {
   const parts = (Array.isArray(o.steps) ? o.steps : []).slice(0, 6).map((s) => ({
@@ -10899,9 +10852,9 @@ function genOpt(o, id) {
     gen: true,
   };
 }
-const pickOf = (u, type) => {
-  const P = planOptions(u)[type] || [],
-    id = ((S.planPick || {})[u.k] || {})[type];
+const pickOf = (u) => {
+  const P = planOptions(u),
+    id = ((S.planPick || {})[u.k] || {}).full;
   return P.find((o) => o.id === id) || P[0];
 };
 function bookSteps(u, n, tot) {
@@ -10932,11 +10885,9 @@ function bookSteps(u, n, tot) {
   return L.map(([kind, label, title, f, html]) => ({ kind, label, title, mins: cap * f, html, name: "" }));
 }
 function optionSteps(u, n, tot, date) {
-  const type = dayTypeOf(date),
-    o = pickOf(u, type);
-  if (!o || (o.real && type === "full")) return daySteps(u, n, tot);
-  if (o.real) return daySteps(u, n, tot);
-  const total = lessonMins(u.subj, date);
+  const o = pickOf(u);
+  if (!o || o.real) return daySteps(u, n, tot);
+  const total = lessonMins(u.subj);
   return o.parts.map((p) => ({
     kind: p.kind,
     label: p.label,
@@ -15746,7 +15697,7 @@ function topicOverview(u) {
     <span class="eyebrow" style="margin-top:4px">Summary</span><p>${esc(summaryOf(u))}</p></section>`;
   h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
-    h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for full and busy days, big questions, worksheets and games. Switch in App settings.</p></section>`;
+    h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
   if (u.board !== "gen" && u.board !== "dk" && m === "plus")
     h += `<section class="card"><span class="eyebrow">Suggested reading</span><p class="sm">${esc(u.book)}${chNo(u) ? ", " + chNo(u) : ""}${(u.c?.read || []).length ? "; " + u.c.read.map(esc).join("; ") : ""}</p></section>`;
   if (u.board === "gen" && (u.gen.books || []).length)
@@ -15777,11 +15728,10 @@ function topicOverview(u) {
   return h;
 }
 function plansTab(u) {
-  const ty = ui.ptype || "full",
-    P = planOptions(u)[ty] || [],
-    pk = ((S.planPick || {})[u.k] || {})[ty] || P[0]?.id;
-  return `<div class="seg"><button aria-pressed="${ty === "full"}" data-act="ptype" data-t="full">Full day · 3 plans</button><button aria-pressed="${ty === "busy"}" data-act="ptype" data-t="busy">Busy day · 3 plans</button></div><p class="xs muted">Pick one for ${ty === "full" ? "full" : "busy"} days. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
-   ${P.map((o, i) => `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[(i + (ty === "busy" ? 3 : 0)) % PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-t="${ty}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`).join("")}`;
+  const P = planOptions(u),
+    pk = ((S.planPick || {})[u.k] || {}).full || P[0]?.id;
+  return `<p class="xs muted">Pick one. The plans you don't pick come back as games, refreshers and jokes on other days.</p>
+   ${P.map((o, i) => `<section class="card optcard ${o.id === pk ? "chosen" : ""}" style="--c:${PAL[i % PAL.length]}"><div class="sech"><b style="font:600 18px var(--display)">${esc(o.name)}</b>${o.id === pk ? `<span class="pill completed">Chosen</span>` : o.placeholder ? `<span class="pill">Placeholder</span>` : o.gen ? `<span class="pill learning">Claude draft</span>` : ""}</div><p class="sm">${esc(o.idea)}</p>${o.parts ? `<ol class="dsteps">${o.parts.map((p) => `<li><span>${esc(p.label)}</span><b>${esc(p.title)}</b><i>${p.mins ? p.mins + " min" : Math.round(p.f * 100) + "%"}</i></li>`).join("")}</ol>` : `<p class="xs muted">${sessionsFor(u)} lesson days, step by step.</p>`}${o.id !== pk ? `<button class="btn sm" data-act="ppick" data-k="${u.k}" data-o="${o.id}" style="justify-self:start">Use this plan</button>` : ""}</section>`).join("")}`;
 }
 function topicHits(q) {
   q = q.trim().toLowerCase();
@@ -15905,8 +15855,8 @@ Write one topic level for this, pitched at the right level. Keep substance; neve
 Tag it to any of these syllabus chapters that genuinely cover it (use the keys exactly; empty if none):
 ${list}
 Reply with only JSON:
-{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}],"busy":[{"name":"","idea":"","steps":[{"kind":"","title":"","mins":10,"how":""}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
-Give exactly 3 full-day plans (about 60–90 minutes each) and 3 busy-day plans (about 30 minutes each). Only list books you are sure exist. No URLs.`;
+{"name":"","subj":"math|eng|hin|sci","subjects":["math|eng|hin|sci"],"level":1,"hours":3,"tags":["key"],"summary":"3-4 sentences","plusSummary":"1-2 sentences, the wonder of it","ideas":["challenging idea","another","a contrarian view"],"plans":{"full":[{"name":"","idea":"","steps":[{"kind":"read|learn|exp|act|game|proj","title":"","mins":20,"how":"what to do, concretely"}]}]},"related":{"prereq":["topic name"],"deeper":["topic name"],"wider":["topic name"]},"books":[{"title":"","author":"","why":""}]}
+Give exactly 3 plans (about 60–90 minutes each). Only list books you are sure exist. No URLs.`;
   try {
     const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
     if (!r || !r.name) throw { code: "invalid_json" };
@@ -15921,7 +15871,7 @@ Give exactly 3 full-day plans (about 60–90 minutes each) and 3 busy-day plans 
       summary: String(r.summary || "").slice(0, 1200),
       plusSummary: String(r.plusSummary || "").slice(0, 400),
       ideas: (r.ideas || []).slice(0, 5).map((x) => String(x).slice(0, 300)),
-      plans: { full: (r.plans?.full || []).slice(0, 3), busy: (r.plans?.busy || []).slice(0, 3) },
+      plans: { full: (r.plans?.full || []).slice(0, 3) },
       related: {
         prereq: (r.related?.prereq || []).slice(0, 4).map(String),
         deeper: (r.related?.deeper || []).slice(0, 4).map(String),
@@ -16731,8 +16681,7 @@ function moreView() {
   const du = dailyUnit(),
     open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
-  let h = `<section class="card"><span class="eyebrow">Today is a</span><div class="whos"><button aria-pressed="${dayTypeOf(today) === "full"}" data-act="daytype" data-t="full">Full day</button><button aria-pressed="${dayTypeOf(today) === "busy"}" data-act="daytype" data-t="busy">Busy day</button></div><p class="xs muted">On a busy day, each lesson shrinks to its short version, about 30 minutes, so the day still fits.</p></section>`;
-  h += `<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
+  let h = `<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
   h += `<button class="menurow" data-act="games">${blob("var(--gum)", 21, "wow", "", 'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
   if (du)
     h += `<div class="hs">${du.c.x.jokes
@@ -17236,7 +17185,7 @@ function fxTodayTop(animate) {
   S.log
     .filter((l) => l.date >= mon && l.date <= today && l.kind !== "skipped")
     .forEach((l) => {
-      const m = lessonMins(l.subj, l.date);
+      const m = lessonMins(l.subj);
       planned += m;
       if (!timed[l.date + "|" + l.subj]) timed[l.date + "|" + l.subj] = m;
     });
@@ -20056,7 +20005,7 @@ function trackData() {
       if (l.kind === "free" && !l.title) return;
       const x = day(l.date),
         u = unitByK(l.key);
-      if (!x.m[l.subj] && l.kind !== "skipped") add(l.date, l.subj, "e", lessonMins(l.subj, l.date));
+      if (!x.m[l.subj] && l.kind !== "skipped") add(l.date, l.subj, "e", lessonMins(l.subj));
       x.did.push({ t: "lesson", s: l.subj, u, n: l.n, title: l.title, at: l.at, sk: l.kind === "skipped" });
     });
   Object.entries(S.tasks || {}).forEach(([k, o]) =>
@@ -21218,9 +21167,9 @@ function viewOnboarding() {
   }
   if (s === 4) {
     const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-      L = { full: "Full day", half: "Half day", free: "Free" },
+      L = { full: "Lessons", free: "Free day" },
       W = d.weekType || FXWT0;
-    return `<div class="ob">${fxObBar(4)}<h1>Your week</h1><p class="muted">Tap a day to change it. Full days get the whole plan, half days get short lessons, free days have no lessons.</p><div class="col" style="gap:8px">${[1, 2, 3, 4, 5, 6, 0].map((x) => `<button type="button" class="choice" data-obwt="${x}"><span><b>${N[x]}</b><span>${L[W[x] || "full"]}</span></span></button>`).join("")}</div>
+    return `<div class="ob">${fxObBar(4)}<h1>Your week</h1><p class="muted">Tap a day to make it a free day, with no lessons.</p><div class="col" style="gap:8px">${[1, 2, 3, 4, 5, 6, 0].map((x) => `<button type="button" class="choice" data-obwt="${x}"><span><b>${N[x]}</b><span>${L[W[x] || "full"]}</span></span></button>`).join("")}</div>
     <div class="field"><label for="obEnd">Learning ends by</label><input class="inp" id="obEnd" type="time" value="${d.endAt || "18:30"}"></div>${fxObNav(true, "Continue")}</div>`;
   }
   {
@@ -21298,7 +21247,7 @@ function obNext() {
     setTimeout(
       () =>
         toast(
-          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Plan settings.`,
+          `⏰ Your plan needs about ${hmTxt(f.need)} on a lesson day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Plan settings.`,
           8000,
         ),
       1200,
@@ -23516,26 +23465,13 @@ function onAct(e) {
       openSheet({ mode: "jr", p: b.dataset.p });
       break;
     }
-    case "daytype": {
-      S.dayType = { ...(S.dayType || {}), [today]: b.dataset.t };
-      sfx("tick");
-      toast(b.dataset.t === "busy" ? "Busy day: shorter lessons" : "Full day");
-      commit();
-      break;
-    }
     case "learn": {
       sfx("flip");
       openSheet({ mode: "learn" });
       break;
     }
-    case "ptype": {
-      ui.ptype = b.dataset.t;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
     case "ppick": {
-      S.planPick = { ...(S.planPick || {}), [k]: { ...((S.planPick || {})[k] || {}), [b.dataset.t]: b.dataset.o } };
+      S.planPick = { ...(S.planPick || {}), [k]: { full: b.dataset.o } };
       sfx("ok");
       toast("Plan chosen");
       commit();
@@ -26552,7 +26488,7 @@ document.addEventListener(
       e.preventDefault();
       e.stopPropagation();
       const d = +b.dataset.fxwt,
-        nx = { full: "half", half: "free", free: "full" }[fxWT(d)];
+        nx = fxWT(d) === "free" ? "full" : "free";
       S.weekType = { ...(S.weekType || FXWT0), [d]: nx };
       commit();
       render();
@@ -26621,7 +26557,7 @@ document.addEventListener(
       e.stopPropagation();
       const x = +wt.dataset.obwt,
         W = { ...(d.weekType || FXWT0) };
-      W[x] = { full: "half", half: "free", free: "full" }[W[x] || "full"];
+      W[x] = W[x] === "free" ? "full" : "free";
       d.weekType = W;
       render();
       return;

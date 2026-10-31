@@ -406,7 +406,7 @@ function buildDayPlan(date) {
         id: "L-" + l.s + "d" + i,
         at: l.at,
         doneAt: l.at,
-        dur: lessonMins(l.s, date),
+        dur: lessonMins(l.s),
         who: "both",
         kind: "lesson",
         s: l.s,
@@ -420,7 +420,7 @@ function buildDayPlan(date) {
       });
       return;
     }
-    const dur = lessonMins(l.s, date),
+    const dur = lessonMins(l.s),
       lastEnd = cur;
     if (i > 0) cur += +d.brk;
     const at = place(dur),
@@ -1185,7 +1185,7 @@ function estMins(u, n, tot) {
     const st = stepState({ u, n, tot });
     m = st.filter((x) => !x.ok).reduce((a, x) => a + (x.mins || 0), 0) * 60;
   } catch (e) {}
-  if (!m) m = lessonMins(u.subj, today);
+  if (!m) m = lessonMins(u.subj);
   const f = paceFactor();
   return { m: Math.max(5, Math.round((m * (f || 1)) / 5) * 5), own: !!f };
 }
@@ -1678,8 +1678,7 @@ const GCERR = {
   server_unavailable: "Google Calendar didn't answer. Try again in a minute.",
   tool_error: "Google Calendar couldn't send the events. Try Refresh.",
 };
-const dayTypeOf = (d) => (S.dayType || {})[d] || (fxWT(parse(d).getDay()) === "half" ? "busy" : "full");
-const lessonMins = (s, date) => (dayTypeOf(date) === "busy" ? Math.min(30, hpdOf(s) * 60) : hpdOf(s) * 60);
+const lessonMins = (s) => hpdOf(s) * 60;
 function parseICS(txt) {
   const lines = txt.replace(/\r?\n[ \t]/g, "").split(/\r?\n/),
     ev = [];
@@ -1829,12 +1828,13 @@ function prepView() {
       .join("")
   );
 }
-const FXWT0 = { 0: "free", 1: "full", 2: "full", 3: "full", 4: "full", 5: "full", 6: "half" };
-const fxWT = (wd) => (S.weekType || FXWT0)[wd] || "full";
+const FXWT0 = { 0: "free", 1: "full", 2: "full", 3: "full", 4: "full", 5: "full", 6: "full" };
+// a lesson day ("full") or a free day with no lessons
+const fxWT = (wd) => ((S.weekType || FXWT0)[wd] === "free" ? "free" : "full");
 function fxWeekRow() {
   const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-    L = { full: "Full", half: "Half", free: "Free" };
-  return `<div class="field"><label>Your week (tap a day to change it)</label><div class="row" style="gap:6px;flex-wrap:wrap">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip fxwt-${fxWT(d)}" data-fxwt="${d}">${N[d]} · ${L[fxWT(d)]}</button>`).join("")}</div><p class="xs muted">Full: the whole plan. Half: short lessons. Free: no lessons that day.</p></div>`;
+    L = { full: "Lessons", free: "Free" };
+  return `<div class="field"><label>Your week (tap a day to change it)</label><div class="row" style="gap:6px;flex-wrap:wrap">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button class="chip fxwt-${fxWT(d)}" data-fxwt="${d}">${N[d]} · ${L[fxWT(d)]}</button>`).join("")}</div><p class="xs muted">Free: no lessons that day.</p></div>`;
 }
 const fxAIRow = () =>
   `<div class="field"><label>AI features (chat, checking a photo of a worksheet)</label><button class="chip" data-fxai="1">${fxAIOn() ? "🔓 Unlocked" : "🔒 Locked until you top up"}</button><p class="xs muted">Top-ups are not open yet. For testing you can unlock here.</p></div>`;

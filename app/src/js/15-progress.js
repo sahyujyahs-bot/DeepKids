@@ -968,7 +968,7 @@ function trackData() {
       if (l.kind === "free" && !l.title) return;
       const x = day(l.date),
         u = unitByK(l.key);
-      if (!x.m[l.subj] && l.kind !== "skipped") add(l.date, l.subj, "e", lessonMins(l.subj, l.date));
+      if (!x.m[l.subj] && l.kind !== "skipped") add(l.date, l.subj, "e", lessonMins(l.subj));
       x.did.push({ t: "lesson", s: l.subj, u, n: l.n, title: l.title, at: l.at, sk: l.kind === "skipped" });
     });
   Object.entries(S.tasks || {}).forEach(([k, o]) =>

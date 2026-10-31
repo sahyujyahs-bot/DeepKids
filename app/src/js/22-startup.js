@@ -856,7 +856,7 @@ document.addEventListener(
       e.preventDefault();
       e.stopPropagation();
       const d = +b.dataset.fxwt,
-        nx = { full: "half", half: "free", free: "full" }[fxWT(d)];
+        nx = fxWT(d) === "free" ? "full" : "free";
       S.weekType = { ...(S.weekType || FXWT0), [d]: nx };
       commit();
       render();
@@ -925,7 +925,7 @@ document.addEventListener(
       e.stopPropagation();
       const x = +wt.dataset.obwt,
         W = { ...(d.weekType || FXWT0) };
-      W[x] = { full: "half", half: "free", free: "full" }[W[x] || "full"];
+      W[x] = W[x] === "free" ? "full" : "free";
       d.weekType = W;
       render();
       return;

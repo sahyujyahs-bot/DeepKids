@@ -377,26 +377,13 @@ function onAct(e) {
       openSheet({ mode: "jr", p: b.dataset.p });
       break;
     }
-    case "daytype": {
-      S.dayType = { ...(S.dayType || {}), [today]: b.dataset.t };
-      sfx("tick");
-      toast(b.dataset.t === "busy" ? "Busy day: shorter lessons" : "Full day");
-      commit();
-      break;
-    }
     case "learn": {
       sfx("flip");
       openSheet({ mode: "learn" });
       break;
     }
-    case "ptype": {
-      ui.ptype = b.dataset.t;
-      sfx("tap");
-      renderSheet();
-      break;
-    }
     case "ppick": {
-      S.planPick = { ...(S.planPick || {}), [k]: { ...((S.planPick || {})[k] || {}), [b.dataset.t]: b.dataset.o } };
+      S.planPick = { ...(S.planPick || {}), [k]: { full: b.dataset.o } };
       sfx("ok");
       toast("Plan chosen");
       commit();

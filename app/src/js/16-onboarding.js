@@ -126,9 +126,9 @@ function viewOnboarding() {
   }
   if (s === 4) {
     const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-      L = { full: "Full day", half: "Half day", free: "Free" },
+      L = { full: "Lessons", free: "Free day" },
       W = d.weekType || FXWT0;
-    return `<div class="ob">${fxObBar(4)}<h1>Your week</h1><p class="muted">Tap a day to change it. Full days get the whole plan, half days get short lessons, free days have no lessons.</p><div class="col" style="gap:8px">${[1, 2, 3, 4, 5, 6, 0].map((x) => `<button type="button" class="choice" data-obwt="${x}"><span><b>${N[x]}</b><span>${L[W[x] || "full"]}</span></span></button>`).join("")}</div>
+    return `<div class="ob">${fxObBar(4)}<h1>Your week</h1><p class="muted">Tap a day to make it a free day, with no lessons.</p><div class="col" style="gap:8px">${[1, 2, 3, 4, 5, 6, 0].map((x) => `<button type="button" class="choice" data-obwt="${x}"><span><b>${N[x]}</b><span>${L[W[x] || "full"]}</span></span></button>`).join("")}</div>
     <div class="field"><label for="obEnd">Learning ends by</label><input class="inp" id="obEnd" type="time" value="${d.endAt || "18:30"}"></div>${fxObNav(true, "Continue")}</div>`;
   }
   {
@@ -206,7 +206,7 @@ function obNext() {
     setTimeout(
       () =>
         toast(
-          `⏰ Your plan needs about ${hmTxt(f.need)} on a busy day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Plan settings.`,
+          `⏰ Your plan needs about ${hmTxt(f.need)} on a lesson day, but your day is ${hmTxt(f.have)}. Change the times in Plan → Plan settings.`,
           8000,
         ),
       1200,
