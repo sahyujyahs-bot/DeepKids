@@ -512,7 +512,7 @@ async function qGen() {
   renderSheet();
   const prompt = `You write quiz questions for a home-schooled Indian child in Class ${S.levels?.math || 3}. For each chapter below, write 5 short multiple-choice questions that check what the chapter teaches. Each has 4 options and exactly one right answer. Simple words.\n${U.map((u) => `k: ${u.k} | ${SUBJ[u.subj]} | ${u.book} | ${chT(u)}`).join("\n")}\nReply with only JSON: {"chapters":[{"k":"...","questions":[{"q":"...","opts":["a","b","c","d"],"ans":0}]}]}`;
   try {
-    const r = await SAMPLE.json(prompt, { modelTier: "default" }),
+    const r = await SAMPLE.json(prompt, { modelTier: "quick" }),
       ok = new Set(U.map((u) => u.k));
     S.qgen = S.qgen || {};
     (r?.chapters || []).forEach((c) => {

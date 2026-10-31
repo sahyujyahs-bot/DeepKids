@@ -1,4 +1,28 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.light.living-light.L3/expl.1.jpg",
+  "credit": "Ken-ichi Ueda, CC BY, via iNaturalist"
+ },
+ "expl.10": {
+  "src": "media/img/sci.light.living-light.L3/expl.10.jpg",
+  "credit": "Cheng-Tao Lin, CC BY, via iNaturalist"
+ },
+ "expl.5": {
+  "src": "media/img/sci.light.living-light.L3/expl.5.jpg",
+  "credit": "Cheng-Tao Lin, CC BY, via iNaturalist"
+ },
+ "expl.6": {
+  "src": "media/img/sci.light.living-light.L3/expl.6.jpg",
+  "credit": "Cheng-Tao Lin, CC BY, via iNaturalist"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.light.living-light.L3/flow.a1.jpg",
+  "credit": "Snow64 (talk), Public domain, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.light.living-light.L3/intro.jpg",
+  "credit": "Caleb Catto, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.light.living-light.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +58,45 @@
  "setup.e3.2": {
   "src": "media/img/sci.light.living-light.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.light.living-light.L3/summary.jpg",
+  "credit": "RT, CC BY, via iNaturalist"
+ },
+ "term.0": {
+  "src": "media/img/sci.light.living-light.L3/term.0.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
+ "term.10": {
+  "src": "media/img/sci.light.living-light.L3/term.10.jpg",
+  "credit": "Chen Jia Hong, CC BY, via iNaturalist"
+ },
+ "term.11": {
+  "src": "media/img/sci.light.living-light.L3/term.11.jpg",
+  "credit": "Cheng-Tao Lin, CC BY, via iNaturalist"
+ },
+ "term.17": {
+  "src": "media/img/sci.light.living-light.L3/term.17.jpg",
+  "credit": "Charlotte Kirchner, CC BY, via iNaturalist"
+ },
+ "term.18": {
+  "src": "media/img/sci.light.living-light.L3/term.18.jpg",
+  "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.20": {
+  "src": "media/img/sci.light.living-light.L3/term.20.jpg",
+  "credit": "Parth Kansara, CC BY, via iNaturalist"
+ },
+ "term.21": {
+  "src": "media/img/sci.light.living-light.L3/term.21.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.8": {
+  "src": "media/img/sci.light.living-light.L3/term.8.jpg",
+  "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.light.living-light.L3/term.9.jpg",
+  "credit": "Boson, CC BY, via iNaturalist"
  }
 }

@@ -13032,7 +13032,7 @@ async function qGen() {
   renderSheet();
   const prompt = `You write quiz questions for a home-schooled Indian child in Class ${S.levels?.math || 3}. For each chapter below, write 5 short multiple-choice questions that check what the chapter teaches. Each has 4 options and exactly one right answer. Simple words.\n${U.map((u) => `k: ${u.k} | ${SUBJ[u.subj]} | ${u.book} | ${chT(u)}`).join("\n")}\nReply with only JSON: {"chapters":[{"k":"...","questions":[{"q":"...","opts":["a","b","c","d"],"ans":0}]}]}`;
   try {
-    const r = await SAMPLE.json(prompt, { modelTier: "default" }),
+    const r = await SAMPLE.json(prompt, { modelTier: "quick" }),
       ok = new Set(U.map((u) => u.k));
     S.qgen = S.qgen || {};
     (r?.chapters || []).forEach((c) => {
@@ -15328,7 +15328,7 @@ function invCard() {
   return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px">${blob("var(--gum)", 7, "wow", "", 'width="48" height="48"')}<div><h3 style="font-size:19px">Tell us what you have</h3><p class="xs muted">Type a list, say it with your keyboard's mic, or add photos of a shelf, book covers or game boxes. We sort it into books, games and more, and tag each to the chapters it helps with.</p></div></div>
    <textarea class="inp" id="invText" placeholder="Ruskin Bond's The Blue Umbrella, a magnifying glass, Ludo, Snakes and Ladders, a globe, Tinkle comics, a kids' microscope, 2 bar magnets">${esc(D_.text || "")}</textarea>
    <div class="row">${IMGOK ? `<label class="btn soft sm" style="cursor:pointer">${icon("plus")}Photos<input type="file" id="invImg" accept="image/*" multiple hidden></label>` : lockBtn("shelf", "btn soft sm", "📷 Photos")}<span class="xs muted">${D_.files?.length ? D_.files.length + " photo" + (D_.files.length > 1 ? "s" : "") + " added" : ""}</span><button class="btn sm" data-act="isort" style="margin-left:auto" ${D_.busy ? "disabled" : ""}>${D_.busy ? "Sorting…" : "Sort it in"}</button></div>
-   ${SAMPLE ? "" : `<p class="xs muted">Sorting needs Claude, which isn't available in this view. Add things one by one below.</p>`}${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
+   ${SAMPLE ? "" : `<p class="xs muted">A typed list is sorted on this phone. Reading photos is part of DeepKids Plus.</p>`}${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px">${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="ikeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div style="min-width:0"><b style="font:600 16px var(--display)">${esc(it.name)}</b><p class="xs muted">${esc([CATS[it.cat] || "Other", it.by, it.kind, it.ages].filter(Boolean).join(" · "))}</p>${(it.chapters || []).length ? `<div class="row chips">${it.chapters.map(unitByK).filter(Boolean).slice(0, 3).map(chipK).join("")}</div>` : ""}</div></div>`).join("")}<div class="row"><button class="btn green" data-act="iadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length}</button><button class="btn line sm" data-act="iclear">Clear</button></div></div>` : ""}</section>`;
 }
 // the lessons planned for this year and after, in order, so each thing owned is matched to the lesson it will be used in
@@ -15339,13 +15339,54 @@ function invContext() {
     .map((u) => `${u.k} = ${unitLabel(u)}`)
     .join("\n");
 }
+// a typed list of things the family owns, read on the phone: one thing per comma, line or "and", sorted by what it is
+const INVCAT = [
+  ["book", /\b(book|books|reader|encyclop|atlas|comic|magazine|dictionary|storybook|workbook|series)\b/i],
+  ["game", /\b(game|games|cards|puzzle|jigsaw|lego|blocks|chess|ludo|carrom|uno|monopoly|scrabble|domino)/i],
+  ["electronics", /\b(tablet|laptop|computer|kindle|phone|ipad|speaker|tv|television)\b/i],
+  [
+    "equipment",
+    /\b(microscope|magnif|telescope|globe|kit|scale|thermometer|magnet|prism|binocular|abacus|ruler|compass|stethoscope)/i,
+  ],
+  ["tool", /\b(scissors|hammer|screwdriver|tool|glue|stapler|saw|pliers)\b/i],
+];
+function invLocal(text) {
+  return text
+    .split(/\n|,|;|\band\b/i)
+    .map((t) =>
+      t
+        .trim()
+        .replace(/^(we|i)\s+(have|own|got|bought)\s+/i, "")
+        .replace(/^(a|an|the|some|our|my)\s+/i, "")
+        .replace(/[.!]+$/, ""),
+    )
+    .filter((t) => t.length > 1)
+    .map((name) => ({
+      name: name[0].toUpperCase() + name.slice(1, 80),
+      cat: (INVCAT.find(([, re]) => re.test(name)) || ["other"])[0],
+      by: "",
+      kind: "",
+      ages: "",
+      note: "",
+      chapters: [],
+      concepts: [],
+      keep: true,
+    }));
+}
 async function runInvSort() {
   const ta = document.getElementById("invText"),
     text = (ta?.value || "").trim(),
     D_ = (ui.idump = ui.idump || {});
   D_.text = text;
+  // a typed list is sorted on the phone; AI only reads photos of shelves and covers
+  if (!D_.files?.length) {
+    D_.items = invLocal(text);
+    D_.err = D_.items.length ? "" : "Type what you have, like “a microscope, Lego, Ganit Mala books”.";
+    sfx(D_.items.length ? "ok" : "no");
+    return render();
+  }
   if (!SAMPLE) {
-    D_.err = "Sorting needs Claude, which isn't available in this view.";
+    D_.err = "Reading a photo is part of DeepKids Plus. Type the names instead and they're added right away.";
     return render();
   }
   if (!text && !D_.files?.length) {
@@ -19083,7 +19124,7 @@ Write exactly ${N} multiple-choice questions for ${SUBJ[s]}.
 Check every answer again before replying.
 Reply with only JSON: {"questions":[{"q":"...","opts":["...","...","...","..."],"a":0,"ch":"<chapter key>","skill":"recall|understand|apply","passage":""}]}`;
     try {
-      const r = await SAMPLE.json(prompt, { modelTier: "complex", cache: false });
+      const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
       const qs = (r?.questions || [])
         .filter(
           (q) =>

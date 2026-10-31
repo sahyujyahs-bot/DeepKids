@@ -308,7 +308,7 @@ Write exactly ${N} multiple-choice questions for ${SUBJ[s]}.
 Check every answer again before replying.
 Reply with only JSON: {"questions":[{"q":"...","opts":["...","...","...","..."],"a":0,"ch":"<chapter key>","skill":"recall|understand|apply","passage":""}]}`;
     try {
-      const r = await SAMPLE.json(prompt, { modelTier: "complex", cache: false });
+      const r = await SAMPLE.json(prompt, { modelTier: "default", cache: false });
       const qs = (r?.questions || [])
         .filter(
           (q) =>

@@ -38,4 +38,5 @@ sh app/tests/run.sh                   # every family type, every button, and a u
 - Plain writing that a parent and child understand; no poetry where understanding is needed (`app/content/WRITING.md`).
 - Images must be public domain, CC0 or CC BY, with credit. Non-commercial or share-alike books are reference only: never copy their text. Copyrighted books go in the private books repository. Personal essays are not published.
 - Design: the notebook and night sky look in `app/content/DESIGN.md`. Universal and vibrant first, Indian touches only where they come naturally. It must not look like a generic AI app.
+- **Without AI first.** Every feature works on the phone without AI for every family, paid or not (word matching, the activity library, the phone's own reading). AI only for what truly needs it (reading photos, checking worksheets, chat, writing new material), and then the cheapest model that does the job well, sending only what's needed.
 - The founder is not a programmer: keep replies short and plain.

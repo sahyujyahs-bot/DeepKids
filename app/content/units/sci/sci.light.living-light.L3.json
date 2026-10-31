@@ -730,13 +730,37 @@
        }
       },
       "Vampire squid: squirts glowing slime and swims away. (SCARE)",
-      "Bobtail squid: keeps glowing bacteria to hide their shadow. (HIDE)",
-      "Dragonfish: a glowing whisker on their chin tempts small fish. (CATCH)",
+      {
+       "f": "Bobtail squid: keeps glowing bacteria to hide their shadow. (HIDE)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-05.jpg",
+        "credit": "Dan Schofield, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Dragonfish: a glowing whisker on their chin tempts small fish. (CATCH)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-06.jpg",
+        "credit": "Julien Savoie, CC BY, via iNaturalist"
+       }
+      },
       "Glowing shrimp: spits a cloud of light into a hunter's face. (SCARE)",
-      "Firefly squid: tiny lights on their underside hide their shadow. (HIDE)",
+      {
+       "f": "Firefly squid: tiny lights on their underside hide their shadow. (HIDE)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-08.jpg",
+        "credit": "kamataryo, CC0, via iNaturalist"
+       }
+      },
       "Flashlight fish: blinks lights under their eyes on and off to signal. (TALK)",
       "Cookiecutter shark: glowing belly, except a dark collar that looks like a small fish. (CATCH)",
-      "Sea sparkle (a tiny plankton that lives near the surface): flashes blue when stirred, startling small grazers. (SCARE)",
+      {
+       "f": "Sea sparkle (a tiny plankton that lives near the surface): flashes blue when stirred, startling small grazers. (SCARE)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-11.jpg",
+        "credit": "Cheng-Tao Lin, CC BY, via iNaturalist"
+       }
+      },
       "Stoplight loosejaw: shines a red light that most deep-sea fish cannot see, to spot their prey. (CATCH)",
       "Sea firefly (a tiny shelled animal, smaller than a rice grain): males leave a trail of glowing dots for females. (TALK)"
      ]

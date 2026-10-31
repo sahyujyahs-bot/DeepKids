@@ -1,4 +1,16 @@
 {
+ "expl.12": {
+  "src": "media/img/sci.light.reflection.L3/expl.12.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.9": {
+  "src": "media/img/sci.light.reflection.L3/expl.9.jpg",
+  "credit": "Devika M B, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.light.reflection.L3/intro.jpg",
+  "credit": "Oregon's Mt. Hood Territory., Public domain, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.light.reflection.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +46,13 @@
  "setup.e3.2": {
   "src": "media/img/sci.light.reflection.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.light.reflection.L3/term.5.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
+ "term.9": {
+  "src": "media/img/sci.light.reflection.L3/term.9.jpg",
+  "credit": "Firos AK, CC BY, via iNaturalist"
  }
 }
