@@ -488,8 +488,20 @@
      "kind": "cards",
      "title": "16 animal cards",
      "items": [
-      "Crow",
-      "Baya weaver bird",
+      {
+       "f": "Crow",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Baya weaver bird",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-01.jpg",
+        "credit": "Ram Dayal Vaishnav, CC BY, via iNaturalist"
+       }
+      },
       {
        "f": "Tailorbird",
        "img": {
@@ -513,13 +525,49 @@
       },
       "Termite",
       "Spider",
-      "Owl",
-      "Indian grey hornbill",
-      "Rat",
-      "Fruit bat",
+      {
+       "f": "Owl",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-07.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Indian grey hornbill",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-08.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rat",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-09.jpg",
+        "credit": "Ansil B.R., CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Fruit bat",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-10.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
       "Potter wasp",
-      "Palm squirrel",
-      "House sparrow",
+      {
+       "f": "Palm squirrel",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-12.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "House sparrow",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-13.jpg",
+        "credit": "John Brew, CC BY, via iNaturalist"
+       }
+      },
       "Black ant",
       "Earthworm"
      ]
@@ -529,7 +577,13 @@
      "title": "16 home cards",
      "items": [
       "A stick nest in a tree, sometimes with wire",
-      "A hanging nest woven from grass",
+      {
+       "f": "A hanging nest woven from grass",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-01.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
+      },
       {
        "f": "Two leaves stitched together",
        "img": {
@@ -542,9 +596,27 @@
       "A tall mound of soil",
       "A silk web",
       "A bare hollow in an old tree trunk",
-      "A tree hole with a mud door",
-      "A burrow in the ground",
-      "Hanging upside down in a big tree",
+      {
+       "f": "A tree hole with a mud door",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-08.jpg",
+        "credit": "Jahnavee Palsodkar (she/her), CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A burrow in the ground",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-09.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Hanging upside down in a big tree",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-10.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
       "A tiny mud pot",
       "A ball of grass and fibre in a tree",
       "A hole in a wall or a roof",
@@ -693,19 +765,35 @@
      "items": [
       {
        "f": "Crow",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Owl",
-       "b": "MOON: a night animal"
+       "b": "MOON: a night animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-01.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Fruit bat",
-       "b": "MOON: a night animal"
+       "b": "MOON: a night animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-02.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Palm squirrel",
-       "b": "SUN: a day animal"
+       "b": "SUN: a day animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-03.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "House gecko",
@@ -789,7 +877,11 @@
       },
       {
        "f": "Rat",
-       "b": "MOON: a night animal"
+       "b": "MOON: a night animal",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-22.jpg",
+        "credit": "Ansil B.R., CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Night heron",

@@ -1,0 +1,2801 @@
+[
+ {
+  "code": "P001",
+  "unit": "sci.animals.animal-bodies.L3",
+  "unit_title": "How animals breathe and find their food",
+  "exp": "The Limewater Test: what is in your breath?",
+  "key": "setup.e2.2",
+  "what": "The same two glasses after two minutes: the breath glass cloudy white like milk, the room-air glass still almost clear.",
+  "caption": "3. Compare. Which one turned milky?"
+ },
+ {
+  "code": "P002",
+  "unit": "sci.animals.animal-bodies.L3",
+  "unit_title": "How animals breathe and find their food",
+  "exp": "Ant Detectives: which food do ants find first?",
+  "key": "setup.e3.0",
+  "what": "Three small white paper squares on a kitchen floor near a wall, one with sugar, one with salt, one with a biscuit crumb, each the same distance from a line of small black ants.",
+  "caption": "1. Put three baits the same distance from an ant path."
+ },
+ {
+  "code": "P003",
+  "unit": "sci.animals.animal-bodies.L3",
+  "unit_title": "How animals breathe and find their food",
+  "exp": "Ant Detectives: which food do ants find first?",
+  "key": "setup.e3.2",
+  "what": "A line of ants walking in single file from the sugar back to a crack in the wall, following an invisible dotted smell trail.",
+  "caption": "3. Watch how the ants follow each other back home."
+ },
+ {
+  "code": "P004",
+  "unit": "sci.animals.animal-life-cycles.L3",
+  "unit_title": "Animal life cycles",
+  "exp": "Can an egg breathe? Bubbles from a shell",
+  "key": "setup.e1.0",
+  "what": "Two clear glasses side by side, one labelled 'hot' with a little steam, one labelled 'cold', each with a whole raw egg at the bottom.",
+  "caption": "1. Put one egg in each glass. A grown-up pours very hot water over one. Pour cold water over the other."
+ },
+ {
+  "code": "P005",
+  "unit": "sci.animals.animal-life-cycles.L3",
+  "unit_title": "Animal life cycles",
+  "exp": "Can an egg breathe? Bubbles from a shell",
+  "key": "setup.e1.1",
+  "what": "Close-up of an egg in hot water with thin trails of tiny bubbles rising from its shell, more at the round end than the pointed end.",
+  "caption": "2. Watch the shell closely for one minute."
+ },
+ {
+  "code": "P006",
+  "unit": "sci.animals.animal-life-cycles.L3",
+  "unit_title": "Animal life cycles",
+  "exp": "The Naked Egg: what is under the shell?",
+  "key": "setup.e2.1",
+  "what": "An egg sitting at the bottom of a glass jar of vinegar, covered with tiny bubbles.",
+  "caption": "2. Put the egg in a jar and cover it with vinegar. Watch the bubbles."
+ },
+ {
+  "code": "P007",
+  "unit": "sci.animals.animal-life-cycles.L3",
+  "unit_title": "Animal life cycles",
+  "exp": "The Naked Egg: what is under the shell?",
+  "key": "setup.e2.2",
+  "what": "A see-through, rubbery egg glowing orange as a torch shines through it in a dark room.",
+  "caption": "3. After two days, rinse it. Shine a torch through it. Measure it again."
+ },
+ {
+  "code": "P008",
+  "unit": "sci.animals.animal-life-cycles.L3",
+  "unit_title": "Animal life cycles",
+  "exp": "Tadpole Watch: where does the tail go? (if you live near a pond in the monsoon)",
+  "key": "setup.e3.1",
+  "what": "A wide tub in the shade with pond water, a slimy stone, some water weeds and a stick leaning on the side.",
+  "caption": "2. Set up a tub with pond water, a slimy stone and a stick to climb."
+ },
+ {
+  "code": "P009",
+  "unit": "sci.animals.animal-minds.L3",
+  "unit_title": "Animal minds",
+  "exp": "The Thirsty Crow Test: what raises the water best?",
+  "key": "setup.e1.2",
+  "what": "Three glasses in a row: one with a few big stones, one with many small stones, one with white thermocol pieces floating on top.",
+  "caption": "3. Start again with small stones, then thermocol. Which reached the line with the fewest?"
+ },
+ {
+  "code": "P010",
+  "unit": "sci.animals.animals-around-us.L3",
+  "unit_title": "Animals around us",
+  "exp": "Busy Times: when do birds visit a water bowl?",
+  "key": "setup.e1.1",
+  "what": "A clock showing 7 o'clock and a myna and a bulbul at the water bowl, with tally marks on a notebook page.",
+  "caption": "2. Watch for 5 minutes. Draw one line for each bird that lands."
+ },
+ {
+  "code": "P011",
+  "unit": "sci.animals.animals-around-us.L3",
+  "unit_title": "Animals around us",
+  "exp": "Busy Times: when do birds visit a water bowl?",
+  "key": "setup.e1.2",
+  "what": "The same notebook with three columns of tally marks labelled with a rising sun, a high sun and a setting sun.",
+  "caption": "3. Do it at 7 am, 12 pm and 5 pm, for 3 days."
+ },
+ {
+  "code": "P012",
+  "unit": "sci.animals.animals-around-us.L3",
+  "unit_title": "Animals around us",
+  "exp": "Cool Home Test: is a burrow cooler than open ground?",
+  "key": "setup.e2.0",
+  "what": "A digital probe thermometer pushed about 1 cm into bare soil in bright sunshine, with a phone timer showing 5 minutes.",
+  "caption": "1. Push the probe into sunny soil for 5 minutes. Read it."
+ },
+ {
+  "code": "P013",
+  "unit": "sci.animals.animals-around-us.L3",
+  "unit_title": "Animals around us",
+  "exp": "Cool Home Test: is a burrow cooler than open ground?",
+  "key": "setup.e2.1",
+  "what": "The same probe pushed into the soil of a flower pot in the shade.",
+  "caption": "2. Move it to soil in the shade for 5 minutes. Read it."
+ },
+ {
+  "code": "P014",
+  "unit": "sci.animals.animals-around-us.L3",
+  "unit_title": "Animals around us",
+  "exp": "Ant Trail Test: how do ants keep to the same path?",
+  "key": "setup.e3.0",
+  "what": "A pinch of sugar on a small square of paper on a kitchen floor tile, with a thin line of small black ants walking to it from a gap under a cupboard.",
+  "caption": "1. Put a pinch of sugar where ants come. Wait for a trail."
+ },
+ {
+  "code": "P015",
+  "unit": "sci.animals.invertebrates.L3",
+  "unit_title": "Animals without backbones",
+  "exp": "Water Bones: how does a worm stay firm?",
+  "key": "setup.e1.0",
+  "what": "Six plastic bottles on a towel: two empty with no caps, two empty with caps on, and two filled to the brim with water and capped.",
+  "caption": "1. Get three pairs: open and empty, capped with air, and capped with water."
+ },
+ {
+  "code": "P016",
+  "unit": "sci.animals.invertebrates.L3",
+  "unit_title": "Animals without backbones",
+  "exp": "Armour Tubes: why are insect legs hollow tubes?",
+  "key": "setup.e2.0",
+  "what": "Three kinds of paper column on a table: a round tube, a square tube and a zigzag-folded sheet, each about 21 cm tall.",
+  "caption": "1. Make three of each shape from the same paper."
+ },
+ {
+  "code": "P017",
+  "unit": "sci.animals.invertebrates.L3",
+  "unit_title": "Animals without backbones",
+  "exp": "Armour Tubes: why are insect legs hollow tubes?",
+  "key": "setup.e2.1",
+  "what": "Three round paper tubes standing in a triangle, with a chopping board resting on top of them.",
+  "caption": "2. Stand three columns of one shape in a triangle. Put the board on top."
+ },
+ {
+  "code": "P018",
+  "unit": "sci.animals.invertebrates.L3",
+  "unit_title": "Animals without backbones",
+  "exp": "Many Small Suckers: how does a starfish hold on?",
+  "key": "setup.e3.0",
+  "what": "One small rubber suction cup with a hook pressed onto a clean bathroom wall tile at knee height, a towel on the floor below.",
+  "caption": "1. Press one sucker onto a smooth tile, low down."
+ },
+ {
+  "code": "P019",
+  "unit": "sci.animals.invertebrates.L3",
+  "unit_title": "Animals without backbones",
+  "exp": "Many Small Suckers: how does a starfish hold on?",
+  "key": "setup.e3.1",
+  "what": "A cloth bag hanging from the sucker's hook by a short string, a cup of rice being poured in.",
+  "caption": "2. Hang a bag. Add rice one cup at a time."
+ },
+ {
+  "code": "P020",
+  "unit": "sci.animals.invertebrates.L3",
+  "unit_title": "Animals without backbones",
+  "exp": "Many Small Suckers: how does a starfish hold on?",
+  "key": "setup.e3.2",
+  "what": "Four suckers in a row on the tile, each tied by string to the same cloth bag, holding a heavier load.",
+  "caption": "3. Try again with two suckers, then four, all tied to the same bag."
+ },
+ {
+  "code": "P021",
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "unit_title": "Animals with a backbone",
+  "exp": "The Fur Coat Test: does a coat keep warmth in?",
+  "key": "setup.e1.0",
+  "what": "Three identical small plastic bottles on a table: one bare, one in a dry woollen sock, one in a wet woollen sock, a thermometer beside them.",
+  "caption": "1. Fill three bottles with the same warm water. Give one a dry sock and one a wet sock."
+ },
+ {
+  "code": "P022",
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "unit_title": "Animals with a backbone",
+  "exp": "Lizard on a Wall: sun or shade?",
+  "key": "setup.e2.0",
+  "what": "Two identical steel tumblers of water, one on a bright sunny windowsill and one on a shady shelf, a thermometer between them.",
+  "caption": "1. Fill two tumblers with cool water. Put one in the sun and one in the shade."
+ },
+ {
+  "code": "P023",
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "unit_title": "Animals with a backbone",
+  "exp": "Lizard on a Wall: sun or shade?",
+  "key": "setup.e2.2",
+  "what": "A lizard basking on a sunny wall beside the warm tumbler.",
+  "caption": "3. Compare. This is how a lizard warms up."
+ },
+ {
+  "code": "P024",
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "unit_title": "Animals with a backbone",
+  "exp": "Egg in the Air: why frogs lay eggs in water",
+  "key": "setup.e3.0",
+  "what": "Soaked sabja seeds in a spoon, each tiny black seed inside a clear ball of jelly, like frogspawn.",
+  "caption": "1. Soak sabja seeds. They look like frog eggs in jelly."
+ },
+ {
+  "code": "P025",
+  "unit": "sci.animals.vertebrate-groups.L3",
+  "unit_title": "Animals with a backbone",
+  "exp": "Egg in the Air: why frogs lay eggs in water",
+  "key": "setup.e3.1",
+  "what": "Three steel bowls: one with jelly seeds in the open, one with seeds under water, one with an eggshell taped shut.",
+  "caption": "2. Put one spoonful in the open, one in water, one inside a shell."
+ },
+ {
+  "code": "P026",
+  "unit": "sci.body.body-parts.L3",
+  "unit_title": "The outside of your body",
+  "exp": "The Bread Test: what do unwashed hands leave behind?",
+  "key": "setup.e1.2",
+  "what": "Four sealed, labelled bags lying in a dark cupboard.",
+  "caption": "3. Seal and label the bags. Keep them in a dark cupboard."
+ },
+ {
+  "code": "P027",
+  "unit": "sci.body.body-parts.L3",
+  "unit_title": "The outside of your body",
+  "exp": "The Bread Test: what do unwashed hands leave behind?",
+  "key": "setup.e1.3",
+  "what": "Four sealed bags on day 6: one with many green and black spots, one with a few, two almost clean.",
+  "caption": "4. Count the spots on days 2, 4 and 6. Never open the bags."
+ },
+ {
+  "code": "P028",
+  "unit": "sci.body.body-parts.L3",
+  "unit_title": "The outside of your body",
+  "exp": "The Egg That Brushed Its Teeth",
+  "key": "setup.e3.1",
+  "what": "Two glasses of vinegar, each with an egg, one plain and one wiped of toothpaste, tiny bubbles rising from the plain one.",
+  "caption": "2. Wipe it gently, then put both eggs in vinegar."
+ },
+ {
+  "code": "P029",
+  "unit": "sci.body.heart-blood-breath.L3",
+  "unit_title": "Heart, blood and breath",
+  "exp": "The Milky Breath: is breathed-out air different?",
+  "key": "setup.e2.2",
+  "what": "The same two glasses after a minute: the room-air one still clear, the breath one milky white.",
+  "caption": "3. Watch which glass turns milky."
+ },
+ {
+  "code": "P030",
+  "unit": "sci.body.heart-blood-breath.L3",
+  "unit_title": "Heart, blood and breath",
+  "exp": "How Big Is One Breath? The upside-down bottle",
+  "key": "setup.e3.1",
+  "what": "A full bottle held upside down with its neck under the water in a bucket, a bendy tube poking up into its neck.",
+  "caption": "2. Fill the bottle. Turn it upside down in the bucket. Push a tube into its neck."
+ },
+ {
+  "code": "P031",
+  "unit": "sci.body.how-babies-grow.L3",
+  "unit_title": "How a baby grows",
+  "exp": "The Floating Safe: does water protect an egg?",
+  "key": "setup.e1.0",
+  "what": "Two identical clear plastic jars on a tray, one empty and one filled to the top with water, each with a raw egg inside.",
+  "caption": "1. Put one egg in an empty jar. Put the other in a jar filled to the top with water."
+ },
+ {
+  "code": "P032",
+  "unit": "sci.body.how-babies-grow.L3",
+  "unit_title": "How a baby grows",
+  "exp": "The Floating Safe: does water protect an egg?",
+  "key": "setup.e1.2",
+  "what": "Two jars side by side after shaking: in the empty one the egg is cracked, in the water one it is whole.",
+  "caption": "3. Look closely at both eggs. Which one cracked?"
+ },
+ {
+  "code": "P033",
+  "unit": "sci.body.immune-system.L3",
+  "unit_title": "The immune system",
+  "exp": "The Apple Skin Test",
+  "key": "setup.e1.0",
+  "what": "Four shiny apples in a row on a table, labelled A, B, C and D.",
+  "caption": "1. Label four apples A, B, C and D."
+ },
+ {
+  "code": "P034",
+  "unit": "sci.body.immune-system.L3",
+  "unit_title": "The immune system",
+  "exp": "The Apple Skin Test",
+  "key": "setup.e1.3",
+  "what": "Four closed plastic bags with an apple in each, lying side by side on a kitchen shelf.",
+  "caption": "4. Close each apple in its own bag. Keep them somewhere warm. Look each time without opening."
+ },
+ {
+  "code": "P035",
+  "unit": "sci.body.immune-system.L3",
+  "unit_title": "The immune system",
+  "exp": "My Temperature Through the Day",
+  "key": "setup.e2.1",
+  "what": "A digital thermometer screen showing 36.6 with a little beep symbol.",
+  "caption": "2. Wait for the beep. Read the number."
+ },
+ {
+  "code": "P036",
+  "unit": "sci.body.immune-system.L3",
+  "unit_title": "The immune system",
+  "exp": "My Temperature Through the Day",
+  "key": "setup.e2.2",
+  "what": "A results table on a page with four times and temperatures filled in, and a small line chart beside it.",
+  "caption": "3. Write it down. Do it again at different times of day."
+ },
+ {
+  "code": "P037",
+  "unit": "sci.body.immune-system.L3",
+  "unit_title": "The immune system",
+  "exp": "The Sticky Nose Test",
+  "key": "setup.e3.0",
+  "what": "Two white cards, each with a strip of clear tape across it and two pencil lines 4 cm apart. On one card the tape's sticky side faces up, held down at its ends by two small bits of tape.",
+  "caption": "1. Put tape sticky side up on one card. Put tape smooth side up on the other."
+ },
+ {
+  "code": "P038",
+  "unit": "sci.body.immune-system.L3",
+  "unit_title": "The immune system",
+  "exp": "The Sticky Nose Test",
+  "key": "setup.e3.1",
+  "what": "The two cards lying flat side by side on a windowsill next to an open window, taped down at their corners.",
+  "caption": "2. Lay both cards flat by an open window. Leave them for a day."
+ },
+ {
+  "code": "P039",
+  "unit": "sci.body.keeping-balance.L3",
+  "unit_title": "Homeostasis",
+  "exp": "The Sweaty Tumbler Test",
+  "key": "setup.e1.1",
+  "what": "One tumbler wrapped in a dripping-damp cotton hanky and one in a dry hanky, both tied with a rubber band.",
+  "caption": "2. Wrap one in a wet cloth and one in a dry cloth."
+ },
+ {
+  "code": "P040",
+  "unit": "sci.body.keeping-balance.L3",
+  "unit_title": "Homeostasis",
+  "exp": "The Sweaty Tumbler Test",
+  "key": "setup.e1.2",
+  "what": "Both wrapped tumblers side by side in front of a table fan, a thermometer probe in one, a clock behind.",
+  "caption": "3. Put both in front of the fan. Measure each one every 5 minutes."
+ },
+ {
+  "code": "P041",
+  "unit": "sci.body.keeping-balance.L3",
+  "unit_title": "Homeostasis",
+  "exp": "The Matka Test: can a pot sweat?",
+  "key": "setup.e3.0",
+  "what": "A clay matka and a steel pot side by side in the shade on a verandah, both being filled from one jug.",
+  "caption": "1. Fill both pots with the same water. Measure the start."
+ },
+ {
+  "code": "P042",
+  "unit": "sci.body.keeping-balance.L3",
+  "unit_title": "Homeostasis",
+  "exp": "The Matka Test: can a pot sweat?",
+  "key": "setup.e3.1",
+  "what": "A clock showing 3 hours later, the matka's outside looking darker and damp, the steel pot dry.",
+  "caption": "2. Leave both in the shade for 3 hours."
+ },
+ {
+  "code": "P043",
+  "unit": "sci.body.organs-inside.L3",
+  "unit_title": "Organs inside you",
+  "exp": "The Egg in the Jar: how liquid protects the brain",
+  "key": "setup.e1.0",
+  "what": "Two clear plastic jars with screw lids side by side, one empty with a raw egg inside, one filled to the top with water and an egg inside.",
+  "caption": "1. Put one egg in an empty jar and one egg in a jar full of water."
+ },
+ {
+  "code": "P044",
+  "unit": "sci.body.organs-inside.L3",
+  "unit_title": "Organs inside you",
+  "exp": "The Egg in the Jar: how liquid protects the brain",
+  "key": "setup.e1.2",
+  "what": "Two opened jars: the egg from the empty jar cracked, the egg from the water jar whole.",
+  "caption": "3. Open them and look closely. Which egg cracked?"
+ },
+ {
+  "code": "P045",
+  "unit": "sci.body.organs-inside.L3",
+  "unit_title": "Organs inside you",
+  "exp": "The Squish Bag: does churning help break food down?",
+  "key": "setup.e2.0",
+  "what": "Two zip-lock bags, each with one whole biscuit and a little water, on a table next to a clock.",
+  "caption": "1. Put one biscuit and the same water in each bag. Seal them."
+ },
+ {
+  "code": "P046",
+  "unit": "sci.body.organs-inside.L3",
+  "unit_title": "Organs inside you",
+  "exp": "The Squish Bag: does churning help break food down?",
+  "key": "setup.e2.2",
+  "what": "The two bags held up side by side: one a smooth brown mush, the other with big soggy lumps.",
+  "caption": "3. Hold them up. Which one has fewer lumps?"
+ },
+ {
+  "code": "P047",
+  "unit": "sci.body.organs-inside.L3",
+  "unit_title": "Organs inside you",
+  "exp": "Lump or Bits: why lungs have so many tiny air bags",
+  "key": "setup.e3.0",
+  "what": "Two lumps of mishri the same size beside two clear glasses half full of water, with a folded cloth and a rolling pin.",
+  "caption": "1. Choose two lumps the same size. Crush one inside a cloth."
+ },
+ {
+  "code": "P048",
+  "unit": "sci.body.organs-inside.L3",
+  "unit_title": "Organs inside you",
+  "exp": "Lump or Bits: why lungs have so many tiny air bags",
+  "key": "setup.e3.2",
+  "what": "Two glasses: one with clear water and no sugar left, the other with a small lump still sitting at the bottom.",
+  "caption": "3. Time how long each takes to disappear."
+ },
+ {
+  "code": "P049",
+  "unit": "sci.day-night-seasons.day-and-night.L3",
+  "unit_title": "Day and night",
+  "exp": "Torch and Ball: where does the night come from?",
+  "key": "setup.e1.0",
+  "what": "An orange with a pencil pushed through it from top to bottom, and three small bindis stuck on its side in a row.",
+  "caption": "1. Push a pencil through the ball. Stick on three dots: Dong, home and Bhuj."
+ },
+ {
+  "code": "P050",
+  "unit": "sci.day-night-seasons.day-and-night.L3",
+  "unit_title": "Day and night",
+  "exp": "Torch and Ball: where does the night come from?",
+  "key": "setup.e1.1",
+  "what": "A dark room with a torch on a pile of books shining at the orange held up by its pencil, half of the orange bright.",
+  "caption": "2. Put the torch on a pile of books. Shine it at the ball. Keep the torch still, on your right side."
+ },
+ {
+  "code": "P051",
+  "unit": "sci.day-night-seasons.day-and-night.L3",
+  "unit_title": "Day and night",
+  "exp": "The Shadow Stick: does the Sun really move across the sky?",
+  "key": "setup.e2.0",
+  "what": "A stick standing straight up in a pot of soil on a sunny terrace, on a big sheet of paper.",
+  "caption": "1. Stand a stick straight up in a sunny spot that stays sunny all day."
+ },
+ {
+  "code": "P052",
+  "unit": "sci.day-night-seasons.day-and-night.L3",
+  "unit_title": "Day and night",
+  "exp": "The Shadow Stick: does the Sun really move across the sky?",
+  "key": "setup.e2.2",
+  "what": "The sheet at the end of the day, with a curved fan of crosses around the stick, long ones at each end and short ones in the middle.",
+  "caption": "3. At the end, measure each shadow. Which was shortest?"
+ },
+ {
+  "code": "P053",
+  "unit": "sci.day-night-seasons.day-and-night.L3",
+  "unit_title": "Day and night",
+  "exp": "Foucault's Pendulum on a Stool",
+  "key": "setup.e3.0",
+  "what": "A heavy nut tied to a string hanging from a stick laid across two chairs, just above the seat of a round stool with a chalk line across it.",
+  "caption": "1. Hang the weight so it just clears the stool. Wind up extra string on the handle. Draw a line across the stool."
+ },
+ {
+  "code": "P054",
+  "unit": "sci.day-night-seasons.day-and-night.L3",
+  "unit_title": "Day and night",
+  "exp": "Foucault's Pendulum on a Stool",
+  "key": "setup.e3.1",
+  "what": "The weight swinging to and fro exactly along the chalk line, dotted arc showing its swing.",
+  "caption": "2. Start it swinging along the line."
+ },
+ {
+  "code": "P055",
+  "unit": "sci.ecology.food-chains.L3",
+  "unit_title": "Food chains and food webs",
+  "exp": "Sugar, Salt or Chapati? What do ants choose?",
+  "key": "setup.e1.0",
+  "what": "Four matchbox-sized paper squares in a row on a floor tile near a line of small ants: one with sugar, one with salt, one with a piece of chapati, one empty.",
+  "caption": "1. Lay four squares near the ants: sugar, salt, chapati and nothing."
+ },
+ {
+  "code": "P056",
+  "unit": "sci.ecology.food-chains.L3",
+  "unit_title": "Food chains and food webs",
+  "exp": "Leaf Bite Survey: who is eating our plants?",
+  "key": "setup.e2.2",
+  "what": "A bulbul on a branch with a caterpillar in their beak, and a spider web between two stems below.",
+  "caption": "3. Look for who eats the biters: birds, spiders, lizards."
+ },
+ {
+  "code": "P057",
+  "unit": "sci.ecology.food-chains.L3",
+  "unit_title": "Food chains and food webs",
+  "exp": "The Tube-Light Food Chain",
+  "key": "setup.e3.1",
+  "what": "Moths and small insects fluttering around a tube light on a wall.",
+  "caption": "2. Count the insects near the light for one minute."
+ },
+ {
+  "code": "P058",
+  "unit": "sci.ecology.food-chains.L3",
+  "unit_title": "Food chains and food webs",
+  "exp": "The Tube-Light Food Chain",
+  "key": "setup.e3.2",
+  "what": "A house gecko on the wall beside the tube light, creeping towards a moth.",
+  "caption": "3. Look for lizards. Count again every 30 minutes."
+ },
+ {
+  "code": "P059",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "The Conductor Test: which things complete the circuit?",
+  "key": "setup.e1.0",
+  "what": "A cell in a holder, a bulb in a holder, and two loose wire ends with a small gap between them, on a table.",
+  "caption": "1. Build a circuit with a gap. Touch the ends together to check it."
+ },
+ {
+  "code": "P060",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "The Conductor Test: which things complete the circuit?",
+  "key": "setup.e1.1",
+  "what": "Twelve everyday things on a table in two piles, with paper labels saying 'will light' and 'won't light'.",
+  "caption": "2. Guess first: two piles."
+ },
+ {
+  "code": "P061",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "The Conductor Test: which things complete the circuit?",
+  "key": "setup.e1.2",
+  "what": "Two bare wire ends pressed onto a steel spoon, and the bulb glowing.",
+  "caption": "3. Press both ends onto each thing. Does the bulb light?"
+ },
+ {
+  "code": "P062",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "Where Is the Gap? Breaking the loop in different places",
+  "key": "setup.e2.0",
+  "what": "A loop of three wires joining a cell holder and a glowing bulb, with three small numbered flags at the joins.",
+  "caption": "1. Build a full loop with three wires."
+ },
+ {
+  "code": "P063",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "Where Is the Gap? Breaking the loop in different places",
+  "key": "setup.e2.1",
+  "what": "The same loop with one join pulled apart after the bulb, and the bulb dark.",
+  "caption": "2. Make a gap in a different place each time."
+ },
+ {
+  "code": "P064",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "Two Cells: brighter, or nothing at all?",
+  "key": "setup.e3.0",
+  "what": "A single AA cell in a holder joined to a dimly glowing torch bulb.",
+  "caption": "1. Light the bulb with one cell."
+ },
+ {
+  "code": "P065",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "Two Cells: brighter, or nothing at all?",
+  "key": "setup.e3.1",
+  "what": "Two AA cell holders joined end to end, red wire to black wire, and the bulb glowing brightly.",
+  "caption": "2. Join two cells in a row. Compare."
+ },
+ {
+  "code": "P066",
+  "unit": "sci.electricity.simple-circuits.L3",
+  "unit_title": "Simple circuits",
+  "exp": "Two Cells: brighter, or nothing at all?",
+  "key": "setup.e3.2",
+  "what": "The same two holders with one cell turned round, an arrow on each cell pointing opposite ways, and the bulb dark.",
+  "caption": "3. Turn one cell round. What happens?"
+ },
+ {
+  "code": "P067",
+  "unit": "sci.food.balanced-diet.L3",
+  "unit_title": "A balanced diet",
+  "exp": "The Paper Window Test: which foods carry fat?",
+  "key": "setup.e1.0",
+  "what": "Eight palm-sized squares of brown paper on a table, each labelled in pencil, with a peanut, coconut, paneer, chip, chapati, apple slice, a drop of oil and a drop of water beside them.",
+  "caption": "1. Label 8 squares. Put one food by each."
+ },
+ {
+  "code": "P068",
+  "unit": "sci.food.balanced-diet.L3",
+  "unit_title": "A balanced diet",
+  "exp": "The Vanishing Blue: which fruit has the most vitamin C?",
+  "key": "setup.e2.1",
+  "what": "Six small steel bowls of blue liquid in a row on white paper, each with a label: amla, guava, lemon, mosambi, packet drink, water.",
+  "caption": "2. Pour 2 tablespoons into each of six bowls."
+ },
+ {
+  "code": "P069",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "Milk to Curd: what do curd bacteria need?",
+  "key": "setup.e1.0",
+  "what": "Three labelled steel katoris of warm milk in a row, A, B and C, with a small bowl of curd and a spoon beside them.",
+  "caption": "1. Pour the same warm milk into three katoris. Label them A, B and C."
+ },
+ {
+  "code": "P070",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "Milk to Curd: what do curd bacteria need?",
+  "key": "setup.e1.2",
+  "what": "Katoris A and B in a warm kitchen corner, and katori C on a fridge shelf.",
+  "caption": "3. Keep A and B somewhere warm. Put C in the fridge. Wait overnight."
+ },
+ {
+  "code": "P071",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "Sprouting Moong: do seeds need water to grow?",
+  "key": "setup.e2.0",
+  "what": "A bowl of dry green moong on a kitchen scale showing 50 grams.",
+  "caption": "1. Weigh 50 grams of dry moong. Soak it overnight."
+ },
+ {
+  "code": "P072",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "Sprouting Moong: do seeds need water to grow?",
+  "key": "setup.e2.1",
+  "what": "Two steel plates side by side: one with 20 dry seeds on a dry cloth, one with 20 swollen seeds on a wet cloth.",
+  "caption": "2. Put 20 soaked seeds on a wet cloth and 20 dry seeds on a dry cloth."
+ },
+ {
+  "code": "P073",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "Sprouting Moong: do seeds need water to grow?",
+  "key": "setup.e2.2",
+  "what": "A close-up of the wet plate with seeds showing little white roots, and a ruler beside the longest one.",
+  "caption": "3. Each day, count the seeds with a white root. Measure the longest."
+ },
+ {
+  "code": "P074",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "The Iodine Test: which foods have starch?",
+  "key": "setup.e3.0",
+  "what": "Nine small food pieces in a row on a steel plate: potato, rice, chapati, raw banana, cucumber, paneer, sugar, salt and besan.",
+  "caption": "1. Lay small pieces of nine foods on a plate."
+ },
+ {
+  "code": "P075",
+  "unit": "sci.food.where-food-comes-from.L3",
+  "unit_title": "Where food comes from",
+  "exp": "The Iodine Test: which foods have starch?",
+  "key": "setup.e3.2",
+  "what": "The same plate after testing: some pieces with blue-black spots, some still orange-brown.",
+  "caption": "3. Blue-black means starch. Orange-brown means no starch."
+ },
+ {
+  "code": "P076",
+  "unit": "sci.forces.changing-motion.L3",
+  "unit_title": "Forces change shape, speed and direction",
+  "exp": "The Clay Drop Test",
+  "key": "setup.e1.2",
+  "what": "A clay ball with a flat bottom on its side, a small ruler measuring across the flat patch.",
+  "caption": "3. Measure how wide the flat patch is."
+ },
+ {
+  "code": "P077",
+  "unit": "sci.forces.changing-motion.L3",
+  "unit_title": "Forces change shape, speed and direction",
+  "exp": "The Clay Drop Test",
+  "key": "setup.e1.3",
+  "what": "Four squashed clay balls in a row, the flat patches getting wider from left to right, labels 10, 20, 40, 80 cm.",
+  "caption": "4. Repeat from 20, 40 and 80 cm. Compare the patches."
+ },
+ {
+  "code": "P078",
+  "unit": "sci.forces.changing-motion.L3",
+  "unit_title": "Forces change shape, speed and direction",
+  "exp": "Squash, Spring Back or Break?",
+  "key": "setup.e2.0",
+  "what": "A table with a biscuit, a lump of chapati dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge and a stone, each on its own steel plate.",
+  "caption": "1. Set out six things on plates."
+ },
+ {
+  "code": "P079",
+  "unit": "sci.forces.changing-motion.L3",
+  "unit_title": "Forces change shape, speed and direction",
+  "exp": "Squash, Spring Back or Break?",
+  "key": "setup.e2.2",
+  "what": "Three groups on the table labelled STAYS CHANGED, SPRINGS BACK, BREAKS, with the tested things sorted into them.",
+  "caption": "3. Sort each thing: stays changed, springs back, or breaks."
+ },
+ {
+  "code": "P080",
+  "unit": "sci.forces.changing-motion.L3",
+  "unit_title": "Forces change shape, speed and direction",
+  "exp": "Wet Ball Prints: catching a bounce",
+  "key": "setup.e3.0",
+  "what": "A rubber ball being dipped bottom-first into a shallow bowl of water.",
+  "caption": "1. Dip the bottom half of the ball in water."
+ },
+ {
+  "code": "P081",
+  "unit": "sci.forces.changing-motion.L3",
+  "unit_title": "Forces change shape, speed and direction",
+  "exp": "Wet Ball Prints: catching a bounce",
+  "key": "setup.e3.2",
+  "what": "A sheet of dark paper with three wet circles of growing size, labelled knee, waist, shoulder.",
+  "caption": "3. Repeat from waist and shoulder height. Draw round each wet circle and measure it."
+ },
+ {
+  "code": "P082",
+  "unit": "sci.forces.flight.L3",
+  "unit_title": "How things fly",
+  "exp": "The Paper Clip Pilot: does weight on the nose help a plane fly further?",
+  "key": "setup.e1.4",
+  "what": "The same plane with one paper clip on its nose, then with three.",
+  "caption": "5. Add 1 clip, then 3 clips, and test again."
+ },
+ {
+  "code": "P083",
+  "unit": "sci.forces.flight.L3",
+  "unit_title": "How things fly",
+  "exp": "Seed Spinners: do longer wings fall more slowly?",
+  "key": "setup.e2.0",
+  "what": "A paper strip with a line cut down the middle from the top, two flaps marked, and the bottom folded up with a paper clip.",
+  "caption": "1. Cut the top of a paper strip into two wings. Fold the bottom and add a clip."
+ },
+ {
+  "code": "P084",
+  "unit": "sci.forces.flight.L3",
+  "unit_title": "How things fly",
+  "exp": "Seed Spinners: do longer wings fall more slowly?",
+  "key": "setup.e2.1",
+  "what": "The two wings folded in opposite directions, one forward and one back, like a T.",
+  "caption": "2. Fold one wing forward and one wing back."
+ },
+ {
+  "code": "P085",
+  "unit": "sci.forces.flight.L3",
+  "unit_title": "How things fly",
+  "exp": "Seed Spinners: do longer wings fall more slowly?",
+  "key": "setup.e2.4",
+  "what": "Three spinners side by side, with short, middle and long wings.",
+  "caption": "5. Test spinners with short, middle and long wings."
+ },
+ {
+  "code": "P086",
+  "unit": "sci.forces.friction.L3",
+  "unit_title": "Friction",
+  "exp": "The Books That Won't Let Go",
+  "key": "setup.e2.0",
+  "what": "Two notebooks lying on a table with their spines pointing outwards and their open edges overlapping.",
+  "caption": "1. Put two notebooks with their open edges overlapping."
+ },
+ {
+  "code": "P087",
+  "unit": "sci.forces.friction.L3",
+  "unit_title": "Friction",
+  "exp": "Pour the Water on the Sand",
+  "key": "setup.e3.1",
+  "what": "A spoon sprinkling water onto a tray of sand so it turns just a little darker, not muddy.",
+  "caption": "2. Sprinkle water, one spoon at a time, until the sand just darkens."
+ },
+ {
+  "code": "P088",
+  "unit": "sci.forces.measuring-forces.L3",
+  "unit_title": "How to measure a force, and why we all use newtons",
+  "exp": "Invent a Unit: how many coins to pull a notebook?",
+  "key": "setup.e4.0",
+  "what": "A thin notebook lying on a table about a ruler's length from the edge, a string taped to the middle of its front edge, running over the edge to a paper cup hanging just below.",
+  "caption": "1. Tape a string to the notebook. Run it over the table edge. Hang a paper cup from the other end."
+ },
+ {
+  "code": "P089",
+  "unit": "sci.forces.measuring-forces.L3",
+  "unit_title": "How to measure a force, and why we all use newtons",
+  "exp": "The Pull Detective: which pull at home is biggest?",
+  "key": "setup.e1.0",
+  "what": "A forcemeter held upright, the pointer on zero, nothing on the hook.",
+  "caption": "1. Check that the pointer is on zero."
+ },
+ {
+  "code": "P090",
+  "unit": "sci.forces.measuring-forces.L3",
+  "unit_title": "How to measure a force, and why we all use newtons",
+  "exp": "The Pull Detective: which pull at home is biggest?",
+  "key": "setup.e1.1",
+  "what": "A loop of string tied around a drawer handle, the forcemeter's hook in the loop.",
+  "caption": "2. Tie a string loop to the handle. Hook the forcemeter on."
+ },
+ {
+  "code": "P091",
+  "unit": "sci.forces.measuring-forces.L3",
+  "unit_title": "How to measure a force, and why we all use newtons",
+  "exp": "The Pull Detective: which pull at home is biggest?",
+  "key": "setup.e1.3",
+  "what": "A results table being filled in with a pencil, six rows.",
+  "caption": "4. Write the reading in the table. Test each pull twice."
+ },
+ {
+  "code": "P092",
+  "unit": "sci.forces.push-and-pull.L3",
+  "unit_title": "Pushes and pulls",
+  "exp": "The Balloon Rocket",
+  "key": "setup.e2.0",
+  "what": "A long string threaded through a drinking straw and tied tightly between two chairs across a room.",
+  "caption": "1. Thread the string through a straw. Tie it between two chairs."
+ },
+ {
+  "code": "P093",
+  "unit": "sci.forces.push-and-pull.L3",
+  "unit_title": "Pushes and pulls",
+  "exp": "The Balloon Rocket",
+  "key": "setup.e2.1",
+  "what": "A blown-up long balloon held shut at the neck, being taped under the straw.",
+  "caption": "2. Blow up the balloon. Hold the neck shut. Tape it under the straw."
+ },
+ {
+  "code": "P094",
+  "unit": "sci.forces.push-and-pull.L3",
+  "unit_title": "Pushes and pulls",
+  "exp": "The Balloon Rocket",
+  "key": "setup.e2.2",
+  "what": "The balloon whooshing along the string, air rushing out of the neck behind it, a measuring tape on the floor.",
+  "caption": "3. Let go. Measure how far it goes along the string."
+ },
+ {
+  "code": "P095",
+  "unit": "sci.forces.push-and-pull.L3",
+  "unit_title": "Pushes and pulls",
+  "exp": "Blow the Ball: does direction matter?",
+  "key": "setup.e3.0",
+  "what": "A ping-pong ball in the middle of a flat tray, seen from above, with a straw at the bottom edge.",
+  "caption": "1. Put the ball in the middle of the tray."
+ },
+ {
+  "code": "P096",
+  "unit": "sci.forces.simple-machines.L3",
+  "unit_title": "Simple machines",
+  "exp": "The Ruler See-saw: can one coin beat two?",
+  "key": "setup.e1.0",
+  "what": "A 30 cm ruler lying across a round pencil on a table, level.",
+  "caption": "1. Lay the ruler across a round pencil. Slide it until it balances."
+ },
+ {
+  "code": "P097",
+  "unit": "sci.forces.simple-machines.L3",
+  "unit_title": "Simple machines",
+  "exp": "The Ruler See-saw: can one coin beat two?",
+  "key": "setup.e1.1",
+  "what": "Two coins stacked on the ruler 6 cm left of the pencil, the ruler tipped down on that side.",
+  "caption": "2. Put 2 coins 6 cm to the left."
+ },
+ {
+  "code": "P098",
+  "unit": "sci.forces.simple-machines.L3",
+  "unit_title": "Simple machines",
+  "exp": "The Ramp Test: long and gentle, or short and steep?",
+  "key": "setup.e2.1",
+  "what": "The truck lifted straight up by the rubber band beside a 10 cm pile of books, a ruler held next to the stretched band.",
+  "caption": "2. Lift it straight up. Measure the band's stretch."
+ },
+ {
+  "code": "P099",
+  "unit": "sci.forces.simple-machines.L3",
+  "unit_title": "Simple machines",
+  "exp": "The Well Winch: a wheel and axle on a small box",
+  "key": "setup.e3.1",
+  "what": "A pencil pushed through both holes across the top of a small carton at the table's edge, a book holding the box down, a string taped to the pencil and a small water bottle hanging below.",
+  "caption": "2. Push a pencil through. Tape on a string. Hang the bottle."
+ },
+ {
+  "code": "P100",
+  "unit": "sci.forces.stretching-springs.L3",
+  "unit_title": "Stretching and springs",
+  "exp": "Coin by Coin: find the pattern, find the limit",
+  "key": "setup.e1.0",
+  "what": "A pencil resting across the backs of two chairs, a thin rubber band looped over it, a paper cup hanging from the band by a string handle, and a ruler taped upright beside it.",
+  "caption": "1. Hang the band from a pencil. Hook the cup on. Tape a ruler beside it."
+ },
+ {
+  "code": "P101",
+  "unit": "sci.forces.stretching-springs.L3",
+  "unit_title": "Stretching and springs",
+  "exp": "Coin by Coin: find the pattern, find the limit",
+  "key": "setup.e1.3",
+  "what": "A small pen spring lying along a ruler, one end held at 0 by a fingertip, the other end pulled out to a mark.",
+  "caption": "4. Pull the pen spring a little further each time. Let go and measure it."
+ },
+ {
+  "code": "P102",
+  "unit": "sci.forces.stretching-springs.L3",
+  "unit_title": "Stretching and springs",
+  "exp": "Find the Limit",
+  "key": "setup.e3.0",
+  "what": "Five things in a row on a table with a ruler: a rubber band, a plastic strip, a pen spring, a rope of dough and a stick of spaghetti.",
+  "caption": "1. Line up the five things and measure each one."
+ },
+ {
+  "code": "P103",
+  "unit": "sci.forces.stretching-springs.L3",
+  "unit_title": "Stretching and springs",
+  "exp": "Find the Limit",
+  "key": "setup.e3.2",
+  "what": "The plastic strip lying long and thin after being let go, beside the rubber band which is back to its first size.",
+  "caption": "3. Let go. Measure it again."
+ },
+ {
+  "code": "P104",
+  "unit": "sci.forces.stretching-springs.L3",
+  "unit_title": "Stretching and springs",
+  "exp": "The Bounce Test",
+  "key": "setup.e4.0",
+  "what": "A paper strip marked every 10 cm taped to a wall from the floor up to 1 metre, with balls lined up on the floor below.",
+  "caption": "1. Tape a 1-metre strip to the wall."
+ },
+ {
+  "code": "P105",
+  "unit": "sci.forces.stretching-springs.L3",
+  "unit_title": "Stretching and springs",
+  "exp": "The Bounce Test",
+  "key": "setup.e4.3",
+  "what": "A ball of dough flattened on the floor, not bouncing.",
+  "caption": "4. Try the dough ball too."
+ },
+ {
+  "code": "P106",
+  "unit": "sci.gravity.falling.L3",
+  "unit_title": "Falling",
+  "exp": "The Drop Race: one thud or two?",
+  "key": "setup.e1.1",
+  "what": "Two plastic bottles lying side by side on a flat hardback book held at chin height above a steel thali on the floor.",
+  "caption": "2. Put both on a book. Pull the book away fast."
+ },
+ {
+  "code": "P107",
+  "unit": "sci.gravity.falling.L3",
+  "unit_title": "Falling",
+  "exp": "The Drop Race: one thud or two?",
+  "key": "setup.e1.2",
+  "what": "Two bottles hitting a steel thali at the same moment, with one big sound mark drawn above them.",
+  "caption": "3. Listen: one thud means they landed together."
+ },
+ {
+  "code": "P108",
+  "unit": "sci.gravity.falling.L3",
+  "unit_title": "Falling",
+  "exp": "Paper That Falls Like a Stone",
+  "key": "setup.e2.1",
+  "what": "The crumpled ball dropping straight while the flat sheet rocks slowly down, small air arrows pushing up under it.",
+  "caption": "2. Let go. The crumpled one lands first. Same weight!"
+ },
+ {
+  "code": "P109",
+  "unit": "sci.gravity.falling.L3",
+  "unit_title": "Falling",
+  "exp": "Paper That Falls Like a Stone",
+  "key": "setup.e2.2",
+  "what": "A sheet of paper lying on top of a hardback book, the book and paper falling together.",
+  "caption": "3. Lay paper on a book and drop the book. They fall together."
+ },
+ {
+  "code": "P110",
+  "unit": "sci.gravity.falling.L3",
+  "unit_title": "Falling",
+  "exp": "The Parachute Test",
+  "key": "setup.e3.0",
+  "what": "Three plastic-bag squares of different sizes on a table, each with four threads taped to the corners and tied to a wooden clothes peg.",
+  "caption": "1. Make three parachutes: small, medium and large, same load."
+ },
+ {
+  "code": "P111",
+  "unit": "sci.gravity.weight-and-mass.L3",
+  "unit_title": "Weight and mass",
+  "exp": "How hard does a kilogram pull?",
+  "key": "setup.e1.0",
+  "what": "A forcemeter hanging from a door handle with an empty plastic bag on its hook, the pointer at zero.",
+  "caption": "1. Hang up the forcemeter with an empty bag. Check it reads zero."
+ },
+ {
+  "code": "P112",
+  "unit": "sci.gravity.weight-and-mass.L3",
+  "unit_title": "Weight and mass",
+  "exp": "The stone that gets lighter in water",
+  "key": "setup.e2.1",
+  "what": "The stone on the forcemeter lowered fully under the water in the bucket, not touching the bottom, the pointer at 2.",
+  "caption": "2. Lower it all the way under the water. Read it again."
+ },
+ {
+  "code": "P113",
+  "unit": "sci.gravity.weight-and-mass.L3",
+  "unit_title": "Weight and mass",
+  "exp": "The stone that gets lighter in water",
+  "key": "setup.e2.2",
+  "what": "The stone resting on the bottom of the bucket, the string slack, the forcemeter pointer near zero.",
+  "caption": "3. Let it rest on the bottom. Then lift it out and read again."
+ },
+ {
+  "code": "P114",
+  "unit": "sci.gravity.weight-and-mass.L3",
+  "unit_title": "Weight and mass",
+  "exp": "A forcemeter in a lift",
+  "key": "setup.e3.1",
+  "what": "A close-up of the forcemeter pointer moving up past 10 as the lift's floor-number display changes upwards.",
+  "caption": "2. Watch the pointer as the lift starts, moves and stops."
+ },
+ {
+  "code": "P115",
+  "unit": "sci.gravity.weight-and-mass.L3",
+  "unit_title": "Weight and mass",
+  "exp": "Drop it! Where does weight go when things fall?",
+  "key": "setup.e4.1",
+  "what": "The same bottle in mid-air falling towards the bucket, with no water coming out of the holes, motion lines above it.",
+  "caption": "2. Let go. Watch the holes while it falls."
+ },
+ {
+  "code": "P116",
+  "unit": "sci.gravity.weight-and-mass.L3",
+  "unit_title": "Weight and mass",
+  "exp": "Drop it! Where does weight go when things fall?",
+  "key": "setup.e4.2",
+  "what": "A clear bottle with a rubber band hanging from its cap holding a small stack of taped coins, shown stretched while held and short while falling onto a pillow.",
+  "caption": "3. Drop the bottle with coins on a rubber band onto a pillow. Watch the band."
+ },
+ {
+  "code": "P117",
+  "unit": "sci.habitats.habitats.L3",
+  "unit_title": "Habitats",
+  "exp": "Three Bowls of Milk: Where Do Curd Bacteria Make a Home?",
+  "key": "setup.e4.1",
+  "what": "Three covered bowls with paper labels: one wrapped in a thick towel inside a casserole, one on a kitchen counter, one on a fridge shelf.",
+  "caption": "2. Keep one bowl warm, one on the counter and one in the fridge, all night."
+ },
+ {
+  "code": "P118",
+  "unit": "sci.habitats.habitats.L3",
+  "unit_title": "Habitats",
+  "exp": "Three Bowls of Milk: Where Do Curd Bacteria Make a Home?",
+  "key": "setup.e4.3",
+  "what": "The fridge bowl wrapped in the towel inside the casserole, and the same bowl in the evening holding set curd on a tilted spoon.",
+  "caption": "4. Put the fridge bowl somewhere warm. Check it again in the evening."
+ },
+ {
+  "code": "P119",
+  "unit": "sci.habitats.habitats.L3",
+  "unit_title": "Habitats",
+  "exp": "One Garden, Five Different Worlds",
+  "key": "setup.e2.0",
+  "what": "A digital thermometer lying on an open sunny path, with a phone timer showing 2 minutes.",
+  "caption": "1. Put the thermometer on the sunny path for 2 minutes. Read it."
+ },
+ {
+  "code": "P120",
+  "unit": "sci.habitats.habitats.L3",
+  "unit_title": "Habitats",
+  "exp": "Does a Tree Give Water to the Air?",
+  "key": "setup.e3.0",
+  "what": "A clear plastic bag being slipped over a leafy hibiscus branch in sunshine.",
+  "caption": "1. Slip a clear bag over a leafy branch in the sun."
+ },
+ {
+  "code": "P121",
+  "unit": "sci.habitats.habitats.L3",
+  "unit_title": "Habitats",
+  "exp": "Does a Tree Give Water to the Air?",
+  "key": "setup.e3.1",
+  "what": "The bag tied at the stem with string, and a second bag tied over a bare dry stick next to it.",
+  "caption": "2. Tie it tight. Tie a second bag over a bare stick."
+ },
+ {
+  "code": "P122",
+  "unit": "sci.habitats.habitats.L3",
+  "unit_title": "Habitats",
+  "exp": "Does a Tree Give Water to the Air?",
+  "key": "setup.e3.2",
+  "what": "After an hour, the bag on the leafy branch misty with drops collecting at the bottom; the bag on the stick still clear.",
+  "caption": "3. After one hour, look and collect the drops."
+ },
+ {
+  "code": "P123",
+  "unit": "sci.health.hygiene.L3",
+  "unit_title": "Hygiene",
+  "exp": "Oil, Water and Soap in a Jar",
+  "key": "setup.e3.0",
+  "what": "Two clear jars side by side, each with water below and a yellow oil layer on top, a soap bottle beside the second.",
+  "caption": "1. Put water and yellow oil in two jars. Add soap to jar 2 only."
+ },
+ {
+  "code": "P124",
+  "unit": "sci.health.hygiene.L3",
+  "unit_title": "Hygiene",
+  "exp": "Oil, Water and Soap in a Jar",
+  "key": "setup.e3.2",
+  "what": "The two jars after a minute: the first with a clear yellow layer back on top, the second cloudy and pale yellow all through.",
+  "caption": "3. Time which one separates. The soapy jar stays cloudy."
+ },
+ {
+  "code": "P125",
+  "unit": "sci.light.colour.L3",
+  "unit_title": "Colour and rainbows",
+  "exp": "The Water Prism: do the colours ever change order?",
+  "key": "setup.e1.0",
+  "what": "A full glass of water at the edge of a sunny sill, a strip of colours on white paper on the floor below.",
+  "caption": "1. Split sunlight with a glass of water. Note the order."
+ },
+ {
+  "code": "P126",
+  "unit": "sci.light.colour.L3",
+  "unit_title": "Colour and rainbows",
+  "exp": "The Water Prism: do the colours ever change order?",
+  "key": "setup.e1.1",
+  "what": "A small mirror leaning at a slant inside a tray of water, sunlight hitting it under the water, a rainbow strip on a white wall.",
+  "caption": "2. Lean a mirror in a tray of water facing the Sun. Catch the colours on a wall."
+ },
+ {
+  "code": "P127",
+  "unit": "sci.light.colour.L3",
+  "unit_title": "Colour and rainbows",
+  "exp": "The Water Prism: do the colours ever change order?",
+  "key": "setup.e1.2",
+  "what": "A triangle glass prism in a sunbeam on a table, a strip of colours on a sheet of white card.",
+  "caption": "3. Try a glass prism too. Compare all three strips."
+ },
+ {
+  "code": "P128",
+  "unit": "sci.light.colour.L3",
+  "unit_title": "Colour and rainbows",
+  "exp": "Newton's Wheel: spin the colours back into white",
+  "key": "setup.e3.0",
+  "what": "A round white card disc divided into six equal slices coloured red, orange, yellow, green, blue and violet.",
+  "caption": "1. Draw round a tumbler. Colour six slices in rainbow order."
+ },
+ {
+  "code": "P129",
+  "unit": "sci.light.colour.L3",
+  "unit_title": "Colour and rainbows",
+  "exp": "Newton's Wheel: spin the colours back into white",
+  "key": "setup.e3.1",
+  "what": "The rainbow disc pushed onto a short pencil and spinning like a top on a table, looking pale grey-white.",
+  "caption": "2. Push a short pencil through the middle. Spin it fast."
+ },
+ {
+  "code": "P130",
+  "unit": "sci.light.colour.L3",
+  "unit_title": "Colour and rainbows",
+  "exp": "Newton's Wheel: spin the colours back into white",
+  "key": "setup.e3.2",
+  "what": "Three spinning discs side by side: the rainbow one pale, a red-and-green one looking dull yellow-brown, an all-red one still red.",
+  "caption": "3. Spin each disc. What colour do you see?"
+ },
+ {
+  "code": "P131",
+  "unit": "sci.light.how-we-see.L3",
+  "unit_title": "How we see",
+  "exp": "The Dark Box: can we see without light?",
+  "key": "setup.e1.0",
+  "what": "A shoebox with its lid on and a coin-sized peephole in one end, a white paper, a steel spoon and a red ball shown inside as if the box were see-through.",
+  "caption": "1. Hide three things in a shoebox. Close the lid tight."
+ },
+ {
+  "code": "P132",
+  "unit": "sci.light.how-we-see.L3",
+  "unit_title": "How we see",
+  "exp": "Watch Your Pupils Change",
+  "key": "setup.e2.0",
+  "what": "A strip of paper with seven black circles from small to large, each labelled 2 mm to 8 mm.",
+  "caption": "1. Draw a pupil card: black circles from 2 to 8 mm."
+ },
+ {
+  "code": "P133",
+  "unit": "sci.light.living-light.L3",
+  "unit_title": "Living light",
+  "exp": "Warm Glow, Cold Glow: does warmth change a glow stick?",
+  "key": "setup.e1.0",
+  "what": "Three steel tumblers in a row: one with ice cubes, one with plain water, one with gently steaming warm water.",
+  "caption": "1. Fill three glasses: icy, room temperature and warm."
+ },
+ {
+  "code": "P134",
+  "unit": "sci.light.living-light.L3",
+  "unit_title": "Living light",
+  "exp": "Warm Glow, Cold Glow: does warmth change a glow stick?",
+  "key": "setup.e1.2",
+  "what": "In a dark room, three glasses glowing: the warm one bright, the middle one medium, the icy one dim.",
+  "caption": "3. Switch off the light. Which glows brightest?"
+ },
+ {
+  "code": "P135",
+  "unit": "sci.light.living-light.L3",
+  "unit_title": "Living light",
+  "exp": "Cold Light Test: is a glow hot?",
+  "key": "setup.e2.0",
+  "what": "A lit diya on a steel plate and a glowing glow stick lying on a cloth, side by side on a table.",
+  "caption": "1. Put a glowing glow stick and a lit candle side by side."
+ },
+ {
+  "code": "P136",
+  "unit": "sci.light.living-light.L3",
+  "unit_title": "Living light",
+  "exp": "Cold Light Test: is a glow hot?",
+  "key": "setup.e2.2",
+  "what": "Two small thermometers, one next to the glow stick, one next to the diya, the diya's reading higher.",
+  "caption": "3. If you have a thermometer, check each one after 2 minutes."
+ },
+ {
+  "code": "P137",
+  "unit": "sci.light.living-light.L3",
+  "unit_title": "Living light",
+  "exp": "Made or Stored? Glow-in-the-dark stars",
+  "key": "setup.e3.0",
+  "what": "Two glow-in-the-dark stars on a table, one under a torch beam, and a phone showing a stopwatch.",
+  "caption": "1. Cover star A with a bowl. Shine the torch on star B for 50 seconds. Then lift the bowl and shine on both for 10 more seconds."
+ },
+ {
+  "code": "P138",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "Catch the Beam: where does light go after it hits a mirror?",
+  "key": "setup.e1.0",
+  "what": "A torch lying on a table with a piece of card taped over its glass, the card having one thin slit, making a thin line of light on the paper.",
+  "caption": "1. Tape a card with a thin slit over the torch. Now it makes a thin beam."
+ },
+ {
+  "code": "P139",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "Catch the Beam: where does light go after it hits a mirror?",
+  "key": "setup.e1.1",
+  "what": "A small mirror standing upright on the top edge of a big sheet of paper, with a pencil line running straight down from the middle of the mirror to the bottom edge.",
+  "caption": "2. Stand the mirror on the top edge of the paper. Draw a middle line straight down from it."
+ },
+ {
+  "code": "P140",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "Catch the Beam: where does light go after it hits a mirror?",
+  "key": "setup.e1.2",
+  "what": "A thin beam starting 10 cm left of the middle line, hitting the middle of the mirror and reflecting down to a pencil mark 10 cm right of the line, making a V.",
+  "caption": "3. Aim at the middle of the mirror from the left. Mark where the reflected beam lands on the right."
+ },
+ {
+  "code": "P141",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "The Mirror Drawing Race: can your hand learn the mirror's way?",
+  "key": "setup.e2.0",
+  "what": "A star shape drawn with two outlines, one inside the other, on a sheet of paper, with a small mirror standing at the far edge of the paper.",
+  "caption": "1. Put the star paper in front of a standing mirror."
+ },
+ {
+  "code": "P142",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "The Mirror Drawing Race: can your hand learn the mirror's way?",
+  "key": "setup.e2.2",
+  "what": "A pencil line wobbling between the two outlines of the star, with three small marks where it went outside.",
+  "caption": "3. Trace between the lines. Count each time you slip out."
+ },
+ {
+  "code": "P143",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "How Many of Me? Two mirrors and a toy",
+  "key": "setup.e3.0",
+  "what": "Two square mirrors joined along one edge with tape, standing like a book opened halfway.",
+  "caption": "1. Tape two mirrors along one edge, like a book."
+ },
+ {
+  "code": "P144",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "How Many of Me? Two mirrors and a toy",
+  "key": "setup.e3.1",
+  "what": "The joined mirrors standing on a paper circle divided into four slices, opened to fit exactly one quarter slice, with a toy elephant in the middle of the slice.",
+  "caption": "2. Stand them on the gap guide. Put the toy in the middle."
+ },
+ {
+  "code": "P145",
+  "unit": "sci.light.reflection.L3",
+  "unit_title": "Reflection",
+  "exp": "How Many of Me? Two mirrors and a toy",
+  "key": "setup.e3.2",
+  "what": "Looking into the two mirrors at a right angle, the toy elephant appears four times in a ring: the real one and three images.",
+  "caption": "3. Count the images. Then close the gap and count again."
+ },
+ {
+  "code": "P146",
+  "unit": "sci.light.refraction.L3",
+  "unit_title": "Refraction",
+  "exp": "The Broken Pencil: is it really bent?",
+  "key": "setup.e1.0",
+  "what": "A clear glass tumbler on a kitchen table with a pencil leaning in it, empty, looking straight.",
+  "caption": "1. Stand a pencil in an empty glass. It looks straight."
+ },
+ {
+  "code": "P147",
+  "unit": "sci.light.refraction.L3",
+  "unit_title": "Refraction",
+  "exp": "The Water-Drop Magnifier: which drop makes letters biggest?",
+  "key": "setup.e2.0",
+  "what": "A clear plastic school ruler lying on a page of newspaper, across a line of small print, with a cup of water beside it.",
+  "caption": "1. Lay a clear ruler on a line of small print."
+ },
+ {
+  "code": "P148",
+  "unit": "sci.light.refraction.L3",
+  "unit_title": "Refraction",
+  "exp": "The Water-Drop Magnifier: which drop makes letters biggest?",
+  "key": "setup.e2.1",
+  "what": "A straw letting out three water drops along the ruler: one tiny like a mustard seed, one like a pea, one as wide as a coin.",
+  "caption": "2. Make a tiny, a medium and a big drop."
+ },
+ {
+  "code": "P149",
+  "unit": "sci.light.refraction.L3",
+  "unit_title": "Refraction",
+  "exp": "The Appearing Coin",
+  "key": "setup.e3.0",
+  "what": "A one-rupee coin stuck with dough to the bottom of a steel cup, near its side.",
+  "caption": "1. Stick a coin in a cup."
+ },
+ {
+  "code": "P150",
+  "unit": "sci.light.transparent-opaque.L3",
+  "unit_title": "Transparent, translucent and opaque",
+  "exp": "The Gap Test: how far until the words blur?",
+  "key": "setup.e1.0",
+  "what": "A card with the word LIGHT in big letters on a table, with a square of butter paper lying flat on top of it so the letters show through.",
+  "caption": "1. Lay the material flat on the card of letters."
+ },
+ {
+  "code": "P151",
+  "unit": "sci.light.transparent-opaque.L3",
+  "unit_title": "Transparent, translucent and opaque",
+  "exp": "The Oil Spot Window",
+  "key": "setup.e2.0",
+  "what": "A sheet of white paper with three pencil circles labelled DRY, WATER and OIL.",
+  "caption": "1. Draw three circles on the paper: dry, water and oil."
+ },
+ {
+  "code": "P152",
+  "unit": "sci.light.transparent-opaque.L3",
+  "unit_title": "Transparent, translucent and opaque",
+  "exp": "The Oil Spot Window",
+  "key": "setup.e2.2",
+  "what": "The paper held over a newspaper: the words show clearly through the oil spot, less through the water spot, and hardly at all through the dry circle.",
+  "caption": "3. Hold the paper over printed words. Score each spot."
+ },
+ {
+  "code": "P153",
+  "unit": "sci.light.transparent-opaque.L3",
+  "unit_title": "Transparent, translucent and opaque",
+  "exp": "Sunglasses Lab: when do they help?",
+  "key": "setup.e3.0",
+  "what": "A sheet of white paper with six rows of letters getting smaller, row 1 big and row 6 tiny, numbered down the side.",
+  "caption": "1. Make a chart with six rows of letters, big to small."
+ },
+ {
+  "code": "P154",
+  "unit": "sci.light.what-is-light.L3",
+  "unit_title": "What is light, and how fast does it travel?",
+  "exp": "The Glow Star Test: does more light always do more?",
+  "key": "setup.e2.0",
+  "what": "Three glow-in-the-dark star stickers lying on a dark cloth inside a cupboard.",
+  "caption": "1. Keep the stars in a closed box for at least 1 hour, so no glow is left."
+ },
+ {
+  "code": "P155",
+  "unit": "sci.light.what-is-light.L3",
+  "unit_title": "What is light, and how fast does it travel?",
+  "exp": "The Glow Star Test: does more light always do more?",
+  "key": "setup.e2.1",
+  "what": "A phone with a plain bright red screen held just above one glow star in a dark room.",
+  "caption": "2. Hold the red screen over star 1 for 30 seconds."
+ },
+ {
+  "code": "P156",
+  "unit": "sci.light.what-is-light.L3",
+  "unit_title": "What is light, and how fast does it travel?",
+  "exp": "The Glow Star Test: does more light always do more?",
+  "key": "setup.e2.2",
+  "what": "A phone with a plain blue screen held just above a second glow star in a dark room.",
+  "caption": "3. Hold the blue screen over star 2 for 30 seconds."
+ },
+ {
+  "code": "P157",
+  "unit": "sci.light.what-is-light.L3",
+  "unit_title": "What is light, and how fast does it travel?",
+  "exp": "The Glow Star Test: does more light always do more?",
+  "key": "setup.e2.3",
+  "what": "In the dark, one star glowing green-white and the other star dark.",
+  "caption": "4. Switch the screen off. Which star glows?"
+ },
+ {
+  "code": "P158",
+  "unit": "sci.light.what-is-light.L3",
+  "unit_title": "What is light, and how fast does it travel?",
+  "exp": "Chocolate in the Microwave: measure the speed of light",
+  "key": "setup.e3.1",
+  "what": "A flat bar of chocolate on a plate in the middle of the empty microwave.",
+  "caption": "2. Put the chocolate in. A grown-up heats it for 15 to 20 seconds."
+ },
+ {
+  "code": "P159",
+  "unit": "sci.light.what-is-light.L3",
+  "unit_title": "What is light, and how fast does it travel?",
+  "exp": "Chocolate in the Microwave: measure the speed of light",
+  "key": "setup.e3.2",
+  "what": "A chocolate bar with three shiny melted spots in a row, a ruler measuring the gap between two spots as about 6 centimetres.",
+  "caption": "3. Measure the gap between two melted spots."
+ },
+ {
+  "code": "P160",
+  "unit": "sci.magnets.magnets-and-materials.L3",
+  "unit_title": "Magnets",
+  "exp": "The Floating Needle Compass",
+  "key": "setup.e1.1",
+  "what": "A sewing needle lying on a small square of paper floating in the middle of a wide plastic bowl of water.",
+  "caption": "2. Lay it on paper and float it in a plastic or glass bowl."
+ },
+ {
+  "code": "P161",
+  "unit": "sci.magnets.magnets-and-materials.L3",
+  "unit_title": "Magnets",
+  "exp": "The Floating Needle Compass",
+  "key": "setup.e1.2",
+  "what": "The floating needle pointing along a line from a letter N to a letter S drawn beside the bowl, with a phone showing a compass held well away.",
+  "caption": "3. Wait until it stops. Check north with a compass held away."
+ },
+ {
+  "code": "P162",
+  "unit": "sci.magnets.magnets-and-materials.L3",
+  "unit_title": "Magnets",
+  "exp": "Black Sand: find the magnet stone in your soil",
+  "key": "setup.e3.0",
+  "what": "A magnet being slipped inside a small clear zip bag.",
+  "caption": "1. Wrap the magnet in a plastic bag."
+ },
+ {
+  "code": "P163",
+  "unit": "sci.magnets.magnets-and-materials.L3",
+  "unit_title": "Magnets",
+  "exp": "Black Sand: find the magnet stone in your soil",
+  "key": "setup.e3.1",
+  "what": "The bagged magnet being dragged through a plate of dry sand, a fuzzy beard of black grains clinging to it.",
+  "caption": "2. Drag it slowly through the sand 10 times."
+ },
+ {
+  "code": "P164",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "The Leaf That Water Can't Wet",
+  "key": "setup.e1.0",
+  "what": "A tray with a chembu leaf, a tulsi leaf, a steel plate and a sheet of paper laid side by side, a dropper beside them.",
+  "caption": "1. Lay out the four surfaces. Hold leaves by the stalk."
+ },
+ {
+  "code": "P165",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "The Leaf That Water Can't Wet",
+  "key": "setup.e1.1",
+  "what": "Close side view of water drops: a round silver ball on the chembu leaf, a low dome on steel, a flat wet patch on paper.",
+  "caption": "2. Put 5 drops on each. Look at them from the side."
+ },
+ {
+  "code": "P166",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "The Leaf That Water Can't Wet",
+  "key": "setup.e1.2",
+  "what": "The chembu leaf tilted on a book, chalk dust on it, a drop rolling down and leaving a clean stripe behind it.",
+  "caption": "3. Tilt them on a book. Add dust. Watch the drops roll."
+ },
+ {
+  "code": "P167",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "Splash Like a Kingfisher",
+  "key": "setup.e2.0",
+  "what": "Three equal lumps of atta dough shaped as a flat pancake, a round ball and a long pointed cone, on a plate.",
+  "caption": "1. Make a pancake, a ball and a beak from equal dough."
+ },
+ {
+  "code": "P168",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "Splash Like a Kingfisher",
+  "key": "setup.e2.2",
+  "what": "Newspaper around the bucket with many wet spots after the pancake, and only one or two after the beak.",
+  "caption": "3. Count the wet splash spots on the newspaper."
+ },
+ {
+  "code": "P169",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "Keep the Ice: Walls Like a Termite Mound",
+  "key": "setup.e3.0",
+  "what": "Three paper cups on a tray: one bare, one wrapped thickly in newspaper with a rubber band, one wrapped in a wet cotton cloth.",
+  "caption": "1. Make three cup houses with different walls."
+ },
+ {
+  "code": "P170",
+  "unit": "sci.making-things.biomimicry.L3",
+  "unit_title": "Biomimicry",
+  "exp": "Keep the Ice: Walls Like a Termite Mound",
+  "key": "setup.e3.1",
+  "what": "The three cups with card lids standing in bright sunshine on a terrace, an ice cube visible in one with its lid lifted.",
+  "caption": "2. Put an ice cube in each. Put them in the sun together."
+ },
+ {
+  "code": "P171",
+  "unit": "sci.materials.magnetic-materials.L3",
+  "unit_title": "Magnetic materials",
+  "exp": "The Great Magnet Test: what does a magnet attract?",
+  "key": "setup.e1.2",
+  "what": "A results table being filled in with a pencil, and two piles of objects beside it.",
+  "caption": "3. Write what happened. Sort the objects into two piles."
+ },
+ {
+  "code": "P172",
+  "unit": "sci.materials.magnetic-materials.L3",
+  "unit_title": "Magnetic materials",
+  "exp": "Through the Paper: does a magnet work through things?",
+  "key": "setup.e2.1",
+  "what": "A clip stuck to the underside of a thick stack of paper, with a magnet on top and a count of 12 sheets.",
+  "caption": "2. Add more sheets, until the clip stops jumping."
+ },
+ {
+  "code": "P173",
+  "unit": "sci.materials.magnetic-materials.L3",
+  "unit_title": "Magnetic materials",
+  "exp": "Through the Paper: does a magnet work through things?",
+  "key": "setup.e2.2",
+  "what": "A glass of water with a clip inside, moving up the side to follow a magnet held outside the glass.",
+  "caption": "3. Try other things in the gap, like a glass of water."
+ },
+ {
+  "code": "P174",
+  "unit": "sci.materials.magnetic-materials.L3",
+  "unit_title": "Magnetic materials",
+  "exp": "Make a Nail a Magnet: which materials can become magnets?",
+  "key": "setup.e3.0",
+  "what": "A fridge magnet with a chain of four paper clips hanging from it one below the other.",
+  "caption": "1. Hang a chain of clips from the magnet."
+ },
+ {
+  "code": "P175",
+  "unit": "sci.materials.magnetic-materials.L3",
+  "unit_title": "Magnetic materials",
+  "exp": "Make a Nail a Magnet: which materials can become magnets?",
+  "key": "setup.e3.1",
+  "what": "A steel nail touching a magnet at one end and holding three clips at the other end.",
+  "caption": "2. Touch a nail to the magnet. Count the clips it picks up."
+ },
+ {
+  "code": "P176",
+  "unit": "sci.materials.magnetic-materials.L3",
+  "unit_title": "Magnetic materials",
+  "exp": "Make a Nail a Magnet: which materials can become magnets?",
+  "key": "setup.e3.2",
+  "what": "The nail taken away from the magnet, and the clips falling in a small heap.",
+  "caption": "3. Take the nail off the magnet. Watch the clips."
+ },
+ {
+  "code": "P177",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "Snap, Bend or Spring Back?",
+  "key": "setup.e1.0",
+  "what": "Eight things laid out on a table: spaghetti, chalk, ice cream stick, plastic ruler, paper clip, foil strip, plasticine and a rubber band, with three paper labels SNAPS, STAYS BENT and SPRINGS BACK.",
+  "caption": "1. Guess. Put each thing in the pile you think it belongs to."
+ },
+ {
+  "code": "P178",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "Snap, Bend or Spring Back?",
+  "key": "setup.e1.2",
+  "what": "A table showing the results: spaghetti in three pieces, a bent paper clip, and a plastic ruler lying flat and straight.",
+  "caption": "3. Write what happens. Sort the things into three groups."
+ },
+ {
+  "code": "P179",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "The Droop Test: how flexible is it?",
+  "key": "setup.e2.0",
+  "what": "A strip of card lying on a table with 10 centimetres sticking out over the edge, a heavy book on the other end and a coin taped to the tip.",
+  "caption": "1. Let 10 centimetres stick out. Hold the other end under a book. Tape a coin to the tip."
+ },
+ {
+  "code": "P180",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "The Droop Test: how flexible is it?",
+  "key": "setup.e2.1",
+  "what": "A ruler held upright beside the table edge, with the strip's tip drooping down past the 3 centimetre mark.",
+  "caption": "2. Hold a ruler upright. Read how far the tip has dropped."
+ },
+ {
+  "code": "P181",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "The Droop Test: how flexible is it?",
+  "key": "setup.e2.2",
+  "what": "Six strips side by side with their drops shown as bars: tall for the cloth and short for the corrugated card.",
+  "caption": "3. Test each strip 3 times. A bigger drop means a more flexible strip."
+ },
+ {
+  "code": "P182",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "Dry or Damp? Does water change how strong it is?",
+  "key": "setup.e3.0",
+  "what": "A broom handle across the backs of two chairs, a strip of toilet paper hanging from it, a pencil at its bottom end holding a plastic carry bag, and a bucket underneath.",
+  "caption": "1. Hang a strip from a stick. Hang a bag from the strip. Put a bucket below."
+ },
+ {
+  "code": "P183",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "Dry or Damp? Does water change how strong it is?",
+  "key": "setup.e3.2",
+  "what": "A wet fingertip touching the middle of a hanging paper strip, leaving a dark damp patch.",
+  "caption": "3. Make a new strip damp in the middle. Test it the same way."
+ },
+ {
+  "code": "P184",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "The Vanishing Drop: how fast does it soak in?",
+  "key": "setup.e4.0",
+  "what": "Six pieces laid out on a table: a paper towel, cotton cloth, newspaper, printer paper, butter paper and a plastic bag, with a dropper and a cup of water.",
+  "caption": "1. Lay out the six surfaces. Guess the order."
+ },
+ {
+  "code": "P185",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "The Vanishing Drop: how fast does it soak in?",
+  "key": "setup.e4.1",
+  "what": "A dropper releasing one drop onto a paper towel on a plate, a phone timer showing seconds beside it.",
+  "caption": "2. Put one drop on a surface. Start the timer at once."
+ },
+ {
+  "code": "P186",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "The Vanishing Drop: how fast does it soak in?",
+  "key": "setup.e4.2",
+  "what": "A round drop sitting on a plastic bag and a flat damp spot where a drop has gone into a paper towel.",
+  "caption": "3. Stop the timer when the drop is gone. Or stop at 120 seconds."
+ },
+ {
+  "code": "P187",
+  "unit": "sci.materials.properties.L3",
+  "unit_title": "Properties of materials",
+  "exp": "Layers to Darkness: transparent, translucent or opaque?",
+  "key": "setup.e5.0",
+  "what": "A dim room with a torch shining through a clear cup onto a wall, showing a bright round spot.",
+  "caption": "1. Shine a torch through each material. Is the spot clear, blurry or gone?"
+ },
+ {
+  "code": "P188",
+  "unit": "sci.materials.sorting-materials.L3",
+  "unit_title": "Sorting materials",
+  "exp": "One Heap, Three Rules",
+  "key": "setup.e1.0",
+  "what": "A heap of twelve everyday things on a floor: a steel spoon, wooden spoon, comb, glass bangle, rubber band, sock, hanky, candle, diya, pebble, foil ball and paper cup.",
+  "caption": "1. Put twelve one-material things in a heap."
+ },
+ {
+  "code": "P189",
+  "unit": "sci.materials.sorting-materials.L3",
+  "unit_title": "Sorting materials",
+  "exp": "One Heap, Three Rules",
+  "key": "setup.e1.1",
+  "what": "A thumbnail pressing into a candle and leaving a small dent, with a pebble beside it showing no mark.",
+  "caption": "2. Rule 1: press a fingernail into each thing. A mark means soft."
+ },
+ {
+  "code": "P190",
+  "unit": "sci.materials.sorting-materials.L3",
+  "unit_title": "Sorting materials",
+  "exp": "The Scratch Ladder",
+  "key": "setup.e2.1",
+  "what": "A fingernail dragging across a bar of soap and leaving a clear line, and a phone camera zoomed in on the mark.",
+  "caption": "2. Test one: drag a fingernail over each thing. Look for a mark."
+ },
+ {
+  "code": "P191",
+  "unit": "sci.materials.sorting-materials.L3",
+  "unit_title": "Sorting materials",
+  "exp": "Twenty Questions Race: which key is fastest?",
+  "key": "setup.e3.0",
+  "what": "A big sheet of paper with a branching key drawn as a tree lying sideways, with the first question 'Is it hard?' and eight small drawings at the ends of the branches.",
+  "caption": "1. Draw Key A. Each question splits the group in half."
+ },
+ {
+  "code": "P192",
+  "unit": "sci.materials.sorting-materials.L3",
+  "unit_title": "Sorting materials",
+  "exp": "Twenty Questions Race: which key is fastest?",
+  "key": "setup.e3.1",
+  "what": "A second sheet of paper with a long, lopsided chain of questions, each asking about one single thing.",
+  "caption": "2. Draw Key B. Each question picks out only one thing."
+ },
+ {
+  "code": "P193",
+  "unit": "sci.materials.sorting-materials.L3",
+  "unit_title": "Sorting materials",
+  "exp": "Sort by Sound",
+  "key": "setup.e4.2",
+  "what": "Two groups of the same things drawn side by side, one by looks and one by sound, with an arrow showing the foil container moving to a different group.",
+  "caption": "3. Sort by sound. Which things moved to a different group?"
+ },
+ {
+  "code": "P194",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Umbrella Patch Test: which cloth keeps the rain out?",
+  "key": "setup.e1.0",
+  "what": "Four steel tumblers in a row on a tray, each covered with a different square of old cloth held by a rubber band, with a small dip pressed into each and a paper label beside it.",
+  "caption": "1. Stretch a patch of each cloth over a tumbler. Press a small dip."
+ },
+ {
+  "code": "P195",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Umbrella Patch Test: which cloth keeps the rain out?",
+  "key": "setup.e1.3",
+  "what": "A square of umbrella cloth over a tumbler with one drop hanging underneath, right below a tiny pinhole.",
+  "caption": "4. Make one pinhole in a waterproof cloth. Where does the rain get through?"
+ },
+ {
+  "code": "P196",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Strip Strength Test: which paper holds the most?",
+  "key": "setup.e2.1",
+  "what": "A paper strip trapped under a heavy book at a table edge, hanging down with a paper clip hook and a small plastic bag at the bottom.",
+  "caption": "2. Trap the top under a book. Hang a bag from the bottom."
+ },
+ {
+  "code": "P197",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Width Test: does a strip twice as wide hold twice as much?",
+  "key": "setup.e3.1",
+  "what": "A napkin strip trapped under a heavy book at a table edge, hanging down with a paper clip hook and a small plastic bag of coins at the bottom.",
+  "caption": "2. Trap the top under a book. Hang a bag from the bottom."
+ },
+ {
+  "code": "P198",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Width Test: does a strip twice as wide hold twice as much?",
+  "key": "setup.e3.2",
+  "what": "Six torn strips laid side by side on a table, each torn in a different place, with a number of coins written above each.",
+  "caption": "3. Add coins until it tears. Mark where each one tore."
+ },
+ {
+  "code": "P199",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Climbing Water Test: which material soaks up water fastest?",
+  "key": "setup.e4.0",
+  "what": "Twelve paper and cloth strips pegged in a row on a broom handle, each with a pencil line near its bottom.",
+  "caption": "1. Peg the strips on a stick. Mark a line 1 cm from the bottom."
+ },
+ {
+  "code": "P200",
+  "unit": "sci.materials.testing-materials.L3",
+  "unit_title": "Testing materials",
+  "exp": "The Climbing Water Test: which material soaks up water fastest?",
+  "key": "setup.e4.1",
+  "what": "A broom handle resting on two piles of books, one each side of a tray of coloured water, all strips dipping in up to their lines, a timer showing 5 minutes.",
+  "caption": "2. Rest the stick on two piles of books. Every strip dips to its line at once."
+ },
+ {
+  "code": "P201",
+  "unit": "sci.materials.using-materials.L3",
+  "unit_title": "Choosing the right material for a job",
+  "exp": "The Hot Spoon Race",
+  "key": "setup.e1.0",
+  "what": "A steel spoon, a plastic spoon and a wooden spoon lying side by side, each with a small blob of butter and a dried pea on the handle.",
+  "caption": "1. Put a pea-sized blob of butter on the handle of each spoon. Press a pea into each."
+ },
+ {
+  "code": "P202",
+  "unit": "sci.materials.using-materials.L3",
+  "unit_title": "Choosing the right material for a job",
+  "exp": "The Hot Spoon Race",
+  "key": "setup.e1.2",
+  "what": "The mug of spoons with the pea sliding off the steel spoon, a phone timer showing 4 minutes, the other peas still in place.",
+  "caption": "3. Time how long each pea takes to fall."
+ },
+ {
+  "code": "P203",
+  "unit": "sci.materials.using-materials.L3",
+  "unit_title": "Choosing the right material for a job",
+  "exp": "Does a Sweater Make Heat?",
+  "key": "setup.e2.0",
+  "what": "Four saucers in a row: an ice cube bare, one wrapped in foil, one inside a small steel tumbler, and one peeping out of a woollen sock.",
+  "caption": "1. Put four same-sized ice cubes on saucers: bare, in foil, in a tumbler, in a sock."
+ },
+ {
+  "code": "P204",
+  "unit": "sci.materials.using-materials.L3",
+  "unit_title": "Choosing the right material for a job",
+  "exp": "The Matka Mystery",
+  "key": "setup.e3.0",
+  "what": "A small clay pot, a plastic bottle and a steel bottle being filled from the same jug, a thermometer in the jug.",
+  "caption": "1. Pour the same water into a clay pot and two bottles. Measure it."
+ },
+ {
+  "code": "P205",
+  "unit": "sci.materials.using-materials.L3",
+  "unit_title": "Choosing the right material for a job",
+  "exp": "The Matka Mystery",
+  "key": "setup.e3.1",
+  "what": "The three containers standing side by side on a shady verandah, a breeze moving a curtain, the clay pot looking damp on the outside.",
+  "caption": "2. Leave them side by side in a shady, breezy place for 3 hours."
+ },
+ {
+  "code": "P206",
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "unit_title": "What is it made of? Where materials come from",
+  "exp": "Make New Paper from Old Paper",
+  "key": "setup.e1.3",
+  "what": "Three handmade paper sheets drying on cloths, one plain, one with green grass bits, one with orange petals.",
+  "caption": "4. Press, dry and compare the sheets."
+ },
+ {
+  "code": "P207",
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "unit_title": "What is it made of? Where materials come from",
+  "exp": "Salt from the Sea, Like Kashi",
+  "key": "setup.e2.1",
+  "what": "Two dark plates with a little water on each, one on a sunny window sill and one on a shady table.",
+  "caption": "2. Put one plate in the sun and one in the shade."
+ },
+ {
+  "code": "P208",
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "unit_title": "What is it made of? Where materials come from",
+  "exp": "Salt from the Sea, Like Kashi",
+  "key": "setup.e2.2",
+  "what": "A dry plate with a white crust of salt, a magnifying glass showing tiny cube-shaped crystals.",
+  "caption": "3. When they are dry, look at the salt and scrape it up."
+ },
+ {
+  "code": "P209",
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "unit_title": "What is it made of? Where materials come from",
+  "exp": "Colours from the Kitchen",
+  "key": "setup.e3.1",
+  "what": "Four steel bowls of coloured water, each with a white cotton cloth pushed under with a spoon.",
+  "caption": "2. Soak one cotton cloth in each dye for 30 minutes."
+ },
+ {
+  "code": "P210",
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "unit_title": "What is it made of? Where materials come from",
+  "exp": "Colours from the Kitchen",
+  "key": "setup.e3.2",
+  "what": "Four dyed cloths cut in half, the washed halves beside the unwashed halves on a line.",
+  "caption": "3. Wash half of each cloth. Compare which colour stayed."
+ },
+ {
+  "code": "P211",
+  "unit": "sci.materials.what-is-it-made-of.L3",
+  "unit_title": "What is it made of? Where materials come from",
+  "exp": "Turn Milk into Plastic",
+  "key": "setup.e4.1",
+  "what": "White lumps in a tea strainer over a bowl of yellowish watery liquid.",
+  "caption": "2. Strain out the lumps and count them."
+ },
+ {
+  "code": "P212",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "The Rising Leaf Discs",
+  "key": "setup.e1.2",
+  "what": "Three clear cups labelled A, B and C, with A and C in bright sunlight and B under an upturned cardboard box. In cup A, green discs are floating at the top.",
+  "caption": "3. Put cups A and C in the light, and B in the dark. Count the floating discs."
+ },
+ {
+  "code": "P213",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "The Starch Picture: a leaf that keeps a secret",
+  "key": "setup.e2.0",
+  "what": "A white plate with a potato slice and cooked rice turned blue-black where iodine drops landed, and sugar and salt with brown drops.",
+  "caption": "1. Practise: iodine turns blue-black on starch."
+ },
+ {
+  "code": "P214",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "The Starch Picture: a leaf that keeps a secret",
+  "key": "setup.e2.1",
+  "what": "A black paper star clipped onto a leaf of a potted bean plant sitting in sunshine on a windowsill.",
+  "caption": "2. Clip a black paper shape on a leaf. Leave it in the sun for 2 days."
+ },
+ {
+  "code": "P215",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "The Starch Picture: a leaf that keeps a secret",
+  "key": "setup.e2.2",
+  "what": "A pale leaf on a white plate covered in brown iodine, turning blue-black everywhere except a pale star shape.",
+  "caption": "3. A grown-up removes the green. Add iodine. The star stays pale."
+ },
+ {
+  "code": "P216",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "Count the Bubbles: a water plant and a lamp",
+  "key": "setup.e3.0",
+  "what": "A sprig of hydrilla in a tall glass of water, held down by a paper clip, with their cut end at the top.",
+  "caption": "1. Put a water plant in a glass of water, cut end up."
+ },
+ {
+  "code": "P217",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "Count the Bubbles: a water plant and a lamp",
+  "key": "setup.e3.1",
+  "what": "A desk lamp shining on the glass from 10 cm away, measured by a ruler on the table, a stream of tiny bubbles rising from the plant.",
+  "caption": "2. Put the lamp 10 cm away. Count the bubbles for one minute."
+ },
+ {
+  "code": "P218",
+  "unit": "sci.plants.photosynthesis.L3",
+  "unit_title": "Photosynthesis",
+  "exp": "Count the Bubbles: a water plant and a lamp",
+  "key": "setup.e3.2",
+  "what": "The same glass with the lamp moved much further away along the ruler, only a few bubbles rising.",
+  "caption": "3. Move the lamp further away. Count again. Then switch it off."
+ },
+ {
+  "code": "P219",
+  "unit": "sci.plants.plant-parts.L3",
+  "unit_title": "Plant parts",
+  "exp": "Wake the Store: can a stored food part grow with no soil?",
+  "key": "setup.e1.1",
+  "what": "Five labelled steel katoris on a sunny windowsill with a little water in each, and a potato held by toothpicks over a glass of water.",
+  "caption": "2. Put each piece in a saucer of water on the same windowsill."
+ },
+ {
+  "code": "P220",
+  "unit": "sci.plants.plant-parts.L3",
+  "unit_title": "Plant parts",
+  "exp": "The Blue-Black Test: where does a plant keep their starch?",
+  "key": "setup.e2.0",
+  "what": "Six coin-sized pieces of potato, carrot, sweet potato, ginger, onion and raw banana laid out on an old plate on newspaper, each with a paper label.",
+  "caption": "1. A grown-up cuts six small pieces and labels them."
+ },
+ {
+  "code": "P221",
+  "unit": "sci.plants.plant-parts.L3",
+  "unit_title": "Plant parts",
+  "exp": "The Blue-Black Test: where does a plant keep their starch?",
+  "key": "setup.e2.2",
+  "what": "The same plate a minute later: the potato, sweet potato and banana pieces dark blue-black, the carrot and onion still orange-brown.",
+  "caption": "3. Wait one minute. Which pieces turned blue-black?"
+ },
+ {
+  "code": "P222",
+  "unit": "sci.plants.plant-parts.L3",
+  "unit_title": "Plant parts",
+  "exp": "Sun Leaf, Shade Leaf",
+  "key": "setup.e3.1",
+  "what": "A leaf traced in pencil on 1 cm squared paper, with the squares inside it ticked and a number written in the middle.",
+  "caption": "2. Draw round each leaf on squared paper. Count the squares inside."
+ },
+ {
+  "code": "P223",
+  "unit": "sci.plants.plant-parts.L3",
+  "unit_title": "Plant parts",
+  "exp": "Roots Hold the Soil",
+  "key": "setup.e4.1",
+  "what": "Two shallow trays tilted on a pile of books, one with grass and one with bare soil, a clear glass under the notch at the low end of each.",
+  "caption": "2. Tilt a grass tray and a bare tray on books. Put a glass under each."
+ },
+ {
+  "code": "P224",
+  "unit": "sci.plants.plant-parts.L3",
+  "unit_title": "Plant parts",
+  "exp": "Roots Hold the Soil",
+  "key": "setup.e4.2",
+  "what": "A mug pouring water onto the top of each tray. One glass fills with muddy brown water, the other with almost clear water.",
+  "caption": "3. Pour the same water on each. Compare the mud in the glasses."
+ },
+ {
+  "code": "P225",
+  "unit": "sci.plants.plant-variety.L3",
+  "unit_title": "Kinds of plants",
+  "exp": "The Stem Test: which stems can stand up alone?",
+  "key": "setup.e1.0",
+  "what": "Four stem pieces lined up on a sheet of newspaper: a brown twig, a mint stem, a methi stem and a long money plant stem.",
+  "caption": "1. Line up your stems, hardest guess first."
+ },
+ {
+  "code": "P226",
+  "unit": "sci.plants.plant-variety.L3",
+  "unit_title": "Kinds of plants",
+  "exp": "Shade Detective: how much cooler is it under a tree?",
+  "key": "setup.e2.0",
+  "what": "A digital thermometer lying on sunny paving stones in bright light.",
+  "caption": "1. Lay the thermometer on sunny ground for 3 minutes. Read it."
+ },
+ {
+  "code": "P227",
+  "unit": "sci.plants.plant-variety.L3",
+  "unit_title": "Kinds of plants",
+  "exp": "Shade Detective: how much cooler is it under a tree?",
+  "key": "setup.e2.1",
+  "what": "The same thermometer lying on the ground in the deep shade under a neem tree.",
+  "caption": "2. Move it to the shade under a tree. Wait 3 minutes. Read it."
+ },
+ {
+  "code": "P228",
+  "unit": "sci.plants.plant-variety.L3",
+  "unit_title": "Kinds of plants",
+  "exp": "Shade Detective: how much cooler is it under a tree?",
+  "key": "setup.e2.2",
+  "what": "The thermometer on the ground under an open umbrella, then under a hibiscus bush.",
+  "caption": "3. Try the shade of an umbrella and of a shrub."
+ },
+ {
+  "code": "P229",
+  "unit": "sci.plants.plant-variety.L3",
+  "unit_title": "Kinds of plants",
+  "exp": "The Smell Test: which leaves are the strongest?",
+  "key": "setup.e3.0",
+  "what": "Five numbered plates, each with one leaf: mint, coriander, curry leaf, methi and spinach.",
+  "caption": "1. Put one leaf on each numbered plate."
+ },
+ {
+  "code": "P230",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "The Blue Climb: coloured water up a stem",
+  "key": "setup.e1.0",
+  "what": "Two clear glasses side by side on newspaper, one of plain water and one of dark blue water, a dropper bottle of food colour beside them.",
+  "caption": "1. Put plain water in one glass and coloured water in the other."
+ },
+ {
+  "code": "P231",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "The Blue Climb: coloured water up a stem",
+  "key": "setup.e1.2",
+  "what": "The next day: the flower in blue water has blue-edged petals with fine blue lines, the other flower still white, a clock showing the time.",
+  "caption": "3. Look after 2 hours, at bedtime and the next day. Compare the two."
+ },
+ {
+  "code": "P232",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "The Blue Climb: coloured water up a stem",
+  "key": "setup.e1.3",
+  "what": "A white flower stem cut across showing a ring of tiny blue dots seen through a magnifying glass, and a cabbage rib cut across showing a row of blue dots.",
+  "caption": "4. Cut the stem across. Look for coloured dots. They are the water tubes."
+ },
+ {
+  "code": "P233",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "Leafy or Bare? Which stem drinks more?",
+  "key": "setup.e2.0",
+  "what": "Two cut stems of the same plant lying side by side, one full of leaves and one with all its leaves pulled off.",
+  "caption": "1. Cut two similar stems. Pull the leaves off one."
+ },
+ {
+  "code": "P234",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "Leafy or Bare? Which stem drinks more?",
+  "key": "setup.e2.1",
+  "what": "Two identical narrow bottles of water, a stem in each, a thin yellow layer of oil on top of the water and a marker line at the water level.",
+  "caption": "2. Put each in a bottle. Add a thin layer of oil. Mark the level."
+ },
+ {
+  "code": "P235",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "Leafy or Bare? Which stem drinks more?",
+  "key": "setup.e2.2",
+  "what": "The same two bottles two days later, the leafy stem's water level far below its first mark, the bare stem's only a little lower, a ruler held beside them.",
+  "caption": "3. Each day, measure how far the water dropped."
+ },
+ {
+  "code": "P236",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "The Sweating Branch: sun or shade?",
+  "key": "setup.e3.0",
+  "what": "A clear plastic bag being slipped over a leafy hibiscus branch in bright sun, and another over a branch in shade.",
+  "caption": "1. Slip a clear bag over a branch in the sun, and one in the shade."
+ },
+ {
+  "code": "P237",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "The Sweating Branch: sun or shade?",
+  "key": "setup.e3.1",
+  "what": "A thread tied loosely round a branch at the open end of a clear bag.",
+  "caption": "2. Tie each bag gently round its stem. Wait 2 hours."
+ },
+ {
+  "code": "P238",
+  "unit": "sci.plants.water-transport.L3",
+  "unit_title": "How water climbs a plant, from the roots to the leaves",
+  "exp": "The Sweating Branch: sun or shade?",
+  "key": "setup.e3.2",
+  "what": "The two bags after two hours: the sunny one misty with many drops, the shady one only a little misty, and a spoon of water beside each.",
+  "caption": "3. Tap the drops down and measure. Which bag has more?"
+ },
+ {
+  "code": "P239",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "The Light Test: what happens in the dark?",
+  "key": "setup.e1.1",
+  "what": "Six cups on a tray by a window, three of them being covered by an upturned cardboard box, the same tablespoon beside both groups.",
+  "caption": "2. Cover 3 cups with a box. Water every cup the same."
+ },
+ {
+  "code": "P240",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "The Water Test: too little, just right, too much",
+  "key": "setup.e2.0",
+  "what": "Nine plastic cups of young moong seedlings in a row on a windowsill, all the same size.",
+  "caption": "1. Grow 9 cups of seedlings the same way for 5 days."
+ },
+ {
+  "code": "P241",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "The Water Test: too little, just right, too much",
+  "key": "setup.e2.1",
+  "what": "Three groups of cups labelled NONE, JUST RIGHT and SOAKED, the SOAKED cups standing in a deep dish of water, a tablespoon over the JUST RIGHT cups.",
+  "caption": "2. Give 3 cups no water and 3 cups 1 spoon each morning. Stand 3 in water."
+ },
+ {
+  "code": "P242",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "The Water Test: too little, just right, too much",
+  "key": "setup.e2.2",
+  "what": "Three washed seedlings on newspaper: dry shrivelled roots, white spreading roots, and brown soft roots.",
+  "caption": "3. After 8 more days, measure and compare the roots."
+ },
+ {
+  "code": "P243",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "The Warmth Test: cold, cool or warm?",
+  "key": "setup.e3.0",
+  "what": "Three identical steel katoris, each with a folded wet cloth and ten small moong sprouts, a teaspoon beside them.",
+  "caption": "1. Put a wet cloth and 10 sprouts in each of 3 bowls."
+ },
+ {
+  "code": "P244",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "The Warmth Test: cold, cool or warm?",
+  "key": "setup.e3.1",
+  "what": "The three bowls covered with plates: one going into a fridge, one into a kitchen cupboard, one on top of the fridge at the back, a small thermometer beside each.",
+  "caption": "2. Cover all three. Put them in a cold, a cool and a warm place."
+ },
+ {
+  "code": "P245",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "Coloured Light: does the colour matter?",
+  "key": "setup.e4.0",
+  "what": "Four cups of small moong seedlings with straws pushed into the soil around each edge.",
+  "caption": "1. Push 4 straws into each cup around the edge."
+ },
+ {
+  "code": "P246",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "Coloured Light: does the colour matter?",
+  "key": "setup.e4.1",
+  "what": "Four tall cellophane cones, clear, red, blue and green, taped over the cups, a small gap at the bottom of each.",
+  "caption": "2. Cover each cup with a different colour. Leave a gap for air."
+ },
+ {
+  "code": "P247",
+  "unit": "sci.plants.what-plants-need.L3",
+  "unit_title": "What plants need, and how to test it fairly",
+  "exp": "Coloured Light: does the colour matter?",
+  "key": "setup.e4.2",
+  "what": "The four cups with covers removed after a week: sturdy and green under clear, a little taller and thinner under red, short and green under blue, tall and paler under green.",
+  "caption": "3. After a week, take off the covers and compare."
+ },
+ {
+  "code": "P248",
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "unit_title": "A plant's life cycle",
+  "exp": "Flower to Fruit: tag a flower and watch it change",
+  "key": "setup.e1.1",
+  "what": "The same bhindi stalk two days later, the petals shrivelled and fallen, a thin green tip poking out.",
+  "caption": "2. Visit every day. Watch the petals fall and the middle grow."
+ },
+ {
+  "code": "P249",
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "unit_title": "A plant's life cycle",
+  "exp": "Inside the Fruit: find the seeds and the flower's leftovers",
+  "key": "setup.e2.0",
+  "what": "A tomato, a brinjal, a bhindi, a pea pod and a banana on a plate, with arrows to the tomato's green star, the brinjal's cap and the banana's dark tip.",
+  "caption": "1. Find what is left of each flower on the outside."
+ },
+ {
+  "code": "P250",
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "unit_title": "A plant's life cycle",
+  "exp": "Be Edmond: help a pumpkin flower become a fruit",
+  "key": "setup.e3.0",
+  "what": "Two pumpkin flowers side by side, one with a tiny green pumpkin behind its petals labelled as a female flower, one on a thin stalk labelled as a male flower.",
+  "caption": "1. Find female flowers, with a baby fruit behind, and male flowers."
+ },
+ {
+  "code": "P251",
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "unit_title": "A plant's life cycle",
+  "exp": "Be Edmond: help a pumpkin flower become a fruit",
+  "key": "setup.e3.1",
+  "what": "A small paper bag tied loosely with thread over a closed pumpkin flower bud on the vine, in the evening.",
+  "caption": "2. The evening before, cover two female buds with bags."
+ },
+ {
+  "code": "P252",
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "unit_title": "A plant's life cycle",
+  "exp": "Floating Leaves: does a leaf make gas in the light?",
+  "key": "setup.e4.0",
+  "what": "A drinking straw pressed down onto a palak leaf on a fingertip, cutting out a small green circle.",
+  "caption": "1. Press a straw into a palak leaf to cut 20 small circles."
+ },
+ {
+  "code": "P253",
+  "unit": "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+  "unit_title": "A plant's life cycle",
+  "exp": "Floating Leaves: does a leaf make gas in the light?",
+  "key": "setup.e4.2",
+  "what": "Two glasses of water: one in bright sunshine with green circles floating at the top, one in a dark cupboard with circles still at the bottom.",
+  "caption": "3. One glass in bright light, one in the dark. Count the floaters."
+ },
+ {
+  "code": "P254",
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "unit_title": "Seeds",
+  "exp": "The Five-Cup Test: what wakes a seed?",
+  "key": "setup.e1.0",
+  "what": "Five identical clear cups in a row, each with a cotton pad and ten green moong seeds, with paper labels: Dry, Damp, Fridge, Under water, Light.",
+  "caption": "1. Put cotton and 10 moong seeds in each of 5 cups. Label them."
+ },
+ {
+  "code": "P255",
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "unit_title": "Seeds",
+  "exp": "The Five-Cup Test: what wakes a seed?",
+  "key": "setup.e1.2",
+  "what": "Three cups covered with steel plates on a kitchen shelf, one cup covered with a plate inside an open fridge, and one cup under a clear plastic cover on a bright window sill, out of direct sun.",
+  "caption": "3. Cover cups 1, 2 and 4 with plates. Put cup 3, covered, in the fridge. Cover cup 5 with clear plastic and put it in the light."
+ },
+ {
+  "code": "P256",
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "unit_title": "Seeds",
+  "exp": "The Warm Flask: do sprouting seeds breathe?",
+  "key": "setup.e2.1",
+  "what": "Two steel flasks side by side, one labelled LIVE and one labelled BOILED, each filled with moong, a thermometer standing in each, and a loose plug of cotton at the top.",
+  "caption": "2. Fill one flask with live seeds and one with boiled seeds. Put a thermometer in each."
+ },
+ {
+  "code": "P257",
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "unit_title": "Seeds",
+  "exp": "The Swelling Push: how much water does a seed drink?",
+  "key": "setup.e3.0",
+  "what": "50 grams of dry chana in a steel bowl on a kitchen scale showing 50.",
+  "caption": "1. Weigh 50 grams of dry chana."
+ },
+ {
+  "code": "P258",
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "unit_title": "Seeds",
+  "exp": "The Swelling Push: how much water does a seed drink?",
+  "key": "setup.e3.1",
+  "what": "A small clear plastic cup filled to the brim with dry chana and water, its lid pressed on.",
+  "caption": "2. Soak the chana. Also fill a small plastic box to the brim with chana and water, and put on its lid."
+ },
+ {
+  "code": "P259",
+  "unit": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
+  "unit_title": "Seeds",
+  "exp": "The Swelling Push: how much water does a seed drink?",
+  "key": "setup.e3.2",
+  "what": "Next morning: the drained chana on the scale showing about 100, and the plastic cup with its lid pushed up by fat swollen chana.",
+  "caption": "3. Next day, drain, pat dry and weigh again. Look at the lid."
+ },
+ {
+  "code": "P260",
+  "unit": "sci.senses.five-senses.L3",
+  "unit_title": "Our senses",
+  "exp": "Hold Your Nose: is flavour taste or smell?",
+  "key": "setup.e1.0",
+  "what": "Four small steel katoris of sugar on a table, three with a tiny pinch of different brown spice powders being stirred in.",
+  "caption": "1. Mix a pinch of a different spice into three bowls of sugar."
+ },
+ {
+  "code": "P261",
+  "unit": "sci.senses.five-senses.L3",
+  "unit_title": "Our senses",
+  "exp": "The Two-Point Test: where is touch sharpest?",
+  "key": "setup.e2.0",
+  "what": "Four cardboard strips, each with two toothpicks poking through at different gaps, next to a ruler.",
+  "caption": "1. Make four testers with gaps of 0.5, 1, 2 and 4 cm."
+ },
+ {
+  "code": "P262",
+  "unit": "sci.sky.moon-phases.L3",
+  "unit_title": "Why the Moon seems to change shape, and how eclipses happen",
+  "exp": "Which Shadow Is Bigger? Wang Zhenyi's eclipses at home",
+  "key": "setup.e2.0",
+  "what": "A torch on a pile of books shining at a football on a bowl, in a dark room.",
+  "caption": "1. Shine a torch at a football. The torch is the Sun."
+ },
+ {
+  "code": "P263",
+  "unit": "sci.sky.moon-phases.L3",
+  "unit_title": "Why the Moon seems to change shape, and how eclipses happen",
+  "exp": "Which Shadow Is Bigger? Wang Zhenyi's eclipses at home",
+  "key": "setup.e2.2",
+  "what": "The lime held behind the football, completely dark inside the football's big shadow.",
+  "caption": "3. Lime behind: it goes all dark. A lunar eclipse."
+ },
+ {
+  "code": "P264",
+  "unit": "sci.sky.moon-phases.L3",
+  "unit_title": "Why the Moon seems to change shape, and how eclipses happen",
+  "exp": "Is the Rising Moon Really Bigger?",
+  "key": "setup.e3.2",
+  "what": "Two phone photos side by side, the Moon the same small size in each, one with trees below it.",
+  "caption": "3. Compare. Is the Moon really bigger when it rises?"
+ },
+ {
+  "code": "P265",
+  "unit": "sci.sky.sun-moon-stars.L3",
+  "unit_title": "Sun, Moon and stars",
+  "exp": "Own Light or Reflected Light? A Moon in your room",
+  "key": "setup.e2.0",
+  "what": "A table in a dark room with a steel plate, a mirror, a white ball, a glowing phone screen and a candle, where only the phone and candle can be seen.",
+  "caption": "1. In the dark, which things can you still see?"
+ },
+ {
+  "code": "P266",
+  "unit": "sci.sky.sun-moon-stars.L3",
+  "unit_title": "Sun, Moon and stars",
+  "exp": "Own Light or Reflected Light? A Moon in your room",
+  "key": "setup.e2.1",
+  "what": "A torch beam shining on a steel plate, which now gleams.",
+  "caption": "2. Shine the torch on each one. Which shine now?"
+ },
+ {
+  "code": "P267",
+  "unit": "sci.sound.sources-of-sound.L3",
+  "unit_title": "Sources of sound",
+  "exp": "The Twanging Ruler: what changes the sound?",
+  "key": "setup.e1.2",
+  "what": "The same ruler with a long piece sticking out, drawn wobbling slowly in three faint positions.",
+  "caption": "3. Let more stick out and flick again. What changes?"
+ },
+ {
+  "code": "P268",
+  "unit": "sci.sound.sources-of-sound.L3",
+  "unit_title": "Sources of sound",
+  "exp": "Catch the Ring: can you see a sound?",
+  "key": "setup.e2.1",
+  "what": "A spoon hitting the plate, the foil ball flying away from the rim on its thread, with small vibration lines on the plate.",
+  "caption": "2. Ring the plate. Watch the ball jump."
+ },
+ {
+  "code": "P269",
+  "unit": "sci.sound.sources-of-sound.L3",
+  "unit_title": "Sources of sound",
+  "exp": "Catch the Ring: can you see a sound?",
+  "key": "setup.e2.2",
+  "what": "A steel bowl half full of water, lit from the side by a torch, a spoon hitting its rim, fine ripples shimmering on the water next to the wall.",
+  "caption": "3. Ring a bowl of water. Watch the water by the wall."
+ },
+ {
+  "code": "P270",
+  "unit": "sci.sound.sources-of-sound.L3",
+  "unit_title": "Sources of sound",
+  "exp": "The Atta Trick: the mridangam's secret",
+  "key": "setup.e3.1",
+  "what": "Rice grains jumping off the balloon skin as a fingertip taps near the edge.",
+  "caption": "2. Tap it. Watch rice jump on the skin."
+ },
+ {
+  "code": "P271",
+  "unit": "sci.the-very-small.atoms.L3",
+  "unit_title": "Atoms",
+  "exp": "Cut It in Half, Again and Again",
+  "key": "setup.e1.0",
+  "what": "A long paper strip on a table being folded in half, a ruler beside it showing 24 centimetres.",
+  "caption": "1. Fold the 24 cm strip in half and cut across it."
+ },
+ {
+  "code": "P272",
+  "unit": "sci.the-very-small.atoms.L3",
+  "unit_title": "Atoms",
+  "exp": "The Hidden Centre: roll marbles like Rutherford",
+  "key": "setup.e2.0",
+  "what": "Four steel tumblers on a tiled floor in a square, an upside-down steel bowl in the middle, a sheet of cardboard about to be laid on top.",
+  "caption": "1. Hide something under a card held up by four tumblers."
+ },
+ {
+  "code": "P273",
+  "unit": "sci.the-very-small.atoms.L3",
+  "unit_title": "Atoms",
+  "exp": "The Hidden Centre: roll marbles like Rutherford",
+  "key": "setup.e2.2",
+  "what": "A view from above with the card see-through: arrows of marble paths, most straight, one bouncing back off a single battery standing in a small ball of dough.",
+  "caption": "3. Swap in a tiny battery. Most marbles now go straight through."
+ },
+ {
+  "code": "P274",
+  "unit": "sci.the-very-small.atoms.L3",
+  "unit_title": "Atoms",
+  "exp": "Colour Spreads by Itself",
+  "key": "setup.e3.0",
+  "what": "Two clear glasses of water side by side on white paper, steam rising faintly from one.",
+  "caption": "1. Put a glass of hot water and a glass of cold water on white paper."
+ },
+ {
+  "code": "P275",
+  "unit": "sci.the-very-small.atoms.L3",
+  "unit_title": "Atoms",
+  "exp": "Colour Spreads by Itself",
+  "key": "setup.e3.1",
+  "what": "A dropper letting one drop of red food colour fall into each glass at the same moment.",
+  "caption": "2. Add one drop of colour to each at the same time. Don't stir."
+ },
+ {
+  "code": "P276",
+  "unit": "sci.the-very-small.atoms.L3",
+  "unit_title": "Atoms",
+  "exp": "Colour Spreads by Itself",
+  "key": "setup.e3.2",
+  "what": "The same two glasses after 3 minutes: the hot one evenly pink, the cold one clear with a red layer at the bottom.",
+  "caption": "3. Watch for 5 minutes. Which spreads faster?"
+ },
+ {
+  "code": "P277",
+  "unit": "sci.waste.reduce-reuse-recycle.L3",
+  "unit_title": "Reduce, reuse, recycle",
+  "exp": "The Rot Jar Test: what rots, and what doesn't?",
+  "key": "setup.e1.0",
+  "what": "Four clear glass jars of brown soil on a table, labelled with drawings of a banana peel, a newspaper, a cotton rag and a milk packet.",
+  "caption": "1. Fill four clear jars with damp soil."
+ },
+ {
+  "code": "P278",
+  "unit": "sci.waste.reduce-reuse-recycle.L3",
+  "unit_title": "Reduce, reuse, recycle",
+  "exp": "The Rot Jar Test: what rots, and what doesn't?",
+  "key": "setup.e1.2",
+  "what": "The same four jars two weeks later: the peel black and half gone with white threads, the paper grey and soft, the cloth stained, the plastic unchanged.",
+  "caption": "3. Look every few days. Score how much is left."
+ },
+ {
+  "code": "P279",
+  "unit": "sci.waste.reduce-reuse-recycle.L3",
+  "unit_title": "Reduce, reuse, recycle",
+  "exp": "Melt and Remake: new crayons from broken ones",
+  "key": "setup.e2.2",
+  "what": "A silicone tray of hardened new crayons, one bright blue and one brownish mix, with test strokes on paper beside them.",
+  "caption": "3. Let them harden, then draw with them."
+ },
+ {
+  "code": "P280",
+  "unit": "sci.waste.reduce-reuse-recycle.L3",
+  "unit_title": "Reduce, reuse, recycle",
+  "exp": "The Bag Test: which bag carries most?",
+  "key": "setup.e3.0",
+  "what": "Four bags in a row on a floor: a folded newspaper bag, a thin plastic carry bag, a bag made from a striped T-shirt and a cloth jhola, with full 1-litre water bottles and 1 kg atta and rice packets beside them.",
+  "caption": "1. Line up four bags and ten 1-kilogram weights."
+ },
+ {
+  "code": "P281",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "Sea in a Bowl: fresh water from salty water",
+  "key": "setup.e1.1",
+  "what": "Cling film stretched over the bowl with a pebble in the middle making it dip down over the cup, the bowl sitting in bright sunshine.",
+  "caption": "2. Cover with cling film. Put a pebble on top, over the cup. Leave it in the sun."
+ },
+ {
+  "code": "P282",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "Sea in a Bowl: fresh water from salty water",
+  "key": "setup.e1.2",
+  "what": "Close-up of drops on the underside of the cling film running down to the low point and dripping into the cup.",
+  "caption": "3. Drops form on the film, run down and drip into the cup."
+ },
+ {
+  "code": "P283",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "A Cloud in a Jar",
+  "key": "setup.e2.2",
+  "what": "A steel plate with ice cubes on top of the jar, and a white cloud swirling inside the jar under the plate.",
+  "caption": "3. Put a plate of ice on top. Watch a cloud form."
+ },
+ {
+  "code": "P284",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "Leaves in a Bag: do plants give off water?",
+  "key": "setup.e3.1",
+  "what": "An empty, sealed clear bag tied to a bare stick beside the plant.",
+  "caption": "2. Tie an empty bag beside it, to compare."
+ },
+ {
+  "code": "P285",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "Leaves in a Bag: do plants give off water?",
+  "key": "setup.e3.2",
+  "what": "The bag on the leaves fogged with mist and drops at the bottom, next to the clear empty bag.",
+  "caption": "3. After an hour, which bag is misty?"
+ },
+ {
+  "code": "P286",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "The Cold Tumbler: where do the drops come from?",
+  "key": "setup.e4.1",
+  "what": "The icy tumbler covered in shiny drops on the outside, the other tumbler dry.",
+  "caption": "2. Wait 5 minutes. Which one is wet on the outside?"
+ },
+ {
+  "code": "P287",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "The Cold Tumbler: where do the drops come from?",
+  "key": "setup.e4.2",
+  "what": "A fingertip wiping a clear drop from the icy tumbler onto white paper, next to a yellow drop from inside for comparison.",
+  "caption": "3. Wipe a drop on white paper. Is it coloured?"
+ },
+ {
+  "code": "P288",
+  "unit": "sci.water.water-cycle.L3",
+  "unit_title": "The water cycle",
+  "exp": "The Evaporation Race",
+  "key": "setup.e5.1",
+  "what": "One plate in bright sun, one in shade, one in shade in front of a table fan, and the glass in the shade.",
+  "caption": "2. Put them in the sun, the shade, by a fan, and the glass in the shade."
+ },
+ {
+  "code": "P289",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "Rain on Four Grounds: soak in or run off?",
+  "key": "setup.e1.0",
+  "what": "A mug with a line drawn on its side, next to a bucket, with four patches of ground behind: soil, grass, sand and cement tiles.",
+  "caption": "1. Fill the mug to the line. Find four grounds."
+ },
+ {
+  "code": "P290",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "Rain on Four Grounds: soak in or run off?",
+  "key": "setup.e1.2",
+  "what": "A puddle sitting on cement tiles next to dry-looking sand where the water has vanished.",
+  "caption": "3. Stop the timer when the puddle is gone. Compare."
+ },
+ {
+  "code": "P291",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "A Well in a Jar",
+  "key": "setup.e2.0",
+  "what": "A tall clear jar with a straw standing against its side, filled with layers of gravel, sand and brown soil.",
+  "caption": "1. Stand a straw against the side. Fill with gravel, sand and soil."
+ },
+ {
+  "code": "P292",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "A Well in a Jar",
+  "key": "setup.e2.1",
+  "what": "Water being poured onto the soil in the jar, and a wet blue layer showing between the pebbles at the bottom.",
+  "caption": "2. Pour 'rain' on top. Mark the water level at the bottom."
+ },
+ {
+  "code": "P293",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "A Well in a Jar",
+  "key": "setup.e2.2",
+  "what": "A syringe on top of the straw pulling water up through the straw, and two marker lines on the jar showing the level has dropped.",
+  "caption": "3. Pump water up the straw. Mark how far the level falls."
+ },
+ {
+  "code": "P294",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "The Cool Matka Test",
+  "key": "setup.e3.0",
+  "what": "A clay matka, a plain steel bottle and a steel bottle wrapped in a wet cloth, standing side by side in a shady, airy corner.",
+  "caption": "1. Fill all three from the same tap. Wrap one bottle in a wet cloth."
+ },
+ {
+  "code": "P295",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "The Cool Matka Test",
+  "key": "setup.e3.1",
+  "what": "A thermometer dipped into the water of the matka, with the reading visible.",
+  "caption": "2. Measure each one now, and again after 4 hours."
+ },
+ {
+  "code": "P296",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "The Invisible Ring: is clear water clean?",
+  "key": "setup.e4.0",
+  "what": "Three clear glasses of water labelled A, B and C, a spoon of salt going into B and a spoon of soil going into C.",
+  "caption": "1. Make three glasses: plain, salty and muddy."
+ },
+ {
+  "code": "P297",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "The Invisible Ring: is clear water clean?",
+  "key": "setup.e4.1",
+  "what": "Three spoonfuls of water sitting as round spots on a dark steel plate on a sunny windowsill.",
+  "caption": "2. Put a spoon of each on a dark plate. Leave it in the sun."
+ },
+ {
+  "code": "P298",
+  "unit": "sci.water.water-sources-and-uses.L3",
+  "unit_title": "Where our water comes from, and when it is safe to drink",
+  "exp": "The Invisible Ring: is clear water clean?",
+  "key": "setup.e4.2",
+  "what": "The dark plate after drying, one spot with a faint ring, one with a thick white ring, one with a light brown mark.",
+  "caption": "3. When dry, compare what each spot left behind."
+ },
+ {
+  "code": "P299",
+  "unit": "sci.what-is-life.cells.L3",
+  "unit_title": "Cells",
+  "exp": "Onion Skin: is an onion made of tiny rooms?",
+  "key": "setup.e1.1",
+  "what": "The thin onion skin laid flat on a glass slide with one drop of water on it.",
+  "caption": "2. Lay it flat on a slide or clear plastic. Add one drop of water."
+ },
+ {
+  "code": "P300",
+  "unit": "sci.what-is-life.cells.L3",
+  "unit_title": "Cells",
+  "exp": "Cheek Cells: are you made of tiny rooms too?",
+  "key": "setup.e2.1",
+  "what": "The stick being smeared on a glass slide, and one drop of blue colour added.",
+  "caption": "2. Smear it on a slide. Add one drop of colour."
+ },
+ {
+  "code": "P301",
+  "unit": "sci.what-is-life.cells.L3",
+  "unit_title": "Cells",
+  "exp": "Curd Bowls: does milk need living cells to become curd?",
+  "key": "setup.e3.1",
+  "what": "Three steel katoris labelled A, B and C with lukewarm milk: a spoon of curd going into A, nothing into B, the boiled curd into C.",
+  "caption": "2. Lukewarm milk in three bowls. A gets living curd, B gets nothing, C gets the boiled curd."
+ },
+ {
+  "code": "P302",
+  "unit": "sci.what-is-life.cells.L3",
+  "unit_title": "Cells",
+  "exp": "Curd Bowls: does milk need living cells to become curd?",
+  "key": "setup.e3.2",
+  "what": "Next morning, three tilted katoris: A thick and set, B and C still runny.",
+  "caption": "3. Next morning, tilt each bowl. Which ones set?"
+ },
+ {
+  "code": "P303",
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "unit_title": "The edge of life",
+  "exp": "Sleeping Seeds: is a dry seed alive?",
+  "key": "setup.e1.0",
+  "what": "Three steel plates in a row, each with a layer of cotton: plate 1 wet with six moong seeds, plate 2 wet with six small pebbles, plate 3 dry with six moong seeds.",
+  "caption": "1. Make three plates: wet seeds, wet pebbles, dry seeds."
+ },
+ {
+  "code": "P304",
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "unit_title": "The edge of life",
+  "exp": "Sleeping Seeds: is a dry seed alive?",
+  "key": "setup.e1.2",
+  "what": "The first plate on day 4, with white roots curling out of the seeds and a ruler laid beside the longest root.",
+  "caption": "3. Each day, draw all three plates and measure the longest root."
+ },
+ {
+  "code": "P305",
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "unit_title": "The edge of life",
+  "exp": "The Balloon Test: is dried yeast alive?",
+  "key": "setup.e2.0",
+  "what": "Three small plastic bottles in a row labelled 1, 2 and 3, with a spoon of sugar going into each.",
+  "caption": "1. Put 2 teaspoons of sugar in each bottle."
+ },
+ {
+  "code": "P306",
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "unit_title": "The edge of life",
+  "exp": "The Balloon Test: is dried yeast alive?",
+  "key": "setup.e2.2",
+  "what": "Three bottles with balloons stretched over their necks, the balloon on bottle 1 standing up and half full.",
+  "caption": "3. Stretch a balloon over each neck. Watch for 30 minutes."
+ },
+ {
+  "code": "P307",
+  "unit": "sci.what-is-life.edge-of-life.L3",
+  "unit_title": "The edge of life",
+  "exp": "The Crystal Garden: it grows, but is it alive?",
+  "key": "setup.e3.1",
+  "what": "A cotton thread tied to a pencil laid across the top of the jar, the thread hanging into the salty water.",
+  "caption": "2. Hang a thread from a pencil into the jar. Do the same with plain water."
+ },
+ {
+  "code": "P308",
+  "unit": "sci.what-is-life.signs-of-life.L3",
+  "unit_title": "Signs of life",
+  "exp": "The Balloon Test: is something alive in the yeast packet?",
+  "key": "setup.e1.0",
+  "what": "Three small plastic bottles in a row labelled A, B and C, with a spoon of yeast going into each through a paper funnel.",
+  "caption": "1. Put two teaspoons of yeast in each bottle. Add sugar to A and C only."
+ },
+ {
+  "code": "P309",
+  "unit": "sci.what-is-life.signs-of-life.L3",
+  "unit_title": "Signs of life",
+  "exp": "The Balloon Test: is something alive in the yeast packet?",
+  "key": "setup.e1.2",
+  "what": "Three bottles with balloons stretched over their necks: A's balloon standing up fat, B's a little floppy, C's flat.",
+  "caption": "3. Stretch a balloon over each neck. Wait 30 minutes and watch."
+ },
+ {
+  "code": "P310",
+  "unit": "sci.what-is-life.signs-of-life.L3",
+  "unit_title": "Signs of life",
+  "exp": "Sleeping or dead? The seed test",
+  "key": "setup.e2.0",
+  "what": "Four small steel bowls in a row labelled A, B, C and D, each with a bed of cotton wool: A with plump soaked seeds, B with dry seeds, C with soft boiled seeds, D with small plastic beads.",
+  "caption": "1. Set up four cups: soaked seeds, dry seeds, boiled seeds and beads."
+ },
+ {
+  "code": "P311",
+  "unit": "sci.what-is-life.signs-of-life.L3",
+  "unit_title": "Signs of life",
+  "exp": "Sleeping or dead? The seed test",
+  "key": "setup.e2.2",
+  "what": "Cup A full of moong sprouts with long white roots curling down, the other cups unchanged, and a ruler beside cup A.",
+  "caption": "3. Count the sprouts each day. Measure the longest root."
+ }
+]
