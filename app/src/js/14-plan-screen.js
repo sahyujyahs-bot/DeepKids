@@ -190,8 +190,7 @@ function todoTab() {
       `<div class="taskrow ${t.done ? "done" : ""}"><button class="ckb" data-act="tdtick" data-t="${t.id}" aria-label="Done: ${esc(t.title)}">${icon("check")}</button><div style="flex:1;min-width:0"><b style="font-weight:800">${esc(t.title)}</b><p class="xs muted">${t.done ? "Done today" : t.date < today ? "From " + fmt(t.date) + " · still open" : when(t.date)}${t.who && ROLE[t.who] ? " · " + esc(ROLE[t.who]) : ""}</p></div>${t.done ? "" : `<button class="link xs" data-act="todomove" data-t="${t.id}">Tomorrow</button><button class="link xs" data-act="tododel" data-t="${t.id}">Remove</button>`}</div>`;
   const byDay = {};
   open.forEach((p) => (byDay[p.due] = byDay[p.due] || []).push(p));
-  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}
-    <details class="qa-in"${ui.tdAdd ? " open" : ""}><summary class="btn soft sm" style="justify-self:start" data-act="tdadd">${icon("plus")}Add a to-do</summary>${quickAdd(today)}</details></section>`;
+  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3>Get ready for lessons</h3><span class="pill">${open.length}</span></div><p class="xs muted">Prep and things to gather for the next 7 days of lessons. Ticking here also ticks it on Today.</p>
     ${
       open.length
@@ -1186,9 +1185,11 @@ function askList() {
 }
 function dumpCard() {
   const D_ = ui.dump || {},
-    n = (S.events || []).length + (S.todos || []).filter((t) => !t.done).length + (S.notes || []).length,
-    empty = !D_.text && !D_.items && !D_.files?.length;
-  return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Plan your days</h3><p class="xs muted">Tell us your family's week in your own words: classes, outings, trips, rest and meal times, to-dos. We fit lessons around them. Type, use your keyboard's mic, or send a photo.</p></div></div>
+    empty = !D_.text && !D_.items && !D_.files?.length,
+    head = `<div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Tell DeepKids in your own words</h3><p class="xs muted">Write or speak your family's week the way you'd say it, or send a photo of a timetable: it's sorted into your plan.</p></div></div>`;
+  if (!fxAIOn())
+    return `<section class="card dump locked">${head}<div class="composer tall"><span class="cbtn">📷</span><textarea class="inp" rows="2" disabled placeholder="“Swimming Tuesday and Thursday 5 to 6, zoo trip on Saturday…”"></textarea></div><button class="btn soft" data-act="plus" data-r="chat">🔒 Part of DeepKids Plus</button></section>`;
+  return `<section class="card dump">${head}
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
    ${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
@@ -1198,8 +1199,7 @@ function dumpCard() {
    ${D_.busy ? `<p class="xs muted">Reading it and putting it on your plan…</p>` : ""}
    ${empty ? `<div class="dex">${DEX.map(([l, t]) => `<button class="chip" data-act="dex" data-t="${esc(t)}">${esc(l)}</button>`).join("")}</div>` : ""}
    ${SAMPLE ? "" : `<p class="xs muted">Read on this phone, however long: classes, trips, times, days, dates, rest, to-dos and things you own. Reading a photo 📷 is part of DeepKids Plus.</p>`}
-   <div class="row dfoot"><button class="link sm" data-act="told">Your classes, routines and to-dos · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand ? "Hide add by hand" : "Add by hand"}</button></div>
-   ${ui.dhand ? `<div class="handbox">${quickAdd(ui.pday || today)}</div>` : ""}</section>`;
+</section>`;
 }
 // a found item's name can be changed before it goes in
 function ptitleInput(e) {
@@ -1241,13 +1241,14 @@ function parsedLine(it) {
 // One part of the Plan screen; the tabs below put these together
 function planPart(k) {
   const v = ui.pv || "week";
-  // adding to the plan: typed in your own words, then everything you've added (on This week)
+  // adding to the plan: Add by hand first, DeepKids' questions, everything you've added, then the chat (Plus)
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec">${dumpCard()}</section>` +
+      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3>${quickAdd(ui.pday || today)}</div></section>` +
       (Q.length ? plPart("asks") : "") +
-      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
+      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`) +
+      `<section class="sec">${dumpCard()}</section>`
     );
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)

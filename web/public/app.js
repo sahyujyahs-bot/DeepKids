@@ -9955,33 +9955,145 @@ function nightView() {
    <section class="card"><h3 style="font-size:19px">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
    <button class="btn green" data-act="nightdone">${icon("check")}${(S.night || {})[today] ? "Tomorrow is ready" : "All set for tomorrow"}</button>`;
 }
+// Add by hand: pick what it is, fill in only what that kind needs, and it goes where it does its job
+const ADDK = [
+  ["class", "🏸", "Class", "Swimming, Science tuition, tabla"],
+  ["interest", "💡", "Interest", "Dinosaurs, stitching, space"],
+  ["todo", "✅", "To-do", "Buy chart paper"],
+  ["outing", "🚌", "Outing or plan", "Zoo trip, cousin's wedding"],
+  ["did", "🧺", "Something they did", "Made rotis, planted beans"],
+  ["went", "📍", "Place they went", "Planetarium, the beach"],
+  ["remind", "⏰", "Reminder", "Pay the tuition fees"],
+  ["rest", "🍽️", "Rest or meal", "Lunch, nap, quiet time"],
+  ["other", "🩺", "Appointment", "Dentist, parent-teacher meet"],
+  ["have", "📚", "Something we own", "Microscope, Lego, Tinkle comics"],
+];
+const ADDJOB = {
+  class: "It goes on the calendar every week. Mark it done on Today and the hours build up as a skill.",
+  interest: "Kept for your child, linked to topics you can add to the plan. Not put on the calendar.",
+  todo: "It shows on that day's list on Today.",
+  outing: "It goes on the calendar. Afterwards DeepKids asks how it went and counts it as learning.",
+  did: "Counted as learning: linked to the topics it teaches, in hours, in History and on the transcript.",
+  went: "Counted as learning: linked to the topics it teaches, in hours, in History and on the transcript.",
+  remind: "It shows on Today at that time.",
+  rest: "A routine on the calendar. Lessons are planned around it.",
+  other: "It goes on the calendar on that day, and lessons fit around it.",
+  have: "It goes on your Home shelf, and shows up next to the lessons it fits. Separate several with commas.",
+};
+// the kind chosen in Add by hand, with who and how often it repeats (the kind's own default until changed)
+function qaPick() {
+  const kd = ui.qkind || "class",
+    repeats = ["class", "remind", "rest"].includes(kd);
+  return {
+    kd,
+    repeats,
+    w: ui.qwho || (kd === "class" ? "kid" : kd === "remind" || kd === "other" ? "you" : "both"),
+    r: repeats ? ui.qrep || (kd === "class" ? "pick" : kd === "rest" ? "daily" : "once") : "once",
+  };
+}
+// keeps what was typed in Add by hand while a chip re-draws the form
+function qaKeep(b) {
+  const f = b.closest(".addbox");
+  if (f) ui.qdraft = Object.fromEntries(["t", "s", "e", "d"].map((k) => [k, f.querySelector("#qa-" + k)?.value]));
+}
 function quickAdd(date) {
   const Q = ui.qdraft || {},
-    w = ui.qwho || "you",
-    r = ui.qrep || "once",
-    kd = ui.qkind || "other",
+    { kd, repeats, w, r } = qaPick(),
+    K = ADDK.find((x) => x[0] === kd),
     days = ui.qdays || [],
-    todo = kd === "todo";
-  return `<div class="col" style="gap:10px"><input class="inp" id="qa-t" maxlength="80" value="${esc(Q.t || "")}" placeholder="${kd === "class" ? "Science tuition, swimming, tabla" : kd === "rest" ? "Nap, lunch, quiet time" : kd === "outing" ? "Zoo trip, park, grandma's house" : todo ? "Buy chart paper, call the coach" : "Dentist, cousin's birthday"}">
-   <div class="row chips">${QKIND.map(([k, n]) => `<button type="button" class="chip" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}">${n}</button>`).join("")}</div>
-   <div class="whos">${[
-     ["you", "Mine"],
-     ["kid", S.child ? esc(S.child) + "'s" : "Child's"],
-     ["both", "Together"],
-   ]
-     .map(([k, n]) => `<button type="button" aria-pressed="${w === k}" data-act="qwho" data-w="${k}">${n}</button>`)
-     .join("")}</div>
-   ${todo ? "" : `<div class="row" style="align-items:center"><label class="sm">From <input class="inp" id="qa-s" type="time" value="${Q.s || ""}" style="width:auto"></label><label class="sm">to <input class="inp" id="qa-e" type="time" value="${Q.e || ""}" style="width:auto"></label></div>`}
-   <div class="row chips">${Object.entries(QREP)
-     .filter(([k]) => !todo || k === "once")
-     .map(
-       ([k, [n]]) =>
-         `<button type="button" class="chip" aria-pressed="${r === k || (todo && k === "once")}" data-act="qrep" data-r="${k}">${n}</button>`,
-     )
-     .join("")}</div>
-   ${!todo && r === "pick" ? `<div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>` : ""}
-   <label class="sm">${!todo && r !== "once" ? "Starting" : "On"} <input class="inp" id="qa-d" type="date" value="${Q.d || date}" style="width:auto"></label>
-   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo ? "A to-do shows on that day's list, and all of them are in Plan → Calendar, under “To-dos and other plans”." : r === "once" ? "Leave the time empty for a to-do any time that day." : "Repeats every week on those days. Change or remove it any time in Plan → Calendar → To-dos and other plans."}</p></div>`;
+    timed = ["class", "outing", "remind", "rest", "other"].includes(kd),
+    dated = !["interest", "have"].includes(kd) && !(repeats && r !== "once"),
+    life = kd === "did" || kd === "went";
+  return `<div class="addbox">
+   <div class="addkinds">${ADDK.map(([k, e, n]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${n}</button>`).join("")}</div>
+   <div class="addform"><label class="sm" for="qa-t"><b>${K[2]}</b></label><input class="inp" id="qa-t" maxlength="${kd === "have" ? 300 : 80}" value="${esc(Q.t || "")}" placeholder="${esc(K[3])}">
+   ${
+     timed
+       ? `<div class="whos">${[
+           ["kid", S.child ? esc(S.child) + "'s" : "Child's"],
+           ["you", "Mine"],
+           ["both", "Together"],
+         ]
+           .map(
+             ([k, n]) => `<button type="button" aria-pressed="${w === k}" data-act="qwho" data-w="${k}">${n}</button>`,
+           )
+           .join("")}</div>`
+       : ""
+   }
+   ${
+     repeats
+       ? `<div class="row chips">${Object.entries(QREP)
+           .map(
+             ([k, [n]]) =>
+               `<button type="button" class="chip" aria-pressed="${r === k}" data-act="qrep" data-r="${k}">${n}</button>`,
+           )
+           .join(
+             "",
+           )}</div>${r === "pick" ? `<div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>` : ""}`
+       : ""
+   }
+   <div class="addrow">${dated ? `<label class="sm">${life ? "When" : "On"} <input class="inp" id="qa-d" type="date" value="${Q.d || date}" ${life ? `max="${today}"` : ""}></label>` : ""}${timed ? `<label class="sm">${kd === "remind" ? "At" : "From"} <input class="inp" id="qa-s" type="time" value="${Q.s || ""}"></label>${kd === "remind" ? "" : `<label class="sm">to <input class="inp" id="qa-e" type="time" value="${Q.e || ""}"></label>`}` : ""}${life ? `<label class="sm">How long <select class="inp" id="qa-m">${[0, 15, 30, 45, 60, 90, 120, 180].map((x) => `<option value="${x}" ${x === 30 ? "selected" : ""}>${x ? hmin(x) : "Not timed"}</option>`).join("")}</select></label>` : ""}</div>
+   <button class="btn" data-act="qaddq">Add ${K[2].toLowerCase()}</button><p class="xs muted">${ADDJOB[kd]}</p></div></div>`;
+}
+// saves what Add by hand describes, each kind where it does its job
+function quickSave(root) {
+  const g = (q) => root?.querySelector(q)?.value || "",
+    t = g("#qa-t").trim(),
+    s = g("#qa-s"),
+    e = g("#qa-e"),
+    d = g("#qa-d") || today,
+    { kd, w, r } = qaPick(),
+    days = r === "pick" ? ui.qdays || [] : QREP[r][1] || [],
+    id = Math.random().toString(36).slice(2, 9),
+    no = (m) => (sfx("no"), toast(m));
+  if (!t) return no("Write what it is first");
+  if (kd === "interest") {
+    addInterest(t);
+    toast(`${t} saved as an interest. See it in Progress → Skills and life.`);
+  } else if (kd === "have") {
+    const L = invLocal(t);
+    S.inv = [
+      ...(S.inv || []),
+      ...L.map((x) => ({
+        id: Math.random().toString(36).slice(2, 9),
+        name: x.name,
+        cat: x.cat,
+        note: "",
+        from: "told",
+      })),
+    ];
+    toast(L.length === 1 ? `${L[0].name} added to your Home shelf` : `${L.length} things added to your Home shelf`);
+  } else if (kd === "did" || kd === "went") {
+    ui.qdraft = null;
+    lifeRecord({ kind: kd, title: t, date: d > today ? today : d, mins: +g("#qa-m") || 0 });
+    clearIn("qa-t");
+    return;
+  } else if (kd === "todo") {
+    S.todos = [...(S.todos || []), { id, title: t, who: "you", date: d, note: "", done: false }];
+    toast("To-do added for " + fmt(d));
+  } else {
+    if (r !== "once" && !s) return no("Add the time, for something that repeats");
+    if (r === "pick" && !days.length) return no("Pick the days");
+    const end = s ? (e && hm(e) > hm(s) ? e : clock24(hm(s) + (kd === "remind" ? 15 : 60))) : null,
+      title = kd === "remind" ? "⏰ " + t : t,
+      kind = kd === "remind" ? "other" : kd;
+    S.events = [
+      ...(S.events || []),
+      r === "once"
+        ? { id, title, kind, who: w, start: s || null, end, rep: "once", date: d, days: [], from: today, note: "" }
+        : { id, title, kind, who: w, start: s, end, rep: "weekly", days: [...days].sort(), from: today, note: "" },
+    ];
+    toast(
+      r === "once"
+        ? `${t}: ${fmt(d)}${s ? ", " + clock(hm(s)) : ""}`
+        : `${t}: ${days.length === 7 ? "every day" : days.map((x) => DAYN[x]).join(", ")}, ${clock(hm(s))}`,
+    );
+  }
+  sfx("ok");
+  ui.qdays = [];
+  ui.qdraft = null;
+  commit();
+  ["qa-t", "qa-s", "qa-e"].forEach(clearIn);
 }
 function parentView() {
   const p = S.parent || {},
@@ -10388,8 +10500,7 @@ function todoTab() {
       `<div class="taskrow ${t.done ? "done" : ""}"><button class="ckb" data-act="tdtick" data-t="${t.id}" aria-label="Done: ${esc(t.title)}">${icon("check")}</button><div style="flex:1;min-width:0"><b style="font-weight:800">${esc(t.title)}</b><p class="xs muted">${t.done ? "Done today" : t.date < today ? "From " + fmt(t.date) + " · still open" : when(t.date)}${t.who && ROLE[t.who] ? " · " + esc(ROLE[t.who]) : ""}</p></div>${t.done ? "" : `<button class="link xs" data-act="todomove" data-t="${t.id}">Tomorrow</button><button class="link xs" data-act="tododel" data-t="${t.id}">Remove</button>`}</div>`;
   const byDay = {};
   open.forEach((p) => (byDay[p.due] = byDay[p.due] || []).push(p));
-  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}
-    <details class="qa-in"${ui.tdAdd ? " open" : ""}><summary class="btn soft sm" style="justify-self:start" data-act="tdadd">${icon("plus")}Add a to-do</summary>${quickAdd(today)}</details></section>`;
+  let h = `<section class="sec"><div class="sech"><h3>Your to-dos</h3><span class="pill">${T.length}</span></div>${T.length || D.length ? `<div class="col" style="gap:8px">${[...T, ...D].map(tdRow).join("")}</div>` : `<p class="xs muted">Nothing on your list. Things you add without a time land here, like “buy chart paper” or “call the swimming coach”.</p>`}</section>`;
   h += `<section class="sec"><div class="sech"><h3>Get ready for lessons</h3><span class="pill">${open.length}</span></div><p class="xs muted">Prep and things to gather for the next 7 days of lessons. Ticking here also ticks it on Today.</p>
     ${
       open.length
@@ -11384,9 +11495,11 @@ function askList() {
 }
 function dumpCard() {
   const D_ = ui.dump || {},
-    n = (S.events || []).length + (S.todos || []).filter((t) => !t.done).length + (S.notes || []).length,
-    empty = !D_.text && !D_.items && !D_.files?.length;
-  return `<section class="card dump"><div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Plan your days</h3><p class="xs muted">Tell us your family's week in your own words: classes, outings, trips, rest and meal times, to-dos. We fit lessons around them. Type, use your keyboard's mic, or send a photo.</p></div></div>
+    empty = !D_.text && !D_.items && !D_.files?.length,
+    head = `<div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Tell DeepKids in your own words</h3><p class="xs muted">Write or speak your family's week the way you'd say it, or send a photo of a timetable: it's sorted into your plan.</p></div></div>`;
+  if (!fxAIOn())
+    return `<section class="card dump locked">${head}<div class="composer tall"><span class="cbtn">📷</span><textarea class="inp" rows="2" disabled placeholder="“Swimming Tuesday and Thursday 5 to 6, zoo trip on Saturday…”"></textarea></div><button class="btn soft" data-act="plus" data-r="chat">🔒 Part of DeepKids Plus</button></section>`;
+  return `<section class="card dump">${head}
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
    ${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
@@ -11396,8 +11509,7 @@ function dumpCard() {
    ${D_.busy ? `<p class="xs muted">Reading it and putting it on your plan…</p>` : ""}
    ${empty ? `<div class="dex">${DEX.map(([l, t]) => `<button class="chip" data-act="dex" data-t="${esc(t)}">${esc(l)}</button>`).join("")}</div>` : ""}
    ${SAMPLE ? "" : `<p class="xs muted">Read on this phone, however long: classes, trips, times, days, dates, rest, to-dos and things you own. Reading a photo 📷 is part of DeepKids Plus.</p>`}
-   <div class="row dfoot"><button class="link sm" data-act="told">Your classes, routines and to-dos · ${n}</button><button class="link sm" data-act="dhand" aria-expanded="${!!ui.dhand}">${ui.dhand ? "Hide add by hand" : "Add by hand"}</button></div>
-   ${ui.dhand ? `<div class="handbox">${quickAdd(ui.pday || today)}</div>` : ""}</section>`;
+</section>`;
 }
 // a found item's name can be changed before it goes in
 function ptitleInput(e) {
@@ -11439,13 +11551,14 @@ function parsedLine(it) {
 // One part of the Plan screen; the tabs below put these together
 function planPart(k) {
   const v = ui.pv || "week";
-  // adding to the plan: typed in your own words, then everything you've added (on This week)
+  // adding to the plan: Add by hand first, DeepKids' questions, everything you've added, then the chat (Plus)
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec">${dumpCard()}</section>` +
+      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3>${quickAdd(ui.pday || today)}</div></section>` +
       (Q.length ? plPart("asks") : "") +
-      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
+      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`) +
+      `<section class="sec">${dumpCard()}</section>`
     );
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
@@ -16696,92 +16809,21 @@ function onAct(e) {
       sfx("tap");
       break;
     }
-    case "qaddq": {
-      const root = b.closest(".col") || b.closest("#sheetBody") || document.getElementById("main"),
-        g = (s) => root.querySelector(s)?.value || "",
-        t = g("#qa-t").trim(),
-        s = g("#qa-s"),
-        e = g("#qa-e"),
-        d = g("#qa-d") || today,
-        w = ui.qwho || "you",
-        kd = ui.qkind || "other",
-        r = kd === "todo" ? "once" : ui.qrep || "once",
-        days = r === "pick" ? ui.qdays || [] : QREP[r][1] || [];
-      if (!t) {
-        sfx("no");
-        toast("Type what the plan is");
-        return;
-      }
-      if (r !== "once" && !s) {
-        sfx("no");
-        toast("Add a start time for something that repeats");
-        return;
-      }
-      if (r === "pick" && !days.length) {
-        sfx("no");
-        toast("Pick at least one day");
-        return;
-      }
-      const id = Math.random().toString(36).slice(2, 9);
-      if (s && kd !== "todo") {
-        const end = e && hm(e) > hm(s) ? e : clock24(hm(s) + 60);
-        S.events = [
-          ...(S.events || []),
-          r === "once"
-            ? { id, title: t, kind: kd, who: w, start: s, end, rep: "once", date: d, days: [], from: today, note: "" }
-            : {
-                id,
-                title: t,
-                kind: kd,
-                who: w,
-                start: s,
-                end,
-                rep: "weekly",
-                days: [...days].sort(),
-                from: d,
-                note: "",
-              },
-        ];
-        toast(
-          r === "once"
-            ? "Added for " + fmt(d)
-            : `Added: ${days.length === 7 ? "every day" : days.map((x) => DAYN[x]).join(", ")}, ${clock(hm(s))}`,
-        );
-      } else {
-        S.todos = [...(S.todos || []), { id, title: t, who: w, date: d, note: "", done: false }];
-        toast("To-do added for " + fmt(d));
-      }
-      sfx("ok");
-      ui.qdays = [];
-      ui.qdraft = null;
-      commit();
-      ["qa-t", "qa-s", "qa-e"].forEach(clearIn);
+    case "qaddq":
+      quickSave(b.closest(".addbox"));
       break;
-    }
     case "qkind": {
-      const _r = b.closest(".col");
-      if (_r)
-        ui.qdraft = {
-          t: _r.querySelector("#qa-t")?.value,
-          s: _r.querySelector("#qa-s")?.value,
-          e: _r.querySelector("#qa-e")?.value,
-          d: _r.querySelector("#qa-d")?.value,
-        };
+      qaKeep(b);
       ui.qkind = b.dataset.k;
+      ui.qrep = ui.qwho = null;
+      ui.qdays = [];
       sfx("tap");
       render();
       if (sheet.open) renderSheet();
       break;
     }
     case "qrep": {
-      const _r = b.closest(".col");
-      if (_r)
-        ui.qdraft = {
-          t: _r.querySelector("#qa-t")?.value,
-          s: _r.querySelector("#qa-s")?.value,
-          e: _r.querySelector("#qa-e")?.value,
-          d: _r.querySelector("#qa-d")?.value,
-        };
+      qaKeep(b);
       ui.qrep = b.dataset.r;
       sfx("tap");
       render();
@@ -16789,14 +16831,7 @@ function onAct(e) {
       break;
     }
     case "qday": {
-      const _r = b.closest(".col");
-      if (_r)
-        ui.qdraft = {
-          t: _r.querySelector("#qa-t")?.value,
-          s: _r.querySelector("#qa-s")?.value,
-          e: _r.querySelector("#qa-e")?.value,
-          d: _r.querySelector("#qa-d")?.value,
-        };
+      qaKeep(b);
       const d = +b.dataset.d,
         a = ui.qdays || [];
       ui.qdays = a.includes(d) ? a.filter((x) => x !== d) : [...a, d];
@@ -17797,12 +17832,6 @@ function onAct(e) {
       sfx("tap");
       break;
     }
-    case "dhand": {
-      ui.dhand = !ui.dhand;
-      sfx("tap");
-      render();
-      break;
-    }
     case "dnofiles": {
       if (ui.dump) ui.dump.files = [];
       sfx("flip");
@@ -18014,10 +18043,6 @@ function onAct(e) {
         sfx(x.done ? "tick" : "flip");
         commit();
       }
-      break;
-    }
-    case "tdadd": {
-      ui.tdAdd = !ui.tdAdd;
       break;
     }
     case "subtog": {

@@ -314,33 +314,145 @@ function nightView() {
    <section class="card"><h3 style="font-size:19px">Any other plans tomorrow?</h3>${quickAdd(tm)}</section>
    <button class="btn green" data-act="nightdone">${icon("check")}${(S.night || {})[today] ? "Tomorrow is ready" : "All set for tomorrow"}</button>`;
 }
+// Add by hand: pick what it is, fill in only what that kind needs, and it goes where it does its job
+const ADDK = [
+  ["class", "🏸", "Class", "Swimming, Science tuition, tabla"],
+  ["interest", "💡", "Interest", "Dinosaurs, stitching, space"],
+  ["todo", "✅", "To-do", "Buy chart paper"],
+  ["outing", "🚌", "Outing or plan", "Zoo trip, cousin's wedding"],
+  ["did", "🧺", "Something they did", "Made rotis, planted beans"],
+  ["went", "📍", "Place they went", "Planetarium, the beach"],
+  ["remind", "⏰", "Reminder", "Pay the tuition fees"],
+  ["rest", "🍽️", "Rest or meal", "Lunch, nap, quiet time"],
+  ["other", "🩺", "Appointment", "Dentist, parent-teacher meet"],
+  ["have", "📚", "Something we own", "Microscope, Lego, Tinkle comics"],
+];
+const ADDJOB = {
+  class: "It goes on the calendar every week. Mark it done on Today and the hours build up as a skill.",
+  interest: "Kept for your child, linked to topics you can add to the plan. Not put on the calendar.",
+  todo: "It shows on that day's list on Today.",
+  outing: "It goes on the calendar. Afterwards DeepKids asks how it went and counts it as learning.",
+  did: "Counted as learning: linked to the topics it teaches, in hours, in History and on the transcript.",
+  went: "Counted as learning: linked to the topics it teaches, in hours, in History and on the transcript.",
+  remind: "It shows on Today at that time.",
+  rest: "A routine on the calendar. Lessons are planned around it.",
+  other: "It goes on the calendar on that day, and lessons fit around it.",
+  have: "It goes on your Home shelf, and shows up next to the lessons it fits. Separate several with commas.",
+};
+// the kind chosen in Add by hand, with who and how often it repeats (the kind's own default until changed)
+function qaPick() {
+  const kd = ui.qkind || "class",
+    repeats = ["class", "remind", "rest"].includes(kd);
+  return {
+    kd,
+    repeats,
+    w: ui.qwho || (kd === "class" ? "kid" : kd === "remind" || kd === "other" ? "you" : "both"),
+    r: repeats ? ui.qrep || (kd === "class" ? "pick" : kd === "rest" ? "daily" : "once") : "once",
+  };
+}
+// keeps what was typed in Add by hand while a chip re-draws the form
+function qaKeep(b) {
+  const f = b.closest(".addbox");
+  if (f) ui.qdraft = Object.fromEntries(["t", "s", "e", "d"].map((k) => [k, f.querySelector("#qa-" + k)?.value]));
+}
 function quickAdd(date) {
   const Q = ui.qdraft || {},
-    w = ui.qwho || "you",
-    r = ui.qrep || "once",
-    kd = ui.qkind || "other",
+    { kd, repeats, w, r } = qaPick(),
+    K = ADDK.find((x) => x[0] === kd),
     days = ui.qdays || [],
-    todo = kd === "todo";
-  return `<div class="col" style="gap:10px"><input class="inp" id="qa-t" maxlength="80" value="${esc(Q.t || "")}" placeholder="${kd === "class" ? "Science tuition, swimming, tabla" : kd === "rest" ? "Nap, lunch, quiet time" : kd === "outing" ? "Zoo trip, park, grandma's house" : todo ? "Buy chart paper, call the coach" : "Dentist, cousin's birthday"}">
-   <div class="row chips">${QKIND.map(([k, n]) => `<button type="button" class="chip" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}">${n}</button>`).join("")}</div>
-   <div class="whos">${[
-     ["you", "Mine"],
-     ["kid", S.child ? esc(S.child) + "'s" : "Child's"],
-     ["both", "Together"],
-   ]
-     .map(([k, n]) => `<button type="button" aria-pressed="${w === k}" data-act="qwho" data-w="${k}">${n}</button>`)
-     .join("")}</div>
-   ${todo ? "" : `<div class="row" style="align-items:center"><label class="sm">From <input class="inp" id="qa-s" type="time" value="${Q.s || ""}" style="width:auto"></label><label class="sm">to <input class="inp" id="qa-e" type="time" value="${Q.e || ""}" style="width:auto"></label></div>`}
-   <div class="row chips">${Object.entries(QREP)
-     .filter(([k]) => !todo || k === "once")
-     .map(
-       ([k, [n]]) =>
-         `<button type="button" class="chip" aria-pressed="${r === k || (todo && k === "once")}" data-act="qrep" data-r="${k}">${n}</button>`,
-     )
-     .join("")}</div>
-   ${!todo && r === "pick" ? `<div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>` : ""}
-   <label class="sm">${!todo && r !== "once" ? "Starting" : "On"} <input class="inp" id="qa-d" type="date" value="${Q.d || date}" style="width:auto"></label>
-   <button class="btn sm" data-act="qaddq" style="justify-self:start">Add</button><p class="xs muted">${todo ? "A to-do shows on that day's list, and all of them are in Plan → Calendar, under “To-dos and other plans”." : r === "once" ? "Leave the time empty for a to-do any time that day." : "Repeats every week on those days. Change or remove it any time in Plan → Calendar → To-dos and other plans."}</p></div>`;
+    timed = ["class", "outing", "remind", "rest", "other"].includes(kd),
+    dated = !["interest", "have"].includes(kd) && !(repeats && r !== "once"),
+    life = kd === "did" || kd === "went";
+  return `<div class="addbox">
+   <div class="addkinds">${ADDK.map(([k, e, n]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${n}</button>`).join("")}</div>
+   <div class="addform"><label class="sm" for="qa-t"><b>${K[2]}</b></label><input class="inp" id="qa-t" maxlength="${kd === "have" ? 300 : 80}" value="${esc(Q.t || "")}" placeholder="${esc(K[3])}">
+   ${
+     timed
+       ? `<div class="whos">${[
+           ["kid", S.child ? esc(S.child) + "'s" : "Child's"],
+           ["you", "Mine"],
+           ["both", "Together"],
+         ]
+           .map(
+             ([k, n]) => `<button type="button" aria-pressed="${w === k}" data-act="qwho" data-w="${k}">${n}</button>`,
+           )
+           .join("")}</div>`
+       : ""
+   }
+   ${
+     repeats
+       ? `<div class="row chips">${Object.entries(QREP)
+           .map(
+             ([k, [n]]) =>
+               `<button type="button" class="chip" aria-pressed="${r === k}" data-act="qrep" data-r="${k}">${n}</button>`,
+           )
+           .join(
+             "",
+           )}</div>${r === "pick" ? `<div class="dpick">${[1, 2, 3, 4, 5, 6, 0].map((d) => `<button type="button" aria-pressed="${days.includes(d)}" data-act="qday" data-d="${d}">${DAYN[d]}</button>`).join("")}</div>` : ""}`
+       : ""
+   }
+   <div class="addrow">${dated ? `<label class="sm">${life ? "When" : "On"} <input class="inp" id="qa-d" type="date" value="${Q.d || date}" ${life ? `max="${today}"` : ""}></label>` : ""}${timed ? `<label class="sm">${kd === "remind" ? "At" : "From"} <input class="inp" id="qa-s" type="time" value="${Q.s || ""}"></label>${kd === "remind" ? "" : `<label class="sm">to <input class="inp" id="qa-e" type="time" value="${Q.e || ""}"></label>`}` : ""}${life ? `<label class="sm">How long <select class="inp" id="qa-m">${[0, 15, 30, 45, 60, 90, 120, 180].map((x) => `<option value="${x}" ${x === 30 ? "selected" : ""}>${x ? hmin(x) : "Not timed"}</option>`).join("")}</select></label>` : ""}</div>
+   <button class="btn" data-act="qaddq">Add ${K[2].toLowerCase()}</button><p class="xs muted">${ADDJOB[kd]}</p></div></div>`;
+}
+// saves what Add by hand describes, each kind where it does its job
+function quickSave(root) {
+  const g = (q) => root?.querySelector(q)?.value || "",
+    t = g("#qa-t").trim(),
+    s = g("#qa-s"),
+    e = g("#qa-e"),
+    d = g("#qa-d") || today,
+    { kd, w, r } = qaPick(),
+    days = r === "pick" ? ui.qdays || [] : QREP[r][1] || [],
+    id = Math.random().toString(36).slice(2, 9),
+    no = (m) => (sfx("no"), toast(m));
+  if (!t) return no("Write what it is first");
+  if (kd === "interest") {
+    addInterest(t);
+    toast(`${t} saved as an interest. See it in Progress → Skills and life.`);
+  } else if (kd === "have") {
+    const L = invLocal(t);
+    S.inv = [
+      ...(S.inv || []),
+      ...L.map((x) => ({
+        id: Math.random().toString(36).slice(2, 9),
+        name: x.name,
+        cat: x.cat,
+        note: "",
+        from: "told",
+      })),
+    ];
+    toast(L.length === 1 ? `${L[0].name} added to your Home shelf` : `${L.length} things added to your Home shelf`);
+  } else if (kd === "did" || kd === "went") {
+    ui.qdraft = null;
+    lifeRecord({ kind: kd, title: t, date: d > today ? today : d, mins: +g("#qa-m") || 0 });
+    clearIn("qa-t");
+    return;
+  } else if (kd === "todo") {
+    S.todos = [...(S.todos || []), { id, title: t, who: "you", date: d, note: "", done: false }];
+    toast("To-do added for " + fmt(d));
+  } else {
+    if (r !== "once" && !s) return no("Add the time, for something that repeats");
+    if (r === "pick" && !days.length) return no("Pick the days");
+    const end = s ? (e && hm(e) > hm(s) ? e : clock24(hm(s) + (kd === "remind" ? 15 : 60))) : null,
+      title = kd === "remind" ? "⏰ " + t : t,
+      kind = kd === "remind" ? "other" : kd;
+    S.events = [
+      ...(S.events || []),
+      r === "once"
+        ? { id, title, kind, who: w, start: s || null, end, rep: "once", date: d, days: [], from: today, note: "" }
+        : { id, title, kind, who: w, start: s, end, rep: "weekly", days: [...days].sort(), from: today, note: "" },
+    ];
+    toast(
+      r === "once"
+        ? `${t}: ${fmt(d)}${s ? ", " + clock(hm(s)) : ""}`
+        : `${t}: ${days.length === 7 ? "every day" : days.map((x) => DAYN[x]).join(", ")}, ${clock(hm(s))}`,
+    );
+  }
+  sfx("ok");
+  ui.qdays = [];
+  ui.qdraft = null;
+  commit();
+  ["qa-t", "qa-s", "qa-e"].forEach(clearIn);
 }
 function parentView() {
   const p = S.parent || {},

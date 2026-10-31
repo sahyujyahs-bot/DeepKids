@@ -628,92 +628,21 @@ function onAct(e) {
       sfx("tap");
       break;
     }
-    case "qaddq": {
-      const root = b.closest(".col") || b.closest("#sheetBody") || document.getElementById("main"),
-        g = (s) => root.querySelector(s)?.value || "",
-        t = g("#qa-t").trim(),
-        s = g("#qa-s"),
-        e = g("#qa-e"),
-        d = g("#qa-d") || today,
-        w = ui.qwho || "you",
-        kd = ui.qkind || "other",
-        r = kd === "todo" ? "once" : ui.qrep || "once",
-        days = r === "pick" ? ui.qdays || [] : QREP[r][1] || [];
-      if (!t) {
-        sfx("no");
-        toast("Type what the plan is");
-        return;
-      }
-      if (r !== "once" && !s) {
-        sfx("no");
-        toast("Add a start time for something that repeats");
-        return;
-      }
-      if (r === "pick" && !days.length) {
-        sfx("no");
-        toast("Pick at least one day");
-        return;
-      }
-      const id = Math.random().toString(36).slice(2, 9);
-      if (s && kd !== "todo") {
-        const end = e && hm(e) > hm(s) ? e : clock24(hm(s) + 60);
-        S.events = [
-          ...(S.events || []),
-          r === "once"
-            ? { id, title: t, kind: kd, who: w, start: s, end, rep: "once", date: d, days: [], from: today, note: "" }
-            : {
-                id,
-                title: t,
-                kind: kd,
-                who: w,
-                start: s,
-                end,
-                rep: "weekly",
-                days: [...days].sort(),
-                from: d,
-                note: "",
-              },
-        ];
-        toast(
-          r === "once"
-            ? "Added for " + fmt(d)
-            : `Added: ${days.length === 7 ? "every day" : days.map((x) => DAYN[x]).join(", ")}, ${clock(hm(s))}`,
-        );
-      } else {
-        S.todos = [...(S.todos || []), { id, title: t, who: w, date: d, note: "", done: false }];
-        toast("To-do added for " + fmt(d));
-      }
-      sfx("ok");
-      ui.qdays = [];
-      ui.qdraft = null;
-      commit();
-      ["qa-t", "qa-s", "qa-e"].forEach(clearIn);
+    case "qaddq":
+      quickSave(b.closest(".addbox"));
       break;
-    }
     case "qkind": {
-      const _r = b.closest(".col");
-      if (_r)
-        ui.qdraft = {
-          t: _r.querySelector("#qa-t")?.value,
-          s: _r.querySelector("#qa-s")?.value,
-          e: _r.querySelector("#qa-e")?.value,
-          d: _r.querySelector("#qa-d")?.value,
-        };
+      qaKeep(b);
       ui.qkind = b.dataset.k;
+      ui.qrep = ui.qwho = null;
+      ui.qdays = [];
       sfx("tap");
       render();
       if (sheet.open) renderSheet();
       break;
     }
     case "qrep": {
-      const _r = b.closest(".col");
-      if (_r)
-        ui.qdraft = {
-          t: _r.querySelector("#qa-t")?.value,
-          s: _r.querySelector("#qa-s")?.value,
-          e: _r.querySelector("#qa-e")?.value,
-          d: _r.querySelector("#qa-d")?.value,
-        };
+      qaKeep(b);
       ui.qrep = b.dataset.r;
       sfx("tap");
       render();
@@ -721,14 +650,7 @@ function onAct(e) {
       break;
     }
     case "qday": {
-      const _r = b.closest(".col");
-      if (_r)
-        ui.qdraft = {
-          t: _r.querySelector("#qa-t")?.value,
-          s: _r.querySelector("#qa-s")?.value,
-          e: _r.querySelector("#qa-e")?.value,
-          d: _r.querySelector("#qa-d")?.value,
-        };
+      qaKeep(b);
       const d = +b.dataset.d,
         a = ui.qdays || [];
       ui.qdays = a.includes(d) ? a.filter((x) => x !== d) : [...a, d];
@@ -1729,12 +1651,6 @@ function onAct(e) {
       sfx("tap");
       break;
     }
-    case "dhand": {
-      ui.dhand = !ui.dhand;
-      sfx("tap");
-      render();
-      break;
-    }
     case "dnofiles": {
       if (ui.dump) ui.dump.files = [];
       sfx("flip");
@@ -1946,10 +1862,6 @@ function onAct(e) {
         sfx(x.done ? "tick" : "flip");
         commit();
       }
-      break;
-    }
-    case "tdadd": {
-      ui.tdAdd = !ui.tdAdd;
       break;
     }
     case "subtog": {

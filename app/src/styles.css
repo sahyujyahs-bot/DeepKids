@@ -2279,7 +2279,14 @@ dialog.mini::backdrop {
 }
 .thumbs {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.addk:last-child:nth-child(3n + 1) {
+  grid-column: 1 / -1;
+  grid-auto-flow: column;
+  justify-content: center;
+  align-items: center;
   gap: 8px;
 }
 .thumbs figure {
@@ -3878,14 +3885,68 @@ a.btn {
 .dex .chip {
   font-size: 13px;
 }
-.dfoot {
-  justify-content: space-between;
+.dump.locked textarea {
+  opacity: 0.6;
+}
+/* Add by hand: a grid of kinds, then only the fields that kind needs */
+.addbox {
+  display: grid;
   gap: 14px;
 }
-.handbox {
-  padding: 12px;
-  border-radius: 16px;
-  background: rgba(43, 35, 64, 0.04);
+.addkinds {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.addk:last-child:nth-child(3n + 1) {
+  grid-column: 1 / -1;
+  grid-auto-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+.addk {
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+  padding: 10px 6px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-lg);
+  background: var(--surface);
+  box-shadow: 2px 2px 0 var(--ink);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  cursor: pointer;
+}
+.addk > span {
+  font-size: 24px;
+}
+.addk[aria-pressed="true"] {
+  background: var(--sun);
+  transform: translate(2px, 2px);
+  box-shadow: none;
+}
+.addform {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border: 1.5px dashed var(--ink);
+  border-radius: var(--r-lg);
+  background: rgba(43, 35, 64, 0.03);
+}
+.addrow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.addrow label {
+  display: grid;
+  gap: 4px;
+  flex: 1 1 120px;
 }
 .mascot {
   cursor: pointer;
