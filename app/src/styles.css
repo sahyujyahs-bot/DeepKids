@@ -5916,13 +5916,25 @@ header.top .hello b {
   gap: 10px;
 }
 .fxgoal {
-  border: 1.5px solid var(--rule);
+  border: 1.5px solid var(--ink);
   border-radius: var(--r-lg);
   padding: 10px 12px;
   display: grid;
+  gap: 2px;
   text-align: left;
   color: inherit;
   background: #fff;
+  box-shadow: 3px 3px 0 var(--ink);
+  cursor: pointer;
+}
+.fxgoal:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 var(--ink);
+}
+.goalgo {
+  font: 700 13px var(--body);
+  font-style: normal;
+  color: var(--tang);
 }
 .fxgoal b {
   font: 400 30px/1 var(--poster);
