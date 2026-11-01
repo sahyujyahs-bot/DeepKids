@@ -338,23 +338,43 @@
      "items": [
       {
        "f": "A baby spider spins her first web without ever seeing one made.",
-       "b": "Born knowing"
+       "b": "Born knowing",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-00.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A newly hatched sea turtle crawls down the beach to the sea at night.",
-       "b": "Born knowing"
+       "b": "Born knowing",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-01.jpg",
+        "credit": "Sundar Lakshmanan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A chick pecks at grains soon after hatching.",
-       "b": "Born knowing"
+       "b": "Born knowing",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-02.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A koel chick raised by crows grows up calling 'koo-oo' like a koel.",
-       "b": "Born knowing"
+       "b": "Born knowing",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-03.jpg",
+        "credit": "Tom Heijnen, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A newborn calf stands up and walks within a few hours of birth.",
-       "b": "Born knowing"
+       "b": "Born knowing",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-04.jpg",
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A dog sits when asked, because sitting has brought a treat many times.",

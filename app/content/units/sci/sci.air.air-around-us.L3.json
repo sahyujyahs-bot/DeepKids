@@ -445,7 +445,11 @@
       },
       {
        "f": "A lotus stem",
-       "b": "Air is in its long hollow canals."
+       "b": "Air is in its long hollow canals.",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-07.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A woollen sweater",
@@ -489,7 +493,11 @@
       },
       {
        "f": "A leaf",
-       "b": "Air is inside the leaf and comes in through the stomata."
+       "b": "Air is inside the leaf and comes in through the stomata.",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-18.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A balloon",
