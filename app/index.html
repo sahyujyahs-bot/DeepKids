@@ -2288,13 +2288,6 @@ dialog.mini::backdrop {
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
 }
-.addk:last-child:nth-child(3n + 1) {
-  grid-column: 1 / -1;
-  grid-auto-flow: column;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-}
 .thumbs figure {
   margin: 0;
   display: grid;
@@ -3918,41 +3911,31 @@ a.btn {
   gap: 14px;
 }
 .addkinds {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
-}
-.addk:last-child:nth-child(3n + 1) {
-  grid-column: 1 / -1;
-  grid-auto-flow: column;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
 }
 .addk {
-  display: grid;
-  justify-items: center;
-  gap: 2px;
-  padding: 10px 6px;
-  border: 1.5px solid var(--ink);
-  border-radius: var(--r-lg);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 11px;
+  border: 1.5px solid var(--line);
+  border-radius: 999px;
   background: var(--surface);
-  box-shadow: 2px 2px 0 var(--ink);
   color: var(--ink);
   font: inherit;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.2;
-  text-align: center;
   cursor: pointer;
 }
 .addk > span {
-  font-size: 24px;
+  font-size: 16px;
 }
 .addk[aria-pressed="true"] {
   background: var(--sun);
-  transform: translate(2px, 2px);
-  box-shadow: none;
+  border-color: var(--ink);
 }
 .addform {
   display: grid;
