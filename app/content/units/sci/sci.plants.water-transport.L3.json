@@ -43,14 +43,14 @@
   {
    "term": "Stem",
    "meaning": "The part that holds a plant up. It carries water up from the roots to the leaves and flowers. A tree's trunk is a big, woody stem.",
-   "example": "The long stalk of a rajnigandha flower, or of a balsam plant, is the stem.",
+   "example": "The long stalk of a rajnigandha flower, a balsam plant and the hollow bamboo of Assam and Kerala are all stems.",
    "art": "A balsam plant with their see-through green stem highlighted."
   },
   {
    "term": "Transport",
    "meaning": "To carry something from one place to another.",
    "example": "A truck transports vegetables to the market. A stem transports water to the leaves.",
-   "art": "A vegetable truck on a road beside a plant stem with water drops moving up it."
+   "art": "A vegetable truck on a road beside a plant stem with water drops moving up the stem."
   },
   {
    "term": "Xylem (say it: ZY-lum)",
@@ -78,7 +78,7 @@
   },
   {
    "term": "Transpiration (say it: tran-spi-RAY-shun)",
-   "meaning": "Water leaving a plant's leaves as invisible vapour. As water leaves the top of the plant, it pulls more water up the stem.",
+   "meaning": "Water leaving a plant's leaves as invisible vapour. The water that leaves the top pulls more water up the stem.",
    "example": "Tie a clear bag over a leafy branch. After an hour, the inside is misty. That is transpiration.",
    "art": "A clear plastic bag tied over a leafy branch, misty and dotted with drops inside."
   },
@@ -168,7 +168,7 @@
    "concept": "The tubes inside a stem: xylem",
    "status": "defined",
    "definition": "Xylem is the set of tiny tubes that carry water from the roots to the leaves. They run the whole length of the plant, and into every vein.",
-   "description": "A stem is not a solid stick. Inside, it is packed with bundles of tubes. Most of them are thinner than a hair. Each tube is made of cells that have died and lost their insides. Their end walls opened up, so the cells join into long hollow pipes, like cups with no bottoms stacked one on top of another. When you stand a white flower or a cabbage leaf in coloured water and then cut it across, each coloured dot is one bundle of tubes. In a tree, the xylem is the wood itself. In places with a cold or a dry season, the tree adds a new ring of water tubes every year.",
+   "description": "A stem is not a solid stick. Inside, it is packed with bundles of tubes. Most of them are thinner than a hair. Each tube is made of cells that have died and lost their insides. Their end walls opened up, so the cells join into long hollow pipes, like cups with no bottoms stacked one on top of another. When you stand a white flower or a cabbage leaf in coloured water and then cut it across, each coloured dot is one bundle of tubes. In a tree, the xylem is the wood. In places with a cold or a dry season, the tree adds a new ring of water tubes every year.",
    "examples": [
     "The tough strings in a stick of sugarcane or a banana stem are bundles of tubes.",
     "The rings in a cut tree trunk are layers of old water tubes, one for each year.",
@@ -252,7 +252,7 @@
   {
    "concept": "What makes a plant drink faster",
    "status": "defined",
-   "definition": "A plant loses water faster, and so drinks faster, when it is sunny, warm, windy and dry. A plant loses water more slowly when it is dark, cool, still or damp.",
+   "definition": "A plant loses water faster, and so drinks faster, in sunny, warm, windy and dry weather. A plant loses water more slowly in dark, cool, still or damp weather.",
    "description": "Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the leafy and bare stem test in this unit.",
    "examples": [
     "A plant on a sunny balcony needs watering more often than one in a shady room.",
@@ -536,7 +536,7 @@
    "hint": "Where was this water last week? Where will it be next year?"
   },
   {
-   "q": "A plant lets almost all of their water go into the air. What would happen to the plant, and to the rain, if they kept it all?",
+   "q": "A plant lets almost all of their water go into the air. What would happen to the plant, and to the rain, if they kept all of that water?",
    "kind": "big",
    "hint": "Think about what the open leaf holes let in, what the escaping water does for the leaf, and where the vapour goes."
   },
@@ -679,14 +679,14 @@
       "A breeze blows over the leaves. Move ahead 2.",
       "Night. The leaf holes close. Miss a turn.",
       "Cool, damp, misty morning. Move ahead only 1.",
-      "Air bubble in your tube! Your thread of water is broken. Go back 3 squares (but not before square 1).",
-      "Someone pulled the plant up roughly and tore the root hairs. Everyone in the soil, root hairs or root (squares 1 to 10) goes back to square 1.",
+      "Air bubble in your tube! Your thread of water is broken. Go back 3 squares, but not before square 1.",
+      "Someone pulled the plant up roughly and tore the root hairs. Every player on squares 2 to 10 goes back to square 1.",
       "The plant uses some of the water to make food. Miss a turn.",
       "Dry, windy day. Move ahead 3.",
       "The plant wilts. The guard cells shut the holes to save water. Miss a turn.",
       "Someone waters the soil. Move ahead 2 if you are in the soil or root hairs (squares 1 to 7). Otherwise move ahead 1.",
       "You are coloured blue by food colour! Everyone can see where you go. Move ahead 1.",
-      "Root push in the night. Move ahead 2 if you are in the root or stem (squares 8 to 18). Otherwise move ahead 1.",
+      "A small push from the roots at night. If you are in the root or stem (squares 8 to 18), move ahead 1. Otherwise stay where you are.",
       "A cactus! A cactus keeps its holes closed in the day. Miss a turn.",
       "A tall tree. Your thread must climb very high. Roll again, and move only if you roll 4 or more.",
       {
@@ -731,6 +731,7 @@
     "Shuffle the cards and put them face down. Question cards have the answer on the back.",
     "On your turn, roll a dice (or pick a slip of paper numbered 1 to 6) and move that many squares.",
     "Whenever you land on a square with a star, take a card and do what it says. For a question card, another player reads the answer on the back.",
+    "After you do what a card says, your turn ends. You do not take a second card, even if the card moves you onto a star.",
     "If the cards run out, shuffle the used ones and use them again.",
     "Read the name of each part out loud as you pass into it: soil, root hairs, root, stem, veins, leaf hole, air, rain.",
     "The first drop to reach or pass square 30, back in the soil as rain, wins.",
@@ -844,7 +845,7 @@
       },
       {
        "f": "Cloudy, damp morning",
-       "b": "Open a little. There is some light, and damp air takes little water from the leaf."
+       "b": "Open. There is some light, and damp air takes little water from the leaf."
       },
       {
        "f": "Night in the desert (you are a cactus)",
@@ -864,7 +865,7 @@
       },
       {
        "f": "Early evening, cooling down",
-       "b": "Start to close. The light is fading, so there is less food to make."
+       "b": "Close. The light is fading, so there is less food to make."
       },
       {
        "f": "Bright light in a greenhouse, soil wet",
@@ -872,38 +873,38 @@
       },
       {
        "f": "The roots are torn, the plant cannot drink",
-       "b": "Close. The plant cannot replace the water it loses."
+       "b": "Close. The plant cannot replace the water they lose."
       },
       {
        "f": "The plant is inside a clear bag, and the air inside is full of water",
-       "b": "Open is fine. Little water leaves into air that is already wet."
+       "b": "Open. Little water leaves into air that is already wet."
       },
       {
        "f": "You are a rice plant standing in a wet field at noon",
        "b": "Open. A rice plant in a wet field has plenty of water."
       },
       {
-       "f": "You are a cut flower in a vase of water, in a bright window",
-       "b": "Open. The flower can still drink from the vase."
+       "f": "You are a cut flower with leaves, standing in a vase of water in a bright window",
+       "b": "Open. The leaves can still drink from the vase, through the stem."
       }
      ]
     },
     {
      "kind": "score sheet",
-     "title": "Leaf score sheet: 12 rows, one for each card (each leaf copies one)",
+     "title": "Leaf score sheet: 12 rows, one for each card played (each leaf copies one)",
      "items": [
-      "Card 1. Open or close? ______  Why? ______  Point: ☐",
-      "Card 2. Open or close? ______  Why? ______  Point: ☐",
-      "Card 3. Open or close? ______  Why? ______  Point: ☐",
-      "Card 4. Open or close? ______  Why? ______  Point: ☐",
-      "Card 5. Open or close? ______  Why? ______  Point: ☐",
-      "Card 6. Open or close? ______  Why? ______  Point: ☐",
-      "Card 7. Open or close? ______  Why? ______  Point: ☐",
-      "Card 8. Open or close? ______  Why? ______  Point: ☐",
-      "Card 9. Open or close? ______  Why? ______  Point: ☐",
-      "Card 10. Open or close? ______  Why? ______  Point: ☐",
-      "Card 11. Open or close? ______  Why? ______  Point: ☐",
-      "Card 12. Open or close? ______  Why? ______  Point: ☐"
+      "Card 1. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 2. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 3. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 4. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 5. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 6. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 7. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 8. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 9. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 10. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 11. Open or close? ______  Why? ______  Points (0 to 2): ___",
+      "Card 12. Open or close? ______  Why? ______  Points (0 to 2): ___"
      ]
     }
    ],
@@ -911,9 +912,9 @@
     "Each leaf player puts their two hands together, palms touching. The hands are the two guard cells around a leaf hole.",
     "Open the hole by bending your hands apart into a round shape. Close it by pressing them together.",
     "The caller shuffles the cards and reads one. Each leaf decides fast: open or close? Show it with your hands.",
-    "The caller asks one leaf to say why, then turns the card over to check. A good reason that mentions water or air wins a point.",
+    "The caller asks one leaf to say why, then turns the card over to check. A leaf scores 1 point for the right answer and 1 more point for a good reason that mentions water, light or air.",
     "Open holes let air in for making food, but let water out. Closed holes save water, but let no air in. Think about both.",
-    "Play 12 cards. The leaf with the most points wins. With only one leaf, the leaf tries to win 8 points or more."
+    "Play 12 cards. The leaf with the most points wins. With only one leaf, the leaf tries to win 16 points or more out of 24."
    ],
    "flow": [
     {
@@ -927,7 +928,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the first card together as practice: 'Hot afternoon, soil is very dry'. It counts as card 1.",
+     "do": "Take the card 'Hot afternoon, soil is very dry' out of the pile and play it together as practice. It counts as card 1.",
      "say": "Hot afternoon, and the soil is very dry. Open or close? Think about the water.",
      "kid": "Practice card: hot afternoon, very dry soil. Open or close? Show your hands.",
      "check": {
@@ -939,16 +940,16 @@
        "Nothing changes"
       ],
       "a": 1,
-      "why": "When the soil is dry, the roots cannot replace the water fast enough. If the holes stayed open, the plant would wilt or even dry out. So most plants close their holes, even though this stops air coming in. Picking 'open wide to cool down' is a good thought, because evaporation does cool a leaf. But a plant with no water to spare must save it first."
+      "why": "When the soil is dry, the roots cannot replace the water fast enough. If the holes stayed open, the plant would wilt or even dry out. So most plants close their holes, even though this stops air coming in. Picking 'open wide to cool down' is a good thought, because evaporation does cool a leaf. But a plant with no water to spare must save water first."
      }
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Play 11 more cards, so you have played 12. 2. After each one, ask a leaf to say why. 3. Turn the card over to check. Give a point for any reason that mentions water or air.",
+     "do": "1. Play 11 more cards, so you have played 12. 2. After each one, ask a leaf to say why. 3. Turn the card over to check. Give 1 point for the right answer and 1 more for a reason that mentions water, light or air.",
      "say": "Bright morning sun, soil is wet. Open or close? Why?",
      "kid": "Listen to each card. Open or close? Show your hands fast. Then say why.",
-     "parent": "The answers are on the back of each card, so a child can be the caller. Any reason that mentions water or air earns a point. A plant cannot let air in without letting water out, so every answer is a trade between the two."
+     "parent": "The answers are on the back of each card, so a child can be the caller. A plant cannot let air in without letting water out, so every answer is a trade between the two."
     },
     {
      "id": "s4",
@@ -1033,7 +1034,7 @@
      "p": "Kavya, a girl in Class 3, says, 'Plants are wasteful. They let most of their water escape into the air.' What would you tell her?",
      "lines": 4,
      "a": "I would tell her the escaping water is not wasted. As water leaves the leaves, it pulls more water up the stem, and that water brings minerals up from the soil. The escaping water also cools the leaves. And the holes must be open to let air in, so the leaf can make food.",
-     "why": "A strong answer says what transpiration does for the plant: it pulls water and minerals up, and cools the leaves. Losing water is the cost of keeping the holes open for air."
+     "why": "A strong answer says what transpiration does for the plant: the escaping water pulls water and minerals up, and cools the leaves. Losing water is the cost of keeping the holes open for air."
     },
     {
      "t": "match",
@@ -1136,10 +1137,10 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Class 3, says, 'I water my plant by spraying the leaves.' What would you tell her, and why?",
+     "p": "Two tulsi pots are the same size. One stands on a sunny balcony. The other stands in a shady room. Which pot needs watering more often? Say why.",
      "lines": 3,
-     "a": "I would tell her to water the soil, near the roots. Plants drink mostly through their roots, not their leaves. Most of the water on the leaves just runs off or dries away.",
-     "why": "Any answer that says to water the soil, because roots do the drinking, is right."
+     "a": "The pot on the sunny balcony. Sun and wind make the leaves lose water faster, so the roots must drink more and the soil dries sooner. The shady pot loses water more slowly.",
+     "why": "A strong answer links sun and wind to faster water loss, and water loss to how fast the soil dries."
     },
     {
      "t": "perspective",
@@ -1498,7 +1499,7 @@
     },
     {
      "t": "fill",
-     "p": "The tiny electric pulls that hold water molecules together are called hydrogen ____.",
+     "p": "The weak pull between one water molecule and the next is called a hydrogen ____.",
      "a": [
       "bonds",
       "bond"
@@ -1535,7 +1536,7 @@
      "t": "write",
      "p": "The water in your glass may once have been inside a dinosaur, a cloud and a tree. Explain how the same water could have been in all three.",
      "lines": 4,
-     "a": "Water goes round and round. A tree pulls water up and lets it out into the air. It becomes a cloud and falls as rain. A dinosaur drinks it and breathes it out. The same water keeps travelling for millions of years.",
+     "a": "Water goes round and round. A tree pulls water up and lets that water out into the air. The water becomes a cloud and falls as rain. A dinosaur drinks it and breathes it out. The same water keeps travelling for millions of years.",
      "why": "A good answer describes water moving between living things, the air and rain, again and again."
     },
     {
@@ -1589,8 +1590,7 @@
     },
     {
      "item": "a clock and a pencil, and a ruler if you use a balsam stem",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a magnifying glass, if you have one",
@@ -1598,7 +1598,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up does all the cutting. Food colour stains clothes and hands, so put newspaper down.",
+   "safety": "A grown-up does all the cutting.",
    "schedule": [
     {
      "day": 1,
@@ -1656,7 +1656,7 @@
        ]
       }
      ],
-     "parent": "Colour usually shows first as thin lines in the veins and at the petal edges. In a carnation this can take a few hours. In a cabbage leaf, look at the veins near its top edge. It may take most of a day. In a see-through balsam stem you can watch a coloured line rise. If you see nothing at bedtime, that is normal."
+     "parent": "Colour usually shows first as thin lines in the veins and at the petal edges. In a carnation this can take a few hours. Rajnigandha is much slower at home than in the story. In a cabbage leaf, look at the veins near its top edge. It may take most of a day. In a see-through balsam stem you can watch a coloured line rise. If you see nothing at bedtime, that is normal."
     },
     {
      "id": "s4",
@@ -1676,7 +1676,7 @@
       "why": "The only way the colour could get up there is with the water, up through the stem. The plain-water one stayed pale, so it did not change by itself. The top of the leaf and the petals never touched the coloured water, so it did not soak in from outside. Picking 'by itself' usually means the plain-water one was not compared. That is why we set up two glasses."
      },
      "wait": "Leave them for a day: at least 12 hours, and up to 24.",
-     "parent": "If there is still no colour after a day, cut 2 cm off each stem under water again and add more colour. Move the glass near a fan or an open window, and look again that evening. Fresh leaves and flowers work best, because old, tired ones drink slowly. Rajnigandha stalks often take up colour too slowly to see at home."
+     "parent": "If there is still no colour after a day, cut 2 cm off each stem under water again and add more colour. Move the glass near a fan or an open window, and look again that evening. Fresh leaves and flowers work best, because old, tired ones drink slowly. Rajnigandha stalks often take up colour too slowly to see at home, so start with carnations."
     },
     {
      "id": "s5",
@@ -1739,7 +1739,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water climbs up a stem through tiny tubes and goes into the petals. What I saw: the next day the petals had blue lines and blue edges, and the cut stem had a ring of blue dots. The plain flower stayed white. Why: the water carried the colour with it up the tubes, to the petals, where the water leaves into the air."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water climbs up a stem through tiny tubes and goes into the petals. What I saw: the next day the petals had coloured lines and edges, and the cut stem had a ring of coloured dots. The plain flower stayed white. Why: the water carried the colour with it up the tubes, to the petals, where the water leaves into the air."
     }
    ],
    "context": "This is the coloured-water experiment. You stand a pale leaf or a white flower in coloured water. The colour shows the hidden path that water takes up a plant.",
@@ -1807,7 +1807,7 @@
    ],
    "materials": [
     {
-     "item": "2 leafy stems about the same size, such as 2 pudina (mint) stems from the vegetable bunch, or 2 stems from a potted hibiscus or coleus",
+     "item": "2 leafy stems about the same size, such as 2 mint (pudina) stems from the vegetable bunch, or 2 stems from a potted hibiscus or coleus",
      "qty": 2
     },
     {
@@ -1820,8 +1820,7 @@
     },
     {
      "item": "a marker pen and a ruler with millimetres",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     }
    ],
    "schedule": [
@@ -1855,7 +1854,7 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "1. Cut two similar stems, each about 20 cm long, under water. 2. Pinch all the leaves off one stem. 3. Fill both bottles with the same amount of water, up into the narrow neck. 4. Put one stem in each. 5. Pour a thin layer of oil on the water in each bottle. 6. Mark the water level on each bottle with the marker.",
+     "do": "1. Cut two similar stems, each about 20 cm long, under water. 2. Pinch all the leaves off one stem. 3. Fill both bottles with the same amount of water, up into the narrow neck but a finger-width below the top. 4. Put one stem in each. 5. Pour a thin layer of oil on the water in each bottle. 6. Mark the water level on each bottle with the marker.",
      "say": "The oil is a lid. It stops water drying straight out of the bottle. So any water that goes must go through the stem.",
      "kid": "Ask a grown-up to cut two stems. Pinch the leaves off one. Put each in a bottle. Add a little oil on top. Mark the water level.",
      "check": {
@@ -2023,7 +2022,7 @@
      "id": "s2",
      "mins": 5,
      "adult": true,
-     "do": "1. Slip a bag over each branch without picking it. 2. Tie the open end loosely but firmly round the branch's stem. 3. Write down the time.",
+     "do": "1. Slip a bag over each branch without breaking the branch off. 2. Tie the open end loosely but firmly round the branch's stem. 3. Write down the time.",
      "say": "Slide the bag over the leaves. Tie it round the stem, not too tight, so we don't hurt the plant.",
      "kid": "Slide a bag over each branch. Ask a grown-up to tie it round the stem. Write down the time."
     },
@@ -2134,6 +2133,10 @@
      "buy": "b-colour"
     },
     {
+     "item": "a bowl of water",
+     "qty": 1
+    },
+    {
      "item": "a sharp knife, kitchen scissors and sticky tape, for a grown-up",
      "qty": 1
     }
@@ -2165,9 +2168,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Put the two glasses side by side, one blue and one red. 2. Stand one leg of the stem in each glass. 3. Under the water, snip a little off the end of each leg with the scissors, so no air gets into the tubes. 4. Ask your child to guess what the flower will look like tomorrow.",
+     "do": "1. Put the two glasses side by side, one with blue water and one with red. 2. Hold the split end of the stem under water in the bowl. Snip a little off the end of each leg, so no air gets into the tubes. 3. Straight away, stand one leg in each glass. 4. Ask your child to guess what the flower will look like tomorrow.",
      "say": "One leg drinks blue and one drinks red. What will the flower look like tomorrow? Will it go purple? Half and half? Draw your guess.",
-     "kid": "Stand one leg in blue water and one in red water. Ask a grown-up to snip each end under the water. What will the flower look like tomorrow? Draw it.",
+     "kid": "Ask a grown-up to snip each leg under water. Stand one leg in blue water and one in red water. What will the flower look like tomorrow? Draw it.",
      "wait": "Leave for a day.",
      "adult": true
     },
@@ -2188,7 +2191,8 @@
       "a": 0,
       "why": "Each water tube runs on its own, from the bottom of the stem to one part of the flower. Water in one tube does not mix with water in the tubes beside it. So the blue tubes fed one side and the red tubes fed the other. Picking 'all the water mixes' is a very sensible guess, because the stem looks like one solid thing. The flower shows it is really a bundle of separate tubes."
      },
-     "think": "If one root of a big tree is cut, which branches might go thirsty?"
+     "think": "If one root of a big tree is cut, which branches might go thirsty?",
+     "parent": "Carnation petals usually show two colours within a day. If the colours are faint, leave the flower another day and look again."
     }
    ],
    "context": "In this activity you split a white flower's stem into two halves. Each half drinks a different colour. The flower shows which tubes go where.",
@@ -2218,7 +2222,7 @@
      "qty": 1
     },
     {
-     "item": "2 or more people. Soft toys can be extra water molecules: hold a toy's paw",
+     "item": "2 or more people. With only two of you, soft toys can be the rest of the chain: hold a toy's paw",
      "qty": 2
     }
    ],
@@ -2260,7 +2264,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Now one person in the middle lets go of hands: they are an air bubble. The top person leaves again. Can the people below the gap step up?",
+     "do": "Now one person or toy in the middle lets go of hands: they are an air bubble. The top person leaves again. Can the people below the gap step up?",
      "say": "Oh no, an air bubble! Someone in the middle let go. Now when the top drop leaves, can the bottom of the chain still be pulled up?",
      "kid": "An air bubble! Someone in the middle lets go. Now the top one leaves. Can the bottom of the chain still move up?",
      "check": {
@@ -2307,7 +2311,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a bunch of coriander, palak or mint that has gone floppy",
+     "item": "a bunch of coriander, curry leaves, palak or mint that has gone floppy",
      "qty": 1
     },
     {
@@ -2371,7 +2375,8 @@
       ],
       "a": 0,
       "why": "Each cell has a stretchy bag inside. When water fills the bags, the cells press hard on each other, like water balloons packed in a bag. That makes leaves and stems firm. Picking 'froze stiff' mixes up cool water with ice. Picking 'from the air' misses that the water came up from the glass, through the stems."
-     }
+     },
+     "parent": "Mildly wilted leaves usually stand up within an hour. If they are still floppy, leave them another hour. Leaves that dried out completely may not recover, and that is a real result."
     },
     {
      "id": "s4",
@@ -2418,9 +2423,8 @@
      "buy": "b-lens"
     },
     {
-     "item": "optional: a cheap pocket microscope, clear nail polish and clear sticky tape",
-     "qty": 1,
-     "buy": "b-microscope"
+     "item": "optional: a pocket microscope if you can borrow one, clear nail polish and clear sticky tape",
+     "qty": 1
     }
    ],
    "safety": "A grown-up pours the hot water. Let boiled water cool for 5 minutes first, and keep small hands out of it. Nail polish is used only by a grown-up, in an airy room.",
@@ -2473,7 +2477,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Optional, with a pocket microscope. 1. Before step 1, a grown-up paints clear nail polish on the underside of a second leaf. It dries for 10 minutes while you watch the bubbles. 2. Press clear sticky tape on the dry patch and peel it off. 3. Stick the tape on a glass slide or a clear plastic sheet. 4. Look at it under the microscope.",
+     "do": "Optional, with a pocket microscope. 1. Do this first, before the hot water. A grown-up paints clear nail polish on the underside of a second leaf. It dries for 10 minutes while you watch the bubbles. 2. Press clear sticky tape on the dry patch and peel it off. 3. Stick the tape on a glass slide or a clear plastic sheet. 4. Look at it under the microscope.",
      "say": "This peel is a copy of the leaf's skin. Can you see little shapes like mouths, or coffee beans? Those are the leaf holes, with their two guard cells.",
      "kid": "Look through the microscope. See tiny shapes like mouths? Those are the leaf's holes!",
      "adult": true,
@@ -2512,8 +2516,7 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     }
    ],
    "safety": "Use cool tea or coloured water, never hot.",
@@ -2555,7 +2558,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Compare the paper, the straw and a tall tree.",
-     "say": "The paper lifted water a few centimetres. The best pump in the world could lift it about 10 metres by sucking. But the tallest tree is about 116 metres tall. So how does a tree do it?",
+     "say": "The paper lifted water a few centimetres. The best pump in the world could lift it about 10 metres by sucking. But the tallest tree is about 116 metres tall. So how does a tree lift water?",
      "kid": "Paper lifts water a little. Sucking lifts it up to 10 metres at most. The tallest tree is 116 metres! How?",
      "check": {
       "t": "mcq",
@@ -2619,13 +2622,23 @@
      "say": "Look at the very tips of the grass blades. Some have one round drop sitting right at the tip. Other leaves are covered all over with tiny drops.",
      "kid": "Go out early with a grown-up. Look at grass tips. Is there one drop right at the end? Or tiny drops all over?",
      "context": "This is the first step of the Dawn Drop Hunt. Early in the morning, you look for two kinds of water drops on grass and leaves.",
-     "parent": "Drops at grass tips appear on cool, damp mornings, often after a warm day when the soil is wet. If you see none, try again another morning. A potted colocasia or tomato plant on a balcony sometimes shows them too."
+     "parent": "Drops at grass tips appear on cool, damp mornings, often after a warm day when the soil is wet. If you see none, try again another morning. A potted colocasia or tomato plant on a balcony sometimes shows them too.",
+     "ask": [
+      {
+       "q": "Where do you think each kind of drop came from?",
+       "good": [
+        "Dew from the air.",
+        "Some came out of the plant.",
+        "I don't know, let's find out."
+       ]
+      }
+     ]
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Explain the two kinds of drops.",
-     "say": "Tiny drops all over a leaf are usually dew. Water vapour in the cool night air turned back into drops on the cold leaf. But one big drop right at the tip came from inside the plant. The roots pushed water up in the night, and it was squeezed out of special holes at the tip.",
+     "say": "Let's decide where each kind came from. Then I will tell you what scientists found. Tiny drops all over a leaf are usually dew. Water vapour in the cool night air turned back into drops on the cold leaf. One big drop right at the tip came from inside the plant. The roots pushed water up in the night, and it was squeezed out of special holes at the tip.",
      "kid": "Tiny drops all over are dew, from the air. One drop at the tip came from inside the plant! The roots pushed it out.",
      "check": {
       "t": "mcq",
@@ -2722,7 +2735,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Water the plant well and let the pot drain for an hour. 2. Wrap the pot and the soil in a plastic bag. Tie it round the base of the stem, so only the leaves are open to the air. 3. Put the plant where it will stay, and weigh the whole thing. Write the weight down.",
+     "do": "1. Water the plant well and let the pot drain for an hour. 2. Wrap the pot and the soil in a plastic bag. Tie it round the base of the stem, so only the leaves are open to the air. 3. Choose a spot for the plant, weigh the whole thing and write the weight down. Keep them in that spot all week.",
      "say": "About 300 years ago, Stephen Hales did this with a sunflower. We've covered the soil, so water can only escape through the leaves. If the plant gets lighter, the lost weight is water that went out of the leaves.",
      "kid": "Water the plant. Wrap the pot and soil in plastic. Leave the leaves open. Weigh it. Write the number.",
      "context": "This is the first step of Be Stephen Hales. You weigh a potted plant every day to find out how much water they let out through their leaves.",
@@ -2846,7 +2859,7 @@
     "a leafy stem and a small clear plastic bag, for the last idea"
    ],
    "general": [
-    "A strip of paper towel taped upright, with its bottom end in the water. The colour creeps up by capillary action, usually 10 centimetres or more.",
+    "A strip of paper towel taped upright, with its bottom end in the water. The colour creeps up by capillary action, usually 5 to 10 centimetres in a few hours.",
     "A strip of cotton cloth or a thick cotton string, which works like the wick in a lamp.",
     "A stick of chalk standing in the water. Chalk is full of tiny gaps, so the colour climbs inside it."
    ],
@@ -2863,7 +2876,7 @@
      "do": "1. Fill a glass with coloured water. 2. Put the ruler, tape and the wick materials next to it.",
      "say": "Here's the challenge. Make this water climb as high as you can, with no pouring and no sucking. Plants lift water every day.",
      "kid": "Fill a glass with coloured water. Make the water climb as high as you can. No pouring!",
-     "parent": "Wicks work by capillary action. Paper towel usually lifts water 10 to 15 centimetres in a few hours, and then stops. A leafy stem lifts it to the top of the stem and beyond, into the air.",
+     "parent": "Wicks work by capillary action. Paper towel usually lifts water 5 to 10 centimetres in a few hours, and then stops. A leafy stem lifts it to the top of the stem and beyond, into the air.",
      "context": "This is the first step of How High Can You Lift Water? You try to make coloured water climb as high as you can, without pouring or sucking."
     },
     {
@@ -2921,7 +2934,7 @@
    "id": "c2",
    "title": "The Holiday Plant Sitter",
    "mins": 30,
-   "problem": "Your family is going away for a week. Design a way to keep a potted plant watered, with nobody at home.",
+   "problem": "Imagine you will be away from home for a week. Design a way to keep a potted plant watered, with nobody there.",
    "constraints": [
     "It must work for 7 days.",
     "It must not flood the plant, because roots need air too.",
@@ -2979,7 +2992,8 @@
      "do": "1. Build your best design. 2. Weigh the pot, or if you have no scale, push a finger into the soil to feel how damp it is. 3. Test it for 3 days, checking the pot each day.",
      "say": "If the pot stays about the same weight, water is coming in as fast as it goes out. If it gets much lighter, the plant is drying.",
      "kid": "Build your best design. Check the pot each day for 3 days. Weigh it, or use a finger in the soil. Is it still heavy and damp?",
-     "parent": "Keep the plant out of direct sun if they are under a bag, or they may overheat. Make sure the pot has a drainage hole so a leaky bottle cannot drown the roots."
+     "parent": "Keep the plant out of direct sun if they are under a bag, or they may overheat. Make sure the pot has a drainage hole so a leaky bottle cannot drown the roots.",
+     "wait": "Check the pot each day for 3 days."
     },
     {
      "id": "s4",
@@ -3205,12 +3219,12 @@
    "p": "Why does a thread of water not snap when it is pulled up a tree?",
    "opts": [
     "Water molecules hold on to each other",
-    "The tree glues it",
+    "The tree glues the water together",
     "It is frozen"
    ],
    "a": 0,
    "outcome": 6,
-   "why": "Water molecules pull on each other with tiny electric pulls. This is called cohesion. Picking 'the tree glues it' is a good image, but the 'glue' is in the water itself."
+   "why": "Water molecules pull on each other with tiny electric pulls. This is called cohesion. Picking 'the tree glues the water together' is a good image, but the 'glue' is in the water itself."
   },
   {
    "t": "mcq",
@@ -3319,7 +3333,7 @@
   "Is it a good day for drying clothes? Is it a good day for plants losing water?",
   "Why is it cooler under this tree than out in the sun?",
   "Why do you think we water the soil and not the leaves?",
-  "Is that drop on the grass dew, or did the plant push it out?",
+  "Is that drop on the grass dew, or did the plant push that drop out?",
   "What would happen to a tree if all their leaves fell off in summer?",
   "Bose was a great scientist who was wrong once. Have you ever been sure about something and then found out you were wrong?"
  ],
@@ -3339,10 +3353,6 @@
   {
    "j": "Why did the wilted coriander feel better after a drink?",
    "a": "They were finally back on their feet."
-  },
-  {
-   "j": "Why did the flower seller cut stems under water?",
-   "a": "She didn't want any bubble trouble."
   },
   {
    "j": "How do trees get on the internet?",
@@ -3568,7 +3578,7 @@
    "title": "A flower market near you",
    "url": "",
    "kind": "place",
-   "where": "anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru or Mullick Ghat in Kolkata",
+   "where": "anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru, Dadar in Mumbai or Mullick Ghat in Kolkata",
    "why": "Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why."
   },
   {
@@ -3618,18 +3628,6 @@
    ]
   },
   {
-   "id": "b-ruler",
-   "item": "30 cm ruler with millimetre marks",
-   "kind": "tool",
-   "why": "Measures how high the colour climbs, and how far water levels drop.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e1",
-    "e2",
-    "a5"
-   ]
-  },
-  {
    "id": "b-scale",
    "item": "Digital kitchen weighing scale (shows grams)",
    "kind": "tool",
@@ -3638,26 +3636,12 @@
    "used_in": [
     "p1"
    ]
-  },
-  {
-   "id": "b-microscope",
-   "item": "Pocket microscope for children (60 to 120 times)",
-   "kind": "tool",
-   "why": "Lets you see the tiny leaf holes and their guard cells on a leaf peel.",
-   "url": "https://www.amazon.in/s?k=pocket+microscope+for+kids+60x-120x",
-   "used_in": [
-    "a4"
-   ]
   }
  ],
  "warmup": [
   {
    "q": "Which part of a plant soaks up water?",
    "a": "The roots, with their tiny root hairs."
-  },
-  {
-   "q": "What are the water tubes in a stem called?",
-   "a": "Xylem."
   },
   {
    "q": "A white flower stands in blue water for a day. What happens?",
@@ -3668,20 +3652,8 @@
    "a": "Transpiration."
   },
   {
-   "q": "Does a leafy stem or a bare stem drink more?",
-   "a": "The leafy stem."
-  },
-  {
    "q": "Sun or shade: where does a branch give off more water?",
    "a": "In the sun."
-  },
-  {
-   "q": "Why do flower sellers cut stems under water?",
-   "a": "To stop air bubbles blocking the tubes."
-  },
-  {
-   "q": "Why does a plant wilt?",
-   "a": "They lose water faster than they can drink."
   },
   {
    "q": "What holds a thread of water together in a tube?",
@@ -3839,5 +3811,6 @@
   "when": "1727 (Hales), 1891 (Strasburger) and 1894 (Dixon and Joly)",
   "wrong_idea": "That roots, or living cells in the stem, pump water all the way up a plant. Strasburger killed the cells in long stems, and coloured liquid still climbed them. Root pressure exists, but it is far too weak for a tall tree.",
   "art": "A cut grapevine stump with a tall glass tube fixed on top and sap rising inside it, next to long stems standing in a jar of coloured liquid."
- }
+ },
+ "playtest": "Walked the whole unit as a family would: printed both games piece by piece and played them in my head with 2 and with 4 players, then did each experiment, activity, the project and both challenges step by step in a city flat. Game 1 (Drop's Journey): all 30 squares, 20 cards and 4 counters are written out; I added a rule that a card never chains into another card, changed the root-push card so it is a small push (1 square, only in the root or stem) as the science says, and made the torn-roots card say exactly who goes back. Game 2 (Open or Close?): every card now has a plain Open or Close answer (no more 'open a little'), the practice card is taken out of the pile so card 1 is not played twice, and scoring is 1 point for the right answer plus 1 for a reason, so a solo leaf aims for 16 of 24. Experiments: the Two-Colour Flower now cuts the legs under water in a bowl before they go in the glasses (the old order was impossible); the Leafy or Bare bottles are filled to a finger below the top so the stem does not overflow them; the holiday challenge says to check for 3 days; the paper-wick heights were lowered to 5 to 10 cm, which is what a paper towel really does. Minutes and schedules were checked against the steps and agree. I removed the knife-only safety text that was not a hazard, the rulers and pocket microscope from the buy list (home items or optional), and one weak joke (8 remain). I removed warm-up questions that repeated quiz questions, and replaced the worksheet question about spraying leaves (it repeated a challenging-idea card) with a sun versus shade pot question. Living beings are no longer 'it' in the places the checker flagged. I added South, West and Northeast examples (curry leaves, bamboo, Dadar market). Not changed on purpose: the paper strip appears in both Climbing Tea and the lifting challenge because the challenge builds on it; the story is made up and nothing treats it as evidence."
 }

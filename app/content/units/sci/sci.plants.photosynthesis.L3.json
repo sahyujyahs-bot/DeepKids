@@ -54,7 +54,7 @@
   },
   {
    "term": "Starch",
-   "meaning": "A store of food that plants make by joining lots of sugars together, like beads on a long string. Rice, potatoes and wheat are full of it.",
+   "meaning": "A store of food that plants make by joining lots of sugars together, like beads on a long string. Rice, poha, potatoes and wheat are full of it.",
    "example": "When you cook rice, the soft white part is mostly starch made by the rice plant's leaves.",
    "art": "A plate of rice, a potato and a roti, with a zoom showing chains of tiny sugar beads."
   },
@@ -195,7 +195,7 @@
    "concept": "From sugar to everything: starch, wood, fruit and you",
    "status": "defined",
    "definition": "Plants turn the sugar they make into everything else they need. They join sugars into starch to store food, and into cellulose to build their walls. They also make oils, proteins and many other things from sugar and minerals.",
-   "description": "Sugar is the plant's building material and their fuel. Some sugar is used straight away for energy, the way you use your breakfast. Some is joined into long chains called starch, a store for later. A leaf stores some starch during the day. At night it turns that starch back into sugar and sends it to the rest of the plant. Rice grains, potatoes and wheat are packed with stored starch. Some sugar is joined in a different, stiffer way into cellulose. Cellulose makes wood, cotton, jute and the strings in a banana stem. With minerals from the soil, the plant also turns sugar into oils, like coconut oil, and proteins, like those in dal. So your plate, your clothes and your notebook all began as sugar in a leaf.",
+   "description": "Sugar is the plant's building material and their fuel. Some sugar is used straight away for energy, the way you use your breakfast. Some is joined into long chains called starch, a store for later. A leaf stores some starch during the day. At night it turns that starch back into sugar and sends it to the rest of the plant. Rice grains, potatoes and wheat are packed with stored starch. Some sugar is joined in a different, stiffer way into cellulose. Cellulose makes wood, cotton, jute, bamboo and the strings in a banana stem. With minerals from the soil, the plant also turns sugar into oils, like coconut oil, and proteins, like those in dal. So your plate, your clothes and your notebook all began as sugar in a leaf.",
    "examples": [
     "A drop of iodine on a potato turns blue-black, because the potato is full of starch.",
     "Your notebook's paper is made of cellulose from trees.",
@@ -299,7 +299,7 @@
    "description": "Think of your lunch. The rice and dal came from plants. The milk came from a cow that ate grass. The fish ate smaller animals, which ate tiny algae in the sea. Follow any food back far enough and you reach a green thing in the sunlight. Living things that make their own food are called producers. Animals, which must eat, are called consumers. Mushrooms and many bacteria feed on dead plants and animals. They return carbon dioxide and minerals to the air and soil, so plants can use them again. The atoms go round and round. Only the energy comes in fresh each day, as sunlight. The unit on food chains follows this much further.",
    "examples": [
     "Grass to goat to leopard.",
-    "Tiny algae to small shrimps to a fish to a fisherman's family in Kerala.",
+    "Tiny algae to small shrimps to a fish to a family eating fish curry in Kerala or fish and rice in Bengal.",
     "A fallen mango rots. Its atoms go back to the air and soil."
    ],
    "perspectives": [],
@@ -699,7 +699,7 @@
      "kind": "cards",
      "title": "20 weather and life cards to cut out",
      "items": [
-      "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
+      "NIGHT FALLS: you cannot trade in the Leaf Kitchen this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
       "CLOUDY DAY: you may use only 1 SUNLIGHT card this turn.",
       "BRIGHT SUNNY DAY: take 2 extra SUNLIGHT cards.",
       "RAIN: take 2 extra WATER cards.",
@@ -709,16 +709,16 @@
       "A CATERPILLAR EATS A LEAF: lose 1 LEAF, but only if you have 2 or more. A bird gets a meal.",
       "GROWING TAKES ENERGY: pay 1 SUGAR for respiration.",
       "GROWING TAKES ENERGY: pay 1 SUGAR for respiration.",
-      "A NEW LEAF OPENS: if you have 2 SUGAR, you may build a LEAF now.",
+      "A NEW LEAF OPENS: you may build a LEAF for just 1 SUGAR this turn.",
       "TOO MUCH WATER: your roots cannot get oxygen. Lose 1 SUGAR.",
       "A BEE VISITS YOUR FLOWER: if you have a FLOWER, your SEED costs 2 SUGAR less this turn.",
       "FALLEN LEAVES ROT: everyone takes 1 CARBON DIOXIDE.",
       "SMOKE FROM A FIRE: everyone takes 1 CARBON DIOXIDE, but loses 1 SUNLIGHT.",
       "SHADE FROM A BIG TREE: lose 1 SUNLIGHT.",
-      "NIGHT FALLS: no SUNLIGHT cards can be used this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
+      "NIGHT FALLS: you cannot trade in the Leaf Kitchen this turn. Pay 1 SUGAR, because your plant still respires: they use food for energy.",
       {
        "f": "QUESTION: say where the oxygen from your leaf goes. If you are right, take 1 SUGAR.",
-       "b": "Answer: it goes out through the stomata into the air, where animals and people breathe it."
+       "b": "Answer: it goes out through the stomata into the air, where animals, including us, breathe it."
       },
       {
        "f": "QUESTION: say what the soil gives your plant. If you are right, take 1 SUGAR.",
@@ -736,12 +736,12 @@
      "items": [
       "30 SUGAR tokens: cut 30 small paper squares, or use sugar cubes",
       "30 OXYGEN bubble tokens: cut 30 small blue paper circles",
-      "1 coin or button for each space a player builds: about 8 for each player"
+      "7 coins or buttons for each player, to mark the spaces they build"
      ]
     },
     {
      "kind": "board",
-     "title": "A plant mat for each player",
+     "title": "A plant mat: print one for each player",
      "items": [
       "ROOT space: costs 2 SUGAR",
       "STEM space: costs 2 SUGAR",
@@ -757,11 +757,11 @@
    "rules": [
     "Each player starts with a plant mat, a coin on LEAF space 1 and 2 of each ingredient card.",
     "On your turn, first take one weather and life card and do what it says. If you cannot pay or lose what it says, pay or lose what you have. When the weather and life cards run out, shuffle them and use them again.",
-    "Then take 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE card from the piles. Cards you hand in go back under their piles.",
-    "Leaf Kitchen: for each LEAF you have built, you may trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR. Each time, put 1 OXYGEN bubble into the middle of the table, for the air. If the oxygen bubbles run out, make a tally mark on paper instead.",
+    "Then take 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE card from the piles. If a pile is empty, take nothing from it. Cards you hand in go back under their piles.",
+    "Leaf Kitchen: for each LEAF you have built, you may trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR. Each time, put 1 OXYGEN bubble into the middle of the table, for the air. If the oxygen bubbles or the sugar run out, make tally marks on paper instead.",
     "Spend SUGAR to build on your plant mat: put a coin on a space and put the SUGAR back in the middle. More leaves let you make more sugar.",
     "When you draw a QUESTION card, another player reads it aloud. You answer, then they read the back and check you.",
-    "The first plant to build the ROOT, the STEM, all 3 LEAF spaces, the FLOWER and the SEED wins. Then count the oxygen bubbles together. That is the air your plants made for everyone."
+    "The first plant to build the ROOT, the STEM, all 3 LEAF spaces, the FLOWER and the SEED wins. Finish the round so everyone has the same number of turns. If two plants finish together, they both win. Then count the oxygen bubbles together. That is the air your plants made for everyone."
    ],
    "flow": [
     {
@@ -835,7 +835,7 @@
       "options": [
        "The soil",
        "Sunlight, water and carbon dioxide",
-       "The goat",
+       "The coins on the mat",
        "Rain only"
       ],
       "a": 1,
@@ -867,7 +867,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "Role cards to hang round your neck, or to put on chairs",
+     "title": "Role cards to hang round your neck, or to put on chairs (the second LEAF card is only for 5 or more players)",
      "items": [
       "SUN ☀️",
       "LEAF 🌿",
@@ -875,7 +875,7 @@
       "CATERPILLAR 🐛",
       "BIRD 🐦",
       "MONGOOSE",
-      "FUNGUS (the rotter) 🍄",
+      "FUNGUS (rots dead things) 🍄",
       "CLOUD ☁️"
      ]
     },
@@ -883,7 +883,7 @@
      "kind": "tokens",
      "title": "Light batons and carbon balls",
      "items": [
-      "15 yellow 'light batons': roll 15 strips of yellow paper",
+      "15 yellow 'light batons': roll 15 strips of yellow paper (9 for the first round and 6 for the second)",
       "10 black 'carbon' balls: crumple 10 pieces of black paper, or use socks"
      ]
     },
@@ -891,30 +891,31 @@
      "kind": "score sheet",
      "title": "Energy chain sheet",
      "items": [
-      "How many light batons did the SUN send?",
+      "How many sugars did the LEAF make in the two rounds?",
       "How many batons ended in the WARMTH bucket?",
-      "Who sat down, and when?",
+      "How many batons did the MONGOOSE end up with, and what did the MONGOOSE do then?",
       "Where did the carbon balls go after the FUNGUS took them?",
-      "What did the CLOUD change?"
+      "What did the CLOUD change?",
+      "Which came fresh from the SUN each time, the batons or the carbon balls?"
      ]
     }
    ],
    "rules": [
-    "With 2 players, the child is the LEAF and the parent is the SUN. Put the CATERPILLAR, BIRD, MONGOOSE and FUNGUS cards on four chairs in a line. After the SUN has sent the light, the parent walks each sugar along the chairs. With 3 or more players, other people take these roles.",
+    "With 2 players, the child is the LEAF and the parent is the SUN. The parent also walks each sugar along three chairs marked CATERPILLAR, BIRD and MONGOOSE, and plays the FUNGUS. With 3 or more players, the others sit on those chairs and one of them is the FUNGUS. One person may take two chairs. Anyone who is free may be the CLOUD.",
     "The SUN stands at one end. The LEAF stands in the middle, next to a basket of black carbon balls, which is the 'air'. A bucket marked WARMTH stands near the animals.",
-    "The SUN runs light batons to a LEAF, one baton on each trip. Only a leaf can take light.",
-    "When a LEAF holds 3 light batons, the leaf picks up one carbon ball. The ball with its 3 batons is now one sugar.",
-    "The CATERPILLAR may take a sugar from a leaf. The BIRD may take the sugar from the caterpillar. The MONGOOSE may take the sugar from the bird.",
+    "Round 1 uses 9 batons. The SUN runs light batons to the LEAF, one baton on each trip. Only a leaf can take light.",
+    "When the LEAF holds 3 light batons, the leaf picks up one carbon ball. The ball with its 3 batons is now one sugar.",
+    "The CATERPILLAR takes the sugar from the leaf. The BIRD takes the sugar from the caterpillar. The MONGOOSE takes the sugar from the bird.",
     "At each handover, the giver drops one baton into the WARMTH bucket and passes on the ball and the batons that are left. This is the energy used up for living.",
-    "Anyone holding a carbon ball with no batons left has no energy left. They sit down. The FUNGUS takes the carbon ball and throws it back into the air basket.",
-    "The CLOUD may stand between the SUN and a LEAF and block the light for 10 seconds. The CLOUD is an extra role. With 2 players, the parent steps in as the cloud for one round.",
-    "The game ends when the SUN has no batons left. Count the batons in the WARMTH bucket and the carbon balls back in the basket, then fill in the energy chain sheet."
+    "The MONGOOSE ends up with a carbon ball and no batons. A ball with no batons has no energy left, so the MONGOOSE sits down. The FUNGUS takes the carbon ball and throws the ball back into the air basket, so the LEAF can use it again.",
+    "Round 2 uses the other 6 batons. This time the CLOUD may stand between the SUN and the LEAF and block the light for 10 seconds. With 2 players, the parent stops running light for 10 seconds and says 'cloud'.",
+    "A round ends when all its batons are in the WARMTH bucket. After round 2, count the batons in the bucket and the carbon balls back in the basket, then fill in the energy chain sheet."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give out the role cards. With 2 players, put the animal cards on chairs. 2. Put the SUN at one end of the room. 3. Put the air basket of black carbon balls by the LEAF, and the WARMTH bucket by the animals.",
+     "do": "1. Give out the role cards. With 2 players, put the three animal cards on chairs. 2. Put the SUN at one end of the room. 3. Put the air basket of black carbon balls by the LEAF, and the WARMTH bucket by the animals.",
      "say": "This game shows how the Sun's energy travels into a leaf, and then from animal to animal. The black balls are carbon atoms from the air.",
      "kid": "Pick a role card. The Sun gives out light. Only leaves can catch it. The black balls are carbon from the air.",
      "adult": true,
@@ -923,7 +924,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. The SUN runs light batons to the LEAVES. 2. A leaf with 3 batons picks up a carbon ball, which becomes a sugar. 3. Animals take the sugar along the chain. 4. At each handover, the giver drops one baton in the warmth bucket.",
+     "do": "Round 1, with 9 batons. 1. The SUN runs light batons to the LEAF. 2. A leaf with 3 batons picks up a carbon ball, which becomes a sugar. 3. Animals take the sugar along the chain. 4. At each handover, the giver drops one baton in the warmth bucket. 5. The MONGOOSE sits down, and the FUNGUS sends the ball back to the air.",
      "say": "Only the leaves can catch light. Everybody else has to get their energy by eating. Watch the warmth bucket fill up.",
      "kid": "Run the light to a leaf. Leaves turn carbon into sugar. Animals pass the sugar along. Drop a baton in the warmth bucket each time.",
      "ask": [
@@ -947,7 +948,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Play one more round with the CLOUD blocking the Sun, and with the FUNGUS returning carbon balls to the air. With 2 players, the parent steps between the Sun and the leaf for 10 seconds.",
+     "do": "Round 2, with the last 6 batons. The CLOUD blocks the Sun for 10 seconds, and the FUNGUS returns carbon balls to the air as before. With 2 players, the parent pauses the light for 10 seconds.",
      "say": "What happens to the whole chain when the cloud blocks the light? And what does the fungus do with the carbon?",
      "kid": "Now the cloud blocks the Sun. What happens to everyone? Watch the fungus. Where do the carbon balls go?",
      "check": {
@@ -1180,7 +1181,7 @@
      "t": "write",
      "p": "Name three foods you ate today. For each one, say how it began with a leaf in the sunlight.",
      "lines": 4,
-     "a": "For example: my dosa was made from rice and urad dal, the seeds of plants whose leaves made sugar in the sun. My curd came from a cow who ate grass. My banana grew on a banana plant whose leaves made the sugar in the banana.",
+     "a": "For example: my dosa was made from rice and urad dal, the seeds of plants whose leaves made sugar in the sun. My thepla was made from wheat and methi leaves. My curd came from a cow who ate grass.",
      "why": "A strong answer traces each food back to a plant, even animal foods, because animals eat plants."
     },
     {
@@ -1371,7 +1372,7 @@
      "p": "Where does the oxygen we breathe come from? Three people answer differently.",
      "views": [
       {
-       "who": "Kavya, aged 9",
+       "who": "Meena, aged 9",
        "says": "From forests like the Amazon. That is why people call them the lungs of the Earth."
       },
       {
@@ -1385,15 +1386,15 @@
      ],
      "ask": "Whose answer do you think is most useful? Give a reason. Then say what one of the others gets right.",
      "lines": 6,
-     "a": "A strong answer picks one and gives evidence, for example: Dr Shalini, because half of photosynthesis is in the sea, which most people forget. Then it is fair to another, for example: Kavya is right that forests make a lot of oxygen, and Selvi is right that they also use it.",
+     "a": "A strong answer picks one and gives evidence, for example: Dr Shalini, because half of photosynthesis is in the sea, which most people forget. Then it is fair to another, for example: Meena is right that forests make a lot of oxygen, and Selvi is right that they also use it.",
      "why": "This is a real argument. In 2019 many news stories called the Amazon the lungs of the world. Scientists pointed out that a mature forest uses up almost all the oxygen it makes. Each view has some truth."
     },
     {
      "t": "write",
      "p": "In the story, Malar's mother scratched a line inside the tulsi pot, just above the soil. If the tulsi really ate soil, what would the line show after nine years?",
      "lines": 3,
-     "a": "A strong answer says the soil would have sunk far below the line, because nine years of leaves and stems would have used it up. But the soil was still on the line. So the tulsi was not built from soil.",
-     "why": "This asks the child to say what the evidence would look like if the wrong idea were true. That is how a test tells two ideas apart.",
+     "a": "A strong answer says the soil would have sunk far below the line, because nine years of leaves and stems would have used it up. In the story the soil stayed on the line, which fits. But the story is made up, and real soil in a pot settles a little. The real evidence is Van Helmont's weighed willow.",
+     "why": "This asks the child to say what the evidence would look like if the wrong idea were true. That is how a test tells two ideas apart. It also reminds us that a made-up story is not proof.",
      "context": "In this unit's story, A Pinch of Soil, Malar lives in the village of Kalpatti with her mother and a nine-year-old tulsi plant."
     },
     {
@@ -1444,7 +1445,7 @@
      ],
      "a": 0,
      "why": "He saw that the soil hardly changed, and he gave only water, so water seemed the only answer. Nobody yet knew that air has a gas in it that plants build into sugar. Water does give the hydrogen. A strong answer says he was partly right.",
-     "context": "Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, giving it only rainwater."
+     "context": "Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, giving the tree only rainwater."
     }
    ]
   },
@@ -1673,6 +1674,10 @@
    ],
    "materials": [
     {
+     "item": "a drinking straw, to cut the discs",
+     "qty": 1
+    },
+    {
      "item": "fresh spinach (palak) leaves",
      "qty": 3
     },
@@ -1694,12 +1699,12 @@
      "qty": 3
     },
     {
-     "item": "2 glasses of water that was boiled and has cooled, about 300 ml each. Boil it a few hours before you start.",
+     "item": "2 more glasses or bowls, for mixing the two kinds of water",
      "qty": 2
     },
     {
-     "item": "3 clear glasses or cups, labelled A, B and C, and a glass of water that was boiled and has cooled",
-     "qty": 3
+     "item": "2 glasses of water that was boiled and has cooled, about 300 ml each. Boil it a few hours before you start.",
+     "qty": 2
     },
     {
      "item": "a sunny window or balcony, or a bright LED desk lamp, and a cardboard box to make cup B dark",
@@ -1731,7 +1736,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Press the end of a straw onto a spinach leaf, between the big veins. Twist to cut out a disc. 2. Cut 30 discs. 3. Keep them in two piles of 20 and 10.",
+     "do": "1. Press the end of a straw onto a spinach leaf, between the big veins. Twist to cut out a disc. 2. Cut 30 discs. 3. Keep them in three piles of 10.",
      "say": "Cut between the big veins. The veins are like stiff pipes and they get in the way.",
      "kid": "Press the straw onto the leaf and twist. Out pops a little green circle. Cut 30 circles. Avoid the thick veins.",
      "adult": false
@@ -1748,14 +1753,14 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Squirt the first 10 sunk discs and their baking soda water into cup A. Squirt the second 10 into cup B. 2. Squirt the 10 discs in plain boiled water into cup C. 3. Put A and C in bright sun, or 10 cm under a bright lamp. 4. Put B under a box in the same place.",
+     "do": "1. Squirt the first 10 sunk discs and their baking soda water into cup A. Squirt the second 10 into cup B. 2. Squirt the 10 discs in plain boiled water into cup C. 3. Fill each cup a third full. Use baking soda water for A and B, and plain boiled water for C. 4. Put A and C in bright sun, or 10 cm under a bright lamp. 5. Put B under a box in the same place.",
      "say": "A and C get light. B is in the dark. Now we count. Every 3 minutes, we write down how many discs are floating in each cup.",
      "kid": "Cups A and C go in the bright light. Cup B goes under a box. Every 3 minutes, count the floating circles."
     },
     {
      "id": "s5",
      "mins": 25,
-     "do": "1. Every 3 minutes, count the floating discs in each cup and write the numbers in the table. 2. Lift the box off cup B quickly to look, then put it back. 3. Stop when all the discs in cup A float, or after 25 minutes.",
+     "do": "1. Every 3 minutes, count the floating discs in each cup and write the numbers in the table. 2. Lift the box off cup B for only a second to look, then put it back. 3. Stop when all the discs in cup A float, or after 25 minutes.",
      "say": "Look closely at the discs in cup A. Can you see tiny bubbles on them? Where do you think the bubbles came from?",
      "kid": "Count every 3 minutes. Write it in the table. Look closely at cup A. Can you see tiny bubbles? What could they be?",
      "ask": [
@@ -1932,7 +1937,7 @@
      "qty": 1
     },
     {
-     "item": "a white plate, a spoon, and a slice of raw potato and some cooked rice for practice",
+     "item": "a white plate, a spoon, a small cup, a pinch of sugar and salt, and a slice of raw potato and some cooked rice for practice",
      "qty": 1
     }
    ],
@@ -1978,8 +1983,8 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. In the evening, cut a simple shape from black paper, like a star or your child's first letter. Cut a matching plain square. 2. Clip the shape on top of one big leaf and the square underneath, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual. 4. On day 2, check that the plant has had sun and water. Leave the shape on.",
-     "say": "Under the shape, the leaf will be in the dark for two whole days. All around it, the leaf gets sunshine. Our question is, where will it make starch?",
+     "do": "1. In the evening, cut two matching simple shapes from black paper, like a star or your child's first letter. 2. Clip one shape on top of one big leaf and the other exactly underneath it, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual. 4. On day 2, check that the plant has had sun and water. Leave the shapes on.",
+     "say": "Under the shapes, the leaf will be in the dark for two whole days. All around it, the leaf gets sunshine. Our question is, where will it make starch?",
      "kid": "Cut a black paper star or your first letter. Clip it on a big leaf. Put the plant in the sun for two days.",
      "wait": "Leave the plant in the sun for 2 days.",
      "parent": "You do not need to keep the plant in a cupboard first. Each night a leaf sends its starch away, so the covered part uses up its old starch over the two days. If the days are cloudy, leave the shape on for one more sunny day."
@@ -2087,7 +2092,7 @@
    ],
    "materials": [
     {
-     "item": "a sprig of hydrilla or another water plant, about 10 cm long, from an aquarium shop. If you cannot get one, use the leaf disc kit instead: put a cup of sunk discs at 10, 20 and 40 cm from the lamp, and count how many float after 15 minutes.",
+     "item": "a sprig of hydrilla or another water plant, about 10 cm long, from an aquarium shop. If you cannot get one, use the spinach discs from The Rising Leaf Discs instead: put a cup of sunk discs at 10, 20 and 40 cm from the lamp, and count how many float after 15 minutes.",
      "qty": 1,
      "buy": "b-hydrilla"
     },
@@ -2097,6 +2102,10 @@
     },
     {
      "item": "a paper clip, to weigh the plant down",
+     "qty": 1
+    },
+    {
+     "item": "a cardboard box, to cover the glass for the lamp-off count",
      "qty": 1
     },
     {
@@ -2137,7 +2146,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Move the lamp to 20 cm. Wait 3 minutes and count twice. 2. Move it to 40 cm. Wait and count twice. 3. Switch the lamp off and close the curtains. Wait and count twice.",
+     "do": "1. Move the lamp to 20 cm. Wait 3 minutes and count twice. 2. Move it to 40 cm. Wait and count twice. 3. Switch the lamp off and cover the glass with the cardboard box. Wait and count twice by lifting the box for the count only.",
      "say": "Each time, only the distance changes. Same plant, same glass, same minute. That keeps the test fair.",
      "kid": "Now move the lamp to 20 cm. Count twice. Then 40 cm. Count twice. Then switch it off. Count again.",
      "ask": [
@@ -2924,7 +2933,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this, with made-up numbers. What I think: my plants were built mostly from air. What I saw: my 6 dry seeds weighed 4 grams, and the dried plants weighed 11 grams. The soil stayed at 1,200 grams. Why: the leaves used sunlight to build carbon dioxide from the air into sugar. The sugar became stems and leaves."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this, with made-up numbers. What I think: my plants were built mostly from air. What I saw: my 6 dry seeds weighed 4 grams, and the dried plants weighed 11 grams. The soil stayed at 1,200 grams. Why: the leaves used sunlight to build sugar from carbon dioxide in the air. The sugar became stems and leaves."
     }
    ],
    "context": "In this five-week project, you weigh dry soil, grow plants in it with only water, and weigh everything again. It copies Jan Baptist van Helmont's famous willow experiment.",
@@ -3046,7 +3055,7 @@
     "Time each try with a clock."
    ],
    "materials": [
-    "the leaf disc kit from the first experiment: spinach, a syringe, baking soda, washing-up liquid, cups",
+    "the things from The Rising Leaf Discs: spinach, a syringe, baking soda, washing-up liquid, cups",
     "a desk lamp, warm water, and other kinds of leaves"
    ],
    "general": [
@@ -3064,7 +3073,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Find how long your sunlit discs took in the leaf disc experiment. Write it at the top of a page. You will also set up one cup exactly like that one, to beat.",
+     "do": "Find how long your sunlit discs took in The Rising Leaf Discs. Write it at the top of a page. You will also set up one cup exactly like that one, to beat.",
      "say": "Last time, how long did all 10 discs take to float? That's the time to beat.",
      "kid": "How long did the discs take last time? Write that down. That is the time to beat!",
      "context": "This is the first step of The Fastest Float. You try to make spinach leaf discs float up faster, by giving the leaf better conditions for making oxygen."
@@ -3192,45 +3201,6 @@
   },
   {
    "t": "mcq",
-   "p": "Look at the chart. Which cup made oxygen?",
-   "opts": [
-    "Light and baking soda",
-    "Dark and baking soda",
-    "Light and plain water",
-    "None of them"
-   ],
-   "a": 0,
-   "why": "Only the cup with light and carbon dioxide made oxygen, so only its discs floated. Picking 'light and plain water' misses the carbon dioxide. Plain water has almost none.",
-   "outcome": 1,
-   "context": "In the leaf disc experiment, sunk spinach discs float up when the leaf makes oxygen.",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up example: leaf discs floating after 15 minutes, out of 10",
-    "x": "Cup",
-    "y": "Discs floating (out of 10)",
-    "note": "These numbers are made up, to show what results can look like. Your numbers will be different.",
-    "data": [
-     {
-      "label": "Light and baking soda",
-      "value": 10,
-      "emoji": "☀️"
-     },
-     {
-      "label": "Dark and baking soda",
-      "value": 0,
-      "emoji": "🌑"
-     },
-     {
-      "label": "Light, plain water",
-      "value": 0,
-      "emoji": "💧"
-     }
-    ]
-   },
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "A girl drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?",
    "opts": [
     "The potato has starch in it, and the sugar does not",
@@ -3243,21 +3213,6 @@
    "outcome": 2,
    "how": "e2",
    "context": "In the starch test, you drop brown iodine on foods and watch for a blue-black colour."
-  },
-  {
-   "t": "mcq",
-   "p": "A leaf with a paper star on it is tested with iodine. Where will it stay pale?",
-   "opts": [
-    "Under the star, where no light fell",
-    "Everywhere except the star",
-    "All over",
-    "Only at the stalk"
-   ],
-   "a": 0,
-   "why": "No light under the star means no food made there, so no starch. Picking 'everywhere except the star' has the answer backwards.",
-   "outcome": 2,
-   "context": "In the starch picture experiment, part of a leaf is covered with black paper for two sunny days, then tested for starch.",
-   "how": "e2"
   },
   {
    "t": "mcq",
@@ -3282,9 +3237,9 @@
     "The tree had lost weight"
    ],
    "a": 0,
-   "why": "If the tree were built from soil, the soil would have lost as much as the tree gained. In fact it lost only about 60 grams. Picking 'exactly the same' is close to what he really saw, which is why it shows the tree was not built from soil.",
+   "why": "If the tree were built from soil, the soil would have lost as much as the tree gained. In fact it lost only about 60 grams. Picking 'exactly the same' is close to what he saw, but not quite right. The soil lost a tiny amount, far too little to build a tree.",
    "outcome": 3,
-   "context": "Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, giving it only rainwater."
+   "context": "Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, giving the tree only rainwater."
   },
   {
    "t": "mcq",
@@ -3482,10 +3437,6 @@
    "a": "Lunch."
   },
   {
-   "j": "What did the Sun say to the leaf?",
-   "a": "I've got a photon for you!"
-  },
-  {
    "j": "What did the tree say to the person breathing out?",
    "a": "Thanks for the snack."
   },
@@ -3504,10 +3455,6 @@
   {
    "j": "Why are leaves never late for breakfast?",
    "a": "They make it themselves."
-  },
-  {
-   "j": "Why did the leaf go to the kitchen?",
-   "a": "To cook up some sunshine."
   }
  ],
  "maths": [
@@ -3649,42 +3596,13 @@
    "why_maths": "Weighing is how van Helmont, and you, can prove where a tree came from. Comparing the tree's gain with the soil's loss shows the soil could not have been the source."
   },
   {
-   "problem": "In the bubble count, the water plant gave 30 bubbles in a minute with the lamp 10 cm away. They gave 16 at 20 cm, and 6 at 40 cm. Draw a bar chart. How many more bubbles were there at 10 cm than at 40 cm?",
-   "answer": "24 more bubbles. Here is the bar chart.",
-   "explain": "Draw one bar for each lamp distance, as tall as its number. The tallest bar is 10 cm, at 30. The shortest is 40 cm, at 6. 30 − 6 = 24. So there were 24 more bubbles a minute with the lamp close.",
-   "math_unit": "math.data.bar-charts.L3",
+   "problem": "In the bubble count, the water plant gave 30 bubbles in one minute with the lamp 10 cm away. If the lamp stayed there, about how many bubbles would the plant give in 10 minutes? In half an hour?",
+   "answer": "About 300 bubbles in 10 minutes. About 900 in half an hour.",
+   "explain": "One minute gives 30 bubbles. 10 minutes is 10 groups of 30, so 10 × 30 = 300. Half an hour is 30 minutes, and 30 × 30 = 900. Real bubbles would not stay exactly the same, so these are only estimates.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
    "context": "In the bubble count, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
-   "answer_chart": {
-    "type": "bar",
-    "title": "Made-up example: bubbles from a water plant in one minute",
-    "x": "Where the lamp was",
-    "y": "Bubbles in one minute",
-    "note": "These numbers are made up, to show what results can look like. Your numbers will be different.",
-    "data": [
-     {
-      "label": "10 cm away",
-      "value": 30,
-      "emoji": "💡"
-     },
-     {
-      "label": "20 cm away",
-      "value": 16,
-      "emoji": "💡"
-     },
-     {
-      "label": "40 cm away",
-      "value": 6,
-      "emoji": "💡"
-     },
-     {
-      "label": "Lamp off",
-      "value": 0,
-      "emoji": "🌑"
-     }
-    ]
-   },
    "how": "e3",
-   "why_maths": "A bar chart shows at a glance that more light means more oxygen. Subtracting tells you exactly how much more."
+   "why_maths": "Counting for one minute is quick, but it tells you the rate. Multiplying the rate shows how much oxygen a plant could make over a longer time."
   },
   {
    "problem": "In The Breath a Tree Eats, you learned that a grown-up breathes out about 1 kilogram of carbon dioxide each day. How much is that in one week? In 30 days?",
@@ -3859,7 +3777,7 @@
    "id": "b-book",
    "item": "Living Sunlight: How Plants Bring the Earth to Life, by Molly Bang and Penny Chisholm",
    "kind": "book",
-   "why": "A picture book told by the Sun, about photosynthesis and the breath we share with plants. Penny Chisholm is the scientist who discovered Prochlorococcus. Their next book, Ocean Sunlight, goes with the sea card. Read it on day 1, after the story.",
+   "why": "A picture book told by the Sun, about photosynthesis and the breath we share with plants. Penny Chisholm is the scientist who discovered Prochlorococcus. Read it after the story, if you can get a copy.",
    "url": "https://www.amazon.in/s?k=Living+Sunlight+Molly+Bang+Penny+Chisholm",
    "used_in": [
     "a1"
@@ -3904,8 +3822,8 @@
    "a": "About half."
   },
   {
-   "q": "In the story A Pinch of Soil, what was Malar's clue in the tulsi pot?",
-   "a": "The soil was still on the scratched line after nine years."
+   "q": "In the made-up story A Pinch of Soil, what was Malar's clue in the tulsi pot?",
+   "a": "The soil stayed on the scratched line after nine years. The story is made up. The real proof is van Helmont's weighed willow."
   },
   {
    "q": "Why are leaves green?",
@@ -4062,5 +3980,6 @@
   "who": "Jan Baptist van Helmont; Joseph Priestley; Jan Ingenhousz; Nicolas-Théodore de Saussure",
   "when": "The first half of the 1600s (the willow, published in 1648); 1771 (Priestley's mint); 1779 (Ingenhousz); 1804 (de Saussure)",
   "wrong_idea": "Plants are made of the soil they grow in. Van Helmont's weighed pot showed that the soil hardly changed. His own idea, that the tree was made only of water, was shown wrong when de Saussure found that plants also build with carbon dioxide from the air."
- }
+ },
+ "playtest": "Walked through as a parent and child would, in a city flat. Games: Leaf Kitchen has all 48 ingredient cards and 20 weather and life cards written out; I made the NEW LEAF card do something (a leaf for 1 sugar, as it did nothing before), made NIGHT stop trading as well as cost sugar, said what happens when a pile or the sugar runs out, fixed the coin count to 7 per player, and made the win end on a full round. Photon Relay needed too many people and a stuck ending: the rules now say who plays what with 2, 3 or more players, a round ends when all its batons are in the warmth bucket, the 15 batons are split into a 9-baton round and a 6-baton cloud round, the mongoose sits down and the fungus returns the carbon, and the energy sheet no longer asks a question whose answer is always the same. Experiments: The Rising Leaf Discs had a duplicate glasses line, no straw, uneven piles of discs (20 and 10 instead of 10, 10, 10) and no top-up so the cups were nearly empty; The Starch Picture now cuts two matching shapes, one for each side of the leaf, and lists the sugar, salt and small cup used in the practice; Count the Bubbles uses a box for the dark count instead of curtains. Fire and outdoor work stays outside the core path (Burn It Back to Air is an extra). Cut two weak jokes (8 remain), two quiz questions that repeated the experiment checks word for word, and replaced the bubble-count maths question that repeated the experiment's own bar chart with a rate question. A second Kavya became Meena. The story clue is now called made up wherever it was used as evidence. Added a Bengal fish meal, a Gujarati thepla, poha and bamboo for rule 28 and fixed the one sentence that called a fungus \"it\". The three video check notes and the sources list are internal and not shown to families; I could not open the videos again, so they are as the earlier checker left them."
 }

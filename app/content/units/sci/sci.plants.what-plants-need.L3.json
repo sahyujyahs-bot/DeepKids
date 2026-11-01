@@ -145,7 +145,7 @@
   {
    "term": "Photoreceptor",
    "meaning": "A special molecule inside a plant that notices light. One kind, called phytochrome, also notices warmth.",
-   "example": "Photoreceptors tell a seedling under a box that it is dark.",
+   "example": "Photoreceptors tell a seedling under a box that there is no light.",
    "art": "A cartoon molecule like a tiny switch, flipping when a sunbeam hits it."
   },
   {
@@ -200,7 +200,7 @@
    "concept": "Light: why the dark seedling grows tall and yellow",
    "status": "defined",
    "definition": "Without light, a seedling cannot make food or the green colour called chlorophyll. They use their stored food to grow tall and thin, searching for light. Scientists call this etiolation.",
-   "description": "A seed carries a small store of food. A seedling in the light uses it to open green leaves quickly. Then the leaves catch light and make more food. A seedling in the dark cannot make food. So they spend their stored food on growing their stem as tall and as fast as they can, towards where light might be. They do not spend food on opening their leaves or making chlorophyll. That is why they end up tall, thin, yellow and floppy. When the stored food runs out, they die. Put them back in the light in time, and they start to turn green within a day. The chart shows made-up results from the light test.",
+   "description": "A seed carries a small store of food. A seedling in the light uses that store to open green leaves quickly. Then the leaves catch light and make more food. A seedling in the dark cannot make food. So they spend their stored food on growing their stem as tall and as fast as they can, towards where light might be. They do not spend food on opening their leaves or making chlorophyll. That is why they end up tall, thin, yellow and floppy. When the stored food runs out, they die. Put them back in the light in time, and they start to turn green within a day. The chart shows made-up results from the light test.",
    "examples": [
     "Moong in a dark cupboard grows taller than moong on a windowsill, but the plants are yellow and fall over.",
     "Potatoes kept in a dark bag grow long, white, spidery shoots.",
@@ -304,7 +304,8 @@
    "examples": [
     "Aloe vera and cactus need only a little water. Money plant and ferns like more water and some shade.",
     "Wheat grows in the cool winter in Punjab. Rice grows in the hot, wet monsoon.",
-    "Apples grow in cool hills like Himachal Pradesh. Coconuts grow on hot coasts like Kerala."
+    "Apples grow in cool hills like Himachal Pradesh. Coconuts grow on hot coasts like Kerala.",
+    "Tea bushes grow on cool, misty hills in Assam and Darjeeling. In hot, dry plains they would struggle."
    ],
    "perspectives": [],
    "art": "A row of plants each in their own home: a cactus in a desert, a fern by a waterfall, a wheat field in winter mist, rice in a flooded monsoon field.",
@@ -363,7 +364,7 @@
    "status": "idea",
    "description": "A plant has no eyes and no skin like ours. But they have special molecules called photoreceptors that notice light. One family of them is called phytochrome. It works like a tiny switch. Red light flips it one way. Darkness, and the deep red light that filters through other leaves, slowly flips it back. So a seedling can tell if they are in the light, in the dark, or in the shade of other plants. In 2016, two teams of scientists found something surprising. Phytochrome flips back faster when it is warm. So the same molecule is a light sensor and a thermometer. Scientists think plants have other warmth sensors too. How they all work together is still being worked out.",
    "examples": [
-    "A seedling under a box senses that it is dark, and grows tall towards where light might be.",
+    "A seedling under a box senses that there is no light, and grows tall towards where light might be.",
     "A plant in the shade of taller plants senses the changed light, and stretches up to get out of their shade."
    ],
    "perspectives": [
@@ -412,7 +413,7 @@
    "definition": "To grow plants away from Earth, people must give them everything Earth gives for free. That means light, water, moving air, the right warmth and minerals.",
    "description": "Astronauts on long journeys will need to grow food. So scientists test what plants need away from Earth. On the International Space Station there is a small garden called Veggie. It gives plants mostly red and blue light from lamps, with a little green, and water through soft pillows. A fan moves the air, because in space warm air does not rise. In August 2015, astronauts there ate red lettuce they had grown themselves. In January 2019, a Chinese spacecraft called Chang'e 4 carried cotton seeds to the far side of the Moon in a sealed can. A cotton seed sprouted, the first ever on the Moon. But the freezing Moon night arrived, and the experiment ended. In 2022, scientists in Florida grew small plants in real Moon soil brought back by Apollo astronauts. The plants grew, but slowly, and they showed signs of stress.",
    "examples": [
-    "The Veggie garden on the space station lights its lettuce with mostly red and blue lamps, which give a pink glow.",
+    "The Veggie garden on the space station lights the lettuce with mostly red and blue lamps, which give a pink glow.",
     "Cotton sprouted on the Moon in 2019, but could not survive the freezing Moon night.",
     "Plants grown in real Moon soil in 2022 were smaller than the same plants grown in volcanic ash from Earth, which is often used to copy Moon soil."
    ],
@@ -599,7 +600,7 @@
   "title": "A Stripe of Sun",
   "mins": 12,
   "read_aloud": true,
-  "note": "Zoya, Nani, Rukmini Mami, Arjun and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.",
+  "note": "Zoya, Nani, Rukmini Mami, Arjun, Kavitha and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.",
   "text": [
    "In Zoya's lane in Triplicane, in Chennai, the buildings stood very close together. Neighbours could pass a bowl of kesari from one balcony to the next without leaning. Sunlight reached the lane for only about an hour each day. At eleven o'clock a thin yellow stripe slid down the wall opposite Zoya's window. For a while it touched the outer edge of the iron grille around her window. Then it was gone before lunch.",
    "In the May holidays, Rukmini Mami from the ground floor made an announcement on the staircase. Every child in the building would get a paper cup of soil and five moong beans from her own kitchen. In two weeks there would be judging, right there on the landing. 'The tallest plant wins,' she said. She held up a mango so ripe that it smelt like a festival. 'A Malgova, from Salem. One.'",
@@ -648,17 +649,17 @@
       "Square 2: the stem",
       "Square 3: the stem",
       "Square 4: the stem",
-      "Square 5: the stem, with a leaf drawn on it",
+      "Square 5: the stem, with a leaf drawn on it. Land here and take 1 leaf token from the spare pile",
       "Square 6: the stem",
       "Square 7: the stem",
       "Square 8: the stem",
       "Square 9: the stem",
-      "Square 10: the stem, with a leaf drawn on it",
+      "Square 10: the stem, with a leaf drawn on it. Land here and take 1 leaf token from the spare pile",
       "Square 11: the stem",
       "Square 12: the stem",
       "Square 13: the stem",
       "Square 14: the stem",
-      "Square 15: the stem, with a leaf drawn on it",
+      "Square 15: the stem, with a leaf drawn on it. Land here and take 1 leaf token from the spare pile",
       "Square 16: the stem",
       "Square 17: the stem",
       "Square 18: the stem",
@@ -716,8 +717,16 @@
     },
     {
      "kind": "tokens",
-     "title": "16 green leaf tokens (each player starts with 4)",
+     "title": "24 green leaf tokens (each player starts with 4)",
      "items": [
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
+      "Green leaf token",
       "Green leaf token",
       "Green leaf token",
       "Green leaf token",
@@ -741,6 +750,7 @@
     "Each player is a moong seedling. Put a counter (a coin or a button) on square 1. Take 4 green leaf tokens and 2 rescue cards. The other leaf tokens make the spare pile.",
     "Shuffle the weather and care cards and put them face down.",
     "On your turn, take the top weather and care card, read it out and do what it says. You never move back past square 1. When the pile runs out, shuffle the used cards and turn them face down again.",
+    "If you land on a square with a leaf drawn on it, take 1 leaf token from the spare pile. If the spare pile is empty, take nothing.",
     "Play a rescue card only when the card you drew names it. Say which need it gives back to your plant: light, water, air for the roots, the right warmth or space. Then put the rescue card aside. It is used up.",
     "Cupboard and doormat cards move you up fast, but you lose a green leaf token. Put it in the spare pile. Tall and pale is not the same as healthy.",
     "To win, reach or pass square 20 with at least one green leaf token left. If you ever have no leaf tokens, put your counter back on square 1 and take 2 leaf tokens from the spare pile."
@@ -757,7 +767,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'The pot stood in a dish of water all week' together as a practice round.",
+     "do": "Take out the card 'The pot stood in a dish of water all week'. Read it together as a practice, then shuffle it back.",
      "say": "Let's practise with one card. The pot stood in a dish of water all week. Is that good or bad for the plant? Why?",
      "kid": "Practice card: the pot stood in water all week. Good or bad for the plant? Say your answer.",
      "ask": [
@@ -795,16 +805,6 @@
      "do": "When someone draws a cupboard or doormat card, stop for a moment and ask the question below.",
      "say": "This card moved you up 3 squares. So why did you lose a leaf?",
      "kid": "You grew fast in the cupboard, but lost a leaf. Why? Say it out loud.",
-     "ask": [
-      {
-       "q": "Why does a seedling kept in the dark grow tall fast, but end up pale and weak?",
-       "good": [
-        "They stretch to find light.",
-        "They can't make green colour or food without light.",
-        "Tall isn't the same as healthy."
-       ]
-      }
-     ],
      "think": "If you could only measure one thing to judge a plant, what would you choose? Height, leaves, or colour?"
     },
     {
@@ -875,7 +875,7 @@
        "b": "FAIR. Every cup is measured the same way, at the same time."
       },
       {
-       "f": "A girl tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.",
+       "f": "A girl tests soil from a park against soil from a shop. She also uses a bigger pot for the shop soil.",
        "b": "UNFAIR. The pot size changed. Fix: use the same size of pot."
       },
       {
@@ -1019,7 +1019,7 @@
    "context": "This is a card game about fair tests. Each card describes a test a child did on plants. Players decide whether it was fair, and fix the unfair ones.",
    "setup": [
     {
-     "art": "A pile of face-down picture cards, each showing two cups of seedlings, and a bowl of small magnifying-glass tokens.",
+     "art": "A pile of face-down cards and a bowl of small magnifying-glass tokens.",
      "caption": "1. Shuffle the test cards and put them face down."
     },
     {
@@ -1054,31 +1054,13 @@
      "how": "e1"
     },
     {
-     "t": "write",
-     "p": "Many people think the tallest plant is the healthiest. In the light test, the dark seedlings grew tallest. Why were they not the healthiest?",
-     "lines": 3,
-     "a": "They were tall only because they were stretching to find light. They were pale, thin and floppy, with small folded leaves, and some fell over. The short seedlings in the light were green, with open leaves and strong stems.",
-     "why": "A strong answer uses what the child saw: colour, leaves and stem, not only height. Height alone can fool you.",
-     "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
-     "chart": {
-      "type": "bar",
-      "title": "The light test: middle height on Day 7 (made-up results)",
-      "x": "Cup",
-      "y": "Height (cm)",
-      "data": [
-       {
-        "label": "LIGHT",
-        "value": 8,
-        "emoji": "🌱"
-       },
-       {
-        "label": "DARK",
-        "value": 14,
-        "emoji": "🌾"
-       }
-      ]
-     },
-     "how": "e1"
+     "t": "draw",
+     "p": "Draw the roots from a JUST RIGHT cup and from a SOAKED cup of the water test. Label two differences.",
+     "a": "The JUST RIGHT roots are white and spread out, with many tiny hairs. The SOAKED roots are brown and soft, with few hairs, and they smell bad.",
+     "why": "A strong drawing shows colour and firmness, and says why the soaked roots look that way: they had no air.",
+     "art": "An empty box split in two halves, labelled JUST RIGHT and SOAKED.",
+     "context": "This question is about the water test. Three cups of moong get no water. Three get 1 tablespoon of water every morning. Three stand in a dish of water all the time.",
+     "how": "e2"
     },
     {
      "t": "fill",
@@ -1385,16 +1367,16 @@
     },
     {
      "t": "mcq",
-     "p": "You measured your three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?",
+     "p": "In the coloured light test, the coloured sheets let through different amounts of light. What does that mean for the test?",
      "opts": [
-      "9 cm",
-      "8 cm",
-      "25 cm"
+      "The test is perfectly fair, because the cups are side by side",
+      "The test is not perfectly fair, because the brightness changed as well as the colour",
+      "The colour of the sheet does not matter"
      ],
      "a": 1,
-     "why": "Put them in order: 8, 8, 9. The middle one is 8. Picking 25 means adding them all up. The middle value is one of the numbers, not their total.",
-     "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
-     "how": "e1"
+     "why": "A fair test changes only one thing. Here the colour changed and the brightness changed too. So we should say how sure we are, and not claim more than the test showed. Picking 'perfectly fair' forgets that two things changed.",
+     "context": "This question is about the coloured light test. Four cups of seedlings are covered with clear, red, blue or green see-through cellophane for a week.",
+     "how": "e4"
     },
     {
      "t": "mcq",
@@ -1434,7 +1416,7 @@
      "t": "write",
      "p": "A money plant sits in a dark corner of the hall. The plant grows long, thin stems with small leaves far apart. Which need is in short supply? What would you change?",
      "lines": 3,
-     "a": "Light is in short supply. The plant is stretching towards light, like the dark seedlings. I would move the plant near a bright window, or bounce light onto them with a mirror or a steel plate, like Zoya's thali.",
+     "a": "Light is in short supply. The plant is stretching towards light, like the dark seedlings. I would move the plant near a bright window, or bounce light onto them with a mirror or a steel plate, like Zoya's steel thali in the story A Stripe of Sun.",
      "why": "Long, thin stems with leaves far apart are the clue of too little light. A strong answer names the need and gives a cure that adds light."
     },
     {
@@ -1766,7 +1748,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pokes the holes in the cups. Wash hands after touching soil. Do not eat seeds from the cups.",
+   "safety": "A grown-up pokes the holes in the cups with a nail or a pin.",
    "schedule": [
     {
      "day": 1,
@@ -1916,7 +1898,7 @@
        "No. They are tall because they are stretching to find light, and they are pale and weak"
       ],
       "a": 1,
-      "why": "In the dark, a seedling uses its stored food to grow tall and thin, looking for light. It cannot make green chlorophyll or new food. So it is weak and will die when the stored food runs out. Picking 'taller means healthier' is the most common idea. That is why we also count the green leaves."
+      "why": "In the dark, a seedling uses their stored food to grow tall and thin, looking for light. It cannot make green chlorophyll or new food. So it is weak and will die when the stored food runs out. Picking 'taller means healthier' is the most common idea. That is why we also count the green leaves."
      },
      "chart": {
       "type": "table",
@@ -2182,7 +2164,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "On Day 6: 1. Measure the tallest seedling in each cup and write it down. 2. Label 3 cups NONE, 3 JUST RIGHT and 3 SOAKED. 3. Stand the 3 SOAKED cups in a deep dish. Fill the dish with water up to the soil inside the cups. 4. Put all the cups back side by side.",
+     "do": "On Day 6: 1. Measure the tallest seedling in each cup and write down the height. 2. Label 3 cups NONE, 3 JUST RIGHT and 3 SOAKED. 3. Stand the 3 SOAKED cups in a deep dish. Fill the dish with water up to the soil inside the cups. 4. Put all the cups back side by side.",
      "say": "Now the test begins. These get no water at all. These get 1 spoon every morning. And these stand in water all the time. Which do you think will do best?",
      "kid": "Measure every cup. Put labels on: NONE, JUST RIGHT, SOAKED. Stand the SOAKED cups in a dish of water. Which will do best? Guess.",
      "ask": [
@@ -2220,7 +2202,7 @@
        "They are too cold"
       ],
       "a": 1,
-      "why": "A plant that droops in dry soil is wilting. Its cells are going soft because there is not enough water to fill them. Picking 'light' is a sensible guess, because plants in the dark also flop. But in the dark they are pale and tall. These are green and drooping, and their soil is dry."
+      "why": "A plant that droops in dry soil is wilting. Their cells are going soft because there is not enough water to fill them. Picking 'light' is a sensible guess, because plants in the dark also flop. But in the dark they are pale and tall. These are green and drooping, and their soil is dry."
      }
     },
     {
@@ -2415,10 +2397,10 @@
      "kid": "Put a folded wet cloth in 3 bowls. Add 4 spoons of water to each. Put 10 sprouts in each. Measure 5 sprouts. Cover each bowl with a plate.",
      "ask": [
       {
-       "q": "Why do we cover all three bowls, not just the fridge one?",
+       "q": "What should we do to the other two bowls, so that only the warmth is different?",
        "good": [
-        "So they are all dark.",
-        "So only the warmth is different."
+        "Cover them too, so all three are dark.",
+        "Keep everything else the same."
        ]
       }
      ],
@@ -2498,7 +2480,7 @@
      "kid": "Optional: put the fridge bowl in the cupboard. Look in 2 days. Are the sprouts dead, or only waiting?",
      "wait": "Look again after 2 days.",
      "parent": "The cold sprouts usually start growing again in the warmth. Cold slowed them down. A few may have been harmed, because moong comes from warm places and does not like long cold.",
-     "think": "Our warm spot was best. Would an even hotter place, like a terrace at 46 degrees, be even better? Why not?"
+     "think": "If your warm spot grew the sprouts most, would an even hotter place, like a terrace at 46 degrees, be better still? Why not?"
     }
    ],
    "context": "This is the warmth test. You put moong sprouts in a fridge, a room cupboard and a warm spot, all in the dark. You measure how much they grow in 3 days.",
@@ -2636,8 +2618,8 @@
      "id": "s3",
      "mins": 12,
      "do": "On Day 7: 1. Take off the covers. 2. Measure the tallest seedling in each cup. 3. Compare leaf colour, stem thickness and how much each seedling leans.",
-     "say": "Which seedlings look most like the ones in full light? Which look most like the ones in the dark?",
-     "kid": "Take off the hats. Measure each cup. Which seedlings are greenest and strongest? Which look like they were in the dark?",
+     "say": "Which seedlings look the sturdiest and greenest? Which are tall and pale?",
+     "kid": "Take off the hats. Measure each cup. Which seedlings are greenest and strongest? Which are tall and pale?",
      "parent": "Clear usually gives the sturdiest green seedlings. Under red they are often a little taller and thinner. Blue usually gives short, green seedlings. Green often looks most like the dark cups, taller and paler. Results at home vary. Cellophane sheets also let different amounts of light through, so this test is not perfectly fair. That is worth talking about.",
      "check": {
       "t": "mcq",
@@ -2730,7 +2712,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after handling the sprouts. Do not eat sprouts that have stood on the windowsill for days.",
+   "safety": "Do not eat sprouts that have stood on the windowsill for days.",
    "schedule": [
     {
      "day": 1,
@@ -2853,7 +2835,7 @@
      "buy": "b-ruler"
     },
     {
-     "item": "a growing plant, such as a seedling from the light test or a bean plant",
+     "item": "a growing plant in a pot, such as a tulsi, a money plant or a bean seedling that is already up",
      "qty": 1
     },
     {
@@ -2865,7 +2847,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use children's scissors.",
    "schedule": [
     {
      "day": 1,
@@ -3193,7 +3174,7 @@
        ]
       }
      ],
-     "parent": "Light meters measure in lux. Outdoor daylight is often tens of thousands of lux. A bright room is often a few hundred. So a room can be a hundred times dimmer than outside, even though it does not feel like it. That is why indoor plants lean to the windows. Phone apps are not exact, but they are good enough to compare places."
+     "parent": "Light meters measure in lux. Outdoor daylight is often tens of thousands of lux. A bright room is often a few hundred. So a room can be a hundred times dimmer than outside, even though it seems bright indoors. That is why indoor plants lean to the windows. Phone apps are not exact, but they are good enough to compare places."
     },
     {
      "id": "s3",
@@ -3402,7 +3383,7 @@
      "kid": "Act it out! Soggy soil. A cold night. A heat wave. Now everything is just right.",
      "check": {
       "t": "mcq",
-      "q": "In the dance, a seedling in the dark stretches tall and keeps its leaves shut. Why?",
+      "q": "In the dance, a seedling in the dark stretches tall and keeps their leaves shut. Why?",
       "options": [
        "They are showing off",
        "They are using their stored food to reach light, and leaves are no use without light",
@@ -3460,12 +3441,12 @@
      "buy": "b-ruler"
     }
    ],
-   "safety": "Wash hands after touching soil and compost. Do not eat raw rajma seeds, because they are harmful uncooked.",
+   "safety": "Do not eat raw rajma seeds, because they are harmful uncooked.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Choose the best place using your light map. Sow the beans. Name your plant. Start the diary."
+     "what": "Soak the beans the night before. Choose the best place using your light map. Sow the beans. Name your plant. Start the diary."
     },
     {
      "day": 3,
@@ -3519,7 +3500,7 @@
      "do": "1. Fill the pot with the soil and compost. 2. Push 3 soaked beans in, about 2 cm deep and a hand-width apart. 3. Water until a little runs out of the hole. 4. Give your plant a name and write the name on the pot.",
      "say": "Some families talk to their plant and name them. Let's name ours. What will you call your bean?",
      "kid": "Fill the pot. Push in 3 beans, 2 cm deep. Water until a little runs out of the hole. Give your plant a name!",
-     "parent": "Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and gently pull out the others after a week, so they have space."
+     "parent": "Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and snip the others off at the soil after a week, so they have space."
     },
     {
      "id": "s3",
@@ -3543,7 +3524,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "When the bean is about 15 cm tall, push the stick into the soil beside them, without hurting the roots.",
+     "do": "At about Day 12, when the bean is around 15 cm tall, push the stick in beside them. Do not hurt the roots.",
      "say": "Many beans are climbers. Watch what the tip does with the stick in the next few days.",
      "kid": "Push a stick into the soil next to your bean. Watch the tip. Will they find the stick?",
      "think": "The bean has no eyes. How do they find the stick to climb?"
@@ -3777,7 +3758,7 @@
        "Use a bigger bottle"
       ],
       "a": 1,
-      "why": "Soggy soil means water is coming in faster than the plant uses it. A smaller hole slows the drip. A bigger hole lets the water out even faster. A bigger bottle holds more water, but it does not slow the drip. Remember, roots need air too."
+      "why": "Soggy soil means water is coming in faster than the plant can use the water. A smaller hole slows the drip. A bigger hole lets the water out even faster. A bigger bottle holds more water, but it does not slow the drip. Remember, roots need air too."
      }
     }
    ],
@@ -3820,7 +3801,7 @@
    "channel": "NASA",
    "youtube": "c1Gxn_nfgWA",
    "mins": 4,
-   "why": "Shows how astronauts give plants light, water, air and warmth in space, and the first space-grown lettuce being eaten in 2015.",
+   "why": "Shows how astronauts give plants light, water, air and warmth in space.",
    "check": ""
   }
  ],
@@ -4115,20 +4096,12 @@
    "a": "They keep their eyes peeled, even in the dark."
   },
   {
-   "j": "What did one sprout say to the other in the fridge?",
-   "a": "Let's just chill and grow later."
-  },
-  {
    "j": "How do plants talk to each other?",
    "a": "By leaf-mail."
   },
   {
    "j": "Why did the seedling stretch so much in the cupboard?",
    "a": "They were trying to reach the light switch."
-  },
-  {
-   "j": "Why did the cactus refuse a drink?",
-   "a": "They were already full of themselves."
   }
  ],
  "maths": [
@@ -4213,7 +4186,7 @@
   {
    "problem": "In the light test, the three DARK cups measured 13 cm, 15 cm and 14 cm. What is the middle value?",
    "answer": "14 cm.",
-   "explain": "Put the numbers in order: 13, 14, 15. The one in the middle is 14. So the middle value is 14 cm.",
+   "explain": "30 take away 6 is 24. So the 5 sprouts grew 24 cm altogether. 24 shared between 5 sprouts is 4 each, with 4 cm left over. Share the 4 cm too: each sprout gets 8 millimetres more. So each sprout grew 4 cm and 8 millimetres, a little under 5 cm.",
    "math_unit": "math.measurement-basics.estimation-and-precision.L3",
    "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
    "how": "e1",
@@ -4429,7 +4402,7 @@
    "a": "Jagadish Chandra Bose."
   },
   {
-   "q": "Does a plant need soil itself?",
+   "q": "Does a plant need soil, or only what soil gives?",
    "a": "No, only what soil gives: water, air, minerals and support."
   },
   {
@@ -4580,5 +4553,6 @@
   "when": "Van Helmont's willow in the early 1600s, written up in 1648; Woodward's mint test in 1699",
   "wrong_idea": "That a plant is made from water alone. Woodward's mint grew better in muddy water than in pure rainwater, so something from the soil helps them grow. Woodward then went too far the other way and thought plants are made mostly of soil. Later scientists found that most of a plant's weight comes from the air, as the unit Food from light explains.",
   "art": "A row of glass jars on a windowsill, each holding a sprig of mint: clear rainwater, river water and cloudy muddy water, with the mint in the muddy jar the biggest."
- }
+ },
+ "playtest": "Walked every game, experiment, activity, project and challenge as a family would, with 2 and with 4 players. Grow or Droop: its 16 leaf tokens left no spare pile for 4 players, so there are now 24, and the three leaf squares give a token so the squares do something; the practice card is taken from the pile and shuffled back, and a repeated question was removed. Fair or Unfair: counts, paddles and tokens check out for 2 to 5 players, and the park soil card replaces garden soil for flat families. Experiments: minutes, days and schedules were added up and agree; fair tests are fair (all bowls dark in the warmth test, same water in every cup); the warmth test no longer assumes the warm spot won, and the coloured light test no longer assumes the light test was done. Safety lines for plain hand-washing and children's scissors were deleted; the real ones (holes, pins, raw rajma, mosquitoes, heat, the Sun) stay. The paper-strip chart now uses a plant that is already up, because the light-test seedlings only last 9 days. Rajma needs an overnight soak noted on Day 1. Living beings are called she, he or they, not it. Two weak jokes were cut, leaving 8, and a Kavitha mention was added to the story note. Worksheets: a repeated tall-is-not-healthy question and a repeated middle-value question were replaced or removed. An East and Northeast example (Assam and Darjeeling tea) was added to the South-heavy examples. The three videos were opened and exist. Not changed: facts about Bose, the Moon and space plants, and the cellophane colour results, which are hedged in the text and could not be re-checked here."
 }

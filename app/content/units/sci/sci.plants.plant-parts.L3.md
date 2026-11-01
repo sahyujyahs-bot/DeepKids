@@ -215,10 +215,7 @@ Every plant begins as one single cell. That cell divides again and again, first 
 - *deep:* If every part of a plant is shaped for its job, what is your hand shaped for? What about your ear, or your eye? (hint: Open and close your hand. Count the jobs it can do.)
 - *deep:* Plants that are not related grow the same shapes when they live in the same kind of place. Does the place shape the living thing? (hint: Think of cactuses in America and spiny euphorbias in Africa. They are not related, but they look almost the same.)
 - *deep:* Is a potato a root because it grows underground, or a stem because it has buds? Who decides what a thing is? (hint: What clues would you trust more: where something is, or what it does and how it is built?)
-- *deep:* Why are leaves green and not black, when black would catch more light? (hint: Scientists are still not sure. What would happen to a solar panel if the Sun kept bursting out from behind clouds?)
 - *deep:* The first land plants had no roots and no leaves. What do you think the land looked like then? (hint: No grass, no trees, no soil as we know it. Just rock, water and tiny green stems.)
-- *big:* A root bridge gets stronger every year, while a bridge of cut bamboo slowly rots. What is different about a bridge that is alive? (hint: A living root keeps growing. Cut bamboo cannot grow or mend itself.)
-- *big:* If there are plants on a planet with a red star, would they still be 'plants' if they were black? (hint: What makes a plant a plant: their colour, or their job?)
 - *big:* A tendril coils as soon as it is touched. Does a plant feel? What would count as feeling? (hint: The unit on plant senses looks at this question. What do you think feeling needs?)
 
 ## Story: Ten Carrots for Next Year
@@ -284,8 +281,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 
 ## Games
 ### g1 · Plant Part Disguises (20 min)
-- **rules:** Cut out the 24 cards and the 7 job tokens. Shuffle the cards and put them face down in a pile. Lay the tokens face up in a row. They are a menu of jobs, and are never used up.; On your turn, take the top card and read it out loud.; Decide whether the part is really a root, a stem or a leaf in disguise. Put the card in that column on the mat. Then turn it over to check. If you were wrong, put the card at the bottom of the pile and your turn ends.; If you were right, pick the job token that fits the part and say how its shape helps with that job. If the others agree it is a good reason, you keep the card. If not, the card goes to the bottom of the pile.; If you draw a TEST IT card, everyone does the test, after guessing first. The first person to explain the result keeps the card, and it counts as two cards. If nobody can explain it, the card goes to the bottom of the pile.; Play until the pile runs out or each player has had 6 turns, whichever comes first. The player with the most cards wins. If two players have the same number, they share the win.
-- **Printable cards: 24 disguise cards to cut out (the answer is on the back):** Carrot: fat and orange, under the ground (back: ROOT); Potato: has eyes that sprout in a dark basket (back: STEM) [picture]; Ginger: knobbly, with rings, grows sideways underground (back: STEM) [picture]; Onion: made of juicy layers on a flat bottom (back: LEAF); Sugarcane: tall and sweet, with rings (back: STEM) [picture]; Radish (mullangi): long, white, under the ground, with no eyes (back: ROOT); Pea tendril: curly thread at the end of a leaf (back: LEAF); Cactus spine: sharp point on a desert plant (back: LEAF) [picture]; Cactus pad: fat, green and juicy, with spines (back: STEM) [picture]; Banyan pillar: hangs down from a branch, then grows thick (back: ROOT) [picture]; Mangrove pencil: pokes up out of salty mud (back: ROOT); Money plant grip: little brown fingers clinging to a wall (back: ROOT) [picture]; Bean spiral: winds round and round a stick (back: STEM) [picture]; Bougainvillea hook: sharp and woody, near a bud (back: STEM) [picture]; Lotus plate: round, flat and floating (back: LEAF) [picture]; Pitcher jug: a trap full of water that catches insects (back: LEAF) [picture]; Aloe: thick, juicy and full of water (back: LEAF) [picture]; Turmeric: orange inside, with rings, underground (back: STEM); Sweet potato: fat and sweet, underground (back: ROOT); Chembu: round, hairy, underground, with a bud on top (back: STEM) [picture]; TEST IT: find a potato in the kitchen. Count its eyes. (back: A potato is a STEM. The eyes of a potato are buds.); TEST IT: peel one layer of an onion. Is it like a leaf? (back: Yes. The layers of an onion are leaves.); TEST IT: look down on a pot plant from above. Do the leaves overlap much? (back: Usually only a little. Leaves grow out at different heights and angles, so each one catches light.); TEST IT: hold a leaf up to the window. Find its veins. (back: Veins are the thin lines that carry water and food.)
+- **rules:** Cut out the 24 cards and the 7 job tokens. Shuffle the cards and put them face down in a pile. Lay the tokens face up in a row. They are a menu of jobs, and are never used up.; On your turn, take the top card and read it out loud.; Decide whether the part is really a root, a stem or a leaf in disguise. Put the card in that column on the mat. Then turn it over to check. If you were wrong, put the card at the bottom of the pile and your turn ends.; If you were right, pick the job token that fits the part and say how its shape helps with that job. If the others agree it is a good reason, you keep the card. If not, the card goes to the bottom of the pile.; If you draw a TEST IT card, it is not put in a column, and it ends your turn. Everyone does the test, after guessing first. The first person to explain the result keeps the card, and it counts as two cards. If nobody can explain it, the card goes to the bottom of the pile.; Play until the pile runs out or each player has had 6 turns, whichever comes first. The player with the most cards wins. If two players have the same number, they share the win.
+- **Printable cards: 24 disguise cards to cut out (the answer is on the back):** Carrot: fat and orange, under the ground (back: ROOT); Potato: has eyes that sprout in a dark basket (back: STEM) [picture]; Ginger: knobbly, with rings, grows sideways underground (back: STEM) [picture]; Onion: made of juicy layers on a flat bottom (back: LEAF); Sugarcane: tall and sweet, with rings (back: STEM) [picture]; Radish (mullangi): long, white, under the ground, with no eyes (back: ROOT); Pea tendril: curly thread at the end of a leaf (back: LEAF); Cactus spine: sharp point on a desert plant (back: LEAF) [picture]; Cactus pad: fat, green and juicy, with spines (back: STEM) [picture]; Banyan pillar: hangs down from a branch, then grows thick (back: ROOT) [picture]; Mangrove pencil: pokes up out of salty mud (back: ROOT); Money plant grip: little brown fingers clinging to a wall (back: ROOT) [picture]; Bean spiral: winds round and round a stick (back: STEM) [picture]; Bougainvillea hook: sharp and woody, near a bud (back: STEM) [picture]; Lotus plate: round, flat and floating (back: LEAF) [picture]; Pitcher jug: a trap full of water that catches insects (back: LEAF) [picture]; Aloe: thick, juicy and full of water (back: LEAF) [picture]; Turmeric: orange inside, with rings, underground (back: STEM); Sweet potato: fat and sweet, underground (back: ROOT); Beetroot: round and deep red, under the ground, with no eyes (back: ROOT); Chembu: round, hairy, underground, with a bud on top (back: STEM) [picture]; TEST IT: hold a sprig of mint or coriander. Find where a leaf joins the stem. Is there a tiny bud there? (back: Yes. The place where a leaf joins a stem is a node, and a bud sits there. Only stems have nodes and buds like this.); TEST IT: put a drop of water on a chembu leaf. Does it roll off in a ball? (back: Yes. A chembu leaf is waxy and bumpy, so water rolls off in balls and carries dust away. That keeps the leaf clean to catch light.); TEST IT: hold a leaf up to the window. Find its veins. (back: Veins are the thin lines that carry water and food.)
 - **Printable board: A mat with three columns:** ROOT; STEM; LEAF
 - **Printable tokens: 7 job tokens (small paper circles to cut out):** 🥕 stores food; 🧗 climbs; ☀️ catches light; ⚓ holds on; 🛡️ protects; 💧 stores water; 🫁 breathes
 - **s1 (2 min)**  
@@ -302,12 +299,12 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent does:* 1. Take turns. Each player draws a card, reads it and puts it in a column. 2. Turn the card over to check. If it was wrong, it goes to the bottom of the pile. 3. If it was right, the player picks a job token and says how the shape helps. 4. The others agree or argue. A good reason wins the card.  
   *Parent says:* When you put a card down, tell us its job. Then tell us how its shape helps it do that job.  
   *Child mode:* Take turns. Read your card. Put it under ROOT, STEM or LEAF. Turn it over to check. If you were right, pick a job token. Say how the shape helps.
-  - Note: Answers to expect. Roots: carrot, radish, sweet potato, banyan pillar, mangrove pencil, money plant grip. Stems: potato, ginger, turmeric, sugarcane, chembu, cactus pad, bean spiral, bougainvillea hook. Leaves: onion layers, pea tendril, cactus spine, lotus plate, pitcher jug, aloe. A good reason links the shape to the job. For example, 'The pencil roots stick up out of the mud so air can get in.'
+  - Note: Answers to expect. Roots: carrot, radish, beetroot, sweet potato, banyan pillar, mangrove pencil, money plant grip. Stems: potato, ginger, turmeric, sugarcane, chembu, cactus pad, bean spiral, bougainvillea hook. Leaves: onion layers, pea tendril, cactus spine, lotus plate, pitcher jug, aloe. A good reason links the shape to the job. For example, 'The pencil roots stick up out of the mud so air can get in.'
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do it together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's look and see who was right.  
   *Child mode:* A TEST IT card! Guess first. Then do the test. Were you right?
-  - Ask: You peeled an onion layer. Why is it a leaf? (good: It is thin and grows from the flat stem at the bottom, like leaves grow from a stem.; The green tops of a spring onion join on to the layers.)
+  - Ask: You found a bud where a leaf joins the mint stem. What does that tell you? (good: Only stems have buds like that, so this part is a stem.; The bud sits at a node, and nodes are on stems.)
   - Think: Why might an onion store its food in leaves that grow under the ground?
 - **s5 (2 min)**  
   *Parent does:* Count the cards to find the winner. Then look at the three columns together.  
@@ -322,7 +319,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **Printable score sheet: Survival sheet:** My place; My root, stem and leaf; Round 1: my trouble card, and did my plant survive? Which parts helped?; Round 2: my trouble card, and did my plant survive? Which parts helped?; Round 3: my trouble card, and did my plant survive? Which parts helped?; My total points
 - **s1 (3 min)**  
   *Parent does:* 1. Give each player a place card. 2. Lay the 18 part cards face up in three rows: roots, stems and leaves. 3. Keep the trouble cards face down.  
-  *Parent says:* Each of you has a hard place to live. Your job is to design a plant that can live there. Choose their root, their stem and their leaf.  
+  *Parent says:* Each of you has a hard place to live. Your job is to design a plant that can live there. Choose a root, a stem and a leaf for your plant.  
   *Child mode:* Take a place card. That is where your plant lives. Choose one root, one stem and one leaf. Build a plant that can survive there!
 - **s2 (8 min)**  
   *Parent does:* 1. Take turns choosing one root, one stem and one leaf card. 2. Each player draws their plant and gives the plant a name.  
@@ -420,7 +417,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Find a big bush or low tree. 2. Pick 5 fully grown leaves from the sunny outside. 3. Pick 5 from deep inside, where it is shady. 4. Keep the two groups apart.  
   *Parent says:* These leaves all come from the same plant. The only difference is where they grew: in the sun or in the shade. Guess first. Which group will be bigger?  
-  *Child mode:* Pick 5 big leaves from the sunny outside of a bush. Pick 5 from the shady inside. Keep them in two piles. Which pile looks bigger?
+  *Child mode:* Pick 5 fully grown leaves from the sunny outside of a bush. Pick 5 from the shady inside. Keep them in two piles. Which pile looks bigger?
 - **s2 (12 min)**  
   *Parent does:* 1. Lay a leaf flat on the squared paper. 2. Draw round it with a pencil. 3. Count the squares inside the line. Count a square if half or more of it is inside. 4. Write the number inside the drawing. 5. Do this for all 10 leaves.  
   *Parent says:* Counting squares tells us how much space a leaf covers. Scientists call that its area. A half square or more counts as one. Less than half, we leave out.  
@@ -484,7 +481,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **safety:** A grown-up does all the cutting.
 - **record:** Draw each vegetable. Draw an arrow to the clue that told you what it is.
 - **s1 (4 min)**  
-  *Parent does:* Lay the vegetables in a row. Tell your child the three detective clues.  
+  *Parent does:* Lay the vegetables in a row. Tell your child the two detective clues.  
   *Parent says:* Here are the clues. Stems have nodes, which look like rings or bumps. Stems have buds, which look like eyes. Roots usually have neither, but they often have tiny hair-like side roots.  
   *Child mode:* You are a plant detective. Clue one: stems have rings. Clue two: stems have buds, like eyes. Roots usually have neither.
 - **s2 (8 min)**  
@@ -525,7 +522,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **record:** Draw both tendrils before, after 30 minutes and after 2 hours. Draw a coiled tendril and mark its switch point.
 - **s1 (5 min)**  
   *Parent does:* 1. Find two young tendrils that are still fairly straight. 2. Rub one side of the tip of one tendril gently with a thin twig, 10 times. Leave the other alone, to compare. 3. Draw both now.  
-  *Parent says:* Charles Darwin did exactly this, about 160 years ago. He tickled tendrils and timed them. Let's see if our plant feels the touch.  
+  *Parent says:* Charles Darwin did exactly this, more than 150 years ago. He tickled tendrils and timed them. Let's see if our plant feels the touch.  
   *Child mode:* Find two straight young tendrils. Rub the tip of one gently with a twig, 10 times. Leave the other alone. Draw both. Will the rubbed one move?
 - **s2 (4 min)**  
   *Parent does:* After 30 minutes, look at both tendrils and draw them. Then look again after 2 hours.  
@@ -542,7 +539,6 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent does:* Pull gently on a coiled tendril and let it go.  
   *Parent says:* Feel how it stretches and springs back, like a spring. Why might that help the plant in a storm?  
   *Child mode:* Pull very gently on a coiled tendril. Let go. Does it spring back? How would that help in a storm?
-  - Think: The tendril has no eyes and no brain. How do you think it knows it has touched something?
 ### a4 · Look Down on a Plant: jigsaws and spirals (20 min)
 - **safety:** Pineapple leaves are sharp at the tips. Hold the pineapple by its body.
 - **record:** Draw the plant from above. Write how many spirals you counted each way.
@@ -559,7 +555,6 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent does:* 1. On a pineapple or a pine cone, mark one spiral going to the right with one colour. 2. Count how many spirals go that way. 3. Mark and count the spirals going the other way with the second colour.  
   *Parent says:* Count the spirals one way, then the other. Write both numbers down. Scientists find the same few numbers again and again.  
   *Child mode:* Find the spirals on a pineapple. Count the ones going right. Now count the ones going left. Write both numbers.
-  - Check: You count 8 spirals one way and 13 the other way on a pineapple. These numbers are in a famous pattern: 1, 1, 2, 3, 5, 8, 13. What comes next? → **21**
 - **s4 (3 min)**  
   *Parent does:* Talk about why plants might grow in spirals.  
   *Parent says:* Things that grow in spirals like this pack tightly, with almost no gaps. Leaves in a spiral shade each other least. The great mathematician Alan Turing was studying these spirals in the last years of his life.  
@@ -586,9 +581,9 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 ### p1 · The Climbing Bean Diary (75 min, 21 days)
 - **safety:** Raw beans are not safe to eat, so plant them, do not taste them.
 - **record:** Keep a diary page for each visit: the date, the height of the tallest stem, a drawing, and one thing you noticed.
-- **schedule:** day 1: Soak the seeds overnight. Plant 3 in each pot. Push a stick into one pot only. (10 min); day 7: Look for shoots. Water if the soil is dry. Measure the tallest shoot. (5 min); day 12: Trace the circling tip on a card above the plant for one afternoon. (25 min); day 16: Which way is the stem winding? What is the plant with no stick doing? (10 min); day 21: Measure, draw, and give the stickless plant a support. Write your diary report. (25 min)
+- **schedule:** day 1: Soak the seeds the night before. Plant 3 in each pot. Push a stick into one pot only. (10 min); day 7: Look for shoots. Water if the soil is dry. Measure the tallest shoot. (5 min); day 12: Trace the circling tip of a stick-less bean on a card above the plant for one afternoon. (25 min); day 16: Which way is the stem winding? What is the plant with no stick doing? (10 min); day 21: Measure, draw, and give the stickless plant a support. Write your diary report. (25 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Soak 6 bean seeds in water overnight. 2. Plant 3 in each pot, a finger-joint deep. 3. Push the stick into one pot only, next to the seeds. 4. Water both pots and put them in a sunny spot.  
+  *Parent does:* 1. The night before, soak 6 bean seeds in water. 2. Plant 3 in each pot, a finger-joint deep. 3. Push the stick into one pot only, next to the seeds. 4. Water both pots and put them in a sunny spot.  
   *Parent says:* One pot gets a stick to climb. The other gets nothing. We will see what a climber does when they have something to hold, and when they do not.  
   *Child mode:* Plant 3 soaked beans in each pot. Push a stick into one pot only. Water both. Put them in the sun.
 - **s2 (5 min)**  
@@ -597,7 +592,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Child mode:* Are the shoots up? Measure the tallest one. Write it in your diary. Water if the soil feels dry.
   - Wait: Check after about 7 days.
 - **s3 (25 min)**  
-  *Parent does:* 1. When a stem is long and waving, tape the card flat above the plant, without touching them. 2. Every 30 minutes, put a dot on the card right above the stem's tip. 3. Number the dots. 4. Join them at the end of the afternoon.  
+  *Parent does:* 1. When a stem in the pot with no stick is long and waving, tape the card flat above it, without touching it. 2. Every 30 minutes, put a dot on the card right above the stem's tip. 3. Number the dots. 4. Join them at the end of the afternoon.  
   *Parent says:* Charles Darwin traced shoot tips just like this. A climbing shoot does not grow straight up. Its tip sweeps round in slow circles, feeling for something to hold.  
   *Child mode:* Tape a card above the plant. Every 30 minutes, put a dot above the tip. Join the dots at the end. Did the tip go round in circles?
   - Note: The tip sweeps round slowly. In many beans, one circle takes an hour or two. Your dots may make a loop or a wobbly circle. Even a half circle is a good result.
@@ -632,15 +627,15 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Child mode:* Make a tube, a zigzag and a square from three sheets. Stand one up. Add books one at a time. Count until it crumples.
   - Note: A rolled tube often holds several books, and a square column holds about the same. The zigzag usually folds first. If it gets wobbly, steady the books from the side, but do not press down.
 - **s3 (6 min)**  
-  *Parent does:* Compare the results. Then look at a piece of bamboo, a grass stem or a stick of sugarcane together.  
+  *Parent does:* Compare the results. Then look at the bamboo stick or the grass stem together.  
   *Parent says:* Bamboo and grass stems are tubes. Many stems are strong round the outside and lighter in the middle. Why do you think plants use this shape?  
-  *Child mode:* Which shape held the most? Now look at a grass stem or bamboo. Is it a tube too?
+  *Child mode:* Which shape held the most? Now look at a grass stem or a bamboo stick. Is it a tube too?
   - Check: Why are bamboo and many grass stems shaped like tubes? → **A tube is very strong for its weight, so the plant can grow tall cheaply**
 - **s4 (5 min)**  
   *Parent does:* Read the creative ideas and try one of them, or your child's own idea.  
   *Parent says:* Can we make the tube even stronger? Try adding rings, like bamboo's nodes.  
   *Child mode:* Try to beat the tube. Add rings like bamboo. Or roll three thin tubes together. Test it!
-  - Think: Bicycle frames and the poles that hold up shamianas are tubes too. Why do you think engineers chose the same shape as bamboo?
+  - Think: Bicycle frames and the poles that hold up festival pandals are tubes too. Why do you think engineers chose the same shape as bamboo?
 
 ## Worksheets
 ### Plant Part Detective (core) (core, 15 questions)
@@ -650,8 +645,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** False. *Why:* False. Potato, ginger, turmeric and chembu grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves.
 3. (sort) Sort these into tap root or fibrous roots.  
    **Answer:** carrot → Tap root; grass → Fibrous roots; mustard → Tap root; wheat → Fibrous roots; radish → Tap root; onion → Fibrous roots. *Why:* A tap root is one thick main root going down. Fibrous roots are a beard of thin roots, all about the same size.
-4. (odd) Which one is the odd one out, and why? Mango, tomato, bhindi, carrot.  
-   **Answer:** Carrot, because a carrot is a root. Mango, tomato and bhindi are fruits. Each one grew from a flower and holds seeds.. *Why:* A fruit is the part that grows from a flower and carries the seeds. Cut a tomato or a bhindi open and you see the seeds. A carrot has no seeds inside, because a carrot is a root that stores food.
+4. (odd) Which one is the odd one out, and why? Mango, tomato, brinjal, carrot.  
+   **Answer:** Carrot, because a carrot is a root. Mango, tomato and brinjal are fruits. Each one grew from a flower and holds seeds.. *Why:* A fruit is the part that grows from a flower and carries the seeds. Cut a tomato or a brinjal open and you see the seeds. A carrot has no seeds inside, because a carrot is a root that stores food.
 5. (mcq) Why are most leaves thin and flat?  
    Options: To spread out and catch lots of sunlight / To be light enough to blow away / To hold the plant in the ground / To store water  
    **Answer:** To spread out and catch lots of sunlight. *Why:* A thin, flat leaf works like a solar panel. It spreads out to catch light, and light can reach every cell inside it. Picking 'to store water' mixes up ordinary leaves with thick, juicy leaves like aloe, which are a special case.
@@ -662,22 +657,22 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** For example: a carrot is a root, because it has no eyes or rings along its sides. A potato is a stem, because it has eyes, which are buds.. *Why:* Any correct pair with a clue for each is right. Clues for stems are buds, eyes and rings. Roots usually have none of these.
 8. (write) Why do you think a climbing plant has a thin stem, not a thick trunk like a tree?  
    **Answer:** A thin stem is quick and cheap to grow. The climber does not need to hold themselves up, because they lean on something else. So they reach the light faster.. *Why:* A good answer links the thin shape to the job: reaching light by leaning on others.
-9. (match) Match each plant to the part that stores their food.  
-   **Answer:** Carrot → root; Potato → underground stem; Onion → leaves; Sugarcane → stem above the ground. *Why:* Plants store food in different parts. The clues are eyes, rings and layers, not where the part grows.
-10. (fill) The curly thread a pea or gourd plant uses to grab things is called a ____.  
+9. (fill) The curly thread a pea or gourd plant uses to grab things is called a ____.  
    **Answer:** ['tendril']. *Why:* Tendrils coil round anything they touch. A pea's tendrils are changed leaf tips.
-11. (mcq) Why does a cactus have spines instead of wide leaves?  
+10. (mcq) Why does a cactus have spines instead of wide leaves?  
    Options: Wide leaves would lose too much water in the desert / Spines catch more sunlight / Cactuses do not need any food / Spines help them float  
    **Answer:** Wide leaves would lose too much water in the desert. *Why:* Wide leaves lose lots of water into hot, dry air. Spines lose very little, and they also guard the plant from thirsty animals. The fat green stem does the leaf's food-making job. Picking 'cactuses do not need food' misses that the stem makes their food.
-12. (perspective) Two sisters, Kavya and Nila, are arguing about which part of a plant matters most.  
+11. (perspective) Two sisters, Kavya and Nila, are arguing about which part of a plant matters most.  
    **Answer:** A strong answer picks a side and gives evidence. For the roots: a cut rose with no roots lasts only a few days. For the leaves: leaves catch the sunlight that makes the plant's food, and a covered leaf cannot do it. A strong answer then admits the other side's point, because a plant needs both: the roots bring water to the leaves, and the leaves send food to the roots.. *Why:* There is no single winner. Roots and leaves depend on each other. A good answer notices this, and still argues one side with real evidence.
-13. (draw) Draw a plant with their roots, stem and leaves. Draw an arrow showing where water goes, and another showing where light comes from.  
+12. (draw) Draw a plant with roots, a stem and leaves. Draw an arrow showing where water goes, and another showing where light comes from.  
    **Answer:** Roots in the soil, a stem, and leaves spread out. A water arrow from the roots up the stem to the leaves. A light arrow from the Sun to the leaves.. *Why:* Water goes up from the roots. Light is caught by the leaves. The unit on how water travels through a plant tells this journey in full.
-14. (mcq) Aloe has thick, juicy leaves full of water. What does this suggest about where aloe grows?  
+13. (mcq) Aloe has thick, juicy leaves full of water. What does this suggest about where aloe grows?  
    Options: A dry place, where storing water helps the plant / A pond, where the plant floats / A dark forest floor, where light is weak / Under the ground, where it is cold  
    **Answer:** A dry place, where storing water helps the plant. *Why:* Thick leaves can hold water for the dry months. Picking 'a pond' mixes this up with the lotus, whose flat leaf floats. A plant with juicy leaves has a water store, which a dry place needs.
-15. (fill) The fat underground stem of a potato, with buds called eyes, is called a ____.  
+14. (fill) The fat underground stem of a potato, with buds called eyes, is called a ____.  
    **Answer:** ['tuber']. *Why:* A tuber is a fat underground stem that stores food. Its eyes are buds that can grow into new plants.
+15. (fill) The tiny hairs on a young root, which push between soil grains and soak up water, are called root ____.  
+   **Answer:** ['hairs', 'hair']. *Why:* Root hairs are far thinner than the hairs on your head. They touch lots of soil, so a root can soak up water quickly.
 ### Shapes and Jobs (stretch) (stretch, 15 questions)
 1. (mcq) Riya, a girl in Class 4, says shade leaves are bigger because the shade makes them swell up with water. How could she check her idea?  
    Options: Feel whether the shade leaves are thicker or thinner than the sun leaves / Count the leaves on the bush / Water the bush more / Pick the leaves at night  
@@ -697,23 +692,23 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 7. (mcq) A jasmine (malli) flower is white and smells strongest in the evening. Who is the flower most likely calling?  
    Options: Moths that fly at dusk and at night / Bees that fly at noon / The wind / Birds that fly in the morning  
    **Answer:** Moths that fly at dusk and at night. *Why:* A flower's job is to make seeds, and for that pollen must be carried from flower to flower. White shows up in dim light, and a strong smell carries in the dark. Night-flying moths follow both. Picking bees is a fair guess, because bees visit many flowers, but bees mostly fly in the daytime.
-8. (truefalse) A rose's sharp points are thorns, just like the thorns of bougainvillea.  
-   **Answer:** False. *Why:* False. A bougainvillea thorn is a changed branch, and it grows from the point where a bud would be. A rose's sharp points grow only from the skin of the stem. You can snap one off cleanly, and there is no bud near it. Botanists call them prickles. In everyday talk, calling them thorns is fine.
-9. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
+8. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
    **Answer:** The rolling drops pick up dust and dirt and carry it away, so the leaf stays clean. A clean leaf catches more light. Water also does not sit on the leaf and block its tiny holes.. *Why:* A good answer links the waxy shape to the leaf's job: staying clean to catch light and breathe.
-10. (perspective) In this unit's story, Jasmeet and her mother Harpreet grow carrots on their farm in Haryana. At harvest time, they disagree about what to do with the carrots.  
+9. (perspective) In this unit's story, Jasmeet and her mother Harpreet grow carrots on their farm in Haryana. At harvest time, they disagree about what to do with the carrots.  
    **Answer:** A strong answer uses the science. A carrot stores sugar in their root for their own next stage. If they are left, they spend it on a flower stalk and seeds, so the root goes woody. For Jasmeet: ten carrots give a whole tin of seed, and shop seed costs a lot. For Harpreet: those ten carrots cannot be sold, and the family needs money now. A strong answer gives the other side's point too.. *Why:* This is a real farmer's choice between money now and seed later. Both plans make sense. What makes an answer strong is knowing that the carrot's food is for the carrot's own flowers and seeds.
-11. (draw) Design the roots for a plant on a windy, rocky hillside. Draw them and label how they help.  
+10. (draw) Design the roots for a plant on a windy, rocky hillside. Draw them and label how they help.  
    **Answer:** Deep roots pushing into cracks in the rock, and spreading side roots gripping the soil. Labels say they hold on against wind and reach water deep down.. *Why:* Roots on windy hills must anchor the plant and find water in cracks.
-12. (truefalse) Sugarcane stores its sugar in its stem.  
+11. (truefalse) Sugarcane stores its sugar in its stem.  
    **Answer:** True. *Why:* True. Sugarcane has a tall stem filled with soft, juicy tissue that stores sugar. The rings on it are nodes, where leaves once grew.
-13. (match) Match each climber to the way it holds on.  
+12. (match) Match each climber to the way it holds on.  
    **Answer:** Bean → winds its whole stem round a support; Pea → coils tendrils round anything it touches; Bougainvillea → hooks on with thorns; Money plant → grips with little roots. *Why:* Climbers use different tools to reach the light: a twining stem, tendrils, thorns or roots.
-14. (write) A farmer cuts a seed potato into four pieces and plants them. Why must every piece have at least one eye?  
+13. (write) A farmer cuts a seed potato into four pieces and plants them. Why must every piece have at least one eye?  
    **Answer:** The eyes are buds. A shoot can only grow from a bud, so a piece with no eye cannot grow into a new plant.. *Why:* A strong answer says that an eye is a bud, and that new shoots grow from buds.
-15. (mcq) Pine trees on cold mountains have thin needles, not wide leaves. How does this help?  
+14. (mcq) Pine trees on cold mountains have thin needles, not wide leaves. How does this help?  
    Options: A needle loses very little water in cold, dry winds / A needle catches more sunlight / A needle floats on water / A needle stores water like aloe  
    **Answer:** A needle loses very little water in cold, dry winds. *Why:* A thin, tough needle has little surface for water to escape from. Picking 'catches more sunlight' mixes this up with wide leaves, which catch more light but lose more water.
+15. (fill) In a hollow bamboo stem, a solid wall runs across the tube at each ring. A ring on a stem is called a ____.  
+   **Answer:** ['node']. *Why:* A node is where leaves and buds grow on a stem. In bamboo, the wall at each node stops the tube from squashing flat when it bends.
 ### Think Like a Botanist (challenge) (challenge, 15 questions)
 1. (mcq) A sweet potato is a root, but it can sprout shoots. Does that break the rule 'buds grow on stems'?  
    Options: It shows that rules in biology have exceptions, so botanists use several clues together / It proves a sweet potato is a stem / It proves the rule is useless / Sweet potatoes cannot really sprout  
@@ -729,27 +724,27 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** A strong answer backs one view with an example. A pea tendril grows where the last leaflets should be, and a cactus spine is a changed leaf, so Goethe was often right. But a bougainvillea thorn grows from a bud point, so it is a changed branch, which the gene scientists point out. A strong answer then gives another view its due, for example that Arber showed leaves and stems are closely linked.. *Why:* Each view is partly right. Goethe's idea works for flowers and for many parts, but not for every part. What matters is using real examples as evidence.
 6. (write) Design a fair test to find out whether a gourd tendril curls faster when it is touched more times. What will you change? What will you keep the same?  
    **Answer:** I will change only the number of rubs: 1 rub, 5 rubs and 10 rubs, on three young tendrils of the same plant. I will keep the same plant, tendrils of the same age, the same twig, and check them all at 30 minutes and 2 hours.. *Why:* A fair test changes one thing and keeps everything else the same.
-7. (mcq) The first land plants had no roots and no leaves. Which is the best evidence?  
-   Options: Fossils of very old plants, like those found in 407-million-year-old rocks at Rhynie in Scotland / Old stories about the first plants / Plants today all have roots / Scientists simply guessed  
-   **Answer:** Fossils of very old plants, like those found in 407-million-year-old rocks at Rhynie in Scotland. *Why:* Rocks at Rhynie hold whole little plants turned to stone, with no true roots or leaves. Fossils are evidence you can look at. Picking 'plants today all have roots' is not true, and it tells us nothing about the past anyway.
-8. (write) Nancy Kiang, a NASA scientist, suggested that plants on a planet with a dim red star might be very dark, even black. Use what you know about leaves to explain her idea.  
+7. (write) Nancy Kiang, a NASA scientist, suggested that plants on a planet with a dim red star might be very dark, even black. Use what you know about leaves to explain her idea.  
    **Answer:** A leaf's job is to catch light. A dark leaf soaks up almost every colour, and lets very little bounce off. Under a dim star there is not much light, so a plant would need to catch every bit of it.. *Why:* A strong answer links colour to how much light is caught. It is only an idea: no plants have been found on other planets.
-9. (write) A Khasi root bridge gets stronger every year. A bridge made of cut bamboo slowly rots in the rain. Why is the root bridge different?  
+8. (write) A Khasi root bridge gets stronger every year. A bridge made of cut bamboo slowly rots in the rain. Why is the root bridge different?  
    **Answer:** The root bridge is made of living roots. They keep growing thicker, join together and mend damage. Cut bamboo is no longer growing, so it cannot mend itself, and it rots.. *Why:* A good answer says that the roots are alive and still growing, so the bridge can grow stronger and repair itself.
-10. (mcq) Why are spirals of leaves and scales so common in plants?  
+9. (mcq) Why are spirals of leaves and scales so common in plants?  
    Options: They pack things tightly and stop leaves shading each other / Plants like the look of spirals / Spirals make plants grow faster upward / The wind twists them  
    **Answer:** They pack things tightly and stop leaves shading each other. *Why:* Each new leaf turned a little from the last means each gets its own patch of sky. Seeds and scales in spirals pack with almost no gaps. Picking 'the wind twists them' is a sensible guess, but the pattern starts in the growing tip, long before the wind can reach it.
-11. (mcq) A plant has net veins in their leaves. What roots do they probably have?  
+10. (mcq) A plant has net veins in their leaves. What roots do they probably have?  
    Options: A tap root / Fibrous roots / No roots / Breathing roots  
    **Answer:** A tap root. *Why:* Net veins usually go with a tap root, as in mango, beans and mustard. Parallel veins usually go with fibrous roots, as in grass and maize. Picking fibrous roots means swapping the two groups. Remember: grass has parallel veins and a beard of roots.
-12. (write) Light is made of tiny packets called photons. Explain in your own words what a leaf does with a photon.  
+11. (write) Light is made of tiny packets called photons. Explain in your own words what a leaf does with a photon.  
    **Answer:** When a photon hits the green chlorophyll in a leaf, its energy is caught. The energy is passed along to where the leaf makes food.. *Why:* Chlorophyll catches the energy of light and passes it on. The unit on photosynthesis explains how the food is made.
-13. (order) Put these in the order they first appeared on Earth, oldest first: flowers, roots, tiny stems with no leaves, wide flat leaves.  
+12. (order) Put these in the order they first appeared on Earth, oldest first: flowers, roots, tiny stems with no leaves, wide flat leaves.  
    **Answer:** order shown. *Why:* The first land plants were tiny stems. Roots came by about 400 million years ago. Wide leaves became common about 360 million years ago. Flowers came last, about 130 million years ago.
-14. (draw) Draw a zoom into a leaf in four steps: the leaf, its cells, the green blobs inside a cell, and a chlorophyll molecule catching light.  
+13. (draw) Draw a zoom into a leaf in four steps: the leaf, its cells, the green blobs inside a cell, and a chlorophyll molecule catching light.  
    **Answer:** A leaf. A wall of brick-like cells. Green blobs inside one cell. A ring-shaped molecule with a glowing photon arriving.. *Why:* This shows how a leaf catches light, from what you can see down to molecules you cannot.
-15. (sort) Sort each plant change by the problem it solves.  
+14. (sort) Sort each plant change by the problem it solves.  
    **Answer:** a fat stem that stores water → Dry desert; big, thin leaves → Dark forest floor; breathing roots → Flooded mud; spines instead of wide leaves → Dry desert; a stem that climbs towards the light → Dark forest floor; pillar roots that hold the tree up → Flooded mud. *Why:* Each change fits a problem: saving water in a desert, catching weak light in a forest, and getting air and support in soft, flooded mud.
+15. (mcq) In the Wake the Store test, the potato sat half in water in a glass, and the other pieces lay in saucers. Why should you not read too much into a small difference between the potato and the others?  
+   Options: The potato was set up differently, so the test was not fully fair for it / Potatoes cannot grow shoots / The potato was too heavy to measure / The saucers were made of steel  
+   **Answer:** The potato was set up differently, so the test was not fully fair for it. *Why:* A fair test keeps everything the same except one thing. The potato sat in a glass, not a saucer, so more than one thing was different. A small difference could come from that. Picking 'cannot grow shoots' ignores that the potato's eyes are buds.
 
 ## Videos
 - **Parts of a Plant** (Peekaboo Kidz (The Dr. Binocs Show), 4 min) id `p3St51F4kE8`: A short cartoon recap of the parts of a plant and their jobs, a good start before looking at how each shape suits its job. *Check:* Please preview it before showing it.
@@ -785,18 +780,15 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    Options: Onion / Carrot middle / Potato / Carrot top  
    **Answer:** Onion. *Why:* The onion's bar is the tallest, at 60 mm. Picking the carrot middle means reading the chart upside down. Its bar is at zero, because it grew nothing.
 10. (mcq) In the Roots Hold the Soil test, what was the one thing we changed?  
-   Options: Whether the tray had grass roots or bare soil / The amount of water / The size of the trays / The height of the books  
-   **Answer:** Whether the tray had grass roots or bare soil. *Why:* In a fair test you change only one thing. Here, it was the roots. Everything else stayed the same. Picking 'the amount of water' would make the test unfair, because then two things change.
+   Options: Whether the tray had seedling roots or bare soil / The amount of water / The size of the trays / The height of the books  
+   **Answer:** Whether the tray had seedling roots or bare soil. *Why:* In a fair test you change only one thing. Here, it was the roots. Everything else stayed the same. Picking 'the amount of water' would make the test unfair, because then two things change.
 11. (mcq) Why does a cactus have a fat green stem?  
    Options: To store water and make food, because their leaves are spines / To look like a tree / To hold up heavy fruit / Because they have no roots  
    **Answer:** To store water and make food, because their leaves are spines. *Why:* In the desert, wide leaves would lose too much water. So the cactus's stem stores water and does the leaf's food-making job. Picking 'they have no roots' is wrong: cactuses have roots, often spreading wide to catch rare rain.
-12. (mcq) Water hyacinth, called jalkumbhi, floats on ponds. Their leaf stalks are swollen and spongy. How does this shape help them?  
+12. (mcq) Water hyacinth, called jalkumbhi in Hindi and agaya thamarai in Tamil, floats on ponds. Their leaf stalks are swollen and spongy. How does this shape help them?  
    Options: The spongy stalks are full of air, so the plant floats / The stalks store soil / The stalks sink the plant to the bottom / The stalks catch fish  
    **Answer:** The spongy stalks are full of air, so the plant floats. *Why:* The swollen stalks are full of tiny air spaces, like a sponge or a float. So the plant sits on top of the water, where the light is. Picking 'sink the plant' gets it backwards.
-13. (mcq) Do scientists agree on why leaves are green and not black?  
-   Options: No, it is still an open question / Yes, green catches the most light / Yes, plants just like green / Leaves are not really green  
-   **Answer:** No, it is still an open question. *Why:* It is still argued about. Picking 'green catches the most light' is a common idea. But a leaf lets more green light bounce off than red or blue, and a black leaf would catch more.
-14. (mcq) What did some of the earliest land plants, about 430 million years ago, look like?  
+13. (mcq) What did some of the earliest land plants, about 430 million years ago, look like?  
    Options: Tiny forked stems with no roots and no leaves / Huge trees with wide leaves / Flowers like roses / Cactuses  
    **Answer:** Tiny forked stems with no roots and no leaves. *Why:* Fossils show the earliest land plants were small stems without roots or leaves. Roots, wide leaves and flowers came much later. Picking 'huge trees' imagines the past like today's forests.
 
@@ -815,7 +807,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 
 ## Spotted around us
 - The hanging pillar roots of a banyan tree near a temple, a school or a village square.
-- Gourd, bitter gourd and cucumber vines on a terrace or a village fence, their tendrils coiled round strings.
+- Gourd, bitter gourd (pavakkai) and snake gourd (pudalangai) vines on a terrace or a village fence, their tendrils coiled round strings.
 - Money plant climbing a pillar on a building landing, gripping with little brown roots.
 - Potatoes sprouting in the kitchen basket, and onions growing green shoots.
 - Sugarcane at a juice stall, with its rings showing where leaves once grew.
@@ -836,18 +828,18 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **What would plants look like on other planets?** We have not found any. Scientists can only make careful guesses from the light of other stars.
 
 ## Questions to ask kids
-- That potato is sprouting. Is it a root or a stem? How do you know?
-- Why do you think that vine is wrapped round the fence?
-- Which leaves on that tree get the most sun? Are they smaller or bigger?
-- If this carrot had stayed in the ground, what would they have done with their stored sugar?
-- What is the stem of this plant shaped like? Why?
+- A potato in the basket has started to sprout. Is it a root or a stem? How do you know?
+- A vine is wrapped round a fence. Why do you think it winds like that?
+- Which leaves on a tree get the most sun? Are they smaller or bigger than the leaves in the shade?
+- If a carrot had stayed in the ground for another year, what would the plant have done with its stored sugar?
+- Pick a plant. What is its stem shaped like? Why?
 - Can you find a root that is not underground today?
-- Look down on this plant. Do the leaves hide each other?
+- Look down on a plant. Do the leaves hide each other?
 - Which part of the plant are we eating for dinner tonight?
-- Why do you think banyan trees are so wide?
+- Why do you think banyan trees spread so wide?
 - Which vegetables in our kitchen are storing food for a plant? Which part of the plant is each one?
 - If you were a plant, which hard place would you choose to live in? What shape would you be?
-- Can you find a stem today that is shaped like a tube?
+- Can you find a stem shaped like a tube, like bamboo or grass?
 
 ## Jokes
 - Why did the potato need an eye doctor? *There were too many eyes to look after.*
@@ -858,12 +850,11 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - Why did the cactus refuse a hug? *She was a little bit sharp today.*
 - Why did the radish blush? *She saw the salad dressing.*
 - What's a leaf's favourite subject? *Light reading.*
-- What did the sweet potato say to the potato? *We look like twins, but you're a stem and I'm a root!*
 
 ## Connected maths
 - In the Sun Leaf, Shade Leaf test, the middle sun leaf covered 18 squares of 1 cm squared paper. The middle shade leaf covered 27 squares. How many more squares did the shade leaf cover? **9 more squares.**. Find the difference between the two numbers. 27 take away 18 is 9. You can check by counting on: from 18 to 20 is 2, and from 20 to 27 is 7. 2 + 7 = 9. So the shade leaf covered 9 more squares than the sun leaf. (queues `math.area-perimeter.area.L3`)
 - In the Wake the Store test, the onion's tallest shoot was 12 mm on day 2 and 60 mm on day 8. How much did it grow in those 6 days? About how much is that each day? **It grew 48 mm, which is 8 mm each day.**. First find how much it grew. 60 take away 12 is 48 mm. From day 2 to day 8 is 6 days. Share 48 mm equally between 6 days. 48 divided by 6 is 8. So it grew about 8 mm each day. Check: 6 lots of 8 is 48. (queues `math.division.sharing-and-grouping.L3`)
-- Here are the Wake the Store results after 8 days: onion 60 mm, radish top 55 mm, carrot top 40 mm, potato 15 mm, carrot middle 0 mm. Draw a bar chart. Which piece grew second tallest? **The radish top grew second tallest. Here is the bar chart.**. Draw one bar for each piece, as tall as its number. Put the numbers in order from tallest to shortest: 60, 55, 40, 15, 0. The tallest is the onion, at 60 mm. The next is the radish top, at 55 mm. So the radish top is second. The carrot middle gets no bar at all, because it grew 0 mm. (queues `math.data.bar-charts.L3`)
+- Here are the Wake the Store results after 8 days: onion 60 mm, radish top 55 mm, carrot top 40 mm, potato 15 mm, carrot middle 0 mm. How much taller is the onion's shoot than the potato's? How much shorter is the carrot top's shoot than the radish top's? **The onion is 45 mm taller than the potato. The carrot top is 15 mm shorter than the radish top.**. Take away to find a difference. Onion and potato: 60 take away 15 is 45. Radish top and carrot top: 55 take away 40 is 15. Check: 15 + 45 = 60, and 40 + 15 = 55. The carrot middle grew 0 mm, so it has no bar at all. (queues `math.data.bar-charts.L3`)
 - On a pineapple you counted 8 spirals one way and 13 the other. These are in the Fibonacci pattern: 1, 1, 2, 3, 5, 8, 13. What are the next two numbers? **21 and 34.**. Each number in the pattern is the two before it added together. 1 + 1 = 2. 1 + 2 = 3. 2 + 3 = 5. 3 + 5 = 8. 5 + 8 = 13. So the next is 8 + 13 = 21. The one after is 13 + 21 = 34. Big sunflower heads often have 34 spirals one way and 55 the other. (queues `math.patterns.number-patterns.L3`)
 - A farmer cuts a seed potato into pieces, so that each piece has one eye. The potato has 6 eyes. Each piece grows into a plant that makes about 5 new potatoes. About how many potatoes will the farmer dig up? **About 30 potatoes.**. There are 6 pieces, one for each eye. Each piece makes about 5 potatoes. That is 6 groups of 5. 5 + 5 + 5 + 5 + 5 + 5 = 30. Or 6 times 5 is 30. So one potato can become about 30. (queues `math.multiplication.equal-groups.L3`)
 - A class looked down on 10 twining plants like the ones in the Climbing Bean Diary. 9 wound anticlockwise and 1 wound clockwise. Make a tally chart. How many more wound anticlockwise than clockwise? **8 more.**. Make a tally mark for each plant. Anticlockwise gets 9 marks: a bundle of five and four more. Clockwise gets 1 mark. 9 take away 1 is 8. So 8 more plants wound anticlockwise. Scientists who counted hundreds of kinds of twining plant found a similar split: about 9 out of every 10 twist the same way. (queues `math.data.sorting-and-tallies.L3`)
@@ -889,9 +880,9 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [Magnifying glass (hand lens)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see root hairs, potato eyes, ginger rings and the veins of leaves. Useful but not needed: eyes alone work for every step. Used in a1, a2, a3, e4. 
 - [Povidone-iodine solution, from a chemist](https://www.amazon.in/s?k=povidone+iodine+solution) (material): Turns blue-black on starch, for the Blue-Black Test. A grown-up handles it. Used in e2. 
 - [Squared paper notebook with 1 cm squares](https://www.amazon.in/s?k=1+cm+square+graph+notebook) (material): For tracing leaves and counting squares in Sun Leaf, Shade Leaf. You can also draw 1 cm squares on plain paper with a ruler. Used in e3. 
-- [Climbing bean seeds, such as sem or a pole bean](https://www.amazon.in/s?k=pole+bean+seeds) (material): For the Climbing Bean Diary. Check the packet says 'pole' or 'climbing', not 'bush'. Used in p1. 
-- [Tops & Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear out of carrots, lettuce and corn, by knowing which part of each plant we eat. Used in g1, a1. If bought, read it before Vegetable Detectives. Ask after each trick: was the food a root, a stem, a leaf or a seed?
-- [Plants Can't Sit Still, by Rebecca E. Hirsch](https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch) (book): A picture book showing that plants move: they climb, twist, turn and spread. Used in p1, a3. If bought, read it on the day you start the Climbing Bean Diary.
+- [Climbing bean seeds, such as sem, avarai (hyacinth bean) or a pole bean](https://www.amazon.in/s?k=pole+bean+seeds) (material): For the Climbing Bean Diary. Check the packet says 'pole' or 'climbing', not 'bush'. Used in p1. 
+- [Tops & Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear out of carrots, lettuce and corn, by knowing which part of each plant we eat. Used in g1, a1. 
+- [Plants Can't Sit Still, by Rebecca E. Hirsch](https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch) (book): A picture book showing that plants move: they climb, twist, turn and spread. Used in p1, a3. 
 
 ## Warm-up
 - Root, stem or leaf: a potato? → A stem. Its eyes are buds.

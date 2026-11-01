@@ -96,7 +96,7 @@ Our five kinds are useful, but not every plant fits them. A banana plant looks l
 
 A plant's body is made of tiny living units called cells. In a woody stem, many cells build thick, tough walls around themselves. Two materials make the walls strong. One is cellulose, the same material as in cotton and paper. The other is lignin, which works like a hard glue. When these cells die, their walls stay, packed together like a bundle of straws. That is wood. Each year, many trees add a new layer of wood just under the bark. In places with a cold winter or a long dry season, these layers show as rings. Many trees in the warm tropics have rings that are hard to read.
 - e.g. A soft herb stem has very little lignin, so it bends and squashes.
-- e.g. Teak, sheesham and sal wood are hard and strong, so people make furniture and doors from them.
+- e.g. Teak, jackfruit wood and sal are hard and strong, so people make furniture and doors from them.
 - e.g. Paper is made from wood with most of the lignin taken out, leaving the soft cellulose.
 ### Wood took millions of years to appear · *defined*
 **Definition:** The first plants on land had no wood. The first woody stems appeared about 400 million years ago, and the first trees about 390 million years ago.
@@ -163,7 +163,7 @@ Scientists have named more than 350,000 species of plants, and about 2,000 new o
 ## Mostly agreed
 - Plants can be sorted by how they grow: trees, shrubs, herbs, climbers and creepers. Most grasses are herbs. *How we know:* Botanists and plant books use groups like these, and anyone can check them by looking at a plant's stem.
 - Woody stems are hard because their cells have thick walls with lignin in them. *How we know:* Under a microscope, wood is seen as packed, thick-walled dead cells. Chemists can measure the lignin.
-- Almost all the food people and animals eat comes from plants in the end. *How we know:* Follow any food chain back far enough. It always starts with a plant, or with tiny plant-like living things in the sea.
+- Almost all the food people and other animals eat comes from plants in the end. *How we know:* Follow any food chain back far enough. It always starts with a plant, or with tiny plant-like living things in the sea.
 - Many medicines were first found in plants. *How we know:* Aspirin, artemisinin, vincristine and many more were found by studying plants, and then tested on patients.
 - Trees make the ground and air cooler around them. *How we know:* Thermometers in the shade of trees read lower than those in the sun, and cities with more trees measure cooler.
 - Trees appeared on Earth about 390 million years ago, and plants from many different families became trees separately. *How we know:* Fossil forests, like the one at Gilboa in New York State, and the family trees scientists build by comparing plant genes.
@@ -195,15 +195,15 @@ Scientists have named more than 350,000 species of plants, and about 2,000 new o
 ## Roots
 We have been testing stems and sorting plants into trees, shrubs, herbs, climbers and creepers. Now we ask what these kinds tell us about how a plant lives.
 
-**Deep truth.** In the Stem Test, the woody twig stood up alone, but the soft stems flopped over. Every plant must get their leaves into sunlight to make food. A tree holds them up on wood, a climber leans on a support, and a creeper spreads them flat. So a plant's kind is their way of reaching the light.  
+**Deep truth.** In the Stem Test, the woody twig stood up alone, but the soft stems bent over. Every plant must get their leaves into sunlight to make food. A tree holds them up on wood, a climber leans on a support, and a creeper spreads them flat. So a plant's kind is their way of reaching the light.  
 *Habit it breaks:* We learn tree, shrub, herb, climber and creeper as names to memorise, like labels on jars. But each kind is a way of living. It tells you how that plant reaches the light, and what they need from the place they grow.  
-*Evidence:* In the Stem Test, the woody twig stayed stiff, the soft stems bent, and a long money plant stem flopped over. A money plant still reaches the top of a window grill, because they hold on to the grill or a pole with little roots along their stem. Farmers in Kerala plant a tree or a post before they plant pepper, for the same reason.
+*Evidence:* In the Stem Test, the woody twig stayed stiff, the soft stems bent, and a long money plant stem, if you had one, flopped over. A money plant still reaches the top of a window grill, because they hold on to the grill or a pole with little roots along their stem. Farmers in Kerala plant a tree or a post before they plant pepper, for the same reason.
 
 - *who am i:* Your bones hold you up, the way wood holds up a tree. Your muscles work all the time to keep you balanced.
 - *what is life:* Every plant you sorted is reaching for the same sunlight. Living means finding a way to get what you need.
 - *what is this world:* A climber grows on a tree, and a creeper grows in the open space between trees. Each kind of plant lives in a place made partly by other plants.
 
-All plants come from the same ancient ancestors. Over millions of years, their families found many ways to reach the light: wood in some, soft fast stems in others, tendrils and gripping roots in climbers. The tree shape grew in many separate families. So the five kinds are not five separate families. They are five ways that one great family of living things has found to reach the sunlight.
+All plants share ancient ancestors. Over millions of years their descendants found many ways to reach the light: wood in some, soft fast-growing stems in others, tendrils and gripping roots in climbers. The tree shape arose in many separate plant families. So the five kinds are five ways of growing, not five separate families.
 
 - **Chandogya Upanishad 6.12:** A father, Uddalaka, asks his son to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this great banyan tree grows. That is you.' (A banyan seed holds no wood at all. The whole trunk is built later, mostly from air and water, using the Sun's light.)
 - **Tao Te Ching 76:** Green plants are soft and full of sap while they live. When they die, they become dry and hard. So the stiff and hard go with death, and the soft and bending go with life. (In the Stem Test, the dry twig snapped and the green stems bent. Wood itself is made of cells that have died and left their hard walls behind. The part that grows new wood is a thin living layer just under the bark.)
@@ -211,8 +211,6 @@ All plants come from the same ancient ancestors. Over millions of years, their f
 - Science (settled): Plants from many unrelated families became trees on their own, and some trees' descendants became climbers or herbs.
 - Other view, Many botanists: Sorting plants by how they grow tells you little about who their relatives are. A rose is a shrub and an apple is a tree, but they are close cousins. For finding families, scientists compare flowers, seeds and genes, not stems.
 - Practice, Stand alone, then lean (3 min): Let's stand up straight, with our feet together and our eyes closed. Notice how your body sways a little. Your muscles are working all the time to keep you up. Now open your eyes and lean one hand on a wall. Feel how much less your legs have to work. Breathe in slowly, and breathe out. A tree stands alone, like you did first. A climber leans, like you did next.
-- Ask: Is a banana plant a tree, a herb, or just a banana plant?
-- Ask: A pepper vine climbs a tree to reach the light. Does the tree lose anything?
 - Ask: Is any plant useless? Useless to whom?
 - Ask: If a tree and a climber both reach the top, which one did more work?
 
@@ -234,7 +232,7 @@ All plants come from the same ancient ancestors. Over millions of years, their f
 
 In the year 1675, when I was nine years old, a Dutch governor in Kochi decided he wanted to know every plant in Malabar. His name was Hendrik van Rheede. He wanted a book so big and so true that nobody in Europe would ever again have to guess what grew on our coast. But a governor cannot learn a thousand plants by himself. So he sent for my uncle.
 
-My uncle was Itty Achuden. He was a vaidyan, a healer, from a village by the sea, south of Kochi. He knew plants the way other people know their cousins. He knew them by their leaves and their bark, by their smell when you crushed them, and by the way they grew. He carried palm-leaf books that his family had copied and recopied for longer than anyone could remember. Three learned men came too: Ranga Bhat, Vinayaka Pandit and Appu Bhat, who knew the old Sanskrit books of healing. But when the governor wanted to see a plant alive, it was my uncle who walked out and found one.
+My uncle was Itty Achuden. He was a vaidyan, a healer, from a village by the sea, south of Kochi. He knew plants the way other people know their cousins. He knew them by their leaves and their bark, by their smell when you crushed them, and by the way they grew. He carried palm-leaf books that his family had copied and recopied for longer than anyone could remember. Three learned men came too: Ranga Bhat, Vinayaka Pandit and Appu Bhat, who knew the old Sanskrit books of healing. But when the governor wanted to see a living plant, my uncle was the one who walked out and found it.
 
 My job was small. I was a girl of nine, and I carried the baskets. I held leaves flat on the table while the painters drew them. The painters were young Dutchmen with ink on their cuffs and sweat on their noses. The youngest was called Pieter. Pieter was the one who could not find the pepper.
 
@@ -260,7 +258,7 @@ Pieter stared. He touched the stem. He tugged it, gently, and it held on.
 
 'They don't need one,' I said. 'The jackfruit made the trunk. The pepper climbs it.'
 
-Then I told him what every child in our village knew. When people plant pepper, they never plant them alone. First they plant a tree, or set a strong post in the ground. Then they plant the pepper at their foot. The pepper stem is soft and bendy. Left on the ground, they creep about in the shade and give you hardly a handful of berries. Give them something to hold, and up they go, towards the sun, gripping with their little roots all the way.
+Then I told him what every child in our village knew. When people plant pepper, they never plant a vine alone. First they plant a tree, or set a strong post in the ground. Then they plant the pepper at the foot of the tree or post. The pepper stem is soft and bendy. Left on the ground, they creep about in the shade and give you hardly a handful of berries. Give them something to hold, and up they go, towards the sun, gripping with their little roots all the way.
 
 'Then I have drawn two plants as if they were one,' said Pieter. He looked at his picture for a long time. I thought he would be ashamed. Instead, he laughed, so loudly that a crow flew off the wall. 'All the way from Amsterdam,' he said, 'to find out that pepper is a climber.'
 
@@ -284,24 +282,24 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 
 ## Games
 ### g1 · Plant Families (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and deal 5 cards to each player. Put the rest face down in a pile.; A family is 3 cards that share a kind, like 3 trees, or a use, like 3 foods. A card can be in only one family.; On your turn, ask one player for a kind or a use, for example 'Do you have a creeper?' or 'Do you have a food?' You must be holding at least one card of that kind or use yourself.; If they have one, they give you one such card and you ask again. If not, they say 'Go to the forest!', you take one card from the pile, and your turn ends.; When you hold a family, lay it on the mat and say out loud what the three cards share.; If you have no cards, take 3 from the pile. If the pile is empty, you pass.; When the pile is empty, keep playing. The game ends when a whole round goes by and nobody gives away a card. The player with the most families wins. If two players tie, they share the win.
-- **Printable cards: 24 plant cards to cut out (front: plant and kind, back: what the plant is used for). Print the backs on the other side of the fronts.:** Neem: tree (back: Uses: shade, datun twigs, wood) [picture]; Mango: tree (back: Uses: fruit, shade, wood) [picture]; Peepal: tree (back: Uses: shade) [picture]; Coconut: tree (a palm) (back: Uses: food, oil, coir rope) [picture]; Teak: tree (back: Uses: wood for doors and furniture) [picture]; Rubber tree: tree (back: Uses: rubber from their sap) [picture]; Hibiscus: shrub (back: Uses: flowers) [picture]; Rose: shrub (back: Uses: flowers, rose water); Cotton: shrub (back: Uses: cloth) [picture]; Mehendi: shrub (back: Uses: colour for hands) [picture]; Lemon: shrub (back: Uses: fruit) [picture]; Tulsi: shrub (a soft herb when young) (back: Uses: tea, medicine) [picture]; Coriander: herb (back: Uses: food) [picture]; Mint: herb (back: Uses: food, medicine) [picture]; Rice: herb (a grass) (back: Uses: food) [picture]; Wheat: herb (a grass) (back: Uses: food) [picture]; Sugarcane: herb (a grass) (back: Uses: sugar) [picture]; Bamboo: a giant grass (counts as a herb here) (back: Uses: building, baskets) [picture]; Money plant: climber (back: Uses: decoration) [picture]; Pepper: climber (back: Uses: spice) [picture]; Bitter gourd: climber (back: Uses: food) [picture]; Pumpkin: creeper (back: Uses: food) [picture]; Watermelon: creeper (back: Uses: fruit) [picture]; Sweet potato: creeper (back: Uses: food) [picture]
-- **Printable board: A family mat with five kind symbols:** Tree; Shrub; Herb; Climber; Creeper; Same use
+- **rules:** Cut out the 24 cards. Shuffle them and deal 5 cards to each player. Put the rest face down in a pile.; A family is 3 cards that share a kind, like 3 trees, or share a word after "Uses", like 3 cards that all say food. A card can be in only one family.; On your turn, ask one player for a kind or a use, for example 'Do you have a creeper?' or 'Do you have a food?' You must be holding at least one card of that kind or use yourself.; If they have one, they give you one such card and you ask again. If not, they say 'Go to the forest!', you take one card from the pile, and your turn ends.; When you hold a family, lay it on the mat and say out loud what the three cards share.; If you have no cards, take 3 from the pile. If the pile is empty, you pass.; When the pile is empty, keep playing. The game ends when a whole round goes by and nobody gives away a card. The player with the most families wins. If two players tie, they share the win.
+- **Printable cards: 24 plant cards to cut out (each card shows the plant, its kind and what people use it for):** Neem: tree. Uses: shade, datun twigs, wood [picture]; Mango: tree. Uses: fruit, shade, wood [picture]; Peepal: tree. Uses: shade [picture]; Coconut: tree (a palm). Uses: food, oil, coir rope [picture]; Teak: tree. Uses: wood (doors and furniture) [picture]; Rubber tree: tree. Uses: rubber from their sap [picture]; Hibiscus: shrub. Uses: flowers [picture]; Rose: shrub. Uses: flowers, rose water; Cotton: shrub. Uses: cloth [picture]; Mehendi: shrub. Uses: colour for hands [picture]; Lemon: shrub. Uses: fruit [picture]; Tulsi: shrub (a soft herb when young). Uses: tea, medicine [picture]; Coriander: herb. Uses: food [picture]; Mint: herb. Uses: food, medicine [picture]; Rice: herb (a grass). Uses: food [picture]; Wheat: herb (a grass). Uses: food [picture]; Sugarcane: herb (a grass). Uses: sugar [picture]; Bamboo: a giant grass (counts as a herb here). Uses: building, baskets [picture]; Money plant: climber. Uses: decoration [picture]; Pepper: climber. Uses: spice [picture]; Bitter gourd: climber. Uses: food [picture]; Pumpkin: creeper. Uses: food [picture]; Watermelon: creeper. Uses: fruit [picture]; Sweet potato: creeper. Uses: food [picture]
+- **Printable board: A family mat: five kinds and one "same use" space:** Tree; Shrub; Herb; Climber; Creeper; Same use
 - **Printable score sheet: Families score sheet:** Player name; Families laid down; What each family shares
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 24 cards. 2. Lay the family mat on the table. 3. Shuffle and deal 5 cards to each player.  
+  *Parent does:* 1. Cut out the 24 cards. 2. Lay the family mat on the table. 3. Look at all the cards together: each one shows the plant, its kind and its uses.  
   *Parent says:* Each card names a plant, its kind and how people use it. We are going to collect families of three.  
-  *Child mode:* Cut out the cards. Mix them up. Take 5 cards each. Look at your plants.
+  *Child mode:* Cut out the cards. Look at each plant, its kind and its uses.
 - **s2 (3 min)**  
-  *Parent does:* Play one practice turn together, using the neem, mango and peepal cards.  
+  *Parent does:* Find the neem, mango and peepal cards and lay them side by side on the mat. Then shuffle all the cards and deal 5 to each player. Put the rest face down in a pile.  
   *Parent says:* Let's practise. Neem, mango and peepal. What do these three share?  
-  *Child mode:* Practice round. Look at neem, mango and peepal. What do they share?
+  *Child mode:* Practice round. Look at neem, mango and peepal. What do they share? Then take 5 cards each.
   - Check: Neem, mango and peepal make a family. What do they share? → **They are all trees**
 - **s3 (10 min)**  
   *Parent does:* Play the game. Each time someone lays down a family, ask them to say what the three share.  
   *Parent says:* Your turn. Who will you ask, and which card do you want?  
   *Child mode:* Ask someone for a card you need. Make a family of three. Say what they share.
-  - Ask: Why is the pumpkin a creeper and not a climber? (good: They spread on the ground.; Their stem lies flat.; They do not hold on to anything to go up.)
+  - Ask: Why is the pumpkin a creeper and not a climber? (good: Their stem lies flat on the ground.; They spread out instead of standing up.; They only climb if their tendrils happen to find a fence.)
   - Note: Families by use count too, like rice, wheat and sugarcane as foods from grasses. Accept any family the child can explain honestly.
 - **s4 (2 min)**  
   *Parent does:* Find the tulsi and bamboo cards and hold them up.  
@@ -314,7 +312,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Child mode:* Count your families. Who won? Which kind gives us the most food?
   - Think: If you could only keep one kind of plant, which would you keep, and why?
 ### g2 · Five Kinds Bingo (25 min)
-- **rules:** Each player gets a bingo card and a pencil.; Walk slowly with a grown-up. When you see something on your card, point it out and say why it fits.; If the others agree, tick that square.; The first person to tick 4 squares in a row, across, down or corner to corner, shouts 'Bingo!'; Keep playing until everyone has a bingo, or the walk ends.
+- **rules:** Each player gets a bingo card and a pencil.; Walk slowly with a grown-up. When you see something on your card, point it out and say why it fits.; If the others agree, tick that square. A plant ticks one square on your card only, and two players cannot use the same plant.; The first person to tick 4 squares in a row, across, down or corner to corner, shouts 'Bingo!'; Keep playing until everyone has a bingo, or the walk ends.
 - **Printable board: Bingo card with 16 squares:** A tree with a trunk you cannot hug all the way round; A shrub with flowers; A herb you can smell; A climber holding on with tendrils; A climber holding on with little roots; A creeper on the ground; A grass that is not on a lawn; A plant growing out of a wall or crack; A tree giving shade to an animal or a person; A plant that gives us fruit; A plant used for medicine; Something made of wood; Bark you can rub; A plant someone planted on purpose; A plant nobody planted; A plant that does not fit any kind
 - **s1 (3 min)**  
   *Parent does:* 1. Give each player a bingo card and a pencil. 2. Read the squares aloud together before you leave.  
@@ -326,7 +324,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Child mode:* Look high and low. Point at a plant. Say why they fit a square.
   - Note: Stay with your child near roads. Do not touch plants with thorns or milky sap, and do not pick anything in someone else's garden.
 - **s3 (3 min)**  
-  *Parent does:* Stop at a plant with a stem that climbs or spreads.  
+  *Parent does:* Stop at a climber or creeper, or at any plant with a stem you can feel.  
   *Parent says:* Look at this stem. Is it hard or soft? Is it standing, climbing or lying down?  
   *Child mode:* Feel this stem gently. Is it hard or soft? Is it climbing or lying down?
   - Check: A plant has a soft stem and lies along the ground over a big patch. What kind of plant is this? → **A creeper**
@@ -334,18 +332,18 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* At home, look at the ticked squares together.  
   *Parent says:* Which square was hardest to find? Did you find a plant that did not fit any kind?  
   *Child mode:* Which square was hardest? Did any plant break the rules?
-  - Think: Was the plant growing out of a crack in the wall planted by anyone? How did they get there?
+  - Think: Who planted the plant growing out of a wall or a crack? How did the seed get there?
 
 ## Experiments
 ### e1 · The Stem Test: which stems can stand up alone? (25 min)
 - **question:** Which stems can hold themselves up, and how are they different from the ones that cannot?
 - **predict:** Before you test, line up the stems from the one you think is hardest to the softest. Which ones do you think will stand up by themselves, and why do you think so?
-- **fair test:** To make it fair, test every stem in the same three ways, in the same order. Use pieces of about the same length, as long as you can find (about 30 cm is good). Use stems from the kitchen or ones already cut or fallen, so no plant is hurt.
+- **fair test:** To make it fair, test every stem in the same three ways, in the same order. Use pieces of the same length, about 20 cm (a mint sprig or coriander stalk is about this long), and take the leaves off every stem. Use stems from the kitchen or ones already cut or fallen, so no plant is hurt.
 - **safety:** Use only stems from your kitchen, or pieces that have already fallen or been pruned. Do not use stems with milky sap or thorns. Wash your hands afterwards.
 - **record:** Fill in the table for every stem. Then draw each stem and write woody or soft under it.
 - **results table:** Stem | Nail test: does it dent? | Bend test: springs back, snaps or flops? | Stand test: does it stand up alone? | Woody or soft? | Kind of plant
 - **s1 (4 min)**  
-  *Parent does:* 1. Collect 4 or 5 stem pieces, from the kitchen or fallen from plants. 2. Lay them on newspaper. 3. Ask your child to line them up, hardest first, and say which will stand up alone.  
+  *Parent does:* 1. Collect 4 or 5 stem pieces, all about 20 cm long, from the kitchen or fallen from plants. 2. Lay them on newspaper. 3. Ask your child to line them up, hardest first, and say which will stand up alone.  
   *Parent says:* Which of these stems do you think is the hardest? Line them up, hardest first. Which ones will stand up by themselves? Why do you think so?  
   *Child mode:* Line up your stems, hardest first. Which will stand up alone? Why?
   - Ask: Why did you put that one first? (good: It looks brown and dry.; It feels hard like a stick.; It came from a big tree.)
@@ -363,7 +361,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* 1. Hold each stem upright by its bottom end only. 2. See whether it stands straight or droops. 3. Fill in the stand column.  
   *Parent says:* Hold it from the bottom. Can it stand up straight by itself, or does it droop over?  
   *Child mode:* Hold each stem at the bottom. Does it stand up by itself?
-  - Note: Short pieces may stand even if they are soft, so use the longest pieces you have. A long stem has more weight to hold up. The woody twig stays stiff. A long money plant stem flops over.
+  - Note: A soft stem may stay up for a moment, so watch for a few seconds: a soft stem sags over, and a woody twig stays straight. If a soft stem does stay up, write "a little". The woody twig stays stiff. A money plant stem flops over.
   - Check: Suppose a long money plant stem flops over when you hold it up by its bottom end. At home, a money plant grows up a pole or a window grill. What kind of plant is a money plant? → **A climber**
 - **s5 (3 min)**  
   *Parent does:* Look at the finished table together and fill in the last two columns.  
@@ -377,19 +375,20 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ### e2 · Shade Detective: how much cooler is it under a tree? (30 min)
 - **question:** How much cooler is the ground in the shade of a tree than in the sun?
 - **predict:** Before you measure, guess. Which place will be hottest: the sunny ground, the shade of a tree, or the shade of an umbrella? Why do you think so?
-- **fair test:** To make it fair, measure all the places at about the same time of day, on the same kind of ground, for example all on paving. Leave the thermometer for the same time in each place, 3 minutes.
-- **safety:** Do this with a grown-up. Wear a cap. Do not stand in strong sun for long. Drink water. Keep away from traffic.
+- **fair test:** To make it fair, measure all the places within about half an hour around midday, lay the thermometer flat on the ground each time, and leave it 3 minutes in each place. Where you can, choose the same kind of ground, for example all paving.
+- **safety:** Midday sun is strong. Wear a cap, drink water and do not stay out long.
 - **record:** Write the temperature for each place. Draw a bar chart with one bar for each place.
 - **results table:** Place | My guess: hottest, middle or coolest | Temperature (degrees Celsius)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Choose a sunny time, near midday. 2. Find a spot in full sun, a big tree with thick shade, a shrub and a place for an umbrella. 3. Ask your child to guess which will be hottest and coolest.  
   *Parent says:* Which place do you think will be the hottest? Which will be the coolest? Why?  
   *Child mode:* Guess first. Which place will be hottest? Which will be coolest?
+  - Note: No big tree near your building? Compare the sun, the shade of a wall and the shade of an umbrella now, and measure under a tree on your next visit to a park.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Lay the thermometer on the sunny ground. 2. Wait 3 minutes. 3. Read it and write it down. 4. Do the same under the tree.  
   *Parent says:* We'll leave it 3 minutes in each place, so it has time to warm up or cool down. That keeps the test fair.  
   *Child mode:* Put the thermometer on sunny ground. Wait 3 minutes. Read it. Then try under the tree.
-  - Note: Read the number together. Most digital thermometers show degrees Celsius. In summer, sunny paving can be more than 10 degrees hotter than deep shade.
+  - Note: Read the number together. Most digital thermometers show degrees Celsius. In summer, sunny paving can be more than 10 degrees hotter than deep shade. Ground that was in the sun a minute ago, like the paving under your umbrella, cools slowly, so the umbrella may look only a few degrees cooler.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* Measure under a shrub and under an open umbrella, 3 minutes each, the same way.  
   *Parent says:* Now let's try a shrub and an umbrella. Will they be as cool as the tree?  
@@ -408,7 +407,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **question:** Which kitchen leaves have the strongest smell, and why do plants make smells at all?
 - **predict:** Before you sniff, guess. Line up the leaves, strongest smell first. Why do you think that one will smell strongest?
 - **fair test:** To make it fair, use one leaf of each, about the same size. Crush each the same way, between your fingers, for 5 seconds. Each person scores every leaf from 0 (no smell) to 5 (very strong).
-- **safety:** Smell only. Never taste the leaves. Use only plants a grown-up knows are safe, like kitchen herbs. Do not use kaner, datura or any unknown plant. Wash your hands afterwards.
+- **safety:** Use only kitchen leaves a grown-up knows. Do not use kaner, datura or any unknown plant. Wash your hands afterwards.
 - **record:** Fill in the table. Then circle the leaf with the strongest smell.
 - **results table:** Leaf | My guess (0 to 5) | Person 1 score | Person 2 score | Person 3 score (if a third person smells) | Middle score
 - **s1 (4 min)**  
@@ -419,7 +418,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* 1. Crush leaf 1 between your fingers for 5 seconds. 2. Each person sniffs it and gives a score from 0 to 5. 3. Rest your nose for a moment, or sniff your own sleeve. 4. Wipe your fingers and do the next leaf.  
   *Parent says:* Crush it for five seconds. Now sniff. Give it a score. Zero means no smell. Five means very strong.  
   *Child mode:* Crush the leaf for five seconds. Sniff. Score it from 0 to 5.
-  - Note: Noses get tired quickly. A short rest, or sniffing your own sleeve, between leaves helps. Do not let anyone taste the leaves.
+  - Note: Noses get tired quickly. A short rest, or sniffing your own sleeve, between leaves helps.
 - **s3 (4 min)**  
   *Parent does:* Find the middle score for each leaf. With three scores, put them in order and take the middle one. With only two people, add the two scores instead and compare the totals.  
   *Parent says:* Each of us scored differently. To be fair, we take the middle score, or add our scores if there are two of us.  
@@ -428,7 +427,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* Talk about why plants make smells.  
   *Parent says:* Plants can't run away from insects. Many make strong smelly chemicals in their leaves. Insects often don't like them. Some of these same chemicals are what we use as spices and medicines.  
   *Child mode:* Plants cannot run away. So some make strong smells. Many insects dislike them. People use these smells in food and medicine.
-  - Check: In the Smell Test, mint had a strong smell when crushed. What is the most likely reason a plant makes a strong smell? → **To protect themselves from insects and animals that eat leaves**
+  - Check: A crushed mint leaf has a strong smell. What is the most likely reason a plant makes a strong smell? → **To protect themselves from insects and animals that eat leaves**
 - **s5 (3 min)**  
   *Parent does:* Ask your child for claim, evidence and reasoning.  
   *Parent says:* What do you think now? What did you smell? Why do you think some leaves smell so strong?  
@@ -443,6 +442,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* Show your child the tally table, and explain the five kinds in one line each.  
   *Parent says:* Let's count plants. For each plant, we decide: tree, shrub, herb, climber or creeper. Then we make a tally mark.  
   *Child mode:* Count the plants you can see. Decide each one's kind. Make a tally mark.
+  - Note: Sow a few bean seeds in a small pot today. In two weeks they will be ready for the Circling Shoot.
 - **s2 (3 min)**  
   *Parent does:* Stop at the first plant you can see clearly, in a pot or from a window. Look at their stem together.  
   *Parent says:* What do you notice about this plant? What do you wonder about them?  
@@ -452,12 +452,12 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* For about 12 minutes, look from every window and the balcony. Look at pots at home too, and walk to your building gate if you can. At each plant, your child decides the kind and makes a tally mark.  
   *Parent says:* Look high and low. Look at walls, grills and cracks too. What kind is this one?  
   *Child mode:* Look up and look down. Make a tally mark for each plant.
-  - Note: Do not worry about being exactly right. The point is to look at stems. If you both disagree, write it in a 'not sure' row. That is honest science.
+  - Note: Do not worry about being exactly right. The point is to look at stems. If you both disagree, write it in a 'not sure' row. That is honest science. A tree field guide, like Trees of Delhi on the shopping list, helps you name the trees.
 - **s4 (3 min)**  
   *Parent does:* Count each row of tallies together.  
   *Parent says:* Which kind did we see most? Which did we see least? Why do you think that is?  
   *Child mode:* Count each row. Which kind did you see most? Which least?
-  - Check: Meera, a girl in Class 3, sees a plant with a thin stem growing up her window grill. This plant has little roots along their stem. What kind of plant is this? → **A climber**
+  - Check: Mitali, a girl in Class 3, sees a plant with a thin stem growing up her window grill. This plant has little roots along their stem. What kind of plant is this? → **A climber**
   - Think: Which plants did someone plant on purpose? Which grew by themselves?
 ### a2 · The Plant Hunt at Home (20 min)
 - **safety:** Look at medicines and kitchen things, but do not open, eat or taste anything.
@@ -485,7 +485,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **safety:** Choose a tree in a safe place, away from traffic. Check for ants, thorns and wasps before you hug.
 - **record:** Write the distance around the trunk in centimetres. Write your estimate of the tree's age. Stick the bark rubbing next to it.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Choose a big tree nearby and let your child hug them.  
+  *Parent does:* Choose a big tree near your building or in a park, and let your child hug them.  
   *Parent says:* Let's hug this tree. Can your arms reach all the way round? How many of us would we need?  
   *Child mode:* Hug the tree. Can your arms meet? How many people would it take?
 - **s2 (6 min) · grown-up needed**  
@@ -496,7 +496,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* Use the rough rule: many trees grow about 2 and a half centimetres around each year. Divide the distance around by 2 and a half.  
   *Parent says:* Here's a rough rule foresters use. Many trees get about 2 and a half centimetres fatter around, each year. So we divide.  
   *Child mode:* Many trees grow about 2 and a half centimetres round each year. So divide to guess the age.
-  - Note: This is a rough rule of thumb. Trees grow at very different speeds: a fast teak and a slow tamarind can be very different. So the answer is a rough guess, not a fact. Say so to your child. For example, 150 cm divided by 2.5 is 60, so about 60 years old.
+  - Note: This is a rough rule of thumb. Trees grow at very different speeds: a fast teak and a slow tamarind can be very different. So the answer is a rough guess, not a fact. Say so to your child. For example, 150 cm divided by 2.5 is 60, so about 60 years old. An easy way to divide by 2 and a half: double the number, then divide by 5.
   - Check: In Hug a Tree, a trunk measured 100 cm around. Using the rough rule of 2 and a half cm a year, about how old is the tree? → **About 40 years**
 - **s4 (6 min)**  
   *Parent does:* Hold thin paper against the bark and rub the side of a crayon over it.  
@@ -505,7 +505,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   - Think: Why do you think a tree needs bark? What would happen without it?
 ### a4 · The Banana Plant Puzzle: tree or giant herb? (20 min)
 - **safety:** Only a grown-up uses the knife. Banana stem sap can stain clothes, so wear old clothes or an apron.
-- **record:** Draw the cut end of the banana stem and the cut end of the twig, side by side. Write which one has wood.
+- **record:** Draw the cut end of the banana stem and the broken end of the twig, side by side. Write which one has wood.
 - **s1 (3 min)**  
   *Parent does:* Show your child the banana stem piece, still whole.  
   *Parent says:* This comes from a banana plant. People call them a banana tree. Are they really a tree? What do you think we'll find inside?  
@@ -520,8 +520,8 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent says:* Each layer is the bottom of a leaf. The leaves grow from the middle and wrap around each other. That's what makes the 'trunk'.  
   *Child mode:* Peel off one layer. It is the bottom of a leaf. The trunk is rolled-up leaves!
   - Check: In the Banana Plant Puzzle, the stem was made of soft rolled layers with no wood. So what kind of plant is a banana? → **A giant herb, because their stem is soft and not woody**
-- **s4 (4 min) · grown-up needed**  
-  *Parent does:* A grown-up cuts the tree twig across. Compare the two ends.  
+- **s4 (4 min)**  
+  *Parent does:* Snap the tree twig in two and look at the broken end. Compare it with the banana stem.  
   *Parent says:* Now look at the twig. Can you peel it? What is different?  
   *Child mode:* Look at the twig's cut end. Can you peel it? What is different?
   - Think: What other plants look like trees, but might not be?
@@ -546,8 +546,8 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* On Day 2, look at the photos in order, or join the dots on the paper.  
   *Parent says:* Look at the dots. Is the tip moving in a line, or in a circle? Has it touched the stick yet?  
   *Child mode:* Look at your photos in order. Did the tip move? Which way?
-  - Note: In 2 to 3 hours the tip may not reach the stick yet. That is fine: you are looking for the slow loop, not for the grip.
-  - Check: In the Circling Shoot, the tip of a climbing bean moved slowly in a loop. Why do climbers do this? → **To sweep around and find something to hold on to**
+  - Note: In 2 to 3 hours the tip may not reach the stick yet. That is fine: you are looking for the slow loop, not for the grip. A loop can take an hour or two or more, and a tip in a cool or dim room may move little. If your photos show no clear loop, write that down. It is an honest result.
+  - Check: In the Circling Shoot, the tip of a climbing bean may move slowly in a loop. Why do climbers do this? → **To sweep around and find something to hold on to**
   - Wait: Look again the next day
 - **s4 (5 min)**  
   *Parent does:* Talk about how a climber is different from a tree.  
@@ -557,7 +557,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ### a6 · Twist a Plant Rope (20 min)
 - **record:** Tape a piece of your rope here. Write how many coins it held, and how many the loose bunch held.
 - **s1 (3 min)**  
-  *Parent does:* Pull out a bunch of long fibres, about as long as your arm.  
+  *Parent does:* Pull out a bunch of fibres, each about as long as your hand.  
   *Parent says:* Jute and coir come from plants. Jute comes from the stem of the jute plant. Coir comes from the hairy husk of a coconut.  
   *Child mode:* Pull out some long fibres. They came from a plant!
 - **s2 (8 min)**  
@@ -565,9 +565,10 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent says:* Twist, twist, twist. Now fold it in half and watch. The twisted bunch springs back, and the only way it can untwist is by wrapping round itself.  
   *Child mode:* Twist the fibres tight. Fold them in half. Watch them wrap into a rope!
 - **s3 (6 min)**  
-  *Parent does:* 1. Make a second bunch the same size, but do not twist it. 2. Hang a small bag from each, tied on the same way, and add coins one at a time until it pulls apart. 3. Test the loose bunch first, then your rope.  
+  *Parent does:* 1. Make a second bunch with the same amount of fibre, but do not twist it. 2. Tie a thread round each end of the loose bunch and of the rope. 3. Hang each one from the same hook, with the same small bag at the bottom. 4. Add coins one at a time until it pulls apart. Test the loose bunch first, then your rope.  
   *Parent says:* Let's test it. How many coins does the loose bunch hold? How many does our rope hold?  
   *Child mode:* Hang a bag of coins from the loose bunch. Then from your rope. Which holds more?
+  - Note: The loose bunch usually lets go after only a few coins, because only the fibres under the knot hold it. Write down what you really get.
   - Check: In Twist a Plant Rope, why did the twisted rope hold more coins than the loose fibres? → **Twisting makes the fibres grip each other, so they all share the pull**
 - **s4 (3 min)**  
   *Parent does:* Look for plant ropes and fibres at home: a jute bag, a coir doormat, a cotton string, a rope cot.  
@@ -580,7 +581,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **record:** A 4-week plant diary with 5 drawings, a rubbing, measurements, a list of visitors and a plant friend card.
 - **schedule:** day 1: Choose a plant friend. Decide their kind. Draw them, give them a name and make a bark or leaf rubbing. (20 min); day 7: Visit your plant. Count new leaves, buds or flowers. Note any visitors: ants, birds, bees, butterflies. (10 min); day 14: Visit again. Measure something: the length of one new shoot, or around the trunk. Find out one way people use this kind of plant. (10 min); day 21: Visit again. Draw them from the same spot as Day 1. What has changed? (10 min); day 28: Last visit. Write a 'plant friend card' with their kind, their uses, their visitors and what changed. (10 min)
 - **s1 (20 min) · grown-up needed**  
-  *Parent does:* Walk around with your child and help them choose a plant they can visit safely every week. Draw them, decide their kind, give them a name and make a bark or leaf rubbing. Do not pick leaves or flowers in someone else's garden.  
+  *Parent does:* Help your child choose a plant to visit every week. It can be a pot, a balcony plant or a street tree. Draw them, decide their kind and give them a name. Make a bark or leaf rubbing. Do not pick anything in someone else's garden.  
   *Parent says:* Pick a plant to be your friend for four weeks. Are they a tree, a shrub, a herb, a climber or a creeper? What will you call them?  
   *Child mode:* Choose a plant friend. What kind are they? Draw them. Give them a name.
 - **s2 (10 min)**  
@@ -592,7 +593,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent does:* On Day 14, measure one thing, and find out one way people use this kind of plant.  
   *Parent says:* Let's measure something, so we can see change. And let's find out: do people use this plant? For food, medicine, shade or wood?  
   *Child mode:* Measure your plant. Find out how people use them.
-  - Check: Your plant friend is a curry leaf shrub. What are they mostly used for? → **Their leaves add taste and smell to food**
+  - Check: A plant friend is a curry leaf shrub. What are curry leaves mostly used for? → **Their leaves add taste and smell to food**
   - Wait: Day 14
 - **s4 (10 min)**  
   *Parent does:* On Day 21, draw the plant again from the same spot as on Day 1.  
@@ -610,7 +611,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ### c1 · A Ladder for a Climber (30 min)
 - **problem:** A young bottle gourd or bean climber in a pot has nothing to climb. Their stem is flopping on the floor. Build them a support so they can climb up to the light, using only things from home.
 - **your turn:** Now design your own support. Draw it, build it, and check your climber every two days. Which way do they climb? Do they like your ladder?
-- **constraints:** Use only things you find at home.; The support must stand up by itself in the pot or next to it.; It must be at least 1 metre tall.; It must not hurt the plant.
+- **constraints:** Use only things you find at home.; The support must be steady and not fall over when a climber leans on the support.; It must be at least 1 metre tall.; It must not hurt the plant.
 - **general:** Push one long stick into the soil, and gently twist the climber around it.; Make a teepee: tie three sticks together at the top, like a tent.; Tie strings from the pot up to a window grill or a hook.
 - **creative:** Weave a net of string between two sticks, so tendrils have many places to grab.; Use a ladder shape made from skewers and string, so the climber can go up step by step.
 - **s1 (4 min)**  
@@ -664,7 +665,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 2. (mcq) Which plant is a shrub?  
    Options: Mango / Hibiscus / Pumpkin / Coriander  
    **Answer:** Hibiscus. *Why:* Hibiscus has several woody stems from near the ground, so hibiscus is a shrub. Mango is a tree, pumpkin is a creeper and coriander is a herb. Picking 'mango' often means choosing any plant with flowers or fruit.
-3. (mcq) In the Stem Test, a stem dented easily under your fingernail and bent over when you held it up. What kind of plant did it most likely come from?  
+3. (mcq) In the Stem Test, a stem dented easily under your fingernail and bent over when you held it up. Which kind of plant most likely gave this stem?  
    Options: A tree / A herb / A shrub  
    **Answer:** A herb. *Why:* A soft stem that dents and flops has no wood in it, so the plant is most likely a herb. Trees and shrubs have woody stems that hardly dent.
 4. (truefalse) All tall plants are trees.  
@@ -699,16 +700,16 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 1. (mcq) In the story 'The Pepper Tree That Wasn't', why did the painter think pepper grew on a jackfruit tree?  
    Options: The pepper climber was holding on to the jackfruit trunk, so they looked like one plant / Jackfruit trees really do make pepper / Someone tied pepper on the tree  
    **Answer:** The pepper climber was holding on to the jackfruit trunk, so they looked like one plant. *Why:* Pepper is a climber. They grow up a tree, holding on with little roots. From a distance, the two plants look like one. Picking 'jackfruit trees make pepper' is exactly the painter's mistake.
-2. (write) Tara, a girl in Class 4, puts a thermometer on the ground in three places at noon: in the sun, under an umbrella and under a neem tree. Predict which place will be coolest, and explain why.  
-   **Answer:** Under the neem tree will be coolest. The umbrella and the tree both block the sunlight. But the tree's leaves also let out water, and water turning into vapour takes heat away. So the air under the tree is cooled twice over.. *Why:* A strong answer says both block the Sun, and then gives the extra reason for the tree: water evaporating from the leaves cools them and the air around them.
+2. (write) Bina, a girl in Class 4, wants to compare the ground in the sun with the ground under a neem tree. She measures the sunny spot at noon and the shady spot at 3 o'clock in the afternoon. Why is her test not fair, and what should she change?  
+   **Answer:** She measured at two different times of day. The Sun is lower and weaker at 3 o'clock, so the ground has already started to cool and the two numbers cannot be compared. She should measure both places at about the same time.. *Why:* A strong answer says that only the place should differ. Anything else that changes, like the time, could explain the result.
 3. (write) A watermelon plant creeps over the hot sand of a riverbank. Their big leaves lie spread out on the ground. How might creeping help them there? What danger does it bring?  
    **Answer:** Creeping helps because the plant does not spend food on a stem strong enough to stand up. They can spread fast over the open sand and catch lots of sunlight. Their leaves also shade the sand, which keeps it a little damp. The danger is that animals and people can step on them or eat them, and taller plants nearby can shade them.. *Why:* A strong answer gives a good point and a bad point. Every way of growing has a cost as well as a gain.
 4. (mcq) Rice, wheat and ragi are all herbs. Why do farmers grow herbs, not trees, to get grain?  
    Options: A herb grows from seed to grain in a few months, so a field gives a crop every season / Trees cannot make seeds / Herbs need no water / Trees grow only in forests  
    **Answer:** A herb grows from seed to grain in a few months, so a field gives a crop every season. *Why:* A herb does not spend years building a woody trunk. They put their food into seeds quickly, often within four months. So farmers can sow and harvest again and again. Picking 'trees cannot make seeds' is wrong: mango and tamarind trees make plenty of seeds, but only after many years.
 5. (mcq) What does the word 'weed' really mean?  
-   Options: A special poisonous kind of plant / A plant growing where people do not want it / Any plant with no flowers  
-   **Answer:** A plant growing where people do not want it. *Why:* 'Weed' is a word about our wishes. The same grass can be a weed in a vegetable patch and a lawn on a cricket field. Picking 'poisonous' often comes from hearing weeds called bad plants.
+   Options: A special poisonous kind of plant / A plant growing where people do not want them / Any plant with no flowers  
+   **Answer:** A plant growing where people do not want them. *Why:* 'Weed' is a word about our wishes. The same grass can be a weed in a vegetable patch and a lawn on a cricket field. Picking 'poisonous' often comes from hearing weeds called bad plants.
 6. (mcq) Why do some plants, like mint and tulsi, have strong smells?  
    Options: To protect themselves from insects and animals that eat leaves / Because they are rotting / To call the rain  
    **Answer:** To protect themselves from insects and animals that eat leaves. *Why:* Many plants make strong-smelling chemicals that keep leaf-eaters away. People use these same chemicals as spices and medicines.
@@ -746,13 +747,13 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
    **Answer:** For example: a climber must find a support, so their tip circles slowly, searching. They must grab and hold on, with tendrils that coil, little roots that grip, or a stem that twists. They must also grow long very fast, to reach the light before other plants shade them.. *Why:* A strong answer names real work, like searching, gripping or growing fast. Climbers do not build a trunk, but they spend their food and effort in other ways.
 7. (write) In a thick forest, very little light reaches the ground. Why might being a climber help a plant there? Why might being a climber be harder in an open field with no trees?  
    **Answer:** In a forest, a climber can use the tree trunks as supports and reach the light at the top, without building a trunk of their own. In an open field there is plenty of light, but nothing to climb, so the climber has to creep along the ground and may be trampled or shaded by grass.. *Why:* A strong answer says a climber's way of growing works only when there is a support, and that the best kind of plant depends on the place.
-8. (mcq) In the Circling Shoot, a climber's tip moved in slow loops. Revathi, a girl in Class 4, says the wind did it. How could you test her idea?  
+8. (mcq) In the Circling Shoot, a climber's tip moved in slow loops. Revathi, a girl in Class 4, says the wind caused the loops. How could you test her idea?  
    Options: Keep the pot indoors with no fan or breeze, and see if it still circles / Shout at the plant / Water them more  
    **Answer:** Keep the pot indoors with no fan or breeze, and see if it still circles. *Why:* To test one idea, take away just that one thing. If the tip still circles with no wind, the plant is moving on their own. This is a fair test.
 9. (truefalse) Some herbs come from woody ancestors, and on some islands herbs have turned back into woody shrubs.  
    **Answer:** True. *Why:* True. Plants have switched between woody and soft many times in their history. It is one reason 'tree' and 'herb' are not families.
-10. (write) A company makes a medicine from a plant that village healers have used for hundreds of years. Who do you think should get credit, and why?  
-   **Answer:** Any thoughtful answer with a reason. For example, the healers should get credit, because they found the plant first. The scientists should too, because they tested it and made it safe. The village could share the money.. *Why:* This is a real question. India and other countries have laws about sharing benefits from plants with the people who knew them first.
+10. (write) A farmer has a small plot and wants to grow both pumpkins and pepper. Which one needs a support, and which one needs space on the ground? Explain using how each kind holds up their stem.  
+   **Answer:** Pepper is a climber, so the farmer needs a tree or a post for the vine to hold on to. Pumpkin is a creeper, so they need open ground to spread over. Both have thin, weak stems that cannot stand alone.. *Why:* A strong answer links what each plant needs to their kind: a climber needs something to grip, a creeper needs room to spread.
 11. (order) Put these in order of when they first appeared on Earth, oldest first: flowering plants, the first trees, the first tiny land plants.  
    **Answer:** ['the first tiny land plants', 'the first trees', 'flowering plants']. *Why:* Tiny land plants came first, about 470 million years ago. Trees came about 390 million years ago. Flowering plants came much later, more than 130 million years ago.
 12. (write) Aristotle said plants exist for the sake of animals and people. Do you agree? Give one reason for and one reason against.  
@@ -766,9 +767,9 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
    **Answer:** They may grow in places few botanists have visited, like remote hills and thick rainforest, or only at the very tops of tall trees. There are also far fewer botanists than there are places to search.. *Why:* A strong answer gives a reason about where trees grow and who looks for them.
 
 ## Videos
-- **Types of plants: trees, shrubs, herbs, climbers and creepers (for Class 3)** (Learning Junction, 5 min) id `DHGQ3elHDIE`: A short, clear look at real examples of the five kinds, to watch after the Plant Count. *Check:* Found by YouTube search: "Types of Plants - Herbs, Shrubs,Trees, Climbers and Creepers - Learning Junction #plants #kidsvideo" by learning junction. Title checked automatically; a parent may still preview it.
-- **How the Great Banyan grew into a forest** (India Uncovered, 4 min) id `YXTZH_IHGHY`: Shows the Great Banyan in the Acharya Jagadish Chandra Bose Indian Botanic Garden, Howrah, with their prop roots. *Check:* Found by YouTube search: "The Great Banyan: India’s Incredible Tree Forest" by India Uncovered. Title checked automatically; a parent may still preview it.
-- **Medicines from plants: Tu Youyou and artemisinin** (SciShow, 6 min) id `JZQc9S12ZvM`: For the parent and older children: how a malaria medicine was found in an old Chinese herbal book and a plant. *Check:* Found by YouTube search: "How an Ancient Remedy Became a Modern Cure for Malaria" by SciShow. Title checked automatically; a parent may still preview it.
+- **Types of plants: trees, shrubs, herbs, climbers and creepers (for Class 3)** (Learning Junction, 5 min) id `DHGQ3elHDIE`: A short, clear look at real examples of the five kinds, to watch after the Plant Count. *Check:* Title and channel confirmed on YouTube. The content has not been watched by the editor, so preview it first.
+- **The Great Banyan: India’s Incredible Tree Forest** (India Uncovered, 4 min) id `YXTZH_IHGHY`: Shows the Great Banyan in the Acharya Jagadish Chandra Bose Indian Botanic Garden, Howrah, with their prop roots. *Check:* Title and channel confirmed on YouTube. The content has not been watched by the editor, so preview it first.
+- **How an Ancient Remedy Became a Modern Cure for Malaria** (SciShow, 6 min) id `JZQc9S12ZvM`: For the parent and older children: how a malaria medicine was found in an old Chinese herbal book and a plant. *Check:* Title and channel confirmed on YouTube. The content has not been watched by the editor, so preview it first.
 
 ## Quiz
 1. (mcq) You want to tell a tree, a shrub and a herb apart. Which part of the plant is the best clue?  
@@ -822,7 +823,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ## Spotted around us
 - A neem or peepal tree at a street corner, with people resting in their shade.
 - Money plant climbing a pole or a window grill in a flat.
-- Pumpkin or bottle gourd vines spreading over a village roof or wall.
+- Pumpkin or bottle gourd vines spreading over a roof or wall in a village in Bengal, Assam or Kerala.
 - Pepper vines climbing areca or coconut trunks in Kerala and Karnataka gardens.
 - Banana leaves used as plates at a wedding or festival meal.
 - Bamboo scaffolding on a building site, tied with rope.
@@ -855,8 +856,6 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - What kind of tree fits in your hand? *A palm tree.*
 - Why was the banana plant so embarrassed? *Everyone found out they had no wood.*
 - How do trees get on the internet? *They log in.*
-- What did the bamboo say to the tree? *I'm just a grass, but I'm taller than you!*
-- What is a tree's favourite drink? *Root beer.*
 - What did the coconut palm say to the storm? *Leaf me alone!*
 - Why don't plants ever get lost? *They stay rooted.*
 - What did the teak tree say to the carpenter? *Wood you be careful?*
@@ -887,11 +886,10 @@ Green and Growing (sci.plants.L3): Topic-level song
 - [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at stems, bark and climbers' roots in the Stem Test and on walks. Used in e1, g2. 
 - [Simple digital thermometer](https://www.amazon.in/s?k=digital+thermometer+outdoor+probe) (tool): To measure the ground temperature in sun and shade in Shade Detective. Used in e2. 
 - [Tailor's measuring tape (150 cm)](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): To measure around tree trunks in Hug a Tree and the Plant Friend diary. Used in a3, p1. 
-- [Bean or bottle gourd seeds](https://www.amazon.in/s?k=bottle+gourd+seeds) (material): To grow a climber for the Circling Shoot and A Ladder for a Climber. Used in a5, c1. Sow them about two weeks before you plan the Circling Shoot, so the shoot is long enough.
+- [Bean or bottle gourd seeds](https://www.amazon.in/s?k=bottle+gourd+seeds) (material): To grow a climber for the Circling Shoot and A Ladder for a Climber. Used in a5, c1. Sow them in a pot at the start of the unit, two weeks before the Circling Shoot, so the shoot is long enough.
 - [Jute twine or coir rope](https://www.amazon.in/s?k=jute+twine) (material): Plant fibres to twist into rope in Twist a Plant Rope. Used in a6. 
-- [A piece of banana stem from the vegetable market](https://www.amazon.in/s?k=banana+stem) (material): For the Banana Plant Puzzle. It is sold as a vegetable in many Indian markets. Used in a4. Buy it fresh from a local market on the day you do the activity.
-- [Trees of Delhi: A Field Guide, by Pradip Krishen](https://www.amazon.in/s?k=Trees+of+Delhi+Pradip+Krishen) (book): For the parent: a beautiful, clear guide to identifying common Indian trees by leaf, bark and flower. Useful well beyond Delhi. Used in a1, p1. Use it in the Plant Count and in the Plant Friend diary to name the trees you find.
-- [Wangari's Trees of Peace, by Jeanette Winter](https://www.amazon.in/s?k=Wangari%27s+Trees+of+Peace) (book): A picture book about Wangari Maathai, who started a movement of Kenyan women planting trees. Used in p1. Read it together during the Plant Friend weeks, alongside the card on people who stood up for trees.
+- [A piece of banana stem from the vegetable market](https://www.amazon.in/s?k=banana+stem) (material): For the Banana Plant Puzzle. It is sold as a vegetable in many markets, especially in the south and in Bengal. If you cannot find it, leave that activity for another time. Used in a4. Buy it fresh from a local market on the day you do the activity.
+- [Trees of Delhi: A Field Guide, by Pradip Krishen](https://www.amazon.in/s?k=Trees+of+Delhi+Pradip+Krishen) (book): For the parent: a beautiful, clear guide to identifying common Indian trees by leaf, bark and flower. Useful well beyond Delhi. Used in a1, p1. 
 
 ## Warm-up
 - A plant with one thick woody trunk is called a ____. → Tree.
@@ -906,9 +904,9 @@ Green and Growing (sci.plants.L3): Topic-level song
 - Is every natural plant safe to eat? → No. Some, like kaner, are poisonous.
 
 ## Plan
-- Start options: story, a1, e1, a4, g1, big_questions, cards
+- Start options: story, a1, e1, g1, big_questions, cards
 - Default order: intro → a1 → summary → terms → e1 → explanations → story → g1 → a2 → a4 → e2 → videos → ws-core → a3 → e3 → a5 → c1 → agreed → challenging → g2 → big_questions → ws-stretch → a6 → c2 → p1 → ws-challenge → open_questions → roots → quiz
-- Core: a1, e1, g1, a2, a4, ws-core
+- Core: a1, e1, g1, a2, ws-core
 
 ## Sources
 - DeepKids HomeSchooling Track, Activities for Lesson Journey: nature walk, Nature Bingo, sorting and tallies into bar graphs, Nature Map (used in the Plant Count, Five Kinds Bingo and the maths)

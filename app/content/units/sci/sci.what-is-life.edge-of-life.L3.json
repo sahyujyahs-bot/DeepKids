@@ -667,6 +667,7 @@
     "Choose a mat: ALIVE, NOT ALIVE or ARGUE IT. Put the card on it.",
     "Give your reason. Point to at least one sign card that helped you decide. A good reason wins one token. If the tokens run out, keep score on paper.",
     "Anyone who disagrees can argue back with a different sign card. A good argument also wins a token.",
+    "If time is short, stop after 10 mystery cards.",
     "When the cards run out, the player with the most tokens wins. If two players tie, they both win. Then look at the ARGUE IT mat together."
    ],
    "setup": [
@@ -735,7 +736,7 @@
      "do": "Take turns drawing cards. Each player places a card and gives a reason. Hand out a token for every good reason or good argument.",
      "say": "Your turn. Read the card. Choose a mat. Point to a sign card and tell us why. If you disagree with someone, argue back with another sign card.",
      "kid": "Take a card. Read it. Choose a mat. Point to a sign card and say why. You can argue back if you disagree.",
-     "parent": "Good reasons name a sign. For example: 'The seed is alive, because a seed is made of cells and grows when water arrives.' Expected places: the virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Your hair is another: the hair you see is dead cells, pushed out by living cells at the root. Accept any well-argued answer.",
+     "parent": "Good reasons name a sign. For example: 'The seed is alive, because a seed is made of cells and grows when water arrives.' Expected places: the candle flame goes on NOT ALIVE. The virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Your hair is another: the hair you see is dead cells, pushed out by living cells at the root. Accept any well-argued answer.",
      "ask": [
       {
        "q": "The mule can't have babies. Are they still alive?",
@@ -780,7 +781,7 @@
    "id": "g2",
    "title": "The Sign Collectors",
    "mins": 20,
-   "players": "2 to 4 players, or one child with the app",
+   "players": "2 to 4 players",
    "context": "This is a collecting game. Each player is a tricky case, like fire or a robot. Players try to collect the nine signs of life, but can only tick a sign their character can honestly do.",
    "printables": [
     {
@@ -841,7 +842,7 @@
     },
     {
      "kind": "score sheet",
-     "title": "Sign sheet with 9 boxes for each player",
+     "title": "Sign sheet with 9 boxes (print one for each player)",
      "items": [
       "Moves",
       "Gets energy from food",
@@ -860,9 +861,9 @@
     "Shuffle the sign cards and put them face down.",
     "On your turn, draw a sign card and read it.",
     "Ask: can my character honestly do this? If the others agree, tick that box on your sheet.",
-    "If not, or if that box is already ticked, put the card on the 'can't do it' pile and say why.",
+    "If not, or if that box is already ticked, put the card on a 'can't do it' pile and say why.",
     "After 6 rounds each, everyone counts their ticks.",
-    "The winner is the character with the most ticks. Then everyone checks: did anyone tick 'Made of cells' and 'Passes on instructions'?"
+    "The winner is the character with the most ticks. If two players tie, they both win. Then everyone checks: did anyone tick 'Made of cells' and 'Passes on instructions'?"
    ],
    "setup": [
     {
@@ -948,7 +949,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the candle trial, one candle flame lit a second candle. Why is that not the same as a hen having a chick?",
+     "p": "One candle flame can light a second candle. Why is that not the same as a hen having a chick?",
      "opts": [
       "The new flame is smaller than the old one",
       "Flames are too hot to have young",
@@ -956,17 +957,7 @@
       "A chick gets instructions from the hen's cells. A new flame gets none"
      ],
      "a": 3,
-     "why": "Every living thing passes a copy of their instructions, inside their cells, to their young. A flame has no cells and no instructions. Any spark would light the second candle just as well. Picking 'too hot' mixes up heat with life.",
-     "how": "a2"
-    },
-    {
-     "t": "fill",
-     "p": "In the candle trial, a glass tumbler went over the flame and the flame went out. The flame had used up much of the ____ in the air under the glass.",
-     "a": [
-      "oxygen"
-     ],
-     "why": "A flame needs oxygen, a gas in the air. So do your cells. Under the glass no new air could come in, so the flame went out. A strong answer names oxygen, not just 'air'.",
-     "how": "a2"
+     "why": "Every living thing passes a copy of their instructions, inside their cells, to their young. A flame has no cells and no instructions. Any spark would light the second candle just as well. Picking 'too hot' mixes up heat with life."
     },
     {
      "t": "mcq",
@@ -1035,6 +1026,14 @@
      "why": "The yeast, the seed and the water bear are alive, even when resting. Paper and coconut shell came from living plants, so they are once alive. The flame, the crystals and the toy were never part of a living thing. A strong sorter does not put the resting yeast or water bear under Once alive."
     },
     {
+     "t": "fill",
+     "p": "Every living thing is made of tiny building blocks called ____.",
+     "a": [
+      "cells"
+     ],
+     "why": "A cell is the smallest part of a living thing that is alive. Fire, crystals and robots are not made of cells, and that is one big reason they are not alive."
+    },
+    {
      "t": "match",
      "p": "Each tricky case needs a test to show the truth about it. Match each case to the best test.",
      "pairs": [
@@ -1061,13 +1060,6 @@
      ],
      "a": "see pairs",
      "why": "Each test checks the sign of life that the tricky case seems to have, or seems to lack. A good tester picks the test that could prove them wrong."
-    },
-    {
-     "t": "truefalse",
-     "p": "A dry seed that has sat in a kitchen jar for a whole year must be dead, because they have not grown at all.",
-     "a": false,
-     "why": "False. A dry seed is dormant. Plate 3 in the sleeping seeds experiment showed this: dry seeds did nothing all week, then grew once they got water.",
-     "how": "e1"
     },
     {
      "t": "mcq",
@@ -1215,12 +1207,6 @@
       "tun"
      ],
      "why": "A tun is a water bear with nearly all their water gone. Their life processes almost stop until water comes back."
-    },
-    {
-     "t": "truefalse",
-     "p": "If you put a dried, curled-up water bear into a drop of water, they may uncurl and walk again within a few hours.",
-     "a": true,
-     "why": "True. Water wakes a tun. In minutes to hours the water bear soaks up water, uncurls and walks. Some have woken after about 30 years frozen."
     },
     {
      "t": "mcq",
@@ -1446,29 +1432,10 @@
      "why": "A flame and a living body both keep their shape while new stuff flows through them. That is part of why fire is such a tricky case. A stone keeps its shape with nothing flowing through it."
     },
     {
-     "t": "mcq",
-     "p": "A robot on Mars adds sugar water to a spoon of soil, and gas comes out. Then the robot heats a second spoon of the same soil very hot first. Gas still comes out. What is the best conclusion?",
-     "opts": [
-      "There is definitely life in the soil",
-      "The gas probably comes from ordinary chemistry, because the heat would have killed any living things",
-      "Heating soil creates life",
-      "The robot must be broken"
-     ],
-     "a": 1,
-     "why": "Heat kills living things, but most chemical reactions still happen. If the heated soil gives gas too, life did not make it. A strong answer explains why the heated soil is the comparison.",
-     "how": "c1"
-    },
-    {
-     "t": "mcq",
-     "p": "A lotus seed found in a dry lake bed in China was about 1,300 years old. Given water, the seed sprouted. What does this tell us?",
-     "opts": [
-      "The seed came back from the dead",
-      "Water can make anything alive",
-      "Lotus seeds are not really seeds",
-      "A dormant seed's cells can stay alive, resting, for a very long time"
-     ],
-     "a": 3,
-     "why": "The seed was never dead. Their cells were alive but resting for about 1,300 years. Picking 'came back from the dead' is a common first guess, but dead things never wake. Dormant ones do."
+     "t": "truefalse",
+     "p": "A mango picked from the tree is still alive for a few days, while the mango ripens on the kitchen shelf.",
+     "a": true,
+     "why": "True. The mango's cells are still breathing and using stored food, so the mango keeps changing. Only when the cells stop working and the mango rots is it no longer alive."
     },
     {
      "t": "truefalse",
@@ -1487,6 +1454,13 @@
      ],
      "a": 2,
      "why": "The rock, called ALH84001, was found in Antarctica. Its shapes could be made without life. Big claims need strong evidence, and a shape is easy to be fooled by."
+    },
+    {
+     "t": "write",
+     "p": "Pick any one sign of life. Give one non-living thing that has the sign, and one living thing that seems to lack it.",
+     "lines": 4,
+     "a": "For example, moving: a river moves but is not alive, and a banana tree hardly moves but is alive. Or making young: a flame lights new flames but is not alive, and a mule never has young but is alive.",
+     "why": "A strong answer shows that no single sign is enough, using one real example from each side."
     },
     {
      "t": "sort",
@@ -1561,7 +1535,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story 'The Dust in the Gutter', Maria's tiny wheel-animals dried out and woke again and again. Predict: if you dried out a moong seedling with a long root and green leaves, then watered them, would they wake like a dry seed?",
+     "p": "Rotifers, the tiny wheel-animals in the story 'The Dust in the Gutter', can dry out and wake again. Predict: if you dried out a moong seedling with a long root and green leaves, then watered them, would they wake like a dry seed?",
      "opts": [
       "Yes, every plant can dry out and wake again",
       "Yes, but only in the dark",
@@ -1640,8 +1614,7 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a hand lens",
@@ -1649,7 +1622,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Do not eat raw seeds from the experiment. Wash hands after handling them. Keep pebbles away from very small children.",
+   "safety": "Keep pebbles and seeds away from children under 5.",
    "schedule": [
     {
      "day": 1,
@@ -1683,7 +1656,7 @@
     }
    ],
    "record": "Fill in the table each day. Draw the three plates side by side each day. On the last day, draw a line chart of the longest root on plate 1, one point for each day.",
-   "context": "This is the sleeping seeds experiment. You put dry seeds and pebbles on wet cotton, and more dry seeds on dry cotton, and watch for five days.",
+   "context": "This is the sleeping seeds experiment. You put dry seeds and pebbles on wet cotton, and more dry seeds on dry cotton, and watch for five days. Then you water the dry seeds.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example results: the longest moong root on wet cotton",
@@ -1786,7 +1759,15 @@
      "mins": 3,
      "do": "On day 5, after the last check, add water to plate 3, the dry seeds. Look at it again tomorrow.",
      "say": "Plate 3 has been dry all this time. Were those seeds dead, or still waiting? Let's give them water and see.",
-     "kid": "Plate 3 was dry all week. Are its seeds dead or waiting? Give them water. Look again tomorrow.",
+     "kid": "Plate 3 was dry all week. Are its seeds dead or waiting? Give them water. Look again tomorrow."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "On day 6, look at plate 3 again. Ask your child to say or write three short sentences: what I think, what I saw, and why.",
+     "say": "Now tell me what you found. What do you think now about dry seeds? What did you see that shows it? And why do you think it happened?",
+     "kid": "Now say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a dry seed is alive, only resting. What I saw: for example, the seeds on wet cotton grew roots about 40 mm long by day 5, but the pebbles on wet cotton did not change, and the dry seeds swelled once they got water. Why: the seed has a baby plant inside that wakes up when the seed gets water.",
      "check": {
       "t": "mcq",
       "q": "The dry seeds did nothing all week. Then you gave them water, and the next day they swelled up. What does this show?",
@@ -1797,16 +1778,8 @@
        "Seeds are not living things"
       ],
       "a": 1,
-      "why": "The seeds were dormant: alive but resting. Their life processes went on very slowly all week. Picking 'dead and brought back' is how most people first explain it. But water can never bring dead things back to life. The pebbles show that."
+      "why": "The seeds were dormant: alive but resting. Their life processes went on very slowly all week. Picking 'dead and brought back' is how many people first explain it. But water cannot bring a dead seed back: a boiled seed stays still in water."
      }
-    },
-    {
-     "id": "s6",
-     "mins": 5,
-     "do": "On day 6, look at plate 3 again. Ask your child to say or write three short sentences: what I think, what I saw, and why.",
-     "say": "Now tell me what you found. What do you think now about dry seeds? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a dry seed is alive, only resting. What I saw: for example, the seeds on wet cotton grew roots about 40 mm long by day 5, but the pebbles on wet cotton did not change, and the dry seeds swelled once they got water. Why: the seed has a baby plant inside that wakes up when the seed gets water."
     }
    ]
   },
@@ -1859,11 +1832,10 @@
     },
     {
      "item": "a piece of string and a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     }
    ],
-   "safety": "A grown-up makes the warm water. It must feel like bath water, not hot. Do not drink the mixture.",
+   "safety": "Keep balloons and bottle caps away from children under 5.",
    "schedule": [
     {
      "day": 1,
@@ -1937,7 +1909,7 @@
      "say": "Let's look at the bottles. Do you see bubbles? Froth? Is any balloon standing up? Living things take in food and give off waste. What could the gas be?",
      "kid": "Look at the bottles. Do you see bubbles? Is a balloon filling up? Check again in a while.",
      "wait": "Check again after 30 minutes.",
-     "parent": "Bottle 1 should froth and its balloon should slowly stand up and fill. Bottle 2 will be slow. Bottle 3 will not change. The gas is carbon dioxide, the same gas you breathe out. If the balloon on bottle 1 is still small at 30 minutes, leave it for another half hour. If nothing at all happens, the yeast may be old: try a fresh packet."
+     "parent": "Bottle 1 should froth and its balloon should slowly stand up and fill. Bottle 2 will be slow. Bottle 3 will not change, apart from a small puff at first as the warm air in the bottle expands. The gas is carbon dioxide, the same gas you breathe out. If the balloon on bottle 1 is still small at 30 minutes, leave it for another half hour. If nothing at all happens, the yeast may be old: try a fresh packet."
     },
     {
      "id": "s4",
@@ -2007,15 +1979,14 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a dark steel plate or a black paper",
      "qty": 1
     }
    ],
-   "safety": "Do not drink the salty water. Put the jars where nobody will knock them over.",
+   "safety": "Glass jars can break. Stand them where nobody will knock them over.",
    "schedule": [
     {
      "day": 1,
@@ -2058,7 +2029,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show your child some salt grains through the hand lens.",
+     "do": "Show your child some salt grains through the hand lens. Ask for a guess: will anything grow on a thread in salty water, and on a thread in plain water?",
      "say": "Look at these salt grains. What shape are they? These are crystals. We are going to grow bigger ones. If they grow, are they alive?",
      "kid": "Look at salt grains with the lens. What shape are they? We will grow bigger ones. If they grow, are they alive?",
      "context": "This is the start of the crystal garden. It asks whether something that grows has to be alive."
@@ -2084,7 +2055,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your drawings of them. Go through the signs of life one by one.",
+     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment (or your drawings of them), or your drawings of them. Go through the signs of life one by one.",
      "say": "Let's put our crystal on trial. Does it move? Eat? Get energy from food? Sense? Make young? Get rid of waste? Is it made of cells? Now the seedling. What is the difference in how they grew?",
      "kid": "Put your crystal on trial. Go through each sign. Then try the seedling. How did each one grow?",
      "check": {
@@ -2092,12 +2063,12 @@
       "q": "The crystal and the seedling both grew. What is the big difference?",
       "options": [
        "The crystal grew faster",
-       "The crystal grew by adding salt on the outside. The seedling grew from inside, by turning water and air into new parts",
+       "The crystal grew by adding salt on the outside. The seedling grew from inside their own cells, building new parts from water and the food stored in the seed",
        "The seedling is bigger",
        "There is no difference, so both are alive"
       ],
       "a": 1,
-      "why": "A crystal grows only by stacking more of the same particles on its outside. A seedling takes in water and air and builds new parts, like a root and leaves, from inside their cells. Picking 'no difference' usually means treating any growing as a sign of life. Growing alone is not enough."
+      "why": "A crystal grows only by stacking more of the same particles on its outside. A seedling takes in water and builds new parts, like a root and leaves, from inside their cells, using food stored in the seed. Picking 'no difference' usually means treating any growing as a sign of life. Growing alone is not enough."
      },
      "how": "e3"
     },
@@ -2482,7 +2453,7 @@
      "id": "s2",
      "mins": 3,
      "do": "The parent is the cell, sitting by the box full of blocks. Your child drifts to the box and pushes the note through the door.",
-     "say": "Now you bump into a living cell. You slip your instructions inside. The cell reads them, just as they read their own.",
+     "say": "Now you bump into a living cell. You slip your instructions inside. The cell reads your note like its own instructions.",
      "kid": "You drift to the cell. Push your note through the door. The cell reads it.",
      "parent": "Read the note aloud, slowly and clearly: 'Make more of me.'"
     },
@@ -2579,7 +2550,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Look at the table together.",
-     "say": "The toy moves and maybe senses. The plant hardly moves at all, but they tick almost every box. So which is alive? What is the toy missing?",
+     "say": "The toy moves and maybe senses. The plant hardly moves at all, but ticks almost every box. So which is alive? What is the toy missing?",
      "kid": "Look at your table. Which has more ticks? What is the toy missing?",
      "check": {
       "t": "mcq",
@@ -2749,7 +2720,7 @@
      "do": "Set up the exhibits. Your child gives a tour. Each visitor asks one hard question.",
      "say": "Welcome to the museum. Please tell us about each exhibit. Which one is the hardest to decide about?",
      "kid": "Set up your museum. Give your family a tour. Answer one hard question about each exhibit.",
-     "parent": "Good hard questions: 'If the virus can make copies, why aren't they alive?' 'If the seed does nothing, how do you know they are alive?' 'Fire makes new fires. Isn't that having babies?'",
+     "parent": "Good hard questions: 'If the virus can make copies, why aren't they alive?' 'If the seed does nothing, how do you know they are alive?' 'A cloud grows, moves and splits. Why isn't it alive?'",
      "check": {
       "t": "mcq",
       "q": "A visitor says: 'The crystal grows, so it must be alive.' What is the best reply?",
@@ -2825,7 +2796,7 @@
      "say": "Soil from a plant pot is full of tiny living things. Heating the soil kills most of them. If our test works, which bottle should make more gas?",
      "kid": "Add sugar water to pot soil and to heated soil. Cover both with a balloon. Check tomorrow. Which one made gas?",
      "wait": "Check the next morning.",
-     "parent": "A grown-up heats the soil in a dry pan, stirring, for about 10 minutes, then lets it cool. The pot soil balloon may only stand up a little, because bacteria and fungi in soil give off only a small amount of carbon dioxide. So also look for tiny bubbles and a sour smell. The heated soil should show much less. If neither bottle changes, the soil may be very dry or old: try soil from a pot that is watered often. This is close to what the Viking landers did on Mars in 1976.",
+     "parent": "A grown-up heats the soil in a dry pan, stirring, for about 10 minutes, then lets it cool. The pot soil balloon may only stand up a little, because bacteria and fungi in soil give off only a small amount of carbon dioxide. So also look for tiny bubbles and a sour smell. The heated soil should show much less. The difference may be small, so do not expect a big balloon. If neither bottle changes, the soil may be very dry or old: try soil from a pot that is watered often.",
      "adult": true
     },
     {
@@ -2847,7 +2818,8 @@
       "why": "A comparison shows what happens when the living things are killed. If heated soil makes as much gas as fresh soil, the gas probably came from ordinary chemistry, not life. But heat can change some chemicals too. That is one reason scientists still argue about the Viking results. This is like the pebble plate in the sleeping seeds experiment. Picking 'heated soil is more alive' is the opposite of the idea."
      }
     }
-   ]
+   ],
+   "safety": "A grown-up heats the soil in a pan. The pan and soil stay hot for a while: let them cool fully before children touch them."
   },
   {
    "id": "c2",
@@ -3096,7 +3068,7 @@
   "Scientists who study water bears hope to learn how to store medicines and vaccines dry, without a fridge.",
   "NASA and other space agencies design robots and tests to search for signs of life on Mars and other worlds.",
   "Food is kept in the fridge because cold slows down the bacteria and fungi that spoil food.",
-  "Dried fruits and papad last long because, without water, germs cannot grow well. Pickles last because of salt, oil and sourness.",
+  "Dried fruits and appalam (papad) last long because, without water, germs cannot grow well. Pickles last because of salt, oil and sourness.",
   "Fire fighters use the 'fire needs fuel, air and heat' idea. Take away one, and the fire dies.",
   "Viruses that attack only bacteria, called phages, are being tested as medicines against infections.",
   "Engineers build robots that copy living things, like walking, grasping or finding their way."
@@ -3115,11 +3087,11 @@
    "art": "A brick wall in a lane, covered in bright green moss."
   },
   {
-   "text": "A diya flame at a festival: it moves and uses oil and air, but by the biologists' tests it is not alive.",
+   "text": "A diya flame at Karthigai Deepam or Diwali: it moves and uses oil and air, but by the biologists' tests it is not alive.",
    "art": "A clay diya with a bright flame on a doorstep."
   },
   {
-   "text": "Rock salt (sendha namak) at the grocer: a crystal that grew by adding on.",
+   "text": "Rock salt (sendha namak, or kallu uppu) at the grocer: a crystal that grew by adding on.",
    "art": "Pink chunks of rock salt in a shop bin."
   },
   {
@@ -3166,7 +3138,7 @@
   }
  ],
  "ask_kids": [
-  "Is this cup of tea alive? Is the steam? Why not?",
+  "Is this cup of filter coffee alive? Is the steam? Why not?",
   "If you dried an ant, would they wake up in water like a water bear? Why not?",
   "Which thing on this table do you think is the trickiest case?",
   "The fan moves and the plant doesn't. Which one is alive?",
@@ -3185,10 +3157,6 @@
   {
    "j": "What did the candle say to the birthday cake?",
    "a": "I'm not alive, but I'm still the life of the party."
-  },
-  {
-   "j": "What do you call a water bear who has been asleep for 30 years?",
-   "a": "Well rested."
   },
   {
    "j": "Why did the salt crystal not need a lunchbox?",
@@ -3381,7 +3349,7 @@
    "id": "b-lens",
    "item": "Hand lens (magnifying glass), 5 to 10 times",
    "kind": "tool",
-   "why": "To look at seeds, roots, salt crystals and dried yeast up close.",
+   "why": "To look at seeds, roots, salt crystals and dried yeast up close. A phone camera zoomed in also works.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
@@ -3397,18 +3365,6 @@
    "url": "https://www.amazon.in/s?k=clip+on+mobile+microscope+lens",
    "used_in": [
     "a3"
-   ]
-  },
-  {
-   "id": "b-ruler",
-   "item": "30 cm ruler",
-   "kind": "tool",
-   "why": "To measure roots, crystals and the string round the balloons.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e1",
-    "e2",
-    "e3"
    ]
   },
   {
@@ -3567,7 +3523,7 @@
   "deep_truth": {
    "truth": "A cold spoon mists over when held above a candle flame, and when you breathe on it. The flame and your cells both join fuel with oxygen, and give out heat and water. The flame does it all at once, and your cells do it slowly, in many small steps. So you need to breathe for the same reason a candle needs air.",
    "habit": "We think living things run on some special life-stuff that fire, rocks and machines lack. People called this idea vitalism. But your cells free their energy by the same kind of change as a flame.",
-   "evidence": "In the candle trial, the flame needed air, gave out warmth and misted a cold spoon, just as your body and breath did. In 1783 Lavoisier and Laplace found that a guinea pig's body heat was close to the heat from burning charcoal that made the same amount of carbon dioxide."
+   "evidence": "If you did the candle trial, the flame needed air, gave out warmth and misted a cold spoon, just as your body and breath did. In 1783 Lavoisier and Laplace found that a guinea pig's body heat was close to the heat from burning charcoal that made the same amount of carbon dioxide."
   },
   "three": {
    "who_am_i": "You are warm because your cells join food with oxygen, the same change that makes a flame hot. You are made of the same kinds of atoms as rocks, air and stars.",
@@ -3625,5 +3581,6 @@
   "who": "Antoine Lavoisier and Marie-Anne Paulze Lavoisier, with Pierre-Simon Laplace",
   "when": "The 1770s to 1783",
   "wrong_idea": "That burning gives off a hidden substance called phlogiston. Weighing showed that burning metals get heavier, because they join with oxygen from the air. Lavoisier's own wrong idea, that breathing burns food in the lungs, was corrected later: it happens in every cell."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge in order as a family would, with 2 players and with 4. Games: g1 has 20 mystery cards, 3 mats, 9 sign cards and 30 tokens, all listed; I added a stop-early rule, the candle flame to the answer notes, and a tie rule plus a 'can't do it' pile for g2, and dropped the 'one child with the app' option because it is a paper game. Experiments: e1 now asks the dry-seed check on day 6 after the family has seen plate 3 swell, and e3 now has the guess its schedule promised; I trimmed the Safety lines to real hazards (small parts, balloons, glass, hot soil and pan for c1) and added a hot-pan line to c1, and removed the b-ruler buy item because every home has a ruler. The core worksheet no longer depends on the optional candle trial (fire is outside the core path), and the deep truth now says 'if you did the candle trial'. I deleted five repeated worksheet questions (oxygen fill-in, dry-seed true/false, water bear true/false, heated-soil prediction, lotus seed) and added three new ones (cells fill-in, picked mango, one sign of life) to keep each sheet at 15 and reworded the Maria question so the question does not use her imagined tests as fact. Jokes cut to 9. A few foods and festivals were swapped for South Indian ones (filter coffee, Karthigai Deepam, kallu uppu, appalam). The balloon example numbers (30, 14, 10 cm) are made up and may be a little high for a real 30-minute test; the parent notes say what to do if the balloon stays small. Not checked: whether the water bear hunt (a3) finds anything in a given city, which is why it stays optional."
 }

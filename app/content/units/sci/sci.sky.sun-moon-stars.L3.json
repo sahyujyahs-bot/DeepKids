@@ -518,7 +518,7 @@
   {
    "q": "Is the Sun 'ours'? Or is it just the star we happen to live near?",
    "kind": "big",
-   "hint": "Plants, animals and people on Earth all live on its light. Does that make it ours, or do we belong to it?"
+   "hint": "Plants, people and other animals on Earth all live on its light. Does that make it ours, or do we belong to it?"
   },
   {
    "q": "The calcium in your bones and the iron in your blood were made inside stars. Are those atoms really yours, or are you borrowing them for a while?",
@@ -688,8 +688,8 @@
       },
       "A glowing phone screen",
       "TEST IT: in a dark room, can you see a steel spoon with the torch off? With it on?",
-      "TEST IT: hold a white ball near a torch in the dark. Which side is bright?",
-      "TEST IT: tonight, find one dot that twinkles and one that does not.",
+      "TEST IT: in a dark room, shine a torch on a white wall. Is the wall making light? Switch the torch off to check.",
+      "TEST IT: in a dark room, hold your hand in front of a lit phone screen. Can you see your hand? Where does the light on your hand come from?",
       "TEST IT: look at a mirror in a dark room. Does it give any light by itself?"
      ]
     },
@@ -733,7 +733,7 @@
     "On your turn, take the top card and read it out loud.",
     "Decide: does this thing make its own light, or does it only reflect light? Put it on the LIGHT SOURCE mat or the REFLECTOR mat.",
     "Then say where the light comes from. For a reflector, say what lights it up. A good reason wins one star token. The grown-up decides whether a reason is good.",
-    "If you draw a TEST IT card, everyone does the test together and guesses first. The first to explain the result wins two tokens. The sky test is done tonight, and its tokens are given tomorrow.",
+    "If you draw a TEST IT card, everyone does the test together in a room you can make dark, with a torch and a phone. Everyone guesses first. The first to explain the result wins two tokens.",
     "If the star tokens run out, keep score on paper. When the cards run out, the player with the most stars wins. If two players tie, they share the win."
    ],
    "flow": [
@@ -782,7 +782,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "When a TEST IT card comes up, stop and do the test together. Everyone guesses first. Save the sky tests for tonight.",
+     "do": "When a TEST IT card comes up, stop and do the test together in a dark room. Everyone guesses first.",
      "say": "Before we test it, everyone guess what will happen. Then let's try it and see who was right.",
      "kid": "A TEST IT card! First, guess what will happen. Then try it. Were you right?",
      "ask": [
@@ -852,7 +852,7 @@
     "Make the night sky (see step 1). Put the wanderer tokens on the dotted path, each next to a different star.",
     "One player is the mover. Everyone else is a sky-watcher. The sky-watchers look at the board for 20 seconds, then close their eyes. This is one night passing.",
     "The mover moves ONE wanderer a little way along the dotted path. The Moon may move a big step. Planets move only a small step. A wanderer that reaches the end of the path goes back to the start.",
-    "The sky-watchers open their eyes. On a count of three, each points at the wanderer they think moved. Each who is right scores one point in the log.",
+    "The sky-watchers open their eyes. On a count of three, each points at the wanderer they think moved. Each who is right scores one point in the log. If nobody is right, the mover scores one point.",
     "Swap so a new player is the mover. When everyone has been the mover 3 times, the highest score wins. If players tie, they share the win."
    ],
    "flow": [
@@ -867,7 +867,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. The sky-watchers study the board for 20 seconds, then close their eyes. 2. The mover moves one wanderer along the path. 3. The sky-watchers open their eyes and point together. 4. Write the round in the log. Swap the mover each round.",
+     "do": "1. The sky-watchers study the board for 20 seconds, then close their eyes. 2. The mover moves one wanderer along the path. 3. The sky-watchers open their eyes. On a count of three, each points at the wanderer they think moved. A right guess scores a point. If nobody is right, the mover scores a point. 4. Write the round in the log. Swap the mover each round.",
      "say": "Remember where everything is. Close your eyes. A night is passing. Now open them. Which wanderer moved?",
      "kid": "Look hard for 20 seconds. Close your eyes. Now open them. Which wanderer moved? Point to it!",
      "ask": [
@@ -1060,14 +1060,6 @@
      "why": "Planets usually shine steadily, while stars twinkle. A bright steady dot in the west after sunset is very often Venus. Picking 'a star' is natural, because people call Venus the evening star. But it is a planet."
     },
     {
-     "t": "fill",
-     "p": "The word planet comes from an old Greek word that means ____.",
-     "a": [
-      "wanderer"
-     ],
-     "why": "Planets slowly wander among the stars from night to night, so people long ago called them wanderers."
-    },
-    {
      "t": "write",
      "p": "Divya, a girl in Class 3, says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain her mistake.",
      "how": "e2",
@@ -1115,6 +1107,19 @@
      "why": "A pinhole viewer lets you see a picture of the Sun without looking at the Sun itself. Looking at the Sun, even for a short time or through sunglasses, can hurt your eyes for ever.",
      "context": "In the pinhole Sun experiment, you make a tiny hole in foil on a card and let sunlight shine through it onto white paper.",
      "how": "e3"
+    },
+    {
+     "t": "mcq",
+     "p": "In the Own Light or Reflected Light test, you made the room dark. Which of these could you still see with the torch switched off?",
+     "opts": [
+      "The steel plate",
+      "The white ball",
+      "A lit phone screen"
+     ],
+     "a": 2,
+     "why": "A phone screen makes its own light, so you can see it in the dark. The plate and the ball make no light, so they vanished until the torch shone on them.",
+     "context": "In the Own Light or Reflected Light test, you put a steel plate, a white ball and a phone screen on a table and make the room dark.",
+     "how": "e2"
     }
    ]
   },
@@ -1124,71 +1129,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Look at the chart. A helper walked away with a torch. Each time, Meera, aged 9, gave the torch a brightness score from 5 (dazzling) to 1 (just a faint dot). At which distance did the torch look dimmest?",
-     "opts": [
-      "2 steps",
-      "10 steps",
-      "20 steps",
-      "40 steps"
-     ],
-     "a": 3,
-     "why": "At 40 steps the torch scored 1, the lowest. It was the same torch every time. Only the distance changed. Picking 2 steps usually means the chart was read upside down. A taller bar here means brighter, not dimmer.",
-     "context": "In the near lamp, far lamp test, a helper holds a torch and walks away from you in a dark place. You give it a brightness score each time.",
-     "chart": {
-      "type": "bar",
-      "title": "How bright the torch looked (made-up results)",
-      "x": "Distance away",
-      "y": "Brightness score (5 is dazzling, 1 is a faint dot)",
-      "data": [
-       {
-        "label": "2 steps",
-        "value": 5,
-        "emoji": "🔦"
-       },
-       {
-        "label": "10 steps",
-        "value": 3,
-        "emoji": "🔦"
-       },
-       {
-        "label": "20 steps",
-        "value": 2,
-        "emoji": "🔦"
-       },
-       {
-        "label": "40 steps",
-        "value": 1,
-        "emoji": "🔦"
-       }
-      ]
-     },
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
-     "p": "The Sun is about 109 times as wide as the Earth. In the kitchen model, the Earth is a mustard seed. How big should the Sun be?",
-     "opts": [
-      "About the size of a football",
-      "Another mustard seed",
-      "About the size of a lemon",
-      "As big as a house"
-     ],
-     "a": 0,
-     "why": "A mustard seed is about 2 millimetres wide. 109 mustard seeds in a row make about 22 centimetres, about as wide as a football. Picking a lemon is a common guess, because the Sun looks small in the sky. But a lemon is only about 30 mustard seeds wide.",
-     "context": "In the kitchen-table model, you make the Sun, the Earth and the Moon at the right sizes using a mustard seed for the Earth.",
-     "how": "a2"
-    },
-    {
-     "t": "fill",
-     "p": "Sunlight takes about 8 minutes to reach the Earth. If the Sun suddenly stopped shining, we would keep seeing it for about ____ minutes.",
-     "a": [
-      "8",
-      "eight"
-     ],
-     "why": "The light that already left the Sun would still be on its way to us. It takes about 8 minutes to cross the 15 crore kilometres, so we would see the Sun for about 8 more minutes. A strong answer explains that we always see the Sun as it was 8 minutes ago."
-    },
     {
      "t": "mcq",
      "p": "Through the night, the stars slowly move across the sky in circles. One star, the Pole Star, called Dhruva Tara, hardly moves at all. Why?",
@@ -1340,11 +1280,11 @@
     },
     {
      "t": "write",
-     "p": "Karthik, a boy aged 11 in this unit's story, says stars are tiny sparks. Use the story's lighthouse lamp to explain why they might be giant suns.",
+     "p": "Karthik, a boy aged 11, says in the story that stars are tiny sparks. His cousin Sai, a girl aged 9, has seen the lighthouse lamp. Use that lamp to explain why stars might be giant suns.",
      "lines": 4,
-     "a": "The lighthouse lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.",
+     "a": "In the story, the lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.",
      "why": "A strong answer uses the story as evidence: the lamp was huge, yet looked like a small star from far out at sea. It then links looking small to being far away, not to being small.",
-     "context": "In this unit's story, a made-up lighthouse lamp taller than a man looks like one small star from a fishing boat far out at sea. Real lighthouse lights can be seen from 30 kilometres away or more."
+     "context": "In this unit's story, a lighthouse lamp taller than a man looks like one small star from a fishing boat far out at sea. The story is made up, but real lighthouse lights can be seen from 30 kilometres away or more."
     },
     {
      "t": "write",
@@ -1359,6 +1299,26 @@
      "a": "The Sun in the middle, three planets on round paths around it, and a small moon on a small path round one planet, all labelled.",
      "why": "Planets go round the Sun. Moons go round planets.",
      "art": "A blank page with a small circle labelled 'Sun' in the middle."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Moon always shows us the same face because it does not spin.",
+     "a": false,
+     "why": "False. The Moon does spin. It turns round once in the same time that it goes once round the Earth, so the same side always faces us."
+    },
+    {
+     "t": "mcq",
+     "p": "A town swaps its bare street lamps for lamps with a hood that sends light only downwards. What changes?",
+     "opts": [
+      "The road stays well lit and less light goes up into the sky",
+      "The road gets much darker and the sky stays the same",
+      "The stars get brighter",
+      "Nothing changes"
+     ],
+     "a": 0,
+     "why": "A hood sends the light down onto the road where it is needed, so less escapes upwards to brighten the sky. Picking 'the stars get brighter' is close, but the stars do not change. We can see more of them because the sky is darker.",
+     "context": "In the dark-sky street lamp challenge, you put a card hood over a torch so that it lights the floor but not the ceiling.",
+     "how": "c2"
     }
    ]
   },
@@ -1600,7 +1560,7 @@
      "say": "Look at the torch. How big does it look? As big as a coin, a pea, a grain of rice, or a dot? And how bright, from 5 for dazzling to 1 for just a faint dot?",
      "kid": "Look at the torch. How big does it look? How bright? Give it a score from 5 to 1. Write it down. Do it again at each stop.",
      "adult": true,
-     "parent": "Keep the torch pointing the same way each time, so the test is fair. Never shine the torch into your child's eyes from close up. Far away, the torch will look smaller and dimmer. In a flat or corridor it will not become as faint as a real star, because a star is far, far further. If your space is shorter, use 2, 5, 10 and 15 steps instead. The darker the space, the more the far torch looks like a star."
+     "parent": "Keep the torch pointing the same way each time, so the test is fair. Far away, the torch will look smaller and dimmer. In a flat or corridor it will not become as faint as a real star, because a star is far, far further. If your space is shorter, use 2, 5, 10 and 15 steps instead. The darker the space, the more the far torch looks like a star."
     },
     {
      "id": "s3",
@@ -1861,7 +1821,7 @@
    ],
    "materials": [
     {
-     "item": "a piece of stiff card with a hole about the size of a coin cut in the middle",
+     "item": "a piece of stiff card about the size of a notebook page, with a hole about the size of a coin cut in the middle",
      "qty": 1
     },
     {
@@ -1894,7 +1854,8 @@
      "say": "Today we will see the Sun without ever looking at it. Never look at the Sun itself. It can hurt your eyes for ever, even with sunglasses on.",
      "kid": "Never look at the Sun. Not even for a second. Today you will see the Sun's picture on paper instead.",
      "adult": true,
-     "context": "This is the first step of the Pinhole Sun experiment. You make a card with a tiny hole that will make a safe picture of the Sun."
+     "context": "This is the first step of the Pinhole Sun experiment. You make a card with a tiny hole that will make a safe picture of the Sun.",
+     "parent": "This needs direct sunshine for about 20 minutes, between late morning and mid-afternoon, on a balcony, a terrace or at an open sunny window. If no sun reaches your home, skip this experiment or do it on a day you visit somewhere sunny."
     },
     {
      "id": "s2",
@@ -2072,7 +2033,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a mustard seed (rai), for the Earth",
+     "item": "a mustard seed (rai or kadugu), for the Earth",
      "qty": 1
     },
     {
@@ -2129,7 +2090,7 @@
        ]
       }
      ],
-     "parent": "In this model the Sun is a ball about 22 centimetres wide, 24 metres away. From the mustard seed, the ball looks about as big as the real Sun looks in the sky. At this scale, the nearest other star would be another football about 6,500 kilometres away, about as far as from Delhi to London."
+     "parent": "In this model the Sun is a ball about 22 centimetres wide, 24 metres away. From the mustard seed, the ball looks about as big as the real Sun looks in the sky. At this scale, the nearest other star would be another football about 6,500 kilometres away, about as far as from Delhi to London. If you have no 24 metres of space, pace the longest stretch you have, say where the ball would go, and point in that direction."
     },
     {
      "id": "s4",
@@ -2178,7 +2139,7 @@
      "qty": 1
     },
     {
-     "item": "a yellow dupatta or cloth for the Sun",
+     "item": "a yellow cloth, towel or dupatta for the Sun",
      "qty": 1
     }
    ],
@@ -2194,7 +2155,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. One person is the Sun, standing in the middle with the yellow dupatta. 2. The others are planets. 3. Each planet walks in a circle round the Sun. The nearest ones walk small, quick circles. The further ones walk big, slow circles. If there are only two of you, one is the Sun and one is a planet.",
+     "do": "1. One person is the Sun, standing in the middle with the yellow cloth. 2. The others are planets. 3. Each planet walks in a circle round the Sun. The nearest ones walk small, quick circles. The further ones walk big, slow circles. If there are only two of you, one is the Sun and one is a planet.",
      "say": "The Sun is in the middle. Planets near the Sun go round fast, in small circles. Planets far away go round slowly, in big circles.",
      "kid": "Someone is the Sun, in the middle. You are a planet. Walk in a circle round the Sun. Near ones go fast. Far ones go slow.",
      "context": "This is the first step of the Planet Dance. You act out the Sun and the planets going round it."
@@ -2220,7 +2181,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Add a Moon. A small child, or someone carrying a toy, walks round one planet while that planet walks round the Sun.",
+     "do": "1. Add a Moon. With three of you, a small child or someone carrying a toy walks round one planet. That planet walks round the Sun. 2. With only two of you, the planet carries a toy. They swing it in small circles round themself as they walk round the Sun.",
      "say": "Now the Earth gets a Moon. The Moon goes round the Earth, and the Earth goes round the Sun, carrying the Moon along.",
      "kid": "Now add a Moon! The Moon goes round the Earth. The Earth goes round the Sun. Can you do both at once?",
      "think": "The Moon goes round the Earth, and the Earth goes round the Sun. Does the Sun go round anything?"
@@ -2311,7 +2272,7 @@
      "say": "We'll come back here at the same time for five nights. Draw the skyline first, so we can see if things move. Which dot shines steadily without twinkling?",
      "kid": "Draw the skyline first: buildings, tanks, trees. Then draw the Moon. Then the brightest dots. Which dot does not twinkle?",
      "adult": true,
-     "parent": "Check Stellarium Web before you start. Type your city and the date, and it shows where the Moon is at 7:30 pm. As a rough guide: if you face west, start 2 or 3 days after the new Moon. If you face south, start about 6 days after it. If you face east, start about 11 days after it. From a city you will see only the brightest stars, often fewer than ten near the Moon. That is enough. Venus and Jupiter are easy to see even from a city. If no planet is in your view, follow the Moon alone, and draw one or two bright stars or the skyline next to it.",
+     "parent": "Check Stellarium Web before you start. Type your city and the date, and it shows where the Moon is at 7:30 pm. As a rough guide: if you face west, start 2 or 3 days after the new Moon. If you face south, start about 6 days after it. If you face east, start about 11 days after it. From a city you will see only the brightest stars, often fewer than ten near the Moon. That is enough. A bright planet such as Venus or Jupiter is easy to see even from a city when one is up. The sky map tells you which are up this month. If no planet is in your view, follow the Moon alone, and draw one or two bright stars or the skyline next to it.",
      "context": "This is the first night of the five-night sky diary. You draw the Moon and a bright planet from the same place each evening, to see how they move."
     },
     {
@@ -2321,7 +2282,8 @@
      "say": "Same place, same time. Has the Moon moved? Has its shape changed? What about the planet?",
      "kid": "Same place. Same time. Draw it all again. Has the Moon moved? Is more of it lit?",
      "adult": true,
-     "wait": "Come back each evening at the same time, for 3 more nights."
+     "wait": "Come back each evening at the same time, for 3 more nights.",
+     "parent": "If a night is cloudy, skip it and draw on the next clear night. Gaps in the diary are fine. Just write the date on each drawing."
     },
     {
      "id": "s3",
@@ -2510,7 +2472,8 @@
      "do": "1. Look at a star map of the Saptarishi and Orion together. 2. Copy the stars onto the black paper with a white pencil. Make bright stars a bigger dot.",
      "say": "Let's make our own night sky. Look at the map. Which stars are brightest? We'll make those holes bigger.",
      "kid": "Look at the star map. Copy the Saptarishi and Orion onto black paper. Make the bright stars bigger dots.",
-     "context": "This is the first step of the Shoebox Night Sky project. You make a model of two star patterns that you can shine onto a ceiling."
+     "context": "This is the first step of the Shoebox Night Sky project. You make a model of two star patterns that you can shine onto a ceiling.",
+     "parent": "If you have no star map, draw Orion as three stars in a short row for the belt, with one bright star above each end of the belt for the shoulders and one below each end for the knees. Draw the Saptarishi as a ladle of seven stars: four in a square bowl and three in a bent handle."
     },
     {
      "id": "s2",
@@ -2541,7 +2504,7 @@
     {
      "id": "s5",
      "mins": 12,
-     "do": "1. Put the first torch inside the box, pointing up at the lid. 2. Make the room dark. 3. Your child shows the family the star patterns on the ceiling. A helper moves the planet dot a little at a time with the second torch.",
+     "do": "1. Put the first torch inside the box, pointing up at the lid. 2. Make the room dark. 3. Your child shows the family the star patterns on the ceiling. A second person (the grown-up, if there are only two of you) moves the planet dot a little at a time with the second torch.",
      "say": "Show us your sky. Which stars are suns? Which dot is a wanderer, and where does its light come from?",
      "kid": "Switch off the lights. Shine your sky on the ceiling. Show your family the star patterns. A helper makes the planet wander!",
      "check": {
@@ -2556,10 +2519,10 @@
       "why": "A planet makes no light of its own. It shines because sunlight bounces off it. In your box, the planet dot comes from a torch, which is a light source, so it is only a model. Picking 'the stars around it' is a thoughtful guess. But stars are so far away that their light on a planet is tiny next to the Sun's."
      },
      "think": "In your box, the torch makes every star. In the real sky, what makes each star shine?",
-     "parent": "The star dots are sharpest when the light comes from one small point, like a phone torch or a small LED. Hold the box about 1 to 2 metres below the ceiling. A wide torch gives blurry dots."
+     "parent": "The star dots are sharpest when the light comes from one small point, like a phone torch or a small LED. Hold the box about 1 to 2 metres below the ceiling. A wide torch gives blurry dots. The dots will be fuzzy and fairly faint, but a fully dark room shows them. Use a needle for the holes, because bigger holes give blurrier dots."
     }
    ],
-   "context": "In this 2-day project, you poke star patterns into black paper and shine a torch through them onto the ceiling. You add a bead planet that wanders among the stars.",
+   "context": "In this 2-day project, you poke star patterns into black paper and shine a torch through them onto the ceiling. A second torch with a pinhole makes a planet that wanders among the stars.",
    "setup": [
     {
      "art": "A child copying star dots from a book onto black paper with a white pencil.",
@@ -2628,7 +2591,7 @@
      "say": "Test it. How wide is the Sun's picture? What could you change to make it bigger, or sharper?",
      "kid": "Build it. Test it with your back to the Sun. Measure the picture. Change one thing. Test again.",
      "adult": true,
-     "parent": "The picture's width is about the distance from hole to paper divided by 108. So 1 metre gives about 1 centimetre, and 2 metres gives about 2 centimetres. A sunny balcony or the stairwell can help."
+     "parent": "The picture's width is about the distance from hole to paper divided by 108. So 1 metre gives about 1 centimetre, and 2 metres gives about 2 centimetres. A sunny balcony or the stairwell can help. At 2 metres the picture is faint, so put the paper in shade. A slightly bigger hole makes a brighter but blurrier picture."
     },
     {
      "id": "s4",
@@ -2723,7 +2686,7 @@
      "do": "Read the usual solutions and creative ideas together. Talk about who needs dark skies.",
      "say": "Hanle in Ladakh is India's first dark-sky reserve, where the villages keep their lights low so the stars stay bright. Who else needs dark nights?",
      "kid": "In Hanle, in Ladakh, people keep the night dark for the stars. Who else needs dark nights? Birds? Turtles? You?",
-     "think": "Baby sea turtles hatch at night and crawl towards the brightest light, which used to be the sea. What happens near a bright beach road?"
+     "think": "Baby Olive Ridley turtles hatch at night on Odisha's beaches and crawl towards the brightest light, which used to be the sea. What happens near a bright beach road?"
     }
    ],
    "context": "This is a design challenge. You turn a torch into a street lamp that lights the 'road' on the floor but not the 'sky' on the ceiling. It is about saving the stars from light pollution.",
@@ -2750,7 +2713,7 @@
    "youtube": "HEheh1BH34Q",
    "mins": 4,
    "why": "Starts with the Moon and the planets, then the Sun, then stars far bigger than the Sun, all drawn to scale. There are no words, only music, so a child can watch and talk about it.",
-   "check": "Id checked with YouTube's oEmbed service: the title and channel match. Length is approximate. A parent should preview it, because a few of the giant stars' sizes have been measured again since it was made."
+   "check": "Watch it first. A few of the giant stars' sizes have been measured again since it was made."
   },
   {
    "title": "Powers of Ten (1977)",
@@ -2758,7 +2721,7 @@
    "youtube": "0fKBhvDjuy0",
    "mins": 9,
    "why": "A famous short film that zooms out from a picnic to the Earth, the solar system and the galaxy, then back into a hand and its atoms. It shows how far away the stars are, and how empty space is.",
-   "check": "Id checked with YouTube's oEmbed service: the title and the channel, the Eames Office's own, match. The narration is for grown-ups, so pause and explain. Length is approximate."
+   "check": "The narration is for grown-ups, so pause and explain in your own words."
   },
   {
    "title": "Carl Sagan's Pale Blue Dot OFFICIAL",
@@ -2766,7 +2729,7 @@
    "youtube": "GO5FwsblpT8",
    "mins": 4,
    "why": "For the parent and older children. In 1990 the Voyager 1 spacecraft looked back and photographed the Earth as a tiny dot in a sunbeam. From far enough away, our whole world is a speck, just as every star is a sun seen from far away.",
-   "check": "Id checked with YouTube's oEmbed service: the title and the channel, the official Carl Sagan channel, match. The words are thoughtful and slow, best watched together. Length is approximate."
+   "check": "The words are thoughtful and slow, best watched together."
   }
  ],
  "quiz": [
@@ -2991,7 +2954,7 @@
    "art": "A rooftop in an Indian town with solar panels and a water tank."
   },
   {
-   "text": "Festivals timed by the Moon, like Diwali on a new Moon night and Guru Purnima on a full Moon night.",
+   "text": "Festivals timed by the Sun and the Moon, like Diwali on a new Moon night, Karthigai Deepam on a full Moon night, and Pongal, which thanks the Sun.",
    "art": "Diyas on a doorstep under a dark moonless sky full of stars."
   },
   {
@@ -3283,31 +3246,9 @@
    "kind": "tool",
    "url": "https://www.amazon.in/s?k=planisphere+star+wheel",
    "used_in": [
-    "p1",
-    "a4"
+    "p1"
    ],
    "why": "Turn the wheel to the date and time, and it shows which star patterns are up tonight."
-  },
-  {
-   "id": "b-book-sun",
-   "item": "The Sun Is My Favorite Star, by Frank Asch",
-   "kind": "book",
-   "url": "https://www.amazon.in/s?k=The+Sun+Is+My+Favorite+Star+Frank+Asch",
-   "used_in": [
-    "a1"
-   ],
-   "why": "A gentle picture book for younger children about the Sun as a star that lights and feeds the world."
-  },
-  {
-   "id": "b-book-night",
-   "item": "A Child's Introduction to the Night Sky, by Michael Driscoll",
-   "kind": "book",
-   "url": "https://www.amazon.in/s?k=A+Child%27s+Introduction+to+the+Night+Sky+Driscoll",
-   "used_in": [
-    "a4",
-    "g2"
-   ],
-   "why": "A clear guide to the stars, planets and constellations, with a star wheel."
   }
  ],
  "warmup": [
@@ -3399,7 +3340,6 @@
    "g1",
    "ws-core",
    "a2",
-   "e3",
    "a4"
   ],
   "spine": [
@@ -3497,5 +3437,6 @@
   "who": "Friedrich Bessel, a German astronomer",
   "when": "1838",
   "wrong_idea": "The stars are small lights fixed close beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun."
- }
+ },
+ "playtest": "Walked the unit as a parent and child in a city flat. Both games were printed out item by item and played in my head with 2 and with 4 players: Light Source or Reflector has 24 listed cards, two mats and 20 tokens, and the two TEST IT cards that needed the night sky or a ball were replaced by tests that finish at once in a dark room (white wall, hand in front of a phone screen), so the game ends with a winner on the same day. In Spot the Wanderer the mover now scores a point if nobody spots the moved wanderer, so a two-player game is fair, and the sky is drawn by hand as the step says. Experiments: the torch test no longer carries a pointless eye warning; the pinhole Sun experiment needs direct sunshine, so it now says so and was moved out of the core list; the card size is given. Activities: the Planet Dance works with two people (the planet swings a toy as the Moon), the mustard-seed model says what to do without 24 metres, the sky diary says what to do on cloudy nights and no longer promises a planet, and the yellow dupatta became any yellow cloth. Shoebox Night Sky now says how to draw Orion and the Saptarishi without a map and that the dots are faint, and it calls the planet a torch dot, not a bead. Challenges: the Sun viewer notes the 2 metre picture is faint; the dark-sky lamp uses Odisha's Olive Ridley turtles. Removed the two storybooks from the buy list (no step needs them), the internal oEmbed notes from the video checks, and four repeated worksheet questions (torch bar chart, football Sun, 8 minutes, planet word) because the maths section or other cards already ask them. Three new questions (dark-room visibility, the Moon's spin, hooded street lamps) keep each sheet at 15 items. The lighthouse question now introduces Sai and says the story is made up. Safety fields are only for real hazards (candle, Sun, pins, roof edges). Jokes: nine kept. Not changed: facts were left as they were, and I did not check the planetarium web addresses or the YouTube ids."
 }

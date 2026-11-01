@@ -223,7 +223,7 @@
    "concept": "Storing water, then and now",
    "status": "defined",
    "definition": "Storing water means keeping it safely for later. People store rain and groundwater in pots, tanks, ponds, wells and lakes behind dams.",
-   "description": "Rain in most of India comes mainly in about four months of monsoon. People need water all twelve months. So for thousands of years, people have stored it. About 4,500 years ago, the Harappan city of Dholavira in Gujarat had huge stone reservoirs to hold rainwater. Mohenjo-daro had hundreds of brick wells. Villages built ponds and tanks, and cleaned out the mud together every year. In the Thar desert, families built tankas, covered underground tanks. In western India, people built stepwells, so they could walk down to the water as it fell lower in summer. Women paid for some of the grandest stepwells. Rani ki Vav in Patan was built by Queen Udayamati nearly 1,000 years ago. Today we also use overhead tanks, sumps, steel drums and giant reservoirs behind dams.",
+   "description": "Rain in most of India comes mainly in about four months of monsoon. People need water all twelve months. So for thousands of years, people have stored it. About 4,500 years ago, the Harappan city of Dholavira in Gujarat had huge stone reservoirs to hold rainwater. Mohenjo-daro had hundreds of brick wells. Villages built ponds and tanks, and cleaned out the mud together every year. In Tamil Nadu, villages built eris, big tanks that catch monsoon rain and refill the wells nearby. In the Thar desert, families built tankas, covered underground tanks. In western India, people built stepwells, so they could walk down to the water as it fell lower in summer. Women paid for some of the grandest stepwells. Rani ki Vav in Patan was built by Queen Udayamati nearly 1,000 years ago. Today we also use overhead tanks, sumps, steel drums and giant reservoirs behind dams.",
    "examples": [
     "A matka keeps a family's drinking water for the day.",
     "Rani ki Vav is so beautiful that it is printed on India's 100 rupee note.",
@@ -642,7 +642,7 @@
   "note": "Real: the Broad Street pump and its famous water, the cholera outbreak of 1854, Mrs Susannah Eley in Hampstead who had the pump's water brought to her and died of cholera, her niece from Islington, the brewery workers and the workhouse with their own wells, Dr John Snow's questions and map, and the pump handle taken off on 8 September 1854. In real life, Snow learned about Mrs Eley from one of her sons. Tilly, the carter Mrs Pike, and their talk with Snow are made up.",
   "text": [
    "In the summer of 1854, the best water in London came out of a pump on Broad Street. Everybody said so. It was cold even in August. It was as clear as a window. People walked past two other pumps just to fill their jugs there.",
-   "Tilly was nine, and that pump was her job. Every morning she pumped the long iron handle until a big stone bottle was full. She pushed the cork in tight and lifted the bottle onto Mrs Pike's cart. Then she rode beside Mrs Pike, out of the crowded streets and up the long green hill to Hampstead.",
+   "Tilly was nine, and that pump was her job. Every morning she pumped the long iron handle until a big stone bottle was full. She pushed the cork in tight and lifted the bottle onto the cart of Mrs Pike, the carter. Then she rode beside Mrs Pike, out of the crowded streets and up the long green hill to Hampstead.",
    "In Hampstead, in a quiet house with roses by the door, lived old Mrs Eley. Her sons ran a factory on Broad Street. She had moved away to the fresh air of the hill, but she would drink no water except Broad Street water. 'Hampstead water tastes of nothing,' she told Tilly, every single morning. 'Broad Street water tastes of something.' Then she gave her a biscuit.",
    "At the end of August, a terrible illness came to Broad Street. It was called cholera. It came fast, with a burning thirst and a sickness of the stomach. Some people who were well at breakfast were dead by night. The church bell rang and rang. Families piled their chairs onto carts and fled.",
    "The doctors said it came from bad air. Soho smelled of drains, horses and rubbish, and in those days most people thought illness floated in on a stink. Tilly's mother tied a cloth soaked in vinegar over her nose. 'Breathe through that,' she said, 'and don't you dare stop for anybody.'",
@@ -694,7 +694,7 @@
      "title": "A board of 30 squares, from the cloud to the well",
      "items": [
       "1 START: you fall from a cloud",
-      "2 You land on a forest floor. Soak in. Go forward 3.",
+      "2 You land on a forest floor in the Western Ghats. Soak in. Go forward 3.",
       "3 A tarred road. You run off into a drain. Go back 2.",
       "4 You trickle between sand grains. Sand has big gaps. Go forward 1.",
       "5 A leaf catches you. Miss a turn.",
@@ -705,23 +705,23 @@
       "10 You seep down through gravel. Go forward 1.",
       "11 A tree root drinks you. Miss a turn.",
       "12 A tiled courtyard. You run off. Go back 2.",
-      "13 A village pond. You sink in slowly. Go forward 1.",
+      "13 A village eri, a big rain tank. You sink in slowly. Go forward 1.",
       "14 You rest in the gaps of the rock for a hundred years. Miss a turn.",
       "15 A borewell pumps too fast. Go back 2.",
       "16 You slide sideways through an aquifer, a wet rock layer. Go forward 2.",
       "17 A tanka catches you from a clean roof. Go forward 2.",
       "18 You seep past a leaking sewer pipe and pick up germs. Go back 1.",
-      "19 Someone leaves a tap running. Back to START.",
+      "19 A borewell pumps you up to keep a tap running all day, and the water is wasted. Back to START.",
       "20 You join the groundwater. Go forward 1.",
       "21 You move only a few centimetres today. Groundwater is slow. Miss a turn.",
       "22 A farmer floods a field all afternoon. Go back 3.",
       "23 You pick up some dissolved minerals from the rock. This is normal. Go forward 1.",
       "24 You trickle towards a deep stepwell. Go forward 2.",
-      "25 A family fixes a dripping tap. Go forward 2.",
+      "25 A family fixes a dripping tap, so the borewell pumps less. Go forward 2.",
       "26 You pass through a sand layer, which catches mud. Go forward 2.",
       "27 A cement building covers the ground above you, so rain cannot reach you from above. Go back 2.",
       "28 Rain refills the ground behind you. Go forward 1.",
-      "29 You find a crack in the well wall and slip in. Go forward 1.",
+      "29 Water seeps into the well through gaps in its wall. Go forward 1.",
       "30 WELL: you made it!"
      ]
     },
@@ -748,18 +748,18 @@
    ],
    "rules": [
     "Each player is a raindrop. Everyone starts at the cloud, on square 1.",
-    "Take turns to roll a dice and move that many squares.",
+    "Take turns to roll a dice (from a Ludo set, or pick a slip numbered 1 to 6 from a bowl) and move that many squares.",
     "Read your square out loud and do what it says. Do it once. Do not follow the next square's instructions.",
-    "Miss a turn means you skip your next turn. If you are sent back past square 1, stay on square 1.",
+    "Miss a turn means you skip your next turn. If a square sends you back past square 1, stay on square 1.",
     "Before you move again, say why the square sent you forward or back. For example, 'Cement has no gaps, so rain runs off.'",
-    "If a square sends you back to START, begin again at the cloud.",
+    "If a square says go back to START, begin again at the cloud on square 1.",
     "The first drop to reach or pass square 30, the WELL, wins. Then play again. Can anyone get there without being sent back?"
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put the board in the middle. 2. Give each player a raindrop counter on square 1. 3. Have a dice ready.",
+     "do": "1. Put the board in the middle. 2. Give each player a raindrop counter on square 1. 3. Have a dice ready, or six paper slips numbered 1 to 6 in a bowl.",
      "say": "You are each a raindrop. You have just fallen out of a cloud. Your job is to reach the village well. But the well only gets water from under the ground.",
      "kid": "You are a raindrop! You just fell from a cloud. Your goal is the village well. Put your drop on square 1.",
      "context": "This is the first step of Drop's Journey. It is a board game where each player is a raindrop trying to reach a well."
@@ -767,7 +767,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice turn together. Land on square 3, the tarred road.",
+     "do": "Play one practice turn together. Pretend you land on square 3, the tarred road.",
      "say": "Let's practise. You landed on a tarred road. The square says go back 2. Why?",
      "kid": "Practice turn. You land on a tarred road. Go back 2. Why do you think?",
      "check": {
@@ -804,7 +804,7 @@
        ]
       }
      ],
-     "parent": "Squares 3, 8, 12 and 27 send drops back, because rain runs off hard ground or cannot get in. Squares 6, 19 and 22 send drops back through evaporation and waste. Squares 2, 4, 7, 9, 10, 13, 17, 24 and 26 help, because water soaks in or is kept and cleaned. Square 15 shows over-pumping. Squares 14 and 21 show that groundwater moves slowly. Square 18 shows how dirty water can reach groundwater. Square 23 shows that groundwater carries dissolved minerals from the rock."
+     "parent": "Squares 3, 8, 12 and 27 send drops back, because rain runs off hard ground or cannot get in. Squares 6, 19 and 22 send drops back through evaporation and waste. Squares 2, 4, 7, 9, 10, 13, 17, 24 and 26 help, because water soaks in or is kept and cleaned. Squares 15 and 19 show over-pumping and waste. Square 25 shows that saving water helps too. Squares 14 and 21 show that groundwater moves slowly. Square 18 shows how dirty water can reach groundwater. Square 23 shows that groundwater carries dissolved minerals from the rock."
     },
     {
      "id": "s4",
@@ -817,7 +817,7 @@
    ],
    "setup": [
     {
-     "art": "A printed game board shaped like a winding path from a cloud at the top, down through forest, roads and soil, to a well at the bottom.",
+     "art": "A game board shaped like a winding path from a cloud at the top, down through forest, roads and soil, to a well at the bottom.",
      "caption": "1. Put every raindrop on the cloud, square 1."
     },
     {
@@ -842,7 +842,7 @@
      "title": "20 water cards to cut out",
      "items": [
       "A sealed bottle of water from a shop, with the seal unbroken",
-      "Water from a stream in the hills, clear and very cold",
+      "Water from a stream in the Nilgiri hills, clear and very cold",
       "A puddle on the road after rain",
       "Water from the sea at Marina beach",
       "Water from your home purifier, working properly",
@@ -901,11 +901,12 @@
    ],
    "rules": [
     "Shuffle the 20 water cards. Put them face down in a pile. Put the drop tokens in a bowl.",
-    "The mats mean this. DRINK IT: the water has already been made safe. MAKE IT SAFE FIRST: boiling or a purifier will fix it. NEVER DRINK IT: boiling cannot fix it, or the water is too dirty or too old.",
+    "The mats mean this. DRINK IT: the water has already been made safe. MAKE IT SAFE FIRST: boiling or a purifier will fix it. NEVER DRINK IT: boiling cannot fix it, or it is too dirty, or it is not drinking water at all.",
     "On your turn, take a card and read it out loud.",
     "Put it on one of the three mats and say why. A good reason wins one drop token.",
-    "Other players can challenge you. If they give a better reason, they win the token instead.",
-    "When the cards run out, the player with the most tokens wins. If two players tie, they share the win."
+    "Other players can challenge you. If they give a better reason, they win the token instead. If you cannot agree, the grown-up decides, using the notes in the steps.",
+    "When the cards run out, the player with the most tokens wins. If two players tie, they share the win.",
+    "A card you play as a practice goes back into the pile. The 20 tokens are enough for one token a card."
    ],
    "flow": [
     {
@@ -919,19 +920,19 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play a practice card together: 'Water from a stream in the hills, clear and very cold.'",
+     "do": "Play a practice card together. Use 'Water from a stream in the Nilgiri hills, clear and very cold.' Then put the card back.",
      "say": "This stream water is clear and cold. Is it safe as it is?",
      "kid": "Practice card: clear, cold stream water. Which mat?",
      "check": {
       "t": "mcq",
-      "q": "Water from a stream in the hills, clear and very cold. Which mat?",
+      "q": "Water from a stream in the Nilgiri hills, clear and very cold. Which mat?",
       "options": [
        "DRINK IT: it is clear and cold",
        "MAKE IT SAFE FIRST: boil or purify it",
        "NEVER DRINK IT"
       ],
       "a": 1,
-      "why": "Clear, cold water can still carry germs from animals or people upstream. Germs are far too small to see. Boiling it, or purifying it, makes it safe. Picking 'drink it' usually means trusting how water looks. That is exactly the mistake people made with the Broad Street pump."
+      "why": "Clear, cold water can still carry germs from animals or people upstream. Germs are far too small to see. Boiling it, or purifying it, makes it safe. Picking 'drink it' usually means trusting how water looks. Looking clean does not make water safe."
      }
     },
     {
@@ -949,7 +950,7 @@
        ]
       }
      ],
-     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Old water sits in a hose and a fish tank, and germs grow in the old water. Boiling does not remove salt, arsenic, fluoride or factory chemicals."
+     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the hill stream, the untested handpump (and get it tested), the rainwater, the hotel tap, the settled river water, the street ice, the stepwell where people wash and the water from your own tap. Many families boil or purify city tap water to be sure. NEVER DRINK IT: the puddle, the sea water, the arsenic well, the fluoride borewell, the bucket with the insect, the factory drain, the garden hose and the fish tank. Water that sits in a hose or a fish tank is old and full of germs and waste, and neither is made for drinking. Boiling does not remove salt, arsenic, fluoride or factory chemicals."
     },
     {
      "id": "s4",
@@ -962,7 +963,7 @@
    ],
    "setup": [
     {
-     "art": "Three paper mats on a table, labelled with a glass, a boiling pot and a red cross, and a pile of face-down cards.",
+     "art": "Three paper mats on a table, one with a glass, one with a boiling pot and one with a red cross, and a pile of face-down cards.",
      "caption": "1. Lay out the three mats. Put the cards face down."
     },
     {
@@ -1455,13 +1456,15 @@
      "why": "Anything that lets more rain soak in helps the well. Anything that stops rain soaking in, or takes water out faster than it comes back, makes the well go dry."
     },
     {
-     "t": "fill",
-     "p": "A bucket bath uses one 15-litre bucket. A family of 4 each take a bucket bath. Together they use ____ litres.",
-     "a": [
-      "60",
-      "sixty"
+     "t": "mcq",
+     "p": "Kamala is a farmer in a village in Tamil Nadu. The village eri, a big rain tank, is full of mud and weeds, and the wells nearby are low. What would help the wells most?",
+     "opts": [
+      "Clean out the mud and weeds, so the eri holds more monsoon rain that soaks into the ground",
+      "Cover the eri with cement, so the water cannot escape",
+      "Pump the wells harder, so they fill up faster"
      ],
-     "why": "4 lots of 15 litres is 4 × 15 = 60 litres."
+     "a": 0,
+     "why": "A clean, deep eri holds more monsoon rain, and the water slowly soaks into the ground and refills the wells. Cement stops the rain soaking in. Pumping harder takes out water faster than it comes back."
     },
     {
      "t": "truefalse",
@@ -1755,9 +1758,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look again at the puddle on the tile after 30 minutes, if you can.",
-     "say": "The puddle on the tile is smaller now. Nothing soaked in. So where did the water go?",
-     "kid": "Look at the puddle on the tile again later. Is it smaller? Where did the water go?",
+     "do": "Look again at the puddle on the tile after an hour or two, or the next morning.",
+     "say": "The puddle on the tile is smaller now, or gone. Nothing soaked in. So where did the water go?",
+     "kid": "Look at the puddle on the tile again later. Is it smaller, or gone? Where did the water go?",
      "check": {
       "t": "mcq",
       "q": "A puddle on a tile slowly gets smaller. Where does its water go?",
@@ -1768,7 +1771,8 @@
       ],
       "a": 0,
       "why": "A tile has almost no gaps, so the water cannot soak in. Instead, it slowly turns into water vapour, an invisible gas, and goes into the air. Later, that vapour may become rain again. Picking 'soaks in' means thinking a tile is like soil. Picking 'disappears' means thinking water can be destroyed. It can't. It only moves."
-     }
+     },
+     "wait": "Come back after an hour or two, or the next morning."
     },
     {
      "id": "s4",
@@ -1776,7 +1780,7 @@
      "do": "Talk about the whole street, and the whole city.",
      "say": "Imagine a whole city covered in cement and tar. Where does the monsoon rain go?",
      "kid": "Imagine a whole city of cement. Where does all the rain go? What happens to the wells?",
-     "think": "Why do some cities flood in the monsoon, and then run short of water in summer?"
+     "think": "Why do cities such as Chennai and Mumbai flood in the monsoon, and then run short of water in summer?"
     },
     {
      "id": "s5",
@@ -1920,7 +1924,7 @@
       "a": 0,
       "why": "Groundwater only comes back when rain soaks down through the soil to refill the gaps. Pumping faster makes the level drop more. Covering the soil with plastic, like covering land with cement, stops rain soaking in. Picking 'pumping faster' usually means thinking a well makes its own water. It doesn't. It only collects water that soaked in."
      },
-     "parent": "Five full syringes take out about 50 millilitres. In a jar about 10 cm across, the water sits in the gaps between the stones, so that lowers the level by about 1 to 2 cm, enough to see. With a small medicine dropper the change is too small, so use a syringe."
+     "parent": "The first pull often brings only air. Pull slowly and keep going until water comes up the straw. Five full syringes take out about 50 millilitres. In a jar about 10 cm across, the water sits in the gaps between the stones, so that lowers the level by about 1 to 2 cm, enough to see. With a small medicine dropper the change is too small, so use a syringe."
     },
     {
      "id": "s4",
@@ -2061,7 +2065,7 @@
      "do": "1. In the morning, fill the matka and the two bottles from the same tap. 2. Wet the cloth, squeeze it a little, and wrap it round one bottle. 3. Put all three side by side in a shady, airy place. 4. Measure the water in each with the thermometer, and write it down.",
      "say": "These three start the same. Same water, same tap, same place. Which do you think will be coolest by lunchtime?",
      "kid": "Fill the matka and both bottles from the same tap. Wrap one bottle in a wet cloth. Put them side by side. Measure each one.",
-     "parent": "Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation. On a humid monsoon day all three may end up close together. That is a real result, and it is the answer to the question in step 4.",
+     "parent": "Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. The cloth may dry out in the shade over four hours. That is fine, but you can wet it again halfway if you like. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation. On a humid monsoon day all three may end up close together. That is a real result, and it is the answer to your guess in step 1.",
      "context": "This is the first step of the Cool Matka Test. You fill a matka and two bottles with the same water, so you can compare them later."
     },
     {
@@ -2232,9 +2236,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fill all three glasses with water from the kitchen tap. 2. Stir one big spoon of salt into glass B until it vanishes. 3. Stir one spoon of soil into glass C.",
+     "do": "1. Fill all three glasses with water from the kitchen tap. Label them A, B and C with a slip of paper. 2. Stir one big spoon of salt into glass B until it vanishes. 3. Stir one spoon of soil into glass C.",
      "say": "Glass A is plain water. Glass B has salt in it. Can you still see the salt? Glass C has soil.",
-     "kid": "Fill three glasses from the kitchen tap. Stir salt into glass B. Stir soil into glass C. Can you still see the salt?",
+     "kid": "Fill three glasses from the kitchen tap. Label them A, B and C. Stir salt into glass B. Stir soil into glass C. Can you still see the salt?",
      "ask": [
       {
        "q": "Where did the salt go?",
@@ -2257,9 +2261,9 @@
      "id": "s3",
      "mins": 5,
      "wait": "Leave the plate in the sun for 2 to 3 hours, or under a fan for about 4 hours.",
-     "do": "1. Put one spoon of water from A on the plate. 2. Put one spoon from B a little way off. 3. Gently take one spoon from the clear top of C, and put it on too. 4. Leave the plate in strong sun, or under a fan, until the spots are dry.",
+     "do": "1. Put one teaspoon of water from A on the plate. 2. Rinse the spoon. Put one teaspoon from B a little way off. 3. Rinse the spoon again. Gently take one teaspoon from the clear top of C, and put it on too. 4. Leave the plate in strong sun, or under a fan, until the spots are dry.",
      "say": "Now the water will evaporate. Whatever was hiding in it will be left behind.",
-     "kid": "Put a spoon from each glass on the dark plate. Keep the spots apart. Leave them in the sun to dry."
+     "kid": "Put a teaspoon from each glass on the dark plate. Rinse the spoon each time. Keep the spots apart. Leave them in the sun."
     },
     {
      "id": "s4",
@@ -2276,7 +2280,7 @@
        "Salt turns into water"
       ],
       "a": 0,
-      "why": "The salt dissolved, so it spread out between the water molecules where you could not see it. When the water evaporated, the salt was left behind as a white ring. Plain tap water often leaves a very faint ring too. That ring is minerals the water dissolved from rock and soil on its way to you. Germs and poisons like arsenic are invisible in the same way. Picking 'salt turns into water' means thinking the salt was gone. It wasn't."
+      "why": "The salt dissolved, so it spread out between the water molecules where you could not see it. When the water evaporated, the salt was left behind as a white ring. Plain tap water often leaves a very faint ring too. That ring is minerals the water dissolved from rock and soil on its way to you. Arsenic dissolves in water in the same way, and germs are too small to see. Picking 'salt turns into water' means thinking the salt was gone. It wasn't."
      },
      "parent": "Plain water from a tap or borewell often leaves a faint white ring. These are minerals, such as calcium, that the water dissolved from rock and soil. That is normal. If your tap gives RO water, it leaves almost nothing, because RO takes most minerals out. The muddy water's top leaves a faint brown mark, because a little fine mud stays floating even after settling. If the plain water leaves nothing you can see, look with a magnifying glass, or try a spoon of borewell or bottled mineral water."
     },
@@ -2705,7 +2709,7 @@
      },
      "check": {
       "t": "mcq",
-      "q": "In the example chart, which job uses the least water?",
+      "q": "In the made-up chart of one family's water, which job uses the least water?",
       "options": [
        "Bathing",
        "Drinking",
@@ -2971,7 +2975,7 @@
       "a": 0,
       "why": "In homes without water nearby, women and girls usually do most of the fetching. That can take hours every day. A tap at home gives that time back. Picking 'girls drink more' is not true. The difference is in who does the carrying, not who drinks."
      },
-     "think": "Who fills the water bottles in your home? Who switches on the motor? Have you ever thanked them?"
+     "think": "Who fills the water bottles in your home? Who switches on the motor? How much of that work did you notice before today?"
     }
    ],
    "setup": [
@@ -3018,11 +3022,11 @@
      "qty": 1
     },
     {
-     "item": "a clean bucket, for real rain on day 2",
+     "item": "a clean straight-sided bucket or tub, and a ruler, for real rain on day 2",
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the bottles and card. On a rainy day, collect rain from a drainpipe only at ground level, never on a roof, and never in lightning.",
+   "safety": "A grown-up cuts the bottles and card. Never go onto a roof to collect rain, and stay indoors in lightning.",
    "schedule": [
     {
      "day": 1,
@@ -3032,7 +3036,7 @@
     {
      "day": 2,
      "mins": 15,
-     "what": "On a rainy day, catch real rain in a bucket for 10 minutes and measure it. If it does not rain, wait for a rainy day."
+     "what": "On a rainy day, catch real rain in a bucket in the open for 10 minutes and measure how deep it is. If it does not rain, wait for a rainy day."
     },
     {
      "day": 3,
@@ -3040,8 +3044,8 @@
      "what": "Work out how much rain your real roof could catch. Draw a plan for your home."
     }
    ],
-   "record": "Write how much 'rain' you poured and how much the tank caught. Write how much real rain the bucket caught in 10 minutes. Draw your home's rain-catching plan.",
-   "context": "In this 3-day project, you build a model house that catches rain from its roof, like the tankas of the Thar desert and the rain tanks on many Indian roofs.",
+   "record": "Write how much 'rain' you poured and how much the tank caught. Write how deep the real rain in the bucket was after 10 minutes. Draw your home's rain-catching plan.",
+   "context": "In this 3-day project, you build a model house that catches rain from its roof, like the tankas of the Thar desert, or the roof tanks that Tamil Nadu made compulsory for buildings in 2003.",
    "flow": [
     {
      "id": "s1",
@@ -3098,9 +3102,9 @@
      "id": "s4",
      "wait": "Wait for a rainy day.",
      "mins": 15,
-     "do": "1. On a rainy day, put a clean bucket under a drainpipe at ground level. In a flat, put it on the balcony or terrace, away from walls and roofs. 2. Collect for exactly 10 minutes. 3. Measure the water with a 1-litre bottle.",
-     "say": "This is real rain from our real roof. Let's see how much one drainpipe gives in ten minutes.",
-     "kid": "It's raining! Put a clean bucket under a drainpipe. Wait 10 minutes. Measure the water in litres.",
+     "do": "1. On a rainy day, put a clean straight-sided bucket in the open, away from walls and roofs. A balcony or terrace is fine. 2. Collect for exactly 10 minutes. 3. Measure how deep the water is, in millimetres, with the ruler.",
+     "say": "This is real rain. Let's see how deep it gets in the bucket in ten minutes.",
+     "kid": "It's raining! Put a clean bucket out in the open. Wait 10 minutes. Measure how deep the water is, in millimetres.",
      "adult": true
     },
     {
@@ -3118,7 +3122,7 @@
        "5 litres"
       ],
       "a": 1,
-      "why": "Each square metre catches 1 litre for every millimetre of rain. So each square metre catches 10 litres. 50 square metres catch 50 × 10 = 500 litres. That is more than 30 buckets. Picking 60 means adding 50 and 10 instead of multiplying."
+      "why": "Each square metre catches 1 litre for every millimetre of rain. So each square metre catches 10 litres. 50 square metres catch 50 × 10 = 500 litres. That is about 33 buckets of 15 litres. Picking 60 means adding 50 and 10 instead of multiplying."
      },
      "think": "If every roof in your street caught rain, what would happen to the street's floods? And to its wells?"
     }
@@ -3133,8 +3137,8 @@
      "caption": "2. Pour 500 millilitres of 'rain'. Measure what the tank catches."
     },
     {
-     "art": "A bucket under a drainpipe on a rainy day, a child with an umbrella watching from a doorway.",
-     "caption": "3. On a rainy day, catch real rain from a drainpipe for 10 minutes."
+     "art": "A bucket standing in the open on a balcony on a rainy day, a child with an umbrella measuring the water with a ruler.",
+     "caption": "3. On a rainy day, catch real rain in a bucket for 10 minutes. Measure how deep it is."
     }
    ]
   }
@@ -3163,7 +3167,7 @@
    "creative": [
     "Make a pot-in-pot cooler. Put a small pot inside a bigger clay pot, and fill the gap with wet sand. A Nigerian teacher, Mohammed Bah Abba, made these popular in the 1990s to keep vegetables fresh in villages without electricity.",
     "Stand the wrapped bottle in a shallow bowl of water, so the cloth keeps soaking water up.",
-    "Hang the wrapped bottle in a window where the wind blows through, like old desert coolers made of wet grass screens."
+    "Hang the wrapped bottle in a window where the wind blows through, like the wet khus grass screens, called tatti, hung on windows in hot, dry summers."
    ],
    "your_turn": "Now invent your own cooler. Draw it, build it, and measure it against a plain bottle after three hours. Did yours win?",
    "context": "This is an engineering challenge. You must keep water cool on a hot day without any fridge or electricity, using the science of evaporation.",
@@ -3209,7 +3213,7 @@
       "a": 0,
       "why": "Wind and dry air make water evaporate fast. Evaporation takes heat away, so the wet cloth cools the bottle. Shade stops the sun heating it. Picking the blanket in the sun is a common idea, because blankets keep us warm in winter. A blanket slows heat moving in or out, but sunshine will still warm it, and it has no evaporation to cool it."
      },
-     "think": "People in hot, dry places have cooled water and homes this way for thousands of years. What else could we learn from them?"
+     "think": "People in hot, dry places have cooled water and homes this way for a very long time. What else could we learn from them?"
     }
    ],
    "setup": [
@@ -3603,10 +3607,6 @@
    "a": "It always kept its cool."
   },
   {
-   "j": "What is a well's favourite subject?",
-   "a": "Deep science."
-  },
-  {
    "j": "Why don't puddles ever finish their homework?",
    "a": "They evaporate before it's done."
   },
@@ -3617,10 +3617,6 @@
   {
    "j": "Why did the bucket go to the doctor?",
    "a": "It was feeling a little pail."
-  },
-  {
-   "j": "Why did the water go to school?",
-   "a": "To get a little more current."
   },
   {
    "j": "What is the laziest thing in the house?",
@@ -3803,7 +3799,7 @@
    "answer": "1,000 litres. That is more than 66 buckets.",
    "explain": "Each square metre catches 25 litres, one for each millimetre. 40 square metres catch 40 × 25 litres. 40 × 25 = 1,000 litres. One bucket holds 15 litres. 15 × 66 = 990, so 1,000 litres is a little more than 66 buckets.",
    "math_unit": "math.multiplication.equal-groups.L3",
-   "context": "This is about Catch the Rain, where you built a model house whose roof leads rain into a tank, then measured real rain from a drainpipe.",
+   "context": "This is about Catch the Rain, where you built a model house whose roof leads rain into a tank, then caught real rain in a bucket.",
    "how": "p1",
    "why_maths": "A storm feels like 'a lot of rain'. Multiplying turns it into litres, so a family can see how much their own roof could give them."
   }
@@ -3858,10 +3854,10 @@
   },
   {
    "title": "Rani ki Vav, the Queen's Stepwell",
-   "url": "https://whc.unesco.org",
+   "url": "https://whc.unesco.org/en/list/922/",
    "kind": "place",
    "where": "Patan, Gujarat",
-   "why": "A stepwell built nearly 1,000 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site. Search the UNESCO site for Rani-ki-Vav."
+   "why": "A stepwell built nearly 1,000 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site."
   },
   {
    "title": "Chand Baori stepwell",
@@ -3879,7 +3875,7 @@
   },
   {
    "title": "Dholavira",
-   "url": "https://whc.unesco.org",
+   "url": "https://whc.unesco.org/en/list/1645/",
    "kind": "place",
    "where": "Kutch, Gujarat",
    "why": "A Harappan city about 4,500 years old, with huge stone reservoirs for storing rain. It became a UNESCO World Heritage Site in 2021."
@@ -3897,7 +3893,7 @@
    "id": "b-matka",
    "item": "A small clay matka, unglazed",
    "kind": "tool",
-   "why": "Used in the Cool Matka Test and the Cool Water challenge. It keeps drinking water cool all summer afterwards.",
+   "why": "Keeps drinking water cool through the summer, with no electricity.",
    "url": "https://www.amazon.in/s?k=clay+matka+water+pot",
    "used_in": [
     "e3",
@@ -3908,7 +3904,7 @@
    "id": "b-thermometer",
    "item": "A digital kitchen thermometer with a probe",
    "kind": "tool",
-   "why": "Measures water temperature in the Cool Matka Test and the Cool Water challenge.",
+   "why": "Shows the water's temperature in degrees, so you can compare the containers.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer+probe",
    "used_in": [
     "e3",
@@ -3919,7 +3915,7 @@
    "id": "b-jug",
    "item": "A 1-litre measuring jug, marked in millilitres",
    "kind": "tool",
-   "why": "Measures water in Drip Detective, the Family Water Count and Catch the Rain.",
+   "why": "Measures water in millilitres, so you can count drips and rain exactly.",
    "url": "https://www.amazon.in/s?k=1+litre+measuring+jug",
    "used_in": [
     "a3",
@@ -4147,5 +4143,6 @@
   "who": "K. C. Saha, a skin doctor in Kolkata, and Dipankar Chakraborti of Jadavpur University",
   "when": "1983, and the years of testing after it",
   "wrong_idea": "Clear water from under the ground, away from the germs, must be safe to drink. Patients' skin, and then tests on the wells, showed that it can carry arsenic dissolved from the rocks."
- }
+ },
+ "playtest": "Played Drop's Journey with 2 and with 4 players: all 30 squares are listed, none stalls or loops, every square does something, and the dice can be a Ludo dice or paper slips. I changed squares 2, 13, 19, 25 and 29 so each makes sense for a raindrop (a tap left running now pumps the borewell) and so the board is not only Rajasthan and the north (Western Ghats forest, a Tamil eri). Played Drink, Boil or Never? with 2 to 5 players: 20 cards, 3 mats and 20 tokens add up, I made the NEVER mat match the cards (not drinking water at all, such as a hose or fish tank), added a tie-breaker where the grown-up decides, and removed the unexplained Broad Street mention. Walked every experiment in a flat: Rain on Four Grounds (the tile puddle may need an hour or more to vanish, so the check now says come back later), the jar well (note that the first pulls bring air), the matka test (the cloth may dry out, parent note added), and the Invisible Ring (glasses labelled, clean teaspoon each time). Minutes and schedules add up for all of them. In Catch the Rain, the real-rain step now measures depth in millimetres in a straight-sided bucket in the open, which fits the 1 mm = 1 litre rule and works from a balcony. I replaced internal wording in the buy list, gave the Rani ki Vav and Dholavira links real addresses, cut two weak jokes (8 remain), dropped one duplicate bucket-litres worksheet question, introduced Mrs Pike in the story, named a chart in the family water count check, replaced a moral question in Carry the Morning's Water, and added South and West touches (khus tatti, Tamil Nadu roof tanks, eris, Nilgiri stream). I did not change the science, the deep truth or the structure. The three-sentence claim, evidence and reasoning step is kept at the end of each experiment on purpose, with a different model answer each time."
 }

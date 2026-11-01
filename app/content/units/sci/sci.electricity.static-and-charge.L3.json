@@ -575,7 +575,13 @@
       "Square 5: a banana grove",
       "Square 6: STORM: a dark cloud overhead",
       "Square 7: a pond",
-      "Square 8: a row of mango trees",
+      {
+       "f": "Square 8: a row of mango trees",
+       "img": {
+        "src": "media/cards/static-and-charge-g2-0-07.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      },
       "Square 9: STORM: a dark cloud overhead",
       "Square 10: the bus stop",
       "Square 11: a tea stall",

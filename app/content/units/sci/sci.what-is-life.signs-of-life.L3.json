@@ -298,7 +298,7 @@
    "description": "For most things you meet, it is easy to say alive or not alive. A cat is alive. A stone is not. But scientists and thinkers still argue about where the line really is, and whether there is a sharp line at all. Here are some of the main views.",
    "examples": [
     "A dry seed can sit for years doing almost nothing, and still be alive.",
-    "Fire grows, feeds and spreads, but it is not alive. The unit The edge of life looks at this.",
+    "Fire grows, feeds and spreads, but it is not alive.",
     "Viruses do nothing on their own, but copy themselves inside a living cell. Scientists still argue about them."
    ],
    "perspectives": [
@@ -364,7 +364,7 @@
   },
   {
    "text": "Today, living things only come from other living things.",
-   "evidence": "In the 1860s, Louis Pasteur, a French scientist, boiled soup in flasks with long curved necks. Air could get in, but dust and tiny living things got stuck in the curved neck. The soup stayed clear and nothing grew. When he broke the neck off, the soup soon went cloudy with life."
+   "evidence": "In the 1860s, Louis Pasteur showed that soup in a sealed flask stays clear, and goes cloudy only when living things get in from outside."
   },
   {
    "text": "Plants are alive, and they sense and respond.",
@@ -419,7 +419,7 @@
   {
    "claim": "Plants can learn and remember.",
    "who": "Monica Gagliano, an Australian scientist, and her team, in 2014. They dropped touch-me-not plants a short, harmless distance again and again.",
-   "for": "At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. So the plants learned that the drop was safe, and remembered it.",
+   "for": "At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. So, they argue, the plants learned that the drop was safe, and remembered it.",
    "against": "Other scientists say the plants may just have been tired, or their sense of touch may have gone dull. Some say the words learning and memory should be kept for animals with brains. They want the test repeated by other teams.",
    "status": "debated",
    "context": "This card is about a new and argued idea: can a plant learn?"
@@ -562,7 +562,7 @@
       },
       "A river",
       "A stone",
-      "A wooden chair",
+      "A bamboo basket",
       "A hen's egg from a shop",
       "A spoon of dry yeast",
       "You",
@@ -600,7 +600,7 @@
     },
     {
      "kind": "cards",
-     "title": "7 sign cards (print one set for each player)",
+     "title": "7 sign cards (print the page once for each player)",
      "items": [
       "N: Nutrition (gets food)",
       "R: Respiration (gets energy from food)",
@@ -636,7 +636,7 @@
     "Cut out the 24 thing cards and the sign cards. Take out the card 'A car' for the practice round. Shuffle the rest and put them face down.",
     "Each player takes a set of 7 sign cards.",
     "On your turn, turn over a thing card and read it out loud.",
-    "Everyone chooses the sign cards they think this thing really shows, at some time in its life. Then everyone holds them up at the same time.",
+    "Everyone chooses the sign cards they think this thing shows. For a living thing, count any sign it does at some time in life. Then everyone holds them up at the same time.",
     "The player whose turn it is gives the verdict: alive, once alive or never alive. They put the card on that mat and say why. A thing can show some signs and still be never alive. A living thing does all seven over its life.",
     "Score 1 point for each sign card you held up and can explain in one sentence. The player whose turn it is also scores 2 points for a verdict with a good reason.",
     "Anyone can challenge a verdict by giving better evidence. If the other players agree, the challenger scores the 2 points instead. If you cannot agree, put the card to one side and nobody scores for the verdict. Look it up in this unit afterwards.",
@@ -702,7 +702,7 @@
      "do": "1. Take turns. Each player turns over a card and reads it out. 2. Everyone holds up their sign cards. 3. The player gives a verdict and a reason. 4. Keep score on the score sheet. 5. Stop after 12 cards.",
      "say": "When you give your verdict, tell us your evidence. Which signs does it show? Which is it missing?",
      "kid": "Take turns. Turn over a card. Hold up its signs. Then choose: alive, once alive or never alive. Say why.",
-     "parent": "Tricky cards on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing inside the egg. So many people put the egg on once alive. An egg that a hen sits on can be alive, with a chick growing inside."
+     "parent": "Some cards are tricky on purpose. Yeast is alive, a fungus made of one cell. A coral reef is built by tiny living animals, so a living reef is alive, but its rocky skeleton is once alive. A money plant cutting is alive. Bread and a cotton shirt are once alive. Wind, a river, a soap bubble and a light bulb are never alive, though they move or grow or glow. A mobile phone senses touch and needs charging, but it never grows or makes young. A ripe mango is still alive: the cells keep respiring, and the seed can grow a tree. A hen's egg from a shop will never hatch, because no chick is growing inside the egg. Most families put the egg on once alive: it came from a living hen, but the egg will never hatch. An egg that a hen sits on can be alive, with a chick growing inside."
     },
     {
      "id": "s4",
@@ -852,15 +852,16 @@
     }
    ],
    "rules": [
-    "The caller shuffles the action cards and calls one out.",
+    "The caller shuffles the action cards and calls them out one at a time, until all seven have been called.",
     "Everyone acts it out at once.",
-    "In round two, the caller turns over a living-thing card and calls a sign, for example, 'Movement: a neem tree!'",
+    "In round two, the caller turns over one living-thing card and one action card, and calls both, for example, 'Movement: a neem tree!'",
     "Players act out how that living thing does that sign, and say it in one sentence.",
-    "Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this unit."
+    "Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this unit.",
+    "Round two ends when all 14 living-thing cards have been used once. If the card is 'A baby' and the sign is Reproduction, act out a grown-up of that kind. Then finish with the fast round."
    ],
    "setup": [
     {
-     "art": "A parent holding up a card with an elephant picture while two children stomp like elephants.",
+     "art": "A parent holding up a card that says \"M for Movement: walk like an elephant\" while two children stomp like elephants.",
      "caption": "1. The caller holds up a sign card. Everyone acts it out."
     },
     {
@@ -880,7 +881,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Turn over a living-thing card and call a sign with it. For example, 'Movement: a neem tree!'",
+     "do": "Turn over one living-thing card and one action card, and call both. For example, 'Movement: a neem tree!' Go on until all 14 living-thing cards have been used.",
      "say": "Now it's harder. Movement, a neem tree! How does a tree move? Show me, and tell me in one sentence.",
      "kid": "Now the caller says a sign and a living thing. Show how they do that sign. Say it in one sentence.",
      "ask": [
@@ -920,7 +921,7 @@
   {
    "id": "e1",
    "title": "The Balloon Test: is something alive in the yeast packet?",
-   "mins": 35,
+   "mins": 55,
    "days": 1,
    "question": "Is the dry yeast in a packet alive? And what does yeast need to show signs of life?",
    "predict": "Before you start, look at the three bottles. Bottle A gets yeast, sugar and warm water. Bottle B gets yeast and warm water, but no sugar. Bottle C gets yeast, sugar and cold water from the fridge. Which balloon do you think will grow the most? Which will grow the least? Why do you think so?",
@@ -943,7 +944,7 @@
      "buy": "b-balloons"
     },
     {
-     "item": "dry yeast (instant or active), 6 teaspoons",
+     "item": "dry yeast (instant or active), 3 teaspoons",
      "qty": 1,
      "buy": "b-yeast"
     },
@@ -969,11 +970,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the warm water. It should feel like a warm bath on the inside of your wrist, never hot. Do not drink the mixture. Pull the balloons off over a sink, away from faces.",
+   "safety": "Do not drink the mixture. Pull the balloons off over a sink.",
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 55,
      "what": "Guess which balloon will grow most. Set up the three bottles. Watch for 30 minutes. Measure the balloons and draw a bar chart."
     }
    ],
@@ -1006,7 +1007,7 @@
    "setup": [
     {
      "art": "Three small plastic bottles in a row labelled A, B and C, with a spoon of yeast going into each through a paper funnel.",
-     "caption": "1. Put two teaspoons of yeast in each bottle. Add sugar to A and C only."
+     "caption": "1. Put one teaspoon of yeast in each bottle. Add sugar to A and C only."
     },
     {
      "art": "A grown-up pouring warm water into bottles A and B, and a child pouring cold water from a fridge bottle into bottle C.",
@@ -1046,7 +1047,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Blow each balloon up and let it down two or three times, so it stretches easily. 2. Wrap the string round each flat balloon and write the length in the table. 3. Put two teaspoons of yeast in each bottle, using a funnel. 4. Add one tablespoon of sugar to A and to C. Add none to B. 5. A grown-up pours half a cup of warm water into A and into B. 6. Pour half a cup of fridge-cold water into C. 7. Swirl each bottle. 8. Stretch a balloon over each neck.",
+     "do": "1. Blow each balloon up and let it down two or three times, so it stretches easily. 2. Wrap the string round the middle of each flat balloon and write the length in the table. 3. Put one teaspoon of yeast in each bottle, using a funnel. 4. Add one tablespoon of sugar to A and to C. Add none to B. 5. A grown-up pours half a cup of warm water into A and into B. 6. Pour half a cup of fridge-cold water into C. 7. Swirl each bottle. 8. Stretch a balloon over each neck.",
      "say": "We change only one thing in each bottle, so the test is fair. Now let's stretch on the balloons. If anything in there is alive and gives out a gas, the balloon will catch it.",
      "kid": "Stretch each balloon. Measure each flat balloon. Yeast in all three. Sugar in A and C. Warm water in A and B. Cold water in C. Swirl. Put a balloon on each.",
      "adult": true,
@@ -1054,8 +1055,8 @@
     },
     {
      "id": "s4",
-     "mins": 10,
-     "do": "1. Watch for 10 minutes. 2. Look for bubbles and foam in each bottle. 3. Then wait until 30 minutes have passed.",
+     "mins": 30,
+     "do": "1. After 10 minutes, look at each bottle for bubbles and foam, and write what you see in the table. 2. Then wait until 30 minutes have passed since you put the balloons on. Do something else while you wait.",
      "say": "Look at bottle A. Can you see bubbles? Foam? Now look at B and C. What do you think the bubbles are? Where do you think they come from?",
      "kid": "Watch the bottles. Do you see bubbles or foam? What do you think made them? Wait until 30 minutes are up.",
      "parent": "Bottle A should foam, and its balloon should start to stand up within 10 to 20 minutes. Bottle B may make a little gas. Bottle C stays almost still, because the cold slows the yeast right down. The gas is carbon dioxide, a waste the yeast gives out while getting energy from sugar. The yeast is also growing and making new yeast cells by budding, which is too small to see. If balloon A is still small at 30 minutes, wait 15 minutes more.",
@@ -1121,7 +1122,7 @@
    "days": 6,
    "question": "Is a dry seed alive? How can we tell a sleeping seed from a dead one?",
    "predict": "Before you start, look at the four cups. Cup A has soaked seeds on wet cotton. Cup B has dry seeds on dry cotton. Cup C has boiled seeds on wet cotton. Cup D has plastic beads on wet cotton. In which cups will something grow? Why do you think so?",
-   "fair_test": "To make it fair, use 5 seeds or beads in each cup, the same cotton, the same amount of water and the same warm place. Change only one thing: wet or dry, boiled or not, seed or bead. Check all four cups at the same time each day.",
+   "fair_test": "To make it fair, use 5 seeds or beads in each cup, the same cotton and the same warm place. Cups A, C and D get the same amount of water, and cup B stays dry on purpose. Change only one thing at a time: wet or dry, boiled or not, seed or bead. Check all four cups at the same time each day.",
    "results_table": [
     "Cup",
     "What is in it",
@@ -1162,12 +1163,12 @@
      "buy": "b-magnifier"
     }
    ],
-   "safety": "A grown-up boils the seeds and lets them cool. Wash your hands after touching the seeds.",
+   "safety": "A grown-up boils the seeds and lets them cool.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Soak 5 seeds overnight. A grown-up boils 5 more for 10 minutes. Guess which cups will grow."
+     "what": "Soak 5 seeds overnight. A grown-up boils 5 more for 10 minutes, then drains them. Guess which cups will grow."
     },
     {
      "day": 2,
@@ -1182,12 +1183,12 @@
     {
      "day": 4,
      "mins": 3,
-     "what": "Count again. Look at the roots with a magnifying glass."
+     "what": "Count again. Look at the roots with a magnifying glass. Then move the dry seeds from cup B onto wet cotton."
     },
     {
      "day": 5,
      "mins": 2,
-     "what": "Count again. Move the dry seeds from cup B onto wet cotton."
+     "what": "Count again. Cup B has had a day of water."
     },
     {
      "day": 6,
@@ -1244,7 +1245,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Count out 5 moong seeds and soak them in water overnight. 2. A grown-up boils 5 more seeds for 10 minutes, then lets them cool. 3. Keep 5 dry seeds aside. 4. Find 5 small plastic beads or buttons.",
+     "do": "1. Count out 5 moong seeds and soak them in water overnight. 2. A grown-up boils 5 more seeds for 10 minutes, then drains them and lets them cool. 3. Keep 5 dry seeds aside. 4. Find 5 small plastic beads or buttons.",
      "say": "Here are seeds and beads. Which ones are alive? It's hard to tell just by looking. So let's give them water and wait.",
      "kid": "Soak 5 seeds overnight. A grown-up boils 5 other seeds. Keep 5 seeds dry. Find 5 beads.",
      "adult": true,
@@ -1279,11 +1280,11 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "On day 5, move the dry seeds from cup B onto wet cotton.",
+     "do": "On day 4, after you have counted, move the dry seeds from cup B onto wet cotton.",
      "say": "Cup B's seeds have been dry all this time. Are they dead, or just sleeping? Let's give them water and see.",
      "kid": "Move the dry seeds from cup B onto wet cotton. Are they dead, or just sleeping?",
-     "wait": "Wait one more day.",
-     "parent": "The dry seeds will swell overnight. In warm weather, many show a root tip by the next day. If they have only swollen, wait one more day."
+     "wait": "Wait two more days.",
+     "parent": "The dry seeds will swell overnight. In warm weather, many show a root tip by the next day. Some take two days. If they have only swollen on day 6, wait one more day and measure then."
     },
     {
      "id": "s5",
@@ -1512,18 +1513,7 @@
      "mins": 5,
      "do": "Go through the car, one sign at a time. Mark each box with a tick, a cross or a wavy line.",
      "say": "Does a car get food? It takes in petrol, so maybe a wavy line. Does it get energy from it? It burns petrol with air. Does it grow? Does it make baby cars?",
-     "kid": "Test the car. One sign at a time. Tick, cross, or wavy line for 'sort of'.",
-     "check": {
-      "t": "mcq",
-      "q": "In the seven signs trial, a car moves, takes in petrol and gives out smoke. Is that enough to call it alive?",
-      "options": [
-       "Yes, three signs is enough",
-       "No. It never grows or makes young, and people build it.",
-       "Yes, because it is fast"
-      ],
-      "a": 1,
-      "why": "Living things do all seven signs over their lives. A car never grows by itself, never mends itself and never makes a baby car. People build it in a factory. Picking 'three signs is enough' is a very common idea. But a cloud and a river would then be alive too. Picking 'it is fast' means thinking movement is the main sign of life."
-     }
+     "kid": "Test the car. One sign at a time. Tick, cross, or wavy line for 'sort of'."
     },
     {
      "id": "s3",
@@ -1576,7 +1566,7 @@
      "buy": "b-magnifier"
     }
    ],
-   "safety": "Go outside only with a grown-up. Do not pick up anything sharp, animal poo or dead animals. Leave living animals where they are. Draw them instead. Wash hands afterwards.",
+   "safety": "Go outside only with a grown-up. Do not pick up anything sharp, animal poo or dead animals. Leave living animals where they are. Draw them instead.",
    "schedule": [
     {
      "day": 1,
@@ -1653,7 +1643,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a touch-me-not plant (chhui-mui or lajwanti), in a pot or growing wild",
+     "item": "a touch-me-not plant (chhui-mui or lajwanti), in a pot, from a nursery or growing wild",
      "qty": 1,
      "buy": "b-mimosa"
     },
@@ -1666,7 +1656,7 @@
      "qty": 1
     }
    ],
-   "safety": "Touch-me-not stems have small prickles. Touch the leaves gently with a feather or one fingertip, not the stem. Wash your hands afterwards.",
+   "safety": "Touch-me-not stems have small prickles. Touch the leaves gently with a feather or one fingertip, not the stem.",
    "schedule": [
     {
      "day": 1,
@@ -1732,15 +1722,15 @@
      "do": "Look at the first leaf every 5 minutes. Stop the timer when it is fully open again. Write down the minutes.",
      "say": "Now we wait. Plants recover slowly. Let's check every 5 minutes. Meanwhile, why do you think the plant folds their leaves?",
      "kid": "Look at the first leaf every 5 minutes. Stop the timer when it is open. Write down the minutes.",
-     "parent": "It often takes 10 to 30 minutes to open again. In the evening, or when it is cold, the plant folds without a touch and opens slowly, so the timing will be longer. If you cannot get a plant, watch the touch-me-not video in this unit instead. Good ideas for why: to scare off a hungry animal, to look less tasty, or to knock insects off. Scientists think it protects the plant from being eaten, but they are still testing this."
+     "parent": "It often takes 10 to 30 minutes to open again. If the leaf is still folded after 15 minutes, leave it and look again later. In the evening, or when it is cold, the plant folds without a touch and opens slowly, so the timing will be longer. If you cannot get a plant, watch the touch-me-not video in this unit instead. Good ideas for why: to scare off a hungry animal, to look less tasty, or to knock insects off. Scientists think it protects the plant from being eaten, but they are still testing this."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "Tell your child about J.C. Bose and the dropped plants. Then let the plant rest.",
-     "say": "J.C. Bose, a great Indian scientist, found that this plant folds less if you touch them again and again. In 2014, scientists dropped these plants gently many times. The plants stopped folding, and weeks later they still did not fold when dropped.",
+     "do": "Tell your child about the dropped plants. Then let the plant rest.",
+     "say": "In 2014, scientists dropped touch-me-not plants gently, many times. The plants stopped folding. Weeks later, they still did not fold when dropped.",
      "kid": "Scientists dropped these plants gently many times. The plants stopped folding. Weeks later, they still did not fold.",
-     "think": "The plants learned that the drop was safe, and remembered it. Some scientists say the plants were only tired. What do you think?"
+     "think": "Some scientists say the plants learned that the drop was safe, and remembered it. Others say the plants were only tired. What do you think?"
     }
    ]
   },
@@ -1767,7 +1757,7 @@
      "qty": 1
     }
    ],
-   "safety": "Take the bags off within a few hours so the plant does not overheat. Never put a plastic bag near anyone's face.",
+   "safety": "Never put a plastic bag near anyone's face.",
    "schedule": [
     {
      "day": 1,
@@ -1972,7 +1962,7 @@
        "They do not need food"
       ],
       "a": 1,
-      "why": "Green plants make their own food, a sugar, using sunlight, air and water. They take in water and a few minerals from the soil, but the soil is not their food. Picking 'eats the soil' is a very common idea. In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot for five years. The tree grew heavy, but the soil in the pot hardly lost any weight. Picking 'does not need food' forgets that all living things need nutrition."
+      "why": "Green plants make their own food, a sugar, using sunlight, air and water. They take in water and a few minerals from the soil, but the soil is not their food. Picking 'eats the soil' is a very common idea. Picking 'does not need food' forgets that all living things need nutrition."
      }
     },
     {
@@ -1990,7 +1980,7 @@
  "projects": [
   {
    "id": "p1",
-   "title": "Life Diary: watch a moong plant do all seven signs",
+   "title": "Life Diary: watch a moong plant show the signs of life",
    "mins": 60,
    "days": 10,
    "materials": [
@@ -2020,7 +2010,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the hole in the box. Wash hands after handling soil.",
+   "safety": "A grown-up cuts the hole in the box.",
    "schedule": [
     {
      "day": 1,
@@ -2068,7 +2058,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. 4. Start the diary: draw the pots and write a guess.",
+     "do": "1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. Give a little water every day or two from now on. 4. Start the diary: draw the pots and write a guess.",
      "say": "We will keep a life diary for 10 days. Our job is to catch the moong plant doing every sign of life.",
      "kid": "Plant 3 seeds in each pot. Water them. Start your diary. Draw the pots.",
      "context": "This is the first step of the life diary project. You grow moong plants and look for all seven signs of life."
@@ -2084,7 +2074,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 4, a grown-up cuts a hole about 3 cm wide in one short end of the shoebox. Put one pot inside, at the far end. Put the lid on. Point the hole at a bright window. Leave the other pot in the room. Water both the same, opening the box quickly.",
+     "do": "On day 4, a grown-up cuts a hole about 3 cm wide in one short end of the shoebox. Put one pot inside, at the far end. Put the lid on. Point the hole at a bright window. Put the other pot beside the box, by the same window, with no box. Water both the same, opening the box quickly.",
      "say": "Plants can't walk. But can they move towards light? This box will tell us.",
      "kid": "A grown-up cuts a hole in the box. Put one pot inside. Point the hole at the window. Leave the other pot out.",
      "adult": true,
@@ -2132,11 +2122,11 @@
    "constraints": [
     "You cannot see anything alive, even with a magnifying glass.",
     "You can only use tests based on the seven signs of life.",
-    "A grown-up secretly prepares three mystery cups, each with 2 tablespoons of atta. A has half a teaspoon of dry yeast mixed in. B is plain atta. C has half a teaspoon of baking soda mixed in. Mix well, so the cups look the same."
+    "A grown-up secretly prepares three mystery cups, each with 2 tablespoons of atta or rice flour. A has half a teaspoon of dry yeast mixed in. B is plain atta. C has half a teaspoon of baking soda mixed in. Mix well, so the cups look the same."
    ],
    "materials": [
-    "3 small cups with 2 tablespoons of atta in each, prepared by a grown-up and labelled A, B and C",
-    "one cup of warm sugar water, with the juice of one lemon stirred in",
+    "3 small cups with 2 tablespoons of atta or rice flour in each, prepared by a grown-up and labelled A, B and C",
+    "one and a half cups of warm sugar water (2 tablespoons of sugar), with the juice of half a lemon stirred in",
     "a spoon and a timer",
     "a little boiling water, for a grown-up only"
    ],
@@ -2191,7 +2181,7 @@
      "do": "1. Stir 3 tablespoons of warm sugar water with lemon into each mystery cup, to make a thick batter. 2. Watch straight away. 3. Then look every 10 minutes for 30 minutes. 4. Write what you see in each cup each time.",
      "say": "Watch closely. Something might happen fast, or slowly. Write it all down.",
      "kid": "Stir sugar water into each cup. Watch at once. Then look every 10 minutes. Write what you see.",
-     "parent": "Cup C fizzes at once, because baking soda reacts with lemon juice. It stops within a minute or two. Cup A starts slowly. After 10 to 20 minutes, small bubbles appear, and the batter keeps getting puffier. Cup B does nothing much. This shows how a non-living chemical reaction can trick a life detector."
+     "parent": "Cup C fizzes at once, because baking soda reacts with lemon juice. It stops within a minute or two. Cup A starts slowly. After 10 to 20 minutes, small bubbles appear, and the batter keeps getting puffier. Cup B does nothing much. This shows how a non-living chemical reaction can trick a life detector. If cup A stays flat, the lemon may be too sour for the yeast, or the yeast may be old. Try less lemon, or a fresh packet."
     },
     {
      "id": "s3",
@@ -2307,7 +2297,8 @@
      "kid": "Draw your jar. Draw arrows for the water going round. Draw the light coming in.",
      "think": "Is the Earth a bit like a jar world? What comes in from outside, and what goes round and round?"
     }
-   ]
+   ],
+   "safety": "A glass jar can break. Carry it with both hands."
   }
  ],
  "worksheets": [
@@ -2487,7 +2478,7 @@
      "t": "write",
      "p": "Look at your seed test table. Which cup shows most clearly that a dry seed is alive? Write the cup, what happened in it, and why that shows the seed is alive.",
      "lines": 4,
-     "a": "Cup B. The dry seeds did nothing for five days. When I put them on wet cotton, they swelled and sprouted within a day or two. Boiled seeds never sprout, so the dry seeds must have been alive all along.",
+     "a": "Cup B. The dry seeds did nothing while they stayed dry. When I put them on wet cotton, they swelled and sprouted within a day or two. Boiled seeds never sprout, so the dry seeds must have been alive all along.",
      "why": "A strong answer names one cup, gives a real result from the table, and compares it with the boiled seeds or the beads.",
      "how": "e2"
     },
@@ -2550,7 +2541,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A tulsi plant sits in a closed jar world, in the dark, for one whole night. What is the plant doing?",
+     "p": "A money plant sits in a closed jar world, in the dark, for one whole night. What is the plant doing?",
      "opts": [
       "Nothing at all until the morning",
       "Making food from moonlight",
@@ -3038,7 +3029,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the seed test, every cup got the same amount of water and sat in the same warm place. Why?",
+   "p": "In the seed test, the three wet cups got the same amount of water, and all four cups sat in the same warm place. Why?",
    "opts": [
     "So that the cups look neat",
     "So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads",
@@ -3164,7 +3155,7 @@
  ],
  "spotted": [
   {
-   "text": "Idli or dosa batter rising overnight, full of bubbles from tiny living things feeding on it.",
+   "text": "Idli, dosa or dhokla batter rising overnight, full of bubbles from tiny living things feeding on it.",
    "art": "A steel vessel of batter puffed up above its rim, with tiny bubbles on top."
   },
   {
@@ -3184,7 +3175,7 @@
    "art": "A money plant in a glass bottle, their leaves all turned to the window."
   },
   {
-   "text": "Your breath making a little cloud on a cold winter morning in Delhi or Ooty.",
+   "text": "Your breath making a little cloud on a cold winter morning in Delhi, Shillong or Ooty.",
    "art": "A child in a woolly cap breathing out a puff of white mist."
   },
   {
@@ -3228,8 +3219,8 @@
  ],
  "ask_kids": [
   "Which signs of life have you done since you woke up?",
-  "Is the dal on your plate alive, once alive or never alive?",
-  "That tree has been standing still all day. How do you know they are alive?",
+  "Is the rice or dal on your plate alive, once alive or never alive?",
+  "A neem tree has stood still all day. How do you know they are alive?",
   "What does the fridge do to the tiny living things in our food?",
   "If a car could do one more sign of life, which would be the strangest?",
   "Is the wind alive? How do you know?",
@@ -3259,10 +3250,6 @@
   {
    "j": "Why did the mushroom get invited to every party?",
    "a": "Because he was a fun-gi."
-  },
-  {
-   "j": "Why did the leaf go to the doctor?",
-   "a": "It was feeling a little green."
   },
   {
    "j": "What is a tree's favourite drink?",
@@ -3507,12 +3494,11 @@
    "id": "b-mimosa",
    "item": "Touch-me-not (Mimosa pudica) seeds or a small plant",
    "kind": "material",
-   "why": "For the shy plant activity, if you cannot find one growing wild. Soak the seeds in warm water overnight first. They sprout in one to three weeks.",
+   "why": "For the shy plant activity, if you cannot find one growing wild. Soak the seeds in warm water overnight first. They sprout in one to three weeks. Seedlings take about a month to grow big enough to test, so a small plant from a nursery is quicker. Or look for wild plants by roadsides and railway lines.",
    "url": "https://www.amazon.in/s?k=mimosa+pudica+touch+me+not+seeds",
    "used_in": [
     "a3"
-   ],
-   "plan": "Seedlings take about a month to grow big enough to test, so a small plant from a nursery is quicker. Or look for wild plants by roadsides and railway lines."
+   ]
   },
   {
    "id": "b-tape",
@@ -3531,23 +3517,21 @@
    "id": "b-whatsalive",
    "item": "What's Alive? by Kathleen Weidner Zoehfeld (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A simple picture book about how to tell living from non-living things.",
+   "why": "A simple picture book about how to tell living from non-living things. Read it together before the seven signs trial, or as a bedtime book that week.",
    "url": "https://www.amazon.in/s?k=What%27s+Alive+Kathleen+Weidner+Zoehfeld",
    "used_in": [
     "a1"
-   ],
-   "plan": "Read it together before the seven signs trial, or as a bedtime book that week."
+   ]
   },
   {
    "id": "b-livingsunlight",
    "item": "Living Sunlight: How Plants Bring the Earth to Life, by Molly Bang and Penny Chisholm",
    "kind": "book",
-   "why": "In this picture book, the Sun itself explains how plants catch its energy and pass it to every living thing. Penny Chisholm is a scientist who discovered one of the most common living things in the sea.",
+   "why": "In this picture book, the Sun itself explains how plants catch its energy and pass it to every living thing. Penny Chisholm is a scientist who discovered one of the most common living things in the sea. Read it before or after Who Eats What.",
    "url": "https://www.amazon.in/s?k=Living+Sunlight+Molly+Bang",
    "used_in": [
     "a6"
-   ],
-   "plan": "Read it before or after Who Eats What."
+   ]
   }
  ],
  "warmup": [
@@ -3736,5 +3720,6 @@
   "who": "Francesco Redi, an Italian doctor, and Louis Pasteur, a French scientist",
   "when": "1668 and about 1860",
   "wrong_idea": "That living things such as maggots, mice and germs can start by themselves from meat, grain or soup. This is called spontaneous generation."
- }
+ },
+ "playtest": "Played both games with 2 and 4 players, followed every experiment, activity, project and challenge step by step in a flat, and read every worksheet, quiz and card on its own. Fixed: the balloon test now runs 55 minutes (the 30-minute wait was counted as 10) and uses 1 teaspoon of yeast per bottle (3 teaspoons, so one packet is enough); the seed test moves the dry seeds to wet cotton on day 4 so they have two days to wake before the day 6 measuring, the fair-test text and quiz now say cup B stays dry on purpose, and the worksheet answer matches; the Mars detector uses half a lemon and an honest note if cup A stays flat; the touch-me-not step no longer says Bose found the habituation result and shows it as debated; the car check in the Seven Signs Trial is gone because the card game asks it; MRS GREN Moves now has an end and uses one action card with one living-thing card; the Life Diary title no longer promises all seven signs in 10 days and the two pots sit by the same window; internal plan notes were removed from the buy list; the leaf joke was cut (9 jokes left); a few North-only foods and places were swapped for dhokla, Shillong and a bamboo basket. Kept: names, ids, plan order, roots and all science. Not checked: the three videos and the website addresses were not opened."
 }

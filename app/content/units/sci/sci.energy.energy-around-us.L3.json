@@ -428,7 +428,13 @@
        }
       },
       "wind blowing",
-      "rain filling a dam",
+      {
+       "f": "rain filling a dam",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-08.jpg",
+        "credit": "Jaseem Hamza, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
       "tiny sea creatures long ago",
       {
        "f": "idli",
@@ -445,13 +451,31 @@
         "credit": "Nikhil0000711, Public domain, via Wikimedia Commons"
        }
       },
-      "water power station",
+      {
+       "f": "water power station",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-13.jpg",
+        "credit": "Government of Odisha, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "cooking gas",
       "electricity in the wires",
       "electricity in the wires",
       "you running",
-      "diya flame",
-      "ceiling fan turning",
+      {
+       "f": "diya flame",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-18.jpg",
+        "credit": "Saral Shots, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "ceiling fan turning",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-19.jpg",
+        "credit": "Veera.sj, CC0, via Wikimedia Commons"
+       }
+      },
       "mixie grinding",
       "pressure cooker whistling",
       "URANIUM (a chain without the Sun)",
