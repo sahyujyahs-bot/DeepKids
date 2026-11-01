@@ -125,6 +125,8 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c); floorBand(c, FLOOR); fridgeSide(c);
+  curveArrow(c, [[500, 560], [610, 590], [730, 650], [850, 735]], COL.blue, 13);
+  curveArrow(c, [[500, 640], [590, 660], [690, 710], [790, 760]], COL.blue, 13);
   smoke(c, [[478, 640], [500, 612], [560, 628], [620, 685], [665, 748], [730, 776], [850, 772], [960, 770]], 30, 9);
   agarbatti(c, 505, 925, 478, 640);
   arm(c, 700, 915, 1090, 915, 100);
@@ -133,7 +135,8 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c); floorBand(c, FLOOR); fridgeSide(c);
-  smoke(c, [[478, 200], [470, 168], [420, 160], [350, 178], [280, 210], [215, 250]], 30, 8);
+  curveArrow(c, [[700, 255], [610, 252], [520, 256], [400, 262]], COL.orange, 13);
+  smoke(c, [[478, 200], [430, 198], [370, 206], [300, 218], [230, 232], [170, 250]], 30, 7);
   agarbatti(c, 505, 480, 478, 200);
   arm(c, 700, 460, 1090, 460, 100);
   handL(c, 596, 460, 1.3);
@@ -177,6 +180,9 @@ const e2_2 = (c: Ctx) => {
   c.restore();
   for (const y of [395, 466, 537]) curveArrow(c, [[258, y], [290, y - 10], [320, y + 8], [352, y]], COL.blue, 11);
   windmill(c, 640, 640, 0.85, 60, true);
+  // the pinwheel stands over the 50 cm mark: a guide down to the tape and a span from the fan
+  for (let y = 580; y < 880; y += 30) line(c, [[423, y], [423, y + 16]], 6, RED);
+  arrow(c, [[175, 840], [415, 840]], RED, 10);
   // the clip has risen: an arrow up beside the thread
   curveArrow(c, [[900, 600], [900, 540], [900, 470]], RED, 12);
   // the tape on the floor: 0 under the fan, marks at 50 cm and 150 cm
@@ -224,7 +230,7 @@ const e3_1 = (c: Ctx) => {
   // the pushing hand from the left
   arm(c, -20, 450, 360, 450, 100);
   hand(c, 440, 450, 0, 1.4);
-  curveArrow(c, [[660, 320], [660, 430], [660, 560]], RED, 14);
+  arrow(c, [[610, 450], [610, 640]], RED, 14);
   // the shading hand above, from the right
   arm(c, 740, 120, 1100, 120, 100);
   handL(c, 640, 120, 1.4, true);
@@ -238,7 +244,13 @@ const e3_2 = (c: Ctx) => {
   shape(c, () => ell(c, 540, 290, 140, 140), WHITE, 8);
   shade(c, () => ell(c, 540, 290, 140, 140), COL.grey, 22, 22, 0.3);
   shape(c, () => ell(c, 540, 290, 140, 140), "rgba(0,0,0,0)", 8);
-  line(c, [[540, 290], [540, 190]], 11); line(c, [[540, 290], [610, 330]], 14);
+  c.beginPath(); c.moveTo(540, 290); c.arc(540, 290, 120, -Math.PI / 2, 0); c.closePath(); c.fillStyle = "rgba(215,55,43,0.35)"; c.fill();
+  curveArrow(c, [[560, 130], [620, 140], [670, 180], [690, 240]], RED, 12);
+  line(c, [[540, 290], [540, 190]], 11); line(c, [[540, 290], [650, 290]], 14);
+  // a window on the wall: grey sky, no sun
+  shape(c, () => rrect(c, 770, 110, 230, 290, 10), "#b4bec6", 8);
+  line(c, [[885, 110], [885, 400]], 10, WHITE); line(c, [[770, 255], [1000, 255]], 10, WHITE);
+  shape(c, () => rrect(c, 770, 110, 230, 290, 10), "rgba(0,0,0,0)", 8);
   shape(c, () => ell(c, 540, 290, 13, 13), RED, 4);
   // the table
   tableSlab(c, 70, 1010, 780, [140, 896], 1050);

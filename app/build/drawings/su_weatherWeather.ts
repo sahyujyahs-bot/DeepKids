@@ -175,19 +175,19 @@ const e2_0 = (c: Ctx) => {
 const e2_1 = (c: Ctx) => {
   bathroom(c);
   dabba(c, 250, 1010, 160, 250);
-  tumbler(c, 600, 1010, 72, 320);
+  tumbler(c, 600, 1010, 72, 280);
   chalni(c, 430, 560, 340, 56, 90);
   // rain through the mesh, only over the two containers
-  for (const [x0, x1, yEnd] of [[140, 360, 740], [560, 640, 670]] as number[][])
-    for (let x = x0; x <= x1; x += 44) for (const dy of [0, 55]) { const y0 = 620 + dy + ((x * 7) % 25); if (y0 + 40 < yEnd) { line(c, [[x, y0], [x, y0 + 40]], 14, INK); line(c, [[x, y0], [x, y0 + 40]], 7, COL.water); } }
-  mug(c, 470, 330, 150, 170, -1.3, false);
+  for (const [x0, x1, yEnd] of [[140, 360, 745], [540, 660, 705]] as number[][])
+    for (let x = x0; x <= x1; x += 40) for (const dy of [0, 55]) { const y0 = 620 + dy + ((x * 7) % 25); if (y0 + 40 < yEnd) { line(c, [[x, y0], [x, y0 + 40]], 14, INK); line(c, [[x, y0], [x, y0 + 40]], 7, COL.water); } }
+  mug(c, 530, 330, 150, 170, -1.3, false);
   // the pouring stream
-  const st = () => { c.beginPath(); c.moveTo(372, 370); c.bezierCurveTo(372, 430, 368, 480, 366, 535); };
+  const st = () => { c.beginPath(); c.moveTo(432, 370); c.bezierCurveTo(432, 430, 428, 480, 426, 535); };
   st(); c.strokeStyle = INK; c.lineWidth = 36; c.lineCap = "round"; c.stroke(); st(); c.strokeStyle = COL.water; c.lineWidth = 24; c.stroke();
-  shape(c, () => ell(c, 366, 548, 46, 12), COL.drop, 4);
-  handFlip(c, 516, 128, 1.75, 1.5);
+  shape(c, () => ell(c, 426, 548, 46, 12), COL.drop, 4);
+  handFlip(c, 576, 128, 1.75, 1.5);
   handFlip(c, 940, 560, Math.PI, 1.5);
-  arrow(c, [[285, 390], [275, 440], [285, 495]]);
+  arrow(c, [[345, 390], [335, 440], [345, 495]]);
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {

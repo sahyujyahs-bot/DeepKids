@@ -450,7 +450,13 @@
      "title": "24 cards to cut out: 12 seeds and 12 plants",
      "items": [
       "SEED: a tiny round mustard seed",
-      "PLANT: mustard, with yellow flowers and thin pods",
+      {
+       "f": "PLANT: mustard, with yellow flowers and thin pods",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-01.jpg",
+        "credit": "WATANABE Hitoshi 渡辺仁, CC BY, via iNaturalist"
+       }
+      },
       "SEED: a yellow-brown methi seed",
       "PLANT: methi, with small leaves in threes",
       "SEED: a green moong bean",
