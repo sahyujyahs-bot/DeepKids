@@ -447,7 +447,11 @@
       },
       {
        "f": "Arun tests which paper plane flies furthest. He throws one and his sister throws the other.",
-       "b": "UNFAIR. The plane and the thrower are both different. Fix: the same person throws both planes, several times each."
+       "b": "UNFAIR. The plane and the thrower are both different. Fix: the same person throws both planes, several times each.",
+       "img": {
+        "src": "media/cards/fair-tests-g1-0-14.jpg",
+        "credit": "RegiegeigeR at German Wikipedia, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Nandini tests which cloth keeps ice from melting. She wraps ice cubes of the same size from one tray in different cloths and checks them all at the same times.",
