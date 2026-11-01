@@ -435,7 +435,11 @@
       },
       {
        "f": "Red chillies drying in the sun",
-       "b": "E, evaporation. The water is going into the air."
+       "b": "E, evaporation. The water is going into the air.",
+       "img": {
+        "src": "media/cards/evaporation-and-condensation-g1-0-08.jpg",
+        "credit": "Dr. Chinchu C., CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Spectacles misting as you step out of an AC shop",

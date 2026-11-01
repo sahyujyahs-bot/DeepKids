@@ -1,0 +1,2056 @@
+{
+ "id": "sci.family.family.L1",
+ "title": "My family: who lives with us, and how we know each other",
+ "level": 1,
+ "summary": {
+  "text": "With your eyes shut, can you find Amma or Ammachi just by sniffing a shirt they wore? Most children can find at least one person. Every person has their own smell, and much of it is made by tiny living beings on their skin. People who live together pass these tiny beings to each other. Families come in many kinds: big and small, with one parent or two, with grandparents, by birth or by adoption. In this unit your child sniffs family cloths in a fair test, passes a smell down a line of hands, and meets families of many kinds, in people and other animals.",
+  "art": "A girl with a soft cotton dupatta tied over her eyes, sniffing a folded T-shirt inside a steel tumbler that her grandmother holds up to her nose, while her mother and little brother watch and smile."
+ },
+ "intro": {
+  "hook": "Close your eyes. Someone in your family hugs you. Can you tell who it is without looking?",
+  "text": "You know your family by their faces and their voices. But your nose knows them too. Every person has their own smell, a little different from everyone else's. A new baby learns the smell of the people who hold them. In this unit we find out if you can tell your family apart by smell alone. We also meet many kinds of families, in people and in other animals.",
+  "art": "A small boy with his eyes squeezed shut being hugged from behind by his grandmother in a cotton saree, his face breaking into a smile."
+ },
+ "outcomes": [
+  "By the end I can say who is in my family and who looks after me.",
+  "By the end I can name some different kinds of families, in people and in other animals.",
+  "By the end I can find some of my family by smell alone, in a fair test.",
+  "By the end I can say that tiny living beings called microbes live on our skin, and pass between people who live together.",
+  "By the end I can say why we cover our eyes and try twice to make a test fair."
+ ],
+ "cards_mins": 8,
+ "terms": [
+  {
+   "term": "Family",
+   "meaning": "A family is a group of people who belong to each other and look after each other.",
+   "example": "Nila's family is her Amma, her Appa, her Ammachi and her little brother Arjun.",
+   "art": "A family of four sitting on a mat on the floor, eating dosa together from steel plates."
+  },
+  {
+   "term": "Relative",
+   "meaning": "A relative is someone in your family, near or far, like a grandmother, an aunt or a cousin.",
+   "example": "Revathi Chithi lives in Chennai, far from Nila. She is still Nila's relative.",
+   "art": "A family photo on a phone screen, with a grandmother, an aunt and three cousins smiling together."
+  },
+  {
+   "term": "Adopt",
+   "meaning": "To adopt a child is to take them into your family as your own son or daughter, for always.",
+   "example": "Revathi adopted baby Kayal. Kayal is Revathi's daughter now, for her whole life.",
+   "art": "A woman holding a baby girl close against her shoulder and smiling, with a cradle beside them."
+  },
+  {
+   "term": "Smell",
+   "meaning": "Smell is the sense that tells you what is in the air, through your nose.",
+   "example": "You smell sambar before you see the pot, because a little of it floats into your nose.",
+   "art": "A girl sniffing the steam rising from a pot of sambar on a kitchen stove."
+  },
+  {
+   "term": "Microbes",
+   "meaning": "Microbes are tiny living beings, far too small to see. Some of them live on your skin.",
+   "example": "Millions of microbes live on your hands right now. Most of them are friendly.",
+   "art": "A child's open hand, with a round zoom-in bubble showing many tiny round and rod-shaped microbes, drawn bright and friendly."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What a family is",
+   "status": "debated",
+   "definition": "A family is a group of people who belong to each other and look after each other.",
+   "description": "Every child grows up with someone who feeds them, holds them and keeps them safe. Those people are the child's family. Some people join a family by being born into it. Some join by marriage, like Amma and Appa. Some join by adoption, like baby Kayal. People do not all agree on who counts as family. Here are the main ideas.",
+   "examples": [
+    "Nila lives with her Amma, her Appa, her Ammachi and her brother Arjun in a flat in Kochi.",
+    "Farzana lives with her Ammi and her Nani in Hyderabad. Her Abba works in Dubai and calls every night.",
+    "Kayal was adopted by Revathi in Chennai when she was a baby. Revathi is her mother."
+   ],
+   "perspectives": [
+    {
+     "who": "Some people",
+     "explanation": "Family means the people you are related to, by birth, by marriage or by adoption. Cousins in another country are family, even if you have never met them."
+    },
+    {
+     "who": "Other people",
+     "explanation": "Family means the people who live with you and look after you. A neighbour aunty who cares for you every day can feel like family."
+    }
+   ],
+   "art": "Three small family pictures side by side: a grandmother, a mother and a girl in a Kochi flat; a mother, a grandmother and a girl in Hyderabad; a woman holding a baby in Chennai."
+  },
+  {
+   "concept": "Families come in many kinds",
+   "status": "defined",
+   "definition": "Families can be big or small, and can be made in different ways. Each kind is a real family.",
+   "description": "Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins under one roof. Some children are raised by a grandmother, an aunt or one parent. Some parents work in another city and come home when they can. Other animals have many kinds of families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. An ant family has one mother, the queen, and thousands of daughters. Almost every ant you see is a sister of the ants beside her.",
+   "examples": [
+    "Meenakshi's joint family in Madurai: Paati, Thatha, Amma, Appa, Periyamma, Periyappa, Meenakshi and two cousins, all in one house.",
+    "Joyita in Kolkata lives with her Baba. It is just the two of them, and her Dida visits on Sundays.",
+    "The ants on your kitchen floor are sisters. They all came from one mother queen in the nest."
+   ],
+   "perspectives": [],
+   "art": "A row of family pictures: a big joint family on a veranda, a father and daughter cooking fish curry, an elephant family walking with an old female in front, and a line of ant sisters carrying a crumb."
+  },
+  {
+   "concept": "How we know our family by smell",
+   "status": "defined",
+   "definition": "Every person has a body smell of their own. People can learn the smells of the people they live with, and know them again.",
+   "description": "You may not notice it, but every person has their own smell. You notice it most when you hug someone, or hold something they wore. Scientists have tested this. Brothers, sisters and mothers can pick out a family member's worn T-shirt by smell alone. A new mother can learn her baby's smell in less than an hour. Other animals do this too. A mother sheep smells her new lamb and remembers that smell. Ants touch each other with their feelers, and know a sister by her smell.",
+   "examples": [
+    "Many children sleep better with Amma's old saree or dupatta, because it smells of her.",
+    "A dog greets each person at the door by sniffing them first.",
+    "Two ants meet on the wall, touch feelers for a moment, and walk on together."
+   ],
+   "perspectives": [],
+   "art": "A small girl asleep, hugging a folded old cotton saree printed with small flowers, with a night lamp glowing beside her."
+  },
+  {
+   "concept": "The tiny living beings we share",
+   "status": "idea",
+   "definition": "",
+   "description": "Your skin is home to millions of microbes, tiny living beings too small to see. When you sweat, these microbes feed on the sweat. As they feed, they make much of your smell. When people live together, they hug, hold hands and touch the same things. So they pass microbes to each other. In 2013, scientists in the United States found that people in one home share more skin microbes than people from different homes. A husband and wife, who are not related by birth, shared many microbes too. People who had a dog even shared microbes with their dog. Scientists do not yet know if the shared microbes stay for long, or come and go after each touch.",
+   "examples": [
+    "Ammachi hugs Arjun every morning. Each hug passes a few microbes between them.",
+    "Everyone at home drinks from the same steel tumblers and sits on the same sofa.",
+    "A pet dog licks everyone's hands, and shares microbes with the whole family."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who found the sharing",
+     "explanation": "People who live together share more skin microbes than people who live apart, so living together shapes the tiny beings on us."
+    },
+    {
+     "who": "Scientists who are still checking",
+     "explanation": "Some shared microbes may only be passed on for a short time after a touch, and then go away. We need more tests to know which ones stay."
+    }
+   ],
+   "art": "A grandmother and a boy hugging, with a soft glowing cloud of tiny friendly microbes passing between their cheeks and hands."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "People can know their family members by smell alone.",
+   "evidence": "In 1981, Richard Porter and John Moore in the United States found that brothers, sisters and mothers could pick out a family member's worn T-shirt by smell. Many tests since then have found the same.",
+   "context": "This card is about what scientists agree on: our noses can know our family."
+  },
+  {
+   "text": "Much of a person's body smell is made by microbes on the skin.",
+   "evidence": "Fresh sweat has very little smell. The smell comes when skin microbes feed on the sweat. Scientists have shown this by growing the microbes on sweat in a lab.",
+   "context": "This card is about what scientists agree on: tiny living beings on our skin make much of our smell."
+  },
+  {
+   "text": "Families come in many kinds, and every kind can give a child love and care.",
+   "evidence": "Children grow up well in big families, small families, with one parent, with grandparents and with adopted parents. What matters most is having grown-ups who care for them every day.",
+   "context": "This card is about what is agreed about families: there are many good kinds."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Humans have a weak sense of smell. Only dogs and other animals really use their noses.",
+   "who": "A French doctor, Paul Broca, in 1879, and most people for over 100 years after him",
+   "for": "A dog's nose is much better than ours at many smells. The smell part of the human brain is small next to the rest of the brain.",
+   "against": "When scientists tested real people, they found humans can tell their own family by smell. The smell part of the human brain has about as many nerve cells as in many other mammals. In 2017, the brain scientist John McGann called the weak human nose a myth.",
+   "status": "rejected",
+   "context": "This card is about an old idea: that people have a poor sense of smell."
+  },
+  {
+   "claim": "A child who was adopted is not a real part of the family.",
+   "who": "An old idea some people still hold",
+   "for": "An adopted child was not born to the parents.",
+   "against": "In India, the law says an adopted child is the son or daughter of the family in every way, for life. An adopted child is fed, held and loved like any other child. People who live together even share the same skin microbes.",
+   "status": "rejected",
+   "context": "This card is about an old idea: that only children born into a family are real family."
+  },
+  {
+   "claim": "Your body smell comes from the family you are born into.",
+   "who": "Some scientists",
+   "for": "Twins who look the same smell more alike than other brothers and sisters. So genes play a part in body smell.",
+   "against": "Food, soap, sweat and skin microbes change body smell too. People who live together, related or not, share skin microbes. How much smell comes from genes and how much from living together is still being studied.",
+   "status": "debated",
+   "context": "This card is about a question scientists still argue about: where does body smell come from?"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "If your smell is made partly by tiny living beings on your skin, is your smell really yours?",
+   "kind": "deep",
+   "hint": "Think about the microbes on you, and who passed them to you."
+  },
+  {
+   "q": "Who is in your family? Is it the people who live with you, or the people you are related to, or both?",
+   "kind": "big",
+   "hint": "Think of someone who lives far away, and someone who is not related but looks after you."
+  },
+  {
+   "q": "An ant family has thousands of sisters. What would it be like to have a thousand sisters?",
+   "kind": "big",
+   "hint": "Think about who would cook, who would play, and how you would know them all."
+  },
+  {
+   "q": "A baby knows their family before they can see clearly or talk. How do you think a baby knows?",
+   "kind": "deep",
+   "hint": "Think about smell, touch, warmth and voices."
+  }
+ ],
+ "story": {
+  "title": "Ammachi's Shawl",
+  "mins": 6,
+  "read_aloud": true,
+  "note": "Nila, Arjun, Amma, Ammachi, Revathi and Kayal are made up. People really can know their family by smell, and people who live together really do share skin microbes.",
+  "text": [
+   "Nila lived in a flat in Kochi, on the fourth floor. She lived with her Amma, her Appa, her little brother Arjun and her Ammachi, her grandmother. Nila was six. Arjun was four.",
+   "Every morning, Ammachi oiled Nila's hair with coconut oil and plaited it. Every night, Ammachi sat on the edge of the bed and told a story. Her old cotton shawl lay over her shoulders, soft and faded, with a green border.",
+   "One day, a phone call came from Chennai. It was Revathi Chithi, Amma's younger sister. 'She is here!' said Revathi Chithi. 'Our baby is home!' Revathi Chithi had adopted a baby girl. Her name was Kayal.",
+   "'A new baby needs many hands,' said Ammachi. 'I will go to Chennai for two weeks to help.' Nila's face fell. Two weeks felt like forever.",
+   "On the night before Ammachi left, she took off her old shawl and put it round Nila. 'Keep this for me,' she said. 'I will come back for it.'",
+   "That night, Nila lay in bed with the shawl. She pressed her face into it. It smelled of coconut oil, of the kitchen, and of something else. It smelled of Ammachi. Nila fell asleep at once.",
+   "Every night for two weeks, Nila slept with the shawl. Arjun wanted it too. 'Just one sniff,' he said. He put his nose in it. 'It smells like Ammachi!' he said, surprised. 'How does a shawl smell like a person?'",
+   "Nila did not know. So she asked Amma. Amma was folding clothes. 'Every person has their own smell,' said Amma. 'You know Ammachi's smell, because you have been close to her every day of your life. Your nose remembers it.'",
+   "'Do I have a smell too?' asked Arjun. Amma sniffed the top of his head. 'You smell like Arjun,' she said, and he giggled.",
+   "At last, Ammachi came home. She came through the door with a bag of banana chips and a phone full of photos of baby Kayal. Nila and Arjun ran to her and hugged her very hard.",
+   "Nila gave back the shawl. Ammachi held it to her nose, and laughed. 'Ayyo! This smells of you now, Nila, not of me!'",
+   "Nila sniffed it. Ammachi was right. The shawl smelled a little like Nila's own pillow.",
+   "'How did that happen?' asked Arjun.",
+   "Ammachi sat down and pulled them both close. 'Your skin is home to many tiny living beings,' she said. 'They are called microbes. They are far too small to see. They make much of our smell. When you hold something close, some of them move onto it. When people hug, some of them move across too.'",
+   "'So the shawl got my microbes,' said Nila slowly.",
+   "'Yes,' said Ammachi. 'And people who live together pass them to each other all the time. That is part of why a home has its own smell.'",
+   "Arjun thought about this. 'What about baby Kayal?' he asked. 'She was not born in Revathi Chithi's family.'",
+   "Ammachi showed them a photo. Revathi Chithi was holding Kayal close, cheek to cheek. 'Revathi holds her all day,' said Ammachi. 'They sleep side by side. Revathi already knows her baby's smell. And they are sharing their tiny beings, just like we do.'",
+   "Nila looked at the photo for a long time. Then she wrapped the shawl back round Ammachi's shoulders and hugged her, shawl and all. 'Now it will smell of both of us,' said Nila."
+  ],
+  "epiphany": "A family's smell is made by living close together. Kayal shares it too, though she was adopted.",
+  "ask": [
+   "Why did the shawl smell of Ammachi at first, and of Nila later?",
+   "Baby Kayal was adopted. How does she come to share her family's smell?",
+   "Is there something at home that smells of someone you love? Who is it?"
+  ],
+  "art": [
+   "A grandmother in a cotton saree plaiting a girl's oiled hair in a sunny Kochi flat, a green-bordered shawl over her shoulders.",
+   "A girl asleep in bed, her face pressed into a faded green-bordered shawl, a little boy peeping at her from the door.",
+   "A grandmother laughing and sniffing a shawl at the front door, with a bag of banana chips, while two children hug her legs.",
+   "A phone screen showing a woman holding a baby girl cheek to cheek, with two children leaning in to look."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Family Line-Up: who comes first?",
+   "mins": 12,
+   "players": "The whole family, 3 or more people",
+   "context": "This is a moving game for the whole family. A caller reads a card, and everyone lines up in that order. Is the oldest person always the tallest? Who wakes first? The lines come out different every time.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "10 line-up cards to cut out",
+     "items": [
+      {
+       "f": "Line up from youngest to oldest.",
+       "b": "Ask each person how old they are, if you do not know."
+      },
+      {
+       "f": "Line up from shortest to tallest.",
+       "b": "Stand back to back to check."
+      },
+      {
+       "f": "Line up by who woke up first this morning.",
+       "b": "The first one awake goes at the front."
+      },
+      {
+       "f": "Line up from the smallest hand to the biggest hand.",
+       "b": "Put palms together to check."
+      },
+      {
+       "f": "Line up by who has the longest hair.",
+       "b": "Shortest hair at the front, longest at the back."
+      },
+      {
+       "f": "Line up by who has lived in this home the longest.",
+       "b": "The person who came first goes at the front."
+      },
+      {
+       "f": "Line up from the smallest foot to the biggest foot.",
+       "b": "Stand side by side and look down."
+      },
+      {
+       "f": "Line up by who fell asleep first last night.",
+       "b": "The first one asleep goes at the front."
+      },
+      {
+       "f": "Line up from the softest voice to the loudest voice.",
+       "b": "Everyone says 'hello' one at a time."
+      },
+      {
+       "f": "Line up by who was born nearest to this city.",
+       "b": "Ask everyone where they were born."
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Line-up record",
+     "items": [
+      "A row for each card: draw stick people in the order they stood.",
+      "Card 1: youngest to oldest",
+      "Card 2: shortest to tallest",
+      "Card 3: who woke first"
+     ]
+    }
+   ],
+   "rules": [
+    "Cut out the 10 cards. Shuffle them and put them face down.",
+    "The youngest player is the first caller. The caller turns over a card and reads it, or a grown-up reads it out.",
+    "Everyone lines up in that order. Talk, check and swap places until everyone agrees.",
+    "The caller draws the line on the record sheet as stick people.",
+    "The person at the front of the line is the next caller.",
+    "After 5 cards, look at the record sheet. Is the line the same every time?"
+   ],
+   "setup": [
+    {
+     "art": "Ten small paper cards face down on a floor mat, with a girl turning one over.",
+     "caption": "1. Shuffle the cards. Turn one over and read it."
+    },
+    {
+     "art": "A family of five standing in a line in a living room, shortest at one end, a grandmother in the middle, a tall father at the far end.",
+     "caption": "2. Everyone lines up in that order."
+    },
+    {
+     "art": "A record sheet with three rows of stick people, the order of the people different in each row.",
+     "caption": "3. Draw the line as stick people. Compare the lines."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out the cards. 2. Gather everyone at home in the biggest room. 3. Put the cards face down.",
+     "say": "Today the whole family plays a lining-up game. Do you think the youngest person will always be at the front? Why?",
+     "kid": "Everyone lines up in a different order each time. Guess who will be first.",
+     "ask": [
+      {
+       "q": "Will the oldest person always be the tallest?",
+       "good": [
+        "Yes, grown-ups are tall.",
+        "No, Ammachi is shorter than Appa."
+       ]
+      }
+     ],
+     "parent": "Any guess is fine. Write it down. Many children guess that oldest and tallest are the same."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Your child turns over the first card and you read it aloud. 2. Everyone lines up.",
+     "say": "Line up from youngest to oldest. Who goes at the front? Who goes at the back?",
+     "kid": "Line up from youngest to oldest. Where do you stand?",
+     "parent": "Let your child do the sorting. Help only with ages if needed."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Play three more cards. 2. After each line, your child draws it as stick people on the record sheet.",
+     "say": "Now line up from shortest to tallest. Is the line the same as before, or did someone move?",
+     "kid": "Now line up by height. Did someone move?",
+     "ask": [
+      {
+       "q": "Who moved when we lined up by height instead of age?",
+       "good": [
+        "Ammachi moved, because she is old but not tall.",
+        "Arjun stayed at the front both times."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "1. Play one card that is not about bodies, like who woke first. 2. Draw that line too.",
+     "say": "Who woke up first this morning? Line up! Is this line like the others?",
+     "kid": "Who woke up first today? Line up!"
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "1. Lay the record sheet on the floor. 2. Look at all the lines together.",
+     "say": "Look at all our lines. Is the same person always at the front? What does that tell us about our family?",
+     "kid": "Look at all the lines. Is anyone always first?",
+     "ask": [
+      {
+       "q": "Why are the lines different?",
+       "good": [
+        "Each line sorts by a different thing.",
+        "The oldest is not always the tallest."
+       ]
+      }
+     ],
+     "parent": "The point is that every person in a family is first at something. Sorting by different features gives different orders.",
+     "check": {
+      "t": "mcq",
+      "q": "Ammachi is the oldest. Is she always at the back of the line?",
+      "options": [
+       "Yes, always",
+       "No, it depends on what we line up by"
+      ],
+      "a": 1,
+      "why": "Ammachi is at the back when we line up by age. But when we line up by height or by who woke first, she may be somewhere else. Each line sorts by one thing."
+     }
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Whose Cloth Is This? Can you find your family by smell alone?",
+   "mins": 22,
+   "days": 1,
+   "context": "In this experiment, everyone at home sleeps one night in a cotton T-shirt or vest. In the morning, each one goes into a steel tumbler. With your eyes covered, you sniff each tumbler and guess whose shirt it is.",
+   "question": "Can I tell who wore a shirt just by smelling it, with my eyes covered?",
+   "predict": "Guess first. Whose shirt will you know most easily by smell? Whose will be hardest? Why do you think so?",
+   "fair_test": "Every shirt goes in the same kind of steel tumbler, so the tumblers give no clue. Your eyes are covered, so you cannot see the shirt. Your hands stay in your lap, so your fingers give no clue. Nobody wears perfume the night before. We add one clean, washed shirt, to see what 'nobody' smells like. We do two rounds, because one right guess could be luck.",
+   "results_table": [
+    "Whose shirt (written under the tumbler)",
+    "My guess, round 1",
+    "My guess, round 2",
+    "Right both times?"
+   ],
+   "materials": [
+    {
+     "item": "one cotton T-shirt, banian or nightie for each person at home, worn for one night (not freshly washed after)",
+     "qty": "one each"
+    },
+    {
+     "item": "one clean, washed cotton T-shirt that nobody has worn",
+     "qty": 1
+    },
+    {
+     "item": "steel tumblers or steel dabbas, all the same kind",
+     "qty": "one per shirt"
+    },
+    {
+     "item": "a dupatta or soft cloth to cover the eyes",
+     "qty": 1
+    },
+    {
+     "item": "small paper chits and a pencil",
+     "qty": "one chit per shirt"
+    },
+    {
+     "item": "paper and crayons for the results",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 2,
+     "what": "In the evening: everyone puts on a cotton shirt or vest for bed. No perfume, no new soap."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "In the morning: put each shirt in a tumbler. Cover the eyes, sniff, guess. Do two rounds and record."
+    }
+   ],
+   "record": "Draw one tumbler for each shirt. Under each, draw the face of the person you guessed. Put a tick when you were right.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Whose shirt",
+     "Round 1 guess",
+     "Round 2 guess",
+     "Right both times?"
+    ],
+    "rows": [
+     [
+      "Amma",
+      "Amma",
+      "Amma",
+      "Yes"
+     ],
+     [
+      "Ammachi",
+      "Ammachi",
+      "Appa",
+      "No"
+     ],
+     [
+      "Appa",
+      "Arjun",
+      "Appa",
+      "No"
+     ],
+     [
+      "Arjun",
+      "Arjun",
+      "Arjun",
+      "Yes"
+     ],
+     [
+      "Clean shirt",
+      "Nobody",
+      "Nobody",
+      "Yes"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A family of four getting ready for bed in plain cotton T-shirts and vests, a girl pulling hers over her head.",
+     "caption": "1. The night before, everyone sleeps in a cotton shirt."
+    },
+    {
+     "art": "A row of identical steel tumblers on a kitchen counter, each with a folded T-shirt stuffed inside, and a small paper chit tucked underneath each one.",
+     "caption": "2. In the morning, put each shirt in a tumbler. Hide a name chit underneath."
+    },
+    {
+     "art": "A girl with a dupatta tied over her eyes, sniffing a steel tumbler held under her nose by her mother.",
+     "caption": "3. Cover your eyes. Sniff each tumbler and guess whose shirt it is."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. In the evening, tell everyone about the test. 2. Each person puts on a cotton T-shirt, vest or nightie for bed. 3. Ask everyone not to use perfume or scented powder tonight.",
+     "say": "Tomorrow we test your nose. Everyone sleeps in a cotton shirt tonight. Whose shirt do you think you will know best? Why?",
+     "kid": "Everyone wears a cotton shirt to bed tonight. Tomorrow we sniff them. Whose shirt will you know best? Why?",
+     "ask": [
+      {
+       "q": "Whose shirt will be easiest to know by smell?",
+       "good": [
+        "Amma's, because I hug her the most.",
+        "Ammachi's, because she uses coconut oil."
+       ]
+      }
+     ],
+     "parent": "Write down the guess and the reason. Say nothing yet. Children often guess the person they hug most."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. In the morning, while your child waits in another room, each person folds their shirt into a steel tumbler. 2. Fold one clean, washed shirt into a tumbler too. 3. Write each name on a chit and tuck it under that tumbler. 4. Mix up the tumblers on the counter.",
+     "say": "Wait here. We are hiding the shirts in the tumblers. No peeping!",
+     "kid": "Wait in the other room. No peeping!",
+     "parent": "All the tumblers should look the same. If some shirts are a different colour, push them right down so only the tumbler shows."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Tie the dupatta gently over your child's eyes. 2. Check that they cannot see. 3. Tell them they will not touch the shirts.",
+     "say": "I am covering your eyes, so your eyes cannot help. Keep your hands in your lap, so your fingers cannot help either. Only your nose can work now.",
+     "kid": "Your eyes are covered. Keep your hands in your lap. Only your nose works now.",
+     "ask": [
+      {
+       "q": "Why do we cover your eyes?",
+       "good": [
+        "So I cannot see whose shirt it is.",
+        "So the test is fair."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Hold one tumbler under your child's nose for a few slow sniffs. 2. Ask whose shirt it is. 3. Write the guess next to that tumbler's place. 4. Do every tumbler. Between tumblers, let your child sniff the inside of their own elbow.",
+     "say": "Take three slow sniffs. Whose shirt is this? It is fine to say 'I don't know' or 'nobody'.",
+     "kid": "Sniff slowly, three times. Whose shirt is it? You can say 'I don't know'.",
+     "ask": [
+      {
+       "q": "What does this one smell like?",
+       "good": [
+        "Like coconut oil and Ammachi.",
+        "Like nothing, maybe it is the clean one."
+       ]
+      }
+     ],
+     "parent": "Sniffing their own elbow between tumblers clears the nose a little. Smells are faint, so keep the tumbler close and give your child time."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Take the dupatta off. 2. Mix the tumblers again while your child turns away. 3. Cover the eyes again and do round 2. 4. Write the second guesses.",
+     "say": "Now we do it all again in a new order. One right guess could be luck. Two right guesses is a real clue.",
+     "kid": "Let's do it again in a new order. Two right guesses is not luck.",
+     "parent": "Keep the chits under the tumblers as you mix them."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "1. Take off the dupatta. 2. Lift each tumbler and read the chit together. 3. Your child puts a tick on the results for each right guess.",
+     "say": "Let's look under the tumblers. Whose shirts did you know both times? Which ones were hard? Why do you think so?",
+     "kid": "Look under each tumbler. Which ones did you get right? Which were hard?",
+     "ask": [
+      {
+       "q": "Why was one person's shirt easiest?",
+       "good": [
+        "I hug Amma every day, so I know her smell.",
+        "Appa's shirt smelled of his hair oil."
+       ]
+      }
+     ],
+     "parent": "Most children get at least one person right both times, usually the person they are closest to. If your child got none right, that is a real result too. Smells on a shirt are faint. Try again with shirts worn for two nights, or let a grown-up be the sniffer. Wash the shirts afterwards.",
+     "check": {
+      "t": "mcq",
+      "q": "What did you use to find whose shirt it was?",
+      "options": [
+       "My eyes",
+       "My nose",
+       "My fingers"
+      ],
+      "a": 1,
+      "why": "Your eyes were covered and your hands were in your lap. Only your nose could tell. So each person really does have their own smell."
+     }
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Pass the Smell: how far does it go along a line of hands?",
+   "mins": 12,
+   "days": 1,
+   "context": "In this experiment, one person rubs a crushed clove of garlic on their palm. Then everyone shakes hands down a line. Who still smells of garlic at the end? This shows how things too small to see pass from person to person.",
+   "question": "If one person has garlic on their hand, and we shake hands down a line, how far does the smell go?",
+   "predict": "Guess first. Will the last person in the line smell of garlic? Why do you think so?",
+   "fair_test": "Everyone washes and dries their hands first, so they start the same. Everyone shakes hands the same way, for the count of three. Everyone smells their own palm the same way.",
+   "results_table": [
+    "Place in the line",
+    "Name",
+    "Garlic smell: strong, a little, or none?"
+   ],
+   "materials": [
+    {
+     "item": "one clove of garlic",
+     "qty": 1
+    },
+    {
+     "item": "a steel spoon to crush it",
+     "qty": 1
+    },
+    {
+     "item": "soap and water",
+     "qty": 1
+    },
+    {
+     "item": "3 or more people",
+     "qty": "the family"
+    }
+   ],
+   "safety": "Keep garlic away from eyes. Everyone washes their hands with soap at the end.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Wash hands. Rub garlic on one palm. Shake hands down the line. Smell each palm and record."
+    }
+   ],
+   "record": "Draw the line of people. Colour each hand: dark green for a strong smell, light green for a little, no colour for none.",
+   "setup": [
+    {
+     "art": "A woman pressing a peeled garlic clove under the back of a steel spoon on a chopping board.",
+     "caption": "1. Crush a garlic clove. The first person rubs it on their palm."
+    },
+    {
+     "art": "A line of four family members shaking hands one after another, a grandmother at the start and a small boy at the end.",
+     "caption": "2. Shake hands down the line, one after another."
+    },
+    {
+     "art": "A small boy sniffing his own palm with a puzzled face, while the others sniff theirs.",
+     "caption": "3. Everyone smells their own palm. Who smells of garlic?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Everyone washes hands with soap and dries them. 2. Stand in a line. 3. Ask for a guess.",
+     "say": "Ammachi will put garlic on her hand. Then we shake hands down the line. Will the last person smell of garlic? Why?",
+     "kid": "One person gets garlic on their hand. We shake hands down the line. Will the last person smell of garlic? Why?",
+     "ask": [
+      {
+       "q": "Will the last person smell of garlic?",
+       "good": [
+        "Yes, it will pass along.",
+        "No, it will be used up by then."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "1. Crush the garlic clove with the back of the spoon. 2. The first person in the line rubs it on one palm for a few seconds.",
+     "say": "Smell the garlic. Now the first person rubs it on their palm.",
+     "kid": "Smell the garlic. The first person rubs it on their palm.",
+     "parent": "A grown-up crushes the garlic. Throw the clove in the cooking afterwards.",
+     "adult": true
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. The first person shakes hands with the second, for a count of three. 2. The second shakes with the third. 3. Go to the end of the line.",
+     "say": "Shake hands, one, two, three. Now pass it on to the next person.",
+     "kid": "Shake hands. Count one, two, three. Pass it on.",
+     "parent": "Use the same hand each time."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Everyone sniffs their own palm. 2. Each person says strong, a little, or none. 3. Your child records it.",
+     "say": "Sniff your palm. Is the garlic smell strong, a little, or none? Who has the most? Who has the least?",
+     "kid": "Sniff your palm. Strong, a little, or none?",
+     "ask": [
+      {
+       "q": "Why did the smell get weaker down the line?",
+       "good": [
+        "Each hand got a little less than the hand before.",
+        "Some stayed on each hand."
+       ]
+      }
+     ],
+     "parent": "Usually the first two people smell clearly of garlic and the end of the line smells faintly or not at all.",
+     "check": {
+      "t": "mcq",
+      "q": "Who smelled most of garlic?",
+      "options": [
+       "The first person",
+       "The last person",
+       "Everyone the same"
+      ],
+      "a": 0,
+      "why": "The first person rubbed the garlic on. Each handshake passed on only a little, so the smell got weaker down the line."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "1. Everyone washes hands with soap. 2. Talk about microbes.",
+     "say": "Microbes on our skin are much too small to see or smell. But they pass from hand to hand, just like the garlic did. People who live together pass them to each other every day.",
+     "kid": "Tiny microbes pass from hand to hand too, like the garlic. Now wash with soap!"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "My Home Picture: who lives with me, and who lives far away",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity your child draws everyone who lives in the home on one side of a page. On the other side, they draw family who live far away, with a line to show how they keep in touch.",
+   "materials": [
+    {
+     "item": "a sheet of paper folded in half",
+     "qty": 1
+    },
+    {
+     "item": "crayons or colour pencils",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Fold a page. Draw the people at home on one side and family far away on the other."
+    }
+   ],
+   "record": "The folded drawing, with a name under each person.",
+   "setup": [
+    {
+     "art": "A sheet of paper folded down the middle, with a crayon drawing of a house on the left half and a bus and a phone on the right half.",
+     "caption": "1. Fold a page. Draw your home on one side."
+    },
+    {
+     "art": "A child's crayon drawing of five stick people inside a house on the left, and two stick people far away on the right, joined by a dotted line to a phone.",
+     "caption": "2. Draw who lives with you. Draw family far away on the other side."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 1,
+     "do": "1. Fold the page in half. 2. On the left half, your child draws a big house.",
+     "say": "Let's draw your family. Who lives in our home with you?",
+     "kid": "Draw a big house on this side. Who lives here with you?"
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Your child draws each person who lives in the home, inside the house. 2. You write each name under the drawing.",
+     "say": "Draw each person who sleeps in our home. Who looks after you when you are sick?",
+     "kid": "Draw everyone who lives here. Draw pets too, if you have any.",
+     "ask": [
+      {
+       "q": "Who looks after you when you are sick?",
+       "good": [
+        "Amma and Ammachi.",
+        "Appa makes me rasam."
+       ]
+      }
+     ],
+     "parent": "Let your child decide who to include. A house help, a pet or a plant may appear. Ask about them warmly."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. On the right half, your child draws family who live somewhere else. 2. Draw a line from each one to how you keep in touch: a phone, a bus, a train or a letter.",
+     "say": "Who is in our family but lives far away? How do we talk to them?",
+     "kid": "Draw family who live far away. How do you talk to them?",
+     "ask": [
+      {
+       "q": "Is someone far away still part of your family?",
+       "good": [
+        "Yes, Chithi is my family even in Chennai.",
+        "Yes, because we call her."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 1,
+     "do": "1. Look at the whole page together.",
+     "say": "Look at your family. Some are near and some are far. All of them are your family.",
+     "kid": "Look! Your family, near and far."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Families of Many Kinds: listen and match",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you read out six short family stories. For each one, your child says who looks after the child in that family, and whether that family is like their own.",
+   "materials": [
+    {
+     "item": "two bowls and a handful of dry rajma, chana or pebbles",
+     "qty": 1
+    },
+    {
+     "item": "this list of family stories, read from the phone",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Read six family stories. For each, say who looks after the child. Drop a bean in the 'like mine' or 'not like mine' bowl."
+    }
+   ],
+   "record": "Count the beans in each bowl. Draw one family from the list that is not like yours.",
+   "setup": [
+    {
+     "art": "A mother reading from a phone to a girl sitting cross-legged beside two steel bowls and a small heap of red rajma beans.",
+     "caption": "1. Listen to each family story."
+    },
+    {
+     "art": "A child's hand dropping one red rajma bean into one of two steel bowls, one labelled with a smiling face and one with a question mark.",
+     "caption": "2. Drop a bean in 'like my family' or 'not like my family'."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 1,
+     "do": "1. Put the two bowls in front of your child. 2. Say which bowl is 'like my family' and which is 'not like my family'.",
+     "say": "I will read about six families. Listen for who looks after the child.",
+     "kid": "Listen to six families. Who looks after the child?"
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Read each family slowly. 2. After each, ask who looks after the child. 3. Your child drops a bean in one bowl.",
+     "say": "Family 1: Meenakshi lives in Madurai with her Paati, Thatha, Amma, Appa, aunt, uncle and two cousins. Family 2: Joyita lives in Kolkata with just her Baba. Family 3: Kayal was adopted by Revathi in Chennai. Family 4: Tenzin lives in Gangtok with her Ama and her Momo-la, her grandmother. Family 5: Lakshmi lives in Mysuru with her Amma. Her Appa works in another city and comes home each month. Family 6: Farhan lives in Pune with his two Phuphis, his aunts, who raise him.",
+     "kid": "Listen to each family. Who looks after the child? Is that family like yours?",
+     "ask": [
+      {
+       "q": "In Joyita's family, who looks after Joyita?",
+       "good": [
+        "Her Baba.",
+        "Her father, and her Dida on Sundays."
+       ]
+      },
+      {
+       "q": "Is Kayal's family a real family?",
+       "good": [
+        "Yes, Revathi is her mother.",
+        "Yes, because they love each other."
+       ]
+      }
+     ],
+     "parent": "Read one family at a time and wait for an answer before the next. There are no wrong bowls: the bowls show how your child sees their own family."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Count the beans in each bowl together.",
+     "say": "How many families are like ours? How many are different? Every one of them is a real family.",
+     "kid": "Count the beans in each bowl. Every one is a real family.",
+     "check": {
+      "t": "mcq",
+      "q": "Which of these is a real family?",
+      "options": [
+       "Only a mother, a father and children",
+       "Only a big joint family",
+       "Every one of the six families"
+      ],
+      "a": 2,
+      "why": "Each of the six families has grown-ups who look after a child. Families come in many kinds, and every kind is a real family."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Elephant Family Walk",
+   "mins": 8,
+   "days": 1,
+   "context": "In this moving activity, your family walks around the home like a family of Asian elephants. An older female leads. The young ones walk in the middle, where they are safest.",
+   "materials": [
+    {
+     "item": "a clear path around the room or the flat",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Walk round the home as an elephant family, with the oldest female in front and the young in the middle."
+    }
+   ],
+   "record": "Draw your elephant family walk, with the leader at the front.",
+   "setup": [
+    {
+     "art": "A grandmother leading a line of family members around a living room, each person holding the back of the person in front like an elephant holding a tail with a trunk.",
+     "caption": "1. The oldest woman leads. Everyone holds on to the person in front."
+    },
+    {
+     "art": "A family walking in a slow circle, with a small boy safely in the middle and grown-ups around him.",
+     "caption": "2. The youngest walk in the middle, where they are safe."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Explain the elephant family. 2. Choose the oldest woman at home to be the leader.",
+     "say": "Asian elephants live in families of mothers, daughters, aunts and young ones. Often an older female leads the way to water. Who is our oldest woman? She leads!",
+     "kid": "Elephant families stay together. An older female often leads. Who will lead us?",
+     "parent": "This is true of Asian elephants in India. T. N. C. Vidya and her team in Bengaluru study elephant families in Nagarahole and Bandipur forests. Grown-up male elephants leave their family and mostly live alone or in small groups."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Everyone lines up behind the leader. 2. Each person holds the back of the shirt of the person in front, like a trunk holding a tail. 3. Walk slowly round the home.",
+     "say": "Hold on, like a baby elephant holding their mother's tail with their trunk. Walk slowly. Our leader is taking us to the river!",
+     "kid": "Hold on to the person in front. Walk slowly behind the leader.",
+     "parent": "Baby elephants do sometimes hold their mother's tail with their trunk as they walk."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. The leader calls 'Tiger!' 2. The grown-ups make a circle round the youngest child. 3. Then walk on.",
+     "say": "Tiger! Quick, the young ones go in the middle. The grown-ups stand around them. Why do you think elephants do this?",
+     "kid": "Tiger! The little ones go in the middle. Why?",
+     "ask": [
+      {
+       "q": "Why do the young ones go in the middle?",
+       "good": [
+        "So the tiger cannot reach them.",
+        "The big elephants keep them safe."
+       ]
+      }
+     ],
+     "parent": "Elephant families do gather around their calves when there is danger."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Who Else Lives in Our Home? A hunt for other living beings",
+   "mins": 10,
+   "days": 1,
+   "context": "People are not the only ones who live in a home. In this hunt your child looks for other living beings that share your home: ants, a lizard, a potted plant, a crow at the window, and microbes in the curd.",
+   "materials": [
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a torch, if you have one",
+     "qty": 1
+    },
+    {
+     "item": "a bowl of curd",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Walk round the home and list every living being you find besides people."
+    }
+   ],
+   "record": "A list with a little drawing for each living being found, and where.",
+   "setup": [
+    {
+     "art": "A girl kneeling on a kitchen floor with a torch, looking at a line of tiny ants walking along the edge of the wall.",
+     "caption": "1. Look in corners, near the kitchen and at the windows."
+    },
+    {
+     "art": "A child's list on paper with small drawings: ants, a house lizard, a tulsi plant in a pot, a crow, and a bowl of curd.",
+     "caption": "2. Draw each living being you find, and where."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 1,
+     "do": "1. Give your child the paper and pencil.",
+     "say": "Our family is not the only family living here. Let's find who else lives in our home.",
+     "kid": "Who else lives in our home? Let's look!"
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Walk round the home together. 2. Look near the kitchen, in corners, behind the fridge with the torch, on the walls at night, and at the windows. 3. Your child draws each living being found.",
+     "say": "Look near the kitchen floor. Are there ants? Look up at the wall. Is there a lizard? Is there a plant at the window?",
+     "kid": "Look on the floor, up the walls and at the window. Draw what you find.",
+     "ask": [
+      {
+       "q": "What other living beings share our home?",
+       "good": [
+        "Ants in the kitchen.",
+        "A lizard on the wall.",
+        "Our tulsi plant."
+       ]
+      }
+     ],
+     "parent": "Ants and a potted plant are found in most homes. A house lizard, a spider or a crow at the window are common too. Do not touch any of them."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Show the bowl of curd. 2. Explain that curd is full of living microbes.",
+     "say": "This curd is full of living microbes, too small to see. They turned the milk into curd. And millions of microbes live on our skin too. So how many living beings live in our home?",
+     "kid": "Curd is full of tiny living microbes. So are we! How many living beings live here?",
+     "ask": [
+      {
+       "q": "Is our home only for people?",
+       "good": [
+        "No, ants and the lizard live here too.",
+        "No, microbes live everywhere."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Who Looked After Me as a Baby? A three-day memory book",
+   "mins": 30,
+   "days": 3,
+   "context": "In this project your child asks one family member each day about when they were a baby. Who fed them? Who sang to them? Who held them at night? They make one page a day.",
+   "materials": [
+    {
+     "item": "3 sheets of paper, stapled or tied with thread into a little book",
+     "qty": 1
+    },
+    {
+     "item": "crayons",
+     "qty": 1
+    },
+    {
+     "item": "a baby photo of your child, on a phone or printed, if you have one",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Look at a baby photo. Ask one person: what did I eat as a baby? Draw it."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Ask another person: what song did someone sing to me? Sing it together and draw it."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Ask a third person, or call one far away: who held me at night? Draw it and finish the cover."
+    }
+   ],
+   "record": "A three-page memory book, with a drawing and a sentence on each page, written by a grown-up.",
+   "setup": [
+    {
+     "art": "A girl showing her grandmother a baby photo on a phone, both laughing.",
+     "caption": "1. Each day, ask one family member about when you were a baby."
+    },
+    {
+     "art": "A small handmade book of three pages tied with red thread, open to a crayon drawing of a woman rocking a baby.",
+     "caption": "2. Draw one page each day."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Look at a baby photo together. 2. Your child asks one person: what did I eat when I was a baby? 3. Your child draws it. 4. Write the answer under the drawing.",
+     "say": "Look, this is you as a baby! You could not walk or talk. Who fed you? Ask Ammachi what you ate.",
+     "kid": "Look, that is you as a baby! Ask: what did I eat? Draw it.",
+     "ask": [
+      {
+       "q": "What did you eat as a baby?",
+       "good": [
+        "Milk, then ragi porridge.",
+        "Mashed rice and dal."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. On day two, your child asks another person: what song did someone sing to me? 2. Sing it together. 3. Draw it.",
+     "say": "Who sang you to sleep? Ask Appa. Can he sing it now?",
+     "kid": "Ask: who sang to me? Sing it together. Draw it.",
+     "wait": "Do this the next day."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. On day three, ask someone, or call someone far away: who held me at night? 2. Draw it. 3. Make a cover with your name.",
+     "say": "When you were a baby, many people looked after you. Who held you when you cried at night? Let's call Chithi and ask her.",
+     "kid": "Ask: who held me when I cried? Draw it. Make a cover.",
+     "ask": [
+      {
+       "q": "How many people looked after you as a baby?",
+       "good": [
+        "Lots, Amma, Appa, Ammachi and Chithi.",
+        "Everyone in my family."
+       ]
+      }
+     ],
+     "parent": "A baby needs many hands. The book shows your child how many people made sure they were fed, held and safe.",
+     "wait": "Do this the day after."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Make My Family Picture Stand Up",
+   "mins": 15,
+   "context": "This is a building challenge. You drew a picture of your family. Can you make it stand up on a shelf by itself, using only paper, cardboard and tape?",
+   "problem": "Make your family drawing stand up on a table by itself, without leaning on a wall, for as long as you count to 20.",
+   "constraints": [
+    "Use only paper, old cardboard, tape or glue.",
+    "The picture must face the front so everyone can see it.",
+    "It must not lean on the wall or on anything else."
+   ],
+   "materials": [
+    "your family drawing",
+    "old cardboard from a box",
+    "paper",
+    "tape or glue",
+    "child-safe scissors"
+   ],
+   "general": [
+    "Fold a strip of cardboard into a triangle and tape it to the back of the picture, like a photo frame.",
+    "Fold the bottom of the paper forward to make a flat foot.",
+    "Fold the paper into a tent shape, with the picture on one side."
+   ],
+   "creative": [
+    "Cut a slot in a small box and slide the picture into the slot.",
+    "Roll two paper tubes and tape them behind the picture like legs.",
+    "Stand the picture in a lump of atta dough on a small plate."
+   ],
+   "your_turn": "Now make a stand for a picture of a family who lives far away, so they can be on the shelf too.",
+   "setup": [
+    {
+     "art": "A child's crayon drawing of a family lying flat on a table, with a strip of cardboard, tape and safety scissors beside it.",
+     "caption": "1. Start with your drawing, cardboard and tape."
+    },
+    {
+     "art": "The family drawing standing upright on a shelf, held by a folded cardboard triangle taped to its back.",
+     "caption": "2. Build a stand. Count to 20 to test it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Put the drawing flat on the table. 2. Ask how to make it stand.",
+     "say": "Your family picture is lying down. How can we make it stand up by itself? What do you think will work?",
+     "kid": "Your picture is lying down. How can it stand up by itself?",
+     "ask": [
+      {
+       "q": "How could you make it stand?",
+       "good": [
+        "Put something behind it.",
+        "Fold the bottom."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Your child tries one idea with cardboard, paper and tape. 2. Stand it on the table. 3. Count to 20 together.",
+     "say": "Try your idea. Stand it up and let go. Let's count to 20. Did it stay up?",
+     "kid": "Try your idea. Let go. Count to 20!",
+     "parent": "Help with cutting cardboard. If it falls, ask which way it fell, and what could stop it falling that way.",
+     "adult": true
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. If it fell, try a second idea. 2. Put the picture on a shelf where everyone can see it.",
+     "say": "What made it stay up? Where shall we put our family?",
+     "kid": "What made it stand? Put your family on the shelf!",
+     "ask": [
+      {
+       "q": "What made the stand work?",
+       "good": [
+        "The triangle at the back held it.",
+        "A wide foot stopped it falling."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "How smell works, for children",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "Shows how tiny bits of a thing float into the nose, and how the nose tells smells apart.",
+   "check": "Find a short, accurate video. Check it does not say humans have a weak sense of smell."
+  },
+  {
+   "title": "An Asian elephant family in an Indian forest",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "Shows real elephant mothers, aunts and calves walking and bathing together.",
+   "check": "Find real footage of Asian elephants in India, for example from Nagarahole, Bandipur or Kaziranga. Check that it says males leave the family group."
+  },
+  {
+   "title": "Ants in their nest: one queen and many sisters",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 3,
+   "why": "Shows inside an ant nest, with the queen laying eggs and her daughters caring for the young.",
+   "check": "Find real footage. Check it says worker ants are female and daughters of the queen."
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "My Family and Its Smell (core)",
+   "tier": "core",
+   "mins": 15,
+   "items": [
+    {
+     "t": "draw",
+     "p": "Draw everyone who lives in your home. Ask a grown-up to write each name.",
+     "a": "A drawing of each person in the home, with names.",
+     "why": "A strong drawing includes everyone who lives in the home, and may include pets or a grandparent."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each family to who is in it.",
+     "pairs": [
+      [
+       "An elephant family",
+       "Mothers, aunts and young ones, with an older female leading"
+      ],
+      [
+       "An ant family",
+       "One mother queen and thousands of sister ants"
+      ],
+      [
+       "Joyita's family in Kolkata",
+       "Joyita and her Baba"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Every one of these is a family, and each kind is different.",
+     "art": "Three pictures on the left (elephants walking, ants carrying a crumb, a father and daughter) and three groups on the right."
+    },
+    {
+     "t": "mcq",
+     "p": "In the shirt test, you found whose shirt it was with your eyes covered. Circle what you used.",
+     "opts": [
+      "My eyes",
+      "My nose",
+      "My ears"
+     ],
+     "a": 1,
+     "why": "Your eyes were covered, so only your nose could tell. Each person has their own smell.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A family must always have a mother, a father and children.",
+     "a": false,
+     "why": "False. Some families have one parent, some have grandparents raising a child, and some have aunts. Every kind with grown-ups who care is a family."
+    },
+    {
+     "t": "odd",
+     "p": "Circle the one that is NOT a family.",
+     "opts": [
+      "A grandmother and her two grandchildren",
+      "A mother and her son",
+      "A shopkeeper and the people buying rice",
+      "An aunt, an uncle and their three children"
+     ],
+     "a": 2,
+     "why": "A shopkeeper and customers meet to buy and sell. They do not belong to each other or look after each other. The others are families."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down. In the shirt test, why did we cover your eyes?",
+     "lines": 2,
+     "a": "So I could not see whose shirt it was. Then only my nose could tell.",
+     "why": "A strong answer says covering the eyes makes the test fair, because only the nose can give the answer.",
+     "how": "e1"
+    },
+    {
+     "t": "count",
+     "p": "Meenakshi's joint family is in this picture. Count the people. Write the number.",
+     "a": "9 people.",
+     "why": "There are Paati, Thatha, Amma, Appa, an aunt, an uncle, Meenakshi and two cousins: 9 people in all.",
+     "art": "A joint family of nine on a veranda in Madurai: a grandmother and grandfather in the middle, two men, two women and three girls."
+    },
+    {
+     "t": "perspective",
+     "p": "Kavya and Lalitha, two sisters in Kochi, are talking about families.",
+     "views": [
+      {
+       "who": "Kavya, aged 7",
+       "says": "Your family is the people you are related to, like cousins far away."
+      },
+      {
+       "who": "Lalitha, aged 6",
+       "says": "Your family is the people who live with you and look after you."
+      }
+     ],
+     "ask": "Who do you agree with? Could both be right? Then say one good thing about the other sister's idea.",
+     "a": "Any side, with a reason. Both can be right: many people are both related and live together.",
+     "why": "A strong answer gives a reason, for example 'Chithi lives far away but she is still my family'. It also sees what is good in the other view."
+    },
+    {
+     "t": "sort",
+     "p": "How do you know it is Ammachi? Colour the clues you see in blue. Colour the clues you smell in green.",
+     "cats": [
+      "I see it",
+      "I smell it"
+     ],
+     "items": [
+      [
+       "her coconut oil",
+       "I smell it"
+      ],
+      [
+       "her green shawl",
+       "I see it"
+      ],
+      [
+       "her grey hair",
+       "I see it"
+      ],
+      [
+       "her own body smell",
+       "I smell it"
+      ]
+     ],
+     "a": "as given",
+     "why": "We know our family with our eyes and with our noses. A smell clue works even in the dark."
+    },
+    {
+     "t": "label",
+     "p": "Here is the shirt test. Draw a ring round the thing that stops the eyes from helping. Draw a cross on the thing that holds the shirt.",
+     "a": "A ring round the dupatta over the eyes. A cross on the steel tumbler.",
+     "why": "A strong answer finds the dupatta, which makes the test fair, and the tumbler, which hides the shirt.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "How We Know Each Other (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Nila sniffs two shirts. Amma wore one all night. The other was just washed. Which one smells of a person?",
+     "opts": [
+      "The one Amma wore",
+      "The one just washed",
+      "Both the same"
+     ],
+     "a": 0,
+     "why": "A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why we used a washed shirt as the 'nobody' shirt.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down. In your shirt test, whose shirt was easiest to find? Why do you think so?",
+     "lines": 2,
+     "a": "For example: Amma's, because I hug her every day and I know her smell.",
+     "why": "A strong answer names a person from their own results and gives a reason, like being close to that person.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Microbes are too small to see. Draw what you think the microbes on your hand might look like, if you could zoom in.",
+     "a": "Any drawing of many tiny beings on a hand.",
+     "why": "A strong drawing shows many tiny beings on the skin. Real skin microbes are round or rod-shaped, much too small to see."
+    },
+    {
+     "t": "truefalse",
+     "p": "A new mother can learn her baby's smell in less than one hour.",
+     "a": true,
+     "why": "True. In 1987, Marsha Kaitz and her team in Jerusalem found that nearly all new mothers could pick out their baby's shirt by smell, after less than an hour together."
+    },
+    {
+     "t": "order",
+     "p": "Put the shirt test in order. Write 1, 2, 3, 4.",
+     "items": [
+      "Sniff the tumbler and guess",
+      "Sleep in a cotton shirt",
+      "Cover the eyes with a dupatta",
+      "Put each shirt in a tumbler"
+     ],
+     "a": [
+      "Sleep in a cotton shirt",
+      "Put each shirt in a tumbler",
+      "Cover the eyes with a dupatta",
+      "Sniff the tumbler and guess"
+     ],
+     "why": "First the shirt picks up the smell. Then it goes in the tumbler. Then the eyes are covered, and last comes the sniffing.",
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each animal to how they know their family.",
+     "pairs": [
+      [
+       "Two ants meeting",
+       "Touch feelers to smell if they are sisters"
+      ],
+      [
+       "A mother sheep",
+       "Smells her new lamb and remembers the smell"
+      ],
+      [
+       "A mother elephant",
+       "Keeps her calf close in the middle of the family"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Humans and other animals know their family in many ways. Smell is one of the most important.",
+     "art": "Two ants touching feelers, a mother sheep sniffing a lamb, and a mother elephant with a calf between her legs."
+    },
+    {
+     "t": "odd",
+     "p": "Circle the one that is NOT a way to join a family.",
+     "opts": [
+      "Being born into it",
+      "Being adopted",
+      "Getting married",
+      "Buying a bus ticket"
+     ],
+     "a": 3,
+     "why": "People join a family by being born, by adoption or by marriage. A bus ticket only takes you somewhere."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up. Arjun, a boy of four, says, 'People cannot smell each other. Only dogs use their noses.' What would you tell him from your test?",
+     "lines": 2,
+     "a": "I found some of my family by smell alone, with my eyes covered. So people do use their noses.",
+     "why": "A strong answer uses the child's own shirt test as evidence against the idea.",
+     "how": "e1"
+    },
+    {
+     "t": "label",
+     "p": "Here is an elephant family walking. Draw a ring round the leader. Draw a star on the young one who is safest.",
+     "a": "A ring round the older female at the front. A star on the calf in the middle.",
+     "why": "An older female often leads. The young ones walk in the middle, where the grown-ups can protect them.",
+     "how": "a3",
+     "art": "A line of five Asian elephants walking, with a big older female in front and a small calf between two grown-ups."
+    },
+    {
+     "t": "fill",
+     "p": "People who live together pass tiny living beings to each other. These tiny beings are called ______.",
+     "a": "microbes",
+     "why": "Microbes live on our skin, and pass between people who hug, hold hands and share a home."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Families and Tiny Beings (challenge)",
+   "tier": "challenge",
+   "mins": 15,
+   "items": [
+    {
+     "t": "write",
+     "p": "Say it to a grown-up. In the Pass the Smell test, the garlic smell got weaker down the line. Why?",
+     "lines": 2,
+     "a": "Each hand kept some of the garlic and passed on only a little. So each hand had less than the one before.",
+     "why": "A strong answer says some of the garlic stayed on each hand, so less reached the end.",
+     "how": "e2"
+    },
+    {
+     "t": "mcq",
+     "p": "Scientists found that people in one home share many skin microbes. Ammachi goes to live with Revathi in Chennai for a month. What do you guess will happen?",
+     "opts": [
+      "She will share more microbes with Revathi's family",
+      "All her microbes will go away",
+      "Nothing will change at all"
+     ],
+     "a": 0,
+     "why": "People who live together share more skin microbes. So she will likely share more with Revathi and Kayal. Scientists are still finding out how long shared microbes stay."
+    },
+    {
+     "t": "perspective",
+     "p": "Three people in Bengaluru talk about where body smell comes from.",
+     "views": [
+      {
+       "who": "Meenakshi, aged 8",
+       "says": "Your smell comes from the food you eat, like garlic and onion."
+      },
+      {
+       "who": "Farhan, aged 7",
+       "says": "Your smell comes from tiny microbes on your skin."
+      },
+      {
+       "who": "Their Ajji",
+       "says": "You are born with your smell. It comes from your parents."
+      }
+     ],
+     "ask": "Who do you agree with? Could more than one be right? Then say one thing another person got right.",
+     "a": "Any side with a reason. All three are partly right: food, microbes and genes all play a part.",
+     "why": "A strong answer sees that scientists have found all three play a part, and are still finding out how much each one does."
+    },
+    {
+     "t": "draw",
+     "p": "Draw how you would test if Appa can find YOUR shirt by smell. Show what makes it fair.",
+     "a": "A drawing of Appa with covered eyes, sniffing tumblers, with the child's shirt in one of them.",
+     "why": "A strong plan covers the eyes, uses the same tumblers, keeps hands off the shirt, and does more than one round."
+    },
+    {
+     "t": "truefalse",
+     "p": "Almost every ant you see on the kitchen floor is a sister of the ants beside her.",
+     "a": true,
+     "why": "True. In an ant nest, the queen is the mother. The worker ants are all her daughters, so they are sisters."
+    },
+    {
+     "t": "order",
+     "p": "Put these people in order from youngest to oldest. Write 1, 2, 3, 4.",
+     "items": [
+      "Amma, 35 years",
+      "Baby Kayal, 1 year",
+      "Ammachi, 70 years",
+      "Nila, 6 years"
+     ],
+     "a": [
+      "Baby Kayal, 1 year",
+      "Nila, 6 years",
+      "Amma, 35 years",
+      "Ammachi, 70 years"
+     ],
+     "why": "1 is less than 6, 6 is less than 35, and 35 is less than 70.",
+     "how": "g1"
+    },
+    {
+     "t": "odd",
+     "p": "Circle the one that would make the shirt test UNFAIR.",
+     "opts": [
+      "All the tumblers look the same",
+      "The eyes are covered",
+      "Nobody touches the shirts",
+      "Amma whispers the answer"
+     ],
+     "a": 3,
+     "why": "If Amma whispers the answer, your nose is not doing the work. The other three keep the test fair.",
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each person to how they joined their family.",
+     "pairs": [
+      [
+       "Baby Kayal and Revathi",
+       "Adoption"
+      ],
+      [
+       "Nila and Arjun",
+       "Born to the same Amma and Appa"
+      ],
+      [
+       "Amma and Appa",
+       "Marriage"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "People join families in different ways. Each way makes a real family."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up. Three tulsi plants grow side by side in one pot on the window. Are they a family? Why or why not?",
+     "lines": 3,
+     "a": "For example: Yes, they live together and share the same soil and water. Or: Maybe, if they came from the same parent plant.",
+     "why": "A strong answer gives a reason, using what a family is: belonging together, sharing a home, or coming from the same parents."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a big circle. Inside it, draw everyone who looks after you, near and far. Outside it, draw one friend.",
+     "a": "A circle with family members inside and a friend outside.",
+     "why": "A strong drawing includes people who live far away, and anyone who looks after the child."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is a family?",
+   "opts": [
+    "People who belong to each other and look after each other",
+    "Only people who look the same",
+    "Everyone on your street"
+   ],
+   "a": 0,
+   "why": "A family is people who belong together and care for each other. Family members do not always look alike.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Tenzin lives in Gangtok with her mother and her grandmother. Is that a family?",
+   "opts": [
+    "Yes",
+    "No, there is no father",
+    "No, it is too small"
+   ],
+   "a": 0,
+   "why": "Tenzin's mother and grandmother look after her. Families come in many kinds, and this is one.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Who often leads an Asian elephant family?",
+   "opts": [
+    "An older female",
+    "The youngest calf",
+    "A grown-up male"
+   ],
+   "a": 0,
+   "why": "Elephant families are mothers, daughters, aunts and young ones. An older female often leads. Grown-up males leave.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In an ant nest, who is the mother of all the worker ants?",
+   "opts": [
+    "The queen",
+    "The biggest worker",
+    "Every ant has a different mother"
+   ],
+   "a": 0,
+   "why": "The queen lays the eggs. All the workers are her daughters, so they are sisters.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Can people tell their family apart by smell alone?",
+   "opts": [
+    "Yes, often they can",
+    "No, only dogs can",
+    "Only with their eyes open"
+   ],
+   "a": 0,
+   "why": "Scientists found that mothers, brothers and sisters can pick out a family member's worn shirt by smell. You may have done it too.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Thenu does the shirt test once and gets one right. Why should she do it again?",
+   "opts": [
+    "One right guess could be luck",
+    "To make it take longer",
+    "Because the first time is always wrong"
+   ],
+   "a": 0,
+   "why": "A guess can be right by luck. If she is right two times, it is more likely her nose really knows.",
+   "outcome": 4,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we use the same kind of tumbler for every shirt?",
+   "opts": [
+    "So the tumblers give no clue",
+    "Because steel smells nice",
+    "So the shirts stay clean"
+   ],
+   "a": 0,
+   "why": "If one tumbler looked or felt different, it could give a clue. Same tumblers make a fair test.",
+   "outcome": 4,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "What makes much of a person's body smell?",
+   "opts": [
+    "Tiny microbes on the skin",
+    "The colour of their clothes",
+    "How tall they are"
+   ],
+   "a": 0,
+   "why": "Microbes on the skin feed on sweat and make much of our smell. Food, soap and genes play a part too.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Lakshmi and her Amma hug every day. What passes between them?",
+   "opts": [
+    "Tiny microbes from their skin",
+    "Nothing at all",
+    "Their height"
+   ],
+   "a": 0,
+   "why": "When people touch, some skin microbes move across. People who live together share many microbes.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Baby Kayal was adopted by Revathi. Will they share skin microbes?",
+   "opts": [
+    "Yes, because they live close together",
+    "No, because Kayal was not born to Revathi",
+    "Only if they look alike"
+   ],
+   "a": 0,
+   "why": "Sharing microbes comes from living together and touching, not from being born into a family. A husband and wife share many too.",
+   "outcome": 3
+  }
+ ],
+ "applications": [
+  "Doctors and nurses put a newborn baby on the mother's chest soon after birth. Skin to skin, the baby is warm and close, and starts to know the mother's smell.",
+  "Police dogs follow the smell of one person, because every person's smell is a little different.",
+  "Scientists study skin microbes to understand some skin problems and how to treat them.",
+  "Forest teams in India study elephant families to keep them safe and to know where they move."
+ ],
+ "spotted": [
+  {
+   "text": "A mother cat sniffing her kittens one by one on a staircase or under a parked scooter.",
+   "art": "A mother street cat sniffing a small kitten on a building staircase."
+  },
+  {
+   "text": "A line of ants on the kitchen floor, stopping for a moment to touch feelers as they pass.",
+   "art": "Two ants meeting nose to nose on a white kitchen tile, feelers touching."
+  },
+  {
+   "text": "A big family at a wedding, Onam lunch, Bihu or Eid, with grandparents, aunts, uncles and cousins together.",
+   "art": "A big family seated on a long mat eating a festive meal from banana leaves, three generations side by side."
+  },
+  {
+   "text": "A child at the airport or the bus stand, hugging a grandmother or an aunt who has come from far away.",
+   "art": "A small girl running to hug her grandmother at a bus stand, a suitcase beside them."
+  },
+  {
+   "text": "A dog greeting people at a gate by sniffing their hands first.",
+   "art": "A brown street dog sniffing the hand of a boy at a gate."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How much of our body smell comes from genes, and how much from food and skin microbes?",
+   "why_open": "All three play a part. Scientists are still finding out how much each one matters."
+  },
+  {
+   "q": "Do the microbes we share with our family stay on us, or come and go after each touch?",
+   "why_open": "The 2013 study found that people who live together share microbes. It could not tell how many stay for a long time."
+  },
+  {
+   "q": "How does a new baby learn their family's smell so quickly?",
+   "why_open": "Babies seem to prefer familiar smells within days of birth, but tests do not always agree, and nobody knows exactly how this learning happens."
+  }
+ ],
+ "ask_kids": [
+  "When you hug Amma, what does she smell like?",
+  "Who in our family is first at something? Who is the earliest riser?",
+  "Is there something at home that smells of someone you love?",
+  "Who else lives in our home besides people?",
+  "Who looked after you today?",
+  "If you could ask a family member a question about when they were small, what would you ask?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the baby ant look so confused?",
+   "a": "Because all her uncles were ants!"
+  },
+  {
+   "j": "What did the baby elephant say when she lost her family?",
+   "a": "Has anyone seen my mummy? She is big, grey and has a long trunk!"
+  },
+  {
+   "j": "Why did Ammachi bring a ladder to the family dinner?",
+   "a": "She heard it was on the top shelf of the family tree!"
+  },
+  {
+   "j": "What did the nose say to the finger?",
+   "a": "Stop picking on me!"
+  },
+  {
+   "j": "What did the garlic say after the handshake game?",
+   "a": "I am passing myself on!"
+  },
+  {
+   "j": "Why are grandmothers so good at hide and seek?",
+   "a": "Because they always know where everything is!"
+  },
+  {
+   "j": "How do you count a family of ants?",
+   "a": "Very, very carefully. There are thousands of sisters!"
+  },
+  {
+   "j": "What do you call a whole elephant family in one auto?",
+   "a": "A very tight squeeze!"
+  },
+  {
+   "j": "Why was the microbe never lonely?",
+   "a": "Because she always had millions of friends nearby!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the shirt test, Nila guessed 5 shirts. She got 3 right. How many did she get wrong?",
+   "answer": "2 wrong.",
+   "explain": "5 shirts take away 3 right ones leaves 2. So 2 guesses were wrong.",
+   "math_unit": "math.addition-subtraction.word-problems.L1",
+   "how": "e1",
+   "context": "This is about the shirt test, where you sniffed shirts in steel tumblers with your eyes covered.",
+   "why_maths": "Taking away tells you how many guesses were wrong, so you can see how well your nose did."
+  },
+  {
+   "problem": "Line up these family members from youngest to oldest: Appa 40, Arjun 4, Ammachi 70, Nila 6.",
+   "answer": "Arjun 4, Nila 6, Appa 40, Ammachi 70.",
+   "explain": "4 is the smallest number, then 6, then 40, then 70. So Arjun is first and Ammachi is last.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "how": "g1",
+   "context": "This is about the Family Line-Up game, where everyone lined up in different orders.",
+   "why_maths": "Putting numbers in order tells you who goes where in the line, without everyone standing up."
+  },
+  {
+   "problem": "Meenakshi's joint family has 3 children upstairs and 4 grown-ups downstairs, plus Paati and Thatha in the garden. How many people in all?",
+   "answer": "9 people.",
+   "explain": "3 and 4 make 7. 7 and 2 more make 9.",
+   "math_unit": "math.number-sense.counting.L1",
+   "context": "This is about a big joint family from the family stories.",
+   "why_maths": "Counting in groups is a quick way to find how many people are in a big family.",
+   "show": [
+    {
+     "art": "Three children on a balcony, four grown-ups at a door and two grandparents on a bench in a small garden.",
+     "caption": "3 children, 4 grown-ups and 2 grandparents."
+    }
+   ]
+  }
+ ],
+ "song": {
+  "topic_level": "sci.family.L1",
+  "title": "Who Is in My Family?",
+  "note": "Topic-level song for Family and friends L1"
+ },
+ "links": [
+  {
+   "title": "Cohabiting family members share microbiota with one another and with their dogs",
+   "url": "https://elifesciences.org/articles/00458",
+   "kind": "reading",
+   "why": "For the parent: the 2013 study that found people in one home share skin microbes, free to read."
+  },
+  {
+   "title": "Dubare Elephant Camp",
+   "url": "",
+   "kind": "place",
+   "where": "Kodagu, Karnataka",
+   "why": "Watch elephants being bathed in the Kaveri river, and ask the keepers about elephant families."
+  },
+  {
+   "title": "Kaziranga National Park",
+   "url": "",
+   "kind": "place",
+   "where": "Assam",
+   "why": "Wild Asian elephant families can often be seen here, with calves walking in the middle of the group."
+  }
+ ],
+ "buy": [],
+ "warmup": [
+  {
+   "q": "What is a family?",
+   "a": "People who belong to each other and look after each other."
+  },
+  {
+   "q": "Name two kinds of families.",
+   "a": "For example, a joint family and a family with one parent."
+  },
+  {
+   "q": "Who is the mother of all the ants in a nest?",
+   "a": "The queen."
+  },
+  {
+   "q": "Who often leads an Asian elephant family?",
+   "a": "An older female."
+  },
+  {
+   "q": "What are microbes?",
+   "a": "Tiny living beings, too small to see."
+  },
+  {
+   "q": "Why do we cover the eyes in the shirt test?",
+   "a": "So only the nose can tell whose shirt it is."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "story",
+   "g1",
+   "a2",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "e1",
+   "explanations",
+   "story",
+   "e2",
+   "a2",
+   "g1",
+   "videos",
+   "ws-core",
+   "a3",
+   "a4",
+   "agreed",
+   "challenging",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "a2",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/family.md: the notebook lists family handprints, grandparents' games and handmade cards. The Class 3 unit already uses all three, so this unit builds on them in other ways: the memory book (p1) asks family members about the child's babyhood, the way the grandparents' games week asks elders about theirs."
+  ],
+  "science": [
+   "Porter, R. H. and Moore, J. D. (1981). Human kin recognition by olfactory cues. Physiology and Behavior 27: 493 to 495. Siblings and mothers identified a child's worn T-shirt by smell alone.",
+   "Kaitz, M., Good, A., Rokem, A. M. and Eidelman, A. I. (1987). Mothers' recognition of their newborns by olfactory cues. Developmental Psychobiology 20: 587 to 591. About 90% of mothers recognised their newborn's smell after 10 minutes to 1 hour of contact.",
+   "Song, S. J. and others (2013). Cohabiting family members share microbiota with one another and with their dogs. eLife 2: e00458. 159 people and 36 dogs in 60 households; household members, especially couples, shared more skin microbes.",
+   "McGann, J. P. (2017). Poor human olfaction is a 19th-century myth. Science 356: eaam7263. Traces the idea to Paul Broca (1879).",
+   "Body odour comes mainly from skin bacteria breaking down sweat: for example, the review by James, A. G. and others (2013), International Journal of Cosmetic Science.",
+   "Asian elephant female social groups: work by T. N. C. Vidya's group at JNCASR, Bengaluru, on the Kabini population (Nagarahole and Bandipur), for example Nandini, Keerthipriya and Vidya (2017), Animal Behaviour.",
+   "Hindu Adoptions and Maintenance Act, 1956, section 12: an adopted child is the child of the adoptive parents for all purposes."
+  ]
+ },
+ "roots": {
+  "context": "We sniffed family shirts and passed a smell down a line of hands. Now we ask what this tells us about who we are, and what a family is.",
+  "deep_truth": {
+   "truth": "With your eyes covered, your nose could find some of your family. Much of each person's smell is made by microbes living on their skin. People who live together pass these microbes to each other. So everyone in one home shares tiny living beings, whether born into the family or not.",
+   "habit": "We often say family means 'the same blood', the people you are born from. The shirt test and the microbe study show that living close together also makes people alike, even people who were not born related.",
+   "evidence": "In the shirt test, most children find at least one family member by smell alone. In 2013, scientists found that people in one home share more skin microbes, and a husband and wife share many, though they are not related by birth."
+  },
+  "three": {
+   "who_am_i": "You are a person, and also a home for millions of tiny living beings. Some of them came from the people who hug you.",
+   "what_is_life": "Life is shared. Living beings pass to each other through every hug, every handshake and every shared tumbler.",
+   "what_is_this_world": "The world is full of families of many kinds: elephant families, ant sisters, joint families and families of two."
+  },
+  "thread": "A family begins with one person caring for another. Then more join, by birth, by marriage or by adoption. Each person brings their own smell and their own tiny beings. Living close, they share them, until the home has a smell of its own. Many lives become one family, and the family is still many lives.",
+  "teachings": [
+   {
+    "source": "Maha Upanishad, chapter 6, verses 71 to 73",
+    "teaching": "Only a small mind asks, 'Is this person mine, or a stranger?' For a big-hearted person, the whole world is one family: vasudhaiva kutumbakam.",
+    "link": "Families come in many kinds, and people join them in many ways. Even the tiny beings on our skin move from person to person. Where a family ends is not as fixed as it looks."
+   },
+   {
+    "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing",
+    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself.",
+    "link": "Look deeply at your own skin, and you find tiny beings that came from the people you live with. Part of each of us came from the others."
+   }
+  ],
+  "science": [
+   {
+    "text": "People who live in one home share more skin microbes than people from different homes.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether shared microbes stay on us for long, or come and go after each touch, is not yet known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many people, and some scientists",
+   "view": "Family is about being born related. Genes from your parents shape your face, your body and part of your smell, and living together cannot change those genes."
+  },
+  "practice": {
+   "title": "Breathe in the people you love",
+   "mins": 3,
+   "say": "Sit close to someone you love. Close your eyes. Breathe in slowly through your nose, three times. Can you smell them? Now breathe out slowly. Each breath out carries a little of you into the room. Sit quietly together for one more breath.",
+   "kid": "Sit close to someone you love. Close your eyes. Breathe in slowly three times. Can you smell them? Breathe out slowly."
+  },
+  "ask": [
+   "If some of your smell came from the people who hug you, is your smell only yours?",
+   "Where does your family end? Does it end at your door, or does it go further?",
+   "Baby Kayal was not born into her family. In what ways does she belong to it?"
+  ],
+  "art": "A grandmother, a mother, a girl and a small boy sitting close together on a mat with their eyes closed, breathing in, with a soft glow of tiny friendly microbes drifting between them."
+ },
+ "how_we_found_out": {
+  "story": "For a long time, many scientists thought people had a poor sense of smell. In 1879, Paul Broca, a French doctor who studied the brain, put humans in a group of 'non-smellers'. He said the smell part of the human brain was small next to the rest of the brain. Most people believed this for over 100 years. Then scientists began to test real noses. In 1981, Richard Porter and John Moore in the United States asked children to wear plain T-shirts. Then their brothers, sisters and mothers sniffed the shirts. They could pick out their own family member's shirt by smell alone. In 1987, Marsha Kaitz and her team in Jerusalem tested new mothers. After less than an hour with their babies, nine out of ten mothers could pick out their own baby's shirt by smell. In 2017, the brain scientist John McGann wrote that the weak human nose is a myth. The smell part of the human brain has about as many nerve cells as in many other mammals.",
+  "who": "Paul Broca, a French doctor (1879); Richard Porter and John Moore in the United States (1981); Marsha Kaitz and her team at the Hebrew University in Jerusalem (1987); John McGann, a brain scientist in the United States (2017)",
+  "when": "1879 to 2017",
+  "wrong_idea": "People thought humans had a weak sense of smell, much weaker than other mammals. Tests showed that people can know their own family, and a mother her new baby, by smell alone."
+ }
+}

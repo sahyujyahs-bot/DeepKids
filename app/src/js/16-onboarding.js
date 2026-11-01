@@ -191,7 +191,7 @@ function obNext() {
   if (d.board === "none") d.mode = "plus";
   d.mode = d.mode || "booksplus";
   d.plus = d.mode !== "books";
-  Object.assign(S, d, { setup: true });
+  Object.assign(S, d, { setup: true, wk1: { ...(S.wk1 || {}), start: S.wk1?.start || today } });
   ob = null;
   tab = "today";
   commit();

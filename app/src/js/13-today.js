@@ -117,11 +117,7 @@ function nowCard(it) {
   const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
-  const pic =
-    it.kind === "lesson"
-      ? `<img src="${esc(lessonPic(it.u))}" alt="">`
-      : `<img class="draw" src="${dayDrawing(it)}" alt="">`;
-  return `<section class="now ${col}"><div class="nowtop">${pic}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
+  return `<section class="now ${col}"><div class="nowtop">${dayPic(it)}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
    <div class="row nowgo"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
    ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
 }
@@ -239,23 +235,16 @@ function itemDetail(it, date) {
   const A = itemAction(it, `data-id="${it.id}" data-date="${date}"`);
   return `${it.sub ? `<p class="sm" style="font-weight:700">${esc(it.sub)}</p>` : ""}<div class="row"><button class="btn sm" ${A[0]}>${it.done ? "Done ✓" : A[1]}</button></div>`;
 }
-// each row's picture: a lesson shows its unit's picture (or its subject's), everything else one of the founder's drawings
-const DAYPIC = {
-  warm: "warm",
-  finish: "finish",
-  prep: "prep",
-  todo: "prep",
-  plan: "prep",
-  exps: "think",
-  paper: "think",
-  refresh: "play",
-  event: "event",
-};
-const dayDrawing = (it) => `media/ui/day-${DAYPIC[it.kind] || "other"}.webp`;
+// each row's picture: a lesson shows its unit's picture (or its subject's), a research paper its cover, some kinds one
+// of the founder's drawings; the rest keep an icon until they have an illustration that fits
+const DAYPIC = { finish: "finish", exps: "think", refresh: "play", shelf: "other", mynote: "other", other: "other" };
+const DAYICON = { prep: "prep", todo: "prep", plan: "week", warm: "warm", event: "event" };
 function dayPic(it) {
-  return it.kind === "lesson"
-    ? `<span class="ic pic"><img src="${esc(lessonPic(it.u))}" alt="" loading="lazy"></span>`
-    : `<span class="ic pic draw"><img src="${dayDrawing(it)}" alt="" loading="lazy"></span>`;
+  const img = (src, cls = "") => `<span class="ic pic ${cls}"><img src="${esc(src)}" alt="" loading="lazy"></span>`;
+  if (it.kind === "lesson") return img(lessonPic(it.u));
+  if (it.kind === "paper" && it.p?.cover?.src) return img(it.p.cover.src);
+  if (DAYPIC[it.kind]) return img(`media/ui/day-${DAYPIC[it.kind]}.webp`, "draw");
+  return `<span class="ic">${icon(DAYICON[it.kind] || "spark")}</span>`;
 }
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
@@ -582,9 +571,10 @@ function wk1Lesson(d0) {
 }
 function firstWeekCard() {
   if (!S.setup || S.wk1?.off) return "";
-  const k = WEEK1.findIndex((s) => !wk1Done(s));
-  if (k < 0) return "";
-  // the dots and arrows look back or ahead; on its own the card shows the step to do next
+  // the guide lives for the family's first seven days and opens on that day's step; the dots and arrows look back or ahead
+  if (!S.wk1?.start) S.wk1 = { ...(S.wk1 || {}), start: today }; // families set up before the guide had a start day begin today
+  const k = Math.round((parse(today) - parse(S.wk1.start)) / 864e5);
+  if (k < 0 || k > 6) return "";
   const v = ui.wk1at ?? k,
     [id, t, d0, go] = WEEK1[v],
     done = wk1Done(WEEK1[v]),
@@ -593,9 +583,6 @@ function firstWeekCard() {
       `<button type="button" class="wk1arr" data-act="wk1go" data-i="${i}" aria-label="${label}" ${i < 0 || i > 6 ? "disabled" : ""}>${icon(ic)}</button>`,
     head = (n) =>
       `<div class="wk1h"><span class="eyebrow">Your first week · Day ${n + 1} of 7</span><span class="wk1dots">${step(n - 1, "back", "Day before")}${WEEK1.map((s, i) => `<button type="button" data-act="wk1go" data-i="${i}" class="${wk1Done(s) ? "on" : ""} ${i === n ? "cur" : ""}" aria-label="Day ${i + 1}: ${esc(s[1])}" ${i === n ? 'aria-current="step"' : ""}></button>`).join("")}${step(n + 1, "next", "Day after")}</span></div>`;
-  // one a day: once today's is ticked, tomorrow's waits unless they want it now
-  if (ui.wk1at == null && Object.values(S.wk1?.done || {}).includes(today))
-    return `<section class="card wk1">${head(k - 1)}<p class="sm"><b>Day ${k} done.</b> Tomorrow: ${esc(t)}.</p><button class="link sm" data-act="wk1go" data-i="${k}">Do it now</button></section>`;
   return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
    <div class="row">${show}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
@@ -614,14 +601,14 @@ function viewToday() {
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
-  // what to do next comes first, then the day as a list; the first-week guide and the week's numbers sit below it
-  h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
+  // the first-week guide on top, then what to do next, then the day as a list; the week's numbers sit below it
+  h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
-  h += `</section><div class="lotusline" aria-hidden="true"></div>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
+  h += `</section><div class="lotusline" aria-hidden="true"></div>${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
   window.FXANIMED = 1;
   {
     const oc = openCount(),

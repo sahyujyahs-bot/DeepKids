@@ -4985,37 +4985,35 @@ input.fxin {
 .fxact .fxaskb {
   background: var(--tang);
 }
-/* IAm's button: his face in a small round frame in the corner. Dragged, it lifts and leans the way it is carried,
-   then lands with a squash and a settle */
 .fxfab {
   position: fixed;
   right: 12px;
-  bottom: calc(env(safe-area-inset-bottom, 0) + 84px);
+  bottom: calc(env(safe-area-inset-bottom, 0) + 80px);
   z-index: 50;
-  width: 54px;
-  height: 54px;
+  border: 0;
   padding: 0;
-  border: 2px solid var(--surface);
-  border-radius: 50%;
-  background: var(--sunbg);
-  box-shadow: 0 6px 16px -6px rgba(0, 0, 0, 0.35);
+  background: 0 0;
+  display: grid;
+  justify-items: center;
+  gap: 2px;
   touch-action: none;
   cursor: grab;
-  transition: transform 0.2s cubic-bezier(0.3, 1.6, 0.5, 1);
 }
-.fxfab img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  object-fit: cover;
+.fxfab .iam {
+  width: 76px;
   pointer-events: none;
+}
+/* dragged, he lifts and leans the way he is carried, then lands with a squash and a settle */
+.fxfab .iam {
+  transition: transform 0.2s cubic-bezier(0.3, 1.6, 0.5, 1);
 }
 .fxfab.lift {
   cursor: grabbing;
+}
+.fxfab.lift .iam {
   transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
 }
-.fxfab.land {
+.fxfab.land .iam {
   animation: iamland 0.65s ease-out;
 }
 /* the lean swings back past straight, then settles, as the squash bounces out */
@@ -5037,12 +5035,19 @@ input.fxin {
 body:has(.ob) .fxfab {
   display: none;
 }
-body.ai-locked .fxfab::after {
+body.ai-locked .fxfab .iam::after {
   content: "🔒";
   position: absolute;
-  right: -6px;
-  bottom: -4px;
-  font-size: 16px;
+  right: -4px;
+  bottom: -2px;
+  font-size: 18px;
+}
+.iamtag {
+  background: var(--ink);
+  color: #fff;
+  font: 700 12px var(--body);
+  border-radius: 999px;
+  padding: 1px 10px;
 }
 /* I am (17-iam.js): the Guru seated on a stone step, with eyelids and a mouth laid over his face. He breathes and blinks;
    .iamthink (waiting for an answer) closes his eyes, leaving the third eye open; .iamtalk (answering) moves his mouth. */
@@ -5068,6 +5073,30 @@ body.ai-locked .fxfab::after {
 .iamfig .iambody {
   inset: 0;
   width: 100%;
+}
+.iamfig .iambody,
+.iamfig .iampose {
+  transition: opacity 0.18s;
+}
+.iamfig .iampose {
+  inset: 0;
+  width: 100%;
+  opacity: 0;
+}
+.iam[data-pose="read"] .iampose[data-p="read"],
+.iam[data-pose="page"] .iampose[data-p="page"],
+.iam[data-pose="shift"] .iampose[data-p="shift"],
+.iam[data-pose="glance"] .iampose[data-p="glance"],
+.iam[data-pose="reach"] .iampose[data-p="reach"],
+.iam[data-pose="lift"] .iampose[data-p="lift"] {
+  opacity: 1;
+}
+.iam[data-pose]:not([data-pose="look"]) .iambody {
+  opacity: 0;
+}
+/* eyelids and mouth belong to the looking face */
+.iam[data-pose]:not([data-pose="look"]) :is(.iamblink, .iammouth) {
+  visibility: hidden;
 }
 .iamfig .iamblink {
   left: 40.46%;
@@ -5144,6 +5173,9 @@ body.ai-locked .fxfab::after {
   .iamfig img {
     animation: none !important;
   }
+}
+dialog .fxfab {
+  bottom: calc(env(safe-area-inset-bottom, 0) + 84px);
 }
 .iamasks {
   display: flex;
@@ -6846,16 +6878,19 @@ body {
   gap: 14px;
   align-items: center;
 }
-.nowtop img {
+.nowtop .ic {
   width: 78px;
   height: 78px;
   border-radius: 16px;
-  object-fit: cover;
-}
-.nowtop img.draw {
-  object-fit: contain;
-  padding: 4px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
   background: color-mix(in srgb, var(--c) 14%, #fff);
+  color: var(--c);
+}
+.nowtop .ic .ico {
+  width: 32px;
+  height: 32px;
 }
 .nowtxt {
   display: grid;
@@ -7363,23 +7398,20 @@ body {
   .dkedb#dkEditBtn {
     left: calc(var(--rail) + 12px);
   }
-  .thero {
-    height: 280px;
-  }
   .fxfab {
     right: 24px;
     bottom: calc(env(safe-area-inset-bottom, 0) + 24px);
-    width: 72px;
-    height: 72px;
+  }
+  .fxfab .iam {
+    width: 170px;
   }
 }
 @media (min-width: 1400px) {
   .wrap {
     max-width: 1080px;
   }
-  .fxfab {
-    width: 84px;
-    height: 84px;
+  .fxfab .iam {
+    width: 220px;
   }
 }
 </style>
@@ -7413,9 +7445,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="b695119d3c30de59ba";window.DK_APPV="b695119d3c";window.DK_DATAV="30def913a7"</script>
-<script src="/config.js?v=b695119d3c30de59ba"></script>
+<script>window.DK_BUILD="219116f01530de59ba";window.DK_APPV="219116f015";window.DK_DATAV="30def913a7"</script>
+<script src="/config.js?v=219116f01530de59ba"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=b695119d3c30de59ba"></script>
+<script src="/platform.js?v=219116f01530de59ba"></script>
 </body>
 </html>
