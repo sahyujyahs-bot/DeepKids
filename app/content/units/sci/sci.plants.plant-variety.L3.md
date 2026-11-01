@@ -769,7 +769,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ## Videos
 - **Types of plants: trees, shrubs, herbs, climbers and creepers (for Class 3)** (Learning Junction, 5 min) id `DHGQ3elHDIE`: A short, clear look at real examples of the five kinds, to watch after the Plant Count. *Check:* Title and channel confirmed on YouTube. The content has not been watched by the editor, so preview it first.
 - **The Great Banyan: India’s Incredible Tree Forest** (India Uncovered, 4 min) id `YXTZH_IHGHY`: Shows the Great Banyan in the Acharya Jagadish Chandra Bose Indian Botanic Garden, Howrah, with their prop roots. *Check:* Title and channel confirmed on YouTube. The content has not been watched by the editor, so preview it first.
-- **How an Ancient Remedy Became a Modern Cure for Malaria** (SciShow, 6 min) id `JZQc9S12ZvM`: For the parent and older children: how a malaria medicine was found in an old Chinese herbal book and a plant. *Check:* Title and channel confirmed on YouTube. The content has not been watched by the editor, so preview it first.
+- **The Surprising Map of Plants** (Domain of Science, 12 min) id `ONVpFtiD-fo`: For the parent and older children: an animated map of the whole plant family tree, from algae and mosses to ferns, conifers and flowering plants, and how each group is related. *Check:* Watched and approved by DeepKids.
 
 ## Quiz
 1. (mcq) You want to tell a tree, a shrub and a herb apart. Which part of the plant is the best clue?  

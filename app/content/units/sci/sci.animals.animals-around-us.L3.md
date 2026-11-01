@@ -688,7 +688,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 
 ## Videos
 - **Baya weaver bird documentary film** (Chandu's Learning, 4 min) id `XRB4GQCEOlE`: Seeing a weaver tear grass strips and weave them knot by knot makes the 'Kinds of animal homes' card real. *Check:* Parents: watch it once before showing it to a child.
-- **Dr. Vidya Athreya on the myths that misled India about leopards** (Some Like It Wild Podcast, 8 min) id `YkCjuSQ8LUY`: For the parent first: a talk by Vidya Athreya, a scientist who studies leopards that live near people in India, including around Mumbai. Preview it before showing a child. *Check:* Parents: watch it once before showing it to a child.
+- **Eco India: How humans and leopards are co-existing in Mumbai** (Scroll.in (Eco India), 8 min) id `S2xIOSaXwIg`: For the parent first: how leopards live around Sanjay Gandhi National Park in Mumbai, right next to people, and how families and scientists there learn to share the city with them. *Check:* Not yet watched by a person: watch it first.
 - **Termite mounds in Namibia inspire energy-efficient buildings** (Harvard University, 4 min) id `ngSLWpckhks`: Shows how scientists measure the air moving through termite mounds, and how builders learn from them. This film is about mounds in Namibia. The 2015 study of mounds near Bengaluru came from the same Harvard group. *Check:* Parents: watch it once before showing it to a child.
 
 ## Quiz

@@ -615,7 +615,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 ## Videos
 - **The Dirt on Decomposers: Crash Course Kids #7.2** (Crash Course Kids, 4 min) id `uB61rfeeAsM`: A short, clear introduction to decomposers and what they do for soil, for children. *Check:* Preview it first and check its length before showing your child.
 - **Bread Mold - 4K Timelapse - 8 Days** (360 Timelapse, 2 min) id `vPf7Yl99AMo`: Eight days of mould growing on bread, sped up. Watch it after the chapati test to see the threads spread and the coloured spores appear. *Check:* Preview it first and check its length before showing your child.
-- **Darwin's Unexpected Final Obsession** (PBS Eons, 12 min) id `hEkbSV8aYrs`: For the parent and curious older children: the story of Charles Darwin's last book, about earthworms and how they make soil. *Check:* Preview it first and check its length before showing your child.
+- **The Fascinating Map of Fungi** (Domain of Science, 12 min) id `5FqFg-rjzPo`: For the parent and older children: an animated map of the fungi, the decomposers who break down dead wood and leaves, with moulds, yeasts, mushrooms and the networks under the soil. *Check:* Watched and approved by DeepKids.
 
 ## Quiz
 1. (mcq) Which of these is a decomposer?  
