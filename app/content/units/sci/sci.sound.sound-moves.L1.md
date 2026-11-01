@@ -77,18 +77,18 @@ In a thunderstorm, lightning and thunder are made at the same moment. The light 
 ## Roots
 We have walked away from sounds, listened from behind a door and called through a paper cone. Now we ask what a travelling sound tells us about the world, and about ourselves.
 
-**Deep truth.** In the Walk Away test, the grown-up rubbed their fingers the same way every time. Close by, you heard it clearly. A few steps back, you heard nothing. The rub did not change, so how loud a sound is also depends on how far it has travelled to you.  
-*Habit it breaks:* We call a sound loud or soft as if that belongs only to the thing making it. But one sound is loud to the person next to it and soft to the person down the road, at the same moment.  
-*Evidence:* In the Walk Away test, the same finger rub was clear close by and gone a few steps back. In Near or Far, Meena by the bell hears it loud while her friend at the end of the street hears it soft.
+**Deep truth.** In All Around the Tumbler, one tap reached you in front, behind and round the door. The sound spread out to fill the whole room at once. Far away, it had spread over more space, so less of it reached you. So one sound is shared out among every place around it.  
+*Habit it breaks:* We picture a sound going from one thing to one ear, like a ball thrown to a catcher. But a sound spreads out to every side, and every ear around it catches a share of the same sound.  
+*Evidence:* In All Around the Tumbler, the same tap reached every spot in the room and round the door. In the Walk Away test, the same finger rub was clear close by and gone a few steps back, where its share had become too small to hear.
 
 - *who am i:* You are a listener in one spot. Every sound you hear has travelled to that spot, from somewhere else, to reach you.
-- *what is life:* Many living beings send sounds across distances to stay together: a mother elephant rumbling to her family, crows calling across the city, people calling each other home.
+- *what is life:* Many living beings send sounds across distances to stay together: a calf calling her mother, crows calling across the city, people calling each other home.
 - *what is this world:* The world is full of sounds spreading out from many places at once, crossing each other in the air, reaching everyone a little differently.
 
 One bell rings in one place. Its sound spreads out on every side and reaches everyone around it: a child near the bell, a grandmother across the pond, a crow on the roof. One sound becomes a different sound in each ear, louder or softer. The air that carries it is aware in its own way, and so are the bell and every listener. Many scientists disagree: they say only beings with nerves are aware.
 
 - **The Nyaya philosophers of India, as summed up by Vishvanatha in the Bhasha-pariccheda (17th century), in the verses on sound:** A sound makes the next sound next to it, and that one makes the next, until a sound reaches the ear. It spreads like ripples on a pond, one ring after another. Some teachers said it spreads like a kadamba flower, whose buds open on every side at once. (In All Around the Tumbler, the tap reached you in front, behind and at the sides. In Be the Air, the tap was passed from person to person. These old thinkers described the same spreading and passing on, by thinking about ripples and flowers.)
-- **The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell it too):** Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched. (In Near or Far, Meena by the bell heard a loud sound, and her friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears.)
+- **The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too):** Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched. (In Who Hears It Louder?, Meena by the bell heard a loud sound, and her friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears.)
 - Science (settled): A sound spreads out to every side from its source. The further it travels, the more it has spread out, so it sounds softer.
 - Science (settled): Sound takes time to travel through air: about three seconds to go one kilometre.
 - Other view, Many scientists today: They say air, bells and tumblers are not aware of anything. To them, sound is only air pushing on air. They think awareness belongs to living beings with nerves or brains.
@@ -205,9 +205,9 @@ It was only a whisper. But across the road, the light blinked off and on again.
   *Parent says:* Now you whisper, and I walk. Do you think I will need more steps or fewer than you?  
   *Child mode:* Now you whisper. Make it soft!
   - Check: The walkers could not hear the whisper. What made it easier to hear? → **Coming closer**
-### g2 · Near or Far? A card game (10 min)
+### g2 · Who Hears It Louder? A card game (10 min)
 - **rules:** Shuffle the cards and put them face down.; A grown-up reads a card out loud.; The players answer. Then they act it out if they can: ring, clap, whisper or whistle.; The grown-up turns the card and reads the answer.; A good answer with a reason keeps the card. The most cards at the end wins.
-- **Printable cards: 10 Near or Far cards:** A temple bell rings. Meena stands next to the bell. Her friend is at the end of the street. Who hears it louder? (back: Meena. She is close, so more of the sound reaches her.); The cooker whistles in the kitchen. Arjun is in the bedroom. Can he hear it? (back: Yes. The whistle travels through the air, out of the kitchen door, to the bedroom.); Paati claps behind Kavya's back. Can Kavya hear the clap? (back: Yes. A sound spreads out to every side, so it reaches you from behind too.); A storm is far away. You see a flash of lightning. What comes next? (back: The thunder, a little later. The sound takes time to travel to you.); Lakshmi whispers to Farhan from across a big room. He can't hear. What can he do? (back: Come closer. A whisper fades as it travels, so it is easier to hear close by.); Riya calls through a paper cone. Should the wide end point at her friend, or at the floor? (back: At her friend. The cone sends more of the sound out of the wide end.); A koel calls from a tree far away, and another koel calls from the window. Which call sounds louder? (back: The koel at the window. Her call has travelled less far.); The neighbour's mixie is running behind the wall. Can you hear it? (back: Yes. Sound can travel through walls, as well as through air.); Two drums are hit equally hard. One is next to you. One is down the road. Which sounds louder? (back: The drum next to you. The sound of the far drum has spread out more on the way.); Ammu stands round the corner of a door. Amma rings a bell in the room. Can Ammu hear it? (back: Yes, a little softer. The sound spreads out through the doorway and round the corner.)
+- **Printable cards: 10 Who Hears It Louder cards:** A temple bell rings. Meena stands next to the bell. Her friend is at the end of the street. Who hears it louder? (back: Meena. She is close, so more of the sound reaches her.); The cooker whistles in the kitchen. Arjun is in the bedroom. Can he hear it? (back: Yes. The whistle travels through the air, out of the kitchen door, to the bedroom.); Paati claps behind Kavya's back. Can Kavya hear the clap? (back: Yes. A sound spreads out to every side, so it reaches you from behind too.); A storm is far away. You see a flash of lightning. What comes next? (back: The thunder, a little later. The sound takes time to travel to you.); Lakshmi whispers to Farhan from across a big room. He can't hear. What can he do? (back: Come closer. A whisper fades as it travels, so it is easier to hear close by.); Riya calls through a paper cone. Should the wide end point at her friend, or at the floor? (back: At her friend. The cone sends more of the sound out of the wide end.); A koel calls from a tree far away, and another koel calls from the window. Which call sounds louder? (back: The koel at the window. Her call has travelled less far.); The neighbour's mixie is running behind the wall. Can you hear it? (back: Yes. Sound can travel through walls, as well as through air.); Two drums are hit equally hard. One is next to you. One is down the road. Which sounds louder? (back: The drum next to you. The sound of the far drum has spread out more on the way.); Ammu stands round the corner of a door. Amma rings a bell in the room. Can Ammu hear it? (back: Yes, a little softer. The sound spreads out through the doorway and round the corner.)
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Read the rules together.  
   *Parent says:* I will read a card. You tell me who hears the sound, or what happens. Then we try it.  
@@ -377,27 +377,27 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Note: Rooms far from the kitchen are softer, because the sound has spread out more. A shut door also makes the sound softer.
 
 ## Challenges
-### c1 · Call Everyone for Dinner (12 min)
-- **problem:** Dinner is ready. Amma is in the bedroom with the door half shut. Paati is on the balcony. Your brother is in the bathroom. How can you call them all, so that everyone hears, without shouting and hurting your throat?
-- **your turn:** Try your idea. Did everyone hear you? Ask each person how loud it was. Which idea worked best? Why?
-- **constraints:** No shouting.; Use only things you already have at home.; The neighbours should not be disturbed.
-- **general:** Walk to each room and say it.; Ring a bell or tap a steel plate in the hall.; Call from the middle of the home, where the sound can reach every room.
-- **creative:** Roll a paper cone and point it at each room in turn.; Agree on a dinner signal, like three taps on a steel plate.; Stand in the doorway, so the sound does not have to go round a corner.
+### c1 · Paati Misses the Doorbell (12 min)
+- **problem:** Paati likes to sit in the far bedroom, with the door half shut. When the doorbell rings, she does not hear it. How can you help the sound of the bell, or of a visitor's knock, travel to her?
+- **your turn:** Try your idea. One person is the doorbell at the front door. One person is Paati, listening in the far room. Did Paati hear it? Which idea worked best? Why?
+- **constraints:** Paati stays in her room.; Use only things you already have at home.; The neighbours should not be disturbed.
+- **general:** Open Paati's door, so the sound does not have to go round a corner.; Open the doors between the front door and her room.; Make the bell louder.
+- **creative:** Put a second bell, or the phone, half-way between the front door and her room.; Make a paper cone to point the sound down the hallway to her door.; Agree that whoever hears the bell taps a steel plate near her room.
 - **s1 (2 min)**  
-  *Parent does:* Read the problem. Ask family members to go to different rooms.  
-  *Parent says:* Dinner is ready. Everyone is in a different room. How can you call them all without shouting?  
-  *Child mode:* Dinner is ready! How can you call everyone without shouting?
-  - Ask: Where would you stand to call everyone? (good: In the middle of the home.; In the hall, near all the doors.)
+  *Parent does:* Read the problem. One person goes to the far room to be Paati. Tap the tumbler at the front door. Did Paati hear it?  
+  *Parent says:* Paati is in the far room. I am the doorbell. Can she hear me? How could we help the sound get to her?  
+  *Child mode:* Paati can't hear the bell. How can the sound reach her?
+  - Ask: Why is the bell hard to hear in the far room? (good: It is far away.; The sound spreads out on the way.; The door is half shut.)
 - **s2 (7 min)**  
-  *Parent does:* Let your child try two or three ideas. Each person in the other rooms says if they heard it.  
-  *Parent says:* Try your idea. Let's ask everyone: did you hear it? Was it loud or soft?  
-  *Child mode:* Try your idea. Ask everyone if they heard it.
-  - Note: Help only if asked. Good ideas use where you stand, which way you point, or a sound that travels well, like a tap on steel.
+  *Parent does:* Let your child try two or three ideas. Tap the tumbler the same way each time. Paati says loud, soft or can't hear.  
+  *Parent says:* Try your idea. I will ring the bell the same way. Paati, could you hear it? Was it loud or soft?  
+  *Child mode:* Try your idea. Ask Paati if she heard it.
+  - Note: Help only if asked. Good ideas make the path shorter or more open, or send the sound one way.
 - **s3 (3 min)**  
   *Parent does:* Ask your child which idea worked best, and why.  
-  *Parent says:* Which idea did everyone hear? Why do you think it worked?  
+  *Parent says:* Which idea helped Paati hear the bell best? Why do you think it worked?  
   *Child mode:* Which idea worked best? Why?
-  - Ask: Why did standing in the middle help? (good: The sound spreads out to every side, so it reached all the rooms.; Every room was close.)
+  - Ask: Why did opening the door help? (good: The sound did not have to go round the door.; More of the sound could get into the room.)
 
 ## Worksheets
 ### Sound Travels (core) (core, 10 questions)
@@ -418,7 +418,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 7. (write) Say it out loud, and a grown-up writes it down. In the Walk Away test, why did you stop hearing the finger rub?  
    **Answer:** I was too far away. The sound spread out, so not enough of it reached my ears.. *Why:* A strong answer says that the sound was still being made, but it was too soft to hear from far away, because it spread out on the way.
 8. (match) Draw a line from each problem to the best fix.  
-   **Answer:** I can't hear a whisper from far away → Come closer; My friend across the road can't hear me → Use a paper cone; Everyone in the house must hear the dinner call → Call from the middle of the home. *Why:* Coming closer means the sound travels less far. A cone sends more of your voice one way. From the middle of the home, the sound spreads out to every room.
+   **Answer:** I can't hear a whisper from far away → Come closer; My friend across the road can't hear me → Use a paper cone; Paati can't hear the doorbell in the far room → Open the doors on the way. *Why:* Coming closer means the sound travels less far. A cone sends more of your voice one way. With the doors open, the sound has an open path and does not have to go round them.
 9. (odd) Three of these people will hear the temple bell. One is too far away to hear it. Circle the one who is too far.  
    Options: Meena, standing by the bell / Her friend at the temple gate / Her aunt across the temple pond / Her cousin in another town  
    **Answer:** 3. *Why:* The bell's sound spreads out and gets softer as it travels. In another town, it is far too soft to hear. The others are close enough.
@@ -451,7 +451,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 ## Videos
 - **Lightning and thunder: why we see it before we hear it** (, 3 min) id `to find`: Shows lightning and the thunder arriving later, so children see and hear that sound takes time to travel. *Check:* Find a real recording of a thunderstorm where the flash comes clearly before the thunder, from a weather service or science channel. Check that the sound is not edited to match the flash.
 - **How a megaphone works** (, 3 min) id `to find`: Shows a cone sending a voice one way, like the paper cone in the experiment. *Check:* Find a short, accurate explanation from a science museum or education channel. Check that it says the cone directs the sound, and does not say it creates extra sound.
-- **Elephants calling to each other from far away** (, 3 min) id `to find`: Shows that some animals send sounds a very long way: elephants rumble to family members kilometres away. *Check:* Find real footage from a nature documentary or elephant research group, ideally mentioning Katy Payne or the Elephant Listening Project. Check the distances it gives.
+- **Ripples spreading on a pond** (, 2 min) id `to find`: A slow, clear look at ripples spreading out on every side and getting smaller, a picture of how a sound spreads out from its source. *Check:* Find real slow-motion footage of a drop or a stone making ripples on still water. Use it as a picture of spreading only: sound is not a water ripple. Check that it is not animation.
 
 ## Quiz
 1. (mcq) A bell rings in the next room. How does the sound reach your ears?  
@@ -503,7 +503,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - At night, in towns and villages all over India, people hear a train horn from a station far away.
 
 ## Open questions
-- **How far away can elephants hear each other's rumbles?** Scientists know elephants call family members a few kilometres away with deep rumbles. Exactly how far depends on the weather, the ground and the time of day, and scientists are still measuring it.
+- **Why does a sound sometimes carry much further on a cool, still night than on a hot afternoon?** Scientists know that wind and warm and cool layers of air bend a sound up or down as it travels. Working out exactly how far a sound will carry on a given day is still hard, and people are still studying it.
 - **How do our ears and brain tell which way a sound came from?** Scientists know that having two ears helps, because a sound reaches one ear a tiny moment before the other. Some parts of how the brain works this out, especially for sounds from above or behind, are still being studied.
 - **Why do some places carry sound much better than others?** The shape of a building, the walls and even the air temperature change how a sound travels. Builders and scientists still test old forts, temples and halls to understand why some carry sound so well.
 
@@ -564,6 +564,5 @@ Who Made That Sound? (sci.sound.L1): Topic-level song for Sound L1
 - Speed of sound in air at about 20 degrees Celsius: about 343 metres per second, so about 3 seconds per kilometre.
 - Marin Mersenne, Harmonie universelle (1636), gave a speed of sound from gun-flash timing. Pierre Gassendi's timings (1630s) found loud and soft, high and low gun sounds travelled at the same speed, against Aristotle's view that high notes travel faster.
 - Horn and cone megaphones increase forward sound by directing it and matching the voice to the air better; the gain is modest for a paper cone but audible.
-- Katy Payne and colleagues discovered in 1984 that elephants communicate with infrasonic rumbles, which can carry several kilometres.
 - Nyaya-Vaisheshika on sound propagation: vichi-taranga-nyaya (the maxim of waves and ripples) and kadamba-mukula-nyaya (the maxim of kadamba buds), Vishvanatha's Bhasha-pariccheda (Karikavali). Verse numbers not checked.
 - Udana 6.4 (Tittha Sutta), the parable of the blind men and the elephant.

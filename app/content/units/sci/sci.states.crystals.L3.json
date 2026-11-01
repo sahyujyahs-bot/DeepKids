@@ -355,7 +355,11 @@
       },
       {
        "f": "A diamond",
-       "b": "Crystal"
+       "b": "Crystal",
+       "img": {
+        "src": "media/cards/crystals-g1-0-08.jpg",
+        "credit": "Tõnu Pani, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A grain of sand",

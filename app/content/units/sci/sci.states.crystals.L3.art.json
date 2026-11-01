@@ -15,6 +15,10 @@
   "src": "media/img/sci.states.crystals.L3/flow.p1.jpg",
   "credit": "Photo: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons"
  },
+ "intro": {
+  "src": "media/img/sci.states.crystals.L3/intro.jpg",
+  "credit": "McSquare1337, CC0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.states.crystals.L3/setup.e1.0.jpg",
   "drawn": true
@@ -42,5 +46,9 @@
  "setup.e2.2": {
   "src": "media/img/sci.states.crystals.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.states.crystals.L3/summary.jpg",
+  "credit": "Давид Андронов, CC BY 4.0, via Wikimedia Commons"
  }
 }

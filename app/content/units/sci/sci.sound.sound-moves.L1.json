@@ -850,14 +850,14 @@
   },
   {
    "id": "g2",
-   "title": "Near or Far? A card game",
+   "title": "Who Hears It Louder? A card game",
    "mins": 10,
    "players": "2 to 4 players. A grown-up reads the cards.",
    "context": "This is a card game about sounds travelling. A grown-up reads a card. The players answer and act out the sound if they can.",
    "printables": [
     {
      "kind": "cards",
-     "title": "10 Near or Far cards",
+     "title": "10 Who Hears It Louder cards",
      "items": [
       {
        "f": "A temple bell rings. Meena stands next to the bell. Her friend is at the end of the street. Who hears it louder?",
@@ -1061,54 +1061,55 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Call Everyone for Dinner",
+   "title": "Paati Misses the Doorbell",
    "mins": 12,
-   "context": "This is a problem to solve. Dinner is ready. How can you call everyone in your home, in every room, without shouting?",
-   "problem": "Dinner is ready. Amma is in the bedroom with the door half shut. Paati is on the balcony. Your brother is in the bathroom. How can you call them all, so that everyone hears, without shouting and hurting your throat?",
+   "context": "This is a problem to solve. Paati sits in the far bedroom and often misses the doorbell. How can you help the sound reach her?",
+   "problem": "Paati likes to sit in the far bedroom, with the door half shut. When the doorbell rings, she does not hear it. How can you help the sound of the bell, or of a visitor's knock, travel to her?",
    "constraints": [
-    "No shouting.",
+    "Paati stays in her room.",
     "Use only things you already have at home.",
     "The neighbours should not be disturbed."
    ],
    "materials": [
+    "a steel tumbler and a spoon, to be the doorbell",
     "newspaper and tape",
-    "a steel plate and a spoon",
-    "a small bell, if you have one"
+    "a phone that can play a ringing sound, if you have one"
    ],
    "general": [
-    "Walk to each room and say it.",
-    "Ring a bell or tap a steel plate in the hall.",
-    "Call from the middle of the home, where the sound can reach every room."
+    "Open Paati's door, so the sound does not have to go round a corner.",
+    "Open the doors between the front door and her room.",
+    "Make the bell louder."
    ],
    "creative": [
-    "Roll a paper cone and point it at each room in turn.",
-    "Agree on a dinner signal, like three taps on a steel plate.",
-    "Stand in the doorway, so the sound does not have to go round a corner."
+    "Put a second bell, or the phone, half-way between the front door and her room.",
+    "Make a paper cone to point the sound down the hallway to her door.",
+    "Agree that whoever hears the bell taps a steel plate near her room."
    ],
-   "your_turn": "Try your idea. Did everyone hear you? Ask each person how loud it was. Which idea worked best? Why?",
+   "your_turn": "Try your idea. One person is the doorbell at the front door. One person is Paati, listening in the far room. Did Paati hear it? Which idea worked best? Why?",
    "setup": [
     {
-     "art": "A girl standing in the middle of a flat with a steel plate and a spoon, and family members in three different rooms.",
-     "caption": "1. Everyone is in a different room. How will you call them?"
+     "art": "A flat seen from above, with a front door at one end and a grandmother in a far bedroom with the door half shut.",
+     "caption": "1. The doorbell is at one end. Paati is at the other. How can the sound reach her?"
     },
     {
-     "art": "The girl tapping the plate three times, and sound lines spreading out to every room.",
-     "caption": "2. Try your idea. Did everyone hear it?"
+     "art": "A girl opening the bedroom door wide while her brother taps a steel tumbler at the front door, sound lines going down the hallway.",
+     "caption": "2. Try your idea. Did Paati hear it?"
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Read the problem. Ask family members to go to different rooms.",
-     "say": "Dinner is ready. Everyone is in a different room. How can you call them all without shouting?",
-     "kid": "Dinner is ready! How can you call everyone without shouting?",
+     "do": "Read the problem. One person goes to the far room to be Paati. Tap the tumbler at the front door. Did Paati hear it?",
+     "say": "Paati is in the far room. I am the doorbell. Can she hear me? How could we help the sound get to her?",
+     "kid": "Paati can't hear the bell. How can the sound reach her?",
      "ask": [
       {
-       "q": "Where would you stand to call everyone?",
+       "q": "Why is the bell hard to hear in the far room?",
        "good": [
-        "In the middle of the home.",
-        "In the hall, near all the doors."
+        "It is far away.",
+        "The sound spreads out on the way.",
+        "The door is half shut."
        ]
       }
      ]
@@ -1116,23 +1117,23 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Let your child try two or three ideas. Each person in the other rooms says if they heard it.",
-     "say": "Try your idea. Let's ask everyone: did you hear it? Was it loud or soft?",
-     "kid": "Try your idea. Ask everyone if they heard it.",
-     "parent": "Help only if asked. Good ideas use where you stand, which way you point, or a sound that travels well, like a tap on steel."
+     "do": "Let your child try two or three ideas. Tap the tumbler the same way each time. Paati says loud, soft or can't hear.",
+     "say": "Try your idea. I will ring the bell the same way. Paati, could you hear it? Was it loud or soft?",
+     "kid": "Try your idea. Ask Paati if she heard it.",
+     "parent": "Help only if asked. Good ideas make the path shorter or more open, or send the sound one way."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Ask your child which idea worked best, and why.",
-     "say": "Which idea did everyone hear? Why do you think it worked?",
+     "say": "Which idea helped Paati hear the bell best? Why do you think it worked?",
      "kid": "Which idea worked best? Why?",
      "ask": [
       {
-       "q": "Why did standing in the middle help?",
+       "q": "Why did opening the door help?",
        "good": [
-        "The sound spreads out to every side, so it reached all the rooms.",
-        "Every room was close."
+        "The sound did not have to go round the door.",
+        "More of the sound could get into the room."
        ]
       }
      ]
@@ -1259,13 +1260,13 @@
        "Use a paper cone"
       ],
       [
-       "Everyone in the house must hear the dinner call",
-       "Call from the middle of the home"
+       "Paati can't hear the doorbell in the far room",
+       "Open the doors on the way"
       ]
      ],
      "a": "pairs as given",
-     "why": "Coming closer means the sound travels less far. A cone sends more of your voice one way. From the middle of the home, the sound spreads out to every room.",
-     "art": "Three small pictures on the left: a girl whispering far away, two girls on balconies, a family in different rooms. Three on the right: footsteps, a paper cone, a girl in a hall."
+     "why": "Coming closer means the sound travels less far. A cone sends more of your voice one way. With the doors open, the sound has an open path and does not have to go round them.",
+     "art": "Three small pictures on the left: a girl whispering far away, two girls on balconies, a grandmother in a far room. Three on the right: footsteps, a paper cone, an open door."
     },
     {
      "t": "odd",
@@ -1582,13 +1583,13 @@
    "check": "Find a short, accurate explanation from a science museum or education channel. Check that it says the cone directs the sound, and does not say it creates extra sound."
   },
   {
-   "title": "Elephants calling to each other from far away",
+   "title": "Ripples spreading on a pond",
    "channel": "",
    "youtube": "",
    "status": "find-id",
-   "mins": 3,
-   "why": "Shows that some animals send sounds a very long way: elephants rumble to family members kilometres away.",
-   "check": "Find real footage from a nature documentary or elephant research group, ideally mentioning Katy Payne or the Elephant Listening Project. Check the distances it gives."
+   "mins": 2,
+   "why": "A slow, clear look at ripples spreading out on every side and getting smaller, a picture of how a sound spreads out from its source.",
+   "check": "Find real slow-motion footage of a drop or a stone making ripples on still water. Use it as a picture of spreading only: sound is not a water ripple. Check that it is not animation."
   }
  ],
  "applications": [
@@ -1622,8 +1623,8 @@
  ],
  "open_questions": [
   {
-   "q": "How far away can elephants hear each other's rumbles?",
-   "why_open": "Scientists know elephants call family members a few kilometres away with deep rumbles. Exactly how far depends on the weather, the ground and the time of day, and scientists are still measuring it."
+   "q": "Why does a sound sometimes carry much further on a cool, still night than on a hot afternoon?",
+   "why_open": "Scientists know that wind and warm and cool layers of air bend a sound up or down as it travels. Working out exactly how far a sound will carry on a given day is still hard, and people are still studying it."
   },
   {
    "q": "How do our ears and brain tell which way a sound came from?",
@@ -1788,13 +1789,13 @@
  "roots": {
   "context": "We have walked away from sounds, listened from behind a door and called through a paper cone. Now we ask what a travelling sound tells us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "In the Walk Away test, the grown-up rubbed their fingers the same way every time. Close by, you heard it clearly. A few steps back, you heard nothing. The rub did not change, so how loud a sound is also depends on how far it has travelled to you.",
-   "habit": "We call a sound loud or soft as if that belongs only to the thing making it. But one sound is loud to the person next to it and soft to the person down the road, at the same moment.",
-   "evidence": "In the Walk Away test, the same finger rub was clear close by and gone a few steps back. In Near or Far, Meena by the bell hears it loud while her friend at the end of the street hears it soft."
+   "truth": "In All Around the Tumbler, one tap reached you in front, behind and round the door. The sound spread out to fill the whole room at once. Far away, it had spread over more space, so less of it reached you. So one sound is shared out among every place around it.",
+   "habit": "We picture a sound going from one thing to one ear, like a ball thrown to a catcher. But a sound spreads out to every side, and every ear around it catches a share of the same sound.",
+   "evidence": "In All Around the Tumbler, the same tap reached every spot in the room and round the door. In the Walk Away test, the same finger rub was clear close by and gone a few steps back, where its share had become too small to hear."
   },
   "three": {
    "who_am_i": "You are a listener in one spot. Every sound you hear has travelled to that spot, from somewhere else, to reach you.",
-   "what_is_life": "Many living beings send sounds across distances to stay together: a mother elephant rumbling to her family, crows calling across the city, people calling each other home.",
+   "what_is_life": "Many living beings send sounds across distances to stay together: a calf calling her mother, crows calling across the city, people calling each other home.",
    "what_is_this_world": "The world is full of sounds spreading out from many places at once, crossing each other in the air, reaching everyone a little differently."
   },
   "thread": "One bell rings in one place. Its sound spreads out on every side and reaches everyone around it: a child near the bell, a grandmother across the pond, a crow on the roof. One sound becomes a different sound in each ear, louder or softer. The air that carries it is aware in its own way, and so are the bell and every listener. Many scientists disagree: they say only beings with nerves are aware.",
@@ -1805,9 +1806,9 @@
     "link": "In All Around the Tumbler, the tap reached you in front, behind and at the sides. In Be the Air, the tap was passed from person to person. These old thinkers described the same spreading and passing on, by thinking about ripples and flowers."
    },
    {
-    "source": "The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell it too)",
+    "source": "The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too)",
     "teaching": "Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched.",
-    "link": "In Near or Far, Meena by the bell heard a loud sound, and her friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears."
+    "link": "In Who Hears It Louder?, Meena by the bell heard a loud sound, and her friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears."
    }
   ],
   "science": [
@@ -1903,7 +1904,6 @@
    "Speed of sound in air at about 20 degrees Celsius: about 343 metres per second, so about 3 seconds per kilometre.",
    "Marin Mersenne, Harmonie universelle (1636), gave a speed of sound from gun-flash timing. Pierre Gassendi's timings (1630s) found loud and soft, high and low gun sounds travelled at the same speed, against Aristotle's view that high notes travel faster.",
    "Horn and cone megaphones increase forward sound by directing it and matching the voice to the air better; the gain is modest for a paper cone but audible.",
-   "Katy Payne and colleagues discovered in 1984 that elephants communicate with infrasonic rumbles, which can carry several kilometres.",
    "Nyaya-Vaisheshika on sound propagation: vichi-taranga-nyaya (the maxim of waves and ripples) and kadamba-mukula-nyaya (the maxim of kadamba buds), Vishvanatha's Bhasha-pariccheda (Karikavali). Verse numbers not checked.",
    "Udana 6.4 (Tittha Sutta), the parable of the blind men and the elephant."
   ]

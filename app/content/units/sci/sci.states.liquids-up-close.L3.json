@@ -555,19 +555,49 @@
      "kind": "cards",
      "title": "18 pond cards to cut out",
      "items": [
-      "An ant falls in and struggles. You feel the ripples. Skate 3 squares to catch them.",
-      "A small fly lands on the water. Their kicks make tiny ripples. Skate 2 squares.",
-      "A moth falls in after a night of lights. Big ripples! Skate 4 squares.",
+      {
+       "f": "An ant falls in and struggles. You feel the ripples. Skate 3 squares to catch them.",
+       "img": {
+        "src": "media/cards/liquids-up-close-g2-1-00.jpg",
+        "credit": "Joss Carr, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A small fly lands on the water. Their kicks make tiny ripples. Skate 2 squares.",
+       "img": {
+        "src": "media/cards/liquids-up-close-g2-1-01.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A moth falls in after a night of lights. Big ripples! Skate 4 squares.",
+       "img": {
+        "src": "media/cards/liquids-up-close-g2-1-02.jpg",
+        "credit": "Raja bandi, CC BY, via iNaturalist"
+       }
+      },
       "You make ripples with your legs to send a signal to another strider. Every player moves 1 square.",
       "A fish rises under you. You feel the water bulge and jump away. Go back 1 square, but you are safe.",
-      "A kingfisher dives nearby. Stay very still: miss a turn.",
+      {
+       "f": "A kingfisher dives nearby. Stay very still: miss a turn.",
+       "img": {
+        "src": "media/cards/liquids-up-close-g2-1-05.jpg",
+        "credit": "danpatrick, CC BY, via iNaturalist"
+       }
+      },
       "Wind blows ripples across the whole tank. You cannot tell where food is. Miss a turn.",
       "Soapy water runs in from someone washing at the steps. The skin is weak there. Go back 3 squares to clean water.",
       "Oil from a scooter wash spreads on the water. Go back 2 squares.",
       "You row hard with your middle legs and push the water back. Skate 3 squares.",
       "Rain drops hit the water. Ripples everywhere! Miss a turn.",
       "You clean your legs with your feet, to keep their waxy hairs dry. Stay where you are, but your next move is doubled.",
-      "A dragonfly lands on a lotus leaf. Dragonflies are not food for you, so you skate on. Roll again.",
+      {
+       "f": "A dragonfly lands on a lotus leaf. Dragonflies are not food for you, so you skate on. Roll again.",
+       "img": {
+        "src": "media/cards/liquids-up-close-g2-1-12.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
+      },
       "A baby water strider hatches nearby. Move 1 square to make room.",
       "A leaf falls and makes a big dent. Skate around it: move 1 square.",
       "A struggling ant reaches you. Grab them with your short front legs. Skate 2 squares.",
