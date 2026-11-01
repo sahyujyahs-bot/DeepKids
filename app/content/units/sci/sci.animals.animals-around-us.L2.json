@@ -352,31 +352,59 @@
      "items": [
       {
        "f": "Crow",
-       "b": "Feathers"
+       "b": "Feathers",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Peacock",
-       "b": "Feathers"
+       "b": "Feathers",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-01.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Penguin",
-       "b": "Feathers. A bird that swims and does not fly."
+       "b": "Feathers. A bird that swims and does not fly.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-02.jpg",
+        "credit": "Seig, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Hen",
-       "b": "Feathers"
+       "b": "Feathers",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-03.jpg",
+        "credit": "Mohit Girotra, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Dog",
-       "b": "Hair or fur"
+       "b": "Hair or fur",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-04.jpg",
+        "credit": "M. B., CC0, via iNaturalist"
+       }
       },
       {
        "f": "Cow",
-       "b": "Hair or fur"
+       "b": "Hair or fur",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-05.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bat",
-       "b": "Hair or fur. A bat is a mammal with wings."
+       "b": "Hair or fur. A bat is a mammal with wings.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-06.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You",
@@ -384,23 +412,43 @@
       },
       {
        "f": "Elephant",
-       "b": "Hair or fur. Elephants have thin, bristly hairs."
+       "b": "Hair or fur. Elephants have thin, bristly hairs.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-08.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Squirrel",
-       "b": "Hair or fur"
+       "b": "Hair or fur",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-09.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Fish",
-       "b": "Scales"
+       "b": "Scales",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-10.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snake",
-       "b": "Scales"
+       "b": "Scales",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-11.jpg",
+        "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gecko",
-       "b": "Scales"
+       "b": "Scales",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-12.jpg",
+        "credit": "Suhas Saya, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Indian pangolin",
@@ -408,43 +456,83 @@
       },
       {
        "f": "Crocodile",
-       "b": "Scales"
+       "b": "Scales",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-14.jpg",
+        "credit": "Mike Prince, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snail",
-       "b": "Shell or hard case"
+       "b": "Shell or hard case",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-15.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tortoise",
-       "b": "Shell or hard case"
+       "b": "Shell or hard case",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-16.jpg",
+        "credit": "Hopeland, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crab",
-       "b": "Shell or hard case"
+       "b": "Shell or hard case",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-17.jpg",
+        "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ant",
-       "b": "Shell or hard case. An ant's outside is a hard case."
+       "b": "Shell or hard case. An ant's outside is a hard case.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-18.jpg",
+        "credit": "🪶🐾🍀Nandan Sreejith🦌🍄🌍, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Beetle",
-       "b": "Shell or hard case"
+       "b": "Shell or hard case",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-19.jpg",
+        "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "Bare skin"
+       "b": "Bare skin",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-20.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Earthworm",
-       "b": "Bare skin"
+       "b": "Bare skin",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-21.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Dolphin",
-       "b": "Bare skin. A dolphin is a mammal with almost no hair."
+       "b": "Bare skin. A dolphin is a mammal with almost no hair.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-22.jpg",
+        "credit": "Richard Fuller, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "Scales. A butterfly's wings are covered in tiny scales!"
+       "b": "Scales. A butterfly's wings are covered in tiny scales!",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-23.jpg",
+        "credit": "Abhimanyu.A, CC BY, via iNaturalist"
+       }
       }
      ]
     },

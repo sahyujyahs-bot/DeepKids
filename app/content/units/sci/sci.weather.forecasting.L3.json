@@ -469,7 +469,11 @@
       },
       {
        "f": "The satellite film shows a big swirl of cloud over the Bay of Bengal, moving towards the coast.",
-       "b": "Rain in a day or two"
+       "b": "Rain in a day or two",
+       "img": {
+        "src": "media/cards/forecasting-g1-0-11.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The weather office gives a red warning for very heavy rain.",

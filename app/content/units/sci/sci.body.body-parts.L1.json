@@ -401,43 +401,83 @@
      "items": [
       {
        "f": "Flap your arms like a crow's wings.",
-       "b": "Arms. A crow's wing has bones like the bones in your arm."
+       "b": "Arms. A crow's wing has bones like the bones in your arm.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Walk on your hands and feet like a cat.",
-       "b": "Hands, feet, elbows and knees. A cat has elbows and knees too."
+       "b": "Hands, feet, elbows and knees. A cat has elbows and knees too.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-01.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Swing one arm in front of your face like an elephant's trunk.",
-       "b": "Arm, standing in for a trunk. A trunk is a nose and upper lip joined together."
+       "b": "Arm, standing in for a trunk. A trunk is a nose and upper lip joined together.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-02.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Hop on two feet like a sparrow.",
-       "b": "Legs and feet. Sparrows hop with both feet together."
+       "b": "Legs and feet. Sparrows hop with both feet together.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-03.jpg",
+        "credit": "John Brew, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Wiggle two fingers on your head like an ant's feelers.",
-       "b": "Fingers, standing in for feelers. An ant smells and touches with her feelers."
+       "b": "Fingers, standing in for feelers. An ant smells and touches with her feelers.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-04.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Stretch your neck up tall like a giraffe.",
-       "b": "Neck. A giraffe's long neck has seven bones, the same number as yours."
+       "b": "Neck. A giraffe's long neck has seven bones, the same number as yours.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-05.jpg",
+        "credit": "martin ingemansson, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Wave your bottom like a dog wagging a tail.",
-       "b": "Hips. You have a small tailbone, but no tail."
+       "b": "Hips. You have a small tailbone, but no tail.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-06.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pick up a sock with your toes, like a monkey.",
-       "b": "Toes. Monkeys can grip with their feet."
+       "b": "Toes. Monkeys can grip with their feet.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-07.jpg",
+        "credit": "Martin Predavec, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Swim with your arms like a turtle.",
-       "b": "Arms. A sea turtle's flippers have finger bones inside."
+       "b": "Arms. A sea turtle's flippers have finger bones inside.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-08.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Blink slowly like an owl.",
-       "b": "Eyelids. Owls blink too."
+       "b": "Eyelids. Owls blink too.",
+       "img": {
+        "src": "media/cards/body-parts-g2-0-09.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
       }
      ]
     }

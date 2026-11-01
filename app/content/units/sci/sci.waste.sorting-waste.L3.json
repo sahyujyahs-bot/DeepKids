@@ -405,11 +405,23 @@
       "A cardboard box, folded flat",
       "A glass jar, rinsed",
       "A steel lid",
-      "A plastic bottle",
+      {
+       "f": "A plastic bottle",
+       "img": {
+        "src": "media/cards/sorting-waste-g1-0-13.jpg",
+        "credit": "Jiafei Slay Queen, CC0, via Wikimedia Commons"
+       }
+      },
       "An old cotton T-shirt",
       "A broken plastic toy",
       "A toothpaste tube",
-      "A drinks can",
+      {
+       "f": "A drinks can",
+       "img": {
+        "src": "media/cards/sorting-waste-g1-0-17.jpg",
+        "credit": "Hstoops, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "An old battery",
       "A broken glass tumbler",
       "A used razor blade",

@@ -413,47 +413,91 @@
       },
       {
        "f": "A pack of dholes runs after a sambar deer for a long way.",
-       "b": "Hunts by chasing, together"
+       "b": "Hunts by chasing, together",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-01.jpg",
+        "credit": "Barry Stewart, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A signature spider spins a sticky web between two plants.",
-       "b": "Hunts with a trap"
+       "b": "Hunts with a trap",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-02.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An antlion digs a cone-shaped pit in dry dust and waits at the bottom.",
-       "b": "Hunts with a trap"
+       "b": "Hunts with a trap",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-03.jpg",
+        "credit": "Ian Manning, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A buffalo bites grass, step by step, along a canal bank.",
-       "b": "Grazes"
+       "b": "Grazes",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-04.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A goat stands on her back legs to eat the leaves of a bush.",
-       "b": "Browses"
+       "b": "Browses",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-05.jpg",
+        "credit": "portioid, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Three vultures eat a cow who has died in a field.",
-       "b": "Scavenges"
+       "b": "Scavenges",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-06.jpg",
+        "credit": "Wolfgang Ahlmer, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A flamingo sweeps her upside-down beak through shallow water.",
-       "b": "Filters tiny food from water"
+       "b": "Filters tiny food from water",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-07.jpg",
+        "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A house gecko waits beside the tube light for moths.",
-       "b": "Hunts by ambush"
+       "b": "Hunts by ambush",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-08.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A kingfisher watches from a wire, then dives into a pond for a fish.",
-       "b": "Hunts by ambush: watches, then dives"
+       "b": "Hunts by ambush: watches, then dives",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-09.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An oakleaf butterfly closes her wings and looks like a dry leaf.",
-       "b": "Stays safe: camouflage"
+       "b": "Stays safe: camouflage",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-10.jpg",
+        "credit": "Vijay Barve, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A jungle nightjar sits still on the ground, the colour of dead leaves.",
-       "b": "Stays safe: camouflage and keeping still"
+       "b": "Stays safe: camouflage and keeping still",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-11.jpg",
+        "credit": "Joel correa, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An Indian pangolin rolls into a tight ball of hard scales.",
@@ -461,31 +505,59 @@
       },
       {
        "f": "A star tortoise pulls her head and legs into her shell.",
-       "b": "Stays safe: armour"
+       "b": "Stays safe: armour",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-13.jpg",
+        "credit": "SUBHASHGHULE, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A herd of chital lift their heads when langurs give an alarm call.",
-       "b": "Stays safe: a group with many eyes and ears"
+       "b": "Stays safe: a group with many eyes and ears",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-14.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A ghost crab on a Chennai beach, the colour of sand, dashes into a burrow.",
-       "b": "Stays safe: camouflage, then running to a burrow"
+       "b": "Stays safe: camouflage, then running to a burrow",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-15.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A crow eats leftover rice, a ripe fig and a beetle.",
-       "b": "Omnivore: eats almost anything"
+       "b": "Omnivore: eats almost anything",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-16.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A banded archerfish spits a jet of water to knock an insect off a leaf.",
-       "b": "Hunts by shooting water"
+       "b": "Hunts by shooting water",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-17.jpg",
+        "credit": "Pierre Pericard, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A porcupine raises and rattles her sharp quills.",
-       "b": "Stays safe: spines and a warning"
+       "b": "Stays safe: spines and a warning",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-18.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A frog freezes when the shadow of a heron passes over the pond.",
-       "b": "Stays safe: keeping still"
+       "b": "Stays safe: keeping still",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-19.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       }
      ]
     },

@@ -38,5 +38,13 @@
  "setup.e3.2": {
   "src": "media/img/sci.weather.forecasting.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.weather.forecasting.L3/term.11.jpg",
+  "credit": "NASA/Ben Smegelsky, public domain"
+ },
+ "term.14": {
+  "src": "media/img/sci.weather.forecasting.L3/term.14.jpg",
+  "credit": "NASA, public domain"
  }
 }

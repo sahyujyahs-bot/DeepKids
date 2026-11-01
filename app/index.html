@@ -5265,11 +5265,47 @@ dialog .fxfab {
   padding: 6px 0;
 }
 .fxlvl {
-  margin: 12px 0 4px;
+  display: grid;
+  gap: 8px;
+  margin: 10px 0 4px;
+  padding: 12px;
+  border-radius: var(--r-card);
+  background: var(--sunk);
+}
+.fxlvlh {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.fxlvlh b {
+  font: 600 16px var(--display);
+}
+.fxlvlh span {
+  font-size: 13px;
+  color: var(--muted);
 }
 .fxsoon {
-  margin: 4px 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.fxsoonc {
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--surface);
   color: var(--muted);
+  font-size: 13px;
+}
+.fxsoonc.bd::before {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: var(--aqua);
+  vertical-align: middle;
 }
 .fxnew {
   display: grid;
@@ -15623,14 +15659,15 @@ const dkViewPick = (count) =>
     .join("")}</select></label><span class="sm muted">${count}</span></div>`;
 const combinedBrowse = () => (ui.dkview === "topic" ? fxTopicLadder() : combinedTopicList());
 // every science topic, strand by strand, then level by level: a written unit opens (any family can add it to the
-// plan alongside the class plan); the rest show as being written
+// plan alongside the class plan); the rest show as coming
 function fxTopicLadder() {
   const T = DATA.ladder?.sci || [],
-    tag = (board) => `<span class="pill">${board ? "Board topic" : "DeepKids extra"}</span>`,
-    lesson = ([id, name, board]) =>
-      DATA.units?.[id]
-        ? `<p class="xs">${tag(board)}</p>${fxUnitBtns([DATA.units[id]])}`
-        : `<p class="fxsoon sm">${esc(name)} · being written ${tag(board)}</p>`,
+    // a level: its written units as cards, then the lessons still to come as small soft chips (board topics marked with a dot)
+    level = ([l, subs]) => {
+      const have = subs.filter(([id]) => DATA.units?.[id]),
+        soon = subs.filter(([id]) => !DATA.units?.[id]);
+      return `<div class="fxlvl"><div class="fxlvlh"><b>Level ${l}</b><span>Class ${DATA.levels?.[l]?.cls || l}</span></div>${fxUnitBtns(have.map(([id]) => DATA.units[id]))}${soon.length ? `<div class="fxsoon"><span class="xs muted">Coming</span>${soon.map(([, name, board]) => `<span class="fxsoonc${board ? " bd" : ""}">${esc(name)}</span>`).join("")}</div>` : ""}</div>`;
+    },
     // "7 units · 23 coming": how many of these topics' lessons are written, and how many are still to come
     count = (L) => {
       const n = L.filter(([id]) => DATA.units?.[id]).length;
@@ -15640,9 +15677,9 @@ function fxTopicLadder() {
     },
     lessons = (t) => t.levels.flatMap(([, subs]) => subs),
     topic = (t) =>
-      `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${count(lessons(t))}</span></summary>${t.levels.map(([l, subs]) => `<p class="fxlvl"><b>Level ${l}</b> · Class ${DATA.levels?.[l]?.cls || l}</p>${subs.map(lesson).join("")}`).join("")}</details>`;
+      `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${count(lessons(t))}</span></summary>${t.levels.map(level).join("")}</details>`;
   return T.length
-    ? `${dkViewPick(`${T.length} topics · ${Object.keys(DATA.units || {}).length} units`)}<section class="fxnew"><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
+    ? `${dkViewPick(`${T.length} topics · ${Object.keys(DATA.units || {}).length} units`)}<section class="fxnew"><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you. A <span class="fxsoonc bd">dot</span> marks a topic school boards teach.</p>${[
         ...new Set(T.map((t) => t.strand)),
       ]
         .map((st) => {
@@ -21685,7 +21722,7 @@ const FXINTRO = [
     "Every topic followed all the way: from your child's hands to atoms, stars and the big questions nobody has answered yet.",
   ],
   [
-    "intro-family",
+    "intro-lift",
     "A plan that fits your family",
     "Classes, rest days, outings and curiosity. DeepKids plans each day around them and re-plans itself as your child learns.",
   ],
@@ -21695,7 +21732,7 @@ const FXINTRO = [
     "Everything NCERT, Cambridge and NIOS teach, and more. Follow your board's book, or let DeepKids lead by topic.",
   ],
   [
-    "intro-together",
+    "intro-play",
     "Together, or on their own",
     "Step-by-step for you to teach, or read aloud for your child to follow alone. Games, stories, experiments and songs in every lesson.",
   ],

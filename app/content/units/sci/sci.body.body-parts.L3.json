@@ -576,7 +576,13 @@
      "kind": "cards",
      "title": "30 cards to cut out: 10 parts, 10 guards, 10 care cards",
      "items": [
-      "PART: Eyes",
+      {
+       "f": "PART: Eyes",
+       "img": {
+        "src": "media/cards/body-parts-g1-0-00.jpg",
+        "credit": "Björn Markmann, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
       "GUARD: Eyelashes, eyelids and tears",
       "CARE: Never rub hard. Wash with clean water. Never look at the sun.",
       "PART: Ears",

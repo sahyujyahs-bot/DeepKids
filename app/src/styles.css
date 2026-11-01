@@ -5259,11 +5259,47 @@ dialog .fxfab {
   padding: 6px 0;
 }
 .fxlvl {
-  margin: 12px 0 4px;
+  display: grid;
+  gap: 8px;
+  margin: 10px 0 4px;
+  padding: 12px;
+  border-radius: var(--r-card);
+  background: var(--sunk);
+}
+.fxlvlh {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.fxlvlh b {
+  font: 600 16px var(--display);
+}
+.fxlvlh span {
+  font-size: 13px;
+  color: var(--muted);
 }
 .fxsoon {
-  margin: 4px 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.fxsoonc {
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--surface);
   color: var(--muted);
+  font-size: 13px;
+}
+.fxsoonc.bd::before {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: var(--aqua);
+  vertical-align: middle;
 }
 .fxnew {
   display: grid;

@@ -640,43 +640,83 @@
      "items": [
       {
        "f": "An Arctic tern. The Arctic summer is ending and the sea will freeze. Stay or go?",
-       "b": "GO. She flies all the way to Antarctica, where summer is beginning."
+       "b": "GO. She flies all the way to Antarctica, where summer is beginning.",
+       "img": {
+        "src": "media/cards/migration-g2-0-00.jpg",
+        "credit": "tcantrell52, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A house crow in Chennai. There are scraps of food all year round. Stay or go?",
-       "b": "STAY. Food is there all year, so there is no need for a long journey."
+       "b": "STAY. Food is there all year, so there is no need for a long journey.",
+       "img": {
+        "src": "media/cards/migration-g2-0-01.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A humpback whale in the cold sea near Antarctica. Winter is coming and she is going to have a calf. Stay or go?",
-       "b": "GO. She swims thousands of kilometres to warm seas, where the calf is born."
+       "b": "GO. She swims thousands of kilometres to warm seas, where the calf is born.",
+       "img": {
+        "src": "media/cards/migration-g2-0-02.jpg",
+        "credit": "Lawrence Hylton, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A humpback whale in the Arabian Sea, off Oman and the west coast of India. Stay or go?",
-       "b": "STAY. These humpbacks stay in the Arabian Sea all year, unlike most humpbacks."
+       "b": "STAY. These humpbacks stay in the Arabian Sea all year, unlike most humpbacks.",
+       "img": {
+        "src": "media/cards/migration-g2-0-03.jpg",
+        "credit": "Charlotte Kirchner, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A demoiselle crane in Mongolia. The lakes will freeze in winter. Stay or go?",
-       "b": "GO. She flies over the Himalayas to spend the winter in India."
+       "b": "GO. She flies over the Himalayas to spend the winter in India.",
+       "img": {
+        "src": "media/cards/migration-g2-0-04.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A curlew sandpiper chick in the Arctic. Your parents left weeks ago. Stay or go?",
-       "b": "GO. She flies south alone, in the direction she was born with."
+       "b": "GO. She flies south alone, in the direction she was born with.",
+       "img": {
+        "src": "media/cards/migration-g2-0-05.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A monarch butterfly born in Canada in late summer. The days are getting shorter. Stay or go?",
-       "b": "GO. This autumn generation flies all the way to the mountains of Mexico."
+       "b": "GO. This autumn generation flies all the way to the mountains of Mexico.",
+       "img": {
+        "src": "media/cards/migration-g2-0-06.jpg",
+        "credit": "Shirley Zundell, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A house sparrow in Pune. Stay or go?",
-       "b": "STAY. House sparrows stay near the same homes all year."
+       "b": "STAY. House sparrows stay near the same homes all year.",
+       "img": {
+        "src": "media/cards/migration-g2-0-07.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A hilsa fish in the Bay of Bengal. The monsoon rains have filled the rivers. Stay or go?",
-       "b": "GO. Many hilsa swim up rivers like the Hooghly to lay their eggs."
+       "b": "GO. Many hilsa swim up rivers like the Hooghly to lay their eggs.",
+       "img": {
+        "src": "media/cards/migration-g2-0-08.jpg",
+        "credit": "Sabarni Sarker, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An olive ridley turtle in the sea far from Odisha. She is ready to lay her eggs. Stay or go?",
-       "b": "GO. Huge numbers of olive ridleys come to beaches like Rushikulya and Gahirmatha in Odisha to lay their eggs."
+       "b": "GO. Huge numbers of olive ridleys come to beaches like Rushikulya and Gahirmatha in Odisha to lay their eggs.",
+       "img": {
+        "src": "media/cards/migration-g2-0-09.jpg",
+        "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A Gaddi shepherd family in Himachal Pradesh. Summer is here and the high meadows are green. Stay or go?",
@@ -684,7 +724,11 @@
       },
       {
        "f": "A garden lizard on a wall in Madurai. Stay or go?",
-       "b": "STAY. She lives near the same wall and bushes all her life."
+       "b": "STAY. She lives near the same wall and bushes all her life.",
+       "img": {
+        "src": "media/cards/migration-g2-0-11.jpg",
+        "credit": "OnePlanet, CC BY, via iNaturalist"
+       }
       }
      ]
     },
