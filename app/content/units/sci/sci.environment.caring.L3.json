@@ -365,28 +365,70 @@
      "kind": "cards",
      "title": "32 thing cards to cut out",
      "items": [
-      "crow",
-      "neem tree",
+      {
+       "f": "crow",
+       "img": {
+        "src": "media/cards/caring-g1-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "neem tree",
+       "img": {
+        "src": "media/cards/caring-g1-0-01.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
       "stone",
       "rain cloud",
       "steel tumbler",
       "plastic bucket",
-      "ant",
+      {
+       "f": "ant",
+       "img": {
+        "src": "media/cards/caring-g1-0-06.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
+      },
       "sand",
       "auto-rickshaw",
-      "coconut",
+      {
+       "f": "coconut",
+       "img": {
+        "src": "media/cards/caring-g1-0-09.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
       "river",
       "brick",
       "curd",
       "wooden spoon",
-      "potted tulsi",
+      {
+       "f": "potted tulsi",
+       "img": {
+        "src": "media/cards/caring-g1-0-14.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "dry moong seed",
       "cotton shirt",
       "temple tank with fish",
       "paper",
       "salt from the salt pans",
-      "a pet dog",
-      "a mango tree planted in a park",
+      {
+       "f": "a pet dog",
+       "img": {
+        "src": "media/cards/caring-g1-0-20.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "a mango tree planted in a park",
+       "img": {
+        "src": "media/cards/caring-g1-0-21.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      },
       "honey",
       "a pearl",
       "a silk saree",

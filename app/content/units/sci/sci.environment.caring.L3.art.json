@@ -1,4 +1,16 @@
 {
+ "flow.a3": {
+  "src": "media/img/sci.environment.caring.L3/flow.a3.jpg",
+  "credit": "R K, CC BY, via iNaturalist"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.environment.caring.L3/flow.c1.jpg",
+  "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.environment.caring.L3/flow.e1.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.environment.caring.L3/setup.e1.0.jpg",
   "drawn": true
@@ -22,5 +34,9 @@
  "setup.e2.2": {
   "src": "media/img/sci.environment.caring.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.environment.caring.L3/term.4.jpg",
+  "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
  }
 }

@@ -434,7 +434,11 @@
       },
       {
        "f": "An AA cell lying on the table",
-       "b": "Waiting. Store: CELL. A circuit lets the energy out."
+       "b": "Waiting. Store: CELL. A circuit lets the energy out.",
+       "img": {
+        "src": "media/cards/stored-energy-g1-0-10.jpg",
+        "credit": "Lukas A, CZE, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A torch shining",
