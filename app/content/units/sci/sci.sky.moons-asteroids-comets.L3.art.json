@@ -1,4 +1,52 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/expl.0.jpg",
+  "credit": "NASA/JPL-Caltech/GSFC/Univ. of Arizona, public domain"
+ },
+ "expl.1": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/expl.1.jpg",
+  "credit": "NASA/JPL/DLR, public domain"
+ },
+ "expl.2": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/expl.2.jpg",
+  "credit": "NASA/JPL, public domain"
+ },
+ "expl.3": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/expl.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.8": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/expl.8.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.9": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/expl.9.jpg",
+  "credit": "NASA/JPL, public domain"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/flow.a2.jpg",
+  "credit": "NASA/JPL, public domain"
+ },
+ "flow.a3": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/flow.a3.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/flow.a4.jpg",
+  "credit": "NASA/JSC/Stanford University, public domain"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/flow.c2.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/flow.p1.jpg",
+  "credit": "NASA/JPL/DLR, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.moons-asteroids-comets.L3/setup.e1.0.jpg",
   "drawn": true
@@ -22,5 +70,49 @@
  "setup.e2.2": {
   "src": "media/img/sci.sky.moons-asteroids-comets.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/summary.jpg",
+  "credit": "NASA/JPL-Caltech/ASU, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.0.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.1": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.10": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.10.jpg",
+  "credit": "NASA/JPL/Cornell, public domain"
+ },
+ "term.11": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.11.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.12.jpg",
+  "credit": "NASA/JPL-Caltech/Univ. of Arizona, public domain"
+ },
+ "term.2": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.2.jpg",
+  "credit": "NASA/JPL-Caltech/ASU, public domain"
+ },
+ "term.3": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.3.jpg",
+  "credit": "NASA/McREL, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.4.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "term.6": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.6.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.9": {
+  "src": "media/img/sci.sky.moons-asteroids-comets.L3/term.9.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
  }
 }

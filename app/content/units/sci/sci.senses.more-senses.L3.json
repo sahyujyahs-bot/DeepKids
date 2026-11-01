@@ -420,13 +420,55 @@
      "kind": "cards",
      "title": "24 cards: 8 animals, 8 problems, 8 senses",
      "items": [
-      "ANIMAL: Sardine (mathi)",
-      "ANIMAL: Prawn",
-      "ANIMAL: Female mosquito",
-      "ANIMAL: Python",
-      "ANIMAL: Spider",
-      "ANIMAL: Cat",
-      "ANIMAL: Bat",
+      {
+       "f": "ANIMAL: Sardine (mathi)",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-00.jpg",
+        "credit": "Ameet Mandavia, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL: Prawn",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-01.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL: Female mosquito",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-02.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL: Python",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-03.jpg",
+        "credit": "Subhasish Arandhara, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL: Spider",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-04.jpg",
+        "credit": "Jean-Paul Boerekamps, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL: Cat",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-05.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL: Bat",
+       "img": {
+        "src": "media/cards/more-senses-g1-0-06.jpg",
+        "credit": "T R Shankar Raman, CC BY, via iNaturalist"
+       }
+      },
       "ANIMAL: You",
       "PROBLEM: Swims in a big shoal and must turn with the others without bumping, even at night",
       "PROBLEM: Lives in dark, moving water and must know which way is up",

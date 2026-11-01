@@ -603,7 +603,11 @@
       },
       {
        "f": "A male great bowerbird lays small stones near the female and bigger stones far from her. To her, the court looks evenly spread.",
-       "b": "Clue: Far away"
+       "b": "Clue: Far away",
+       "img": {
+        "src": "media/cards/perception-g2-1-12.jpg",
+        "credit": "Wolfgang Ahlmer, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Your train seems to move when the train next to it starts.",

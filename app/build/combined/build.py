@@ -133,6 +133,7 @@ import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
     u = json.load(open(f)); t = TL.get(u['id'])
+    if not u.get('playtest') and not u['id'].endswith('.L3'): continue   # units at a new level go live once play-tested
     if not t: print('unit not in the curriculum:', u['id']); continue
     art = f[:-5] + '.art.json'
     if os.path.exists(art): u['img'] = json.load(open(art))

@@ -401,7 +401,11 @@
      "items": [
       {
        "f": "A hot spring in Yellowstone, in the United States. The water is 70 degrees and liquid, with chemicals dissolved in it.",
-       "b": "YES. Thermus aquaticus bacteria live here. Liquid water, and energy from the chemicals."
+       "b": "YES. Thermus aquaticus bacteria live here. Liquid water, and energy from the chemicals.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-00.jpg",
+        "credit": "Jim Peaco, National Park Service, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A deep-sea vent. The water is 110 degrees but stays liquid under great pressure. No sunlight reaches it.",
@@ -421,7 +425,11 @@
       },
       {
        "f": "Damp green moss on a wall in Bengaluru.",
-       "b": "YES. Tardigrades live in damp moss."
+       "b": "YES. Tardigrades live in damp moss.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-05.jpg",
+        "credit": "muddytortoise, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A steel pot of curd at room temperature.",
@@ -441,15 +449,27 @@
       },
       {
        "f": "The surface of the Moon, with no air and no liquid water.",
-       "b": "NO. With no air and no liquid water, nothing could grow. No life has ever been found there."
+       "b": "NO. With no air and no liquid water, nothing could grow. No life has ever been found there.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-10.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The surface of Venus, about 460 degrees.",
-       "b": "NO. It is far too hot for liquid water, so life could not grow there."
+       "b": "NO. It is far too hot for liquid water, so life could not grow there.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-11.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The surface of Mars today, cold and dry.",
-       "b": "UNKNOWN. No life has been found, but Mars once had lakes. Nobody knows if anything lived there."
+       "b": "UNKNOWN. No life has been found, but Mars once had lakes. Nobody knows if anything lived there.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-12.jpg",
+        "credit": "NASA/JPL-Caltech/ASU/MSSS, public domain"
+       }
       },
       {
        "f": "Under the ground on Mars, where ice may melt.",
@@ -457,11 +477,19 @@
       },
       {
        "f": "Europa, a moon of Jupiter, with a salty ocean under its ice.",
-       "b": "UNKNOWN. Liquid salty water, so it is one of the best places to look."
+       "b": "UNKNOWN. Liquid salty water, so it is one of the best places to look.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-14.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Enceladus, a moon of Saturn, whose ocean sprays jets of water into space.",
-       "b": "UNKNOWN. Salty water and chemicals that life uses, but nobody has looked inside."
+       "b": "UNKNOWN. Salty water and chemicals that life uses, but nobody has looked inside.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-15.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
       }
      ]
     },
@@ -614,11 +642,19 @@
       },
       {
        "f": "Emperor penguins in Antarctica",
-       "b": "COLD"
+       "b": "COLD",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g2-1-10.jpg",
+        "credit": "John Barkla, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A camel in the Thar Desert",
-       "b": "DRY"
+       "b": "DRY",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g2-1-11.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       }
      ]
     }

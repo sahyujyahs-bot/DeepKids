@@ -1,4 +1,16 @@
 {
+ "flow.a3": {
+  "src": "media/img/sci.senses.more-senses.L3/flow.a3.jpg",
+  "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.senses.more-senses.L3/flow.a5.jpg",
+  "credit": "Ashwit Shetty, CC BY, via iNaturalist"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.senses.more-senses.L3/flow.c2.jpg",
+  "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.senses.more-senses.L3/setup.e1.0.jpg",
   "drawn": true
@@ -30,5 +42,13 @@
  "setup.e3.1": {
   "src": "media/img/sci.senses.more-senses.L3/setup.e3.1.jpg",
   "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.senses.more-senses.L3/term.12.jpg",
+  "credit": "Shaunak Modi, CC BY, via iNaturalist"
+ },
+ "term.13": {
+  "src": "media/img/sci.senses.more-senses.L3/term.13.jpg",
+  "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
  }
 }

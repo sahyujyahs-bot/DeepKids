@@ -1,4 +1,8 @@
 {
+ "expl.8": {
+  "src": "media/img/sci.senses.perception.L3/expl.8.jpg",
+  "credit": "Mark Clarke, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.senses.perception.L3/setup.e1.0.jpg",
   "drawn": true
@@ -22,5 +26,17 @@
  "setup.e2.2": {
   "src": "media/img/sci.senses.perception.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.senses.perception.L3/term.1.jpg",
+  "credit": "PinchyCC, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.11": {
+  "src": "media/img/sci.senses.perception.L3/term.11.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "term.12": {
+  "src": "media/img/sci.senses.perception.L3/term.12.jpg",
+  "credit": "OnePlanet, CC BY, via iNaturalist"
  }
 }

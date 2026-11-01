@@ -425,14 +425,62 @@
      "kind": "cards",
      "title": "8 planet cards to cut out",
      "items": [
-      "MERCURY. Width: 0.4 Earths. Distance from the Sun: 0.4 times the Earth's. Year: 88 days.",
-      "VENUS. Width: 0.95 Earths. Distance from the Sun: 0.7 times the Earth's. Year: 225 days.",
-      "EARTH. Width: 1 Earth. Distance from the Sun: 1 times the Earth's. Year: 365 days.",
-      "MARS. Width: 0.5 Earths. Distance from the Sun: 1 times the Earth's.5 times the Earth's. Year: 687 days.",
-      "JUPITER. Width: 11 Earths. Distance from the Sun: 5.2 times the Earth's. Year: about 4,330 days, almost 12 years.",
-      "SATURN. Width: 9.4 Earths. Distance from the Sun: 9.5 times the Earth's. Year: about 10,760 days, about 29 and a half years.",
-      "URANUS. Width: 4 Earths. Distance from the Sun: 19 times the Earth's. Year: about 30,690 days, about 84 years.",
-      "NEPTUNE. Width: 3.9 Earths. Distance from the Sun: 30 times the Earth's. Year: about 60,190 days, about 165 years."
+      {
+       "f": "MERCURY. Width: 0.4 Earths. Distance from the Sun: 0.4 times the Earth's. Year: 88 days.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-00.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "VENUS. Width: 0.95 Earths. Distance from the Sun: 0.7 times the Earth's. Year: 225 days.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-01.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
+      },
+      {
+       "f": "EARTH. Width: 1 Earth. Distance from the Sun: 1 times the Earth's. Year: 365 days.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-02.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MARS. Width: 0.5 Earths. Distance from the Sun: 1 times the Earth's.5 times the Earth's. Year: 687 days.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-03.jpg",
+        "credit": "JPL/NASA/STScI, public domain"
+       }
+      },
+      {
+       "f": "JUPITER. Width: 11 Earths. Distance from the Sun: 5.2 times the Earth's. Year: about 4,330 days, almost 12 years.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-04.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
+      },
+      {
+       "f": "SATURN. Width: 9.4 Earths. Distance from the Sun: 9.5 times the Earth's. Year: about 10,760 days, about 29 and a half years.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-05.jpg",
+        "credit": "NASA/JPL/Space Science Institute, public domain"
+       }
+      },
+      {
+       "f": "URANUS. Width: 4 Earths. Distance from the Sun: 19 times the Earth's. Year: about 30,690 days, about 84 years.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-06.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
+      },
+      {
+       "f": "NEPTUNE. Width: 3.9 Earths. Distance from the Sun: 30 times the Earth's. Year: about 60,190 days, about 165 years.",
+       "img": {
+        "src": "media/cards/solar-system-g1-0-07.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
+      }
      ]
     }
    ],

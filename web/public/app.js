@@ -290,7 +290,6 @@ function toast(m, ms) {
   // inside the open dialog on top (a sheet, the chat, a unit), or the message would be hidden behind it
   ([...document.querySelectorAll("dialog[open]")].pop() || document.body).appendChild(t);
   setTimeout(() => t.remove(), ms || Math.max(2200, m.length * 60));
-  iamLook();
 }
 const IC = {
   grid: '<rect x="4" y="4" width="7" height="7" rx="2.5"/><rect x="13" y="4" width="7" height="7" rx="2.5"/><rect x="4" y="13" width="7" height="7" rx="2.5"/><circle cx="16.5" cy="16.5" r="3.5"/>',
@@ -324,6 +323,15 @@ const IC = {
   play: '<path d="M8 5.5v13l10.5-6.5z"/>',
   pause: '<path d="M9 5.5v13M15 5.5v13" stroke-width="2.4"/>',
   spark: '<path d="M12 3l2.2 6.3L20.5 12l-6.3 2.2L12 20.5l-2.2-6.3L3.5 12l6.3-2.7z"/>',
+  words:
+    '<rect x="3.5" y="5" width="17" height="14" rx="3"/><path d="M7 15.5l2.5-7 2.5 7M7.9 13h3.2M14.5 15.5v-4.5M14.5 12.5a2 2 0 1 1 0 .1"/>',
+  puzzle:
+    '<path d="M5 9h3a2 2 0 1 1 4 0h3v3a2 2 0 1 1 0 4v3h-3a2 2 0 1 0-4 0H5v-3a2 2 0 1 0 0-4z" transform="translate(1 -1.5)"/>',
+  quiz: '<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .9-1 1.6v.6M12 17h.01" stroke-width="2.2"/>',
+  maths: '<path d="M7 4.5v5M4.5 7h5M14.5 7h5M5 15l4 4M9 15l-4 4M14.5 15.5h5M14.5 18.5h5"/>',
+  song: '<path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/>',
+  roots:
+    '<path d="M12 12V3.5M12 7c-2.5-2.5-5-2.5-6.5-2 .3 2.3 3 4 6.5 3.5M12 7c2.5-2.5 5-2.5 6.5-2-.3 2.3-3 4-6.5 3.5M4 12h16M12 12v4l-3 4M12 16l3 4M9 14l-3 2M15 14l3 2"/>',
 };
 const icon = (n, c = "") => `<svg class="ico ${c}" viewBox="0 0 24 24" aria-hidden="true">${IC[n] || IC.spark}</svg>`;
 const KL = {
@@ -6263,14 +6271,13 @@ let FXCUR = 0,
   FXCARDS = [],
   FXOBS = null;
 function fxImg(u, key, brief, cls) {
-  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit
+  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit. A picture not drawn
+  // yet shows the unit's own picture: families never see the art brief, which is written for the artist
   const p = u.img?.[key],
     url = p?.src || p,
     em = FXE[key.split(".")[0]] || "🎨";
   if (!url && !brief) return "";
-  return url
-    ? `<div class="fximg ${cls || ""}${p.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')">${p.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`
-    : `<div class="fxph ${cls || ""}"><span>${em}</span>${brief ? `<i>${esc(brief)}</i>` : ""}</div>`;
+  return `<div class="fximg ${cls || ""}${p?.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${url ? esc(brief || "") : ""}" src="${esc(url || unitPic(u.id))}" onerror="this.parentNode.classList.add('broken')">${p?.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
 function fxChart(c) {
@@ -6952,23 +6959,24 @@ function fxSecMeta(u, o, ent) {
       }[o] || 5;
   return { id: o, title: m[0], emoji: m[1], kind: o, mins, lead: m[2] };
 }
-/* colour coding: every kind of part has one colour, label and icon, used on the map, the opening card and every card */
+/* colour coding: every kind of part has one colour, label, emoji and line icon (and a name for its tile on the unit's
+   first screen), used on the first screen, the opening card and every card */
 const FXKC = {
-  story: ["Story", "📖", "#8C93C7"],
-  idea: ["Big idea", "💡", "#6DB4F2"],
-  words: ["Words", "🔤", "#E0A800"],
-  games: ["Game", "🎲", "#E2559A"],
-  experiments: ["Experiment", "🧪", "#3F8F5F"],
-  activities: ["Activity", "🤸", "#1FA89D"],
-  projects: ["Project", "🛠️", "#E8741C"],
-  challenges: ["Challenge", "🧩", "#9A5BD0"],
-  worksheets: ["Worksheet", "📝", "#3B7DD8"],
-  quiz: ["Quiz", "❓", "#E24B4E"],
-  videos: ["Watch", "▶️", "#5A5470"],
-  maths: ["Maths", "➗", "#0F8A7E"],
-  song: ["Song", "🎵", "#C25B9E"],
-  roots: ["Roots", "🪷", "#B0638C"],
-  extra: ["Extras", "✨", "#8A9A3B"],
+  story: ["Story", "📖", "#8C93C7", "read", "Story"],
+  idea: ["Big idea", "💡", "#6DB4F2", "learn", "Big ideas"],
+  words: ["Words", "🔤", "#E0A800", "words", "Words"],
+  games: ["Game", "🎲", "#E2559A", "game", "Games"],
+  experiments: ["Experiment", "🧪", "#3F8F5F", "exp", "Experiments"],
+  activities: ["Activity", "🤸", "#1FA89D", "act", "Activities"],
+  projects: ["Project", "🛠️", "#E8741C", "proj", "Projects"],
+  challenges: ["Challenge", "🧩", "#9A5BD0", "puzzle", "Challenges"],
+  worksheets: ["Worksheet", "📝", "#3B7DD8", "ws", "Worksheets"],
+  quiz: ["Quiz", "❓", "#E24B4E", "quiz", "Quiz"],
+  videos: ["Watch", "▶️", "#5A5470", "play", "Videos"],
+  maths: ["Maths", "➗", "#0F8A7E", "maths", "Maths"],
+  song: ["Song", "🎵", "#C25B9E", "song", "Song"],
+  roots: ["Roots", "🪷", "#B0638C", "roots", "Roots"],
+  extra: ["Extras", "✨", "#8A9A3B", "spark", "Extras"],
 };
 const fxGroup = (k) =>
   ({
@@ -7053,9 +7061,9 @@ function fxSecState(u, s) {
   const F = fxSt();
   return F.done[u.id]?.["sec:" + s.id] ? "done" : F.time[u.id]?.[s.id] ? "started" : "";
 }
-function fxTop(d, mapView) {
+function fxTop() {
   const F = fxSt();
-  return `<div class="fxtop"><button class="fxx" data-fx="${mapView ? "close" : "map"}" aria-label="${mapView ? "Close" : "Back to the unit map"}">${mapView ? "✕" : "🗺️"}</button><div class="fxbar"><i style="width:0"></i></div><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>`;
+  return `<div class="fxtop"><button class="fxx" data-fx="map" aria-label="Back to the unit's first screen">${icon("back")}</button><div class="fxbar"><i style="width:0"></i></div><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>`;
 }
 function fxMap() {
   const u = FXU,
@@ -7070,29 +7078,31 @@ function fxMap() {
     pos = F.pos[u.id],
     cont = pos && typeof pos === "object" ? pos.s : -1,
     tot = SL.reduce((a, s) => a + s.mins, 0),
-    spent = Object.values(T).reduce((a, b) => a + b, 0);
-  d.innerHTML =
-    fxTop(d, true) +
-    `<div class="fxmap"><div class="fxin">${fxImg(u, "summary", u.summary.art, "fxhero")}<div class="fxtxt"><span class="fxeb">${esc(u.id.split(".")[1])} · Class ${u.id.slice(-1)} · ${SL.length} parts · about ${Math.max(1, Math.round(tot / ({ 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[+u.id.slice(-1)] || 40)))} days of ${{ 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[+u.id.slice(-1)] || 40} minutes</span><h1>${esc(u.title)}</h1><p>${esc(u.summary.text)}</p>
-    <div class="fxmode"><button class="fxb" data-fx="mode" data-m="parent" aria-pressed="${F.mode === "parent"}">👩 I'm teaching</button><button class="fxb" data-fx="mode" data-m="child" aria-pressed="${F.mode === "child"}">🧒 I'm the learner</button></div>
-    ${cont >= 0 && cont < SL.length ? `<button class="fxb fxgo" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">▶ Carry on: ${esc(SL[cont].title)}</button>` : `<button class="fxb fxgo" data-fx="sec" data-s="0">▶ Start at the beginning</button>`}
-    <p class="fxsm">Or start with: </p><div class="fxchips">${u.plan.start_options
-      .map((o) => {
-        const i = SL.findIndex((s) => s.id === o || (o === "cards" && s.id === "terms"));
-        return i < 0
-          ? ""
-          : `<button class="fxchip" data-fx="sec" data-s="${i}">${SL[i].emoji} ${esc(SL[i].title)}</button>`;
+    spent = Object.values(T).reduce((a, b) => a + b, 0),
+    cls = +u.id.slice(-1),
+    day = { 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[cls] || 40,
+    it = unitBy("unit|" + u.id),
+    SD = it ? fxSpineDays(it).length : 0,
+    ref = unitRef(u.id),
+    groups = [...new Set(SL.map((s) => fxGroup(s.kind)))];
+  d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>
+    <div class="fxin fxsheetp"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
+    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"} to start</span>` : ""}<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>${ref ? `<span>${esc(ref)}</span>` : ""}</div>
+    ${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
+    ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${esc(SL[cont].title)}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
+    <div class="fxtiles">${groups
+      .map((g) => {
+        const L = SL.filter((s) => fxGroup(s.kind) === g),
+          n = L.filter((s) => fxSecState(u, s) === "done").length;
+        return `<button class="fxtile" data-fx="sec" data-s="${SL.indexOf(L[0])}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}<b>${FXKC[g][4]}</b><span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></button>`;
       })
       .join("")}</div>
-    <div class="fxstats"><span><b>${done}</b> of ${SL.length} parts done</span><span><b>${fxMin(spent)}</b> spent</span><span>${fxScore(u)}</span></div>
-    <h2>All the parts</h2><div class="fxlegend">${[...new Set(SL.map((s) => fxGroup(s.kind)))].map((g) => `<span class="fxkp" style="--kc:${FXKC[g][2]}">${FXKC[g][1]} ${FXKC[g][0]}</span>`).join("")}</div><ol class="fxparts">${SL.map(
-      (s, i) => {
-        const st = fxSecState(u, s);
-        return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${fxKC(s.kind)[2]}"><span class="fxpe">${st === "done" ? "✅" : s.emoji}</span><span><b>${esc(s.title)}</b><br>${fxPill(s.kind)} <span class="fxsm">${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span><span class="fxchev">›</span></button></li>`;
-      },
-    ).join("")}</ol></div></div></div>
+    <h2>All the parts</h2><ol class="fxparts">${SL.map((s, i) => {
+      const st = fxSecState(u, s),
+        [kn, , kc, ki] = fxKC(s.kind);
+      return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${kc}"><span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span><b>${esc(s.title)}</b><span class="fxsm">${kn} · ${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span>${icon("next")}</button></li>`;
+    }).join("")}</ol></div></div>
     <div class="fxact"><button class="fxaskb" data-fx="chat">${iamFace("mini")}Ask IAm</button></div>`;
-  d.querySelector(".fxbar i").style.width = (100 * done) / SL.length + "%";
 }
 function fxShowSection(si, ci) {
   const u = FXU,
@@ -7122,7 +7132,7 @@ function fxShowSection(si, ci) {
     end,
   ];
   d.innerHTML =
-    fxTop(d, false) +
+    fxTop() +
     `<div class="fxfeed" style="--kc:${fxKC(s.kind)[2]}">${FXCARDS.map((c, i) => `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}"><div class="fxin">${c.html}</div></section>`).join("")}</div>
    <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">${iamFace("mini")}Ask IAm</button></div>`;
   const feed = d.querySelector(".fxfeed"),
@@ -7461,6 +7471,10 @@ function fxClick(e) {
   if (a === "close") return fxClose();
   if (a === "map") return fxMap();
   if (a === "sec") return fxGo(+b.dataset.s, +(b.dataset.c || 0));
+  if (a === "sum") {
+    b.textContent = d.querySelector(".fxsum").classList.toggle("open") ? "Show less" : "Read all";
+    return;
+  }
   if (a === "begin") return sec?.nextElementSibling?.scrollIntoView({ behavior: "smooth" });
   if (a === "mode") {
     F.mode = b.dataset.m;
@@ -7471,9 +7485,6 @@ function fxClick(e) {
     if (!t) return;
     t.dataset.m = F.mode === "parent" ? "child" : "parent";
     t.textContent = F.mode === "parent" ? "👩 Teaching" : "🧒 Learner";
-    d.querySelectorAll('.fxmode [data-fx="mode"]').forEach((x) =>
-      x.setAttribute("aria-pressed", x.dataset.m === F.mode),
-    );
     return toast(F.mode === "parent" ? "Parent mode: what to do and say" : "Learner mode: the app talks to the child");
   }
   if (a === "save") {
@@ -7634,40 +7645,32 @@ function dkUnitOpen(id) {
 // the lessons and board chapters that link to a unit
 const unitChapters = (id) => DATA.items.filter((i) => (i.c?.units || []).some((x) => x.id === id));
 // the picture on a unit's card (app/build/combined/build.py picks it), or the subject's picture if the unit has none
-const unitPic = (id) => DATA.units?.[id]?.pic || `media/ui/subj-${id.split(".")[0] === "sci" ? "sci" : "dks"}.jpg`;
+const unitPic = (id) => DATA.units?.[id]?.pic || subjPic(id.split(".")[0]);
+// a subject's own picture, for anything without a picture of its own
+const subjPic = (s) => `media/ui/subj-${["sci", "math", "eng", "hin", "wml", "wart"].includes(s) ? s : "dks"}.jpg`;
+// a lesson's picture: its unit's, or the first unit it links to, or its subject's
+const lessonPic = (u) => {
+  const id = u.board === "unit" ? u.c?.unit : u.c?.units?.[0]?.id;
+  return id ? unitPic(id) : subjPic(u.subj);
+};
 const firstSentence = (t) => String(t || "").split(/(?<=[.?!])\s/)[0];
-// "NCERT Class 3 Ch 2, 9 · Cambridge Unit 3.1–3.3": the board chapters a lesson covers ([{b, ref}]), in one line,
-// for the family's own boards when it covers any of them
-function coversLine(refs) {
-  const mine = refs.filter((r) => boardsOn().includes(r.b)),
-    G = new Map();
-  for (const { b, ref } of mine.length ? mine : refs) {
-    const [, pre, n] = String(ref).match(/^(.*?) ?([\d.]+)$/) || [ref, ref, ""],
-      B = G.get(b) || new Map();
-    G.set(b, B.set(pre, [...(B.get(pre) || []), n]));
-  }
-  // 3.1, 3.2, 3.3 -> 3.1–3.3
-  const runs = (ns) =>
-    [...new Set(ns)]
-      .reduce((R, n) => {
-        const r = R[R.length - 1],
-          [p, last] = [n.replace(/\d+$/, ""), +n.match(/\d+$/)?.[0]];
-        if (r && r.p === p && r.last + 1 === last) {
-          r.ns.push(n);
-          r.last = last;
-        } else R.push({ p, last, ns: [n] });
-        return R;
-      }, [])
-      .map((r) => (r.ns.length > 2 ? `${r.ns[0]}–${r.ns[r.ns.length - 1]}` : r.ns.join(", ")))
-      .join(", ");
-  const L = [...G].map(
-    ([b, B]) => `${BNAME[b] || b} ${[...B].map(([pre, ns]) => `${pre} ${runs(ns)}`.trim()).join("; ")}`,
+// one card for a unit or lesson in the Library: its picture, title and first line, its board chapter as a small tag,
+// a line of short facts (html), a button on the side (side) and a line under it (foot)
+const unitCard = ({ act, pic, title, gist, tag, facts, side = "", foot = "", locked }) =>
+  `<div class="fxucard${locked ? " locked" : ""}"><button class="fxopenbtn" ${act}><img src="${esc(pic)}" alt="" loading="lazy"><span class="fxuc"><b>${esc(title)}</b>${locked ? ' <span class="lk">🔒</span>' : ""}${gist ? `<span class="fxgist">${esc(gist)}</span>` : ""}${tag ? `<span class="fxtag">${esc(tag)}</span>` : ""}${facts.some(Boolean) ? `<span class="fxfacts">${facts.filter(Boolean).join(" · ")}</span>` : ""}</span></button>${side}${foot ? `<div class="fxfoot xs">${foot}</div>` : ""}</div>`;
+// the first board chapter of a list ([{b, ref}]) in a few words ("NCERT Class 3 Ch 7"), the family's own board first
+const shortRef = (refs) => {
+  const r = refs.find((x) => boardsOn().includes(x.b)) || refs[0];
+  return r ? `${BNAME[r.b] || r.b} ${r.ref}` : "";
+};
+// a unit's board chapter in a few words ("NCERT Class 3 Ch 7"), the family's own board first
+const unitRef = (id) =>
+  shortRef(
+    unitChapters(id)
+      .filter((i) => CHREF[i.board])
+      .sort((a, b) => a.level - b.level || a.n - b.n)
+      .map((i) => ({ b: i.board, ref: CHREF[i.board](i) })),
   );
-  return L.length ? `Covers ${esc(L.slice(0, 3).join(" · "))}${L.length > 3 ? " and more" : ""}` : "";
-}
-// one card for a unit or lesson in the Library: its picture, title and first line, a few short facts (html), and foot
-const unitCard = ({ act, pic, title, gist, facts, foot = "", locked }) =>
-  `<div class="fxucard${locked ? " locked" : ""}"><button class="fxopenbtn" ${act}><img src="${esc(pic)}" alt="" loading="lazy"><span><b>${esc(title)}</b>${locked ? ' <span class="lk">🔒</span>' : ""}${gist ? `<span class="fxgist sm">${esc(gist)}</span>` : ""}</span></button>${facts.some(Boolean) ? `<p class="fxfacts xs">${facts.filter(Boolean).join("<br>")}</p>` : ""}${foot}</div>`;
 const CHREF = {
   ncert: (i) => `Class ${i.level} Ch ${i.n}`,
   cambridge: (i) => `Stage ${i.level} Unit ${i.n}`,
@@ -7686,32 +7689,32 @@ const fxUnitBtns = (L) =>
       D = u ? fxDayPlan(u) : [],
       s = u?.subj || "sci",
       open = dkUnitOpen(x.id),
-      covers = coversLine(
-        unitChapters(x.id)
-          .filter((i) => CHREF[i.board])
-          .sort((a, b) => a.level - b.level || a.n - b.n)
-          .map((i) => ({ b: i.board, ref: CHREF[i.board](i) })),
-      );
+      inPlan = (S.extra?.[s] || []).includes(k),
+      q = `data-act="fxq" data-s="${s}" data-k="${esc(k)}"`;
     return unitCard({
       act: `data-act="fxopen" data-u="${esc(x.id)}"`,
       pic: unitPic(x.id),
       title: x.title,
       gist: firstSentence(I.summary?.text),
+      tag: unitRef(x.id),
       locked: !open,
       facts: open
         ? [
             SD.length < D.length
-              ? `About ${SD.length} session${SD.length === 1 ? "" : "s"} to start · ${D.length} sessions in all`
+              ? `About ${SD.length} session${SD.length === 1 ? "" : "s"} to start, ${D.length} in all`
               : `About ${D.length} session${D.length === 1 ? "" : "s"}`,
-            covers,
-            nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? ` · ${np} with questions left` : ""}` : "",
+            nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? `, ${np} with questions left` : ""}` : "",
           ]
         : ["On the DeepKids track · not linked to your board's chapters"],
+      side:
+        open && !inPlan
+          ? `<button class="fxadd" ${q} data-front="1" aria-label="Add to plan: ${esc(x.title)}">${icon("plus")}</button>`
+          : "",
       foot: !open
         ? ""
-        : (S.extra?.[s] || []).includes(k)
-          ? `<p class="xs"><b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button></p>`
-          : `<div class="row" style="align-items:center"><button class="btn sm" data-act="fxq" data-front="1" data-s="${s}" data-k="${esc(k)}">＋ Add to plan</button><button class="link xs" data-act="fxq" data-s="${s}" data-k="${esc(k)}">or add it at the end</button></div>`,
+        : inPlan
+          ? `<b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button>`
+          : `<button class="link xs" ${q}>or add it at the end of the plan</button>`,
     });
   }).join("");
 // what a locked unit says when tapped
@@ -8165,7 +8168,7 @@ function combinedTopicList() {
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
     L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
   return `<div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
-   <h3 class="fxsh">Class ${lv} · ${L.length} topics</h3><p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
+   ${dkViewPick(`${L.length} topics`)}<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
 function combinedCard(e) {
@@ -8177,11 +8180,8 @@ function combinedCard(e) {
     pic: unitPic(e.units?.[0]?.id || u.subj),
     title: u.title,
     gist: firstSentence(u.c?.p?.summary),
-    facts: [
-      n ? `About ${n} session${n === 1 ? "" : "s"}` : "",
-      coversLine(e.boards),
-      s === "none" ? "" : `<b>${STATUS[s]}</b>`,
-    ],
+    tag: shortRef(e.boards || []),
+    facts: [n ? `About ${n} session${n === 1 ? "" : "s"}` : "", s === "none" ? "" : `<b>${STATUS[s]}</b>`],
   });
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder
@@ -8194,15 +8194,17 @@ function dkTrackBrowse() {
   return chips + combinedBrowse();
 }
 // DeepKids Science two ways, picked under View: the class plan, or every topic with its levels 1 to 5
-function combinedBrowse() {
-  const view = ui.dkview === "topic" ? "topic" : "class";
-  return `<label class="row viewpick"><span class="sm">View</span><select class="inp" id="dkView">${[
+const dkViewPick = (count) =>
+  `<div class="libview"><label class="viewpick"><span class="sm">View:</span><select id="dkView">${[
     ["class", "Class plan"],
     ["topic", "All topics and levels"],
   ]
-    .map(([k, n]) => `<option value="${k}"${view === k ? " selected" : ""}>${n}</option>`)
-    .join("")}</select></label>${view === "class" ? combinedTopicList() : fxTopicLadder()}`;
-}
+    .map(
+      ([k, n]) =>
+        `<option value="${k}"${(ui.dkview === "topic" ? "topic" : "class") === k ? " selected" : ""}>${n}</option>`,
+    )
+    .join("")}</select></label><span class="sm muted">${count}</span></div>`;
+const combinedBrowse = () => (ui.dkview === "topic" ? fxTopicLadder() : combinedTopicList());
 // every science topic, strand by strand, then level by level: a written unit opens (any family can add it to the
 // plan alongside the class plan); the rest show as being written
 function fxTopicLadder() {
@@ -8223,7 +8225,7 @@ function fxTopicLadder() {
     topic = (t) =>
       `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${count(lessons(t))}</span></summary>${t.levels.map(([l, subs]) => `<p class="fxlvl"><b>Level ${l}</b> · Class ${DATA.levels?.[l]?.cls || l}</p>${subs.map(lesson).join("")}`).join("")}</details>`;
   return T.length
-    ? `<section class="card fxnew"><span class="eyebrow">Every science topic · ${T.length} topics · ${Object.keys(DATA.units || {}).length} units</span><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
+    ? `${dkViewPick(`${T.length} topics · ${Object.keys(DATA.units || {}).length} units`)}<section class="fxnew"><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
         ...new Set(T.map((t) => t.strand)),
       ]
         .map((st) => {
@@ -9112,7 +9114,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
+  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
   else if (t === "games") h += gamesTab();
@@ -9572,10 +9574,11 @@ function ioptsView() {
   }
   return h + `</div>`;
 }
-const greetBar = (sub) => {
+// the top of Today: the time-of-day picture with the greeting, the day's progress and the read-aloud button on it
+function todayHero(sub) {
   const st = streak();
-  return `<section class="greetbar"><button class="readbtn" data-act="readnow" aria-label="Read the screen aloud" style="order:3;margin-left:auto">🔊</button>${dayRing()}<span style="display:grid;min-width:0"><b>${greetWord()}${pname() ? ", " + esc(pname()) : ""}!</b><span class="xs muted">${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</span></span></section>`;
-};
+  return `<section class="thero"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
+}
 function calHead(d) {
   return calHead0(d) + cancelNote(d);
 }
@@ -9634,14 +9637,12 @@ function nowCard(it) {
   const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
-  const mascot =
+  const pic =
     it.kind === "lesson"
-      ? sblob(it.s, "happy", "mascot bob")
-      : it.who === "you"
-        ? youBlob("mascot bob", "calm")
-        : kidBlob("mascot bob");
-  return `<section class="now ${col}">${mascot}<span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "▲ Hide" : "▼ What's in it"}</span></button>
-   <div class="row" style="flex-wrap:nowrap"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
+      ? `<img src="${esc(lessonPic(it.u))}" alt="">`
+      : `<span class="ic">${icon(KICO[it.kind] || "spark")}</span>`;
+  return `<section class="now ${col}"><div class="nowtop">${pic}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
+   <div class="row nowgo"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
    ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
 }
 function moreView() {
@@ -9810,10 +9811,13 @@ const nightDue = () => {
     (its.length > 0 || dayPlan(tomorrow()).some((i) => i.kind === "lesson"))
   );
 };
-const greetWord = () => {
+const dayPart = () => {
   const h = new Date().getHours();
-  return h < 12 ? "Good morning" : h < 17 ? "Good afternoon" : "Good evening";
+  return h < 12 ? 0 : h < 17 ? 1 : 2;
 };
+const greetWord = () => ["Good morning", "Good afternoon", "Good evening"][dayPart()];
+// Today's picture follows the time of day: fields at sunrise, a garden by day, a rooftop at dusk
+const greetPic = () => `media/ui/${["subj-wml", "intro-together", "intro-family"][dayPart()]}.jpg`;
 function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
@@ -10000,7 +10004,7 @@ const WEEK1 = [
   [
     "lesson",
     "Do one lesson together",
-    "Pick the first lesson on today's list below and do it with your child. Tick it when you finish.",
+    "Pick the first lesson on today's list and do it with your child. Tick it when you finish.",
     "",
     () => S.log.length > 0,
   ],
@@ -10106,28 +10110,28 @@ function viewToday() {
     lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
     left = real.filter((i) => !i.done),
     doneL = real.filter((i) => i.done);
-  let h = greetBar(
-    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? (f ? `${real.length - dn} thing${real.length - dn === 1 ? "" : "s"} left` : "all done") : "nothing planned"}`,
+  let h = todayHero(
+    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? `${dn} of ${real.length} done` : "nothing planned"}`,
   );
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
-  h += firstWeekCard() + fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
-  window.FXANIMED = 1;
-  // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
+  // what to do next comes first, then the day as a list; the first-week guide and the week's numbers sit below it
   h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
+  h += `</section>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the summary animates in the first time only
+  window.FXANIMED = 1;
   {
     const oc = openCount(),
       tile = (act, ic, label, sub, extra = "") =>
         `<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;
     h += `<div class="qtiles">${tile("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${tile("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}${tile("quizgo", "spark", "Quick quiz", "Ask a few questions")}${tile("uploads", "plus", "Add photos", "Work samples")}${tile("lifeadd", "plus", "Something they did", "a class, cooking, a question")}</div>`;
   }
-  h += `</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
+  h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h;
 }
 function fxTodayTop(animate) {
@@ -14022,7 +14026,7 @@ function viewOnboarding() {
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
   if (s === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/intro-journey.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
+    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/subj-wml.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
   if (s === 1) {
     const isB = ["ncert", "cambridge", "nios"].includes(d.board);
     return `<div class="ob">${fxObBar(1)}<h1>Which track?</h1><p class="muted">You can change this later. Every level and every chapter stays open to browse and add, whichever you pick.</p><div class="choices">
@@ -14246,7 +14250,7 @@ function fxObQuiz() {
 }
 const FXINTRO = [
   [
-    "intro-journey",
+    "subj-wml",
     "Learning that goes deep",
     "Every topic followed all the way: from your child's hands to atoms, stars and the big questions nobody has answered yet.",
   ],
@@ -14757,11 +14761,10 @@ function fxFab() {
   const b = document.createElement("button");
   b.id = "fxFab";
   b.className = "fxfab";
-  b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
+  b.innerHTML = `<img src="media/ui/iam-icon.png" alt="">`;
   b.setAttribute("aria-label", "Talk to IAm, the DeepKids Guru (AI). Drag to move him.");
   b.onclick = () => {
     if (b.dataset.dragged) return delete b.dataset.dragged;
-    iamLook();
     const at = iamWhere();
     fxChat(at.about, false, at);
   };
@@ -14774,55 +14777,11 @@ function fxFab() {
 const fxAIOn = () => S.aiPlan === "on" || !!window.DK_PLATFORM?.plus?.()?.on;
 
 /* IAm, the DeepKids Guru: a lion-man with four arms, sitting on a stone step with a book. Tap him to talk (fxChat).
-   States are classes on any parent: .iamthink (waiting for an answer: his eyes close), .iamtalk (answering: he speaks).
-   The small sizes (big, mini) show his face in a round frame. The one on screen (no size) also has poses, data-pose:
-   he reads, turns a page and shifts on his own (iamIdle), and looks up at the family (iamLook). Between two poses
-   he passes through a middle frame (glance, reach, lift), so he moves rather than jumps. */
-const IAM_POSES = ["read", "page", "shift", "glance", "reach", "lift"];
-function iamFace(cls = "") {
-  const poses = cls
-    ? ""
-    : IAM_POSES.map((p) => `<img class="iampose" data-p="${p}" src="media/ui/iam-${p}.webp" alt="">`).join("");
-  return `<span class="iam ${cls}"${cls ? "" : ' data-pose="read"'} aria-hidden="true"><span class="iamframe"><span class="iamfig"><img class="iambody" src="media/ui/iam.webp" alt="">${poses}<img class="iamblink" src="media/ui/iam-blink.webp" alt=""><img class="iammouth" src="media/ui/iam-talk.webp" alt=""></span></span></span>`;
-}
-// what he does on his own, and for how long (ms); the short ones are the middle frames
-const IAM_IDLE = [
-  ["read", 6000],
-  ["reach", 220],
-  ["page", 900],
-  ["reach", 220],
-  ["read", 7000],
-  ["lift", 260],
-  ["shift", 8000],
-  ["lift", 260],
-  ["read", 5000],
-  ["reach", 220],
-  ["page", 900],
-  ["reach", 220],
-];
-let iamStep = 0,
-  iamTimer = 0;
-function iamPose(p) {
-  const f = document.querySelector("#fxFab .iam");
-  if (f) f.dataset.pose = p;
-}
-function iamIdle() {
-  const [p, ms] = IAM_IDLE[iamStep++ % IAM_IDLE.length];
-  iamPose(p);
-  iamTimer = setTimeout(iamIdle, ms);
-}
-// when he is tapped, or the app tells the family something, he looks up for a while, then goes back to his book
-function iamLook(ms = 6000) {
-  clearTimeout(iamTimer);
-  iamPose("glance");
-  iamTimer = setTimeout(() => {
-    iamPose("look");
-    iamTimer = setTimeout(() => {
-      iamPose("glance");
-      iamStep = 0; // back to his book from the start of the routine
-      iamTimer = setTimeout(iamIdle, 220);
-    }, ms);
-  }, 200);
+   On every screen he is a small round face button in the corner (fxFab), so he never covers the page.
+   In the chat (iamFace) his face has eyelids and a mouth: .iamthink on any parent (waiting for an answer) closes his
+   eyes, .iamtalk (answering) moves his mouth. The sizes: big and mini show his face in a round frame, hero all of him. */
+function iamFace(cls) {
+  return `<span class="iam ${cls}" aria-hidden="true"><span class="iamframe"><span class="iamfig"><img class="iambody" src="media/ui/iam.webp" alt=""><img class="iamblink" src="media/ui/iam-blink.webp" alt=""><img class="iammouth" src="media/ui/iam-talk.webp" alt=""></span></span></span>`;
 }
 // after an answer arrives, he speaks for about as long as it would take to say it
 function iamSay(el, text) {
@@ -14852,7 +14811,6 @@ function iamDrag(b) {
       st.moved = true;
       b.classList.remove("land");
       b.classList.add("lift");
-      iamLook();
     }
     // he leans the way he is being carried; the last movement is kept so he can glide on when let go
     st.vx = e.clientX - (st.lx ?? e.clientX);
@@ -15360,16 +15318,16 @@ function openEditor(node) {
    The ? in the top bar replays the current screen; Settings turns the mode on or off. */
 const GUIDE = {
   today: [
-    [".greetbar", "Your day at a glance", "The date, how much is left today, and the sound switch."],
-    [".fxtoday", "This week", "Minutes learned this week, and the units your child is working on."],
-    [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
+    [".thero", "Your day at a glance", "The date, how much is done today, and the read-aloud button."],
     [".now", "What to do now", "The next thing to do. Tap it to start. When you finish, tap Done and it moves on."],
+    [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
     [
       ".daydrag .tr:has(.dh)",
       "Change the order",
       "Want maths before science today? Hold the ⠿ dots, drag the lesson up or down and let go. The lessons swap times.",
       "drag",
     ],
+    [".fxtoday", "This week", "Minutes learned this week, and the units your child is working on."],
     [".morebtn", "For spare moments", "Jokes, games, experiments and reading, whenever you have a few minutes."],
     [
       "#nav",
@@ -15473,7 +15431,6 @@ function guideShow() {
     st = L[g.i];
   let box = document.getElementById("guide");
   if (!st) return guideEnd();
-  iamLook();
   if (!box) {
     box = document.createElement("div");
     box.id = "guide";
@@ -19418,8 +19375,6 @@ new MutationObserver(() => document.body.classList.toggle("ai-locked", !fxAIOn()
 document.body.classList.toggle("ai-locked", !fxAIOn());
 // IAm follows into whichever panel opens or closes
 new MutationObserver(iamFollow).observe(document.body, { subtree: true, attributes: true, attributeFilter: ["open"] });
-// IAm reads on his own until something needs the family
-iamIdle();
 document.addEventListener(
   "click",
   (e) => {

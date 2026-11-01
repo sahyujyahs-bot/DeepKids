@@ -1,4 +1,16 @@
 {
+ "expl.5": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/expl.5.jpg",
+  "credit": "NASA/Jordan Cochran, public domain"
+ },
+ "expl.7": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/expl.7.jpg",
+  "credit": "NASA/JPL, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/intro.jpg",
+  "credit": "Gerd Eichmann, CC BY 4.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.history-of-astronomy.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +46,29 @@
  "setup.e3.2": {
   "src": "media/img/sci.sky.history-of-astronomy.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/summary.jpg",
+  "credit": "NASA/Kim Shiflett, public domain"
+ },
+ "term.13": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/term.13.jpg",
+  "credit": "Arian Zwegers from Brussels, Belgium, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.14": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/term.14.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.3": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/term.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.8": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/term.8.jpg",
+  "credit": "Hiroki Ogawa, CC BY 3.0, via Wikimedia Commons"
+ },
+ "term.9": {
+  "src": "media/img/sci.sky.history-of-astronomy.L3/term.9.jpg",
+  "credit": "NASA/Aubrey Gemignani, public domain"
  }
 }

@@ -1,4 +1,56 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.sky.exploring-space.L3/expl.1.jpg",
+  "credit": "High Contrast, CC BY 3.0 de, via Wikimedia Commons"
+ },
+ "expl.3": {
+  "src": "media/img/sci.sky.exploring-space.L3/expl.3.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "expl.4": {
+  "src": "media/img/sci.sky.exploring-space.L3/expl.4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.5": {
+  "src": "media/img/sci.sky.exploring-space.L3/expl.5.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "expl.6": {
+  "src": "media/img/sci.sky.exploring-space.L3/expl.6.jpg",
+  "credit": "James Blair - NASA - JSC, public domain"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.a2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.a5.jpg",
+  "credit": "NASA/Kim Shiflett, public domain"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.c1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.e1.jpg",
+  "credit": "derivative work: Forrestjunky Candle-flame-and-reflection.jpg: Richard W.M. Jone, Public domain, via Wikimedia Commons"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.e2.jpg",
+  "credit": "The original uploader was Mis306 at English Wikibooks., Public domain, via Wikimedia Commons"
+ },
+ "flow.e3": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.e3.jpg",
+  "credit": "NASA/JPL/USGS, public domain"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.sky.exploring-space.L3/flow.p1.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.exploring-space.L3/intro.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.exploring-space.L3/setup.e1.0.jpg",
   "drawn": true
@@ -30,5 +82,53 @@
  "setup.e3.1": {
   "src": "media/img/sci.sky.exploring-space.L3/setup.e3.1.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.sky.exploring-space.L3/summary.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.0.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.1": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.10": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.10.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "term.11": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.11.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.12.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.4.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "term.5": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.5.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
+ "term.6": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.6.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.7": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.7.jpg",
+  "credit": "NASA/Robert Markowitz, public domain"
+ },
+ "term.8": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.8.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "term.9": {
+  "src": "media/img/sci.sky.exploring-space.L3/term.9.jpg",
+  "credit": "Tomomarusan, CC BY 2.5, via Wikimedia Commons"
  }
 }

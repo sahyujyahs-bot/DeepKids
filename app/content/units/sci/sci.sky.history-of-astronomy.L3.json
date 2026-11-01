@@ -468,7 +468,13 @@
      "kind": "cards",
      "title": "20 cards: 10 pairs to cut out",
      "items": [
-      "BABYLON: clay tablets from what is now Iraq",
+      {
+       "f": "BABYLON: clay tablets from what is now Iraq",
+       "img": {
+        "src": "media/cards/history-of-astronomy-g1-0-00.jpg",
+        "credit": "Shaunnol, Public domain, via Wikimedia Commons"
+       }
+      },
       "FOUND OUT: wrote down the sky every night for hundreds of years, and counted in sixties",
       "GREECE: Eratosthenes in Alexandria",
       "FOUND OUT: measured the size of the Earth from a noon shadow",
@@ -478,7 +484,13 @@
       "FOUND OUT: wrote that the Earth spins, and that eclipses are shadows",
       "KERALA: Parameshvara, 1431",
       "FOUND OUT: watched eclipses for decades and corrected the old tables",
-      "CHINA: astronomers of the Song emperors, 1054",
+      {
+       "f": "CHINA: astronomers of the Song emperors, 1054",
+       "img": {
+        "src": "media/cards/history-of-astronomy-g1-0-10.jpg",
+        "credit": "NASA/ESA/JPL/Arizona State Univ., public domain"
+       }
+      },
       "FOUND OUT: recorded a 'guest star', an exploding star",
       "MAYA: the Dresden Codex",
       "FOUND OUT: a table of the planet Venus, which returns every 584 days",
@@ -486,7 +498,13 @@
       "FOUND OUT: a water clock that sank once every 24 minutes, one nazhigai",
       "EGYPT: Hypatia of Alexandria",
       "FOUND OUT: a woman who taught astronomy and worked on Ptolemy's astronomy book",
-      "JAIPUR: Jai Singh II, about 1730",
+      {
+       "f": "JAIPUR: Jai Singh II, about 1730",
+       "img": {
+        "src": "media/cards/history-of-astronomy-g1-0-18.jpg",
+        "credit": "Mustang Joe, CC0, via Wikimedia Commons"
+       }
+      },
       "FOUND OUT: built stone observatories called Jantar Mantar"
      ]
     },

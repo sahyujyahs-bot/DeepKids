@@ -1,4 +1,16 @@
 {
+ "expl.5": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/expl.5.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/flow.c2.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.life-beyond-earth.L3/setup.e1.0.jpg",
   "drawn": true
@@ -22,5 +34,25 @@
  "setup.e2.2": {
   "src": "media/img/sci.sky.life-beyond-earth.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/summary.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "term.10": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/term.10.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "term.11": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/term.11.jpg",
+  "credit": "Image data: NASA/JPL-Caltech/SwRI/MSSS Image processing: Brian Swift CC BY 3.0, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/term.12.jpg",
+  "credit": "NASA/JPL-Caltech/Space Science Institute, public domain"
+ },
+ "term.9": {
+  "src": "media/img/sci.sky.life-beyond-earth.L3/term.9.jpg",
+  "credit": "Jane V Thomas, CC BY, via iNaturalist"
  }
 }
