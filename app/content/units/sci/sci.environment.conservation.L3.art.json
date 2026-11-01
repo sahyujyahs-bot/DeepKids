@@ -1,4 +1,24 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.environment.conservation.L3/expl.1.jpg",
+  "credit": "Haneesh K M, CC0, via iNaturalist"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.environment.conservation.L3/flow.e1.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.environment.conservation.L3/flow.e2.jpg",
+  "credit": "Eleftherios Katsillis, CC BY, via iNaturalist"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.environment.conservation.L3/flow.p1.jpg",
+  "credit": "Юлия Медведько, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.environment.conservation.L3/intro.jpg",
+  "credit": "Ankit Shakya, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.environment.conservation.L3/setup.e1.0.jpg",
   "drawn": true
@@ -38,5 +58,25 @@
  "setup.e3.2": {
   "src": "media/img/sci.environment.conservation.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.environment.conservation.L3/summary.jpg",
+  "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+ },
+ "term.1": {
+  "src": "media/img/sci.environment.conservation.L3/term.1.jpg",
+  "credit": "Alix Sanchis, CC BY, via iNaturalist"
+ },
+ "term.10": {
+  "src": "media/img/sci.environment.conservation.L3/term.10.jpg",
+  "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+ },
+ "term.2": {
+  "src": "media/img/sci.environment.conservation.L3/term.2.jpg",
+  "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.environment.conservation.L3/term.8.jpg",
+  "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
  }
 }

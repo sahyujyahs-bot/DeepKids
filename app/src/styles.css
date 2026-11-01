@@ -6973,9 +6973,19 @@ body {
   .dkedb#dkEditBtn {
     left: calc(var(--rail) + 12px);
   }
+  .fxfab {
+    right: 24px;
+    bottom: calc(env(safe-area-inset-bottom, 0) + 24px);
+  }
+  .fxfab .iam {
+    width: 120px;
+  }
 }
 @media (min-width: 1400px) {
   .wrap {
     max-width: 1080px;
+  }
+  .fxfab .iam {
+    width: 150px;
   }
 }
