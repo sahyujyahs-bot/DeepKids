@@ -455,7 +455,11 @@
       },
       {
        "f": "Nandini tests which cloth keeps ice from melting. She wraps ice cubes of the same size from one tray in different cloths and checks them all at the same times.",
-       "b": "FAIR. Only the cloth is different. The ice cubes and the checking times are the same."
+       "b": "FAIR. Only the cloth is different. The ice cubes and the checking times are the same.",
+       "img": {
+        "src": "media/cards/fair-tests-g1-0-15.jpg",
+        "credit": "liz west, CC BY 2.0, via Wikimedia Commons"
+       }
       }
      ]
     },

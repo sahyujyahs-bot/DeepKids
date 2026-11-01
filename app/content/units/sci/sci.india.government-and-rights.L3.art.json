@@ -1,4 +1,12 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.india.government-and-rights.L3/expl.1.jpg",
+  "credit": "Sohel Patel, CC0, via Wikimedia Commons"
+ },
+ "expl.3": {
+  "src": "media/img/sci.india.government-and-rights.L3/expl.3.jpg",
+  "credit": "SuSanA Secretariat, CC BY 2.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.india.government-and-rights.L3/setup.e1.0.jpg",
   "drawn": true
@@ -22,5 +30,13 @@
  "setup.e2.2": {
   "src": "media/img/sci.india.government-and-rights.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.india.government-and-rights.L3/term.4.jpg",
+  "credit": "Windrain, CC0, via Wikimedia Commons"
+ },
+ "term.6": {
+  "src": "media/img/sci.india.government-and-rights.L3/term.6.jpg",
+  "credit": "Monito - Money Transfer Comparison, CC BY 2.0, via Wikimedia Commons"
  }
 }

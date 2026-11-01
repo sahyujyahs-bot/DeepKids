@@ -343,19 +343,35 @@
      "items": [
       {
        "f": "A goldfish forgets everything after three seconds.",
-       "b": "Only sounds true. Scientists have trained goldfish to come to a sound at feeding time, and they remembered it for months."
+       "b": "Only sounds true. Scientists have trained goldfish to come to a sound at feeding time, and they remembered it for months.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-00.jpg",
+        "credit": "Mohammad Amin Ghaffari, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An octopus has three hearts.",
-       "b": "Checked. Scientists have looked inside octopuses: two hearts pump blood to the gills and one to the rest of the body."
+       "b": "Checked. Scientists have looked inside octopuses: two hearts pump blood to the gills and one to the rest of the body.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-01.jpg",
+        "credit": "Justin Philbois, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Lightning never strikes the same place twice.",
-       "b": "Only sounds true. Very tall buildings are struck by lightning many times every year."
+       "b": "Only sounds true. Very tall buildings are struck by lightning many times every year.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-02.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Camels store water in their humps.",
-       "b": "Only sounds true. The hump is mostly fat. A camel uses the fat when food is short."
+       "b": "Only sounds true. The hump is mostly fat. A camel uses the fat when food is short.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-03.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Your heart beats faster when you run.",
@@ -363,11 +379,19 @@
       },
       {
        "f": "Bulls charge at a red cloth because they hate red.",
-       "b": "Only sounds true. Bulls cannot tell red from green well. In tests, they charged at a moving cloth whatever its colour."
+       "b": "Only sounds true. Bulls cannot tell red from green well. In tests, they charged at a moving cloth whatever its colour.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-05.jpg",
+        "credit": "wilderbombyx, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Ostriches bury their heads in the sand to hide.",
-       "b": "Only sounds true. Ostriches lower their heads to turn their eggs in a nest in the ground. From far away, it can look like they are hiding."
+       "b": "Only sounds true. Ostriches lower their heads to turn their eggs in a nest in the ground. From far away, it can look like they are hiding.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-06.jpg",
+        "credit": "Andrew Allen, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "We use only one tenth of our brain.",
@@ -375,11 +399,19 @@
       },
       {
        "f": "The Moon makes its own light.",
-       "b": "Only sounds true. The Moon shines with sunlight bouncing off it. That is why we see only the lit part."
+       "b": "Only sounds true. The Moon shines with sunlight bouncing off it. That is why we see only the lit part.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-08.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
       },
       {
        "f": "A crow can remember a person's face.",
-       "b": "Checked. In the USA, scientists wore a mask while they caught and ringed crows. For years after, crows scolded anyone wearing that mask."
+       "b": "Checked. In the USA, scientists wore a mask while they caught and ringed crows. For years after, crows scolded anyone wearing that mask.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-09.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Plants grow towards light.",
@@ -391,7 +423,11 @@
       },
       {
        "f": "Bats are blind.",
-       "b": "Only sounds true. Bats can see. Many kinds also find their way in the dark by listening to echoes."
+       "b": "Only sounds true. Bats can see. Many kinds also find their way in the dark by listening to echoes.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-12.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Water boils at a lower temperature high up on a mountain.",
@@ -399,7 +435,11 @@
       },
       {
        "f": "Wild snakes drink milk.",
-       "b": "Only sounds true. Wild snakes eat animals such as rats, frogs and eggs, and drink water."
+       "b": "Only sounds true. Wild snakes eat animals such as rats, frogs and eggs, and drink water.",
+       "img": {
+        "src": "media/cards/questioning-evidence-g1-0-14.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sound cannot travel through empty space.",

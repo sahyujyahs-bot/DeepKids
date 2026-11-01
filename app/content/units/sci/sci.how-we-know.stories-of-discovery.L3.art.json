@@ -1,4 +1,8 @@
 {
+ "expl.2": {
+  "src": "media/img/sci.how-we-know.stories-of-discovery.L3/expl.2.jpg",
+  "credit": "zebedeugalinha, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.how-we-know.stories-of-discovery.L3/setup.e1.0.jpg",
   "drawn": true
@@ -26,5 +30,13 @@
  "setup.e2.2": {
   "src": "media/img/sci.how-we-know.stories-of-discovery.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.how-we-know.stories-of-discovery.L3/term.13.jpg",
+  "credit": "Annie Weissman, CC BY, via iNaturalist"
+ },
+ "term.15": {
+  "src": "media/img/sci.how-we-know.stories-of-discovery.L3/term.15.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
  }
 }
