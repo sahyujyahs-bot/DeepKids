@@ -422,7 +422,11 @@
       },
       {
        "f": "A spacecraft far out in space has its engines off. Keep going or change?",
-       "b": "Keep going: it moves on at the same speed. Nothing is there to slow it."
+       "b": "Keep going: it moves on at the same speed. Nothing is there to slow it.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "A bus turns left. What does a standing passenger do?",
