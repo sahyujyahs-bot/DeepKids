@@ -103,7 +103,7 @@
   {
    "term": "Lure",
    "meaning": "Something that tempts an animal to come close, so they can be caught.",
-   "example": "An anglerfish has a glowing lure on a stalk on their head. Small fish swim up to it.",
+   "example": "An anglerfish has a glowing lure on a stalk on their head. Small fish swim up to the lure.",
    "art": "An anglerfish with a glowing ball dangling in front of their mouth and a little fish approaching."
   },
   {
@@ -300,7 +300,7 @@
    "concept": "Four jobs for light in the dark sea",
    "status": "defined",
    "definition": "Deep-sea animals use light for four main jobs: to catch food, to hide, to scare off attackers, and to talk.",
-   "description": "Deep in the sea it is always dark, food is hard to find, and hunters are everywhere. Light helps with each of these problems. Catch: an anglerfish cannot chase food in the dark. They hang a glowing lure in front of their mouth, and small fish swim up to it and are swallowed. Hide: hunters below look up for dark shapes against the faint light from above. A hatchetfish's belly lights match that light, so their shape vanishes. Scare: some jellyfish flash in circles when grabbed. The flashes may call a bigger hunter to eat the attacker. Talk: in the dark, an animal must find their own kind. Some fish and squid have light patterns that only their own kind uses.",
+   "description": "Deep in the sea it is always dark, food is hard to find, and hunters are everywhere. Light helps with each of these problems. Catch: an anglerfish cannot chase food in the dark. They hang a glowing lure in front of their mouth, and small fish swim up to the lure and are swallowed. Hide: hunters below look up for dark shapes against the faint light from above. A hatchetfish's belly lights match that light, so their shape vanishes. Scare: some jellyfish flash in circles when grabbed. The flashes may call a bigger hunter to eat the attacker. Talk: in the dark, an animal must find their own kind. Some fish and squid have light patterns that only their own kind uses.",
    "examples": [
     "The Atolla jellyfish spins a ring of blue flashes when they are caught. Scientists call it a burglar alarm.",
     "The vampire squid squirts glowing slime and swims off in the dark.",
@@ -483,11 +483,6 @@
    "hint": "Who else might see the light? What might they do?"
   },
   {
-   "q": "The glowing mushrooms of Meghalaya were known to local people long before scientists named them. Who really discovered them?",
-   "kind": "big",
-   "hint": "What is the difference between knowing something and writing it down for the world?"
-  },
-  {
    "q": "We light up our cities at night. Who else lives in the night, and what do they need?",
    "kind": "big",
    "hint": "Think of fireflies, owls, moths and turtles."
@@ -501,11 +496,6 @@
    "q": "Your body gives out a faint light that nobody can see. What else might be real but too faint for us to notice?",
    "kind": "big",
    "hint": "Think of sounds too high to hear, or smells only dogs notice."
-  },
-  {
-   "q": "In the daytime, the glowing mushrooms look plain and brown. What does that tell us about seeing things only in one kind of light?",
-   "kind": "big",
-   "hint": "Think of the stars in the daytime sky. Are they still there at noon?"
   }
  ],
  "story": {
@@ -570,49 +560,85 @@
      "kind": "cards",
      "title": "10 secret firefly cards to cut out",
      "items": [
-      "Jugnu kind A. Your flash: 1 long. Your answer: wait 2 seconds, then 1 short.",
-      "Jugnu kind A. Your flash: 1 long. Your answer: wait 2 seconds, then 1 short.",
-      "Jugnu kind B. Your flash: 2 short. Your answer: wait 1 second, then 2 short.",
-      "Jugnu kind B. Your flash: 2 short. Your answer: wait 1 second, then 2 short.",
-      "Jugnu kind C. Your flash: 3 short, fast. Your answer: wait 3 seconds, then 1 long.",
-      "Jugnu kind C. Your flash: 3 short, fast. Your answer: wait 3 seconds, then 1 long.",
-      "Jugnu kind D. Your flash: 1 short and 1 long. Your answer: wait 2 seconds, then 1 long.",
-      "Jugnu kind D. Your flash: 1 short and 1 long. Your answer: wait 2 seconds, then 1 long.",
-      "TRICKSTER (copies kind A). You have no flash of your own. When a kind A firefly flashes, answer like kind A: wait 2 seconds, then 1 short. If the flyer walks to you, you take the token.",
-      "TRICKSTER (copies kind B). You have no flash of your own. When a kind B firefly flashes, answer like kind B: wait 1 second, then 2 short. If the flyer walks to you, you take the token."
+      {
+       "f": "Firefly kind A. Your flash: 1 long. Your answer: wait 2 seconds, then 1 short.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind A. Your flash: 1 long. Your answer: wait 2 seconds, then 1 short.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind B. Your flash: 2 short. Your answer: wait 1 second, then 2 short.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind B. Your flash: 2 short. Your answer: wait 1 second, then 2 short.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind C. Your flash: 3 short, fast. Your answer: wait 3 seconds, then 1 long.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind C. Your flash: 3 short, fast. Your answer: wait 3 seconds, then 1 long.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind D. Your flash: 1 short and 1 long. Your answer: wait 2 seconds, then 1 long.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "Firefly kind D. Your flash: 1 short and 1 long. Your answer: wait 2 seconds, then 1 long.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "TRICKSTER (copies kind A). You have no flash of your own. Kind A flashes 1 long. If a flyer flashes that, wait 2 seconds, then answer with 1 short. If the flyer walks to you, only you take a token.",
+       "b": "Firefly card"
+      },
+      {
+       "f": "TRICKSTER (copies kind B). You have no flash of your own. Kind B flashes 2 short. If a flyer flashes that, wait 1 second, then answer with 2 short. If the flyer walks to you, only you take a token.",
+       "b": "Firefly card"
+      }
      ]
     },
     {
      "kind": "cards",
      "title": "2 event cards to cut out",
      "items": [
-      "STREET LAMP. During the first flyer's turn this round, one player holds a bright torch still, pointing at the wall. Nobody can see the flashes, so nobody answers and nobody takes a token.",
-      "SYNC TREE. Everyone flashes together on the count of three, five times, like the fireflies that blink together in a tree. Then everyone takes one token."
+      {
+       "f": "STREET LAMP. During the first flyer's turn this round, one waiter holds a bright torch still, pointing at the wall. Nobody can see the flash, so nobody answers and nobody takes a token. That flyer's turn is over.",
+       "b": "Event card"
+      },
+      {
+       "f": "SYNC TREE. Everyone flashes together on the count of three, five times, like the fireflies that blink together in a tree. Then everyone takes one token.",
+       "b": "Event card"
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "Partner tokens: cut 20 small paper circles",
+     "title": "Partner tokens: cut 30 small paper circles",
      "items": [
-      "Cut 20 small paper circles. Each is one partner token."
+      "Cut 30 small paper circles. Each is one partner token."
      ]
     }
    ],
    "rules": [
-    "Choose the firefly cards for your group. With 2 players, use kind A, kind B and both TRICKSTER cards (6 cards). With 3 players, add kind C (8 cards). With 4 players, use all 10. Keep the 2 event cards in a separate face-down pile. Put the tokens in the middle.",
-    "Play 2 rounds. At the start of a round, shuffle the firefly cards and deal one to each player, face down. Look at your own card only. Then turn over the top event card and do what it says.",
-    "Each player holding a kind card is the flyer once, one after another. A player holding a TRICKSTER card is a waiter all round and has no flyer turn. The flyer flashes the code on their card with a torch pointed at the floor, up to 3 times, never at anyone's eyes. Everyone else sits still as a waiter.",
-    "A waiter holding the same kind answers after the wait on their card. A waiter holding a TRICKSTER answers like the kind on their card, if the flyer is that kind. Everyone else stays quiet.",
+    "Choose the firefly cards for your group. With 2 players, use both kind A cards, both kind B cards and the kind A TRICKSTER (5 cards). With 3 players, use kinds A, B and C and both TRICKSTER cards (8 cards). With 4 players, use all 10. Keep the 2 event cards in a separate face-down pile. Put the tokens in the middle.",
+    "Play 3 rounds. At the start of each round, shuffle the firefly cards and deal one to each player, face down. Look at your own card only. Then shuffle the event cards, turn over the top one and do what it says. Put it back at the end of the round.",
+    "Each player holding a kind card is the flyer once in a round, one after another. A player holding a TRICKSTER card is a waiter all round and has no flyer turn. The flyer flashes the code on their card with a torch pointed at the floor, up to 3 times, never at anyone's eyes. Everyone else sits still as a waiter.",
+    "A waiter holding the same kind answers after the wait on their card. A waiter holding a TRICKSTER answers the way their card says, if the flyer's flash is the kind on that card. Everyone else stays quiet.",
     "If someone answers, the flyer walks to them and both show their cards. If the kinds match, each takes a token. If it is a TRICKSTER, only the trickster takes a token. If two players answer, the flyer chooses one.",
-    "If nobody answers, nobody takes a token. After every flyer has had a turn, the round ends.",
-    "After 2 rounds, the player with the most tokens wins. If it is a tie, everyone wins."
+    "If nobody answers, nobody takes a token. When every flyer has had a turn, the round ends.",
+    "After 3 rounds, the player with the most tokens wins. If it is a tie, everyone wins."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Choose the cards for your group, as in rule 1. 3. Give each player a torch. 4. Darken the room, but leave a dim light in the corridor.",
-     "say": "Fireflies are beetles that make light in their tails. Each kind has its own flash code. Tonight, we are fireflies. You will find a partner using only flashes.",
+     "do": "1. Cut out the firefly cards, the event cards and the tokens. 2. Choose the cards for your group, as in rule 1. 3. Give each player a torch. 4. Darken the room, but leave a dim light in the corridor.",
+     "say": "Fireflies are beetles that make light at the end of their body. Each kind has its own flash code. Tonight, we are fireflies. You will find a partner using only flashes.",
      "kid": "Take a torch. Later you will get a secret card. Don't show anyone! Point your torch at the floor. Never shine it in someone's eyes.",
      "context": "This is the first step of Flash and Answer, a firefly game played with torches in the dark. Here you set up the game.",
      "adult": true,
@@ -640,7 +666,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Play the game for 2 rounds, as in the rules. Remember the event card at the start of each round.",
+     "do": "Play 3 rounds, as in the rules. Remember the event card at the start of each round. With 4 players, you can stop after 10 minutes.",
      "say": "Flyers, flash your code. Waiters, watch carefully. Answer only if the code is your own kind.",
      "kid": "Look at your secret card. When it is your turn, flash your code at the floor. Watch for an answer. Is it your kind? Walk over and show cards.",
      "parent": "Watch what happens when the STREET LAMP card is played: nobody can find anyone. This is like real fireflies near bright lights. The trickster cards are based on real fireflies, described by the scientist James Lloyd in 1965.",
@@ -702,67 +728,93 @@
      "title": "14 animal cards to cut out",
      "items": [
       {
-       "f": "Anglerfish: dangles a glowing ball in front of their mouth. (CATCH)",
+       "f": "Anglerfish: dangles a glowing ball in front of their mouth.",
+       "b": "CATCH",
        "img": {
         "src": "media/cards/living-light-g2-0-00.jpg",
         "credit": "kbkash, CC0, via iNaturalist"
        }
       },
       {
-       "f": "Hatchetfish: belly lights match the faint light from above. (HIDE)",
+       "f": "Hatchetfish: belly lights match the faint light from above.",
+       "b": "HIDE",
        "img": {
         "src": "media/cards/living-light-g2-0-01.jpg",
         "credit": "Daniel Benák, CC BY, via iNaturalist"
        }
       },
       {
-       "f": "Atolla jellyfish: spins a ring of flashes when grabbed. (SCARE)",
+       "f": "Atolla jellyfish: spins a ring of flashes when grabbed.",
+       "b": "SCARE",
        "img": {
         "src": "media/cards/living-light-g2-0-02.jpg",
         "credit": "Leïla Brunner, CC BY, via iNaturalist"
        }
       },
       {
-       "f": "Lanternfish: rows of lights in a pattern for their own kind. (TALK)",
+       "f": "Lanternfish: rows of lights in a pattern for their own kind.",
+       "b": "TALK",
        "img": {
         "src": "media/cards/living-light-g2-0-03.jpg",
         "credit": "Isaac Collibee, CC0, via iNaturalist"
        }
       },
-      "Vampire squid: squirts glowing slime and swims away. (SCARE)",
       {
-       "f": "Bobtail squid: keeps glowing bacteria to hide their shadow. (HIDE)",
+       "f": "Vampire squid: squirts glowing slime and swims away.",
+       "b": "SCARE"
+      },
+      {
+       "f": "Bobtail squid: keeps glowing bacteria to hide their shadow.",
+       "b": "HIDE",
        "img": {
         "src": "media/cards/living-light-g2-0-05.jpg",
         "credit": "Dan Schofield, CC BY, via iNaturalist"
        }
       },
       {
-       "f": "Dragonfish: a glowing whisker on their chin tempts small fish. (CATCH)",
+       "f": "Dragonfish: a glowing whisker on their chin tempts small fish.",
+       "b": "CATCH",
        "img": {
         "src": "media/cards/living-light-g2-0-06.jpg",
         "credit": "Julien Savoie, CC BY, via iNaturalist"
        }
       },
-      "Glowing shrimp: spits a cloud of light into a hunter's face. (SCARE)",
       {
-       "f": "Firefly squid: tiny lights on their underside hide their shadow. (HIDE)",
+       "f": "Glowing shrimp: spits a cloud of light into a hunter's face.",
+       "b": "SCARE"
+      },
+      {
+       "f": "Firefly squid: tiny lights on their underside hide their shadow.",
+       "b": "HIDE",
        "img": {
         "src": "media/cards/living-light-g2-0-08.jpg",
         "credit": "kamataryo, CC0, via iNaturalist"
        }
       },
-      "Flashlight fish: blinks lights under their eyes on and off to signal. (TALK)",
-      "Cookiecutter shark: glowing belly, except a dark collar that looks like a small fish. (CATCH)",
       {
-       "f": "Sea sparkle (a tiny plankton that lives near the surface): flashes blue when stirred, startling small grazers. (SCARE)",
+       "f": "Flashlight fish: blinks lights under their eyes on and off to signal.",
+       "b": "TALK"
+      },
+      {
+       "f": "Cookiecutter shark: glowing belly, except a dark collar that looks like a small fish.",
+       "b": "CATCH"
+      },
+      {
+       "f": "Sea sparkle (a tiny plankton that lives near the surface): flashes blue when stirred, startling small grazers.",
+       "b": "SCARE",
        "img": {
         "src": "media/cards/living-light-g2-0-11.jpg",
         "credit": "Cheng-Tao Lin, CC BY, via iNaturalist"
        }
       },
-      "Stoplight loosejaw: shines a red light that most deep-sea fish cannot see, to spot their prey. (CATCH)",
-      "Sea firefly (a tiny shelled animal, smaller than a rice grain): males leave a trail of glowing dots for females. (TALK)"
+      {
+       "f": "Stoplight loosejaw: shines a red light that most deep-sea fish cannot see, to spot their prey.",
+       "b": "CATCH"
+      },
+      {
+       "f": "Sea firefly (a tiny shelled animal, smaller than a rice grain): males leave a trail of glowing dots for females.",
+       "b": "TALK"
+      }
      ]
     },
     {
@@ -777,7 +829,7 @@
     },
     {
      "kind": "board",
-     "title": "Four job mats: make one set for each player",
+     "title": "Four job mats: print or copy a set for each player",
      "items": [
       "CATCH: light to catch food",
       "HIDE: light to vanish",
@@ -789,9 +841,9 @@
    "rules": [
     "Each player lays out their own four job mats. Shuffle all 18 cards. Deal 3 to each player. Put the rest face down as the pile.",
     "On your turn, draw the top card. If it is an action card, do what it says, then put it on the discard pile. Your turn is over.",
-    "If you drew an animal card, you now hold one more card than at the start. Pick one animal card from your hand, read the card aloud, and say how the animal's light helps with that job. Place the card on the matching job mat if that mat is empty.",
-    "Not sure which job it is? The other players may help you. If your mat for that job is already full, or you do not want to place a card, put one card from your hand on the discard pile instead.",
-    "The first player with a card on all four of their mats wins. If the pile runs out first, finish that round of turns. The player with the most mats filled wins. If it is a tie, everyone wins."
+    "If you drew an animal card, you now hold one more card than at the start. Pick one animal card from your hand, read the card aloud, and say which job the animal's light does. Say how the light helps them. Then turn the card over to check the job on the back. If you were right and your mat for that job is empty, place the card on it. If you were wrong, or that mat is already full, put the card on the discard pile.",
+    "Not sure which job it is? The other players may help you before you turn the card over. If you do not want to place any card, put one card from your hand on the discard pile instead, so you always hold 3 cards at the end of your turn.",
+    "The first player with a card on all four of their mats wins. When the pile runs out, shuffle the discard pile into a new pile. If the pile runs out a second time, stop. The player with the most mats filled wins. If it is a tie, everyone wins."
    ],
    "flow": [
     {
@@ -827,24 +879,12 @@
      "do": "Take turns, as in the rules. Draw, read an animal card aloud, and place the card on the right mat.",
      "say": "Read your card. Which job? And how does the light do that job?",
      "kid": "Read your card. Put it on a mat. Say how their light helps.",
-     "parent": "The tricky job is HIDE. It seems strange to hide by glowing. Explain it like this: from below, a fish looks like a dark shape against the faint light above. Belly lights fill in the dark shape, so it disappears. The Atolla jellyfish card is a burglar alarm: their flashes may call a bigger hunter to eat the attacker.",
-     "check": {
-      "t": "mcq",
-      "q": "A hatchetfish glows on their belly. How can light help them hide?",
-      "options": [
-       "The glow matches the faint light from above, so their dark shape vanishes",
-       "The glow blinds every hunter for ever",
-       "The glow makes the fish look much bigger",
-       "Glowing can never help you hide"
-      ],
-      "a": 0,
-      "why": "From below, any fish shows up as a dark outline against the dim light from above. A glowing belly fills in that outline. Picking 'glowing can never help you hide' is a very natural thought, because on land, a light gives you away. In the deep sea, being dark from below is what gives you away."
-     }
+     "parent": "The tricky job is HIDE. It seems strange to hide by glowing. Explain it like this: from below, a fish looks like a dark shape against the faint light above. Belly lights fill in the dark shape, so it disappears. The Atolla jellyfish card is a burglar alarm: their flashes may call a bigger hunter to eat the attacker."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "Finish the game. Then spread out all 14 animal cards and sort them by job.",
+     "do": "Finish the game. Then spread out all 14 animal cards, turn them to the job side and sort them by job.",
      "say": "Which job do the most animals do? Why do you think so many animals in the dark sea glow?",
      "kid": "Sort all the animal cards by job. Count each group. Which job has the most animals?",
      "think": "If you lived in the dark deep sea, which glowing job would you choose?"
@@ -930,29 +970,12 @@
      "why": "Oxygen from the air reacts with luciferin, and light comes out. The firefly switches their light on by letting air into their lantern."
     },
     {
-     "t": "truefalse",
-     "p": "Anything that gives out light must also be hot.",
-     "a": false,
-     "why": "False, though most people think so, because bulbs and flames are hot. A firefly and a glow stick give out light with almost no heat. This is called cold light."
-    },
-    {
      "t": "write",
      "p": "Remember the cold light test? You pressed a glowing glow stick and a whole one on your wrist. What did your wrist feel each time? What does this tell you about a firefly's light?",
      "lines": 3,
      "a": "Both sticks felt the same on my wrist, and neither was warm. So a glow can be cold. A firefly's light is cold light too, so the lantern does not harm their body.",
      "why": "A strong answer says what was felt each time, then uses it to explain why a firefly's lantern can be part of their body.",
      "how": "e2"
-    },
-    {
-     "t": "mcq",
-     "p": "Why do most fireflies flash?",
-     "opts": [
-      "To find a partner of their own kind",
-      "To see where they are flying",
-      "To keep warm"
-     ],
-     "a": 0,
-     "why": "Each kind of firefly has their own flash code, and they flash to find a partner. Picking 'to see where they are flying' treats the flash as a torch, but their flashes are messages. Picking 'keep warm' misses that firefly light is cold."
     },
     {
      "t": "match",
@@ -988,18 +1011,6 @@
     },
     {
      "t": "mcq",
-     "p": "You shine a torch on a glow-in-the-dark star, then switch off the light. The star glows. Is it making its own light, like a firefly?",
-     "opts": [
-      "No, it is giving back light it soaked up from the torch",
-      "Yes, just like a firefly",
-      "Yes, it makes light from the air"
-     ],
-     "a": 0,
-     "why": "The star stores light, then lets it out slowly. A firefly makes new light with a chemical reaction. Picking 'just like a firefly' mixes up glowing and making light. A star kept in a dark drawer all day does not glow at all.",
-     "how": "e3"
-    },
-    {
-     "t": "mcq",
      "p": "Deep in the sea, below about 1,000 metres, how much sunlight is there?",
      "opts": [
       "None at all",
@@ -1008,23 +1019,6 @@
      ],
      "a": 0,
      "why": "Sunlight fades as it goes down through water. Below about 1,000 metres it is completely dark, day and night. Picking 'a little at midday' is right for a few hundred metres down, but not for the deep sea."
-    },
-    {
-     "t": "truefalse",
-     "p": "Most animals in the deep sea can make their own light.",
-     "a": true,
-     "why": "True. In one count of deep-sea animals off California, about three out of every four could glow. In the dark, light is the best way to signal, trick or hide."
-    },
-    {
-     "t": "mcq",
-     "p": "An anglerfish has a glowing ball dangling in front of their mouth. What is it for?",
-     "opts": [
-      "To bring small fish close, so the anglerfish can eat them",
-      "To see in the dark",
-      "To hide from hunters"
-     ],
-     "a": 0,
-     "why": "The glowing lure is bait. Small fish swim up to the light and are swallowed. Picking 'to see in the dark' treats the lure as a headlamp. Picking 'to hide' mixes it up with belly lights."
     },
     {
      "t": "draw",
@@ -1069,6 +1063,55 @@
       "bioluminescence"
      ],
      "why": "Bioluminescence means living light. 'Bio' means life, and 'luminescence' means giving out light."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these lights. Is each one cold light or hot light?",
+     "cats": [
+      "Cold light",
+      "Hot light"
+     ],
+     "items": [
+      [
+       "a firefly's flash",
+       "Cold light"
+      ],
+      [
+       "a glow stick",
+       "Cold light"
+      ],
+      [
+       "a diya flame",
+       "Hot light"
+      ],
+      [
+       "an old bulb with a thin wire inside",
+       "Hot light"
+      ]
+     ],
+     "a": "see items",
+     "why": "Cold light gives out almost no heat. A flame and an old bulb turn a lot of their energy into heat. A firefly and a glow stick turn it into light."
+    },
+    {
+     "t": "fill",
+     "p": "A glow stick starts to shine when you bend it, because two liquids inside mix and begin a chemical ____.",
+     "a": [
+      "reaction"
+     ],
+     "why": "Bending cracks the thin glass tube inside. The liquids meet, react and give out light."
+    },
+    {
+     "t": "truefalse",
+     "p": "Every living being that makes light lives in the sea.",
+     "a": false,
+     "why": "False. Fireflies fly over fields and glowing mushrooms grow on rotting wood. Many more glowing animals live in the sea, but not all."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a glow stick before you bend it and after. Show what happens inside the tube.",
+     "a": "The first drawing shows a plain tube with a small glass tube inside. The second shows the glass tube cracked, two liquids mixing and light coming out.",
+     "why": "A strong drawing shows that the light starts when the two liquids meet, with no battery or flame.",
+     "how": "a1"
     }
    ]
   },
@@ -1091,18 +1134,6 @@
     },
     {
      "t": "mcq",
-     "p": "In the glow stick test, the stick in warm water glowed brightest. Next morning it is the first to be dark. What is the best reason?",
-     "opts": [
-      "It used up its chemicals faster",
-      "The warm water put the light out",
-      "Warm sticks cannot make light"
-     ],
-     "a": 0,
-     "why": "Warmth makes the reaction run faster, so the stick shines brighter but spends its chemicals sooner. Picking 'put the light out' mixes up warm and hot. The stick did not stop because of the water; it ran out.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "Some jellyfish flash a ring of lights when they are grabbed. Scientists call this a burglar alarm. Why?",
      "opts": [
       "The flashes may call a bigger hunter to eat the attacker",
@@ -1118,13 +1149,6 @@
      "lines": 4,
      "a": "From below, a fish looks like a dark shape against the faint light coming down from above. The hatchetfish's belly lights fill in that shape, so the shape matches the light behind. Then the hunter cannot see an outline.",
      "why": "A strong answer says the danger is a dark outline, and that the belly lights hide it by matching the light from above. This trick is called counter-illumination.",
-     "how": "a4"
-    },
-    {
-     "t": "draw",
-     "p": "Draw what a hunter looking up from below would see: one hatchetfish with their belly lights on, and one with their belly lights off.",
-     "a": "The fish with lights off is a clear dark shape against the pale water above. The fish with lights on is very faint, nearly the same as the water.",
-     "why": "A strong drawing shows the dark outline is what gives a fish away, and that belly light hides the outline.",
      "how": "a4"
     },
     {
@@ -1224,13 +1248,6 @@
      "why": "A strong answer links glowing to the darkness of the deep sea, and compares it with daylight on land."
     },
     {
-     "t": "write",
-     "p": "In the 1880s, a French scientist, Raphael Dubois, made two juices from the glowing part of a click beetle. Each juice was dark on its own. When he mixed them in a tube, they glowed. What does this tell us about living light?",
-     "lines": 3,
-     "a": "Living light comes from chemicals. It can even happen outside the animal's body, if the right chemicals and oxygen are mixed. It is chemistry, not magic.",
-     "why": "A strong answer says the light needs two chemicals together, and that it works outside the body. Dubois named them luciferin and luciferase."
-    },
-    {
      "t": "perspective",
      "p": "All baby fireflies glow, long before they need to find a partner. So why did fireflies first start glowing? Scientists give different answers.",
      "views": [
@@ -1247,6 +1264,46 @@
      "lines": 5,
      "a": "A strong answer picks a side and uses a real clue, for example that baby fireflies glow when touched, like a sudden warning. It then names evidence that would help decide, such as whether hunters really learn to avoid glowing young. It admits nobody was there to watch.",
      "why": "Scientists still argue about this. The warning idea has the most evidence so far, but the full story is not known."
+    },
+    {
+     "t": "match",
+     "p": "Match each glowing living being to how they shine.",
+     "pairs": [
+      [
+       "Firefly",
+       "flashes in a code"
+      ],
+      [
+       "Glowing mushroom",
+       "glows steadily all night"
+      ],
+      [
+       "Sea sparkle",
+       "flashes blue when the water is stirred"
+      ],
+      [
+       "Vampire squid",
+       "squirts glowing slime"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Living light looks different in each living being. A flash can be a message, a steady glow can last all night, and a squirt can help an animal escape."
+    },
+    {
+     "t": "write",
+     "p": "A glow stick and a firefly both make light with chemicals. Give one way they are the same and one way they are different.",
+     "lines": 3,
+     "a": "Both make light when chemicals react, and both give out almost no heat. A firefly is alive and makes the chemicals in their own body. A glow stick is a plastic tube that someone made, and it runs out.",
+     "why": "A strong answer gives one real likeness and one real difference, for example that one is alive and the other is not."
+    },
+    {
+     "t": "fill",
+     "p": "The young of a firefly are called glow-____.",
+     "a": [
+      "worms",
+      "worm"
+     ],
+     "why": "Firefly young are called glow-worms. They live in damp soil and leaf litter, and they glow too."
     }
    ]
   },
@@ -1290,17 +1347,6 @@
      "lines": 3,
      "a": "It suggests that making light is very useful in the dark. Again and again, different living beings found their own way to do it, because it helped them find food, hide, warn or find a partner.",
      "why": "A strong answer links 'many separate beginnings' to 'very useful'. When the same ability appears many times, it usually helps living beings survive."
-    },
-    {
-     "t": "mcq",
-     "p": "In Brazil, scientists put fake glowing mushrooms next to fake dark ones in a forest. More insects landed on the glowing ones. What does this suggest?",
-     "opts": [
-      "The glow may bring insects that spread the mushroom's spores",
-      "Insects are scared of the dark",
-      "It proves every mushroom glows for this reason"
-     ],
-     "a": 0,
-     "why": "This test, in 2015, suggests one reason for one kind of mushroom. Picking 'it proves every mushroom' goes too far. One test on one kind cannot tell us about all fungi."
     },
     {
      "t": "write",
@@ -1414,23 +1460,26 @@
      "why": "A strong drawing puts each light on the part of the body where real animals have it, and matches it to a job that light really does in the dark sea."
     },
     {
-     "t": "mcq",
-     "p": "Why do glowing mushrooms look plain and brown in the daytime?",
-     "opts": [
-      "Their faint glow is still there, but sunlight is far brighter",
-      "They stop being alive in the day",
-      "They are different mushrooms"
-     ],
-     "a": 0,
-     "why": "A faint light is hard to see next to a bright one. In the dark, the same faint glow stands out. Picking 'stop being alive' misses that the mushroom lives day and night. Some fungi do glow a little dimmer by day, but mostly the sunlight hides the glow."
-    },
-    {
      "t": "write",
-     "p": "In the glow-in-the-dark star test, star A got 10 seconds of torchlight and glowed for 3 minutes. Star B got 60 seconds and glowed for 7 minutes. Priya, a girl in Class 4, says, 'So the stars make light, like fireflies.' What is wrong with her thinking?",
+     "p": "In a made-up result from the glow-in-the-dark star test, star A got 10 seconds of torchlight and glowed for 3 minutes. Star B got 60 seconds and glowed for 7 minutes. Priya, a girl in Class 4, says, 'So the stars make light, like fireflies.' What is wrong with her thinking?",
      "lines": 4,
      "a": "The results show the opposite. The more light the star soaked up, the longer it glowed. So it is giving back stored light, not making new light. A firefly makes new light from chemicals, even in a dark room.",
      "why": "A strong answer uses the numbers as evidence: more light in gave more glow out. It contrasts this with a firefly, who needs no light to glow.",
      "how": "e3"
+    },
+    {
+     "t": "write",
+     "p": "A scientist says, 'We know how many kinds of glowing animals live in the deep sea.' Why is that hard to believe?",
+     "lines": 3,
+     "a": "Most of the deep sea has never been visited, and new glowing animals are found on almost every deep trip. So we cannot know the full number yet.",
+     "why": "A strong answer uses the fact that most of the deep sea is unexplored, and says that any count is only the animals found so far."
+    },
+    {
+     "t": "write",
+     "p": "You want to test whether a bright lamp stops fireflies finding partners. Plan a fair test. What will you change, and what will you keep the same?",
+     "lines": 4,
+     "a": "Change only the light: count flashes in one dark spot, then in the same spot with a lamp on. Keep the place, the time, the night's weather and the counting time the same, and repeat on several nights.",
+     "why": "A strong answer changes one thing and keeps the rest the same, like the glow stick test, and repeats the count."
     }
    ]
   }
@@ -1570,7 +1619,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 4,
      "do": "Switch off the light. Look at the three glasses. Rank them 1, 2 and 3 for brightness. Write it in the table.",
      "say": "Lights off! Which is brightest? Which is dimmest? Let's give them a number. 1 is the brightest.",
      "kid": "Lights off! Look at the three glasses. Which is brightest? Give it a 1. Write it down.",
@@ -1588,11 +1637,18 @@
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "Put the icy glass, with its stick, in the fridge. Leave the other two on a shelf, out of reach of small children. Next morning, take the icy stick out and look at all three in a dark bathroom straight away.",
+     "mins": 2,
+     "do": "Put the icy glass, with its stick, in the fridge. Leave the other two on a shelf, out of reach of small children.",
      "say": "The icy one goes in the fridge, so it stays cold all night. The other two stay out. Tomorrow we will see which one still glows. What do you guess, and why?",
      "kid": "Put the icy one in the fridge. Leave the others out. Tomorrow, check all three in the dark.",
-     "wait": "Look again next morning",
+     "wait": "Look again next morning"
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "Next morning, take the icy stick out of the fridge. Look at all three in a dark bathroom straight away. Rank them 1, 2 and 3 again and fill in the last column of the table.",
+     "say": "Good morning, glow sticks! Which ones are still glowing? Which one is brightest now?",
+     "kid": "Take the icy stick out. Look at all three in the dark. Which still glow? Write it down.",
      "parent": "Party glow sticks usually last several hours at room temperature, so by morning the two on the shelf are often faint or dark. The fridge stick usually glows more clearly, because the cold slowed its reaction all night. This does not always work: if all three are dark or all three still glow, write that down. It is still a result.",
      "check": {
       "t": "mcq",
@@ -1607,12 +1663,13 @@
      }
     },
     {
-     "id": "s6",
+     "id": "s7",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: warmth makes a glow brighter, and cold makes it last longer. What I saw: the warm stick was brightest, and next morning the fridge one glowed more than the others. Why: warmth makes the chemicals react faster, so they get used up sooner. Fireflies also flash more slowly on cool nights."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: warmth makes a glow brighter, and cold makes it last longer. What I saw: the warm stick was brightest, and next morning the fridge one glowed more than the others. Why: warmth makes the chemicals react faster, so they get used up sooner. Fireflies also flash more slowly on cool nights.",
+     "context": "This is the last step of the glow stick test. You say what you think, what you saw and why."
     }
    ]
   },
@@ -1744,7 +1801,7 @@
      "qty": 1
     },
     {
-     "item": "a steel bowl or a book, to cover one star",
+     "item": "a steel bowl to turn upside down over one star",
      "qty": 1
     },
     {
@@ -1813,7 +1870,8 @@
         "Maybe they would still glow a little."
        ]
       }
-     ]
+     ],
+     "wait": "Leave the stars in the drawer for an hour"
     },
     {
      "id": "s2",
@@ -1831,7 +1889,7 @@
      "kid": "Lights off! Which star is brighter? Shout when each one fades away.",
      "check": {
       "t": "mcq",
-      "q": "Star A and star B glow about the same at 1 minute. Did the test fail?",
+      "q": "Suppose star A and star B glow about the same at 1 minute. Did the test fail?",
       "options": [
        "No. The stars may fill up with light quickly, and that is a real result",
        "Yes. The stars must be broken",
@@ -2013,7 +2071,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Walk to a spot near a bright street light or porch light. Count for one minute again.",
+     "do": "On the same night, walk to a spot near a bright street light or porch light. Count for one minute again.",
      "say": "Now let's try right next to the bright light. Count again for one minute.",
      "kid": "Now count again near a bright light. One minute.",
      "adult": true,
@@ -2060,11 +2118,11 @@
      "qty": 1
     },
     {
-     "item": "black paper or paint",
+     "item": "black paper",
      "qty": 1
     },
     {
-     "item": "glow-in-the-dark paint or small glow-in-the-dark stars",
+     "item": "small glow-in-the-dark stars, or glow-in-the-dark paint",
      "qty": 1,
      "buy": "b-glowpaint"
     },
@@ -2078,18 +2136,18 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Paint the box black. Make deep-sea creatures. Add their lights. Look through the peephole in the dark."
+     "what": "Line the box with black paper. Make deep-sea creatures. Add their lights. Look through the peephole in the dark."
     }
    ],
    "record": "Label each creature with their light job: catch, hide, scare or talk.",
    "setup": [
     {
      "art": "A shoebox lying on its side, painted black inside, with a small hole cut in one end.",
-     "caption": "1. Paint the inside of the box black. A grown-up cuts a peephole."
+     "caption": "1. Line the inside of the box with black paper. A grown-up cuts a peephole."
     },
     {
      "art": "Cut-out card fish, jellyfish and an anglerfish hanging on threads, with dots of glow paint on them.",
-     "caption": "2. Make creatures from card. Paint only their light spots with glow paint."
+     "caption": "2. Make creatures from card. Put a glow star or a dab of glow paint only on their light spots."
     },
     {
      "art": "An eye at the peephole, and inside the box tiny glowing dots and a glowing anglerfish lure.",
@@ -2100,18 +2158,18 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Line the inside of the box and lid with black paper, or paint them black and let the paint dry. A grown-up cuts a coin-sized peephole in one end.",
+     "do": "Line the inside of the box and lid with black paper, stuck down with tape. A grown-up cuts a coin-sized peephole in one end.",
      "say": "Deep in the sea, below about a thousand metres, it is black all day and all night. Let's make that darkness in a box.",
-     "kid": "Line the inside of the box with black paper, or paint it black. That is the deep sea. Ask a grown-up to cut a small peephole.",
+     "kid": "Line the inside of the box with black paper. That is the deep sea. Ask a grown-up to cut a small peephole.",
      "adult": true,
      "context": "This is the first step of the Shoebox Deep Sea. You build a dark sea in a box and fill it with glowing creatures."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child draws and cuts out 3 to 5 deep-sea animals. Paint glow paint, or stick a small glow star, only where each animal makes light.",
-     "say": "Let's make an anglerfish, a jellyfish and a hatchetfish. Where does each one glow? Paint only those parts.",
-     "kid": "Make 3 to 5 sea creatures from card. Paint glow dots only where each one glows.",
+     "do": "Your child draws and cuts out 3 to 5 deep-sea animals. Stick a small glow star, or dab glow paint, only where each animal makes light.",
+     "say": "Let's make an anglerfish, a jellyfish and a hatchetfish. Where does each one glow? Add glow only to those parts.",
+     "kid": "Make 3 to 5 sea creatures from card. Add glow only where each one glows.",
      "parent": "The anglerfish glows on the ball dangling in front of their mouth. The hatchetfish glows along their belly. A jellyfish can glow in a ring. Lanternfish have rows of dots along their sides."
     },
     {
@@ -2120,7 +2178,7 @@
      "do": "Hang the creatures from the lid with thread and tape. Shine a torch on them for a minute, then close the box.",
      "say": "Let's hang them up. Now give them a minute of torchlight to charge the paint.",
      "kid": "Hang them from the lid with thread. Shine a torch on them. Close the lid.",
-     "parent": "Wait for any paint to dry before you hang the animals."
+     "parent": "If you used glow paint, wait for it to dry before you hang the creatures. Glow stars can go on straight away."
     },
     {
      "id": "s4",
@@ -2210,7 +2268,8 @@
       ],
       "a": 0,
       "why": "We see a shape when it is darker or brighter than what is behind it. When the fish matches the background, the outline is gone. Real hatchetfish make their belly glow just as bright as the light from above. Picking 'see-through' is a good guess, but the paper did not change. Only its brightness did."
-     }
+     },
+     "parent": "Tilt the torch a little so its beam does not bounce off the screen into your eyes. If the fish never matches the screen, try thinner paper, which lets more screen light through. It is hard to make it vanish completely. A fish that nearly vanishes is a good result."
     },
     {
      "id": "s3",
@@ -2288,7 +2347,8 @@
      "mins": 4,
      "do": "Scene 2. One person lies on the floor as a hunter looking up. Another walks past holding a glow stick under their belly.",
      "say": "Hunter, look up. Can you see the shape of the fish going past? The fish is glowing on their belly to hide.",
-     "kid": "Hold the glow stick under your tummy. Walk past the hunter. Glowing helps you hide!"
+     "kid": "Hold the glow stick under your tummy. Walk past the hunter. Glowing helps you hide!",
+     "parent": "A glow stick is much brighter than a real hatchetfish's belly light, so the hunter will still see it. The scene only shows the idea. The Vanishing Fish activity shows the real effect."
     },
     {
      "id": "s3",
@@ -2395,6 +2455,14 @@
     {
      "id": "s3",
      "mins": 10,
+     "do": "Ask an older relative or neighbour, if you know one, how many fireflies they saw as a child.",
+     "say": "Let's ask someone who has lived here a long time. Were there more fireflies when you were young? Where did you see them?",
+     "kid": "Ask someone older. Did they see more fireflies when they were small? Where?",
+     "parent": "Many people say there were more fireflies before. Memories are useful clues, but they are not careful counts. That is why your counts matter."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
      "do": "On night 3, draw a bar chart with one bar for each night.",
      "say": "Let's draw a bar for each night. Which night had the most? What was different that night?",
      "kid": "Draw one bar for each night. Which night had the most flashes? Why, do you think?",
@@ -2433,15 +2501,6 @@
       "a": 0,
       "why": "Night 3 has the tallest bar, 31 flashes. Fireflies are often busier on warm, damp nights. Picking night 2 may mean reading the shortest bar as the biggest. The taller the bar, the more flashes."
      }
-    },
-    {
-     "id": "s4",
-     "mins": 10,
-     "do": "Ask a grandparent, relative or neighbour who has lived here long how many fireflies they saw as a child.",
-     "say": "Let's ask someone who has lived here a long time. Were there more fireflies when you were young? Where did you see them?",
-     "kid": "Ask someone older. Did they see more fireflies when they were small? Where?",
-     "parent": "Many people say there were more fireflies before. Memories are useful clues, but they are not careful counts. That is why your counts matter.",
-     "think": "Is someone's memory good evidence? How could we find out for sure if fireflies are disappearing?"
     },
     {
      "id": "s5",
@@ -2594,7 +2653,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Hold an unshaded torch above the path, shining all around. Look at the fireflies.",
+     "do": "Point an unshaded torch at the ceiling above the path, so its light spreads all around the room. Look at the fireflies.",
      "say": "Here's an ordinary lamp. What happens to our fireflies?",
      "kid": "Shine the torch all around. Can you still see the fireflies?",
      "check": {
@@ -2629,11 +2688,11 @@
  ],
  "videos": [
   {
-   "title": "The weird, wonderful world of bioluminescence",
+   "title": "Edith Widder: The weird and wonderful world of bioluminescence",
    "channel": "TED (Edith Widder)",
    "youtube": "IDkSDPgrtjs",
    "mins": 12,
-   "why": "Edith Widder, a deep-sea scientist, shows real film of glowing animals and explains the four jobs of living light. Good for the parent, and gripping for children.",
+   "why": "Edith Widder, a deep-sea scientist, shows real film of glowing animals and explains how they use their light. Good for the parent, and gripping for children.",
    "check": "Title and channel confirmed on YouTube."
   },
   {
@@ -2645,7 +2704,7 @@
    "check": "Title and channel confirmed on YouTube."
   },
   {
-   "title": "Beach glows as glowing plankton shows up",
+   "title": "Beach glows as bioluminescent algae shows up in SA",
    "channel": "9 News Australia",
    "youtube": "nl1iarEo9Ms",
    "mins": 3,
@@ -2841,7 +2900,7 @@
  ],
  "spotted": [
   {
-   "text": "Fireflies, called jugnu, blinking over fields, gardens and trees on warm nights from late May to July, before and during the first rains.",
+   "text": "Fireflies, called jugnu in Hindi and minmini poochi in Tamil, blinking over fields, gardens and trees on warm nights from late May to July, before and during the first rains.",
    "art": "A paddy field at dusk dotted with firefly flashes."
   },
   {
@@ -2929,20 +2988,12 @@
    "a": "Because he was a real fun-gi."
   },
   {
-   "j": "How does a firefly start a race?",
-   "a": "Ready, set, glow!"
-  },
-  {
    "j": "Why did the firefly go to the doctor?",
    "a": "They were feeling a bit light-headed."
   },
   {
    "j": "What do glowing mushrooms do at night?",
    "a": "They mush-room around in the dark."
-  },
-  {
-   "j": "What did one firefly say to the other before a trip?",
-   "a": "Got to glow now!"
   },
   {
    "j": "Why did the vampire squid squirt glowing slime?",
@@ -2991,11 +3042,11 @@
    "why_maths": "A list of counts is hard to read. Putting them in order shows straight away which night the fireflies liked best."
   },
   {
-   "problem": "On the night walk, you counted 12 firefly flashes in 1 minute in the dark spot, and 3 flashes in 1 minute next to a bright lamp. How many times more flashes did you see in the dark?",
+   "problem": "On a firefly night walk, a family counted 12 firefly flashes in 1 minute in the dark spot, and 3 flashes in 1 minute next to a bright lamp. How many times more flashes did you see in the dark?",
    "answer": "4 times more.",
    "explain": "In the dark spot there were 12 flashes. Near the lamp there were 3. 12 divided by 3 is 4. You can check: 3 + 3 + 3 + 3 = 12. So there were 4 times as many flashes in the dark.",
    "math_unit": "math.division.sharing-and-grouping.L3",
-   "context": "This is about the firefly night walk. You counted firefly flashes for one minute in a dark place, then one minute near a bright light.",
+   "context": "This is about the firefly night walk. A family counted firefly flashes for one minute in a dark place, then one minute near a bright light.",
    "how": "a2",
    "chart": {
     "type": "bar",
@@ -3022,7 +3073,7 @@
    "answer": "12 times.",
    "explain": "One minute is 60 seconds. The firefly flashes once in every group of 5 seconds. 60 divided into groups of 5 makes 12 groups. Or count in fives: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60. That is 12 fives. So they flash 12 times.",
    "math_unit": "math.multiplication.equal-groups.L3",
-   "context": "In many kinds of fireflies, the male flashes his code again and again, with the same gap each time. You watched this on the firefly night walk.",
+   "context": "In many kinds of fireflies, the male flashes his code again and again, with the same gap each time. You may have watched this on the firefly night walk.",
    "how": "a2",
    "why_maths": "Counting in equal groups lets a scientist work out a firefly's flash rate without counting for a whole minute."
   },
@@ -3135,14 +3186,14 @@
    "url": "https://www.nehrusciencecentre.gov.in",
    "kind": "place",
    "where": "Mumbai",
-   "why": "A large science centre in Mumbai with galleries on light and energy."
+   "why": "A large science centre in Mumbai."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
    "url": "https://www.vismuseum.gov.in",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A science museum with galleries on light and energy."
+   "why": "A science museum in Bengaluru."
   }
  ],
  "buy": [
@@ -3150,58 +3201,36 @@
    "id": "b-glowsticks",
    "item": "A pack of glow sticks, same colour and size",
    "kind": "material",
-   "why": "For the glow stick tests and activities.",
    "url": "https://www.amazon.in/s?k=glow+sticks",
    "used_in": [
     "e1",
     "e2",
     "a1",
     "a5"
-   ]
+   ],
+   "why": "Glow sticks of one colour and size."
   },
   {
    "id": "b-stars",
    "item": "Glow-in-the-dark stars",
    "kind": "material",
-   "why": "For the star test and the Light the Path challenge.",
    "url": "https://www.amazon.in/s?k=glow+in+the+dark+stars",
    "used_in": [
     "e3",
     "c2"
-   ]
+   ],
+   "why": "Small glow-in-the-dark stars."
   },
   {
    "id": "b-glowpaint",
    "item": "Glow-in-the-dark paint",
    "kind": "material",
-   "why": "For the glowing spots in the Shoebox Deep Sea and the creature challenge.",
    "url": "https://www.amazon.in/s?k=glow+in+the+dark+paint",
    "used_in": [
     "a3",
     "c1"
-   ]
-  },
-  {
-   "id": "b-glowbook",
-   "item": "Glow: Animals with Their Own Night-Lights, by W. H. Beck (2015)",
-   "kind": "book",
-   "why": "A photo book of glowing animals, for children.",
-   "url": "https://www.amazon.in/s?k=Glow+Animals+with+Their+Own+Night-Lights+Beck",
-   "used_in": [
-    "a3",
-    "g2"
-   ]
-  },
-  {
-   "id": "b-silentsparks",
-   "item": "Silent Sparks: The Wondrous World of Fireflies, by Sara Lewis (2016)",
-   "kind": "book",
-   "why": "For the parent. A firefly scientist explains flashing, tricksters and how to protect fireflies.",
-   "url": "https://www.amazon.in/s?k=Silent+Sparks+Sara+Lewis",
-   "used_in": [
-    "g1",
-    "p1"
-   ]
+   ],
+   "why": "Glow-in-the-dark paint, if you do not use stars."
   }
  ],
  "warmup": [
@@ -3387,5 +3416,6 @@
   "who": "Robert Boyle, then Raphael Dubois",
   "when": "the 1660s and the 1880s",
   "wrong_idea": "Glowing wood was burning with a slow fire, or giving back stored sunlight. Boyle showed the glow needed air but gave no heat, and Dubois showed it came from two chemicals that make light together with oxygen."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family would, with 2 players and with 4 for the games. Flash and Answer was rebuilt: the old 2-player set could deal two tricksters and leave nobody to flash, tricksters had no way to know the flash code, and 2 event cards could not cover 2 rounds. Now each trickster card prints the flash it copies, the 2-player set is A, A, B, B and one trickster, there are 3 rounds with the event cards reshuffled, 30 tokens, and every card is front and back. Deep Dark Sea cards now hide the job on the back so guessing the job is the game, the pile is reshuffled once, and the game stops when it runs out a second time, so a 4-player game cannot stall; the duplicate hatchetfish check in its step was dropped because The Vanishing Fish already asks that question. The glow stick test was split so day 1 and day 2 match the schedule minutes (16 and 7), with the overnight look as its own step; the fridge result is marked as usual, not certain. Star test now says to wait an hour. Shoebox Deep Sea uses black paper (paint cannot dry in 8 minutes) and glow stars first. The Vanishing Fish depends on thin paper over a dim screen, so a tip says what to change if it does not vanish. Deep Sea Theatre notes that a glow stick is too bright to really hide. Light the Path points the open torch at the ceiling, because a torch beam alone does not flood a room. In the firefly count project the ask-an-elder step now comes on day 2, before the chart on day 3, and the minutes add up to 65 with the nightly count repeated. Removed internal notes (the buy why lines), two buy books that no step uses, two weak jokes (8 left), and repeated questions: anglerfish lure, hatchetfish hiding, glow stick in warm water, Dubois, Brazilian mushrooms, mushrooms plain by day, and the Meghalaya discovery question, each kept in one place. Added Hindi and Tamil names for the firefly. Opened the three videos on YouTube; their titles were updated to match. Not checked: the Nehru Science Centre and Visvesvaraya museum descriptions were shortened because their galleries were not verified, and the glow-in-the-dark star and fridge glow stick results depend on the brand."
 }

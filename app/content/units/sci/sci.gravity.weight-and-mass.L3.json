@@ -803,12 +803,12 @@
       "9 Free fall: you float for a moment. Forward 2",
       "10 ★ Earn a force card",
       "11 Jupiter has no ground: you keep sinking. Back 3 (Sideways Speed beats it)",
-      "12 Mass spike: someone hands you a sack of rice. Back 1 (Support Force beats it)",
+      "12 Heavy sack: someone hands you a sack of rice. Back 1 (Support Force beats it)",
       "13 Fact stop: say one true fact about weight, then move on",
       "14 Deep pit: you fall into a pit. Back 2 (Spring Push beats it)",
       "15 ★ Earn a force card",
       "16 Moon stop: you weigh one sixth here. Forward 1",
-      "17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed beats it)",
+      "17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed or a Wild Card beats it)",
       "18 Caught between: the Earth and the Moon pull you opposite ways. Miss a turn (Neutral Pull beats it)",
       "19 Orbit! You are falling and missing. Forward 1",
       "20 SPACE: you escaped. But is gravity still pulling you?"
@@ -848,10 +848,10 @@
       "Press a wall, a cushion and a bucket of water. Which pushes back hardest? Earn SUPPORT FORCE.",
       "Push an empty plastic bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.",
       "Float a paper boat with 3 coins in it. Earn UPTHRUST.",
-      "Press the flat end of a pencil, then its sharp point, gently into a ball of chapati dough. Which sinks in more? Earn SPREAD OUT.",
+      "Press the flat end of a pencil, then its sharp point, gently into a ball of atta dough. Which sinks in more? Earn SPREAD OUT.",
       "Tie a sock to a string and whirl it round in a circle, away from people. Earn SIDEWAYS SPEED.",
       "Walk across the room at a steady speed with a full steel tumbler of water. Don't spill a drop. Earn STEADY SPEED.",
-      "Tug of war with a dupatta that ends in a draw. Earn NEUTRAL PULL.",
+      "Tug of war with a towel, against a grown-up or a friend, that ends in a draw. Earn NEUTRAL PULL.",
       "Bounce a ball as high as your knee three times. Earn SPRING PUSH.",
       "Hold tree pose on one leg for 20 seconds. Earn BALANCE."
      ]
@@ -900,7 +900,7 @@
        "Nothing can, gravity is gone in water"
       ],
       "a": 0,
-      "why": "In this game moment, UPTHRUST wins. Water pushes up on anything in it, so it can hold up a floating person. Gravity is still pulling in the lake, just as hard as on land. Picking 'gravity is gone in water' is a very common idea, because we feel so light there. The lightness comes from the water's push, not from less gravity."
+      "why": "UPTHRUST saves you. Water pushes up on anything in it, so it can hold up a floating person. Gravity is still pulling in the lake, just as hard as on land. Picking 'gravity is gone in water' is a very common idea, because we feel so light there. The lightness comes from the water's push, not from less gravity."
      }
     },
     {
@@ -942,7 +942,7 @@
        "Only a tiny bit, about one hundredth"
       ],
       "a": 0,
-      "why": "In this game, the winner has to know this. At the height of the space station, gravity is still about 90 out of every 100 parts as strong as on the ground. Astronauts float because they are falling together with their station. Picking 'no gravity in space' is the most common mix-up of all, because astronauts float."
+      "why": "The winner has to know this. At the height of the space station, gravity is still about 90 out of every 100 parts as strong as on the ground. Astronauts float because they are falling together with their station. Picking 'no gravity in space' is the most common mix-up of all, because astronauts float."
      }
     },
     {
@@ -1120,7 +1120,7 @@
      "do": "1. Play 4 rounds. 2. Each round, everyone plays one card. 3. Decide the winner, then each player picks an outcome card.",
      "say": "Put your cards down together. Who pulls hardest? Now, what would happen to a person on your card?",
      "kid": "Put down a card. Who pulls hardest? Now pick the outcome that fits your card. What would happen to you there?",
-     "parent": "Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Venus, Mars and the Earth, 'you land on solid ground'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A black hole is tricky: up close, 'squashed or stretched'. Far away and moving sideways fast, 'falling round in orbit'. Both black holes show 9 because nobody can stand safely near either.",
+     "parent": "Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Venus, Mars and the Earth, 'you land on solid ground'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A small black hole: 'squashed or stretched', because its pull changes so fast from your head to your feet. A giant black hole: 'falling round in orbit', because stars really do orbit the giant black hole at the centre of our galaxy. Both show 9 because nobody can stand safely near either.",
      "ask": [
       {
        "q": "The Sun has far more mass than Jupiter. Why can't you stand on either of them?",
@@ -1179,8 +1179,7 @@
     },
     {
      "item": "a kitchen scale, or packets with the mass printed on them (a 100 gram soap, a 500 gram dal packet, a 1 kilogram rice packet)",
-     "qty": 1,
-     "buy": "b-kitchenscale"
+     "qty": 1
     },
     {
      "item": "rice or dal, about 1 kilogram, and a thin plastic bag with handles",
@@ -1213,7 +1212,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put the bag on the kitchen scale and pour in rice until it shows 100 grams. 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.",
+     "do": "1. Put the bag on the kitchen scale and pour in rice until it shows 100 grams. (Press the scale's zero button first, with the empty bag on it, if it has one.) 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.",
      "say": "Wait until it's completely still. While it bounces, the spring is pulling up harder, then softer. Only when it's still does the spring pull up exactly as hard as gravity pulls down.",
      "kid": "Pour 100 grams of rice into the bag. Hang it up. Wait until it is still. Read the number. Write it down.",
      "ask": [
@@ -1464,7 +1463,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water pushes up on things in it, so they seem lighter, but gravity does not change. What I saw: the stone read 3 newtons in the air, 2 newtons under the water, and 3 newtons again when I lifted it out. Why: the water helped hold the stone up, so the forcemeter's spring had less to hold."
+     "parent": "A good answer sounds like this. What I think: water pushes up on things in it, so they seem lighter, but gravity does not change. What I saw: the stone read 3 newtons in the air, 2 newtons under the water, and 3 newtons again when I lifted it out. Why: the water helped hold the stone up, so the forcemeter's spring had less to hold."
     }
    ],
    "example_chart": {
@@ -1543,7 +1542,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes in the lift. Keep the bag away from the doors.",
+   "safety": "A grown-up goes in the lift with the child.",
    "schedule": [
     {
      "day": 1,
@@ -1649,7 +1648,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a forcemeter reads more when a lift starts going up, and less when it slows at the top, but gravity stays the same. What I saw: the bag read 10 newtons standing still and 11 as the lift started up. It read 10 while moving steadily, and 9 as it slowed at the top. Why: to speed the bag up, the spring had to pull harder. To slow it down, the spring pulled less."
+     "parent": "A good answer sounds like this. What I think: a forcemeter reads more when a lift starts going up, and less when it slows at the top, but gravity stays the same. What I saw: the bag read 10 newtons standing still and 11 as the lift started up. It read 10 while moving steadily, and 9 as it slowed at the top. Why: to speed the bag up, the spring had to pull harder. To slow it down, the spring pulled less."
     }
    ],
    "example_chart": {
@@ -1718,10 +1717,10 @@
    "mins": 25,
    "days": 1,
    "question": "Does a falling thing still press on what is holding it?",
-   "predict": "Guess first. If we drop a leaking bottle of water, will the water keep squirting out while it falls? If we drop coins hanging on a rubber band, will the band stay stretched? Why do you think so?",
-   "fair_test": "Drop each thing from the same height, about as high as a grown-up's head. Drop the water bottle into the bucket and the coin bottle onto the pillow. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.",
+   "predict": "Guess first. If we drop a leaking bottle of water, will the water keep squirting out while it falls? Why do you think so?",
+   "fair_test": "Drop each thing from the same height, about as high as a grown-up's head. Drop the water bottle into the bucket and, for the extra, the coin bottle onto the pillow. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.",
    "results_table": [
-    "What we dropped",
+    "What we dropped (the leaking bottle, and for the extra, the coin bottle)",
     "Before the drop: what happened?",
     "During the fall: what happened?"
    ],
@@ -1731,7 +1730,7 @@
      "qty": 1
     },
     {
-     "item": "a clear plastic bottle with its cap, a short thin rubber band, and about ten coins taped into a small stack",
+     "item": "Extra, harder to see: a clear plastic bottle with its cap, a short thin rubber band, and about ten coins taped into a small stack",
      "qty": 1
     },
     {
@@ -1748,7 +1747,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Drop a leaking bottle, and a bottle with coins on a rubber band, and watch what happens while they fall."
+     "what": "Drop a leaking bottle and watch what happens while it falls. For an extra, drop a bottle with coins on a rubber band."
     }
    ],
    "record": "Fill in the table. Draw the bottle before the drop and during the fall.",
@@ -1786,10 +1785,10 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.",
-     "say": "The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls?",
-     "kid": "The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched?",
-     "parent": "If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this one is harder to see than the leaking bottle. Film it in slow motion and play it back. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero."
+     "do": "Extra, and hard to see. 1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.",
+     "say": "The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls? It is a very quick fall, so you may not see it. That is fine.",
+     "kid": "Extra! The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched? It is very quick, so it is fine if you cannot see it.",
+     "parent": "If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this one is much harder to see than the leaking bottle, and may not work in a plain home test. If you see nothing, say so honestly and go on; the leaking bottle is the main result. Film it in slow motion and play it back. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero."
     },
     {
      "id": "s4",
@@ -1805,7 +1804,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: falling things stop pressing on what holds them, so they feel weightless, but gravity still pulls them. What I saw: the water stopped squirting while the bottle fell. The rubber band sprang back and pulled the coins up while the bottle fell onto the pillow. Why: everything was falling together at the same speed, so nothing had to hold anything else up."
+     "parent": "A good answer sounds like this. What I think: falling things stop pressing on what holds them, so they feel weightless, but gravity still pulls them. What I saw: the water stopped squirting while the bottle fell. If you could see it, the rubber band sprang back and pulled the coins up while the bottle fell onto the pillow. Why: everything was falling together at the same speed, so nothing had to hold anything else up."
     }
    ],
    "example_chart": {
@@ -1944,15 +1943,14 @@
    "materials": [
     {
      "item": "two bathroom scales, or one bathroom scale and a pile of books the same height",
-     "qty": 1,
-     "buy": "b-bathroomscale"
+     "qty": 1
     },
     {
      "item": "a heavy bag, like a school bag full of books",
      "qty": 1
     }
    ],
-   "safety": "Put the scales on a hard, flat floor. Hold a grown-up's hand when you lean or stand on one leg.",
+   "safety": "Hold a grown-up's hand when you lift a leg or stand on one leg.",
    "schedule": [
     {
      "day": 1,
@@ -1969,7 +1967,7 @@
      "do": "1. Put two scales side by side. 2. Your child stands with one foot on each. 3. Read both numbers and add them up.",
      "say": "Each scale is holding up part of you. Let's add them. That's the push holding all of you up.",
      "kid": "Put one foot on each scale. Read both numbers. Add them up. That is all of you!",
-     "parent": "Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it, and read just the one scale.",
+     "parent": "Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it for the other foot. You cannot add two numbers then, but you can still watch the one number change as you lean, and the books hold the rest.",
      "context": "This is the first step of Two Scales, One You. You stand with one foot on each of two bathroom scales, to see how they share your weight."
     },
     {
@@ -2028,11 +2026,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a long dupatta or a towel, and some open space",
+     "item": "a long towel or dupatta, and some open space",
      "qty": 1
     }
    ],
-   "safety": "Pull down very gently, never hard.",
+   "safety": "Keep the towel on the shoulders, never near the neck, and pull very gently.",
    "schedule": [
     {
      "day": 1,
@@ -2054,9 +2052,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Tell the true story of Sunita Williams. 2. Your child jogs on the spot. 3. A grown-up loops a dupatta over the child's shoulders, holds both ends low and pulls down very gently.",
+     "do": "1. Tell the true story of Sunita Williams. 2. Your child jogs on the spot. 3. A grown-up loops a towel over the child's shoulders, holds both ends low and pulls down very gently.",
      "say": "In 2007, Sunita Williams ran the Boston Marathon in the space station, on a treadmill. But floating feet can't push on a treadmill. So stretchy cords pulled her down onto it. I'm being your stretchy cords.",
-     "kid": "Sunita Williams ran a marathon in space! Stretchy cords pulled her down. Jog on the spot. A grown-up gently pulls you down with a dupatta.",
+     "kid": "Sunita Williams ran a marathon in space! Stretchy cords pulled her down. Jog on the spot. A grown-up gently pulls you down with a towel.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2176,7 +2174,6 @@
      "qty": 1
     }
    ],
-   "safety": "Notice feelings only during ordinary things. Don't jump off high places to test it.",
    "schedule": [
     {
      "day": 1,
@@ -2261,7 +2258,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash your hands after touching the seeds. Don't eat seeds that have grown in the jar.",
+   "safety": "Don't eat sprouts that have been growing in the jar for days.",
    "schedule": [
     {
      "day": 1,
@@ -2281,7 +2278,7 @@
     {
      "day": 4,
      "mins": 10,
-     "what": "When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points."
+     "what": "When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points. (If the roots are still short, wait one more day.)"
     },
     {
      "day": 5,
@@ -2516,7 +2513,7 @@
      "do": "1. Build the raft. 2. Float it. 3. Add coins one at a time, spread out. 4. Count until it sinks. 5. Change the design and try again.",
      "say": "Add the coins one at a time. Count out loud. How many before it sinks?",
      "kid": "Float your raft. Add coins one at a time. Count! How many before it sinks? Then try a better design.",
-     "parent": "A good raft with low, wide walls can hold 50 coins or more, so you may run out. If you do, add spoonfuls of dry chana instead, and count the spoons. The raft sinks when water spills over the edge, or when one side dips."
+     "parent": "A good raft with low, wide walls can hold dozens of coins, so you may run out. If you do, add spoonfuls of dry chana instead, and count the spoons. The raft sinks when water spills over the edge, or when one side dips."
     },
     {
      "id": "s4",
@@ -2572,18 +2569,10 @@
      "why": "Newtons are the unit for every push and pull, and weight is a pull. They are named after Isaac Newton."
     },
     {
-     "t": "mcq",
-     "p": "A girl hangs 100 grams of rice on a forcemeter, and it reads about 1 newton. 200 grams reads about 2 newtons. What should 500 grams read?",
-     "opts": [
-      "About 5 newtons",
-      "About 3 newtons",
-      "About 500 newtons",
-      "About 50 newtons"
-     ],
-     "a": 0,
-     "why": "Each 100 grams adds about 1 newton. 500 grams is 5 lots of 100 grams, so about 5 newtons. Picking 3 newtons means adding only one more step. Picking 500 newtons mixes up grams and newtons.",
-     "how": "e1",
-     "context": "In the kilogram experiment, you hang bags of rice of different masses on a forcemeter and write down each reading."
+     "t": "truefalse",
+     "p": "A big, fluffy pillow always weighs more than a small steel spoon.",
+     "a": false,
+     "why": "False. Weight depends on how much matter a thing has, not on how big it looks. A small steel spoon can have more mass than a large pillow full of air and fluff, so the Earth pulls it a little harder."
     },
     {
      "t": "write",
@@ -2620,10 +2609,14 @@
      "context": "A forcemeter is a spring tool that measures weight in newtons. You hang a thing on its hook and read the pointer."
     },
     {
-     "t": "truefalse",
-     "p": "If you took a 1 kilogram bag of rice to the Moon, some of the rice would disappear, because the bag weighs less there.",
-     "a": false,
-     "why": "False. Not a single grain is lost, so the mass is still 1 kilogram. The bag weighs less because the Moon pulls about one sixth as hard as the Earth."
+     "t": "fill",
+     "p": "Before you hang anything on a forcemeter, the pointer should read ____.",
+     "a": [
+      "zero",
+      "0"
+     ],
+     "why": "If the empty forcemeter does not read zero, every number you read afterwards is wrong by the same amount.",
+     "how": "e1"
     },
     {
      "t": "mcq",
@@ -2657,22 +2650,8 @@
      "art": "An outline of a child standing on a floor, with space for arrows."
     },
     {
-     "t": "mcq",
-     "p": "A girl hangs a stone on a forcemeter. It reads 3 newtons in the air. She lowers it all the way under water. What do you predict it will read?",
-     "opts": [
-      "Less than 3 newtons",
-      "More than 3 newtons",
-      "Exactly 3 newtons",
-      "Zero"
-     ],
-     "a": 0,
-     "why": "The water pushes up on the stone, so the spring has less to hold. Scientists call the water's push upthrust. Picking 'exactly 3' is a good guess if gravity is all that matters. But the water helps hold the stone up.",
-     "how": "e2",
-     "context": "In the stone experiment, you hang a stone from a forcemeter and lower it into a bucket of water. Then you let it rest on the bottom."
-    },
-    {
      "t": "write",
-     "p": "You feel much lighter in a swimming pool. Your friend says gravity must be weaker in water. Is she right? Explain.",
+     "p": "You feel much lighter in a swimming pool. Your friend says gravity must be weaker in water. Is your friend right? Explain.",
      "lines": 3,
      "a": "A strong answer says no. Gravity pulls just as hard in the pool. The water pushes up on you, so it helps hold you up. That push is why you feel lighter.",
      "why": "We feel our weight through the push of whatever holds us up. In water, the water does some of the holding."
@@ -2760,7 +2739,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three people in Kochi argue about what makes a bag 'heavy'.",
+     "p": "Three people in Chennai argue about what makes a bag 'heavy'.",
      "views": [
       {
        "who": "Kavya, aged 9",
@@ -2920,6 +2899,13 @@
      "context": "In the stone experiment, you hang a stone from a forcemeter and lower it into a bucket of water. Then you let it rest on the bottom."
     },
     {
+     "t": "truefalse",
+     "p": "A lift has just started going down. A bathroom scale under you shows a smaller number than when the lift was standing still.",
+     "a": true,
+     "why": "True. As the lift starts down, the floor pushes up on you a little less than your weight. The scale reads that push, so the number drops for a moment. Gravity has not changed.",
+     "how": "e3"
+    },
+    {
      "t": "mcq",
      "p": "Look at the lift graph. At which moment did the bag's reading go highest?",
      "opts": [
@@ -2975,14 +2961,6 @@
        }
       ]
      },
-     "how": "e3",
-     "context": "In the lift experiment, you hang a 1 kilogram bag from a forcemeter during a lift ride and watch the reading."
-    },
-    {
-     "t": "truefalse",
-     "p": "In a lift moving upwards at a steady speed, a bag on a forcemeter reads just the same as when the lift is standing still.",
-     "a": "True",
-     "why": "True. Only speeding up or slowing down changes the reading. At a steady speed, the spring pulls up just as hard as gravity pulls down.",
      "how": "e3",
      "context": "In the lift experiment, you hang a 1 kilogram bag from a forcemeter during a lift ride and watch the reading."
     },
@@ -3111,6 +3089,38 @@
      "context": "This question is about weight on other worlds. A child with a mass of 30 kilograms keeps that mass everywhere, but her weight changes."
     },
     {
+     "t": "sort",
+     "p": "Sort these. Does each one push up on you, or pull down on you?",
+     "cats": [
+      "Pushes up on you",
+      "Pulls down on you"
+     ],
+     "items": [
+      [
+       "the floor",
+       "Pushes up on you"
+      ],
+      [
+       "the water in a swimming pool",
+       "Pushes up on you"
+      ],
+      [
+       "the Earth's gravity",
+       "Pulls down on you"
+      ],
+      [
+       "a chair",
+       "Pushes up on you"
+      ],
+      [
+       "the mat of a trampoline",
+       "Pushes up on you"
+      ]
+     ],
+     "a": "see items",
+     "why": "Gravity is the only one that pulls you down. Everything else here holds you up by pushing. That is why we feel our weight only through what pushes on us."
+    },
+    {
      "t": "forces",
      "p": "An astronaut floats inside the space station. Show the forces on her. Careful: is anything pushing on her?",
      "obj": "an astronaut floating in the space station",
@@ -3151,14 +3161,6 @@
       }
      ],
      "why": "Gravity pulls her down. The water pushes her up just as hard, so she floats still. There is no floor touching her."
-    },
-    {
-     "t": "write",
-     "p": "In this unit's story, a girl called Gauri sank the first time she tried to float, because she held her arms and head up out of the water. Explain why that made her sink.",
-     "lines": 4,
-     "a": "A strong answer says the water can only push up on the parts of her that are in it. With her arms and head in the air, the water pushed on less of her. Its push was too small to hold her up, so gravity won.",
-     "why": "The more of you is in the water, the more the water can push up. That is why the stone read less when it was all the way under.",
-     "context": "In the story What the Pond Holds, Gauri learns to float in a pond in Mithila, in Bihar, where her mother dives for makhana seeds."
     },
     {
      "t": "perspective",
@@ -3250,6 +3252,12 @@
      "why": "For every thing ever tested, the two jobs of mass match exactly. Einstein built his theory of gravity on this."
     },
     {
+     "t": "truefalse",
+     "p": "If you could stand at the very centre of the Earth, you would weigh almost nothing, because the Earth would pull you equally in every direction.",
+     "a": true,
+     "why": "True. At the centre, the Earth is all around you and its pulls cancel out. Your mass is just the same, but there is almost no net pull."
+    },
+    {
      "t": "mcq",
      "p": "Most of the mass of your body comes from where?",
      "opts": [
@@ -3291,13 +3299,6 @@
      "why": "When water is pumped out, there is less mass under the ground, so the pull gets very slightly weaker. In 2009, scientists used GRACE to show this. Picking 'a new mountain' is a good guess about mass, but the change was less mass, not more."
     },
     {
-     "t": "write",
-     "p": "Jupiter pulls much harder than the Earth. Why couldn't you stand on Jupiter and read your weight on a bathroom scale?",
-     "lines": 3,
-     "a": "A strong answer says Jupiter is a giant ball of gas with no solid ground. There is nothing to push back on you or the scale. Without a support force, the scale has nothing to measure, and you would keep sinking into thicker, hotter gas.",
-     "why": "A scale only works if something holds it and you up. Weight is still there, but nothing can measure it."
-    },
-    {
      "t": "perspective",
      "p": "Who first understood gravity? People in many places found different parts of the answer.",
      "views": [
@@ -3325,14 +3326,6 @@
      "lines": 4,
      "a": "A strong answer says we feel our weight only through the push of whatever holds us up, like a floor or a chair. A falling person has nothing holding them up, so nothing pushes on them. Gravity still pulls, but they feel weightless.",
      "why": "Weight you feel is the support force. No support, no feeling of weight. This is also why the leaky bottle stops squirting as it falls."
-    },
-    {
-     "t": "write",
-     "p": "A forcemeter is useless in the space station, because everything floats. Describe one way an astronaut could find which of two things has more mass.",
-     "lines": 4,
-     "a": "A strong answer uses mass, not weight. For example: tape each thing to the end of a ruler over a table edge, twang it and watch the wobbles. The one that wobbles more slowly has more mass. Or push each one gently and feel which is harder to get moving.",
-     "why": "Mass makes things hard to speed up, even where nothing has weight. Real astronauts find their mass by rocking on a spring chair.",
-     "how": "c1"
     },
     {
      "t": "mcq",
@@ -3602,7 +3595,7 @@
    "check": "Preview it first, and pick the parts that suit your child."
   },
   {
-   "title": "A bathroom scale in a lift: a demonstration",
+   "title": "Bathroom scales on the elevator",
    "channel": "KoonPhysics",
    "youtube": "yvCdVO3dysQ",
    "mins": 3,
@@ -3626,7 +3619,7 @@
  ],
  "spotted": [
   {
-   "text": "The hanging spring balance at a vegetable market or a kirana shop, with a pan below and a pointer at the top.",
+   "text": "The hanging spring balance at a vegetable market or a kirana or provision shop, with a pan below and a pointer at the top.",
    "art": "A vegetable seller weighing tomatoes in a pan hanging from a spring balance."
   },
   {
@@ -3732,10 +3725,6 @@
    "a": "You're so attractive!"
   },
   {
-   "j": "Why did the guru go on a diet?",
-   "a": "He wanted to be laghu for a while."
-  },
-  {
    "j": "Why is gravity a good friend?",
    "a": "It never lets you down. Well, it always pulls you down."
   },
@@ -3746,10 +3735,6 @@
   {
    "j": "What's a forcemeter's favourite part of the day?",
    "a": "Hanging out."
-  },
-  {
-   "j": "Why did the stone love the swimming pool?",
-   "a": "The water took a load off its mind."
   }
  ],
  "maths": [
@@ -4037,13 +4022,6 @@
    "kind": "place",
    "where": "Kurukshetra, Haryana",
    "why": "A planetarium named after Kalpana Chawla, who grew up in nearby Karnal and flew in space."
-  },
-  {
-   "title": "A swimming pool, a river ghat with a safe bathing area, or the sea, near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "The best place to feel the water hold up your weight. Always swim with a grown-up and a lifeguard."
   }
  ],
  "buy": [
@@ -4051,32 +4029,12 @@
    "id": "b-forcemeter",
    "item": "Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons",
    "kind": "tool",
-   "why": "A forcemeter weighs things in newtons. You use it in the kilogram, stone and lift experiments. Look for one marked in newtons (N), often sold as a school spring balance. If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton.",
+   "why": "A forcemeter weighs things in newtons. You use it to weigh rice, to weigh a stone in water and to weigh a bag in a lift. Look for a school spring balance marked in newtons (N). If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton.",
    "url": "https://www.amazon.in/s?k=spring+balance+newton+meter+school",
    "used_in": [
     "e1",
     "e2",
     "e3"
-   ]
-  },
-  {
-   "id": "b-kitchenscale",
-   "item": "Digital kitchen scale, up to 5 kilograms",
-   "kind": "tool",
-   "why": "Weighs rice in grams for the kilogram experiment, so you can compare grams with newtons. No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram rice packet.",
-   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
-   "used_in": [
-    "e1"
-   ]
-  },
-  {
-   "id": "b-bathroomscale",
-   "item": "Bathroom weighing scale, a dial one if possible",
-   "kind": "tool",
-   "why": "Used for Two Scales, One You. A dial scale shows changes more clearly than a digital one.",
-   "url": "https://www.amazon.in/s?k=bathroom+weighing+scale+analog",
-   "used_in": [
-    "a2"
    ]
   }
  ],
@@ -4218,7 +4176,7 @@
   "deep_truth": {
    "truth": "A leaking bottle stopped leaking while it fell, though the Earth pulled it as hard as ever. Gravity pulls every part of you along together, so you cannot feel the pull itself. The heaviness you feel comes from the floor or chair pushing up on you. So astronauts, who are falling all the time, feel no weight, though gravity pulls them almost as hard.",
    "habit": "We think the heavy feeling in our body is gravity itself. But a falling bottle, like a falling child, is pulled just as hard and feels no weight. The heaviness comes from whatever holds us up.",
-   "evidence": "In the Drop It experiment, the leaking bottle stopped leaking while it fell, and the coins stopped stretching their rubber band. Astronauts, who are falling all the time, feel weightless, though gravity at their station is about 90 out of every 100 parts as strong as on the ground."
+   "evidence": "In the Drop It experiment, the leaking bottle stopped leaking while it fell, and, if you could see it, the coins stopped stretching their rubber band. Astronauts, who are falling all the time, feel weightless, though gravity at their station is about 90 out of every 100 parts as strong as on the ground."
   },
   "three": {
    "who_am_i": "You feel heavy only because something holds you up. With nothing holding you, you would feel no weight, and still be all of you.",
@@ -4270,5 +4228,6 @@
   "who": "Jean Richer, a French astronomer, and Isaac Newton",
   "when": "1672 to 1687, checked in the 1730s",
   "wrong_idea": "A thing weighs exactly the same everywhere on Earth. Richer's pendulum clock ran slow near the equator, which showed that gravity pulls a little more weakly there."
- }
+ },
+ "playtest": "Walked through both games with 2 and 4 players, the four experiments, five activities, the root project and two challenges, step by step as a family in a flat, and counted every printable item (the 20 board squares, 20 force cards, 10 challenge cards, 4 counters and the 16 element and 8 outcome cards all match their titles; no card hides anything, so none needed a back). Escape Gravity: every event has a card that beats it, but a player with no matching card was stuck without a rule, and a back move could chain onto another square, so rules now say you take the penalty with no card and only the landing square counts; the black hole square names the Wild Card too; the dupatta and chapati dough cards became a towel and atta dough; the Mass spike square became Heavy sack, because handing someone rice does not change their own mass. Pull Cards: the pull number was never explained, so a rule now defines it, and the Orbit outcome fitted no card, so the giant black hole now takes it (stars really orbit the one at the centre of our galaxy) while the small one takes squashed or stretched. Experiments: the coin-and-rubber-band bottle in Drop It is doubtful in a plain home test, so it is now marked as a hard-to-see extra, the leaking bottle is the core result, and the deep truth evidence says 'if you could see it'; the kitchen scale step says to zero the scale with the bag on it; the lift safety line keeps only the real point; the repeated claim, evidence and reasoning explanation stays once in e1 and is not copied in the other three. Activities: Two Scales now says honestly that with one scale you cannot add two numbers; the towel safety line is about the neck; the unneeded safety lines on the feel-weight hunt and the scales were removed or cut down; the root project says to wait a day if roots are short. Repeats removed: worksheet questions that repeated an experiment check or the story or the challenge (500 g of rice, stone in water, Moon rice, steady lift, Gauri sinking, Jupiter ground, astronaut mass method) were replaced by new ideas (pillow versus spoon, zero before weighing, lift going down, push-or-pull sort, centre of the Earth) so each sheet keeps 15 items. Jokes cut from 10 to 8. Buy list cut to the forcemeter only (kitchen and bathroom scales are home items, with packet alternatives given), the internal-sounding buy notes were rewritten in family words, and the link with no address and no place was removed. Friend pronoun fixed, and a Kochi/Paati mismatch fixed by moving that argument to Chennai. Checked the three videos exist on YouTube. Left alone: sources.founder (not shown to families), the roots thread, and facts I could not check beyond the unit's own notes (the exact planetarium web addresses)."
 }

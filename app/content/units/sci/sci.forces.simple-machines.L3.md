@@ -154,7 +154,7 @@ People built pyramids, temples and forts with stones far too heavy to lift by ha
   Against: No such wheel has ever worked. The weights shift, but the turning effects on both sides always end up balanced, and friction slowly stops the wheel. Energy cannot come from nothing. Bhaskara II was a brilliant mathematician, and this one idea did not work. Even great thinkers can be wrong.
 - **Archimedes invented the lever.** (Many popular books and quiz shows; *rejected*)  
   For: Archimedes wrote down the law of the lever, and proved it. He is famous for it.  
-  Against: Farmers were lifting water with levers like the shaduf almost 2,000 years before he was born. Archimedes explained the lever. People whose names nobody wrote down invented it and used it.
+  Against: Farmers were lifting water with levers like the shaduf about 1,800 years before he was born. Archimedes explained the lever. People whose names nobody wrote down invented it and used it.
 - **The peoples of ancient Mexico never knew about the wheel.** (Some older books; *rejected*)  
   For: The Aztecs, the Maya and their neighbours did not use carts or wagons.  
   Against: Archaeologists have found little clay animal toys on wheels in Mexico, many centuries old. So they knew the wheel. Why they did not use it for carts is still debated. They had no horses or oxen to pull carts. Their land had many jungles and steep mountains.
@@ -260,7 +260,7 @@ That night, under the stars, the whole village ate together round the fires of U
 
 ## Games
 ### g1 · Balance Bazaar (25 min)
-- **rules:** You need a 30 cm ruler, a round pencil, tape and 10 coins that all look the same, such as 1-rupee coins of one design. Stick the labels along the ruler: the fulcrum label in the middle, then label 1 at 3 cm from the middle, label 2 at 6 cm, label 3 at 9 cm and label 4 at 12 cm, on both sides. Without a printer, write the numbers on the ruler with a pen. Tape the pencil to the table so it cannot roll, and lay the ruler across it at the middle.; Sort the order cards into piles: Level 1, Level 2, Level 3, Predict and Level 4 mystery. Shuffle each pile and put it face down. Keep score on a sheet of paper, one column for each player.; Play the Level 1 pile first, then Level 2, then Level 3. On your turn, take the top card of the pile and read it out loud. Before you touch any coins, say your plan out loud.; Then place the coins. If it balances on your first try, you win 2 points. If it balances on your second try, you win 1 point. If it still does not balance, the next player says where to move the coins, and nobody wins points.; After Level 3, play the 4 Predict cards. Everyone guesses first: tips left, tips right or balances. Then place the coins and see. Each player who guessed right wins 1 point.; Last, play the 4 Level 4 mystery cards. Each card says what the object balances. Work out how many coins the object weighs, then put that many coins where the object sat and check that the ruler still balances. A right answer wins 3 points.; The game ends when the first player reaches 15 points, or when all the cards are used. The player with the most points is the Bazaar Master. If players tie, they share the title. With 3 players, some players get one card more, and that is fine.
+- **rules:** You need a 30 cm ruler, a round pencil, tape and 10 coins that all look the same, such as 1-rupee coins of one design. Stick the labels along the ruler: the fulcrum label in the middle, then label 1 at 3 cm from the middle, label 2 at 6 cm, label 3 at 9 cm and label 4 at 12 cm, on both sides. Without a printer, write the numbers on the ruler with a pen. Tape the pencil to the table so it cannot roll, and lay the ruler across it at the middle.; Sort the order cards into piles: Level 1, Level 2, Level 3, Predict and Level 4 mystery. Shuffle each pile and put it face down. Keep score on a sheet of paper, one column for each player.; Play the Level 1 pile first, then Level 2, then Level 3. On your turn, take the top card of the pile and read it out loud. Before you touch any coins, say your plan out loud.; Then place the coins. If it balances on your first try, you win 2 points. If it balances on your second try, you win 1 point. If it still does not balance, the next player says where to move the coins, and nobody wins points.; After Level 3, play the 4 Predict cards. Everyone guesses first: tips left, tips right or balances. Then place the coins and see. Each player who guessed right wins 1 point.; Last, play the 4 Level 4 mystery cards. Each card says what the object balances. Work out how many coins the object weighs. Then put that many coins on the left peg named on the card, and check that the ruler still balances. A right answer wins 3 points.; The game ends when all 20 cards are used. The player with the most points is the Bazaar Master. If players tie, they share the title. With 3 players the cards may not divide evenly, and that is fine.
 - **Printable board: 9 labels to cut out and stick along the ruler:** 4; 3; 2; 1; Fulcrum: the pencil goes under here; 1; 2; 3; 4
 - **Printable cards: 20 bazaar order cards to cut out:** Level 1: 2 coins sit on left peg 2. Make it balance with 2 coins.; Level 1: 1 coin sits on left peg 3. Make it balance with 1 coin.; Level 1: 3 coins sit on left peg 1. Make it balance with 3 coins.; Level 1: 4 coins sit on left peg 4. Make it balance with 4 coins.; Level 2: 2 coins sit on left peg 2. Make it balance with just 1 coin.; Level 2: 1 coin sits on left peg 4. Make it balance with 2 coins.; Level 2: 3 coins sit on left peg 2. Make it balance with 2 coins.; Level 2: 4 coins sit on left peg 1. Make it balance with 1 coin.; Level 3: 2 coins sit on left peg 3. Make it balance with 3 coins.; Level 3: 4 coins sit on left peg 3. Make it balance using only peg 4.; Level 3: 2 coins on left peg 1 and 1 coin on left peg 4. Make it balance with 2 coins on one peg.; Level 3: 1 coin on left peg 2 and 1 coin on left peg 4. Make it balance with 3 coins.; Level 4 mystery: a small eraser sits on left peg 2. It balances 3 coins on right peg 2. How many coins does the eraser weigh?; Level 4 mystery: a key sits on left peg 4. It balances 2 coins on right peg 2. How many coins does the key weigh?; Level 4 mystery: a sharpener sits on left peg 4. It balances 4 coins on right peg 3. How many coins does the sharpener weigh?; Level 4 mystery: a bindi packet sits on left peg 2. It balances 2 coins on right peg 4. How many coins does the bindi packet weigh?; Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Will it tip left, tip right, or balance? Then test.; Predict card: 3 coins on left peg 1, 1 coin on right peg 2. Will it tip left, tip right, or balance? Then test.; Predict card: 1 coin on left peg 4, 2 coins on right peg 1. Will it tip left, tip right, or balance? Then test.; Predict card: 2 coins on left peg 3, 3 coins on right peg 2. Will it tip left, tip right, or balance? Then test.
 - **s1 (4 min)**  
@@ -294,8 +294,8 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* Who's the Bazaar Master? And what was the trick that helped you most?  
   *Child mode:* Add up your points. Who won? What trick helped you most?
 ### g2 · Machine Spotter (20 min)
-- **rules:** Lay out the three mats. Shuffle the 30 object cards and put them face down. Keep score on a sheet of paper, one column for each player.; On your turn, take the top card and read it out loud. Put it on the LEVER, RAMP or WHEEL mat. A card on the right mat wins 1 point.; If it is a lever, point to where its fulcrum is, or act it out. That wins 1 more point.; Say what the machine trades. For example, a small push for a long way. That wins 1 more point.; If someone disagrees, talk it through. Some things are more than one machine. If you give a good reason, a card on either mat wins its point.; When the cards run out, the player with the most points wins. If players tie, they share the win.
-- **Printable cards: 30 object cards to cut out:** See-saw [picture]; Scissors [picture]; Hand pump; Nutcracker; Wheelbarrow [picture]; Bottle opener; Sarota, the supari cutter [picture]; Chimta tongs; Broom; Cricket bat; Your forearm; Your jaw; Standing on tiptoe; Tarazu weighing scale; Spoon opening a tin lid; Ramp at a railway station; Slide in the park; Zigzag ghat road; Loading plank on a truck; Doorknob; Tap handle; Screwdriver; Bicycle wheel; Rolling pin; Well winch with a handle; Knife; Axe; Jar lid; Spiral staircase; Pulley over a well
+- **rules:** Lay out the three mats. Shuffle the 30 object cards and put them face down. Keep score on a sheet of paper, one column for each player.; On your turn, take the top card and read it out loud. Put it on the LEVER, RAMP or WHEEL mat. A card on the right mat wins 1 point. The parent checks the answer list in the note under step 2.; If it is a lever, point to where its fulcrum is, or act it out. That wins 1 more point.; Say what the machine trades. For example, a small push for a long way. That wins 1 more point.; If someone disagrees, talk it through. Some things are more than one machine. If you give a good reason, a card on either mat wins its point.; When the cards run out, the player with the most points wins. If players tie, they share the win.
+- **Printable cards: 30 object cards to cut out:** See-saw [picture]; Scissors [picture]; Hand pump; Nutcracker; Wheelbarrow [picture]; Bottle opener; Sarota, the supari cutter [picture]; Chimta or idukki tongs; Broom; Cricket bat; Your forearm; Your jaw; Standing on tiptoe; Tarazu weighing scale; Spoon opening a tin lid; Ramp at a railway station; Slide in the park; Zigzag ghat road; Loading plank on a truck; Doorknob; Tap handle; Screwdriver; Bicycle wheel; Rolling pin; Well winch with a handle; Knife; Axe; Jar lid; Spiral staircase; Pulley over a well
 - **Printable board: Three sorting mats:** LEVER; RAMP, the inclined plane (and its cousins, the wedge and the screw); WHEEL (wheels, rollers, wheel and axle, pulleys)
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the three mats. 2. Shuffle the object cards face down. 3. Get a sheet of paper for the score.  
@@ -306,7 +306,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* Where does this one turn? Where do you push, and where does it push back?  
   *Child mode:* Draw a card. Put it on a mat. If it's a lever, show where it turns. Say where you push.
   - Ask: Where is the fulcrum of a nutcracker? (good: At the hinge at the end.; Where the two arms are joined.)
-  - Note: Tricky ones: scissors are two levers joined at one fulcrum. A wheelbarrow is a lever (the wheel is the fulcrum) and also has a wheel. A knife and an axe are wedges, which are ramps in disguise. A jar lid and a spiral staircase are screws, which are ramps wrapped round. A doorknob, a tap and a screwdriver are each a wheel and axle. Your forearm's fulcrum is the elbow. Your jaw's fulcrum is just in front of your ear. A cricket bat held in two hands is a lever too: the top hand is the fulcrum, and the bottom hand pushes.
+  - Note: Tricky ones: scissors are two levers joined at one fulcrum. A wheelbarrow is a lever (the wheel is the fulcrum) and also has a wheel. A knife and an axe are wedges, which are ramps in disguise. A jar lid and a spiral staircase are screws, which are ramps wrapped round. A doorknob, a tap and a screwdriver are each a wheel and axle. Your forearm's fulcrum is the elbow. Your jaw's fulcrum is just in front of your ear. A cricket bat held in two hands is a lever too: the top hand is the fulcrum, and the bottom hand pushes. Answers. LEVER: see-saw, scissors, hand pump, nutcracker, wheelbarrow, bottle opener, sarota, chimta or idukki tongs, broom, cricket bat, your forearm, your jaw, standing on tiptoe, tarazu, spoon opening a tin lid. RAMP: ramp at a railway station, slide, zigzag ghat road, loading plank, knife, axe, jar lid, spiral staircase. WHEEL: doorknob, tap handle, screwdriver, bicycle wheel, rolling pin, well winch, pulley over a well.
   - Check: You draw the Knife card. Which mat does it go on? → **RAMP, because its blade is two slopes back to back**
 - **s3 (5 min)**  
   *Parent does:* Look at the three piles together. Find the ones that could go on two mats.  
@@ -361,10 +361,10 @@ That night, under the stars, the whole village ate together round the fires of U
 - **predict:** Guess first. Will it be easiest to lift the toy truck straight up, pull it up a short steep ramp, or pull it up a long gentle ramp? Why do you think so?
 - **fair test:** Keep everything the same except the ramp's length. Use the same truck with the same load, and the same height of book pile. Pull slowly and steadily, the same way each time, along the line of the ramp. Measure how far the rubber band stretches while the truck is moving. Do each test 3 times.
 - **safety:** Keep the rubber band away from faces. Pull gently, so it does not snap.
-- **record:** Fill in the table. Draw a bar chart with one bar for each way. Also write how far the truck travelled each time.
+- **record:** Fill in the table. Draw a bar chart with one bar for each way. The truck travelled the length of the ramp each time. For the straight lift, it travelled the height of the book pile.
 - **results table:** How the truck went up | Ramp length (cm) | Stretch try 1 (cm) | Stretch try 2 (cm) | Stretch try 3 (cm) | Middle value (cm)
 - **s1 (5 min)**  
-  *Parent does:* 1. Make a pile of books about 10 cm high. 2. Tie the string to the front of the truck. 3. Loop the other end of the string through the rubber band and tie it. 4. Hold the rubber band by its free end. 5. Measure the band before you pull, and write down its length.  
+  *Parent does:* 1. Make a pile of books about 10 cm high. 2. Tie the string round the body of the truck, near the front, so that the loop cannot slip off. 3. Loop the other end of the string through the rubber band and tie it. 4. Hold the rubber band by its free end. 5. Measure the band before you pull, and write down its length.  
   *Parent says:* We'll use the rubber band to measure how hard we pull. A bigger pull stretches it further.  
   *Child mode:* Tie string to the truck. Tie a rubber band to the string. Measure the band before you pull. A bigger pull stretches it more.
   - Note: The stretch is how much longer the band gets when you pull. Take the length before pulling away from the length while pulling. Work as a pair: your child pulls, and you hold the ruler beside the band and read its length. If you have a forcemeter, use it instead, and read the pull in newtons. A forcemeter is a spring tool that measures pulls.
@@ -387,7 +387,6 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent does:* Help your child draw a bar chart of the middle values.  
   *Parent says:* Let's turn the numbers into a picture. One bar for each way of lifting the truck.  
   *Child mode:* Draw one bar for each way. Make it as tall as the middle stretch. Which bar is shortest?
-  - Think: Why do you think roads up mountains zigzag back and forth?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -401,7 +400,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **record:** Fill in the table. Draw your winch and label the wheel, or handle, and the axle.
 - **results table:** What you turned | How hard it felt: easy, medium or hard | Turns to lift the bottle 20 cm | How far your hand travelled: short, medium or long
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up makes a hole in each long side of the box, near the top. Put both holes about 3 cm from one short end. 2. Push the pencil through both holes, so it can turn. Leave about 3 cm sticking out on one side. 3. Tape one end of the string to the middle of the pencil. 4. Put the box on a table, with that short end right at the table's edge. Put a heavy book in or on the far end of the box, so it cannot tip. 5. Run the string over the short end and down past the table's edge. 6. Tie the bottle to it.  
+  *Parent does:* 1. A grown-up makes a hole in each long side of the open box, near the top. Put both holes about 3 cm from one short end. 2. Push the pencil through both holes, so it can turn. Leave about 3 cm sticking out on one side. 3. Tape one end of the string to the middle of the pencil. 4. Put the box in a corner of a table. Put its short end at one edge. Put the side with the pencil sticking out at the next edge. Put a heavy book in the far end of the box, so it cannot tip. 5. Run the string over the rim at the short end and down past the table's edge. 6. Tie the bottle to it.  
   *Parent says:* This is a model of a well winch. The pencil is the axle. Winding it will pull the bottle up, the way a real winch pulls up a bucket.  
   *Child mode:* A grown-up makes two holes in the box. Push a pencil through. Tape string to the pencil. Hang the bottle over the table's edge.
 - **s2 (6 min)**  
@@ -410,7 +409,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Twist the bare pencil with your fingers. Lift the bottle. Is it easy or hard? Count the turns.
   - Note: Turning the bare pencil takes a firm grip, and fingers may slip. That is the point. If it feels easy, add more water to the bottle.
 - **s3 (10 min)**  
-  *Parent does:* 1. Tape the small card handle firmly to the end of the pencil that sticks out, so it points sideways like a crank. 2. Wind the bottle up by turning the handle's tip. 3. Then do the same with the big handle. 4. Count turns and note how hard each felt.  
+  *Parent does:* 1. Tape the small card handle to the end of the pencil that sticks out. It must point sideways, like a crank. 2. Wind the bottle up by turning the handle's tip. 3. Then do the same with the big handle. 4. Count turns and note how hard each felt.  
   *Parent says:* Now a small handle, then a big one. Turn it from the very tip. What changes?  
   *Child mode:* Tape the small handle on the pencil. Turn it by its tip. Now try the big handle. Which is easiest?
   - Ask: Why is the big handle easiest? (good: My hand is further from the pencil.; My hand goes round a bigger circle with a small push.)
@@ -443,7 +442,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* Is this a lever, a ramp or a wheel? If it's a lever, where does it turn?  
   *Child mode:* Look in the kitchen and at doors and taps. Is it a lever, a ramp or a wheel? Where does it turn?
   - Ask: Where is the fulcrum of a pair of scissors? (good: The screw in the middle.)
-  - Note: Good finds: chimta tongs, a nutcracker or sarota, scissors, a bottle opener, a spoon opening a tin, a stapler, a nail clipper, a broom (levers). A doorknob, a tap handle and a screwdriver (wheels and axles). A rolling pin (a roller). A jar lid (a screw). A knife (a wedge). A ramp at the building entrance (an inclined plane).
+  - Note: Good finds: chimta or idukki tongs, a nutcracker or sarota, scissors, a bottle opener, a spoon opening a tin, a stapler, a nail clipper, a broom (levers). A doorknob, a tap handle and a screwdriver (wheels and axles). A rolling pin (a roller). A jar lid (a screw). A knife (a wedge). A ramp at the building entrance (an inclined plane).
 - **s3 (6 min)**  
   *Parent does:* 1. Help your child find levers in their body. 2. Bend the elbow, swing the lower leg forward from the knee, and open and close the jaw.  
   *Parent says:* Your body is full of levers. Bend your arm. Where does it turn? Now swing your lower leg forward. Where does it turn? Now open your jaw.  
@@ -465,7 +464,7 @@ That night, under the stars, the whole village ate together round the fires of U
   - Note: If the grown-up is twice as heavy as the child, the balance comes when the grown-up is about halfway to the middle. Slide slowly, and keep both feet ready to touch the ground.
   - Check: To balance a light child, where should a heavy grown-up sit? → **Closer to the middle**
 - **s3 (7 min) · grown-up needed**  
-  *Parent does:* Try other pairs, if there are other children. Then talk about how the see-saw is like the dhenki in the story, or the ruler see-saw.  
+  *Parent does:* Try other pairs, if there are other children. Then talk about how the see-saw is like the dhenki in the story Where Jonaki Stood, or like the ruler see-saw.  
   *Parent says:* It's the same rule as our ruler and coins. Heavy close in, light far out.  
   *Child mode:* Try with a friend. Who sits where? It's the same rule as the ruler and coins!
   - Think: Could two small children at one end lift a grown-up sitting at the other end? Where would everyone have to sit?
@@ -496,7 +495,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Hold a bottle. Put your other hand on your upper arm. Lift the bottle slowly. Feel the muscle. Where does your arm turn?
   - Ask: Where does the muscle join your lower arm? (good: Close to the elbow.; Just below the elbow.)
 - **s2 (5 min)**  
-  *Parent does:* 1. Rise slowly onto tiptoe and down again, 5 times, like the yoga pose called tadasana on the toes. 2. Feel the calf muscle at the back of the lower leg.  
+  *Parent does:* 1. Rise slowly onto tiptoe and down again, 5 times. 2. Feel the calf muscle at the back of the lower leg.  
   *Parent says:* Your foot is a lever too. The ball of your foot is the fulcrum. Your calf muscle lifts your whole body.  
   *Child mode:* Rise up on tiptoe. Go down slowly. Do it 5 times. Feel your calf at the back of your leg.
   - Check: When you stand on tiptoe, where is the fulcrum? → **The ball of your foot, under your toes**
@@ -506,7 +505,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Child mode:* Nod slowly. Feel the back of your neck. Your head is a see-saw on top of your spine!
   - Think: A muscle can only pull, never push. So how does your arm get back down after you lift the bottle?
 ### a5 · Find the Balance Point, then dance the Earth and the Moon (20 min)
-- **safety:** Spin slowly, on a soft floor, and stop if you feel dizzy. Keep the hammer low.
+- **safety:** Spin slowly and stop if you feel dizzy. Hold the hammer low over the table, so it cannot fall on a foot.
 - **record:** Draw the broom with a dot at its balance point. Draw the Earth and the Moon with their balance point.
 - **s1 (7 min)**  
   *Parent does:* 1. Balance a ruler on one finger. 2. Then balance a broom across two fingers, held apart. Slowly slide the fingers together until they meet. 3. Try a hammer or a big spoon.  
@@ -535,7 +534,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent does:* 1. Open the door halfway. 2. Put a chair a little way from the door, with its back facing the door. 3. Tape the string to the face of the door, 10 cm from the hinge. 4. Run the string straight out, at right angles to the door, over the chair back. Hang the cup from its end. 5. Add rice to the cup one spoonful at a time until the door starts to move. Count the spoonfuls. 6. Repeat at 40 cm and at 70 cm from the hinge.  
   *Parent says:* Let's measure it. How many spoonfuls of rice does it take to make the door start to swing, near the hinge and far away?  
   *Child mode:* Fix the cup's string to the door near the hinge. Add rice one spoonful at a time. When does the door move? Now try far from the hinge.
-  - Note: A simpler way: just compare how hard one finger has to push. The cup method gives numbers for a chart. The numbers depend on your door, and a door with stiff hinges needs a lot of rice near the hinge. If it needs more than 30 spoonfuls there, compare only 40 cm and 70 cm. If the door swings by itself, the floor is not level, so try another door. The pattern is what matters: far from the hinge needs far less rice.
+  - Note: A simpler way: just compare how hard one finger has to push. The cup method gives numbers for a chart. The numbers depend on your door, and a door with stiff hinges needs a lot of rice near the hinge. If it needs more than 30 spoonfuls there, compare only 40 cm and 70 cm. If the door swings by itself, the floor is not level, so try another door. The string rubs a little on the chair back, the same each time. The pattern is what matters: far from the hinge needs far less rice.
 - **s3 (3 min)**  
   *Parent does:* Talk about why door handles are always far from the hinges.  
   *Parent says:* Why do you think every door handle is on the side away from the hinges?  
@@ -553,22 +552,23 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* A shaduf is a lever for lifting water from a river or a well. Farmers used it about 4,000 years ago in Mesopotamia and Egypt. In India, a lever like it is called a picottah, or etram in Tamil.  
   *Child mode:* A shaduf is a long pole on a post. A bucket hangs at one end. A heavy stone hangs at the other. Farmers used it 4,000 years ago!
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* 1. Use the top of a sturdy chair back as the post. 2. Tie the beam onto the top of the post, about one third of the way from one end. Tie it loosely, so it can rock. 3. Check it rocks up and down freely.  
+  *Parent does:* 1. Use the top of a sturdy chair back as the post. 2. Tie the beam onto the top of the post, about one third of the way from one end. Tie it loosely, so it can rock. 3. Check it rocks up and down freely. 4. Put a heavy book on the chair seat.  
   *Parent says:* This tie is the fulcrum. Where should it go? Let's try a third of the way along.  
   *Child mode:* Make a post. Tie the long stick on top. It should rock like a see-saw. The tie is the fulcrum.
+  - Wait: Come back to the shaduf tomorrow.
 - **s3 (10 min)**  
   *Parent does:* 1. Hang the cup from the long end of the beam. 2. Dip it in the water. 3. Lift the full cup by pressing down on the short end with your hand. Notice how hard it is.  
   *Parent says:* Dip the cup in the water and lift it. How hard is it without a counterweight?  
   *Child mode:* Hang the cup on the long end. Dip it in water. Press the short end down. Is it hard?
-  - Wait: Come back to the shaduf tomorrow.
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* 1. Hang the filled sock or bag on the short end. 2. Add or take out rice until a full cup of water rises almost by itself when you let go.  
   *Parent says:* The counterweight does the lifting. How heavy should it be? Too heavy, and you can't dip the cup. Too light, and it won't help.  
   *Child mode:* Hang the filled sock on the short end. Add rice until a full cup lifts by itself.
   - Note: The counterweight on the short end must be heavier than the full cup, because it is closer to the fulcrum. That is the see-saw rule. When it is right, you only pull down a little to dip the empty cup, and the counterweight lifts the full one.
   - Check: The counterweight hangs on the short end, close to the fulcrum. How heavy must it be to lift a full cup on the long end? → **Heavier than the full cup, because the short end is close to the fulcrum**
+  - Wait: Come back to the shaduf tomorrow to lift water.
 - **s5 (15 min)**  
-  *Parent does:* 1. Lift water for one minute, counting the cups. 2. Try once without the counterweight and once with it. 3. Ask your child to change one thing to improve it: the fulcrum place, the counterweight, or the cup.  
+  *Parent does:* 1. Lift water for one minute, pouring each cup into the second bucket and counting the cups. 2. Try once without the counterweight and once with it. 3. Ask your child to change one thing to improve it: the fulcrum place, the counterweight, or the cup.  
   *Parent says:* Let's be engineers. Change one thing and test again. Did it get better?  
   *Child mode:* Count cups of water lifted in one minute. Then change one thing. Did it get better?
 - **s6 (5 min)**  
@@ -669,20 +669,20 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** Jonaki is right that where you stand matters: one coin far out balanced two coins close in. But Pehi has a point. At the same spot, a heavier foot does push down more, and Jonaki needed her brother's weight beside her to lift the head high. So a strong answer says both weight and distance count.. *Why:* A strong answer uses the ruler see-saw as evidence, picks a side, and gives fair credit to the other view.
 16. (draw) Draw a see-saw with a grown-up and a child sitting on it, balanced and level. Mark the fulcrum. Show who sits closer to it.  
    **Answer:** The grown-up sits close to the middle. The child sits near the far end. The fulcrum is the post in the middle, marked with a triangle.. *Why:* A strong drawing puts the heavy person nearer the fulcrum and the light person further away, and keeps the plank level.
-### Levers, Ramps and Wheels at Work (stretch) (stretch, 16 questions)
-1. (mcq) Three coins sit 4 cm from the pencil on a ruler see-saw. Where must 2 coins sit on the other side, so the ruler balances?  
-   Options: 4 cm from the pencil / 6 cm from the pencil / 8 cm from the pencil / 12 cm from the pencil  
-   **Answer:** 6 cm from the pencil. *Why:* 3 coins times 4 cm is 12. 2 coins times 6 cm is also 12. So the 2 coins go 6 cm away. Picking 4 cm matches the place but forgets the weight. Picking 12 cm uses the total instead of sharing it between the 2 coins.
+### Levers, Ramps and Wheels at Work (stretch) (stretch, 15 questions)
+1. (mcq) Five coins sit 2 cm from the pencil on a ruler see-saw. Where must 2 coins sit on the other side, so the ruler balances?  
+   Options: 2 cm from the pencil / 4 cm from the pencil / 5 cm from the pencil / 10 cm from the pencil  
+   **Answer:** 5 cm from the pencil. *Why:* 5 coins times 2 cm is 10. 2 coins times 5 cm is also 10. So the 2 coins go 5 cm away. Picking 2 cm matches the place but forgets the weight. Picking 10 cm uses the total instead of sharing it between the 2 coins.
 2. (fill) 4 coins sit on peg 1. To balance them with coins on peg 2, you need ____ coins.  
    **Answer:** ['2', 'two']. *Why:* 4 times 1 is 4. 2 times 2 is also 4. So 2 coins on peg 2 balance 4 coins on peg 1.
-3. (mcq) Kitchen tongs, a chimta or an idukki, have your hand in the middle. They make your squeeze weaker at the tips. So why do cooks use them?  
+3. (mcq) Kitchen tongs (a chimta in Hindi, an idukki in Tamil) are held in the middle. They make your squeeze weaker at the tips. So why do cooks use them?  
    Options: They are cheaper / The tips move further than your fingers, and keep your hand away from the heat / They make your push stronger / They are not a lever  
    **Answer:** The tips move further than your fingers, and keep your hand away from the heat. *Why:* In tongs, the effort is in the middle, so they trade strength for distance. The tips open wide, and your fingers stay away from the hot pan. Picking 'stronger' is very common, because we expect every lever to make pushes bigger. Some levers are for distance and speed instead.
 4. (sort) Sort these levers by what is in the middle.  
    **Answer:** see-saw → Fulcrum in the middle; scissors → Fulcrum in the middle; nutcracker → Load in the middle; wheelbarrow → Load in the middle; chimta tongs → Effort in the middle; broom → Effort in the middle. *Why:* Scissors and see-saws turn in the middle. In a nutcracker and a wheelbarrow, the load sits between the fulcrum and your hands. In tongs and a broom, your push is in the middle.
-5. (mcq) A worker rolls a heavy drum up a plank into a truck. Then she uses a longer plank to the same truck. What changes?  
-   Options: She needs a smaller push, but rolls it further / She needs a bigger push / The drum gets lighter / Nothing changes  
-   **Answer:** She needs a smaller push, but rolls it further. *Why:* A longer ramp to the same height is gentler, so the push is smaller. But she rolls the drum a longer way. Picking 'the drum gets lighter' is a common mix-up between weight and push.
+5. (mcq) A wheelbarrow has its wheel at the front, the bricks in the middle and your hands at the back. You slide the bricks closer to the wheel. What happens to the lift your hands need?  
+   Options: It gets smaller / It gets bigger / It stays the same  
+   **Answer:** It gets smaller. *Why:* The wheel is the fulcrum. A load closer to the fulcrum turns the barrow less, so your hands lift with a smaller force. Picking 'stays the same' forgets that distance from the fulcrum matters, as it did on the see-saw.
 6. (mcq) Look at the chart. Lifting a bag straight up 1 metre takes 12 newtons. Up a 3-metre ramp, about how much push does it take, with no friction?  
    Options: 36 newtons / 12 newtons / 4 newtons / 3 newtons  
    **Answer:** 4 newtons. *Why:* Push times distance stays the same: 12 times 1 is 12. So for 3 metres, the push is 12 divided by 3, which is 4 newtons. Picking 36 means multiplying instead of sharing. A longer ramp makes the push smaller, not bigger.
@@ -690,24 +690,22 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The big handle felt much easier. But my hand travelled round a bigger circle, so it went further for each turn. The trade is a smaller push for a longer distance.. *Why:* A strong answer reports both results from the test, the easier push and the longer hand path, and joins them as one trade.
 8. (truefalse) The brake handle on a bicycle is a lever.  
    **Answer:** True. *Why:* True. The brake handle turns on a small fulcrum. A gentle squeeze of your fingers far from the fulcrum becomes a strong pull on the brake cable close to it.
-9. (match) Each of these is really a simple machine. Match each one to the machine it is.  
+9. (mcq) A hand pump has a long handle. The rod inside moves only a short way when the handle goes down. Suppose the handle were half as long. What would change?  
+   Options: You would need a bigger push / You would need a smaller push / Nothing would change  
+   **Answer:** You would need a bigger push. *Why:* Your hand would be closer to the fulcrum, so it turns the handle less. You would need a bigger push for the same lift. A long handle trades a small push for a long way.
+10. (match) Each of these is really a simple machine. Match each one to the machine it is.  
    **Answer:** A knife → wedge; A jar lid → screw; A doorknob → wheel and axle; A slide → ramp. *Why:* A knife is two ramps back to back, a wedge. A jar lid is a ramp wrapped round, a screw. A doorknob is a wheel and axle.
-10. (mcq) A child's biceps pulls on the forearm about 4 cm from the elbow. The child's hand is about 24 cm from the elbow. How many times as hard must the muscle pull as the weight in the hand?  
-   Options: About 6 times / About the same / About half / About 24 times  
-   **Answer:** About 6 times. *Why:* 24 divided by 4 is 6. The muscle is 6 times closer to the fulcrum, so it must pull about 6 times as hard. A child who picks 'about the same' thinks the muscle pulls the load straight up. But the arm is a lever, built for speed.
-11. (perspective) Your biceps muscle has to pull several times as hard as the load in your hand. Nandini, a girl in Class 4, and a physiotherapist disagree about this.  
-   **Answer:** Both see a real trade. Nandini is right that a muscle joined further out would need less force. Her grandmother is right that, as it is, a tiny shortening of the muscle makes a big, fast swing of the hand. A muscle near the hand would also make a thick, clumsy wrist. A strong answer says what is gained and what is lost.. *Why:* A strong answer names the trade between strength and speed, uses the body levers activity as evidence, and answers back fairly.
-12. (mcq) Mountain roads up the ghats zigzag instead of going straight up. Why?  
+11. (fill) A spoon opens a tin lid. Your hand moves down 20 cm, and the tip under the lid moves up 2 cm. The spoon makes your push ____ times bigger at the lid.  
+   **Answer:** ['10', 'ten']. *Why:* 20 divided by 2 is 10. The tip moves 10 times less far, so it pushes about 10 times harder, with no friction. The trade is a longer way for your hand.
+12. (perspective) Your biceps muscle pulls close to the elbow, so it has to pull several times as hard as the load in your hand. Nandini, a girl in Class 4, and a physiotherapist disagree about this.  
+   **Answer:** Both see a real trade. Nandini is right that a muscle joined further out would need less force. The physiotherapist is right that, as it is, a tiny shortening of the muscle makes a big, fast swing of the hand. A muscle near the hand would also make a thick, clumsy wrist. A strong answer says what is gained and what is lost.. *Why:* A strong answer names the trade between strength and speed, uses the body levers activity as evidence, and answers back fairly.
+13. (mcq) Mountain roads up the ghats zigzag instead of going straight up. Why?  
    Options: To make the view better / A longer, gentler road needs a smaller push from the engine / Because straight roads are not allowed / To make the trip shorter  
    **Answer:** A longer, gentler road needs a smaller push from the engine. *Why:* A zigzag road is a long ramp. It is longer, but gentler, so trucks and buses can climb with less push. Picking 'shorter' is the opposite. Zigzags make the trip longer.
-13. (write) A small girl wants to lift her big brother on a see-saw. Give two different ways to make it work. Explain each one.  
-   **Answer:** One way: the brother slides in closer to the middle, so his weight turns the plank less. Another way: two small children sit together at the far end, so there is more weight far out.. *Why:* Moving weight further out, or adding more weight far out, both increase the turning.
-14. (write) A machine let you push with less force. What did you have to give up? Give an example from one of your own tests.  
-   **Answer:** I had to push for a longer distance. For example, on the long ramp I pulled the truck gently, but much further than when I lifted it straight up.. *Why:* A strong answer names the trade, a smaller push for a longer distance, with a real example from the ramp test, the winch or the ruler see-saw.
-15. (forces) A ruler lever lifts a book. You press down on the far end. The pencil is the fulcrum. Show the forces on the ruler with arrows.  
+14. (forces) A ruler lever lifts a book. You press down on the far end. The pencil is the fulcrum. Show the forces on the ruler with arrows.  
    Options: your push / book pushes down / pencil pushes up / friction  
    **Answer:** your push down, book pushes down down, pencil pushes up up. *Why:* You push down on one end. The book presses down on the other end. The pencil fulcrum pushes up and holds the ruler up. There is no sliding, so friction is not the main force here.
-16. (draw) Design a ramp for a toy car to reach a 10 cm high box. Draw a short steep ramp and a long gentle ramp. Mark which needs the smaller push.  
+15. (draw) Design a ramp for a toy car to reach a 10 cm high box. Draw a short steep ramp and a long gentle ramp. Mark which needs the smaller push.  
    **Answer:** Two ramps from the floor to the top of the box. The long gentle ramp is marked as the smaller push.. *Why:* The longer ramp to the same height needs a smaller push.
 ### Balance Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Predict: 2 coins sit on left peg 2, and 3 coins sit on right peg 1. What will the see-saw do?  
@@ -733,9 +731,9 @@ That night, under the stars, the whole village ate together round the fires of U
 9. (mcq) A screw is a ramp wrapped round a rod. Why does a screw grip wood so strongly?  
    Options: Many turns of a small push move it in only a little, with a big force / It is sharp / It is made of iron / It is glued  
    **Answer:** Many turns of a small push move it in only a little, with a big force. *Why:* A screw is a long ramp. Each turn moves it forward only a little, so a small twist gives a big push forward. Picking 'sharp' is part of it, since the tip is a wedge. But the thread is a ramp.
-10. (mcq) A see-saw has a child of 20 kg sitting 2 metres from the middle. Where must a 40 kg grown-up sit to balance?  
-   Options: 4 metres from the middle / 2 metres from the middle / 1 metre from the middle / Half a metre from the middle  
-   **Answer:** 1 metre from the middle. *Why:* 20 times 2 is 40. The grown-up is 40 kg, and 40 times 1 is 40. So the grown-up sits 1 metre from the middle. Picking 4 metres means thinking the heavier person must go further out. It is the opposite.
+10. (mcq) A see-saw has a child of 15 kg sitting 3 metres from the middle. Where must a 45 kg grown-up sit to balance?  
+   Options: 9 metres from the middle / 3 metres from the middle / 1 metre from the middle / Half a metre from the middle  
+   **Answer:** 1 metre from the middle. *Why:* 15 times 3 is 45. The grown-up is 45 kg, and 45 times 1 is 45. So the grown-up sits 1 metre from the middle. Picking 9 metres means thinking the heavier person must go further out. It is the opposite.
 11. (write) Ramp guides in many countries, including India, suggest a ramp should be about 12 times as long as it is high, for wheelchairs. Why do you think it must be so long?  
    **Answer:** So the slope is gentle. Then a person in a wheelchair can push themselves up with a small push, and won't roll back down too fast.. *Why:* A long, gentle ramp needs a smaller push. That matters for people who push with their arms.
 12. (perspective) Archimedes is said to have boasted: 'Give me a place to stand, and I will move the Earth.' Could he really have done it?  
@@ -850,10 +848,8 @@ That night, under the stars, the whole village ate together round the fires of U
 
 ## Jokes
 - Why did the wheel get the job? *It was very well-rounded.*
-- Why did the screw get dizzy? *It kept going round in circles.*
 - Why did the slide never get angry? *It let everything slide.*
 - What do you call a sleepy see-saw? *A see-snore.*
-- Why did the doorknob win the race? *It knew all the turns.*
 - Why was the wheelbarrow so helpful? *It always pulled its weight. Well, it pushed it.*
 - Why did the pulley go to the party? *It wanted to hang out.*
 - Why don't see-saws ever feel lonely? *They always have someone on the other side.*
@@ -863,7 +859,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ## Connected maths
 - On a ruler see-saw, 3 coins sit 4 cm from the pencil. How far away must 2 coins sit on the other side to balance them? **6 cm.**. On the left, 3 coins times 4 cm is 12. On the right, 2 coins times something must also be 12. 2 times 6 is 12. So the 2 coins sit 6 cm from the pencil. (queues `math.algebra.balance-and-missing-numbers.L3`)
 - In the ramp test, suppose lifting the toy truck straight up 10 cm took 6 newtons on a forcemeter. Your long ramp was 60 cm long, reaching the same 10 cm high pile. With no friction, about how big would the pull up the long ramp be? **About 1 newton.**. The ramp is 60 cm long and the pile is 10 cm high. 60 divided by 10 is 6, so the truck travels 6 times as far. Push times distance stays the same, so the pull is about 6 times smaller. 6 newtons divided by 6 is 1 newton. In real life friction adds a little, so you would measure a bit more. (queues `math.multiplication.multiplication-facts.L3`)
-- A doorstep is 15 cm high. Ramp guides say a ramp should be 12 times as long as it is high. How long should the ramp be? Give your answer in metres and centimetres. **180 cm, which is 1 metre and 80 centimetres.**. 15 times 12: 15 times 10 is 150, and 15 times 2 is 30. 150 plus 30 is 180 cm. 100 cm make 1 metre, so 180 cm is 1 metre and 80 centimetres. (queues `math.length.standard-units-length.L3`)
+- A doorstep is 18 cm high. Ramp guides say a ramp should be 12 times as long as it is high. How long should the ramp be? Give your answer in metres and centimetres. **216 cm, which is 2 metres and 16 centimetres.**. 18 times 12: 18 times 10 is 180, and 18 times 2 is 36. 180 plus 36 is 216 cm. 100 cm make 1 metre, so 216 cm is 2 metres and 16 centimetres. (queues `math.length.standard-units-length.L3`)
 - Your biceps pulls 5 cm from your elbow. Your hand holds a water bottle 35 cm from your elbow. How many times as far from the elbow is your hand? **7 times.**. 35 divided by 5 is 7. Check: 5 plus 5 plus 5 plus 5 plus 5 plus 5 plus 5 is 35. So the hand is 7 times as far from the fulcrum. That means the muscle must pull about 7 times as hard as the bottle's weight, and the hand moves 7 times as far. (queues `math.division.sharing-and-grouping.L3`)
 - Think of the park see-saw. Suppose you weigh 20 kg and sit 2 metres from the middle. Your grown-up weighs 40 kg. How far from the middle must the grown-up sit to balance? **1 metre.**. Child: 20 times 2 is 40. Grown-up: 40 times something must be 40. 40 times 1 is 40. So the grown-up sits 1 metre from the middle. The grown-up is twice as heavy, so sits half as far. (queues `math.algebra.balance-and-missing-numbers.L3`)
 - In the ramp test, the rubber band stretched 9 cm when the truck was lifted straight up, 4 cm on the short ramp and 2 cm on the long ramp. Draw a bar chart. How much less did it stretch on the long ramp than straight up? **7 cm less. Here is the bar chart.**. Draw one bar for each way, as tall as its stretch. Then 9 take away 2 is 7. So the band stretched 7 cm less on the long ramp. (queues `math.data.bar-charts.L3`)
@@ -872,7 +868,7 @@ That night, under the stars, the whole village ate together round the fires of U
 Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 
 ## Links
-- [PhET Balancing Act](https://phet.colorado.edu/en/simulations/balancing-act) · simulation: The free online see-saw game used in the PhET activity. Place bricks and people, balance the plank, then play four game levels and find mystery masses.
+- [PhET Balancing Act](https://phet.colorado.edu/en/simulations/balancing-act) · simulation: A free online see-saw game. Place bricks and people, balance the plank, then play four game levels and find mystery masses.
 - [PhET Energy Skate Park: Basics](https://phet.colorado.edu/en/simulations/energy-skate-park-basics) · simulation: Build ramps for a skateboarder and watch its energy change between height and speed. Good for older children who are curious about energy.
 - [Arvind Gupta Toys](https://www.arvindguptatoys.com/) · interactive: Free films and instructions for science toys made from scrap, from a great Indian toy maker. Search for levers, balancing toys and wheels.
 - [StoryWeaver](https://storyweaver.org.in/) · interactive: Free illustrated picture books from Pratham Books, in many Indian languages. Search for 'Ammachi's Amazing Machines'.
@@ -890,8 +886,8 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [A pack of long rubber bands](https://www.amazon.in/s?k=long+rubber+bands) (material): A simple way to measure pulls in the ramp test and the rice bag challenge. A bigger pull stretches the band further. Used in e2, c1. 
 - [A small toy truck or car with free-turning wheels](https://www.amazon.in/s?k=toy+truck+free+wheel) (material): The load in the ramp test and the ramp model. Used in e2, c1, c2. 
 - [A number balance (a plastic balance beam with numbered pegs and weights)](https://www.amazon.in/s?k=number+balance+maths+toy) (game): A ready-made version of the ruler see-saw, with pegs 1 to 10 on each side. Great for Balance Bazaar and for maths. Used in g1, e1. 
-- [Simple Machines: Wheels, Levers, and Pulleys, by David A. Adler, illustrated by Anna Raff](https://www.amazon.in/s?k=Simple+Machines+Wheels+Levers+Pulleys+David+Adler) (book): A clear picture book about simple machines, for ages 5 to 9. Read it on the day of Machine Spotter, before the game. Used in g2. 
-- [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, beautifully drawn book on how machines work, from levers to computers. For parents and curious older children. Look at its pages on levers and ramps together after the Lift the Rice Bag challenge. Used in c1. 
+- [Simple Machines: Wheels, Levers, and Pulleys, by David A. Adler, illustrated by Anna Raff](https://www.amazon.in/s?k=Simple+Machines+Wheels+Levers+Pulleys+David+Adler) (book): A clear picture book about simple machines, for ages 5 to 9. Good to read before playing Machine Spotter. Used in g2. 
+- [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, beautifully drawn book on how machines work, from levers to computers. For parents and curious older children. Its pages on levers and ramps are a good place to start. Used in c1. 
 - [Spring balance, also called a forcemeter (0 to 10 newtons)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): Measures pulls in newtons, instead of rubber band stretch, in the ramp test and the rice bag challenge. Used in e2, c1. 
 
 ## Warm-up

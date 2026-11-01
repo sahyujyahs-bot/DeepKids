@@ -449,27 +449,51 @@
      "items": [
       {
        "f": "Lotus opening",
-       "b": "DAWN. The lotus opens in the early morning."
+       "b": "DAWN. The lotus opens in the early morning.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-00.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rooster crowing",
-       "b": "DAWN. A rooster often crows before the sky gets light."
+       "b": "DAWN. A rooster often crows before the sky gets light.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-01.jpg",
+        "credit": "egorbirder, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pavazhamalli (shiuli) flowers falling",
-       "b": "DAWN. They open at night and fall around dawn."
+       "b": "DAWN. They open at night and fall around dawn.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-02.jpg",
+        "credit": "portioid, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crows feeding",
-       "b": "DAY. Crows feed in the day and roost at night."
+       "b": "DAY. Crows feed in the day and roost at night.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-03.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bees on flowers",
-       "b": "DAY. Bees fly by day."
+       "b": "DAY. Bees fly by day.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-04.jpg",
+        "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sunbird drinking nectar",
-       "b": "DAY. Sunbirds feed in daylight."
+       "b": "DAY. Sunbirds feed in daylight.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-05.jpg",
+        "credit": "Shiva Shenoy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bean leaves held flat",
@@ -477,43 +501,83 @@
       },
       {
        "f": "Squirrel running on a wall",
-       "b": "DAY. Squirrels are busy by day."
+       "b": "DAY. Squirrels are busy by day.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-07.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Four o'clock flowers opening",
-       "b": "DUSK. They open in the late afternoon, as the light begins to fade."
+       "b": "DUSK. They open in the late afternoon, as the light begins to fade.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-08.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crows flying to roost",
-       "b": "DUSK. Crows fly to the big trees together at sunset."
+       "b": "DUSK. Crows fly to the big trees together at sunset.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-09.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Fruit bats flying out",
-       "b": "DUSK. Fruit bats hang in trees all day and fly out at dusk."
+       "b": "DUSK. Fruit bats hang in trees all day and fly out at dusk.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-10.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Jasmine buds opening",
-       "b": "DUSK. Jasmine buds open in the evening."
+       "b": "DUSK. Jasmine buds open in the evening.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-11.jpg",
+        "credit": "Nathasha K V, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frogs starting to call in the monsoon evening",
-       "b": "DUSK. Many frogs start calling as the light fades."
+       "b": "DUSK. Many frogs start calling as the light fades.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-12.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Owl hunting",
-       "b": "NIGHT. Owls are nocturnal."
+       "b": "NIGHT. Owls are nocturnal.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-13.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Moth visiting flowers",
-       "b": "NIGHT. Many moths fly at night."
+       "b": "NIGHT. Many moths fly at night.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-14.jpg",
+        "credit": "Hannes Dahm, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pavazhamalli (shiuli) flowers open",
-       "b": "NIGHT. They open at night and fall at dawn."
+       "b": "NIGHT. They open at night and fall at dawn.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-15.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gecko catching insects by a light",
-       "b": "NIGHT. Geckos hunt insects that gather round lights at night."
+       "b": "NIGHT. Geckos hunt insects that gather round lights at night.",
+       "img": {
+        "src": "media/cards/rhythms-of-nature-g1-1-16.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bean leaves hanging down",

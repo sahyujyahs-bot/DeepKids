@@ -146,7 +146,7 @@
    "concept": "Translucent: light gets through, but scattered",
    "status": "defined",
    "definition": "A translucent material lets light through but scatters it on the way, so you see a glow or blurry shapes but no clear picture.",
-   "description": "Inside butter paper there are millions of tiny paper threads with air between them. Each time light goes from air into a thread, or back out, some of it changes direction. After thousands of these little turns, the light comes out in every direction. The light still gets through, but the picture is lost. Here is a surprise. If the paper touches a page of writing, you can read it. Lift the paper a little and the words blur away. The further the light travels after leaving the paper, the more the light from each letter spreads out.",
+   "description": "Inside butter paper there are millions of tiny paper fibres, pressed tightly together with only a few tiny air gaps. Each time light goes from a fibre into a gap, or back out, some of it changes direction. After thousands of these little turns, the light comes out in every direction. The light still gets through, but the picture is lost. Here is a surprise. If the paper touches a page of writing, you can read it. Lift the paper a little and the words blur away. The further the light travels after leaving the paper, the more the light from each letter spreads out.",
    "examples": [
     "A frosted bathroom window lets light in but hides you.",
     "A thin cotton saree lets light through, so a room behind it glows.",
@@ -281,7 +281,7 @@
    "definition": "For about the first 380,000 years after the Big Bang, the universe was opaque. Then it cooled and became transparent, and the light from that moment still reaches us today.",
    "description": "Long ago the whole universe was hot, crowded and full of loose tiny particles. Light kept bumping into them, like light in thick fog. Nothing could be seen across it. As the universe stretched and cooled, the particles joined into atoms. Suddenly light could travel freely. The universe became transparent. That very old light is still all around us. It has stretched into a kind of invisible light called the cosmic microwave background. Arno Penzias and Robert Wilson found it by accident in 1965. A little of the snow on an old TV screen came from it.",
    "examples": [
-    "Morning fog in winter over a field: you cannot see the trees until it clears.",
+    "A winter morning fog over a paddy field, or mist over a tea garden: you cannot see the trees until it clears.",
     "Satellites called COBE, WMAP and Planck have made maps of this oldest light."
    ],
    "perspectives": [],
@@ -440,7 +440,7 @@
    "hint": "Would you feel safer, or more alone?"
   },
   {
-   "q": "In the story, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see?",
+   "q": "In the story The Flowers That Bloomed at Night, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see?",
    "kind": "big",
    "hint": "Who does a quiet job that you only notice when it is not done?"
   }
@@ -500,7 +500,7 @@
      "kind": "cards",
      "title": "24 job cards to cut out",
      "items": [
-      "A shop window so people can see the sweets",
+      "A shop window so people can see the Mysore pak and jalebis",
       "A bathroom window",
       "A curtain so a baby can nap in the afternoon",
       "A lampshade that makes soft light",
@@ -516,7 +516,7 @@
       "A diya cover that keeps the wind off but lets light out",
       "A greenhouse for growing tomato plants",
       "A cover for a bird cage at night, so the bird can sleep",
-      "A wrapper for chips that must stay crisp",
+      "A wrapper for banana chips that must stay crisp",
       "A clock face cover",
       "An umbrella that keeps you shady",
       "A kitchen door",
@@ -600,7 +600,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Find the card 'A bathroom window'. Play it together as a practice round.",
+     "do": "Find the card 'A bathroom window'. Play it together as a practice round, then shuffle it back into the pile.",
      "say": "Let's practise with one card. 'A bathroom window.' Which mat does it go on?",
      "kid": "Practice card: a bathroom window. Clear, cloudy or blocked? Say your answer.",
      "ask": [
@@ -708,8 +708,8 @@
    ],
    "rules": [
     "Hang a thin white bedsheet across a doorway, or hold it up between two chairs.",
-    "The hider stands behind the sheet with the objects. A torch stands on a stool or a pile of books about 2 metres behind the sheet, switched on and pointing at it. The guessers sit in front, in the dark.",
-    "The hider holds one object close to the sheet, between the torch and the sheet.",
+    "The hider stands behind the sheet with the things from the cards. A torch stands on a stool or a pile of books about 2 metres behind the sheet, switched on and pointing at it. The guessers sit in front, in the dark.",
+    "Shuffle the 12 object cards and put them face down. The hider takes the top card, picks up that thing and holds it close to the sheet, between the torch and the sheet. If you do not have that thing at home, put its card back and take the next.",
     "Guessers say what it is, and whether its shadow is dark, pale or almost none.",
     "One point for the right object. One more for the right group: opaque, translucent or transparent.",
     "Swap hiders after six objects. When all 12 have been guessed, the player with the most points wins."
@@ -731,9 +731,9 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 5,
      "adult": true,
-     "do": "1. Hang a thin white bedsheet across a doorway, or between two chairs. 2. Switch off the lights. 3. Stand the torch on a stool or a pile of books, about 2 metres behind the sheet, pointing at it. 4. Put the objects on another stool beside you.",
+     "do": "1. Hang a thin white bedsheet across a doorway, or between two chairs. 2. Switch off the lights. 3. Stand the torch on a stool or a pile of books, about 2 metres behind the sheet, pointing at it. 4. Collect the things named on the 12 object cards (skip any you do not have). Shuffle the cards and put them face down beside you.",
      "say": "I'll hold something close to the sheet, with the torch behind it. You'll only see its shadow. Guess what it is. Then tell me if its shadow is dark, pale or hardly there.",
      "kid": "Sit in front of the sheet. A grown-up will hold things behind it. Guess each thing from its shadow.",
      "parent": "Hold each object close to the sheet, between the sheet and the torch. Then the shadows are sharp. Never let a child stand on chairs to hang the sheet.",
@@ -741,8 +741,8 @@
     },
     {
      "id": "s2",
-     "mins": 8,
-     "do": "1. Hold up the objects one at a time, in any order. 2. Let the guessers shout their guesses. 3. Show each object after the guess. 4. Mark the score sheet.",
+     "mins": 6,
+     "do": "1. Take a card, then hold up that thing. 2. Let the guessers shout their guesses. 3. Show each object after the guess. 4. Mark the score sheet.",
      "say": "What is it? And is its shadow dark, pale or almost none?",
      "kid": "What is it? Is the shadow dark, pale or hardly there? Say both.",
      "ask": [
@@ -832,11 +832,11 @@
     "title": "Made-up example results: how high each material could be lifted before the words blurred",
     "x": "Material",
     "y": "Gap when the words blurred (cm)",
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different. Cling film never blurred, so we wrote the ruler's top, 30 cm.",
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different. Cling film never blurred, so we wrote 20 cm, where we stopped lifting.",
     "data": [
      {
       "label": "Cling film",
-      "value": 30,
+      "value": 20,
       "emoji": "🎞️"
      },
      {
@@ -906,10 +906,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Lay the first material flat on the card. 2. Ask: can you read the word? 3. Hold the material by two edges, pulled gently tight, so it stays flat. 4. Lift it slowly, about 1 cm each second. 5. Your child says 'Stop!' the moment the word blurs so it cannot be read. 6. Hold still, read the gap on the ruler and write it down. 7. Do this 3 times for each material.",
+     "do": "1. Lay the first material flat on the card. 2. Ask: can you read the word? 3. Hold the material by two edges, pulled gently tight, so it stays flat. 4. Lift it slowly, about 1 cm each second. Stop lifting at 20 cm. 5. Your child says 'Stop!' the moment the word blurs so it cannot be read. 6. Hold still, read the gap on the ruler and write it down. 7. Do this 3 times for each material.",
      "say": "Can you read the word now? Good. I'll lift it slowly. Shout 'stop' the moment you can't read it any more.",
      "kid": "Can you read the word? Now watch it as the material lifts. Shout 'Stop!' when you can't read it.",
-     "parent": "Butter paper and tissue usually let you read the word when they touch the card, then blur within 1 or 2 cm. That surprises most children. If a material never blurs, like cling film, write the top of the ruler. To find the middle value, put the three numbers in order and take the middle one.",
+     "parent": "Butter paper and tissue usually let you read the word when they touch the card, then blur within 1 or 2 cm. That surprises most children. If a material never blurs, like cling film, write 20 and stop lifting there. A cotton handkerchief or a tissue may blur the word even when it touches the card. Then write 0, which is an honest result. To find the middle value, put the three numbers in order and take the middle one.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -965,7 +965,7 @@
       "data": [
        {
         "label": "Cling film",
-        "value": 30,
+        "value": 20,
         "emoji": "🎞️"
        },
        {
@@ -1123,11 +1123,11 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Lay the paper over the newspaper again. 2. Score each circle again. 3. Compare with the first scores.",
-     "say": "Look again. Which spot changed? Why do you think the water spot went back to white?",
+     "say": "Look again. Which spot changed? Did the water spot go back to white? Why do you think so?",
      "kid": "Score each circle again. Which one changed? Why?",
      "ask": [
       {
-       "q": "Why did the water spot go back to white?",
+       "q": "If the water spot went back to white, why?",
        "good": [
         "The water dried up.",
         "Air came back into the gaps."
@@ -1203,7 +1203,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. On white paper, write six rows of letters with a dark pen. 2. Make row 1 about 2 cm tall, then 1 cm, 7 mm, 5 mm, 3 mm and 2 mm. Use a fine pen for the small rows. 3. Number the rows 1 to 6.",
+     "do": "1. On white paper, write six rows of letters with a dark pen. 2. Make row 1 about 2 cm tall, then 1.5 cm, 1 cm, 7 mm, 5 mm and 4 mm. Use a fine pen for the small rows. 3. Number the rows 1 to 6.",
      "say": "We'll make an eye chart. Each row has smaller letters. We'll see which is the smallest row you can read.",
      "kid": "Write six rows of letters. Make each row smaller. Number them 1 to 6.",
      "context": "This is the first step of the sunglasses lab. You make a chart of letters to test how well you can see."
@@ -1527,7 +1527,7 @@
      "do": "1. Wrap a piece of the clearest ice in a cloth. 2. Tap it with a rolling pin until it is crushed. 3. Open the cloth and look.",
      "say": "That ice was nearly clear. Now look at it crushed. What colour is it?",
      "kid": "Wrap ice in a cloth. Tap it to crush it. Open it. What colour is it now?",
-     "think": "Snow is made of clear ice. So why is snow white?",
+     "think": "Where else have you seen a clear thing turn white when it is broken into tiny pieces?",
      "context": "This is the last step of the ice activity. You crush clear ice and see it turn white."
     }
    ]
@@ -1539,7 +1539,7 @@
    "days": 2,
    "materials": [
     {
-     "item": "a thin curtain, or a thin white cotton saree or dupatta, hung in a doorway between two rooms",
+     "item": "a thin curtain, or a thin white cotton saree or mundu, hung in a doorway between two rooms",
      "qty": 1
     },
     {
@@ -1547,7 +1547,7 @@
      "qty": 1
     },
     {
-     "item": "a thick bedsheet or quilt",
+     "item": "a thick quilt or blanket",
      "qty": 1
     }
    ],
@@ -1619,7 +1619,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Hang a thick quilt or bedsheet in the doorway, in front of the thin curtain. 2. Look from the dark side again.",
+     "do": "1. Hang a thick quilt or blanket in the doorway, in front of the thin curtain. 2. Look from the dark side again.",
      "say": "Now with the thick quilt. Can you see anything?",
      "kid": "Hang a thick quilt in front of the curtain. Look again. What can you see?",
      "think": "Why do many homes have two curtains, one thin and one thick?",
@@ -1650,7 +1650,7 @@
     }
    ],
    "record": "Draw yourself as light, going into each material.",
-   "context": "In this drama activity, one person acts as light and the others act as the atoms or threads of a material. You act out what happens in transparent, translucent and opaque materials.",
+   "context": "In this drama activity, one person acts as light and the others act as the atoms or threads of a material. You act out what happens in transparent, translucent and opaque materials. With two of you, one person is the light and the other stands in for all the atoms.",
    "setup": [
     {
      "art": "Children standing still with arms folded, as glass atoms, while another child walks straight past them.",
@@ -1678,7 +1678,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Hold up the BUTTER PAPER sign. 2. The atoms stand in a messy cluster. 3. When the 'light' reaches an atom, the atom gently turns it to face a new way. 4. The light keeps walking.",
+     "do": "1. Hold up the BUTTER PAPER sign. 2. The atoms stand in a messy cluster. With two of you, the one atom stands still and turns the light each time it passes. 3. When the 'light' reaches an atom, the atom gently turns it to face a new way. 4. The light keeps walking.",
      "say": "This is butter paper. Every thread turns the light a new way. Did the light still get through? Did it come out where it was aiming?",
      "kid": "Now the threads turn you gently, this way and that. Keep walking. Where do you come out?",
      "check": {
@@ -1697,7 +1697,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Hold up the STEEL PLATE sign. 2. The atoms stand close together with arms held out. 3. When the light walks up, the atoms catch it. 4. The light either turns back, to show it is sent back, or sits down, to show it is absorbed.",
+     "do": "1. Hold up the STEEL PLATE sign. 2. The atoms stand close together with arms held out. With two of you, the one atom holds out both arms. 3. When the light walks up, the atoms catch it. 4. The light either turns back, to show it is sent back, or sits down, to show it is absorbed.",
      "say": "This is a steel plate. Its loose electrons catch the light. Most of it is sent back. A little is absorbed and warms the plate. None gets through.",
      "kid": "Now the atoms catch you. You can't get through. Turn back, or sit down as warmth.",
      "think": "If you were light, which material would you like to visit?",
@@ -1801,7 +1801,8 @@
       "a": 1,
       "why": "Butter paper scatters light in every direction, so the glow is soft and spread out. That is why lampshades and kandils are often made of translucent paper. The clear side makes a sharp, bright patch. The jaali makes a pattern of spots, because the card blocks light and the holes let it through."
      },
-     "context": "This step of the lantern project compares the light from each side in a dark room."
+     "context": "This step of the lantern project compares the light from each side in a dark room.",
+     "parent": "An LED tealight is weak, so the patches on the wall are faint. Make the room as dark as you can. If the patches are too faint, move the lantern closer to the wall, or use a phone torch inside instead."
     },
     {
      "id": "s4",
@@ -2084,18 +2085,6 @@
     },
     {
      "t": "mcq",
-     "p": "In the gap test, a girl could lift cling film 30 centimetres off the card before the word blurred. She could lift tissue only 1 centimetre. Which material scatters light more?",
-     "opts": [
-      "The cling film",
-      "The tissue",
-      "We cannot tell from this"
-     ],
-     "a": 1,
-     "why": "The more a material scatters light, the sooner the word blurs as you lift it. The tissue blurred the word after only 1 centimetre, so it scatters light much more. A strong answer reads the number as 'how far you could still read', not 'how much blur'.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "In the gap test, a girl rests her chin on the same stack of books every time. Why does this make the test fair?",
      "opts": [
       "Her eyes stay at the same height, so only the material changes",
@@ -2178,23 +2167,33 @@
      "why": "There is no single right answer. Each material is a trade-off between light, view, privacy and air."
     },
     {
-     "t": "mcq",
-     "p": "A friend says, 'With dark sunglasses on, I can look straight at the Sun safely.' Is she right?",
-     "opts": [
-      "Yes, dark lenses block enough light",
-      "No. Sunglasses only cut part of the light. Never look straight at the Sun, with or without them.",
-      "Yes, but only in the morning"
-     ],
-     "a": 1,
-     "why": "Sunglasses are tinted: they let part of the light through. The Sun is so bright that even that part can harm the eyes. Never look straight at the Sun."
-    },
-    {
      "t": "fill",
      "p": "A material that lets light through but scatters it, so you see a glow and no clear picture, is called ____.",
      "a": [
       "translucent"
      ],
      "why": "Translucent means light gets through but is scattered. Transparent means a clear picture gets through. Opaque means no light gets through."
+    },
+    {
+     "t": "truefalse",
+     "p": "A dark shadow behind a thing means very little light got through it.",
+     "a": "True",
+     "why": "True. A steel plate makes a dark shadow because it is opaque and lets no light through. Butter paper lets some light through, so its shadow is pale."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the most light getting through to the least: a steel plate, a clear glass tumbler, a sheet of butter paper.",
+     "items": [
+      "a clear glass tumbler",
+      "a sheet of butter paper",
+      "a steel plate"
+     ],
+     "a": [
+      0,
+      1,
+      2
+     ],
+     "why": "Clear glass lets most light through. Butter paper lets some through but scatters it. A steel plate lets none through."
     }
    ]
   },
@@ -2255,13 +2254,6 @@
      "how": "e3"
     },
     {
-     "t": "write",
-     "p": "Why are some medicine bottles brown or white and opaque, and not clear?",
-     "lines": 3,
-     "a": "Light can spoil some medicines. A brown or opaque bottle keeps most of the light out, so the medicine stays good for longer.",
-     "why": "A strong answer links the material's choice to its job: stopping light reaching what is inside."
-    },
-    {
      "t": "order",
      "p": "Put these in order, from most see-through to least: one sheet of butter paper, two sheets on top of each other, four sheets, eight sheets.",
      "items": [
@@ -2288,11 +2280,11 @@
       ],
       [
        "foam on water",
-       "millions of tiny bubbles"
+       "millions of tiny bubbles of air in water"
       ],
       [
        "the cloudy middle of an ice cube",
-       "trapped air bubbles"
+       "air that got trapped as the water froze"
       ],
       [
        "a white cloud",
@@ -2400,6 +2392,13 @@
      "p": "A wet white T-shirt is more see-through than a dry one.",
      "a": true,
      "why": "True. Cloth is threads with air between them. Water fills the air gaps, so light scatters less and more of it goes straight through, as with the oil spot on paper."
+    },
+    {
+     "t": "truefalse",
+     "p": "Boiling the water first always gives ice cubes that are perfectly clear.",
+     "a": "False",
+     "why": "False. Boiled water often gives clearer ice, but the middle can still be cloudy. Tiny air bubbles trapped as the water freezes scatter light, and boiling does not remove every one.",
+     "how": "a3"
     }
    ]
   },
@@ -2597,7 +2596,7 @@
    "check": "Opened on YouTube: the title and channel match."
   },
   {
-   "title": "The cosmic microwave background explained",
+   "title": "What is the Cosmic Microwave Background? (Fermilab)",
    "channel": "Fermilab",
    "youtube": "AYFDN2DSVgc",
    "mins": 6,
@@ -2616,18 +2615,6 @@
    ],
    "a": 1,
    "why": "Milk has many tiny drops of fat floating in it. Each drop has an edge that scatters light. So light still gets through, but the picture is lost. A strong answer uses the word translucent.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "A girl holds a steel plate, a sheet of butter paper and a clear glass in front of a lamp, one at a time. Which one lets light through, but no clear picture?",
-   "opts": [
-    "The steel plate",
-    "The butter paper",
-    "The clear glass"
-   ],
-   "a": 1,
-   "why": "Butter paper is translucent. Light gets through, but it is scattered in many directions, so no clear picture comes through. Steel blocks the light, and clear glass lets the picture through.",
    "outcome": 0
   },
   {
@@ -2795,8 +2782,8 @@
    "art": "A stall of glittering glass bangles stacked on poles."
   },
   {
-   "text": "Morning fog over a field in winter, so thick you can't see the trees.",
-   "art": "A winter field in north India covered by fog, trees fading into white."
+   "text": "Morning fog over a paddy field in winter, or mist over a tea garden in Darjeeling or Munnar, so thick you can't see the trees.",
+   "art": "A tea garden on a hill covered in thick white mist, bushes fading into white."
   },
   {
    "text": "A glass of water on the table, with the light from the window shining through it.",
@@ -2818,7 +2805,7 @@
   },
   {
    "q": "How does a glass frog keep their blood from clotting when they pack it into their liver?",
-   "why_open": "In people, packed blood would clot dangerously. The frog does this every night and wakes up fine. Scientists are still studying how."
+   "why_open": "In people, packed blood would clot dangerously. The frog does this each time she sleeps and wakes up fine. Scientists are still studying how."
   },
   {
    "q": "When a packet of light reaches a window, what decides whether it goes through or bounces back?",
@@ -2865,10 +2852,6 @@
   {
    "j": "What is a ghost's favourite kind of material?",
    "a": "Transparent, of course."
-  },
-  {
-   "j": "Why did the oil spot get top marks?",
-   "a": "It made everything clear."
   },
   {
    "j": "Why did the sugar disappear in the water?",
@@ -3047,7 +3030,7 @@
    "id": "b-torch",
    "item": "A small LED torch",
    "kind": "tool",
-   "why": "Used to make your fingers glow, to hunt for see-through things, and in the shadow game and the container challenge.",
+   "why": "A small torch makes fingers glow, casts shadows and lets you test containers.",
    "url": "https://www.amazon.in/s?k=small+led+torch",
    "used_in": [
     "a1",
@@ -3059,7 +3042,7 @@
    "id": "b-butterpaper",
    "item": "Butter paper or tracing paper sheets",
    "kind": "material",
-   "why": "The best translucent material for the gap test, the lantern project and the night-light challenge.",
+   "why": "The best translucent paper for the gap test, the lantern and the night-light.",
    "url": "https://www.amazon.in/s?k=butter+paper+sheets",
    "used_in": [
     "e1",
@@ -3071,7 +3054,7 @@
    "id": "b-ledtealight",
    "item": "Battery LED tealights",
    "kind": "tool",
-   "why": "A safe light for the lantern project and the night-light challenge, with no flame near paper.",
+   "why": "A safe light with no flame, for paper lanterns and shades.",
    "url": "https://www.amazon.in/s?k=led+tealight+candles",
    "used_in": [
     "p1",
@@ -3219,7 +3202,7 @@
    {
     "source": "The Bible, 1 Corinthians 13:12",
     "teaching": "'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly.",
-    "link": "In this unit, a blurry picture came from light being scattered on its way. An old metal mirror blurred for a similar reason: its surface was never perfectly smooth. Paul uses that blur to say that what we know now is not yet the clear view."
+    "link": "In this unit, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view."
    }
   ],
   "science": [
@@ -3254,5 +3237,6 @@
   "who": "Isaac Newton",
   "when": "1704",
   "wrong_idea": "White paper and other opaque things block light because their material blocks light. Newton showed that powdered clear glass turns white, and oiled paper turns see-through, so the many inside edges do the blocking."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family in a flat would, with 2 and with 4 players, and checked every printable item by item (g1 has 24 job cards, 3 mats and 24 tokens, g2 has 12 object cards). Fixed: g2 rules never used the object cards, so the hider now draws a card and holds that thing, with a skip if the family lacks it, and set-up minutes were rebalanced to still total 15; the g1 practice card now goes back in the pile so it is not played twice. Gap test: lifting is capped at 20 cm (a 30 cm lift would hit the child's face at a 30 cm chin rest), and the handkerchief and tissue may blur even when touching, so 0 is allowed. Oil Spot: the check no longer assumes the water spot dries back. Sunglasses chart: rows now run 2 cm to 4 mm, because 3 mm and 2 mm letters cannot be read from 3 steps away. Lantern: the LED is weak, so the parent note says to expect faint patches. Day Curtain: a thick quilt or blanket replaces 'bedsheet', which is thin. Light Party: added the two-person version for the dim and steel steps. Butter paper is described as pressed fibre with few air gaps (ordinary paper keeps the air-gap explanation). Removed duplicates: worksheet items on sunglasses safety, cling film versus tissue and brown medicine bottles, the second quiz item on butter paper, and one weak joke (8 jokes remain). Match item pairs now differ clearly. The snow and glass-frog 'every night' wording was fixed (frogs sleep by day). Swapped some North-only examples for South, East and West ones (Mysore pak, banana chips, mundu, tea-garden mist). Buy notes rewritten without unit cross-references. Kept the sunglasses, boiling-water, ice-crushing and LED-only safety lines as real hazards. Deep truth, roots and story left as they were. The three videos were opened by oEmbed and exist; the Fermilab title was corrected. The story is set in Lucknow on purpose (chikan is real)."
 }

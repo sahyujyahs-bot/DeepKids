@@ -618,8 +618,8 @@
        "b": "Violet. Red bends the least."
       },
       {
-       "f": "Which colour bends the least in a prism?",
-       "b": "Red."
+       "f": "A green leaf is lit only by green light. Is it bright or dark?",
+       "b": "Bright. It has green light to reflect."
       },
       {
        "f": "Where must the Sun be for you to see a rainbow?",
@@ -630,7 +630,7 @@
        "b": "Many colours mixed together."
       },
       {
-       "f": "What does a rainbow wheel look like when it spins fast?",
+       "f": "A paper wheel with all six rainbow colours in slices is spun fast. What does it look like?",
        "b": "Pale grey, nearly white."
       },
       {
@@ -690,8 +690,8 @@
        "b": "Red. The cellophane absorbs most of the other colours."
       },
       {
-       "f": "Why does a blue school bag look blue?",
-       "b": "It reflects blue light to your eyes and absorbs most of the other colours."
+       "f": "Why does a black dosa tawa look black?",
+       "b": "It absorbs almost all the colours of light and reflects almost none to your eyes."
       }
      ]
     },
@@ -714,8 +714,8 @@
     "If your answer is right, take the top colour card. If it is wrong, the reader reads the answer on the back, your turn ends, and the question card goes to the bottom of the question pile. You will meet it again.",
     "Then put down any colour cards you can. Fill your strip in order, starting from red. You cannot put down green until red, orange and yellow are down.",
     "A white light card can be used as any colour you need, because white light holds all the colours.",
-    "A spare card is one you cannot use because you have that colour on your strip already, or two of it in your hand. Put spares at the bottom of the colour pile, so nobody gets stuck holding a full hand.",
-    "If the colour pile or the question pile runs out, shuffle the cards under it and start again.",
+    "A spare card is one you cannot use, because you already have that colour on your strip or two of it in your hand. Put spares at the bottom of the colour pile.",
+    "If the colour pile or the question pile runs out, shuffle the cards that were put down at the bottom and start the pile again. Cards on strips stay where they are.",
     "The first player to fill all six boxes, red to violet, wins."
    ],
    "setup": [
@@ -724,7 +724,7 @@
      "caption": "1. Give each player a rainbow strip with six empty boxes."
     },
     {
-     "art": "Two piles of cards, colour cards and question cards, face down in the middle of a floor mat.",
+     "art": "Two piles of cards in the middle of a floor mat: colour cards face down, question cards with the question side up.",
      "caption": "2. Put the colour cards and question cards in two piles."
     },
     {
@@ -794,29 +794,29 @@
    "id": "g2",
    "title": "The Bending Race",
    "mins": 20,
-   "players": "2 or more players, on a terrace, a corridor or a clear floor about 4 metres long",
+   "players": "2 or more players, on a terrace, a corridor or a clear floor about 4 metres long and 2 metres wide",
    "context": "This is a walking game that acts out a prism. Six colours of light start together as white light. One at a time, each colour walks through a marked 'glass' and is pushed sideways by its own amount, so the colours land spread apart.",
    "printables": [
     {
      "kind": "cards",
      "title": "6 colour badges",
      "items": [
-      "RED: take 1 sideways step in the glass",
-      "ORANGE: take 2 sideways steps in the glass",
-      "YELLOW: take 3 sideways steps in the glass",
-      "GREEN: take 4 sideways steps in the glass",
-      "BLUE: take 5 sideways steps in the glass",
-      "VIOLET: take 6 sideways steps in the glass"
+      "RED: take 1 small sideways step in the glass",
+      "ORANGE: take 2 small sideways steps in the glass",
+      "YELLOW: take 3 small sideways steps in the glass",
+      "GREEN: take 4 small sideways steps in the glass",
+      "BLUE: take 5 small sideways steps in the glass",
+      "VIOLET: take 6 small sideways steps in the glass"
      ]
     }
    ],
    "rules": [
-    "Mark the court on the floor with chalk or tape. Draw a start line. About 1 metre ahead, draw a square about 1 metre wide for the glass. About 2 metres past it, draw a finish line.",
+    "Mark the court on the floor with chalk or masking tape. Draw a start line. About 1 metre ahead, draw a square 1 metre deep and 2 metres wide for the glass. About 2 metres past it, draw a finish line 3 metres wide.",
     "Put all six colour badges in one pile on the start line. Together they are white light.",
     "Take turns. On your turn, take one badge from the pile and walk straight to the glass. Everyone else watches. In a game for two, each of you walks three times.",
-    "Inside the glass, walk slowly, because light slows down in glass. Take the number of sideways steps to the left that is on your badge.",
+    "Walk in at the right-hand edge of the glass. Walk slowly, because light slows down in glass. Take the number of small sideways steps to the left that is on your badge. A small step is one shoe-length.",
     "Come out of the glass and walk straight to the finish line. Drop your badge on the floor where you stop.",
-    "When all six badges are down, look at the line of badges. Did the colours spread into a rainbow, in the right order?"
+    "When all six badges are down, look at the line of badges. Did the colours spread into a rainbow, in the right order? In a game for two, play the six badges between you."
    ],
    "setup": [
     {
@@ -836,7 +836,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Mark the court with chalk or tape. 2. Cut out the six colour badges. 3. Put them in one pile on the start line.",
+     "do": "1. Mark the court with chalk or masking tape. 2. Cut out the six colour badges. 3. Put them in one pile on the start line.",
      "say": "This pile of badges is white light, all the colours together. Let's see what happens when white light goes through glass.",
      "kid": "Mark the court. Put all six colour badges in a pile on the start line. Together they are white light.",
      "context": "This is the first step of The Bending Race. Each badge is one colour of light, acting out what happens in a prism."
@@ -1144,18 +1144,6 @@
      "why": "False. The second bow comes from light bouncing twice inside each drop. The extra bounce flips the order, so red is on the inside. Each bounce also loses some light, which is why it is fainter."
     },
     {
-     "t": "mcq",
-     "p": "In a dark room, you shine a torch through red cellophane onto a green leaf. The leaf looks very dark, almost black. Why?",
-     "opts": [
-      "There is almost no green light for the leaf to reflect",
-      "Red light kills leaves",
-      "The leaf changes colour",
-      "Our eyes stop working"
-     ],
-     "a": 0,
-     "why": "A leaf looks green by reflecting green light. The red light has almost no green in it, so the leaf reflects very little and looks dark. Picking 'the leaf changes colour' forgets that it is green again in sunlight."
-    },
-    {
      "t": "perspective",
      "p": "People disagree about how many colours a rainbow has.",
      "views": [
@@ -1319,7 +1307,7 @@
      "p": "In 1800, William Herschel found infrared light with a thermometer, not with his eyes. Why could he not see it? How did the thermometer show it was there?",
      "lines": 4,
      "a": "A strong answer says that our eyes cannot see light past the red end. Herschel put thermometers in each colour and just beyond the red. The one past red, where there was no colour at all, got warmest. So some light he could not see was landing there.",
-     "why": "Instruments let scientists find things our senses miss. Infrared is the warmth you feel from the Sun or a hot tava."
+     "why": "Instruments let scientists find things our senses miss. Infrared is the warmth you feel from the Sun or a hot tawa."
     },
     {
      "t": "mcq",
@@ -1552,10 +1540,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Stand the full glass at the edge of the sunny sill. 2. Catch the colours on white paper on the floor. 3. Write the colour at each end and the colours between them in the table.",
+     "do": "1. Stand the full glass at the edge of the sunny sill. 2. Catch the colours on white paper on the floor. 3. Write the colour at each end and the colours between them in the table. If you cannot tell, write 'could not tell'.",
      "say": "Which colour is at one end? Which is at the other? Let's write down the order, colour by colour.",
      "kid": "Catch the colours on paper. Which colour is at each end? Write the order in the table.",
-     "parent": "The strip from a glass of water is small and can be faint. If you cannot make out every colour, write down what you can see and carry on. The mirror in water in the next step gives a brighter, wider strip. This needs a window or a sill with direct sunshine."
+     "parent": "The strip from a glass of water is small and can be faint, and it does not work in every window. If you cannot make out the colours, write 'could not tell' and carry on. The mirror in water in the next step is the main test, and gives a brighter, wider strip. You need a window or a sill with direct sunshine."
     },
     {
      "id": "s3",
@@ -1564,7 +1552,7 @@
      "say": "This time the light goes into the water, bounces off the mirror, and comes back out. That's a little like what happens inside a raindrop. Let's see the order.",
      "kid": "Lean the mirror in the water, facing the Sun. Find the colours on the wall. Write their order.",
      "adult": true,
-     "parent": "This works best with the Sun quite low and a white wall in the shade nearby. Tilt the mirror slowly. The water must be still, so wait a moment after moving it. The light goes in through the water, bounces and comes out, like light in a raindrop."
+     "parent": "This works best with the Sun quite low and a white wall in the shade nearby. Tilt the mirror slowly. The water must be still, so wait a moment after moving it. If the strip is faint, close the curtains around it to darken the room."
     },
     {
      "id": "s4",
@@ -1596,8 +1584,8 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Compare the three rows of the table together.",
-     "say": "Look at all three rows. Did the order ever change?",
+     "do": "Compare the rows of the table together.",
+     "say": "Look at all the rows. Did the order ever change?",
      "kid": "Look at your table. Did the order ever change?",
      "check": {
       "t": "mcq",
@@ -1609,7 +1597,7 @@
        "Red is the strongest colour"
       ],
       "a": 1,
-      "why": "Three very different things gave the same colours in the same order. So the order must come from the light, not from the glass or the mirror. Each colour always bends by its own amount, red least and violet most. Picking 'each thing paints its own colours' would mean three different orders, which we did not see. Picking 'luck' is why we test more than once."
+      "why": "Very different things gave the same colours in the same order. So the order must come from the light, not from the glass or the mirror. Each colour always bends by its own amount, red least and violet most. Picking 'each thing paints its own colours' would mean different orders, which we did not see. Picking 'luck' is why we test more than once."
      }
     },
     {
@@ -1618,7 +1606,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: sunlight always splits into the same colours in the same order. What I saw: with the glass, the mirror in water and the prism, red was at one end and violet at the other every time. Why: the colours are in the sunlight, and each one bends by its own amount."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: sunlight always splits into the same colours in the same order. What I saw: with every way we tried, red was at one end and violet at the other. Why: the colours are in the sunlight, and each one bends by its own amount."
     }
    ]
   },
@@ -1684,7 +1672,7 @@
      "kid": "You will make a rainbow with spray. Guess first. Where should the Sun be?",
      "adult": true,
      "context": "This is the first step of the spray rainbow test. You find out where the Sun must be for you to see a rainbow.",
-     "parent": "You need direct sunlight on you and the spray. If your balcony gets no direct sun at these times, use the terrace or the building's entrance. Many homes already have a spray bottle for plants or ironing."
+     "parent": "You need direct sunlight on you and the spray, with the Sun low. If your balcony gets no direct sun at these times, use the terrace or the building's entrance, or try on another day. A spray rainbow is small and can be faint, and it may take a few tries. Many homes already have a spray bottle for plants or ironing."
     },
     {
      "id": "s2",
@@ -1697,7 +1685,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Turn so the Sun is right behind you. 2. Spray the mist in front of you, a little higher than your head. 3. Look for the rainbow. Find the shadow of your head on the ground. Notice that the bow curves around it.",
+     "do": "1. Turn so the Sun is right behind you. 2. Spray the mist in front of you, a little higher than your head, for one minute. 3. Look for the rainbow. Find the shadow of your head on the ground. Notice that the bow curves around it.",
      "say": "Now the Sun is behind us. Spray up high. What do you see? Look down at your shadow. Where is your shadow's head?",
      "kid": "Turn your back to the Sun. Spray high. Do you see the rainbow now? Find your shadow's head.",
      "adult": true,
@@ -1817,7 +1805,7 @@
      "do": "1. Push a short pencil through the hole in each disc. 2. Spin each one like a top on the table, as fast as you can. 3. Spin each disc three times. 4. Write what you saw.",
      "say": "Spin! What colour is it now, while it's spinning fast? Is it the same as your guess?",
      "kid": "Spin each disc fast. What colour do you see? Spin each one three times.",
-     "parent": "The rainbow disc looks pale grey or creamy white, not bright white. Each slice reflects only part of the light that falls on it, so the mix is dimmer than white paper. It is still clearly paler than any of its colours. Red and green spun together look a dull yellowish brown. The all-red disc stays red.",
+     "parent": "The rainbow disc looks pale grey or creamy white, not bright white. Each slice reflects only part of the light that falls on it, and felt-pen colours are not pure, so the mix is dimmer than white paper. It is still clearly paler than any of its colours. Red and green spun together look a dull yellowish brown. The all-red disc stays red.",
      "check": {
       "t": "mcq",
       "q": "In Newton's Wheel, the rainbow disc looked pale grey-white when it spun fast. What does this show?",
@@ -2008,6 +1996,10 @@
     {
      "item": "a torch",
      "qty": 1
+    },
+    {
+     "item": "a green leaf, from a potted plant or the kitchen",
+     "qty": 1
     }
    ],
    "safety": "Never look straight at the Sun, even through cellophane. Cellophane does not protect your eyes.",
@@ -2048,10 +2040,10 @@
      "do": "1. Hold the red sheet in the sunbeam, between the window and the glass. 2. Look at the strip on the paper. 3. Do the same with the green sheet, then the blue sheet.",
      "say": "Before we try, guess. If the sunlight goes through red cellophane first, which colours will still reach the paper?",
      "kid": "Guess first. Then hold the red sheet in the sunlight before the glass. What is left on the paper? Try green, then blue.",
-     "parent": "With red cellophane, mostly red and a little orange stay. With green, mostly green. With blue, mostly blue and violet. Cheap cellophane is not perfect, so a little of other colours may leak through. That is fine.",
+     "parent": "With red cellophane, mostly red and a little orange stay. With green, mostly green. With blue, mostly blue and violet. Cheap cellophane is not perfect, so a little of other colours may leak through. The strip from a glass of water is small, and a coloured sheet makes it fainter. If you cannot tell, write that down and go on to the leaf in the next step, which is easy to see.",
      "check": {
       "t": "mcq",
-      "q": "You hold red cellophane in the sunbeam. Only red reaches the paper. What happened to the green and blue light?",
+      "q": "You hold red cellophane in the sunbeam. Mostly red reaches the paper. What happened to the green and blue light?",
       "options": [
        "The cellophane turned them into red",
        "The cellophane absorbed them",
@@ -2105,7 +2097,7 @@
      "qty": 1
     },
     {
-     "item": "an old CD or DVD",
+     "item": "an old CD or DVD (if you have none, do only the bubbles and the feather)",
      "qty": 1
     },
     {
@@ -2113,7 +2105,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not drink the soap water.",
    "schedule": [
     {
      "day": 1,
@@ -2165,7 +2156,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Look around for colours that move when you move. Try an oily puddle, a peacock feather or the inside of a shell.",
+     "do": "Look around for colours that move when you move. Try a peacock feather, the inside of a shell or a shiny sari border.",
      "say": "Where else have you seen colours that move when you move?",
      "kid": "Where else have you seen colours that change when you move? Make a list.",
      "think": "A peacock feather is brown underneath. Why does it look blue and green?"
@@ -2180,7 +2171,7 @@
    "context": "In this activity, each person in the family marks where they think each rainbow colour starts and ends. Then you compare. Books say the rainbow has seven colours. Is that true?",
    "materials": [
     {
-     "item": "a strip of colours on white paper, taped down, made with a mirror in a tray of water or a prism (see the water prism test)",
+     "item": "a strip of colours made by a mirror in a tray of water or a prism (see the water prism test), landing on white card. Or, instead, a rainbow picture on a phone screen, laid flat",
      "qty": 1
     },
     {
@@ -2214,15 +2205,15 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
-     "do": "Tape the strip of colours down. Each person lays a sheet of thin paper over it, one at a time. Draw a small line where one colour stops and the next begins. Do not look at each other's sheets.",
+     "mins": 4,
+     "do": "Make the strip of colours land on white card and hold the mirror still by leaning it on a book. Each person in turn lays a sheet of thin paper over the card, or over the phone picture. Draw a small line where one colour stops and the next begins. Do not look at each other's sheets.",
      "say": "Draw a small line wherever you think one colour stops and the next begins. Don't peek at anyone else's!",
      "kid": "Lay the thin paper over the colours. Draw a line where each colour stops. Do not peek at anyone else's sheet.",
      "context": "This is the first step of Where Does Green End?. Everyone marks where they think each rainbow colour ends."
     },
     {
      "id": "s2",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Count the colours each person marked. 2. Put the strips side by side. 3. Make a bar chart: one bar per person, as tall as the number they counted.",
      "say": "How many colours did each of us count? Did we draw our lines in the same places?",
      "kid": "Count your colours. How many did others count? Did you all draw your lines in the same places?",
@@ -2270,7 +2261,7 @@
     },
     {
      "id": "s3",
-     "mins": 4,
+     "mins": 3,
      "do": "Tell your child that Newton first named five colours, and later seven. He chose seven partly to match the seven notes of music, like sa re ga ma pa dha ni.",
      "say": "Isaac Newton chose seven colours, partly because music has seven notes. If you were naming the rainbow, how many would you choose?",
      "kid": "Newton picked seven colours, like the seven music notes. How many would you pick? Give them your own names.",
@@ -2345,9 +2336,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "At noon, go outside and look up, away from the Sun. Colour a square for the sky. At sunset, look at the sky near the Sun, never at the Sun itself, and colour a second square.",
+     "do": "At noon, look up from a window, balcony or terrace, away from the Sun. Colour a square for the sky. At sunset, look at the sky near the Sun, never at the Sun itself, and colour a second square.",
      "say": "Let's be sky scientists for five days. What colour is the sky now? Let's match it with a pencil.",
-     "kid": "Look up at the noon sky. Do not look at the Sun. Colour a square to match. Do it again at sunset.",
+     "kid": "Look up at the noon sky from a window or balcony. Do not look at the Sun. Colour a square to match. Do it again at sunset.",
      "adult": true,
      "context": "This is the first day of the Sky Colour Diary. You record the sky's colours at noon and at sunset."
     },
@@ -2493,9 +2484,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Lay out the drawings. Ask your child to explain each one to the family in a short 'rainbow show'.",
+     "do": "Lay out the drawings. Ask your child to explain each one to someone at home in a short 'rainbow show'.",
      "say": "Tell us what you found. Which light had the smoothest rainbow? Which had lines?",
-     "kid": "Show your family your rainbow drawings. Tell them what you found.",
+     "kid": "Show someone at home your rainbow drawings. Tell them what you found.",
      "think": "Astronomers look at stars this way. What could they learn from a star's rainbow?"
     },
     {
@@ -2504,7 +2495,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say three things. Say what you think. Say what you saw. Say why it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: different lamps have different rainbows. What I saw: daylight was smooth, the tubelight had bright lines and the candle was mostly red and yellow. Why: each kind of light is made in its own way, by different atoms."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: different lamps have different rainbows. What I saw: daylight was smooth, the tubelight, if I found one, had bright lines and the candle was mostly red and yellow. Why: each kind of light is made in its own way, by different atoms."
     }
    ]
   }
@@ -2535,8 +2526,7 @@
    ],
    "creative": [
     "Make a slit in a piece of card, like the small hole Newton cut in his window shutter. A thin beam gives cleaner colours.",
-    "Try a round glass bowl full of water, like the glass ball of water that Kamal al-Din al-Farisi used as a model raindrop.",
-    "Try an old CD in a torch beam in a dark room. Its tiny grooves spread light into colours too."
+    "Try a round glass bowl full of water, like the glass ball of water that Kamal al-Din al-Farisi used as a model raindrop."
    ],
    "your_turn": "Now invent your own way. Draw it, try it, and measure your rainbow. Is it bigger than the others?",
    "setup": [
@@ -2813,19 +2803,6 @@
   },
   {
    "t": "mcq",
-   "p": "In the main rainbow, which colour is on the outside?",
-   "opts": [
-    "Violet",
-    "Red",
-    "Green",
-    "Blue"
-   ],
-   "a": 1,
-   "why": "Red is on the outside and violet on the inside. In the fainter second bow, the order flips.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
    "p": "Which of these do scientists NOT know yet?",
    "opts": [
     "That sunlight is many colours",
@@ -2906,15 +2883,15 @@
  ],
  "spotted": [
   {
-   "text": "A rainbow over the fields after an afternoon monsoon shower, with the Sun low behind you.",
-   "art": "A rainbow over green paddy fields, a farmer with an umbrella."
+   "text": "A rainbow over the tea gardens of Assam or the paddy fields of Kerala after a monsoon shower, with the Sun low behind you.",
+   "art": "A rainbow over green tea bushes, a worker with an umbrella."
   },
   {
    "text": "The spray at Jog Falls in Karnataka or Athirappilly Falls in Kerala, which often holds a rainbow on sunny days.",
    "art": "A waterfall's misty spray with a rainbow in it."
   },
   {
-   "text": "Tiny rainbows thrown round a room by a glass chandelier or cut-glass bottle.",
+   "text": "Tiny rainbows thrown round a room by a glass chandelier, a Durga Puja pandal light or a cut-glass bottle.",
    "art": "Little rainbow spots on a wall from a glass chandelier."
   },
   {
@@ -2981,7 +2958,6 @@
   "Is that leaf green, or is it reflecting green light to your eyes?",
   "Why do you think the dosa tawa looks black?",
   "If you were a bee, what would this flower look like?",
-  "Do you think your red is the same as mine?",
   "How many colours do you see in that sunset?",
   "Where does the white go when a rainbow appears?"
  ],
@@ -3005,14 +2981,6 @@
   {
    "j": "Why did the sky turn blue?",
    "a": "It was feeling a little scattered."
-  },
-  {
-   "j": "What is a rainbow's favourite game?",
-   "a": "Hide and seek. It only comes out when the Sun is behind you."
-  },
-  {
-   "j": "Why couldn't the girl reach the end of the rainbow?",
-   "a": "Every time she moved, it moved too. It was a very shy rainbow."
   },
   {
    "j": "What did the green leaf say to the red light?",
@@ -3239,58 +3207,40 @@
    "used_in": [
     "p1"
    ]
-  },
-  {
-   "id": "b-book-rainbow",
-   "item": "A Rainbow of My Own, by Don Freeman",
-   "kind": "book",
-   "why": "A gentle picture book about a boy who chases rainbows and ends up with one of his own.",
-   "url": "https://www.amazon.in/s?k=A+Rainbow+of+My+Own+Don+Freeman",
-   "used_in": [
-    "a1"
-   ]
   }
  ],
  "warmup": [
   {
-   "q": "Sunlight is made of many ____ mixed together.",
-   "a": "colours"
+   "q": "Name three things that make their own light.",
+   "a": "The Sun, a bulb and a flame are some. The Moon does not make light. It reflects the Sun's."
   },
   {
-   "q": "Which colour bends most in a prism?",
-   "a": "Violet. Red bends least."
+   "q": "What must happen for you to see a mango on a table?",
+   "a": "Light must bounce off the mango and reach your eyes."
   },
   {
-   "q": "To see a rainbow, where must the Sun be?",
-   "a": "Behind you."
+   "q": "Light bounces off a mirror. What is that bouncing called?",
+   "a": "Reflection."
   },
   {
-   "q": "What does a spinning rainbow wheel look like?",
-   "a": "Pale grey, nearly white. Your eye mixes the colours."
+   "q": "Light goes from air into water and changes direction a little. What do we call this?",
+   "a": "Bending, or refraction."
   },
   {
-   "q": "In the main rainbow, which colour is on the outside?",
-   "a": "Red."
+   "q": "Does light travel in straight lines or in curves?",
+   "a": "Straight lines, unless something bends or bounces it. That is why shadows have sharp edges."
   },
   {
-   "q": "What is the invisible light past red called?",
-   "a": "Infrared. We feel it as warmth."
+   "q": "Why does a tall tree make a long shadow in the evening?",
+   "a": "The Sun is low, so the tree blocks the light at a slant and the shadow stretches out."
   },
   {
-   "q": "Why is the sky blue?",
-   "a": "Air scatters blue light all over the sky."
+   "q": "What is the plant pigment that makes leaves green?",
+   "a": "Chlorophyll."
   },
   {
-   "q": "Which gas was found in the Sun's light first, during an eclipse seen from India in 1868?",
-   "a": "Helium."
-  },
-  {
-   "q": "Why does a leaf look green?",
-   "a": "It reflects green light. It absorbs most of the red and blue light and uses it to make food."
-  },
-  {
-   "q": "Can two people see exactly the same rainbow?",
-   "a": "No. Each person sees light from different drops."
+   "q": "Which is hotter in the sun, a black cloth or a white cloth?",
+   "a": "The black one. It absorbs more of the light."
   }
  ],
  "plan": {
@@ -3434,5 +3384,6 @@
   "who": "Isaac Newton, with Robert Hooke arguing against him",
   "when": "1666 to 1672",
   "wrong_idea": "A prism adds colours to pure white light. Newton sent a single colour through a second prism and it did not change, so the colours must already be in the light."
- }
+ },
+ "playtest": "Walked every printable, game, experiment, activity, project and challenge as a family would, with 2 and with 4 players. Games: both games already listed every card, so I kept them. In Rainbow Line-Up I fixed the setup picture (question cards are face up, not face down), said what happens when a pile runs out, and replaced two question cards that repeated other places in the unit or did not name what they asked about. In The Bending Race, six sideways steps could not fit in a one-metre glass, so the glass is now 2 metres wide and a step is one shoe-length. Experiments and activities: the glass-of-water strip is often faint, so the water prism test and Colour Filters now say plainly to write 'could not tell' and rely on the mirror in water or the leaf instead; the prism is optional, so the compare step no longer says three rows. The Colour Filters check now says mostly red, matching the parent note, and the missing leaf is now in the materials. Where Does Green End? added up to 18 minutes, now 15, and no longer asks you to tape down a beam of light (the strip lands on card, or a rainbow picture on a phone is used). The Sky Colour Diary no longer sends the child outside at noon, and the oily-puddle idea in Bubble and CD Rainbows is gone because it is not a flat activity. The spray rainbow stays outside the core path and now says it may be faint and need another day. Cleaning: removed the unneeded safety line from the bubbles activity, the picture-book that nobody needs from the buy list, two non-jokes (jokes now 8), a CD idea in the biggest-rainbow challenge that repeats Bubble and CD Rainbows, a leaf question and a rainbow-colour question that came back too often, and the repeated 'is your red my red' ask. The warm-up questions all repeated the game and quiz, so they are now short refreshers from earlier light units. Rule 28: the rainbow-spotting list now has Assam tea gardens and a Durga Puja pandal. I checked the three videos open and match their titles. I did not change the science, the deep truth, the story or any ids."
 }

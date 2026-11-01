@@ -578,7 +578,6 @@
    "In the story, the thread snapped at noon but not at dawn. What did Shefali think had changed?",
    "How did Shefali make her test fair? Why did she cut every thread to the same length?",
    "Why did she count shells, and not just say 'this one is stronger'?",
-   "Everyone in the village had a guess. Why was a number better than a guess?",
    "Is the thread's strength in the thread, in the air, or in both together? What do you think?",
    "Nobody wrote down Shefali's name. Who does a small job at your home that makes everything else work?"
   ],
@@ -594,7 +593,7 @@
   {
    "id": "g1",
    "title": "Property Snap",
-   "mins": 20,
+   "mins": 25,
    "players": "2 to 5 players, or one child playing against a grown-up",
    "context": "This is a matching card game about properties. Each property has three cards: its name, a test that shows it, and an example. You collect complete sets by asking other players for cards.",
    "printables": [
@@ -660,14 +659,32 @@
     },
     {
      "kind": "cards",
-     "title": "6 challenge cards",
+     "title": "6 challenge cards, with the answer on the back",
      "items": [
-      "Glass is hard but breaks when dropped. Which two properties is that?",
-      "A rubber band and a cotton cloth can both be bent. Which one is elastic, and how do you know?",
-      "A plastic bag and a paper towel both look thin. How do you test which is waterproof?",
-      "Butter paper is translucent. How could you make it opaque?",
-      "A rope is soft but strong. A chalk stick is hard to bend but weak. Explain.",
-      "Name a material that is both rigid and brittle, and one that is both rigid and not brittle."
+      {
+       "f": "Glass is hard but breaks when dropped. Which two properties is that?",
+       "b": "Hard and brittle. Hard means hard to scratch. Brittle means it snaps or shatters instead of bending."
+      },
+      {
+       "f": "A rubber band and a cotton cloth can both be bent. Which one is elastic, and how do you know?",
+       "b": "The rubber band is elastic, because it springs back when you let go. The cloth is only flexible, because it stays bent."
+      },
+      {
+       "f": "A plastic bag and a paper towel both look thin. How do you test which is waterproof?",
+       "b": "Drip water on each one. On the waterproof one the drop stays on top. On the other it soaks in."
+      },
+      {
+       "f": "Butter paper is translucent. How could you make it opaque?",
+       "b": "Stack many sheets of it. A tall stack lets no light through, so the stack is opaque."
+      },
+      {
+       "f": "A rope is soft but strong. A chalk stick is hard to bend but weak. Explain.",
+       "b": "A rope is strong, because it holds a big pull without breaking. Chalk is stiff but snaps easily, so it is weak."
+      },
+      {
+       "f": "Name a material that is both rigid and brittle, and one that is both rigid and not brittle.",
+       "b": "Glass is rigid and brittle. A steel plate is rigid and not brittle."
+      }
      ]
     },
     {
@@ -701,9 +718,9 @@
     "Shuffle the 36 property cards. Deal 5 to each player. Put the rest face down in a pile. Put the 6 challenge cards face down in a second pile.",
     "A set is three cards for the same property: its WORD, its TEST and its EXAMPLE.",
     "On your turn, ask one player for a card. You must already hold a card of that property, and you must name the property and the kind. For example, 'Do you have the TEST for brittle?'",
-    "If they have it, they give it to you and you ask again. If not, you draw a card from the pile and your turn ends. If the pile is empty, your turn just ends. If you have no cards on your turn, draw up to 5.",
+    "If they have it, they give it to you and you ask again. If not, you draw a card from the pile and your turn ends. If the pile is empty, your turn just ends. If you have no cards on your turn, draw up to 5 (or as many as are left).",
     "As soon as you hold a complete set, even after drawing, lay it down. Read all three cards out loud and say whether the test and the example really fit. Take a star token.",
-    "Then draw a challenge card and answer it. A good answer wins a bonus star token. When the challenge pile is empty, skip this part.",
+    "Then draw a challenge card and read the question aloud. Talk about the answer together, then turn the card over to check. A good answer wins a bonus star token. When the challenge pile is empty, skip this part.",
     "The game ends when all 12 sets are laid down. The player with the most star tokens wins. If you tie, you share the win."
    ],
    "flow": [
@@ -718,7 +735,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice turn together. Ask: which TEST goes with 'translucent'?",
+     "do": "Play one practice turn together. Show this test card and ask: which property does it test?",
      "say": "Let's practise. Here is one card: 'Hold it in front of a torch. A blurry glow shows on the wall.' Which property does it test?",
      "kid": "Read the test card. Which property does it show? Choose your answer.",
      "check": {
@@ -735,18 +752,18 @@
     },
     {
      "id": "s3",
-     "mins": 7,
-     "do": "Play the game. When you lay down a set, read all three cards aloud and say whether the test and the example really fit. Then draw a challenge card and answer it.",
+     "mins": 13,
+     "do": "Play the game. When you lay down a set, read all three cards aloud and say whether the test and the example really fit. Then draw a challenge card, talk about the answer, and turn the card over to check.",
      "say": "Remember to say the property and the kind of card you are asking for. If you disagree with a match, say why.",
      "kid": "Take turns. Ask for a card by name and kind. Lay down each complete set and read it aloud.",
      "parent": "Good habit: when a set is laid down, ask 'Does that test really show that property?' This is the heart of the game."
     },
     {
      "id": "s4",
-     "mins": 4,
-     "do": "Take any challenge cards that are still unused. Read one aloud and let the table discuss the answer before anyone reveals it.",
-     "say": "Here is a tricky card. Talk about it together first. Then someone can say the answer.",
-     "kid": "A challenge card! Talk about it together. Then answer.",
+     "mins": 3,
+     "do": "Talk about the game. Ask which pair of properties was hardest to tell apart.",
+     "say": "Which two properties were hardest to tell apart? Why?",
+     "kid": "Which two properties were hardest to tell apart?",
      "ask": [
       {
        "q": "Which pair of properties did you find hardest to tell apart?",
@@ -757,7 +774,7 @@
        ]
       }
      ],
-     "parent": "Key answers. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle. A rubber band is elastic because it springs back, and cloth is only flexible because it stays bent. Test waterproof by dripping water on it. Butter paper turns opaque in a tall stack. A rope is soft but strong, and chalk is rigid but weak. Glass is rigid and brittle, and a steel plate is rigid and not brittle."
+     "parent": "The answers to the challenge cards are on their backs. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle."
     },
     {
      "id": "s5",
@@ -841,9 +858,9 @@
     "Deal all the cards one at a time. If some are left over, put them aside. Each player keeps a face-down pile and looks only at the top card.",
     "The first player picks one property from their top card and reads out its score. They must say why the material scores high or low. For example, 'Steel, hard 5, because a nail cannot scratch it.'",
     "Everyone else reads out the same property from their top card. The highest score wins all the top cards. The winner puts them at the bottom of their pile and picks the property for the next round.",
-    "If there is a tie, put the cards in the middle. The winner of the next round takes them too.",
+    "If two or more players tie for the highest score, put all those top cards in the middle. Play the next round with the next cards, and the same player picks the property again. The winner of that round also takes the cards in the middle.",
     "The scores on these cards are rough guesses, for fun. You will make a better set from real measurements in the project.",
-    "The game ends when one player has no cards left, or after 15 minutes. The player with the most cards wins."
+    "The game ends when one player has no cards left, or after 12 minutes. The player with the most cards wins. If you tie, you share the win. Cards left in the middle at the end go to nobody."
    ],
    "flow": [
     {
@@ -1030,15 +1047,15 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, from the one that lets MOST light through to the one that lets LEAST through: a wooden door, a clear glass window, a thin cotton dupatta held up to the window, a folded bedsheet.",
+     "p": "Put these in order, from the one that lets MOST light through to the one that lets LEAST through: a wooden door, a clear glass window, a thin cotton mundu held up to the window, a folded bedsheet.",
      "items": [
       "Clear glass window",
-      "Thin cotton dupatta",
+      "Thin cotton mundu",
       "Folded bedsheet",
       "Wooden door"
      ],
      "a": "order shown",
-     "why": "Clear glass is transparent: you see clearly through it. A thin dupatta is translucent: light gets through, but blurred. A folded bedsheet lets only a little light through, because there are more layers. A wooden door is opaque: no light at all."
+     "why": "Clear glass is transparent: you see clearly through it. A thin mundu is translucent: light gets through, but blurred. A folded bedsheet lets only a little light through, because there are more layers. A wooden door is opaque: no light at all."
     },
     {
      "t": "write",
@@ -1702,7 +1719,7 @@
     },
     {
      "id": "s3",
-     "mins": 9,
+     "mins": 11,
      "do": "Test each of the eight things. Do each one twice, with a new piece if the first one broke. Write what happens in the table.",
      "say": "Test all eight. Do each twice. Write down what you see. For the spaghetti, count the pieces.",
      "kid": "Test all eight things, twice each. Write what happens. Count the pieces of the spaghetti.",
@@ -1769,14 +1786,6 @@
      "say": "Look at the thing that stayed bent, and the thing that sprang back. Both bend. What is different about them?",
      "kid": "Both bent. One stayed bent. One sprang back. What is different?",
      "think": "Inside a paper clip, the tiny atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring home. Why might a snap be different?"
-    },
-    {
-     "id": "s6",
-     "mins": 2,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What you think, what you saw, and why.",
-     "parent": "A good answer sounds like this. What I think: dry things snap, metals stay bent and rubbery things spring back. What I saw: the spaghetti snapped into three pieces, the paper clip stayed bent and the ruler sprang back. Why: a brittle thing cannot give, so it breaks. Metals let their atoms slide. Elastic things stretch and spring home."
     }
    ],
    "example_chart": {
@@ -1864,8 +1873,7 @@
     },
     {
      "item": "a 30 centimetre ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a pencil and the results table",
@@ -1901,7 +1909,7 @@
     },
     {
      "id": "s3",
-     "mins": 8,
+     "mins": 10,
      "do": "1. Hold the ruler upright, just beside the tip of the strip. 2. Put its 0 mark level with the table top. 3. Bend down so your eyes are level with the tip. 4. Read how far the tip has dropped. 5. Do this 3 times for each strip. If a strip hangs straight down, write 10.",
      "say": "The drop is how far the tip goes down from the table top. A small drop means rigid. A big drop means flexible.",
      "kid": "Hold the ruler upright by the tip. Read how far it dropped. Do it 3 times.",
@@ -1981,14 +1989,6 @@
      "say": "Card is made of the same wood fibres as paper. But it bends much less. What is different about it?",
      "kid": "Card and paper are both made of wood fibres. Why does card bend less?",
      "think": "Thickness matters as well as material. How could you test a thick and a thin strip of the same paper?"
-    },
-    {
-     "id": "s6",
-     "mins": 2,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What you think, what you saw, and why.",
-     "parent": "A good answer sounds like this. What I think: the corrugated card is the most rigid and the cloth is the most flexible. What I saw: the card dropped 1 centimetre and the cloth hung straight down at 10. Why: thick card has many layers of fibres pressed together, and cloth threads can slide and fold."
     }
    ],
    "example_chart": {
@@ -2146,7 +2146,7 @@
     },
     {
      "id": "s3",
-     "mins": 15,
+     "mins": 14,
      "do": "1. Fill the cup to the brim and pour it gently into the bag. Count out loud. 2. Keep adding one cup at a time. 3. When the strip tears, write down how many cups were in the bag. 4. Empty the bag and test the second dry strip. 5. Then test the dry newspaper and the dry thread the same way, twice each.",
      "say": "Pour gently, so the bag does not swing. Count each cup out loud. When the strip tears, write down the number.",
      "kid": "Pour one cup at a time and count. Write the number when it tears.",
@@ -2155,8 +2155,8 @@
     },
     {
      "id": "s4",
-     "mins": 10,
-     "do": "1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip, right across from edge to edge. Stop when a band about 3 centimetres tall (the whole width of the newspaper strip) looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.",
+     "mins": 12,
+     "do": "1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip. Stop when a band about 2 centimetres long, right across the strip from edge to edge, looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.",
      "say": "Now we make the middle of each strip damp, not dripping. Then we pour, just like before. Watch what happens.",
      "kid": "Wet your fingertip. Touch the middle of the strip. Then pour and count.",
      "parent": "Make the damp band go right across the strip. If one edge stays dry, the dry part still holds the bag. If a damp toilet paper strip tears before any water goes in, write 0. That is a real result. We hang the strip first and dampen it after, because a damp strip is hard to hang without tearing.",
@@ -2164,11 +2164,11 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "Help your child fill in the last column, then compare the changes.",
      "say": "For each material, look at dry and damp. Write weaker, stronger or about the same. Which one changed the most?",
      "kid": "Look at dry and damp for each one. Write weaker, stronger or the same.",
-     "parent": "Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. With a cup of about 200 millilitres, expect roughly this. Dry toilet paper holds about 1 to 6 cups, and dry newspaper about 2 to 8. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. The doubled thread usually holds about 2 to 7 cups, dry or damp. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.",
+     "parent": "Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. Dry toilet paper often holds a few cups. Dry newspaper often holds more, and a doubled thread holds several cups. If a strip is still holding at 10 cups, write 'more than 10'. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.",
      "check": {
       "t": "mcq",
       "q": "A newspaper strip held 6 cups of water when dry and 1 cup when damp. What can you say?",
@@ -2270,11 +2270,11 @@
   {
    "id": "e4",
    "title": "The Vanishing Drop: how fast does it soak in?",
-   "mins": 25,
+   "mins": 28,
    "days": 1,
    "question": "How many seconds does one drop of water take to vanish on each surface? Which surfaces never let it in?",
    "predict": "Line up the six surfaces. Put the one you think soaks up a drop fastest first, and the one that never soaks it up last. Why do you think so?",
-   "fair_test": "To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Put one drop on every piece at the same time, and time all six together. Do three rounds, each time on a fresh spot. Stop a round at 120 seconds if a drop is still there.",
+   "fair_test": "To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Put each drop on a fresh spot. Time the paper towel, the cotton cloth and the newspaper one at a time. Time the printer paper, the butter paper and the plastic bag together. Do three rounds. Stop a round at 120 seconds if a drop is still there.",
    "results_table": [
     "Surface",
     "Try 1: seconds",
@@ -2296,7 +2296,7 @@
      "qty": 1
     },
     {
-     "item": "a plate or tray to rest the pieces on",
+     "item": "a plate or tray to rest the pieces on, and a second plate for the pepper trick",
      "qty": 1
     },
     {
@@ -2319,7 +2319,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 28,
      "what": "Guess the order. Time one drop on each surface 3 times. Draw a bar chart. Try the pepper and soap trick."
     }
    ],
@@ -2336,17 +2336,17 @@
     },
     {
      "id": "s2",
-     "mins": 4,
-     "do": "1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on each piece, one after the other, quickly. 4. Start the timer when the last drop lands. 5. Look from the side. When a drop's shiny top is gone, write the seconds beside that piece.",
-     "say": "Put one drop on each surface, then start the timer. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.",
-     "kid": "Put one drop on each piece. Start the timer. Write the seconds when each shiny drop is gone.",
+     "mins": 6,
+     "do": "1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on the paper towel and start the timer at the same moment. Look from the side. When the drop's shiny top is gone, stop the timer and write the seconds. 4. Do the same, one at a time, for the cotton cloth and the newspaper. 5. Now put one drop each on the printer paper, the butter paper and the plastic bag, one after another. Start the timer when the last drop lands. 6. Each time a shiny top is gone, write the seconds beside that piece. Stop at 120 seconds.",
+     "say": "Fast surfaces get timed one at a time. Slow ones get timed together. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.",
+     "kid": "Time the paper towel, cotton and newspaper one at a time. Then drop on the other three together. Write the seconds when each shiny drop is gone.",
      "parent": "If the drop is still sitting there after 120 seconds, stop and write 120. That is a result, and it means the surface is waterproof. Use a fresh spot for each try."
     },
     {
      "id": "s3",
-     "mins": 7,
-     "do": "Do two more rounds. Put each new drop on a fresh spot of the same piece. Write down the seconds each time.",
-     "say": "Do two more rounds, six drops each time. Write the seconds. For the plastic, write 120 if the drop is still there.",
+     "mins": 10,
+     "do": "Do two more rounds the same way. Put each new drop on a fresh spot of the same piece. Write down the seconds each time.",
+     "say": "Do two more rounds the same way. Write the seconds. For the plastic bag, write 120 if the drop is still there.",
      "kid": "Do two more rounds. Write the seconds. If a drop is still there after 120, write 120.",
      "parent": "To find the middle value, put the three numbers in order and take the middle one. If one try is very different, check that the drop was the same size."
     },
@@ -2414,14 +2414,6 @@
      "say": "Pepper floats on the water. Now touch the middle with a soapy finger. What happens? The surface of water acts like a thin, stretchy skin. Soap weakens it.",
      "kid": "Sprinkle pepper on a plate of water. Touch the middle with a soapy finger. Watch the pepper!",
      "parent": "The pepper rushes to the edge. The skin of water, called surface tension, is weaker where the soap touches. The stronger skin around pulls the pepper away. The same skin is why a drop is round on the colocasia leaf. The leaf is covered with tiny wax bumps, so the water cannot spread. Agnes Pockels, a woman in Germany, studied this skin in her kitchen."
-    },
-    {
-     "id": "s6",
-     "mins": 2,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What you think, what you saw, and why.",
-     "parent": "A good answer sounds like this. What I think: paper towel is the most absorbent and plastic is waterproof. What I saw: the drop vanished in 2 seconds on paper towel. It was still there after 120 seconds on plastic. Why: the paper towel has tiny gaps that pull water in, and plastic has no gaps."
     }
    ],
    "example_chart": {
@@ -2494,8 +2486,7 @@
    "materials": [
     {
      "item": "a torch",
-     "qty": 1,
-     "buy": "b-torch"
+     "qty": 1
     },
     {
      "item": "a plain wall in a dim room, or in the evening",
@@ -2510,7 +2501,7 @@
      "qty": 10
     },
     {
-     "item": "a thin cotton cloth, and some sheets of newspaper",
+     "item": "a thin cotton cloth cut into 5 small squares, and some sheets of newspaper",
      "qty": 1
     },
     {
@@ -2522,7 +2513,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not shine the torch into anyone's eyes.",
    "schedule": [
     {
      "day": 1,
@@ -2562,7 +2552,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 8,
      "do": "Repeat with tissue paper, thin cloth and newspaper. Write down the number of layers for each.",
      "say": "Now do the same with tissue paper, cloth and newspaper. Which one blocks the light with the fewest layers?",
      "kid": "Do the same with tissue paper, cloth and newspaper. Count the layers each time.",
@@ -2639,14 +2629,6 @@
       ],
       "note": "These numbers are made up. Your numbers will be different, and depend on your torch and your paper."
      }
-    },
-    {
-     "id": "s5",
-     "mins": 2,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What you think, what you saw, and why.",
-     "parent": "A good answer sounds like this. What I think: more layers make a material more opaque. What I saw: one butter paper let a glow through, but 5 layers stopped it. Why: each layer scatters and soaks up some light, so the more layers there are, the less gets through."
     }
    ],
    "example_chart": {
@@ -2816,7 +2798,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use a cool pan only.",
    "schedule": [
     {
      "day": 1,
@@ -2877,7 +2858,7 @@
      "do": "Ask your child to choose another object at home and make a passport at another time.",
      "say": "Which object would you like to make a passport for next? Look for one with more than one material.",
      "kid": "Pick another object at home. Make a passport for it later.",
-     "think": "Which property did you find hardest to decide? Why was it hard?"
+     "think": "Which question gave you an answer you did not expect?"
     }
    ],
    "setup": [
@@ -2914,9 +2895,8 @@
      "qty": 1
     },
     {
-     "item": "a magnifying glass",
-     "qty": 1,
-     "buy": "b-lens"
+     "item": "a magnifying glass, if you have one",
+     "qty": 1
     },
     {
      "item": "paper labels and a pencil",
@@ -2965,7 +2945,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Take the things down. 2. Peg them again in order of how flexible they are: the most flexible at one end. 3. Then again in order of roughness, using a magnifying glass to look at each surface.",
+     "do": "1. Take the things down. 2. Change the labels at the ends to 'most flexible' and 'stiffest'. 3. Peg the things again in order of how flexible they are. 4. Change the labels to 'roughest' and 'smoothest', and peg them again in order of roughness. Use the magnifying glass, if you have one, to look at each surface.",
      "say": "Now do the ladder again, but this time put the most flexible first. Then again for the roughest. Does the order stay the same?",
      "kid": "Make the ladder again. This time for flexible. Then for rough. Does the order change?",
      "check": {
@@ -3024,8 +3004,7 @@
     },
     {
      "item": "a torch",
-     "qty": 1,
-     "buy": "b-torch"
+     "qty": 1
     },
     {
      "item": "a sheet of white paper or a plain wall",
@@ -3040,7 +3019,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not shine the torch into anyone's eyes.",
    "schedule": [
     {
      "day": 1,
@@ -3076,7 +3054,8 @@
       ],
       "a": 0,
       "why": "The red plastic lets red light through and soaks up green. The green plastic lets green through and soaks up red. Together they let almost nothing through. Picking 'yellow' comes from shining a red light and a green light on the same spot, which does make yellow. But filters work by taking colours away, not adding them."
-     }
+     },
+     "parent": "Cheap plastic does not block light perfectly. With red and green together you may see a faint glow, but it should be much darker than with one plastic."
     },
     {
      "id": "s3",
@@ -3126,23 +3105,23 @@
    "days": 1,
    "materials": [
     {
-     "item": "a clear plastic sheet or a very thin chiffon sari",
+     "item": "a large clear plastic sheet, such as a clear table cover or shower curtain",
      "qty": 1
     },
     {
-     "item": "a white cotton veshti or a sheet of butter paper",
+     "item": "a thin white cotton cloth, such as a veshti or a mundu",
      "qty": 1
     },
     {
-     "item": "a tray or a sheet of cardboard",
+     "item": "a thick blanket or a bedsheet folded in four",
      "qty": 1
     },
     {
-     "item": "music",
+     "item": "music, from a phone or a radio",
      "qty": 1
     }
    ],
-   "safety": "Clear a space so no one trips. Do not wrap a veil around anyone's head.",
+   "safety": "Keep the plastic sheet away from faces and heads.",
    "schedule": [
     {
      "day": 1,
@@ -3156,16 +3135,16 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give your child the three props. 2. Explain the three calls. CLEAR means dance behind the clear sheet. MIST means dance behind the cotton. HIDE means dance behind the tray.",
-     "say": "When I call 'clear', dance behind the clear sheet. When I call 'mist', dance behind the cotton. When I call 'hide', dance behind the tray.",
+     "do": "1. Lay out the three veils. 2. Explain the three calls. CLEAR means the dancer is behind the clear sheet. MIST means behind the cotton cloth. HIDE means behind the blanket. 3. The other person holds each veil up like a curtain, at chest height, and the dancer dances behind it.",
+     "say": "When I call 'clear', dance behind the clear sheet. When I call 'mist', dance behind the cotton. When I call 'hide', dance behind the blanket. I will hold each one up.",
      "kid": "Three calls. CLEAR, MIST, HIDE. Each one means a different veil.",
      "context": "This is the first step of the Dance of the Three Veils. A veil is a thin cloth held in front of you. Each veil shows light in a different way."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Play music. 2. Call the words in any order. 3. Your child dances behind the right veil. 4. You watch and say what you can see of them.",
-     "say": "Behind the clear sheet, I can see everything. Behind the cotton, I see a shape. Behind the tray, I see nothing. Let us dance!",
+     "do": "1. Play music. 2. Call the words in any order and hold up the right veil. 3. Your child dances behind it. 4. You watch and say what you can see of them.",
+     "say": "Behind the clear sheet, I can see everything. Behind the cotton, I see a shape. Behind the blanket, I see nothing. Let us dance!",
      "kid": "Dance behind the veil you are called to. Your partner tells what they can see.",
      "ask": [
       {
@@ -3181,9 +3160,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Swap. Your child calls the words and you dance. Talk about what changed.",
-     "say": "Now you call, and I will dance. Which veil is best for hiding? Which is best for watching?",
-     "kid": "Swap places. You call the words now.",
+     "do": "Swap. Your child holds up the veils and calls the words, and you dance. Talk about what changed.",
+     "say": "Now you call and hold up the veils, and I will dance. Which veil is best for hiding? Which is best for watching?",
+     "kid": "Swap places. You call the words and hold up the veils now.",
      "check": {
       "t": "mcq",
       "q": "Early morning fog is thin. You can see a tree through the fog, but the tree looks blurry. Fog is…",
@@ -3207,16 +3186,16 @@
    ],
    "setup": [
     {
-     "art": "A child dancing behind a clear plastic sheet while a parent watches, with every detail of the child visible.",
+     "art": "A child dancing behind a clear plastic sheet held up by a parent, with every detail of the child visible.",
      "caption": "1. CLEAR: dance behind the clear sheet. You can be seen."
     },
     {
-     "art": "A child dancing behind a white cotton veshti, only a soft shape visible.",
+     "art": "A child dancing behind a white cotton veshti held up by a parent, only a soft shape visible.",
      "caption": "2. MIST: dance behind the cotton. Only a blurry shape shows."
     },
     {
-     "art": "A child hiding behind a large tray, only a pair of feet showing below.",
-     "caption": "3. HIDE: dance behind the tray. You cannot be seen."
+     "art": "A child hidden behind a thick blanket held up by a parent, only a pair of feet showing below.",
+     "caption": "3. HIDE: dance behind the blanket. You cannot be seen."
     }
    ]
   },
@@ -3231,11 +3210,11 @@
      "qty": 1
     },
     {
-     "item": "a cork, a steel nail, a plastic lid, a stone, a grape, a wooden spoon, an orange with its peel on",
+     "item": "a cork or a piece of thermocol, a steel nail, a plastic lid, a stone, a coin, a wooden spoon, an orange with its peel on",
      "qty": 7
     },
     {
-     "item": "two same-sized pieces of kitchen foil, and a lump of plasticine or dough",
+     "item": "two same-sized pieces of kitchen foil, each about 20 centimetres square, and a lump of plasticine",
      "qty": 3
     },
     {
@@ -3368,7 +3347,6 @@
      "qty": 1
     }
    ],
-   "safety": "Follow the safety notes of each test you repeat.",
    "schedule": [
     {
      "day": 1,
@@ -3383,7 +3361,7 @@
     {
      "day": 3,
      "mins": 20,
-     "what": "Play your deck. Compare it with the rough deck and find where they differ."
+     "what": "Play your deck. Compare it with the printed Property Trumps cards and find where they differ."
     }
    ],
    "record": "Eight cards, each with a material, a picture and five scores from 0 to 5. Plus a note on what surprised you.",
@@ -3435,16 +3413,16 @@
     {
      "id": "s5",
      "mins": 12,
-     "do": "Play your deck like Property Trumps. Compare your card scores with the rough deck.",
-     "say": "Let's play with our own cards. Then compare them with the rough scores in the first deck.",
-     "kid": "Play your own cards. Then compare them with the first deck."
+     "do": "Play your deck like Property Trumps. Compare your card scores with the scores on the printed Property Trumps cards.",
+     "say": "Let's play with our own cards. Then compare them with the rough scores on the printed cards.",
+     "kid": "Play your own cards. Then compare them with the printed Property Trumps cards."
     },
     {
      "id": "s6",
      "mins": 8,
-     "do": "Ask your child where their scores and the rough deck scores differ, and why.",
-     "say": "Where do your scores and the rough scores disagree? Which do you trust more, and why?",
-     "kid": "Where do your scores differ from the first deck? Which do you trust more?",
+     "do": "Ask your child where their scores and the printed card scores differ, and why.",
+     "say": "Where do your scores and the printed scores disagree? Which do you trust more, and why?",
+     "kid": "Where do your scores differ from the printed cards? Which do you trust more?",
      "think": "Your scores come from tests you did. Why can a test sometimes be more trusted than a guess?"
     }
    ],
@@ -3477,7 +3455,7 @@
     "You may not taste anything."
    ],
    "materials": [
-    "three samples in paper bags, such as aluminium foil, waxed paper and a piece of thin plastic",
+    "three samples in paper bags, such as aluminium foil, butter paper and a piece of thin plastic",
     "a cup of water, a torch, a fridge magnet, a spoon",
     "paper and a pencil"
    ],
@@ -3496,7 +3474,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Give your child the three bags. 2. Explain the rules: six tests for each sample, written down before testing.",
      "say": "Each bag holds a mystery material. You can do six tests on each. Choose the tests carefully. Write each one down first.",
      "kid": "Three bags hold three mystery materials. You may do six tests on each. Write each test down first.",
@@ -3504,7 +3482,7 @@
     },
     {
      "id": "s2",
-     "mins": 7,
+     "mins": 6,
      "do": "Help your child write a list of six tests that tell the most. Then do the same for the other two bags.",
      "say": "Which six tests will tell you the most? Pick tests that split materials into different groups.",
      "kid": "Choose six tests. Make them ones that tell you the most.",
@@ -3521,11 +3499,11 @@
     },
     {
      "id": "s3",
-     "mins": 13,
+     "mins": 15,
      "do": "Do the tests. Write down the result of each in a table. After the last test, write your best guess for each bag.",
      "say": "Do the tests. Write down every result. Then write your guess for what each sample is.",
      "kid": "Do your tests. Write every result. Then write your best guess.",
-     "parent": "Good answers: bag 1 is shiny, flexible, opaque, waterproof and not attracted by the magnet, so it might be foil. Bag 2 is translucent, feels waxy and bends, so it might be waxed paper. Bag 3 is clear or cloudy, flexible and stretchy, so it might be thin plastic."
+     "parent": "Good answers: bag 1 is shiny, flexible, opaque, waterproof and not attracted by the magnet, so it might be foil. Bag 2 is translucent, smooth and bends, so it might be butter paper. Bag 3 is clear or cloudy, flexible and stretchy, so it might be thin plastic."
     },
     {
      "id": "s4",
@@ -3577,6 +3555,7 @@
     "Cut a pattern of small holes, like an Indian jaali screen. Light and air come through, but eyes cannot see a clear picture.",
     "Make a bamboo blind, with thin slats close together. Many Indian homes call these chik blinds.",
     "Hang a khus tatti, a mat of woven grass. In summer, people sprinkle it with water, and it cools the air that comes through.",
+    "Hang a screen of woven coconut leaves, like the ones used in villages in Kerala and Tamil Nadu. Light comes in through the gaps, and eyes cannot see a clear picture.",
     "Stick thin coloured tissue paper in a pattern, like stained glass, and see what the light does."
    ],
    "your_turn": "Now invent your own cover. Draw it, make it and test it. How much light did it let in? How well did it hide the person?",
@@ -3849,7 +3828,7 @@
    "art": "A red clay water pot with beads of water on its sides."
   },
   {
-   "text": "Arbi leaves in the market, where water drops roll like silver beads.",
+   "text": "Colocasia leaves in the market (chembu in Kerala, arbi in the north), where water drops roll like silver beads.",
    "art": "A bunch of colocasia leaves with round drops of water on them."
   },
   {
@@ -3950,10 +3929,6 @@
   {
    "j": "Why did the ruler get promoted?",
    "a": "It measured up."
-  },
-  {
-   "j": "Why did the plastic ruler fail drama class?",
-   "a": "It could only play flat characters."
   }
  ],
  "maths": [
@@ -4138,43 +4113,10 @@
    "url": "",
    "kind": "place",
    "where": "New Delhi",
-   "why": "A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface and think about the property of the iron that has kept it standing."
+   "why": "A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface."
   }
  ],
- "buy": [
-  {
-   "id": "b-ruler",
-   "item": "30 centimetre ruler, plastic or steel",
-   "kind": "tool",
-   "why": "Measures the drop in the droop test.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e2"
-   ]
-  },
-  {
-   "id": "b-lens",
-   "item": "Magnifying glass or hand lens",
-   "kind": "tool",
-   "why": "Helps you see scratches and the rough or smooth surface of things in the Property Ladder.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
-   "used_in": [
-    "a3"
-   ]
-  },
-  {
-   "id": "b-torch",
-   "item": "Small LED torch",
-   "kind": "tool",
-   "why": "Used to sort materials as transparent, translucent or opaque, and in the Privacy Window challenge. A phone torch also works.",
-   "url": "https://www.amazon.in/s?k=led+torch+small",
-   "used_in": [
-    "e5",
-    "a4",
-    "c2"
-   ]
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "A word that tells what a material is like is a ____.",
@@ -4410,5 +4352,6 @@
    "Tennant, S., 'On the nature of the diamond', Philosophical Transactions of the Royal Society, 1797",
    "Lavoisier, A., experiments on the burning of diamond, 1772 (Memoires de l'Academie Royale des Sciences)"
   ]
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family of two would, in a flat. Games: all 36 Property Snap cards, 16 Trumps cards and 20 tokens are written out; the 6 challenge cards now have answers on the back (so they are front and back cards); played both with 2 and 4 players, and fixed the end of Trumps (ties, an empty pile, a 12-minute limit) and a mismatch in the Snap practice step. Experiments: Vanishing Drop was unfair (one timer for six drops, so the paper towel vanished before the timer began), so the fast surfaces are timed one at a time and the slow ones together, and the minutes were raised to 28. In Dry or Damp the damp band is now described clearly, minutes are rebalanced, and the ranges for dry newspaper and thread were softened because they are uncertain (the 'more than 10 cups' rule covers it). Layers to Darkness has several cloth squares. The Veils activity could not work (a child cannot hide behind a tray) so the other person holds each veil, and the chiffon, which is translucent, was removed. In the float lab the grape (often floats or sinks unpredictably) became a coin. The three-sentence wrap-up was repeated in five experiments and is now kept only in Dry or Damp (the core experiment); the freed two minutes went to the measuring steps. Safety lines that were not real hazards were removed (cool pan, torch in eyes, clear a space, safety notes of other tests); the web-shop links in buy were removed because every item is a home item or a phone torch. Waxed paper became butter paper (easier to find), the joke list is nine real jokes, one repeated story question was removed, and a few examples were widened beyond the north (mundu for dupatta, coconut-leaf screen, chembu). Not checked and left as written: exact cup counts in Dry or Damp depend on the family's paper and cup, and the made-up example numbers are only examples."
 }

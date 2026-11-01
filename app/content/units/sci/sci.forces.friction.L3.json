@@ -120,7 +120,7 @@
   },
   {
    "term": "Atom",
-   "meaning": "The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. One grain of sand has more atoms in it than there are grains of sand on all of India's beaches.",
+   "meaning": "The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. One grain of sand is made of more than a billion billion atoms.",
    "example": "Your shoe, the floor and the air are all made of atoms.",
    "art": "A zoom from a shoe to a speck of rubber to a cluster of tiny balls."
   },
@@ -678,14 +678,14 @@
       "Writing with a pencil",
       "A rubber bathroom mat",
       "A rope tied in a knot",
-      "A sled on snow",
+      "Climbing a coconut tree",
       "Car tyres on a mountain road",
       "Carrying a full steel tumbler on a tray",
       "Lighting a matchstick",
       "Pushing a heavy almirah across the floor",
       "A violin bow on the strings",
       "Bare feet on the polished temple floor",
-      "Moving a cart full of sugarcane",
+      "Pulling a handcart full of coconuts",
       "TEST IT: rub your palms together 10 times. Do they feel warm or cold?",
       "TEST IT: slide a coin across paper, then across a cloth. Where does it stop sooner?",
       "TEST IT: try to open a tight jar lid with dry hands. Then try again holding the lid with a cloth.",
@@ -786,7 +786,7 @@
      "do": "1. Take turns. Each player draws a card, reads it out and puts it on a mat. 2. They say why. 3. They say one way people change the friction there. 4. Give one idea token for each good way. Keep going until the 12 cards are used.",
      "say": "When you put your card down, tell me how people make that thing grip more, or slip more.",
      "kid": "Take turns. Read your card. Put it on GRIP or SLIP. Then say how people change the friction there. Each good idea wins a 💡 token.",
-     "parent": "Good answers for more grip: grooves, rubber, sand, grit, or pressing harder. For less friction: oil, water, soap, powder, wheels or polishing. Some cards are tricky. The violin bow needs grip. Players rub a sticky resin called rosin on it. The slide and the carrom board need slip. The matchstick needs grip, because the rubbing makes the heat that lights it."
+     "parent": "Good answers for more grip: grooves, rubber, sand, grit, or pressing harder. For less friction: oil, water, soap, powder, wheels or polishing. Some cards are tricky. Climbing a coconut tree needs grip. The violin bow needs grip. Players rub a sticky resin called rosin on it. The slide and the carrom board need slip. The matchstick needs grip, because the rubbing makes the heat that lights it."
     },
     {
      "id": "s4",
@@ -796,7 +796,7 @@
      "kid": "A TEST IT card! First, guess what will happen. Then do the test. Were you right?",
      "ask": [
       {
-       "q": "One TEST IT card asks you to push an empty tumbler, then a tumbler full of rice. Why was the full one harder to push?",
+       "q": "If you did the tumbler test, why was the tumbler full of rice harder to push than the empty one?",
        "good": [
         "It is heavier, so it presses on the table harder.",
         "Pressing harder makes more friction."
@@ -817,11 +817,11 @@
    "context": "This is a card game about friction in everyday life. Friction is the grip between two things that touch. For each moment on a card, players decide whether we want more friction (grip) or less (slip).",
    "setup": [
     {
-     "art": "Two paper mats on a floor, one with a picture of a gripping shoe and one with a picture of a slide, a pile of face-down picture cards and a bowl of small lightbulb tokens.",
+     "art": "Two paper mats on a floor, one with a picture of a gripping shoe and one with a picture of a slide, a pile of face-down cards and a bowl of small lightbulb tokens.",
      "caption": "1. Lay out the GRIP and SLIP mats. Put the cards face down."
     },
     {
-     "art": "A child reading a picture card and placing it on the GRIP mat.",
+     "art": "A child reading a card and placing it on the GRIP mat.",
      "caption": "2. Take a card. Read it. Put it on GRIP or SLIP and say why."
     },
     {
@@ -841,8 +841,8 @@
      "title": "A day board with 6 moments",
      "items": [
       "1 Waking up and getting out of bed",
-      "2 Brushing teeth and eating breakfast",
-      "3 Walking to the park",
+      "2 Brushing teeth and eating idli for breakfast",
+      "3 Walking to school",
       "4 Writing and drawing",
       "5 Playing a game with friends",
       "6 Going to sleep"
@@ -878,10 +878,10 @@
     }
    ],
    "rules": [
-    "Roll a die. Find that number on the day board. That is your moment of the day. If that moment has already been played, roll again.",
+    "Roll a die. Find that number on the day board. That is your moment of the day. If that moment has already been played, take the next number up that is free. After 6 comes 1.",
     "Imagine that moment with no friction anywhere. Say what happens, or draw it.",
-    "Then take a twist card and change your story to fit it.",
-    "The other players give points. One point if your idea is true to science. One point for the most creative idea. If you play alone, score your own ideas.",
+    "Then take a twist card and change your story to fit it. The twist can be as silly as you like, and it does not need to be true to science.",
+    "The other players give points. One point if what you say would really happen with no friction. One point for the most creative idea of the round. If you play alone, score your own ideas.",
     "After 6 rounds, add up the points. The player with the most points wins. Then everyone votes: would you switch friction back on?"
    ],
    "flow": [
@@ -953,7 +953,7 @@
    "context": "This is an imagination game. Players picture one ordinary day in a world where friction has vanished, and work out what would really happen.",
    "setup": [
     {
-     "art": "A board game sheet showing six pictures of a child's day: waking up, eating, walking, drawing, playing, sleeping, with a die beside it.",
+     "art": "A board game sheet showing six pictures of a child's day: waking up, eating, walking to school, drawing, playing, sleeping, with a die beside it.",
      "caption": "1. Roll the die and go to that moment of the day."
     },
     {
@@ -1205,37 +1205,6 @@
     },
     {
      "t": "mcq",
-     "p": "In the slope test, a shoe started to slide when the raised end of the board was 16 cm high. A sock slid when the end was only 8 cm high. Look at the chart. Which grips better?",
-     "opts": [
-      "The shoe",
-      "The sock",
-      "They grip the same"
-     ],
-     "a": 0,
-     "why": "The shoe stayed put on a much steeper slope. The steeper the slope something can stay on, the more friction it has. Picking 'the sock' usually means a lower number looked better. In this test, higher is better.",
-     "context": "This question is about the slope test. You put a shoe on a flat board, then slowly lift one end until the shoe slides. The higher the end goes first, the better the shoe grips.",
-     "chart": {
-      "type": "bar",
-      "title": "How high the board's end went before each one slid",
-      "x": "Shoe or sock",
-      "y": "Height of the raised end (cm)",
-      "data": [
-       {
-        "label": "Shoe",
-        "value": 16,
-        "emoji": "👟"
-       },
-       {
-        "label": "Sock",
-        "value": 8,
-        "emoji": "🧦"
-       }
-      ]
-     },
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "In cricket, bowlers polish the ball by rubbing it on their trousers. They also wear shoes with spikes. Why?",
      "opts": [
       "Polishing makes one side smooth, so the ball swings in the air. The spikes give grip on the pitch.",
@@ -1383,7 +1352,7 @@
      "a": "Good features include soft rubber, deep grooves to let water out, small bumps or studs, and a wide flat area that touches the stone.",
      "why": "Soft rubber and grooves give more grip on wet surfaces.",
      "art": "An empty shoe-sole outline.",
-     "context": "A ghat is a row of wide stone steps going down to a river. When they are wet and mossy, people slip."
+     "context": "A ghat is a row of wide stone steps going down to a river or a temple tank. When they are wet and mossy, people slip."
     },
     {
      "t": "write",
@@ -1627,32 +1596,6 @@
      "why": "Friction comes from electric pushes and pulls between the atoms of the two surfaces. Picking 'tiny hooks' is close to the old bumps idea, and bumps do play a part. But deep down, even bumps grip through electric forces. Picking gravity mixes up two different forces."
     },
     {
-     "t": "truefalse",
-     "p": "Friction from the ocean tides is very slowly making Earth's days longer.",
-     "a": true,
-     "why": "True. The tides rub on the sea floor, and this slowly brakes the Earth's spin. About 400 million years ago, a day lasted only about 22 hours.",
-     "context": "Tides are the sea rising and falling, about twice a day, mostly because the Moon's gravity pulls on the water.",
-     "answer_chart": {
-      "type": "bar",
-      "title": "How long one day lasted, then and now",
-      "x": "When",
-      "y": "Length of one day (hours)",
-      "data": [
-       {
-        "label": "400 million years ago",
-        "value": 22,
-        "emoji": "🐚"
-       },
-       {
-        "label": "Today",
-        "value": 24,
-        "emoji": "🌍"
-       }
-      ]
-     },
-     "how": "a6"
-    },
-    {
      "t": "write",
      "p": "A film shows a box sliding across a floor and stopping. How could you tell if the film was playing backwards?",
      "lines": 3,
@@ -1727,9 +1670,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Lay the board flat on the floor. 2. Put the first shoe on the board, sole down, near one end. 3. That is the end you will lift.",
+     "do": "1. Lay the board flat on the floor. 2. Put the first shoe on the board, sole down, near one end, with its toe pointing down the slope. 3. That is the end you will lift.",
      "say": "We'll lift this end slowly until the shoe slides. The higher we can lift it before the shoe slides, the better the shoe grips.",
-     "kid": "Lay the board flat. Put a shoe near one end, sole down. You will lift that end slowly. Higher before sliding means better grip."
+     "kid": "Lay the board flat. Put a shoe near one end, sole down, toe pointing down the slope. You will lift that end slowly. Higher before sliding means better grip."
     },
     {
      "id": "s3",
@@ -1737,7 +1680,7 @@
      "do": "1. Lift the shoe's end slowly, about one finger-width each second. 2. Stop the moment the shoe starts to slide. 3. Hold the board still. Measure from the floor to the top of the lifted end. 4. Write the number in the table. 5. Do this 3 times for each shoe.",
      "say": "Lift slowly and steadily. Stop the moment it slides. Now let's measure how high the end is, from the floor up.",
      "kid": "Lift slowly. When the shoe slides, stop! Measure how high the end is. Write it in the table. Test each shoe 3 times.",
-     "parent": "Keep the lifting speed the same each time, so the test is fair. If one try is very different, that's fine. That's why we do three. To find the middle value, put the three numbers in order and take the middle one. The heights depend on how long your board is, so use the same board for every test. If a sock crumples, fold it into a flat pad.",
+     "parent": "Keep the lifting speed the same each time, so the test is fair. If one try is very different, that's fine. That's why we do three. To find the middle value, put the three numbers in order and take the middle one. The heights depend on how long your board is, so use the same board for every test. If a sock crumples, fold it into a flat pad. One of you lifts. The other watches the shoe and says stop when it moves, then you measure.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1894,11 +1837,11 @@
    "fair_test": "Try with 10 pages from each book laid together, then 30 from each, then all the pages. Pull the same way each time, holding each book by its spine. Change only the number of pages.",
    "results_table": [
     "How many pages were laid together",
-    "Easy, hard or impossible to pull apart?"
+    "Easy, hard or very hard to pull apart?"
    ],
    "materials": [
     {
-     "item": "two thick notebooks of the same size, each with about 150 pages or more, such as school long books or old paperback books",
+     "item": "two thick notebooks of the same size, each with about 150 pages or more, such as school long books or old paperback books (the thicker the books, the better this works)",
      "qty": 2
     }
    ],
@@ -1914,17 +1857,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the two notebooks on a table, with their spines facing outwards. Slide them together so their pages overlap by about half a page. 2. Flick down one page from the first book. 3. Flick down one page from the second book on top of it. 4. Keep going, one page from each book in turn, like shuffling cards.",
+     "do": "1. Stand the two notebooks side by side, spines facing outwards. Open them so their edges meet in the middle. 2. Lay one page of the first book over the edge of the second. Then lay one page of the second book on top. 3. Keep going, one page from each book in turn, like shuffling cards. Stop at 10 pages from each book.",
      "say": "We'll lay the pages of these two books in between each other. One page from this book, then one page from that book.",
-     "kid": "Put the two notebooks open edge to open edge. Lay down a page from one book. Then a page from the other on top. Keep going, like shuffling cards.",
+     "kid": "Open two notebooks edge to edge. Lay a page from one book. Then a page from the other on top. Keep going, like shuffling cards. Stop at 10 pages each.",
      "context": "This is the first step of the Books That Won't Let Go experiment. Here you lay the pages of two notebooks over each other."
     },
     {
      "id": "s2",
      "mins": 11,
-     "do": "1. Lay 10 pages from each book together, then try to pull the books apart by their spines. 2. Separate them. Lay 30 pages from each book together and pull again. 3. Last, lay all the pages together and pull.",
+     "do": "1. Hold each book by its spine and pull them apart. 2. Separate the pages. Lay 30 pages from each book together and pull again. 3. Last, lay all the pages together and pull.",
      "say": "Try to pull them apart. Now let's try with more pages. What changes?",
-     "kid": "Lay 10 pages from each book together. Pull the books apart. Easy? Now try 30 from each. Now try all of them. Can you still do it?",
+     "kid": "Hold each spine and pull the books apart. Easy? Now lay 30 pages from each book together and pull. Now try all of them.",
      "ask": [
       {
        "q": "Why is it harder with more pages?",
@@ -1934,14 +1877,14 @@
        ]
       }
      ],
-     "parent": "Laying all the pages takes a few minutes. That is normal. A page here means one sheet. If the books still pull apart easily, make the pages overlap more. How hard it gets depends on your notebooks. If 30 pages from each book is still easy, that is a result too, so write it down."
+     "parent": "Laying all the pages takes a few minutes. That is normal. A page here means one sheet. If the books still pull apart easily, make the pages overlap more. With notebooks of about 150 pages, you may not reach 'impossible'. If all the pages together are only very hard to pull apart, that is an honest result. Write it down. Thicker books with thin pages, such as old paperbacks, work best."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Talk together about why it got so hard.",
-     "say": "Each page grips only a tiny bit. But hundreds of tiny grips add up. And when you pull, the pages squeeze together tighter. On a TV science show, two phone books woven together like this could not be pulled apart. Two heavy trucks pulled them in opposite directions.",
-     "kid": "Each page grips only a tiny bit. But hundreds of tiny grips add up! Pulling squeezes the pages tighter, too. On a TV show, heavy trucks could not pull two phone books apart!",
+     "say": "Each page grips only a tiny bit. But hundreds of tiny grips add up. And when you pull, the pages squeeze together tighter. On the TV show MythBusters, two thick phone books (books of phone numbers) woven together like this could not be pulled apart. Two heavy trucks pulled them in opposite directions.",
+     "kid": "On MythBusters, a TV show, trucks could not pull two thick phone books apart!",
      "think": "Can lots of small things together be stronger than one big thing? Where else do you see that?"
     },
     {
@@ -1950,7 +1893,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Now say or write three things. What do I think? What did I see? Why did it happen?",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lots of pages laid together are almost impossible to pull apart. What I saw: with 10 pages they pulled apart easily, but with all the pages I couldn't do it. Why: every page adds a little friction, and pulling squeezes them tighter."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lots of pages laid together are very hard to pull apart. What I saw: with 10 pages they pulled apart easily, but with all the pages it was very hard. Why: every page adds a little friction, and pulling squeezes them tighter."
     }
    ],
    "context": "In this experiment you weave the pages of two notebooks together, one page from each in turn. Then you try to pull them apart. It shows how many tiny frictions add up.",
@@ -1959,7 +1902,7 @@
     "title": "Made-up example results",
     "cols": [
      "How many pages were laid together",
-     "Easy, hard or impossible?"
+     "Easy, hard or very hard?"
     ],
     "rows": [
      [
@@ -1972,7 +1915,7 @@
      ],
      [
       "All of them",
-      "Impossible"
+      "Very hard"
      ]
     ]
    },
@@ -2006,8 +1949,9 @@
    ],
    "materials": [
     {
-     "item": "a baking tray or a shallow box, filled with dry sand about two fingers deep. Take a few handfuls from a building site or a sand pit, or buy a small bag of play sand or aquarium sand.",
-     "qty": 1
+     "item": "a baking tray or a shallow box with a rim, filled with dry sand about two fingers deep (about 2 kilos). Buy a small bag of play sand or aquarium sand, or building sand from a hardware shop.",
+     "qty": 1,
+     "buy": "b-sand"
     },
     {
      "item": "a small flat-bottomed plastic lunch box or tin to be the 'sledge', with a half-kilo packet of dal, rice or salt inside to make it heavy. A cardboard box goes soggy on wet sand.",
@@ -2049,7 +1993,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Pull the string slowly and steadily, so the box moves across the dry sand. 2. Read the forcemeter while the box is moving, or measure how far the rubber band has stretched. 3. Watch the sand at the front of the box.",
+     "do": "1. Pull the string slowly and steadily, so the box moves along the length of the tray. Pull the same distance every time. 2. Read the forcemeter while the box is moving, or measure how far the rubber band has stretched. 3. Watch the sand at the front of the box.",
      "say": "Pull slowly. Look at the front of the box. What is the sand doing?",
      "kid": "Pull slowly. Read the number on the forcemeter. Look at the front of the box. Is sand piling up?",
      "ask": [
@@ -2074,7 +2018,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Pour in lots more water, until the sand is soaked and muddy. 2. Pull the box again and read the forcemeter.",
+     "do": "1. Pour in lots more water slowly, until the sand is soaked and muddy. 2. Smooth the top. 3. Pull the box again, the same distance, and read the forcemeter.",
      "say": "Now let's do what the water-pourer's daughter in the story did on her first try. She poured far too much water.",
      "kid": "Now pour lots of water, like the girl in the story. She poured too much at first! Pull again. What happens?",
      "parent": "Soaked sand can behave in different ways: the box may sink in, or it may slide on the water. Whatever you find, write it down honestly. The scientists found that too much water made the pull bigger again."
@@ -2082,13 +2026,13 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Put the three results side by side and compare them. Then read what the scientists found.",
+     "do": "Put the three results side by side and compare them. Then tell your child what the scientists found.",
      "say": "In 2014, scientists in Amsterdam did this same test. They found the right amount of water could roughly halve the pull. Why do you think the damp sand worked best?",
      "kid": "In 2014, scientists did this test too. The right amount of water made the pull about half! Why did damp sand work best?",
      "think": "The workers in Egypt knew this about 3,900 years before scientists explained it. How do you think they found out?",
      "check": {
       "t": "mcq",
-      "q": "The scientists tested sand like yours. Which sand needed the smallest pull to move the sledge?",
+      "q": "In the scientists' test, which sand needed the smallest pull to move the sledge?",
       "options": [
        "Dry sand",
        "Just-damp sand",
@@ -2264,8 +2208,9 @@
        "The eraser keeps heat inside it"
       ],
       "a": 0,
-      "why": "When two things rub, their atoms tug and snap free again and again. Each snap leaves the atoms jiggling a little faster. Jiggling atoms are what heat is. So rubbing turns movement into warmth."
-     }
+      "why": "Rubbing makes the tiny particles in both things move faster, and faster-moving particles are what heat is. So rubbing turns movement into warmth."
+     },
+     "parent": "The warmth is small. If you feel nothing, rub harder, or rub the eraser on rough cloth such as jeans, and touch it at once. Your hands in step 1 are the surest test."
     },
     {
      "id": "s3",
@@ -2316,9 +2261,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Help each player choose a role. They can be the cook or the hungry eater. Or the vada that rolls away, or the laddoo that won't stop sliding.",
+     "do": "Help each player choose a role. They can be the cook or the hungry eater. Or the vada that rolls away, or the dosa that slides off the tawa.",
      "say": "We're going to act out making dinner in a kitchen where friction has disappeared. Everything is perfectly slippery.",
-     "kid": "Pick your role. You can be the cook or the hungry eater. Or the vada that rolls away. Or the laddoo that won't stop sliding!",
+     "kid": "Pick your role. You can be the cook or the hungry eater. Or the vada that rolls away. Or the dosa that slides off the tawa!",
      "context": "This is the first step of the Frictionless Kitchen play. Friction is the grip between things that touch. In this play, it has disappeared."
     },
     {
@@ -2341,7 +2286,7 @@
    "context": "This is a short play. You act out cooking and eating dinner in a kitchen where friction has vanished.",
    "setup": [
     {
-     "art": "Children choosing roles for a kitchen play: a cook with a ladle, a child holding a pretend vada, a child as a laddoo.",
+     "art": "Children choosing roles for a kitchen play: a cook with a ladle, a child holding a pretend vada, a child as a dosa.",
      "caption": "1. Choose your roles."
     },
     {
@@ -2390,7 +2335,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay the cloth, the towel and the plastic flat on a table, side by side. Mark a start line on each with a small piece of tape. 2. Put the empty tumbler on the start line of the first one. 3. Tap it near its bottom with one finger, so it slides without tipping over. Tap from the same place, as evenly as you can. See how far it slides. 4. Do the same on each one, with the same tap, three times each.",
+     "do": "1. Lay the cloth, the towel and the plastic flat on a table, side by side. Tape the corners down so the cloth cannot move. Mark a start line on each with a small piece of tape. 2. Put the empty tumbler on the start line of the first one. 3. Tap it near its bottom with one finger, so it slides without tipping over. Tap from the same place, as evenly as you can. See how far it slides. 4. Do the same on each one, with the same tap, three times each.",
      "say": "Which one do you think will stop the tumbler fastest? Why? The one that stops it fastest has the most friction.",
      "kid": "Put the tumbler on the start line. Give it a small tap with one finger. How far does it go? Try the same tap on each one, three times.",
      "ask": [
@@ -2460,7 +2405,6 @@
      "buy": "b-flexmag"
     }
    ],
-   "safety": "Keep magnets away from phones and bank cards.",
    "schedule": [
     {
      "day": 1,
@@ -2633,7 +2577,7 @@
      "buy": "b-puffpaint"
     },
     {
-     "item": "the board and ruler from the slope test",
+     "item": "a flat board about 30 to 40 cm long, and a ruler (the same as in the slope test)",
      "qty": 1
     },
     {
@@ -2664,7 +2608,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Take one sock of the pair and put it flat on the board, near one end. 2. Slowly lift that end until the sock slides. 3. Measure the height of the lifted end with a ruler, and write it down. This sock stays plain, to compare with later.",
+     "do": "1. Take one sock of the pair and put it flat on the board, sole down, near one end. 2. Slowly lift that end until the sock slides. 3. Measure the height of the lifted end with a ruler, and write it down. This sock stays plain, to compare with later.",
      "say": "Socks are slippery on tiles. Let's measure exactly how slippery.",
      "kid": "Put a plain sock on the board. Lift one end slowly until it slides. Measure how high the end is. Write it down.",
      "context": "This is the first step of the Grip Socks Workshop. First, you measure how slippery a plain sock is, using a board lifted at one end."
@@ -2695,7 +2639,7 @@
     {
      "id": "s5",
      "mins": 20,
-     "do": "1. Test the grip sock on the board, the same way as the plain sock. 2. Compare the two heights. 3. Talk about how to improve the design.",
+     "do": "1. Test the grip sock on the board, sole down, the same way as the plain sock. 2. Compare the two heights. 3. Talk about how to improve the design.",
      "say": "How much higher does the board go now before the sock slides? What would you change?",
      "kid": "Test your grip sock on the board. How high can you lift it now? What would make it even better?",
      "check": {
@@ -2771,7 +2715,7 @@
    "constraints": [
     "Keep the same books inside the box for every try.",
     "You can only use things you find at home.",
-    "Measure your pull each time with a forcemeter or a rubber band."
+    "Measure your pull each time, as the box starts to move, with a forcemeter or a rubber band."
    ],
    "materials": [
     "a shoebox or small cardboard box with 2 or 3 books inside",
@@ -2815,7 +2759,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Read the usual solutions and the creative ideas together. Then invent a new one.",
+     "do": "Look at the usual solutions and the creative ideas listed on this challenge. Then invent a new one.",
      "say": "Here is what engineers usually do, and some creative ideas. Can you invent something new?",
      "kid": "Look at the usual ways, and some creative ideas. Now invent your own way. Can you beat them?",
      "think": "Every wheel is a way of beating friction. Why do you think the wheel was such an important invention?"
@@ -2845,7 +2789,7 @@
    "id": "c2",
    "title": "The Ghat Shoe",
    "mins": 25,
-   "problem": "A ghat is a row of wide stone steps going down to a river. When the steps are wet and mossy, people slip. Design a shoe or sandal sole that grips wet stone.",
+   "problem": "A ghat is a row of wide stone steps going down to a river or a temple tank. When the steps are wet and mossy, people slip. Design a shoe or sandal sole that grips wet stone.",
    "constraints": [
     "It must be cheap enough for anyone to buy.",
     "It must be easy to take off at temple doors.",
@@ -2864,7 +2808,7 @@
     "A wide, soft front to the sole, so more rubber touches the stone.",
     "Strips of rough coir, the fibre from coconut husks."
    ],
-   "your_turn": "Draw your sole. Label each part with what it does. Then make a rubber-band version and test it on a wet tile.",
+   "your_turn": "Draw your sole. Label each part with what it does.",
    "flow": [
     {
      "id": "s1",
@@ -2895,9 +2839,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws the sole and labels each part. 2. Wrap rubber bands tightly around an old chappal, as a test version. 3. Press it on a wet tile with your hand and push sideways. Feel how well it grips. Then do the same with a chappal that has no rubber bands. Which one grips better?",
+     "do": "1. Your child draws the sole and labels each part. 2. Press an old chappal on a wet tile with your hand and push sideways. Feel how well it grips. 3. Wrap rubber bands tightly around the same chappal and test it again. Which grips better?",
      "say": "Draw your sole and label what each part does. Then let's test a rubber-band version.",
-     "kid": "Draw your sole. Label each part. Then wrap rubber bands round an old chappal. Test it on a wet tile.",
+     "kid": "Draw your sole. Label each part. Test an old chappal on a wet tile with your hand. Then wrap rubber bands round it and test again.",
      "adult": true,
      "parent": "Rubber bands may help only a little, or not at all. Either way, it is a real result. Say what you saw."
     },
@@ -3030,48 +2974,6 @@
      "caption": "Shoe B: 6 newtons"
     }
    ]
-  },
-  {
-   "t": "mcq",
-   "p": "Look at the bar chart of slope test heights. Which shoe has the tallest bar?",
-   "opts": [
-    "The most slippery shoe",
-    "The grippiest shoe",
-    "The heaviest shoe"
-   ],
-   "a": 1,
-   "why": "The tallest bar means that shoe stayed on the steepest slope. So it grips best. Picking 'slippery' often means the bar was read as 'how fast it slid'. The bar shows how high the board went before sliding.",
-   "outcome": 2,
-   "context": "In the slope test, you lift one end of a board until the shoe on it slides. Then you measure how high the end went.",
-   "chart": {
-    "type": "bar",
-    "title": "How high the board's end went before each one slid (made-up results)",
-    "x": "Shoe or sock",
-    "y": "Height of the raised end (cm)",
-    "data": [
-     {
-      "label": "Rubber chappal",
-      "value": 16,
-      "emoji": "🩴"
-     },
-     {
-      "label": "School shoe",
-      "value": 13,
-      "emoji": "👞"
-     },
-     {
-      "label": "Slipper",
-      "value": 11,
-      "emoji": "🥿"
-     },
-     {
-      "label": "Sock",
-      "value": 8,
-      "emoji": "🧦"
-     }
-    ]
-   },
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -3298,20 +3200,12 @@
    "a": "Let's not be rough on each other."
   },
   {
-   "j": "Why shouldn't you tell jokes on a frozen lake?",
-   "a": "The ice might crack up!"
-  },
-  {
    "j": "What does a slide say when you leave?",
    "a": "See you at the bottom!"
   },
   {
    "j": "What did the floor say to the rubber mat?",
    "a": "I'm so glad we stuck together."
-  },
-  {
-   "j": "Why did the marble win the race?",
-   "a": "It was on a roll."
   },
   {
    "j": "Why is the Moon slowly moving away from Earth?",
@@ -3583,6 +3477,16 @@
    "used_in": [
     "a5"
    ]
+  },
+  {
+   "id": "b-sand",
+   "item": "Fine dry sand, about 2 kilos (play sand, aquarium sand or building sand)",
+   "kind": "material",
+   "why": "The wet sand experiment needs a tray of sand. Pet shops and hardware shops sell small bags.",
+   "url": "https://www.amazon.in/s?k=play+sand+aquarium+sand",
+   "used_in": [
+    "e3"
+   ]
   }
  ],
  "warmup": [
@@ -3715,7 +3619,7 @@
    "before": "explanations",
    "web": "media/friction_explainer.mp4",
    "artifact": "/_blob/1d80d8acc1dc19843d4378bcea727c17",
-   "made_with": "HyperFrames (Apache 2.0), source in app/build/explainers/friction"
+   "made_with": "HyperFrames (Apache 2.0)"
   }
  ],
  "roots": {
@@ -3775,5 +3679,6 @@
   "who": "Benjamin Thompson (Count Rumford), and later James Joule",
   "when": "1798, and the 1840s",
   "wrong_idea": "Heat is an invisible fluid, called caloric, stored inside things. Rumford's blunt drill made heat for as long as the horses turned, so heat could not be a fluid that runs out."
- }
+ },
+ "playtest": "Played both games in my head with 2 and 4 players and wrote out every card, square and token (24 situation cards, 2 mats, 30 tokens; 6 day moments, 12 twist cards, 4 idea-sheet lines); the dice rule in the second game no longer needs endless rerolls, and its scoring now says that only the no-friction part has to be true to science. I followed every experiment, activity, project and challenge step by step in a flat. The books experiment now lays 10 pages first, then 30, then all, and says honestly that 150-page notebooks may only reach 'very hard'. The sand experiment now pulls the same distance, smooths the sand each time and has a sand entry in the buy list. In the ghat challenge the same chappal is tested without and then with rubber bands, so it is a fair test. The eraser step now says the warmth is small. I removed the fridge-magnet safety line, the explainer's file path, two weak jokes (8 remain) and three repeated questions (the slope chart question in the stretch sheet and the quiz, and the tides question in the challenge sheet). I replaced a grains-of-sand comparison I could not check, and swapped a few North-only items for coconut, dosa, idli and a temple tank. Left as they are: the match step stays an optional adult extra outside the core path, and the sliding-in-socks safety line stays because falls are a real risk."
 }

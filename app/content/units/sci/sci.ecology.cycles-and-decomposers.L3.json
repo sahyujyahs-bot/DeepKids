@@ -412,13 +412,37 @@
      "title": "16 nature cards",
      "items": [
       "RAIN! Decomposers can feed. Move your leaf forward 3 squares.",
-      "A millipede chews your leaf into small pieces. Move forward 2 squares.",
+      {
+       "f": "A millipede chews your leaf into small pieces. Move forward 2 squares.",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-1-01.jpg",
+        "credit": "Firos AK, CC BY, via iNaturalist"
+       }
+      },
       "Fungus threads spread through your leaf. Move forward 3 squares.",
       "Bacteria feed on your leaf. Move forward 2 squares.",
-      "An earthworm pulls your leaf into her burrow. Move forward 4 squares.",
+      {
+       "f": "An earthworm pulls your leaf into her burrow. Move forward 4 squares.",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-1-04.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
       "A warm, damp night. Decomposers feed well. Move forward 2 squares.",
-      "A termite takes a bite of your leaf. Move forward 1 square.",
-      "Mushrooms pop up after rain. Move forward 2 squares.",
+      {
+       "f": "A termite takes a bite of your leaf. Move forward 1 square.",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-1-06.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mushrooms pop up after rain. Move forward 2 squares.",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-1-07.jpg",
+        "credit": "Surya, CC0, via iNaturalist"
+       }
+      },
       "DRY SPELL. The decomposers wait for water. Miss your next turn.",
       "HOT SUN dries the heap. Go back 1 square.",
       "COLD WEEK. Decomposers slow down. On your next turn, if your card says move forward, move only 1 square.",
@@ -442,10 +466,34 @@
      "kind": "tokens",
      "title": "4 leaf counters",
      "items": [
-      "a red badam leaf",
-      "a neem leaf",
-      "a mango leaf",
-      "a banana leaf"
+      {
+       "f": "a red badam leaf",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-2-00.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "a neem leaf",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-2-01.jpg",
+        "credit": "sowjan, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "a mango leaf",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-2-02.jpg",
+        "credit": "Prasanta Hembram, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "a banana leaf",
+       "img": {
+        "src": "media/cards/cycles-and-decomposers-g1-2-03.jpg",
+        "credit": "Cheongweei Gan, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],

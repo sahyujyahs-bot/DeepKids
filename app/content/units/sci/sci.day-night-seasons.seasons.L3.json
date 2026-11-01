@@ -591,15 +591,57 @@
      "kind": "cards",
      "title": "10 living thing cards",
      "items": [
-      "Neem tree",
-      "Koel",
-      "Frog",
-      "Pintail duck",
-      "Buffalo",
-      "Sevanthi plant",
+      {
+       "f": "Neem tree",
+       "img": {
+        "src": "media/cards/seasons-g2-0-00.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Koel",
+       "img": {
+        "src": "media/cards/seasons-g2-0-01.jpg",
+        "credit": "Tom Heijnen, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Frog",
+       "img": {
+        "src": "media/cards/seasons-g2-0-02.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pintail duck",
+       "img": {
+        "src": "media/cards/seasons-g2-0-03.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Buffalo",
+       "img": {
+        "src": "media/cards/seasons-g2-0-04.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sevanthi plant",
+       "img": {
+        "src": "media/cards/seasons-g2-0-05.jpg",
+        "credit": "Diane, CC0, via iNaturalist"
+       }
+      },
       "Rice farmer",
       "Fisher family on the east coast",
-      "Olive ridley turtle",
+      {
+       "f": "Olive ridley turtle",
+       "img": {
+        "src": "media/cards/seasons-g2-0-08.jpg",
+        "credit": "Ramnarayan K, CC BY, via iNaturalist"
+       }
+      },
       "Himalayan black bear"
      ]
     },

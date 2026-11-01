@@ -737,14 +737,14 @@
      "do": "1. Turn over one job card at a time. 2. Each player chooses a material and puts it face down. 3. Turn them over together. 4. Each player gives their property reason. 5. Vote, and give a token for the best choice. 6. Take a new material card. Play 8 jobs.",
      "say": "Turn your material over. Tell us the property that makes it right for this job.",
      "kid": "Read the job. Pick your best material. Put it face down. Then turn it over and say why. Say the property!",
-     "parent": "Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge, squashy. If two answers are both good, the clearer reason wins the token."
+     "parent": "Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge or crumpled paper, squashy. If two answers are both good, the clearer reason wins the token."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Count the tokens. Then pick one job where two materials both worked, and talk about which you would really choose.",
-     "say": "For the wedding plate, banana leaf and steel both work. Which would you choose, and why?",
-     "kid": "Count your tokens. Who won? Now think of a feast for 500 people. Banana leaves or steel plates? Why?",
+     "say": "For the window, glass and clear plastic both work. Which would you choose, and why?",
+     "kid": "Count your tokens. Who won? Now think of the window job. Glass or clear plastic? Why?",
      "think": "Is there ever only one right material for a job? What else besides the property helps you choose?"
     }
    ],
@@ -823,7 +823,7 @@
      "id": "s2",
      "mins": 3,
      "do": "The grown-up plays shopkeeper first, selling the chocolate kadai card to show how the game works. Then shuffle that card back into the pile.",
-     "say": "Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying pakoras!",
+     "say": "Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying medu vadas!",
      "kid": "Listen to the shopkeeper. Would you buy a chocolate kadai? What would happen on the gas?",
      "check": {
       "t": "mcq",
@@ -1238,7 +1238,7 @@
     },
     {
      "t": "perspective",
-     "p": "A school in Madurai, where summers are very hot, needs a new roof. Three people each want a different material.",
+     "p": "A school in Nagpur, where summers are very hot, needs a new roof. Three people each want a different material.",
      "views": [
       {
        "who": "Selvi, who keeps the school's accounts",
@@ -1545,7 +1545,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the hot water and keeps the mug steady. Do not touch the spoons in the water. Use water that is hot, not boiling, and stand the mug on a flat, steady surface.",
+   "safety": "A grown-up pours the hot water and keeps the mug steady. Do not touch the part of the spoons that is in the water. Use water that is hot, not boiling, and stand the mug on a flat, steady surface.",
    "schedule": [
     {
      "day": 1,
@@ -1768,7 +1768,7 @@
      "do": "1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. At 30 minutes, write down how big each cube is. 4. Write down when each one has fully melted. Keep checking until all four have melted. The sock's ice can take up to an hour and a half.",
      "say": "Let's check. Which ice cube is smallest now? Which is biggest?",
      "kid": "Every 10 minutes, check each ice cube. Peep inside the sock. Which one is melting fastest? Which is still big?",
-     "parent": "Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different."
+     "parent": "Times depend on your room: on a hot day the bare cube may melt in 20 minutes. The order of the four matters more than the minutes. Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different."
     },
     {
      "id": "s4",
@@ -1876,10 +1876,10 @@
    "title": "The Matka Mystery",
    "mins": 30,
    "days": 1,
-   "context": "This is the Matka Mystery test. You pour the same water into a clay pot, a plastic bottle and a steel bottle, and leave them side by side in the shade for three hours. Then you measure which water is coolest, with a thermometer.",
+   "context": "This is the Matka Mystery test. You pour the same water into a clay pot, a plastic bottle and a steel bottle, and leave them side by side in the shade for three hours. A second steel bottle wrapped in a wet cloth joins them. Then you measure which water is coolest, with a thermometer.",
    "question": "Does a clay pot really keep water cooler than a plastic or steel bottle? Why?",
    "predict": "Guess first. After three hours, which will hold the coolest water: the clay pot, the plastic bottle or the steel bottle? Why do you think so?",
-   "fair_test": "Use the same water, poured from one jug, at the same time. Put the same amount in each. Leave the lids off all three. Stand them side by side in the same shady, breezy place. Measure them all at the same time with the same thermometer.",
+   "fair_test": "Use the same water, poured from one jug, at the same time. Put the same amount in each. Leave the lids off all of them. Stand them side by side in the same shady, breezy place. Measure them all at the same time with the same thermometer.",
    "results_table": [
     "Container",
     "Water temperature at the start (degrees)",
@@ -1897,7 +1897,7 @@
      "qty": 2
     },
     {
-     "item": "a second steel tumbler or bottle like the first, for the wet-cloth test",
+     "item": "a second steel bottle like the first, for the wet-cloth test",
      "qty": 1
     },
     {
@@ -1934,9 +1934,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Pour the same amount of water from one jug into each of the four containers. 2. Measure the water in the jug with the thermometer and write it down. That is the start temperature for all four. 3. Wet the cotton hanky and wrap it round the second steel tumbler. 4. Stand all four side by side in a shady place with a breeze, like a verandah or a window.",
+     "do": "1. Pour the same amount of water from one jug into each of the four containers. 2. Measure the water in the jug with the thermometer and write it down. That is the start temperature for all four. 3. Wet the cotton hanky and wrap it round the second steel bottle. If the cloth dries out, wet it again. 4. Stand all four side by side in a shady place with a breeze, like a balcony or a window ledge.",
      "say": "All four start with the same water, at the same temperature. Only the container is different. That makes it fair.",
-     "kid": "Pour the same water into the pot, both bottles and the second tumbler. Measure it with the thermometer. Write the number. Wrap a wet hanky round the second tumbler. Put them side by side in the shade.",
+     "kid": "Pour the same water into the pot, the plastic bottle and both steel bottles. Measure it with the thermometer. Write the number. Wrap a wet hanky round the second steel bottle. Put them side by side in the shade.",
      "parent": "Read the thermometer at eye level. If you have only a fever thermometer, do not use it in water. A cheap kitchen or bath thermometer works well."
     },
     {
@@ -1971,9 +1971,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Extra test: compare the steel tumbler wrapped in the wet hanky with the steel bottle that had no hanky.",
-     "say": "Can we make the steel work like a clay pot? We gave one steel tumbler a wet coat. Is its water cooler than the dry steel bottle's?",
-     "kid": "Compare the wrapped steel tumbler with the plain steel bottle. Is the water in the wrapped one cooler?",
+     "do": "Extra test: compare the steel bottle wrapped in the wet hanky with the steel bottle that had no hanky.",
+     "say": "Can we make the steel work like a clay pot? We gave one steel bottle a wet coat. Is its water cooler than the dry steel bottle's?",
+     "kid": "Compare the wrapped steel bottle with the plain steel bottle. Is the water in the wrapped one cooler?",
      "think": "Soldiers and travellers once carried water in canvas bags that were always a little wet. Why might that keep the water cool?"
     },
     {
@@ -2088,12 +2088,12 @@
        [
         "Plastic",
         "|||| |||| ||||",
-        "14"
+        "15"
        ],
        [
         "Steel",
         "|||| ||||",
-        "9"
+        "10"
        ],
        [
         "Cloth",
@@ -2219,10 +2219,10 @@
    "title": "Take It Apart",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you take apart an old, broken object, like an umbrella, a ballpoint pen or a torch. You find each material inside it, and work out the job each one does.",
+   "context": "In this activity you take apart an old, broken object, like an umbrella or a ballpoint pen. You find each material inside it, and work out the job each one does.",
    "materials": [
     {
-     "item": "an old broken umbrella, ballpoint pen, torch or chappal that nobody needs",
+     "item": "an old broken umbrella that nobody needs (an old ballpoint pen also works)",
      "qty": 1
     },
     {
@@ -2234,7 +2234,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up uses the screwdriver. Umbrella ribs can be sharp and springy, so a grown-up holds them. Take batteries out of a torch first.",
+   "safety": "A grown-up uses the screwdriver. Umbrella ribs can be sharp and springy, so a grown-up holds them.",
    "schedule": [
     {
      "day": 1,
@@ -2587,7 +2587,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Build the cooler. Wet the sand. Put one coriander bunch inside, and the other in a bowl outside. Measure both temperatures."
+     "what": "Build the cooler. Wet the sand. Put one coriander bunch inside, and the other in a bowl outside. An hour or two later, measure both temperatures."
     },
     {
      "day": 2,
@@ -2621,7 +2621,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Put one coriander bunch inside the small pot. 2. Put the other in a bowl beside the cooler. 3. Keep the cooler in a shady, breezy spot. 4. After an hour or two, measure the temperature inside the small pot and in the air outside. Write both.",
+     "do": "1. Put one coriander bunch inside the small pot. 2. Put the other in a bowl beside the cooler. 3. Keep the cooler in a shady, breezy spot. 4. Leave it for an hour or two. Then measure the temperature inside the small pot and in the air outside. Write both.",
      "say": "One bunch goes in the cooler. Its twin stays outside. That is our fair test.",
      "kid": "Put one coriander bunch in the cooler. Put its twin in a bowl outside. Measure inside and outside. Write both numbers.",
      "parent": "Measure inside after an hour or two, once the pot has had time to cool. In dry, hot weather, the inside is often 5 to 10 degrees cooler than the air. In sticky monsoon weather it cools less."
@@ -2714,7 +2714,7 @@
     "Put a mat or folded cloth underneath, so heat does not leak into the table."
    ],
    "creative": [
-    "Use layers, like a spacecraft's shiny blanket and the Ladakh classroom: a fluffy layer to trap air, with a shiny layer of foil outside it. Foil alone helps only a little.",
+    "Use layers, like a spacecraft's shiny blanket: a fluffy layer to trap air, with a shiny layer of foil outside it. Foil alone helps only a little.",
     "Copy a flask. A flask has two walls with almost no air between them. Can you make two walls with a gap?",
     "Copy a bird. Birds fluff their feathers to trap more air. Can you fluff up your material?"
    ],
@@ -2807,7 +2807,8 @@
      "art": "A child reading a thermometer in each tumbler after 30 minutes, a timer beside them.",
      "caption": "3. After 30 minutes, measure both. How many degrees did you save?"
     }
-   ]
+   ],
+   "safety": "A grown-up pours the hot water and keeps the tumblers steady. Do not touch the water."
   },
   {
    "id": "c2",
@@ -3182,7 +3183,7 @@
    "art": "A coir doormat at a doorstep."
   },
   {
-   "text": "Bamboo scaffolding around a building being built, strong, light and bendy.",
+   "text": "Bamboo scaffolding around a building being built, strong, light and bendy. In Assam and Mizoram, whole houses are built of bamboo.",
    "art": "Bamboo scaffolding tied together around a building."
   },
   {
@@ -3260,10 +3261,6 @@
   {
    "j": "Why did the bamboo win the dance contest?",
    "a": "It could bend without breaking."
-  },
-  {
-   "j": "What did the plastic bottle say on its birthday?",
-   "a": "Only four hundred more to go!"
   },
   {
    "j": "Why did the egg love its box of cotton wool?",
@@ -3369,9 +3366,9 @@
    "why_maths": "A thermometer is the fair judge in the Matka Mystery, because your hand can be fooled. Comparing two days shows that the cooling depends on the weather, and points to evaporation as the reason."
   },
   {
-   "problem": "In the home hunt, a family counted the materials of the objects they found. Plastic: 14. Steel: 9. Cloth: 8. Wood: 6. Glass: 3. How many objects did they find altogether? Which material was found most often?",
-   "answer": "40 objects. Plastic was found most often.",
-   "explain": "Add them up a few at a time. 14 + 9 = 23. 23 + 8 = 31. 31 + 6 = 37. 37 + 3 = 40. The biggest number is 14, for plastic. So plastic was found most often.",
+   "problem": "In the home hunt, a family counted the materials of the objects they found. Plastic: 15. Steel: 10. Cloth: 8. Wood: 6. Glass: 3. How many objects did they find altogether? Which material was found most often?",
+   "answer": "42 objects. Plastic was found most often.",
+   "explain": "Add them up a few at a time. 15 + 10 = 25. 25 + 8 = 33. 33 + 6 = 39. 39 + 3 = 42. The biggest number is 15, for plastic. So plastic was found most often.",
    "math_unit": "math.data.sorting-and-tallies.L3",
    "context": "In the Why Is It Made of That? hunt, you go round your home, write what each object is made of, and keep a tally of each material.",
    "answer_chart": {
@@ -3386,12 +3383,12 @@
      [
       "Plastic",
       "|||| |||| ||||",
-      "14"
+      "15"
      ],
      [
       "Steel",
       "|||| ||||",
-      "9"
+      "10"
      ],
      [
       "Cloth",
@@ -3411,7 +3408,7 @@
      [
       "Altogether",
       "",
-      "40"
+      "42"
      ]
     ]
    },
@@ -3553,37 +3550,6 @@
     "e3",
     "p1"
    ]
-  },
-  {
-   "id": "b-book1",
-   "item": "Rosie Revere, Engineer, by Andrea Beaty",
-   "kind": "book",
-   "why": "A picture book about a girl who builds inventions from odds and ends, and learns that a failed design is a step forward. Ages 5 to 9.",
-   "url": "https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty",
-   "used_in": [
-    "c1",
-    "c2"
-   ]
-  },
-  {
-   "id": "b-book2",
-   "item": "The Most Magnificent Thing, by Ashley Spires",
-   "kind": "book",
-   "why": "A picture book about a girl who tries again and again to make something from materials, until it works. Ages 4 to 8.",
-   "url": "https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires",
-   "used_in": [
-    "a3"
-   ]
-  },
-  {
-   "id": "b-book3",
-   "item": "Stuff Matters, by Mark Miodownik",
-   "kind": "book",
-   "why": "For the parent. A materials scientist explains steel, paper, glass, plastic and more, with true stories. Read parts aloud.",
-   "url": "https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik",
-   "used_in": [
-    "g1"
-   ]
   }
  ],
  "warmup": [
@@ -3716,7 +3682,7 @@
    "what_is_life": "Birds fluff up their feathers on cold mornings to hold more still air. Living things used the trapped-air trick long before people did.",
    "what_is_this_world": "The iron in your spoon was made in stars, long before the Earth formed."
   },
-  "thread": "A clay pot, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. Everything rises from one source, and the spaces between things belong to that whole as much as the things do. So a material is more than its fibres or its clay. Its gaps are working too.",
+  "thread": "A clay pot, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. So a material is more than its fibres or its clay. Its gaps are working too.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
@@ -3761,5 +3727,6 @@
   "who": "Joseph Black, a Scottish chemist and doctor",
   "when": "from the 1760s (his lectures were published in 1803)",
   "wrong_idea": "Different materials in the same room are at different temperatures: iron is colder than wood or wool. Thermometers show they are all the same. Iron only feels colder because it carries heat away from your hand faster."
- }
+ },
+ "playtest": "Played and read the whole unit as a family would, in a city flat with a parent and one child. Counted every printable: Hire a Material has 16 job cards, 16 material cards and 16 tokens; The Silly Shop has 16 product cards and a complaint slip. Neither hides an answer on a card, and both work with 2 players (voting and cards-won rules are covered) and with 4; the material pile reshuffles when it runs out. Followed every experiment step by step: step minutes and schedules add up. In the Matka Mystery the test had three containers in some lines and four in others, so it now says four everywhere, with a second steel bottle (not a tumbler) wrapped in a wet cloth for a fair comparison, and the wet cloth is re-wetted if it dries; the 'verandah' became a balcony or window ledge. The sweater test now says honestly that times change with the room and only the order matters. The Clay Pot Cooler's day 1 now matches its steps (measure an hour or two after building). The home-hunt tally marks did not match the numbers (14 and 9); the example is now 15 and 10, and the maths question and its answer follow (42 objects). Take It Apart is built around an umbrella (the check asks about one), with a pen as the other choice. Added a real safety line to Keep the Coffee Hot (hot water). Tightened the Hot Spoon Race safety wording. Replaced the repeated 500-person feast question in Hire a Material with a glass-or-clear-plastic window question (the feast stays in the Spoon and Plate Parade and the quiz). Removed three picture and parent books from buy that no step uses, one weak joke (nine jokes remain), the 'one source' oneness line in the roots thread, and the Ladakh-classroom reference in a challenge card that did not explain it. For India-wide examples: pakoras became medu vadas, a second Madurai worksheet moved to Nagpur, and bamboo houses of Assam and Mizoram were added. I could not open the three videos to confirm them, so the next editor should check the video links. The 'claim, evidence, reason' closing step repeats in each experiment on purpose, as practice."
 }

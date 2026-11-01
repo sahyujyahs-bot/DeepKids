@@ -35,7 +35,7 @@
 - **Muscle**: The soft parts of your body that move you. A muscle can only pull, by getting shorter. It can never push. *e.g.* The muscle at the front of your upper arm pulls to bend your elbow.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* Your hand, the wall and the air are all made of atoms.
 - **Electron**: A particle far tinier than an atom, found in the outer part of every atom. Electrons carry electric charge, and electrons repel other electrons, which means they push each other away. *e.g.* When your hand presses on a wall, the electrons of your hand and the wall push each other apart.
-- **Newton**: The unit for measuring the size of a force. It is named after the scientist Isaac Newton. You will learn to measure forces in newtons in the Measuring forces unit. *e.g.* Holding up a small apple takes a force of about 1 newton.
+- **Newton**: The unit for measuring the size of a force. It is named after the scientist Isaac Newton. *e.g.* Holding up a small apple takes a force of about 1 newton.
 - **Vector**: Anything that has both a size and a direction, so it is drawn as an arrow. Forces are vectors. So is the wind. *e.g.* A weather map shows the wind as arrows. The arrow says which way and how strong.
 
 ## Explanations
@@ -49,7 +49,7 @@ Nothing starts moving by itself. A ball on the floor stays still until something
 ### What forces do to moving things · *defined*
 **Definition:** A force can start a thing moving, stop it, speed it up, slow it down or change its direction.
 
-Think of one ball bowled in a cricket match. The bowler's push starts it moving. The push from the bat changes the ball's direction and speeds the ball up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape. You will meet that in the Stretching springs unit.
+Think of one ball bowled in a cricket match. The bowler's push starts it moving. The push from the bat changes the ball's direction and speeds the ball up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape.
 - e.g. Start: you push a toy car and it begins to roll.
 - e.g. Stop: a goalkeeper catches the ball.
 - e.g. Speed up: you push a swing as it moves away from you.
@@ -72,7 +72,7 @@ An arrow is the perfect drawing for a force, because an arrow has a length and a
 ### Adding forces: when do they balance? · *defined*
 **Definition:** When forces point the same way, they add up. When they point opposite ways, they work against each other. If they cancel out, they are balanced and nothing changes. If they do not, they are unbalanced and the motion changes.
 
-Imagine a tug of war. On one side, three children pull. On the other side, two children pull. If every child pulls the same amount, the side with three wins. The forces are unbalanced. Now a grown-up joins the two children. If both sides pull equally, the rope does not move. The forces are balanced. Balanced does not mean no forces. It means the forces cancel. A book lying on a table has two balanced forces on it. Gravity pulls it down, and the table pushes it up just as hard. You will go much further with this in Class 4, in the unit on balanced forces.
+Imagine a tug of war. On one side, three children pull. On the other side, two children pull. If every child pulls the same amount, the side with three wins. The forces are unbalanced. Now a grown-up joins the two children. If both sides pull equally, the rope does not move. The forces are balanced. Balanced does not mean no forces. It means the forces cancel. A book lying on a table has two balanced forces on it. Gravity pulls it down, and the table pushes it up just as hard.
 - e.g. Two children push a box from opposite sides equally hard. It stays put.
 - e.g. Two children push a heavy box from the same side. Their pushes add up and it moves more easily.
 - e.g. A hanging lamp is still. The cord pulls it up, and gravity pulls it down, equally.
@@ -258,7 +258,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 
 ## Games
 ### g1 · Arrow Wars: the tug of war card game (20 min)
-- **rules:** Put the rope marker on the chalk line. Shuffle the 30 cards and put them face down in a pile. Deal 5 cards to each player. With 4 players, play as two teams of two. Each team chooses its cards together.; Each round, both players secretly choose 2 cards from their hand. Lay them face down on your side of the rope.; Turn the cards over. An arrow card counts its length. A special card counts nothing by itself. A special card with no arrow to act on does nothing.; Do the special cards in this order: SLIP, SWAP, PUSH THE GROUND, FRIEND JOINS. If both players play the same special card, both of them happen.; Each player adds up their arrows. Take the smaller total from the bigger total. Move the rope marker that many squares towards the player with the bigger total.; If the totals are the same, the forces are balanced. The marker does not move.; Put the used cards in a discard pile. Draw back up to 5 cards. When the pile runs out, shuffle the discard pile to make a new pile.; The first player to pull the marker onto their square 5 wins. If the marker would go past square 5, it stops on square 5. If nobody has won after 10 rounds, the player whose side the marker is on wins.
+- **rules:** Put the rope marker on the chalk line. Shuffle the 30 cards and put them face down in a pile. Deal 5 cards to each player. With 4 players, play as two teams of two. Each team chooses its cards together.; Each round, both players secretly choose 2 cards from their hand. A special card uses up one of your two choices. Lay them face down on your side of the rope.; Turn the cards over. An arrow card counts its length. A special card counts nothing by itself. A special card with no arrow to act on does nothing.; Do the special cards in this order: SLIP, SWAP, PUSH THE GROUND, FRIEND JOINS. If both players play the same special card, both of them happen.; Each player adds up their arrows. Take the smaller total from the bigger total. Move the rope marker that many squares towards the player with the bigger total.; If the totals are the same, the forces are balanced. The marker does not move.; Put the used cards in a discard pile. Draw back up to 5 cards. Whenever the pile runs out, shuffle the discard pile to make a new pile.; The first player to pull the marker onto their square 5 wins. If the marker would go past square 5, it stops on square 5. If nobody has won after 10 rounds, the player whose side the marker is on wins. If the marker is on the chalk line, play one more round.
 - **Printable cards: 30 arrow cards to cut out:** Arrow length 1, a gentle pull (card 1 of 8); Arrow length 1, a gentle pull (card 2 of 8); Arrow length 1, a gentle pull (card 3 of 8); Arrow length 1, a gentle pull (card 4 of 8); Arrow length 1, a gentle pull (card 5 of 8); Arrow length 1, a gentle pull (card 6 of 8); Arrow length 1, a gentle pull (card 7 of 8); Arrow length 1, a gentle pull (card 8 of 8); Arrow length 2, a medium pull (card 1 of 8); Arrow length 2, a medium pull (card 2 of 8); Arrow length 2, a medium pull (card 3 of 8); Arrow length 2, a medium pull (card 4 of 8); Arrow length 2, a medium pull (card 5 of 8); Arrow length 2, a medium pull (card 6 of 8); Arrow length 2, a medium pull (card 7 of 8); Arrow length 2, a medium pull (card 8 of 8); Arrow length 3, a strong pull (card 1 of 6); Arrow length 3, a strong pull (card 2 of 6); Arrow length 3, a strong pull (card 3 of 6); Arrow length 3, a strong pull (card 4 of 6); Arrow length 3, a strong pull (card 5 of 6); Arrow length 3, a strong pull (card 6 of 6); Arrow length 4, a very strong pull (card 1 of 4); Arrow length 4, a very strong pull (card 2 of 4); Arrow length 4, a very strong pull (card 3 of 4); Arrow length 4, a very strong pull (card 4 of 4); SLIP: your opponent's longest arrow counts 0 this round; SWAP: swap one of your arrows with one of your opponent's, before adding up; PUSH THE GROUND: double your shortest arrow this round; FRIEND JOINS: turn over the top card of the pile and add its length
 - **Printable board: A tug of war board: 11 squares in a row, with a rope drawn along them:** Square 5 on the first player's side: the first player wins here; Square 4 on the first player's side; Square 3 on the first player's side; Square 2 on the first player's side; Square 1 on the first player's side; The chalk line in the middle: the marker starts here; Square 1 on the second player's side; Square 2 on the second player's side; Square 3 on the second player's side; Square 4 on the second player's side; Square 5 on the second player's side: the second player wins here
 - **Printable tokens: A rope marker to cut out:** Rope marker: a small paper circle with a knot drawn on it
@@ -289,10 +289,10 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Child mode:* Who won? Look at the last round. Whose total was bigger, and by how much?
   - Note: Pulls that are equal and opposite cancel. Only the leftover pull moves the rope. The Gentle Tug of War activity and the story look at what really decides a real tug of war.
 ### g2 · Push, Pull or Both? Force charades (20 min)
-- **rules:** Shuffle the action cards and put them face down in a pile.; On your turn, take a card and act it out without words. Do not show the card.; The others guess the action. The first right guess wins an arrow token. If nobody guesses in one minute, the actor wins the token.; Then everyone points to the right mat: PUSH, PULL or BOTH. If you disagree, say why. A card can have two good answers if you can explain each. The actor puts the card on the mat you agree on. Then everyone points one arm in the direction of the force.; BONUS cards are forces you cannot act with your hands. Act them out with your whole body. For each bonus card, also say: is it a touching force or a force from far away?; When the cards run out, the player with the most arrow tokens wins. If two players have the same number, they share the win.
-- **Printable cards: 30 action cards to cut out:** Opening a fridge door; Shutting a drawer; Kicking a football; Pulling up your socks; Squeezing toothpaste; Flying a kite; Rowing a boat; Opening a jar lid; Brushing your teeth; Rolling out a chapati; Drawing water from a well; Ringing a temple bell; Pushing a swing; Lifting a school bag; Sweeping with a broom; Bowling a cricket ball; Pulling a cart; Turning a tap; Wringing out a wet towel; Throwing a frisbee; BONUS: a magnet picking up pins; BONUS: a mango falling from a tree; BONUS: a balloon rubbed on hair, pulling up bits of paper; BONUS: a seedling pushing up through soil; BONUS: a rocket blasting off [picture]; BONUS: a bird flapping their wings [picture]; BONUS: the Moon pulling the sea [picture]; BONUS: your heart beating; BONUS: the wind pushing a sailing boat; BONUS: a comet's tail pushed by sunlight [picture]
+- **rules:** Shuffle the action cards and put them face down in a pile.; On your turn, take a card and act it out without words. Do not show the card.; The others guess the action. The first right guess wins an arrow token. If nobody guesses in one minute, the actor wins the token.; Then everyone points to the right mat: PUSH, PULL or BOTH. If you disagree, say why. A card can have two good answers if you can explain each. The actor puts the card on the mat you agree on. Then everyone points one arm in the direction of the force.; BONUS cards are forces you cannot act with your hands. Act them out with your whole body. For each bonus card, also say: is it a touching force or a force from far away?; Play for about 16 minutes, or until the cards run out. The player with the most arrow tokens wins. If two players have the same number, they share the win.
+- **Printable cards: 30 action cards to cut out:** Opening a fridge door; Shutting a drawer; Kicking a football; Pulling up your socks; Squeezing toothpaste; Flying a kite; Rowing a boat; Opening a jar lid; Brushing your teeth; Pounding rice with a wooden pestle; Drawing water from a well; Ringing a temple bell; Pushing a swing; Lifting a school bag; Sweeping with a broom; Bowling a cricket ball; Pulling a cart; Turning a tap; Wringing out a wet towel; Throwing a frisbee; BONUS: a magnet picking up pins; BONUS: a mango falling from a tree; BONUS: a balloon rubbed on hair, pulling up bits of paper; BONUS: a seedling pushing up through soil; BONUS: a rocket blasting off [picture]; BONUS: a bird flapping their wings [picture]; BONUS: the Moon pulling the sea [picture]; BONUS: your heart beating; BONUS: the wind pushing a sailing boat; BONUS: a comet's tail pushed by sunlight [picture]
 - **Printable board: Three answer mats:** PUSH; PULL; BOTH: a push and a pull together
-- **Printable tokens: 20 arrow tokens (paper arrows to cut out):** ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️; ➡️
+- **Printable tokens: 30 arrow tokens (paper arrows to cut out):** Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow); Arrow token (paper arrow)
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the three mats: PUSH, PULL and BOTH. 2. Shuffle the cards and put them face down.  
   *Parent says:* Every action on these cards needs a force. You'll act one out with no words. Then we decide together. Is it a push, a pull, or both?  
@@ -301,9 +301,9 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent does:* 1. Take turns acting out cards. 2. After each guess, everyone points to a mat. 3. Then everyone points one arm the way the force goes.  
   *Parent says:* Which mat? Now point your arm the way the force goes. Is everyone pointing the same way?  
   *Child mode:* Act out your card. Others guess. Point to the right mat. Then point your arm the way the force goes.
-  - Ask: Turning a tap. Is it a push or a pull? (good: Both. One side of my hand pushes, and the other side pulls.; It's a twist, so both.)
+  - Ask: Brushing your teeth. Is it a push or a pull? (good: Both. The brush pushes forward and pulls back.; A push and a pull, one after the other.)
   - Ask: Drawing water from a well. Which way does the force on the bucket point? (good: Up, along the rope.; Towards my hands.)
-  - Note: Some cards have more than one good answer. Brushing teeth is a push and a pull, back and forth. Rolling a chapati is mostly a push. Rowing is a pull on the oar, which pushes the water back. Reward good reasons, not only the expected answer.
+  - Note: Some cards have more than one good answer. Brushing teeth is a push and a pull, back and forth. Pounding rice with a pestle is a push down and a pull back up. Rowing is a pull on the oar, which pushes the water back. Reward good reasons, not only the expected answer.
 - **s3 (4 min)**  
   *Parent does:* When a BONUS card comes up, act it out with your whole body. Then decide: touching force, or force from far away?  
   *Parent says:* This one has no hands in it. Is it a touching force, or does it work from far away?  
@@ -321,7 +321,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **question:** When you push a wall, does the wall push you? Does a harder push make you go further?
 - **predict:** Guess first. You sit on a towel on a smooth floor, with your feet against the wall. You push the wall with your feet. Will you move? Which way? Will a hard push send you further than a gentle push? Why do you think so?
 - **fair test:** Change only how hard you push: gentle, medium and hard. Keep the same towel, the same floor and the same starting place against the wall. Try each push 3 times, because one try can be a fluke.
-- **safety:** Clear the floor around you of furniture and anything sharp. Keep your head away from the wall.
+- **safety:** Clear the floor behind you of furniture and anything sharp, because you slide backwards.
 - **record:** Fill in the table. Draw yourself pushing the wall, with one arrow for your push on the wall and one arrow for the wall's push on you.
 - **results table:** How hard the push was | Try 1: distance slid (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (3 min) · grown-up needed**  
@@ -333,10 +333,10 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent does:* 1. Mark the floor at the back edge of the towel. 2. Your child pushes the wall gently with both feet. 3. Mark where the back edge of the towel stops. 4. Measure between the two marks. 5. Do it 3 times each for a gentle, a medium and a hard push.  
   *Parent says:* Push gently. Now let's measure how far you slid. Now try a medium push. Now your hardest push.  
   *Child mode:* Push gently. Mark where the towel stops. Measure from the first mark. Then push medium, then hard. Do each push 3 times.
-  - Note: Measure from the starting mark, not from the wall, so you count only how far your child moved. If your child hardly slides, try a smoother floor, or a flattened cardboard box instead of the towel. To find the middle value, put the three numbers in order and take the middle one.
+  - Note: Measure from the starting mark, not from the wall, so you count only how far your child moved. A towel on tiles grips a little, so the slide may be short. A flattened cardboard box slides further. Use the same one for every push. To find the middle value, put the three numbers in order and take the middle one.
 - **s3 (4 min)**  
   *Parent does:* Talk about what pushed your child.  
-  *Parent says:* You pushed the wall towards the wall. But you moved the other way. What pushed you?  
+  *Parent says:* You pushed the wall, but you moved away from it. What pushed you?  
   *Child mode:* You pushed the wall. But you moved away from it. What pushed you?
   - Note: Wait for your child's answer before you explain. Then: this is a force pair. Your child pushed the wall, and the wall pushed back on your child, just as hard, the opposite way. The only thing touching their feet was the wall. The wall does not move because it is fixed to the whole house and the Earth.
   - Check: You push a wall with your feet and slide away from it. What pushed you? → **The wall pushed you back**
@@ -353,23 +353,24 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 ### e2 · The Balloon Rocket (30 min)
 - **question:** Which way does a balloon move when it lets its air out? Does more air send it further?
 - **predict:** Guess first. When the air rushes out of the balloon's neck, will the balloon go the same way as the air, or the opposite way? Will a balloon with 9 breaths go further than one with 3 breaths? Why do you think so?
-- **fair test:** Change only the number of breaths: 3, then 6, then 9. Use the same balloon, blown up fresh each time, the same string and the same starting place. Try each one 3 times, because one try can be a fluke.
+- **fair test:** Change only the number of breaths: 3, then 6, then 9. Blow breaths of the same size. Use the same balloon, the same string and the same starting place. Try each one 3 times, because one try can be a fluke.
 - **safety:** Young children can choke on balloons and burst pieces, so throw burst pieces away at once. A grown-up blows up the balloon if the child finds it hard.
 - **record:** Fill in the table. Draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon.
 - **results table:** Breaths of air | Try 1: distance (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
-- **s1 (6 min)**  
+- **s1 (5 min)**  
   *Parent does:* 1. Thread the string through the straw. 2. Tie each end of the string to a chair. 3. Pull the chairs apart until the string is tight.  
   *Parent says:* This string is the rocket's track. The straw will slide along it, carrying our balloon rocket.  
   *Child mode:* Thread the string through the straw. Tie each end to a chair. Pull the chairs apart so the string is tight.
 - **s2 (6 min)**  
-  *Parent does:* 1. Blow 3 breaths into the balloon. 2. Pinch the neck shut. Do not tie it. 3. While one person pinches, the other tapes the balloon under the straw, with its neck pointing towards one chair. 4. Slide it to that chair.  
+  *Parent does:* 1. Tape the empty balloon under the straw, with its neck sticking out past the back of the straw. 2. Slide the straw to the chair at the start, so the neck points at that chair. 3. Blow 3 breaths of the same size into the balloon. 4. Pinch the neck shut. Do not tie it.  
   *Parent says:* Three breaths only. Hold the neck shut. Which way will the air rush out? Which way will the balloon go? Why do you think so?  
-  *Child mode:* Blow 3 breaths into the balloon. Pinch the neck. Tape it under the straw. Which way will it go?
+  *Child mode:* Tape the empty balloon under the straw. Blow 3 breaths. Pinch the neck. Which way will it go?
   - Ask: Which way will the balloon go when you let go? (good: The opposite way to the air.; Away from the neck.)
-- **s3 (10 min)**  
-  *Parent does:* 1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. If it reaches the end of the string, write 'reached the end'. 4. Repeat with 6 breaths and 9 breaths.  
-  *Parent says:* Let go! How far did it go? Now let's try 6 breaths, then 9.  
-  *Child mode:* Let go! Measure how far it went. Write it down. Then try 6 breaths. Then try 9.
+  - Note: If the tape lets go when the balloon swells, tape it again. A grown-up can also tape the blown-up balloon while the child pinches the neck.
+- **s3 (12 min)**  
+  *Parent does:* 1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. If it reaches the end of the string, write 'reached the end'. 4. Slide the straw back to the start, blow up the same balloon again, and repeat until you have 3 tries. 5. Then do 3 tries with 6 breaths, and 3 tries with 9 breaths.  
+  *Parent says:* Let go! How far did it go? Now let's do it again. Then 6 breaths, then 9.  
+  *Child mode:* Let go! Measure how far it went. Write it down. Do 3 tries. Then 6 breaths. Then 9.
   - Note: Ask for your child's answer to the check first. Then: the balloon squeezes the air and pushes it out backwards. The air pushes the balloon forwards just as hard. That forward push is called thrust. Real rockets work the same way, with hot gas instead of air. They do not need air outside to push against.
   - Check: The air rushes out of the balloon's neck backwards. Which way does the balloon go? → **Forwards, the opposite way to the air**
 - **s4 (4 min)**  
@@ -377,7 +378,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent says:* Which went furthest? Why do you think more air made it go further?  
   *Child mode:* Which balloon went furthest? Why do you think so?
   - Think: The balloon with more air went further. Does it push harder, or does it push for longer? How could you find out?
-- **s5 (4 min)**  
+- **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
@@ -397,6 +398,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent does:* 1. Put the ball back in the middle. 2. You and your child blow from opposite edges at the same moment, equally hard. 3. Then one of you blows harder.  
   *Parent says:* Let's both blow from opposite sides, equally hard. What happens? Now I'll blow harder. Now what?  
   *Child mode:* Blow from opposite sides, both at once. Equally hard. What happens? Now one blows harder.
+  - Note: Two people rarely blow exactly equally, so the ball may drift a little. Look for it staying near the middle.
   - Check: Two people blow on the ball from opposite sides, equally hard. What happens? → **The ball stays about where it is, because the pushes balance**
 - **s3 (6 min)**  
   *Parent does:* 1. Put the ball back in the middle. 2. Your child blows from the bottom edge. You blow from the left edge. Blow at the same moment. 3. Watch the way the ball goes.  
@@ -428,7 +430,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent does:* Walk round the home together for 10 minutes. Find at least 12 more pushes and pulls. Your child writes each one in a column.  
   *Parent says:* Now let's hunt the whole house. Door handles, switches, taps, zips, curtains. Find 12 forces.  
   *Child mode:* Hunt the whole house. Find 12 pushes and pulls. Write each one in its column.
-  - Note: Expect these. Door handle and curtains are pulls. A light switch and a mixer button are pushes. A tap and a pressure cooker lid are twists, so both. A drawer is pulled out and pushed in.
+  - Note: Expect these. Door handle and curtains are pulls. A light switch and a mixer button are pushes. A tap and a pressure cooker lid are twists, so both.
 - **s3 (2 min)**  
   *Parent does:* Count each column together.  
   *Parent says:* Which column is longest? Were there more pushes or pulls in our house?  
@@ -483,7 +485,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **safety:** Keep magnets away from phones, bank cards and very young children, who might swallow small ones.
 - **record:** Write how far away the clip jumped to the magnet. Then write whether the magnet could drag the clip through paper, a thin notebook and a thick book.
 - **s1 (7 min)**  
-  *Parent does:* 1. Lay a clip on the table next to a ruler. 2. Move the magnet slowly towards it, and note how far away it is when the clip jumps. 3. Then put the clip on a sheet of paper and move the magnet underneath. 4. Try again with a thin notebook, then a thick book.  
+  *Parent does:* 1. Lay a clip on the table next to a ruler. 2. Move the magnet slowly towards it, and note how far away it is when the clip jumps. 3. Put the clip on a sheet of paper. Hold the paper up in the air and move the magnet under it. 4. Lay the thin notebook on the table with one end sticking out past the edge. Put the clip on that end and move the magnet under it. Then do the same with the thick book.  
   *Parent says:* The magnet hasn't touched the clip, but it jumped. What pulled it?  
   *Child mode:* Move the magnet slowly towards the clip. When does it jump? Then try pulling it through paper and books.
   - Ask: Did the paper stop the pull? (good: No, the pull went right through the paper.; Only the thick book stopped it, because it kept them too far apart.)
@@ -524,10 +526,10 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent does:* Talk about other muscles.  
   *Parent says:* Your heart is a muscle too. It can only squeeze. But the squeeze pushes blood all round your body.  
   *Child mode:* Your heart is a muscle. It can only squeeze. The squeeze pushes your blood around.
-  - Note: Good answer: muscles pull on bones, and the bones push the door. The bones work like levers, which you meet in the Simple machines unit.
+  - Note: Good answer: muscles pull on bones, and the bones push the door. The bones work like levers.
   - Think: If all your muscles only pull, how do you push a door open?
 ### a6 · Push and Pull Dance and Partner Yoga (15 min)
-- **safety:** Move slowly. Partners hold wrists, not fingers. Let go gently, never suddenly.
+- **safety:** Move slowly. Partners hold wrists, not fingers. Let go gently, never suddenly, so nobody falls.
 - **record:** Draw your favourite partner pose, with arrows for each pull or push.
 - **s1 (5 min)**  
   *Parent does:* Play music and call out a force. Your child dances it. Try a slow pull, a sudden push, a twist, and a pull from an invisible magnet.  
@@ -538,11 +540,11 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent says:* Push palms and lean in. If we push equally, we're balanced. Now hold wrists and lean back. Our pulls hold each other up.  
   *Child mode:* Push palms and lean in. Now hold wrists and lean back. Your pulls hold each other up!
   - Ask: What happens if one of us stops pushing? (good: The other one falls forward.; It is not balanced any more.)
+  - Check: Two people lean back holding wrists, and stay still. Their pulls are… → **Balanced**
 - **s3 (5 min)**  
   *Parent does:* Try a partner boat pose: sit facing each other, feet touching, hold hands, and slowly lift your legs together.  
   *Parent says:* Feet together. Hold hands. Pull a little and lift your legs. We only balance if we pull equally.  
   *Child mode:* Sit facing each other with feet touching. Hold hands. Lift your legs slowly. Pull equally!
-  - Check: Two people lean back holding wrists, and stay still. Their pulls are… → **Balanced**
   - Think: In the boat pose, which way does each of you pull? What would happen to your partner if you let go?
 ### a7 · Arrow Spotting: six forces drawn as arrows (20 min)
 - **record:** Make a page of six small drawings or photos. On each one, draw an arrow for the force, and write what it is.
@@ -551,7 +553,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent says:* Today you're a force spotter. Find six pushes or pulls around the home. Draw each one, with an arrow.  
   *Child mode:* You are a force spotter! Find six pushes or pulls around the home. Draw each one with an arrow.
 - **s2 (14 min) · grown-up needed**  
-  *Parent does:* Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Remind them of the three arrow rules.  
+  *Parent does:* Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Give the three arrow rules for each one. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.  
   *Parent says:* Remember the rules. Start the arrow on the thing. Point it the way of the force. Longer for a bigger force.  
   *Child mode:* Start your arrow on the thing. Point it the way of the force. Make it longer for a bigger force.
   - Note: Good finds include wind pushing washing on a line, and a hanging bag with gravity pulling it down and the strap pulling it up. A leaf falling outside the window has gravity pulling it down and the air pushing it up.
@@ -597,7 +599,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **your turn:** Now invent your own way. Draw it with arrows for every push and pull. Then try it.
 - **constraints:** You may not touch the ball with any part of your body.; You may not tip the table.; You may use anything from home, except a grown-up's hands.
 - **general:** Blow on it through a straw, so your breath pushes it.; Wave a magazine to push air at it.; Build a slope with a book, so gravity pulls it down into the cup.
-- **creative:** Tape a steel paper clip to the ball. Then a magnet can pull it from far away.; Rub a balloon on your hair and try to roll the ball with its electric pull. This works only a little, and only on a dry day.; Push a second ball into it, so one ball pushes the other.; Build a ramp with walls made of books. The walls push the ball and steer it.
+- **creative:** Tape a steel paper clip to the ball. Then a magnet can pull it from far away.; Rub a balloon on your hair and try to roll the ball with its electric pull. This works only a little, and only on a dry day.; Roll a second ball into it, so one ball pushes the other.; Build a ramp with walls made of books. The walls push the ball and steer it.
 - **s1 (5 min)**  
   *Parent does:* Set up the table. Read the problem and the rules together.  
   *Parent says:* You can't touch the ball. So how else can you push or pull it?  
@@ -619,7 +621,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 ### c2 · The Marble Bend (25 min)
 - **problem:** Roll a marble from one corner of a tray so it turns a corner and ends in a cup at the other corner. You may only give it one push at the start.
 - **your turn:** Draw your path from above. Draw an arrow at each place where something pushes the marble. Then build it and test it.
-- **constraints:** Only one push, at the start.; The marble must turn at least one corner.; Use only books, card, tape and blocks to build the path.
+- **constraints:** Only one push, at the start.; The marble must turn at least one corner.; Build the path with books, card, tape and blocks. A second marble or a magnet is allowed for the creative ideas.
 - **general:** Put a book as a wall at the corner. When the marble hits it, the wall pushes it in a new direction.; Bend a strip of card into a curved wall, so it pushes the marble round gently.; Tilt the tray slightly so gravity keeps it rolling.
 - **creative:** Make the marble bounce off two walls, like a carrom coin off the edges of the board.; Use a second marble, waiting at the corner, to be hit and sent on.; If you have a steel ball instead of a marble, lay a magnet under the tray at the corner to pull it round.
 - **s1 (4 min)**  
@@ -656,8 +658,8 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 5. (mcq) Two arrows are drawn on a box. One arrow is short and one is long. What does the long arrow tell you?  
    Options: That push is bigger / That push is slower / That push comes from further away / Nothing. Arrows only show direction  
    **Answer:** That push is bigger. *Why:* A force arrow shows two things: the way the force points, and how big it is. A longer arrow means a bigger force. Picking 'only direction' misses the size.
-6. (write) The girl was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.  
-   **Answer:** When the girl pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.. *Why:* A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.
+6. (write) You sit on a towel and push a wall with your feet. You were the one who pushed, but you slide away from the wall. Why? Use the words push and back in your answer.  
+   **Answer:** When I pushed the wall, the wall pushed me back just as hard. That push back moved me away. The wall did not move, because it is fixed to the house.. *Why:* A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.
 7. (truefalse) A steel tumbler standing still on a shelf has no forces acting on it.  
    **Answer:** False. *Why:* False. Gravity pulls the tumbler down, and the shelf pushes it up just as hard. The two forces are balanced, so the tumbler stays still. In the bending ruler activity, you saw a ruler sag under a load, which shows it was pushing up.
 8. (forces) A mango hangs still from its stalk on a tree. Show the forces on the mango with arrows.  
@@ -780,37 +782,28 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 5. (mcq) A football is kicked just as hard, once to the left and once to the right. Why does it end up in different places?  
    Options: The direction of the kick changed / The kick got bigger / The ball got lighter  
    **Answer:** The direction of the kick changed. *Why:* Same strength means same size of force. Only the direction changed, and that alone sends the ball somewhere else.
-6. (mcq) Two girls blow on a ping-pong ball from opposite sides, equally hard. Predict what the ball does.  
-   Options: It stays about where it is / It rolls away fast / It goes off slantwise  
-   **Answer:** It stays about where it is. *Why:* Equal pushes in opposite directions balance. Picking 'slantwise' mixes this up with two pushes from a corner.
-7. (mcq) Where should a force arrow start?  
+6. (mcq) Where should a force arrow start?  
    Options: On the thing the force acts on / Anywhere on the page / On the person doing the pushing  
    **Answer:** On the thing the force acts on. *Why:* The arrow starts on the thing being pushed or pulled, and points the way the force goes. Picking 'on the person' draws the force on the wrong thing.
-8. (mcq) Look at the chart. Both teams pull with 7. Which way will the rope move?  
-   Options: Left / Right / It will stay still  
-   **Answer:** It will stay still. *Why:* 7 and 7 are equal and opposite, so the pulls are balanced and the rope stays still. Picking left or right means one team was imagined as stronger.
-9. (mcq) You jump from a small boat onto the shore. What happens to the boat?  
+7. (mcq) You jump from a small boat onto the shore. What happens to the boat?  
    Options: It moves backwards, away from the shore / It stays still / It follows you to the shore  
    **Answer:** It moves backwards, away from the shore. *Why:* Your feet push the boat backwards as you jump, and the boat pushes you forwards. Picking 'stays still' means the push on the boat was forgotten.
-10. (mcq) A balloon car pushes air out of its back. What moves the car forwards?  
+8. (mcq) A balloon car pushes air out of its back. What moves the car forwards?  
    Options: The air pushing back on the balloon / The wheels pushing themselves / Gravity  
    **Answer:** The air pushing back on the balloon. *Why:* The balloon pushes the air backwards, and the air pushes the balloon, and the car, forwards. The wheels only help it roll.
-11. (mcq) A tug of war rope is pulled tight and is not moving. One end is pulled with 200 newtons. What is the pull at the other end?  
+9. (mcq) A tug of war rope is pulled tight and is not moving. One end is pulled with 200 newtons. What is the pull at the other end?  
    Options: 200 newtons / 400 newtons / 0 newtons  
    **Answer:** 200 newtons. *Why:* A tight, still rope is pulled equally at both ends. Picking 400 means the two ends were added, but it is one pull passing along the rope.
-12. (mcq) Which force works across a gap, without touching?  
-   Options: The Earth pulling a falling leaf / A hand pushing a door / A foot kicking a ball  
-   **Answer:** The Earth pulling a falling leaf. *Why:* Gravity pulls from far away. The door and the ball need touching.
-13. (mcq) A balloon rubbed on your hair lifts tiny bits of paper without touching them. What kind of force is this?  
+10. (mcq) A balloon rubbed on your hair lifts tiny bits of paper without touching them. What kind of force is this?  
    Options: A pull from far away, an electric force / A touching push / It is not a force  
    **Answer:** A pull from far away, an electric force. *Why:* Rubbing gives the balloon an electric charge, which pulls the paper across a gap. Picking 'not a force' misses that the paper moved, and moving needs a force.
-14. (mcq) Muscles can only pull. So how do you kick a ball?  
+11. (mcq) Muscles can only pull. So how do you kick a ball?  
    Options: Muscles pull on the leg bones, and the foot at the end pushes the ball / The muscles push the ball / The ball pulls your foot  
    **Answer:** Muscles pull on the leg bones, and the foot at the end pushes the ball. *Why:* A muscle pulls on a bone, the bone swings, and the foot presses on the ball. A pull inside becomes a push outside.
-15. (mcq) You pull on the Earth too, just as hard as it pulls you. Why doesn't the Earth seem to move?  
+12. (mcq) You pull on the Earth too, just as hard as it pulls you. Why doesn't the Earth seem to move?  
    Options: It is so huge that the pull hardly moves it / You do not really pull it at all / The Moon holds it still  
    **Answer:** It is so huge that the pull hardly moves it. *Why:* The two pulls are the same size, but the Earth is enormous, so it moves far too little to notice. Picking 'you do not pull it' is the usual first guess.
-16. (mcq) Has the question 'what is a force, really?' been fully answered?  
+13. (mcq) Has the question 'what is a force, really?' been fully answered?  
    Options: No. Scientists still argue about it / Yes, long ago / Forces are not real  
    **Answer:** No. Scientists still argue about it. *Why:* Scientists can measure forces very exactly. But Newton, Einstein and physicists today give different answers to what a force really is.
 
@@ -819,7 +812,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - Pilots and ship captains use arrows called vectors to add up the push of their engines and the push of the wind or the sea current.
 - Weather maps show the wind as arrows. India's weather forecasters use them to follow the monsoon.
 - Rockets, from Tipu Sultan's iron rockets to India's moon missions, move by pushing hot gas backwards.
-- Boats are rowed and poled by pushing water or the river bed backwards.
+- Boats are rowed and poled by pushing water or the river bed backwards, from Kerala's snake boats to Kashmir's shikaras.
 - Doctors and physiotherapists study which muscles pull on which bones, to help people walk again after an injury.
 - Lifts, cranes and well buckets use ropes and cables, which can only pull.
 - Magnets pull and push in fridge doors, speakers, electric motors and some fast trains.
@@ -828,11 +821,11 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - Video game designers use force arrows, called vectors, to make characters and balls move in a real way.
 
 ## Spotted around us
-- A vegetable seller pushing a heavy handcart down the lane.
-- A bullock cart or a horse tonga, pulled along by an animal.
+- A dabbawala pushing a handcart of tiffin boxes through a Mumbai street.
+- A bullock cart in a village, or a hand-pulled rickshaw in Kolkata, pulled along by an animal or a person.
 - Drawing water from a well, the rope pulling the bucket up.
 - A tug of war at a school sports day, or vadamvali at Onam in Kerala.
-- Kites on Makar Sankranti, each string pulling its kite towards a rooftop.
+- Kites on Makar Sankranti in Gujarat, each string pulling its kite towards a rooftop.
 - A woman poling a boat on the Kerala backwaters, pushing against the river bed.
 - A peepal tree growing out of an old wall, the tree's roots pushing the bricks apart.
 - The weather map on the news, with arrows showing the monsoon wind.
@@ -863,8 +856,6 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - Why was the magnet so popular? *It was really attractive.*
 - What do you call a lazy kangaroo? *A pouch potato. It won't push itself to jump.*
 - Why did the wall push back? *Because you started it.*
-- Why did the kite feel loved? *Someone was always pulling for it.*
-- What did the floor say to the book? *Don't worry, I've got your back. Well, your bottom.*
 - Why did the rocket do so well in school? *It always pushed itself.*
 - What did the mango say as it fell? *Gravity is really bringing me down.*
 - Why was the heavy almirah so stubborn? *No matter how hard you pushed, it wouldn't be moved.*
@@ -879,7 +870,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - In the Gentle Tug of War, a child pulls with 4 units and a grown-up pulls the other way with 9 units. How much more must the child's team pull to make the forces balanced? **5 more units.**. Balanced means both sides pull equally. The grown-up pulls 9. The child pulls 4. 4 + ? = 9. The missing number is 5, because 9 take away 4 is 5. So the child's team needs 5 more units, perhaps from a friend. (queues `math.algebra.balance-and-missing-numbers.L3`)
 
 ## Song
-Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
+Push, Pull, Hold On (sci.forces.L3): 
 
 ## Links
 - [PhET Forces and Motion Basics: the Net Force screen](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online tug of war. Add pullers to each side, and watch the force arrows add up and the cart move.
@@ -897,8 +888,6 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Paper drinking straws](https://www.amazon.in/s?k=paper+straws) (material): Used for the balloon rocket track, blowing the ball and the balloon car. Used in e2, e3, p1. 
 - [Ping-pong balls](https://www.amazon.in/s?k=table+tennis+balls) (material): Light balls that are easy to push with your breath, for Blow the Ball and Move It Without Touching. Used in e3, c1. 
 - [A bar magnet for children](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Shows a pull from far away. Used in a4, c1. 
-- [Motion: Push and Pull, Fast and Slow, by Darlene R. Stille](https://www.amazon.in/s?k=Motion+Push+and+Pull+Fast+and+Slow+Darlene+Stille) (book): A picture book about pushes, pulls and motion. Used in g2. 
-- [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in which a boy and his dog discover Newton's laws of motion at play. Used in e1. 
 
 ## Warm-up
 - A push or a pull: opening a drawer? → A pull.

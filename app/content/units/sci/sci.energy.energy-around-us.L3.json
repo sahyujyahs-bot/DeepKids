@@ -378,19 +378,73 @@
      "kind": "cards",
      "title": "24 chain cards (print on card and cut out)",
      "items": [
-      "SUN",
-      "SUN",
-      "SUN",
-      "SUN",
-      "rice plant",
-      "urad dal plant",
-      "sesame plant",
+      {
+       "f": "SUN",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-00.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "SUN",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-01.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "SUN",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-02.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "SUN",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-03.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "rice plant",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-04.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "urad dal plant",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-05.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "sesame plant",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-06.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
       "wind blowing",
       "rain filling a dam",
       "tiny sea creatures long ago",
-      "idli",
+      {
+       "f": "idli",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-10.jpg",
+        "credit": "user:Sarvagnya, CC BY 2.5, via Wikimedia Commons"
+       }
+      },
       "sesame oil",
-      "wind turbine",
+      {
+       "f": "wind turbine",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-12.jpg",
+        "credit": "Nikhil0000711, Public domain, via Wikimedia Commons"
+       }
+      },
       "water power station",
       "cooking gas",
       "electricity in the wires",
@@ -486,8 +540,20 @@
      "kind": "cards",
      "title": "6 role cards and 1 HEAT card (cut out)",
      "items": [
-      "SUN",
-      "RICE PLANT",
+      {
+       "f": "SUN",
+       "img": {
+        "src": "media/cards/energy-around-us-g2-0-00.jpg",
+        "credit": "NASA/JPL-Caltech/JAXA, public domain"
+       }
+      },
+      {
+       "f": "RICE PLANT",
+       "img": {
+        "src": "media/cards/energy-around-us-g2-0-01.jpg",
+        "credit": "Nihal Mahesh, CC BY, via iNaturalist"
+       }
+      },
       "IDLI",
       "CHILD",
       "MARBLE LIFTED UP",

@@ -144,7 +144,7 @@
   },
   {
    "term": "Newton",
-   "meaning": "The unit for measuring the size of a force. It is named after the scientist Isaac Newton. You will learn to measure forces in newtons in the Measuring forces unit.",
+   "meaning": "The unit for measuring the size of a force. It is named after the scientist Isaac Newton.",
    "example": "Holding up a small apple takes a force of about 1 newton.",
    "art": "A hand holding a small apple, '1 newton' written beside it."
   },
@@ -174,7 +174,7 @@
    "concept": "What forces do to moving things",
    "status": "defined",
    "definition": "A force can start a thing moving, stop it, speed it up, slow it down or change its direction.",
-   "description": "Think of one ball bowled in a cricket match. The bowler's push starts it moving. The push from the bat changes the ball's direction and speeds the ball up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape. You will meet that in the Stretching springs unit.",
+   "description": "Think of one ball bowled in a cricket match. The bowler's push starts it moving. The push from the bat changes the ball's direction and speeds the ball up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape.",
    "examples": [
     "Start: you push a toy car and it begins to roll.",
     "Stop: a goalkeeper catches the ball.",
@@ -218,7 +218,7 @@
    "concept": "Adding forces: when do they balance?",
    "status": "defined",
    "definition": "When forces point the same way, they add up. When they point opposite ways, they work against each other. If they cancel out, they are balanced and nothing changes. If they do not, they are unbalanced and the motion changes.",
-   "description": "Imagine a tug of war. On one side, three children pull. On the other side, two children pull. If every child pulls the same amount, the side with three wins. The forces are unbalanced. Now a grown-up joins the two children. If both sides pull equally, the rope does not move. The forces are balanced. Balanced does not mean no forces. It means the forces cancel. A book lying on a table has two balanced forces on it. Gravity pulls it down, and the table pushes it up just as hard. You will go much further with this in Class 4, in the unit on balanced forces.",
+   "description": "Imagine a tug of war. On one side, three children pull. On the other side, two children pull. If every child pulls the same amount, the side with three wins. The forces are unbalanced. Now a grown-up joins the two children. If both sides pull equally, the rope does not move. The forces are balanced. Balanced does not mean no forces. It means the forces cancel. A book lying on a table has two balanced forces on it. Gravity pulls it down, and the table pushes it up just as hard.",
    "examples": [
     "Two children push a box from opposite sides equally hard. It stays put.",
     "Two children push a heavy box from the same side. Their pushes add up and it moves more easily.",
@@ -632,13 +632,13 @@
    ],
    "rules": [
     "Put the rope marker on the chalk line. Shuffle the 30 cards and put them face down in a pile. Deal 5 cards to each player. With 4 players, play as two teams of two. Each team chooses its cards together.",
-    "Each round, both players secretly choose 2 cards from their hand. Lay them face down on your side of the rope.",
+    "Each round, both players secretly choose 2 cards from their hand. A special card uses up one of your two choices. Lay them face down on your side of the rope.",
     "Turn the cards over. An arrow card counts its length. A special card counts nothing by itself. A special card with no arrow to act on does nothing.",
     "Do the special cards in this order: SLIP, SWAP, PUSH THE GROUND, FRIEND JOINS. If both players play the same special card, both of them happen.",
     "Each player adds up their arrows. Take the smaller total from the bigger total. Move the rope marker that many squares towards the player with the bigger total.",
     "If the totals are the same, the forces are balanced. The marker does not move.",
-    "Put the used cards in a discard pile. Draw back up to 5 cards. When the pile runs out, shuffle the discard pile to make a new pile.",
-    "The first player to pull the marker onto their square 5 wins. If the marker would go past square 5, it stops on square 5. If nobody has won after 10 rounds, the player whose side the marker is on wins."
+    "Put the used cards in a discard pile. Draw back up to 5 cards. Whenever the pile runs out, shuffle the discard pile to make a new pile.",
+    "The first player to pull the marker onto their square 5 wins. If the marker would go past square 5, it stops on square 5. If nobody has won after 10 rounds, the player whose side the marker is on wins. If the marker is on the chalk line, play one more round."
    ],
    "flow": [
     {
@@ -736,7 +736,7 @@
       "Rowing a boat",
       "Opening a jar lid",
       "Brushing your teeth",
-      "Rolling out a chapati",
+      "Pounding rice with a wooden pestle",
       "Drawing water from a well",
       "Ringing a temple bell",
       "Pushing a swing",
@@ -794,28 +794,38 @@
     },
     {
      "kind": "tokens",
-     "title": "20 arrow tokens (paper arrows to cut out)",
+     "title": "30 arrow tokens (paper arrows to cut out)",
      "items": [
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️",
-      "➡️"
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)",
+      "Arrow token (paper arrow)"
      ]
     }
    ],
@@ -825,7 +835,7 @@
     "The others guess the action. The first right guess wins an arrow token. If nobody guesses in one minute, the actor wins the token.",
     "Then everyone points to the right mat: PUSH, PULL or BOTH. If you disagree, say why. A card can have two good answers if you can explain each. The actor puts the card on the mat you agree on. Then everyone points one arm in the direction of the force.",
     "BONUS cards are forces you cannot act with your hands. Act them out with your whole body. For each bonus card, also say: is it a touching force or a force from far away?",
-    "When the cards run out, the player with the most arrow tokens wins. If two players have the same number, they share the win."
+    "Play for about 16 minutes, or until the cards run out. The player with the most arrow tokens wins. If two players have the same number, they share the win."
    ],
    "flow": [
     {
@@ -844,10 +854,10 @@
      "kid": "Act out your card. Others guess. Point to the right mat. Then point your arm the way the force goes.",
      "ask": [
       {
-       "q": "Turning a tap. Is it a push or a pull?",
+       "q": "Brushing your teeth. Is it a push or a pull?",
        "good": [
-        "Both. One side of my hand pushes, and the other side pulls.",
-        "It's a twist, so both."
+        "Both. The brush pushes forward and pulls back.",
+        "A push and a pull, one after the other."
        ]
       },
       {
@@ -858,7 +868,7 @@
        ]
       }
      ],
-     "parent": "Some cards have more than one good answer. Brushing teeth is a push and a pull, back and forth. Rolling a chapati is mostly a push. Rowing is a pull on the oar, which pushes the water back. Reward good reasons, not only the expected answer."
+     "parent": "Some cards have more than one good answer. Brushing teeth is a push and a pull, back and forth. Pounding rice with a pestle is a push down and a pull back up. Rowing is a pull on the oar, which pushes the water back. Reward good reasons, not only the expected answer."
     },
     {
      "id": "s3",
@@ -1007,9 +1017,9 @@
     },
     {
      "t": "write",
-     "p": "The girl was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.",
+     "p": "You sit on a towel and push a wall with your feet. You were the one who pushed, but you slide away from the wall. Why? Use the words push and back in your answer.",
      "lines": 3,
-     "a": "When the girl pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.",
+     "a": "When I pushed the wall, the wall pushed me back just as hard. That push back moved me away. The wall did not move, because it is fixed to the house.",
      "why": "A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.",
      "how": "e1"
     },
@@ -1573,7 +1583,7 @@
     {
      "t": "truefalse",
      "p": "A heavy truck and a small car crash head-on. For a moment, the truck pushes the car harder than the car pushes the truck.",
-     "a": "False",
+     "a": false,
      "why": "False. The two pushes are a force pair, so they are exactly the same size. The car is thrown about more because it is lighter, so the same push changes its motion more."
     },
     {
@@ -1646,7 +1656,7 @@
      "qty": 2
     }
    ],
-   "safety": "Clear the floor around you of furniture and anything sharp. Keep your head away from the wall.",
+   "safety": "Clear the floor behind you of furniture and anything sharp, because you slide backwards.",
    "schedule": [
     {
      "day": 1,
@@ -1695,13 +1705,13 @@
      "do": "1. Mark the floor at the back edge of the towel. 2. Your child pushes the wall gently with both feet. 3. Mark where the back edge of the towel stops. 4. Measure between the two marks. 5. Do it 3 times each for a gentle, a medium and a hard push.",
      "say": "Push gently. Now let's measure how far you slid. Now try a medium push. Now your hardest push.",
      "kid": "Push gently. Mark where the towel stops. Measure from the first mark. Then push medium, then hard. Do each push 3 times.",
-     "parent": "Measure from the starting mark, not from the wall, so you count only how far your child moved. If your child hardly slides, try a smoother floor, or a flattened cardboard box instead of the towel. To find the middle value, put the three numbers in order and take the middle one."
+     "parent": "Measure from the starting mark, not from the wall, so you count only how far your child moved. A towel on tiles grips a little, so the slide may be short. A flattened cardboard box slides further. Use the same one for every push. To find the middle value, put the three numbers in order and take the middle one."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Talk about what pushed your child.",
-     "say": "You pushed the wall towards the wall. But you moved the other way. What pushed you?",
+     "say": "You pushed the wall, but you moved away from it. What pushed you?",
      "kid": "You pushed the wall. But you moved away from it. What pushed you?",
      "check": {
       "t": "mcq",
@@ -1791,7 +1801,7 @@
    "days": 1,
    "question": "Which way does a balloon move when it lets its air out? Does more air send it further?",
    "predict": "Guess first. When the air rushes out of the balloon's neck, will the balloon go the same way as the air, or the opposite way? Will a balloon with 9 breaths go further than one with 3 breaths? Why do you think so?",
-   "fair_test": "Change only the number of breaths: 3, then 6, then 9. Use the same balloon, blown up fresh each time, the same string and the same starting place. Try each one 3 times, because one try can be a fluke.",
+   "fair_test": "Change only the number of breaths: 3, then 6, then 9. Blow breaths of the same size. Use the same balloon, the same string and the same starting place. Try each one 3 times, because one try can be a fluke.",
    "results_table": [
     "Breaths of air",
     "Try 1: distance (cm)",
@@ -1833,7 +1843,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Build the balloon rocket. Test 3, 6 and 9 breaths. Measure how far it goes."
+     "what": "Build the balloon rocket. Test 3, 6 and 9 breaths, 3 times each. Measure how far it goes."
     }
    ],
    "record": "Fill in the table. Draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon.",
@@ -1843,8 +1853,8 @@
      "caption": "1. Thread the string through a straw. Tie it between two chairs."
     },
     {
-     "art": "A blown-up long balloon held shut at the neck, being taped under the straw.",
-     "caption": "2. Blow up the balloon. Hold the neck shut. Tape it under the straw."
+     "art": "An empty long balloon taped under a drinking straw on the string, its neck sticking out past the back of the straw, then a child blowing into the neck.",
+     "caption": "2. Tape the empty balloon under the straw. Then blow it up and pinch the neck."
     },
     {
      "art": "The balloon whooshing along the string, air rushing out of the neck behind it, a measuring tape on the floor.",
@@ -1854,7 +1864,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
+     "mins": 5,
      "do": "1. Thread the string through the straw. 2. Tie each end of the string to a chair. 3. Pull the chairs apart until the string is tight.",
      "say": "This string is the rocket's track. The straw will slide along it, carrying our balloon rocket.",
      "kid": "Thread the string through the straw. Tie each end to a chair. Pull the chairs apart so the string is tight.",
@@ -1863,9 +1873,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Blow 3 breaths into the balloon. 2. Pinch the neck shut. Do not tie it. 3. While one person pinches, the other tapes the balloon under the straw, with its neck pointing towards one chair. 4. Slide it to that chair.",
+     "do": "1. Tape the empty balloon under the straw, with its neck sticking out past the back of the straw. 2. Slide the straw to the chair at the start, so the neck points at that chair. 3. Blow 3 breaths of the same size into the balloon. 4. Pinch the neck shut. Do not tie it.",
      "say": "Three breaths only. Hold the neck shut. Which way will the air rush out? Which way will the balloon go? Why do you think so?",
-     "kid": "Blow 3 breaths into the balloon. Pinch the neck. Tape it under the straw. Which way will it go?",
+     "kid": "Tape the empty balloon under the straw. Blow 3 breaths. Pinch the neck. Which way will it go?",
      "ask": [
       {
        "q": "Which way will the balloon go when you let go?",
@@ -1874,14 +1884,15 @@
         "Away from the neck."
        ]
       }
-     ]
+     ],
+     "parent": "If the tape lets go when the balloon swells, tape it again. A grown-up can also tape the blown-up balloon while the child pinches the neck."
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. If it reaches the end of the string, write 'reached the end'. 4. Repeat with 6 breaths and 9 breaths.",
-     "say": "Let go! How far did it go? Now let's try 6 breaths, then 9.",
-     "kid": "Let go! Measure how far it went. Write it down. Then try 6 breaths. Then try 9.",
+     "mins": 12,
+     "do": "1. Let go. 2. Measure from the start to where the straw stopped. 3. Write it down. If it reaches the end of the string, write 'reached the end'. 4. Slide the straw back to the start, blow up the same balloon again, and repeat until you have 3 tries. 5. Then do 3 tries with 6 breaths, and 3 tries with 9 breaths.",
+     "say": "Let go! How far did it go? Now let's do it again. Then 6 breaths, then 9.",
+     "kid": "Let go! Measure how far it went. Write it down. Do 3 tries. Then 6 breaths. Then 9.",
      "check": {
       "t": "mcq",
       "q": "The air rushes out of the balloon's neck backwards. Which way does the balloon go?",
@@ -1929,7 +1940,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "how": "e2",
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
@@ -2043,7 +2054,8 @@
       ],
       "a": 1,
       "why": "Equal pushes from opposite sides balance, so the ball stays about where it is. Picking 'races off' means one blow was pictured as stronger."
-     }
+     },
+     "parent": "Two people rarely blow exactly equally, so the ball may drift a little. Look for it staying near the middle."
     },
     {
      "id": "s3",
@@ -2082,7 +2094,7 @@
        ],
        [
         "One straw from the bottom, one from the top, equally",
-        "It wobbled but stayed in the middle"
+        "It wobbled but stayed near the middle"
        ],
        [
         "One straw from the bottom, one from the left",
@@ -2116,7 +2128,7 @@
      ],
      [
       "One straw from the bottom, one from the top, equally",
-      "It wobbled but stayed in the middle"
+      "It wobbled but stayed near the middle"
      ],
      [
       "One straw from the bottom, one from the left",
@@ -2196,7 +2208,7 @@
      "do": "Walk round the home together for 10 minutes. Find at least 12 more pushes and pulls. Your child writes each one in a column.",
      "say": "Now let's hunt the whole house. Door handles, switches, taps, zips, curtains. Find 12 forces.",
      "kid": "Hunt the whole house. Find 12 pushes and pulls. Write each one in its column.",
-     "parent": "Expect these. Door handle and curtains are pulls. A light switch and a mixer button are pushes. A tap and a pressure cooker lid are twists, so both. A drawer is pulled out and pushed in."
+     "parent": "Expect these. Door handle and curtains are pulls. A light switch and a mixer button are pushes. A tap and a pressure cooker lid are twists, so both."
     },
     {
      "id": "s3",
@@ -2216,7 +2228,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a thick soft rope, or two old dupattas or sarees twisted together",
+     "item": "a thick soft rope, or two old sarees or lungis twisted together",
      "qty": 1
     },
     {
@@ -2225,6 +2237,10 @@
     },
     {
      "item": "a floor that does not slip, such as bare tiles for bare feet, with cushions behind each player",
+     "qty": 1
+    },
+    {
+     "item": "a strip of tape or a stick, to mark the middle line on the floor",
      "qty": 1
     },
     {
@@ -2432,7 +2448,7 @@
      "qty": 4
     },
     {
-     "item": "a sheet of paper and a thin book",
+     "item": "a sheet of paper, a thin notebook and a thick book",
      "qty": 1
     },
     {
@@ -2476,7 +2492,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Lay a clip on the table next to a ruler. 2. Move the magnet slowly towards it, and note how far away it is when the clip jumps. 3. Then put the clip on a sheet of paper and move the magnet underneath. 4. Try again with a thin notebook, then a thick book.",
+     "do": "1. Lay a clip on the table next to a ruler. 2. Move the magnet slowly towards it, and note how far away it is when the clip jumps. 3. Put the clip on a sheet of paper. Hold the paper up in the air and move the magnet under it. 4. Lay the thin notebook on the table with one end sticking out past the edge. Put the clip on that end and move the magnet under it. Then do the same with the thick book.",
      "say": "The magnet hasn't touched the clip, but it jumped. What pulled it?",
      "kid": "Move the magnet slowly towards the clip. When does it jump? Then try pulling it through paper and books.",
      "ask": [
@@ -2663,7 +2679,7 @@
      "say": "Your heart is a muscle too. It can only squeeze. But the squeeze pushes blood all round your body.",
      "kid": "Your heart is a muscle. It can only squeeze. The squeeze pushes your blood around.",
      "think": "If all your muscles only pull, how do you push a door open?",
-     "parent": "Good answer: muscles pull on bones, and the bones push the door. The bones work like levers, which you meet in the Simple machines unit."
+     "parent": "Good answer: muscles pull on bones, and the bones push the door. The bones work like levers."
     }
    ],
    "context": "In this activity, you feel your arm muscles pull, then build a cardboard arm with two strings for muscles. It shows that muscles can only pull."
@@ -2679,7 +2695,7 @@
      "qty": 1
     }
    ],
-   "safety": "Move slowly. Partners hold wrists, not fingers. Let go gently, never suddenly.",
+   "safety": "Move slowly. Partners hold wrists, not fingers. Let go gently, never suddenly, so nobody falls.",
    "schedule": [
     {
      "day": 1,
@@ -2725,14 +2741,7 @@
         "It is not balanced any more."
        ]
       }
-     ]
-    },
-    {
-     "id": "s3",
-     "mins": 5,
-     "do": "Try a partner boat pose: sit facing each other, feet touching, hold hands, and slowly lift your legs together.",
-     "say": "Feet together. Hold hands. Pull a little and lift your legs. We only balance if we pull equally.",
-     "kid": "Sit facing each other with feet touching. Hold hands. Lift your legs slowly. Pull equally!",
+     ],
      "check": {
       "t": "mcq",
       "q": "Two people lean back holding wrists, and stay still. Their pulls are…",
@@ -2743,7 +2752,14 @@
       ],
       "a": 0,
       "why": "Leaning back and staying still means the two pulls cancel, so they are balanced. Picking 'unbalanced' means you would both be falling one way."
-     },
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Try a partner boat pose: sit facing each other, feet touching, hold hands, and slowly lift your legs together.",
+     "say": "Feet together. Hold hands. Pull a little and lift your legs. We only balance if we pull equally.",
+     "kid": "Sit facing each other with feet touching. Hold hands. Lift your legs slowly. Pull equally!",
      "think": "In the boat pose, which way does each of you pull? What would happen to your partner if you let go?"
     }
    ],
@@ -2795,7 +2811,7 @@
      "id": "s2",
      "mins": 14,
      "adult": true,
-     "do": "Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Remind them of the three arrow rules.",
+     "do": "Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Give the three arrow rules for each one. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
      "say": "Remember the rules. Start the arrow on the thing. Point it the way of the force. Longer for a bigger force.",
      "kid": "Start your arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
      "parent": "Good finds include wind pushing washing on a line, and a hanging bag with gravity pulling it down and the strap pulling it up. A leaf falling outside the window has gravity pulling it down and the air pushing it up."
@@ -2993,7 +3009,7 @@
    "creative": [
     "Tape a steel paper clip to the ball. Then a magnet can pull it from far away.",
     "Rub a balloon on your hair and try to roll the ball with its electric pull. This works only a little, and only on a dry day.",
-    "Push a second ball into it, so one ball pushes the other.",
+    "Roll a second ball into it, so one ball pushes the other.",
     "Build a ramp with walls made of books. The walls push the ball and steer it."
    ],
    "your_turn": "Now invent your own way. Draw it with arrows for every push and pull. Then try it.",
@@ -3064,7 +3080,7 @@
    "constraints": [
     "Only one push, at the start.",
     "The marble must turn at least one corner.",
-    "Use only books, card, tape and blocks to build the path."
+    "Build the path with books, card, tape and blocks. A second marble or a magnet is allowed for the creative ideas."
    ],
    "materials": [
     "a marble",
@@ -3233,19 +3249,6 @@
   },
   {
    "t": "mcq",
-   "p": "Two girls blow on a ping-pong ball from opposite sides, equally hard. Predict what the ball does.",
-   "opts": [
-    "It stays about where it is",
-    "It rolls away fast",
-    "It goes off slantwise"
-   ],
-   "a": 0,
-   "why": "Equal pushes in opposite directions balance. Picking 'slantwise' mixes this up with two pushes from a corner.",
-   "how": "e3",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
    "p": "Where should a force arrow start?",
    "opts": [
     "On the thing the force acts on",
@@ -3255,38 +3258,6 @@
    "a": 0,
    "why": "The arrow starts on the thing being pushed or pulled, and points the way the force goes. Picking 'on the person' draws the force on the wrong thing.",
    "how": "a7",
-   "outcome": 3
-  },
-  {
-   "t": "mcq",
-   "p": "Look at the chart. Both teams pull with 7. Which way will the rope move?",
-   "opts": [
-    "Left",
-    "Right",
-    "It will stay still"
-   ],
-   "a": 2,
-   "why": "7 and 7 are equal and opposite, so the pulls are balanced and the rope stays still. Picking left or right means one team was imagined as stronger.",
-   "context": "In a tug of war, two teams pull a rope in opposite directions. The bigger total pull wins.",
-   "chart": {
-    "type": "bar",
-    "title": "The pulls in the tug of war",
-    "x": "Team",
-    "y": "Total pull (made-up units)",
-    "data": [
-     {
-      "label": "Left team",
-      "value": 7,
-      "emoji": "⬅️"
-     },
-     {
-      "label": "Right team",
-      "value": 7,
-      "emoji": "➡️"
-     }
-    ]
-   },
-   "how": "a2",
    "outcome": 3
   },
   {
@@ -3326,18 +3297,6 @@
    "why": "A tight, still rope is pulled equally at both ends. Picking 400 means the two ends were added, but it is one pull passing along the rope.",
    "how": "a2",
    "outcome": 4
-  },
-  {
-   "t": "mcq",
-   "p": "Which force works across a gap, without touching?",
-   "opts": [
-    "The Earth pulling a falling leaf",
-    "A hand pushing a door",
-    "A foot kicking a ball"
-   ],
-   "a": 0,
-   "why": "Gravity pulls from far away. The door and the ball need touching.",
-   "outcome": 5
   },
   {
    "t": "mcq",
@@ -3395,7 +3354,7 @@
   "Pilots and ship captains use arrows called vectors to add up the push of their engines and the push of the wind or the sea current.",
   "Weather maps show the wind as arrows. India's weather forecasters use them to follow the monsoon.",
   "Rockets, from Tipu Sultan's iron rockets to India's moon missions, move by pushing hot gas backwards.",
-  "Boats are rowed and poled by pushing water or the river bed backwards.",
+  "Boats are rowed and poled by pushing water or the river bed backwards, from Kerala's snake boats to Kashmir's shikaras.",
   "Doctors and physiotherapists study which muscles pull on which bones, to help people walk again after an injury.",
   "Lifts, cranes and well buckets use ropes and cables, which can only pull.",
   "Magnets pull and push in fridge doors, speakers, electric motors and some fast trains.",
@@ -3405,11 +3364,11 @@
  ],
  "spotted": [
   {
-   "text": "A vegetable seller pushing a heavy handcart down the lane.",
-   "art": "A vegetable handcart being pushed, an arrow behind it."
+   "text": "A dabbawala pushing a handcart of tiffin boxes through a Mumbai street.",
+   "art": "A handcart stacked with tiffin boxes being pushed, an arrow behind it."
   },
   {
-   "text": "A bullock cart or a horse tonga, pulled along by an animal.",
+   "text": "A bullock cart in a village, or a hand-pulled rickshaw in Kolkata, pulled along by an animal or a person.",
    "art": "A bullock pulling a cart, the arrow along the yoke."
   },
   {
@@ -3421,7 +3380,7 @@
    "art": "Two teams pulling a thick rope on a field."
   },
   {
-   "text": "Kites on Makar Sankranti, each string pulling its kite towards a rooftop.",
+   "text": "Kites on Makar Sankranti in Gujarat, each string pulling its kite towards a rooftop.",
    "art": "A sky full of kites over rooftops, strings pulling down."
   },
   {
@@ -3498,14 +3457,6 @@
   {
    "j": "Why did the wall push back?",
    "a": "Because you started it."
-  },
-  {
-   "j": "Why did the kite feel loved?",
-   "a": "Someone was always pulling for it."
-  },
-  {
-   "j": "What did the floor say to the book?",
-   "a": "Don't worry, I've got your back. Well, your bottom."
   },
   {
    "j": "Why did the rocket do so well in school?",
@@ -3606,8 +3557,7 @@
  ],
  "song": {
   "topic_level": "sci.forces.L3",
-  "title": "Push, Pull, Hold On",
-  "note": "Topic-level song for Forces L3"
+  "title": "Push, Pull, Hold On"
  },
  "links": [
   {
@@ -3720,26 +3670,6 @@
    "used_in": [
     "a4",
     "c1"
-   ]
-  },
-  {
-   "id": "b-book1",
-   "item": "Motion: Push and Pull, Fast and Slow, by Darlene R. Stille",
-   "kind": "book",
-   "why": "A picture book about pushes, pulls and motion.",
-   "url": "https://www.amazon.in/s?k=Motion+Push+and+Pull+Fast+and+Slow+Darlene+Stille",
-   "used_in": [
-    "g2"
-   ]
-  },
-  {
-   "id": "b-book2",
-   "item": "Newton and Me, by Lynne Mayer",
-   "kind": "book",
-   "why": "A picture book in which a boy and his dog discover Newton's laws of motion at play.",
-   "url": "https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer",
-   "used_in": [
-    "e1"
    ]
   }
  ],
@@ -3934,5 +3864,6 @@
   "when": "1687 to 1969",
   "story": "For a long time, many people believed that a rocket needs air to push against. A swimmer pushes water and a bird pushes air, so people thought a rocket must push on something outside it too. In 1919, the American scientist Robert Goddard wrote that a rocket might one day reach the Moon. In January 1920, the newspaper The New York Times laughed at him. It said a rocket could not work in empty space, because there is nothing there to push against. Goddard had already tested this. He fired small rockets inside a closed container with most of the air pumped out. They still pushed forward, as well as in air or even better. The answer was a rule Isaac Newton wrote down in 1687: every push comes with an equal push back. A rocket pushes its own hot gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. On 17 July 1969, as Apollo 11 flew towards the Moon, the newspaper printed a correction.",
   "wrong_idea": "People thought a rocket needs outside air to push against, so it could never work in empty space. Goddard's rockets pushed forward inside a container with the air pumped out."
- }
+ },
+ "playtest": "Played both games in my head with 2 and with 4 players and counted every printed piece: Arrow Wars has 30 cards (26 arrows, 4 specials), an 11-square board, one marker; Force charades has 30 cards and needs 30 tokens, because every card can award one (it said 20 before). I made a draw on the chalk line in Arrow Wars play one more round, said a special card uses one of the two chosen cards, and gave the charades game a time limit so it fits the 20 minutes. Then I did every experiment, activity, project and challenge step by step in a flat. The balloon rocket needed re-taping the balloon for every try, so the balloon is now taped on empty and re-blown, minutes are 5+6+12+4+3, and breaths must be the same size. The magnet-through-a-book step had no way to hold the paper, so the clip now sits on paper held in the air or on a book sticking out past the table edge. The tug of war now lists its middle-line tape, the dance activity's check moved to the step it asks about, the wall-push safety line now names the real hazard (sliding backwards), the wall experiment says honestly that a towel may give a short slide, and blowing from opposite sides only keeps the ball near the middle. I removed internal notes (video check notes, the song note, the two picture books whose used_in did not match any step, names of other units), cut two jokes to leave 8, dropped three quiz questions that repeated checks elsewhere, fixed the unintroduced girl in the wall worksheet question, a True/False answer typed as text, and swapped a few North-only examples (chapati, tonga) for pestle rice pounding, a Mumbai dabbawala, a Kolkata rickshaw, Gujarat kites, lungis and Kashmir shikaras. Not changed: the sources list (editors only), the story, the roots and the deep truth. Videos exist on YouTube (titles match) but were not watched."
 }

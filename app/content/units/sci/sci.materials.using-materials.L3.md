@@ -179,7 +179,7 @@ We have been learning why we choose each material for its job. Now we ask what m
 - *what is life:* Birds fluff up their feathers on cold mornings to hold more still air. Living things used the trapped-air trick long before people did.
 - *what is this world:* The iron in your spoon was made in stars, long before the Earth formed.
 
-A clay pot, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. Everything rises from one source, and the spaces between things belong to that whole as much as the things do. So a material is more than its fibres or its clay. Its gaps are working too.
+A clay pot, a sweater and a flask look like solid things. But each one works because of what lies between its parts: tiny holes, pockets of still air, or an empty gap. So a material is more than its fibres or its clay. Its gaps are working too.
 
 - **Tao Te Ching 11:** We shape clay into a pot. But it is the empty space inside that makes the pot useful. (The gaps in wool are not truly empty. They are full of still air. But like the space inside Laozi's pot, they are what make the sweater useful. The tiny holes in a clay pot do the same for cool water.)
 - **Chandogya Upanishad 6.1.4:** Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay. (A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways.)
@@ -262,11 +262,11 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent does:* 1. Turn over one job card at a time. 2. Each player chooses a material and puts it face down. 3. Turn them over together. 4. Each player gives their property reason. 5. Vote, and give a token for the best choice. 6. Take a new material card. Play 8 jobs.  
   *Parent says:* Turn your material over. Tell us the property that makes it right for this job.  
   *Child mode:* Read the job. Pick your best material. Put it face down. Then turn it over and say why. Say the property!
-  - Note: Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge, squashy. If two answers are both good, the clearer reason wins the token.
+  - Note: Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge or crumpled paper, squashy. If two answers are both good, the clearer reason wins the token.
 - **s4 (3 min)**  
   *Parent does:* Count the tokens. Then pick one job where two materials both worked, and talk about which you would really choose.  
-  *Parent says:* For the wedding plate, banana leaf and steel both work. Which would you choose, and why?  
-  *Child mode:* Count your tokens. Who won? Now think of a feast for 500 people. Banana leaves or steel plates? Why?
+  *Parent says:* For the window, glass and clear plastic both work. Which would you choose, and why?  
+  *Child mode:* Count your tokens. Who won? Now think of the window job. Glass or clear plastic? Why?
   - Think: Is there ever only one right material for a job? What else besides the property helps you choose?
 ### g2 · The Silly Shop (20 min)
 - **rules:** Choose a shopkeeper. Put the silly product cards face down.; The shopkeeper takes the top card and tries to sell it, praising it loudly.; Each customer says what will go wrong when they use it, names the property that causes the problem, and names a better material.; A customer who gives all three wins the card. If more than one does, the first to finish wins it. If no customer does, the shopkeeper keeps the card.; The next player becomes shopkeeper. Play 8 cards. The player with the most cards wins. If tied, share the win.
@@ -278,7 +278,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Welcome to the Silly Shop! Everything here is made of the wrong material. Can you find the problem before you buy?
 - **s2 (3 min)**  
   *Parent does:* The grown-up plays shopkeeper first, selling the chocolate kadai card to show how the game works. Then shuffle that card back into the pile.  
-  *Parent says:* Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying pakoras!  
+  *Parent says:* Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying medu vadas!  
   *Child mode:* Listen to the shopkeeper. Would you buy a chocolate kadai? What would happen on the gas?
   - Check: What is the real problem with a chocolate kadai? → **Chocolate melts when it gets warm**
 - **s3 (11 min)**  
@@ -297,7 +297,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **question:** Which spoon carries heat up to your hand fastest: steel, plastic or wood?
 - **predict:** Before you start, line up the three spoons. Put the one you think will melt its butter first at the front, and the one you think will melt it last at the back. Then say why you put them in that order.
 - **fair test:** To make it fair, change only the spoon's material. Use the same size of butter blob on each spoon, at the same height, one finger-width above the rim of the mug. Stand all three spoons in the same mug of hot water at the same moment. Time them with the same clock.
-- **safety:** A grown-up pours the hot water and keeps the mug steady. Do not touch the spoons in the water. Use water that is hot, not boiling, and stand the mug on a flat, steady surface.
+- **safety:** A grown-up pours the hot water and keeps the mug steady. Do not touch the part of the spoons that is in the water. Use water that is hot, not boiling, and stand the mug on a flat, steady surface.
 - **record:** Fill in the table. Then draw a bar for each spoon, as tall as the minutes it took. If a blob never melted, draw the bar to the top and write 'did not melt'.
 - **results table:** Spoon | Minutes until the butter melted and slid | How the top of the spoon felt when the race ended
 - **s1 (3 min)**  
@@ -350,7 +350,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent does:* 1. Every 10 minutes, look at each ice cube. 2. For the sock, gently peep inside. 3. At 30 minutes, write down how big each cube is. 4. Write down when each one has fully melted. Keep checking until all four have melted. The sock's ice can take up to an hour and a half.  
   *Parent says:* Let's check. Which ice cube is smallest now? Which is biggest?  
   *Child mode:* Every 10 minutes, check each ice cube. Peep inside the sock. Which one is melting fastest? Which is still big?
-  - Note: Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different.
+  - Note: Times depend on your room: on a hot day the bare cube may melt in 20 minutes. The order of the four matters more than the minutes. Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different.
 - **s4 (4 min)**  
   *Parent does:* Draw a bar chart of how long each ice cube lasted.  
   *Parent says:* Let's draw a bar for each wrapping. The tallest bar lasted longest.  
@@ -365,7 +365,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 ### e3 · The Matka Mystery (30 min)
 - **question:** Does a clay pot really keep water cooler than a plastic or steel bottle? Why?
 - **predict:** Guess first. After three hours, which will hold the coolest water: the clay pot, the plastic bottle or the steel bottle? Why do you think so?
-- **fair test:** Use the same water, poured from one jug, at the same time. Put the same amount in each. Leave the lids off all three. Stand them side by side in the same shady, breezy place. Measure them all at the same time with the same thermometer.
+- **fair test:** Use the same water, poured from one jug, at the same time. Put the same amount in each. Leave the lids off all of them. Stand them side by side in the same shady, breezy place. Measure them all at the same time with the same thermometer.
 - **record:** Fill in the table. Work out how many degrees each one cooled down. Draw what the outside of the clay pot looked like.
 - **results table:** Container | Water temperature at the start (degrees) | Water temperature after 3 hours (degrees) | Did the outside feel damp?
 - **s1 (4 min)**  
@@ -373,9 +373,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent says:* In many Indian homes, drinking water is kept in a clay pot in summer. People say it keeps the water cool. Is that true? And if it is, how?  
   *Child mode:* Feel the outside of the clay pot. Is it damp? People say a clay pot keeps water cool. Shall we test it?
 - **s2 (7 min)**  
-  *Parent does:* 1. Pour the same amount of water from one jug into each of the four containers. 2. Measure the water in the jug with the thermometer and write it down. That is the start temperature for all four. 3. Wet the cotton hanky and wrap it round the second steel tumbler. 4. Stand all four side by side in a shady place with a breeze, like a verandah or a window.  
+  *Parent does:* 1. Pour the same amount of water from one jug into each of the four containers. 2. Measure the water in the jug with the thermometer and write it down. That is the start temperature for all four. 3. Wet the cotton hanky and wrap it round the second steel bottle. If the cloth dries out, wet it again. 4. Stand all four side by side in a shady place with a breeze, like a balcony or a window ledge.  
   *Parent says:* All four start with the same water, at the same temperature. Only the container is different. That makes it fair.  
-  *Child mode:* Pour the same water into the pot, both bottles and the second tumbler. Measure it with the thermometer. Write the number. Wrap a wet hanky round the second tumbler. Put them side by side in the shade.
+  *Child mode:* Pour the same water into the pot, the plastic bottle and both steel bottles. Measure it with the thermometer. Write the number. Wrap a wet hanky round the second steel bottle. Put them side by side in the shade.
   - Note: Read the thermometer at eye level. If you have only a fever thermometer, do not use it in water. A cheap kitchen or bath thermometer works well.
 - **s3 (10 min)**  
   *Parent does:* 1. Leave the containers for 3 hours. 2. Then feel the outside of each one. 3. Measure the water in each with the thermometer. 4. Write the numbers in the table.  
@@ -384,9 +384,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   - Note: Use an unglazed pot. A shiny glazed or painted pot has its pores sealed, so it cools much less. On a dry, warm, breezy day, the clay pot water is often 3 to 8 degrees cooler than the bottles. On a sticky monsoon day, the difference is smaller, because water evaporates slowly into damp air. Either result is good science.
   - Check: The clay pot water was coolest, and the outside of the clay pot was damp. Why is it cooler? → **Water seeped through the clay and evaporated, taking heat away**
 - **s4 (5 min)**  
-  *Parent does:* Extra test: compare the steel tumbler wrapped in the wet hanky with the steel bottle that had no hanky.  
-  *Parent says:* Can we make the steel work like a clay pot? We gave one steel tumbler a wet coat. Is its water cooler than the dry steel bottle's?  
-  *Child mode:* Compare the wrapped steel tumbler with the plain steel bottle. Is the water in the wrapped one cooler?
+  *Parent does:* Extra test: compare the steel bottle wrapped in the wet hanky with the steel bottle that had no hanky.  
+  *Parent says:* Can we make the steel work like a clay pot? We gave one steel bottle a wet coat. Is its water cooler than the dry steel bottle's?  
+  *Child mode:* Compare the wrapped steel bottle with the plain steel bottle. Is the water in the wrapped one cooler?
   - Think: Soldiers and travellers once carried water in canvas bags that were always a little wet. Why might that keep the water cool?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -430,7 +430,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Now pick steel. Find every job steel does in your home. Count them!
   - Check: Spoons can be made of steel, wood, plastic or coconut shell. What does this show? → **One job can be done by many materials**
 ### a3 · Take It Apart (20 min)
-- **safety:** A grown-up uses the screwdriver. Umbrella ribs can be sharp and springy, so a grown-up holds them. Take batteries out of a torch first.
+- **safety:** A grown-up uses the screwdriver. Umbrella ribs can be sharp and springy, so a grown-up holds them.
 - **record:** Draw the object exploded into its parts, like a puzzle pulled apart. Label each part's material and job.
 - **s1 (3 min)**  
   *Parent does:* Choose the old object. Before taking it apart, ask your child to guess how many materials are inside it.  
@@ -501,7 +501,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 ### p1 · Build a Clay Pot Cooler (70 min, 3 days)
 - **safety:** Wet clay pots full of sand are heavy. A grown-up lifts and carries them.
 - **record:** Each day, write the temperature inside the cooler and outside it. Draw the two coriander bunches side by side.
-- **schedule:** day 1: Build the cooler. Wet the sand. Put one coriander bunch inside, and the other in a bowl outside. Measure both temperatures. (30 min); day 2: Pour more water on the sand. Measure the temperature inside and outside. Look at the coriander. (15 min); day 3: Measure again. Compare the coriander. Write what you found and how you would improve the cooler. (25 min)
+- **schedule:** day 1: Build the cooler. Wet the sand. Put one coriander bunch inside, and the other in a bowl outside. An hour or two later, measure both temperatures. (30 min); day 2: Pour more water on the sand. Measure the temperature inside and outside. Look at the coriander. (15 min); day 3: Measure again. Compare the coriander. Write what you found and how you would improve the cooler. (25 min)
 - **s1 (6 min)**  
   *Parent does:* Tell your child about Mohammed Bah Abba and Mansukhbhai Prajapati, and show them the two pots.  
   *Parent says:* In the 1990s, a teacher in Nigeria, Mohammed Bah Abba, made a cooler from two clay pots and wet sand. It helped farmers keep vegetables fresh with no electricity. In Gujarat, a potter, Mansukhbhai Prajapati, made a whole clay fridge. Today we build our own.  
@@ -511,7 +511,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent says:* The sand holds water like a sponge. The water will seep out through the big pot's clay and evaporate.  
   *Child mode:* Stand the big pot on a tray. Put sand in the big pot. Stand the small pot on top. Fill the gap with sand. Pour water on the sand. Cover with a wet cloth.
 - **s3 (12 min)**  
-  *Parent does:* 1. Put one coriander bunch inside the small pot. 2. Put the other in a bowl beside the cooler. 3. Keep the cooler in a shady, breezy spot. 4. After an hour or two, measure the temperature inside the small pot and in the air outside. Write both.  
+  *Parent does:* 1. Put one coriander bunch inside the small pot. 2. Put the other in a bowl beside the cooler. 3. Keep the cooler in a shady, breezy spot. 4. Leave it for an hour or two. Then measure the temperature inside the small pot and in the air outside. Write both.  
   *Parent says:* One bunch goes in the cooler. Its twin stays outside. That is our fair test.  
   *Child mode:* Put one coriander bunch in the cooler. Put its twin in a bowl outside. Measure inside and outside. Write both numbers.
   - Note: Measure inside after an hour or two, once the pot has had time to cool. In dry, hot weather, the inside is often 5 to 10 degrees cooler than the air. In sticky monsoon weather it cools less.
@@ -531,10 +531,11 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 ## Challenges
 ### c1 · Keep the Coffee Hot (58 min)
 - **problem:** A tumbler of hot filter coffee goes cold before anyone gets back to drink it. Design a cosy from home materials that keeps a tumbler of hot water as hot as possible for 30 minutes.
+- **safety:** A grown-up pours the hot water and keeps the tumblers steady. Do not touch the water.
 - **your turn:** Now invent your own cosy. Draw it, build it and test it against a bare tumbler. How many degrees did your cosy save?
 - **constraints:** Use only materials you find at home.; The cosy must come off easily, so someone can drink.; Test it fairly: same tumbler, same amount of hot water, same time.
 - **general:** Wrap the tumbler in a thick layer of wool or cloth, which traps air.; Put a lid on top. A lot of heat escapes from the open top.; Put a mat or folded cloth underneath, so heat does not leak into the table.
-- **creative:** Use layers, like a spacecraft's shiny blanket and the Ladakh classroom: a fluffy layer to trap air, with a shiny layer of foil outside it. Foil alone helps only a little.; Copy a flask. A flask has two walls with almost no air between them. Can you make two walls with a gap?; Copy a bird. Birds fluff their feathers to trap more air. Can you fluff up your material?
+- **creative:** Use layers, like a spacecraft's shiny blanket: a fluffy layer to trap air, with a shiny layer of foil outside it. Foil alone helps only a little.; Copy a flask. A flask has two walls with almost no air between them. Can you make two walls with a gap?; Copy a bird. Birds fluff their feathers to trap more air. Can you fluff up your material?
 - **s1 (5 min)**  
   *Parent does:* 1. Explain the challenge. 2. Together, list materials at home that might keep heat in. 3. Your child draws a design.  
   *Parent says:* Engineers design first and build second. Which materials do you think will keep the heat in? Why?  
@@ -636,7 +637,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    **Answer:** the metal body → conducts heat from the flame to the food; the handle → insulator, stays cool to hold; the rubber ring in the lid → stretchy, seals the steam in; the heavy weight on top → heavy, holds the steam in until it is very hot. *Why:* A pressure cooker is four materials doing four jobs. A strong answer sees that no single material could do all of them.
 8. (sort) Some of these keep heat in with trapped air. Others cool things down by evaporation. Sort them.  
    **Answer:** a woollen shawl → Trapped air keeps heat in; a fluffy quilt → Trapped air keeps heat in; a crow with fluffed-up feathers on a cold morning → Trapped air keeps heat in; a wet cloth on a hot forehead → Evaporation cools; sweat on your skin → Evaporation cools; a clay pot of water → Evaporation cools. *Why:* These are the two big ideas of the unit. Trapped still air slows heat leaving. Evaporating water takes heat away.
-9. (perspective) A school in Madurai, where summers are very hot, needs a new roof. Three people each want a different material.  
+9. (perspective) A school in Nagpur, where summers are very hot, needs a new roof. Three people each want a different material.  
    **Answer:** Any choice can be strong. A strong answer names a property, for example: tin is a good conductor, so it gets very hot in the Sun and heats the room below. Then it is fair to another side, for example: clay tiles can crack, or concrete costs more but lasts much longer.. *Why:* Cost, strength, how long it lasts and how hot the room gets all matter. Real builders weigh them up. There is no single right answer.
 10. (mcq) A girl tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?  
    Options: The water should start at the same temperature in both / She should use only one tumbler / Cotton cannot be tested / Nothing is wrong  
@@ -769,7 +770,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - A pressure cooker: a metal pot with a black plastic handle.
 - Banana leaves used as plates at a feast or a temple meal.
 - Coir doormats and coir ropes, made from rough, strong coconut husk fibre.
-- Bamboo scaffolding around a building being built, strong, light and bendy.
+- Bamboo scaffolding around a building being built, strong, light and bendy. In Assam and Mizoram, whole houses are built of bamboo.
 - A woollen pheran or shawl in winter, trapping still air.
 - Shiny steel tiffins carried in cloth bags by Mumbai's dabbawalas.
 
@@ -801,7 +802,6 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - Why did the glass chappal go to the doctor? *It had a crack in its sole.*
 - What do you call a rubber band that tells stories? *A stretcher of the truth.*
 - Why did the bamboo win the dance contest? *It could bend without breaking.*
-- What did the plastic bottle say on its birthday? *Only four hundred more to go!*
 - Why did the egg love its box of cotton wool? *It never cracked under pressure.*
 - Why did the copper wire get top marks? *It was a good conductor in class.*
 - Why did the sponge do so well at school? *It absorbed everything.*
@@ -810,7 +810,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - In the Hot Spoon Race, the butter on the steel spoon melted after 4 minutes. The butter on the plastic spoon melted after 14 minutes. The wooden spoon's butter had still not melted when the test stopped at 15 minutes. Look at the chart. How many minutes longer did the plastic spoon take than the steel one? What can you say for sure about the wooden spoon? **The plastic spoon took 10 minutes longer. The wooden spoon took at least 11 minutes longer than the steel one, and maybe much more.**. The plastic spoon took 14 minutes and the steel spoon took 4. 14 take away 4 is 10. The wooden spoon's butter had not melted at 15 minutes. 15 take away 4 is 11. So the wood took at least 11 minutes longer. We cannot say exactly how much longer, because we stopped watching. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In the sweater and ice cube test, the ice on the bare plate melted in 40 minutes. The ice in the woollen sock lasted 95 minutes. Look at the chart. Put the four wrappings in order, from the one that kept the ice longest to the one that kept it shortest. Then: how many more minutes did the sock's ice last than the bare plate's? **Woollen sock, foil, steel tumbler, bare plate. The sock's ice lasted 55 minutes longer.**. Read the height of each bar: sock 95, foil 55, steel tumbler 45, bare plate 40. Put them from biggest to smallest: 95, 55, 45, 40. Then 95 take away 40 is 55. So the sock's ice lasted 55 minutes longer. (queues `math.data.bar-charts.L3`)
 - Look at the thermometer in the picture. It is standing in the water from the clay pot, after 3 hours on a dry day. Each small mark is 1 degree. What does it read? The water in the plastic bottle read 29 degrees. On a sticky monsoon day, the same test gave 28 degrees in the clay pot and 29 in the bottle. On which day did the clay pot cool the water more? Why? **The thermometer reads 24 degrees. On the dry day the clay pot water was 5 degrees cooler. On the monsoon day it was only 1 degree cooler. The clay pot cooled more on the dry day, because water evaporates faster into dry air.**. Find the top of the coloured line. It is 4 small marks above 20, so it reads 24 degrees. 29 take away 24 is 5. On the monsoon day, 29 take away 28 is 1. 5 is bigger than 1, so the clay pot cooled more on the dry day. Damp air already holds a lot of water, so less water evaporates from the clay, and less heat is taken away. (queues `math.temperature.reading-thermometers.L3`)
-- In the home hunt, a family counted the materials of the objects they found. Plastic: 14. Steel: 9. Cloth: 8. Wood: 6. Glass: 3. How many objects did they find altogether? Which material was found most often? **40 objects. Plastic was found most often.**. Add them up a few at a time. 14 + 9 = 23. 23 + 8 = 31. 31 + 6 = 37. 37 + 3 = 40. The biggest number is 14, for plastic. So plastic was found most often. (queues `math.data.sorting-and-tallies.L3`)
+- In the home hunt, a family counted the materials of the objects they found. Plastic: 15. Steel: 10. Cloth: 8. Wood: 6. Glass: 3. How many objects did they find altogether? Which material was found most often? **42 objects. Plastic was found most often.**. Add them up a few at a time. 15 + 10 = 25. 25 + 8 = 33. 33 + 6 = 39. 39 + 3 = 42. The biggest number is 15, for plastic. So plastic was found most often. (queues `math.data.sorting-and-tallies.L3`)
 - In the Spoon and Plate Parade, you compared a steel plate and paper plates. One paper plate costs 2 rupees and is used once. A steel plate costs 100 rupees and lasts for years. One person eats one meal a day on a plate. After how many days has that person spent as much on paper plates as on one steel plate? **After 50 days.**. Each day, one paper plate costs 2 rupees. We need to find how many lots of 2 rupees make 100 rupees. 100 divided by 2 is 50. So after 50 days, the paper plates have cost 100 rupees, the same as the steel plate. After that, the steel plate is cheaper every day. You can check: 50 × 2 = 100. (queues `math.division.sharing-and-grouping.L3`)
 
 ## Song
@@ -830,9 +830,6 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 ## Things to buy
 - [A kitchen or bath thermometer (0 to 100 degrees)](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Measures water temperature fairly, because your hand can be fooled. Used in e3, p1, c1. 
 - [Small unglazed clay pots (one that fits inside another)](https://www.amazon.in/s?k=small+clay+pot+unglazed) (material): A local potter or a pot seller at the market often has them cheaply. Used in e3, p1. 
-- [Rosie Revere, Engineer, by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer+Andrea+Beaty) (book): A picture book about a girl who builds inventions from odds and ends, and learns that a failed design is a step forward. Ages 5 to 9. Used in c1, c2. 
-- [The Most Magnificent Thing, by Ashley Spires](https://www.amazon.in/s?k=The+Most+Magnificent+Thing+Ashley+Spires) (book): A picture book about a girl who tries again and again to make something from materials, until it works. Ages 4 to 8. Used in a3. 
-- [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent. A materials scientist explains steel, paper, glass, plastic and more, with true stories. Read parts aloud. Used in g1. 
 
 ## Warm-up
 - What do we call what a material is like, such as hard or waterproof? → A property.

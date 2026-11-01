@@ -272,43 +272,42 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - Ask: In the story, the thread snapped at noon but not at dawn. What did Shefali think had changed?
 - Ask: How did Shefali make her test fair? Why did she cut every thread to the same length?
 - Ask: Why did she count shells, and not just say 'this one is stronger'?
-- Ask: Everyone in the village had a guess. Why was a number better than a guess?
 - Ask: Is the thread's strength in the thread, in the air, or in both together? What do you think?
 - Ask: Nobody wrote down Shefali's name. Who does a small job at your home that makes everything else work?
 
 ## Games
-### g1 · Property Snap (20 min)
-- **rules:** Shuffle the 36 property cards. Deal 5 to each player. Put the rest face down in a pile. Put the 6 challenge cards face down in a second pile.; A set is three cards for the same property: its WORD, its TEST and its EXAMPLE.; On your turn, ask one player for a card. You must already hold a card of that property, and you must name the property and the kind. For example, 'Do you have the TEST for brittle?'; If they have it, they give it to you and you ask again. If not, you draw a card from the pile and your turn ends. If the pile is empty, your turn just ends. If you have no cards on your turn, draw up to 5.; As soon as you hold a complete set, even after drawing, lay it down. Read all three cards out loud and say whether the test and the example really fit. Take a star token.; Then draw a challenge card and answer it. A good answer wins a bonus star token. When the challenge pile is empty, skip this part.; The game ends when all 12 sets are laid down. The player with the most star tokens wins. If you tie, you share the win.
+### g1 · Property Snap (25 min)
+- **rules:** Shuffle the 36 property cards. Deal 5 to each player. Put the rest face down in a pile. Put the 6 challenge cards face down in a second pile.; A set is three cards for the same property: its WORD, its TEST and its EXAMPLE.; On your turn, ask one player for a card. You must already hold a card of that property, and you must name the property and the kind. For example, 'Do you have the TEST for brittle?'; If they have it, they give it to you and you ask again. If not, you draw a card from the pile and your turn ends. If the pile is empty, your turn just ends. If you have no cards on your turn, draw up to 5 (or as many as are left).; As soon as you hold a complete set, even after drawing, lay it down. Read all three cards out loud and say whether the test and the example really fit. Take a star token.; Then draw a challenge card and read the question aloud. Talk about the answer together, then turn the card over to check. A good answer wins a bonus star token. When the challenge pile is empty, skip this part.; The game ends when all 12 sets are laid down. The player with the most star tokens wins. If you tie, you share the win.
 - **Printable cards: 36 cards to cut out: 12 properties, with 3 cards each:** WORD: Hard; TEST: Try to scratch it with your fingernail. You cannot.; EXAMPLE: A steel nail (Hard); WORD: Rigid; TEST: Push on the middle. It hardly bends at all.; EXAMPLE: A thick wooden plank (Rigid); WORD: Flexible; TEST: Bend it. It bends easily and does not break.; EXAMPLE: A cotton cloth (Flexible); WORD: Elastic; TEST: Stretch it, then let go. It springs back.; EXAMPLE: A rubber band (Elastic) [picture]; WORD: Brittle; TEST: Bend it too far. It snaps into pieces.; EXAMPLE: A glass bangle (Brittle) [picture]; WORD: Strong; TEST: Hang weights from it. It holds a lot before it tears.; EXAMPLE: A jute rope (Strong); WORD: Transparent; TEST: Hold it in front of a torch. A clear, bright spot shows on the wall.; EXAMPLE: Window glass (Transparent); WORD: Translucent; TEST: Hold it in front of a torch. A blurry glow shows on the wall.; EXAMPLE: Butter paper (Translucent); WORD: Opaque; TEST: Hold it in front of a torch. Only a shadow shows on the wall.; EXAMPLE: A steel plate (Opaque); WORD: Waterproof; TEST: Drip water on it. The drop stays on top.; EXAMPLE: A plastic raincoat (Waterproof) [picture]; WORD: Absorbent; TEST: Drip water on it. The drop soaks in.; EXAMPLE: A paper towel (Absorbent); WORD: Shiny; TEST: Look at it in the light. You can see a bright reflection.; EXAMPLE: A polished steel tumbler (Shiny)
-- **Printable cards: 6 challenge cards:** Glass is hard but breaks when dropped. Which two properties is that?; A rubber band and a cotton cloth can both be bent. Which one is elastic, and how do you know?; A plastic bag and a paper towel both look thin. How do you test which is waterproof?; Butter paper is translucent. How could you make it opaque?; A rope is soft but strong. A chalk stick is hard to bend but weak. Explain.; Name a material that is both rigid and brittle, and one that is both rigid and not brittle.
+- **Printable cards: 6 challenge cards, with the answer on the back:** Glass is hard but breaks when dropped. Which two properties is that? (back: Hard and brittle. Hard means hard to scratch. Brittle means it snaps or shatters instead of bending.); A rubber band and a cotton cloth can both be bent. Which one is elastic, and how do you know? (back: The rubber band is elastic, because it springs back when you let go. The cloth is only flexible, because it stays bent.); A plastic bag and a paper towel both look thin. How do you test which is waterproof? (back: Drip water on each one. On the waterproof one the drop stays on top. On the other it soaks in.); Butter paper is translucent. How could you make it opaque? (back: Stack many sheets of it. A tall stack lets no light through, so the stack is opaque.); A rope is soft but strong. A chalk stick is hard to bend but weak. Explain. (back: A rope is strong, because it holds a big pull without breaking. Chalk is stiff but snaps easily, so it is weak.); Name a material that is both rigid and brittle, and one that is both rigid and not brittle. (back: Glass is rigid and brittle. A steel plate is rigid and not brittle.)
 - **Printable tokens: 20 score tokens (small paper circles):** Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token; Star token
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 36 cards. 2. Read the 12 property names together. 3. For each one, read its test and its example. 4. Shuffle and deal 5 cards each.  
   *Parent says:* A property is a word for what a material is like. There are twelve here. Each has a name, a test and an example. Let's read them all before we play.  
   *Child mode:* Cut out the cards. Read the twelve property names. Read each test and each example. Then deal.
 - **s2 (3 min)**  
-  *Parent does:* Play one practice turn together. Ask: which TEST goes with 'translucent'?  
+  *Parent does:* Play one practice turn together. Show this test card and ask: which property does it test?  
   *Parent says:* Let's practise. Here is one card: 'Hold it in front of a torch. A blurry glow shows on the wall.' Which property does it test?  
   *Child mode:* Read the test card. Which property does it show? Choose your answer.
   - Check: Hold it in front of a torch. A blurry glow shows on the wall. Which property is that? → **Translucent**
-- **s3 (7 min)**  
-  *Parent does:* Play the game. When you lay down a set, read all three cards aloud and say whether the test and the example really fit. Then draw a challenge card and answer it.  
+- **s3 (13 min)**  
+  *Parent does:* Play the game. When you lay down a set, read all three cards aloud and say whether the test and the example really fit. Then draw a challenge card, talk about the answer, and turn the card over to check.  
   *Parent says:* Remember to say the property and the kind of card you are asking for. If you disagree with a match, say why.  
   *Child mode:* Take turns. Ask for a card by name and kind. Lay down each complete set and read it aloud.
   - Note: Good habit: when a set is laid down, ask 'Does that test really show that property?' This is the heart of the game.
-- **s4 (4 min)**  
-  *Parent does:* Take any challenge cards that are still unused. Read one aloud and let the table discuss the answer before anyone reveals it.  
-  *Parent says:* Here is a tricky card. Talk about it together first. Then someone can say the answer.  
-  *Child mode:* A challenge card! Talk about it together. Then answer.
+- **s4 (3 min)**  
+  *Parent does:* Talk about the game. Ask which pair of properties was hardest to tell apart.  
+  *Parent says:* Which two properties were hardest to tell apart? Why?  
+  *Child mode:* Which two properties were hardest to tell apart?
   - Ask: Which pair of properties did you find hardest to tell apart? (good: Hard and strong.; Elastic and flexible.; Waterproof and the opposite, absorbent.)
-  - Note: Key answers. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle. A rubber band is elastic because it springs back, and cloth is only flexible because it stays bent. Test waterproof by dripping water on it. Butter paper turns opaque in a tall stack. A rope is soft but strong, and chalk is rigid but weak. Glass is rigid and brittle, and a steel plate is rigid and not brittle.
+  - Note: The answers to the challenge cards are on their backs. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle.
 - **s5 (2 min)**  
   *Parent does:* Count the tokens to find the winner. Talk about which tests you remembered most easily.  
   *Parent says:* Which tests were easy to remember? Which were hard? Which two properties look alike?  
   *Child mode:* Count your tokens. Which tests were easy to remember? Which were tricky?
   - Think: If you could only do three tests on a mystery material, which three would you choose?
 ### g2 · Property Trumps (20 min)
-- **rules:** Deal all the cards one at a time. If some are left over, put them aside. Each player keeps a face-down pile and looks only at the top card.; The first player picks one property from their top card and reads out its score. They must say why the material scores high or low. For example, 'Steel, hard 5, because a nail cannot scratch it.'; Everyone else reads out the same property from their top card. The highest score wins all the top cards. The winner puts them at the bottom of their pile and picks the property for the next round.; If there is a tie, put the cards in the middle. The winner of the next round takes them too.; The scores on these cards are rough guesses, for fun. You will make a better set from real measurements in the project.; The game ends when one player has no cards left, or after 15 minutes. The player with the most cards wins.
+- **rules:** Deal all the cards one at a time. If some are left over, put them aside. Each player keeps a face-down pile and looks only at the top card.; The first player picks one property from their top card and reads out its score. They must say why the material scores high or low. For example, 'Steel, hard 5, because a nail cannot scratch it.'; Everyone else reads out the same property from their top card. The highest score wins all the top cards. The winner puts them at the bottom of their pile and picks the property for the next round.; If two or more players tie for the highest score, put all those top cards in the middle. Play the next round with the next cards, and the same player picks the property again. The winner of that round also takes the cards in the middle.; The scores on these cards are rough guesses, for fun. You will make a better set from real measurements in the project.; The game ends when one player has no cards left, or after 12 minutes. The player with the most cards wins. If you tie, you share the win. Cards left in the middle at the end go to nobody.
 - **Printable cards: 16 material cards to cut out, with rough scores for fun:** Steel: hard 5, flexible 1, transparent 0, absorbent 0, strong 5; Aluminium foil: hard 2, flexible 5, transparent 0, absorbent 0, strong 1; Copper: hard 3, flexible 3, transparent 0, absorbent 0, strong 4; Glass: hard 5, flexible 0, transparent 5, absorbent 0, strong 2; Clear plastic: hard 2, flexible 3, transparent 4, absorbent 0, strong 3; Wood: hard 3, flexible 1, transparent 0, absorbent 2, strong 4; Bamboo: hard 3, flexible 3, transparent 0, absorbent 1, strong 4 [picture]; Cotton cloth: hard 1, flexible 5, transparent 1, absorbent 5, strong 3; Wool: hard 1, flexible 5, transparent 0, absorbent 4, strong 2; Newspaper: hard 1, flexible 4, transparent 1, absorbent 4, strong 1; Paper towel: hard 1, flexible 5, transparent 1, absorbent 5, strong 1; Rubber: hard 1, flexible 5, transparent 0, absorbent 0, strong 3 [picture]; Granite: hard 5, flexible 0, transparent 0, absorbent 0, strong 2 [picture]; Brick: hard 4, flexible 0, transparent 0, absorbent 3, strong 2; Clay pot: hard 3, flexible 0, transparent 0, absorbent 3, strong 1; Diamond: hard 5, flexible 0, transparent 5, absorbent 0, strong 4 [picture]
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Read the five properties together: hard, flexible, transparent, absorbent and strong. 3. Shuffle and deal.  
@@ -349,7 +348,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* First bend it just a little and let go. Does it spring back? Then bend it more. Slowly. Does it snap? Does it stay bent? Watch carefully.  
   *Child mode:* Bend a little and let go. Does it spring back? Then bend more, slowly. What happens?
   - Note: A grown-up should do the paper clip. If a thing snaps, count the pieces. Write the number in the table.
-- **s3 (9 min)**  
+- **s3 (11 min)**  
   *Parent does:* Test each of the eight things. Do each one twice, with a new piece if the first one broke. Write what happens in the table.  
   *Parent says:* Test all eight. Do each twice. Write down what you see. For the spaghetti, count the pieces.  
   *Child mode:* Test all eight things, twice each. Write what happens. Count the pieces of the spaghetti.
@@ -364,11 +363,6 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Look at the thing that stayed bent, and the thing that sprang back. Both bend. What is different about them?  
   *Child mode:* Both bent. One stayed bent. One sprang back. What is different?
   - Think: Inside a paper clip, the tiny atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring home. Why might a snap be different?
-- **s6 (2 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What you think, what you saw, and why.
-  - Note: A good answer sounds like this. What I think: dry things snap, metals stay bent and rubbery things spring back. What I saw: the spaghetti snapped into three pieces, the paper clip stayed bent and the ruler sprang back. Why: a brittle thing cannot give, so it breaks. Metals let their atoms slide. Elastic things stretch and spring home.
 ### e2 · The Droop Test: how flexible is it? (25 min)
 - **question:** Which strips bend the most when they stick out from a table, and which bend the least?
 - **predict:** Line up the strips. Put the one you think is the most rigid first, and the most flexible last. Why do you think so?
@@ -385,7 +379,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* We let 10 centimetres stick out each time, with the same coin on the tip. Only the strip changes. That makes it a fair test.  
   *Child mode:* Put a strip on the table with 10 centimetres sticking out. Hold the other end under a book. Tape the coin to the tip.
   - Note: Draw a pencil line across each strip, 10 centimetres from its end. Line it up with the table edge each time.
-- **s3 (8 min)**  
+- **s3 (10 min)**  
   *Parent does:* 1. Hold the ruler upright, just beside the tip of the strip. 2. Put its 0 mark level with the table top. 3. Bend down so your eyes are level with the tip. 4. Read how far the tip has dropped. 5. Do this 3 times for each strip. If a strip hangs straight down, write 10.  
   *Parent says:* The drop is how far the tip goes down from the table top. A small drop means rigid. A big drop means flexible.  
   *Child mode:* Hold the ruler upright by the tip. Read how far it dropped. Do it 3 times.
@@ -400,11 +394,6 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Card is made of the same wood fibres as paper. But it bends much less. What is different about it?  
   *Child mode:* Card and paper are both made of wood fibres. Why does card bend less?
   - Think: Thickness matters as well as material. How could you test a thick and a thin strip of the same paper?
-- **s6 (2 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What you think, what you saw, and why.
-  - Note: A good answer sounds like this. What I think: the corrugated card is the most rigid and the cloth is the most flexible. What I saw: the card dropped 1 centimetre and the cloth hung straight down at 10. Why: thick card has many layers of fibres pressed together, and cloth threads can slide and fold.
 ### e3 · Dry or Damp? Does water change how strong it is? (40 min)
 - **question:** When paper or cotton thread gets damp, does it get stronger, weaker or stay the same?
 - **predict:** For each of the three materials, guess: will the damp one hold more cups of water than the dry one, fewer, or the same? And why do you think so?
@@ -422,21 +411,21 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* The bag hangs from the strip. We pour in water one cup at a time. The more cups it holds before it tears, the stronger the strip.  
   *Child mode:* Hang the strip from the stick. Hang the bag from the pencil. Put the bucket below.
   - Note: For the thread, fold one piece in half. Put the pencil through the loop at the bottom. Tie the two loose ends round the broom handle with a double knot. Two strands make the thread strong enough to hold at least a cup. If the tape slips instead of the strip tearing, do not count that try. Tape it more firmly and start again.
-- **s3 (15 min)**  
+- **s3 (14 min)**  
   *Parent does:* 1. Fill the cup to the brim and pour it gently into the bag. Count out loud. 2. Keep adding one cup at a time. 3. When the strip tears, write down how many cups were in the bag. 4. Empty the bag and test the second dry strip. 5. Then test the dry newspaper and the dry thread the same way, twice each.  
   *Parent says:* Pour gently, so the bag does not swing. Count each cup out loud. When the strip tears, write down the number.  
   *Child mode:* Pour one cup at a time and count. Write the number when it tears.
   - Note: If a strip or thread holds 10 cups and is still there, write 'more than 10' and stop, because the bag may get too full. Pouring with a jerk can tear a strip early. Pour slowly, every time.
-- **s4 (10 min)**  
-  *Parent does:* 1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip, right across from edge to edge. Stop when a band about 3 centimetres tall (the whole width of the newspaper strip) looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.  
+- **s4 (12 min)**  
+  *Parent does:* 1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip. Stop when a band about 2 centimetres long, right across the strip from edge to edge, looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.  
   *Parent says:* Now we make the middle of each strip damp, not dripping. Then we pour, just like before. Watch what happens.  
   *Child mode:* Wet your fingertip. Touch the middle of the strip. Then pour and count.
   - Note: Make the damp band go right across the strip. If one edge stays dry, the dry part still holds the bag. If a damp toilet paper strip tears before any water goes in, write 0. That is a real result. We hang the strip first and dampen it after, because a damp strip is hard to hang without tearing.
-- **s5 (4 min)**  
+- **s5 (3 min)**  
   *Parent does:* Help your child fill in the last column, then compare the changes.  
   *Parent says:* For each material, look at dry and damp. Write weaker, stronger or about the same. Which one changed the most?  
   *Child mode:* Look at dry and damp for each one. Write weaker, stronger or the same.
-  - Note: Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. With a cup of about 200 millilitres, expect roughly this. Dry toilet paper holds about 1 to 6 cups, and dry newspaper about 2 to 8. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. The doubled thread usually holds about 2 to 7 cups, dry or damp. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.
+  - Note: Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. Dry toilet paper often holds a few cups. Dry newspaper often holds more, and a doubled thread holds several cups. If a strip is still holding at 10 cups, write 'more than 10'. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.
   - Check: A newspaper strip held 6 cups of water when dry and 1 cup when damp. What can you say? → **Water made the newspaper much weaker**
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -444,24 +433,24 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Say or write three things. What you think, what you saw, and why.
   - Note: A good answer sounds like this. What I think: water makes paper much weaker, but not cotton thread. What I saw: the dry toilet paper held 4 cups, and the damp one tore with none. The thread held 5 cups dry and 5 damp. Why: paper is held together where its fibres touch, and water loosens those joins. Thread is held together by its twist. Damp cotton fibres swell a little and grip each other harder, so the thread does not get weaker.
   - Think: Damp cotton thread did not get weaker. Why might this matter to someone who spins very fine cotton thread?
-### e4 · The Vanishing Drop: how fast does it soak in? (25 min)
+### e4 · The Vanishing Drop: how fast does it soak in? (28 min)
 - **question:** How many seconds does one drop of water take to vanish on each surface? Which surfaces never let it in?
 - **predict:** Line up the six surfaces. Put the one you think soaks up a drop fastest first, and the one that never soaks it up last. Why do you think so?
-- **fair test:** To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Put one drop on every piece at the same time, and time all six together. Do three rounds, each time on a fresh spot. Stop a round at 120 seconds if a drop is still there.
+- **fair test:** To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Put each drop on a fresh spot. Time the paper towel, the cotton cloth and the newspaper one at a time. Time the printer paper, the butter paper and the plastic bag together. Do three rounds. Stop a round at 120 seconds if a drop is still there.
 - **record:** Fill in the table. Then draw a bar chart. Draw one bar for each surface. Make each bar as tall as the middle value in seconds.
 - **results table:** Surface | Try 1: seconds | Try 2: seconds | Try 3: seconds | Middle value (seconds)
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the six pieces. 2. Ask your child to put them in a line, fastest-soaking first.  
   *Parent says:* Which surface will soak up a drop the fastest? Which will never soak it up? Put them in a line, fastest first. Why that order?  
   *Child mode:* Look at the six surfaces. Put them in a line. Fastest to soak first. This is your guess.
-- **s2 (4 min)**  
-  *Parent does:* 1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on each piece, one after the other, quickly. 4. Start the timer when the last drop lands. 5. Look from the side. When a drop's shiny top is gone, write the seconds beside that piece.  
-  *Parent says:* Put one drop on each surface, then start the timer. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.  
-  *Child mode:* Put one drop on each piece. Start the timer. Write the seconds when each shiny drop is gone.
+- **s2 (6 min)**  
+  *Parent does:* 1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on the paper towel and start the timer at the same moment. Look from the side. When the drop's shiny top is gone, stop the timer and write the seconds. 4. Do the same, one at a time, for the cotton cloth and the newspaper. 5. Now put one drop each on the printer paper, the butter paper and the plastic bag, one after another. Start the timer when the last drop lands. 6. Each time a shiny top is gone, write the seconds beside that piece. Stop at 120 seconds.  
+  *Parent says:* Fast surfaces get timed one at a time. Slow ones get timed together. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.  
+  *Child mode:* Time the paper towel, cotton and newspaper one at a time. Then drop on the other three together. Write the seconds when each shiny drop is gone.
   - Note: If the drop is still sitting there after 120 seconds, stop and write 120. That is a result, and it means the surface is waterproof. Use a fresh spot for each try.
-- **s3 (7 min)**  
-  *Parent does:* Do two more rounds. Put each new drop on a fresh spot of the same piece. Write down the seconds each time.  
-  *Parent says:* Do two more rounds, six drops each time. Write the seconds. For the plastic, write 120 if the drop is still there.  
+- **s3 (10 min)**  
+  *Parent does:* Do two more rounds the same way. Put each new drop on a fresh spot of the same piece. Write down the seconds each time.  
+  *Parent says:* Do two more rounds the same way. Write the seconds. For the plastic bag, write 120 if the drop is still there.  
   *Child mode:* Do two more rounds. Write the seconds. If a drop is still there after 120, write 120.
   - Note: To find the middle value, put the three numbers in order and take the middle one. If one try is very different, check that the drop was the same size.
 - **s4 (5 min)**  
@@ -474,16 +463,10 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Pepper floats on the water. Now touch the middle with a soapy finger. What happens? The surface of water acts like a thin, stretchy skin. Soap weakens it.  
   *Child mode:* Sprinkle pepper on a plate of water. Touch the middle with a soapy finger. Watch the pepper!
   - Note: The pepper rushes to the edge. The skin of water, called surface tension, is weaker where the soap touches. The stronger skin around pulls the pepper away. The same skin is why a drop is round on the colocasia leaf. The leaf is covered with tiny wax bumps, so the water cannot spread. Agnes Pockels, a woman in Germany, studied this skin in her kitchen.
-- **s6 (2 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What you think, what you saw, and why.
-  - Note: A good answer sounds like this. What I think: paper towel is the most absorbent and plastic is waterproof. What I saw: the drop vanished in 2 seconds on paper towel. It was still there after 120 seconds on plastic. Why: the paper towel has tiny gaps that pull water in, and plastic has no gaps.
 ### e5 · Layers to Darkness: transparent, translucent or opaque? (20 min)
 - **question:** How many layers of each material does it take to stop a torch's light?
 - **predict:** Guess how many layers of butter paper it will take before the light disappears from the wall. Why do you think so?
 - **fair test:** To make it fair, use the same torch, the same wall distance and the same dim room each time. Add one layer at a time. Count the layers when the light spot on the wall just disappears.
-- **safety:** Do not shine the torch into anyone's eyes.
 - **record:** Fill in the table. Then draw a bar chart. Draw one bar for each material. Make each bar as tall as the number of layers.
 - **results table:** Material | Transparent, translucent or opaque (1 layer) | Layers until the light disappears
 - **s1 (6 min)**  
@@ -497,7 +480,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Add one sheet at a time. Count them. Stop when the light is gone.
   - Ask: What do you notice as you add more layers? (good: The light gets dimmer.; The glow gets smaller.; It goes from translucent to opaque.)
   - Note: If you use up all your sheets and a glow still shows, write 'more than' and the number of sheets. That is a real result. A bright torch may need many sheets.
-- **s3 (6 min)**  
+- **s3 (8 min)**  
   *Parent does:* Repeat with tissue paper, thin cloth and newspaper. Write down the number of layers for each.  
   *Parent says:* Now do the same with tissue paper, cloth and newspaper. Which one blocks the light with the fewest layers?  
   *Child mode:* Do the same with tissue paper, cloth and newspaper. Count the layers each time.
@@ -506,11 +489,6 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Each material gets a bar. A taller bar means it took more layers to block the light.  
   *Child mode:* Draw one bar for each material. A taller bar means more layers.
   - Check: One sheet of butter paper is translucent. A tall stack is opaque. What does this show? → **Translucent or opaque can depend on thickness**
-- **s5 (2 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What you think, what you saw, and why.
-  - Note: A good answer sounds like this. What I think: more layers make a material more opaque. What I saw: one butter paper let a glow through, but 5 layers stopped it. Why: each layer scatters and soaks up some light, so the more layers there are, the less gets through.
 
 ## Activities
 ### a1 · Feely Bag Detective (15 min)
@@ -537,7 +515,6 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Touch told us a lot. What could your eyes and ears tell you about a material?
   - Think: Your skin said the steel was cold. Was your skin right or wrong?
 ### a2 · The Property Passport (20 min)
-- **safety:** Use a cool pan only.
 - **record:** A passport page for one object, with the answer to each question.
 - **s1 (4 min)**  
   *Parent does:* 1. Fold the paper into a booklet. 2. Choose the steel tumbler. 3. On the first page write: Object: steel tumbler. Material: steel.  
@@ -559,7 +536,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent does:* Ask your child to choose another object at home and make a passport at another time.  
   *Parent says:* Which object would you like to make a passport for next? Look for one with more than one material.  
   *Child mode:* Pick another object at home. Make a passport for it later.
-  - Think: Which property did you find hardest to decide? Why was it hard?
+  - Think: Which question gave you an answer you did not expect?
 ### a3 · The Property Ladder (25 min)
 - **safety:** A grown-up handles the nail. Use nothing sharp or breakable.
 - **record:** Draw your three ladders and write the six things in order on each.
@@ -575,7 +552,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   - Ask: How did you decide where each thing goes? (good: I scratched it with my nail.; I tried to scratch one with another.; It dents when I press it.)
   - Note: If two things seem equal, peg them side by side. Ties are fine.
 - **s3 (8 min)**  
-  *Parent does:* 1. Take the things down. 2. Peg them again in order of how flexible they are: the most flexible at one end. 3. Then again in order of roughness, using a magnifying glass to look at each surface.  
+  *Parent does:* 1. Take the things down. 2. Change the labels at the ends to 'most flexible' and 'stiffest'. 3. Peg the things again in order of how flexible they are. 4. Change the labels to 'roughest' and 'smoothest', and peg them again in order of roughness. Use the magnifying glass, if you have one, to look at each surface.  
   *Parent says:* Now do the ladder again, but this time put the most flexible first. Then again for the roughest. Does the order stay the same?  
   *Child mode:* Make the ladder again. This time for flexible. Then for rough. Does the order change?
   - Check: A steel spoon is near the top of the hardness ladder. Where is it on the flexible ladder? → **Near the stiff end**
@@ -590,7 +567,6 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Say one sentence for each ladder. Start with 'The … is …er than the …'.
   - Note: Using 'harder than' and 'more flexible than' is the language of comparing. Numbers come next, in the experiments.
 ### a4 · Through Coloured Plastic (20 min)
-- **safety:** Do not shine the torch into anyone's eyes.
 - **record:** Draw the picture as it looked through each colour. Write what you noticed.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the red plastic up to your eye and look at the picture. 2. Note how each thing looks. 3. Do the same with green, then blue.  
@@ -601,6 +577,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent does:* 1. Dim the room. 2. Tape the red plastic over the torch. 3. Shine it on white paper. 4. Try green and blue the same way. 5. Then hold the red and the green together over the torch.  
   *Parent says:* White light is all the colours of the rainbow mixed. Red plastic lets only the red through. Try red, then green, then both together. What happens when both are in front of the torch?  
   *Child mode:* Cover the torch with red plastic. Shine it on white paper. Try green and blue. Then use red and green together.
+  - Note: Cheap plastic does not block light perfectly. With red and green together you may see a faint glow, but it should be much darker than with one plastic.
   - Check: You hold a red plastic and a green plastic together in front of a torch. What do you see on the wall? → **Almost no light, because each one blocks what the other lets through**
 - **s3 (5 min)**  
   *Parent does:* Talk about why the same light looks red through red plastic. Ask where the other colours went.  
@@ -614,21 +591,21 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Draw the picture as it looked through each colour.
   - Think: Is red plastic transparent, translucent or opaque? Is it the same for every colour of light?
 ### a5 · Dance of the Three Veils (15 min)
-- **safety:** Clear a space so no one trips. Do not wrap a veil around anyone's head.
+- **safety:** Keep the plastic sheet away from faces and heads.
 - **record:** Draw the three veils and write transparent, translucent or opaque under each.
 - **s1 (3 min)**  
-  *Parent does:* 1. Give your child the three props. 2. Explain the three calls. CLEAR means dance behind the clear sheet. MIST means dance behind the cotton. HIDE means dance behind the tray.  
-  *Parent says:* When I call 'clear', dance behind the clear sheet. When I call 'mist', dance behind the cotton. When I call 'hide', dance behind the tray.  
+  *Parent does:* 1. Lay out the three veils. 2. Explain the three calls. CLEAR means the dancer is behind the clear sheet. MIST means behind the cotton cloth. HIDE means behind the blanket. 3. The other person holds each veil up like a curtain, at chest height, and the dancer dances behind it.  
+  *Parent says:* When I call 'clear', dance behind the clear sheet. When I call 'mist', dance behind the cotton. When I call 'hide', dance behind the blanket. I will hold each one up.  
   *Child mode:* Three calls. CLEAR, MIST, HIDE. Each one means a different veil.
 - **s2 (6 min)**  
-  *Parent does:* 1. Play music. 2. Call the words in any order. 3. Your child dances behind the right veil. 4. You watch and say what you can see of them.  
-  *Parent says:* Behind the clear sheet, I can see everything. Behind the cotton, I see a shape. Behind the tray, I see nothing. Let us dance!  
+  *Parent does:* 1. Play music. 2. Call the words in any order and hold up the right veil. 3. Your child dances behind it. 4. You watch and say what you can see of them.  
+  *Parent says:* Behind the clear sheet, I can see everything. Behind the cotton, I see a shape. Behind the blanket, I see nothing. Let us dance!  
   *Child mode:* Dance behind the veil you are called to. Your partner tells what they can see.
   - Ask: What could I see through each veil? (good: Clear: everything.; Mist: only a blurry shape.; Hide: nothing at all.)
 - **s3 (3 min)**  
-  *Parent does:* Swap. Your child calls the words and you dance. Talk about what changed.  
-  *Parent says:* Now you call, and I will dance. Which veil is best for hiding? Which is best for watching?  
-  *Child mode:* Swap places. You call the words now.
+  *Parent does:* Swap. Your child holds up the veils and calls the words, and you dance. Talk about what changed.  
+  *Parent says:* Now you call and hold up the veils, and I will dance. Which veil is best for hiding? Which is best for watching?  
+  *Child mode:* Swap places. You call the words and hold up the veils now.
   - Check: Early morning fog is thin. You can see a tree through the fog, but the tree looks blurry. Fog is… → **Translucent**
 - **s4 (3 min)**  
   *Parent does:* Draw the three veils and write transparent, translucent or opaque under each.  
@@ -660,9 +637,8 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 
 ## Projects
 ### p1 · Make Your Own Property Trumps (90 min, 3 days)
-- **safety:** Follow the safety notes of each test you repeat.
 - **record:** Eight cards, each with a material, a picture and five scores from 0 to 5. Plus a note on what surprised you.
-- **schedule:** day 1: Choose 8 materials. Gather your results. Test any that are missing. (35 min); day 2: Turn your results into scores from 0 to 5. Make the cards. (35 min); day 3: Play your deck. Compare it with the rough deck and find where they differ. (20 min)
+- **schedule:** day 1: Choose 8 materials. Gather your results. Test any that are missing. (35 min); day 2: Turn your results into scores from 0 to 5. Make the cards. (35 min); day 3: Play your deck. Compare it with the printed Property Trumps cards and find where they differ. (20 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Gather your results from five tests. 2. The Property Ladder gives hard: count each material's place from the soft end, with the softest as 1. 3. The droop test gives flexible: the drop in centimetres. 4. The layers test gives transparent: the number of layers until it is dark. 5. The vanishing drop gives absorbent: the seconds. 6. The dry results of the Dry or Damp test give strong: the cups. 7. Choose 8 materials that appear in several tests. 8. Write their numbers in one big table, with a row for each material.  
   *Parent says:* You have done many tests. Let's collect the numbers in one big table. One row for each material, one column for each property.  
@@ -683,13 +659,13 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent says:* Now make your cards. Each one has the material's name, a picture and five scores.  
   *Child mode:* Make your cards. Write the name. Draw a picture. Write the scores.
 - **s5 (12 min)**  
-  *Parent does:* Play your deck like Property Trumps. Compare your card scores with the rough deck.  
-  *Parent says:* Let's play with our own cards. Then compare them with the rough scores in the first deck.  
-  *Child mode:* Play your own cards. Then compare them with the first deck.
+  *Parent does:* Play your deck like Property Trumps. Compare your card scores with the scores on the printed Property Trumps cards.  
+  *Parent says:* Let's play with our own cards. Then compare them with the rough scores on the printed cards.  
+  *Child mode:* Play your own cards. Then compare them with the printed Property Trumps cards.
 - **s6 (8 min)**  
-  *Parent does:* Ask your child where their scores and the rough deck scores differ, and why.  
-  *Parent says:* Where do your scores and the rough scores disagree? Which do you trust more, and why?  
-  *Child mode:* Where do your scores differ from the first deck? Which do you trust more?
+  *Parent does:* Ask your child where their scores and the printed card scores differ, and why.  
+  *Parent says:* Where do your scores and the printed scores disagree? Which do you trust more, and why?  
+  *Child mode:* Where do your scores differ from the printed cards? Which do you trust more?
   - Think: Your scores come from tests you did. Why can a test sometimes be more trusted than a guess?
 
 ## Challenges
@@ -699,20 +675,20 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **constraints:** You get only six tests for each sample.; You must write down every test before you do it.; You may not tear, cut or break the samples.; You may not taste anything.
 - **general:** Feel it, bend it, tap it, and see if it floats in water.; Hold it up to the torch to see whether it is transparent, translucent or opaque.; Drip a drop of water on it, to see whether it is waterproof.; Hold it against a fridge magnet. Scratch it gently with a fingernail.
 - **creative:** Warm a corner of it between your fingers for ten seconds. Does it soften, or does it stay the same?; Crumple it near your ear, and listen. Papers, foils and plastics each make their own crackle.; Rub it between your fingers. Does it feel cold, waxy or papery?
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* 1. Give your child the three bags. 2. Explain the rules: six tests for each sample, written down before testing.  
   *Parent says:* Each bag holds a mystery material. You can do six tests on each. Choose the tests carefully. Write each one down first.  
   *Child mode:* Three bags hold three mystery materials. You may do six tests on each. Write each test down first.
-- **s2 (7 min)**  
+- **s2 (6 min)**  
   *Parent does:* Help your child write a list of six tests that tell the most. Then do the same for the other two bags.  
   *Parent says:* Which six tests will tell you the most? Pick tests that split materials into different groups.  
   *Child mode:* Choose six tests. Make them ones that tell you the most.
   - Ask: Why choose the tests carefully? (good: We only have six.; Some tests tell more than others.; A test that most materials pass tells us little.)
-- **s3 (13 min)**  
+- **s3 (15 min)**  
   *Parent does:* Do the tests. Write down the result of each in a table. After the last test, write your best guess for each bag.  
   *Parent says:* Do the tests. Write down every result. Then write your guess for what each sample is.  
   *Child mode:* Do your tests. Write every result. Then write your best guess.
-  - Note: Good answers: bag 1 is shiny, flexible, opaque, waterproof and not attracted by the magnet, so it might be foil. Bag 2 is translucent, feels waxy and bends, so it might be waxed paper. Bag 3 is clear or cloudy, flexible and stretchy, so it might be thin plastic.
+  - Note: Good answers: bag 1 is shiny, flexible, opaque, waterproof and not attracted by the magnet, so it might be foil. Bag 2 is translucent, smooth and bends, so it might be butter paper. Bag 3 is clear or cloudy, flexible and stretchy, so it might be thin plastic.
 - **s4 (5 min)**  
   *Parent does:* Reveal what is in the bags. Ask which test gave the most useful clue.  
   *Parent says:* Open the bags. Were you right? Which test told you the most?  
@@ -723,7 +699,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **your turn:** Now invent your own cover. Draw it, make it and test it. How much light did it let in? How well did it hide the person?
 - **constraints:** Most of the light must still come through.; A person standing on the other side must not be seen clearly.; You can only use materials from home.; You must test your cover, not guess.
 - **general:** Stick butter paper or tracing paper over the hole. It is translucent, so it lets in light but blurs the picture.; Layer thin tissue paper, a sheet at a time, until the person is just a shape.; Hang a net or a thin cotton curtain over the window.
-- **creative:** Cut a pattern of small holes, like an Indian jaali screen. Light and air come through, but eyes cannot see a clear picture.; Make a bamboo blind, with thin slats close together. Many Indian homes call these chik blinds.; Hang a khus tatti, a mat of woven grass. In summer, people sprinkle it with water, and it cools the air that comes through.; Stick thin coloured tissue paper in a pattern, like stained glass, and see what the light does.
+- **creative:** Cut a pattern of small holes, like an Indian jaali screen. Light and air come through, but eyes cannot see a clear picture.; Make a bamboo blind, with thin slats close together. Many Indian homes call these chik blinds.; Hang a khus tatti, a mat of woven grass. In summer, people sprinkle it with water, and it cools the air that comes through.; Hang a screen of woven coconut leaves, like the ones used in villages in Kerala and Tamil Nadu. Light comes in through the gaps, and eyes cannot see a clear picture.; Stick thin coloured tissue paper in a pattern, like stained glass, and see what the light does.
 - **s1 (5 min)**  
   *Parent does:* 1. Make the cardboard frame with a square hole. 2. Ask someone to stand on the other side and hold up a picture or a face. 3. Look through the empty frame. Everything is clear.  
   *Parent says:* This is our window. Look through the empty frame. You can see everything. How can we hide the person but keep the light?  
@@ -760,8 +736,8 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 6. (mcq) A girl leaves a steel spoon and a wooden spoon standing in a pot of hot rasam. After two minutes she touches the top of each handle. What will she feel?  
    Options: The steel handle is hot, the wooden one is only warm / Both are equally hot / The wooden handle is hotter / Both are still cold  
    **Answer:** The steel handle is hot, the wooden one is only warm. *Why:* Steel is a conductor of heat: heat travels through it quickly, all the way up the handle. Wood is an insulator: heat moves through it slowly. A strong answer names the property and says what it does to the heat.
-7. (order) Put these in order, from the one that lets MOST light through to the one that lets LEAST through: a wooden door, a clear glass window, a thin cotton dupatta held up to the window, a folded bedsheet.  
-   **Answer:** order shown. *Why:* Clear glass is transparent: you see clearly through it. A thin dupatta is translucent: light gets through, but blurred. A folded bedsheet lets only a little light through, because there are more layers. A wooden door is opaque: no light at all.
+7. (order) Put these in order, from the one that lets MOST light through to the one that lets LEAST through: a wooden door, a clear glass window, a thin cotton mundu held up to the window, a folded bedsheet.  
+   **Answer:** order shown. *Why:* Clear glass is transparent: you see clearly through it. A thin mundu is translucent: light gets through, but blurred. A folded bedsheet lets only a little light through, because there are more layers. A wooden door is opaque: no light at all.
 8. (write) A bath towel and an umbrella are both made of cloth. The towel soaks up water. The umbrella keeps water out. How can two cloths behave in opposite ways? Use what you saw in the vanishing drop test.  
    **Answer:** A strong answer says the two cloths are different materials, or are made differently. Towel cotton has loose loops with many tiny gaps, so water creeps in and the drop vanishes fast. Umbrella cloth is woven very tightly and often coated with plastic, so the drop sits on top, like on the plastic bag.. *Why:* The word 'cloth' does not tell you the properties. What the fibres are and how tightly they are packed decide whether water gets in.
 9. (mcq) Divya, a girl in Class 3, says, 'My pencil is made of wood. So wood is one of its properties.' What is her mistake?  
@@ -922,7 +898,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - A stone jaali screen in an old fort or mosque, with light and breeze coming through the holes.
 - A brass bell ringing in a temple, with a long, clear note.
 - A clay water pot at a roadside water stall, damp on the outside.
-- Arbi leaves in the market, where water drops roll like silver beads.
+- Colocasia leaves in the market (chembu in Kerala, arbi in the north), where water drops roll like silver beads.
 - Glass bangles on a stall, bright and easy to break.
 - Bamboo scaffolding around a building, tied with rope.
 - The Iron Pillar in Delhi near the Qutub Minar, about 1,600 years old, still standing with very little rust.
@@ -959,7 +935,6 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - Why did the chalk lose the contest to the nail? *It crumbled under pressure.*
 - Why did the clay pot stay so cool? *It did all its sweating on the outside.*
 - Why did the ruler get promoted? *It measured up.*
-- Why did the plastic ruler fail drama class? *It could only play flat characters.*
 
 ## Connected maths
 - In the droop test, a thin card strip dropped 3 centimetres. A paper strip dropped 9 centimetres. How many times as far did the paper drop? **3 times.**. The card dropped 3 centimetres and the paper dropped 9. 9 divided by 3 is 3. So the paper dropped 3 times as far. You can check: 3 + 3 + 3 = 9. (queues `math.division.sharing-and-grouping.L3`)
@@ -982,12 +957,9 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with galleries on metals, machines and engines. Look at how different materials are used in each exhibit.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits. Look for the ones on light, heat and materials.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about metals, engines and materials.
-- [The Iron Pillar at the Qutub complex]() · place · New Delhi: A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface and think about the property of the iron that has kept it standing.
+- [The Iron Pillar at the Qutub complex]() · place · New Delhi: A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface.
 
 ## Things to buy
-- [30 centimetre ruler, plastic or steel](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures the drop in the droop test. Used in e2. 
-- [Magnifying glass or hand lens](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Helps you see scratches and the rough or smooth surface of things in the Property Ladder. Used in a3. 
-- [Small LED torch](https://www.amazon.in/s?k=led+torch+small) (tool): Used to sort materials as transparent, translucent or opaque, and in the Privacy Window challenge. A phone torch also works. Used in e5, a4, c2. 
 
 ## Warm-up
 - A word that tells what a material is like is a ____. → property

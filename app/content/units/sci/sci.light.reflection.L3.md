@@ -276,12 +276,12 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Child mode:* Count your stars. Which card surprised you most?
   - Think: Can you invent a new word that looks the same in a mirror?
 ### g2 · Bounce Relay (20 min)
-- **rules:** Everyone is on one team. Play together and add up the points.; Draw a target on a big sheet of paper: a small circle in the middle (3 points), a ring around it (2 points), and a wider ring around that (1 point). Write the points in the rings and stick the target on a wall.; Dim the room. Put the torch on a pile of books about 2 metres from the wall, aimed away from the target.; Each player holds one mirror. If you have only two players, stand a third mirror on a pile of books or plasticine.; Round 1: use one mirror to send the torch beam onto the target.; Round 2: the light must bounce off two mirrors, one after the other, before it reaches the target.; Round 3: the light must bounce off three mirrors. Points in this round count double.; Score the ring the middle of the light spot lands in. Outside the target scores 0. Play again and try to beat your total.; Never let the beam shine into anyone's eyes. If it does, that round scores zero.
+- **rules:** Everyone is on one team. Play together and add up the points.; Draw a target on a big sheet of paper: a small circle in the middle (3 points), a ring around it (2 points), and a wider ring around that (1 point). Write the points in the rings and stick the target on a wall.; Dim the room. Put the torch on a pile of books about 2 metres from the wall, pointing sideways along the wall, not at the target.; Each player holds one flat mirror (hand mirrors or the acrylic mirror tiles). If you have only two players, stand a third mirror on a pile of books or plasticine.; Round 1: use one mirror to send the torch beam onto the target.; Round 2: the light must bounce off two mirrors, one after the other, before it reaches the target.; Round 3: the light must bounce off three mirrors. Points in this round count double.; Score the ring the middle of the light spot lands in. Outside the target scores 0. Play again and try to beat your total.; Never let the beam shine into anyone's eyes. If it does, that round scores zero.
 - **Printable score sheet: Bounce Relay score sheet:** Round 1, one mirror. Points: ____; Round 2, two mirrors. Points: ____; Round 3, three mirrors (points count double). Points: ____; Total: ____
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Draw the target and stick it on a wall. 2. Put the torch on books so its beam points away from the target. 3. Dim the room.  
+  *Parent does:* 1. Draw the target and stick it on a wall. 2. Put the torch on books so its beam points sideways along the wall, not at the target. 3. Dim the room.  
   *Parent says:* The torch is pointing the wrong way. We must use mirrors to send its light to the target.  
-  *Child mode:* The torch points away from the target. Use mirrors to send the light there!
+  *Child mode:* The torch does not point at the target. Use mirrors to send the light there!
   - Note: Use plastic mirrors if you can. Remind everyone: the beam must never go into anyone's eyes.
 - **s2 (5 min)**  
   *Parent does:* Round 1: one player tilts their mirror to land the beam on the target.  
@@ -375,7 +375,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Parent says:* We are making a mirror book. It will open and close.  
   *Child mode:* Tape two mirrors together like a book. Stand them up. Shiny sides in.
 - **s2 (6 min)**  
-  *Parent does:* 1. Draw the gap guide: on the paper, mark a point and draw a straight line from it. With the protractor, draw more lines from the same point at 90, 60 and 45 degrees to the first line. 2. Stand the mirror book on the point, one mirror along the first line and the other along the 90 degree line. 3. Put the toy in the middle of the gap. 4. Look in from the open side and count the images of the toy.  
+  *Parent does:* 1. Draw the gap guide: on the paper, mark a point and draw a straight line from it. With the protractor, draw more lines from the same point at 90, 60 and 45 degrees to the first line. Carry the first line on through the point to make 180 degrees. 2. Stand the mirror book on the point, one mirror along the first line and the other along the 90 degree line. 3. Put the toy in the middle of the gap. 4. Look in from the open side and count the images of the toy.  
   *Parent says:* How many elephants can you see? Count only the images, not the real one.  
   *Child mode:* Draw the gap guide. Open the mirrors to the 90 degree gap, a quarter of a circle. Put your toy in the middle. Count the images. Don't count the real toy.
   - Note: At a right angle you should count 3 images. Some children count the real toy too, and say 4. That is fine, as long as they say which they mean.
@@ -465,15 +465,14 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **safety:** A grown-up must be there. Never look at the Sun. Never bounce sunlight into anyone's eyes, or at animals, cars or the road. Bounced sunlight is bright enough to hurt eyes.
 - **record:** Draw where you stood, where the Sun was and where the bright spot landed. Draw the light's path as two straight lines.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Stick 3 paper targets on a shady wall, at different heights. 2. Stand in the sun with your child. 3. Tilt the mirror until a bright spot appears on the wall.  
+  *Parent does:* 1. Stick 3 paper targets on a shady wall, at different heights. 2. Stand where the sun shines in, with your child. 3. Tilt the mirror until a bright spot appears on the wall.  
   *Parent says:* The mirror catches sunlight and sends it on, like a postman. Can you deliver the spot to the first target?  
-  *Child mode:* Stand in the sun with a grown-up. Tilt your mirror. Find the bright spot on the wall. Can you move it to a target?
-  - Note: Watch that the spot never goes near anyone's face. The spot moves twice as far as the mirror turns, so small tilts are best. No sun at your window? Do the same in a dim room with a torch or phone light on a pile of books.
-- **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Try to hit each target. 2. Then go inside and bounce sunlight from a window into the darkest corner of a room.  
+  *Child mode:* Stand where the sun shines in, with a grown-up. Tilt your mirror. Find the bright spot on the wall. Can you move it to a target?
+  - Note: Watch that the spot never goes near anyone's face. The spot moves twice as far as the mirror turns, so small tilts are best. No sun at your window, or a cloudy day? Do the same in a dim room with a torch on a pile of books.
+- **s2 (5 min)**  
+  *Parent does:* 1. Try to hit each target. 2. Then send the spot into the darkest corner of the room.  
   *Parent says:* Can you post light into the darkest corner of the room?  
-  *Child mode:* Hit each target. Then bounce sunlight into a dark corner indoors.
-  - Note: The Sheesh Mahal, the palace of mirrors at Amber Fort near Jaipur, is covered in tiny mirrors. People say a few lamps make the whole hall sparkle.
+  *Child mode:* Hit each target. Then bounce the light into the darkest corner of the room.
 - **s3 (5 min)**  
   *Parent does:* Ask the check question, then claim, evidence and reasoning.  
   *Parent says:* Why does the spot move when you tilt the mirror? Tell me what you think, what you saw, and why.  
@@ -587,7 +586,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - **your turn:** Can you see your own left ear? Your own feet from behind? Invent a way, and draw the path of the light.
 - **constraints:** You may not use a phone camera.; Use only mirrors you have at home.
 - **general:** Stand with your back to the wall mirror. Hold the hand mirror in front of your face. Tilt it until you see the wall mirror in it.; Light from the back of your head goes to the wall mirror, then to the hand mirror, then into your eyes. It bounces off two mirrors.
-- **creative:** Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.; Try a steel tumbler as the second mirror. How clear is the image?; With two mirrors, writing comes out the right way round again. Hold up a word and see.
+- **creative:** Tailors' shops have three mirrors in a fold, so you can see your back and sides at once.; Try a steel tumbler as the second mirror. How clear is the image?
 - **s1 (6 min)**  
   *Parent does:* Your child stands with their back to the wall mirror and tries the hand mirror.  
   *Parent says:* Can you see the back of your head? How many bounces does the light make?  
@@ -643,28 +642,29 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
    **Answer:** Straight back to the torch. *Why:* Head on in means head on out. With no angle, the light comes straight back. Picking left or right usually means remembering the V shape, which only happens when light comes in at an angle.
 2. (truefalse) The James Webb Space Telescope collects starlight with 18 mirrors coated in gold.  
    **Answer:** True. *Why:* True. Its 18 six-sided mirrors are coated in a thin layer of gold, and together they are 6.5 metres wide.
-3. (fill) Two mirrors opened to a quarter of a circle make 3 images. Opened to a sixth of a circle, they make ____ images.  
-   **Answer:** ['5', 'five']. *Why:* Count how many of these gaps fit in a whole circle, then take away 1 for the real toy. 6 take away 1 is 5.
-4. (write) In the How Many of Me test, you made the gap between the two mirrors smaller. Did you see more images or fewer? Explain why, using the word 'reflect'.  
+3. (write) In the How Many of Me test, you made the gap between the two mirrors smaller. Did you see more images or fewer? Explain why, using the word 'reflect'.  
    **Answer:** More images. Light from the toy reflects from one mirror to the other and back again. In a smaller gap, the light can bounce more times before it comes out to my eye. Each bounce makes another image.. *Why:* A strong answer reports the result and explains it with light bouncing between the mirrors, not with the mirrors 'making' toys.
-5. (mcq) Why does a torch have a curved mirror behind the bulb?  
+4. (mcq) Why does a torch have a curved mirror behind the bulb?  
    Options: To send the light forward in a strong beam / To make the bulb hotter / To keep the light inside  
    **Answer:** To send the light forward in a strong beam. *Why:* The curved mirror catches light going backwards and sends it forward, so the beam is stronger.
-6. (match) Match each old mirror to what it was made of.  
+5. (match) Match each old mirror to what it was made of.  
    **Answer:** The first mirrors → still water; Mirrors in Anatolia 8,000 years ago → polished volcanic glass; Aranmula kannadi from Kerala → polished metal; Most mirrors today → glass with a thin metal layer. *Why:* People have always looked for smooth, shiny surfaces. Water came first, then volcanic glass called obsidian, then metals, then metal-backed glass.
-7. (mcq) Deep down, what sends light back from a mirror?  
+6. (mcq) Deep down, what sends light back from a mirror?  
    Options: Free electrons in its thin metal layer / The glass at the front / Air behind the mirror  
    **Answer:** Free electrons in its thin metal layer. *Why:* Light shakes the free electrons in the thin metal layer, and they send the light back out. The glass is mostly there to keep the metal smooth and safe. Picking 'the glass' is very common, but clear glass on its own lets most light through.
-8. (mcq) The Sheesh Mahal, a palace hall at Amber Fort near Jaipur, is covered in tiny mirrors. Why does one lamp make it sparkle so much?  
+7. (mcq) The Sheesh Mahal, a palace hall at Amber Fort near Jaipur, is covered in tiny mirrors. Why does one lamp make it sparkle so much?  
    Options: Each tiny mirror reflects the lamp's light to your eyes from a different place / The mirrors make their own light / The walls are see-through  
    **Answer:** Each tiny mirror reflects the lamp's light to your eyes from a different place. *Why:* Each mirror bounces light towards you from a slightly different spot. So one lamp seems to become hundreds of sparkles.
-9. (sort) Sort these. Which ones have mirror-like parts in their bodies?  
+8. (sort) Sort these. Which ones have mirror-like parts in their bodies?  
    **Answer:** a cat (eyes) → Has mirror-like parts; a dog (eyes) → Has mirror-like parts; a scallop, a kind of shellfish (eyes) → Has mirror-like parts; a sardine (silvery scales) → Has mirror-like parts; a human (eyes) → Does not; an earthworm (skin) → Does not. *Why:* Cats and dogs have a reflecting layer at the back of their eyes. Scallops have tiny mirror eyes. Silvery fish have mirror scales. Human eyes have no reflecting layer, which is why they do not shine in headlights. An earthworm's skin is soft and damp, with no mirror parts.
+9. (mcq) Hill roads in the ghats have a round, bulging mirror at sharp bends. Why is a bulging mirror better there than a flat one?  
+   Options: It shows a wide view, so a driver sees a long stretch of road round the bend / It makes cars look bigger / It makes its own light at night  
+   **Answer:** It shows a wide view, so a driver sees a long stretch of road round the bend. *Why:* A bulging (convex) mirror spreads the rays out, so it shows much more of the road than a flat mirror of the same size. The things look smaller and further away, but the driver sees the whole bend.
 10. (draw) Remember the Sunlight Postman? Draw the Sun, your mirror and the bright spot on a shady wall, with arrows for the light. Then draw where the spot goes if you tilt the mirror a little.  
    **Answer:** An arrow from the Sun to the mirror, and an arrow from the mirror to the spot on the wall. A second drawing shows the mirror tilted and the spot moved along the wall.. *Why:* A strong drawing shows the light reflecting off at the same angle it came in. When the mirror tilts, the reflected beam swings, so the spot moves. It moves further than you might expect.
-11. (mcq) The Taj Mahal's image in its long water pool is upside down. Why?  
-   Options: Still water works as a flat mirror lying below the building, so the top is at the bottom of the image / The water turns the light upside down / The pool is a curved mirror  
-   **Answer:** Still water works as a flat mirror lying below the building, so the top is at the bottom of the image. *Why:* Still water is a flat mirror. It lies below the building, so the image of the top of the building is at the bottom, closest to the water.
+11. (mcq) A tall temple gopuram stands beside a still temple tank. Its image in the water is upside down. Why?  
+   Options: Still water works as a flat mirror lying below the gopuram, so the top is at the bottom of the image / The water turns the light upside down / The pool is a curved mirror  
+   **Answer:** Still water works as a flat mirror lying below the gopuram, so the top is at the bottom of the image. *Why:* Still water is a flat mirror. It lies below the gopuram, so the image of the top of the gopuram is at the bottom, closest to the water.
 12. (write) Why do many shops and small flats put a big mirror on one wall?  
    **Answer:** The mirror makes the room look twice as big, because the room seems to carry on behind the glass. It also makes the room brighter, because it reflects light from the windows and lamps.. *Why:* A strong answer uses an idea from the unit: your image seems as far behind the mirror as the thing is in front, so the whole room seems to carry on behind the glass.
 13. (perspective) There is a famous old story that the Greek thinker Archimedes set enemy ships on fire using mirrors and sunlight. Was it true? People disagree.  
@@ -679,30 +679,29 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 2. (mcq) Ibn al-Haytham argued that light travels into our eyes, not out of them. Which fact did he use?  
    Options: Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye / Mirrors are made of glass / Eyes are too small to send out light  
    **Answer:** Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye. *Why:* If rays only went out of the eye, bright light could not hurt it. The pain and the bright patch show that light comes in.
-3. (mcq) Astronauts left mirrors on the Moon in 1969. What do scientists use them for?  
+3. (mcq) In 1957 the scientist Chien-Shiung Wu tested whether nature works the same in a mirror world. What did she find?  
+   Options: One of nature's forces, the weak force, does not act the same in a mirror world / Everything in nature acts exactly the same in a mirror world / Mirrors change the speed of light  
+   **Answer:** One of nature's forces, the weak force, does not act the same in a mirror world. *Why:* Her test showed that the weak force treats an object and its mirror image differently. Physicists still do not know why nature is built this way.
+4. (mcq) Astronauts left mirrors on the Moon in 1969. What do scientists use them for?  
    Options: To measure how far away the Moon is, by bouncing laser light off them / To make the Moon brighter / To heat the Moon  
    **Answer:** To measure how far away the Moon is, by bouncing laser light off them. *Why:* Scientists send a laser pulse to the Moon and time how long the reflection takes to come back. That tells them the distance very exactly. It shows the Moon moves about 3.8 cm further from Earth every year.
-4. (truefalse) The best mirrors scientists can make reflect every single bit of light.  
+5. (truefalse) The best mirrors scientists can make reflect every single bit of light.  
    **Answer:** False. *Why:* False. Even the best mirrors lose a tiny part of the light at every bounce, less than one part in ten thousand. No mirror is perfect.
-5. (mcq) In the mirror test, scientists put a mark on an animal where they can only see the mark in a mirror. In 2019, a tiny fish called a cleaner wrasse scraped at their mark. Why did this surprise scientists?  
+6. (mcq) In the mirror test, scientists put a mark on an animal where they can only see the mark in a mirror. In 2019, a tiny fish called a cleaner wrasse scraped at their mark. Why did this surprise scientists?  
    Options: Many thought only big-brained animals could pass the mirror test / Fish cannot see / The mark was invisible  
    **Answer:** Many thought only big-brained animals could pass the mirror test. *Why:* Before 2019, the animals that had passed were mostly great apes, elephants, dolphins and magpies. The fish result made scientists argue about what the test really shows.
-6. (write) Leonardo da Vinci, a great Italian artist who lived about 500 years ago, wrote his notebooks in mirror writing. Give two reasons he might have done it. Then say which you think is most likely, and why.  
+7. (write) Mohan says, 'The mirror in my room is so bright in the sun that it must make its own light.' Mohan is a boy in your class. Describe a test, with things you have at home, that shows him whether he is right.  
+   **Answer:** Take the mirror into a room or cupboard with no light and shut the door. If the mirror made its own light, it would glow. It does not glow, so it only reflects light that comes from somewhere else. I could also switch a torch on, and the mirror would shine only where the torch beam hits it.. *Why:* A strong answer plans a fair test: the same mirror, with light and then with none, and says what Mohan would see in each case.
+8. (write) Leonardo da Vinci, a great Italian artist who lived about 500 years ago, wrote his notebooks in mirror writing. Give two reasons he might have done it. Then say which you think is most likely, and why.  
    **Answer:** He was left-handed, so writing right to left meant his hand did not smudge the wet ink. Or he wanted to keep his ideas a little secret. I think not smudging is most likely, because the ink was wet and he wrote with his left hand.. *Why:* Nobody knows for sure. A strong answer gives two different reasons and backs one of them with evidence.
-7. (mcq) Why are metals shiny, but wood is not?  
-   Options: Metals have free electrons that send light back / Metals are always wet / Metals are light sources  
-   **Answer:** Metals have free electrons that send light back. *Why:* Free electrons in metals are shaken by light and send it straight back. Wood has no free electrons, and its surface is rough, so it scatters and soaks up the light.
-8. (write) Two mirrors opened flat, to half a circle, make 1 image of a toy. A quarter of a circle makes 3. A sixth makes 5. Find the rule. Use it to predict an eighth of a circle. What happens as the gap gets very small?  
+9. (write) Two mirrors opened flat, to half a circle, make 1 image of a toy. A quarter of a circle makes 3. A sixth makes 5. Find the rule. Use it to predict an eighth of a circle. What happens as the gap gets very small?  
    **Answer:** The rule: count how many gaps fit in a whole circle, then take away 1. Half gives 2 take away 1, which is 1. An eighth gives 8 take away 1, which is 7. As the gap gets very small, more and more images appear, but the far ones get dim.. *Why:* A strong answer states the rule in words, checks it against the numbers given, makes the prediction, and notices that each bounce loses a little light.
-9. (match) Match each use of mirrors to what it does.  
+10. (match) Match each use of mirrors to what it does.  
    **Answer:** A car's side mirror → shows what is behind; A telescope mirror → gathers faint starlight; Reflectors on a highway → send headlight beams back to the driver; Rows of curved mirrors at a solar kitchen → bounce sunlight onto one spot to make heat. *Why:* All of them use the same rule: a mirror sends light off at the same angle it came in. Curved mirrors can bring lots of light together into one spot.
-10. (draw) A mirror only half your height can show your whole body. Draw yourself standing in front of a mirror. Draw the light from the top of your head to the mirror and into your eyes, and the light from your feet to the mirror and into your eyes. Mark the part of the mirror you need.  
+11. (draw) A mirror only half your height can show your whole body. Draw yourself standing in front of a mirror. Draw the light from the top of your head to the mirror and into your eyes, and the light from your feet to the mirror and into your eyes. Mark the part of the mirror you need.  
    **Answer:** Two V-shaped light paths. Light from the head hits the mirror halfway between the head and the eyes, then goes to the eyes. Light from the feet hits the mirror halfway between the eyes and the feet. The part of the mirror between those two spots is half the body's height.. *Why:* A strong drawing shows each path bouncing at the same angle, and that the two bounce spots are half as far apart as the head and the feet. That is why the mirror only needs to be half your height.
-11. (write) Your two hands are mirror images of each other. Many tiny molecules in living beings also come in two mirror forms. What is strange about which form life uses?  
+12. (write) Your two hands are mirror images of each other. Many tiny molecules in living beings also come in two mirror forms. What is strange about which form life uses?  
    **Answer:** Life almost always uses only one of the two forms. For example, the building blocks of our proteins are nearly all the left-handed kind. Nobody knows for sure why.. *Why:* This is an open question in science. A strong answer says that life picks one form, and that the reason is still unknown.
-12. (mcq) In two facing mirrors, the far images look a little green. Why?  
-   Options: Ordinary mirror glass soaks up a little more of the other colours / Mirrors are painted green / Green light is faster  
-   **Answer:** Ordinary mirror glass soaks up a little more of the other colours. *Why:* Ordinary mirror glass lets green light through a little more easily than other colours. After many trips through the glass, the light left over looks greenish.
 13. (draw) Design a sign for the back of a school bus that the driver behind can read normally. Then design a sign for the front of a van that the driver ahead can read in their rear-view mirror. Draw both signs as they must be painted.  
    **Answer:** The back sign is painted the normal way, because the driver behind looks at it directly. The front sign is painted backwards, from right to left, with every letter turned round, like AMBULANCE.. *Why:* A strong answer sees that only the sign seen in a mirror needs to be backwards. The mirror turns it round, so it must be painted the mirror's way.
 14. (truefalse) You walk towards a mirror at one step each second. Your image comes closer to you at two steps each second.  
@@ -725,31 +724,28 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 3. (mcq) A torch shines at a mirror from the left, at an angle. Where does the light go?  
    Options: Off to the right, at the same angle / Straight back to the torch / Off to the left  
    **Answer:** Off to the right, at the same angle. *Why:* Light leaves a mirror at the same angle it came in, on the other side. Light goes straight back only when you shine at the mirror head on.
-4. (mcq) In the Catch the Beam test, you folded the paper on the middle line, and the line in and the line out matched. What does this show?  
-   Options: The angle in equals the angle out / The mirror made the light / Light bends in the air  
-   **Answer:** The angle in equals the angle out. *Why:* Matching lines have the same angle. That is the rule for mirrors. Picking 'light bends in the air' mixes reflection up with a different idea.
-5. (mcq) Which of these will show the clearest image of your face?  
+4. (mcq) Which of these will show the clearest image of your face?  
    Options: A new, smooth steel plate / A sheet of sandpaper / A newspaper  
    **Answer:** A new, smooth steel plate. *Why:* Only a very smooth surface sends light back in neat order. Sandpaper and newspaper are rough, so they scatter light every way.
-6. (mcq) Hold a page with writing up to a mirror. Why does the writing look backwards?  
+5. (mcq) Hold a page with writing up to a mirror. Why does the writing look backwards?  
    Options: The mirror shows the page as if you were looking at it from behind / The mirror flips each letter upside down / The mirror mixes the letters up  
    **Answer:** The mirror shows the page as if you were looking at it from behind. *Why:* A mirror turns front and back round. So you see the page's words the way they look from behind, through thin paper. That is why they run right to left.
-7. (mcq) In the story Written for the Mirror, Noor paints a sign on the inside of a chai stall's glass window. Why does she paint the letters backwards?  
+6. (mcq) In the story Written for the Mirror, Noor paints a sign on the inside of a chai stall's glass window. Why does she paint the letters backwards?  
    Options: So people on the road, who see the glass from the other side, read it the right way / Because she can only write backwards / So it looks like a secret code  
    **Answer:** So people on the road, who see the glass from the other side, read it the right way. *Why:* Writing seen from the back turns round. Painting it backwards on the inside makes it read the right way from outside.
-8. (mcq) Two mirrors stand like an open book at a right angle, a quarter of a circle. How many images of a toy do you see?  
+7. (mcq) Two mirrors stand like an open book at a right angle, a quarter of a circle. How many images of a toy do you see?  
    Options: 3 / 1 / 4  
    **Answer:** 3. *Why:* 4 quarters fit in a circle. Take away 1 for the real toy. That leaves 3 images. Picking 4 means counting the real toy too.
-9. (mcq) Two mirrors stand at an angle, like an open book, with a toy between them. Why do you see more than one toy?  
+8. (mcq) Two mirrors stand at an angle, like an open book, with a toy between them. Why do you see more than one toy?  
    Options: Light from the toy bounces from one mirror to the other before it reaches your eye / Each mirror makes new toys / The glass splits the toy into pieces  
    **Answer:** Light from the toy bounces from one mirror to the other before it reaches your eye. *Why:* Each extra bounce between the mirrors sends the light to your eye from a new direction, so you see another image. The mirrors make no toys and no light.
-10. (mcq) Why does a car have side mirrors?  
+9. (mcq) Why does a car have side mirrors?  
    Options: So the driver can see what is behind without turning round / To make the car look bigger / To light up the road  
    **Answer:** So the driver can see what is behind without turning round. *Why:* Light from cars behind reflects off the side mirror into the driver's eyes. A mirror makes no light, so it cannot light the road.
-11. (mcq) Why do big telescopes use curved mirrors?  
+10. (mcq) Why do big telescopes use curved mirrors?  
    Options: To gather faint starlight into one bright image / To keep the stars warm / To make the telescope lighter  
    **Answer:** To gather faint starlight into one bright image. *Why:* A curved mirror gathers lots of faint light into one small spot, so we can see very faraway stars.
-12. (mcq) Do scientists agree about what the mirror test shows?  
+11. (mcq) Do scientists agree about what the mirror test shows?  
    Options: No. They still argue, for example about a fish that passed / Yes. Only humans pass / Yes. Every animal passes  
    **Answer:** No. They still argue, for example about a fish that passed. *Why:* Apes, elephants and magpies pass. In 2019 a small fish did too. Scientists still argue about what passing really means.
 
@@ -808,10 +804,8 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - Why did the torch go to the mirror for advice? *It needed some reflection.*
 - How does a mirror say goodbye? *!eybdooG*
 - What did the backwards writing say to the mirror? *Finally, someone who understands me!*
-- Why did the spoon look so worried? *Its reflection was upside down.*
 - What did one mirror say to the other? *Looks like we see eye to eye.*
 - Why did the two facing mirrors never finish talking? *They kept repeating each other for ever.*
-- What did the ambulance say to the car's mirror? *Read me the right way, please!*
 
 ## Connected maths
 - In the torch-and-mirror test, Kavya, a girl in Class 4, started the torch 5 cm, 10 cm and 15 cm to the left of the middle line. Her bounced beams landed 5 cm, 10 cm and 14 cm to the right. Which one did not match exactly, and by how much? **The 15 cm one. It landed at 14 cm, which is 1 cm short.**. 5 matches 5. 10 matches 10. 15 and 14 do not match. 15 take away 14 is 1. So it was 1 cm short. A small gap like this happens when the beam is a bit wide or the mirror leans. (queues `math.addition-subtraction.mental-strategies.L3`)
@@ -825,7 +819,6 @@ Follow the Light (sci.light.L3): Topic-level song
 
 ## Links
 - [PhET Bending Light](https://phet.colorado.edu/en/simulations/bending-light) · simulation: A free online simulation. Shine a laser at a surface and see the reflected ray leave at the same angle. Ignore the bending part for now.
-- [PhET simulations home](https://phet.colorado.edu/) · simulation: Free science simulations from the University of Colorado. Search for light and optics.
 - [Sheesh Mahal, Amber Fort](https://www.tourism.rajasthan.gov.in/) · place · Jaipur, Rajasthan: The palace of mirrors, with walls and ceilings covered in tiny mirror pieces.
 - [Aryabhatta Research Institute of Observational Sciences (ARIES)](https://www.aries.res.in/) · place · Nainital, Uttarakhand: Runs the Devasthal telescopes, including a big mirror telescope and a liquid-mirror telescope.
 - [Nehru Planetarium, New Delhi](https://nehruplanetarium.org/) · place · New Delhi: Shows and exhibits about telescopes and the sky.
@@ -834,10 +827,10 @@ Follow the Light (sci.light.L3): Topic-level song
 - [NASA: James Webb Space Telescope](https://webb.nasa.gov/) · interactive: Pictures and facts about Webb's gold mirror, and the images it takes.
 
 ## Things to buy
-- [Small unbreakable plastic hand mirrors (pack of a few)](https://www.amazon.in/s?k=unbreakable+acrylic+mirror+kids) (tool): Safe mirrors for children, used in most activities and experiments in this unit. Used in e1, e2, a3, a4, a5. 
-- [Square acrylic mirror tiles, about 10 to 15 cm](https://www.amazon.in/s?k=acrylic+mirror+tiles+square) (material): Two tiles taped together make the mirror book in the two-mirrors experiment. Used in e3, g2, c1. 
+- [Small unbreakable plastic hand mirrors (pack of a few)](https://www.amazon.in/s?k=unbreakable+acrylic+mirror+kids) (tool): Safe mirrors for children, used in many of the games, activities and experiments. Used in g1, g2, e1, e2, a3, a4, a5, a7, a8, c1, c2. 
+- [Square acrylic mirror tiles, about 10 to 15 cm](https://www.amazon.in/s?k=acrylic+mirror+tiles+square) (material): Two tiles taped together make the mirror book in the two-mirrors experiment. Used in e3. 
 - [Mirror card or thin flexible mirror sheet](https://www.amazon.in/s?k=mirror+card+sheet+craft) (material): Cuts with scissors, so it is safe for the kaleidoscope project. Used in p1. 
-- [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): Makes the thin beam in the torch-and-mirror test and the Bounce Relay game. Used in e1, g2, c1. 
+- [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): Makes the thin beam in the torch-and-mirror test and lights the games and challenges. Used in e1, g2, c1. 
 - [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures where the bounced beam lands, and draws straight light rays. Used in e1. 
 - [Mirror, a picture book by Jeannie Baker (2010)](https://www.amazon.in/s?k=Mirror+Jeannie+Baker) (book): A wordless book of two families, one in Sydney and one in Morocco, read side by side like reflections. Used in a8. 
 

@@ -532,7 +532,7 @@
   {
    "q": "Some news, like light from a far star, is very old when it reaches us. Is old news still true?",
    "kind": "big",
-   "hint": "Think about letters, photographs and stories from grandparents."
+   "hint": "Think about letters, photographs and stories from older relatives."
   },
   {
    "q": "Scientists can predict what light does perfectly, but still argue about what it is. Can you understand something without knowing what it is?",
@@ -579,11 +579,11 @@
    "Nobody spoke for a while. Even Cassini said nothing.",
    "Afterwards, walking down the hill, Marthe looked up. The sky was crowded with stars, sharp and white. She had always thought she was seeing them now. But if light needed minutes to come from Jupiter, it must need far longer from the stars. Some of the light falling into her eyes might have left before she was born. Perhaps before Paris was built. The whole sky was a bundle of letters, each one written long ago, all arriving tonight at once.",
    "Many astronomers did not believe Rømer. Cassini never did. It took about fifty years before everyone agreed that light has a speed. But Marthe believed him that very night.",
-   "At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,' she had written. It was old news now. But it was still Aunt Isabelle's voice, still true for the moment he wrote it. She held it near the candle and read it slowly, the way you might look at a star."
+   "At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,' she had written. It was old news now. But it was still Aunt Isabelle's voice, still true for the moment she wrote it. She held it near the candle and read it slowly, the way you might look at a star."
   ],
-  "epiphany": "For the parent: Io was never late. Its eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's aunt's letters, older the further she sailed, are the same idea at the speed of a ship.",
+  "epiphany": "For the parent: Io was never late. Io's eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's aunt's letters, older the further she sailed, are the same idea at the speed of a ship.",
   "ask": [
-   "Rømer said Io was not late at all. Then why did it seem late?",
+   "Rømer predicted the exact day Io would be late. Why did that prediction matter so much?",
    "How were Aunt Isabelle's letters like the light from Io?",
    "The astronomers smiled into their sleeves. Why do you think some of them did not believe Rømer?",
    "When Marthe looked at the stars walking home, what did she realise?",
@@ -728,9 +728,9 @@
      "items": [
       "NOW: less than a second (left end)",
       "A few seconds",
-      "Minutes",
-      "Hours",
-      "Years",
+      "Minutes (less than an hour)",
+      "Hours (an hour or more, up to a day)",
+      "Years (1 to 99 years)",
       "Hundreds or thousands of years",
       "Millions of years",
       "Billions of years (right end)"
@@ -738,16 +738,16 @@
     },
     {
      "kind": "tokens",
-     "title": "Star tokens (paper stars, buttons or coins)",
+     "title": "Star tokens (32 paper stars, buttons or coins)",
      "items": [
-      "Cut out 30 small paper stars, or use buttons or coins"
+      "Cut out 32 small paper stars, or use buttons or coins"
      ]
     }
    ],
    "rules": [
     "Cut out the 16 light cards and the 16 time cards, and cut the Light-Age Line into its 8 sections. Lay the sections on the floor in order, with NOW on the left and the billions of years on the right.",
     "Shuffle the light cards and make a face-down pile. Keep the time cards in a separate face-down pile.",
-    "On your turn, take the top light card. Put it in the section where you think its light belongs. Say why. A good reason wins a star token, even if the section is wrong.",
+    "On your turn, take the top light card. Put it in the section where you think its light belongs. Say why. A good reason wins a star token, even if the section is wrong. The cards are shared out one by one, so some players may get one card more than others.",
     "When the light cards are all down, turn over the time cards one by one. Each names its light card. If that light card is in the right section, its player wins a star token. If not, move it to the right section. No star.",
     "The player with the most star tokens wins. If you tie, you share the win."
    ],
@@ -769,7 +769,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the 8 sections of the Light-Age Line on the floor, in order. 2. Shuffle the 16 light cards into a face-down pile. 3. Keep the time cards face down in a separate pile.",
+     "do": "1. Lay the 8 sections of the Light-Age Line on the floor, in order. 2. Shuffle the 16 light cards into a face-down pile. 3. Keep the time cards face down in a separate pile. 4. Put the 32 star tokens in a heap in the middle.",
      "say": "Every card shows something that gives out light. Light takes time to travel. So the light from each thing is a little bit old when it reaches us. We are going to line them up, from the youngest light to the oldest.",
      "kid": "Lay the 8 sections on the floor. NOW is on the left. The oldest light is on the right. Mix up the light cards.",
      "context": "This is the first step of How Old Is This Light?, a card game about how long light takes to reach us. Here you set up the game."
@@ -777,7 +777,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the Moon card and the Sun card together as a practice round.",
+     "do": "Play the Moon card and the Sun card together as a practice round. Then shuffle them back into the light cards.",
      "say": "Let's practise. Which light is older when it reaches us, the Moon's or the Sun's?",
      "kid": "Practice round. Which light took longer to reach you, the Moon's or the Sun's? Say your answer.",
      "check": {
@@ -832,9 +832,9 @@
   },
   {
    "id": "g2",
-   "title": "Photon Tag",
+   "title": "Photon Run",
    "mins": 15,
-   "players": "2 or more players, outdoors or in a big hall",
+   "players": "2 or more players, on a terrace, in a playground or in a big hall",
    "context": "This is a running game about light. Photons are the tiny packets light comes in. They travel in straight lines, so in this game you may only run in straight lines.",
    "printables": [
     {
@@ -842,10 +842,10 @@
      "title": "8 call cards for the caller",
      "items": [
       "PHOTON: run in straight lines only",
-      "FREEZE: you hit something and it absorbed you, so stop",
-      "WAVE: link arms and move in a long wavy line",
-      "PARTICLE: spread out, each person is a separate dot",
-      "SUN: everyone starts from the middle and runs outwards",
+      "FREEZE: you hit something and it absorbed you, so stand still until the next card",
+      "WAVE: sway from side to side as you move forward. If you can, link arms with another player",
+      "PARTICLE: move in short, sharp hops, each player on their own",
+      "SUN: run back to the Sun circle, then run out again in straight lines",
       "WATER: slow down to three quarters of your speed",
       "GLASS: slow down to two thirds of your speed",
       "SPACE: full speed, nothing in your way"
@@ -854,15 +854,15 @@
    ],
    "rules": [
     "One player is the caller. Everyone else is a photon. With two players, one is the caller and one is the photon.",
-    "Photons may only run in straight lines. To turn, you must stop, plant your feet, then set off in a new straight line.",
-    "The caller holds up a call card and shouts it. Everyone must do what it says.",
-    "Each photon scores 1 point for every card it follows. If a photon curves while running, the caller shouts 'Curved!'. That card scores nothing, and the photon runs back to the Sun circle to start again.",
-    "Swap the caller after every 4 cards. The game ends when everyone has been the caller once. The most points wins."
+    "Photons may only run in straight lines. To turn, you must stop, plant your feet, then set off in a new straight line. On WAVE, swaying is allowed, because the wave as a whole still heads in a straight line.",
+    "The caller shuffles the call cards, holds one up and shouts it. Everyone must do what it says. When all 8 cards have been used, shuffle and use them again.",
+    "Each photon scores 1 point for every card it follows. If a photon curves while running, the caller shouts 'Curved!'. That card scores nothing, and the photon runs back to the Sun circle to start again. The caller does not score.",
+    "Swap the caller after every 4 cards. The game ends when everyone has been the caller once. The most points wins. If you tie, you share the win."
    ],
    "setup": [
     {
      "art": "Children standing in the middle of a playground around a chalk Sun, ready to run outwards.",
-     "caption": "1. All photons start at the Sun in the middle."
+     "caption": "1. All photons start at the Sun circle in the middle."
     },
     {
      "art": "Children running away from the centre in straight lines like the spokes of a wheel, one child stopped and turning.",
@@ -870,17 +870,17 @@
     },
     {
      "art": "Children with linked arms making a wavy line across the ground.",
-     "caption": "3. On WAVE, link arms and move like a wave."
+     "caption": "3. On WAVE, sway as you move forward. Link arms if you can."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw a circle with chalk, the Sun, in the middle of the play area. 2. Everyone stands inside it. 3. Choose a caller.",
+     "do": "1. Draw a circle with chalk, or lay a rope or scarf in a circle. This is the Sun, in the middle of the play area. 2. Everyone stands inside it. 3. Choose a caller.",
      "say": "Light leaves the Sun in straight lines, in every direction. You are all photons, tiny packets of light. When I say go, run out of the Sun in a straight line.",
      "kid": "You are a photon! Stand in the Sun circle. When the caller says go, run out in a straight line.",
-     "context": "This is the first step of Photon Tag, a running game about light. Photons are the tiny packets light comes in. Here you set up the game.",
+     "context": "This is the first step of Photon Run, a running game about light. Photons are the tiny packets light comes in. Here you set up the game.",
      "adult": true,
      "parent": "Play somewhere safe and open. Watch that straight-line runners do not crash into each other."
     },
@@ -888,14 +888,14 @@
      "id": "s2",
      "mins": 8,
      "do": "The caller holds up call cards one at a time. Everyone acts them out. Count your points.",
-     "say": "Listen to the caller! Photon means straight lines. Wave means link arms and move together. Particle means break apart.",
+     "say": "Listen to the caller! Photon means straight lines. Wave means sway as you move forward. Particle means short sharp hops.",
      "kid": "Listen to the caller. Do what each card says. Remember: no curving!",
      "ask": [
       {
        "q": "Why do we have to stop to turn?",
        "good": [
         "Light goes in straight lines.",
-        "Light only changes direction when it hits something."
+        "Light only changes direction when it bounces off something or goes into water or glass."
        ]
       }
      ],
@@ -961,29 +961,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Flash and Bang experiment, you stood 200 big steps from the helper. What did you notice, and what does it show?",
+     "p": "A helper far away bangs two steel plates together. You stand 200 big steps away. What do you notice, and what does it show?",
      "opts": [
       "I saw the plates meet before I heard the bang, so light travels faster than sound",
       "I heard the bang before I saw the plates meet, so sound is faster",
       "I saw and heard them at the same moment, so they travel at the same speed"
      ],
      "a": 0,
-     "why": "From far away there is a gap: the sight arrives first, the sound later. Light crosses 200 steps in almost no time. Sound takes about half a second. A strong answer gives what was seen and what it shows.",
-     "how": "e1"
-    },
-    {
-     "t": "count",
-     "p": "A girl sees a flash of lightning. She counts 6 seconds before she hears the thunder. About how many kilometres away was the lightning?",
-     "a": 2,
-     "why": "Sound travels about 1 kilometre every 3 seconds. The light arrived almost at once. 6 seconds divided by 3 is 2. So the lightning was about 2 kilometres away.",
-     "how": "e1"
-    },
-    {
-     "t": "write",
-     "p": "In the Flash and Bang experiment, you first stood 100 big steps away, then 200. Predict what happened to the gap between seeing and hearing. Explain why.",
-     "lines": 3,
-     "a": "The gap got bigger, about twice as long. The sound had twice as far to travel, so it took twice as long. The light still arrived almost at once, because it is so fast.",
-     "why": "A strong answer says the gap comes from the trip the sound makes, not from the helper, and links double the distance to double the gap.",
+     "why": "From far away there is a gap: the sight arrives first, the sound later. Light crosses 200 steps in almost no time. Sound takes about two fifths of a second. A strong answer gives what was seen and what it shows.",
      "how": "e1"
     },
     {
@@ -1108,15 +1093,31 @@
      ],
      "ask": "Which picture fits best with what you saw in this unit? Give one piece of evidence. Then say one thing another picture gets right.",
      "lines": 5,
-     "a": "A strong answer picks a picture and backs it with evidence: sharp shadows and the glow star fit the tiny balls, and the dots seen through a cloth fit the ripples. It then gives another picture its due. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.",
+     "a": "A strong answer picks a picture and backs it with evidence: sharp shadows and the glow star fit the tiny balls, and ripples that add up and cancel in the uruli fit the ripples. It then gives another picture its due. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.",
      "why": "There is no single right answer. Each picture explains some things about light and not others. Scientists argued about this for hundreds of years."
     },
     {
      "t": "write",
-     "p": "An astronaut outside the space station bangs two spanners together. Another astronaut floating nearby sees the spanners meet, but hears nothing. Why?",
+     "p": "An astronaut outside the space station bangs two spanners together. Her friend, floating nearby, sees the spanners meet but hears nothing. Why?",
      "lines": 3,
-     "a": "Light can cross empty space, so she sees the spanners meet. Sound needs air or something else to travel through. Outside the space station there is no air, so the bang cannot reach her.",
+     "a": "Light can cross empty space, so her friend sees the spanners meet. Sound needs air or something else to travel through. Outside the space station there is no air, so the bang cannot reach her.",
      "why": "A strong answer explains both halves: why she sees it and why she does not hear it."
+    },
+    {
+     "t": "fill",
+     "p": "Sunlight is about ____ minutes old when it reaches the Earth.",
+     "a": [
+      "8",
+      "eight"
+     ],
+     "why": "Light takes about 8 minutes and 20 seconds to cross the 15 crore kilometres from the Sun to the Earth."
+    },
+    {
+     "t": "write",
+     "p": "Lakshmi, a girl in Class 4, says the Moon makes its own light, like a candle. What is wrong with this?",
+     "lines": 3,
+     "a": "The Moon does not make light. It bounces back sunlight. A candle flame is a light source, but the Moon is not. Moonlight is sunlight that has travelled 8 minutes to the Moon and then about a second more to us.",
+     "why": "A strong answer says what the Moon really does and uses the difference between a light source and something that only reflects light."
     }
    ]
   },
@@ -1186,14 +1187,7 @@
       "light-year",
       "light year"
      ],
-     "why": "A light-year is a distance, not a time. It is about 95 lakh crore kilometres. Astronomers use it because the distances to stars are so huge."
-    },
-    {
-     "t": "count",
-     "p": "In the Chocolate in the Microwave experiment, a different oven's melted spots were 7 centimetres apart. Melted spots are half a wave apart. How long is one whole wave, in centimetres?",
-     "a": 14,
-     "why": "Half a wave is 7 centimetres, so a whole wave is 2 times 7, which is 14 centimetres. Microwaves are a kind of light we cannot see, so this is a light wave you have measured.",
-     "how": "e3"
+     "why": "A light-year is a distance, not a time. It is about 9 and a half lakh crore kilometres. Astronomers use it because the distances to stars are so huge."
     },
     {
      "t": "mcq",
@@ -1245,14 +1239,6 @@
      "why": "Heat gives the electrons in the iron's atoms extra energy. They give some of it out again as light. Nearly all light, from the Sun to a bulb, is made this way, by electrons giving out energy."
     },
     {
-     "t": "write",
-     "p": "Cassini, the famous head of the Paris Observatory, did not believe Rømer. Was it sensible to doubt Rømer at first? What finally showed that Rømer was right?",
-     "lines": 4,
-     "a": "It was sensible to ask for more evidence, because a new idea can be wrong. But Cassini kept doubting even after Rømer's prediction came true. Later, other measurements of light's speed, like Fizeau's spinning wheel in 1849, agreed with Rømer. Good evidence matters more than a famous name.",
-     "why": "A strong answer says that doubting is fair, but that doubting must give way to evidence.",
-     "how": "a4"
-    },
-    {
      "t": "order",
      "p": "Put these in order of how long their light takes to reach you, from the shortest time to the longest.",
      "items": [
@@ -1273,7 +1259,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the Late Moon act-out from above: the Sun in the middle, the Earth in two places on its path, and Jupiter with Io further out. Draw the path of light from Io to the Earth in each place, and mark which path is longer.",
+     "p": "Draw the Late Moon act-out: the Sun in the middle, the Earth in two places on its path, and Jupiter with Io further out. Draw the path of light from Io to the Earth in each place, and mark which path is longer.",
      "a": "Two straight lines from Io, one to the Earth on the near side of the Sun and one to the Earth on the far side. The far-side line is longer, so light takes longer and Io seems late.",
      "why": "A strong drawing shows that the extra delay comes from the extra distance, not from Io.",
      "art": "A blank page with a small dot in the middle for the Sun.",
@@ -1297,6 +1283,13 @@
      "a": "For lightning a few kilometres away, light takes only about a hundred-thousandth of a second, which is almost nothing. So nearly all the gap is the time the sound takes. That is why dividing the seconds by 3 gives the distance in kilometres.",
      "why": "A strong answer compares the two speeds and says that the light's time is so small that it can be ignored.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Astronomers say that looking at a far galaxy is like looking into the past. Explain what they mean, using the Andromeda galaxy.",
+     "lines": 3,
+     "a": "Andromeda is about 25 lakh light-years away. Its light took about 25 lakh years to reach us. So we see it as it was 25 lakh years ago, not as it is today.",
+     "why": "A strong answer links the distance in light-years to how old the light is."
     }
    ]
   },
@@ -1311,12 +1304,6 @@
      "p": "Sunlight takes about 8 minutes to reach the Earth. It takes about 43 minutes to reach Jupiter. About how many times further from the Sun is Jupiter than the Earth? Choose 2, 5 or 40.",
      "a": 5,
      "why": "Light goes at a steady speed, so the time tells the distance. 43 minutes is a little more than 5 times 8 minutes, so Jupiter is about 5 times further from the Sun. A strong answer divides the times and explains why that works."
-    },
-    {
-     "t": "count",
-     "p": "Sunlight takes about 500 seconds to reach the Earth. Moonlight takes about 1 and a quarter seconds. About how many times longer does sunlight take? Choose 40, 400 or 4,000.",
-     "a": 400,
-     "why": "500 divided by 1 and a quarter is 400. So sunlight takes about 400 times as long as moonlight, because the Sun is about 400 times further away than the Moon. A strong answer divides the times and says why that tells the distances."
     },
     {
      "t": "mcq",
@@ -1346,14 +1333,6 @@
      "lines": 3,
      "a": "The light from the far star is older, by about 990 years. Its light left about 1,000 years ago. The near star's light left about 10 years ago. 1,000 minus 10 is 990.",
      "why": "A strong answer uses the light-year: light from a star so many light-years away left that many years ago."
-    },
-    {
-     "t": "write",
-     "p": "Galileo's lantern test could not find light's speed, but Rømer's moon test could. What did Rømer have that the lanterns did not?",
-     "lines": 3,
-     "a": "A huge distance. Rømer used the width of the Earth's path round the Sun, hundreds of millions of kilometres, so the delay was minutes long. Galileo's lanterns were about a mile apart, so the delay was a few millionths of a second, too short to notice. Rømer also had a steady clock: Io's regular trips round Jupiter.",
-     "why": "A strong answer says that to time something very fast, you need a very long distance or a very exact clock.",
-     "how": "a4"
     },
     {
      "t": "mcq",
@@ -1463,6 +1442,12 @@
      "lines": 3,
      "a": "For example: sunlight on the floor makes it warm, because the energy turns into heat. A potted plant uses sunlight's energy to make food. A glow star soaks up the energy of blue light and gives it out later as a glow.",
      "why": "A strong answer gives two real cases and says where the energy goes each time."
+    },
+    {
+     "t": "truefalse",
+     "p": "A spacecraft is 1 light-hour away. Mission control sends a radio message, and the spacecraft answers at once. The answer arrives back after 2 hours. True or false?",
+     "a": true,
+     "why": "True. Radio travels at the speed of light, so the message takes 1 hour to get there and the answer takes 1 hour to come back. A strong answer counts both journeys."
     }
    ]
   }
@@ -1471,7 +1456,7 @@
   {
    "id": "e1",
    "title": "Flash and Bang: does light beat sound?",
-   "mins": 35,
+   "mins": 30,
    "days": 1,
    "context": "In this experiment, a helper far away makes a flash and a bang at the same moment. You see when the flash arrives and hear when the bang arrives. Then you find out which is faster, light or sound.",
    "question": "When a flash and a bang happen at the same moment far away, which reaches me first, and does the gap grow when I am further away?",
@@ -1494,7 +1479,7 @@
      "qty": 1
     },
     {
-     "item": "a long open space with no traffic, at least 150 metres long, such as a playground or a cricket ground. This is an outdoor experiment, so it is not part of the core path.",
+     "item": "a long open space with no traffic, at least 150 metres long, such as a playground or a cricket ground. If you have no such place, skip this experiment.",
      "qty": 1
     },
     {
@@ -1502,11 +1487,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up must come. Choose a safe place away from traffic.",
+   "safety": "A grown-up must come. Choose a place away from traffic.",
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 30,
      "what": "Go to a long open place. Test the flash and bang from 20, 100 and 200 big steps away. Fill in the table."
     }
    ],
@@ -1529,9 +1514,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stand about 20 big steps from the helper. 2. The helper holds the plates high and bangs them together once. 3. Watch and listen.",
+     "do": "1. Stand about 20 big steps from the helper. 2. The helper holds the plates high and bangs them together 3 times, with a pause between. 3. Watch and listen each time.",
      "say": "Close up, the flash of the plates meeting and the bang seem to happen together. Let's see if that changes when we move far away.",
-     "kid": "Stand 20 big steps from the helper. Watch the plates bang. Did you see it and hear it at the same time?",
+     "kid": "Stand 20 big steps from the helper. Watch the plates bang 3 times. Did you see and hear each bang at the same time?",
      "context": "This is the first step of the Flash and Bang experiment. A helper bangs two steel plates, and you check whether you see it before you hear it.",
      "adult": true,
      "ask": [
@@ -1639,14 +1624,6 @@
      "say": "Lightning is the same. The flash and the thunder happen together. Light reaches us almost at once. Thunder travels about 1 kilometre every 3 seconds. So count the seconds and divide by 3 to find how far away the lightning is.",
      "kid": "Lightning works the same way. Count the seconds from the flash to the thunder. Divide by 3. That is how many kilometres away it is.",
      "parent": "Safety: if you can hear thunder at all, the storm is close enough to be dangerous. Count from indoors. Never shelter under a tree."
-    },
-    {
-     "id": "s6",
-     "mins": 5,
-     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: light is much faster than sound. What I saw: from 200 steps, I saw the plates meet before I heard the bang every time. Why: the light and sound started together, but light travels so fast it arrived almost at once, while sound took a moment."
     }
    ]
   },
@@ -1661,8 +1638,8 @@
    "fair_test": "To make it fair, use the same kind of glow star each time. Hold each screen 2 centimetres away, at full brightness, for 30 seconds. Keep the room dark. Keep the stars in a closed box from the night before, or for at least 1 hour, so they start with no glow. Glow stars can keep a faint glow for a long time, so a few minutes in the dark is not enough.",
    "results_table": [
     "Light used",
-    "How bright it looked",
-    "How long it shone",
+    "How bright the screen looked",
+    "How long we shone it",
     "Did the star glow afterwards? None, faint or bright"
    ],
    "materials": [
@@ -1684,20 +1661,19 @@
      "qty": 1
     },
     {
-     "item": "red and blue cellophane sheets, only if your phone screen does not work (see the notes)",
+     "item": "red and blue cellophane sheets, only if your phone screen does not work (see step 3)",
      "qty": 2,
      "buy": "b-cellophane"
     }
    ],
-   "safety": "If you use a UV torch, a grown-up holds it, and nobody looks into it.",
    "schedule": [
     {
      "day": 1,
      "mins": 29,
-     "what": "Keep the stars in a closed box for at least 1 hour first. Then shine red light and blue light on glow stars and compare how they glow in the dark."
+     "what": "Put the stars in a closed box at least 1 hour before, and best the night before. Then shine red light and blue light on glow stars and compare how they glow in the dark."
     }
    ],
-   "record": "Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw blue light as a few big dots, because each blue photon carries more energy. Draw red light as many small dots.",
+   "record": "Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw each photon as a dot. Give a blue photon a bright ring and the words 'more energy'. Give a red photon a small ring and the words 'less energy'.",
    "setup": [
     {
      "art": "Three glow-in-the-dark star stickers lying on a dark cloth inside a cupboard.",
@@ -1751,7 +1727,7 @@
      "kid": "Now hold the blue screen over star 2. Count to 30. Switch it off. What do you see?",
      "check": {
       "t": "mcq",
-      "q": "The red screen did not make star 1 glow. The blue screen made star 2 glow. Why?",
+      "q": "Suppose the red screen leaves star 1 dark and the blue screen makes star 2 glow. Why?",
       "options": [
        "Each blue photon carries enough energy, and each red photon does not",
        "Red light is too bright",
@@ -1784,7 +1760,7 @@
      "do": "Explain what this shows, using the idea of photons. Then try the white torch on star 3.",
      "say": "Why do you think blue worked and red did not, even for 2 whole minutes? In 1905, Einstein said light comes in packets. Each packet is called a photon. The colour of the light sets how much energy each photon has. Blue photons carry more energy than red ones. Shining red light for longer only sends more red photons, and not one of them carries enough energy. White torchlight is a mix of colours, with blue in it. Will it make star 3 glow?",
      "kid": "Light comes in packets called photons. Blue photons carry more energy than red ones. Try the white torch on star 3. Does it glow?",
-     "parent": "The white torch should make star 3 glow brightly, because it has plenty of blue light in it. This is the same idea as the photoelectric effect, which won Einstein his Nobel Prize. There, ultraviolet or blue light knocks electrons out of a metal, but red light cannot, however bright. If you have a UV torch, a grown-up can try it too. It makes the star glow the brightest.",
+     "parent": "The white torch should make star 3 glow brightly, because it has plenty of blue light in it. This is the same idea as the photoelectric effect, which won Einstein his Nobel Prize. There, ultraviolet light knocks electrons out of a metal, but red light cannot, however bright.",
      "ask": [
       {
        "q": "Why does white light make the star glow?",
@@ -1808,12 +1784,12 @@
   {
    "id": "e3",
    "title": "Chocolate in the Microwave: measure the speed of light",
-   "mins": 30,
+   "mins": 24,
    "days": 1,
    "context": "In this experiment, a grown-up melts a plate of chocolate in a microwave oven with the turning plate taken out. The melted spots show the size of the microwaves. From that, you work out their speed. Microwaves are the same kind of wave as light, so they travel at the speed of light.",
    "question": "Can we measure the speed of light in our own kitchen?",
    "predict": "Before you start, guess. Will the chocolate melt evenly all over, or only in some spots? Why do you think so?",
-   "fair_test": "Take the turning glass plate out, so the chocolate stays still. Heat it for only a short time, about 15 to 20 seconds, so only the hottest spots melt. Measure between the centres of melted spots, more than once, and take the middle value.",
+   "fair_test": "Take the turning glass plate out, so the chocolate stays still. Heat in short bursts of 15 seconds, up to about 40 seconds in all, so only the hottest spots melt. Measure between the centres of melted spots, more than once, and take the middle value.",
    "results_table": [
     "Try",
     "Distance between two melted spots (cm)",
@@ -1837,11 +1813,11 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up uses the microwave. Never run a microwave empty, and never put metal inside. Heat for 15 to 20 seconds at a time only. Melted chocolate can be very hot, so let it cool before touching.",
+   "safety": "Only a grown-up uses the microwave. Never run a microwave empty, and never put metal inside. Heat in bursts of 15 seconds only. Melted chocolate can be very hot, so let it cool before touching.",
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 24,
      "what": "Melt the chocolate with the turning plate removed. Measure the gap between melted spots. Work out the speed with a grown-up."
     }
    ],
@@ -1853,7 +1829,7 @@
     },
     {
      "art": "A flat bar of chocolate on a plate in the middle of the empty microwave.",
-     "caption": "2. Put the chocolate in. A grown-up heats it for 15 to 20 seconds."
+     "caption": "2. Put the chocolate in. A grown-up heats it for 15 seconds."
     },
     {
      "art": "A chocolate bar with three shiny melted spots in a row, a ruler measuring the gap between two spots as about 6 centimetres.",
@@ -1869,7 +1845,7 @@
      "kid": "Look for the sticker on the microwave. Find '2450 MHz'. It means 2,450 million waves every second.",
      "context": "This is the first step of the microwave chocolate experiment. Microwaves are the same kind of wave as light. By measuring them, you can find the speed of light.",
      "adult": true,
-     "parent": "This works only in an oven with a turning plate. An oven with a flat floor and no turning plate stirs its waves around inside, so no clear spots form."
+     "parent": "This works only in an oven with a turning plate that you can take out. An oven with a flat floor and no turning plate stirs its waves around inside, so no clear spots form. If you cannot find the number on the sticker, 2450 MHz is what nearly all home ovens use."
     },
     {
      "id": "s2",
@@ -1878,7 +1854,7 @@
      "say": "The waves inside a microwave make a pattern of hot spots and cold spots. Without the turning plate, the chocolate stays still. So it melts only at the hot spots.",
      "kid": "A grown-up heats the chocolate for 15 seconds. Look closely. Can you see shiny melted spots?",
      "adult": true,
-     "parent": "If no spots have melted, heat it for 5 more seconds at a time, up to 40 seconds in all. Don't let the whole bar melt. If your bar is too small, use a plate of cheese slices or a layer of grated chocolate. Not every oven gives clear spots. If you see none, skip this experiment."
+     "parent": "If no spots have melted, heat it for 5 more seconds at a time, up to 40 seconds in all. Don't let the whole bar melt. If your bar is too small, use a plate of cheese slices or a layer of grated chocolate. Not every oven gives clear spots. If you see none, say so honestly and stop here."
     },
     {
      "id": "s3",
@@ -1904,17 +1880,9 @@
      "mins": 8,
      "do": "Work out the speed together. One whole wave is about 12 centimetres long. The oven sends out 2,450 million waves every second, one after another. So in one second, the front of the wave travels 2,450 million times 12 centimetres.",
      "say": "Each second, the oven makes 2,450 million waves. Each wave is 12 centimetres long. So in one second the wave travels 12 times 2,450 million centimetres. That is about 30,000 million centimetres. That is 3 lakh kilometres. The speed of light!",
-     "kid": "Each wave is 12 centimetres long. There are 2,450 million waves a second. Multiply them. You get about 3 lakh kilometres a second!",
+     "kid": "Each wave is 12 centimetres long. There are 2,450 million waves a second. Multiply them. You get about 3 lakh kilometres a second! Let the chocolate cool, then share it.",
      "adult": true,
      "parent": "The full sum: 12 cm × 2,450,000,000 = 29,400,000,000 cm per second. That is 294,000 kilometres per second, close to the real 299,792. Your answer may be a little different, because the spots are blurry. Getting within a tenth is excellent for a kitchen."
-    },
-    {
-     "id": "s5",
-     "mins": 6,
-     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened. Then share the chocolate.",
-     "say": "What do you think now? What did you see? Why does a microwave tell us about light?",
-     "kid": "Say or write three things. What I think. What I saw. Why. Then eat the chocolate!",
-     "parent": "A good answer: What I think: microwaves travel at about the speed of light. What I saw: the melted spots were about 6 centimetres apart, so the waves were 12 centimetres long. Why: light and microwaves are the same kind of wave, and we multiplied the wave's length by the number of waves each second to get their speed."
     }
    ]
   }
@@ -2000,7 +1968,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Ask your child to try to catch the light in a closed hand, then open it. 2. Switch off the torch. 3. Ask the big questions below.",
+     "do": "1. Ask your child to try to catch the light in a closed hand, then open it. 2. Switch off the torch. 3. Ask the questions in the next line.",
      "say": "Can you catch light? Where does the light go when we switch off the torch? What do you think light is made of? There are no wrong answers yet. We'll find out together.",
      "kid": "Try to catch the light in your hand. Open your hand. Is it there? Where does the light go when you switch off?",
      "ask": [
@@ -2267,7 +2235,7 @@
      "what": "Act out how Ole Rømer found out light takes time, using a chair for Jupiter and a slow messenger walking for light."
     }
    ],
-   "record": "Draw the Sun, the Earth near Jupiter and the Earth far from Jupiter. Write which time Io seemed more late.",
+   "record": "Write the number you had reached at 'Now!' when you stood close, and when you stood far away. Draw Jupiter, and the Earth near it and far from it.",
    "context": "In this acting activity, you show how Ole Rømer, an astronomer in 1676, found out that light takes time to travel. He timed Io, a moon of Jupiter.",
    "setup": [
     {
@@ -2326,11 +2294,11 @@
      "kid": "In 1676, Ole Rømer saw Io seem late. He said the light was taking time. He predicted Io would be 10 minutes late. It was!",
      "ask": [
       {
-       "q": "Why do you think some astronomers did not believe him?",
+       "q": "Rømer predicted the exact day Io would be late, and he was right. Why does a correct prediction convince people more than an explanation alone?",
        "good": [
-        "Everyone thought light was instant.",
-        "He was young and not famous.",
-        "It was a very new idea."
+        "Anyone can check a prediction.",
+        "If the idea were wrong, the prediction would probably have failed.",
+        "It shows the idea works, not only sounds good."
        ]
       }
      ]
@@ -2353,15 +2321,16 @@
      "buy": "b-cellophane"
     },
     {
-     "item": "a free sky map app on a phone, if you have one",
-     "qty": 1
+     "item": "a free sky map app on a phone, or a planisphere (a turning star map)",
+     "qty": 1,
+     "buy": "b-planisphere"
     },
     {
      "item": "a notebook",
      "qty": 1
     }
    ],
-   "safety": "A grown-up must come. Stay in a safe, known place. Use a dim red torch so you do not trip.",
+   "safety": "A grown-up goes with you at night.",
    "schedule": [
     {
      "day": 1,
@@ -2525,7 +2494,7 @@
    "id": "a7",
    "title": "Draw What Light Is: before and after",
    "mins": 15,
-   "days": 1,
+   "days": 5,
    "materials": [
     {
      "item": "paper and coloured pencils",
@@ -2535,8 +2504,13 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Draw what you think light is now. At the end of the unit, draw it again and compare."
+     "mins": 7,
+     "what": "Draw what you think light is."
+    },
+    {
+     "day": 5,
+     "mins": 8,
+     "what": "At the end of the unit, draw it again and compare."
     }
    ],
    "record": "Keep both drawings. Write one sentence under each: what I thought light was.",
@@ -2672,16 +2646,17 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "On a clear evening, take your child outside. Use a sky map app to find any planet that is up. Point at it, then find it on the string.",
-     "say": "Look, that is Jupiter. On our string, it is at 43 centimetres. Sunlight bounced off it and then travelled to us. That took over half an hour.",
+     "do": "On a clear evening, take your child outside. Use a sky map app to find any planet that is up. Point at it, then find it on the string. If no planet is up, find the Moon and point at the Earth peg.",
+     "say": "Look, a planet! Let's find its peg on our string. Its sunlight took that many minutes to reach it, and then more minutes to bounce to us. If you can only see the Moon, its light is just over a second old.",
      "kid": "Go outside with a grown-up. Find a planet with the app. Which peg on your string is it?",
      "adult": true,
      "wait": "Do this on day 2, on a clear evening.",
      "ask": [
       {
-       "q": "Is the light from Jupiter old or new?",
+       "q": "Is the light from the planet old or new?",
        "good": [
-        "A bit old. It took over half an hour to get here."
+        "A bit old. It took many minutes to get here.",
+        "The Moon's light is only about a second old."
        ]
       }
      ]
@@ -2818,7 +2793,7 @@
    ],
    "creative": [
     "Use coloured cellophane: red, green and blue flashes can mean different things.",
-    "In the 1950s, Narinder Singh Kapany, from Punjab, showed that light could be guided along bundles of thin glass threads. Many think he deserved more credit. Today, light flashing billions of times a second in glass fibres under the sea carries the internet between countries.",
+    "In the 1950s, Narinder Singh Kapany, from Punjab, showed that light could be guided along bundles of thin glass threads. He is often called the father of fibre optics. Today, light flashing billions of times a second in glass fibres under the sea carries the internet between countries.",
     "About 150 years ago, armies sent messages by flashing sunlight off mirrors. This was called a heliograph."
    ],
    "your_turn": "Now invent your own light code. Teach it to someone in your family and send them a secret message.",
@@ -3033,7 +3008,7 @@
     "how bright a star is"
    ],
    "a": 0,
-   "why": "Despite the word 'year', a light-year is a distance, about 95 lakh crore kilometres.",
+   "why": "Despite the word 'year', a light-year is a distance, about 9 and a half lakh crore kilometres.",
    "outcome": 5
   },
   {
@@ -3062,7 +3037,7 @@
   },
   {
    "t": "mcq",
-   "p": "Who or what counts as an 'observer' in quantum physics?",
+   "p": "In quantum physics, scientists talk about an 'observer' of light. Who or what counts as an observer?",
    "opts": [
     "Only a person who is watching",
     "Any measuring machine, or anything that records what the light did",
@@ -3106,7 +3081,7 @@
    "art": "Dish antennas on balconies of an apartment block."
   },
   {
-   "text": "A long cricket ground: from the far stands, you see the bat hit the ball a moment before you hear the knock.",
+   "text": "A big cricket ground such as Eden Gardens in Kolkata. From the far stands, you see the bat hit the ball a moment before you hear the knock.",
    "art": "A packed stadium seen from a far stand, a tiny batter mid-shot."
   },
   {
@@ -3175,20 +3150,12 @@
    "a": "It was travelling light."
   },
   {
-   "j": "What did the light say to the snail?",
-   "a": "See you in a few million years."
-  },
-  {
    "j": "Why was the thunder always late for school?",
    "a": "It could never catch up with the lightning."
   },
   {
    "j": "How does the Moon cut its hair?",
    "a": "Eclipse it."
-  },
-  {
-   "j": "Why is sunlight like a postcard?",
-   "a": "It's always a little old by the time it arrives."
   },
   {
    "j": "Why couldn't the astronaut hear the joke in space?",
@@ -3236,7 +3203,7 @@
    "explain": "43 − 8 = 35. So sunlight takes about 35 minutes longer to reach Jupiter. Check: 8 + 35 = 43.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "In the Light-Minute String project, you pegged each planet on a string. Each centimetre stood for one minute of light travel from the Sun.",
-   "why_maths": "Subtracting tells us how much further Jupiter is, in light-minutes. That gap is what made Rømer's moon seem late.",
+   "why_maths": "Subtracting tells us how many more minutes sunlight takes to reach Jupiter than to reach Earth.",
    "how": "p1",
    "chart": {
     "type": "bar",
@@ -3376,7 +3343,7 @@
    "id": "b-glowstars",
    "item": "Glow-in-the-dark star stickers",
    "kind": "material",
-   "why": "Used in the Glow Star Test, to show that blue photons carry more energy than red ones. Sold cheaply in toy and stationery shops. Any glow-in-the-dark toy you already have works too.",
+   "why": "For the Glow Star Test. Sold cheaply in toy and stationery shops. A glow-in-the-dark toy you already have works too.",
    "url": "https://www.amazon.in/s?k=glow+in+the+dark+stars",
    "used_in": [
     "e2"
@@ -3394,44 +3361,13 @@
    ]
   },
   {
-   "id": "b-uvtorch",
-   "item": "Small UV torch (black light), for a grown-up to use",
-   "kind": "tool",
-   "why": "Charges the glow stars brightest of all, because ultraviolet photons carry even more energy than blue ones. A grown-up handles it and nobody looks into it.",
-   "url": "https://www.amazon.in/s?k=uv+torch+395nm",
-   "used_in": [
-    "e2"
-   ]
-  },
-  {
    "id": "b-planisphere",
    "item": "Planisphere, a turning star map",
    "kind": "tool",
-   "why": "Helps you find stars on the Old Starlight Walk without a phone.",
+   "why": "A turning star map. It helps you find stars on the Old Starlight Walk without a phone.",
    "url": "https://www.amazon.in/s?k=planisphere+star+map",
    "used_in": [
-    "a5",
-    "p1"
-   ]
-  },
-  {
-   "id": "b-bodanis",
-   "item": "Book: E=mc² by David Bodanis, for the parent",
-   "kind": "book",
-   "why": "A lively history of the speed of light and Einstein's ideas, with the people behind them.",
-   "url": "https://www.amazon.in/s?k=David+Bodanis+E%3Dmc2",
-   "used_in": [
-    "a4"
-   ]
-  },
-  {
-   "id": "b-pohlen",
-   "item": "Book: Albert Einstein and Relativity for Kids by Jerome Pohlen",
-   "kind": "book",
-   "why": "Activities and stories about light and relativity for children.",
-   "url": "https://www.amazon.in/s?k=Jerome+Pohlen+Einstein+Relativity+for+Kids",
-   "used_in": [
-    "c1"
+    "a5"
    ]
   }
  ],
@@ -3621,5 +3557,6 @@
   "who": "Ole Rømer, then James Bradley and Hippolyte Fizeau",
   "when": "1676, 1729 and 1849",
   "wrong_idea": "Light is instant and takes no time to travel. Rømer showed that Io's light arrived later when the Earth was further from Jupiter, so light must take time to cross space."
- }
+ },
+ "playtest": "Played every game for 2 and 4 players, followed every experiment, activity, project and challenge step by step as a family in a flat, and read every card on its own. Games: the Light-Age Line sections now say their ranges, because Jupiter's 33 to 54 minutes and Saturn's hour were ambiguous. The star tokens are 32, enough for one star for a good reason and one for a right section on all 16 cards. Photon Tag is renamed Photon Run because nobody is tagged, and its call cards now work with 1 photon and 8 cards reused for 4 players (WAVE and PARTICLE no longer need a crowd, WAVE no longer contradicts the straight-line rule). Experiments: Flash and Bang now does 3 bangs at 20 steps too, as the fair test says. The Glow Star check is now conditional, because phone screens differ and a doubtful result is allowed. The drawing instruction no longer makes blue photons bigger than red ones, which suggested photons differ in size. The UV torch, two books and their buy items were removed because no step needs them, and the UV safety line went with it. Microwave chocolate uses 15 second bursts in the fair test, safety and steps, and the third copy of claim-evidence-reasoning was cut from Flash and Bang and the chocolate experiment (it stays in the Glow Star Test, the core experiment); their minutes were fixed. Late Moon's last step now asks a new question, and the story and the stretch sheet no longer repeat it. Light-Minute String has a fallback if no planet is up. Draw What Light Is now has a day-1 and a day-5 schedule. Worksheets: the core sheet no longer assumes the outdoor experiment was done, and repeated lightning, microwave, Sun-against-Moon and Galileo questions were removed and replaced by new questions (Sun age, the Moon is not a light source, Andromeda as the past, a two-way radio delay) so each sheet still has 15. Wrong number fixed: a light-year is about 9 and a half lakh crore km, not 95. A wrong claim in the maths was fixed (the Earth-Jupiter gap did not cause Rømer's delay). Story pronoun for Aunt Isabelle fixed. Two weak jokes were cut, leaving 8. One example now comes from Kolkata. Videos could not be opened here, so they are as the earlier checker left them."
 }

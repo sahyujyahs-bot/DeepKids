@@ -166,7 +166,7 @@
    "concept": "Every object is made of a material",
    "status": "defined",
    "definition": "An object is a thing. A material is what it is made of. The same material can make many objects, and one object can be made of many materials.",
-   "description": "Ask 'What is it?' and you get the object. Ask 'What is it made of?' and you get the material. A tumbler is an object. Steel is its material. Many objects are made of more than one material. Each part has its own job. A pressure cooker has a metal body, a rubber ring and a plastic handle. The unit on Properties of materials explores why each part needs its own material.",
+   "description": "Ask 'What is it?' and you get the object. Ask 'What is it made of?' and you get the material. A tumbler is an object. Steel is its material. Many objects are made of more than one material. Each part has its own job. A pressure cooker has a metal body, a rubber ring and a plastic handle.",
    "examples": [
     "A wooden spoon and a wooden door are made of the same material.",
     "A pencil is wood outside. Inside is graphite, a form of carbon, mixed with clay.",
@@ -405,7 +405,7 @@
    ],
    "perspectives": [],
    "art": "A cotton shirt in the middle, ringed by small portraits: a farmer, a picker, a spinner, a weaver, a tailor and a truck driver.",
-   "context": "A made thing is not only material. This card is about the people whose work is hidden inside it."
+   "context": "A made thing is more than its material. This card is about the people whose work is hidden inside it."
   },
   {
    "concept": "People are now changing the Earth's materials",
@@ -626,7 +626,7 @@
    "id": "g1",
    "title": "Back to the Earth: a card game of journeys",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about where materials come from. You collect sets of three cards: a natural source, the raw material, and a made thing. Together they show one material's journey.",
    "printables": [
     {
@@ -728,11 +728,11 @@
     "Cut out all the cards. Put the 6 HOW cards face up in the middle.",
     "Shuffle the 36 journey cards. Deal 5 to each player. Put the rest face down as a pile.",
     "On your turn, ask one player for a card you need. You may only ask for a card that completes a set where you already hold at least one card. For example: 'Do you have the RAW card for the glass bangle?'",
-    "If they have it, they give it to you and you ask again. If not, they say 'Dig!' and you take the top card from the pile. Your turn then ends. With 2 players, you always ask the other player.",
-    "When you have a full set of three, lay it down in order: source, raw, made. Read the journey out loud.",
+    "If they have it, they give it to you and you ask again. If not, they say 'Dig!' and you take the top card from the pile. Your turn then ends. If the pile is empty, your turn just ends. With 2 players, you always ask the other player.",
+    "When you have a full set of three (at any time, even one you drew from the pile), lay it down in order: source, raw, made. Read the journey out loud.",
     "Then point to the HOW card that fits your journey, and say how people change the raw material. A correct HOW wins 1 extra point.",
-    "If you have no cards left in your hand on your turn, take 3 from the pile.",
-    "A full set is worth 3 points. The game ends when the pile is empty and a player has just finished a turn. Cards left in hands do not score. The player with the most points wins. A tie is a shared win."
+    "If you have no cards left in your hand on your turn, take 3 from the pile. If the pile is empty, your turn is skipped.",
+    "A full set is worth 3 points. The game ends at the end of the first turn after which the pile is empty. Cards left in hands do not score. The player with the most points wins. A tie is a shared win."
    ],
    "flow": [
     {
@@ -789,15 +789,15 @@
    ],
    "setup": [
     {
-     "art": "A table with a fanned hand of picture cards showing a sheep, a ball of wool and a sweater, and six HOW cards face up in the middle.",
+     "art": "A table with a fanned hand of cards that read SOURCE: sheep, RAW: wool and MADE: woollen sweater, and six HOW cards face up in the middle.",
      "caption": "1. Deal 5 cards each. Put the HOW cards in the middle."
     },
     {
-     "art": "A child asking another child for a card, pointing at a picture of a glass bangle.",
+     "art": "A child asking another child for a card, saying the words on it: MADE: glass bangle.",
      "caption": "2. Ask for the card you need to finish a journey."
     },
     {
-     "art": "Three cards laid in a row with arrows between them: a riverbed, a heap of sand, a glass bangle, and a HOW card showing a furnace.",
+     "art": "Three cards laid in a row with arrows between them: SOURCE: riverbed, RAW: sand, MADE: glass bangle, and the card HOW: melt in a furnace beside them.",
      "caption": "3. Lay down a full journey and pick the HOW card."
     }
    ]
@@ -929,7 +929,7 @@
    ],
    "setup": [
     {
-     "art": "Three paper mats on the floor labelled with pictures: a mountain, a bee, a pair of hands, a pile of face-down cards beside them.",
+     "art": "Three paper mats on the floor, each with big words on it: MADE BY NATURE, MADE BY AN ANIMAL, MADE BY PEOPLE, and a pile of face-down cards beside them.",
      "caption": "1. Lay out the three court mats."
     },
     {
@@ -1069,7 +1069,7 @@
      "say": "Which sheet looks most different? Which feels roughest? Could you write on them?",
      "kid": "Peel off your new paper! Compare the three sheets. Try writing your name on each one.",
      "think": "Long ago, people made paper from old rags, rice straw and bark. What else around your home could you make paper from?",
-     "parent": "Handmade paper is thicker and bumpier than shop paper, because factory machines press it much harder and flatter. The sheets with grass or petals will show those bits. The unit on Testing materials shows how to test which paper is strongest."
+     "parent": "Handmade paper is thicker and bumpier than shop paper, because factory machines press it much harder and flatter. The sheets with grass or petals will show those bits."
     },
     {
      "id": "s6",
@@ -1131,7 +1131,7 @@
   },
   {
    "id": "e2",
-   "title": "Salt from the Sea, Like Kashi",
+   "title": "Salt from Salty Water, Using the Sun",
    "mins": 25,
    "days": 4,
    "context": "In this unit's story, Kashi finds salt on the rim of a stone hollow by the sea. In this experiment you get salt out of salty water, using only the sun.",
@@ -1289,7 +1289,7 @@
    "title": "Colours from the Kitchen",
    "mins": 45,
    "days": 2,
-   "context": "In this experiment you colour cotton cloth with dyes from plants in your kitchen. Then you wash the cloth to see which colours stay. Until 1856, almost every dye in the world came from nature.",
+   "context": "In this experiment you colour cotton cloth with dyes from plants in your kitchen. Then you wash the cloth to see which colours stay.",
    "question": "Which kitchen plant gives the strongest colour to cotton cloth? Which colour stays best after washing?",
    "predict": "Guess first. Turmeric, beetroot, onion skins or tea: which will give the brightest colour? Which will wash out most? Why do you think so?",
    "fair_test": "To make it fair, use pieces of the same white cotton cloth, all the same size. Soak each in its dye for the same time, 30 minutes. Wash them all the same way, with the same soap. Change only the dye.",
@@ -1317,7 +1317,7 @@
      "qty": 1
     },
     {
-     "item": "3 tea bags or 2 spoons of tea leaves",
+     "item": "4 steel bowls, a pan (two pans if you have them), water and a stove",
      "qty": 1
     },
     {
@@ -1339,7 +1339,7 @@
     {
      "day": 2,
      "mins": 15,
-     "what": "Wash half of each cloth, dry it, and compare the colours."
+     "what": "Cut each cloth in half and wash one half. When it is dry, a few hours later, compare the colours."
     }
    ],
    "record": "Fill in the table. Stick a small piece of each cloth, before and after washing, beside the table.",
@@ -1361,12 +1361,13 @@
         "The turmeric, bright yellow."
        ]
       }
-     ]
+     ],
+     "wait": "Let the dyes cool until they are just warm, about 15 minutes."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Put one wet cotton cloth into each bowl of warm dye. 2. Push it under with a spoon. 3. Leave all four for 30 minutes. 4. Squeeze them out and hang them to dry in the shade.",
+     "do": "1. Wet the four cloths with plain water and squeeze them out. Put one into each bowl of warm dye. 2. Push each one under with a spoon. 3. Leave all four for 30 minutes. 4. Squeeze them out and hang them to dry in the shade.",
      "say": "Every cloth gets the same time. That way, the only difference is the dye.",
      "kid": "Put one cloth in each bowl. Push it under. Wait 30 minutes. Squeeze it out. Hang it up to dry.",
      "parent": "Wetting the cloth first helps the dye soak in evenly. If you like, add a spoon of salt or a little alum to the dye. Traditional dyers use alum to help some colours stay."
@@ -1375,29 +1376,30 @@
      "id": "s3",
      "mins": 7,
      "wait": "Leave the cloths to dry overnight.",
-     "do": "Next day, cut each cloth in half. Keep one half. Wash the other half with soap and water, rinse it, and dry it.",
+     "do": "Next day, cut each cloth in half. Keep one half. Wash the other half with soap and water, rinse it, and hang it to dry.",
      "say": "Now the big test. Which colours will stay after washing?",
      "kid": "Cut each cloth in half. Wash one half with soap. Keep the other half dry. Which colour will stay?",
      "check": {
       "t": "mcq",
-      "q": "Turmeric, beetroot, onion skins and tea all came from plants. Is the dyed cloth natural, or made by people?",
+      "q": "Why do we wash only half of each cloth?",
       "options": [
-       "Made by people, from natural cotton and natural dyes",
-       "Natural, because everything in it came from plants",
-       "Made by people, from made materials"
+       "So we can compare the washed half with the unwashed half of the very same cloth",
+       "To save soap",
+       "Because half a cloth takes the dye better"
       ],
       "a": 0,
-      "why": "The cotton and the dyes all came from plants, so the materials are natural. But people changed them: they spun and wove the cotton, boiled out the dye and soaked the cloth. So the dyed cloth is made by people, from natural materials. Picking 'natural' usually means looking only at where the materials came from, not at what people did to them."
+      "why": "Both halves had the same cloth, the same dye and the same soaking time. Only the washing is different, so any change in colour comes from the washing. Picking 'to save soap' misses the point of keeping everything else the same."
      }
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Put the washed and unwashed halves side by side. Fill in the table.",
+     "do": "When the washed halves are dry, put them side by side with the unwashed halves. Fill in the table.",
      "say": "Which colour stayed best? Which washed out most?",
      "kid": "Put the halves side by side. Which colour stayed? Which washed away?",
      "parent": "Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too. Plain cotton without alum takes colour weakly, so pale results are normal and honest.",
-     "think": "In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?"
+     "think": "In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?",
+     "wait": "Let the washed halves dry completely, a few hours in a warm, airy place."
     },
     {
      "id": "s5",
@@ -1541,7 +1543,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Press the cooled lumps between paper towels to squeeze out the water. 2. Knead them like dough. 3. Press them into a shape or a cookie cutter. 4. Leave the shapes to dry for 2 days.",
+     "do": "1. Press the cooled lumps between paper towels to squeeze out the water. 2. Knead them like dough. 3. Press them into a shape or a cookie cutter.",
      "say": "Now shape your plastic. As it dries, it will go hard.",
      "kid": "Squeeze the lumps dry in paper towels. Knead them. Press them into a shape. Leave them to dry and harden.",
      "check": {
@@ -1561,7 +1563,7 @@
      "mins": 4,
      "wait": "Leave the shapes to dry for 2 days.",
      "do": "After 2 days, feel the shapes. Tap one on the table.",
-     "say": "About 125 years ago, factories in Germany and France made a hard plastic like this from milk. They called it Galalith, which means 'milk stone'. People made buttons, combs and fountain pens from it.",
+     "say": "Around 1900, factories in Germany and France made a hard plastic like this from milk. They called it Galalith, which means 'milk stone'. People made buttons, combs and fountain pens from it.",
      "kid": "Feel your shape. Is it hard now? Long ago, factories made buttons from milk plastic like this!",
      "think": "Today most plastic is made from oil. Why do you think factories stopped making plastic from milk?",
      "parent": "Galalith was invented in 1897 and made into buttons, buckles and jewellery for decades. It soaks up water and can crack, so most factories later switched to plastics made from oil. If your shapes are still soft after 2 days, leave them 2 more days. Toned milk gives a harder plastic than full-cream milk, because fat keeps it soft."
@@ -1683,7 +1685,7 @@
      "do": "Put the three chains side by side and compare where each one ends.",
      "say": "Did any chain end somewhere other than nature? Which chain was the longest?",
      "kid": "Look at your three chains. Where did each one end? Did any end outside nature?",
-     "think": "The unit on Using the right material asks why a spoon is steel and a hanky is cotton. Can you guess?"
+     "think": "Why do you think a spoon is made of steel, and a hanky of cotton?"
     }
    ],
    "setup": [
@@ -1784,7 +1786,7 @@
   },
   {
    "id": "a3",
-   "title": "The Grandparent Time Machine",
+   "title": "Then and Now: Ask an Older Person",
    "mins": 20,
    "days": 1,
    "context": "In this activity you interview an older person, such as a grandparent, a neighbour or a shopkeeper. You find out what everyday things were made of when they were children.",
@@ -1810,7 +1812,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "context": "This is the first step of the Grandparent Time Machine. You get ready to interview an older person.",
+     "context": "This is the first step of the Then and Now interview. You get ready to interview an older person.",
      "do": "Help your child write six things in the table: bucket, plate, school bag, toy, cup for tea, raincoat or umbrella.",
      "say": "We are going to travel back in time, by asking questions. What were these things made of when the person you ask was your age?",
      "kid": "Write six things in your table. Bucket, plate, bag, toy, tea cup, umbrella. Now let's travel back in time!"
@@ -1821,7 +1823,7 @@
      "do": "Your child asks an older relative or neighbour, in person or by phone, the three questions for each thing. You help write down the answers.",
      "say": "Ask: What was it made of when you were small? Where did that material come from? Why do you think it changed?",
      "kid": "Ask an older person three questions. What was it made of then? Where did it come from? Why did it change?",
-     "parent": "Common answers. Buckets were brass, aluminium, or galvanised iron, which is steel coated with zinc. Plates were brass, bronze, steel or leaf plates called pattal. Bags were cloth or jute. Tea came in clay kulhads. Toys were wood, clay or cloth. Umbrellas were cloth on a cane or metal frame. Plastic became common in Indian homes from about the 1970s and 1980s."
+     "parent": "Common answers. Buckets were brass, aluminium, or galvanised iron, which is steel coated with zinc. Plates were brass, bronze, steel or leaves (a pattal in the north, a banana leaf in the south). Bags were cloth or jute. Tea came in clay kulhads in the north, and coffee in steel tumblers and davara in the south. Toys were wood, clay or cloth. Umbrellas were cloth on a cane or metal frame. Plastic became common in Indian homes from about the 1970s and 1980s."
     },
     {
      "id": "s3",
@@ -1834,11 +1836,11 @@
    ],
    "setup": [
     {
-     "art": "A child sitting beside a grandmother on the thinnai, the raised step at the front of the house, holding a notebook with a THEN and NOW table.",
+     "art": "A child sitting beside an older neighbour on a doorstep, holding a notebook with a THEN and NOW table.",
      "caption": "1. Make a THEN and NOW table."
     },
     {
-     "art": "A grandmother holding up an old brass bucket while the child writes.",
+     "art": "An older person holding up an old brass bucket while the child writes.",
      "caption": "2. Ask what each thing used to be made of."
     },
     {
@@ -1890,7 +1892,7 @@
      "do": "Mark each material on the map, with a small drawing or a stuck-on sample. Use the parent note for places.",
      "say": "Cotton grows a lot in Gujarat and Maharashtra. Where shall we stick it?",
      "kid": "Stick each material on its place on the map. Draw a little picture next to it.",
-     "parent": "Cotton: Gujarat, Maharashtra and Telangana. Jute: West Bengal. Silk: Karnataka, and many other states. Muga, a golden silk, comes almost only from Assam. Rubber: Kerala, and also Tripura. Coir from coconut husks: Kerala and Tamil Nadu. Tea: Assam and West Bengal. Iron ore: Odisha, Jharkhand, Chhattisgarh and Karnataka. Bauxite for aluminium: Odisha. Salt: Gujarat, especially the Little Rann of Kutch, and Tamil Nadu. Marble: Makrana in Rajasthan, the marble of the Taj Mahal. Lac: Jharkhand.",
+     "parent": "Cotton: Gujarat, Maharashtra and Telangana. Jute: West Bengal. Silk: Karnataka, and many other states. Muga, a golden silk, comes almost only from Assam. Rubber: Kerala, and also Tripura. Coir from coconut husks: Kerala and Tamil Nadu. Tea: Assam, West Bengal and the Nilgiris in Tamil Nadu. Coffee: Karnataka and Kerala. Iron ore: Odisha, Jharkhand, Chhattisgarh and Karnataka. Bauxite for aluminium: Odisha. Salt: Gujarat, especially the Little Rann of Kutch, and Tamil Nadu. Marble: Makrana in Rajasthan, the marble of the Taj Mahal. Lac: Jharkhand.",
      "ask": [
       {
        "q": "Which part of India gives the most materials on your map?",
@@ -1996,14 +1998,14 @@
      "parent": "This is hard at first, so praise any thread at all. Short, lumpy thread is normal. Spinners practise for years to make fine, even thread.",
      "check": {
       "t": "mcq",
-      "q": "Is your cotton thread natural, or made by people?",
+      "q": "Why does twisting make a strong thread from short cotton fibres?",
       "options": [
-       "Natural, because cotton grows on plants",
-       "Made by people, from a natural plant fibre",
-       "Made by people, from oil"
+       "Twisting makes the short fibres wrap around each other and grip",
+       "Twisting makes the fibres longer",
+       "Twisting glues the fibres together"
       ],
-      "a": 1,
-      "why": "Cotton fluff grows on the cotton plant, so the material is natural. But you twisted it into a thread, so the thread is made by people. Picking 'from oil' mixes cotton up with synthetic fibres like nylon and polyester, which are made from petroleum."
+      "a": 0,
+      "why": "Each cotton fibre is only a few centimetres long. Twisted together, the fibres press against each other and grip, so the thread is much stronger than any one fibre. Nothing is added and the fibres do not grow."
      }
     },
     {
@@ -2263,7 +2265,7 @@
       "a": 0,
       "why": "Big, heavy grains like sand sink fast. The tiny grains of clay sink very slowly, so they settle last, on top. Picking 'clay floats' is a fair guess. But clay does sink if you wait long enough. It is just slow."
      },
-     "parent": "If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Some soils have very little clay. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it."
+     "parent": "If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Clay is slow to settle, and some soils have very little of it, so this step can fail. A lemon-sized ball needs a good handful of clay; with less, make a smaller diya. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it."
     },
     {
      "id": "s3",
@@ -2352,7 +2354,7 @@
    ],
    "materials": [
     "big leaves: banana, sal, or any big, soft, clean leaf a grown-up says is safe. Banana leaves are sold at many vegetable markets.",
-    "thin twigs or broom sticks, called seenk, for pins",
+    "thin twigs or broom sticks (seenk), or the thin middle ribs of coconut leaves, for pins",
     "a pair of scissors for the grown-up"
    ],
    "general": [
@@ -2485,7 +2487,6 @@
      "do": "Read the usual solutions and creative ideas. Then try making a simple version of your swap, if you can.",
      "say": "Here are some usual swaps and some creative ones. Could your family really use yours?",
      "kid": "Look at the usual swaps and some new ideas. Try making yours. Will your family use it?",
-     "parent": "The unit on Using the right material goes deeper into choosing a material for a job.",
      "think": "Is the best swap the one that is most natural, the one that lasts longest, or the one people will really use?"
     }
    ],
@@ -2502,7 +2503,8 @@
      "art": "A finished cloth bag sewn from an old sari, hanging on a door handle.",
      "caption": "3. Try making it and using it."
     }
-   ]
+   ],
+   "safety": "A grown-up melts the beeswax for wax wraps. Hot wax burns."
   }
  ],
  "videos": [
@@ -3161,45 +3163,18 @@
      "why": "False. Recycling melts and reshapes the plastic into something new. It does not disappear. And most plastic ever thrown away has never been recycled at all. A strong answer says materials change shape but do not vanish."
     },
     {
-     "t": "sort",
-     "p": "Who made each of these? Sort them.",
-     "cats": [
-      "Nature, with no animal or person",
-      "An animal",
-      "People"
+     "t": "mcq",
+     "p": "Paper can be recycled again and again, but only about five to seven times. Why does it stop working after that?",
+     "opts": [
+      "The plant fibres get shorter and weaker each time, so they cannot grip each other",
+      "The atoms in the paper get used up",
+      "The ink turns into glue",
+      "Old paper cannot be mashed with water"
      ],
-     "items": [
-      [
-       "a sand dune",
-       "Nature, with no animal or person"
-      ],
-      [
-       "rain",
-       "Nature, with no animal or person"
-      ],
-      [
-       "a honeycomb",
-       "An animal"
-      ],
-      [
-       "a termite mound",
-       "An animal"
-      ],
-      [
-       "a silk cocoon",
-       "An animal"
-      ],
-      [
-       "a concrete road",
-       "People"
-      ],
-      [
-       "a rubber band",
-       "People"
-      ]
-     ],
-     "a": "see items",
-     "why": "Wind piles up sand, and rain forms when water vapour in the air cools into drops. Bees, termites and silkworms make their own materials and homes. People made the road and the rubber band, from natural materials."
+     "a": 0,
+     "how": "e1",
+     "context": "In the paper experiment, you mashed old newspaper into pulp and pressed it into a new sheet.",
+     "why": "Mashing, pressing and drying break the plant fibres into shorter pieces. Short fibres grip less well, so the paper gets weaker, until it is too weak to recycle. The atoms are never used up. A strong answer says what happens to the fibres."
     }
    ]
   }
@@ -3229,19 +3204,6 @@
    ],
    "a": 0,
    "why": "The journey starts with the sheep, who grows the wool. Then people cut it, spin it and knit it. Picking 'sold in a shop' starts at the end of the journey instead of in nature.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "Glass is made mostly from…",
-   "opts": [
-    "Sand",
-    "Ice",
-    "Plastic",
-    "Salt"
-   ],
-   "a": 0,
-   "why": "Glass is made by melting sand with soda ash and limestone in a furnace. Picking 'ice' is a natural guess, because glass and ice both look clear. But ice melts at room heat and glass does not.",
    "outcome": 0
   },
   {
@@ -3428,8 +3390,8 @@
    "art": "A potter's hands shaping clay on a spinning wheel."
   },
   {
-   "text": "Leaf plates, pattals and donas, sold in bundles at a market or used at a wedding feast.",
-   "art": "Stacks of round leaf plates and leaf bowls at a market stall."
+   "text": "Banana leaves and leaf plates, pattals and donas, at a wedding feast or a sadya, or sold in bundles at a market.",
+   "art": "Stacks of round leaf plates and leaf bowls beside a fresh banana leaf at a market stall."
   },
   {
    "text": "A kabadiwala's cart piled with newspapers, bottles and old metal.",
@@ -3493,10 +3455,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the salt go to the beach?",
-   "a": "To visit its mother, the sea."
-  },
-  {
    "j": "Why was the old newspaper happy in the mixer?",
    "a": "It was about to turn over a new sheet."
   },
@@ -3527,10 +3485,6 @@
   {
    "j": "Why do diyas love Karthigai Deepam?",
    "a": "It's their time to shine."
-  },
-  {
-   "j": "Why did the leaf plate never worry?",
-   "a": "It knew it would turn over a new leaf."
   }
  ],
  "maths": [
@@ -4008,5 +3962,6 @@
   "who": "Antoine Lavoisier",
   "when": "1768 to 1770",
   "wrong_idea": "Water can be turned into earth by boiling it for a long time. Lavoisier's weighing showed that the powder came from the glass vessel, not from the water."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family would, with 2 and with 4 players, in a city flat. Counted the printables: Back to the Earth has 36 journey cards (12 sets of 3) and 6 HOW cards, and the Tricky Court has 20 cases; both match their titles, and no card hides an answer, so none needed a back. Fixed the card game so nobody is stuck when the pile runs out, removed the claim that the app can play, and made the setup pictures match the text-only cards. Colours from the Kitchen: the washed halves must dry before they are compared, so a drying wait was added; the dye pans, cooling time and wetting the cloth were made explicit. Milk plastic: the 2-day drying step was listed twice, now once. Soil to Diya: pulling clay out of soil is slow and may fail, so the parent note says so and gives the potter's clay fallback. Replaced three repeats of the same natural-or-made check (dyed cloth, cotton thread) with new questions about fair testing and twisting, and removed a duplicate glass quiz question and a duplicate sorting question (it repeated the Tricky Court). Cut the jokes to 8, removed references to other units that a family cannot open, renamed the salt experiment and the interview activity so no made-up name or family member is assumed, added a note about wax safety, and added South Indian examples (banana leaf, sadya, coffee, Nilgiris tea, coconut-leaf pins). Kept all ids, the deep truth and the plan. Not checked: the three YouTube videos could not be opened from here and should be previewed by a person before release; plan and buy lists were left as they were."
 }

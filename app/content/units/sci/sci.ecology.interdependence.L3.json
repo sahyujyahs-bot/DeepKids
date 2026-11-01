@@ -1481,30 +1481,144 @@
      "kind": "cards",
      "title": "24 cards to cut out: 12 pairs of partners",
      "items": [
-      "Honeybee",
-      "Mustard flower (she gives nectar; the bee carries her pollen)",
-      "Fig wasp",
-      "Peepal fig (her flowers are inside; the wasp's young grow there)",
-      "Crow",
-      "Neem fruit (the crow eats her; the crow drops her seed far away)",
-      "Fruit bat",
+      {
+       "f": "Honeybee",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-00.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mustard flower (she gives nectar; the bee carries her pollen)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-01.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Fig wasp",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-02.jpg",
+        "credit": "Alan Manson, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Peepal fig (her flowers are inside; the wasp's young grow there)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-03.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Crow",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-04.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Neem fruit (the crow eats her; the crow drops her seed far away)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-05.jpg",
+        "credit": "P Jeganathan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Fruit bat",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-06.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
       "Kapok flower (she gives nectar at night; the bat carries her pollen)",
-      "Bulbul",
-      "Red chilli (the burn does not bother the bulbul; the bulbul carries her seeds)",
-      "Monkey",
+      {
+       "f": "Bulbul",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-08.jpg",
+        "credit": "Aparna Shyam, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Red chilli (the burn does not bother the bulbul; the bulbul carries her seeds)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-09.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Monkey",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-10.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
       "Mango (the monkey eats her flesh and drops the stone)",
-      "Earthworm",
+      {
+       "f": "Earthworm",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-12.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
+      },
       "Plant roots (worm tunnels let air and water in; fallen leaves feed the worm)",
-      "Cow",
-      "Grass (the cow eats grass; her dung feeds the soil where grass grows)",
-      "Sunbird",
-      "Palash flower (she gives nectar; the sunbird carries her pollen)",
-      "Tailorbird",
+      {
+       "f": "Cow",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-14.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Grass (the cow eats grass; her dung feeds the soil where grass grows)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-15.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sunbird",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-16.jpg",
+        "credit": "Shiva Shenoy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Palash flower (she gives nectar; the sunbird carries her pollen)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-17.jpg",
+        "credit": "Vijay Barve, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Tailorbird",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-18.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "Big leaves (the leaves shelter her nest; she eats insects on the plant)",
-      "Hawk moth in Madagascar",
-      "Darwin's orchid (only the moth's long tongue reaches her nectar)",
+      {
+       "f": "Hawk moth in Madagascar",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-20.jpg",
+        "credit": "Annika Lindqvist, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Darwin's orchid (only the moth's long tongue reaches her nectar)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-21.jpg",
+        "credit": "Jean-Paul Boerekamps, CC0, via iNaturalist"
+       }
+      },
       "You",
-      "Tulsi plant (you water her; she gives leaves and oxygen)"
+      {
+       "f": "Tulsi plant (you water her; she gives leaves and oxygen)",
+       "img": {
+        "src": "media/cards/interdependence-g1-0-23.jpg",
+        "credit": "Sandipan Das, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],

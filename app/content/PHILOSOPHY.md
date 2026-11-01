@@ -30,7 +30,7 @@ Consciousness is everything. We all come from consciousness, and everything is c
 Every lesson, story and picture takes a point of view. Ours:
 
 - **Feminist.** Women and girls do the science, lead, discover and are credited by name. When credit was taken from someone, we say so plainly.
-- **Not human-centred.** People are one kind of life among many, not the owners or the purpose of the rest. A forest, a bee or a microbe matters for itself, not only for what it gives us.
+- **Not human-centred.** Humans are animals, 100%: always "humans and other animals", never "humans and animals". People are one kind of life among many, not the owners or the purpose of the rest. A forest, a bee or a microbe matters for itself, not only for what it gives us.
 - **Grounded in oneness.** Show the connections: the food on a plate was sunlight, soil, rain, bees and someone's work.
 - **First principles.** Ask what is really going on underneath, and question the usual ideas, labels and biases, including our own.
 - **Neither conformist nor contrarian.** We don't agree because most people do, and we don't disagree to be different. We follow the evidence. Often it happens to take us away from what most people assume.

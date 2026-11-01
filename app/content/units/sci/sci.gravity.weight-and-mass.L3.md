@@ -197,7 +197,7 @@ We have found that weight is the pull of gravity, and that a falling bottle stop
 
 **Deep truth.** A leaking bottle stopped leaking while it fell, though the Earth pulled it as hard as ever. Gravity pulls every part of you along together, so you cannot feel the pull itself. The heaviness you feel comes from the floor or chair pushing up on you. So astronauts, who are falling all the time, feel no weight, though gravity pulls them almost as hard.  
 *Habit it breaks:* We think the heavy feeling in our body is gravity itself. But a falling bottle, like a falling child, is pulled just as hard and feels no weight. The heaviness comes from whatever holds us up.  
-*Evidence:* In the Drop It experiment, the leaking bottle stopped leaking while it fell, and the coins stopped stretching their rubber band. Astronauts, who are falling all the time, feel weightless, though gravity at their station is about 90 out of every 100 parts as strong as on the ground.
+*Evidence:* In the Drop It experiment, the leaking bottle stopped leaking while it fell, and, if you could see it, the coins stopped stretching their rubber band. Astronauts, who are falling all the time, feel weightless, though gravity at their station is about 90 out of every 100 parts as strong as on the ground.
 
 - *who am i:* You feel heavy only because something holds you up. With nothing holding you, you would feel no weight, and still be all of you.
 - *what is life:* Bones grow strong because they carry weight every day. In space, with nothing pressing on them, astronauts' bones get weaker.
@@ -297,9 +297,9 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 ## Games
 ### g1 · Escape Gravity (25 min)
 - **rules:** Before you start, each player does two challenge cards and takes the force cards they earn from the pile.; Put your counter on EARTH. Take turns to roll the dice and move forward. If you reach SPACE or go past it, you have arrived.; If you land on a gravity event, you must do what it says. But you can stop it by playing a force card that beats it. You must say how that force fights gravity. A WILD CARD beats any event if you explain the force you use.; If you land on a star, do any challenge card to earn the force card it names. Put the challenge card back at the bottom of its pile.; If you land on a forward square, move forward as it says. If a back move would take you past EARTH, stay on EARTH.; Played force cards go in a used pile. When the force pile is empty, shuffle the used pile and use it again.; The first player to reach SPACE must answer one question to win: is gravity still pulling you in space? A wrong answer means waiting one turn and trying again.
-- **Printable board: A track of 20 squares from EARTH to SPACE:** 1 EARTH: start here; 2 ★ Earn a force card; 3 Weight surge: you pick up a heavy load and start to topple. Back 1 (Balance beats it); 4 Rotten plank: it bends under your feet. Back 2 (Support Force beats it); 5 Splashdown: you fall into a lake. Back 2 (Upthrust beats it); 6 ★ Earn a force card; 7 Lift going up: you feel heavy. Miss a turn (Steady Speed beats it); 8 Quicksand: wet sand gives way under you. Back 2 (Spread Out beats it); 9 Free fall: you float for a moment. Forward 2; 10 ★ Earn a force card; 11 Jupiter has no ground: you keep sinking. Back 3 (Sideways Speed beats it); 12 Mass spike: someone hands you a sack of rice. Back 1 (Support Force beats it); 13 Fact stop: say one true fact about weight, then move on; 14 Deep pit: you fall into a pit. Back 2 (Spring Push beats it); 15 ★ Earn a force card; 16 Moon stop: you weigh one sixth here. Forward 1; 17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed beats it); 18 Caught between: the Earth and the Moon pull you opposite ways. Miss a turn (Neutral Pull beats it); 19 Orbit! You are falling and missing. Forward 1; 20 SPACE: you escaped. But is gravity still pulling you?
+- **Printable board: A track of 20 squares from EARTH to SPACE:** 1 EARTH: start here; 2 ★ Earn a force card; 3 Weight surge: you pick up a heavy load and start to topple. Back 1 (Balance beats it); 4 Rotten plank: it bends under your feet. Back 2 (Support Force beats it); 5 Splashdown: you fall into a lake. Back 2 (Upthrust beats it); 6 ★ Earn a force card; 7 Lift going up: you feel heavy. Miss a turn (Steady Speed beats it); 8 Quicksand: wet sand gives way under you. Back 2 (Spread Out beats it); 9 Free fall: you float for a moment. Forward 2; 10 ★ Earn a force card; 11 Jupiter has no ground: you keep sinking. Back 3 (Sideways Speed beats it); 12 Heavy sack: someone hands you a sack of rice. Back 1 (Support Force beats it); 13 Fact stop: say one true fact about weight, then move on; 14 Deep pit: you fall into a pit. Back 2 (Spring Push beats it); 15 ★ Earn a force card; 16 Moon stop: you weigh one sixth here. Forward 1; 17 Black hole surge: the strongest pull of all. Back 3 (only Sideways Speed or a Wild Card beats it); 18 Caught between: the Earth and the Moon pull you opposite ways. Miss a turn (Neutral Pull beats it); 19 Orbit! You are falling and missing. Forward 1; 20 SPACE: you escaped. But is gravity still pulling you?
 - **Printable cards: 20 force cards to cut out:** SUPPORT FORCE: the ground pushes back; SUPPORT FORCE: the ground pushes back; SUPPORT FORCE: the ground pushes back; SUPPORT FORCE: the ground pushes back; UPTHRUST: water holds you up; UPTHRUST: water holds you up; UPTHRUST: water holds you up; SPREAD OUT: spread your weight wide; SPREAD OUT: spread your weight wide; SIDEWAYS SPEED: go fast enough to fall and miss; SIDEWAYS SPEED: go fast enough to fall and miss; STEADY SPEED: the lift stops speeding up; STEADY SPEED: the lift stops speeding up; NEUTRAL PULL: two equal pulls cancel; NEUTRAL PULL: two equal pulls cancel; SPRING PUSH: a trampoline throws you up; SPRING PUSH: a trampoline throws you up; BALANCE: stand steady over your feet; BALANCE: stand steady over your feet; WILD CARD: explain any force and use it
-- **Printable cards: 10 challenge cards, to earn force cards:** Catch a falling friend: a grown-up stands close behind you. Lean back a hand's width into their hands. Earn SUPPORT FORCE.; Press a wall, a cushion and a bucket of water. Which pushes back hardest? Earn SUPPORT FORCE.; Push an empty plastic bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.; Float a paper boat with 3 coins in it. Earn UPTHRUST.; Press the flat end of a pencil, then its sharp point, gently into a ball of chapati dough. Which sinks in more? Earn SPREAD OUT.; Tie a sock to a string and whirl it round in a circle, away from people. Earn SIDEWAYS SPEED.; Walk across the room at a steady speed with a full steel tumbler of water. Don't spill a drop. Earn STEADY SPEED.; Tug of war with a dupatta that ends in a draw. Earn NEUTRAL PULL.; Bounce a ball as high as your knee three times. Earn SPRING PUSH.; Hold tree pose on one leg for 20 seconds. Earn BALANCE.
+- **Printable cards: 10 challenge cards, to earn force cards:** Catch a falling friend: a grown-up stands close behind you. Lean back a hand's width into their hands. Earn SUPPORT FORCE.; Press a wall, a cushion and a bucket of water. Which pushes back hardest? Earn SUPPORT FORCE.; Push an empty plastic bottle down into a bucket of water. Feel it push up. Earn UPTHRUST.; Float a paper boat with 3 coins in it. Earn UPTHRUST.; Press the flat end of a pencil, then its sharp point, gently into a ball of atta dough. Which sinks in more? Earn SPREAD OUT.; Tie a sock to a string and whirl it round in a circle, away from people. Earn SIDEWAYS SPEED.; Walk across the room at a steady speed with a full steel tumbler of water. Don't spill a drop. Earn STEADY SPEED.; Tug of war with a towel, against a grown-up or a friend, that ends in a draw. Earn NEUTRAL PULL.; Bounce a ball as high as your knee three times. Earn SPRING PUSH.; Hold tree pose on one leg for 20 seconds. Earn BALANCE.
 - **Printable tokens: 4 counters to cut out, one for each player (you also need one dice):** 🧑‍🚀; 🪐; 🌙; ☄️
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the board. 2. Shuffle the force cards and challenge cards into two piles. 3. Each player does two challenge cards and takes the force cards they earn.  
@@ -345,7 +345,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent says:* Put your cards down together. Who pulls hardest? Now, what would happen to a person on your card?  
   *Child mode:* Put down a card. Who pulls hardest? Now pick the outcome that fits your card. What would happen to you there?
   - Ask: The Sun has far more mass than Jupiter. Why can't you stand on either of them? (good: They are made of gas, with no solid ground.; Nothing would push back, so you would keep sinking.)
-  - Note: Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Venus, Mars and the Earth, 'you land on solid ground'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A black hole is tricky: up close, 'squashed or stretched'. Far away and moving sideways fast, 'falling round in orbit'. Both black holes show 9 because nobody can stand safely near either.
+  - Note: Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Venus, Mars and the Earth, 'you land on solid ground'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A small black hole: 'squashed or stretched', because its pull changes so fast from your head to your feet. A giant black hole: 'falling round in orbit', because stars really do orbit the giant black hole at the centre of our galaxy. Both show 9 because nobody can stand safely near either.
 - **s4 (3 min)**  
   *Parent does:* End the game by talking about the LIGHT card.  
   *Parent says:* Light has no mass at all. So why does gravity still bend it?  
@@ -366,7 +366,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent says:* A forcemeter measures how hard something pulls. First we make sure it reads zero with just the empty bag. Otherwise every number will be wrong.  
   *Child mode:* Hang the forcemeter up. Hang the empty bag on it. Is the pointer at zero? If not, ask a grown-up to fix it.
 - **s2 (5 min)**  
-  *Parent does:* 1. Put the bag on the kitchen scale and pour in rice until it shows 100 grams. 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.  
+  *Parent does:* 1. Put the bag on the kitchen scale and pour in rice until it shows 100 grams. (Press the scale's zero button first, with the empty bag on it, if it has one.) 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.  
   *Parent says:* Wait until it's completely still. While it bounces, the spring is pulling up harder, then softer. Only when it's still does the spring pull up exactly as hard as gravity pulls down.  
   *Child mode:* Pour 100 grams of rice into the bag. Hang it up. Wait until it is still. Read the number. Write it down.
   - Ask: Why do we wait until the bag is still? (good: When it's bouncing the number keeps changing.; Only when it's still does the spring pull up as hard as gravity pulls down.)
@@ -417,12 +417,12 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water pushes up on things in it, so they seem lighter, but gravity does not change. What I saw: the stone read 3 newtons in the air, 2 newtons under the water, and 3 newtons again when I lifted it out. Why: the water helped hold the stone up, so the forcemeter's spring had less to hold.
+  - Note: A good answer sounds like this. What I think: water pushes up on things in it, so they seem lighter, but gravity does not change. What I saw: the stone read 3 newtons in the air, 2 newtons under the water, and 3 newtons again when I lifted it out. Why: the water helped hold the stone up, so the forcemeter's spring had less to hold.
 ### e3 · A forcemeter in a lift (25 min)
 - **question:** Does a bag's reading on a forcemeter change while a lift goes up and down?
 - **predict:** Guess first. When the lift starts to go up, will the reading go up, go down, or stay the same? What about when it slows down at the top? Why do you think so?
 - **fair test:** Use the same bag and the same forcemeter. Hold your arm still, close to your body, so only the lift moves the bag. Watch the reading at four moments: starting, moving steadily, slowing and stopped. If you have no lift, move the forcemeter up and down with your arm instead, quickly and then slowly.
-- **safety:** A grown-up comes in the lift. Keep the bag away from the doors.
+- **safety:** A grown-up goes in the lift with the child.
 - **record:** Fill in the table. Draw a line graph of the reading during the ride, or watch the film and write the numbers.
 - **results table:** Moment of the ride | My guess: more, less or same? | Reading (newtons)
 - **s1 (4 min) · grown-up needed**  
@@ -448,14 +448,14 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a forcemeter reads more when a lift starts going up, and less when it slows at the top, but gravity stays the same. What I saw: the bag read 10 newtons standing still and 11 as the lift started up. It read 10 while moving steadily, and 9 as it slowed at the top. Why: to speed the bag up, the spring had to pull harder. To slow it down, the spring pulled less.
+  - Note: A good answer sounds like this. What I think: a forcemeter reads more when a lift starts going up, and less when it slows at the top, but gravity stays the same. What I saw: the bag read 10 newtons standing still and 11 as the lift started up. It read 10 while moving steadily, and 9 as it slowed at the top. Why: to speed the bag up, the spring had to pull harder. To slow it down, the spring pulled less.
 ### e4 · Drop it! Where does weight go when things fall? (25 min)
 - **question:** Does a falling thing still press on what is holding it?
-- **predict:** Guess first. If we drop a leaking bottle of water, will the water keep squirting out while it falls? If we drop coins hanging on a rubber band, will the band stay stretched? Why do you think so?
-- **fair test:** Drop each thing from the same height, about as high as a grown-up's head. Drop the water bottle into the bucket and the coin bottle onto the pillow. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.
+- **predict:** Guess first. If we drop a leaking bottle of water, will the water keep squirting out while it falls? Why do you think so?
+- **fair test:** Drop each thing from the same height, about as high as a grown-up's head. Drop the water bottle into the bucket and, for the extra, the coin bottle onto the pillow. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.
 - **safety:** A grown-up makes the holes. Do the water drop in the bathroom over a bucket, or outside. Drop things only into the bucket or onto a pillow or bed, never near anyone's feet.
 - **record:** Fill in the table. Draw the bottle before the drop and during the fall.
-- **results table:** What we dropped | Before the drop: what happened? | During the fall: what happened?
+- **results table:** What we dropped (the leaking bottle, and for the extra, the coin bottle) | Before the drop: what happened? | During the fall: what happened?
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pokes two small holes near the bottom of an empty bottle. 2. Take the cap off, so air can get in. 3. Cover the holes with your fingers and fill the bottle with water. 4. In the bathroom, hold it high over a bucket and uncover the holes. Watch the water squirt out.  
   *Parent says:* Look at the water squirting out. Why do you think it squirts? Now guess. If I drop the bottle, will the water keep squirting? Why do you think so?  
@@ -467,10 +467,10 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Note: The cap must be off, or air cannot get in and the water only dribbles. Let go cleanly, without throwing or spinning the bottle. The fall lasts less than a second, so watch the holes, not the bottle. A slow-motion film shows it best.
   - Check: While the leaking bottle falls, the squirting stops. Why? → **The water and the bottle fall together, so the water stops pressing on the bottle**
 - **s3 (6 min)**  
-  *Parent does:* 1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.  
-  *Parent says:* The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls?  
-  *Child mode:* The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched?
-  - Note: If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this one is harder to see than the leaking bottle. Film it in slow motion and play it back. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero.
+  *Parent does:* Extra, and hard to see. 1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.  
+  *Parent says:* The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls? It is a very quick fall, so you may not see it. That is fine.  
+  *Child mode:* Extra! The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched? It is very quick, so it is fine if you cannot see it.
+  - Note: If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this one is much harder to see than the leaking bottle, and may not work in a plain home test. If you see nothing, say so honestly and go on; the leaking bottle is the main result. Film it in slow motion and play it back. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero.
 - **s4 (4 min)**  
   *Parent does:* Talk about astronauts in the space station.  
   *Parent says:* Astronauts in the space station are like the water in our falling bottle. They and the station are falling together, all the time. So nothing presses on anything. That's why they float.  
@@ -480,7 +480,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: falling things stop pressing on what holds them, so they feel weightless, but gravity still pulls them. What I saw: the water stopped squirting while the bottle fell. The rubber band sprang back and pulled the coins up while the bottle fell onto the pillow. Why: everything was falling together at the same speed, so nothing had to hold anything else up.
+  - Note: A good answer sounds like this. What I think: falling things stop pressing on what holds them, so they feel weightless, but gravity still pulls them. What I saw: the water stopped squirting while the bottle fell. If you could see it, the rubber band sprang back and pulled the coins up while the bottle fell onto the pillow. Why: everything was falling together at the same speed, so nothing had to hold anything else up.
 
 ## Activities
 ### a1 · Who Is Holding You Up? (15 min)
@@ -507,13 +507,13 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Lie flat on the floor. Feel where the floor pushes on you. It holds you up all day!
   - Think: Gravity pulls on every part of you. But the floor pushes only where you touch it. Lying down, it pushes on much more of you. Is that why lying down feels so restful?
 ### a2 · Two Scales, One You (15 min)
-- **safety:** Put the scales on a hard, flat floor. Hold a grown-up's hand when you lean or stand on one leg.
+- **safety:** Hold a grown-up's hand when you lift a leg or stand on one leg.
 - **record:** Write the two numbers for each test, and add them up. Does the total change?
 - **s1 (4 min)**  
   *Parent does:* 1. Put two scales side by side. 2. Your child stands with one foot on each. 3. Read both numbers and add them up.  
   *Parent says:* Each scale is holding up part of you. Let's add them. That's the push holding all of you up.  
   *Child mode:* Put one foot on each scale. Read both numbers. Add them up. That is all of you!
-  - Note: Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it, and read just the one scale.
+  - Note: Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it for the other foot. You cannot add two numbers then, but you can still watch the one number change as you lean, and the books hold the rest.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child leans slowly to the left, then to the right. 2. Then lifts one foot off one scale, holding your hand. 3. Write both numbers each time, and the total.  
   *Parent says:* Lean to one side. What happens to the numbers? And the total?  
@@ -529,16 +529,16 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Do tree pose on one scale. Watch the number as you wobble. Does it jump about?
   - Think: When you wobble, the number jumps. When you are perfectly still, it settles. Why?
 ### a3 · The Space Marathon (act it out) (15 min)
-- **safety:** Pull down very gently, never hard.
+- **safety:** Keep the towel on the shoulders, never near the neck, and pull very gently.
 - **record:** Draw an astronaut running on a treadmill in space, with the stretchy cords pulling her down.
 - **s1 (4 min)**  
   *Parent does:* Your child pretends to float through the space station. They move slowly, push gently off walls, and pretend to catch a floating ball of water in their mouth.  
   *Parent says:* In the space station, nothing pushes on you, because you and the station are falling together. So you float. Show me how you'd move.  
   *Child mode:* You are an astronaut! You float. Move slowly. Push gently off the wall. Catch a floating ball of water with your mouth!
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. Tell the true story of Sunita Williams. 2. Your child jogs on the spot. 3. A grown-up loops a dupatta over the child's shoulders, holds both ends low and pulls down very gently.  
+  *Parent does:* 1. Tell the true story of Sunita Williams. 2. Your child jogs on the spot. 3. A grown-up loops a towel over the child's shoulders, holds both ends low and pulls down very gently.  
   *Parent says:* In 2007, Sunita Williams ran the Boston Marathon in the space station, on a treadmill. But floating feet can't push on a treadmill. So stretchy cords pulled her down onto it. I'm being your stretchy cords.  
-  *Child mode:* Sunita Williams ran a marathon in space! Stretchy cords pulled her down. Jog on the spot. A grown-up gently pulls you down with a dupatta.
+  *Child mode:* Sunita Williams ran a marathon in space! Stretchy cords pulled her down. Jog on the spot. A grown-up gently pulls you down with a towel.
   - Check: Why did Sunita Williams need stretchy cords to run on a treadmill in space? → **Without them she would float off, and her feet could not push on the treadmill**
 - **s3 (5 min)**  
   *Parent does:* Talk about why astronauts exercise for about two hours every day.  
@@ -562,7 +562,6 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* A calm person who makes others listen has gravitas. Who has it in your family? Can you have it too?
   - Think: Is being 'heavy' a good thing? When is it good to be light?
 ### a5 · A Day of Heavy and Light: the feel-weight hunt (15 min, 2 days)
-- **safety:** Notice feelings only during ordinary things. Don't jump off high places to test it.
 - **record:** A list of moments, each marked HEAVY or LIGHT, with what was speeding up, slowing down or holding you.
 - **schedule:** day 1: Get the notebook ready. Carry it all day, and write down each heavy or light moment. (5 min); day 2: Read the notebook together. For each moment, work out what was pushing harder or less. (10 min)
 - **s1 (5 min)**  
@@ -579,9 +578,9 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 
 ## Projects
 ### p1 · The Root That Knows Which Way Is Down (45 min, 6 days)
-- **safety:** Wash your hands after touching the seeds. Don't eat seeds that have grown in the jar.
+- **safety:** Don't eat sprouts that have been growing in the jar for days.
 - **record:** Draw the roots every day. Use an arrow to show which way is down. Write the day under each drawing.
-- **schedule:** day 1: In the evening, soak the seeds in water overnight. (5 min); day 2: Line the jar with wet paper. Push the seeds between the paper and the glass. (5 min); day 3: Look for tiny roots. Draw them. Keep the paper wet. (5 min); day 4: When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points. (10 min); day 5: Look again. Have the roots bent? Draw them. (5 min); day 6: Look and draw once more. Then compare all your drawings and talk about how a root knows which way is down. (15 min)
+- **schedule:** day 1: In the evening, soak the seeds in water overnight. (5 min); day 2: Line the jar with wet paper. Push the seeds between the paper and the glass. (5 min); day 3: Look for tiny roots. Draw them. Keep the paper wet. (5 min); day 4: When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points. (If the roots are still short, wait one more day.) (10 min); day 5: Look again. Have the roots bent? Draw them. (5 min); day 6: Look and draw once more. Then compare all your drawings and talk about how a root knows which way is down. (15 min)
 - **s1 (10 min)**  
   *Parent does:* 1. In the evening, soak 6 moong or chana seeds in water. 2. Next day, line the inside of a clear jar with wet kitchen paper. 3. Push the seeds between the paper and the glass, so you can see them. 4. Put a little water in the bottom.  
   *Parent says:* Plants have no eyes. But they always know which way is down. Let's find out how good they are at it.  
@@ -655,7 +654,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Parent does:* 1. Build the raft. 2. Float it. 3. Add coins one at a time, spread out. 4. Count until it sinks. 5. Change the design and try again.  
   *Parent says:* Add the coins one at a time. Count out loud. How many before it sinks?  
   *Child mode:* Float your raft. Add coins one at a time. Count! How many before it sinks? Then try a better design.
-  - Note: A good raft with low, wide walls can hold 50 coins or more, so you may run out. If you do, add spoonfuls of dry chana instead, and count the spoons. The raft sinks when water spills over the edge, or when one side dips.
+  - Note: A good raft with low, wide walls can hold dozens of coins, so you may run out. If you do, add spoonfuls of dry chana instead, and count the spoons. The raft sinks when water spills over the edge, or when one side dips.
 - **s4 (6 min)**  
   *Parent does:* Compare designs, and look at the usual and creative solutions together.  
   *Parent says:* Ships are made of heavy steel, yet they float. Can you explain why now?  
@@ -663,22 +662,21 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Think: The water never takes away the coins' weight. It only holds it. How much can water hold?
 
 ## Worksheets
-### Weight Detective (core) (core, 16 questions)
+### Weight Detective (core) (core, 15 questions)
 1. (mcq) A shopkeeper in Madurai says, 'This bag of rice weighs 1 kilogram.' A scientist would say the 1 kilogram is something else. What is it?  
    Options: The bag's mass: how much rice is in it / The bag's weight: how hard the Earth pulls it / The bag's size / The bag's speed  
    **Answer:** The bag's mass: how much rice is in it. *Why:* Kilograms tell us how much matter, or stuff, is in the bag. That is its mass. The Earth's pull on it is its weight, measured in newtons. The shopkeeper's way of talking is fine in a shop. Scientists just need two different words.
 2. (fill) Weight is a pull, so scientists measure it in ____.  
    **Answer:** ['newtons', 'newton']. *Why:* Newtons are the unit for every push and pull, and weight is a pull. They are named after Isaac Newton.
-3. (mcq) A girl hangs 100 grams of rice on a forcemeter, and it reads about 1 newton. 200 grams reads about 2 newtons. What should 500 grams read?  
-   Options: About 5 newtons / About 3 newtons / About 500 newtons / About 50 newtons  
-   **Answer:** About 5 newtons. *Why:* Each 100 grams adds about 1 newton. 500 grams is 5 lots of 100 grams, so about 5 newtons. Picking 3 newtons means adding only one more step. Picking 500 newtons mixes up grams and newtons.
+3. (truefalse) A big, fluffy pillow always weighs more than a small steel spoon.  
+   **Answer:** False. *Why:* False. Weight depends on how much matter a thing has, not on how big it looks. A small steel spoon can have more mass than a large pillow full of air and fluff, so the Earth pulls it a little harder.
 4. (write) A girl reads the forcemeter while the bag on it is still bouncing up and down. Why might her number be wrong? What should she do?  
    **Answer:** A strong answer says that while the bag bounces, the spring pulls up sometimes more and sometimes less than gravity pulls down. So the pointer swings. She should wait until the bag hangs still, then read the scale with her eyes level with the pointer.. *Why:* Only when the bag is still does the spring pull up exactly as hard as gravity pulls down. Then the reading is the weight.
 5. (forces) A bag of rice hangs still from a forcemeter. Show the two forces on the bag.  
    Options: gravity / spring pulls up / push / friction  
    **Answer:** gravity down, spring pulls up up. *Why:* Gravity pulls the bag down. The forcemeter's spring pulls it up just as hard, so the bag stays still.
-6. (truefalse) If you took a 1 kilogram bag of rice to the Moon, some of the rice would disappear, because the bag weighs less there.  
-   **Answer:** False. *Why:* False. Not a single grain is lost, so the mass is still 1 kilogram. The bag weighs less because the Moon pulls about one sixth as hard as the Earth.
+6. (fill) Before you hang anything on a forcemeter, the pointer should read ____.  
+   **Answer:** ['zero', '0']. *Why:* If the empty forcemeter does not read zero, every number you read afterwards is wrong by the same amount.
 7. (mcq) On the Moon, the same bag of rice pulls on a forcemeter only about one sixth as hard as on Earth. Why?  
    Options: The Moon has much less mass than the Earth, so it pulls less / Some of the rice is left behind on Earth / There is no air on the Moon / The forcemeter breaks in space  
    **Answer:** The Moon has much less mass than the Earth, so it pulls less. *Why:* Weight depends on what is pulling. The Moon is much smaller, with far less mass, so it pulls more weakly. Picking 'no air' is a common idea, but air does not make things heavy.
@@ -687,20 +685,17 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** The stool pushes up on her just as hard as she presses down. *Why:* When she presses on the stool, its atoms push back on her. Scientists call this the support force. Picking 'gravity does not pull indoors' is wrong: gravity pulls everywhere, all the time.
 9. (draw) Draw yourself standing on the floor. Draw one arrow for gravity's pull on you and one arrow for the floor's push on you.  
    **Answer:** The gravity arrow points down from the middle of the body. The floor's arrow points up from the feet. The two arrows are the same length.. *Why:* When you stand still, the floor pushes up exactly as hard as gravity pulls down.
-10. (mcq) A girl hangs a stone on a forcemeter. It reads 3 newtons in the air. She lowers it all the way under water. What do you predict it will read?  
-   Options: Less than 3 newtons / More than 3 newtons / Exactly 3 newtons / Zero  
-   **Answer:** Less than 3 newtons. *Why:* The water pushes up on the stone, so the spring has less to hold. Scientists call the water's push upthrust. Picking 'exactly 3' is a good guess if gravity is all that matters. But the water helps hold the stone up.
-11. (write) You feel much lighter in a swimming pool. Your friend says gravity must be weaker in water. Is she right? Explain.  
+10. (write) You feel much lighter in a swimming pool. Your friend says gravity must be weaker in water. Is your friend right? Explain.  
    **Answer:** A strong answer says no. Gravity pulls just as hard in the pool. The water pushes up on you, so it helps hold you up. That push is why you feel lighter.. *Why:* We feel our weight through the push of whatever holds us up. In water, the water does some of the holding.
-12. (sort) Sort these. Does the Earth's pull on you stay the same, or change a lot?  
+11. (sort) Sort these. Does the Earth's pull on you stay the same, or change a lot?  
    **Answer:** floating in a pool → Stays the same; riding in a lift → Stays the same; jumping off a step → Stays the same; lying on a bed → Stays the same; standing on the Moon → Changes a lot. *Why:* On the Earth, gravity's pull on you hardly changes, wherever you are. What changes in a pool, a lift or a jump is the push holding you up. On the Moon, it is a different world pulling, about one sixth as hard.
-13. (match) Match each word to what it means.  
+12. (match) Match each word to what it means.  
    **Answer:** weight → the pull of gravity on a thing; mass → how much matter a thing has; newton → the unit for force and weight; kilogram → the unit for mass; support force → the push of a floor or chair holding you up. *Why:* Weight is a pull, measured in newtons. Mass is the amount of matter, measured in kilograms. The support force is the push that holds you up.
-14. (write) In Who Is Holding You Up?, you pressed your hand on a wall, a cushion and a bucket of water. Did each one push back on your hand? How could you tell?  
+13. (write) In Who Is Holding You Up?, you pressed your hand on a wall, a cushion and a bucket of water. Did each one push back on your hand? How could you tell?  
    **Answer:** A strong answer says yes, all three pushed back. The wall pushed back at once, without moving. The cushion squashed first, then pushed back. The water let the hand go in, but you could feel it pushing up, and more as you pressed deeper.. *Why:* Anything that holds you up pushes back. Some things squash before they push back hard enough.
-15. (order) Put these in order of their forcemeter reading on Earth, from smallest to biggest: 1 kilogram of rice, 50 grams of salt, 500 grams of sugar, 100 grams of dal.  
+14. (order) Put these in order of their forcemeter reading on Earth, from smallest to biggest: 1 kilogram of rice, 50 grams of salt, 500 grams of sugar, 100 grams of dal.  
    **Answer:** order shown. *Why:* More mass means a bigger pull. About half a newton, 1 newton, 5 newtons and 10 newtons. It does not matter whether it is salt or rice, only how much there is.
-16. (perspective) Three people in Kochi argue about what makes a bag 'heavy'.  
+15. (perspective) Three people in Chennai argue about what makes a bag 'heavy'.  
    **Answer:** A strong answer sees that each person means something different: Kavya means mass, Farhan means weight, and Paati means the weight you feel. It picks one with a reason, for example that mass never changes, so a shop can count on it. It then admits a real point from another side.. *Why:* All three are real meanings. Scientists keep them apart with three names: mass, weight, and the support force that you feel.
 ### Heavier, Lighter, Weightless (stretch) (stretch, 15 questions)
 1. (mcq) Look at the line graph from the kilogram experiment. 300 grams of rice weighed 3 newtons. If the pattern holds, what would 700 grams weigh?  
@@ -711,11 +706,11 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** The bucket's floor held the stone up, so the spring had nothing to hold. *Why:* On the bottom, the bucket's floor pushed up on the stone, so the string went slack. Picking 'gravity is weaker' means thinking the reading shows gravity directly. It shows only what the spring is holding.
 3. (fill) In the stone results, the stone read 3 newtons in the air and 2.5 newtons when it was half under water. So the water was pushing up on it with ____ newtons.  
    **Answer:** ['0.5', 'half a', 'half', 'a half']. *Why:* 3 take away 2.5 is 0.5, so half a newton. When the whole stone went under, the reading was 2 newtons, so the water pushed up with 1 newton. More of the stone in the water means a bigger push.
-4. (mcq) Look at the lift graph. At which moment did the bag's reading go highest?  
+4. (truefalse) A lift has just started going down. A bathroom scale under you shows a smaller number than when the lift was standing still.  
+   **Answer:** True. *Why:* True. As the lift starts down, the floor pushes up on you a little less than your weight. The scale reads that push, so the number drops for a moment. Gravity has not changed.
+5. (mcq) Look at the lift graph. At which moment did the bag's reading go highest?  
    Options: As the lift started going up / While the lift moved up steadily / As the lift slowed down at the top / When the lift was stopped  
    **Answer:** As the lift started going up. *Why:* To start the bag moving upwards, the spring had to pull harder than gravity, so the reading rose to 11 newtons. Picking 'moving up steadily' is very common. But at a steady speed, nothing is speeding up, so the reading is normal.
-5. (truefalse) In a lift moving upwards at a steady speed, a bag on a forcemeter reads just the same as when the lift is standing still.  
-   **Answer:** True. *Why:* True. Only speeding up or slowing down changes the reading. At a steady speed, the spring pulls up just as hard as gravity pulls down.
 6. (write) Near the top of the ride, the bag's reading dropped to 9 newtons. Did the bag lose some of its mass? What really happened?  
    **Answer:** A strong answer says no, the bag still had all its mass. The lift was slowing down. To slow the bag down, the spring pulled up less than gravity pulled down. So the reading dropped, and then went back to 10 newtons when the lift stopped.. *Why:* The reading shows how hard the spring holds the bag, not the bag's mass. You feel the same: a little lighter as a lift slows at the top.
 7. (mcq) A girl stands with one foot on each of two bathroom scales. Both read 15 kilograms. She lifts her left foot. What does the right scale read now?  
@@ -726,21 +721,21 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 9. (mcq) A child has a mass of 30 kilograms. Look at the chart. About how much would she weigh on the Moon?  
    Options: About 50 newtons / About 300 newtons / About 5 kilograms / About 1,800 newtons  
    **Answer:** About 50 newtons. *Why:* The Moon pulls about one sixth as hard as the Earth. On Earth she weighs about 300 newtons, and 300 divided by 6 is 50. Picking '5 kilograms' mixes up mass and weight: her mass stays 30 kilograms. Picking 1,800 means multiplying by 6 instead of dividing.
-10. (forces) An astronaut floats inside the space station. Show the forces on her. Careful: is anything pushing on her?  
+10. (sort) Sort these. Does each one push up on you, or pull down on you?  
+   **Answer:** the floor → Pushes up on you; the water in a swimming pool → Pushes up on you; the Earth's gravity → Pulls down on you; a chair → Pushes up on you; the mat of a trampoline → Pushes up on you. *Why:* Gravity is the only one that pulls you down. Everything else here holds you up by pushing. That is why we feel our weight only through what pushes on us.
+11. (forces) An astronaut floats inside the space station. Show the forces on her. Careful: is anything pushing on her?  
    Options: gravity / floor pushes up / upthrust / air resistance  
    **Answer:** gravity down. *Why:* Only gravity acts on her, pulling her towards the Earth. Nothing pushes back, which is why she feels weightless. She and the station fall together.
-11. (forces) A child is floating still on her back in a pool. Show the forces on her.  
+12. (forces) A child is floating still on her back in a pool. Show the forces on her.  
    Options: gravity / upthrust / floor pushes up / friction  
    **Answer:** gravity down, upthrust up. *Why:* Gravity pulls her down. The water pushes her up just as hard, so she floats still. There is no floor touching her.
-12. (write) In this unit's story, a girl called Gauri sank the first time she tried to float, because she held her arms and head up out of the water. Explain why that made her sink.  
-   **Answer:** A strong answer says the water can only push up on the parts of her that are in it. With her arms and head in the air, the water pushed on less of her. Its push was too small to hold her up, so gravity won.. *Why:* The more of you is in the water, the more the water can push up. That is why the stone read less when it was all the way under.
 13. (perspective) Bathroom scales in India show kilograms. But a scale really measures a push, which is measured in newtons. Three people disagree about what scales should show.  
    **Answer:** A strong answer picks a side and gives a reason: newtons tell the truth about what the scale measures, while kilograms are easy and match what we really want to know, the mass. It answers back fairly, for example that a kilogram scale would be wrong on the Moon, or that newtons would confuse shoppers.. *Why:* There is no single right answer. A scale measures a push, but it is built to show mass, because on Earth one tells you the other.
 14. (write) A bathroom scale shows kilograms, but it really measures how hard you press on it. Describe one way to make it show more than your real mass without adding anything.  
    **Answer:** Any way that changes the push. For example: jump on the scale and watch the number shoot up as I land. Or stand on it in a lift that is starting to go up. Or push down on a table beside me.. *Why:* The scale shows the push on it, not gravity directly. Anything that changes the push changes the reading, even though your mass is the same.
 15. (draw) Draw yourself standing in a lift that is just starting to go up. Draw one arrow for gravity's pull on you and one arrow for the floor's push on you. Make the bigger force the longer arrow.  
    **Answer:** The gravity arrow points down. The floor's arrow points up from the feet, and it is a little longer than the gravity arrow.. *Why:* To start you moving up, the floor must push up harder than gravity pulls down. That extra push is why you feel heavier as the lift starts.
-### Weight, Mass and the Universe (challenge) (challenge, 16 questions)
+### Weight, Mass and the Universe (challenge) (challenge, 15 questions)
 1. (mcq) A bag hangs from a forcemeter. Where would the forcemeter read zero?  
    Options: Falling freely, with the bag / On top of Mount Everest / At the bottom of a deep well / On the Moon  
    **Answer:** Falling freely, with the bag. *Why:* When the forcemeter and the bag fall together, the spring has nothing to hold. On Everest, in a well or on the Moon, gravity still pulls, so the spring still holds the bag. Picking 'the Moon' forgets that the Moon pulls too, just less.
@@ -753,37 +748,35 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** True. *Why:* True. Mass is a form of energy. The Sun shines by turning about 4 million tonnes of its mass into light every second. It is so huge that it still has plenty left for billions of years.
 5. (write) Mass does two jobs. It is what gravity pulls on. It also makes a thing hard to push: a full almirah is harder to get moving than an empty one. Use both jobs to explain why a full almirah and an empty one would fall together, if there were no air.  
    **Answer:** A strong answer says the full almirah has more mass, so gravity pulls it harder. But more mass also makes it harder to speed up, by exactly the same amount. So both almirahs speed up in the same way and land together.. *Why:* For every thing ever tested, the two jobs of mass match exactly. Einstein built his theory of gravity on this.
-6. (mcq) Most of the mass of your body comes from where?  
+6. (truefalse) If you could stand at the very centre of the Earth, you would weigh almost nothing, because the Earth would pull you equally in every direction.  
+   **Answer:** True. *Why:* True. At the centre, the Earth is all around you and its pulls cancel out. Your mass is just the same, but there is almost no net pull.
+7. (mcq) Most of the mass of your body comes from where?  
    Options: The energy of tiny particles called quarks moving inside your atoms / The air in your lungs / Your bones only / The water you drink each day  
    **Answer:** The energy of tiny particles called quarks moving inside your atoms. *Why:* Deep in each atom are protons and neutrons, and inside those are quarks. Their movement energy, and the force holding them together, make most of your mass. This is mass as a form of energy. Picking 'bones' makes sense, but even bone mass comes from this deep inside.
-7. (truefalse) Scientists can measure weight very exactly, so they know exactly what gravity is and how it works at the tiniest sizes.  
+8. (truefalse) Scientists can measure weight very exactly, so they know exactly what gravity is and how it works at the tiniest sizes.  
    **Answer:** False. *Why:* False. Measuring how gravity behaves is not the same as knowing what it is. At the tiniest sizes, nobody yet knows how gravity works. This is one of the biggest open questions in science.
-8. (mcq) Why do astronauts in the space station exercise for about two hours every day?  
+9. (mcq) Why do astronauts in the space station exercise for about two hours every day?  
    Options: Nothing presses on their bones, so their bones and muscles get weaker without exercise / To keep warm in space / To push the station along / To stop themselves floating  
    **Answer:** Nothing presses on their bones, so their bones and muscles get weaker without exercise. *Why:* Our bones grow strong by carrying our weight every day. In the station, they carry almost nothing, so they lose strength. Stretchy cords hold astronauts down on a treadmill, so their legs have something to push against.
-9. (mcq) Water has mass, so a lot of water underground pulls very slightly on things above it. Two satellites called GRACE measured the Earth's pull over north-western India. What did they find?  
+10. (mcq) Water has mass, so a lot of water underground pulls very slightly on things above it. Two satellites called GRACE measured the Earth's pull over north-western India. What did they find?  
    Options: The pull was getting weaker, because underground water was being used up fast / A new mountain was growing / The Earth had stopped spinning there  
    **Answer:** The pull was getting weaker, because underground water was being used up fast. *Why:* When water is pumped out, there is less mass under the ground, so the pull gets very slightly weaker. In 2009, scientists used GRACE to show this. Picking 'a new mountain' is a good guess about mass, but the change was less mass, not more.
-10. (write) Jupiter pulls much harder than the Earth. Why couldn't you stand on Jupiter and read your weight on a bathroom scale?  
-   **Answer:** A strong answer says Jupiter is a giant ball of gas with no solid ground. There is nothing to push back on you or the scale. Without a support force, the scale has nothing to measure, and you would keep sinking into thicker, hotter gas.. *Why:* A scale only works if something holds it and you up. Weight is still there, but nothing can measure it.
 11. (perspective) Who first understood gravity? People in many places found different parts of the answer.  
    **Answer:** A strong answer says what each one really did: Brahmagupta saw that the Earth pulls things, al-Khazini saw that the pull changes with distance, and Newton gave an exact rule that works for the Moon too. It picks one with a reason and answers back fairly.. *Why:* There is no single right answer. Historians agree Newton's mathematical law was new, but the idea that the Earth pulls things is much older.
 12. (write) Einstein said his happiest thought was this: a person falling from a roof would not feel their own weight. Explain why a falling person feels no weight.  
    **Answer:** A strong answer says we feel our weight only through the push of whatever holds us up, like a floor or a chair. A falling person has nothing holding them up, so nothing pushes on them. Gravity still pulls, but they feel weightless.. *Why:* Weight you feel is the support force. No support, no feeling of weight. This is also why the leaky bottle stops squirting as it falls.
-13. (write) A forcemeter is useless in the space station, because everything floats. Describe one way an astronaut could find which of two things has more mass.  
-   **Answer:** A strong answer uses mass, not weight. For example: tape each thing to the end of a ruler over a table edge, twang it and watch the wobbles. The one that wobbles more slowly has more mass. Or push each one gently and feel which is harder to get moving.. *Why:* Mass makes things hard to speed up, even where nothing has weight. Real astronauts find their mass by rocking on a spring chair.
-14. (mcq) In the root project, you laid the jar on its side, and the roots bent down. How do scientists think a root tip feels which way is down?  
+13. (mcq) In the root project, you laid the jar on its side, and the roots bent down. How do scientists think a root tip feels which way is down?  
    Options: Tiny heavy starch grains sink to the bottom of its cells / It can see the ground / The water in the jar tells it / Roots grow towards the light  
    **Answer:** Tiny heavy starch grains sink to the bottom of its cells. *Why:* Gravity pulls the heavy grains to the lowest side of each cell, and the root grows that way. Plants with very few grains can still find down, so scientists think there is more to it. Picking 'towards the light' mixes roots up with shoots.
-15. (truefalse) In 2023, scientists found that antimatter falls upwards.  
+14. (truefalse) In 2023, scientists found that antimatter falls upwards.  
    **Answer:** False. *Why:* False. In 2023, scientists at CERN, near Geneva, dropped atoms of anti-hydrogen. They fell downwards, like ordinary atoms.
-16. (draw) Draw the space station going round the Earth. Draw an arrow for gravity's pull on it, and an arrow for the way it is moving.  
+15. (draw) Draw the space station going round the Earth. Draw an arrow for gravity's pull on it, and an arrow for the way it is moving.  
    **Answer:** The gravity arrow points from the station to the centre of the Earth. The movement arrow points sideways, along the circle.. *Why:* Gravity pulls the station towards the Earth. Its fast sideways movement means it keeps falling round the Earth and missing.
 
 ## Videos
 - **What Everyone Gets Wrong About Gravity** (Veritasium, 17 min) id `XRr1kaXKBsU`: For the parent, and curious older children. It explains why a falling person feels weightless. It also shows Einstein's idea that the floor's push is what we feel as weight. It links to the three meanings of weight. *Check:* Watch the first 10 minutes. The end goes further than this unit needs.
 - **A tour of the International Space Station, with Sunita Williams** (NASA, 25 min) id `doN4t5NKW-k`: Shows astronauts floating, drinking from pouches, sleeping strapped to walls and exercising on the treadmill with stretchy cords. Watch any 5 to 10 minutes together. *Check:* Preview it first, and pick the parts that suit your child.
-- **A bathroom scale in a lift: a demonstration** (KoonPhysics, 3 min) id `yvCdVO3dysQ`: Shows a scale's reading going up as a lift starts and down as it slows, the same as the forcemeter in the lift experiment. *Check:* Short enough to watch twice.
+- **Bathroom scales on the elevator** (KoonPhysics, 3 min) id `yvCdVO3dysQ`: Shows a scale's reading going up as a lift starts and down as it slows, the same as the forcemeter in the lift experiment. *Check:* Short enough to watch twice.
 
 ## Quiz
 1. (mcq) Which sentence about weight is true?  
@@ -844,7 +837,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - Nuclear power stations, like those at Tarapur and Kudankulam, turn a tiny bit of mass into a lot of energy, as Einstein's rule E = mc² says.
 
 ## Spotted around us
-- The hanging spring balance at a vegetable market or a kirana shop, with a pan below and a pointer at the top.
+- The hanging spring balance at a vegetable market or a kirana or provision shop, with a pan below and a pointer at the top.
 - The big weighbridge at a highway toll plaza, where a whole loaded truck drives on to be weighed.
 - A bathroom scale at the doctor's clinic, and a baby weighing scale at an anganwadi.
 - The sign inside a lift that says how many people or kilograms it can carry.
@@ -884,11 +877,9 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - What do you call a lazy kilogram? *A dead weight.*
 - What did gravity say to the apple? *I'm really falling for you.*
 - What did the Earth say to the Moon? *You're so attractive!*
-- Why did the guru go on a diet? *He wanted to be laghu for a while.*
 - Why is gravity a good friend? *It never lets you down. Well, it always pulls you down.*
 - Why did the bathroom scale feel sad in the lift? *It had its ups and downs.*
 - What's a forcemeter's favourite part of the day? *Hanging out.*
-- Why did the stone love the swimming pool? *The water took a load off its mind.*
 
 ## Connected maths
 - In the kilogram experiment, 100 grams of rice weighed 1 newton. How much would 800 grams weigh? And a 2 kilogram bag of ragi flour? **800 grams weighs about 8 newtons. 2 kilograms weighs about 20 newtons.**. Every 100 grams weighs about 1 newton. 800 grams is 8 lots of 100 grams. So it weighs 8 × 1 = 8 newtons. 2 kilograms is 2,000 grams, which is 20 lots of 100 grams. So it weighs about 20 newtons. (queues `math.weight-capacity.weight.L3`)
@@ -913,12 +904,9 @@ Gravity (sci.gravity.L3): A song about gravity.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about forces, weight and space.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on space and engines.
 - [Kalpana Chawla Memorial Planetarium]() · place · Kurukshetra, Haryana: A planetarium named after Kalpana Chawla, who grew up in nearby Karnal and flew in space.
-- [A swimming pool, a river ghat with a safe bathing area, or the sea, near you]() · place · anywhere: The best place to feel the water hold up your weight. Always swim with a grown-up and a lifeguard.
 
 ## Things to buy
-- [Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter weighs things in newtons. You use it in the kilogram, stone and lift experiments. Look for one marked in newtons (N), often sold as a school spring balance. If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton. Used in e1, e2, e3. 
-- [Digital kitchen scale, up to 5 kilograms](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs rice in grams for the kilogram experiment, so you can compare grams with newtons. No need to buy one if you have packets with the mass printed on them: a 100 gram soap, a 500 gram dal packet and a 1 kilogram rice packet. Used in e1. 
-- [Bathroom weighing scale, a dial one if possible](https://www.amazon.in/s?k=bathroom+weighing+scale+analog) (tool): Used for Two Scales, One You. A dial scale shows changes more clearly than a digital one. Used in a2. 
+- [Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter weighs things in newtons. You use it to weigh rice, to weigh a stone in water and to weigh a bag in a lift. Look for a school spring balance marked in newtons (N). If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton. Used in e1, e2, e3. 
 
 ## Warm-up
 - Weight is the pull of ____ on a thing. → gravity
