@@ -511,7 +511,6 @@
   "epiphany": "The climbing perch was alive in the palm tree because they breathe air as well as water. As long as their body stays damp, they can live out of water for hours. So the fish did not have to climb to get up there. A bird could have dropped them, and they would still be alive.",
   "ask": [
    "Why did Paati keep the fish in wet mud and wet leaves, and not in a pot full of water?",
-   "The leaf man thought the fish would die in air. Why do most fish die in air?",
    "What did Selvi see that the leaf man did not? Why do you think he did not write it down?",
    "How could you test whether a fish really climbs trees, or is dropped by birds?"
   ],
@@ -933,7 +932,7 @@
     "One player is the bat and wears a blindfold. One is the moth. The other players (one or two) are trees, who stand still inside the space. With two players there are no trees.",
     "The bat calls 'Bat!'. The moth must answer 'Moth!' straight away, then may take one slow step. Trees answer 'Tree!' if the bat is within two steps of them.",
     "The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth. Each time the bat touches a tree, add 10 seconds.",
-    "A round ends when the bat tags the moth, or after one minute. If the moth is not caught, the round counts as 60 seconds. Write the seconds on the sheet.",
+    "A round ends when the bat tags the moth, or after one minute. Time it with a phone stopwatch. A tree holds the stopwatch, or with two players the moth holds it and stops it when the bat tags them. If the moth is not caught, the round counts as 60 seconds. Write the seconds on the sheet.",
     "Swap roles until everyone has been the bat once (the sheet has four rounds). The bat with the fewest seconds wins."
    ],
    "context": "Bat and Moth is a blindfold game. It shows how bats find insects in the dark by echolocation.",
@@ -1107,6 +1106,14 @@
      "context": "In the Breath Count experiment, you counted your breaths for one minute sitting still, then just after jumping."
     },
     {
+     "t": "truefalse",
+     "p": "Ants find food by following a smell trail left by other ants.",
+     "a": true,
+     "why": "True. An ant that finds food leaves a trail of smell on the way home. Other ants follow the trail with their antennae, so soon a line of ants arrives.",
+     "how": "e3",
+     "context": "In Ant Detectives, you put sugar, salt and biscuit near an ant path and watched how the ants found them."
+    },
+    {
      "t": "write",
      "p": "In the Limewater Test, the glass with your breath turned milky. The glass with room air stayed clear. Kavya, a girl in Class 3, says, 'The milky colour just comes from bubbles.' How does the room-air glass show she is wrong?",
      "lines": 3,
@@ -1141,12 +1148,6 @@
      "a": "An arrow into the mouth, an arrow out from under the gill cover, and red gills under the cover.",
      "why": "Water goes in at the mouth, flows over the gills, and goes out under the gill cover.",
      "art": "The outline of a fish side-on, with a dotted line where the gill cover is."
-    },
-    {
-     "t": "truefalse",
-     "p": "Bats are blind.",
-     "a": false,
-     "why": "False. All bats can see, and many see well. Many bats that hunt insects at night also use echolocation: they make high sounds and listen for the echoes. 'As blind as a bat' is an old saying, not a fact."
     },
     {
      "t": "perspective",
@@ -1184,17 +1185,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "A fish has gills full of blood. Out of water, they usually die, even though air has more oxygen than water. Why?",
-     "opts": [
-      "Their soft gill threads stick together and dry out, so there is too little surface",
-      "Air is poisonous to fish",
-      "Fish get cold in air"
-     ],
-     "a": 0,
-     "why": "Out of water, the thin gill threads collapse and stick together, like a wet paintbrush pulled out of a jar. Then there is too little damp surface for oxygen to pass through. Picking 'poisonous' is a common idea, but air is not poisonous. Some fish, like the climbing perch, can even breathe it."
-    },
     {
      "t": "mcq",
      "p": "Your diaphragm is a sheet of muscle under your lungs. What does it do when you breathe in?",
@@ -1284,7 +1274,7 @@
     },
     {
      "t": "order",
-     "p": "Predict the order, from fewest breaths a minute to most: elephant, child, mouse.",
+     "p": "Put these animals in order, from fewest breaths a minute to most: mouse, elephant, child.",
      "items": [
       "elephant",
       "child",
@@ -1301,16 +1291,17 @@
      "why": "Breathing rate goes with how hard the muscles are working."
     },
     {
-     "t": "label",
-     "p": "Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.",
-     "a": [
-      "nose",
-      "windpipe",
-      "lungs",
-      "diaphragm"
-     ],
-     "why": "Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.",
-     "art": "An outline of a child's upper body with the breathing system drawn in and four blank label lines."
+     "t": "draw",
+     "p": "Draw the outline of a child's upper body. Draw the breathing system inside it and label four parts: nose, windpipe, lungs, diaphragm.",
+     "a": "The nose and windpipe at the top, two lungs in the chest, and the diaphragm as a dome of muscle under the lungs, each with a label.",
+     "why": "Air goes in through the nose, down the windpipe and into the lungs. The diaphragm under the lungs pulls down to bring air in."
+    },
+    {
+     "t": "write",
+     "p": "An owl hunts mice in the dark. An eagle hunts mice by day. Which sense does each one rely on most, and why?",
+     "lines": 3,
+     "a": "The owl relies on hearing. She can find a mouse in the dark by the sound of it rustling. The eagle relies on sight. He spots a mouse from high in the sky in daylight.",
+     "why": "Each animal relies on the sense that works best where and when they hunt."
     },
     {
      "t": "match",
@@ -1530,15 +1521,8 @@
      "why": "Light hardly reaches muddy water, so eyes help little. Smell, taste, touch, echoes and electricity all work in the dark. The Ganges river dolphin uses echoes, and catfish taste the water with their whiskers."
     },
     {
-     "t": "write",
-     "p": "Design a breathing part for an animal that lives in thick mud with almost no oxygen. Draw it and explain why it would work.",
-     "lines": 5,
-     "a": "For example: a long tube like a snorkel reaching up to the air, or skin with many folds to give lots of surface, or a mouth that gulps air like the climbing perch.",
-     "why": "Good designs give lots of surface, stay damp, or reach air."
-    },
-    {
      "t": "mcq",
-     "p": "Karthik, a boy in Class 4, says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?",
+     "p": "Karthik, a boy in Class 4, says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' Divya, a girl in his class, has done the Limewater Test and read about breath. What should Divya tell him?",
      "opts": [
       "Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air",
       "He is completely right",
@@ -1581,6 +1565,13 @@
      ],
      "a": "pairs as given",
      "why": "Each body solves the same problem, getting oxygen to the cells, in a way that fits where the animal lives."
+    },
+    {
+     "t": "write",
+     "p": "For about 2,000 years, many people taught that we breathe to cool the heart. Then Lavoisier put a guinea pig in a box packed with ice. What did the melted ice and the breath of the guinea pig show about what breathing really does?",
+     "lines": 4,
+     "a": "The guinea pig's warmth melted the ice, and the animal breathed out carbon dioxide. This showed that breathing uses oxygen from the air to release energy from food, a slow burning inside the body, and makes heat and carbon dioxide. It does not just cool the heart.",
+     "why": "A good answer links the warmth, the oxygen and the carbon dioxide to one idea: cells use oxygen to get energy from food."
     }
    ]
   }
@@ -1703,7 +1694,7 @@
      "say": "Now jump on the spot for one whole minute, as fast as is comfortable. The second I say stop, sit down, hand on chest, and we count straight away.",
      "kid": "Jump on the spot for one minute. Then sit down fast. Hand on your chest. Count your breaths for one minute. Write the number.",
      "adult": true,
-     "parent": "Watch for dizziness and let your child stop early if needed. A child with asthma can skip the jumping and count a grown-up's breaths after the grown-up jumps. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.",
+     "parent": "Watch for dizziness and let your child stop early if needed. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.",
      "context": "This is the step where you jump for one minute and then count your breaths again."
     },
     {
@@ -1731,17 +1722,6 @@
        }
       ]
      },
-     "check": {
-      "t": "mcq",
-      "q": "In the breath count chart, the bar for after jumping is taller. What does that tell us?",
-      "options": [
-       "We breathe more times in a minute after jumping",
-       "We breathe fewer times after jumping",
-       "Jumping makes us taller"
-      ],
-      "a": 0,
-      "why": "Each bar shows how many breaths were counted in one minute. A taller bar means more breaths. Picking 'fewer' usually means the bars were read the wrong way round. Look at the numbers on the side of the chart to check."
-     },
      "context": "This is the step where you turn your breath counts into a bar chart."
     },
     {
@@ -1760,7 +1740,7 @@
       {
        "q": "Evidence: what did your numbers show?",
        "good": [
-        "Sitting still I took 20 breaths a minute. After jumping I took 40."
+        "My table shows more breaths just after jumping than sitting still. For example, 20 sitting and 40 after jumping."
        ]
       },
       {
@@ -1771,7 +1751,7 @@
        ]
       }
      ],
-     "think": "A cheetah after a chase pants very hard. A sleeping python breathes only a few times a minute. Why might that be?",
+     "think": "Put a hand on your chest after jumping and feel your heart. It beats faster too. Why might the heart and the lungs speed up together?",
      "context": "This is the last step of the Breath Count experiment. You explain what you found, using claim, evidence and reasoning."
     }
    ]
@@ -1883,7 +1863,7 @@
      "say": "Blow out gently through the straw, in slow bubbles. Breathe in through your nose, never through the straw. I'll squeeze room air from the bottle into the other glass at the same time.",
      "kid": "Breathe in through your nose. Blow out gently through the straw. Never suck. Watch the bubbles. A grown-up squeezes air into the other glass.",
      "adult": true,
-     "parent": "The breath glass usually goes cloudy within 30 seconds to a minute. The room-air glass stays nearly clear, because room air has only a tiny bit of carbon dioxide. Look at 30 seconds and 1 minute, and stop by 2 minutes. If you keep blowing for longer, the milkiness can clear again, because extra carbon dioxide dissolves the white powder. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bottle, if you have one.",
+     "parent": "The breath glass usually goes cloudy within 30 seconds to a minute. The room-air glass stays clear, or turns only a little hazy near the end, because room air has only a tiny bit of carbon dioxide. Look at 30 seconds and 1 minute, and stop by 2 minutes. If you keep blowing for longer, the milkiness can clear again, because extra carbon dioxide dissolves the white powder. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bottle, if you have one.",
      "context": "This is the step where you bubble your breath into one glass of limewater, and room air into the other."
     },
     {
@@ -1902,7 +1882,7 @@
       {
        "q": "Evidence?",
        "good": [
-        "The breath glass went milky in under a minute. The room-air glass stayed clear."
+        "The breath glass went milky in under a minute. The room-air glass stayed clear, or only a little hazy."
        ]
       },
       {
@@ -1912,17 +1892,6 @@
        ]
       }
      ],
-     "check": {
-      "t": "mcq",
-      "q": "The limewater with breath turned milky. The one with room air stayed clear. Why?",
-      "options": [
-       "Breathed-out air has much more carbon dioxide than room air",
-       "Breathed-out air has no oxygen at all",
-       "Spit from the straw made it milky"
-      ],
-      "a": 0,
-      "why": "Carbon dioxide turns limewater milky, and breathed-out air carries carbon dioxide made by your cells from food. Picking 'no oxygen at all' is a common mistake. Breathed-out air still has a lot of oxygen, just a bit less. Picking 'spit' is a good scientist's worry. But only a tiny drop of spit could get in, and the whole glass turned milky as the bubbles went through. Only carbon dioxide does that to limewater."
-     },
      "context": "This is the last step of the Limewater Test. You compare the two glasses and explain what happened.",
      "parent": "Let your child guess first. Then explain: the milky colour is tiny bits of calcium carbonate, the same material as chalk and eggshell. It forms when carbon dioxide meets limewater. Your cells use oxygen to get energy from food. The carbon in the food comes out as carbon dioxide, and the blood carries it to the lungs. So part of every meal leaves the body in the breath."
     }
@@ -2003,7 +1972,7 @@
       }
      ],
      "context": "This is the first step of Ant Detectives. You put three kinds of food near an ant path.",
-     "parent": "Most Indian homes have small ants somewhere. If you cannot see any, leave a pinch of sugar on a paper near a window or balcony crack, and start the test on the day ants come to it."
+     "parent": "Most Indian homes have small ants somewhere. If you cannot see any, leave a pinch of sugar on a paper near a window or balcony crack, and start the test on the day ants come to it. If no ant has found any bait after 10 minutes, wait until one does and start the timer then."
     },
     {
      "id": "s2",
@@ -2054,7 +2023,7 @@
       {
        "q": "Evidence?",
        "good": [
-        "After 30 minutes there were 24 ants on the sugar and only 1 on the salt.",
+        "More ants were on the sugar than on the salt after 30 minutes.",
         "The ants walked in a line from the sugar to their nest."
        ]
       },
@@ -2269,7 +2238,8 @@
       "a": 0,
       "why": "The bottom balloon is the diaphragm. In your body, it pulls down to make space, and air rushes into your lungs. Picking 'the nose' usually means thinking we suck air in with our nose. The nose is just the door. The pulling is done by the diaphragm."
      },
-     "context": "This is the step where you pull the bottom balloon and watch the model lung fill with air."
+     "context": "This is the step where you pull the bottom balloon and watch the model lung fill with air.",
+     "parent": "If the inside balloon hardly moves, air is leaking at the bottom seal or the neck. Add more tape and try again."
     },
     {
      "id": "s3",
@@ -2313,7 +2283,7 @@
      "qty": 1
     }
    ],
-   "safety": "Stay with a grown-up near ponds and tanks. At a fish market, only look, and wash hands if you touch anything.",
+   "safety": "Stay with a grown-up near a pond. At a fish market, only look, and wash your hands if you touch anything.",
    "schedule": [
     {
      "day": 1,
@@ -2351,7 +2321,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Optional, if you can: if you can, visit a fish market or ask at the fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills.",
+     "do": "Optional: visit a fish market or ask at a fish counter. Ask the seller to lift the gill cover of a fresh fish. Look at the colour and shape of the gills.",
      "say": "Fish sellers lift the gill flap to show how fresh a fish is. Bright red gills mean fresh. Why do you think they're so red?",
      "kid": "Look under the flap of a fresh fish. See the red gills? They look like a comb with many thin teeth.",
      "adult": true,
@@ -2396,7 +2366,7 @@
   {
    "id": "a4",
    "title": "Flat or Frilly? The gill shape test",
-   "mins": 20,
+   "mins": 45,
    "days": 1,
    "materials": [
     {
@@ -2423,8 +2393,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
-     "what": "Wet a crumpled towel and a frilly cut towel, hang them up, and check which dries first."
+     "mins": 45,
+     "what": "Wet a crumpled towel and a frilly cut towel, hang them up, check every 10 minutes for about 30 minutes, and see which dries first."
     }
    ],
    "record": "Write which towel dried first and how long each took. Draw both and label which is like a gill.",
@@ -2439,7 +2409,7 @@
      "caption": "2. Wet both. Hang them side by side."
     },
     {
-     "art": "A child touching the frilly towel, which is dry, while the crumpled ball is still dark and wet, a timer showing 40 minutes.",
+     "art": "A child touching the frilly towel, which is dry, while the crumpled ball is still dark and wet, a clock beside them.",
      "caption": "3. Check every 10 minutes. Which one dries first?"
     }
    ],
@@ -2463,11 +2433,11 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "Every 10 minutes, for about 40 minutes, gently touch both towels and note how they feel: wet, damp or dry. The whole wait is about 40 minutes, but each check takes only a minute, so do something else in between.",
+     "mins": 30,
+     "do": "Every 10 minutes, for about 30 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes only a minute, so do something else in between.",
      "say": "Let's check. Touch them gently. Which feels drier? The water is leaving through the surface, just as oxygen enters through the surface of a gill.",
      "kid": "Every 10 minutes, touch both towels. Wet, damp or dry? Write it down.",
-     "parent": "The frilly towel usually dries much faster, often in half the time or less. The crumpled ball may still be damp at the end. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
+     "parent": "The frilly towel usually dries much faster, in less time than the crumpled ball. The crumpled ball may still be damp at the end, and on a humid day both may stay damp longer. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
      "context": "This is the step where you check the two towels every 10 minutes to see which dries first."
     },
     {
@@ -2494,7 +2464,7 @@
   },
   {
    "id": "a5",
-   "title": "Follow Your Nose: find the snack by smell",
+   "title": "Follow Your Nose: find the hidden smell",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2503,7 +2473,7 @@
      "qty": 5
     },
     {
-     "item": "three smelly things, one for each round: a piece of banana, a crushed elaichi pod, a little vanilla essence on cotton",
+     "item": "three smelly snacks, one for each round: a piece of banana, a crushed elaichi pod, a slice of lemon",
      "qty": 1
     },
     {
@@ -2515,7 +2485,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Find a hidden snack by smell alone, then talk about animal noses."
+     "what": "Find a hidden smelly snack by smell alone, then talk about animal noses."
     }
    ],
    "record": "Write how many tries it took to find the snack by smell. Write which animal you would like to have the nose of, and why.",
@@ -2538,7 +2508,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. While your child is out of the room, put the snack in one bowl and cover all five. 2. Blindfold your child. 3. They sniff each bowl and choose one. 4. Do 3 rounds, with a different smell in each.",
+     "do": "1. While your child is out of the room, put the round's snack in one bowl and cover all five. 2. Blindfold your child. 3. They sniff each bowl and choose one. 4. Do 3 rounds, with a different snack in each.",
      "say": "You're going to be a dog for a minute. A dog finds food mostly by smell. Sniff each bowl. Which one hides the snack?",
      "kid": "Put on the blindfold. Sniff each bowl, one by one. Which one has the snack? Point to it.",
      "ask": [
@@ -2546,7 +2516,7 @@
        "q": "Was it easy or hard?",
        "good": [
         "Hard, my nose is not very strong.",
-        "Easy for the banana, hard for the elaichi."
+        "Easy for the lemon, hard for the banana."
        ]
       }
      ],
@@ -2588,7 +2558,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never hold your breath in water. Hold only as long as is comfortable, and stop at once if you feel dizzy. Children with asthma or heart problems should skip the holding and just time others.",
+   "safety": "Never hold your breath in water. Hold only as long as is comfortable, and stop at once if you feel dizzy.",
    "schedule": [
     {
      "day": 1,
@@ -2887,8 +2857,8 @@
    "problem": "Imagine a new animal that lives at the bottom of a deep, muddy river, like the Ganga. The water is so brown that it is dark even at noon, and in summer it has very little oxygen. Design an animal that can breathe and find food there.",
    "constraints": [
     "Your animal must get enough oxygen, even in summer.",
-    "It must find food in water too muddy to see through.",
-    "Draw it, label every special part, and say what it eats and how."
+    "Your animal must find food in water too muddy to see through.",
+    "Draw your animal, label every special part, and say what they eat and how."
    ],
    "materials": [
     "paper and coloured pencils",
@@ -2954,17 +2924,6 @@
      "do": "Your child draws the animal and labels each special part.",
      "say": "Draw your animal. Label every part that helps them breathe or find food. Then give them a name.",
      "kid": "Draw your animal. Label their breathing parts. Label their food-finding parts. Give them a name.",
-     "check": {
-      "t": "mcq",
-      "q": "In a dark, muddy river, which sense would help an animal least to find food?",
-      "options": [
-       "Sharp eyesight",
-       "Echolocation clicks",
-       "Feeling whiskers"
-      ],
-      "a": 0,
-      "why": "In water too muddy to see through, eyes don't help much. That's why the Ganges river dolphin's eyes are tiny, and they use clicks instead. Picking 'echolocation' or 'whiskers' means choosing a sense that works well in the dark, which is a smart choice, but the question asks which helps least."
-     },
      "context": "This is the step where you draw and label your river-bottom hunter."
     },
     {
@@ -3072,7 +3031,7 @@
    "check": "A parent should preview it first."
   },
   {
-   "title": "This Titicaca Water Frog Breathes Oxygen Through its Skin",
+   "title": "The Titicaca water frog breathes through their skin",
    "channel": "Smithsonian Channel",
    "youtube": "VosMbumTzIg",
    "mins": 2,
@@ -3587,13 +3546,6 @@
    "why": "A science museum with galleries on life and the body."
   },
   {
-   "title": "Taraporewala Aquarium",
-   "url": "",
-   "kind": "place",
-   "where": "Mumbai",
-   "why": "One of India's oldest public aquariums. Count gill beats of different fish and compare them."
-  },
-  {
    "title": "Vikramshila Gangetic Dolphin Sanctuary",
    "url": "",
    "kind": "place",
@@ -3639,7 +3591,7 @@
     "a7",
     "c1"
    ],
-   "why": "A beautiful picture book about how animals use noses, ears, eyes, mouths, feet and tails, many of them to find food."
+   "why": "A picture book on how animals use their noses, ears, eyes, mouths, feet and tails, many of them to find food."
   }
  ],
  "warmup": [
@@ -3813,12 +3765,11 @@
   "practice": {
    "title": "Breath and the meal",
    "mins": 3,
-   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, idli, sambar, fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?",
+   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, dal, idli or roti, some fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?",
    "kid": "Sit tall. Close your eyes. Hold your hand in front of your mouth. Breathe out slowly. Feel the warm air. Think of what you ate today. Part of it is in that breath. Breathe in for four. Breathe out for six. Do five breaths."
   },
   "ask": [
    "If part of your lunch leaves in your breath, when did the food stop being food and start being you?",
-   "A plant may take in the carbon dioxide you breathe out today. Is part of that plant then made from your lunch?",
    "An earthworm has no lungs, but their cells use oxygen just like yours. What does it really mean to breathe?"
   ],
   "art": "A child breathing out onto a palm, with a soft stream of dots leaving the mouth towards a window and a potted tulsi plant, and a plate of rice and sambar beside the child."
@@ -3828,5 +3779,6 @@
   "who": "Joseph Black, Antoine Lavoisier, Pierre-Simon Laplace and Marie-Anne Paulze Lavoisier",
   "when": "1750s (Black's fixed air), 1783 (the guinea pig in ice), about 1790 (Marie-Anne Lavoisier's drawings of breathing experiments)",
   "wrong_idea": "Aristotle and Galen taught that breathing is mainly for cooling the heart. Black showed that breath carries carbon dioxide, and Lavoisier showed that an animal uses oxygen and makes carbon dioxide and heat, like a slow fire."
- }
+ },
+ "playtest": "Walked through both games (all 24 animal cards, 8 bonus cards, 4 mats and 20 tokens are written out and play with 2 or 4 players; the bat-and-moth game now says who holds the stopwatch, so 2 players can play), then all three experiments, seven activities, the project and both challenges as a family would in a flat. Fixed: the Flat or Frilly towel test needs about 30 minutes of drying, so its minutes and schedule now say 45 and the result is stated honestly for humid days; Follow Your Nose now hides the smelly snack itself (the snack was missing from the materials); the Breath Count and Ant Detectives model answers no longer treat made-up numbers as real results; the room-air limewater glass may go slightly hazy and now says so; the bottle lung has a leak tip. Removed warnings that were not needed (asthma and jumping, asthma and breath-holding) and kept the real ones (chuna, cutting the bottle, ants that bite, water). Removed repeats: the chart check in Breath Count and the limewater check (both asked again in the quiz), the bats-are-blind true or false (the Challenging Ideas card covers it), the gills-dry-out question (a big question and the gill card cover it), the river-animal design question and the dark-river sense check (the river-bottom challenge covers them), and one story question and one roots question. Three new worksheet questions keep each sheet at 15 (ants follow a smell trail, owl or eagle senses, why people once thought breathing cools the heart). The ordering question no longer lists the answer in order, the label item became a draw-and-label item because there is no printed picture, the made-up Karthik and Divya are no longer assumed to be siblings, the river-bottom animal now says 'your animal' and 'they', and the Taraporewala Aquarium link was dropped because it may still be closed. The video titles and ids were opened and match. Choices for the next editor: example foods now include dal, roti and idli, and the unit is already mostly South and East Indian in its places and animals. Facts were not re-checked against the sources beyond what the unit already cites."
 }
