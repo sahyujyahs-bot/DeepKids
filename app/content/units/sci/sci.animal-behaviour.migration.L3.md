@@ -27,7 +27,7 @@
 - **Direction**: The way something is pointing or moving: towards the sea, towards the sunrise, north or south. *e.g.* From Kodiakkarai, the Arctic coast of Russia lies to the north. A bird flying there must keep heading north for thousands of kilometres.
 - **Inborn**: Something an animal has from birth, without being taught. Scientists also say innate. *e.g.* A young cuckoo is raised by other birds. Yet she flies the right way to Africa, so the direction must be inborn.
 - **Tailwind**: A wind that blows from behind, the same way you are going. It pushes you along. A wind in your face is a headwind. *e.g.* Cycling with a tailwind is easy. Cycling into a headwind is hard work.
-- **Generation**: All the children born at about the same time. Your parents are one generation, you are the next, and your grandparents are the one before. *e.g.* The monarch journey north takes three or four generations of butterflies.
+- **Generation**: All the animals or people born at about the same time. Your parents are one generation, you are the next, and your grandparents are the one before. *e.g.* The monarch journey north takes three or four generations of butterflies.
 - **Tracker**: A tiny machine fixed to an animal. The tracker records where the animal goes, and sometimes sends that record to scientists by satellite. *e.g.* Scientists fixed trackers on Amur falcons in Nagaland and followed them all the way to southern Africa.
 - **Krill**: Tiny shrimp-like animals that live in huge numbers in cold seas. Many whales eat them. *e.g.* A blue whale can eat several tonnes of krill in a day in the cold seas near Antarctica.
 
@@ -60,7 +60,7 @@ The Arctic tern makes the longest yearly journey known. In 2010, scientists fixe
 ### A journey longer than one life · *defined*
 **Definition:** For some insects, one journey takes several generations. The children, grandchildren and great-grandchildren carry it on.
 
-In autumn, monarch butterflies fly south to the mountains of Mexico. These autumn monarchs live about 8 months, much longer than summer monarchs, who live only a few weeks. In spring they fly north, lay eggs on the way, and die. Their children fly further north and lay eggs. It takes three or four generations to reach Canada. Then, in autumn, the great-grandchildren fly all the way back to the same mountains in Mexico, a place none of them has ever seen.
+In autumn, monarch butterflies fly south to the mountains of Mexico. These autumn monarchs live about 8 months, much longer than summer monarchs, who live only a few weeks. In spring they fly north, lay eggs on the way, and die. Their children fly further north and lay eggs. It takes three or four generations to reach Canada. Then, in autumn, the great-great-grandchildren fly all the way back to the same mountains in Mexico, a place none of them has ever seen.
 - e.g. A monarch who reaches Canada in summer is the great-granddaughter of the monarch who left Mexico in spring.
 - e.g. Painted lady butterflies also travel over many generations, between Africa and Europe.
 ### Two ways to find the way: a direction, or a place · *defined*
@@ -275,7 +275,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   - Ask: What do you think will happen if I move you without telling you? (good: I will miss the bowl, because my steps go the same way.; I will still find it, because I remember where it is.)
   - Note: Don't say which guess is right. The test will answer it.
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. Cover your child's eyes with the cloth. 2. Stand them on the usual start, facing the bowl. 3. Say 'Walk your steps.' 4. When they stop, measure how far their toes are from the bowl in your foot-lengths. 5. Do it 3 times and write each number.  
+  *Parent does:* 1. Cover your child's eyes with the cloth. 2. Turn them slowly round twice and walk them about the room for a few seconds, as in the next step. Then stand them on the usual start, facing the bowl. 3. Say 'Walk your steps.' 4. When they stop, measure how far their toes are from the bowl in your foot-lengths. 5. Do it 3 times and write each number.  
   *Parent says:* Eyes covered. You are on the usual start. Walk your steps, then stop. I'll measure how close you are.  
   *Child mode:* Eyes covered. Walk your steps. Stop. How close are you to the bowl?
   - Note: Walk beside them with a hand ready. Most children stop within 1 or 2 foot-lengths of the bowl. A step drifting a little to one side is normal.
@@ -631,7 +631,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - Some cities dim building lights in the migration months so night-flying birds are not confused.
 - Weather radar is used to see big nights of bird migration, and to keep birds and aeroplanes apart near airports.
 - Villagers in Khichan, Rajasthan, feed thousands of demoiselle cranes every winter, and visitors come to see them.
-- Fishing rules in India and Bangladesh protect hilsa during the months when they swim up rivers to lay eggs.
+- In Bangladesh, fishing is banned for some days each year while hilsa swim up the rivers to lay their eggs.
 - Volunteers count birds in Indian cities and villages and share the lists online, helping scientists see when travellers arrive.
 - Engineers design road tunnels and bridges for travelling animals, like the crab bridges on Christmas Island.
 

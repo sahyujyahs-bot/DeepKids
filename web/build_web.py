@@ -77,7 +77,7 @@ index = f'''<!doctype html>
 <meta name="theme-color" content="#FFF6EC">
 <meta name="description" content="DeepKids Gurukul, THE homeschooling app: a planner and lesson guide for Indian families with children aged 6 to 10. NCERT, Cambridge and NIOS.">
 <link rel="manifest" href="/manifest.webmanifest">
-<link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+<link rel="icon" href="/icons/favicon-32.png" type="image/png">
 <link rel="apple-touch-icon" href="/icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="DeepKids Gurukul">
@@ -105,37 +105,18 @@ manifest = {
         {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
         {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
         {"src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
-        {"src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml"},
     ],
 }
 open(os.path.join(PUB, 'manifest.webmanifest'), 'w').write(json.dumps(manifest, indent=1))
 
-# Icons: the app's periwinkle blob friend on warm paper
-svg = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#FFF6EC"/>
-<path d="M256 70c96 0 186 62 186 178 0 120-88 194-190 194S70 372 70 256C70 146 160 70 256 70z" fill="#8E8DD8"/>
-<circle cx="200" cy="236" r="22" fill="#2B2340"/><circle cx="312" cy="236" r="22" fill="#2B2340"/>
-<circle cx="207" cy="229" r="7" fill="#fff"/><circle cx="319" cy="229" r="7" fill="#fff"/>
-<circle cx="160" cy="290" r="22" fill="#F7A8C4" opacity=".8"/><circle cx="352" cy="290" r="22" fill="#F7A8C4" opacity=".8"/>
-<path d="M214 300c22 26 62 26 84 0" stroke="#2B2340" stroke-width="16" fill="none" stroke-linecap="round"/></svg>'''
-open(os.path.join(PUB, 'icons/icon.svg'), 'w').write(svg)
-try:
-    from PIL import Image, ImageDraw
-    def icon(size, pad):
-        s = 4 * size; im = Image.new('RGBA', (s, s), (255, 246, 236, 255)); d = ImageDraw.Draw(im)
-        k = s / 512; m = pad * k
-        box = lambda x0, y0, x1, y1: [m + x0 * k * (1 - 2 * pad / 512), m + y0 * k * (1 - 2 * pad / 512), m + x1 * k * (1 - 2 * pad / 512), m + y1 * k * (1 - 2 * pad / 512)]
-        d.ellipse(box(70, 70, 442, 442), fill=(142, 141, 216))
-        for cx in (200, 312):
-            d.ellipse(box(cx - 22, 214, cx + 22, 258), fill=(43, 35, 64)); d.ellipse(box(cx, 222, cx + 14, 236), fill=(255, 255, 255))
-        for cx in (160, 352):
-            d.ellipse(box(cx - 22, 268, cx + 22, 312), fill=(247, 168, 196))
-        d.arc(box(206, 250, 306, 330), 20, 160, fill=(43, 35, 64), width=int(16 * k))
-        return im.resize((size, size), Image.LANCZOS)
-    icon(192, 0).save(os.path.join(PUB, 'icons/icon-192.png'))
-    icon(512, 0).save(os.path.join(PUB, 'icons/icon-512.png'))
-    icon(512, 60).save(os.path.join(PUB, 'icons/maskable-512.png'))
-except ImportError:
-    print('PIL not installed: PNG icons not regenerated')
+# Icons: IAm's face (app/content/media/ui/iam-icon.png, 512 px, no background); the maskable one needs a full square
+from PIL import Image
+_face = Image.open(os.path.join(ROOT, 'app', 'content', 'media', 'ui', 'iam-icon.png')).convert('RGBA')
+for size, name in ((32, 'favicon-32.png'), (192, 'icon-192.png'), (512, 'icon-512.png')):
+    _face.resize((size, size), Image.LANCZOS).save(os.path.join(PUB, 'icons', name))
+_mask = Image.new('RGBA', (512, 512), (255, 255, 255, 255))
+_mask.alpha_composite(_face.resize((392, 392), Image.LANCZOS), (60, 60))
+_mask.save(os.path.join(PUB, 'icons', 'maskable-512.png'))
 
 open(os.path.join(PUB, '_headers'), 'w').write('''/*
   X-Content-Type-Options: nosniff

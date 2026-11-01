@@ -36,7 +36,7 @@
   {
    "term": "Matriarch",
    "meaning": "The female who leads a family. In elephants, she is usually the oldest female, and often the grandmother of the calves.",
-   "example": "When a lion roars, the elephant family looks to the matriarch and gathers around her.",
+   "example": "When there is danger, the elephant family looks to the matriarch and gathers around her.",
    "art": "An old female elephant with a torn ear at the front of her family, a calf behind her."
   },
   {
@@ -182,7 +182,7 @@
    "concept": "How ants share news of food",
    "status": "defined",
    "definition": "An ant who finds food leaves a scent trail, made of pheromone, on her way back to the nest. Other ants follow the trail to the food, and add their own scent on the way back.",
-   "description": "The first ant to find food is often alone. She drinks or picks up a piece, and walks home, dabbing the floor with pheromone from her body. In the nest she meets her sisters and passes them some food. They follow her trail out. When they find the food, they lay scent on the way home too. So the trail gets stronger, and more ants follow it. When the food runs out, ants stop laying scent. The smell fades in a few minutes, and the ants stop coming. In lab tests with black garden ants, ants that found sweeter sugar laid more scent. So a sweet food builds a strong trail quickly.",
+   "description": "The first ant to find food is often alone. She drinks or picks up a piece, and walks home, dabbing the floor with pheromone from her body. In the nest she meets her sisters and passes them some food. They follow her trail out. When they find the food, they lay scent on the way home too. So the trail gets stronger, and more ants follow it. When the food runs out, ants stop laying scent. The smell fades after a while, and the ants stop coming. In lab tests with black garden ants, ants that found sweeter sugar laid more scent. So a sweet food builds a strong trail quickly.",
    "examples": [
     "A dropped piece of laddu can have a line of ants within half an hour.",
     "If you wipe a short piece of the ant road with a wet cloth, the ants arriving there stop and wander, because the scent is gone.",
@@ -211,7 +211,7 @@
    "description": "Each ant senses, remembers and chooses. A colony also seems to choose, as a whole, in ways no single ant could. Some scientists call a colony a superorganism. This means a group that works like one body, with each ant like a cell. Others say that is only a way of speaking. Scientists still argue about it.",
    "examples": [
     "Army ants link their own bodies into living bridges across gaps, so the rest of the colony can cross.",
-    "A colony moves house when the old nest floods, with workers carrying the eggs and the queen to safety.",
+    "A colony moves house when the old nest floods, with workers carrying the eggs and young to safety.",
     "Your body is made of billions of cells, and each cell senses and responds too."
    ],
    "perspectives": [
@@ -260,7 +260,7 @@
  "agreed": [
   {
    "text": "Elephant families are groups of related females and their young, usually led by the oldest female. Adult males live apart.",
-   "evidence": "Scientists have watched and named the same elephant families for over 50 years, in Kenya, Sri Lanka, India and elsewhere."
+   "evidence": "Scientists in Kenya have watched and named the same elephant families for over 50 years. Studies in India and Sri Lanka find the same: related females stay together."
   },
   {
    "text": "Old matriarchs know more about dangers than young ones, and their families do better.",
@@ -268,7 +268,7 @@
   },
   {
    "text": "Worker ants are all females. The queen lays the eggs but does not give orders.",
-   "evidence": "Scientists have looked inside thousands of ant nests and watched the queen. Workers keep working even in nests where the queen is out of reach."
+   "evidence": "Scientists have watched ant colonies closely for many years. They have not found any ant giving orders. Each worker reacts to what she smells and meets."
   },
   {
    "text": "Ants lay pheromone trails to food, and other ants follow them.",
@@ -292,7 +292,7 @@
    "claim": "The queen ant rules the colony and tells the workers what to do.",
    "who": "Many people, because of the word 'queen'",
    "for": "The queen is the biggest ant and the mother of the others, and the workers feed and protect her.",
-   "against": "The queen gives no orders. Each worker decides what to do from what she senses around her. A colony keeps working even when the queen is far away in the nest.",
+   "against": "The queen gives no orders. Each worker decides what to do from what she senses around her.",
    "status": "rejected",
    "context": "Does the queen ant rule? This card looks at what her name makes people expect."
   },
@@ -338,7 +338,7 @@
   {
    "q": "An old matriarch remembers a water pool from 35 years ago. Where is a family's knowledge kept, if not in a book?",
    "kind": "deep",
-   "hint": "Think of what your grandmother knows that nobody wrote down."
+   "hint": "Think of what an older relative or neighbour knows that nobody wrote down."
   },
   {
    "q": "Why do some animals live alone, like a tiger, and others in groups, like elephants?",
@@ -368,7 +368,7 @@
   "note": "Asian elephant families led by an old female, bulls living apart, and the summer gathering of elephants along the Kabini river at the edge of Nagarhole are real. Nila, Ravi, Kempamma, the elephant called Doddamma and this summer are made up.",
   "text": [
    "Nila lived in a small village at the edge of the Nagarhole forest in Karnataka. Behind her house was a field of ragi, and behind the field was the forest. In the evenings, elephants sometimes walked along the edge of the trees.",
-   "That April, her cousin Ravi came from Bengaluru for the holidays. Ravi was eleven, two years older than Nila. He knew a great deal about cars and nothing at all about elephants.",
+   "That April, her cousin Ravi came from Bengaluru for the holidays. Ravi was ten, two years older than Nila. He knew a great deal about cars and nothing at all about elephants.",
    "It was the hottest summer anyone could remember. The small pools in the forest had dried into cracked mud. The grass was brown. Even the stream near the village was only a line of wet sand.",
    "\"The elephants will come past soon,\" said Nila's grandmother, Kempamma. \"When the forest dries, they walk to the river.\"",
    "Kempamma had lived by the forest all her life. For many years she had cooked for the forest guards at the watchtower. She knew every path, and she knew the elephants who used them.",
@@ -476,7 +476,7 @@
        "b": "Elephant family"
       },
       {
-       "f": "Older brothers and sisters bring food to the babies.",
+       "f": "Last year's young bring meat to the new pups.",
        "b": "Wolf pack"
       },
       {
@@ -533,7 +533,7 @@
     "On your turn, read the top clue aloud. Say which society it is about: elephant family, ant colony, wolf pack, or all three.",
     "Turn the card over. If you were right, keep the card and put it on the matching space of the mat. If you were wrong, put it at the bottom of the pile.",
     "Before the next player's turn, say one more fact about the society on the card, if you can. A good fact wins you a second turn.",
-    "When the pile is empty, the player with the most cards wins. Playing alone, try to win all 18 cards in as few rounds as you can."
+    "When the pile is empty, the player with the most cards wins. Playing alone, try to win all 18 cards in as few turns as you can."
    ],
    "flow": [
     {
@@ -593,7 +593,7 @@
    "context": "This is a board game about elephant families walking through a dry forest to the river. Players answer questions about elephant families to reach the Kabini river first.",
    "setup": [
     {
-     "art": "A winding forest path board of 16 squares from a dry forest to a blue river, with paper elephant counters on square 0.",
+     "art": "A winding forest path board of 17 squares, numbered 0 to 16, from a dry forest to a blue river, with paper elephant counters on square 0.",
      "caption": "1. Put every elephant family counter on square 0."
     },
     {
@@ -604,14 +604,14 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A forest path board with 16 squares, from the dry forest to the Kabini river",
+     "title": "A forest path board with 17 squares, numbered 0 to 16, from the dry forest to the Kabini river",
      "items": [
       "Square 0: The dry forest. Start here.",
       "Square 1: forest path, nothing happens",
       "Square 2: forest path, nothing happens",
       "Square 3: DRY POOL: the pool is mud. Go back 2 squares, unless you can say how an old matriarch finds water.",
       "Square 4: forest path, nothing happens",
-      "Square 5: LION ROAR: say what an elephant family does when they hear a lion. Then move on 1 square.",
+      "Square 5: DANGER NEAR: say what an elephant family does when they sense danger. Then move on 1 square.",
       "Square 6: forest path, nothing happens",
       "Square 7: TEENAGE BULL: your young male wanders off to live with other males. Say why he leaves, then move on 1.",
       "Square 8: forest path, nothing happens",
@@ -619,7 +619,7 @@
       "Square 10: forest path, nothing happens",
       "Square 11: RIVER SMELL: the matriarch smells water on the wind. Move on 2 squares.",
       "Square 12: forest path, nothing happens",
-      "Square 13: LION ROAR: say what an elephant family does when they hear a lion. Then move on 1 square.",
+      "Square 13: DANGER NEAR: say what an elephant family does when they sense danger. Then move on 1 square.",
       "Square 14: forest path, nothing happens",
       "Square 15: NEW CALF: a calf is born. Wait one turn while the family gathers round.",
       "Square 16: The Kabini river, the finish"
@@ -654,7 +654,7 @@
        "b": "She digs in the sand with her foot and trunk"
       },
       {
-       "f": "Which lions are most dangerous to calves: males or females?",
+       "f": "In Africa, which lions are most dangerous to elephant calves: males or females?",
        "b": "Males"
       },
       {
@@ -686,7 +686,7 @@
        "b": "No. The most experienced female leads"
       },
       {
-       "f": "TELL IT: say one thing your grandmother or an older person remembers that you don't.",
+       "f": "TELL IT: say one thing an older person you know remembers that you do not.",
        "b": "Any true answer wins the move"
       },
       {
@@ -746,12 +746,12 @@
   {
    "id": "e1",
    "title": "Weak Sugar or Strong Sugar: which drop does the colony choose?",
-   "mins": 40,
+   "mins": 45,
    "days": 1,
    "context": "In this experiment you put a weak sugar drop and a strong sugar drop near an ant road. You count the ants at each drop every 5 minutes, to see how the colony chooses.",
    "question": "If ants find a weak sugar drop and a strong sugar drop at the same time, will the colony end up at one of them? Which one, and how?",
    "predict": "Guess first. After half an hour, will there be more ants at the weak drop, more at the strong drop, or the same at both? Why do you think so?",
-   "fair_test": "Change only how sweet the drops are. Use the same amount of each drop, the same kind of square, the same distance from the ant road, and put both down at the same moment. Count both drops at the same time. If you can, do it again the next day with the two squares swapped, because one side might be nearer the nest.",
+   "fair_test": "Change only how sweet the drops are. Use the same amount of each drop, the same kind of square, the same distance from the ant road, and put both down at the same moment. Count both drops at the same time. If you have time, do it again the next day with the two squares swapped, because one side might be nearer the nest.",
    "results_table": [
     "Minutes since start",
     "Ants on the weak drop",
@@ -784,8 +784,7 @@
     },
     {
      "item": "a magnifying glass, if you have one",
-     "qty": 1,
-     "buy": "b-lens"
+     "qty": 1
     },
     {
      "item": "a damp cloth, for cleaning up",
@@ -795,7 +794,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 40,
+     "mins": 45,
      "what": "Find an ant road. Put down a weak and a strong sugar drop. Count the ants on each every 5 minutes for 30 minutes."
     }
    ],
@@ -859,16 +858,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Look for ants along the kitchen platform, the window sill or near the dustbin. 2. Watch which way they walk for one minute. 3. Put the two squares a hand's width from the ant road, side by side, about 15 cm apart.",
+     "do": "1. Look for ants along the kitchen platform, the window sill or near the dustbin. 2. Watch which way they walk for one minute. 3. Put the two squares in a line along the ant road, each a hand's width from the road, about 15 cm apart.",
      "say": "First we need to find the ants' road. Let's watch where they walk, without touching them. We'll put both squares the same distance from the road.",
      "kid": "Find a line of ants. Watch where they walk. Put both squares near the line. Keep them the same distance away.",
-     "parent": "If you can't find ants, leave a few grains of sugar on the kitchen platform for an hour first, then look. Ants are often busiest in the evening. Both squares must be the same distance from the ants, or one drop gets an unfair start.",
+     "parent": "If you can't find ants, leave a few grains of sugar on the kitchen platform for an hour first, then look. Ants are often busiest in the evening.",
      "context": "This is the first step of the sugar drop test. Here you find where the ants walk and set out two squares."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. In the cup marked W, mix 2 teaspoons of water with one pinch of sugar. 2. In the cup marked S, mix 2 teaspoons of water with 2 teaspoons of sugar. Stir for one minute. 3. Write W on one square and S on the other. 4. Put half a teaspoon of each mix on its square, at the same moment. 5. Start the timer.",
+     "do": "1. Write W on one square and S on the other. 2. In the first cup, mix 2 teaspoons of water with one pinch of sugar. This is the weak mix, W. 3. In the second cup, mix 2 teaspoons of water with 2 teaspoons of sugar. This is the strong mix, S. Stir each for one minute. 4. Put half a teaspoon of each mix on its square, at the same moment. 5. Start the timer.",
      "say": "W is weak, with just a pinch of sugar. S is strong, very sweet. Before we put them down, tell me your guess. After half an hour, where will most ants be? Why do you think so?",
      "kid": "Mix the weak cup and the strong cup. Put a drop on each square. Start the timer. Now guess. Where will most ants be? Why?",
      "ask": [
@@ -886,9 +885,9 @@
     },
     {
      "id": "s3",
-     "mins": 25,
+     "mins": 30,
      "do": "1. Every 5 minutes, count the ants on each square and write both numbers in the table. 2. In between, sit still and watch. 3. Follow one ant from the strong drop with your eyes. Does she walk straight back towards the ant road?",
-     "say": "We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other? Does anyone seem to be in charge?",
+     "say": "We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other?",
      "kid": "Every 5 minutes, count the ants on each square. Write the numbers down. In between, watch one ant. Where does she go?",
      "ask": [
       {
@@ -910,7 +909,7 @@
      "kid": "Look at your numbers. Which drop has more ants? How did the number change? Why do you think so?",
      "check": {
       "t": "mcq",
-      "q": "Most ants ended up at the strong drop. How did the colony make this choice?",
+      "q": "Suppose most ants ended up at the strong drop. How did the colony make this choice?",
       "options": [
        "The queen came out and sent the ants there",
        "Ants that drank the strong sugar laid more scent, so more ants followed their trail",
@@ -981,7 +980,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Write 3 questions about long ago, for example: 'Where did people here get water before there were taps?' 2. Write 3 questions about now, for example: 'Which bus goes to the nearest market?' 3. Check that each question has a clear answer you can check.",
+     "do": "1. Write 3 questions about long ago, for example: 'Where did people here get water before there were taps?' 2. Write 3 questions about now, for example: 'Which bus goes to the nearest market?' 3. Check that each question has a clear answer that another person could confirm.",
      "say": "An elephant matriarch remembers where water was in dry years long ago. Let's see what the people in our family remember. We need questions about long ago and questions about now.",
      "kid": "Write 3 questions about long ago. Write 3 questions about now. Make sure each has a clear answer.",
      "parent": "Other good questions: 'Which month do the first heavy rains usually come here?', 'What did this area look like before our building was built?', 'Where is the nearest medical shop open at night?', 'What is the name of the newest shop on our road?'."
@@ -1047,8 +1046,7 @@
     },
     {
      "item": "a magnifying glass, if you have one",
-     "qty": 1,
-     "buy": "b-lens"
+     "qty": 1
     }
    ],
    "schedule": [
@@ -1076,7 +1074,8 @@
      "do": "1. Find a line of ants. 2. Pick one ant and follow her with your finger in the air above her, without touching. 3. Count how many other ants she meets in one minute.",
      "say": "Let's pick one ant and follow her for one minute. How many other ants does she meet? What does she do when she meets one?",
      "kid": "Pick one ant. Follow her with your finger in the air. Don't touch her. How many ants does she meet?",
-     "context": "This is the first step of the ant road watch. You follow one ant and count who she meets."
+     "context": "This is the first step of the ant road watch. You follow one ant and count who she meets.",
+     "parent": "If you cannot find ants, put a few grains of sugar on a plate on the kitchen platform for an hour, then look again."
     },
     {
      "id": "s2",
@@ -1139,35 +1138,35 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the clues aloud, one at a time, and draw as you go. Clue 1: Amma is 58. She is the oldest. Clue 2: Amma has three daughters, aged 35, 30 and 22. Clue 3: The 35-year-old has a daughter of 12 and a son of 14. Clue 4: The 30-year-old has a baby daughter of 1. Clue 5: The 22-year-old has a son of 3.",
-     "say": "This is a made-up elephant family, but the family is built the way real ones are. Draw Amma at the top. Then draw her daughters, then their children.",
-     "kid": "Draw Amma at the top. She is 58. Draw her three daughters below her. Then draw their calves.",
+     "do": "Read the clues aloud, one at a time, and draw as you go. Clue 1: The grandmother is 58. She is the oldest. Clue 2: She has three daughters, aged 35, 30 and 22. Clue 3: The 35-year-old has a daughter of 12 and a son of 14. Clue 4: The 30-year-old has a baby daughter of 1. Clue 5: The 22-year-old has a son of 3.",
+     "say": "This is a made-up elephant family, but the family is built the way real ones are. Draw the grandmother at the top. Then draw her daughters, then their children.",
+     "kid": "Draw the grandmother at the top. She is 58. Draw her three daughters below her. Then draw their calves.",
      "context": "This is the first step of the elephant family tree. You draw a made-up family from clues."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Circle the leader. 2. Draw an arrow away from each male who will leave as a teenager. 3. Count who will be left.",
+     "do": "1. Circle the leader. 2. Draw an arrow away from each male who will leave as a teenager. 3. Count the females and count the males.",
      "say": "Who leads this family? Which elephants will leave in a few years? Who will stay?",
      "kid": "Circle the leader. Draw an arrow for each boy who will leave. Who stays?",
      "check": {
       "t": "mcq",
       "q": "In this family, who will most likely leave in the next few years?",
       "options": [
-       "Amma, because she is old",
+       "The grandmother, because she is old",
        "The 14-year-old son",
        "The 12-year-old daughter"
       ],
       "a": 1,
-      "why": "Young male elephants leave their family as teenagers and live alone or with other males. Daughters stay with their mothers and grandmother all their lives. Amma will lead until she dies, and then usually one of her older daughters leads. Picking the 12-year-old daughter is a natural guess, but female elephants stay."
+      "why": "Young male elephants leave their family as teenagers and live alone or with other males. Daughters stay with their mothers and grandmother all their lives. Picking the 12-year-old daughter is a natural guess, but female elephants stay."
      }
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask who would lead if Amma died.",
-     "say": "If Amma died, who do you think would lead the family? Why?",
-     "kid": "If Amma died, who would lead? Why?",
+     "do": "Ask who would lead if the grandmother died.",
+     "say": "If the grandmother died, who do you think would lead the family? Why?",
+     "kid": "If the grandmother died, who would lead? Why?",
      "ask": [
       {
        "q": "Who would lead next?",
@@ -1231,9 +1230,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Make a list of jobs at home by age. Write what the youngest child, a parent and a grandparent each do.",
+     "do": "Make a list of jobs at home by age. Write what the youngest child, a parent, and an older relative or neighbour (if there is one) each do.",
      "say": "Now let's do our home. Who does which jobs? Is it about age, about skill, or something else?",
-     "kid": "Now list jobs at home. What do you do? What do grown-ups do? What does Paati or Nani do?",
+     "kid": "Now list jobs at home. What do you do? What do the grown-ups do? What does an older relative or neighbour do?",
      "parent": "There is no right answer. The point is to notice that every society shares out its work somehow."
     },
     {
@@ -1268,7 +1267,7 @@
    "setup": [
     {
      "art": "A girl standing in a hallway with her hand cupped to her ear, listening.",
-     "caption": "1. One person waits, the others hide in different rooms."
+     "caption": "1. One person waits in the hall, the others hide in different rooms."
     },
     {
      "art": "A parent and child howling with their heads tilted back, in a small flat.",
@@ -1279,7 +1278,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Explain the rules. One person is the lost wolf. The others hide in different rooms. The lost wolf howls, and everyone else howls back once.",
+     "do": "Explain the rules. One person is the lost wolf and waits in the hall. The others go into different rooms and stay quiet. The lost wolf howls, and each hiding person howls back once. The lost wolf walks towards the howls with eyes open, and finds everyone.",
      "say": "Wolves who are apart howl, and their family howls back. Let's see if you can find us by howling.",
      "kid": "You are the lost wolf. Howl. Listen for the howl back. Walk towards it.",
      "context": "This is the first step of Howl and Find. Here you learn the rules."
@@ -1383,8 +1382,7 @@
     },
     {
      "item": "a magnifying glass, if you have one",
-     "qty": 1,
-     "buy": "b-lens"
+     "qty": 1
     }
    ],
    "schedule": [
@@ -1467,12 +1465,13 @@
     "You may not use tape across the gap. Tape may hold only the ends on the books."
    ],
    "materials": [
-    "paper clips",
+    "about 30 paper clips",
     "strips of newspaper about 5 cm long",
     "rubber bands",
-    "two piles of books the same height",
+    "two piles of books, each about 15 cm high, the same height",
     "a one-rupee coin",
-    "a ruler"
+    "a ruler",
+    "a little tape"
    ],
    "general": [
     "Hook paper clips into long chains and lay several chains side by side, like a rope bridge.",
@@ -1499,7 +1498,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Make two piles of books the same height. 2. Put them 20 cm apart. 3. Show your child a picture of army ants making a bridge, if you can find one.",
+     "do": "1. Make two piles of books, each about 15 cm high and the same height. 2. Put them 20 cm apart. 3. Show your child a picture of army ants making a bridge, if you can find one.",
      "say": "Army ants in the rainforests of Central and South America hook their legs together to make bridges with their own bodies. No ant is in charge of building the bridge. Can we build a bridge from small parts?",
      "kid": "Set the books 20 cm apart. Ants build bridges out of their bodies. Can you build one from small parts?",
      "context": "This is the first step of the Living Bridge challenge. Here you set up the gap."
@@ -1539,7 +1538,7 @@
  ],
  "videos": [
   {
-   "title": "A film of a wild elephant family led by their matriarch (to find)",
+   "title": "A film of a wild elephant family led by their matriarch",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1548,7 +1547,7 @@
    "check": "No video id was confirmed from here. Choose a nature film that shows a real family, and check that it does not say a bull leads the herd."
   },
   {
-   "title": "A film of ants following a pheromone trail to food (to find)",
+   "title": "A film of ants following a pheromone trail to food",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1557,7 +1556,7 @@
    "check": "No video id was confirmed from here. Check that it does not say the queen gives orders."
   },
   {
-   "title": "A talk or film about why the 'alpha wolf' idea is wrong (to find)",
+   "title": "A talk or film about why the 'alpha wolf' idea is wrong",
    "channel": "",
    "youtube": "",
    "status": "find-id",
@@ -1608,15 +1607,15 @@
   },
   {
    "t": "mcq",
-   "p": "What does the queen in an ant colony do?",
+   "p": "In many kinds of ants, which workers go out of the nest to look for food?",
    "opts": [
-    "Gives orders to the workers",
-    "Lays the eggs, deep in the nest",
-    "Leads the line of ants to food",
-    "Guards the entrance"
+    "The youngest workers",
+    "The oldest workers",
+    "The queen",
+    "The male ants"
    ],
    "a": 1,
-   "why": "The queen lays eggs and gives no orders. The workers decide what to do from what they sense.",
+   "why": "In many kinds of ants, young workers stay safe inside the nest and the older workers go out to forage. The queen stays deep in the nest.",
    "outcome": 2
   },
   {
@@ -1753,12 +1752,11 @@
     },
     {
      "t": "fill",
-     "p": "The smell an ant leaves on the floor to show the way to food is called a ____.",
+     "p": "An ant smells, tastes and touches with the two feelers on her head, called ____.",
      "a": [
-      "pheromone",
-      "pheromone trail"
+      "antennae"
      ],
-     "why": "A pheromone is a smell an animal makes to send a message to others of their kind. Ants lay pheromone trails to food."
+     "why": "Ants use their antennae to follow a trail and to tap each other when they meet."
     },
     {
      "t": "match",
@@ -1805,7 +1803,7 @@
        "Stays"
       ],
       [
-       "a 10-year-old son",
+       "a 13-year-old son",
        "Leaves"
       ],
       [
@@ -1814,7 +1812,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Female elephants stay with their mothers and grandmother all their lives. Males leave as teenagers and live alone or with other males. The 10-year-old son will probably leave in a few years."
+     "why": "Female elephants stay with their mothers and grandmother all their lives. Males leave as teenagers and live alone or with other males. The 13-year-old son will probably leave soon."
     },
     {
      "t": "write",
@@ -1867,16 +1865,10 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "What is a wild wolf pack, usually?",
-     "opts": [
-      "A group of strangers who fight for the top place",
-      "A family: a mother, a father and their young",
-      "Only male wolves",
-      "Wolves of many different kinds"
-     ],
-     "a": 1,
-     "why": "Wild packs are families. Scientists once thought packs were ruled by a fighting 'alpha', because they watched strangers forced together in a zoo."
+     "t": "truefalse",
+     "p": "In the wild, young wolves usually stay in their parents' pack for the rest of their lives.",
+     "a": false,
+     "why": "False. Most young wolves leave when they are grown, to find a mate and start a pack of their own."
     },
     {
      "t": "fill",
@@ -1990,15 +1982,15 @@
     },
     {
      "t": "mcq",
-     "p": "Why do scientists think the 'alpha wolf' idea was wrong for wild wolves?",
+     "p": "How can an ant tell a sister from an ant of another colony?",
      "opts": [
-      "Wild wolves never fight at all",
-      "The idea came from strangers put together in a zoo, and wild packs are families",
-      "Wolves have no leaders",
-      "Wolves live alone"
+      "By her size",
+      "By her smell, which she checks with her antennae",
+      "By the colour of her legs",
+      "By her voice"
      ],
      "a": 1,
-     "why": "In the zoo, the wolves were strangers and fought for rank. In the wild, a pack is a family, and the young follow their parents. Wild wolves do sometimes fight, so 'never fight' goes too far."
+     "why": "Ants of one colony share a smell on their bodies. An ant touches a stranger with her antennae and smells that she is not from her nest."
     },
     {
      "t": "draw",
@@ -2009,11 +2001,11 @@
     },
     {
      "t": "fill",
-     "p": "A group of animals of one kind who live together for a long time and help each other is called a ____.",
+     "p": "A group of wolves who live and hunt together is called a ____.",
      "a": [
-      "society"
+      "pack"
      ],
-     "why": "Elephant families, ant colonies, wolf packs and human villages are all societies."
+     "why": "A wild wolf pack is usually a family: a mother, a father and their young."
     },
     {
      "t": "odd",
@@ -2135,7 +2127,7 @@
     },
     {
      "t": "mcq",
-     "p": "Poachers kill the oldest females in many elephant families, for their tusks or by accident. What problem might the families have later, in a drought?",
+     "p": "In some places, poachers kill the oldest females in elephant families. What problem might the families have later, in a drought?",
      "opts": [
       "No one remembers where water was in past droughts",
       "The calves grow faster",
@@ -2166,7 +2158,7 @@
        "says": "Scientists found their own mistake by watching wild wolves. That is why we can trust them more."
       },
       {
-       "who": "Sneha's father Ravi",
+       "who": "Sneha's mother Divya",
        "says": "Both of you have a point. We should ask how each idea was tested."
       }
      ],
@@ -2234,7 +2226,7 @@
      "t": "write",
      "p": "Kristen Hawkes found that Hadza grandmothers in Tanzania gather food that helps their grandchildren grow. How is this like an elephant matriarch, and how are the two different?",
      "lines": 4,
-     "a": "Alike: in both, an old female helps the young of her family survive. Different: the Hadza grandmother helps with food, and the matriarch mostly with knowledge and leading. People bring food to children by hand. Elephant calves feed themselves, apart from their mother's milk.",
+     "a": "Alike: in both, an old female helps the young of her family survive. Different: the Hadza grandmother helps with food, and the matriarch mostly with knowledge and leading. People bring food to children by hand. Elephant calves drink their mother's milk, and learn from the family which plants to eat.",
      "why": "A strong answer gives one way they are alike and one way they differ, with a clear reason."
     },
     {
@@ -2317,7 +2309,7 @@
   }
  ],
  "applications": [
-  "Forest departments plan elephant corridors, safe paths between forests, along the routes that matriarchs use year after year.",
+  "Elephant corridors, safe paths between forests, are kept open in India because elephant families use the same routes year after year.",
   "Wildlife workers try hard to protect old matriarchs from poachers, because whole families depend on their memory.",
   "Computer scientists copy ant trails to find short routes for delivery vans and for data on the internet. This is called ant colony optimisation.",
   "Engineers build groups of small robots that work together with no leader, copying ants and bees.",
@@ -2384,12 +2376,12 @@
  ],
  "jokes": [
   {
-   "j": "Why did the ant get top marks in Class 3?",
-   "a": "She always followed the right trail."
+   "j": "Why do ants never get sick?",
+   "a": "They have little ant-ibodies."
   },
   {
-   "j": "What do you call an elephant family's favourite grandmother?",
-   "a": "Grand. Very, very grand."
+   "j": "Why is an elephant grandmother good at finding water?",
+   "a": "She has been there before, and elephants remember."
   },
   {
    "j": "Why don't ants ever get lost?",
@@ -2400,20 +2392,20 @@
    "a": "Their big sister always brought it home."
   },
   {
-   "j": "What did the young elephant say when his grandmother found water?",
-   "a": "You really dug deep for that one."
+   "j": "What is an elephant's favourite way to phone home?",
+   "a": "A trunk call."
   },
   {
-   "j": "Why did the ant colony never need a boss?",
-   "a": "Everyone already knew the scent of the plan."
+   "j": "Why did the ant cross the kitchen platform?",
+   "a": "To get to the sugar side."
   },
   {
    "j": "What is a wolf's favourite kind of music?",
    "a": "Howl-ywood songs."
   },
   {
-   "j": "Why was the elephant family never late?",
-   "a": "Grandma always remembered the way."
+   "j": "Why did the elephant matriarch not need a map?",
+   "a": "She was the map."
   },
   {
    "j": "How many ants does it take to carry a laddu?",
@@ -2449,7 +2441,7 @@
    "why_maths": "Taking one count from the other shows how big the difference is, so we can see whether the colony really chose."
   },
   {
-   "problem": "At a new sugar drop, Kavya counted 1 ant at 2 minutes, 2 ants at 4 minutes, 4 ants at 6 minutes and 8 ants at 8 minutes. If the pattern carries on, how many ants will there be at 10 minutes? Why might the pattern stop later?",
+   "problem": "At a new sugar drop, Kavya, a girl in Class 3, counted 1 ant at 2 minutes, 2 ants at 4 minutes, 4 ants at 6 minutes and 8 ants at 8 minutes. If the pattern carries on, how many ants will there be at 10 minutes? Why might the pattern stop later?",
    "answer": "16 ants. Later the pattern stops because the drop gets crowded and runs out, and there are only so many ants in the colony.",
    "explain": "Each count is double the one before: 1, 2, 4, 8. Double 8 is 16. Every ant that drank laid scent and brought more ants, so the number grew faster and faster. But no drop can feed endless ants, so the growth slows down.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2578,21 +2570,7 @@
    "why": "See Asian elephants up close and ask the keepers how the elephants get along with each other."
   }
  ],
- "buy": [
-  {
-   "id": "b-lens",
-   "item": "A magnifying glass",
-   "kind": "tool",
-   "why": "To see ants tapping antennae and carrying food. Not essential: everything in the unit works without one.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
-   "used_in": [
-    "e1",
-    "a1",
-    "p1"
-   ],
-   "plan": "Keep it near the kitchen window for ant watching all through the unit."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "Who leads an elephant family?",
@@ -2711,16 +2689,16 @@
  "roots": {
   "context": "We have learned how elephant families, ant colonies and wolf packs live and decide together. Now we ask what animal societies tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your strong sugar drop ended up with far more ants than the weak one. No ant was in charge, and none gave orders. Ants that drank the sweeter sugar laid more scent on their way home. Those many small choices added up to one choice for the whole nest.",
+   "truth": "Usually the strong sugar drop ends up with far more ants than the weak one. No ant is in charge, and none gives orders. Ants that drink the sweeter sugar lay more scent on their way home. Those many small choices add up to one choice for the whole nest.",
    "habit": "We expect every group to have a boss who decides, like a captain or a head teacher. An ant nest has a queen, but she stays inside laying eggs and gives no orders. The choice is made by many ants together.",
-   "evidence": "In the sugar drop test, the strong drop gained ants faster and faster, while the weak drop kept only a few. The queen was never there. The ants decided out on the floor, one ant at a time."
+   "evidence": "In the sugar drop test, the strong drop usually gains ants faster and faster, while the weak drop keeps only a few. The queen is never there. The ants decide out on the floor, one ant at a time."
   },
   "three": {
    "who_am_i": "You were born into a family, and you learned most of what you know from older people in it, just as an elephant calf learns from her grandmother.",
    "what_is_life": "Many living beings survive by living together. An elephant calf, a worker ant and a wolf pup could not grow up alone.",
-   "what_is_this_world": "Scientists estimate that about 20 million billion ants are alive on Earth. Almost all of them live in colonies, on nearly every piece of land."
+   "what_is_this_world": "Scientists estimate that about 20 million billion ants are alive on Earth. All ants live in colonies, on nearly every piece of land."
   },
-  "thread": "One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. An elephant family carries the memory of their oldest member to every calf. In each society, many lives act together as one larger life, and each member is still herself.",
+  "thread": "One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. An elephant family carries the memory of their oldest member to every calf. In each society, the members act together, and each member still senses and chooses for herself.",
   "teachings": [
    {
     "source": "Bhagavad Gita 3.21",
@@ -2765,7 +2743,7 @@
   ],
   "art": "A kitchen floor at dusk with a line of ants walking to a sugar drop, and above it, drawn faintly in the evening sky, an elephant family following an old female."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. The sugar drop test uses squares cut from a milk packet, which most Indian homes have, and says what to do if no ants come: leave sugar out an hour first, try in the evening, or move both squares closer to the ant road together. It also says that the weak drop sometimes wins, because the ants found it first, and that this is a real result. The street dog watch is from a window or balcony and offers crows or pigeons if no dogs are in view. The Ask the Elders test works by phone for families without a grandparent at home. The elephant and wolf parts use stories, family trees and games, because these animals can't be visited from a flat.",
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a city flat. Fixed: the board game said 16 squares but lists 17 (0 to 16); the sugar test now has steps and minutes that agree (45 minutes, 30 of counting), labels the cups before use and sets both squares in a line along the ant road so the test is fair; the check no longer assumes the strong drop wins. Removed made-up names from family steps, grandmother assumptions, one wrong wolf clue that also fitted ants, and one wrong claim about elephant calves feeding themselves. Replaced repeated questions and weak jokes, removed an unneeded magnifying-glass purchase, hid '(to find)' from video titles, and made the deep truth fit a result that can vary. The three video ids are still to be found and checked.",
  "how_we_found_out": {
   "story": "In the 1940s, a Swiss scientist called Rudolph Schenkel watched wolves in a zoo in Basel. The wolves were strangers who had been put together in one enclosure. They fought often. Schenkel wrote that a top male and a top female, which he called the 'alpha' wolves, won their place by fighting. In 1970, the American scientist David Mech used the word in a popular book, The Wolf. Soon people everywhere believed that a wolf pack is ruled by the toughest fighter. Then Mech spent many summers on Ellesmere Island, in the far north of Canada, watching wild wolves who had little fear of people. He saw that a wild pack is a family: a mother, a father and their young from the last few years. The 'alpha' pair were simply the parents. The young wolves followed them as children follow their parents, and fights were rare. In 1999 Mech published what he had found. He asked his publisher to stop printing his old book. Scientists now think the zoo wolves fought because they were strangers forced together, not a family.",
   "who": "Rudolph Schenkel, a Swiss animal scientist, and L. David Mech, an American wolf scientist",

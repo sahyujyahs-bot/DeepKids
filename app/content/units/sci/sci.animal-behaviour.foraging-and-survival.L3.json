@@ -476,7 +476,7 @@
        "b": "Hunts by shooting water"
       },
       {
-       "f": "A porcupine raises and rattles their sharp quills.",
+       "f": "A porcupine raises and rattles her sharp quills.",
        "b": "Stays safe: spines and a warning"
       },
       {
@@ -593,14 +593,15 @@
     }
    ],
    "rules": [
-    "You need 30 paper strips scattered on the floor as grass, and a cushion at one end of the room as the waterhole.",
+    "You need 30 paper strips scattered on the floor as grass (cut them from old newspaper), and a cushion at one end of the room as the waterhole.",
     "One player is the tiger. The tiger stands at the waterhole, facing the wall.",
     "Everyone else is a deer, starting at the other end of the room.",
     "While the tiger faces the wall, deer move forward and pick up grass, one strip at a time.",
     "The tiger can turn round at any moment. When she turns, every deer must freeze.",
     "If the tiger sees a deer moving, that deer is caught and goes back to the start without their grass.",
     "The round ends when a deer touches the waterhole. Count each deer's grass. Swap who is the tiger.",
-    "Playing with just one grown-up? The grown-up is the tiger, and the child plays three rounds as the deer."
+    "After three rounds, add up each deer's grass. The deer with the most grass wins. Playing with two, swap roles after each round so that each of you is the tiger at least once, and compare totals at the end.",
+    "Playing with just one grown-up? The grown-up is the tiger, and the child plays three rounds as the deer. The aim is to beat your own total from the round before."
    ],
    "flow": [
     {
@@ -843,11 +844,11 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Spread a newspaper on the floor. 2. Poke 3 small holes in it with a pencil, far apart. 3. Tape one end of a 60 cm thread to the back of a newspaper strip. 4. Push the other end of the thread down through one hole. 5. Run the thread under the newspaper to the edge, where you sit.",
-     "say": "We are making a caterpillar that can wriggle. The thread runs under the paper, so the hunter won't see it.",
-     "kid": "Help tape a thread to one newspaper strip. The thread goes through a hole and under the paper. Now the strip can wriggle.",
+     "do": "1. Spread a newspaper on the floor. 2. Poke 3 small holes in it with a pencil, far apart. 3. Tape one end of a 60 cm thread to the end of a newspaper strip.",
+     "say": "We are making a caterpillar that can wriggle. The thread will run under the paper, so the hunter won't see you pull it.",
+     "kid": "Help tape a thread to the end of one newspaper strip. The thread will go down through a hole and under the paper. Then the strip can wriggle.",
      "adult": false,
-     "parent": "Use a light-coloured thread. The hunter must not see where you sit, so sit at the side of the newspaper and keep your hand still under the edge.",
+     "parent": "Use a light-coloured thread. Sit at the side of the newspaper and keep your hand still under the edge, so the hunter cannot see where you pull from.",
      "context": "This is the first step of the Still or Moving experiment. You make a hidden paper caterpillar that can move, to test whether moving gives prey away."
     },
     {
@@ -860,7 +861,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. The hunter stands one big step from the newspaper and turns round. 2. Lay the strip at one of the holes. 3. Say 'Look!' and start the timer. 4. Stop the timer when the hunter points at the strip. 5. Do this 3 times, using a different hole each time. 6. Keep the strip still every time.",
+     "do": "1. The hunter stands one big step from the newspaper and turns round. 2. Lay the strip on the newspaper about 2 cm from one hole, with the taped end nearer the hole. 3. Push the thread down through that hole and under the newspaper to where you sit. 4. Say 'Look!' and start the timer. 5. Stop the timer when the hunter points at the strip. 6. Do this 3 times, using a different hole each time. Keep the strip still every time.",
      "say": "Turn round. Now look! Point the moment you spot the strip.",
      "kid": "Turn round. When you hear 'Look!', search for the strip. Point the moment you spot the strip.",
      "parent": "If your child takes longer than 30 seconds, write 'more than 30' and move on."
@@ -868,7 +869,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Do 3 more tries, using the holes in a new order. 2. This time, give the thread a tiny tug about once every two seconds. 3. Time how long the hunter takes to point.",
+     "do": "1. Do 3 more tries, using the holes in a new order and threading the strip each time. 2. This time, give the thread a small tug about once every two seconds, so the strip jerks a little. 3. Time how long the hunter takes to point.",
      "say": "Turn round again. Same game, but this time the caterpillar might be wriggling. Look!",
      "kid": "Turn round. Look again. Point the moment you spot the strip.",
      "check": {
@@ -921,7 +922,7 @@
      "qty": 1
     },
     {
-     "item": "5 rajma beans, or 5 groundnuts or chickpeas",
+     "item": "5 rajma beans, or 5 groundnuts",
      "qty": 5
     },
     {
@@ -1467,8 +1468,8 @@
     "Hang the feeder on a string, so it swings. Heavy birds find it harder to land on."
    ],
    "creative": [
-    "Wrap a loose cage of string around the feeder, with gaps a sparrow can slip through but a crow cannot.",
-    "Fill the bottle with only a little grain, so it can be reached only from the lowest hole, deep inside.",
+    "Make a cage of ice-cream sticks or rolled paper around the feeder, with gaps a sparrow can slip through but a crow cannot.",
+    "Put the holes low on the bottle and fill it with only a little grain, so a beak has to reach deep inside to get any.",
     "Make a feeder that hangs under a small roof, so big birds cannot land on top."
    ],
    "your_turn": "Now design your own small-beak feeder. Draw it, build it, and test it with the pencil and the marker. If you can, hang it at a window and watch who comes.",
@@ -1535,31 +1536,31 @@
  ],
  "videos": [
   {
-   "title": "A short film of camouflaged animals, such as nightjars, moths on bark and leaf insects (to find)",
+   "title": "A short film of camouflaged animals, such as nightjars, moths on bark and leaf insects",
    "channel": "",
    "youtube": "",
    "status": "find-id",
    "mins": 4,
    "why": "Seeing real camouflaged animals, and then seeing them move, shows how well hiding works and how movement gives it away.",
-   "check": "No video id was confirmed from here. Look for a nature channel such as BBC Earth, and check it does not claim chameleons change colour mainly to hide."
+   "check": "Choose a nature film from a science or nature channel. Preview it first, and skip any that say chameleons change colour mainly to hide."
   },
   {
-   "title": "Archerfish shooting water at insects (to find)",
+   "title": "Archerfish shooting water at insects",
    "channel": "",
    "youtube": "",
    "status": "find-id",
    "mins": 3,
    "why": "A surprising way to hunt: a fish who knocks insects off leaves with a jet of water.",
-   "check": "No video id was confirmed from here. Prefer slow-motion footage from a science or nature channel."
+   "check": "Choose slow-motion footage from a science or nature channel. Preview it first."
   },
   {
-   "title": "A tiger stalking spotted deer, with alarm calls, in an Indian forest (to find)",
+   "title": "A tiger stalking spotted deer, with alarm calls, in an Indian forest",
    "channel": "",
    "youtube": "",
    "status": "find-id",
    "mins": 5,
    "why": "Shows an ambush in real life: how close a tiger must creep, how chital and langurs give alarm calls, and how often a hunt fails.",
-   "check": "No video id was confirmed from here. Choose one without a graphic kill, and preview it first."
+   "check": "Choose one without a graphic kill. Preview it first."
   }
  ],
  "quiz": [
@@ -2232,9 +2233,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Grazers spend most of the day eating because grass is hard to find.",
-     "a": false,
-     "why": "False. Grass is easy to find. Grazers eat for so long because each mouthful gives little energy and is slow to digest."
+     "p": "A deer who keeps her head down to eat for a long time is easier for a tiger to ambush.",
+     "a": true,
+     "why": "True. With her head down, a deer cannot see or hear the tiger creeping closer. That is one reason grazers feed in herds, where others keep watch."
     },
     {
      "t": "write",
@@ -2563,7 +2564,7 @@
    "title": "PhET Natural Selection",
    "url": "https://phet.colorado.edu/en/simulations/natural-selection",
    "kind": "simulation",
-   "why": "A free simulation. Rabbits with brown or white fur live in snow or in a desert, and wolves hunt them. Watch which fur colour survives in each place over many generations."
+   "why": "A free simulation. Rabbits with brown or white fur live on snow or on bare ground, and wolves hunt them. Watch which fur colour survives in each place over many generations."
   },
   {
    "title": "India Biodiversity Portal",
@@ -2786,9 +2787,9 @@
   ],
   "art": "A pond heron standing still in a paddy field at dawn, a grey moth half-hidden on a tree trunk at the edge of the field, and faint shapes of a chital and a tiger reflected in the water."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Paper Caterpillars needs only newspaper, plain paper and scissors. Cutting through four layers keeps the cutting to about 8 minutes. With 40 strips and 20 seconds, a child of 8 picks up roughly 15 to 20 strips, mostly plain ones on the newspaper, so the difference is large and easy to see. The plain strips must be the same colour as the plain background, or the second half shows nothing, so the step says so. Still or Moving uses a thread run under the newspaper through a pencil hole, so the hunter cannot follow the thread to the strip. The spine uses no living animals and works in any flat. The flock watch and the Home Hunters Diary depend on birds, geckos and spiders turning up, so they are outside the spine and say what to do if nobody comes. The antlion pit works best with dry rava. Damp sand will not slide. Shadow Belly gives a gentle difference, clearest with one light above and the room dim. Freeze, Tiger! works with one parent and one child. The feeder challenge needs a grown-up to cut the bottle and tape the edges. Timings were checked step by step. The spine fits about 80 minutes.",
+ "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a city flat. Fixed: one true-or-false answer marked False although its explanation said True; a porcupine card that said 'their' for one animal; the three video entries, now cleaned of internal notes (no video id could be checked from here, so each says what to look for and to preview it first); Freeze, Tiger! now says where the grass comes from and who wins, for two players and for four. Timings, fair tests, checks and step minutes agree, and the spine needs no living animals.",
  "how_we_found_out": {
-  "story": "Abbott Thayer was an American painter who loved birds. In the 1890s he noticed that many animals are darker on their backs and paler on their bellies. He worked out why. Light comes from the sky, so it brightens an animal's back and leaves the belly in shadow. A pale belly evens out that shadow, so the body looks flat and blends into the background. In 1896 he showed this to bird scientists with painted model birds. A model painted dark on top and pale below almost vanished. This is called countershading, and Thayer was right. But then he went too far. In a book he wrote with his son Gerald in 1909, he said that almost every colour on every animal is for hiding. He even said a flamingo's pink hides her against the evening sky. Other naturalists, including Theodore Roosevelt, said this was wrong, because some colours are for showing off or for warning. For about a hundred years, few people tested countershading with real hunters. Then Hannah Rowland and her team in Britain made small pastry caterpillars, coloured in different ways, and laid them on branches. Wild birds ate fewer of the countershaded ones.",
+  "story": "Abbott Thayer was an American painter who loved birds. In the 1890s he noticed that many animals are darker on their backs and paler on their bellies. He worked out why. Light comes from the sky, so it brightens an animal's back and leaves the belly in shadow. A pale belly evens out that shadow, so the body looks flat and blends into the background. In 1896 he showed this to bird scientists with painted model birds. A model painted dark on top and pale below almost vanished. This is called countershading, and Thayer was right. But then he went too far. In a book he wrote with his son Gerald in 1909, he said that almost every colour on every animal is for hiding. He even said a flamingo's pink hides her against the sky at dawn or dusk. Other naturalists, including Theodore Roosevelt, said this was wrong, because some colours are for showing off or for warning. For about a hundred years, few people tested countershading with real hunters. Then Hannah Rowland and her team in Britain made small pastry caterpillars, coloured in different ways, and laid them on branches. Wild birds ate fewer of the countershaded ones.",
   "who": "Abbott Thayer, an American painter, with his son Gerald Thayer, and later Hannah Rowland and her team in Britain",
   "when": "1896 (the painted model birds), 1909 (the Thayers' book), and the 2000s (the pastry caterpillar tests)",
   "wrong_idea": "Abbott Thayer believed that almost every animal colour, even a flamingo's pink, is for hiding. Other naturalists showed that some colours are for showing off or warning. His idea of countershading was right, and a century later Hannah Rowland's tests with wild birds and pastry caterpillars showed that it really helps prey survive."

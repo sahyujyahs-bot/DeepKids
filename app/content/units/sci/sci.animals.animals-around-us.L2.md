@@ -31,7 +31,7 @@
 ### Body coverings · *defined*
 **Definition:** A body covering is the outside layer of an animal's body: hair or fur, feathers, scales, a shell, or bare skin.
 
-Most mammals are covered in hair or fur. Birds are covered in feathers. Fish, snakes and lizards have scales. Snails and tortoises carry a shell. Frogs and earthworms have bare, damp skin. Here is a surprise. Your hair and nails, a crow's feathers, a cow's horns and a gecko's scales are all made of the same tough material. It is called keratin. Fish scales are different: they are made of a bony material.
+Most mammals are covered in hair or fur. Birds are covered in feathers. Fish, snakes and lizards have scales. Snails and tortoises carry a shell. Frogs and earthworms have bare, damp skin. Your hair and nails, a crow's feathers, a cow's horns and a gecko's scales are all made of the same tough material. It is called keratin. Fish scales are different: they are made of a bony material.
 - e.g. A goat is covered in fur.
 - e.g. A peacock is covered in feathers.
 - e.g. A gecko is covered in tiny bumpy scales.
@@ -39,7 +39,7 @@ Most mammals are covered in hair or fur. Birds are covered in feathers. Fish, sn
 ### Counting legs · *defined*
 **Definition:** Animals can have no legs, two, four, six, eight or many legs.
 
-Snakes, fish and earthworms have no legs. Birds and humans walk on two legs. Dogs, cows, frogs and geckos have four. Every adult insect, such as an ant, a fly or a butterfly, has six legs. Spiders have eight legs, so a spider is not an insect. Centipedes and millipedes have many legs. One millipede found in Australia in 2021 has 1,306 legs!
+Snakes, fish and earthworms have no legs. Birds and humans walk on two legs. Dogs, cows, frogs and geckos have four. Every adult insect, such as an ant, a fly or a butterfly, has six legs. Spiders have eight legs, so a spider is not an insect. Centipedes and millipedes have many legs. One millipede in Western Australia has 1,306 legs!
 - e.g. A sparrow has 2 legs.
 - e.g. A buffalo has 4 legs.
 - e.g. A mosquito has 6 legs.
@@ -55,7 +55,7 @@ Birds, bats and most insects have wings. A bat is not a bird: bats have fur and 
 ### Standing and balance · *defined*
 **Definition:** A body stands still by itself when its weight is above the space between its feet. Three feet, spread out, make that space a triangle.
 
-One leg or two legs give a body only a point or a thin line to stand on. The body tips over unless something keeps catching it. Three legs make a triangle, so a stool with three legs stands. Four or six legs stand easily too. An ant walking keeps three legs on the ground at a time, in a triangle. Humans and birds stand on two legs. Your feet feel the floor, your inner ears feel you tilt, and your eyes see you lean. Your brain and spinal cord use all of this to tighten and loosen the muscles in your ankles, all the time. With your eyes shut, you sway more, so you feel those corrections more.
+One leg or two legs give a body only a small place to stand, so the body tips over. Three legs, spread out, make a triangle, so a stool with three legs stands. Four or six legs stand easily too. Humans and birds stand on two legs, and keep their balance by moving all the time. Your feet feel the floor, your ears feel you tilt and your eyes see you lean. Your muscles then tighten and loosen to catch you. With your eyes shut, you sway more, so you feel this more.
 - e.g. A camera stand has three legs.
 - e.g. A cow standing in the road has four legs on the ground.
 - e.g. A crow standing on one leg keeps adjusting their foot on the wire.
@@ -88,7 +88,7 @@ Fossils show that some dinosaurs had feathers, millions of years before birds fl
 - Humans are mammals. *How we know:* Humans have hair, breathe air with lungs and feed babies on milk, like cows, dogs and bats.
 
 ## How we found out
-**Aristotle, Carl Linnaeus, and a jury in New York, About 350 BCE, 1758 and 1818.** For a very long time, many people thought a whale was a fish. Whales live in the sea, and they swim with fins and a tail. But about 2,300 years ago, the Greek thinker Aristotle looked closely at dolphins and whales. He wrote that they breathe air, give birth to live babies and feed them milk, like a cow. Fish do none of these things. Still, for many hundreds of years after him, most books called whales fish. In 1758 the Swedish scientist Carl Linnaeus put whales into his new group, the mammals, with cows, bats and humans. Even then, many people did not agree. In 1818, a court in New York had to decide if whale oil was fish oil. The jury said that a whale is a fish! Today scientists agree that whales are mammals. Here is one more clue you can see in any picture: a whale's tail moves up and down, but a fish's tail moves from side to side. To sort an animal, look at the whole body and how the animal lives, not only at where they live.  
+**Aristotle, Carl Linnaeus, and a jury in New York, About 350 BCE, 1758 and 1818.** For a very long time, many people thought a whale was a fish. Whales live in the sea, and they swim with fins and a tail. But about 2,300 years ago, the Greek thinker Aristotle looked closely at dolphins and whales. He wrote that they breathe air, give birth to live babies and feed them milk, like a cow. Fish breathe with gills and do not feed their babies milk. Still, for many hundreds of years after him, most books called whales fish. In 1758 the Swedish scientist Carl Linnaeus put whales into his new group, the mammals, with cows, bats and humans. Even then, many people did not agree. In 1818, a court in New York had to decide if whale oil was fish oil. The jury said that a whale is a fish! Today scientists agree that whales are mammals. Here is one more clue you can see in any picture: a whale's tail moves up and down, but a fish's tail moves from side to side. To sort an animal, look at the whole body and how the animal lives, not only at where they live.  
 *What people believed before:* A whale is a fish, because whales live in the sea and swim with fins.
 
 ## Challenging perspectives
@@ -119,7 +119,7 @@ We have compared animals by their coverings, legs, wings and fins, and tested ho
 Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor and decide each shift.
 
 - **Yoga Sutras of Patanjali 2.46 and 2.47:** A posture should be steady and comfortable. Patanjali says it becomes steady when effort is relaxed and the mind rests on the endless. (In the eyes-shut stand, you were steady only because your feet and ankles kept working. Your effort could relax, because your body kept correcting below what you noticed.)
-- **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this unit, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a fish. We knew each animal only by putting all the parts together.)
+- **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this unit, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
 - Science (settled): When a person stands still, the body sways a little all the time, and ankle muscles correct the sway. With the eyes shut, the sway gets bigger.
 - Science (open): Many of these corrections are run by the spinal cord and brain without our attention. Whether the body feels or knows each correction in its own way is an open question.
 - Other view, Many neuroscientists: These quick corrections are reflexes: fixed, automatic loops of nerves, with no awareness needed. In this view, awareness belongs to the brain, and only some of what the body does reaches it.
@@ -273,7 +273,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Ask: Why do you think so? (good: Two, because I stand on two legs.; Four, because a cow and a dog stand on four.)
   - Note: Many children guess two, because they stand on two legs themselves. Do not correct the guess. The test will answer it.
 - **s3 (9 min)**  
-  *Parent does:* 1. Stand the body on the plate on one leg and let go. 2. Count to five. 3. Write down what happened. 4. Add a second leg and test again. 5. Then test three legs, four legs and six legs. 6. Try each number twice.  
+  *Parent does:* 1. Stand the body on the board on one leg and let go. 2. Count to five. 3. Write down what happened. 4. Add a second leg and test again. 5. Then test three legs, four legs and six legs. 6. Try each number twice.  
   *Parent says:* Let go gently and count to five. Did the animal stand, wobble or fall?  
   *Child mode:* Let go. Count to five. Did it stand or fall?
   - Ask: What happened with two legs? (good: The dough animal fell over, forward or backward.; It fell every time unless I held it.)
@@ -631,7 +631,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - Camera stands and old milking stools have three legs, because three legs never rock.
 - Engineers build six-legged walking robots that move like insects, keeping three legs on the ground at a time.
 - Scientists have made sticky tapes that copy the tiny hairs on a gecko's toes.
-- Sailing boats have a keel, a fin under the boat, that stops the boat rolling over, like a fish's fins.
+- Sailing boats have a keel, a fin under the boat, that helps keep the boat upright, like a fish's fins.
 - Vets compare the bodies of animals to know how to care for each one.
 
 ## Spotted around us
@@ -668,7 +668,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - Two crows and one dog are standing on the street. How many legs are there in all? **8 legs.**. Each crow has 2 legs, so two crows have 2 and 2, which is 4. The dog has 4 legs. 4 and 4 make 8. (queues `math.addition-subtraction.meaning.L2`)
 - Three ants walk across the kitchen floor. How many legs is that? **18 legs.**. Each ant has 6 legs. 6 and 6 is 12, and 6 more is 18. That is three groups of 6. (queues `math.multiplication.equal-groups.L2`)
 - A spider has 8 legs and an ant has 6 legs. How many more legs does the spider have? **2 more legs.**. Count up from 6 to 8: 7, 8. That is 2 more. So the spider has 2 more legs than the ant. (queues `math.number-sense.comparing-ordering.L2`)
-- In the Dough Legs test, the dough animal fell over on 1 leg and on 2 legs. It stood on 3, 4 and 6 legs. What is the smallest number of legs that let it stand? What do you think would happen with 5 legs? **3 legs. With 5 legs, it would stand too.**. 1 and 2 fell. 3 is the smallest number that stood. Every number bigger than 3 also stood, so 5 should stand as well. (queues `math.patterns.number-patterns.L2`)
+- In the Dough Legs test, the dough animal fell over on 1 leg and on 2 legs. It stood on 3, 4 and 6 legs. What is the smallest number of legs that let it stand? What do you think would happen with 5 legs? **3 legs. With 5 legs, it should stand too, but we would need to test it.**. 1 and 2 fell. 3 is the smallest number that stood. Every number bigger than 3 also stood, so 5 should stand as well. A test would tell us for sure. (queues `math.patterns.number-patterns.L2`)
 
 ## Song
 Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2

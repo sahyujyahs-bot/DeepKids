@@ -30,7 +30,7 @@ One sign alone does not tell us. A car moves, but it does not grow or have baby 
 ### Once alive and never alive · *defined*
 **Definition:** Once alive means the thing was part of a living thing, but is not living now. Never alive means it was never part of a living thing.
 
-Look around the kitchen. A wooden spoon came from a tree, so it was once alive. Paper is made from trees too. A cotton cloth came from a cotton plant. A dry tej patta was a leaf. A steel spoon, salt, water and a stone were never alive. They were never part of a living thing.
+Look around the kitchen. A wooden spoon came from a tree, so the spoon was once alive. Paper is made from trees too. A cotton cloth came from a cotton plant. A dry tej patta was a leaf. A steel spoon, salt, water and a stone were never alive. They were never part of a living thing.
 - e.g. A wooden chopping board was once alive.
 - e.g. A coconut shell was once alive.
 - e.g. A steel tumbler was never alive.
@@ -95,8 +95,8 @@ The mint, the snail, the crow and you are all alive, each in their own way. All 
 - Science (open): Scientists do not agree on one exact moment when a picked leaf stops being alive.
 - Other view, Many biologists: A picked sprig is a living part of a plant, not a whole living plant. They say the sprig is alive only in the sense that its tiny parts are still living, until it grows roots of its own.
 - Practice, Soft leaf, dry leaf (3 min): Close your eyes. Hold out both hands. I will put a fresh leaf in one hand and a dry leaf in the other. Feel each one gently. Which one is alive? Now put your hand on your tummy. Breathe in slowly, and out slowly. Feel your own body, soft and warm and alive.
-- Ask: When we pick a leaf, when does the leaf stop being alive?
-- Ask: Is a little bit of the tree still in the wooden spoon?
+- Ask: If the dry tej patta sat in water for a whole day, what do you think would happen?
+- Ask: Which sign of life did the mint show in the glass?
 - Ask: What would you need to stay alive if you were the mint in the glass?
 
 ## Deep and big questions
@@ -106,19 +106,19 @@ The mint, the snail, the crow and you are all alive, each in their own way. All 
 - *big:* Can something be a little bit alive? (hint: Think of a dry seed in a packet, or a picked leaf in water.)
 
 ## Story: The Stone in the Tulsi Pot
-*The snail facts are true for most land snails: eyes on the tips of the long tentacles, a breathing hole on the side near the shell, a rough tongue called a radula, and small eggs laid in damp soil. Anjali, Kiran and Ajji are made up.*
+*The snail facts are true for most land snails: eyes on the tips of the long tentacles, a breathing hole on the side near the shell, a rough tongue called a radula, and small eggs laid in damp soil. Anjali, Kiran and Aaji are made up. Wash your hands after touching a snail.*
 
 It was the first week of the monsoon in Mumbai. The rain had stopped, and the air smelled of wet earth. Anjali was six. She went out on the balcony to look at her plants.
 
-Her little cousin Kiran came running after her. He was four, and he was staying with them for the holidays. 'Anju Akka, look!' he shouted. 'A stone in your tulsi pot!'
+Her little cousin Kiran came running after her. He was four, and he was staying with them for the holidays. 'Anju Tai, look!' he shouted. 'A stone in your tulsi pot!'
 
 Anjali bent down. On the wet soil sat a round brown thing, the size of a big marble. It was hard and shiny, and it had a curl on top, like a swirl of jalebi. It did not move at all.
 
 'Is it a stone?' Kiran asked.
 
-Anjali did not know. She called her grandmother, who was drinking tea inside. Ajji came out slowly, with her glasses on her nose. She looked at the brown thing for a long time.
+Anjali did not know. She called her grandmother, who was drinking tea inside. Aaji came out slowly, with her glasses on her nose. She looked at the brown thing for a long time.
 
-'What do you think?' Ajji asked Anjali. 'How can we find out if this is a stone?'
+'What do you think?' Aaji asked Anjali. 'How can we find out if this is a stone?'
 
 Anjali thought. 'A stone stays where you put it,' she said. 'Let's leave it, and look again in the morning.'
 
@@ -132,19 +132,19 @@ Kiran's eyes were big. Then Anjali saw something else. One tulsi leaf had a hole
 
 'And it ate my tulsi!' said Anjali. 'Stones do not eat.'
 
-Ajji smiled and fetched a small steel plate. She put a wet cabbage leaf on it and set the brown thing gently beside it. 'Now, sit very still,' she said. 'Living things are often shy.'
+Aaji smiled and fetched a small steel plate. She put a wet cabbage leaf on it and set the brown thing gently beside it. 'Now, sit very still,' she said. 'Living things are often shy.'
 
 They sat on the balcony floor and waited. For a long time, nothing happened. Kiran started to wriggle. Then, slowly, something soft and grey came out from under the brown curl. Out came a head with two long horns, and on the tip of each horn was a tiny black dot.
 
 'A snail!' whispered Anjali. 'The round thing is a shell. The snail lives inside.'
 
-'Those dots are the snail's eyes,' said Ajji. 'They are at the top of the long horns. And look there, near the shell, on the snail's side.'
+'Those dots are the snail's eyes,' said Aaji. 'They are at the top of the long horns. And look there, near the shell, on the snail's side.'
 
 Anjali looked. A little hole opened, then closed, then opened again.
 
-'That is how a snail breathes,' said Ajji. 'Air goes in and out of that hole.'
+'That is how a snail breathes,' said Aaji. 'Air goes in and out of that hole.'
 
-The snail moved onto the cabbage and began to eat. They could hear a tiny scratching sound. 'Snails have a rough tongue, like a file,' said Ajji. 'They scrape the leaf with it.'
+The snail moved onto the cabbage and began to eat. They could hear a tiny scratching sound. 'Snails have a rough tongue, like a file,' said Aaji. 'They scrape the leaf with it.'
 
 Kiran clapped his hands. 'Snail, you eat, you move and you breathe,' he said. 'You are alive!'
 
@@ -152,13 +152,13 @@ Later that day, Anjali found another round shell behind the pot. This one was wh
 
 'Is this one alive?' Kiran asked.
 
-Anjali turned the shell over in her hand. 'No,' she said. 'This shell was once part of a living snail. But no snail lives in it now. It is once alive, like a dry leaf.'
+Anjali turned the shell over in her hand. 'No,' she said. 'This shell was once part of a living snail. But no snail lives in the shell now. The shell is once alive, like a dry leaf.'
 
 'And a stone?' asked Kiran.
 
 'A stone was never alive,' said Anjali. 'A stone never ate, and never moved, and never had babies.'
 
-Ajji nodded. 'Snails lay tiny eggs in wet soil,' she said. 'If you are lucky, there will be baby snails in the pots next month, no bigger than a grain of rice.'
+Aaji nodded. 'Snails lay tiny eggs in wet soil,' she said. 'If you are lucky, there will be baby snails in the pots next month, no bigger than a grain of rice.'
 
 That evening, Anjali put the snail back in the tulsi pot, with the cabbage leaf. 'You can stay,' she told the snail. 'But please eat the cabbage and leave my tulsi.'
 
@@ -172,25 +172,25 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 
 ## Games
 ### g1 · Mother and Baby: a matching game (15 min)
-- **rules:** Before you play, draw the living thing on each card under the name, so a child who cannot read can play.; Mix the cards and lay them face down in rows.; On your turn, turn over two cards and say what they are.; If they are a parent and their young, keep the pair and have another turn.; If not, turn them back over in the same places. The next player has a turn.; When all the cards are matched, the player with the most pairs wins.
-- **Printable cards: 20 cards to cut out: 10 parents and their 10 young:** Hen (back: Parent. Her young is a chick.); Chick (back: Young. Grows up to be a hen or a rooster.); Cow (back: Parent. Her young is a calf.); Calf (back: Young. Grows up to be a cow or a bull.); Frog (back: Parent. Her young is a tadpole.); Tadpole (back: Young. Grows legs and becomes a frog.); Butterfly (back: Parent. Her young is a caterpillar.); Caterpillar (back: Young. Becomes a butterfly.); Elephant (back: Parent. Her young is a calf.); Baby elephant (back: Young. Drinks milk for about two years.); Dog (back: Parent. Her young is a puppy.); Puppy (back: Young. Grows up to be a dog.); Crow (back: Parent. Her young is a chick that hatches from an egg.); Crow chick (back: Young. Grows feathers and learns to fly.); Human mother (back: Parent. Her young is a baby.); Human baby (back: Young. Grows up to be a grown-up.); Mango tree (back: Parent. Their young grow from mango seeds.); Mango seedling (back: Young. Grows up to be a mango tree.); Tomato plant (back: Parent. Their young grow from the seeds inside a tomato.); Tomato seedling (back: Young. Grows up to be a tomato plant.)
-- **s1 (5 min)**  
-  *Parent does:* 1. Read each card name to your child. 2. Help your child draw a small picture on each card. 3. Mix the cards and lay them face down in four rows of five.  
+- **rules:** Before you play, draw the living thing on each card under the name, so a child who cannot read can play. The parent draws the parents, the child draws the young.; Mix the cards and lay them face down in rows.; On your turn, turn over two cards and say what they are.; If they are a parent and their young, keep the pair and have another turn.; If not, turn them back over in the same places. The next player has a turn.; When all the cards are matched, the player with the most pairs wins. If you have the same number, you both win.
+- **Printable cards: 20 cards to cut out: 10 parents and their 10 young:** Hen (back: Parent. Her young is a chick.); Chick (back: Young. Grows up to be a hen or a rooster.); Cow (back: Parent. Her young is a calf.); Calf (back: Young. Grows up to be a cow or a bull.); Frog (back: Parent. Her young is a tadpole.); Tadpole (back: Young. Grows legs and becomes a frog.); Butterfly (back: Parent. Her young is a caterpillar.); Caterpillar (back: Young. Becomes a butterfly.); Elephant (back: Parent. Her young is a baby elephant.); Baby elephant (back: Young. Drinks milk for two years or more. Grows up to be an elephant.); Dog (back: Parent. Her young is a puppy.); Puppy (back: Young. Grows up to be a dog.); Crow (back: Parent. Her young is a crow chick, hatched from an egg.); Crow chick (back: Young. Grows feathers and learns to fly.); Mother (back: Parent. Her young is a baby.); Baby (back: Young. Grows up to be a grown-up.); Mango tree (back: Parent. Their young grow from mango seeds.); Mango seedling (back: Young. Grows up to be a mango tree.); Tomato plant (back: Parent. Their young grow from the seeds inside a tomato.); Tomato seedling (back: Young. Grows up to be a tomato plant.)
+- **s1 (6 min)**  
+  *Parent does:* 1. Read each card name to your child. 2. You draw the parent animals and your child draws the young, one small picture on each card. 3. Mix the cards and lay them face down in four rows of five.  
   *Parent says:* Every living thing has young. Let's make our cards first. You draw the hen, I'll read the next name.  
   *Child mode:* Draw a picture on each card. A hen. A chick. A cow. Then mix them up.
-- **s2 (8 min)**  
+- **s2 (7 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. Read the names aloud for your child. 3. When a pair is found, ask the question below.  
   *Parent says:* Turn over two cards. Is that a mother and her baby? How do you know?  
   *Child mode:* Turn over two cards. Do they go together? Keep them if they do.
   - Ask: The tadpole looks nothing like a frog. How do we know a tadpole is a young frog? (good: Because a tadpole grows legs and turns into a frog.; Because a frog lays eggs and tadpoles hatch from them.)
 - **s3 (2 min)**  
-  *Parent does:* Count the pairs. Then pick up the mango tree pair and ask the check question.  
+  *Parent does:* Count the pairs. Then ask the check question, using the mango tree card.  
   *Parent says:* Who has the most pairs? Now, a plant question.  
   *Child mode:* Count your pairs. Who has the most?
   - Check: Does a mango tree have young? → **Yes, a mango seed grows into a young mango tree**
 ### g2 · Wiggle, Sit or Statue (10 min)
-- **rules:** The caller mixes the cards and reads one out loud.; If the thing is alive, the players wiggle like a living thing.; If the thing was once alive, the players sit down on the floor.; If the thing was never alive, the players freeze like a statue.; The caller turns the card over and reads the answer. Talk about any surprises.; After every six cards, a player becomes the caller.
-- **Printable cards: 18 calling cards for the caller:** A crow (back: Alive: wiggle); A tulsi plant (back: Alive: wiggle); An ant (back: Alive: wiggle); Your grandmother (back: Alive: wiggle); A coconut tree (back: Alive: wiggle); A goldfish (back: Alive: wiggle); A wooden spoon (back: Once alive: sit down); A cotton towel (back: Once alive: sit down); A newspaper (back: Once alive: sit down); A dry tej patta (back: Once alive: sit down); A coconut shell (back: Once alive: sit down); An empty snail shell (back: Once alive: sit down); A steel tumbler (back: Never alive: freeze like a statue); A stone (back: Never alive: freeze like a statue); Salt (back: Never alive: freeze like a statue); The ceiling fan (back: Never alive: freeze like a statue); Rain (back: Never alive: freeze like a statue); A glass marble (back: Never alive: freeze like a statue)
+- **rules:** The caller mixes the cards and reads one out loud.; If the thing is alive, the players wiggle like a living thing.; If the thing was once alive, the players sit down on the floor.; If the thing was never alive, the players freeze like a statue.; The caller turns the card over and reads the answer. Talk about any surprises.; After every six cards, change places: another player becomes the caller. When all 18 cards are done, everyone has won.
+- **Printable cards: 18 calling cards for the caller:** A crow (back: Alive: wiggle); A tulsi plant (back: Alive: wiggle); An ant (back: Alive: wiggle); A baby (back: Alive: wiggle); A coconut tree (back: Alive: wiggle); A goldfish (back: Alive: wiggle); A wooden spoon (back: Once alive: sit down); A cotton towel (back: Once alive: sit down); A newspaper (back: Once alive: sit down); A dry tej patta (back: Once alive: sit down); A coconut shell (back: Once alive: sit down); An empty snail shell (back: Once alive: sit down); A steel tumbler (back: Never alive: freeze like a statue); A stone (back: Never alive: freeze like a statue); Salt (back: Never alive: freeze like a statue); The ceiling fan (back: Never alive: freeze like a statue); Rain (back: Never alive: freeze like a statue); A glass marble (back: Never alive: freeze like a statue)
 - **s1 (2 min)**  
   *Parent does:* 1. Clear a space on the floor. 2. Show the three moves: wiggle, sit down, freeze.  
   *Parent says:* Let's learn the moves. Alive, wiggle. Once alive, sit down. Never alive, freeze like a statue.  
@@ -219,20 +219,20 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent does:* 1. Two or three hours before, leave two mint sprigs on a plate in the room until they go floppy. 2. Now lay out the two droopy sprigs, the tej patta and the paper leaf. 3. Let your child touch each one.  
   *Parent says:* Touch each leaf gently. How does each one feel?  
   *Child mode:* Touch each leaf. Is it soft? Is it crisp? Is it floppy?
-  - Ask: Which of these was once part of a plant? (good: The mint and the tej patta.; The mint and the tej patta came from plants. The paper is made from trees too.)
-  - Note: The mint should be floppy but still green, not dry and crisp. Coriander or palak leaves work too if you have no mint. Paper is made from wood, so it was once alive too. That is fine: it is now a flat sheet, not a leaf.
+  - Ask: Which of these was once part of a plant? (good: The mint and the tej patta.; The paper too, because paper is made from wood.)
+  - Note: The mint should be floppy but still green, not dry and crisp. If it is still firm after three hours, leave it longer. In a cool room it can take half a day to droop. Coriander or palak leaves work too if you have no mint. Paper is made from wood, so it was once alive too. That is fine: it is now a flat sheet, not a leaf.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess, and to say why. Write the guess down.  
   *Parent says:* We will put each one in water. Which ones will stand up again? Why do you think so?  
   *Child mode:* Guess. Which will stand up in water? Why?
   - Ask: Why do you think so? (good: The mint will stand up, because it is still a bit alive.; The paper will go soggy, because paper soaks up water.)
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* 1. Snip a little off the bottom of one mint stalk. 2. Stand that sprig in a tumbler of water. 3. Stand the tej patta in the second tumbler and the paper leaf in the third. 4. Leave the second mint sprig on the dry plate.  
+  *Parent does:* 1. Snip a little off the bottom of one mint stalk. 2. Stand that sprig in a tumbler of water. 3. Lean the tej patta in the second tumbler, stalk end in the water. 4. Do the same with the paper leaf in the third. 5. Leave the second mint sprig on the dry plate.  
   *Parent says:* Each one gets its own cup of water. This mint sprig stays on the dry plate, so we can see what the water does.  
   *Child mode:* Put each leaf in a cup of water. One mint stays on the plate.
   - Note: Cutting the end opens the stalk so water can go in. Put the cups in the shade, not in hot sun.
 - **s4 (1 min)**  
-  *Parent does:* Leave the cups for one hour. Play Wiggle, Sit or Statue, or do the steel plate breath test, while you wait.  
+  *Parent does:* Leave the cups for one hour. Play Wiggle, Sit or Statue while you wait.  
   *Parent says:* Now we wait one hour. Living things need time.  
   *Child mode:* Now we wait one hour.
   - Wait: Leave the cups for one hour.
@@ -241,13 +241,13 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent says:* Look and touch. What happened to each one?  
   *Child mode:* Look at each cup. Touch each leaf. What changed?
   - Ask: What happened to the mint in water? (good: The mint stood up straight.; The mint feels firm and fresh again.)
-  - Ask: What happened to the tej patta and the paper? (good: The tej patta stayed dry and brown.; The paper went soggy and flopped over.)
+  - Ask: What happened to the tej patta and the paper? (good: The tej patta stayed dry and brown.; The paper stalk went soggy and the leaf bent over.)
   - Note: The mint in water usually stands up firm within an hour. If it is still droopy, wait one more hour. The mint on the plate stays droopy or gets worse. The tej patta stays brown and stiff. The paper goes soft and floppy.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why. Then draw the cups together.  
   *Parent says:* So, is the picked mint still alive? What did you see that tells you?  
   *Child mode:* Is the mint still alive? Say what you saw. Then draw it.
-  - Ask: Why did only the mint stand up? (good: Because the mint is still alive, so it can drink the water.; Because the tej patta is dry and dead, and paper was never a leaf like that.)
+  - Ask: Why did only the mint stand up? (good: Because the mint is still alive, so it can drink the water.; Because the tej patta is dry and no longer alive.)
   - Note: A strong answer uses what your child saw: the mint stood up in water, and the dry leaf did not. The living parts inside the mint fill up with water and push the leaf firm. Dry, dead leaves cannot do this.
   - Check: The droopy mint stood up in water, but the dry tej patta did not. What does this tell us? → **The picked mint was still alive**
 
@@ -255,7 +255,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 ### a1 · Three Plates: sort the kitchen (10 min)
 - **record:** Draw your three plates and what went on each one.
 - **s1 (3 min)**  
-  *Parent does:* 1. Put out the three plates. 2. Show your child the drawing on each plate. 3. Bring out the kitchen things one at a time.  
+  *Parent does:* 1. Draw a small plant, a leaf with a tick and a stone on three paper labels and put one on each plate. 2. Put out the three plates and show your child each drawing. 3. Bring out the kitchen things one at a time.  
   *Parent says:* This plate is for things that are alive now. This one is for things that were once alive. This one is for things that were never alive.  
   *Child mode:* Look at the three plates. Alive. Once alive. Never alive.
 - **s2 (5 min)**  
@@ -263,7 +263,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent says:* Where does the wooden spoon go? Why?  
   *Child mode:* Pick up one thing. Which plate? Why?
   - Ask: Why does the wooden spoon go on the 'once alive' plate? (good: Because the wooden spoon was made from a tree.; Because wood comes from a tree, and the tree was alive.)
-  - Note: Don't correct at first. Ask 'why?' and let the reasons come. A potato is alive: leave one in a cupboard for a few weeks and shoots grow. Salt, steel and a marble were never alive. Cotton came from a cotton plant, so it was once alive.
+  - Note: Don't correct at first. Ask 'why?' and let the reasons come. A potato is alive: leave one in a cupboard for a few weeks and shoots grow. Salt, steel and a marble were never alive. Cotton came from a cotton plant, so cotton was once alive.
 - **s3 (2 min)**  
   *Parent does:* Pick up the potato and ask the question below.  
   *Parent says:* Here is a tricky one. Is the potato alive?  
@@ -277,7 +277,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent says:* Breathe out on the plate, slowly. Haaa. What do you see?  
   *Child mode:* Hold the plate near your mouth. Say haaa. Look!
   - Ask: What do you see on the plate? (good: A cloudy patch.; The plate went foggy, then it went away.)
-  - Note: The breath we breathe out is warm and wet. On a cool plate the wetness makes a cloudy patch, which soon disappears. A plate from the fridge shelf, or a mirror, works best.
+  - Note: The breath we breathe out is warm and wet. On a cool plate the wetness makes a cloudy patch, which soon disappears. A steel plate at room temperature shows very little in a warm flat, so chill it first. Wipe off the drops from the fridge, then breathe on it at once. A clean mirror also works. If you see nothing, chill the plate for longer.
 - **s2 (3 min)**  
   *Parent does:* 1. Hold the plate in front of the doll's mouth for a while. 2. Then in front of your own mouth.  
   *Parent says:* Now let's try the doll. Does the doll breathe on the plate?  
@@ -312,7 +312,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent does:* Scoop out one spoonful of seeds onto the plate. Count them with your child.  
   *Parent says:* Let's count the seeds in one spoonful.  
   *Child mode:* Count the seeds. Touch each one as you count.
-  - Note: A ripe tomato has many seeds, often more than 100. Counting a spoonful is enough.
+  - Note: A ripe tomato has many seeds, often well over fifty. Counting a spoonful is enough.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* If we planted all of these, what would happen?  
@@ -339,31 +339,31 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent does:* 1. Pull the leaves off the bottom part of each stalk. 2. Stand them in a clear glass of water. 3. Put the glass by a bright window, out of hot sun.  
   *Parent says:* Let's see if a picked mint sprig can grow. We'll check it every few days.  
   *Child mode:* Take off the bottom leaves. Put the mint in water. Put it by the window.
+  - Wait: Leave the glass for 3 days.
 - **s2 (3 min)**  
   *Parent does:* Look at the stalks under the water together. Change the water.  
   *Parent says:* Can you see any tiny white bumps on the stalk under the water?  
   *Child mode:* Look under the water. Any white bumps?
   - Note: Change the water every 3 or 4 days so it stays clean.
-  - Wait: Leave the glass for 3 days.
+  - Wait: Leave the glass for 4 more days.
 - **s3 (4 min)**  
   *Parent does:* Look for white roots. Draw them together. Change the water.  
   *Parent says:* Look! Are those roots? Where are they growing from?  
   *Child mode:* Look for roots. Draw them.
   - Note: Mint usually grows roots in about one or two weeks. In cold weather it can take longer. If one sprig goes brown and soft, take it out and keep watching the other.
-  - Wait: Leave the glass for 4 more days.
+  - Wait: Leave the glass for 6 more days.
 - **s4 (8 min)**  
   *Parent does:* Look at the roots together and ask the question below. If you have a pot of soil, plant one sprig.  
   *Parent says:* The mint was picked from the plant. Now it has new roots. Is it alive?  
   *Child mode:* The mint grew roots. Is it alive?
   - Ask: How do you know the mint is alive? (good: Because it grew new roots.; Because it is growing, and growing is a sign of life.)
-  - Wait: Leave the glass for 6 more days.
 
 ## Challenges
 ### c1 · Make a Toy That Seems Alive (20 min)
 - **problem:** Can you make a toy that looks alive? It should move or seem to eat. Then we check: which signs of life does your toy really have?
 - **your turn:** Make your own toy that seems alive. Show it to someone at home. Then tell them which signs of life your toy has and which it does not.
 - **constraints:** Use only paper, card, string, tape and things from home.; Make it in 15 minutes.
-- **general:** A paper snake on a string that wiggles when you pull it.; A paper puppet with a mouth that opens and shuts, to 'eat' paper food.; A paper bird on a stick that flaps when you shake it.
+- **general:** A paper snake on a string that wiggles when you pull the string.; A paper puppet with a mouth that opens and shuts, to 'eat' paper food.; A paper bird on a stick that flaps when you shake the stick.
 - **creative:** A paper fish that 'breathes' by puffing a little bag in and out when you squeeze it.; A paper plant that 'grows' when you pull a strip up out of a cup.
 - **s1 (3 min)**  
   *Parent does:* Read the challenge to your child. Show the materials.  
@@ -378,8 +378,8 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   *Parent does:* Play with the toy. Go through the signs of life one by one.  
   *Parent says:* Does your toy move? Does it eat? Does it grow? Does it breathe? Can it have babies?  
   *Child mode:* Does your toy eat? Grow? Breathe? Have babies?
-  - Ask: Your toy moves. Is your toy alive? (good: No, it only moves when I pull it.; No, it does not eat, grow or have babies.)
-  - Check: A paper snake wiggles when you pull the string. Why is the snake not alive? → **Because the snake is made of paper and only moves when pulled**
+  - Ask: Your toy moves. Is your toy alive? (good: No, it only moves when I pull the string.; No, it does not eat, grow or have babies.)
+  - Check: A paper snake wiggles when you pull the string. Why is the snake not alive? → **Because the snake is made of paper and only moves when the string is pulled**
 
 ## Worksheets
 ### Alive or Not? (core) (core, 15 questions)
@@ -442,14 +442,14 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
    **Answer:** Breathing → a cloudy patch on the steel plate; Growing → a baby sock that no longer fits; Having young → the seeds inside a tomato; Eating → a snail scraping a cabbage leaf. *Why:* Each thing we did showed one sign of life. A strong answer can say which activity showed each one.
 11. (mcq) An empty snail shell is lying behind a pot. What is it?  
    Options: Alive / Once alive / Never alive  
-   **Answer:** Once alive. *Why:* The shell was once part of a living snail, so it is once alive. No snail lives in it now.
+   **Answer:** Once alive. *Why:* The shell was once part of a living snail, so the shell is once alive. No snail lives in the shell now.
 12. (write) Say out loud, and a grown-up writes it down: why did we leave one droopy mint sprig on a dry plate?  
    **Answer:** To see what happens without water. It stayed droopy, so the water made the other mint stand up.. *Why:* A strong answer sees that the dry plate sprig shows what water did. Without it, we could not be sure the water made the difference.
 13. (truefalse) Only animals have young. Plants do not.  
    **Answer:** False. *Why:* False. Plants have young too. Seeds grow into new plants, and a mint sprig can even grow roots and become a new plant.
 14. (label) Label each part of the snail: shell, eyes, breathing hole.  
    **Answer:** ['round hard part: shell', 'dots on the long horns: eyes', 'small hole near the shell: breathing hole']. *Why:* A land snail carries a shell, has eyes at the tips of the long horns, and breathes through a hole on the side. A strong answer remembers the snail from the story.
-15. (count) Priya counted 12 seeds in one spoonful of tomato. She took 2 spoonfuls. About how many seeds did she have?  
+15. (count) Priya counted 12 tomato seeds on each of two plates. How many seeds in all?  
    **Answer:** 24. *Why:* 12 and 12 make 24. Every one of those seeds could grow into a new tomato plant.
 
 ## Videos
@@ -503,7 +503,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - A potato or an onion in the kitchen basket growing green shoots.
 
 ## Open questions
-- **Exactly when does a picked leaf stop being alive?** The tiny parts inside a leaf die a few at a time, over days. Scientists do not agree on one moment when the whole leaf is no longer alive.
+- **Are viruses alive?** A virus cannot make more viruses alone. A virus needs a living cell for that. Scientists still argue about whether viruses are alive.
 - **How did the very first living thing begin?** Every living thing today comes from another living thing. But long ago there must have been a first one. Scientists have ideas, but nobody knows for sure.
 - **Is there life on other planets?** Scientists are looking, with telescopes and robots on Mars. So far they have not found any living thing beyond Earth.
 

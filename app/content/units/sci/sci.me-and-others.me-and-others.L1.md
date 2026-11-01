@@ -3,7 +3,7 @@
 
 **Summary.** Give everyone at home a bit of jaggery and a bit of karela. Everyone gets the same food, but the faces they make are not the same. All people have the same body parts and need the same things: food, water, sleep and people who love them. Yet each of us looks, sounds and likes things in our own way. In this unit you find what you share with your family in a mirror, test who likes which taste, and practise being kind to people who are different from you.
 
-**Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* You both have two eyes, one nose and one mouth. Every person in the world does. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.
+**Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.
 
 ## Learning outcomes
 0. By the end I can say three ways I am similar to other people.
@@ -21,23 +21,23 @@
 
 ## Explanations
 ### We are all similar · *defined*
-**Definition:** All people have the same body parts and need the same things to live: air, water, food, sleep and people who care for them.
+**Definition:** All people have the same main body parts and need the same things to live: air, water, food, sleep and people who care for them.
 
-Every person has a head, two eyes, two ears, a nose, a mouth, two arms and two legs. Every person breathes, eats, sleeps and grows. A baby in Kochi and a baby in Kolkata both cry when they are hungry. Humans are animals, so we share a lot with other animals too. A cat, a crow and a person all need water, food and sleep.
+Every person has a heart, a mouth and a nose. Almost everyone has two eyes, two ears, two arms and two legs. Every person breathes, eats, sleeps and grows. A baby in Kochi and a baby in Kolkata both cry when they are hungry. Humans are animals, so we share a lot with other animals too. A cat, a crow and a person all need water, food and sleep.
 - e.g. Everyone in your family has a heart beating inside them.
 - e.g. Children all over India, and all over the world, love to play.
 - e.g. A puppy and a child both need food, water and someone to care for them.
 ### Each of us is different · *defined*
 **Definition:** No two people are exactly the same. We differ in how we look, how we sound and what we like.
 
-Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. Each person's voice is their own, so you can tell Amma from Paati with your eyes shut. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
+Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell Amma from Paati with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
 - e.g. You can know who is calling you just from their voice.
 - e.g. Two sisters can have different favourite colours.
 - e.g. The lines on your fingertips are not like anyone else's.
 ### One food, many tastes · *defined*
 **Definition:** The same food can taste different to different people, because each person's tongue and body are a little different.
 
-Your tongue is covered in tiny bumps. Inside them are taste buds, too small to see. They tell you if a food is sweet, sour, salty or bitter. Not everyone's taste buds are the same. Some people find bitter foods very bitter. Others hardly notice. Babies are born liking sweet things. Many grown-ups learn to like bitter foods, such as karela or coffee, as they grow.
+Your tongue is covered in tiny bumps. Inside them are taste buds, too small to see. They tell you if a food is sweet, sour, salty or bitter. Not everyone's taste buds are the same. Some people find bitter foods very bitter, and others hardly notice. Babies are born liking sweet things. Many grown-ups learn to like bitter foods, such as karela or coffee.
 - e.g. Nearly everyone smiles at a bit of jaggery.
 - e.g. A child may make a face at karela while their grandmother loves karela.
 - e.g. Some people find raw lime pleasant, and some find it far too sour.
@@ -50,14 +50,14 @@ Scientists agree that two things matter. One is the body you were born with. The
 ### Being kind · *defined*
 **Definition:** Being kind means helping someone, or doing something that makes them feel better.
 
-When you know someone may feel or like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. Humans are not the only kind animals. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
+When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. Humans are not the only kind animals. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
 - e.g. Asking a new child to play with you.
 - e.g. Bringing water for Thatha when he is tired.
 - e.g. Waiting for a slower friend on a walk.
 
 ## Mostly agreed
-- All people share the same body parts and the same needs. *How we know:* Doctors all over the world study the same heart, lungs and bones in every person. Every person needs air, water, food and sleep.
-- No two people are exactly alike. *How we know:* Fingerprints have been checked in millions of people. No two have been found the same, not even in twins who look alike.
+- All people have the same main body parts and the same needs. *How we know:* Doctors all over the world study the same heart, lungs and bones in every person. Every person needs air, water, food and sleep.
+- No two people are exactly alike. *How we know:* No two people have ever been found with the same fingerprints, not even twins who look alike.
 - Newborn babies like sweet tastes and dislike bitter ones. *How we know:* Scientists have put a drop of sweet water and a drop of bitter water on the tongues of babies only hours old. The babies relax at sweet and screw up their faces at bitter.
 
 ## How we found out
@@ -89,7 +89,7 @@ We have found ways we are like other people, and ways we are not. Now we ask wha
 All people share the same body plan, and almost all the same genes. From that one shared plan come billions of people, each with their own face, voice and taste. The same is true of every living being: one way of life, many ways of sensing it. Everything is conscious, and each being feels the world from where they are. Knowing this, we ask others what they feel, instead of guessing.
 
 - **Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching:** Just as a mother would protect her only child with her life, let your heart be kind to all beings, without limit. (Kindness here is not only for people who are like us. It is for every being, however different they look or feel.)
-- **Tirukkural 315:** What use is wisdom to someone who will not treat another's pain as their own, and try to stop it? (In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that caring about it matters more than knowing things.)
+- **Tirukkural 315:** What use is wisdom to someone who will not treat another's pain as their own, and try to stop it? (In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that knowing things is of little use without caring about other people's pain.)
 - **Tattvartha Sutra 5.21, a Jain text:** Living beings help one another. (People help each other, and so do elephants and rats. This Jain teaching says helping is what all living beings do.)
 - Science (settled): The same substance can taste strongly bitter to one person and hardly bitter to another. This runs partly in families, and partly comes from what each person is used to eating.
 - Science (open): Nobody can feel another person's taste directly. Whether two people feel the same sweetness from the same mango is still an open question.
@@ -160,7 +160,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 ## Games
 ### g1 · Stand Up If…: who is like me? (10 min)
 - **rules:** A child who cannot read yet can be the caller, with a grown-up whispering each card to them first.; Mix the cards. The caller reads one card out loud.; Everyone the card is true for stands up. Everyone else sits.; The caller counts who is standing, then turns the card over and reads the back.; Put the card on the 'Everyone' pile if everyone stood, or on the 'Some' pile if only some stood.; At the end, look at the two piles. Which kind of card made everyone stand?
-- **Printable cards: 20 calling cards for the caller:** Stand up if you have two eyes. (back: Everyone stands: we are all similar here.); Stand up if you like mangoes. (back: Count who stands. Likes are different.); Stand up if you need to drink water. (back: Everyone stands: every person needs water.); Stand up if you have curly hair. (back: Count who stands. Hair is different.); Stand up if you sleep every night. (back: Everyone stands: every person needs sleep.); Stand up if you like karela. (back: Count who stands. Tastes are different.); Stand up if you have a heart beating inside you. (back: Everyone stands: every person has a heart.); Stand up if your favourite colour is blue. (back: Count who stands. Favourites are different.); Stand up if you were once a baby. (back: Everyone stands: every person was a baby once.); Stand up if you can whistle. (back: Count who stands. Not everyone can.); Stand up if you have ten toes. (back: Most people stand. Most people have ten toes.); Stand up if you like the rain. (back: Count who stands. Likes are different.); Stand up if you laugh when something is funny. (back: Everyone stands: people all over the world laugh.); Stand up if you are taller than the door handle. (back: Count who stands. Heights are different.); Stand up if you feel sad sometimes. (back: Everyone stands: every person feels sad sometimes.); Stand up if you like to sing. (back: Count who stands. Likes are different.); Stand up if you speak more than one language. (back: Count who stands. Many people in India do.); Stand up if you need food to grow. (back: Everyone stands: every person needs food.); Stand up if you were born in this city. (back: Count who stands. People come from many places.); Stand up if you like to be hugged. (back: Count who stands. Some people like hugs, some do not.)
+- **Printable cards: 20 calling cards for the caller:** Stand up if you have a nose. (back: Everyone stands: we are all similar here.); Stand up if you like mangoes. (back: Count who stands. Likes are different.); Stand up if you need to drink water. (back: Everyone stands: every person needs water.); Stand up if you have curly hair. (back: Count who stands. Hair is different.); Stand up if you sleep every night. (back: Everyone stands: every person needs sleep.); Stand up if you like karela. (back: Count who stands. Tastes are different.); Stand up if you have a heart beating inside you. (back: Everyone stands: every person has a heart.); Stand up if your favourite colour is blue. (back: Count who stands. Favourites are different.); Stand up if you were once a baby. (back: Everyone stands: every person was a baby once.); Stand up if you can whistle. (back: Count who stands. Not everyone can.); Stand up if you have ten toes. (back: Most people stand. Most people have ten toes.); Stand up if you like the rain. (back: Count who stands. Likes are different.); Stand up if you laugh when something is funny. (back: Everyone stands: people all over the world laugh.); Stand up if you are taller than the door handle. (back: Count who stands. Heights are different.); Stand up if you feel sad sometimes. (back: Everyone stands: every person feels sad sometimes.); Stand up if you like to sing. (back: Count who stands. Likes are different.); Stand up if you speak more than one language. (back: Count who stands. Many people in India do.); Stand up if you need food to grow. (back: Everyone stands: every person needs food.); Stand up if you were born in this city. (back: Count who stands. People come from many places.); Stand up if you like to be hugged. (back: Count who stands. Some people like hugs, some do not.)
 - **s1 (1 min)**  
   *Parent does:* 1. Mix the cards. 2. Make two places on the floor for piles: 'Everyone' and 'Some'.  
   *Parent says:* When I read a card, stand up if it is true for you. Let's see who is like you.  
@@ -385,7 +385,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 1. (draw) Draw yourself and one person from your home, side by side. Circle one thing that is the same about you.  
    **Answer:** Two people, with a circle round something they share, such as two eyes or ten fingers.. *Why:* A strong drawing circles a body part both people have. All people share the same body parts.
 2. (match) Draw a line from each food to its taste.  
-   **Answer:** Jaggery → Sweet; Lime → Sour; Karela → Bitter; Salt → Salty. *Why:* Our tongues sense four main tastes: sweet, sour, salty and bitter. Jaggery is sweet, lime is sour, karela is bitter and salt is salty.
+   **Answer:** Jaggery → Sweet; Lime → Sour; Karela → Bitter; Salt → Salty. *Why:* Sweet, sour, salty and bitter are four of our tastes. Jaggery is sweet, lime is sour, karela is bitter and salt is salty.
 3. (mcq) Which of these do all people need?  
    Options: Curly hair / Water / A cricket bat  
    **Answer:** Water. *Why:* Every person needs water to live. Curly hair and a cricket bat are not needed by everyone.
@@ -532,9 +532,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - Why did Paati smile at the karela? *Because she had grown to love the bitter-sweet things in life!*
 
 ## Connected maths
-- In a favourite fruit tally, 4 people chose mango, 2 chose banana and 3 chose guava. Which fruit was chosen most? **Mango, with 4.**. 4 is more than 3, and 3 is more than 2. So mango was chosen most. But 5 people chose other fruits, so not everyone likes mango best. (queues `math.data.sorting-and-tallies.L1`)
+- In a favourite fruit tally, 4 people chose mango, 2 chose banana and 3 chose guava. Which fruit was chosen most? **Mango, with 4.**. 4 is more than 3, and 3 is more than 2. So mango was chosen most. But 5 people chose banana or guava, so not everyone likes mango best. (queues `math.data.sorting-and-tallies.L1`)
 - In the taste test, 5 people tasted the jaggery. 5 gave thumbs up. Then 5 people tasted the karela, and only 2 gave thumbs up. How many fewer thumbs up did the karela get? **3 fewer.**. Start at 2 and count on to 5: 3, 4, 5. That is 3. The karela got 3 fewer thumbs up than the jaggery. Sweet tastes are liked by almost everyone, and bitter ones are not. (queues `math.addition-subtraction.meaning.L1`)
-- Meera, aged 6, had 3 people at home for the voice test. She guessed all 3 right when they talked, and 1 right when they whispered. Which way was harder? Guess what might happen with 6 people. **Whispering was harder. With 6 people, she would probably get fewer right when they whisper, because more whispers would sound alike.**. 3 right is more than 1 right, so talking was easier. With more people, there are more voices to mix up, and whispers sound more alike than voices. (queues `math.number-sense.comparing-ordering.L1`)
+- Meera, aged 6, had 3 people at home for the voice test. She guessed all 3 right when they talked, and 1 right when they whispered. Which way was harder? Guess what might happen with 6 people. **Whispering was harder. With 6 people she would probably get fewer right when they whisper.**. 3 right is more than 1 right, so talking was easier. With more people there are more voices to mix up. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
 Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others L1

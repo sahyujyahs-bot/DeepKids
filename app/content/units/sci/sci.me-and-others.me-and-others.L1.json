@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?",
-  "text": "You both have two eyes, one nose and one mouth. Every person in the world does. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.",
+  "text": "Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.",
   "art": "A child and a grandmother side by side in a mirror, both pointing at their own noses and laughing."
  },
  "outcomes": [
@@ -50,8 +50,8 @@
   {
    "concept": "We are all similar",
    "status": "defined",
-   "definition": "All people have the same body parts and need the same things to live: air, water, food, sleep and people who care for them.",
-   "description": "Every person has a head, two eyes, two ears, a nose, a mouth, two arms and two legs. Every person breathes, eats, sleeps and grows. A baby in Kochi and a baby in Kolkata both cry when they are hungry. Humans are animals, so we share a lot with other animals too. A cat, a crow and a person all need water, food and sleep.",
+   "definition": "All people have the same main body parts and need the same things to live: air, water, food, sleep and people who care for them.",
+   "description": "Every person has a heart, a mouth and a nose. Almost everyone has two eyes, two ears, two arms and two legs. Every person breathes, eats, sleeps and grows. A baby in Kochi and a baby in Kolkata both cry when they are hungry. Humans are animals, so we share a lot with other animals too. A cat, a crow and a person all need water, food and sleep.",
    "examples": [
     "Everyone in your family has a heart beating inside them.",
     "Children all over India, and all over the world, love to play.",
@@ -65,7 +65,7 @@
    "concept": "Each of us is different",
    "status": "defined",
    "definition": "No two people are exactly the same. We differ in how we look, how we sound and what we like.",
-   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. Each person's voice is their own, so you can tell Amma from Paati with your eyes shut. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.",
+   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell Amma from Paati with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.",
    "examples": [
     "You can know who is calling you just from their voice.",
     "Two sisters can have different favourite colours.",
@@ -79,7 +79,7 @@
    "concept": "One food, many tastes",
    "status": "defined",
    "definition": "The same food can taste different to different people, because each person's tongue and body are a little different.",
-   "description": "Your tongue is covered in tiny bumps. Inside them are taste buds, too small to see. They tell you if a food is sweet, sour, salty or bitter. Not everyone's taste buds are the same. Some people find bitter foods very bitter. Others hardly notice. Babies are born liking sweet things. Many grown-ups learn to like bitter foods, such as karela or coffee, as they grow.",
+   "description": "Your tongue is covered in tiny bumps. Inside them are taste buds, too small to see. They tell you if a food is sweet, sour, salty or bitter. Not everyone's taste buds are the same. Some people find bitter foods very bitter, and others hardly notice. Babies are born liking sweet things. Many grown-ups learn to like bitter foods, such as karela or coffee.",
    "examples": [
     "Nearly everyone smiles at a bit of jaggery.",
     "A child may make a face at karela while their grandmother loves karela.",
@@ -114,7 +114,7 @@
    "concept": "Being kind",
    "status": "defined",
    "definition": "Being kind means helping someone, or doing something that makes them feel better.",
-   "description": "When you know someone may feel or like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. Humans are not the only kind animals. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
+   "description": "When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. Humans are not the only kind animals. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
    "examples": [
     "Asking a new child to play with you.",
     "Bringing water for Thatha when he is tired.",
@@ -127,12 +127,12 @@
  ],
  "agreed": [
   {
-   "text": "All people share the same body parts and the same needs.",
+   "text": "All people have the same main body parts and the same needs.",
    "evidence": "Doctors all over the world study the same heart, lungs and bones in every person. Every person needs air, water, food and sleep."
   },
   {
    "text": "No two people are exactly alike.",
-   "evidence": "Fingerprints have been checked in millions of people. No two have been found the same, not even in twins who look alike."
+   "evidence": "No two people have ever been found with the same fingerprints, not even twins who look alike."
   },
   {
    "text": "Newborn babies like sweet tastes and dislike bitter ones.",
@@ -242,7 +242,7 @@
      "title": "20 calling cards for the caller",
      "items": [
       {
-       "f": "Stand up if you have two eyes.",
+       "f": "Stand up if you have a nose.",
        "b": "Everyone stands: we are all similar here."
       },
       {
@@ -541,12 +541,12 @@
      "qty": "1 piece for each person"
     },
     {
-     "item": "a lime, cut into small wedges by a grown-up",
+     "item": "a lime, cut into small wedges by a grown-up (each child tastes only a small piece)",
      "qty": "1 wedge for each person"
     },
     {
      "item": "a raw karela (bitter gourd), cut into thin slices by a grown-up, or 3 methi seeds for each person if you have no karela",
-     "qty": "1 thin slice for each person"
+     "qty": "1 thin slice (or 3 methi seeds)"
     },
     {
      "item": "a small steel plate for each food",
@@ -1362,7 +1362,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Our tongues sense four main tastes: sweet, sour, salty and bitter. Jaggery is sweet, lime is sour, karela is bitter and salt is salty.",
+     "why": "Sweet, sour, salty and bitter are four of our tastes. Jaggery is sweet, lime is sour, karela is bitter and salt is salty.",
      "art": "A lump of jaggery, half a lime, a karela and a heap of salt on the left, and the four taste words on the right, mixed up."
     },
     {
@@ -1984,7 +1984,7 @@
   {
    "problem": "In a favourite fruit tally, 4 people chose mango, 2 chose banana and 3 chose guava. Which fruit was chosen most?",
    "answer": "Mango, with 4.",
-   "explain": "4 is more than 3, and 3 is more than 2. So mango was chosen most. But 5 people chose other fruits, so not everyone likes mango best.",
+   "explain": "4 is more than 3, and 3 is more than 2. So mango was chosen most. But 5 people chose banana or guava, so not everyone likes mango best.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a3",
    "context": "This is about the fruit tally, where you asked people their favourite fruit and made a line for each answer.",
@@ -2024,8 +2024,8 @@
   },
   {
    "problem": "Meera, aged 6, had 3 people at home for the voice test. She guessed all 3 right when they talked, and 1 right when they whispered. Which way was harder? Guess what might happen with 6 people.",
-   "answer": "Whispering was harder. With 6 people, she would probably get fewer right when they whisper, because more whispers would sound alike.",
-   "explain": "3 right is more than 1 right, so talking was easier. With more people, there are more voices to mix up, and whispers sound more alike than voices.",
+   "answer": "Whispering was harder. With 6 people she would probably get fewer right when they whisper.",
+   "explain": "3 right is more than 1 right, so talking was easier. With more people there are more voices to mix up.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e2",
    "context": "This is about the voice test, where you guessed who said hello with your eyes closed.",
@@ -2175,7 +2175,7 @@
    {
     "source": "Tirukkural 315",
     "teaching": "What use is wisdom to someone who will not treat another's pain as their own, and try to stop it?",
-    "link": "In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that caring about it matters more than knowing things."
+    "link": "In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that knowing things is of little use without caring about other people's pain."
    },
    {
     "source": "Tattvartha Sutra 5.21, a Jain text",

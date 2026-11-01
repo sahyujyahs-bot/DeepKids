@@ -27,14 +27,14 @@
 ### Why we test materials · *defined*
 **Definition:** A test is doing something to a material on purpose and seeing what happens. It shows what a material does, which looking alone cannot show.
 
-A thick woollen cloth looks like it would keep rain out. But water soaks through wool. A thin sheet of polythene looks weak. But it keeps water out completely. So we cannot always tell by looking. We test. In a good test, every material gets the same treatment: the same bottle, the same water, the same time. Then only the material is different. So any difference we see comes from the material.
+A thick cotton towel looks as if it would keep rain out. But water soaks into it. A thin sheet of polythene looks weak, but it keeps water out completely. So we cannot always tell by looking. We test. In a good test, every material gets the same treatment: the same bottle, the same water, the same time. Then only the material is different, so any difference we see comes from the material.
 - e.g. Stretch test: the same full bottle hangs from every strip.
 - e.g. Waterproof test: the same spoon of water goes on every square.
 - e.g. Strength test: every strip is the same size, and water is added to the bottle one cup at a time.
 ### Stretchy and elastic: why a rubber band springs back · *defined*
 **Definition:** A stretchy material gets longer when it is pulled. An elastic material goes back to its old length when the pull stops.
 
-Everything is made of tiny particles, far too small to see. In rubber, the particles are joined into very long, thin chains. The chains are curled up and tangled, like a heap of loose thread. When you pull, the chains straighten out, and the rubber gets longer. When you let go, the chains curl up again, so the rubber goes back. In a milk packet, the plastic is made of long chains too. But a strong pull makes them slide past each other into new places. They stay there, so the strip stays long. Rubber can also be pulled too far. Then the chains break, and the band snaps.
+Everything is made of tiny particles, far too small to see. In rubber, the particles are joined into very long chains, curled up like a heap of loose thread. When you pull, the chains straighten and the rubber gets longer. When you let go, they curl up again, so the rubber goes back. In a milk packet, the plastic also has long chains. A strong pull makes them slide past each other into new places, and they stay there. So the strip stays long. Pull rubber too far, and the chains break and the band snaps.
 - e.g. A rubber band, a hair band, the top of a sock and the skin on your hand are elastic.
 - e.g. A strip of milk packet and a roll of atta dough stretch, but stay stretched.
 - e.g. A strip of newspaper hardly stretches at all. Pull hard, and it tears.
@@ -49,7 +49,7 @@ Paper and cotton are made of tiny fibres, like very thin threads. Between the fi
 **Definition:** A strong material is hard to break or tear. It can hold a big weight. A weak material breaks or tears with a small weight.
 
 When a strip holds a bottle, the tiny particles in the strip hold on to each other. In cotton cloth, the threads are twisted and woven tightly, so they hold on well. A paper napkin is made of short fibres that are only loosely pressed together. A small pull drags them apart, so the napkin tears. Strong is not always best. A paper napkin is useful because it is soft and absorbent, not because it is strong.
-- e.g. Strong: cotton cloth, rope, a polythene bag, steel.
+- e.g. Strong: cotton cloth, rope, a thick carry bag, steel.
 - e.g. Weak: a paper napkin, toilet paper, a dry leaf.
 - e.g. Wet paper is weaker than dry paper, because water loosens its fibres.
 ### Is the best material always the strongest one? · *debated*
@@ -61,7 +61,7 @@ There is often no one best material. It depends on the job, and on what matters 
 - **An engineer:** First say exactly what the job needs: how much weight, how wet, how long. Then test, and pick the material that passes.
 
 ## Mostly agreed
-- You often cannot tell what a material can do just by looking at it. You have to test it. *How we know:* Wool looks warm and thick, but water soaks through it. Thin polythene looks weak, but it keeps water out. Tests show both.
+- You often cannot tell what a material can do just by looking at it. You have to test it. *How we know:* A thick towel looks as if it could stop water, but water soaks into it. Thin polythene looks weak, but it keeps water out. Tests show both.
 - Rubber is elastic because it is made of very long, curled-up chains of tiny particles. *How we know:* Scientists can see the long chains with special tools. When rubber is stretched, the chains line up, and this has been measured with X-rays.
 - Most paper is absorbent because it is made of tiny plant fibres with gaps between them. *How we know:* Under a microscope, paper looks like a flat mat of tiny threads. Water creeps along them and fills the gaps.
 
@@ -72,7 +72,7 @@ There is often no one best material. It depends on the job, and on what matters 
 ## Challenging perspectives
 - **A thicker cloth always keeps out more water.** (A common first guess; *rejected*)  
   For: Thick cloth has more material for the water to get through, so it can slow the water down.  
-  Against: Thick wool soaks up water and lets it through. A thin polythene sheet or an umbrella cloth keeps it out. What matters most is whether the material has gaps, not how thick it is.
+  Against: A thick towel soaks up water and lets it through. A thin polythene sheet or an umbrella cloth keeps it out. What matters most is whether the material has gaps, not how thick it is.
 - **Natural materials are always weaker than materials made in factories.** (A common idea; *rejected*)  
   For: Steel and nylon rope are very strong. Many natural things, like leaves and paper napkins, tear easily.  
   Against: Some natural materials are very strong. Coir rope made from coconut fibre holds boats. Weight for weight, the silk that spiders use for their safety line is stronger than steel.
@@ -88,17 +88,17 @@ We have tested which materials stretch, keep water out and hold weight. Now we a
 *Evidence:* In the stretch test, the rubber band grew about 7 cm with the bottle and went back to its old length. The milk packet strip, pulled by hand, got thin and white and stayed long. Inside rubber, long curled chains straighten and curl back. In the plastic, the chains slide to new places and stay.
 
 - *who am i:* Your skin is elastic. You bend your knee, and the skin stretches. You straighten it, and the skin goes back.
-- *what is life:* A rubber tree makes latex to seal a cut in the bark. Living things make the materials they need.
+- *what is life:* A rubber tree makes latex, and latex seals a cut in the bark. Living things make the materials they need.
 - *what is this world:* Every material does something different when it is pulled, wetted or loaded. We only find out by testing.
 
-Rubber, cotton, paper and polythene all come from the same tiny particles, joined in different ways. Long curled chains make rubber spring back. Short, loose fibres make a napkin tear. So one set of particles becomes many materials, each doing something different. Everything is conscious, the rubber tree too. The tree senses a cut in the bark and sends latex there to seal it.
+Rubber, cotton, paper and polythene are all made of tiny particles, joined in different ways. Long curled chains let rubber spring back. Short, loose fibres let a napkin tear. Everything is conscious, the rubber tree too. When the tree is cut, latex flows out and dries to seal the cut.
 
 - **Tirukkural 423:** Whatever you hear, and whoever says it, wisdom is seeing what is really true in it. (A shopkeeper may say a bag is the strongest. The Tirukkural, from Tamil Nadu, asks us to find out what is true. A fair test is one way to do that.)
 - **Tao Te Ching 78:** Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard and strong. (In the spot test, soft water found its way through paper and cloth. Only materials with no gaps kept it out.)
 - **Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant:** Each blind man touched one part of the elephant and thought he knew the whole animal. Each was partly right. (Each of our tests showed one side of a material. Polythene was waterproof and strong, and it stayed stretched. To know a material, we need many tests.)
 - Science (settled): Rubber is made of very long chains of tiny particles. Stretching straightens the chains, and they curl back when let go. This is why rubber is elastic.
 - Science (open): Weight for weight, spider silk is one of the strongest materials known. Scientists are still trying to make a material as good in a factory.
-- Other view, Many physicists: They say a rubber band springs back only because its chains are always jiggling, and jiggling chains end up curled. They see no need to talk about a tree sensing or choosing, only about particles moving.
+- Other view, Many physicists: They explain a rubber band without any mind. The chains are always jiggling, and jiggling chains tend to settle in curled shapes, so a stretched band is pulled back. They do not use awareness to explain it.
 - Practice, Stretch and come back (3 min): Stand up tall. Stretch your arms up high, as far as they go. Feel your body get longer. Hold it. Now let go, slowly. Feel your arms come back to your sides. Breathe in slowly, and your chest gets bigger. Breathe out, and it goes back. Your body stretches and comes back all day long.
 - Ask: If something stretches and stays stretched, is it still the same material?
 - Ask: Which parts of you stretch and come back?
@@ -175,8 +175,8 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 ## Games
 ### g1 · The Right Material for the Job (15 min)
 - **rules:** Cut out the cards. Put the job cards face down in a pile.; Deal out all the material cards, face up, so each player can see their own.; Turn over the top job card and read it aloud, but not the back.; Each player picks one of their material cards that would work for the job, and says why.; Turn the job card over and read the back. Everyone whose material fits keeps one point.; If two players disagree, test it at home if you can.; After all 10 jobs, the player with the most points wins.
-- **Printable cards: 10 job cards to cut out:** A raincoat (back: Needs to be waterproof. Polythene or raincoat cloth.); A towel (back: Needs to be absorbent. Cotton.); A hair band (back: Needs to be stretchy and elastic. Rubber.); A shopping bag (back: Needs to be strong. Cotton cloth or jute.); A tiffin wrap for the rain (back: Needs to be waterproof. A banana leaf or a steel box.); A sock top (back: Needs to be elastic, so the sock stays up. Rubber threads inside cloth.); A paper napkin (back: Needs to be absorbent and soft. Thin paper.); A kite string (back: Needs to be strong and thin. Cotton thread.); A catapult band (back: Needs to be very stretchy and elastic. Rubber.); An umbrella (back: Needs to be waterproof and strong. Umbrella cloth on steel.)
-- **Printable cards: 10 material cards to cut out:** Rubber (back: Stretchy and elastic. Waterproof.); Polythene (back: Waterproof. Stretches and stays stretched.); Cotton cloth (back: Strong and absorbent. Not waterproof.); Paper napkin (back: Absorbent and soft. Weak.); Newspaper (back: Absorbent. Hardly stretches.); Foil (back: Waterproof. Tears easily.); Banana leaf (back: Waterproof. Soft and bendy.); Steel (back: Very strong and waterproof. Hard, does not stretch.); Jute (back: Strong. Absorbent.); Wool (back: Soft and warm. Absorbent. Stretches a little.)
+- **Printable cards: 10 job cards to cut out:** A raincoat (back: Needs to be waterproof. Polythene or raincoat cloth.); A towel (back: Needs to be absorbent. Cotton.); A hair band (back: Needs to be stretchy and elastic. Rubber.); A shopping bag (back: Needs to be strong. Cotton cloth or jute.); A tiffin wrap for the rain (back: Needs to be waterproof. A banana leaf or foil.); A sock top (back: Needs to be elastic, so the sock stays up. Stretchy threads inside cloth.); A paper napkin (back: Needs to be absorbent and soft. Thin paper.); A kite string (back: Needs to be strong and thin. Cotton thread.); A catapult band (back: Needs to be very stretchy and elastic. Rubber.); An umbrella (back: Needs to be waterproof and strong. Umbrella cloth on steel.)
+- **Printable cards: 10 material cards to cut out:** Rubber (back: Stretchy and elastic. Waterproof.); Polythene (back: Waterproof. Stretches and stays stretched.); Cotton cloth (back: Strong and absorbent. Not waterproof.); Paper napkin (back: Absorbent and soft. Weak.); Newspaper (back: Absorbent. Hardly stretches.); Foil (back: Waterproof. Tears easily.); Banana leaf (back: Waterproof. Soft and bendy.); Steel (back: Very strong and waterproof. Hard, does not stretch.); Jute (back: Strong. Absorbent.); Wool (back: Warm and soft. Soaks up water slowly. Stretches a little.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read each material card to your child.  
   *Parent says:* Here are our materials. Some we tested ourselves. Listen to what each one is good at.  
@@ -211,37 +211,37 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
   *Child mode:* Count your points. Which one surprised you?
 
 ## Experiments
-### e1 · The Stretch Test: which material stretches the most? (28 min)
+### e1 · The Stretch Test: which material stretches the most? (24 min)
 - **question:** Which material stretches the most when the same bottle hangs from it? And when the bottle comes off, which ones go back to their old length?
 - **predict:** Pull each strip gently with your fingers. Then put them in a line, from the one you think will stretch the most to the one that will stretch the least. Why did you put your first one first?
 - **fair test:** Every strip gets the same full bottle, hung the same way. Each strip is 2 cm wide. We wait the same time, 10 seconds, before we measure. We use the same ruler, and measure from the broom handle to the paper clip every time. The rubber band starts a little shorter than the strips, so we look at how many centimetres longer each one gets.
-- **safety:** A grown-up cuts the strips. Lower the bottle gently, and keep feet away from under it, because a strip may tear.
+- **safety:** A grown-up cuts the strips. Lower the bottle gently, and keep feet away from under it, because a strip may tear. Keep faces away from a stretched rubber band.
 - **record:** Write your guess and your reason at the top. Fill in the results table. Draw each strip before and with the bottle. Circle the ones that came back.
 - **results table:** Material | Length before (cm) | Length with the bottle (cm) | How much longer (cm) | Length after the bottle comes off (cm) | Did it come back?
-- **s1 (4 min)**  
+- **s1 (3 min)**  
   *Parent does:* 1. Lay out the rubber band and the three strips. 2. Let your child pull each one gently with their fingers. 3. Ask the question below. 4. Write down their order and their reason, word for word.  
   *Parent says:* Pull each one gently. Which one will stretch the most when a heavy bottle hangs from it? Put them in a line. Why did you put that one first?  
   *Child mode:* Pull each one gently. Which will stretch the most? Put them in a line. Say why.
   - Ask: Why did you put that one first? (good: The rubber band, because it got long when I pulled it.; The T-shirt, because my T-shirt stretches when I put it on.; The newspaper will stretch least, because paper tears.)
   - Note: Don't say if the guess is right. Any guess with a reason is good. The test will answer it.
-- **s2 (6 min) · grown-up needed**  
+- **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Put two chairs back to back, about half a metre apart. 2. Rest a broom handle across the tops. 3. Wrap the top of each strip once round the handle, and tape it to itself. 4. Hang the rubber band over the handle. 5. Fold the bottom of each strip over a paper clip and tape it. Hook a clip through the rubber band too. 6. Tie the string round the bottle neck to make a loop. 7. Put the cushion on the floor below.  
   *Parent says:* We hang every strip from the same handle, the same way. Then only the material is different.  
   *Child mode:* Help hang the four strips on the handle. Put the cushion underneath.
-  - Note: Cut the T-shirt strip across the shirt, from one side seam towards the other. Knitted cloth stretches more that way. Keep the strips spaced so they don't touch. The bottle should hang well above the cushion.
+  - Note: Cut the T-shirt strip across the shirt, from one side seam towards the other. Knitted cloth stretches more that way. Keep the strips spaced so they don't touch. The bottle should hang well above the cushion. Tape the ends of the broom handle to the chairs so it cannot roll.
 - **s3 (3 min)**  
   *Parent does:* 1. Hold the ruler beside the rubber band, with 0 at the top of the handle. 2. Read the length to the paper clip. 3. Write it in the table. 4. Do the same for each strip.  
   *Parent says:* First we measure each one with nothing on it. Then we can see how much it changes.  
   *Child mode:* Measure each one from the handle to the clip. Write it down.
   - Note: The strips should be about 10 cm. The rubber band will be about 6 cm. Small differences are fine. We look at how much longer each one gets.
-- **s4 (6 min)**  
+- **s4 (5 min)**  
   *Parent does:* 1. Hook the bottle's string loop onto the rubber band's paper clip. 2. Lower the bottle slowly with your hand under it. 3. Let go, and count to 10. 4. Measure the length again and write it down. 5. Lift the bottle off. 6. Do the same for each strip.  
   *Parent says:* Lower it slowly. Count to ten. Now measure. How long is it with the bottle?  
   *Child mode:* Lower the bottle slowly. Count to ten. Measure again. Write it down.
   - Ask: Which one got the longest? (good: The rubber band got much longer.; The T-shirt strip stretched a bit.; The newspaper did not change at all.)
   - Note: Usually the rubber band stretches the most, and the T-shirt strip comes next. The hanky and the newspaper hardly change. If a strip tears, that is a result too: write 'tore'.
   - Check: Why do we hang the same bottle on every strip? → **So the test is fair, and only the material is different**
-- **s5 (3 min)**  
+- **s5 (2 min)**  
   *Parent does:* 1. After you take the bottle off each strip, count to 10. 2. Measure the length again. 3. Write it in the last column. 4. Ask the question below.  
   *Parent says:* Now the bottle is off. Did each one go back to its old length?  
   *Child mode:* Take the bottle off. Count to ten. Measure again. Did it come back?
@@ -328,7 +328,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
   *Parent does:* 1. Tape one strip to the broom handle and fold a paper clip into the bottom. 2. Hang the empty bottle on it, over the bucket. 3. Pour in one cup of water. Wait 5 seconds. 4. Keep adding one cup at a time, and count. 5. Stop when it tears or the bottle is full. 6. Do the same for each strip.  
   *Parent says:* One cup at a time. Count with me. Each strip gets the same bottle and the same cups.  
   *Child mode:* Pour in one cup. Count. Wait. Pour another. Stop when it tears.
-  - Note: The napkin usually tears after only a few cups, often at the tape or the clip. The newspaper, polythene and cloth may all hold the full bottle. If they do, write 'held the full bottle'. That shows they are much stronger than the napkin.
+  - Note: The napkin usually tears after only a few cups, often at the tape or the clip. The newspaper, carry bag and cloth may all hold the full bottle. If they do, write 'held the full bottle'. That shows they are much stronger than the napkin. The carry bag may stretch a lot instead of tearing, and the bottle may sink into the bucket. Write 'stretched a lot'. That is a result too.
 - **s3 (3 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask which strip was strongest, and how you know.  
   *Parent says:* Which strip was strongest? How do you know? Was your guess right?  
@@ -338,7 +338,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 ### a3 · Pick the Material: the right one for the job (12 min)
 - **record:** Draw each job with the material you chose. Write the test that helped you.
 - **s1 (8 min)**  
-  *Parent does:* 1. Read each job to your child. The jobs are a raincoat, a towel, a hair band and a shopping bag. Then a kite string and a tiffin wrap for the rain. 2. For each one, ask which material from your tests they would use. 3. Ask which test told them.  
+  *Parent does:* 1. Read each job to your child. The jobs are a raincoat, a towel, a hair band, a shopping bag, a kite string and a tiffin wrap. 2. For each one, ask which material from your tests they would use. 3. Ask which test told them.  
   *Parent says:* For a raincoat, which material would you choose? Which of our tests tells you it is right?  
   *Child mode:* Pick a material for each job. Which test helps you choose?
   - Ask: Which material for a towel? Which test? (good: Cotton, because it soaked up the water in the spot test.; A napkin is absorbent too, but it tore in the bottle lift.)
@@ -352,27 +352,27 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 ## Projects
 
 ## Challenges
-### c1 · A Raincoat for a Paper Doll (25 min)
+### c1 · A Raincoat for a Paper Doll (20 min)
 - **problem:** Make a raincoat for a paper doll. Pour 3 teaspoons of water over the doll. When you take the raincoat off, the doll must still be dry.
 - **your turn:** Design your own raincoat. Test it with 3 teaspoons of water. If the doll gets wet, find where the water got in, and make it better.
 - **constraints:** Use only things from home.; Use at most 3 pieces of sticky tape.; The raincoat must come off without tearing the doll.
 - **general:** A coat cut from a milk packet or a polythene bag, taped at the shoulders.; A cape of foil folded round the doll.
 - **creative:** A hat and coat made from a banana leaf, like the palm-leaf umbrella called an olakkuda in Kerala.; A wide round hat that sheds water off its edge, like the japi hat of Assam, made of bamboo and palm leaves.
-- **s1 (5 min) · grown-up needed**  
+- **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut a paper doll from a notebook page. 2. Let your child colour it with sketch pen. 3. Read the challenge.  
   *Parent says:* The sketch pen will run if the doll gets wet. Which material will you use for the raincoat? Why?  
   *Child mode:* Make a paper doll. Colour it. Which material will keep it dry? Why?
-- **s2 (12 min)**  
+- **s2 (10 min)**  
   *Parent does:* Let your child make the raincoat. Help only with cutting.  
   *Parent says:* Remember the spot test. Which squares kept the water out?  
   *Child mode:* Make the raincoat. Use what you found in the spot test.
-- **s3 (5 min)**  
+- **s3 (4 min)**  
   *Parent does:* 1. Put the doll on the tray. 2. Pour 3 teaspoons of water slowly over the doll. 3. Take the raincoat off.  
   *Parent says:* Now the test. Is the doll dry? Where did any water get in?  
   *Child mode:* Pour 3 spoons of water. Take the coat off. Is the doll dry?
   - Ask: Where did the water get in? (good: At the neck.; Through the gap at the side.; Through the tape.)
   - Note: Water often gets in at the neck or the edges, even when the material is waterproof. This shows that the shape matters too.
-- **s4 (3 min)**  
+- **s4 (2 min)**  
   *Parent does:* Ask your child to change one thing and test again.  
   *Parent says:* What will you change? Test it again.  
   *Child mode:* Change one thing. Test again.
@@ -389,10 +389,10 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 4. (draw) Draw the rubber band before the bottle, with the bottle, and after the bottle came off.  
    **Answer:** Three pictures: a short band, a long band with a bottle, and a short band again.. *Why:* A strong drawing shows the band getting longer with the bottle and going back to the same length after. That is what elastic means.
 5. (truefalse) You can always tell if a material is waterproof just by looking at it.  
-   **Answer:** False. *Why:* False. A thick wool cloth may look as if it keeps water out, but it soaks water up. We have to test.
-6. (mcq) Why do we use the same bottle for every strip in the stretch test?  
-   Options: So the test is fair / So the bottle stays clean / So it is quicker  
-   **Answer:** So the test is fair. *Why:* With the same bottle, only the material is different. So any difference in stretching comes from the material.
+   **Answer:** False. *Why:* False. A thick cotton towel may look as if it keeps water out, but it soaks water up. We have to test.
+6. (mcq) Deepa hangs a full bottle on the rubber band, and an empty cup on the T-shirt strip. Why is her stretch test not fair?  
+   Options: The two strips hold different weights, so more than the material is different / The rubber band is too short / The cup is too small to see  
+   **Answer:** The two strips hold different weights, so more than the material is different. *Why:* For a fair test, every strip must hold the same weight. Then any difference in stretching comes from the material.
 7. (count) In the spot test, Fathima tested 6 squares. 3 circles stayed dry. How many circles ran?  
    **Answer:** 3. *Why:* 6 squares take away 3 dry ones leaves 3 that ran.
 8. (odd) Three of these spring back after you stretch them. Which one stays stretched?  
@@ -405,8 +405,8 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 11. (fill) A material that soaks up water is called ____.  
    **Answer:** ['absorbent']. *Why:* A towel, a napkin and a sponge are absorbent.
 12. (mcq) In the bottle lift, which strip usually tore first?  
-   Options: The cotton cloth / The paper napkin / The polythene bag  
-   **Answer:** The paper napkin. *Why:* A napkin is made of short fibres pressed loosely together, so a small pull drags them apart. Picking the polythene may mean thinking thin means weak. A polythene strip is thin but holds well.
+   Options: The cotton cloth / The paper napkin / The carry bag  
+   **Answer:** The paper napkin. *Why:* A napkin is made of short fibres pressed loosely together, so a small pull drags them apart. Picking the carry bag may mean thinking thin means weak. A thick carry bag strip is thin but holds much more than a napkin.
 13. (perspective) Revathi and her brother Arun are buying a bag for vegetables.  
    **Answer:** A strong answer picks one and gives a reason from a test, such as 'cloth was strongest'. It also says what the other is right about, such as 'polythene is waterproof'.. *Why:* Both are partly right. The best material depends on what matters most for the job.
 14. (draw) Draw something in your home that must be waterproof. Write what it is made of.  
@@ -426,8 +426,8 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
    **Answer:** Cotton has tiny gaps between its fibres. *Why:* Water creeps into the gaps between the fibres and spreads along them. Picking 'heavy' means mixing up weight with keeping water out.
 5. (order) Put the steps of the stretch test in order.  
    **Answer:** order shown. *Why:* We guess first, so the test can check our guess. We measure before, so we can see how much each one changed.
-6. (write) Ishaan, a boy in Pune, tested two cloths. He poured 1 spoon of water on the cotton and 3 spoons on the wool. More water got through the wool. Is his test fair? Why?  
-   **Answer:** No. The wool got more water, so of course more got through. Each cloth needs the same amount of water.. *Why:* A strong answer spots that two things changed: the cloth and the amount of water.
+6. (write) Ishaan, a boy in Pune, tested two cloths, a hanky and a thick towel. He poured 1 spoon of water on the hanky and 3 spoons on the towel. More water got through the towel. Is his test fair? Why?  
+   **Answer:** No. The towel got more water, so of course more got through. Each cloth needs the same amount of water.. *Why:* A strong answer spots that two things changed: the cloth and the amount of water.
 7. (sort) Sort these: springs back, or stays stretched?  
    **Answer:** a balloon you pulled gently → Springs back; a roll of clay → Stays stretched; the skin on your hand → Springs back; a strip of milk packet → Stays stretched; pyjama elastic → Springs back. *Why:* Elastic materials spring back. Clay and milk packet plastic move into a new shape and stay there.
 8. (draw) Draw what you think rubber looks like inside, when it is loose and when it is stretched.  
@@ -477,7 +477,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
    Options: So the test can check our guess / So we don't need to test / Because guessing is always right  
    **Answer:** So the test can check our guess. *Why:* A guess with a reason is an idea. The test shows if the idea was right. Picking 'so we don't need to test' skips the most important part.
 8. (truefalse) A thicker cloth always keeps out more water.  
-   **Answer:** False. *Why:* False. Thick wool soaks up water. Thin polythene keeps it all out.
+   **Answer:** False. *Why:* False. A thick towel soaks up water. Thin polythene keeps it all out.
 9. (mcq) Which material would you choose for a towel?  
    Options: Polythene / Cotton / Foil  
    **Answer:** Cotton. *Why:* A towel must soak up water. Cotton is absorbent. Polythene and foil are waterproof, so they would not dry you.
@@ -488,7 +488,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 ## Applications
 - Raincoats, umbrellas and school bag covers are made of materials tested to be waterproof.
 - Hair bands, sock tops, pyjama waistbands and catapults use rubber because it is elastic.
-- Kerala grows most of India's natural rubber. Factories test it before it becomes tyres, chappals and balloons.
+- Kerala grows most of India's natural rubber. Some of it becomes tyres, chappals and balloons.
 - Ropes, kite strings and shopping bags are tested to see how much weight they can hold.
 - Towels and nappies are made of absorbent materials.
 
@@ -525,8 +525,8 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - In the stretch test, the rubber band was 6 cm long. With the bottle it was 13 cm. How many centimetres longer did it get? **7 cm longer.**. Count on from 6 to 13: 7, 8, 9, 10, 11, 12, 13. That is 7 steps. So the band got 7 cm longer. (queues `math.length.standard-units-length.L2`)
 - The rubber band grew 7 cm. The T-shirt strip grew 3 cm. Which stretched more, and by how much? **The rubber band stretched 4 cm more.**. 7 is bigger than 3. 7 take away 3 is 4. So the rubber band stretched 4 cm more than the T-shirt strip. (queues `math.addition-subtraction.meaning.L2`)
 - In the spot test, 3 squares kept water out and 3 let water through. Fathima's friend Bornali tested 8 squares. 5 kept water out. How many let water through? Did Bornali find more waterproof squares than Fathima? **3 let water through. Yes, Bornali found 5 waterproof squares, and Fathima found 3.**. 8 take away 5 is 3. 5 is more than 3, so Bornali found 2 more waterproof squares. (queues `math.number-sense.comparing-ordering.L2`)
-- In the bottle lift, the napkin tore after 3 cups. Every cup holds 50 ml. How much water was in the bottle when it tore? **150 ml.**. 3 cups of 50 ml: 50, 100, 150. So the napkin held 150 ml of water, plus the bottle. (queues `math.measurement-basics.standard-units.L2`)
-- Look at the chart from the bottle lift. Which strip held the most cups? Which held the fewest? **The cloth held the most, 10 cups, the full bottle. The napkin held the fewest, 3 cups.**. The tallest bar is the cloth, at 10. The shortest bar is the napkin, at 3. The newspaper and the polythene are in between. (queues `math.data.pictographs.L2`)
+- In the bottle lift, the napkin tore after 3 cups. Every cup holds 50 ml. How much water was in the bottle when it tore? **150 ml.**. 3 cups of 50 ml: 50, 100, 150. So the napkin held 150 ml of water, as well as the bottle. (queues `math.measurement-basics.standard-units.L2`)
+- Look at the chart from the bottle lift. Which strip held the most cups? Which held the fewest? **The cloth held the most, 10 cups, the full bottle. The napkin held the fewest, 3 cups.**. The tallest bar is the cloth, at 10. The shortest bar is the napkin, at 3. The newspaper and the carry bag are in between. (queues `math.data.pictographs.L2`)
 
 ## Song
 Test It and See (sci.materials.L2): Topic-level song for Materials L2
@@ -1332,17 +1332,6 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 - p
 - e
 - r
-- ,
--  
-- p
-- o
-- l
-- y
-- t
-- h
-- e
-- n
-- e
 -  
 - a
 - n
@@ -1383,6 +1372,69 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 - t
 - l
 - e
+- ;
+-  
+- a
+-  
+- s
+- t
+- r
+- i
+- p
+-  
+- o
+- f
+-  
+- a
+-  
+- t
+- h
+- i
+- c
+- k
+-  
+- c
+- a
+- r
+- r
+- y
+-  
+- b
+- a
+- g
+-  
+- m
+- a
+- y
+-  
+- h
+- o
+- l
+- d
+-  
+- i
+- t
+-  
+- o
+- r
+-  
+- m
+- a
+- y
+-  
+- s
+- t
+- r
+- e
+- t
+- c
+- h
+-  
+- a
+-  
+- l
+- o
+- t
 - .
 -  
 - R

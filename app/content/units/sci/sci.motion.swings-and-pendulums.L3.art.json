@@ -1,4 +1,12 @@
 {
+ "expl.7": {
+  "src": "media/img/sci.motion.swings-and-pendulums.L3/expl.7.jpg",
+  "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.motion.swings-and-pendulums.L3/intro.jpg",
+  "credit": "Mschel, Public domain, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.motion.swings-and-pendulums.L3/setup.e1.0.jpg",
   "drawn": true
