@@ -15,6 +15,18 @@
   "src": "media/img/sci.microorganisms.parasites.L3/expl.6.jpg",
   "credit": "Rodolfo Salinas Villarreal, CC BY, via iNaturalist"
  },
+ "flow.a3": {
+  "src": "media/img/sci.microorganisms.parasites.L3/flow.a3.jpg",
+  "credit": "Sayee Girdhari, CC BY, via iNaturalist"
+ },
+ "flow.a6": {
+  "src": "media/img/sci.microorganisms.parasites.L3/flow.a6.jpg",
+  "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.microorganisms.parasites.L3/intro.jpg",
+  "credit": "Rupert Lees, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.microorganisms.parasites.L3/setup.e1.0.jpg",
   "drawn": true
@@ -38,6 +50,10 @@
  "setup.e2.2": {
   "src": "media/img/sci.microorganisms.parasites.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.microorganisms.parasites.L3/summary.jpg",
+  "credit": "Ashwin Viswanathan, CC BY, via iNaturalist"
  },
  "term.2": {
   "src": "media/img/sci.microorganisms.parasites.L3/term.2.jpg",
