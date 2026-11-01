@@ -1039,11 +1039,41 @@
        }
       },
       "Silkworm (gives silk)",
-      "Honeybee (gives honey and pollinates crops)",
-      "Bullock (pulls a cart or plough)",
-      "Dog (guards the home)",
-      "Cow (gives milk)",
-      "Sheep (gives wool)",
+      {
+       "f": "Honeybee (gives honey and pollinates crops)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-03.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bullock (pulls a cart or plough)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-04.jpg",
+        "credit": "Piyush Marwadi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Dog (guards the home)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-05.jpg",
+        "credit": "M. B., CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Cow (gives milk)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-06.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sheep (gives wool)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-07.jpg",
+        "credit": "Barney M, CC BY, via iNaturalist"
+       }
+      },
       "Needs a pond, a shower or a wet floor on hot days, because she heats up fast",
       "Needs a dry, clean coop, because damp and dirt bring disease",
       "Needs fresh mulberry leaves every day",
