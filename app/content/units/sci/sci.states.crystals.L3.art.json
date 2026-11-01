@@ -1,4 +1,20 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.states.crystals.L3/expl.1.jpg",
+  "credit": "Misiek1962, CC BY 4.0, via Wikimedia Commons"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.states.crystals.L3/flow.c1.jpg",
+  "credit": "Mineral photos, CC BY 4.0, via Wikimedia Commons"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.states.crystals.L3/flow.e2.jpg",
+  "credit": "Masha Milshina, CC BY 4.0, via Wikimedia Commons"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.states.crystals.L3/flow.p1.jpg",
+  "credit": "Photo: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.states.crystals.L3/setup.e1.0.jpg",
   "drawn": true

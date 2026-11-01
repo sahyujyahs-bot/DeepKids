@@ -303,15 +303,27 @@
      "items": [
       {
        "f": "A grain of salt",
-       "b": "Crystal"
+       "b": "Crystal",
+       "img": {
+        "src": "media/cards/crystals-g1-0-00.jpg",
+        "credit": "Nate Steiner, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A grain of sugar",
-       "b": "Crystal"
+       "b": "Crystal",
+       "img": {
+        "src": "media/cards/crystals-g1-0-01.jpg",
+        "credit": "Gustamons, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A lump of kalkandu",
-       "b": "Crystal"
+       "b": "Crystal",
+       "img": {
+        "src": "media/cards/crystals-g1-0-02.jpg",
+        "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "An ice cube",
@@ -331,7 +343,11 @@
       },
       {
        "f": "A lump of phitkari",
-       "b": "Crystal"
+       "b": "Crystal",
+       "img": {
+        "src": "media/cards/crystals-g1-0-07.jpg",
+        "credit": "Alessandro e Damiano, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A diamond",

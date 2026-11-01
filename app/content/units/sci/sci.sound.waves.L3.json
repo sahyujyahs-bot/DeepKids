@@ -489,7 +489,11 @@
       },
       {
        "f": "A tsunami crossing the deep ocean",
-       "b": "Wave. The energy of the earthquake travels. The water only rises and falls."
+       "b": "Wave. The energy of the earthquake travels. The water only rises and falls.",
+       "img": {
+        "src": "media/cards/waves-g1-0-16.jpg",
+        "credit": "Unknown, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Sea water carried across the kitchen in a bucket",
