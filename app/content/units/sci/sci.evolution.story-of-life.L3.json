@@ -603,7 +603,11 @@
       },
       {
        "f": "The oldest stromatolites",
-       "b": "The oldest stromatolites: about 3.5 billion years ago"
+       "b": "The oldest stromatolites: about 3.5 billion years ago",
+       "img": {
+        "src": "media/cards/story-of-life-g2-0-02.jpg",
+        "credit": "Animalculum, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Oxygen starts to fill the air",
