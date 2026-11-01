@@ -473,8 +473,20 @@
      "kind": "cards",
      "title": "36 cards",
      "items": [
-      "FUEL: wax",
-      "FUEL: wood",
+      {
+       "f": "FUEL: wax",
+       "img": {
+        "src": "media/cards/fire-g1-0-00.jpg",
+        "credit": "Paolo Neo, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "FUEL: wood",
+       "img": {
+        "src": "media/cards/fire-g1-0-01.jpg",
+        "credit": "NigerianScribe, CC0, via Wikimedia Commons"
+       }
+      },
       "FUEL: cooking gas",
       "FUEL: oil",
       "FUEL: paper",
@@ -489,12 +501,30 @@
       "OXYGEN: a ceiling fan",
       "OXYGEN: air in a big room",
       "OXYGEN: a draught from a vent",
-      "HEAT: a match",
+      {
+       "f": "HEAT: a match",
+       "img": {
+        "src": "media/cards/fire-g1-0-16.jpg",
+        "credit": "Maja Dumat from Deutschland (Germany), CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "HEAT: a spark",
       "HEAT: a lighter",
       "HEAT: rubbing two sticks hard",
-      "HEAT: a diya flame",
-      "HEAT: a stove flame",
+      {
+       "f": "HEAT: a diya flame",
+       "img": {
+        "src": "media/cards/fire-g1-0-20.jpg",
+        "credit": "McKay Savage from London, UK, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "HEAT: a stove flame",
+       "img": {
+        "src": "media/cards/fire-g1-0-21.jpg",
+        "credit": "ben britten from Melbourne, Australia, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "HEAT: a hot electric coil",
       "HEAT: a bolt of lightning",
       "LID: a lid on the kadai",

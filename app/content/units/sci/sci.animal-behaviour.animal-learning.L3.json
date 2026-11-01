@@ -402,51 +402,99 @@
       },
       {
        "f": "Honeybees go back to the flower colour that gave them the most nectar.",
-       "b": "From what happened before"
+       "b": "From what happened before",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-08.jpg",
+        "credit": "Dr. Alexey Yakovlev, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A young male weaver bird builds a messy nest at first, and better nests with practice.",
-       "b": "From what happened before"
+       "b": "From what happened before",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-09.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A young chimpanzee watches her mother fish for termites, then pokes her own stem in just as deep.",
-       "b": "By watching others"
+       "b": "By watching others",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-10.jpg",
+        "credit": "Stan Rullman, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crows that were never caught scold a mask that other crows scold.",
-       "b": "By watching others"
+       "b": "By watching others",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-11.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A great tit opens a puzzle door by sliding it the same way as the rest of her group.",
-       "b": "By watching others"
+       "b": "By watching others",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-12.jpg",
+        "credit": "Sylvain Montagner, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Imo, a young macaque in Japan, washed sweet potatoes in water. Soon, others in her group did too.",
-       "b": "By watching others"
+       "b": "By watching others",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-13.jpg",
+        "credit": "Justin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A young elephant learns which plants to eat by eating what her mother eats.",
-       "b": "By watching others"
+       "b": "By watching others",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-14.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Some young dolphins in Australia carry a sea sponge on their snout while digging for fish, as their mothers do.",
-       "b": "By watching others"
+       "b": "By watching others",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-15.jpg",
+        "credit": "Dan Riley, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Chaser, a dog, heard a toy name she had never heard before. She picked the only new toy.",
-       "b": "By working it out"
+       "b": "By working it out",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-16.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A crow uses a short stick to pull out a long stick, then uses the long stick to reach meat.",
-       "b": "By working it out"
+       "b": "By working it out",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-17.jpg",
+        "credit": "Ben Keen, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A chimpanzee sees through a clear box that one step does nothing, and skips it.",
-       "b": "By working it out"
+       "b": "By working it out",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-18.jpg",
+        "credit": "Wairambar Rainforest, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rooks dropped stones into a tube of water to raise a floating worm within reach.",
-       "b": "By working it out"
+       "b": "By working it out",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-19.jpg",
+        "credit": "Bex Goreham, CC BY, via iNaturalist"
+       }
       }
      ]
     },

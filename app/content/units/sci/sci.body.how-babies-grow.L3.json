@@ -2894,31 +2894,28 @@
  ],
  "videos": [
   {
-   "title": "In the Womb (National Geographic documentary, 2005)",
+   "title": "Pregnancy 101 | National Geographic",
    "channel": "National Geographic",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "XEfnq4Q4bfk",
    "mins": 10,
    "why": "For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film.",
-   "check": "No id given, because I could not confirm one. Search YouTube for 'National Geographic In the Womb' and pick an official short clip. Preview it before showing a child."
+   "check": "Not yet watched by a person: watch it first. Preview it before showing a child."
   },
   {
-   "title": "The Nine Months That Made You (BBC, 2016)",
-   "channel": "BBC",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios",
+   "channel": "BBC Studios",
+   "youtube": "O8KdLdRsbRk",
    "mins": 5,
    "why": "Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go.",
-   "check": "No id given. The documentary is real (BBC Two, 2016). Find an official BBC clip about the first weeks. Preview it: some parts discuss conception in more detail than this unit."
+   "check": "Not yet watched by a person: watch it first. No id given. The documentary is real (BBC Two, 2016). Find an official BBC clip about the first weeks. Preview it: some parts discuss conception in more detail than this unit."
   },
   {
-   "title": "Kangaroo mother care for small babies",
-   "channel": "World Health Organization",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Maternal health: Ensuring kangaroo mother care for every small or preterm baby",
+   "channel": "World Health Organization (WHO)",
+   "youtube": "YfhWxMmBIW4",
    "mins": 4,
    "why": "Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe.",
-   "check": "No id given. Search the WHO YouTube channel for 'kangaroo mother care'. Check it is the WHO's own video before showing."
+   "check": "Not yet watched by a person: watch it first. No id given. Check it is the WHO's own video before showing."
   }
  ],
  "applications": [

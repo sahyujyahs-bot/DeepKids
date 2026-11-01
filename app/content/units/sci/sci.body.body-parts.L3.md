@@ -762,9 +762,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** The print is smudged or shows only part of a finger, so two people's part-prints can look alike. *Why:* A whole print has many ridge forks and endings, so it is very hard to mistake. A smudged part-print shows only a few, and those few can look like someone else's. That is why careful experts compare many details, ask a second expert to check, and look for other evidence too.
 
 ## Videos
-- **How to wash your hands properly (a short, clear demonstration)** (World Health Organization, 2 min) id `to find`: Shows every step of handwashing, so your child can copy it after the oily hands activity. *Check:* Not checked: find the WHO handwashing video on YouTube and check it shows all the steps, including thumbs and fingertips.
-- **Why do we have earwax?** (SciShow Kids or a similar children's science channel, 4 min) id `to find`: Explains that earwax traps dust and moves out by itself, and why cotton buds are a bad idea. *Check:* Not checked: search for a children's video on earwax and make sure it says not to use cotton buds.
-- **Body safety for children: my body belongs to me** (a trusted child safety organisation, 4 min) id `to find`: A calm, child-friendly video on private parts, safe and unsafe touch, and telling a trusted adult. *Check:* Not checked: a parent should watch it first, and choose one that uses correct body names and a calm tone.
+- **Hand-washing Steps Using the WHO Technique** (Johns Hopkins Medicine, 2 min) id `IisgnbMfKvI`: Shows every step of handwashing, so your child can copy it after the oily hands activity. *Check:* Not yet watched by a person: watch it first.
+- **Why Do We Have Earwax?** (SciShow Kids, 4 min) id `5QbGJ3rl1Y8`: Explains that earwax traps dust and moves out by itself, and why cotton buds are a bad idea. *Check:* Not yet watched by a person: watch it first.
+- **Protect Yourself Rules - Safe Touch / Unsafe Touch** (Fight Child Abuse, 4 min) id `zNTUMNKSNwk`: A calm, child-friendly video on private parts, safe and unsafe touch, and telling a trusted adult. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
 1. (mcq) You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?  

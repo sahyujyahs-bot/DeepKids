@@ -684,9 +684,9 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    **Answer:** ['stomata']. *Why:* Water vapour also escapes through the stomata, so a plant must balance saving water with taking in air.
 
 ## Videos
-- **How camels survive the desert** (to find, 5 min) id `to find`: To see a camel resting, drinking and walking on soft sand, and to hear how they save water. *Check:* No video id was checked from here. A parent should find a short documentary clip about camels and water, and make sure it says the hump is fat, not water.
-- **Emperor penguins huddling through the Antarctic winter** (to find, 4 min) id `to find`: To watch a real huddle move and shuffle, after doing the huddle test with ice cubes. *Check:* No video id was checked from here. Wildlife documentaries such as the BBC's often have short clips of penguin huddles. A parent should preview it.
-- **The blind cave fish of Mexico** (to find, 5 min) id `to find`: To see cave fish with no eyes swimming next to their river cousins, and how they find food. *Check:* No video id was checked from here. A parent should look for a clip about the Mexican cave fish (Astyanax mexicanus) from a museum, university or science channel, and preview it.
+- **How do camels survive in deserts** (Explorers, 5 min) id `I6a8m6Ds6VM`: To see a camel resting, drinking and walking on soft sand, and to hear how they save water. *Check:* Not yet watched by a person: watch it first. A parent should find a short documentary clip about camels and water, and make sure it says the hump is fat, not water.
+- **Penguins Huddle To Keep Their Eggs Warm | Natural World: Penguins Of The Antarctic | BBC Earth** (BBC Earth, 4 min) id `6uYzC7tq9RM`: To watch a real huddle move and shuffle, after doing the huddle test with ice cubes. *Check:* Not yet watched by a person: watch it first. Wildlife documentaries such as the BBC's often have short clips of penguin huddles. A parent should preview it.
+- **Why Cave Fish Keep Losing Their Eyes** (Bizarre Beasts (PBS), 5 min) id `PXW7xcESz-s`: To see cave fish with no eyes swimming next to their river cousins, and how they find food. *Check:* Not yet watched by a person: watch it first. A parent should look for a clip about the Mexican cave fish (Astyanax mexicanus) from a museum, university or science channel, and preview it.
 
 ## Quiz
 1. (mcq) What is an adaptation?  

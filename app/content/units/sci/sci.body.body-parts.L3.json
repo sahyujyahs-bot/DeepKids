@@ -2754,31 +2754,28 @@
  ],
  "videos": [
   {
-   "title": "How to wash your hands properly (a short, clear demonstration)",
-   "channel": "World Health Organization",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Hand-washing Steps Using the WHO Technique",
+   "channel": "Johns Hopkins Medicine",
+   "youtube": "IisgnbMfKvI",
    "mins": 2,
    "why": "Shows every step of handwashing, so your child can copy it after the oily hands activity.",
-   "check": "Not checked: find the WHO handwashing video on YouTube and check it shows all the steps, including thumbs and fingertips."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "Why do we have earwax?",
-   "channel": "SciShow Kids or a similar children's science channel",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why Do We Have Earwax?",
+   "channel": "SciShow Kids",
+   "youtube": "5QbGJ3rl1Y8",
    "mins": 4,
    "why": "Explains that earwax traps dust and moves out by itself, and why cotton buds are a bad idea.",
-   "check": "Not checked: search for a children's video on earwax and make sure it says not to use cotton buds."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "Body safety for children: my body belongs to me",
-   "channel": "a trusted child safety organisation",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Protect Yourself Rules - Safe Touch / Unsafe Touch",
+   "channel": "Fight Child Abuse",
+   "youtube": "zNTUMNKSNwk",
    "mins": 4,
    "why": "A calm, child-friendly video on private parts, safe and unsafe touch, and telling a trusted adult.",
-   "check": "Not checked: a parent should watch it first, and choose one that uses correct body names and a calm tone."
+   "check": "Not yet watched by a person: watch it first."
   }
  ],
  "quiz": [

@@ -439,11 +439,19 @@
       },
       {
        "f": "Raincoat",
-       "b": "Need: clothes"
+       "b": "Need: clothes",
+       "img": {
+        "src": "media/cards/basic-needs-g1-0-07.jpg",
+        "credit": "B. Kroll, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Small tent",
-       "b": "Need: shelter"
+       "b": "Need: shelter",
+       "img": {
+        "src": "media/cards/basic-needs-g1-0-08.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Plastic sheet and rope",
@@ -451,7 +459,11 @@
       },
       {
        "f": "Mosquito net",
-       "b": "Need: shelter (keeps mosquitoes off)"
+       "b": "Need: shelter (keeps mosquitoes off)",
+       "img": {
+        "src": "media/cards/basic-needs-g1-0-10.jpg",
+        "credit": "Presidents Mosquito Initiative a component of the U.S. Government's Global Healt, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Soap",
@@ -1549,22 +1561,20 @@
  ],
  "videos": [
   {
-   "title": "A short video on the basic needs of people (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Basic Human Needs | What do we need to live? | Human Needs | Science for Kids",
+   "channel": "OnlineClass4Kids",
+   "youtube": "iBjXKVvkDN8",
    "mins": 4,
    "why": "A plain children's video naming air, water, food, clothes and shelter, with everyday examples.",
-   "check": "No video id was confirmed from here. A parent or editor should find one, check that it says nothing untrue, and add its id."
+   "check": "Not yet watched by a person: watch it first. A parent or editor should find one, check that it says nothing untrue, and add its id."
   },
   {
-   "title": "A video on how the lungs take in oxygen (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Oxygen’s surprisingly complex journey through your body - Enda Butler",
+   "channel": "TED-Ed",
+   "youtube": "GVU_zANtroE",
    "mins": 5,
    "why": "Shows breathing, the lungs and blood carrying oxygen, for the 'Why we need air' card.",
-   "check": "No video id was confirmed from here. Check it says we breathe out carbon dioxide and some oxygen, not only carbon dioxide."
+   "check": "Not yet watched by a person: watch it first. Check it says we breathe out carbon dioxide and some oxygen, not only carbon dioxide."
   },
   {
    "title": "A video on Santorio's weighing chair (to find)",

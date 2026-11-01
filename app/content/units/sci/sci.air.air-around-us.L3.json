@@ -457,7 +457,11 @@
       },
       {
        "f": "Bubble wrap",
-       "b": "Air is in each bubble."
+       "b": "Air is in each bubble.",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-09.jpg",
+        "credit": "Juliancolton, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A fluffy idli",

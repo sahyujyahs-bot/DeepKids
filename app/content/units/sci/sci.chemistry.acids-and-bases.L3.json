@@ -322,7 +322,11 @@
      "items": [
       {
        "f": "Lemon juice",
-       "b": "Sour (acid). Cabbage water turns pink or red."
+       "b": "Sour (acid). Cabbage water turns pink or red.",
+       "img": {
+        "src": "media/cards/acids-and-bases-g1-0-00.jpg",
+        "credit": "liz west from Boxborough, MA, USA, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Vinegar",
@@ -346,7 +350,11 @@
       },
       {
        "f": "Amla juice",
-       "b": "Sour (acid). Cabbage water turns pink."
+       "b": "Sour (acid). Cabbage water turns pink.",
+       "img": {
+        "src": "media/cards/acids-and-bases-g1-0-06.jpg",
+        "credit": "rajesh rocky, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bath soap in water",

@@ -1895,13 +1895,12 @@
  ],
  "videos": [
   {
-   "title": "How do weather forecasts work? (a short explainer for children)",
-   "channel": "for example the Met Office 'Learn About Weather' channel or SciShow Kids",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How Do We Know When It Will Rain? | Weather Science | SciShow Kids",
+   "channel": "SciShow Kids",
+   "youtube": "dLQ0lHpyZd8",
    "mins": 4,
    "why": "Shows the steps of a modern forecast: measuring, computing and checking.",
-   "check": "No video could be looked up from here. Find one under 6 minutes that shows observations, a computer model and a forecaster, and preview it."
+   "check": "Not yet watched by a person: watch it first. No video could be looked up from here. Find one under 6 minutes that shows observations, a computer model and a forecaster, and preview it."
   },
   {
    "title": "The butterfly effect and weather (for the parent)",
