@@ -338,7 +338,13 @@
       "SOURCE: Dust from a building site",
       "SOURCE: A mosquito coil burning in a closed bedroom",
       "SOURCE: Frying in a kitchen with no fan",
-      "SOURCE: Sewage pouring into a river",
+      {
+       "f": "SOURCE: Sewage pouring into a river",
+       "img": {
+        "src": "media/cards/pollution-g1-0-06.jpg",
+        "credit": "George Burns, Public domain, via Wikimedia Commons"
+       }
+      },
       "SOURCE: Plastic bags thrown in the drain",
       "SOURCE: Washing a scooter in the lake",
       "SOURCE: Firecrackers at Diwali",
