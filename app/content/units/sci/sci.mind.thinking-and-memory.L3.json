@@ -380,15 +380,51 @@
       "tomatoes",
       "onions",
       "bananas",
-      "a jackfruit",
-      "drumsticks",
-      "curry leaves",
-      "coconut",
-      "jasmine flowers",
+      {
+       "f": "a jackfruit",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-03.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "drumsticks",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-04.jpg",
+        "credit": "Shonali Chenzira, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "curry leaves",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-05.jpg",
+        "credit": "haemanthus, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "coconut",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-06.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "jasmine flowers",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-07.jpg",
+        "credit": "Nathasha K V, CC BY, via iNaturalist"
+       }
+      },
       "a clay pot",
       "a steel tumbler",
       "a broom",
-      "brinjals",
+      {
+       "f": "brinjals",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-11.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
       "lemons",
       "green chillies",
       "a pumpkin",
@@ -404,7 +440,13 @@
       "tamarind",
       "a mango",
       "a watermelon",
-      "a comb",
+      {
+       "f": "a comb",
+       "img": {
+        "src": "media/cards/thinking-and-memory-g1-0-27.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
       "a towel",
       "an umbrella"
      ]
