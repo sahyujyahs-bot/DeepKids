@@ -33,10 +33,8 @@ for c, (name, dk, bs, note) in zip(rc, M):
                 "start": min(rungs) if rungs else None,
                 "rungs": [{"cls": l, "covers": rungs[l], "chapters": chap.get(l, [])} for l in sorted(rungs)] or
                          [{"cls": l, "covers": [], "chapters": [], "deepkids": True} for l in DK_ONLY.get(c['id'], [])]})
-# extra DeepKids rungs on board topics (the founder's gravity track starts earlier than any board), and the rungs
-# whose written lessons stay in the plan though Cambridge's 2nd-edition Books 1 and 3 no longer teach them there
-DK_EXTRA = {"gravity": [3], "food-and-a-balanced-diet": [1], "growing-up-and-having-young": [1], "habitats-and-adaptation": [1],
-            "seeds-plant-growth-and-plant-life-cycles": [1, 3], "me-and-others": [3], "senses": [3], "how-life-began": [5]}
+# extra DeepKids rungs on board topics (the founder's gravity track starts earlier than any board)
+DK_EXTRA = {"gravity": [3]}
 for t in out:
     have = {r['cls'] for r in t['rungs']}
     for l in DK_EXTRA.get(t['id'], []):

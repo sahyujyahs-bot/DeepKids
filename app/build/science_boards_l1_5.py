@@ -92,10 +92,11 @@ ws = wb.create_sheet('Notes')
 for line in [
  'Science / EVS topics of NCERT, Cambridge Primary and NIOS for DeepKids Levels 1–5 (Classes 1–5, ages about 6–10).',
  'NCERT: "Our Wondrous World" Classes 3–5 (NCF-SE 2023, Reprint 2026-27), from the uploaded chapter PDFs. "What it covers" summarises each unit\'s Note to the Teacher. Classes 1–2 have no EVS book.',
- 'Cambridge: units and topics from the Learner\'s Books, all 2nd editions (current 0097 framework).',
+ 'Cambridge: units and topics from the uploaded Learner\'s Books. Books 2, 4 and 5 are 2nd editions (current 0097 framework). Books 1 and 3 are 1st editions (older framework), so the 2nd editions may group topics differently.',
  'Book 5 prints the strand column of units 4–6 shifted; strands here are matched to the topics.',
  'Cambridge also runs two strands through every stage: Thinking and working scientifically, and Science in context.',
  'NIOS: Open Basic Education Level A (A 102) is "equivalent to Class 3" per the book, so its 12 lessons sit at Level 3. NIOS has nothing below Level A. Level B (≈ Class 5, 15 lessons) from the uploaded book.',
+ 'Still to upload if wanted: Cambridge Learner\'s Books 1 and 3 (2nd edition).',
 ]: ws.append([line])
 ws.column_dimensions['A'].width = 140
 for c in ws['A']: c.alignment = Alignment(wrap_text=True)

@@ -888,7 +888,7 @@
    "forces-and-movement"
   ],
   "chapters": [
-   "cam|sci|3|5"
+   "cam|sci|3|6"
   ]
  },
  {
@@ -1114,7 +1114,7 @@
    "plants"
   ],
   "chapters": [
-   "cam|sci|1|1"
+   "cam|sci|1|2"
   ]
  },
  {
@@ -1215,7 +1215,7 @@
    "living-and-non-living-signs-of-life"
   ],
   "chapters": [
-   "cam|sci|3|1"
+   "cam|sci|3|3"
   ]
  },
  {
@@ -1297,7 +1297,7 @@
    "senses"
   ],
   "chapters": [
-   "cam|sci|1|5"
+   "cam|sci|1|3"
   ]
  },
  {
@@ -1688,6 +1688,7 @@
    "food-and-a-balanced-diet"
   ],
   "chapters": [
+   "cam|sci|3|2",
    "ncert|sci|4|5"
   ]
  },
