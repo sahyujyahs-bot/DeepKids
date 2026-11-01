@@ -417,7 +417,11 @@
       },
       {
        "f": "Antarctic sea ice at minus 5 degrees, with thin channels of salty liquid water inside.",
-       "b": "YES. Bacteria and tiny algae live in the liquid channels, not in the solid ice."
+       "b": "YES. Bacteria and tiny algae live in the liquid channels, not in the solid ice.",
+       "img": {
+        "src": "media/cards/life-beyond-earth-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Lonar Lake in Maharashtra in a dry year. The water is very salty.",
