@@ -313,7 +313,7 @@ function fxObQuiz() {
 }
 const FXINTRO = [
   [
-    "subj-wml",
+    "intro-mirror",
     "Learning that goes deep",
     "Every topic followed all the way: from your child's hands to atoms, stars and the big questions nobody has answered yet.",
   ],
