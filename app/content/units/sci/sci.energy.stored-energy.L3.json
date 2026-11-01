@@ -394,7 +394,11 @@
       },
       {
        "f": "A coconut high on a palm tree",
-       "b": "Waiting. Store: HEIGHT. If it drops, the energy becomes movement."
+       "b": "Waiting. Store: HEIGHT. If it drops, the energy becomes movement.",
+       "img": {
+        "src": "media/cards/stored-energy-g1-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A coconut falling from the tree",

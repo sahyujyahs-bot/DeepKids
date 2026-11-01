@@ -379,7 +379,11 @@
       },
       {
        "f": "A hen's body",
-       "b": "about 41 °C"
+       "b": "about 41 °C",
+       "img": {
+        "src": "media/cards/heat-g1-0-10.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A warm bath",
@@ -415,11 +419,19 @@
       },
       {
        "f": "The surface of the Sun",
-       "b": "about 5,500 °C"
+       "b": "about 5,500 °C",
+       "img": {
+        "src": "media/cards/heat-g1-0-19.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
       },
       {
        "f": "The coldest place on the Moon, inside a dark crater",
-       "b": "below minus 240 °C"
+       "b": "below minus 240 °C",
+       "img": {
+        "src": "media/cards/heat-g1-0-20.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "A Rajasthan desert afternoon in May",

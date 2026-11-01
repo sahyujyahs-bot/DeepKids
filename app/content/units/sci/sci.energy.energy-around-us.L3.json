@@ -458,9 +458,27 @@
         "credit": "Government of Odisha, CC BY 4.0, via Wikimedia Commons"
        }
       },
-      "cooking gas",
-      "electricity in the wires",
-      "electricity in the wires",
+      {
+       "f": "cooking gas",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-14.jpg",
+        "credit": "Bhaskaranaidu, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "electricity in the wires",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-15.jpg",
+        "credit": "Travelling Slacker from Mumbai, India, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "electricity in the wires",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-16.jpg",
+        "credit": "Ganesh Dhamodkar, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
       "you running",
       {
        "f": "diya flame",
@@ -477,9 +495,21 @@
        }
       },
       "mixie grinding",
-      "pressure cooker whistling",
+      {
+       "f": "pressure cooker whistling",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-21.jpg",
+        "credit": "Ashish Bhatnagar, Public domain, via Wikimedia Commons"
+       }
+      },
       "URANIUM (a chain without the Sun)",
-      "nuclear power station"
+      {
+       "f": "nuclear power station",
+       "img": {
+        "src": "media/cards/energy-around-us-g1-0-23.jpg",
+        "credit": "Petr Pavlicek/IAEA, Attribution, via Wikimedia Commons"
+       }
+      }
      ]
     },
     {
