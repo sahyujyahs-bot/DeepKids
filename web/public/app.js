@@ -9816,8 +9816,8 @@ const dayPart = () => {
   return h < 12 ? 0 : h < 17 ? 1 : 2;
 };
 const greetWord = () => ["Good morning", "Good afternoon", "Good evening"][dayPart()];
-// Today's picture follows the time of day: fields at sunrise, a garden by day, a rooftop at dusk
-const greetPic = () => `media/ui/${["subj-wml", "intro-together", "intro-family"][dayPart()]}.jpg`;
+// Today's picture follows the time of day, all drawn by the founder: climbing the tree in the morning sun, the fruit tree with friends, dancing under the night star
+const greetPic = () => `media/ui/greet-${["morning", "afternoon", "evening"][dayPart()]}.jpg`;
 function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
@@ -10123,7 +10123,7 @@ function viewToday() {
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
-  h += `</section>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the summary animates in the first time only
+  h += `</section><div class="lotusline" aria-hidden="true"></div>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
   window.FXANIMED = 1;
   {
     const oc = openCount(),
@@ -14026,7 +14026,7 @@ function viewOnboarding() {
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
   if (s === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/subj-wml.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
+    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/intro-play.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject in a later step. Children are often at different levels in different subjects.</span></div>${fxObNav(false, "Continue")}</div>`;
   if (s === 1) {
     const isB = ["ncert", "cambridge", "nios"].includes(d.board);
     return `<div class="ob">${fxObBar(1)}<h1>Which track?</h1><p class="muted">You can change this later. Every level and every chapter stays open to browse and add, whichever you pick.</p><div class="choices">

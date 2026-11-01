@@ -296,8 +296,8 @@ const dayPart = () => {
   return h < 12 ? 0 : h < 17 ? 1 : 2;
 };
 const greetWord = () => ["Good morning", "Good afternoon", "Good evening"][dayPart()];
-// Today's picture follows the time of day: fields at sunrise, a garden by day, a rooftop at dusk
-const greetPic = () => `media/ui/${["subj-wml", "intro-together", "intro-family"][dayPart()]}.jpg`;
+// Today's picture follows the time of day, all drawn by the founder: climbing the tree in the morning sun, the fruit tree with friends, dancing under the night star
+const greetPic = () => `media/ui/greet-${["morning", "afternoon", "evening"][dayPart()]}.jpg`;
 function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
@@ -603,7 +603,7 @@ function viewToday() {
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
-  h += `</section>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the summary animates in the first time only
+  h += `</section><div class="lotusline" aria-hidden="true"></div>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
   window.FXANIMED = 1;
   {
     const oc = openCount(),

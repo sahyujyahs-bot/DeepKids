@@ -331,7 +331,11 @@
       },
       {
        "f": "A snowflake",
-       "b": "Crystal"
+       "b": "Crystal",
+       "img": {
+        "src": "media/cards/crystals-g1-0-04.jpg",
+        "credit": "Wilson Bentley, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A glass bangle",

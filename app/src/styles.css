@@ -6765,6 +6765,12 @@ body {
   height: 100%;
   object-fit: cover;
 }
+.lotusline {
+  height: 34px;
+  margin: 18px 0 6px;
+  border-radius: 10px;
+  background: url(media/ui/lotus-line.webp) repeat-x left center / auto 34px;
+}
 .therotxt {
   position: absolute;
   inset: auto 0 0;
@@ -6904,6 +6910,76 @@ body {
 }
 .tr .t {
   width: 46px;
+}
+/* the day as a timeline: one line down the side, a dot in each row's colour, each row a soft card of its colour */
+.tt.compact {
+  position: relative;
+  padding: 4px 0;
+}
+.tt.compact::before {
+  content: "";
+  position: absolute;
+  left: 61px;
+  top: 18px;
+  bottom: 18px;
+  border-left: 2px dotted var(--rule);
+}
+.tt.compact .tr {
+  position: relative;
+  gap: 26px;
+  margin: 3px 0;
+}
+.tt.compact .tr::after {
+  content: "";
+  position: absolute;
+  left: 56px;
+  top: 50%;
+  width: 12px;
+  height: 12px;
+  margin-top: -6px;
+  border-radius: 50%;
+  background: var(--c, var(--muted));
+  box-shadow: 0 0 0 3px var(--bg);
+}
+.tt.compact .tr .t {
+  color: var(--ink);
+  font: 700 15px var(--body) !important;
+}
+.tt.compact .tr .t small {
+  color: var(--muted);
+  font-weight: 500;
+}
+.tt.compact .tcard {
+  padding: 10px 12px;
+  border-radius: 16px !important;
+  background: color-mix(in srgb, var(--c, var(--muted)) 7%, var(--surface)) !important;
+}
+.tt.compact .tr.focus .tcard {
+  background: color-mix(in srgb, var(--c, var(--sun)) 16%, var(--surface)) !important;
+  box-shadow: var(--shadow) !important;
+}
+.tt.compact .tr.focus::after {
+  width: 16px;
+  height: 16px;
+  margin-top: -8px;
+  left: 54px;
+}
+.tt.compact .tr.done .tcard {
+  background: var(--sunk) !important;
+  opacity: 0.7;
+}
+.tt.compact .tr.done::after {
+  background: var(--good);
+}
+.tt.compact .tr.brk::after {
+  width: 8px;
+  height: 8px;
+  margin-top: -4px;
+  left: 58px;
+  background: var(--rule);
+}
+.tt.compact .dh {
+  opacity: 0.35;
 }
 .tcard .tdet {
   border-top: 1px solid var(--rule);

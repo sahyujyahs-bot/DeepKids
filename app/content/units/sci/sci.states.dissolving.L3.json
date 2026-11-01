@@ -1266,15 +1266,27 @@
      "items": [
       {
        "f": "Salt",
-       "b": "Dissolves. The water stays clear."
+       "b": "Dissolves. The water stays clear.",
+       "img": {
+        "src": "media/cards/dissolving-g1-0-00.jpg",
+        "credit": "Nate Steiner, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Sugar",
-       "b": "Dissolves. The water stays clear."
+       "b": "Dissolves. The water stays clear.",
+       "img": {
+        "src": "media/cards/dissolving-g1-0-01.jpg",
+        "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Jaggery",
-       "b": "Dissolves. The water turns brown, and a few bits may stay."
+       "b": "Dissolves. The water turns brown, and a few bits may stay.",
+       "img": {
+        "src": "media/cards/dissolving-g1-0-02.jpg",
+        "credit": "Sushant Medhe Pawar of Kolhapur Agricultural Produce Market (Kolhapur Sheti Utpa, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Instant coffee",
