@@ -76,7 +76,7 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
               k,
               t: "Card " + k,
               b: "Body text for " + k + ". ".repeat(8),
-              ...(k === "how" ? { img: { src: "media/ui/intro-journey.jpg", alt: "", credit: "Figure 1, test" } } : {}),
+              ...(k === "how" ? { img: { src: "media/ui/subj-wml.jpg", alt: "", credit: "Figure 1, test" } } : {}),
             },
       ),
     });
