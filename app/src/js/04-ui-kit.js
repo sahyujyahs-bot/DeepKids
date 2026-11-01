@@ -340,7 +340,7 @@ const KICO = {
   plan: "week",
   paper: "learn",
 };
-function pathMap(units, covOf) {
+function pathMap(units) {
   const n = units.length;
   if (!n) return "";
   const step = 118,
@@ -351,7 +351,7 @@ function pathMap(units, covOf) {
   let d = `M${P[0][0]} ${P[0][1]}`;
   for (let i = 1; i < n; i++)
     d += ` C${P[i - 1][0]} ${P[i - 1][1] + step * 0.55} ${P[i][0]} ${P[i][1] - step * 0.55} ${P[i][0]} ${P[i][1]}`;
-  const nextI = units.findIndex((u) => rank[covOf(u)] < 2);
+  const nextI = units.findIndex((u) => rank[st(u.k)] < 2);
   const deco = units
     .map((u, i) =>
       i % 3 === 1
@@ -362,7 +362,7 @@ function pathMap(units, covOf) {
   return `<div class="pathmap" style="height:${H}px"><svg viewBox="0 0 100 ${H}" preserveAspectRatio="none" aria-hidden="true"><path d="${d}" fill="none" stroke="var(--soil)" stroke-width="26" stroke-linecap="round" vector-effect="non-scaling-stroke"/><path d="${d}" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="2 12" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity=".8"/></svg>${deco}
    ${units
      .map((u, i) => {
-       const cs = covOf(u),
+       const cs = st(u.k),
          ts = u.c?.x ? chapterTasks(u) : null,
          td = ts ? ts.filter((a) => taskDone(u.k, a[0])).length : 0;
        return `<button class="node ${SC(u.subj)} ${cs} ${i === nextI ? "next" : ""}" style="left:${P[i][0]}%;top:${P[i][1] + 12}px" data-act="chapter" data-k="${u.k}">${i === nextI ? kidBlob("", "happy", 'width="34" height="34" style="margin-bottom:-10px"') : ""}<span class="dot">${rank[cs] >= 2 ? `<svg width="28" height="28" viewBox="0 0 24 24"><path d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z" fill="#fff"/></svg>` : /^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span class="lbl">${esc(u.title)}</span><span class="sub">${ts ? `${td}/${ts.length} tasks · ` : ""}${STATUS[cs]}</span></button>`;

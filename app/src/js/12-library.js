@@ -29,24 +29,14 @@ function combinedTopicList() {
    <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
    <p class="xs muted">Every science topic any board teaches in Class ${lv}. ${((n) => (n === L.length ? "Each has a DeepKids lesson." : `${n} of ${L.length} have a DeepKids lesson; the others use the board's chapters for now.`))(L.filter((e) => e.k).length)}</p>${L.map(row).join("")}`;
 }
-// DeepKids track in the Library: per subject, the written units and topic ladder, and the DeepKids topics
+// DeepKids track in the Library: per subject, the written units and topic ladder
 function dkTrackBrowse() {
   const subjs = SUBJ_KEYS.filter((k) => !WFS.includes(k)),
     sj = subjs.includes(ui.bs) ? ui.bs : "sci",
     chips = `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>`;
   if (sj !== "sci")
     return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is being written. For now, its chapters are under Board track.</p>`;
-  const lv = Object.keys(DATA.combined?.sci || {})
-      .map(Number)
-      .includes(ui.bl)
-      ? ui.bl
-      : S.levels?.sci || 3,
-    T = DATA.topics.filter((t) => (t.cls || [1, 2, 3, 4, 5]).includes(lv)).map(dkUnit);
-  return `${chips}${combinedBrowse()}${
-    T.length
-      ? `<div class="sech"><h3 style="font-size:18px">Big-question topics</h3><span class="pill">${T.length}</span></div><p class="xs muted">DeepKids topics that start from a big question, for Class ${lv}.</p>${T.map(topicRow).join("")}`
-      : ""
-  }`;
+  return chips + combinedBrowse();
 }
 // every unit, for every family on any track: any of them can be added to the plan alongside the class plan
 function combinedBrowse() {
@@ -435,8 +425,6 @@ function tagsOf(u) {
       const i = DATA.items.find((z) => z.k === k);
       if (i) T.push(tag(i));
     });
-  } else if (u.board === "dk") {
-    DATA.items.filter((i) => (i.dk || []).includes(u.n)).forEach((i) => T.push(tag(i)));
   } else {
     T.push(tag(u));
     const ids = u.dk || [];
@@ -455,7 +443,6 @@ function subjectsOf(u) {
 }
 function summaryOf(u) {
   if (u.board === "gen") return u.gen.summary || "";
-  if (u.board === "dk") return u.topic.summary;
   const T = tagsOf(u)
     .map((t) => DATA.items.find((i) => i.k === t.k))
     .filter(Boolean);
@@ -469,12 +456,11 @@ function ideasOf(u) {
   if (u.board === "mine") return { sum: u.c.p.summary, ideas: [] };
   const x = u.c?.x;
   if (x) return { sum: x.oneness, ideas: x.deep.map((d) => d.q) };
-  if (u.board === "dk") return { sum: u.topic.oneness, ideas: u.topic.sub.slice(0, 3) };
   return { sum: "", ideas: ["Placeholder: challenging ideas for this topic are being written."] };
 }
 function relatedOf(u) {
   const pool = allUnits(),
-    ids = u.board === "dk" ? [u.n] : u.dk || [],
+    ids = u.dk || [],
     pre = prereqOf(u)
       .map((k) => unitBy(k))
       .filter(Boolean)
@@ -482,15 +468,14 @@ function relatedOf(u) {
   let deeper = pool
     .filter((i) => i.k !== u.k && i.subj === u.subj && i.level > u.level && ids.some((d) => (i.dk || []).includes(d)))
     .slice(0, 3);
-  if (!deeper.length && u.board !== "gen" && u.board !== "dk") {
+  if (!deeper.length && u.board !== "gen") {
     const us = DATA.items.filter((i) => i.board === u.board && i.subj === u.subj && i.book === u.book),
       j = us.findIndex((i) => i.k === u.k);
     deeper = us.slice(j + 1, j + 2);
   }
-  const wider = [
-    ...(u.board === "dk" ? [] : ids.map((d) => pool.find((i) => i.k === "dk|" + d)).filter(Boolean)),
-    ...pool.filter((i) => i.k !== u.k && i.subj !== u.subj && ids.some((d) => (i.dk || []).includes(d))),
-  ].slice(0, 4);
+  const wider = pool
+    .filter((i) => i.k !== u.k && i.subj !== u.subj && ids.some((d) => (i.dk || []).includes(d)))
+    .slice(0, 4);
   const names = u.board === "gen" ? u.gen.related || {} : {};
   return { pre, deeper, wider, names };
 }
@@ -507,7 +492,7 @@ function topicOverview(u) {
   h += `<section class="oneness"><span class="eyebrow">Big ideas</span>${I.sum ? `<p>${esc(I.sum)}</p>` : ""}<ul style="margin:8px 0 0;padding-left:20px;display:grid;gap:4px;font-weight:700">${I.ideas.map((i) => `<li>${esc(i)}</li>`).join("")}</ul></section>`;
   if (m === "books")
     h += `<section class="card r-you tint"><b style="font:600 16px var(--display)">Lesson plans come with DeepKids Plus</b><p class="sm">Ready-made plans for each lesson, big questions, worksheets and games. Switch in App settings.</p></section>`;
-  if (u.board !== "gen" && u.board !== "dk" && m === "plus")
+  if (u.board !== "gen" && m === "plus")
     h += `<section class="card"><span class="eyebrow">Suggested reading</span><p class="sm">${esc(u.book)}${chNo(u) ? ", " + chNo(u) : ""}${(u.c?.read || []).length ? "; " + u.c.read.map(esc).join("; ") : ""}</p></section>`;
   if (u.board === "gen" && (u.gen.books || []).length)
     h += `<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:4px">Books to try</span>${u.gen.books
@@ -551,15 +536,7 @@ function topicHits(q) {
   const words = q.split(/\s+/).filter((w) => w.length > 2);
   return allUnits()
     .map((u) => {
-      const hay = (
-        u.title +
-        " " +
-        (u.c?.covers || "") +
-        " " +
-        (u.topic?.summary || "") +
-        " " +
-        (u.gen?.summary || "")
-      ).toLowerCase();
+      const hay = (u.title + " " + (u.c?.covers || "") + " " + (u.gen?.summary || "")).toLowerCase();
       let sc = hay.includes(q) ? 5 : 0;
       words.forEach((w) => {
         if (hay.includes(w)) sc++;
@@ -575,10 +552,10 @@ function topicHits(q) {
 function topicRow(u) {
   if (u.board === "combined") {
     const B = (u.c?.boards || []).map((x) => `${BNAME[x.b] || x.b} ${x.ref}`).join(", ");
-    return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">✦</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Class ${u.level} · Covers ${esc(B || u.c?.topic || "")}</span></span>${pillS(coverage(u))}</button></div>`;
+    return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">✦</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Class ${u.level} · Covers ${esc(B || u.c?.topic || "")}</span></span>${pillS(st(u.k))}</button></div>`;
   }
   const T = tagsOf(u)[0];
-  return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : u.board === "dk" ? "DeepKids Plus" : esc(T?.txt || u.book)}</span></span>${pillS(coverage(u))}</button></div>`;
+  return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0;flex:1"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : esc(T?.txt || u.book)}</span></span>${pillS(st(u.k))}</button></div>`;
 }
 function topicsTab() {
   const q = ui.libq || "",
@@ -639,7 +616,7 @@ function topicsTab() {
    <div class="row chips">${BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join("")}</div>${`
    ${subjs.length > 1 ? `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>` : ""}
    ${levels.length > 1 ? `<div class="row chips">${levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")}</div>` : ""}
-   <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "dk" ? "topics" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
+   <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
    ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:11px">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`}`;
   if (gen.length)
     h += `<div class="sech"><h3 style="font-size:18px">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
@@ -728,11 +705,6 @@ Give exactly 3 full-day plans (about 60–90 minutes each) and 3 short plans (ab
 }
 function prereqOf(u) {
   if (u.board === "gen") return [];
-  if (u.board === "dk") {
-    const g = DATA.topics.filter((t) => t.q === u.topic.q),
-      first = g[0];
-    return first.id === u.topic.id ? [] : ["dk|" + first.id];
-  }
   if (u.subj === "math") {
     const us = DATA.items.filter((x) => x.board === u.board && x.book === u.book && x.subj === "math"),
       i = us.findIndex((x) => x.k === u.k);
@@ -744,17 +716,17 @@ function swapView() {
   const s = ui.sheet.s,
     cur = nextUp(s);
   document.getElementById("sheetTitle").textContent = "Swap " + SUBJ[s] + " topic";
-  const us = plannedUnits(s).filter((u) => u.level === S.levels[s] && rank[coverage(u)] < 2);
+  const us = plannedUnits(s).filter((u) => u.level === S.levels[s] && rank[st(u.k)] < 2);
   const rows = us.map((u) => {
-    const need = prereqOf(u).filter((k) => rank[coverage(unitBy(k) || { k }) || "none"] < 2 && rank[st(k)] < 2);
+    const need = prereqOf(u).filter((k) => rank[st(k)] < 2);
     return { u, need };
   });
-  return `<p class="sm muted">${s === "math" ? "Maths builds on itself, so a chapter opens once the chapters before it are done." : s === "sci" && S.plus ? "Each big question opens with its first topic. After that, its topics can go in any order." : "These chapters don't depend on each other, so any order works."}</p>
+  return `<p class="sm muted">${s === "math" ? "Maths builds on itself, so a chapter opens once the chapters before it are done." : "These chapters don't depend on each other, so any order works."}</p>
    <section class="card" style="gap:0">${rows
      .map(({ u, need }, i) => {
        const isCur = cur && cur.u.k === u.k,
          ok = !need.length;
-       return `<div class="taskrow ${SC(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 15px var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b style="font:600 16px var(--display)">${esc(u.title)}</b><p class="xs muted">${coverage(u) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
+       return `<div class="taskrow ${SC(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 15px var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b style="font:600 16px var(--display)">${esc(u.title)}</b><p class="xs muted">${st(u.k) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
          ok
            ? ""
            : ` · first: ${need

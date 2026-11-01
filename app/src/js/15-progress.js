@@ -29,7 +29,7 @@ function boardDoneItems() {
     .forEach((u) => {
       const P = u.c?.p,
         dt = (v) => (typeof v === "string" ? v : "");
-      if (rank[coverage(u)] >= 2)
+      if (rank[st(u.k)] >= 2)
         out.push({
           ty: "les",
           u,
@@ -195,7 +195,7 @@ function onTrackView() {
       const all = plannedUnits(s),
         U = all.filter((u) => u.level === S.levels[s] && (S.board !== "combined" || fxReq(u)));
       if (!U.length) return "";
-      const isDone = (u) => rank[coverage(u)] >= 2,
+      const isDone = (u) => rank[st(u.k)] >= 2,
         done = U.filter(isDone).length,
         exp = Math.round(Y.gone * U.length),
         gap = done - exp,
@@ -1328,7 +1328,7 @@ function schoolData() {
   const studied = Object.keys(S.progress || {})
       .filter((k) => done(k) > 0)
       .map(unitByK)
-      .filter((u) => u && u.board !== "dk" && u.board !== "gen"),
+      .filter((u) => u && u.board !== "gen"),
     sc = studied.map(chScore),
     T = trackData(),
     ds = Object.keys(T)
@@ -1704,9 +1704,9 @@ function jPart(p) {
         .join("")}</section>`;
   }
   if (p === "beyond") {
-    const beyond = S.log.filter((l) => l.key.startsWith("dk|") || l.kind === "free"),
+    const beyond = S.log.filter((l) => l.kind === "free"),
       bk = [...new Set(beyond.map((l) => l.title))];
-    h += `<section class="sec"><div class="sech"><h3>${JR.beyond}</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">DeepKids Plus topics and things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
+    h += `<section class="sec"><div class="sech"><h3>${JR.beyond}</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">Things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
   }
   if (p === "diary") {
     h += `<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${
@@ -1756,9 +1756,7 @@ function learnView() {
    ${
      groups
        .map((g) => {
-         const guide =
-           g.u.c?.x?.guide ||
-           (g.u.board !== "dk" && g.u.board !== "gen" ? DATA.prepgen.guide[g.u.subj] : summaryOf(g.u));
+         const guide = g.u.c?.x?.guide || (g.u.board !== "gen" ? DATA.prepgen.guide[g.u.subj] : summaryOf(g.u));
          return `<section class="card ${SC(g.s)}"><div class="row" style="gap:8px">${sblob(g.s, "happy", "", 'width="32" height="32"')}<b style="font:600 17px var(--display)">${esc(g.u.title)}</b></div>${guide ? `<p class="sm">${esc(guide)}</p>` : ""}${g.items
            .filter((p) => p.kind !== "guide")
            .map(
@@ -1792,12 +1790,12 @@ function unitParts(u) {
     return [X.filter((x) => x === "done").length, X.length];
   }
   const n = sessionsFor(u);
-  return [rank[coverage(u)] >= 2 ? n : Math.min(done(u.k), n), n];
+  return [rank[st(u.k)] >= 2 ? n : Math.min(done(u.k), n), n];
 }
 // the exact share, to one decimal place: 5 of 412 parts is 1.2%
 const pctTxt = (p) => (Math.round(p * 1000) / 10).toString() + "%";
 function subjStats(s) {
-  const us = [...collate(s).dk, ...collate(s).board],
+  const us = collate(s).board,
     P = us.map(unitParts),
     tot = P.reduce((a, x) => a + x[1], 0),
     dn = P.reduce((a, x) => a + x[0], 0);
@@ -1808,8 +1806,8 @@ function subjStats(s) {
     allParts: tot,
     sessions: dn,
     total: tot,
-    completed: us.filter((u) => rank[coverage(u)] >= 2).length,
-    learning: us.filter((u) => coverage(u) === "learning").length,
+    completed: us.filter((u) => rank[st(u.k)] >= 2).length,
+    learning: us.filter((u) => st(u.k) === "learning").length,
   };
 }
 function wsStats(u) {
@@ -1862,9 +1860,9 @@ function boardRows(s, b) {
   return {
     us,
     exp,
-    done: us.filter((u) => rank[coverage(u)] >= 2),
-    prog: us.filter((u) => coverage(u) === "learning"),
-    behind: us.slice(0, exp).filter((u) => rank[coverage(u)] < 2),
+    done: us.filter((u) => rank[st(u.k)] >= 2),
+    prog: us.filter((u) => st(u.k) === "learning"),
+    behind: us.slice(0, exp).filter((u) => rank[st(u.k)] < 2),
   };
 }
 function jsubView() {
@@ -1919,31 +1917,22 @@ function jsubView() {
     if (!r) return;
     h += `<section class="card"><h3 style="font-size:19px">${BOARDS[b]}</h3><p class="xs muted">By this point in the school year, about ${r.exp} of ${r.us.length} chapters would usually be done.</p>${r.behind.length ? `<div><span class="eyebrow" style="color:var(--bad)">Not done yet, but due by now</span><div class="row" style="margin-top:6px">${r.behind.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : `<p class="sm" style="font-weight:800;color:var(--good)">On track for this point in the year.</p>`}${r.prog.length ? `<div><span class="eyebrow">In progress</span><div class="row" style="margin-top:6px">${r.prog.map((u) => `<button class="chip" data-act="chapter" data-k="${u.k}">${esc(u.title)}</button>`).join("")}</div></div>` : ""}</section>`;
   });
-  const dk = x.us.filter((u) => u.board === "dk" && st(u.k) !== "none"),
-    fr = [...new Set(logs.filter((l) => l.kind === "free").map((l) => l.title))];
-  if (dk.length || fr.length)
-    h += `<section class="card"><h3 style="font-size:19px">Learned beyond the syllabus</h3><div class="row">${[...dk.map((u) => u.title), ...fr].map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
+  const fr = [...new Set(logs.filter((l) => l.kind === "free").map((l) => l.title))];
+  if (fr.length)
+    h += `<section class="card"><h3 style="font-size:19px">Learned beyond the syllabus</h3><div class="row">${fr.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div></section>`;
   h += `<section class="sec"><div class="sech"><h3>Every topic</h3><span class="xs muted">tap for details</span></div><div class="col" style="gap:8px">${x.us
     .map((u) => {
-      const cs = coverage(u),
+      const cs = st(u.k),
         ul = S.log.filter((l) => l.key === u.k),
         w = wsStats(u),
         ts = u.c?.x ? chapterTasks(u) : null,
         open = ui.jopen === u.k;
-      return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="jopen" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${u.board === "dk" ? "DeepKids Plus" : BOARDS[u.board]} · Class ${DATA.levels[u.level].cls} · L${u.level}</span></span>${pillS(cs)}</button>${open ? `<div class="tdet"><div class="kv"><span>Lesson days</span><b>${Math.min(done(u.k), sessionsFor(u))} of ${sessionsFor(u)}</b><span>Started</span><b>${ul.length ? fmt(ul[ul.length - 1].date) : "Not yet"}</b><span>Last session</span><b>${ul.length ? fmt(ul[0].date) : "–"}</b>${ts ? `<span>Tasks</span><b>${ts.filter((a) => taskDone(u.k, a[0])).length} of ${ts.length}</b>` : ""}${w ? `<span>Worksheet</span><b>${w.ans} of ${w.tot} answered${w.mq ? `, ${w.mr}/${w.mq} choices right` : ""}</b>` : ""}${u.dk?.length ? `<span>DeepKids links</span><b>${u.dk.map((id) => esc(DATA.topics.find((t) => t.id === id)?.name || id)).join(", ")}</b>` : ""}</div>${thumbs(workOf(u.k))}<div class="row"><button class="btn soft sm" data-act="chapter" data-k="${u.k}">Open chapter</button>${photoBtn(u.k)}</div></div>` : ""}</div>`;
+      return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="jopen" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${BOARDS[u.board]} · Class ${DATA.levels[u.level].cls} · L${u.level}</span></span>${pillS(cs)}</button>${open ? `<div class="tdet"><div class="kv"><span>Lesson days</span><b>${Math.min(done(u.k), sessionsFor(u))} of ${sessionsFor(u)}</b><span>Started</span><b>${ul.length ? fmt(ul[ul.length - 1].date) : "Not yet"}</b><span>Last session</span><b>${ul.length ? fmt(ul[0].date) : "–"}</b>${ts ? `<span>Tasks</span><b>${ts.filter((a) => taskDone(u.k, a[0])).length} of ${ts.length}</b>` : ""}${w ? `<span>Worksheet</span><b>${w.ans} of ${w.tot} answered${w.mq ? `, ${w.mr}/${w.mq} choices right` : ""}</b>` : ""}</div>${thumbs(workOf(u.k))}<div class="row"><button class="btn soft sm" data-act="chapter" data-k="${u.k}">Open chapter</button>${photoBtn(u.k)}</div></div>` : ""}</div>`;
     })
     .join("")}</div></section>`;
   const c = collate(s);
-  h += `<section class="sec"><div class="sech"><h3>Learning path</h3></div>${c.dk.length ? pathMap(c.dk, (u) => st(u.k)) : ""}${[
-    ...new Set(c.board.map((u) => u.book)),
-  ]
-    .map(
-      (b) =>
-        `<p class="eyebrow">${esc(b)}</p>${pathMap(
-          c.board.filter((u) => u.book === b),
-          coverage,
-        )}`,
-    )
+  h += `<section class="sec"><div class="sech"><h3>Learning path</h3></div>${[...new Set(c.board.map((u) => u.book))]
+    .map((b) => `<p class="eyebrow">${esc(b)}</p>${pathMap(c.board.filter((u) => u.book === b))}`)
     .join("")}</section>`;
   return h;
 }
@@ -1977,12 +1966,7 @@ function viewJourney0() {
           ],
         ]
       : []),
-    [
-      "beyond",
-      JR.beyond,
-      "Extra topics and free exploring",
-      blob("var(--gum)", 7, "happy", "", 'width="40" height="40"'),
-    ],
+    ["beyond", JR.beyond, "Free exploring", blob("var(--gum)", 7, "happy", "", 'width="40" height="40"')],
     [
       "diary",
       "Learning diary",

@@ -86,7 +86,7 @@ function qRecord(o, r) {
 function masteryOf(u, M) {
   if (Object.values(M).some((x) => x.k === u.k && x.r === 0)) return "not";
   const P = u.c?.p;
-  let all = rank[coverage(u)] >= 2;
+  let all = rank[st(u.k)] >= 2;
   if (all && P) {
     const its = [
       ...(P.worksheets || []).map((w) => ["ws", w.id]),
@@ -134,8 +134,7 @@ const hsh = (s) => {
   return h;
 };
 function thinkFor(u, i) {
-  const P = u.c?.p,
-    t = u.topic;
+  const P = u.c?.p;
   if (P?.voices?.length) {
     const v = P.voices[i % P.voices.length];
     return {
@@ -144,7 +143,6 @@ function thinkFor(u, i) {
       ask: "What do you think, and why? Is there another way to see it?",
     };
   }
-  if (t) return { title: "Big think: " + t.name, body: t.summary, ask: t.oneness };
   if (P?.goals?.length) {
     const g = P.goals[i % P.goals.length].replace(/^By the end your child can\s*/i, "");
     return {
@@ -162,7 +160,6 @@ function thinkFor(u, i) {
 function rereadFor(u) {
   const P = u.c?.p;
   if (P) return { title: "Re-read: " + u.title, body: P.summary, words: (P.words || []).slice(0, 5) };
-  if (u.topic) return { title: "Re-read: " + u.title, body: u.topic.summary };
   return {
     title: "Re-read: " + chT(u),
     body: `Open ${u.book || "the book"} at this chapter. Your child reads a page aloud and tells you what it was about.`,

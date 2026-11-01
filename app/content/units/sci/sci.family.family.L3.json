@@ -324,51 +324,99 @@
      "items": [
       {
        "f": "Cow and her calf",
-       "b": "The mother. She feeds the calf with her milk."
+       "b": "The mother. She feeds the calf with her milk.",
+       "img": {
+        "src": "media/cards/family-g1-0-00.jpg",
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "House crow chicks",
-       "b": "Both parents. They build the nest together and both feed the chicks."
+       "b": "Both parents. They build the nest together and both feed the chicks.",
+       "img": {
+        "src": "media/cards/family-g1-0-01.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Emperor penguin egg",
-       "b": "The father, for the first two months. He keeps the egg warm on his feet while the mother feeds at sea. Then both parents feed the chick."
+       "b": "The father, for the first two months. He keeps the egg warm on his feet while the mother feeds at sea. Then both parents feed the chick.",
+       "img": {
+        "src": "media/cards/family-g1-0-02.jpg",
+        "credit": "Julien Renoult, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Seahorse eggs",
-       "b": "The father. He carries the eggs in a pouch until they hatch."
+       "b": "The father. He carries the eggs in a pouch until they hatch.",
+       "img": {
+        "src": "media/cards/family-g1-0-03.jpg",
+        "credit": "Pauline Walsh Jacobson, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mugger crocodile hatchlings",
-       "b": "The mother. She guards the nest and carries the hatchlings to water in her mouth."
+       "b": "The mother. She guards the nest and carries the hatchlings to water in her mouth.",
+       "img": {
+        "src": "media/cards/family-g1-0-04.jpg",
+        "credit": "Mike Prince, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Jungle babbler chicks",
-       "b": "A group. The parents and older birds in their group all feed the chicks."
+       "b": "A group. The parents and older birds in their group all feed the chicks.",
+       "img": {
+        "src": "media/cards/family-g1-0-05.jpg",
+        "credit": "Malaika Mathew Chawla, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Asian koel chick",
-       "b": "House crows. The koel mother lays her egg in a crow's nest, and the crows raise the chick."
+       "b": "House crows. The koel mother lays her egg in a crow's nest, and the crows raise the chick.",
+       "img": {
+        "src": "media/cards/family-g1-0-06.jpg",
+        "credit": "egorbirder, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Olive ridley turtle hatchlings",
-       "b": "Nobody. The mother lays her eggs on a beach and swims away. The hatchlings live on their own."
+       "b": "Nobody. The mother lays her eggs on a beach and swims away. The hatchlings live on their own.",
+       "img": {
+        "src": "media/cards/family-g1-0-07.jpg",
+        "credit": "Sundar Lakshmanan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Elephant calf",
-       "b": "A group. The calf's mother and the other related females in the herd look after the calf."
+       "b": "A group. The calf's mother and the other related females in the herd look after the calf.",
+       "img": {
+        "src": "media/cards/family-g1-0-08.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Great hornbill chicks",
-       "b": "Both parents. The mother seals herself into a tree hole with the eggs, and the father brings food to her and the chicks."
+       "b": "Both parents. The mother seals herself into a tree hole with the eggs, and the father brings food to her and the chicks.",
+       "img": {
+        "src": "media/cards/family-g1-0-09.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "House sparrow chicks",
-       "b": "Both parents. They take turns to bring insects to the chicks."
+       "b": "Both parents. They take turns to bring insects to the chicks.",
+       "img": {
+        "src": "media/cards/family-g1-0-10.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Human baby",
-       "b": "A group. Parents and many helpers: grandparents, older children, relatives and neighbours."
+       "b": "A group. Parents and many helpers: grandparents, older children, relatives and neighbours.",
+       "img": {
+        "src": "media/cards/family-g1-0-11.jpg",
+        "credit": "Nauzer, Public domain, via Wikimedia Commons"
+       }
       }
      ]
     },

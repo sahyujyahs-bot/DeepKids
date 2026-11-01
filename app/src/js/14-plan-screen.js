@@ -129,7 +129,7 @@ function itemState(ty, u, id) {
   if (ty === "proj") {
     const R = refParts(u, id),
       dn = done(u.k);
-    if (R.length && R[0] <= dn && rank[coverage(u)] < 2) return "going";
+    if (R.length && R[0] <= dn && rank[st(u.k)] < 2) return "going";
   }
   return "none";
 }
@@ -140,7 +140,7 @@ function stateCtl(ty, u, id) {
     reached = (() => {
       const P = u.c?.p;
       if (!P) return false;
-      const dn = rank[coverage(u)] >= 2 ? P.days.length : done(u.k);
+      const dn = rank[st(u.k)] >= 2 ? P.days.length : done(u.k);
       if (ty === "qz") return +id.slice(1) <= dn;
       const w = (P.worksheets || []).find((z) => z.id === id);
       return (w?.day || 99) <= dn;
@@ -301,7 +301,7 @@ function boardWorkItems() {
       const P = u.c?.p;
       if (!P) return;
       const real = done(u.k),
-        dn = rank[coverage(u)] >= 2 ? P.days.length : real,
+        dn = rank[st(u.k)] >= 2 ? P.days.length : real,
         from = (d) => (d <= real ? `From Part ${d}, which you've done` : "From a chapter marked done"),
         when = (d) => (d <= dn ? from(d) : `Comes up in Part ${d}`);
       (P.worksheets || []).forEach((w) => {
@@ -416,7 +416,7 @@ function workItems() {
 function lessonsGoing() {
   return S.subjects.flatMap((s) =>
     plannedUnits(s)
-      .filter((u) => coverage(u) === "learning")
+      .filter((u) => st(u.k) === "learning")
       .slice(0, 3)
       .map((u) => {
         const id = u.k.startsWith("unit") && DATA.units?.[u.k.slice(5)] ? u.k.slice(5) : "",
@@ -453,13 +453,13 @@ function qItems(t, s) {
   if (t === "les") {
     const ex = (S.extra || {})[s] || [];
     return plannedUnits(s)
-      .filter((u) => rank[coverage(u)] < 2)
+      .filter((u) => rank[st(u.k)] < 2)
       .filter((u, i) => ui.qall || i < 12 || ex.includes(u.k))
       .map((u) => ({
         ref: "les:" + u.k,
         u,
         title: chT(u),
-        sub: `${u.board === "gen" ? "DeepKids topic" : u.board === "dk" ? "DeepKids Plus" : u.book} · ${sessionsFor(u)} days`,
+        sub: `${u.board === "gen" ? "DeepKids topic" : u.book} · ${sessionsFor(u)} days`,
         open: `data-act="chapter" data-k="${u.k}"`,
         rm: ex.includes(u.k),
       }));
@@ -497,7 +497,7 @@ function qPut(ty, s, r, where) {
       S.extra = { ...(S.extra || {}), [s]: [...new Set([...((S.extra || {})[s] || []), k])] };
     const nx = ((S.next || {})[s] || []).filter((x) => x !== k),
       cur = plannedAt(s, S.levels[s])
-        .filter((z) => rank[coverage(z)] < 2 && z.k !== k)
+        .filter((z) => rank[st(z.k)] < 2 && z.k !== k)
         .map((z) => z.k);
     S.next = { ...(S.next || {}), [s]: where === "first" ? [k, ...nx] : [...new Set([...nx, ...cur]), k] };
     S.later = { ...(S.later || {}), [s]: ((S.later || {})[s] || []).filter((x) => x !== k) };
@@ -605,7 +605,7 @@ function queuesView() {
     ? `<div class="qlist" data-ty="${t}" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
     : `<p class="note">${t === "les" ? "No chapters waiting." : `No ${WT[t][0].toLowerCase()} queued${qfOf() === "all" ? "" : " in " + SUBJ[qfOf()]}. Tap “+ Queue” on one in Pending, in a lesson or in a chapter.`}</p>`;
   if (t === "les") {
-    const all = plannedUnits(s).filter((u) => rank[coverage(u)] < 2).length;
+    const all = plannedUnits(s).filter((u) => rank[st(u.k)] < 2).length;
     if (all > 12)
       h += `<button class="btn soft sm" data-act="qall" style="justify-self:start">${ui.qall ? "Show only the next 12" : `Show the whole year · ${all - L.length} more`}</button>`;
     h += `<button class="link" data-act="lt2" style="justify-self:start">Find more chapters and topics in the Library →</button>`;
@@ -703,59 +703,6 @@ function trackIdeas(n) {
       }
     }
   return out;
-}
-/* DeepKids topics: how long each learning day, and which one fits the day's lessons */
-const DKSTEPS = [0, 10, 15, 20, 30, 45, 60],
-  dkMinsOf = () => 0;
-const DKSTOP = new Set(
-  "this that with from what your have they their them about into does which when where will would there these those child make each more some like other than then very just also only many much were been being because around chapter lesson learn talk book know things thing people today tell show find story".split(
-    " ",
-  ),
-);
-function dkWords(s) {
-  return new Set(
-    (
-      String(s || "")
-        .toLowerCase()
-        .match(/[a-z]{4,}/g) || []
-    )
-      .filter((w) => !DKSTOP.has(w))
-      .map((w) => w.replace(/(ies|es|s)$/, "")),
-  );
-}
-function dkPick(date, lessons) {
-  const L = lessons.map((l) => l.u).filter(Boolean),
-    live = DATA.topics.filter(
-      (t) => (t.cls || [1, 2, 3, 4, 5]).includes(S.levels.sci || 1) && rank[st("dk|" + t.id)] < 2,
-    );
-  if (!live.length) return null;
-  const lw = new Set(
-    L.flatMap((u) => [
-      ...dkWords([u.title, u.c?.covers, u.c?.p?.summary, (u.c?.p?.words || []).map((x) => x[0]).join(" ")].join(" ")),
-    ]),
-  );
-  let best = null,
-    h0 = 0;
-  for (const c of date) h0 = (h0 * 31 + c.charCodeAt(0)) % 9973;
-  live.forEach((t, i) => {
-    const mapped = L.find((u) => (u.dk || []).includes(t.id)),
-      hit = [...dkWords([t.name, t.summary, t.sub, t.q].join(" "))].filter((w) => lw.has(w));
-    const sc = (mapped ? 100 : 0) + hit.length + (rank[st("dk|" + t.id)] === 1 ? 2 : 0) + ((h0 + i * 7) % 13) / 100;
-    if (!best || sc > best.sc) best = { sc, t, mapped, hit };
-  });
-  const u = unitBy("dk|" + best.t.id);
-  if (!u) return null;
-  const near = best.mapped || L.find((x) => [...dkWords(x.title)].some((w) => best.hit.includes(w))) || null;
-  return {
-    u,
-    why: best.mapped
-      ? `Goes with ${chT(best.mapped)}`
-      : near
-        ? `Goes with ${chT(near)} (${best.hit.slice(0, 2).join(", ")})`
-        : best.hit.length
-          ? `Links to today's lessons: ${best.hit.slice(0, 2).join(", ")}`
-          : "Today's big question",
-  };
 }
 function ideasHtml() {
   return trackIdeas(3)
@@ -987,22 +934,17 @@ function plPart(p) {
 }
 const qPos = (u) =>
   plannedUnits(u.subj)
-    .filter((z) => rank[coverage(z)] < 2 || z.k === u.k)
+    .filter((z) => rank[st(z.k)] < 2 || z.k === u.k)
     .findIndex((z) => z.k === u.k) + 1;
 function queueCard() {
   const s = S.subjects.includes(ui.qs) ? ui.qs : S.subjects[0];
   if (!s) return "";
   const extra = (S.extra || {})[s] || [],
-    L0 = plannedUnits(s).filter((u) => rank[coverage(u)] < 2),
+    L0 = plannedUnits(s).filter((u) => rank[st(u.k)] < 2),
     L = L0.filter((u, i) => i < 8 || extra.includes(u.k)),
     sh = !!(S.shuffle || {})[s];
   const radio = allUnits()
-    .filter(
-      (u) =>
-        u.subj === s &&
-        (u.board === "gen" || (u.board === "dk" && plusOn())) &&
-        !plannedUnits(s).some((z) => z.k === u.k),
-    )
+    .filter((u) => u.subj === s && u.board === "gen" && !plannedUnits(s).some((z) => z.k === u.k))
     .slice(0, 4);
   return `<section class="sec"><div class="sech"><h3>Up next</h3><span class="xs muted">${modeOf() === "books" ? "Syllabus books" : MODES[modeOf()][0]}</span></div>
    <div class="seg">${S.subjects.map((x) => `<button aria-pressed="${x === s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>
@@ -1010,7 +952,7 @@ function queueCard() {
    <p class="xs muted">${sh ? "Shuffle respects what each topic needs first, and never drops a syllabus chapter." : "Book order."} ${S.exam ? "Exam track keeps every syllabus chapter first; extra topics come after." : "Extra topics are mixed in between syllabus chapters."}</p>
    <div class="col" style="gap:8px">${L.map((u, i) => {
      const T = tagsOf(u)[0];
-     return `<div class="qrow ${SC(u.subj)}${u.k === ui.flash ? " flash" : ""}"><span class="qn">${L0.indexOf(u) + 1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 15.5px var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board === "gen" ? "DeepKids topic" : u.board === "dk" ? "DeepKids Plus" : esc(T?.txt || u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>` : `<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k) ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>` : ""}</span></div>`;
+     return `<div class="qrow ${SC(u.subj)}${u.k === ui.flash ? " flash" : ""}"><span class="qn">${L0.indexOf(u) + 1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b style="font:600 15.5px var(--display)">${esc(u.title)}</b><br><span class="xs muted">${u.board === "gen" ? "DeepKids topic" : esc(T?.txt || u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>` : `<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k) ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>` : ""}</span></div>`;
    }).join("")}</div>
    ${radio.length ? `<div class="sech"><h3 style="font-size:17px">More like this</h3><button class="link" data-act="lt2">Find topics</button></div><div class="row">${radio.map((u) => `<button class="chip ${SC(u.subj)}" data-act="qadd" data-s="${s}" data-k="${u.k}">${icon("plus")}${esc(u.title)}</button>`).join("")}</div>` : `<button class="link" data-act="lt2" style="justify-self:start">Find more topics →</button>`}</section>`;
 }
@@ -1093,7 +1035,7 @@ function yearOrbit() {
       const a = ang(d);
       if (a > Math.PI * 1.5) return;
       const [x, y] = pt(a, r),
-        cs = coverage(u),
+        cs = st(u.k),
         dn = rank[cs] >= 2,
         lr = cs === "learning";
       o += `<g class="${SC(s)} bead ${lr ? "pulse" : ""}" data-act="chapter" data-k="${u.k}" role="button" aria-label="${esc(u.title)}"><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${lr ? 7.5 : 6}" fill="${dn || lr ? "var(--c)" : "var(--surface)"}" stroke="var(--c)" stroke-width="2.5"/>${dn ? `<path d="M${(x - 3).toFixed(1)} ${y.toFixed(1)}l2 2 4-4" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>` : ""}</g>`;

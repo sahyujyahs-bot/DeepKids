@@ -38,17 +38,6 @@ const DEF_DAY = {
   eveAt: "20:30",
   endAt: "18:30",
 };
-const PRESET_EXP = {
-  A1: [
-    "Lotus seeds (Kamali): change water",
-    "Alum crystal (Fitkari): check growth",
-    "World in a Jar: look for droplets",
-    "Bread mould bag: look, never open",
-  ],
-  A5: ["Moong sprouts: light vs dark"],
-  B5: ["Moon diary: draw tonight's Moon"],
-  B10: ["Bury test: dig up after 3 weeks"],
-};
 (DATA.resources || []).forEach((r) => {
   r.concepts = r.concepts || [];
   r.strands = r.strands || [];

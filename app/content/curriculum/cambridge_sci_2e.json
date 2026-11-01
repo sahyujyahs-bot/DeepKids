@@ -1,0 +1,24 @@
+{
+  "1": {
+    "book": "Learner's Book 1 (2nd ed.)",
+    "units": [
+      {"title": "1 Living things", "topics": ["Animals and plants alive!", "Parts of a plant", "Plants and light", "Plants need water"], "strand": "Biology: structure and function, life processes"},
+      {"title": "2 Sound", "topics": ["Sound sources", "Loud and quiet", "Sound moves"], "strand": "Physics: light and sound"},
+      {"title": "3 Materials in my world", "topics": ["Different materials", "Properties of materials", "Sorting materials", "Changing materials"], "strand": "Chemistry: materials and their structure, properties of materials, changes to materials"},
+      {"title": "4 The Earth", "topics": ["Planet Earth", "Heat and light from the Sun", "Rocks", "Soil"], "strand": "Earth and space: planet Earth, Earth in space"},
+      {"title": "5 Humans", "topics": ["Our bodies", "Our amazing senses", "Similar and different", "Staying alive"], "strand": "Biology: structure and function, life processes"},
+      {"title": "6 Forces", "topics": ["Moving things", "Push and pull forces", "Making things move", "Floating and sinking", "Magnets can pull"], "strand": "Physics: forces and energy, electricity and magnetism"}
+    ]
+  },
+  "3": {
+    "book": "Learner's Book 3 (2nd ed.)",
+    "units": [
+      {"title": "1 Plants are living things", "topics": ["Alive or not alive?", "Plant parts", "Plants and light", "Plants need water and the right temperature"], "strand": "Biology: structure and function, life processes"},
+      {"title": "2 Mixing materials", "topics": ["Solids, liquids and gases", "Separating mixtures", "Dissolving", "Filtering", "Separating materials from rocks"], "strand": "Chemistry: materials and their structure, properties of materials, changes to materials"},
+      {"title": "3 Light and shadows", "topics": ["Shadows", "Changing shadows", "Transparent materials", "Translucent materials"], "strand": "Physics: light and sound"},
+      {"title": "4 Staying alive", "topics": ["Human organs", "Animal groups and different life cycles", "Food chains", "Fossils"], "strand": "Biology: structure and function, life processes"},
+      {"title": "5 Forces and magnets", "topics": ["Forces and forcemeters", "Gravity", "Friction", "Amazing magnets", "Magnetic materials"], "strand": "Physics: forces and energy, electricity and magnetism"},
+      {"title": "6 The Earth and the Moon", "topics": ["The shape of the Earth, Sun and Moon", "The Moon", "The phases of the Moon"], "strand": "Earth and space: planet Earth, Earth in space"}
+    ]
+  }
+}

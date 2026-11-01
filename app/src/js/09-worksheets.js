@@ -1067,7 +1067,7 @@ function wsSinglePage(ws, u) {
         p.k ? `<div class="wk"><b>${i + 1}. ${esc(ws.blocks[i].title || "")}</b><div>${p.k}</div></div>` : "",
       )
       .join("");
-  const tag = `${BNAME[u.board] === "DeepKids Plus" ? "DeepKids" : BOARDN[u.board] || BNAME[u.board] || "DeepKids"} · Class ${u.board === "dk" ? S.levels?.sci || 1 : u.level} · ${esc(SUBJ[u.subj] || "")}`,
+  const tag = `${BOARDN[u.board] || BNAME[u.board] || "DeepKids"} · Class ${u.level} · ${esc(SUBJ[u.subj] || "")}`,
     cs = getComputedStyle(document.documentElement),
     vars = [
       "--aqua",

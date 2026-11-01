@@ -158,9 +158,7 @@ function chT(u) {
             : ""
           : u.board === "nios"
             ? "Lesson " + u.n
-            : u.board === "dk"
-              ? u.n
-              : "";
+            : "";
   return (pre ? pre + " · " : "") + u.title;
 }
 let stepT = null;
@@ -214,7 +212,6 @@ function chapterHub(u) {
   const P = u.c?.p,
     x = u.c?.x,
     c = u.c || {},
-    plus = plusFor(u),
     res = resSort(resourcesFor(u)),
     shelf = shelfFor(u);
   let h =
@@ -233,17 +230,13 @@ function chapterHub(u) {
       : "",
   ].join("");
   h += hubSec("ideas", "Big ideas and key words", null, ideas, false);
-  const pv = [
-    ...plus.map(
-      (t) =>
-        `<div class="pk"><span class="eyebrow">DeepKids Plus · ${esc(t.id)}</span><b>${esc(t.name)}</b><p class="sm">${esc(t.summary)}</p>${t.oneness ? `<div class="ask"><span class="eyebrow">Wonder together</span>${esc(t.oneness)}</div>` : ""}</div>`,
-    ),
-    ...(x?.deep || []).map(
+  const pv = (x?.deep || [])
+    .map(
       (d) =>
         `<div class="pk"><span class="eyebrow">Big question</span><b>${esc(d.q)}</b><p class="sm">${esc(d.why)}</p>${(d.views || []).map(([w, v]) => `<p class="sm"><b>${esc(w)}:</b> ${esc(v)}</p>`).join("")}${d.tryit ? `<p class="sm"><b>Try this:</b> ${esc(d.tryit)}</p>` : ""}</div>`,
-    ),
-  ].join("");
-  h += hubSec("plus", "DeepKids view and big questions", plus.length + (x?.deep?.length || 0) || null, pv, false);
+    )
+    .join("");
+  h += hubSec("plus", "DeepKids view and big questions", x?.deep?.length || null, pv, false);
   if (P?.voices?.length)
     h += hubSec(
       "voices",
@@ -550,8 +543,7 @@ function packTab(u, t) {
 function planOptions(u) {
   const c = u.c,
     x = c?.x,
-    g = u.gen,
-    t = u.topic;
+    g = u.gen;
   if (g?.plans)
     return {
       full: (g.plans.full || []).slice(0, 3).map((o, i) => genOpt(o, "f" + (i + 1))),
@@ -559,9 +551,9 @@ function planOptions(u) {
     };
   const game = c?.game?.[0] || "The topic game",
     gameHow = c?.game?.[1] || "Play a quick game about the topic.",
-    act = c?.act?.[0] || t?.sub?.[0] || "A hands-on activity about the topic.",
+    act = c?.act?.[0] || "A hands-on activity about the topic.",
     exp = c?.exp?.[0] || "A small experiment or observation.",
-    bq = x?.deep?.[0]?.q || t?.oneness || "What do you already know about this, and how do you know it?";
+    bq = x?.deep?.[0]?.q || "What do you already know about this, and how do you know it?";
   const P = (kind, title, f, body) => ({ kind, label: KL[kind] || "Step", title, f, body });
   return {
     full: [
@@ -603,12 +595,7 @@ function planOptions(u) {
         idea: "The one idea that matters most, then a quick check.",
         placeholder: true,
         parts: [
-          P(
-            "read",
-            "The key idea",
-            0.5,
-            x?.learn?.[0] || c?.covers || t?.summary || "Read the main part of the chapter.",
-          ),
+          P("read", "The key idea", 0.5, x?.learn?.[0] || c?.covers || "Read the main part of the chapter."),
           P("learn", "One big question", 0.3, bq),
           P("game", "Quick check", 0.2, "Three quick questions, said aloud."),
         ],
@@ -719,7 +706,7 @@ function stepState(it) {
     }));
   const base = u.c?.p
     ? daySteps(u, it.n, it.tot)
-    : modeOf() === "books" && u.board !== "gen" && u.board !== "dk"
+    : modeOf() === "books" && u.board !== "gen"
       ? bookSteps(u, it.n, it.tot)
       : optionSteps(u, it.n, it.tot, today);
   return [...carried, ...base].map((x, i) => ({ ...x, ok: tk.has(sid(x)) }));
@@ -799,7 +786,7 @@ function chapterPage() {
   if (!u) return "";
   const c = u.c,
     x = c?.x,
-    cs = coverage(u),
+    cs = st(u.k),
     m = modeOf();
   document.getElementById("sheetTitle").textContent = u.title;
   const tabs = c?.p
@@ -873,8 +860,6 @@ function chapterPage() {
       h += `<section class="card ${SC(u.subj)}"><span class="eyebrow">What to learn</span>${x.learn.map((l, i) => `<div class="idea"><span class="k">${i + 1}</span><p>${esc(l)}</p></div>`).join("")}</section>`;
     if (m === "books" && c?.x?.cur)
       h += `<section class="card" style="gap:0"><span class="eyebrow" style="margin-bottom:6px">Curated resources</span>${c.x.cur.map(([w, src, url, how]) => `<a class="res" href="${esc(url)}" target="_blank" rel="noopener"><span class="xs muted">${esc(src)} ↗</span><b>${esc(w)}</b></a>`).join("")}</section>`;
-    if (u.board === "dk" && u.topic.res.length)
-      h += `<section class="card"><span class="eyebrow">Resources</span>${u.topic.res.map((r) => (r.url ? `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><b>${esc(r.title)} ↗</b></a>` : `<div class="res"><b>${esc(r.title)}</b></div>`)).join("")}</section>`;
     h += `<button class="btn line sm" data-act="logk" data-k="${u.k}" style="justify-self:start">Log a session today</button>${rank[cs] < 2 ? `<button class="link xs" data-act="status" data-k="${u.k}" data-s="completed" style="justify-self:start">Already knows this? Mark it done</button>` : ""}`;
   }
   if (t === "plans") h += plansTab(u);

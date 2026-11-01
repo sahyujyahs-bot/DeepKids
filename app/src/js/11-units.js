@@ -1697,7 +1697,7 @@ function fxPractiseAll() {
   const U = fxRefs(),
     done = Object.keys(DATA.units || {}).filter((id) => rank[fxUnitSt("unit|" + id)] >= 2),
     R = S.fxRev || {},
-    L = learnedUnits().filter((u) => u.board !== "unit" && rank[coverage(u)] >= 2);
+    L = learnedUnits().filter((u) => u.board !== "unit" && rank[st(u.k)] >= 2);
   const due = (id) => {
     const r = R[id] || { n: 0 };
     const D = fxSt().done[id] || {},

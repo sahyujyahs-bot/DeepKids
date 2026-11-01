@@ -11,7 +11,7 @@ BOOK_TYPES = {"makes", "sudoku", "oddone", "riddles", "decode", "story", "read",
 TYPES = {"match", "circle", "fill", "sort", "label", "maze", "wordsearch", "crossword", "decode", "dots", "sequence", "draw", "table", "board", "numberline", "clocks", "talk"}
 def load(p):
     s = importlib.util.spec_from_file_location(os.path.basename(p)[:-3], p); m = importlib.util.module_from_spec(s); s.loader.exec_module(m); return m
-data = json.load(open(DATA)); keys = {i['k'] for i in data['items']} | {"dk|" + t['id'] for t in data['topics']}
+data = json.load(open(DATA)); keys = {i['k'] for i in data['items']}
 rc = {c['id']: c for c in data.get('rconcepts', [])}
 LVL, KIND = {"gentle", "core", "stretch"}, {"play", "make", "game", "think", "book"}
 tws, books, wtopics, cws, bad = {}, {}, {}, {}, []

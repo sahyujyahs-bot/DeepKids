@@ -418,8 +418,20 @@
       "Idli",
       "Rice",
       "Ragi mudde",
-      "Banana",
-      "Guava",
+      {
+       "f": "Banana",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-03.jpg",
+        "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Guava",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-04.jpg",
+        "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+       }
+      },
       "Keerai poriyal",
       "Poha",
       "Toor dal",
@@ -430,8 +442,20 @@
       "Curd",
       "Paneer",
       "Buttermilk",
-      "Ghee",
-      "Coconut",
+      {
+       "f": "Ghee",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-15.jpg",
+        "credit": "Midori, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Coconut",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-16.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
       "Peanuts",
       "Jaggery",
       "Til laddoo"
@@ -532,7 +556,13 @@
      "kind": "cards",
      "title": "8 food cards to cut out",
      "items": [
-      "Watermelon",
+      {
+       "f": "Watermelon",
+       "img": {
+        "src": "media/cards/nutrients-g2-1-00.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
       "Plain curd",
       "Ripe banana",
       "Raw rice",

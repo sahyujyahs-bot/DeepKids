@@ -64,62 +64,6 @@ function daySteps(u, n, tot) {
       };
     });
   }
-  if (u.board === "dk") {
-    const t = u.topic,
-      k = t.sub.length;
-    if (t.full)
-      return [
-        {
-          kind: "game",
-          label: "Lesson",
-          icon: "👑",
-          title: "The King's Doubt",
-          mins: cap,
-          html: `<p>${n === 1 ? "The Proclamation, setting your rules, and the first guests." : n === tot ? "The Nakkeeran challenge, the verdicts and the treats." : "The next investigation cards; check the lotus seeds and crystals."}</p>`,
-        },
-      ];
-    if (n === 1)
-      return [
-        {
-          kind: "read",
-          label: "Story",
-          icon: "📖",
-          title: "Start with the story",
-          mins: cap * 0.6,
-          html: `<p>${esc(t.summary)}</p>`,
-        },
-        {
-          kind: "learn",
-          label: "Wonder",
-          icon: "💡",
-          title: "Wonder together",
-          mins: cap * 0.4,
-          html: `<div class="ask">${esc(t.oneness)}</div>`,
-        },
-      ];
-    const i = Math.min(k - 1, Math.floor(((n - 2) * k) / Math.max(1, tot - 1)));
-    return n === tot
-      ? [
-          {
-            kind: "learn",
-            label: "Wrap up",
-            icon: "🎤",
-            title: "Teach it back",
-            mins: cap,
-            html: `<p>Your child teaches you the topic in five minutes.</p><div class="ask">${esc(t.oneness)}</div>`,
-          },
-        ]
-      : [
-          {
-            kind: "exp",
-            label: "Explore",
-            icon: "🧭",
-            title: t.sub[i].slice(0, 60) + (t.sub[i].length > 60 ? "…" : ""),
-            mins: cap,
-            html: `<p>${esc(t.sub[i])}</p><p class="small muted">${esc(HINT.sci)}</p>`,
-          },
-        ];
-  }
   const w = `${esc(u.book)}${chNo(u) ? ", " + chNo(u) : ""}`;
   const A =
     n === 1
@@ -214,26 +158,7 @@ function prepFor(u, n, tot) {
   if (u.c?.x?.prep) {
     L = u.c.x.prep.filter((p) => kinds.has(p[0]));
     if (n === 1) L = [["guide", 1, "Read this chapter's parent guide (3 min)", "Here, at the top of this list"], ...L];
-  } else if (u.board === "dk")
-    L = u.topic.full
-      ? [
-          [
-            "print",
-            2,
-            "Print The King's Doubt cards, rule scrolls and the comic parent guide",
-            "The DeepKids printables for topic A1",
-          ],
-          ["read", 1, "Read the parent guide comic once before you play", "The printed guide"],
-        ]
-      : [
-          [
-            "read",
-            1,
-            "Read the topic summary and the wonder prompt (5 min)",
-            "The topic page in this app (Topics → " + u.title + ")",
-          ],
-        ];
-  else L = (DATA.prepgen.prep[u.subj] || []).map((p) => [p[0], p[1], p[2], ncertWhere(u, p[3])]);
+  } else L = (DATA.prepgen.prep[u.subj] || []).map((p) => [p[0], p[1], p[2], ncertWhere(u, p[3])]);
   return L.map((p, i) => ({ id: `p|${u.k}|${n}|${i}`, kind: p[0], lead: p[1], task: p[2], where: p[3] }));
 }
 let _sess = null;
@@ -490,24 +415,6 @@ function buildDayPlan(date) {
         );
     }
   });
-  if (lessons.some((l) => !l.bonus) && plusOn() && S.subjects.includes("sci") && dkMinsOf() > 0) {
-    const pk = dkPick(date, lessons);
-    if (pk) {
-      const dur = dkMinsOf();
-      cur += +d.brk;
-      items.push({
-        id: "dkt",
-        at: place(dur),
-        dur,
-        who: "both",
-        kind: "dkt",
-        u: pk.u,
-        title: "DeepKids topic: " + pk.u.title,
-        sub: pk.why,
-        done: !!S.tl[date + "|dkt"],
-      });
-    }
-  }
   if (!lessons.length) {
     const rf = rfPlan(date);
     if (rf)
@@ -641,7 +548,7 @@ function myQuietTime(date, items, ev, d) {
 // breaks, lunch and rest times are not things to do
 const isTask = (i) => i.kind !== "brk" && i.kind !== "rest";
 // what a parent can drag into a different order on Today (classes, outings and prep keep their own times)
-const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "dkt", "mynote", "finish"]);
+const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "mynote", "finish"]);
 // A day's plan; today, snoozed items move to their new time, and a dragged order swaps the time slots
 function dayPlan(date) {
   const L = buildDayPlan(date);
@@ -1819,7 +1726,7 @@ function prepView() {
     groups
       .map(({ x, items }) => {
         const u = x.u,
-          g = u.c?.p?.summary || u.c?.x?.guide || (u.board !== "dk" ? DATA.prepgen.guide[u.subj] : u.topic?.summary);
+          g = u.c?.p?.summary || u.c?.x?.guide || DATA.prepgen.guide[u.subj];
         return `<section class="card ${SC(x.subj)}" style="gap:0"><div class="row" style="gap:8px;margin-bottom:4px"><span class="dotc"></span><span class="eyebrow">${SUBJ[x.subj]} · ${fmt(x.date)} · Part ${x.n} of ${x.tot}</span></div><h3 style="font-size:19px;margin-bottom:8px">${esc(u.title)}</h3>
    ${g ? `<details style="margin-bottom:6px" ${items.some((p) => p.kind === "guide") ? "open" : ""}><summary style="cursor:pointer;font-weight:500;color:var(--plum)">Parent guide</summary><p class="sm" style="margin-top:6px">${esc(g)}</p></details>` : ""}
    ${items.map((p) => `<div class="taskrow ${S.prep[p.id] ? "done" : ""}"><button class="ckb" data-act="prep" data-id="${p.id}" aria-label="Done: ${esc(p.task)}">${icon("check")}</button><div><b style="font-weight:500">${esc(p.task)}</b>${p.early ? ` <span class="pill learning">start early for ${fmt(x.date)}</span>` : ""}<p class="xs muted" style="margin-top:3px">From: ${esc(p.where)}</p></div></div>`).join("")}

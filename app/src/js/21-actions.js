@@ -2150,13 +2150,6 @@ function onAct(e) {
       openSheet({ mode: "qzs", k, n: +b.dataset.n });
       break;
     }
-    case "dkmin": {
-      const i = Math.max(0, DKSTEPS.indexOf(dkMinsOf()));
-      S.dkMins = DKSTEPS[Math.min(DKSTEPS.length - 1, Math.max(0, i + +b.dataset.d))];
-      sfx("tap");
-      commit();
-      break;
-    }
     case "lt": {
       navPush();
       ui.lt = b.dataset.t;

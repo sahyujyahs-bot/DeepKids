@@ -361,17 +361,6 @@ function qSend() {
   D_.questions = [];
   runDump();
 }
-function plusFor(u) {
-  const ids = new Set([
-    ...(u.dk || []),
-    ...(DATA.rconcepts || []).filter((c) => c.chapters.includes(u.k)).flatMap((c) => c.plus || []),
-  ]);
-  if (u.board === "dk") ids.delete(u.n);
-  return [...ids]
-    .map((id) => DATA.topics.find((t) => t.id === id))
-    .filter(Boolean)
-    .slice(0, 3);
-}
 let SAMPLE = null,
   ASSETS = null,
   IMGOK = false;

@@ -2,7 +2,6 @@
 import json, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 from sci_l1_data import T
-from boards import RES, WEEKS
 from catalog import *
 from ncert_evs_content import C as EVS
 from c3_daily import X as C3X
@@ -19,7 +18,7 @@ for f in sorted(glob.glob(os.path.join(HERE, "..", "content", "*", "*.json"))):
     if check_pack(f): print("skipping pack that fails validation:", os.path.relpath(f, HERE)); continue
     p = json.load(open(f)); PACKS[p["key"]] = {k: v for k, v in p.items() if k not in ("key", "board", "subj", "level", "n")}
 
-items = []  # every learnable unit: a board chapter/strand/theme, or a DeepKids topic
+items = []  # every learnable unit: a board chapter, strand or theme
 def add(**k): items.append(k)
 
 for (subj, lvl), (book, chs) in NCERT.items():
@@ -57,18 +56,9 @@ for f in sorted(glob.glob(os.path.join(RES_DIR, "*.json"))):
         u = r["url"].rstrip("/").lower()
         if u in _seen: continue
         _seen[u] = 1; RESOURCES.append({k: r[k] for k in ("title", "url", "source", "type", "ages", "access", "lang", "desc")} | {"concepts": r.get("concepts", []), "subj": r["subj"] if isinstance(r.get("subj"), list) else [r.get("subj", "sci")]} | ({"strands": r["strands"]} if r.get("strands") else {}) | ({"how": r["how"]} if r.get("how") else {}) | ({"chapters": r["chapters"]} if r.get("chapters") else {}))
-RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters", "plus")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
+RCONCEPTS = [{k: c[k] for k in ("id", "concept", "chapters")} for c in json.load(open(os.path.join(RES_DIR, "concepts.json")))]
 
-# Which classes each DeepKids topic is offered to. For now every EVS topic is open to Classes 1-5;
-# narrow a topic by listing it here, e.g. "B1": [4, 5].
-TOPIC_CLS = {}
-topics = []
-for t in T:
-    topics.append({"id": t["id"], "q": t["q"], "name": t["topic"], "sub": [s.strip("• ").strip() for s in t["subtopics"].split("\n") if s.strip()],
-                   "summary": t["summary"], "oneness": t["oneness"], "weeks": WEEKS[t["id"]], "full": t["id"] == "A1", "subj": "sci", "cls": TOPIC_CLS.get(t["id"], [1, 2, 3, 4, 5]),
-                   "res": [{"type": a, "title": b, "url": c} for a, b, c in RES.get(t["id"], [])]})
-
-data = {"resources": RESOURCES, "rconcepts": RCONCEPTS, "prepgen": {"guide": SUBJ_GUIDE, "prep": SUBJ_PREP}, "jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items, "topics": topics,
+data = {"resources": RESOURCES, "rconcepts": RCONCEPTS, "prepgen": {"guide": SUBJ_GUIDE, "prep": SUBJ_PREP}, "jokebook": JOKE_BOOK, "levels": {str(k): {"cls": v[0], "age": v[1]} for k, v in LEVELS.items()}, "subjects": SUBJECTS, "items": items,
         "notes": {"ncert": {f"{s}|{l}": n for (s, l), n in NCERT_NOTES.items()},
                   "nios": {**{s: f"NIOS {n}: Level A and B books to be added." for s, n in NIOS_PENDING.items()},
                            "sci|1": "NIOS starts at Level A, which is equivalent to Class 3.", "sci|2": "NIOS starts at Level A, which is equivalent to Class 3.",
@@ -119,4 +109,4 @@ for i, wdt in enumerate([8, 20, 32, 9, 7, 6, 70, 60], 1): ws2.column_dimensions[
 for i, wdt in enumerate([12, 12, 14, 34, 8], 1): ws3.column_dimensions[get_column_letter(i)].width = wdt
 for i, wdt in enumerate([6, 6, 4, 22, 40, 18, 60, 50, 45, 20, 50, 26, 34, 34, 26], 1): ws4.column_dimensions[get_column_letter(i)].width = wdt
 out = os.path.join(HERE, "..", "DeepKids_Board_Topics_Collated.xlsx"); wb.save(out)
-print(len(items), "items;", len(topics), "DeepKids topics; xlsx:", os.path.abspath(out))
+print(len(items), "items; xlsx:", os.path.abspath(out))

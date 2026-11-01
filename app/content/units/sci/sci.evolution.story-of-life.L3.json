@@ -615,7 +615,11 @@
       },
       {
        "f": "Stromatolites grow at Vempalle, in India",
-       "b": "Stromatolites grow at Vempalle, in India: about 2 billion years ago"
+       "b": "Stromatolites grow at Vempalle, in India: about 2 billion years ago",
+       "img": {
+        "src": "media/cards/story-of-life-g2-0-04.jpg",
+        "credit": "Shyamal L., CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "The first animals",
@@ -623,7 +627,11 @@
       },
       {
        "f": "The first land plants",
-       "b": "The first land plants: about 470 million years ago"
+       "b": "The first land plants: about 470 million years ago",
+       "img": {
+        "src": "media/cards/story-of-life-g2-0-06.jpg",
+        "credit": "Pranav Chandra Bose, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Dinosaurs die out",

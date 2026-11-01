@@ -8,7 +8,6 @@ const boardsOn = () =>
         ? S.boards
         : [S.board];
 const modeOf = () => S.mode || (S.board === "none" ? "plus" : S.plus ? "booksplus" : "books");
-const plusOn = () => modeOf() !== "books";
 let SHARED = { topics: [] };
 const genUnit = (g) => ({
   k: "gen|" + g.id,
@@ -32,32 +31,6 @@ function genUnits(subj, lvl) {
     )
     .map(genUnit);
 }
-// DeepKids topics (the big-question lessons) are Science. They join the plan by themselves on the DeepKids
-// track, Waldorf and DeepKids-only; board families follow their book, and can add any topic from the Library.
-function dkUnits(subj, lvl) {
-  if (subj !== "sci" || lvl !== S.levels[subj]) return [];
-  const ex = (S.extra || {})[subj] || [],
-    auto = ["combined", "waldorf", "none"].includes(S.board),
-    seen = new Set();
-  return DATA.topics
-    .filter(
-      (t) =>
-        ex.includes("dk|" + t.id) || (auto && (t.subj || "sci") === "sci" && (t.cls || [1, 2, 3, 4, 5]).includes(lvl)),
-    )
-    .filter((t) => !seen.has(t.id) && seen.add(t.id))
-    .map(dkUnit);
-}
-const dkUnit = (t) => ({
-  k: "dk|" + t.id,
-  board: "dk",
-  subj: "sci",
-  level: 1,
-  book: "DeepKids Science",
-  n: t.id,
-  title: t.name,
-  dk: [],
-  topic: t,
-});
 function collateAt(subj, lvl) {
   const bo = [...boardsOn()];
   if (
@@ -72,7 +45,6 @@ function collateAt(subj, lvl) {
       }
   return {
     board: DATA.items.filter((i) => i.subj === subj && i.level === lvl && bo.includes(i.board)),
-    dk: dkUnits(subj, lvl),
     gen: genUnits(subj, lvl),
     ex: addedUnits(subj, lvl),
   };
@@ -109,7 +81,6 @@ function planParts(subj, lvl) {
   const N = {
       combined: "DeepKids lessons",
       unit: "DeepKids topic units",
-      dk: "Extra DeepKids topics",
       gen: "Extra topics",
     },
     g = new Map();
@@ -136,12 +107,7 @@ function plannedAt(s, l) {
         }
       }),
     );
-    return orderUnits(
-      s,
-      fxExpand(base),
-      m === "books" ? [...c.ex, ...c.gen] : [...c.ex, ...c.dk, ...c.gen],
-      m === "plus" ? 1 : 2,
-    );
+    return orderUnits(s, fxExpand(base), [...c.ex, ...c.gen], m === "plus" ? 1 : 2);
   }
   const c = collateAt(s, l),
     m = modeOf();
@@ -154,7 +120,7 @@ function plannedAt(s, l) {
     }
   }
   if (boardsOn()[0] === "combined") base = fxTrack(base, s, l);
-  return orderUnits(s, base, m === "books" ? [...c.ex, ...c.gen] : [...c.ex, ...c.dk, ...c.gen], m === "plus" ? 1 : 2);
+  return orderUnits(s, base, [...c.ex, ...c.gen], m === "plus" ? 1 : 2);
 }
 function orderUnits(s, base, extra, every) {
   const later = (S.later || {})[s] || [],
@@ -199,23 +165,13 @@ const everyUnit = () =>
   S.subjects.flatMap((s) =>
     [1, 2, 3, 4, 5].flatMap((l) => {
       const c = collateAt(s, l);
-      return [...c.dk, ...c.board, ...c.gen, ...c.ex];
+      return [...c.board, ...c.gen, ...c.ex];
     }),
   );
 const unitBy = (k) => everyUnit().find((u) => u.k === k) || allUnits().find((u) => u.k === k);
 const st = (k) => (k.startsWith("unit|") ? fxUnitSt(k) : S.progress[k]?.status || "none");
 const done = (k) => (k.startsWith("unit|") ? fxSessionsDone(k) : S.progress[k]?.sessions || 0);
 const rank = { none: 0, learning: 1, completed: 2, mastered: 3 };
-function coverage(u) {
-  if (u.board !== "dk" && S.plus && u.dk.length) {
-    const s = u.dk.map((id) => st("dk|" + id)),
-      own = st(u.k);
-    if (s.every((x) => rank[x] >= 2)) return rank[own] > 2 ? own : "completed";
-    if (s.some((x) => x !== "none") || own !== "none") return rank[own] > 1 ? own : "learning";
-    return own;
-  }
-  return st(u.k);
-}
 const daysOf = (s) => S.days[s] || DEF_DAYS[s];
 const hpdOf = (s) => (S.hpd && S.hpd[s]) || DEF_HPD[s];
 const DEF_UNIT_H = {
@@ -232,9 +188,7 @@ const estHours = (u) =>
         ? +u.gen.hours || 3
         : u.c?.x?.hours
           ? u.c.x.hours.reduce((a, h) => a + h[1], 0)
-          : u.board === "dk"
-            ? u.topic.weeks * 2.25
-            : DEF_UNIT_H[u.board][u.subj];
+          : DEF_UNIT_H[u.board][u.subj];
 const hoursFor = (u) => S.hrs[u.k] ?? estHours(u);
 const sessionsFor = (u) =>
   u.board === "unit"
@@ -245,7 +199,7 @@ const sessionsFor = (u) =>
 function schedule(subj, limitDays = 420, fromTomorrow = false) {
   const q = [];
   plannedUnits(subj).forEach((u) => {
-    if (rank[coverage(u)] >= 2) return;
+    if (rank[st(u.k)] >= 2) return;
     const tot = sessionsFor(u);
     for (let i = Math.min(done(u.k), tot - 1); i < tot; i++) q.push({ u, n: i + 1, tot });
   });
@@ -270,7 +224,7 @@ function schedule(subj, limitDays = 420, fromTomorrow = false) {
 const nextUp = (s) => {
   const q = [];
   plannedUnits(s).forEach((u) => {
-    if (rank[coverage(u)] >= 2) return;
+    if (rank[st(u.k)] >= 2) return;
     const tot = sessionsFor(u);
     for (let i = Math.min(done(u.k), tot - 1); i < tot; i++) q.push({ u, n: i + 1, tot });
   });
@@ -282,12 +236,7 @@ function pinOrder(s, q) {
     P = q.filter((x) => x.u.k === pin),
     N = NX.flatMap((k) => q.filter((x) => x.u.k === k && x.u.k !== pin)),
     R = q.filter((x) => x.u.k !== pin && !NX.includes(x.u.k));
-  return [
-    ...P,
-    ...N,
-    ...R.filter((x) => coverage(x.u) === "learning"),
-    ...R.filter((x) => coverage(x.u) !== "learning"),
-  ];
+  return [...P, ...N, ...R.filter((x) => st(x.u.k) === "learning"), ...R.filter((x) => st(x.u.k) !== "learning")];
 }
 function logSession(u, kind) {
   if (u.board === "unit") {
@@ -325,7 +274,6 @@ function logSession(u, kind) {
     });
   }
   S.log = S.log.slice(0, 3000);
-  if (u.board === "dk") (PRESET_EXP[u.n] || []).forEach((t) => addExp(t, u.title));
 }
 function addExp(title, topic) {
   if (!S.exps.some((e) => e.title === title && !e.closed))
@@ -420,7 +368,6 @@ const BNAME = {
   cambridge: "Cambridge",
   nios: "NIOS",
   waldorf: "Waldorf",
-  dk: "DeepKids Plus",
   gen: "DeepKids",
 };
 function unitLabel(u) {
@@ -460,7 +407,7 @@ function chapterRank(u) {
 }
 function allUnits() {
   if (_all && _all.n === SHARED.topics.length + myBookItems().length) return _all.u;
-  const u = [...DATA.items, ...DATA.topics.map(dkUnit), ...SHARED.topics.map(genUnit), ...myBookItems()];
+  const u = [...DATA.items, ...SHARED.topics.map(genUnit), ...myBookItems()];
   _all = { n: SHARED.topics.length + myBookItems().length, u };
   return u;
 }
