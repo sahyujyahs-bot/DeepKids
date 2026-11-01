@@ -1,4 +1,8 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.changes.fire.L3/expl.0.jpg",
+  "credit": "David Whelan, CC BY 2.0, via Wikimedia Commons"
+ },
  "expl.10": {
   "src": "media/img/sci.changes.fire.L3/expl.10.jpg",
   "credit": "MarkBuckawicki, CC0, via Wikimedia Commons"
@@ -15,6 +19,10 @@
   "src": "media/img/sci.changes.fire.L3/expl.6.jpg",
   "credit": "Jamie Street jamie452, CC0, via Wikimedia Commons"
  },
+ "expl.9": {
+  "src": "media/img/sci.changes.fire.L3/expl.9.jpg",
+  "credit": "Scan made by Kogo, Public domain, via Wikimedia Commons"
+ },
  "flow.e1": {
   "src": "media/img/sci.changes.fire.L3/flow.e1.jpg",
   "credit": "Shan Sheehan, CC BY 2.0, via Wikimedia Commons"
@@ -23,9 +31,17 @@
   "src": "media/img/sci.changes.fire.L3/intro.jpg",
   "credit": "Richard W.M. Jones, Public domain, via Wikimedia Commons"
  },
+ "term.0": {
+  "src": "media/img/sci.changes.fire.L3/term.0.jpg",
+  "credit": "Jon Sullivan, Public domain, via Wikimedia Commons"
+ },
  "term.1": {
   "src": "media/img/sci.changes.fire.L3/term.1.jpg",
   "credit": "domdomegg, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.13": {
+  "src": "media/img/sci.changes.fire.L3/term.13.jpg",
+  "credit": "Jon Sullivan, Public domain, via Wikimedia Commons"
  },
  "term.6": {
   "src": "media/img/sci.changes.fire.L3/term.6.jpg",

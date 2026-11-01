@@ -544,11 +544,19 @@
      "items": [
       {
        "f": "An ice cube melts in a tumbler",
-       "b": "Same stuff. Water molecules move apart a little."
+       "b": "Same stuff. Water molecules move apart a little.",
+       "img": {
+        "src": "media/cards/bonds-g2-0-00.jpg",
+        "credit": "Cleiton Andrade Andrade from Alfenas, Brasil, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Water boils in a kettle",
-       "b": "Same stuff. Water molecules fly apart as steam."
+       "b": "Same stuff. Water molecules fly apart as steam.",
+       "img": {
+        "src": "media/cards/bonds-g2-0-01.jpg",
+        "credit": "Federico Cardoner, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Sugar dissolves in tea",
@@ -564,7 +572,11 @@
       },
       {
        "f": "A candle's wax melts and drips",
-       "b": "Same stuff. The drips harden into wax again."
+       "b": "Same stuff. The drips harden into wax again.",
+       "img": {
+        "src": "media/cards/bonds-g2-0-05.jpg",
+        "credit": "Kansieelina, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Wet clothes dry on the line",
@@ -584,7 +596,11 @@
       },
       {
        "f": "An iron gate goes rusty",
-       "b": "New stuff. Iron bonds with oxygen and makes rust."
+       "b": "New stuff. Iron bonds with oxygen and makes rust.",
+       "img": {
+        "src": "media/cards/bonds-g2-0-10.jpg",
+        "credit": "G Wayne Dwornik, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Milk sets into curd overnight",
@@ -596,7 +612,11 @@
       },
       {
        "f": "A gas stove burns with a blue flame",
-       "b": "New stuff. The gas bonds with oxygen and makes carbon dioxide and water."
+       "b": "New stuff. The gas bonds with oxygen and makes carbon dioxide and water.",
+       "img": {
+        "src": "media/cards/bonds-g2-0-13.jpg",
+        "credit": "ben britten from Melbourne, Australia, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A battery splits water into bubbles",

@@ -358,7 +358,11 @@
       },
       {
        "f": "Bath soap in water",
-       "b": "Soapy (base). Cabbage water turns blue-green."
+       "b": "Soapy (base). Cabbage water turns blue-green.",
+       "img": {
+        "src": "media/cards/acids-and-bases-g1-0-07.jpg",
+        "credit": "No machine-readable author provided. Lacrimosus assumed (based on copyright clai, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Detergent powder in water",

@@ -354,7 +354,11 @@
       },
       {
        "f": "A spider's web",
-       "b": "Made by living beings: spider silk is a protein"
+       "b": "Made by living beings: spider silk is a protein",
+       "img": {
+        "src": "media/cards/polymers-g1-0-07.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A jute bag",
