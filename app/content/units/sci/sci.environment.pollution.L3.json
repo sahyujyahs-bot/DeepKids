@@ -327,7 +327,13 @@
      "title": "24 cards to cut out: 12 source cards and 12 fix cards",
      "items": [
       "SOURCE: Burning dry leaves on the road",
-      "SOURCE: Burning rubbish and plastic",
+      {
+       "f": "SOURCE: Burning rubbish and plastic",
+       "img": {
+        "src": "media/cards/pollution-g1-0-01.jpg",
+        "credit": "Mike Prince from Bangalore, India, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "SOURCE: A diesel bus giving off black smoke",
       "SOURCE: Dust from a building site",
       "SOURCE: A mosquito coil burning in a closed bedroom",
