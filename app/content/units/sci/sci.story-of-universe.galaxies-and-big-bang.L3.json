@@ -361,15 +361,69 @@
      "title": "12 galaxy cards, each with a name, a shape and when its light set off",
      "items": [
       "THE MILKY WAY. Barred spiral. We live inside it. Light from its centre set off about 26,000 years ago.",
-      "LARGE MAGELLANIC CLOUD. Irregular. A small galaxy close to ours. Its light set off about 160,000 years ago.",
-      "SMALL MAGELLANIC CLOUD. Irregular. Another small galaxy close to ours. Its light set off about 200,000 years ago.",
-      "ANDROMEDA. Spiral, seen at a slant. Our nearest big neighbour. Its light set off about 2.5 million years ago.",
-      "THE CIGAR GALAXY (M82). Irregular, making new stars very fast. Its light set off about 12 million years ago.",
-      "THE PINWHEEL (M101). Spiral, seen from the top. Its light set off about 21 million years ago.",
-      "THE SOMBRERO (M104). Spiral, seen almost from the side. Its light set off about 28 million years ago.",
-      "THE WHIRLPOOL (M51). Spiral, with a small galaxy passing close. Its light set off about 31 million years ago.",
-      "M87. Giant elliptical, with a huge black hole in the middle. Its light set off about 55 million years ago.",
-      "THE CARTWHEEL. A ring-shaped galaxy, hit by a smaller galaxy. Its light set off about 500 million years ago.",
+      {
+       "f": "LARGE MAGELLANIC CLOUD. Irregular. A small galaxy close to ours. Its light set off about 160,000 years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-01.jpg",
+        "credit": "NASA/JPL-Caltech/STScI, public domain"
+       }
+      },
+      {
+       "f": "SMALL MAGELLANIC CLOUD. Irregular. Another small galaxy close to ours. Its light set off about 200,000 years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-02.jpg",
+        "credit": "NASA/JPL-Caltech/STScI, public domain"
+       }
+      },
+      {
+       "f": "ANDROMEDA. Spiral, seen at a slant. Our nearest big neighbour. Its light set off about 2.5 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "THE CIGAR GALAXY (M82). Irregular, making new stars very fast. Its light set off about 12 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-04.jpg",
+        "credit": "NASA/SOFIA/E. Lopez-Rodiguez; NASA/Spitzer/J. Moustakas et al., public domain"
+       }
+      },
+      {
+       "f": "THE PINWHEEL (M101). Spiral, seen from the top. Its light set off about 21 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-05.jpg",
+        "credit": "NASA/JPL-Caltech/ESA/STScI/CXC, public domain"
+       }
+      },
+      {
+       "f": "THE SOMBRERO (M104). Spiral, seen almost from the side. Its light set off about 28 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-06.jpg",
+        "credit": "NASA/STScI/AURA, public domain"
+       }
+      },
+      {
+       "f": "THE WHIRLPOOL (M51). Spiral, with a small galaxy passing close. Its light set off about 31 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-07.jpg",
+        "credit": "X-ray: NASA/CXC; UV: NASA/JPL-Caltech; Optical: NASA/ESA/STScI/AURA; IR: NASA/JPL-Caltech/ Univ. of Ariz., public domain"
+       }
+      },
+      {
+       "f": "M87. Giant elliptical, with a huge black hole in the middle. Its light set off about 55 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-08.jpg",
+        "credit": "NASA/JPL-Caltech/IPAC/Event Horizon Telescope Collaboration, public domain"
+       }
+      },
+      {
+       "f": "THE CARTWHEEL. A ring-shaped galaxy, hit by a smaller galaxy. Its light set off about 500 million years ago.",
+       "img": {
+        "src": "media/cards/galaxies-and-big-bang-g1-0-09.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
+      },
       "AUDFs01. Small and faint, seen by India's AstroSat. Its light set off about 9.3 billion years ago.",
       "JADES-GS-z14-0. A tiny young galaxy seen by the Webb telescope. Its light set off about 13.5 billion years ago."
      ]

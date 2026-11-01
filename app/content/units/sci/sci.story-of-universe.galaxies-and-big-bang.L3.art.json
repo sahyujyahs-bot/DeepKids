@@ -1,4 +1,16 @@
 {
+ "flow.a1": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/flow.a1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/flow.e2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/setup.e1.0.jpg",
   "drawn": true
@@ -26,5 +38,37 @@
  "setup.e2.2": {
   "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/summary.jpg",
+  "credit": "NASA/JPL-Caltech/SSC, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.0.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.11": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.11.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.12.jpg",
+  "credit": "NASA/JPL-Caltech/UCLA, public domain"
+ },
+ "term.2": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.3": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.5": {
+  "src": "media/img/sci.story-of-universe.galaxies-and-big-bang.L3/term.5.jpg",
+  "credit": "NASA, public domain"
  }
 }

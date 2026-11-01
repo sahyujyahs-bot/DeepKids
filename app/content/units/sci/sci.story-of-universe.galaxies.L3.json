@@ -1121,7 +1121,11 @@
       },
       {
        "f": "The Earth",
-       "b": "Number 7 of 12, counting from the smallest"
+       "b": "Number 7 of 12, counting from the smallest",
+       "img": {
+        "src": "media/cards/galaxies-g1-0-06.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The solar system",
@@ -1141,7 +1145,11 @@
       },
       {
        "f": "The universe",
-       "b": "Number 12 of 12, counting from the smallest"
+       "b": "Number 12 of 12, counting from the smallest",
+       "img": {
+        "src": "media/cards/galaxies-g1-0-11.jpg",
+        "credit": "NASA, public domain"
+       }
       }
      ]
     },

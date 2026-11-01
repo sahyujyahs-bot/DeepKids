@@ -1,4 +1,20 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/expl.1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.3": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/expl.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/flow.a4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.story-of-universe.galaxies.L3/setup.e1.0.jpg",
   "drawn": true
@@ -30,5 +46,29 @@
  "setup.e2.3": {
   "src": "media/img/sci.story-of-universe.galaxies.L3/setup.e2.3.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/summary.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/term.0.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/term.4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.5": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/term.5.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.6": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/term.6.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.7": {
+  "src": "media/img/sci.story-of-universe.galaxies.L3/term.7.jpg",
+  "credit": "NASA, public domain"
  }
 }

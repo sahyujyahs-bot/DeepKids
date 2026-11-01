@@ -382,7 +382,13 @@
      "kind": "cards",
      "title": "32 cards to cut out",
      "items": [
-      "GREEN: banana peel",
+      {
+       "f": "GREEN: banana peel",
+       "img": {
+        "src": "media/cards/compost-and-disposal-g1-0-00.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
+      },
       "GREEN: tomato skins",
       "GREEN: onion skins",
       "GREEN: used tea leaves",

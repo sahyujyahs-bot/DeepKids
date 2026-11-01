@@ -941,23 +941,43 @@
      "items": [
       {
        "f": "The Moon",
-       "b": "Escape speed: about 2 and a half kilometres a second"
+       "b": "Escape speed: about 2 and a half kilometres a second",
+       "img": {
+        "src": "media/cards/black-holes-g1-0-00.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Mars",
-       "b": "Escape speed: about 5 kilometres a second"
+       "b": "Escape speed: about 5 kilometres a second",
+       "img": {
+        "src": "media/cards/black-holes-g1-0-01.jpg",
+        "credit": "JPL/NASA/STScI, public domain"
+       }
       },
       {
        "f": "The Earth",
-       "b": "Escape speed: about 11 kilometres a second"
+       "b": "Escape speed: about 11 kilometres a second",
+       "img": {
+        "src": "media/cards/black-holes-g1-0-02.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Jupiter",
-       "b": "Escape speed: about 60 kilometres a second"
+       "b": "Escape speed: about 60 kilometres a second",
+       "img": {
+        "src": "media/cards/black-holes-g1-0-03.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
       },
       {
        "f": "The Sun",
-       "b": "Escape speed: about 620 kilometres a second"
+       "b": "Escape speed: about 620 kilometres a second",
+       "img": {
+        "src": "media/cards/black-holes-g1-0-04.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "A black hole, at its edge",
