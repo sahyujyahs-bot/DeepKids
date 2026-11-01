@@ -13,29 +13,34 @@
   const plusOn=()=>!!plus.until&&new Date(plus.until)>new Date();
 
   /* ---------- sign-in screen ---------- */
-  const css=`.dkg{min-height:100vh;display:grid;place-items:center;padding:24px;background:#FFF6EC;font-family:system-ui,sans-serif;color:#2B2340}
-   .dkg .box{max-width:380px;width:100%;display:grid;gap:16px;text-align:center}.dkg h1{font-size:30px;margin:0}.dkg p{margin:0;line-height:1.5;color:#5d5670}
+  const css=`.dkg{min-height:100vh;display:grid;place-items:center;padding:24px 18px;background:#FFF6EC;font-family:system-ui,sans-serif;color:#2B2340}
+   .dkg .box{max-width:400px;width:100%;display:grid;gap:16px;text-align:center}.dkg p{margin:0;line-height:1.5;color:#5d5670}
+   .dkg h1{font-size:28px;margin:0}.dkg .lead{font-size:17px;font-weight:600;color:#2B2340;margin-top:-8px}.dkg .who{font-size:14.5px;margin-top:-10px}
    .dkg button{display:flex;gap:10px;align-items:center;justify-content:center;width:100%;padding:14px 18px;border-radius:16px;border:2px solid rgba(43,35,64,.15);background:#fff;font:600 17px system-ui,sans-serif;cursor:pointer;color:#2B2340}
    .dkg button:active{transform:scale(.98)}.dkg .err{color:#b03a2e;font-size:14px}.dkg small{color:#776f8a;font-size:12.5px;line-height:1.5}
-   .dkg .pics{position:relative;aspect-ratio:3/2;border-radius:24px;overflow:hidden;background:#e9dcc8}
-   .dkg .pics img,.dkg .feat>div{opacity:0;animation:dkpic 20s infinite}
-   .dkg .pics img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-   .dkg .feat{display:grid;min-height:76px}.dkg .feat>div{grid-area:1/1;font-size:15px;line-height:1.5;color:#5d5670}.dkg .feat b{display:block;font-size:17px;margin-bottom:4px;color:#2B2340}
-   @keyframes dkpic{0%{opacity:0}3%,24%{opacity:1}27%,100%{opacity:0}}`;
-  /* what each sign-in picture says, shown with it */
+   .dkg .swipe{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;margin:0 -18px;padding:0 18px}.dkg .swipe::-webkit-scrollbar{display:none}
+   .dkg .slide{flex:0 0 100%;scroll-snap-align:center;display:grid;gap:12px;align-content:start}
+   .dkg .slide img{width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:24px;background:#e9dcc8;display:block}
+   .dkg .slide p{font-size:15px;padding:0 4px}.dkg .slide b{display:block;font-size:17px;margin-bottom:4px;color:#2B2340}
+   .dkg .dots{display:flex;align-items:center;gap:7px;justify-content:center;margin-top:-4px}.dkg .dots i{width:7px;height:7px;border-radius:50%;background:rgba(43,35,64,.2)}.dkg .dots i.on{background:#2B2340;width:20px;border-radius:4px}`;
+  /* what DeepKids does: one picture and its words per slide, swiped by hand */
   const FEATS=[
-    ["journey","Your days, planned for you","Tell it your week: classes, outings, chores. It plans each day and tracks what's done, so nothing slips."],
-    ["family","Real understanding, not rote","Experiments with things at home, stories and big questions for every topic."],
-    ["schools","Your board, or go deeper","NCERT, Cambridge or NIOS, Classes 1 to 5. Moving to a school later? Transcripts are ready."],
-    ["together","Printables and a Guru","Worksheets and games to print, and IAm, your DeepKids Guru, for every \"why?\""],
+    ["journey","A planner that plans for you","Each day it hands you the lessons and activities, and changes the plan when your week does. It tracks what your child learns from games, outings, activities and lessons."],
+    ["family","Everything for every topic","Games, stories, songs, experiments, flashcards, worksheets and big questions, all in one place. No more hours of searching."],
+    ["together","Built around what they love","Tell it your child's interests and it brings in topics from every subject. Badminton? Geometry and materials. Painting? Light, shadow and angles."],
+    ["schools","Your board, or the DeepKids path","NCERT, Cambridge or NIOS, Classes 1 to 5, or the deeper DeepKids path. Moving to a school later? Transcripts are ready."],
   ];
+  const GOOGLE=`<svg width="20" height="20" viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.6 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.6 15.1 18.9 12 24 12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>Continue with Google`;
   function signInScreen(msg){
-    document.body.innerHTML=`<style>${css}</style><div class="dkg"><div class="box"><div class="pics">${FEATS.map(([n],i)=>`<img src="/media/ui/intro-${n}.jpg" alt="" style="animation-delay:${i*5}s">`).join("")}</div><h1>DeepKids Gurukul</h1><p>THE homeschooling app for Indian families with children aged 6 to 10.</p>
-      <div class="feat">${FEATS.map(([,t,d],i)=>`<div style="animation-delay:${i*5}s"><b>${t}</b>${d}</div>`).join("")}</div>
-      ${ready?`<button id="dkGoogle"><svg width="20" height="20" viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.6 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.6 15.1 18.9 12 24 12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>Continue with Google</button>`:`<p class="err">This site isn't connected to its database yet. Fill in web/public/config.js (see web/SETUP.md).</p>`}
+    document.body.innerHTML=`<style>${css}</style><div class="dkg"><div class="box"><h1>DeepKids Gurukul</h1><p class="lead">The only app homeschooling parents need.</p><p class="who">For Indian families with children aged 6 to 10.</p>
+      <div class="swipe">${FEATS.map(([n,t,d])=>`<div class="slide"><img src="/media/ui/intro-${n}.jpg" alt=""><p><b>${t}</b>${d}</p></div>`).join("")}</div>
+      <div class="dots">${FEATS.map((f,i)=>`<i${i?"":' class="on"'}></i>`).join("")}</div>
+      ${ready?`<button id="dkGoogle" class="dkgo">${GOOGLE}</button>`:`<p class="err">This site isn't connected to its database yet. Fill in web/public/config.js (see web/SETUP.md).</p>`}
       ${msg?`<p class="err">${msg}</p>`:""}
       <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div></div>`;
-    const b=$("#dkGoogle");if(b)b.onclick=async()=>{b.disabled=true;try{await sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}})}catch(e){signInScreen("Couldn't start Google sign-in. Try again.")}};
+    const sw=$(".swipe");sw.onscroll=()=>{const k=Math.round(sw.scrollLeft/sw.clientWidth);document.querySelectorAll(".dots i").forEach((d,i)=>d.classList.toggle("on",i===k))};
+    document.querySelectorAll(".dkgo").forEach(x=>x.onclick=async()=>{x.disabled=true;try{await sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}})}catch(e){signInScreen("Couldn't start Google sign-in. Try again.")}});
+    const b=$("#dkGoogle");
     // Google's own button signs in through a pop-up, which comes back blank on phones (most of all from the home-screen
     // app), so phones use the plain button: the whole page goes to Google and comes back signed in
     const phone=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||matchMedia("(display-mode: standalone)").matches;
