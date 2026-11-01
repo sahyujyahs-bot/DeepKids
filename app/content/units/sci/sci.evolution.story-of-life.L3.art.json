@@ -13,7 +13,7 @@
  },
  "intro": {
   "src": "media/img/sci.evolution.story-of-life.L3/intro.jpg",
-  "drawn": true
+  "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
  },
  "setup.e1.0": {
   "src": "media/img/sci.evolution.story-of-life.L3/setup.e1.0.jpg",
@@ -41,7 +41,7 @@
  },
  "summary": {
   "src": "media/img/sci.evolution.story-of-life.L3/summary.jpg",
-  "credit": "haemanthus, CC BY, via iNaturalist"
+  "drawn": true
  },
  "term.14": {
   "src": "media/img/sci.evolution.story-of-life.L3/term.14.jpg",
