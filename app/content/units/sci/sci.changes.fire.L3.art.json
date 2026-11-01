@@ -31,6 +31,34 @@
   "src": "media/img/sci.changes.fire.L3/intro.jpg",
   "credit": "Richard W.M. Jones, Public domain, via Wikimedia Commons"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.changes.fire.L3/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.changes.fire.L3/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.changes.fire.L3/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.changes.fire.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.changes.fire.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e3.0": {
+  "src": "media/img/sci.changes.fire.L3/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.changes.fire.L3/setup.e3.1.jpg",
+  "drawn": true
+ },
  "term.0": {
   "src": "media/img/sci.changes.fire.L3/term.0.jpg",
   "credit": "Jon Sullivan, Public domain, via Wikimedia Commons"
