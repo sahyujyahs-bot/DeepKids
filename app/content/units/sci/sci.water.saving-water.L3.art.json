@@ -1,4 +1,24 @@
 {
+ "expl.11": {
+  "src": "media/img/sci.water.saving-water.L3/expl.11.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.water.saving-water.L3/flow.a2.jpg",
+  "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.water.saving-water.L3/flow.a4.jpg",
+  "credit": "Aruna Gamuz, CC0, via iNaturalist"
+ },
+ "flow.e1": {
+  "src": "media/img/sci.water.saving-water.L3/flow.e1.jpg",
+  "credit": "Vanadict, CC0, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.water.saving-water.L3/intro.jpg",
+  "credit": "Willem van Aken, CSIRO, CC BY 3.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.water.saving-water.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +54,9 @@
  "setup.e3.2": {
   "src": "media/img/sci.water.saving-water.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.water.saving-water.L3/term.3.jpg",
+  "credit": "Chiome-gold, CC0, via Wikimedia Commons"
  }
 }

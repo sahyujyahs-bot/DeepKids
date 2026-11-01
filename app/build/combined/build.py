@@ -37,7 +37,7 @@ for subj, uni in (('sci', U),):
                     "n": t['id'], "title": p['title'], "dk": t['dk'] if isinstance(t['dk'], list) else [t['dk']] if t['dk'] else [],
                     "c": {"covers": "; ".join(f"{BN[x['b']]} {x['ref']} {x['title']}" for x in boards), "boards": boards, "topic": t['title'],
                           "p": {k: v for k, v in p.items() if k not in ('key', 'board', 'subj', 'level', 'n')}}})
-            plan[subj].setdefault(str(cls), []).append({"topic": t['id'], "title": t['title'], "dk": t['dk'], "boards": boards,
+            plan[subj].setdefault(str(cls), []).append({"topic": t['id'], "title": t['title'], "dk": t['dk'], "boards": boards, "ch": r['chapters'],
                                                         **({"k": key} if p else {"use": use})})
 # spread topics: take one rung from each part of the topic list in turn (life, matter, earth and space, forces, body...)
 for subj in plan:
@@ -190,6 +190,32 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
                 if it.get('k') == e.get('k') and ref not in it['c'].setdefault('units', []): it['c']['units'].append(ref)
             break
     else: print('no rung for unit', u['id'])
+# a unit at a new level with no pictures yet borrows the card picture of the same subtopic at another level
+for i, x in data['units'].items():
+    if not x.get('pic'):
+        x['pic'] = next((y['pic'] for j, y in data['units'].items() if y.get('pic') and j.rsplit('.', 1)[0] == i.rsplit('.', 1)[0]), '')
+# a class-plan topic with no unit at its own class links to the units its board chapters link to (so it gets their picture)
+CU = {i['k']: (i.get('c') or {}).get('units', []) for i in data['items']}
+STOP = {'where', 'from', 'came', 'what', 'with', 'their', 'that', 'this', 'world', 'stories'}
+for subj in plan:
+    for L in plan[subj].values():
+        for e in L:
+            ch = e.pop('ch', [])
+            if e.get('units'): continue
+            refs = [r for k in ch for r in CU.get(k, [])]
+            ws = set(re.findall(r'[a-z]{4,}', e['title'].lower())) - STOP
+            if not refs:   # a DeepKids-only topic (no board chapters): the units of the same topic, by name
+                pre = slug(e['title'].split(':')[0])
+                refs = [{"id": i, "title": x['title']} for i, x in data['units'].items()
+                        if slug(x['topic'].split(':')[0]) == pre or len(ws & (set(re.findall(r'[a-z]{4,}', (x['topic'] + ' ' + x['title']).lower())) - STOP)) >= 2]
+            refs = [r for i, r in enumerate(refs) if r not in refs[:i]]
+            # the closest unit first, so the topic gets its picture
+            refs.sort(key=lambda r: -len(ws & (set(re.findall(r'[a-z]{4,}', (data['units'][r['id']]['topic'] + ' ' + r['title']).lower())) - STOP)) if r['id'] in data['units'] else 0)
+            if refs:
+                e['units'] = refs
+                for it in data['items']:
+                    if it.get('k') == e.get('k'):
+                        it.setdefault('c', {})['units'] = refs
 print('units:', len(data['units']))
 # songs: lyrics, chords, sheet music (ABC) and the backing track, embedded so the artifact can play them too
 import base64

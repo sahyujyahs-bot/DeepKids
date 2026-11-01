@@ -8165,7 +8165,7 @@ function combinedCard(e) {
     n = u.c?.p?.days?.length;
   return unitCard({
     act: `data-act="chapter" data-k="${esc(u.k)}"`,
-    pic: unitPic(e.units?.[0]?.id || u.subj),
+    pic: unitPic((e.units || []).find((x) => DATA.units?.[x.id]?.pic)?.id || u.subj),
     title: u.title,
     gist: firstSentence(u.c?.p?.summary),
     tag: shortRef(e.boards || []),
