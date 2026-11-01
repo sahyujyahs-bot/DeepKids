@@ -622,7 +622,13 @@
       },
       "WORD: Brittle",
       "TEST: Bend it too far. It snaps into pieces.",
-      "EXAMPLE: A glass bangle (Brittle)",
+      {
+       "f": "EXAMPLE: A glass bangle (Brittle)",
+       "img": {
+        "src": "media/cards/properties-g1-0-14.jpg",
+        "credit": "meenakshi madhavan from New Delhi, india, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "WORD: Strong",
       "TEST: Hang weights from it. It holds a lot before it tears.",
       "EXAMPLE: A jute rope (Strong)",
@@ -637,7 +643,13 @@
       "EXAMPLE: A steel plate (Opaque)",
       "WORD: Waterproof",
       "TEST: Drip water on it. The drop stays on top.",
-      "EXAMPLE: A plastic raincoat (Waterproof)",
+      {
+       "f": "EXAMPLE: A plastic raincoat (Waterproof)",
+       "img": {
+        "src": "media/cards/properties-g1-0-29.jpg",
+        "credit": "B. Kroll, Public domain, via Wikimedia Commons"
+       }
+      },
       "WORD: Absorbent",
       "TEST: Drip water on it. The drop soaks in.",
       "EXAMPLE: A paper towel (Absorbent)",
@@ -788,7 +800,13 @@
       "Glass: hard 5, flexible 0, transparent 5, absorbent 0, strong 2",
       "Clear plastic: hard 2, flexible 3, transparent 4, absorbent 0, strong 3",
       "Wood: hard 3, flexible 1, transparent 0, absorbent 2, strong 4",
-      "Bamboo: hard 3, flexible 3, transparent 0, absorbent 1, strong 4",
+      {
+       "f": "Bamboo: hard 3, flexible 3, transparent 0, absorbent 1, strong 4",
+       "img": {
+        "src": "media/cards/properties-g2-0-06.jpg",
+        "credit": "Jyotsna Nag, CC BY, via iNaturalist"
+       }
+      },
       "Cotton cloth: hard 1, flexible 5, transparent 1, absorbent 5, strong 3",
       "Wool: hard 1, flexible 5, transparent 0, absorbent 4, strong 2",
       "Newspaper: hard 1, flexible 4, transparent 1, absorbent 4, strong 1",
@@ -800,10 +818,22 @@
         "credit": "Dean Hochman, CC BY 2.0, via Wikimedia Commons"
        }
       },
-      "Granite: hard 5, flexible 0, transparent 0, absorbent 0, strong 2",
+      {
+       "f": "Granite: hard 5, flexible 0, transparent 0, absorbent 0, strong 2",
+       "img": {
+        "src": "media/cards/properties-g2-0-12.jpg",
+        "credit": "Sisters.seamless, CC0, via Wikimedia Commons"
+       }
+      },
       "Brick: hard 4, flexible 0, transparent 0, absorbent 3, strong 2",
       "Clay pot: hard 3, flexible 0, transparent 0, absorbent 3, strong 1",
-      "Diamond: hard 5, flexible 0, transparent 5, absorbent 0, strong 4"
+      {
+       "f": "Diamond: hard 5, flexible 0, transparent 5, absorbent 0, strong 4",
+       "img": {
+        "src": "media/cards/properties-g2-0-15.jpg",
+        "credit": "Tõnu Pani, CC BY 4.0, via Wikimedia Commons"
+       }
+      }
      ]
     }
    ],

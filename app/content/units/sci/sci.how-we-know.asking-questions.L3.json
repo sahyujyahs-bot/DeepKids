@@ -41,7 +41,7 @@
   },
   {
    "term": "Prediction",
-   "meaning": "A guess about what will happen, made before you test, with a reason. 'I think the lemon slice will stay pale, because Amma puts lemon on cut apples' is a prediction with a reason.",
+   "meaning": "A guess about what will happen, made before you test, with a reason. 'I think the lemon slice will stay pale, because cooks squeeze lemon on cut fruit' is a prediction with a reason.",
    "example": "Before cutting the apple, Arjun predicts that the slice under water will stay pale longest.",
    "art": "A child writing a guess on a slip of paper and folding it, before an apple is cut."
   },
@@ -164,7 +164,7 @@
    "definition": "A record made at the time of looking is evidence. A memory, recalled later, can change without our noticing.",
    "description": "People often remember things wrongly, even things they saw clearly. Our memory fills gaps with what we expect, and our first guess can colour what we think we saw. Two people who watched the same thing often remember it differently. A record written at the moment you look does not change afterwards. It also lets someone else check your work, because they can read exactly what you saw and when. That is why every scientist keeps a notebook, and why Tycho Brahe wrote down every measurement he made.",
    "examples": [
-    "After an hour, ask someone what colour the plain slice was at the start. Then show them the first drawing. Many people remember it as darker than it was.",
+    "After an hour, ask someone what colour the plain slice was at the start. Then show them the first drawing. Often the memory and the drawing do not match.",
     "Two cricket fans watching the same catch often argue about whether it touched the ground. The replay settles it, because it is a record.",
     "A doctor writes your temperature on a chart each time, rather than trusting how hot your forehead felt yesterday."
    ],
@@ -179,7 +179,7 @@
    "description": "An apple is made of millions of tiny cells. Inside them are colourless substances, and in other parts of the cells there is an enzyme, a helper that speeds up one change. In a whole apple, these are kept apart, so the flesh stays cream. A knife breaks the cells, the two mix, and the oxygen in the air joins in. The brown appears first where the air touches the cut face. Under water, much less oxygen reaches the slice, so it browns slowly. Lemon juice is sour, or acidic, and this enzyme works slowly in acid. Lemon juice also has vitamin C, which undoes the first step of the browning. Cold slows the enzyme too, so a slice in the fridge browns more slowly. A brown apple slice is not rotten. It is safe to eat, though it may taste a little different.",
    "examples": [
     "A cut potato, a cut brinjal and a peeled banana brown for the same reason.",
-    "Many cooks drop cut brinjal or potato into a bowl of water until they are ready to cook it.",
+    "Many cooks drop cut brinjal (baingan, begun, kathirikai), potato or raw banana into a bowl of water until they are ready to cook it.",
     "A bitten apple browns around the tooth marks first, where the cells were broken."
    ],
    "perspectives": [],
@@ -192,7 +192,7 @@
    "description": "An apple tree's fruit faces real problems. Insects bite into it, birds peck it, and germs, such as fungi and bacteria, try to get in through any wound. Many scientists think the browning is part of the fruit's defence. The brown substances, and the ones made just before them, can harm germs and insects and seal the wound a little, rather like a scab. In one experiment, tomato plants made to have less of this enzyme were harmed more by disease. But this is still being studied, and the enzyme may have other jobs in the plant too.",
    "examples": [
     "Scientists have made a kind of apple that hardly browns, by switching off the gene for this enzyme.",
-    "Tea leaves and coffee beans turn brown by a similar change, and people use it on purpose to give them their flavour and colour."
+    "Black tea is made by crushing tea leaves and letting them turn brown by a similar change. People do this on purpose, for the flavour and colour."
    ],
    "perspectives": [
     {
@@ -381,7 +381,6 @@
    "title": "Spot the Change: memory or record?",
    "mins": 15,
    "players": [
-    "alone with a parent",
     "with a parent",
     "with friends"
    ],
@@ -391,7 +390,15 @@
      "kind": "board",
      "title": "A tray grid: a sheet with 9 squares to lay things on",
      "items": [
-      "A sheet of paper with 9 squares drawn in 3 rows of 3, each square about the size of a palm"
+      "Square 1",
+      "Square 2",
+      "Square 3",
+      "Square 4",
+      "Square 5",
+      "Square 6",
+      "Square 7",
+      "Square 8",
+      "Square 9"
      ]
     },
     {
@@ -406,7 +413,7 @@
       "Turn the spoon to point the other way",
       "Open or close the box",
       "Put the coin on its other side",
-      "Roll the rubber band into a ball",
+      "Roll the rubber band into a ball, or unroll it",
       "Swap a thing for one that looks almost the same",
       "Move one thing a little, inside its square",
       "Change nothing at all (a trick card)"
@@ -416,20 +423,24 @@
      "kind": "score sheet",
      "title": "Score sheet",
      "items": [
-      "Round",
-      "Memory round: changes found",
-      "Drawing round: changes found",
-      "Changes really made"
+      "Memory round 1: changes found ___ of changes made ___",
+      "Memory round 2: changes found ___ of changes made ___",
+      "Memory round 3: changes found ___ of changes made ___",
+      "Drawing round 1: changes found ___ of changes made ___",
+      "Drawing round 2: changes found ___ of changes made ___",
+      "Drawing round 3: changes found ___ of changes made ___",
+      "Memory rounds: total found ___",
+      "Drawing rounds: total found ___"
      ]
     }
    ],
    "rules": [
-    "Lay 7 small things from home on the tray grid: for example a steel spoon, a one-rupee coin, a pencil, a bindi packet, a rubber band, a matchbox and a button.",
+    "Lay 7 small things from home on the tray grid, one in each of 7 squares: for example a steel spoon, a one-rupee coin, a pencil, a bangle, a rubber band, a matchbox and a button.",
     "Memory round: the looker studies the tray for 30 seconds, then turns away. The changer picks 2 change cards and makes those changes. The looker turns back and says what changed.",
-    "Drawing round: the looker studies the tray for 30 seconds and draws a quick map of it on the 9 squares, with arrows for which way things point. Then the changer makes 2 new changes. The looker checks the tray against the drawing.",
-    "Score 1 point for each change found. Write the scores on the score sheet.",
-    "Play 3 memory rounds and 3 drawing rounds, then compare the totals.",
-    "Playing alone with a parent: the parent is always the changer."
+    "Drawing round: the looker has 30 seconds to look at the tray and draw a quick map of it on a paper with 9 squares, with arrows for which way things point. Then the looker turns away and the changer makes 2 changes. The looker turns back and checks the tray against the drawing.",
+    "Score 1 point for each real change found. Saying a change that did not happen scores nothing. The trick card means only the other card's change is made.",
+    "After each round, the changer puts the tray back to its 7 things and the cards go to the bottom of the pile. Play 3 memory rounds and 3 drawing rounds, taking turns to be the changer. Then compare the totals.",
+    "With a parent: take turns being the changer. With 3 or 4 players: one is the changer, and all the others are lookers who each keep their own score. The changer changes every round. The game ends after the 6 rounds, and the shared question is which way found more changes."
    ],
    "flow": [
     {
@@ -455,17 +466,17 @@
      "do": "1. Play 3 memory rounds. 2. In each, the looker studies the tray for 30 seconds and turns away. 3. The changer makes the changes on 2 cards. 4. The looker says what changed. Write the score.",
      "say": "Look for 30 seconds. Now turn around. No peeking. Right, turn back. What changed?",
      "kid": "Look at the tray for 30 seconds. Turn around. Now look again. What changed? Say it out loud.",
-     "parent": "Use some easy changes and some small ones, like turning the coin over or moving a thing a little inside its square. Small changes are where memory fails. Use the trick card once. It is a fair test of whether the looker invents a change that never happened."
+     "parent": "Some changes are easy and some are small, like turning the coin over or moving a thing a little inside its square. Small changes are where memory fails. The trick card is a fair test of whether the looker invents a change that never happened."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Play 3 drawing rounds. 2. The looker studies the tray for 30 seconds and draws a quick map on paper, with arrows for which way things point. 3. The changer makes 2 changes. 4. The looker checks the tray against the drawing. Write the score.",
-     "say": "This time you can draw a quick map of the tray before you turn away. Show which way the spoon points and which side of the coin is up.",
-     "kid": "Now draw a quick map of the tray. Show which way things point. Turn around. Then check the tray against your drawing.",
+     "do": "1. Play 3 drawing rounds. 2. The looker looks at the tray and draws a quick map on a 9-square paper for 30 seconds. 3. The looker turns away and the changer makes 2 changes. 4. The looker checks the tray against the drawing. Write the score.",
+     "say": "This time you can draw a quick map of the tray while you look. Show which way the spoon points and which side of the coin is up.",
+     "kid": "Look at the tray and draw a quick map for 30 seconds. Show which way things point. Turn around. Then check the tray against your drawing.",
      "check": {
       "t": "mcq",
-      "q": "In the drawing rounds, most players catch more changes. Why?",
+      "q": "If your drawing rounds found more changes than your memory rounds, why might that be?",
       "options": [
        "Drawing makes your eyes sharper",
        "The drawing was made at the time and does not change, so you can check against it",
@@ -486,16 +497,16 @@
    ],
    "setup": [
     {
-     "art": "A sheet of paper with 9 squares, and 7 small household things on it: a steel spoon, a coin, a pencil, a bindi packet, a rubber band, a matchbox and a button.",
+     "art": "A sheet of paper with 9 squares, and 7 small household things on it: a steel spoon, a coin, a pencil, a bangle, a rubber band, a matchbox and a button.",
      "caption": "1. Lay 7 small things on the 9 squares."
     },
     {
-     "art": "A child turned away from the table with hands over their eyes, while a mother turns the spoon on the tray the other way.",
+     "art": "A child turned away from the table with hands over their eyes, while a parent turns the spoon on the tray the other way.",
      "caption": "2. The looker turns away. The changer makes 2 changes."
     },
     {
      "art": "A child holding up a quick pencil map of the tray next to the real tray, pointing at a coin that has been flipped.",
-     "caption": "3. In drawing rounds, check the tray against your map."
+     "caption": "3. In drawing rounds, look, draw, then check the tray against your map."
     }
    ]
   },
@@ -512,28 +523,88 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "20 question cards to cut out",
+     "title": "20 question cards to cut out (question on the front, the box it goes in on the back)",
      "items": [
-      "What colour is the inside of a cucumber? (One look)",
-      "How many legs does an ant have? (One look, with a hand lens)",
-      "Does our banana get more brown spots each day? (Long watch)",
-      "Does the Moon look the same shape every night? (Long watch)",
-      "How much does a moong sprout grow in a week? (Long watch)",
-      "When does the sunny patch reach the far wall of the room? (Long watch)",
-      "Does a cut apple brown faster in the fridge or on the table? (Test)",
-      "Does sugar dissolve faster in hot water or cold water? (Test)",
-      "Which of our chappals grips best on a wet floor? (Test)",
-      "Does a paper boat float longer if it is folded twice? (Test)",
-      "What did Paati eat for breakfast when she was a girl? (Ask)",
-      "How far away is the Sun? (Read)",
-      "How many crows land on our railing between 7 and 8 in the morning? (Long watch)",
-      "Is the steel tumbler colder than the wooden table? (One look and touch)",
-      "Does a curry leaf plant grow towards the window? (Long watch)",
-      "Does our tap drip faster at night? (Long watch)",
-      "Which dries faster on the clothesline, a thick towel or a thin cotton dupatta? (Test)",
-      "How many seeds are inside one tomato? (One look, and counting)",
-      "What will the weather be like on my birthday next year? (Hard to find out by looking)",
-      "What does a crow dream about? (Hard to find out by looking)"
+      {
+       "f": "What colour is the inside of a cucumber?",
+       "b": "One look: Cut it open and look."
+      },
+      {
+       "f": "How many legs does an ant have?",
+       "b": "One look: Look closely, with a hand lens if you have one."
+      },
+      {
+       "f": "Does our banana get more brown spots each day?",
+       "b": "Long watch: Look and count every day."
+      },
+      {
+       "f": "Does the Moon look the same shape every night?",
+       "b": "Long watch: Look every evening for a month."
+      },
+      {
+       "f": "How much does a moong sprout grow in a week?",
+       "b": "Long watch: Measure it every day."
+      },
+      {
+       "f": "When does the sunny patch reach the far wall of the room?",
+       "b": "Long watch: Check the patch every 15 minutes."
+      },
+      {
+       "f": "Does a cut apple brown faster in the fridge or on the table?",
+       "b": "Test: Compare two slices, one in each place."
+      },
+      {
+       "f": "Does sugar dissolve faster in hot water or cold water?",
+       "b": "Test: Compare two glasses, one hot and one cold."
+      },
+      {
+       "f": "Which of our chappals grips best on a wet floor?",
+       "b": "Test: Try each chappal on the same wet floor and compare."
+      },
+      {
+       "f": "Does a paper boat float longer if it is made from newspaper or from a page of a notebook?",
+       "b": "Test: Make two boats the same size and compare."
+      },
+      {
+       "f": "What did your grandmother, or an older person you know, eat for breakfast when they were a child?",
+       "b": "Ask or read: Ask an older person."
+      },
+      {
+       "f": "How far away is the Sun?",
+       "b": "Ask or read: Read it in a book. You cannot look or test this at home."
+      },
+      {
+       "f": "How many crows land on our railing between 7 and 8 in the morning?",
+       "b": "Long watch: Count them for the whole hour, on several days."
+      },
+      {
+       "f": "Does the steel tumbler feel colder than the wooden table?",
+       "b": "One look: Touch both. One touch is enough."
+      },
+      {
+       "f": "Does a curry leaf plant grow towards the window?",
+       "b": "Long watch: Look at it every few days for a few weeks."
+      },
+      {
+       "f": "Does our tap drip faster at night?",
+       "b": "Long watch: Count the drips for one minute, at several times of the day and night."
+      },
+      {
+       "f": "Which dries faster on the clothesline, a thick towel or a thin cotton dupatta?",
+       "b": "Test: Wet both the same amount and hang them side by side."
+      },
+      {
+       "f": "How many seeds are inside one tomato?",
+       "b": "One look: Cut it open and count."
+      },
+      {
+       "f": "What will the weather be like on my birthday next year?",
+       "b": "Hard to find out by looking: Nobody can look at next year's weather today."
+      },
+      {
+       "f": "What does a crow dream about?",
+       "b": "Hard to find out by looking: A crow cannot tell us, and we cannot look inside a dream."
+      }
      ]
     },
     {
@@ -549,18 +620,18 @@
     }
    ],
    "rules": [
-    "Shuffle the question cards and put them face down. Cover the answers in brackets with a strip of paper, or fold them under.",
+    "Shuffle the question cards and put them face down. The box and the answer are on the back, so keep the back hidden until the card is sorted.",
     "On your turn, pick up a card and read the question out loud.",
     "Put it in a box on the sorting mat, and say why. For a long watch, say how often you would look. For a test, say what you would compare.",
-    "The other players can agree or argue. Then check the answer in brackets.",
-    "Score 1 point for the right box, and 1 more for a good reason.",
-    "Some questions fit two boxes. If you can argue well for your box, you keep the point."
+    "The other players can agree or argue. Then turn the card over and check the back.",
+    "Score 1 point for the right box, and 1 more for a good reason. Some questions fit two boxes. If you can argue well for your box, you keep the point.",
+    "The game ends when all 20 cards are sorted. With 2 to 4 players, take turns; the most points wins. Playing alone, add up your points and try to beat them next time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay out the sorting mat. 2. Shuffle the 20 cards with the answers hidden.",
+     "do": "1. Lay out the sorting mat. 2. Shuffle the 20 cards with the backs hidden.",
      "say": "Every question has its own way of being answered. Some need one look. Some need a test. Some need watching over days. Let's sort them.",
      "kid": "Lay out the mat with five boxes. Mix up the cards. You will sort questions by how to find the answer.",
      "context": "This is the first step of One Look or Long Watch. It is a card game where you sort questions by the way you would find the answer."
@@ -570,7 +641,7 @@
      "mins": 3,
      "do": "Play the card 'Does our banana get more brown spots each day?' as a practice round.",
      "say": "Practice card. Does our banana get more brown spots each day? Which box?",
-     "kid": "Practice card. Does our banana get more brown spots each day? Which box? Tap your answer.",
+     "kid": "Practice card. Does our banana get more brown spots each day? Which box? Say your answer.",
      "check": {
       "t": "mcq",
       "q": "Does our banana get more brown spots each day? Which box does this go in?",
@@ -606,7 +677,7 @@
      "caption": "1. Lay out the mat and shuffle the cards."
     },
     {
-     "art": "A girl holding up a question card about a banana and placing it in the Long watch box while her mother listens.",
+     "art": "A girl holding up a question card about a banana and placing it in the Long watch box while a parent listens.",
      "caption": "2. Read a card, put it in a box and say why."
     }
    ]
@@ -618,7 +689,7 @@
    "title": "The Brown Apple Watch",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you plan a test, cut three apple slices, and watch them for an hour. One is left plain, one has lemon juice on it, and one is kept under water. Every 10 minutes you score and draw each slice.",
+   "context": "In this experiment you plan a test, cut three apple slices, and watch them for an hour. One is left plain, one has lemon juice on it, and one is kept under water. Every 10 minutes you score and draw each slice. You work for about 35 minutes, spread over an hour and a half.",
    "question": "Does a cut apple slice turn brown fastest in the open air, with lemon juice on it, or under water?",
    "predict": "Guess first. Which slice will turn brown fastest, and which will stay pale longest? Why do you think so? Write your guess and your reason before you cut the apple.",
    "fair_test": "Cut all three slices from the same apple, at the same time, about as thick as a pencil. Keep them in the same room, out of direct sun. Only one thing is different: plain, lemon or water. Score every slice at the same times, using the same colour scale and the same light.",
@@ -631,15 +702,15 @@
    ],
    "materials": [
     {
-     "item": "one apple, any kind (red Shimla or Kashmiri apples brown well)",
+     "item": "one apple, any kind (red apples from Himachal or Kashmir brown well)",
      "qty": 1
     },
     {
-     "item": "half a lemon",
+     "item": "half a lemon (or a lime)",
      "qty": 1
     },
     {
-     "item": "a steel bowl with a cup of water in it, and a small steel plate or katori that fits inside to keep a slice under water",
+     "item": "a steel bowl with a cup of water in it, and a small steel plate that fits inside the bowl and presses a slice under water",
      "qty": 1
     },
     {
@@ -667,11 +738,11 @@
      "qty": 1
     },
     {
-     "item": "a phone camera, if you have one (not needed)",
+     "item": "a phone camera, to photograph each look (optional)",
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the apple. The slices are safe to eat afterwards, even the brown one.",
+   "safety": "A grown-up cuts the apple.",
    "schedule": [
     {
      "day": 1,
@@ -757,11 +828,11 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Cut three slices from the same apple, each about as thick as a pencil. 2. Put one on the plate by the label 'plain'. 3. Rub lemon juice over both sides of the second, and put it by the label 'lemon'. 4. Put the third in the bowl of water, with the small plate on top to keep it under. 5. Write the time.",
+     "do": "1. Cut three slices from the same apple, each about as thick as a pencil. 2. Put one on the plate by the label 'plain'. 3. Rub lemon juice over both sides of the second, and put it by the label 'lemon'. 4. Put the third in the bowl of water, with the small plate on top to press it under the water. 5. Write the time.",
      "say": "Now I'll cut three slices quickly, so they all start at the same time. Lemon juice goes on this one. This one goes under water. Let's write the start time.",
      "kid": "A grown-up cuts three slices. Put one by 'plain'. Rub lemon on one. Put one under water. Write the time now.",
      "adult": true,
-     "parent": "Apple slices float, so the small plate or katori on top matters. Without it, the top of the slice sticks out into the air and browns. Cut fast, so all three start within a minute of each other."
+     "parent": "Apple slices float, so the small plate on top matters. Without it, the top of the slice sticks out into the air and browns. Cut fast, so all three start within a minute of each other."
     },
     {
      "id": "s3",
@@ -792,15 +863,15 @@
     {
      "id": "s5",
      "mins": 12,
-     "do": "1. Every 10 minutes, for an hour, score and draw all three slices. 2. Write the time and the scores in the table each time. 3. Between looks, do something else, like reading the Tycho Brahe card.",
+     "do": "1. Every 10 minutes, for an hour, score and draw all three slices. 2. Write the time and the scores in the table each time. 3. Between looks, do something else, like reading the explanation card 'Tycho Brahe's plan: is the new star near or far?'.",
      "say": "It's 10 minutes. Time to look again. Same light, same colour card. What scores now?",
      "kid": "Every 10 minutes, look again. Score each slice. Draw it. Write the time. Then go and do something else.",
-     "parent": "Each look takes about 2 minutes, so six looks take about 12 minutes, spread over an hour. Look in the same place and light each time. Light from a window changes through the day, so a lamp you switch on for each look gives the fairest light. If after an hour the plain slice still looks pale, your apple is a slow-browning kind. Leave it two more hours and look again, or try the same test with a slice of raw potato, which browns faster."
+     "parent": "Each look takes about 2 minutes, so six looks take about 12 minutes, spread over an hour. Look in the same place and light each time. Light from a window changes through the day, so a lamp you switch on for each look gives the fairest light. If after an hour the plain slice still looks pale, your apple is a slow-browning kind. Leave it two more hours and look again, and write that the apple browned slowly."
     },
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Lay the drawings side by side. 2. Ask your child to say what they think happened, what they saw, and why. 3. Read the explanation card on why a cut apple browns.",
+     "do": "1. Lay the drawings side by side. 2. Ask your child to say what they think happened, what they saw, and why. 3. Read the explanation card 'Why a cut apple turns brown'.",
      "say": "Let's lay the drawings in a row. Which slice browned fastest? What did your record show that staring didn't? Now, why do you think it happened?",
      "kid": "Look at your drawings in a row. Which slice went brown fastest? Was your guess right? Why do you think it happened?",
      "ask": [
@@ -830,8 +901,7 @@
      "mins": 2,
      "do": "Let your child taste a small bite of each slice, if they want to.",
      "say": "All three are safe to eat. Does the brown one taste different? Does the lemon one?",
-     "kid": "You can taste each slice. They are all safe. Does the brown one taste different?",
-     "think": "If nobody had looked at the apple for an hour, would it still have gone brown?"
+     "kid": "You can taste each slice. They are all safe. Does the brown one taste different?"
     }
    ],
    "setup": [
@@ -840,7 +910,7 @@
      "caption": "1. Make a colour card and a table. Write your guess."
     },
     {
-     "art": "A grown-up's hands cutting three apple slices, one placed on a plate, one being rubbed with half a lemon, one in a steel bowl of water under a small katori.",
+     "art": "A grown-up's hands cutting three apple slices, one placed on a plate, one being rubbed with half a lemon, one in a steel bowl of water under a small steel plate.",
      "caption": "2. Plain, lemon, and under water."
     },
     {
@@ -859,9 +929,9 @@
    "mins": 30,
    "days": 1,
    "context": "In this experiment you plan a new apple test yourself. You choose one thing to change, write the whole plan, and then do it. Nobody tells you the answer first.",
-   "question": "Pick one: does a slice brown more slowly in the fridge? In salty water? Under an upside-down steel bowl? Your plan answers the one you pick.",
+   "question": "Pick one: does a slice brown more slowly in the fridge? In salty water, compared with plain water? Under an upside-down steel bowl? Your plan answers the one you pick.",
    "predict": "Before you start, write what you think will happen to your two slices, and why you think so.",
-   "fair_test": "Two slices from the same apple, cut at the same time, the same thickness. One is your 'normal' slice on a plate on the table. The other gets your one change. Everything else stays the same, and you score both at the same times with the same colour card.",
+   "fair_test": "Two slices from the same apple, cut at the same time, the same thickness. One is your 'normal' slice. The other gets your one change. For the fridge test and the bowl test, the normal slice sits on a plate on the table. For the salt test, the normal slice sits in plain water, so that only the salt is different. Everything else stays the same, and you score both at the same times with the same colour card.",
    "results_table": [
     "Time (minutes after cutting)",
     "Normal slice: colour score (0 to 3)",
@@ -874,19 +944,19 @@
      "qty": 1
     },
     {
-     "item": "for the fridge test: a small plate that fits in the fridge",
-     "qty": 1
+     "item": "for the fridge test: a small plate that fits in the fridge, and a second plate for the table",
+     "qty": 2
     },
     {
-     "item": "for the salt test: a steel bowl of water with a pinch of salt stirred in, and a small katori to keep the slice under",
-     "qty": 1
+     "item": "for the salt test: two steel bowls of water, one with a pinch of salt stirred in, and a small steel plate for each bowl to press the slice under",
+     "qty": 2
     },
     {
-     "item": "for the bowl test: a steel bowl to turn upside down over the slice",
-     "qty": 1
+     "item": "for the bowl test: a steel bowl to turn upside down over a plate with the slice, and a second plate for the open slice",
+     "qty": 2
     },
     {
-     "item": "the colour scale card from the brown apple watch",
+     "item": "the colour card from the brown apple watch (make a new one the same way if you did not do it: four boxes, 0 cream, 1 pale yellow, 2 light brown, 3 brown)",
      "qty": 1
     },
     {
@@ -925,13 +995,13 @@
        ]
       }
      ],
-     "parent": "Let your child make the choices, even if you think a choice won't work well. If they forget to write how often they will look, ask 'When will you look?' rather than telling them. Every 10 minutes for an hour works. For the fridge test, take the slice out only for the few seconds it takes to score it, because warming it changes the test.",
+     "parent": "Let your child make the choices, even if you think a choice won't work well. If they forget to write how often they will look, ask 'When will you look?' rather than telling them. Every 10 minutes for an hour works. For the fridge test, take the slice out only for the few seconds it takes to score it, because warming it changes the test. A fridge is also darker than the table, so say that the change is 'cold and dark'. For the bowl test, lift the bowl only for the few seconds of scoring.",
      "context": "This is the first step of planning your own apple test. You write the whole plan yourself before anything is cut."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Cut two slices at the same time. Put the normal slice on the plate on the table and give the other slice its change. Write the start time.",
+     "do": "Cut two slices at the same time. Put the normal slice in its place and give the other slice its change. Write the start time.",
      "say": "Two slices, cut at the same moment. Which one gets the change? Write the time.",
      "kid": "A grown-up cuts two slices. Put one on the plate. Give the other your change. Write the time.",
      "adult": true
@@ -942,7 +1012,7 @@
      "do": "Every 10 minutes for an hour, score and draw both slices, and write the time.",
      "say": "Time for a look. Score both slices with the colour card. Draw them. Write the time.",
      "kid": "Every 10 minutes, score both slices. Draw them. Write the time.",
-     "parent": "In the fridge test, the cold slice usually browns much more slowly. In salty water, the slice usually stays pale. Under an upside-down bowl, there is still air, so the slice usually browns almost as fast as the open one. Your child does not know this yet, so don't say it."
+     "parent": "In the fridge test, the cold slice usually browns much more slowly. In the salt test, the salty slice usually browns a little more slowly than the plain-water slice, but the difference may be small. If your child cannot see a difference, that is an honest result: write 'no clear difference'. Under an upside-down bowl, there is still air, so the slice usually browns almost as fast as the open one. Your child does not know this yet, so don't say it."
     },
     {
      "id": "s4",
@@ -952,7 +1022,7 @@
      "kid": "What did your test show? Was your guess right? What would you change next time?",
      "check": {
       "t": "mcq",
-      "q": "Kavya tested a slice under an upside-down steel bowl. It browned almost as fast as her open slice. Why?",
+      "q": "A girl tested a slice under an upside-down steel bowl. It browned almost as fast as her open slice. Why?",
       "options": [
        "The bowl was steel",
        "There was still air with oxygen inside the bowl",
@@ -992,7 +1062,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1039,7 +1108,7 @@
    ],
    "setup": [
     {
-     "art": "A child and mother walking through a small flat, pointing at a fruit bowl, a ceiling fan and an ant trail by the window, with thought bubbles saying I wonder.",
+     "art": "A child and parent walking through a small flat, pointing at a fruit bowl, a ceiling fan and an ant trail by the window, with thought bubbles saying I wonder.",
      "caption": "1. Walk around and say 'I wonder…'."
     },
     {
@@ -1069,7 +1138,6 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Pick a leaf you know is safe to touch. Wash hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1082,9 +1150,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Without showing the leaf, ask your child to draw a curry leaf or tulsi leaf from memory.",
-     "say": "Draw a curry leaf from memory. You've seen hundreds of them. Put in everything you remember.",
-     "kid": "Draw a curry leaf from memory. Put in everything you remember.",
+     "do": "Without showing the leaf, ask your child to draw a leaf from memory.",
+     "say": "Draw a leaf from memory. You have seen so many of them. Put in everything you remember.",
+     "kid": "Draw a leaf from memory. Put in everything you remember.",
      "context": "This is the first step of Draw It Twice. You draw a leaf from memory before looking at a real one."
     },
     {
@@ -1116,11 +1184,11 @@
    ],
    "setup": [
     {
-     "art": "A child drawing a leaf on paper with eyes looking up, trying to remember.",
+     "art": "A child drawing a leaf on paper, looking up as if trying to remember.",
      "caption": "1. Draw a leaf from memory."
     },
     {
-     "art": "A child holding a curry leaf close with a magnifying glass, drawing its veins.",
+     "art": "A child holding a leaf up close, with a magnifying glass, drawing its veins.",
      "caption": "2. Draw it again while looking. Compare."
     }
    ]
@@ -1150,7 +1218,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "At about 7, 9, 11, 1, 3, 5 and 7 o'clock, look out of the same window for one minute and tally what you see."
+     "what": "On a holiday or weekend, at about 7, 9, 11, 1, 3, 5 and 7 o'clock, look out of the same window for one minute and tally what you see."
     }
    ],
    "record": "The tally sheet, with the time written at each row.",
@@ -1213,11 +1281,10 @@
      "qty": 1
     },
     {
-     "item": "a window or a wall with something on it far away, like a door or a building",
+     "item": "a window, or a wall with something far away on it, like a door or a building",
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1230,7 +1297,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Hold a pencil at arm's length in front of a window. 2. Close your left eye, then open it and close your right eye. 3. Do it again with the pencil close to your nose.",
+     "do": "1. Hold a pencil at arm's length in front of a window. 2. Close your left eye, then open it and close your right eye. 3. Do it again with the pencil about a hand's width from your nose. Which time does it jump more?",
      "say": "Hold the pencil out. Close one eye. Now swap. Does the pencil seem to jump? Does the building outside jump?",
      "kid": "Hold the pencil out far. Close one eye. Swap eyes. Does the pencil jump? Does the far building jump?",
      "context": "This is the first step of the Pencil Jump. You see how near things seem to jump when you look from a different place."
@@ -1268,12 +1335,12 @@
   {
    "id": "a5",
    "title": "Same Spot, Same Time: a week of photos",
-   "mins": 15,
+   "mins": 19,
    "days": 7,
    "context": "In this activity you take one photo of the same view from the same spot at the same time every day for a week. Then you look at them in a row to see what changed.",
    "materials": [
     {
-     "item": "a phone camera",
+     "item": "a phone camera (or draw the view each day instead)",
      "qty": 1
     },
     {
@@ -1341,7 +1408,7 @@
     },
     {
      "id": "s2",
-     "mins": 1,
+     "mins": 5,
      "do": "Each day, take the photo from the tape mark at the same time.",
      "say": "Photo time. Stand on the tape.",
      "kid": "Stand on the tape. Take today's photo.",
@@ -1377,7 +1444,7 @@
    "context": "In this 5-day project you plan and keep a diary of one banana as it ripens. Each morning you photograph it, give it a colour score and count its brown spots.",
    "materials": [
     {
-     "item": "one yellow banana with no brown spots yet, and a second one if you want to compare it in a different place",
+     "item": "one yellow banana with no brown spots yet",
      "qty": 1
     },
     {
@@ -1393,7 +1460,6 @@
      "qty": 1
     }
    ],
-   "safety": "Eat the banana by day 5 or 6, or put it in the compost or wet-waste bin if it gets too soft.",
    "schedule": [
     {
      "day": 1,
@@ -1426,7 +1492,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Write the plan with your child: question, guess and why, what to look at, how often, how to record. 2. Put the banana on a plate on the table, out of direct sun. 3. First photo, colour score and spot count.",
+     "do": "1. Write the plan with your child: question, guess and why, what to look at, how often, how to record. 2. Make a colour score: 1 yellow, 2 yellow with a few brown spots, 3 many spots, 4 mostly brown. 3. Put the banana on a plate on the table, out of direct sun. 4. First photo, colour score and spot count.",
      "say": "Our question: how fast does a banana get brown spots? What's your guess? We'll look every morning at the same time. Count the spots, score the colour, take a photo.",
      "kid": "Write your plan. Put the banana on the plate. Count its brown spots. Take a photo. Write the time.",
      "ask": [
@@ -1442,12 +1508,12 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 9,
      "do": "Each morning, at the same time, take a photo, score the colour and count the spots.",
      "say": "Banana time. Same place, same time. How many spots today?",
      "kid": "Count today's spots. Score the colour. Take a photo. Write it down.",
      "wait": "Look again tomorrow morning, and every morning until day 5.",
-     "parent": "When the spots join together, counting gets hard. Then write 'too many to count' and give a colour score instead. That is a real problem scientists meet, and choosing a new way to record is good thinking."
+     "parent": "When the spots join together, counting gets hard. Then write 'too many to count' and give a colour score instead. That is a real problem scientists meet, and choosing a new way to record is good thinking. Ripening depends on how warm the room is. If few spots come, write 'none yet' and keep going: that is a real result."
     },
     {
      "id": "s3",
@@ -1457,7 +1523,7 @@
      "kid": "Put your five days in a row. Draw a bar for each day's spots. When did they grow fastest?",
      "check": {
       "t": "mcq",
-      "q": "Sundari's banana had 0 spots on day 1, 2 on day 2, 6 on day 3 and 15 on day 4. What happened to the spots?",
+      "q": "Sundari, a girl in Class 3, counted the brown spots on her banana each morning: 0 on day 1, 2 on day 2, 6 on day 3 and 15 on day 4. What happened to the spots?",
       "options": [
        "They grew by the same number each day",
        "They grew faster each day",
@@ -1503,7 +1569,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch from inside the window or the balcony. If you go down to the tree, a grown-up comes too.",
+   "safety": "Watch from inside the window or behind the balcony railing.",
    "schedule": [
     {
      "day": 1,
@@ -1528,10 +1594,10 @@
     {
      "day": 29,
      "mins": 4,
-     "what": "Last look. Compare the four weeks."
+     "what": "Last look. Compare all five records."
     }
    ],
-   "record": "Each week, the date, a drawing, and answers to the same four questions: new leaves? flowers? fruit? visitors?",
+   "record": "On each look day, the date, a drawing, and answers to the same four questions: new leaves? flowers? fruit? visitors?",
    "flow": [
     {
      "id": "s1",
@@ -1544,18 +1610,18 @@
     },
     {
      "id": "s2",
-     "mins": 7,
-     "do": "Each week, answer the same four questions and make a drawing.",
+     "mins": 21,
+     "do": "On days 8, 15 and 22, answer the same four questions and make a drawing.",
      "say": "Tree day. Same four questions. Anything new?",
      "kid": "Look at your tree. Answer the four questions. Draw it.",
-     "wait": "Look again next week, for four weeks in all."
+     "wait": "Look again on days 8, 15 and 22."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "After four weeks, compare all the records.",
+     "do": "On day 29, make the last look and the last drawing. Then compare all five records.",
      "say": "What changed in a month? Did anything change that you never noticed on a single day?",
-     "kid": "Look at all four weeks. What changed?",
+     "kid": "Look at all five records. What changed?",
      "think": "SeasonWatch has records from many years. What could many years show that one month cannot?"
     }
    ],
@@ -1565,7 +1631,7 @@
      "caption": "1. Choose a tree you can see. Draw it."
     },
     {
-     "art": "Four drawings of the same tree, labelled Week 1 to Week 4, with new leaves and a bird's nest appearing.",
+     "art": "Five drawings of the same tree, labelled Day 1, Day 8, Day 15, Day 22 and Day 29, with new leaves and a bird's nest appearing.",
      "caption": "2. Once a week, answer the same four questions."
     }
    ]
@@ -1630,7 +1696,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Carry out the plan for about two hours. Each mark takes about two minutes.",
+     "do": "Carry out the plan for about two hours. Each mark takes about two minutes, so the marking is about 15 minutes of work in all, spread over the two hours.",
      "say": "Time to mark it. Write the time on the mark.",
      "kid": "Mark the patch. Write the time. Go and play. Come back for the next mark.",
      "parent": "The patch moves because the Earth turns, so the Sun's direction changes through the day. On a cloudy day, try another day. A window facing east is best in the morning, and one facing west in the afternoon."
@@ -1725,7 +1791,7 @@
      "caption": "1. Write a plan so clear nobody needs to ask."
     },
     {
-     "art": "A father reading the plan at the kitchen counter, holding a knife and an apple, looking puzzled at one line.",
+     "art": "A grown-up reading the plan at the kitchen counter, holding a knife and an apple, looking puzzled at one line.",
      "caption": "2. A grown-up follows it exactly. Where do they get stuck?"
     }
    ]
@@ -1796,7 +1862,7 @@
   },
   {
    "t": "mcq",
-   "p": "Vidya wants to know how fast her tomato plant grows. How often should she measure it?",
+   "p": "Vidya, a girl in Class 3, wants to know how fast her tomato plant grows. How often should she measure it?",
    "opts": [
     "Every minute",
     "Every few days",
@@ -1820,7 +1886,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya stared at her apple slice for a minute and saw nothing change. But her drawings every 10 minutes showed it going brown. What does this show?",
+   "p": "Kavya, a girl in Class 3, stared at her apple slice for a minute and saw nothing change. But her drawings every 10 minutes showed it going brown. What does this show?",
    "opts": [
     "The drawings were wrong",
     "Some changes are too slow to see, but a record over time catches them",
@@ -1832,7 +1898,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan and his mother remember last week's apple test differently. How can they settle it?",
+   "p": "Farhan, a boy in Class 3, and his mother remember last week's apple test differently. How can they settle it?",
    "opts": [
     "The one who is older is right",
     "Look at the record they wrote during the test",
@@ -1923,7 +1989,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Lakshmi says, 'If I stare at a cut apple slice for one minute, I will see it turn brown.' Is she right?",
+     "p": "Lakshmi, a girl in Class 3, says, 'If I stare at a cut apple slice for one minute, I will see it turn brown.' Is she right?",
      "a": false,
      "why": "False. The slice is changing, but in one minute the change is too small for the eye to notice. Looking every 10 minutes and comparing the drawings shows it clearly."
     },
@@ -2022,20 +2088,8 @@
      "why": "Anything about how something changes needs a long watch, with looks at set times. A question about how something is right now needs only one look."
     },
     {
-     "t": "mcq",
-     "p": "Farhan wants to watch a banana ripen. How often should he look?",
-     "opts": [
-      "Every 10 seconds",
-      "Every 10 minutes",
-      "Once a day",
-      "Once a year"
-     ],
-     "a": 2,
-     "why": "A banana changes over about a week. Looking once a day gives five or six looks, each showing a small, clear step. Every 10 minutes he would see nothing new for hours. Once a year he would miss it completely."
-    },
-    {
      "t": "write",
-     "p": "Kavya says she doesn't need to write anything down during the apple test, because she will remember it. Write two reasons why a scientist writes things down at the time.",
+     "p": "Kavya, a girl in Class 3, says she doesn't need to write anything down during the apple test, because she will remember it. Write two reasons why a scientist writes things down at the time.",
      "lines": 4,
      "a": "Memory changes, and fills gaps with what we expect, so we can remember wrongly without knowing. A record made at the time stays the same, so we can compare looks, and other people can check what we saw.",
      "why": "A strong answer gives two different reasons: memory can be wrong, and a record can be checked and compared. A very strong answer gives an example, like the Spot the Change game."
@@ -2061,27 +2115,21 @@
      "why": "The browning needs oxygen from the air. Water keeps most of it away. Both slices were in the same light and warmth, so those can't explain the difference. Dust is too little to matter."
     },
     {
-     "t": "truefalse",
-     "p": "Arjun's apple slice has gone brown after an hour on the plate. It is safe to eat.",
-     "a": true,
-     "why": "True. Browning is a change in the apple's own substances with oxygen. It is not rotting. Mould, slime or a bad smell would be signs of rotting."
-    },
-    {
      "t": "perspective",
      "p": "Two sisters in Kochi are planning the apple test. They disagree about when to look.",
      "views": [
       {
-       "who": "Kavya, aged 9",
+       "who": "Aleena, aged 9",
        "says": "Let's look only at the start and after one hour. That's enough to see which slice went brown."
       },
       {
-       "who": "Meena, aged 7",
+       "who": "Mini, aged 7",
        "says": "Let's look every 10 minutes. Then we see when each slice started to change, and how fast."
       }
      ],
      "ask": "Which sister do you agree with? Give a reason. Then say one good thing about the other sister's plan.",
      "lines": 5,
-     "a": "A strong answer sees that Kavya's plan is quicker and does show which slice ended up browner. Meena's plan also shows when and how fast each slice changed, which two looks can't show.",
+     "a": "A strong answer sees that Aleena's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.",
      "why": "Both plans answer a question, but not the same question. A strong answer says what each plan can and can't tell you, and chooses the one that fits the question asked."
     },
     {
@@ -2098,18 +2146,34 @@
     },
     {
      "t": "write",
-     "p": "Divya wonders, 'Why does our dosa batter get bubbly?' Turn her wondering into a question she could find out by watching or testing.",
+     "p": "Divya, a girl in Class 3, wonders, 'Why does our dosa batter get bubbly?' Turn her wondering into a question she could find out by watching or testing.",
      "lines": 3,
      "a": "For example: 'Does the batter rise more in a warm place or in the fridge overnight?' or 'How much higher is the batter after 4 hours, 8 hours and 12 hours?'",
      "why": "A strong question says what to look at or measure, and what to compare or how often to look."
     },
     {
-     "t": "fill",
-     "p": "The time you wait between one look and the next is called the ____.",
-     "a": [
-      "interval"
+     "t": "mcq",
+     "p": "Which of these is an observation of a cut apple slice?",
+     "opts": [
+      "The cut side is cream, wet and shiny, and it smells sweet",
+      "Apples are the best fruit",
+      "The apple slice is feeling sleepy"
      ],
-     "why": "Choose the interval to match how fast the thing changes: short for an apple slice, a day for a banana."
+     "a": 0,
+     "why": "An observation is something you noticed with your eyes, nose, hands or ears. The other two are opinions or guesses, not things you noticed."
+    },
+    {
+     "t": "truefalse",
+     "p": "A good record line needs only what you saw. The time does not matter.",
+     "a": false,
+     "why": "False. Without the time you cannot say how long a change took, or put the looks in order. Every record line says when, and what you saw."
+    },
+    {
+     "t": "write",
+     "p": "Think of something at home that changes too slowly to see in one look. Say how you would find out how fast it changes: what you look at, how often you look, and how you write it down.",
+     "lines": 5,
+     "a": "For example: a wet cloth drying on the line. Look at it every 15 minutes, touch it, score it dry, damp or wet, and write the time and the score each time.",
+     "why": "A strong answer picks something that really changes, chooses an interval that matches how fast it changes, and says what is written at each look."
     }
    ]
   },
@@ -2121,7 +2185,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Arjun cut his plain slice from a red apple and his lemon slice from a green apple. The lemon slice stayed paler. What is wrong with his test?",
+     "p": "Arjun, a boy in Class 3, cut his plain slice from a red apple and his lemon slice from a green apple. The lemon slice stayed paler. What is wrong with his test?",
      "opts": [
       "Nothing, it is a fair test",
       "Two things were different, so he can't tell if the lemon or the apple made the difference",
@@ -2132,14 +2196,14 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi did the apple test but looked only once, after five hours. All three slices were brown. She says, 'Lemon doesn't work.' What went wrong with her plan, and how should she fix it?",
+     "p": "Lakshmi, a girl in Class 3, did the apple test but looked only once, after five hours. All three slices were brown. She says, 'Lemon doesn't work.' What went wrong with her plan, and how should she fix it?",
      "lines": 4,
      "a": "She looked too late, so she missed the time when the lemon slice was still pale and the others were brown. Lemon slows browning, but after many hours even a lemon slice may brown. She should look every 10 minutes for the first hour.",
      "why": "A strong answer sees that the interval and the length of the watch were wrong for the question, not the lemon. Slowing a change is not the same as stopping it."
     },
     {
      "t": "mcq",
-     "p": "Here is part of Revathi's apple record. Plain slice: 1 at 20 minutes, 2 at 30 minutes. Water slice: 0 at 20 minutes, 0 at 30 minutes. Which slice changed between 20 and 30 minutes?",
+     "p": "Revathi, a girl in Class 3, kept an apple record. Here is part of it. Plain slice: 1 at 20 minutes, 2 at 30 minutes. Water slice: 0 at 20 minutes, 0 at 30 minutes. Which slice changed between 20 and 30 minutes?",
      "opts": [
       "The plain slice",
       "The water slice",
@@ -2151,22 +2215,8 @@
      "how": "e1"
     },
     {
-     "t": "truefalse",
-     "p": "Lemon juice keeps an apple slice pale only because it covers the slice and keeps the air out.",
-     "a": false,
-     "why": "False. A slice wet with plain water still browns in the air. Lemon works mainly because it is sour, or acidic, and the browning enzyme works slowly in acid. Its vitamin C also undoes the first step of the browning."
-    },
-    {
-     "t": "fill",
-     "p": "The gas from the air that helps a cut apple turn brown is called ____.",
-     "a": [
-      "oxygen"
-     ],
-     "why": "Oxygen joins with the apple's colourless substances, helped by the enzyme, to make the brown ones."
-    },
-    {
      "t": "sort",
-     "p": "Kavya tests whether a slice browns more slowly in the fridge. Sort these into what she changes and what she keeps the same.",
+     "p": "Kavya, a girl in Class 3, tests whether a slice browns more slowly in the fridge. Sort these into what she changes and what she keeps the same.",
      "cats": [
       "Changes",
       "Keeps the same"
@@ -2203,7 +2253,7 @@
     },
     {
      "t": "order",
-     "p": "Remember Farzana in the story, who checked the crack in the wall. Put her plan in order.",
+     "p": "In the story 'The Pencil Line on the Wall', Farzana checked a crack in the wall. Put her plan in order.",
      "items": [
       "Check every Sunday and after heavy rain",
       "Draw pencil lines past both ends and write the date",
@@ -2317,6 +2367,28 @@
      ],
      "a": 0,
      "why": "Your two eyes look from slightly different places. Something near seems to jump against the far background. Something very far does not. Tycho used this idea to show the new star was far beyond the Moon."
+    },
+    {
+     "t": "mcq",
+     "p": "Two people score the same apple slice. One writes 2 and the other writes 3. What would help them agree?",
+     "opts": [
+      "Both use the same colour card, with the same four boxes",
+      "Both score faster",
+      "Each scores a different slice"
+     ],
+     "a": 0,
+     "why": "A score means something only if everyone uses the same scale. A shared colour card makes a score of 2 the same colour for both people."
+    },
+    {
+     "t": "mcq",
+     "p": "In 1847 Maria Mitchell found a comet nobody had reported. Why could she tell it was new?",
+     "opts": [
+      "She had looked at the same sky on so many nights that she knew what was usually there",
+      "Comets always shine brighter than stars",
+      "She used the biggest telescope in the world"
+     ],
+     "a": 0,
+     "why": "Looking again and again at the same place gave her a record in her head and in her notebook. A new light stood out against what she knew."
     }
    ]
   },
@@ -2328,7 +2400,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Ruksana wonders, 'Does a banana ripen faster inside a closed paper bag?' Write a full plan for her: the question, a guess and why, what to compare, what to keep the same, how often to look and how to record it.",
+     "p": "Ruksana, a girl in Class 3 in Guwahati, wonders, 'Does a banana ripen faster inside a closed paper bag?' Write a full plan for her: the question, a guess and why, what to compare, what to keep the same, how often to look and how to record it.",
      "lines": 7,
      "a": "For example: two bananas from the same bunch, equally yellow. One in a closed paper bag, one beside it on the plate. Same room, same table. Look every morning at 8 for five days. Count the spots and take a photo of each, taking the bagged one out only for a moment.",
      "why": "A strong plan has every part: a clear question, a guess with a reason, two things compared, a list of what stays the same, an interval matched to a banana, and a way to record."
@@ -2353,7 +2425,7 @@
     },
     {
      "t": "mcq",
-     "p": "In Farhan's apple test, he cut the plain slice first, and the lemon slice 20 minutes later. After one hour, the plain slice was browner. What is the problem?",
+     "p": "Farhan, a boy in Class 3, did an apple test. He cut the plain slice first, and the lemon slice 20 minutes later. After one hour, the plain slice was browner. What is the problem?",
      "opts": [
       "The plain slice had 20 minutes more time to brown",
       "Lemon slices always brown faster",
@@ -2364,14 +2436,14 @@
     },
     {
      "t": "write",
-     "p": "In the story, Farzana checked the crack for six weeks, and it never changed. Her brother said the test was a waste of time. Was it? Explain.",
+     "p": "In the story 'The Pencil Line on the Wall', Farzana checked the crack for six weeks, and it never changed. Her little brother Imran called it the most boring science in the world. Was the checking a waste of time? Explain.",
      "lines": 4,
      "a": "It was not a waste. 'No change' is a real answer. It showed Abba's memory was wrong, so the family did not need to worry, and the marks will show at once if the crack ever starts to grow.",
      "why": "A strong answer sees that finding no change is a result, and that it settled an argument that memory could not settle."
     },
     {
      "t": "mcq",
-     "p": "Divya looks at her apple slices only at 0, 30 and 60 minutes. What might she miss?",
+     "p": "Divya, a girl in Class 3, looks at her apple slices only at 0, 30 and 60 minutes. What might she miss?",
      "opts": [
       "Nothing at all",
       "When each slice started to brown, and how fast it changed in between",
@@ -2385,14 +2457,6 @@
      "p": "If two people remember the same thing differently, one of them must be lying.",
      "a": false,
      "why": "False. Honest people often remember the same thing differently, because memory fills gaps without our noticing. That is why a record made at the time is so useful."
-    },
-    {
-     "t": "draw",
-     "p": "Draw what you think two apple slices would look like after one hour: one kept in the fridge and one left on the table. Label each one and give it a colour score.",
-     "a": "The table slice browner (score 2 or 3) and the fridge slice paler (score 0 or 1).",
-     "why": "Cold slows the enzyme, so the fridge slice browns more slowly. A strong drawing labels both and gives scores that match this.",
-     "art": "Two empty slice outlines, one inside a drawn fridge shelf and one on a drawn table.",
-     "how": "e2"
     },
     {
      "t": "fill",
@@ -2499,10 +2563,19 @@
      "why": "A record is made at the time and does not change afterwards. A memory recalled next week can change without you knowing."
     },
     {
-     "t": "truefalse",
-     "p": "A slice of apple under an upside-down steel bowl gets no air, so it stays pale.",
-     "a": false,
-     "why": "False. The air trapped under the bowl still has plenty of oxygen. The slice usually browns almost as fast as one in the open. Under water, much less oxygen reaches the slice."
+     "t": "write",
+     "p": "Tycho found that the new star never shifted against the stars near it. Suppose it had shifted a little each night, like the Moon. What would that have told him?",
+     "lines": 4,
+     "a": "It would have meant the new star was near, closer than the far stars, maybe even in the air. Only a thing that is very far away does not seem to shift.",
+     "why": "A strong answer uses the idea from the pencil test: near things seem to shift when you look from a different place, and far things do not."
+    },
+    {
+     "t": "fill",
+     "p": "The shift of a near thing against far things, when you look from a different place, is called ____.",
+     "a": [
+      "parallax"
+     ],
+     "why": "Swapping eyes makes a pencil seem to jump against a far building. Scientists call this shift parallax."
     }
    ]
   }
@@ -2528,8 +2601,8 @@
    "art": "A steel bowl of water with brinjal pieces in it, on a kitchen counter."
   },
   {
-   "text": "Lemon squeezed over cut fruit at a fruit stall, so the slices stay bright.",
-   "art": "A street fruit-chaat cart with sliced apples and a vendor squeezing lemon over a paper plate."
+   "text": "Lemon squeezed over cut fruit at a fruit cart, so the slices stay bright.",
+   "art": "A street fruit cart with sliced apples and a vendor squeezing lemon over a paper plate."
   },
   {
    "text": "A rain gauge or weather station on the roof of a school or office.",
@@ -2580,44 +2653,39 @@
   "What do you remember about this morning? How could we check if you remember it right?",
   "Is there anything in our home that never changes?",
   "What would you see if we took a photo of you every day for a year?",
-  "What is one thing you wonder about today? Could we turn it into a question to test?",
   "Which goes brown faster, a cut potato or a cut apple? How could we find out?",
-  "Why do you think Amma or Appa puts cut brinjal in water?",
+  "Why do you think cooks put cut brinjal in water?",
   "If you saw a new star in the sky tonight, how could you tell if it was near or far?",
   "What would a good plan for finding out need, before we start?"
  ],
  "jokes": [
   {
-   "j": "Why did the apple slice go brown?",
-   "a": "It spent too long out in the open air."
-  },
-  {
-   "j": "What did the lemon say to the apple slice?",
-   "a": "Don't worry, I've got your back. And your front."
-  },
-  {
-   "j": "Why did the scientist bring a notebook to the fruit bowl?",
-   "a": "To keep a record of the bananas' ripening careers."
-  },
-  {
    "j": "Why is a banana never lonely?",
    "a": "Because it hangs out in bunches."
-  },
-  {
-   "j": "What did the crack in the wall say to Farzana?",
-   "a": "I'm not growing, I'm just cracking up."
   },
   {
    "j": "Why did the student stare at the apple for a whole minute?",
    "a": "She was waiting for it to get a tan."
   },
   {
-   "j": "Why did the notebook feel so important?",
-   "a": "It had so many records to keep."
+   "j": "What do you call a banana that keeps a diary?",
+   "a": "A spot-checker."
+  },
+  {
+   "j": "What did the lemon say to the apple slice?",
+   "a": "Don't worry, I've got your back. And your front."
+  },
+  {
+   "j": "Why don't mountains ever win staring contests?",
+   "a": "They change so slowly, nobody can tell if they blinked."
   },
   {
    "j": "Why did Tycho Brahe bring a ruler to bed?",
    "a": "He wanted to measure how long he slept."
+  },
+  {
+   "j": "Why was the memory sent to the back of the class?",
+   "a": "It kept changing its story."
   },
   {
    "j": "What did one star say to the new star?",
@@ -2628,41 +2696,13 @@
    "a": "Because every good test needs good timing."
   },
   {
-   "j": "What do you call a banana that keeps a diary?",
-   "a": "A spot-checker."
-  },
-  {
-   "j": "Why was the memory sent to the back of the class?",
-   "a": "It kept changing its story."
-  },
-  {
-   "j": "What did the potato say when it was cut?",
-   "a": "Quick, put me in water before I turn brown with embarrassment."
-  },
-  {
-   "j": "Why did the pencil jump when Arjun closed one eye?",
-   "a": "It was trying to be noticed."
-  },
-  {
-   "j": "What is the most patient thing in the kitchen?",
-   "a": "The banana. It takes a whole week to get ready."
-  },
-  {
-   "j": "Why did the plan go on holiday?",
-   "a": "It needed a break between steps."
-  },
-  {
    "j": "What did the observer say to the apple?",
    "a": "I've got my eye on you, every ten minutes."
-  },
-  {
-   "j": "Why don't mountains ever win staring contests?",
-   "a": "They change so slowly, nobody can tell if they blinked."
   }
  ],
  "maths": [
   {
-   "problem": "In the brown apple watch, Revathi looks at her slices at 0 minutes, then every 10 minutes until 60 minutes. How many looks is that?",
+   "problem": "In the brown apple watch, Revathi, a girl in Class 3, looks at her slices at 0 minutes, then every 10 minutes until 60 minutes. How many looks is that?",
    "answer": "7 looks.",
    "explain": "She looks at 0, 10, 20, 30, 40, 50 and 60 minutes. That is 7 looks. Counting in tens from 10 to 60 gives 6, and the first look at 0 makes 7. It is easy to forget the start.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2671,7 +2711,7 @@
    "why_maths": "Counting the looks before you start tells you how many rows your table needs, so you don't run out of space."
   },
   {
-   "problem": "Divya cut her apple at 4:15 in the afternoon. Her plain slice reached score 2 at 4:45. How long did it take?",
+   "problem": "Divya, a girl in Class 3, cut her apple at 4:15 in the afternoon. Her plain slice reached score 2 at 4:45. How long did it take?",
    "answer": "30 minutes.",
    "explain": "From 4:15 to 4:45, the minute hand moves from 15 to 45. 45 minus 15 is 30. So it took 30 minutes.",
    "math_unit": "math.time.duration.L3",
@@ -2688,9 +2728,9 @@
    "why_maths": "Counting months on a calendar turns 'a long time' into an exact number, so we can compare it with other stars."
   },
   {
-   "problem": "Sundari counted the brown spots on her banana each morning: 0, 2, 6, 15. How many new spots appeared each day? Do you think day 5 will have more or fewer than 25 spots?",
-   "answer": "2, then 4, then 9 new spots. Day 5 will probably have more than 25.",
-   "explain": "From 0 to 2 is 2 new spots. From 2 to 6 is 4 new. From 6 to 15 is 9 new. The number of new spots grows each day, so on day 5 probably more than 9 new spots appear. 15 and 10 is 25, so day 5 probably has more than 25. The spots may soon join up and be too many to count.",
+   "problem": "Sundari, a girl in Class 3, counted the brown spots on her banana each morning: 0, 2, 6, 15. How many new spots appeared each day? Do you think day 5 will have fewer than 25 spots, or 25 or more?",
+   "answer": "2, then 4, then 9 new spots. Day 5 will probably have 25 or more.",
+   "explain": "From 0 to 2 is 2 new spots. From 2 to 6 is 4 new. From 6 to 15 is 9 new. The number of new spots grows each day, so on day 5 probably 10 or more new spots appear. 15 and 10 make 25, so day 5 probably has 25 or more. The spots may soon join up and be too many to count.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "This is about One Banana, Five Days, where you count a banana's brown spots every morning.",
    "chart": {
@@ -2725,7 +2765,7 @@
    "why_maths": "Finding how much the count grows each day shows whether the change is speeding up, and lets you predict what comes next."
   },
   {
-   "problem": "In the Window Watch, Kavya counted crows for one minute at three times: 6 crows at 7 in the morning, 1 at 1 in the afternoon, 4 at 5 in the evening. How many more crows came at 7 than at 1? Can she say crows always come less at 1 o'clock?",
+   "problem": "In the Window Watch, Kavya, a girl in Class 3, counted crows for one minute at three times: 6 crows at 7 in the morning, 1 at 1 in the afternoon, 4 at 5 in the evening. How many more crows came at 7 than at 1? Can she say crows always come less at 1 o'clock?",
    "answer": "5 more crows. She can't say 'always' from one day.",
    "explain": "6 minus 1 is 5. But one day can be a fluke: maybe a loud lorry passed at 1 o'clock. To be sure of a pattern, she needs to count at the same times on many days.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -2734,7 +2774,7 @@
    "why_maths": "Subtracting shows how big the difference is, and asking whether one day is enough shows what the numbers can and can't tell us."
   },
   {
-   "problem": "Arjun wants to check his banana every 10 minutes for one whole day of 12 hours. There are 6 lots of 10 minutes in an hour. How many looks would that be? Is it a good plan?",
+   "problem": "Arjun, a boy in Class 3, wants to check his banana every 10 minutes for one whole day of 12 hours. There are 6 lots of 10 minutes in an hour. How many looks would that be? Is it a good plan?",
    "answer": "72 looks. It is not a good plan for a banana.",
    "explain": "6 looks an hour for 12 hours is 6 times 12, which is 72. A banana changes so slowly that almost every look would show nothing new. One look a day is enough.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2745,8 +2785,7 @@
  ],
  "song": {
   "topic_level": "sci.how-we-know.L3",
-  "title": "Look Again",
-  "note": "Topic-level song for How we know L3"
+  "title": "Look Again"
  },
  "links": [
   {
@@ -2797,8 +2836,7 @@
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a2"
-   ],
-   "plan": "Useful in many other units: insects, seeds, crystals and fabrics."
+   ]
   }
  ],
  "warmup": [
@@ -2919,7 +2957,7 @@
   "context": "We have planned a test and watched apple slices turn brown over an hour, and heard how Tycho Brahe watched a new star. Now we ask what slow changes tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "Each time you glanced at the plain apple slice, it looked the same as a moment before. Yet your drawings from every ten minutes showed it turning brown. A change can be too slow for the eye, and still be real. So many things that look still are changing, only too slowly to see.",
-   "habit": "We sort the world into things that change and things that stay still. But 'still' often only means 'changing more slowly than we look'. A record kept over time shows the change our eyes miss.",
+   "habit": "We sort the world into things that change and things that stay still. A record kept over time shows changes our eyes miss, so something that looks still may be changing slowly.",
    "evidence": "In one minute of staring, nobody saw the plain slice change. Laid side by side, the drawings made every ten minutes went from cream to brown. Tycho's nightly measurements showed the 'unchanging' sky changing too."
   },
   "three": {
@@ -2927,7 +2965,7 @@
    "what_is_life": "Every living being is always changing: growing, healing, ripening and ageing, mostly too slowly for one look.",
    "what_is_this_world": "Even stars change. Tycho Brahe watched a new star blaze up and fade away over about a year and a half."
   },
-  "thread": "Your apple slice was one thing, yet your drawings show it as many: cream, yellow, light brown, brown. Each drawing is the same slice at a different moment. Laid in a row, they show one change unfolding. The world is like that. One world shows itself as countless moments, and a record lets us see how they belong together.",
+  "thread": "Your drawings show the same slice at different moments: cream, yellow, light brown, brown. Laid in a row, they show one change unfolding. A record lets us join separate looks into one story of change.",
   "teachings": [
    {
     "source": "Heraclitus, fragment B91 (Diels-Kranz numbering), about 500 BCE",
@@ -2972,7 +3010,7 @@
   ],
   "art": "A child sitting cross-legged by a window, looking at the back of their hand, with faint drawings of an apple slice turning brown, a growing plant and a star drifting around them."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: apple slices float, so the slice under water is held down by a small plate or katori, or its top browns in the air. Some apple kinds brown slowly, so the step says to wait longer or use a raw potato slice, which browns faster. Window light changes over an hour, so the looks use a lamp or the same spot each time. The fridge slice is taken out only for the few seconds of scoring. The banana diary says what to do when the spots join up and can't be counted. The sunny patch challenge needs a sunny day and names which window works best. The tree project gives a potted plant as the alternative when no tree is in view. Both games work for one child with a parent. The spine fits about 90 minutes over two sessions, with the hour of the apple test used for reading the explanation and Tycho Brahe cards between looks.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: apple slices float, so the slice under water is pressed down by a small steel plate, or its top browns in the air. Some apple kinds brown slowly, so the step says to wait longer. Window light changes over an hour, so the looks use a lamp or the same spot each time. The fridge slice is taken out only for the few seconds of scoring. The salt test compares salty water with plain water, so only the salt differs. The banana diary says what to do when the spots join up or hardly appear. The sunny patch challenge needs a sunny day and names which window works best. The tree project gives a potted plant as the alternative when no tree is in view. Both games work for two players. The spine fits about 90 minutes over two sessions, with the hour of the apple test used for reading the explanation cards between looks.",
  "how_we_found_out": {
   "story": "For about two thousand years, many people in Europe followed the Greek thinker Aristotle. He taught that the sky beyond the Moon is perfect and never changes. So any new light in the sky had to be something in the air, nearer than the Moon. In November 1572, a bright new star appeared in the group of stars called Cassiopeia. A young Danish astronomer, Tycho Brahe, saw it on 11 November. He made a plan to find out how far away it was. Something near, like the Moon, seems to shift a little against the far stars as the Earth turns through the night. Night after night, Tycho measured the new star's position against its neighbours, with a large instrument he had built. It never shifted. So it was far beyond the Moon, out among the stars. He kept watching as it faded over about sixteen months. In 1573 he published a small book, On the New Star. The sky could change after all. Today we know he had seen a supernova, an exploding star.",
   "who": "Tycho Brahe, a Danish astronomer, testing the old idea of Aristotle, a Greek thinker",

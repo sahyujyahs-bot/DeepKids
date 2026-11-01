@@ -22,7 +22,7 @@
 - **Energy**: What something needs to move, warm up or make a sound. Energy is never used up. It changes from one kind to another. *e.g.* A falling ball has energy of movement. When it hits a pillow, most of that energy turns into a little warmth and sound.
 - **Gravity**: The pull of the Earth on everything. It pulls things down towards the ground. *e.g.* Gravity pulls a thrown ball down, so it always comes back to the ground.
 - **Friction**: The grip between two things that touch. It acts against sliding. *e.g.* Friction between your feet and the floor lets you push off when you run.
-- **Rebound height**: How high a ball goes back up after it bounces. *e.g.* Kavya dropped her ball from 100 cm. It went back up to 55 cm, so the rebound height was 55 cm.
+- **Rebound height**: How high a ball goes back up after it bounces. *e.g.* A girl called Kavya dropped her ball from 100 cm. It went back up to 55 cm, so the rebound height was 55 cm.
 - **Fair test**: A test where you change only one thing and keep everything else the same. *e.g.* To test floors, use the same ball and drop it from the same height each time. Change only the floor.
 - **Curved path**: The line a thrown thing follows through the air. It goes up, bends over, and comes down. Scientists call this curve a parabola. *e.g.* A cricket ball thrown from the boundary flies in a curved path to the wicket keeper.
 - **Angle**: How much something is turned or tilted. Angles are measured in degrees. *e.g.* Throwing a ball straight up is an angle of 90 degrees. Throwing it flat along the ground is 0 degrees.
@@ -199,11 +199,10 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 
 ## Games
 ### g1 · Bounce or Thud? (15 min)
-- **rules:** Shuffle the cards and put them face down.; On your turn, another player reads you a card, without the answer in the brackets. Playing alone? Read it yourself and cover the answer.; Say 'bounce' or 'thud', and give a reason.; Get 1 point for the right answer, and 1 more point if your reason says what squashes or springs back.; On a TEST IT card, everyone guesses, then you test it. Everyone who guessed right gets 2 points.; After every player has had 6 cards, add up the points.
-- **Printable cards: 20 ball-and-surface cards to cut out:** A rubber ball on a stone floor (Bounce: hard floor, elastic ball); A rubber ball on a pillow (Thud: the pillow squashes); A tennis ball on a cement road (Bounce); A tennis ball on a sofa cushion (Thud); A ball of atta dough on the floor (Thud: dough does not spring back); A plastic ball on a steel plate (Bounce); A cricket ball on a hard, dry pitch (Bounce); A cricket ball on wet mud (Thud); A ball on soft beach sand (Thud); A ball on wet, hard sand near the waves (Bounce, a little); A rubber band ball on the floor (Bounce); A rolled-up pair of socks on the floor (Thud); A ball on a folded quilt (Thud); A ball on a trampoline (Bounce: the trampoline springs back); A ball on a doormat (Bounce, but lower); A balloon on the floor (Bounce, but very low and slow); A ball of wet clay on the floor (Thud); A rubber ball on a thick carpet (Bounce, but lower); TEST IT: a ball on your bed. Guess first, then drop it.; TEST IT: a ball on a cushion. Guess first, then drop it.
-- **Printable score sheet: A score sheet with a column for each player:** Player; Right guesses; Reasons that used the word 'squash' or 'spring back'
+- **rules:** Cut out the 20 cards, shuffle them and put them face down. Each card has a ball and a surface on the front, and the answer on the back.; On your turn, another player reads you the front of a card, and keeps the back hidden. Playing alone? Read the front, and guess before you turn the card over.; Say 'bounce' if the ball comes back up, or 'thud' if it hardly comes back up. Then say why.; Get 1 point for the right answer, and 1 more point if your reason says what squashes or springs back.; On a TEST IT card, everyone guesses, then you test it with a ball. Everyone who guessed right gets 2 points.; Keep the score on a sheet of paper, with a column for each player.; Each player has 5 turns. With 2 players that uses 10 cards, and with 4 players all 20. Most points wins. If points are equal, you share the win.
+- **Printable cards: 20 ball-and-surface cards to cut out:** A rubber ball on a stone floor (back: Bounce: hard floor, elastic ball); A rubber ball on a pillow (back: Thud: the pillow squashes); A tennis ball on a cement road (back: Bounce); A tennis ball on a sofa cushion (back: Thud); A ball of atta dough on the floor (back: Thud: dough does not spring back); A plastic ball on a steel plate (back: Bounce); A cricket ball on a hard, dry pitch (back: Bounce); A cricket ball on wet mud (back: Thud); A ball on soft beach sand (back: Thud); A ball on wet, hard sand near the waves (back: Bounce, a little); A rubber band ball on the floor (back: Bounce); A rolled-up pair of socks on the floor (back: Thud); A ball on a folded quilt (back: Thud); A ball on a trampoline (back: Bounce: the trampoline springs back); A ball on a doormat (back: Bounce, but lower); A balloon on the floor (back: Bounce, but very low and slow); A ball of wet clay on the floor (back: Thud); A rubber ball on a thick carpet (back: Bounce, but lower); TEST IT: a ball on your bed. Guess first, then drop it. (back: Now drop the ball and see. Everyone who guessed right gets 2 points.); TEST IT: a ball on a cushion. Guess first, then drop it. (back: Now drop the ball and see. Everyone who guessed right gets 2 points.)
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards, shuffle them and put them face down.  
+  *Parent does:* Cut out the cards, shuffle them and put them face down. Keep a ball and a cushion near you, for the TEST IT cards, and a sheet of paper for the score.  
   *Parent says:* Each card shows a ball and a surface. You say if it will bounce or land with a thud, and why.  
   *Child mode:* Shuffle the cards. Each shows a ball and a surface. Bounce or thud?
 - **s2 (2 min)**  
@@ -221,10 +220,10 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Child mode:* Count your points. Which card surprised you most?
   - Ask: What two things does a high bounce need? (good: A ball that springs back, and a surface that does not squash.; Something elastic, and a hard floor.)
 ### g2 · Sports Day Freeze: what is pushing what? (15 min)
-- **rules:** One player picks a card and acts out the sport, without speaking.; When the leader calls 'Freeze!', the actor stops still.; The others guess the sport.; Then the actor says one push or pull acting at that moment. The card's answer helps.; 1 point for guessing the sport, 1 point for the actor who names a force correctly.; Play until everyone has acted 3 times.
-- **Printable cards: 12 sport cards to cut out:** Running a race (Feet push back on the ground, the ground pushes you forward); Long jump take-off (Feet push down and back, arms swing forward); Throwing a ball (Hand pushes the ball forward); Catching a ball (Hands move back to slow the ball); Kicking a football (Foot pushes the ball); Kabaddi raider turning fast (Foot pushes sideways on the mat); Bowling in cricket (Arm swings, hand lets go of the ball); Skipping with a rope (Legs push on the floor, then land and spring); Swimming (Arms push water back, water pushes you forward); Lagori: throwing the ball at the stones (Hand pushes the ball, the ball pushes the stones); Tug of war (Hands pull the rope, feet push on the ground); Running on sand (Feet push, sand slides back, so the push is weaker)
+- **rules:** Cut out the 13 cards, shuffle them and put them face down. Each card has a sport on the front, and a push or pull on the back.; On your turn, pick a card and read it to yourself. Act out the sport without speaking.; Another player calls 'Freeze!' and you stop still. With 2 players, the other player does both jobs.; The others guess the sport. Then you say one push or pull acting on your body at that moment. The back of the card helps.; Get 1 point for the player who guesses the sport, and 1 point for the actor who names a force correctly.; Play until everyone has acted 3 times, or the cards run out. Most points wins. If points are equal, you share the win.
+- **Printable cards: 13 sport cards to cut out:** Running a race (back: Feet push back on the ground, the ground pushes you forward); Long jump take-off (back: Feet push down and back, arms swing forward); Throwing a ball (back: Hand pushes the ball forward); Catching a ball (back: Hands move back to slow the ball); Kicking a football (back: Foot pushes the ball); Kabaddi raider turning fast (back: Foot pushes sideways on the mat); Bowling in cricket (back: Arm swings, hand lets go of the ball); Skipping with a rope (back: Legs push on the floor, then land and spring); Swimming (back: Arms push water back, water pushes you forward); Lagori: throwing the ball at the stones (back: Hand pushes the ball, the ball pushes the stones); Tug of war (back: Hands pull the rope, feet push on the ground); Running on sand (back: Feet push, sand slides back, so the push is weaker); Kho-kho runner dodging a chaser (back: Feet push sideways on the ground, and the ground pushes the runner the other way)
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards and shuffle them. Clear a space in the room.  
+  *Parent does:* Cut out the cards and shuffle them. Clear a space in the room. Keep a sheet of paper for the score.  
   *Parent says:* We will act out sports, then freeze, and say what is pushing what.  
   *Child mode:* Pick a card. Act it out. Freeze when you hear 'Freeze!'
 - **s2 (2 min)**  
@@ -246,10 +245,10 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **question:** If we drop the same ball from the same height onto different surfaces, which one gives the highest bounce?
 - **predict:** Guess first. Put the five surfaces in order, from the one you think gives the highest bounce to the lowest. Why do you think so?
 - **fair test:** Use the same ball every time, and drop it from the same height, 100 cm. Let go without pushing it down. Change only the surface. Drop the ball 3 times on each surface, because one try can be a fluke, and use the middle number.
-- **safety:** Do this on a dry floor with space around you. Sweep up any rice that spills, so nobody slips.
+- **safety:** Sweep up any rice that spills, so nobody slips.
 - **record:** Fill in the table. Then draw a bar for each surface, as tall as its middle number.
 - **results table:** Surface | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle number (cm)
-- **s1 (6 min)**  
+- **s1 (5 min)**  
   *Parent does:* 1. Tape the paper strip up a wall, starting at the floor. 2. Use the measuring tape to mark it every 10 cm, up to 100 cm. 3. Write the numbers beside the marks.  
   *Parent says:* We need to measure how high the ball bounces. So let's make a tall paper ruler on the wall first.  
   *Child mode:* Tape the paper up the wall from the floor. Mark it every 10 cm. Write the numbers. Stop at 100.
@@ -260,18 +259,18 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Child mode:* Look at the five surfaces. Which gives the highest bounce? Which the lowest? Why? Write your order.
   - Ask: Why do you think that surface will give the highest bounce? (good: Because it is hard.; Because it does not squash.; Because the ball bounces well on the floor when I play.)
   - Note: Wait for a guess and a reason. Don't say whether it is right. The test will answer it.
-- **s3 (5 min)**  
+- **s3 (4 min)**  
   *Parent does:* 1. Hold the ball so its bottom is level with the 100 cm mark. 2. Open your fingers and let it fall, without pushing it down. 3. Your child crouches with their eyes at about the 50 cm mark. 4. They read the mark at the bottom of the ball, at the top of its bounce. 5. Do this 3 times on the bare floor.  
   *Parent says:* I will just open my hand. If I push the ball down, it would not be a fair test. You watch the bottom of the ball at the top of its bounce.  
   *Child mode:* Crouch down by the wall. Watch the bottom of the ball. Where does it stop going up? Read the mark.
   - Note: Reading a bounce by eye is hard. If two of you disagree, take the number in between. A slow-motion phone video, held level with the bounce, makes reading easy. Pause it at the top of the bounce. Write each try in the table.
-- **s4 (10 min)**  
+- **s4 (8 min)**  
   *Parent does:* 1. Put the doormat against the wall, under the paper ruler. 2. Drop the ball 3 times and read each bounce. 3. Do the same with the folded bedsheet, the pillow and the plate of rice.  
   *Parent says:* Same ball, same height, same way of letting go. Only the surface changes. Let's see what each one does.  
   *Child mode:* Now the doormat. Drop it 3 times. Then the bedsheet, the pillow and the rice. Write each bounce.
   - Note: Measure from the top of each surface, not from the floor. A folded sheet is about 2 to 3 cm thick, so take that off the reading, or hold the ball 100 cm above the top of the sheet. On the pillow and the rice, the ball may hardly lift at all. That is a real result: write 0 or a small number.
-  - Check: Lakshmi drops her ball from 100 cm on the floor, but from 50 cm on the pillow. Is that a fair test? → **No, because the height changed as well as the surface**
-- **s5 (4 min)**  
+  - Check: Lakshmi, a girl in Class 3, drops her ball from 100 cm on the floor, but from 50 cm on the pillow. Is that a fair test? → **No, because the height changed as well as the surface**
+- **s5 (3 min)**  
   *Parent does:* 1. For each surface, find the middle number of the three tries. 2. Draw a bar chart, with one bar for each surface.  
   *Parent says:* Let's find the middle number for each surface. If the tries were 50, 55 and 60, the middle one is 55.  
   *Child mode:* Find the middle number for each surface. Draw a bar for each. Which bar is tallest?
@@ -294,7 +293,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **safety:** Pick up the marble after each try. A marble on the floor can make someone slip, and small children may put it in their mouth.
 - **record:** Fill in the table. Draw the table from the side, with three curved paths, one for each height.
 - **results table:** Start height on the ramp (cm) | Try 1 (cm from the table) | Try 2 | Try 3 | Middle number
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* 1. Lay the ruler on the table with its low end about 10 cm from the edge. 2. Lift the other end on books. 3. Hang the key on its thread from the table edge, so it just touches the floor. 4. Mark that spot on the floor with a pencil or a bit of tape.  
   *Parent says:* The marble will roll down the ramp, run across the flat bit of table, and fly off the edge. We need to know where 'right below the edge' is, so we can measure from there.  
   *Child mode:* Set the ramp up. Hang the key from the edge. Mark the spot under it.
@@ -305,7 +304,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Child mode:* Higher up the ramp means faster. Where will it land each time? Why?
   - Ask: Where do you think the fastest marble will land? (good: Further from the table.; In the same place, because it falls the same height.)
   - Note: Measure the start heights straight up from the table top with the ruler, not along the ramp. Both guesses are common and sensible. Let the test decide.
-- **s3 (4 min)**  
+- **s3 (3 min)**  
   *Parent does:* 1. Put the plate of rava on the floor in front of the table. 2. Roll the marble once from 10 cm to see where it lands. 3. Move the plate so that spot is in the middle.  
   *Parent says:* This first roll is a practice, to find where to put the plate.  
   *Child mode:* Practice roll first. Move the plate to where the marble lands.
@@ -328,25 +327,25 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 ### e3 · Arms or No Arms: does swinging your arms help you jump further? (20 min)
 - **question:** Do you jump further from standing if you swing your arms, or if you keep them still behind your back?
 - **predict:** Guess first. Will swinging your arms make your jump longer, shorter, or the same? Why do you think so?
-- **fair test:** The same child jumps from the same line, on the same floor, both ways. Change only what the arms do. Jump 3 times each way, and rest a little between jumps, so tiredness does not spoil the test.
-- **safety:** Jump barefoot on a dry floor, never in socks on tiles. Move rugs, toys and furniture away from the landing place. A grown-up watches every jump.
+- **fair test:** The same child jumps from the same line, on the same floor, both ways. Change only what the arms do. Take turns, so one way does not get all the fresh legs: one jump with arms behind, then one with arms swinging, three times each. Rest a little between jumps, so tiredness does not spoil the test.
+- **safety:** Jump barefoot, because socks slip on tiles. Move rugs, toys and furniture away from the landing place.
 - **record:** Fill in the table. Draw yourself jumping both ways.
 - **results table:** How I jumped | Jump 1 (cm) | Jump 2 (cm) | Jump 3 (cm) | Middle number (cm)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Stick a tape line across the floor. 2. Clear 2 metres of floor in front of it. 3. Ask for a guess.  
   *Parent says:* You will jump from this line with both feet together. First with your hands held behind your back. Then swinging your arms. Will your arms make any difference? Why do you think so?  
   *Child mode:* Arms behind you, or arms swinging. Which jump will be longer? Why?
-  - Note: Check the floor is dry and your child is barefoot. Socks on tiles are slippery.
-- **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. Your child holds their hands together behind their back. 2. They bend their knees and jump forward with both feet. 3. Put the coin at the back of the heel nearest the line. 4. Measure from the line to the coin. 5. Do 3 jumps, resting a little between them.  
-  *Parent says:* Hands behind your back. Bend your knees. Jump! Stay where you land, so I can mark your heel.  
-  *Child mode:* Hands behind your back. Bend your knees. Jump with both feet. Stay still!
+  - Note: Your child jumps barefoot, because socks on tiles are slippery.
+- **s2 (3 min) · grown-up needed**  
+  *Parent does:* 1. Show your child both ways: hands held behind the back, and arms swinging back and then forward and up. 2. Your child tries one jump each way, to practise. Don't measure these.  
+  *Parent says:* Here are the two ways to jump. First with your hands behind your back. Then swinging your arms back, and throwing them forward and up as you jump. Try each once to practise.  
+  *Child mode:* Practise one jump with hands behind your back. Then one swinging your arms. Bend your knees and jump with both feet.
+- **s3 (9 min) · grown-up needed**  
+  *Parent does:* 1. Your child does a jump with hands held behind the back. 2. Put the coin at the back of the heel nearest the line, and measure from the line to the coin. Write it in the table. 3. Now your child does a jump swinging both arms. Mark, measure and write it in the same way. 4. Do 3 rounds like this, resting a little between jumps.  
+  *Parent says:* One jump with hands behind your back, then one swinging your arms. Stay where you land, so I can mark your heel.  
+  *Child mode:* One jump with hands behind your back. One jump swinging your arms. Stay still where you land!
   - Note: Measure to the heel that lands closest to the line. If your child falls back onto their hands, measure to the hand, as long jump judges do, or do the jump again.
-- **s3 (6 min) · grown-up needed**  
-  *Parent does:* 1. Now your child swings both arms back, then forward and up as they jump. 2. Mark and measure in the same way. 3. Do 3 jumps.  
-  *Parent says:* This time, swing both arms back as you bend, and throw them forward and up as you jump.  
-  *Child mode:* Swing your arms back. Bend. Throw your arms forward and up as you jump!
-  - Check: Meenakshi jumped 3 times with arms swinging and got 110, 115 and 112 cm. What is her middle number? → **112 cm**
+  - Check: Why do we rest a little between jumps? → **So tired legs do not make the later jumps shorter and spoil the test**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -355,7 +354,6 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 
 ## Activities
 ### a1 · Jog on the Spot: hard floor or soft mattress? (6 min)
-- **safety:** Put the mattress on the floor, away from furniture corners. Never jump on a bed. A grown-up stays close.
 - **record:** Write which was harder, and one thing your legs or feet felt.
 - **s1 (2 min)**  
   *Parent does:* Your child jogs on the spot on the bare floor, lifting their knees, for 30 steps. Count with them.  
@@ -402,23 +400,24 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Parent says:* Now flick it at the side. Then low down. Does it go straight? Does it spin?  
   *Child mode:* Flick it at the side. Then low down. Does it spin?
   - Ask: What changed when you flicked it off the middle? (good: It spun.; It went sideways.; It turned.; It jumped up.)
-  - Note: A flick at the side makes the ball spin and move off at an angle. A flick low down can make it hop. Draw a dot on the ball with a pen to see the spin easily.
+  - Note: A flick at the side makes the ball spin and move off at an angle. A flick low down may make it skid or hop, and what you see depends on the floor. Draw a dot on the ball with a pen to see the spin easily.
 - **s3 (3 min)**  
   *Parent does:* Ask how a footballer could make a ball spin on purpose.  
   *Parent says:* Footballers kick the side of the ball on purpose. Why do you think they want it to spin?  
   *Child mode:* Why would a footballer want the ball to spin?
-  - Check: Farhan kicks a football right through its middle. What will the ball most likely do? → **Go straight without much spin**
+  - Check: Farhan, a boy in Class 4, kicks a football right through its middle. What will the ball most likely do? → **Go straight without much spin**
 ### a4 · Soft Hands: catch a water balloon (10 min)
-- **safety:** Do this in the bathroom, on a balcony, or outside. Pick up every bit of burst balloon, because small children can choke on balloon pieces.
+- **safety:** Do this in the bathroom or on a balcony. Pick up every bit of burst balloon, because small children can choke on balloon pieces.
 - **record:** Write what happened with stiff hands and with soft hands.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Fill the balloons about half full with water and tie them. Stand about 2 metres apart.  
-  *Parent says:* We will catch water balloons. First with stiff hands that don't move, then with soft hands that move back with the balloon. Which way will burst more? Why?  
-  *Child mode:* Stiff hands or soft hands. Which will burst the balloon? Why?
+  *Parent says:* We will catch water balloons. First with stiff hands that don't move, then with soft hands that move back with the balloon. Which way will be gentler on the balloon? Why?  
+  *Child mode:* Stiff hands or soft hands. Which is gentler on the balloon? Why?
 - **s2 (3 min)**  
   *Parent does:* Toss a balloon gently. Your child catches it with stiff hands that stay still.  
   *Parent says:* Hold your hands out and keep them still, like a wall.  
   *Child mode:* Keep your hands still, like a wall. Catch!
+  - Note: A gently tossed balloon may not burst, even with stiff hands. That is a real result. Notice how the balloon wobbles and how your hands feel. A slightly higher toss makes the difference clearer.
 - **s3 (3 min)**  
   *Parent does:* Toss another balloon the same way. Your child lets their hands move back towards their chest as they catch.  
   *Parent says:* This time, let your hands go back with the balloon as it lands in them.  
@@ -428,7 +427,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Parent does:* Ask what was different.  
   *Parent says:* What was different between the two catches? Where else do people use soft hands?  
   *Child mode:* What was different? Where else do people catch with soft hands?
-  - Check: Why does a cricketer pull their hands back when they catch a hard ball? → **So the ball slows down over a longer time and hurts less**
+  - Ask: Where else do people catch with soft hands? (good: A cricketer catching a hard ball.; A goalkeeper pulling the ball to their chest.; Catching an egg without breaking it.)
 ### a5 · Sport Spotting: watch a match like a scientist (15 min)
 - **safety:** If you watch a game outside, stay at the edge, away from the ball.
 - **record:** Make a tally: one mark for each thing you spot.
@@ -437,7 +436,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Parent says:* Let's watch a match like scientists. Each time you spot one of these, make a mark.  
   *Child mode:* Draw five rows. Bounce, curved throw, spin, soft catch, push on the ground.
 - **s2 (10 min)**  
-  *Parent does:* Watch the match together for 10 minutes. Pause it when your child spots something, and ask them to say what is pushing on what.  
+  *Parent does:* Watch the match together for 10 minutes. If you can pause it, pause when your child spots something. Ask them to say what is pushing on what.  
   *Parent says:* What did you spot? What pushed on what? Why did it move that way?  
   *Child mode:* Make a mark each time you spot one. Say what pushed what.
   - Note: In cricket, watch the ball bounce off the pitch, the fielders throw in curves, and the bowler's run-up. In football, look for curving kicks. In kabaddi, see how raiders push off the mat to turn fast.
@@ -450,7 +449,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 ### p1 · Build a Rubber Band Ball, and test it on every floor (40 min, 2 days)
 - **safety:** Rubber bands can snap and sting. Keep them away from faces and eyes. Keep loose bands away from small children.
 - **record:** Write the bounce on the floor after every 50 bands. On day 2, add a row to your bounce table for the new ball.
-- **schedule:** day 1: Crumple a small ball of newspaper. Wrap rubber bands round it, one by one, until it is the size of a tennis ball. Test its bounce on the floor at 50 bands and at 100 bands. (25 min); day 2: Finish the ball. Test it on the five surfaces from the bounce test, and compare it with your first ball. (15 min)
+- **schedule:** day 1: Crumple a small ball of newspaper. Wrap rubber bands round it, one by one, until it is the size of a tennis ball. Test its bounce on the floor at 50 bands and at 100 bands. (25 min); day 2: Finish the ball. Test it on the five surfaces from the bounce test, and compare it with the ball from the bounce test. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Crumple half a sheet of newspaper into a tight ball, about the size of a lemon. Drop it from 100 cm and measure the bounce.  
   *Parent says:* A newspaper ball hardly bounces. Will it bounce better with rubber bands round it? Why do you think so?  
@@ -467,7 +466,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   - Check: Why does a rubber band ball bounce better than a newspaper ball? → **Rubber is elastic, so it springs back after it squashes**
 - **s4 (15 min)**  
   *Parent does:* On day 2, finish the ball. Drop it on the five surfaces from the bounce test, 3 times each.  
-  *Parent says:* Does your ball do the same as the first ball on the pillow and the rice?  
+  *Parent says:* Does your rubber band ball do the same as the ball in the bounce test did on the pillow and the rice?  
   *Child mode:* Test your ball on all five surfaces. Same pattern as before?
   - Wait: Come back to this tomorrow
 
@@ -491,7 +490,8 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   *Parent does:* Try one change, such as tighter or looser, and test again.  
   *Parent says:* What one change will make it better? Try it. Why did that help?  
   *Child mode:* Change one thing. Test again. Better or worse? Why?
-  - Check: Why does a tight trampoline give a better bounce than a pillow? → **It springs back fast enough to push the ball up**
+  - Ask: Why does a tight cloth give a better bounce than a pillow? (good: It springs back fast enough to push the ball up.; The pillow springs back too slowly.; Both squash, but the cloth is quicker to spring back.)
+  - Note: Both the pillow and the cloth squash when the ball lands. The tight cloth springs back fast, while the ball is still touching it, so it pushes the ball up. The pillow is too slow. A trampoline is softer than the floor, not harder.
 ### c2 · Feet for Sand: how not to sink (25 min)
 - **problem:** Soft sand is hard to walk and run on, because feet sink in. Camels walk across deserts of soft sand every day. Find a way for a 'foot' to sink less into soft ground.
 - **your turn:** Now design a foot that sinks least. Draw it, make it and test it with the same bottle. What made it work?
@@ -514,28 +514,27 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   - Check: Why does a wide foot sink less into soft sand? → **The same weight is spread over more sand**
 
 ## Worksheets
-### Bounce, Throw and Run (core) (core, 16 questions)
+### Bounce, Throw and Run (core) (core, 15 questions)
 1. (mcq) Kavya, a girl in Class 3 in Madurai, drops the same tennis ball from the same height onto a stone floor and onto a sofa cushion. Where will it bounce higher?  
    Options: On the stone floor / On the sofa cushion / The same on both  
    **Answer:** On the stone floor. *Why:* On the hard floor the ball squashes and springs back, so it bounces high. The cushion squashes instead and springs back too slowly to push the ball up. A strong answer says what squashes in each case.
-2. (truefalse) Divya says, 'A ball bounces only because the floor is hard.' Is she right?  
+2. (truefalse) Divya, a girl in Class 3, says, 'A ball bounces only because the floor is hard.' Is she right?  
    **Answer:** False. *Why:* False. The ball must be elastic too. A ball of wet clay on a hard floor does not bounce at all. A bounce needs a ball that springs back and a surface that does not take the squash instead.
 3. (fill) A material that springs back to its old shape after it is squashed is called ____.  
    **Answer:** ['elastic']. *Why:* Elastic means it springs back. Rubber is elastic. Dough and wet clay are not.
-4. (sort) Priya drops a rubber ball onto each of these. Sort them: a high bounce or a low bounce?  
+4. (fill) When a ball lands on a hard floor, it ____ flat at the bottom for a tiny moment, and then springs back.  
+   **Answer:** ['squashes', 'squashes flat', 'is squashed']. *Why:* A bounce starts with a squash. The ball is squashed flat for a few thousandths of a second. Then it springs back to round, and that push sends it up.
+5. (sort) Priya, a girl in Class 3, drops a rubber ball onto each of these. Sort them: a high bounce or a low bounce?  
    **Answer:** a tiled floor → High bounce; a pillow → Low bounce; a cement road → High bounce; a plate of dry rice → Low bounce; a steel plate on the floor → High bounce; a folded quilt → Low bounce. *Why:* Hard surfaces that hardly give way let the ball spring back. Soft surfaces squash instead of the ball and take the bounce away. A strong answer sorts by how soft the surface is.
-5. (write) In the bounce test, the ball hardly bounced on the pillow. Explain why. Use the words 'squash' and 'spring back'.  
+6. (write) In the bounce test, the ball hardly bounced on the pillow. Explain why. Use the words 'squash' and 'spring back'.  
    **Answer:** When the ball landed on the pillow, the pillow squashed instead of the ball. The pillow springs back too slowly to push the ball up again, so the ball hardly bounced.. *Why:* A strong answer says that the pillow, not the ball, did the squashing, and that it did not spring back fast enough.
-6. (order) Put the steps of the bounce test in order.  
+7. (order) Put the steps of the bounce test in order.  
    **Answer:** ['Tape a paper ruler to the wall', 'Hold the ball at the 100 cm mark', 'Let go without pushing', 'Read how high the ball bounced']. *Why:* First make the ruler, then hold the ball at the same height each time, let it fall freely, and read the top of the bounce.
-7. (mcq) Arjun, a boy of 8, runs on soft beach sand and then on a hard road. Why is the sand more tiring?  
-   Options: His feet sink in, and the sand slides away instead of pushing back / Sand is heavier than the road / The road pulls him along  
-   **Answer:** His feet sink in, and the sand slides away instead of pushing back. *Why:* On sand, part of each push goes into moving the sand, so his legs must do more work for every step. On the road, the ground does not give way, and his legs spring back. Roads do not pull anyone along.
 8. (match) Match each word to what it means.  
    **Answer:** Bounce → moving back off a surface after hitting it; Gravity → the pull of the Earth on everything; Friction → the grip between two things that touch; Spin → turning round and round while moving; Fair test → a test where you change only one thing. *Why:* These words come up all through the unit. A strong answer could give an example of each from a game.
 9. (draw) Draw the path of a ball thrown gently from your hand to a friend's hands across the room.  
    **Answer:** A smooth curve that rises from the thrower's hand, bends over and comes down to the catcher's hands.. *Why:* The ball keeps moving forward while gravity pulls it down, so its path is a curve, not a straight line or a hook.
-10. (mcq) Meenakshi squeezes a plastic bottle with a hole in it, and water squirts out. She squeezes harder. What happens to the jet?  
+10. (mcq) Meenakshi, a girl in Class 4, squeezes a plastic bottle with a hole in it, and water squirts out. She squeezes harder. What happens to the jet?  
    Options: It lands further away / It lands closer / It goes straight down  
    **Answer:** It lands further away. *Why:* A harder squeeze makes the water leave faster. Faster water goes further forward before gravity brings it down.
 11. (truefalse) A thrown ball keeps moving forward after it leaves your hand, even though nothing is pushing it forward.  
@@ -547,12 +546,10 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
    **Answer:** A strong answer uses the bounce test: the ball bounced higher on the hard floor than on the mat. It picks a side for a reason, such as a fast game or an easy catch. It also gives the other friend her due: both are right about what each floor does.. *Why:* There is no single right answer. A strong answer uses evidence from the test and sees that the best floor depends on what you want from the game.
 14. (fill) The Earth's pull that brings every thrown ball back down is called ____.  
    **Answer:** ['gravity']. *Why:* Gravity pulls everything towards the ground. That is why a thrown ball always comes down.
-15. (write) Lakshmi drops her ball 3 times on the doormat. It bounces to 38 cm, 42 cm and 40 cm. What is the middle number, and why do we drop it 3 times?  
-   **Answer:** In order, the numbers are 38, 40 and 42, so the middle number is 40 cm. We drop it 3 times because one try can be a fluke, for example if the ball lands on a bump.. *Why:* A strong answer puts the numbers in order to find the middle one, and gives a reason for repeating a test.
-16. (label) Label the picture of a running leg: the foot pushes ____ on the ground, and the ground pushes the runner ____.  
+15. (label) Label the picture of a running leg: the foot pushes ____ on the ground, and the ground pushes the runner ____.  
    **Answer:** ['back', 'forward']. *Why:* Your foot pushes back on the ground, and the ground pushes you forward. That is why you can't run well on a slippery floor.
-### Why the Ground Matters (stretch) (stretch, 16 questions)
-1. (mcq) Fatima, a girl in Hyderabad, drops a ball onto a pillow 20 times in a row. Where does most of the ball's movement go?  
+### Why the Ground Matters (stretch) (stretch, 15 questions)
+1. (mcq) Fatima, a girl in Class 4 in Hyderabad, drops a ball onto a pillow 20 times in a row. Where does most of the ball's movement go?  
    Options: Into a little warmth and sound in the pillow / Back into the ball / It is destroyed and gone for ever  
    **Answer:** Into a little warmth and sound in the pillow. *Why:* Energy is never used up. It changes kind. As the pillow squashes, its cotton or foam rubs on itself, and that turns the movement into a little warmth and sound. Picking 'destroyed' is a common idea, but energy never just vanishes.
 2. (write) Why is the beach cricket played on the wet sand near the waves, and not on the soft, dry sand? Use the word 'bounce'.  
@@ -561,51 +558,48 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
    **Answer:** A strong answer picks a side and gives a reason, such as 'sand makes my legs work harder' or 'I should practise the movement I will race with'. It also gives another side its due, for example that the scientist is honest that nobody knows for sure. Doing some of both, as Arjun did in the story, is a fair answer too.. *Why:* This is a real argument among coaches. A strong answer uses the physics: sand gives back less of each push, so it is harder work, but harder work is not the same as practising a fast run.
 4. (truefalse) A heavy steel ball always bounces higher than a light rubber ball on a tiled floor.  
    **Answer:** False. *Why:* False. How high a ball bounces depends on how elastic it is and on the surface, not on its weight. A light rubber ball springs back fast and bounces much higher. A heavy steel ball on tiles may even crack the tile.
-5. (mcq) In the Galileo's Table test, Nithya rolls a marble off a table from 5 cm, 10 cm and 20 cm up the ramp. Which marble lands furthest from the table?  
-   Options: The one from 20 cm / The one from 5 cm / They all land in the same place  
-   **Answer:** The one from 20 cm. *Why:* From higher up the ramp the marble is moving faster when it leaves the table. All three take the same short time to fall, but the faster one goes further forward in that time.
-6. (draw) Draw a table from the side. Draw the paths of two marbles rolling off it: one slow and one fast. Show where each lands.  
+5. (draw) Draw a table from the side. Draw the paths of two marbles rolling off it: one slow and one fast. Show where each lands.  
    **Answer:** Two curves starting at the table edge. The slow one curves down steeply and lands close to the table. The fast one goes further out before curving down and lands further away.. *Why:* Both marbles are pulled down by gravity from the moment they leave the table. The fast one goes further forward while it falls.
+6. (mcq) Ashwin, a boy in Class 5, jumps down from a low step. First he lands on the stone floor. Then he lands on a thick mattress on the floor. Why is the mattress gentler on his legs?  
+   Options: It stops him over a longer time, so the push on his legs is smaller / It makes him lighter / It pushes him back up harder  
+   **Answer:** It stops him over a longer time, so the push on his legs is smaller. *Why:* The mattress squashes, so Ashwin takes longer to stop. A longer stop means a smaller push on his legs. This is the same idea as catching a ball with soft hands. The mattress does not change his weight.
 7. (match) Match each sport to the push that makes it work.  
    **Answer:** Running → your foot pushes back on the ground; Swimming → your arms push water back; Long jump → your feet push down and back, and your arms swing forward; Catching → your hands move back to slow the ball gently. *Why:* In every sport, you push on something and it pushes you back, or you slow something over time. A strong answer could explain one of them in a sentence.
 8. (order) A falling ball hits a hard floor and bounces. Put what happens in order.  
    **Answer:** ['The ball hits the floor', 'The ball squashes flat at the bottom', 'The ball springs back to round', 'The ball rises into the air']. *Why:* The ball squashes as it hits, then springs back, and that springing back pushes it up off the floor. All of this takes a few thousandths of a second.
-9. (mcq) Anjali kicks a football on its side, not through its middle. What will the ball do?  
-   Options: Spin as it moves, and may curve in the air / Go perfectly straight with no spin / Stop at once  
-   **Answer:** Spin as it moves, and may curve in the air. *Why:* A push to one side of the centre turns the ball as well as moving it, so it spins. A spinning ball pushes the air to one side, and the air pushes the ball the other way, so it curves.
-10. (write) In the arm swing test, most children jump further when they swing their arms. Explain why.  
-   **Answer:** When you swing your arms forward and up, they gain forward speed. Your body carries that speed into the air. The swing also keeps your legs pushing on the ground a little longer. So you go further.. *Why:* A strong answer says the arms add forward movement and help the legs push for longer.
-11. (fill) The curved path of a thrown ball, when there is no air to slow it, is called a ____.  
+9. (fill) The curved path of a thrown ball, when there is no air to slow it, is called a ____.  
    **Answer:** ['parabola']. *Why:* A parabola is the smooth curve that every thrown thing would follow without air. Galileo proved this in 1638.
-12. (sort) Sort these. Does the ground push back well, or does it give way?  
+10. (sort) Sort these. Does the ground push back well, or does it give way?  
    **Answer:** a running track → Pushes back well; soft beach sand → Gives way; a cement road → Pushes back well; a thick mattress on the floor → Gives way; firm wet sand near the waves → Pushes back well; deep mud → Gives way. *Why:* Firm ground hardly moves when you push on it, so your push comes back to you. Soft ground moves and does not spring back, so some of your push is lost in it. Wet sand is firmer than dry sand, because the water holds the grains together.
-13. (truefalse) On a smooth floor in socks, it is hard to start running because there is little friction to stop your foot sliding back.  
+11. (truefalse) On a smooth floor in socks, it is hard to start running because there is little friction to stop your foot sliding back.  
    **Answer:** True. *Why:* True. To run, your foot pushes back on the ground. Friction stops the foot sliding, so the ground can push you forward. With little friction, your foot slides back instead.
-14. (label) Label the three pictures of a ball landing on a pillow: 'falling', 'pillow squashes', 'ball stops'.  
+12. (label) Label the three pictures of a ball landing on a pillow: 'falling', 'pillow squashes', 'ball stops'.  
    **Answer:** ['falling', 'pillow squashes', 'ball stops']. *Why:* The ball falls, the pillow squashes instead of the ball, and the ball stops, because the pillow springs back too slowly to push it up.
-15. (mcq) Kavya's tennis ball bounced to 55 cm on the floor. She left it in the fridge for an hour and dropped it again. It bounced to 48 cm. What is the best next step?  
+13. (mcq) Kavya, a girl in Class 3, has a tennis ball. It bounced to 55 cm on the floor. She left it in the fridge for an hour and dropped it again. It bounced to 48 cm. What is the best next step?  
    Options: Do it 3 times cold and 3 times warm before deciding / Say cold balls always bounce lower / Give up, because it went wrong  
    **Answer:** Do it 3 times cold and 3 times warm before deciding. *Why:* One try can be a fluke. Testing 3 times each way shows whether the difference is real. Many balls do bounce a little lower when cold, but a scientist checks before deciding.
-16. (write) A kangaroo needs to travel far across dry land to find food and water. How do the long tendons in their legs help them?  
+14. (write) A kangaroo needs to travel far across dry land to find food and water. How do the long tendons in their legs help them?  
    **Answer:** With each hop, the tendons in the kangaroo's legs stretch as they land, then spring back and help lift them into the next hop. So they can hop a long way without tiring as fast.. *Why:* A strong answer starts with the kangaroo's problem, travelling far, and says how springy tendons help solve it.
+15. (truefalse) If you throw a ball at the same speed and angle on the Moon, it flies further than on Earth.  
+   **Answer:** True. *Why:* True. The Moon pulls things down about six times less than the Earth, and it has no air. So the ball stays up for longer and goes further forward before it lands.
 ### Think Like a Sports Scientist (challenge) (challenge, 16 questions)
 1. (write) Your ball bounced to about 55 cm on the floor and about 5 cm on the pillow. Write a short rule that explains both results, and test your rule on one new surface.  
    **Answer:** A strong rule: the softer a surface is, and the slower it springs back, the lower the bounce. It names a new surface, such as a bed or a carpet, makes a guess, tests it, and says if the rule worked.. *Why:* A strong answer makes a general rule from evidence and then checks it, which is what scientists do.
-2. (perspective) Three people explain why a footballer's spinning kick curves in the air.  
+2. (perspective) Two people explain why a footballer's spinning kick curves in the air.  
    **Answer:** A strong answer explains one view in its own words, for example that the ball pushes air one way so the air pushes the ball the other way. It sees that both describe the same curve, and that both can be true at once.. *Why:* Scientists agree that a spinning ball curves, the Magnus effect. Teachers argue about which explanation is clearer. Both are correct ways of describing it.
 3. (mcq) Without any air, at which angle would a ball thrown at the same speed go furthest?  
    Options: 45 degrees, halfway between flat and straight up / Flat along the ground, 0 degrees / Straight up, 90 degrees  
    **Answer:** 45 degrees, halfway between flat and straight up. *Why:* Thrown flat, the ball soon hits the ground. Thrown straight up, it comes back to you. Halfway, 45 degrees, gives the best mix of going forward and staying up. In real sport, with air and the thrower's height, the best angle is a little lower.
 4. (draw) Draw three throws from the same hand at the same speed: nearly flat, halfway up, and nearly straight up. Show where each lands.  
    **Answer:** The nearly flat throw lands close. The nearly straight up throw goes high and lands close. The halfway throw lands furthest away.. *Why:* This shows why the angle of a throw matters as much as its speed.
-5. (write) Revathi says, 'A trampoline is soft like a pillow, so it should give a low bounce too.' Explain what she is missing.  
+5. (write) A friend says, 'A trampoline is soft like a pillow, so it should give a low bounce too.' Explain what she is missing.  
    **Answer:** A trampoline is soft, but it is also elastic. It springs back fast, while the ball is still touching it, so it pushes the ball up. A pillow springs back too slowly. So being soft is not enough to lose a bounce. What matters is how fast the surface springs back.. *Why:* A strong answer separates 'soft' from 'springs back slowly', which is the key idea of the unit.
 6. (truefalse) Tennis has a rule for how bouncy a ball must be: dropped from 254 cm onto concrete, it must bounce back to between 135 and 147 cm.  
    **Answer:** True. *Why:* True. Tennis balls are tested by dropping them onto concrete. A ball that bounces too high or too low is not allowed. That is about half the height it fell from.
 7. (mcq) A cricket ball and a rubber ball are dropped from the same height onto wet mud. What will happen?  
    Options: Both will hardly bounce, because the mud squashes / The cricket ball will bounce higher, because it is heavier / Both will bounce high  
    **Answer:** Both will hardly bounce, because the mud squashes. *Why:* Wet mud squashes and stays squashed, so it takes the bounce from any ball. The ball's weight doesn't change that.
-8. (write) In Galileo's Table, Aparna's marbles landed 30 cm, 42 cm and 58 cm from the table. Her friend says the marble falls straight down for a while, then moves forward. Use Aparna's results to show why that is wrong.  
+8. (write) In Galileo's Table, Aparna, a girl in Class 4, found that her marbles landed 30 cm, 42 cm and 58 cm from the table. Her friend says the marble falls straight down for a while, then moves forward. Use Aparna, a girl in Class 4, found that her results to show why that is wrong.  
    **Answer:** If the marble fell straight down first, it would land close to the table each time. But it landed further away when it was faster, so it was moving forward the whole time it fell. Its path was a curve, starting at the table edge.. *Why:* A strong answer uses the evidence, the landing distances, to test someone else's idea.
 9. (sort) Sort these features. Does each help the animal move on soft ground, or on hard ground?  
    **Answer:** a camel's wide, padded feet → Soft ground; a horse's hard hooves → Hard ground; a duck's webbed feet on mud → Soft ground; a mountain goat's hard-edged hooves on rock → Hard ground. *Why:* Wide feet spread an animal's weight so they sink less on soft ground. Hard hooves grip and don't wear away on firm ground and rock. A strong answer starts with the animal's problem: sinking, or slipping.
@@ -613,7 +607,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
    **Answer:** ['a stone floor', 'a doormat', 'a pillow', 'a plate of dry rice']. *Why:* The harder the surface, and the less it gives way, the higher the bounce. Rice grains slide apart and don't spring back at all.
 11. (write) An athletics track is made of firm rubber, not hard concrete and not soft sand. Why do you think it is made that way?  
    **Answer:** It is firm, so the runner's push comes back to them and they can run fast. It is a little soft and springy, so landing is gentler on the runner's legs than on concrete. It also grips their shoes, so they don't slip.. *Why:* A strong answer weighs two needs: a firm push back for speed, and a little give for safety.
-12. (mcq) Nila stands on a scale in her house. She bends her knees and jumps up. Just as she pushes off, what does the scale show?  
+12. (mcq) Nila, the girl in the story, stands on a scale in her house. She bends her knees and jumps up. Just as she pushes off, what does the scale show?  
    Options: More than her weight, because she pushes down harder / Less than her weight / Zero  
    **Answer:** More than her weight, because she pushes down harder. *Why:* To jump up, she must push down on the scale harder than her weight. The scale pushes back up just as hard, and that extra push lifts her. Once she is in the air, it reads zero.
 13. (label) Label the forces on a runner: the runner's weight, the ground pushing up, and the ground pushing forward.  
@@ -631,43 +625,40 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **What Is The Magnus Force?** (Veritasium, 4 min) id `23f1jvGUWJs`: A spinning basketball dropped from a high dam curves far away, while a ball with no spin falls straight. A clear look at the Magnus effect. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
-1. (mcq) Divya drops a ball from the same height onto a tiled floor and onto a folded quilt. What will she see?  
+1. (mcq) Divya, a girl in Class 3, drops a ball from the same height onto a tiled floor and onto a folded quilt. What will she see?  
    Options: A higher bounce on the tiles / A higher bounce on the quilt / No bounce on either  
    **Answer:** A higher bounce on the tiles. *Why:* On the tiles the ball squashes and springs back. On the quilt, the quilt squashes instead and gives the bounce back too slowly. Picking 'quilt' often means thinking soft things are bouncy, but softness takes a bounce away unless the surface springs back fast.
 2. (mcq) Why does a ball of wet clay not bounce, even on a hard floor?  
    Options: It squashes and stays squashed / It is too heavy / The floor is too hard  
    **Answer:** It squashes and stays squashed. *Why:* A bounce needs the ball to spring back. Wet clay is not elastic, so it stays flat. Weight is not the problem: a heavier rubber ball still bounces.
-3. (mcq) In a bounce test, Kavya changes the surface and the height of the drop at the same time. What is wrong?  
+3. (mcq) In a bounce test, Kavya, a girl in Class 3, changes the surface and the height of the drop at the same time. What is wrong?  
    Options: She can't tell which change made the difference / Nothing is wrong / She should use a smaller ball  
    **Answer:** She can't tell which change made the difference. *Why:* In a fair test, only one thing changes. If two things change, you can't tell which one made the bounce different.
-4. (mcq) Lakshmi's three bounces on the mat were 30 cm, 36 cm and 33 cm. What is the middle number?  
-   Options: 33 cm / 36 cm / 30 cm  
-   **Answer:** 33 cm. *Why:* In order they are 30, 33 and 36, so the middle number is 33 cm. Picking 36 means choosing the highest, not the middle.
-5. (mcq) Arjun, a boy of 8, runs on soft beach sand. Why does it tire him faster than running on the road?  
+4. (mcq) Arjun, a boy of 8, runs on soft beach sand. Why does it tire him faster than running on the road?  
    Options: Some of each push goes into moving the sand / Sand pulls his feet down / The road is downhill  
    **Answer:** Some of each push goes into moving the sand. *Why:* Soft sand slides away and doesn't spring back, so part of each push is lost in it. His muscles must do more work for each step. Sand doesn't pull feet down, it just gives way under them.
-6. (mcq) When you run, what in your legs stretches and springs back like a rubber band?  
+5. (mcq) When you run, what in your legs stretches and springs back like a rubber band?  
    Options: Your tendons / Your toenails / Your skin only  
    **Answer:** Your tendons. *Why:* Tendons, like the Achilles tendon at the back of your heel, stretch when your foot lands and spring back as you push off.
-7. (mcq) Why does a thrown ball fly in a curve?  
+6. (mcq) Why does a thrown ball fly in a curve?  
    Options: It keeps moving forward while gravity pulls it down / The air lifts it up and then drops it / It goes straight until its push runs out, then drops  
    **Answer:** It keeps moving forward while gravity pulls it down. *Why:* The ball keeps going forward from the throw, while gravity pulls it down from the very start. Together these make a curve. 'Straight until its push runs out' is the old idea that Tartaglia and Galileo showed was wrong.
-8. (mcq) Meenakshi rolls a marble off a table, first slowly and then fast. Where does the fast one land?  
+7. (mcq) Meenakshi, a girl in Class 4, rolls a marble off a table, first slowly and then fast. Where does the fast one land?  
    Options: Further from the table / Closer to the table / In the same place  
    **Answer:** Further from the table. *Why:* Both take the same short time to fall to the floor. The fast one goes further forward in that time.
-9. (mcq) Farhan wants to make a football curve round a wall of players. Where should he kick it?  
+8. (mcq) Farhan, a boy in Class 4, wants to make a football curve round a wall of players. Where should he kick it?  
    Options: On its side, so it spins / Right through its middle / On the very top  
    **Answer:** On its side, so it spins. *Why:* A kick off the middle makes the ball spin. A spinning ball pushes air to one side, and the air pushes the ball the other way, so it curves. A kick through the middle sends it straight.
-10. (mcq) What is the name for the way a spinning ball curves in the air?  
+9. (mcq) What is the name for the way a spinning ball curves in the air?  
    Options: The Magnus effect / Gravity / Friction  
    **Answer:** The Magnus effect. *Why:* It is named after Heinrich Gustav Magnus, who studied it in 1852. Gravity pulls the ball down, but it doesn't make it curve sideways.
-11. (mcq) Why do you jump further when you swing your arms forward?  
+10. (mcq) Why do you jump further when you swing your arms forward?  
    Options: Your arms add forward speed and help your legs push longer / Your arms make you lighter / Swinging your arms makes the floor bouncier  
    **Answer:** Your arms add forward speed and help your legs push longer. *Why:* Your swinging arms gain forward speed, and your body carries it into the air. The swing also keeps your legs pushing on the floor a little longer. Your weight does not change.
-12. (mcq) Why does a cricketer pull their hands back when catching?  
+11. (mcq) Why does a cricketer pull their hands back when catching?  
    Options: The ball slows down over a longer time, so the force is smaller / To throw it back faster / So the ball bounces out  
    **Answer:** The ball slows down over a longer time, so the force is smaller. *Why:* Moving the hands back makes the stop take longer, so the push on the hands is smaller. The catch stings less and the ball is less likely to bounce out.
-13. (mcq) Tartaglia was an Italian mathematician who taught himself. What did he say about the path of a cannonball?  
+12. (mcq) Tartaglia was an Italian mathematician who taught himself. What did he say about the path of a cannonball?  
    Options: No part of it is really straight, because its weight pulls it down all the time / It goes in a straight line for ever / It goes straight, then drops straight down  
    **Answer:** No part of it is really straight, because its weight pulls it down all the time. *Why:* Many people before him thought the path was straight and then dropped like a hook. Tartaglia argued it curves all the way, and Galileo later showed with experiments that it is a smooth curve called a parabola.
 
@@ -710,27 +701,21 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - Why did the tennis ball refuse to land on the pillow? *It wanted a floor that would give it something back.*
 - What is a runner's favourite subject? *Jog-raphy.*
 - Why was the ball of dough no good at sport? *Every time it fell, it just stayed down.*
-- What did the floor say to the bouncing ball? *I'll push you back, but only as hard as you push me.*
-- Why did the cricket ball stop on the dry sand? *It couldn't find its bounce anywhere.*
 - Why are footballers good at maths? *They know all the angles.*
 - What do you call a ball that spins and curves round a wall? *A Magnus-ificent kick.*
-- Why did the kangaroo never get tired? *Their tendons kept springing back.*
-- Why did the marble take the curved path off the table? *Gravity wouldn't let it go straight.*
 - Why don't camels need sand-shoes? *They were born wearing wide ones.*
 - Why did the water balloon love soft hands? *Stiff hands made it burst into tears.*
-- Why did the long jumper bring their arms along? *Every little swing helps.*
 - What's a trampoline's favourite thing to say? *Bounce back!*
 - What did the pillow say to the falling ball? *Stay a while.*
-- Why was the running track so popular? *It always pushed people forward.*
 
 ## Connected maths
-- In the bounce test, Kavya's ball bounced to 55 cm on the floor, 40 cm on the doormat, 20 cm on the folded bedsheet, 5 cm on the pillow and 0 cm on the rice. Draw a bar chart. Which surface gave the highest bounce, and how much higher was it than the doormat? **The floor gave the highest bounce. It was 15 cm higher than the doormat.**. The floor's bar is tallest, at 55 cm. The doormat's is 40 cm. 55 minus 40 is 15. So the floor bounce was 15 cm higher. (queues `math.data.bar-charts.L3`)
-- Kavya dropped the ball from 100 cm and it bounced to 55 cm on the floor. Then she dropped it from 50 cm. Predict how high it will bounce, and say why. **About 27 or 28 cm, roughly half of 55.**. From 100 cm it came back about 55 cm, just over half. On the same floor, the ball gives back about the same share of the fall. Half of 100 is 50, so half of 55 is about 27 or 28 cm. A real ball may differ a little, so test it. (queues `math.fractions.halves-and-quarters.L3`)
-- Meenakshi throws a ball three times at the same speed: at an angle of 15 degrees, 45 degrees and 75 degrees. Without air, the 15 and 75 degree throws land in the same place. Which throw lands furthest? What do 15 and 75 add up to? **The 45 degree throw lands furthest. 15 and 75 add up to 90.**. Without air, the throw halfway up, at 45 degrees, goes furthest. Two angles that add up to 90 degrees, such as 15 and 75, land in the same place: the low one goes fast and flat, and the high one goes up and comes down. 15 + 75 = 90. (queues `math.lines-angles.angles.L3`)
-- In the arm swing test, Nithya jumped 92, 98 and 95 cm with her arms behind her back, and 110, 116 and 112 cm with her arms swinging. Find each middle number. How much further did swinging her arms take her? **95 cm and 112 cm. Swinging her arms took her 17 cm further.**. In order, 92, 95, 98 gives a middle of 95. In order, 110, 112, 116 gives a middle of 112. 112 minus 95 is 17. So she jumped 17 cm further with her arms. (queues `math.addition-subtraction.word-problems.L3`)
+- Kavya, a girl in Class 3, did the bounce test. Her ball bounced to 55 cm on the floor, 40 cm on the doormat, 20 cm on the folded bedsheet, 5 cm on the pillow and 0 cm on the rice. Draw a bar chart. Which surface gave the highest bounce, and how much higher was it than the doormat? **The floor gave the highest bounce. It was 15 cm higher than the doormat.**. The floor's bar is tallest, at 55 cm. The doormat's is 40 cm. 55 minus 40 is 15. So the floor bounce was 15 cm higher. (queues `math.data.bar-charts.L3`)
+- Kavya, a girl in Class 3, dropped the ball from 100 cm and it bounced to 55 cm on the floor. Then she dropped it from 50 cm. Predict how high it will bounce, and say why. **About 27 or 28 cm, roughly half of 55.**. From 100 cm it came back about 55 cm, just over half. On the same floor, the ball gives back about the same share of the fall. Half of 100 is 50, so half of 55 is about 27 or 28 cm. A real ball may differ a little, so test it. (queues `math.fractions.halves-and-quarters.L3`)
+- Meenakshi, a girl in Class 4, throws a ball three times at the same speed: at an angle of 15 degrees, 45 degrees and 75 degrees. Without air, the 15 and 75 degree throws land in the same place. Which throw lands furthest? What do 15 and 75 add up to? **The 45 degree throw lands furthest. 15 and 75 add up to 90.**. Without air, the throw halfway up, at 45 degrees, goes furthest. Two angles that add up to 90 degrees, such as 15 and 75, land in the same place: the low one goes fast and flat, and the high one goes up and comes down. 15 + 75 = 90. (queues `math.lines-angles.angles.L3`)
+- In the arm swing test, Nithya, a girl in Class 4, jumped 92, 98 and 95 cm with her arms behind her back, and 110, 116 and 112 cm with her arms swinging. Find each middle number. How much further did swinging her arms take her? **95 cm and 112 cm. Swinging her arms took her 17 cm further.**. In order, 92, 95, 98 gives a middle of 95. In order, 110, 112, 116 gives a middle of 112. 112 minus 95 is 17. So she jumped 17 cm further with her arms. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
-Keep On Going (sci.motion.L3): Topic-level song for Motion L3, shared with the other Motion units.
+Keep On Going (sci.motion.L3): 
 
 ## Links
 - [PhET Projectile Motion](https://phet.colorado.edu/en/simulations/projectile-motion) · simulation: A free online simulation. Fire a ball from a cannon at different angles and speeds, and watch the curve. You can turn the air on and off.
@@ -740,7 +725,7 @@ Keep On Going (sci.motion.L3): Topic-level song for Motion L3, shared with the o
 - [Nehru Science Centre](https://nehrusciencecentre.gov.in/) · place · Mumbai: A large science centre with a science park full of things to push, swing and roll.
 
 ## Things to buy
-- [A packet of rubber bands, about 200](https://www.amazon.in/s?k=rubber+bands+packet) (material): For building the rubber band ball. Any stationery shop sells them. Used in p1. Left-over bands are used again in the springs unit (sci.forces.stretching-springs.L3).
+- [A packet of rubber bands, about 200](https://www.amazon.in/s?k=rubber+bands+packet) (material): For building the rubber band ball. Any stationery shop sells them. Used in p1. 
 
 ## Warm-up
 - Which gives a higher bounce, a stone floor or a pillow? → A stone floor.

@@ -207,7 +207,7 @@ Ajji combed for a long time. She combed every part of Kavya's head, front to bac
 
 "Is it finished now?" asked Kavya.
 
-"Not yet. A few eggs always hide. In four days they will hatch, so we will comb again on Friday. Then again, four days after that, and once more after that. By then every louse will be gone before they are old enough to lay eggs."
+"Not yet. A few eggs always hide, and they hatch over the next days. So we will comb again on Friday, then four days after that, and once more after that. By then every louse will be gone before any is old enough to lay eggs."
 
 The next morning, Kavya asked Ajji for two things. The first was the comb, wrapped in a clean handkerchief. The second was a note for Divya's mother.
 
@@ -232,12 +232,12 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 
 ## Games
 ### g1 · Break the Path: a malaria journey board game (20 min)
-- **rules:** Each player has a parasite token on square 1.; On your turn, roll the die and move.; On squares 5 and 16, draw a Bite card and do what it says.; The first parasite to go all the way round the loop wins that round. Then ask: which cards helped the parasite, and which broke the path?; Play a second round where everyone adds one new Safety card of their own.
-- **Printable board: The journey board:** A path of 24 squares in a loop.; Squares 1 to 4: in a person's blood.; Square 5: a mosquito bites. Draw a Bite card.; Squares 6 to 12: in the mosquito's stomach. The parasite grows for one to two weeks.; Squares 13 to 15: in the mosquito's saliva.; Square 16: the mosquito bites again. Draw a Bite card.; Squares 17 to 20: in the new person's liver.; Squares 21 to 24: in the new person's red blood cells, then back to square 1.
-- **Printable cards: 16 Bite cards:** The window has no mesh. The mosquito gets in. Move on.; The person sleeps under a net. The bite is stopped. Go back to square 1.; A fan is blowing on the bed. The mosquito cannot land. Miss a turn.; The person wears long sleeves at dusk. The mosquito finds only cloth. Miss a turn.; The water drum has no lid. More mosquitoes hatch. Move 2 squares.; The flowerpot saucers were emptied on Dry Day. No new mosquitoes. Go back 3 squares.; The person sees a doctor for a fever and takes the full medicine. The parasites in the blood are cleared. Go back to square 1.; The person has a fever and waits a week. Move 3 squares.; A repellent cream is on the skin. Miss a turn.; Screens on every window. Go back 4 squares.; The cooler was not emptied for a month. Move 3 squares.; The person sleeps on the terrace without a net. Move on.; A neighbour covers their water tank. Go back 2 squares.; The mosquito bites a person who has no parasites. Nothing is passed on. Miss a turn.; Evening walk by a pond in shorts. Move 2 squares.; The family empties every container on Sunday. Go back 3 squares.
-- **Printable tokens: Tokens:** One parasite token for each player; A die
+- **rules:** Each player puts a parasite token on square 1. Shuffle the Bite cards and put them face down in a pile.; Take turns. Roll the die, move your token that many squares, and read the square aloud.; If you land on square 5 or 16, draw a Bite card and do what it says. Miss a turn means you skip your next turn. You cannot go back past square 1. A card that moves you onto square 5 or 16 does not make you draw another.; When the pile runs out, shuffle the used cards and use them again.; The first parasite to reach square 24 (or go past it) wins the round.; Then sort the Bite cards into 'helped the parasite' and 'broke the path'. Play a second round with each player's own new Bite card added to the pile.
+- **Printable board: The journey board (24 squares):** Square 1 (START): In a person's blood. The person has malaria, and the parasite is here.; Square 2: In the blood. The parasite is multiplying.; Square 3: In the blood. The person shivers and has a high fever.; Square 4: In the blood. Some parasites are now ready to be picked up by a mosquito.; Square 5: A mosquito bites the sick person and drinks blood with the parasites in it. Draw a Bite card.; Square 6: In the mosquito's stomach. The parasite starts to grow.; Square 7: In the mosquito's stomach. Still growing.; Square 8: In the mosquito's stomach. Multiplying.; Square 9: In the mosquito's stomach. The mosquito keeps flying and biting while the parasite grows.; Square 10: In the mosquito's stomach. Still growing.; Square 11: In the mosquito's stomach. Nearly ready.; Square 12: In the mosquito's stomach. One to two weeks have passed. The parasite is fully grown.; Square 13: The parasite leaves the stomach.; Square 14: The parasite is on its way to the mosquito's saliva.; Square 15: In the mosquito's saliva. The mosquito can now pass the parasite on.; Square 16: The mosquito bites a new person. Draw a Bite card.; Square 17: In the new person's blood, on the way to the liver.; Square 18: In the liver. The parasite is multiplying.; Square 19: In the liver. The person feels well and does not know yet.; Square 20: The parasites leave the liver and enter the blood.; Square 21: Inside a red blood cell. The parasite is multiplying.; Square 22: Inside red blood cells. Still multiplying.; Square 23: The red blood cells burst. The person shivers and has a fever.; Square 24 (FINISH): The new person has malaria. Another mosquito can now pick up the parasite, and the journey begins again.
+- **Printable cards: 16 Bite cards:** The window has no mesh. A mosquito gets in. Move 2 squares.; The person sleeps under a net. The bite is stopped. Go back to square 1.; A fan is blowing on the bed. The mosquito cannot land. Miss a turn.; The person wears long sleeves at dusk. The mosquito finds only cloth. Miss a turn.; The water drum has no lid. More mosquitoes hatch. Move 2 squares.; Every flowerpot saucer was emptied and scrubbed this week. No new mosquitoes. Go back 3 squares.; The person sees a doctor for the fever and takes the full medicine. The parasites in the blood are cleared. Go back to square 1.; The person has a fever and waits a week before seeing a doctor. Move 3 squares.; A repellent cream is on the skin. The mosquito stays away. Miss a turn.; Screens on every window. Go back 4 squares.; The cooler was not emptied for a month. Move 3 squares.; The person sleeps on the terrace without a net. Move 2 squares.; A neighbour covers the building's water tank. Go back 2 squares.; The mosquito bites a person who has no parasites. Nothing is passed on. Miss a turn.; An evening walk by a pond in shorts. Move 2 squares.; The family empties and covers every container on Sunday. Go back 3 squares.
+- **Printable tokens: Tokens and blank cards:** Parasite token 1: cut a small paper square and colour it red; Parasite token 2: cut a small paper square and colour it blue; Parasite token 3 (only if 3 or 4 play): a small paper square, green; Parasite token 4 (only if 4 play): a small paper square, yellow; Blank card 1: for a Bite card you write yourself; Blank card 2: for a Bite card you write yourself; Blank card 3: for a Bite card you write yourself; Blank card 4: for a Bite card you write yourself; One die from any board game at home. No die? Write 1 to 6 on six small papers, fold them, and draw one each turn.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the board, the cards and the tokens. 2. Read the squares together.  
+  *Parent does:* 1. Cut out the board squares, the Bite cards, the tokens and the blank cards. 2. Read the 24 squares together.  
   *Parent says:* This board is the malaria parasite's journey. Let's read where the parasite goes, from a person's blood to a mosquito and back.  
   *Child mode:* Read the board. Where does the parasite go first? Where next?
 - **s2 (12 min)**  
@@ -246,22 +246,22 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Child mode:* Roll the die. Move. On a bite square, take a card.
   - Check: In the game, the parasite stays in the mosquito's stomach for many squares. Why? → **The parasite must grow there for one to two weeks before they can reach her saliva**
 - **s3 (5 min)**  
-  *Parent does:* 1. Sort the cards you drew into 'helped the parasite' and 'broke the path'. 2. Each player writes one new Safety card.  
+  *Parent does:* 1. Sort all the Bite cards into 'helped the parasite' and 'broke the path'. 2. Each player writes one new Bite card on a blank card, with a move, and adds it to the pile.  
   *Parent says:* Which cards broke the path? Can you invent one more way to stop the journey?  
-  *Child mode:* Which cards stopped the parasite? Make up one new card that stops them.
+  *Child mode:* Which cards stopped the parasite? Write a new Bite card that stops them.
   - Ask: Which card do you think breaks the path best, and why? (good: The net, because it stops the bite all night.; Seeing a doctor, because the medicine clears the parasites so no mosquito can pick them up.)
 ### g2 · Parasite or Not? (15 min)
-- **rules:** Lay out the three sorting cards.; Take turns to draw a pair card, read it aloud and place it under one sorting card.; Give a reason each time. Another player may challenge with a different reason.; At the end, check with the answer list. Keep a pile of cards you argued about.
-- **Printable cards: 16 pair cards:** A head louse and a child; A crow and a mango tree she nests in; A flea and a cat; A honeybee and a hibiscus flower; A tick and a cow; A tiger and a deer she hunts; A roundworm and a person; Curd bacteria and the milk they live in; A hookworm and a person; Dodder and a roadside plant they wrap round; A koel chick and the crows who feed them; A mosquito and a person she bites; An egret and the buffalo she rides on; The malaria parasite and a person; A mynah and the cow whose ticks she eats; A cat and a mouse she catches
+- **rules:** Lay out the three sorting cards. Shuffle the pair cards and put them face down in a pile.; Take turns to draw a pair card, read it aloud, and put it under the sorting card you think fits. Say why.; Another player may challenge with a different reason. Then turn the card over and read the answer on the back.; If your sort matched the back, put a tick next to your name on the score sheet. Put cards you argued about in a separate pile.; When all 16 cards are sorted, count the ticks. The player with the most ticks wins, or play together and try to get all 16.
+- **Printable cards: 16 pair cards (the answer is on the back):** A head louse and a child (back: PARASITE. The louse lives in the child's hair and drinks blood.); A crow and a coconut palm she nests in (back: NOT A PARASITE. The crow only uses the palm for a nest and takes no food from the palm.); A flea and a cat (back: PARASITE. The flea lives in the cat's fur and drinks blood.); A honeybee and a hibiscus flower (back: NOT A PARASITE. The bee drinks nectar and carries pollen, so both gain.); A tick and a cow (back: PARASITE. The tick holds on to the cow's skin and drinks blood.); A tiger and a deer she hunts (back: PREDATOR. The tiger kills and eats the deer.); A roundworm and a person (back: PARASITE. The roundworm lives in the person's gut and takes food from them.); Curd bacteria and the milk they live in (back: NOT A PARASITE. Milk is not a living being, so it is not a host.); A hookworm and a person (back: PARASITE. The hookworm lives in the person's gut and drinks blood.); Dodder and a roadside plant they wrap round (back: PARASITE. Dodder pushes suckers into the plant's stem and takes food from the stem.); A koel chick and the crows who feed them (back: PARASITE. The koel is a brood parasite: the crows raise the chick and get nothing back.); A mosquito and a person she bites (back: PARASITE (a tricky one). She does not live on the person, but she feeds from them and leaves, so many scientists call her a parasite.); An egret and the buffalo she rides on (back: NOT A PARASITE. The egret eats insects the buffalo stirs up and takes no food from the buffalo.); The malaria parasite and a person (back: PARASITE. The malaria parasite lives in the person's liver and blood.); A mynah and the cow whose ticks she eats (back: NOT A PARASITE. The mynah helps the cow by eating ticks.); A cat and a mouse she catches (back: PREDATOR. The cat kills and eats the mouse.)
 - **Printable cards: 3 sorting cards:** PARASITE: lives on or in the other, and feeds from them; PREDATOR: kills and eats the other; NOT A PARASITE: the two help each other, or one does no harm
 - **Printable score sheet: Score sheet:** Player name; Cards sorted; Cards where we argued
 - **s1 (10 min)**  
-  *Parent does:* 1. Shuffle the pair cards. 2. Take turns to sort them, giving a reason each time.  
+  *Parent does:* 1. Shuffle the pair cards. 2. Take turns to sort them, giving a reason each time, then turn the card over to check.  
   *Parent says:* A parasite lives on or in another being and feeds from them. A predator kills and eats. Let's sort each pair, and say why.  
   *Child mode:* Pick a card. Is one of them a parasite? Say why.
 - **s2 (5 min)**  
-  *Parent does:* Read the answers and talk about any you disagreed on.  
-  *Parent says:* Answers: louse, flea, tick, roundworm, hookworm, dodder, koel chick, mosquito and the malaria parasite are parasites. The tiger and the cat are predators. The crow, the bee, curd bacteria, the egret and the mynah are not parasites.  
+  *Parent does:* Pick up the cards you argued about, turn each over and read the answer again.  
+  *Parent says:* Which cards did we argue about? Let's read why each one is right.  
   *Child mode:* Check the answers. Which ones surprised you?
   - Note: The mosquito is tricky. She does not live on the person, but she feeds from them and leaves, so many scientists call her a parasite too. The koel is a brood parasite: the mother leaves her eggs for the crows to raise. The mynah helps the cow by eating ticks.
   - Check: A koel mother lays her egg in a crow's nest. The crows feed the koel chick. What is the koel chick? → **A parasite**
@@ -283,12 +283,12 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Parent does:* 1. Ask for a guess and a reason. 2. Write the guesses at the top of the table.  
   *Parent says:* Which comb will push the sesame seeds? Which will push the tiny khus khus seeds? Why do you think so?  
   *Child mode:* Guess. Which comb will push the sesame? Which will push the khus khus? Why?
-  - Ask: What makes you think that comb will catch the small seeds? (good: Its gaps are smaller than the seed.; The seed is too big to slip between its teeth.)
+  - Ask: What makes you think that comb will catch the small seeds? (good: Its gaps are smaller than the seed.; The seed is too big to slip between the teeth.)
   - Note: Wait for a guess and a reason before going on. Do not explain yet. The test will answer it.
 - **s3 (3 min)**  
-  *Parent does:* 1. Draw a start line across the paper with the pencil. 2. Draw a finish line 10 cm away. 3. Put 10 sesame seeds and 10 khus khus seeds along the start line, mixed up, about 1 cm apart.  
+  *Parent does:* 1. Draw a start line across the paper. 2. Draw a finish line 10 cm away. 3. Put 10 sesame seeds in one heap and 10 khus khus seeds in another, 2 cm apart, on the start line.  
   *Parent says:* The seeds are our pretend lice and nits. A sesame seed is about the size of a grown louse. A khus khus seed is a little bigger than a louse egg.  
-  *Child mode:* Draw two lines, 10 cm apart. Put the seeds on the first line. Sesame is like a louse. Khus khus is like an egg.
+  *Child mode:* Draw two lines 10 cm apart. Put sesame and khus khus heaps on the first line.
 - **s4 (6 min)**  
   *Parent does:* 1. Stand the wide-tooth comb on the start line, behind the seeds, with its teeth touching the paper. 2. Sweep it slowly to the finish line. 3. Count the sesame and the khus khus seeds that reached the line. 4. Put them all back and do it twice more.  
   *Parent says:* Keep the teeth flat on the paper and move slowly. Then count what reached the finish line.  
@@ -298,7 +298,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Parent does:* Do the same three sweeps with the ordinary comb, and then with the lice comb. Write every count in the table.  
   *Parent says:* Now the ordinary comb, three times. Then the lice comb, three times. Same seeds, same lines, same slow sweep.  
   *Child mode:* Now try the ordinary comb three times. Then the lice comb three times. Write each count.
-  - Note: Usually the wide comb pushes some sesame seeds and almost no khus khus, because the small seeds slip between its teeth. An ordinary comb pushes most sesame seeds and some khus khus. The lice comb pushes nearly all of both. Results vary with the comb, so what your child sees is the real result.
+  - Note: Usually the wide comb lets most of both kinds of seed slip through. An ordinary comb pushes most of the sesame seeds and only a few khus khus. The lice comb pushes nearly all of both. Combs differ a lot, so what your child sees is the real result. If a comb does something odd, count it anyway and talk about why.
 - **s6 (5 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask for a claim, the evidence and a reason. 3. Then read out the fact about real nits.  
   *Parent says:* Which comb caught the khus khus? What did you see? Why do you think that comb worked? Here is a fact. A real louse egg is smaller than a khus khus seed, and is glued to one hair near the scalp.  
@@ -308,7 +308,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 ### e2 · The Fan Test: where does a fan stop mosquitoes? (20 min)
 - **question:** Mosquitoes are weak fliers. Where in your bedroom is the fan's wind strong, and where is the air still enough for a mosquito to land?
 - **predict:** Look at the room with the fan on. Guess which places get strong wind and which stay still: the pillow, the foot of the bed, the corners, under the bed. Why do you think so?
-- **fair test:** Use the same paper strip, held at the same height as a sleeping person, with the fan at the same speed. Only the place changes. Hold the strip still for 10 seconds at each place.
+- **fair test:** Use the same paper strip, the same fan speed and the same 10 seconds at every place. Only the place changes. Hold the strip at the height of a person lying in bed, except under the bed, where you hold it just under the bed.
 - **safety:** A grown-up switches the fan on and off. Never put fingers or the paper near a table fan's blades. Do not stand on a bed or chair under a ceiling fan.
 - **record:** Draw a map of the room from above. Mark the fan, the bed and each place you tested, with its score. Colour the still places in one colour and the windy places in another.
 - **results table:** Place in the room | My guess (still, flutters or blows flat) | What the strip did | Score: 0 still, 1 flutters, 2 blows flat
@@ -351,17 +351,16 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Child mode:* Which ones can you see? Which one needs a microscope?
   - Check: On your size line, which parasite is far too small to draw? → **The malaria parasite**
 ### a2 · The Malaria Journey: act it out (15 min)
-- **safety:** Move gently. Keep the play area clear of things to trip on.
 - **record:** Draw the journey as a circle of arrows, and draw one place where you broke the path.
 - **s1 (5 min)**  
-  *Parent does:* 1. One person lies down holding the paper ball: they have malaria. 2. The mosquito player 'bites' and takes the ball. 3. The mosquito counts slowly to 12, for the days the parasite grows inside her. 4. She 'bites' the second sleeper and hands over the ball.  
+  *Parent does:* 1. The parent lies on the mat holding the paper ball: the parent has malaria. 2. The child is the mosquito. She 'bites' the parent's arm and takes the ball. 3. The mosquito counts slowly to 12, for the days the parasite grows inside her. 4. She 'bites' the pillow and puts the ball there.  
   *Parent says:* The ball is the malaria parasite. Watch where they go. They live in a person, then in a mosquito, then in a new person.  
-  *Child mode:* You are the mosquito. Bite the first sleeper. Take the ball. Count to 12. Bite the next one.
+  *Child mode:* You are the mosquito. Bite the sleeper's arm. Take the ball. Count to 12. Bite the pillow.
 - **s2 (5 min)**  
-  *Parent does:* 1. Put the dupatta over the second sleeper as a net. 2. Act it again.  
+  *Parent does:* 1. Put the saree over the pillow as a net. 2. Act it again.  
   *Parent says:* Now the second person sleeps under a net. What happens to the parasite's journey?  
   *Child mode:* Now there is a net. Can the mosquito bite? Where does the ball go?
-  - Ask: Why does the net stop malaria, when air can still pass through it? (good: The net stops the mosquito, and the mosquito carries the parasite.; Malaria is not in the air. It travels inside the mosquito.)
+  - Ask: What happened to the ball when the pillow was under a net? (good: The mosquito could not reach the pillow, so the ball stayed with her.; No bite, so no parasite passed on.)
 - **s3 (5 min)**  
   *Parent does:* Talk about other ways to break the journey.  
   *Parent says:* Where else could we break the path? Think about the first person, the mosquito and the water she was born in.  
@@ -385,10 +384,10 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Child mode:* Wash the comb. Write today's date and what you found.
   - Check: Meena, a girl in Class 3, finds a louse in her hair. What does that tell you? → **Meena's head touched the head of someone who had lice**
 ### a4 · Check the Mosquito Net (15 min)
-- **safety:** A grown-up handles the needle. Do not climb on beds or chairs to reach a net. Ask a grown-up to unhook it.
+- **safety:** A grown-up handles the needle.
 - **record:** Write how many holes fit in 1 cm, how many tears you found and how you mended them.
 - **s1 (5 min)**  
-  *Parent does:* 1. Lay part of the net flat on a table. 2. Hold the ruler on it. 3. Count how many holes fit along 1 cm.  
+  *Parent does:* 1. Lay part of the net flat on a table, or hold the ruler against it where it hangs. 2. Count how many holes fit along 1 cm.  
   *Parent says:* A mosquito's body is about as long as a grain of rice. Let's see how small the net's holes are.  
   *Child mode:* Hold the ruler on the net. Count the holes in 1 cm.
 - **s2 (7 min) · grown-up needed**  
@@ -425,12 +424,12 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Parent does:* 1. Wrong way: squeeze the first raisin with your fingers and jerk it. 2. Right way: grip the second toothpick with the tweezers right at the dough and pull straight up, slowly.  
   *Parent says:* First the wrong way. Squeeze the body and pull fast. Now the right way. Grip close to the skin and pull up slowly.  
   *Child mode:* First squeeze the raisin and pull fast. Then use tweezers close to the dough. Pull slowly.
-  - Note: Squeezing usually pulls the raisin off and leaves the toothpick in the dough, just as squeezing a real tick can leave the mouthparts in the skin. Gripping the toothpick at the surface brings the whole thing out.
+  - Note: Squeezing usually pulls the raisin off and leaves the toothpick in the dough, just as squeezing a real tick can leave the mouthparts in the skin. Gripping the toothpick at the surface brings the whole thing out. Results vary. If both raisins come out whole, push the toothpicks deeper and press the dough firmly round them, then try again. It is a model, so what you see shows the idea, not exactly what happens on skin.
 - **s3 (3 min)**  
   *Parent does:* Compare what is left in the dough.  
   *Parent says:* Which way left something behind in the skin? Why does a grown-up grip close to the skin?  
   *Child mode:* Which way left a piece behind? Why grip close to the skin?
-  - Check: Farhan's dog has a tick. How should a grown-up take the tick off? → **Grip the tick with fine tweezers right next to the skin and pull straight up, slowly**
+  - Check: A dog has a tick. How should a grown-up take the tick off? → **Grip the tick with fine tweezers right next to the skin and pull straight up, slowly**
 
 ## Projects
 ### p1 · My Parasite Field Guide (40 min, 2 days)
@@ -500,9 +499,8 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    **Answer:** True. *Why:* True. Lice need warmth and blood, not dirt. Getting lice says nothing about how clean someone is.
 5. (fill) A louse's egg is called a ____.  
    **Answer:** ['nit']. *Why:* A nit is a louse egg glued to a hair near the scalp, or the empty case left after hatching.
-6. (mcq) In the Comb Test, why did the khus khus seeds slip past the wide-tooth comb?  
-   Options: The gaps were wider than the seeds / The seeds were sticky / The comb was too long  
-   **Answer:** The gaps were wider than the seeds. *Why:* A seed smaller than the gap slips between two teeth. Only teeth closer together than the seed can push the seed along.
+6. (fill) A being who carries a parasite from one host to another is called a ____.  
+   **Answer:** ['vector']. *Why:* The Anopheles mosquito is the vector of malaria. The parasite inside her is what makes people ill.
 7. (sort) Sort these parasites. Do they live on the outside of the body or inside it?  
    **Answer:** head louse → Outside; roundworm → Inside; tick → Outside; hookworm → Inside; flea → Outside; malaria parasite → Inside. *Why:* Lice, ticks and fleas hold on to hair or skin. Worms live in the gut, and the malaria parasite lives in the liver and blood.
 8. (mcq) How many legs does an adult tick have?  
@@ -529,11 +527,11 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    **Answer:** She dies within a day or two. *Why:* A head louse needs blood and warmth from a head. Away from one, she usually dies within a day or two. That is why there is no need for big cleaning of the house.
 2. (write) A mother louse glues each egg to a hair right next to the scalp. Why there, and not at the end of the hair?  
    **Answer:** The scalp is warm, and the eggs need warmth to hatch. At the end of the hair it is cooler, and the egg could be cut off or combed out more easily.. *Why:* A strong answer names the louse's problem, keeping the eggs warm and safe, and says how gluing them near the scalp solves it.
-3. (truefalse) A fine comb must be used on days 1, 5, 9 and 13, because one combing can miss eggs.  
-   **Answer:** True. *Why:* True. Eggs hatch in about 8 days. Combing every four days catches young lice before they are old enough to lay eggs.
-4. (mcq) A flea's body is flat from side to side. How does that help the flea?  
+3. (mcq) A flea's body is flat from side to side. How does that help the flea?  
    Options: The flea can slide between an animal's hairs / The flea can fly / The flea stays cool  
    **Answer:** The flea can slide between an animal's hairs. *Why:* A thin, flat body slips between hairs. Backward-pointing spines also make the flea hard to pull out.
+4. (write) Name one habit that keeps hookworms out, and say how it closes their path.  
+   **Answer:** Wearing chappals outside. Young hookworms wait in damp soil and get in through the skin of bare feet, so chappals block that path.. *Why:* A strong answer names the habit and links it to the way the hookworm gets in.
 5. (mcq) Why should a grown-up never squeeze a tick's body to pull the tick off?  
    Options: The tick will bite the grown-up / Squeezing can leave the barbed mouthparts in the skin / The tick will jump away  
    **Answer:** Squeezing can leave the barbed mouthparts in the skin. *Why:* A tick's mouthpart has backward barbs and is often glued in. Squeezing pulls the body off and leaves the mouthpart behind. Grip close to the skin with fine tweezers and pull straight up.
@@ -554,30 +552,30 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    **Answer:** ['Plasmodium']. *Why:* Plasmodium is a single-celled parasite who lives in people and in Anopheles mosquitoes.
 12. (match) Match each mosquito to what she carries.  
    **Answer:** Anopheles → the malaria parasite; Aedes, black with white stripes → the dengue virus. *Why:* Anopheles bites mostly from dusk to dawn. Aedes bites in the daytime and breeds in clean stored water.
-13. (write) Divya says, 'Lice are for dirty children.' What would you tell her? Give one reason.  
+13. (write) Divya, a girl in Kavya's class, says, 'Lice are for dirty children.' What would you tell her? Give one reason.  
    **Answer:** Lice live on clean hair too. They crawl across when heads touch, and washing does not remove their eggs. So anyone can get lice.. *Why:* A good answer gives a reason from the science: how lice spread, or that washing does not move nits.
 14. (fill) Dodder is a yellow plant with no green leaves. Dodder winds round another plant and takes food from their ____.  
-   **Answer:** ['stem']. *Why:* Dodder pushes tiny suckers into the host plant's stem and takes food from inside it.
+   **Answer:** ['stem']. *Why:* Dodder pushes tiny suckers into the host plant's stem and takes food from inside the stem.
 15. (draw) Draw the malaria journey as a circle with four arrows: person, mosquito stomach, mosquito saliva, new person.  
    **Answer:** A circle of four labelled stages joined by arrows, in that order.. *Why:* The parasite needs both hosts, in this order.
 ### Think Like Ronald Ross (challenge) (challenge, 15 questions)
-1. (mcq) In the Comb Test, Meenakshi's wide comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?  
+1. (mcq) Meenakshi, a girl in Class 4, does the Comb Test. Her ordinary comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?  
    Options: The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller / Khus khus seeds are heavier / She swept faster for the khus khus  
-   **Answer:** The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller. *Why:* Seeds bigger than the gap get pushed. Seeds smaller than the gap slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.
+   **Answer:** The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller. *Why:* Seeds bigger than the gaps get pushed. Seeds smaller than the gaps slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.
 2. (mcq) A louse egg hatches in about 8 days. The young louse becomes an adult who can lay eggs about 9 days later. If you comb only once, what could happen?  
    Options: Eggs the comb missed hatch, grow up and lay new eggs / Nothing, because one combing gets every egg / The lice leave on their own  
    **Answer:** Eggs the comb missed hatch, grow up and lay new eggs. *Why:* One combing always misses a few eggs. Combing every four days catches the young lice before they are old enough to lay eggs.
 3. (mcq) Why is it hard for a parasite inside the gut to reach a new host?  
    Options: The gut is too warm / They must leave the body, survive outside, and get into someone else / Worms cannot eat  
    **Answer:** They must leave the body, survive outside, and get into someone else. *Why:* Inside the gut there is plenty of food. The hard part is the journey to a new person, through soil, hands, food or skin.
-4. (truefalse) A mosquito net stops malaria because air cannot pass through it.  
-   **Answer:** False. *Why:* False. Air passes through a net easily. The net stops the mosquito, and the mosquito is what carries the parasite.
+4. (write) Most plants make their own food, but dodder takes food from another plant. Why does dodder need a host?  
+   **Answer:** Dodder has no green leaves, so they cannot make enough food from sunlight. They take food from the plant they wrap round.. *Why:* A good answer links the missing green leaves to needing food from a host.
 5. (mcq) People once thought malaria came from bad air near swamps at night. Why did the idea seem right?  
    Options: Swamps and night are where and when Anopheles mosquitoes breed and bite / Swamp air is poisonous / People never got malaria in the daytime  
    **Answer:** Swamps and night are where and when Anopheles mosquitoes breed and bite. *Why:* The bad air idea matched what people saw, but the real cause was the mosquitoes who breed in still water and bite at night.
 6. (write) A tick has no wings and cannot jump. Explain how a tick still finds a host.  
    **Answer:** The tick climbs a grass blade and holds out their front legs. The legs sense the breath, warmth and smell of an animal coming close. When the animal brushes past, the tick grabs on.. *Why:* A full answer says the tick waits, senses the animal and grabs on.
-7. (write) Farhan's family empties their cooler once a month. Mosquitoes take about a week to grow from egg to adult in water. Is once a month enough? Explain.  
+7. (write) Rupali, a girl in Class 4 in Guwahati, says her family empties their cooler once a month. Mosquitoes take about a week to grow from egg to adult in water. Is once a month enough? Explain.  
    **Answer:** No. In a month, about four batches of mosquitoes could grow up and fly away. The cooler must be emptied and scrubbed at least once a week, so no young mosquitoes have time to become adults.. *Why:* A strong answer compares the two times, a week to grow and a month between emptying, and says what follows.
 8. (perspective) A koel mother lays her egg in a crow's nest, and the crows raise the koel chick. Three voices talk about it.  
    **Answer:** A strong answer picks a voice and backs it with facts from the unit: what a host gives, what a parasite takes, and how each has changed the other. Then it answers back fairly from a second voice.. *Why:* There is no single right answer. The crow loses food and work, the koel has no other way to raise chicks, and the scientist describes how both have changed over time.
@@ -585,7 +583,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
    **Answer:** False. *Why:* False. Most parasites harm their host a little and live with them for a long time. A host who dies quickly takes the parasite's home and food away.
 10. (write) The malaria parasite needs two hosts. Name them, and say what happens in each.  
    **Answer:** A person and an Anopheles mosquito. In the person, the parasites grow in the liver and then in red blood cells, causing fever. In the mosquito, they grow in the stomach and move to the saliva, ready to pass on.. *Why:* A full answer names both hosts and one thing that happens in each.
-11. (mcq) Kavya has a fever with shivering, and there are many mosquitoes where she lives. What should her family do?  
+11. (mcq) Kavya, who is eight, has a fever with shivering, and there are many mosquitoes where she lives. What should her family do?  
    Options: Wait a week to see if it goes / Take her to a doctor for a blood test the same day / Give her a lice comb  
    **Answer:** Take her to a doctor for a blood test the same day. *Why:* Malaria can be cured, but it is dangerous if left. A blood test shows the parasite, and the right medicine clears them.
 12. (mcq) Ross found malaria parasites in a mosquito's stomach in 1897. Why was that not yet proof that mosquitoes give malaria to people?  
@@ -625,7 +623,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 7. (mcq) How does a flea get on to a big animal like a dog?  
    Options: The flea flies / The flea jumps, using a springy pad in their legs / The flea waits to be licked up  
    **Answer:** The flea jumps, using a springy pad in their legs. *Why:* Fleas have no wings. A pad of springy resilin in their legs works like a catapult, so a flea can jump about a hundred times their own length.
-8. (mcq) Kavya walks barefoot on wet soil in a village. Which worm could get in through her feet?  
+8. (mcq) Kavya, who is eight, walks barefoot on wet soil in a village. Which worm could get in through her feet?  
    Options: Hookworm / Roundworm / Threadworm  
    **Answer:** Hookworm. *Why:* Young hookworms live in damp soil and get in through the skin of bare feet. Roundworm and threadworm eggs are swallowed from dirty hands or food. Chappals keep hookworms out.
 9. (mcq) Which habit stops roundworm eggs from reaching your mouth?  
@@ -680,26 +678,20 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 - Which parasite do you think has the hardest journey? Why?
 
 ## Jokes
-- Why did the louse never get lost? *She always kept a good grip on things.*
 - What did the mosquito say when she found a fan? *This is blowing my plans away!*
-- Why did the flea fail the long jump? *He landed on a dog and forgot to come back.*
 - What is a tick's favourite game? *Hide and cling.*
 - Why was the louse so good at school? *She was always at the head of the class.*
 - What do you call a mosquito at a wedding? *An uninvited guest who still wants dinner.*
 - Why did the nit not come to the party? *She was too attached to her hair.*
 - Why do fleas never take the lift? *They just jump to the top.*
-- What did the comb say to the louse? *You are going on a little trip.*
-- Why did the mosquito go to the doctor? *She had lost her bite.*
-- How do worms say goodbye? *With a little wiggle.*
 - Why did the tick like the dog so much? *He was really attached to him.*
-- Why was the mosquito so tired at sunrise? *She had been up all night working.*
 - What do you call a louse who loves music? *A head banger.*
 - Why did the flea cross the road? *To get to the other dog.*
 
 ## Connected maths
 - A louse egg hatches about 8 days after being laid. The young louse becomes an adult about 9 days after hatching. How many days is it from egg to adult? **About 17 days.**. 8 days as an egg, then 9 days growing. 8 + 9 = 17. So a family that combs every 4 days, on days 1, 5, 9 and 13, catches every young louse long before day 17, when they could start laying eggs. (queues `math.addition-subtraction.word-problems.L3`)
 - A female louse can lay up to 6 eggs a day. What is the most eggs she could lay in one week? **42 eggs.**. A week is 7 days. 7 lots of 6 is 42. So one louse missed by the comb can quickly mean many more, which is why every part of the head is combed. (queues `math.multiplication.equal-groups.L3`)
-- In the Comb Test, Meenakshi pushed the khus khus seeds three times with each comb. Out of 10, the wide comb pushed 1, 0 and 2. The ordinary comb pushed 4, 6 and 5. The lice comb pushed 10, 9 and 10. Which comb would you use to remove nits, and how sure are you? **The lice comb. Every sweep it pushed 9 or 10 seeds, while the others never pushed more than 6.**. Add each comb's sweeps. Wide: 1 + 0 + 2 = 3 out of 30. Ordinary: 4 + 6 + 5 = 15 out of 30. Lice comb: 10 + 9 + 10 = 29 out of 30. The lice comb's worst sweep, 9, beats the ordinary comb's best sweep, 6. So we can be sure the result is not a fluke. (queues `math.data.bar-charts.L3`)
+- In the Comb Test, Meenakshi, a girl in Class 4, pushed the khus khus seeds three times with each comb. Out of 10, the wide comb pushed 0, 1 and 0. The ordinary comb pushed 2, 1 and 3. The lice comb pushed 10, 9 and 10. Which comb would you use to remove nits, and how sure are you? **The lice comb. Every sweep it pushed 9 or 10 seeds, while the others never pushed more than 3.**. Add each comb's sweeps. Wide: 0 + 1 + 0 = 1 out of 30. Ordinary: 2 + 1 + 3 = 6 out of 30. Lice comb: 10 + 9 + 10 = 29 out of 30. The lice comb's worst sweep, 9, beats the ordinary comb's best sweep, 3. So we can be sure the result is not a fluke. (queues `math.data.bar-charts.L3`)
 - On 3 August, a mosquito bites a person with malaria. The parasites need about 12 days in her body before she can pass them on. On which date could she first pass on malaria? **15 August.**. 3 + 12 = 15, so 15 August. This shows something surprising. A young mosquito cannot pass on malaria. Only a mosquito who lives more than about 12 days after biting a sick person can. That is why stopping mosquitoes from living long, with nets and covered water, works so well. (queues `math.time.calendar.L3`)
 - A cat flea is about 2 mm long and can jump about 20 cm. How many times their own length is that? If a child 120 cm tall could jump the same number of times their height, how far would that be? **About 100 times. The child would jump about 12,000 cm, which is 120 metres.**. 20 cm is 200 mm. 200 divided by 2 is 100. Then 120 cm times 100 is 12,000 cm. 100 cm make 1 metre, so that is 120 metres, longer than a cricket ground. (queues `math.length.standard-units-length.L3`)
 
@@ -713,8 +705,8 @@ Close the Path (sci.microorganisms.L3): Topic-level song for Microorganisms L3
 - [The Nobel Prize in Physiology or Medicine 1902: Ronald Ross](https://www.nobelprize.org/prizes/medicine/1902/ross/facts/) · interactive: Ross's Nobel page, with his lecture describing how he found the malaria parasite in mosquitoes.
 
 ## Things to buy
-- [A fine-tooth lice comb (eer kolli), plastic or steel](https://www.amazon.in/s?k=lice+comb+fine+tooth) (tool): The Comb Test and the weekly head check need one. Chemists and general stores sell them cheaply, and many homes already have one. Used in e1, a3. Keep it for weekly head checks at home.
-- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps a child see the gaps between comb teeth and the size of tiny seeds. A phone camera zoomed in works too. Used in e1, a1. Used again in many science units, for looking at insects, seeds, leaves and crystals.
+- [A fine-tooth lice comb (eer kolli), plastic or steel](https://www.amazon.in/s?k=lice+comb+fine+tooth) (tool): The Comb Test and the weekly head check need one. Chemists and general stores sell them cheaply. Used in e1, a3. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps you see the gaps between comb teeth and the size of tiny seeds. A phone camera zoomed in works too. Used in e1, a1. 
 
 ## Warm-up
 - What is a living being who lives on another and feeds from them called? → A parasite.
@@ -735,7 +727,7 @@ Close the Path (sci.microorganisms.L3): Topic-level song for Microorganisms L3
 
 ## Sources
 - Curriculum notebook items bio:270 to bio:274 (Parasitology, Protozoan parasites such as malaria, Helminths, Ectoparasites such as ticks, lice and fleas, Host-parasite coevolution): the unit's coverage.
-- ideas/by_topic/microorganisms.md: the line on parasites appearing in evolution, and the SCI Card for Carlos Juan Finlay (mosquitoes carry yellow fever, ridiculed for twenty years). Finlay's yellow fever story is about a virus, so it was left out of this parasites unit. The same lesson, that a tiny carrier was ignored, is told through Ross and malaria.
+- ideas/by_topic/microorganisms.md: the line on parasites appearing in evolution, and the SCI Card for Carlos Juan Finlay (mosquitoes carry yellow fever, ridiculed for twenty years). Finlay's yellow fever story is about a virus, so that story was left out of this parasites unit. The same lesson, that a tiny carrier was ignored, is told through Ross and malaria.
 - NHS, Head lice and nits (reviewed page, 2024): spread by head-to-head contact, not caused by dirty hair, wet combing on days 1, 5, 9 and 13
 - NHS, Threadworms (reviewed 2023): eggs laid around the anus at night, spread by scratching and fingers
 - CDC, Head lice biology and tick removal guidance (life cycle: nits hatch in about 8 to 9 days, adult in about 9 to 12 days, up to 6 eggs a day, lice die within 1 to 2 days off the head)

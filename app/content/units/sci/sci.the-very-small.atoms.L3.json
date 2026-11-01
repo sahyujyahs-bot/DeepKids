@@ -602,7 +602,11 @@
      "items": [
       {
        "f": "☀️ The Sun",
-       "b": "1. About 1.4 million kilometres across"
+       "b": "1. About 1.4 million kilometres across",
+       "img": {
+        "src": "media/cards/atoms-g1-0-00.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
       },
       {
        "f": "🌍 The Earth",
@@ -622,7 +626,11 @@
       },
       {
        "f": "🐘 An Indian elephant",
-       "b": "6. About 3 metres tall"
+       "b": "6. About 3 metres tall",
+       "img": {
+        "src": "media/cards/atoms-g1-0-05.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🧒 You",
@@ -642,7 +650,11 @@
       },
       {
        "f": "🐜 An ant",
-       "b": "11. About 4 millimetres long"
+       "b": "11. About 4 millimetres long",
+       "img": {
+        "src": "media/cards/atoms-g1-0-10.jpg",
+        "credit": "Joss Carr, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "🌱 A mustard seed",
@@ -695,7 +707,13 @@
      "title": "Ladder times (for playing alone)",
      "items": [
       "Date",
-      "How many cards",
+      {
+       "f": "How many cards",
+       "img": {
+        "src": "media/cards/atoms-g1-1-01.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "Time taken",
       "Mistakes",
       "My best time so far"

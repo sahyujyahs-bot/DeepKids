@@ -740,7 +740,11 @@
      "items": [
       {
        "f": "Whole moong",
-       "b": "Seed, could sprout. The coat and the baby plant are whole."
+       "b": "Seed, could sprout. The coat and the baby plant are whole.",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g2-0-00.jpg",
+        "credit": "Maduixa at Serbian Wikipedia, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Split moong dal",
@@ -752,7 +756,11 @@
       },
       {
        "f": "Raw peanut",
-       "b": "Seed, could sprout. The baby plant is the small pointed tip between the two halves."
+       "b": "Seed, could sprout. The baby plant is the small pointed tip between the two halves.",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g2-0-03.jpg",
+        "credit": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Roasted peanut",
@@ -760,7 +768,11 @@
       },
       {
        "f": "Rice grain with the husk (paddy)",
-       "b": "Seed, could sprout. The husk is on and the baby plant is whole."
+       "b": "Seed, could sprout. The husk is on and the baby plant is whole.",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g2-0-05.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Polished white rice",
@@ -808,7 +820,11 @@
       },
       {
        "f": "Coconut",
-       "b": "Seed, could sprout. A whole coconut in its husk can sprout, but it takes months."
+       "b": "Seed, could sprout. A whole coconut in its husk can sprout, but it takes months.",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g2-0-17.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Methi seeds",

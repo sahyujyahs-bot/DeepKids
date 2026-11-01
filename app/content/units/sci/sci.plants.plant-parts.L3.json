@@ -657,11 +657,19 @@
       },
       {
        "f": "Potato: has eyes that sprout in a dark basket",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-01.jpg",
+        "credit": "Zihao Wang, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ginger: knobbly, with rings, grows sideways underground",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-02.jpg",
+        "credit": "Diogo Luiz, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Onion: made of juicy layers on a flat bottom",
@@ -669,7 +677,11 @@
       },
       {
        "f": "Sugarcane: tall and sweet, with rings",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-04.jpg",
+        "credit": "Diogo Luiz, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Radish (mullangi): long, white, under the ground, with no eyes",
@@ -681,15 +693,27 @@
       },
       {
        "f": "Cactus spine: sharp point on a desert plant",
-       "b": "LEAF"
+       "b": "LEAF",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-07.jpg",
+        "credit": "vaazhaikumar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cactus pad: fat, green and juicy, with spines",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-08.jpg",
+        "credit": "Subhadra Devi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Banyan pillar: hangs down from a branch, then grows thick",
-       "b": "ROOT"
+       "b": "ROOT",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-09.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mangrove pencil: pokes up out of salty mud",
@@ -697,27 +721,51 @@
       },
       {
        "f": "Money plant grip: little brown fingers clinging to a wall",
-       "b": "ROOT"
+       "b": "ROOT",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-11.jpg",
+        "credit": "Navin Sasikumar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bean spiral: winds round and round a stick",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-12.jpg",
+        "credit": "Carlos Domínguez-Rodríguez, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bougainvillea hook: sharp and woody, near a bud",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-13.jpg",
+        "credit": "Simon Scotland, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lotus plate: round, flat and floating",
-       "b": "LEAF"
+       "b": "LEAF",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-14.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pitcher jug: a trap full of water that catches insects",
-       "b": "LEAF"
+       "b": "LEAF",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-15.jpg",
+        "credit": "T R Shankar Raman, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Aloe: thick, juicy and full of water",
-       "b": "LEAF"
+       "b": "LEAF",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-16.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Turmeric: orange inside, with rings, underground",
@@ -729,7 +777,11 @@
       },
       {
        "f": "Chembu: round, hairy, underground, with a bud on top",
-       "b": "STEM"
+       "b": "STEM",
+       "img": {
+        "src": "media/cards/plant-parts-g1-0-19.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "TEST IT: find a potato in the kitchen. Count its eyes.",

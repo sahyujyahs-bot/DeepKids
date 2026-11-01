@@ -39,7 +39,7 @@ Isaac Newton wrote this down in 1687 as his first law of motion. It sounds simpl
 ### A still thing stays still · *defined*
 **Definition:** A thing at rest stays at rest until a force moves it. A force also needs time to get it moving.
 
-When you pull the card slowly, friction between the card and the coin acts for a long time, and the coin moves with the card. When you flick the card fast, friction acts for only a tiny moment. That is far too short to get the coin moving. So the coin stays where it was, with nothing under it, and gravity pulls it down into the tumbler. A heavier coin, with more mass, stays behind even better. The same idea explains the carrom tower: hit the bottom coin hard and fast, and only that coin shoots out.
+When you pull the card slowly, friction between the card and the coin acts for a long time, and the coin moves with the card. When you flick the card fast, friction acts for only a tiny moment. That is far too short to get the coin moving. So the coin stays where it was, with nothing under it, and gravity pulls it down into the tumbler. The same idea explains the carrom tower: hit the bottom coin hard and fast, and only that coin shoots out.
 - e.g. Flick the card, and the coin drops into the tumbler.
 - e.g. Strike the bottom coin of a tower of carrom coins, and the rest drop straight down.
 - e.g. Pull a newspaper fast from under a plastic tumbler, and the tumbler hardly moves.
@@ -67,10 +67,10 @@ Swing a rolled sock on a string in a circle, and the string pulls the sock towar
 ### More mass, more inertia · *defined*
 **Definition:** The more mass a thing has, the more inertia it has. It needs a bigger force to start it, stop it or turn it.
 
-A loaded lorry needs a much longer distance to stop than a cycle going at the same speed. Its brakes must take away the motion of all that mass. A heavy coin or a stack of coins stays behind better in the card trick than a light one. In the raw egg, the runny inside has mass, so it keeps turning when the shell stops. Mass is the amount of matter in a thing, and inertia grows with it.
+A loaded lorry needs a much longer distance to stop than a cycle going at the same speed. Its brakes must take away the motion of all that mass. In the raw egg, the runny inside has mass, so it keeps turning when the shell stops. Mass is the amount of matter in a thing, and inertia grows with it.
 - e.g. An empty steel almirah is easier to push into motion than a full one.
 - e.g. A loaded lorry needs a longer road to stop than a car.
-- e.g. Two stacked ten-rupee coins drop into the tumbler more surely than one small light coin.
+- e.g. A loaded auto-rickshaw needs more road to stop than an empty one.
 ### A smoothly moving room feels still · *defined*
 **Definition:** Inside a train, a ship or a lift that moves smoothly in a straight line at a steady speed, everything behaves just as it does at rest. A ball tossed straight up falls back into your hand.
 
@@ -221,9 +221,9 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 
 ## Games
 ### g1 · Keep Going or Change? (20 min)
-- **rules:** Shuffle the cards and put them face down.; On your turn, another player reads you a card, without the answer in the brackets. Playing alone? Read it yourself and cover the answer.; Say 'keep going' if no force changes the motion, or 'change' if a force changes it.; Get 1 point for the right answer, and 1 more point if you name the force, such as friction, gravity or a hand.; After every player has had 5 cards, add up the points.
-- **Printable cards: 20 moment cards to cut out:** A football rolls across the grass. (Change: friction from the grass slows it down.); A coin sits on a table. Nobody touches it. (Keep going: it stays still.); An auto brakes suddenly. What do the passengers do? (Keep going: they lurch forward.); A spacecraft far out in space has its engines off. (Keep going: it moves on at the same speed.); A bus turns left. What does a standing passenger do? (Keep going: they lean to the right, the outside of the turn.); A marble rolls onto a towel. (Change: friction stops it quickly.); A stone slides across a frozen lake. (Keep going for a long way: ice gives very little friction.); A girl walking lets go of a ball. Where does it land? (Keep going: ahead of where she let go.); A puck glides on an air hockey table. (Keep going, almost: very little slows it.); A card is flicked from under a coin on a tumbler. (Keep going: the coin stays still, then falls in.); A cricket ball is caught by a fielder. (Change: the fielder's hands stop it.); A swing goes back and forth. (Change: gravity keeps changing its motion.); A football lies still, and then you kick it. (Change: the kick starts it moving.); Water is stirred in a bowl and the spoon is taken out. (Keep going: the water turns for a while.); A sock swung on a string is let go. (Keep going: straight, not round.); You toss a ball up in a smooth train. (Keep going: it moves forward with you and lands in your hand.); A loaded lorry and a cycle brake together. Which needs longer to stop? (The lorry: more mass, more inertia.); A raw egg is stopped and let go. (Keep going: the inside keeps turning.); A rolling marble with no friction and no air at all. (Keep going: for ever.); You stand still on the Earth. Are you moving? (Yes: the Earth carries you round.)
-- **Printable score sheet: Score sheet:** Player name; Cards right; Cards where you named the force; Total
+- **rules:** Shuffle the cards and put them face down.; On your turn, another player reads you the front of a card, without showing the back. Playing alone? Read the front, answer aloud, then turn the card over.; Say 'keep going' if no force changes the motion, or 'change' if a force changes it.; Get 1 point for the right answer, and 1 bonus point for the reason: name the force (friction, gravity, a hand), or say why nothing changes the motion.; After every player has had 5 cards, add up the points. The most points wins, and ties share the win. Playing alone? Try to beat your last total out of 10.
+- **Printable cards: 20 moment cards to cut out:** A football rolls across the grass. Keep going or change? (back: Change. Friction from the grass slows it down.); A coin sits on a table. Nobody touches it. Keep going or change? (back: Keep going: it stays still. No force changes its motion. Gravity pulls it down and the table pushes it up, so they cancel.); A tram in Kolkata brakes suddenly. What do the standing passengers do? (back: Keep going: their bodies carry on forward, so they lurch forward. The brakes act on the tram, not on them.); A spacecraft far out in space has its engines off. Keep going or change? (back: Keep going: it moves on at the same speed. Nothing is there to slow it.); A bus turns left. What does a standing passenger do? (back: Keep going: the body carries on straight, so the passenger leans to the right, the outside of the turn.); A ceiling fan is switched off. Keep going or change? (back: Change. Friction in the fan's bearings and the air slow the blades until they stop.); A stone slides across a frozen lake. Keep going or change? (back: Mostly keep going, for a long way. Ice gives very little friction, so very little slows it.); A girl walking lets go of a ball. Where does it land? (back: Ahead of where she let go. The ball keeps its forward motion, and nothing stops it going forward while it falls.); A carrom striker glides over a powdered board. Keep going or change? (back: Keep going, almost. The powder gives very little friction.); A card is flicked fast from under a coin on a tumbler. Keep going or change? (back: Keep going: the coin stays still, then gravity drops it into the tumbler.); A cricket ball is caught by a fielder. Keep going or change? (back: Change. The fielder's hands stop it.); A swing goes back and forth. Keep going or change? (back: Change. Gravity and the ropes keep changing its motion.); A football lies still, and then you kick it. Keep going or change? (back: Change. The kick starts it moving.); Water is stirred in a bowl and the spoon is taken out. Keep going or change? (back: Keep going, for a while. The water keeps turning until friction with the bowl slows it.); A sock swung on a string is let go. Keep going or change? (back: Keep going: straight, not round. The string no longer turns it.); You toss a ball up in a smooth train. Keep going or change? (back: Keep going: it moves forward with you and lands in your hand.); A loaded lorry and a cycle brake hard from the same speed. Which keeps going for longer before it stops? (back: The lorry. More mass means more inertia, so the friction of its brakes needs longer to take its motion away.); A spinning raw egg is stopped with a finger, and then the finger is lifted. What happens? (back: Keep going: the runny inside never stopped, so it turns the shell again.); A rolling marble with no friction and no air at all. Keep going or change? (back: Keep going: for ever, at the same speed in a straight line.); A rower on a Kerala backwater stops rowing. What does the boat do? (back: It glides on for a while, then slows. Keep going at first, then change: the water pushes against the boat and slows it.)
+- **Printable score sheet: Score sheet:** Player name; Cards right; Bonus points: force named, or reason given; Total
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Shuffle them and put them face down.  
   *Parent says:* In this game, every card is a moment. You say 'keep going' or 'change', and name the force if there is one.  
@@ -231,7 +231,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together: the marble rolling onto a towel.  
   *Parent says:* Practice card. A marble rolls onto a towel. Keep going or change?  
-  *Child mode:* Practice card. A marble rolls onto a towel. Keep going or change? Tap your answer.
+  *Child mode:* Practice card. A marble rolls onto a towel. Keep going or change? Say your answer.
   - Check: A marble rolls onto a towel. Keep going or change? → **Change, because friction from the towel slows it down**
 - **s3 (13 min)**  
   *Parent does:* Take turns until each player has had 5 cards. Keep score on the sheet.  
@@ -242,7 +242,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent says:* Which card was hardest? Why?  
   *Child mode:* Add up your points. Which card was hardest? Why?
 ### g2 · Bus Statues (15 min)
-- **rules:** Passengers stand with feet apart, holding the back of a chair as the bus bar.; The driver reads a card aloud.; Passengers lean the way their bodies would really move, and freeze like statues.; The driver checks: starting, lean back. Braking, lean forward. Turning left, lean right. Turning right, lean left. Steady speed or parked, stand still.; A right lean gets 1 point. After 12 cards, the passenger with most points becomes the driver.
+- **rules:** Passengers stand with feet apart, holding the back of a chair as the bus bar.; The driver reads a card aloud.; Passengers lean the way their bodies would really move, and freeze like statues.; The driver checks: starting, lean back. Braking or stopping at a signal, lean forward. Turning left, lean right. Turning right, lean left. Going round a roundabout, lean away from the middle. Speed breaker, bend your knees a little, because the bus rises under you. Pothole, stand tall and feel lighter for a moment. Steady speed or parked, stand still. A gentle start or brake gets a small lean.; A right lean gets 1 point. After 12 cards, add up. With friends, the passenger with most points becomes the driver. With one passenger, try to get all 12, then swap jobs and play again.
 - **Printable cards: 12 driver cards:** The bus starts suddenly.; The bus brakes suddenly.; The bus turns left.; The bus turns right.; The bus moves smoothly at a steady speed.; The bus goes over a speed breaker.; The bus stops at a signal.; The bus starts slowly and gently.; The bus hits a pothole and dips down.; The bus goes round a roundabout.; The bus is parked.; The driver brakes very gently.
 - **Printable score sheet: Passenger points:** Passenger name; Right leans; Total
 - **s1 (2 min)**  
@@ -251,7 +251,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* You are a passenger. Hold the chair like a bus bar. Lean the way your body would move. Freeze!
   - Note: Keep leans small and gentle, and hold the chair all the time.
 - **s2 (3 min)**  
-  *Parent does:* Do one practice card: the bus brakes suddenly.  
+  *Parent does:* Do one practice with the 'brakes suddenly' card, then put it back and shuffle.  
   *Parent says:* Practice card. The bus brakes suddenly. Which way do you lean?  
   *Child mode:* The bus brakes suddenly. Which way do you lean?
   - Check: The bus brakes suddenly. Which way does a passenger lean? → **Forward**
@@ -269,28 +269,27 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 ### e1 · The Walking Drop: where will it land? (30 min)
 - **question:** If I let go of a pair of rolled socks right above a plate while I am walking, where will they land? Does it change if I walk faster?
 - **predict:** Guess first. Will the socks land on the plate, before it, or past it? Will walking faster change where they land? Why do you think so?
-- **fair test:** Use the same socks, the same plate and the same height every time: hold the socks at chest height, arm out to the side. Only the walking speed changes: standing still, slow walk, fast walk. Do 3 tries at each speed, because one try can be a fluke. The helper always says 'now' when your hand is right above the plate.
-- **safety:** Walk, never run. Clear toys and bags off the floor first, and don't do it on a wet floor.
+- **fair test:** Use the same socks, the same plate and the same height every time: hold the socks at chest height, arm out to the side. Only the walking speed changes: standing still, slow walk, fast walk. Do 3 tries at each speed, because one try can be a fluke. The helper always says 'now' when your hand is right above the plate. Always measure from the centre of the plate to the middle of the socks.
 - **record:** Fill in the table. Draw two pictures: the path of the socks as you saw them, and as your helper saw them from the side.
 - **results table:** How I moved | Try 1: cm past the plate | Try 2 | Try 3 | Most common result
-- **s1 (4 min)**  
+- **s1 (3 min)**  
   *Parent does:* 1. Put the plate in the middle of a clear floor. 2. Mark a starting line about 2 metres before the plate with a slipper. 3. Show your child how to hold the rolled socks: arm out to the side, at chest height.  
   *Parent says:* We are going to drop these socks right above the plate. First, you guess. If I let go right above the plate while I walk, where will the socks land? On it, before it, or past it? Why do you think so?  
   *Child mode:* Look at the plate on the floor. You will walk past it and let go of the socks. Where will they land? On the plate, before it, or past it? Why?
   - Ask: Where will the socks land, and why do you think so? (good: Any guess with a reason is good. Many children say 'on the plate, because things fall straight down'. That is a fine guess to test.)
   - Note: Write down the guess and the reason before you start. Don't explain anything yet. Most children, and many grown-ups, guess the socks will land on the plate or just behind it.
-- **s2 (4 min)**  
-  *Parent does:* 1. Your child stands still with their hand right above the plate. 2. They let go. 3. Mark where the socks land with a coin, and measure from the edge of the plate nearest to the start.  
+- **s2 (3 min)**  
+  *Parent does:* 1. Your child stands still with their hand right above the plate. 2. They let go. 3. Mark where the socks land with a coin, and measure from the centre of the plate to the middle of the socks.  
   *Parent says:* First, the easy one. Stand still, hold your hand above the plate, and let go. Where did they land?  
   *Child mode:* Stand still. Hold the socks above the plate. Let go. Did they land on it?
   - Note: Standing still, the socks should land on the plate. Write 0 cm. This is the result to compare with.
-- **s3 (7 min)**  
+- **s3 (6 min)**  
   *Parent does:* 1. Your child walks slowly from the starting line, the way they walk round the flat. 2. You watch from the side and say 'now' when their hand is right above the plate. 3. They let go at 'now', and keep walking. 4. Mark and measure where the socks land. 5. Do it 3 times.  
   *Parent says:* Now walk slowly past the plate. I'll say 'now' when your hand is right above it. Let go at 'now', and keep walking. Don't throw them, just open your hand.  
   *Child mode:* Walk slowly past the plate. Let go when your helper says now. Just open your hand. Keep walking. Where did they land?
-  - Note: Expect the socks to land past the plate, often about 20 to 50 cm past, in the direction your child was walking. Measure from the plate to the middle of the socks. If they land on the plate, check that your child is not stopping or pulling the hand back as they let go.
+  - Note: Expect the socks to land past the plate, often about 20 to 50 cm past, in the direction your child was walking. Measure from the centre of the plate to the middle of the socks. If they land on the plate, check that your child is not stopping or pulling the hand back as they let go.
   - Check: Riya, a girl in Class 3, walks past a plate and lets go of rolled socks right above it. Where do the socks land? → **Past the plate, in the direction she was walking**
-- **s4 (6 min)**  
+- **s4 (5 min)**  
   *Parent does:* 1. Now your child walks fast, but does not run. 2. Say 'now' above the plate, as before. 3. Mark and measure. 4. Do it 3 times. 5. Fill in the table.  
   *Parent says:* Now walk fast, but don't run. Let go at 'now' again. Will the socks land in the same place, nearer the plate, or further away? Why do you think so?  
   *Child mode:* Walk fast this time. Don't run! Let go when your helper says now. Do the socks land further away? Measure.
@@ -307,16 +306,16 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent says:* Here is a challenge. Can you walk slowly and make the socks land on the plate? When should you let go?  
   *Child mode:* Can you make the socks land on the plate while you walk? When will you let go?
   - Note: The trick is to let go before your hand reaches the plate, about one big step early at a slow walk. Children who work this out on their own have understood the idea. Aid workers dropping food parcels from planes must let go long before the plane is over the target, for the same reason.
-- **s7 (5 min)**  
+- **s7 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: when you let go of something while you walk, it keeps moving forward as it falls. What I saw: standing still, the socks landed on the plate. Walking slowly, they landed about 35 cm past. Walking fast, about 70 cm past. Why: the socks were moving forward with me, and nothing pushed them back after I let go, so they kept going forward until they hit the floor.
-### e2 · The Egg That Keeps Turning (25 min)
+### e2 · The Egg That Keeps Turning (20 min)
 - **question:** Can we tell a raw egg from a boiled egg by spinning it, stopping it and letting go?
 - **predict:** Guess first. When you stop a spinning egg with one finger and let go, will it stay still or start turning again? Will a raw egg and a boiled egg do the same thing? Why do you think so?
 - **fair test:** Use eggs of about the same size, spun on the same plate. Stop each one with one fingertip for about one second, then lift your finger. Test each egg 3 times. You don't know which egg is which until the end, so you can't fool yourself.
-- **safety:** A grown-up boils the eggs and cools them in cold water before the child touches them. Wash hands with soap after touching raw eggs. If your family does not use eggs, do the Water That Keeps Turning activity instead (a2). It shows the same idea.
+- **safety:** A grown-up boils the eggs and cools them in cold water before the child touches them. Wash hands with soap after touching raw eggs.
 - **record:** Fill in the table. Draw the inside of a raw egg and a boiled egg, and show with arrows what keeps turning.
 - **results table:** Egg | Easy or hard to spin fast? | Starts turning again after I stop it? Try 1 | Try 2 | Try 3 | My guess: raw or boiled
 - **s1 (3 min) · grown-up needed**  
@@ -334,21 +333,16 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent says:* Now the real test. Spin the egg, stop it with one finger, and let go straight away. Watch it closely. What do you think a raw egg will do? Why?  
   *Child mode:* Spin the egg. Stop it with one finger. Let go at once. Does it stay still? Or does it start turning again? Try each egg 3 times.
   - Note: A boiled egg stays still once stopped. A raw egg slowly starts turning again, for half a turn or more. If nothing happens with any egg, the stop was too long: touch for only about one second, then lift your finger right away.
-  - Check: Meera, a girl in Chennai, stops a spinning raw egg with her finger and lets go. The egg starts turning again. Why? → **The runny inside kept turning after the shell stopped, and it turned the shell again**
+  - Check: Meera, a girl in Class 3 in Chennai, stops a spinning raw egg with her finger and lets go. The egg starts turning again. Why? → **The runny inside kept turning after the shell stopped, and it turned the shell again**
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. Your child says which eggs they think are raw and why. 2. Show your secret note. 3. Crack one egg your child chose as raw into a bowl, to check.  
   *Parent says:* Which two do you think are raw? What did they do that tells you? Let's check one by cracking it.  
   *Child mode:* Which two eggs are raw? Say why. Now crack one into a bowl. Were you right?
   - Note: Use the raw egg for cooking afterwards, so it isn't wasted. Wash hands with soap after touching raw eggs.
-- **s5 (5 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the runny inside of a raw egg keeps turning when the shell is stopped. What I saw: eggs B and D started turning again after I stopped them, 3 times out of 3. Eggs A and C stayed still. B was raw when we cracked it. Why: my finger stopped only the shell, and the inside kept moving because of inertia, so it turned the shell again.
 ### e3 · How Far Will It Roll? On the way to ice (25 min)
 - **question:** A marble rolls down the same ramp onto a towel, a doormat and a bare floor. On which will it roll furthest, and why?
 - **predict:** Guess first. Put the three surfaces in order, from shortest roll to longest roll. Then guess: on ice, would it roll even further? Why do you think so?
-- **fair test:** Use the same marble, the same ramp at the same height, and let go from the same mark every time. Don't push the marble, just let go. Only the surface changes. Roll 3 times on each, because one try can be a fluke.
+- **fair test:** Use the same marble, the same ramp at the same height, and let go from the same mark every time. Don't push the marble, just let go. Only the surface changes. Roll 3 times on each, because one try can be a fluke. Keep the book end of the ramp the same every time.
 - **safety:** Pick up the marble after each roll so nobody slips on it. Keep marbles away from children under 3.
 - **record:** Fill in the table and draw a bar chart with one bar for each surface.
 - **results table:** Surface | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle result (cm)
@@ -357,7 +351,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent says:* We'll roll this marble down the same ramp onto three floors: a towel, a doormat and the bare floor. Which will it roll furthest on? Which shortest? Why?  
   *Child mode:* Make a ramp with the ruler and a book. Which floor will the marble roll furthest on? The towel, the mat or the bare floor? Why?
   - Ask: Put the three surfaces in order, and say why. (good: Towel shortest, then the mat, then the floor, because the towel is rough and the floor is smooth.; Any order with a reason is a good guess.)
-- **s2 (10 min)**  
+- **s2 (9 min)**  
   *Parent does:* 1. Hold the marble at the starting line and let go, without pushing. 2. Mark where it stops with a coin. 3. Measure from the end of the ruler to the coin. 4. Do 3 rolls on each surface. 5. Write each one in the table.  
   *Parent says:* Let go of the marble at the line. Don't push it. Where did it stop? Let's measure, then do it again.  
   *Child mode:* Let go of the marble at the line. No pushing! Put a coin where it stops. Measure. Do 3 rolls on each floor.
@@ -366,7 +360,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent does:* 1. Find the middle result for each surface: the one between the smallest and the biggest. 2. Compare them.  
   *Parent says:* Which surface slowed the marble most? Which slowed it least? What do you think slowed it down?  
   *Child mode:* Which floor stopped the marble fastest? What slowed it down?
-  - Check: Arjun's marble rolled 20 cm on a towel and 250 cm on tiles, from the same ramp. Why did it go so much further on the tiles? → **The tiles gave less friction, so less force slowed it down**
+  - Check: Arjun, a boy in Class 3, rolls a marble. It rolled 20 cm on a towel and 250 cm on tiles, from the same ramp. Why did it go so much further on the tiles? → **The tiles gave less friction, so less force slowed it down**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to imagine smoother and smoother floors. First ice, then something even more slippery. Last, a floor with no friction and no air.  
   *Parent says:* On ice, the marble would slide much further than on tiles. What if the floor were even more slippery than ice? And what if there were no friction and no air at all?  
@@ -381,7 +375,6 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 
 ## Activities
 ### a1 · The Coin That Stays Behind (10 min)
-- **safety:** Flick the card sideways, not towards anyone's face.
 - **record:** Write 'slow pull' and 'fast flick', and draw where the coin went each time.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the card on the tumbler and the coin in the middle of the card. 2. Your child pulls the card slowly sideways off the tumbler.  
@@ -392,32 +385,30 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent does:* 1. Set it up again. 2. Before the flick, ask for a guess and a reason. 3. Your child flicks the edge of the card hard and fast with a finger, straight sideways. 4. Try 5 times, then with two coins stacked.  
   *Parent says:* Now, before you flick it fast, guess. Where will the coin go this time? Why do you think so? Now flick it hard, straight sideways.  
   *Child mode:* Set it up again. Guess first: where will the coin go? Now flick the card hard and fast. Was your guess right?
-  - Note: Flicking the card with a fingernail, the way you flick a carrom coin, works best. Most flicks drop the coin into the tumbler. If the coin flies off, the flick was upwards: flick straight along the top of the tumbler. Two stacked coins usually drop in even more surely, because they have more mass.
+  - Note: Flicking the card with a fingernail, the way you flick a carrom coin, works best. Most flicks drop the coin into the tumbler. If the coin flies off, the flick was upwards: flick straight along the top of the tumbler. Two stacked coins drop in too, if the flick is quick.
 - **s3 (3 min)**  
   *Parent does:* Talk about what happened. Don't give the answer before your child has tried to explain it.  
   *Parent says:* Nothing pushed the coin into the tumbler. So why did it end up inside?  
   *Child mode:* Nothing pushed the coin down. So why did it fall into the tumbler?
-  - Check: Kavya flicks the card away fast, and the coin drops into the tumbler. Why? → **The coin stayed still while the card shot away, and then gravity pulled it down**
+  - Check: Ananya, a girl in Class 3, flicks the card away fast, and the coin drops into the tumbler. Why? → **The coin stayed still while the card shot away, and then gravity pulled it down**
 ### a2 · The Water That Keeps Turning (10 min)
-- **safety:** Do it on the kitchen counter or the floor, with a cloth under the bowl for spills.
 - **record:** Draw the bowl from above with arrows showing how the water moved after you took the spoon out.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the bowl on the counter and add a pinch of tea leaves. 2. Your child stirs fast in a circle for 10 strokes. 3. They lift the spoon out. 4. Count how many seconds the tea leaves keep going round.  
   *Parent says:* Stir the water fast, then lift the spoon out. Will the water stop when the spoon stops? Why? Let's count how long it keeps going.  
   *Child mode:* Stir the water fast. Lift the spoon out. Does the water stop? Count the seconds it keeps turning.
-  - Note: The water usually keeps turning for 15 seconds or more, slowing down little by little. Friction with the bowl slowly stops it.
+  - Note: The water usually keeps turning for 10 to 20 seconds, slowing down little by little. Friction with the bowl slowly stops it.
 - **s2 (4 min)**  
   *Parent does:* 1. Wait until the water is completely still. 2. Float the leaf in the middle, pointing at a spot on the wall. 3. Your child turns the bowl quickly a quarter turn, then holds it still.  
   *Parent says:* Now the water is still. If you turn the bowl quickly, will the water and the leaf turn with it? Why do you think so?  
   *Child mode:* Wait until the water is still. Float the leaf. Turn the bowl quickly. Does the leaf turn with the bowl?
-  - Note: The bowl turns, but the water and the leaf mostly stay where they were, so the leaf keeps pointing at nearly the same spot on the wall. Turn it smoothly and quickly. A slow turn gives the bowl time to drag the water round.
+  - Note: The bowl turns, but the water and the leaf mostly stay where they were, though the leaf may drift a little, so it keeps pointing at nearly the same spot on the wall. Turn it smoothly and quickly. A slow turn gives the bowl time to drag the water round.
 - **s3 (2 min)**  
   *Parent does:* Ask your child to explain both results.  
   *Parent says:* The moving water kept moving, and the still water stayed still. What does that tell you?  
   *Child mode:* Moving water kept moving. Still water stayed still. Why?
-  - Check: Lakshmi stirs water in a bowl and lifts the spoon out. Why does the water keep turning? → **Because of inertia: moving water keeps moving until friction slows it**
+  - Check: Lakshmi, a girl in Class 3, stirs water in a bowl and lifts the spoon out. Why does the water keep turning? → **Because of inertia: moving water keeps moving until friction slows it**
 ### a3 · The Carrom Tower (10 min)
-- **safety:** Keep fingers out of the way of the striker.
 - **record:** Write how many tries it took to knock out only the bottom coin, and draw the tower before and after.
 - **s1 (3 min)**  
   *Parent does:* 1. Stack 6 coins in a neat tower in the middle of the board. 2. Put the striker flat on the board about 15 cm away, aimed at the bottom coin.  
@@ -435,7 +426,6 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Why did the top coins stay and drop down?
   - Ask: Why did the top coins stay? (good: They were still and stayed still, because the bottom coin rubbed them for only a moment.; Inertia.)
 ### a4 · Tumbler on a Tray: start, stop and turn (10 min)
-- **safety:** Do it over the towel. Move the tray only a short way, and gently at first.
 - **record:** Draw the tray and tumbler three times: starting, stopping and turning. Show with an arrow which way the water slopped.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the tumbler in the middle of the tray. 2. Your child holds the tray still, then pulls it forward suddenly, a short way.  
@@ -448,10 +438,10 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Walk slowly. Stop suddenly. Which way did the water go? Now turn a corner. Which way now?
   - Note: When the tray stops, the water slops forward, because it keeps moving. When the tray turns, the water rises on the outside of the turn, because it keeps going straight.
 - **s3 (4 min)**  
-  *Parent does:* Connect it to a bus or an auto.  
+  *Parent does:* Talk about what happens to passengers in a bus or an auto-rickshaw when it brakes.  
   *Parent says:* When the bus brakes suddenly, which way do the passengers lurch? Is that like the water?  
   *Child mode:* When a bus brakes, which way do people lurch? Why? Is it like the water?
-  - Check: Farhan is standing in a city bus. The bus brakes suddenly. Which way does his body lurch? → **Forward, because his body keeps moving**
+  - Check: Farhan, a boy in Class 3, is standing in a city bus. The bus brakes suddenly. Which way does his body lurch? → **Forward, because his body keeps moving**
 ### a5 · Toss It on a Moving Train, Metro or Lift (10 min)
 - **safety:** A grown-up is with you all the time. Stay seated in a train or metro, toss the ball only a little way up, and do it only while the ride is smooth. Never lean out of a window or a door.
 - **record:** Write where you were, and where the ball landed when the ride was smooth, and when it braked or turned.
@@ -471,7 +461,6 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Shut your eyes on a smooth ride. Can you tell you are moving? Is the Earth moving now?
   - Ask: Why don't we feel the Earth moving? (good: Because it moves smoothly, and we move with it.; Like a smooth train, everything around us moves with us.)
 ### a6 · The Dough Passenger (15 min)
-- **safety:** Use only a gentle slope, and keep the dough out of the toy car's wheels.
 - **record:** Draw where the passenger landed without a seatbelt and with one.
 - **s1 (4 min)**  
   *Parent does:* 1. Make a small dough person and press them gently onto the top of the toy car. 2. Prop one end of the tray on 2 books. 3. Put the heavy book across the bottom as a wall.  
@@ -491,7 +480,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent does:* Connect it to real seatbelts and helmets.  
   *Parent says:* Why does everyone in a car need to wear a seatbelt, even in the back seat?  
   *Child mode:* Why should everyone in a car wear a seatbelt, even at the back?
-  - Check: A car brakes hard. Why does a passenger without a seatbelt move forward? → **Their body keeps moving at the old speed until something stops it**
+  - Check: In the dough passenger test, what does the rubber band seatbelt do? → **It gives the force that stops the passenger along with the car**
 ### a7 · Swing It and Let Go (10 min)
 - **safety:** Do it in an open space, with nobody near you and nothing breakable around. Swing low and slowly. A grown-up watches.
 - **record:** Draw the circle from above, and a line showing the way the sock flew off.
@@ -501,7 +490,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Swing the sock slowly, low down. Can you feel the string pulling?
   - Note: The string pulls the sock towards the hand all the time. That pull keeps turning it round the circle.
 - **s2 (4 min) · grown-up needed**  
-  *Parent does:* 1. Ask for a guess. 2. Your child lets go of the string as the sock passes in front of them. 3. Try 3 times.  
+  *Parent does:* 1. Ask for a guess. 2. Your child lets go of the string as the sock passes in front of them. 3. Mark where the sock lands with the paper strip or chalk. 4. Try 3 times.  
   *Parent says:* Guess first. When you let go, will the sock keep curving, or fly off straight? Why?  
   *Child mode:* Guess: will the sock keep curving? Let go of the string. Which way did it fly?
   - Note: It flies off in a straight line, the way it was moving at that moment. It does not keep curving, because nothing is turning it any more.
@@ -512,30 +501,25 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   - Ask: Why did it go straight? (good: The string stopped pulling, so nothing turned it.; Moving things go straight unless a force turns them.)
 
 ## Projects
-### p1 · Build a Balloon Hover Puck (40 min, 2 days)
+### p1 · Build a Balloon Hover Puck (35 min, 2 days)
 - **safety:** A grown-up uses the glue. Keep glue off fingers. Don't put a burst balloon in the mouth.
-- **record:** Write how far the plain CD slid and how far the hover puck glided, from the same tap, 3 times each.
-- **schedule:** day 1: Glue the push-pull cap onto the CD and leave it to dry. (15 min); day 2: Fit the balloon, test the hover puck, and compare it with a plain CD. (25 min)
+- **record:** Write how far the puck slid without air and how far it glided with air, from the same tap, 3 times each.
+- **schedule:** day 1: Glue the push-pull cap onto the CD and leave it to dry. (15 min); day 2: Fit the balloon, test the hover puck, and compare it with the same puck without air. (20 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up glues the push-pull cap over the hole in the middle of one CD, with no gaps around the edge. 2. Leave it to dry overnight.  
   *Parent says:* Today we build the puck. Tomorrow we test it. The air from the balloon will come out under the CD. What do you think that will do?  
   *Child mode:* Today you build the puck. A grown-up glues the cap onto the CD. Leave it to dry.
-  - Note: The seal must be airtight, or the air leaks out of the sides instead of under the CD. Prestik pressed all round the cap works if you have no glue.
+  - Note: The seal must be airtight, or the air leaks out of the sides instead of under the CD. Putty pressed all round the cap works if you have no glue.
 - **s2 (10 min)**  
   *Parent does:* 1. Close the push-pull cap. 2. Blow up the balloon, twist its neck, and stretch it over the cap. 3. Put the puck on the floor and pull the cap open. 4. Give it one gentle tap.  
   *Parent says:* Pull the cap open, wait until you hear the air, and give it one gentle tap. How far does it go?  
   *Child mode:* Close the cap. Put the balloon on it. Open the cap. Tap the puck gently. Where does it stop?
-  - Note: With air flowing, the puck glides far and smoothly, often across the whole room, until the balloon runs out. Use the same small tap each time.
+  - Note: With air flowing, the puck glides far and smoothly, often across the whole room, until the balloon runs out. Use the same small tap each time: hold a ruler's end, pull it back to the same mark, and let go against the puck.
 - **s3 (10 min)**  
-  *Parent does:* 1. Tap the plain CD with no balloon, with the same small tap. 2. Measure how far each one went. 3. Do 3 tries each.  
-  *Parent says:* Now tap the plain CD the same way. Which went further? Why?  
-  *Child mode:* Tap the plain CD the same way. Measure. Which one went further? Why?
-  - Note: The plain CD rubs on the floor and stops within a few centimetres. The hover puck rides on air, so friction is almost gone. This is how an air hockey table works.
-- **s4 (5 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: when friction is almost gone, a moving thing keeps going a long way. What I saw: the plain CD slid about 10 cm. The hover puck glided about 3 metres from the same tap. Why: the air lifted the puck off the floor, so almost nothing slowed it down.
+  *Parent does:* 1. Close the cap and take the balloon off, so the same puck has no air under it. Tap it with the same small tap. 2. Measure how far each one went. 3. Do 3 tries each.  
+  *Parent says:* Now tap the puck the same way with no air. Which went further? Why?  
+  *Child mode:* Tap the puck with no balloon, the same way. Measure. Which went further, with air or without? Why?
+  - Note: Without air, the puck rubs on the floor and stops within a few centimetres. With air, it rides on a thin layer of air, so friction is almost gone. This is how an air hockey table works.
 
 ## Challenges
 ### c1 · Save the Dough Passenger (30 min)
@@ -558,11 +542,11 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Test it 3 times. Did the passenger stay safe? Change one thing and try again.
   - Note: A seatbelt keeps the passenger on. A soft bumper or crumple zone makes the car stop over a longer distance, so the passenger is stopped more gently. Real cars use both.
 ### c2 · The Longest Glide (30 min)
-- **problem:** Make a small thing that goes as far as possible across a tiled floor after one gentle push from a ruler held at the same height each time.
+- **problem:** Make a small thing that goes as far as possible across a tiled floor after one gentle push, the same push every time.
 - **your turn:** Now design your own glider. Test it 3 times, measure, and change one thing at a time.
-- **constraints:** The push is always the same: a ruler pulled back to the same mark and let go, like a catapult, or one gentle push with the same flick.; No engines, balloons or blowing.; It must carry one coin as its load.
+- **constraints:** The push is always the same: hold the end of a ruler, pull it back to the same mark, and let go so it strikes the back of the glider.; No engines, balloons or blowing.; It must carry one coin as its load.
 - **general:** Put wheels under it: round pencils or bottle caps on straws.; Put it on marbles, which roll like ball bearings.; Make the bottom very smooth and flat.
-- **creative:** A lid on four marbles held in place with bottle caps.; Rub a little cooking oil or talcum powder on the bottom of a steel plate, then wipe the floor afterwards.; Make it heavier or lighter: does that change how far it goes?
+- **creative:** A lid on four marbles held in place with bottle caps.; Sprinkle a little talcum or carrom powder under a steel plate, then wipe the floor afterwards.; Make it heavier or lighter: does that change how far it goes?
 - **s1 (5 min)**  
   *Parent does:* Push a plain steel plate with a coin on it, using the same push. Measure how far it goes.  
   *Parent says:* This is our starting result. The plate rubs on the floor. How could we make it go further?  
@@ -581,21 +565,21 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 ### Keep Going! (core) (core, 16 questions)
 1. (sort) Divya, a girl in Class 3 in Kochi, writes down six moments from her day. Sort each one: is a force changing the motion, or is the thing just keeping on doing what it was doing?  
    **Answer:** A football she kicks starts rolling → A force changes the motion; Her pencil box lies on the desk all morning → It keeps doing what it was doing; Her cycle slows down when she stops pedalling → A force changes the motion; A spacecraft far out in space keeps moving with its engines off → It keeps doing what it was doing; Her hand catches a tossed ball → A force changes the motion; A puck glides straight across an air hockey table → It keeps doing what it was doing. *Why:* Whenever motion starts, stops, speeds up, slows down or turns, a force is acting: a kick, friction, a hand. Things that stay still, or keep moving straight at a steady speed, need no force. A strong answer sorts the slowing cycle as a force, friction, and not as stopping by itself.
-2. (truefalse) Meenakshi says, 'If you stop pushing a moving thing, it stops by itself.' Is she right?  
+2. (truefalse) Meenakshi, a girl in Class 3, says, 'If you stop pushing a moving thing, it stops by itself.' Is she right?  
    **Answer:** False. *Why:* False. A moving thing keeps moving until a force stops it. On Earth that force is usually friction or air resistance, which is why it seems to stop by itself. On ice it slides much further, and in space it would not stop at all.
-3. (mcq) Riya walks past a steel plate and lets go of rolled socks right above it. Where do they land?  
+3. (mcq) Riya, a girl in Class 3, walks past a steel plate and lets go of rolled socks right above it. Where do they land?  
    Options: On the plate / Behind the plate / Past the plate, the way she was walking  
    **Answer:** Past the plate, the way she was walking. *Why:* The socks were moving forward with Riya, and they kept moving forward as they fell. So they landed past the plate. Picking 'on the plate' means thinking a dropped thing loses its forward motion as soon as you let go.
 4. (write) In the coin and card trick, explain why the coin drops into the tumbler when you flick the card fast. Use the word 'inertia'.  
    **Answer:** The coin is still, and because of inertia it stays still. The fast flick rubs it for only a moment, too short to move it. So the card goes and the coin stays, and gravity pulls it down into the tumbler.. *Why:* A strong answer says the coin stays still because no force acted on it long enough, and that gravity then pulls it down.
 5. (draw) Your helper watched the walking drop from the side. Draw the path of the rolled socks through the air, from your hand to the floor. Draw the plate too.  
    **Answer:** A curve that starts at the hand, goes forward and down, and lands past the plate.. *Why:* Seen from the side, the socks move forward and fall at the same time, so the path curves. A strong drawing shows the socks landing past the plate, in the direction of walking.
-6. (mcq) Arjun rolls a marble down the same ramp onto a towel, a doormat and bare tiles. On which does it roll furthest?  
+6. (mcq) Arjun, a boy in Class 3, rolls a marble down the same ramp onto a towel, a doormat and bare tiles. On which does it roll furthest?  
    Options: The towel / The doormat / The bare tiles  
    **Answer:** The bare tiles. *Why:* The bare tiles are the smoothest, so they give the least friction, and the marble rolls furthest. The towel's rough fibres give the most friction, so it stops soonest.
 7. (fill) The grip between two surfaces that slows a rolling marble is called ____.  
    **Answer:** ['friction']. *Why:* Friction is the grip between two surfaces that touch. It works against sliding and rolling, so it slows moving things down.
-8. (mcq) Farhan is standing in a bus that brakes suddenly. Which way does he lurch?  
+8. (mcq) Farhan, a boy in Class 3, is standing in a bus that brakes suddenly. Which way does he lurch?  
    Options: Forward / Backward / He does not move  
    **Answer:** Forward. *Why:* His body was moving forward with the bus, and it keeps moving forward when the bus slows. So he lurches forward. That is why standing passengers hold the bar.
 9. (truefalse) A spacecraft far out in space, with its engines switched off, slows down and stops after a while.  
@@ -617,16 +601,16 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 16. (write) Name one place in your home or on the road where you have seen inertia. Say what kept going, or what stayed still.  
    **Answer:** For example: when the auto braked, my school bag slid forward off the seat, because it kept moving.. *Why:* A strong answer names a real moment and says what kept doing what it was doing.
 ### Eggs, Buses and Bowls (stretch) (stretch, 16 questions)
-1. (mcq) In the walking drop, Kavya walked fast and the socks landed 70 cm past the plate. When she walked slowly, they landed 35 cm past. What does this show?  
+1. (mcq) In the walking drop, Kavya, a girl aged 9, walked fast and the socks landed 70 cm past the plate. When she walked slowly, they landed 35 cm past. What does this show?  
    Options: Faster walking gives the socks more forward speed, so they go further while falling / Faster walking makes the socks heavier / The socks fall slower when you walk fast  
    **Answer:** Faster walking gives the socks more forward speed, so they go further while falling. *Why:* The socks keep the speed they had in your hand. Walking faster gives them more forward speed, so they travel further forward in the same falling time.
-2. (write) Divya wants her walking-drop socks to land on the plate while she walks. When should she let go, and why?  
+2. (write) Divya, a girl in Class 3 in Kochi, wants her walking-drop socks to land on the plate while she walks. When should she let go, and why?  
    **Answer:** Before her hand reaches the plate. The socks keep moving forward as they fall, so she must let go early for them to land on it.. *Why:* A strong answer uses the idea that the socks keep their forward motion, and says to let go before the plate.
 3. (truefalse) In the raw egg test, the finger stopped the shell, but the runny inside kept turning.  
    **Answer:** True. *Why:* True. The finger touched only the shell. The inside kept moving because of inertia, and it set the shell turning again after the finger was lifted.
 4. (write) A boiled egg stays still after you stop it. A raw egg starts turning again. Explain the difference.  
    **Answer:** In a boiled egg, the inside is solid and fixed to the shell, so stopping the shell stops all of it. In a raw egg, the inside is runny, so it keeps turning when the shell stops, and it drags the shell round again.. *Why:* A strong answer compares the solid and runny insides and uses the idea that moving things keep moving.
-5. (mcq) Lakshmi pulls the card slowly from under the coin on the tumbler. The coin moves with the card. Why is this different from a fast flick?  
+5. (mcq) Lakshmi, a girl in Class 3, pulls the card slowly from under the coin on the tumbler. The coin moves with the card. Why is this different from a fast flick?  
    Options: With a slow pull, friction acts on the coin for longer, so it gets the coin moving / The coin is heavier when the card moves slowly / Slow pulls have no friction  
    **Answer:** With a slow pull, friction acts on the coin for longer, so it gets the coin moving. *Why:* Friction between the card and the coin acts both times. With a slow pull, it acts for a long time and gets the coin moving with the card. With a fast flick, it acts for too short a time.
 6. (mcq) Which needs the longest distance to stop, if they are all going at the same speed?  
@@ -634,14 +618,14 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
    **Answer:** A loaded lorry. *Why:* The loaded lorry has the most mass, so it has the most inertia. Its brakes need longer to take away all that motion. This is why lorries keep a big gap on the highway.
 7. (fill) Newton's first law says a thing stays at rest, or keeps moving at the same speed in a ____ line, unless a force acts on it.  
    **Answer:** ['straight']. *Why:* Without a force, a moving thing goes straight. Turning, like slowing or speeding up, needs a force.
-8. (mcq) Sana swings a sock on a string in a circle and lets go. Which way does the sock fly?  
+8. (mcq) Sana, a girl in Class 3, swings a sock on a string in a circle and lets go. Which way does the sock fly?  
    Options: It keeps going round in a circle / Straight, the way it was moving at that moment / Straight back to her hand  
    **Answer:** Straight, the way it was moving at that moment. *Why:* The string was the force turning the sock. Once she lets go, no force turns it, so it flies off straight, along the edge of the circle.
 9. (truefalse) You cannot feel the Earth spinning, because it is not really moving.  
    **Answer:** False. *Why:* False. The Earth does spin. In Chennai it carries you east at about 1,600 kilometres an hour. You can't feel it because the motion is smooth and steady, and everything around you moves with you, like in a smooth train.
 10. (write) Why does water slop forward in a tumbler when a bus brakes suddenly?  
    **Answer:** The water was moving forward with the bus. When the bus slows, the tumbler slows with it, but the water keeps moving forward for a moment, so it rises at the front.. *Why:* A strong answer says the water keeps its motion while the tumbler slows down.
-11. (write) Arjun says, 'A marble on Earth always stops, so Newton's first law is wrong.' What would you tell him? Use your marble rolling results.  
+11. (write) Arjun, a boy in your class, says, 'A marble on Earth always stops, so Newton's first law is wrong.' What would you tell him? Use your marble rolling results.  
    **Answer:** The law says a thing keeps moving unless a force acts. On Earth, friction and air resistance act on the marble. My results show that with less friction, on the tiles, it rolled much further than on the towel. So the law is right, and friction is the force that stops it.. *Why:* A strong answer points to the pattern in the results: less friction, longer roll.
 12. (write) A stone slides a very long way on a frozen lake, but only a short way on a road. Explain why.  
    **Answer:** Ice is very smooth and slippery, so it gives very little friction. The road is rough and gives a lot of friction, which stops the stone quickly.. *Why:* A strong answer names friction as the force that slows the stone, and compares how much each surface gives.
@@ -665,7 +649,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
    **Answer:** The stone is moving with the Earth and the tower before it is dropped. While it falls, it keeps that motion, so it stays with the tower and lands at its foot, just as the socks kept moving with me.. *Why:* A strong answer uses inertia and links it to the walking drop or Gassendi's ship.
 5. (write) A pilot flying a plane must drop a food parcel to people on an island. Should she let go before, above, or after the plane is over the island? Why?  
    **Answer:** Before. The parcel moves forward at the plane's speed and keeps moving forward as it falls. If she let go right above the island, it would land past it.. *Why:* A strong answer applies the walking drop to a new case, and says why the parcel goes forward.
-6. (write) In the hover puck project, the puck glided about 3 metres and a plain CD slid about 10 cm from the same tap. What does this show about friction and inertia?  
+6. (write) In one family's hover puck test, the puck glided about 3 metres and without air it slid about 10 cm from the same tap. What does this show about friction and inertia?  
    **Answer:** The puck rode on air, so there was almost no friction. With almost nothing to slow it, it kept moving much longer. This shows that moving things keep moving, and friction is what stops them.. *Why:* A strong answer uses the numbers as evidence and names friction as the force that made the difference.
 7. (mcq) Which of these has the most inertia?  
    Options: A full steel almirah / An empty steel almirah / A plastic chair  
@@ -685,8 +669,8 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
    **Answer:** In a moving boat, you feel still, and the trees seem to move the other way. In the same way, the Earth turns smoothly and we feel still, so the stars seem to move across the sky the other way, though it is really us who are moving.. *Why:* A strong answer sees that the smooth motion is not felt, and that it makes still things seem to move the opposite way.
 13. (draw) Design a safety feature for a school bus that would protect children if it braked suddenly. Draw it and label how it works.  
    **Answer:** Any sensible design, such as seatbelts, high padded seat backs, or soft bars in front of each seat, with labels saying how it stops children safely.. *Why:* A strong design gives the children's bodies a force that stops them gently along with the bus, instead of letting them keep moving into something hard.
-14. (truefalse) A heavier coin in the card trick stays behind better than a light one, because it has more inertia.  
-   **Answer:** True. *Why:* True. More mass means more inertia, so the short rub from the flicked card moves a heavy coin even less. Stacked coins drop into the tumbler very reliably.
+14. (truefalse) In the card trick, the flicked card pushes the coin down into the tumbler.  
+   **Answer:** False. *Why:* False. The coin stays still while the card shoots out. Then gravity pulls it down into the tumbler. The card never pushes it down.
 15. (sort) Sort these by what changed the motion: friction, gravity, or a push or pull from a person.  
    **Answer:** A marble stops on a towel → Friction; The coin falls into the tumbler → Gravity; A footballer kicks the ball → A push or pull from a person; A cycle slows when its brakes rub the wheel → Friction; A cricket ball curves down to the ground → Gravity; A fielder's hands stop the ball → A push or pull from a person. *Why:* Every change in motion has a force behind it. A strong answer names a force for each change and sees that brakes work by friction.
 16. (odd) Three of these show a still thing staying still. Which is the odd one out?  
@@ -694,9 +678,9 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
    **Answer:** 3. *Why:* The dough passenger was moving and kept moving. The other three were still and stayed still while something around them moved.
 
 ## Videos
-- **STEMonstrations: Newton's First Law of Motion** (NASA Johnson, 4 min) id `-luKN6mad5w`: Astronauts on the International Space Station show that, with almost nothing to slow them, still things stay still and moving things keep moving. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'STEMonstrations: Newton's First Law of Motion', channel NASA Johnson), and it is the video embedded on NASA's own page for this lesson. Not watched from here: a parent should preview it and check its length.
-- **Egg Experiment to Demonstrate Inertia** (Veritasium, 3 min) id `7LGi-Dlb8Vs`: The raw egg and boiled egg spin test, filmed close up, the same test as the egg experiment in this unit. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Egg Experiment to Demonstrate Inertia', channel Veritasium). Not watched from here: a parent should preview it and check its length.
-- **Can You Drop A Ball From A Moving Vehicle And Have It Land Straight Down?** (MythBusters, 4 min) id `xb_kS5pRv-0`: A football fired backwards from a fast truck at exactly the truck's speed drops almost straight down. It is the walking drop turned the other way round. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (channel MythBusters). Not watched from here: a parent should preview it, check its length and talk about why stunts with vehicles are only for trained teams.
+- **STEMonstrations: Newton's First Law of Motion** (NASA Johnson, 4 min) id `-luKN6mad5w`: Astronauts on the International Space Station show that, with almost nothing to slow them, still things stay still and moving things keep moving. *Check:* Preview it first and check its length.
+- **Egg Experiment to Demonstrate Inertia** (Veritasium, 3 min) id `7LGi-Dlb8Vs`: The raw egg and boiled egg spin test, filmed close up, the same test as the egg experiment in this unit. *Check:* Preview it first and check its length.
+- **Can You Drop A Ball From A Moving Vehicle And Have It Land Straight Down?** (MythBusters, 4 min) id `xb_kS5pRv-0`: A football fired backwards from a fast truck at exactly the truck's speed drops almost straight down. It is the walking drop turned the other way round. *Check:* Preview it first and check its length. Stunts with vehicles are for trained teams only: never copy them.
 
 ## Quiz
 1. (mcq) Which sentence says Newton's first law?  
@@ -705,7 +689,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 2. (mcq) A coin sits on a card on a tumbler. You flick the card away fast. What does the coin do?  
    Options: Flies away with the card / Drops into the tumbler / Stays floating in the air  
    **Answer:** Drops into the tumbler. *Why:* The coin stays still because of inertia, and then gravity pulls it down into the tumbler. It does not fly with the card, because the flick rubs it for too short a time.
-3. (mcq) Nisha walks past a plate and lets go of rolled socks right above it. Where do they land?  
+3. (mcq) Nisha, a girl in Class 3, walks past a plate and lets go of rolled socks right above it. Where do they land?  
    Options: On the plate / Behind the plate / Past the plate  
    **Answer:** Past the plate. *Why:* The socks keep moving forward as they fall, so they land past the plate. Picking 'on the plate' means thinking they lose their forward motion when they leave her hand.
 4. (mcq) In the walking drop, what happens when you walk faster?  
@@ -754,7 +738,6 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - Water slopping out of a bucket when someone carrying it stops suddenly.
 - Shaking water off a wet umbrella: the drops fly off in straight lines.
 - Banging the bottom of a ketchup bottle, or tapping a dabba of rice flour: the bottle stops, and what is inside keeps moving.
-- Tapping the end of a steel tumbler of rice on the counter to settle the grains.
 - A carrom striker gliding a long way across a powdered board.
 
 ## Open questions
@@ -767,11 +750,10 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - When the auto braked just now, which way did you lean? Why?
 - Why do you think the bus driver tells standing people to hold the bar?
 - If you rolled a ball in a long empty corridor, why would it stop?
-- We are moving round the Sun right now. Can you feel it? Why not?
 - Why do you think a loaded lorry keeps a big gap behind the car in front?
 - When you shake water off your hands, where do the drops go? Why?
 - Is it harder to start pushing the trolley in the shop, or to keep it going? Why?
-- Why does the rice settle when Amma taps the tumbler on the counter?
+- Why does the rice settle when someone taps the tumbler on the counter?
 
 ## Jokes
 - Why did the coin stay on the table all day? *Inertia. Nobody gave it a reason to move.*
@@ -782,26 +764,18 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - Why did the socks land past the plate? *They didn't want to stop walking.*
 - What does Voyager 1 say every morning? *Still going!*
 - Why did the passenger thank the seatbelt? *It stopped her from going too far.*
-- What did the bus say to the standing passengers? *Hold on, I'm about to change your motion.*
 - Why did the boiled egg win the staring contest? *Once it stopped, it really stopped.*
-- What do you call a train ride where you can't feel anything? *Smooth travel, thanks to inertia.*
-- Why did the tea leaves keep dancing? *The water forgot to stop.*
-- What did the brakes say to the lorry? *You've got a lot of mass to move, give me time.*
-- Why was the carrom tower calm when its bottom coin was knocked out? *It just dropped down and carried on.*
 - What did the Earth say to the girl on the sofa? *You think you're sitting still? Hold tight.*
-- Why did the sock fly off straight? *The string let go of the idea of going round.*
-- What's a hover puck's favourite thing? *Getting away from friction.*
-- Why didn't the ball fall behind on the train? *It was already keeping up.*
 
 ## Connected maths
-- In the walking drop, Kavya's socks landed 30 cm, 40 cm and 35 cm past the plate when she walked slowly. Put the results in order. Which is the middle result? **30 cm, 35 cm, 40 cm. The middle result is 35 cm.**. In order from smallest to biggest: 30, 35, 40. The middle one is 35 cm. The middle result is a fair single number for the three tries, because it is not the biggest or the smallest. (queues `math.number-sense.comparing-ordering.L3`)
-- Walking slowly, the socks landed about 35 cm past the plate. Walking fast, about 70 cm past. How many times as far is that? What does the pattern tell you? **2 times as far. Walking about twice as fast sends the socks about twice as far.**. 70 divided by 35 is 2. Check: 35 + 35 = 70. The faster you move, the further the socks go while they fall. That fits the idea that they keep the speed you gave them. (queues `math.division.sharing-and-grouping.L3`)
-- From the same ramp, the marble rolled 20 cm on a towel, 60 cm on a doormat and 240 cm on tiles. Draw a bar chart. How much further did it roll on tiles than on the towel? **220 cm further.**. 240 minus 20 is 220. So it rolled 220 cm further on the tiles. On the bar chart, the tiles bar is 12 times as tall as the towel bar, because 20 times 12 is 240. (queues `math.data.bar-charts.L3`)
-- The marble rolled 240 cm on tiles. A friend says, 'On ice, with even less friction, it might roll 10 times as far.' How far would that be, in metres? **2,400 cm, which is 24 metres.**. 240 times 10 is 2,400 cm. There are 100 cm in a metre, so 2,400 cm is 24 metres. That is longer than most flats! It shows why things slide so far on ice. (queues `math.length.standard-units-length.L3`)
+- In the walking drop, a girl's socks landed 30 cm, 40 cm and 35 cm past the plate when she walked slowly. Put the results in order. Which is the middle result? **30 cm, 35 cm, 40 cm. The middle result is 35 cm.**. In order from smallest to biggest: 30, 35, 40. The middle one is 35 cm. The middle result is a fair single number for the three tries, because it is not the biggest or the smallest. (queues `math.number-sense.comparing-ordering.L3`)
+- Walking slowly, the socks landed about 35 cm past the plate. Walking fast, about 70 cm past. How many times as far is that? What does the pattern tell you? **2 times as far. In this example, the faster walk sent the socks about twice as far.**. 70 divided by 35 is 2. Check: 35 + 35 = 70. The faster you move, the further the socks go while they fall. That fits the idea that they keep the speed you gave them. (queues `math.division.sharing-and-grouping.L3`)
+- From the same ramp, the marble rolled 20 cm on a towel, 60 cm on a doormat and 250 cm on tiles. Draw a bar chart. How much further did it roll on tiles than on the towel? **230 cm further.**. 250 minus 20 is 230. So it rolled 230 cm further on the tiles. On the bar chart, the tiles bar is more than 12 times as tall as the towel bar, because 20 times 12 is 240. (queues `math.data.bar-charts.L3`)
+- The marble rolled 250 cm on tiles. A friend says, 'On ice, with even less friction, it might roll 10 times as far.' How far would that be, in metres? **2,500 cm, which is 25 metres.**. 250 times 10 is 2,500 cm. There are 100 cm in a metre, so 2,500 cm is 25 metres. That is longer than most flats! It shows why things slide so far on ice. (queues `math.length.standard-units-length.L3`)
 - In the raw egg test, egg B started turning again 3 times out of 3, egg D 3 times out of 3, and eggs A and C 0 times out of 3. Make a tally chart. Which eggs were raw? **B and D were raw. A and C were boiled.**. A tally chart shows 3 marks for B, 3 for D, and none for A and C. A raw egg starts turning again because its runny inside keeps moving. So B and D were raw. Testing 3 times makes sure one lucky try did not fool us. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
-Keep On Going (sci.motion.L3): Topic-level song for Motion L3, still to write, with the founder's gravity song as the model.
+Keep On Going (sci.motion.L3): Topic-level song for Motion L3
 
 ## Links
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free simulation. Push a crate, switch friction off, and watch it keep sliding at the same speed.
@@ -812,7 +786,7 @@ Keep On Going (sci.motion.L3): Topic-level song for Motion L3, still to write, w
 - [Nehru Science Centre](https://nehrusciencecentre.gov.in/) · place · Mumbai: A large science centre with hands-on exhibits about forces and motion.
 
 ## Things to buy
-- [A small bag of glass marbles (goli)](https://www.amazon.in/s?k=glass+marbles+goli) (material): Marbles roll well and the same way every time, so the rolling test is fair. Sold cheaply in toy and stationery shops. A small hard rubber ball works too. Used in e3. Used again in the Swings and Pendulums and Physics of Sport units.
+- [A small bag of glass marbles (goli)](https://www.amazon.in/s?k=glass+marbles+goli) (material): Marbles roll well and the same way every time, so the rolling test is fair. Sold cheaply in toy and stationery shops. A small hard rubber ball works too. Used in e3. 
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): One balloon gives the air for the hover puck. Keep a spare, because they burst. Used in p1. 
 
 ## Warm-up

@@ -340,7 +340,7 @@
   "read_aloud": true,
   "note": "The story is made up. The soil facts in it are true: soil in an old pot gets packed hard and loses its humus, water runs off packed soil, and compost and dead leaves bring humus back.",
   "text": [
-   "Lakshmi lived on the third floor of a block of flats in Mysuru, with her little brother Arjun, their mother, and their grandmother, Ajji. On the balcony stood a row of pots. The biggest held a curry leaf plant that Ajji had planted when Lakshmi was a baby.",
+   "Lakshmi, a girl in Class 4, lived on the third floor of a block of flats in Mysuru, with her little brother Arjun, their mother, and their grandmother, Ajji. On the balcony stood a row of pots. The biggest held a curry leaf plant that Ajji had planted when Lakshmi was a baby.",
    "That summer, the curry leaf plant looked tired. Their leaves were small and pale. Some had turned yellow and dropped off. Every morning Arjun poured a mug of water into the pot, and every morning most of it ran over the top and down the side.",
    "\"The soil won't drink,\" said Arjun. He was six. He poked the soil with his finger. It was hard and grey, like a dry road.",
    "Ajji came out with her tea. She bent down and pressed the soil with her thumb. \"This soil is tired,\" she said. \"It has fed this plant for nine years, and nobody has fed the soil back.\"",
@@ -394,47 +394,124 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A path of 24 squares, from a mountain to a rice field",
+     "title": "A path of 25 squares, from a mountain (square 0) to a rice field (square 24)",
      "items": [
-      "Square 0: a rock on a mountain, the start",
-      "Squares 3 and 10: CRACK! Sun and rain crack your rock. Move on 2 squares.",
+      "Square 0, START: a rock on a mountain",
+      "Square 1: a rocky slope. Nothing happens here.",
+      "Square 2: a bare ledge. Nothing happens here.",
+      "Square 3: CRACK! Sun and rain crack your rock. Move on 2 squares.",
+      "Square 4: a dry stream bed. Nothing happens here.",
+      "Square 5: a steep gully. Nothing happens here.",
       "Square 6: ROOT IN THE CRACK. A root splits you off. Move on 1 square.",
-      "Squares 8 and 15: STILL POOL. You sink and wait. Miss a turn.",
+      "Square 7: a pile of loose stones. Nothing happens here.",
+      "Square 8: STILL POOL. You sink and wait. Miss a turn.",
+      "Square 9: a boulder field. Nothing happens here.",
+      "Square 10: CRACK! Sun and rain crack your rock. Move on 2 squares.",
+      "Square 11: a bend in the stream. Nothing happens here.",
       "Square 12: RIVER RAPIDS. You are knocked into sand. Move on 3 squares.",
+      "Square 13: a shallow stretch. Nothing happens here.",
+      "Square 14: a gravel bank. Nothing happens here.",
+      "Square 15: STILL POOL. You sink and wait. Miss a turn.",
+      "Square 16: a wide river. Nothing happens here.",
+      "Square 17: a sandy bend. Nothing happens here.",
       "Square 18: EARTHWORM. A worm swallows you and mixes you into the topsoil. Move on 2 squares.",
+      "Square 19: a muddy bank. Nothing happens here.",
+      "Square 20: a flat plain. Nothing happens here.",
       "Square 21: STORM ON BARE LAND. You are washed away. Go back 4 squares.",
-      "Square 24: a rice field in the Kaveri delta, the finish"
+      "Square 22: the edge of the field. Nothing happens here.",
+      "Square 23: a field channel. Nothing happens here.",
+      "Square 24, FINISH: a rice field in the Kaveri delta"
      ]
     },
     {
      "kind": "cards",
-     "title": "20 question cards to cut out",
+     "title": "20 question cards to cut out (question on the front, answer on the back)",
      "items": [
-      "Which grains in soil are the biggest? (Sand)",
-      "Which grains in soil are the smallest? (Clay)",
-      "What is humus made from? (Dead plants and animals that have decomposed)",
-      "In the soil jar, which layer settles first? (Sand)",
-      "Why does the jar water stay cloudy for a day? (Tiny clay grains sink very slowly)",
-      "What do the floating bits in the jar come from? (Dead plants)",
-      "Name one way rock is broken up. (Heat and cold, water freezing, roots, rivers knocking stones)",
-      "How does an earthworm breathe? (Through their damp skin)",
-      "Why does an earthworm make slime? (To keep their skin damp so they can breathe)",
-      "What helps an earthworm grip the tunnel walls? (Tiny bristles on their rings)",
-      "What are worm castings? (Soil that comes out of a worm after they eat. It is rich in nutrients.)",
-      "How do worm tunnels help rain? (Water runs down them into the soil)",
-      "Which crop gives black soil its other name? (Cotton)",
-      "Which soil covers much of Tamil Nadu and Karnataka? (Red soil)",
-      "Why is red soil red? (It holds iron, like rust)",
-      "Where does alluvial soil come from? (Rivers lay it down)",
-      "What is soil erosion? (Soil washed or blown away)",
-      "Why is lost soil a big problem? (New soil takes hundreds of years to form)",
-      "Which scientist studied the black earth of Russia? (Vasily Dokuchaev)",
-      "Name one thing farmers add to feed the soil. (Manure, compost or fertiliser)"
+      {
+       "f": "Which grains in soil are the biggest?",
+       "b": "Sand"
+      },
+      {
+       "f": "In the soil jar test, which layer settles first?",
+       "b": "Sand"
+      },
+      {
+       "f": "Why does the jar water stay cloudy for a day?",
+       "b": "Tiny clay grains sink very slowly."
+      },
+      {
+       "f": "What do the floating bits in the jar come from?",
+       "b": "Dead plants"
+      },
+      {
+       "f": "Name one way rock is broken up.",
+       "b": "Heat and cold, water freezing, roots, or rivers knocking stones together"
+      },
+      {
+       "f": "Why does an earthworm make slime?",
+       "b": "To keep their skin damp so they can breathe"
+      },
+      {
+       "f": "What helps an earthworm grip the tunnel walls?",
+       "b": "Tiny bristles on their rings"
+      },
+      {
+       "f": "How do worm tunnels help rain?",
+       "b": "Water runs down them into the soil."
+      },
+      {
+       "f": "Which soil covers much of Tamil Nadu and Karnataka?",
+       "b": "Red soil"
+      },
+      {
+       "f": "Where does alluvial soil come from?",
+       "b": "Rivers lay it down."
+      },
+      {
+       "f": "Why is lost soil a big problem?",
+       "b": "New soil takes hundreds of years to form."
+      },
+      {
+       "f": "Name one thing farmers add to feed the soil.",
+       "b": "Manure, compost or fertiliser"
+      },
+      {
+       "f": "What does a plant root do inside a crack in a rock?",
+       "b": "It widens the crack and pushes the rock apart."
+      },
+      {
+       "f": "Why are river pebbles smooth and round?",
+       "b": "Other stones knocked off their corners for a long time."
+      },
+      {
+       "f": "Name one living thing in soil besides worms.",
+       "b": "Ants, fungi or bacteria"
+      },
+      {
+       "f": "Why do roots often grow down along old worm tunnels?",
+       "b": "The soil there is loose and has air and water."
+      },
+      {
+       "f": "What does humus do for a plant?",
+       "b": "It holds water like a sponge and gives nutrients."
+      },
+      {
+       "f": "Which crop grows well in laterite soil?",
+       "b": "Cashew"
+      },
+      {
+       "f": "How do roots and plant cover protect a hill in a storm?",
+       "b": "Roots hold the soil, and plants slow the rain."
+      },
+      {
+       "f": "Name one thing that takes nutrients out of a field.",
+       "b": "The crops that are harvested from it"
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "One grain token for each player",
+     "title": "4 grain tokens, one for each player (cut out as many as you need)",
      "items": [
       "🪨",
       "🟤",
@@ -444,17 +521,18 @@
     }
    ],
    "rules": [
-    "Put every token on square 0, the mountain rock.",
-    "On your turn, another player reads you a question card. Playing alone? Read it yourself and check the answer in the brackets.",
+    "You need a dice. Put every token on square 0, the mountain rock.",
+    "On your turn, another player reads you a question card, front side only. Playing alone? Read the card yourself, then turn it over to check.",
     "Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.",
-    "Follow the instructions on special squares.",
-    "The first grain to reach the rice field wins. Then say the whole journey aloud, from rock to rice."
+    "Follow the instruction on the square where you land. If an instruction moves you onto another special square, do not follow that second instruction.",
+    "When the question cards run out, shuffle them and use them again.",
+    "The first grain to reach or pass square 24, the rice field, wins. Then say the whole journey aloud, from rock to rice. Playing alone? Count your turns and try to finish in fewer next time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Lay out the board, the cards and the tokens. Read the rules aloud.",
+     "do": "Lay out the board, the cards and the tokens, and find a dice. Read the rules aloud.",
      "say": "Each of us is a grain of rock high on a mountain. We race down to a rice field. Answer a question right to roll the dice.",
      "kid": "You are a grain of rock on a mountain. Race to the rice field!",
      "context": "This is the start of Rock to Rice, a board game about how a grain of rock becomes part of a field."
@@ -510,25 +588,61 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "12 things to drop in water",
+     "title": "12 things to drop in water (the thing on the front, the answer on the back)",
      "items": [
-      "A pebble (Sinks at once)",
-      "A pinch of sand (Sinks at once)",
-      "A pinch of atta (Settles slowly, and the water goes cloudy)",
-      "A dry leaf (Floats)",
-      "A pinch of clay from a potter (Settles very slowly)",
-      "A dry twig (Floats)",
-      "A steel spoon (Sinks at once)",
-      "A pinch of turmeric (Mostly settles slowly)",
-      "A bit of dried cocopeat from a nursery (Floats)",
-      "A pinch of chalk powder (Settles slowly)",
-      "A small dead root from a pot (Floats)",
-      "A grain of uncooked rice (Sinks at once)"
+      {
+       "f": "A pebble",
+       "b": "Sinks at once"
+      },
+      {
+       "f": "A pinch of sand",
+       "b": "Sinks at once"
+      },
+      {
+       "f": "A pinch of atta",
+       "b": "Settles slowly, and the water goes cloudy"
+      },
+      {
+       "f": "A dry leaf",
+       "b": "Floats"
+      },
+      {
+       "f": "A pinch of clay from a potter",
+       "b": "Settles very slowly"
+      },
+      {
+       "f": "A dry twig",
+       "b": "Floats"
+      },
+      {
+       "f": "A steel spoon",
+       "b": "Sinks at once"
+      },
+      {
+       "f": "A pinch of rice flour",
+       "b": "Settles slowly, and the water goes cloudy"
+      },
+      {
+       "f": "A bit of dried cocopeat from a nursery",
+       "b": "Floats"
+      },
+      {
+       "f": "A pinch of chalk powder",
+       "b": "Settles slowly"
+      },
+      {
+       "f": "A small dead root from a pot",
+       "b": "Floats"
+      },
+      {
+       "f": "A grain of uncooked rice",
+       "b": "Sinks at once"
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "Three answer cards for each player",
+     "title": "3 answer cards for each player (cut out a set for each player)",
      "items": [
       "SINKS AT ONCE",
       "SETTLES SLOWLY",
@@ -538,10 +652,10 @@
    ],
    "rules": [
     "Each player has three answer cards.",
-    "A grown-up reads one thing. Everyone shows a card at the same time.",
-    "A right answer scores 1 point. A good reason scores 1 more.",
+    "Take turns to be the reader. The reader reads the thing on the front of a card and keeps the answer on the back hidden. The other players show an answer card at the same time. With two players, the reader does not guess that round.",
+    "The reader turns the card over. A right answer scores 1 point. A good reason scores 1 more.",
     "If you have the thing at home, test it in a glass of water.",
-    "After 12 cards, the most points wins."
+    "After 12 cards, the most points wins. Playing alone? Guess for yourself, score yourself, and try to beat your score next time."
    ],
    "flow": [
     {
@@ -555,7 +669,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Read the cards one at a time. Test a few of the things in a glass of water.",
+     "do": "Take turns reading the cards one at a time. Test a few of the things in a glass of water.",
      "say": "Show your card. Why did you choose that? Let's test it.",
      "kid": "Show your card. Say why. Then test it.",
      "check": {
@@ -639,7 +753,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Look at the soil, guess, shake the jar, and watch the first layers settle. Mark them."
+     "what": "Look at the soil, guess, shake the jar, and watch the first layers settle. Mark them. Look again in the afternoon."
     },
     {
      "day": 2,
@@ -688,7 +802,7 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 6,
      "do": "1. Fill the jar one third with soil. 2. Add water until it is nearly full. 3. Add a few drops of dish-washing liquid. 4. Close the lid tightly. 5. Shake hard for two minutes.",
      "say": "Fill it one third with soil, then water nearly to the top. Close the lid tight. Now shake it hard for two whole minutes.",
      "kid": "Soil to one third. Water nearly to the top. Lid on tight. Shake for two minutes!",
@@ -697,7 +811,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 6,
      "do": "1. Put the jar down on a shelf where nobody will touch it. 2. Watch for one minute. 3. Mark the top of the bottom layer with a pen or tape.",
      "say": "Put it down gently and watch. What is happening at the bottom? What is happening at the top?",
      "kid": "Put the jar down. Watch for one minute. Mark the bottom layer.",
@@ -710,15 +824,16 @@
        ]
       }
      ],
-     "parent": "Within a minute, the biggest grains, the sand, form a layer at the bottom. Dark bits of plants float on top. The water stays brown and cloudy. If your soil is mostly coconut fibre, called cocopeat, a lot will float. That is still a result: it means the soil is mostly plant material."
+     "parent": "Within a minute, the biggest grains, the sand, form a layer at the bottom. Dark bits of plants float on top. The water stays brown and cloudy. If your soil is mostly coconut fibre, called cocopeat, a lot will float. That is still a result: it means the soil is mostly plant material. A little foam on top comes from the washing liquid, not from the soil.",
+     "wait": "Leave the jar still for 30 minutes."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. After 30 minutes, look again. 2. Mark the top of the new, smoother layer. 3. Draw the jar.",
+     "do": "1. After 30 minutes, look again. Look once more in the afternoon if you can. 2. Mark the top of the new, smoother layer. 3. Draw the jar.",
      "say": "Half an hour later, look again. Is there a new layer on top of the sand? Is the water still cloudy?",
      "kid": "Look again after 30 minutes. Is there a new layer? Mark it and draw the jar.",
-     "parent": "A finer layer of silt has settled on top of the sand. The water is still cloudy because the clay grains are so small they are still floating.",
+     "parent": "A finer layer of silt is settling on top of the sand. It can take a few hours to finish, so look again later in the day. The water is still cloudy because the clay grains are so small they are still floating.",
      "check": {
       "t": "mcq",
       "q": "The water in the jar is still cloudy after 30 minutes. Why?",
@@ -733,7 +848,7 @@
     },
     {
      "id": "s6",
-     "mins": 5,
+     "mins": 3,
      "do": "1. The next day, look at the jar without moving it. 2. Mark the clay layer. 3. Measure each layer with a ruler.",
      "say": "It's the next day. Is the water clearer? Can you see a thin layer on top of the silt? Let's measure each layer.",
      "kid": "Look at the jar today. Is the water clearer? Measure each layer.",
@@ -742,11 +857,11 @@
     },
     {
      "id": "s7",
-     "mins": 4,
+     "mins": 2,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Now tell me three things. What do you think soil is made of? What did you see that shows it? Why did the layers form in that order?",
      "kid": "Say three things. What is soil made of? What did you see? Why that order?",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soil is a mix of grains of different sizes and bits of dead plants. What I saw: sand sank in seconds, silt in half an hour, clay by the next day, and dark bits floated. Why: the biggest, heaviest grains sink fastest, and the lightest grains sink slowest. The grains are broken rock. The floating bits were once alive.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soil is a mix of grains of different sizes and bits of dead plants. What I saw: sand sank in seconds, silt in a few hours, clay by the next day, and dark bits floated. Why: the biggest, heaviest grains sink fastest, and the lightest grains sink slowest. The grains are broken rock. The floating bits were once alive.",
      "check": {
       "t": "mcq",
       "q": "What were the dark bits floating on top?",
@@ -780,7 +895,7 @@
      [
       "Silt",
       "smooth and fine",
-      "within 30 minutes",
+      "within a few hours",
       "2"
      ],
      [
@@ -815,7 +930,7 @@
   {
    "id": "e2",
    "title": "Worm Tunnels: do holes help rain soak into packed soil?",
-   "mins": 25,
+   "mins": 30,
    "days": 1,
    "question": "Earthworms make tunnels in soil. Does water soak into packed soil faster when it has tunnels?",
    "predict": "We will pack soil hard into two cups. One cup gets pencil tunnels, like worm tunnels. Then we pour the same water on both. Which cup will soak up the water faster? Why do you think so?",
@@ -833,7 +948,7 @@
      "qty": 2
     },
     {
-     "item": "dry soil from a pot, enough to fill both cups three quarters full",
+     "item": "dry soil from a pot, enough to fill both cups three quarters full, twice (the second try needs fresh dry soil)",
      "qty": 1
     },
     {
@@ -841,7 +956,7 @@
      "qty": 1
     },
     {
-     "item": "a small measuring cup or a steel tumbler, to pour the same amount of water",
+     "item": "a tablespoon, to pour the same amount of water each time",
      "qty": 1
     },
     {
@@ -853,11 +968,10 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after touching soil. Put the soil back in the pot when you finish.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 30,
      "what": "Pack two cups of soil. Make tunnels in one. Pour water on both and time how long it takes to soak in."
     }
    ],
@@ -890,23 +1004,23 @@
     },
     {
      "id": "s4",
-     "mins": 8,
-     "do": "1. Measure half a small tumbler of water. 2. Pour it gently onto the cup with no tunnels. Start the clock. 3. Stop when no water is left standing on top. 4. Do the same with the tunnel cup.",
+     "mins": 5,
+     "do": "1. Measure three tablespoons of water. 2. Pour it gently onto the cup with no tunnels. Start the clock. 3. Stop when no water is left standing on top. 4. Do the same with the tunnel cup.",
      "say": "Pour gently, all at once. Watch the top. Tell me when there is no water left on top.",
      "kid": "Pour the water. Start the clock. Stop when no water is on top.",
-     "parent": "On packed soil, a puddle sits on top for a long time, and some may overflow. With tunnels, the water drains down the holes in a few seconds, often with bubbles as air comes out. If the packed cup takes very long, stop at three minutes and write 'more than three minutes'."
+     "parent": "On packed soil, a puddle may sit on top for a long time. With tunnels, the water drains down the holes in a few seconds, often with bubbles as air comes out. If the packed cup takes very long, stop at three minutes and write 'more than three minutes'. Pot soil that is mostly cocopeat may soak water up quickly in both cups. If so, write that down: it is a result too."
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "1. Empty both cups onto newspaper, mix the soil, and let it dry a little, or use fresh dry soil. 2. Repeat the test once.",
+     "mins": 10,
+     "do": "Empty both cups and fill two with fresh dry soil. Pack them, make tunnels in one, then pour and time the water again.",
      "say": "One test can be a fluke. Let's do it again with fresh soil. Do we get the same result?",
      "kid": "Do it again. Is it the same?",
      "parent": "Wet soil soaks water differently from dry soil, so use fresh dry soil for the second try."
     },
     {
      "id": "s6",
-     "mins": 3,
+     "mins": 5,
      "do": "Ask for claim, evidence and reasoning.",
      "say": "What do you think now? What did you see? Why do you think tunnels make a difference?",
      "kid": "What did you find? What did you see? Why?",
@@ -938,7 +1052,7 @@
      },
      {
       "label": "Packed, with tunnels",
-      "value": 12,
+      "value": 15,
       "emoji": "🪱"
      }
     ]
@@ -1031,7 +1145,7 @@
      "do": "1. Pour the wet box through the strainer onto a dark plate. 2. Tip out the dry box beside it. 3. Count the pieces. Look at the corners and the powder.",
      "say": "Let's look. What happened to the sharp corners? Where did the missing bits go?",
      "kid": "Look at the pieces. What happened to the corners? Where is the powder?",
-     "parent": "The corners are rounded off in both boxes. There is fine white powder in both. In the wet box the water turns milky with powder, and the pieces often look smoother. The powder is like silt and clay, and the rounded pieces are like river pebbles."
+     "parent": "The corners are rounded off in both boxes, and there is fine white powder in both. In the wet box the water turns milky with powder. The two boxes may look alike, or one may have a little more powder. If you cannot see a difference, write that down: it is a result too. The powder is like silt and clay, and the rounded pieces are like river pebbles."
     },
     {
      "id": "s5",
@@ -1206,7 +1320,7 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Unwrap and look at the layers and tunnels. Spray a little water if the top is dry."
+     "what": "Unwrap and look at the layers and tunnels. Sprinkle a little water with your fingers if the top is dry."
     },
     {
      "day": 5,
@@ -1241,11 +1355,18 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 5,
+     "do": "On day 5, unwrap the bottle and look again. Are any leaves being pulled down? Wrap it up again.",
+     "say": "Look again. Is the soil mixing? Has a leaf been pulled down?",
+     "kid": "Look again. Have any leaves been pulled down?",
+     "wait": "Leave the bottle wrapped for two more days."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
      "do": "On day 7, draw the bottle, then release the worms into a pot or a compost bin.",
      "say": "What did the worms do to the stripes and to the leaves in one week? Imagine that in a whole field, for a hundred years.",
      "kid": "Draw the bottle. What did the worms change? Now let them go.",
-     "wait": "Check again on day 5 and day 7.",
      "check": {
       "t": "mcq",
       "q": "After a week, some leaves have been pulled down into the soil. Who did it?",
@@ -1278,7 +1399,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the printed soil map and crop cards from this unit, or a hand-drawn map of India",
+     "item": "a map of India: draw a simple outline by hand, or print any outline map",
      "qty": 1
     },
     {
@@ -1286,11 +1407,10 @@
      "qty": 1
     },
     {
-     "item": "a little ragi, rice, a groundnut and a cotton ball or cotton wick from home, if you have them",
+     "item": "ragi, rice, a groundnut, a cotton ball and a cashew nut from home, if you have them. If not, write each crop's name on a small paper square.",
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1306,12 +1426,13 @@
      "do": "1. Colour the south red for red soil. 2. Colour the Deccan black. 3. Colour the Ganga plains and the river deltas yellow for river soil. 4. Colour the west coast brown for laterite.",
      "say": "India has red soil, black soil, river soil and laterite. Let's colour where each is found. Which colour is under our home?",
      "kid": "Colour the four soils on the map. Which soil is near your home?",
-     "context": "This is a map activity. You colour the main soils of India and find out which crops grow in each one."
+     "context": "This is a map activity. You colour the main soils of India and find out which crops grow in each one.",
+     "parent": "Red soil also covers parts of Odisha, Jharkhand and the north-east hills, and black soil spreads into Gujarat and Madhya Pradesh. Colour the main areas only."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Show the ragi, rice, groundnut and cotton. 2. Place each crop on the soil where it grows well.",
+     "do": "1. Take the five crops: ragi, rice, groundnut, cotton and cashew. 2. Place each crop on the soil where it grows well.",
      "say": "Cotton loves black soil that holds water. Rice grows in the river deltas. Ragi and groundnut grow well in red soil. Cashew grows in laterite. Where does each one go?",
      "kid": "Put each crop on its soil. Cotton, rice, ragi, groundnut, cashew.",
      "check": {
@@ -1341,7 +1462,7 @@
   },
   {
    "id": "a4",
-   "title": "Rock Hunt at Home: where will this rock end up?",
+   "title": "Rock Hunt at Home: what is wearing away?",
    "mins": 10,
    "days": 1,
    "materials": [
@@ -1354,7 +1475,6 @@
      "qty": 1
     }
    ],
-   "safety": "Stay inside the flat or with a grown-up in the building.",
    "schedule": [
     {
      "day": 1,
@@ -1412,7 +1532,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1478,9 +1597,12 @@
     {
      "item": "a ruler and a notebook",
      "qty": 1
+    },
+    {
+     "item": "a sunny windowsill or balcony",
+     "qty": 1
     }
    ],
-   "safety": "Wash hands after touching soil and sand.",
    "schedule": [
     {
      "day": 1,
@@ -1508,24 +1630,34 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Fill one pot with washed sand and one with soil and compost. 2. Sow 15 methi seeds in each, just under the surface. 3. Water both with the same amount. 4. Keep both in the same sunny place.",
+     "do": "1. Fill one pot with washed sand and one with soil and compost. Use two pots of the same size. 2. Sow 15 methi seeds in each, just under the surface. 3. Water both with the same amount. 4. Keep both in the same sunny place.",
      "say": "Sand is rock grains with almost no humus. Pot soil with compost has plenty. Will the methi grow the same in both? Why do you think so?",
      "kid": "One pot of sand. One pot of soil. Sow 15 seeds in each. Which will grow better? Why?",
-     "context": "This is a three-week project. You grow methi in sand and in soil with compost, to see what humus does."
+     "context": "This is a three-week project. You grow methi in sand and in soil with compost, to see what humus does.",
+     "wait": "Water both pots the same amount every day or two. Look again on day 7."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Every week, count the seedlings, measure the tallest and look at the leaf colour.",
-     "say": "Let's count and measure. Are the leaves the same green in both pots?",
-     "kid": "Count the seedlings. Measure the tallest. Look at the leaf colour.",
-     "wait": "Water both pots the same every day or two, and check again next week.",
-     "parent": "In the first week, both pots may look much the same, because each seed carries a store of food. By the second and third week, the sand pot's plants are usually smaller and paler. Washed sand dries out fast and has few nutrients."
+     "do": "On day 7, count the seedlings in each pot and measure the tallest.",
+     "say": "Let's count and measure. How many seedlings are in each pot? Which is taller?",
+     "kid": "Count the seedlings. Measure the tallest.",
+     "wait": "Keep watering both the same. Look again on day 14.",
+     "parent": "In the first week, both pots may look much the same, because each seed carries a store of food."
     },
     {
      "id": "s3",
+     "mins": 10,
+     "do": "On day 14, count and measure again, and look at the leaf colour.",
+     "say": "Are the leaves the same green in both pots?",
+     "kid": "Count, measure, and look at the leaf colour.",
+     "wait": "Keep watering both the same. Look again on day 21.",
+     "parent": "By the second and third week, the sand pot's plants are usually smaller and paler, because washed sand dries out fast and has few nutrients. If both pots look alike, write that down: it is a result too."
+    },
+    {
+     "id": "s4",
      "mins": 20,
-     "do": "On day 21, compare the two pots and talk about why they differ.",
+     "do": "On day 21, measure again, compare the two pots and talk about why they differ.",
      "say": "What is different between the pots now? What does the soil have that the sand does not?",
      "kid": "What is different? What does soil have that sand does not?",
      "check": {
@@ -1538,7 +1670,8 @@
       ],
       "a": 0,
       "why": "Humus holds water like a sponge and gives plants nutrients. Washed sand has almost none, so the methi ran short once their seed food was used up."
-     }
+     },
+     "parent": "The soil pot differs from the sand pot in more than humus: it also holds more water and has more nutrients. So this shows that soil with compost grows methi better than plain sand, and humus is one likely reason."
     }
    ],
    "setup": [
@@ -1560,13 +1693,13 @@
    "mins": 30,
    "problem": "A storm on a bare hill slope washes the soil away. Design a way to keep the soil on a slope when it rains.",
    "constraints": [
-    "Use a tray of soil lifted at one end by two books.",
+    "Use a board or tray lifted at one end by two books, with the same slope each time.",
     "Use only things from home.",
     "Pour the same two tumblers of water from the same height each time."
    ],
    "materials": [
-    "a baking tray or a plastic tray with a rim",
-    "pot soil to fill it about 3 cm deep",
+    "a chopping board or a flat tray, with its low end hanging over a bowl so the water runs off",
+    "pot soil, pressed on in a damp layer about 2 cm deep, leaving the last 3 cm of the board bare",
     "two books",
     "a steel tumbler of water and a second tumbler, or a watering can",
     "a bucket or a bowl at the low end to catch the water",
@@ -1587,7 +1720,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Fill the tray with soil and lift one end on two books. 2. Pour two tumblers of water slowly at the top. 3. Look at the water in the bowl.",
+     "do": "1. Press damp soil onto the board and lift one end on two books, with the low end over the bowl. 2. Pour two tumblers of water slowly at the top. 3. Look at the water in the bowl.",
      "say": "Here is a bare hill. Let's make it rain. How muddy is the water that runs off?",
      "kid": "Make it rain on the bare slope. Look at the muddy water.",
      "context": "This is an engineering challenge. You find ways to stop rain washing soil off a slope."
@@ -1595,7 +1728,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Refill the tray with soil. 2. Add your protection. 3. Pour the same water. 4. Compare the water in the bowl.",
+     "do": "1. Press fresh soil onto the board in the same way, with the same slope. 2. Add your protection. 3. Pour the same water. 4. Compare the water in the bowl.",
      "say": "Now protect the soil. Use leaves, sticks, a cloth or plants. Pour the same water. Is the water in the bowl clearer?",
      "kid": "Protect the soil. Make it rain again. Is the water clearer?",
      "adult": false,
@@ -1628,7 +1761,7 @@
    "constraints": [
     "Use three cups with holes in the bottom, each over a tumbler to catch the water.",
     "Pour the same amount of water on each mix.",
-    "Use a total of six spoons of material in each cup."
+    "Use twelve spoons of material in each cup."
    ],
    "materials": [
     "three plastic cups with three holes poked in the bottom by a grown-up",
@@ -1649,7 +1782,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Make three mixes, six spoons each: all sand, all compost, and two spoons each of sand, soil and compost. 2. Put each in a cup over a tumbler.",
+     "do": "1. Make three mixes, twelve spoons each: all sand, all compost, and four spoons each of sand, soil and compost. 2. Put each in a cup over a tumbler.",
      "say": "Let's make three soils. All sand. All compost. And a mix of all three. Which one will drain best? Which will hold water best?",
      "kid": "Make three soils. Which drains best? Which holds water best?",
      "adult": true,
@@ -1661,7 +1794,7 @@
      "do": "1. Pour half a tumbler of water on each cup. 2. After five minutes, compare how much water dripped into each tumbler.",
      "say": "Pour the same water on each. Wait five minutes. Which tumbler caught the most water?",
      "kid": "Pour the water. Wait five minutes. Which tumbler has the most?",
-     "parent": "Sand lets most water drip through fast. Compost holds the most. The mix is in between, which most pot plants like."
+     "parent": "Sand lets most water drip through fast. Compost holds the most. The mix is in between, which most pot plants like. Dry compost can let water run through in channels at first, so the difference may be small. Write down what you see."
     },
     {
      "id": "s3",
@@ -1690,7 +1823,7 @@
    "youtube": "5b9o7yM7YGE",
    "mins": 4,
    "why": "A short video for children on how rock is broken down and mixed with dead plants to make soil.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it."
+   "check": "A parent should watch it first."
   },
   {
    "title": "Worms Are Wonderful | Amazing Animals | Backyard Science",
@@ -1698,7 +1831,7 @@
    "youtube": "l-zc_1vjLnI",
    "mins": 4,
    "why": "A children's video about earthworms: how they move, breathe through their skin, and help the soil.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it."
+   "check": "A parent should watch it first."
   },
   {
    "title": "The Jar Test - Decoding your Soil's Texture",
@@ -1706,7 +1839,7 @@
    "youtube": "PvN_oWoechg",
    "mins": 5,
    "why": "For the parent: gardeners doing the same soil jar test as experiment e1, and reading the sand, silt and clay layers.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it."
+   "check": "A parent should watch it first."
   }
  ],
  "quiz": [
@@ -1732,19 +1865,6 @@
    ],
    "a": 1,
    "why": "Sand grains are the biggest and heaviest, so they sink in seconds. Clay grains are so small they take a day or more. Humus bits often float.",
-   "outcome": 2,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "Kavya's soil jar is still cloudy the next morning. What is making it cloudy?",
-   "opts": [
-    "Clay grains, which are tiny and sink very slowly",
-    "Sand grains",
-    "Air bubbles"
-   ],
-   "a": 0,
-   "why": "Clay grains are the smallest grains in soil. Water can hold them up for a day or longer, which keeps the water cloudy.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1786,18 +1906,6 @@
   },
   {
    "t": "mcq",
-   "p": "How does an earthworm breathe?",
-   "opts": [
-    "Through a nose",
-    "Through lungs inside their body",
-    "Through their damp skin"
-   ],
-   "a": 2,
-   "why": "Earthworms have no lungs. Air passes in through their skin, but only when the skin is damp. Their slime keeps it damp.",
-   "outcome": 4
-  },
-  {
-   "t": "mcq",
    "p": "Farhan, a boy in Class 3, pours water on two cups of packed soil. One cup has pencil holes. What happens?",
    "opts": [
     "The cup with holes soaks up the water much faster",
@@ -1823,18 +1931,6 @@
   },
   {
    "t": "mcq",
-   "p": "Which crop grows well in the black soil of the Deccan?",
-   "opts": [
-    "Cotton",
-    "Tea",
-    "Apples"
-   ],
-   "a": 0,
-   "why": "Black soil holds water for a long time, which suits cotton. It is also called black cotton soil.",
-   "outcome": 5
-  },
-  {
-   "t": "mcq",
    "p": "Why is the red soil of Tamil Nadu and Karnataka red?",
    "opts": [
     "It has iron in it, the same way rust is red",
@@ -1843,6 +1939,18 @@
    ],
    "a": 0,
    "why": "Red soil holds iron. Iron that has joined with oxygen, like rust, is red.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which crop grows well in the black soil of the Deccan?",
+   "opts": [
+    "Cotton",
+    "Tea",
+    "Apples"
+   ],
+   "a": 0,
+   "why": "Black soil holds water for a long time, which suits cotton. It is also called black cotton soil.",
    "outcome": 5
   },
   {
@@ -2040,7 +2148,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, \"Rocks never change.\" Give one piece of evidence from your home or this unit that rocks do slowly change.",
+     "p": "Arjun, the six-year-old boy in the story The Tired Pot, says, \"Rocks never change.\" Give one piece of evidence from your home or this unit that rocks do slowly change.",
      "lines": 3,
      "a": "Old stone steps are worn smooth in the middle. Chalk pieces shaken in a box lost their corners and made powder. River pebbles are round.",
      "why": "A strong answer gives something the child can see, and says how it shows the rock is wearing away."
@@ -2472,7 +2580,7 @@
    "art": "A road through farmland with bright red soil on both sides and palm trees."
   },
   {
-   "text": "Deep cracks in black soil fields in the Deccan in the dry months.",
+   "text": "Deep cracks in black soil fields in the Deccan and Gujarat in the dry months.",
    "art": "A dry field of black soil split by wide, deep cracks."
   },
   {
@@ -2494,6 +2602,10 @@
   {
    "text": "Brown river water after the monsoon, full of silt and clay.",
    "art": "A wide river running brown after heavy rain, under a cloudy sky."
+  },
+  {
+   "text": "Tea gardens in Assam, growing on soil that the Brahmaputra laid down.",
+   "art": "Rows of tea bushes in an Assam tea garden with a wide river in the distance."
   }
  ],
  "open_questions": [
@@ -2521,7 +2633,7 @@
   "What will happen to these fallen leaves if we leave them?",
   "Why do you think worms come out after rain?",
   "Which soil do you think is under our city?",
-  "What crop grows near Ajji's or Paati's village? What soil is there?",
+  "What crop grows near a grandparent's or an older relative's village, if you have one? What soil is there?",
   "Why are the stone steps smoother in the middle?",
   "Where was the rice on your plate before it was rice?"
  ],
@@ -2529,10 +2641,6 @@
   {
    "j": "Why did the earthworm get top marks?",
    "a": "They really dug into their studies."
-  },
-  {
-   "j": "What did the sand say to the clay?",
-   "a": "You're so small, I hardly saw you settle."
   },
   {
    "j": "Why was the soil jar so calm?",
@@ -2555,20 +2663,8 @@
    "a": "They love a damp day."
   },
   {
-   "j": "What do you call a very old pebble?",
-   "a": "A rock that has been through a lot."
-  },
-  {
    "j": "Why did the clay take so long to sink?",
    "a": "It was too light-hearted."
-  },
-  {
-   "j": "What did the leaf say as it fell?",
-   "a": "See you in the soil."
-  },
-  {
-   "j": "Why did the worm cross the wet path?",
-   "a": "To get to the other side of the garden while it was easy."
   },
   {
    "j": "What kind of music do rocks like?",
@@ -2577,19 +2673,11 @@
   {
    "j": "Why was the black soil so clever?",
    "a": "It always cracked the problem in summer."
-  },
-  {
-   "j": "What did one worm casting say to the other?",
-   "a": "We're the richest heap on the lawn."
-  },
-  {
-   "j": "Why did the cotton plant move to the Deccan?",
-   "a": "The soil there really holds on to you."
   }
  ],
  "maths": [
   {
-   "problem": "In the soil jar, Kavya measured 4 cm of sand, 2 cm of silt and 1 cm of clay. How tall were the settled layers in all? Which layer was the biggest?",
+   "problem": "In the soil jar, Kavya, a girl in Class 3, measured 4 cm of sand, 2 cm of silt and 1 cm of clay. How tall were the settled layers in all? Which layer was the biggest?",
    "answer": "7 cm in all. Sand was the biggest layer.",
    "explain": "4 + 2 + 1 = 7. So the layers were 7 cm tall. The sand layer, 4 cm, was more than the silt and clay together, which were 3 cm.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2598,7 +2686,7 @@
    "context": "This is about the soil jar, where soil settled into layers of sand, silt and clay."
   },
   {
-   "problem": "Draw a bar chart of Kavya's jar: sand 4 cm, silt 2 cm, clay 1 cm. Then Meena's jar from a different pot: sand 2 cm, silt 2 cm, clay 3 cm. Whose soil would hold more water?",
+   "problem": "Draw a bar chart of Kavya's jar: sand 4 cm, silt 2 cm, clay 1 cm. Then Meena's jar, from a different pot (Meena is also in Class 3): sand 2 cm, silt 2 cm, clay 3 cm. Whose soil would hold more water?",
    "answer": "Meena's soil, because it has more clay.",
    "explain": "The bars show Kavya's soil is mostly sand and Meena's is mostly clay. Clay has tiny gaps that hold water, so Meena's soil holds more.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2707,19 +2795,17 @@
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a1"
-   ],
-   "plan": "Used again in units on insects, plants and crystals."
+   ]
   },
   {
    "id": "b-worms",
    "item": "A small pack of composting earthworms, from a nursery or a vermicompost seller",
    "kind": "material",
-   "why": "Only for the Worm Window activity, if no earthworms can be found after rain. Many city nurseries sell them with vermicompost. Afterwards they can live in a compost bin.",
+   "why": "Only for the Worm Window activity. Many city nurseries sell them with vermicompost. Afterwards they can live in a compost bin.",
    "url": "https://www.amazon.in/s?k=earthworms+for+vermicompost",
    "used_in": [
     "a2"
-   ],
-   "plan": "Can start a family compost bin, which the Compost unit uses."
+   ]
   }
  ],
  "warmup": [
@@ -2838,7 +2924,7 @@
   "deep_truth": {
    "truth": "In your jar, the soil split into layers. Sand sank first, fine clay stayed cloudy for a day, and dead plant bits floated. The grains are rock broken very small, and the floating bits were once alive. So the ground under every crop is old rock and old life mixed together.",
    "habit": "We call soil dirt, as if it were one plain, worthless material. The jar shows it is two very old things mixed: mountains broken down over centuries, and plants and animals who lived and died there.",
-   "evidence": "In the Soil Jar, sand settled within a minute, silt within half an hour and clay by the next day, while dark bits of dead roots and leaves floated on top. In Rock to Grains, knocking chalk made rounded pieces and powder like silt."
+   "evidence": "In the Soil Jar, sand settled within a minute, silt within a few hours and clay by the next day, while dark bits of dead roots and leaves floated on top. In Rock to Grains, knocking chalk made rounded pieces and powder like silt."
   },
   "three": {
    "who_am_i": "Your body is built from rice, dal and vegetables that grew in soil, so you are partly made of what the rocks and old leaves gave them.",
@@ -2884,13 +2970,13 @@
    "kid": "Hold some damp soil. Close your eyes. Feel the grains. They were once a mountain. Smell it. Breathe in slowly three times. Put it back."
   },
   "ask": [
-   "The sand in your jar was once a mountain. Is it still the mountain, or something new?",
-   "A leaf becomes soil, and soil becomes rice, and rice becomes you. Where does the leaf end and you begin?",
-   "Who does a field belong to: the farmer, the worms, the people who eat from it, or no one?"
+   "Dokuchaev found the same rock under very different soils. If the rock is the same, what else makes a soil?",
+   "Many soil scientists say only the living things in soil are alive. What do you think, and what would you check?",
+   "Which part of your jar is the oldest, and how could you tell?"
   ],
   "art": "A child on a balcony holding a handful of soil, and drawn faintly inside the soil a mountain, a fallen leaf and an earthworm, with a small rice plant growing beside the child."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat, with the materials listed. Choices made: the Soil Jar uses pot soil, which every family with one plant has. Pot soil from nurseries is often part cocopeat, which floats, so the step says that a thick floating layer is still a real result. Clay can take two or three days to settle, so the step says so. Dish-washing liquid is optional. The Worm Tunnels test stands pencil holes in for tunnels, so it needs no live worms, and it asks for dry soil because wet soil drains differently. Chalk stands in for rock in Rock to Grains, and the step says chalk is much softer than most rock. The Worm Window needs real earthworms, which may be hard to find in a city, so it is outside the spine and offers a nursery pack. The methi project warns that both pots look alike for the first week, because seeds carry their own food.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat, with the materials listed. Choices made: the Soil Jar uses pot soil, which every family with one plant has. Pot soil from nurseries is often part cocopeat, which floats, so the step says that a thick floating layer is still a real result. Clay can take two or three days to settle, so the step says so. Dish-washing liquid is optional. The Worm Tunnels test stands pencil holes in for tunnels, so it needs no live worms, and it asks for dry soil because wet soil drains differently. Chalk stands in for rock in Rock to Grains, and the step says chalk is much softer than most rock. The Worm Window needs real earthworms, which may be hard to find in a city, so it is outside the spine and offers a nursery pack. The methi project warns that both pots look alike for the first week, because seeds carry their own food. The Worm Tunnels test uses fresh dry soil for the second try. The methi project says honestly that soil with compost differs from sand in more than humus.",
  "how_we_found_out": {
   "story": "In the 1800s, most scientists thought soil was simply the top layer of rock, crumbled into dust. Some thought the rich black soil of southern Russia, called chernozem, meaning black earth, had been left behind by an ancient sea or by swamps. In 1877 a young geologist, Vasily Dokuchaev, began a study of the black earth for the Free Economic Society in St Petersburg. For several summers he travelled across the black earth lands. He dug pits and studied the soil layer by layer, from the dark top down to the rock below. He found that similar rocks could lie under very different soils, and that the soils changed with the climate and the plants growing there. The black earth was darkest where grasses had grown, died and decomposed for thousands of years, adding humus to the top layers. In 1883 he wrote that a soil forms from its rock, its climate, its living things, the shape of the land and the time it has had. Rock alone could not explain a soil. His work began the science of soils.",
   "who": "Vasily Dokuchaev, a Russian geologist, working for the Free Economic Society in St Petersburg",

@@ -19,12 +19,12 @@
 - **Self-similar**: Looking like itself when you zoom in. A part of the shape is similar to the whole. *e.g.* A fern frond is self-similar: each leaflet looks like a tiny frond.
 - **Branch**: To split into two or more smaller parts. A branch is one of those parts. *e.g.* A tree trunk branches into big branches, and they branch into twigs.
 - **Frond**: The leaf of a fern. It is made of many small leaflets along a middle stem. *e.g.* The fronds of a fern in a pot on a balcony look like feathers.
-- **Floret**: One of the small parts that a cauliflower or broccoli head is made of. *e.g.* Amma breaks the cauliflower into florets to make gobi curry.
+- **Floret**: One of the small parts that a cauliflower or broccoli head is made of. *e.g.* A cook breaks the cauliflower into florets to make a curry.
 - **Coastline**: The line where the land meets the sea. *e.g.* The coastline of Tamil Nadu runs from Pulicat Lake in the north to Kanyakumari in the south.
 - **Spiral**: A curve that winds around a centre, getting further from the centre as it goes. *e.g.* A jalebi, a murukku and a snail shell are all spirals.
 - **Seed head**: The middle of a flower, where many seeds grow packed together. *e.g.* The big brown middle of a sunflower is a seed head, with hundreds of seeds in spiral rows.
 - **Golden angle**: A turn of about 137 and a half degrees, a bit more than a third of a full circle. Many plants turn by this much between one new seed or leaf and the next. *e.g.* On a clock face, the golden angle is a turn of about 23 minutes.
-- **Fibonacci numbers**: The list 1, 1, 2, 3, 5, 8, 13, 21, 34 and so on. Each number is the two before it added together. *e.g.* Most pineapples have 8 spirals going one way and 13 going the other. Both are Fibonacci numbers.
+- **Fibonacci numbers**: The list 1, 1, 2, 3, 5, 8, 13, 21, 34 and so on. Each number is the two before it added together. *e.g.* Many pineapples have 8 spirals going one way and 13 going the other. Both are Fibonacci numbers.
 - **Shell opening**: The open end of a snail's shell, where the snail's body comes out. The snail adds new shell here as they grow. *e.g.* A snail on a wet balcony wall pokes out of the shell opening to move.
 - **Crystal**: A solid whose tiny particles join in a pattern that repeats. A crystal grows by adding particles to its outside. *e.g.* A snowflake is a crystal of ice. Each one grows six arms.
 
@@ -35,7 +35,7 @@
 Break a floret off a cauliflower and it looks like a small cauliflower. Break that floret, and the piece looks like a smaller one. In a drawing made by a computer, a fractal can repeat forever. In nature it repeats only a few times, because at some size the pieces become too small to keep the shape. A cauliflower floret, a fern leaflet and a twig all stop at some size. The word fractal was made by the mathematician Benoit Mandelbrot in 1975. It comes from the Latin word fractus, which means broken.
 - e.g. A cauliflower: florets look like small cauliflowers.
 - e.g. A fern: each leaflet looks like a small frond, and on many ferns each leaflet has its own smaller leaflets.
-- e.g. A tree: one branch, with all the twigs on it, looks like a small tree.
+- e.g. A tree: one branch together with the twigs growing from that branch looks like a small tree.
 ### Why living things branch · *defined*
 **Definition:** Branching packs a very large surface into a small space. Each branch splits into smaller branches, so the ends reach almost every part of the space.
 
@@ -62,7 +62,7 @@ The spirals are real and well measured. How the plant makes them has more than o
 - e.g. In 2016, members of the public grew 657 sunflowers for a study. Of 768 spiral counts, 565 were Fibonacci numbers. Some heads had no neat spirals at all.
 - e.g. Some plants, such as tulsi and mint, grow their leaves in pairs opposite each other, turning a quarter circle at each pair, and show no Fibonacci spirals.
 - **The packing explanation:** Turning by the golden angle packs seeds best, with no big gaps. Plants that packed better made more seeds, so over many generations this pattern spread.
-- **The growing tip explanation:** At the growing tip, each new bud uses up a growth chemical called auxin from the space around it. The next bud can only start where most auxin is left, in the biggest gap. Doing this again and again gives the golden angle on its own. This was shown in experiments on plant tips in the early 2000s.
+- **The growing tip explanation:** At the growing tip, each new bud uses up a growth chemical called auxin from the space around it. The next bud can only start where the most auxin is left, in the biggest gap. Doing this again and again gives the golden angle on its own. This was shown in experiments on plant tips in the early 2000s.
 - **Many plant scientists today:** Both are true together. The growing tip chooses each gap by sensing where there is room and chemical. That choice is what makes the good packing.
 ### How a snail's shell becomes a spiral · *defined*
 **Definition:** A snail adds new shell only at the shell opening. Each new part is a little wider than the last, so the shell winds round and gets wider, and keeps the same shape as it grows.
@@ -130,7 +130,7 @@ We have learned that a cauliflower, a fern and a coast have patterns inside patt
 A whole fern grows from one step repeated: make a leaflet, and on that leaflet make smaller leaflets. A sunflower's spirals grow from one turn, repeated hundreds of times. A coast's bends come from waves and rivers wearing at it, again and again, at every size. So the great variety of shapes we see often comes from a few simple steps, each repeated many times.
 
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (Break a floret from a cauliflower, and you hold a whole small cauliflower, while the big one is still a cauliflower too. In a fractal, a part taken from the whole still has the shape of the whole.)
-- **Jain teaching of anekantavada, many-sidedness, told with the story of the blind men and the elephant (also in the Buddhist Udana 6.4):** Each blind man touches one part of the elephant and describes that part truly, but no one of them has the whole elephant. (The rope, the stick and the crab each measured the beach truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast.)
+- **Jain teaching of anekantavada, many-sidedness, told with the story of the blind men and the elephant (also in the Buddhist Udana 6.4):** Each blind man touches one part of the elephant and describes that part truly, but no one of them has the whole elephant. (The 4 cm strip, the 1 cm strip and the thread each measured the coast truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast.)
 - Science (settled): The measured length of a coast or border grows as the measuring step gets shorter. Richardson found it, and Mandelbrot explained it in 1967.
 - Science (settled): Many plants place each new seed or leaf about 137 and a half degrees round from the last, which packs them well and makes Fibonacci spirals.
 - Other view, Many mathematicians and map-makers: A coast does have a length for any one map scale, and that is all we need for maps and ships. Saying it has no single length is a puzzle about words, not a deep fact about the world. And a fern repeating its shape a few times is just how ferns grow. It is beautiful, but it carries no lesson about wholeness.
@@ -174,7 +174,7 @@ Just then a pale ghost crab ran past their feet. The crab ran right along the we
 
 "Is it?" asked Paati. "Let's find out. Tomorrow we will measure the beach the way the crab walks it."
 
-The next evening Paati gave each of them a stick. Each stick was exactly one metre long. Farhan checked it with his tape. "This time," she said, "you must follow the line of the wet sand. Lay the stick down, end to end, in every curve."
+The next evening Paati gave each of them a stick. Each stick was exactly one metre long. Farhan checked it with his tape. "This time," said Paati, "you must follow the line of the wet sand. Lay the stick down, end to end, in every curve."
 
 It was slow work. The wet line bent around puddles. It went into a little bay the size of a mat and came out again. It wriggled around the rocks near the lighthouse. Meenakshi laid the stick. Farhan made a mark at its end with his toe. Then she laid it again from the mark.
 
@@ -194,7 +194,7 @@ Paati thought about this for a while. "Every number is real," she said. "Each on
 
 Meenakshi picked up a small shell from the wet sand. It was curled like a jalebi. Farhan took it and turned it over. "Even this shell has curves inside curves," he said. "Look at the edge."
 
-"That shell is a snail's house," said Paati. "The snail made it bigger by adding a new edge at the opening, a little wider each time. So the shell curled round as the snail grew."
+"That shell is a snail's house," said Paati. "The snail made the shell bigger by adding a new edge at the opening, a little wider each time. So the shell curled round as the snail grew."
 
 That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 metres. Crab: we cannot measure." Then he drew the crab, running along the wet edge, going into every curve.
 
@@ -203,12 +203,11 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - Ask: Why did the stick give a longer length than the rope?
 - Ask: Farhan said the crab walked the same beach. Meenakshi said a different one. What do you think?
 - Ask: If they had measured with a matchstick, would the beach come out shorter or longer? Why?
-- Ask: How did the snail make their shell bigger without leaving it?
 
 ## Games
 ### g1 · Zoom Pairs: which part belongs to which whole? (15 min)
-- **rules:** Lay all 16 cards face down in rows.; On your turn, turn over two cards.; If they are a whole and its part, say how they look alike, and keep them.; If not, turn them back.; Playing alone? Count how many turns you take, and try to beat it next time.; When all pairs are found, the player with the most pairs wins.
-- **Printable cards: 16 picture cards to cut out: 8 wholes and 8 parts:** Whole cauliflower / one floret; Fern frond / one leaflet; Tree / one branch with twigs; Map of the Ganga delta / one small part of it; Lungs / one branch of airways; Snowflake / one arm with side branches; Bendy coast of Gujarat / one small bay of it; Khajuraho temple tower / one small tower on it
+- **rules:** Cut out the 16 cards and lay them face down in four rows of four.; On your turn, turn over two cards.; If one is a whole and the other is a part of that same whole, say how they look alike, and keep both cards.; If not, turn them back face down. Everyone tries to remember where they are.; Playing alone? Count how many turns you take, and try to beat it next time.; When all 8 pairs are found, the player with the most pairs wins. A tie is fine.
+- **Printable cards: 16 cards to cut out: 8 wholes and 8 parts. Write the words on each card, and draw a small sketch if you like.:** Whole: a cauliflower head; Part: one floret of a cauliflower; Whole: a fern frond; Part: one leaflet of a fern frond; Whole: a tree; Part: one branch of a tree plus the twigs growing from that branch; Whole: a map of the Ganga delta; Part: one small piece of the Ganga delta map; Whole: a pair of lungs; Part: one branch of the airways in the lungs; Whole: a snowflake; Part: one arm of a snowflake, with its side branches; Whole: the coast of Gujarat; Part: one small bay of the Gujarat coast; Whole: the tower of a Khajuraho temple; Part: one small tower on the Khajuraho tower
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Mix them. 3. Lay them face down in four rows of four.  
   *Parent says:* Each card has a partner. One shows a whole thing. The other shows a small part that looks like the whole.  
@@ -223,18 +222,18 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent says:* Which pair looked most alike? Which one was a surprise?  
   *Child mode:* Count your pairs. Which pair surprised you?
 ### g2 · Short Step, Long Coast: a measuring race (15 min)
-- **rules:** Each player picks a step card: 4 cm, 2 cm or 1 cm.; Starting at the flag, step your strip round the coast, making a dot at each step.; Count your steps, and multiply by your strip size.; Before you count, everyone guesses who will have walked the longest coast.; The player whose guess was right scores a point. Play again with different strips.
-- **Printable board: A printed island with a very bendy coast and a START flag:** An island about 15 cm across with many bays; Step cards: 4 cm, 2 cm and 1 cm strips
+- **rules:** Draw an island about 15 cm across with a very bendy coast: big bays, small bays and a point sticking out. Mark START on the coast. Trace the island once for each player.; Each player takes a different step strip: 4 cm, 3 cm, 2 cm or 1 cm.; Before you step, everyone guesses who will have the longest coast, and says why.; Starting at START, step your strip round your island: hold one end on the last dot, swing the other end to touch the coast, and make a dot there. Stop when you are back at START.; Count your steps and multiply by your strip size. Write it on the score sheet.; A player whose guess was right scores a point. Swap strips and play again, until everyone has used every strip. The player with the most points wins. A tie is fine.
+- **Printable cards: 4 step strips to cut out, each about half a centimetre wide:** Step strip, 4 cm long; Step strip, 3 cm long; Step strip, 2 cm long; Step strip, 1 cm long
 - **Printable score sheet: Steps and lengths for each player:** Player; Strip size; Steps; Length (cm)
 - **s1 (2 min)**  
-  *Parent does:* Give each player a step card.  
+  *Parent does:* Draw and trace the island, then give each player a step strip.  
   *Parent says:* Everyone walks round the same island. Who will walk the furthest? Guess before we start.  
-  *Child mode:* Pick a step card. Guess: who will walk the furthest round the island?
+  *Child mode:* Take a step strip. Guess: who will walk the furthest round the island?
 - **s2 (10 min)**  
   *Parent does:* Each player steps round the island and works out their length.  
   *Parent says:* Step carefully, end to end. Then multiply your steps by your strip size.  
   *Child mode:* Step round the island. Make dots. Count your steps. Times them by your strip size.
-  - Note: One child alone can do all three strips in turn.
+  - Note: One child alone can do all four strips in turn. When the last gap back to START is about half a step, count it as half a step. If it is less, leave it out.
 - **s3 (3 min)**  
   *Parent does:* Compare lengths on the score sheet.  
   *Parent says:* Who walked furthest? Why?  
@@ -246,15 +245,15 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **question:** Does a coast measure the same length if we use a long ruler or a short one?
 - **predict:** Guess first. We will measure the same coast with a 4 cm strip and then a 1 cm strip. Will the two lengths be the same, or will one be longer? Which one, and why do you think so?
 - **fair test:** Measure the same stretch of coast each time, from the same start to the same end. Only the strip length changes. Measure each strip twice, because one try can be a fluke. Then do the same for a smooth coast, to compare.
-- **safety:** A grown-up cuts the card strips, or helps with the scissors.
+- **safety:** A grown-up helps a younger child with the scissors.
 - **record:** Fill in the table for both coasts. Then write one sentence: what happened to the length when the strip got shorter?
 - **results table:** Coast | 4 cm strip: steps | 4 cm strip: length (cm) | 1 cm strip: steps | 1 cm strip: length (cm) | Thread: length (cm)
-- **s1 (3 min)**  
+- **s1 (2 min)**  
   *Parent does:* 1. Open the map. 2. Show your child the coast of Gujarat, from Daman up to the Rann of Kutch. 3. Show the Kerala coast too.  
   *Parent says:* This is the coast of Gujarat. This one is Kerala. Which one is bendier? We will measure both.  
   *Child mode:* Find Gujarat on the map. Now find Kerala. Which coast is bendier?
   - Ask: Which coast is bendier? (good: Gujarat. It has big bays and a bit that sticks out.; Kerala's coast is almost straight.)
-  - Note: Gujarat has the Gulf of Kutch, the Gulf of Khambhat and the round Kathiawar peninsula. Kerala's coast is fairly smooth. The bigger the map, the clearer the result. If you have no atlas, draw a very bendy coast and a gently curved coast on a sheet of paper, each about 15 cm long.
+  - Note: Gujarat has the Gulf of Kutch, the Gulf of Khambhat and the round Kathiawar peninsula. Kerala's coast is fairly smooth. The bigger the map, the clearer the result: on a small map the coast is only a few centimetres long and the difference between the strips is too small to see. In that case use two drawn coasts. If you have no atlas, draw a very bendy coast and a gently curved coast on a sheet of paper, each about 20 cm long.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask for a guess before any measuring. 2. Write the guess and the reason at the top of the page.  
   *Parent says:* We will measure Gujarat with a long 4 cm strip, then a short 1 cm strip. Will we get the same length? Why do you think so?  
@@ -267,7 +266,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Child mode:* Hold one end on the start. Swing the other end to touch the coast. Make a dot. Move on. Count your steps.
   - Note: Help hold the strip flat. The last bit will be less than a whole step. Count it as a half if it is about half. Multiply the steps by 4 to get the length in centimetres. Then do it again and check you get nearly the same.
 - **s4 (8 min)**  
-  *Parent does:* 1. Repeat the same stretch with the 1 cm strip. 2. Count the steps. 3. The number of steps is the length in centimetres.  
+  *Parent does:* 1. Repeat the same stretch with the 1 cm strip. 2. Count the steps. 3. The number of steps is the length in centimetres. 4. Do it a second time and check you get nearly the same.  
   *Parent says:* Now the short strip. Same start, same end. Watch where it goes that the long strip didn't.  
   *Child mode:* Now use the short strip. Start at the same place. Count your steps again.
   - Ask: Where did the short strip go that the long strip did not? (good: Into the little bays.; Around the corners of the gulfs.)
@@ -275,10 +274,10 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent does:* 1. Lay the thread along the coast, pressing it into every bend. 2. Pinch the thread at the end. 3. Pull it straight along the ruler and read the length.  
   *Parent says:* A thread can follow even the tiniest bends. Let's see how long the coast is now.  
   *Child mode:* Lay the thread into every bend. Pinch the end. Pull it straight on the ruler. How long?
-- **s6 (4 min)**  
-  *Parent does:* 1. Measure the Kerala coast quickly with the 4 cm strip and the thread. 2. Compare how much each coast grew.  
+- **s6 (5 min)**  
+  *Parent does:* 1. Measure the Kerala coast with the 4 cm strip, the 1 cm strip and the thread. 2. Compare how much each coast grew.  
   *Parent says:* Now the smooth coast. Did its length grow as much as Gujarat's?  
-  *Child mode:* Measure Kerala with the long strip and the thread. Did it grow as much?
+  *Child mode:* Measure Kerala with the long strip, the short strip and the thread. Did it grow as much?
   - Ask: Which coast grew more when you measured more closely? Why? (good: Gujarat, because it has more bends to go into.; Kerala is smooth, so there was not much to go into.)
   - Check: The 1 cm strip gave a longer coast than the 4 cm strip. Why? → **The 1 cm strip went into small bends that the 4 cm strip stepped across**
 ### e2 · Count the Pineapple Spirals (25 min)
@@ -301,7 +300,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent does:* 1. Mark one scale near the bottom with the sketch pen. 2. Count the rows going up to the right, one at a time. 3. Stop when you come back to the marked row. 4. Write the number. 5. Count again.  
   *Parent says:* Mark one row so you know where you started. Then count each row as you turn the pineapple.  
   *Child mode:* Mark one row. Count each row as you turn the pineapple. Stop when you reach the mark.
-  - Note: Mark the top of each row you count, or stick a little paper tab on it. Most pineapples have 8 rows one way and 13 the other. A big one may show 13 and 21. If your counts differ by one, count a third time.
+  - Note: Mark the top of each row you count, or stick a little paper tab on it. Many pineapples have 8 rows one way and 13 the other. A smaller or bigger one may show another pair of neighbours in the list, such as 5 and 8 or 13 and 21. If your counts differ by one, count a third time.
 - **s4 (6 min)**  
   *Parent does:* Count the rows going up to the left in the same way, twice.  
   *Parent says:* Now the other way. Are there more rows, or fewer?  
@@ -314,7 +313,6 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 
 ## Activities
 ### a1 · The Cauliflower Inside the Cauliflower (10 min)
-- **safety:** No knife is needed. Break the pieces with your fingers. Cook and eat them afterwards.
 - **record:** Lay the pieces in a row on the plate, biggest to smallest. Draw the row, and write how many times you could break it and still see a cauliflower.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the cauliflower on the plate. 2. Break off one floret. 3. Hold it next to the whole head.  
@@ -332,7 +330,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Child mode:* A shape made of smaller copies of itself is a fractal. Where else could one be?
   - Ask: Where else might a fractal be? (good: In a tree, because branches look like small trees.; In broccoli.; In a fern.)
 ### a2 · Veins Inside Veins: a leaf against the window (10 min)
-- **safety:** Pick only one leaf, and thank the plant. Don't pick leaves you don't know, as some have sap that stings.
+- **safety:** Pick only one leaf. Don't pick leaves you don't know, as some have stinging sap.
 - **record:** Draw the leaf's main vein, then the veins that branch off it, then the smaller ones off those.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold the leaf up against a bright window. 2. Trace the thick middle vein with a finger. 3. Find a smaller vein branching off it. 4. Find a smaller one again.  
@@ -349,7 +347,6 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent says:* Draw the big vein, the branches and the smaller branches.  
   *Child mode:* Draw the big vein. Then its branches. Then the smaller branches.
 ### a3 · Branches With No Plan: paint between two sheets (15 min)
-- **safety:** Paint can stain clothes. Wear an old shirt and cover the table.
 - **record:** Press a sheet of paper onto the pattern to keep a print, or draw it. Write: slow pull or fast pull.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cover the table. 2. Put a teaspoon of paint in the middle of one sheet. 3. Lay the other sheet on top. 4. Press down so the paint spreads into a circle.  
@@ -365,13 +362,12 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent does:* 1. Spread the paint again with the sheets pressed together. 2. This time, pull them apart fast. 3. Compare the two patterns.  
   *Parent says:* Now a fast pull. Will the branches be the same, thicker or thinner?  
   *Child mode:* Press them together again. Now pull fast. Are the branches different?
-  - Note: Usually a fast pull gives more, thinner branches, and a slow pull gives fewer, fatter ones. Thicker paint shows it best.
+  - Note: Often a fast pull gives more, thinner branches, and a slow pull gives fewer, fatter ones. Thicker paint shows it best.
 - **s4 (2 min)**  
   *Parent does:* Press paper onto the pattern to keep a print.  
   *Parent says:* Nobody drew these branches. So what made them?  
-  *Child mode:* Press paper on to keep a print. Nobody drew it. What made it?
+  *Child mode:* Press paper on to keep a print. Nobody drew the branches. What made them?
 ### a4 · Draw a Fractal Tree and a Triangle of Triangles (20 min)
-- **safety:** None.
 - **record:** Write how many branch tips your tree has at each level, and how many coloured triangles at each level.
 - **s1 (8 min)**  
   *Parent does:* 1. Draw a straight trunk. 2. At its top, draw two shorter branches in a V. 3. At the top of each branch, draw two shorter branches again. 4. Repeat four or five times.  
@@ -388,7 +384,6 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent says:* Real trees don't split exactly in two. How is your tree like a real one? How is it different?  
   *Child mode:* How is your tree like a real tree? How is it different?
 ### a5 · Grow a Shell Spiral on Squared Paper (20 min)
-- **safety:** None.
 - **record:** Write the side of each square next to it. Then write the next two squares you would draw.
 - **s1 (10 min)**  
   *Parent does:* 1. In the middle of the page, draw two 1-box squares side by side. 2. Above them, draw a 2-box square. 3. Next to those, a 3-box square. 4. Then a 5-box square below, and an 8-box square to the side.  
@@ -399,19 +394,20 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent does:* In each square, draw a quarter circle from one corner to the opposite corner, joining them into one curve.  
   *Parent says:* Now draw a curve through each square, corner to corner. Join them up.  
   *Child mode:* Draw a curve across each square, corner to corner. Join them into one curve.
+  - Note: Each curve is a quarter of a circle with its centre at the corner of the square that is nearest the middle of the drawing. The curve bulges away from the middle.
 - **s3 (4 min)**  
-  *Parent does:* Compare the spiral with a shell, a picture of one, or a jalebi.  
+  *Parent does:* Compare the spiral with a shell, a picture of one, or a murukku.  
   *Parent says:* A snail adds a wider piece to their shell each time. Your spiral adds a bigger square each time. How are they alike?  
   *Child mode:* Each square is bigger. Each new bit of shell is wider. How are they alike?
   - Note: This spiral is close to the curve of many shells, but real shells each widen at their own rate. They are not all this exact spiral.
 ### a6 · Spiral and Fractal Hunt at Home (15 min)
-- **safety:** Don't touch the gas stove or anything hot. Ask before opening cupboards.
+- **safety:** Don't touch a lit mosquito coil, a diya or the gas stove.
 - **record:** Make two lists: spirals and patterns inside patterns. Put a star next to the ones that grew by themselves.
 - **s1 (10 min)**  
   *Parent does:* Walk round the home together, looking for spirals and patterns inside patterns.  
   *Parent says:* Let's find five spirals and three patterns inside patterns. Try the kitchen, the puja shelf and your own fingertips.  
   *Child mode:* Find 5 spirals and 3 patterns inside patterns. Look in the kitchen. Look at your fingertips!
-  - Note: Spirals: a murukku or jalebi, a coiled rope, a mosquito coil, the swirl of hair on top of a head, a fingerprint whorl, a shankha. Patterns inside patterns: cauliflower, broccoli, a leaf's veins, a tree from the window, a kolam, a printed saree border.
+  - Note: Spirals: a murukku or jalebi, a coiled rope, a mosquito coil, the swirl of hair on top of a head, a fingerprint whorl, a shankha. Patterns inside patterns: cauliflower, broccoli, a leaf's veins, a tree from the window, a kolam, a saree border (Kanjivaram, Bandhani or Paithani).
 - **s2 (5 min)**  
   *Parent does:* Sort the finds into two groups: made by people, and grew by themselves.  
   *Parent says:* Which of these did people make? Which grew by themselves? Did anything grow with no plan at all?  
@@ -445,7 +441,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **your turn:** Draw your own longest coast. Measure it. Then challenge someone at home to beat it in the same square.
 - **constraints:** The whole island must fit inside the 10 cm square.; The coast must be one line that joins up, with no crossings.; Measure the coast with a thread laid into every bend.
 - **general:** Add big bays, then smaller bays inside the big ones.; Make long thin bays that go deep into the island.
-- **creative:** Use the same bay shape again and again, at smaller sizes, like a fractal.; Your lungs fit a surface close to the size of a badminton court inside your chest by branching. Some phone and radio aerials use fractal shapes for the same reason.
+- **creative:** Use the same bay shape again and again, at smaller sizes, like a fractal.; Your lungs do this too: branching packs a very large surface into a small space.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a 10 cm square. 2. Draw a round island inside it. 3. Measure its coast with a thread.  
   *Parent says:* A plain round island makes a short coast. How could you make the coast longer without making the island bigger?  
@@ -464,7 +460,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **your turn:** Try a turn of your own choice. Does it make spokes, or spirals? Draw what you get.
 - **constraints:** Use a clock face drawn on paper, with the 60 minute marks.; Each new bean goes a little further from the centre than the last.; Use the same turn for all 30 beans in one try.
 - **general:** A turn of 15 minutes is a quarter of a circle. The beans line up in 4 straight spokes.; A turn of 20 minutes is a third. The beans line up in 3 spokes with wide gaps.
-- **creative:** A turn of 23 minutes is very close to the golden angle. The beans spread out in spirals and fill the circle evenly.; Try 22 or 24 minutes too. Close to the golden angle, but not quite, the beans start to make spokes again.
+- **creative:** A turn of 23 minutes is very close to the golden angle. The beans spread out in curving spirals instead of spokes.; Try 22 or 24 minutes too. With only 30 beans the difference is small, but the pattern changes. Compare them.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a big circle with the 60 minute marks of a clock. 2. Mark the centre.  
   *Parent says:* A sunflower makes one seed at a time, at the centre. Each new one is turned round from the last. Let's try different turns.  
@@ -478,7 +474,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Parent does:* 1. Clear the beans. 2. Do it again, turning 23 minutes each time. Count round the minute marks carefully.  
   *Parent says:* Now turn 23 minutes each time. Compare it with the 15 minute try.  
   *Child mode:* Now turn 23 minutes each time. Does it fill the circle better?
-  - Note: 23 minutes is 138 degrees, very close to the golden angle of about 137 and a half degrees. The beans spread evenly and spirals start to appear.
+  - Note: 23 minutes is 138 degrees, very close to the golden angle of about 137 and a half degrees. Keep adding 23 and take away 60 when you pass 60: bean 1 at 0, then 23, 46, 9, 32, 55, 18. The beans spread out and spirals start to appear. Real sunflowers also place seeds so that the spacing stays even all the way out, so this paper version shows spirals but does not fill the circle perfectly.
 - **s4 (3 min)**  
   *Parent does:* Compare the two patterns.  
   *Parent says:* Which turn left fewer gaps? Which would fit more seeds?  
@@ -486,122 +482,116 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   - Check: Which turn packed the beans with the fewest big gaps? → **23 minutes**
 
 ## Worksheets
-### Patterns Inside Patterns (core) (core, 16 questions)
+### Patterns Inside Patterns (core) (core, 15 questions)
 1. (mcq) Kavya, a girl in Class 3 in Madurai, breaks a floret off a cauliflower. What does the floret look like?  
    Options: A small cauliflower / A carrot / A flat leaf / Nothing like the cauliflower  
    **Answer:** A small cauliflower. *Why:* A floret is a small copy of the whole cauliflower. A shape whose parts look like smaller copies of the whole is called a fractal.
 2. (fill) A shape whose parts look like smaller copies of the whole is called a ____.  
    **Answer:** ['fractal']. *Why:* Fractal is the word for patterns inside patterns. It was made by Benoit Mandelbrot in 1975, from a Latin word meaning broken.
-3. (truefalse) Arjun says, 'A coast measures the same length whatever ruler you use.' Is he right?  
-   **Answer:** False. *Why:* False. A shorter ruler goes into smaller bends, so a bendy coast measures longer. A strong answer mentions the coast test on the map.
-4. (match) Match each thing to the pattern it shows.  
+3. (match) Match each thing to the pattern it shows.  
    **Answer:** A fern frond → leaflets that look like small fronds; A snail shell → a spiral that gets wider as it winds; A pineapple → spiral rows of scales going both ways; A tree → branches that split into smaller branches. *Why:* Ferns and trees are fractals, built of smaller copies. Snail shells and pineapples show spirals.
-5. (write) In the coast test, the 1 cm strip gave a longer coast than the 4 cm strip. Explain why in your own words.  
+4. (write) In the coast test, the 1 cm strip gave a longer coast than the 4 cm strip. Explain why in your own words.  
    **Answer:** The 4 cm strip stepped straight across the small bays. The 1 cm strip went into them, so it followed more of the coast's bends.. *Why:* A strong answer says the coast did not change. Only the size of the step changed, and smaller steps follow more bends.
-6. (mcq) Lakshmi measures the Gujarat coast on a map with a 4 cm strip and gets 20 cm. Then she uses a 1 cm strip. What will she most likely get?  
-   Options: More than 20 cm / Exactly 20 cm / Less than 20 cm / Zero  
-   **Answer:** More than 20 cm. *Why:* The 1 cm strip goes into bends the 4 cm strip skipped, so the length comes out longer. Picking 'exactly 20 cm' means thinking a coast has one length whatever we measure with.
-7. (draw) Draw a tree where every branch splits into two shorter branches. Go at least four levels.  
+5. (draw) Draw a tree where every branch splits into two shorter branches. Go at least four levels.  
    **Answer:** A trunk splitting into 2, then 4, then 8, then 16 branch tips.. *Why:* A strong drawing follows the same rule at every level, so each part looks like a small copy of the whole tree.
-8. (sort) Sort these into two groups: things with a spiral, and things with branches inside branches.  
+6. (sort) Sort these into two groups: things with a spiral, and things with branches inside branches.  
    **Answer:** a snail shell → Spiral; a murukku → Spiral; a pineapple's scales → Spiral; your lungs' airways → Branches inside branches; a leaf's veins → Branches inside branches; a fern frond → Branches inside branches. *Why:* Shells, murukku and pineapple scales wind round a centre. Lungs, leaf veins and ferns split into smaller and smaller parts.
-9. (mcq) Why do your lungs have so many tiny branching airways?  
+7. (mcq) Why do your lungs have so many tiny branching airways?  
    Options: To make a huge surface for oxygen to pass into the blood / To make your chest look bigger / To keep food out / Because they are broken  
-   **Answer:** To make a huge surface for oxygen to pass into the blood. *Why:* Oxygen passes into the blood through a thin, wet surface. Branching packs a surface close to the size of a badminton court into your chest.
-10. (perspective) Two friends in Kochi measured a beach. Divya used a long rope and got 240 metres. Farah used a 1 metre stick along every curve and got 310 metres.  
-   **Answer:** A strong answer says both numbers are true for the tool used. The stick followed more curves, so it gave more. Divya is right that the beach did not change. Farah is right that her stick followed more of the edge.. *Why:* This tests the central idea: a bendy edge's length depends on the size of the step. Neither child made a mistake.
-11. (odd) Three of these are fractals. Which one is the odd one out?  
+   **Answer:** To make a huge surface for oxygen to pass into the blood. *Why:* Oxygen passes into the blood through a thin, wet surface. Branching packs a very large surface into your chest.
+8. (perspective) Two friends measured the same stretch of the Gujarat coast on a map. Divya, a girl in Class 4, used a 4 cm strip and got 20 cm. Farah, a girl in Class 3, used a 1 cm strip and got 31 cm.  
+   **Answer:** A strong answer says both numbers are true for the strip used. The short strip followed more bends, so it gave more. Divya is right that the coast did not change. Farah is right that her strip followed more of the coast.. *Why:* This tests the central idea: a bendy edge's length depends on the size of the step. Neither child made a mistake.
+9. (odd) Three of these are fractals. Which one is the odd one out?  
    Options: A smooth round ball / A cauliflower / A fern frond / A tree  
    **Answer:** 0. *Why:* Zoom in on a ball and you see a smooth curve, not small copies of the ball. Cauliflowers, ferns and trees are built of smaller copies of themselves.
-12. (label) Label the parts of the snail shell: the shell opening, the newest shell, the oldest shell at the centre.  
+10. (label) Label the parts of the snail shell: the shell opening, the newest shell, the oldest shell at the centre.  
    **Answer:** ['shell opening: the open end', 'newest shell: the wide part by the opening', 'oldest shell: the tiny curl at the centre']. *Why:* A snail adds new shell only at the opening. So the centre is the oldest part, made when the snail was a baby.
-13. (truefalse) Meena says, 'A snail moves into a bigger shell when they grow.' Is she right?  
-   **Answer:** False. *Why:* False. A snail never leaves their shell. They add new shell at the opening, a little wider each time. Hermit crabs move into empty shells, which may be where the idea comes from.
-14. (order) Put the steps of the coast test in order.  
+11. (order) Put the steps of the coast test in order.  
    **Answer:** ['Guess whether the two strips will give the same length', 'Step the 4 cm strip along the coast', 'Step the 1 cm strip along the same coast', 'Count the steps and work out the length']. *Why:* First guess, then measure with each strip from the same start to the same end, then work out the lengths and compare.
-15. (write) Name one fractal you can find in your home, and say what its smaller copies are.  
+12. (write) Name one fractal you can find in your home, and say what its smaller copies are.  
    **Answer:** For example, broccoli: each floret is a small broccoli. Or a leaf: each vein branches into smaller veins.. *Why:* A strong answer names both the whole and the part that looks like it.
-16. (count) A drawn tree splits every branch into two. After the trunk splits 3 times, how many branch tips are there?  
-   **Answer:** 8. *Why:* 1 trunk splits into 2, then 4, then 8. Each split doubles the number of tips.
-### Spirals, Shells and Coasts (stretch) (stretch, 16 questions)
-1. (mcq) Pooja measures the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?  
+13. (write) Hold a leaf up to a bright window. What do the veins do as they go outwards from the middle, and why does the leaf need them?  
+   **Answer:** The big middle vein splits into smaller veins, and those split again. They carry water to every part of the leaf.. *Why:* A strong answer says the veins branch into smaller veins, and gives the job: water must reach every part of the leaf.
+14. (truefalse) Rahim, a boy in Class 3, says, 'You can keep breaking a cauliflower floret, and every piece will look like a cauliflower, for ever.' Is he right?  
+   **Answer:** False. *Why:* False. After a few breaks the pieces are too small to keep the shape. A real cauliflower is a fractal only over a few sizes.
+15. (mcq) Why do you mark one scale before counting the spiral rows on a pineapple?  
+   Options: So you know when you are back at the start and do not count a row twice / So the pineapple ripens faster / So the scales stay clean / So you can eat that scale first  
+   **Answer:** So you know when you are back at the start and do not count a row twice. *Why:* The rows wind all the way round. Without a mark you cannot tell where you started, and you may count a row twice.
+### Spirals, Shells and Coasts (stretch) (stretch, 15 questions)
+1. (mcq) Pooja, a girl in Class 4, measures the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?  
    Options: Gujarat, because it has more bends / Kerala, because it is in the south / Both grow by exactly the same / Neither grows at all  
    **Answer:** Gujarat, because it has more bends. *Why:* Gujarat has big gulfs and bays for the short strip to go into. Kerala's coast is fairly smooth, so there is little extra to follow.
-2. (write) In 2024, India's coastline was counted again using more detailed maps. The length went from about 7,516 km to about 11,098 km. Did India gain new land? Explain.  
-   **Answer:** No. The coast stayed the same. The more detailed maps showed more of the small bends, so measuring them gave a longer length.. *Why:* This applies the coast test to a real event. A strong answer says the change came from measuring more closely, not from the coast changing.
-3. (perspective) A sunflower makes each new seed in the biggest gap left by the others. Three people explain how.  
+2. (perspective) A sunflower makes each new seed in the biggest gap left by the others. Three people explain how.  
    **Answer:** A strong answer picks one with a reason, and sees that they can fit together: the tip senses room and chemical, chooses the gap, and that choice packs seeds well.. *Why:* These are three real ways of explaining the same pattern. They answer different parts of the question.
-4. (mcq) Nila places beans on a paper clock, each one 15 minutes round from the last and a little further out. What will she see?  
+3. (mcq) Nila, a girl in Class 3, places beans on a paper clock, each one 15 minutes round from the last and a little further out. What will she see?  
    Options: Four straight spokes with gaps between / Even spirals that fill the circle / One straight line / A square  
    **Answer:** Four straight spokes with gaps between. *Why:* 15 minutes is a quarter circle, so every fourth bean lands on the same spoke. A turn of about 23 minutes, close to the golden angle, fills the circle instead.
-5. (fill) The Fibonacci numbers go 1, 1, 2, 3, 5, 8, 13, ____.  
-   **Answer:** ['21']. *Why:* Each number is the two before it added together. 8 + 13 = 21.
-6. (write) A snail's shell is small at the centre and wide at the opening. Explain how the snail made it that shape, starting with the snail's problem.  
+4. (write) A snail's shell is small at the centre and wide at the opening. Explain how the snail gave the shell that shape, starting with the snail's problem.  
    **Answer:** The snail keeps growing but cannot leave their shell. So they add new shell at the opening, a little wider each time. The tube winds round and gets wider, so it becomes a spiral.. *Why:* A strong answer starts with the snail's problem, then says how adding at the opening solves it and makes the spiral.
-7. (truefalse) Harini reads on a poster that every sunflower has Fibonacci spirals. Is the poster right?  
-   **Answer:** False. *Why:* False. Most counts are Fibonacci numbers, but in a 2016 study of 657 sunflowers, some heads had other numbers or no neat spirals. A strong answer says most, not all.
-8. (draw) Draw the pattern left by paint pulled apart between two sheets. Then draw an arrow to show where the air pushed in.  
+5. (truefalse) Harini, a girl in Class 5, reads on a poster that every sunflower has Fibonacci spirals. Is the poster right?  
+   **Answer:** False. *Why:* False. Many counts are Fibonacci numbers, but in a 2016 study of 657 sunflowers, some heads had other numbers or no neat spirals. A strong answer says many, not all.
+6. (draw) Draw the pattern left by paint pulled apart between two sheets. Then draw an arrow to show where the air pushed in.  
    **Answer:** A branching, tree-like pattern, with arrows pointing in from the edge along the fingers.. *Why:* Air pushes in from the edge. The fingers of air that get ahead grow fastest and split, leaving branches of paint.
-9. (mcq) Why does a snowflake grow six long arms?  
+7. (mcq) Why does a snowflake grow six long arms?  
    Options: Its six corners stick out into the moist air and grow fastest / Someone shapes it in the cloud / It is cut by the wind / It melts into arms  
    **Answer:** Its six corners stick out into the moist air and grow fastest. *Why:* Water vapour freezes onto the parts that stick out furthest. So the corners grow into arms, and bumps on the arms grow into side branches.
-10. (match) Match each living thing to the problem their shape helps with.  
+8. (match) Match each living thing to the problem their shape helps with.  
    **Answer:** Branching lungs → getting enough oxygen into the blood; A fern's leaflets on leaflets → catching light in a shady forest; Branching leaf veins → bringing water to every part of the leaf; A snail's widening shell → growing bigger without leaving home. *Why:* Each shape solves a real problem for the living being. Start with the problem, and the shape makes sense.
-11. (sort) Sort these patterns: did living things grow them, or did they grow in non-living things?  
+9. (sort) Sort these patterns: did living things grow them, or did they grow in non-living things?  
    **Answer:** a fern frond → Grown by a living being; a snowflake → Grown in non-living things; lightning → Grown in non-living things; a snail shell → Grown by a living being; a river delta → Grown in non-living things; a cauliflower → Grown by a living being. *Why:* Branching patterns grow both in living beings and in ice, electricity and water. In all of them, the tips that get ahead grow fastest.
-12. (order) Put these in order, from largest to smallest.  
+10. (order) Put these in order, from largest to smallest.  
    **Answer:** ['the whole cauliflower', 'one floret', 'a piece of the floret', 'a piece of a piece of floret']. *Why:* Each piece is a smaller copy broken from the one before. This is the cauliflower's fractal pattern, level by level.
-13. (write) Ishaan says, 'The thread gave the true length of the coast, so the strips were wrong.' Is he right? Explain.  
+11. (write) Ishaan, a boy in Class 4, says, 'The thread gave the true length of the coast, so the strips were wrong.' Is he right? Explain.  
    **Answer:** Not quite. The thread followed smaller bends than the strips, so it gave more. But an even thinner thread, or an ant, would follow smaller bends still. Each number is true for its tool.. *Why:* A strong answer sees that there is always a smaller bend, so no tool gives the one true length.
-14. (odd) Three of these are spirals made by living beings. Which is the odd one out?  
+12. (odd) Three of these spirals grew by themselves in living things. Which one was made by a person?  
    Options: A jalebi / A snail shell / A pineapple's rows of scales / A shankha  
-   **Answer:** 0. *Why:* A jalebi is a spiral made by a cook. The snail and the sea snail grew their shells, and the pineapple plant grew the fruit's scales in spirals.
-15. (label) On this drawing of lungs, label the windpipe, a large airway, and the tiny air sacs at the ends.  
+   **Answer:** 0. *Why:* A jalebi is made by a cook pouring batter into hot oil. The snail shell, the shankha and the pineapple's scales grew by themselves.
+13. (label) On this drawing of lungs, label the windpipe, a large airway, and the tiny air sacs at the ends.  
    **Answer:** ['windpipe: the single tube at the top', 'large airway: one of the first branches', 'air sacs: the tiny bunches at the very ends']. *Why:* Air flows from one windpipe into branches that split about 23 times, ending in millions of tiny air sacs.
-16. (count) A pineapple has 8 spiral rows going up to the right and 13 going up to the left. How many rows is that altogether?  
+14. (count) A pineapple has 8 spiral rows going up to the right and 13 going up to the left. How many rows is that altogether?  
    **Answer:** 21. *Why:* 8 + 13 = 21. That is also the next Fibonacci number, because each one is the two before it added.
-### The Pattern Thinker (challenge) (challenge, 16 questions)
-1. (write) Imagine measuring a beach with a stick the size of an ant's leg. Would the length be shorter or longer than with a 1 metre stick? Would it ever stop growing? Explain.  
-   **Answer:** Longer, because the tiny stick goes round every grain of sand. It would keep growing as the stick got smaller, until the stick reached the size of the grains, and then there are bends around even smaller bumps.. *Why:* A strong answer uses the idea of bends inside bends, and sees that the length keeps growing as the step shrinks.
-2. (perspective) Spain said its border with Portugal was 987 km. Portugal said 1,214 km.  
+15. (fill) The turn of about 137 and a half degrees that packs seeds best is called the ____ angle.  
+   **Answer:** ['golden']. *Why:* Many plants turn each new seed by the golden angle, which leaves no big gaps.
+### The Pattern Thinker (challenge) (challenge, 15 questions)
+1. (perspective) Spain said its border with Portugal was 987 km. Portugal said 1,214 km.  
    **Answer:** Richardson is right that a shorter step gives a longer border. To match, both countries should agree on the same step size or map scale and say it with the number.. *Why:* This is the real puzzle Richardson solved. A strong answer suggests agreeing on the measuring step.
-3. (mcq) Leela turns her beans by 22 minutes on the paper clock, instead of 23. What will she most likely see?  
+2. (mcq) Leela, a girl in Class 5, turns her beans by 22 minutes on the paper clock, instead of 23. What will she most likely see?  
    Options: The beans start to line up into spokes again / Exactly the same even spirals / All the beans in one place / A perfect square  
    **Answer:** The beans start to line up into spokes again. *Why:* The golden angle is about 23 minutes. Turns a little away from it slowly line the beans up into spokes, with gaps. This is why the exact angle matters to the plant.
-4. (write) Your lungs, a neem tree and the river Ganga's delta all branch. Choose two of them. For each, say what problem branching solves.  
+3. (write) Your lungs, a neem tree and the river Ganga's delta all branch. Choose two of them. For each, say what problem branching solves.  
    **Answer:** Lungs: branching makes a huge surface to take oxygen into the blood. Tree: branching holds leaves out in every direction to catch light. Delta: the river splits as it drops its mud, spreading water over a wide area.. *Why:* A strong answer gives each one's own problem, not just 'it is a fractal'.
-5. (draw) Draw an island inside a 6 cm square with the longest coast you can. Explain the trick you used.  
-   **Answer:** A bendy island with bays inside bays, and a sentence such as 'I added small bays inside big bays.'. *Why:* More bends at smaller sizes give a longer coast in the same space. This is the trick lungs and fractal aerials use.
-6. (mcq) Mandelbrot wrote that 'clouds are not spheres, mountains are not cones'. What did he mean?  
+4. (mcq) Mandelbrot wrote that 'clouds are not spheres, mountains are not cones'. What did he mean?  
    Options: Rough natural shapes are better described by fractals than by smooth shapes / Clouds and mountains are not real / Clouds are square / Mountains are getting smaller  
    **Answer:** Rough natural shapes are better described by fractals than by smooth shapes. *Why:* Spheres and cones are smooth. Clouds and mountains have bumps on bumps at many sizes, which fractals describe well.
-7. (truefalse) A real fern frond has leaflets on leaflets forever, at smaller and smaller sizes.  
+5. (truefalse) A real fern frond has leaflets on leaflets forever, at smaller and smaller sizes.  
    **Answer:** False. *Why:* False. A real fern stops after a few levels. Fractals in nature repeat only between a biggest and a smallest size. Only a mathematical fractal goes on forever.
-8. (write) Tulsi grows leaves in pairs, each pair turned a quarter circle from the last. A sunflower turns each seed by the golden angle. Why might a seed head need the golden angle more than a tulsi stem?  
+6. (write) Tulsi grows leaves in pairs, each pair turned a quarter circle from the last. A sunflower turns each seed by the golden angle. Why might a seed head need the golden angle more than a tulsi stem?  
    **Answer:** A sunflower must pack hundreds of seeds into one round head, so it needs a turn that leaves no gaps. Tulsi has only a few leaves spread along a tall stem, so a quarter turn already stops one pair shading the one below.. *Why:* A strong answer compares the two plants' problems. This is thinking with the idea, not remembering it.
-9. (fill) When measuring a coast, the shorter the step, the ____ the length.  
+7. (fill) When measuring a coast, the shorter the step, the ____ the length.  
    **Answer:** ['longer']. *Why:* A shorter step follows more of the small bends, so it adds up to a longer length.
-10. (match) Match each person to what they found.  
+8. (match) Match each person to what they found.  
    **Answer:** Lewis Fry Richardson → coasts and borders measure longer with shorter steps; Benoit Mandelbrot → gave the name fractal to shapes with patterns inside patterns; Ukichiro Nakaya → grew the first snow crystals in a laboratory; Gift Siromoney → studied kolam patterns with mathematics in Chennai. *Why:* Each found one piece of the story of patterns inside patterns.
-11. (sort) Sort these claims: true, or not true?  
-   **Answer:** Most pineapples have 8 and 13 spiral rows → True; Every plant follows the Fibonacci numbers → Not true; A snail adds new shell at the opening → True; The nautilus shell is a perfect golden spiral → Not true; A coast has one true length → Not true; A cauliflower floret looks like a small cauliflower → True. *Why:* Tulsi and mint have no Fibonacci spirals. Measured nautilus shells widen more slowly than a golden spiral. A coast's length depends on the step.
-12. (mcq) In the paint test, Aditi pulls the sheets apart very slowly once and very fast once. What is she testing?  
+9. (sort) Sort these claims: true, or not true?  
+   **Answer:** Many pineapples have 8 and 13 spiral rows → True; Every plant follows the Fibonacci numbers → Not true; A snail adds new shell at the opening → True; The nautilus shell is a perfect golden spiral → Not true; A coast has one true length → Not true; A cauliflower floret looks like a small cauliflower → True. *Why:* Tulsi and mint have no Fibonacci spirals. Measured nautilus shells widen more slowly than a golden spiral. A coast's length depends on the step.
+10. (mcq) In the paint test, Aditi, a girl in Class 3, pulls the sheets apart very slowly once and very fast once. What is she testing?  
    Options: Whether the speed of the pull changes the branches / Whether paint is wet / Whether the sheets are heavy / Whether paint smells  
    **Answer:** Whether the speed of the pull changes the branches. *Why:* Only the speed changes between the two tries. So any difference in the branches comes from the speed. Usually the fast pull makes more, thinner branches.
-13. (order) Put these in order of when they were made, from the oldest to the newest part of a snail's shell.  
-   **Answer:** ['the tiny curl at the centre', 'the middle turns', 'the wide edge at the opening']. *Why:* The shell grows only at the opening, so the centre was made first, when the snail was tiny, and the opening is the newest.
-14. (label) On this drawing of a sunflower head, label one spiral going clockwise, one going anticlockwise, and the centre where new seeds start.  
+11. (label) On this drawing of a sunflower head, label one spiral going clockwise, one going anticlockwise, and the centre where new seeds start.  
    **Answer:** ['clockwise spiral', 'anticlockwise spiral', 'centre: where new seeds form']. *Why:* New seeds form at the centre and are pushed outwards. The two sets of spirals appear because each seed is turned by the golden angle.
-15. (odd) Three of these grow by adding to their tips or edges. Which is the odd one out?  
+12. (odd) Three of these grow by adding to their tips or edges. Which is the odd one out?  
    Options: A drawn picture of a fern / A snail shell / A snowflake / A tree branch  
    **Answer:** 0. *Why:* A snail adds to the shell opening, a snowflake adds ice to its tips, and a branch grows at its tip. A drawing is made all at once by the person drawing it.
-16. (count) A Sierpinski triangle has 1 coloured triangle, then 3, then 9. How many at the next level?  
-   **Answer:** 27. *Why:* Each coloured triangle becomes 3 smaller ones. 9 × 3 = 27.
+13. (write) A long straight road is measured with a 1 metre stick, and then with a 10 cm ruler. Gujarat's coast grew a lot when the strip got shorter. Will the road grow as much? Explain.  
+   **Answer:** No. A straight road has hardly any bends for the shorter ruler to go into, so both give nearly the same length.. *Why:* A strong answer links growth in length to the number of bends. Kerala's smoother coast grew less than Gujarat's for the same reason.
+14. (fill) In the bean test, a turn of about ____ minutes on the clock is close to the golden angle.  
+   **Answer:** ['23']. *Why:* 23 minutes is about 138 degrees, close to the golden angle of about 137 and a half degrees.
+15. (order) Put the steps of the bean test in order.  
+   **Answer:** ['Draw a clock face with 60 marks and mark the centre', 'Place beans 15 minutes round from each other and a little further out each time', 'Clear the beans and place them again, 23 minutes round each time', 'Compare the gaps in the two patterns']. *Why:* First draw the clock face, then place beans with the first turn, then change only the turn, then compare.
 
 ## Videos
-- **What Is The Coastline Paradox?** (Veritasium, 4 min) id `I_rw-AJqpCM`: For the parent and curious older children: why the measured length of a coast keeps growing as the ruler shrinks, the same idea as the map test. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'What Is The Coastline Paradox?', channel Veritasium). Not watched from start to end. A parent should preview it.
-- **The Fibonacci Sequence: Nature's Code** (SciShow, 4 min) id `wTlw7fNcO-0`: A short explanation of Fibonacci numbers in plants. Watch for whether it says every plant follows them: that is not true, as the unit explains. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The Fibonacci Sequence: Nature's Code', channel SciShow). Not watched from start to end. A parent should preview it.
-- **The fabulous Fibonacci flower formula** (Mathologer, 15 min) id `_GkxCIW46to`: For the parent: why turning by the golden angle packs seeds best, with animations of seeds placed by different turns, like the bean challenge. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The fabulous Fibonacci flower formula', channel Mathologer). Not watched from start to end. It is long and goes into more maths than the unit.
+- **What Is The Coastline Paradox?** (Veritasium, 4 min) id `I_rw-AJqpCM`: For the parent and curious older children: why the measured length of a coast keeps growing as the ruler shrinks, the same idea as the map test. *Check:* Watch it yourself before showing it to a child.
+- **The Fibonacci Sequence: Nature's Code** (SciShow, 4 min) id `wTlw7fNcO-0`: A short explanation of Fibonacci numbers in plants. Watch for whether it says every plant follows them: that is not true, as the unit explains. *Check:* Watch it yourself before showing it to a child.
+- **The fabulous Fibonacci flower formula** (Mathologer, 15 min) id `_GkxCIW46to`: For the parent: why turning by the golden angle packs seeds best, with animations of seeds placed by different turns, like the bean challenge. It is long and goes into more maths than the unit. *Check:* Watch it yourself before showing it to a child.
 
 ## Quiz
 1. (mcq) Which of these is a fractal?  
@@ -610,21 +600,21 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 2. (mcq) What does 'fractal' mean?  
    Options: A shape whose parts look like smaller copies of the whole / A shape with four equal sides / A shape that is perfectly round / A broken thing that cannot be used  
    **Answer:** A shape whose parts look like smaller copies of the whole. *Why:* A fractal has patterns inside patterns. The word comes from Latin for broken, because fractal shapes are rough and bendy, but it does not mean useless.
-3. (mcq) Anu steps a 2 cm strip along a bendy coast on a map. Then she uses a 1 cm strip. What happens to the length?  
+3. (mcq) Anu, a girl in Class 3, steps a 2 cm strip along a bendy coast on a map. Then she uses a 1 cm strip. What happens to the length?  
    Options: It gets longer / It stays the same / It gets shorter / It becomes zero  
    **Answer:** It gets longer. *Why:* The shorter strip goes into bends the longer one stepped across. Picking 'stays the same' means thinking a coast has one length whatever we use.
-4. (mcq) Gujarat's coastline was given as about 1,600 km for many years. A new count with more detailed maps gave about 2,340 km. Why?  
+4. (mcq) India's coastline was given as about 7,516 km for many years. A new count with more detailed maps gave about 11,098 km. Why?  
    Options: The detailed maps showed more small bends / The sea moved back / Gujarat grew bigger / The old map was upside down  
    **Answer:** The detailed maps showed more small bends. *Why:* The coast did not change. More detailed maps show smaller bends, and following them adds length.
 5. (mcq) Why does a tree have branches that split into smaller branches?  
    Options: To hold leaves out in every direction to catch sunlight / To look nice for people / Because the wind breaks them / To stop birds sitting on it  
    **Answer:** To hold leaves out in every direction to catch sunlight. *Why:* A tree needs sunlight on as many leaves as possible. Branching spreads leaves through the space around the tree.
-6. (mcq) A fern grows in a shady forest. How do their leaflets on leaflets help them?  
+6. (mcq) A fern grows in a shady forest. How do the leaflets on leaflets help the fern?  
    Options: They spread a lot of leaf to catch the little light there is / They keep the fern cool / They stop the fern growing / They hold water like a cup  
    **Answer:** They spread a lot of leaf to catch the little light there is. *Why:* In the shade, light is scarce. A frond of leaflets on leaflets spreads a large leaf area on a thin stem.
-7. (mcq) Rekha counts 8 spiral rows going one way on a pineapple. How many will she most likely count going the other way?  
+7. (mcq) Rekha, a girl in Class 4, counts 8 spiral rows going one way on a pineapple. How many will she most likely count going the other way?  
    Options: 13 / 8 / 4 / 100  
-   **Answer:** 13. *Why:* Most pineapples have 8 one way and 13 the other. Both are Fibonacci numbers next to each other.
+   **Answer:** 13. *Why:* Many pineapples have 8 one way and 13 the other. Both are Fibonacci numbers next to each other.
 8. (mcq) In a sunflower, where does each new seed grow?  
    Options: In the biggest gap left by the seeds before it / On top of the last seed / Always at the outside edge / Anywhere at random  
    **Answer:** In the biggest gap left by the seeds before it. *Why:* New seeds start at the centre, each in the biggest gap, about 137 and a half degrees round from the last. This packs them with no big gaps.
@@ -635,7 +625,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
    Options: The tiny curl at the centre / The wide edge at the opening / All parts are the same age / The bottom  
    **Answer:** The tiny curl at the centre. *Why:* The shell grows at the opening, so the curl at the centre was made first, when the snail was a baby.
 11. (mcq) Why do the six corners of a snowflake grow into long arms?  
-   Options: They stick out into the moist air, so water freezes on them fastest / The wind blows them into shape / They are heavier / The snowflake chooses six friends  
+   Options: They stick out into the moist air, so water freezes on them fastest / The wind blows them into shape / They are heavier / A cloud cuts it into shape  
    **Answer:** They stick out into the moist air, so water freezes on them fastest. *Why:* The parts that stick out furthest meet the most water vapour, so they grow fastest. Bumps on the arms grow into side branches the same way.
 12. (mcq) Paint pulled apart between two sheets leaves a pattern like a tree. Who drew the branches?  
    Options: Nobody: air pushed in and the fingers that got ahead grew fastest / The person pulling / The sheets / The paint was already in branches  
@@ -651,7 +641,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 
 ## Spotted around us
 - A cauliflower or broccoli in the vegetable market, made of florets that look like small copies of the head.
-- Pineapples on a fruit cart, with spiral rows of scales winding both ways.
+- Pineapples on a fruit cart, with spiral rows of scales winding both ways. Many Indian pineapples come from Assam, Tripura, West Bengal and Kerala.
 - A shankha, the conch shell blown at pujas and temple festivals, curling in a spiral.
 - The kolam on a doorstep in the morning, with loops repeating round a grid of dots.
 - A neem or rain tree seen from a balcony, with branches splitting into smaller branches.
@@ -676,18 +666,12 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - Where in your body do things branch?
 
 ## Jokes
-- Why did the cauliflower go to the mirror? *To meet all the little cauliflowers inside it.*
 - How long is the beach? *Tell me your ruler first.*
 - What did the snail say when asked if they were moving house? *No thanks, I'm just building an extension.*
-- Why was the fern always in good company? *Every leaflet was a little fern too.*
 - What is a pineapple's favourite staircase? *A spiral one.*
-- Why did the crab win the walking race? *They went round every grain of sand.*
-- What did the big tree say to the twig? *You look just like me when I was small.*
 - Why was the sunflower so good at parking? *They always found the biggest gap.*
-- What do you call a jalebi that knows maths? *A spiral thinker.*
-- Why did the snowflake have so many arms? *It kept reaching for more water.*
 - What did the map say to the ruler? *The closer you look, the longer I get.*
-- Why did the broccoli never get lost? *Every part of it looked like home.*
+- Why did the broccoli never get lost? *Every part of the broccoli looked like home.*
 - What did the lung say to the tree? *We should branch out together.*
 - Why did the beans line up in spokes? *They forgot to turn by 23 minutes.*
 - Why was the coast always late? *It kept taking the long way round.*
@@ -698,7 +682,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - A drawn tree splits every branch into two. Write the number of branch tips after 1, 2, 3, 4 and 5 splits. What is the rule? **2, 4, 8, 16, 32. Each number is double the one before.**. One trunk splits into 2. Each of those splits into 2, making 4. Then 8, 16 and 32. Each time, every tip becomes two. (queues `math.patterns.number-patterns.L3`)
 - The Fibonacci numbers go 1, 1, 2, 3, 5, 8, 13. A big sunflower can show 34 spirals one way and 55 the other. Write the numbers between 13 and 34, and check that 34 + 55 gives the next one. **21, then 34. 34 + 55 = 89, the next Fibonacci number.**. 8 + 13 = 21. 13 + 21 = 34. 21 + 34 = 55. 34 + 55 = 89. Each number is the two before it added together. (queues `math.patterns.number-patterns.L3`)
 - The Sierpinski triangle has 1 coloured triangle, then 3, then 9. Draw the next shape in your mind. How many coloured triangles are at level 4 and level 5? **27 and 81.**. Each coloured triangle turns into 3 smaller ones. 9 × 3 = 27. 27 × 3 = 81. (queues `math.patterns.shape-patterns.L3`)
-- Each time Pavithra halves her strip, the coast measures a bit longer. If the coast had bends at every size forever, would the length ever stop growing? **No. A coast with bends at every size would keep getting longer, without end.**. Each shorter strip finds more bends to go into, so it adds more length. If there were always smaller bends, there would always be more to add, so the length would never stop growing. Real coasts stop at the size of sand grains and smaller bits. (queues `math.number-sense.infinity.L3`)
+- Pavithra, a girl in Class 4, halves the length of her strip each time, and the coast measures a bit longer each time. If the coast had bends at every size forever, would the length ever stop growing? **No. A coast with bends at every size would keep getting longer, without end.**. Each shorter strip finds more bends to go into, so it adds more length. If there were always smaller bends, there would always be more to add, so the length would never stop growing. Real coasts stop at the size of sand grains and smaller bits. (queues `math.number-sense.infinity.L3`)
 
 ## Song
 Smaller and Smaller (sci.patterns-symmetry.L3): Topic-level song for Patterns and symmetry L3
@@ -711,7 +695,7 @@ Smaller and Smaller (sci.patterns-symmetry.L3): Topic-level song for Patterns an
 - [Lalbagh Botanical Garden](https://horticulture.karnataka.gov.in/) · place · Bengaluru: Old trees with huge branching crowns, flowers to count petals and seed heads, and a glass house.
 
 ## Things to buy
-- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps to see the smaller levels of a fractal, such as tiny florets and fine leaf veins. Not needed, but it makes the zooming clearer. Used in a2, p1. Used again in many science units, for leaves, insects and crystals.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps to see the smaller levels of a fractal, such as tiny florets and fine leaf veins. Not needed, but it makes the zooming clearer. Used in a2, p1. 
 
 ## Warm-up
 - What is a fractal? → A shape whose parts look like smaller copies of the whole.

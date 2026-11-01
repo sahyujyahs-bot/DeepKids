@@ -244,7 +244,7 @@
   {
    "claim": "If the universe is getting bigger, it must be growing into some empty space outside it.",
    "who": "Many people, when they first hear that the universe is expanding",
-   "for": "Everything we see growing, like a balloon or a rising idli, grows into the room around it.",
+   "for": "Everything we see growing, like a balloon or a rising dhokla, grows into the room around it.",
    "against": "The expanding universe means that the distances between galaxies grow. It does not need anything outside. On the balloon model, only the rubber skin stands for space, and the bindis can never leave it. Nobody has found any sign of an outside, and the main theory of gravity describes stretching without one.",
    "status": "rejected",
    "context": "This card is about a common picture of the expanding universe."
@@ -294,11 +294,6 @@
    "q": "If the universe began 13.8 billion years ago, did time begin then too?",
    "kind": "big",
    "hint": "Some scientists say yes and some say no. What would 'before time' mean?"
-  },
-  {
-   "q": "Somewhere in a far galaxy, someone may be looking at the Milky Way. What would they see of us?",
-   "kind": "big",
-   "hint": "Our light takes millions or billions of years to reach them. What was the Earth like that long ago?"
   },
   {
    "q": "We are made of atoms from the early universe and from old stars. Is the universe looking at itself through your eyes?",
@@ -358,7 +353,7 @@
    "id": "g1",
    "title": "Old Light: a galaxy card game",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is the Old Light card game. Each card is a real galaxy. The galaxy whose light set off longest ago wins the round.",
    "printables": [
     {
@@ -378,33 +373,22 @@
       "AUDFs01. Small and faint, seen by India's AstroSat. Its light set off about 9.3 billion years ago.",
       "JADES-GS-z14-0. A tiny young galaxy seen by the Webb telescope. Its light set off about 13.5 billion years ago."
      ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "A score sheet with a column for each player, and a row for each round",
-     "items": [
-      "Round",
-      "Player 1",
-      "Player 2",
-      "Player 3",
-      "Player 4"
-     ]
     }
    ],
    "rules": [
-    "Shuffle the 12 galaxy cards and deal them out equally, face down.",
-    "Each round, every player turns over their top card and reads it out.",
-    "The card whose light set off longest ago wins. That galaxy is the furthest away, so we are seeing the oldest picture.",
-    "The winner keeps all the cards from that round.",
-    "Bonus round: if two cards show the same shape, the first player to call out the shape wins both cards.",
-    "When all the cards are played, the player with the most cards wins."
+    "Shuffle the 12 galaxy cards and deal them out equally and face down. With 2 players each gets 6 cards, with 3 players 4 cards, with 4 players 3 cards.",
+    "Each round, every player turns over the top card of their own pile and reads out its name and when its light set off.",
+    "The card whose light set off longest ago wins the round. That galaxy is the furthest away, so we see the oldest view of it.",
+    "The winner takes all the cards of that round and puts them in a separate pile of won cards.",
+    "Shape race: if two or more cards in a round show the same shape (for example two spirals), nobody compares years. The first player to call out that shape wins the round.",
+    "When everyone's pile is used up, count your won cards. The most cards wins. If players have the same number, they share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Shuffle and deal the cards. 2. Explain how a round is won.",
-     "say": "Each card is a real galaxy. The one whose light set off longest ago wins, because its picture is the oldest.",
+     "do": "1. Shuffle and deal the cards. 2. Explain how a round is won, and the shape race.",
+     "say": "Each card is a real galaxy. The one whose light set off longest ago wins, because its light is the oldest.",
      "kid": "Each card is a real galaxy. The oldest light wins the round.",
      "context": "This is the first step of the Old Light game."
     },
@@ -423,13 +407,13 @@
        "They are the same"
       ],
       "a": 1,
-      "why": "21 million years is longer than 2.5 million years. The Pinwheel's light has travelled longer, so the Pinwheel is further away, and we see an older picture of it."
+      "why": "21 million years is longer than 2.5 million years. The Pinwheel's light has travelled longer, so the Pinwheel is further away, and we see it as it was longer ago."
      }
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Play the game until all the cards are used.",
+     "do": "Play until everyone's pile is used up, then count the won cards.",
      "say": "Your turn. Read your card out loud, then let's see whose light is oldest.",
      "kid": "Read your card out loud. Whose light is oldest?",
      "parent": "Help with the big numbers. A billion is a thousand million, so 9.3 billion years beats 500 million years."
@@ -437,9 +421,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Look at the winning card from the last round and talk about it.",
-     "say": "The JADES card's light set off 13.5 billion years ago. The universe is 13.8 billion years old. How young was the universe when that light set off?",
-     "kid": "How young was the universe when the JADES light set off?",
+     "do": "Find the JADES card and talk about it.",
+     "say": "The JADES card's light set off 13.5 billion years ago. The universe is 13.8 billion years old. How old was the universe when that light set off?",
+     "kid": "How old was the universe when the JADES light set off?",
      "ask": [
       {
        "q": "How old was the universe when that light set off?",
@@ -453,11 +437,11 @@
    ],
    "setup": [
     {
-     "art": "Twelve galaxy cards fanned out, each with a galaxy picture, a name, a shape and 'light set off' with a number.",
+     "art": "Twelve galaxy cards fanned out, each with a name, a shape and 'light set off' with a number.",
      "caption": "1. Deal the galaxy cards."
     },
     {
-     "art": "Two children each turning over a card, one Andromeda and one the Pinwheel, with the Pinwheel marked as the winner.",
+     "art": "Two children each turning over a card, one Andromeda and one the Pinwheel, with the Pinwheel's player taking both cards.",
      "caption": "2. The oldest light wins the round."
     }
    ]
@@ -535,7 +519,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Blow the balloon up to about the size of a big mango, around 12 cm across. 2. Twist the neck and clip it with the peg. 3. Your child sticks the home bindi in the middle of the fat part. 4. They stick three more in a rough line from it, about 3 cm, 6 cm and 9 cm away. 5. They stick the last two anywhere else.",
+     "do": "1. Blow the balloon up to about the size of a big mango, around 10 cm across. 2. Twist the neck and clip it with the peg. 3. Your child sticks the home bindi in the middle of the fat part. 4. They stick three more in a rough line from it, about 3 cm, 6 cm and 9 cm away. 5. They stick the last two anywhere else.",
      "say": "This first bindi is our home, the Milky Way. Now stick three in a line going away from it, a little further each time. Put the last two anywhere.",
      "kid": "Stick the home bindi in the middle. Stick three more in a line, each one further away. Put two more anywhere.",
      "adult": true,
@@ -545,7 +529,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Hold one end of the thread on the middle of H. 2. Lay the thread flat along the rubber to the middle of A. 3. Pinch the thread there, lift it off, and hold it against the ruler. 4. Write the gap in the table. 5. Do the same for H to B, H to C, C to A and C to B.",
+     "do": "1. Hold one end of the thread on the middle of H. 2. Lay the thread flat along the rubber to the middle of A. 3. Pinch the thread there, lift it off, and hold it against the ruler. 4. Write the gap in the table. 5. Do the same for H to B, H to C, C to A and C to B. 6. Measure how wide one bindi is across its middle, and write it down.",
      "say": "Hold the thread on the home bindi. Lay it along the rubber to the next one, and pinch it there. Now let's read it on the ruler.",
      "kid": "Hold the thread on H. Lay it to A. Pinch it. Read it on the ruler. Write it down.",
      "parent": "This needs two pairs of hands: one person holds the thread end on the bindi, the other lays it and pinches. Round each gap to the nearest half centimetre. The gaps from C let you look at the balloon from a second bindi later.",
@@ -554,7 +538,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Unclip the neck, holding it tight. 2. Blow the balloon bigger, to about twice as wide, around 24 cm across. 3. Clip it shut again.",
+     "do": "1. Unclip the neck, holding it tight. 2. Blow the balloon bigger, to about twice as wide, around 20 cm across. 3. Clip it shut again.",
      "say": "Watch the bindis while I blow. What do you see them doing?",
      "kid": "Watch the bindis while the balloon grows. What are they doing?",
      "adult": true,
@@ -567,7 +551,7 @@
        ]
       }
      ],
-     "parent": "Stop before the rubber feels tight. A balloon that is nearly full is more likely to burst."
+     "parent": "Stop before the rubber feels tight, because a nearly full balloon is more likely to burst. If it feels tight before it is twice as wide, stop there. Every gap will then grow by a little less than double, but the far bindis still move the most."
     },
     {
      "id": "s5",
@@ -585,13 +569,13 @@
        "They all moved the same"
       ],
       "a": 2,
-      "why": "C started furthest away, so there was the most rubber between H and C to stretch. If the balloon doubled in width, a 3 cm gap became about 6 cm, but a 9 cm gap became about 18 cm. If your numbers show something else, check that every bindi is on the fat middle of the balloon."
+      "why": "C started furthest away, so there was the most rubber between H and C to stretch. If the balloon doubled in width, a 3 cm gap became about 6 cm, but a 9 cm gap became about 18 cm. Balloon rubber does not stretch perfectly evenly, so your numbers will be close to this, not exact. If they show something else, check that every bindi is on the fat middle of the balloon."
      }
     },
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Look at the gaps measured from C. 2. Ask: did the other bindis move away from C as well? 3. Measure one bindi across its middle with the ruler, and compare it with how big it was before.",
+     "do": "1. Look at the gaps measured from C. 2. Ask: did the other bindis move away from C as well? 3. Measure one bindi across its middle with the ruler, and compare it with the width you wrote down before.",
      "say": "Now pretend C is home. Did the other bindis move away from C too? And did the bindis themselves get any bigger?",
      "kid": "Pretend C is home. Did the others move away from C too? Did the bindis get bigger?",
      "ask": [
@@ -681,7 +665,7 @@
      "qty": 1
     },
     {
-     "item": "a small ball of atta dough or clay, about the size of a grape",
+     "item": "a small ball of clay or dough, about the size of a grape",
      "qty": 1
     },
     {
@@ -698,7 +682,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Draw a spiral on a plate. Look at the plate and an orange from the top, at a slant and from the side. Draw each shape. Compare with real galaxy photos."
+     "what": "Guess. Draw a spiral on a plate. Look at the plate and an orange from the top, at a slant and from the side. Draw each shape. Compare with real galaxy photos from the ESA/Hubble website."
     }
    ],
    "record": "Draw the six shapes you saw in the results table. Then write which model changed shape and which did not.",
@@ -706,7 +690,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show your child the three spiral galaxy pictures in the app. 2. Ask the guess question below. 3. Wait for a guess and a reason.",
+     "do": "1. Ask the guess question below. 2. Wait for a guess and a reason.",
      "say": "A spiral galaxy is a flat spinning disc. What shape would it look like if we saw it from the side? Would a ball of stars change shape? Why do you think so?",
      "kid": "A spiral galaxy is a flat disc. What would it look like from the side? Guess. Say why.",
      "ask": [
@@ -725,7 +709,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child draws a spiral with two arms on the plate, starting from the middle. 2. They press the ball of dough onto the middle of the plate. 3. They draw the same spiral on the back.",
-     "say": "Draw two arms curling out from the middle. Then press the dough in the middle. That is the bulge, where old stars crowd together.",
+     "say": "Draw two arms curling out from the middle. Then press the dough or clay in the middle. That is the bulge, where old stars crowd together.",
      "kid": "Draw two curly arms from the middle. Press the dough in the middle. That is the bulge.",
      "parent": "Real spiral galaxies have a bulge on both sides of the disc. If the dough will not stay, use a bottle cap stuck on with tape."
     },
@@ -766,7 +750,7 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Show the three real galaxy photos in the app: the Pinwheel, Andromeda and the Sombrero. 2. Ask your child to match each to one of their plate drawings.",
+     "do": "1. Look up the Pinwheel (M101), Andromeda (M31) and the Sombrero (M104) on the ESA/Hubble website or in a book. 2. Your child matches each to a plate drawing.",
      "say": "These are three real spiral galaxies. Which of your drawings looks like each one?",
      "kid": "Look at three real spiral galaxies. Which drawing matches each one?",
      "parent": "The Pinwheel is seen from the top, Andromeda at a slant, and the Sombrero almost from the side. All three are spiral galaxies. They only look different because of the direction we see them from."
@@ -805,7 +789,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the Webb telescope's First Deep Field picture in the app, with a grid of 10 boxes drawn over it",
+     "item": "the Webb telescope's First Deep Field picture (find it on the Webb telescope website), printed on one page, or on a phone or computer screen with a sheet of butter paper laid over it",
      "qty": 1
     },
     {
@@ -815,14 +799,17 @@
     {
      "item": "paper and a pencil",
      "qty": 1
+    },
+    {
+     "item": "a pencil and a ruler, to draw a grid of 10 equal boxes (2 rows of 5) on the paper",
+     "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
      "mins": 12,
-     "what": "Look at a picture of a tiny patch of sky. Count the galaxies in one box, and work out about how many are in the whole picture."
+     "what": "Draw a grid on a picture of a tiny patch of sky. Count the galaxies in one box, and work out about how many are in the whole picture."
     }
    ],
    "record": "Your count for one box, your total for the picture, and one thing you wonder.",
@@ -830,7 +817,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show the deep field picture. Do not say what it is yet. 2. Ask what your child notices, and what they wonder.",
+     "do": "1. Draw 10 equal boxes over the picture, in 2 rows of 5. 2. Show it, and do not say what it is yet. 3. Ask what your child notices and wonders.",
      "say": "Look at this picture of the sky. What do you notice? What do you wonder?",
      "kid": "Look at this picture of the sky. What do you notice? What do you wonder?",
      "ask": [
@@ -883,7 +870,7 @@
    ],
    "setup": [
     {
-     "art": "A dark picture full of small galaxy smudges of many shapes and colours, with a few bright stars with spikes, and a grid of 10 boxes drawn over it.",
+     "art": "A dark picture full of small galaxy smudges of many shapes and colours, with a few bright stars with spikes, and a grid of 10 boxes (2 rows of 5) drawn over it.",
      "caption": "1. Look at the deep field picture."
     },
     {
@@ -912,7 +899,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -933,7 +919,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child writes each event on a slip and sticks it on its date. Read out the dates from the note.",
+     "do": "Your child writes each event on a slip and sticks it on its date. Read out the dates from the parent note below.",
      "say": "Before we stick each one, guess. When in the year do you think the Sun and the Earth were made?",
      "kid": "Guess when each thing happened. Then stick it on its date.",
      "ask": [
@@ -951,8 +937,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Look at the calendar together. Point at where all of human history fits.",
-     "say": "Look how empty most of the year is for us. All of human history fits into the last few minutes of 31 December. Your whole life is less than one fiftieth of a second.",
-     "kid": "All of human history is in the last minutes of the year. Your life is less than a blink.",
+     "say": "Look how empty most of the year is for us. All of human history fits into the last few minutes of 31 December. Your whole life is less than a tenth of a second.",
+     "kid": "All of human history is in the last minutes of the year. Your life is shorter than a blink.",
      "check": {
       "t": "mcq",
       "q": "On the one-year calendar, when did the light we see from Andromeda set off?",
@@ -1112,8 +1098,8 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Find the Great Square: four stars making a big box, high in the north-east. 2. From its left corner, follow a line of two bright stars. 3. At the second one, look a little upwards for a faint smudge. 4. Look slightly to one side of it.",
-     "say": "Find the big square of four stars. Go to the left corner, then two stars along. Now look up a little, slightly to one side.",
+     "do": "1. Find the Great Square: four stars making a big box, in the eastern sky. 2. From its corner where a line of stars leads away, follow two bright stars. 3. At the second one, look a little upwards for a faint smudge. 4. Look slightly to one side of it. 5. Draw it by red torchlight.",
+     "say": "Find the big square of four stars. Go to the corner where a line of stars leads away, then two stars along. Now look up a little, slightly to one side.",
      "kid": "Find the big square. Go to its corner. Two stars along, then look up a bit.",
      "adult": true,
      "parent": "The edge of your eye sees faint things better than the middle, which is why looking slightly to one side helps. With binoculars, the smudge is much easier. If you cannot see it, the sky is not dark enough. Use Stellarium Web to see where it should be.",
@@ -1171,7 +1157,7 @@
      "what": "Sort 20 real galaxy photos on the Galaxy Zoo website, and keep a tally of their shapes."
     }
    ],
-   "record": "A tally of the shapes you sorted, and a bar chart made from it.",
+   "record": "A tally of the shapes you sorted.",
    "flow": [
     {
      "id": "s1",
@@ -1364,7 +1350,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Your child shows the model to someone who has not done the unit, and asks what they see.",
-     "say": "Show it to Ammamma. Don't explain at first. Can she see all three things?",
+     "say": "Show it to someone who has not done the unit. Don't explain at first. Can they see all three things?",
      "kid": "Show it to someone. Can they see all three things?"
     }
    ],
@@ -1388,7 +1374,7 @@
    "youtube": "DtiRn0Ecpjc",
    "mins": 4,
    "why": "A children's introduction to the Milky Way and what a galaxy is.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length not confirmed. Not watched from here: a parent should preview it."
+   "check": "Watch it yourself first, then decide whether to show it."
   },
   {
    "title": "Hubble Legacy Field Zoom-Out",
@@ -1396,7 +1382,7 @@
    "youtube": "99uWHUQ-dC0",
    "mins": 2,
    "why": "Zooms out from one tiny patch of sky to show thousands of galaxies, of every shape, some very far away.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length not confirmed. Not watched from here: a parent should preview it."
+   "check": "Watch it yourself first, then decide whether to show it."
   },
   {
    "title": "Where Did the Big Bang Happen?",
@@ -1404,7 +1390,7 @@
    "youtube": "9hxOMw-7aTM",
    "mins": 5,
    "why": "Explains why the Big Bang had no centre, the same idea as the Bindi Balloon. It is made for older viewers, so pause and explain as you go.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Length not confirmed. Not watched from here: a parent should preview it."
+   "check": "Watch it yourself first, then decide whether to show it."
   }
  ],
  "quiz": [
@@ -1433,21 +1419,6 @@
    "a": 0,
    "why": "Elliptical galaxies are smooth ovals or balls of mostly old stars. Spirals and barred spirals have arms. Irregular galaxies have no clear shape.",
    "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "In the Bindi Balloon test, Revathi measured the gaps between her bindis before and after blowing the balloon bigger. What did she find?",
-   "opts": [
-    "The far bindis moved further away than the near ones",
-    "Only the near bindis moved",
-    "All the bindis moved the same amount",
-    "The bindis moved closer together"
-   ],
-   "a": 0,
-   "why": "There was more rubber between home and the far bindis, so more of it stretched. If you picked 'all the same amount', try measuring the gaps again.",
-   "outcome": 1,
-   "how": "e1",
-   "context": "In the Bindi Balloon experiment, you stick bindis on a small balloon, measure the gaps between them with a thread, blow the balloon bigger, and measure again."
   },
   {
    "t": "mcq",
@@ -1514,7 +1485,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya looks at a galaxy twice as far away as Andromeda. Compared with Andromeda's light, when did her galaxy's light set off?",
+   "p": "A girl looks at a galaxy twice as far away as Andromeda. Compared with Andromeda's light, when did her galaxy's light set off?",
    "opts": [
     "About twice as long ago",
     "At the same time",
@@ -1561,27 +1532,6 @@
    "a": 0,
    "why": "Scientists have ideas, but none has been tested. Some think time began with the Big Bang. Others think an earlier universe came first.",
    "outcome": 6
-  },
-  {
-   "t": "mcq",
-   "p": "On her balloon, Sara chose a different bindi to be home and looked at the gaps measured from it. What did she find?",
-   "opts": [
-    "The other bindis moved away from her new home bindi too",
-    "Only the first home bindi saw the others move away",
-    "The bindis all moved towards her new home bindi"
-   ],
-   "a": 0,
-   "why": "From every bindi, all the others moved away. That is why there is no centre.",
-   "outcome": 2,
-   "how": "e1",
-   "context": "In the Bindi Balloon experiment, you stick bindis on a small balloon, measure the gaps between them with a thread, blow the balloon bigger, and measure again."
-  },
-  {
-   "t": "truefalse",
-   "p": "As the universe stretches, the Earth and your body stretch too.",
-   "a": false,
-   "why": "False. The stretching shows only across the huge gaps between groups of galaxies. Close by, the forces holding things together are far stronger, just as the bindis stayed the same size.",
-   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1601,7 +1551,7 @@
       "Another name for the Solar System"
      ],
      "a": 0,
-     "why": "A galaxy holds billions of stars. Picking 'a cloud in the Earth's air' is what a galaxy looks like through a small telescope, which is why people once called them nebulae, the Latin word for clouds."
+     "why": "A galaxy holds billions of stars. Through a small telescope a galaxy looks like a faint cloud, which is why people once called galaxies nebulae, from the Latin word for clouds."
     },
     {
      "t": "truefalse",
@@ -1632,20 +1582,6 @@
      ],
      "a": "pairs as given",
      "why": "These are the four main shapes that Edwin Hubble sorted galaxies into in 1926. Our own Milky Way is a barred spiral."
-    },
-    {
-     "t": "mcq",
-     "p": "In the Bindi Balloon test, Divya, a girl in Class 3, stuck three bindis 3 cm, 6 cm and 9 cm from her home bindi. Then she blew the balloon bigger. Which bindi moved furthest from home?",
-     "opts": [
-      "The one that started 3 cm away",
-      "The one that started 6 cm away",
-      "The one that started 9 cm away",
-      "They all moved the same amount"
-     ],
-     "a": 2,
-     "why": "The bindi that started furthest away moved furthest, because there was the most rubber between it and home to stretch. Picking 'all the same' is the most common first guess, and the measuring shows why it is wrong.",
-     "how": "e1",
-     "context": "In the Bindi Balloon experiment, you stick bindis on a small balloon, measure the gaps between them with a thread, blow the balloon bigger, and measure again."
     },
     {
      "t": "fill",
@@ -1704,12 +1640,6 @@
      "why": "A galaxy is billions of stars together. The Sun, Sirius and the Pole Star are single stars inside our own galaxy, the Milky Way."
     },
     {
-     "t": "truefalse",
-     "p": "When you look at a far galaxy, you see it as it is right now.",
-     "a": false,
-     "why": "False. Its light took a long time to reach you, so you see the galaxy as it was when the light set off."
-    },
-    {
      "t": "mcq",
      "p": "Scientists say the universe was very hot and packed together at the start. About how long ago was that?",
      "opts": [
@@ -1727,14 +1657,6 @@
      "a": "The spiral has a bright middle and curling arms. The elliptical is a smooth oval with no arms. The irregular is a patchy cloud with no clear shape.",
      "why": "Drawing them side by side shows how each shape is different.",
      "art": "Three empty boxes labelled spiral, elliptical and irregular."
-    },
-    {
-     "t": "fill",
-     "p": "Galaxies far apart are moving away from each other because the ____ between them is stretching.",
-     "a": [
-      "space"
-     ],
-     "why": "The galaxies are not flying away from one spot. The space between them is growing, like the rubber between the bindis."
     },
     {
      "t": "odd",
@@ -1790,6 +1712,36 @@
      ],
      "a": 0,
      "why": "Light travels very fast, but space is so big that light from far galaxies takes millions or billions of years to arrive. Light does not slow down or get tired. Far galaxies are not older. We just see them at an earlier time."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the one with the fewest stars to the one with the most stars.",
+     "items": [
+      "The Earth",
+      "The Sun",
+      "The Milky Way",
+      "Thousands of galaxies in the Webb telescope's tiny patch of sky"
+     ],
+     "a": "order shown",
+     "why": "The Earth has no stars and the Sun is one star. The Milky Way has hundreds of billions of stars. A patch of sky holding thousands of galaxies has far more still."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Sun is one of the stars inside the Milky Way.",
+     "a": true,
+     "why": "True. The Sun is a single star in the Milky Way, which has between 100 and 400 billion stars."
+    },
+    {
+     "t": "mcq",
+     "p": "Our Milky Way has a straight bar of stars across its middle, and arms that start from the ends of the bar. Which shape is it?",
+     "opts": [
+      "Barred spiral",
+      "Elliptical",
+      "Irregular",
+      "Ordinary spiral with no bar"
+     ],
+     "a": 0,
+     "why": "A spiral with a bar across the middle is a barred spiral, and the Milky Way is one."
     }
    ]
   },
@@ -1956,18 +1908,6 @@
      "why": "A strong answer names both things at work: gravity close by, and stretching space far away."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is a clue that the universe was once very hot?",
-     "opts": [
-      "A faint glow of microwaves comes from every direction in the sky",
-      "The Sun is hot",
-      "Some stars are red",
-      "The Moon has craters"
-     ],
-     "a": 0,
-     "why": "The faint glow is light left over from when the whole universe was hot. It has been stretched by the expanding universe into microwaves. The Sun is hot for its own reason: it joins hydrogen into helium deep inside."
-    },
-    {
      "t": "perspective",
      "p": "In the 1950s, before the faint glow was found, astronomers argued about whether the universe had a beginning. Both sides knew that galaxies are moving apart.",
      "views": [
@@ -1991,6 +1931,18 @@
      "lines": 3,
      "a": "We see them as they were more than 13 billion years ago, when the universe was young. So they show us what galaxies were like near the beginning.",
      "why": "A strong answer says that far light is old light, so far galaxies are pictures of the past."
+    },
+    {
+     "t": "mcq",
+     "p": "In 1923, Edwin Hubble timed a Cepheid star in Andromeda. It blinked every 31 days but looked very faint. What did this show?",
+     "opts": [
+      "Andromeda is far outside the Milky Way",
+      "Andromeda is inside the Milky Way",
+      "The star was broken",
+      "Andromeda is very close to the Sun"
+     ],
+     "a": 0,
+     "why": "A Cepheid that blinks every 31 days is really very bright. It looked faint, so it had to be very far away. That put Andromeda outside our galaxy."
     }
    ]
   },
@@ -2011,7 +1963,7 @@
     },
     {
      "t": "mcq",
-     "p": "On a bigger balloon, Meenakshi's bindi D started 4 times as far from home as bindi A. When the balloon grew, A moved 2 cm further away. About how far did D move?",
+     "p": "On a bigger balloon, Gargi, a girl in Class 5, found that bindi D started 4 times as far from home as bindi A. When the balloon grew, A moved 2 cm further away. About how far did D move?",
      "opts": [
       "2 cm",
       "4 cm",
@@ -2051,23 +2003,6 @@
      "lines": 5,
      "a": "Any choice can be strong if it gives a reason. For example, Hawking's answer explains why we can't look further back. Penrose's answer can perhaps be tested by looking for patterns in the leftover glow. The hymn is honest that the question may have no answer we can reach.",
      "why": "This is a real open question. Scientists do not agree, and none of the ideas has been tested yet."
-    },
-    {
-     "t": "truefalse",
-     "p": "The Big Bang happened at one spot in space, and the galaxies flew out from that spot.",
-     "a": false,
-     "why": "False. The Big Bang happened everywhere at once. Every part of space, including the space where you are now, was part of the hot, packed early universe."
-    },
-    {
-     "t": "mcq",
-     "p": "Sushila looks at a galaxy so far away that its light set off 1 billion years ago. What does she see?",
-     "opts": [
-      "The galaxy as it is today",
-      "The galaxy as it was 1 billion years ago",
-      "Nothing, because the light is too old"
-     ],
-     "a": 1,
-     "why": "Old light still shows a clear picture. It is a picture of how the galaxy was when the light set off. The galaxy may have changed a lot since then."
     },
     {
      "t": "write",
@@ -2181,6 +2116,24 @@
      "lines": 4,
      "a": "They would see the Earth 2.5 million years ago. There would be no people like us, no cities and no lights. There were early relatives of humans in Africa, some making simple stone tools.",
      "why": "A strong answer uses the same idea both ways: light from us to them takes as long as light from them to us."
+    },
+    {
+     "t": "write",
+     "p": "Light from the furthest galaxies is stretched so much on its way that it reaches us as infrared light, which our eyes cannot see. Why was the Webb telescope built to see infrared light?",
+     "lines": 3,
+     "a": "The light of the earliest galaxies has been stretched into infrared. A telescope that sees infrared can catch this light and so see the early galaxies, which our eyes and ordinary cameras miss.",
+     "why": "A strong answer links the stretching of space, the stretching of light, and the need for an infrared telescope."
+    },
+    {
+     "t": "mcq",
+     "p": "Fred Hoyle made up the name 'Big Bang' on the radio in 1949. Did he believe the universe had a beginning?",
+     "opts": [
+      "No, he believed the universe had always been the same",
+      "Yes, he was the first to suggest it",
+      "Yes, he found the leftover glow"
+     ],
+     "a": 0,
+     "why": "Hoyle backed the steady state idea. The name stuck, even though he used it for the idea he did not believe."
     }
    ]
   }
@@ -2199,7 +2152,7 @@
    "art": "A faint milky band of light across a starry sky above dark hills."
   },
   {
-   "text": "The Andromeda galaxy, a faint grey smudge high in the north-east on November evenings, from a dark place only.",
+   "text": "The Andromeda galaxy, a faint grey smudge high up in the eastern sky on November evenings, from a dark place only.",
    "art": "A tiny oval smudge among stars, above the dark outline of a hill."
   },
   {
@@ -2239,11 +2192,8 @@
  ],
  "ask_kids": [
   "If you could see any galaxy as it is right now, which one would you choose? Why?",
-  "Does the light from the lamp in this room reach your eyes instantly, or does it take a tiny bit of time?",
   "Is the space in this room stretching? How do you know?",
   "What shape do you think our Milky Way would look like from far outside?",
-  "If someone in Andromeda saw the Earth today, what would they see?",
-  "Was there a time before there was time? What do you think?",
   "Which shape of galaxy would you like to live in? Why?",
   "Can you think of something else that has no centre, like the bindis on the balloon?"
  ],
@@ -2253,28 +2203,12 @@
    "a": "Every time the balloon grew, all her friends moved away."
   },
   {
-   "j": "What did the spiral galaxy say after spinning all day?",
-   "a": "I'm not dizzy, I'm just a little twisted."
-  },
-  {
-   "j": "Why don't galaxies ever get lost?",
-   "a": "They always know which way the universe is going: outwards."
-  },
-  {
    "j": "What's the oldest thing you'll see today?",
-   "a": "Starlight. Even your Thatha's jokes are younger."
-  },
-  {
-   "j": "Why was the elliptical galaxy so calm?",
-   "a": "She had stopped making new stars and finally had time to relax."
+   "a": "Starlight. Even your grandfather's jokes are younger."
   },
   {
    "j": "How does Andromeda send a message to the Milky Way?",
    "a": "By light. It just takes two and a half million years to arrive."
-  },
-  {
-   "j": "Why did the astronomer put a ruler on the balloon?",
-   "a": "She wanted to measure how far the universe had come."
   },
   {
    "j": "What did the Big Bang say to the universe?",
@@ -2283,10 +2217,6 @@
   {
    "j": "Why did the irregular galaxy refuse to pose for a photo?",
    "a": "She didn't like being put in a shape."
-  },
-  {
-   "j": "What do you call a galaxy that eats too much?",
-   "a": "A Milky Way, with extra stars on top."
   },
   {
    "j": "Why is the universe never late?",
@@ -2311,7 +2241,7 @@
  ],
  "maths": [
   {
-   "problem": "In her Bindi Balloon test, Priya measured these gaps from home. Small balloon: A 3 cm, B 6 cm, C 9 cm. Big balloon: A 6 cm, B 12 cm, C 18 cm. How much further away did each bindi go? What pattern do you see?",
+   "problem": "Bidisha, a girl in Class 4, did the Bindi Balloon test. She measured these gaps from home. Small balloon: A 3 cm, B 6 cm, C 9 cm. Big balloon: A 6 cm, B 12 cm, C 18 cm. How much further away did each bindi go? What pattern do you see?",
    "answer": "A went 3 cm further, B 6 cm and C 9 cm. Each bindi moved as far again as it started, so each gap doubled.",
    "explain": "6 take away 3 is 3. 12 take away 6 is 6. 18 take away 9 is 9. The bindi that started 3 times as far away moved 3 times as much.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2368,7 +2298,7 @@
    "why_maths": "Comparing two big numbers shows how long the light was travelling before there were any people like us to see it."
   },
   {
-   "problem": "Asha sorted 20 galaxy photos on Galaxy Zoo. She found 11 spirals, 6 smooth ovals and 3 that were something else. Draw a bar chart. Then say why some of her smooth ovals might really be spirals.",
+   "problem": "Deepti, a girl in Class 5, sorted 20 galaxy photos on Galaxy Zoo. She found 11 spirals, 6 smooth ovals and 3 that were something else. Draw a bar chart. Then say why some of Deepti's smooth ovals might really be spirals.",
    "answer": "Bars of 11, 6 and 3. Some 'smooth ovals' might be spirals seen from a slant or far away, so their arms don't show.",
    "explain": "11 and 6 and 3 make 20. In the Tilt the Spiral test, the plate looked like an oval when tilted, and the arms were harder to see.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2376,7 +2306,7 @@
    "context": "In the Galaxy Zoo activity, you sort real galaxy photos on a website and keep a tally of their shapes.",
    "chart": {
     "type": "bar",
-    "title": "Asha's Galaxy Zoo tally (made-up example)",
+    "title": "Deepti's Galaxy Zoo tally (made-up example)",
     "x": "Shape",
     "y": "Number of galaxies",
     "data": [
@@ -2464,13 +2394,12 @@
    "id": "b-balloons",
    "item": "A packet of round balloons",
    "kind": "material",
-   "why": "For the Bindi Balloon experiment and the No Centre challenge. Any shop that sells party things has them. Light colours show the bindis best.",
+   "why": "For the Bindi Balloon experiment and the No Centre challenge. Any shop that sells party things has them. Light colours show the bindis best. Buy a few spare, in case one bursts.",
    "url": "https://www.amazon.in/s?k=round+balloons",
    "used_in": [
     "e1",
     "c1"
-   ],
-   "plan": "Keep two or three spare, in case one bursts."
+   ]
   }
  ],
  "warmup": [
@@ -2639,12 +2568,12 @@
   },
   "ask": [
    "If every place is as central as every other, is there anywhere that is the edge?",
-   "When you see Andromeda, are you seeing Andromeda, or a message from its past?",
-   "Can something begin from nothing? What would 'nothing' be?"
+   "The hydrogen in the water you drink was made just after the Big Bang. What does that tell you about the water?",
+   "Which clue for the Big Bang do you find most convincing? Why?"
   ],
   "art": "A child sitting on a balcony at night, with a balloon covered in bindis beside her, looking up at a sky of galaxies. Faint arrows run from every galaxy to every other, showing none is the centre."
  },
- "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat, with the materials listed. The Bindi Balloon was thought through with a standard round party balloon: about 12 cm across when half blown and about 24 cm when nearly full, so gaps of 3, 6 and 9 cm on the fat middle become roughly 6, 12 and 18 cm, a difference a child can measure with thread and a ruler. Bindis are used instead of pen dots because they stay the same size while the rubber stretches, like galaxies. The steps say to keep the bindis away from the neck, where the rubber stretches less, and what to do if the balloon bursts. Tilt the Spiral uses a paper plate and an orange, and the edge-on view is checked by holding the plate at the child's eye height. Stretch the Elastic says that cheap elastic may stretch unevenly, so close results are good enough. Finding Andromeda needs a dark sky, so it is outside the spine and marked for a trip away from city lights. Galaxy Zoo needs a grown-up and the internet, so it is outside the spine too.",
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat, with the materials listed. The Bindi Balloon was thought through with a standard round party balloon: about 10 cm across when half blown and about 20 cm when blown to twice that width (still soft, not tight), so gaps of 3, 6 and 9 cm on the fat middle become roughly 6, 12 and 18 cm, a difference a child can measure with thread and a ruler. Bindis are used instead of pen dots because they stay the same size while the rubber stretches, like galaxies. The steps say to keep the bindis away from the neck, where the rubber stretches less, and what to do if the balloon bursts. Tilt the Spiral uses a paper plate and an orange, and the edge-on view is checked by holding the plate at the child's eye height. Stretch the Elastic says that cheap elastic may stretch unevenly, so close results are good enough. Finding Andromeda needs a dark sky, so it is outside the spine and marked for a trip away from city lights. Galaxy Zoo needs a grown-up and the internet, so it is outside the spine too.",
  "how_we_found_out": {
   "story": "In 1917, Albert Einstein used his new theory of gravity to describe the whole universe. Like almost everyone then, he thought the universe had always been the same size. His equations said it should grow or shrink, so he added an extra part to hold it still. In 1927, Georges Lemaître, a Belgian physicist and priest, showed that the equations allowed a growing universe, and that measured galaxy speeds suggested it really was growing. In 1929, Edwin Hubble showed that far galaxies move away faster than near ones. Lemaître said that a growing universe must once have been tiny and hot. Many astronomers disliked the idea of a beginning. In 1948, Fred Hoyle, Hermann Bondi and Thomas Gold said new matter keeps appearing as galaxies move apart, so the universe never really changes. The same year, Ralph Alpher and Robert Herman worked out that a hot beginning would leave a faint glow everywhere. In 1965, Arno Penzias and Robert Wilson found a hiss in their radio antenna that came from every direction. They even cleaned pigeon droppings out of the antenna, but the hiss stayed. It was the leftover glow, and the never-changing universe could not explain it.",
   "who": "Georges Lemaître, a Belgian physicist and priest, Edwin Hubble, an American astronomer, and Arno Penzias and Robert Wilson, American radio astronomers. Albert Einstein and Fred Hoyle held the older idea.",

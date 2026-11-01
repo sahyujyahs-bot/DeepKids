@@ -3,7 +3,7 @@
 
 **Summary.** When you feel scared, your heart beats faster before you have even thought about it. A feeling, which scientists call an emotion, happens in the whole body: the heart, the breath, the tummy and the face. Dozens of small muscles in your face move with each feeling, so other people can see some of what you feel. But a face gives only clues. Scared and surprised faces look so alike that people often mix them up, and anyone can put on a polite smile. So the surest way to know how a friend feels is to ask them. Your well-being means your body and your feelings are both cared for: enough sleep, food, water and play, and people to talk to. Kindness, respect and friendship grow from noticing what others feel, and scientists have found that being kind often makes the giver happier too.
 
-**Intro.** *Try this with someone at home. Make the most scared face you can, with your mouth closed. Then make a surprised face, mouth closed. Can they tell which is which? Most people find these two faces very hard to tell apart. So how do we ever know what someone else is feeling?* Every day you read faces without thinking about it. You can tell when Amma is tired, or when a friend is upset. In this unit you test how good you really are at it. You play a face game, find out which feelings are easy to read and which get mixed up, and learn what a feeling does inside your body. You also find out what keeps your body and your feelings well, and why kindness and friendship matter to the body as well as the heart.
+**Intro.** *Try this with someone at home. Make the most scared face you can, with your mouth closed. Then make a surprised face, mouth closed. Can they tell which is which? Most people find these two faces very hard to tell apart. So how do we ever know what someone else is feeling?* Every day you read faces without thinking about it. You can tell when a parent is tired, or when a friend is upset. In this unit you test how good you really are at it. You play a face game, find out which feelings are easy to read and which get mixed up, and learn what a feeling does inside your body. You also find out what keeps your body and your feelings well, and why kindness and friendship matter to the body as well as the heart.
 
 ## Learning outcomes
 0. I can name at least 10 feelings and say where I feel some of them in my body.
@@ -16,15 +16,15 @@
 
 ## Terms
 - **Emotion**: A strong feeling, such as joy, fear, anger or sadness, that changes your body and what you want to do. *e.g.* When a dog barks suddenly, fear makes your heart race and your body jump back.
-- **Feeling**: What an emotion is like from the inside, for the person having it. People often use 'feeling' and 'emotion' to mean the same thing. *e.g.* Before a dance show, Kavya feels butterflies in her tummy. That is how her nervousness feels to her.
+- **Feeling**: What an emotion is like from the inside, for the person having it. People often use 'feeling' and 'emotion' to mean the same thing. *e.g.* Before a dance show, Kavya, a girl in Class 3, feels butterflies in her tummy. That is how her nervousness feels to her.
 - **Facial expression**: The shape your face makes when small muscles under the skin pull on it. Many expressions go with feelings. *e.g.* A frown pulls the eyebrows down and together.
 - **Empathy**: Understanding what another person feels, and feeling some of it with them. *e.g.* Your friend drops her ice cream, and you feel a little sad too.
 - **Well-being**: Being well in both body and feelings: healthy, rested, and mostly calm and happy, with people to turn to. *e.g.* A good night's sleep, a full tummy, an hour of play and a chat with a friend all add to your well-being.
-- **Kindness**: Doing something good for someone because you care about how they feel, without wanting anything back. *e.g.* Meenakshi shares her umbrella with a classmate at the bus stop in the rain.
-- **Respect**: Treating other people's bodies, feelings and choices as important, even when they are different from yours. *e.g.* Arjun asks his little cousin 'Can I hug you?' and waits for her answer.
-- **Friendship**: A close bond between people who like each other, trust each other and care about each other's feelings. *e.g.* Farhan and Nila take turns choosing the game, so both of them get to pick.
+- **Kindness**: Doing something good for someone because you care about how they feel, without wanting anything back. *e.g.* Meenakshi, a girl in Class 3, shares her umbrella with a classmate at the bus stop in the rain.
+- **Respect**: Treating other people's bodies, feelings and choices as important, even when they are different from yours. *e.g.* Ananya asks her little cousin 'Can I hug you?' and waits for the answer.
+- **Friendship**: A close bond between people who like each other, trust each other and care about each other's feelings. *e.g.* Farhan and Nila, two friends in Class 3, take turns choosing the game, so both of them get to pick.
 - **Adrenaline**: A chemical messenger that two small glands above your kidneys pour into your blood when you are scared or excited. It makes your heart beat faster and gets your body ready to act. *e.g.* Adrenaline is why your heart thumps after a near fall on the stairs.
-- **Duchenne smile**: A smile that lifts the cheeks and crinkles the skin at the outer corners of the eyes, as well as turning up the mouth. It is named after Guillaume Duchenne, a French doctor who studied face muscles. *e.g.* When Paati laughs at a joke, little lines appear at the corners of her eyes.
+- **Duchenne smile**: A smile that lifts the cheeks and crinkles the skin at the outer corners of the eyes, as well as turning up the mouth. It is named after Guillaume Duchenne, a French doctor who studied face muscles. *e.g.* When Meera Aunty laughs at a joke, little lines appear at the corners of her eyes.
 - **Contagious**: Spreading from one person to another. Yawns, laughs and moods can be contagious, as well as some illnesses. *e.g.* One person in the room yawns, and soon two others yawn too.
 - **Rasa**: In Indian dance and drama, the feeling a performance brings out in the people watching. The old book called the Natya Shastra describes eight rasas, and later writers added a ninth, peace. *e.g.* A Kathakali dancer from Kerala shows fear with wide eyes and trembling hands, and the audience feels it too.
 
@@ -54,24 +54,24 @@ Different feelings move different parts. Surprise and fear both lift the eyebrow
 
 A face can match more than one feeling. A wide-eyed face could be scared, surprised or excited. A frowning face could be angry, worried or just thinking hard. People also hide feelings, or show a polite face when they feel something else. So a good friend notices the clues and then asks: 'You look upset. Are you all right?' Asking also shows respect, because the other person gets to say what they feel instead of being told.
 - e.g. A new girl in class looks cross on her first day, but she is really nervous.
-- e.g. Thatha frowns at the newspaper. He is not angry, he is reading small print without his glasses.
+- e.g. A man frowns at the newspaper. He is not angry, he cannot read the small print without his glasses.
 - e.g. A friend laughs after falling, but her knee really hurts.
 ### What keeps you well · *defined*
 **Definition:** Well-being means caring for the body and the feelings together. Children aged 6 to 12 need about 9 to 12 hours of sleep a night, about an hour of active play every day, good food and enough water, and people they can talk to.
 
 Body and feelings affect each other. After a bad night's sleep, small things feel bigger and you get cross more easily. Running, cycling or dancing makes most people feel calmer and happier afterwards. Hunger can make you grumpy. Feelings affect the body too: worry can give you a tummy ache or keep you awake. Talking about a feeling with someone you trust, and putting it into words, often helps the feeling settle.
-- e.g. Divya gets grumpy before lunch and cheerful after it.
-- e.g. After an hour of playing in the building compound, Farhan sleeps well.
-- e.g. Telling Amma about a bad day at school makes it feel smaller.
+- e.g. Bhavna gets grumpy before lunch and cheerful after it.
+- e.g. After an hour of playing in the building compound, Farhan, a boy in Class 3, sleeps well.
+- e.g. Telling a parent or a friend about a bad day at school makes it feel smaller.
 ### Kindness, respect and friendship · *defined*
 **Definition:** Kindness is doing good for someone because you care how they feel. Respect is treating other people's bodies, feelings and choices as important. Friendship is a bond of liking, trust and care between people.
 
 Scientists have found that very young children help others without being asked. In one study, toddlers of 18 months picked up a clothes peg a grown-up had dropped and handed it back, with no reward. In another study, children under two looked happier when they gave a treat to a puppet than when they got a treat themselves. Grown-ups who spent a little money on others also said they felt happier than those who spent it on themselves. Respect means asking before touching someone, listening when they say no, and not laughing at feelings that are different from yours.
-- e.g. Lakshmi helps her neighbour carry vegetables up the stairs.
+- e.g. Lakshmi, a girl in Class 3, helps her neighbour carry vegetables up the stairs.
 - e.g. Arjun asks before borrowing his sister's crayons.
 - e.g. Two friends agree to take turns picking the game.
 ### Do animals have feelings? · *debated*
-Animals have feelings. A dog wags and wriggles when the family comes home, and a crow calls loudly and dives when someone goes near the nest. Rats make high squeaks, too high for us to hear, when they are tickled, and they come back to the hand for more. Darwin wrote a whole book comparing feelings in people and animals. Scientists still argue about how much an animal's feelings are like ours.
+Animals have feelings. A dog wags and wriggles when someone she loves comes home, and a crow calls loudly and dives when someone goes near the nest. Rats make high squeaks, too high for us to hear, when they are tickled, and they come back to the hand for more. Darwin wrote a whole book comparing feelings in people and animals. Scientists still argue about how much an animal's feelings are like ours.
 - e.g. A dog lowers the ears and tail when scolded.
 - e.g. A cat purrs and kneads when stroked.
 - e.g. Monkeys groom each other, which keeps them clean and keeps their friendships strong.
@@ -125,10 +125,10 @@ A feeling begins in one person, yet it does not stay inside them. It moves their
 - Practice, Find the feeling in your body (3 min): Let's sit still and close our eyes. Take three slow breaths. Now notice your body. Is your heart fast or slow? Is your tummy tight or soft? Are your hands warm or cool? Now give the feeling a name, quietly, in your head. Open your eyes. What did you find?
 - Ask: When you guessed a feeling wrong in the Face Test, was the face wrong, or was your guess wrong?
 - Ask: Can you feel something without your body changing at all?
-- Ask: If a friend smiles but feels sad, which one is the truth about her?
+- Ask: If a friend smiles but feels sad, which one is the truth about their feeling?
 
 ## Deep and big questions
-- *big:* When you feel sad because your friend is sad, whose feeling is it: yours or hers? (hint: Your own heart and face changed, so it happened in your body. But it began with hers. Can a feeling belong to two people?)
+- *big:* When you feel sad because your friend is sad, whose feeling is it: yours or your friend's? (hint: Your own heart and face changed, so it happened in your body. But it began with your friend's feeling. Can a feeling belong to two people?)
 - *deep:* Your heart raced before you knew what the noise was. So which came first, the feeling or the thought? (hint: Think about the cooker whistle. Did you think 'I am scared' and then jump, or jump first?)
 - *deep:* If someone smiles but feels sad inside, which one is the truth? (hint: Is the smile a lie, or is it a kindness, or something else? What would you want a friend to do?)
 - *big:* A dog, a crow and a baby all show feelings without words. Did feelings come before words in the story of life? (hint: Darwin thought our faces came from animals long ago. What would a feeling be for, if not for talking?)
@@ -198,8 +198,8 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 
 ## Games
 ### g1 · Feelings Charades: guess it, then help (20 min)
-- **rules:** Shuffle the cards and put them face down.; On your turn, read a card silently. Act the feeling with your face and body for a count of five. No words or sounds.; The others guess the feeling. A right guess gets the guesser 1 point.; Then the actor reads the card aloud. Anyone who can say one kind thing to do for a person in that situation gets 1 point.; Playing alone? Act each card in a mirror. Say the feeling, then say a kind thing you could do.; After 12 cards, the player with most points wins.
-- **Printable cards: 24 situation cards to cut out:** Your kite string snaps and the kite flies away.; You find a puppy under the stairs of your building.; Your friend wins the drawing prize, and you hoped to win.; A cockroach runs over your foot.; Thatha gives you a surprise gift.; Someone cuts in front of you in the queue.; You smell the milk and it has gone sour.; You go on stage for the Onam programme.; Your best friend moves to another city.; You finally ride your cycle without help.; A loud cracker bursts just behind you.; You have to sit next to someone you don't know.; Your little brother tears your notebook.; You get a hug from Paati after a long time.; You forgot your homework at home.; You see a rainbow over the sea at Marina Beach.; Nobody picks you for the team.; You are lying under a fan on a quiet holiday afternoon.; You helped your neighbour carry her bags.; Someone laughs at your lunch.; The lights go out in a storm at night.; You see a friend fall and hurt her knee.; You get a new baby cousin.; Your Pongal kolam wins the street prize.
+- **rules:** Shuffle the cards and put them face down.; On your turn, read a card silently. Act the feeling with your face and body for a count of five. No words or sounds.; The others guess the feeling. A right guess gets the guesser 1 point.; Then the actor reads the card aloud. Anyone who can say one kind thing to do for a person in that situation gets 1 point.; Playing alone? Act each card in a mirror. Say the feeling, then say a kind thing you could do.; After 12 cards, the player with most points wins. If points are equal, both win.
+- **Printable cards: 24 situation cards to cut out:** Your kite string snaps and the kite flies away.; You find a puppy under the stairs of your building.; Your friend wins the drawing prize, and you hoped to win.; A cockroach runs over your foot.; A relative you love gives you a surprise gift.; Someone cuts in front of you in the queue.; You smell the milk and it has gone sour.; You go on stage for the Bihu dance programme.; Your best friend moves to another city.; You finally ride your cycle without help.; A loud cracker bursts just behind you.; You have to sit next to someone you don't know.; Someone tears your notebook while playing.; You get a hug from a grandparent or an aunt you have not seen for a long time.; You forgot your homework at home.; You see a rainbow over the sea at Marina Beach.; Nobody picks you for the team.; You are lying under a fan on a quiet holiday afternoon.; You helped your neighbour carry her bags.; Someone laughs at your lunch.; The lights go out in a storm at night.; You see a friend fall and hurt her knee.; You hold a tiny new baby for the first time.; Your Pongal kolam wins the street prize.
 - **Printable score sheet: Score sheet:** Player name; Right feeling guesses; Kind ideas
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Shuffle them face down. 3. Explain the rules.  
@@ -214,7 +214,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent does:* Pick one card where the guess was wrong and talk about it.  
   *Parent says:* Which card was hardest to guess? What could the guesser have done to be sure?  
   *Child mode:* Which card was hardest? How could you find out for sure what someone feels?
-  - Check: In the game, Farhan acted 'Someone laughs at your lunch'. Kavya guessed 'angry', but Farhan meant 'embarrassed'. What should Kavya do in real life to be sure? → **Ask Farhan how he feels**
+  - Check: In the game, Farhan acted 'Someone laughs at your lunch'. His friend Kavya guessed 'angry', but Farhan meant 'embarrassed'. What should Kavya do in real life to be sure? → **Ask Farhan how he feels**
 - **s4 (2 min)**  
   *Parent does:* Add up the points.  
   *Parent says:* Let's count the points. Who had the most kind ideas?  
@@ -225,7 +225,6 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **question:** Which feelings are easy to read from a face, and which get mixed up? Do the eyes or the mouth tell us more?
 - **predict:** Guess first. Which of the six feelings will be easiest to read? Which will be hardest? With the mouth hidden, will you still get them right? Why do you think so?
 - **fair test:** The same face maker makes every face in all three rounds. Each face is held for a count of three, with no sounds and no words. The cards are shuffled before each round, so the guesser cannot know the order. The guesser never sees the card. Only one thing changes between rounds: how much of the face is hidden.
-- **safety:** No safety risks. Make faces gently, and stop if anyone gets upset.
 - **record:** Fill in the table with a tick or a cross for every face. Write what was guessed whenever it was wrong. Circle the two feelings that got mixed up most.
 - **results table:** Feeling | Whole face: right? | Eyes only (mouth hidden): right? | Mouth only (eyes hidden): right? | If wrong, what was guessed?
 - **s1 (5 min)**  
@@ -244,23 +243,23 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent says:* Round one. You will see my whole face. I will make a face for a count of three. Then you tell me the feeling.  
   *Child mode:* Round one. Watch the whole face. Count to three. Say the feeling you see.
   - Note: Don't tell your child whether they were right until the round ends. Then show each card. When a guess is wrong, write down what they guessed, for example 'said surprised, was scared'.
-- **s4 (6 min)**  
+- **s4 (5 min)**  
   *Parent does:* Round 2, eyes only. 1. Shuffle again. 2. The face maker holds the notebook across their nose and mouth, so only the eyes and eyebrows show. 3. Make each face again for a count of three. 4. Write the results in the 'eyes only' column.  
   *Parent says:* Now I will hide my mouth. You can only see my eyes and eyebrows. Do you think you will still get them right?  
   *Child mode:* Round two. The mouth is hidden. Only the eyes show. Can you still tell?
   - Note: The face maker should still make the whole face behind the notebook, mouth and all. Real faces move together.
-- **s5 (6 min)**  
+- **s5 (5 min)**  
   *Parent does:* Round 3, mouth only. 1. Shuffle again. 2. The face maker holds the notebook across their forehead and eyes, so only the nose and mouth show. 3. Make each face again. 4. Write the results in the 'mouth only' column.  
   *Parent says:* Last round. Now I will hide my eyes and eyebrows. Only my mouth will show.  
   *Child mode:* Round three. Now the eyes are hidden. Only the mouth shows. Guess again!
   - Note: If there is time, swap roles: your child makes the faces and you guess. Children are often surprised how hard it is to make a scared face that does not look surprised.
-- **s6 (4 min)**  
+- **s6 (3 min)**  
   *Parent does:* Look at the table together. Count the ticks for each feeling. Find the two feelings that got mixed up most.  
   *Parent says:* Let's look at the table. Which feeling did you get right every time? Which ones got mixed up? Which half of the face helped most for each one?  
   *Child mode:* Count your ticks. Which feeling was easiest? Which two got mixed up? Was it the eyes or the mouth that helped?
-  - Note: Most families find happy is easiest, especially from the mouth. Scared and surprised are often mixed up, and so are angry and disgusted. Eyes-only usually helps more for scared, surprised and angry. Mouth-only usually helps more for happy and disgusted. Your results may differ, and that is a real result too.
+  - Note: Most families find happy is easiest, especially from the mouth. Scared and surprised are often mixed up, and so are angry and disgusted. Eyes-only usually helps more for scared and angry. Mouth-only usually helps more for happy and disgusted. Your results may differ, and that is a real result too.
   - Check: In many homes, scared and surprised get mixed up. Why? → **Both feelings lift the eyebrows and open the eyes wide**
-- **s7 (4 min)**  
+- **s7 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why. Then ask the face maker about one face that was guessed wrong.  
   *Parent says:* So what do you think? Tell me what you found, what you saw in the table, and why you think it happened. Now ask me about a face you got wrong.  
   *Child mode:* Say what you found. Say what your table shows. Say why. Then ask the face maker about one wrong guess.
@@ -271,7 +270,6 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **question:** Do you yawn more while watching someone yawn than while watching them smile?
 - **predict:** Guess first. Will you yawn more when you watch someone yawn, or when you watch them smile? Or the same? Why do you think so?
 - **fair test:** Both rounds last 3 minutes, in the same room, with the same person to watch. The only change is what the person does: smile and blink, or yawn. Do the smiling round first, so a yawn from round two does not carry over. If you can, repeat the test on another day with the rounds the other way round.
-- **safety:** No safety risks.
 - **record:** Write the yawns for each round as tally marks. Then write one sentence about what you found.
 - **results table:** Round | What the face maker did | Yawns by the watcher | Did the watcher feel like yawning? (yes or no)
 - **s1 (3 min)**  
@@ -293,7 +291,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent says:* Which round gave more yawns? What do you think is going on? Why might a yawn spread?  
   *Child mode:* Which round had more yawns? Why do you think yawns spread?
   - Note: Most people yawn more in round two, but not everyone, and that is a real result too. Even reading about yawns makes many people yawn. Scientists still argue about why yawns spread. One idea is that it helps a group stay alert together. Another links it to empathy.
-  - Check: Lakshmi yawned 4 times while watching her mother yawn, and 0 times while watching her smile. What is the best conclusion? → **Yawns can spread from one person to another**
+  - Check: Lakshmi, a girl in Class 3, yawned 4 times while watching her mother yawn, and 0 times while watching her smile. What is the best conclusion? → **Yawns can spread from one person to another**
 - **s5 (4 min)**  
   *Parent does:* Swap roles if there is time. Then talk about smiles and laughs.  
   *Parent says:* Now you yawn and I'll watch. And what else spreads like a yawn? Have you noticed a laugh spreading?  
@@ -302,7 +300,6 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 
 ## Activities
 ### a1 · How Many Feelings Can You Name? (10 min)
-- **safety:** No safety risks.
 - **record:** Keep the page of feeling faces. You will add to it during the unit.
 - **s1 (4 min)**  
   *Parent does:* Set a timer for 3 minutes. Your child names as many feelings as they can. You write them down.  
@@ -312,7 +309,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **s2 (4 min)**  
   *Parent does:* Your child draws a small face for each of 6 feelings from the list.  
   *Parent says:* Pick six feelings and draw a face for each one. What do the eyebrows do? What does the mouth do?  
-  *Child mode:* Draw a face for six feelings. Look at the eyebrows and mouth in a mirror first.
+  *Child mode:* Draw a face for six feelings. Think first: what do the eyebrows and mouth do?
 - **s3 (2 min)**  
   *Parent does:* Circle the feelings that feel nice in one colour and the ones that feel hard in another.  
   *Parent says:* Which feelings feel nice, and which feel hard? Is a hard feeling a bad feeling, or could it be useful?  
@@ -320,11 +317,10 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   - Ask: How could fear be useful? (good: It keeps you away from danger, like a busy road.; It makes you careful.)
   - Note: Every feeling has a job. Fear keeps us safe, anger tells us something is unfair, sadness tells others we need comfort. The feeling is never wrong. What we do with it can be kind or unkind.
 ### a2 · Real Smile or Polite Smile? (12 min)
-- **safety:** No safety risks.
 - **record:** Write how many of the 10 smiles the guesser called right.
 - **s1 (3 min)**  
-  *Parent does:* The smiler picks a folded slip without showing it. For REAL, they think of the funniest thing that happened this year. For POLITE, they smile as if for a passport photo.  
-  *Parent says:* I'll pick a slip. For a real smile I'll think of something really funny. For a polite smile I'll just smile for the camera.  
+  *Parent does:* The smiler picks a folded slip without showing it. For REAL, they think of the funniest thing that happened this year. For POLITE, they smile as if for a school photo.  
+  *Parent says:* I'll pick a slip. For a real smile I'll think of something really funny. For a polite smile I'll just smile for a school photo.  
   *Child mode:* The smiler picks a secret slip. Real or polite? Watch closely.
 - **s2 (6 min)**  
   *Parent does:* Hold the notebook over the mouth and smile for a count of three. The guesser says 'real' or 'polite'. Do all 10 slips.  
@@ -335,9 +331,8 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent does:* Count the right answers. Talk about what you looked at.  
   *Parent says:* How many did you get right? What did you look at in the eyes?  
   *Child mode:* How many were right out of 10? What did the eyes do in a real smile?
-  - Check: Ravi guessed 9 of 10 smiles right just from the eyes. What does this show? → **His mother's real smiles moved her eyes and cheeks differently from her polite ones**
+  - Check: Ravi, a boy in Class 4, guessed 9 of 10 of his friend Anu's smiles right, just from her eyes. What does this show? → **Anu's real smiles moved her eyes and cheeks differently from her polite ones**
 ### a3 · Where Do You Feel It? A body map of feelings (15 min)
-- **safety:** No safety risks.
 - **record:** Keep the four body maps. Compare them with a family member's.
 - **s1 (3 min)**  
   *Parent does:* Draw four body outlines. Write angry, scared, happy and sad at the top.  
@@ -354,7 +349,6 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Child mode:* Compare your maps with someone else's. Are they alike? Scientists found people's maps were quite alike.
   - Ask: Why might so many people feel anger in their chest and arms? (good: Because the heart beats faster.; Because the body gets ready to push or fight.)
 ### a4 · Navarasa: nine feelings in Indian dance (15 min)
-- **safety:** No safety risks.
 - **record:** Draw your best rasa face and write its name.
 - **s1 (4 min)**  
   *Parent does:* Read out the nine rasas: shringara (love), hasya (laughter), karuna (sorrow), raudra (anger), veera (courage), bhayanaka (fear), bibhatsa (disgust), adbhuta (wonder) and shanta (peace).  
@@ -366,19 +360,18 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent says:* Try each one in the mirror. Use your eyes, eyebrows and hands. Which ones are hardest?  
   *Child mode:* Try each feeling in the mirror. Use your eyes and your hands too.
 - **s3 (5 min)**  
-  *Parent does:* Your child picks a slip in secret and acts the rasa. The family guesses.  
-  *Parent says:* Pick one in secret and show it. We'll guess. Did the hands help?  
-  *Child mode:* Pick a secret rasa. Act it. Can your family guess? Did your hands help?
+  *Parent does:* Your child picks a slip in secret and acts the rasa. Everyone else guesses (with two people, the parent guesses).  
+  *Parent says:* Pick one in secret and show it. We will guess. Did the hands help?  
+  *Child mode:* Pick a secret rasa. Act it. Can the others guess? Did your hands help?
   - Ask: Was it easier to guess with the hands as well as the face? (good: Yes, the hands give more clues.; Yes, like trembling hands for fear.)
 ### a5 · Stop, Name, Choose: what to do with a big feeling (10 min)
-- **safety:** No safety risks.
 - **record:** Stick the thermometer on the wall. Move the peg to show how you feel, morning and evening, for a week.
 - **s1 (3 min)**  
   *Parent does:* Colour the strip: green for calm, yellow for a bit upset, orange for upset, red for very upset. Clip the peg where your child feels now.  
   *Parent says:* This is a feelings thermometer. Green is calm and red is very upset. Where are you right now?  
   *Child mode:* Colour your strip green to red. Put the peg where you feel now.
 - **s2 (4 min)**  
-  *Parent does:* Practise the three steps with a pretend problem: your little cousin breaks your clay model.  
+  *Parent does:* Practise the three steps with a pretend problem: someone breaks your clay model by mistake.  
   *Parent says:* When a feeling gets to red, try three steps. Stop: take three slow breaths. Name it: say 'I feel angry'. Choose: pick something kind to do next.  
   *Child mode:* Stop and breathe three times. Name it: 'I feel angry.' Then choose what to do.
   - Note: Naming a feeling often makes it smaller. In a 2007 study in Los Angeles, people who put their feelings into words showed less activity in a part of the brain that reacts strongly to fear and anger.
@@ -388,12 +381,11 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Child mode:* Think of three good things to do when you feel angry. Write them down.
   - Ask: What could you do instead of shouting? (good: Walk away and come back.; Tell the person how I feel.; Ask a grown-up for help.)
 ### a6 · My Well-being Circle: one day in 24 hours (15 min)
-- **safety:** No safety risks.
 - **record:** Keep your circle. Write one change you would like to make.
 - **s1 (5 min)**  
-  *Parent does:* Trace a circle round a steel plate. Divide it into 24 equal slices, one for each hour. Mark 12 midnight at the top.  
+  *Parent does:* Trace a circle round a steel plate. Mark midnight at the top and noon at the bottom. Mark 6 in the morning on the right and 6 in the evening on the left. Each quarter is 6 hours. Draw lines to split each quarter into 6 equal slices, one for each hour.  
   *Parent says:* Let's draw your whole day as a circle. Each slice is one hour.  
-  *Child mode:* Trace a plate. Cut the circle into 24 slices. One slice is one hour.
+  *Child mode:* Trace a plate. Mark midnight at the top and noon at the bottom. Draw lines to make 24 slices. One slice is one hour.
 - **s2 (6 min)**  
   *Parent does:* Colour the hours: blue for sleep, yellow for school, green for active play, orange for meals, grey for screens.  
   *Parent says:* Colour each hour of a normal day. How many blue slices of sleep do you get?  
@@ -402,7 +394,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent does:* Count the sleep and play hours. Compare with what children need.  
   *Parent says:* Children aged 6 to 12 need about 9 to 12 hours of sleep and about an hour of active play every day. How does your circle look?  
   *Child mode:* You need 9 to 12 hours of sleep. And one hour of play. Do you get them?
-  - Check: Divya sleeps from 10 at night to 6 in the morning. Is that enough for a child of 8? → **No, she sleeps 8 hours but needs about 9 to 12**
+  - Check: Divya, a girl aged 8, sleeps from 10 at night to 6 in the morning. Is that enough? → **No, she sleeps 8 hours but needs about 9 to 12**
 
 ## Projects
 ### p1 · The Kindness Week (45 min, 7 days)
@@ -410,11 +402,11 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **record:** A table with the day, the kind act, who it was for, and your feeling from 1 to 5 before and after.
 - **schedule:** day 1: Make the kindness table. Rate how you feel from 1 to 5. Plan one small kind act. (10 min); day 2: Do one kind act. Write it down. Rate how you feel before and after. (5 min); day 3: Another kind act, for someone new. Write and rate. (5 min); day 4: A kind act nobody will know was you. Write and rate. (5 min); day 5: A kind act for a neighbour, the building watchman or someone who works for your family. Write and rate. (5 min); day 6: A kind act for yourself: rest, play or a talk with a friend. Write and rate. (5 min); day 7: Look back at the week. Did the ratings change after kind acts? What surprised you? (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Make the table together. Explain the 1 to 5 scale, with a face drawn for each number.  
+  *Parent does:* Make the table together. Explain the 1 to 5 scale, with a face drawn for each number. Plan one small kind act for tomorrow.  
   *Parent says:* Scientists found that being kind often makes the giver happier. Let's test it for a week. 1 is very low and 5 is very happy.  
   *Child mode:* Draw your table. Draw five faces from sad to happy. This week you test kindness.
-- **s2 (5 min)**  
-  *Parent does:* Each day, do one kind act, then fill in the row.  
+- **s2 (25 min)**  
+  *Parent does:* Each day, do one kind act, then fill in the row. Day 2: any kind act. Day 3: for someone new. Day 4: a kind act nobody will know was you. Day 5: for a neighbour, the watchman or someone who works for your family. Day 6: for yourself.  
   *Parent says:* What kind thing did you do today? How did you feel before, and how do you feel now?  
   *Child mode:* Do one kind thing today. Write it down. Rate your feeling before and after.
   - Wait: Do this every day for 5 days.
@@ -460,113 +452,110 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Child mode:* Make your signal. Make each picture very clear.
 - **s3 (8 min)**  
   *Parent does:* Test it with family members without speaking.  
-  *Parent says:* Show it to Amma without speaking. Did she understand every picture?  
+  *Parent says:* Show it to someone at home without speaking. Did they understand every picture?  
   *Child mode:* Test it without words. Did your family understand each picture?
   - Ask: Which picture was hardest to understand, and how could you make it clearer? (good: The tired one, so add a bed.; Add a colour as well as a face.)
 
 ## Worksheets
 ### Face Detective (core) (core, 15 questions)
-1. (mcq) In the Face Test, which two feelings do people mix up most often?  
-   Options: Happy and sad / Scared and surprised / Angry and happy / Sad and surprised  
-   **Answer:** Scared and surprised. *Why:* Scared and surprised both lift the eyebrows and open the eyes wide. Picking 'happy and sad' is unlikely, because their mouths go in opposite directions.
-2. (mcq) Your heart beats fast after a loud cracker bursts behind you. What made it speed up?  
+1. (mcq) Your heart beats fast after a loud cracker bursts behind you. What made it speed up?  
    Options: You decided to make it beat faster / Adrenaline in your blood, released by fear / The noise hit your heart / You were running  
    **Answer:** Adrenaline in your blood, released by fear. *Why:* Fear makes two small glands release adrenaline, which speeds up the heart. It happens before you decide anything. The sound reaches your ears, not your heart.
-3. (truefalse) A feeling happens only in your head.  
+2. (truefalse) A feeling happens only in your head.  
    **Answer:** False. *Why:* False. A strong feeling changes the heart, the breath, the tummy and the face too. That is why you can feel butterflies in your tummy when you are nervous.
-4. (truefalse) Children aged 6 to 12 need about 9 to 12 hours of sleep a night.  
-   **Answer:** True. *Why:* True. Children's sleep doctors agree on this. Less sleep makes it harder to pay attention and easier to feel cross.
-5. (fill) Understanding what someone else feels, and feeling some of it with them, is called ____.  
+3. (fill) Understanding what someone else feels, and feeling some of it with them, is called ____.  
    **Answer:** ['empathy']. *Why:* Empathy starts with noticing someone's face and body, and then checking by asking.
-6. (fill) A chemical messenger that makes your heart race when you are scared is called ____.  
+4. (fill) A chemical messenger that makes your heart race when you are scared is called ____.  
    **Answer:** ['adrenaline']. *Why:* Adrenaline is made by two small glands above the kidneys.
-7. (match) Match each feeling to a face clue.  
+5. (match) Match each feeling to a face clue.  
    **Answer:** Angry → eyebrows pulled down and together; Surprised → eyebrows up, eyes wide, mouth open; Disgusted → nose wrinkled, upper lip lifted; Happy → cheeks lifted, mouth turned up; Sad → inner eyebrows up, mouth turned down. *Why:* Each feeling moves different face muscles. These are the most common clues, but faces vary from person to person.
-8. (sort) Sort these into things that help your body and things that help your feelings. Some help both, so pick the main one.  
-   **Answer:** drinking water → Mainly the body; talking to a friend → Mainly the feelings; eating a full lunch → Mainly the body; naming a big feeling → Mainly the feelings; washing hands → Mainly the body; a hug from Amma → Mainly the feelings. *Why:* Water, food and clean hands mainly help the body. Talking, naming feelings and hugs mainly help the feelings. In fact each one helps both a little, because body and feelings affect each other.
-9. (write) Kavya's friend Meena is frowning at her desk. Kavya thinks Meena is angry with her. What else could Meena be feeling? What should Kavya do?  
+6. (sort) Sort these into things that help your body and things that help your feelings. Some help both, so pick the main one.  
+   **Answer:** drinking water → Mainly the body; talking to a friend → Mainly the feelings; eating a full lunch → Mainly the body; naming a big feeling → Mainly the feelings; washing hands → Mainly the body; a hug from someone you love → Mainly the feelings. *Why:* Water, food and clean hands mainly help the body. Talking, naming feelings and hugs mainly help the feelings. In fact each one helps both a little, because body and feelings affect each other.
+7. (write) Kavya, a girl in Class 3, sees her friend Meena frowning at her desk. Kavya thinks Meena is angry with her. What else could Meena be feeling? What should Kavya do?  
    **Answer:** Meena could be worried, tired, unwell or concentrating hard. A frown fits many feelings. Kavya should ask Meena kindly how she is.. *Why:* A strong answer gives at least two other feelings and says that asking is the way to be sure.
-10. (draw) Draw two faces: a scared face and a surprised face. Show the difference in the eyebrows and mouth.  
+8. (draw) Draw two faces: a scared face and a surprised face. Show the difference in the eyebrows and mouth.  
    **Answer:** Both have raised eyebrows and wide eyes. The scared face has eyebrows pulled together and lips stretched back. The surprised face has a rounded, open mouth.. *Why:* The small differences are in how the eyebrows pull together and what the mouth does.
-11. (write) In the Face Test, which half of the face helped you most, the eyes or the mouth? Use your results to explain.  
+9. (write) In the Face Test, which half of the face helped you most, the eyes or the mouth? Use your results to explain.  
    **Answer:** A strong answer names a feeling for each, for example: 'The eyes helped most for scared and angry. The mouth helped most for happy.' It uses the ticks from the table.. *Why:* Different feelings show in different parts of the face. Your own table is the evidence.
-12. (odd) Which one is the odd one out, and why? Heart beats faster, breath gets quicker, hands sweat, hair grows longer.  
+10. (odd) Which one is the odd one out, and why? Heart beats faster, breath gets quicker, hands sweat, hair grows longer.  
    **Answer:** hair grows longer. *Why:* A strong feeling like fear quickly speeds the heart, quickens the breath and makes the hands sweat. Hair grows slowly all the time, whatever you feel.
-13. (mcq) Which of these shows respect?  
+11. (mcq) Which of these shows respect?  
    Options: Hugging a cousin even when she says no / Asking 'Can I hug you?' and waiting for the answer / Laughing when a friend cries / Taking a friend's pencil without asking  
    **Answer:** Asking 'Can I hug you?' and waiting for the answer. *Why:* Respect means treating someone's body, feelings and choices as important. Asking first and listening to the answer does that.
-14. (order) Put the steps for a big feeling in order.  
+12. (order) Put the steps for a big feeling in order.  
    **Answer:** order shown. *Why:* Stopping gives the body time to calm a little. Naming the feeling often makes it smaller. Then it is easier to choose well.
-15. (truefalse) Fear is a useless feeling that we should never have.  
+13. (truefalse) Fear is a useless feeling that we should never have.  
    **Answer:** False. *Why:* False. Fear keeps us safe. It makes us step back from a busy road or a hot stove. Every feeling has a job.
+14. (truefalse) Crying is one way the body shows sadness or pain.  
+   **Answer:** True. *Why:* True. Every person has tear glands, and crying often brings comfort and help from others.
+15. (fill) When a yawn spreads from one person to another, we say yawns are ____.  
+   **Answer:** ['contagious']. *Why:* Contagious means spreading from one person to another. Laughs and smiles can be contagious too.
 ### Body and Feelings (stretch) (stretch, 15 questions)
-1. (mcq) Ravi's mother hides her mouth with a notebook and smiles. Ravi says 'That's a real smile!' What did he probably see?  
-   Options: Her teeth / Her cheeks lifted and the corners of her eyes crinkled / Her ears moved / Her eyebrows went down  
-   **Answer:** Her cheeks lifted and the corners of her eyes crinkled. *Why:* A real smile usually lifts the cheeks and crinkles the eye corners. The mouth was hidden, so Ravi could not see teeth.
-2. (perspective) Anjali and her grandmother Lakshmi disagree about anger.  
-   **Answer:** A strong answer picks a side with a reason, for example that naming a feeling often helps it settle, or that shouting in anger can hurt people. It also says what the other side has right: Lakshmi is right that anger can hurt others, and Anjali is right that a hidden feeling is still there.. *Why:* Both have a point. Naming a feeling calmly is usually better than hiding it or exploding with it.
-3. (write) In the Catch a Yawn test, Divya yawned more while watching her father yawn. Her brother says, 'She was just tired.' How could Divya test whether he is right?  
-   **Answer:** She could do the test again another day, with the yawning round first and the smiling round second. If she still yawns more when watching yawns, tiredness does not explain it.. *Why:* Changing the order is how scientists check that something else is not causing the result.
-4. (truefalse) Scientists all agree that every feeling has one face that people everywhere read the same way.  
-   **Answer:** False. *Why:* False. Some scientists, like Paul Ekman, found that people in many places match faces to feelings in the same way. Others, like Lisa Feldman Barrett, found faces vary a lot. This is still debated.
-5. (mcq) Toddlers in a study looked happiest when they...  
-   Options: got a treat themselves / gave a treat to a puppet / watched a puppet eat / were alone  
-   **Answer:** gave a treat to a puppet. *Why:* Scientists in Canada found children under two looked happier giving a treat than getting one, especially when it was their own treat they gave.
-6. (label) Label where people often feel these feelings on the body outline: anger (chest and fists), fear (chest), sadness (heavy arms and legs), nervousness (tummy).  
-   **Answer:** ['chest and fists', 'chest', 'arms and legs', 'tummy']. *Why:* In a body map study, many people coloured similar places for each feeling. Your own map may differ.
-7. (fill) The Indian dance word for the feeling a performance brings out in the audience is ____.  
+1. (perspective) Anjali, a girl in Class 3, and her grandmother Saroja disagree about anger.  
+   **Answer:** A strong answer picks a side with a reason, for example that naming a feeling often helps it settle, or that shouting in anger can hurt people. It also says what the other side has right: Saroja is right that anger can hurt others, and Anjali is right that a hidden feeling is still there.. *Why:* Both have a point. Naming a feeling calmly is usually better than hiding it or exploding with it.
+2. (write) In the Catch a Yawn test, Pooja, a girl in Class 4, yawned more while watching her father yawn. Her brother says, 'She was just tired.' How could Pooja test whether he is right?  
+   **Answer:** Pooja could do the test again another day, with the yawning round first and the smiling round second. If she still yawns more when watching yawns, tiredness does not explain it.. *Why:* Changing the order is how scientists check that something else is not causing the result.
+3. (label) The body outline has four blank lines, pointing to the fists, the chest, the legs and the tummy. Write the feeling that many people in the body-map study felt in each place: angry, scared, sad or nervous.  
+   **Answer:** ['angry', 'scared', 'sad', 'nervous']. *Why:* In a body map study, many people coloured similar places for each feeling: fists and chest for anger, chest for fear, heavy legs for sadness, tummy for nervousness. Your own map may differ.
+4. (fill) The Indian dance word for the feeling a performance brings out in the audience is ____.  
    **Answer:** ['rasa']. *Why:* The Natya Shastra describes the rasas. Dancers show them with the face, the eyes and the hands.
-8. (write) Farhan says, 'I can always tell what my friends feel just by looking at them.' Use what you found in the Face Test to answer him.  
+5. (write) Farhan, a boy in Class 3, says, 'I can always tell what my friends feel just by looking at them.' Use what you found in the Face Test to answer him.  
    **Answer:** In the Face Test, some feelings got mixed up, like scared and surprised. People also hide feelings or smile politely. So looking gives clues, but Farhan should ask to be sure.. *Why:* A strong answer uses evidence from the child's own results.
-9. (match) Match each need to how much a child of 8 needs, or how often.  
+6. (match) Match each need to how much a child of 8 needs, or how often.  
    **Answer:** Sleep → about 9 to 12 hours a night; Active play → about an hour every day; Washing hands → before eating and after the toilet; Talking about feelings → whenever something feels big. *Why:* These are what children's doctors suggest. Sleep and play keep the body well and also make feelings easier to handle.
-10. (mcq) After a bad night's sleep, Nila snapped at her brother over a small thing. What is the best explanation?  
+7. (mcq) After a bad night's sleep, Nila, the girl in the story, snapped at her brother over a small thing. What is the best explanation?  
    Options: Nila is an unkind person / Too little sleep makes small things feel bigger and makes people cross more easily / Her brother deserved it / Sleep has nothing to do with feelings  
    **Answer:** Too little sleep makes small things feel bigger and makes people cross more easily. *Why:* Body and feelings affect each other. Tiredness makes it harder to stay calm. It does not mean Nila is unkind.
-11. (draw) Draw your calm corner plan. Label three things in it and say how each one helps.  
+8. (draw) Draw your calm corner plan. Label three things in it and say how each one helps.  
    **Answer:** Any plan that fits in a small space, with three labelled things, such as a cushion for comfort, a calm bottle to watch, and a picture card for slow breathing.. *Why:* A calm corner works best when the child chooses what helps them.
-12. (order) Put Darwin's face test in order.  
+9. (order) Put Darwin's face test in order.  
    **Answer:** order shown. *Why:* Duchenne's photographs came first, in 1862. Darwin's test with visitors was in 1868.
-13. (truefalse) Hitting a pillow when you are angry is the best way to get rid of anger.  
-   **Answer:** False. *Why:* False. In a 2002 study, people who hit a punching bag while thinking about someone who annoyed them were more aggressive afterwards. Calming down and talking it over work better.
-14. (sort) Sort these into kind and not kind.  
+10. (sort) Sort these into kind and not kind.  
    **Answer:** sharing an umbrella at the bus stop → Kind; copying a friend's homework for her → Not kind; teaching a new girl a few Tamil words → Kind; laughing at someone's lunch → Not kind; asking a crying child what happened → Kind; telling a secret your friend asked you to keep → Not kind. *Why:* Kindness means doing real good for someone because you care how they feel. Copying homework for someone seems helpful, but it stops her learning.
-15. (write) Why do you think fear makes your heart beat faster? How could that help an animal in danger?  
+11. (write) Why do you think fear makes your heart beat faster? How could that help an animal in danger?  
    **Answer:** A faster heart pumps more blood and oxygen to the muscles, so the body is ready to run away or fight. A deer that hears a tiger can run faster.. *Why:* The body gets ready to act before the mind has finished thinking.
+12. (write) A classmate sits alone and looks sad. Write one thing you could say first, and one kind thing you could offer to do.  
+   **Answer:** A strong answer starts with a question such as 'Are you all right?' and offers something real, such as sitting together or listening.. *Why:* Asking first checks the guess. Then the kind act fits what the classmate really needs.
+13. (mcq) In the Face Test, why must the same person make every face in all three rounds?  
+   Options: So the guesser gets tired / So only the hidden part of the face changes, and nothing else / So the faces look the same / So the guesser can guess the order  
+   **Answer:** So only the hidden part of the face changes, and nothing else. *Why:* A fair test changes one thing at a time. If a different person made the faces, you would not know if the hidden part or the person made the difference.
+14. (mcq) Rats make squeaks too high for us to hear when they are tickled, and they come back to the hand for more. What does this suggest?  
+   Options: Rats can feel something like joy / Rats are afraid of hands / Rats notice nothing at all / Rats are hungry  
+   **Answer:** Rats can feel something like joy. *Why:* Coming back for more tickling suggests the rats enjoy it. Cautious scientists add that we cannot ask a rat what it feels like.
+15. (truefalse) A polite smile is always easy to spot, because it never crinkles the eyes.  
+   **Answer:** False. *Why:* False. Many people can crinkle their eyes on purpose, so even the eyes give a clue, not a proof.
 ### Thinking Like a Scientist About Feelings (challenge) (challenge, 15 questions)
 1. (write) Darwin found visitors agreed on some of Duchenne's faces but argued about others. Why might people disagree about what a face shows?  
    **Answer:** Some faces fit more than one feeling. Without knowing what is happening around a person, the face alone can be read in different ways. People also learn faces differently.. *Why:* A strong answer says that a face is a clue, and that context matters.
 2. (perspective) Two scientists disagree about faces.  
    **Answer:** A strong answer sees that Kavya's result supports both a little: happy was read well everywhere (Ekman), but scared and surprised got mixed up (Barrett). It uses the evidence and answers back from the other side.. *Why:* Real science often has evidence on both sides. The Fore people also mixed up fear and surprise.
-3. (mcq) Guessing at random, how many of 10 smiles would you expect to call right in the Real or Polite test?  
-   Options: 0 / about 5 / 10 / about 2  
-   **Answer:** about 5. *Why:* With two choices, a random guess is right about half the time. So about 5 of 10. A score far above 5 means the eyes really showed something.
-4. (write) A company says its computer can tell if a child is paying attention by reading their face. Using what you learned, why might this be wrong sometimes?  
+3. (write) A company says its computer can tell if a child is paying attention by reading their face. Using what you learned, why might this be wrong sometimes?  
    **Answer:** Faces can be mixed up, people hide feelings, and the same face can mean different things. A thinking face can look like a cross or bored face. So the computer would only be guessing.. *Why:* A strong answer uses at least one fact from the unit.
-5. (truefalse) Even reading about yawning can make some people yawn.  
+4. (truefalse) Even reading about yawning can make some people yawn.  
    **Answer:** True. *Why:* True. Scientists have found that reading about yawns, or even thinking about them, makes many people yawn.
-6. (draw) Draw a comic of four boxes. In it, someone guesses a friend's feeling wrong from their face, then finds out by asking.  
+5. (draw) Draw a comic of four boxes. In it, someone guesses a friend's feeling wrong from their face, then finds out by asking.  
    **Answer:** Four boxes: a face, a wrong guess, a question, and the real feeling.. *Why:* This shows the main idea of the unit: a face is a clue, and asking tells you for sure.
-7. (mcq) Charles Bell taught that people have special face muscles that no animal has. What did Darwin find?  
-   Options: Bell was right / Apes, monkeys and other animals share many of the same face muscles and expressions / Animals have no face muscles / Only dogs have face muscles  
-   **Answer:** Apes, monkeys and other animals share many of the same face muscles and expressions. *Why:* Darwin compared people with apes, monkeys and dogs, and found shared muscles and expressions. He said we inherited them from shared ancestors.
-8. (write) Lakshmi did the Kindness Week and felt happier after most kind acts. Her friend says this proves kindness makes everyone happier. What would you say to her friend?  
+6. (write) Lakshmi, a girl in Class 3, did the Kindness Week and felt happier after most kind acts. Her friend says this proves kindness makes everyone happier. What would you say to her friend?  
    **Answer:** One person's week is a clue, not a proof. Other things happen in a day too. To find out for many people, scientists test lots of people and compare.. *Why:* A strong answer says why one test is not enough and how scientists check.
-9. (odd) Which one is the odd one out, and why? Yawns, laughs, smiles, freckles.  
+7. (odd) Which one is the odd one out, and why? Yawns, laughs, smiles, freckles.  
    **Answer:** freckles. *Why:* Yawns, laughs and smiles can spread from person to person. Freckles do not.
-10. (fill) A smile that lifts the cheeks and crinkles the corners of the eyes is called a ____ smile.  
+8. (fill) A smile that lifts the cheeks and crinkles the corners of the eyes is called a ____ smile.  
    **Answer:** ['Duchenne']. *Why:* It is named after Guillaume Duchenne, who photographed face muscles in 1862.
-11. (label) On the face drawing, label the parts that move in a scared face: eyebrows raised, eyebrows pulled together, eyes wide open, lips stretched back.  
-   **Answer:** ['eyebrows raised', 'eyebrows pulled together', 'eyes wide open', 'lips stretched back']. *Why:* Fear lifts and pulls the eyebrows together, opens the eyes wide and stretches the lips. Surprise lifts the eyebrows but does not pull them together.
-12. (mcq) Why might a new child in class look cross on the first day?  
-   Options: She must be rude / Feeling scared or nervous can make a face look tight and cross / She does not like anyone / Faces always show exactly what we feel  
+9. (mcq) Why might a new child in class look cross on the first day?  
+   Options: The child must be rude / Feeling scared or nervous can make a face look tight and cross / The child does not like anyone / Faces always show exactly what we feel  
    **Answer:** Feeling scared or nervous can make a face look tight and cross. *Why:* Fear and nervousness can tighten the face, so a nervous child can look cross. This is why asking matters.
-13. (write) Is a calm corner more useful for the body or for the feelings? Explain your answer.  
+10. (write) Is a calm corner more useful for the body or for the feelings? Explain your answer.  
    **Answer:** Both. It helps the feelings settle, and as feelings calm, the heart and breath slow down too. Body and feelings change together.. *Why:* A strong answer explains that body and feelings are linked.
-14. (truefalse) Only humans have feelings.  
+11. (truefalse) Only humans have feelings.  
    **Answer:** False. *Why:* False. Dogs, cats, crows, rats and many other animals show fear, joy and play. Rats even squeak with joy when tickled, too high for us to hear.
-15. (match) Match each scientist to what they did.  
+12. (match) Match each scientist to what they did.  
    **Answer:** Guillaume Duchenne → photographed face muscles moved by gentle electric currents; Charles Darwin → showed faces to visitors and compared people with animals; Paul Ekman → showed faces to the Fore people of Papua New Guinea; Charles Bell → taught that people have face muscles no animal has. *Why:* Each one added to what we know about faces, and Bell's idea was shown wrong by Darwin.
+13. (write) Why is it better to ask a friend 'Are you all right?' than to say 'Why are you cross with me?'  
+   **Answer:** The second question is a guess said as a fact, and the friend may not be cross at all. The first lets the friend say what they feel.. *Why:* A strong answer says that the face is only a clue, and that asking without blaming lets the friend answer honestly.
+14. (write) Design a test to find out if people yawn when they can only hear a yawn, not see it. Say what you would change and what you would keep the same.  
+   **Answer:** A strong answer plays a recorded or hidden yawn and a plain sound (such as a cough) for the same time to the same people, and counts yawns in each. Only the sound changes.. *Why:* It is a fair test: one thing changes, everything else stays the same.
+15. (sort) Sort these into a clue about a feeling and the surest way to know it.  
+   **Answer:** a frowning face → A clue; a wobbling chin → A clue; a polite smile → A clue; asking 'How are you feeling?' → The surest way; listening to the answer → The surest way; a hand held over the mouth → A clue. *Why:* Faces and body signs give clues that can be mixed up. Asking and listening is how you know.
 
 ## Videos
 - **Are there universal expressions of emotion? - Sophie Zadeh** (TED-Ed, 5 min) id `-hr58Yu0yDs`: A clear cartoon about Darwin, Ekman and the argument over whether faces mean the same thing everywhere. Best for the parent and older children. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Are there universal expressions of emotion? - Sophie Zadeh', channel TED-Ed). Not watched from here: a parent should preview it.
@@ -580,34 +569,31 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 2. (mcq) When you are scared, what happens to your heart?  
    Options: It stops / It beats faster / It beats slower / Nothing happens  
    **Answer:** It beats faster. *Why:* Fear releases adrenaline, which makes the heart beat faster so the body is ready to act.
-3. (mcq) Kavya hides her mouth and makes a face with her eyebrows up and her eyes wide. What could she be feeling?  
-   Options: Only scared / Only surprised / Scared or surprised, and you would need to ask / Sad  
-   **Answer:** Scared or surprised, and you would need to ask. *Why:* Both scared and surprised lift the eyebrows and widen the eyes. The face alone is not enough to tell.
-4. (mcq) What is the surest way to know how a friend feels?  
-   Options: Look at her face / Ask her kindly / Guess from her clothes / Ask someone else  
-   **Answer:** Ask her kindly. *Why:* A face gives clues, but faces can be mixed up or hidden. Asking lets her tell you.
-5. (mcq) How many hours of sleep does a child of 8 need each night?  
+3. (mcq) What is the surest way to know how a friend feels?  
+   Options: Look at their face / Ask them kindly / Guess from their clothes / Ask someone else  
+   **Answer:** Ask them kindly. *Why:* A face gives clues, but faces can be mixed up or hidden. Asking lets them tell you.
+4. (mcq) How many hours of sleep does a child of 8 need each night?  
    Options: About 5 / About 7 / About 9 to 12 / About 15  
    **Answer:** About 9 to 12. *Why:* Children aged 6 to 12 need about 9 to 12 hours of sleep a night.
-6. (mcq) Arjun's cousin says 'No, I don't want a hug.' What shows respect?  
+5. (mcq) Ananya's little cousin says 'No, I don't want a hug.' What shows respect?  
    Options: Hug her anyway / Say 'OK' and give her a wave instead / Tell her she is rude / Laugh  
    **Answer:** Say 'OK' and give her a wave instead. *Why:* Respect means listening when someone says no about their own body.
-7. (mcq) What did scientists find when toddlers gave treats away?  
+6. (mcq) What did scientists find when toddlers gave treats away?  
    Options: They cried / They looked happier than when they got treats / They did not notice / They became angry  
    **Answer:** They looked happier than when they got treats. *Why:* In the study, children under two looked happier giving a treat than getting one.
-8. (mcq) What did Guillaume Duchenne find about a real smile?  
+7. (mcq) What did Guillaume Duchenne find about a real smile?  
    Options: It uses only the mouth / It also uses a muscle around the eye that crinkles the eye corner / It uses the ears / Real and polite smiles are the same  
    **Answer:** It also uses a muscle around the eye that crinkles the eye corner. *Why:* Duchenne found a happy smile lifts the cheeks and crinkles the eye corners. A polite smile often uses only the mouth.
-9. (mcq) Charles Bell said animals do not have the face muscles people use to show feelings. Who showed he was wrong?  
+8. (mcq) Charles Bell said animals do not have the face muscles people use to show feelings. Who showed he was wrong?  
    Options: Charles Darwin / Paul Ekman / Duchenne's visitors / Nobody  
    **Answer:** Charles Darwin. *Why:* Darwin compared people with apes, monkeys and dogs and found shared muscles and expressions.
-10. (mcq) Nila feels her tummy flutter before a dance show. Where is this feeling happening?  
+9. (mcq) Kavya feels her tummy flutter before a dance show. Where is this feeling happening?  
    Options: Only in her mind / In her body as well as her mind / Only in her feet / Nowhere  
    **Answer:** In her body as well as her mind. *Why:* Nervousness changes the body, including the tummy. A feeling happens in the whole body.
-11. (mcq) Which helps a big angry feeling settle best?  
+10. (mcq) Which helps a big angry feeling settle best?  
    Options: Shouting louder / Hitting a pillow while thinking about the person / Stopping, breathing slowly and naming the feeling / Hiding it forever  
    **Answer:** Stopping, breathing slowly and naming the feeling. *Why:* Stopping and naming the feeling helps it settle. A 2002 study found hitting a punching bag while angry made people more aggressive.
-12. (mcq) In the Face Test, which feeling is usually easiest to read from the mouth alone?  
+11. (mcq) In the Face Test, which feeling is usually easiest to read from the mouth alone?  
    Options: Scared / Happy / Surprised / Angry  
    **Answer:** Happy. *Why:* A happy mouth turns up, which is very easy to see. Scared, surprised and angry show more in the eyes and eyebrows.
 
@@ -640,26 +626,20 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - Which feeling did you have most today?
 
 ## Jokes
-- Why did the tomato blush? *Because it saw the salad dressing.*
-- What did the big flower say to the little flower? *Hi, bud!*
 - Why was the maths book sad? *It had too many problems.*
 - Why did the bicycle fall over? *Because it was two-tired.*
 - What did one plate say to the other plate? *Lunch is on me!*
 - Why did the cookie go to the doctor? *Because it was feeling crumby.*
-- What do you call a yawn that spreads around the room? *A yawn-o-mania!*
 - Why did the student bring a ladder to school? *Because she wanted to go to high school.*
 - What did the calendar say when it felt nervous? *My days are numbered!*
-- Why did the idli feel so calm? *It had been steamed, not stirred.*
-- What do you call a sad cup of coffee? *A depresso.*
 - Why are fish so clever? *Because they live in schools.*
 - Why did the sun not go to college? *Because it already had a million degrees.*
 - What did the ocean say to the beach? *Nothing, it just waved.*
-- How do you make a tissue dance? *Put a little boogie in it.*
 
 ## Connected maths
-- In the Face Test, Meenakshi got 'happy' right 3 times out of 3, 'angry' 2 times, 'surprised' 2 times and 'scared' only 1 time. How many faces did she get right altogether, out of these 12? Which feeling was hardest? **8 out of 12. Scared was hardest.**. 3 + 2 + 2 + 1 = 8. She got 8 of the 12 faces right. Scared had the fewest right, only 1 of 3, because it was mixed up with surprised. (queues `math.data.bar-charts.L3`)
-- Divya goes to bed at 9 at night and wakes at 6:30 in the morning. How long does she sleep? Is it enough for a child of 8? **9 and a half hours. Yes, it is enough.**. From 9 at night to 6 in the morning is 9 hours. 6 to 6:30 is another half hour. So 9 and a half hours. Children need about 9 to 12 hours, so this is enough. (queues `math.time.duration.L3`)
-- In the Real or Polite test, Ravi got 9 of 10 smiles right. His sister Revathi got 5 of 10. Who probably read the eyes, and who was probably guessing? **Ravi probably read the eyes. Revathi's score is what guessing would give.**. With two choices, random guessing gives about 5 out of 10. Revathi's 5 is what luck alone gives. Ravi's 9 is far above that, so he was seeing a real clue. (queues `math.probability.likely-and-unlikely.L3`)
+- In the Face Test, Meenakshi, a girl in Class 3, got 'happy' right 3 times out of 3, 'angry' 2 times, 'surprised' 2 times and 'scared' only 1 time. How many faces did she get right altogether, out of these 12? Which feeling was hardest? **8 out of 12. Scared was hardest.**. 3 + 2 + 2 + 1 = 8. She got 8 of the 12 faces right. Scared had the fewest right, only 1 of 3, because it was mixed up with surprised. (queues `math.data.bar-charts.L3`)
+- Sowmya goes to bed at 9 at night and wakes at 6:30 in the morning. How long does she sleep? Is it enough for a child of 8? **9 and a half hours. Yes, it is enough.**. From 9 at night to 6 in the morning is 9 hours. 6 to 6:30 is another half hour. So 9 and a half hours. Children need about 9 to 12 hours, so this is enough. (queues `math.time.duration.L3`)
+- In the Real or Polite test, Anita got 8 of 10 smiles right. Her cousin Mohan got 5 of 10. Who probably read the eyes, and who was probably guessing? **Anita probably read the eyes. Mohan's score is what guessing would give.**. With two choices, random guessing gives about 5 out of 10. Mohan's 5 is what luck alone gives. Anita's 8 is well above that, so she was seeing a real clue. (queues `math.probability.likely-and-unlikely.L3`)
 - In the Catch a Yawn test, four family members watched yawns for 3 minutes. They yawned 3, 0, 2 and 3 times. While watching smiles, they yawned 0, 0, 1 and 0 times. How many more yawns were there altogether when watching yawns? **7 more yawns.**. Watching yawns: 3 + 0 + 2 + 3 = 8. Watching smiles: 0 + 0 + 1 + 0 = 1. 8 minus 1 is 7. One person yawned 0 times in both rounds, so not everyone catches yawns. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
@@ -672,7 +652,6 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song
 - [Kerala Kalamandalam](https://www.kalamandalam.ac.in/) · place · Cheruthuruthy, near Thrissur: A school for Kathakali and other Kerala arts. Kathakali dancers train their eyes for years to show feelings.
 
 ## Things to buy
-- [The Color Monster: A Story About Emotions, by Anna Llenas (picture book)](https://www.amazon.in/s?k=the+color+monster+anna+llenas) (book): A picture book in which feelings are sorted into jars by colour. It helps younger children name feelings. Not needed if you don't have it. Used in a1. Read it aloud on the first day, before or after 'How Many Feelings Can You Name?'.
 
 ## Warm-up
 - Name two feelings that are easy to mix up on a face. → Scared and surprised. Both lift the eyebrows and open the eyes wide.

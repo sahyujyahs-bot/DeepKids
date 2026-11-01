@@ -19,7 +19,7 @@
 - **Evidence**: Something you can see, hear, count or measure that shows whether a claim is true. *e.g.* Looking at the clock and counting the numbers is evidence. Remembering the clock is not as good.
 - **Source**: Where a claim comes from: the person, book, message or place that said it. *e.g.* If a message says 'NASA says', the source should be NASA. You can check NASA's own website.
 - **Check**: To look at the real thing, or ask someone who really knows, to see if a claim is true. *e.g.* Meenakshi checked how many steps go up to her floor by counting them as she climbed.
-- **Sure**: How certain a person feels about an answer. Being sure is a feeling. It is not evidence. *e.g.* Appa was very sure the gas stove had three burners. When he looked, it had four.
+- **Sure**: How certain a person feels about an answer. Being sure is a feeling. It is not evidence. *e.g.* A man at home was very sure the gas stove had three burners. When he looked, it had four.
 - **Sample**: The part of something that you look at, to learn about the whole thing. *e.g.* One spoonful from the top of a dal jar is a sample of the jar.
 - **Who is missing**: The people or things that were left out of the evidence. Leaving them out can change the answer. *e.g.* If you ask only grown-ups whether the rasam is too spicy, the children's answer is missing.
 - **Myth**: A story that many people repeat and believe, but that checking has shown to be wrong. *e.g.* Many people say a goldfish forgets everything in three seconds. Tests show goldfish remember things for months.
@@ -56,7 +56,7 @@ Some claims sound true because we hear them so often. "Lightning never strikes t
 ### Who is missing? Evidence that leaves things out · *defined*
 **Definition:** If evidence comes from only some people or some parts of a thing, the answer may be wrong for the rest. Asking 'who is missing?' finds the gaps.
 
-Suppose you want to know if the rasam is too spicy. You ask Amma and Appa, and they say no. But nobody asked your little brother. His answer is missing, and it might be different. Scientists make this mistake too. For many years, most crash tests for cars used a dummy built to the size of an average man. Studies later found that women were more likely to be badly hurt in similar crashes. Women's bodies had been missing from the tests. Now some tests use dummies of other sizes too.
+Suppose you want to know if the rasam is too spicy. You ask your parents, and they say no. But nobody asked the youngest child in the house. Their answer is missing, and it might be different. Scientists make this mistake too. For many years, most crash tests for cars used a dummy built to the size of an average man. Studies later found that women were more likely to be badly hurt in similar crashes. Women's bodies had been missing from the tests. Now some tests use dummies of other sizes too.
 - e.g. In the Top-Spoon Test, a spoonful from the top of the jar left out the moong at the bottom.
 - e.g. A survey of only the children in a building cannot say what the grandparents think.
 - e.g. For many years, many new medicines were tested mostly on men, so less was known about how they worked for women.
@@ -114,7 +114,7 @@ We have tested how often people are sure and wrong, and learned to ask: says who
 - *what is life:* Every living thing acts on what they sense and remember. A crow comes back each morning to the balcony where rice was put out before, and looks to see if there is more.
 - *what is this world:* The world is the same whatever anyone believes about it. That is why two people who check carefully end up agreeing.
 
-Each person in your home carries their own picture of the flat in their memory. The pictures differ a little, and each one feels sure. But there is only one flat, and when everyone goes and looks, the pictures come together. Many views, one world: checking is how the many come back to the one.
+Each person in your home carries their own picture of the flat in their memory. The pictures differ a little, and each one feels sure. But there is only one flat, and when everyone goes and looks, the pictures come together.
 
 - **Kalama Sutta, Anguttara Nikaya 3.65:** The Buddha told the Kalama people not to accept a teaching only because it is repeated, or written in a book, or because the teacher is respected. When you know for yourselves that it is true and good, then accept it. (Paati was respected and the crow saying was old and often repeated. Meenakshi did what the Buddha advised: she found out for herself, with a tally.)
 - **Jain anekantavada, many-sidedness, and the story of the blind men and the elephant:** Several blind men touch one elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is sure, and each has only a part. (In the Top-Spoon Test, the top spoonful was sure the jar was all chana. It had only a part. Asking 'who is missing?' is asking what part of the elephant we have not touched.)
@@ -203,21 +203,21 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 
 ## Games
 ### g1 · Checked or Only Sounds True? a card game (15 min)
-- **rules:** Each player has a CHECKED card and an ONLY SOUNDS TRUE card. Shuffle the 16 claim cards and put them face down.; One player reads the top claim card aloud, without reading the answer in brackets.; Everyone holds up CHECKED or ONLY SOUNDS TRUE at the same time.; One point for the right card.; One more point for saying how someone could find out, such as 'look inside an octopus' or 'count your pulse'.; Take turns to read. The game ends when all the cards are read. Most points wins.; Playing alone: read each card, decide, then check the answer in brackets. Keep your own score out of 16.
-- **Printable cards: 16 claim cards:** A goldfish forgets everything after three seconds. (Only sounds true. Scientists have trained goldfish to come to a sound at feeding time, and they remembered it for months.); An octopus has three hearts. (Checked. Scientists have looked inside octopuses: two hearts pump blood to the gills and one to the rest of the body.); Lightning never strikes the same place twice. (Only sounds true. Very tall buildings are struck by lightning many times every year.); A camel stores water in their hump. (Only sounds true. The hump is mostly fat. A camel uses it when food is short.); Your heart beats faster when you run. (Checked. Count your pulse for 15 seconds before and after running on the spot, and see.); Bulls charge at a red cloth because they hate red. (Only sounds true. Bulls cannot tell red from green well. In tests, they charged at a moving cloth whatever its colour.); An ostrich buries their head in the sand to hide. (Only sounds true. Ostriches lower their heads to turn their eggs in a nest in the ground. From far away, it can look like they are hiding.); We use only one tenth of our brain. (Only sounds true. Brain scans show that every part of the brain is busy at some time during a day.); The Moon makes its own light. (Only sounds true. The Moon shines with sunlight bouncing off it. That is why we see only the lit part.); A crow can remember a person's face. (Checked. In the USA, scientists wore a mask while they caught and ringed crows. For years after, crows scolded anyone wearing that mask.); Plants grow towards light. (Checked. Put a potted plant by a window for a week. The shoots lean towards the window.); Swallowed chewing gum stays in your stomach for seven years. (Only sounds true. It passes through the body in a few days, like other things the body does not digest.); Bats are blind. (Only sounds true. Bats can see. Many kinds also find their way in the dark by listening to echoes.); Water boils at a lower temperature high up on a mountain. (Checked. Climbers have measured it with thermometers many times.); Wild snakes drink milk. (Only sounds true. Wild snakes eat animals such as rats, frogs and eggs, and drink water.); Sound cannot travel through empty space. (Checked. A bell ringing inside a jar goes quiet when the air is pumped out of the jar.)
-- **Printable cards: One CHECKED card and one SOUNDS TRUE card for each player:** CHECKED; ONLY SOUNDS TRUE
-- **Printable score sheet: Score sheet:** Player name; Points: 1 for the right card, 1 more for saying how someone could find out
+- **rules:** Each player takes one CHECKED card and one ONLY SOUNDS TRUE card. Shuffle the 16 claim cards and make a pile with the claim side up.; The reader takes the top card and reads the claim aloud. The answer is on the back, so the reader does not turn it over yet.; Everyone, the reader too, holds up CHECKED or ONLY SOUNDS TRUE at the same time.; Turn the card over and read the answer. Each player with the right card gets one point.; Then each player says how someone could find out, such as 'look inside an octopus' or 'count your pulse'. One more point for each good way.; Take turns to be the reader. The game ends when all 16 cards are read. Most points wins. If points are equal, you share the win.; Playing alone: read the claim, decide, then turn the card over. Keep your own score out of 16.
+- **Printable cards: 16 claim cards:** A goldfish forgets everything after three seconds. (back: Only sounds true. Scientists have trained goldfish to come to a sound at feeding time, and they remembered it for months.); An octopus has three hearts. (back: Checked. Scientists have looked inside octopuses: two hearts pump blood to the gills and one to the rest of the body.); Lightning never strikes the same place twice. (back: Only sounds true. Very tall buildings are struck by lightning many times every year.); Camels store water in their humps. (back: Only sounds true. The hump is mostly fat. A camel uses the fat when food is short.); Your heart beats faster when you run. (back: Checked. Count your pulse for 15 seconds before and after running on the spot, and see.); Bulls charge at a red cloth because they hate red. (back: Only sounds true. Bulls cannot tell red from green well. In tests, they charged at a moving cloth whatever its colour.); Ostriches bury their heads in the sand to hide. (back: Only sounds true. Ostriches lower their heads to turn their eggs in a nest in the ground. From far away, it can look like they are hiding.); We use only one tenth of our brain. (back: Only sounds true. Brain scans show that every part of the brain is busy at some time during a day.); The Moon makes its own light. (back: Only sounds true. The Moon shines with sunlight bouncing off it. That is why we see only the lit part.); A crow can remember a person's face. (back: Checked. In the USA, scientists wore a mask while they caught and ringed crows. For years after, crows scolded anyone wearing that mask.); Plants grow towards light. (back: Checked. Put a potted plant by a window for a week. The shoots lean towards the window.); Swallowed chewing gum stays in your stomach for seven years. (back: Only sounds true. It passes through the body in a few days, like other things the body does not digest.); Bats are blind. (back: Only sounds true. Bats can see. Many kinds also find their way in the dark by listening to echoes.); Water boils at a lower temperature high up on a mountain. (back: Checked. Climbers have measured it with thermometers many times.); Wild snakes drink milk. (back: Only sounds true. Wild snakes eat animals such as rats, frogs and eggs, and drink water.); Sound cannot travel through empty space. (back: Checked. A bell ringing inside a jar goes quiet when the air is pumped out of the jar.)
+- **Printable cards: 8 answer cards: 4 CHECKED and 4 ONLY SOUNDS TRUE (2 players use 4 of them):** CHECKED; CHECKED; CHECKED; CHECKED; ONLY SOUNDS TRUE; ONLY SOUNDS TRUE; ONLY SOUNDS TRUE; ONLY SOUNDS TRUE
+- **Printable score sheet: Score sheet for up to 4 players:** Name: ____________   Points: ______; Name: ____________   Points: ______; Name: ____________   Points: ______; Name: ____________   Points: ______
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Give each player a CHECKED and an ONLY SOUNDS TRUE card. 3. Shuffle the claim cards.  
   *Parent says:* Each card has a claim. Some were checked and found true. Some only sound true. You decide which.  
   *Child mode:* Each card has a claim. Was it checked, or does it only sound true?
 - **s2 (3 min)**  
-  *Parent does:* Read the goldfish card as a practice round.  
+  *Parent does:* Take the goldfish card out of the pile and read it first as a practice round. It counts like any other card.  
   *Parent says:* A goldfish forgets everything after three seconds. Checked, or only sounds true?  
   *Child mode:* A goldfish forgets everything in three seconds. Checked or only sounds true?
   - Check: Many people say a goldfish forgets everything after three seconds. Scientists trained goldfish to come to a sound at feeding time. Months later, the fish still came. What does this show? → **Goldfish remember for much longer than three seconds**
 - **s3 (8 min)**  
-  *Parent does:* Play the rest of the cards. Take turns to read. Give points as in the rules.  
+  *Parent does:* Play the other 15 cards. Take turns to read. Give points as in the rules.  
   *Parent says:* Now tell me how someone could find out. That's where the extra point is.  
   *Child mode:* Hold up your card. Then say how someone could find out.
   - Ask: How could someone find out if bats are blind? (good: Test whether bats react to light or to things they can see.; Watch bats with a camera in the dark and in the light.)
@@ -227,10 +227,10 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Parent says:* Which claim surprised you most? Had you believed it before today?  
   *Child mode:* Which card surprised you most? Did you believe it before?
 ### g2 · Who Would Know? a source-picking game (10 min)
-- **rules:** Turn over a source card and read the claim and the two sources.; Pick the better source.; Say why it is better: did they see it, measure it, or write it down at the time?; One point for the source, one for the reason.
-- **Printable cards: 8 source cards:** 'It will rain in Chennai tomorrow.' Who would know better: a neighbour whose knee aches before rain, or the weather office? (The weather office. It measures air, wind and clouds across the country every day.); 'The train to Madurai leaves at 6:15.' Who would know better: a friend who went last year, or the railway timetable for today? (The timetable. Times can change, and the railway sets them.); 'Paati's favourite festival is Pongal.' Who would know better: a cousin, or Paati? (Paati. Only she knows what she likes best.); 'This cut needs stitches.' Who would know better: a message on a phone, or a doctor who looks at the cut? (The doctor. She has seen the cut and is trained to judge it.); 'Our flat has seven windows.' Who would know better: Appa's memory, or counting them now? (Counting them now. Memory can be wrong, as the Sure or Right? test showed.); 'The match yesterday ended in a draw.' Who would know better: a friend who heard it from a friend, or the scorecard? (The scorecard. It was written as the match was played.); 'This medicine is safe for children.' Who would know better: an advert, or a doctor and the tests the medicine went through? (The doctor and the tests. An advert is trying to sell.); 'Crows were calling on our balcony this morning.' Who would know better: a guess, or the tally you wrote this morning? (The tally. It was written at the time.)
+- **rules:** Take the top card and read the claim and the two sources aloud. Do not turn the card over yet.; Each player picks the better source.; Say why it is better: did they see it, measure it, or write it down at the time?; Turn the card over and read the answer. One point for the right source, one for a good reason.; Take turns to read. The game ends after all 8 cards. Most points wins. If points are equal, you share the win.; Playing alone: pick and give your reason, then turn the card over. Keep your score out of 16.
+- **Printable cards: 8 source cards:** Claim: 'It will rain in Chennai tomorrow.' Who would know better: a neighbour whose knee aches before rain, or the weather office? (back: The weather office. It measures air, wind and clouds across the country every day.); Claim: 'The train to Guwahati leaves at 6:15 tomorrow.' Who would know better: a friend who travelled last year, or today's railway timetable? (back: The timetable. Times can change, and the railway sets them.); Claim: 'My grandmother's favourite festival is Durga Puja.' Who would know better: a cousin, or the grandmother herself? (back: The grandmother herself. Only she knows what she likes best.); Claim: 'This cut needs stitches.' Who would know better: a message on a phone, or a doctor who looks at the cut? (back: The doctor. The doctor has seen the cut and is trained to judge it.); Claim: 'Our flat has seven windows.' Who would know better: someone's memory of the flat, or counting the windows now? (back: Counting them now. Memory can be wrong, as the Sure or Right? experiment showed.); Claim: 'The match yesterday ended in a draw.' Who would know better: a friend who heard it from a friend, or the scorecard? (back: The scorecard. It was written as the match was played.); Claim: 'This medicine is safe for children.' Who would know better: an advert, or a doctor and the tests the medicine went through? (back: The doctor and the tests. An advert is trying to sell.); Claim: 'Crows were calling on our balcony this morning.' Who would know better: a guess made at night, or a note written this morning as the crows called? (back: The note. It was written at the time.)
 - **s1 (2 min)**  
-  *Parent does:* Read the first card, the rain in Chennai, aloud.  
+  *Parent does:* Read the Chennai card, the first one, aloud.  
   *Parent says:* Who would know better if it will rain tomorrow: a neighbour whose knee aches, or the weather office? Why?  
   *Child mode:* Who would know better about rain: the knee, or the weather office?
   - Check: Who would know better whether it will rain in Chennai tomorrow? → **The weather office, which measures air, wind and clouds every day**
@@ -238,8 +238,8 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Parent does:* Go through the other cards. Let your child pick and give a reason before you read the answer.  
   *Parent says:* Which is the better source? Did they see it, measure it, or write it down at the time?  
   *Child mode:* Pick the better source. Did they see it, or measure it?
-  - Ask: Why is Paati the best source about her favourite festival? (good: Because only Paati knows what she likes.; Because it is about her own feelings.)
-  - Note: Notice that the best source changes with the claim. For the weather, it is the people who measure. For Paati's favourite festival, it is Paati herself.
+  - Ask: Why is the grandmother herself the best source about her own favourite festival? (good: Because only she knows what she likes.; Because it is about her own feelings.)
+  - Note: Notice that the best source changes with the claim. For the weather, it is the people who measure. For a grandmother's favourite festival, it is the grandmother herself.
 - **s3 (1 min)**  
   *Parent does:* Ask what all the good sources had in common.  
   *Parent says:* What did all the good sources have in common?  
@@ -250,14 +250,13 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **question:** When people are very sure about something in their own home, are they always right?
 - **predict:** Think of the grown-ups in your home. When they say 'I'm very sure', will they always be right? Will a 'just guessing' answer ever be right? Why do you think so?
 - **fair test:** Everyone gets the same questions, in the same words, read the same way. Nobody may look at the thing or go to it before answering. Each person answers alone, out of earshot of the others, so nobody copies. Each person says how sure they are before anyone checks. We check every answer by looking at the real thing, in the same way for everyone.
-- **safety:** Count the stairs only with a grown-up, and walk, don't run. Don't open the fridge or the gas stove to check. Look from where you stand.
 - **record:** Fill in the table. Then count three numbers for each colour: how many answers were given, how many were right, how many were wrong. Write them in a small box at the bottom of the page.
 - **results table:** Question | Person | Their answer | How sure (very sure, a bit sure, just guessing) | Right or wrong, after checking
 - **s1 (6 min)**  
   *Parent does:* 1. Read out the list of question ideas in the note below. 2. Your child picks 8 that can be checked in your home. 3. Write them down the side of the page.  
   *Parent says:* We are going to ask the family questions about our own home. Pick questions we can check by looking.  
   *Child mode:* Pick 8 questions about your home. Each one must be easy to check.
-  - Note: Question ideas: How many numbers are written on our wall clock? How many windows does our flat have? How many burners does our gas stove have? Which way does the kitchen tap turn to open, like a clock's hands or the other way? What colour is the cap of the toothpaste? How many steps go up from the ground to our floor? Which hand does Amma wear her watch on? What is the first word printed on the milk packet? Mix a few easy ones with a few hard ones.
+  - Note: Question ideas: How many numbers are written on our wall clock? How many windows does our flat have? How many burners does our gas stove have? Which way does the kitchen tap turn to open, like a clock's hands or the other way? What colour is the cap of the toothpaste? How many ceiling fans are in the flat? Which wrist does one person at home wear a watch on? What is the first word printed on the milk packet? Mix a few easy ones with a few hard ones.
 - **s2 (4 min)**  
   *Parent does:* Help your child draw the results table with a ruler. Then ask for a prediction and a reason.  
   *Parent says:* Before we ask anyone: do you think the very sure answers will all be right? Why do you think so?  
@@ -273,19 +272,19 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Parent does:* Now go round the home together and check every answer. Count the windows, look at the clock, turn the tap. Mark each answer right or wrong.  
   *Parent says:* Now we find out. Let's go and look at each thing. Was the answer right or wrong?  
   *Child mode:* Now go and look at each thing. Was each answer right or wrong?
-  - Check: Appa was very sure the clock has all 12 numbers. How do we find out if he is right? → **Look at the clock**
+  - Check: A grown-up at home was very sure the clock has all 12 numbers. How do we find out if they are right? → **Look at the clock**
 - **s5 (5 min)**  
   *Parent does:* 1. Count the green answers, and how many of them were wrong. Do the same for yellow and red. 2. Ask your child for a claim, the evidence and a reason. 3. Then read the card 'Being sure is not the same as being right'.  
   *Parent says:* What did you find out? What did you see that shows it? Why do you think it happened?  
   *Child mode:* Count each colour. How many were wrong? What did you find out?
-  - Ask: Were all the very sure answers right? (good: No. Two green answers were wrong.; Most green answers were right, but Paati was very sure about the windows and got it wrong.)
+  - Ask: Were all the very sure answers right? (good: No. Two green answers were wrong.; Most green answers were right, but one grandparent was very sure about the windows and got it wrong.)
   - Ask: Why might someone be sure and wrong about their own home? (good: They see it every day but don't look closely.; They remember it wrong.; They remember an old clock, not this one.)
-  - Note: Most families find at least one very sure answer that is wrong. Often the very sure answers are right more often than the guesses, and that is worth noticing too. If every green answer was right, ask: did we pick only easy questions? Try three harder ones, such as the steps or the tap.
+  - Note: Most families find at least one very sure answer that is wrong. Often the very sure answers are right more often than the guesses, and that is worth noticing too. If every green answer was right, ask: did we pick only easy questions? Try three harder ones, such as the tap or the milk packet.
 ### e2 · The Top-Spoon Test: does one spoonful tell you about the whole jar? (20 min)
 - **question:** Does a spoonful from the top of a jar show what the whole jar holds?
-- **predict:** If you take one spoonful from the top of the jar, will it show both kinds of dal? What about after the jar is shaken? Why do you think so?
+- **predict:** If you take one spoonful from the top of the jar, will it show both kinds of dal? What about after the dal is mixed? Why do you think so?
 - **fair test:** The thing we change: where the sample comes from, and whether the jar was mixed. The things we keep the same: the same jar, the same spoon, a level spoonful each time. What we count: how many grains of each kind are in each spoonful.
-- **safety:** Do this away from small children who might put grains in their mouth or nose. Put the grains back into their tins afterwards.
+- **safety:** Do this away from small children who might put grains in their mouth or nose.
 - **record:** Fill in the table. Then draw the jar as it looked before mixing and after mixing.
 - **results table:** Sample | Where it came from | Chana grains | Moong grains | What this sample says the jar holds
 - **s1 (4 min)**  
@@ -304,7 +303,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Child mode:* Look at the jar from the side. Was the spoonful right?
   - Check: The top spoonful had only chana. Why was it wrong about the jar? → **The moong at the bottom was missing from the sample**
 - **s4 (6 min)**  
-  *Parent does:* 1. Tip everything onto a big plate, mix it well with clean hands, and pour it back into the jar. 2. Take three spoonfuls from three places: the top, the middle and near the bottom. 3. Count each one and write the numbers.  
+  *Parent does:* 1. Tip everything onto the large plate, mix it well with clean hands, and pour it back into the jar. 2. Take three spoonfuls from three depths: push the spoon down for the top, the middle and near the bottom. 3. Count each one and write the numbers.  
   *Parent says:* Now the dal is mixed. Take three spoonfuls from three places. Do they agree with each other now?  
   *Child mode:* Mix the dal. Take three spoonfuls from three places. Count each.
   - Ask: What do the three spoonfuls say now? (good: They all have both kinds.; They have some of each, but not exactly the same numbers.)
@@ -317,84 +316,79 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 
 ## Activities
 ### a1 · One True, One Made Up (8 min)
-- **safety:** No safety worries.
 - **record:** Write the two claims. Under each, write one way to check it.
 - **s1 (3 min)**  
   *Parent does:* Say both claims in exactly the same sure voice, with a straight face.  
-  *Parent says:* Here are two facts. An octopus has three hearts. A crow can count up to one hundred. One is true and one I made up. Which one is true?  
+  *Parent says:* Here are two facts. A snail has thousands of tiny teeth. A crow can count up to one hundred. One is true and one I made up. Which one is true?  
   *Child mode:* Listen to two facts. One is true. One is made up. Which is true?
-  - Ask: Which one is true? Why do you think so? (good: The octopus one, because I've heard it before.; I can't tell, you said them both the same way.)
-  - Note: The octopus claim is true: an octopus has two hearts that pump blood to the gills and one for the rest of the body. The crow claim is made up. Don't say which is true yet.
+  - Ask: Which one is true? Why do you think so? (good: The snail one, because I have heard that before.; I can't tell, you said them both the same way.)
+  - Note: The snail claim is true: a snail's tongue is covered in rows of tiny teeth, thousands of them. The crow claim is made up. Don't say which is true yet.
 - **s2 (3 min)**  
   *Parent does:* Ask how your child could find out, without asking you.  
   *Parent says:* I said them both the same way, so my voice can't help you. How could you find out which one is true, without asking me?  
   *Child mode:* The voice was the same. How could you find out which is true?
   - Ask: How could you find out? (good: Look it up in a book about animals.; Ask someone who studies octopuses.; Find out how scientists know.)
 - **s3 (2 min)**  
-  *Parent does:* Tell your child which was true. Then try one more pair: 'A camel stores water in their hump' and 'Your heart beats faster when you run.'  
-  *Parent says:* The octopus one is true. Scientists have looked inside octopuses and counted. Now, a camel stores water in their hump, or your heart beats faster when you run. Which can you check right now?  
-  *Child mode:* Which one can you check yourself, right now?
+  *Parent does:* Tell your child which was true. Then try one more claim to check right now. Claim: with arms stretched wide, the length from fingertip to fingertip is about your height. Use the string.  
+  *Parent says:* The snail one is true. People looked at snail tongues under a microscope and counted the teeth. Now here is a claim you can check yourself, right now. With your arms stretched out wide, the length from fingertip to fingertip is about your height. Stretch the string along your arms, then hold it up against your height. Is it about the same?  
+  *Child mode:* Stretch your arms out wide. Is that length about your height? Check with the string.
   - Check: A grown-up says two facts in the same sure voice. What helps you decide which one is true? → **Evidence: a way to check**
 ### a2 · Three Questions on a Message (12 min)
-- **safety:** No safety worries.
 - **record:** For each message, write the answer to one of the three questions.
 - **s1 (2 min)**  
   *Parent does:* Write the three questions on a card where your child can see them: Says who? How do they know? Who is missing?  
   *Parent says:* Here are three questions we can ask about anything we hear. Says who? How do they know? Who is missing?  
   *Child mode:* Here are three questions. Says who? How do they know? Who is missing?
 - **s2 (8 min)**  
-  *Parent does:* Read each message card. After each, your child picks the question that shows the biggest problem with it. The message cards: 1. 'Scientists say this cream makes everyone's skin glow.' 2. 'NASA says the Earth will go dark for six days next month. Forward to everyone!' 3. 'I asked my three best friends and they all love cricket. So every child loves cricket.' 4. 'My uncle tried this tea once and his cold went away the next day. It cures colds!' 5. 'The weather office says heavy rain is likely in Chennai tomorrow.'  
+  *Parent does:* Read each message card. After each, your child picks the question that shows the biggest problem with it. The message cards: 1. 'Scientists say this cream makes everyone's skin glow.' 2. 'NASA says the Earth will go dark for six days next month. Forward to everyone!' 3. 'I asked my three best friends and they all love maths homework. So every child loves maths homework.' 4. 'My uncle tried this tea once and his cold went away the next day. It cures colds!' 5. 'The weather office says heavy rain is likely in Chennai tomorrow.'  
   *Parent says:* Here is a message. Which of the three questions shows what's wrong with it? Or is this one a good source?  
   *Child mode:* Read the message. Which question shows what is wrong?
-  - Ask: What is wrong with the cricket message? (good: Who is missing: only three friends were asked.; Children who don't like cricket were not asked.)
+  - Ask: What is wrong with the maths homework message? (good: Who is missing: only three friends were asked.; Children who don't love maths homework were not asked.)
   - Ask: What is wrong with the tea message? (good: How do they know? Colds often go away by themselves in a few days.; He only tried it once.)
-  - Note: Good answers: 1. Says who? Which scientists? 2. Says who? Did NASA say it? Check NASA's own website. A message like this did spread round the world, and NASA had never said it. 3. Who is missing? Only three friends were asked. 4. How do they know? Most colds go away in a few days anyway, so one try shows nothing. 5. This is a good source. The weather office measures the air and clouds every day.
+  - Note: Good answers: 1. Says who? Which scientists? 2. Says who? Did NASA say it? Check NASA's own website. A message like this did spread round the world, and NASA had never said it. 3. Who is missing? Only three friends were asked. Children who don't love maths homework were left out. 4. How do they know? Most colds go away in a few days anyway, so one try shows nothing. 5. This is a good source. The weather office measures the air and clouds every day.
 - **s3 (2 min)**  
   *Parent does:* Ask which message your child would trust most, and why.  
   *Parent says:* Which message would you trust most? Why?  
   *Child mode:* Which message would you trust most? Why?
-  - Check: Nila's uncle drank a herbal tea once, and his cold went away the next day. What is the biggest problem with saying the tea cures colds? → **Colds often go away by themselves, so one try shows nothing**
+  - Check: A message says, 'NASA says the Earth will go dark for six days.' What is the best way to check it? → **Look on NASA's own website to see if NASA said it**
 ### a3 · Be Clever Hans: the horse who read faces (12 min)
-- **safety:** No safety worries.
-- **record:** Write how many sums you got right each round.
-- **s1 (3 min)**  
-  *Parent does:* Tell the story of Clever Hans in a few words, using the context above.  
+- **record:** Write how many of the five sums you got right in each round.
+- **s1 (4 min)**  
+  *Parent does:* 1. Write ten easy sums on ten slips, each with an answer from 1 to 9, such as 2 + 3. Make two piles of five. 2. Tell the story of Clever Hans in a few words, using the context above.  
   *Parent says:* Hans was a horse in Berlin. People asked him sums, and he tapped his hoof the right number of times. Many experts were fooled. How do you think he did it?  
   *Child mode:* Hans was a horse who tapped out answers to sums. How did he do it?
-- **s2 (4 min)**  
-  *Parent does:* Round 1: You know the answer. Your child taps the spoon on the plate slowly and must stop at the right number without counting. As your child nears the answer, let your body relax a little, and lean back slightly at the right number.  
-  *Parent says:* Don't count. Just tap slowly and watch me. Stop when you think it's right. Here's the first: 2 plus 3.  
+- **s2 (3 min)**  
+  *Parent does:* Round 1: Take the first pile. Look at each sum on its slip, and keep it hidden from your child. Your child taps the spoon on the plate slowly and stops at the number that feels right. As your child nears the answer, let your body relax a little, and lean back slightly at the right number. After each sum, show the slip and mark right or wrong.  
+  *Parent says:* I am thinking of a sum. Don't count. Just tap slowly and watch me. Stop when you think it's right.  
   *Child mode:* Don't count. Tap slowly. Watch the grown-up's face. Stop when it feels right.
-  - Note: Pfungst found that questioners leaned forward while Hans tapped, and moved very slightly when he reached the answer, without meaning to. You do it on purpose here. Do five sums.
+  - Note: Pfungst found that questioners leaned forward while Hans tapped, and moved very slightly when he reached the answer, without meaning to. You do it on purpose here.
 - **s3 (4 min)**  
-  *Parent does:* Round 2: Someone else picks the sum slip and shows it only to your child. You watch, but you don't know the answer. Your child again taps without counting.  
-  *Parent says:* This time I don't know the answer. Tap and watch me, and stop when it feels right.  
+  *Parent does:* Round 2: Shuffle the second pile and put it face down. Your child takes the top slip without looking, and you do not look either. Your child taps and stops where it feels right. Then turn the slip over, read the sum, and mark right or wrong. Do all five.  
+  *Parent says:* This time I don't know the sum. Tap and watch me, and stop when it feels right.  
   *Child mode:* The grown-up doesn't know the answer now. Tap and watch. What happens?
-  - Note: If there is no third person, put the sum slips face down, shuffle them, and let your child pick one without looking. Neither of you knows the answer.
+  - Note: Neither of you knows the answer, so you cannot give any sign, even by accident. If your child gets only one or two right in round 2, that is the finding.
 - **s4 (1 min)**  
   *Parent does:* Compare the two rounds.  
   *Parent says:* When did you get more right? Why?  
   *Child mode:* Which round did you get more right? Why?
   - Check: Clever Hans got sums right when the person asking knew the answer. He got them wrong when nobody watching knew. What does that show? → **Hans was reading tiny signs from the person asking**
 ### a4 · Who Did We Leave Out? The Spice Survey (12 min)
-- **safety:** Ask neighbours only with a grown-up beside you.
 - **record:** Two tally charts: 'Grown-ups only' and 'Everyone'. Write one sentence on whether the answer changed.
 - **s1 (4 min)**  
   *Parent does:* Your child asks only the grown-ups: 'Should our rasam be more spicy, less spicy or the same?' Make a tally.  
   *Parent says:* First ask only the grown-ups. Should our rasam be more spicy, less spicy or the same?  
   *Child mode:* Ask only the grown-ups first. More spicy, less spicy or the same?
 - **s2 (5 min)**  
-  *Parent does:* Now your child asks everyone else too: children, grandparents, anyone on a phone call. Make a second tally that includes everyone.  
+  *Parent does:* Now your child asks everyone else too: other family at home and relatives on the phone. Add your child's own answer. Make a second tally that includes everyone.  
   *Parent says:* Now ask everyone else too. Who did we leave out the first time?  
   *Child mode:* Now ask everyone, children too. Who did you leave out before?
-  - Note: Any other question works if your family doesn't eat rasam: the best time for dinner, or how loud the TV should be.
+  - Note: Any other question works if your family doesn't eat rasam: the best time for dinner, or how loud the TV should be. If everyone at home is a grown-up, the relatives' answers and your child's own answer are the ones that were missing before.
 - **s3 (3 min)**  
   *Parent does:* Compare the two tallies.  
   *Parent says:* Did the answer change when everyone was asked? Whose answer was missing before?  
   *Child mode:* Did the answer change? Whose answer was missing?
-  - Check: Lakshmi asked only her parents if the rasam was too spicy. Both said no. What is the problem with saying 'Nobody thinks it's too spicy'? → **The children, and anyone else not asked, are missing**
+  - Check: Lakshmi, a girl aged 9, asked only her parents if the rasam was too spicy. Both said no. What is the problem with saying 'Nobody thinks it's too spicy'? → **The children, and anyone else not asked, are missing**
 ### a5 · The Passing Message (10 min)
-- **safety:** No safety worries.
 - **record:** Write the first message and the last message one under the other. Circle what changed.
 - **s1 (3 min)**  
   *Parent does:* Write a message on a slip of paper and fold it. Try this one: 'On Tuesday Divya saw two green parrots eating guava at seven.' Whisper it once to the first person.  
@@ -417,22 +411,22 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **record:** A table with one row per day: date, crow called (yes or no), guest came (yes or no). At the end, a box with four counts: crow and guest, crow and no guest, no crow and guest, no crow and no guest.
 - **schedule:** day 1: Choose the saying. Decide what counts as a guest and what counts as a crow calling. Draw the table and fill in day 1. (15 min); day 2: Fill in the table. (3 min); day 3: Fill in the table. (3 min); day 4: Fill in the table. (3 min); day 5: Fill in the table. (3 min); day 6: Fill in the table. (3 min); day 7: Fill in the last day, count the four boxes, and tell the family what you found. (20 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Choose the saying to test. The crow one works in most Indian cities. 2. Agree on the rules: what is a guest, and what counts as the crow calling. 3. Draw the table. 4. Fill in today.  
+  *Parent does:* 1. Choose the saying to test. The crow one works in most Indian cities. 2. Agree on the rules: what is a guest, and what counts as the crow calling in the morning (before 10). 3. Draw the table. 4. Fill in today.  
   *Parent says:* Many people say a calling crow means a guest is coming. Let's test it for a week. First, what counts as a guest?  
   *Child mode:* We will test a saying for a week. What counts as a guest?
   - Ask: What should count as a guest? (good: Someone who doesn't live here.; Not the milkman, because he comes every day.; Not a phone call.)
-  - Note: Deciding the rules first is important. If you decide afterwards, it is easy to count things that fit the saying. If your family has a different saying, such as 'an itchy palm means money is coming', test that instead.
-- **s2 (3 min)**  
+  - Note: Deciding the rules first is important. If you decide afterwards, it is easy to count things that fit the saying. If your family has a different saying, such as 'an itchy palm means money is coming', test that instead. In many cities a crow calls every morning. If that happens at your place, you will have no days without a crow, and that is a finding too (see the last step).
+- **s2 (15 min)**  
   *Parent does:* Each day, your child fills in the row: did a crow call in the morning, and did a guest come?  
   *Parent says:* Did a crow call this morning? Did anyone visit today? Write it down, even if nothing happened.  
   *Child mode:* Did a crow call? Did a guest come? Write it, even boring days.
   - Note: The boring days, with no guest, are the most important rows. They are the ones people forget.
-  - Wait: Do this once a day for 7 days, at bedtime.
+  - Wait: Do this at bedtime on days 2 to 6, about 3 minutes each day.
 - **s3 (20 min)**  
-  *Parent does:* 1. On day 7, count the four boxes. 2. Your child tells the family what they found, with the table as evidence.  
+  *Parent does:* 1. On day 7, fill in the last row, then count the four boxes. 2. Your child tells the family what they found, with the table as evidence.  
   *Parent says:* Count the days the crow called and a guest came. Now count the days the crow called and nobody came. What does the table show?  
   *Child mode:* Count the four boxes. What does your table show?
-  - Check: In Divya's week, a crow called on all 7 mornings and a guest came on 2 days. Does the crow bring guests? → **We can't tell, because the crow called every day, so there are no quiet days to compare**
+  - Check: Divya, a girl aged 8, tested the saying for a week. A crow called on all 7 mornings and a guest came on 2 days. Does the crow bring guests? → **We can't tell, because the crow called every day, so there are no quiet days to compare**
   - Wait: Day 7: count and tell the family.
 
 ## Challenges
@@ -441,12 +435,12 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **your turn:** Now find something else in your home that was made for one size of person. A mirror, a light switch or a hook for bags. Who is it too high or too low for?
 - **constraints:** Measure, don't guess.; Everyone in the home must be measured, the smallest and the tallest.; Nobody climbs on a chair or a stool to measure.
 - **general:** Tape a long strip of paper on a wall, from the floor up. Each person stands flat-footed and reaches up as high as they can. Mark their reach with their name. The shelf must be no higher than the lowest mark.; Measure from the floor to each mark and write the numbers in a table.
-- **creative:** Measure also how low each person can bend comfortably, for Paati or Thatha whose knees hurt. The shelf must be between the highest low point and the lowest high point.; Ask a relative with a baby or a wheelchair user you know how high they can reach, and add them to the chart.; Make two shelves: one for the snacks children may take, and one higher up for things only grown-ups should reach, like medicines.
+- **creative:** Measure also how low each person can bend comfortably, for an older relative whose knees hurt. The shelf must be between the highest low point and the lowest high point.; If you know someone who uses a wheelchair or has a baby, ask how high they can reach, and add them to the chart.; Make two shelves: one for the snacks children may take, and one higher up for things only grown-ups should reach, like medicines.
 - **s1 (5 min)**  
-  *Parent does:* Ask your child what would happen if you measured only Appa's reach.  
+  *Parent does:* Ask your child what would happen if you measured only the tallest person's reach.  
   *Parent says:* If we measured only the tallest person and put the shelf there, who would be left out?  
   *Child mode:* If we measured only the tallest person, who would be left out?
-  - Ask: Who would be left out? (good: The children.; Paati, who is shorter.; Anyone smaller than Appa.)
+  - Ask: Who would be left out? (good: The children.; A shorter relative.; Anyone smaller than the tallest person.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Tape the paper strip to the wall. Measure every person's reach. Write a table: name, reach in centimetres.  
   *Parent says:* Stand flat on your feet and reach as high as you can. I'll mark it. Now the next person.  
@@ -456,7 +450,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Parent does:* Decide the shelf height together and say who set it.  
   *Parent says:* What is the highest the shelf can be? Whose reach decided it?  
   *Child mode:* How high can the shelf be? Whose reach decided it?
-  - Check: Appa reaches 210 centimetres, Amma 195 and Arun, who is six, 140. How high can the shelf be so everyone can reach it? → **No higher than 140 centimetres**
+  - Check: In one home, the father reaches 210 centimetres, the mother 195, and their son Arun, who is six, 140. How high can the shelf be so everyone can reach it? → **No higher than 140 centimetres**
 ### c2 · The Check Card: stop a story before it spreads (20 min)
 - **problem:** Make a small card the family can keep by the phone. It should help anyone check a message before they forward it.
 - **your turn:** Now make a check card for something else: an advert on a cereal box, a claim on a toothpaste tube, or a story a friend tells at school.
@@ -484,9 +478,9 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
    **Answer:** ['claim']. *Why:* A claim can be right or wrong. Evidence shows which.
 2. (fill) Something you can see, count or measure that shows whether a claim is true is called ____.  
    **Answer:** ['evidence']. *Why:* Counting the windows is evidence. Remembering them is weaker evidence.
-3. (truefalse) Divya says, 'If someone is very sure, they must be right.' Is she right?  
+3. (truefalse) Divya, a girl aged 8, says, 'If someone is very sure, they must be right.' Is she right?  
    **Answer:** False. *Why:* False. In the Sure or Right? test, some very sure answers were wrong. Being sure is a feeling, not evidence.
-4. (mcq) Revathi wants to know how many steps go up to her floor. Which is the best evidence?  
+4. (mcq) Revathi, a girl aged 9, wants to know how many steps go up to her floor. Which is the best evidence?  
    Options: Her brother's guess / Counting the steps as she climbs / What she remembers from last year / Asking the oldest neighbour  
    **Answer:** Counting the steps as she climbs. *Why:* Counting the steps now is evidence anyone could repeat. Guesses and memories can be wrong, even old people's.
 5. (match) Match each question to what it asks.  
@@ -495,12 +489,12 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
    **Answer:** An octopus has three hearts. → Checked; Lightning never strikes the same place twice. → Only sounds true; Plants grow towards light. → Checked; We use only one tenth of our brain. → Only sounds true; Your heart beats faster when you run. → Checked; Bats are blind. → Only sounds true. *Why:* The checked claims have been tested. The others are repeated a lot but have been shown wrong.
 7. (write) In the Sure or Right? test, what did you find out about the answers people were very sure about? Use your own results.  
    **Answer:** A strong answer gives numbers, such as 'There were 10 very sure answers and 2 were wrong', and says what that shows.. *Why:* The answer uses the child's own evidence, not a guess.
-8. (mcq) Simran asked only the grown-ups in her home if the TV was too loud. They all said no. What is missing from her evidence?  
+8. (mcq) Simran, a girl aged 8, asked only the grown-ups in her home if the TV was too loud. They all said no. What is missing from her evidence?  
    Options: The TV's brand / The children's and grandparents' answers / The time of day / Nothing  
    **Answer:** The children's and grandparents' answers. *Why:* Only some people were asked. Others might find the TV too loud. Who is missing can change the answer.
 9. (draw) Draw the jar from the Top-Spoon Test before it was mixed. Show where the spoonful came from, and label the part the spoonful missed.  
    **Answer:** A jar with two layers, a spoon at the top in the chana, and a label on the moong at the bottom saying 'missed'.. *Why:* A strong drawing shows that the sample came only from the top.
-10. (truefalse) Arun says, 'A whispered message stays the same however many people pass it on.' Is he right?  
+10. (truefalse) Arun, a boy aged 6, says, 'A whispered message stays the same however many people pass it on.' Is he right?  
    **Answer:** False. *Why:* False. In the Passing Message, the words changed as they went along. Each person can add, drop or change a little.
 11. (odd) Three of these are good evidence. Which one is the odd one out?  
    Options: Counting the windows yourself / A photo of the plant taken every day / A message that says 'everyone knows this' / A table written during the test  
@@ -514,15 +508,14 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 15. (label) Here is a forwarded message: 'Doctors say eating three bananas a day makes you taller. My cousin tried it! Forward to everyone.' Label the part with no named source, the part that is only one person's story, and the part that rushes you.  
    **Answer:** No named source: 'Doctors say'. Only one person's story: 'My cousin tried it'. Rushes you: 'Forward to everyone'.. *Why:* A strong answer finds all three parts and says why each one is a warning sign.
 ### Hits, Misses and Missing People (stretch) (stretch, 15 questions)
-1. (mcq) Mehak kept a tally for 10 mornings. A crow called on all 10. A guest came on 3. Can she say the crow brings guests?  
-   Options: Yes, three guests came on crow days / No. The crow called every day, so she has no quiet days to compare / Yes, because three is more than none / No, because crows never call  
-   **Answer:** No. The crow called every day, so she has no quiet days to compare. *Why:* If the sign is there every day, every guest comes on a sign day. To test the saying, she needs some days with no crow, to see if guests come then too.
-2. (write) Paati said a crow calling means a guest is coming. What result in a tally would make you think the saying might be true?  
+1. (write) Paati said a crow calling means a guest is coming. What result in a tally would make you think the saying might be true?  
    **Answer:** Guests coming on many of the crow days, and hardly ever on the days with no crow, over many weeks.. *Why:* A strong answer compares crow days with no-crow days, and wants many days, not a few.
-3. (truefalse) Tanvi says, 'Asking who is missing means the evidence is useless.' Is she right?  
+2. (truefalse) Tanvi, a girl aged 9, says, 'Asking who is missing means the evidence is useless.' Is she right?  
    **Answer:** False. *Why:* False. It means the evidence tells you about the people who were asked, not about everyone. You can then go and ask the missing people.
-4. (write) For many years, most crash tests for cars used a dummy the size of an average man. Explain why this could make cars less safe for some people.  
+3. (write) For many years, most crash tests for cars used a dummy the size of an average man. Explain why this could make cars less safe for some people.  
    **Answer:** People of other sizes, such as many women and older children, sit differently and are hurt in different ways. If they were missing from the tests, the car was not made safe for their bodies.. *Why:* A strong answer says who was missing and how that changes what the test can tell us.
+4. (write) Name one claim about your home that you can check today by looking, and one that you cannot check by looking. How would you check the first one?  
+   **Answer:** A strong answer gives a claim that can be seen or counted, such as the number of windows, and says exactly what to do. For the second, it names something nobody can see, such as what someone feels or what happened long ago.. *Why:* Some claims can be checked by looking and some need another kind of source.
 5. (mcq) In the Be Clever Hans activity, the tapper did well when the watching grown-up knew the answer, and badly when nobody watching knew it. What does this tell us about Clever Hans the horse?  
    Options: Hans did the sums in his head / Hans read tiny signs from the people watching him / Hans was not trying / Hans could read numbers on paper  
    **Answer:** Hans read tiny signs from the people watching him. *Why:* If Hans had done the sums, it would not have mattered who knew the answer. He was reading faces and bodies, which is a real skill of its own.
@@ -541,9 +534,9 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 12. (odd) Three of these are reasons a story can seem true when it is not. Which is the odd one out?  
    Options: People remember the hits and forget the misses / Many people repeat it / It was tested and the result was repeated by others / A famous name is attached to it  
    **Answer:** 2. *Why:* A test that others repeated with the same result is a reason to trust a claim. The other three can make a story seem true without any evidence.
-13. (mcq) Ishita's aunt has a cold. She drinks ginger tea, and two days later the cold is gone. Why is this not good evidence that ginger tea cures colds?  
-   Options: Ginger is not a plant / Colds usually go away in a few days anyway, so one person's story shows nothing / Tea is always bad for colds / Two days is too long  
-   **Answer:** Colds usually go away in a few days anyway, so one person's story shows nothing. *Why:* Most colds get better by themselves. To know if the tea helped, you would need to compare many people who drank it with many who did not.
+13. (mcq) Ishita, a girl aged 9, wore a red hair band in three cricket matches, and her team won all three. She says the band brings luck. Why is this not good evidence?  
+   Options: Hair bands are not allowed in cricket / Her team may have won for other reasons, and she has not compared matches without the band / Red is never a lucky colour / Three matches is too many to count  
+   **Answer:** Her team may have won for other reasons, and she has not compared matches without the band. *Why:* To know if the band helps, she would need to compare many matches with the band and many without it.
 14. (label) Here is a results table from a Sure or Right? test. Label the column that is a feeling, and the column that is evidence.  
    **Answer:** The 'How sure' column is a feeling. The 'Right or wrong, after checking' column is evidence.. *Why:* How sure people felt was a feeling inside them. Checking the real thing gave the evidence.
 15. (write) Your friend says, 'I don't trust anything anyone tells me.' Is that a good way to think? Explain.  
@@ -592,18 +585,18 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 1. (mcq) What is evidence?  
    Options: Something a famous person says / Something you can see, count or measure that shows whether a claim is true / A claim that many people repeat / How sure someone feels  
    **Answer:** Something you can see, count or measure that shows whether a claim is true. *Why:* Evidence is what you can look at or measure for yourself. A famous name, many voices or a sure feeling are not evidence.
-2. (mcq) Anjali's grandfather is very sure their flat has six windows. Her mother is very sure it has eight. What is the best way to find out?  
+2. (mcq) Anjali, a girl aged 9, lives in a flat. Her grandfather is very sure the flat has six windows. Her mother is very sure it has eight. What is the best way to find out?  
    Options: Believe the oldest person / Believe whoever sounds most sure / Walk round the flat and count the windows / Take a vote  
    **Answer:** Walk round the flat and count the windows. *Why:* Both of them are sure, so being sure cannot settle it. Counting the windows is evidence anyone can check.
-3. (mcq) In the Sure or Right? test, Kavya found that 3 of her family's 'very sure' answers were wrong. What does this show?  
+3. (mcq) Kavya, aged 7, did the Sure or Right? test with her family. She found that 3 of their 'very sure' answers were wrong. What does this show?  
    Options: Her family is careless / Feeling very sure does not always mean being right / Very sure answers are always wrong / The questions were unfair  
    **Answer:** Feeling very sure does not always mean being right. *Why:* Most very sure answers may be right, but not all. Feeling sure is a feeling. Only checking shows whether an answer is right.
 4. (mcq) A message says, 'NASA says the Earth will go dark for six days. Forward to everyone!' Which question should you ask first?  
    Options: How many people have forwarded it? / Says who? Did NASA really say it? / Is the message long? / Is it in English?  
    **Answer:** Says who? Did NASA really say it?. *Why:* The message names NASA, so check NASA's own website. A message like this once went round the world, and NASA had never said it.
-5. (mcq) Farhan asked three friends if they like cricket. All three said yes. He says, 'All children love cricket.' What is the problem?  
-   Options: Cricket is a boring game / Three friends is too few, and children who don't like cricket are missing / He should have asked grown-ups / Nothing, three is enough  
-   **Answer:** Three friends is too few, and children who don't like cricket are missing. *Why:* He asked only three friends, who may all like the same things. The children he did not ask are missing from his evidence.
+5. (mcq) Farhan, a boy aged 8, asked the five children in the front row of his class which sweet they like best. All five said jalebi. He says, 'Everyone in my class likes jalebi best.' What is the problem?  
+   Options: Jalebi is not a sweet / Five children from one row are few, and the rest of the class is missing / He should have asked grown-ups / Nothing, five is enough  
+   **Answer:** Five children from one row are few, and the rest of the class is missing. *Why:* He asked only five children from one row. The rest of the class is missing from his evidence.
 6. (mcq) Meenakshi's Paati said a calling crow brings a guest. Why did she feel the saying always came true?  
    Options: Because crows can see guests coming / Because she remembered the days a guest came and forgot the days nobody came / Because guests only come when crows call / Because she counted every day  
    **Answer:** Because she remembered the days a guest came and forgot the days nobody came. *Why:* A guest is easy to remember, and an ordinary day is easy to forget. Meenakshi's tally of every day showed 9 crow days with no guest.
@@ -622,7 +615,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 11. (mcq) Who is usually the best source about whether it will rain in Madurai tomorrow?  
    Options: A message forwarded many times / The weather office, which measures air and clouds every day / Someone who is very sure / A crow on the balcony  
    **Answer:** The weather office, which measures air and clouds every day. *Why:* The weather office measures the air across India and checks how its forecasts turned out. That is how they know.
-12. (mcq) Priya says, 'If a claim sounds true and lots of people say it, it must be true.' What is wrong with this?  
+12. (mcq) Priya, a girl aged 9, says, 'If a claim sounds true and lots of people say it, it must be true.' What is wrong with this?  
    Options: Nothing, she is right / Many claims that sound true and are repeated often turn out wrong when checked / Claims that sound true are always false / Only children repeat claims  
    **Answer:** Many claims that sound true and are repeated often turn out wrong when checked. *Why:* The goldfish and lightning stories are repeated by many people and are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.
 
@@ -661,18 +654,13 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 
 ## Jokes
 - Why did the crow keep a notebook? *To count the days nobody came.*
-- What did the claim say to the evidence? *I'm nothing without you.*
 - Why did the goldfish laugh at the three-second story? *Because she remembered hearing it last month.*
-- Why was the forwarded message so tired? *It had been passed around all day without a rest.*
 - What did the spoon say after the Top-Spoon Test? *I only scratched the surface.*
 - Why did Clever Hans keep looking at the teacher? *He was reading the answer off her face.*
 - Why didn't the scientist trust the very sure parrot? *She only repeated what she heard.*
 - What's a detective's favourite question? *Says who?*
 - Why did the moong win at hide and seek? *She stayed at the bottom of the jar, where the spoon never looked.*
 - What did the tally say to Paati? *Don't worry, I remember the boring days for you.*
-- Why did the ostrich laugh at the sand story? *She was only turning her eggs.*
-- What do you call a claim with no evidence? *Just talk.*
-- Why did the very sure uncle go and count the windows? *To make sure his sure was right.*
 - Why did the wall clock smile during the test? *Everyone finally looked closely at its face.*
 - Why did the camel laugh at the water story? *Because her hump is full of fat, and it was a fat lot of nonsense.*
 
@@ -680,7 +668,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - In Kavya's Sure or Right? test, her family gave 12 'very sure' answers. 3 were wrong. How many were right? **9 were right.**. 12 take away 3 is 9. So 9 of the 12 very sure answers were right, and 3 were wrong. (queues `math.addition-subtraction.word-problems.L3`)
 - Kavya's family gave 10 'just guessing' answers, and 5 were right. They gave 12 'very sure' answers, and 9 were right. Which kind of answer was right more often? **The very sure answers. 9 out of 12 is more than half. 5 out of 10 is exactly half.**. Half of 12 is 6, and 9 is more than 6. Half of 10 is 5, so the guesses were right exactly half the time. Very sure answers did better, but not perfectly. (queues `math.fractions.halves-and-quarters.L3`)
 - In the story Paati's Crow, a crow called on 13 mornings. A guest came on 4 of those days. On how many crow days did nobody come? **On 9 crow days nobody came.**. 13 take away 4 is 9. Paati remembered the 4 days and forgot the 9. (queues `math.data.sorting-and-tallies.L3`)
-- Divya plays One True, One Made Up with 10 pairs of claims. If she only guesses, about how many will she get right? **About 5.**. Each pair has two choices, so a guess is right about half the time. Half of 10 is 5. If she gets 9 or 10 right, she probably knows something. (queues `math.probability.likely-and-unlikely.L3`)
+- Divya, a girl aged 8, plays One True, One Made Up with 10 pairs of claims. If she only guesses, about how many will she get right? **About 5.**. Each pair has two choices, so a guess is right about half the time. Half of 10 is 5. If she gets 9 or 10 right, she probably knows something. (queues `math.probability.likely-and-unlikely.L3`)
 - In the Top-Spoon Test after mixing, three spoonfuls had 20, 23 and 18 moong grains. What is the total? What is the difference between the biggest and the smallest? **The total is 61. The difference is 5.**. 20 + 23 + 18 = 61. The biggest is 23 and the smallest is 18. 23 take away 18 is 5. The spoonfuls are close, but not the same, so one spoonful alone could mislead a little. (queues `math.addition-subtraction.mental-strategies.L3`)
 
 ## Song

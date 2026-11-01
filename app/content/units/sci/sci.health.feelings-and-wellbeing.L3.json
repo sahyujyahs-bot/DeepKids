@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Try this with someone at home. Make the most scared face you can, with your mouth closed. Then make a surprised face, mouth closed. Can they tell which is which? Most people find these two faces very hard to tell apart. So how do we ever know what someone else is feeling?",
-  "text": "Every day you read faces without thinking about it. You can tell when Amma is tired, or when a friend is upset. In this unit you test how good you really are at it. You play a face game, find out which feelings are easy to read and which get mixed up, and learn what a feeling does inside your body. You also find out what keeps your body and your feelings well, and why kindness and friendship matter to the body as well as the heart.",
+  "text": "Every day you read faces without thinking about it. You can tell when a parent is tired, or when a friend is upset. In this unit you test how good you really are at it. You play a face game, find out which feelings are easy to read and which get mixed up, and learn what a feeling does inside your body. You also find out what keeps your body and your feelings well, and why kindness and friendship matter to the body as well as the heart.",
   "art": "Two children side by side, one with eyebrows raised and eyes wide in fear, one with eyebrows raised and eyes wide in surprise, both with closed mouths, and a big question mark between them."
  },
  "outcomes": [
@@ -31,7 +31,7 @@
   {
    "term": "Feeling",
    "meaning": "What an emotion is like from the inside, for the person having it. People often use 'feeling' and 'emotion' to mean the same thing.",
-   "example": "Before a dance show, Kavya feels butterflies in her tummy. That is how her nervousness feels to her.",
+   "example": "Before a dance show, Kavya, a girl in Class 3, feels butterflies in her tummy. That is how her nervousness feels to her.",
    "art": "A girl in a Bharatanatyam costume backstage, hands on her tummy, with small butterflies drawn near it."
   },
   {
@@ -50,24 +50,24 @@
    "term": "Well-being",
    "meaning": "Being well in both body and feelings: healthy, rested, and mostly calm and happy, with people to turn to.",
    "example": "A good night's sleep, a full tummy, an hour of play and a chat with a friend all add to your well-being.",
-   "art": "A child in the middle of four small pictures: a bed with a moon, a plate of idli, children playing, and two friends talking."
+   "art": "A child in the middle of four small pictures: a bed with a moon, a plate of food, children playing, and two friends talking."
   },
   {
    "term": "Kindness",
    "meaning": "Doing something good for someone because you care about how they feel, without wanting anything back.",
-   "example": "Meenakshi shares her umbrella with a classmate at the bus stop in the rain.",
+   "example": "Meenakshi, a girl in Class 3, shares her umbrella with a classmate at the bus stop in the rain.",
    "art": "Two girls under one umbrella at a rainy bus stop."
   },
   {
    "term": "Respect",
    "meaning": "Treating other people's bodies, feelings and choices as important, even when they are different from yours.",
-   "example": "Arjun asks his little cousin 'Can I hug you?' and waits for her answer.",
-   "art": "A boy holding his arms open but waiting, while a small girl decides, with a speech bubble saying 'Can I hug you?'"
+   "example": "Ananya asks her little cousin 'Can I hug you?' and waits for the answer.",
+   "art": "A girl holding her arms open but waiting, while a small girl decides, with a speech bubble saying 'Can I hug you?'"
   },
   {
    "term": "Friendship",
    "meaning": "A close bond between people who like each other, trust each other and care about each other's feelings.",
-   "example": "Farhan and Nila take turns choosing the game, so both of them get to pick.",
+   "example": "Farhan and Nila, two friends in Class 3, take turns choosing the game, so both of them get to pick.",
    "art": "Two children on a building staircase playing a game of snakes and ladders together."
   },
   {
@@ -79,7 +79,7 @@
   {
    "term": "Duchenne smile",
    "meaning": "A smile that lifts the cheeks and crinkles the skin at the outer corners of the eyes, as well as turning up the mouth. It is named after Guillaume Duchenne, a French doctor who studied face muscles.",
-   "example": "When Paati laughs at a joke, little lines appear at the corners of her eyes.",
+   "example": "When Meera Aunty laughs at a joke, little lines appear at the corners of her eyes.",
    "art": "Two faces side by side: one with a mouth-only smile, one with a smile that lifts the cheeks and crinkles the eye corners."
   },
   {
@@ -152,7 +152,7 @@
    "description": "A face can match more than one feeling. A wide-eyed face could be scared, surprised or excited. A frowning face could be angry, worried or just thinking hard. People also hide feelings, or show a polite face when they feel something else. So a good friend notices the clues and then asks: 'You look upset. Are you all right?' Asking also shows respect, because the other person gets to say what they feel instead of being told.",
    "examples": [
     "A new girl in class looks cross on her first day, but she is really nervous.",
-    "Thatha frowns at the newspaper. He is not angry, he is reading small print without his glasses.",
+    "A man frowns at the newspaper. He is not angry, he cannot read the small print without his glasses.",
     "A friend laughs after falling, but her knee really hurts."
    ],
    "perspectives": [],
@@ -165,9 +165,9 @@
    "definition": "Well-being means caring for the body and the feelings together. Children aged 6 to 12 need about 9 to 12 hours of sleep a night, about an hour of active play every day, good food and enough water, and people they can talk to.",
    "description": "Body and feelings affect each other. After a bad night's sleep, small things feel bigger and you get cross more easily. Running, cycling or dancing makes most people feel calmer and happier afterwards. Hunger can make you grumpy. Feelings affect the body too: worry can give you a tummy ache or keep you awake. Talking about a feeling with someone you trust, and putting it into words, often helps the feeling settle.",
    "examples": [
-    "Divya gets grumpy before lunch and cheerful after it.",
-    "After an hour of playing in the building compound, Farhan sleeps well.",
-    "Telling Amma about a bad day at school makes it feel smaller."
+    "Bhavna gets grumpy before lunch and cheerful after it.",
+    "After an hour of playing in the building compound, Farhan, a boy in Class 3, sleeps well.",
+    "Telling a parent or a friend about a bad day at school makes it feel smaller."
    ],
    "perspectives": [],
    "art": "A 24-hour circle divided into coloured parts: sleep, school, play, meals, family time.",
@@ -179,7 +179,7 @@
    "definition": "Kindness is doing good for someone because you care how they feel. Respect is treating other people's bodies, feelings and choices as important. Friendship is a bond of liking, trust and care between people.",
    "description": "Scientists have found that very young children help others without being asked. In one study, toddlers of 18 months picked up a clothes peg a grown-up had dropped and handed it back, with no reward. In another study, children under two looked happier when they gave a treat to a puppet than when they got a treat themselves. Grown-ups who spent a little money on others also said they felt happier than those who spent it on themselves. Respect means asking before touching someone, listening when they say no, and not laughing at feelings that are different from yours.",
    "examples": [
-    "Lakshmi helps her neighbour carry vegetables up the stairs.",
+    "Lakshmi, a girl in Class 3, helps her neighbour carry vegetables up the stairs.",
     "Arjun asks before borrowing his sister's crayons.",
     "Two friends agree to take turns picking the game."
    ],
@@ -190,7 +190,7 @@
   {
    "concept": "Do animals have feelings?",
    "status": "debated",
-   "description": "Animals have feelings. A dog wags and wriggles when the family comes home, and a crow calls loudly and dives when someone goes near the nest. Rats make high squeaks, too high for us to hear, when they are tickled, and they come back to the hand for more. Darwin wrote a whole book comparing feelings in people and animals. Scientists still argue about how much an animal's feelings are like ours.",
+   "description": "Animals have feelings. A dog wags and wriggles when someone she loves comes home, and a crow calls loudly and dives when someone goes near the nest. Rats make high squeaks, too high for us to hear, when they are tickled, and they come back to the hand for more. Darwin wrote a whole book comparing feelings in people and animals. Scientists still argue about how much an animal's feelings are like ours.",
    "examples": [
     "A dog lowers the ears and tail when scolded.",
     "A cat purrs and kneads when stroked.",
@@ -264,9 +264,9 @@
  ],
  "big_questions": [
   {
-   "q": "When you feel sad because your friend is sad, whose feeling is it: yours or hers?",
+   "q": "When you feel sad because your friend is sad, whose feeling is it: yours or your friend's?",
    "kind": "big",
-   "hint": "Your own heart and face changed, so it happened in your body. But it began with hers. Can a feeling belong to two people?"
+   "hint": "Your own heart and face changed, so it happened in your body. But it began with your friend's feeling. Can a feeling belong to two people?"
   },
   {
    "q": "Your heart raced before you knew what the noise was. So which came first, the feeling or the thought?",
@@ -375,7 +375,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks. Make faces gently, and stop if anyone gets upset.",
    "schedule": [
     {
      "day": 1,
@@ -390,11 +389,11 @@
      "caption": "1. Write six feeling cards and put them in a bowl."
     },
     {
-     "art": "A mother holding a notebook across her nose and mouth so only her eyes and eyebrows show, while a girl looks closely and guesses.",
+     "art": "A woman holding a notebook across her nose and mouth so only her eyes and eyebrows show, while a girl looks closely and guesses.",
      "caption": "2. Hide the mouth. Can the guesser still read the feeling from the eyes?"
     },
     {
-     "art": "The same mother holding the notebook across her forehead and eyes so only her mouth shows.",
+     "art": "The same woman holding the notebook across her forehead and eyes so only her mouth shows.",
      "caption": "3. Now hide the eyes. Can the guesser read the feeling from the mouth?"
     }
    ],
@@ -435,7 +434,7 @@
     },
     {
      "id": "s4",
-     "mins": 6,
+     "mins": 5,
      "do": "Round 2, eyes only. 1. Shuffle again. 2. The face maker holds the notebook across their nose and mouth, so only the eyes and eyebrows show. 3. Make each face again for a count of three. 4. Write the results in the 'eyes only' column.",
      "say": "Now I will hide my mouth. You can only see my eyes and eyebrows. Do you think you will still get them right?",
      "kid": "Round two. The mouth is hidden. Only the eyes show. Can you still tell?",
@@ -443,7 +442,7 @@
     },
     {
      "id": "s5",
-     "mins": 6,
+     "mins": 5,
      "do": "Round 3, mouth only. 1. Shuffle again. 2. The face maker holds the notebook across their forehead and eyes, so only the nose and mouth show. 3. Make each face again. 4. Write the results in the 'mouth only' column.",
      "say": "Last round. Now I will hide my eyes and eyebrows. Only my mouth will show.",
      "kid": "Round three. Now the eyes are hidden. Only the mouth shows. Guess again!",
@@ -451,7 +450,7 @@
     },
     {
      "id": "s6",
-     "mins": 4,
+     "mins": 3,
      "do": "Look at the table together. Count the ticks for each feeling. Find the two feelings that got mixed up most.",
      "say": "Let's look at the table. Which feeling did you get right every time? Which ones got mixed up? Which half of the face helped most for each one?",
      "kid": "Count your ticks. Which feeling was easiest? Which two got mixed up? Was it the eyes or the mouth that helped?",
@@ -466,11 +465,11 @@
       "a": 1,
       "why": "Both fear and surprise lift the eyebrows and open the eyes wide, so the faces look very alike. In fear, the eyebrows also pull together and the lips stretch back, but these are small changes. Picking 'the same feeling' is a good thought, but they feel different from the inside: surprise is quick and fear lasts. Picking 'not trying hard' blames the face maker, yet even scientists' photos of scared faces get mixed up with surprise."
      },
-     "parent": "Most families find happy is easiest, especially from the mouth. Scared and surprised are often mixed up, and so are angry and disgusted. Eyes-only usually helps more for scared, surprised and angry. Mouth-only usually helps more for happy and disgusted. Your results may differ, and that is a real result too."
+     "parent": "Most families find happy is easiest, especially from the mouth. Scared and surprised are often mixed up, and so are angry and disgusted. Eyes-only usually helps more for scared and angry. Mouth-only usually helps more for happy and disgusted. Your results may differ, and that is a real result too."
     },
     {
      "id": "s7",
-     "mins": 4,
+     "mins": 3,
      "do": "Ask your child to say what they think, what they saw, and why. Then ask the face maker about one face that was guessed wrong.",
      "say": "So what do you think? Tell me what you found, what you saw in the table, and why you think it happened. Now ask me about a face you got wrong.",
      "kid": "Say what you found. Say what your table shows. Say why. Then ask the face maker about one wrong guess.",
@@ -512,7 +511,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -523,11 +521,11 @@
    "record": "Write the yawns for each round as tally marks. Then write one sentence about what you found.",
    "setup": [
     {
-     "art": "A girl sitting opposite her grandmother, who is smiling gently, with a phone timer on the table.",
+     "art": "A girl sitting opposite an older woman, who is smiling gently, with a phone timer on the table.",
      "caption": "1. Round one: watch someone smile for 3 minutes."
     },
     {
-     "art": "The same grandmother giving a big yawn with her hand near her mouth, and the girl watching closely.",
+     "art": "The same woman giving a big yawn with her hand near her mouth, and the girl watching closely.",
      "caption": "2. Round two: watch them yawn for 3 minutes. Count your own yawns."
     }
    ],
@@ -564,7 +562,7 @@
      "kid": "Which round had more yawns? Why do you think yawns spread?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi yawned 4 times while watching her mother yawn, and 0 times while watching her smile. What is the best conclusion?",
+      "q": "Lakshmi, a girl in Class 3, yawned 4 times while watching her mother yawn, and 0 times while watching her smile. What is the best conclusion?",
       "options": [
        "Yawns can spread from one person to another",
        "Lakshmi was more tired in the second round, so the test proves nothing",
@@ -596,14 +594,8 @@
     {
      "item": "a sheet of paper and crayons or colour pencils",
      "qty": 1
-    },
-    {
-     "item": "the book The Color Monster, if you have it",
-     "qty": 1,
-     "buy": "b-book"
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -637,7 +629,7 @@
      "mins": 4,
      "do": "Your child draws a small face for each of 6 feelings from the list.",
      "say": "Pick six feelings and draw a face for each one. What do the eyebrows do? What does the mouth do?",
-     "kid": "Draw a face for six feelings. Look at the eyebrows and mouth in a mirror first."
+     "kid": "Draw a face for six feelings. Think first: what do the eyebrows and mouth do?"
     },
     {
      "id": "s3",
@@ -677,7 +669,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -700,8 +691,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "The smiler picks a folded slip without showing it. For REAL, they think of the funniest thing that happened this year. For POLITE, they smile as if for a passport photo.",
-     "say": "I'll pick a slip. For a real smile I'll think of something really funny. For a polite smile I'll just smile for the camera.",
+     "do": "The smiler picks a folded slip without showing it. For REAL, they think of the funniest thing that happened this year. For POLITE, they smile as if for a school photo.",
+     "say": "I'll pick a slip. For a real smile I'll think of something really funny. For a polite smile I'll just smile for a school photo.",
      "kid": "The smiler picks a secret slip. Real or polite? Watch closely.",
      "context": "This activity tests whether you can tell a real smile from a polite one by looking only at the eyes."
     },
@@ -721,9 +712,9 @@
      "kid": "How many were right out of 10? What did the eyes do in a real smile?",
      "check": {
       "t": "mcq",
-      "q": "Ravi guessed 9 of 10 smiles right just from the eyes. What does this show?",
+      "q": "Ravi, a boy in Class 4, guessed 9 of 10 of his friend Anu's smiles right, just from her eyes. What does this show?",
       "options": [
-       "His mother's real smiles moved her eyes and cheeks differently from her polite ones",
+       "Anu's real smiles moved her eyes and cheeks differently from her polite ones",
        "Ravi was just lucky",
        "Smiles only happen in the eyes"
       ],
@@ -744,11 +735,10 @@
      "qty": 4
     },
     {
-     "item": "red, yellow and blue crayons",
-     "qty": 3
+     "item": "red and blue crayons",
+     "qty": 2
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -809,7 +799,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "9 paper slips, each with one rasa and its meaning",
+     "item": "9 paper slips, one for each rasa: shringara (love), hasya (laughter), karuna (sorrow), raudra (anger), veera (courage), bhayanaka (fear), bibhatsa (disgust), adbhuta (wonder), shanta (peace)",
      "qty": 9
     },
     {
@@ -817,7 +807,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -856,9 +845,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child picks a slip in secret and acts the rasa. The family guesses.",
-     "say": "Pick one in secret and show it. We'll guess. Did the hands help?",
-     "kid": "Pick a secret rasa. Act it. Can your family guess? Did your hands help?",
+     "do": "Your child picks a slip in secret and acts the rasa. Everyone else guesses (with two people, the parent guesses).",
+     "say": "Pick one in secret and show it. We will guess. Did the hands help?",
+     "kid": "Pick a secret rasa. Act it. Can the others guess? Did your hands help?",
      "ask": [
       {
        "q": "Was it easier to guess with the hands as well as the face?",
@@ -884,9 +873,12 @@
     {
      "item": "a clothes peg",
      "qty": 1
+    },
+    {
+     "item": "crayons or colour pencils",
+     "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -917,7 +909,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Practise the three steps with a pretend problem: your little cousin breaks your clay model.",
+     "do": "Practise the three steps with a pretend problem: someone breaks your clay model by mistake.",
      "say": "When a feeling gets to red, try three steps. Stop: take three slow breaths. Name it: say 'I feel angry'. Choose: pick something kind to do next.",
      "kid": "Stop and breathe three times. Name it: 'I feel angry.' Then choose what to do.",
      "parent": "Naming a feeling often makes it smaller. In a 2007 study in Los Angeles, people who put their feelings into words showed less activity in a part of the brain that reacts strongly to fear and anger."
@@ -956,7 +948,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -979,9 +970,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Trace a circle round a steel plate. Divide it into 24 equal slices, one for each hour. Mark 12 midnight at the top.",
+     "do": "Trace a circle round a steel plate. Mark midnight at the top and noon at the bottom. Mark 6 in the morning on the right and 6 in the evening on the left. Each quarter is 6 hours. Draw lines to split each quarter into 6 equal slices, one for each hour.",
      "say": "Let's draw your whole day as a circle. Each slice is one hour.",
-     "kid": "Trace a plate. Cut the circle into 24 slices. One slice is one hour.",
+     "kid": "Trace a plate. Mark midnight at the top and noon at the bottom. Draw lines to make 24 slices. One slice is one hour.",
      "context": "This activity checks how a normal day is shared between sleep, school, play and meals."
     },
     {
@@ -999,7 +990,7 @@
      "kid": "You need 9 to 12 hours of sleep. And one hour of play. Do you get them?",
      "check": {
       "t": "mcq",
-      "q": "Divya sleeps from 10 at night to 6 in the morning. Is that enough for a child of 8?",
+      "q": "Divya, a girl aged 8, sleeps from 10 at night to 6 in the morning. Is that enough?",
       "options": [
        "Yes, 8 hours is plenty",
        "No, she sleeps 8 hours but needs about 9 to 12",
@@ -1032,16 +1023,16 @@
       "You find a puppy under the stairs of your building.",
       "Your friend wins the drawing prize, and you hoped to win.",
       "A cockroach runs over your foot.",
-      "Thatha gives you a surprise gift.",
+      "A relative you love gives you a surprise gift.",
       "Someone cuts in front of you in the queue.",
       "You smell the milk and it has gone sour.",
-      "You go on stage for the Onam programme.",
+      "You go on stage for the Bihu dance programme.",
       "Your best friend moves to another city.",
       "You finally ride your cycle without help.",
       "A loud cracker bursts just behind you.",
       "You have to sit next to someone you don't know.",
-      "Your little brother tears your notebook.",
-      "You get a hug from Paati after a long time.",
+      "Someone tears your notebook while playing.",
+      "You get a hug from a grandparent or an aunt you have not seen for a long time.",
       "You forgot your homework at home.",
       "You see a rainbow over the sea at Marina Beach.",
       "Nobody picks you for the team.",
@@ -1050,7 +1041,7 @@
       "Someone laughs at your lunch.",
       "The lights go out in a storm at night.",
       "You see a friend fall and hurt her knee.",
-      "You get a new baby cousin.",
+      "You hold a tiny new baby for the first time.",
       "Your Pongal kolam wins the street prize."
      ]
     },
@@ -1070,15 +1061,15 @@
     "The others guess the feeling. A right guess gets the guesser 1 point.",
     "Then the actor reads the card aloud. Anyone who can say one kind thing to do for a person in that situation gets 1 point.",
     "Playing alone? Act each card in a mirror. Say the feeling, then say a kind thing you could do.",
-    "After 12 cards, the player with most points wins."
+    "After 12 cards, the player with most points wins. If points are equal, both win."
    ],
    "setup": [
     {
-     "art": "A family sitting in a circle on a mat with a pile of paper cards in the middle.",
+     "art": "People sitting in a circle on a mat with a pile of paper cards in the middle.",
      "caption": "1. Shuffle the situation cards."
     },
     {
-     "art": "A girl acting a scared face with hands up while her father and brother guess.",
+     "art": "A girl acting a scared face with hands up while two people guess.",
      "caption": "2. Act the feeling. The others guess it, then say a kind thing to do."
     }
    ],
@@ -1107,7 +1098,7 @@
      "kid": "Which card was hardest? How could you find out for sure what someone feels?",
      "check": {
       "t": "mcq",
-      "q": "In the game, Farhan acted 'Someone laughs at your lunch'. Kavya guessed 'angry', but Farhan meant 'embarrassed'. What should Kavya do in real life to be sure?",
+      "q": "In the game, Farhan acted 'Someone laughs at your lunch'. His friend Kavya guessed 'angry', but Farhan meant 'embarrassed'. What should Kavya do in real life to be sure?",
       "options": [
        "Ask Farhan how he feels",
        "Decide he is angry and stay away",
@@ -1196,15 +1187,15 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Make the table together. Explain the 1 to 5 scale, with a face drawn for each number.",
+     "do": "Make the table together. Explain the 1 to 5 scale, with a face drawn for each number. Plan one small kind act for tomorrow.",
      "say": "Scientists found that being kind often makes the giver happier. Let's test it for a week. 1 is very low and 5 is very happy.",
      "kid": "Draw your table. Draw five faces from sad to happy. This week you test kindness.",
      "context": "This is a week-long project to see how being kind affects how you feel."
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "Each day, do one kind act, then fill in the row.",
+     "mins": 25,
+     "do": "Each day, do one kind act, then fill in the row. Day 2: any kind act. Day 3: for someone new. Day 4: a kind act nobody will know was you. Day 5: for a neighbour, the watchman or someone who works for your family. Day 6: for yourself.",
      "say": "What kind thing did you do today? How did you feel before, and how do you feel now?",
      "kid": "Do one kind thing today. Write it down. Rate your feeling before and after.",
      "wait": "Do this every day for 5 days."
@@ -1245,7 +1236,7 @@
     "cushions or a folded blanket",
     "paper and crayons",
     "a small plant or a shell",
-    "a steel bottle with a little water and rice inside, to shake and watch"
+    "a clear plastic bottle with water and a pinch of glitter, for a calm bottle (optional)"
    ],
    "general": [
     "A corner with a cushion, a soft blanket and a book.",
@@ -1349,7 +1340,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Test it with family members without speaking.",
-     "say": "Show it to Amma without speaking. Did she understand every picture?",
+     "say": "Show it to someone at home without speaking. Did they understand every picture?",
      "kid": "Test it without words. Did your family understand each picture?",
      "ask": [
       {
@@ -1373,19 +1364,6 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Face Test, which two feelings do people mix up most often?",
-     "opts": [
-      "Happy and sad",
-      "Scared and surprised",
-      "Angry and happy",
-      "Sad and surprised"
-     ],
-     "a": 1,
-     "why": "Scared and surprised both lift the eyebrows and open the eyes wide. Picking 'happy and sad' is unlikely, because their mouths go in opposite directions.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "Your heart beats fast after a loud cracker bursts behind you. What made it speed up?",
      "opts": [
       "You decided to make it beat faster",
@@ -1401,12 +1379,6 @@
      "p": "A feeling happens only in your head.",
      "a": false,
      "why": "False. A strong feeling changes the heart, the breath, the tummy and the face too. That is why you can feel butterflies in your tummy when you are nervous."
-    },
-    {
-     "t": "truefalse",
-     "p": "Children aged 6 to 12 need about 9 to 12 hours of sleep a night.",
-     "a": true,
-     "why": "True. Children's sleep doctors agree on this. Less sleep makes it harder to pay attention and easier to feel cross."
     },
     {
      "t": "fill",
@@ -1481,7 +1453,7 @@
        "Mainly the body"
       ],
       [
-       "a hug from Amma",
+       "a hug from someone you love",
        "Mainly the feelings"
       ]
      ],
@@ -1490,7 +1462,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya's friend Meena is frowning at her desk. Kavya thinks Meena is angry with her. What else could Meena be feeling? What should Kavya do?",
+     "p": "Kavya, a girl in Class 3, sees her friend Meena frowning at her desk. Kavya thinks Meena is angry with her. What else could Meena be feeling? What should Kavya do?",
      "lines": 4,
      "a": "Meena could be worried, tired, unwell or concentrating hard. A frown fits many feelings. Kavya should ask Meena kindly how she is.",
      "why": "A strong answer gives at least two other feelings and says that asking is the way to be sure."
@@ -1544,6 +1516,20 @@
      "p": "Fear is a useless feeling that we should never have.",
      "a": false,
      "why": "False. Fear keeps us safe. It makes us step back from a busy road or a hot stove. Every feeling has a job."
+    },
+    {
+     "t": "truefalse",
+     "p": "Crying is one way the body shows sadness or pain.",
+     "a": true,
+     "why": "True. Every person has tear glands, and crying often brings comfort and help from others."
+    },
+    {
+     "t": "fill",
+     "p": "When a yawn spreads from one person to another, we say yawns are ____.",
+     "a": [
+      "contagious"
+     ],
+     "why": "Contagious means spreading from one person to another. Laughs and smiles can be contagious too."
     }
    ]
   },
@@ -1554,24 +1540,11 @@
    "mins": 25,
    "items": [
     {
-     "t": "mcq",
-     "p": "Ravi's mother hides her mouth with a notebook and smiles. Ravi says 'That's a real smile!' What did he probably see?",
-     "opts": [
-      "Her teeth",
-      "Her cheeks lifted and the corners of her eyes crinkled",
-      "Her ears moved",
-      "Her eyebrows went down"
-     ],
-     "a": 1,
-     "why": "A real smile usually lifts the cheeks and crinkles the eye corners. The mouth was hidden, so Ravi could not see teeth.",
-     "how": "a2"
-    },
-    {
      "t": "perspective",
-     "p": "Anjali and her grandmother Lakshmi disagree about anger.",
+     "p": "Anjali, a girl in Class 3, and her grandmother Saroja disagree about anger.",
      "views": [
       {
-       "who": "Lakshmi, the grandmother",
+       "who": "Saroja, the grandmother",
        "says": "When you are angry, it is best to hide it and smile, so nobody gets upset."
       },
       {
@@ -1581,46 +1554,28 @@
      ],
      "ask": "Who do you agree with? Give a reason. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with a reason, for example that naming a feeling often helps it settle, or that shouting in anger can hurt people. It also says what the other side has right: Lakshmi is right that anger can hurt others, and Anjali is right that a hidden feeling is still there.",
+     "a": "A strong answer picks a side with a reason, for example that naming a feeling often helps it settle, or that shouting in anger can hurt people. It also says what the other side has right: Saroja is right that anger can hurt others, and Anjali is right that a hidden feeling is still there.",
      "why": "Both have a point. Naming a feeling calmly is usually better than hiding it or exploding with it."
     },
     {
      "t": "write",
-     "p": "In the Catch a Yawn test, Divya yawned more while watching her father yawn. Her brother says, 'She was just tired.' How could Divya test whether he is right?",
+     "p": "In the Catch a Yawn test, Pooja, a girl in Class 4, yawned more while watching her father yawn. Her brother says, 'She was just tired.' How could Pooja test whether he is right?",
      "lines": 4,
-     "a": "She could do the test again another day, with the yawning round first and the smiling round second. If she still yawns more when watching yawns, tiredness does not explain it.",
+     "a": "Pooja could do the test again another day, with the yawning round first and the smiling round second. If she still yawns more when watching yawns, tiredness does not explain it.",
      "why": "Changing the order is how scientists check that something else is not causing the result.",
      "how": "e2"
     },
     {
-     "t": "truefalse",
-     "p": "Scientists all agree that every feeling has one face that people everywhere read the same way.",
-     "a": false,
-     "why": "False. Some scientists, like Paul Ekman, found that people in many places match faces to feelings in the same way. Others, like Lisa Feldman Barrett, found faces vary a lot. This is still debated."
-    },
-    {
-     "t": "mcq",
-     "p": "Toddlers in a study looked happiest when they...",
-     "opts": [
-      "got a treat themselves",
-      "gave a treat to a puppet",
-      "watched a puppet eat",
-      "were alone"
-     ],
-     "a": 1,
-     "why": "Scientists in Canada found children under two looked happier giving a treat than getting one, especially when it was their own treat they gave."
-    },
-    {
      "t": "label",
-     "p": "Label where people often feel these feelings on the body outline: anger (chest and fists), fear (chest), sadness (heavy arms and legs), nervousness (tummy).",
+     "p": "The body outline has four blank lines, pointing to the fists, the chest, the legs and the tummy. Write the feeling that many people in the body-map study felt in each place: angry, scared, sad or nervous.",
      "a": [
-      "chest and fists",
-      "chest",
-      "arms and legs",
-      "tummy"
+      "angry",
+      "scared",
+      "sad",
+      "nervous"
      ],
-     "why": "In a body map study, many people coloured similar places for each feeling. Your own map may differ.",
-     "art": "An outline of a child's body with four blank label lines pointing to the chest, the fists, the legs and the tummy."
+     "why": "In a body map study, many people coloured similar places for each feeling: fists and chest for anger, chest for fear, heavy legs for sadness, tummy for nervousness. Your own map may differ.",
+     "art": "An outline of a child's body with four blank label lines pointing to the fists, the chest, the legs and the tummy."
     },
     {
      "t": "fill",
@@ -1632,7 +1587,7 @@
     },
     {
      "t": "write",
-     "p": "Farhan says, 'I can always tell what my friends feel just by looking at them.' Use what you found in the Face Test to answer him.",
+     "p": "Farhan, a boy in Class 3, says, 'I can always tell what my friends feel just by looking at them.' Use what you found in the Face Test to answer him.",
      "lines": 4,
      "a": "In the Face Test, some feelings got mixed up, like scared and surprised. People also hide feelings or smile politely. So looking gives clues, but Farhan should ask to be sure.",
      "why": "A strong answer uses evidence from the child's own results.",
@@ -1664,7 +1619,7 @@
     },
     {
      "t": "mcq",
-     "p": "After a bad night's sleep, Nila snapped at her brother over a small thing. What is the best explanation?",
+     "p": "After a bad night's sleep, Nila, the girl in the story, snapped at her brother over a small thing. What is the best explanation?",
      "opts": [
       "Nila is an unkind person",
       "Too little sleep makes small things feel bigger and makes people cross more easily",
@@ -1692,12 +1647,6 @@
      ],
      "a": "order shown",
      "why": "Duchenne's photographs came first, in 1862. Darwin's test with visitors was in 1868."
-    },
-    {
-     "t": "truefalse",
-     "p": "Hitting a pillow when you are angry is the best way to get rid of anger.",
-     "a": false,
-     "why": "False. In a 2002 study, people who hit a punching bag while thinking about someone who annoyed them were more aggressive afterwards. Calming down and talking it over work better."
     },
     {
      "t": "sort",
@@ -1741,6 +1690,44 @@
      "lines": 3,
      "a": "A faster heart pumps more blood and oxygen to the muscles, so the body is ready to run away or fight. A deer that hears a tiger can run faster.",
      "why": "The body gets ready to act before the mind has finished thinking."
+    },
+    {
+     "t": "write",
+     "p": "A classmate sits alone and looks sad. Write one thing you could say first, and one kind thing you could offer to do.",
+     "lines": 3,
+     "a": "A strong answer starts with a question such as 'Are you all right?' and offers something real, such as sitting together or listening.",
+     "why": "Asking first checks the guess. Then the kind act fits what the classmate really needs."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Face Test, why must the same person make every face in all three rounds?",
+     "opts": [
+      "So the guesser gets tired",
+      "So only the hidden part of the face changes, and nothing else",
+      "So the faces look the same",
+      "So the guesser can guess the order"
+     ],
+     "a": 1,
+     "why": "A fair test changes one thing at a time. If a different person made the faces, you would not know if the hidden part or the person made the difference.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Rats make squeaks too high for us to hear when they are tickled, and they come back to the hand for more. What does this suggest?",
+     "opts": [
+      "Rats can feel something like joy",
+      "Rats are afraid of hands",
+      "Rats notice nothing at all",
+      "Rats are hungry"
+     ],
+     "a": 0,
+     "why": "Coming back for more tickling suggests the rats enjoy it. Cautious scientists add that we cannot ask a rat what it feels like."
+    },
+    {
+     "t": "truefalse",
+     "p": "A polite smile is always easy to spot, because it never crinkles the eyes.",
+     "a": false,
+     "why": "False. Many people can crinkle their eyes on purpose, so even the eyes give a clue, not a proof."
     }
    ]
   },
@@ -1770,7 +1757,7 @@
        "says": "People often don't make the 'right' face. An angry person scowls only some of the time. We read faces mostly from what is happening around them."
       },
       {
-       "who": "Kavya, who did the Face Test at home",
+       "who": "Kavya, a girl in Class 3, who did the Face Test at home",
        "says": "My family read happy faces right every time, but mixed up scared and surprised."
       }
      ],
@@ -1778,19 +1765,6 @@
      "lines": 6,
      "a": "A strong answer sees that Kavya's result supports both a little: happy was read well everywhere (Ekman), but scared and surprised got mixed up (Barrett). It uses the evidence and answers back from the other side.",
      "why": "Real science often has evidence on both sides. The Fore people also mixed up fear and surprise."
-    },
-    {
-     "t": "mcq",
-     "p": "Guessing at random, how many of 10 smiles would you expect to call right in the Real or Polite test?",
-     "opts": [
-      "0",
-      "about 5",
-      "10",
-      "about 2"
-     ],
-     "a": 1,
-     "why": "With two choices, a random guess is right about half the time. So about 5 of 10. A score far above 5 means the eyes really showed something.",
-     "how": "a2"
     },
     {
      "t": "write",
@@ -1813,20 +1787,8 @@
      "art": "Four empty comic boxes in a row."
     },
     {
-     "t": "mcq",
-     "p": "Charles Bell taught that people have special face muscles that no animal has. What did Darwin find?",
-     "opts": [
-      "Bell was right",
-      "Apes, monkeys and other animals share many of the same face muscles and expressions",
-      "Animals have no face muscles",
-      "Only dogs have face muscles"
-     ],
-     "a": 1,
-     "why": "Darwin compared people with apes, monkeys and dogs, and found shared muscles and expressions. He said we inherited them from shared ancestors."
-    },
-    {
      "t": "write",
-     "p": "Lakshmi did the Kindness Week and felt happier after most kind acts. Her friend says this proves kindness makes everyone happier. What would you say to her friend?",
+     "p": "Lakshmi, a girl in Class 3, did the Kindness Week and felt happier after most kind acts. Her friend says this proves kindness makes everyone happier. What would you say to her friend?",
      "lines": 4,
      "a": "One person's week is a clue, not a proof. Other things happen in a day too. To find out for many people, scientists test lots of people and compare.",
      "why": "A strong answer says why one test is not enough and how scientists check.",
@@ -1847,24 +1809,12 @@
      "why": "It is named after Guillaume Duchenne, who photographed face muscles in 1862."
     },
     {
-     "t": "label",
-     "p": "On the face drawing, label the parts that move in a scared face: eyebrows raised, eyebrows pulled together, eyes wide open, lips stretched back.",
-     "a": [
-      "eyebrows raised",
-      "eyebrows pulled together",
-      "eyes wide open",
-      "lips stretched back"
-     ],
-     "why": "Fear lifts and pulls the eyebrows together, opens the eyes wide and stretches the lips. Surprise lifts the eyebrows but does not pull them together.",
-     "art": "A drawing of a scared face with four blank label lines."
-    },
-    {
      "t": "mcq",
      "p": "Why might a new child in class look cross on the first day?",
      "opts": [
-      "She must be rude",
+      "The child must be rude",
       "Feeling scared or nervous can make a face look tight and cross",
-      "She does not like anyone",
+      "The child does not like anyone",
       "Faces always show exactly what we feel"
      ],
      "a": 1,
@@ -1907,6 +1857,57 @@
      ],
      "a": "pairs as given",
      "why": "Each one added to what we know about faces, and Bell's idea was shown wrong by Darwin."
+    },
+    {
+     "t": "write",
+     "p": "Why is it better to ask a friend 'Are you all right?' than to say 'Why are you cross with me?'",
+     "lines": 3,
+     "a": "The second question is a guess said as a fact, and the friend may not be cross at all. The first lets the friend say what they feel.",
+     "why": "A strong answer says that the face is only a clue, and that asking without blaming lets the friend answer honestly."
+    },
+    {
+     "t": "write",
+     "p": "Design a test to find out if people yawn when they can only hear a yawn, not see it. Say what you would change and what you would keep the same.",
+     "lines": 5,
+     "a": "A strong answer plays a recorded or hidden yawn and a plain sound (such as a cough) for the same time to the same people, and counts yawns in each. Only the sound changes.",
+     "why": "It is a fair test: one thing changes, everything else stays the same.",
+     "how": "e2"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into a clue about a feeling and the surest way to know it.",
+     "cats": [
+      "A clue",
+      "The surest way"
+     ],
+     "items": [
+      [
+       "a frowning face",
+       "A clue"
+      ],
+      [
+       "a wobbling chin",
+       "A clue"
+      ],
+      [
+       "a polite smile",
+       "A clue"
+      ],
+      [
+       "asking 'How are you feeling?'",
+       "The surest way"
+      ],
+      [
+       "listening to the answer",
+       "The surest way"
+      ],
+      [
+       "a hand held over the mouth",
+       "A clue"
+      ]
+     ],
+     "a": "see items",
+     "why": "Faces and body signs give clues that can be mixed up. Asking and listening is how you know."
     }
    ]
   }
@@ -1940,28 +1941,15 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya hides her mouth and makes a face with her eyebrows up and her eyes wide. What could she be feeling?",
-   "opts": [
-    "Only scared",
-    "Only surprised",
-    "Scared or surprised, and you would need to ask",
-    "Sad"
-   ],
-   "a": 2,
-   "why": "Both scared and surprised lift the eyebrows and widen the eyes. The face alone is not enough to tell.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
    "p": "What is the surest way to know how a friend feels?",
    "opts": [
-    "Look at her face",
-    "Ask her kindly",
-    "Guess from her clothes",
+    "Look at their face",
+    "Ask them kindly",
+    "Guess from their clothes",
     "Ask someone else"
    ],
    "a": 1,
-   "why": "A face gives clues, but faces can be mixed up or hidden. Asking lets her tell you.",
+   "why": "A face gives clues, but faces can be mixed up or hidden. Asking lets them tell you.",
    "outcome": 3
   },
   {
@@ -1979,7 +1967,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun's cousin says 'No, I don't want a hug.' What shows respect?",
+   "p": "Ananya's little cousin says 'No, I don't want a hug.' What shows respect?",
    "opts": [
     "Hug her anyway",
     "Say 'OK' and give her a wave instead",
@@ -2031,7 +2019,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila feels her tummy flutter before a dance show. Where is this feeling happening?",
+   "p": "Kavya feels her tummy flutter before a dance show. Where is this feeling happening?",
    "opts": [
     "Only in her mind",
     "In her body as well as her mind",
@@ -2072,7 +2060,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Face Test, Meenakshi got 'happy' right 3 times out of 3, 'angry' 2 times, 'surprised' 2 times and 'scared' only 1 time. How many faces did she get right altogether, out of these 12? Which feeling was hardest?",
+   "problem": "In the Face Test, Meenakshi, a girl in Class 3, got 'happy' right 3 times out of 3, 'angry' 2 times, 'surprised' 2 times and 'scared' only 1 time. How many faces did she get right altogether, out of these 12? Which feeling was hardest?",
    "answer": "8 out of 12. Scared was hardest.",
    "explain": "3 + 2 + 2 + 1 = 8. She got 8 of the 12 faces right. Scared had the fewest right, only 1 of 3, because it was mixed up with surprised.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2109,7 +2097,7 @@
    "why_maths": "A bar chart shows at a glance which feelings were easy and which were hard."
   },
   {
-   "problem": "Divya goes to bed at 9 at night and wakes at 6:30 in the morning. How long does she sleep? Is it enough for a child of 8?",
+   "problem": "Sowmya goes to bed at 9 at night and wakes at 6:30 in the morning. How long does she sleep? Is it enough for a child of 8?",
    "answer": "9 and a half hours. Yes, it is enough.",
    "explain": "From 9 at night to 6 in the morning is 9 hours. 6 to 6:30 is another half hour. So 9 and a half hours. Children need about 9 to 12 hours, so this is enough.",
    "math_unit": "math.time.duration.L3",
@@ -2118,9 +2106,9 @@
    "why_maths": "Counting hours across midnight is tricky. Working out the length of sleep tells you if it is enough."
   },
   {
-   "problem": "In the Real or Polite test, Ravi got 9 of 10 smiles right. His sister Revathi got 5 of 10. Who probably read the eyes, and who was probably guessing?",
-   "answer": "Ravi probably read the eyes. Revathi's score is what guessing would give.",
-   "explain": "With two choices, random guessing gives about 5 out of 10. Revathi's 5 is what luck alone gives. Ravi's 9 is far above that, so he was seeing a real clue.",
+   "problem": "In the Real or Polite test, Anita got 8 of 10 smiles right. Her cousin Mohan got 5 of 10. Who probably read the eyes, and who was probably guessing?",
+   "answer": "Anita probably read the eyes. Mohan's score is what guessing would give.",
+   "explain": "With two choices, random guessing gives about 5 out of 10. Mohan's 5 is what luck alone gives. Anita's 8 is well above that, so she was seeing a real clue.",
    "math_unit": "math.probability.likely-and-unlikely.L3",
    "context": "This is about the Real or Polite Smile test, where you look only at the eyes and guess if a smile is real.",
    "how": "a2",
@@ -2188,7 +2176,7 @@
   },
   {
    "text": "A yawn spreading round the room on a hot afternoon.",
-   "art": "Three family members on a sofa under a ceiling fan, yawning one after the other."
+   "art": "Three people on a sofa under a ceiling fan, yawning one after the other."
   }
  ],
  "open_questions": [
@@ -2219,14 +2207,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the tomato blush?",
-   "a": "Because it saw the salad dressing."
-  },
-  {
-   "j": "What did the big flower say to the little flower?",
-   "a": "Hi, bud!"
-  },
-  {
    "j": "Why was the maths book sad?",
    "a": "It had too many problems."
   },
@@ -2243,24 +2223,12 @@
    "a": "Because it was feeling crumby."
   },
   {
-   "j": "What do you call a yawn that spreads around the room?",
-   "a": "A yawn-o-mania!"
-  },
-  {
    "j": "Why did the student bring a ladder to school?",
    "a": "Because she wanted to go to high school."
   },
   {
    "j": "What did the calendar say when it felt nervous?",
    "a": "My days are numbered!"
-  },
-  {
-   "j": "Why did the idli feel so calm?",
-   "a": "It had been steamed, not stirred."
-  },
-  {
-   "j": "What do you call a sad cup of coffee?",
-   "a": "A depresso."
   },
   {
    "j": "Why are fish so clever?",
@@ -2273,10 +2241,6 @@
   {
    "j": "What did the ocean say to the beach?",
    "a": "Nothing, it just waved."
-  },
-  {
-   "j": "How do you make a tissue dance?",
-   "a": "Put a little boogie in it."
   }
  ],
  "song": {
@@ -2312,19 +2276,7 @@
    "why": "A school for Kathakali and other Kerala arts. Kathakali dancers train their eyes for years to show feelings."
   }
  ],
- "buy": [
-  {
-   "id": "b-book",
-   "item": "The Color Monster: A Story About Emotions, by Anna Llenas (picture book)",
-   "kind": "book",
-   "why": "A picture book in which feelings are sorted into jars by colour. It helps younger children name feelings. Not needed if you don't have it.",
-   "url": "https://www.amazon.in/s?k=the+color+monster+anna+llenas",
-   "used_in": [
-    "a1"
-   ],
-   "plan": "Read it aloud on the first day, before or after 'How Many Feelings Can You Name?'."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "Name two feelings that are easy to mix up on a face.",
@@ -2497,9 +2449,9 @@
   "ask": [
    "When you guessed a feeling wrong in the Face Test, was the face wrong, or was your guess wrong?",
    "Can you feel something without your body changing at all?",
-   "If a friend smiles but feels sad, which one is the truth about her?"
+   "If a friend smiles but feels sad, which one is the truth about their feeling?"
   ],
   "art": "Two children facing each other, one with a small sad face, the other with the same small sad face, and a faint line joining their hearts."
  },
- "playtest": "Every experiment, activity, game, project and challenge was walked through as if at home today, in a city flat, with the materials listed. The Face Test needs only paper cards and a notebook, and works with two people. A grown-up makes faces first, because children often find it hard to pose fear. Results vary from family to family, and the parent note says what is common without giving away the answer. The Real or Polite smile test says honestly that many people can fake the eye crinkle, so a score near 5 of 10 is a real result, not a failure. The Catch a Yawn test does the smiling round first, so yawns don't carry over, and suggests swapping the order another day. Children under about five rarely catch yawns, and the note says so. The body map and the Kindness Week need no special materials. The calm corner fits in one bedsheet of space. Timings were checked step by step. The spine fits about 85 minutes."
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if at home today, in a city flat, with the materials listed. The Face Test needs only paper cards and a notebook, and works with two people. A grown-up makes faces first, because children often find it hard to pose fear. Results vary from family to family, and the parent note says what is common without giving away the answer. The Real or Polite smile test says honestly that many people can fake the eye crinkle, so a score near 5 of 10 is a real result, not a failure. The Catch a Yawn test does the smiling round first, so yawns don't carry over, and suggests swapping the order another day. Children under about five rarely catch yawns, and the note says so. The body map and the Kindness Week need no special materials. The calm corner fits in one bedsheet of space. Timings were checked step by step. The spine fits about 85 minutes. A second walk-through fixed step minutes, an unclear circle-dividing step, wording that assumed relatives, repeated questions, and the joke list (nine kept)."
 }

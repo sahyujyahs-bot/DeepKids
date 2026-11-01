@@ -55,7 +55,7 @@
   {
    "term": "Prediction",
    "meaning": "Your guess about what will happen, with a reason, made before the test.",
-   "example": "\"I think the lemon slice will stay white, because Amma puts lemon on cut fruit.\"",
+   "example": "\"I think the lemon slice will stay white, because lemon juice is sour and I have seen it put on cut fruit.\"",
    "art": "A child writing in a notebook before a test, with a thought bubble showing an apple."
   },
   {
@@ -278,9 +278,9 @@
  ],
  "big_questions": [
   {
-   "q": "Your plain apple slice went brown with nothing on it. So what was making it brown?",
+   "q": "A friend says her tulsi grows faster because she sings to the plant. How could you test that fairly?",
    "kind": "deep",
-   "hint": "Think about what every slice shared: air, warmth, the cut."
+   "hint": "Think about two plants. What must be the same: the pot, the soil, the water, the light?"
   },
   {
    "q": "Can you ever keep everything else exactly the same?",
@@ -371,61 +371,108 @@
     "with a parent",
     "2 to 4 players"
    ],
-   "context": "This is a card game about spotting unfair tests. A player reads a test card, everyone says fair or unfair, and you win points for saying how to fix it.",
+   "context": "This is a card game about spotting unfair tests. Each card describes a test. Everyone says fair or unfair, and you win points for saying how to fix an unfair one.",
    "printables": [
     {
      "kind": "cards",
-     "title": "16 test cards",
+     "title": "16 test cards (print front and back: the answer is on the back)",
      "items": [
-      "Meenakshi drops a rubber ball from her head and a plastic ball from her knee. She says the rubber ball is bouncier. (Unfair: different heights)",
-      "Farhan drops two balls from the same height onto the same tiled floor. (Fair)",
-      "Divya waters one tulsi plant every day and forgets the other for a week. One is on the sunny balcony and one is inside. She says sunlight helps. (Unfair: water and light both changed)",
-      "Lakshmi cuts four slices from one apple and puts something different on each, all at the same time. (Fair)",
-      "Revathi puts one apple slice in the fridge and one on the table, and lemon only on the fridge slice. (Unfair: the place and the lemon both changed)",
-      "Anjali dries one hanky in the sun and one in the bathroom. Both are the same cloth and equally wet. She is testing where it dries faster. (Fair)",
-      "Priya tests which towel soaks up most water. She uses a big towel and a small hanky. (Unfair: different sizes)",
-      "Kavya times two toy cars down the same ramp. She lets go of both without pushing. (Fair)",
-      "Nila times her own running on the road and her friend's running on sand. (Unfair: different ground and different runners)",
-      "Joseph tests whether warm water dissolves sugar faster. He uses one spoon of sugar in each tumbler and stirs both the same. (Fair)",
-      "Shalini tests whether warm water dissolves sugar faster. She stirs only the warm one. (Unfair: stirring changed too)",
-      "Meera throws a paper ball once overarm and once underarm, and decides which is better. (Unfair: only one try each)",
-      "Asha throws a paper ball 10 times underarm and 10 times overarm from the same line. (Fair)",
-      "Lakshmi tests which shoe grips best. She tests one on the tiled floor and one on the doormat. (Unfair: different floors)",
-      "Arun tests which paper plane flies furthest. He throws one and his sister throws the other. (Unfair: different throwers)",
-      "Divya tests which cloth keeps ice from melting. She uses the same size ice cubes from one tray, all at the same time. (Fair)"
+      {
+       "f": "Meenakshi tests which wrapping keeps an idli warm longest. She wraps one idli in a banana leaf and one in foil. The idlis are the same size, from the same batch, and she feels both after 20 minutes.",
+       "b": "FAIR. Only the wrapping is different. Everything else is the same."
+      },
+      {
+       "f": "Farhan drops two balls from the same height onto the same tiled floor.",
+       "b": "FAIR. Only the ball is different, so the ball is the only thing that can explain a higher bounce."
+      },
+      {
+       "f": "Divya tests which soil grows beans better. She puts red soil in a big pot by the window and black soil in a small pot in the shade.",
+       "b": "UNFAIR. The soil, the pot size and the light are all different. Fix: use two pots of the same size, in the same place, with the same water and the same kind of bean."
+      },
+      {
+       "f": "Gauri tests which wrapping stops a cut banana going dark. She cuts three equal pieces from one banana. She wraps one in cloth and one in foil, and leaves one open. She looks at all three after an hour.",
+       "b": "FAIR. Only the wrapping is different. The open piece is the control."
+      },
+      {
+       "f": "Revathi puts one apple slice in the fridge and one on the table, and puts lemon only on the fridge slice.",
+       "b": "UNFAIR. The place and the lemon are both different. Fix: change only one, for example keep both slices on the table and put lemon on one."
+      },
+      {
+       "f": "Anjali dries one hanky in the sun and one in the bathroom. Both are the same cloth and equally wet. She is testing where it dries faster.",
+       "b": "FAIR. Only the place is different. The cloth and the wetness are the same."
+      },
+      {
+       "f": "Hetal tests which cloth soaks up the most water. She uses a big towel and a small hanky.",
+       "b": "UNFAIR. The size is different as well as the cloth. Fix: cut the same size piece from each cloth."
+      },
+      {
+       "f": "Kavya times two toy cars down the same ramp. She lets go of both without pushing.",
+       "b": "FAIR. Only the car is different. Same ramp, same start, no push."
+      },
+      {
+       "f": "Mitali times her own run on the road and her friend's run on sand.",
+       "b": "UNFAIR. The ground and the runner are both different. Fix: the same person runs on both, or two friends run on the same ground."
+      },
+      {
+       "f": "Joseph tests whether warm water dissolves sugar faster. He puts one spoon of sugar in each tumbler and stirs both the same way.",
+       "b": "FAIR. Only the warmth is different. The sugar and the stirring are the same."
+      },
+      {
+       "f": "Shalini tests whether warm water dissolves sugar faster. She stirs only the warm one.",
+       "b": "UNFAIR. The warmth and the stirring are both different. Fix: stir both tumblers the same way, or neither."
+      },
+      {
+       "f": "Meera throws a paper ball once overarm and once underarm, and decides which is better.",
+       "b": "UNFAIR. One try each can be a fluke. Fix: throw ten times each from the same line."
+      },
+      {
+       "f": "Asha throws a paper ball 10 times underarm and 10 times overarm from the same line.",
+       "b": "FAIR. Same line, same ball, same number of throws. Only the way of throwing is different."
+      },
+      {
+       "f": "Sowmya tests which shoe grips best. She tests one on the tiled floor and the other on the doormat.",
+       "b": "UNFAIR. The shoe and the floor are both different. Fix: test both shoes on the same floor."
+      },
+      {
+       "f": "Arun tests which paper plane flies furthest. He throws one and his sister throws the other.",
+       "b": "UNFAIR. The plane and the thrower are both different. Fix: the same person throws both planes, several times each."
+      },
+      {
+       "f": "Nandini tests which cloth keeps ice from melting. She wraps ice cubes of the same size from one tray in different cloths and checks them all at the same times.",
+       "b": "FAIR. Only the cloth is different. The ice cubes and the checking times are the same."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "One FAIR card and one UNFAIR card for each player",
+     "title": "4 FAIR cards and 4 UNFAIR cards (one of each for every player)",
      "items": [
       "FAIR",
+      "FAIR",
+      "FAIR",
+      "FAIR",
+      "UNFAIR",
+      "UNFAIR",
+      "UNFAIR",
       "UNFAIR"
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Score sheet",
-     "items": [
-      "Player name",
-      "Points: 1 for the right card, 1 more for a fix"
      ]
     }
    ],
    "rules": [
-    "Each player has a FAIR card and an UNFAIR card. Shuffle the 16 test cards and put them face down.",
-    "One player reads the top test card aloud, without reading the answer in brackets.",
+    "Each player takes one FAIR card and one UNFAIR card. Stack the 16 test cards with the test side up, so nobody can see an answer.",
+    "One player reads the top test card aloud and leaves it on the table, test side up.",
     "Everyone holds up FAIR or UNFAIR at the same time.",
-    "One point for the right card.",
-    "If it is unfair, one more point for saying what was different, and how to make it fair.",
-    "Take turns to read. The game ends when all the cards are read. Most points wins.",
-    "Playing alone: read each card, decide, then check the answer in brackets. Keep your own score out of 16."
+    "Turn the card over and read the answer. One point for each player who held up the right card.",
+    "If the test is unfair, one more point for any player who says what was different and how to make it fair.",
+    "Put the card aside. The next player reads the next card. Keep score with tally marks on a page, one row for each player.",
+    "The game ends when all 16 cards are read. Most points wins. If points are equal, you share the win.",
+    "Playing alone: read each card, decide, then turn it over and check. Score your own points out of 16."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the cards. 2. Give each player a FAIR and an UNFAIR card. 3. Shuffle the test cards.",
+     "do": "1. Cut out the 16 test cards, and the FAIR and UNFAIR cards. 2. Give each player one FAIR and one UNFAIR card. 3. Stack the test cards with the test side up.",
      "say": "Each card tells you about a test someone did. You decide if it was fair. A fair test changes only one thing.",
      "kid": "Each card is a test. Is it fair? A fair test changes only one thing.",
      "context": "This is the first step of Fair or Unfair?, a card game about spotting unfair tests."
@@ -433,18 +480,18 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Read the first card, about Meenakshi's two balls, as a practice round.",
-     "say": "Meenakshi drops one ball from her head and one from her knee. She says the first ball is bouncier. Fair or unfair?",
-     "kid": "One ball falls from her head, one from her knee. Fair or unfair?",
+     "do": "Read the top card as a practice round: Meenakshi's idlis in two wrappings.",
+     "say": "Meenakshi wraps one idli in a banana leaf and one in foil. The idlis are the same size, from the same batch. She feels both after 20 minutes. Fair or unfair?",
+     "kid": "One idli in a banana leaf, one in foil. Same size, same batch. Fair or unfair?",
      "check": {
       "t": "mcq",
-      "q": "Meenakshi drops a rubber ball from her head and a plastic ball from her knee. Is her test fair?",
+      "q": "Meenakshi wraps one idli in a banana leaf and one in foil. The idlis are the same size and from the same batch, and she feels both after 20 minutes. Is her test fair?",
       "options": [
-       "Fair, because she used two balls",
-       "Unfair, because the heights were different too"
+       "Fair, because only the wrapping is different",
+       "Unfair, because she used two wrappings"
       ],
-      "a": 1,
-      "why": "She changed the ball and the height. A ball dropped from higher bounces higher, so she cannot tell which one made the difference."
+      "a": 0,
+      "why": "Only the wrapping changes. The idlis, the time and the way she checks are the same, so any difference must come from the wrapping."
      }
     },
     {
@@ -455,7 +502,7 @@
      "kid": "Read a card. Hold up FAIR or UNFAIR. If unfair, say how to fix it.",
      "ask": [
       {
-       "q": "How would you make Priya's towel test fair?",
+       "q": "How would you make Hetal's cloth test fair?",
        "good": [
         "Use two cloths of the same size.",
         "Cut the same size piece from each cloth."
@@ -497,30 +544,56 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "8 table cards",
+     "title": "8 table cards (print front and back: the answer is on the back)",
      "items": [
-      "Bounce test. Columns: Ball, Bounce. Rows: Rubber ball 45, Plastic ball 30. (Mistake: no unit in the heading. Should be 'Bounce height (cm)')",
-      "Apple test. Columns: Slice, After 30 minutes. Rows: Nothing, brown. Lemon, white. Water, (empty). (Mistake: a result is missing)",
-      "Throw test. Columns: Throw, Went in out of 10. Rows: Underarm 7, Overarm 4, Underarm 6. (Mistake: underarm is written twice and overarm only once, so it is not the same number of tries)",
-      "Drying test. Columns: Cloth, Minutes to dry. Rows: Cotton 40, Towel 2 hours. (Mistake: the units are mixed. Write 120 minutes)",
-      "Sugar test. Columns: Water, Seconds to dissolve. Rows: Warm and stirred 30, Cold and not stirred 200. (Mistake: two things changed, not a fair test)",
-      "Ice test. Columns: Wrap, Minutes until melted. Rows: Cloth 50, Foil 35, Nothing (empty). (Mistake: the control result is missing)",
-      "Plant test. Columns: Pot, Height. Rows: Sunny 12 cm, Dark 30 cm. (Mistake: a dark pot growing much taller is odd. Check how it was measured, and say what you think happened)",
-      "Bounce test. Columns: Ball, Try 1 (cm), Try 2 (cm), Try 3 (cm). Rows: Rubber 45, 44, 46. Tennis 38, 40, 39. (No mistake: a well-made table)"
+      {
+       "f": "Bounce test. Columns: Ball | Bounce. Rows: Rubber ball | 45. Plastic ball | 30.",
+       "b": "Mistake: the heading has no unit. 45 what? It should say 'Bounce height (cm)'."
+      },
+      {
+       "f": "Apple test. Columns: Slice | After 30 minutes. Rows: Nothing | brown. Lemon | white. Water | (empty box).",
+       "b": "Mistake: a result is missing. The water slice has no entry. Every row needs a result."
+      },
+      {
+       "f": "Throw test. Columns: Throw | Balls in, out of 10. Rows: Underarm | 7. Overarm | 4. Underarm | 6.",
+       "b": "Mistake: underarm is written twice and overarm once, so the tries are not the same for each. Each way of throwing needs the same number of tries."
+      },
+      {
+       "f": "Drying test. Columns: Cloth | Time to dry. Rows: Cotton | 40 minutes. Towel | 2 hours.",
+       "b": "Mistake: the units are mixed. Write both in minutes: cotton 40, towel 120. Then the numbers can be compared."
+      },
+      {
+       "f": "Sugar test. Columns: Water | Seconds to dissolve. Rows: Warm and stirred | 30. Cold and not stirred | 200.",
+       "b": "Mistake: two things changed, the warmth and the stirring. This is not a fair test. Fix: change only one."
+      },
+      {
+       "f": "Ice test. Columns: Wrap | Minutes until melted. Rows: Cloth | 50. Foil | 35. Nothing | (empty box).",
+       "b": "Mistake: the result for 'Nothing' is missing. That is the control, and every other result is compared with it."
+      },
+      {
+       "f": "Plant test. Columns: Pot | Height. Rows: Sunny | 12 cm. Dark | 30 cm.",
+       "b": "This is an odd result, not a writing mistake. A plant in the dark growing much taller is surprising. Do not rub it out. Check how it was measured, and repeat the test."
+      },
+      {
+       "f": "Bounce test. Columns: Ball | Try 1 (cm) | Try 2 (cm) | Try 3 (cm). Rows: Rubber | 45 | 44 | 46. Tennis | 38 | 40 | 39.",
+       "b": "No mistake. The headings have units, every box is filled in, and each ball has the same number of tries."
+      }
      ]
     }
    ],
    "rules": [
-    "Turn over a table card.",
-    "Find the one mistake, or say 'no mistake'.",
-    "Say how you would fix it.",
-    "One point for finding it, one for the fix."
+    "Stack the 8 table cards with the table side up. Turn over one card at a time.",
+    "Look for a mistake in the way the table is written, or an odd result. One card has no mistake. Say 'no mistake' if you think that is the one.",
+    "Say how you would fix it, or what you would check.",
+    "Turn the card over and read the answer. One point for finding it, one point for the fix.",
+    "With two players, the first to speak scores the first point. The other player can win the fix point.",
+    "The game ends after 8 cards. Most points wins. If points are equal, you share the win. Playing alone, score out of 16."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Show the first table card, the bounce test with no unit.",
+     "do": "Start with the bounce test card that has no unit.",
      "say": "Here is a results table. Something is missing. Can you find it?",
      "kid": "Look at this table. Something is missing. What is it?",
      "check": {
@@ -541,7 +614,7 @@
      "do": "Go through the other cards. Let your child find each mistake before you read the answer.",
      "say": "Take your time. Read the headings first, then each row.",
      "kid": "Read the headings first. Then each row. Find the mistake.",
-     "parent": "The last card has no mistake. Children who say so are reading carefully. The plant card is an odd result, not a writing mistake: a good answer says to check it, not to rub it out."
+     "parent": "One card has no mistake. Children who say so are reading carefully. The plant card is an odd result, not a writing mistake: a good answer says to check it, not to rub it out."
     },
     {
      "id": "s3",
@@ -633,7 +706,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the apple. Lemon juice stings in the eyes and in small cuts, so wash your hands after. You can eat the slices afterwards.",
+   "safety": "A grown-up cuts the apple. Lemon juice stings in the eyes and in small cuts, so wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -697,14 +770,15 @@
      "wait": "Wait until 30 minutes after the slices went on the plate.",
      "check": {
       "t": "mcq",
-      "q": "Why did we keep one slice with nothing on it?",
+      "q": "A slice looks light brown. What score do you give it?",
       "options": [
-       "To eat it later",
-       "To see what happens to a slice with nothing added, so we can compare",
-       "Because we ran out of lemon"
+       "0",
+       "1",
+       "2",
+       "3"
       ],
-      "a": 1,
-      "why": "The plain slice is the control. Without it, we would not know whether the lemon slice stayed white because of the lemon, or because this apple stays white anyway."
+      "a": 2,
+      "why": "The score runs from 0 (white) to 3 (dark brown). Light brown is 2. Scoring every slice with the same scale keeps the test fair."
      }
     },
     {
@@ -795,7 +869,7 @@
    "context": "In this experiment you find out whether you get more paper balls into a bucket throwing underarm or overarm. You throw ten times each, because one throw can be a fluke.",
    "question": "From two big steps away, do more paper balls go into a bucket when you throw underarm or overarm?",
    "predict": "Which throw do you think will get more balls into the bucket, underarm or overarm? Why do you think so? Would one throw of each be enough to know?",
-   "fair_test": "The thing we change: underarm or overarm. The things we keep the same: the same paper ball, the same bucket, the same thrower, the same chalk or tape line, the same number of throws. What we count: how many of 10 throws go in.",
+   "fair_test": "The thing we change: underarm or overarm. The things we keep the same: the same paper ball, the same bucket, the same thrower, the same line, the same number of throws, and we take turns so tiredness is the same for both. What we count: how many of 10 throws go in.",
    "results_table": [
     "Throw",
     "Tally of balls in",
@@ -819,7 +893,6 @@
      "qty": 1
     }
    ],
-   "safety": "Throw away from windows, lamps and people. A paper ball is soft and safe indoors.",
    "schedule": [
     {
      "day": 1,
@@ -848,9 +921,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Throw 10 underarm, then 10 overarm. After each throw, make a tally mark if it went in.",
-     "say": "Ten each. Same line, same ball. I'll fetch the ball. You keep the tally.",
-     "kid": "Ten throws underarm. Ten throws overarm. Tally each one that goes in.",
+     "do": "Throw one underarm, then one overarm, and keep taking turns until you have thrown 10 of each. After each throw, make a tally mark in the right row if it went in.",
+     "say": "Ten each, one underarm then one overarm. Same line, same ball. I'll fetch the ball. You keep the tally.",
+     "kid": "Throw underarm, then overarm, again and again. Ten of each. Tally every ball that goes in.",
      "check": {
       "t": "mcq",
       "q": "Why do we throw 10 times each instead of once?",
@@ -874,12 +947,12 @@
        "q": "What would you change to make the test even better?",
        "good": [
         "Throw 20 times each.",
-        "Take turns, underarm then overarm, so tiredness is the same for both.",
-        "Get someone else to throw too."
+        "Get someone else to throw too, and compare.",
+        "Use a smaller bucket, so there are fewer lucky throws."
        ]
       }
      ],
-     "parent": "Results differ from child to child. Many children land more underarm from close up, but not all. A child who notices that tiredness or practice could change later throws has spotted a real problem: taking turns fixes it."
+     "parent": "Results differ from child to child. Many children land more underarm from close up, but not all. Throwing underarm and overarm in turns means practice and tiredness help both ways equally. A child who notices a problem such as a bucket that is too easy has spotted something real."
     }
    ],
    "example_chart": {
@@ -926,7 +999,7 @@
    "context": "Many cooks in India put cut brinjal into a bowl of water until it is time to cook. In this experiment you test whether the water really stops it going brown.",
    "question": "Does keeping cut brinjal under water stop it turning brown?",
    "predict": "Which brinjal piece do you think will stay pale longest: the one on a plate, the one under water, or the one under salt water? Why do you think so?",
-   "fair_test": "The thing we change: where each piece waits: on a plate, under plain water, or under salt water. The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a small katori, or the top would be in the air. The piece on the plate is the control.",
+   "fair_test": "The thing we change: where each piece waits: on a plate, under plain water, or under salt water. The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a steel lid, or the top would be in the air. The piece on the plate is the control.",
    "results_table": [
     "Piece",
     "Where it waited",
@@ -947,7 +1020,7 @@
      "qty": 1
     },
     {
-     "item": "two small katoris or steel lids that fit inside the bowls, to hold the pieces under",
+     "item": "two flat steel lids or small steel plates that fit inside the bowls, to hold the pieces under",
      "qty": 1
     },
     {
@@ -959,7 +1032,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the brinjal. Do not eat raw brinjal pieces. Cook them afterwards.",
+   "safety": "A grown-up cuts the brinjal. Cook the pieces afterwards instead of eating them raw.",
    "schedule": [
     {
      "day": 1,
@@ -973,16 +1046,16 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Draw the table. 2. Ask for a prediction and a reason.",
-     "say": "Amma puts cut brinjal in water. Do you think the water really helps? Why? Which piece will stay pale longest?",
+     "say": "Many cooks put cut brinjal in water until it is time to cook. Do you think the water really helps? Why? Which piece will stay pale longest?",
      "kid": "Cooks put cut brinjal in water. Does it help? Why do you think so?",
      "context": "This is the first step of the Brinjal Bowl test. You guess and draw a table."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in each bowl and press it under with a katori.",
+     "do": "1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in each bowl and press it under with a steel lid.",
      "say": "Look, the brinjal floats. If it floats, its top is in the air. Is that fair? So I hold each one under.",
-     "kid": "The brinjal floats! The top is in the air. So hold it under with a katori.",
+     "kid": "The brinjal floats! The top is in the air. So hold it under with a steel lid.",
      "adult": true,
      "parent": "Brinjal is full of tiny air spaces, so it floats. A floating piece would brown on top, and the test would be unfair to the water. Holding it under is the fix."
     },
@@ -1019,8 +1092,8 @@
      "caption": "1. A grown-up cuts three pieces from one brinjal."
     },
     {
-     "art": "A brinjal piece floating in a bowl, and next to it a small steel katori pressing another piece under the water.",
-     "caption": "2. Brinjal floats, so hold it under with a katori."
+     "art": "A brinjal piece floating in a bowl, and next to it a flat steel lid pressing another piece under the water.",
+     "caption": "2. Brinjal floats, so hold it under with a steel lid."
     },
     {
      "art": "Three brinjal pieces side by side: one brown from the plate and two pale from the water.",
@@ -1050,7 +1123,6 @@
      "qty": 1
     }
    ],
-   "safety": "Drop the balls away from glass, lamps and the edges of steps.",
    "schedule": [
     {
      "day": 1,
@@ -1124,7 +1196,6 @@
      "qty": 1
     }
    ],
-   "safety": "Stand on a flat floor with nothing sharp nearby, in case someone wobbles.",
    "schedule": [
     {
      "day": 1,
@@ -1138,7 +1209,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Agree the rules together and write them down. Same floor, bare feet, arms out, eyes open. Stop timing when the other foot touches down.",
-     "say": "If Paati stands on the rug and I stand on the tiles, is that fair? Let's agree the rules first.",
+     "say": "If one person stands on the rug and another on the tiles, is that fair? Let's agree the rules first.",
      "kid": "Agree the rules first. Same floor. Bare feet. Arms out. Eyes open.",
      "context": "This is the start of the Family Balance Table. You agree fair rules before anyone is timed."
     },
@@ -1170,7 +1241,7 @@
       {
        "q": "Did anyone get one very different time? What could have happened?",
        "good": [
-        "Yes, Appa wobbled because he laughed.",
+        "Yes, one person wobbled because they laughed.",
         "Someone got better with practice."
        ]
       }
@@ -1180,7 +1251,7 @@
    ],
    "setup": [
     {
-     "art": "A grandmother, a mother and a child each standing on one foot with arms out on a tiled floor, laughing.",
+     "art": "Three people of different ages, each standing on one foot with arms out on a tiled floor, laughing.",
      "caption": "1. Agree the rules, then stand on one foot."
     },
     {
@@ -1194,10 +1265,10 @@
    "title": "Two Things at Once: the sugar puzzle",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you see why changing two things at once leaves you unsure, and then you untangle it with two fair tests.",
+   "context": "In this activity you see why changing two things at once leaves you unsure, and then you untangle it with fair tests.",
    "materials": [
     {
-     "item": "4 steel tumblers",
+     "item": "3 steel tumblers, each with the same amount of water: about half a tumbler",
      "qty": 1
     },
     {
@@ -1209,11 +1280,15 @@
      "qty": 1
     },
     {
-     "item": "4 teaspoons of sugar",
+     "item": "3 teaspoons of sugar",
      "qty": 1
     },
     {
      "item": "a spoon for stirring",
+     "qty": 1
+    },
+    {
+     "item": "a phone timer",
      "qty": 1
     }
    ],
@@ -1225,12 +1300,12 @@
      "what": "Do one unfair sugar test, then two fair ones, and work out what really helped."
     }
    ],
-   "record": "Draw the four tumblers. Under each, write: warm or cold, stirred or not, and how many seconds the sugar took to disappear.",
+   "record": "Draw the three tumblers. Under each, write: warm or cold, stirred or not, and how many seconds the sugar took to disappear.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "Tumbler 1: warm water, add a teaspoon of sugar, stir. Tumbler 2: cold water, add a teaspoon of sugar, don't stir. Time both.",
+     "do": "Tumbler 1: warm water, one teaspoon of sugar, stir 20 times. Tumbler 2: cold water, one teaspoon of sugar, do not stir. Start the timer for both and write down when the sugar disappears.",
      "say": "The sugar in the warm stirred tumbler vanished first. Was it the warm water, or the stirring?",
      "kid": "Warm and stirred. Cold and not stirred. Which helped, warmth or stirring?",
      "context": "This is the first step of the sugar puzzle. You do a test that changes two things at once.",
@@ -1242,15 +1317,16 @@
         "It could be the warm water or the stirring."
        ]
       }
-     ]
+     ],
+     "parent": "The sugar in the cold tumbler that is not stirred can take 5 minutes or more. Stop timing at 5 minutes and write 'not yet'. That is still a result."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Now two fair tests. Tumblers 3 and 4: both cold water, one stirred and one not stirred. Then compare tumbler 1 with a new cold tumbler that is stirred the same way.",
-     "say": "This time, only the stirring changes. Then only the warmth changes. One thing at a time.",
-     "kid": "Now change only one thing. First stirring. Then warmth.",
-     "parent": "Stir the same number of times in each stirred tumbler, for example 20 stirs. Count the stirs aloud together."
+     "do": "Tumbler 3: cold water, one teaspoon of sugar, stir 20 times. Now you have two fair tests. Stirring: compare tumblers 2 and 3, which are both cold. Warmth: compare tumblers 1 and 3, which are both stirred 20 times.",
+     "say": "This time, only one thing changes in each comparison. Cold and stirred against cold and not stirred: only the stirring changes. Warm and stirred against cold and stirred: only the warmth changes.",
+     "kid": "Add a cold tumbler that is stirred. Compare tumblers 2 and 3 for stirring. Compare 1 and 3 for warmth.",
+     "parent": "Stir the same number of times in each stirred tumbler. Count the stirs aloud together."
     },
     {
      "id": "s3",
@@ -1301,7 +1377,6 @@
      "qty": 1
     }
    ],
-   "safety": "This is a pretend activity. Do not drink sea water, vinegar or any acid.",
    "schedule": [
     {
      "day": 1,
@@ -1332,7 +1407,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Fill in Lind's table. The pair with oranges and lemons got much better. One was fit for work in six days. The others stayed ill, though the cider pair got a little better.",
+     "do": "Fill in Lind's table. The pair with oranges and lemons did best. One was fit for work in six days, and the other was much better. The cider pair got a little better. The other pairs did not get better.",
      "say": "The sailors with oranges and lemons got well. Why was it important that they all ate the same food?",
      "kid": "The oranges and lemons pair got well. Why did all of them eat the same food?",
      "check": {
@@ -1369,7 +1444,7 @@
    "context": "In this 2-day project you choose your own question, plan a fair test on a planning sheet, do it, and show your results to the family.",
    "materials": [
     {
-     "item": "a planning sheet: a page with three boxes, 'I will change', 'I will keep the same', 'I will measure or watch'",
+     "item": "a plain page to rule into three boxes: 'I will change', 'I will keep the same', 'I will measure or watch'",
      "qty": 1
     },
     {
@@ -1403,10 +1478,21 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Offer these questions: Which paper plane flies furthest? Which towel soaks up a spill best? Which tumbler keeps ice longest: steel, glass or plastic? 2. Your child picks one, or their own. 3. Fill in the planning sheet together. 4. Draw the table.",
+     "do": "1. Draw three boxes on a page: 'I will change', 'I will keep the same', 'I will measure or watch'. 2. Offer these questions: Which paper plane flies furthest? Which cloth soaks up a spill best? Which tumbler keeps ice longest: steel, glass or plastic? 3. Your child picks one, or their own. 4. Fill in the three boxes together. 5. Draw the results table.",
      "say": "Pick a question you really want answered. Then tell me: what will you change, what will you keep the same, and what will you measure?",
      "kid": "Pick a question. What will you change? What stays the same? What will you measure?",
-     "context": "This is day 1 of My Own Fair Test. You plan your test on a planning sheet."
+     "context": "This is day 1 of My Own Fair Test. You plan your test on a planning sheet.",
+     "check": {
+      "t": "mcq",
+      "q": "You test which tumbler keeps ice longest: steel, glass or plastic. What is the one thing you change?",
+      "options": [
+       "The kind of tumbler",
+       "The size of the ice cube",
+       "The room"
+      ],
+      "a": 0,
+      "why": "The kind of tumbler is what you want to find out about, so it is what you change. The ice cube size and the room stay the same."
+     }
     },
     {
      "id": "s2",
@@ -1414,18 +1500,7 @@
      "do": "1. Do the test three times. 2. Fill in the table. 3. Your child presents it: the question, the plan, the results and a conclusion.",
      "say": "Tell us what you tested, what you kept the same, and what you found. What would you do differently next time?",
      "kid": "Do your test three times. Then tell the family what you found.",
-     "wait": "Day 2: do the test and present it.",
-     "check": {
-      "t": "mcq",
-      "q": "Your test gives a very odd result once. What is the best thing to do?",
-      "options": [
-       "Rub it out",
-       "Keep it, write what happened, and test again",
-       "Change your question"
-      ],
-      "a": 1,
-      "why": "An odd result might be a fluke, or it might be telling you something new. Keeping it and testing again is how you find out."
-     }
+     "wait": "Day 2: do the test and present it."
     }
    ],
    "setup": [
@@ -1517,9 +1592,9 @@
    "id": "c2",
    "title": "The Fair Taste Test",
    "mins": 20,
-   "problem": "Appa says he can taste the difference between tap water and water that was boiled and then cooled. Design a fair test to find out if he can.",
+   "problem": "A person in your family says they can taste the difference between tap water and water that was boiled and then cooled. Design a fair test to find out if they can.",
    "constraints": [
-    "He must not see which water is which.",
+    "The taster must not see which water is which.",
     "Both waters must be at the same temperature.",
     "One correct guess is not enough to prove it."
    ],
@@ -1527,11 +1602,11 @@
     "4 identical steel tumblers",
     "tap water",
     "boiled water, cooled to room temperature",
-    "a cloth for a blindfold, or he closes his eyes",
+    "a cloth for a blindfold, or the taster closes their eyes",
     "a notebook"
    ],
    "general": [
-    "Pour both waters into identical tumblers, at the same temperature. Mark the bottoms secretly. Swap the order each time. Ask him to say which is which, ten times."
+    "Pour both waters into identical tumblers, at the same temperature. Mark the bottoms secretly. Swap the order each time. Ask the taster to say which is which, ten times."
    ],
    "creative": [
     "Toss a coin to decide the order each time, so even you can't make a pattern.",
@@ -1543,16 +1618,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem. Ask how Appa could cheat without meaning to.",
-     "say": "How could Appa guess right without really tasting a difference?",
-     "kid": "How could Appa guess right just by luck or by peeking?",
+     "do": "Read the problem. Ask how the taster could guess right without really tasting a difference.",
+     "say": "How could the taster guess right without really tasting a difference?",
+     "kid": "How could the taster guess right just by luck or by peeking?",
      "context": "This is a design challenge. You plan a fair taste test.",
      "ask": [
       {
-       "q": "How could he guess right without tasting?",
+       "q": "How could the taster guess right without tasting?",
        "good": [
         "By seeing which tumbler it is.",
-        "By luck, if he only tries once.",
+        "By luck, if they only try once.",
         "If one water is colder."
        ]
       }
@@ -1571,13 +1646,13 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the right answers and talk about them.",
-     "say": "Just guessing, he would get about 5 right out of 10. What did he get? What does that tell us?",
-     "kid": "Guessing gets about 5 of 10 right. What did he get?"
+     "say": "Just guessing, the taster would get about 5 right out of 10. Getting 6 or 7 can easily happen by luck. Getting 9 or 10 is very unlikely by luck. What did they get? What does that tell us?",
+     "kid": "Guessing gets about 5 of 10 right. What did the taster get?"
     }
    ],
    "setup": [
     {
-     "art": "Two identical steel tumblers of water on a table and a father with his eyes closed.",
+     "art": "Two identical steel tumblers of water on a table and a person with their eyes closed.",
      "caption": "1. Two waters, same tumblers, same temperature."
     },
     {
@@ -1594,7 +1669,7 @@
    "youtube": "yYMPbKbK1yo",
    "mins": 4,
    "why": "A short video for children on what makes a test fair, and on changing one thing at a time.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Fair Tests', channel ESB Science Blast). Not watched from here: a parent should preview it and check its length."
+   "check": "Watch it yourself first, to see that it suits your child."
   },
   {
    "title": "Why Do Apples Turn Brown?",
@@ -1602,7 +1677,7 @@
    "youtube": "gbArE5dv0W4",
    "mins": 3,
    "why": "For the parent and older children: the science of why cut apples turn brown, behind the Brown Apple Test.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Why Do Apples Turn Brown?', channel SciShow). Not watched from here: a parent should preview it and check its length."
+   "check": "Watch it yourself first, to see that it suits your child."
   },
   {
    "title": "Fair Tests",
@@ -1610,7 +1685,7 @@
    "youtube": "mwp10HaHpVM",
    "mins": 6,
    "why": "For the parent: a teacher explains fair tests, variables and controls clearly.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Fair Tests', channel Bozeman Science). Not watched from here: a parent should preview it and check its length."
+   "check": "Watch it yourself first, to see that it suits your child."
   }
  ],
  "quiz": [
@@ -1642,7 +1717,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya puts one plant on the sunny balcony and waters that plant every day. She puts another inside and forgets to water it. The balcony plant grows better. What is wrong with her test?",
+   "p": "Divya puts one tomato plant on the sunny balcony and waters that plant every day. She puts another inside and forgets to water it. The balcony plant grows better. What is wrong with her test?",
    "opts": [
     "Nothing, it is fair",
     "She changed two things: the light and the water",
@@ -1710,7 +1785,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya's table says: underarm 7 out of 10, overarm 4 out of 10. What can she say?",
+   "p": "Kavya's table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can she say?",
    "opts": [
     "Overarm got more in",
     "Underarm got more in, in her test",
@@ -1738,15 +1813,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why did James Lind give all twelve sick sailors the same food?",
+   "p": "In Lind's test, what was different between the six pairs of sailors?",
    "opts": [
-    "So only the treatment was different",
-    "Because they liked it",
-    "To save money",
-    "So they would sleep better"
+    "The treatment they were given",
+    "The food they ate",
+    "The part of the ship they slept in",
+    "The illness they had"
    ],
    "a": 0,
-   "why": "With the same food, the same place and the same illness, the treatment was the only difference. So it was the treatment that helped the oranges and lemons pair.",
+   "why": "Lind gave every pair the same food and the same place to sleep, and all had scurvy. Only the treatment was different, so it was the treatment that helped the oranges and lemons pair.",
    "outcome": 6
   },
   {
@@ -1785,13 +1860,13 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Revathi wants to know which cloth dries faster, cotton or towel. Which test is fair?",
+     "p": "Revathi wants to know which floats longer, a paper boat folded from newspaper or one folded from a notebook page. Which test is fair?",
      "a": 1,
-     "why": "The pieces must be the same size and equally wet, and dry in the same place. Only the cloth is different.",
+     "why": "The boats must be the same size, and they must float in the same water at the same time. Only the paper is different.",
      "opts": [
-      "A small cotton hanky in the sun and a big towel in the bathroom",
-      "Two pieces the same size, equally wet, hung side by side",
-      "A wet hanky and a dry towel"
+      "A big newspaper boat in a bucket and a small notebook boat in a pond",
+      "Two boats of the same size, put on the water at the same time in the same bucket",
+      "A wet boat and a dry boat"
      ]
     },
     {
@@ -1810,11 +1885,10 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi drops her ball from above her head and her brother drops his from his knee. Hers bounces higher. Why can't she say her ball is bouncier?",
-     "a": "Because the balls fell from different heights. A ball dropped from higher bounces higher, so the height could be the reason, not the ball.",
-     "why": "A strong answer names the two things that were different, the ball and the height, and says either could explain it.",
-     "lines": 3,
-     "how": "a1"
+     "p": "Bhavana says her new cricket bat hits the ball further than her old one. She hit with the old bat on a calm morning, and with the new bat on a windy evening. Why can't she be sure the new bat is better?",
+     "a": "Two things were different: the bat and the weather. The wind could have carried the ball further, not the bat.",
+     "why": "A strong answer names both differences, the bat and the wind, and says either could explain the result.",
+     "lines": 3
     },
     {
      "t": "sort",
@@ -1931,9 +2005,9 @@
      "t": "odd",
      "p": "Three of these tests are fair. Which one is the odd one out?",
      "a": 0,
-     "why": "Arun and his sister throw differently, so the throwers are different as well as the planes. The others change only one thing.",
+     "why": "The two cloths are soaked with different amounts of water, so the amount of water is different as well as the cloth. The others change only one thing.",
      "opts": [
-      "Arun throws one plane and his sister throws the other",
+      "One cloth soaked in a cup of water and the other in a spoonful",
       "Two balls dropped from the same height",
       "Four apple slices from one apple",
       "Two cloths of the same size hung side by side"
@@ -1941,23 +2015,22 @@
     },
     {
      "t": "truefalse",
-     "p": "Throwing a paper ball once underarm and once overarm is enough to know which throw is better.",
+     "p": "A test is a good test when it gives the answer you hoped for.",
      "a": false,
-     "why": "False. One throw can be a fluke. Ten throws each give a fairer picture.",
-     "how": "e2"
+     "why": "False. A test is good because it is fair, not because of what it shows. Keep results you did not hope for."
     },
     {
      "t": "perspective",
      "p": "Two cousins in Hyderabad argue about how to test which tumbler keeps water coldest: steel, glass or plastic.",
-     "a": "A strong answer agrees that tests should be repeated and also sees that fairness comes first: three fair tries beat ten unfair ones. Both girls have a point.",
+     "a": "A strong answer says fairness and repeating both matter: a fair test repeated three times is best. Both cousins have a point.",
      "why": "Pick-a-side questions have no single right side. Marks go for using evidence and for fairly stating the other view.",
      "views": [
       {
-       "who": "Priya, aged 9",
-       "says": "We must put the same amount of water from the same jug in each tumbler, at the same time. If that's fair, one try is enough."
+       "who": "Sowmya, aged 9",
+       "says": "Fairness comes first. We must put the same amount of water from the same jug in each tumbler, at the same time. If the test is not fair, doing it ten times only repeats the mistake."
       },
       {
-       "who": "Anjali, aged 8",
+       "who": "Zainab, aged 8",
        "says": "Even a fair test can go wrong once. We should do it three times."
       }
      ],
@@ -1996,7 +2069,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila tests paper planes. She throws plane A three times: 3 m, 4 m, 3 m. She throws plane B three times: 6 m, 1 m, 2 m. What can she say?",
+     "p": "Nila tests paper planes. She throws plane A three times: 3 m, 4 m, 3 m. She throws plane B three times: 6 m, 1 m, 3 m. What can she say?",
      "a": 1,
      "why": "A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so she can't yet say which is better. She should throw more.",
      "opts": [
@@ -2004,6 +2077,13 @@
       "She can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total",
       "Plane A is broken"
      ]
+    },
+    {
+     "t": "write",
+     "p": "Tanvi wants to know whether newspaper or notebook paper makes a paper plane that flies further. Write what she changes, two things she keeps the same, and what she measures.",
+     "a": "Change: the kind of paper. Keep the same: the plane's fold and size, the thrower, the throwing spot, the number of throws. Measure: how far each plane flies, in metres.",
+     "why": "A strong plan has all three parts, and the things kept the same are ones that could really change the distance.",
+     "lines": 5
     },
     {
      "t": "sort",
@@ -2044,20 +2124,20 @@
     {
      "t": "write",
      "p": "In the Brinjal Bowl test, the brinjal pieces float. Why would it be unfair to let them float, and how do you fix it?",
-     "a": "A floating piece has its top in the air, so it would brown on top like the plate piece. Then the test wouldn't really show what water does. Fix it by holding each piece under with a katori.",
+     "a": "A floating piece has its top in the air, so it would brown on top like the plate piece. Then the test wouldn't really show what water does. Fix it by holding each piece under with a steel lid.",
      "why": "A strong answer says what the air does to the floating part and gives the fix.",
      "lines": 4,
      "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "Look at this table from the Family Balance Table. Who balanced longest on average?",
+     "p": "Kavya's family did the Family Balance Table. Look at their table. Who balanced longest in total?",
      "a": 1,
      "why": "Paati's times add to 60 seconds, Kavya's to 45 and Appa's to 30. Paati balanced longest.",
      "opts": [
       "Kavya",
-      "Paati",
-      "Appa"
+      "Her grandmother, Paati",
+      "Her father, Appa"
      ],
      "how": "a2",
      "chart": {
@@ -2092,10 +2172,15 @@
      }
     },
     {
-     "t": "truefalse",
-     "p": "A result you didn't expect is a mistake, so you should rub it out.",
-     "a": false,
-     "why": "False. Keep it and write what happened. Check the test, then repeat it. Surprising results are how new things are found."
+     "t": "mcq",
+     "p": "Table: Rubber ball bounced 45, 44 and 46 cm. Tennis ball bounced 38, 40 and 39 cm. What can you say?",
+     "opts": [
+      "The rubber ball bounced higher on every try, so it is probably bouncier",
+      "The tennis ball is bouncier because it is lighter",
+      "You can say nothing from three tries"
+     ],
+     "a": 0,
+     "why": "Every rubber ball bounce was higher than every tennis ball bounce, and the three tries of each ball were close together. That is good evidence."
     },
     {
      "t": "draw",
@@ -2142,8 +2227,8 @@
        "Cut all the slices at the same time"
       ],
       [
-       "One paper plane thrown by Arun and one by his sister",
-       "One person throws both"
+       "One cloth dried in the sun and one in a cupboard",
+       "Dry both in the same place"
       ]
      ]
     },
@@ -2192,18 +2277,6 @@
       "The bucket"
      ],
      "how": "e2"
-    },
-    {
-     "t": "mcq",
-     "p": "Asha's apple test: the lemon slice stayed white, but she forgot to keep a plain slice. What can she say?",
-     "a": 1,
-     "why": "Without a control, she can't tell whether this apple would have stayed white anyway.",
-     "opts": [
-      "Lemon keeps apple white",
-      "She can't be sure what the lemon did, because she had nothing to compare with",
-      "Apples never go brown"
-     ],
-     "how": "e1"
     },
     {
      "t": "write",
@@ -2312,13 +2385,6 @@
      ]
     },
     {
-     "t": "write",
-     "p": "Kavya and Arun took turns with their boats, instead of doing all of Arun's runs first. Why did that make the test fairer?",
-     "a": "The stream was getting slower as the rain stopped. If Arun went first every time, his boat would always get the faster water. Taking turns shared the slowing water between both boats.",
-     "why": "A strong answer names the thing that was changing over time, the water speed, and explains how taking turns shared it.",
-     "lines": 4
-    },
-    {
      "t": "draw",
      "p": "Draw a bar chart of these Ten Throws results: underarm 7, overarm 4. Label both bars and the side of the chart.",
      "a": "Two bars, underarm up to 7 and overarm up to 4, with a side scale from 0 to 10 labelled 'Balls in'.",
@@ -2334,9 +2400,9 @@
     },
     {
      "t": "match",
-     "p": "Match each scientist to what their records or tests showed.",
+     "p": "Match each person to what their records or tests showed.",
      "a": "pairs as given",
-     "why": "Both showed the power of careful records and comparisons.",
+     "why": "Each one found the answer by comparing carefully, not by guessing.",
      "pairs": [
       [
        "James Lind, 1747",
@@ -2345,8 +2411,20 @@
       [
        "Florence Nightingale, 1850s",
        "more soldiers died of diseases in hospitals than of their wounds"
+      ],
+      [
+       "Kavya and Arun, in the story",
+       "the faster water, not the boat, won the first race"
       ]
      ]
+    },
+    {
+     "t": "fill",
+     "p": "In a test of which tumbler keeps ice longest, the kind of tumbler is the thing we ____ on purpose.",
+     "a": [
+      "change"
+     ],
+     "why": "The thing you want to find out about is the one thing you change. Everything else stays the same."
     },
     {
      "t": "order",
@@ -2431,11 +2509,11 @@
   },
   {
    "text": "Train timetables at the station: rows for trains, columns for times.",
-   "art": "A railway timetable board at a station in Chennai."
+   "art": "A railway timetable board at Howrah station in Kolkata."
   },
   {
    "text": "A calendar: a table of days, with columns for each day of the week.",
-   "art": "A monthly calendar on a kitchen wall with a festival marked."
+   "art": "A monthly calendar on a kitchen wall with Bihu and Onam marked."
   }
  ],
  "open_questions": [
@@ -2462,7 +2540,7 @@
   "How would you test if the fan dries the clothes faster?",
   "That advert says this toothpaste is better. Better than what? How could you test it?",
   "Is one try enough? How many would you want?",
-  "Why do you think Amma puts the cut brinjal in water?",
+  "Why do you think cooks put cut brinjal in water?",
   "What would a table of today's weather look like?",
   "Did anything surprise you today? How could we test it?"
  ],
@@ -2478,14 +2556,6 @@
   {
    "j": "Why did the ball refuse to race from the knee?",
    "a": "It said, 'That's not a fair drop!'"
-  },
-  {
-   "j": "What did the control slice say to the lemon slice?",
-   "a": "You may look fresh, but I'm the one everyone compares with."
-  },
-  {
-   "j": "Why did the paper ball go to school?",
-   "a": "To get better at tests: ten of them."
   },
   {
    "j": "Why did the scientist change only one thing?",
@@ -2504,28 +2574,16 @@
    "a": "Because he found they had a lot of appeel."
   },
   {
-   "j": "What did the column say to the row?",
-   "a": "Let's meet at the box in the middle."
-  },
-  {
    "j": "Why did the ice cube trust the fair test?",
    "a": "Because it kept its cool every time."
   },
   {
-   "j": "Why didn't the prediction feel bad when it was wrong?",
-   "a": "Because now it knew more than before."
-  },
-  {
-   "j": "Why did the toy car ask for a re-race?",
-   "a": "Somebody gave the other car a push."
-  },
-  {
-   "j": "What is a scientist's favourite piece of furniture?",
-   "a": "A results table."
-  },
-  {
    "j": "Why did Kavya's boat lose the first race?",
    "a": "It was taking the slow lane."
+  },
+  {
+   "j": "Why did the paper ball go to school?",
+   "a": "To get better at tests: ten of them."
   }
  ],
  "maths": [
@@ -2565,7 +2623,7 @@
    "why_maths": "Adding up all the tries is fairer than looking at one try, because one try can be a fluke."
   },
   {
-   "problem": "Paati stood on one foot for 20, 22 and 18 seconds. Appa stood for 8, 10 and 12 seconds. About how many times longer did Paati balance?",
+   "problem": "Kavya's family did the Family Balance Table. Her grandmother, Paati, stood on one foot for 20, 22 and 18 seconds. Her father, Appa, stood for 8, 10 and 12 seconds. About how many times longer did Paati balance?",
    "answer": "About 2 times as long.",
    "explain": "Paati's total is 20 + 22 + 18 = 60 seconds. Appa's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2582,7 +2640,7 @@
    "why_maths": "Sharing into equal groups keeps a test fair, so every treatment gets the same number of people."
   },
   {
-   "problem": "Nila's plane A flew 3, 4 and 3 metres. Plane B flew 6, 1 and 2 metres. Which plane is more reliable, and why might B's 6 be a fluke?",
+   "problem": "Nila's plane A flew 3, 4 and 3 metres. Plane B flew 6, 1 and 3 metres. Which plane is more reliable, and why might B's 6 be a fluke?",
    "answer": "Plane A is more reliable. Its throws are close together. B's throws jump about, and its 6 metres happened only once.",
    "explain": "Both planes add up to 10 metres. But A's three numbers are all close, while B's are very different from each other. A number far from the others might be a fluke, so Nila should throw more times.",
    "math_unit": "math.measurement-basics.estimation-and-precision.L3",
@@ -2701,10 +2759,7 @@
   ]
  },
  "sources": {
-  "founder": [
-   "ideas/by_topic/how-we-know.md: Fringe Science concept grid (new ideas must be tested, not just imagined; evidence and replication; a claim that can't be wrong can't be known right), used for the repeat-and-check thread and the 'a test that agrees with my guess' challenge.",
-   "Curriculum entry sci.how-we-know.fair-tests.L3: a fair test changes one thing at a time; recording results in tables."
-  ],
+  "founder": [],
   "science": [
    "James Lind, A Treatise of the Scurvy, Edinburgh, 1753 (the trial on HMS Salisbury, 20 May 1747)",
    "Florence Nightingale, Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army, 1858",
@@ -2765,7 +2820,7 @@
   ],
   "art": "A plate with two apple slices side by side, one brown and one white, and a child looking from one to the other."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Apple slices: the plain slice usually shows browning at the edges within 10 to 20 minutes in a warm room, and is clearly brown by 30 minutes to an hour. Some apples brown slowly, so the steps say to check again at 30 minutes and 1 hour, and to play a game while waiting. Lemon juice keeps the slice white or nearly white for an hour or more. A quick dip in plain water changes little once the slice is back in the air. Salt water usually slows browning a little. Brinjal floats, so the Brinjal Bowl test holds each piece under with a small katori, otherwise its top browns in the air and the test is unfair. Cut brinjal browns within minutes, so 20 minutes is enough. Ten Throws works in any room with a bucket and a newspaper ball, and results differ from child to child. The sugar puzzle uses warm tap or flask water, not hot. The James Lind act-out uses paper slips only. The spine (intro, The Unfair Bounce, the Brown Apple Test, explanations, roots and quiz) fits about 85 minutes, with the apple's waiting time filled by the cards and the Fair or Unfair? game.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Apple slices: the plain slice usually shows browning at the edges within 10 to 20 minutes in a warm room, and is clearly brown by 30 minutes to an hour. Some apples brown slowly, so the steps say to check again at 30 minutes and 1 hour, and to play a game while waiting. Lemon juice keeps the slice white or nearly white for an hour or more. A quick dip in plain water changes little once the slice is back in the air. Salt water usually slows browning a little. Brinjal floats, so the Brinjal Bowl test holds each piece under with a flat steel lid, otherwise its top browns in the air and the test is unfair. Cut brinjal browns within minutes, so 20 minutes is enough. Ten Throws works in any room with a bucket and a newspaper ball, and the throws are taken in turns so tiredness is the same for both. The sugar puzzle uses three tumblers and warm tap or flask water, not hot; the unstirred cold sugar can take 5 minutes or more, so timing stops at 5 minutes. The James Lind act-out uses paper slips only. The two card games print every card one by one, with the answers on the backs.",
  "how_we_found_out": {
   "story": "For hundreds of years, sailors on long voyages fell ill with scurvy. Their gums bled, their teeth came loose, and many died. Doctors had many ideas about the cure. A popular one in the British navy was 'elixir of vitriol', a weak acid. On 20 May 1747, James Lind, a doctor on the ship HMS Salisbury, did something new. He took twelve sailors with scurvy who were as alike as he could find. They slept in the same part of the ship and ate the same food. He split them into six pairs and gave each pair a different treatment: cider, elixir of vitriol, vinegar, sea water, a paste of garlic, mustard and other spices, or two oranges and a lemon each day. After six days, one sailor from the oranges and lemons pair was fit for work again, and the other was much better. The pair with cider improved a little. The acid, the vinegar and the sea water did not help. Lind published his results in 1753. Even so, it took the navy until 1795 to give sailors lemon juice. We now know that scurvy comes from too little vitamin C.",
   "who": "James Lind, a Scottish ship's doctor in the British navy",

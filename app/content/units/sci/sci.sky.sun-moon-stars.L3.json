@@ -613,13 +613,43 @@
      "kind": "cards",
      "title": "24 sky and home cards to cut out",
      "items": [
-      "The Sun",
-      "The Moon",
-      "Venus, the evening star",
-      "Jupiter",
+      {
+       "f": "The Sun",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-00.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "The Moon",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-01.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
+      },
+      {
+       "f": "Venus, the evening star",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-02.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
+      },
+      {
+       "f": "Jupiter",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-03.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
+      },
       "Sirius, the brightest star at night",
       "Dhruva Tara, the Pole Star",
-      "Mars",
+      {
+       "f": "Mars",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-06.jpg",
+        "credit": "JPL/NASA/STScI, public domain"
+       }
+      },
       "A firefly",
       "A candle flame",
       "A steel plate in torchlight",
@@ -627,11 +657,35 @@
       "A lightning flash",
       "A lighthouse lamp",
       "A cat's eyes shining in the dark",
-      "The Earth, seen from the Moon",
-      "A shooting star",
+      {
+       "f": "The Earth, seen from the Moon",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-14.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "A shooting star",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-15.jpg",
+        "credit": "NASA/Bill Ingalls, public domain"
+       }
+      },
       "A road sign shining in car headlights",
-      "The space station, a bright dot moving across the sky",
-      "Saturn's rings",
+      {
+       "f": "The space station, a bright dot moving across the sky",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-17.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "Saturn's rings",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-18.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
+      },
       "A glowing phone screen",
       "TEST IT: in a dark room, can you see a steel spoon with the torch off? With it on?",
       "TEST IT: hold a white ball near a torch in the dark. Which side is bright?",

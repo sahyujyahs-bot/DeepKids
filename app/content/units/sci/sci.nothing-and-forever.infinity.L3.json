@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Try this with a grown-up. You say the biggest number you can think of. Then the grown-up says one more. Try again with an even bigger number. Can you ever win?",
   "text": "However big your number is, the grown-up can always add one. Children all over the world discover this game. Mathematicians say it shows something true: there is no biggest number. The numbers go on for ever, and we call this infinity. In this unit you find out how long counting really takes, why nobody can count to the end, and why infinity is not a number at all.",
-  "art": "A girl and her grandmother on a sofa, the girl holding up a paper with a huge number written on it, and the grandmother holding up the same number with '+ 1' added at the end."
+  "art": "A girl and a grown-up on a sofa, the girl holding up a paper with a huge number written on it, and the grown-up holding up the same number with '+ 1' added at the end."
  },
  "outcomes": [
   "I can explain why there is no biggest number: any number plus one is a bigger number.",
@@ -233,11 +233,6 @@
    "hint": "Say 'seven' and then 'one lakh twenty-three thousand four hundred and fifty-seven'. Which takes longer, and why?"
   },
   {
-   "q": "If time had no beginning, how long ago would yesterday be from the start?",
-   "kind": "big",
-   "hint": "Nobody knows whether time had a beginning. Think about what 'no start' would mean for counting days backwards."
-  },
-  {
    "q": "Is infinity something people found, like a new star, or something people made, like a game?",
    "kind": "big",
    "hint": "Mathematicians argue about this. Think about the plus-one rule. Did someone invent it, or was it always true?"
@@ -332,12 +327,11 @@
      "qty": 1
     }
    ],
-   "safety": "No safety problems. Take a sip of water between lists if your mouth gets dry.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Write three lists of 20 numbers. Read each list aloud twice while someone times it. Compare the times and work out how long counting to ten lakh would take."
+     "what": "Write three lists of 20 numbers. Read each list aloud twice while someone times it. Compare the times, then hear how long one man took to count to ten lakh."
     }
    ],
    "record": "Fill in the table. Then draw a bar for each list's faster try, so you can see which list was slowest.",
@@ -453,7 +447,7 @@
        ]
       }
      ],
-     "parent": "Most children find list C takes four to six times as long as list A. If your child's times are close, ask them to check they said every word of list C."
+     "parent": "Usually list C takes several times as long as list A. If your child's times are close, ask them to check they said every word of list C."
     },
     {
      "id": "s6",
@@ -461,15 +455,6 @@
      "do": "1. Tell your child about Jeremy Harper. 2. Ask what number comes after ten lakh. 3. Ask whether anyone could finish counting.",
      "say": "In 2007, a man called Jeremy Harper counted out loud from 1 to ten lakh. He counted 16 hours a day. It took him 89 days. What number comes after ten lakh? Could anyone ever count to the end?",
      "kid": "A man once counted to ten lakh. It took him 89 days. What comes after ten lakh? Could anyone count to the end?",
-     "ask": [
-      {
-       "q": "Could anyone ever count to the very last number?",
-       "good": [
-        "No, because every number has a next number.",
-        "No. The numbers get longer and slower to say, and they never stop."
-       ]
-      }
-     ],
      "think": "You stopped counting after a few minutes. How can you be sure the numbers go on after you stop?"
     }
    ]
@@ -504,11 +489,11 @@
      "qty": 1
     },
     {
-     "item": "a big bowl, to tip the counted rice back into",
+     "item": "a big bowl, to hold the rice and to tip the counted rice back into",
      "qty": 1
     }
    ],
-   "safety": "Keep raw rice away from children under 3, who might put grains in their nose or mouth. Wash and cook the rice afterwards, so nothing is wasted.",
+   "safety": "Keep raw rice away from children under 3, who might put grains in their nose or mouth.",
    "schedule": [
     {
      "day": 1,
@@ -566,9 +551,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show the tumbler full of rice. 2. Ask for a guess and a reason. 3. Write the guess down.",
+     "do": "1. Fill the tumbler to the top with rice and show it. 2. Ask for a guess and a reason. 3. Write the guess down. 4. Tip all the rice into the big bowl.",
      "say": "How many grains of rice do you think fill this tumbler? Is it so many that it is infinite? Why do you think so?",
-     "kid": "Look at a tumbler full of rice. How many grains are in it? Is it infinite? Write your guess and your reason.",
+     "kid": "Look at a tumbler full of rice. How many grains are in it? Is it infinite? Write your guess and your reason. Then tip the rice into the big bowl.",
      "ask": [
       {
        "q": "Is the rice in the tumbler infinite? Why or why not?",
@@ -582,7 +567,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Fill a teaspoon with rice and level it with a finger. 2. Tip it onto the plate. 3. Your child pushes the grains into heaps of ten. 4. Count the heaps and the grains left over.",
+     "do": "1. Fill a teaspoon with rice from the big bowl and level it with a finger. 2. Tip it onto the plate. 3. Your child pushes the grains into heaps of ten. 4. Count the heaps and the grains left over.",
      "say": "Counting one by one is slow and easy to lose track of. Heaps of ten make it quicker. Then we count the heaps.",
      "kid": "Tip one level teaspoon onto the plate. Push the grains into heaps of ten. Count the heaps. Count the leftover grains.",
      "parent": "A level teaspoon of raw rice usually holds between 150 and 250 grains, depending on the rice. Short grains such as ponni rice give more than long basmati grains. Any number is fine. A toothpick helps to move single grains."
@@ -608,7 +593,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Fill the empty tumbler with rice, one level teaspoon at a time. 2. Your child makes a tally mark for each spoonful.",
+     "do": "1. Fill the empty tumbler with rice from the big bowl, one level teaspoon at a time. 2. Your child makes a tally mark for each spoonful.",
      "say": "Now we don't count the grains. We count the spoonfuls. Make one tally mark for every spoon.",
      "kid": "Fill the tumbler one level spoon at a time. Make one tally mark for each spoon. How many spoons?",
      "parent": "A 200 millilitre tumbler takes about 40 level teaspoons. Yours may take more or fewer."
@@ -645,7 +630,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety problems.",
    "schedule": [
     {
      "day": 1,
@@ -661,7 +645,7 @@
      "caption": "1. You say or write the biggest number you can."
     },
     {
-     "art": "A grandmother holding up the same paper with 'and 1' added at the end.",
+     "art": "A grown-up holding up the same paper with 'and 1' added at the end.",
      "caption": "2. The other player says one more."
     }
    ],
@@ -726,7 +710,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety problems.",
    "schedule": [
     {
      "day": 1,
@@ -804,7 +787,6 @@
      "qty": 1
     }
    ],
-   "safety": "Clear the floor first so nobody trips.",
    "schedule": [
     {
      "day": 1,
@@ -880,7 +862,6 @@
      "qty": 1
     }
    ],
-   "safety": "If you draw on the floor, choose a dry spot where nobody will slip on the flour.",
    "schedule": [
     {
      "day": 1,
@@ -918,7 +899,7 @@
      "do": "1. Make a grid of 3 rows of 3 dots. 2. Draw one line that curves around the dots and joins back to its start.",
      "say": "A sikku kolam is drawn with lines that loop around the dots and close up. You can trace the line round and round and never reach an end.",
      "kid": "Make 3 rows of 3 dots. Draw one curvy line around them. Join it back to where you started.",
-     "parent": "If the full pattern is hard, any single closed loop around the dots is fine. Many families in Tamil Nadu draw sikku kolams every morning, so a grandmother or neighbour may show you one."
+     "parent": "If the full pattern is hard, any single closed loop around the dots is fine. Many families in Tamil Nadu draw sikku kolams every morning, so an older relative or a neighbour may show you one."
     },
     {
      "id": "s3",
@@ -954,7 +935,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety problems.",
    "schedule": [
     {
      "day": 1,
@@ -981,7 +961,7 @@
      "do": "1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on a side of the paper.",
      "say": "Let's find things that seem to go on for ever. Salt in the jar? Hairs on your head? Drops in the water tank? Write each one down.",
      "kid": "Walk around the home. Find things that seem endless. Write each one on the side you think is right.",
-     "parent": "Good things to find: grains of salt or sugar, hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers on a clock going round, the numbers themselves."
+     "parent": "Good things to find: grains of salt, sugar or muri (puffed rice), hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers themselves."
     },
     {
      "id": "s2",
@@ -1013,21 +993,51 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game with digit cards. Players arrange their cards to make the biggest number they can. Each round everyone gets one more card, and you see that one more digit beats any number.",
+   "context": "This is a card game with digit cards. Players arrange their cards to make the biggest number they can. Each round everyone gets one more card, and you see that a number with one more digit beats every number with fewer digits.",
    "printables": [
     {
      "kind": "cards",
      "title": "40 digit cards to cut out: four of each digit",
      "items": [
       "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "1",
+      "1",
       "1",
       "2",
+      "2",
+      "2",
+      "2",
+      "3",
+      "3",
+      "3",
       "3",
       "4",
+      "4",
+      "4",
+      "4",
+      "5",
+      "5",
+      "5",
       "5",
       "6",
+      "6",
+      "6",
+      "6",
+      "7",
+      "7",
+      "7",
       "7",
       "8",
+      "8",
+      "8",
+      "8",
+      "9",
+      "9",
+      "9",
       "9"
      ]
     },
@@ -1045,12 +1055,14 @@
     }
    ],
    "rules": [
-    "Shuffle the cards face down.",
+    "Shuffle the 40 cards face down in one pile.",
     "In round 1, each player takes 2 cards. In each new round, each player takes one more card than before.",
     "Arrange your cards to make the biggest number you can. Say it out loud.",
-    "The biggest number wins the round and scores one point.",
+    "The biggest number wins the round and scores one point. If two numbers are the same, both players score a point.",
+    "After each round, put all the cards back in the pile and shuffle again.",
     "When you play alone, play against a 'ghost' player: draw the ghost's cards too, and make both numbers.",
-    "After 5 rounds, the player with most points wins."
+    "After 5 rounds, the player with most points wins. If points are equal, play more rounds with 6 cards until one player is ahead.",
+    "The pile has enough cards for 4 players in every round."
    ],
    "setup": [
     {
@@ -1084,7 +1096,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Play rounds 2, 3 and 4, with one more card each round. Say each number aloud and write it on the score sheet.",
+     "do": "Play rounds 2, 3 and 4, with one more card each round. Put the cards back and shuffle after each round. Say each number aloud and write it on the score sheet.",
      "say": "Now we each get one more card. Make your number and say it out loud. Who wins this round?",
      "kid": "Each round you get one more card. Make the biggest number. Say it out loud. Write it down.",
      "parent": "With 5 cards your child will need to say numbers in the ten-thousands, such as 'ninety-eight thousand seven hundred and sixty-five'. Help them with the place names if needed."
@@ -1111,15 +1123,6 @@
      "do": "Ask how many cards you would need to make the biggest number of all.",
      "say": "If we kept playing with more and more cards, would anyone ever make the biggest number of all?",
      "kid": "Imagine you kept getting more cards. Could you make the biggest number of all?",
-     "ask": [
-      {
-       "q": "Could anyone make the biggest number of all?",
-       "good": [
-        "No. One more card would always make a bigger one.",
-        "No, because there is no biggest number."
-       ]
-      }
-     ],
      "think": "Every round had a winner, but the game could never have a 'biggest number ever' winner. Why?"
     }
    ]
@@ -1179,7 +1182,7 @@
      "caption": "2. Make 10 pages and staple them into a book of 1,000 dots."
     },
     {
-     "art": "One thin dotted book next to a tall imaginary stack of 100 books reaching a child's shoulder, labelled 'one lakh'.",
+     "art": "One thin dotted book next to a pile of 100 books, labelled 'one lakh'.",
      "caption": "3. Work out how many books a lakh would need."
     }
    ],
@@ -1187,7 +1190,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Rule a grid of 10 rows and 10 columns on a page, each square about 2 cm. 2. Your child puts one dot in every square. 3. Fill 3 pages.",
+     "do": "1. Rule a grid of 10 rows and 10 columns on a page, each square about 1.5 cm. 2. Your child puts one dot in every square. 3. Fill 3 pages.",
      "say": "Each page will have exactly 100 dots: 10 rows of 10. Ten pages will make a thousand.",
      "kid": "Draw 10 rows of 10 squares. Put one dot in each square. That is 100 dots. Do 3 pages today.",
      "parent": "Dots are faster than numbers, so this stays fun. If your child gets tired, stop and continue tomorrow."
@@ -1244,8 +1247,7 @@
     "Write a number, then the word 'zeros': 'a 1 followed by a thousand zeros' is short to write but huge."
    ],
    "creative": [
-    "Invent a new name, such as 'Kavya's number', and write what it means on the card.",
-    "Write '9 times itself, 9 times over', which is a huge number written in a few words.",
+    "Invent a new name, such as 'my number', and write on the card what it means.",
     "Write 'the number of rice grains in a crore tumblers', and show how to work it out."
    ],
    "your_turn": "Now make your own card. Then swap with a grown-up or a friend. Whose number is bigger? Could the other person always make a bigger one by adding one?",
@@ -1296,8 +1298,7 @@
      "mins": 5,
      "do": "Talk about the clever ways people found.",
      "say": "Long ago, Archimedes invented new names to write giant numbers. Which of our ideas was the cleverest way to write a huge number in a few words?",
-     "kid": "Which idea made the biggest number with the fewest words? Why does it work?",
-     "think": "However clever your card is, someone can add one. What does that tell you about the biggest number?"
+     "kid": "Which idea made the biggest number with the fewest words? Why does it work?"
     }
    ]
   }
@@ -1311,7 +1312,7 @@
    "items": [
     {
      "t": "truefalse",
-     "p": "Arjun, a boy in Class 2, says, 'A crore is the biggest number.' Is he right?",
+     "p": "Arjun, a boy aged 7, says, 'A crore is the biggest number.' Is he right?",
      "a": false,
      "why": "False. A crore and one is bigger than a crore. Any number plus one is bigger, so there is no biggest number. A strong answer names a number bigger than a crore."
     },
@@ -1382,21 +1383,8 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Lakshmi counts 200 grains of rice in one teaspoon. A tumbler holds 40 teaspoons. About how many grains are in the tumbler?",
-     "opts": [
-      "About 8,000",
-      "About 240",
-      "Infinitely many",
-      "About 40"
-     ],
-     "a": 0,
-     "why": "200 grains in each of 40 spoons is 200 times 40, which is 8,000. That is a lot, but it is a number. Choosing 'infinitely many' mixes up very many with endless.",
-     "how": "e2"
-    },
-    {
      "t": "write",
-     "p": "Kavya, a girl in Class 3, says, 'Infinity is the biggest number of all.' Explain what is wrong with her idea.",
+     "p": "Kavya, a girl aged 9, says, 'Infinity is the biggest number of all.' Explain what is wrong with her idea.",
      "lines": 3,
      "a": "If infinity were the biggest number, you could add one and get a bigger number. That can't happen to the biggest one. So infinity is not a number at the end. It is the word for the numbers never ending.",
      "why": "A strong answer uses the plus-one idea to show that there cannot be a biggest number, so infinity cannot be one."
@@ -1493,7 +1481,7 @@
       "351 to 370: middle",
       "1,23,451 to 1,23,470: slowest"
      ],
-     "why": "The more words a number has, the longer it takes to say. A strong answer says 'one' has one word and 'one lakh twenty-three thousand four hundred and fifty-one' has nine.",
+     "why": "The more words a number has, the longer it takes to say. A strong answer says 'one' has one word and 'one lakh twenty-three thousand four hundred and fifty-one' has eight.",
      "how": "e1",
      "art": "A sheet of paper with three short columns of numbers and an empty label box next to each."
     },
@@ -1514,6 +1502,14 @@
      "lines": 5,
      "a": "A strong answer agrees with Anu, using the rice test: a spoonful had about 200 grains, so a sack holds a big number that can be estimated. It also sees what Divya has right: counting every grain one by one would take a very long time.",
      "why": "This question asks the child to use evidence and to tell 'very many' apart from 'infinite', while being fair to the other view.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "In the rice test, why did you count the grains in one teaspoon instead of counting the whole tumbler?",
+     "lines": 3,
+     "a": "Counting a small part is quick. Then I can multiply by the number of spoons to find the whole. The tumbler of rice turned out to be a number I could work out, not infinite.",
+     "why": "A strong answer says that a small count plus multiplying gives a good estimate of a big collection.",
      "how": "e2"
     }
    ]
@@ -1549,18 +1545,6 @@
      "why": "A strong answer explains that a rule, or a proof, can tell us about every number without counting them all."
     },
     {
-     "t": "mcq",
-     "p": "Revathi times herself. She says 20 small numbers in 10 seconds, and 20 big numbers in 40 seconds. How many times as long did the big numbers take?",
-     "opts": [
-      "4 times as long",
-      "30 times as long",
-      "2 times as long"
-     ],
-     "a": 0,
-     "why": "40 divided by 10 is 4. So the big numbers took 4 times as long. Check: 10 + 10 + 10 + 10 = 40.",
-     "how": "e1"
-    },
-    {
      "t": "fill",
      "p": "One lakh is the same as one hundred ____.",
      "a": [
@@ -1575,10 +1559,10 @@
       "The counting numbers",
       "The stars you can see on a dark night",
       "The grains in a sack of rice",
-      "The people in Hyderabad"
+      "The people in Kolkata"
      ],
      "a": 0,
-     "why": "The stars you can see, the grains of rice and the people in Hyderabad can all be counted, given enough time. The counting numbers never end."
+     "why": "The stars you can see, the grains of rice and the people in Kolkata can all be counted, given enough time. The counting numbers never end."
     },
     {
      "t": "write",
@@ -1683,6 +1667,13 @@
      "lines": 3,
      "a": "For example: 'Does space go on for ever?' It is hard because we can see only part of the universe. Light from further away has not reached us yet.",
      "why": "A strong answer picks a real open question and gives a true reason why it is still open."
+    },
+    {
+     "t": "truefalse",
+     "p": "Any number with 7 digits is bigger than every number with 6 digits.",
+     "a": true,
+     "why": "True. The biggest 6-digit number is 9,99,999 and the smallest 7-digit number is 10,00,000, which is one more. This is why one more digit always gives a bigger number.",
+     "how": "g1"
     }
    ]
   },
@@ -1701,7 +1692,7 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja's counting times were: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?",
+     "p": "Pooja, a girl in Class 4, wrote down her counting times:: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?",
      "opts": [
       "Even longer than 48 seconds",
       "About 9 seconds",
@@ -1750,13 +1741,6 @@
      ],
      "a": 0,
      "why": "25 times 10 lakh is 250 lakh. 100 lakh is one crore, so 250 lakh is 2 crore 50 lakh. A huge number, but it is a number."
-    },
-    {
-     "t": "truefalse",
-     "p": "Something can go on for ever and still have a measured length.",
-     "a": true,
-     "why": "True. A circle or a sikku kolam line can be traced round for ever, but its length can be measured. Going round for ever is not the same as having no end in size.",
-     "how": "a4"
     },
     {
      "t": "draw",
@@ -1876,6 +1860,23 @@
      ],
      "a": "see items",
      "why": "Infinity is not a number you can reach, a beach has a finite number of grains, and a crore crore is a huge but finite number. The numbers have no biggest one, and big numbers take longer to say."
+    },
+    {
+     "t": "order",
+     "p": "Put these from the fewest to the most.",
+     "items": [
+      "the people in a city of one crore",
+      "the seconds in one day (86,400)",
+      "the grains of rice in one tumbler (about 8,000)",
+      "the hairs on one head (about one lakh)"
+     ],
+     "a": [
+      "the grains of rice in one tumbler (about 8,000)",
+      "the seconds in one day (86,400)",
+      "the hairs on one head (about one lakh)",
+      "the people in a city of one crore"
+     ],
+     "why": "8,000 is less than 86,400, which is less than 1,00,000, which is less than 1,00,00,000. All of them are big, and all of them are finite numbers."
     }
    ]
   }
@@ -1930,18 +1931,6 @@
    "why": "'One lakh twenty-three thousand four hundred and fifty-one' takes much longer to say than 'one'. That is why counting gets slower as the numbers get bigger.",
    "outcome": 2,
    "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "Jeremy Harper counted out loud from 1 to ten lakh. About how long did it take him?",
-   "opts": [
-    "89 days",
-    "1 hour",
-    "1 day"
-   ],
-   "a": 0,
-   "why": "It took him 89 days, counting about 16 hours a day, in 2007. Even ten lakh is very far, and the numbers go on much further.",
-   "outcome": 2
   },
   {
    "t": "mcq",
@@ -2025,7 +2014,7 @@
    "youtube": "elvOZm0d4H0",
    "mins": 8,
    "why": "For the parent and curious older children: a mathematician explains with pen and paper why infinity is not a number, and goes on to the idea that some infinities are bigger than others.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Infinity is bigger than you think - Numberphile', channel Numberphile). Not watched from here: a parent should preview it and check its length. The second half (bigger infinities) is Class 5 material."
+   "check": "Preview it first. The second half (bigger infinities) is Class 5 material."
   },
   {
    "title": "Infinity isn't a number. It's something much weirder.",
@@ -2033,7 +2022,7 @@
    "youtube": "IqU9onfl5eA",
    "mins": 10,
    "why": "For the parent: a lively explainer of why infinity is an idea about never ending, not a number.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Infinity isn’t a number. It's something much weirder.', channel Be Smart). Not watched from here: a parent should preview it and check its length."
+   "check": "Preview it first and check its length."
   },
   {
    "title": "How Long Does it Take to Count to 1 Million?",
@@ -2041,7 +2030,7 @@
    "youtube": "ljT8wNiCG7g",
    "mins": 5,
    "why": "For the child, after the counting test: a teacher works out how long counting to a million would take.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'How Long Does it Take to Count to 1 Million? | Counting to 1,000,000 | Math with Mr. J', channel Math with Mr. J). Not watched from here: a parent should preview it and check its length."
+   "check": "Preview it first and check its length."
   }
  ],
  "applications": [
@@ -2091,16 +2080,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the boy stop counting at a crore?",
-   "a": "His mouth said, 'One more and I quit!'"
-  },
-  {
    "j": "What did the number 1 say to the number 2?",
    "a": "Don't worry, there is always someone bigger."
-  },
-  {
-   "j": "Why is the infinity sign never late?",
-   "a": "It never has to finish."
   },
   {
    "j": "Why did the number line bring a suitcase?",
@@ -2115,20 +2096,12 @@
    "a": "Nice belt!"
   },
   {
-   "j": "How many grains of rice are in an empty tumbler?",
-   "a": "Zero. Counting them was quick."
-  },
-  {
    "j": "Why did the 8 lie down?",
    "a": "It wanted to be infinity for a while."
   },
   {
    "j": "What do you call a number that never stops walking?",
    "a": "A roamin' numeral."
-  },
-  {
-   "j": "Why did the student count to infinity on the bus?",
-   "a": "She heard it was a long ride."
   },
   {
    "j": "What is a mathematician's favourite dessert?",
@@ -2141,7 +2114,7 @@
  ],
  "maths": [
   {
-   "problem": "In the counting test, Revathi read 20 small numbers in 10 seconds and 20 big numbers in 40 seconds. How many times as long did the big numbers take?",
+   "problem": "In the counting test, Revathi, a girl in Class 3, read 20 small numbers in 10 seconds and 20 big numbers in 40 seconds. How many times as long did the big numbers take?",
    "answer": "4 times as long.",
    "explain": "The big numbers took 40 seconds and the small ones took 10. 40 divided by 10 is 4. Check: 10 + 10 + 10 + 10 = 40.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2168,7 +2141,7 @@
    "why_maths": "Dividing one time by the other tells us how many times slower the big numbers are, so we can predict how slow counting gets."
   },
   {
-   "problem": "Lakshmi found 200 grains in one teaspoon of rice. Her tumbler held 40 teaspoons. How many grains are in 5 tumblers?",
+   "problem": "Lakshmi, a girl in Class 3, found 200 grains in one teaspoon of rice. Her tumbler held 40 teaspoons. How many grains are in 5 tumblers?",
    "answer": "40,000 grains.",
    "explain": "One tumbler is 200 times 40, which is 8,000 grains. Five tumblers is 8,000 times 5, which is 40,000. That is a lot of rice, but it is still a finite number.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2329,7 +2302,7 @@
    "what_is_life": "A life has a length you can count in days. Within it, you can still think about the endless.",
    "what_is_this_world": "The world is full of very big numbers: grains, hairs, stars. Whether anything in it is truly infinite, nobody knows yet."
   },
-  "thread": "The counting numbers begin with one. Add one, and you have two. Add one again, and again, and every counting number appears, without end. So one plain rule, used over and over, gives numbers without end. In the same way, the many things of the world come from a few simple beginnings, repeated and combined.",
+  "thread": "The counting numbers begin with one. Add one, and you have two. Add one again, and again, and every counting number appears, without end. So one plain rule, used over and over, gives numbers without end.",
   "teachings": [
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",

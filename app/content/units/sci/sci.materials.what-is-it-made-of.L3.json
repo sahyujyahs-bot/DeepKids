@@ -633,10 +633,22 @@
      "kind": "cards",
      "title": "36 journey cards to cut out: 12 sets of 3 (source, raw material, made thing)",
      "items": [
-      "SOURCE: cotton plant",
+      {
+       "f": "SOURCE: cotton plant",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g1-0-00.jpg",
+        "credit": "Daniel Cahen, CC BY, via iNaturalist"
+       }
+      },
       "RAW: cotton fluff",
       "MADE: cotton shirt",
-      "SOURCE: sheep",
+      {
+       "f": "SOURCE: sheep",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g1-0-03.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
+      },
       "RAW: wool",
       "MADE: woollen sweater",
       "SOURCE: silkworm",
@@ -645,10 +657,28 @@
       "SOURCE: tree",
       "RAW: wood pulp",
       "MADE: notebook",
-      "SOURCE: rubber tree",
-      "RAW: milky latex sap",
+      {
+       "f": "SOURCE: rubber tree",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g1-0-12.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "RAW: milky latex sap",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g1-0-13.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
+      },
       "MADE: rubber chappal",
-      "SOURCE: coconut palm",
+      {
+       "f": "SOURCE: coconut palm",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g1-0-15.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "RAW: coir fibre from the husk",
       "MADE: coir doormat",
       "SOURCE: riverbed",
@@ -791,9 +821,21 @@
       "A termite mound",
       "A paper wasp's nest",
       "A wooden chair",
-      "A potted tulsi plant",
+      {
+       "f": "A potted tulsi plant",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g2-0-08.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "A cotton shirt",
-      "A coconut",
+      {
+       "f": "A coconut",
+       "img": {
+        "src": "media/cards/what-is-it-made-of-g2-0-10.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
       "A coir doormat",
       "A loaf of bread",
       "A clay diya",

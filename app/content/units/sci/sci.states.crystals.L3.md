@@ -47,7 +47,7 @@ Salt particles join in a square pattern, so salt grows as cubes. Phitkari partic
 ### Slow growth makes bigger crystals · *defined*
 **Definition:** When a solution dries or cools slowly, a few crystals start and keep growing, so they become big. When it dries or cools fast, very many crystals start at once, so each stays tiny.
 
-On the plate, the water was thin and spread out, so it evaporated in a few hours. Salt particles were pushed out of the water all at once, and thousands of tiny crystals started everywhere. In the glass, the water evaporated slowly over days. Only a few crystals started, and new particles had time to join them. So the glass grew fewer, bigger crystals. Both were the same salt, and both made cubes.
+On the plate, the water was thin and spread out, so it evaporated in a day or two. Salt particles were pushed out of the water all at once, and thousands of tiny crystals started everywhere. In the glass, the water evaporated slowly over days. Only a few crystals started, and new particles had time to join them. So the glass grew fewer, bigger crystals. Both were the same salt, and both made cubes.
 - e.g. At the salt pans, slow drying grows bigger grains than fast drying.
 - e.g. Kalkandu makers leave their syrup still for days, so the crystals grow big. Stirring and fast cooling give fine sugar instead.
 - e.g. The biggest crystals ever found, in the Cave of the Crystals in Mexico, grew in warm water that changed very slowly for hundreds of thousands of years.
@@ -89,7 +89,7 @@ Before a crystal can grow, a few particles must come together and stay together.
 ## Roots
 We have grown salt crystals fast and slowly, and seen that each substance grows its own shape. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Your plate dried fast and grew many tiny salt grains. Your glass dried slowly and grew fewer, bigger ones. Under the lens, both had flat faces and square corners. The drying speed set their size, but the salt itself set their shape.  
+**Deep truth.** Both dishes held the same salt water. The fast plate grew many tiny grains and the slow glass fewer, bigger ones. Under the lens, both had flat faces and square corners. Drying speed changed their size, and the salt gave them their shape.  
 *Habit it breaks:* We think a neat shape must be made from outside, by a mould, a knife or a maker's hands. Salt makes its own cubes, because its particles always join in the same square pattern.  
 *Evidence:* In the plate and glass test, the size changed but both made cubes. Cracked kal uppu broke into smaller blocks. Phitkari and sugar each grew their own different shape, in the same kind of glass.
 
@@ -97,7 +97,7 @@ We have grown salt crystals fast and slowly, and seen that each substance grows 
 - *what is life:* Your body needs to know which way is down, even with your eyes shut. Inside each ear, tiny crystals rest on a soft jelly. When you tilt your head, they shift, and tiny hairs feel it.
 - *what is this world:* Most rocks, most metals, sand, snow and the salt in the sea are made of crystals. Much of the solid world grew itself, particle by particle.
 
-A salt crystal starts with a few particles that join and stay. Every particle that follows joins in the same way, millions of times over. Out of that one way of joining come the cubes on your plate, the heaps at Thoothukudi and the rock salt from old dried seas. One simple pattern shows up as countless crystals, big and small, in every place where salt water dries.
+Every salt crystal starts when a few particles join and stay. Each new particle joins in the same way, millions of times over. That one way of joining gives the cubes on your plate, the heaps at Thoothukudi and the rock salt from old dried seas.
 
 - **Tao Te Ching, chapter 64:** A tree as wide as your arms can reach grows from a tiny shoot. A tower nine storeys high starts from a heap of earth. A journey of a thousand miles starts beneath your feet. (Your biggest crystal grew the same way, one tiny particle at a time, over days. The slow glass shows that big things need many small steps, not a rush.)
 - **Plato, Timaeus (about 360 BCE):** Plato, a Greek thinker, guessed that each of the elements is made of tiny shapes. He gave earth the cube, because it is the steadiest shape. (Plato was wrong about the elements. But he was right that tiny shapes, repeated, can build the things we see. Salt really is cube-shaped, because of the way its particles join.)
@@ -175,40 +175,39 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 - Ask: What did Nila see when she zoomed in on Arjun's sandy sugar?
 - Ask: Why do you think Valli Athai's rule was that nobody touches the pots?
 - Ask: If you wanted kalkandu fast, is there any way to hurry it without making it sandy?
-- Ask: Arjun thought better sugar made bigger crystals. How did Nila find out he was wrong?
+- Ask: Arjun wondered if Nila had used better sugar. How do we know the sugar was not the reason?
 
 ## Games
 ### g1 · Crystal or Not? a sorting card game (15 min)
-- **rules:** Put the two sorting cards face up.; Shuffle the 16 solid cards and put them face down.; On your turn, take the top card and read it aloud, but cover the answer in brackets.; Put it on 'Crystal' or 'Not a crystal', and give one clue.; Check the answer. Right: keep the card. A good clue, such as 'it has flat faces' or 'it was cooled fast': 1 more point.; Playing alone, try to win all 16 cards with a clue for each.
-- **Printable cards: 16 solid cards to cut out (the answer is in brackets):** A grain of salt (Crystal); A grain of sugar (Crystal); A lump of kalkandu (Crystal); An ice cube (Crystal: made of many ice crystals); A snowflake (Crystal); A glass bangle (Not a crystal); A clear boiled sweet (Not a crystal); A lump of phitkari (Crystal); A diamond (Crystal); A grain of sand (A broken piece of a quartz crystal); A steel spoon (Crystal: made of many tiny metal crystals packed together); A rubber band (Not a crystal); Runny honey (Not a crystal: it is a liquid); Honey that has gone grainy (Has crystals in it); The enamel on your teeth (Crystal: made of tiny crystals); A glass window (Not a crystal)
+- **rules:** Put the two sorting cards face up.; Shuffle the 16 solid cards and put them in a pile with the names facing up and the answers underneath.; On your turn, take the top card and read the name aloud. Do not turn the card over.; Put it on 'Crystal' or 'Not a crystal', and give one clue.; Now turn the card over. Right: keep the card. Wrong: the card stays on the table and nobody keeps it. A good clue, such as 'it has flat faces' or 'it was cooled fast': 1 more point.; The game ends when the pile is finished. Each card you kept is 1 point. The most points wins, and a tie is shared.; Playing alone, try to keep all 16 cards with a clue for each.
+- **Printable cards: 16 solid cards to cut out (the answer is on the back of each card):** A grain of salt (back: Crystal); A grain of sugar (back: Crystal); A lump of kalkandu (back: Crystal); An ice cube (back: Crystal: made of many ice crystals); A snowflake (back: Crystal); A glass bangle (back: Not a crystal); A clear boiled sweet (back: Not a crystal); A lump of phitkari (back: Crystal); A diamond (back: Crystal); A grain of sand (back: Crystal: a broken piece of a quartz crystal); A steel spoon (back: Crystal: made of many tiny metal crystals packed together); A rubber band (back: Not a crystal); A glass marble (goli) (back: Not a crystal); Honey that has gone grainy (back: Crystal: tiny crystals have formed in it); The enamel on your teeth (back: Crystal: made of tiny crystals); A glass window (back: Not a crystal)
 - **Printable cards: 2 big sorting cards:** Crystal: particles in a repeating pattern; Not a crystal: particles in a jumble
 - **Printable score sheet: A score sheet with each player's name:** Name; Cards won; Points for clues
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Lay out the two sorting cards. 3. Shuffle the 16 solid cards face down.  
+  *Parent does:* 1. Cut out the cards. 2. Lay out the two sorting cards. 3. Shuffle the 16 solid cards, names facing up.  
   *Parent says:* Every card is a solid. Is it a crystal, with its particles in a pattern, or not?  
   *Child mode:* Lay out the two big cards. Shuffle the rest. Is each solid a crystal or not?
 - **s2 (3 min)**  
-  *Parent does:* Play the boiled sweet card together as a practice round.  
-  *Parent says:* Practice card. A clear boiled sweet. It is made of sugar. Is it a crystal?  
-  *Child mode:* Practice card. A clear boiled sweet, made of sugar. Crystal or not?
-  - Check: A clear boiled sweet is made of sugar. Is it a crystal? → **No, because its sugar particles are jumbled**
+  *Parent does:* Play the boiled sweet card together as a practice round, then shuffle it back into the pile.  
+  *Parent says:* Practice card. A clear boiled sweet. It is made of sugar. Is it a crystal? Turn it over to check.  
+  *Child mode:* Practice card. A clear boiled sweet, made of sugar. Crystal or not? Turn it over to check.
 - **s3 (8 min)**  
-  *Parent does:* 1. Take turns. 2. Read, sort and give a clue. 3. Check the answer in brackets.  
+  *Parent does:* 1. Take turns. 2. Read the name, sort the card and give a clue. 3. Turn the card over to check.  
   *Parent says:* Read your card. Crystal or not? What is your clue?  
-  *Child mode:* Read your card. Crystal or not? Give a clue. Check the answer.
-  - Note: The steel spoon surprises most people. Metals are made of many tiny crystals packed together, too small to see without a microscope. The sand card is a broken piece of a crystal, so it counts as crystal.
+  *Child mode:* Read your card. Crystal or not? Give a clue. Turn it over to check.
+  - Note: The steel spoon surprises most people. Metals are made of many tiny crystals packed together, too small to see without a microscope. The sand card is a broken piece of a crystal, so it counts as a crystal.
 - **s4 (2 min)**  
-  *Parent does:* Count the cards and points.  
+  *Parent does:* Count your cards and points. The most points wins.  
   *Parent says:* Which card surprised you most? Why?  
   *Child mode:* Count your cards. Which one surprised you?
   - Think: Is there a solid in your home that you are not sure about? How could you find out?
 ### g2 · Fast or Slow? a crystal-growing dice game (20 min)
-- **rules:** Each player has a grid and a pencil.; Play a fast round of 12 turns, using the fast rule.; Count your crystals, and the squares in your biggest one. Write them down.; Play a slow round of 12 turns on a new grid, using the slow rule.; Count again. The player with the biggest single crystal in the slow round wins.
-- **Printable board: A 12 by 12 squared grid for each player (or use a page from a squared maths notebook):** 12 by 12 grid
-- **Printable cards: Rule card:** Fast round: roll 1 to 4 = start a NEW crystal (colour one square anywhere not touching another crystal). Roll 5 or 6 = add one square to any crystal you have.; Slow round: roll 1 = start a NEW crystal. Roll 2 to 6 = add one square to any crystal you have.; A new square must share a whole side with the crystal it joins.
+- **rules:** Each player has a pencil, a 6 by 6 grid for each round, and one dice. Players can share one dice, or write 1 to 6 on slips of paper and pick one from a cup.; Play a fast round: 12 turns each, using the fast rule on the first grid.; Count your crystals, and the squares in your biggest one. Write them down.; Play a slow round: 12 turns each, on a new grid, using the slow rule.; Count again. The player with the biggest single crystal in the slow round wins, and a tie is shared. Playing alone, see if your slow crystal beats your fast one.
+- **Printable board: A grid of 6 by 6 squares for each round and each player (36 squares; or draw 6 by 6 squares on squared paper):** A1; B1; C1; D1; E1; F1; A2; B2; C2; D2; E2; F2; A3; B3; C3; D3; E3; F3; A4; B4; C4; D4; E4; F4; A5; B5; C5; D5; E5; F5; A6; B6; C6; D6; E6; F6
+- **Printable cards: Rule card:** Fast round: roll 1 to 4 = start a NEW crystal (colour one square that does not touch another crystal). Roll 5 or 6 = add one square to a crystal you have.; Slow round: roll 1 = start a NEW crystal. Roll 2 to 6 = add one square to a crystal you have.; If you have no crystal yet, any roll starts a new one.; A square you add must share a whole side with the crystal it joins, and must not touch a different crystal.; If you cannot make the move, miss that turn.
 - **Printable score sheet: Score sheet:** Name; Fast round: number of crystals; Fast round: biggest crystal (squares); Slow round: number of crystals; Slow round: biggest crystal (squares)
 - **s1 (2 min)**  
-  *Parent does:* Give each player a grid and read the rule card aloud.  
+  *Parent does:* Give each player two grids and a pencil, and read the rule card aloud.  
   *Parent says:* Each coloured square is a bit of salt joining a crystal. In the fast round, new crystals start often. In the slow round, they rarely start.  
   *Child mode:* Each square is salt joining a crystal. Fast round: new crystals start often. Slow round: rarely.
 - **s2 (8 min)**  
@@ -227,14 +226,13 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
   - Think: In both rounds you coloured 12 squares. Where did the same amount of salt go?
 
 ## Experiments
-### e1 · Fast Plate or Slow Glass: which grows bigger salt crystals? (45 min, 7 days)
+### e1 · Fast Plate or Slow Glass: which grows bigger salt crystals? (42 min, 7 days)
 - **question:** Does the speed of drying change the size of salt crystals? Does it change their shape?
-- **predict:** Guess first. The plate will dry in a few hours. The glass will take about a week. Which will grow bigger crystals? Will the crystals be the same shape or different? Why do you think so?
-- **fair test:** Both use the same salt water, poured from the same tumbler, 2 big spoons each. Both sit side by side on the same shelf. The only difference is the dish: a wide plate spreads the water thin, so it dries fast, and a small glass keeps it deep, so it dries slowly.
-- **safety:** Do not drink the very salty water. Keep the glass where nobody will knock it over.
+- **predict:** Guess first. The plate will dry within a day or two. The glass will take about a week. Which will grow bigger crystals? Will the crystals be the same shape or different? Why do you think so?
+- **fair test:** Both use the same salt water, poured from the same tumbler, 2 big spoons each. Both sit side by side on the same shelf. The only difference is the dish: a wide plate spreads the water thin, so it dries fast, and a small glass keeps it deep, so it dries slowly. If you can, use a glass or ceramic plate, so both dishes are made of the same kind of material.
 - **record:** Fill in the table each time you look. Draw the biggest crystal from the plate and the biggest from the glass, side by side, as big as you can.
 - **results table:** Day | Plate: what you see | Glass: what you see | Biggest crystal on the plate (mm) | Biggest crystal in the glass (mm) | Shape of the crystals
-- **schedule:** day 1: Make the saturated salt water. Pour 2 big spoons on the plate and 2 in the glass. Put both on one shelf. Guess what will happen. (25 min); day 2: The plate should be dry. Look at its crystals with the phone camera. Measure the biggest. Look at the glass. (5 min); day 4: Look at the glass. Draw what you see. Measure the biggest crystal. (5 min); day 7: The glass should be dry or nearly dry. Measure its biggest crystal. Compare the two. Say what you think, what you saw and why. (10 min)
+- **schedule:** day 1: Make the saturated salt water. Pour 2 big spoons on the plate and 2 in the glass. Put both on one shelf. Guess what will happen. (22 min); day 2: The plate should be dry, or nearly dry. Look at its crystals with the phone camera. Measure the biggest. Look at the glass. (5 min); day 4: Look at the glass. Draw what you see. Measure the biggest crystal. (5 min); day 7: The glass should be dry or nearly dry. Measure its biggest crystal. Compare the two. Say what you think, what you saw and why. (10 min)
 - **s1 (3 min)**  
   *Parent does:* Put a pinch of salt on a dark plate. Look at it with the phone camera zoomed in.  
   *Parent says:* These are salt crystals. Look at their sides. Are they round, or flat? We are going to grow new ones from salt water.  
@@ -263,22 +261,22 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
   - Note: Any guess with a reason is good. Do not say what will happen. Many children guess the plate, because it dries first.
   - Wait: Look at the plate tomorrow
 - **s6 (5 min)**  
-  *Parent does:* 1. Look at the plate. It should be dry. 2. Zoom in with the phone camera near the edge, where single grains sit apart. 3. Measure the biggest crystal with the ruler. 4. Look at the glass too.  
+  *Parent does:* 1. Look at the plate. It should be dry, or nearly dry. 2. Zoom in with the phone camera near the edge, where single grains sit apart. 3. Measure the biggest crystal with the ruler. 4. Look at the glass too.  
   *Parent says:* What does the plate look like? Zoom in on the edge. Can you find a single grain? What shape is it?  
   *Child mode:* Zoom in on the plate's edge. Find one single grain. What shape is it? Measure it.
-  - Note: Most of the plate is a white crust of tiny grains stuck together. At the edges, single grains are about 1 millimetre or less. Zoomed in, many look like tiny squares or cubes. In the glass, you may already see a few small cubes on the bottom, or thin square plates floating on top.
+  - Note: Most of the plate is a white crust of tiny grains stuck together. At the edges, single grains are about 1 millimetre or less. Zoomed in, many look like tiny squares or cubes. In a humid or rainy week the plate may take two days to dry. The glass is usually still wet, with perhaps a few specks at the edge.
   - Wait: Look at the glass again on day 4
 - **s7 (5 min)**  
   *Parent does:* 1. Look at the glass from the side and from the top. 2. Draw what you see. 3. Measure the biggest crystal you can see.  
   *Parent says:* How many crystals are in the glass? How big is the biggest one now?  
   *Child mode:* Look at the glass from the side. Draw the crystals. Measure the biggest one.
-  - Note: Salt often climbs up the inside of the glass as a white crust. That is salt water creeping up and drying. Some crystals float on top as hollow square shapes, like little steps. These are cubes too, growing faster at their edges.
+  - Note: Salt often climbs up the inside of the glass as a white crust. That is salt water creeping up and drying. Some crystals may float on top as hollow square shapes, like little steps. These are cubes too, growing faster at their edges.
   - Wait: Look again on day 7
 - **s8 (5 min)**  
   *Parent does:* 1. When the glass is dry or nearly dry, tip out any water left. 2. Put its biggest crystal next to the plate. 3. Measure it. 4. Zoom in on both.  
   *Parent says:* Put the biggest crystal from the glass next to the crystals on the plate. Which is bigger? Look at their shapes.  
   *Child mode:* Put the big glass crystal next to the plate grains. Which is bigger? Are the shapes the same?
-  - Note: Crystals from the glass are usually 3 to 6 millimetres across, and sometimes bigger. The plate grains are about 1 millimetre or smaller. If your glass crystals are small too, the glass may have been too wide or the shelf too windy. Try again with the narrowest glass you have.
+  - Note: Crystals from the glass are often 2 to 5 millimetres across, and sometimes bigger. The plate grains are about 1 millimetre or smaller. In a damp week the glass may still be wet on day 7: keep looking every day or two. Sometimes the salt climbs the side of the glass as a crust instead of growing cubes. If so, measure the biggest cube on the bottom. If your glass crystals are small too, the glass may have been too wide or the shelf too windy. Try again with the narrowest glass you have.
   - Check: The plate dried fast and the glass dried slowly. What did you find? → **The glass grew fewer, bigger crystals, and both were cubes**
 - **s9 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -292,7 +290,7 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 - **safety:** A grown-up handles the hot water. Phitkari is not food: do not eat it, and wash your hands after touching it.
 - **record:** Draw one crystal of salt, one of sugar and one of phitkari, as big as you can. Count the faces you can see on each.
 - **results table:** Substance | Drawing of one crystal | How many faces can you see? | Shape of the faces
-- **schedule:** day 1: A grown-up dissolves phitkari in hot water. Leave the glass still overnight. Guess what shape will grow. (15 min); day 2: Take out the phitkari crystals. Compare them with salt and sugar under the phone camera. Draw one of each. (15 min)
+- **schedule:** day 1: A grown-up dissolves phitkari in hot water. Leave the glass still overnight. Guess what shape will grow. (10 min); day 2: Take out the phitkari crystals. Compare them with salt and sugar under the phone camera. Draw one of each. (20 min)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Show your child the phitkari. If it is a lump, crush it to a powder in a mortar or with a spoon in a tumbler.  
   *Parent says:* This is phitkari. It is a crystal too. Salt makes cubes. What shape do you think phitkari will make? Why?  
@@ -309,7 +307,7 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
   *Parent does:* 1. Look at the glass from the side. 2. Pour the water away down the sink. 3. Tip the crystals onto the dark plate.  
   *Parent says:* Look at the bottom of the glass. What has grown? Tip them out gently.  
   *Child mode:* What grew in the glass overnight? Tip the crystals onto the dark plate.
-  - Note: You should see clear crystals, many of them 3 to 10 millimetres across. Good ones look like two pyramids joined at their base, with triangle faces. Ones that grew on the bottom are often flat on one side, like a pyramid cut in half.
+  - Note: You should see clear crystals, often 2 to 5 millimetres across and some bigger. Good ones look like two pyramids joined at their base, with triangle faces. Ones that grew on the bottom are often flat on one side, like a pyramid cut in half. If you see only a thin white film or fine powder, look closely with the phone: the crystals may be tiny. Overnight growth is not certain, so if little has formed, leave the glass one more night.
 - **s4 (7 min)**  
   *Parent does:* 1. Put a few salt crystals, a few sugar grains and the phitkari crystals in three small heaps on the plate. 2. Zoom in on single crystals of each. 3. Draw one of each and count its faces.  
   *Parent says:* Look at one salt crystal, one sugar grain and one phitkari crystal. What shape are the faces on each? Are they the same?  
@@ -325,7 +323,7 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 
 ## Activities
 ### a1 · Crack a Crystal: do the pieces keep the shape? (10 min)
-- **safety:** Press slowly with the spoon. Do not hit hard, so that pieces do not fly. Keep your face away from the plate.
+- **safety:** Press slowly with the spoon. Do not hit hard, so that pieces do not fly into your eyes.
 - **record:** Draw the crystal before you cracked it, and two of its pieces after.
 - **s1 (3 min)**  
   *Parent does:* Put one big grain of kal uppu on the plate. Turn it in the light from a window.  
@@ -342,30 +340,30 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
   *Parent does:* 1. Press the back of the spoon down slowly on the crystal until it cracks. 2. Zoom in on the biggest pieces with the phone.  
   *Parent says:* Look at the pieces. Are their sides flat or jagged? What do their corners look like?  
   *Child mode:* Press slowly until it cracks. Zoom in on the pieces. Flat or jagged?
-  - Note: Many pieces will have smooth, flat sides that meet at square corners, like tiny bricks. This splitting along flat sides is called cleavage. Not every piece will be perfect, and some salt will turn to powder. That is normal.
-  - Check: You cracked a salt crystal. What did most of the pieces look like? → **Smaller blocks with flat sides and square corners**
+  - Note: Many pieces will have smooth, flat sides that meet at square corners, like tiny bricks. This splitting along flat sides is called cleavage. The pieces are tiny, so zoom in. Not every piece will be perfect, and some salt will turn to powder. That is normal. If most of it turns to powder, try again on a bigger grain, pressing even more slowly.
+  - Check: You cracked a salt crystal. What did most of the pieces look like? → **Smaller pieces with flat sides and square corners**
   - Think: If you could crack the smallest piece again and again, would the pieces always be little blocks?
 ### a2 · Pack the Coins: why a pattern makes straight edges (15 min)
 - **safety:** Small children must not put coins in their mouths.
 - **record:** Draw the tightly packed coins, and the jumble, side by side.
 - **s1 (5 min)**  
-  *Parent does:* 1. Lay the coins flat on the tray. 2. Push them together as tightly as they will go, every coin touching its neighbours.  
+  *Parent does:* 1. Lay the coins flat on the tray. 2. Push them together tightly, in rows. 3. Set each coin in the dip between two coins of the row below, like a honeycomb.  
   *Parent says:* Pretend each coin is a particle of a crystal. Pack them as tightly as you can. How many coins touch each coin in the middle?  
   *Child mode:* Each coin is a particle. Pack them tight. Count the coins touching one in the middle.
-  - Note: A coin in the middle touches 6 others. The pattern is like a honeycomb.
+  - Note: A coin in the middle touches 6 others. If your cluster looks untidy, nudge the coins into rows.
 - **s2 (5 min)**  
   *Parent does:* 1. Lay the ruler along the outside edge of the packed coins. 2. Look for corners in the shape.  
   *Parent says:* Lay the ruler along the edge. Is the edge straight? Nobody drew a straight line. Where did it come from?  
   *Child mode:* Put the ruler along the edge. Is it straight? Who made it straight?
   - Ask: Why is the edge straight? (good: Because every coin sits in the same pattern.; The coins line up in rows.)
-  - Note: The rows line up by themselves, because every coin fits the same way. Real crystals are made the same way, with particles instead of coins, in three directions instead of two.
+  - Note: Every coin sits in the same way as its neighbours, so the rows line up. Real crystals are made the same way, with particles instead of coins, in three directions instead of two.
 - **s3 (5 min)**  
   *Parent does:* 1. Tip the coins out loosely in a heap. 2. Compare it with the packed shape.  
   *Parent says:* Now the coins are jumbled. Are there straight edges? Which one is like a crystal, and which one is like glass?  
   *Child mode:* Tip the coins into a jumble. Any straight edges now? Which is like a crystal?
   - Check: Which coins are like the particles in a crystal? → **The packed coins in a repeating pattern**
 ### a3 · The Freezer Frost Hunt (if your fridge has frost) (10 min)
-- **safety:** Do not touch the freezer walls with wet fingers, as skin can stick. Close the freezer door quickly so the food stays cold.
+- **safety:** Do not touch the freezer walls with wet fingers, as skin can stick.
 - **record:** Draw the shapes you see in the frost.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the spoon in the freezer for 2 minutes so it gets cold. 2. Scrape a little frost onto it. 3. Zoom in with the phone at once.  
@@ -374,11 +372,11 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
   - Note: You may see thin needles, feathery branches or tiny flat plates. Ice crystals are six-sided, because water particles freeze in a six-sided pattern. In a home freezer they are usually small and messy, so a clear six-sided plate is a lucky find.
 - **s2 (5 min)**  
   *Parent does:* Talk about how frost is like a snowflake.  
-  *Parent says:* Snowflakes form high up in cold clouds, the same way. That is why every snowflake has six arms.  
-  *Child mode:* Snowflakes are ice crystals too. They grow six arms in cold clouds.
+  *Parent says:* Snowflakes form high up in cold clouds, the same way. Their ice crystals are six-sided, so many snowflakes have six arms.  
+  *Child mode:* Snowflakes are ice crystals too. Many grow six arms in cold clouds.
   - Think: Frost grew without any liquid water. Where did its water come from?
 ### a4 · Crystal or Not? A kitchen hunt (15 min)
-- **safety:** Don't eat the phitkari. Handle the glass bangle gently, and don't break it.
+- **safety:** Don't eat the phitkari. Handle the glass bangle gently: if it breaks, the pieces are sharp.
 - **record:** A two-column list: crystals, and not crystals. Write one clue for each.
 - **s1 (8 min)**  
   *Parent does:* 1. Put a little of each solid on the dark plate. 2. Zoom in on each one. 3. Look for flat faces and sharp corners.  
@@ -393,19 +391,19 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 
 ## Projects
 ### p1 · Grow Your Own Kalkandu: sugar crystals on a thread (50 min, 10 days)
-- **safety:** Hot sugar syrup burns badly and sticks to skin. Only a grown-up makes and pours the syrup, and the child stands back until it has cooled.
+- **safety:** Hot sugar syrup burns badly and sticks to skin. Only a grown-up makes and pours the syrup, and the child stands back until it has cooled. Stand the jar on a folded cloth before pouring, so it does not crack.
 - **record:** Draw the thread on days 3, 5, 7 and 10. Write the size of the biggest crystal each time.
-- **schedule:** day 1: Dip the thread in a little syrup, roll it in sugar, and let it dry. Make the syrup. Hang the thread in the jar. (15 min); day 3: Look at the thread without lifting it. Draw what you see. (5 min); day 5: Look again. If a crust covers the top of the syrup, break it gently with a spoon. (5 min); day 7: Look again. Measure the biggest crystal through the glass. (5 min); day 10: Lift out the thread. Let it dry. Look at the crystals zoomed in, and compare them with shop kalkandu. (20 min)
+- **schedule:** day 1: Wet the thread, roll it in sugar and let it dry. A grown-up makes the syrup. Hang the thread in the jar. (15 min); day 3: Look at the thread without lifting it. Draw what you see. (5 min); day 5: Look again. If a crust covers the top of the syrup, break it gently with a spoon. (5 min); day 7: Look again. Measure the biggest crystal through the glass. (5 min); day 10: Lift out the thread. Let it dry. Look at the crystals zoomed in, and compare them with shop kalkandu. (20 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Tie the thread to the middle of the pencil. 2. Tie the button to the other end. 3. A grown-up dips the thread in a spoon of warm syrup. 4. Roll it in sugar and let it dry for an hour.  
-  *Parent says:* The tiny sugar grains on the thread are seed crystals. New sugar can join them more easily than start from nothing.  
-  *Child mode:* Tie the thread to the pencil. Roll the sticky thread in sugar. Let it dry.
+  *Parent does:* 1. Tie the thread to the middle of the pencil. 2. Tie the button to the other end. 3. Wet the thread with a little water. 4. Roll it in dry sugar and let it dry for an hour.  
+  *Parent says:* The tiny sugar grains stuck on the thread are seed crystals. New sugar can join them more easily than start from nothing.  
+  *Child mode:* Tie the thread to the pencil. Wet it, then roll it in sugar. Let it dry.
   - Note: Hang the thread across the jar first to check the length. The button should hang about 2 centimetres above the bottom, so crystals on the bottom do not trap it.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up heats 1 cup of water in a pan. 2. Add the 2 cups of sugar a little at a time, stirring, until it all dissolves. 3. Bring it just to a boil, then turn off the stove. 4. Let it cool for 20 minutes. 5. Pour it into the jar and hang the thread in it.  
   *Parent says:* Hot water can hold far more sugar than cold water. As the syrup cools, where do you think the extra sugar will go?  
   *Child mode:* A grown-up makes the syrup. Stand back. When it has cooled a bit, hang the thread in it.
-  - Note: Cover the jar with paper and stand it in a plate with a little water, so ants cannot reach it. Put it somewhere warm and still, where nobody will move it.
+  - Note: Cover the jar with paper and stand it in a plate with a little water, so ants cannot reach it. Put it somewhere still, where nobody will move it.
 - **s3 (15 min)**  
   *Parent does:* On days 3, 5 and 7, look at the thread through the glass without lifting it. Draw it, and measure the biggest crystal.  
   *Parent says:* Don't move the jar. What is growing on the thread? Is it growing faster or slower than the salt in the glass?  
@@ -426,21 +424,21 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 - **general:** Use a seed crystal. Put one good small cube into fresh saturated salt water, so new salt joins it instead of starting new crystals.; Dry it slowly. Cover the glass with paper with a few pinholes, so the water evaporates slowly.; Keep it still. Put the glass where nobody moves it.; Every few days, lift the crystal out, wipe off the small crystals that grew around it, and put it back in fresh salt water.
 - **creative:** Hang the seed crystal on a thin thread, so new salt can join on every side, not just the top.; Try two glasses, one covered and one open, and see which grows the bigger crystal.; Put the glass inside a closed cardboard box to keep away dust and wind.
 - **s1 (5 min)**  
-  *Parent does:* Read Kavya's problem aloud. Look at the crystals from your slow glass.  
-  *Parent says:* Kavya's plate gave only tiny grains. What did our experiment show about growing big crystals?  
-  *Child mode:* Kavya wants one big salt crystal. What did your test show about big crystals?
+  *Parent does:* Read the problem aloud. Look at the crystals from your slow glass.  
+  *Parent says:* The plate in the problem gave only tiny grains. What did our experiment show about growing big crystals?  
+  *Child mode:* The girl in the problem wants one big salt crystal. What did your test show about big crystals?
 - **s2 (15 min)**  
   *Parent does:* 1. Choose the best cube from your slow glass as a seed crystal. 2. Set up your design. 3. Look every 2 or 3 days for two weeks.  
   *Parent says:* Which idea will you try? Why do you think it will grow one big crystal?  
   *Child mode:* Pick a seed crystal. Set up your glass. Look every few days.
-  - Note: A seed crystal in a covered, still glass grows a few millimetres each week. If many small crystals grow around it, lift it out, wipe them off, and put it into fresh salt water.
+  - Note: A seed crystal in a covered, still glass grows a few millimetres each week. It may not reach the size of a fingernail, and that is fine: measure what you get. If many small crystals grow around it, lift it out, wipe them off, and put it into fresh salt water.
 - **s3 (10 min)**  
   *Parent does:* After two weeks, measure your crystal and explain your design.  
   *Parent says:* How big did it grow? What would you change next time?  
   *Child mode:* Measure your crystal. What worked? What would you change?
-  - Think: Why do new particles join the seed crystal instead of starting a new one?
+  - Think: Which part of your design made the most difference, and how could you test that?
 ### c2 · Salt or Sugar? Tell them apart without tasting (20 min)
-- **problem:** Lakshmi's Paati in Mysuru has two dabbas of white grains with no labels. One is salt and one is sugar. Paati has diabetes, so she must not taste the sugar to check. How can Lakshmi tell which is which?
+- **problem:** Lakshmi, a girl in Class 4, is visiting her Paati in Mysuru. Paati has two dabbas of white grains with no labels. One is salt and one is sugar. Paati has diabetes, so she must not taste the sugar to check. How can Lakshmi tell which is which?
 - **your turn:** Now invent your own test. Draw it, try it, and explain to Lakshmi why it works.
 - **constraints:** Nobody may taste the grains.; Use only things from home.; Your test must work with only a pinch of each.
 - **general:** Look at the shape. Zoom in on single grains. Salt grains are cubes with square faces. Sugar grains are slanted blocks.; Heat a pinch. A grown-up warms a pinch of each in a steel spoon over a low flame. Sugar melts and turns brown. Salt stays white.
@@ -453,11 +451,11 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
   *Parent does:* 1. Zoom in on single grains of each. 2. If you want a second test, a grown-up warms a pinch of each in a spoon.  
   *Parent says:* Which heap is made of cubes? So which is the salt?  
   *Child mode:* Zoom in. Which grains are cubes? That one is salt.
-  - Note: Only the heating test needs a grown-up. Use a low flame and a steel spoon, and let the spoon cool before anyone touches it.
+  - Note: Table salt grains are small, so use good light and zoom in close. Only the heating test needs a grown-up. Use a low flame and a steel spoon, and let the spoon cool before anyone touches it.
 - **s3 (5 min)**  
-  *Parent does:* Ask your child to explain their answer to Lakshmi.  
-  *Parent says:* How would you explain to Lakshmi that your test is reliable?  
-  *Child mode:* Tell Lakshmi which dabba is salt. How do you know?
+  *Parent does:* Ask your child to explain their answer to a friend who cannot see the grains.  
+  *Parent says:* How would you explain to a friend that your test is reliable?  
+  *Child mode:* Tell a friend which dabba is salt. How do you know?
   - Think: Would the shape test still work if the salt were ground into fine powder?
 
 ## Worksheets
@@ -472,9 +470,9 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
    **Answer:** ['saturated']. *Why:* When salt stays at the bottom however much you stir, the water is saturated.
 4. (truefalse) When salty water evaporates, the salt goes into the air with the water.  
    **Answer:** False. *Why:* False. Only the water goes into the air. The salt stays behind and crystallises.
-5. (mcq) In the Fast Plate or Slow Glass test, both dishes got the same salt water and the same amount. Why?  
-   Options: To use up all the salt water / So the only difference is how fast they dry / So they dry at the same time  
-   **Answer:** So the only difference is how fast they dry. *Why:* A fair test changes only one thing. Here it was the speed of drying, set by the shape of the dish.
+5. (mcq) In the Fast Plate or Slow Glass test, you let the salt settle and pour off the clear salt water. Why not pour in everything, including the salt at the bottom?  
+   Options: The undissolved salt would stay on the dish and look like crystals that grew / The undissolved salt is a different kind of salt / The tumbler would be too heavy  
+   **Answer:** The undissolved salt would stay on the dish and look like crystals that grew. *Why:* Salt that never dissolved is not crystals that grew from the water. Pouring off only the clear salt water means every crystal you see grew as the water dried.
 6. (match) Match each word to what it means.  
    **Answer:** Crystal → a solid with particles in a repeating pattern; Face → a flat side of a crystal; Evaporate → a liquid going into the air as a gas; Seed crystal → a small crystal that more particles join. *Why:* These four words come up all through the unit.
 7. (sort) Sort these solids. Crystal, or not a crystal?  
@@ -485,20 +483,20 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
    **Answer:** A cube or a square-sided block, with a face and a corner labelled.. *Why:* A strong drawing shows flat faces meeting at square corners.
 10. (truefalse) A salt crystal from the sea and a salt crystal from your glass have the same shape.  
    **Answer:** True. *Why:* True. Both are salt, and salt particles always join in the same square pattern, so both grow cubes.
-11. (mcq) Selvi, a girl in Class 3, cracks a big grain of kal uppu with a spoon. What do most of the pieces look like?  
-   Options: Smaller blocks with flat sides / Round crumbs / Long thin needles  
-   **Answer:** Smaller blocks with flat sides. *Why:* Salt breaks most easily between its rows of particles, so the pieces are small blocks with flat sides and square corners.
+11. (mcq) A glass bangle breaks. What are the broken edges like?  
+   Options: Flat, with square corners / Curved and smooth / Long thin needles  
+   **Answer:** Curved and smooth. *Why:* Glass has its particles in a jumble, so it breaks along curved lines. A crystal such as salt breaks along flat sides.
 12. (order) Put the steps for growing salt crystals in order.  
    **Answer:** ['Stir salt into water until some stays at the bottom', 'Pour the clear salt water into a dish', 'Leave it still while the water evaporates', 'Look at the crystals zoomed in']. *Why:* First make saturated salt water, then pour off the clear part, then let it evaporate, then look.
-13. (write) Your plate of salt water dried in one day. Your glass took a week. Which grew bigger crystals, and why?  
-   **Answer:** The glass. It dried slowly, so a few crystals had days to grow. The plate dried fast, so thousands of tiny crystals started at once.. *Why:* A strong answer names the glass and says slow drying lets a few crystals keep growing.
-14. (fill) Salt crystals grow as cubes. Phitkari crystals grow as two ____ joined at their base.  
-   **Answer:** ['pyramids']. *Why:* Phitkari particles join in their own pattern, which makes double pyramids with triangle faces.
+13. (write) A jar of honey goes grainy in a cold month. What has happened to the sugar in it?  
+   **Answer:** Some of the sugar has come out of the honey and formed tiny crystals. That is what makes it grainy.. *Why:* A strong answer says tiny crystals have formed, and may say the honey crystallised.
+14. (write) Choose one crystal from your kitchen. How do you know it is a crystal?  
+   **Answer:** Kalkandu is a crystal. It has flat shiny faces and sharp corners, and nobody cut them.. *Why:* A strong answer names a real kitchen crystal and gives a clue such as flat faces, sharp corners or a regular shape.
 15. (mcq) Which is the best way to see the shape of a single sugar grain at home?  
    Options: Look at the whole dabba from far away / Zoom in close on one grain with a phone camera on a dark plate / Dissolve it in water  
    **Answer:** Zoom in close on one grain with a phone camera on a dark plate. *Why:* Sugar grains are small. Zooming in on one grain against a dark plate shows its flat faces. Dissolving it would break up the crystal.
 ### Fast or Slow? (stretch) (stretch, 15 questions)
-1. (mcq) Anjali, a girl in Class 4, dries salt water fast on a hot plate in the sun. What will she most likely get?  
+1. (mcq) Moni, a girl in Class 4 in Guwahati, dries salt water fast on a hot plate in the sun. What will she most likely get?  
    Options: One big cube / A crust of many tiny grains / No salt at all  
    **Answer:** A crust of many tiny grains. *Why:* Fast drying starts thousands of crystals at once, so each stays tiny. The salt is all still there, as a crust.
 2. (mcq) Phitkari dissolves well in hot water. Mary, a girl in Class 3, leaves hot phitkari water to cool overnight. Why do crystals grow?  
@@ -508,26 +506,25 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
    **Answer:** A strong answer agrees with Divya, using the glass test, where cubes grew with nobody touching them, or the cracked crystal, whose pieces were also blocks. It says Priya is right that workers rake the salt, but raking moves it into heaps, and it does not shape each grain.. *Why:* Raking is real, but it only gathers the grains. Each grain's cube shape comes from the salt itself, as the home tests show.
 4. (truefalse) A boiled sweet and kalkandu are made of different kinds of sugar.  
    **Answer:** False. *Why:* False. Both are ordinary sugar. In kalkandu the particles are in a pattern. In the boiled sweet they are jumbled, because it cooled so fast.
-5. (write) Arjun stirred his hot sugar syrup and cooled it in cold water. He got fine, sandy sugar instead of kalkandu. What should he do differently next time, and why?  
+5. (write) In the story, Arjun stirred his hot sugar syrup and cooled it in cold water. He got fine, sandy sugar instead of kalkandu. What should he do differently next time, and why?  
    **Answer:** Leave the syrup still and let it cool slowly, so only a few crystals start and the sugar has time to join them.. *Why:* A strong answer says both: no stirring, and slow cooling, and links it to fewer crystals starting.
 6. (sort) Sort these. Will they give big crystals or small crystals?  
    **Answer:** salt water in a narrow glass on a quiet shelf → Bigger crystals; salt water spread on a plate under a fan → Smaller crystals; sugar syrup stirred while it cools → Smaller crystals; sugar syrup left still for a week → Bigger crystals; hot phitkari water cooled in the fridge → Smaller crystals; hot phitkari water cooled slowly in a box → Bigger crystals. *Why:* Slow and still gives bigger crystals. Fast, stirred or cold gives many small ones.
 7. (draw) Draw what you think the particles look like inside a salt crystal, and inside a glass bangle.  
    **Answer:** Particles in neat rows and columns for salt. Particles in a jumble for glass.. *Why:* A strong drawing shows a repeating pattern for the crystal and no pattern for the glass.
-8. (mcq) Steno looked at many quartz crystals in 1669. Some were long, some short, some lopsided. What did he find was always the same?  
-   Options: Their size / The angle between one face and the next / Their colour  
-   **Answer:** The angle between one face and the next. *Why:* However lopsided, every quartz crystal had the same angles between matching faces. Only the sizes of the faces changed.
+8. (write) The salt pans at Thoothukudi are wide and shallow, not deep tanks. Why does shallow sea water in hot sun give salt faster?  
+   **Answer:** A thin layer has a large surface, so the water evaporates quickly in the sun. The salt stays behind. The grains will be small, as on the plate.. *Why:* A strong answer links a thin, wide layer and hot sun to fast evaporation, and may say fast drying gives small grains.
 9. (write) Your seed crystal sat in fresh salt water and grew bigger. Why does new salt join the seed crystal instead of starting new crystals?  
    **Answer:** Because the seed already has the pattern. It is easier for particles to join a pattern that is there than to start a new one from nothing.. *Why:* A strong answer says the seed gives particles a ready pattern to join.
-10. (fill) A crystal of one substance always has the same ____ between its faces, even if it grows lopsided.  
-   **Answer:** ['angles']. *Why:* Steno found this in 1669. It is true for every kind of crystal.
+10. (truefalse) A salt crystal that grows for longer will turn into a different shape, not a cube.  
+   **Answer:** False. *Why:* False. Size changes as a crystal grows, but salt always makes cubes. The pattern of its particles stays the same.
 11. (truefalse) A steel spoon is made of many tiny crystals packed together.  
    **Answer:** True. *Why:* True. Metals are made of many small crystals, too small to see without a microscope.
 12. (order) Put these in order, from the slowest drying to the fastest.  
    **Answer:** ['salt water in a covered narrow glass', 'salt water in an open narrow glass', 'salt water spread thin on a plate under a fan']. *Why:* A cover slows evaporation most. A narrow glass has a small surface. A thin layer under a fan dries fastest.
-13. (mcq) Lakshmi's Paati cannot taste sugar. Lakshmi has two dabbas of white grains. Which test tells salt from sugar without tasting?  
-   Options: Smell them / Zoom in on single grains: salt grains are cubes / Look at their colour  
-   **Answer:** Zoom in on single grains: salt grains are cubes. *Why:* Salt grows cubes and sugar grows slanted blocks, so their shapes give them away. Both have almost no smell, and both are white.
+13. (mcq) Frost on the wall of a freezer is made of ice crystals. Where does the water in the frost come from?  
+   Options: The water vapour in the air / The metal of the freezer / Water leaking from the ice tray  
+   **Answer:** The water vapour in the air. *Why:* Water vapour in the air freezes straight onto the cold wall as ice crystals.
 14. (write) Snowflakes have six arms, and salt has four-sided faces. What does that tell you about water particles and salt particles?  
    **Answer:** They join in different patterns. Water freezes in a six-sided pattern, and salt joins in a square pattern.. *Why:* A strong answer says each substance's particles join in their own pattern, and the shape shows the pattern.
 15. (mcq) Which home place is best for growing big salt crystals?  
@@ -536,11 +533,11 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 ### Crystals Big and Small (challenge) (challenge, 15 questions)
 1. (perspective) Three people talk about the giant crystals in the Cave of the Crystals in Mexico, some longer than a bus.  
    **Answer:** A strong answer picks Dr Rosa's slow, still growth, using the glass test. It says Meera is right that the water must hold enough of the mineral, and Kabir is right that the crystals needed room, but neither alone makes a few crystals grow huge.. *Why:* All three play a part. But a full solution that dries or cools fast makes many small crystals, as the plate showed. Slowness is the key.
-2. (write) Sana says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using what Steno found.  
+2. (write) Sana, a girl in Class 4, says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using what Steno found.  
    **Answer:** She is partly right that they are not perfect cubes. But their faces still meet at square corners. Steno found that only the sizes of the faces change, not the angles.. *Why:* A strong answer separates face size, which can change, from the angles, which stay the same.
 3. (write) Glass is made by melting sand, and sand is mostly broken quartz crystals. Why is glass not a crystal?  
    **Answer:** Because when the melted sand cools fast, its particles freeze in a jumble before they can join in a pattern.. *Why:* A strong answer says the pattern was lost when melted, and fast cooling stopped it forming again.
-4. (mcq) Kavya puts two seed crystals in the same glass of salt water. One is a salt cube, one is a sugar grain. What will happen?  
+4. (mcq) Kavya, a girl in Class 3, puts two seed crystals in the same glass of salt water. One is a salt cube, one is a sugar grain. What will happen?  
    Options: Both grow salt / The salt cube grows, and the sugar grain dissolves / Both stay the same  
    **Answer:** The salt cube grows, and the sugar grain dissolves. *Why:* Salt water still has room for sugar, so the sugar grain dissolves. The salt particles join the salt cube, because it has their pattern.
 5. (write) Your body needs to know which way is down, even with your eyes shut. Inside each ear, tiny crystals rest on a soft jelly. How might these crystals help?  
@@ -556,8 +553,9 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
    **Answer:** Cool it fast and stir it. *Why:* Fast cooling and stirring start very many tiny crystals. That is how Arjun's syrup turned sandy.
 10. (fill) The first step of a crystal, when a few particles come together and stay together, is called ____.  
    **Answer:** ['nucleation']. *Why:* Scientists still study exactly how nucleation happens.
-11. (write) Valli Athai says nobody may touch her kalkandu pots for many days. Why does shaking or stirring a pot spoil the kalkandu?  
-   **Answer:** Shaking makes many new crystals start at once, so the sugar is shared among many small crystals, and none grows big.. *Why:* A strong answer links disturbing the syrup to many new crystals starting.
+11. (mcq) A salt crystal is cracked again and again into smaller and smaller pieces. What do the pieces keep?  
+   Options: Flat sides and square corners / Round edges / No pattern at all  
+   **Answer:** Flat sides and square corners. *Why:* Each small piece is still made of particles in the same square pattern, so it still breaks into blocks with flat sides.
 12. (match) Match each substance to its crystal shape.  
    **Answer:** Salt → cubes with square faces; Phitkari → double pyramids with triangle faces; Sugar → slanted blocks; Ice → six-sided plates and six-armed snowflakes. *Why:* Each substance's particles join in their own pattern, so each grows its own shape.
 13. (mcq) Dorothy Hodgkin used X-rays and crystals to find the shape of penicillin. Why did she need a crystal?  
@@ -577,52 +575,46 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 1. (mcq) What is a crystal?  
    Options: Any solid that is clear / A solid whose particles are joined in a repeating pattern / A solid that sparkles  
    **Answer:** A solid whose particles are joined in a repeating pattern. *Why:* The repeating pattern of particles is what makes a crystal. Picking 'clear' misses that salt crystals can look white, and glass is clear but not a crystal. Picking 'sparkles' misses that glitter sparkles too.
-2. (mcq) Why does a crystal have flat faces?  
-   Options: Someone polished it / New particles join in the same pattern, row after row / It was pressed flat  
-   **Answer:** New particles join in the same pattern, row after row. *Why:* Particles join in rows that follow the pattern, and a finished row is flat. Picking 'polished' is how cut gems are made, but salt and sugar grow flat faces by themselves.
-3. (mcq) Nandini, a girl in Class 3, leaves a plate of salt water in the sun until it dries. Where did the white crust come from?  
+2. (mcq) Nandini, a girl in Class 3, leaves a plate of salt water in the sun until it dries. Where did the white crust come from?  
    Options: The salt that was dissolved in the water / Dust from the air / The plate  
    **Answer:** The salt that was dissolved in the water. *Why:* The water evaporated into the air, and the dissolved salt stayed behind as crystals. Picking 'dust' is worth checking: a plate of plain water leaves almost nothing.
-4. (mcq) You dry the same salt water on a wide plate and in a narrow glass. Which grows bigger crystals?  
+3. (mcq) You dry the same salt water on a wide plate and in a narrow glass. Which grows bigger crystals?  
    Options: The plate, because it dries first / The glass, because it dries slowly / Both the same  
    **Answer:** The glass, because it dries slowly. *Why:* Slow drying lets a few crystals keep growing. Picking 'the plate' is the common guess, because it finishes first, but it starts thousands of tiny crystals.
-5. (mcq) In the plate and glass test, what was the same for both crystals?  
+4. (mcq) In the plate and glass test, what was the same for both crystals?  
    Options: Their size / Their cube shape / How long they took  
    **Answer:** Their cube shape. *Why:* Both were salt, so both grew cubes. The speed of drying changed their size, not their shape.
-6. (mcq) What shape do phitkari crystals grow in?  
+5. (mcq) What shape do phitkari crystals grow in?  
    Options: Cubes, like salt / Two pyramids joined at their base / Round balls  
    **Answer:** Two pyramids joined at their base. *Why:* Phitkari particles join in their own pattern, which gives double pyramids with triangle faces. Picking 'cubes' is a natural guess after salt.
-7. (mcq) Why do salt, sugar and phitkari each grow a different shape?  
+6. (mcq) Why do salt, sugar and phitkari each grow a different shape?  
    Options: They were grown in different glasses / The particles of each one join in their own pattern / They are different colours  
    **Answer:** The particles of each one join in their own pattern. *Why:* Each substance has its own pattern, and the shape shows the pattern. Picking 'different glasses' is worth testing: grow two in the same kind of glass, and they still differ.
-8. (mcq) Which of these is not a crystal?  
+7. (mcq) Which of these is not a crystal?  
    Options: Kalkandu / A glass bangle / Phitkari  
    **Answer:** A glass bangle. *Why:* Glass has its particles in a jumble, so it is not a crystal. Kalkandu and phitkari have their particles in a pattern.
-9. (mcq) A clear boiled sweet is made of sugar. Why is it not a crystal?  
-   Options: It cooled so fast that its sugar particles froze in a jumble / It has no sugar in it / It is too small  
-   **Answer:** It cooled so fast that its sugar particles froze in a jumble. *Why:* Fast cooling gave the particles no time to line up. Kalkandu grows slowly, so its particles do. Picking 'no sugar' misses that it tastes sweet.
-10. (mcq) What did Nicolas Steno find in 1669 by studying quartz?  
+8. (mcq) What did Nicolas Steno find in 1669 by studying quartz?  
    Options: All quartz crystals are the same size / The angles between matching faces are the same in every quartz crystal / Quartz is frozen ice  
    **Answer:** The angles between matching faces are the same in every quartz crystal. *Why:* However lopsided, every quartz crystal had the same angles between its faces. Picking 'frozen ice' is the old idea from Pliny, which was wrong.
-11. (mcq) Before Steno, what did many people think about crystals of one kind?  
+9. (mcq) Before Steno, what did many people think about crystals of one kind?  
    Options: That they could grow in any shape, since no two looked alike / That they were all perfect cubes / That they were alive  
    **Answer:** That they could grow in any shape, since no two looked alike. *Why:* No two quartz crystals look alike, so people thought there was no rule. Steno showed that the angles follow a rule, even when the face sizes don't.
-12. (mcq) Shruti, a girl in Class 3, wants big kalkandu crystals on a thread. What should she do?  
+10. (mcq) Shruti, a girl in Class 3, wants big kalkandu crystals on a thread. What should she do?  
    Options: Stir the syrup every day / Cool the syrup in cold water / Leave the syrup still for many days  
    **Answer:** Leave the syrup still for many days. *Why:* Slow, still growth gives big crystals. Stirring and fast cooling start too many small crystals, which is how Arjun's syrup turned sandy.
 
 ## Applications
-- Salt pans along the coast of Tamil Nadu and Gujarat grow salt crystals by letting sea water evaporate in the sun.
+- Salt pans along the coasts of Tamil Nadu, Andhra Pradesh, Odisha and Gujarat, and in the Little Rann of Kutch, grow salt crystals by letting sea water or salty ground water evaporate in the sun.
 - Sugar mills boil cane juice and control the cooling, so the sugar crystals come out the size they want.
 - Kalkandu and thread mishri are grown on threads in still syrup for many days.
 - Scientists grow crystals of the substances in medicines, then shine X-rays through them to see the shape of their particles. Dorothy Hodgkin found the shapes of penicillin and vitamin B12 this way.
-- Quartz crystals keep time in most wrist watches and phones, because a small quartz crystal vibrates at a very steady speed.
+- Quartz crystals keep time in many wrist watches and phones, because a small quartz crystal vibrates at a very steady speed.
 - Computer chips are made from very pure silicon, grown as one huge crystal and then cut into thin slices.
 
 ## Spotted around us
 - Kal uppu, the big crystal salt kept in a jar in many South Indian kitchens.
 - Kalkandu at a temple, given as prasadam, or in kalkandu bath, a sweet from Karnataka.
-- The white salt heaps at the salt pans near Thoothukudi, seen from the road.
+- The white salt heaps at the salt pans near Thoothukudi, or along the Odisha and Gujarat coasts, seen from the road.
 - A jar of honey that has gone grainy in a cold month.
 - The feathery frost inside a freezer.
 - Phitkari at a barber's shop, or in a pooja shop.
@@ -644,44 +636,35 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 - What else grows big by adding a little at a time?
 
 ## Jokes
-- Why did the salt crystal stay on the shelf all week? *It was growing up slowly.*
 - What did the salt crystal say to the sugar grain? *You're sweet, but you're not my type.*
 - Why are salt crystals so honest? *They're always square with you.*
-- What do you call a crystal that grows in a hurry? *Sand.*
-- Why did the kalkandu win the race? *It didn't. It was still growing.*
 - What's a crystal's favourite game? *Dice. It has six faces already.*
 - Why did the phitkari crystal wear a hat? *To cover its pointy top.*
 - What did the glass say to the crystal? *I like you, but I'm just not organised.*
 - How does a snowflake count? *One, two, three, four, five, six, done.*
-- Why was the salt crystal never lost? *It always knew its place in the pattern.*
-- What did the seed crystal say to the new particle? *Join the club. Please line up.*
-- Why don't crystals ever argue? *They always find common ground, face to face.*
-- Why did Arjun's syrup turn to sand? *It was stirred, not left.*
-- What did one salt grain say to the other? *Let's stick together and make a crust.*
-- Why was the boiled sweet sad? *It never got its act in order.*
-- What is a crystal's favourite subject? *Geometry, of course.*
 - Why did the ice cube get top marks? *It was a cool crystal.*
-- What do you call a lazy crystal? *A slow grower, and the biggest one in the glass.*
+- Why did the salt crystal stay on the shelf all week? *It was growing up slowly.*
+- Why don't crystals ever argue? *They always find common ground, face to face.*
 
 ## Connected maths
-- Meenakshi's biggest plate crystal was 1 millimetre across. Her biggest glass crystal was 6 millimetres across. How many plate crystals, lined up side by side, would reach across the glass crystal? **6 plate crystals.**. 6 divided by 1 is 6. So 6 tiny plate crystals in a row are as wide as one glass crystal. (queues `math.length.standard-units-length.L3`)
+- Meenakshi did the plate and glass test. Her biggest plate crystal was 1 millimetre across. Her biggest glass crystal was 6 millimetres across. How many plate crystals, lined up side by side, would reach across the glass crystal? **6 plate crystals.**. 6 divided by 1 is 6. So 6 tiny plate crystals in a row are as wide as one glass crystal. (queues `math.length.standard-units-length.L3`)
 - A small salt cube is 2 tiny blocks long, 2 wide and 2 high. How many tiny blocks is it made of? If it grows to 3 blocks long, 3 wide and 3 high, how many blocks then? **8 blocks, then 27 blocks.**. One layer of 2 by 2 is 4 blocks. Two layers make 8. One layer of 3 by 3 is 9 blocks. Three layers make 27. So growing just one block wider on each side more than triples the number of blocks. (queues `math.multiplication.equal-groups.L3`)
-- How many faces, edges and corners does a salt cube have? Nila finds 4 salt cubes stuck together in a row. How many faces of the row can you see from outside? **A cube has 6 faces, 12 edges and 8 corners. A row of 4 has 18 faces showing.**. Each cube has 6 faces, so 4 cubes have 24. Where two cubes touch, 2 faces are hidden, one on each. A row of 4 has 3 joins, so 3 times 2 is 6 faces hidden. 24 take away 6 is 18. (queues `math.shapes-3d.faces-edges-vertices.L3`)
-- Shruti measured her biggest sugar crystal. Day 3: 1 millimetre. Day 5: 3 millimetres. Day 7: 5 millimetres. If it keeps growing the same way, how big will it be on day 9? Why might it slow down later? **About 7 millimetres on day 9. It may slow down because the syrup has less sugar left to give.**. It grows 2 millimetres every 2 days: 1, 3, 5, so next is 7. But each crystal takes sugar out of the syrup. As the syrup holds less spare sugar, growth slows unless more water evaporates. (queues `math.patterns.number-patterns.L3`)
+- How many faces, edges and corners does a salt cube have? Nila, in the story, finds 4 salt cubes stuck together in a row. How many faces of the row can you see from outside? **A cube has 6 faces, 12 edges and 8 corners. A row of 4 has 18 faces showing.**. Each cube has 6 faces, so 4 cubes have 24. Where two cubes touch, 2 faces are hidden, one on each. A row of 4 has 3 joins, so 3 times 2 is 6 faces hidden. 24 take away 6 is 18. (queues `math.shapes-3d.faces-edges-vertices.L3`)
+- Shruti, a girl in Class 3, grew kalkandu on a thread and measured her biggest sugar crystal. Day 3: 1 millimetre. Day 5: 3 millimetres. Day 7: 5 millimetres. If it keeps growing the same way, how big will it be on day 9? Why might it slow down later? **About 7 millimetres on day 9. It may slow down because the syrup has less sugar left to give.**. It grows 2 millimetres every 2 days: 1, 3, 5, so next is 7. But each crystal takes sugar out of the syrup. As the syrup holds less spare sugar, growth slows unless more water evaporates. (queues `math.patterns.number-patterns.L3`)
 
 ## Song
-Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and particles L3
+Still There (sci.states.L3): 
 
 ## Links
 - [PhET Concentration](https://phet.colorado.edu/en/simulations/concentration) · simulation: A free simulation. Add a solid to water until it is saturated, then let the water evaporate and watch solid come back out.
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: See how the particles in a solid sit in a neat pattern, compared with a liquid and a gas.
-- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum. Check before you go which galleries are open, and look for minerals and crystals.
-- [B. M. Birla Science Centre](https://birlasciencecentre.org/) · place · Hyderabad: A science museum with galleries on the Earth and its rocks. Check which exhibits are open before you visit.
+- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum in Bengaluru. Ask what is on show before you go.
+- [B. M. Birla Science Centre](https://birlasciencecentre.org/) · place · Hyderabad: A science museum in Hyderabad. Ask what is on show before you go.
 
 ## Things to buy
-- [Phitkari (alum), a small lump or powder](https://www.amazon.in/s?k=phitkari+alum) (material): For growing phitkari crystals overnight. Sold cheaply at grocery shops, pooja shops and chemists. Not to be eaten. Used in e2. Buy before the Salt, Sugar or Phitkari experiment. A 100 gram packet is plenty.
-- [A hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the faces of small crystals. A phone camera zoomed in works too, so this is optional. Used in e1, a1, a3, a4. Optional. Use a phone camera if you don't have one.
-- [Kalkandu (rock sugar), also called mishri](https://www.amazon.in/s?k=kalkandu) (material): A big sugar crystal to compare with your grown crystals. Any kirana shop sells it. Used in e2, a4, p1. Optional. Small packets are cheap and keep for months.
+- [Phitkari (alum), a small lump or powder](https://www.amazon.in/s?k=phitkari+alum) (material): For growing phitkari crystals overnight. Sold cheaply at grocery shops, pooja shops and chemists. A 100 gram packet is plenty. Not to be eaten. Used in e2. 
+- [A hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the faces of small crystals. A phone camera zoomed in works too, so you can skip this. Used in e1, a1, a3, a4. 
+- [Kalkandu (rock sugar), also called mishri](https://www.amazon.in/s?k=kalkandu) (material): A big sugar crystal to compare with your grown crystals. Any kirana shop sells it. You can skip it. Used in e2, a4, p1. 
 
 ## Warm-up
 - What is a crystal? → A solid whose particles are joined in a pattern that repeats.

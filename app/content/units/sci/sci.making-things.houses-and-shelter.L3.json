@@ -343,7 +343,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each player draws a place in India and must collect the right cards to build a home that suits it, answering house questions to win cards.",
+   "context": "This is a card game. Each player gets a place in India and wins building cards by answering house questions. The first to build a house that suits their place, and say why, wins.",
    "printables": [
     {
      "kind": "cards",
@@ -359,48 +359,99 @@
     },
     {
      "kind": "cards",
-     "title": "18 building cards",
+     "title": "21 building cards: 7 roofs, 7 walls, 7 extras",
      "items": [
-      "Steep tiled roof",
-      "Steep tiled roof",
-      "Flat mud roof",
-      "Flat mud roof",
-      "Light cone roof of thatch",
-      "Rounded thatch roof",
-      "Bamboo stilts",
-      "Bamboo stilts",
-      "Thick mud walls",
-      "Thick mud walls",
-      "Round mud walls",
-      "Laterite stone walls",
-      "Concrete frame with steel rods",
-      "Lift and stairs",
-      "Diagonal brace",
-      "Diagonal brace",
-      "Bamboo walls",
-      "Small door to keep the warmth in"
+      "ROOF: Steep tiled roof",
+      "ROOF: Steep tiled roof",
+      "ROOF: Flat mud roof",
+      "ROOF: Flat mud roof",
+      "ROOF: Light cone roof of thatch",
+      "ROOF: Rounded thatch roof",
+      "ROOF: Flat concrete roof",
+      "WALLS: Thick mud walls",
+      "WALLS: Thick mud walls",
+      "WALLS: Round mud walls",
+      "WALLS: Laterite stone walls",
+      "WALLS: Concrete frame with steel rods",
+      "WALLS: Bamboo walls",
+      "WALLS: Bamboo walls",
+      "EXTRA: Bamboo stilts",
+      "EXTRA: Bamboo stilts",
+      "EXTRA: Lift and stairs",
+      "EXTRA: Diagonal brace",
+      "EXTRA: Diagonal brace",
+      "EXTRA: Small door to keep the warmth in",
+      "EXTRA: Small door to keep the warmth in"
      ]
     },
     {
      "kind": "cards",
-     "title": "16 question cards",
+     "title": "16 question cards (question on the front, answer on the back)",
      "items": [
-      "Which frame keeps its shape: a square or a triangle?",
-      "Why do roofs in Kerala slope steeply?",
-      "Why are some houses in Assam on stilts?",
-      "Which tile goes on top: the higher or the lower one?",
-      "What does a diagonal brace do?",
-      "Name one natural building material.",
-      "Why does a builder wear a helmet?",
-      "Why do houses in Ladakh have flat roofs?",
-      "What is a truss?",
-      "Why is a heavy roof dangerous in an earthquake?",
-      "Why do cities have tall blocks of flats?",
-      "What does a shelter protect us from?",
-      "Why does the baya weaver's nest open at the bottom?",
-      "Why do thick mud walls keep a room cool in the day?",
-      "What shape is a Kutch bhunga?",
-      "Name one safety rule at home."
+      {
+       "f": "A gate leans sideways. Where should a plank go to stop it?",
+       "b": "From one corner to the opposite corner. That splits the gate into two triangles."
+      },
+      {
+       "f": "Why do bhungas in Kutch have light roofs?",
+       "b": "Shaking pushes a light roof less, and a light roof does much less harm if it falls."
+      },
+      {
+       "f": "Why are the mud walls in Ladakh so thick?",
+       "b": "Thick mud is slow to heat up and slow to cool down, so rooms stay warm on cold nights."
+      },
+      {
+       "f": "Why would a flat roof be a bad idea in Kerala?",
+       "b": "Heavy monsoon rain would stand on it in puddles and soak through."
+      },
+      {
+       "f": "What is laterite, the stone in many old Kerala walls?",
+       "b": "A reddish stone cut from the ground."
+      },
+      {
+       "f": "Why are bands of concrete or wood tied round the walls in earthquake areas?",
+       "b": "So the walls move together as one piece and do not fall apart."
+      },
+      {
+       "f": "What is the trick of a Mangalore roof tile?",
+       "b": "It has grooves that lock it to the tiles next to it."
+      },
+      {
+       "f": "What do families in Ladakh use a flat roof for?",
+       "b": "Drying apricots and storing hay."
+      },
+      {
+       "f": "What are Toda huts in the Nilgiris made of?",
+       "b": "Bamboo, cane and thatch."
+      },
+      {
+       "f": "Why do builders wear strong shoes?",
+       "b": "Nails and broken glass lie on the ground at a building site."
+      },
+      {
+       "f": "Why do you stand steadier with your feet wide apart?",
+       "b": "Your legs and the floor make a triangle, and a triangle does not lean."
+      },
+      {
+       "f": "What does rigid mean?",
+       "b": "Keeps its shape when pushed."
+      },
+      {
+       "f": "What is a joint in a frame?",
+       "b": "The place where two parts meet and are fixed together."
+      },
+      {
+       "f": "What is a load?",
+       "b": "The weight or push that a building or frame has to hold up."
+      },
+      {
+       "f": "Why do pandals have cross poles?",
+       "b": "Wind pushes sideways. Cross poles make triangles, so the frame does not lean."
+      },
+      {
+       "f": "Name one thing builders do to keep a building safe in an earthquake.",
+       "b": "Add braces, tie the walls together, or keep the roof light."
+      }
      ]
     },
     {
@@ -416,18 +467,19 @@
     }
    ],
    "rules": [
-    "Each player draws one place card and keeps it face up.",
-    "Spread the building cards face up in the middle.",
-    "On your turn, a parent or another player reads you a question card. Answer it right, and you may take one building card.",
-    "You need three cards that suit your place: a roof, walls and one extra.",
-    "When you have three, explain why your house suits your place. If the others agree, you win.",
-    "Some places can use more than one answer. A good reason counts."
+    "Each player takes one place card and keeps it face up. With 2 players, use any 2 of the 6.",
+    "Spread the building cards face up in the middle. Put the question cards in a pile, question side up.",
+    "On your turn, the player on your left reads you the top question card. Read the answer on the back to check it. If you are right, take one building card. If you are wrong, the card goes to the bottom of the pile.",
+    "To win, you need three cards that suit your place: one ROOF, one WALLS and one EXTRA.",
+    "You may put one of your cards back in the middle instead of answering a question, if you chose badly.",
+    "When you have three, tell the others why your house suits your place. If they agree, you win. A good reason counts: some places suit more than one card.",
+    "If the question pile runs out, shuffle it and use it again."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Shuffle and deal one place card to each player. 2. Spread the building cards face up. 3. Put the question cards in a pile.",
+     "do": "1. Each player takes a place card. 2. Spread the building cards face up. 3. Put the question cards in a pile.",
      "say": "Each of you has a place in India. You must build a home that suits it. Read your place card. What is the weather like there?",
      "kid": "Read your place card. What is the weather there? What will your house need?",
      "context": "This is the first step of Build It Right. It is a card game about building homes that suit their place."
@@ -435,15 +487,15 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "Take turns. Read a question card. A right answer wins one building card.",
+     "do": "Take turns. The player on your left reads a question card and checks your answer on the back. A right answer wins one building card.",
      "say": "Here is your question. If you get it right, choose a building card that suits your place.",
      "kid": "Answer the question. If you are right, take a building card for your house.",
-     "parent": "Good matches: Kerala, steep tiled roof and laterite walls. Assam, bamboo stilts and bamboo walls. Ladakh, flat mud roof and thick mud walls. Kutch, round mud walls and a light cone roof. Chennai city, concrete frame and a lift. Nilgiris, rounded thatch roof and a small door."
+     "parent": "Good matches: Kerala, steep tiled roof, laterite walls and a brace. Assam, a steep or thatch roof, bamboo walls and stilts. Ladakh, flat mud roof, thick mud walls and a small door. Kutch, cone roof, round mud walls and a brace. Chennai city, flat concrete roof, concrete frame and a lift. Nilgiris, rounded thatch roof, bamboo walls and a small door."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Each winner explains their house.",
+     "do": "Each player who has three cards explains their house. The others say whether they agree.",
      "say": "Tell us why your house suits your place. Which card would be a bad choice there?",
      "kid": "Say why your house suits your place. Which card would be bad there?",
      "check": {
@@ -479,51 +531,93 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a fast game. You look at pictures of frames and shapes and decide, quickly, whether each one will lean when pushed or stand firm.",
+   "context": "This is a fast game. Each card names a frame or shape. You picture it, or draw it on scrap paper, and decide, quickly, whether it will lean when pushed or stand firm.",
    "printables": [
     {
      "kind": "cards",
-     "title": "14 frame cards",
+     "title": "14 frame cards (the shape on the front, the answer on the back)",
      "items": [
-      "a square",
-      "a triangle",
-      "a square with one diagonal",
-      "a rectangle",
-      "a rectangle with a cross of two diagonals",
-      "a row of three squares",
-      "a row of three triangles",
-      "a ladder leaning on a wall",
-      "a gate with no diagonal plank",
-      "a gate with a diagonal plank",
-      "a tall thin rectangle",
-      "a pentagon (five sides)",
-      "a pentagon with two diagonals from one corner",
-      "a hexagon (six sides)"
+      {
+       "f": "a square",
+       "b": "LEAN. Its corners can turn."
+      },
+      {
+       "f": "a triangle",
+       "b": "STAND. Three fixed sides make only one shape."
+      },
+      {
+       "f": "a square with one diagonal strip",
+       "b": "STAND. The strip splits it into two triangles."
+      },
+      {
+       "f": "a rectangle",
+       "b": "LEAN. Its corners can turn."
+      },
+      {
+       "f": "a rectangle with a cross of two diagonal strips",
+       "b": "STAND. It is four triangles."
+      },
+      {
+       "f": "a row of three squares",
+       "b": "LEAN. Every square can turn into a diamond."
+      },
+      {
+       "f": "a row of three triangles",
+       "b": "STAND. Every part is a triangle."
+      },
+      {
+       "f": "a ladder-shaped frame: two long sides joined by three rungs",
+       "b": "LEAN. The rungs make rectangles."
+      },
+      {
+       "f": "a gate with no diagonal plank",
+       "b": "LEAN. It is only a rectangle."
+      },
+      {
+       "f": "a gate with a diagonal plank",
+       "b": "STAND. The plank is a brace."
+      },
+      {
+       "f": "a tall thin rectangle",
+       "b": "LEAN. A tall rectangle still has turning corners."
+      },
+      {
+       "f": "a pentagon (five sides)",
+       "b": "LEAN. It has no strips inside."
+      },
+      {
+       "f": "a pentagon with two diagonal strips from one corner",
+       "b": "STAND. The strips split it into three triangles."
+      },
+      {
+       "f": "a hexagon (six sides)",
+       "b": "LEAN. It has no strips inside."
+      }
      ]
     }
    ],
    "rules": [
     "Shuffle the cards and place them face down.",
-    "Turn one over. Say 'lean' or 'stand' before you count to three.",
+    "Take turns. Turn the top card over, keeping the back hidden, and read the shape aloud. The other player says 'lean' or 'stand' before you count to three, then checks the back.",
     "Check: can the shape be split completely into triangles by its strips? Then it stands. If not, it leans.",
-    "Score one point for each right answer. Playing alone, try to beat your own score."
+    "A right answer scores one point. The game ends when the cards run out, and the most points wins. Playing alone, read each card to yourself, answer, check the back, and try to beat your own score."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Show the first card, a square. Remind your child of the Push Test.",
-     "say": "Remember your card square? Would it lean or stand when pushed?",
-     "kid": "Remember your square frame? Will it lean or stand?",
+     "do": "Remind your child of the Push Test, and shuffle the cards face down.",
+     "say": "Remember the card square you pushed? Did it lean or stand? Now we will guess for other shapes.",
+     "kid": "Remember your card square? Did it lean or stand? Now guess for other shapes.",
      "context": "This is Lean or Stand, a quick game about which frames keep their shape."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Turn the cards over one by one. Your child answers before you count to three.",
+     "do": "Take turns turning the cards over. The other player answers before you count to three.",
      "say": "Lean or stand? Quick!",
      "kid": "Lean or stand? Answer fast!",
-     "parent": "Stand: triangle, square with one diagonal, rectangle with a cross, row of three triangles, gate with a diagonal plank, pentagon with two diagonals from one corner. The ladder stands too, because the ladder, the wall and the floor make a triangle. Lean: square, rectangle, row of three squares, gate with no plank, tall rectangle, pentagon, hexagon."
+     "parent": "Stand: triangle, square with one diagonal, rectangle with a cross, row of three triangles, gate with a diagonal plank, pentagon with two diagonals from one corner. Lean: square, rectangle, row of three squares, ladder-shaped frame, gate with no plank, tall rectangle, pentagon, hexagon."
     },
     {
      "id": "s3",
@@ -560,7 +654,7 @@
   {
    "id": "e1",
    "title": "The Push Test: square frame or triangle frame?",
-   "mins": 35,
+   "mins": 40,
    "days": 1,
    "context": "This is the main investigation of the unit. You build three frames from card strips: a square, a triangle, and a square with one strip across it. Then you push each one sideways and measure how far it leans.",
    "question": "When we push the top of a frame sideways, which shape keeps its shape best: a square, a triangle, or a square with one strip from corner to corner?",
@@ -605,7 +699,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 40,
      "what": "Make the strips and frames. Guess. Push each frame three times and measure. Say what you found and why."
     }
    ],
@@ -691,11 +785,11 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "1. Put the square back together as a square. 2. Lay the long strip from the bottom left corner to the top right corner. 3. Mark where it crosses the top right pin. 4. A grown-up makes a hole there and pins it on.",
+     "do": "1. Put the square back together as a square. 2. Lay the long strip across it, from the bottom left corner to the top right corner. 3. With a sharp pencil, mark through the two corner holes onto the long strip. 4. A grown-up makes a hole at each mark. 5. Take out the pins at those two corners, and push them back through all three layers.",
      "say": "What if we add one strip across the square, from corner to corner? Guess first: will it still lean?",
      "kid": "Add the long strip across the square, from one corner to the opposite corner. Will it lean now? Guess first.",
      "adult": true,
-     "parent": "Hold the square straight while you mark the second hole, so the brace fits exactly. The long strip shares a pin at each of its two corners."
+     "parent": "The long strip is 25 cm, so it reaches past both corners. Hold the square straight while you mark, so the brace fits exactly. The pins at the two corners now hold three layers each, so open them flat but keep them loose."
     },
     {
      "id": "s7",
@@ -767,7 +861,7 @@
    ],
    "materials": [
     {
-     "item": "a flat plastic tray, a plastic file cover, or a steel plate with no rim, as the roof",
+     "item": "a flat plastic tray with a very low or no rim, a plastic file cover, or a steel plate, as the roof",
      "qty": 1
     },
     {
@@ -787,7 +881,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up spilled water at once, so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -830,10 +923,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe dry. 5. Repeat with one book, then four books.",
+     "do": "1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe dry. 5. Repeat with one book, then four books. Do each slope twice.",
      "say": "Pour slowly, all in the same place. Start the clock now. Tell me when the drips stop.",
      "kid": "Pour 4 spoons in the middle. Start the clock. Stop it when the drips stop.",
-     "parent": "On the flat tray, most water stays in a puddle, so write 'more than 60' and 'yes'. On one book, water creeps slowly and some drops stay behind. On four books, it runs off in a few seconds. Do each slope twice."
+     "parent": "On a flat tray, most of the water stays in a puddle, so write 'more than 60' and 'yes'. If your tray is very smooth, some water may creep over the edge: write what you really see. On one book, water runs slowly and some drops stay behind. On four books, it runs off in a few seconds."
     },
     {
      "id": "s4",
@@ -881,11 +974,11 @@
    ],
    "materials": [
     {
-     "item": "two clean, empty milk packets, cut into 8 rectangles of plastic, each about 6 cm by 10 cm. Any thin plastic bag works too.",
+     "item": "two clean, empty milk packets, washed and dried, cut into 8 rectangles of plastic, each about 12 cm wide and 6 cm tall. Any thin plastic bag works too.",
      "qty": 2
     },
     {
-     "item": "two pieces of card, each about 12 cm by 20 cm, as the roof base",
+     "item": "two pieces of card, each about 14 cm wide and 20 cm tall, as the roof base",
      "qty": 2
     },
     {
@@ -901,7 +994,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash the milk packets and dry them before cutting. A grown-up helps with the scissors.",
+   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -928,11 +1021,11 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Cut a slit 3 cm wide down the middle of each card, from just below the top to just above the bottom. 2. Tape 4 plastic tiles in rows across each card, covering the slit.",
+     "do": "1. Cut a gap 3 cm wide down the middle of each card. Start 2 cm below the top and stop 2 cm above the bottom. 2. Tape 4 plastic tiles in rows across each card, over the gap. Overlap them by 2 cm.",
      "say": "The slit in the card is like the gaps in a real roof. If water gets through the tiles, it will drip through the slit onto the tissue.",
-     "kid": "A grown-up cuts a slit in each card. Tape 4 plastic tiles over the slit.",
+     "kid": "A grown-up cuts a gap in each card. Tape 4 plastic tiles across each card, over the gap, in rows.",
      "adult": true,
-     "parent": "On roof A, start taping at the bottom: tape the lowest tile first, then lay each higher tile so it covers the top 2 cm of the one below. On roof B, start at the top, so each lower tile covers the bottom 2 cm of the one above. Tape each tile along its two side edges only, so water can run over or under the tile edges.",
+     "parent": "On roof A, start taping at the bottom: tape the lowest tile first, then lay each higher tile so it covers the top 2 cm of the one below. On roof B, start at the top, so each lower tile covers the bottom 2 cm of the one above. Tape each tile along its two short sides only, onto the edge of the card, so water can run over or under the tile edges.",
      "context": "This is the first step of the tile test. Here you build two model roofs whose tiles overlap in opposite ways."
     },
     {
@@ -949,7 +1042,7 @@
      "do": "1. Tilt each roof on two books over a dry tissue. 2. Pour 4 spoons of water slowly along the top edge. 3. Lift the roof and look at the tissue. 4. Repeat with fresh tissues.",
      "say": "Pour slowly along the top. Now lift the roof. Is the tissue wet? Where?",
      "kid": "Tilt each roof over a tissue. Pour water along the top. Lift it up. Is the tissue wet?",
-     "parent": "Under roof A the tissue should stay dry, because water runs from the top of each tile onto the outside of the next. Under roof B, water runs into the edge of each tile, under it, and through the slit. You should see wet spots."
+     "parent": "Under roof A the tissue should stay mostly dry, because water runs from the bottom of each tile onto the outside of the next. A drop or two may still creep through, so count the wet spots. Under roof B, water runs into the edge of each tile, under it, and through the gap. You should see clearly more wet spots."
     },
     {
      "id": "s4",
@@ -1075,7 +1168,7 @@
      "do": "1. Look at stools, a cloth-drying stand, shelf brackets, a ladder and the ironing board. 2. Look out of the window at towers, cranes and roofs. 3. Draw each triangle you find.",
      "say": "Remember how the triangle frame would not lean? Builders know that too. Let's find triangles that are holding something up.",
      "kid": "Find triangles that hold something up. Look at home and out of the window. Draw them.",
-     "parent": "Good finds: the bracket under a shelf, the legs of a folding stand, a ladder leaning on a wall with the floor, a mobile tower, a crane, the steel roof of a bus stand or a railway station.",
+     "parent": "Good finds: the bracket under a shelf, the legs of a folding stand, the A-shaped legs of a step ladder, a mobile tower, a crane, the steel roof of a bus stand or a railway station.",
      "context": "This is the Triangle Hunt. Here you find triangles that keep real things from leaning."
     },
     {
@@ -1103,14 +1196,17 @@
    "title": "Homes of India: match the house to the place",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you match pictures of houses from different parts of India to their place, and give a reason from the weather.",
+   "context": "In this activity you match six homes from different parts of India to their places, and give a reason from the weather or the land.",
    "materials": [
     {
-     "item": "the printed house cards and place cards from this unit, or a sheet of paper to draw them",
+     "item": "the six place cards from the game Build It Right, or six small pieces of paper with the place names written on them",
+     "qty": 6
+    },
+    {
+     "item": "a notebook and pencil",
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1121,21 +1217,21 @@
    "record": "Stick or draw each house next to its place, with one reason.",
    "setup": [
     {
-     "art": "Six house cards on a table: a steep tiled Kerala house, a bamboo house on stilts, a flat-roofed mud house, a round cone-roofed hut, a half-barrel thatch hut, and a block of flats.",
-     "caption": "1. Lay out the six house cards."
+     "art": "Six place cards in a row on a table, Kerala, Assam, Ladakh, Kutch, the Nilgiris and Chennai.",
+     "caption": "1. Lay out the six place cards."
     },
     {
-     "art": "Six place cards beside them: Kerala, Assam, Ladakh, Kutch, the Nilgiris and Chennai, each with a small weather picture.",
-     "caption": "2. Match each house to a place, and give a reason."
+     "art": "A child pointing at the Assam card while a parent reads out a home on stilts.",
+     "caption": "2. Hear a home. Pick its place and give a reason."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Lay out the house cards and the place cards. 2. Ask your child to match them. 3. Ask for a reason each time.",
+     "do": "1. Lay out the six place cards: Kerala, Assam, Ladakh, Kutch, the Nilgiris, Chennai. 2. Read your child one home from the parent notes, without the place. 3. Ask which place it suits, and why. Do all six.",
      "say": "Each of these homes suits its place. Which one is from the place with floods? Which is from the cold desert? How can you tell?",
-     "kid": "Match each house to a place. Give a reason each time.",
+     "kid": "Listen to a home. Which place does it suit? Why?",
      "parent": "Kerala: steep tiled roof, heavy rain. Assam: bamboo house on stilts, floods. Ladakh: flat mud roof and thick mud walls, very little rain and cold nights. Kutch: round bhunga with a light roof, earthquakes and heat. Nilgiris: the Toda hut with a rounded thatch roof, cool hills. Chennai: a block of flats, many people and little land.",
      "context": "This is a matching activity. Here you match Indian houses to the places they come from."
     },
@@ -1177,7 +1273,7 @@
     },
     {
      "art": "A builder in a yellow helmet, bright jacket, strong boots and a harness clipped to scaffolding.",
-     "caption": "2. Look at what builders wear, and why."
+     "caption": "2. Think about what builders wear, and why."
     }
    ],
    "flow": [
@@ -1194,19 +1290,19 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Look at the picture of a builder and ask why each piece of gear is needed.",
+     "do": "Think about a builder, or look at a photo of builders on a phone or in a book. Ask why each piece of gear is needed.",
      "say": "Why does a builder wear a hard helmet? Why strong boots? Why a harness when working high up?",
      "kid": "Look at the builder. Why the helmet? Why the boots? Why the harness?",
      "check": {
       "t": "mcq",
-      "q": "Why does a builder working high up wear a harness tied to the building?",
+      "q": "Why do builders wear strong boots?",
       "options": [
-       "To carry tools",
-       "So that if they slip, the harness stops them falling",
-       "To keep warm"
+       "To look smart",
+       "Nails and broken glass lie on the ground at a building site",
+       "To make them taller"
       ],
       "a": 1,
-      "why": "Falls are one of the most common causes of injury on building sites. A harness tied to something strong catches the worker if they slip."
+      "why": "Builders walk where nails, sharp stones and broken glass lie. Strong boots protect their feet."
      }
     }
    ]
@@ -1331,7 +1427,7 @@
      "do": "1. Lay a double sheet of newspaper flat. 2. Roll it tightly from one corner around a pencil. 3. Slide the pencil out and tape the end. 4. Make 30 sticks.",
      "say": "We need about 30 sticks. Roll tightly, because a tight roll is much stronger than a loose one.",
      "kid": "Roll newspaper tightly from one corner. Tape the end. Make 30 sticks.",
-     "parent": "Rolling from the corner gives a long, thin, strong stick about 80 cm long. Share the rolling. Aim for sticks of about the same length.",
+     "parent": "Rolling from the corner gives a long, thin, strong stick about 80 cm long. Share the rolling. Aim for sticks of about the same length. To make a longer pole, slide the thin end of one stick into the end of another and tape it.",
      "context": "This is day 1 of the newspaper hut. Here you roll newspaper into strong sticks."
     },
     {
@@ -1345,10 +1441,10 @@
     {
      "id": "s3",
      "mins": 35,
-     "do": "Day 2: 1. Tape three triangles together at their sides to make a tent shape, like a tall pyramid. 2. Add more triangles until it is big enough to sit in. 3. Tape each joint firmly.",
-     "say": "Let's build our hut from triangles. Where will the door be?",
+     "do": "Day 2: 1. Make 8 long poles by joining two sticks each, about 150 cm. 2. Tape four poles into a square on the floor. 3. Tape the other four from the corners up to meet at the top, like a pyramid. 4. Leave a gap on one side for a door.",
+     "say": "Let's build our hut from triangles. Each side is a triangle. Where will the door be?",
      "kid": "Join your triangles into a hut. Leave a gap for the door.",
-     "parent": "A simple shape is a square base with four triangles leaning in to meet at the top, with a brace across each side of the base. Leave one side open as a door.",
+     "parent": "Each sloping side is already a triangle, but the square base can lean. Add a stick from corner to corner across the base, or a brace on each side. This hut is about 1.5 metres across, which is big enough for a child to sit inside. Sticks used: 16 for the poles, so you have 14 spare for braces.",
      "wait": "Come back to this on day 2."
     },
     {
@@ -1404,9 +1500,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Stand one rolled newspaper stick upright in front of the fan. 2. Switch the fan on.",
+     "do": "1. Hold one rolled newspaper stick upright by its bottom end, in front of the fan. 2. Switch the fan on.",
      "say": "Let's see the problem first. What does the wind do to a single stick?",
-     "kid": "Stand one stick up. Turn on the fan. What happens?",
+     "kid": "Hold one stick upright by its bottom end. Turn on the fan. What happens?",
      "context": "This is the Fan's Wind challenge. First you see how wind pushes a tower sideways."
     },
     {
@@ -1475,7 +1571,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Look at a photo of a house on stilts in Assam during a flood.",
+     "do": "Look at a photo of a house on stilts in Assam during a flood, on a phone or in a book. If you have none, picture a house with its floor high on poles and the river running underneath.",
      "say": "When the river floods, the water flows under this house. Why does the family stay dry?",
      "kid": "Look at the house on stilts. Why does the family stay dry in the flood?",
      "context": "This is the Flood-Proof House challenge. You design a house that stays dry in a flood."
@@ -1809,14 +1905,14 @@
     },
     {
      "t": "mcq",
-     "p": "Why do many houses in Assam stand on bamboo stilts?",
+     "p": "In your card frame, what is each split pin?",
      "opts": [
-      "So floodwater can flow under the floor",
-      "So the house is cooler in winter",
-      "Because bamboo is too short for walls"
+      "A brace",
+      "A joint, where two strips meet",
+      "A load"
      ],
-     "a": 0,
-     "why": "When the river floods, water flows under the raised floor, so the family and their things stay dry."
+     "a": 1,
+     "why": "A joint is the place where two parts of a frame meet and are fixed together."
     },
     {
      "t": "label",
@@ -1840,14 +1936,14 @@
     },
     {
      "t": "mcq",
-     "p": "Why does a builder wear a hard helmet?",
+     "p": "What is the load on a roof?",
      "opts": [
-      "To keep the sun off",
-      "To protect the head from falling bricks or tools",
-      "So others can tell who the builder is"
+      "The weight and push it has to hold up, such as its own weight and rain",
+      "The tiles on its edge",
+      "The door below it"
      ],
-     "a": 1,
-     "why": "Things can fall from above on a building site. A hard helmet protects the head."
+     "a": 0,
+     "why": "A roof's load is its own weight, plus rain, and people or water tanks on top."
     },
     {
      "t": "order",
@@ -1925,7 +2021,7 @@
      "p": "Mythili, a girl in Class 4, adds a strip across her square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?",
      "opts": [
       "Yes, any extra strip stops leaning",
-      "No, it makes two smaller squares, which can still lean",
+      "No, it makes two smaller rectangles, which can still lean",
       "Only if the strip is thicker"
      ],
      "a": 1,
@@ -1974,7 +2070,7 @@
        "Leans"
       ],
       [
-       "a ladder leaning on a wall, with the floor",
+       "a shelf bracket fixed to a wall",
        "Keeps its shape"
       ],
       [
@@ -2340,10 +2436,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the square frame go to the doctor?",
-   "a": "It kept feeling a bit off-balance."
-  },
-  {
    "j": "What did the triangle say to the square?",
    "a": "Stop leaning on me!"
   },
@@ -2372,10 +2464,6 @@
    "a": "I'll meet you at the corner."
   },
   {
-   "j": "Why was the tile so calm in the monsoon?",
-   "a": "It knew how to overlap its worries."
-  },
-  {
    "j": "What is a weaver bird's favourite subject?",
    "a": "Nest-ory."
   },
@@ -2386,18 +2474,6 @@
   {
    "j": "What do you call a house on stilts in a flood?",
    "a": "High and dry."
-  },
-  {
-   "j": "Why did the pandal stop wobbling?",
-   "a": "It finally got its cross poles straight."
-  },
-  {
-   "j": "Why don't helmets ever get headaches?",
-   "a": "They take all the knocks for you."
-  },
-  {
-   "j": "What did the brace say to the gate?",
-   "a": "Don't worry, I've got you covered, corner to corner."
   }
  ],
  "maths": [
@@ -2437,11 +2513,11 @@
    "why_maths": "Multiplying tells you how many strips to cut before you start, so you don't run out."
   },
   {
-   "problem": "A square frame needs 4 strips. A square with a brace needs 5 strips. A triangle needs 3. How many strips do you need to make one of each?",
-   "answer": "12 strips.",
-   "explain": "4 + 5 + 3 = 12. You can add the 5 and the 3 first to make 8, then add 4 to make 12.",
+   "problem": "A square frame needs 4 strips. A triangle needs 3. The brace on the square is 1 more strip. How many strips do you need for the whole Push Test?",
+   "answer": "8 strips.",
+   "explain": "4 + 3 + 1 = 8. You can add 4 and 3 to make 7, then add 1 to make 8.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
-   "context": "This is about the three frames in the Push Test.",
+   "context": "This is about the three frames in the Push Test: the square, the triangle and the square with a brace.",
    "how": "e1",
    "why_maths": "Adding up first lets you cut the right number of strips for the whole test."
   },
@@ -2529,8 +2605,7 @@
    "url": "https://www.amazon.in/s?k=brass+paper+fasteners+split+pins",
    "used_in": [
     "e1"
-   ],
-   "plan": "Used again for moving card models in the forces and simple machines units."
+   ]
   }
  ],
  "warmup": [
@@ -2626,9 +2701,7 @@
   ]
  },
  "sources": {
-  "founder": [
-   "ideas/by_topic/making-things.md: read for this unit. Its items are mainly about other parts of the topic (scientists' stories, paper and cloth), so none were used directly here."
-  ],
+  "founder": [],
   "boards": [
    "NCERT Class 3 Chapter 11, Making Things: houses of mud, grass, wood, stone and brick, and why builders follow safety rules (app/content/ncert/sci-L3-11.json).",
    "NIOS Level A Lesson 7, Our Basic Needs: shelter as a basic need, what makes a good house, and sloping roofs (app/content/nios/sci-L3-07.json)."
@@ -2692,7 +2765,7 @@
   ],
   "art": "A child standing with feet wide apart on a terrace at dawn, a faint triangle drawn between their legs and the floor, with a pandal frame, a Toda hut and a bamboo stilt house drawn in the clouds behind."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home, with the materials listed. Card from a cereal box is stiff enough. Thin paper bends and spoils the Push Test, so the step says to use thicker card. Split pins must be left loose, or a pressed-tight joint makes even the square stiff for a moment. Twist ties or knotted thread are the home alternative. The square's corner moves 10 to 14 cm, and the triangle's less than 1 cm, which is easy to see on a ruler. In Rain on the Roof, a tray with a high rim holds water even when tilted, so the step asks for a flat tray, a plastic file cover or a rimless plate. In the tile test, milk packets are thin and easy to cut and tape, and the slit in the card makes leaks show clearly on the tissue. The newspaper hut needs about 30 tightly rolled sticks, which takes two people about 25 minutes. Nothing in the spine needs a garden or a park.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home, with the materials listed. Cereal-box card is stiff enough for the Push Test; thin paper is not. Split pins must stay loose. The square's corner moves 10 to 14 cm and the triangle's less than 1 cm. In Rain on the Roof the tray must have a low rim, and a smooth tray may let a little water creep off the flat roof, so the step says to write what you really see. In the tile test, each tile is 12 by 6 cm so four overlapping tiles fit on a 20 cm card, and a drop may still creep through roof A, so the step says to count wet spots. The newspaper hut joins two sticks per pole to reach a size a child can sit in. Nothing in the spine needs a garden or a park.",
  "how_we_found_out": {
   "story": "In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that height needed ever thicker skeletons, was shown wrong. Triangles, placed well, did the work instead.",
   "who": "Fazlur Rahman Khan, an engineer born in Dhaka, with the architect Bruce Graham, in Chicago",

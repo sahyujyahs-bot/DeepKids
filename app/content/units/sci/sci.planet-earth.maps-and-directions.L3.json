@@ -30,7 +30,7 @@
   },
   {
    "term": "Bird's-eye view",
-   "meaning": "How a place looks from straight above, the way a bird flying over it would see it.",
+   "meaning": "How a place looks from straight above, the way a bird flying overhead sees the ground.",
    "example": "From above, a round steel tumbler looks like a circle, and a bed looks like a rectangle.",
    "art": "A crow flying above a room, looking down at a bed, a table and a tumbler."
   },
@@ -86,7 +86,7 @@
    "term": "Landmark",
    "meaning": "Something easy to see and remember that helps you find your way.",
    "example": "The milk booth at the gate and the big neem tree are landmarks in an apartment complex.",
-   "art": "An apartment gate with a milk booth and a large neem tree beside it."
+   "art": "An apartment gate with a milk booth, and a large neem tree standing next to the gate."
   },
   {
    "term": "Route",
@@ -118,7 +118,8 @@
    "examples": [
     "Kanyakumari is at the southern tip of mainland India.",
     "Delhi is north of Chennai.",
-    "Bengaluru is west of Chennai."
+    "Bengaluru is west of Chennai.",
+    "Kolkata is north-east of Chennai."
    ],
    "perspectives": [],
    "art": "A globe with the North Pole at the top and an arrow from India pointing to it, and a small Sun rising on the eastern edge.",
@@ -332,7 +333,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game in one room. A caller says a direction in English, Tamil, Malayalam, Telugu or Hindi, and everyone turns to face it as fast as they can.",
+   "context": "This is a quick game in one room. A caller says a direction in English, Tamil, Malayalam, Telugu or Hindi, and everyone else turns to face it as fast as they can.",
    "printables": [
     {
      "kind": "cards",
@@ -377,19 +378,19 @@
     }
    ],
    "rules": [
-    "Stick the four wall labels on the right walls first. Use the morning Sun or a compass to find them.",
-    "Shuffle the direction cards and put them face down. One player is the caller.",
-    "The caller reads a card aloud. Everyone else turns to face that direction and points.",
-    "Anyone facing the right wall scores 1. The last one to turn, or anyone facing the wrong wall, scores 0.",
-    "After 4 cards, take the wall labels down. Now you must remember the directions.",
-    "After 8 cards, the caller says two directions, such as 'between north and east'. Point to the corner.",
-    "Swap callers after every 8 cards. The player with the most points wins."
+    "Stick the four wall labels on the right walls first. Use the morning Sun or a compass, as in the Find the Four Directions activity.",
+    "Shuffle the 16 direction cards and put them face down. One player is the caller. With two players, you take turns being the caller.",
+    "The caller turns over a card and reads it aloud. The words in brackets tell the caller which direction it is. Everyone else turns to face that direction and points.",
+    "Anyone pointing at the right wall scores 1. The last one to turn, or anyone pointing at the wrong wall, scores 0. The caller does not score on their own cards.",
+    "The caller changes after every 4 cards. After each caller's 4 cards, that caller also says one corner, such as 'between north and east'. Everyone points to that corner, and the right corner scores 1.",
+    "Play the first 8 cards with the labels up. Then take the labels down and play the last 8 cards from memory.",
+    "The game ends when all 16 cards are used. The player with the most points wins."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Stick the N, S, E and W labels on the walls. 2. Cut out the cards. 3. Choose a caller.",
+     "do": "1. Stick the N, S, E and W labels on the walls. 2. Cut out the cards and shuffle them. 3. Choose a caller.",
      "say": "First we put up the four labels. Each one shows a direction. Then we take turns calling.",
      "kid": "Put the four labels on the walls. Choose who calls first.",
      "adult": false,
@@ -398,15 +399,15 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. The caller reads cards one by one. 2. Players turn and point. 3. Keep score. 4. After 4 cards, take the labels down.",
-     "say": "Kizhakku! Which way is that? Turn and point. Now the labels come down. Can you still find north?",
+     "do": "1. The caller reads cards one by one. 2. Players turn and point. 3. Keep score. 4. After 8 cards, take the labels down.",
+     "say": "Kizhakku! Which way is that? Turn and point. After eight cards the labels come down. Can you still find north?",
      "kid": "Listen. Turn and point. Can you do it with no labels?",
      "parent": "If your child gets stuck once the labels are down, ask: where was the sunny window this morning? That side is east."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Call two directions at once, for example 'between south and west'.",
+     "do": "After a caller's 4 cards, the caller says a corner, for example 'between south and west'. Everyone points to it.",
      "say": "Between south and west. Point to that corner. What do we call that direction?",
      "kid": "Point between south and west. What is its name?",
      "check": {
@@ -454,30 +455,126 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A grid map of a flat, 10 squares by 8",
+     "title": "The flat map: 80 squares, 10 across (A to J) and 8 down (1 to 8). Draw a north arrow above the top row.",
      "items": [
-      "A grid of 80 squares with a north arrow at the top",
-      "Rooms drawn on the grid: kitchen, hall, two bedrooms, bathroom and balcony, with doors as gaps",
-      "Eight coin spots marked with a small circle: the fridge, the TV, the pooja shelf, a bed, the balcony plant, the washing machine, the shoe rack and the dining table",
-      "A start square at the front door"
+      "A1, kitchen. Coin spot: the fridge. Wall on the north and west sides.",
+      "B1, kitchen. Wall on the north side.",
+      "C1, kitchen. Wall on the north side.",
+      "D1, kitchen. Wall on the north and east sides.",
+      "E1, bedroom 1. Wall on the north and west sides.",
+      "F1, bedroom 1. Wall on the north side.",
+      "G1, bedroom 1. Wall on the north side.",
+      "H1, bedroom 1. Wall on the north and east sides.",
+      "I1, bathroom. Wall on the north and west sides.",
+      "J1, bathroom. Coin spot: the washing machine. Wall on the north and east sides.",
+      "A2, kitchen. Wall on the west side.",
+      "B2, kitchen.",
+      "C2, kitchen.",
+      "D2, kitchen. Wall on the east side.",
+      "E2, bedroom 1. Wall on the west side.",
+      "F2, bedroom 1.",
+      "G2, bedroom 1. Coin spot: the bed.",
+      "H2, bedroom 1. Wall on the east side.",
+      "I2, bathroom. Wall on the west side.",
+      "J2, bathroom. Wall on the east side.",
+      "A3, kitchen. Wall on the south and west sides.",
+      "B3, kitchen. Wall on the south side.",
+      "C3, kitchen. Door on the south side.",
+      "D3, kitchen. Wall on the south and east sides.",
+      "E3, bedroom 1. Wall on the south and west sides.",
+      "F3, bedroom 1. Door on the south side.",
+      "G3, bedroom 1. Wall on the south side.",
+      "H3, bedroom 1. Wall on the south and east sides.",
+      "I3, bathroom. Door on the south side. Wall on the west side.",
+      "J3, bathroom. Wall on the south and east sides.",
+      "A4, hall. Wall on the north and west sides.",
+      "B4, hall. Wall on the north side.",
+      "C4, hall. Door on the north side.",
+      "D4, hall. Wall on the north side.",
+      "E4, hall. Wall on the north side.",
+      "F4, hall. Coin spot: the TV. Door on the north side.",
+      "G4, hall. Wall on the north side.",
+      "H4, hall. Wall on the north side.",
+      "I4, hall. Door on the north side.",
+      "J4, hall. Coin spot: the pooja shelf. Wall on the north and east sides.",
+      "A5, hall. START square. Door on the west (the front door) side. Wall on the south side.",
+      "B5, hall. Coin spot: the shoe rack. Door on the south side.",
+      "C5, hall. Wall on the south side.",
+      "D5, hall. Wall on the south side.",
+      "E5, hall. Wall on the south side.",
+      "F5, hall. Wall on the south side.",
+      "G5, hall. Door on the south side.",
+      "H5, hall. Wall on the south side.",
+      "I5, hall. Wall on the south side.",
+      "J5, hall. Wall on the south and east sides.",
+      "A6, bedroom 2. Wall on the north and west sides.",
+      "B6, bedroom 2. Door on the north side.",
+      "C6, bedroom 2. Wall on the north side.",
+      "D6, bedroom 2. Wall on the north and east sides.",
+      "E6, balcony. Wall on the north and west sides.",
+      "F6, balcony. Wall on the north side.",
+      "G6, balcony. Door on the north side.",
+      "H6, balcony. Wall on the north side.",
+      "I6, balcony. Wall on the north side.",
+      "J6, balcony. Wall on the north and east sides.",
+      "A7, bedroom 2. Wall on the west side.",
+      "B7, bedroom 2.",
+      "C7, bedroom 2.",
+      "D7, bedroom 2. Wall on the east side.",
+      "E7, balcony. Wall on the west side.",
+      "F7, balcony.",
+      "G7, balcony.",
+      "H7, balcony.",
+      "I7, balcony.",
+      "J7, balcony. Wall on the east side.",
+      "A8, bedroom 2. Wall on the south and west sides.",
+      "B8, bedroom 2. Wall on the south side.",
+      "C8, bedroom 2. Wall on the south side.",
+      "D8, bedroom 2. Coin spot: the school bag. Wall on the south and east sides.",
+      "E8, balcony. Wall on the south and west sides.",
+      "F8, balcony. Wall on the south side.",
+      "G8, balcony. Wall on the south side.",
+      "H8, balcony. Wall on the south side.",
+      "I8, balcony. Wall on the south side.",
+      "J8, balcony. Coin spot: the balcony plant. Wall on the south and east sides."
      ]
     },
     {
      "kind": "cards",
      "title": "24 direction cards",
      "items": [
-      "6 cards: 1, 2 or 3 squares north",
-      "6 cards: 1, 2 or 3 squares south",
-      "6 cards: 1, 2 or 3 squares east",
-      "6 cards: 1, 2 or 3 squares west"
+      "1 square north",
+      "1 square north",
+      "2 squares north",
+      "2 squares north",
+      "3 squares north",
+      "3 squares north",
+      "1 square south",
+      "1 square south",
+      "2 squares south",
+      "2 squares south",
+      "3 squares south",
+      "3 squares south",
+      "1 square east",
+      "1 square east",
+      "2 squares east",
+      "2 squares east",
+      "3 squares east",
+      "3 squares east",
+      "1 square west",
+      "1 square west",
+      "2 squares west",
+      "2 squares west",
+      "3 squares west",
+      "3 squares west"
      ]
     },
     {
      "kind": "tokens",
      "title": "Tokens",
      "items": [
-      "4 player tokens: use a button, a bindi packet, a bottle cap or a coin",
-      "8 coin tokens cut from paper"
+      "4 player tokens, one for each player: a button, a bottle cap, a coin or a rolled-up bit of paper",
+      "8 paper coins, each about 2 cm across"
      ]
     },
     {
@@ -486,25 +583,26 @@
      "items": [
       "Player name",
       "Coins collected",
-      "Directions given right"
+      "Right guesses"
      ]
     }
    ],
    "rules": [
-    "Put all tokens on the start square at the front door. Put a paper coin on each coin spot.",
-    "Each player holds 3 direction cards. Put the rest face down.",
-    "On your turn, play one card and move your token that many squares in that direction. Then take a new card.",
-    "You cannot walk through walls. If a wall blocks you, stop at the wall.",
-    "Land on a coin spot to pick up the coin there.",
-    "Before you move, say where you will end up. If you are right, score 1 extra point.",
-    "When all coins are gone, the player with the most coins and points wins. Playing alone, collect all 8 coins in as few turns as you can."
+    "Lay the squares out in 8 rows of 10, with A1 at the top left. North is the top row. Put all tokens on the START square, A5, at the front door. Put a paper coin on each of the 8 coin spots.",
+    "Shuffle the direction cards and put them face down. Each player holds 3 cards.",
+    "On your turn, play one card. Move your token that many squares in a straight line in that direction. Then take a new card.",
+    "Walls and doors are on the square sides. You cannot go through a wall. If a wall stops you, stay on the last square before it. You can only go from one room to the next through a door.",
+    "If none of your cards can move you, play one anyway. It goes on the used pile and you take a new one. When the face-down cards run out, shuffle the used pile and use it again.",
+    "Before you move, say which square you will end on. If you are right, score 1 point.",
+    "Land on a coin spot to pick up the coin there. Each coin is worth 2 points.",
+    "The game ends when all coins are gone, or when every player has had 8 turns. The player with the most points wins. Playing alone, collect all 8 coins in as few turns as you can."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the board. 2. Put coins on the coin spots. 3. Deal 3 cards each.",
-     "say": "This is a map of a flat, drawn on squares. North is at the top. Let's find the kitchen and the balcony.",
+     "do": "1. Lay out the squares as the flat map. 2. Put the coins on the coin spots. 3. Deal 3 cards each.",
+     "say": "This is a map of a flat, drawn on squares. North is at the top. Let's find the kitchen and the balcony, and the doors between rooms.",
      "kid": "Find north on the board. Find the kitchen and the balcony.",
      "context": "This is the first step of Tile Treasure, a board game where you move on a grid map using directions."
     },
@@ -512,7 +610,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice move together.",
-     "say": "My token is at the door. I play '3 squares east'. Where will I land? Point first, then let's count.",
+     "say": "My token is at the front door, A5. I play '3 squares east'. Where will I land? Point first, then let's count.",
      "kid": "Your token is at the door. You play 3 squares east. Where do you land?",
      "check": {
       "t": "mcq",
@@ -523,16 +621,16 @@
        "Towards the bottom edge"
       ],
       "a": 1,
-      "why": "With north at the top, east is on the right, west on the left and south at the bottom. Picking the left edge is a common mix-up, so say it aloud: never eat soggy wheat, north, east, south, west, going round clockwise."
+      "why": "With north at the top, east is on the right, west on the left and south at the bottom. Picking the left edge is a common mix-up. Stand up facing north, and point to your right."
      }
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Take turns. 2. Say where you will land, then move. 3. Keep score.",
-     "say": "Say where you will land before you move. A right guess is an extra point.",
+     "do": "1. Take turns. 2. Say where you will land, then move. 3. Keep score. 4. Stop when the coins are gone or everyone has had 8 turns.",
+     "say": "Say which square you will land on before you move. A right guess is a point. Which door will you use to reach a coin in another room?",
      "kid": "Say where you will land. Then move. Right guess? Extra point!",
-     "parent": "Ask your child to give you directions sometimes: 'Tell me how to get from the fridge to the balcony.' A strong answer uses directions and counts, such as '2 squares south, then 4 east'."
+     "parent": "Ask your child to give you directions sometimes: 'Tell me how to get from the fridge to the balcony.' A strong answer uses directions and counts, such as '2 squares south, then 4 east', and goes through the doors."
     },
     {
      "id": "s4",
@@ -597,7 +695,6 @@
      "qty": 1
     }
    ],
-   "safety": "Clear toys and loose things off the floor first, so no one trips while counting tiles.",
    "schedule": [
     {
      "day": 1,
@@ -611,7 +708,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Sit outside the room, with the door closed. 2. Draw the room from above on the first sheet, from memory. 3. Draw the walls, the door, the window and the big furniture. 4. Do not count anything.",
-     "say": "First, draw this room from memory, as a bird would see it from the ceiling. Don't go in and look. Just draw what you remember.",
+     "say": "First, draw this room from memory, as a bird would see the room from the ceiling. Don't go in and look. Just draw what you remember.",
      "kid": "Sit outside the room. Draw it from above, from memory. No counting!",
      "parent": "Most children draw the furniture too big and the empty floor too small. Do not correct it. That is part of the test.",
      "context": "This is the first step of the Memory Map or Tile Map test. You draw two maps of one room, then see which one leads someone to a hidden coin."
@@ -648,7 +745,7 @@
      "do": "1. The finder waits outside. 2. Your child puts the coin on a tile in open floor, away from furniture. 3. They mark an X on the memory map and secretly write the true spot, as tiles from two walls. 4. They pick up the coin. 5. The finder comes in with the memory map and puts the chit where the X shows. 6. Put the coin back on its true tile and count the tiles between the chit and the coin. 7. Do the same with a new spot and the tile map. 8. Do one more round with each map.",
      "say": "Now the finder comes in with only the map. No hints and no pointing. When the chit is down, we count how many tiles off it is.",
      "kid": "Hide the coin. Mark an X. Pick the coin up. Let the finder use the map. How many tiles off?",
-     "parent": "Usually the tile map puts the chit on the right tile or the next one. The memory map is often 2 to 4 tiles off, because some things were drawn too big. If both maps land close, choose a spot further from all furniture and try again."
+     "parent": "The tile map is usually closer to the coin, often on the right tile or the next one. The memory map is often a few tiles off, because some things were drawn too big. But luck plays a part. If the memory map wins a round, write that down too, because it is a real result. If both maps land close, choose a spot further from all furniture and try again."
     },
     {
      "id": "s5",
@@ -656,10 +753,10 @@
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer: What I think: the tile map is better for finding things. What I saw: the tile map was 0 and 1 tiles off, and the memory map was 3 and 2 tiles off. Why: on the tile map, every distance was shrunk by the same amount, so the X was in the right place compared with the walls.",
+     "parent": "This is called claim, evidence and reasoning. A good answer, if the tile map was closer: What I think: the tile map is better for finding things. What I saw: the tile map was 0 and 1 tiles off, and the memory map was 3 and 2 tiles off. Why: on the tile map, every distance was shrunk by the same amount, so the X was in the right place compared with the walls.",
      "check": {
       "t": "mcq",
-      "q": "Why did the tile map lead the finder to the right spot?",
+      "q": "If the tile map led the finder closer to the coin, why did it?",
       "options": [
        "It had more things drawn on it",
        "Every distance was shrunk by the same amount, so the X sat in the right place",
@@ -732,9 +829,8 @@
    ],
    "materials": [
     {
-     "item": "the N, S, E and W wall labels, from the Find the Four Directions activity",
-     "qty": 4,
-     "buy": "b-compass"
+     "item": "the four wall labels N, S, E and W, from the Find the Four Directions activity",
+     "qty": 4
     },
     {
      "item": "a room with floor tiles, or a row of newspaper sheets laid in a grid",
@@ -757,7 +853,6 @@
      "qty": 4
     }
    ],
-   "safety": "Clear the floor first. Walk, don't run, and keep away from sharp corners.",
    "schedule": [
     {
      "day": 1,
@@ -770,7 +865,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the cushion on a tile. 2. Stand on it facing east, and put the coin 3 tiles forward and 2 tiles to the right. 3. Write chit A: 'Walk 3 tiles forward. Turn right. Walk 2 tiles.' 4. Write chit B: 'Walk 3 tiles towards the east wall. Then walk 2 tiles towards the south wall.'",
+     "do": "1. Put the cushion on a tile at least 4 tiles from every wall. 2. Stand on it facing east, and put the coin 3 tiles forward and 2 tiles to the right. 3. Write chit A: 'Walk 3 tiles forward. Turn right. Walk 2 tiles.' 4. Write chit B: 'Walk 3 tiles towards the east wall. Then walk 2 tiles towards the south wall.'",
      "say": "We will write two sets of directions to the same coin. One uses forward and right. The other uses east and south.",
      "kid": "Two chits. Both lead to the coin. One says right. One says east and south.",
      "adult": false,
@@ -797,8 +892,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about the results.",
-     "say": "Chit A worked only once. Chit B worked every time. Why do you think that is?",
-     "kid": "Chit A worked once. Chit B always worked. Why?",
+     "say": "Which chit found the coin every time? Why do you think that is?",
+     "kid": "Which chit always found the coin? Why?",
      "check": {
       "t": "mcq",
       "q": "Why did chit B find the coin from every start?",
@@ -862,7 +957,7 @@
    "days": 1,
    "question": "If a child and a grown-up each map the same room using their own steps, will the two maps have the same shape?",
    "predict": "A grown-up's foot is longer than yours. Will a grown-up's map of the room be the same shape as yours, or a different shape? Why do you think so?",
-   "fair_test": "Both people walk heel to toe, with the heel touching the toe each time, along the same two walls. Each person counts twice and takes the closer count. Each map uses one square for one step.",
+   "fair_test": "Both people walk heel to toe, with the heel touching the toe each time, along the same two walls. Each person walks each wall twice. If the two counts differ by one, use the bigger one. If they differ by more, walk it again. Each map uses one square for one step.",
    "results_table": [
     "Who",
     "Long wall (steps)",
@@ -883,7 +978,7 @@
      "qty": 1
     }
    ],
-   "safety": "Walk slowly heel to toe, and hold the wall if you wobble. A grown-up handles the scissors with a younger child.",
+   "safety": "A grown-up handles the scissors with a younger child.",
    "schedule": [
     {
      "day": 1,
@@ -904,7 +999,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. The child walks heel to toe along the long wall and counts. 2. Then along the short wall. 3. The grown-up does the same. 4. Write all four numbers in the table.",
+     "do": "1. The child walks heel to toe along the long wall and counts, then walks it again. 2. Then along the short wall, twice. 3. The grown-up does the same. 4. Write all four numbers in the table.",
      "say": "Heel touching toe, every step. Count out loud. Then it's my turn.",
      "kid": "Walk heel to toe along the wall. Count every step.",
      "parent": "Example: a child counts 18 steps by 14, and a grown-up 13 by 10. The numbers are different, but each long wall is about 1 and a third times its short wall."
@@ -991,7 +1086,6 @@
      "qty": 1
     }
    ],
-   "safety": "If your child stands on a chair to look down, a grown-up holds the chair steady.",
    "schedule": [
     {
      "day": 1,
@@ -1013,7 +1107,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Ask your child to stand and look straight down at the table. 2. Draw the five things again, from above.",
-     "say": "Now stand up and look straight down, like a crow on the ceiling. Draw them again. What changed?",
+     "say": "Now stand up and look straight down, like a bird flying over the table. Draw them again. What changed?",
      "kid": "Stand up. Look straight down. Draw them again.",
      "adult": true,
      "parent": "From above, the tumbler is a circle, the book a rectangle, the plate a circle, and the banana a curved strip. The tumbler's height disappears."
@@ -1106,14 +1200,14 @@
      "kid": "Check with a compass. Which way does the front door face?",
      "check": {
       "t": "mcq",
-      "q": "You stand with your right arm pointing east. Which way are you facing?",
+      "q": "Your front door is on the wall you labelled W. Which way does the door face?",
       "options": [
-       "South",
-       "North",
-       "West"
+       "East",
+       "West",
+       "North"
       ],
       "a": 1,
-      "why": "With east on your right, you face north, west is on your left and south is behind you. Picking south means you turned the wrong way round. Try it again standing up, with your arm out."
+      "why": "A door on the west wall faces west, towards the outside. Picking east means you named the wall on the opposite side of the room."
      }
     }
    ],
@@ -1144,7 +1238,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1180,8 +1273,8 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Test the map on someone.",
-     "say": "Give the map to Amma. Can she find the pooja shelf using only the map and the key?",
+     "do": "Give the map to someone else at home and ask them to find one thing, such as the fridge.",
+     "say": "Give the map to someone who has not seen it. Can they find the fridge using only the map and the key?",
      "kid": "Can someone find a thing using only your map?",
      "check": {
       "t": "mcq",
@@ -1219,11 +1312,10 @@
      "qty": 1
     },
     {
-     "item": "a phone, to call a grandparent or a neighbour, if you like",
+     "item": "a phone, to call a grandparent, a relative or a neighbour, if you like",
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1236,7 +1328,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the words below together. 2. Ask grandparents or neighbours for the words in your family's languages. Tamil: vadakku (north), therku (south), kizhakku (east), merku (west). Malayalam: vadakku, thekku, kizhakku, padinjaru. Hindi: uttar, dakshin, purab, paschim.",
+     "do": "1. Read the words below together. 2. Ask a grandparent, a neighbour or a friend for the words in your family's languages. Tamil: vadakku (north), therku (south), kizhakku (east), merku (west). Malayalam: vadakku, thekku, kizhakku, padinjaru. Hindi: uttar, dakshin, purab, paschim.",
      "say": "In Tamil, east is kizhakku. In Hindi it is purab. What do we call east at home?",
      "kid": "Learn the four directions in another language.",
      "context": "In this activity you learn the four directions in Indian languages, and find places in India in each direction."
@@ -1300,7 +1392,7 @@
      "say": "Look down at the street. What can you see? Which things will still be there tomorrow?",
      "kid": "Look down. What do you see? What stays there every day?",
      "adult": true,
-     "context": "In this activity you draw a map of your street from a balcony or a window, the way a bird would see it."
+     "context": "In this activity you draw a map of your street from a balcony or a window, the way a bird flying overhead sees the ground."
     },
     {
      "id": "s2",
@@ -1309,14 +1401,7 @@
      "say": "Draw the road first. Then the buildings as boxes and the trees as circles. Do we draw the autos?",
      "kid": "Draw the road. Draw buildings as boxes. Trees as circles.",
      "adult": true,
-     "parent": "Things that move are left off maps, because they will not be there tomorrow. Landmarks that stay, such as a temple or a big tree, matter most."
-    },
-    {
-     "id": "s3",
-     "mins": 3,
-     "do": "1. Add a north arrow. 2. Add a key.",
-     "say": "Which way does the street run? From north to south, or from east to west?",
-     "kid": "Add a north arrow and a key.",
+     "parent": "Things that move are left off maps, because they will not be there tomorrow. Landmarks that stay, such as a temple or a big tree, matter most.",
      "check": {
       "t": "mcq",
       "q": "Why do we leave the parked autos off a street map?",
@@ -1328,6 +1413,13 @@
       "a": 1,
       "why": "A map shows things that stay, so it is still right tomorrow. An auto may be gone in five minutes. A temple or a big tree is a good landmark, because they stay in one place."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Add a north arrow, using the direction labels from the Find the Four Directions activity to know which way is north. 2. Add a key.",
+     "say": "Which way does the street run? From north to south, or from east to west? Show north with an arrow.",
+     "kid": "Add a north arrow and a key."
     }
    ],
    "context": "In this activity you draw your street from above, from a balcony or a window.",
@@ -1357,7 +1449,6 @@
      "qty": 4
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1383,14 +1474,14 @@
      "kid": "In another room, turn the map. Where is the balcony?",
      "check": {
       "t": "mcq",
-      "q": "Meera holds a map. The map's north arrow points to her left, but real north is in front of her. What should she do?",
+      "q": "You turn the map until its north arrow points to real north. The kitchen is on the left side of the map. Where is the real kitchen?",
       "options": [
-       "Turn the map until its arrow points in front of her",
-       "Turn herself to face the left",
-       "Draw a new arrow"
+       "On your left",
+       "On your right",
+       "Behind you"
       ],
       "a": 0,
-      "why": "She turns the map until its north arrow points to the real north. Then every place on the map lies in the same direction as the real place. Turning herself does not help, because the map turns with her."
+      "why": "When the map is turned to match the ground, every place on it lies the same way as the real place. So the kitchen on the left of the map is on your left in the room."
      }
     }
    ],
@@ -1473,12 +1564,12 @@
      "id": "s3",
      "mins": 15,
      "do": "1. Give the map to someone who has not walked the route, such as a cousin, an aunt or a neighbour. 2. Walk behind them without helping. 3. Note where they stop or go wrong.",
-     "say": "Let's see if your map works. I will not help. Watch where she gets stuck.",
-     "kid": "Give your map to a visitor. Don't help! Where did she get stuck?",
+     "say": "Let's see if your map works. I will not help. Watch where your visitor gets stuck.",
+     "kid": "Give your map to a visitor. Don't help! Where did they get stuck?",
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "Your visitor got lost at the lift, because two lifts were side by side. What is the best fix for your map?",
+      "q": "Suppose your visitor got lost at the lift, because two lifts were side by side. What is the best fix for your map?",
       "options": [
        "Draw the map bigger",
        "Add a symbol for each lift and mark which one to take",
@@ -1514,7 +1605,7 @@
    "problem": "Make a map of your home that leads a person to the fridge, the balcony and the bathroom, without a single written word. Someone who cannot read your language must be able to use it.",
    "constraints": [
     "No letters or words anywhere on the map, not even in the key.",
-    "The map must still show which way north is.",
+    "The map must still show a direction, such as a rising Sun drawn on the east side.",
     "Test it on someone and change it if they get stuck."
    ],
    "materials": [
@@ -1529,7 +1620,7 @@
     "Draw footprints along the route, and a big dot where the walk begins.",
     "Draw each door as the shape of the real door handle."
    ],
-   "your_turn": "Now design your own wordless map of a place you know well, such as a temple, a park or your grandparents' home, and test it on someone.",
+   "your_turn": "Now design your own wordless map of a place you know well, such as a temple, a market or a relative's home, and test it on someone.",
    "flow": [
     {
      "id": "s1",
@@ -1544,14 +1635,7 @@
      "mins": 15,
      "do": "1. Draw the rooms. 2. Draw a picture symbol for each place. 3. Show the east side with a rising Sun. 4. Draw the route from the front door.",
      "say": "Draw the rooms and the picture symbols. How will the reader know which way to turn the map?",
-     "kid": "Draw the rooms. Draw picture symbols. Show the east side."
-    },
-    {
-     "id": "s3",
-     "mins": 5,
-     "do": "1. Test the map on someone. 2. Read the usual and creative ideas. 3. Improve the map.",
-     "say": "Let's test it. Then look at the other ideas. Would any make your map better?",
-     "kid": "Test it. Then try another idea.",
+     "kid": "Draw the rooms. Draw picture symbols. Show the east side.",
      "check": {
       "t": "mcq",
       "q": "Why does a wordless map still need something that shows a direction, like a rising Sun on the east side?",
@@ -1563,6 +1647,13 @@
       "a": 1,
       "why": "Without a direction, the reader cannot tell which way to hold the map, and left and right will be wrong when they turn. A rising Sun on the east side tells them how to turn it."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Test the map on someone. 2. Read the usual and creative ideas. 3. Improve the map.",
+     "say": "Let's test it. Then look at the other ideas. Would any make your map better?",
+     "kid": "Test it. Then try another idea."
     }
    ],
    "setup": [
@@ -1617,14 +1708,7 @@
      "mins": 12,
      "do": "1. Plan the route on the grid. 2. Write it as instructions, such as '4 tiles north, 2 tiles east'. 3. Count the instructions.",
      "say": "Plan the route on paper. How few instructions can you use?",
-     "kid": "Plan a route. Write it as tiles and directions."
-    },
-    {
-     "id": "s3",
-     "mins": 8,
-     "do": "1. Give the instructions to someone else. 2. They move the car without your help. 3. Did it reach the coin? Read the other ideas and improve the route.",
-     "say": "Hand over your instructions. No helping! Did the car reach the coin?",
-     "kid": "Give your route to someone. No helping. Did it work?",
+     "kid": "Plan a route. Write it as tiles and directions.",
      "check": {
       "t": "mcq",
       "q": "A route says '2 tiles north, 3 tiles east, 2 tiles south'. Which shorter route reaches the same tile?",
@@ -1636,6 +1720,13 @@
       "a": 0,
       "why": "Going 2 north and then 2 south cancels out, so the car ends just 3 tiles east of where it began. It goes the long way round only if something is in the way."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Give the instructions to someone else. 2. They move the car without your help. 3. Did it reach the coin? Read the other ideas and improve the route.",
+     "say": "Hand over your instructions. No helping! Did the car reach the coin?",
+     "kid": "Give your route to someone. No helping. Did it work?"
     }
    ],
    "setup": [
@@ -1657,7 +1748,7 @@
    "youtube": "6Due3L2QeQM",
    "mins": 2,
    "why": "A short, lively song for younger children that names north, east, south and west and where they sit on a compass.",
-   "check": "Id, title, channel and length (2:13) read from a YouTube search page. Not watched from here: a parent should preview it."
+   "check": "A parent should watch it first, then decide whether it suits your child."
   },
   {
    "title": "How to Draw Maps from Bird's Eye View",
@@ -1665,7 +1756,7 @@
    "youtube": "t-c--OF4azY",
    "mins": 6,
    "why": "Shows how a room or a place looks from straight above, and how to draw it as a map.",
-   "check": "Id, title, channel and length (5:53) read from a YouTube search page. Not watched from here: a parent should preview it."
+   "check": "A parent should watch it first, then decide whether it suits your child."
   },
   {
    "title": "Ants That Count! | Krulwich Wonders | NPR",
@@ -1673,21 +1764,21 @@
    "youtube": "7DDF8WZFnoU",
    "mins": 5,
    "why": "A funny cartoon about the desert ant stilts experiment, which showed that desert ants count their steps to find their way home.",
-   "check": "Id, title, channel and length (4:36) read from a YouTube search page. It covers the 2006 stilts study by Wittlinger, Wehner and Wolf. Not watched from here: a parent should preview it."
+   "check": "A parent should watch it first, then decide whether it suits your child."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "You stand in your room with your right arm pointing at the window that gets the morning Sun. Which way are you facing?",
+   "p": "You face the window that gets the morning Sun. Which way is behind you?",
    "opts": [
-    "South",
-    "North",
     "East",
-    "West"
+    "West",
+    "North",
+    "South"
    ],
    "a": 1,
-   "why": "The morning Sun is roughly in the east, so your right arm points east. With east on your right, you face north. Picking east means you named the arm's direction, not the way you face.",
+   "why": "The morning Sun is roughly in the east, so you face east. Behind you is the opposite direction, west.",
    "outcome": 0
   },
   {
@@ -1765,16 +1856,15 @@
   },
   {
    "t": "mcq",
-   "p": "In the coin test, the memory map led the finder 3 tiles away from the coin. The tile map led her to the right tile. Why?",
+   "p": "On Pooja's map, one square stands for 10 steps. Two doors are 4 squares apart on the map. About how many steps apart are they in real life?",
    "opts": [
-    "The tile map had more furniture",
-    "On the tile map, every gap was the right size compared with the others",
-    "The finder was lucky"
+    "4 steps",
+    "14 steps",
+    "40 steps"
    ],
-   "a": 1,
-   "why": "Counting tiles kept every distance in the same proportion, so the X was in the right place. On the memory map, some things were drawn too big, so the X was off.",
-   "outcome": 3,
-   "how": "e1"
+   "a": 2,
+   "why": "Each square is 10 steps, so 4 squares is 4 times 10, which is 40 steps. The scale turns squares on paper back into real steps.",
+   "outcome": 3
   },
   {
    "t": "mcq",
@@ -1930,7 +2020,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya's right arm points to the window where the morning Sun comes in. Which wall is she facing? Explain how you know.",
+     "p": "Kavya, a girl in Class 3, points her right arm to the window where the morning Sun comes in. Which wall is she facing? Explain how you know.",
      "lines": 3,
      "a": "She faces the north wall. The morning Sun is in the east, so her right arm points east. When east is on your right, you face north.",
      "why": "A strong answer starts from the Sun being in the east and works out the rest.",
@@ -2006,10 +2096,10 @@
     },
     {
      "t": "write",
-     "p": "Your aunt has never been to your flat. Write directions from the lift to your front door, using at least one direction word such as east or north.",
+     "p": "A visitor has never been to your flat. Write directions from the lift to your front door, using at least one direction word such as east or north.",
      "lines": 4,
      "a": "Any clear directions with landmarks and counts. For example: Come out of the lift and walk east along the corridor, towards the window. Ours is the third door on the north side, with a kolam outside.",
-     "why": "A strong answer uses landmarks, counts and at least one direction word, so it works whichever way the aunt faces."
+     "why": "A strong answer uses landmarks, counts and at least one direction word, so it works whichever way the visitor faces."
     },
     {
      "t": "perspective",
@@ -2164,14 +2254,14 @@
     },
     {
      "t": "mcq",
-     "p": "On a map, 1 square stands for 10 steps. The shop is 4 squares from your gate. About how many steps is that?",
+     "p": "On Anil's map, 1 square stands for 5 steps. The shop is 6 squares from his gate. About how many steps is that?",
      "opts": [
-      "4 steps",
-      "14 steps",
-      "40 steps"
+      "11 steps",
+      "30 steps",
+      "60 steps"
      ],
-     "a": 2,
-     "why": "Each square is 10 steps, so 4 squares is 4 times 10, which is 40 steps."
+     "a": 1,
+     "why": "Each square is 5 steps, so 6 squares is 6 times 5, which is 30 steps."
     },
     {
      "t": "write",
@@ -2229,11 +2319,11 @@
    "items": [
     {
      "t": "write",
-     "p": "Your tile map had no colours, no cushions and no smells, yet it found the coin. What did it keep that made it work?",
+     "p": "A friend says her map is the best because it is bright with colours and tiny drawings. What two things would you check to see whether her map is true?",
      "lines": 4,
-     "a": "It kept where things are, how far apart they are, and which way they lie. Those are what a finder needs. Colours and smells do not help you find a spot on the floor.",
-     "why": "A strong answer names distance and direction, and says why the other things do not matter for finding a place.",
-     "how": "e1"
+     "a": "Check that the distances between places are shrunk by the same amount, and that it shows which way north is. Colours and drawings do not tell a reader where to walk.",
+     "why": "A strong answer names distance and direction as what makes a map true, and says that colour and drawing are extras.",
+     "how": "a3"
     },
     {
      "t": "perspective",
@@ -2280,7 +2370,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arun's map says 1 square is 10 steps. His sister draws the same street with 1 square for 5 steps. Whose map of the street is bigger on paper?",
+     "p": "Arun, a boy in Class 3, draws a street map where 1 square is 10 steps. His sister draws the same street with 1 square for 5 steps. Whose map of the street is bigger on paper?",
      "opts": [
       "Arun's",
       "His sister's",
@@ -2330,7 +2420,7 @@
       "The Sun pulls it"
      ],
      "a": 0,
-     "why": "The Earth is magnetic, so a free magnet turns to line up north and south. You will learn more about this in the unit on compasses."
+     "why": "The Earth is magnetic, so a free magnet turns to line up north and south."
     },
     {
      "t": "write",
@@ -2385,7 +2475,7 @@
  ],
  "spotted": [
   {
-   "text": "The 'you are here' map at a metro station in Chennai, Bengaluru or Kochi.",
+   "text": "The 'you are here' map at a metro station in Chennai, Bengaluru, Kochi, Kolkata or Mumbai.",
    "art": "A metro station wall map with coloured lines and a red dot marked 'you are here'."
   },
   {
@@ -2425,13 +2515,11 @@
  ],
  "ask_kids": [
   "Which window gets the Sun first in the morning? Which way does it face?",
-  "If you were a crow on the ceiling, what would the dining table look like?",
   "Which way does our front door face?",
   "How many steps is it from your bed to the kitchen? Shall we count?",
   "What is the best landmark on the way to the shop?",
   "If someone came to our building for the first time, where would they get lost?",
-  "Which direction is Paati's town from here?",
-  "How do you know where the bathroom is in the dark?"
+  "Which direction is a town you know, such as a grandparent's, from here?"
  ],
  "jokes": [
   {
@@ -2439,16 +2527,8 @@
    "a": "To learn its directions."
   },
   {
-   "j": "What did the compass say to the lost tourist?",
-   "a": "Don't worry, I'm pointing you in the right direction."
-  },
-  {
    "j": "Why was the map so calm?",
    "a": "It never lost its key."
-  },
-  {
-   "j": "What did the north arrow say to the map?",
-   "a": "Turn me round and I'll show you the way."
   },
   {
    "j": "Why did the student bring a ladder to geography class?",
@@ -2463,16 +2543,8 @@
    "a": "Every step counted."
   },
   {
-   "j": "What did the east say to the west?",
-   "a": "See you at sunset."
-  },
-  {
    "j": "Why don't maps ever get bored?",
    "a": "There's always something new around the corner."
-  },
-  {
-   "j": "What did one map say to the other?",
-   "a": "You've got everything I need, to scale."
   },
   {
    "j": "Why did the compass needle never tell a lie?",
@@ -2483,33 +2555,17 @@
    "a": "To take a few extra steps for science."
   },
   {
-   "j": "Why did the map love idli and sambar?",
-   "a": "It was the usual route to breakfast."
-  },
-  {
-   "j": "Why did the bed refuse to go on the memory map?",
-   "a": "It was always drawn too big."
-  },
-  {
-   "j": "How does a map say thank you?",
-   "a": "It gives you the key."
-  },
-  {
    "j": "Why did the Sun get up early every morning?",
    "a": "Someone had to show us where east was."
   },
   {
    "j": "Why did the island of California vanish?",
    "a": "Someone finally went and looked."
-  },
-  {
-   "j": "What did the lost auto driver say to his phone?",
-   "a": "Please, just tell me which way is east."
   }
  ],
  "maths": [
   {
-   "problem": "Lakshmi made a tile map of her room. The room is 8 tiles long and 6 tiles wide. How many tiles cover the whole floor?",
+   "problem": "Lakshmi, a girl in Class 3, made a tile map of her room. The room is 8 tiles long and 6 tiles wide. How many tiles cover the whole floor?",
    "answer": "48 tiles.",
    "explain": "The floor has 6 rows, and each row has 8 tiles. 6 times 8 is 48.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2526,7 +2582,7 @@
    "why_maths": "The scale turns squares on paper back into real steps, so you can plan a walk before you take it."
   },
   {
-   "problem": "A treasure is 3 squares north and 4 squares east of the door on a grid. Ravi says, 'Then it is 4 squares east and 3 squares north.' Is he right?",
+   "problem": "A treasure is 3 squares north and 4 squares east of the door on a grid. Ravi, a boy in Class 3, says, 'Then it is 4 squares east and 3 squares north.' Is he right?",
    "answer": "Yes.",
    "explain": "Going 3 north then 4 east, or 4 east then 3 north, ends on the same square. The order of the moves does not change where you end up, as long as nothing blocks the way.",
    "math_unit": "math.position.directions-and-grids.L3",
@@ -2587,7 +2643,7 @@
    "title": "Bhuvan, the map portal of ISRO",
    "url": "https://bhuvan.nrsc.gov.in",
    "kind": "interactive",
-   "why": "India's own satellite map service. Look at your city from above, the way a bird or a satellite sees it."
+   "why": "India's own satellite map service. Look at your city from above, the way a bird or a satellite sees the ground."
   },
   {
    "title": "Survey of India",
@@ -2612,10 +2668,8 @@
    "url": "https://www.amazon.in/s?k=magnetic+compass+for+kids",
    "used_in": [
     "a2",
-    "e2",
     "p1"
-   ],
-   "plan": "Used again in the magnets and compass unit, to see how the needle turns."
+   ]
   }
  ],
  "warmup": [
@@ -2739,7 +2793,7 @@
    "what_is_life": "A desert ant keeps her own map by counting her steps and watching the Sun. That is how she gets home alive across hot sand.",
    "what_is_this_world": "The ground has no lines for borders or street names. People draw those, but the hills and rivers were there first."
   },
-  "thread": "One room can have many true maps: your tile map, your grandmother's map in her head, an ant's count of steps, a plumber's plan of the pipes. They look nothing alike. Each one keeps a different part of how the room is arranged, and each one works for the one who uses it. The room is one, and the maps are many.",
+  "thread": "One room can have many true maps: your tile map, a grown-up's map of it in their head, an ant's count of steps, a plumber's plan of the pipes. They look nothing alike. Each one keeps a different part of how the room is arranged, and each one is useful to whoever uses it.",
   "teachings": [
    {
     "source": "Alfred Korzybski, Science and Sanity (1933), page 58",
@@ -2782,13 +2836,13 @@
    "kid": "Close your eyes. Picture walking from your bed to the kitchen. Count the steps. Now open your eyes. Walk it and count. Was your inside map right?"
   },
   "ask": [
-   "Your tile map looked nothing like a photo of the room, yet it worked. What makes a map true?",
-   "You found the bathroom in the dark without a paper map. Where is the map you used?",
+   "Which of the maps you made in this unit was the most useful, and who was it useful to?",
+   "Thatha hardly needed his map once he knew the way home. What is a map for?",
    "If an ant, a bird and you each map the same building, whose map is the real one?"
   ],
   "art": "A girl sitting cross-legged with her eyes closed on a tiled floor, a faint grid of light over the tiles around her, and a small ant walking across one tile."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat. The coin test needs only squared paper, a coin and a family member. It works best with square floor tiles, which most Indian flats have. Without tiles, heel-to-toe steps work, with a little more error. The coin is hidden in open floor, away from furniture, because a coin next to the bed is easy to find with any map. With the coin in open floor, a memory map is usually 2 to 4 tiles off, and a tile map 0 or 1, so the difference is clear. If it is not, the step says to pick a spot further from furniture. Finding east uses the patch of morning sunlight, never looking at the Sun, and a phone compass or bought compass on a cloudy day or later in the day. The left-right test uses tiles instead of steps, because steps differ between people. In the child-and-grown-up steps test, the two maps will be close to the same shape, but not exactly, and the step says so. The balcony activity keeps the child away from the railing. The visitor project needs a grown-up outside the flat. The spine is the bird's-eye view activity, finding the four directions, the coin test, the explanation cards, roots and the quiz, about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat. The coin test needs only squared paper, a coin and a family member. It works best with square floor tiles, which most Indian flats have. Without tiles, heel-to-toe steps work, with a little more error. The coin is hidden in open floor, away from furniture, because a coin next to the bed is easy to find with any map. With the coin in open floor, the tile map is usually closer, but luck plays a part, so the step tells the family to write down whatever happens and to try a spot further from furniture if both maps land close. Finding east uses the patch of morning sunlight, never looking at the Sun, and a phone compass or bought compass on a cloudy day or later in the day. The left-right test uses tiles instead of steps, because steps differ between people. In the child-and-grown-up steps test, the two maps will be close to the same shape, but not exactly, and the step says so. The balcony activity keeps the child away from the railing. The visitor project needs a grown-up outside the flat. The spine is the bird's-eye view activity, finding the four directions, the coin test, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
   "story": "In 1539, a Spanish sailor named Francisco de Ulloa sailed up the long gulf west of Mexico. At its top, he found that the water ended in land. So California was joined to the rest of North America. But in the early 1600s, some mapmakers in Europe began to draw California as a huge island. A map printed in Amsterdam in 1622 showed it this way. Other mapmakers copied it, often without checking, and the island spread from map to map for about a hundred years. Then Eusebio Kino, a priest born in Italy, travelled for years by horse and on foot across what is now northern Mexico and Arizona. In 1701, from near the place where the Gila River joins the Colorado River, he saw the land carry on, unbroken, to the west. There was no sea there. His map showing California joined to the mainland was printed in Paris in 1705. Even so, some maps kept the island. In 1747, King Ferdinand VI of Spain declared that California is not an island.",
   "who": "Francisco de Ulloa, a Spanish sailor, and Eusebio Kino, a priest born in Italy who worked in Mexico",

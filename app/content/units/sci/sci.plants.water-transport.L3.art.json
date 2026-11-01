@@ -1,4 +1,16 @@
 {
+ "flow.a3": {
+  "src": "media/img/sci.plants.water-transport.L3/flow.a3.jpg",
+  "credit": "Георгий Виноградов (Georgy Vinogradov), CC BY, via iNaturalist"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.plants.water-transport.L3/flow.p1.jpg",
+  "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.plants.water-transport.L3/intro.jpg",
+  "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.plants.water-transport.L3/setup.e1.0.jpg",
   "drawn": true
@@ -38,5 +50,9 @@
  "setup.e3.2": {
   "src": "media/img/sci.plants.water-transport.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.plants.water-transport.L3/term.6.jpg",
+  "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
  }
 }

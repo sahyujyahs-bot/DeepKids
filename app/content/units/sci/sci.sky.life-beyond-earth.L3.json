@@ -67,7 +67,7 @@
   {
    "term": "Hot spring",
    "meaning": "A place where water heated deep underground comes up out of the ground.",
-   "example": "Yellowstone, a park in the United States, has hundreds of hot springs. India has hot springs too, such as at Manikaran in Himachal Pradesh.",
+   "example": "Yellowstone, a park in the United States, has hundreds of hot springs. India has hot springs too, such as at Manikaran in Himachal Pradesh and Bakreshwar in West Bengal.",
    "art": "A steaming pool of blue water in rocky ground with orange edges."
   },
   {
@@ -120,7 +120,7 @@
    "definition": "Every living thing found so far needs three things: liquid water, a supply of energy, and the chemicals their body is built from.",
    "description": "You need water, food and air. A tree needs water, sunlight and air. A microbe needs much less, but every living thing found so far needs liquid water. Inside every cell, the chemicals of life move about and join up in water. Ice is too stiff for that, and steam floats away. Living things also need energy. Plants take it from sunlight. Animals take it from food. Some microbes take it from chemicals in rocks, with no sunlight at all. Last, they need the chemicals to build their bodies, mostly carbon, hydrogen, oxygen and nitrogen. So when scientists hunt for life on other worlds, they look first for liquid water.",
    "examples": [
-    "A dry seed does almost nothing until you give them water. Then they swell and sprout.",
+    "Dry seeds do almost nothing until you give them water. Then they swell and sprout.",
     "Curd bacteria work in warm milk, which is mostly water.",
     "Microbes deep in the sea, near hot vents, take their energy from chemicals in the vent water, not from sunlight."
    ],
@@ -135,7 +135,7 @@
    "description": "When water freezes, its tiny particles line up and hold on to each other in a neat pattern. Salt particles mixed in get in the way. So salty water must get colder before the water particles can line up. Sea water, which is a little salty, freezes at about minus 2 degrees. Water with as much salt as it can hold stays liquid until about minus 21 degrees. A home freezer is usually between about minus 6 and minus 18 degrees, so very salty water in it stays liquid. This is why salt is spread on icy roads in cold countries, and why your salted ice cube melted.",
    "examples": [
     "In cold countries, trucks spread salt on roads so ice melts and cars do not skid.",
-    "Sea water around Antarctica stays liquid at about minus 2 degrees, colder than a plain ice cube.",
+    "Sea water around Antarctica stays liquid at about minus 2 degrees, below the 0 degrees at which plain water freezes.",
     "In the freezer test, the cup with six spoons of salt was still liquid after a whole night."
    ],
    "perspectives": [],
@@ -160,7 +160,7 @@
    "concept": "Life in ice",
    "status": "defined",
    "definition": "Microbes live in the thin channels of salty water inside sea ice, and in salty lakes sealed under ice in Antarctica, at temperatures well below zero.",
-   "description": "Cold is a different problem. It slows everything down, and ice crystals can grow and burst a cell. But ice is not always solid all the way through. When sea water freezes, most of the salt is pushed out of the ice into thin channels of brine. The brine stays liquid, and bacteria and tiny algae live in those channels. Some of them make substances that stop ice crystals growing inside them. In Antarctica, Lake Vida lies under about 20 metres of ice. Its water is about six times saltier than the sea and about minus 13 degrees. In 2012, a team led by Alison Murray, an American scientist, reported bacteria living in it.",
+   "description": "Cold is a different problem. It slows everything down, and ice crystals can grow and burst a cell. But ice is not always solid all the way through. When sea water freezes, most of the salt is pushed out of the ice into thin channels of brine. The brine stays liquid, and bacteria and tiny algae live in those channels. Some of them make substances that stop ice crystals growing inside them. In Antarctica, Lake Vida lies under about 20 metres of ice. Its water is about six times saltier than the sea and about minus 13 degrees. In 2012, a team led by Alison Murray, an American scientist, reported bacteria living in the lake.",
    "examples": [
     "Tiny algae in Antarctic sea ice can colour the bottom of the ice brown.",
     "Lake Vida in Antarctica has bacteria living in brine at about minus 13 degrees.",
@@ -168,7 +168,7 @@
    ],
    "perspectives": [],
    "art": "A cut-away of Lake Vida: a thick white ice lid, dark salty water beneath, and a scientist in a red coat drilling through the top.",
-   "context": "This card is about microbes who live inside ice and under ice, far colder than your freezer's ice tray."
+   "context": "This card is about microbes who live inside ice and under ice, well below the freezing point of plain water."
   },
   {
    "concept": "Life in salt and in dry places",
@@ -356,7 +356,7 @@
    "Arjun licked a crystal. Then he licked a drop of the liquid and screwed up his face. \"The water is much saltier!\" he said.",
    "\"Exactly,\" said Lakshmi Chithi. \"The real sea ice around Antarctica is like that. It is full of thin channels of very salty water that never freeze. And here is my favourite part. Those channels are full of life. Bacteria and tiny algae live in them, in the dark and the cold, in water below zero.\"",
    "Kavya stared at the tray. \"Things live inside ice?\"",
-   "\"Inside the liquid in the ice,\" said Lakshmi Chithi. \"Every living thing needs liquid water. Not ice, not steam. Liquid. Inside a cell, all the chemicals of life have to move about and meet each other, and they can only do that in liquid water. So wherever there is liquid water, scientists go looking for life. And they keep finding it. In Antarctica there is a lake called Lake Vida, sealed under ice as thick as a six-storey building is tall. The water in it is six times saltier than the sea, and colder than your freezer's ice tray. In 2012, a team led by a scientist called Alison Murray found bacteria living in that water.\"",
+   "\"Inside the liquid in the ice,\" said Lakshmi Chithi. \"Every living thing needs liquid water. Not ice, not steam. Liquid. Inside a cell, all the chemicals of life have to move about and meet each other, and they can only do that in liquid water. So wherever there is liquid water, scientists go looking for life. And they keep finding it. In Antarctica there is a lake called Lake Vida, sealed under ice as thick as a six-storey building is tall. The water in it is six times saltier than the sea, and 13 degrees below zero. In 2012, a team led by a scientist called Alison Murray found bacteria living in that water.\"",
    "Arjun was thinking hard. \"Are there penguins in it?\"",
    "\"No penguins,\" said Lakshmi Chithi, smiling. \"Just microbes. But here is a bigger question. Far away, going round the planet Jupiter, there is a moon called Europa. Europa is covered in ice, kilometres thick. Under the ice, scientists are fairly sure there is a huge ocean of salty water. It is so far from the Sun that it should be frozen solid. But the salt, and heat from inside the moon, may keep it liquid.\"",
    "\"So there could be microbes in it,\" said Kavya slowly. \"Like in Lake Vida.\"",
@@ -393,33 +393,81 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. You turn over a place card, such as a hot spring, an Antarctic lake or Mars, and decide whether a living thing could live there. You score by giving the right reason.",
+   "context": "This is a card game. You turn over a place card, such as a hot spring, an Antarctic lake or Mars, and decide whether a living thing could live there. You score for the right answer and for a good reason.",
    "printables": [
     {
      "kind": "cards",
-     "title": "16 place cards to cut out",
+     "title": "16 place cards to cut out (the answer is on the back)",
      "items": [
-      "A hot spring in Yellowstone, 70 degrees, liquid water, chemicals in the water. (Yes: Thermus aquaticus lives here)",
-      "A deep-sea vent, 110 degrees, liquid water under great pressure, no sunlight. (Yes: some microbes grow here)",
-      "Lake Vida in Antarctica, minus 13 degrees, very salty liquid water under ice. (Yes: bacteria live here)",
-      "Antarctic sea ice, minus 5 degrees, thin channels of salty liquid water. (Yes: bacteria and algae live in the channels)",
-      "Lonar Lake in Maharashtra in a dry year, very salty water. (Yes: pink salt-loving microbes)",
-      "Damp moss on a wall in Bengaluru. (Yes: tardigrades)",
-      "A pot of curd at room temperature. (Yes: curd bacteria)",
-      "The inside of your mouth. (Yes: hundreds of kinds of bacteria)",
-      "A block of plain ice at minus 30 degrees, no liquid at all. (Very unlikely: there is no liquid water. Some microbes can wait frozen, but they cannot grow.)",
-      "Boiling water in a pressure cooker for 20 minutes. (No: this kills nearly all living things. That is why we cook food.)",
-      "The surface of the Moon, no air, no liquid water. (No life found: no liquid water)",
-      "The surface of Mars today, cold and dry. (Unknown: no life found, but Mars once had lakes)",
-      "Under the rocks of Mars, where ice may melt. (Unknown: scientists want to look)",
-      "Europa's ocean under the ice. (Unknown: liquid salty water, so it is one of the best places to look)",
-      "Enceladus's ocean, which sprays jets into space. (Unknown: salty water and chemicals life uses)",
-      "The surface of Venus, about 460 degrees. (No: far too hot for liquid water)"
+      {
+       "f": "A hot spring in Yellowstone, in the United States. The water is 70 degrees and liquid, with chemicals dissolved in it.",
+       "b": "YES. Thermus aquaticus bacteria live here. Liquid water, and energy from the chemicals."
+      },
+      {
+       "f": "A deep-sea vent. The water is 110 degrees but stays liquid under great pressure. No sunlight reaches it.",
+       "b": "YES. Some microbes grow here, taking energy from chemicals, not sunlight."
+      },
+      {
+       "f": "Lake Vida in Antarctica. Very salty liquid water at minus 13 degrees, sealed under thick ice.",
+       "b": "YES. Bacteria live here. The salt keeps the water liquid in the cold."
+      },
+      {
+       "f": "Antarctic sea ice at minus 5 degrees, with thin channels of salty liquid water inside.",
+       "b": "YES. Bacteria and tiny algae live in the liquid channels, not in the solid ice."
+      },
+      {
+       "f": "Lonar Lake in Maharashtra in a dry year. The water is very salty.",
+       "b": "YES. Pink salt-loving microbes grow here."
+      },
+      {
+       "f": "Damp green moss on a wall in Bengaluru.",
+       "b": "YES. Tardigrades live in damp moss."
+      },
+      {
+       "f": "A steel pot of curd at room temperature.",
+       "b": "YES. Curd bacteria live and grow here, in the liquid part of the curd."
+      },
+      {
+       "f": "The inside of your mouth.",
+       "b": "YES. Hundreds of kinds of bacteria live in the water of your saliva."
+      },
+      {
+       "f": "A block of plain ice at minus 30 degrees, with no liquid water inside at all.",
+       "b": "NO. With no liquid water, nothing can grow. Some microbes can wait frozen, but they cannot grow."
+      },
+      {
+       "f": "Boiling water in a pressure cooker, for 20 minutes.",
+       "b": "NO. Heat this great kills nearly all living things. That is why we cook food."
+      },
+      {
+       "f": "The surface of the Moon, with no air and no liquid water.",
+       "b": "NO. With no air and no liquid water, nothing could grow. No life has ever been found there."
+      },
+      {
+       "f": "The surface of Venus, about 460 degrees.",
+       "b": "NO. It is far too hot for liquid water, so life could not grow there."
+      },
+      {
+       "f": "The surface of Mars today, cold and dry.",
+       "b": "UNKNOWN. No life has been found, but Mars once had lakes. Nobody knows if anything lived there."
+      },
+      {
+       "f": "Under the ground on Mars, where ice may melt.",
+       "b": "UNKNOWN. Scientists want to look, but nobody has yet."
+      },
+      {
+       "f": "Europa, a moon of Jupiter, with a salty ocean under its ice.",
+       "b": "UNKNOWN. Liquid salty water, so it is one of the best places to look."
+      },
+      {
+       "f": "Enceladus, a moon of Saturn, whose ocean sprays jets of water into space.",
+       "b": "UNKNOWN. Salty water and chemicals that life uses, but nobody has looked inside."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "3 answer cards for each player",
+     "title": "Answer cards: YES, NO and UNKNOWN (cut out one set for each player)",
      "items": [
       "YES, life lives here",
       "NO, life could not grow here",
@@ -437,19 +485,19 @@
     }
    ],
    "rules": [
-    "Shuffle the 16 place cards and put them face down. Each player holds the three answer cards: YES, NO and UNKNOWN.",
-    "One player turns over the top place card and reads it aloud, without reading the answer in brackets.",
+    "Put the Lake Vida card on top, and shuffle the other 15 place cards under it. Keep them face up with the front showing. Each player holds the three answer cards: YES, NO and UNKNOWN.",
+    "The reader takes the top card and reads the front aloud, without turning it over.",
     "Everyone puts down one answer card face down at the same time. Then all turn them over.",
-    "The reader reads the answer in brackets. A right answer scores 1 point.",
-    "Each player with the right answer then gives a reason. A reason that uses liquid water, energy or a real creature scores 1 more point.",
-    "Take turns to be the reader. When all 16 cards are done, the most points wins.",
-    "Playing alone: sort the cards into three piles, then check the answers. Try to beat your score next time."
+    "Each player says a reason for their answer.",
+    "The reader turns the card over and reads the back. A right answer scores 1 point. A right answer whose reason used liquid water, energy or a real creature scores 1 more point.",
+    "Take turns to be the reader. When all 16 cards are done, the most points wins. If you tie, you share the win.",
+    "Playing alone: sort the cards into three piles by the front, then turn them over to check. Try to beat your score next time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Give each player a YES, a NO and an UNKNOWN card. 3. Shuffle the place cards.",
+     "do": "1. Cut out the place cards and the answer cards. 2. Give each player a YES, a NO and an UNKNOWN card. 3. Put the Lake Vida card on top and shuffle the rest under it.",
      "say": "Each card is a place. Some have life, some do not, and for some nobody knows yet. You must decide which, and say why.",
      "kid": "Each card is a place. Does life live there? Yes, no, or nobody knows?",
      "context": "This is the first step of Could Life Live There?, a card game about where living things can survive."
@@ -457,8 +505,8 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the Lake Vida card together as a practice turn.",
-     "say": "Practice turn. Lake Vida is in Antarctica. Its water is minus 13 degrees and very salty, under thick ice. Could anything live there?",
+     "do": "Play the Lake Vida card first, slowly, to learn the rules. It scores like any other card.",
+     "say": "First card. Lake Vida is in Antarctica. Its water is minus 13 degrees and very salty, under thick ice. Could anything live there?",
      "kid": "Lake Vida is very cold and very salty. Can anything live there?",
      "check": {
       "t": "mcq",
@@ -475,10 +523,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Play the rest of the cards. After each card, ask for a reason before giving the point.",
-     "say": "Before I read the answer, tell me why you chose it. Think about water, energy, and anyone you know who lives there.",
+     "do": "Play the other 15 cards. After each card, ask for a reason before giving the point.",
+     "say": "Before I turn the card over, tell me why you chose it. Think about water, energy, and any creature you know that lives there.",
      "kid": "Turn a card. Choose yes, no or unknown. Say why.",
-     "parent": "The best reasons mention liquid water. Watch for the plain ice card. Many children say yes because microbes live in ice, but those microbes live in liquid brine inside the ice. A block with no liquid at all is very unlikely to have anything growing in it."
+     "parent": "The best reasons mention liquid water. Watch for the plain ice card. Many children say YES because microbes live in ice, but those microbes live in liquid brine inside the ice. A block with no liquid at all has nothing growing in it."
     },
     {
      "id": "s4",
@@ -522,29 +570,65 @@
     },
     {
      "kind": "cards",
-     "title": "12 creature cards for the caller",
+     "title": "12 creature cards for the caller (the corner is on the back)",
      "items": [
-      "Thermus aquaticus, a bacterium from a Yellowstone hot spring (HOT)",
-      "Microbes beside deep-sea vents, growing above 100 degrees (HOT)",
-      "The orange and yellow microbe mats round a hot spring (HOT)",
-      "Bacteria in Lake Vida, Antarctica (COLD, and SALTY too)",
-      "Algae living in the brine channels of sea ice (COLD)",
-      "Pink haloarchaea in Lonar Lake in a dry year (SALTY)",
-      "Pink microbes in a salt pan by the sea (SALTY)",
-      "A tardigrade curled into a dry ball in summer moss (DRY)",
-      "A dry seed waiting in a jar for water (DRY)",
-      "Microbes in the dry Atacama Desert in Chile (DRY)",
-      "Emperor penguins in Antarctica (COLD)",
-      "A camel in the Thar Desert (DRY)"
+      {
+       "f": "Thermus aquaticus, a bacterium from a Yellowstone hot spring",
+       "b": "HOT"
+      },
+      {
+       "f": "Microbes beside deep-sea vents, growing above 100 degrees",
+       "b": "HOT"
+      },
+      {
+       "f": "The orange and yellow microbe mats round a hot spring",
+       "b": "HOT"
+      },
+      {
+       "f": "Bacteria in Lake Vida, Antarctica",
+       "b": "COLD and SALTY. Stand between the two corners."
+      },
+      {
+       "f": "Algae living in the brine channels of sea ice",
+       "b": "COLD"
+      },
+      {
+       "f": "Pink haloarchaea in Lonar Lake in a dry year",
+       "b": "SALTY"
+      },
+      {
+       "f": "Pink microbes in a salt pan at Thoothukudi, by the sea",
+       "b": "SALTY"
+      },
+      {
+       "f": "A tardigrade curled into a dry ball in summer moss",
+       "b": "DRY"
+      },
+      {
+       "f": "A dry seed waiting in a jar for water",
+       "b": "DRY"
+      },
+      {
+       "f": "Microbes in the dry Atacama Desert in Chile",
+       "b": "DRY"
+      },
+      {
+       "f": "Emperor penguins in Antarctica",
+       "b": "COLD"
+      },
+      {
+       "f": "A camel in the Thar Desert",
+       "b": "DRY"
+      }
      ]
     }
    ],
    "rules": [
     "Tape the four signs in four corners of the room.",
-    "The caller reads a creature card aloud.",
-    "Everyone runs to the corner where that creature lives. If a card fits two corners, you may stand between them.",
-    "The caller asks one runner: what problem does that place give the creature, and how does the creature deal with it? A good answer earns a clap.",
-    "Swap callers every four cards."
+    "The caller reads the front of a creature card aloud, without turning it over.",
+    "Everyone runs to the corner where they think that creature lives. If a card fits two corners, stand between them.",
+    "The caller turns the card over to check the corner, then asks one runner: what problem does that place give the creature, and how does the creature deal with it? A good answer earns a clap.",
+    "Swap callers every four cards. With two players, the caller and the runner swap every four cards."
    ],
    "flow": [
     {
@@ -558,7 +642,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Read the creature cards one at a time. After each run, ask one question.",
+     "do": "Read the creature cards one at a time, but keep the Lake Vida card for last. After each run, turn the card over and ask one question.",
      "say": "Tardigrade in summer moss! Go! Now, what problem does summer give a tardigrade, and what do they do about it?",
      "kid": "Run to the corner. What is hard there? How does the creature cope?",
      "parent": "Good answers name the problem first, then the trick. For example: the moss dries out, so the tardigrade curls into a dry ball and waits for rain. Heat breaks most cells' working parts, so hot-spring microbes have heat-proof parts."
@@ -566,7 +650,7 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "End with Lake Vida, which fits two corners.",
+     "do": "End with the Lake Vida card, which fits two corners.",
      "say": "Last one. Bacteria in Lake Vida. Which corner? Why could it be two?",
      "kid": "Lake Vida bacteria. Which corner? Could it be two?",
      "check": {
@@ -694,7 +778,7 @@
      "do": "1. Take the cups out one at a time. 2. Tap the top with the steel spoon. 3. Tilt the cup gently. 4. Write liquid, thin ice on top, slushy or frozen hard. 5. Put each cup straight back.",
      "say": "Tap the top. Does the spoon go through? Tilt it gently. Does it move like water?",
      "kid": "Tap each cup with a spoon. Tilt it. Liquid, slushy, or hard?",
-     "parent": "After an hour, the plain cup usually has ice on top and round the edges. The salty cups are usually still liquid. Work quickly so the cups do not warm up."
+     "parent": "After an hour, the plain cup usually has ice on top and round the edges. The salty cups are usually still liquid. Work quickly so the cups do not warm up. In a warmer single-door freezer, plain water can take 2 to 3 hours to show ice, so check again later."
     },
     {
      "id": "s5",
@@ -861,7 +945,7 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Ask for claim, evidence and reasoning. Then show the picture of sea ice channels.",
+     "do": "Ask for claim, evidence and reasoning. Then draw the half-frozen cup together: ice on top, salty water below, and thin channels of brine inside the ice.",
      "say": "So where did the salt go when the water froze? What does that mean for a microbe living in sea ice?",
      "kid": "Where did the salt go? Where could a microbe live in sea ice?",
      "parent": "A good answer: the ice was less salty, and the leftover water was saltier, so freezing pushed the salt out of the ice. In real sea ice, this pushed-out salty water collects in thin channels. Because it is so salty, it stays liquid far below zero. Bacteria and tiny algae live in those channels.",
@@ -915,7 +999,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed. Wash your hands after touching the salt and ice.",
    "schedule": [
     {
      "day": 1,
@@ -987,39 +1070,38 @@
      "qty": 1
     },
     {
-     "item": "14 small cards or paper slips and a pen",
-     "qty": 14
+     "item": "18 small cards or paper slips (8 number cards and 10 place cards) and a pen",
+     "qty": 18
     },
     {
      "item": "cello tape or clothes pegs",
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Make a long thermometer on the floor and put living things and places on it at their temperatures."
+     "what": "Make a long thermometer on the floor, write 8 number cards and 10 place cards, and put the places and living things on it at their temperatures."
     }
    ],
    "record": "Take a photo or draw the string with the cards. Circle the part of the string where life has been found.",
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
-     "do": "1. Lay the string along the floor of a corridor. 2. Write numbers on cards: minus 20, 0, 20, 40, 60, 80, 100 and 120. 3. Put them along the string, evenly spaced, about 40 cm apart.",
+     "mins": 8,
+     "do": "1. Lay the string along the floor of a corridor. 2. Write numbers on 8 cards: minus 20, 0, 20, 40, 60, 80, 100 and 120. 3. Put them along the string, evenly spaced, about 40 cm apart. 4. Write the 10 place cards listed below, one on each card.",
      "say": "This string is a giant thermometer. This end is minus 20 degrees, colder than a freezer. That end is 120 degrees, hotter than boiling water.",
      "kid": "Lay out the string. Put the numbers in order, from minus 20 to 120.",
-     "context": "This is an activity where you make a long thermometer on the floor, and find where on it living things have been found."
+     "context": "This is an activity where you make a long thermometer on the floor, and find where on it living things have been found.",
+     "parent": "The 10 place cards: plain water freezes, 0. Your body, 37. A hot day in many Indian cities, 45. Boiling water near the sea, 100. A big home freezer, minus 18. Curd bacteria work best, about 40. Thermus aquaticus, about 70. Lake Vida bacteria, minus 13. Microbes at deep-sea vents, up to about 113. Very salty water freezes, minus 21."
     },
     {
      "id": "s2",
-     "mins": 10,
+     "mins": 7,
      "do": "Read each place card aloud. Your child puts it on the string at the right number.",
-     "say": "Where does this go? Water freezes, 0. Your body, 37. Boiling water near the sea, 100. A hot day in many Indian cities, about 45. A big freezer, minus 18. Thermus aquaticus in a hot spring, about 70. Lake Vida bacteria, minus 13. Microbes by deep-sea vents, up to about 113.",
-     "kid": "Put each card on the string at its number.",
-     "parent": "Write each of these on a card first: plain water freezes, 0. Your body, 37. A hot day in many Indian cities, 45. Boiling water near the sea, 100. A big home freezer, minus 18. Curd bacteria work best, about 40. Thermus aquaticus, about 70. Lake Vida bacteria, minus 13. Microbes at deep-sea vents, up to about 113. Very salty water freezes, minus 21."
+     "say": "Where does this go? Water freezes, 0. Your body, 37. A hot day in many Indian cities, about 45. Boiling water near the sea, 100. Pick up a card, say what it is, and put it at its number.",
+     "kid": "Put each card on the string at its number."
     },
     {
      "id": "s3",
@@ -1063,11 +1145,10 @@
      "qty": 1
     },
     {
-     "item": "the three world cards below, read aloud",
+     "item": "the three world descriptions in step 1, read aloud",
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1133,7 +1214,7 @@
      "qty": 1
     },
     {
-     "item": "five family members, neighbours or friends, asked in person or by phone",
+     "item": "five people you know, such as family, neighbours or friends, asked in person or by phone",
      "qty": 5
     }
    ],
@@ -1186,7 +1267,7 @@
    "context": "In this activity you ask five people what an alien would look like, and compare their answers with what scientists expect.",
    "setup": [
     {
-     "art": "A girl with a notebook asking her grandfather a question on a sofa.",
+     "art": "A girl with a notebook asking an older relative a question on a sofa.",
      "caption": "1. Ask five people what alien life would look like."
     },
     {
@@ -1206,16 +1287,15 @@
      "qty": 1
     },
     {
-     "item": "the Smithsonian Channel video on the Grand Prismatic Spring, from the videos in this unit",
+     "item": "the Grand Prismatic Spring video from the videos in this unit, on a phone or tablet",
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Watch the short video. Paint a hot spring with its coloured rings, and label the temperature of each ring."
+     "what": "Watch the short video. Paint a hot spring with its coloured rings, and label the rings from hottest to coolest."
     }
    ],
    "record": "Your painting, with each ring labelled from hottest to coolest.",
@@ -1401,8 +1481,8 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Show the message to another family member, without explaining. See what they understand.",
-     "say": "Let's test it. Show it to Ammamma without saying anything. What does she think it says?",
+     "do": "Show the message to another person at home or a neighbour, without explaining. See what they understand.",
+     "say": "Let's test it. Show it to someone who has not seen it, without saying anything. What do they think it says?",
      "kid": "Show it to someone. Don't explain. What do they think it says?",
      "think": "Would a being with no eyes understand a picture? What else could you send?"
     }
@@ -1413,7 +1493,7 @@
      "caption": "1. Draw a message with no words."
     },
     {
-     "art": "A grandmother looking puzzled at a child's drawing while the child waits to hear her guess.",
+     "art": "An adult looking puzzled at a child's drawing while the child waits to hear their guess.",
      "caption": "2. Test it on someone who has not seen it."
     }
    ]
@@ -1508,15 +1588,15 @@
    "youtube": "Smeg1KUa3qU",
    "mins": 4,
    "why": "A short video for children on what alien life would need to survive, and why scientists look for water.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Are Aliens Real?', channel SciShow Kids). Not watched from here, so the length is a guess: a parent should preview it."
+   "check": "Preview it first. It is made for children."
   },
   {
    "title": "How the Grand Prismatic Spring Gets Its Kaleidoscopic Colors",
    "channel": "Smithsonian Channel",
    "youtube": "05cPc-FrwXs",
    "mins": 3,
-   "why": "Shows from the air the hot spring whose coloured rings are mats of heat-loving microbes. Used in the hot-spring painting activity.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (channel Smithsonian Channel). Not watched from here, so the length is a guess: a parent should preview it."
+   "why": "Shows from the air the hot spring whose coloured rings are mats of heat-loving microbes.",
+   "check": "Preview it first."
   },
   {
    "title": "Europa: Ocean World",
@@ -1524,7 +1604,7 @@
    "youtube": "kz9VhCQbPAk",
    "mins": 4,
    "why": "NASA scientists explain why they think Europa has a salty ocean under its ice, and why it might hold life.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (channel NASA Jet Propulsion Laboratory). It is an older video, made before Europa Clipper launched. Not watched from here: a parent should preview it."
+   "check": "Preview it first. It was made before Europa Clipper launched."
   }
  ],
  "quiz": [
@@ -1542,7 +1622,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the freezer test, Lakshmi's cup of very salty water was still liquid next morning. Why?",
+   "p": "In the freezer test in the story, Kavya's cup of very salty water was still liquid next morning. Why?",
    "opts": [
     "Salt lowers the freezing point of water",
     "The salty cup was warmer",
@@ -1664,7 +1744,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya says, 'The first alien life we find will probably be microbes.' Which fact supports her best?",
+   "p": "Kavya, a girl in the story, says, 'The first alien life we find will probably be microbes.' Which fact supports her best?",
    "opts": [
     "Microbes are the most common life on Earth, and lived alone here for billions of years",
     "Microbes are pink",
@@ -1707,13 +1787,6 @@
      "lines": 3,
      "a": "Salt lowers the freezing point of water. The salt particles get in the way of the water particles lining up into ice. Very salty water does not freeze until about minus 21 degrees, which is colder than a home freezer.",
      "why": "A strong answer says the cups were equally cold, so the difference must come from the salt, and says what salt does.",
-     "how": "e1"
-    },
-    {
-     "t": "truefalse",
-     "p": "The six-spoon cup stayed liquid because it was warmer than the plain cup.",
-     "a": false,
-     "why": "False. Both cups were in the same freezer all night, and the salty cup felt icy cold. It stayed liquid because salt lowers the freezing point, not because it was warm.",
      "how": "e1"
     },
     {
@@ -1831,12 +1904,6 @@
      "why": "Inside every cell, the chemicals of life move and join up in liquid water. No living thing has been found growing without it."
     },
     {
-     "t": "truefalse",
-     "p": "Microbes living in sea ice live inside the solid ice crystals.",
-     "a": false,
-     "why": "False. They live in the thin channels of liquid brine between the crystals. Solid ice has no liquid water for a cell to use."
-    },
-    {
      "t": "write",
      "p": "Arjun, a boy of six, says, 'Nothing could live in Antarctica's ice. It is too cold.' What would you tell him, and what evidence would you use?",
      "lines": 3,
@@ -1869,6 +1936,21 @@
      "a": "The outer white layer is the ice shell. Under it is the salty ocean. In the middle is the rocky inside.",
      "why": "Scientists think Europa's ocean sits between the ice shell and the rock, which is why it may hold life.",
      "art": "A cut-away drawing of Europa with three empty label lines pointing to the outer layer, a dark middle layer and the centre."
+    },
+    {
+     "t": "truefalse",
+     "p": "Life has only been found in places that feel comfortable to people.",
+     "a": false,
+     "why": "False. Microbes have been found growing in brine at minus 13 degrees and in deep-sea water above 110 degrees. People are comfortable in only a small part of that range.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "You laid a thread on an ice cube and sprinkled salt on it. What did the salt do to the ice?",
+     "lines": 3,
+     "a": "The salt melted a thin layer of the ice under the thread. The cold ice around it froze that water again, with the thread stuck in it, so the cube could be lifted.",
+     "why": "A strong answer says that salt makes ice melt even in the cold, which is the same thing that kept the salty cups liquid.",
+     "how": "a1"
     }
    ]
   },
@@ -1892,7 +1974,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya's freezer is a small single-door fridge, at about minus 8 degrees. Her one-spoon cup stayed slushy all night. In her cousin's big fridge, at minus 18, the one-spoon cup froze. Explain both results.",
+     "p": "Kavya, the girl in the story, has a small single-door fridge, at about minus 8 degrees. Her one-spoon cup stayed slushy all night. In her cousin's big fridge, at minus 18, the one-spoon cup froze. Explain both results.",
      "lines": 3,
      "a": "One spoon of salt lowers the freezing point a few degrees below zero. At minus 8, the cup was only a little below its freezing point, so it froze slowly and stayed slushy. At minus 18, it was much colder than its freezing point, so it froze.",
      "why": "A strong answer compares each freezer's temperature with the salty water's freezing point.",
@@ -2203,29 +2285,24 @@
      "why": "A strong answer gives reasons, not just guesses, and uses what extremophiles show."
     },
     {
-     "t": "label",
-     "p": "Label the parts of the Sea Ice in a Cup result: the ice, the salty leftover water, and where microbes would live in real sea ice.",
-     "a": "The pale top layer is the ice. The darker liquid underneath is the salty leftover water. In real sea ice, microbes live in thin channels of that salty water inside the ice.",
-     "why": "A strong answer connects the cup to real sea ice.",
-     "how": "e2",
-     "art": "A cup with a pale top layer and darker liquid below, and three empty label lines."
-    },
-    {
      "t": "truefalse",
      "p": "Tardigrades are extremophiles that prefer living in very harsh places.",
      "a": false,
      "why": "False. Tardigrades live in ordinary damp moss and soil. They can survive harsh conditions by drying out and waiting, but they do not live and grow there. Scientists argue about whether to call them extremophiles at all."
     },
     {
-     "t": "mcq",
-     "p": "Why do space scientists say 'follow the water'?",
-     "opts": [
-      "Water is easy to see from space",
-      "Every living thing found so far needs liquid water, so where there is liquid water, life is possible",
-      "Water is the only thing in space"
-     ],
-     "a": 1,
-     "why": "Liquid water is the first thing scientists look for, because life as we know it cannot grow without it."
+     "t": "write",
+     "p": "A friend says, 'Bacteria live in Lake Vida at minus 13 degrees, so there must be life on Europa.' Does that prove it? Give a reason.",
+     "lines": 3,
+     "a": "No. Lake Vida shows that life can live in cold, salty liquid water on Earth, so Europa's ocean is a good place to look. But nobody has looked inside Europa's ocean yet, so we do not know.",
+     "why": "A strong answer separates what Lake Vida shows (life is possible in such water) from what is still unknown (whether Europa has any)."
+    },
+    {
+     "t": "write",
+     "p": "One team reported a gas on Venus that living things can make. Other teams then looked again and found much less of it. Why do scientists check a claim again before they believe it?",
+     "lines": 3,
+     "a": "A result can come from a mistake or from how the data was handled. If other scientists get the same result on their own, it is much more likely to be true.",
+     "why": "A strong answer says that a claim becomes believable when other people can repeat it."
     }
    ]
   }
@@ -2322,14 +2399,6 @@
    "a": "You break the ice."
   },
   {
-   "j": "Why did the astronaut bring salt to Mars?",
-   "a": "In case the ice needed melting."
-  },
-  {
-   "j": "What is a tardigrade's favourite month?",
-   "a": "The month the rains come back."
-  },
-  {
    "j": "Why was the hot-spring microbe so calm?",
    "a": "Nothing could make them boil over."
   },
@@ -2342,20 +2411,8 @@
    "a": "It was too salty for trouble."
   },
   {
-   "j": "How do microbes in sea ice keep in touch?",
-   "a": "Through the channels."
-  },
-  {
-   "j": "Why did the rover stay in the clean room so long?",
-   "a": "It didn't want to bring any germs to the party."
-  },
-  {
    "j": "What do you call a microbe who loves salt?",
    "a": "A real old salt."
-  },
-  {
-   "j": "Why did the alien take a jar of water to every planet?",
-   "a": "To check if life was possible there."
   }
  ],
  "maths": [
@@ -2484,13 +2541,11 @@
    "id": "b-thermo",
    "item": "A digital kitchen thermometer with a probe (optional)",
    "kind": "tool",
-   "why": "Not needed for the freezer test to work. It lets you read how cold your freezer really is, and compare it with the freezing point of salty water. Sold in kitchen shops and online.",
+   "why": "Optional. It reads how cold your freezer really is, so you can compare it with the freezing point of salty water. Sold in kitchen shops and online.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer+probe",
    "used_in": [
-    "e1",
-    "a2"
-   ],
-   "plan": "Used again in the heat and states-of-matter units, and for checking milk is warm enough to set curd."
+    "e1"
+   ]
   }
  ],
  "warmup": [
@@ -2662,9 +2717,9 @@
   ],
   "art": "A child on a flat's balcony at night holding a melting ice cube in an open palm, with Jupiter bright in the sky and a faint drawing of Europa's cracked ice beside it."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done in a city flat. Choices made: the freezer test uses 0, 1 and 6 level teaspoons of salt in half a cup of water. Six spoons is close to as much as water can hold, which freezes only at about minus 21 degrees, colder than any home freezer, so that cup stays liquid even in a big fridge at minus 18. The one-spoon cup freezes later and softer, so there is a clear middle result. Steel katoris freeze fastest, so checks at 1 hour and 3 hours show a difference. Single-door fridges are warmer, around minus 6 to minus 12, and the steps say so. The sea-ice taste test uses sea-strength water, which is safe to taste in tiny sips, and catches the cup half frozen. If it freezes solid, partly thawing it still works. Food colour is optional and makes the result visible. The ice and thread trick is quick and reliable with a damp thread and up to two minutes. No step needs a garden, a hot spring or moss. The turmeric challenge can stain, so an old cloth is suggested. The spine is the ice and thread puzzle, the freezer test, the explanation cards, roots and the quiz, about 85 minutes over two sessions with the freezer waits in between.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done in a city flat. Choices made: the freezer test uses 0, 1 and 6 level teaspoons of salt in half a cup of water. Six spoons is close to as much as water can hold, which freezes only at about minus 21 degrees, colder than any home freezer, so that cup stays liquid even in a big fridge at minus 18. The one-spoon cup freezes later and softer, so there is a clear middle result. Steel katoris freeze fastest, so checks at 1 hour and 3 hours show a difference. Single-door fridges are warmer, around minus 6 to minus 12, and the steps say so. The sea-ice taste test uses sea-strength water, which is safe to taste in tiny sips, and catches the cup half frozen. If it freezes solid, partly thawing it still works. Food colour is optional and makes the result visible. The ice and thread trick is quick and reliable with a damp thread and up to two minutes. No step needs a garden, a hot spring or moss. The turmeric challenge can stain, so an old cloth is suggested. Game cards carry their answers on the back. The spine is the ice and thread puzzle, the freezer test, the explanation cards, roots and the quiz, about 85 minutes over two sessions with the freezer waits in between.",
  "how_we_found_out": {
-  "story": "In the early 1960s, many biologists thought nothing could live in water much hotter than about 73 degrees Celsius. Thomas Brock, an American microbiologist, began studying the hot springs of Yellowstone National Park in 1965. In the water flowing out of one spring, Octopus Spring, he saw pink threads growing in water above 80 degrees. They were bacteria. In 1966, Brock and his student Hudson Freeze took water from another spring, Mushroom Spring, and grew a new bacterium from it in the laboratory. They named them Thermus aquaticus, and described them in 1969. Brock kept looking, and found bacteria in springs that were boiling, which at Yellowstone's height means about 93 degrees. The old limit had come from not looking in hot enough places. Later, scientists found microbes beside deep-sea vents growing above 110 degrees. A heat-proof chemical from Thermus aquaticus is now used in laboratories all over the world to copy DNA.",
+  "story": "In the early 1960s, many biologists thought nothing could live in water much hotter than about 73 degrees Celsius. Thomas Brock, an American microbiologist, began studying the hot springs of Yellowstone National Park in 1965. In the water flowing out of one spring, Octopus Spring, he saw pink threads growing in water above 80 degrees. They were bacteria. In 1966, Brock and his student Hudson Freeze took water from another spring, Mushroom Spring, and grew a new bacterium from the water in the laboratory. They named this kind of bacterium Thermus aquaticus, and described them in 1969. Brock kept looking, and found bacteria in springs that were boiling, which at Yellowstone's height means about 93 degrees. The old limit had come from not looking in hot enough places. Later, scientists found microbes beside deep-sea vents growing above 110 degrees. A heat-proof chemical from Thermus aquaticus is now used in laboratories all over the world to copy DNA.",
   "who": "Thomas Brock, an American microbiologist, and his student Hudson Freeze",
   "when": "1965 to 1969, at Yellowstone National Park in the United States",
   "wrong_idea": "Biologists thought no life could survive in water much hotter than about 73 degrees. Brock found bacteria growing in springs above 80 degrees, and even in boiling springs. Microbes have since been found growing above 110 degrees."

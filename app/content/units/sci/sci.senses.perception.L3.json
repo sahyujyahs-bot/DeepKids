@@ -7,7 +7,7 @@
   "art": "A child in a Chennai flat holding a ruler against two lines drawn in a notebook, one with arrowheads and one with open fins, looking surprised. Behind, faint drawings of railway tracks meeting in the distance and a butterfly with large eyespots."
  },
  "intro": {
-  "hook": "Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line between the ends is longer? Now measure both with a ruler.",
+  "hook": "Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.",
   "text": "Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this unit you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.",
   "art": "Two horizontal lines of equal length drawn one above the other in a notebook. The top line has arrowheads pointing outwards at both ends, the bottom one has fins opening outwards like arrow tails. A ruler lies under them, showing both are 10 cm."
  },
@@ -153,7 +153,7 @@
    "definition": "",
    "description": "In 1889 the German doctor Franz Carl Müller-Lyer published the arrow-lines drawing. A line with open fins looks longer than an equal line with arrowheads. Scientists agree that it fools almost everyone. They still argue about why.",
    "examples": [
-    "In tests, people often make the open-fin line 1 to 3 cm shorter than 10 cm before it looks equal, but results vary a lot from person to person."
+    "In tests, people often shorten the open-fin line by 1 to 3 cm to make it look equal to the arrowhead line. Results vary a lot from person to person."
    ],
    "perspectives": [
     {
@@ -394,37 +394,73 @@
   {
    "id": "g1",
    "title": "Trust Your Eyes or the Ruler?",
-   "mins": 20,
+   "mins": 28,
    "players": [
     "alone",
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card shows a drawing and a question. Players say what they see, bet a token, and then measure to find out.",
+   "context": "This is a card game. Each card has a question and a drawing. Players say what they see, bet a token, and then measure to find out.",
    "printables": [
     {
      "kind": "cards",
-     "title": "12 picture cards to cut out (draw each one with a ruler)",
+     "title": "12 cards to cut out, each half a sheet of A4 paper laid sideways (draw the lines and circles on the front, using the guide on the back)",
      "items": [
-      "Arrow lines: two 6 cm lines, one with arrowheads, one with open fins. Which is longer? (Same)",
-      "Railway tracks: two 3 cm bars across the tracks. Which is longer? (Same)",
-      "Ring of circles: two middle circles, one among big circles, one among small. Which middle circle is bigger? (Same)",
-      "Two lines in a T shape: the upright line and the flat line are both 5 cm. Which is longer? (Same, though the upright line looks longer)",
-      "Two lines, 5 cm and 5.5 cm, plain. Which is longer? (The second, by half a centimetre)",
-      "Two squares of the same grey: one on black, one on white. Which is lighter? (Same)",
-      "Shaded circle, light at the top. Bump or dent? (Either. It depends on where you think the light comes from.)",
-      "Two arrow lines where the open-fin one is really 5 cm and the arrowhead one is 6 cm. Which is longer? (The arrowhead line, though they may look equal)",
-      "Two circles, 2 cm and 2.5 cm, on plain paper. Which is bigger? (The second)",
-      "A long line with a short line crossing it at a slant. Is the long line straight? (Yes)",
-      "Two railway bars, the top one really 2.5 cm and the bottom one 3 cm. Which is longer? (The bottom one, though they may look equal)",
-      "Two equal circles, both 2 cm, plain. Which is bigger? (Same)"
+      {
+       "f": "Card 1. Which line is longer, the top one or the bottom one?",
+       "b": "Draw on the front: two lines, each 6 cm long, one above the other. Give the top line arrowheads, like <——>. Give the bottom line open fins, like >——<. Answer: the same."
+      },
+      {
+       "f": "Card 2. Which bar is longer, the top one or the bottom one?",
+       "b": "Draw on the front: two railway lines that are 10 cm apart at the bottom and 4 cm apart at the top. Draw one 3 cm bar between them near the top and one near the bottom. Answer: the same."
+      },
+      {
+       "f": "Card 3. Which middle circle is bigger, the left one or the right one?",
+       "b": "Draw on the front: two middle circles, each 1.5 cm across. Put five circles of 3 cm around the left one. Put eight circles of 1 cm around the right one. Answer: the same."
+      },
+      {
+       "f": "Card 4. Which line is longer, the upright one or the flat one?",
+       "b": "Draw on the front: a T shape upside down, like ⊥. The upright line and the flat line are each 5 cm. Answer: the same, though the upright line looks longer."
+      },
+      {
+       "f": "Card 5. Which line is longer, the top one or the bottom one?",
+       "b": "Draw on the front: a plain line of 5 cm, and under it a plain line of 5.5 cm. Answer: the bottom line, by half a centimetre."
+      },
+      {
+       "f": "Card 6. Which square is bigger, the left one or the right one?",
+       "b": "Draw on the front: two plain squares side by side. The left one has sides of 3 cm. The right one has sides of 3.5 cm. Answer: the right square."
+      },
+      {
+       "f": "Card 7. Which small circle is bigger, the left one or the right one?",
+       "b": "Draw on the front: two small circles, each 2 cm across. Draw a circle of 2.6 cm around the left one. Draw a circle of 4 cm around the right one. Answer: the same."
+      },
+      {
+       "f": "Card 8. Which line is longer, the top one or the bottom one?",
+       "b": "Draw on the front: a line of 6 cm with arrowheads, and under it a line of 5 cm with open fins. Answer: the arrowhead line, though they may look equal."
+      },
+      {
+       "f": "Card 9. Which circle is bigger, the left one or the right one?",
+       "b": "Draw on the front: two plain circles, side by side. The left one is 2 cm across and the right one is 2.5 cm across. Answer: the right circle."
+      },
+      {
+       "f": "Card 10. Are the two long lines straight and parallel?",
+       "b": "Draw on the front: two long straight lines, each 10 cm, side by side and 2 cm apart. Cross the first with short dashes that lean one way. Cross the second with short dashes that lean the other way. Answer: yes. Measure the gap at both ends. It is 2 cm at both."
+      },
+      {
+       "f": "Card 11. Which bar is longer, the top one or the bottom one?",
+       "b": "Draw on the front: railway lines as on card 2. Draw a bar of 2.5 cm between them near the top and a bar of 3 cm near the bottom. Answer: the bottom bar, though the top one may look as long or longer."
+      },
+      {
+       "f": "Card 12. Which circle is bigger, the left one or the right one?",
+       "b": "Draw on the front: two plain circles, side by side, each 2 cm across. Answer: the same."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "10 tokens for each player",
+     "title": "Tokens (10 for each player, and about 20 spare for the bank)",
      "items": [
-      "Use tamarind seeds, buttons or small paper squares."
+      "Use small things you have, such as tamarind seeds, buttons or paper squares. Two players need about 40 in all. Four players need about 60."
      ]
     },
     {
@@ -439,17 +475,17 @@
     }
    ],
    "rules": [
-    "Each player starts with 10 tokens.",
-    "Turn over a card. Everyone looks for five seconds, then says their answer out loud.",
-    "Each player bets 1, 2 or 3 tokens on their answer.",
-    "Measure with the ruler. Players who were right win the tokens they bet. Players who were wrong lose them.",
+    "Each player starts with 10 tokens. Keep about 20 spare tokens in the middle as a bank.",
+    "Take turns to hold the cards. The holder turns over a card and keeps the back hidden. Everyone looks for five seconds, then says their answer out loud.",
+    "Each player bets 1, 2 or 3 tokens on their answer. You cannot bet more tokens than you have. A player with no tokens left answers without a bet.",
+    "Measure with the ruler, then read the back of the card. Players who were right take the tokens they bet from the bank. Players who were wrong put their bet in the bank.",
     "Some cards really are different. Some only look different. That is why you must measure every time.",
-    "After all 12 cards, the player with the most tokens wins. Playing alone, try to finish with more than 10."
+    "After all 12 cards, the player with the most tokens wins. If two players tie, they both win. Playing alone, try to finish with more than 10."
    ],
    "setup": [
     {
      "art": "Twelve cut-out cards with line and circle drawings, face down in a pile, and a ruler beside them.",
-     "caption": "1. Shuffle the cards. Give everyone 10 tokens."
+     "caption": "1. Draw the cards. Shuffle them. Give everyone 10 tokens."
     },
     {
      "art": "Two children each pushing tamarind seeds forward as a bet, while a mother measures lines on a card with a ruler.",
@@ -459,16 +495,16 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "1. Cut out and shuffle the cards. 2. Give each player 10 tokens. 3. Put the ruler in the middle.",
-     "say": "In this game, you bet on what your eyes tell you. Then the ruler decides.",
-     "kid": "Take 10 tokens. Shuffle the cards. The ruler is the judge!",
+     "mins": 10,
+     "do": "1. Cut out the 12 cards. 2. Draw the lines and circles on the front of each card, using the guide on its back. Use a ruler. 3. Shuffle the cards and stack them with the question side up. 4. Give each player 10 tokens and put the spare tokens in the middle. 5. Put the ruler in the middle.",
+     "say": "Today you bet on what your eyes tell you. Then the ruler decides. Help me draw the cards first.",
+     "kid": "Draw the lines and circles on the cards. Take 10 tokens. The ruler is the judge!",
      "context": "This is the first step of Trust Your Eyes or the Ruler? It is a card game where you bet on what you see, and then measure."
     },
     {
      "id": "s2",
-     "mins": 14,
-     "do": "Play the 12 cards. On each card, everyone answers, bets, and then one person measures.",
+     "mins": 15,
+     "do": "Play the 12 cards. On each card, everyone answers and bets. Then one person measures and reads the back.",
      "say": "Look for five seconds. What do you see? How many tokens will you bet?",
      "kid": "Look. Say your answer. Bet 1, 2 or 3 tokens. Then measure.",
      "parent": "The cards that really are different are the important ones. Children who learn that some lines look equal but are not, and some look different but are equal, have understood the point: you cannot tell by looking alone."
@@ -481,7 +517,7 @@
      "kid": "Count your tokens. Which card fooled you most?",
      "check": {
       "t": "mcq",
-      "q": "In the game, Kavya bet 3 tokens that two equal lines were different, and lost. What is the best lesson for her?",
+      "q": "In the game, Kavya, a girl of nine, bet 3 tokens that two equal lines were different, and lost. What is the best lesson for her?",
       "options": [
        "Never trust your eyes about anything",
        "Eyes are usually right, but for lengths that matter, measure",
@@ -505,37 +541,91 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "4 clue cards (one for each player) and 16 illusion cards",
+     "title": "4 clue cards (one for each player)",
      "items": [
       "CLUE: Far away (lines that come together, or being high up in the view)",
       "CLUE: Neighbours (the brain compares with what is around)",
       "CLUE: Light from above (the brain expects light from the top)",
-      "CLUE: Pictures in a row (still pictures shown quickly look like movement)",
-      "Two equal strips on railway tracks. The top one looks longer. (Far away)",
-      "A circle looks bigger among small circles. (Neighbours)",
-      "A shaded circle turns from a bump into a dent when the page is turned. (Light from above)",
-      "A flip book ball bounces. (Pictures in a row)",
-      "Grey paper looks lighter on black. (Neighbours)",
-      "Footprints in sand look raised in an upside-down photo. (Light from above)",
-      "A cartoon on TV. (Pictures in a row)",
-      "A long corridor in your building seems to get narrow at the end. (Far away)",
-      "The rising Moon looks bigger near the buildings. (Far away, though scientists still argue about this one)",
-      "Two dots on two pages seem to be one dot jumping. (Pictures in a row)",
-      "A short person next to very tall people looks even shorter. (Neighbours)",
-      "Lights on a sign switching on one after another look like a running arrow. (Pictures in a row)",
-      "A bowerbird's court of stones looks evenly spread to the female. (Far away)",
-      "Your train seems to move when the next train starts. (Neighbours: the brain judges your movement by what is around you)",
-      "A painted mural seems to have real steps going into the wall. (Far away)",
-      "A shadow drawn under a ball makes the ball seem to float above the ground. (Light from above)"
+      "CLUE: Pictures in a row (still pictures shown quickly look like movement)"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "16 illusion cards (the back says the clue)",
+     "items": [
+      {
+       "f": "Two equal strips lie across railway tracks. The top strip looks longer.",
+       "b": "Clue: Far away"
+      },
+      {
+       "f": "A circle looks bigger among small circles.",
+       "b": "Clue: Neighbours"
+      },
+      {
+       "f": "A shaded circle turns from a bump into a dent when the page is turned upside down.",
+       "b": "Clue: Light from above"
+      },
+      {
+       "f": "A flip book ball bounces.",
+       "b": "Clue: Pictures in a row"
+      },
+      {
+       "f": "A grey paper square looks lighter on black than on white.",
+       "b": "Clue: Neighbours"
+      },
+      {
+       "f": "Footprints in sand look raised in an upside-down photo.",
+       "b": "Clue: Light from above"
+      },
+      {
+       "f": "A cartoon on TV.",
+       "b": "Clue: Pictures in a row"
+      },
+      {
+       "f": "A long corridor in your building seems to get narrow at the end.",
+       "b": "Clue: Far away"
+      },
+      {
+       "f": "The rising Moon looks bigger near the buildings. Scientists still argue about why.",
+       "b": "Clue: Far away"
+      },
+      {
+       "f": "Two dots on two pages seem to be one dot jumping.",
+       "b": "Clue: Pictures in a row"
+      },
+      {
+       "f": "A short person next to very tall people looks even shorter.",
+       "b": "Clue: Neighbours"
+      },
+      {
+       "f": "Lights on a sign switching on one after another look like a running arrow.",
+       "b": "Clue: Pictures in a row"
+      },
+      {
+       "f": "A male great bowerbird lays small stones near the female and bigger stones far from her. To her, the court looks evenly spread.",
+       "b": "Clue: Far away"
+      },
+      {
+       "f": "Your train seems to move when the train next to it starts.",
+       "b": "Clue: Neighbours. The brain judges your own movement by what is around you."
+      },
+      {
+       "f": "A painted mural seems to have real steps going into the wall.",
+       "b": "Clue: Far away"
+      },
+      {
+       "f": "A shadow drawn under a ball makes the ball seem to float above the ground.",
+       "b": "Clue: Light from above"
+      }
      ]
     }
    ],
    "rules": [
-    "Each player picks one clue card and keeps it face up.",
-    "A reader turns over an illusion card and reads it out.",
-    "The first player to slap the table and say the right clue wins the card. Check the answer in brackets.",
-    "If the clue is on your own card, you win 2 points instead of 1.",
-    "After 16 cards, the most points wins."
+    "Each player takes one clue card and keeps it face up. With fewer than 4 players, some clue cards stay unused.",
+    "Take turns to be the reader. The reader holds the illusion cards, turns one over, and reads the front out loud. The reader keeps the back hidden and does not answer on that card.",
+    "The other players slap the table and say the clue. The first player to say the right clue wins the card. The reader checks the back. A player who says the wrong clue cannot answer again on that card.",
+    "If the right clue is on your own clue card, the card is worth 2 points instead of 1.",
+    "After all 16 cards, the most points wins. If two players tie, they both win."
    ],
    "setup": [
     {
@@ -559,7 +649,7 @@
     {
      "id": "s2",
      "mins": 11,
-     "do": "Read out the illusion cards one at a time. Players name the clue. Check with the answer in brackets.",
+     "do": "Take turns reading out the illusion cards one at a time. The other players name the clue. The reader checks the back of the card.",
      "say": "Which clue fooled the brain here? How do you know?",
      "kid": "Listen to the card. Which clue fooled the brain? Slap and say it!",
      "parent": "Some cards could fit two clues. If a player gives a good reason for another clue, give them the point."
@@ -593,7 +683,7 @@
    "days": 1,
    "question": "Two lines are both 10 cm long. One has arrowheads, and one has fins that open outwards. When people copy each line by eye, how long do they draw it? And does knowing the answer change that?",
    "predict": "Guess first. When people copy each line by eye, will they draw it the right length, too long or too short? Will they still get it wrong after they know all the lines are 10 cm? Why do you think so?",
-   "fair_test": "Every line is exactly 10 cm, with fins of the same size, on the same kind of paper strip. Everyone copies in the same way, by eye, starting from a dot, with no ruler. Only the fins change. A plain line with no fins shows how well each person copies anyway, so we can see how much the fins added.",
+   "fair_test": "Every test line is exactly 10 cm, drawn on the same kind of paper strip. Everyone copies in the same way: by eye, starting from a dot, with no ruler. Only the ends of the test line change. A plain line with no fins shows how well each person copies anyway, so we can see how much the fins added. Copying the open-fin line a second time also gives practice, so a small change after knowing may be practice and not knowing.",
    "results_table": [
     "Person",
     "Plain line (cm)",
@@ -603,40 +693,38 @@
    ],
    "materials": [
     {
-     "item": "sheets of A4 paper, or any long paper about 30 cm wide, cut in half the long way into strips",
-     "qty": "2 sheets for each person"
+     "item": "sheets of A4 paper, each cut in half the long way into two strips (2 sheets for each person who copies, and 2 more sheets for the three test lines)",
+     "qty": 8
     },
     {
      "item": "a ruler with centimetre marks, 30 cm long",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a pencil and an eraser",
      "qty": 1
     },
     {
-     "item": "2 or 3 people to test: the child, a parent, a grandparent, a sibling or a neighbour",
+     "item": "2 or 3 people to test: the child, a parent, and a grandparent, a sibling or a neighbour if you have one",
      "qty": 3
     }
    ],
-   "safety": "No special safety needs. Scissors for cutting the paper are used by a grown-up or with a grown-up's help.",
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Make the test strips. Each person copies the plain, arrowhead and open-fin lines by eye. Measure. Then tell everyone the answer, and test the open-fin line again."
+     "what": "Make the three test strips and the copy strips. Each person copies the plain, arrowhead and open-fin lines by eye. Measure. Then tell everyone the answer, and copy the open-fin line again."
     }
    ],
    "record": "Fill in the table, one row for each person. Then circle the biggest difference from 10 cm.",
    "setup": [
     {
-     "art": "A long paper strip lying sideways. On the left, a 10 cm line with fins opening outwards at both ends. On the right, a small pencil dot.",
-     "caption": "1. Draw a 10 cm line with fins on the left. Put a dot on the right."
+     "art": "Three long paper strips lying one above the other. Each has a 10 cm line: one plain, one with arrowheads at both ends, one with fins opening outwards at both ends.",
+     "caption": "1. Draw three test lines, each exactly 10 cm."
     },
     {
-     "art": "A grandmother drawing a plain line from the dot, her eyes on the finned line, with no ruler nearby.",
-     "caption": "2. Copy the line's length by eye, starting at the dot."
+     "art": "A person drawing a plain line from a pencil dot on a blank strip, with a test strip lying above it and no ruler nearby.",
+     "caption": "2. Copy a test line's length by eye, starting at the dot."
     },
     {
      "art": "A ruler laid along the copied line, showing it ends at 11.5 cm.",
@@ -647,18 +735,18 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Cut each sheet in half the long way, to make long strips. 2. Lay a strip sideways. Starting 2 cm from the left edge, draw a line exactly 10 cm long. 3. Make 4 strips for each person. 4. Strip A: leave the line plain. 5. Strip B: add arrowheads at both ends, like <——>. 6. Strip C and strip D: add fins that open outwards at both ends, like >——<. 7. On each strip, put a dot 4 cm to the right of the line's right end.",
-     "say": "We'll make test strips. Every line is exactly 10 cm. Only the ends are different. Can you help me measure?",
-     "kid": "Help draw the lines. Each one is exactly 10 cm. Strip B gets arrowheads. Strips C and D get open fins.",
-     "parent": "Make each fin 2 cm long, at about the angle of the arms of a letter V. Measure the 10 cm only along the straight line, between the two points where the fins meet it. Keep strip D hidden until step 5. Each person needs their own 4 strips, so nobody sees another person's copy.",
+     "do": "1. Cut each sheet in half the long way, to make long strips. 2. Make three test strips. On each, starting 2 cm from the left edge, draw a line exactly 10 cm long. 3. Leave the first strip plain. Add arrowheads at both ends of the second, like <——>. Add open fins at both ends of the third, like >——<. 4. For each person, take 4 blank strips. Write on them: plain, arrowheads, open fins, open fins again. 5. On each blank strip, put a dot 2 cm from the left edge.",
+     "say": "We'll make three test lines. Every line is exactly 10 cm. Only the ends are different. Can you help me measure?",
+     "kid": "Help draw the three test lines. Each one is exactly 10 cm. One is plain, one has arrowheads and one has open fins.",
+     "parent": "Make each fin 2 cm long, at about the angle of the arms of a letter V. Measure the 10 cm only along the straight line, between the two points where the fins meet it. Each person copies on their own strips, so nobody sees another person's copies.",
      "context": "This is the first step of the Arrow Lines experiment. Here you make paper strips with lines that are all exactly 10 cm long but have different ends."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Lay strips A, B and C in front of your child. Ask for a guess and a reason.",
+     "do": "Lay the three test strips in front of your child. Ask for a guess and a reason.",
      "say": "Each person will copy each line by eye, starting at the dot. Will they draw it too long, too short or just right? Why do you think so?",
-     "kid": "Look at strips A, B and C. Will people copy them too long, too short or just right? Why do you think so?",
+     "kid": "Look at the three test strips. Will people copy them too long, too short or just right? Why do you think so?",
      "ask": [
       {
        "q": "What do you think will happen with the open-fin line, and why?",
@@ -674,10 +762,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Hide the ruler. 2. Give the first person strip A and a pencil. 3. Say: 'Start at the dot. Draw a straight line to the right, as long as the line on the left. Don't count the fins.' 4. Do the same with strip B, then strip C. 5. Write the person's name on each strip. 6. Repeat with each person.",
+     "do": "1. Hide the ruler. 2. Give the first person their blank 'plain' strip and a pencil. Lay the plain test strip above it. 3. Say: 'Start at the dot. Draw a straight line to the right, as long as the line on the test strip. Don't count the fins.' 4. Do the same with the 'arrowheads' strip and then the 'open fins' strip. 5. Write the person's name on each strip. 6. Repeat with each person. Keep the 'open fins again' strips for step 5.",
      "say": "Start at the dot. Draw a line as long as the line on the left. Take your time. Don't count the fins.",
-     "kid": "Start at the dot. Draw a line just as long as the other one. Don't count the fins. No ruler!",
-     "parent": "Your child can be a tester too. Copy the lines yourself after your child, on your own strips. Let each person look back and forth as much as they like, but they must not use their fingers or the pencil to measure."
+     "kid": "Start at the dot. Draw a line just as long as the test line. Don't count the fins. No ruler!",
+     "parent": "Your child can be a tester too. Copy the lines yourself after your child, on your own strips. Let each person look back and forth as much as they like. They must not use their fingers or the pencil to measure, and the test strip must not touch the copy strip."
     },
     {
      "id": "s4",
@@ -687,23 +775,23 @@
      "kid": "Measure each copy with the ruler. Write the number in the table.",
      "check": {
       "t": "mcq",
-      "q": "Meena, a girl in Class 3, copied the open-fin line. Her copy was 11.5 cm long. The real line is 10 cm. What does this show?",
+      "q": "Gayathri, a girl in Class 3, copied the open-fin line. Her copy was 11.5 cm long. The real line is 10 cm. What does this show?",
       "options": [
-       "Meena cannot draw straight lines",
-       "The open fins made the line look longer to Meena",
+       "Gayathri cannot draw straight lines",
+       "The open fins made the line look longer to Gayathri",
        "The ruler is broken"
       ],
       "a": 1,
-      "why": "Meena drew the line too long because it looked longer to her. If she simply drew badly, her plain line would be far from 10 cm too, so compare it with her plain line. The ruler is fine: it showed the lines are all 10 cm."
+      "why": "Gayathri drew the line too long because it looked longer to her. If she simply drew badly, her plain line would be far from 10 cm too, so compare it with her plain line. The ruler is fine: it showed the lines are all 10 cm."
      }
     },
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Show everyone the ruler on strips A, B and C, so they see all three lines are 10 cm. 2. Give each person strip D, with open fins. 3. Say: 'You know it's 10 cm now. Copy it again.' 4. Measure and write it in the last column.",
+     "do": "1. Show everyone the ruler on the three test strips, so they see all three lines are 10 cm. 2. Give each person their 'open fins again' strip, with the open-fin test strip above it. 3. Say: 'You know it's 10 cm now. Copy it again.' 4. Measure and write it in the last column.",
      "say": "Now everybody knows the truth. All the lines are 10 cm. Will knowing help? Let's try the open-fin line once more.",
      "kid": "Now you know every line is 10 cm. Copy the open-fin line again. Does knowing help?",
-     "parent": "Ask people to copy what they see, not to correct on purpose. Some people will draw it a bit shorter than before. Most will still draw it longer than 10 cm."
+     "parent": "Ask people to copy what they see, not to correct on purpose. Some people will draw it a bit shorter than before. Most will still draw it longer than 10 cm. The second try also gives practice, so a big change would mean more than a small one."
     },
     {
      "id": "s6",
@@ -889,32 +977,30 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "2 strips of coloured paper, each cut exactly 3 cm long and 1 cm wide",
      "qty": 2
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
      "mins": 8,
-     "what": "Draw two lines that come together like railway tracks. Put two equal strips across them. Which looks longer? Swap them and measure."
+     "what": "Draw two lines that come together like railway tracks. Put two equal strips between them. Which looks longer? Swap them and measure."
     }
    ],
    "record": "Draw the tracks and the strips. Write which strip looked longer each time.",
    "context": "This is a quick activity to start the unit. You draw railway tracks and find that two equal strips of paper look different sizes on them.",
    "setup": [
     {
-     "art": "A notebook page with two straight lines that start 8 cm apart at the bottom and nearly meet at the top, like railway tracks.",
+     "art": "A notebook page with two straight lines that start 10 cm apart at the bottom and come to 4 cm apart at the top, like railway tracks.",
      "caption": "1. Draw two lines that come together at the top."
     },
     {
-     "art": "Two equal yellow paper strips lying across the tracks, one near the top and one near the bottom, the top one looking longer.",
-     "caption": "2. Put one strip near the top and one near the bottom."
+     "art": "Two equal yellow paper strips lying between the tracks, one near the top and one near the bottom, the top one looking longer.",
+     "caption": "2. Put one strip between the lines near the top and one near the bottom."
     },
     {
      "art": "A child's hands swapping the two strips, then measuring one with a ruler.",
@@ -925,7 +1011,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Near the bottom of the page, mark two dots 8 cm apart. 2. Near the top, mark two dots 1 cm apart. 3. Join each bottom dot to the top dot above it with a ruler.",
+     "do": "1. Near the bottom of the page, mark two dots 10 cm apart. 2. About 15 cm higher, in the middle above them, mark two dots 4 cm apart. 3. Join each bottom dot to the top dot above it, using a ruler.",
      "say": "Let's draw some railway tracks. The lines come closer together at the top, like tracks going far away.",
      "kid": "Draw two lines. They are far apart at the bottom. They are close at the top. Like railway tracks.",
      "context": "This is the Railway Track Trick. You draw tracks, put two equal paper strips on them, and see which looks longer."
@@ -933,7 +1019,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Lay one strip across the tracks near the top. 2. Lay the other across near the bottom. 3. Ask which looks longer, and why.",
+     "do": "1. Lay one strip sideways between the two lines near the top. 2. Lay the other strip sideways between the lines near the bottom. 3. Ask which looks longer, and why.",
      "say": "Which strip looks longer? Why do you think so?",
      "kid": "Which strip looks longer? Why do you think so?",
      "parent": "Most people see the strip near the top as longer. Wait for the answer before saying anything."
@@ -977,7 +1063,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1026,7 +1111,7 @@
      "kid": "Turn the page upside down. Which are bumps now? Which are dents?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi turns her page of shaded circles upside down. The bumps become dents. What changed?",
+      "q": "Lakshmi, a girl in Class 3, turns her page of shaded circles upside down. The bumps become dents. What changed?",
       "options": [
        "The pencil marks moved",
        "Her brain still guessed the light was coming from above, so it decided the surfaces faced the other way",
@@ -1097,10 +1182,10 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Draw a small bird in the middle of one side of the card. 2. Turn the card over from top to bottom, like turning a page upwards. 3. Draw a cage in the middle of this side, upside down to the bird.",
-     "say": "On one side we draw a bird. On the other side, a cage. The cage goes upside down, so it lines up when it spins.",
+     "do": "1. Draw a small bird in the middle of one side of the card. 2. Turn the card over from top to bottom, like turning a page upwards. 3. Draw a cage in the middle of this side, the right way up as you now see it.",
+     "say": "On one side we draw a bird. On the other side, a cage. The two drawings end up upside down to each other, so they line up when the card spins.",
      "kid": "Draw a bird on one side. Flip the card from top to bottom. Draw a cage on the back.",
-     "parent": "If the cage ends up the wrong way up, the bird will look upside down in the cage. Hold the card up to a window to check the two drawings line up.",
+     "parent": "Check before you go on. Hold the card up to a window and flip it from top to bottom. The cage should sit around the bird. If the bird looks upside down in the cage, redraw the cage.",
      "context": "This is Bird in the Cage. You make a picture toy where a bird and a cage on two sides of a card seem to join into one picture."
     },
     {
@@ -1148,7 +1233,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1205,7 +1289,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a piece of grey or brown paper, like an envelope, a paper bag or the side of a cardboard box",
+     "item": "a piece of grey or brown paper, like an envelope, a paper bag or the side of a cardboard box, about 8 cm across",
      "qty": 1
     },
     {
@@ -1221,7 +1305,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -1234,7 +1317,7 @@
    "setup": [
     {
      "art": "Two small brown squares cut from the same envelope, side by side.",
-     "caption": "1. Cut two squares, 3 cm across, from the same paper."
+     "caption": "1. Fold the paper and cut two squares, 3 cm across."
     },
     {
      "art": "One brown square on a black school bag and one on a white sheet, the one on black looking lighter.",
@@ -1249,7 +1332,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut two squares, each 3 cm across, from the same piece of grey or brown paper.",
+     "do": "Fold the grey or brown paper in half. Cut a square about 3 cm across, through both layers, to make two equal squares.",
      "say": "Both squares come from the same paper, so they must be the same colour. Let's see what your eyes say.",
      "kid": "Cut two squares from the same paper. They are the same colour. Remember that!",
      "adult": true,
@@ -1269,7 +1352,7 @@
      "do": "Move both squares onto the plain table, touching each other.",
      "say": "Now put them side by side. Are they different?",
      "kid": "Put them side by side. Do they look the same now?",
-     "parent": "Side by side, they look the same. The brain judged each square by comparing it with its background. This is called contrast."
+     "parent": "Side by side, they look the same. The brain judged each square by comparing it with its background. This is called contrast. If the squares looked the same on black and white too, the effect was too small for your eyes. That is also a result."
     }
    ]
   },
@@ -1296,7 +1379,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1308,11 +1390,11 @@
    "context": "This activity shows that the brain judges the size of a thing by comparing it with what is around it.",
    "setup": [
     {
-     "art": "Two bottle-cap circles drawn on paper about 15 cm apart.",
-     "caption": "1. Draw round a bottle cap twice, far apart."
+     "art": "Two bottle-cap circles drawn on a sideways sheet of paper about 14 cm apart.",
+     "caption": "1. Turn the paper sideways. Draw round a bottle cap twice, far apart."
     },
     {
-     "art": "Around the left circle, six big circles drawn round a tumbler. Around the right one, eight small coin circles. The right middle circle looks bigger.",
+     "art": "Around the left circle, five big circles drawn round a tumbler. Around the right one, eight small coin circles. The right middle circle looks bigger.",
      "caption": "2. Big circles round one, small circles round the other."
     },
     {
@@ -1324,7 +1406,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Draw round the bottle cap twice, about 15 cm apart. 2. Around the left one, draw round the tumbler 5 or 6 times, close to the cap circle. 3. Around the right one, draw round the coin 8 times, close to the cap circle.",
+     "do": "1. Turn a sheet of white paper sideways. Draw round the bottle cap twice, about 14 cm apart. 2. Around the left one, draw round the tumbler 5 times, close to the cap circle. 3. Around the right one, draw round the coin 8 times, close to the cap circle.",
      "say": "Both middle circles are drawn round the same bottle cap. Now we give them different neighbours.",
      "kid": "Draw round the same cap twice. Put big circles round one. Put small circles round the other.",
      "context": "This is The Ring of Circles. You find out whether the circles around a shape change how big it looks."
@@ -1372,7 +1454,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1419,7 +1500,8 @@
         "One dot moving across."
        ]
       }
-     ]
+     ],
+     "parent": "If you see two dots, flip faster, or draw the second dot closer to the first. The effect is stronger with a quick, steady flip. If it still does not work for you, that is a result too."
     },
     {
      "id": "s3",
@@ -1445,11 +1527,10 @@
     },
     {
      "item": "pencils, sketch pens and a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
-     "item": "the illusions you made in this unit: railway tracks, bumps and dents, the ring of circles, the bird in the cage, the arrow lines",
+     "item": "the drawings you made in this unit, to copy: railway tracks, bumps and dents, the ring of circles and the arrow lines",
      "qty": 1
     },
     {
@@ -1457,7 +1538,6 @@
      "qty": 1
     }
    ],
-   "safety": "Keep scissors and the sharp pencil with a grown-up.",
    "schedule": [
     {
      "day": 1,
@@ -1609,11 +1689,11 @@
    "id": "c2",
    "title": "Hold the Water Tank in Your Hand: a forced perspective photo",
    "mins": 25,
-   "problem": "Take a photo in which a small thing looks huge, or a big thing looks tiny. For example, a sister seems to hold the building's water tank between two fingers, or a toy elephant seems taller than Amma.",
+   "problem": "Take a photo in which a small thing looks huge, or a big thing looks tiny. For example, you seem to hold a far-away water tank between two fingers, or a toy elephant seems taller than a person standing behind it.",
    "constraints": [
     "Use a phone camera, with a grown-up.",
     "No editing the photo afterwards.",
-    "Stay on a safe floor: a corridor, a living room or a terrace with a grown-up, never near the edge."
+    "If you use a terrace, stay well away from the edge, with a grown-up."
    ],
    "materials": [
     "a phone with a camera",
@@ -1634,11 +1714,11 @@
    "context": "This is a design challenge. You use a camera and distance to make a photo where sizes look wrong.",
    "setup": [
     {
-     "art": "A girl standing far down a corridor and her brother holding his hand up near the camera, fingers pinched.",
+     "art": "A person standing far down a corridor, and another person holding a hand up near the camera, fingers pinched.",
      "caption": "1. Put one person far away and a hand close to the camera."
     },
     {
-     "art": "The photo on a phone screen: the girl seems tiny, held between the boy's fingers.",
+     "art": "The photo on a phone screen: the far person seems tiny, held between the near person's fingers.",
      "caption": "2. Line them up. Take the photo."
     }
    ],
@@ -1725,20 +1805,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why does a strip near the narrow end of railway-track drawings look longer?",
-   "opts": [
-    "The brain reads that end as far away, and makes far things look bigger",
-    "That strip is closer to your eyes",
-    "The pencil lines make it grow"
-   ],
-   "a": 0,
-   "why": "Lines that come together are a clue for 'far away'. The brain makes a far thing that still looks big seem even bigger.",
-   "outcome": 1,
-   "how": "a1"
-  },
-  {
-   "t": "mcq",
-   "p": "In the arrow-lines test, which result shows that the open fins fooled Nandini?",
+   "p": "In the arrow-lines test, Nandini, a girl in Class 3, copies each line by eye. Which result shows that the open fins fooled her?",
    "opts": [
     "Her plain copy was 10 cm and her open-fin copy was 12 cm",
     "Both her copies were 10 cm",
@@ -1801,19 +1868,6 @@
   },
   {
    "t": "mcq",
-   "p": "Rolling one pea between crossed fingertips often feels like two peas. What does this show?",
-   "opts": [
-    "Touch can be fooled too",
-    "Peas can split",
-    "Crossed fingers feel nothing"
-   ],
-   "a": 0,
-   "why": "The brain decides that the outer sides of two fingers touching a small thing must mean two things. This is an illusion of touch, called Aristotle's illusion.",
-   "outcome": 5,
-   "how": "e2"
-  },
-  {
-   "t": "mcq",
    "p": "A peacock pansy butterfly has big round eyespots on their wings. How can the eyespots help the butterfly?",
    "opts": [
     "They help the butterfly see better",
@@ -1826,19 +1880,6 @@
   },
   {
    "t": "mcq",
-   "p": "A circle shaded light at the top looks like a bump. You turn the page upside down. What happens?",
-   "opts": [
-    "It still looks like a bump",
-    "It looks like a dent",
-    "It disappears"
-   ],
-   "a": 1,
-   "why": "The brain expects light from above. Turned over, the light part is at the bottom, so the surface seems to face down: a dent.",
-   "outcome": 1,
-   "how": "a2"
-  },
-  {
-   "t": "mcq",
    "p": "Which is the best way to find out if two lines are really the same length?",
    "opts": [
     "Look very hard",
@@ -1848,6 +1889,18 @@
    "a": 2,
    "why": "Looking harder does not switch off an illusion, and other people are usually fooled the same way. A ruler cannot be fooled by fins or neighbours.",
    "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why do scientists like to study illusions?",
+   "opts": [
+    "They show the rules the brain uses to work out what we see",
+    "They prove that eyes do not work",
+    "Illusions are only for fun"
+   ],
+   "a": 0,
+   "why": "An illusion is a time when a clue leads the brain to a wrong answer. By finding which clue did it, scientists learn how the brain usually gets things right.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1892,17 +1945,6 @@
      ],
      "a": 1,
      "why": "The eyes catch light and send signals. The brain works out what the signals mean: sizes, shapes, distances and movement."
-    },
-    {
-     "t": "mcq",
-     "p": "A film at a cinema hall is really made of...",
-     "opts": [
-      "one long moving picture",
-      "many still pictures shown quickly",
-      "light that moves by itself"
-     ],
-     "a": 1,
-     "why": "A film is a row of still pictures called frames. Most cinema films show 24 every second. The brain joins them into movement."
     },
     {
      "t": "truefalse",
@@ -2059,29 +2101,6 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Two middle circles are drawn round the same bottle cap. One has big circles around it, one has small circles. What will most people say?",
-     "opts": [
-      "The one among small circles looks bigger",
-      "The one among big circles looks bigger",
-      "They look the same"
-     ],
-     "a": 0,
-     "why": "The brain compares a thing with its neighbours. Among small circles, the middle one looks big. This is the Ebbinghaus illusion.",
-     "how": "a6"
-    },
-    {
-     "t": "mcq",
-     "p": "Max Wertheimer flashed one line, then another line beside it, with a short gap. What did people see?",
-     "opts": [
-      "Two lines blurred together",
-      "One line moving across",
-      "Nothing at all"
-     ],
-     "a": 1,
-     "why": "People saw one line travelling between the two places, though nothing was there. Blurring would show two lines at once. This showed that the brain makes the movement, not a fading image on the eye."
-    },
-    {
-     "t": "mcq",
      "p": "Selvi, a girl in Class 3, cut two squares from the same brown envelope. She put one on a black bag and one on white paper. The square on black looked lighter. Why?",
      "opts": [
       "The black bag made the square lighter",
@@ -2091,13 +2110,6 @@
      "a": 1,
      "why": "Both squares are the same brown. The brain judges how light something is by comparing it with what is next to it. This is called contrast.",
      "how": "a5"
-    },
-    {
-     "t": "truefalse",
-     "p": "After you measure the arrow lines and know they are equal, the open-fin line stops looking longer.",
-     "a": false,
-     "why": "False. For almost everyone, the open-fin line still looks longer. Knowing changes what you believe, but it hardly changes what you see.",
-     "how": "e1"
     },
     {
      "t": "truefalse",
@@ -2201,33 +2213,17 @@
     },
     {
      "t": "write",
-     "p": "Your copy of the plain line was 10 cm. Your copy of the open-fin line was 12 cm. Why is it useful to have the plain line in the test?",
-     "lines": 3,
-     "a": "The plain line shows how well I copy lines anyway. I was right on the plain line, so the extra 2 cm on the open-fin line must come from the fins, not from bad copying.",
-     "why": "This is what makes the test fair: it separates the illusion from ordinary copying mistakes.",
-     "how": "e1"
-    },
-    {
-     "t": "write",
      "p": "Why do you think the brain uses clues that can sometimes be wrong, instead of measuring everything exactly?",
      "lines": 3,
      "a": "Clues are fast, and nearly always right. Measuring everything would take far too long to catch a ball, cross a road or run from danger. Getting fooled by a drawing now and then is a small price.",
      "why": "A strong answer says the clues are usually right and that speed matters for living."
     },
     {
-     "t": "write",
-     "p": "In the crossed-fingers test, one pea felt like two. Explain why, using the word 'brain'.",
-     "lines": 3,
-     "a": "Normally the outer sides of those two fingers never touch the same small thing. When both feel a pea, the brain decides there must be two peas.",
-     "why": "The answer should say the brain uses a map of where the fingers usually are.",
-     "how": "e2"
-    },
-    {
      "t": "perspective",
      "p": "Three people talk about the arrow lines.",
      "views": [
       {
-       "who": "Meenakshi, who did the test",
+       "who": "Meenakshi, a girl in Class 3, who did the test",
        "says": "My brain is fooled. The line is 10 cm, and the ruler proves it."
       },
       {
@@ -2250,6 +2246,60 @@
      "a": "The bump is light at the top and dark at the bottom. The dent is dark at the top and light at the bottom. The Sun is drawn above.",
      "why": "The brain expects light from above, so a surface lit at the top must face up.",
      "how": "a2"
+    },
+    {
+     "t": "mcq",
+     "p": "Isha, a girl in Class 4, spins a card with a bird on one side and a cage on the other. She sees the bird inside the cage. Why?",
+     "opts": [
+      "The two drawings change places so fast that the brain joins them into one",
+      "The spinning card draws a new bird inside the cage",
+      "The rubber bands hide the back of the card"
+     ],
+     "a": 0,
+     "why": "Each drawing is there for a moment, many times a second. The brain cannot keep them apart, so it joins them into one picture.",
+     "how": "a3"
+    },
+    {
+     "t": "fill",
+     "p": "The same grey paper looked different on black and on white, because the brain judges brightness by ____ it with what is around.",
+     "a": [
+      "comparing",
+      "contrasting"
+     ],
+     "why": "The brain compares a thing with its background. This is called contrast.",
+     "how": "a5"
+    },
+    {
+     "t": "truefalse",
+     "p": "If two people see an illusion differently, one of them must have bad eyesight.",
+     "a": false,
+     "why": "False. People use clues a little differently. Some children see the shaded circles flip between bump and dent, and others do not. Neither has bad eyesight."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the Illusion Museum in order.",
+     "items": [
+      "Count how many visitors were fooled",
+      "Draw 4 or 5 illusions neatly, each with a question card",
+      "Write down each visitor's answer",
+      "Let the visitor measure"
+     ],
+     "a": [
+      "Draw 4 or 5 illusions neatly, each with a question card",
+      "Write down each visitor's answer",
+      "Let the visitor measure",
+      "Count how many visitors were fooled"
+     ],
+     "why": "Make the exhibits first. Write the answer before the visitor measures, so the result is honest. Count at the end.",
+     "how": "p1"
+    },
+    {
+     "t": "write",
+     "p": "In a forced perspective photo, a small toy seems as big as a person. Explain how, using the word 'distance'.",
+     "lines": 3,
+     "a": "The toy is close to the camera and the person is far away. A far thing makes a small picture, and a near thing makes a big one, so they look the same size. The photo does not show the distance.",
+     "why": "A strong answer says that the photo hides how far away each thing is, so the brain has fewer clues.",
+     "how": "c2"
     }
    ]
   },
@@ -2261,7 +2311,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Amma copied the plain line at 9.5 cm, the arrowhead line at 8.5 cm and the open-fin line at 12 cm. How many centimetres did each set of fins change her copy, compared with her plain line?",
+     "p": "Anitha, a teacher, copied the plain line at 9.5 cm, the arrowhead line at 8.5 cm and the open-fin line at 12 cm. How many centimetres did each set of fins change her copy, compared with her plain line?",
      "lines": 3,
      "a": "Arrowheads made it 1 cm shorter: 9.5 − 8.5 = 1. Open fins made it 2.5 cm longer: 12 − 9.5 = 2.5.",
      "why": "Comparing with her own plain line, not with 10 cm, takes away her ordinary copying error.",
@@ -2269,7 +2319,7 @@
     },
     {
      "t": "write",
-     "p": "Kiran says, 'The arrow-lines illusion works because the fins look like corners of a room.' But it still works when the fins are small circles. What does this tell you about Kiran's idea?",
+     "p": "Kiran, a boy in Class 5, says, 'The arrow-lines illusion works because the fins look like corners of a room.' But it still works when the fins are small circles. What does this tell you about Kiran's idea?",
      "lines": 3,
      "a": "If the illusion still works with circles, which do not look like corners, then the corner idea cannot be the whole reason. Something else, like the brain judging the whole shape's length, must be part of it.",
      "why": "This is how scientists test an explanation: find a case where it predicts one thing and something else happens."
@@ -2312,21 +2362,21 @@
      "p": "Three people talk about trusting your eyes.",
      "views": [
       {
-       "who": "Lakshmi, a tailor",
+       "who": "Parvati, a tailor",
        "says": "I always measure cloth with a tape. My eyes are good, but cloth can fool me."
       },
       {
-       "who": "Revathi, a cricket coach",
+       "who": "Manjula, a cricket coach",
        "says": "A batter has no time to measure. She must trust her eyes and brain completely."
       },
       {
-       "who": "Farah, a scientist",
+       "who": "Ishita, a scientist",
        "says": "We trust our eyes first, then check the important things with a measurement or another person."
       }
      ],
      "ask": "Whose way would you use when choosing which of two dosas is bigger? Whose way when catching a ball? Explain.",
      "lines": 4,
-     "a": "A strong answer says different jobs need different ways. Catching a ball needs quick trust, like Revathi. Sharing dosas fairly could use a ruler, like Lakshmi. Farah's way joins both.",
+     "a": "A strong answer says different jobs need different ways. Catching a ball needs quick trust, like Manjula. Sharing dosas fairly could use a ruler, like Parvati. Ishita's way joins both.",
      "why": "The brain's clues are fast and usually right. Measuring is slow but cannot be fooled by fins or neighbours."
     },
     {
@@ -2351,18 +2401,6 @@
      "a": 1,
      "why": "The brain joins the two still dots into one moving dot. This is apparent motion, like Wertheimer's flashed lines.",
      "how": "a7"
-    },
-    {
-     "t": "mcq",
-     "p": "Which result would show that knowing about the arrow lines does NOT stop the illusion?",
-     "opts": [
-      "After knowing, people copy the open-fin line at exactly 10 cm",
-      "After knowing, people still copy it longer than 10 cm",
-      "People refuse to do the test again"
-     ],
-     "a": 1,
-     "why": "If knowing stopped the illusion, the copies would be about 10 cm. Copies still longer than 10 cm show that the seeing kept its own answer.",
-     "how": "e1"
     },
     {
      "t": "truefalse",
@@ -2437,6 +2475,14 @@
      "p": "Invent your own illusion using one of the clues: far away, neighbours or light from above. Draw it and write the question you would ask a visitor.",
      "a": "Any drawing that uses one clue correctly, with a clear question, for example two equal lines between two walls of a corridor drawn in perspective, with the question 'Which person is taller?'.",
      "why": "A strong answer names the clue and explains why it should fool people."
+    },
+    {
+     "t": "write",
+     "p": "In the Illusion Museum, one visitor looked at the answer on the back of a card before the others had answered. Why is this a problem for the test, and how would you fix it?",
+     "lines": 3,
+     "a": "That visitor might tell the others the answer, so their answers would not show what they really saw. Fix it by keeping the answers hidden and writing down each visitor's answer before they measure.",
+     "why": "A fair test needs every visitor to give an honest answer first.",
+     "how": "p1"
     }
    ]
   }
@@ -2453,7 +2499,7 @@
  ],
  "spotted": [
   {
-   "text": "Railway tracks or a long straight road that seem to meet far away.",
+   "text": "Railway tracks, a Mumbai local train line or a long straight road that seem to meet far away.",
    "art": "A straight railway line through green paddy fields in Kerala, the rails meeting at the horizon."
   },
   {
@@ -2477,7 +2523,7 @@
    "art": "An orange peacock pansy butterfly with round eyespots on a hibiscus leaf."
   },
   {
-   "text": "A rangoli or kolam drawn with shading, light on top and dark below, so that a flat drawing on the floor looks raised.",
+   "text": "A rangoli, kolam or alpana drawn with shading, light on top and dark below, so that a flat drawing on the floor looks raised.",
    "art": "A colourful rangoli on a doorstep in Chennai at Pongal, shaded so its petals seem to stand up from the floor."
   }
  ],
@@ -2515,28 +2561,12 @@
  ],
  "jokes": [
   {
-   "j": "Why did the arrow line go to the tailor?",
-   "a": "It wanted to look a bit longer for the wedding."
-  },
-  {
    "j": "What did the ruler say to the illusion?",
    "a": "Sorry, I don't do looks. I only do measures."
   },
   {
-   "j": "Why did the flip book never get tired?",
-   "a": "It was only pretending to move."
-  },
-  {
    "j": "What do you call a dent that turns into a bump?",
    "a": "Upside-downhill."
-  },
-  {
-   "j": "Why did the railway tracks never meet?",
-   "a": "They were too far apart to be friends, but from a distance they looked close."
-  },
-  {
-   "j": "Why was the bird happy on the spinning card?",
-   "a": "Every time it turned, there was a cage to keep it company."
   },
   {
    "j": "What did one equal line say to the other?",
@@ -2555,41 +2585,21 @@
    "a": "Twins."
   },
   {
-   "j": "Why did the grey square feel shy on the white paper?",
-   "a": "Next to all that white, it felt a little dark."
-  },
-  {
    "j": "What is a cartoon's favourite number?",
    "a": "24, because that's how many pictures a second it can flip."
-  },
-  {
-   "j": "Why did the brain bring a ruler to school?",
-   "a": "To check its own guesses."
   },
   {
    "j": "What did the eye say to the brain?",
    "a": "I just bring the light. You're the one who makes up the story."
   },
   {
-   "j": "Why did the small circle love its tiny neighbours?",
-   "a": "Next to them, it felt big."
-  },
-  {
-   "j": "Why did the bowerbird become a photographer?",
-   "a": "He was already an expert at forced perspective."
-  },
-  {
    "j": "How do you make a dot dance?",
    "a": "Draw it twice and flip the page."
-  },
-  {
-   "j": "Why did the hole in my hand not hurt?",
-   "a": "Because it was only in my brain."
   }
  ],
  "maths": [
   {
-   "problem": "The real line in the arrow test is 10 cm. Kavya copied the arrowhead line at 8.5 cm. How much too short was her copy?",
+   "problem": "The real line in the arrow test is 10 cm. Kavya, a girl of nine, copied the arrowhead line at 8.5 cm. How much too short was her copy?",
    "answer": "1.5 cm too short.",
    "explain": "The real line is 10 cm and Kavya's copy is 8.5 cm. 10 − 8.5 = 1.5. Check by adding: 8.5 + 1.5 = 10. So her copy was 1.5 cm too short.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2598,7 +2608,7 @@
    "why_maths": "Subtracting tells us exactly how much the illusion fooled someone, instead of just saying 'a bit'."
   },
   {
-   "problem": "Three people copied the open-fin line. Kavya drew 11.5 cm, Amma 12 cm and Paati 11 cm. The real line is 10 cm. Who was fooled the most, and who the least?",
+   "problem": "Three people copied the open-fin line: Kavya, a girl of nine, her mother Amma and her grandmother Paati. Kavya drew 11.5 cm, Amma 12 cm and Paati 11 cm. The real line is 10 cm. Who was fooled the most, and who the least?",
    "answer": "Amma was fooled the most (2 cm too long). Paati was fooled the least (1 cm too long).",
    "explain": "Take 10 cm away from each copy. Kavya: 11.5 − 10 = 1.5 cm. Amma: 12 − 10 = 2 cm. Paati: 11 − 10 = 1 cm. 2 is the biggest and 1 is the smallest. But check each person's plain line too. If Amma also copied the plain line too long, part of her 2 cm is ordinary copying.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2630,7 +2640,7 @@
    "why_maths": "Ordering the differences lets us compare people fairly, instead of guessing who was fooled more."
   },
   {
-   "problem": "In the crossed-fingers test, Revathi got 10 out of 10 right with fingers normal. With fingers crossed she got 6 out of 10 right. How many more did she get wrong with fingers crossed? What fraction of the crossed tries were wrong?",
+   "problem": "In the crossed-fingers test, Revathi, a girl in Class 3, got 10 out of 10 right with fingers normal. With fingers crossed she got 6 out of 10 right. How many more did she get wrong with fingers crossed? What fraction of the crossed tries were wrong?",
    "answer": "4 more wrong. 4 out of 10, or 4/10, of the crossed tries were wrong.",
    "explain": "Normal: 10 − 10 = 0 wrong. Crossed: 10 − 6 = 4 wrong. 4 − 0 = 4 more. 4 wrong out of 10 tries is the fraction 4/10, which is the same as 2/5.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -2723,21 +2733,7 @@
    "why": "A large science museum with hands-on galleries. Check whether a perception or fun-science gallery is open before you go."
   }
  ],
- "buy": [
-  {
-   "id": "b-ruler",
-   "item": "A clear 30 cm ruler with centimetre and millimetre marks",
-   "kind": "tool",
-   "why": "The arrow-lines test needs lines measured to half a centimetre. Most homes have one already. A school geometry box ruler also works.",
-   "url": "https://www.amazon.in/s?k=30+cm+transparent+ruler",
-   "used_in": [
-    "e1",
-    "a1",
-    "p1"
-   ],
-   "plan": "Used in many maths and science units for measuring."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "What do we call it when what we see is different from what is really there?",
@@ -2905,5 +2901,5 @@
   ],
   "art": "A child sitting cross-legged with a notebook showing the arrow lines and a ruler, with two soft thought bubbles above: one showing a longer line, one showing '10 = 10'."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. The arrow-lines test uses A4 paper cut into long strips, because a 10 cm line, its fins, a 4 cm gap and a copy of up to 13 cm need about 29 cm. Each person gets their own strips so nobody copies another person's line. The plain line is in the test so ordinary copying errors can be told apart from the illusion. The 'after knowing' round uses a fresh strip, because copying over an old line would give the answer away. Expect the open-fin copies to be 1 to 3 cm too long and the arrowhead copies 1 to 2 cm too short, with a lot of variation between people. The crossed-fingers test works best with a round dried pea or chana rolled gently. Some children feel one very wide pea instead of two, which still counts as the illusion. Bumps and dents need soft, gradual shading. The grey-squares effect is small, so look from a little distance. The thaumatrope needs the cage drawn upside down to the bird. The hole-in-the-hand trick needs both eyes open. The forced perspective photo needs a grown-up and a safe floor, never a terrace edge. The spine fits about 80 minutes."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. In the arrow-lines test, three test strips are drawn once and each person copies onto their own blank strips, because a 10 cm line, its fins, a gap and a copy of up to 13 cm need about 29 cm. The plain line is in the test so ordinary copying errors can be told apart from the illusion. The 'after knowing' copy also gives practice, which the test says. Expect the open-fin copies to be 1 to 3 cm too long and the arrowhead copies 1 to 2 cm too short, with a lot of variation between people. The crossed-fingers test works best with a round dried pea or chana rolled gently. Bumps and dents need soft, gradual shading. The grey-squares effect is small, and the activity says what to do if it does not show. The railway-track strips are 3 cm and fit between lines that are 4 cm apart at the top. The ring of circles needs a sideways sheet. The thaumatrope needs the cage drawn so that it sits around the bird when the card is flipped top to bottom. The hole-in-the-hand trick needs both eyes open. The two-dot flip needs a quick, steady flip. In the first game, every card is drawn by hand from the guide on its back before play."
 }

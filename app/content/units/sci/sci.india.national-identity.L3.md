@@ -3,7 +3,7 @@
 
 **Summary.** A country chooses a few things to stand for all its people. India's are the Tricolour flag, the Lion Capital emblem, the anthem Jana Gana Mana, the song Vande Mataram, the tiger, the peacock and the lotus. Real people designed or chose them, such as Pingali Venkayya from Andhra Pradesh, whose flag design grew into ours. To protect the tiger, India must know how many tigers there are. For about 30 years, forest staff counted tigers from their footprints, called pugmarks. In this unit you test whether one print can tell you who made it. You also check a famous claim: that hockey is India's official national game.
 
-**Intro.** *Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger made it?* The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder, and it starts with knowing how many there are. In this unit you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.
+**Intro.** *Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger walked there?* The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder. First you must know how many there are. In this unit you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.
 
 ## Learning outcomes
 0. I can describe India's flag exactly: saffron, white and green bands, a navy-blue Ashoka Chakra with 24 spokes, and a length to height of 3 to 2. I can say what each part stands for, and who first designed it.
@@ -22,7 +22,7 @@
 - **National anthem**: A national anthem is a country's official song. People stand still while it is sung. India's anthem is Jana Gana Mana, written by Rabindranath Tagore. *e.g.* Before a cricket match, both teams stand in a line while their anthems are played.
 - **Republic**: A republic is a country whose head is chosen, not born into the job like a king or queen. India became a republic on 26 January 1950. *e.g.* India's President is chosen by elected members of Parliament and the state assemblies, not born a ruler.
 - **Pugmark**: A pugmark is the footprint of a big cat, such as a tiger or a leopard. It shows four toe pads and one big pad behind them. *e.g.* A tiger walking on a muddy path by a stream leaves a line of pugmarks.
-- **Camera trap**: A camera trap is a camera fixed to a tree or a post in a forest. It takes a photo by itself whenever an animal walks past. *e.g.* A camera trap on a forest path in Nagarahole photographed a tigress at night.
+- **Camera trap**: A camera trap is a camera fixed to a tree or a post in a forest. Whenever an animal walks past, the camera takes a photo by itself. *e.g.* A camera trap on a forest path in Nagarahole photographed a tigress at night.
 - **Census**: A census is a careful count of how many people, or animals, there are in a place. India counts its wild tigers every four years. *e.g.* The tiger census of 2022 found at least 3,167 tigers in India.
 - **Endangered**: An animal is endangered when so few are left in the wild that they could disappear for ever. *e.g.* Tigers are endangered. Hunting them is a crime in India.
 - **Evidence**: Evidence is what you can see, measure or check that shows whether an idea is true. *e.g.* A photo of a tiger's stripes is evidence that this tiger lives in the forest.
@@ -45,8 +45,8 @@ Saffron stands for courage and giving things up for others. White stands for pea
 ### The emblem and the rupee symbol · *defined*
 **Definition:** India's emblem is the Lion Capital of Ashoka: four lions sitting back to back on a round base, with the words Satyamev Jayate written below. The rupee symbol, ₹, joins the Devanagari letter र (ra) and the Roman letter R.
 
-Emperor Ashoka had the Lion Capital carved in stone at Sarnath, near Varanasi, about 2,250 years ago. It sat on top of a tall pillar. It is now in the museum at Sarnath. From the front you can only see three of the four lions. The base has an elephant, a horse, a bull and a lion carved on it, with a wheel between each of them. India took it as its emblem on 26 January 1950. The words Satyamev Jayate mean 'truth alone wins'. The ₹ symbol is much newer. In 2010 the government held an open competition. The winner was D. Udaya Kumar, a young designer from Tamil Nadu. His symbol was chosen on 15 July 2010. The two lines at its top also look like an equals sign.
-- e.g. Look at any rupee note or coin. The Lion Capital is on it.
+Emperor Ashoka had the Lion Capital carved in stone at Sarnath, near Varanasi, about 2,250 years ago. It sat on top of a tall pillar. It is now in the museum at Sarnath. From the front you can only see three of the four lions. The round base has carvings of an elephant, a horse, a bull and a lion, with a wheel between each of them. India took it as its emblem on 26 January 1950. The words Satyamev Jayate mean 'truth alone wins'. The ₹ symbol is much newer. In 2010 the government held an open competition. The winner was D. Udaya Kumar, a young designer from Tamil Nadu. His symbol was chosen on 15 July 2010. The two lines at its top also look like an equals sign.
+- e.g. Look at any rupee note or coin. Every note and coin carries the Lion Capital.
 - e.g. A price tag in a Madurai shop says ₹ 40. The ₹ means rupees.
 - e.g. Passports and government letters have the emblem printed at the top.
 ### The national anthem and the national song · *defined*
@@ -71,7 +71,7 @@ A tiger's problem is food. Tigers cannot run fast for long, so they must creep v
 - e.g. A tiger photographed in tall dry grass is hard to spot, even for people.
 - e.g. Drops of water roll off a lotus leaf, or a colocasia (chembu) leaf, like silver balls.
 ### How India counts its tigers · *defined*
-**Definition:** Today India counts its tigers mainly with camera traps. Each tiger's stripe pattern is different from every other tiger's, and it stays the same all their life. So a photo of the stripes shows exactly which tiger walked past.
+**Definition:** Today India counts its tigers mainly with camera traps. Each tiger's stripe pattern is different from every other tiger's, and the pattern stays the same all their life. So a photo of the stripes shows exactly which tiger walked past.
 
 From the 1970s, forest staff counted tigers from pugmarks. They traced each print on glass or paper and decided which prints came from the same tiger. But a print changes with the ground and with how the tiger walks. In soft wet mud it spreads and looks bigger. In dry dust its edges crumble. A heavy tiger, or one running, presses deeper. So one tiger could be counted as two, and two tigers as one. In the early 1990s, the Indian scientist K. Ullas Karanth began using camera traps in Nagarahole, Karnataka. He recognised each tiger from their stripes. In 2005, scientists found that Sariska Tiger Reserve in Rajasthan had no tigers left at all, though the official records had still shown tigers there. After that, India changed how it counts. Since 2006, every count every four years uses camera traps and careful sums. The count in 2006 found about 1,411 tigers. The count in 2022 photographed at least 3,167. That is about three out of every four wild tigers in the world.
 - e.g. A camera trap photographs a tigress's left side. Two weeks later another camera, 5 km away, photographs the same stripe pattern. It is the same tigress.
@@ -84,11 +84,11 @@ Many books say hockey is India's national game. In 2012, a schoolgirl asked the 
 - e.g. Kabaddi grew from village games played across South Asia, including chadugudu in Tamil Nadu.
 - **People who say hockey:** Hockey gave India its greatest Olympic years, with 8 gold medals. Many books already call it the national game.
 - **People who say cricket:** Cricket is the game most Indians watch and play today, in every street and maidan.
-- **People who say kabaddi:** Kabaddi needs no bat, ball or field, and it grew from games children played in Indian villages.
+- **People who say kabaddi:** Kabaddi grew from village games children played across India, and needs no bat, ball or field.
 - **People who say none:** A country does not need a national game. Each person can love the sport they play.
 
 ## Mostly agreed
-- Every tiger has their own stripe pattern, and it stays the same all their life. *How we know:* Camera traps have photographed the same tigers again and again for many years, in Nagarahole and across India. Each one keeps the same stripes.
+- Every tiger has their own stripe pattern, which stays the same all their life. *How we know:* Camera traps have photographed the same tigers again and again for many years, in Nagarahole and across India. Each one keeps the same stripes.
 - The size and shape of a footprint change with the ground and with how the foot pressed. *How we know:* Anyone can test it with their own fist in dry and damp flour. Studies of tiger tracks in different mud showed the same thing.
 - India's flag is saffron, white and green, with a 24-spoke navy-blue Ashoka Chakra, and its length and height are in the ratio 3 to 2. *How we know:* This is written in the Flag Code of India, the official rules for the flag.
 - India's wild tigers have more than doubled in number since 2006. *How we know:* The national counts, using camera traps, found about 1,411 tigers in 2006 and at least 3,167 in 2022.
@@ -127,7 +127,7 @@ A tiger leaves thousands of prints in a life, and no two are quite the same. Wet
 - **Mundaka Upanishad 3.1.6, the line written under India's emblem:** Truth alone wins, not falsehood. (Satyameva jayate nanritam.) (For years the records said Sariska had tigers. Only careful checking, and finally searching for the tigers themselves, showed the truth: there were none. Because the truth was found, tigers could be brought back.)
 - **Thirukkural 423, by Thiruvalluvar, in Tamil:** Whatever you hear, from whoever says it, wisdom is to see the truth in it. (Many books and many people said hockey was the official national game. A schoolgirl did not just accept it. She asked the people who would know, and found it was not true.)
 - **Rabindranath Tagore, Gitanjali, poem 35 (1912):** Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit. (Counting tigers by pugmarks went on for about 30 years partly out of habit. The writer of our anthem hoped for an India where people keep testing old habits with clear reasons, as Karanth did with his cameras.)
-- Science (settled): Every tiger has their own stripe pattern, and it stays the same all their life. The left and right sides are different.
+- Science (settled): Every tiger has their own stripe pattern, which stays the same all their life. The left and right sides are different.
 - Science (settled): A footprint's size and shape depend on the ground, the animal's weight and how fast they moved, as well as the foot.
 - Science (open): Whether computers can learn to tell individual tigers apart from footprint photos well enough to count them is still being tested.
 - Other view, Some experienced forest trackers: Skilled trackers can read much more from pugmarks than size alone: the shape of the toes, the gap between steps, the age of a print. Camera traps are costly and cover only part of a forest. Pugmarks are still the best way to know where tigers have walked today, and where to put the cameras.
@@ -172,7 +172,7 @@ Shankar stopped laughing. He looked at the two tiger pugmarks again. 'So a tiger
 
 'Could,' said Aunt Revathi. 'We don't know yet. A print tells us a tiger walked here. It can't tell us for sure which tiger. For that we need something on the tiger that never changes, whatever the ground is like.'
 
-That evening she took Meenakshi to a tall jamun tree near the stream. A small grey box was strapped to the trunk at knee height. 'This is a camera trap,' said Aunt Revathi. 'When an animal walks past, it takes a photo by itself, day or night. There's another one across the path, so we get both sides.'
+That evening she took Meenakshi to a tall jamun tree near the stream. A small grey box was strapped to the trunk at knee height. 'This is a camera trap,' said Aunt Revathi. 'When an animal walks past, the camera takes a photo by itself, day or night. There's another one across the path, so we get both sides.'
 
 For four days, Meenakshi checked the cameras with her aunt every morning. They saw photos of a sambar deer, two wild pigs, a porcupine and a very surprised peacock. On the fifth morning, there was a tiger.
 
@@ -212,7 +212,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 ### g1 · Count the Tigers: prints or stripes? (20 min)
 - **rules:** Lay the 8 pugmark cards face up. Sort them into piles, one pile for each tiger you think made them. Bigger prints in one pile, smaller in another, or any way you choose.; Write how many tigers you counted from the pugmarks.; Now lay out the 10 camera-trap cards face up. Sort them by stripe pattern. Each pattern is one tiger.; Write how many tigers you counted from the stripes.; Turn all the cards over. The backs say which tiger really made each print and each photo. Which count was right?
 - **Printable cards: 8 pugmark cards (the back says which tiger really made the print):** Pugmark by the stream, in wet mud: 14 cm wide (back: Kaveri); Pugmark on the dusty path: 11 cm wide (back: Kaveri); Pugmark near the waterhole, in soft mud: 13 cm wide (back: Tunga); Pugmark on the dry road: 10 cm wide (back: Tunga); Pugmark on the sandy riverbank: 12 cm wide (back: Bhadra); Pugmark on hard dry ground: 9 cm wide (back: Bhadra); Pugmark in deep mud after rain: 15 cm wide (back: Sharavathi); Pugmark on the dusty path: 12 cm wide (back: Sharavathi)
-- **Printable cards: 10 camera-trap cards, all showing the left side (the back says which tiger):** Left side: a hook-shaped stripe, two short stripes above it (back: Kaveri); Left side: a hook-shaped stripe, two short stripes above it (back: Kaveri); Left side: a hook-shaped stripe, two short stripes above it (back: Kaveri); Left side: three long wavy stripes, one forked at the top (back: Tunga); Left side: three long wavy stripes, one forked at the top (back: Tunga); Left side: a ring-shaped stripe with a dot inside (back: Bhadra); Left side: a ring-shaped stripe with a dot inside (back: Bhadra); Left side: a ring-shaped stripe with a dot inside (back: Bhadra); Left side: a stripe shaped like the letter Y, and a broken one below (back: Sharavathi); Left side: a stripe shaped like the letter Y, and a broken one below (back: Sharavathi)
+- **Printable cards: 10 camera-trap cards, all showing the left side (the back says which tiger):** Photo by the stream, at night. Left side: a hook-shaped stripe, two short stripes above it (back: Kaveri); Photo on the temple path, at dawn. Left side: a hook-shaped stripe, two short stripes above it (back: Kaveri); Photo under the jamun tree, in the evening. Left side: a hook-shaped stripe, two short stripes above it (back: Kaveri); Photo by the stream, at night. Left side: three long wavy stripes, one forked at the top (back: Tunga); Photo on the temple path, at dawn. Left side: three long wavy stripes, one forked at the top (back: Tunga); Photo by the stream, at night. Left side: a ring-shaped stripe with a dot inside (back: Bhadra); Photo on the temple path, at dawn. Left side: a ring-shaped stripe with a dot inside (back: Bhadra); Photo under the jamun tree, in the evening. Left side: a ring-shaped stripe with a dot inside (back: Bhadra); Photo by the stream, at night. Left side: a stripe shaped like the letter Y, and a broken one below (back: Sharavathi); Photo on the temple path, at dawn. Left side: a stripe shaped like the letter Y, and a broken one below (back: Sharavathi)
 - **Printable score sheet: Count sheet:** Tigers counted from pugmarks: ____; Tigers counted from stripes: ____; Real number of tigers (from the backs): ____
 - **s1 (6 min)**  
   *Parent does:* 1. Lay out the 8 pugmark cards. 2. Your child sorts them into one pile per tiger. 3. Write the count.  
@@ -228,12 +228,12 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   *Parent does:* 1. Turn all the cards over. 2. Compare both counts with the real number. 3. Ask why the pugmark count went wrong.  
   *Parent says:* Turn them over. Which count was right? Why did the pugmarks fool us?  
   *Child mode:* Turn the cards over. Which count was right? Why?
-  - Check: Kaveri left a 14 cm print in wet mud and an 11 cm print on a dusty path. Why? → **Wet mud spreads under a paw, and dry dust does not**
+  - Check: A tigress called Kaveri left a 14 cm print in wet mud and an 11 cm print on a dusty path. Why? → **Wet mud spreads under a paw, and dry dust does not**
 ### g2 · Flag Rules: Right or Wrong? (10 min)
-- **rules:** Shuffle the cards and put them face down.; One player reads the top card aloud.; Everyone else says 'right' or 'wrong', and why.; Turn the card over to check. A correct answer with a reason scores 2 points. A correct answer without a reason scores 1.
-- **Printable cards: 12 situation cards (the answer is on the back):** The flag is flown with saffron on top. (back: Right); The flag is flown with green on top. (back: Wrong: it is upside down); A torn, faded flag is flown on the school roof. (back: Wrong: a damaged flag is replaced); After lowering the flag, Farhan folds it neatly and keeps it safe. (back: Right); Someone uses a flag as a tablecloth. (back: Wrong); The flag is flown halfway down the pole when a national leader dies. (back: Right: this is half mast); A paper flag from 15 August is left lying on the road. (back: Wrong: pick it up and keep it, or dispose of it with respect); Another flag is flown higher than India's flag, on the same pole. (back: Wrong); Everyone stands still and quiet while Jana Gana Mana is sung. (back: Right); Kavya flies a paper Tricolour at home on Republic Day. (back: Right: any citizen may fly the flag with respect); The flag touches the ground while it is being lowered. (back: Wrong: it should not touch the ground); A flag 30 cm long is made 20 cm high. (back: Right: 3 to 2)
+- **rules:** Shuffle the cards and put them face down in a pile.; Take turns to be the reader. The reader turns the top card, reads it aloud and keeps the back hidden.; The other players say 'right' or 'wrong', and why. With two players, the reader asks and the other answers; swap after every card.; The reader shows the back. A correct answer with a reason scores 2 points. A correct answer without a reason scores 1. A wrong answer scores 0.; When all 12 cards are used, add up the points. The highest score wins. If you are level, you both win.
+- **Printable cards: 12 situation cards (the answer is on the back):** The flag is flown with saffron on top. (back: Right); The flag is flown with green on top. (back: Wrong: it is upside down); A torn, faded flag is flown on the school roof. (back: Wrong: a damaged flag is replaced); After lowering the flag, a student folds it neatly and keeps it safe. (back: Right); Someone uses a flag as a tablecloth. (back: Wrong: the flag is never used as a cloth or a cover); The flag is flown halfway down the pole when a national leader dies. (back: Right: this is called half mast); A paper flag from 15 August is left lying on the road. (back: Wrong: pick it up and keep it, or dispose of it with respect); Another flag is flown higher than India's flag, on the same pole. (back: Wrong: no flag may fly higher than India's); Everyone stands still and quiet while Jana Gana Mana is sung. (back: Right); A family flies a paper Tricolour at home on Republic Day. (back: Right: any citizen may fly the flag with respect); The flag touches the ground while it is being lowered. (back: Wrong: it should not touch the ground); A flag 30 cm long is made 20 cm high. (back: Right: 3 to 2)
 - **s1 (8 min)**  
-  *Parent does:* 1. Shuffle the 12 cards. 2. Take turns reading one aloud. 3. Others say right or wrong, and why.  
+  *Parent does:* 1. Shuffle the 12 cards. 2. Take turns reading one aloud, and swap roles after every card. 3. The other player says right or wrong, and why. 4. The reader shows the back and gives points.  
   *Parent says:* Right or wrong? And tell me why.  
   *Child mode:* Read a card. Is it right or wrong? Say why.
 - **s2 (2 min)**  
@@ -245,17 +245,16 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 ### e1 · The Paw Print Test: does one hand always leave the same print? (35 min)
 - **question:** Does the same fist leave the same size of print every time, on dry and damp ground, pressed gently and pressed hard?
 - **predict:** Guess first. If you press the same fist into dry atta and into damp atta, gently and then hard, will all four prints be the same width? Why do you think so?
-- **fair test:** Use the same fist every time, and measure every print the same way, across the four finger marks at the widest part. Only the ground or the press changes. Make each print twice, because one try can be a fluke.
-- **safety:** Wash hands before you start, so the atta can still be cooked afterwards. Sweep up spilled flour, because a floury floor is slippery.
+- **fair test:** Use the same fist every time, and measure every print the same way, across the four finger marks at the widest part. Only the ground or the press changes. Press 'gently' and 'hard' the same way each time: gently is just resting the fist, hard is as hard as is comfortable. Make each print twice, because one try can be a fluke.
 - **record:** Fill in the results table. Draw one gentle print and one hard print, side by side, and write the widths under them.
 - **results table:** Ground | Press | Width, try 1 (cm) | Width, try 2 (cm) | Edges: sharp or crumbly?
 - **s1 (6 min)**  
-  *Parent does:* 1. Pour about 1 and a half cups of dry atta into the first plate. 2. Make it about 2 cm deep. 3. Smooth the top flat with the edge of the ruler.  
+  *Parent does:* 1. Pour about 3 cups of dry atta into the first plate. 2. Make it about 2 cm deep. 3. Smooth the top flat with the edge of the ruler.  
   *Parent says:* This plate is dry ground, like a dusty forest path in summer. Let's make it smooth and flat first.  
   *Child mode:* Wash your hands. Pour dry atta into the first plate. Smooth it flat with the ruler.
   - Note: Steel thalis with a rim work well. Keep the layer about 2 cm deep, so the fist does not hit the plate.
 - **s2 (6 min)**  
-  *Parent does:* 1. Put about 1 and a half cups of atta in a bowl. 2. Add water one tablespoon at a time, rubbing it in with your fingers. 3. Stop when a pinch squeezed in your fingers holds together, like damp sand. 4. Spread it in the second plate, press it down lightly and smooth the top.  
+  *Parent does:* 1. Put about 3 cups of atta in a bowl. 2. Add water one tablespoon at a time, rubbing it in with your fingers. 3. Stop when a pinch squeezed in your fingers holds together, like damp sand. 4. Spread it in the second plate, press it down lightly and smooth the top.  
   *Parent says:* This plate is damp ground, like mud by a stream. It should be crumbly, not a dough.  
   *Child mode:* Add water to the atta, one spoon at a time. Rub it in. Stop when a pinch holds together. Spread it in the second plate.
   - Note: About 4 to 5 tablespoons of water is usually enough. If it turns into a sticky dough, add a handful of dry atta and rub again. Damp, crumbly atta holds a sharp print. Use it for chapatis or puris the same day.
@@ -277,10 +276,10 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Note: Usually the hard prints are 1 or 2 cm wider than the gentle ones. Damp prints have sharp edges, and you can see the finger joints. Dry prints are blurred. If two widths are the same, that is a real result too. Ask your child what else looked different.
   - Check: Your hard press left a wider print than your gentle press. Why? → **The fist went deeper, so more of it touched the atta**
 - **s6 (5 min)**  
-  *Parent does:* 1. Your child looks away. 2. You, or another family member with a similar-sized hand, each make one print in the damp atta. 3. Your child turns round and guesses whose print is whose.  
-  *Parent says:* Now let's be forest guards. Close your eyes. Two of us will each make one print. Can you tell whose is whose?  
-  *Child mode:* Close your eyes. Two people make prints. Open your eyes. Can you tell whose is whose?
-  - Note: Choose two people with hands of about the same size. If one press is hard and the other gentle, the smaller hand can leave the bigger print. Ask how sure your child feels, and why.
+  *Parent does:* 1. Your child looks away while you make one print in the damp atta, pressing as hard as you like. 2. Smooth a fresh patch. You look away while your child makes one print. 3. Look at the two prints together and guess whose is whose. Say how sure you are.  
+  *Parent says:* Now let's be forest guards. I will make one print while you look away, and then you make one while I look away. Can we tell whose is whose?  
+  *Child mode:* Look away while your parent makes a print. Then your parent looks away while you make one. Can you tell whose is whose?
+  - Note: Others at home can join in, each making one print. If one press is hard and the other gentle, the smaller hand can leave the bigger print. Ask how sure your child feels, and why.
 - **s7 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -290,13 +289,12 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **question:** The full anthem should take about 52 seconds. Does each person in the family sing it in the same time? Do we get closer when we sing together?
 - **predict:** Guess first. Will everyone in your family take the same time to sing the anthem? Will singing together change it? Why do you think so?
 - **fair test:** Everyone sings the full anthem, all the words, from the first word to the last 'Jaya he'. The same person times every try on the same phone or clock. Each person sings twice.
-- **safety:** No safety worries. Stand still and straight while you sing, as you would at school.
 - **record:** Fill in the table. Circle the time closest to 52 seconds.
 - **results table:** Who sang | Try 1 (seconds) | Try 2 (seconds) | Difference from 52 seconds
 - **s1 (3 min)**  
-  *Parent does:* 1. Read the words of the anthem together once, slowly. 2. Tell your child the full anthem should take about 52 seconds.  
+  *Parent does:* 1. Say the words of the anthem together once, slowly, so everyone knows them. 2. Tell your child the full anthem should take about 52 seconds.  
   *Parent says:* The rules say our anthem takes about 52 seconds. Will each of us take that long? Why do you think so?  
-  *Child mode:* Read the anthem words once. It should take about 52 seconds. Will everyone take the same time? Why?
+  *Child mode:* Say the anthem words once. Singing it should take about 52 seconds. Will everyone take the same time? Why?
   - Ask: Will everyone take the same time? Why do you think so? (good: Yes, because the words are the same.; No, some people sing faster.; Singing together might help us keep the same speed.)
 - **s2 (8 min)**  
   *Parent does:* 1. Each person stands still and sings the full anthem alone. 2. Your child starts the stopwatch on the first word and stops it on the last 'Jaya he'. 3. Write the time. 4. Each person sings twice.  
@@ -308,16 +306,15 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   *Parent says:* Now let's all sing together. Listen to each other as you sing.  
   *Child mode:* Now everyone sings together. Time it twice.
   - Note: Singing together often brings the times closer to each other, because people listen and adjust. It does not always bring them closer to 52.
-  - Check: Kavya sang the anthem in 60 seconds. Her grandmother sang it in 48 seconds. Who was closer to 52 seconds? → **Her grandmother, by 4 seconds**
+  - Check: Why do the times often come closer to each other when everyone sings together? → **People listen to each other and match their speed**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think now? What did the clock show? And why do you think people sing at different speeds?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: people sing the same song at different speeds. What I saw: Amma took 56 seconds and I took 49. Together we took 53. Why: each person has their own pace. When we sing together, we listen and keep the same speed. That is why the official anthem has a fixed tune and timing, so a whole school can sing it as one.
+  - Note: A good answer sounds like this. What I think: people sing the same song at different speeds. What I saw: my parent took 56 seconds and I took 49. Together we took 53. Why: each person has their own pace. When we sing together, we listen and keep the same speed. That is why the official anthem has a fixed tune and timing, so a whole school can sing it as one.
 
 ## Activities
 ### a1 · Make an Exact Tricolour, with a 24-Spoke Wheel (15 min)
-- **safety:** A grown-up helps with the scissors.
 - **record:** Write the length, the height and the number of spokes on the back of your flag.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a rectangle 30 cm long and 20 cm high. 2. Mark the height into three equal bands, each about 6.7 cm. 3. Colour the top band saffron and the bottom band green. Leave the middle white.  
@@ -337,7 +334,6 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   *Child mode:* Glue the wheel in the middle. Say what each colour stands for. Hang it with saffron on top.
   - Ask: What do the colours and the wheel stand for? (good: Saffron for courage and giving to others.; White for peace and truth.; Green for the land and growth.; The wheel says keep moving forward.)
 ### a2 · The Emblem Hunt: find the lions on our money (10 min)
-- **safety:** Wash hands after handling money.
 - **record:** Make a tally of where you found the lions, the words Satyamev Jayate and the ₹ symbol.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay out the coins and notes. 2. Your child finds the Lion Capital on each. 3. Under the lions on a note, find the words Satyamev Jayate. 4. Find the ₹ symbol.  
@@ -348,12 +344,11 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   *Parent does:* 1. Turn a note over. 2. Find the panel where the value is written in many languages. 3. Count the languages and find any your family can read.  
   *Parent says:* On the back of a note, the amount is written in many Indian languages. How many can you count? Can anyone here read one?  
   *Child mode:* Turn the note over. Find the box of many languages. Count them. Can anyone read one?
-  - Note: The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali and Marathi. Hindi and English are on the front. Ask why the government prints so many.
+  - Note: The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Odia and Assamese. Hindi and English are on the front. Ask why the government prints so many.
 ### a3 · The Fact Check: is hockey our official national game? (15 min)
-- **safety:** Ask only people your family knows, with a grown-up nearby.
 - **record:** Fill in the table. Count how many said hockey, and how many knew it is not official.
 - **s1 (8 min)**  
-  *Parent does:* 1. Your child asks 5 family members or neighbours two questions. 2. 'What is India's national game?' 3. 'Is it official, or not?' 4. Write each answer and whether they felt sure.  
+  *Parent does:* 1. Your child asks 5 people you know, such as relatives or neighbours, by phone or in person two questions. 2. 'What is India's national game?' 3. 'Is it official, or not?' 4. Write each answer and whether they felt sure.  
   *Parent says:* Let's ask five people what India's national game is. Write down how sure each one feels.  
   *Child mode:* Ask 5 people. What is India's national game? Is it official? Write their answers.
 - **s2 (7 min)**  
@@ -363,7 +358,6 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Ask: Why do so many people believe hockey is the official national game? (good: It is written in many books.; India won many gold medals in hockey.; People repeat what they heard without checking.)
   - Check: What is the best way to find out if a fact is true? → **Check with the people or records that would really know**
 ### a4 · Map the Anthem (15 min)
-- **safety:** No safety worries.
 - **record:** Mark each place on the map with a star, and write its name from the anthem beside it.
 - **s1 (10 min)**  
   *Parent does:* 1. Read the anthem's places aloud: Punjab, Sindhu, Gujarat, Maratha, Dravida, Utkala, Banga. 2. Then Vindhya, Himachala, Yamuna, Ganga and the sea. 3. Your child finds and marks each one.  
@@ -388,7 +382,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Note: Good surprises: the tiger's orange looks green to a deer. Peacock colours come from tiny ridges, not paint. India has no official national game.
   - Wait: Open the museum on another day.
 - **s2 (20 min)**  
-  *Parent does:* 1. Family members are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.  
+  *Parent does:* 1. Family members or friends are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.  
   *Parent says:* Welcome to the museum! Please tell us about this flag. How do scientists know which tiger is which?  
   *Child mode:* Welcome your visitors. Tell them about each thing. Answer their questions.
   - Ask: How do scientists tell one tiger from another? (good: By their stripes, photographed by camera traps.; Not by pugmarks, because one tiger leaves different prints.)
@@ -399,7 +393,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **your turn:** Now design your own flag. Draw it, test it on three people, and change it until all three can draw it from memory.
 - **constraints:** Use at most three colours.; Your flag must be 3 to 2, like India's: for example 15 cm by 10 cm.; Test it: show it for 10 seconds, hide it, and ask someone to draw it.
 - **general:** Use big blocks of colour, like bands or a cross.; Put a light colour next to a dark one, so the parts stand out from far away.; Use one simple shape in the middle, like a circle or a star.
-- **creative:** Use a shape that means something to your building, like the kolam drawn at your door every morning.; Make each band stand for something real, the way saffron, white and green do.; Choose colours from things around you: the green of the neem tree in your street, the blue of the sea in Chennai.
+- **creative:** Use a shape that means something to your building, like a kolam or rangoli, if you have one at your door.; Make each band stand for something real, the way saffron, white and green do.; Choose colours from things around you: a tree in your street, the sea or a river nearby, the paint on your building.
 - **s1 (10 min)**  
   *Parent does:* 1. Look at India's flag together. 2. Ask why it is easy to remember. 3. Your child draws three quick ideas for their own flag.  
   *Parent says:* What makes our flag easy to remember? Let's draw three quick ideas for your own flag.  
@@ -409,10 +403,10 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   *Parent says:* Pick your best idea. Draw it neatly, 15 cm long and 10 cm high.  
   *Child mode:* Pick your best one. Draw it 15 cm long and 10 cm high. Colour it.
 - **s3 (10 min)**  
-  *Parent does:* 1. Show the flag to someone for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory. 4. Compare. Change anything they got wrong, and test again.  
+  *Parent does:* 1. Show the flag to one person for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory. 4. Compare. Change anything they got wrong, and test again with two more people.  
   *Parent says:* Let's test it. Did they remember every part? Which part did they forget? How could you make it simpler?  
   *Child mode:* Show your flag for 10 seconds. Hide it. Can they draw it? What did they forget?
-  - Check: Lakshmi's flag has eight colours and tiny writing. Her friend can't draw it from memory. What would help most? → **Use fewer colours and bigger shapes**
+  - Check: Deepa, a girl in Class 4, designs a flag with eight colours and tiny writing. Her friend can't draw it from memory. What would help most? → **Use fewer colours and bigger shapes**
 
 ## Worksheets
 ### Our Flag, Our Tigers (core) (core, 15 questions)
@@ -423,7 +417,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
    **Answer:** Saffron → Courage and giving things up for others; White → Peace and truth; Green → The land, growth and plenty; Ashoka Chakra → Keep moving forward. *Why:* These are the meanings given for the flag's parts. A strong answer could also say which band is on top: saffron.
 3. (fill) The Ashoka Chakra in the middle of the flag has ____ spokes.  
    **Answer:** ['24', 'twenty-four']. *Why:* 24 spokes. The folding activity shows why: half, three, half, half gives 2 × 3 × 2 × 2 = 24.
-4. (truefalse) Meera says the flag should be flown with green on top on Republic Day. Is she right?  
+4. (truefalse) Bhaswati, a girl in Class 3 in Kolkata, says the flag should be flown with green on top on Republic Day. Is she right?  
    **Answer:** False. *Why:* False. Saffron is always on top, every day. A flag with green on top is upside down.
 5. (mcq) Who wrote India's national anthem, Jana Gana Mana?  
    Options: Bankim Chandra Chattopadhyay / Rabindranath Tagore / Pingali Venkayya / Mahatma Gandhi  
@@ -436,13 +430,13 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
    Options: Two different tigers walked there / One big tiger and one cub walked there / At least one tiger walked there / The big tiger is older  
    **Answer:** At least one tiger walked there. *Why:* The same tiger can leave a big print in wet mud and a smaller one on dry ground. So the prints only show that at least one tiger walked there. Choosing 'two tigers' is the mistake the old counts made.
 9. (fill) Today, scientists tell one tiger from another by their ____, photographed by camera traps.  
-   **Answer:** ['stripes', 'stripe pattern']. *Why:* Every tiger has their own stripe pattern, and it stays the same all their life.
+   **Answer:** ['stripes', 'stripe pattern']. *Why:* Every tiger has their own stripe pattern, which stays the same all their life.
 10. (draw) Draw two fist prints in damp atta: one from a gentle press and one from a hard press. Write how wide each was.  
    **Answer:** Two prints, the hard one wider, with widths written below, for example 5 cm and 7 cm.. *Why:* A strong drawing shows the hard print wider and gives real numbers from the test.
 11. (truefalse) Hockey has been officially declared India's national game.  
    **Answer:** False. *Why:* False. In 2012 the sports ministry said no sport has been declared India's national game. Hockey is often called the national game because of its 8 Olympic gold medals.
 12. (sort) Sort these into national symbols of India and things that are not official symbols.  
-   **Answer:** the tiger → Official national symbol; the peacock → Official national symbol; Jana Gana Mana → Official national symbol; the Lion Capital → Official national symbol; cricket → Not an official symbol; hockey → Not an official symbol; the elephant as national animal → Not an official symbol. *Why:* The tiger, peacock, anthem and Lion Capital are official. No sport is official. The elephant is the national heritage animal, but the national animal is the tiger.
+   **Answer:** the tiger → Official national symbol; the peacock → Official national symbol; Jana Gana Mana → Official national symbol; the Lion Capital → Official national symbol; cricket → Not an official symbol; hockey → Not an official symbol; the lion as India's national animal today → Not an official symbol. *Why:* The tiger, peacock, anthem and Lion Capital are official. No sport is official. The lion was the national animal until 1973. Today the national animal is the tiger.
 13. (label) Label the flag: saffron band, white band, green band, Ashoka Chakra.  
    **Answer:** Saffron at the top, white in the middle, green at the bottom, the blue wheel in the middle of the white band.. *Why:* A strong answer puts saffron on top and the wheel in the centre of the white band.
 14. (write) The tiger is India's national animal. Write how a tiger's stripes help the tiger in their own life.  
@@ -450,7 +444,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 15. (perspective) Two friends in Madurai argue about pugmarks.  
    **Answer:** A strong answer uses the test: one fist left prints of different widths, so prints alone can't count tigers. It also gives Selvi her due: a print still shows that a tiger walked there, which way and how recently. Trackers use them for that today.. *Why:* Both have a point. Pugmarks are poor for telling tigers apart, and good for knowing where they go.
 ### Prints, Stripes and Songs (stretch) (stretch, 15 questions)
-1. (write) Revathi has two prints from her Paw Print Test: 6 cm in damp atta and 6 cm in dry atta. Her brother says this proves the ground makes no difference. What would you tell him?  
+1. (write) Hema has two prints from her Paw Print Test: 6 cm in damp atta and 6 cm in dry atta. Her brother says this proves the ground makes no difference. What would you tell him?  
    **Answer:** One pair of prints can be a fluke. She should press each several times, the same way, and also look at the edges: dry prints are crumbly and blurred. The ground can change the shape and edges even when the width is close.. *Why:* A strong answer asks for more tries before deciding, and looks at more than one thing about the print.
 2. (mcq) A camera trap photographs a tiger's left side on Monday. Another camera photographs a tiger's right side on Tuesday. Can the scientist be sure it is the same tiger?  
    Options: Yes, all tigers look alike / Yes, if the prints match / No, because the left and right sides have different stripes / No, because cameras can't photograph stripes  
@@ -473,9 +467,9 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
    **Answer:** Any choice with a clear reason is good. A strong answer also knows that today no sport is official, and gives a fair point for another view.. *Why:* There is no right answer here, because no game has been declared. The question asks you to argue with reasons.
 10. (write) A peacock's long train makes it harder for him to fly away from danger. So why do peacocks have such long trains?  
    **Answer:** Peahens choose which male they mate with, and males show their trains to be chosen. A male who is chosen has young, even if the train is heavy to carry.. *Why:* A strong answer starts from the peacock's own problem: being chosen by a peahen.
-11. (odd) Which of these is the odd one out?  
-   Options: Tiger / Peacock / Lotus / Hockey  
-   **Answer:** 3. *Why:* The tiger, peacock and lotus are listed as India's national animal, bird and flower. Hockey has never been officially declared the national game.
+11. (odd) Which of these does NOT help a tiger stay hidden while creeping up on a deer?  
+   Options: Stripes that break up the tiger's shape / Creeping slowly and low / An orange coat that looks green to a deer / Roaring loudly  
+   **Answer:** 3. *Why:* Stripes, creeping and a coat that looks green to a deer all help the tiger get close without being seen. A loud roar would warn the deer.
 12. (count) Count the places named in this line of the anthem: 'Punjaba Sindhu Gujarata Maratha Dravida Utkala Banga'.  
    **Answer:** 7. *Why:* Punjab, Sindh, Gujarat, the Maratha land, the Dravida south, Utkala (Odisha) and Banga (Bengal): 7 places.
 13. (draw) Draw how a camera trap is set up on a forest path, so that it photographs both sides of a tiger.  
@@ -491,14 +485,14 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
    **Answer:** A strong answer says the scientist is right about telling tigers apart, using the test's different prints from one fist. It also gives the officer a fair point: cameras cost money and cover only part of a forest, and trackers still find where to put them by reading pugmarks.. *Why:* Both sides had real points. India chose camera traps for counting, while trackers still read pugmarks.
 3. (write) Many people say 'hockey is our national game'. Write two things you could do to check whether a claim like this is true.  
    **Answer:** Ask the people who would really decide it, such as the government ministry. Look for an official record, such as a law or a notice. Don't just count how many people say it.. *Why:* A strong answer goes to the source that would know, not to how sure or how many people are.
-4. (mcq) Tara, a girl in Class 3, says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with her thinking?  
+4. (mcq) Mitali, a girl in Class 3 in Guwahati, says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with her thinking?  
    Options: Nothing, there are three / The fourth lion is hidden behind, because they sit back to back / There are five lions / The emblem has no lions  
    **Answer:** The fourth lion is hidden behind, because they sit back to back. *Why:* The Lion Capital has four lions sitting back to back. From the front you see three. What you see from one side isn't always all there is, which is also why camera traps photograph both sides of a tiger.
 5. (write) The tiger does not know they are India's national animal. Write how being chosen as a national animal has changed life for real tigers.  
    **Answer:** When the tiger became the national animal in 1973, Project Tiger began. Tiger reserves were made, hunting was banned, and tigers are counted every four years. Their numbers have more than doubled since 2006.. *Why:* A strong answer links the symbol to real actions that changed tigers' lives.
 6. (truefalse) The same person always leaves exactly the same footprint, so footprints can always tell you who walked past.  
    **Answer:** False. *Why:* False. Your own fist left prints of different sizes in the Paw Print Test, depending on the press and the ground.
-7. (mcq) In the Anthem Clock, Mani's family sang alone in 47, 55 and 61 seconds, and together in 53 seconds. What does this best show?  
+7. (mcq) In the Anthem Clock, a family timed themselves. Alone they sang in 47, 55 and 61 seconds, and together in 53 seconds. What does this best show?  
    Options: Everyone sings at the same speed / Singing together brings people to one speed / The anthem is too long / Clocks are wrong  
    **Answer:** Singing together brings people to one speed. *Why:* Alone, the times spread from 47 to 61 seconds. Together, they sang as one, in 53. When people sing together, they listen and match each other's speed.
 8. (fill) India's flag was first designed by ____ ____, a teacher from Andhra Pradesh.  
@@ -528,9 +522,9 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 1. (mcq) Which colour is at the top of India's flag?  
    Options: Green / White / Saffron / Blue  
    **Answer:** Saffron. *Why:* Saffron is always at the top. Green at the top means the flag is upside down.
-2. (mcq) Lalitha draws a flag 15 cm long. How high should it be, to be 3 to 2?  
-   Options: 5 cm / 10 cm / 15 cm / 20 cm  
-   **Answer:** 10 cm. *Why:* 15 cm is 3 fives, so the height is 2 fives, 10 cm.
+2. (mcq) Lalitha, a girl in Class 3, draws a flag 18 cm high. How long should it be, to be 3 to 2?  
+   Options: 9 cm / 12 cm / 27 cm / 36 cm  
+   **Answer:** 27 cm. *Why:* 18 cm is 2 nines, so the length is 3 nines, 27 cm.
 3. (mcq) Who first designed the flag that India's flag grew from?  
    Options: Pingali Venkayya / Rabindranath Tagore / D. Udaya Kumar / Dhyan Chand  
    **Answer:** Pingali Venkayya. *Why:* Pingali Venkayya, a teacher from Andhra Pradesh, showed his design to Gandhi in 1921. Tagore wrote the anthem, Udaya Kumar designed the ₹ symbol and Dhyan Chand was a hockey player.
@@ -546,7 +540,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 7. (mcq) Who wrote Vande Mataram, the national song?  
    Options: Rabindranath Tagore / Bankim Chandra Chattopadhyay / Mahatma Gandhi / Pingali Venkayya  
    **Answer:** Bankim Chandra Chattopadhyay. *Why:* Bankim Chandra Chattopadhyay wrote Vande Mataram and put it in his novel Anandamath in 1882. Tagore wrote the anthem.
-8. (mcq) Nila presses her fist into damp atta, first gently, then hard. What will she find?  
+8. (mcq) Nila, a girl in Class 3, presses her fist into damp atta, first gently, then hard. What will she find?  
    Options: Both prints are the same width / The hard print is wider / The gentle print is wider / No print at all  
    **Answer:** The hard print is wider. *Why:* Pressing harder pushes the rounded fist deeper, so more of it touches the atta and the print is wider.
 9. (mcq) Why are prints in dry atta harder to measure than prints in damp atta?  
@@ -576,7 +570,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 ## Spotted around us
 - The Lion Capital and Satyamev Jayate on every rupee note.
 - Flags on building terraces and autorickshaws on 15 August and 26 January.
-- Peacock patterns woven into Kanchipuram silk saris and painted on temple walls.
+- Peacock patterns woven into Kanchipuram and Paithani silk saris and painted on temple walls.
 - Lotus carvings in temples, and the lotus held by Lakshmi in pictures.
 - Pugmarks in the mud at Bandipur or Nagarahole, on a forest safari in Karnataka.
 - The ₹ symbol on a price board at the vegetable market.
@@ -599,27 +593,24 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - Is something true because many people say it? How would you check?
 
 ## Jokes
-- Why did the tiger refuse to play hide and seek? *Because he was always spotted. Wait, no, striped!*
 - What does a tiger use to take a selfie? *A camera trap!*
 - Why did the flag never get bored? *Because it was always waving at people.*
 - What do you call a peacock who tells jokes? *A real show-off.*
 - Why did the pugmark go to school? *To make a good impression.*
-- How many spokes does a lazy Ashoka Chakra have? *Still 24. Rules are rules!*
 - Why did the lotus never need a bath? *Because water just rolls off their back.*
 - What did the camera trap say to the tiger? *Smile! Show me your left side.*
-- Why was the anthem never late? *Because it always finishes in 52 seconds.*
 - What did the forest guard say to the two pugmarks? *You two look different, but I think you're the same cat!*
 - Why did the rupee symbol feel so balanced? *Because it has an equals sign on top.*
 - What is a tiger's favourite day of the week? *Chewsday.*
 
 ## Connected maths
-- A flag must be 3 parts long for every 2 parts high. Revathi makes a flag 30 cm long. How high must it be? Her brother makes one 60 cm long. How high must his be? **Revathi's: 20 cm. Her brother's: 40 cm.**. 30 cm is 3 groups of 10 cm, so the height is 2 groups of 10 cm, which is 20 cm. 60 cm is 3 groups of 20 cm, so the height is 2 groups of 20 cm, which is 40 cm. Check: a flag twice as long is twice as high. (queues `math.multiplication.equal-groups.L3`)
+- A flag must be 3 parts long for every 2 parts high. Hema makes a flag 30 cm long. How high must it be? Her brother makes one 60 cm long. How high must his be? **Hema's: 20 cm. Her brother's: 40 cm.**. 30 cm is 3 groups of 10 cm, so the height is 2 groups of 10 cm, which is 20 cm. 60 cm is 3 groups of 20 cm, so the height is 2 groups of 20 cm, which is 40 cm. Check: a flag twice as long is twice as high. (queues `math.multiplication.equal-groups.L3`)
 - In the Paw Print Test, Divya's gentle press in damp atta was 5 cm wide. Her hard press was 7 cm wide. Her mother's gentle press was 6 cm wide. Divya says, 'The 7 cm print must be my mother's, because it is the biggest.' Is she right? **No. The 7 cm print was Divya's own hard press.**. Divya's own prints were 5 cm and 7 cm, a difference of 2 cm. Her mother's gentle print was 6 cm, which is in between. So the biggest print came from the smaller hand, pressed hard. Size alone can't tell you whose print it is. (queues `math.number-sense.comparing-ordering.L3`)
 - India's tiger count found about 1,411 tigers in 2006 and at least 3,167 in 2022. Did the number of tigers more than double? **Yes. Double 1,411 is 2,822, and 3,167 is more than that.**. To double a number, add it to itself. 1,411 + 1,411 = 2,822. 3,167 is bigger than 2,822 by 345. So the tigers more than doubled in those 16 years. (queues `math.addition-subtraction.written-methods.L3`)
 - In the Anthem Clock, Arjun sang Jana Gana Mana in 58 seconds. His grandmother sang it in 50 seconds. Who was closer to 52 seconds, and by how much? **His grandmother, by 4 seconds.**. Arjun was 58 minus 52, which is 6 seconds too slow. His grandmother was 52 minus 50, which is 2 seconds too fast. 2 is less than 6, so she was closer, by 6 minus 2, which is 4 seconds. (queues `math.time.duration.L3`)
 
 ## Song
-One Flag, Many Voices (sci.india.L3): Topic-level song for India: our country L3
+One Flag, Many Voices (sci.india.L3): A song about India's symbols and the people who share them
 
 ## Links
 - [National Tiger Conservation Authority](https://ntca.gov.in) · interactive: The government body that runs India's tiger counts. Its reports have maps and photos of camera-trapped tigers. Best with a grown-up.
@@ -628,7 +619,6 @@ One Flag, Many Voices (sci.india.L3): Topic-level song for India: our country L3
 - [Archaeological Museum, Sarnath](https://asi.nic.in/museum-sarnath/) · place · Sarnath, near Varanasi, Uttar Pradesh: The real Lion Capital of Ashoka, carved about 2,250 years ago, is on show here.
 
 ## Things to buy
-- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Useful for finding the tiny words Satyamev Jayate under the lions on a note. It is cheap at any stationery shop. Without one, read in bright light. Used in a2. Used again in many science units for looking closely at leaves, insects and soil.
 
 ## Warm-up
 - What are the three colours of India's flag, from top to bottom? → Saffron, white and green.

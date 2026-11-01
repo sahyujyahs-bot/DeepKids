@@ -427,8 +427,8 @@
      "items": [
       "MERCURY. Width: 0.4 Earths. Distance from the Sun: 0.4 times the Earth's. Year: 88 days.",
       "VENUS. Width: 0.95 Earths. Distance from the Sun: 0.7 times the Earth's. Year: 225 days.",
-      "EARTH. Width: 1 Earth. Distance from the Sun: 1. Year: 365 days.",
-      "MARS. Width: 0.5 Earths. Distance from the Sun: 1.5 times the Earth's. Year: 687 days.",
+      "EARTH. Width: 1 Earth. Distance from the Sun: 1 times the Earth's. Year: 365 days.",
+      "MARS. Width: 0.5 Earths. Distance from the Sun: 1 times the Earth's.5 times the Earth's. Year: 687 days.",
       "JUPITER. Width: 11 Earths. Distance from the Sun: 5.2 times the Earth's. Year: about 4,330 days, almost 12 years.",
       "SATURN. Width: 9.4 Earths. Distance from the Sun: 9.5 times the Earth's. Year: about 10,760 days, about 29 and a half years.",
       "URANUS. Width: 4 Earths. Distance from the Sun: 19 times the Earth's. Year: about 30,690 days, about 84 years.",
@@ -437,16 +437,16 @@
     }
    ],
    "rules": [
-    "Shuffle the 8 cards and deal them out face down. Playing with one grown-up, each player gets 4.",
-    "The first player looks at their top card and picks one of the three: width, distance or year. They read its number aloud.",
-    "Everyone else reads the same number from their top card. The biggest number wins all the top cards.",
-    "The winner puts the won cards at the bottom of their pile and picks next.",
-    "Before reading a number, a player may guess who will win and why. A right guess with a reason earns a bonus card from the loser.",
-    "The game ends when one player has all the cards, or after 10 rounds. Whoever has most cards wins."
+    "Shuffle the 8 cards and deal them out face down. With 2 players each gets 4. With 3 or 4 players, deal as evenly as you can and give any left-over card to the winner of the first round.",
+    "The first player looks at their top card without showing it and picks one of the three: width, distance or year. They read that number aloud.",
+    "Everyone else reads the same number from their own top card. The biggest number wins all the top cards played.",
+    "The winner puts the won cards at the bottom of their pile and picks next. Before the numbers are read, anyone may guess who will win and say why.",
+    "A player with no cards left is out.",
+    "The game ends when one player has all the cards, or after 10 rounds. Whoever has the most cards wins. If two players have the same number, the winner of the last round wins."
    ],
    "setup": [
     {
-     "art": "Eight planet cards spread on a table, each with a drawing and three numbers.",
+     "art": "Eight planet cards spread on a table, each with a planet name and three numbers.",
      "caption": "1. Cut out the cards and deal them out."
     },
     {
@@ -484,7 +484,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Lay all 8 cards in a row in order of distance.",
+     "do": "Gather all 8 cards and lay them in a row in order of distance from the Sun.",
      "say": "Let's put all the cards in order of distance. Now look at the years. What do you notice?",
      "kid": "Put the cards in order of distance. Look at the years. What do you see?",
      "ask": [
@@ -512,31 +512,59 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "8 secret planet cards",
+     "title": "8 secret planet cards to cut out (clues on the front, the planet's name on the back)",
      "items": [
-      "Mercury: smallest, closest to the Sun, no air, year of 88 days",
-      "Venus: hottest, thick yellow clouds, the bright evening star",
-      "Earth: liquid water, air we breathe, one Moon",
-      "Mars: red dust, frozen water, two small moons",
-      "Jupiter: biggest, stripes, the Great Red Spot storm",
-      "Saturn: bright rings, lighter for its size than water",
-      "Uranus: blue-green, spins tipped on its side",
-      "Neptune: furthest, deep blue, gets the least sunlight"
+      {
+       "f": "Clues: smallest, closest to the Sun, no air, year of 88 days",
+       "b": "Mercury"
+      },
+      {
+       "f": "Clues: hottest, thick yellow clouds, the bright evening star",
+       "b": "Venus"
+      },
+      {
+       "f": "Clues: liquid water, air we breathe, one Moon",
+       "b": "Earth"
+      },
+      {
+       "f": "Clues: red dust, frozen water, two small moons",
+       "b": "Mars"
+      },
+      {
+       "f": "Clues: biggest, stripes, the Great Red Spot storm",
+       "b": "Jupiter"
+      },
+      {
+       "f": "Clues: bright rings, so light for its size that it would float in water",
+       "b": "Saturn"
+      },
+      {
+       "f": "Clues: blue-green, spins tipped on its side",
+       "b": "Uranus"
+      },
+      {
+       "f": "Clues: furthest, deep blue, gets the least sunlight",
+       "b": "Neptune"
+      }
      ]
     },
     {
      "kind": "score sheet",
-     "title": "Question tally",
+     "title": "Question tally (cut apart, or copy 4 lines)",
      "items": [
-      "Write a tick for each question asked. Fewest ticks wins."
+      "Round 1. Asker: ______ Ticks: ______",
+      "Round 2. Asker: ______ Ticks: ______",
+      "Round 3. Asker: ______ Ticks: ______",
+      "Round 4. Asker: ______ Ticks: ______"
      ]
     }
    ],
    "rules": [
-    "One player picks a secret planet card and doesn't show it.",
-    "The others ask questions that can be answered yes or no, such as 'Are you a giant?'",
-    "Each question gets a tick on the tally. Guess the planet in as few questions as you can.",
-    "Playing alone? Shuffle the cards face down. Read one clue at a time from the top card, and guess after each clue."
+    "One player picks a secret planet card and keeps it hidden. The picker reads the clues and the name. The others see neither.",
+    "The others take turns asking questions that can be answered yes or no, such as 'Are you a giant?' The picker answers using the clues on the card.",
+    "Each question gets a tick on the tally. A wrong guess of the planet's name gets 2 ticks. The asker who names the planet with the fewest ticks wins the round.",
+    "Swap so everyone gets a turn to pick. With 2 players, you each ask once and the fewer ticks wins.",
+    "Playing alone? Shuffle the cards with the clues up. Read one clue at a time from the top card and guess after each clue. Turn the card over to check, and count the clues you needed."
    ],
    "setup": [
     {
@@ -552,7 +580,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Shuffle the secret planet cards. The first player picks one without showing it.",
+     "do": "Shuffle the secret planet cards. The first player picks one and reads it without showing the others.",
      "say": "Pick a secret planet. We'll ask questions to find out which one you are.",
      "kid": "Pick a secret card. Don't show anyone!",
      "context": "This is the first step of Which Planet Am I? One player picks a secret planet."
@@ -561,7 +589,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Take turns asking yes-or-no questions and ticking the tally.",
-     "say": "A good first question splits the planets in half. Are you one of the four rocky planets?",
+     "say": "A good first question splits the planets into two equal groups. Which question could do that? Try one.",
      "kid": "Ask yes-or-no questions. Try to split the planets in half each time.",
      "check": {
       "t": "mcq",
@@ -639,7 +667,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the hole in the card. Do not look straight into the phone torch from close up.",
+   "safety": "A grown-up cuts the hole in the card.",
    "schedule": [
     {
      "day": 1,
@@ -647,7 +675,7 @@
      "what": "Guess. Shine the torch through the square hole onto squared paper at 20, 30 and 40 cm. Count the lit squares. Work out what this means for the planets."
     }
    ],
-   "record": "Fill in the table. Then draw the three lit squares on squared paper, side by side, at their real sizes.",
+   "record": "Fill in the table, with the width and the number of squares at each distance.",
    "context": "In this experiment you shine a phone torch through a small square hole and count how many squares of paper the light covers at different distances. It shows what happens to sunlight on its way to the planets.",
    "setup": [
     {
@@ -714,7 +742,7 @@
     },
     {
      "id": "s3",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to guess before you measure anything.",
      "say": "Soon we'll catch the light on squared paper, first 20 cm from the torch and then 40 cm. 40 is twice as far as 20. At 40 cm, will the light cover the same number of squares, twice as many, or four times as many? Why do you think so?",
      "kid": "Guess. At twice as far, will the light cover the same squares? Twice as many? Four times as many? Why?",
@@ -735,7 +763,7 @@
      "do": "1. Tape the squared paper to a big book. 2. Stand the book 20 cm from the torch, facing it, so the light through the hole falls on the paper. 3. Measure how wide the lit square is. 4. Count the squares that are more than half lit. 5. Score the brightness 3, for bright.",
      "say": "Here's the patch of light at 20 cm. How wide is it? How many squares does it cover? Let's count them together.",
      "kid": "Put the paper 20 cm from the torch. Measure the lit square. Count the lit squares. Write the numbers.",
-     "parent": "The patch should be about 4 cm wide and cover about 16 squares. The edges are a little fuzzy, so count a square if more than half of it is lit. Your numbers may be a little different. That's fine."
+     "parent": "The patch should be about 4 cm wide and cover about 16 squares. The edges are a little fuzzy, so count a square if more than half of it is lit. Your numbers may be a little different. That's fine. Phone torches are not perfect points of light, so the edges are fuzzy. That is the main reason counts differ."
     },
     {
      "id": "s5",
@@ -745,14 +773,14 @@
      "kid": "Move the paper to 30 cm. Measure and count. Then 40 cm. Measure and count. Is it dimmer?",
      "check": {
       "t": "mcq",
-      "q": "At 20 cm the light covered 16 squares. At 40 cm, twice as far, it covered about 64 squares. How many times as many squares is that?",
+      "q": "At 20 cm the light covered 16 squares. At 40 cm, twice as far, the patch was twice as wide and twice as tall. How many times as many squares did it cover?",
       "options": [
        "The same number",
        "2 times as many",
        "4 times as many"
       ],
       "a": 2,
-      "why": "64 divided by 16 is 4. The patch was twice as wide and twice as tall, and 2 times 2 is 4. Picking '2 times as many' is the guess most people make. It would be right for a line of light, but a patch grows in two directions at once."
+      "why": "Twice as wide and twice as tall is 2 times 2, which is 4 times as many squares. Picking '2 times as many' is the guess most people make. It would be right for a line of light, but a patch grows in two directions at once."
      },
      "parent": "At 30 cm expect about 6 cm across and about 36 squares. At 40 cm, about 8 cm across and about 64 squares. If your counts are a bit off, look at the widths. They should go 4, 6, 8, growing in step with the distance."
     },
@@ -822,7 +850,7 @@
      "qty": 1
     },
     {
-     "item": "a glass marble (goli)",
+     "item": "a glass marble",
      "qty": 1
     },
     {
@@ -834,7 +862,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cutting. Keep marbles away from children under 4, who could choke on them. Pick up the marble afterwards so nobody slips on it.",
+   "safety": "A grown-up does the cutting. Keep marbles away from children under 4, who could choke on them.",
    "schedule": [
     {
      "day": 1,
@@ -854,8 +882,8 @@
      "caption": "2. Roll the marble fast round the inside of the rim."
     },
     {
-     "art": "The marble leaving the plate at the gap and rolling off in a straight line, with a pencil line drawn along its path on the newspaper.",
-     "caption": "3. Watch where it goes at the gap. Draw its path."
+     "art": "The marble leaving the plate at the gap and rolling off in a straight line, with a pencil line drawn from the gap to the spot where it stopped.",
+     "caption": "3. Watch where it goes at the gap. Draw a line to where it stopped."
     }
    ],
    "example_chart": {
@@ -919,10 +947,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Put the marble against the inside of the rim, far from the gap. 2. Flick it along the rim so it rolls fast all the way to the gap. 3. Watch where it goes. 4. Draw a pencil line on the newspaper along its path. 5. Do it 5 times.",
-     "say": "Let's roll it and watch closely. I'll draw its path each time.",
-     "kid": "Flick the marble round the inside of the rim. Watch where it goes at the gap. Draw its path. Try 5 times.",
-     "parent": "If the marble jumps over the rim, flick it a little more gently. It should roll off in a straight line along the way it was moving at the gap. It does not keep curving, and it does not roll straight out from the middle."
+     "do": "1. Put the marble against the inside of the rim, far from the gap. 2. Flick it along the rim so it rolls fast all the way to the gap. 3. Watch where it goes. 4. When it stops, mark that spot with a pencil. 5. Draw a line from the gap to the mark. 6. Do it 5 times.",
+     "say": "Let's roll it and watch closely. After each roll I'll draw a line from the gap to where it stopped.",
+     "kid": "Flick the marble round the inside of the rim. Watch where it goes at the gap. Mark where it stops and draw a line to it. Try 5 times.",
+     "parent": "If the marble jumps over the rim, flick it a little more gently. It should roll off in a straight line along the way it was moving at the gap. It does not keep curving, and it does not roll straight out from the middle. The marble slows down on newspaper and its path may bend a little. Judge by the first part of the path, just after the gap."
     },
     {
      "id": "s4",
@@ -977,7 +1005,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after playing with dough. Don't eat raw atta.",
    "schedule": [
     {
      "day": 1,
@@ -1049,7 +1076,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Tell your child how big the Sun would be at the same scale.",
-     "say": "At this size, the Sun would be a ball 109 cm across. That's a bit more than a metre scale, and taller than our table. It would not fit through most doors sideways.",
+     "say": "At this size, the Sun would be a ball 109 cm across. That is wider than most doors and taller than a table. It would not fit through a doorway.",
      "kid": "At this size, the Sun would be over a metre wide. Taller than the table! Measure it with your arms.",
      "ask": [
       {
@@ -1070,7 +1097,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a lamp with no shade, or a phone torch standing upright, for the Sun",
+     "item": "a lamp with the shade taken off, for the Sun",
      "qty": 1
     },
     {
@@ -1119,19 +1146,19 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Hold the ball at arm's length from the lamp. 2. Walk slowly round the lamp in a circle, keeping the ball level with it. 3. Pause when the ball is nearest your child, and when it is to one side of the far side of the lamp.",
+     "do": "1. Hold the ball at arm's length from the lamp. 2. Walk slowly round the lamp in a circle, keeping the ball level with it. 3. Pause when the ball is nearest your child. 4. Pause again when it is on the far side of the lamp.",
      "say": "Watch the ball as I carry it round the Sun. How much of it is lit? Does it look bigger or smaller?",
      "kid": "Watch the ball. How much is lit? Does it look big or small?",
      "ask": [
       {
-       "q": "What did Venus look like when it was nearest you?",
+       "q": "What did the ball look like when it was nearest you?",
        "good": [
         "Big, and only a thin crescent was lit.",
         "Mostly dark."
        ]
       },
       {
-       "q": "And on the far side of the Sun?",
+       "q": "And when it was on the far side of the lamp?",
        "good": [
         "Small, and almost all lit up."
        ]
@@ -1147,14 +1174,14 @@
      "kid": "Now Venus stays between you and the Sun. Can you ever see it fully lit?",
      "check": {
       "t": "mcq",
-      "q": "Galileo saw Venus small and almost fully lit. What did that show?",
+      "q": "In your lamp test, when did the ball look small and fully lit?",
       "options": [
-       "Venus sometimes goes round to the far side of the Sun, so it goes round the Sun",
-       "Venus makes its own light",
-       "Venus always stays between the Earth and the Sun"
+       "When it was on the far side of the lamp from your child",
+       "When it was nearest your child",
+       "When it stayed between the lamp and your child"
       ],
       "a": 0,
-      "why": "Venus can only look fully lit when it is on the far side of the Sun from us. In the old plan, Venus never got there, so it could never look full. Picking 'Venus makes its own light' is a sensible guess, since Venus is so bright. But then it would always look full, and it does not."
+      "why": "The ball looks fully lit only when its lit half faces us, on the far side of the lamp. In the old plan, Venus always stayed between the Earth and the Sun, so it could never get there and could never look full. Picking 'nearest' mixes up big with full: the near ball is big but mostly dark."
      }
     },
     {
@@ -1190,7 +1217,7 @@
      "qty": 1
     }
    ],
-   "safety": "On a terrace, a grown-up comes along and everyone stays away from the edge. Never look at the Sun.",
+   "safety": "On a terrace, a grown-up comes along and everyone stays away from the edge.",
    "schedule": [
     {
      "day": 1,
@@ -1266,7 +1293,6 @@
      "qty": 1
     }
    ],
-   "safety": "Lay the string on the floor and pick it up afterwards so nobody trips.",
    "schedule": [
     {
      "day": 1,
@@ -1305,7 +1331,7 @@
      "do": "1. Measure from the Sun end and tape each label: Mercury 4 cm, Venus 7 cm, Earth 10 cm, Mars 15 cm. 2. Then Jupiter 52 cm, Saturn 95 cm, Uranus 192 cm, Neptune 300 cm.",
      "say": "At this scale, the Earth is just 10 cm from the Sun. Look how close the four rocky planets are. Now look how far the giants are.",
      "kid": "Measure from the Sun. Tape each planet at its number. Earth goes at 10 cm.",
-     "parent": "These are real spacings, with 10 cm standing for the Earth's distance from the Sun. At this scale, the planets themselves would be far too small to see."
+     "parent": "These are real spacings, with 10 cm standing for the Earth's distance from the Sun. At this scale, the planets themselves would be far too small to see. The first four labels are only 3 to 5 cm apart. Use small flags of tape or pegs so they do not overlap."
     },
     {
      "id": "s3",
@@ -1338,7 +1364,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1363,7 +1388,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Multiply your child's age by 365 on the calculator. 2. Write down this number of days.",
-     "say": "A year on the Earth is about 365 days. You are 8, so you have lived about 8 times 365 days. That's 2,920 days.",
+     "say": "A year on the Earth is about 365 days. If you are 8, you have lived about 8 times 365 days. That is 2,920 days.",
      "kid": "Multiply your age by 365. That is about how many days you have lived.",
      "context": "This is the first step of working out your age on other planets. You start by finding how many days old you are."
     },
@@ -1375,14 +1400,14 @@
      "kid": "Divide your days by 88 for Mercury. By 687 for Mars. How old are you there?",
      "check": {
       "t": "mcq",
-      "q": "Divya, a girl in Class 3, is 8 years old on the Earth. Is she older or younger in Mars years?",
+      "q": "Gauri, a girl in Class 3, is 8 years old on the Earth. Is she older or younger in Mars years?",
       "options": [
        "Younger: about 4 Mars years old",
        "Older: about 16 Mars years old",
        "The same: 8 Mars years old"
       ],
       "a": 0,
-      "why": "Mars takes longer than the Earth to go round the Sun, so its year is longer. Fewer long years fit into Divya's life: 2,920 days divided by 687 is about 4. Picking 'older' means thinking a longer orbit gives more birthdays, but it gives fewer."
+      "why": "Mars takes longer than the Earth to go round the Sun, so its year is longer. Fewer long years fit into Gauri's life: 2,920 days divided by 687 is about 4. Picking 'older' means thinking a longer orbit gives more birthdays, but it gives fewer."
      }
     }
    ]
@@ -1413,7 +1438,6 @@
      "buy": "b-book"
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1428,7 +1452,7 @@
     {
      "day": 3,
      "mins": 20,
-     "what": "Write and draw Uranus and Neptune. Add a last page: 'Why I'm glad I live on the Earth'."
+     "what": "Write and draw Uranus and Neptune. Add a last page, 'Why I'm glad I live on the Earth', and read the guidebook to someone."
     }
    ],
    "record": "The finished guidebook, with one page for each planet.",
@@ -1439,11 +1463,11 @@
      "caption": "1. Fold and staple 8 sheets into a booklet."
     },
     {
-     "art": "An open booklet page with a drawing of Mars and four short lines: distance, size, year, and 'What a visitor would see'.",
-     "caption": "2. Give each planet a page with four facts and a drawing."
+     "art": "An open booklet page with a drawing of Mars and five short lines: distance, size, year, sunlight and 'What a visitor would see'.",
+     "caption": "2. Give each planet a page with five facts and a drawing."
     },
     {
-     "art": "A child showing the finished booklet to a grandmother, open on the Earth page with a blue planet and a fish.",
+     "art": "A child showing the finished booklet to a family member, open on the Earth page with a blue planet and a fish.",
      "caption": "3. Read your guidebook to someone at home."
     }
    ],
@@ -1458,23 +1482,16 @@
     },
     {
      "id": "s2",
-     "mins": 15,
-     "do": "1. On each page, write four short lines. How far from the Sun, compared with the Earth. How wide, compared with the Earth. How long its year is. One thing a visitor would see. 2. Draw the planet.",
-     "say": "Use your string and your dough planets to help. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.",
-     "kid": "Write four facts on each page. How far. How wide. How long a year. What a visitor sees. Then draw it.",
-     "wait": "Do three planets a day, over three days."
-    },
-    {
-     "id": "s3",
-     "mins": 10,
-     "do": "1. On each page, add how strong the sunlight is, compared with the Earth. 2. Use the torch-test rule: times the distance by itself.",
-     "say": "Jupiter is 5 times as far. 5 times 5 is 25. So sunlight there is 25 times weaker. Let's add that to each page.",
-     "kid": "Add how weak the sunlight is. Times the distance by itself. Jupiter is 5, so 25 times weaker.",
+     "mins": 40,
+     "do": "1. On each page, write five short lines. How far from the Sun, compared with the Earth. How wide, compared with the Earth. How long its year is. How strong the sunlight is, compared with the Earth (times the distance by itself, as in the torch test). One thing a visitor would see. 2. Draw the planet.",
+     "say": "Use your string and your dough planets to help. Jupiter is 5 times as far. 5 times 5 is 25, so sunlight there is 25 times weaker. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.",
+     "kid": "Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then draw it.",
+     "wait": "Do three planets a day, over three days.",
      "parent": "Use about 7 times stronger for Mercury, 2 times stronger for Venus, half as strong for Mars, 25 times weaker for Jupiter, 100 times weaker for Saturn, 400 times weaker for Uranus and 900 times weaker for Neptune. These are rounded."
     },
     {
-     "id": "s4",
-     "mins": 10,
+     "id": "s3",
+     "mins": 15,
      "do": "1. Add a last page: 'Why I'm glad I live on the Earth'. 2. Your child reads the guidebook aloud to someone at home.",
      "say": "Now the last page. After visiting all eight, why are you glad to live on the Earth?",
      "kid": "Write the last page. Why are you glad to live on the Earth? Read your book to someone.",
@@ -1501,7 +1518,7 @@
    "constraints": [
     "Use squared paper: 1 square is the panel the spacecraft needs near the Earth.",
     "Use the torch-test rule: times the distance by itself to find how much weaker the sunlight is.",
-    "Your panels must fold up to fit inside a rocket, which is about 5 squares wide."
+    "Your panels must fold up to fit inside a rocket, which is about 3 squares wide."
    ],
    "materials": [
     "squared paper",
@@ -1526,7 +1543,7 @@
      "caption": "1. Work out how many squares each planet needs."
     },
     {
-     "art": "A child folding a big sheet of squared paper like a fan, so it fits inside a narrow paper rocket.",
+     "art": "A child folding a big sheet of squared paper like a fan, so it fits inside a narrow paper rocket 3 squares wide.",
      "caption": "2. Make the panel fold up to fit inside the rocket."
     }
    ],
@@ -1542,10 +1559,10 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Cut out panels for Mars (about 2 squares), Jupiter (25 squares) and Saturn (about 90 squares). 2. Fold each so it fits inside a rocket 5 squares wide.",
+     "do": "1. Cut out panels for Mars (about 2 squares), Jupiter (25 squares) and Saturn (100 squares). 2. Fold each so it fits inside a rocket 3 squares wide.",
      "say": "Real spacecraft have this problem. Juno, which reached Jupiter in 2016, has three solar panels, each about 9 metres long.",
-     "kid": "Cut out a panel for each planet. Fold each one to fit in a rocket 5 squares wide.",
-     "parent": "Mars is about one and a half times as far, and one and a half times one and a half is about 2. Saturn is about 9 and a half times as far, so about 90 squares."
+     "kid": "Cut out a panel for each planet. Fold each one to fit in a rocket 3 squares wide.",
+     "parent": "Mars is about one and a half times as far, and one and a half times one and a half is about 2. Saturn is about 10 times as far (9 and a half, rounded), so about 100 squares."
     },
     {
      "id": "s3",
@@ -1557,7 +1574,7 @@
       {
        "q": "Why can't one square of panel work at Saturn?",
        "good": [
-        "Sunlight is about 90 times weaker there.",
+        "Sunlight is about 100 times weaker there.",
         "The light is spread out over many more squares."
        ]
       }
@@ -1567,7 +1584,7 @@
   },
   {
    "id": "c2",
-   "title": "Keep an Ice Cube Cool in the Sunshine",
+   "title": "Keep an Ice Cube Cool in the Sunshine (if you have a sunny windowsill or balcony)",
    "mins": 30,
    "problem": "A spacecraft flying close to the Sun gets very hot. Design a sunshade that keeps an ice cube from melting in strong sunlight for as long as possible.",
    "constraints": [
@@ -1616,10 +1633,10 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Build a shade from card and foil or white paper over one ice cube, not touching it. 2. Check both every 5 minutes. 3. Write down when each one has melted.",
+     "do": "1. Build a shade from card and foil or white paper over one ice cube, not touching it. 2. Check both every 5 minutes for up to 20 minutes. 3. Write down when each one has melted, or 'still ice at 20 minutes'.",
      "say": "Let's build our shade. The shiny or white side faces the Sun. Then we check every 5 minutes.",
      "kid": "Build a shade over one ice cube. Don't touch the ice. Check every 5 minutes.",
-     "parent": "On a hot afternoon, the bare ice cube may melt in about 15 to 30 minutes. If the sun goes behind a cloud, keep going. Both ice cubes are in the same light, so the test is still fair."
+     "parent": "On a hot afternoon, the bare ice cube may melt in about 15 to 30 minutes. Warm air melts both cubes, so the shade slows the melting but does not stop it. Look at which lasts longer, and by how much. If the sun goes behind a cloud, keep going, because both cubes are in the same light. If there is no direct sun today, try another day."
     },
     {
      "id": "s3",
@@ -1705,20 +1722,6 @@
    "a": 0,
    "why": "Since 2006, a planet must clear its path. Pluto is round and goes round the Sun, but many other icy worlds share its path. Picking 'not round' is a good guess for small worlds, but Pluto is round.",
    "outcome": 1
-  },
-  {
-   "t": "mcq",
-   "p": "Priya, a girl in Class 3, moves the squared paper from 20 cm to 40 cm from a phone torch. What happens to the patch of light?",
-   "opts": [
-    "It covers about four times as many squares and looks dimmer",
-    "It covers twice as many squares and looks just as bright",
-    "It stays the same size",
-    "It gets smaller and brighter"
-   ],
-   "a": 0,
-   "why": "Twice as far, the patch is twice as wide and twice as tall, so four times the squares. The same light is shared over more squares, so it is dimmer. Picking 'twice as many' grows it only one way.",
-   "outcome": 2,
-   "how": "e1"
   },
   {
    "t": "mcq",
@@ -1904,30 +1907,16 @@
     },
     {
      "t": "truefalse",
-     "p": "Anu, a girl in Class 3, says, 'The Earth is not a planet. Planets are the dots up in the sky.' Is she right?",
+     "p": "Moni, a girl in Class 3, says, 'The Earth is not a planet. Planets are the dots up in the sky.' Is she right?",
      "a": false,
      "why": "False. The Earth goes round the Sun, like the other seven planets, so it is a planet too. From Mars, the Earth looks like a bright dot in the sky. A strong answer says the Earth only looks different because we are standing on it."
     },
     {
-     "t": "mcq",
-     "p": "In the torch test, the patch of light covered 16 squares when the paper was 20 cm away. About how many squares did it cover at 40 cm?",
-     "opts": [
-      "16 squares",
-      "32 squares",
-      "64 squares",
-      "8 squares"
-     ],
-     "a": 2,
-     "why": "Twice as far, the patch is twice as wide and twice as tall, so it covers 2 times 2, which is 4 times as many squares. 4 times 16 is 64. Picking 32 is the most common mistake: it doubles only one way.",
-     "how": "e1"
-    },
-    {
      "t": "write",
-     "p": "In the torch test, the far patch of light looked dimmer than the near one. The torch was the same. Explain why.",
+     "p": "A street lamp lights the road brightly right under it. A few steps away, the road is much dimmer. The lamp is the same. Use what you learned in the torch test to explain why.",
      "lines": 3,
-     "a": "The same amount of light came through the hole each time. Far away, it was spread over more squares, so each square got less light and looked dimmer.",
-     "why": "A strong answer says the light was not used up. It was shared out over a bigger area.",
-     "how": "e1"
+     "a": "The lamp's light spreads out as it goes. A few steps away the same light covers a bigger area of road, so each part gets less light and looks dimmer.",
+     "why": "A strong answer says the light is not used up. It is shared out over a bigger area, just like the squares on the paper."
     },
     {
      "t": "fill",
@@ -1936,18 +1925,6 @@
       "orbit"
      ],
      "why": "An orbit is the path one thing takes round another. The Earth's orbit round the Sun takes one year."
-    },
-    {
-     "t": "mcq",
-     "p": "What keeps the Earth going round the Sun?",
-     "opts": [
-      "The Sun's gravity pulls the Earth inwards while the Earth moves forwards",
-      "Wind blows the Earth round",
-      "The Earth is tied to the Sun by an invisible string",
-      "Nothing. The Earth is not moving"
-     ],
-     "a": 0,
-     "why": "The Earth moves forwards very fast, and the Sun's gravity keeps bending its path round. Picking 'wind' is a creative guess, but space has almost no air, so there is no wind. The marble test showed that without a force pulling inwards, a moving thing goes straight."
     },
     {
      "t": "draw",
@@ -2045,6 +2022,21 @@
      ],
      "a": 0,
      "why": "Neptune is furthest from the Sun. It has the longest path and moves slowest, so its year is about 165 Earth years. Picking Jupiter means thinking the biggest planet is the slowest, but size does not set a planet's year."
+    },
+    {
+     "t": "fill",
+     "p": "A planet shines only because sunlight ____ off it.",
+     "a": [
+      "bounces",
+      "reflects"
+     ],
+     "why": "A planet makes no light of its own. We see it because sunlight hits it and bounces towards us. That is also how we see the Moon."
+    },
+    {
+     "t": "truefalse",
+     "p": "Neptune is colder than Venus, because it is much further from the Sun and gets much weaker sunlight.",
+     "a": true,
+     "why": "True. Neptune gets about 900 times less sunlight than the Earth, so it is freezing. Venus is hot because of its thick air. A strong answer uses the torch test to explain the weak sunlight."
     }
    ]
   },
@@ -2056,15 +2048,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Jupiter is about 5 times as far from the Sun as the Earth. How strong is sunlight at Jupiter?",
+     "p": "Imagine the Earth were half as far from the Sun as it is now. How strong would sunlight on the Earth be?",
      "opts": [
-      "About 5 times weaker than on the Earth",
-      "About 25 times weaker than on the Earth",
-      "About 5 times stronger than on the Earth",
-      "The same as on the Earth"
+      "2 times stronger",
+      "4 times stronger",
+      "2 times weaker",
+      "The same"
      ],
      "a": 1,
-     "why": "Light spreads out wider and taller at the same time. 5 times as far means 5 times 5, which is 25 times weaker. Picking '5 times weaker' is the usual first guess, but the torch test showed the patch grows both ways."
+     "why": "Half the distance is the torch test backwards. The same light would cover one quarter of the area, so each part gets 4 times as much. Picking '2 times stronger' forgets that light spreads in two directions."
     },
     {
      "t": "write",
@@ -2079,14 +2071,6 @@
      "p": "If you could stand on Jupiter, you would stand on solid ground made of gas.",
      "a": false,
      "why": "False. Jupiter has no solid surface to stand on. Going down, its gas just gets thicker and hotter. A strong answer says Jupiter is a giant planet made mostly of gas."
-    },
-    {
-     "t": "write",
-     "p": "Galileo saw Venus look small and fully lit, and at other times big and a thin crescent. Explain why this showed that Venus goes round the Sun.",
-     "lines": 4,
-     "a": "Venus can only look fully lit when it is on the far side of the Sun from us, where its whole lit half faces us. It looks small there because it is far away. If Venus always stayed between the Earth and the Sun, we would only see crescents.",
-     "why": "A strong answer links 'fully lit' to 'on the far side of the Sun', and links 'small' to 'far away'.",
-     "how": "a2"
     },
     {
      "t": "order",
@@ -2120,14 +2104,6 @@
      "why": "Venus gets about twice our sunlight, and its very thick air traps the heat. Picking 'no sunlight' forgets that Venus is closer to the Sun than we are. Picking 'too cold' forgets the trapped heat."
     },
     {
-     "t": "fill",
-     "p": "Pluto has been called a ____ planet since 2006.",
-     "a": [
-      "dwarf"
-     ],
-     "why": "In 2006 the world group of astronomers decided that a planet must clear its path. Pluto shares its path, so it is a dwarf planet."
-    },
-    {
      "t": "write",
      "p": "Kavitha, a girl in Class 4, says, 'The torch light ran out as it travelled, like water draining away. That's why the far patch was dim.' Is she right? What really happened?",
      "lines": 4,
@@ -2153,14 +2129,6 @@
      "p": "Mars is red because it is very hot, like a glowing coal.",
      "a": false,
      "why": "False. Mars is colder than the Earth. Its red colour comes from rusty iron in its rocks and dust. A strong answer says what the red really is."
-    },
-    {
-     "t": "write",
-     "p": "A year on Mars is 687 Earth days. Is a child who is 8 on the Earth older or younger in Mars years? Explain.",
-     "lines": 3,
-     "a": "Younger. A Mars year is almost twice as long as an Earth year, so fewer Mars years have passed. 8 years is about 2,920 days, and 2,920 divided by 687 is about 4. So the child is about 4 in Mars years.",
-     "why": "A strong answer explains that a longer year means fewer birthdays, and shows the working.",
-     "how": "a5"
     },
     {
      "t": "write",
@@ -2222,6 +2190,27 @@
      ],
      "a": "pairs as given",
      "why": "These words come up all through the unit. A strong answer could give an example of each."
+    },
+    {
+     "t": "write",
+     "p": "You swing a sock on a string round in a circle, then let go of the string. Which way does the sock fly? What in the solar system is like the string?",
+     "lines": 3,
+     "a": "The sock flies off in a straight line, the way it was moving when you let go. The Sun's gravity is like the string, because it keeps pulling the planet inwards.",
+     "why": "A strong answer links this to the marble at the gap, and says the planet would fly off straight if gravity stopped."
+    },
+    {
+     "t": "write",
+     "p": "Eris was found in 2005 and is about as big as Pluto. Explain how finding Eris made astronomers argue about what a planet is.",
+     "lines": 4,
+     "a": "If Pluto was a planet, then Eris, which is about as big, seemed to be one too. Astronomers had found many more icy worlds like them, and the list of planets could keep growing. So they had to decide what the word planet means.",
+     "why": "A strong answer says the argument started because Eris was so like Pluto."
+    },
+    {
+     "t": "write",
+     "p": "Some astronomers say an unseen ninth planet is pulling far icy worlds into line. Others say the pattern is only chance. What could astronomers do to settle it?",
+     "lines": 4,
+     "a": "They could keep searching the sky with bigger telescopes to find the planet, or find many more far icy worlds to see if the pattern still holds. If the pattern disappears, it was chance.",
+     "why": "A strong answer suggests a way to test the idea. Finding the planet would prove it. Finding more worlds that do not line up would count against it."
     }
    ]
   },
@@ -2231,13 +2220,6 @@
    "tier": "challenge",
    "mins": 25,
    "items": [
-    {
-     "t": "write",
-     "p": "Uranus is about 19 times as far from the Sun as the Earth. Work out about how many times weaker sunlight is at Uranus. Show your working.",
-     "lines": 3,
-     "a": "19 times 19 is 361. So sunlight at Uranus is about 360 times weaker than on the Earth.",
-     "why": "A strong answer uses the torch-test rule, times the distance by itself, and shows the multiplication."
-    },
     {
      "t": "perspective",
      "p": "Three people talk about why life is found on the Earth.",
@@ -2274,13 +2256,6 @@
     },
     {
      "t": "write",
-     "p": "Saturn is about 10 times as far from the Sun as the Earth. Imagine the torch test with the paper 10 times as far away. How many times as many squares would the light cover? Explain.",
-     "lines": 3,
-     "a": "100 times as many. The patch would be 10 times as wide and 10 times as tall, and 10 times 10 is 100.",
-     "why": "A strong answer applies the two-directions rule to a new distance, and links it to Saturn getting about 100 times less sunlight."
-    },
-    {
-     "t": "write",
      "p": "Many old books called the Sun and the Moon planets. Today we do not. Give one reason the Sun is not a planet, and one reason the Moon is not a planet.",
      "lines": 4,
      "a": "The Sun makes its own light, so it is a star, and the planets go round it. The Moon goes round the Earth, not straight round the Sun, so it is a moon.",
@@ -2288,10 +2263,10 @@
     },
     {
      "t": "write",
-     "p": "Ravi, a boy in Class 4, says, 'If the Sun's gravity pulls the planets in, they should all fall into the Sun.' Why don't they?",
+     "p": "Tara, a girl in Class 4, says, 'If the Sun's gravity pulls the planets in, they should all fall into the Sun.' Why don't they?",
      "lines": 4,
      "a": "The planets are moving forwards very fast. Gravity pulls them inwards, but their forward motion carries them past. Together, these bend their paths into orbits, so they keep going round instead of falling in.",
-     "why": "A strong answer names both parts: the forward motion and the inward pull. Ravi has noticed something true: if a planet stopped moving forwards, it would fall into the Sun."
+     "why": "A strong answer names both parts: the forward motion and the inward pull. Tara has noticed something true: if a planet stopped moving forwards, it would fall into the Sun."
     },
     {
      "t": "mcq",
@@ -2349,13 +2324,6 @@
      "why": "We feel a change in speed, like a bus braking, not steady motion. Everything around us moves with the Earth. Picking 'the Earth is standing still' is what people believed for thousands of years, until the evidence showed otherwise."
     },
     {
-     "t": "write",
-     "p": "Astronomers voted in 2006 that a planet must clear its path. Pluto did not change at all. Did Pluto stop being a planet, or did people change a word? Explain what you think.",
-     "lines": 5,
-     "a": "Any thoughtful answer. A strong answer sees that Pluto itself stayed the same, and that people changed the rule for the word 'planet'. It may say why a clear rule is useful, or why some astronomers still prefer the old one.",
-     "why": "This question is about the difference between a thing and the name we give it. There is no single right answer, but a strong one gives a reason."
-    },
-    {
      "t": "draw",
      "p": "Draw what the Earth and the Moon might look like from Mars, through a small telescope. Label which is which.",
      "a": "Two dots side by side, a bigger blue-white one labelled Earth and a smaller grey one labelled Moon, both lit on the same side.",
@@ -2403,6 +2371,28 @@
      ],
      "a": "see items",
      "why": "The Earth and Neptune are planets. Pluto and Ceres are round but share their paths, so they are dwarf planets. Most asteroids and comets are too small to be round."
+    },
+    {
+     "t": "write",
+     "p": "Neptune takes about 165 Earth years to go round the Sun once. It was found in 1846 and finished its first trip round in 2011. Why is such a long year hard for astronomers to study?",
+     "lines": 4,
+     "a": "Nobody can watch a whole orbit in one lifetime. Astronomers must work out the full path from a small part of it, and wait many human lifetimes to check.",
+     "why": "A strong answer links the long year to the long path and slow speed far from the Sun."
+    },
+    {
+     "t": "write",
+     "p": "The 3-metre string shows how far apart the planets are. Name one thing about the real solar system that it does not show, and say how you could show it.",
+     "lines": 4,
+     "a": "For example: the sizes of the planets, which could be shown with the dough and newspaper balls. Or that the planets move, which could be shown by walking round a lamp. Or that the planets are not in a straight line, which could be shown by drawing circles.",
+     "why": "A strong answer sees that every model leaves something out and suggests a way to fill the gap.",
+     "how": "a4"
+    },
+    {
+     "t": "draw",
+     "p": "Draw the young solar system as scientists think it looked: a flat spinning disc round the new Sun. Show where rock planets grew and where giant planets grew, and write why.",
+     "art": "A glowing Sun in the middle of a flat disc of dust, with empty space around it.",
+     "a": "A flat disc round the Sun. Small rocky planets close in, where it was too warm for ice. Giant planets further out, where ice could freeze, so they grew bigger and gathered gas.",
+     "why": "A strong drawing puts the rock planets close and the giants far, and says ice could freeze only far from the Sun."
     }
    ]
   }
@@ -2429,11 +2419,11 @@
    "art": "A street lamp at night with a bright circle under it fading out into the dark."
   },
   {
-   "text": "Planet names in Indian languages: Mangal for Mars, Budh for Mercury, Shukra for Venus, Guru or Brihaspati for Jupiter, Shani for Saturn.",
+   "text": "Planet names in Indian languages: Mangal for Mars, Budh for Mercury, Shukra for Venus, Guru or Brihaspati for Jupiter, Shani for Saturn. In Tamil, Mars is Sevvai and Venus is Velli.",
    "art": "A calendar page with the days of the week and small planet drawings beside them."
   },
   {
-   "text": "The days of the week in many Indian languages are named after the Sun, the Moon and five planets, like Mangalvar or Chevvai for Tuesday, after Mars.",
+   "text": "The days of the week in many Indian languages are named after the Sun, the Moon and five planets. Tuesday is Mangalvar in Hindi, Chevvai in Tamil and Chovva in Malayalam, all after Mars.",
    "art": "A wall calendar with Tuesday circled and a small red Mars drawn next to it."
   }
  ],
@@ -2458,7 +2448,7 @@
  "ask_kids": [
   "If you lived on Mars, how many birthdays would you have had by now?",
   "Which planet would you visit first, and what would you pack?",
-  "Look at the street lamp. Why is it brighter right underneath than a few steps away?",
+  "How would you explain to a friend, using a torch, why Neptune is so cold?",
   "Is the Earth 'down here', or is it up in someone else's sky?",
   "Why do you think Venus is so bright?",
   "What would a day at school be like on a planet with no air?",
@@ -2479,20 +2469,12 @@
    "a": "Rings, of course."
   },
   {
-   "j": "Why is Mercury always in a hurry?",
-   "a": "Its year is only 88 days long."
-  },
-  {
    "j": "Why did the cow want to go to space?",
    "a": "To see the Milky Way."
   },
   {
    "j": "What did Venus say to the Earth?",
    "a": "You're looking a bit blue today."
-  },
-  {
-   "j": "Why doesn't Neptune ever get a tan?",
-   "a": "Its sunlight is 900 times weaker."
   },
   {
    "j": "What kind of music do planets like?",
@@ -2507,22 +2489,6 @@
    "a": "An astro-nut."
   },
   {
-   "j": "Why did the torch light feel tired at 40 cm?",
-   "a": "It was spread too thin."
-  },
-  {
-   "j": "Why did Jupiter never go on a diet?",
-   "a": "Because it was already a gas giant."
-  },
-  {
-   "j": "What did the marble say at the gap?",
-   "a": "I'm going straight from now on."
-  },
-  {
-   "j": "Why did Mars hide behind the Sun?",
-   "a": "It was feeling a bit red-faced."
-  },
-  {
    "j": "How does Galileo say goodnight?",
    "a": "See you in the next phase."
   },
@@ -2533,18 +2499,18 @@
  ],
  "maths": [
   {
-   "problem": "In the torch test, the patch of light was 4 cm wide at 20 cm and 8 cm wide at 40 cm. How many 1 cm squares does each patch cover? How many times as many does the far one cover?",
-   "answer": "16 squares and 64 squares. The far one covers 4 times as many.",
-   "explain": "A patch 4 cm wide and 4 cm tall covers 4 times 4, which is 16 squares. A patch 8 cm wide and 8 cm tall covers 8 times 8, which is 64 squares. 64 divided by 16 is 4. So the far patch covers 4 times as many squares.",
+   "problem": "In the torch test, the patch of light was 4 cm wide at 20 cm and 6 cm wide at 30 cm. How many 1 cm squares does each patch cover? The paper moved 1 and a half times as far. Did the squares go up 1 and a half times?",
+   "answer": "16 squares and 36 squares. No, 36 is more than twice 16, so the squares went up by more than 2 times.",
+   "explain": "A patch 4 cm wide and 4 cm tall covers 4 times 4, which is 16 squares. A patch 6 cm wide and 6 cm tall covers 6 times 6, which is 36 squares. 36 divided by 16 is a little more than 2. The patch grows in two directions, so the squares go up by 1 and a half times 1 and a half, which is about 2 and a quarter.",
    "math_unit": "math.area-perimeter.area.L3",
    "how": "e1",
    "why_maths": "Counting the squares, or multiplying the sides, shows exactly how much more space the same light has to cover.",
    "context": "This is about the torch test, where you shone a phone torch through a square hole onto squared paper."
   },
   {
-   "problem": "Sunlight gets weaker by the distance times itself. Mars is about 1 and a half times as far from the Sun as the Earth. Jupiter is about 5 times as far. Neptune is about 30 times as far. Work out how many times weaker sunlight is at Jupiter and at Neptune.",
-   "answer": "About 25 times weaker at Jupiter, and about 900 times weaker at Neptune.",
-   "explain": "5 times 5 is 25. 30 times 30 is 900. Mars is harder: 1 and a half times 1 and a half is 2 and a quarter, so about 2 times weaker.",
+   "problem": "Sunlight gets weaker by the distance times itself. Mars is about 1 and a half times as far from the Sun as the Earth. Uranus is about 19 times as far. Work out roughly how many times weaker sunlight is at Mars and at Uranus.",
+   "answer": "About 2 times weaker at Mars, and about 360 times weaker at Uranus.",
+   "explain": "1 and a half times 1 and a half is 2 and a quarter, so about 2 times weaker. 19 times 19 is 361, so about 360 times weaker.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "why_maths": "Multiplying turns a distance into how strong the sunlight is, so you can predict how cold and dim a planet will be.",
    "context": "This uses the rule from the torch test: twice as far, four times weaker."
@@ -2559,13 +2525,13 @@
    "context": "This is about the 3-metre solar system, where you laid out the planets along a string."
   },
   {
-   "problem": "A year on Mercury is 88 days. A year on Venus is 225 days. Arjun, a boy who is 6, has lived about 2,190 days. About how many Mercury years is that? About how many Venus years?",
-   "answer": "About 25 Mercury years and about 10 Venus years.",
-   "explain": "2,190 divided by 88 is about 24.9, so about 25 Mercury years. 2,190 divided by 225 is about 9.7, so about 10 Venus years. A shorter year means more birthdays.",
+   "problem": "A year on Mercury is 88 days. A year on the Earth is 365 days. About how many times does Mercury go round the Sun while the Earth goes round once?",
+   "answer": "About 4 times.",
+   "explain": "365 divided by 88 is about 4, because 4 times 88 is 352. So Mercury goes round about 4 times in one Earth year. A shorter year means more trips round the Sun.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "a5",
-   "why_maths": "Dividing a life into years of different lengths shows how a planet's distance from the Sun changes the length of its year.",
-   "context": "This is about counting birthdays on other planets, where a year is a different length."
+   "why_maths": "Dividing one length of time by another shows how a planet's distance from the Sun changes the length of its year.",
+   "context": "This is about the length of a year on different planets, like the ones you used when working out your age on other planets."
   },
   {
    "problem": "The Earth is about 150 million kilometres from the Sun. Neptune is about 30 times as far. About how far from the Sun is Neptune?",
@@ -2640,12 +2606,11 @@
    "id": "b-book",
    "item": "The Planets, by Gail Gibbons (choose an edition from 2008 or later, which calls Pluto a dwarf planet)",
    "kind": "book",
-   "why": "A clear picture book for ages 5 to 9, with one or two pages on each planet. It helps with the guidebook project.",
+   "why": "A clear picture book for ages 5 to 9, with one or two pages on each planet. A library copy works just as well.",
    "url": "https://www.amazon.in/s?k=The+Planets+Gail+Gibbons",
    "used_in": [
     "p1"
-   ],
-   "plan": "If bought, read it on day 2, before starting the planet guidebook. A library copy works just as well."
+   ]
   }
  ],
  "warmup": [
@@ -2777,7 +2742,7 @@
    "what_is_life": "Every living thing we know of lives on the Earth, at a distance from the Sun where water stays liquid.",
    "what_is_this_world": "The Earth is one of eight planets sharing one Sun. Each gets a different share of its light."
   },
-  "thread": "One Sun sends out its light in every direction. The same light reaches all eight planets, but at each distance it is spread thinner. That one difference, along with what each planet is made of and how much air it has, gives eight very different worlds: scorched Mercury, cloud-wrapped Venus, blue Earth, red Mars and the cold, dim giants. On the Earth, the share of sunlight we get drives the wind and rain and feeds every plant. So one source of light becomes many worlds and, on one of them, countless living things.",
+  "thread": "One Sun sends out its light in every direction. The same light reaches all eight planets, but at each distance it is spread thinner. That one difference, along with what each planet is made of and how much air it has, gives eight very different worlds: scorched Mercury, cloud-wrapped Venus, blue Earth, red Mars and the cold, dim giants. On the Earth, the share of sunlight we get drives the wind and rain and feeds every plant. So the same Sun lights eight very different worlds, and on one of them plants and animals all run on their share of that light.",
   "teachings": [
    {
     "source": "Rig Veda 1.115.1",
@@ -2826,7 +2791,7 @@
   ],
   "art": "A child sitting cross-legged in a patch of sunlight by a window, palm open, with a faint beam passing through the window and on out into space past small drawings of the other planets."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. The torch test uses a phone torch, because its light is a small bright point. A big torch with a shiny reflector sends its light out in a beam and will not give a clean result, so the materials ask for a phone. With the card 10 cm from the torch and a 2 cm hole, the patch is 4 cm wide at 20 cm, 6 cm at 30 cm and 8 cm at 40 cm, which is easy to measure. The edges are fuzzy by a few millimetres, so the step says to count squares more than half lit and to check the widths. The room must be dark, so evening is best. The marble test works on a smooth floor or table. If there is no paper plate, a bent strip of card taped to newspaper works. The Venus test needs a lamp without a shade, or a phone torch, and the ball must be kept a little to one side behind the lamp. Planet spotting depends on the season, so it is outside the spine and says what to do if no planet is up. The ice cube challenge needs sunshine, and gives what to do if the sun goes in. Both games work with two players, and Which Planet Am I? works alone. The spine is the intro, the planet line-up, the torch test, the explanations, roots and the quiz, about 85 minutes over two sessions.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. The torch test uses a phone torch, because its light is a small bright point. A big torch with a shiny reflector sends its light out in a beam and will not give a clean result, so the materials ask for a phone. With the card 10 cm from the torch and a 2 cm hole, the patch is 4 cm wide at 20 cm, 6 cm at 30 cm and 8 cm at 40 cm, which is easy to measure. The edges are fuzzy by a few millimetres, so the step says to count squares more than half lit and to check the widths. The room must be dark, so evening is best. The marble test works on a smooth floor or table. If there is no paper plate, a bent strip of card taped to newspaper works. The Venus test needs a lamp without a shade (a phone torch lights only one side, so it will not do), and the ball must be kept a little to one side behind the lamp. Planet spotting depends on the season, so it is outside the spine and says what to do if no planet is up. The ice cube challenge is outside the spine, needs direct sunshine, says honestly that warm air melts both cubes, and gives what to do if the sun goes in. Both games work with two players, and Which Planet Am I? also works alone, with the clues on the front of each card and the name on the back. The spine is the intro, the planet line-up, the torch test, the explanations, roots and the quiz, about 85 minutes over two sessions.",
  "how_we_found_out": {
   "story": "For about 1,500 years, most astronomers in Europe and the Middle East followed Ptolemy, who lived in Egypt about 150 CE. He taught that the Earth stands still in the centre, and the Sun and planets go round it. In his plan, Venus always stays between the Earth and the Sun. If that were true, we would only ever see Venus as a thin crescent or a dark disc, never fully lit. In 1543 Nicolaus Copernicus said the planets, the Earth among them, go round the Sun, but nobody could yet show who was right. In 1610 Galileo Galilei, an Italian scientist, turned his new telescope on Venus. Over many months he watched her change. When Venus was on the far side of the Sun, she looked small and almost round, fully lit. As she came closer, she grew bigger and thinner, into a large crescent. Venus could only be fully lit if she went round to the far side of the Sun. So Venus goes round the Sun, not the Earth, and Ptolemy's plan was wrong. Later measurements showed that the Earth goes round the Sun too.",
   "who": "Galileo Galilei, an Italian scientist, building on the work of Nicolaus Copernicus",

@@ -18,7 +18,7 @@
 - **Brain**: The soft organ inside your skull that senses, thinks, remembers, feels and controls your body. *e.g.* When you catch a ball, your brain sees the ball, works out where it will go, and moves your hands.
 - **Neuron**: A nerve cell. Neurons carry messages as tiny electrical signals. Your brain has about 86 billion of them. *e.g.* When you touch a hot tumbler, neurons carry the message from your fingers to your brain in a fraction of a second.
 - **Synapse**: The tiny gap where one neuron passes its message to the next. The message crosses the gap as a chemical. *e.g.* Each neuron has synapses with thousands of other neurons, like one person passing notes to many friends.
-- **Memory**: Anything you have learned and kept: a thing that happened, a fact, or a skill. *e.g.* Remembering your grandmother's face, knowing that 2 + 2 is 4, and knowing how to ride a cycle are all memories.
+- **Memory**: Anything you have learned and kept: a thing that happened, a fact, or a skill. *e.g.* Remembering a loved one's face, knowing that 2 + 2 is 4, and knowing how to ride a cycle are all memories.
 - **Short-term memory**: The memory that holds a few things for a few seconds, while you use them. It is also called working memory. *e.g.* Holding an OTP number in your head for the few seconds it takes to type it in.
 - **Long-term memory**: The memory that keeps things for days, years or a whole life. *e.g.* Your name, your home, the words of a song you know well.
 - **Recall**: Bringing a memory back into your mind without being shown it. *e.g.* Saying all the planets without looking at a list is recall.
@@ -74,7 +74,7 @@ Honeybees learn which flower colours give the most nectar, and remember it for d
 - e.g. A crow at your window learns which flat leaves out food.
 - e.g. Slime moulds, which are single-celled, find the shortest way through a maze to their food, and leave a trail that shows where they have already been.
 ### Where is a memory kept? · *debated*
-Scientists agree that memories depend on links between neurons. They have even found, in mice, small groups of neurons that bring back one particular memory when they fire. But a single memory seems to be spread across many parts of the brain, not kept in one spot. And nobody knows how signals between neurons become the experience of remembering your grandmother's face. Here are the main views.
+Scientists agree that memories depend on links between neurons. They have even found, in mice, small groups of neurons that bring back one particular memory when they fire. But a single memory seems to be spread across many parts of the brain, not kept in one spot. And nobody knows how signals between neurons become the experience of remembering a loved one's face. Here are the main views.
 - e.g. When you remember a festival, the sights, sounds, smells and feelings all come back together, though they are handled by different parts of the brain.
 - e.g. People who lose part of their brain in an accident often keep most of their memories.
 - **Most neuroscientists:** A memory is a pattern of strengthened links between neurons, spread across the brain. There is nothing more to it than that.
@@ -136,10 +136,10 @@ Every human brain starts from the same plan, with the same kinds of neurons. The
 
 ## Deep and big questions
 - *big:* If your brain changes every time you learn something, are you the same person you were last year? (hint: Think about what has stayed the same about you, and what has changed.)
-- *deep:* Why did the story list last until the next day, when the repeated list faded? (hint: Think about how many links each word had to other things in your mind.)
+- *deep:* You can hum a song you heard a year ago, but you forget ten words heard yesterday. Why? (hint: Think about the tune, the rhythm, and how often you heard the song.)
 - *deep:* A touch-me-not plant has no brain, yet learned that being dropped was harmless. So what is a memory made of? (hint: Think about what the plant changed, and what your brain changes.)
 - *big:* If you could never forget anything, would that be a good thing? (hint: Think about the things you are glad to forget, and what it would be like to remember every lunch you ever ate.)
-- *deep:* When you remember your grandmother's voice, where is that voice? (hint: Think about whether there is a sound in your head, or something else.)
+- *deep:* When you remember the voice of someone you love, where is that voice? (hint: Think about whether there is a sound in your head, or something else.)
 - *deep:* Is a skill in your hands or in your brain? (hint: Think about your other hand, which has the same muscles but not the same practice.)
 
 ## Story: Paati's Kolam
@@ -202,20 +202,20 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - Ask: Why did Kavya forget the kolam after watching Paati only once?
 - Ask: How did the little song help Kavya remember so many turns?
 - Ask: Why did the kolam go wrong when Kavya tried it with her other hand?
-- Ask: Is there something you can now do without thinking, that was hard when you started?
+- Ask: At the end, Kavya gave Arjun only one corner on the first day. Why?
 
 ## Games
 ### g1 · I Went to the Santhai (20 min)
-- **rules:** Shuffle the cards and put them face down in a pile. Each player takes 5 tokens.; The first player turns over a card and says: 'I went to the santhai and bought tomatoes.' Then they put the card face down in a row.; The next player turns over a new card, says the whole list in order, and adds the new thing.; If you forget a thing or get the order wrong, lose one token. The next player starts a new list.; After each round, say the trick you used to remember: a story, a picture, or grouping.; When a player has no tokens left, they are out. The last player with tokens wins.; Playing alone: turn over one card at a time and say the whole list each time. How long a list can you say? Try again tomorrow and beat it.
-- **Printable cards: 30 market picture cards to cut out:** tomatoes; onions; bananas; a jackfruit; drumsticks; curry leaves; coconut; jasmine flowers; a clay pot; a steel tumbler; a broom; brinjals; lemons; green chillies; a pumpkin; groundnuts; jaggery; a mat; a basket; bangles; a kite; a balloon; a bucket; rice; tamarind; a mango; a watermelon; a comb; a towel; an umbrella
-- **Printable tokens: 15 memory tokens, 5 for each player:** Cut out 15 small circles. Each player starts with 5. You lose one each time you forget.
+- **rules:** Shuffle the market cards and put them in a pile, face down. Each player takes 3 memory tokens.; The first player turns over the top card, shows it to everyone, and says: 'I went to the santhai and bought tomatoes.' Then they put the card face down at the start of a row.; The next player turns over a new card, shows it to everyone, says the whole list in order from memory, and adds the new thing. Then they put the card face down at the end of the row.; If you forget a thing or say the order wrong, the others turn the row face up and check. If you are wrong, give back one token. The row of cards goes to a discard pile, and the next player starts a new list. If the pile of cards runs out, shuffle the discard pile and use it.; If a list reaches 12 things with no mistake, everyone wins that list. Clear the row and start a new list.; After each list, each player says the trick they used to remember: a story, an image in your head, or grouping.; The game ends when a player has no tokens left, or after 20 minutes. The player with the most tokens wins. If two players have the same number, they both win.; Playing alone: turn over one card at a time and say the whole list each time. How long a list can you say before you forget? Try again tomorrow and beat it.
+- **Printable cards: 30 market cards to cut out (each has the name of one thing written on it):** tomatoes; onions; bananas; a jackfruit; drumsticks; curry leaves; coconut; jasmine flowers; a clay pot; a steel tumbler; a broom; brinjals; lemons; green chillies; a pumpkin; groundnuts; jaggery; a mat; a basket; bangles; a kite; a balloon; a bucket; rice; tamarind; a mango; a watermelon; a comb; a towel; an umbrella
+- **Printable tokens: 12 memory tokens to cut out (3 for each player, for up to 4 players):** Memory token; Memory token; Memory token; Memory token; Memory token; Memory token; Memory token; Memory token; Memory token; Memory token; Memory token; Memory token
 - **Printable score sheet: Score sheet:** Player name; Longest list remembered; Trick I used
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards and tokens. 2. Shuffle the cards. 3. Give each player 5 tokens.  
-  *Parent says:* This is a market game. Each of us will say the whole shopping list and add one more thing. If you forget, you lose a token.  
-  *Child mode:* Say the whole list. Add one thing. Forget? Lose a token!
+  *Parent does:* 1. Cut out the cards and tokens. 2. Shuffle the cards and put them face down. 3. Give each player 3 tokens.  
+  *Parent says:* This is a market game. Each of us will say the whole shopping list and add one more thing. If you forget, you give back a token.  
+  *Child mode:* Say the whole list. Add one thing. Forget? Give back a token!
 - **s2 (10 min)**  
-  *Parent does:* Play two rounds. Turn the cards face down as you go, so the list is only in your heads.  
+  *Parent does:* Play two lists. A list ends when someone forgets, or when it reaches 12 things. Turn the cards face down as you go, so the list is only in your heads.  
   *Parent says:* I went to the santhai and bought tomatoes. Your turn. Say tomatoes, then add your card.  
   *Child mode:* Turn a card. Say the whole list. Add your thing.
   - Note: Most children manage 6 to 10 things in the first round. Do not help with the list, but after the round, ask which trick they used.
@@ -223,27 +223,27 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent does:* After the second round, teach a trick: make a story with the list.  
   *Parent says:* Let's try a trick. Make a story as the list grows: the tomatoes rolled into the onions, and a banana slipped on them. Does a story help you go further?  
   *Child mode:* Try making a story as the list grows. Can you go further?
-  - Check: Divya wants to remember a long market list. Which trick will help her most? → **Making a story that joins the things**
+  - Check: Divya, a girl in Class 3, wants to remember a long market list. Which trick will help her most? → **Making a story that joins the things**
 - **s4 (4 min)**  
-  *Parent does:* Play one more round with the story trick, then fill in the score sheet.  
-  *Parent says:* One more round, with stories this time. Then let's write our longest lists on the score sheet.  
+  *Parent does:* Play more lists with the story trick, until the game ends. Then fill in the score sheet.  
+  *Parent says:* One more list, with stories this time. Then let's write our longest lists on the score sheet.  
   *Child mode:* One more round with a story. Write your longest list.
   - Think: Was the story round longer than the first round? Why?
 ### g2 · Number Plate Flash (15 min)
-- **rules:** Shuffle the plate cards and put them face down.; The shower turns over one card and shows it for five seconds, then turns it back.; The other player writes the plate from memory.; Score one point for each letter or digit in the right place. A full plate scores 10.; Take turns being the shower. After 5 plates each, add up the scores.; For round two, read each plate in groups before writing: 'TN 59, AB, 12, 34'. Does grouping raise your score?
-- **Printable cards: 20 number plate cards to cut out:** TN 59 AB 1234; KA 05 MN 4821; KL 07 CD 9036; TG 09 EK 5507; AP 39 BT 7712; TN 01 AX 6380; KA 51 HR 2049; KL 11 PL 3375; TN 38 CQ 8810; MH 12 DE 1468; WB 02 AK 7341; DL 3C AB 9062; KA 03 JN 5190; TN 72 BY 4006; KL 43 F 2208; TG 07 MS 6633; AP 16 CR 0917; TN 22 DT 3591; GJ 01 KP 8024; OD 02 AZ 1157
+- **rules:** Shuffle the plate cards and put them face down. A round uses 10 plates.; One player is the shower. They turn over one card, show it to everyone for five seconds, then turn it back. Everyone else writes the plate from memory.; Score one point for each letter or digit in the right place. A full plate scores 10.; Take turns being the shower, until 10 plates are used. The shower does not write. Add up the points from the first 5 plates you wrote.; For round two, shuffle the used cards, then play 10 plates again. This time, say each plate in groups while you look: 'TN 59, AB, 12, 34'.; Compare your round one and round two scores. Does grouping raise your score?
+- **Printable cards: 20 number plate cards to cut out:** TN 59 AB 1234; KA 05 MN 4821; KL 07 CD 9036; TG 09 EK 5507; AP 39 BT 7712; TN 01 AX 6380; KA 51 HR 2049; KL 11 PL 3375; TN 38 CQ 8810; MH 12 DE 1468; WB 02 AK 7341; DL 3C AB 9062; KA 03 JN 5190; TN 72 BY 4006; KL 43 FA 2208; TG 07 MS 6633; AP 16 CR 0917; TN 22 DT 3591; GJ 01 KP 8024; OD 02 AZ 1157
 - **Printable score sheet: Score sheet:** Player name; Plate; Letters and digits right (out of 10); Did I group it?
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and explain the game.  
   *Parent says:* These are number plates like the ones on cars and autos. The first two letters show the state. TN is Tamil Nadu and KA is Karnataka. I show a plate for five seconds. You write it down.  
   *Child mode:* Look at the plate for five seconds. Then write it down!
 - **s2 (6 min)**  
-  *Parent does:* Play five plates each and score them.  
+  *Parent does:* Play round one: 10 plates. Take turns being the shower, and score each plate.  
   *Parent says:* Here is the first one. Look carefully. Five, four, three, two, one. Now write it.  
   *Child mode:* Look hard. Now write it from memory.
   - Note: Ten letters and digits are more than most people can hold after one look. Most children get 5 to 7 right.
 - **s3 (5 min)**  
-  *Parent does:* Play five more plates each, but this time say each plate in groups before writing.  
+  *Parent does:* Play round two: 10 plates, but this time say each plate in groups while you look, before writing.  
   *Parent says:* This time, say it in groups as you look: TN 59, AB, 12, 34. Four groups instead of ten letters. Does that help?  
   *Child mode:* Say the plate in groups. Then write it.
   - Check: Why does saying 'TN 59, AB, 12, 34' help you remember? → **You hold four groups instead of ten separate letters and digits**
@@ -253,14 +253,13 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Child mode:* Which round did better? Why?
 
 ## Experiments
-### e1 · The Story Trick: does a story help you remember a list? (30 min, 2 days)
+### e1 · The Story Trick: does a story help you remember a list? (35 min, 2 days)
 - **question:** If you make a list of words into a story, do you remember more of them than if you just repeat them?
 - **predict:** You will learn one list by saying each word again and again, and the other by making up a story. Which list will you remember better tomorrow? Why do you think so?
-- **fair test:** Both lists have ten words for everyday things in a home. Each word gets the same time, 10 seconds. After each list, you count backwards from 20 to 1, so you cannot keep repeating the words. Only the way of learning changes. You test both lists the next day too, at the same time, without looking.
-- **safety:** No safety risks.
+- **fair test:** Both lists have ten words for everyday things in a home. Each word gets the same time, 10 seconds. After each list, you count backwards from 20 to 1, so you cannot keep repeating the words. Only the way of learning changes. You test both lists the next day too, at the same time, without looking. The two lists have different words, so if a second person also tries, they swap: a story for list A and repeating for list B. One child's result is a first clue, not proof.
 - **record:** Fill in the table. Then draw two bars for the next day: one for list A and one for list B. Write one sentence about what you found.
 - **results table:** List | How I learned it | My guess: how many I will remember tomorrow | Words remembered straight away (out of 10) | Words remembered the next day (out of 10)
-- **schedule:** day 1: Guess first. Learn list A by repeating each word, and list B by making a story. Test both lists straight away. (25 min); day 2: At the same time of day, without warning and without looking, say all the words you remember from both lists. (5 min)
+- **schedule:** day 1: Guess first. Learn list A by repeating each word, and list B by making a story. Test both lists straight away. (25 min); day 2: At the same time of day, without warning and without looking, say all the words you remember from both lists. (10 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Read the question aloud. 2. Ask for a guess and a reason. 3. Write the guess in the table.  
   *Parent says:* I am going to read you two lists of ten words. One you will repeat, and one you will turn into a story. Which list will you remember better tomorrow? Why do you think so?  
@@ -296,7 +295,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent says:* Do you remember the two lists from yesterday? Tell me every word you can from the list you repeated. Now every word from the story list.  
   *Child mode:* Remember yesterday's two lists? Say every word you can. First the repeat list. Then the story list.
   - Note: Most children remember far more of the story list the next day, often 7 or more, and only 1 to 4 of the repeat list. If the numbers are close, that is a real result too. Ask your child what they did in their head for each list.
-  - Check: Meena remembered 3 words from her repeat list and 8 from her story list the next day. What does this show? → **Making a story helped her remember more**
+  - Check: Meena, a girl in Class 3, remembered 3 words from her repeat list and 8 from her story list the next day. What does this suggest? → **Making a story helped her remember more**
   - Wait: Do this the next day, at about the same time.
 - **s8 (5 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
@@ -308,7 +307,6 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - **question:** If you write with your other hand again and again, does it get faster and neater? How fast does it change?
 - **predict:** On the first try, how long will it take you to write 1 to 10 with your other hand? Will your tenth try be faster or slower? Why do you think so?
 - **fair test:** Every try uses the same numbers, 1 to 10, in the same boxes, with the same pencil. Time each try with the same stopwatch. Count the numbers that go outside their box. Only the number of tries changes.
-- **safety:** No safety risks. Stop if the hand starts to ache, and rest it.
 - **record:** Fill in the table after every try. On day 3, draw a line graph: tries along the bottom, seconds up the side.
 - **results table:** Day | Try | Time (seconds) | Numbers outside the box
 - **schedule:** day 1: Write 1 to 10 once with your usual hand. Then four tries with your other hand, timed. (12 min); day 2: Three more timed tries with your other hand. (8 min); day 3: Three more timed tries. Make a line graph of your times and talk about what changed. (10 min)
@@ -325,7 +323,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent does:* 1. Time four tries with the other hand, one row each. 2. After each try, write the time. 3. Count the numbers that touch or cross the box lines.  
   *Parent says:* Off you go with your other hand. Take your time. I will write down the time. Now let's count how many went outside the boxes.  
   *Child mode:* Write 1 to 10 with your other hand. Then count numbers outside the boxes.
-  - Note: The first try is often two or three times slower than the usual hand, and wobbly. Do not let your child switch hands halfway. Praise the effort, not the speed.
+  - Note: The first try is often two or three times slower than the usual hand, and wobbly. Do not let your child switch hands halfway. Praise the effort, not the speed. If the hand aches, rest it.
 - **s4 (8 min)**  
   *Parent does:* On day 2, do three more timed tries, the same way.  
   *Parent says:* Yesterday you did four tries. Before you start, guess: will today's first try be faster than yesterday's last?  
@@ -342,12 +340,11 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent says:* Look at your graph. What do you think practice did? What did you see that shows it? Why do you think it happened?  
   *Child mode:* Look at your graph. What changed? What shows it? Why?
   - Note: A strong answer: 'Practice made my other hand faster. My first try took 52 seconds and my tenth took 31. My hand did not change, but the links in my brain for writing with that hand got stronger each time.' Most children's line falls quickly at first, then more slowly.
-  - Check: Thara's times with her other hand were 60, 51, 46, 43, 42 seconds. What happens to the time she saves on each try? → **It gets smaller with each try**
+  - Check: Thara, a girl in Class 3, took 60, 51, 46 and 43 seconds on day 1. On day 2 her first try took 41 seconds. What does this suggest? → **Her brain kept some of what she practised the day before**
 ### e3 · Letters or Words: how much can you hold at once? (20 min)
 - **question:** Can you remember more letters when they make words than when they are jumbled?
 - **predict:** The grown-up will read 12 letters in a jumble, then the same 12 letters as four words. How many will you get right each time? Why do you think so?
 - **fair test:** Both rounds use the same 12 letters. The grown-up reads one letter each second. You say them back straight after, in order. Only the order of the letters changes. Do two jumble rounds and two word rounds with different letters, so one lucky round does not fool you.
-- **safety:** No safety risks.
 - **record:** Fill in the table. Draw a bar for each round.
 - **results table:** Round | Jumble or words? | Letters right, in the right place (out of 12)
 - **s1 (3 min)**  
@@ -363,12 +360,12 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent does:* 1. Read the set 1 words letter by letter, one each second, with no pauses. 2. Your child says them back. 3. Count the score.  
   *Parent says:* The same letters, in a new order. D. O. G. S. U. N. C. U. P. P. E. N. Your turn.  
   *Child mode:* Same letters, new order. Listen. Say them back.
-  - Note: Many children notice the words partway through and get all 12. If they do not notice, that is fine. Write the score down.
+  - Note: Many children notice the words partway through and get all 12. If they do not notice, that is a real result too. Write the score down.
 - **s4 (4 min)**  
   *Parent does:* Do set 2 the same way: jumble first, then words.  
   *Parent says:* One more jumble, then one more set of words. Listen carefully.  
   *Child mode:* One more jumble. Then one more set of words.
-  - Note: Set 2 jumble: U, T, N, B, C, A, E, T, S, B, T, A. Set 2 words: C, A, T, B, U, S, N, E, T, B, A, T.
+  - Note: Set 2 jumble: U, T, N, B, C, A, E, T, S, B, T, A. Set 2 words: C, A, T, B, U, S, N, E, T, B, A, T. After set 2, if your child did not notice the words, show them DOG SUN CUP PEN on paper and read set 1 again. Then they will see how much grouping helps.
 - **s5 (4 min)**  
   *Parent does:* Ask what your child thinks, what they saw, and why.  
   *Parent says:* What do you think made the second round of each set easier? What did you see? Why did it happen?  
@@ -378,7 +375,6 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 
 ## Activities
 ### a1 · Yesterday's Breakfast: what does your memory keep? (8 min)
-- **safety:** No safety risks.
 - **record:** Write each question in one of three columns: easy to remember, hard, impossible.
 - **s1 (4 min)**  
   *Parent does:* Ask the six questions one at a time. Wait for each answer.  
@@ -392,7 +388,6 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Ask: Why do you remember your birthday but not an ordinary lunch? (good: Because the birthday was special and I felt happy.; Because we talked about it and saw photos.; Because every lunch is nearly the same.)
   - Think: Shoelaces were easy to do but hard to explain. Is that a different kind of memory?
 ### a2 · Your Brain in Your Hands: how big and how heavy? (10 min)
-- **safety:** No safety risks.
 - **record:** Draw your two fists together and write: my brain is about this big.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to make two fists and put them together, knuckles touching. 2. Hold them up beside their head.  
@@ -400,12 +395,11 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Child mode:* Make two fists. Put them together. Your brain is about this big!
   - Note: Two fists together is a common rough guide. By about age 6, a child's brain is already about 90% of its grown-up size. The head keeps growing a little, but most growth after that is in the links, not the size.
 - **s2 (6 min)**  
-  *Parent does:* 1. Put the full one-litre bottle and the small cup of water in the cloth bag. 2. Let your child lift it. 3. Ask how it feels.  
+  *Parent does:* 1. Put the full one-litre bottle and the small bottle in the cloth bag. 2. Let your child lift it. 3. Ask how it feels.  
   *Parent says:* A grown-up's brain weighs about 1.3 kilograms. This bag is about that heavy. Lift it. Your brain uses about a fifth of the energy from all your food. Why do you think it needs so much?  
   *Child mode:* Lift the bag. A grown-up's brain is this heavy. Why does it need so much food?
   - Check: A brain is about 2% of the body's weight. How much of the body's energy does it use? → **About a fifth**
 ### a3 · Make a Neuron from Dough (15 min)
-- **safety:** Wash hands after playing with dough. Do not eat raw dough.
 - **record:** Draw your neuron and label the middle, the branches, the tail and the gap.
 - **s1 (8 min)**  
   *Parent does:* 1. Roll a ball of dough for the middle of the neuron. 2. Add five or six short thin branches on one side. 3. Add one long thin tail on the other side. 4. Make a second neuron the same way.  
@@ -419,24 +413,22 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Ask: What might happen to a synapse that is used many times? (good: It gets stronger.; The message crosses more easily.; It gets faster.)
   - Note: Each real neuron has synapses with thousands of others. When a synapse is used again and again, the message crosses it more easily. That is one way the brain learns.
 ### a4 · The Path in the Flour: a model of practice (10 min)
-- **safety:** No safety risks. Do it on a sheet of newspaper to catch spills.
 - **record:** Draw the plate after tapping. Write which line stayed and why.
 - **s1 (4 min)**  
-  *Parent does:* 1. Spread the flour evenly. 2. With one finger, draw line A from one side of the plate to the other, once. 3. Draw line B the same way, then trace exactly over it nine more times.  
-  *Parent says:* Draw line A once. Now draw line B, and go over the same line again and again, ten times in all. Count with me.  
-  *Child mode:* Draw line A once. Draw line B ten times, on the same line.
+  *Parent does:* 1. Put the plate on the newspaper. Spread the flour evenly, about 1 cm deep. 2. With one finger, draw line A from one side to the other, once, lightly. 3. Draw line B the same way. Then go over it nine more times, pressing a little deeper each time. On the tenth go, your finger should reach the plate.  
+  *Parent says:* Draw line A once, lightly. Now draw line B, and go over the same line again and again, ten times in all, a little deeper each time. Count with me.  
+  *Child mode:* Draw line A once. Go over line B ten times, a little deeper each time.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask for a guess. 2. Tap the edge of the plate gently with the spoon, five times. 3. Look at both lines.  
   *Parent says:* If I tap the plate, the flour will shift. Which line do you think will fade first? Why?  
   *Child mode:* Guess which line will fade. Tap the plate five times. Look!
-  - Note: The flour slides into the shallow line A first, so it blurs or fades. The deep line B stays clear for longer. If both stay, tap a little harder.
+  - Note: The flour slides back into the shallow line A, so it fills up and fades. The deep line B stays clear for longer. If both stay, tap a little harder. If both vanish, tap more gently next time and say what you saw. It is a rough model.
 - **s3 (3 min)**  
   *Parent does:* Talk about what the model shows, and what it does not.  
-  *Parent says:* Line B was used ten times, so it was deeper and lasted longer. In your brain, a path of neurons that is used again and again gets stronger too. But this is only a model. A brain has no flour, and its paths are links between neurons.  
+  *Parent says:* Line B was gone over ten times, so it was deeper and lasted longer. In your brain, a path of neurons that is used again and again gets stronger too. But this is only a model. You pressed deeper on purpose, a brain has no flour, and its paths are links between neurons.  
   *Child mode:* Line B was used more. It lasted longer. Brain paths are like that too.
   - Check: In the model, what does tracing line B ten times stand for? → **Practising something many times**
 ### a5 · A Memory Walk Through Your Home (15 min)
-- **safety:** No safety risks.
 - **record:** Draw a map of your memory walk with the ten places numbered.
 - **s1 (4 min)**  
   *Parent does:* 1. Walk through the flat with your child. 2. Choose ten places in order. For example: front door, shoe rack, sofa, TV, dining table, sink, fridge, bucket, bed, window. 3. Walk them twice.  
@@ -455,7 +447,6 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Note: Many children get eight to ten. Ask again tomorrow without warning. Places you know well give each picture something solid to hold on to.
   - Check: Why does the memory walk help? → **Each thing is joined to a place you already know well**
 ### a6 · Colour and Number Pairs: Mary Calkins' test (15 min)
-- **safety:** No safety risks.
 - **record:** Make a table: colour, number, times shown, remembered or not.
 - **s1 (3 min)**  
   *Parent does:* Tell your child about Mary Calkins, then explain the test.  
@@ -464,27 +455,27 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Note: Calkins did all the work for a doctorate at Harvard in 1895, and her examiners praised it highly, but Harvard refused to give women degrees. She later led two of America's biggest groups of psychologists and philosophers. Her paired test is still used in memory research.
 - **s2 (6 min)**  
   *Parent does:* 1. Show each crayon for about 3 seconds while saying a two-digit number. 2. Show two of the colours three times each, spread through the list, always with the same number. 3. Show the others once. 4. Write down every pair.  
-  *Parent says:* Red, 47. Blue, 82. Green, 15. Yellow, 63. Red, 47. Brown, 29. Pink, 91. Blue, 82. Orange, 36. Black, 58. Red, 47. Blue, 82.  
+  *Parent says:* Red, 47. Blue, 82. Green, 15. Yellow, 63. Red, 47. Brown, 29. Blue, 82. Pink, 91. Red, 47. Blue, 82. Orange, 36. Black, 58.  
   *Child mode:* Watch each colour. Listen to its number.
-  - Note: In this list red and blue are shown three times. Change the colours to the crayons you have, but keep two of them shown three times.
+  - Note: In this list red and blue are shown three times, and the last two pairs, orange and black, are shown once. Change the colours to the crayons you have, but keep two of them shown three times.
 - **s3 (6 min)**  
   *Parent does:* 1. Count back from 20 together. 2. Show each colour once, in a new order, and ask for its number. 3. Tick the right ones.  
   *Parent says:* Count back from 20 with me. Now, what number went with this colour? And this one?  
   *Child mode:* Count back from 20. Then say the number for each colour.
-  - Note: Most children get the colours shown three times right much more often than the others. Calkins found that how often a pair was seen mattered more than anything else she tested.
+  - Note: Most children get the colours shown three times right more often than the others. If yours does not, that is a real result too. Calkins found that how often a pair was seen mattered more than anything else she tested.
   - Check: Which pairs did most children remember best in this test? → **The ones shown three times**
 
 ## Projects
-### p1 · My 7-Day Practice Diary (70 min, 7 days)
+### p1 · My 7-Day Practice Diary (90 min, 7 days)
 - **safety:** Choose a safe skill. Skipping and ball skills need clear space away from furniture, glass and stairs.
 - **record:** Each day, write the date, your number, and one sentence about how it felt. On day 7, draw a line graph.
-- **schedule:** day 1: Choose a skill. Decide what number you will measure. Do it once and write down the number. Then practise for ten minutes. (15 min); day 2: Measure first, then practise for ten minutes. (10 min); day 3: Measure first, then practise. (10 min); day 4: Measure first, then practise. (10 min); day 5: Measure first, then practise. (10 min); day 6: Measure first, then practise. (10 min); day 7: Measure, then draw a graph of all seven days and write what changed. (15 min)
+- **schedule:** day 1: Choose a skill. Decide what number you will measure. Do it once and write down the number. Then practise for ten minutes. (15 min); day 2: Measure first, then practise for ten minutes. (12 min); day 3: Measure first, then practise. (12 min); day 4: Measure first, then practise. (12 min); day 5: Measure first, then practise. (12 min); day 6: Measure first, then practise. (12 min); day 7: Measure, then draw a graph of all seven days and write what changed. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Help your child choose one skill they cannot yet do well. 2. Choose a number to measure each day. 3. Measure it once. 4. Practise for ten minutes.  
-  *Parent says:* Choose something you cannot do well yet. It could be a five-dot kolam, catching a ball 20 times, skipping, or saying a Thirukkural couplet. How will we measure it each day?  
+  *Parent says:* Choose something you cannot do well yet. It could be a five-dot kolam, catching a ball 20 times, skipping, or saying a Thirukkural couplet or a rhyme. How will we measure it each day?  
   *Child mode:* Choose a new skill. How will you measure it? Try it once.
   - Note: Good numbers to measure: catches in a row without dropping, skips in a row, seconds to draw a kolam, or words of a couplet said without help. Measure before practising each day, so the number shows what stayed overnight.
-- **s2 (10 min)**  
+- **s2 (12 min)**  
   *Parent does:* On days 2 to 6, measure first, then practise for ten minutes. Write the number in the diary.  
   *Parent says:* Measure first, before practising. Write down your number. Now practise for ten minutes.  
   *Child mode:* Measure first. Write the number. Then practise ten minutes.
@@ -494,13 +485,13 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent does:* On day 7, measure one last time, draw a line graph, and talk about it.  
   *Parent says:* Let's draw a graph of all seven days. What changed? Your arms and legs are the same as last week. So what changed?  
   *Child mode:* Draw your seven numbers as a line. What changed? Where?
-  - Check: After seven days, Sneha could skip 40 times instead of 8. What changed most? → **The links in her brain for skipping got stronger**
+  - Check: After seven days, Sneha, a girl in Class 3, could skip 40 times instead of 8. What changed most? → **The links in her brain for skipping got stronger**
   - Wait: Do this on day 7.
 
 ## Challenges
 ### c1 · Help Thatha Remember (25 min)
 - **problem:** Thatha, a grandfather, keeps forgetting whether he has taken his evening tablet. Design a reminder that helps him know, every evening, whether he has already done it.
-- **your turn:** Now design your own reminder. Draw it, make a model, and test it on a grown-up for three days with a pretend task.
+- **your turn:** Now design your own reminder. Draw it, make a model, and test it with a pretend task, such as drinking a glass of water at 7 o'clock. Keep using it for three days if you like.
 - **constraints:** Use only paper, cardboard, pens, clips and things from home.; It must show clearly whether today's tablet is done.; It must be easy to use with one hand.; You never touch the real tablets. A grown-up handles medicines.
 - **general:** A pill box with one space for each day of the week, so an empty space shows the tablet is taken.; A chart on the wall with a tick for each day.; An alarm on a phone at the same time every evening.
 - **creative:** A clothes peg that moves along a strip of the seven days each time the tablet is taken.; A card hung on the door handle, with 'done' on one side and 'not yet' on the other.; Linking the tablet to something Thatha already does every evening, like the 7 o'clock news, so the habit carries it.
@@ -518,18 +509,18 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent says:* Here are some ideas other people use. Which is most like yours? Can you make yours better?  
   *Child mode:* Look at other ideas. Can you make yours better?
   - Check: Why does linking the tablet to the 7 o'clock news help Thatha? → **The news reminds him of the task he does at the same time every day**
-### c2 · Twenty Things Tomorrow (25 min)
-- **problem:** Amma is going to the market tomorrow and has lost her pen. Remember her list of 20 things until tomorrow evening, with no writing.
-- **your turn:** Make up your own memory trick for a list of 20 things. Teach it to someone in your family and test them tomorrow.
+### c2 · Twenty Things Tomorrow (23 min)
+- **problem:** Amma is going to the market tomorrow evening and has lost her pen. Remember her list of 20 things until then, with no writing.
+- **your turn:** Make up your own memory trick for a list of 20 things. Teach it to a family member or a friend, and test them tomorrow.
 - **constraints:** No writing or drawing the list.; You hear the list once, slowly, and you get ten minutes to use your tricks.; You must say the list tomorrow, at least 24 hours later.
 - **general:** Group the list: things for the kitchen shelf, the fridge, the vegetable shop, the fruit shop and for cleaning.; Make a story that joins all twenty.; Put each thing in a place on a memory walk through your home.
 - **creative:** Use the first letters to make a silly sentence.; Sing the list to a song you already know.; Act out each thing with your hands as you say it.
 - **s1 (3 min)**  
-  *Parent does:* Read the list once, slowly, while your child listens.  
+  *Parent does:* In the evening, read the list once, slowly, while your child listens.  
   *Parent says:* Here is Amma's list of twenty things. Listen once. Then you have ten minutes to use any trick you like.  
   *Child mode:* Listen to twenty things. Then use your best tricks!
 - **s2 (10 min)**  
-  *Parent does:* Give your child ten minutes to use any tricks. They may ask for the list to be read once more.  
+  *Parent does:* Give your child ten minutes to use any tricks. Do not read the list again.  
   *Parent says:* Which tricks will you use? You could group them, make a story, or walk them round our home.  
   *Child mode:* Group them? A story? A memory walk? Choose your tricks.
   - Note: Grouping usually helps most with this list. It splits into five groups of four: kitchen shelf, fridge, vegetables, fruit and cleaning. Let your child choose.
@@ -537,7 +528,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent does:* The next evening, ask your child to say the whole list. Count how many they remember.  
   *Parent says:* It is market time. Can you tell me all twenty things on Amma's list?  
   *Child mode:* Say Amma's whole list. How many can you remember?
-  - Check: Pooja grouped the list into kitchen shelf, fridge, vegetables, fruit and cleaning. Why does this help? → **She remembers five groups, and each group brings back its four things**
+  - Check: Pooja, a girl in Class 3, grouped the list into kitchen shelf, fridge, vegetables, fruit and cleaning. Why does this help? → **She remembers five groups, and each group brings back its four things**
   - Wait: Do this the next evening.
 
 ## Worksheets
@@ -550,7 +541,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 3. (fill) The tiny gap where one neuron passes its message to the next is called a ____.  
    **Answer:** ['synapse']. *Why:* A synapse is the tiny gap between two neurons. The message crosses it as a chemical.
 4. (match) Match each memory to its kind.  
-   **Answer:** Remembering your last birthday party → a memory of something that happened; Knowing that Chennai is in Tamil Nadu → a fact; Riding a cycle → a skill memory; Holding an OTP in your head while you type it → short-term memory. *Why:* A strong answer sees that memories differ in what they keep: a time and a place, a fact, a way of moving, or a few things held for a few seconds.
+   **Answer:** Remembering your last birthday party → a memory of something that happened; Knowing that Guwahati is in Assam → a fact; Riding a cycle → a skill memory; Holding an OTP in your head while you type it → short-term memory. *Why:* A strong answer sees that memories differ in what they keep: a time and a place, a fact, a way of moving, or a few things held for a few seconds.
 5. (sort) Sort these. Does your brain do it while you notice, or without you noticing?  
    **Answer:** choosing a sweet at a shop → I notice; keeping your heart beating → Without noticing; working out a sum → I notice; breathing while you sleep → Without noticing; remembering a friend's name → I notice; making you shiver in the cold → Without noticing. *Why:* Your brain does many jobs you never notice, like your heartbeat and breathing in sleep. Thinking and remembering are the jobs you notice.
 6. (mcq) In the Story Trick, you count backwards from 20 after hearing each list. Why?  
@@ -558,17 +549,18 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    **Answer:** To stop you repeating the words in your head, so both lists wait the same way. *Why:* Counting backwards keeps your mind busy, so you cannot keep saying the words to yourself. Both lists then wait in the same way, which makes the test fair.
 7. (truefalse) Most forgetting happens in the first day after you learn something.  
    **Answer:** True. *Why:* True. Hermann Ebbinghaus found this in 1885, and many later studies agree. After the first day, forgetting slows down. That is why recalling something the next day helps so much.
-8. (mcq) Leela, a girl in Class 3, must remember her mother's mobile number, 9841023456. Which is the best way?  
+8. (mcq) Leela, a girl in Class 3, must remember a new mobile number, 9841023456. Which is the best way?  
    Options: As ten separate digits / In two groups, 98410 and 23456 / By saying it very fast  
    **Answer:** In two groups, 98410 and 23456. *Why:* Two groups of five are much easier to hold than ten separate digits. This is chunking. Saying it fast does not help you keep it.
 9. (order) Put these in order, from first to last, to show how a new memory is made and kept.  
    **Answer:** ['notice it', 'hold it in your mind for a few seconds', 'link it to something you already know', 'recall it again on another day']. *Why:* First you must notice something. Then short-term memory holds it. Linking it to what you know helps your brain keep it, and recalling it on later days makes it last.
-10. (write) Kavya, a girl of eight, practised a kolam with her right hand every morning for a month. Then she tried it with her left hand, and it went wrong. Why?  
-   **Answer:** Her left hand has the same kind of muscles, but it had not practised. The practice had made strong links in her brain for drawing with her right hand, not her left.. *Why:* A strong answer says that the skill was built by practice, in the links of the brain for that hand, and that the left hand had not been given that practice.
+10. (write) Paati says a path in the head grows by walking on it. Choose one of your own experiments and say what in it matches her words.  
+   **Answer:** For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'. *Why:* A strong answer picks a real experiment from this unit and says that repeating it again and again made it easier or made more words last.
 11. (draw) Draw two neurons with a gap between them. Draw an arrow to show which way the message goes.  
    **Answer:** Two neurons, each with a round middle, branches and a tail. The tail of the first is close to a branch of the second, with a small gap. The arrow goes along the first neuron's tail, across the gap, into the second.. *Why:* A good drawing shows the gap, the synapse, and the message going from the tail of one neuron to the branches of the next.
-12. (truefalse) We use only 10% of our brain.  
-   **Answer:** False. *Why:* False. Brain scans show every part of the brain working over a day, and damage to almost any part causes problems. The 10% idea is an old myth.
+12. (mcq) Which of these is long-term memory?  
+   Options: Your own name / The OTP you just read / The bus number you saw a second ago  
+   **Answer:** Your own name. *Why:* Your own name stays for years, so it is long-term memory. An OTP you just read, or a bus number you saw a second ago, is held for only a few seconds.
 13. (fill) Grouping many small things into a few bigger pieces, so they are easier to remember, is called ____.  
    **Answer:** ['chunking']. *Why:* Chunking turns many small things into a few bigger ones, like twelve letters into four words.
 14. (write) Write about one thing you can now do without thinking, which was hard when you started. How did it become easy?  
@@ -576,47 +568,47 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 15. (odd) Which one is the odd one out, and why? Riding a cycle, swimming, tying shoelaces, knowing the capital of Kerala.  
    **Answer:** knowing the capital of Kerala. *Why:* The capital of Kerala is Thiruvananthapuram. Knowing it is a fact. The other three are skill memories: things your body knows how to do.
 ### Making Memories Last (stretch) (stretch, 15 questions)
-1. (mcq) In the Other Hand experiment, Shalini wrote 1 to 10 with her other hand ten times over three days. Which result shows that practice worked?  
+1. (mcq) In the Other Hand experiment, Shalini, a girl in Class 3, wrote 1 to 10 with her other hand ten times over three days. Which result shows that practice worked?  
    Options: Her first try took 55 seconds and her tenth took 33 / Every try took about 50 seconds / Her usual hand took 15 seconds  
    **Answer:** Her first try took 55 seconds and her tenth took 33. *Why:* Her time fell from 55 to 33 seconds with practice. If every try took the same time, practice would not have changed anything. Her usual hand's time is a comparison, not a result of practice.
 2. (perspective) Meenakshi and Farhan, two children in Class 4, disagree about memory.  
    **Answer:** A strong answer picks a side with evidence, for example the Story Trick, where the same child remembered far more with a story. It also says what the other side has right: people do differ a little, and some of that may come from birth.. *Why:* Both have a point. People differ somewhat in memory, partly from birth. But the tricks and practice a person uses make a much bigger difference, and memory champions say they trained, not that they were born that way.
 3. (fill) The curved part deep inside the brain, shaped like a seahorse, that helps store new memories of events and places, is called the ____.  
    **Answer:** ['hippocampus']. *Why:* The hippocampus helps store new memories of events and places. Its name is Greek for 'seahorse'.
-4. (truefalse) A grown-up's brain cannot change any more.  
-   **Answer:** False. *Why:* False. Grown-up brains keep changing as they learn. London taxi drivers grew a bigger part of the hippocampus while they learned thousands of streets.
-5. (mcq) Anjali, a girl in Class 3, wants to remember a poem for a show in one month. Which plan will help her most?  
-   Options: Read it ten times on Monday, then rest / Say it from memory for a few minutes on Monday, Wednesday and Saturday, and check it each time / Read it once the night before the show  
-   **Answer:** Say it from memory for a few minutes on Monday, Wednesday and Saturday, and check it each time. *Why:* Saying it from memory on different days makes the memory stronger each time. Reading it many times on one day helps on that day, but most of it fades quickly. One reading the night before is too little.
-6. (write) Your friend Sanjana did the Story Trick. Straight away, she remembered 6 words from each list. The next day she remembered 2 repeated words and 7 story words. Why did the difference show only the next day?  
+4. (write) Your friend Sanjana did the Story Trick. Straight away, she remembered 6 words from each list. The next day she remembered 2 repeated words and 7 story words. Why did the difference show only the next day?  
    **Answer:** Straight away, both lists were still fresh in short-term memory. By the next day the repeated words had mostly faded, because each one stood alone. The story words were linked to each other and to pictures, so they lasted.. *Why:* A strong answer explains that short-term memory hides the difference at first, and that links between the story words help them last overnight.
-7. (sort) Sort these. Do they help you remember for a long time, or not much?  
+5. (sort) Sort these. Do they help you remember for a long time, or not much?  
    **Answer:** making a story from the list → Helps a lot; sleeping well after learning → Helps a lot; testing yourself without looking → Helps a lot; reading the same page again and again → Not much; staying up all night before a test → Not much; learning a little on many days → Helps a lot. *Why:* Stories, sleep, testing yourself and spreading learning over days all strengthen memories. Reading again and again feels good but adds few new links. Staying up all night takes away the sleep that helps memories settle.
-8. (match) Match each memory trick to the reason it works.  
+6. (match) Match each memory trick to the reason it works.  
    **Answer:** Making a story → each word leads to the next; A memory walk → each thing is joined to a place you know well; Grouping → you hold a few groups instead of many small things; Testing yourself → bringing a memory back makes it stronger. *Why:* Every trick works by giving the new thing more links, or by giving your short-term memory fewer things to hold.
-9. (mcq) A honeybee visits blue flowers that have lots of nectar and yellow flowers that have none. The next day, which flowers will she most likely visit first?  
+7. (mcq) A honeybee visits blue flowers that have lots of nectar and yellow flowers that have none. The next day, which flowers will she most likely visit first?  
    Options: Blue / Yellow / Any colour, because bees do not learn  
    **Answer:** Blue. *Why:* Honeybees learn which colours give nectar and remember it for days. She has learned that blue flowers are worth visiting. Bees do learn, so the last option is wrong.
-10. (draw) Draw the shape of the line graph you would expect for ten tries of writing with your other hand. Label the bottom 'try' and the side 'seconds'. Write one sentence about the shape.  
+8. (draw) Draw the shape of the line graph you would expect for ten tries of writing with your other hand. Label the bottom 'try' and the side 'seconds'. Write one sentence about the shape.  
    **Answer:** A line that starts high, falls quickly over the first few tries, then falls more slowly. 'I got faster quickly at first, then more slowly.'. *Why:* A strong answer shows the line going down, and steeper at the start than at the end.
-11. (truefalse) In an experiment, touch-me-not plants learned that being dropped gently was harmless, and remembered it for weeks.  
-   **Answer:** True. *Why:* True. In 2014 Monica Gagliano and her team dropped touch-me-not plants a short way again and again. The plants stopped folding their leaves, and still remembered almost a month later.
-12. (order) Put these in order, to show how practice makes a skill easy.  
+9. (order) Put these in order, to show how practice makes a skill easy.  
    **Answer:** ['the first try is slow and wobbly', 'the links you use get a little stronger each time', 'the skill becomes faster and smoother', 'you can do it without thinking']. *Why:* Practice strengthens the links between neurons step by step. As they strengthen, the skill gets faster, until it needs no thought.
-13. (write) Why is it easier to remember the words of a song than the same words written as a plain list?  
+10. (write) Why is it easier to remember the words of a song than the same words written as a plain list?  
    **Answer:** The tune and the rhythm join the words together, and each line leads to the next. In a plain list, each word stands alone.. *Why:* A strong answer says the tune adds links between the words, the same way a story does.
-14. (odd) Which one is the odd one out, and why? Hippocampus, neuron, synapse, kidney.  
+11. (odd) Which one is the odd one out, and why? Hippocampus, neuron, synapse, kidney.  
    **Answer:** kidney. *Why:* The kidney cleans the blood. The hippocampus, neurons and synapses are all parts of the brain's way of thinking and remembering.
-15. (mcq) Rani, a girl of eight, hears a list of digits once and says them back. About how many can most children of her age hold?  
+12. (mcq) Rani, a girl of eight, hears a list of digits once and says them back. About how many can most children of her age hold?  
    Options: About 2 / About 5 / About 20  
    **Answer:** About 5. *Why:* Most children of 8 can hold about 5 digits heard once, and most grown-ups about 7. That is why longer numbers are easier in groups.
+13. (mcq) Why do doctors ask a person who has had a stroke to keep practising a movement?  
+   Options: Practice can build new links around the damaged part / The muscle needs to get tired / Practice makes the brain heavier  
+   **Answer:** Practice can build new links around the damaged part. *Why:* After a stroke, part of the brain is damaged. Practice strengthens other links and builds new ones, so the brain can find a new way to do the movement.
+14. (write) You must learn the names of eight rivers of India for a quiz next week. Plan how you would use a story, groups or a memory walk, and on which days you would test yourself.  
+   **Answer:** For example: 'I would group them by region, make a silly story for each group, and test myself without looking on day 2, day 4 and the day before the quiz.'. *Why:* A strong answer names a trick and says why it helps, and spreads testing over different days.
+15. (fill) Trying to bring a memory back without looking is called ____.  
+   **Answer:** ['recall']. *Why:* Recall means bringing a memory back without being shown it. Each recall, especially on a new day, makes the memory stronger.
 ### Thinking About Thinking (challenge) (challenge, 15 questions)
 1. (perspective) Two scientists disagree about the touch-me-not plants that stopped folding after being dropped many times.  
    **Answer:** A strong answer uses the evidence: the plants still folded when shaken in a new way, so they were not just tired, and they kept the change for almost a month. The other side could say that memory in people needs neurons and is far richer.. *Why:* In the experiment, the plants still folded when shaken in a new way, so tiredness does not explain it. Scientists still argue about whether to call this learning. A strong answer weighs both.
 2. (write) Plan a fair test to find out whether sleep helps you remember. What would you do, and what would you keep the same?  
    **Answer:** Learn one list of ten words in the morning and test it in the evening, with no sleep in between. Learn a second, similar list in the evening and test it the next morning, after sleep. Keep the same number and kind of words, the same time to learn, and the same 12 hours of waiting.. *Why:* A strong answer changes only one thing, sleep or no sleep, and keeps the words, the learning time and the waiting time the same.
-3. (write) Arjun, a boy in Class 4, says, 'I am a picture learner. I can only learn from pictures.' How could you test whether this is true?  
-   **Answer:** Give him ten words to learn by hearing them, and ten different but similar words to learn from pictures. Test both the next day. Then do the same with other children. If almost everyone does better with pictures, the pictures help everyone, not only 'picture learners'.. *Why:* When scientists tested this, people did not learn more in their own favourite style. Pictures help most people. A strong answer compares both ways for Arjun and for others.
+3. (write) Imran, a boy in Class 4, says, 'I am a picture learner. I can only learn from pictures.' How could you test whether this is true?  
+   **Answer:** Give Imran ten words to learn by hearing them, and ten different but similar words to learn from pictures. Test both the next day. Then do the same with other children. If almost everyone does better with pictures, the pictures help everyone, not only 'picture learners'.. *Why:* When scientists tested this, people did not learn more in their own favourite style. Pictures help most people. A strong answer compares both ways for Imran and for others.
 4. (mcq) Scientists found that London taxi drivers had a bigger back part of the hippocampus. Then they scanned trainee drivers before they started learning the streets. Why?  
    Options: To check whether people with a big hippocampus simply chose to become drivers / To find the best drivers / Because scans are cheaper for trainees  
    **Answer:** To check whether people with a big hippocampus simply chose to become drivers. *Why:* If drivers were born with a bigger hippocampus, learning would not explain it. The trainees' brains matched other people's at the start. Only those who learned the streets and passed showed the growth. So the learning caused the change.
@@ -629,22 +621,24 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    **Answer:** ['easily']. *Why:* A synapse that is used often gets stronger, so the message passes more easily. This is how practice changes the brain.
 8. (label) Label the drawing of a neuron: the middle, the branches, the long tail, and the gap to the next neuron.  
    **Answer:** ['middle', 'branches', 'long tail', 'gap (synapse)']. *Why:* The branches receive messages, the middle holds the cell's centre, the tail sends the message on, and the gap is where it crosses to the next neuron.
-9. (write) Imagine you could never forget anything at all. Give one good thing and one bad thing about it.  
-   **Answer:** Good: I would never lose a name or a fact. Bad: I would remember every boring lunch and every bad moment, and it might be hard to find the important things among them.. *Why:* A strong answer sees that forgetting is useful. It clears away what does not matter, so the important memories stand out.
-10. (sort) Paati, a grandmother in Madurai, has many memories. Sort them by kind.  
+9. (sort) Paati, a grandmother in Madurai, has many memories. Sort them by kind.  
    **Answer:** how to draw a sikku kolam → A skill; the day of her wedding → Something that happened; that Madurai is on the Vaigai river → A fact; how to swim → A skill; the first time she saw the sea → Something that happened; that a week has seven days → A fact. *Why:* Memories of events have a time and a place. Facts are things known without remembering when you learned them. Skills are done by the body without thinking of the steps.
-11. (mcq) In Letters or Words, Arjun got all 12 letters right as words, but only 5 as a jumble. His sister Suha says the words were read more slowly. How could they check?  
+10. (mcq) In Letters or Words, Imran got all 12 letters right as words, but only 5 as a jumble. His sister Suha says the words were read more slowly. How could they check?  
    Options: Use a stopwatch to read both rounds at one letter each second / Do only the word round again / Ask Arjun which was easier  
-   **Answer:** Use a stopwatch to read both rounds at one letter each second. *Why:* If both rounds are read at the same speed, speed cannot explain the difference. Only the order of the letters should change. Asking Arjun tells us what he felt, not what caused it.
-12. (truefalse) Practising for 10 minutes on each of 6 days usually helps more than practising for one hour on one day.  
-   **Answer:** True. *Why:* True. The total time is the same, an hour. But practice spread over days gives the brain time and sleep to strengthen the links, and each new day brings the memory back again.
-13. (mcq) A Carnatic music teacher in Chennai makes new students sing the same simple exercises every day for months before they learn songs. Why?  
+   **Answer:** Use a stopwatch to read both rounds at one letter each second. *Why:* If both rounds are read at the same speed, speed cannot explain the difference. Only the order of the letters should change. Asking Imran tells us what he felt, not what caused it.
+11. (mcq) A Carnatic music teacher in Chennai makes new students sing the same simple exercises every day for months before they learn songs. Why?  
    Options: So the patterns become strong enough to sing without thinking / Because songs are too loud / Because the teacher has forgotten the songs  
    **Answer:** So the patterns become strong enough to sing without thinking. *Why:* Daily practice strengthens the links for the notes and patterns, until they come without effort. Then the student's attention is free for the song itself.
-14. (write) Your brain changes every time you learn something. Are you the same person you were last year? Give a reason.  
-   **Answer:** Any answer with a reason. For example: 'Partly. My brain has new links from everything I learned, so I am a bit different. But I still have my old memories and my name, so I am still me.'. *Why:* A strong answer uses the science, that learning changes the brain, and thinks about what stays the same as well as what changes.
-15. (odd) Which one is the odd one out, and why? Making a story, grouping, a memory walk, reading the same page ten times.  
+12. (odd) Which one is the odd one out, and why? Making a story, grouping, a memory walk, reading the same page ten times.  
    **Answer:** reading the same page ten times. *Why:* Making a story, grouping and a memory walk all give new things links to each other or to things you know. Reading the same page again adds very few new links.
+13. (mcq) Mary Calkins found that colours shown three times were remembered better than colours shown once. What is the best explanation?  
+   Options: Each time you meet a pair, the link between them gets stronger / Colours shown three times are brighter / The numbers with them were easier  
+   **Answer:** Each time you meet a pair, the link between them gets stronger. *Why:* Seeing a pair again and again strengthens the link between the colour and the number. The colours and numbers were the same kind for every pair, so brightness or easy numbers do not explain it.
+14. (mcq) A slime mould has no brain and no neurons, yet finds the shortest way through a maze to food. What does this suggest?  
+   Options: Finding a way and leaving a trail does not need neurons / Slime moulds secretly have brains / Mazes are easy for every living being  
+   **Answer:** Finding a way and leaving a trail does not need neurons. *Why:* Scientists have seen slime moulds, which are single cells, find short ways through mazes. This suggests that a brain is not needed for every kind of finding the way. Whether to call this memory is still argued about.
+15. (truefalse) If two people remember the same festival differently, one of them must be lying.  
+   **Answer:** False. *Why:* False. Memories are built again each time we recall them, so two honest people can remember the same day differently.
 
 ## Videos
 - **Use Your Brain!** (SciShow Kids, 5 min) id `b79xio8qgiY`: A cheerful, simple tour of what the brain does and how its parts work together, made for young children. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 4.5 minutes, from YouTube's search listing. Not watched from here: a parent should preview it.
@@ -664,28 +658,25 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 4. (mcq) Why does a skill get easier with practice?  
    Options: The links between the neurons you use get stronger / Your hands grow new fingers / Your brain gets heavier every day  
    **Answer:** The links between the neurons you use get stronger. *Why:* Each time you practise, the links between the neurons you use get stronger, so the signal passes more easily. Your brain does not get noticeably heavier.
-5. (mcq) Kalyani learned list A by repeating it and list B by making a story. To make the test fair, what must be the same?  
+5. (mcq) Kalyani, a girl in Class 3, learned list A by repeating it and list B by making a story. To make the test fair, what must be the same?  
    Options: The number and kind of words, and the time for each word / The words themselves / The story  
-   **Answer:** The number and kind of words, and the time for each word. *Why:* Both lists need the same number of similar words and the same time, so only the way of learning changes. The words must be different, or the second list would be easier.
-6. (mcq) In the Story Trick, most children remember far more of the story list the next day. What does this show?  
-   Options: Story words are easier words / What you do with words while you learn them changes how well you remember them / Memory is better in the morning  
-   **Answer:** What you do with words while you learn them changes how well you remember them. *Why:* Both lists had similar words, and only the way of learning changed. So the story helped. Testing at the same time of day rules out the time.
-7. (mcq) Which way of remembering a list of 20 things uses grouping?  
+   **Answer:** The number and kind of words, and the time for each word. *Why:* Both lists need the same number of similar words and the same time, so only the way of learning changes. The words cannot be the same, because you cannot learn the same words for the first time twice, so choose words of the same kind.
+6. (mcq) Which way of remembering a list of 20 things uses grouping?  
    Options: Putting them into fridge things, vegetables and fruit / Saying them very fast / Reading them once  
    **Answer:** Putting them into fridge things, vegetables and fruit. *Why:* Grouping puts many things into a few groups. Each group then brings back the things in it.
-8. (mcq) Which is the best way to remember a times table for a long time?  
+7. (mcq) Which is the best way to remember a times table for a long time?  
    Options: Read it ten times on one day / Say it from memory on many different days / Write it once very neatly  
    **Answer:** Say it from memory on many different days. *Why:* Recalling it on many days makes the memory stronger each time. Reading many times on one day fades quickly.
-9. (mcq) Is it true that we use only 10% of our brain?  
+8. (mcq) Is it true that we use only 10% of our brain?  
    Options: Yes, the rest is spare / No, every part of the brain is used / Yes, but only children  
    **Answer:** No, every part of the brain is used. *Why:* Brain scans show every part of the brain working over a day. The 10% idea is a myth.
-10. (mcq) What did the study of trainee taxi drivers in London show?  
+9. (mcq) What did the study of trainee taxi drivers in London show?  
    Options: Grown-up brains can change when they learn / Only children's brains change / Driving makes the brain smaller  
    **Answer:** Grown-up brains can change when they learn. *Why:* Trainees who learned the city's streets and passed grew a bigger back part of the hippocampus. Their brains had matched other people's before. So grown-up brains change with learning.
-11. (mcq) A touch-me-not plant was dropped gently many times and stopped folding their leaves. What had happened?  
+10. (mcq) A touch-me-not plant was dropped gently many times and stopped folding their leaves. What had happened?  
    Options: The plant had learned that the drop was harmless / The plant had died / The leaves had fallen off  
    **Answer:** The plant had learned that the drop was harmless. *Why:* The plants learned the drop was harmless and kept that memory for weeks. They still folded when shaken in a new way, so they were not dead or worn out.
-12. (mcq) Which of these beings can learn and remember?  
+11. (mcq) Which of these beings can learn and remember?  
    Options: Only people / Only animals with big brains / People, bees, dogs and plants  
    **Answer:** People, bees, dogs and plants. *Why:* People, bees, dogs and even touch-me-not plants learn from what happened before. Each does it in their own way.
 
@@ -707,9 +698,10 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - A kolam drawn from memory at a doorstep every morning, especially in the month of Margazhi.
 - An auto driver in Chennai who knows the way through hundreds of small lanes without a map.
 - A pill box with the days of the week on it, in a grandparent's room.
+- A Baul singer in Bengal, who learns many songs by ear from a teacher, without a written page, and sings them from memory.
 
 ## Open questions
-- **How do signals between neurons become the experience of remembering?** Scientists can see which neurons fire when we remember, but nobody knows how that becomes the feeling of seeing your grandmother's face in your mind.
+- **How do signals between neurons become the experience of remembering?** Scientists can see which neurons fire when we remember, but nobody knows how that becomes the feeling of seeing a loved one's face in your mind.
 - **Why do we sleep, and exactly what does sleep do to memories?** Sleep clearly helps memories settle, and memory areas replay the day in sleep. But scientists still argue about exactly how this works and why it needs sleep.
 - **How do plants and single-celled beings keep memories without neurons?** Experiments show they learn and remember, but scientists are only beginning to find out what inside them holds the memory.
 - **Why do we forget almost everything from before the age of three?** Young children learn huge amounts, but most grown-ups remember nothing from their first years. There are several ideas, and none is proven.
@@ -718,21 +710,17 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - What is the first thing you remember from when you were little?
 - What did you learn today that you want to remember tomorrow? How will you remember it?
 - Can you tell me today's day from start to finish, in order?
-- What is something you can now do without thinking that was hard last year?
+- Which trick from this unit will you use for your next test or poem?
 - Why do you think we remember happy and scary days better than ordinary ones?
 - Which do you think helps you remember more: reading something again, or trying to say it without looking?
-- What is your favourite memory of Paati or Thatha?
+- What is your favourite memory of a grandparent or another older person you love?
 - How do you think the crow at the window remembers which flat gives food?
 - Can you remember the shopping list for tomorrow without writing it down?
-- If you forgot everything, would you still be you?
+- What is one thing you are glad you forgot?
 
 ## Jokes
 - Knock knock. Who's there? Memory. Memory who? *Sorry, I forgot.*
-- Why did the brain go to the gym? *To make its links stronger.*
-- Why are brains never lonely? *Each neuron has thousands of friends.*
-- Why did the neuron go to the party? *To make new connections.*
-- What did the dosa say to the chutney? *I will never forget you. We always go together.*
-- Why did Kavya put her homework under her pillow? *She heard that sleep helps you remember.*
+- Why did the girl put her homework under her pillow? *She heard that sleep helps you remember.*
 - What is the best way to remember Amma's birthday? *Forget it once.*
 - Why did the pencil practise every day? *It wanted to stay sharp.*
 - Why was the elephant so calm before the test? *Everyone says elephants never forget.*
@@ -740,21 +728,17 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - Why did the student bring a map to her memory walk? *In case she forgot where she put the elephant.*
 - I have a great memory for faces. *It is the names I keep losing.*
 - Why was the forgetful boy good at hide and seek? *Even he did not know where he was hiding.*
-- What does a brain do when it sees a friend? *It waves a neuron.*
 - Why did the taxi driver's brain grow? *It had too many streets to fit in.*
-- What did Paati say when Arjun forgot the kolam? *Don't worry, it will come back to you, one dot at a time.*
-- Why did the goldfish laugh at the joke a month later? *Goldfish can remember things for months, not just a few seconds.*
-- What did the sticky note say to the brain? *Don't worry, I've got this one.*
 
 ## Connected maths
 - In the Story Trick, Meena remembered 3 words from her repeated list and 8 words from her story list the next day. Each list had 10 words. How many more story words did she remember? What fraction of each list did she remember? **5 more story words. She remembered 3 tenths of the repeated list and 8 tenths of the story list.**. 8 - 3 = 5, so 5 more. Each list had 10 words. 3 out of 10 is three tenths. 8 out of 10 is eight tenths. (queues `math.fractions.fractions-of-a-whole.L3`)
-- Ravi wrote 1 to 10 with his other hand. His times were 50, 44, 40, 38 and 37 seconds. How many seconds did he save on each new try? Guess his time on the sixth try, and say why. **He saved 6, 4, 2 and 1 seconds. A good guess for the sixth try is about 36 or 37 seconds.**. 50 - 44 = 6. 44 - 40 = 4. 40 - 38 = 2. 38 - 37 = 1. The savings get smaller each time, so the next one is probably about 1 second or less. (queues `math.addition-subtraction.word-problems.L3`)
+- Ravi, a boy in Class 3, wrote 1 to 10 with his other hand. His times were 50, 44, 40, 38 and 37 seconds. How many seconds did he save on each new try? Guess his time on the sixth try, and say why. **He saved 6, 4, 2 and 1 seconds. A good guess for the sixth try is about 36 or 37 seconds.**. 50 - 44 = 6. 44 - 40 = 4. 40 - 38 = 2. 38 - 37 = 1. The savings get smaller each time, so the next one is probably about 1 second or less. (queues `math.addition-subtraction.word-problems.L3`)
 - A grown-up's brain weighs about 1300 grams. A full one-litre bottle of water weighs about 1000 grams. How much more water must you add to match the brain? About how many 100-gram packets of biscuits weigh the same as a brain? **About 300 grams more water. About 13 packets.**. 1300 - 1000 = 300 grams. 1300 grams is 13 lots of 100 grams, so 13 packets. (queues `math.weight-capacity.weight.L3`)
-- The number plate KA 05 MN 4821 has 10 letters and digits. Shreya says it as KA 05, MN, 48, 21. How many groups is that? If she can hold 5 things in her short-term memory, can she hold the plate as separate letters and digits? As groups? **4 groups. As 10 separate letters and digits, no. As 4 groups, yes.**. KA 05 is one group, MN is one, 48 is one and 21 is one, so 4 groups. 10 things are more than 5, but 4 groups are fewer than 5. (queues `math.division.sharing-and-grouping.L3`)
+- A card number has 12 digits, written in groups of 4. How many groups is that? Shreya, a girl in Class 3, can hold about 5 things in her short-term memory. Can she hold the number as 12 separate digits? As groups? **3 groups. As 12 separate digits, no. As 3 groups, yes.**. 12 divided by 4 is 3, so there are 3 groups. 12 things are more than 5, but 3 groups are fewer than 5. (queues `math.division.sharing-and-grouping.L3`)
 - Divya practised catching a ball for 7 days. Her catches in a row were 4, 7, 9, 8, 12, 14, 15. On which day did her number go down? What was her biggest jump from one day to the next? Why might a number go down for one day? **It went down on day 4, from 9 to 8. The biggest jump was from day 4 to day 5, 4 more catches. A number can dip on a day when you are tired, distracted or unlucky.**. The jumps are 3, 2, then down 1, then 4, 2 and 1. One bad day does not mean practice stopped working. The whole line still goes up. (queues `math.data.bar-charts.L3`)
 
 ## Song
-Practise, Practise, Make the Path (sci.mind.L3): Topic-level song for Mind, brain and memory L3
+Practise, Practise, Make the Path (sci.mind.L3): A song about how practice makes the brain's paths stronger.
 
 ## Links
 - [Neuroscience for Kids](https://faculty.washington.edu/chudler/neurok.html) · interactive: A long-running free site by the neuroscientist Eric Chudler, with brain facts, memory games and simple experiments for children.
@@ -762,7 +746,7 @@ Practise, Practise, Make the Path (sci.mind.L3): Topic-level song for Mind, brai
 - [NIMHANS Brain Museum](https://nimhans.ac.in) · place · Bengaluru: A museum at the National Institute of Mental Health and Neurosciences where visitors can see real human brains and learn how they work. Check the opening days before you go.
 
 ## Things to buy
-- [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this unit works without it. Used in p1. Read it together during the 7-Day Practice Diary, on day 1 or day 7.
+- [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this unit works without it. Used in p1. 
 
 ## Warm-up
 - What are nerve cells called? → Neurons.

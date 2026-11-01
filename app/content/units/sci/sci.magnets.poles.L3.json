@@ -172,7 +172,7 @@
    "concept": "Bendy fridge magnets have many poles",
    "status": "defined",
    "definition": "A bendy fridge magnet has thin stripes of north and south poles side by side on its magnetic face.",
-   "description": "The stripes are a few millimetres wide. Press two bendy magnets face to face and slide one across the other. In one direction it slides smoothly. In the other, it bumps, because it crosses stripes that attract and repel in turn. Having many poles close together makes the magnet hold strongly to the fridge from very close, while its force dies away very close to its face. Its back face hardly attracts at all.",
+   "description": "The stripes are a few millimetres wide. Press two bendy magnets face to face and slide one across the other. In one direction it slides smoothly. In the other, it bumps, because it crosses stripes that attract and repel in turn. Having many poles close together makes the magnet hold strongly to the fridge, but its force dies away very quickly as you move away from its face. Its back face hardly attracts at all.",
    "examples": [
     "Slide two fridge magnets face to face. Feel the bumps.",
     "The back of a bendy fridge magnet does not stick to the fridge."
@@ -284,11 +284,6 @@
    "hint": "Who chose the names, and what did they know at the time?"
   },
   {
-   "q": "Could a north pole ever exist without a south pole?",
-   "kind": "deep",
-   "hint": "Scientists have searched for one for nearly a hundred years. What would finding one change?"
-  },
-  {
    "q": "Two magnets that repel each other are using the same force as two that attract. Are attracting and repelling two different things, or one thing seen two ways?",
    "kind": "big",
    "hint": "In the float test, what did the repelling magnet do next?"
@@ -357,7 +352,7 @@
    "context": "In this experiment you float two bar magnets on plastic lids in a tub of water. You find their north poles, then test what happens when poles face each other, and what a pushed-away magnet does when you let it go.",
    "question": "When two floating magnets repel each other, do they stay apart?",
    "predict": "Guess first. Float two magnets with their north poles facing each other, and let go. Will they stay apart, drift away, or end up stuck together? Why do you think so?",
-   "fair_test": "Use the same two magnets, the same lids and the same tub every time. Start each try with the magnets 10 cm apart, and let go gently without pushing. Only change which poles face each other. Do each pairing 3 times, because one try can be a fluke. Switch off the fan, because moving air pushes the lids.",
+   "fair_test": "Use the same two magnets, the same lids and the same tub every time. In the gap test, start each try 15 cm away and move in at the same slow speed. In the let-go test, start each try with the magnets 10 cm apart, and let go gently without pushing. Only change which poles face each other. Do each pairing 3 times, because one try can be a fluke. Switch off the fan, because moving air pushes the lids.",
    "results_table": [
     "Poles facing",
     "Try",
@@ -391,7 +386,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up spilled water so nobody slips. Keep magnets away from phones, cards and small children's mouths.",
+   "safety": "Keep magnets away from phones, bank cards and small children, who may swallow them.",
    "schedule": [
     {
      "day": 1,
@@ -399,7 +394,7 @@
      "what": "Float one magnet to find its north pole. Label both magnets. Test north to south, north to north and south to south. Let the boats go and watch what they do."
     }
    ],
-   "record": "Fill in the table for each try. Then draw what the two boats did after you let go, in three pictures.",
+   "record": "Fill in the table for each try. Leave the gap blank for S to S, because you only let it go. Then draw what the two boats did after you let go, in three pictures.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -425,7 +420,7 @@
      [
       "S to S",
       "1",
-      "5",
+      "–",
       "Pushed apart, turned round, then stuck"
      ]
     ]
@@ -436,7 +431,7 @@
      "caption": "1. Float one magnet. Wait until it stops turning."
     },
     {
-     "art": "A child's hand holding a second bar magnet near the floating one, with a ruler lying across the tub's rim to show the gap.",
+     "art": "A child's hand holding a second bar magnet near the floating one, with a ruler held just above the water beside the two magnets to show the gap.",
      "caption": "2. Bring a pole slowly closer. Measure the gap when the boat moves."
     },
     {
@@ -474,7 +469,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Let the floating magnet settle. 2. Lay the ruler across the rim of the tub. 3. Hold the second magnet's S end 15 cm from the floating N end. 4. Move it closer slowly, about 1 cm every 2 seconds. 5. Stop when the boat first moves, and read the gap. 6. Do it 3 times, then repeat with N facing N.",
+     "do": "1. Let the floating magnet settle. 2. Hold the second magnet's S end 15 cm from the floating N end. 3. Move it closer slowly, about 1 cm every 2 seconds, with a ruler held just above the water beside the two magnets. 4. Stop when the boat first moves, and read the gap between the two ends. 5. Do it 3 times, then repeat with N facing N.",
      "say": "Let's find out how close a magnet must come before the boat feels its force. First south to north, then north to north.",
      "kid": "Hold the S end far away. Move it closer, very slowly. Stop when the boat moves. Read the gap on the ruler. Write it down.",
      "parent": "Water lets the boat move with very little force, so it often moves at 5 to 10 cm with school bar magnets. Your numbers will be different. With N facing N, the boat often turns as well as moving away. Write down what you see."
@@ -529,7 +524,7 @@
        ]
       }
      ],
-     "think": "Repelling only lasted while you held the boats straight. What does that tell you about magnets that are free to turn?"
+     "think": "The boats pushed apart only for a moment. What does that tell you about magnets that are free to turn?"
     }
    ]
   },
@@ -541,7 +536,7 @@
    "context": "In this experiment you slide two bendy fridge magnets over each other and feel for bumps. The bumps tell you how many poles are hidden on the magnet's face.",
    "question": "Does a bendy fridge magnet have just one north pole and one south pole, like a bar magnet?",
    "predict": "Guess first. Press two bendy fridge magnets face to face and slide one along. Will it slide smoothly, or will you feel bumps? Why do you think so?",
-   "fair_test": "Slide the same two magnets across the same distance, 5 cm, at the same slow speed. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.",
+   "fair_test": "Slide the same two magnets across the same distance, 5 cm, at the same slow speed, with their edges lined up. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.",
    "results_table": [
     "Direction of the slide",
     "Bumps in 5 cm, try 1",
@@ -629,14 +624,7 @@
      "do": "1. Slide the top magnet slowly along its length for 5 cm, then across its width for 5 cm. 2. Count the bumps you feel each way. 3. Do each direction 3 times.",
      "say": "Slide slowly and feel with your fingers. Does it slide smoothly, or does it bump? Count every bump.",
      "kid": "Slide the top magnet slowly. Feel it. Count the bumps. Now turn it and slide the other way.",
-     "parent": "In one direction it usually slides smoothly, and in the other it bumps, often 10 to 20 times in 5 cm. If you feel bumps both ways, turn the top magnet a little until one way is smooth."
-    },
-    {
-     "id": "s3",
-     "mins": 4,
-     "do": "1. Try the back faces together. 2. Try the paper clip on the back face, then on the magnetic face.",
-     "say": "Does the back of the magnet attract anything?",
-     "kid": "Try the back sides together. Try the paper clip on the back. Then on the magnetic side.",
+     "parent": "In one direction it usually slides smoothly, and in the other it bumps, often 10 to 20 times in 5 cm. If you feel bumps both ways, turn the top magnet a little until one way is smooth.",
      "check": {
       "t": "mcq",
       "q": "When you slide two fridge magnets face to face one way, you feel many bumps. What does each bump show?",
@@ -648,6 +636,13 @@
       "a": 1,
       "why": "The magnetic face has thin stripes of north and south poles side by side. Sliding across the stripes, a north stripe meets a south stripe and attracts, then meets a north stripe and repels. That is the bump. Picking 'a crack' or 'dust' means looking for a fault, but the bumps are regular, so they come from a pattern."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.",
+     "say": "Does the printed side of the magnet attract anything?",
+     "kid": "Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side."
     },
     {
      "id": "s4",
@@ -688,7 +683,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not let strong magnets snap onto fingers. Keep them away from phones.",
+   "safety": "Keep magnets away from phones, bank cards and small children.",
    "schedule": [
     {
      "day": 1,
@@ -751,12 +746,12 @@
    "context": "In this activity a grown-up wraps a magnet and a plain piece of steel in paper so they look the same. You find out which is the magnet using only your own magnet.",
    "materials": [
     {
-     "item": "2 bar magnets",
+     "item": "2 bar magnets, one with its north end marked as in the Magnet Boats experiment",
      "qty": 2,
      "buy": "b-magnets"
     },
     {
-     "item": "a steel bolt, a big iron nail, or a steel spoon handle about as long as a magnet",
+     "item": "a steel bolt, a big iron nail, or a steel spoon, about as long as a magnet",
      "qty": 1
     },
     {
@@ -764,7 +759,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up wraps the nail so its point is covered.",
+   "safety": "If you use a nail, a grown-up wraps it so the point is covered.",
    "schedule": [
     {
      "day": 1,
@@ -846,7 +841,7 @@
      "qty": 1
     },
     {
-     "item": "a lump of clay or atta dough, to stand the pencil up",
+     "item": "a lump of clay or dough, to stand the pencil up",
      "qty": 1
     }
    ],
@@ -861,7 +856,7 @@
    "record": "Draw the floating rings, and label each face N or S.",
    "setup": [
     {
-     "art": "A pencil standing in a lump of atta dough with three ring magnets on it, each floating above the one below with a gap.",
+     "art": "A pencil standing in a lump of dough with three ring magnets on it, each floating above the one below with a gap.",
      "caption": "1. Thread the rings so each one repels the one below."
     },
     {
@@ -916,7 +911,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -952,14 +946,14 @@
      "kid": "Draw a cut across the middle. Draw the two halves apart. Write N and S on each half.",
      "check": {
       "t": "mcq",
-      "q": "A bar magnet is cut in half across the middle. What do you get?",
+      "q": "You drew every arrow pointing right, with red heads and blue tails. Cut across the middle. Which pole appears on the left piece, at the cut?",
       "options": [
-       "A north half and a south half",
-       "Two magnets, each with a north and a south pole",
-       "Two pieces that are not magnets"
+       "A north pole, because the red arrow heads come out there",
+       "A south pole, because the blue tails are there",
+       "No pole"
       ],
-      "a": 1,
-      "why": "The tiny magnets inside still point the same way in each half. So each half has north heads coming out at one end and south tails at the other. Picking 'a north half and a south half' is the most common guess, because the poles seem to belong to the ends."
+      "a": 0,
+      "why": "The red heads, the north ends, all come out at the right-hand face of the left piece. So a new north pole appears at the cut on that piece, and a new south pole on the other piece. Picking 'no pole' is the most common guess, because the cut seems to be only the inside of the magnet."
      }
     },
     {
@@ -982,27 +976,34 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a moving game for two or more players, slow enough for a room in a flat. Every player is a magnet with a north and a south pole, and must follow the rule: unlike poles attract, like poles repel.",
+   "context": "This is a moving game for two to six players, slow enough for a room in a flat. Every player is a magnet with a north pole on the front and a south pole on the back, and must follow the rule: unlike poles attract, like poles repel.",
    "printables": [
     {
      "kind": "cards",
-     "title": "Pole badges: print, cut out and tape on",
+     "title": "Pole badges: print, cut out and tape on (6 N and 6 S)",
      "items": [
-      "N badge for the front of your T-shirt",
-      "S badge for the back of your T-shirt",
-      "N badge for the back (swap card)",
-      "S badge for the front (swap card)"
+      "N badge, red, for the front of player 1's T-shirt",
+      "N badge, red, for the front of player 2's T-shirt",
+      "N badge, red, for the front of player 3's T-shirt",
+      "N badge, red, for the front of player 4's T-shirt",
+      "N badge, red, for the front of player 5's T-shirt",
+      "N badge, red, for the front of player 6's T-shirt",
+      "S badge, blue, for the back of player 1's T-shirt",
+      "S badge, blue, for the back of player 2's T-shirt",
+      "S badge, blue, for the back of player 3's T-shirt",
+      "S badge, blue, for the back of player 4's T-shirt",
+      "S badge, blue, for the back of player 5's T-shirt",
+      "S badge, blue, for the back of player 6's T-shirt"
      ]
     }
    ],
    "rules": [
-    "Each player tapes an N badge on their front and an S badge on their back.",
+    "Play with 2 to 6 players. Each player tapes an N badge on their front and an S badge on their back. One player is also the caller.",
     "Players walk slowly around the room. No running.",
-    "When the caller says 'Freeze', each player looks at the nearest player.",
-    "If your N faces their S, you attract: hold hands and walk together as one magnet.",
-    "If your N faces their N, or your S faces their S, you repel: step back three steps.",
-    "If the caller says 'Turn', every player turns round, so front and back swap.",
-    "The game ends when everyone is in one long chain, front to back."
+    "About every 20 seconds, the caller says 'Freeze'. Each player stands still and looks at the nearest player who is not in their chain. Say out loud which poles face each other.",
+    "If an N faces an S, you attract: hold each other's shoulders and walk on together as one long magnet. In a chain, only the front player's N and the last player's S can meet someone new.",
+    "If an N faces an N, or an S faces an S, you repel. Like a free magnet, one side turns round on the spot: the single player, or the shorter chain (if equal, the younger player). Then you attract.",
+    "The game ends when everyone is in one chain. With only 2 players, play three rounds from opposite corners of the room, and say aloud which poles met before you join."
    ],
    "flow": [
     {
@@ -1016,15 +1017,15 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Everyone walks slowly. 2. Call 'Freeze' every 20 seconds. 3. Players check the nearest player and attract or repel. 4. Sometimes call 'Turn'.",
-     "say": "Freeze! Look at your nearest magnet. Do your poles attract or repel?",
-     "kid": "Walk slowly. On 'Freeze', look at the nearest player. Does your front face their back? Hold hands! Front to front? Step back!",
-     "parent": "Two people front to front have north facing north, so they repel. Front to back joins them into a longer magnet, still with N at the front and S at the back."
+     "do": "1. Everyone walks slowly. 2. The caller says 'Freeze' every 20 seconds. 3. Each player or chain looks at the nearest other player and says which poles face each other. 4. If the poles are unlike, join. If they are like, one side turns round on the spot, and you join.",
+     "say": "Freeze! Look at the nearest magnet. Which of your poles face each other? Do they attract or repel?",
+     "kid": "Walk slowly. On 'Freeze', look at the nearest player. Does your front face their back? Hold their shoulders! Front to front, or back to back? One of you turns round, then you join.",
+     "parent": "Front to back is N meeting S, so they join into a longer magnet, still with N at the front and S at the back. Front to front is N meeting N, and back to back is S meeting S, so they repel. Turning round is what a free magnet does in the Magnet Boats experiment."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "When everyone is in one chain, ask a question.",
+     "do": "When everyone is in one chain, stand still and ask the question.",
      "say": "Our whole chain is now one long magnet. Where is its north pole? Where is its south pole?",
      "kid": "You are one long magnet now. Where is its north? Where is its south?",
      "check": {
@@ -1047,7 +1048,7 @@
     },
     {
      "art": "Three children joined in a chain, each holding the shoulders of the one in front, front to back.",
-     "caption": "2. Front to back attracts. Front to front repels."
+     "caption": "2. Front to back attracts. Front to front repels, so one side turns round."
     }
    ]
   },
@@ -1060,37 +1061,59 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game like dominoes. Each card is a magnet with a pole at each end. A card can only join another card where unlike poles meet.",
+   "context": "This is a card game like dominoes, for one to four players. Each half of a card shows the end of a magnet: N or S. A card is two ends side by side, not one magnet. A card can only be placed where unlike poles meet.",
    "printables": [
     {
      "kind": "cards",
-     "title": "28 magnet cards to cut out",
+     "title": "28 pole cards to cut out",
      "items": [
-      "8 cards with N on the left and S on the right, drawn as red-and-blue bar magnets",
-      "8 cards with S on the left and N on the right",
-      "4 'Iron' cards: grey nails with no poles",
-      "4 'Turn round' cards",
-      "4 'Cut' cards"
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "N | N: two north ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "S | S: two south ends",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "N | S: a north end and a south end",
+      "IRON: a grey nail with no poles",
+      "IRON: a grey nail with no poles",
+      "IRON: a grey nail with no poles",
+      "IRON: a grey nail with no poles"
      ]
     }
    ],
    "rules": [
-    "Shuffle the cards and give each player 5. Put the rest face down in a pile.",
-    "Lay one magnet card in the middle.",
-    "On your turn, add a magnet card at either end, where an N meets an S. If you have none that fits, take a card from the pile.",
-    "An Iron card can join any pole, because iron is attracted by both. The chain ends there on that side.",
-    "A Turn round card lets you turn one of your own cards round before you play it.",
-    "A Cut card lets you cut any card in your hand into two: draw a line across it, and each half gets an N and an S.",
-    "The first player with no cards left wins. Playing alone: lay out all the cards in as long a chain as you can."
+    "Shuffle the cards and give each player 5. Put the rest face down as a pile. Turn over cards from the pile until you get a pole card, and lay it in the middle. Shuffle any Iron cards you turned over back into the pile.",
+    "On your turn, add one card at either end of the chain. The half of your card that touches the chain must be unlike the end it touches: N next to S, or S next to N. You may turn the card round to make it fit. Say the rule out loud: unlike poles attract.",
+    "If you cannot play, take one card from the pile. Play it at once if it fits. If it does not fit, your turn ends. If the pile is empty, you pass.",
+    "An Iron card has no poles and is attracted by both, so you can put it on any end. But it has no pole for the next card to meet, so that end of the chain is closed.",
+    "The first player with no cards left wins. If nobody can play and the pile is empty, the player with the fewest cards wins.",
+    "Playing alone: deal yourself 5 cards and play as above. Count the cards in your chain when you are stuck and the pile is empty. Try to beat your score."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Pole Dominoes, a card game about joining magnets.",
-     "do": "1. Cut out the cards. 2. Shuffle and deal 5 to each player. 3. Lay one magnet card in the middle.",
-     "say": "Each card is a magnet. They join only where a north meets a south.",
-     "kid": "Each card is a magnet. You can join cards where N meets S."
+     "do": "1. Cut out the 28 cards. 2. Shuffle and deal 5 to each player. 3. Lay one pole card in the middle.",
+     "say": "Each half of a card is the end of a magnet. A card goes next to the chain only where a north meets a south.",
+     "kid": "Each half of a card is a magnet end. You can join cards where N meets S."
     },
     {
      "id": "s2",
@@ -1098,13 +1121,13 @@
      "do": "Take turns adding cards. Say the rule out loud each time.",
      "say": "Which end can you join? Say why.",
      "kid": "Add a card where N meets S. Say the rule out loud: unlike poles attract.",
-     "parent": "When a player uses a Cut card, ask them to label both halves. Each half must get an N and an S."
+     "parent": "If a player is stuck, ask: which pole is at each end of the chain? Which half of your card would touch it? Cards with two matching ends, N | N or S | S, fit only one kind of end. N | S fits both."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "End with a question.",
-     "say": "The Iron card joins any pole, but nothing can join after it. Why?",
+     "say": "The Iron card joins any pole, but nothing can join after it. Why does it join, and why does the end close?",
      "kid": "Why does the Iron card join any pole?",
      "check": {
       "t": "mcq",
@@ -1115,13 +1138,13 @@
        "Iron repels everything"
       ],
       "a": 0,
-      "why": "Plain iron becomes a temporary magnet with the opposite pole facing whichever pole is near, so it is always attracted. Picking 'Iron is a north pole' mixes up plain iron with a magnet."
+      "why": "Plain iron becomes a temporary magnet with the opposite pole facing whichever pole is near, so it is always attracted. Picking 'Iron is a north pole' mixes up plain iron with a magnet. The game closes the end because an Iron card has no pole of its own for the next card to meet."
      }
     }
    ],
    "setup": [
     {
-     "art": "Printed cards showing small red-and-blue bar magnets, with N and S on their ends, spread on a table.",
+     "art": "Printed cards, each with two halves marked N or S, and a few grey Iron cards, spread on a table.",
      "caption": "1. Cut out the cards and deal 5 each."
     },
     {
@@ -1144,7 +1167,7 @@
      "qty": 1
     },
     {
-     "item": "2 round pencils or 4 bottle caps for wheels, with 2 straws and 2 bamboo skewers for axles",
+     "item": "4 bottle caps for wheels, 2 bamboo skewers for axles and 2 straws to hold the axles (a grown-up makes the holes in the caps)",
      "qty": 1
     },
     {
@@ -1223,7 +1246,7 @@
    "materials": [
     "2 bar magnets or ring magnets",
     "pencils, straws, a clear plastic bottle or glass",
-    "tape, thread, clay or atta dough"
+    "tape, thread, clay or dough"
    ],
    "general": [
     "Put ring magnets on a pencil, so that like poles face each other. The pencil stops the top ring from turning.",
@@ -1358,7 +1381,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Lakshmi says, 'If two things stick together, both must be magnets.' Is she right?",
+     "p": "Lata says, 'If two things stick together, both must be magnets.' Is she right?",
      "a": false,
      "why": "False. A magnet sticks to a steel spoon, and the spoon is not a magnet. A strong answer says that only repelling proves that both are magnets."
     },
@@ -1421,7 +1444,7 @@
        "Can only be attracted"
       ],
       [
-       "a fridge magnet",
+       "a bendy fridge magnet",
        "Can be attracted or repelled"
       ],
       [
@@ -1451,21 +1474,6 @@
      "how": "e1"
     },
     {
-     "t": "write",
-     "p": "Remember the Magnet Boats, where two magnets floated on lids in a tub of water. What did the boats do when they started north facing north? Write what you saw.",
-     "lines": 3,
-     "a": "They pushed apart, then one turned round, and then they came together and stuck.",
-     "why": "A strong answer describes both parts: first the push apart, then the turning and attracting.",
-     "how": "e1"
-    },
-    {
-     "t": "write",
-     "p": "Why is repelling a better test for a magnet than sticking?",
-     "lines": 3,
-     "a": "Plain iron and steel stick to a magnet too. Only a magnet can repel another magnet.",
-     "why": "A strong answer says that attraction happens with plain iron as well, so only a push proves the thing is a magnet."
-    },
-    {
      "t": "draw",
      "p": "Draw two bar magnets that attract and two that repel. Label every pole N or S, and draw arrows to show which way each magnet is pushed or pulled.",
      "a": "Attracting pair: N facing S, arrows pointing towards each other. Repelling pair: N facing N or S facing S, arrows pointing apart.",
@@ -1489,6 +1497,24 @@
      "lines": 5,
      "a": "Both ways work. Nandini's way needs no other magnet, only a tub of water, and it shows why the pole is called north. Shreya's way is quicker, but only works if her own magnet is marked correctly. A strong answer picks one with a reason and gives the other its due.",
      "why": "There is no single right answer. Each way has a strength. Peregrinus used floating in 1269, then used one known magnet to test others."
+    },
+    {
+     "t": "mcq",
+     "p": "Rohini holds two bar magnets that are attracting each other. She turns one of them round, end to end. What happens now?",
+     "opts": [
+      "They repel",
+      "They attract more strongly",
+      "Nothing changes"
+     ],
+     "a": 0,
+     "why": "Turning one magnet round changes which poles face each other. Unlike poles became like poles, and like poles repel."
+    },
+    {
+     "t": "write",
+     "p": "Predict: a bar magnet floats on a lid in a tub. A friend holds the north end of another magnet 3 cm from the floating magnet's south end. What does the lid do, and why?",
+     "lines": 3,
+     "a": "The lid moves towards the friend's magnet, because a north pole and a south pole attract.",
+     "why": "A strong answer names the two poles that face each other and uses the rule, not only the result."
     }
    ]
   },
@@ -1498,28 +1524,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Zoya cuts a bar magnet in half across the middle. What does she get?",
-     "opts": [
-      "A north piece and a south piece",
-      "Two magnets, each with a north and a south pole",
-      "Two pieces of plain iron"
-     ],
-     "a": 1,
-     "why": "Each piece has a north pole and a south pole. New poles appear at the cut. Picking 'a north piece and a south piece' is the most common guess."
-    },
-    {
-     "t": "mcq",
-     "p": "A compass needle's north pole points towards the Earth's magnetic pole in the Arctic. What kind of pole must that be?",
-     "opts": [
-      "A north pole",
-      "A south pole",
-      "No pole at all"
-     ],
-     "a": 1,
-     "why": "Unlike poles attract. The needle's north pole is attracted there, so the Earth's magnetic pole in the Arctic is a south pole."
-    },
     {
      "t": "mcq",
      "p": "Priya's toy train carriages have magnets at each end. One carriage will not join the next. What should she try first?",
@@ -1582,22 +1586,6 @@
      "why": "North and south are unlike poles, so they attract. The other three are like poles, so they repel."
     },
     {
-     "t": "order",
-     "p": "Put these in order, from what you see first to what you see last, when two magnet boats start north facing north.",
-     "items": [
-      "They stick together",
-      "One boat turns round",
-      "They push apart"
-     ],
-     "a": [
-      "They push apart",
-      "One boat turns round",
-      "They stick together"
-     ],
-     "why": "First like poles repel, then the twist turns a magnet round, then unlike poles attract.",
-     "how": "e1"
-    },
-    {
      "t": "label",
      "p": "Label the poles on this drawing of three magnets joined in a row, end to end: write N or S at each of the six ends.",
      "a": "Each magnet has N at one end and S at the other, and at every join an N meets an S. For example: N S, N S, N S from left to right.",
@@ -1619,13 +1607,6 @@
      "a": "So every try was fair. If one try started closer, the force would be stronger, and the result would not be comparable.",
      "why": "A strong answer explains that changing the gap changes the force, so it must be the same each time.",
      "how": "e1"
-    },
-    {
-     "t": "write",
-     "p": "In the story, Lakshmi's grandfather, Thatha, broke a round magnet into two halves. He thought he had a north half and a south half. Explain to him what is really true.",
-     "lines": 3,
-     "a": "Each half has its own north and south pole. You can test it: one face of each half repels a north pole and the other face attracts it.",
-     "why": "A strong answer gives the fact and a way to test it."
     },
     {
      "t": "write",
@@ -1651,6 +1632,55 @@
      "lines": 5,
      "a": "Both have a point. Swathi is right that the name tells you where the place is, and changing it would confuse maps. Rohan is right about what kind of magnetic pole it is. A strong answer picks a side, gives a reason, and gives the other side its due.",
      "why": "Names can describe where something is or what it does. This name describes where."
+    },
+    {
+     "t": "write",
+     "p": "In the Wrapped Mystery, a friend tests only one end of parcel A, with only the north end of her magnet, and the parcel is attracted. She says A must be plain steel. Is she right to be sure?",
+     "lines": 4,
+     "a": "No. A magnet's south end would attract her north end too. She must also try her south end, or the parcel's other end. If it is ever pushed away, it is a magnet.",
+     "why": "A strong answer says that attraction alone cannot tell steel from a magnet, so she needs a test that could show repelling."
+    },
+    {
+     "t": "mcq",
+     "p": "Neha repeats the gap test from the Magnet Boats with a weaker magnet. When does the boat start to move?",
+     "opts": [
+      "At a bigger gap than with the strong magnet",
+      "At a smaller gap than with the strong magnet",
+      "At the same gap"
+     ],
+     "a": 1,
+     "why": "A weaker magnet has a weaker force at every distance. So it must come closer before the force can move the boat.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: the push between two like poles gets stronger as the magnets are brought closer.",
+     "a": true,
+     "why": "True. Magnetic force grows quickly as the gap shrinks, and falls quickly as the gap grows."
+    },
+    {
+     "t": "match",
+     "p": "Match what you saw with the Magnet Boats and the Bumpy Slide to the reason.",
+     "pairs": [
+      [
+       "The boat moved towards your south end",
+       "Unlike poles attract"
+      ],
+      [
+       "The boats pushed apart at first",
+       "Like poles repel"
+      ],
+      [
+       "One boat then turned round",
+       "A free magnet is twisted by the push"
+      ],
+      [
+       "Fridge magnets bumped as they slid",
+       "Their faces have stripes of poles"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each thing you saw has a reason from the rule of poles, or from the stripes of poles on a bendy magnet."
     }
    ]
   },
@@ -1660,29 +1690,6 @@
    "tier": "challenge",
    "mins": 30,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Two magnet boats start south facing south, and you let go. Which picture shows how they end?",
-     "opts": [
-      "Still apart, south facing south",
-      "Touching, north of one facing south of the other",
-      "Both sunk"
-     ],
-     "a": 1,
-     "why": "Like poles repel and twist the magnets. A boat turns until unlike poles face, then the boats attract and touch.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
-     "p": "A magnet is cut into 4 pieces. How many north poles are there now?",
-     "opts": [
-      "1",
-      "2",
-      "4"
-     ],
-     "a": 2,
-     "why": "Each piece is a whole magnet with a north and a south pole. So 4 pieces give 4 north poles and 4 south poles."
-    },
     {
      "t": "mcq",
      "p": "Petrus Peregrinus drew a wheel with iron teeth and a magnet, and thought it would turn forever, because the south pole would push the iron away. What was wrong?",
@@ -1812,7 +1819,7 @@
      "p": "Three people talk about the magnet boats that always ended up stuck together.",
      "views": [
       {
-       "who": "Kavya, a girl in Class 4",
+       "who": "Tara, a girl in Class 4",
        "says": "Magnets prefer to attract. Repelling never lasts."
       },
       {
@@ -1820,15 +1827,35 @@
        "says": "The boats turned because the push was not exactly in a straight line. With perfect aim, they could stay apart."
       },
       {
-       "who": "Farhan, Kavya's cousin",
+       "who": "Imran, Tara's cousin",
        "says": "Even with perfect aim, the slightest wobble would turn them. So they always end up together."
       }
      ],
      "ask": "Who do you agree with most? Use what you saw in the experiment. Then say one thing another person has right.",
      "lines": 6,
-     "a": "A strong answer uses evidence from the boats, such as how often they turned. Meera is right that a perfectly straight push would not twist the magnet at first. Farhan is right that any tiny wobble grows, so in practice they turn. Kavya's 'prefer' is a way of saying what free magnets end up doing.",
+     "a": "A strong answer uses evidence from the boats, such as how often they turned. Meera is right that a perfectly straight push would not twist the magnet at first. Farhan is right that any tiny wobble grows, so in practice they turn. Tara's 'prefer' is a way of saying what free magnets end up doing.",
      "why": "This is a real question about balance. A balance that any wobble upsets is called unstable, and repelling magnets are in that kind of balance.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Some bacteria carry a chain of tiny magnet crystals, joined north to south. Why do the crystals stay joined in a line and not push apart?",
+     "lines": 3,
+     "a": "Where one crystal's north pole meets the next one's south pole, unlike poles attract. So each crystal holds the next, and the chain stays in a line.",
+     "why": "A strong answer uses the rule that unlike poles attract, as in a row of joined magnets."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these would NOT help a hovering magnet stay hovering instead of flipping over?",
+     "opts": [
+      "A pencil through ring magnets",
+      "A thread tied to the magnet and taped down",
+      "A stronger magnet underneath",
+      "A tube that fits the magnet closely"
+     ],
+     "a": 2,
+     "why": "A stronger push makes the magnet hover higher, but it does not stop the twist. Only something that holds the magnet from turning helps.",
+     "how": "c1"
     }
    ]
   }
@@ -1970,18 +1997,6 @@
    "why": "The face has thin stripes of poles. Crossing them you feel attract, repel, attract.",
    "outcome": 6,
    "how": "e2"
-  },
-  {
-   "t": "mcq",
-   "p": "Who wrote the rule that like poles repel and unlike poles attract, in 1269?",
-   "opts": [
-    "Petrus Peregrinus",
-    "William Gilbert",
-    "Michael Faraday"
-   ],
-   "a": 0,
-   "why": "Petrus Peregrinus wrote it in a letter from an army camp in Italy in 1269.",
-   "outcome": 1
   }
  ],
  "videos": [
@@ -2014,7 +2029,6 @@
   "Toy trains and building toys join with magnets that only fit one way round.",
   "Cupboard and fridge doors stay shut with magnetic strips.",
   "A compass needle is a small magnet whose north pole points north.",
-  "Some trains, like the airport train in Shanghai, float above their track on magnets.",
   "Electric motors in fans, mixers and washing machines turn because magnets attract and repel in turn.",
   "Loudspeakers and earphones move a thin cone with a magnet that is pushed and pulled.",
   "Magnetic clasps on bags, phone covers and necklaces.",
@@ -2058,7 +2072,7 @@
  ],
  "ask_kids": [
   "Which way does our front door face? How could a magnet tell us?",
-  "If you turn a fridge magnet round, does the back stick too?",
+  "Does a magnet stick to an iron dosa tawa? To a brass lamp? To an aluminium idli plate?",
   "Can you think of something that only joins one way round, like magnet poles?",
   "Why do you think a magnet has to have two poles?",
   "If you had a magnet with only a north pole, what would you do with it?",
@@ -2086,14 +2100,6 @@
    "a": "Too many south poles. It felt repelled."
   },
   {
-   "j": "What do you call a magnet that has lost its north pole?",
-   "a": "Nothing. That has never happened."
-  },
-  {
-   "j": "Why was the iron nail never angry with the magnet?",
-   "a": "Both ends of the magnet always liked it."
-  },
-  {
    "j": "What did the floating magnet do when it was pushed away?",
    "a": "It turned round and came back with a hug."
   },
@@ -2104,19 +2110,11 @@
   {
    "j": "What is a magnet's favourite kind of music?",
    "a": "Anything with a good pull."
-  },
-  {
-   "j": "Why did the toy train carriage refuse to join?",
-   "a": "It was facing the wrong way."
-  },
-  {
-   "j": "How do you cheer up a sad bar magnet?",
-   "a": "Remind it that it is never only half the story."
   }
  ],
  "maths": [
   {
-   "problem": "In the Magnet Boats test, Kavya found the boat moved at a gap of 6 cm, 5 cm and 7 cm in three tries, with north facing south. What is the middle value, and why use it?",
+   "problem": "In the Magnet Boats test, Kavya, a girl in Class 4, found the boat moved at a gap of 6 cm, 5 cm and 7 cm in three tries, with north facing south. What is the middle value, and why use it?",
    "answer": "6 cm.",
    "explain": "Put the three numbers in order: 5, 6, 7. The middle one is 6 cm. Using the middle value stops one odd try from changing the answer too much.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2133,7 +2131,7 @@
    "why_maths": "Doubling shows how quickly the number of poles grows, and that north and south poles always come in equal numbers."
   },
   {
-   "problem": "Divya slid two fridge magnets 5 cm across each other and felt 15 bumps. About how wide is one stripe of poles, in millimetres? (5 cm is 50 mm.)",
+   "problem": "Divya, a girl in Class 3, slid two fridge magnets 5 cm across each other and felt 15 bumps. About how wide is one stripe of poles, in millimetres? (5 cm is 50 mm.)",
    "answer": "About 3 mm for each bump.",
    "explain": "50 mm shared among 15 bumps is a little over 3 mm each, because 15 times 3 is 45, close to 50. So the stripes of poles are about 3 mm apart.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2142,7 +2140,7 @@
    "why_maths": "We cannot see the stripes, but sharing the distance by the number of bumps tells us how wide they are."
   },
   {
-   "problem": "In the Magnet Boats test, Farhan let the boats go north facing north 10 times. 9 times they turned and stuck together. Once they drifted apart and stopped. Draw a bar chart and say what it shows.",
+   "problem": "In the Magnet Boats test, Farhan, a boy in Class 4, let the boats go north facing north 10 times. 9 times they turned and stuck together. Once they drifted apart and stopped. Draw a bar chart and say what it shows.",
    "answer": "A bar of 9 for 'turned and stuck' and a bar of 1 for 'stayed apart'. Almost every time, a free magnet turned round and attracted.",
    "explain": "The tall bar shows what usually happens. The one short bar is worth looking at: the boats may have drifted out of reach before they could turn.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2185,7 +2183,7 @@
    "title": "The Letter of Petrus Peregrinus on the Magnet, 1269 (English translation, 1904)",
    "url": "https://www.gutenberg.org/ebooks/50524",
    "kind": "interactive",
-   "why": "For the parent: the real letter, free to read. Chapter 6 describes the floating test and the rule of poles."
+   "why": "For the parent: the real letter, free to read. Chapter 5 describes the floating test and chapter 6 the rule of poles."
   },
   {
    "title": "Exploratorium: Science Snacks",
@@ -2212,9 +2210,9 @@
     "e1",
     "a1",
     "a2",
-    "p1"
-   ],
-   "plan": "The same set is used in the Magnets unit (sci.magnets.magnets-and-materials.L3)."
+    "p1",
+    "c1"
+   ]
   },
   {
    "id": "b-rings",
@@ -2270,10 +2268,10 @@
   },
   "three": {
    "who_am_i": "You felt the push between two magnets with your own hands. You can sense a force you cannot see.",
-   "what_is_life": "Some bacteria live in mud and need to find the parts low in oxygen. They carry a chain of tiny magnet crystals, joined north to south. The chain turns them along the Earth's magnetic field, which slopes down into the ground, so swimming along it takes them deeper.",
+   "what_is_life": "Some bacteria live in mud and need to find the parts low in oxygen. They carry a chain of tiny magnet crystals, joined north to south. The chain turns them along the Earth's magnetic field, which in the northern half of the world slopes down into the ground, so swimming along it takes them deeper.",
    "what_is_this_world": "The Earth is a giant magnet with two poles. Every compass needle on Earth turns to line up with them."
   },
-  "thread": "A magnet's north and south poles are never apart. Cut a magnet, and each piece has both again. Inside, countless tiny magnets point the same way and add up to one force. That one force shows up in many ways: a push, a pull, a turn, a needle pointing north. Underneath the many things magnets do is one force, and it settles into attraction when nothing holds it back.",
+  "thread": "A magnet's north and south poles are never apart. Cut a magnet, and each piece has both again. Inside, countless tiny magnets point the same way and add up to one force. Whether two magnets attract or repel depends only on which way they face, and a magnet that is free to turn ends up attracting.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 2",
@@ -2384,5 +2382,5 @@
    "Blakemore, R., 'Magnetotactic bacteria', Science 190, 1975"
   ]
  },
- "playtest": "Every activity was walked through as if at home, with the materials listed. Magnet Boats needs two bar magnets with poles at their ends: bendy fridge magnets will not work, because their poles are in stripes. Lids must be plastic and the tub plastic, with the fan off and the tub a metre from the fridge and steel almirahs. A full tub stops lids catching on the side. With school bar magnets the boats usually move at gaps of 5 to 10 cm, and when let go north to north they push apart, turn and bump together, often within a minute. If they drift apart and stop, the step says to nudge one closer. Finding north by floating is slow, about a minute, so the step says to wait. The Bumpy Slide uses free advert fridge magnets that most homes have. A grown-up cuts the strip. Floating Rings needs ring magnets, so it is optional and outside the spine. The spine is about 85 minutes."
+ "playtest": "Every activity was walked through as if at home, with the materials listed. Magnet Boats needs two bar magnets with poles at their ends: bendy fridge magnets will not work, because their poles are in stripes. Lids and tub must be plastic, with the fan off and the tub a metre from the fridge and steel almirahs. A full tub stops lids catching on the side. With school bar magnets the boats usually move at gaps of 5 to 10 cm, and when let go north to north they push apart, turn and bump together, often within a minute. If they drift apart and stop, the step says to nudge one closer. Finding north by floating is slow, about a minute, so the step says to wait. The Bumpy Slide uses free advert fridge magnets that most homes have. A grown-up cuts the strip. Floating Rings needs ring magnets, so it is optional and outside the spine. Both card and badge games were played through with 2 and with 4 players."
 }

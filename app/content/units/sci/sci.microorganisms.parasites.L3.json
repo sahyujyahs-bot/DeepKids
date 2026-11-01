@@ -186,7 +186,7 @@
     "National Deworming Day is on 10 February and 10 August."
    ],
    "perspectives": [],
-   "art": "A cut-away picture of a child's tummy with a coiled worm inside, and around it a chappal, a bar of soap, a nail cutter and washed vegetables."
+   "art": "A cut-away picture of a child's tummy with a coiled worm inside, and around the tummy a chappal, a bar of soap, a nail cutter and washed vegetables."
   },
   {
    "concept": "Mosquitoes: why she bites and how she finds you",
@@ -376,7 +376,7 @@
    "\"Divya probably does not know she has them,\" said Ajji. \"And someone told her that lice mean dirt, the way someone told you. People have said it for a very long time. It is still not true.\"",
    "Ajji combed for a long time. She combed every part of Kavya's head, front to back and side to side. The tissue collected seven lice and many nits. Then she combed the whole head again, to catch any she had missed.",
    "\"Is it finished now?\" asked Kavya.",
-   "\"Not yet. A few eggs always hide. In four days they will hatch, so we will comb again on Friday. Then again, four days after that, and once more after that. By then every louse will be gone before they are old enough to lay eggs.\"",
+   "\"Not yet. A few eggs always hide, and they hatch over the next days. So we will comb again on Friday, then four days after that, and once more after that. By then every louse will be gone before any is old enough to lay eggs.\"",
    "The next morning, Kavya asked Ajji for two things. The first was the comb, wrapped in a clean handkerchief. The second was a note for Divya's mother.",
    "At school, Kavya found Divya alone by the water tank. Divya was scratching behind her ear.",
    "\"I had lice,\" said Kavya. \"I got them from you, I think, when we looked at your book. But it is not because you are dirty. My Ajji showed me. Lice crawl when heads touch. Here, my Ajji wrote how to comb them out.\"",
@@ -408,65 +408,89 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game. A malaria parasite tries to travel from a person, into a mosquito and on to a new person. Players play Safety cards to break the path.",
+   "context": "This is a board game. A malaria parasite travels from a person into a mosquito and on to a new person. Bite cards can help the parasite on its way or break the path.",
    "printables": [
     {
      "kind": "board",
-     "title": "The journey board",
+     "title": "The journey board (24 squares)",
      "items": [
-      "A path of 24 squares in a loop.",
-      "Squares 1 to 4: in a person's blood.",
-      "Square 5: a mosquito bites. Draw a Bite card.",
-      "Squares 6 to 12: in the mosquito's stomach. The parasite grows for one to two weeks.",
-      "Squares 13 to 15: in the mosquito's saliva.",
-      "Square 16: the mosquito bites again. Draw a Bite card.",
-      "Squares 17 to 20: in the new person's liver.",
-      "Squares 21 to 24: in the new person's red blood cells, then back to square 1."
+      "Square 1 (START): In a person's blood. The person has malaria, and the parasite is here.",
+      "Square 2: In the blood. The parasite is multiplying.",
+      "Square 3: In the blood. The person shivers and has a high fever.",
+      "Square 4: In the blood. Some parasites are now ready to be picked up by a mosquito.",
+      "Square 5: A mosquito bites the sick person and drinks blood with the parasites in it. Draw a Bite card.",
+      "Square 6: In the mosquito's stomach. The parasite starts to grow.",
+      "Square 7: In the mosquito's stomach. Still growing.",
+      "Square 8: In the mosquito's stomach. Multiplying.",
+      "Square 9: In the mosquito's stomach. The mosquito keeps flying and biting while the parasite grows.",
+      "Square 10: In the mosquito's stomach. Still growing.",
+      "Square 11: In the mosquito's stomach. Nearly ready.",
+      "Square 12: In the mosquito's stomach. One to two weeks have passed. The parasite is fully grown.",
+      "Square 13: The parasite leaves the stomach.",
+      "Square 14: The parasite is on its way to the mosquito's saliva.",
+      "Square 15: In the mosquito's saliva. The mosquito can now pass the parasite on.",
+      "Square 16: The mosquito bites a new person. Draw a Bite card.",
+      "Square 17: In the new person's blood, on the way to the liver.",
+      "Square 18: In the liver. The parasite is multiplying.",
+      "Square 19: In the liver. The person feels well and does not know yet.",
+      "Square 20: The parasites leave the liver and enter the blood.",
+      "Square 21: Inside a red blood cell. The parasite is multiplying.",
+      "Square 22: Inside red blood cells. Still multiplying.",
+      "Square 23: The red blood cells burst. The person shivers and has a fever.",
+      "Square 24 (FINISH): The new person has malaria. Another mosquito can now pick up the parasite, and the journey begins again."
      ]
     },
     {
      "kind": "cards",
      "title": "16 Bite cards",
      "items": [
-      "The window has no mesh. The mosquito gets in. Move on.",
+      "The window has no mesh. A mosquito gets in. Move 2 squares.",
       "The person sleeps under a net. The bite is stopped. Go back to square 1.",
       "A fan is blowing on the bed. The mosquito cannot land. Miss a turn.",
       "The person wears long sleeves at dusk. The mosquito finds only cloth. Miss a turn.",
       "The water drum has no lid. More mosquitoes hatch. Move 2 squares.",
-      "The flowerpot saucers were emptied on Dry Day. No new mosquitoes. Go back 3 squares.",
-      "The person sees a doctor for a fever and takes the full medicine. The parasites in the blood are cleared. Go back to square 1.",
-      "The person has a fever and waits a week. Move 3 squares.",
-      "A repellent cream is on the skin. Miss a turn.",
+      "Every flowerpot saucer was emptied and scrubbed this week. No new mosquitoes. Go back 3 squares.",
+      "The person sees a doctor for the fever and takes the full medicine. The parasites in the blood are cleared. Go back to square 1.",
+      "The person has a fever and waits a week before seeing a doctor. Move 3 squares.",
+      "A repellent cream is on the skin. The mosquito stays away. Miss a turn.",
       "Screens on every window. Go back 4 squares.",
       "The cooler was not emptied for a month. Move 3 squares.",
-      "The person sleeps on the terrace without a net. Move on.",
-      "A neighbour covers their water tank. Go back 2 squares.",
+      "The person sleeps on the terrace without a net. Move 2 squares.",
+      "A neighbour covers the building's water tank. Go back 2 squares.",
       "The mosquito bites a person who has no parasites. Nothing is passed on. Miss a turn.",
-      "Evening walk by a pond in shorts. Move 2 squares.",
-      "The family empties every container on Sunday. Go back 3 squares."
+      "An evening walk by a pond in shorts. Move 2 squares.",
+      "The family empties and covers every container on Sunday. Go back 3 squares."
      ]
     },
     {
      "kind": "tokens",
-     "title": "Tokens",
+     "title": "Tokens and blank cards",
      "items": [
-      "One parasite token for each player",
-      "A die"
+      "Parasite token 1: cut a small paper square and colour it red",
+      "Parasite token 2: cut a small paper square and colour it blue",
+      "Parasite token 3 (only if 3 or 4 play): a small paper square, green",
+      "Parasite token 4 (only if 4 play): a small paper square, yellow",
+      "Blank card 1: for a Bite card you write yourself",
+      "Blank card 2: for a Bite card you write yourself",
+      "Blank card 3: for a Bite card you write yourself",
+      "Blank card 4: for a Bite card you write yourself",
+      "One die from any board game at home. No die? Write 1 to 6 on six small papers, fold them, and draw one each turn."
      ]
     }
    ],
    "rules": [
-    "Each player has a parasite token on square 1.",
-    "On your turn, roll the die and move.",
-    "On squares 5 and 16, draw a Bite card and do what it says.",
-    "The first parasite to go all the way round the loop wins that round. Then ask: which cards helped the parasite, and which broke the path?",
-    "Play a second round where everyone adds one new Safety card of their own."
+    "Each player puts a parasite token on square 1. Shuffle the Bite cards and put them face down in a pile.",
+    "Take turns. Roll the die, move your token that many squares, and read the square aloud.",
+    "If you land on square 5 or 16, draw a Bite card and do what it says. Miss a turn means you skip your next turn. You cannot go back past square 1. A card that moves you onto square 5 or 16 does not make you draw another.",
+    "When the pile runs out, shuffle the used cards and use them again.",
+    "The first parasite to reach square 24 (or go past it) wins the round.",
+    "Then sort the Bite cards into 'helped the parasite' and 'broke the path'. Play a second round with each player's own new Bite card added to the pile."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the board, the cards and the tokens. 2. Read the squares together.",
+     "do": "1. Cut out the board squares, the Bite cards, the tokens and the blank cards. 2. Read the 24 squares together.",
      "say": "This board is the malaria parasite's journey. Let's read where the parasite goes, from a person's blood to a mosquito and back.",
      "kid": "Read the board. Where does the parasite go first? Where next?",
      "context": "This is the first step of the malaria journey game. You read the journey before you play."
@@ -492,9 +516,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Sort the cards you drew into 'helped the parasite' and 'broke the path'. 2. Each player writes one new Safety card.",
+     "do": "1. Sort all the Bite cards into 'helped the parasite' and 'broke the path'. 2. Each player writes one new Bite card on a blank card, with a move, and adds it to the pile.",
      "say": "Which cards broke the path? Can you invent one more way to stop the journey?",
-     "kid": "Which cards stopped the parasite? Make up one new card that stops them.",
+     "kid": "Which cards stopped the parasite? Write a new Bite card that stops them.",
      "ask": [
       {
        "q": "Which card do you think breaks the path best, and why?",
@@ -530,24 +554,72 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 pair cards",
+     "title": "16 pair cards (the answer is on the back)",
      "items": [
-      "A head louse and a child",
-      "A crow and a mango tree she nests in",
-      "A flea and a cat",
-      "A honeybee and a hibiscus flower",
-      "A tick and a cow",
-      "A tiger and a deer she hunts",
-      "A roundworm and a person",
-      "Curd bacteria and the milk they live in",
-      "A hookworm and a person",
-      "Dodder and a roadside plant they wrap round",
-      "A koel chick and the crows who feed them",
-      "A mosquito and a person she bites",
-      "An egret and the buffalo she rides on",
-      "The malaria parasite and a person",
-      "A mynah and the cow whose ticks she eats",
-      "A cat and a mouse she catches"
+      {
+       "f": "A head louse and a child",
+       "b": "PARASITE. The louse lives in the child's hair and drinks blood."
+      },
+      {
+       "f": "A crow and a coconut palm she nests in",
+       "b": "NOT A PARASITE. The crow only uses the palm for a nest and takes no food from the palm."
+      },
+      {
+       "f": "A flea and a cat",
+       "b": "PARASITE. The flea lives in the cat's fur and drinks blood."
+      },
+      {
+       "f": "A honeybee and a hibiscus flower",
+       "b": "NOT A PARASITE. The bee drinks nectar and carries pollen, so both gain."
+      },
+      {
+       "f": "A tick and a cow",
+       "b": "PARASITE. The tick holds on to the cow's skin and drinks blood."
+      },
+      {
+       "f": "A tiger and a deer she hunts",
+       "b": "PREDATOR. The tiger kills and eats the deer."
+      },
+      {
+       "f": "A roundworm and a person",
+       "b": "PARASITE. The roundworm lives in the person's gut and takes food from them."
+      },
+      {
+       "f": "Curd bacteria and the milk they live in",
+       "b": "NOT A PARASITE. Milk is not a living being, so it is not a host."
+      },
+      {
+       "f": "A hookworm and a person",
+       "b": "PARASITE. The hookworm lives in the person's gut and drinks blood."
+      },
+      {
+       "f": "Dodder and a roadside plant they wrap round",
+       "b": "PARASITE. Dodder pushes suckers into the plant's stem and takes food from the stem."
+      },
+      {
+       "f": "A koel chick and the crows who feed them",
+       "b": "PARASITE. The koel is a brood parasite: the crows raise the chick and get nothing back."
+      },
+      {
+       "f": "A mosquito and a person she bites",
+       "b": "PARASITE (a tricky one). She does not live on the person, but she feeds from them and leaves, so many scientists call her a parasite."
+      },
+      {
+       "f": "An egret and the buffalo she rides on",
+       "b": "NOT A PARASITE. The egret eats insects the buffalo stirs up and takes no food from the buffalo."
+      },
+      {
+       "f": "The malaria parasite and a person",
+       "b": "PARASITE. The malaria parasite lives in the person's liver and blood."
+      },
+      {
+       "f": "A mynah and the cow whose ticks she eats",
+       "b": "NOT A PARASITE. The mynah helps the cow by eating ticks."
+      },
+      {
+       "f": "A cat and a mouse she catches",
+       "b": "PREDATOR. The cat kills and eats the mouse."
+      }
      ]
     },
     {
@@ -570,16 +642,17 @@
     }
    ],
    "rules": [
-    "Lay out the three sorting cards.",
-    "Take turns to draw a pair card, read it aloud and place it under one sorting card.",
-    "Give a reason each time. Another player may challenge with a different reason.",
-    "At the end, check with the answer list. Keep a pile of cards you argued about."
+    "Lay out the three sorting cards. Shuffle the pair cards and put them face down in a pile.",
+    "Take turns to draw a pair card, read it aloud, and put it under the sorting card you think fits. Say why.",
+    "Another player may challenge with a different reason. Then turn the card over and read the answer on the back.",
+    "If your sort matched the back, put a tick next to your name on the score sheet. Put cards you argued about in a separate pile.",
+    "When all 16 cards are sorted, count the ticks. The player with the most ticks wins, or play together and try to get all 16."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Shuffle the pair cards. 2. Take turns to sort them, giving a reason each time.",
+     "do": "1. Shuffle the pair cards. 2. Take turns to sort them, giving a reason each time, then turn the card over to check.",
      "say": "A parasite lives on or in another being and feeds from them. A predator kills and eats. Let's sort each pair, and say why.",
      "kid": "Pick a card. Is one of them a parasite? Say why.",
      "context": "This is a card game about which living beings are parasites. You sort pairs of beings who live close together."
@@ -587,8 +660,8 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Read the answers and talk about any you disagreed on.",
-     "say": "Answers: louse, flea, tick, roundworm, hookworm, dodder, koel chick, mosquito and the malaria parasite are parasites. The tiger and the cat are predators. The crow, the bee, curd bacteria, the egret and the mynah are not parasites.",
+     "do": "Pick up the cards you argued about, turn each over and read the answer again.",
+     "say": "Which cards did we argue about? Let's read why each one is right.",
      "kid": "Check the answers. Which ones surprised you?",
      "parent": "The mosquito is tricky. She does not live on the person, but she feeds from them and leaves, so many scientists call her a parasite too. The koel is a brood parasite: the mother leaves her eggs for the crows to raise. The mynah helps the cow by eating ticks.",
      "check": {
@@ -707,7 +780,7 @@
        "q": "What makes you think that comb will catch the small seeds?",
        "good": [
         "Its gaps are smaller than the seed.",
-        "The seed is too big to slip between its teeth."
+        "The seed is too big to slip between the teeth."
        ]
       }
      ],
@@ -716,9 +789,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Draw a start line across the paper with the pencil. 2. Draw a finish line 10 cm away. 3. Put 10 sesame seeds and 10 khus khus seeds along the start line, mixed up, about 1 cm apart.",
+     "do": "1. Draw a start line across the paper. 2. Draw a finish line 10 cm away. 3. Put 10 sesame seeds in one heap and 10 khus khus seeds in another, 2 cm apart, on the start line.",
      "say": "The seeds are our pretend lice and nits. A sesame seed is about the size of a grown louse. A khus khus seed is a little bigger than a louse egg.",
-     "kid": "Draw two lines, 10 cm apart. Put the seeds on the first line. Sesame is like a louse. Khus khus is like an egg."
+     "kid": "Draw two lines 10 cm apart. Put sesame and khus khus heaps on the first line."
     },
     {
      "id": "s4",
@@ -734,7 +807,7 @@
      "do": "Do the same three sweeps with the ordinary comb, and then with the lice comb. Write every count in the table.",
      "say": "Now the ordinary comb, three times. Then the lice comb, three times. Same seeds, same lines, same slow sweep.",
      "kid": "Now try the ordinary comb three times. Then the lice comb three times. Write each count.",
-     "parent": "Usually the wide comb pushes some sesame seeds and almost no khus khus, because the small seeds slip between its teeth. An ordinary comb pushes most sesame seeds and some khus khus. The lice comb pushes nearly all of both. Results vary with the comb, so what your child sees is the real result."
+     "parent": "Usually the wide comb lets most of both kinds of seed slip through. An ordinary comb pushes most of the sesame seeds and only a few khus khus. The lice comb pushes nearly all of both. Combs differ a lot, so what your child sees is the real result. If a comb does something odd, count it anyway and talk about why."
     },
     {
      "id": "s6",
@@ -771,7 +844,7 @@
    "days": 1,
    "question": "Mosquitoes are weak fliers. Where in your bedroom is the fan's wind strong, and where is the air still enough for a mosquito to land?",
    "predict": "Look at the room with the fan on. Guess which places get strong wind and which stay still: the pillow, the foot of the bed, the corners, under the bed. Why do you think so?",
-   "fair_test": "Use the same paper strip, held at the same height as a sleeping person, with the fan at the same speed. Only the place changes. Hold the strip still for 10 seconds at each place.",
+   "fair_test": "Use the same paper strip, the same fan speed and the same 10 seconds at every place. Only the place changes. Hold the strip at the height of a person lying in bed, except under the bed, where you hold it just under the bed.",
    "results_table": [
     "Place in the room",
     "My guess (still, flutters or blows flat)",
@@ -962,58 +1035,61 @@
    "days": 1,
    "materials": [
     {
-     "item": "two chairs or mats as beds, for two 'sleeping people'",
-     "qty": 2
+     "item": "a mat or a folded blanket as the first bed",
+     "qty": 1
+    },
+    {
+     "item": "a pillow or soft toy under a sheet, as the second sleeping person",
+     "qty": 1
     },
     {
      "item": "a small ball or a ball of paper as the parasite",
      "qty": 1
     },
     {
-     "item": "a dupatta or towel as a mosquito net",
+     "item": "a thin saree, mundu or towel as a mosquito net",
      "qty": 1
     }
    ],
-   "safety": "Move gently. Keep the play area clear of things to trip on.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Act out the parasite's journey from one person, through a mosquito, to another person. Then act it again with a net."
+     "what": "Act out the parasite's journey from one person, through a mosquito, to a second sleeper. Then act it again with a net."
     }
    ],
    "record": "Draw the journey as a circle of arrows, and draw one place where you broke the path.",
    "setup": [
     {
-     "art": "Two children lying on mats, one holding a paper ball, and a third child with arms out like wings buzzing between them.",
-     "caption": "1. Two sleepers and one mosquito. The paper ball is the parasite."
+     "art": "A parent lying on a mat holding a paper ball, a child with arms out like wings beside them, and a pillow under a sheet a little way off.",
+     "caption": "1. The parent is the first sleeper, the child is the mosquito, the pillow is the second sleeper. The paper ball is the parasite."
     },
     {
-     "art": "The same scene with a dupatta draped over one sleeper like a net, and the mosquito stopped outside it.",
-     "caption": "2. Act it again with a net, and see where the journey stops."
+     "art": "The same scene with a thin saree draped over the pillow like a net, and the child mosquito stopped outside it.",
+     "caption": "2. Act it again with a net over the second sleeper, and see where the journey stops."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. One person lies down holding the paper ball: they have malaria. 2. The mosquito player 'bites' and takes the ball. 3. The mosquito counts slowly to 12, for the days the parasite grows inside her. 4. She 'bites' the second sleeper and hands over the ball.",
+     "do": "1. The parent lies on the mat holding the paper ball: the parent has malaria. 2. The child is the mosquito. She 'bites' the parent's arm and takes the ball. 3. The mosquito counts slowly to 12, for the days the parasite grows inside her. 4. She 'bites' the pillow and puts the ball there.",
      "say": "The ball is the malaria parasite. Watch where they go. They live in a person, then in a mosquito, then in a new person.",
-     "kid": "You are the mosquito. Bite the first sleeper. Take the ball. Count to 12. Bite the next one.",
+     "kid": "You are the mosquito. Bite the sleeper's arm. Take the ball. Count to 12. Bite the pillow.",
      "context": "This act-out shows the malaria parasite's journey from one person, through a mosquito, to another person."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put the dupatta over the second sleeper as a net. 2. Act it again.",
+     "do": "1. Put the saree over the pillow as a net. 2. Act it again.",
      "say": "Now the second person sleeps under a net. What happens to the parasite's journey?",
      "kid": "Now there is a net. Can the mosquito bite? Where does the ball go?",
      "ask": [
       {
-       "q": "Why does the net stop malaria, when air can still pass through it?",
+       "q": "What happened to the ball when the pillow was under a net?",
        "good": [
-        "The net stops the mosquito, and the mosquito carries the parasite.",
-        "Malaria is not in the air. It travels inside the mosquito."
+        "The mosquito could not reach the pillow, so the ball stayed with her.",
+        "No bite, so no parasite passed on."
        ]
       }
      ]
@@ -1133,7 +1209,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up handles the needle. Do not climb on beds or chairs to reach a net. Ask a grown-up to unhook it.",
+   "safety": "A grown-up handles the needle.",
    "schedule": [
     {
      "day": 1,
@@ -1156,7 +1232,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay part of the net flat on a table. 2. Hold the ruler on it. 3. Count how many holes fit along 1 cm.",
+     "do": "1. Lay part of the net flat on a table, or hold the ruler against it where it hangs. 2. Count how many holes fit along 1 cm.",
      "say": "A mosquito's body is about as long as a grain of rice. Let's see how small the net's holes are.",
      "kid": "Hold the ruler on the net. Count the holes in 1 cm.",
      "context": "This activity checks that a mosquito net really keeps mosquitoes out."
@@ -1197,7 +1273,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the detective checklist below, copied into a notebook",
+     "item": "a notebook, to copy the list of seven places from the first step",
      "qty": 1
     },
     {
@@ -1262,7 +1338,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a small ball of atta dough",
+     "item": "a small ball of atta or rice-flour dough (or clay)",
      "qty": 1
     },
     {
@@ -1289,7 +1365,7 @@
    "record": "Draw the two pulls: the wrong way and the right way, and what was left in the dough each time.",
    "setup": [
     {
-     "art": "A raisin stuck on half a toothpick, pushed into a flat piece of atta dough, like a tick with mouthparts in the skin.",
+     "art": "A raisin stuck on half a toothpick, pushed into a flat piece of dough, like a tick with mouthparts in the skin.",
      "caption": "1. Push a raisin on a toothpick into the dough. That is the tick."
     },
     {
@@ -1313,7 +1389,7 @@
      "say": "First the wrong way. Squeeze the body and pull fast. Now the right way. Grip close to the skin and pull up slowly.",
      "kid": "First squeeze the raisin and pull fast. Then use tweezers close to the dough. Pull slowly.",
      "adult": true,
-     "parent": "Squeezing usually pulls the raisin off and leaves the toothpick in the dough, just as squeezing a real tick can leave the mouthparts in the skin. Gripping the toothpick at the surface brings the whole thing out."
+     "parent": "Squeezing usually pulls the raisin off and leaves the toothpick in the dough, just as squeezing a real tick can leave the mouthparts in the skin. Gripping the toothpick at the surface brings the whole thing out. Results vary. If both raisins come out whole, push the toothpicks deeper and press the dough firmly round them, then try again. It is a model, so what you see shows the idea, not exactly what happens on skin."
     },
     {
      "id": "s3",
@@ -1323,7 +1399,7 @@
      "kid": "Which way left a piece behind? Why grip close to the skin?",
      "check": {
       "t": "mcq",
-      "q": "Farhan's dog has a tick. How should a grown-up take the tick off?",
+      "q": "A dog has a tick. How should a grown-up take the tick off?",
       "options": [
        "Pinch the tick's body and pull fast",
        "Grip the tick with fine tweezers right next to the skin and pull straight up, slowly",
@@ -1649,7 +1725,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya walks barefoot on wet soil in a village. Which worm could get in through her feet?",
+   "p": "Kavya, who is eight, walks barefoot on wet soil in a village. Which worm could get in through her feet?",
    "opts": [
     "Hookworm",
     "Roundworm",
@@ -1756,16 +1832,12 @@
      "why": "A nit is a louse egg glued to a hair near the scalp, or the empty case left after hatching."
     },
     {
-     "t": "mcq",
-     "p": "In the Comb Test, why did the khus khus seeds slip past the wide-tooth comb?",
-     "opts": [
-      "The gaps were wider than the seeds",
-      "The seeds were sticky",
-      "The comb was too long"
+     "t": "fill",
+     "p": "A being who carries a parasite from one host to another is called a ____.",
+     "a": [
+      "vector"
      ],
-     "a": 0,
-     "why": "A seed smaller than the gap slips between two teeth. Only teeth closer together than the seed can push the seed along.",
-     "how": "e1"
+     "why": "The Anopheles mosquito is the vector of malaria. The parasite inside her is what makes people ill."
     },
     {
      "t": "sort",
@@ -1935,12 +2007,6 @@
      "why": "A strong answer names the louse's problem, keeping the eggs warm and safe, and says how gluing them near the scalp solves it."
     },
     {
-     "t": "truefalse",
-     "p": "A fine comb must be used on days 1, 5, 9 and 13, because one combing can miss eggs.",
-     "a": true,
-     "why": "True. Eggs hatch in about 8 days. Combing every four days catches young lice before they are old enough to lay eggs."
-    },
-    {
      "t": "mcq",
      "p": "A flea's body is flat from side to side. How does that help the flea?",
      "opts": [
@@ -1950,6 +2016,13 @@
      ],
      "a": 0,
      "why": "A thin, flat body slips between hairs. Backward-pointing spines also make the flea hard to pull out."
+    },
+    {
+     "t": "write",
+     "p": "Name one habit that keeps hookworms out, and say how it closes their path.",
+     "lines": 3,
+     "a": "Wearing chappals outside. Young hookworms wait in damp soil and get in through the skin of bare feet, so chappals block that path.",
+     "why": "A strong answer names the habit and links it to the way the hookworm gets in."
     },
     {
      "t": "mcq",
@@ -2065,7 +2138,7 @@
     },
     {
      "t": "write",
-     "p": "Divya says, 'Lice are for dirty children.' What would you tell her? Give one reason.",
+     "p": "Divya, a girl in Kavya's class, says, 'Lice are for dirty children.' What would you tell her? Give one reason.",
      "lines": 3,
      "a": "Lice live on clean hair too. They crawl across when heads touch, and washing does not remove their eggs. So anyone can get lice.",
      "why": "A good answer gives a reason from the science: how lice spread, or that washing does not move nits."
@@ -2076,7 +2149,7 @@
      "a": [
       "stem"
      ],
-     "why": "Dodder pushes tiny suckers into the host plant's stem and takes food from inside it."
+     "why": "Dodder pushes tiny suckers into the host plant's stem and takes food from inside the stem."
     },
     {
      "t": "draw",
@@ -2095,14 +2168,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Comb Test, Meenakshi's wide comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?",
+     "p": "Meenakshi, a girl in Class 4, does the Comb Test. Her ordinary comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?",
      "opts": [
       "The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller",
       "Khus khus seeds are heavier",
       "She swept faster for the khus khus"
      ],
      "a": 0,
-     "why": "Seeds bigger than the gap get pushed. Seeds smaller than the gap slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.",
+     "why": "Seeds bigger than the gaps get pushed. Seeds smaller than the gaps slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.",
      "how": "e1"
     },
     {
@@ -2128,10 +2201,11 @@
      "why": "Inside the gut there is plenty of food. The hard part is the journey to a new person, through soil, hands, food or skin."
     },
     {
-     "t": "truefalse",
-     "p": "A mosquito net stops malaria because air cannot pass through it.",
-     "a": false,
-     "why": "False. Air passes through a net easily. The net stops the mosquito, and the mosquito is what carries the parasite."
+     "t": "write",
+     "p": "Most plants make their own food, but dodder takes food from another plant. Why does dodder need a host?",
+     "lines": 3,
+     "a": "Dodder has no green leaves, so they cannot make enough food from sunlight. They take food from the plant they wrap round.",
+     "why": "A good answer links the missing green leaves to needing food from a host."
     },
     {
      "t": "mcq",
@@ -2153,7 +2227,7 @@
     },
     {
      "t": "write",
-     "p": "Farhan's family empties their cooler once a month. Mosquitoes take about a week to grow from egg to adult in water. Is once a month enough? Explain.",
+     "p": "Rupali, a girl in Class 4 in Guwahati, says her family empties their cooler once a month. Mosquitoes take about a week to grow from egg to adult in water. Is once a month enough? Explain.",
      "lines": 3,
      "a": "No. In a month, about four batches of mosquitoes could grow up and fly away. The cooler must be emptied and scrubbed at least once a week, so no young mosquitoes have time to become adults.",
      "why": "A strong answer compares the two times, a week to grow and a month between emptying, and says what follows."
@@ -2195,7 +2269,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya has a fever with shivering, and there are many mosquitoes where she lives. What should her family do?",
+     "p": "Kavya, who is eight, has a fever with shivering, and there are many mosquitoes where she lives. What should her family do?",
      "opts": [
       "Wait a week to see if it goes",
       "Take her to a doctor for a blood test the same day",
@@ -2344,16 +2418,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the louse never get lost?",
-   "a": "She always kept a good grip on things."
-  },
-  {
    "j": "What did the mosquito say when she found a fan?",
    "a": "This is blowing my plans away!"
-  },
-  {
-   "j": "Why did the flea fail the long jump?",
-   "a": "He landed on a dog and forgot to come back."
   },
   {
    "j": "What is a tick's favourite game?",
@@ -2376,24 +2442,8 @@
    "a": "They just jump to the top."
   },
   {
-   "j": "What did the comb say to the louse?",
-   "a": "You are going on a little trip."
-  },
-  {
-   "j": "Why did the mosquito go to the doctor?",
-   "a": "She had lost her bite."
-  },
-  {
-   "j": "How do worms say goodbye?",
-   "a": "With a little wiggle."
-  },
-  {
    "j": "Why did the tick like the dog so much?",
    "a": "He was really attached to him."
-  },
-  {
-   "j": "Why was the mosquito so tired at sunrise?",
-   "a": "She had been up all night working."
   },
   {
    "j": "What do you call a louse who loves music?",
@@ -2422,9 +2472,9 @@
    "why_maths": "Multiplying shows how fast one louse can become many, and why a careful comb-through matters."
   },
   {
-   "problem": "In the Comb Test, Meenakshi pushed the khus khus seeds three times with each comb. Out of 10, the wide comb pushed 1, 0 and 2. The ordinary comb pushed 4, 6 and 5. The lice comb pushed 10, 9 and 10. Which comb would you use to remove nits, and how sure are you?",
-   "answer": "The lice comb. Every sweep it pushed 9 or 10 seeds, while the others never pushed more than 6.",
-   "explain": "Add each comb's sweeps. Wide: 1 + 0 + 2 = 3 out of 30. Ordinary: 4 + 6 + 5 = 15 out of 30. Lice comb: 10 + 9 + 10 = 29 out of 30. The lice comb's worst sweep, 9, beats the ordinary comb's best sweep, 6. So we can be sure the result is not a fluke.",
+   "problem": "In the Comb Test, Meenakshi, a girl in Class 4, pushed the khus khus seeds three times with each comb. Out of 10, the wide comb pushed 0, 1 and 0. The ordinary comb pushed 2, 1 and 3. The lice comb pushed 10, 9 and 10. Which comb would you use to remove nits, and how sure are you?",
+   "answer": "The lice comb. Every sweep it pushed 9 or 10 seeds, while the others never pushed more than 3.",
+   "explain": "Add each comb's sweeps. Wide: 0 + 1 + 0 = 1 out of 30. Ordinary: 2 + 1 + 3 = 6 out of 30. Lice comb: 10 + 9 + 10 = 29 out of 30. The lice comb's worst sweep, 9, beats the ordinary comb's best sweep, 3. So we can be sure the result is not a fluke.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "Remember the Comb Test, where you swept three combs across sesame and khus khus seeds? Here are some made-up results.",
    "why_maths": "Comparing the best and worst sweeps tells us whether one comb is really better, or whether we were lucky.",
@@ -2437,11 +2487,11 @@
     "data": [
      {
       "label": "Wide comb",
-      "value": 3
+      "value": 1
      },
      {
       "label": "Ordinary comb",
-      "value": 15
+      "value": 6
      },
      {
       "label": "Lice comb",
@@ -2503,25 +2553,23 @@
    "id": "b-comb",
    "item": "A fine-tooth lice comb (eer kolli), plastic or steel",
    "kind": "tool",
-   "why": "The Comb Test and the weekly head check need one. Chemists and general stores sell them cheaply, and many homes already have one.",
    "url": "https://www.amazon.in/s?k=lice+comb+fine+tooth",
    "used_in": [
     "e1",
     "a3"
    ],
-   "plan": "Keep it for weekly head checks at home."
+   "why": "The Comb Test and the weekly head check need one. Chemists and general stores sell them cheaply."
   },
   {
    "id": "b-lens",
    "item": "A magnifying glass",
    "kind": "tool",
-   "why": "Helps a child see the gaps between comb teeth and the size of tiny seeds. A phone camera zoomed in works too.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
     "a1"
    ],
-   "plan": "Used again in many science units, for looking at insects, seeds, leaves and crystals."
+   "why": "Helps you see the gaps between comb teeth and the size of tiny seeds. A phone camera zoomed in works too."
   }
  ],
  "warmup": [
@@ -2625,7 +2673,7 @@
  "sources": {
   "founder": [
    "Curriculum notebook items bio:270 to bio:274 (Parasitology, Protozoan parasites such as malaria, Helminths, Ectoparasites such as ticks, lice and fleas, Host-parasite coevolution): the unit's coverage.",
-   "ideas/by_topic/microorganisms.md: the line on parasites appearing in evolution, and the SCI Card for Carlos Juan Finlay (mosquitoes carry yellow fever, ridiculed for twenty years). Finlay's yellow fever story is about a virus, so it was left out of this parasites unit. The same lesson, that a tiny carrier was ignored, is told through Ross and malaria."
+   "ideas/by_topic/microorganisms.md: the line on parasites appearing in evolution, and the SCI Card for Carlos Juan Finlay (mosquitoes carry yellow fever, ridiculed for twenty years). Finlay's yellow fever story is about a virus, so that story was left out of this parasites unit. The same lesson, that a tiny carrier was ignored, is told through Ross and malaria."
   ],
   "science": [
    "NHS, Head lice and nits (reviewed page, 2024): spread by head-to-head contact, not caused by dirty hair, wet combing on days 1, 5, 9 and 13",
@@ -2705,7 +2753,7 @@
   ],
   "art": "A child sitting cross-legged by a window at dusk, hands on her head, with faint drawings around her of a louse, a mosquito and a koel, each looking towards her."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: no real lice, worms or mosquitoes are handled. The Comb Test uses sesame seeds as lice and khus khus as nits, swept across paper, because seeds sprinkled into hair or thread fall out and give no countable result. Black sesame shows best on white paper, and fine rava can replace khus khus. Results vary with the combs, so the steps describe the usual pattern and say that the child's own result is the real one. Teeth per centimetre is used to compare gaps, because a lice comb's gaps are too thin for a school ruler. The Fan Test uses a tissue flag at pillow height, never near a table fan's blades. The tick activity uses a raisin on a toothpick in atta dough: squeezing pulls the raisin off and leaves the toothpick, just as squeezing a real tick leaves the mouthparts. The net check uses a torch in a dim room to find tears. The head check is done by a grown-up, and no lice lotion is suggested without a chemist or doctor. Mosquito larvae are not studied here, because the life cycles unit already has a wriggler check. The spine is the intro, the size line, the Comb Test, the explanation cards, roots and the quiz, about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: no real lice, worms or mosquitoes are handled. The Comb Test uses sesame seeds as lice and khus khus as nits, swept across paper, because seeds sprinkled into hair or thread fall out and give no countable result. Black sesame shows best on white paper, and fine rava can replace khus khus. Results vary with the combs, so the steps describe the usual pattern and say that the child's own result is the real one. Teeth per centimetre is used to compare gaps, because a lice comb's gaps are too thin for a school ruler. The Fan Test uses a tissue flag at pillow height, never near a table fan's blades. The tick activity uses a raisin on a toothpick in dough: squeezing pulls the raisin off and leaves the toothpick, just as squeezing a real tick leaves the mouthparts. The net check uses a torch in a dim room to find tears. The head check is done by a grown-up, and no lice lotion is suggested without a chemist or doctor. Mosquito larvae are not studied here, because the life cycles unit already has a wriggler check. The spine is the intro, the size line, the Comb Test, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
   "story": "For more than two thousand years, people blamed malaria on bad air. The name comes from the Italian 'mala aria', which means bad air. People thought foul air rising from swamps at night made them ill. In 1880, Alphonse Laveran, a French army doctor in Algeria, looked at a sick soldier's blood under a microscope. He saw tiny moving living beings inside it: the malaria parasite. But how did the parasite get from one person to another? Patrick Manson, a British doctor, had found that mosquitoes carry tiny worms from person to person. He guessed they might carry malaria too. Ronald Ross, a doctor born in Almora, tested the idea in India. For two years he let mosquitoes feed on people with malaria, then cut the mosquitoes open and searched. On 20 August 1897, in Secunderabad, next to Hyderabad, he found the parasites growing in the stomach of a mosquito with spotted wings, an Anopheles. In 1898 in Calcutta, with his helper Muhammad Bux, he showed that mosquito bites passed malaria between birds. That year, Giovanni Battista Grassi's team in Italy showed that Anopheles mosquitoes pass malaria to people. The bad air idea was wrong.",
   "who": "Alphonse Laveran, Patrick Manson, Ronald Ross with Muhammad Bux, and Giovanni Battista Grassi",

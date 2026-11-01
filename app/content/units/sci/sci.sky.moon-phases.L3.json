@@ -634,14 +634,62 @@
      "kind": "cards",
      "title": "16 cards to cut out: 8 Moon shape cards and 8 clue cards",
      "items": [
-      "MOON SHAPE: New Moon. Draw a completely dark circle.",
-      "MOON SHAPE: Growing crescent. Draw a circle with a thin curved sliver lit on the right.",
-      "MOON SHAPE: Growing half Moon. Draw a circle with the right half lit.",
-      "MOON SHAPE: Growing gibbous Moon. Draw a circle lit on the right, with only a thin dark sliver on the left.",
-      "MOON SHAPE: Full Moon. Draw a completely lit circle.",
-      "MOON SHAPE: Shrinking gibbous Moon. Draw a circle lit on the left, with only a thin dark sliver on the right.",
-      "MOON SHAPE: Shrinking half Moon. Draw a circle with the left half lit.",
-      "MOON SHAPE: Shrinking crescent. Draw a circle with a thin curved sliver lit on the left.",
+      {
+       "f": "MOON SHAPE: New Moon. Draw a completely dark circle.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-00.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Growing crescent. Draw a circle with a thin curved sliver lit on the right.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-01.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Growing half Moon. Draw a circle with the right half lit.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-02.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Growing gibbous Moon. Draw a circle lit on the right, with only a thin dark sliver on the left.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Full Moon. Draw a completely lit circle.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-04.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Shrinking gibbous Moon. Draw a circle lit on the left, with only a thin dark sliver on the right.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-05.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Shrinking half Moon. Draw a circle with the left half lit.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-06.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MOON SHAPE: Shrinking crescent. Draw a circle with a thin curved sliver lit on the left.",
+       "img": {
+        "src": "media/cards/moon-phases-g1-0-07.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "CLUE: Amavasya. Diwali lamps shine on this dark night.",
       "CLUE: Seen low in the west just after sunset, two or three days after Amavasya. Look for earthshine.",
       "CLUE: High in the sky at sunset, about a week after Amavasya.",

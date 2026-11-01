@@ -859,15 +859,63 @@
      "kind": "cards",
      "title": "24 thing cards to cut out, each with a name",
      "items": [
-      "steel spoon",
-      "wooden spoon",
-      "plastic comb",
-      "glass bangle",
-      "rubber band",
-      "woollen sock",
+      {
+       "f": "steel spoon",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-00.jpg",
+        "credit": "Abraham, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "wooden spoon",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-01.jpg",
+        "credit": "Mflan1977, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "plastic comb",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-02.jpg",
+        "credit": "Unknown, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "glass bangle",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-03.jpg",
+        "credit": "meenakshi madhavan from New Delhi, india, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "rubber band",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-04.jpg",
+        "credit": "Fructibus, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "woollen sock",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-05.jpg",
+        "credit": "National Museum of Finland, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "cotton hanky",
-      "candle",
-      "clay diya",
+      {
+       "f": "candle",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-07.jpg",
+        "credit": "ViajeroExtraviado, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "clay diya",
+       "img": {
+        "src": "media/cards/sorting-materials-g1-0-08.jpg",
+        "credit": "Apurv013, CC0, via Wikimedia Commons"
+       }
+      },
       "pebble",
       "aluminium foil ball",
       "paper cup",

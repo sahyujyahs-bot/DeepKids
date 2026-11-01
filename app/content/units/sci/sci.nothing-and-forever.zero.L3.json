@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Try this. Write 52 on a chit. Leave a space after it, as wide as one digit. Show it to someone at home and ask them to read it. Did they say fifty-two? You meant five hundred and twenty. What went missing?",
   "text": "The space you left meant 'no ones here'. But a blank space is invisible, so the reader saw only 52. For thousands of years, people wrote numbers with gaps like this and made mistakes like this. Indian mathematicians solved it with a small sign for 'none'. They called it shunya, which means empty in Sanskrit. We call it zero, and today it is written in every country in the world.",
-  "art": "A grandmother in a Chennai flat squinting at a chit that says 52 with a wide gap after it, while a girl holds a pencil ready to write a 0 in the gap."
+  "art": "A reader in a Chennai flat squinting at a chit that says 52 with a wide gap after it, while a girl holds a pencil ready to write a 0 in the gap."
  },
  "outcomes": [
   "I can say that zero is the number for none, and show it with an empty plate or bowl.",
@@ -61,8 +61,8 @@
   {
    "term": "Divide",
    "meaning": "To divide is to share into equal groups. 12 divided by 3 asks: how many groups of 3 make 12?",
-   "example": "12 laddus shared among 3 friends gives 4 each.",
-   "art": "Twelve laddus in three equal heaps on three steel plates."
+   "example": "12 rasgullas shared among 3 friends gives 4 each.",
+   "art": "Twelve rasgullas in three equal heaps on three steel plates."
   },
   {
    "term": "Undefined",
@@ -107,7 +107,7 @@
     "10 take away 10 leaves 0."
    ],
    "perspectives": [],
-   "art": "A farmer in Thanjavur reading an empty rain gauge in a dry field, a speech bubble with 0 mm.",
+   "art": "A farmer in Assam reading an empty rain gauge in a dry field, a speech bubble with 0 mm.",
    "context": "This card says what zero means as a number. It is the answer to 'how many?' when there are none."
   },
   {
@@ -156,10 +156,10 @@
    "definition": "In 628, Brahmagupta wrote rules for zero: a number plus zero stays the same, a number minus zero stays the same, and a number times zero is zero.",
    "description": "Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was called the Brahmasphutasiddhanta. Before him, zero was a sign for an empty place. He treated it as a number you can add, take away and multiply. He also gave rules for negative numbers, which he called debts, and for positive numbers, which he called fortunes. Zero sits between them. A debt taken from zero becomes a fortune, he wrote.",
    "examples": [
-    "8 + 0 = 8. Adding no laddus to 8 laddus leaves 8.",
-    "8 - 0 = 8. Taking away no laddus leaves 8.",
-    "8 × 0 = 0. Eight plates with no laddus on each hold no laddus.",
-    "0 × 8 = 0. No plates of 8 laddus hold no laddus."
+    "8 + 0 = 8. Adding no modaks to 8 modaks leaves 8.",
+    "8 - 0 = 8. Taking away no modaks leaves 8.",
+    "8 × 0 = 0. Eight plates with no modaks on each hold no modaks.",
+    "0 × 8 = 0. No plates of 8 modaks hold no modaks."
    ],
    "perspectives": [],
    "art": "Four steel plates, each empty, with 4 × 0 = 0 written underneath in chalk.",
@@ -335,7 +335,7 @@
    "hint": "Use the katoris. Which katori does the 5 sit in, with the 0 and without it?"
   },
   {
-   "q": "Why can't you share 12 laddus into groups of zero?",
+   "q": "Why can't you share 12 pedas into groups of zero?",
    "kind": "deep",
    "hint": "Try it with beans. Put 0 beans in each katori, again and again. Does the heap ever get smaller?"
   },
@@ -343,16 +343,6 @@
    "q": "Can you think about nothing at all? What happens in your mind when you try?",
    "kind": "big",
    "hint": "Close your eyes for one minute and try. What came into your mind?"
-  },
-  {
-   "q": "Bees seem to put 'none' below 'one'. Did people invent zero, or find something that was already there?",
-   "kind": "big",
-   "hint": "There were zero idlis on the plate before anyone wrote a 0. What did the people who invented the sign add?"
-  },
-  {
-   "q": "Is there anywhere in the universe with exactly nothing in it?",
-   "kind": "big",
-   "hint": "Even the space between stars holds a few atoms, and light crosses it. Could anything ever be perfectly empty?"
   }
  ],
  "story": {
@@ -425,23 +415,22 @@
     },
     {
      "kind": "cards",
-     "title": "6 goal cards, one turned over each round",
+     "title": "5 goal cards, one turned over each round",
      "items": [
       "BIGGEST number wins",
       "SMALLEST number wins",
       "Closest to 500 wins",
       "Closest to 300 wins",
-      "BIGGEST number wins",
-      "Number with a 0 in the middle scores double"
+      "The biggest number that has a 0 in it wins. If nobody has a 0, the biggest number wins"
      ]
     }
    ],
    "rules": [
     "Each player has a score sheet. Turn over a goal card for the round.",
     "Take turns rolling one dice. A 6 counts as 0. Rolls of 1 to 5 count as themselves.",
-    "After each roll, write the digit in one of your empty boxes. Once written, it can't move.",
-    "After three rolls each, read your numbers aloud. The player who best meets the goal card wins the round.",
-    "After 5 rounds, the player who won most rounds wins. Playing alone? Try to beat the goal in at least 3 of 5 rounds."
+    "After each roll, write the digit in one of your empty boxes. Once written, it can't move. A 0 in the Hundreds box is allowed: 042 is read as forty-two.",
+    "After three rolls each, read your numbers aloud. The player who best meets the goal card wins the round. If it is a tie, both players win it.",
+    "After 5 rounds, the player who won most rounds wins. Playing alone? Build two numbers each round, one after the other. Score a point when the second number meets the goal better than the first. Try to score 3 points in 5 rounds."
    ],
    "flow": [
     {
@@ -473,7 +462,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Play 5 rounds. After each round, everyone reads their number aloud, saying the hundreds, tens and ones.",
+     "do": "Play 5 rounds. Turn over a new goal card each round. After each round, everyone reads their number aloud, saying the hundreds, tens and ones.",
      "say": "Read your number out loud. Say how many hundreds, tens and ones.",
      "kid": "Roll, write, roll, write, roll, write. Read your number aloud. Who wins this round?",
      "parent": "Listen for numbers like 405 and 450. Ask, 'Where is your zero, and what is it holding?' A child who reads 405 as 'forty-five' is missing the empty tens place, so make it with katoris."
@@ -503,41 +492,30 @@
    "printables": [
     {
      "kind": "score sheet",
-     "title": "A score sheet with 2 overs for each team, 6 boxes per over",
+     "title": "A score sheet with a key and 2 overs for each team, 6 boxes per over",
      "items": [
+      "Key: roll 1 = one run, 2 = two runs, 3 = dot ball (draw a dot), 4 = four runs, 5 = dot ball (draw a dot), 6 = six runs",
       "Team A, over 1: [ ][ ][ ][ ][ ][ ]",
       "Team A, over 2: [ ][ ][ ][ ][ ][ ]",
       "Team B, over 1: [ ][ ][ ][ ][ ][ ]",
       "Team B, over 2: [ ][ ][ ][ ][ ][ ]"
      ]
-    },
-    {
-     "kind": "cards",
-     "title": "A dice key card",
-     "items": [
-      "1 = one run",
-      "2 = two runs",
-      "3 = dot ball, no runs: draw a dot",
-      "4 = four runs",
-      "5 = dot ball, no runs: draw a dot",
-      "6 = six runs"
-     ]
     }
    ],
    "rules": [
-    "Each team bats for 2 overs. One over is 6 balls.",
-    "For each ball, the batting team rolls the dice and reads the key card.",
+    "Each team bats for 2 overs. One over is 6 balls. With two players, one bats while the other scores, then you swap.",
+    "For each ball, the batting team rolls the dice and reads the key at the top of the score sheet.",
     "The scorer marks every ball in a box: the runs, or a dot for a ball with no runs. Never leave a box blank.",
     "After each over, count the marks. There must be exactly 6.",
-    "Add up the runs. The team with more runs wins. Playing alone? Play both teams, and see if Team B can beat Team A."
+    "Add up the runs. The team with more runs wins. If the runs are level, each team bats one more over. Playing alone? Play both teams, and see if Team B can beat Team A."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Give out the score sheet and the key card. 2. Choose who bats first and who scores.",
+     "do": "1. Give out the score sheet. 2. Choose who bats first and who scores.",
      "say": "In this game every ball must go on the sheet. A ball with no runs gets a dot, never a blank.",
-     "kid": "Read the key card. A 3 or a 5 is a dot ball. Draw a dot for it, never a blank.",
+     "kid": "Read the key at the top of the sheet. A roll of 3 or 5 is a dot ball. Draw a dot for it, never a blank.",
      "context": "This is the first step of Dot Ball Cricket, a dice cricket game where every ball is marked, even the ones with no runs."
     },
     {
@@ -573,7 +551,7 @@
      "caption": "1. Every ball gets a mark: runs, or a dot."
     },
     {
-     "art": "A dice showing 5 next to a key card that says 5 = dot ball.",
+     "art": "A dice showing 5 next to the key on a score sheet that says 5 = dot ball.",
      "caption": "2. Roll for each ball. After 6 balls, count the marks."
     }
    ]
@@ -614,7 +592,6 @@
      "qty": 3
     }
    ],
-   "safety": "Use child-safe scissors to cut the chits, or tear them along a fold.",
    "schedule": [
     {
      "day": 1,
@@ -639,7 +616,7 @@
      "do": "1. Write 6 zero cards with different numbers: 205, 610, 80, 803, 400, 607. 2. Use the same pen and the same size.",
      "say": "Now we make cards with the zero written in. They use different numbers, so they can't give away the answers.",
      "kid": "Now write 6 cards with a 0: 205, 610, 80, 803, 400, 607. Use the same pen and size.",
-     "parent": "The zero cards have the same patterns as the blank cards: two with an empty middle, three with an empty end, one with two empty places at the end. Only the 0 is different."
+     "parent": "The zero cards have the same patterns as the blank cards: three with an empty middle (205, 803, 607), two with an empty end (610, 80), and one with two empty places at the end (400). Only the 0 is different."
     },
     {
      "id": "s3",
@@ -678,9 +655,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "1. Turn the blank cards over and check each answer against the pencil number. 2. Fill in the last column: how many readers got each card right.",
+     "do": "1. Turn the blank cards over and check each answer against the pencil number. The zero cards need no turning: the number is written on the front. 2. Fill in the last column: how many readers got each card right.",
      "say": "Let's check. Turn each card over. How many readers got it right?",
-     "kid": "Turn each card over. Was the reader right? Count how many got each card right.",
+     "kid": "Turn each blank card over. Was the reader right? The zero cards show their number on the front. Count how many readers got each card right.",
      "check": {
       "t": "mcq",
       "q": "In most homes, which cards get read wrong most often?",
@@ -757,7 +734,7 @@
      "caption": "2. Write 6 cards with the 0 written in."
     },
     {
-     "art": "A grandmother in a Kochi flat reading a chit aloud while a girl writes her answer in a table.",
+     "art": "A reader in a Kochi flat reading a chit aloud while a girl writes down what she hears in a table.",
      "caption": "3. Each reader reads every card aloud. Write down what they say."
     },
     {
@@ -798,7 +775,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special care is needed.",
    "schedule": [
     {
      "day": 1,
@@ -836,7 +812,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Put the pencil's end exactly at the ruler's edge. Read its length. 2. Now put the pencil's end at the 0 mark. Read it again. 3. Write both in the table. 4. Do the same for the other 4 things.",
+     "do": "1. Put the pencil's end exactly at the ruler's edge. Read its length. 2. Now put the pencil's end at the 0 mark. Read it again. 3. Write both in the table. 4. Measure each thing twice, in case of a slip. 5. Do the same for the other 4 things.",
      "say": "First from the very edge, then from the 0 mark. Write down both numbers each time.",
      "kid": "Measure the pencil from the edge. Then from the 0. Write both. Now do the other four things.",
      "parent": "Help your child line up each object flat against the ruler, with eyes straight above the mark when reading."
@@ -849,14 +825,14 @@
      "kid": "Find the difference for each thing. Are the differences the same?",
      "check": {
       "t": "mcq",
-      "q": "Kavya measured 5 things from the edge of her ruler, not from the 0. Every length came out 5 mm too long. Why?",
+      "q": "In your table, the difference came out about the same for every object. What does that tell you?",
       "options": [
-       "Her things grew a little",
-       "Her ruler has a 5 mm strip before the 0 mark, and she counted it every time",
-       "She measured too fast"
+       "The ruler has a blank strip before the 0, and it adds the same length every time",
+       "All your objects are the same length",
+       "You measured too fast"
       ],
-      "a": 1,
-      "why": "The strip before the 0 is not part of any centimetre. Starting at the edge adds that strip to every length. So the difference is the same for every object: it is the width of the strip. Picking 'measured too fast' means thinking it was a random slip, but a random slip would not give the same difference every time."
+      "a": 0,
+      "why": "The strip before the 0 is not part of any centimetre. Starting at the edge adds that strip to every length, so the difference is the width of the strip. A random slip would be different each time. If your ruler starts right at the edge, every difference is 0 and there is no strip."
      }
     },
     {
@@ -940,7 +916,6 @@
      "qty": 1
     }
    ],
-   "safety": "Stay indoors, or on your own balcony.",
    "schedule": [
     {
      "day": 1,
@@ -1069,7 +1044,7 @@
      "kid": "Make 250, then 502, then 520. Write each one. Now make one for your grown-up to write.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi has 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it?",
+      "q": "Lakshmi, a girl in Class 3, has 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it?",
       "options": [
        "52",
        "502",
@@ -1215,13 +1190,8 @@
     {
      "item": "paper and a pencil",
      "qty": 1
-    },
-    {
-     "item": "the sign chart below, copied onto paper",
-     "qty": 1
     }
    ],
-   "safety": "No special care is needed.",
    "schedule": [
     {
      "day": 1,
@@ -1250,9 +1220,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask your child to write 350 and 503 in all three ways, then answer the question below.",
-     "say": "Now write 350 and 503 all three ways. Which way is shortest? Which way needs zero?",
-     "kid": "Write 350 and 503 three ways. Which way is quickest?",
+     "do": "Ask your child to write 350 and 105 in all three ways, then answer the question below. Check: 350 is CCCL and ௩௱௫௰. 105 is CV and ௱௫.",
+     "say": "Now write 350 and 105 all three ways. Which way is shortest? Which way needs a zero?",
+     "kid": "Write 350 and 105 three ways. Which way is quickest?",
      "check": {
       "t": "mcq",
       "q": "Roman numerals and old Tamil numerals had no zero. What did they use instead?",
@@ -1293,7 +1263,6 @@
      "qty": 1
     }
    ],
-   "safety": "If you use a real lift, a grown-up rides with the child.",
    "schedule": [
     {
      "day": 1,
@@ -1380,7 +1349,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special care is needed.",
    "schedule": [
     {
      "day": 1,
@@ -1502,7 +1470,7 @@
    "id": "c2",
    "title": "Build an abacus that can show 1,005",
    "mins": 30,
-   "problem": "Build a counting frame from things at home that can show any number up to 9,999, including 1,005 with its two empty places.",
+   "problem": "Build a counting frame from things at home with 4 places that can show numbers like 1,005, 1,050 and 1,500, including their empty places.",
    "constraints": [
     "Use only things from home.",
     "It must have 4 places: thousands, hundreds, tens and ones.",
@@ -1511,7 +1479,7 @@
    "materials": [
     "a shoebox lid or a piece of cardboard",
     "4 pencils, straws or ice-cream sticks",
-    "beads, bangles, buttons or rings cut from a straw",
+    "about 12 beads, bangles, buttons or rings cut from a straw",
     "sticky tape or a lump of atta dough"
    ],
    "general": [
@@ -1613,19 +1581,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi writes the number two hundred and five. Which is right?",
-   "opts": [
-    "25",
-    "205",
-    "2005"
-   ],
-   "a": 1,
-   "why": "Two hundreds, no tens and five ones is 205. The 0 holds the empty tens place. Picking 25 means leaving out the empty place. Picking 2005 means adding an empty place that isn't there.",
-   "outcome": 1
-  },
-  {
-   "t": "mcq",
-   "p": "Divya writes 520 but forgets the 0. What number has she written?",
+   "p": "Isha, a girl in Class 3, writes 520 but forgets the 0. What number has she written?",
    "opts": [
     "52, which is ten times smaller",
     "520, because the 0 means nothing",
@@ -1637,14 +1593,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the missing zero test, Nila's grandmother read the card '52' with a blank space after it. What did she most likely say?",
+   "p": "In the missing zero test, Nila, a girl in Class 3, showed a neighbour the card '52' with a blank space after it. She meant 520. What did the neighbour most likely say?",
    "opts": [
     "Five hundred and twenty",
     "Fifty-two",
     "Five hundred and two"
    ],
    "a": 1,
-   "why": "A blank at the end of a number looks like ordinary paper, so she sees only 52. That is why a 0 is needed at the end of a number.",
+   "why": "A blank at the end of a number looks like ordinary paper, so they see only 52. That is why a 0 is needed at the end of a number.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1662,19 +1618,19 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi has 7 empty plates with no laddus on each. How many laddus is that altogether?",
+   "p": "Thenmozhi, a girl in Class 3, has 7 empty plates with no murukkus on each. How many murukkus is that altogether?",
    "opts": [
     "7",
     "0",
     "70"
    ],
    "a": 1,
-   "why": "7 × 0 = 0. Seven groups of nothing is nothing. Picking 7 means counting the plates instead of the laddus.",
+   "why": "7 × 0 = 0. Seven groups of nothing is nothing. Picking 7 means counting the plates instead of the murukkus.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Keerthana types 8 ÷ 0 on a calculator. What will it show?",
+   "p": "Keerthana, a girl in Class 3, types 8 ÷ 0 on a calculator. What will it show?",
    "opts": [
     "0",
     "8",
@@ -1710,7 +1666,7 @@
   },
   {
    "t": "mcq",
-   "p": "Mehak measures a pencil from the very edge of her ruler. The 0 mark is 5 mm in from the edge. What happens?",
+   "p": "Mehak, a girl in Class 3, measures a pencil from the very edge of her ruler. The 0 mark is 5 mm in from the edge. What happens?",
    "opts": [
     "Her answer is 5 mm too long",
     "Her answer is 5 mm too short",
@@ -1723,7 +1679,7 @@
   },
   {
    "t": "mcq",
-   "p": "The lift in Shalini's building in Hyderabad has buttons B2, B1, G, 1, 2. If G is 0, what number is B1?",
+   "p": "Shalini, a girl in Class 3, lives in Hyderabad. The lift in her building has buttons B2, B1, G, 1, 2. If G is 0, what number is B1?",
    "opts": [
     "1",
     "-1",
@@ -1762,16 +1718,10 @@
      "why": "Zero is the number of things in an empty group. A strong answer can also give an example, like the idlis on an empty plate."
     },
     {
-     "t": "mcq",
-     "p": "Priya puts 3 beans in the Hundreds katori, no beans in the Tens katori, and 4 beans in the Ones katori. What number is it?",
-     "opts": [
-      "34",
-      "304",
-      "340",
-      "3004"
-     ],
-     "a": 1,
-     "why": "3 hundreds, no tens and 4 ones is 304. Picking 34 leaves out the empty place. Picking 340 puts the empty place in the wrong spot."
+     "t": "truefalse",
+     "p": "In the number 407, the 0 means there are no tens.",
+     "a": true,
+     "why": "True. 407 is 4 hundreds, no tens and 7 ones. The 0 holds the empty tens place, so the 4 stays in the hundreds place."
     },
     {
      "t": "match",
@@ -1799,16 +1749,16 @@
     },
     {
      "t": "truefalse",
-     "p": "Selvi says, 'A 0 means nothing, so 30 and 3 are the same number.' Is she right?",
+     "p": "Gauri, a girl in Class 3, says, 'A 0 means nothing, so 30 and 3 are the same number.' Is she right?",
      "a": false,
      "why": "False. 30 is three tens. 3 is three ones. The 0 holds the ones place, so the 3 stays in the tens place. A strong answer uses beans or katoris to show it."
     },
     {
      "t": "write",
-     "p": "In the missing zero test, why was a blank at the end of a number missed more often than a blank in the middle?",
+     "p": "Look at your own results from the missing zero test. Which card was read wrong most often? Write what the readers said and what you meant.",
      "lines": 3,
-     "a": "A blank in the middle sits between two digits, so you can see a space there. A blank at the end looks just like the paper after a number ends, so the reader doesn't know a place is there.",
-     "why": "A strong answer uses what the readers really said, for example that 52 with a blank was read as fifty-two.",
+     "a": "The answer comes from the child's own table. A strong answer names a card with a blank at the end, gives the number the readers said, such as 52, and the number meant, such as 520.",
+     "why": "A strong answer uses the real numbers from the table, not a guess.",
      "how": "e1"
     },
     {
@@ -1880,9 +1830,9 @@
     },
     {
      "t": "write",
-     "p": "Brahmagupta lived about 1,400 years ago. Write one of his rules for zero, and show it with beans or laddus.",
+     "p": "Brahmagupta lived about 1,400 years ago. Write one of his rules for zero, and show it with beans or sweets.",
      "lines": 3,
-     "a": "A number times zero is zero: 4 plates with no laddus on each hold 0 laddus. Or: a number plus zero stays the same: 6 beans and no more beans are still 6 beans.",
+     "a": "A number times zero is zero: 4 plates with no sweets on each hold 0 sweets. Or: a number plus zero stays the same: 6 beans and no more beans are still 6 beans.",
      "why": "A strong answer gives the rule in words and a real example that shows it is true."
     },
     {
@@ -1938,7 +1888,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi says, 'Zero means I don't know.' Her rain gauge in Mysuru reads 0 mm. What does the 0 really tell her?",
+     "p": "Lakshmi, a girl in Class 3, says, 'Zero means I don't know.' Her rain gauge in Mysuru reads 0 mm. What does the 0 really tell her?",
      "opts": [
       "That no rain fell",
       "That nobody checked",
@@ -1958,7 +1908,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Tara has 12 beans. She tries to put them into groups of 0. Explain, in your own words, why she can never finish.",
+     "p": "Tara, a girl in Class 3, has 12 beans. She tries to put them into groups of 0. Explain, in your own words, why she can never finish.",
      "lines": 3,
      "a": "Each group takes no beans, so the heap never gets smaller. However many groups she makes, she still has 12 beans left. So no number of groups uses them up.",
      "why": "A strong answer says that the heap stays the same size, and links it to 12 ÷ 0 having no answer.",
@@ -1966,15 +1916,14 @@
     },
     {
      "t": "mcq",
-     "p": "12 ÷ 3 = 4, because 4 × 3 = 12. Using the same check, why does 12 ÷ 0 have no answer?",
+     "p": "The Maya of Central America drew a sign for zero more than 1,500 years ago. What does this tell us?",
      "opts": [
-      "Because no number times 0 gives 12",
-      "Because 12 is too big",
-      "Because 0 × 12 = 12",
-      "Because the answer is 12"
+      "More than one people found the idea of an empty place",
+      "Zero was invented in India after the Maya",
+      "The Maya zero was a number with rules, just like Brahmagupta's"
      ],
      "a": 0,
-     "why": "Every number times 0 is 0, so no number can be the answer to 12 ÷ 0. Picking '0 × 12 = 12' is a common slip: 0 × 12 is 0."
+     "why": "The Maya made their own sign for an empty place, as Babylon did. India was the first to make zero a number with rules."
     },
     {
      "t": "truefalse",
@@ -2109,12 +2058,10 @@
      "why": "Together they show zero's journey from India across the world."
     },
     {
-     "t": "write",
-     "p": "In the ruler test, Farhan's lengths from the edge were each 4 mm longer than from the 0 mark. Why was the difference the same for every object?",
-     "lines": 3,
-     "a": "The extra length came from the strip before the 0 mark. That strip is the same width every time, so it adds the same 4 mm to every object.",
-     "why": "A strong answer says where the extra 4 mm came from and why it can't change.",
-     "how": "e2"
+     "t": "truefalse",
+     "p": "A kitchen scale that shows 0 with an empty bowl on it is broken.",
+     "a": false,
+     "why": "False. Pressing the zero button with the bowl on makes the scale start from the bowl, so it weighs only what you add, such as atta."
     },
     {
      "t": "label",
@@ -2178,10 +2125,10 @@
     },
     {
      "t": "write",
-     "p": "If no person had ever written a sign for zero, would there still be zero tigers in your kitchen? Explain what you think.",
+     "p": "The Romans had no zero, but Indian numbers won across the world. Using what you saw with CCCV and 305, say why you think this happened.",
      "lines": 4,
-     "a": "Open answer. A strong answer separates the number of tigers, which is none whether or not anyone writes it, from the sign 0, which people made to write it down.",
-     "why": "There is no single right answer. A strong answer gives a reason and considers the other side."
+     "a": "Open answer. A strong answer says that with place value, ten digits can write any number, and the 0 keeps places, so the numbers are short and easy to add on paper. Roman signs need a new sign for every size.",
+     "why": "A strong answer compares how long and how easy the two ways of writing 305 are."
     },
     {
      "t": "mcq",
@@ -2229,10 +2176,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw two ways of writing 507 that a reader could never mix up with 57, without using the sign 0.",
-     "a": "For example, three boxes with the middle one empty, or coloured digits with a different colour for each place.",
-     "why": "A strong drawing makes the empty tens place visible without a 0.",
-     "art": "Two blank rectangles side by side."
+     "p": "Draw a number line from -5 to 5. A night in Leh starts at 3 °C, drops 4 degrees, then rises 2 degrees. Mark where it ends.",
+     "a": "A line with -5 to 5 evenly spaced, and a mark on 1.",
+     "why": "From 3, going down 4 reaches -1. Going up 2 reaches 1. A strong drawing has equal gaps between the numbers.",
+     "art": "A blank horizontal line with small tick marks."
     },
     {
      "t": "fill",
@@ -2258,7 +2205,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sunita reads the card '6' with a blank space after it, and says sixty. She is right. Why might she have guessed it?",
+     "p": "Sunita, a girl in Class 3, reads the card '6' with a blank space after it, and says sixty. She is right. Why might she have guessed it?",
      "opts": [
       "She asked if something was missing, or noticed the chit was extra wide",
       "Because blank spaces always mean zero",
@@ -2288,7 +2235,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Pune are talking about the number 0.",
+     "p": "Two girls in Class 3 in Pune, Ishita and Rukhsana, are talking about the number 0.",
      "views": [
       {
        "who": "Ishita",
@@ -2357,27 +2304,17 @@
    "why_open": "Even the emptiest space has a tiny amount of energy that physicists have measured. Nobody knows whether a perfect nothing is possible."
   },
   {
-   "q": "Do bees, crows and other animals understand zero the way people do?",
-   "why_open": "Bees and crows treat 'none' as less than one in tests. Scientists still argue whether that is the same idea as our zero."
-  },
-  {
    "q": "Did time have a zero, a moment when it began?",
    "why_open": "Most scientists think the universe began growing about 13.8 billion years ago. Nobody knows whether anything came before that."
-  },
-  {
-   "q": "Did people invent numbers, or find them?",
-   "why_open": "Mathematicians and philosophers have argued about this for over 2,000 years, and still disagree."
   }
  ],
  "ask_kids": [
   "How many tails do you have? How many legs? Which answer is zero?",
   "What is the biggest number you can make with the digits 0, 5 and 2? The smallest?",
   "If I write 50 and forget the 0, how many rupees have I written?",
-  "Can you share 6 laddus among 0 friends? What happens?",
   "Which floor is the ground floor in a lift? Is there anything below it?",
   "What is 1,000 × 0? What is 1,000 + 0?",
-  "Where did you see a 0 today?",
-  "Can you think about nothing at all for ten seconds? What happened?"
+  "Where did you see a 0 today?"
  ],
  "jokes": [
   {
@@ -2401,10 +2338,6 @@
    "a": "It felt ten times smaller."
   },
   {
-   "j": "What did the cricket scorer draw when nothing happened?",
-   "a": "The point of the game: a dot!"
-  },
-  {
    "j": "Why is zero never worried before a test?",
    "a": "It has nothing to worry about."
   },
@@ -2413,32 +2346,12 @@
    "a": "Stand next to me and we'll be ten."
   },
   {
-   "j": "Why did 12 refuse to be divided by zero?",
-   "a": "It didn't want to end up in an error."
-  },
-  {
    "j": "What do you call a lift that only goes to floor 0?",
    "a": "Grounded."
   },
   {
    "j": "How much dirt is in a hole 1 metre deep and 1 metre wide?",
    "a": "None. It's a hole!"
-  },
-  {
-   "j": "What did the empty katori say to the full one?",
-   "a": "I may hold nothing, but I'm holding my place."
-  },
-  {
-   "j": "Why did Brahmagupta's zero never get lonely?",
-   "a": "It could sit next to any number and make it ten times bigger."
-  },
-  {
-   "j": "What is the quietest number?",
-   "a": "Zero. It never adds anything."
-  },
-  {
-   "j": "Why did the ruler start at zero?",
-   "a": "Because it hadn't measured anything yet."
   }
  ],
  "maths": [
@@ -2479,7 +2392,7 @@
    "why_maths": "Listing every way in order makes sure you miss none, and shows how much the 0's place changes the number."
   },
   {
-   "problem": "Kavya forgot the 0 when she wrote ₹500 in her savings book. She wrote ₹50. How much money went missing from her record?",
+   "problem": "Kavya, a girl in Class 3, forgot the 0 when she wrote ₹500 in her savings book. She wrote ₹50. How much money went missing from her record?",
    "answer": "₹450.",
    "explain": "She meant 500 but wrote 50. 500 - 50 = 450. A missing 0 at the end made the number ten times smaller.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2584,12 +2497,11 @@
    "id": "b-book-zero",
    "item": "Zero Is the Leaves on the Tree, by Betsy Franco (picture book)",
    "kind": "book",
-   "why": "Short pictures of zero in everyday life, like an empty swing and a bare tree. Good after the zero hunt, and for a younger sibling. Borrowing works just as well.",
+   "why": "Short pictures of zero in everyday life, like an empty swing and a bare tree. Good after the zero hunt. Borrowing works just as well.",
    "url": "https://www.amazon.in/s?k=Zero+Is+the+Leaves+on+the+Tree",
    "used_in": [
     "a1"
-   ],
-   "plan": "Read it together after the zero hunt."
+   ]
   },
   {
    "id": "b-book-seife",
@@ -2599,8 +2511,7 @@
    "url": "https://www.amazon.in/s?k=Zero+The+Biography+of+a+Dangerous+Idea",
    "used_in": [
     "p1"
-   ],
-   "plan": "Optional reading for the parent before Zero's journey."
+   ]
   }
  ],
  "warmup": [
@@ -2725,7 +2636,7 @@
    "what_is_life": "A honeybee choosing between flower patches gains by telling 'some' from 'none'. Keeping track of what is missing helps a living thing as much as keeping track of what is there.",
    "what_is_this_world": "Nobody has ever found a place with exactly nothing in it. Even the emptiest space between the stars holds a few atoms and a little energy."
   },
-  "thread": "Ten digits, 0 to 9, can write every number there is. Zero is what makes this work, because it holds the empty places that give every other digit its value. Zero is also a picture of how everything begins. Before anything, there is a balance in which everything adds up to zero. From that zero comes One, and from One, the many, just as every number is built up from places that start empty.",
+  "thread": "Ten digits, 0 to 9, can write every number there is. Zero makes this work, because it holds the empty places that give every other digit its value. Some old texts say the same about empty space: a pot or a wheel works because of what is empty inside it.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
@@ -2735,7 +2646,7 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "Brahmagupta's rule says that taking zero from a number leaves it as it was. The verse says something like it about the whole. It also points to infinity, the next unit."
+    "link": "The verse plays with taking away and what remains, as Brahmagupta's rules do with zero. It is about the whole, not about numbers."
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation)",
@@ -2768,13 +2679,13 @@
    "kid": "Sit still. Close your eyes. Breathe in slowly. Breathe out all the way. Wait a moment before the next breath. Do it five times. Was the pause empty?"
   },
   "ask": [
-   "If nobody had ever written a 0, would there still be zero idlis on an empty plate?",
-   "Bees seem to know that none is less than one. Did people invent zero, or find it?",
-   "Can you think about nothing at all? What happens in your mind when you try?"
+   "In 205 the 0 adds nothing to count. Why can't we leave it out?",
+   "Is a place with nothing in it the same as a place that is not there? Think of the empty katori.",
+   "What did you notice in the pause between breaths?"
   ],
   "art": "A night sky over a quiet terrace in Kochi, with a large faint circle drawn among the stars, and a child sitting cross-legged below with eyes closed."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. The missing zero test needs only chits, a pen and readers. A blank at the end of a number is invisible on plain paper, so the main result shows clearly: readers say 52 and 7 for cards meant as 520 and 700. Gaps in the middle give mixed results, which is worth talking about. The step says not to draw a line or box in the gap, because a box would act like a zero. If only one grown-up is at home, the cards can be sent as photos on WhatsApp. Readers who grow suspicious and ask 'is something missing?' are good evidence too. The ruler test depends on the ruler: most school rulers have a strip of 2 to 10 mm before the 0, and a ruler that starts at its edge gives a real 'no difference' result. The katori and bean activities need 20 dry beans, and beans must be kept away from children under 4. The abacus challenge uses pencils in atta dough, and a grown-up cuts any straws. Both games work for one child alone. Timings were checked step by step. The spine (intro, katori abacus, missing zero test, explanations, Brahmagupta's rules with beans, roots and quiz) fits about 90 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. The missing zero test needs only chits, a pen and readers. A blank at the end of a number is invisible on plain paper, so the main result shows clearly: readers say 52 and 7 for cards meant as 520 and 700. Gaps in the middle give mixed results, which is worth talking about. The step says not to draw a line or box in the gap, because a box would act like a zero. If only one grown-up is at home, the cards can be sent as photos on WhatsApp. Readers who grow suspicious and ask 'is something missing?' are good evidence too. The ruler test depends on the ruler: most school rulers have a strip of 2 to 10 mm before the 0, and a ruler that starts at its edge gives a real 'no difference' result. The katori and bean activities need 20 dry beans, and beans must be kept away from children under 4. The abacus challenge uses pencils in atta dough, and a grown-up cuts any straws. Both games work for two players, and for one child alone. Timings were checked step by step. The spine (intro, katori abacus, missing zero test, explanations, Brahmagupta's rules with beans, roots and quiz) fits about 90 minutes.",
  "how_we_found_out": {
   "story": "For a long time, people used zero only as a mark for an empty place. Nobody added or multiplied with it. In the year 628, an Indian astronomer called Brahmagupta, who lived in Bhillamala in what is now Rajasthan, wrote a book called the Brahmasphutasiddhanta. In it he gave zero rules of its own. A number plus zero stays the same. A number minus zero stays the same. A number times zero is zero. These rules are still used today. But Brahmagupta also wrote that zero divided by zero is zero. In 1150, the Indian mathematician Bhaskara wrote that a number divided by zero is endless. Later mathematicians showed that both ideas fail a simple check. Division undoes multiplication: 6 ÷ 2 = 3 because 3 × 2 = 6. So 6 ÷ 0 needs a number that gives 6 when multiplied by 0. No number does, because anything times 0 is 0. And for 0 ÷ 0, every number works, so there is no one answer. Today mathematicians say dividing by zero has no answer.",
   "who": "Brahmagupta, an Indian astronomer and mathematician, and Bhaskara, who came about 500 years later",

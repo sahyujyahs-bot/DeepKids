@@ -1,4 +1,20 @@
 {
+ "expl.15": {
+  "src": "media/img/sci.senses.five-senses.L3/expl.15.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blause, CC BY 3.0, via Wikimedia Commons"
+ },
+ "expl.3": {
+  "src": "media/img/sci.senses.five-senses.L3/expl.3.jpg",
+  "credit": "OpenStax, CC BY 4.0, via Wikimedia Commons"
+ },
+ "expl.7": {
+  "src": "media/img/sci.senses.five-senses.L3/expl.7.jpg",
+  "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.senses.five-senses.L3/flow.p1.jpg",
+  "credit": "haemanthus, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.senses.five-senses.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +50,17 @@
  "setup.e3.2": {
   "src": "media/img/sci.senses.five-senses.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.senses.five-senses.L3/term.12.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blause, CC BY 3.0, via Wikimedia Commons"
+ },
+ "term.14": {
+  "src": "media/img/sci.senses.five-senses.L3/term.14.jpg",
+  "credit": "OpenStax, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.18": {
+  "src": "media/img/sci.senses.five-senses.L3/term.18.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blause, CC BY 3.0, via Wikimedia Commons"
  }
 }

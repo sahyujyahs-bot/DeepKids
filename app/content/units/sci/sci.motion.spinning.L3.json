@@ -306,7 +306,7 @@
   "title": "The Bambaram on the Terrace",
   "mins": 12,
   "read_aloud": true,
-  "note": "Bambarams, string tops with a metal tip, are really played across Tamil Nadu, and lattus across North India. Plastic tops with heavy metal rings really are sold as battle tops. Meenakshi, Rohan, Rajam Paati and this contest are made up.",
+  "note": "Bambarams, string tops with a metal tip, are really played across Tamil Nadu, and lattus across North India. Plastic tops with heavy metal rings really are sold as battle tops. Meenakshi, Rohan, Rajam Paati, Selvi and this contest are made up.",
   "text": [
    "It was the first week of the May holidays in Madurai. The terrace was still cool, because the sun had only just come up over the water tank.",
    "Meenakshi was nine. She was the best bambaram spinner on her street, and she knew it. Her grandmother, Rajam Paati, had taught her. Paati had been the best on her street too, sixty years ago.",
@@ -329,7 +329,7 @@
    "\"Told you,\" said Rohan. \"Heavier wins.\"",
    "Meenakshi picked up his top. It was heavier than hers. But it was also a different shape. Her bambaram was fat in the middle and pointed at the bottom. Rohan's top was flat and wide, and almost all its weight was in the metal ring round its edge.",
    "\"Is it heavier,\" she asked, \"or is it the ring?\"",
-   "Paati smiled and put down her coffee. \"Go and ask Selvi downstairs if you may look at her mother's old pot wheel.\"",
+   "Paati smiled and put down her coffee. \"Go and ask your friend Selvi next door if you may look at her mother's old pot wheel.\"",
    "Selvi's family had made clay pots for three generations. In the corner of their yard stood an old potter's wheel. It was a big flat stone wheel, thick and heavy all round its edge. Meenakshi pushed a stick into a hole near its rim and gave it one hard turn. Then she let go.",
    "The wheel kept turning. It turned slowly and steadily for a long, long time, even though nobody was touching it.",
    "\"The weight is all at the edge,\" Meenakshi said slowly. \"Like Rohan's ring.\"",
@@ -342,7 +342,7 @@
    "That afternoon, Rohan asked Meenakshi to teach him the string. He wound it too loosely, and the bambaram flopped onto its side. He wound it again, tighter. On his ninth try, the bambaram landed on its point and hummed.",
    "He watched its head draw slow circles, and he did not say anything for a long time."
   ],
-  "epiphany": "For the parent: a still top falls because gravity tips it as soon as it leans. A spinning top keeps its axis pointing the same way, so when gravity tries to tip it, the lean slowly circles round instead. This circling is called precession. Friction at the tip slows the spin, the circles grow into a wobble, and the top falls. Rohan's top spun longer mainly because its weight was in a ring at the edge. Weight near the edge goes round a bigger circle, moves faster and carries more motion, so the floor takes longer to rub the spin away. The potter's wheel works the same way.",
+  "epiphany": "For the parent: a still top falls because gravity tips it as soon as it leans. A spinning top keeps its axis pointing the same way, so when gravity tries to tip it, the lean slowly circles round instead. This circling is called precession. Friction at the tip slows the spin, the circles grow into a wobble, and the top falls. In the story, Rohan's top spins longer mainly because its weight is in a ring at the edge. Weight near the edge goes round a bigger circle, moves faster and carries more motion, so the floor takes longer to rub the spin away. The potter's wheel works the same way.",
   "ask": [
    "Why did the bambaram fall over when Meenakshi stood it still on its point?",
    "What did the head of the spinning bambaram do when it leaned?",
@@ -375,40 +375,116 @@
      "title": "A round board with 20 squares in a circle, starting and ending at the mela gate",
      "items": [
       "Square 0: the mela gate, the start and the finish",
-      "Squares 4 and 14: MERRY-GO-ROUND. Move to the outside lane and jump 2 squares",
-      "Squares 7 and 17: WOBBLE. Your top is slowing down. Miss a turn unless you can say why tops wobble",
-      "Square 10: GIANT WHEEL. Name one thing that spins at home, then move on 1"
+      "Square 1: JUICE STALL. Have a sip. Roll again right away",
+      "Square 2: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1",
+      "Square 3: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action",
+      "Square 4: MERRY-GO-ROUND. Move on 2 squares, and do not do the action of the square you land on",
+      "Square 5: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1",
+      "Square 6: JUICE STALL. Have a sip. Roll again right away",
+      "Square 7: WOBBLE. Your top is slowing down. Miss a turn unless you can say why tops wobble",
+      "Square 8: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action",
+      "Square 9: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1",
+      "Square 10: GIANT WHEEL. Name one thing at a fair that turns round a middle pole or axle. Then move on 1",
+      "Square 11: JUICE STALL. Have a sip. Roll again right away",
+      "Square 12: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1",
+      "Square 13: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action",
+      "Square 14: MERRY-GO-ROUND. Move on 2 squares, and do not do the action of the square you land on",
+      "Square 15: JUICE STALL. Have a sip. Roll again right away",
+      "Square 16: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1",
+      "Square 17: WOBBLE. Your top is slowing down. Miss a turn unless you can say why tops wobble",
+      "Square 18: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action",
+      "Square 19: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1"
      ]
     },
     {
      "kind": "cards",
      "title": "20 question cards to cut out",
      "items": [
-      "What is the line a spinning thing turns around called? (The axis)",
-      "What is the rod a wheel turns on called? (An axle)",
-      "What happens to a top that is not spinning, when you stand it on its point? (It falls over)",
-      "What does the head of a leaning spinning top do? (It goes round in a slow circle)",
-      "What is that slow circling called? (Precession)",
-      "What slows a spinning top down? (Friction at its tip, and the air)",
-      "Where does a coin spin longer: on a steel plate or on a towel? (A steel plate)",
-      "Same coins, same top: put them near the edge or near the middle to spin longest? (Near the edge)",
-      "Which rolls down a slope faster: a ring or a solid round thing? (The solid round thing)",
-      "Why are wheels round? (So the axle stays at the same height)",
-      "On a merry-go-round, who moves faster: a rider on the outside or near the pole? (The rider on the outside)",
-      "Which wheel goes further in one turn: a big one or a small one? (The big one)",
-      "What do you call a heavy wheel that keeps a machine turning smoothly? (A flywheel)",
-      "What is a string top called in Tamil? (A bambaram)",
-      "What is a top called in Hindi? (A lattu)",
-      "Name something in your kitchen that spins. (A mixie blade, a whisk, a bottle cap...)",
-      "Does a bicycle stay up mainly because of its spinning wheels? (No, steering into the lean matters more)",
-      "TEST IT: spin a coin on the table. Count the seconds.",
-      "TEST IT: stand a pencil on its point and let go. What happens?",
-      "TEST IT: point to the axis of a door."
+      {
+       "f": "In a cycle wheel, the axle goes through the middle. Is the middle part called the rim or the hub?",
+       "b": "The hub. The rim is the outside edge."
+      },
+      {
+       "f": "What is the rod that a wheel turns on called?",
+       "b": "An axle."
+      },
+      {
+       "f": "A top hums lower and begins to rattle. Is it speeding up or slowing down?",
+       "b": "Slowing down. This is the wobble just before it falls."
+      },
+      {
+       "f": "A spinning top is leaning. What does the head of the top do?",
+       "b": "It goes round in a slow circle."
+      },
+      {
+       "f": "What is the slow circling of a spinning top's lean called?",
+       "b": "Precession."
+      },
+      {
+       "f": "Friction rubs a top's spin away. Besides the floor, what else rubs on a spinning top?",
+       "b": "The air."
+      },
+      {
+       "f": "Why do we spin the coin three times on each surface, and not just once?",
+       "b": "One spin can be a fluke. Three spins give a fairer answer."
+      },
+      {
+       "f": "Two card tops have the same four coins. On one the coins are near the edge, on the other near the middle. Which spins longer?",
+       "b": "The one with the coins near the edge."
+      },
+      {
+       "f": "A roll of cello tape (a ring) and a battery (solid) roll down a slope together. Which usually wins?",
+       "b": "The battery."
+      },
+      {
+       "f": "A square wheel with a pencil through its middle bumps along. What does the pencil do on every corner?",
+       "b": "It goes up and down. On a round wheel it stays at the same height."
+      },
+      {
+       "f": "A merry-go-round turns once. Do a rider on the outside horse and a rider near the pole take the same time or different times to go round once?",
+       "b": "The same time. The outside rider goes round a bigger circle, so moves faster."
+      },
+      {
+       "f": "A cycle wheel and a toy car wheel each turn once. Which goes further?",
+       "b": "The big cycle wheel."
+      },
+      {
+       "f": "What do we call a heavy wheel that keeps a machine turning smoothly?",
+       "b": "A flywheel."
+      },
+      {
+       "f": "What is a string top called in Tamil?",
+       "b": "A bambaram."
+      },
+      {
+       "f": "Which state is the town of Channapatna in, famous for lacquered wooden toys and spinning tops?",
+       "b": "Karnataka."
+      },
+      {
+       "f": "Name something in your kitchen that spins.",
+       "b": "A mixie blade, a whisk, a bottle cap, a fan..."
+      },
+      {
+       "f": "Does a bicycle stay up mainly because of its spinning wheels?",
+       "b": "No. Steering into the lean matters more."
+      },
+      {
+       "f": "TEST IT: spin a coin on the table. Count the seconds.",
+       "b": "The coin spins for some seconds, whirrs faster, then lies flat."
+      },
+      {
+       "f": "TEST IT: stand a pencil on its point and let go. What happens?",
+       "b": "It falls over at once, because it is not spinning."
+      },
+      {
+       "f": "TEST IT: point to the axis of a door.",
+       "b": "The line down its hinges."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "One paper token for each player",
+     "title": "One paper token for each player (2 to 4 players)",
      "items": [
       "🎠",
       "🎡",
@@ -418,17 +494,18 @@
     }
    ],
    "rules": [
-    "Put every token on the mela gate, square 0.",
-    "On your turn, another player reads you the top card. Playing alone? Read it yourself and check the answer in the brackets.",
-    "Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.",
+    "Put every token on the mela gate, square 0. Keep a dice, or six small papers numbered 1 to 6 to pick from.",
+    "On your turn, another player reads you the front of the top card. Playing alone? Read it yourself, then turn it over to check.",
+    "Answer right, and roll the dice and move that many squares, then do what your new square says. Answer wrong, and move 1 square.",
     "On a TEST IT card, do the test. Then move 2 squares.",
-    "The first player to go all the way round and back to the gate wins."
+    "When the cards run out, shuffle them and use them again.",
+    "The first player to get all the way round to the gate, or past it, wins. Playing alone? Try to finish in fewer turns next time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the cards and tokens. Draw the round board, or print it.",
+     "do": "Cut out the cards and tokens. Print the round board, or copy the squares onto a drawn circle.",
      "say": "We're going round a mela. Every right answer moves you round the rides.",
      "kid": "Cut out the cards and tokens. Put your token on the gate."
     },
@@ -459,7 +536,7 @@
    "setup": [
     {
      "art": "A round board game with 20 squares drawn as a circle, little pictures of a merry-go-round and a giant wheel on some squares.",
-     "caption": "1. Draw the round board and cut out the cards."
+     "caption": "1. Print or draw the round board and cut out the cards."
     },
     {
      "art": "Two children moving paper tokens round the circle, a stack of question cards beside them.",
@@ -476,17 +553,17 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a spinning contest. Each player spins tops in three rounds, scores points for long spins, and explains one thing in each round.",
+   "context": "This is a spinning contest. Each player spins a card top in three rounds, scores points for long spins, and explains one thing in each round. You need the card top from the coin top experiment, four coins, a steel plate and a phone stopwatch.",
    "printables": [
     {
      "kind": "score sheet",
      "title": "A score sheet with three rounds",
      "items": [
-      "Round 1: plain card top, no coins",
-      "Round 2: card top with coins where you choose",
-      "Round 3: any top you like, a bambaram or your best design",
-      "Points: 1 point for every 5 seconds of spin",
-      "Bonus: 2 points for explaining why your top spun as it did"
+      "Name: ______",
+      "Round 1: plain card top, no coins. Seconds ____ Points ____ Explain bonus ____",
+      "Round 2: card top with coins where you choose. Seconds ____ Points ____ Explain bonus ____",
+      "Round 3: any top you like, a bambaram or your best design. Seconds ____ Points ____ Explain bonus ____",
+      "Total points: ____"
      ]
     }
    ],
@@ -495,7 +572,7 @@
     "Time each spin from letting go until the top touches the plate.",
     "Score 1 point for every full 5 seconds.",
     "After your spin, explain why it spun that long. A good reason scores 2 more points.",
-    "The player with the most points after three rounds is Top Champion."
+    "The player with the most points after three rounds is Top Champion. If two players tie, they each spin once more, and the longer spin wins."
    ],
    "flow": [
     {
@@ -605,7 +682,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Draw round the katori on the card and cut out the circle. 2. To find the middle, cut a paper circle the same size. Fold it in half, then in half again. The corner of the fold is the middle. 3. Lay it on the card and poke the middle with the pencil point. 4. Push the pencil through, so about 2 cm pokes out below. 5. Tape it firmly on both sides.",
+     "do": "1. Draw round the katori on the card and cut out the circle. 2. To find the middle, draw round the katori on a sheet of paper too and cut that circle out. Fold it in half, then in half again, then open it out. The corner where the folds meet is the middle. 3. Lay the paper circle exactly over the card circle and poke the pencil point through that corner into the card. 4. Push the pencil through, so about 2 cm pokes out below. 5. Tape it firmly on both sides.",
      "say": "Let's make a top. The pencil must go exactly through the middle, or the top will wobble.",
      "kid": "Draw round the katori and cut out the circle. Find the exact middle. Push the pencil through it. Tape it tight.",
      "adult": true,
@@ -644,7 +721,7 @@
      "do": "1. Hold the top of the pencil between thumb and finger, with the point on the steel plate. 2. Twist hard and let go. 3. Start the stopwatch as you let go, and stop it when the card touches the plate. 4. Do 3 spins and write each time in the table.",
      "say": "Twist as hard as you can, the same way every time. I'll time it. We stop the clock when the card touches the plate.",
      "kid": "Twist the pencil hard and let go. Time it until the card touches the plate. Do it 3 times.",
-     "parent": "If the top skates off the plate, tilt the plate edges up a little, or use a big plate. A spin that hits the side does not count, so do it again. Watch the top of the pencil while it spins. When it leans, it circles slowly round. Point this out."
+     "parent": "If the top skates off the plate, spin it again on a bigger plate, or inside a tray with a rim. A spin that hits the side does not count, so do it again. Watch the top of the pencil while it spins. When it leans, it circles slowly round. Point this out."
     },
     {
      "id": "s5",
@@ -654,14 +731,14 @@
      "kid": "Move the coins next to the pencil. Spin it 3 times again. Write down the times.",
      "check": {
       "t": "mcq",
-      "q": "Your top spun longer with the coins near the edge. Why?",
+      "q": "Most families find that the top spins longer with the coins near the edge. Why?",
       "options": [
        "The edge coins were heavier",
        "The edge coins went round a bigger circle, so they moved faster and carried more motion",
        "The tape held the edge coins tighter"
       ],
       "a": 1,
-      "why": "The coins were the same, so they weighed the same. At the edge, each coin travels round a big circle in every turn, so it moves fast and carries more motion. The rubbing at the tip takes longer to use it up. If your results were the other way round, check that the pencil is in the exact middle and spin again. If you picked 'heavier', look again: they were the same coins."
+      "why": "The coins were the same, so they weighed the same. At the edge, each coin travels round a big circle in every turn, so it moves fast and carries more motion. The rubbing at the tip takes longer to use it up. If your results are the other way round, check that the pencil is in the exact middle and spin again. If you picked 'heavier', look again: they were the same coins."
      }
     },
     {
@@ -801,7 +878,7 @@
      "kid": "Where did it spin longest? Why did the towel stop it?",
      "check": {
       "t": "mcq",
-      "q": "Why does a coin spin longest on a smooth steel plate?",
+      "q": "Why does a coin usually spin longest on a smooth steel plate?",
       "options": [
        "Steel is cold",
        "There is less friction between the coin and the smooth steel, so less spin is rubbed away",
@@ -932,11 +1009,11 @@
      "id": "s4",
      "mins": 4,
      "do": "Talk about the result.",
-     "say": "The battery won almost every time. The tape roll has its weight near its edge. Remember the coin top? What does weight near the edge do?",
+     "say": "Which won most of the races? The tape roll has its weight near its edge. Remember the coin top? What does weight near the edge do?",
      "kid": "Which won most races? Where is the tape roll's weight? Think of the coin top.",
      "check": {
       "t": "mcq",
-      "q": "Why does the tape roll lose the race?",
+      "q": "Why does the tape roll usually lose the race?",
       "options": [
        "It is too light",
        "Its weight is near its edge, so it is harder to get spinning, and it rolls forward more slowly",
@@ -1165,7 +1242,7 @@
      "qty": 1
     }
    ],
-   "safety": "Walk, never run fast or spin hard. Move chairs and tables out of the way. Stop if anyone feels dizzy.",
+   "safety": "Walk slowly. Move chairs and tables out of the way. Stop if anyone feels dizzy.",
    "schedule": [
     {
      "day": 1,
@@ -1209,7 +1286,7 @@
      "kid": "You both went round once in the same time. Who moved faster?",
      "check": {
       "t": "mcq",
-      "q": "On a merry-go-round, Kavya rides on the outside and her brother Arjun sits near the pole. Who moves faster?",
+      "q": "On a merry-go-round, Kavya, a girl in Class 3, rides on the outside. Her friend Arjun, a boy in Class 3, sits near the pole. Who moves faster?",
       "options": [
        "Arjun, near the pole",
        "Kavya, on the outside",
@@ -1223,11 +1300,11 @@
    "context": "In this activity a grown-up and a child turn in a ring holding a dupatta, like a merry-go-round, and count steps to see who moves faster.",
    "setup": [
     {
-     "art": "A mother standing in the middle of a room holding one end of a dupatta, a girl holding the other end, the dupatta stretched straight.",
+     "art": "A grown-up standing in the middle of a room holding one end of a dupatta, a girl holding the other end, the dupatta stretched straight.",
      "caption": "1. One person is the pole. One holds the far end."
     },
     {
-     "art": "The same scene from above, with a tiny circle round the mother and a big dotted circle round the girl's path.",
+     "art": "The same scene from above, with a tiny circle round the grown-up and a big dotted circle round the girl's path.",
      "caption": "2. Go round once. Count everyone's steps."
     }
    ]
@@ -1251,11 +1328,10 @@
      "qty": 1
     },
     {
-     "item": "a marker",
+     "item": "a small piece of tape, or a marker",
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1268,7 +1344,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Make a mark on the edge of the small lid. 2. Stand it on the newspaper with the mark touching the paper, and mark that spot on the paper.",
+     "do": "1. Stick a small piece of tape (or make a marker dot) on the edge of the small lid. 2. Stand it on the newspaper with the mark touching the paper, and mark that spot on the paper.",
      "say": "We'll roll this lid exactly one turn, and see how far it goes.",
      "kid": "Mark the edge of the lid. Stand it up with the mark at the bottom. Mark that spot on the paper."
     },
@@ -1278,7 +1354,7 @@
      "do": "1. Roll the lid slowly and straight until the mark touches the paper again. 2. Mark that spot. 3. Measure between the two marks. 4. Do the same with the big lid.",
      "say": "Roll it slowly until the mark comes round to the bottom again. That is one turn.",
      "kid": "Roll the lid slowly until the mark is at the bottom again. Mark the spot. Measure. Do the same with the big lid.",
-     "parent": "A steel plate about 25 cm across goes about 78 cm in one turn. A lid 8 cm across goes about 25 cm. One turn always goes about three times as far as the width of the wheel."
+     "parent": "A steel plate about 25 cm across goes about 78 cm in one turn. A lid 8 cm across goes about 25 cm. One turn always goes about three times as far as the width of the wheel. If the big plate keeps tipping over, wrap a string once round its edge instead and measure the string. It is the same length."
     },
     {
      "id": "s3",
@@ -1362,7 +1438,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Roll each one slowly along the table against a wall, holding the pencil lightly. Watch the pencil.",
+     "do": "Roll each one slowly along the table, holding the ends of the pencil lightly. Watch the pencil.",
      "say": "Watch the pencil. That is the axle. What does it do with each wheel?",
      "kid": "Roll each wheel by its pencil. Watch the pencil. Does it go up and down?",
      "parent": "With the round wheel, the pencil glides along at the same height. With the square wheel, it goes up and down on every corner, and the wheel thumps."
@@ -1393,7 +1469,7 @@
      "caption": "1. Make a round wheel and a square wheel."
     },
     {
-     "art": "Both wheels rolling against a wall, with a straight line traced by the round wheel's pencil and a bumpy line by the square wheel's.",
+     "art": "Both wheels rolling along a table, with a straight line traced by the round wheel's pencil and a bumpy line by the square wheel's.",
      "caption": "2. Roll them. Watch how the pencil moves."
     }
    ]
@@ -1481,7 +1557,7 @@
      "do": "1. Put a heavy rider in one cup and a light one in another. 2. Spin again. Do the heavy and light cups lean out the same amount?",
      "say": "Will the heavy rider swing out more than the light one? Why do you think so? Let's see.",
      "kid": "Put a heavy rider in one cup and a light one in another. Guess, then spin. Do they lean the same?",
-     "parent": "They lean out by about the same amount, as long as the threads are the same length. At a real mela ride, a big adult and a small child swing out together. Riders are often surprised by this.",
+     "parent": "They lean out by about the same amount, as long as the threads are the same length. At a real mela ride, a big adult and a small child swing out together. Riders are often surprised by this. Both riders sit on the same ride, so they spin at the same speed.",
      "check": {
       "t": "mcq",
       "q": "On the spinning ride, why do the cups swing outwards?",
@@ -1553,7 +1629,7 @@
      "say": "Build a new top, and time it 3 times. Change one thing at a time, so we know which change helped.",
      "kid": "Build a new top. Time it 3 times. Change one thing at a time.",
      "adult": true,
-     "parent": "A CD with a marble in the hole spins on the marble and often lasts over a minute. Help with any cutting."
+     "parent": "A CD with a marble in the hole spins on the marble and can beat a card top by a long way. Help with any cutting."
     },
     {
      "id": "s3",
@@ -1609,8 +1685,7 @@
      "do": "Help your child cut and fold a pinwheel, and pin it loosely to the eraser end of a pencil.",
      "say": "Let's make a pinwheel. The pin must be loose, so it can spin freely.",
      "kid": "Cut and fold the pinwheel. Pin it loosely to the pencil's eraser.",
-     "adult": true,
-     "parent": "Handle the pin yourself, and push its sharp end fully into the eraser."
+     "adult": true
     },
     {
      "id": "s2",
@@ -1638,7 +1713,8 @@
      "art": "A finished pinwheel on a pencil, a child blowing on it from an arm's length.",
      "caption": "2. Pin it loosely and blow gently."
     }
-   ]
+   ],
+   "safety": "A grown-up handles the pin and pushes its sharp end fully into the eraser."
   }
  ],
  "videos": [
@@ -1670,7 +1746,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Anjali stands a top on its point without spinning it. Why does it fall over?",
+   "p": "Anjali, a girl in Class 3, stands a top on its point without spinning it. Why does it fall over?",
    "opts": [
     "Gravity tips it as soon as it leans",
     "The floor pushes it over",
@@ -1706,7 +1782,7 @@
   },
   {
    "t": "mcq",
-   "p": "Sana tapes the same four coins near the edge of a card top, and then near its middle. Which way does it usually spin longer?",
+   "p": "Sana, a girl in Class 3, tapes the same four coins near the edge of a card top, and then near its middle. Which way does it usually spin longer?",
    "opts": [
     "With the coins near the edge",
     "With the coins near the middle",
@@ -1769,7 +1845,7 @@
   },
   {
    "t": "mcq",
-   "p": "On a merry-go-round, Priya sits on the outside and Ravi sits near the pole. Who moves faster?",
+   "p": "On a merry-go-round, Priya, a girl in Class 3, sits on the outside and Ravi, a boy in Class 3, sits near the pole. Who moves faster?",
    "opts": [
     "Ravi",
     "Priya",
@@ -1815,7 +1891,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi stands a top on its point without spinning it and lets go. What happens?",
+     "p": "Lakshmi, a girl in Class 3, stands a top on its point without spinning it and lets go. What happens?",
      "opts": [
       "It stands up for a long time",
       "It falls over at once",
@@ -1837,7 +1913,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meera spins a coin on a towel and on a steel plate. Where will it spin longer?",
+     "p": "Meera, a girl in Class 3, spins a coin on a towel and on a steel plate. Where will it spin longer?",
      "opts": [
       "On the towel, because it is soft",
       "On the steel plate, because it rubs less",
@@ -1849,39 +1925,37 @@
     },
     {
      "t": "mcq",
-     "p": "A spinning top leans a little. What does its head do?",
+     "p": "Which of these shows that a spinning top is about to fall?",
      "opts": [
-      "It falls straight down",
-      "It moves slowly round in a circle",
-      "It stays perfectly still"
+      "Its hum gets higher and it stands straighter",
+      "The circles of its head get wider and it begins to wobble",
+      "It starts to spin faster"
      ],
      "a": 1,
-     "why": "A spinning top's lean slowly circles round instead of falling. This is called precession. The head of the top draws a slow circle in the air.",
-     "how": "a2"
+     "why": "As friction slows the spin, the lean circles wider and wider. That is the wobble just before the top falls."
     },
     {
      "t": "mcq",
-     "p": "Why are wheels round?",
+     "p": "A cycle wheel has spokes. Which two parts do the spokes join?",
      "opts": [
-      "Round things are prettier",
-      "Every point on the edge is the same distance from the middle, so the axle stays at one height",
-      "Round wheels are lighter"
+      "The hub and the rim",
+      "The axle and the tyre",
+      "The rim and the ground"
      ],
-     "a": 1,
-     "why": "Whichever part of a round wheel touches the road, the axle stays the same height. So the ride is smooth. A square wheel bumps up and down at every corner.",
-     "how": "a5"
+     "a": 0,
+     "why": "The spokes run from the hub, in the middle, to the rim, the outside edge of the wheel."
     },
     {
      "t": "truefalse",
-     "p": "Divya says, 'A top falls in the end because friction slows its spin.' Is she right?",
+     "p": "Divya, a girl in Class 3, says, 'A top falls in the end because friction slows its spin.' Is she right?",
      "a": true,
      "why": "True. Friction at the tip and the rub of the air slowly take the spin away. When it spins too slowly, it wobbles and falls. A strong answer names where the rubbing happens."
     },
     {
      "t": "truefalse",
-     "p": "Farhan says, 'On a merry-go-round, the rider near the pole goes round faster than the rider on the outside.' Is he right?",
-     "a": false,
-     "why": "False. Both go round once in the same time, but the outside rider travels a much bigger circle. So the outside rider moves faster.",
+     "p": "Farhan, a boy in Class 3, looks at a ceiling fan. He says, 'The tip of a blade moves faster than the part of the blade close to the middle.' Is he right?",
+     "a": true,
+     "why": "True. Every part of the blade goes round once in the same time, but the tip travels a bigger circle. So the tip moves faster.",
      "how": "a3"
     },
     {
@@ -2025,7 +2099,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya races a roll of cello tape and a battery down a tray. The battery wins every time. Why?",
+     "p": "Kavya, a girl in Class 3, races a roll of cello tape and a battery down a tray. The battery wins every time. Why?",
      "opts": [
       "The battery is heavier",
       "The tape roll's weight is near its edge, so it is harder to get spinning",
@@ -2072,7 +2146,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi spins her coin top so that it leans more and more, in wider and wider circles, and then falls. What was happening?",
+     "p": "Revathi, a girl in Class 3, spins her coin top so that it leans more and more, in wider and wider circles, and then falls. What was happening?",
      "opts": [
       "It was spinning faster and faster",
       "Friction was slowing its spin, so it could not keep its axis steady",
@@ -2090,7 +2164,7 @@
     },
     {
      "t": "write",
-     "p": "Ishaan's coin top wobbled a lot and fell after 3 seconds, with the coins near the edge. What might he have done wrong? Give two ideas.",
+     "p": "Ishaan, a boy in Class 3, made a coin top with the coins near the edge. It wobbled a lot and fell after 3 seconds. What might he have done wrong? Give two ideas.",
      "lines": 3,
      "a": "The pencil may not be in the exact middle. The coins may not be evenly spaced, so one side is heavier. He may have spun it on a rough floor.",
      "why": "A strong answer gives two fair reasons and says how to fix them.",
@@ -2113,7 +2187,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Selvi says, 'A heavy rider on a chair-swing ride swings out much further than a light rider on the same length of chain.' Is she right?",
+     "p": "Pavithra, a girl in Class 3, says, 'A heavy rider on a chair-swing ride swings out much further than a light rider on the same length of chain.' Is she right?",
      "a": false,
      "why": "False. Riders on the same length of chain swing out by about the same amount, whatever they weigh. You can see it on the paper cup ride.",
      "how": "p1"
@@ -2196,7 +2270,7 @@
     },
     {
      "t": "write",
-     "p": "Gauri wants a top that is easy to start spinning, even with a gentle twist. Where should she put the weight? Explain.",
+     "p": "Gauri, a girl in Class 3, wants a top that is easy to start spinning, even with a gentle twist. Where should she put the weight? Explain.",
      "lines": 3,
      "a": "Near the middle, close to the pencil. Weight near the axis is easier to start turning, but the top will stop sooner.",
      "why": "A strong answer sees the trade-off: weight near the edge spins longer but is harder to start, as the tape roll race shows.",
@@ -2218,7 +2292,7 @@
     },
     {
      "t": "write",
-     "p": "Mariam says, 'In my coin top test, the middle top spun longer than the edge top.' This is the opposite of what most people find. Suggest how she can check her test was fair.",
+     "p": "Mariam, a girl in Class 3, says, 'In my coin top test, the middle top spun longer than the edge top.' This is the opposite of what most people find. Suggest how she can check her test was fair.",
      "lines": 3,
      "a": "Check the pencil is in the exact middle. Check the coins are spaced evenly and taped flat. Twist the same way every time. Do more than 3 spins of each.",
      "why": "A strong answer looks for things that changed besides the place of the coins.",
@@ -2233,7 +2307,7 @@
     },
     {
      "t": "mcq",
-     "p": "Shreya's cycle wheel spins on its axle for a long time after she lifts the cycle and pushes the wheel. Then she oils the axle. What will happen?",
+     "p": "Shreya, a girl in Class 3, lifts her cycle and pushes the wheel. It spins on its axle for a long time. Then she oils the axle and pushes it the same way. What will happen?",
      "opts": [
       "It will spin for less time",
       "It will spin for longer, because oil makes the rubbing at the axle smaller",
@@ -2244,7 +2318,7 @@
     },
     {
      "t": "mcq",
-     "p": "A giant wheel at a mela takes 2 minutes to go round once. A seat on the edge and a bolt near the middle both go round once. Which moves faster?",
+     "p": "A giant wheel at a fair in Puri takes 2 minutes to go round once. A seat on the edge and a bolt near the middle both go round once. Which moves faster?",
      "opts": [
       "The bolt near the middle",
       "The seat on the edge",
@@ -2266,7 +2340,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nandini holds a spinning cycle wheel by both ends of its axle and tries to tilt it. What will she feel?",
+     "p": "Nandini, a girl in Class 3, holds a spinning cycle wheel by both ends of its axle and tries to tilt it. What will she feel?",
      "opts": [
       "Nothing different from a still wheel",
       "The wheel resists, and twists sideways in her hands",
@@ -2308,7 +2382,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Leela says, 'If a spinning top had no friction at all, it would never stop spinning.' Is she right?",
+     "p": "Leela, a girl in Class 3, says, 'If a spinning top had no friction at all, it would never stop spinning.' Is she right?",
      "a": true,
      "why": "True. Friction at the tip and the air are what take the spin away. With nothing rubbing, nothing would slow it, just as Buridan and later Newton said."
     },
@@ -2329,7 +2403,7 @@
        "Mostly near the edge"
       ],
       [
-       "a laddu",
+       "an idli",
        "Spread all through"
       ],
       [
@@ -2346,7 +2420,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Rings, tyres and tape rolls are heavy only round their edges. A laddu, a striker and a battery are solid all through. Things with weight near the edge are harder to start spinning, and keep spinning longer."
+     "why": "Rings, tyres and tape rolls are heavy only round their edges. An idli, a striker and a battery are solid all through. Things with weight near the edge are harder to start spinning, and keep spinning longer."
     },
     {
      "t": "match",
@@ -2398,7 +2472,7 @@
    "art": "A potter shaping a clay pot on a turning wheel."
   },
   {
-   "text": "Giant wheels and merry-go-rounds at a temple festival or mela.",
+   "text": "Giant wheels and merry-go-rounds at a temple festival, a Rath Yatra fair or a mela.",
    "art": "A giant wheel lit up at night at a fair."
   },
   {
@@ -2430,20 +2504,12 @@
   "Which part of the wheel moves fastest when a cycle goes by?",
   "Why do you think a top hums while it spins?",
   "On a merry-go-round, would you choose an outside horse or an inside seat? Why?",
-  "Is anything in the world truly still?"
+  "Which top did you make that spun longest, and what change helped it?"
  ],
  "jokes": [
   {
    "j": "Why did the top go to bed early?",
    "a": "It was in a spin all day."
-  },
-  {
-   "j": "What did the top say when it fell over?",
-   "a": "I'm all wound up for nothing!"
-  },
-  {
-   "j": "Why was the wheel so tired?",
-   "a": "It had been going round all day."
   },
   {
    "j": "What did one wheel say to the other at the bus stop?",
@@ -2466,10 +2532,6 @@
    "a": "She was in a hurry."
   },
   {
-   "j": "What did the axle say to the wheel?",
-   "a": "I'll always be there for you, right in the middle."
-  },
-  {
    "j": "Why did the coin keep spinning on the steel plate?",
    "a": "It found nothing to rub it the wrong way."
   },
@@ -2484,19 +2546,11 @@
   {
    "j": "What did the ceiling fan say to the top?",
    "a": "You're a big fan of spinning too!"
-  },
-  {
-   "j": "Why did the top win the prize?",
-   "a": "It took everything in its stride, round and round."
-  },
-  {
-   "j": "What did the potter's wheel say to the clay?",
-   "a": "Stick with me and we'll go round in style."
   }
  ],
  "maths": [
   {
-   "problem": "In the coin top test, Kavya's top spun for 24 seconds with the coins near the edge, and 12 seconds with the coins near the middle. How many times as long did the edge top spin?",
+   "problem": "In the coin top test, Kavya, a girl in Class 3, timed her top. It spun for 24 seconds with the coins near the edge, and 12 seconds with the coins near the middle. How many times as long did the edge top spin?",
    "answer": "2 times as long.",
    "explain": "24 divided by 12 is 2. So the edge top spun twice as long. Check: 12 + 12 = 24.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2505,7 +2559,7 @@
    "context": "This is about the coin top test, where you time a card top with coins near the edge and near the middle."
   },
   {
-   "problem": "Arjun spun his edge top 3 times: 19 seconds, 25 seconds and 22 seconds. Put the times in order. Which is the middle time?",
+   "problem": "Arjun, a boy in Class 3, spun his edge top 3 times: 19 seconds, 25 seconds and 22 seconds. Put the times in order. Which is the middle time?",
    "answer": "19, 22, 25. The middle time is 22 seconds.",
    "explain": "In order from shortest to longest: 19, 22, 25. The one in the middle is 22. Scientists often use the middle time, because one very lucky or unlucky spin does not change it.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2523,16 +2577,16 @@
    "context": "This is about the activity where you roll a plate exactly one turn and measure how far it goes."
   },
   {
-   "problem": "In the dupatta merry-go-round, Amma near the middle took 4 steps to go round once. Meenu at the end took 20 steps in the same time. How many times as far did Meenu walk?",
-   "answer": "5 times as far.",
-   "explain": "20 divided by 4 is 5. They took the same time, so Meenu also walked 5 times as fast.",
+   "problem": "In the dupatta merry-go-round, a grown-up near the middle took 4 steps to go round once. A girl at the end took 20 steps in the same time. How many times as many steps did the girl take?",
+   "answer": "5 times as many.",
+   "explain": "20 divided by 4 is 5. They took the same time, so the girl also moved 5 times as fast.",
    "math_unit": "math.division.division-facts.L3",
    "why_maths": "Comparing the steps shows how much faster the outside of a turning ring moves, using numbers instead of a guess.",
    "how": "a3",
    "context": "This is about the activity where a grown-up and a child turn in a ring holding a dupatta."
   },
   {
-   "problem": "A merry-go-round at a Madurai mela goes round once every 10 seconds. How many times does it go round in 1 minute?",
+   "problem": "A merry-go-round at a fair in Madurai goes round once every 10 seconds. How many times does it go round in 1 minute?",
    "answer": "6 times.",
    "explain": "1 minute is 60 seconds. 60 divided by 10 is 6.",
    "math_unit": "math.time.duration.L3",
@@ -2540,7 +2594,7 @@
    "context": "This is about a merry-go-round turning at a steady speed."
   },
   {
-   "problem": "Look at the coin spinning results: steel plate 9 seconds, tiled floor 7 seconds, newspaper 4 seconds, towel 0 seconds. How many seconds longer did the coin spin on steel than on newspaper? What pattern do you see?",
+   "problem": "Gauri, a girl in Class 3, spun a coin on four surfaces: steel plate 9 seconds, tiled floor 7 seconds, newspaper 4 seconds, towel 0 seconds. How many seconds longer did the coin spin on steel than on newspaper? What pattern do you see?",
    "answer": "5 seconds longer. The smoother and harder the surface, the longer the spin.",
    "explain": "9 take away 4 is 5. The times go down from steel to floor to newspaper to towel, as the surfaces get rougher and softer.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2622,13 +2676,12 @@
    "id": "b-top",
    "item": "A wooden string top (a bambaram or lattu), with its string",
    "kind": "tool",
-   "why": "Optional. A real string top spins fast and shows precession very clearly. The cardboard top from the coin top experiment works for everything in the unit.",
+   "why": "Optional. A real string top spins fast and shows precession very clearly. The cardboard top from the coin top experiment works for everything in the unit. Toy shops, melas and Channapatna toy sellers also have them.",
    "url": "https://www.amazon.in/s?k=wooden+spinning+top+lattu",
    "used_in": [
     "a2",
-    "c1"
-   ],
-   "plan": "Toy shops, melas and Channapatna toy sellers also have them. Bring it out in the Top Champions game too."
+    "g2"
+   ]
   }
  ],
  "warmup": [
@@ -2645,8 +2698,8 @@
    "a": "On steel."
   },
   {
-   "q": "Same coins on a top: near the edge or near the middle to spin longest?",
-   "a": "Near the edge."
+   "q": "Is weight near the edge of a top easy or hard to start turning?",
+   "a": "Hard to start turning, but it keeps spinning longer."
   },
   {
    "q": "Who moves faster on a merry-go-round: the outside rider or the inside rider?",
@@ -2740,11 +2793,11 @@
    "evidence": "In the coin top test, the edge top spun clearly longer than the middle top, with the same card, pencil and coins. In the rolling race, a tape roll with its weight at the edge lost to a solid battery."
   },
   "three": {
-   "who_am_i": "Your head turns to say 'no' on a neck bone that doctors call the axis. You carry a wheel and axle in your own neck.",
+   "who_am_i": "Your head turns to say 'no' around a neck bone that doctors call the axis, as a door turns around its hinges.",
    "what_is_life": "Some bacteria swim by spinning a long thin tail. A tiny motor in their body turns it round, like a wheel on an axle.",
    "what_is_this_world": "The Earth spins once a day. Its axis slowly circles round like the lean of a top, once in about 26,000 years."
   },
-  "thread": "At the middle of every spinning top is a line that does not go round: the axis. Around it, every bit of the top races in its own circle, small near the middle and big at the edge. One still line holds all those different circles together. The many moving parts are one top because they all turn around one middle.",
+  "thread": "At the middle of every spinning top is a line that does not go round: the axis. Every other part goes round it in its own circle, small near the middle and big at the edge. All those circles share one axis, so the top turns as one piece.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
@@ -2787,9 +2840,9 @@
    "kid": "Spin your top. Look only at the top of the pencil. Breathe in slowly. Breathe out slowly. Watch until it falls. Then sit still for three breaths."
   },
   "ask": [
-   "The middle of a spinning top hardly moves, while the edge races round. Is the top moving or still?",
-   "The same coins spun longer at the edge. Is weight a thing, or a thing and a place?",
-   "You are spinning with the Earth right now. Why can't you feel it?"
+   "Which part of your top moved the most in each turn, and which part the least?",
+   "The same coins spun longer at the edge. Is weight only how much there is, or also where it is?",
+   "What, in your own life, keeps going for a long time after you stop pushing it?"
   ],
   "art": "A child sitting cross-legged on a floor watching a cardboard top spin on a steel plate, with the blur of the card around a sharp, still pencil in the middle."
  },

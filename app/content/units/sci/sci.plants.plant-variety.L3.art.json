@@ -1,4 +1,40 @@
 {
+ "expl.11": {
+  "src": "media/img/sci.plants.plant-variety.L3/expl.11.jpg",
+  "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+ },
+ "expl.13": {
+  "src": "media/img/sci.plants.plant-variety.L3/expl.13.jpg",
+  "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+ },
+ "expl.14": {
+  "src": "media/img/sci.plants.plant-variety.L3/expl.14.jpg",
+  "credit": "Tarun Meena, CC BY, via iNaturalist"
+ },
+ "expl.7": {
+  "src": "media/img/sci.plants.plant-variety.L3/expl.7.jpg",
+  "credit": "Cheongweei Gan, CC BY, via iNaturalist"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.plants.plant-variety.L3/flow.a4.jpg",
+  "credit": "Nautilus 211, CC0, via iNaturalist"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.plants.plant-variety.L3/flow.a5.jpg",
+  "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.plants.plant-variety.L3/flow.c1.jpg",
+  "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "flow.e3": {
+  "src": "media/img/sci.plants.plant-variety.L3/flow.e3.jpg",
+  "credit": "Aruna Gamuz, CC0, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.plants.plant-variety.L3/intro.jpg",
+  "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.plants.plant-variety.L3/setup.e1.0.jpg",
   "drawn": true
@@ -38,5 +74,21 @@
  "setup.e3.2": {
   "src": "media/img/sci.plants.plant-variety.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.plants.plant-variety.L3/term.13.jpg",
+  "credit": "🪶🐾☘️Nandan Sreejith🦌🍄🌍, CC BY, via iNaturalist"
+ },
+ "term.17": {
+  "src": "media/img/sci.plants.plant-variety.L3/term.17.jpg",
+  "credit": "portioid, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.plants.plant-variety.L3/term.3.jpg",
+  "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.plants.plant-variety.L3/term.8.jpg",
+  "credit": "Marcin Dyderski, CC BY, via iNaturalist"
  }
 }

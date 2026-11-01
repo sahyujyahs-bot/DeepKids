@@ -198,13 +198,13 @@
    "concept": "Old ways of clearing water in India",
    "status": "defined",
    "definition": "Long before machines, people in India cleared muddy water with phitkari and with seeds. The kataka seed, called thetran kottai in Tamil and nirmali in Hindi, is rubbed inside a wet clay pot. It makes the mud clump and settle, like phitkari does.",
-   "description": "Old Ayurvedic books, such as the Sushruta Samhita, name the kataka seed as a way to clear water. In parts of South India some families still use it. In Sudan, in Africa, women cleared Nile river water with crushed seeds of the moringa tree. That is the same drumstick tree whose pods go into sambar. In the 1970s and 1980s, a German scientist, Samia Al Azharia Jahn, studied how the Sudanese women did it. Scientists now test moringa seeds as a low-cost way to clear water.",
+   "description": "Old Ayurvedic books, such as the Sushruta Samhita, name the kataka seed as a way to clear water. In parts of South India some families still use it. In Sudan, in Africa, women cleared Nile river water with crushed seeds of the moringa tree. That is the same drumstick tree whose pods go into sambar. In the 1970s and 1980s, a scientist, Samia Al Azharia Jahn, studied how the Sudanese women did it. Scientists now test moringa seeds as a low-cost way to clear water.",
    "examples": [
-    "A clay pot with a kataka seed rubbed on its inside wall.",
+    "A clay pot with a kataka seed rubbed on the inside wall.",
     "Dried drumstick seeds, crushed into a powder and stirred into muddy water."
    ],
    "perspectives": [],
-   "art": "An old clay pot on a kitchen floor, a hand rubbing a small round seed on its inner wall, and a few drumstick pods lying beside it.",
+   "art": "An old clay pot on a kitchen floor, a hand rubbing a small round seed on the inner wall of the pot, and a few drumstick pods lying beside it.",
    "context": "This card is about how people in India and Africa cleared water with seeds long before water plants were built."
   },
   {
@@ -421,7 +421,7 @@
   "epiphany": "For the parent: the mud in the tank was made mostly of tiny clay bits. They were heavier than water, but so small that they sank too slowly to see. Their same electric charges also kept them apart. Padikaram, which is alum, cancels those charges and makes the bits stick together into fluffy clumps called flocs. The flocs are big enough to sink, so the water above clears. No mud was removed: it only gathered at the bottom. Because germs may have got in through the broken pipe, the clear water still had to be boiled before drinking. By clearing the water instead of throwing it away, the family saved a whole tank.",
   "ask": [
    "Why did the sand drop to the bottom of the tumbler straight away, but the brown colour stayed?",
-   "Why did Meenakshi stir the second tumbler ten times too?",
+   "Why did the sand drop to the bottom at once, but the clay bits did not sink until the padikaram was used?",
    "What were the fluffy brown things Meenakshi saw?",
    "Why did Meenakshi stop Appa from drinking the clear water?",
    "Paati knew this from her village, and Appa thought it was only an old trick. How did the family find out who was right?"
@@ -450,12 +450,30 @@
      "kind": "board",
      "title": "A loop of 24 squares through a flat: kitchen, bathroom, balcony, terrace tank",
      "items": [
-      "Square 0: START, the front door",
-      "Squares 3, 10 and 17: KITCHEN",
-      "Squares 5, 12 and 20: BATHROOM",
-      "Squares 7 and 15: BALCONY PLANTS",
-      "Square 22: TERRACE TANK",
-      "Every other square: a plain step"
+      "0 START, the front door: everyone starts here. When you pass START again, your trip ends and you gain 3 drops from the city supply.",
+      "1 HALL: You wipe the floor with a damp cloth, not a bucket of fresh water. Gain 1 drop.",
+      "2 UTILITY AREA: You run the washing machine with only three clothes in it. Lose 1 drop.",
+      "3 KITCHEN: take a card.",
+      "4 DINING TABLE: You pour each glass half full and refill it when needed. Gain 1 drop.",
+      "5 BATHROOM: take a card.",
+      "6 STAIRS: You see a wet patch on the stairwell wall and tell the building secretary. Gain 1 drop.",
+      "7 BALCONY PLANTS: take a card.",
+      "8 COMMON TAP: A neighbour has left the common tap running. You close it. Gain 1 drop.",
+      "9 CAR PARK: The car is washed with a hose, not a wet cloth. Lose 2 drops.",
+      "10 KITCHEN: take a card.",
+      "11 MUDDY TAP: Brown water comes from the tap. Say one way to clear it, such as letting it settle or using phitkari, and gain 2 drops.",
+      "12 BATHROOM: take a card.",
+      "13 FESTIVAL WASH: Before the festival, you wash the balcony with a bucket and mug, not a hose. Gain 2 drops.",
+      "14 TANKER DAY: The water tanker comes. You store the water in buckets with lids so it stays clean. Gain 1 drop.",
+      "15 BALCONY PLANTS: take a card.",
+      "16 SCHOOL: You remind your class to close the tap after washing hands. Gain 1 drop.",
+      "17 KITCHEN: take a card.",
+      "18 GEYSER: You let the cold water run down the drain while you wait for hot water. Lose 2 drops.",
+      "19 TERRACE: The tank overflow pipe is pouring water. You tell the watchman to switch off the motor. Gain 2 drops.",
+      "20 BATHROOM: take a card.",
+      "21 LONG SHOWER: Your shower goes on for twenty minutes. Lose 2 drops.",
+      "22 TERRACE TANK: take a card.",
+      "23 HAND WASHING: You soap your hands with the tap closed, then rinse. Gain 1 drop."
      ]
     },
     {
@@ -469,44 +487,64 @@
       "You caught the cold shower water in a bucket for the mop. Gain 3 drops.",
       "Nobody switched off the motor. The terrace tank overflowed. Lose 5 drops.",
       "You washed vegetables in a bowl, not under a running tap. Gain 2 drops.",
-      "The RO reject water went down the drain. Lose 2 drops. Say one job it could have done.",
-      "You used the RO reject water to mop the floor. Gain 2 drops.",
+      "The RO purifier's reject water went down the drain. Lose 2 drops. Say one job it could have done.",
+      "You used the RO purifier's reject water to mop the floor. Gain 2 drops.",
       "You turned off the tap while soaping your hands. Gain 1 drop.",
       "A tap is dripping in the bathroom. Lose 2 drops, unless you tighten it now.",
       "You covered the plant pots with dry leaves, so they need less watering. Gain 2 drops.",
-      "QUESTION: Why does clay stay floating in water? Right answer: gain 2 drops. (Its bits are so tiny that they sink very slowly, and their charges keep them apart.)",
-      "QUESTION: What does phitkari do to muddy water? Right answer: gain 2 drops. (It makes the tiny bits clump into flocs, which sink.)",
-      "QUESTION: Is clear water always safe to drink? Right answer: gain 2 drops. (No. It may still have germs. Boil it or purify it.)",
-      "QUESTION: Name one thing a city adds to kill germs in water. Right answer: gain 2 drops. (Chlorine.)",
-      "QUESTION: Which used water can go to plants: rice-washing water or oily kadai water? Right answer: gain 2 drops. (Rice-washing water.)",
-      "QUESTION: What is the living layer on top of a sand filter good for? Right answer: gain 2 drops. (Its tiny living beings eat germs.)",
-      "TEST IT: Hold your hands under the tap for 10 seconds into a mug. How full is the mug? Everyone who guessed within a finger's height gains 1 drop.",
-      "TEST IT: Count how many mugs fill a bucket. Gain 1 drop for doing it."
+      {
+       "f": "QUESTION: Why does clay stay floating in water? Answer right and gain 2 drops.",
+       "b": "Its bits are so tiny that they sink very slowly, and their charges keep them apart."
+      },
+      {
+       "f": "QUESTION: What does phitkari do to muddy water? Answer right and gain 2 drops.",
+       "b": "It makes the tiny bits clump into flocs, which sink."
+      },
+      {
+       "f": "QUESTION: Is clear water always safe to drink? Answer right and gain 2 drops.",
+       "b": "No. It may still have germs. Boil it or purify it."
+      },
+      {
+       "f": "QUESTION: Name one thing a city adds to kill germs in water. Answer right and gain 2 drops.",
+       "b": "Chlorine."
+      },
+      {
+       "f": "QUESTION: Which used water can go to plants: rice-washing water or oily kadai water? Answer right and gain 2 drops.",
+       "b": "Rice-washing water. Oil coats the soil and the roots."
+      },
+      {
+       "f": "QUESTION: What is the living layer on top of a sand filter good for? Answer right and gain 2 drops.",
+       "b": "Its tiny living beings eat germs."
+      },
+      "TEST IT: Everyone guesses how full a mug will be if the tap runs into it for 10 seconds. Then run the tap into the mug for 10 seconds. Everyone whose guess was within a finger's height gains 1 drop.",
+      "TEST IT: Walk to the nearest tap and check that it is fully closed and not dripping. If it is fine, gain 1 drop. If it drips, tighten it and gain 2 drops."
      ]
     },
     {
      "kind": "tokens",
-     "title": "30 paper water drops for each player, and one counter each",
+     "title": "Water drops, counters and a dice",
      "items": [
-      "💧",
-      "🏠"
+      "Cut out 30 small paper drops for each player and colour them blue. Two players need 60 drops, four players need 120.",
+      "Each player needs one counter, such as a button, a coin or a small stone.",
+      "One dice. If you have none, write 1 to 6 on six small papers, fold them and pick one from a bowl instead of rolling."
      ]
     }
    ],
    "rules": [
     "Each player starts with 10 drops and a counter on START.",
-    "On your turn, roll the dice and move. On a KITCHEN, BATHROOM, BALCONY or TANK square, take the top card and do what it says.",
-    "On a plain square, nothing happens.",
-    "QUESTION cards: another player reads it and checks the answer in brackets. Playing alone, answer out loud, then read the brackets.",
-    "When you pass START, the week begins again. Gain 3 drops from the city supply.",
-    "If you run out of drops, your family must wait for a tanker: miss one turn, then start again with 5 drops.",
-    "After everyone has gone round twice, the player with the most drops wins. Playing alone, try to finish two rounds with more than 20 drops."
+    "On your turn, roll the dice and move your counter round the board. Do what the square says.",
+    "On a square that says 'take a card', take the top card and do what it says. The card is news from the flat, so it can be about any room. If a card is about something your home does not have, such as an RO purifier, play it as if you did.",
+    "QUESTION cards: another player reads the question. You answer, then they turn the card over and read the answer. Playing alone, answer out loud, then turn the card over.",
+    "Put used cards at the bottom of the pile. When you have been through all of them, shuffle and start again.",
+    "When you pass START, your trip round the flat is over. Gain 3 drops from the city supply and stop playing. The game ends when every player has finished.",
+    "If you run out of drops, your family must wait for a tanker. Miss one turn, then carry on with 5 drops.",
+    "The player with the most drops at the end wins. Playing alone, try to finish with more than 15 drops."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the board. 2. Give each player 10 drops and a counter on START. 3. Shuffle the cards face down.",
+     "do": "1. Lay out the board. 2. Give each player 10 drops and a counter on START. 3. Shuffle the cards face down and put them in a pile.",
      "say": "Each drop is a bucket of clean water for our family's week. Some things save water and some waste it. Let's see who keeps the most.",
      "kid": "Put your counter on START. Take 10 drops. Mix up the cards. Can you keep your family's water?",
      "context": "This is the first step of Every Drop Counts. It is a board game about saving water in a flat. Here you set up the board."
@@ -514,7 +552,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'The tap ran while you brushed your teeth' as a practice round.",
+     "do": "Play the card 'The tap ran while you brushed your teeth' as a practice round, then put it back in the pile.",
      "say": "Practice card. The tap ran while you brushed your teeth. What could you do instead?",
      "kid": "Practice card. The tap ran while you brushed. What could you do instead?",
      "check": {
@@ -532,17 +570,17 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Play two rounds. Read each card out loud. When a QUESTION card comes, let the player answer before reading the brackets.",
-     "say": "Before you read the answer in brackets, tell me why you think so.",
-     "kid": "Roll and move. Read the card out loud. Say your answer before you look at the brackets.",
+     "do": "Play one trip round the flat. Read each card out loud. When a QUESTION card comes, let the player answer before reading the back.",
+     "say": "Before you read the answer on the back, tell me why you think so.",
+     "kid": "Roll and move. Read the card out loud. Say your answer before you turn a question card over.",
      "parent": "If a child is losing many drops, ask: 'What could that family do next time?' The game is about noticing choices, not about luck.",
      "ask": [
       {
        "q": "Which cards saved the most drops?",
        "good": [
-        "Catching shower water",
-        "Using reject water",
-        "Turning the tap off"
+        "Catching the cold shower water",
+        "Washing vegetables in a bowl",
+        "Right answers on QUESTION cards"
        ]
       },
       {
@@ -596,11 +634,11 @@
       "Bucket bath water with soap",
       "RO reject water",
       "Last rinse water from the washing machine",
-      "Oily water from washing the kadai",
+      "Oily water from washing the kadai, after wiping most of the oil off with paper",
       "Water from mopping the floor",
       "Cold water caught while waiting for the geyser",
       "Water left in your bottle from yesterday",
-      "Toilet water"
+      "Water from the toilet bowl"
      ]
     },
     {
@@ -617,10 +655,10 @@
      "kind": "score sheet",
      "title": "Answer key for the parent",
      "items": [
-      "Plants: rice water, vegetable water, egg water, yesterday's bottle water, cold geyser water",
-      "Mopping: RO reject water, machine rinse water, cold geyser water",
-      "Flushing: bath water, hand-washing water, mopping water, machine rinse water",
-      "Only the drain: oily kadai water, toilet water"
+      "Plants: water from rinsing rice, water from washing vegetables, water from boiling eggs (cooled), water left in your bottle from yesterday, cold water caught while waiting for the geyser",
+      "Mopping and washing the balcony: RO reject water, last rinse water from the washing machine, cold water caught while waiting for the geyser",
+      "Flushing the toilet: bucket bath water with soap, soapy water from washing hands, water from mopping the floor, last rinse water from the washing machine",
+      "Only the drain: oily water from washing the kadai, water from the toilet bowl"
      ]
     }
    ],
@@ -630,7 +668,7 @@
     "On your turn, take a card, read it out loud, and put it under the job you think it can do. Say why.",
     "If another player disagrees, both give a reason. Then check the answer key.",
     "Score 1 point for a match the key agrees with. Some cards fit more than one job: any job on the key scores.",
-    "Playing alone, sort all 12, then check the key and count your points."
+    "When all 12 cards are sorted, the player with the most points wins. Playing alone, sort all 12 and then check the key. Try to score 10 or more."
    ],
    "flow": [
     {
@@ -638,7 +676,7 @@
      "mins": 2,
      "do": "Lay out the 4 job cards. Shuffle the used-water cards.",
      "say": "Every card is water that has already been used once. Your job is to find a second job for it, if it can have one.",
-     "kid": "Lay out the 4 job cards. Each water card needs a second job. Or the drain.",
+     "kid": "Lay out the 4 job cards. Each water card needs a second job, or the drain.",
      "context": "This is the first step of Which Water Where. It is a sorting game about using water twice."
     },
     {
@@ -656,7 +694,7 @@
        "Down the drain"
       ],
       "a": 2,
-      "why": "Oil coats the soil and the roots, so plants can't take in water and air well. Oil also leaves the floor greasy. So oily water goes down the drain. Rice and vegetable water are the best for plants."
+      "why": "Oil coats the soil and the roots, so plants can't take in water and air well. Oil also leaves the floor greasy. So oily water goes down the drain, after you wipe most of the oil off with paper. Rice and vegetable water are the best for plants."
      },
      "parent": "Soapy water is fine for flushing and mopping. A little mild soap water now and then does not harm most plants, but it is better not to use it every day."
     },
@@ -707,6 +745,10 @@
    ],
    "materials": [
     {
+     "item": "a jug or a steel vessel to mix the muddy water",
+     "qty": 1
+    },
+    {
      "item": "two tall clear glasses or clear plastic bottles cut in half, the same size",
      "qty": 2
     },
@@ -728,16 +770,16 @@
      "qty": 1
     }
    ],
-   "safety": "Nobody drinks any of the test water. Phitkari is safe to touch, but wash your hands after, and keep it away from eyes and mouths.",
+   "safety": "Nobody drinks the test water. Keep phitkari away from eyes and mouths.",
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 19,
      "what": "Make the muddy water, add phitkari to one glass, and look at both after 5 minutes."
     },
     {
      "day": 1,
-     "mins": 20,
+     "mins": 16,
      "what": "Look again at 15 and 30 minutes, and once more later in the day. Fill in the table and say what you found."
     }
    ],
@@ -747,7 +789,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fill a jug with 2 glasses of tap water. 2. Stir in the soil or multani mitti for one whole minute. 3. Pour half into each glass. 4. Label them A and B.",
+     "do": "1. Put 2 glasses of tap water in the jug. 2. Stir in the soil or multani mitti for one whole minute. 3. Pour half into each glass. 4. Label them A and B.",
      "say": "We are making one batch of muddy water, then splitting it. That way both glasses start exactly the same.",
      "kid": "Stir the soil into the jug for a whole minute. Pour half into each glass. Call them A and B.",
      "parent": "Potting mix that is mostly cocopeat floats and makes brown water that phitkari clears less well. Red soil, garden soil or multani mitti gives the best cloudy water, because they are full of clay. Multani mitti is sold cheaply at most grocery and medical shops.",
@@ -791,7 +833,7 @@
      "do": "After 5 minutes, look closely at glass B from the side, near a window.",
      "say": "Look very closely at glass B. Can you see anything new in the water?",
      "kid": "Look closely at glass B. What can you see in the water now?",
-     "parent": "Small fluffy clumps, called flocs, usually appear within a few minutes and start drifting down. Glass A looks the same as at the start. If nothing happens in B after 10 minutes, rub the phitkari for another 10 seconds."
+     "parent": "Small fluffy clumps, called flocs, usually appear within a few minutes and start drifting down. Glass A looks the same as at the start. A lump dissolves slowly. If nothing happens in B after 10 minutes, rub the phitkari for another 10 seconds, or stir in a small pinch of powder. If your soil is only a little cloudy, both glasses may clear faster, and the difference will be smaller."
     },
     {
      "id": "s6",
@@ -904,7 +946,7 @@
      "qty": 3
     },
     {
-     "item": "3 spoons of the same leftover food, such as curd rice or dal",
+     "item": "3 spoons of the same leftover food, such as curd rice, dal or poha",
      "qty": 1
     },
     {
@@ -916,7 +958,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do it at the kitchen sink. Wipe up spills so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -945,23 +986,23 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Way 1: Hold plate 1 under the running tap. Scrub it with soap until clean, with the tap on all the time. Then measure the water in the basin by scooping it out with the mug.",
+     "do": "Way 1: Hold plate 1 over the basin, under the running tap. Scrub it with soap until clean, with the tap on all the time. Then measure the water in the basin by scooping it out with the mug.",
      "say": "Way 1: the tap stays on the whole time. Let's count every mug.",
      "kid": "Way 1. Keep the tap on while you scrub. Then scoop out the basin with the mug. Count the mugs.",
      "adult": true,
-     "parent": "Help your child keep the tap at the flow your family usually uses. Pour the measured water into a bucket to mop with or flush, so the test water is not wasted."
+     "parent": "Help your child keep the tap at the flow your family usually uses. If the basin fills up, empty it into a bucket and count the mugs as you go. Pour the measured water into a bucket to mop with or flush, so the test water is not wasted."
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "Way 2: Wet plate 2, turn the tap off, scrub with soap, then turn the tap on only to rinse. Measure the water.",
+     "do": "Way 2: Empty the basin first. Wet plate 2 over the basin, turn the tap off, scrub with soap, then turn the tap on only to rinse. Measure the water.",
      "say": "Way 2: the tap is off while we scrub.",
      "kid": "Way 2. Wet the plate. Tap off. Scrub. Tap on only to rinse. Count the mugs."
     },
     {
      "id": "s5",
      "mins": 6,
-     "do": "Way 3: Scrape plate 3 into the bin first. Dip it in a small bowl of water and scrub with soap. Rinse it with one mug of water poured slowly. Measure everything, counting the bowl too.",
+     "do": "Way 3: Empty the basin first. Scrape plate 3 into the bin. Dip it in a small bowl of water and scrub with soap. Rinse it over the basin with one mug of water poured slowly. Measure everything, counting the bowl too.",
      "say": "Way 3: scrape first, then wash in a bowl, then rinse with one mug.",
      "kid": "Way 3. Scrape the food into the bin. Wash in a bowl. Rinse with one mug. Count it all."
     },
@@ -1060,7 +1101,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash your hands after touching soil.",
    "schedule": [
     {
      "day": 1,
@@ -1154,7 +1194,6 @@
      "qty": 1
     }
    ],
-   "safety": "Close the cap tightly before shaking. Wash your hands after touching soil.",
    "schedule": [
     {
      "day": 1,
@@ -1241,7 +1280,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use only water from rinsing rice, dal and vegetables. Never use oily or soapy kitchen water for plants.",
    "schedule": [
     {
      "day": 1,
@@ -1268,7 +1306,8 @@
      "do": "1. Put a bowl next to the sink. 2. Tell the family: rice, dal and vegetable washing water goes in the bowl. 3. Make a tally sheet with 7 days.",
      "say": "Every time someone washes rice or vegetables, that water goes in the bowl. The plants will drink it instead of fresh tap water.",
      "kid": "Put a bowl by the sink. Rice and vegetable water goes in it. Make a tally sheet for 7 days.",
-     "context": "This is the first step of Rice Water for the Tulsi. You set up a bowl to catch kitchen water for the plants."
+     "context": "This is the first step of Rice Water for the Tulsi. You set up a bowl to catch kitchen water for the plants.",
+     "parent": "Only rice, dal and vegetable washing water goes in the bowl. Never put in oily or soapy water."
     },
     {
      "id": "s2",
@@ -1276,7 +1315,8 @@
      "do": "Each day, pour the bowl on the plants one mug at a time. Add a tally mark for each mug.",
      "say": "How many mugs did the plants get today?",
      "kid": "Pour the bowl on the plants, one mug at a time. Make a tally for each mug.",
-     "wait": "Do this every day for a week."
+     "wait": "Do this every day for a week.",
+     "parent": "Use the water on the same day. Water left standing smells, and mosquitoes breed in it."
     },
     {
      "id": "s3",
@@ -1351,7 +1391,8 @@
      "mins": 8,
      "do": "Fill an empty 1-litre bottle from the purifier tap. Stop when it is full.",
      "say": "Guess first. While we fill this one bottle, how much water will go into the bucket? Why do you think so?",
-     "kid": "Guess how much water goes in the bucket. Then fill the bottle from the purifier."
+     "kid": "Guess how much water goes in the bucket. Then fill the bottle from the purifier.",
+     "parent": "A purifier with a tank sends reject water to the drain only while it is refilling the tank. If the bucket stays empty, the tank is full. Draw a few litres of drinking water first, then start again when the purifier begins to run."
     },
     {
      "id": "s3",
@@ -1370,7 +1411,7 @@
       "a": 1,
       "why": "Reject water holds the salts the RO took out, so it is saltier than tap water. It is fine for mopping, washing the balcony or flushing. Used on plants every day, the salt builds up in the soil."
      },
-     "parent": "Many older home RO machines send away 2 to 3 litres for each litre made, and newer ones less. If your purifier makes water very slowly, measure for a shorter time and compare."
+     "parent": "Many older home RO machines send away 2 to 3 litres for each litre made, and newer ones less. Your result depends on your purifier and your water. If your purifier makes water very slowly, measure for a shorter time and compare."
     }
    ],
    "setup": [
@@ -1441,7 +1482,7 @@
      "do": "Leave both still. Compare them at 30 minutes, and again 2 hours later if you can.",
      "say": "Is the seed glass clearer? Is it as fast as the phitkari was?",
      "kid": "Compare the glasses after 30 minutes. Which is clearer? Was the phitkari faster?",
-     "parent": "Seed powders usually work more slowly than phitkari and need the water to be quite muddy. If the difference is small at 30 minutes, look again after 2 hours. Fresh green drumstick seeds do not work well, so use dried ones.",
+     "parent": "Seed powders usually work more slowly than phitkari and need the water to be quite muddy. Results vary with the seeds, so if nothing changes, that is a real result. If the difference is small at 30 minutes, look again after 2 hours. Fresh green drumstick seeds do not work well, so use dried ones.",
      "ask": [
       {
        "q": "Why do you think people used seeds before phitkari was easy to buy?",
@@ -1515,11 +1556,11 @@
      "kid": "Which idea saves the most? Who could you tell?",
      "ask": [
       {
-       "q": "What could stop a tank from overflowing?",
+       "q": "Which place that you found wastes the most water in a day, and how could you check?",
        "good": [
-        "An alarm when it is full",
-        "A float switch that turns the motor off",
-        "Someone watching the time"
+        "The tank that overflows",
+        "A dripping tap that runs all night",
+        "Measure how long it runs"
        ]
       }
      ]
@@ -1607,7 +1648,7 @@
   {
    "id": "p1",
    "title": "Our Family's Water-Saving Week",
-   "mins": 45,
+   "mins": 33,
    "days": 7,
    "materials": [
     {
@@ -1623,7 +1664,6 @@
      "qty": 1
     }
    ],
-   "safety": "Any repair to a tap or flush is done by a grown-up or a plumber.",
    "schedule": [
     {
      "day": 1,
@@ -1695,22 +1735,22 @@
    "title": "The Two-Step Water Cleaner",
    "mins": 35,
    "context": "An engineering challenge. Combine settling and filtering to get the clearest water you can from a jug of muddy water.",
-   "problem": "Kavya, a girl in Class 3, has one jug of very muddy water. Make it as clear as you can in 40 minutes, using phitkari, settling and a home filter. Nobody drinks it.",
+   "problem": "Kavya, a girl in Class 3, has one jug of very muddy water. Make it as clear as you can in 35 minutes, using phitkari, settling and a home filter. Nobody drinks it.",
    "constraints": [
     "Use only things from home and a little phitkari.",
-    "You have 40 minutes, including waiting time.",
+    "You have 35 minutes, including waiting time.",
     "Nobody drinks the water, however clear it looks."
    ],
    "materials": [
     "a jug of muddy water made with red soil or multani mitti",
     "a little phitkari",
     "a plastic bottle cut in half by a grown-up",
-    "clean cotton cloth, cotton wool, washed sand and small washed stones",
+    "clean cotton cloth, cotton wool, and washed sand and small washed stones (from a hardware shop or a plant pot; if you have none, use more layers of cloth and cotton wool)",
     "two clear glasses and a paper with a big word written on it"
    ],
    "general": [
     "Rub phitkari in the jug, wait 20 minutes for the flocs to settle, then gently pour the clear top water into a glass.",
-    "Make a bottle filter: turn the top half of a bottle upside down into the bottom half, then fill it with cotton wool, washed sand, then small stones.",
+    "Make a bottle filter: turn the top half of a bottle upside down into the bottom half. Tie a cloth over the neck, then fill it with cotton wool, washed sand, then small stones.",
     "Pour the settled water through the filter, so it catches any flocs that floated up."
    ],
    "creative": [
@@ -1731,16 +1771,16 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "Build the filter and try your plan. Use the word test on the result.",
+     "do": "1. Rub phitkari in the jug and leave it still. The flocs need about 20 minutes to settle. 2. While you wait, build the filter. 3. Pour the clear top water slowly through the filter into a clean glass. 4. Do the word test on the result.",
      "say": "Can you read the word through your water? What could make it even clearer?",
-     "kid": "Build your filter. Try your plan. Can you read the word through the water?",
+     "kid": "Rub phitkari in the jug and leave it. While you wait, build your filter. Then pour the clear water through it. Can you read the word?",
      "adult": true,
      "parent": "A grown-up cuts the bottle. Phitkari first, then settling, then filtering usually gives the clearest water, because the filter doesn't clog with mud."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Compare with someone else's way, or with a plain filter without phitkari. Then talk about what is still in the water.",
+     "do": "Compare with a second try, such as filtering the muddy water without phitkari. Then talk about what is still in the water.",
      "say": "Your water is clear. Is it safe to drink? What else would we need to do?",
      "kid": "Is your clear water safe to drink? What else is needed?",
      "check": {
@@ -1772,7 +1812,7 @@
    "title": "The Tank-Full Alarm",
    "mins": 35,
    "context": "An engineering challenge. Many buildings waste water every day because the overhead tank overflows. Design a model alarm that warns you when a tank is nearly full.",
-   "problem": "Ammu, a girl in Kochi, sees water pouring from her building's tank every morning. Make a model tank from a bottle, and build something that shows a signal when the water is nearly at the top.",
+   "problem": "Ammu, a girl in Class 3 in Kochi, sees water pouring from her building's tank every morning. Make a model tank from a bottle, and build something that shows a signal when the water is nearly at the top.",
    "constraints": [
     "Use only things from home.",
     "No electricity from the wall socket.",
@@ -1781,13 +1821,14 @@
    "materials": [
     "a large plastic bottle with the top cut off by a grown-up, as the tank",
     "a jug of water to fill it",
+    "a tray to catch the water that spills",
     "a bottle cap, a cork or a piece of thermocol to float",
     "a straw or a thin stick, tape, paper, string and a small bell or a steel spoon"
    ],
    "general": [
     "Tape a stick to a floating cork. As the water rises, the stick pushes up a paper flag above the top of the bottle.",
     "Mark a full line on the outside of the bottle so you can see the level.",
-    "Hang a bell on a string from a float, so the bell rings when the float lifts it."
+    "Hang a bell from the paper bridge above the float, and tape a stick to the float. When the water is nearly full, the stick touches the bell and it rings."
    ],
    "creative": [
     "Real tanks often use a float switch. A float rises with the water and flips a switch that turns off the motor.",
@@ -1968,21 +2009,21 @@
   },
   {
    "t": "mcq",
-   "p": "In the Plate Test, why did washing under a running tap use the most water?",
+   "p": "Anitha, a girl in Class 3, compares three ways of washing plates. She puts a spoon of curd rice on plate 1, two spoons of dal on plate 2 and nothing on plate 3. Why is her test unfair?",
    "opts": [
-    "The plate got dirtier",
-    "Water ran down the drain while the plate was being scrubbed",
-    "Running water is heavier",
-    "The soap needed more water"
+    "The plates have different amounts of food, so the washing water is not a fair comparison",
+    "Plate 3 is too clean to be a plate",
+    "Curd rice is a bad food",
+    "She should use only one plate"
    ],
-   "a": 1,
-   "why": "The tap poured out water that did no job while the plate was scrubbed.",
+   "a": 0,
+   "why": "In a fair test only the way of washing changes. If the plates have different amounts of food, the water used might depend on the food, not on the way of washing.",
    "outcome": 4,
    "how": "e2"
   },
   {
    "t": "mcq",
-   "p": "Kavitha has four kinds of used water. Which one should go to her balcony plants?",
+   "p": "Kavitha, a girl in Class 3 in Guwahati, has four kinds of used water. Which one should go to her balcony plants?",
    "opts": [
     "Oily water from washing a kadai",
     "Water from rinsing rice",
@@ -1995,7 +2036,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavitha's RO purifier sends away reject water. What is the best job for it?",
+   "p": "Kavitha, a girl in Guwahati, has an RO purifier sends away reject water. What is the best job for it?",
    "opts": [
     "Drinking",
     "Mopping the floor",
@@ -2088,10 +2129,9 @@
     },
     {
      "t": "write",
-     "p": "In the Phitkari Test, both glasses were stirred for 10 seconds. Why was it important to stir glass A as well, even though it had no phitkari?",
-     "a": "So that the only difference between the glasses was the phitkari. Then any change in glass B must have come from the phitkari, not from the stirring.",
-     "why": "A strong answer says this makes it a fair test: only one thing changes.",
-     "lines": 3,
+     "p": "Use your own results table from the Phitkari Test. Write two numbers that show whether phitkari made a difference, and say what each number means.",
+     "a": "For example: glass B had 8 cm of clear water on top at 30 minutes, and glass A had 1 cm. The bigger number shows that more of the water had cleared. Your own numbers will differ.",
+     "why": "A strong answer uses real numbers from the table, says which glass each belongs to, and says what the difference tells us.",
      "how": "e1"
     },
     {
@@ -2117,7 +2157,7 @@
     },
     {
      "t": "match",
-     "p": "Match each step a city water plant uses to its job.",
+     "p": "Match each step of city water cleaning with its job.",
      "a": "pairs as given",
      "why": "Each step catches what the step before missed. Clumping and settling remove most mud, sand catches finer bits, and chlorine kills germs.",
      "pairs": [
@@ -2195,7 +2235,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi washed three plates in the Plate Test. Which way used the least water?",
+     "p": "A girl washed three plates in the Plate Test. Which way used the least water?",
      "opts": [
       "Scrubbing under a running tap",
       "Scrubbing with the tap off, then rinsing",
@@ -2288,7 +2328,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nandini made the Phitkari Test with potting mix that was mostly cocopeat. The water stayed brown, even with phitkari. What is the best next step?",
+     "p": "Nandini, a girl in Class 3, made the Phitkari Test with potting mix that was mostly cocopeat. The water stayed brown, even with phitkari. What is the best next step?",
      "opts": [
       "Give up: phitkari doesn't work",
       "Try again with red soil or multani mitti, which have lots of clay",
@@ -2296,7 +2336,7 @@
       "Shake the glass hard"
      ],
      "a": 1,
-     "why": "Phitkari works best on clay. Cocopeat is plant fibre, and its brown colour is partly dissolved, so phitkari clears it less well. Testing again with a clay soil checks the idea fairly.",
+     "why": "Phitkari works best on clay. Cocopeat is made of plant fibre, and part of the brown colour is dissolved in the water, so phitkari clears it less well. Testing again with a clay soil checks the idea fairly.",
      "how": "e1"
     },
     {
@@ -2360,7 +2400,7 @@
     },
     {
      "t": "mcq",
-     "p": "Shreya's family RO made 1 litre of drinking water and sent away 3 litres. How much water did it use in total?",
+     "p": "Shreya, a girl in Class 3, has an RO purifier that made 1 litre of drinking water and sent away 3 litres. How much water did it use in total?",
      "opts": [
       "1 litre",
       "3 litres",
@@ -2509,7 +2549,7 @@
      "t": "perspective",
      "p": "In 1892 two scientists argued about cholera.",
      "a": "A strong answer uses the Hamburg and Altona evidence to back Koch, then says fairly what Pettenkofer noticed: cholera was worse in some places and seasons, and not everyone who swallowed the germ fell very ill.",
-     "why": "Koch was right that the germ in water causes cholera. Pettenkofer was right that not everyone who takes in the germ gets very ill, which depends on the body and on how many germs, but he was wrong that the germ alone could not spread it through water.",
+     "why": "Koch was right that the germ in water causes cholera. Pettenkofer was right that not everyone who takes in the germ gets very ill, which depends on the body and on how many germs. But he was wrong that cholera could not spread through water.",
      "views": [
       {
        "who": "Robert Koch",
@@ -2542,7 +2582,7 @@
     },
     {
      "t": "mcq",
-     "p": "A city's water plant has its settling tanks out of order for a day. What problem would the sand filters have?",
+     "p": "The settling tanks at a city water works are out of order for a day. What problem would the sand filters have?",
      "opts": [
       "None at all",
       "They would clog fast with mud and need cleaning very often",
@@ -2736,16 +2776,8 @@
    "a": "It caught everything."
   },
   {
-   "j": "What do you call a tap that won't stop talking?",
-   "a": "A drip-drip-chatter-box."
-  },
-  {
    "j": "Why did the bucket feel proud?",
    "a": "It caught the water everyone else let go."
-  },
-  {
-   "j": "What did the tulsi plant say after drinking rice water?",
-   "a": "That was a starchy treat!"
   },
   {
    "j": "Why don't floc clumps ever win races?",
@@ -2770,18 +2802,6 @@
   {
    "j": "What did the RO reject water say to the mop?",
    "a": "Finally, someone who wants me!"
-  },
-  {
-   "j": "Why did the chlorine join the water on its trip?",
-   "a": "To keep the germs out of the pipes."
-  },
-  {
-   "j": "What do you call a plate scraped before washing?",
-   "a": "A water saver."
-  },
-  {
-   "j": "Why did the leaf blanket keep the soil so happy?",
-   "a": "It never let it dry out."
   }
  ],
  "maths": [
@@ -2820,7 +2840,7 @@
   {
    "problem": "Your family washes 12 plates a day. Washing them the bowl way saves 6 mugs for each plate. One mug holds half a litre. How many litres does that save in a day?",
    "answer": "36 litres a day.",
-   "explain": "12 plates times 6 mugs is 72 mugs. Each mug is half a litre, so 72 mugs is 36 litres. That is about two or three buckets every day.",
+   "explain": "12 plates times 6 mugs is 72 mugs. Each mug is half a litre, so 72 mugs is 36 litres. That is about three and a half 10-litre buckets every day.",
    "math_unit": "math.weight-capacity.capacity.L3",
    "context": "This uses the Plate Test results to work out what a whole family could save in a day.",
    "why_maths": "One plate saves only a little. Multiplying shows what it adds up to over a day.",
@@ -2854,7 +2874,7 @@
    }
   },
   {
-   "problem": "In the Phitkari Test, glass B had 4 cm of clear water at 15 minutes and 8 cm at 30 minutes. Arjun predicts it will have 16 cm at 60 minutes. His glass is only 10 cm tall. What is wrong with his prediction?",
+   "problem": "In the Phitkari Test, glass B had 4 cm of clear water at 15 minutes and 8 cm at 30 minutes. Arjun, a boy in Class 3, predicts it will have 16 cm at 60 minutes. His glass is only 10 cm tall. What is wrong with his prediction?",
    "answer": "The clear water can't be taller than the glass. Once the flocs have all settled, the clear part stops growing, a little below the top of the mud layer.",
    "explain": "Doubling worked from 15 to 30 minutes, but the pattern can't go on for ever. The glass is only 10 cm tall, and some of it is filled with mud at the bottom. So the clear part must stop at less than 10 cm.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2863,7 +2883,7 @@
    "how": "e1"
   },
   {
-   "problem": "Divya's RO purifier sends away 3 litres for every 1 litre of drinking water. Her family drinks 8 litres a day. How much reject water is made each day, and how many 10-litre buckets of mopping water is that?",
+   "problem": "Divya, a girl in Class 3, has an RO purifier that sends away 3 litres for every 1 litre of drinking water. Her family drinks 8 litres a day. How much reject water is made each day, and how many 10-litre buckets of mopping water is that?",
    "answer": "24 litres a day, which is 2 full buckets and 4 litres more.",
    "explain": "8 litres of drinking water times 3 is 24 litres of reject water. A bucket holds 10 litres. 24 is 10 + 10 + 4. So that is 2 full buckets and 4 litres more.",
    "math_unit": "math.weight-capacity.capacity.L3",
@@ -3111,7 +3131,7 @@
   ],
   "art": "A child sitting cross-legged on a kitchen floor beside a glass of water with brown flocs drifting down like slow snow, with faint drawings behind them of a river, a sand bed full of tiny living beings, and the Sun."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Changes made: potting mix that is mostly cocopeat gives brown water that phitkari clears poorly, so the Phitkari Test asks for red soil, garden soil or multani mitti, which are clay-rich and stay cloudy for hours without phitkari. A peanut-sized lump swirled for 10 seconds, or a small pinch of powder, is enough for one glass. Flocs usually show within 5 minutes and the water is readable through within about 30. The step says what to do if nothing happens in 10 minutes. Clearness is measured with a word read through the glass and a ruler, so the child has numbers, not just an opinion. The Plate Test catches the water in a basin in the sink, and the measured water goes to the mop bucket, so the test itself wastes nothing. The Leaf Blanket test needs sunny weather. The step says to give it an extra day when it is humid. The RO activity is only for homes with RO, and a grown-up finds the reject pipe. The seed activity is optional, because kataka seeds must be bought and dried drumstick seeds are not in every home. The step says seeds work more slowly than phitkari. The building walk is done with a grown-up, without climbing to the tank. Both games work for one child alone. No test water is ever drunk. The spine (intro, Shake the Mud, the Phitkari Test, explanations, roots and quiz) fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Changes made: potting mix that is mostly cocopeat gives brown water that phitkari clears poorly, so the Phitkari Test asks for red soil, garden soil or multani mitti, which are clay-rich and stay cloudy for hours without phitkari. A peanut-sized lump swirled for 10 seconds, or a small pinch of powder, is enough for one glass. Flocs usually show within 5 minutes and the water is readable through within about 30. The step says what to do if nothing happens in 10 minutes. Clearness is measured with a word read through the glass and a ruler, so the child has numbers, not just an opinion. The Plate Test catches the water in a basin in the sink, and the measured water goes to the mop bucket, so the test itself wastes nothing. The Leaf Blanket test needs sunny weather. The step says to give it an extra day when it is humid. The RO activity is only for homes with RO, and a grown-up finds the reject pipe. The seed activity is optional, because kataka seeds must be bought and dried drumstick seeds are not in every home. The step says seeds work more slowly than phitkari. The building walk is done with a grown-up, without climbing to the tank. Both games work for one child alone, and for two to four players. The board game has 24 written squares and 20 cards, and ends when every player has been once round the flat. No test water is ever drunk. The spine (intro, Shake the Mud, the Phitkari Test, explanations, roots and quiz) fits about 85 minutes.",
  "how_we_found_out": {
   "story": "In the 1800s, many doctors believed cholera came from bad air rising from dirty ground. In Germany, the famous scientist Max von Pettenkofer said the cholera germ could not make people ill without the right kind of soil. So the city of Hamburg had not built filters for its drinking water. It pumped water straight from the river Elbe. Next door was the town of Altona. Altona took its water from the same river, further down, after Hamburg's sewage had flowed into it. But since 1859, Altona had passed its water through slow sand filters. In 1892 cholera struck Hamburg. About 8,600 people died in a few weeks. Altona, breathing the same air and standing on the same ground, had far fewer cases. On some streets along the border, homes on the Hamburg side fell ill, while homes across the road, on Altona's water, mostly did not. Robert Koch, who had found the cholera germ, used this to show that cholera travels in water. Pettenkofer even drank cholera germs to prove he was right. He got only a mild illness, but the evidence was against him. Hamburg built its own sand filters and opened them in 1893.",
   "who": "The people of Hamburg and Altona in Germany, the scientist Robert Koch, and Max von Pettenkofer, who disagreed",

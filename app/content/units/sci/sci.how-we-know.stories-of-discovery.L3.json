@@ -60,7 +60,7 @@
   {
    "term": "Result",
    "meaning": "What actually happens in a test or an experiment.",
-   "example": "In the tape test, one result was that fresh tape tore the newspaper.",
+   "example": "In the tape test, one result you may see is that fresh tape tears the newspaper.",
    "art": "A strip of tape lifted off a newspaper page, carrying a torn grey patch of paper with it."
   },
   {
@@ -201,7 +201,7 @@
   {
    "concept": "Who gets left out, and why",
    "status": "debated",
-   "description": "Many people who did important work were left out of the credit. Norman Heatley worked out how to grow and clean enough penicillin for the Oxford tests. The 1945 Nobel Prize went to Fleming, Florey and Chain. Heatley was not named, and his work was honoured properly only in 1990. Rosalind Franklin took the X-ray photograph that showed the shape of DNA. Her co-worker Maurice Wilkins showed it to James Watson without asking her. Watson, Francis Crick and Wilkins won the Nobel Prize in 1962. Franklin had died in 1958, and the prize is not given after death. People argue about why this happens so often. Common reasons are that the person was young, a woman, an assistant, or worked far from famous universities.",
+   "description": "Many people who did important work were left out of the credit. Norman Heatley worked out how to grow and clean enough penicillin for the Oxford tests. The 1945 Nobel Prize went to Fleming, Florey and Chain. Heatley was not named, and Oxford honoured his work only years later. Rosalind Franklin took the X-ray photograph that showed the shape of DNA. Her co-worker Maurice Wilkins showed it to James Watson without asking her. Watson, Francis Crick and Wilkins won the Nobel Prize in 1962. Franklin had died in 1958, and the prize is not given after death. People argue about why this happens so often. Common reasons are that the person was young, a woman, an assistant, or worked far from famous universities.",
    "examples": [
     "Jocelyn Bell Burnell found the first pulsar as a research student. The 1974 Nobel Prize went to her supervisor Antony Hewish and to Martin Ryle.",
     "K. S. Krishnan did the Raman effect experiments with C. V. Raman. Only Raman won the 1930 Nobel Prize."
@@ -343,7 +343,7 @@
   {
    "q": "Your weak tape was a failure for one job and a success for another. Is anything a failure for every job?",
    "kind": "deep",
-   "hint": "Think of a broken pencil, a torn sheet of paper, or a burnt chapati. Can you find a use for each?"
+   "hint": "Think of a broken pencil, a torn sheet of paper, or a cracked cup. Can you find a use for each?"
   },
   {
    "q": "If a whole team makes a discovery, should a prize ever go to just one person?",
@@ -386,7 +386,7 @@
    "Divya stared at it. \"Where was that?\"",
    "\"On top of the fridge,\" said Arjun. \"To keep it from Mittai.\"",
    "\"But the top of the fridge isn't in my test,\" said Divya. She felt cross. Her chart was nearly finished. Now this bowl did not fit.",
-   "Selvi akka, who came every morning to help Amma cook, was rolling out chapatis. She laughed. \"Put your hand up there,\" she said.",
+   "Selvi akka, who came every morning to help Amma cook, was cutting vegetables for sambar. She laughed. \"Put your hand up there,\" she said.",
    "Divya climbed onto the stool and put her hand on top of the fridge. It was warm, like a sunny wall.",
    "\"A fridge is cold inside,\" said Selvi akka, \"but it pushes the heat out at the back. Warm air rises, so the top gets warm. In my village, my mother kept the curd pot near the stove, where the ashes stayed warm all night. Curd likes to be kept warm.\"",
    "\"So that's why the fridge bowl never set,\" said Divya slowly. \"It was too cold. And the balcony was cooler than the shelf in the night.\"",
@@ -413,7 +413,7 @@
    "A girl in a Chennai flat kitchen writing on a big chart paper, with three small steel bowls of milk on the counter.",
    "A small boy on a stool pushing a steel bowl to the back of the top of a fridge, while a cat watches from the floor.",
    "The boy tipping his bowl upside down to show firm white curd, while his sister stares in surprise.",
-   "A woman rolling chapatis and laughing, while the girl reaches up to feel the top of the fridge.",
+   "A woman cutting vegetables and laughing, while the girl reaches up to feel the top of the fridge.",
    "A science fair table with the girl's chart, and a box at the bottom with three names written in neat letters."
   ]
  },
@@ -433,31 +433,79 @@
      "kind": "cards",
      "title": "16 discovery cards",
      "items": [
-      "1928, London. Mould lands on Alexander Fleming's dish of bacteria while he is on holiday. The bacteria near the mould die. (Accident)",
-      "1856, London. William Perkin, aged 18, tries to make the malaria medicine quinine and gets a bright purple dye. (Mistake)",
-      "1896, Paris. Henri Becquerel waits for sun, but it is cloudy. He leaves uranium on a wrapped photo plate in a drawer, and it fogs the plate. (Accident)",
-      "1968, USA. Spencer Silver tries to make a super-strong glue and makes a very weak one. (Mistake)",
-      "1967, Cambridge. Jocelyn Bell checks every metre of her telescope chart and finds a tiny regular mark. (Plan: careful checking)",
-      "1747, at sea. James Lind gives six pairs of sick sailors six different treatments to find which cures scurvy. (Plan)",
-      "1940, Oxford. Howard Florey's team gives penicillin to four sick mice and none to four others. (Plan)",
-      "1963, Tanzania. Erasto Mpemba puts his ice cream mixture in the freezer while it is still hot, because there is no time to cool it. (Accident)",
-      "1895, Germany. Wilhelm Röntgen sees a screen across his lab glowing while his tube is covered in black card. (Accident)",
-      "1928, Kolkata. C. V. Raman and K. S. Krishnan shine light through liquids for months to look for a tiny change in colour. (Plan)",
-      "1945, Oxford. Dorothy Hodgkin uses X-rays to work out the shape of penicillin. (Plan)",
-      "1943, Peoria, USA. A mouldy melon from a market grows a mould that makes far more penicillin. (Accident)",
-      "1929, Harvard, USA. Yellapragada Subbarow and Cyrus Fiske measure what muscles use for energy and find ATP. (Plan)",
-      "1952, London. Rosalind Franklin and her student Raymond Gosling take an X-ray photo that shows the shape of DNA. (Plan)",
-      "1974, USA. Art Fry wants a bookmark that won't fall out of his song book, and remembers Silver's weak glue. (Plan using an old mistake)",
-      "Your own card: the tape you dabbed on cloth turned out best for moving a note. (Mistake on purpose)"
+      {
+       "f": "1928, London. Mould lands on Alexander Fleming's dish of bacteria while he is on holiday. The bacteria near the mould die.",
+       "b": "ACCIDENT. Nobody planned it.\nDid the work: Alexander Fleming noticed it. Howard Florey, Ernst Chain and Norman Heatley's team in Oxford made penicillin into a medicine.\nLeft out: Norman Heatley, who was not named in the 1945 Nobel Prize."
+      },
+      {
+       "f": "1856, London. William Perkin, aged 18, tries to make the malaria medicine quinine and gets a bright purple dye.",
+       "b": "MISTAKE. He wanted a medicine and got something else.\nDid the work: William Perkin.\nNo one is usually named as left out of this one, so there is no bonus point."
+      },
+      {
+       "f": "1896, Paris. Henri Becquerel waits for sun, but it is cloudy. He leaves uranium on a wrapped photo plate in a drawer, and it fogs the plate.",
+       "b": "ACCIDENT. The cloudy sky was nobody's plan.\nDid the work: Henri Becquerel found the rays. Marie Curie later named them radioactivity.\nNo bonus point on this card."
+      },
+      {
+       "f": "1968, USA. Spencer Silver tries to make a super-strong glue and makes a very weak one.",
+       "b": "MISTAKE. The result was not what he wanted.\nDid the work: Spencer Silver made the glue. Art Fry found a job for it.\nNo bonus point on this card."
+      },
+      {
+       "f": "1967, Cambridge. Jocelyn Bell checks every metre of her telescope chart and finds a tiny regular mark.",
+       "b": "PLAN: careful checking. She was lucky to have the mark, but she found it by checking the chart by hand.\nDid the work: Jocelyn Bell, with her supervisor Antony Hewish.\nLeft out: Jocelyn Bell herself. The 1974 Nobel Prize went to Hewish and Martin Ryle."
+      },
+      {
+       "f": "1747, at sea. James Lind gives six pairs of sick sailors six different treatments to find which cures scurvy.",
+       "b": "PLAN. He set out to compare cures.\nDid the work: James Lind.\nNo bonus point on this card."
+      },
+      {
+       "f": "1940, Oxford. Howard Florey's team gives penicillin to four sick mice and none to four others.",
+       "b": "PLAN. A fair comparison, set up on purpose.\nDid the work: Howard Florey, Ernst Chain, Norman Heatley and the Oxford team.\nLeft out: Norman Heatley, who was not named in the 1945 Nobel Prize."
+      },
+      {
+       "f": "1963, Tanzania. Erasto Mpemba puts his ice cream mixture in the freezer while it is still hot, because there is no time to cool it.",
+       "b": "ACCIDENT. He was in a hurry and broke the usual rule.\nDid the work: Erasto Mpemba noticed it. Denis Osborne tested it in a laboratory, and they wrote a paper together in 1969.\nNo bonus point on this card."
+      },
+      {
+       "f": "1895, Germany. Wilhelm Röntgen sees a screen across his lab glowing while his tube is covered in black card.",
+       "b": "ACCIDENT. He was not looking for new rays.\nDid the work: Wilhelm Röntgen noticed the glow and then tested it carefully.\nNo bonus point on this card."
+      },
+      {
+       "f": "1928, Kolkata. C. V. Raman and K. S. Krishnan shine light through liquids to look for a tiny change in colour.",
+       "b": "PLAN. They went looking for the change.\nDid the work: C. V. Raman and K. S. Krishnan wrote the paper together.\nLeft out: K. S. Krishnan. Only Raman won the 1930 Nobel Prize."
+      },
+      {
+       "f": "1945, Oxford. Dorothy Hodgkin uses X-rays to work out the shape of penicillin.",
+       "b": "PLAN. X-ray pictures and a lot of careful sums.\nDid the work: Dorothy Hodgkin and her team.\nNo bonus point on this card."
+      },
+      {
+       "f": "1943, Peoria, USA. A laboratory is hunting for a mould that makes more penicillin. A mouldy melon from a market turns out to have the best one.",
+       "b": "PLAN, helped by luck. The hunt was on purpose. The melon was a lucky find.\nDid the work: the laboratory team in Peoria. Many tellings say a lab worker called Mary Hunt found the melon, but that is not certain.\nNo bonus point on this card."
+      },
+      {
+       "f": "1929, Harvard, USA. Yellapragada Subbarow and Cyrus Fiske measure what muscles use for energy and find ATP.",
+       "b": "PLAN. Careful measuring, on purpose.\nDid the work: Yellapragada Subbarow and Cyrus Fiske.\nLeft out: Subbarow was never made a permanent professor at Harvard, and few people know his name."
+      },
+      {
+       "f": "1952, London. Rosalind Franklin and her student Raymond Gosling take an X-ray photo that shows the shape of DNA.",
+       "b": "PLAN. They planned the X-ray pictures.\nDid the work: Rosalind Franklin and Raymond Gosling.\nLeft out: Rosalind Franklin. The 1962 Nobel Prize went to Watson, Crick and Wilkins. She had died in 1958."
+      },
+      {
+       "f": "1974, USA. Art Fry wants a bookmark that won't fall out of his song book, and remembers Silver's weak glue.",
+       "b": "PLAN, using an old mistake.\nDid the work: Art Fry used the glue that Spencer Silver had made.\nNo bonus point on this card."
+      },
+      {
+       "f": "Your own card. You press tape on a cloth again and again to make it weaker, and find it holds a paper note lightly.",
+       "b": "PLAN. You weakened the tape on purpose. Silver's glue was weak by mistake.\nDid the work: you.\nNo bonus point on this card."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "Three sorting cards",
+     "title": "3 sorting cards",
      "items": [
-      "ACCIDENT",
-      "MISTAKE",
-      "PLAN"
+      "ACCIDENT: nobody planned it. It just happened.",
+      "MISTAKE: the person was trying for something else and got a different result.",
+      "PLAN: the person set out on purpose to find this."
      ]
     },
     {
@@ -484,13 +532,13 @@
    ],
    "rules": [
     "Lay the three sorting cards in a row: ACCIDENT, MISTAKE, PLAN.",
-    "Shuffle the discovery cards and put them face down. Cover the answer in brackets with your thumb when you read.",
+    "Shuffle the 16 discovery cards and put them face down. The answer is on the back of each card, so read only the front.",
     "On your turn, read the top card out loud and put it under ACCIDENT, MISTAKE or PLAN.",
-    "Check the answer in brackets. A right sort scores 1 point.",
-    "Then name one person who did the work. That scores 1 more point.",
-    "If you can name someone who was left out of the credit for that discovery, score a bonus point.",
-    "Playing alone? Sort all 16 cards, then check your answers and add up your score.",
-    "When all the cards are played, the highest score wins."
+    "Then name two people who did the work. The card may name only one.",
+    "Turn the card over and check. A right sort scores 1 point. Naming one person from the back scores 1 more point.",
+    "If you named the person the back says was left out, score a bonus point.",
+    "Playing alone? Sort all 16 cards, then turn them over and add up your score.",
+    "When all the cards are played, the highest score wins. If you tie, you both win."
    ],
    "flow": [
     {
@@ -504,7 +552,7 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Play the Spencer Silver card together as a practice round.",
+     "do": "Play the Spencer Silver card together as a practice round. Put it back in the pile afterwards.",
      "say": "Practice card. Spencer Silver tries to make a strong glue and makes a weak one. Accident, mistake or plan?",
      "kid": "Practice card. Spencer Silver wants strong glue and makes weak glue. Accident, mistake or plan?",
      "check": {
@@ -516,16 +564,16 @@
        "Plan"
       ],
       "a": 1,
-      "why": "Silver did the work on purpose, but the result was not what he was trying to get. That makes it a mistake. An accident is something nobody planned at all, like mould falling onto Fleming's dish."
+      "why": "Silver was trying to make a strong glue and got a weak one. That makes it a mistake. An accident is something nobody planned at all, like mould falling onto Fleming's dish."
      }
     },
     {
      "id": "s3",
      "mins": 9,
      "do": "Take turns reading, sorting and naming people. Keep score.",
-     "say": "Read your card, sort it, then name who did the work. Can anyone name someone who was left out?",
-     "kid": "Read your card. Put it in a pile. Name who did the work. Know someone who was left out? Bonus point!",
-     "parent": "Some cards are arguable. Art Fry used an old mistake on purpose. Bell Burnell's find was lucky, but she found it by careful checking. If your child argues for a different pile with a good reason, give the point."
+     "say": "Read your card, sort it, then name two people who did the work. Then turn it over and check.",
+     "kid": "Read your card. Put it in a pile. Name two people who did the work. Turn it over and check. Point for each right answer!",
+     "parent": "Some cards are arguable. Art Fry used an old mistake on purpose. Jocelyn Bell's find was lucky, but she found it by careful checking. If your child argues for a different pile with a good reason, give the point."
     },
     {
      "id": "s4",
@@ -557,45 +605,70 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 job cards (4 of each job)",
+     "title": "36 job cards (6 of each job)",
      "items": [
-      "NOTICER: spots the strange result. (4 cards)",
-      "CHECKER: repeats the test to make sure it is real. (4 cards)",
-      "EXPLAINER: works out why it happens. (4 cards)",
-      "MAKER: builds the machine or makes enough of the stuff. (4 cards)",
-      "WRITER: writes the paper so everyone can know. (4 cards)",
-      "LEADER: plans the project and finds the money. (4 cards)"
+      "NOTICER: spots the strange result. Jocelyn Bell sees a small mark on her telescope chart.",
+      "NOTICER: spots the strange result. Alexander Fleming sees a clear ring around mould on his dish.",
+      "NOTICER: spots the strange result. Wilhelm Röntgen sees a screen glow when it should be dark.",
+      "NOTICER: spots the strange result. Henri Becquerel sees that his photo plate is fogged.",
+      "NOTICER: spots the strange result. William Perkin sees a bright purple colour.",
+      "NOTICER: spots the strange result. Spencer Silver sees a glue that lets paper peel off.",
+      "CHECKER: repeats the test to make sure it is real. Jocelyn Bell checks that the mark comes back again and again.",
+      "CHECKER: repeats the test to make sure it is real. Alexander Fleming grows the mould again on fresh dishes.",
+      "CHECKER: repeats the test to make sure it is real. James Lind compares six treatments on sick sailors.",
+      "CHECKER: repeats the test to make sure it is real. Howard Florey's team gives penicillin to four mice and none to four others.",
+      "CHECKER: repeats the test to make sure it is real. Cyrus Fiske and Yellapragada Subbarow measure the muscle chemicals more than once.",
+      "CHECKER: repeats the test to make sure it is real. A friend repeats your test, to see if they get the same result.",
+      "EXPLAINER: works out why it happens. C. V. Raman works out why light changes colour in a liquid.",
+      "EXPLAINER: works out why it happens. Dorothy Hodgkin works out the shape of penicillin from X-ray pictures.",
+      "EXPLAINER: works out why it happens. Rosalind Franklin reads her X-ray photo of DNA.",
+      "EXPLAINER: works out why it happens. Ernst Chain works out what penicillin is made of.",
+      "EXPLAINER: works out why it happens. Yellapragada Subbarow and Cyrus Fiske work out that ATP gives muscles energy.",
+      "EXPLAINER: works out why it happens. Art Fry works out that a weak glue suits a bookmark.",
+      "MAKER: builds the machine or makes enough of the stuff. Jocelyn Bell helps to build the radio telescope.",
+      "MAKER: builds the machine or makes enough of the stuff. Norman Heatley finds a way to make enough penicillin for the tests.",
+      "MAKER: builds the machine or makes enough of the stuff. Art Fry makes the first sticky bookmarks.",
+      "MAKER: builds the machine or makes enough of the stuff. William Perkin sets up a factory to make his purple dye.",
+      "MAKER: builds the machine or makes enough of the stuff. Raymond Gosling takes the X-ray pictures with Rosalind Franklin.",
+      "MAKER: builds the machine or makes enough of the stuff. A laboratory team in Peoria grows a mould that makes far more penicillin.",
+      "WRITER: writes the paper so everyone can know. Alexander Fleming writes the 1929 paper on penicillin.",
+      "WRITER: writes the paper so everyone can know. Wilhelm Röntgen writes up his new rays.",
+      "WRITER: writes the paper so everyone can know. James Lind writes a book about scurvy.",
+      "WRITER: writes the paper so everyone can know. Jocelyn Bell is an author of the 1968 pulsar paper.",
+      "WRITER: writes the paper so everyone can know. C. V. Raman and K. S. Krishnan write their 1928 paper on light together.",
+      "WRITER: writes the paper so everyone can know. Erasto Mpemba and Denis Osborne write their 1969 paper.",
+      "LEADER: plans the project and finds the money. Antony Hewish leads the Cambridge team that finds pulsars.",
+      "LEADER: plans the project and finds the money. Howard Florey leads the Oxford penicillin team.",
+      "LEADER: plans the project and finds the money. C. V. Raman leads the research in Kolkata.",
+      "LEADER: plans the project and finds the money. Dorothy Hodgkin leads her laboratory in Oxford.",
+      "LEADER: plans the project and finds the money. James Lind plans his test of six cures.",
+      "LEADER: plans the project and finds the money. A head of a laboratory plans the project and finds the money."
      ]
     },
     {
      "kind": "cards",
-     "title": "4 PRIZE cards",
+     "title": "1 PRIZE card",
      "items": [
-      "PRIZE: name up to 3 people from your team.",
-      "PRIZE: name up to 3 people from your team.",
-      "PRIZE: name up to 3 people from your team.",
       "PRIZE: name up to 3 people from your team."
      ]
     },
     {
      "kind": "tokens",
-     "title": "Name tokens: small paper slips to write a made-up team member's name on",
+     "title": "6 name slips: small paper slips for a team member's name",
      "items": [
-      "Meenakshi",
-      "Farhan",
-      "Lakshmi",
-      "Kavya",
-      "Anjali",
-      "Revathi",
-      "Nila",
-      "Joseph"
+      "Name slip: write a made-up team member's name here.",
+      "Name slip: write a made-up team member's name here.",
+      "Name slip: write a made-up team member's name here.",
+      "Name slip: write a made-up team member's name here.",
+      "Name slip: write a made-up team member's name here.",
+      "Name slip: write a made-up team member's name here."
      ]
     }
    ],
    "setup": [
     {
-     "art": "Job cards fanned out in two players' hands, labelled Noticer, Checker, Explainer, Maker, Writer and Leader, with a pile in the middle.",
-     "caption": "1. Deal 3 job cards each. Collect all six jobs."
+     "art": "Job cards fanned out in two players' hands, labelled Noticer, Checker, Explainer, Maker, Writer and Leader, with a pile and a discard pile in the middle.",
+     "caption": "1. Deal 6 job cards each. Collect one of each of the six jobs."
     },
     {
      "art": "A child laying down six job cards with a name slip on each, and holding a PRIZE card, looking thoughtful.",
@@ -603,19 +676,19 @@
     }
    ],
    "rules": [
-    "Shuffle the job cards. Deal 3 to each player. Put the rest face down in a pile.",
-    "On your turn, take one card from the pile. Then put one card you don't need face up beside the pile.",
-    "You may take the top face-up card instead of one from the pile.",
-    "When you hold all six jobs, put them down and shout 'Discovery!' You have made a discovery.",
-    "Give each job card a name token, so your team has six people.",
-    "Now take a PRIZE card. You may name only 3 of your 6 people for the prize. Say who, and why.",
-    "Every other player gives you 1 point if they agree your choice was fair, or you may refuse the prize and name all six instead."
+    "Shuffle the 36 job cards. Deal 6 to each player. Put the rest face down in a pile. Turn the top card face up beside the pile to start a discard pile.",
+    "On your turn, take the top card of the pile or the top card of the discard pile. Then put one card from your hand face up on the discard pile. You always keep 6 cards.",
+    "If the pile runs out, turn the discard pile over (keep its top card) and shuffle it to make a new pile.",
+    "When you hold one card of each of the six jobs, put them down and shout 'Discovery!' You have made a discovery.",
+    "Make up a name for each job card and write it on a name slip, so your team has six people.",
+    "Now take the PRIZE card. You may name only 3 of your 6 people for the prize. Say who, and why.",
+    "The other players say whether they think your choice was fair, and why. You may change your mind and name more people, or refuse the prize and name all six. The game ends when you have decided."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Deal 3 job cards to each player and read out the six jobs.",
+     "do": "Deal 6 job cards to each player and read out the six jobs.",
      "say": "A discovery needs six jobs: noticer, checker, explainer, maker, writer and leader. Collect all six to make a discovery.",
      "kid": "Read the six jobs. Noticer, checker, explainer, maker, writer, leader. Collect all six to make a discovery!",
      "context": "This is the start of Build the Team. You collect the six jobs a discovery needs."
@@ -624,8 +697,8 @@
      "id": "s2",
      "mins": 12,
      "do": "Play until someone has all six jobs.",
-     "say": "Take a card, put one down. Which job are you still missing?",
-     "kid": "Take a card. Put one down. Which job do you still need?",
+     "say": "Take a card from the pile or the discard pile, then put one down. Which job are you still missing?",
+     "kid": "Take a card. Put one down. You always keep 6. Which job do you still need?",
      "check": {
       "t": "mcq",
       "q": "In the pulsar story, which job did Jocelyn Bell do first?",
@@ -635,15 +708,15 @@
        "Writer"
       ],
       "a": 1,
-      "why": "Bell noticed the strange mark on the chart, so she was the noticer. She was also a checker and helped build the telescope, so she was a maker too. Her supervisor Antony Hewish was the leader."
+      "why": "Bell noticed the strange mark on the chart, so she was the noticer. She also checked that it came back, and helped build the telescope, so she was a checker and a maker too. Her supervisor Antony Hewish was the leader."
      }
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "The winner names their team, then picks only three for the prize. Everyone talks about whether it is fair.",
+     "do": "The winner makes up names for the six people, then picks only three for the prize. Everyone talks about whether it is fair.",
      "say": "You may name only three people for the prize. Who do you leave out? How do you think they will feel?",
-     "kid": "Name your six team members. Now pick only three for the prize. Who do you leave out? Is that fair?",
+     "kid": "Write a name for each of your six team members. Now pick only three for the prize. Who do you leave out? Is that fair?",
      "parent": "There is no right answer. Listen for reasons: 'The noticer, because without her there is no discovery,' or 'The leader, because she planned it all.' Some children refuse the prize, which is a fine answer too.",
      "think": "Is there a fairer prize than one that names only three people?"
     }
@@ -689,7 +762,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors. Nothing else in this test is dangerous.",
    "schedule": [
     {
      "day": 1,
@@ -730,7 +802,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Cut four strips of tape, each 6 cm long. 2. Fold over 1 cm at one end of each, sticky side to sticky side, to make a handle. 3. Write A, B, C and D on the handles. 4. Stick each one lightly by its far end to the table edge.",
-     "say": "A folded end gives you a handle. Then the glue on your fingers won't change the test.",
+     "say": "A folded end gives you a handle, so your fingers don't touch the glue and spoil the test.",
      "kid": "Cut four strips of tape. Each one is 6 cm long. Fold over one end to make a handle. Write A, B, C and D on the handles.",
      "adult": true,
      "parent": "Help with the scissors and the measuring. Keep the strips the same length, because a longer strip has more glue and would hold better anyway."
@@ -773,17 +845,17 @@
      "do": "1. Lay the page flat again. 2. Peel each strip off slowly, one at a time. 3. Look at the newspaper under each one. 4. Write yes, a little, or no for tearing.",
      "say": "Peel slowly. Now look at the paper where the tape was. Is there a grey furry patch? That means some paper came away with the tape.",
      "kid": "Peel each strip off slowly. Look at the paper under it. Is there a furry torn patch? Write yes, a little, or no.",
-     "parent": "Fresh tape on newspaper usually lifts a grey, furry patch or tears a strip. The dabbed strips usually peel off clean. If even strip A comes off clean, press it down again, rub it hard with a fingernail, wait 5 minutes and peel again.",
+     "parent": "Fresh tape on newspaper usually lifts a grey, furry patch or tears a strip. The dabbed strips usually peel off clean. If even strip A comes off clean, press it down again, rub it hard with a fingernail, wait 5 minutes and peel again. If it still comes clean, write that down honestly: your tape or paper is gentler than usual, and that is a real result.",
      "check": {
       "t": "mcq",
-      "q": "Fresh tape tore the newspaper when you peeled it. Why?",
+      "q": "Suppose fresh tape tears the newspaper when you peel it. Why does that happen?",
       "options": [
        "The tape was too weak",
        "The glue gripped the paper's fibres harder than the fibres gripped each other",
        "The newspaper was wet"
       ],
       "a": 1,
-      "why": "Paper is a mat of tiny fibres. Fresh glue holds the top fibres so tightly that they come away with the tape. Picking 'too weak' gets it the wrong way round: the tape was too strong for the paper. Wet paper tears easily too, but the newspaper here was dry."
+      "why": "Paper is a mat of tiny fibres. Fresh glue holds the top fibres so tightly that they come away with the tape. Picking 'too weak' gets it the wrong way round: the tape grips too strongly for the paper. Wet paper tears easily too, but the newspaper here is dry."
      }
     },
     {
@@ -833,7 +905,7 @@
      "qty": 2
     },
     {
-     "item": "a measuring cup, or a small katori to measure the same amount of water",
+     "item": "a measuring cup, or one small katori filled to the same level both times, to measure the same amount of water",
      "qty": 1
     },
     {
@@ -849,12 +921,12 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the hot water and carries the hot cup. Use water that is hot but not boiling. Close the freezer quickly each time, so the food inside stays frozen.",
+   "safety": "A grown-up pours the hot water and carries the hot cup. Use water that is hot but not boiling.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Fill two cups, one hot and one cold, put them in the freezer, then check every 15 minutes until one has ice on top. Play a game or read cards between checks."
+     "what": "Fill two cups, one hot and one cold, and put them in the freezer. Then check every 15 minutes until one has ice on top. Ice usually takes 1 to 2 hours, so your own time is about 30 minutes in all. Play a game or read cards between checks."
     }
    ],
    "record": "Fill in the table at each check. Write which cup got a skin of ice first, and how many minutes it took.",
@@ -902,9 +974,9 @@
      "id": "s4",
      "mins": 12,
      "do": "1. Every 15 minutes, open the freezer, look at both cups, and close it quickly. 2. Write what you see. 3. Between checks, play the card game or read the explanation cards.",
-     "say": "Look at the top of each cup. Is there a thin white skin of ice yet? Close the door quickly, so the freezer stays cold.",
+     "say": "Look at the top of each cup. Is there a thin white skin of ice yet? Close the door quickly.",
      "kid": "Every 15 minutes, look at both cups. Is there a skin of ice on top? Close the door fast. Write what you see.",
-     "wait": "Check every 15 minutes. It usually takes 1 to 2 hours for a skin of ice to form.",
+     "wait": "Check every 15 minutes. It usually takes 1 to 2 hours for a skin of ice to form. Your own time is the checks, about 12 minutes in all.",
      "parent": "In most home freezers, the cold water gets ice first. Sometimes the hot one does. If both freeze at about the same check, write 'same time'. A skin of ice is the easiest thing to judge. Don't wait for the whole cup to turn solid."
     },
     {
@@ -938,7 +1010,7 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Repeat the test another day, if your child wants, swapping which side of the shelf each cup goes on.",
+     "do": "If your child wants, repeat the test on another day, swapping which side of the shelf each cup goes on.",
      "say": "Scientists repeat a test before they trust it. If we try again with the cups swapped, will we get the same answer?",
      "kid": "Scientists always test again. Shall we try again another day? This time swap the cups' places.",
      "think": "If your answer was different from Mpemba's, does that mean he was wrong? Or that his freezer and cups were different?"
@@ -975,7 +1047,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the lemon. Wash hands before making food.",
+   "safety": "A grown-up cuts the lemon.",
    "schedule": [
     {
      "day": 1,
@@ -999,7 +1071,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Give out five jobs. 2. One person measures the jaggery and one stirs it into the water. 3. One squeezes the lemon, one adds the spices, and one strains and serves.",
-     "say": "We are going to make panakam together. Each of us has one job. Nobody can make it alone today.",
+     "say": "We are going to make panakam together. Each of us has one job.",
      "kid": "Today the family makes panakam together. Everyone gets one job. What is your job?",
      "context": "This is the start of the panakam activity. Each person does one part of the work."
     },
@@ -1032,7 +1104,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Now write a credit list, like the end of a film, naming every job and who did it.",
-     "say": "The pulsar paper had five names on it, but the Nobel Prize named only her supervisor. A credit list names everyone. Let's make one for our panakam.",
+     "say": "The pulsar paper had five names. The Nobel Prize named only Hewish and Ryle, not Jocelyn Bell. A credit list names everyone. Let's make one for our panakam.",
      "kid": "Make a credit list. Write each job and who did it. Everyone gets a line.",
      "think": "Which job did nobody notice, until you wrote the list?"
     }
@@ -1054,7 +1126,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1124,18 +1195,17 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Interview a grandparent, parent or neighbour about a happy accident, then draw it as a comic strip."
+     "what": "Interview a parent, a grandparent, a neighbour or another grown-up you know about a happy accident, then draw it as a comic strip."
     }
    ],
    "record": "Write down the answers, then draw the story in four boxes: the plan, the accident, the surprise, and what happened next.",
    "setup": [
     {
-     "art": "A girl sitting with her grandmother on a sofa, holding a notebook, the grandmother laughing as she tells a story.",
+     "art": "A girl sitting with a grown-up on a sofa, holding a notebook, the grown-up laughing as they tell a story.",
      "caption": "1. Ask a grown-up about a mistake that turned out well."
     },
     {
@@ -1148,9 +1218,9 @@
      "id": "s1",
      "mins": 8,
      "do": "Help your child ask these questions: What were you trying to do? What went wrong? What surprised you? Did you ever do it that way again on purpose?",
-     "say": "Scientists are not the only ones who find things by accident. Let's ask Paati about a mistake that turned out well.",
+     "say": "Scientists are not the only ones who find things by accident. Let's ask a grown-up about a mistake that turned out well.",
      "kid": "Ask a grown-up these questions. What were you trying to do? What went wrong? What surprised you? Did you do it again on purpose?",
-     "parent": "Kitchen stories work well: a batter left out too long, a dish with a wrong spice that the family now loves, a plant that grew from a thrown-away seed.",
+     "parent": "Kitchen stories work well: an idli or dhokla batter left out too long, a fish curry with the wrong spice that the family now loves, a plant that grew from a thrown-away seed.",
      "context": "This is the start of the happy accident interview. You ask a grown-up about a mistake that turned out well."
     },
     {
@@ -1187,7 +1257,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1257,22 +1326,22 @@
     },
     {
      "day": 2,
-     "mins": 10,
+     "mins": 5,
      "what": "Write down at least one surprise from the day."
     },
     {
      "day": 3,
-     "mins": 10,
-     "what": "Write down at least one surprise. Read back the first ones. Do any look alike?"
+     "mins": 5,
+     "what": "Write down at least one surprise from the day."
     },
     {
      "day": 4,
      "mins": 10,
-     "what": "Write down one more surprise. Choose the one you most want to explain."
+     "what": "Write down one more surprise. Read back all the entries. Do any look alike? Choose the one you most want to explain."
     },
     {
      "day": 5,
-     "mins": 10,
+     "mins": 20,
      "what": "Test your chosen surprise again on purpose. Did it happen again?"
     }
    ],
@@ -1296,7 +1365,7 @@
      "id": "s1",
      "mins": 10,
      "do": "Help your child rule four columns: Date, I expected, What happened, My guess why. Fill in one example together.",
-     "say": "Scientists keep notebooks so that small surprises don't get forgotten. Bell Burnell's scruff was found because she wrote everything down. Let's make yours.",
+     "say": "Scientists keep notebooks so that small surprises don't get forgotten. Let's make yours.",
      "kid": "Rule four columns. Date. I expected. What happened. My guess why. Write one surprise from today.",
      "parent": "A good first example: 'I expected the ice in my water to sink. It floated.' Any small surprise counts.",
      "context": "This is day 1 of My Surprise Notebook. You set up a notebook to catch small surprises, the way scientists do."
@@ -1307,12 +1376,12 @@
      "do": "At the end of the day, ask for one surprise and help write it down.",
      "say": "What happened today that you didn't expect? Even a small thing counts.",
      "kid": "What surprised you today? Write it in your notebook. Small things count.",
-     "wait": "Day 2. Repeat on days 3 and 4."
+     "wait": "Days 2 and 3."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 4, read back all the entries together and choose one to test.",
+     "do": "On day 4, ask for one more surprise and write it down. Then read back all the entries together and choose one to test.",
      "say": "Which surprise do you most want to explain? Can we make it happen again on purpose?",
      "kid": "Read all your surprises. Which one do you want to explain? Can you make it happen again?",
      "wait": "Day 4."
@@ -1467,16 +1536,16 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child designs the poster. Make up names if needed.",
+     "do": "Your child designs the poster. Use the names of people you know and make up the rest.",
      "say": "Does any name look more important than the others? Is that fair? Can a visitor see the jobs quickly?",
-     "kid": "Design your poster. Make up 30 names. Check: does any name look more important? Can you see the jobs fast?",
+     "kid": "Design your poster. Use names of people you know and make up the rest, 30 in all. Does any name look more important? Can you see the jobs fast?",
      "parent": "A good poster shows the jobs clearly and treats names equally. Some children decide the planner should be bigger. That is a real choice scientists argue about, so ask for a reason."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Show the poster to someone for 10 seconds and ask what jobs they saw.",
-     "say": "Did they see the jobs in 10 seconds? The pulsar paper had five names. Bell Burnell was second. What would a fair credit look like for the pulsar?",
+     "say": "Did they see the jobs in 10 seconds? The pulsar paper had five names, and Jocelyn Bell was second. What would a fair credit look like for a discovery like that?",
      "kid": "Show your poster to someone for 10 seconds. Ask what jobs they saw. Did it work?",
      "think": "Is it ever fair to give one person more credit than the others?"
     }
@@ -1644,7 +1713,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya says, 'Arjun found it by accident, so he gets no credit.' What is the best answer back?",
+   "p": "In the curd story, Divya's brother Arjun found the best place by accident. Divya says, 'Arjun found it by accident, so he gets no credit.' What is the best answer back?",
    "opts": [
     "She is right, accidents don't count",
     "Without Arjun's accident there would be no surprise to check, so he deserves some credit",
@@ -1690,7 +1759,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Kavya says, 'If an experiment gives the wrong result, it is always useless.' Is she right?",
+     "p": "Kavya, a girl in Class 4, says, 'If an experiment gives the wrong result, it is always useless.' Is she right?",
      "a": false,
      "why": "False. A wrong result can be useful for a different job, like Spencer Silver's weak glue, which became the glue on sticky notes. It also tells you what does not work. A strong answer gives an example."
     },
@@ -1775,7 +1844,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Too-Weak Tape Test, Lakshmi dabs one strip of tape on a cotton cloth 8 times. What happens to the tape?",
+     "p": "In the Too-Weak Tape Test, Lakshmi, a girl in Class 4, dabs one strip of tape on a cotton cloth 8 times. What happens to the tape?",
      "opts": [
       "It gets stickier",
       "Tiny cotton fibres cover parts of the glue, so it sticks more gently",
@@ -1788,7 +1857,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw what you saw on the newspaper after you peeled off the fresh tape. Label the torn part.",
+     "p": "Draw what you saw on the newspaper after you peeled off the fresh tape. Label any torn or furry part.",
      "a": "A drawing of the newspaper with a grey, furry patch or a torn strip where the fresh tape was, labelled.",
      "why": "Fresh tape grips the paper's fibres so tightly that the top fibres come away. A strong drawing shows the rough, furry patch clearly.",
      "art": "A blank rectangle for a newspaper page.",
@@ -1962,7 +2031,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan's tape test result: the fresh strip held its note but tore the newspaper. The strip dabbed 15 times fell off at once. The strip dabbed 3 times held and peeled off clean. Which strip is best for a note he wants to move around a book?",
+     "p": "Farhan, a boy in Class 4, does the tape test. His fresh strip held its note but tore the newspaper. His strip dabbed 15 times fell off at once. His strip dabbed 3 times held and peeled off clean. Which strip is best for a note he wants to move around a book?",
      "opts": [
       "The fresh strip",
       "The strip dabbed 3 times",
@@ -1975,7 +2044,7 @@
     },
     {
      "t": "write",
-     "p": "Fresh tape is stickier than dabbed tape. So why did the fresh tape do worse when Farhan tried to stick it again after peeling?",
+     "p": "Farhan, a boy in Class 4, sticks his fresh tape down again after it has torn the newspaper. Fresh tape is stickier than dabbed tape. So why does it do worse the second time?",
      "lines": 3,
      "a": "When the fresh tape tore the paper, paper fibres stuck to its glue. The fibres covered the glue, like the cloth fibres did, so it could not grip well the second time.",
      "why": "A strong answer spots that the torn paper did the same job as the cloth: it covered the glue.",
@@ -2017,22 +2086,15 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi's grandmother says her mistake, leaving dosa batter out on a hot day, gave the softest dosas ever. What should Meenakshi do to find out if it was more than luck?",
+     "p": "Meenakshi, a girl in Class 3, hears her grandmother say that leaving dosa batter out on a hot day by mistake gave the softest dosas ever. What should Meenakshi do to find out if it was more than luck?",
      "opts": [
-      "Believe it, because Paati is always right",
+      "Believe it, because her grandmother is always right",
       "Leave batter out on a warm day again, on purpose, and compare it with batter kept cool",
       "Forget it, because it was a mistake",
       "Ask a friend what they think"
      ],
      "a": 1,
      "why": "A surprise becomes knowledge only when it happens again on purpose, in a fair comparison. Batter does ferment faster in warmth, so the test would probably work. But testing is how you know."
-    },
-    {
-     "t": "draw",
-     "p": "Draw a comic strip in three boxes about Henri Becquerel in 1896: the cloudy sky, the drawer, and the fogged plate.",
-     "a": "Box 1: grey clouds and Becquerel waiting with uranium salts. Box 2: the salts in a drawer on top of a wrapped plate. Box 3: the developed plate with a dark shape on it.",
-     "why": "A strong comic shows that the plate fogged in the dark, with no sunlight, which is what showed the uranium was giving out rays by itself.",
-     "art": "Three empty comic boxes in a row."
     },
     {
      "t": "write",
@@ -2082,6 +2144,12 @@
       "Sticky notes go on sale in the USA"
      ],
      "why": "Silver made the glue in 1968 and spent years telling others about it. Fry used it for bookmarks in 1974. Sticky notes went on sale across the USA in 1980."
+    },
+    {
+     "t": "truefalse",
+     "p": "A strange result that only one person has seen, and nobody else can see again, is already a discovery.",
+     "a": false,
+     "why": "False. A discovery needs other people to be able to check it and see it too. Fleming grew his mould again, and Bell Burnell's signal came back day after day."
     }
    ]
   },
@@ -2134,12 +2202,6 @@
      "lines": 5,
      "a": "In 1928, Fleming noticed that mould killed bacteria on his dish. In 1940, Florey, Chain, Heatley and their Oxford team made it pure and showed it cured infected mice. Factory teams in Britain and the USA learned to make it in huge amounts. Dorothy Hodgkin found its shape in 1945.",
      "why": "A strong answer includes the noticing, the making, the testing and the many people, and keeps it short and true."
-    },
-    {
-     "t": "truefalse",
-     "p": "Most surprising results in science turn out to be real discoveries.",
-     "a": false,
-     "why": "False. Most surprising results turn out to be errors: a fault in a machine, a mistake in measuring, or a fluke. That is why scientists check and repeat before they believe them."
     },
     {
      "t": "mcq",
@@ -2198,7 +2260,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, 'If I am the first person ever to see something, then it is my discovery.' Is seeing something first enough? Use an example from this unit.",
+     "p": "Arjun, the 7-year-old boy in the curd story, says, 'If I am the first person ever to see something, then it is my discovery.' Is seeing something first enough? Use an example from this unit.",
      "lines": 4,
      "a": "Seeing it is not enough. You must also check it, explain it and tell others so they can see it too. Mould had landed on dishes before, but Fleming checked and wrote about it. Bell Burnell's signal was on the chart in August, but it became a discovery only when she noticed it and checked it.",
      "why": "A strong answer says that a discovery needs checking and sharing, and uses a real example."
@@ -2217,7 +2279,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya's freezer test: her hot water got ice after 90 minutes, and her cold water after 60 minutes. Erasto Mpemba found the opposite. What is the best thing to say?",
+     "p": "Kavya, a girl in Class 4, did the freezer test. Her hot water got ice after 90 minutes, and her cold water after 60 minutes. Erasto Mpemba found the opposite. What is the best thing to say?",
      "opts": [
       "Mpemba was lying",
       "Kavya did it wrong",
@@ -2231,17 +2293,17 @@
     {
      "t": "label",
      "p": "Label the parts of a discovery on this timeline of Becquerel's 1896 story: the plan, the accident, the surprise, the check.",
-     "a": "Plan: put uranium salts in sunlight on a wrapped plate. Accident: the sky was cloudy, so he put them in a drawer. Surprise: the plate was fogged anyway. Check: he did it again in the dark and got the same result.",
+     "a": "Plan: put uranium salts in sunlight on a wrapped plate. Accident: the sky was cloudy, so he put them in a drawer. Surprise: the plate was fogged anyway. Check: no sunlight had reached the plate in the drawer, so the uranium itself was giving out rays.",
      "why": "A strong answer finds each part. The check was the step that showed the uranium itself was giving out rays.",
      "art": "A timeline arrow with four blank boxes along it, each with a small picture: the sun, a cloud, a fogged plate, a closed drawer."
     },
     {
      "t": "fill",
-     "p": "Norman Heatley found ways to grow and clean enough penicillin for the Oxford tests. His work was finally honoured by Oxford University in the year ____.",
+     "p": "The first pulsar was found in 1967 by Jocelyn Bell. Half as a joke, the team first called its signal LGM-1, for 'little green ____'.",
      "a": [
-      "1990"
+      "men"
      ],
-     "why": "In 1990, 45 years after the Nobel Prize, Oxford gave Heatley an honorary doctorate in medicine, the first given to someone who was not a doctor."
+     "why": "They wondered for a short time if the regular pulses could be a message. A second pulsar in another part of the sky showed they came from a natural kind of object."
     },
     {
      "t": "write",
@@ -2277,6 +2339,13 @@
      ],
      "a": "pairs as given",
      "why": "Each of these people did key work. Some won other honours later, but they are left out of the famous version of the story."
+    },
+    {
+     "t": "write",
+     "p": "Choose one person from this unit who was left out of the credit. Write a short letter to a newspaper, in three sentences, telling what that person really did.",
+     "lines": 4,
+     "a": "For example: Norman Heatley found a way to grow and clean enough penicillin for the Oxford tests. Without his work, the mouse test could not have happened. He was not named in the 1945 Nobel Prize, and he should be remembered.",
+     "why": "A strong answer names the person, says exactly what they did, and says why it mattered to the discovery."
     }
    ]
   }
@@ -2299,7 +2368,7 @@
    "art": "A strip of tablets in a steel box beside a thermometer."
   },
   {
-   "text": "A bright purple or magenta sari in a shop window. Its colour comes from a chemical dye, like Perkin's mauve.",
+   "text": "A bright purple or magenta sari in a shop window. Its colour often comes from a chemical dye, like Perkin's mauve.",
    "art": "A row of saris in bright purple and magenta hanging in a shop in a busy market street."
   },
   {
@@ -2334,7 +2403,6 @@
   "Can you think of something at home that is 'broken' but perfect for a different job?",
   "When we cook together, whose name should go on the dish?",
   "If you found something amazing, who would you thank?",
-  "Why do you think stories about discoveries usually have only one hero?",
   "Is there anything you were told is true that you would like to test for yourself?"
  ],
  "jokes": [
@@ -2351,40 +2419,24 @@
    "a": "To stick with its studies."
   },
   {
-   "j": "What do you call a mistake that turns into a discovery?",
-   "a": "A lucky break."
-  },
-  {
    "j": "Why was the pulsar so good at music?",
    "a": "It always kept the beat."
-  },
-  {
-   "j": "Why did the scientist keep two cups in the freezer?",
-   "a": "To find out which one would chill out first."
   },
   {
    "j": "What did the tape say after it tore the newspaper?",
    "a": "Sorry, I got too attached."
   },
   {
-   "j": "Why did the scientist write everyone's name on the poster?",
-   "a": "Because every name counts."
+   "j": "Why did the sticky note get promoted?",
+   "a": "It was always on top of things."
   },
   {
-   "j": "What is a radio telescope's favourite kind of music?",
-   "a": "Pop, as long as it pulses."
+   "j": "Why did the mould win at the science fair?",
+   "a": "It really grew on the judges."
   },
   {
-   "j": "Why did the newspaper stay away from the fresh tape?",
-   "a": "It was afraid of being torn apart."
-  },
-  {
-   "j": "What did the freezer say to the hot cup?",
-   "a": "Take your time, I can wait."
-  },
-  {
-   "j": "Why did the bookmark love the weak glue?",
-   "a": "It never let things get too sticky."
+   "j": "Why was the radio telescope such a good listener?",
+   "a": "It was all ears, even for a star far away."
   }
  ],
  "maths": [
@@ -2397,7 +2449,7 @@
    "why_maths": "A pulse that comes at a fixed rate lets you predict exactly how many will come. That is how the team knew the signal was regular, not random."
   },
   {
-   "problem": "In the Too-Weak Tape Test, Kavya's strips stuck again this many times: fresh strip 1, dabbed 3 times 5, dabbed 8 times 3, dabbed 15 times 0. Which strip stuck again most, and how many more times than the fresh strip?",
+   "problem": "Kavya, a girl in Class 4, does the Too-Weak Tape Test. Her strips stuck again this many times: fresh strip 1, dabbed 3 times 5, dabbed 8 times 3, dabbed 15 times 0. Which strip stuck again most, and how many more times than the fresh strip?",
    "answer": "The strip dabbed 3 times. It stuck again 4 more times than the fresh strip.",
    "explain": "The strip dabbed 3 times stuck again 5 times. The fresh strip stuck again 1 time. 5 − 1 = 4. So it stuck 4 more times. The pattern is not 'more dabs, fewer sticks' all the way: the fresh strip did badly because torn paper covered its glue.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2438,7 +2490,7 @@
    "why_maths": "Subtracting dates shows how long a discovery really takes. The famous moment was quick, but the work took years."
   },
   {
-   "problem": "Kavya's freezer test: the cold cup got ice at 60 minutes, and the hot cup at 90 minutes. She checked every 15 minutes. How many checks did she make before the hot cup got ice?",
+   "problem": "Kavya, a girl in Class 4, tests hot and cold water in the freezer. The cold cup got ice at 60 minutes, and the hot cup at 90 minutes. She checked every 15 minutes. How many checks had she made by the time she saw ice on the hot cup?",
    "answer": "6 checks.",
    "explain": "She checked at 15, 30, 45, 60, 75 and 90 minutes. That is 6 checks. Or: 90 ÷ 15 = 6.",
    "math_unit": "math.time.duration.L3",
@@ -2596,10 +2648,10 @@
   },
   "three": {
    "who_am_i": "You are someone who can notice a surprise and ask why. That is where every discovery starts.",
-   "what_is_life": "Penicillium mould was making penicillin long before any person noticed. Living things had found it first.",
+   "what_is_life": "Penicillium mould was already making penicillin and killing bacteria long before any person noticed.",
    "what_is_this_world": "Pulsars spun in space for millions of years before 1967. The world is full of things that are there before anyone finds them."
   },
-  "thread": "The tape behaved in one way, whoever was watching. Its glue gripped the paper fibres harder than they gripped each other. That one happening was a failure to someone who wanted a clean page and a success to someone who wanted a firm hold. The many meanings come from the many people asking different questions. The happening underneath stays one and the same.",
+  "thread": "The tape behaved in one way, whoever was watching. Its glue gripped the paper fibres harder than they gripped each other. That one happening was a failure to someone who wanted a clean page and a success to someone who wanted a firm hold. The many meanings come from the many people asking different questions. The tape itself did the same thing for everyone.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 2",
@@ -2633,13 +2685,13 @@
    "kid": "Hold one 'failed' thing in your hand. Breathe slowly three times. Look at it like it is new. Think of three jobs it is perfect for. Say one with each breath."
   },
   "ask": [
-   "Penicillium mould made penicillin long before 1928. Who discovered it first: Fleming, or the mould?",
+   "Your fresh tape held best and tore the newspaper. Your dabbed tape held less and peeled off clean. Which tape was best?",
    "If a result is a mistake for one person and a gift for another, what is it really?",
    "When you learn something, how many people helped you learn it?"
   ],
   "art": "A child at a window at night holding a strip of tape up to the light, with faint pictures around her of a mould dish, a sticky note and a spinning star with two beams."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Too-Weak Tape Test: fresh cello tape on plain newspaper usually lifts a grey, furry patch or tears a strip when peeled, especially after a firm rub. Dabbing on a cotton cloth leaves visible fibres on the glue, and each dab weakens the strip, so 15 dabs usually cannot hold a paper note. Results vary with the tape, the cloth and the paper, so the step says to rub harder and wait 5 minutes if even the fresh strip comes off clean. The test takes about 30 minutes. Hot or cold freezing test: 100 ml of water in a steel tumbler usually gets a skin of ice in 1 to 2 hours in a home freezer, and in most homes the cold cup freezes first. The step says this honestly and treats any result as a real result. Panakam needs only jaggery, water, lemon and spices. Find the Scruff and the credit roll need paper and a pencil. The spine (intro, the Too-Weak Tape Test, Who Made the Panakam?, explanations, roots and quiz) fits about 85 minutes in two sessions.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Too-Weak Tape Test: fresh cello tape on plain newspaper usually lifts a grey, furry patch or tears a strip when peeled, especially after a firm rub. Dabbing on a cotton cloth leaves visible fibres on the glue, and each dab weakens the strip, so 15 dabs usually cannot hold a paper note. Results vary with the tape, the cloth and the paper, so the step says to rub harder and wait 5 minutes if even the fresh strip comes off clean, and to write down an unusual result honestly. It takes about 30 minutes. Hot or cold freezing test: 100 ml of water in a steel tumbler usually gets a skin of ice in 1 to 2 hours in a home freezer, with about 30 minutes of the family's own time for the checks, and in most homes the cold cup freezes first. The step says this honestly and treats any result as a real result. Panakam needs only jaggery, water, lemon and spices. Find the Scruff and the credit roll need paper and a pencil. Both card games were played in the head with 2 and with 4 players: the discovery cards carry their answers on the back, and the team game deals 6 cards each from 36, so a hand can hold all six jobs. The spine (intro, the Too-Weak Tape Test, Who Made the Panakam?, explanations, roots and quiz) fits about 85 minutes in two sessions.",
  "how_we_found_out": {
   "story": "In 1967, Jocelyn Bell was a research student at Cambridge University in England. She had helped to build a radio telescope, a field of wooden posts and wires bigger than two football grounds. It recorded radio waves from space as a wiggly ink line on long rolls of paper. Bell checked the paper by hand, many metres every week. Among the wiggles she noticed a small mark that she called 'a bit of scruff'. It kept coming back from the same patch of sky. On 28 November 1967 a faster recording showed what it was: a pulse every one and a third seconds, as regular as a clock. At first the team wondered if it was a fault, or radio noise from people on Earth. But the signal came back four minutes earlier each day, keeping time with the stars. Half as a joke, they named it LGM-1, for 'little green men'. Then, in December, Bell found a second source pulsing in another part of the sky. Two sets of aliens signalling at the same time was very unlikely. The pulses came from spinning dead stars, now called pulsars. The 1974 Nobel Prize went to her supervisor, Antony Hewish, and to Martin Ryle, not to her.",
   "who": "Jocelyn Bell (now Jocelyn Bell Burnell), a research student, with her supervisor Antony Hewish, at Cambridge University",

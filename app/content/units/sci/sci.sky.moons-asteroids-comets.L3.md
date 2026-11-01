@@ -193,7 +193,7 @@ Athai took something out of her pocket. It was a small paper packet from the kit
 
 'That's too small,' said Nila. 'You couldn't see something that small from 100 kilometres away.'
 
-'You can't see the grain,' said Athai. 'You see the light it makes. That grain was moving about 35 kilometres every second. At that speed, it could go from here to Thoothukudi in about 4 seconds. It hit the air so hard that it squashed the air in front of it. Squashed air gets hot. This air got so hot that the grain turned into glowing gas.'
+'You can't see the grain,' said Athai. 'You see the light it makes. That grain was moving about 30 kilometres every second. At that speed, it could go from here to Thoothukudi in about 4 seconds. It hit the air so hard that it squashed the air in front of it. Squashed air gets hot. This air got so hot that the grain turned into glowing gas.'
 
 Arjun held a grain of rava between his finger and thumb and looked at it very seriously.
 
@@ -217,7 +217,7 @@ Paati had come up the stairs slowly, carrying a plate of murukku. She sat down o
 
 Nila counted on her fingers. 'I'll be 44,' she said. 'I'll show it to my children.'
 
-'And some of the shooting stars you see each October,' said Athai, 'are dust that Halley's Comet left behind long ago. So you have already seen pieces of Paati's comet.'
+'And some of the shooting stars you see each October,' said Athai, 'are dust that Halley's Comet left behind long ago. So you may already have seen pieces of Paati's comet.'
 
 Paati laughed and patted Nila's head. 'Then the comet came back to see you,' she said.
 
@@ -241,19 +241,19 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 
 ## Games
 ### g1 · The Comet's Journey: a board game (20 min)
-- **rules:** Each player is a comet. Take 10 ice tokens and 10 dust tokens, and put your counter on square 1.; Take turns to roll the dice and move your comet that many squares along the track.; Dark blue squares are far from the Sun. Nothing happens.; Light blue squares are warming. Put 1 ice token back in the box.; Yellow squares are closest to the Sun. Put 2 ice tokens back in the box, and drop 1 dust token on the square you landed on.; After square 24, go back to square 1 and start another lap.; Each time anyone passes or lands on square 13, the Earth catches all the dust tokens on squares 12, 13 and 14. Count them aloud as shooting stars, then put them in the Earth's pile.; If you land on a square with dust already on it, pick a question card. Answer it right to get 1 ice token back.; A comet with no ice left has faded away. The player whose comet lasts the most laps wins. The Earth's pile shows how many shooting stars all the comets made together.
-- **Printable board: The comet path board:** A long oval track of 24 squares round a Sun drawn in the middle.; Squares 1 to 6 and 19 to 24 are far from the Sun, coloured dark blue: 'Cold. Nothing happens.'; Squares 7 to 10 and 15 to 18 are coloured light blue: 'Warming. Lose 1 ice token.'; Squares 11 to 14 are coloured yellow, closest to the Sun: 'Hot! Lose 2 ice tokens and drop 1 dust token on this square.'; Square 13 is also marked with a small Earth: 'The Earth's path crosses here.'
-- **Printable tokens: Tokens:** 10 white ice tokens for each comet (paper circles, grains of rice, or white beads); 10 dark dust tokens for each comet (paper circles coloured black, or rajma beans); 1 counter for each comet, and 1 small Earth counter; 1 dice
-- **Printable cards: 8 question cards:** Which way does a comet's tail point? (Away from the Sun); What is a comet made of? (Ice, dust and rock); What is a meteor? (The streak of light when a grain burns up in our air); Where are most asteroids? (Between Mars and Jupiter); Name a moon of Jupiter. (Io, Europa, Ganymede or Callisto); How many moons does Mars have? (Two, Phobos and Deimos); Why does a comet get a dark crust? (Its ice goes and the dust stays behind); Why does a meteor shower come on the same dates each year? (The Earth reaches the comet's dust trail at the same point in its path)
+- **rules:** Each player is a comet. Take 10 ice tokens and 10 dust tokens, and put your counter on square 1. You can play alone to see how many laps your comet lasts.; Take turns to roll the dice and move your comet that many squares along the track.; Dark blue squares are far from the Sun. Nothing happens.; Light blue squares are warming. Put 1 ice token back in the box.; Yellow squares are closest to the Sun. If the square already has dust on it, first pick a question card: answer it right to take 1 ice token back from the box (never more than 10). Then put 2 ice tokens back in the box and drop 1 dust token on the square. If you have no dust tokens left, only lose the ice.; After square 24, go back to square 1 and start another lap. Mark each finished lap on the score sheet.; Each time anyone passes or lands on square 13, the Earth catches all the dust tokens on the yellow squares (11 to 14). Count them aloud as shooting stars, then put them in the Earth's pile.; When the question cards run out, shuffle them and use them again.; A comet with no ice left has faded away and is out of the game. The game ends when every comet has faded. The player whose comet made the most laps wins, and a tie is shared. The Earth's pile shows how many shooting stars all the comets made together.
+- **Printable board: The comet path board: 24 squares round a Sun:** Square 1 (dark blue, START): Cold. Nothing happens.; Square 2 (dark blue): Cold. Nothing happens.; Square 3 (dark blue): Cold. Nothing happens.; Square 4 (dark blue): Cold. Nothing happens.; Square 5 (dark blue): Cold. Nothing happens.; Square 6 (dark blue): Cold. Nothing happens.; Square 7 (light blue): Warming. Lose 1 ice token.; Square 8 (light blue): Warming. Lose 1 ice token.; Square 9 (light blue): Warming. Lose 1 ice token.; Square 10 (light blue): Warming. Lose 1 ice token.; Square 11 (yellow): Hot! Lose 2 ice tokens and drop 1 dust token on this square.; Square 12 (yellow): Hot! Lose 2 ice tokens and drop 1 dust token on this square.; Square 13 (yellow): Hot! Lose 2 ice tokens and drop 1 dust token on this square. A small Earth is drawn here: the Earth's path crosses at this square.; Square 14 (yellow): Hot! Lose 2 ice tokens and drop 1 dust token on this square.; Square 15 (light blue): Warming. Lose 1 ice token.; Square 16 (light blue): Warming. Lose 1 ice token.; Square 17 (light blue): Warming. Lose 1 ice token.; Square 18 (light blue): Warming. Lose 1 ice token.; Square 19 (dark blue): Cold. Nothing happens.; Square 20 (dark blue): Cold. Nothing happens.; Square 21 (dark blue): Cold. Nothing happens.; Square 22 (dark blue): Cold. Nothing happens.; Square 23 (dark blue): Cold. Nothing happens.; Square 24 (dark blue): Cold. Nothing happens. After this square, go back to square 1.
+- **Printable tokens: Tokens:** 10 white ice tokens for each comet (paper circles, grains of rice, or white beads); 10 dark dust tokens for each comet (paper circles coloured black, or rajma beans); 1 counter for each comet (a button, a coin or a bead); 1 dice
+- **Printable cards: 8 question cards:** Which way does a comet's tail point? (back: Away from the Sun); What is a comet made of? (back: Ice, dust and rock); What is a meteor? (back: The streak of light when a grain burns up in our air); Where are most asteroids? (back: Between Mars and Jupiter); Name a moon of Jupiter. (back: Io, Europa, Ganymede or Callisto); How many moons does Mars have? (back: Two, Phobos and Deimos); Why does a comet get a dark crust? (back: Its ice goes and the dust stays behind); Why does a meteor shower come on the same dates each year? (back: The Earth reaches the comet's dust trail at the same point in its path)
 - **Printable score sheet: Score sheet:** Player name; Ice tokens left; Laps finished; Shooting stars caught by the Earth
 - **s1 (3 min)**  
   *Parent does:* 1. Print or draw the board. 2. Give each player a counter, 10 ice tokens and 10 dust tokens.  
   *Parent says:* You are each a comet. Far from the Sun, you stay frozen. Near the Sun, you lose ice and drop dust along your path.  
   *Child mode:* You are a comet. Take your ice and dust tokens. Start on square 1.
 - **s2 (14 min)**  
-  *Parent does:* Play as in the rules. Each time a comet lands on a yellow square, ask one question.  
+  *Parent does:* Play as in the rules. When a comet lands on a yellow square that already has dust, ask one question card.  
   *Parent says:* You're on a yellow square, close to the Sun. What happens to your ice? What is your tail doing now?  
-  *Child mode:* Roll and move. On yellow, lose 2 ice and drop 1 dust.
+  *Child mode:* Roll and move. On yellow, lose 2 ice and drop 1 dust. Answer a question if there is dust already.
   - Check: In The Comet's Journey, where do comets lose the most ice? → **On the yellow squares, closest to the Sun**
 - **s3 (3 min)**  
   *Parent does:* At the end, count the Earth's pile of dust tokens.  
@@ -261,29 +261,29 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Child mode:* Count the Earth's dust. Where did it come from? What happened to the comets?
   - Ask: Where did the Earth's shooting stars come from? (good: From the dust the comets dropped near the Sun.; From comets losing bits of themselves.)
 ### g2 · Quick Call: meteoroid, meteor or meteorite? (10 min)
-- **rules:** Each player has three answer cards: meteoroid, meteor and meteorite.; The caller reads one clue card aloud.; Everyone holds up the card they think is right. The first right card scores 2 points. Every other right card scores 1 point.; The caller reads the answer and says why.; After 12 clues, the player with the most points wins. Then swap callers.
-- **Printable cards: 3 big answer cards for each player:** METEOROID: a bit of rock in space; METEOR: the streak of light; METEORITE: the piece that lands
-- **Printable cards: 12 clue cards for the caller:** Kavya sees a streak of light in the sky. (meteor); A grain of dust drifts past the Moon. (meteoroid); Farhan finds a heavy black stone with a smooth crust after a bright flash. (meteorite); It glows about 100 km above the ground. (meteor); It is in a museum, and you can touch it. (meteorite); It is a bit of dust that fell off a comet, still out in space. (meteoroid); People make a wish on it. (meteor); Scientists cut it open to look at the minerals inside. (meteorite); It is heading towards the Earth at 30 km every second, but has not reached the air yet. (meteoroid); It lasts less than a second. (meteor); It was found on the ice in Antarctica. (meteorite); It is floating in the asteroid belt and is too small to be called an asteroid. (meteoroid)
-- **Printable score sheet: Score sheet:** Player name; Right first; Right
+- **rules:** Each player has three answer cards: meteoroid, meteor and meteorite.; The caller reads one clue card aloud and keeps the answer on the back hidden.; Everyone else holds up the card they think is right, as fast as they can. The first right card scores 2 points. Every other right card scores 1 point. A wrong card scores nothing.; The caller reads the answer and says why.; After 6 clues, swap: the caller becomes a player and another player becomes the caller. With two people, you just swap jobs.; After all 12 clues, add up the points. The most points wins, and a tie is shared.
+- **Printable cards: 3 big answer cards (make one set for each player):** METEOROID: a bit of rock in space; METEOR: the streak of light; METEORITE: the piece that lands
+- **Printable cards: 12 clue cards for the caller (clue on the front, answer on the back):** A girl sees a streak of light in the sky. (back: Meteor); A grain of dust drifts past the Moon. (back: Meteoroid); A boy finds a heavy black stone with a smooth crust after a bright flash. (back: Meteorite); It glows about 100 km above the ground. (back: Meteor); It is in a museum, and you can touch it. (back: Meteorite); It is a bit of dust that fell off a comet, still out in space. (back: Meteoroid); People make a wish on it. (back: Meteor); Scientists cut it open to look at the minerals inside. (back: Meteorite); It is speeding towards the Earth, but has not reached our air yet. (back: Meteoroid); It lasts only a second or two. (back: Meteor); It was found on the ice in Antarctica. (back: Meteorite); It is floating in the asteroid belt and is too small to be called an asteroid. (back: Meteoroid)
+- **Printable score sheet: Score sheet:** Player name; Points from clues 1 to 6; Points from clues 7 to 12; Total
 - **s1 (2 min)**  
   *Parent does:* Give each player the three answer cards. Read the three meanings aloud.  
   *Parent says:* Meteoroid is in space. Meteor is the light in the sky. Meteorite is the piece that lands.  
   *Child mode:* Meteoroid: in space. Meteor: the light. Meteorite: the piece that lands.
 - **s2 (8 min)**  
-  *Parent does:* Read the 12 clues, one at a time. After each, say the answer and why.  
+  *Parent does:* Read the 12 clues, one at a time. After each, say the answer and why. Swap callers after 6 clues.  
   *Parent says:* Here's the clue. Hold up your card! Why did you pick that one?  
-  *Child mode:* Listen to the clue. Hold up your card fast!
+  *Child mode:* Listen to the clue. Hold up your card fast! Swap callers halfway.
   - Check: In Quick Call, the clue is: 'It glows about 100 km above the ground.' Which card is right? → **Meteor**
 
 ## Experiments
-### e1 · The Ice Comet: what happens to its dirt in the sun? (45 min, 2 days)
+### e1 · The Ice Comet: what happens to its dirt in the sun? (57 min, 2 days)
 - **question:** When an icy, dirty ball is warmed by the sun, what happens to its ice and to its dirt?
 - **predict:** Guess first. One ice comet sits in the sun and one in the shade. Which will shrink faster? As the ice goes, will the comet get cleaner, stay the same colour, or get darker? Why do you think so?
 - **fair test:** Make both ice comets the same way, from the same amount of crushed ice and the same amount of dirt, in two bowls of the same size. Put them on the same kind of plate. Change only one thing: one sits in a sunny spot and one in the shade. Measure both at the same times.
 - **safety:** A grown-up crushes the ice with the rolling pin. Wash hands after touching soil. Don't eat the ice comets.
 - **record:** Fill in the table. Draw both ice comets at the start and at 30 minutes, showing where the dirt is.
 - **results table:** Time (minutes) | Sunny comet: height (cm) | Sunny comet: dirt on top (1 a little, 2 some, 3 a dark crust) | Shady comet: height (cm) | Shady comet: dirt on top (1, 2 or 3)
-- **schedule:** day 1: Crush the ice, mix in the dirt, press it into two katoris and freeze overnight. (10 min); day 2: Guess. Put one ice comet in the sun and one in the shade. Measure and look every 10 minutes for 30 minutes. Compare. (35 min)
+- **schedule:** day 1: Crush the ice, mix in the dirt, press it into two katoris and freeze overnight. (10 min); day 2: Guess. Put one ice comet in the sun and one in the shade. Measure and look every 10 minutes for 30 minutes. Compare. (47 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Put about 16 ice cubes in a folded towel or a plastic bag. 2. Crush them with a rolling pin into small pieces. 3. In each katori, mix half the crushed ice with 1 spoon of soil and 1 spoon of tea leaves. 4. Press it down hard with a spoon. 5. Put both katoris in the freezer overnight.  
   *Parent says:* We are going to make two small comets. A real comet is a lump of ice, dust and rock. Ours is ice and dirt pressed together.  
@@ -306,11 +306,11 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Parent says:* Sunny comet here, shady comet there. Now we wait 10 minutes.  
   *Child mode:* Put one plate in the sun. Put one in the shade. Start the timer.
   - Note: If no spot gets direct sun today, put one plate on top of a steel vessel of warm tap water, and the other on the counter. The warm water plays the part of the Sun.
-- **s5 (15 min)**  
+- **s5 (30 min)**  
   *Parent does:* 1. Every 10 minutes, for 30 minutes, measure the height of each comet. 2. Score the dirt on top of each one: 1, 2 or 3. 3. Look at the water in each plate. Is it clear or muddy? 4. Write everything in the table.  
   *Parent says:* Time to look. How tall is each comet now? What is happening to the dirt on top? Is the water in the plate clear or muddy?  
   *Child mode:* Every 10 minutes, measure both comets. Score the dirt on top. Look at the water in the plate.
-  - Note: In direct sun, the sunny comet usually shrinks by 1 to 2 cm in 30 minutes and gets a dark, gritty crust. The shady one changes more slowly. Tea leaves cling to the ice, so the crust is easy to see. If both look the same, leave them another 20 minutes.
+  - Note: In direct sun, the sunny comet usually shrinks by 1 to 2 cm in 30 minutes and gets a dark, gritty crust. The shady one changes more slowly. Tea leaves cling to the ice, so the crust is easy to see. If both look the same, leave them another 20 minutes. The shady comet melts too, because an Indian room is warm, only more slowly. Far out in space, away from the Sun, a comet would not change at all.
   - Check: In the ice comet test, after 30 minutes, what does the top of the sunny comet look like? → **Darker, with a crust of dirt on top**
 - **s6 (4 min)**  
   *Parent does:* Tell your child how this fits a real comet.  
@@ -325,7 +325,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 ### e2 · Fan and Tail: does a comet's tail stream out behind it? (20 min)
 - **question:** Does a comet's tail always stream out behind it, or does it point away from the Sun?
 - **predict:** Guess first. The fan is the Sun. When you walk slowly away from the fan with your paper comet, will its tail be behind your hand or in front of it? Why do you think so?
-- **fair test:** Use the same paper comet and the same fan speed every time. Walk at the same slow speed. Change only one thing: which way you walk compared with the fan. Try each way twice.
+- **fair test:** Use the same paper comet and the same fan speed every time. Walk at the same slow speed. Change only one thing: which way you walk compared with the fan.
 - **safety:** Keep hands, hair and the tissue tail at least one metre from the fan. A grown-up switches the fan on and off.
 - **record:** Draw a small picture for each walk: the fan, your comet, an arrow for the way you walked, and the tail.
 - **results table:** Fan on or off | Which way I walked | Which way the tail pointed | Drawing
@@ -345,7 +345,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: Why do you think so? (good: Behind, because tails always trail behind.; In front, because the fan blows it.)
   - Note: Most children guess the tail stays behind, because that is what happened with the fan off. Let the test show them.
 - **s4 (7 min)**  
-  *Parent does:* 1. Stand 2 metres in front of the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly backwards, away from the fan. 5. After each walk, draw which way the tail pointed.  
+  *Parent does:* 1. Stand 2 metres from the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly away from the fan. 5. After each walk, draw which way the tail pointed.  
   *Parent says:* Walk slowly towards the fan. Now sideways. Now away. Where is the tail each time? Is it behind your hand, or pointing away from the fan?  
   *Child mode:* Walk towards the fan. Then sideways. Then away. Draw the tail each time.
   - Note: Walk slowly, about one small step each second. If you walk fast, your own movement can beat the fan's air and the tail flops. That is a fair thing to notice.
@@ -358,7 +358,6 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 
 ## Activities
 ### a1 · How Small Is a Shooting Star? A grain of rava and a map (12 min)
-- **safety:** None needed.
 - **record:** Draw one grain of rava as it looks under the magnifying glass. Next to it, write: most shooting stars are made by grains this size or smaller.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to show with their hands how big the thing that makes a shooting star is.  
@@ -382,9 +381,9 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Child mode:* The grain is tiny and 100 km away. How can you see its light? Think about it.
   - Think: How can a tiny grain make a light you can see from 100 kilometres away?
 ### a2 · Galileo's Dots: stars or moons? (15 min)
-- **safety:** Keep small buttons and beads away from children under 3.
+- **safety:** Keep small buttons and beads away from children under 5.
 - **record:** Write one sentence: the dots are stars or moons, because...
-- **Printable cards: Six nights of Jupiter (made-up, like Galileo's drawings):** Night 1: two dots on the left of Jupiter, one dot on the right.; Night 2: no dots on the left, three dots on the right.; Night 3: two dots on the left, none on the right.; Night 4: one dot on the left, one dot on the right.; Night 5: one dot on the left, three dots on the right.; Night 6: three dots on the left, one dot on the right.
+- **Printable cards: Six nights of Jupiter: draw each one (made-up, like Galileo's drawings):** Night 1: draw a circle for Jupiter, with two dots on its left and one dot on its right, all in one line.; Night 2: draw a circle for Jupiter, with no dots on its left and three dots on its right, all in one line.; Night 3: draw a circle for Jupiter, with two dots on its left and none on its right, all in one line.; Night 4: draw a circle for Jupiter, with one dot on its left and one dot on its right, all in one line.; Night 5: draw a circle for Jupiter, with one dot on its left and three dots on its right, all in one line.; Night 6: draw a circle for Jupiter, with three dots on its left and one dot on its right, all in one line.
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the six nights. 2. Ask them to look at where the dots are each night.  
   *Parent says:* In January 1610, Galileo looked at Jupiter through his small telescope. He saw tiny dots in a line beside it. He drew them every night. These drawings are like his. What do you notice about the dots?  
@@ -402,7 +401,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: What did the buttons look like from the side? (good: They moved left and right in a line.; Sometimes one hid behind the plate.)
   - Note: From the side, a button going round in a circle looks like it moves left and right along a line, exactly like Galileo's dots.
 - **s4 (3 min)**  
-  *Parent does:* Watch the NASA Juno video of the moons going round Jupiter together, if you can.  
+  *Parent does:* Watch the short NASA Juno video in this unit's video list, if you can.  
   *Parent says:* Galileo worked out that these were four moons going round Jupiter. That was a big surprise. Many people then taught that everything in the sky goes round the Earth. Here were four things going round something else.  
   *Child mode:* Galileo found four moons going round Jupiter. Not everything goes round the Earth!
   - Ask: Why did this surprise people in 1610? (good: They thought everything went round the Earth.; These moons went round Jupiter instead.)
@@ -419,27 +418,27 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Parent says:* Every time you see one, say 'there!' and make a mark. Look at a big part of the sky, not one spot.  
   *Child mode:* Say 'there!' for each shooting star. Make a mark in your notebook.
   - Ask: Where in the sky did they seem to come from? (good: From one part of the sky.; From near the twin stars, in Gemini.)
-  - Note: Geminid meteors seem to come from near two bright stars, Castor and Pollux, in the Gemini group of stars, high in the east late at night. Seeing none is a real result. Write it down too.
+  - Note: Geminid meteors seem to come from near two bright stars, Castor and Pollux, in the Gemini group of stars, rising in the east in the evening and high overhead by midnight. Seeing none is a real result. Write it down too.
 ### a4 · Space Rock Sort: what is it? (12 min)
-- **safety:** None needed.
 - **record:** Copy the six labels and one clue for each into your notebook.
-- **Printable cards: 12 clue cards:** I go round Mars. My name is Phobos. (moon); I am the biggest moon of all, and I go round Jupiter. (moon); I am a lump of rock and metal between Mars and Jupiter. (asteroid); I am Ceres, the biggest of my kind, in the belt between Mars and Jupiter. (asteroid); I am ice and dust. Near the Sun I grow a long tail. (comet); I come back about every 76 years. People last saw me in 1986. (comet); I am a grain of dust floating in space. (meteoroid); I am a bit of rock in space, too small to call an asteroid. (meteoroid); I am a streak of light in the sky, gone in a second. (meteor); People call me a shooting star. (meteor); I fell from space and landed in a field. (meteorite); I was found on the ice of Antarctica, with a dark crust from my fall. (meteorite)
+- **Printable cards: 6 labels:** moon; asteroid; comet; meteoroid; meteor; meteorite
+- **Printable cards: 12 clue cards (clue on the front, answer on the back):** I go round Mars. My name is Phobos. (back: Moon); I am the biggest moon of all, and I go round Jupiter. (back: Moon); I am a lump of rock and metal between Mars and Jupiter. (back: Asteroid); I am Ceres, the biggest object in the belt between Mars and Jupiter. (back: Asteroid); I am ice and dust. Near the Sun I grow a long tail. (back: Comet); I come back about every 76 years. People last saw me in 1986. (back: Comet); I am a grain of dust floating in space. (back: Meteoroid); I am a bit of rock in space, too small to call an asteroid. (back: Meteoroid); I am a streak of light in the sky, gone in a second. (back: Meteor); People call me a shooting star. (back: Meteor); I fell from space and landed in a field. (back: Meteorite); I was found on the ice of Antarctica, with a dark crust from my fall. (back: Meteorite)
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the six labels. 2. Read each label aloud and give one short meaning.  
   *Parent says:* A moon goes round a planet. An asteroid is a rocky lump going round the Sun. A comet is ice and dust. A meteoroid is a small bit of rock in space. A meteor is the streak of light. A meteorite is a piece that lands.  
   *Child mode:* Read the six labels. A moon goes round a planet. A meteor is a streak of light.
 - **s2 (7 min)**  
-  *Parent does:* Your child reads each clue card and puts it under a label. The answers are in brackets on the cards. Cover them or cut them off first.  
+  *Parent does:* Your child reads each clue card and puts it under a label. The answer is on the back of each card. Keep it hidden until your child has chosen.  
   *Parent says:* Read the clue. Which label does it go under? Why?  
   *Child mode:* Read each clue. Put it under the right label. Say why.
-  - Check: Lakshmi finds a dark stone in her field the morning after a bright flash in the sky. If it came from space, what is the stone called? → **A meteorite**
+  - Check: Chitra, a farmer in Tamil Nadu, finds a dark stone in her field the morning after a bright flash in the sky. If it came from space, what is the stone called? → **A meteorite**
 - **s3 (2 min)**  
   *Parent does:* Look at the meteoroid, meteor and meteorite cards together.  
   *Parent says:* These three are the same kind of rock at three moments. In space, in the air, and on the ground.  
   *Child mode:* Meteoroid, meteor, meteorite. Same rock. In space, in the air, on the ground.
-  - Ask: Put these in order: meteorite, meteoroid, meteor. (good: Meteoroid, then meteor, then meteorite.)
+  - Ask: Which of the three could you hold in your hand? (good: The meteorite. A meteor is only light, and a meteoroid is still out in space.)
 ### a5 · Magnet Dust Hunt: could any of this dust be from space? (20 min)
-- **safety:** Wear a mask or don't breathe in the dust. Wash hands afterwards. A grown-up goes with the child to any rooftop drain.
+- **safety:** Don't breathe in the dust. Wash hands afterwards.
 - **record:** Draw three grains you found. Write which ones are round.
 - **s1 (5 min)**  
   *Parent does:* 1. Sweep about one spoon of dust from a balcony corner or window ledge onto white paper. 2. Put the magnet inside the plastic bag.  
@@ -449,13 +448,13 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Parent does:* 1. Hold the wrapped magnet just above the dust and move it slowly. 2. Lift it over a clean sheet of paper. 3. Pull the magnet out of the bag, and the grains drop off onto the paper.  
   *Parent says:* Did anything jump up to the magnet? Let's drop the grains onto clean paper.  
   *Child mode:* Move the magnet over the dust. Then drop the grains on clean paper.
-  - Note: City dust almost always has some black grains that stick to a magnet. The plastic bag stops them sticking to the magnet itself, which is hard to clean.
+  - Note: City dust almost always has some black grains that stick to a magnet. The plastic bag stops them sticking to the magnet itself, which is hard to clean. If nothing sticks, that is a real result. Try dust from another place, or a stronger magnet.
 - **s3 (7 min)**  
   *Parent does:* Look at the grains with a magnifying glass or the phone camera. Look for any that are perfectly round and shiny.  
   *Parent says:* Most of these grains come from the city: from roads, brakes, old iron and smoke. A very few might come from space. Space dust that melted on the way down often becomes a tiny round, shiny bead. Can you see any round ones?  
   *Child mode:* Look closely. Most grains come from the city. Round shiny beads might be from space!
-  - Note: Be honest with your child: you probably can't tell which grains, if any, came from space. In 2017, scientists who searched rooftop gutters in Oslo, Paris and Berlin found a few hundred space grains in hundreds of kilograms of dirt, using a microscope.
-  - Check: Divya finds a tiny round black bead in her balcony dust. It sticks to a magnet. What can she say for sure? → **It has iron in it, but it may or may not be from space**
+  - Note: Be honest with your child: you probably can't tell which grains, if any, came from space. Scientists have found real space grains in rooftop gutter dirt from cities such as Oslo, but only by sorting through a lot of dirt under a microscope.
+  - Check: Divya, a girl in Class 4, finds a tiny round black bead in her balcony dust. It sticks to a magnet. What can she say for sure? → **It has iron in it, but it may or may not be from space**
 - **s4 (3 min)**  
   *Parent does:* Talk about what you found.  
   *Parent says:* Even if we can't tell which ones, space dust really is falling on our building every day. The Earth is still collecting bits from space.  
@@ -479,11 +478,11 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Note: On most nights you see two, three or four dots. Holding the binoculars still is the hardest part, so rest them on something. Lying back on a chair with the binoculars on your chest can help.
   - Wait: Look again tomorrow at the same time.
 - **s3 (20 min) · grown-up needed**  
-  *Parent does:* On nights 2, 3 and 4, look again at the same time and draw the dots.  
+  *Parent does:* On nights 2 and 3, look again at the same time and draw the dots.  
   *Parent says:* Where are the dots tonight? Have any moved, or gone missing?  
   *Child mode:* Look again. Draw the dots. Have they moved?
-- **s4 (20 min)**  
-  *Parent does:* 1. Lay the four drawings side by side. 2. Use Stellarium Web to see the names of the moons on those nights.  
+- **s4 (20 min) · grown-up needed**  
+  *Parent does:* 1. On night 4, look again at the same time and draw the dots. 2. Lay the four drawings side by side. 3. Use Stellarium Web to see the names of the moons on those nights.  
   *Parent says:* Look at all four nights. Did the dots stay still, like stars, or move like moons? Galileo saw just this in 1610.  
   *Child mode:* Look at all four drawings. Did the dots move? Then they are moons!
   - Ask: How do you know the dots are moons and not stars? (good: They changed places each night.; They moved from one side of Jupiter to the other.)
@@ -499,6 +498,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Parent does:* 1. Drop a plain paper cup, open end up, from 50 cm onto the tray. 2. Watch what happens.  
   *Parent says:* This is our first lander. Let's drop it from 50 cm. Does it stay upright, bounce or fall over?  
   *Child mode:* Drop the plain cup from 50 cm. Does it bounce or fall over?
+  - Note: On Earth a paper cup may just tip over rather than bounce, because gravity here is strong. On a comet the pull is so weak that a bump sends a lander far up again. Treat tipping over as the same failure.
 - **s2 (15 min)**  
   *Parent does:* 1. Change the lander using the materials. 2. Test it three times. 3. Change it again if it fails.  
   *Parent says:* In 2014, a lander called Philae reached comet 67P. Its harpoons did not fire, and it bounced twice before stopping in a shadow. Design yours so it stays.  
@@ -510,8 +510,8 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Child mode:* Show your best lander. What stopped the bounce?
   - Ask: Why is it hard to land on a comet? (good: It pulls so weakly that you bounce off.; Its gravity is very weak.)
 ### c2 · Is This Stone from Space? Plan the tests (20 min)
-- **problem:** Nila's uncle finds a heavy dark stone in his field near Salem after a loud bang in the night. Plan tests that could show whether it is a meteorite or an ordinary stone.
-- **your turn:** Now pick one ordinary stone at home. Do your tests on it. Write what each test shows.
+- **problem:** Nila, the girl in the story Seven Shooting Stars over Madurai, has an uncle who finds a heavy dark stone in his field near Salem after a loud bang in the night. Plan tests that could show whether it is a meteorite or an ordinary stone.
+- **your turn:** A friend says: 'The stone is heavy and dark, so it must be a meteorite.' Write what you would tell your friend, and which test you would do next.
 - **constraints:** Use only tests a family can do at home first.; Say what result would point to a meteorite, and what would point to an ordinary stone.; Say who you would send it to for a final answer.
 - **general:** Many meteorites have iron and nickel in them, so they stick to a magnet.; Many meteorites feel heavier than an ordinary stone of the same size.; A fresh meteorite has a thin, dark, smooth crust, from melting on the way down.; A university or the Geological Survey of India can test it for certain.
 - **creative:** Compare it with a photo of a known meteorite from a museum website.; Ask neighbours if they saw a bright flash or heard a bang at the same time.; Look for bubbles: most meteorites do not have the small holes many volcanic stones have.
@@ -520,7 +520,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Parent says:* Nila's uncle found a heavy dark stone after a bang in the night. How could we find out if it came from space?  
   *Child mode:* A stone fell after a bang. How could you test if it came from space?
 - **s2 (10 min)**  
-  *Parent does:* 1. Try the magnet test on ordinary stones at home. 2. Feel how heavy each stone is for its size. 3. Look at the outside of each one.  
+  *Parent does:* 1. Hold the magnet to each ordinary stone. 2. Feel how heavy each stone is for its size. 3. Look at the outside of each one. This shows what an ordinary stone does, so you know what would be different about a meteorite.  
   *Parent says:* Does the magnet stick? Does it feel heavy for its size? Is the outside smooth and dark, or rough and grey?  
   *Child mode:* Try the magnet. Feel how heavy it is. Look at the outside.
   - Note: Most ordinary stones don't stick to a magnet, but some do, if they have iron minerals in them. So one test is not enough. That is a good lesson.
@@ -528,7 +528,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   *Parent does:* Ask your child to write a plan with three tests.  
   *Parent says:* Write three tests. For each one, what result would make you think 'meteorite'?  
   *Child mode:* Write three tests. Say what each result would mean.
-  - Ask: Why is one test not enough? (good: Some ordinary stones stick to magnets too.; A test can fool you, so you check in more ways.)
+  - Ask: Which of your three tests is the strongest, and why? (good: The magnet, because iron is rare in ordinary stones.; Sending it to experts, because they can test what it is made of.)
 
 ## Worksheets
 ### Moons, Asteroids, Comets and Shooting Stars (core) (core, 15 questions)
@@ -559,8 +559,8 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 12. (odd) Which one is the odd one out?  
    Options: Io / Europa / Ceres / Callisto  
    **Answer:** 2. *Why:* Ceres is an asteroid, going round the Sun. Io, Europa and Callisto are moons of Jupiter.
-13. (perspective) Two friends in Chennai, Kavya and Farhan, saw Comet NEOWISE in July 2020.  
-   **Answer:** A strong answer picks a side with evidence, such as comets returning on paths we can work out. It also gives the other side its due: Kavya is right that seeing a comet is special and makes people happy, as it did for Paati in the story. Farhan is right about what a comet is made of.. *Why:* People have felt strongly about comets for thousands of years. Science tells us what a comet is, while how people feel about seeing one is their own.
+13. (perspective) Two friends in Guwahati, Bornali and Farhan, heard about Comet NEOWISE in July 2020.  
+   **Answer:** A strong answer picks a side with evidence, such as comets returning on paths we can work out. It also gives the other side its due: Bornali is right that seeing a comet is special and makes people happy, as it did for Paati in the story. Farhan is right about what a comet is made of.. *Why:* People have felt strongly about comets for thousands of years. Science tells us what a comet is, while how people feel about seeing one is their own.
 14. (label) Label the parts of the comet on the drawing: nucleus, coma, gas tail, dust tail, and an arrow showing the way to the Sun.  
    **Answer:** The nucleus is the small solid lump in the centre. The coma is the glowing cloud round it. The gas tail is straight and thin. The dust tail is wider and curved. Both tails point away from the arrow to the Sun.. *Why:* A strong answer puts both tails on the side away from the Sun.
 15. (fill) When a solid, such as a comet's ice, turns straight into a gas without melting first, this is called ____.  
@@ -571,18 +571,18 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
    **Answer:** Away from the fan, not behind her hand. *Why:* The fan's air pushes the tail away from the fan, whichever way she walks. Picking 'behind her hand' is what happened with the fan off.
 2. (write) With the fan off, the paper comet's tail trailed behind. With the fan on, it pointed away from the fan. What does this tell you about real comets and the Sun?  
    **Answer:** A comet's tail is not made by the comet moving. It is pushed by the Sun. So a real comet's tail points away from the Sun, even when the comet is moving away from the Sun.. *Why:* A strong answer compares the two parts of the test and links the fan to the Sun's push.
-3. (truefalse) The fan in the fan test is just like the Sun, because both push in one direction only.  
-   **Answer:** False. *Why:* False. A fan blows one way. The Sun pushes out in every direction, so a comet's tail points away from the Sun wherever the comet is. A strong answer says how the model and the real thing differ.
-4. (write) Ganymede is wider than the planet Mercury. So why is Ganymede called a moon and not a planet?  
+3. (write) Ganymede is wider than the planet Mercury. So why is Ganymede called a moon and not a planet?  
    **Answer:** Because Ganymede goes round Jupiter, not round the Sun on its own path. A moon is named by what it goes round, not by how big it is.. *Why:* A strong answer says 'moon' means a world that goes round a planet.
+4. (truefalse) Our Moon is the biggest moon in the solar system.  
+   **Answer:** False. *Why:* False. Ganymede, a moon of Jupiter, is the biggest. Our Moon is the fifth biggest.
 5. (mcq) Lonar Lake in Maharashtra is round, with steep sides. How did the hollow it sits in form?  
-   Options: A meteorite hit the ground very fast and blasted out a crater / People dug it for water / A river wore it away / An elephant herd stamped the ground flat  
+   Options: A meteorite hit the ground very fast and blasted out a crater / People dug it for water / A river wore it away / Lightning struck the ground again and again  
    **Answer:** A meteorite hit the ground very fast and blasted out a crater. *Why:* Lonar Lake fills a crater made by a meteorite impact long ago. Picking 'people dug it' is reasonable for many Indian tanks and ponds, but not for a hollow this big and this round.
 6. (order) Put these in order, from the smallest to the biggest.  
    **Answer:** ['a grain that makes a shooting star', 'Phobos, a moon of Mars, about 22 km', 'Ceres, the biggest asteroid, about 940 km', 'Ganymede, a moon of Jupiter']. *Why:* A grain is smaller than a millimetre. Phobos is about 22 km, Ceres about 940 km, and Ganymede about 5,300 km. A strong answer notices that a moon can be smaller than an asteroid.
 7. (perspective) Two scientists disagree about where the Earth's seas came from.  
    **Answer:** A strong answer uses the evidence each scientist gives. Dr Meenakshi is right that comets hold lots of ice. Dr Rupa is right that the water in many comets does not quite match our seas. Real scientists still argue about this, and the answer may be a bit of both.. *Why:* This is a real, open question. Both views have evidence.
-8. (mcq) Nila counted 7 shooting stars from her city terrace. Her cousin in a village far from any town counted more than 50 on the same night. Why?  
+8. (mcq) Nila counted 7 shooting stars from her city terrace. A girl in a village far from any town counted more than 50 on the same night. Why?  
    Options: The village sky was darker, so faint meteors showed up / More dust fell on the village / Villages are closer to space / Nila was not looking properly  
    **Answer:** The village sky was darker, so faint meteors showed up. *Why:* The same shower falls over the whole area, but city lights hide the faint meteors. Picking 'more dust fell on the village' is a good thought, but both places were under the same shower.
 9. (write) Halley's Comet came near the Sun in 1986 and will come again in 2061. Will it look exactly the same? Explain.  
@@ -603,7 +603,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 1. (write) A comet loses some ice every time it passes the Sun. What will happen to a comet after thousands of passes? What might be left?  
    **Answer:** It will run out of ice. Then it can stop growing a tail, and may be left as a dark, dusty, rocky lump, a bit like an asteroid. Or it may crumble into a trail of dust.. *Why:* A strong answer uses the ice comet test: ice leaves, dirt stays. It may also say some objects, like Phaethon, sit between a comet and an asteroid.
 2. (perspective) Three people talk about what to call Phaethon, the parent of the Geminid shower. Phaethon is rocky, but near the Sun it sheds dust.  
-   **Answer:** A strong answer uses evidence about what Phaethon is made of and what it does. Tanvi is right that it is rocky. Lakshmi is right that it acts a bit like a comet. Ishita's idea is one that some scientists also take seriously. It shows that nature does not always fit our boxes.. *Why:* Phaethon really is hard to name. The words 'asteroid' and 'comet' are boxes people made, and some objects sit between them.
+   **Answer:** A strong answer uses evidence about what Phaethon is made of and what it does. Tanvi is right that it is rocky. Gargi is right that it acts a bit like a comet. Ishita's idea is one that some scientists also take seriously. It shows that nature does not always fit our boxes.. *Why:* Phaethon really is hard to name. The words 'asteroid' and 'comet' are boxes people made, and some objects sit between them.
 3. (write) Swathi watches the Geminids on 13 December and sees many shooting stars. She watches again on 25 December and sees almost none. Explain why.  
    **Answer:** By 25 December, the Earth has moved on along its path and passed out of Phaethon's dust trail. There is little dust left for it to run into.. *Why:* A strong answer links the dates to where the Earth is on its path round the Sun.
 4. (mcq) Anu wants to repeat the ice comet test to find out if more dirt makes a darker crust. Which test is fair?  
@@ -632,7 +632,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 14. (label) Label the moments in the life of one bit of comet dust: it leaves the comet, it drifts along the comet's path, it meets the Earth, it glows as a meteor.  
    **Answer:** The dust leaves the comet near the Sun, drifts along the comet's oval path, is met by the Earth where the paths cross, and glows as a meteor high in our air.. *Why:* A strong answer shows the whole journey in order and puts the meteor where the two paths cross.
 15. (perspective) Two people argue about whether we should spend money to push dangerous asteroids off course.  
-   **Answer:** A strong answer weighs how rare a big hit is against how bad it would be. Dr Lakshmi is right that being ready matters. Sana is right that money spent here is not spent elsewhere.. *Why:* This is a real choice about risk. There is no single right answer.
+   **Answer:** A strong answer weighs how rare a big hit is against how bad it would be. Dr Nandini is right that being ready matters. Sana is right that money spent here is not spent elsewhere.. *Why:* This is a real choice about risk. There is no single right answer.
 
 ## Videos
 - **Comets and Asteroids!** (SciShow Kids, 4 min) id `02wrLS-ue1Q`: A clear, friendly short video on what comets and asteroids are made of and how they differ. Good after the ice comet test. *Check:* Id and title confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it.
@@ -652,28 +652,25 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 4. (mcq) Where are most asteroids?  
    Options: Between Mars and Jupiter / Between the Earth and the Moon / Inside the Sun / Beyond the stars  
    **Answer:** Between Mars and Jupiter. *Why:* Most asteroids go round the Sun in the asteroid belt, between Mars and Jupiter. Picking 'between the Earth and the Moon' is a fair guess, since some asteroids do pass near the Earth, but they are only a tiny few.
-5. (mcq) In the ice comet test, Anjali puts one dirty ice ball in the sun and one in the shade. After 30 minutes, what does the sunny one look like?  
-   Options: Smaller, with a dark crust of dirt / Bigger and whiter / Smaller and perfectly clean / Exactly the same as the shady one  
-   **Answer:** Smaller, with a dark crust of dirt. *Why:* The sun melts its ice faster. The dirt cannot melt, so it stays on the surface as a dark crust. Picking 'perfectly clean' is the guess many people make, because water usually washes dirt away.
-6. (mcq) Why is the nucleus of a real comet darker than coal?  
+5. (mcq) Why is the nucleus of a real comet darker than coal?  
    Options: Its ice has turned to gas and left a crust of dark dust / It is made of coal / It is in the Earth's shadow / It is burning  
    **Answer:** Its ice has turned to gas and left a crust of dark dust. *Why:* Each pass near the Sun, ice leaves and dust stays, building a dark crust, as in the ice comet test. Picking 'burning' is a common idea, but comets do not burn. Their glow is sunlight on gas and dust.
-7. (mcq) A comet has passed the Sun and is now moving away from it. Where is its tail?  
+6. (mcq) A comet has passed the Sun and is now moving away from it. Where is its tail?  
    Options: In front of it, pointing away from the Sun / Behind it, pointing towards the Sun / It has no tail at all  
    **Answer:** In front of it, pointing away from the Sun. *Why:* The Sun pushes a comet's tail away from it all the time, so when the comet moves away, its tail goes in front. Picking 'behind it' is what we expect from hair or a kite, and is what happened in the fan test with the fan off.
-8. (mcq) What pushes a comet's tail away from the Sun?  
+7. (mcq) What pushes a comet's tail away from the Sun?  
    Options: Sunlight and the solar wind / Wind in space / The comet's speed / The Earth's gravity  
    **Answer:** Sunlight and the solar wind. *Why:* Sunlight and the solar wind, a stream of tiny particles from the Sun, push the gas and dust outwards. Picking 'wind in space' is close in spirit, but space has no air, so there is no ordinary wind there.
-9. (mcq) What is a meteor?  
+8. (mcq) What is a meteor?  
    Options: The streak of light when a bit of space rock burns up in our air / A star that falls / A stone that lands on the ground / A rock in the asteroid belt  
    **Answer:** The streak of light when a bit of space rock burns up in our air. *Why:* The streak of light is the meteor. Picking 'a stone that lands' describes a meteorite, the piece that reaches the ground.
-10. (mcq) Why does a tiny grain glow so brightly when it enters our air?  
+9. (mcq) Why does a tiny grain glow so brightly when it enters our air?  
    Options: It moves so fast that it squashes the air in front of it, and the air gets extremely hot / It is on fire before it arrives / It reflects the light of the Moon / It is a small star  
    **Answer:** It moves so fast that it squashes the air in front of it, and the air gets extremely hot. *Why:* At tens of kilometres a second, the grain squashes the air ahead so hard that it gets hotter than a furnace. The grain turns to glowing gas. Picking 'on fire before it arrives' is a common idea, but space has no air, so nothing can burn there.
-11. (mcq) Why does the Geminid meteor shower come around 13 and 14 December every year?  
+10. (mcq) Why does the Geminid meteor shower come around 13 and 14 December every year?  
    Options: The Earth reaches the same dust trail at the same point in its path each year / Stars fall more in winter / The Moon sends dust in December / December nights are longer  
    **Answer:** The Earth reaches the same dust trail at the same point in its path each year. *Why:* The Earth takes one year to go round the Sun, so it crosses the dust trail at the same point, on the same dates, every year. Picking 'December nights are longer' is a sensible thought, because longer nights give more time to watch, but it does not explain the dates.
-12. (mcq) In 1803, thousands of stones fell near L'Aigle in France. What did the scientist Jean-Baptiste Biot show?  
+11. (mcq) In 1803, thousands of stones fell near L'Aigle in France. What did the scientist Jean-Baptiste Biot show?  
    Options: The stones really had fallen from the sky / The stones had been thrown up by a volcano / The stones had been struck by lightning / Nobody had really seen anything  
    **Answer:** The stones really had fallen from the sky. *Why:* Biot talked to many people who saw the fall, mapped where the stones landed, and found they were unlike local rock. This convinced scientists that stones fall from space. 'Lightning' and 'volcano' were the old explanations that his study ruled out.
 
@@ -686,7 +683,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - Meteor cameras around the world record fireballs and work out where any meteorites landed, so people can find them.
 
 ## Spotted around us
-- Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach in Tamil Nadu or Kerala.
+- Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach in Tamil Nadu, Kerala or Odisha.
 - Jupiter as a bright, steady dot in the evening sky, with tiny moons beside it if you use binoculars.
 - Lonar Lake in Buldhana district, Maharashtra, a round lake inside a crater made by a meteorite.
 - Meteorites on display in museums and science centres, such as the Geological Survey of India's collections.
@@ -694,14 +691,13 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 
 ## Open questions
 - **Is there life in the ocean under the ice of Jupiter's moon Europa?** Europa very likely has a salty ocean, but nobody has looked inside it yet. NASA's Europa Clipper spacecraft is on its way to study it.
-- **Where did the Earth's water come from?** Some was probably there from the start, and some may have come from comets and asteroids. Scientists still argue about how much came from each.
 - **How exactly did our Moon form?** Most scientists think a giant crash made it, but no computer model yet matches every fact about Moon rock.
 - **Exactly how much space dust reaches the Earth each day?** Different ways of measuring give very different answers, from a few tonnes to many tonnes a day.
 
 ## Questions to ask kids
 - If you lived on Ganymede, what would Jupiter look like in your sky?
 - Why do you think Mercury and Venus have no moons?
-- If you made a wish on a shooting star, what is the wish really travelling past?
+- If you make a wish on a shooting star, what is really burning up above you?
 - Would you rather visit a comet or an asteroid? What would you take with you?
 - Where in our flat could some space dust have landed today?
 - How old will you be when Halley's Comet comes back in 2061?
@@ -714,15 +710,9 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - Why don't asteroids ever win races? *They keep going round in belts.*
 - What do you call a comet with no ice? *A has-been.*
 - Why was Jupiter never lonely? *It always had more than 90 moons for company.*
-- What is a shooting star's favourite drink? *Anything, as long as it is a quick one.*
-- Why did Mars bring two moons to the party? *One was not enough for Phobos and Deimos to argue about.*
 - What did the Earth say to the comet dust? *Drop in any time, especially in December.*
-- Why did the ice comet go to the doctor? *It had a dirty crust and kept losing itself.*
 - How does Ganymede keep its spot as the biggest moon? *It never shrinks from a challenge.*
-- Why did the meteoroid take the slow road? *It did not want to get burned up about it.*
-- What do you call a moon who tells jokes? *A lunatic. But a nice one.*
 - Why did Galileo keep checking on Jupiter? *Its moons kept moving house.*
-- What is a comet's favourite game? *Tail tag. It always points the way out.*
 - Why did the asteroid stay lumpy? *It did not have the pull to shape up.*
 - What did the Sun say to the comet? *You're glowing! You must be losing weight.*
 
@@ -749,7 +739,7 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 - [Kerala State Science and Technology Museum and Priyadarsini Planetarium](https://kstmuseum.com) · place · Thiruvananthapuram: Planetarium shows of the night sky, comets and meteor showers.
 
 ## Things to buy
-- [A pair of 7x50 or 10x50 binoculars](https://www.amazon.in/s?k=10x50+binoculars) (tool): Ordinary binoculars show Jupiter's four big moons as tiny dots, just as Galileo saw them. They also show craters on our Moon. Borrowing a pair works just as well. Used in p1, a3. If bought, use them for the four-night Jupiter project, and on the Geminid watch to look at the Moon and Jupiter while waiting. Binoculars are not needed to see shooting stars.
+- [A pair of 7x50 or 10x50 binoculars](https://www.amazon.in/s?k=10x50+binoculars) (tool): Ordinary binoculars show Jupiter's four big moons as tiny dots, just as Galileo saw them. They also show craters on our Moon. Borrowing a pair works just as well. Used in p1. 
 
 ## Warm-up
 - Name the two moons of Mars. → Phobos and Deimos.

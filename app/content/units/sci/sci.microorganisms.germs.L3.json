@@ -21,7 +21,7 @@
   "I can name the ways germs travel: on hands, on things we touch, in cough and sneeze drops, in water and food, and on flies and mosquitoes.",
   "I can explain, from my glitter test, how germs reach people who never touched the ill person.",
   "I can say what an infection is: germs getting inside the body and multiplying.",
-  "I can choose the best moment to break a germ chain, and say why it works.",
+  "I can choose where to break a chain of illness, and say why that works.",
   "I can tell how John Snow found that cholera came from one water pump, and not from bad air."
  ],
  "cards_mins": 18,
@@ -46,7 +46,7 @@
   },
   {
    "term": "Virus",
-   "meaning": "A germ much smaller than a bacterium. A virus can make copies of themselves only inside the cells of another living being.",
+   "meaning": "Germs much smaller than bacteria. Viruses can make copies of themselves only inside the cells of another living being.",
    "example": "Colds, flu and chickenpox are caused by viruses.",
    "art": "A tiny round virus landing on a much bigger cell, drawn to scale beside a bacterium."
   },
@@ -104,7 +104,7 @@
    "concept": "What germs are",
    "status": "defined",
    "definition": "Germs are the bacteria, viruses, fungi and other tiny living beings that can cause illness. Only a small share of all microbes are germs.",
-   "description": "Microbes live almost everywhere: in soil, in water, in curd, and all over and inside you. Your body carries about as many bacteria as it has cells of its own. Nearly all of them do you no harm, and many help you, for example by breaking down food in your gut. A few kinds can make you ill. Those are the ones we call germs. Bacteria are single living cells. Viruses are much smaller, and can make copies of themselves only inside someone else's cells. Most colds, flu, chickenpox and measles are caused by viruses. Cholera, typhoid and many tummy upsets are caused by bacteria. Ringworm, an itchy round rash, is caused by a fungus.",
+   "description": "Microbes live almost everywhere: in soil, in water, in curd, and all over and inside you. Your body carries about as many bacteria as there are cells of your own. Nearly all of them do you no harm, and many help you, for example by breaking down food in your gut. A few kinds can make you ill. Those are the ones we call germs. Bacteria are single living cells. Viruses are much smaller, and can make copies of themselves only inside someone else's cells. Most colds, flu, chickenpox and measles are caused by viruses. Cholera, typhoid and many tummy upsets are caused by bacteria. Ringworm, an itchy round rash, is caused by a fungus.",
    "examples": [
     "The bacteria in curd are microbes, but not germs.",
     "The virus that causes a cold is a germ.",
@@ -134,9 +134,9 @@
    "definition": "Germs travel on hands, on things that hands touch, in droplets from coughs and sneezes, in water and food, and on insects.",
    "description": "Many bacteria can swim, but only a tiny distance. A virus cannot move on their own at all. So germs need a ride. The most common ride is a hand. A hand wipes a nose, then touches a door handle, a lift button, a TV remote or a steel tumbler. The next hand picks the germs up from there, and carries them to an eye, a nose or a mouth. In this way a germ can pass through several hands and things before they reach a new person. Coughs and sneezes spray droplets that fly through the air and land on people and things nearby. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish, then on food. Some mosquitoes carry the germs of dengue and malaria from one person's blood to another's.",
    "examples": [
-    "Farhan sneezes into his hand and opens the fridge. Meenakshi opens the fridge an hour later and then eats a biscuit.",
+    "A boy sneezes into his hand and opens the fridge. His sister opens the fridge an hour later and then eats a biscuit.",
     "A sneeze into the air sprays droplets onto everyone at the table.",
-    "A fly walks on a rubbish heap and then on an open plate of vadas."
+    "A fly walks on a rubbish heap and then on an open plate of jalebis."
    ],
    "perspectives": [],
    "art": "Five small pictures in a ring around a child: a hand, a door handle, a sneeze, a glass of water, a fly, each with a dotted arrow pointing to the child's mouth or nose.",
@@ -146,10 +146,10 @@
    "concept": "What an infection is",
    "status": "defined",
    "definition": "An infection is when germs get inside the body and multiply there.",
-   "description": "Germs land on our skin all the time. Whole skin keeps most of them out. They get in mostly through the soft, wet linings of the eyes, nose and mouth, and through cuts. Inside, they find warmth, water and food, so they multiply. In the best conditions, some bacteria can split in two about every 20 minutes. One bacterium can then become thousands in a few hours. A virus gets inside a cell and makes it build many new copies of the virus. The illness you feel is partly the germs' work and partly your body fighting back. A fever, a runny nose and tiredness are mostly signs of your body's fight. That is why you may feel well for a day or two after catching a germ, before the symptoms start.",
+   "description": "Germs land on our skin all the time. Whole skin keeps most of them out. They get in mostly through the soft, wet linings of the eyes, nose and mouth, and through cuts. Inside, they find warmth, water and food, so they multiply. In the best conditions, some bacteria can split in two about every 20 minutes. One bacterium can then become thousands in a few hours. A virus gets inside a cell and makes the cell build many new copies of the virus. The illness you feel is partly the germs' work and partly your body fighting back. A fever, a runny nose and tiredness are mostly signs of your body's fight. That is why you may feel well for a day or two after catching a germ, before the symptoms start.",
    "examples": [
     "A cold usually starts one to three days after the virus gets into your nose.",
-    "A dirty cut can turn red, warm and sore as bacteria multiply in it.",
+    "A dirty cut can turn red, warm and sore as bacteria multiply in the cut.",
     "Rice left warm on the stove all day can grow enough bacteria to cause a tummy upset."
    ],
    "perspectives": [],
@@ -164,7 +164,7 @@
    "examples": [
     "A child who washes before eating gives the germs on their hand less chance to reach their mouth.",
     "A child who has had the measles vaccine is very unlikely to catch measles, even in an outbreak.",
-    "In your glitter test, the people closest to the carrier got the most glitter."
+    "In the Handshake Chain, the hands far down the chain got fewer specks, just as fewer germs reach people further along a chain."
    ],
    "perspectives": [],
    "art": "Two children at a table with an ill friend: one wiping her hands on a cloth and the other putting a hand to his mouth, with a few germs on each hand.",
@@ -176,9 +176,9 @@
    "definition": "Germs spread along a chain of links. Breaking any one link stops that chain.",
    "description": "Every germ trail has links: the ill person, the way out (a sneeze, a hand), the ride (a handle, the air, water), the way in (a mouth, a nose), and the next person. You only need to break one. Coughing into your elbow keeps germs off your hands, so they never reach the door handle. Washing hands before eating breaks the link from hand to mouth. Boiling or filtering drinking water breaks the water link. Covering food breaks the fly link. Staying home when you are ill keeps the first link away from everyone else. Each habit is small, but it stops every trail that would have passed through that link.",
    "examples": [
-    "Kavya coughs into her elbow, so her hands stay clean for the lift button.",
-    "Lakshmi's family boils drinking water, so germs in the tank water never reach their stomachs.",
-    "Divya stays home with flu, so her classmates never meet her germs."
+    "A girl with a cough coughs into her elbow, so her hands stay clean for the lift button.",
+    "A family boils its drinking water, so germs in the tank water never reach their stomachs.",
+    "A girl with flu stays home, so her classmates never meet her germs."
    ],
    "perspectives": [],
    "art": "A paper chain of five links labelled 'ill person', 'way out', 'ride', 'way in', 'next person', with one link cut open by scissors.",
@@ -272,7 +272,7 @@
  ],
  "big_questions": [
   {
-   "q": "In your glitter test, the glitter got less with each hand it passed through. Do germs get fewer in the same way along a chain?",
+   "q": "In the Handshake Chain, the glitter got less with each hand it passed through. Do germs get fewer in the same way along a chain?",
    "kind": "deep",
    "hint": "Think about what happens to the glitter on each hand and each handle. Real germs can also die on dry surfaces, or multiply in warm, wet food."
   },
@@ -356,7 +356,7 @@
  "games": [
   {
    "id": "g1",
-   "title": "Germ Chain: build it, break it",
+   "title": "Germ Chain: build and break a chain",
    "mins": 20,
    "players": [
     "with a parent",
@@ -372,20 +372,20 @@
       "ILL PERSON: Farhan has a tummy bug.",
       "ILL PERSON: Divya has flu.",
       "ILL PERSON: Thatha has an eye infection.",
-      "WAY OUT: sneezes into her hand.",
-      "WAY OUT: does not wash after the toilet.",
-      "WAY OUT: coughs into the air.",
-      "WAY OUT: rubs his eyes, then his hands.",
+      "WAY OUT: the ill person sneezes into a hand.",
+      "WAY OUT: the ill person does not wash after the toilet.",
+      "WAY OUT: the ill person coughs into the air.",
+      "WAY OUT: the ill person wipes the nose with a hand.",
       "RIDE: the lift button.",
       "RIDE: the door handle.",
       "RIDE: the TV remote.",
       "RIDE: a shared steel tumbler.",
-      "RIDE: an uncovered plate of idlis.",
+      "RIDE: an uncovered plate of dhokla.",
       "RIDE: droplets in the air.",
-      "WAY IN: rubs her eyes.",
-      "WAY IN: eats a biscuit without washing.",
-      "WAY IN: bites his nails.",
-      "WAY IN: breathes in at the same table.",
+      "WAY IN: the next person rubs the eyes.",
+      "WAY IN: the next person eats a biscuit without washing the hands.",
+      "WAY IN: the next person bites the nails.",
+      "WAY IN: the next person picks the nose.",
       "NEXT PERSON: Lakshmi.",
       "NEXT PERSON: Priya.",
       "NEXT PERSON: Arjun.",
@@ -396,13 +396,13 @@
      "kind": "cards",
      "title": "8 STOP cards to cut out",
      "items": [
-      "STOP: coughs into her elbow. Breaks a WAY OUT link.",
-      "STOP: washes hands with soap after the toilet. Breaks a WAY OUT link.",
-      "STOP: everyone has their own tumbler. Breaks a tumbler RIDE.",
-      "STOP: covers the food with a plate. Breaks a food RIDE.",
-      "STOP: wipes the handle and the remote with soapy water. Breaks a handle, button or remote RIDE.",
-      "STOP: opens a window wide. Breaks a droplets RIDE.",
-      "STOP: washes hands before eating. Breaks a WAY IN link.",
+      "STOP: coughs or sneezes into the elbow. Breaks a WAY OUT link of sneezing into a hand or coughing into the air.",
+      "STOP: washes the hands with soap after the toilet or after wiping the nose. Breaks a WAY OUT link.",
+      "STOP: everyone has their own tumbler. Breaks the tumbler RIDE.",
+      "STOP: covers the food with a plate. Breaks the food RIDE.",
+      "STOP: wipes the handle, the button and the remote with soapy water. Breaks a handle, button or remote RIDE.",
+      "STOP: opens a window wide. Breaks the droplets RIDE.",
+      "STOP: washes the hands with soap before eating or touching the face. Breaks a WAY IN link.",
       "STOP: stays home until well. Breaks an ILL PERSON link."
      ]
     },
@@ -417,18 +417,19 @@
     }
    ],
    "rules": [
-    "One player is the Germ. The other is the Chain Breaker. Swap after 3 rounds.",
-    "The Germ shuffles the 22 chain cards and picks one card of each kind, in order: ILL PERSON, WAY OUT, RIDE, WAY IN, NEXT PERSON. Lay them in a row and read them aloud as one story.",
-    "The Chain Breaker holds the 8 STOP cards. They may play one STOP card on any link it fits.",
-    "If a STOP card breaks a link, the chain is broken. The Chain Breaker scores 1 point and says why the germ is stuck.",
+    "With 2 players, one is the Germ and one is the Chain Breaker. With 3 or 4 players, one is the Germ and the others are Chain Breakers who decide together.",
+    "Sort the 22 chain cards into five piles by kind and shuffle each pile. The Germ turns over the top card of each pile and lays them in a row: ILL PERSON, WAY OUT, RIDE, WAY IN, NEXT PERSON. Read the row aloud as one story. If the story makes no sense at all, swap one card for the next card in its pile.",
+    "The Chain Breakers hold the 8 STOP cards. They may play one STOP card on any link it fits.",
+    "If a STOP card breaks a link, the chain is broken. The Chain Breakers score 1 point and say why the germ is stuck.",
     "If no STOP card fits, the germ reaches the next person. The Germ scores 1 point.",
-    "Each STOP card can be used only once in the game. Put the chain cards back and shuffle after each round."
+    "Each STOP card can be used only once while the same player is the Germ. Put the chain cards back and shuffle after each round.",
+    "Play 6 rounds with 2 or 3 players, or 8 rounds with 4. With 2 players, swap roles after 3 rounds. With more players, a new player becomes the Germ after every round. Take back all 8 STOP cards whenever the Germ changes. The highest score wins, and a tie is shared."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Sort them into the five kinds. 3. Give the STOP cards to the Chain Breaker.",
+     "do": "1. Cut out the cards. 2. Sort the chain cards into the five kinds. 3. Give the STOP cards to the Chain Breaker.",
      "say": "A germ cannot walk. It needs a chain of links to get from one person to the next. You will build chains, and I will try to break them.",
      "kid": "You are the Germ. Build a chain. Ill person, way out, ride, way in, next person.",
      "context": "This is the first step of Germ Chain, a card game about how germs travel and how to stop them."
@@ -437,7 +438,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Play one practice round. Read the chain aloud as a story.",
-     "say": "Read your chain as a story. Meenakshi has a cold. She sneezes into her hand. She presses the lift button. Lakshmi presses it and rubs her eyes. Which STOP card would break it?",
+     "say": "Read your chain as a story. Meenakshi has a cold. She sneezes into her hand. She presses the lift button. Then Lakshmi presses the same button and rubs her eyes. Which STOP card would break it?",
      "kid": "Read your chain like a story. Which STOP card could break it?",
      "check": {
       "t": "mcq",
@@ -454,15 +455,15 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Play 6 rounds, swapping roles after 3. After each round, the Chain Breaker says which link they broke and why.",
+     "do": "Play 6 rounds (8 with four players), changing the Germ as the rules say. After each round, the Chain Breaker says which link they broke and why.",
      "say": "Which link did you break? Why does that stop the germ? Could another STOP card have worked too?",
-     "kid": "Play 6 rounds. Say which link you broke, and why.",
+     "kid": "Play the rounds. Say which link you broke, and why.",
      "ask": [
       {
        "q": "Was there a chain you could break in two places?",
        "good": [
-        "Yes, the sneeze one. Elbow or washing hands both work.",
-        "The food one. Cover the food, or wash before eating."
+        "Yes. A sneeze chain can be broken at the way out with the elbow, at the ride by wiping the handle, or at the way in by washing hands.",
+        "The food chain. Cover the food (the ride), or wash hands before eating (the way in)."
        ]
       }
      ]
@@ -500,59 +501,114 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 situation cards",
+     "title": "16 situation cards (the answer is on the back)",
      "items": [
-      "Sneha coughs into her elbow on the bus. (STOP)",
-      "Rahul drinks from his sister's water bottle. (SPREAD)",
-      "Tara washes her hands with soap after the toilet. (STOP)",
-      "Anjali goes to school with a high fever. (SPREAD)",
-      "Priya covers the leftover sambar with a plate. (STOP)",
-      "Farhan picks his nose and then shakes hands. (SPREAD)",
-      "Lakshmi throws her used tissue in the bin and washes her hands. (STOP)",
-      "Nandini leaves cooked rice out all day and eats it at night. (SPREAD)",
-      "Divya drinks boiled or filtered water. (STOP)",
-      "Meera leaves a bucket of water uncovered on the balcony for a week. (SPREAD, mosquitoes breed in it)",
-      "Ayesha shares her towel with her ill cousin. (SPREAD)",
-      "Kavya stays home until her flu is over. (STOP)",
-      "Arjun bites his nails after playing on the stairs. (SPREAD)",
-      "Gowri opens the windows when her brother has a cold. (STOP)",
-      "Revathi eats a chopped fruit that sat uncovered at a stall full of flies. (SPREAD)",
-      "Amma wipes the fridge handle with soapy water. (STOP)"
+      {
+       "f": "Sneha coughs into her elbow on the bus.",
+       "b": "STOP. Way out: the elbow keeps the germs off her hands."
+      },
+      {
+       "f": "Rahul drinks from his sister's water bottle while she has a cold.",
+       "b": "SPREAD. Ride: the mouth of the bottle carries her germs to his lips."
+      },
+      {
+       "f": "Tara washes her hands with soap after the toilet.",
+       "b": "STOP. Way out: soap washes the germs off her hands."
+      },
+      {
+       "f": "Anjali goes to school with a high fever.",
+       "b": "SPREAD. First link: an ill person among many children."
+      },
+      {
+       "f": "Priya covers the leftover sambar with a plate.",
+       "b": "STOP. Ride: the plate keeps flies off the food."
+      },
+      {
+       "f": "Farhan picks his nose and then shakes hands.",
+       "b": "SPREAD. Way out and ride: germs go from his hand to the other hand."
+      },
+      {
+       "f": "Lakshmi throws her used tissue in the bin and washes her hands.",
+       "b": "STOP. Way out: the germs go in the bin and off her hands."
+      },
+      {
+       "f": "Nandini leaves cooked rice out all day and eats it at night.",
+       "b": "SPREAD. Ride: warm rice is where bacteria multiply."
+      },
+      {
+       "f": "Divya drinks boiled or filtered water.",
+       "b": "STOP. Ride: boiling or filtering takes the germs out of the water."
+      },
+      {
+       "f": "Meera leaves a bucket of water uncovered on the balcony for a week.",
+       "b": "SPREAD. Ride: mosquitoes lay eggs in still water, and some mosquitoes carry dengue."
+      },
+      {
+       "f": "Ayesha shares her towel with her ill cousin.",
+       "b": "SPREAD. Ride: the towel carries the germs from one skin to the other."
+      },
+      {
+       "f": "Kavya stays home until her flu is over.",
+       "b": "STOP. First link: she keeps her germs away from other people."
+      },
+      {
+       "f": "Arjun bites his nails after playing on the stairs.",
+       "b": "SPREAD. Way in: germs from the railing go from his hand to his mouth."
+      },
+      {
+       "f": "Gowri opens the windows when her brother has a cold.",
+       "b": "STOP. Ride: fresh air carries the droplets away."
+      },
+      {
+       "f": "Revathi eats chopped fruit that sat uncovered at a stall full of flies.",
+       "b": "SPREAD. Ride: flies carry germs from rubbish onto the fruit."
+      },
+      {
+       "f": "Bhavna wipes the fridge handle with soapy water.",
+       "b": "STOP. Ride: a clean handle has no germs to pass on."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "One SPREAD card and one STOP card for each player",
+     "title": "8 hand cards: 4 SPREAD and 4 STOP (cut out one SPREAD and one STOP for each player)",
      "items": [
       "SPREAD",
+      "SPREAD",
+      "SPREAD",
+      "SPREAD",
+      "STOP",
+      "STOP",
+      "STOP",
       "STOP"
      ]
     }
    ],
    "rules": [
     "Each player has a SPREAD card and a STOP card.",
-    "A grown-up reads a situation card aloud. Everyone holds up a card at the same time.",
-    "Anyone who is right scores 1 point. Anyone who can say which link it is scores 1 more.",
-    "Read all 16 cards. The highest score wins."
+    "One player reads a situation card aloud, front side only. Everyone holds up a card at the same time.",
+    "Turn the card over to see the answer. Anyone who is right scores 1 point. Anyone who can say which link it is scores 1 more.",
+    "Playing alone? Read the card to yourself, decide, say the link aloud, and then turn the card over. Score the same way.",
+    "Read all 16 cards. The highest score wins, and a tie is shared."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Hand out the cards and read the first situation.",
-     "say": "Listen. Does this help a germ travel, or stop it? Sneha coughs into her elbow on the bus.",
+     "say": "Listen. Does this help a germ travel, or stop the germ? Sneha coughs into her elbow on the bus.",
      "kid": "Spread or stop? Hold up your card.",
      "context": "This is the start of Spread or Stop?, a quick game about what helps germs travel."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Read the cards one at a time. After each, ask for the link.",
+     "do": "Read the cards one at a time. After each, ask for the link, then turn the card over.",
      "say": "Why does that help the germ? Which link is it, the way out, the ride or the way in?",
      "kid": "Spread or stop? Then say which link it is.",
      "check": {
       "t": "mcq",
-      "q": "Rahul drinks from his sister's water bottle. She has a cold. Spread or stop?",
+      "q": "Rahul drinks from his sister's water bottle while she has a cold. Spread or stop?",
       "options": [
        "Spread, because her germs are on the bottle's mouth",
        "Stop, because water washes germs away"
@@ -575,7 +631,7 @@
      "caption": "1. Listen, then hold up SPREAD or STOP."
     },
     {
-     "art": "Situation cards with small pictures: a cough into an elbow, a shared bottle, an open bucket of water.",
+     "art": "A situation card turned over to show its answer: STOP or SPREAD, and the link.",
      "caption": "2. Say which link it is."
     }
    ]
@@ -615,8 +671,8 @@
      "qty": 5
     },
     {
-     "item": "at least two other people at home, for example a parent and a grandparent or sibling",
-     "qty": 2
+     "item": "at least one other person at home to be the helper (more are welcome)",
+     "qty": 1
     },
     {
      "item": "soap, water and an old cloth for cleaning up",
@@ -636,8 +692,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Choose your child as the carrier. 2. Read the touch list aloud together. 3. Ask for a guess and a reason.",
-     "say": "Real germs are too small to see. Today glitter is our pretend germ, and you are the ill person carrying it. Here is the touch list. Will anyone who never touches you end up with glitter? Who will have the most? Why do you think so?",
+     "do": "1. Choose your child as the carrier and another person as the helper. 2. Read the touch list aloud together. 3. Check everyone's hands with the torch: there should be no glitter yet. 4. Ask for a guess and a reason.",
+     "say": "Real germs are too small to see. Today glitter is our pretend germ, and you are the ill person carrying the glitter. Here is the touch list. Will anyone who never touches you end up with glitter? Who will have the most? Why do you think so?",
      "kid": "Glitter is your pretend germ. You are the carrier. Guess who will get glitter. Why?",
      "ask": [
       {
@@ -663,26 +719,26 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "The carrier does the touch list: 1. Open and close the main door. 2. Open and close the fridge. 3. Press three buttons on the remote. 4. Pick up the steel tumbler and put it down. 5. Hand the pencil to the second person. Nobody else touches the carrier.",
+     "do": "The carrier does the touch list: 1. Open and close the main door. 2. Open and close the fridge. 3. Press three buttons on the remote. 4. Pick up the steel tumbler and put it down. 5. Put the pencil down on the table. Nobody touches the carrier.",
      "say": "Now go through the list, just as you would on a normal day. Remember, you must not touch anyone else.",
      "kid": "Do the touch list. Door, fridge, remote, tumbler, pencil. Don't touch anyone!"
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "Now the others do their part. 1. The second person uses the pencil, then opens the fridge. 2. The third person opens the main door, picks up the remote and the tumbler.",
-     "say": "Now everyone else does what they usually do. The third person never went near the carrier at all.",
-     "kid": "Now the others use the door, fridge, remote and tumbler. Watch carefully."
+     "do": "Now the helper does their part. 1. Pick up the pencil and write a word. 2. Open the fridge. 3. Open and close the main door. 4. Pick up the remote and the steel tumbler. Anyone else at home can do the same, one after another.",
+     "say": "Now the helper does what they usually do. The helper never went near the carrier.",
+     "kid": "Now the helper uses the pencil, fridge, door, remote and tumbler. Watch carefully."
     },
     {
      "id": "s5",
      "mins": 5,
      "do": "1. Switch off the light or close the curtain. 2. Shine the torch across each person's palms and each thing. 3. Glitter sparkles in the beam. 4. Score each one: none, a few specks, or lots.",
-     "say": "Shine the torch at a low angle, almost flat. Glitter flashes when the light hits it. Who has glitter? Did the third person get any?",
+     "say": "Shine the torch at a low angle, almost flat. Glitter flashes when the light hits it. Who has glitter? Did the helper get any?",
      "kid": "Shine the torch across each hand. Do you see sparkles? Score them.",
      "ask": [
       {
-       "q": "How did glitter get onto the third person's hands?",
+       "q": "How did glitter get onto the helper's hands?",
        "good": [
         "From the door handle and the remote, which the carrier touched first.",
         "It rode on the things."
@@ -691,7 +747,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "The third person never touched the carrier, but has glitter on their hand. Where did it come from?",
+      "q": "The helper never touched the carrier, but has glitter on a hand. Where did it come from?",
       "options": [
        "From the things the carrier touched first, like the door handle",
        "It flew through the air by itself",
@@ -712,7 +768,7 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "Round 2: 1. Put the oil and the same pinch of glitter on the inside of the carrier's elbow. 2. Do exactly the same touch list. 3. The others do their part again. 4. Check with the torch and score.",
+     "do": "Round 2: 1. Put the oil and the same pinch of glitter on the inside of the carrier's elbow. 2. Do exactly the same touch list. 3. The helper does their part again. 4. Check with the torch and score.",
      "say": "This time the glitter is on your elbow, as if you had coughed into it. Everything else stays the same. What do you think will change? Why?",
      "kid": "Now glitter goes on your elbow, like a cough. Same touch list. What changes?",
      "parent": "Usually only a few specks, or none, reach the things and the others' hands. If you see some, look at where they are: often on a sleeve or a tabletop the elbow brushed."
@@ -738,7 +794,7 @@
    "context": "In this experiment you use glitter as pretend germs and follow its trail round your home, from one person's hand to things and other people.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results from Meenakshi's family",
+    "title": "Made-up example results: Meenakshi is the carrier",
     "cols": [
      "Person or thing",
      "Touched the carrier?",
@@ -765,16 +821,16 @@
       "none"
      ],
      [
-      "Amma, who used the pencil and fridge",
+      "Pencil",
       "no",
       "a few specks",
       "none"
      ],
      [
-      "Paati, who used the door and remote",
+      "Meenakshi's mother, the helper",
       "no",
       "a few specks",
-      "one speck"
+      "none"
      ]
     ]
    },
@@ -784,19 +840,19 @@
      "caption": "1. Put a drop of oil and a pinch of glitter on the carrier's palm."
     },
     {
-     "art": "The child opening a fridge, pressing a remote, then handing a pencil to her mother, each with small sparkles left behind.",
+     "art": "The child opening a fridge, pressing a remote, then putting a pencil down on the table, each with small sparkles left behind.",
      "caption": "2. The carrier does the touch list."
     },
     {
-     "art": "A grandmother opening the same main door and picking up the remote, never near the child.",
-     "caption": "3. The others use the same things."
+     "art": "Another person opening the same main door and picking up the remote, never near the child.",
+     "caption": "3. The helper uses the same things."
     },
     {
-     "art": "A torch held low, shining across a grandmother's palm in a darkened room, a few specks sparkling.",
+     "art": "A torch held low, shining across the helper's palm in a darkened room, a few specks sparkling.",
      "caption": "4. Check every hand with a torch held low."
     },
     {
-     "art": "The same child with glitter on the inside of her elbow, coughing into it, then doing the same touch list.",
+     "art": "The same child with glitter on the inside of the elbow, coughing into it, then doing the same touch list.",
      "caption": "5. Round 2: glitter on the elbow. Same touch list."
     }
    ]
@@ -857,7 +913,8 @@
      "do": "1. Cut a 2 cm square hole in the middle of a piece of paper. 2. Ask for a guess and a reason.",
      "say": "The glitter will pass from hand to hand in a chain of handshakes. Will the last hand get as much as the first? Why do you think so?",
      "kid": "Glitter will pass along a chain of handshakes. Will the last hand get as much? Why?",
-     "context": "This is the first step of the Handshake Chain. Glitter passes along a line of handshakes, and you count how much reaches each hand."
+     "context": "This is the first step of the Handshake Chain. Glitter passes along a line of handshakes, and you count how much reaches each hand.",
+     "parent": "With only two people, the four hands are: A's right (1), B's right (2), A's left (3), B's left (4). Each shake is between two different hands: 1 with 2, then 2 with 3, then 3 with 4."
     },
     {
      "id": "s2",
@@ -871,9 +928,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Hand one shakes hand two, once. 2. Hand two shakes hand three. 3. Hand three shakes hand four. 4. Count the specks in the square on each hand, with the torch.",
-     "say": "One firm shake each, about one second. Now count each hand. What do you notice about the numbers?",
-     "kid": "Shake, shake, shake along the chain. Count the specks on every hand.",
+     "do": "1. Hand one shakes hand two, once. 2. Hand two lays the paper square on its palm, and you count the specks with the torch and write the number. 3. Hand two shakes hand three, and hand three is counted the same way. 4. Hand three shakes hand four, and hand four is counted.",
+     "say": "One firm shake each, about one second. Count each hand straight after it has been shaken. What do you notice about the numbers?",
+     "kid": "Shake, then count. Shake the next hand, then count. Go all along the chain.",
      "parent": "Expect the number to fall sharply at each shake, often to only a few specks by hand three or four. If two hands have the same number, that is fine: write what you see.",
      "check": {
       "t": "mcq",
@@ -1001,7 +1058,7 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Look and smell once more. Then a grown-up throws the rice away."
+     "what": "Look and smell once more, talk about why, and then a grown-up throws the rice away."
     }
    ],
    "record": "Fill in the table each day, and draw both bowls side by side.",
@@ -1024,17 +1081,17 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Two days later, look at both bowls. Wave the air above each towards your nose.",
+     "do": "On day 2, look at both bowls. Wave the air above each towards your nose.",
      "say": "What do you see? What do you smell? Is the shelf rice different from the fridge rice?",
      "kid": "Look at both bowls. Wave the smell to your nose. Don't sniff close!",
      "adult": true,
      "wait": "Day 2: look and smell.",
-     "parent": "In a warm Indian kitchen, the shelf rice usually smells sour and feels sticky or slimy by day 2, and may grow spots of mould by day 3. The fridge rice usually still looks and smells like rice. In a cold winter, the change may be slower: wait one more day."
+     "parent": "In a warm kitchen, the shelf rice often smells sour or feels sticky by day 2 or 3, and may show spots of mould by day 3. The fridge rice usually still looks and smells like rice. In a cool room the change may be slow or small: say so honestly, and look again on day 4."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about why, then throw the rice away and wash the bowls.",
+     "do": "On day 3, two days after you started, look and smell once more. Talk about why, then throw the rice away and wash the bowls.",
      "say": "What do you think happened in the shelf bowl? Why did the fridge bowl change less?",
      "kid": "Why did the shelf rice change? Why not the fridge rice?",
      "adult": true,
@@ -1047,7 +1104,7 @@
        ]
       }
      ],
-     "wait": "Day 3: look once more, then throw it away.",
+     "wait": "Day 3: look and smell once more, then throw the rice away.",
      "check": {
       "t": "mcq",
       "q": "Why is it safer to put leftover sambar in the fridge soon after the meal?",
@@ -1094,12 +1151,11 @@
      "qty": 1
     }
    ],
-   "safety": "",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Guess, then count how many times the main door handle is touched in one evening. Add the lift button if you live in a building with a lift."
+     "what": "Guess, then count how many times the main door handle is touched in one evening."
     }
    ],
    "record": "A tally chart with one row for each person, and one row for visitors such as the milk delivery or a neighbour.",
@@ -1117,7 +1173,7 @@
      "mins": 4,
      "do": "Through the evening, each person who touches the handle makes a tally mark on the note. Your child reminds everyone.",
      "say": "Every time you touch the handle, put a mark on the note. Inside and outside both count.",
-     "kid": "Every touch, make a mark. Remind everyone, even Appa!",
+     "kid": "Every touch, make a mark. Remind everyone, even the grown-ups!",
      "wait": "Through the evening: count the touches."
     },
     {
@@ -1145,7 +1201,7 @@
      "caption": "1. Put a note by the door."
     },
     {
-     "art": "A father coming home with vegetables and making a tally mark on the note.",
+     "art": "A person coming home with vegetables and making a tally mark on the note.",
      "caption": "2. Everyone marks each touch."
     }
    ]
@@ -1174,7 +1230,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Put one grain on a plate. Double the grains six times, one doubling for every 20 minutes. Count and write each time."
+     "what": "Put one grain on a plate. Then double the grains six times. Each doubling stands for 20 minutes of real time. Count and write each time."
     }
    ],
    "record": "A table with two columns: 'Time' and 'Number of bacteria'. Draw the plate after the last doubling.",
@@ -1242,7 +1298,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the printed street map below, or a copy drawn on paper with a ruler",
+     "item": "a sheet of paper and a ruler, to draw the map",
      "qty": 1
     },
     {
@@ -1250,7 +1306,6 @@
      "qty": 1
     }
    ],
-   "safety": "",
    "schedule": [
     {
      "day": 1,
@@ -1271,7 +1326,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Squares are given as across, then down. 2. Mark a red dot for each ill family: 1-1, 2-1, 3-1, 1-2, 2-2, 3-2, 1-3, 2-3, 3-3 and 6-6. 3. Mark a blue dot for each well family: 4-1, 6-1, 6-2, 5-4, 4-5, 6-5, 5-6.",
+     "do": "1. Squares are given as across, then down. 2. Mark a red dot for each ill family: 1-1, 2-1, 1-2, 2-2, 3-2, 1-3, 2-3, 3-3, 2-4 and 6-6. 3. Mark a blue dot for each well family: 4-1, 6-1, 6-2, 5-4, 4-5, 6-5, 5-6.",
      "say": "Red dots are families who fell ill. Blue dots are families who stayed well. What do you notice?",
      "kid": "Put red dots where families fell ill. Blue dots where they are well. What do you see?"
     },
@@ -1306,9 +1361,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Read the John Snow story card together.",
+     "do": "Read the 'How we found out' card about John Snow together.",
      "say": "John Snow did this with real streets in London. One family far away turned out to have water brought from the bad pump.",
-     "kid": "Now read the true story of John Snow and the pump."
+     "kid": "Read the true story of John Snow and the pump."
     }
    ],
    "context": "This is a map puzzle. You find which well is spreading an illness by marking where ill families live.",
@@ -1410,17 +1465,16 @@
      "qty": 1
     }
    ],
-   "safety": "Ask the building's secretary or watchman before putting anything up. A grown-up comes along to stick it up.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Plan and draw a poster that shows one germ chain and one way to break it, in pictures and in Tamil, English or your home language."
+     "what": "Plan and draw a poster that shows one germ chain and one way to stop that chain, in pictures and in English and your home language."
     },
     {
      "day": 2,
      "mins": 20,
-     "what": "Get permission and put it up by the lift or the building's main door. Explain it to one neighbour."
+     "what": "Get permission from the building's secretary or watchman, and put it up by the lift, the main door or the notice board. A grown-up comes along. Explain it to one neighbour."
     }
    ],
    "record": "A photo or a drawing of your poster where it hangs, and one sentence about what a neighbour said.",
@@ -1428,7 +1482,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Draw the chain as 3 or 4 pictures. 3. Draw the habit that breaks it, big and bright. 4. Add a few words in two languages.",
+     "do": "1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Draw the chain as 3 or 4 pictures. 3. Draw the habit that breaks it, big and bright. 4. Add a few words in English and your home language.",
      "say": "Everyone in our building touches the lift button. So one poster could break a chain for many families. Which chain will you show? What words will make people stop and read?",
      "kid": "Draw one germ chain. Then draw how to break it, big and bright. Add a few words.",
      "context": "This is the first day of a 2-day project. You make a poster that helps everyone in your building break one germ chain."
@@ -1436,14 +1490,14 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Ask permission. 2. Tape the poster up by the lift or the main door. 3. Explain it to one neighbour.",
+     "do": "1. Ask the secretary or watchman for permission. 2. With a grown-up, tape the poster up by the lift, the main door or the notice board. 3. Explain it to one neighbour.",
      "say": "Let's ask the secretary first. Then you can explain the poster to anyone who stops.",
      "kid": "Ask first. Put it up. Tell one neighbour what it means.",
      "adult": true,
      "wait": "Day 2: put it up."
     }
    ],
-   "context": "In this 2-day project you make a poster for your building that shows one germ chain and how to break it.",
+   "context": "In this 2-day project you make a poster for your building that shows one germ chain and how to stop that chain.",
    "setup": [
     {
      "art": "A child drawing a poster with a hand, a lift button and a second hand, joined by arrows, and a big elbow sneeze picture.",
@@ -1465,7 +1519,8 @@
    "constraints": [
     "Use only things from home: string, cardboard, tape, an old cloth, a hook.",
     "It must not damage the door, and a grown-up must agree to it.",
-    "A child must be able to use it easily."
+    "A child must be able to use it easily.",
+    "Any loop is short and hangs low, so it can never wrap round a neck."
    ],
    "materials": [
     "string or old cloth strips",
@@ -1668,18 +1723,6 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Glitter Trail, where glitter on one person's hand was a pretend germ. Paati never touched the carrier. How did glitter get onto Paati's hand?",
-     "opts": [
-      "From the door handle and remote the carrier touched",
-      "It jumped across the room",
-      "From Paati's own glitter"
-     ],
-     "a": 0,
-     "why": "The glitter rode from the carrier's hand onto the handle and remote, and then onto Paati's hand. Picking 'jumped across the room' would mean glitter moves by itself, which it cannot do.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?",
      "opts": [
       "Much less glitter reached the things and the other people",
@@ -1745,7 +1788,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya has a cold. Which is the best way for her to sneeze?",
+     "p": "Kavya, a girl in Class 3, has a cold. Which is the best way for her to sneeze?",
      "opts": [
       "Into her elbow",
       "Into her hand",
@@ -1815,6 +1858,14 @@
      "how": "e1",
      "a": "A strong answer picks a side and gives evidence: in the Glitter Trail, people who never touched the carrier still got glitter from the handle and remote. It also says what the other side has right: colds do spread through droplets in the air too, so both can happen.",
      "why": "Both ways are real. Scientists still argue about which matters more for colds, so a good answer uses evidence and does not throw the other view away."
+    },
+    {
+     "t": "fill",
+     "p": "Germs that travel through the air ride in tiny drops of spit and mucus called ________.",
+     "a": [
+      "droplets"
+     ],
+     "why": "Coughs and sneezes spray droplets. They can carry germs to people and things nearby."
     }
    ]
   },
@@ -1842,15 +1893,6 @@
      "a": 0,
      "why": "Glitter cannot make more of itself, but bacteria can multiply in warm, wet places. So a few germs on a hand can become many in a plate of food left out.",
      "how": "e2"
-    },
-    {
-     "t": "fill",
-     "p": "One bacterium splits into 2. After the next split there are 4. After the next, ____.",
-     "a": [
-      "8",
-      "eight"
-     ],
-     "why": "Each bacterium splits into two, so the number doubles: 1, 2, 4, 8."
     },
     {
      "t": "fill",
@@ -1988,6 +2030,12 @@
      ],
      "a": 0,
      "why": "Cooling it quickly keeps bacteria from multiplying, the cover keeps flies off, and heating it well kills most germs that grew. Food safety advice is not to leave cooked food out for more than 2 hours."
+    },
+    {
+     "t": "write",
+     "p": "A neighbour says, \"Washing hands is a waste of time, because germs are everywhere anyway.\" What would you say back? Use what you know about chains.",
+     "a": "A strong answer says that most microbes are harmless, and that the germs that matter travel along chains of hands and things. Washing breaks the way-in link, so fewer germs reach the mouth, nose or eyes.",
+     "why": "Washing does not remove every microbe. It cuts the number of germs that get a ride to the next person, and that lowers the chance of illness."
     }
    ]
   },
@@ -2056,15 +2104,6 @@
      "why": "A germ goes on only if their copies reach a new body. The fewer people the ill person meets, the fewer links the germ has."
     },
     {
-     "t": "fill",
-     "p": "Bacteria that split every 20 minutes double ____ times in one hour.",
-     "a": [
-      "3",
-      "three"
-     ],
-     "why": "There are three lots of 20 minutes in an hour, so they double 3 times: 1 becomes 8."
-    },
-    {
      "t": "mcq",
      "p": "If 1 bacterium doubles 3 times every hour, about how many are there after 3 hours?",
      "opts": [
@@ -2117,17 +2156,6 @@
      "why": "This is how cholera and typhoid spread. Toilets that keep waste away from water, and boiling or filtering, break this chain."
     },
     {
-     "t": "mcq",
-     "p": "A cold virus does best when the ill person feels well enough to go out. Why?",
-     "opts": [
-      "They meet more people, so the virus has more chances to reach a new nose",
-      "Going out makes the virus bigger",
-      "Viruses need fresh air"
-     ],
-     "a": 0,
-     "why": "From the virus's side, every person met is a chance to reach a new body. That is why staying home when ill does so much."
-    },
-    {
      "t": "truefalse",
      "p": "John Snow's famous map was drawn after he had already decided that cholera spread through water.",
      "a": true,
@@ -2135,9 +2163,26 @@
     },
     {
      "t": "write",
-     "p": "Kavya cannot know if she stopped Paati catching a cold. Why is it hard to count illnesses that did not happen?",
+     "p": "In the story, Kavya cannot know whether her care stopped Paati catching a cold. Why is it hard to count illnesses that did not happen?",
      "a": "Because when a chain is broken, nothing happens, and nothing is easy to miss. You can only compare with times or places where the chain was not broken.",
      "why": "Scientists measure this by comparing many families or towns, some with a habit and some without."
+    },
+    {
+     "t": "write",
+     "p": "Plan a fair test to find out whether soap takes glitter off hands better than water alone. What stays the same? What changes?",
+     "a": "A strong answer keeps the same amount of glitter, the same hand, the same rubbing time and the same water, and changes only soap or no soap. It counts the specks left after washing.",
+     "why": "A fair test changes one thing at a time, so any difference can be put down to that one thing."
+    },
+    {
+     "t": "mcq",
+     "p": "London's cholera outbreaks stopped after the city built sewers and cleaned its water. Why did that work better than telling each person to be careful?",
+     "opts": [
+      "Clean water breaks the chain for everyone at once",
+      "Sewers kill the cholera bacteria in every person",
+      "People stopped drinking water"
+     ],
+     "a": 0,
+     "why": "Some links are too big for one person to break. A city can break them for everyone together."
     }
    ]
   }
@@ -2207,19 +2252,6 @@
   },
   {
    "t": "mcq",
-   "p": "In the Glitter Trail, why did the glitter on the elbow spread less than the glitter on the palm?",
-   "opts": [
-    "Elbows do not touch handles, buttons and food",
-    "Glitter does not stick to elbows",
-    "Elbows have no skin"
-   ],
-   "a": 0,
-   "why": "We use our hands, not our elbows, to touch things. So germs on an elbow stay there.",
-   "outcome": 2,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "What is an infection?",
    "opts": [
     "Germs getting inside the body and multiplying",
@@ -2283,7 +2315,7 @@
    "p": "How did John Snow show the Broad Street pump was to blame?",
    "opts": [
     "He found that most people who died had drunk its water",
-    "He saw the bacteria in it with his own eyes",
+    "He saw the bacteria with his own eyes",
     "He smelled the air near it"
    ],
    "a": 0,
@@ -2325,11 +2357,11 @@
   "Schools send children with chickenpox or conjunctivitis home until they are better.",
   "Health workers spray and empty standing water to stop mosquitoes that carry dengue and malaria.",
   "Vaccines stop germs such as measles and polio from passing along chains of people.",
-  "Elbow coughing and covering the mouth are taught in schools across India."
+  "Many schools teach children to cough into the elbow and to cover the mouth."
  ],
  "spotted": [
   {
-   "text": "The hand sanitiser bottle at a hospital entrance, a bank or a mall in Chennai or Bengaluru.",
+   "text": "The hand sanitiser bottle at a hospital entrance, a bank or a mall in Chennai, Kolkata or Pune.",
    "art": "A hand sanitiser stand by a glass entrance door."
   },
   {
@@ -2341,7 +2373,7 @@
    "art": "A steel pot of boiled water with a lid and a ladle, beside a water filter on a kitchen wall."
   },
   {
-   "text": "A cane basket or a net cover over a plate of idlis or fruit.",
+   "text": "A cane basket or a net cover over a plate of idlis, dhokla or fruit.",
    "art": "An upturned cane basket over a plate of idlis on a dining table."
   },
   {
@@ -2382,11 +2414,11 @@
  "ask_kids": [
   "Which thing in our home do you think is touched by the most hands each day?",
   "When you sneeze, where do the droplets go?",
-  "Why do we keep the leftover rasam in the fridge?",
+  "Why do we keep the leftover dal or rasam in the fridge?",
   "Who in your class had a cold last? Did anyone else catch it after them?",
   "Is there any still water on our balcony where mosquitoes could lay eggs?",
-  "Why does Amma boil or filter the drinking water?",
-  "If you have a cold, how can you stay close to Paati without giving it to her?",
+  "Why do we boil or filter the drinking water at home?",
+  "If you have a cold, how can you stay close to a grandparent or an older relative without giving it to them?",
   "Why do you think the doctor did not give medicine for your last cold?",
   "Which link would you break first if someone at home had a tummy bug?",
   "How many people do you think pressed the lift button today?"
@@ -2397,24 +2429,20 @@
    "a": "They didn't. They got a ride on someone's hand."
   },
   {
-   "j": "What did one germ say to the other at the lift?",
-   "a": "Press the button. Someone's coming!"
-  },
-  {
-   "j": "Why was the cold virus so happy at the cricket match?",
-   "a": "Everyone was clapping and high-fiving."
-  },
-  {
    "j": "What is a germ's favourite game?",
    "a": "Pass the parcel."
   },
   {
-   "j": "Why did the tissue win a prize?",
-   "a": "It always caught the sneeze."
+   "j": "Why was the door handle so tired?",
+   "a": "Everyone kept shaking its hand."
   },
   {
-   "j": "What does a germ hate most about soap?",
-   "a": "Soap sends them sliding down the drain."
+   "j": "What did John Snow take away from the pump?",
+   "a": "A handle on the problem."
+  },
+  {
+   "j": "Why did the virus fail at hide and seek?",
+   "a": "Every time, someone sneezed and gave them away."
   },
   {
    "j": "Why did the elbow feel proud?",
@@ -2429,32 +2457,12 @@
    "a": "Twenty minutes later, there were two of them."
   },
   {
-   "j": "What did the fly say to the covered idli?",
-   "a": "No entry? That's not fair!"
-  },
-  {
-   "j": "What did John Snow take away from the pump?",
-   "a": "A handle on the problem."
-  },
-  {
-   "j": "Why was the door handle so tired?",
-   "a": "Everyone kept shaking its hand."
-  },
-  {
-   "j": "Why did the virus fail at hide and seek?",
-   "a": "Every time, someone sneezed and gave them away."
+   "j": "Why was the cold virus so happy at the cricket match?",
+   "a": "Everyone was clapping and high-fiving."
   },
   {
    "j": "How do germs get to school?",
    "a": "On the school bus, holding on to every handle."
-  },
-  {
-   "j": "Why did the mosquito get lost?",
-   "a": "Someone emptied all the puddles on the map."
-  },
-  {
-   "j": "What do you call a germ who never gets a ride?",
-   "a": "Stuck."
   }
  ],
  "maths": [
@@ -2523,7 +2531,7 @@
    "why_maths": "Adding up each step shows how a chain branches out and gets bigger every week."
   },
   {
-   "problem": "In the Handshake Chain, Meenakshi counted 48 specks on hand 1, 12 on hand 2 and 3 on hand 3. What pattern do you see? How many would you expect on hand 4?",
+   "problem": "In the Handshake Chain, a girl called Meenakshi counted 48 specks on hand 1, 12 on hand 2 and 3 on hand 3. What pattern do you see? How many would you expect on hand 4?",
    "answer": "Each hand had about a quarter of the hand before. So hand 4 would have about 1 speck, or none.",
    "explain": "48 divided by 4 is 12, and 12 divided by 4 is 3. So each shake passed on about a quarter. 3 divided by 4 is less than 1, so hand 4 would have 1 speck or none.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2740,7 +2748,7 @@
   "deep_truth": {
    "truth": "In the glitter test, people who never touched the carrier still got glitter on their hands. It rode there on the door handle and the remote. Germs travel the same way, from hand to thing to hand. So your health is joined to people you may never meet.",
    "habit": "We think of catching an illness as something between us and the one ill person beside us. Often the germ came along a longer chain, through handles, buttons, water and air shared by many people.",
-   "evidence": "In the Glitter Trail, the third person never went near the carrier, yet had glitter on their palms from the handle and the remote. John Snow found a widow in Hampstead who died of cholera from Broad Street water carried to her across London."
+   "evidence": "In the Glitter Trail, the helper never went near the carrier, yet had glitter on the palms from the handle and the remote. John Snow found a widow in Hampstead who died of cholera from Broad Street water carried to her across London."
   },
   "three": {
    "who_am_i": "You are one link in many chains. What your hands touch reaches people you will never see.",
@@ -2783,7 +2791,7 @@
   "ask": [
    "If your health is joined to people you never meet, who are you looking after when you wash your hands?",
    "A germ is trying to keep their family going, like every living being. How do you feel about the germs you washed away?",
-   "Kavya kept Paati well without touching her. What other kinds of care work from a distance?"
+   "In the story, Kavya kept Paati well without touching her. What other kinds of care work from a distance?"
   ],
   "art": "A tall building of flats drawn as a cut-away, with faint glowing lines running between hands on every floor, all meeting at the lift button on the ground floor."
  },
@@ -2793,5 +2801,5 @@
   "when": "August and September 1854",
   "wrong_idea": "Most doctors thought cholera came from miasma, bad-smelling air. Snow showed that people who breathed the same air but drank other water stayed well, while a woman far away who drank the pump water died."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat with the materials listed. The Glitter Trail uses a small pinch of glitter on a little oil so it sticks like germs in skin oil, and a torch held low so single specks flash. The touch list is fixed so both rounds are fair, and everyone's hands are checked first. The Handshake Chain counts specks through a 2 cm square so the counts are possible. The rice test is never tasted and is smelled only from a distance, and gives a clear sour smell by day 2 in a warm kitchen."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat with the materials listed. The Glitter Trail needs only one other person: the carrier touches a fixed list of things, the helper uses them after, and everyone's hands are checked with a torch before and after. The Handshake Chain counts specks through a 2 cm square straight after each shake, and works with two people. The rice test is never tasted and is smelled only from a distance; in a warm kitchen the shelf rice often smells sour by day 2 or 3, and in a cool room the change may be small. Every card in the games is written out, and the Germ Chain cards each have a STOP card that fits."
 }

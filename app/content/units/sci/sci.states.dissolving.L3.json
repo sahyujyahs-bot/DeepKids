@@ -113,8 +113,8 @@
    "description": "A little water cannot dissolve a whole packet of salt. In 100 millilitres of water, about half a small tumbler, you can dissolve about 36 grams of salt. That is about six level teaspoons. After that, extra salt stays on the bottom, however long you stir. Sugar is different. The same water can dissolve about 200 grams of sugar, around five times as much by weight. So the limit depends on what you are dissolving. Stirring does not change the limit. It only helps the water reach it faster.",
    "examples": [
     "Three tablespoons of water took two or three teaspoons of salt in the Full Glass Test, but more than ten teaspoons of sugar.",
-    "Sugar syrup for gulab jamun is very thick because a lot of sugar is dissolved in a little water.",
-    "Water that is full of salt is about ten times saltier than sea water."
+    "Sugar syrup for rasgulla or gulab jamun is very thick because a lot of sugar is dissolved in a little water.",
+    "Water that is full of salt is about seven times saltier than sea water."
    ],
    "perspectives": [],
    "art": "A bar picture: a short bar for salt and a bar five times taller for sugar, both above the same small glass of water.",
@@ -196,7 +196,7 @@
    "definition": "Some liquids mix into water completely and make a solution. Others, like oil, do not mix with water and always separate into a layer.",
    "description": "Lemon juice, vinegar and rose water mix into water completely. You cannot see where one ends and the other begins. Oil is different. Shake oil and water in a bottle, and the oil breaks into drops. Leave it still, and the drops join up again and float to the top as a layer. Oil is lighter than the same amount of water, so it floats. Water particles hold on to each other more than they hold on to oil, so the oil is pushed out into its own layer. A drop of dish soap helps oil spread through water as tiny drops, which is how soap washes oil off a plate.",
    "examples": [
-    "In a pickle jar, the oil sits on top of the mango pieces and juice.",
+    "In a jar of Andhra avakaya pickle, the oil sits on top of the mango pieces.",
     "Tadka oil floats as shiny circles on top of a bowl of sambar.",
     "Washing an oily kadai needs soap, because water alone slides off the oil."
    ],
@@ -281,11 +281,6 @@
    "q": "The sea is salty but rivers taste fresh. Where does the salt in the sea come from?",
    "kind": "big",
    "hint": "Rivers carry a tiny amount of dissolved salt from rocks. Think about what happens when sea water evaporates and the salt stays."
-  },
-  {
-   "q": "Your tears, sweat and blood all have salt dissolved in them. Are you carrying a little bit of the sea inside you?",
-   "kind": "big",
-   "hint": "Think about how much of your body is water, and what is dissolved in it."
   }
  ],
  "how_we_found_out": {
@@ -344,8 +339,8 @@
    "kid": "Close your eyes. Put three salt grains on your tongue. Keep still. Feel them get smaller. Taste the salt spread. Breathe slowly three times."
   },
   "ask": [
-   "Your water was full of salt, but it still took sugar. Can something be full and still have room?",
-   "When salt dissolves, it comes apart into two kinds of particles. Is it still salt?",
+   "You could not see the salt, but you could taste it. What else might be in the glass that you cannot see?",
+   "The sugar you dissolved is still in the glass. What else might be in the water you drink, and how could you find out?",
    "The salt in your tears and the salt in the sea dissolved in water. Where do you think the salt in you came from?"
   ],
   "art": "A child on a balcony at dusk holding a glass of water up to the evening light, with a few salt grains on the bottom and the sea far away on the horizon."
@@ -375,9 +370,9 @@
    "Farhan stared. He dipped his finger in and licked it. Then he made a face. \"Salty and sweet together! That is disgusting!\"",
    "Lakshmi laughed. \"So the water was full of salt, but it was not full of sugar.\"",
    "\"How can it be full and not full?\" asked Farhan.",
-   "\"I don't think water has empty spaces that fill up,\" said Lakshmi slowly. \"I think water holds on to each thing in its own way. It can hold this much salt, and a lot more sugar. Filling it with salt does not stop it holding sugar.\"",
+   "\"Maybe water is not like a box with empty spaces that fill up,\" said Lakshmi slowly. \"I think water holds on to each thing in its own way. It can hold this much salt, and a lot more sugar. Filling it with salt does not stop it holding sugar.\"",
    "Their mother came in from the balcony with a basket of dry clothes. She looked at the floor, which was gritty with salt, and at the two glasses. \"What is going on here?\"",
-   "\"Farhan made a sea,\" said Lakshmi. \"Ten times saltier than the real one.\"",
+   "\"Farhan made a sea,\" said Lakshmi. \"Many times saltier than the real one.\"",
    "\"There is a real sea like that,\" said Amma. \"It is called the Dead Sea. It is between Jordan and Israel. Its water is so salty that people float on it like corks, and white salt crusts form along its shore.\"",
    "Farhan's eyes went wide. \"Mine is a Dead Sea too!\" He found a sticky note, wrote DEAD SEA, CHENNAI on it, and stuck it on the tumbler.",
    "\"Fine,\" said Amma. \"But your Dead Sea is going on the balcony. And this floor is getting swept.\"",
@@ -429,8 +424,7 @@
     },
     {
      "item": "a tablespoon and a teaspoon from the kitchen, or measuring spoons",
-     "qty": 1,
-     "buy": "b-spoons"
+     "qty": 1
     },
     {
      "item": "water at room temperature, from a filter or a bottle",
@@ -457,7 +451,6 @@
      "qty": 1
     }
    ],
-   "safety": "Only taste with a clean spoon, and only a drop. Very salty water should not be drunk. Wipe up spilt sugar so ants do not come.",
    "schedule": [
     {
      "day": 1,
@@ -549,7 +542,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 11,
      "do": "1. Add one level teaspoon of salt. 2. Stir for one minute, counting to 60. 3. Look at the bottom. 4. If it is all gone, add the next spoon. 5. Stop when grains stay on the bottom after a minute.",
      "say": "Stir for a whole minute. Now look at the bottom carefully. Has every grain gone? Then add the next spoon.",
      "kid": "Add one spoon of salt. Stir and count to 60. Look at the bottom. All gone? Add another. Grains still there? Stop.",
@@ -613,15 +606,15 @@
      "qty": 3
     },
     {
-     "item": "half a cup of water from the fridge, with an ice cube in it",
+     "item": "one cup of water from the fridge, with an ice cube in it (half a cup for each try)",
      "qty": 1
     },
     {
-     "item": "half a cup of water at room temperature",
+     "item": "one cup of water at room temperature (half a cup for each try)",
      "qty": 1
     },
     {
-     "item": "half a cup of warm water, as warm as a bath, made by a grown-up by mixing kettle water with tap water",
+     "item": "one cup of warm water, as warm as a bath, made by a grown-up by mixing kettle water with tap water (make it fresh for the second try)",
      "qty": 1
     },
     {
@@ -633,7 +626,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the warm water and checks it is only bath-warm, never hot enough to hurt a finger. Take the ice cube out before adding the sugar.",
+   "safety": "A grown-up makes the warm water and checks it is only bath-warm, never hot enough to hurt a finger.",
    "schedule": [
     {
      "day": 1,
@@ -725,17 +718,17 @@
      "do": "Ask for claim, evidence and reasoning.",
      "say": "What do you think now? What did you see? Why do you think warm water was faster?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A strong answer: warm water dissolves sugar fastest. It took about 20 stirs, and cold water took about 90. In warm water the water particles move faster and bump into the sugar grains harder and more often. This is why lemonade sellers dissolve the sugar in a little warm water first.",
+     "parent": "A strong answer: warm water dissolves sugar fastest. It took about 20 stirs, and cold water took about 90. In warm water the water particles move faster and bump into the sugar grains harder and more often. This is why it helps to dissolve the sugar for cold lemonade in a little warm water first.",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 3, is making cold lemonade. How can she make the sugar dissolve quickly?",
+      "q": "In one test, ice-cold water took about 90 stirs, room water 45 and bath-warm water 20. What does this show?",
       "options": [
-       "Add the sugar to the ice-cold water and wait",
-       "Dissolve the sugar in a little warm water first, then add cold water",
-       "Add more ice"
+       "The warmer the water, the faster the sugar dissolved",
+       "Sugar only dissolves in warm water",
+       "The stirring was too slow"
       ],
-      "a": 1,
-      "why": "Sugar dissolves much faster in warm water. Once it has dissolved, it stays dissolved when cold water is added. Waiting in ice-cold water works, but very slowly. More ice makes it slower still."
+      "a": 0,
+      "why": "Each warmer glass needed fewer stirs, so warmth made the sugar dissolve faster. The sugar also dissolves in cold water, but it takes much longer. Stirring was the same every time, so it cannot explain the difference."
      }
     }
    ]
@@ -773,7 +766,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the warm water and checks it is only bath-warm. Do not drink the salty water.",
+   "safety": "A grown-up makes the warm water and checks it is only bath-warm.",
    "schedule": [
     {
      "day": 1,
@@ -781,7 +774,7 @@
      "what": "Guess, then count spoons of salt dissolving in cool and in warm water."
     }
    ],
-   "record": "Fill in the table. Write one sentence comparing this with what sugar does in warm water.",
+   "record": "Fill in the table. Write one sentence comparing this with how warm water dissolved sugar in the Cold, Room or Warm test.",
    "setup": [
     {
      "art": "Two identical glasses labelled COOL and WARM, each with three tablespoons of water.",
@@ -801,7 +794,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. A grown-up makes bath-warm water. 2. Put three tablespoons of cool water in one glass and three of warm water in the other. 3. Ask for a guess.",
-     "say": "Warm water dissolved sugar much faster. Do you think it can also hold more salt? How many more spoons? Why do you think so?",
+     "say": "In the Cold, Room or Warm test, warm water dissolved sugar much faster. Do you think it can also hold more salt? How many more spoons? Why do you think so?",
      "kid": "Guess how many spoons of salt the warm water will take. More than the cool water? Why?",
      "adult": true,
      "parent": "Most children, and many grown-ups, guess that warm water will take a lot more. Write their guess down."
@@ -812,15 +805,15 @@
      "do": "1. Add salt to each glass, one level teaspoon at a time, stirring each for one minute. 2. After two spoons, add half teaspoons instead. 3. Stop each glass when grains stay after a minute of stirring.",
      "say": "Add the salt one spoon at a time, just like the Full Glass Test. After two spoons, add half spoons, so we can see small differences.",
      "kid": "Add salt a spoon at a time. Stir and count to 60. After two spoons, add half spoons. Stop when grains stay.",
-     "parent": "The warm glass cools as you go, but it stays warmer than the cool glass for the test. Warm water dissolves the salt a little faster, but its limit is only a tiny bit higher. Expect the same count, or at most half a spoon more."
+     "parent": "The warm glass cools as you go, but it stays warmer than the cool glass for the test. Warm water dissolves the salt a little faster, but its limit is only a tiny bit higher. Expect the same count, or at most half a spoon more. A difference this small is hard to see with a kitchen spoon, so write down honestly what you saw."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "Compare the two counts. Then ask for claim, evidence and reasoning.",
-     "say": "Warm water took a lot more sugar, but about the same salt. What does that tell us about salt and sugar?",
+     "say": "Warm water dissolved sugar much faster. But did it take more salt? What does that tell us about salt and sugar?",
      "kid": "Compare the two glasses. Same? Different? What does that tell you?",
-     "parent": "A strong answer: warm water hardly takes any more salt. Both glasses stopped at about the same spoon. Sugar is different, because warm water holds much more sugar. So each substance has its own limit, and heat changes the limits differently.",
+     "parent": "A strong answer: warm water took hardly any more salt. Both glasses stopped at about the same spoon. You may not see any difference at home, and that is the result. Chemists have measured that warm water holds much more sugar but almost the same salt. So each substance has its own limit, and heat changes the limits differently.",
      "check": {
       "t": "mcq",
       "q": "What did warm water do to how much salt could dissolve?",
@@ -861,7 +854,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not drink the test water. Turmeric stains clothes, so wear old clothes.",
+   "safety": "Turmeric stains clothes, so wear old clothes.",
    "schedule": [
     {
      "day": 1,
@@ -908,7 +901,7 @@
      "do": "1. Add half a teaspoon of one thing to each cup. 2. Stir for 30 seconds. 3. Wait one minute and look. 4. Shine a torch through each cup from the side. 5. Pour away, rinse and test the next four.",
      "say": "Stir for 30 seconds. Now wait, and look. Is the water clear or cloudy? Is anything on the bottom or on the top?",
      "kid": "Add one thing to each cup. Stir for 30 seconds. Wait. Look at the top, the middle and the bottom.",
-     "parent": "Salt and sugar disappear. Jaggery mostly disappears but leaves the water brown and may leave a few bits. Instant coffee dissolves. Tea dust colours the water but the bits stay. Atta makes the water cloudy, then settles. Rava sinks. Turmeric colours the water yellow but slowly settles as a layer. Oil floats. A torch beam shows up clearly in cloudy water."
+     "parent": "Salt and sugar disappear. Jaggery mostly disappears but leaves the water brown and may leave a few bits. Instant coffee dissolves. Tea dust colours the water but the bits stay. Atta makes the water cloudy, then settles. Rava sinks. Turmeric colours the water yellow but slowly settles as a layer. Oil floats. A torch beam shows up clearly in cloudy water. Test the oil last, and wash the cups with a drop of dish-washing liquid afterwards."
     },
     {
      "id": "s3",
@@ -959,7 +952,6 @@
      "qty": 2
     }
    ],
-   "safety": "Taste only a drop, with a clean spoon.",
    "schedule": [
     {
      "day": 1,
@@ -1012,7 +1004,7 @@
      "do": "Ask your child to explain what happened.",
      "say": "The cloth caught the atta but not the salt. Why do you think that is? How could we get the salt back?",
      "kid": "Why did the cloth catch the atta but not the salt? How could you get the salt back?",
-     "parent": "A strong answer: the atta did not dissolve, so its bits are big enough to catch. The salt dissolved into tiny particles that go through the holes. To get the salt back, let the water dry up in the sun.",
+     "parent": "A strong answer: the atta did not dissolve, so its bits are big enough to catch. The salt dissolved into tiny particles that go through the holes. To get the salt back, leave the water on a plate in a sunny window until it dries.",
      "check": {
       "t": "mcq",
       "q": "Why did the salt go through the cloth?",
@@ -1059,7 +1051,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the lemons and makes the warm water. Lemon juice stings cuts, so check hands first.",
+   "safety": "A grown-up cuts the lemons with the knife and makes the warm water.",
    "schedule": [
     {
      "day": 1,
@@ -1130,15 +1122,15 @@
    "context": "Solids are not the only things that can dissolve. Here you test a liquid, oil, to see whether it dissolves in water.",
    "materials": [
     {
-     "item": "a small clear plastic bottle with a tight cap, half full of water",
-     "qty": 1
+     "item": "two small clear plastic bottles with tight caps, each half full of water",
+     "qty": 2
     },
     {
      "item": "two tablespoons of cooking or coconut oil",
      "qty": 1
     },
     {
-     "item": "two tablespoons of lemon juice or vinegar, in a second bottle of water",
+     "item": "two tablespoons of lemon juice or vinegar",
      "qty": 1
     },
     {
@@ -1146,7 +1138,6 @@
      "qty": 1
     }
    ],
-   "safety": "Close the cap tightly before shaking. Wipe up oil at once so no one slips.",
    "schedule": [
     {
      "day": 1,
@@ -1273,44 +1264,140 @@
      "kind": "cards",
      "title": "24 thing cards to cut out, with the answer on the back",
      "items": [
-      "Salt (Dissolves)",
-      "Sugar (Dissolves)",
-      "Jaggery (Dissolves, may leave a few bits)",
-      "Instant coffee (Dissolves)",
-      "Lemon juice (Dissolves)",
-      "Rose water (Dissolves)",
-      "Honey (Dissolves)",
-      "ORS powder (Dissolves)",
-      "Glucose powder (Dissolves)",
-      "Vinegar (Dissolves)",
-      "Tamarind pulp (The sour taste dissolves, the fibres do not)",
-      "Food colour (Dissolves)",
-      "Sand (Does not dissolve: sinks)",
-      "Rava (Does not dissolve: sinks)",
-      "Atta (Does not dissolve: cloudy, then settles)",
-      "Rice (Does not dissolve: sinks)",
-      "Coconut oil (Does not dissolve: floats)",
-      "Ghee (Does not dissolve: floats)",
-      "Chalk (Does not dissolve: cloudy, then settles)",
-      "Turmeric powder (Does not dissolve: colours the water, then settles)",
-      "A steel spoon (Does not dissolve)",
-      "A plastic bead (Does not dissolve: may float)",
-      "Coffee grounds from a filter (Do not dissolve)",
-      "Mud (Does not dissolve: cloudy, then settles)"
+      {
+       "f": "Salt",
+       "b": "Dissolves. The water stays clear."
+      },
+      {
+       "f": "Sugar",
+       "b": "Dissolves. The water stays clear."
+      },
+      {
+       "f": "Jaggery",
+       "b": "Dissolves. The water turns brown, and a few bits may stay."
+      },
+      {
+       "f": "Instant coffee",
+       "b": "Dissolves. The water stays clear but turns brown."
+      },
+      {
+       "f": "Lemon juice",
+       "b": "Dissolves. It mixes in completely."
+      },
+      {
+       "f": "Rose water",
+       "b": "Dissolves. It mixes in completely."
+      },
+      {
+       "f": "Honey",
+       "b": "Dissolves. It sinks at first, then mixes in when you stir."
+      },
+      {
+       "f": "ORS powder",
+       "b": "Dissolves. The water stays clear."
+      },
+      {
+       "f": "Glucose powder",
+       "b": "Dissolves. The water stays clear."
+      },
+      {
+       "f": "Vinegar",
+       "b": "Dissolves. It mixes in completely."
+      },
+      {
+       "f": "Tamarind pulp",
+       "b": "The sour taste dissolves. The stringy bits do not, and they sink."
+      },
+      {
+       "f": "Food colour",
+       "b": "Dissolves. The water stays clear but takes the colour."
+      },
+      {
+       "f": "Sand",
+       "b": "Does not dissolve. It sinks."
+      },
+      {
+       "f": "Rava",
+       "b": "Does not dissolve. It sinks."
+      },
+      {
+       "f": "Atta",
+       "b": "Does not dissolve. The water turns cloudy, then the atta settles."
+      },
+      {
+       "f": "Rice",
+       "b": "Does not dissolve. It sinks."
+      },
+      {
+       "f": "Coconut oil",
+       "b": "Does not dissolve. It floats."
+      },
+      {
+       "f": "Ghee",
+       "b": "Does not dissolve. It floats as a layer."
+      },
+      {
+       "f": "Chalk",
+       "b": "Does not dissolve. The water turns cloudy, then the chalk settles."
+      },
+      {
+       "f": "Turmeric powder",
+       "b": "Does not dissolve. It colours the water yellow, then most of it settles."
+      },
+      {
+       "f": "A steel spoon",
+       "b": "Does not dissolve. It sinks."
+      },
+      {
+       "f": "A plastic bead",
+       "b": "Does not dissolve. It may float or sink."
+      },
+      {
+       "f": "Used filter-coffee grounds",
+       "b": "Do not dissolve. They stay in the filter or sink."
+      },
+      {
+       "f": "Mud",
+       "b": "Does not dissolve. The water turns cloudy, then the mud settles."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "8 bonus question cards",
+     "title": "8 bonus question cards, with the answer on the back",
      "items": [
-      "What word means 'can dissolve'? (Soluble)",
-      "What word means 'cannot dissolve'? (Insoluble)",
-      "What is a solution full of one thing called? (Saturated)",
-      "Which dissolves faster, sugar in warm water or cold water? (Warm)",
-      "Can a cloth catch dissolved salt? (No)",
-      "Which can more of dissolve in the same water, salt or sugar? (Sugar)",
-      "How can you get dissolved salt back? (Let the water evaporate)",
-      "Who showed that salt comes apart into ions? (Svante Arrhenius)"
+      {
+       "f": "Name one kitchen thing that is soluble.",
+       "b": "Salt, sugar, jaggery or instant coffee are all soluble."
+      },
+      {
+       "f": "Name one kitchen thing that makes water cloudy and then settles.",
+       "b": "Atta, chalk powder or mud."
+      },
+      {
+       "f": "You stirred salt into water and cannot see it. How can you show it is still there?",
+       "b": "Taste a drop, or let the water dry up and see the salt left behind."
+      },
+      {
+       "f": "Oil and water are shaken in a bottle and then left still. What happens?",
+       "b": "The oil drops join up and float back to the top as a layer."
+      },
+      {
+       "f": "Why does a tea strainer keep the leaves but let the tea through?",
+       "b": "The leaves do not dissolve, so they are caught. The colour and taste dissolve, so they go through."
+      },
+      {
+       "f": "Where does the salt go when sea water dries up in a salt pan?",
+       "b": "It stays behind as white crystals. Only the water goes into the air."
+      },
+      {
+       "f": "Does stirring for longer make water hold more salt?",
+       "b": "No. Stirring only helps the water reach its limit faster."
+      },
+      {
+       "f": "A drop of soap is added to a bottle of oil and water. What does it do?",
+       "b": "It keeps tiny drops of oil spread through the water for longer."
+      }
      ]
     },
     {
@@ -1324,19 +1411,19 @@
     }
    ],
    "rules": [
-    "Shuffle the thing cards and put them face down. Put the bonus cards in a separate pile.",
+    "Shuffle the thing cards and put them face down. Put the bonus cards in a separate pile, face down.",
     "On your turn, turn over a thing card and read it out. Say 'Dissolves' or 'Does not'.",
     "Turn the card over to check. A right guess scores 1 point.",
-    "If you also say what you would see, such as 'cloudy' or 'floats', score 1 extra point.",
-    "After every fourth card, the player whose turn it is answers a bonus card for 1 point.",
+    "If you also say what you would see, such as 'cloudy' or 'floats', and the back agrees, score 1 extra point.",
+    "After every third thing card, the player whose turn comes next answers a bonus card for 1 point.",
     "If anyone doubts an answer, test it in water, if you have the thing at home.",
-    "The player with the most points after all 24 cards wins. Playing alone, try to beat 20."
+    "The player with the most points after all 24 cards wins. If points are equal, the players share the win. Playing alone, try to beat your own score next time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the cards and read the rules together.",
+     "do": "Cut out the thing cards and the bonus cards. Read the rules together.",
      "say": "Each card is something from home. Guess if it dissolves in water. Then turn it over.",
      "kid": "Cut out the cards. Turn one over. Does it dissolve? Guess. Then check the back.",
      "context": "This is the Dissolve or Not? card game."
@@ -1391,17 +1478,45 @@
    "printables": [
     {
      "kind": "board",
-     "title": "Two glass boards",
+     "title": "Salt glass board: 4 squares (one board for each player)",
      "items": [
-      "SALT GLASS: a drawn glass with 3 spoon spaces inside it, and a 'bottom of the glass' box below for extra salt",
-      "SUGAR GLASS: a drawn glass with 20 spoon spaces inside it"
+      "Salt glass: spoon space 1",
+      "Salt glass: spoon space 2",
+      "Salt glass: spoon space 3",
+      "Salt glass: bottom of the glass (spoons that did not dissolve)"
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "Sugar glass board: 20 squares (one board for each player)",
+     "items": [
+      "Sugar glass: spoon space 1",
+      "Sugar glass: spoon space 2",
+      "Sugar glass: spoon space 3",
+      "Sugar glass: spoon space 4",
+      "Sugar glass: spoon space 5",
+      "Sugar glass: spoon space 6",
+      "Sugar glass: spoon space 7",
+      "Sugar glass: spoon space 8",
+      "Sugar glass: spoon space 9",
+      "Sugar glass: spoon space 10",
+      "Sugar glass: spoon space 11",
+      "Sugar glass: spoon space 12",
+      "Sugar glass: spoon space 13",
+      "Sugar glass: spoon space 14",
+      "Sugar glass: spoon space 15",
+      "Sugar glass: spoon space 16",
+      "Sugar glass: spoon space 17",
+      "Sugar glass: spoon space 18",
+      "Sugar glass: spoon space 19",
+      "Sugar glass: spoon space 20"
      ]
     },
     {
      "kind": "tokens",
      "title": "Spoon tokens",
      "items": [
-      "30 small paper squares or dried beans, used as spoons"
+      "Cut 20 small paper squares for each player, or use 20 dried beans each. Each one is a spoon."
      ]
     },
     {
@@ -1415,29 +1530,30 @@
     }
    ],
    "rules": [
-    "Each player has a salt glass and a sugar glass.",
+    "Each player has a salt glass board, a sugar glass board and 20 spoon tokens.",
     "On your turn, roll a die. Odd number: add 1 spoon to your salt glass. Even number: add 2 spoons to your sugar glass.",
-    "A spoon goes in a space only if there is an empty space. If the glass is full, the spoon goes in the 'bottom of the glass' box. It did not dissolve.",
+    "A spoon goes in a space only if there is an empty space. If the salt glass is full, the spoon goes in the 'bottom of the glass' square. It did not dissolve.",
     "Each spoon in a space scores 1 point. Each spoon on the bottom loses 1 point.",
     "Once your salt glass is full, you may choose, on an odd roll, to put the spoon in your sugar glass instead. Say why first: 'Full salt water can still dissolve sugar.'",
-    "After 10 turns each, the player with the most points wins."
+    "Play 10 turns each. With four players, play 6 turns each.",
+    "The player with the most points wins. If points are equal, the players share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw or print the two glass boards for each player. Read the rules.",
+     "do": "Cut out the two glass boards and 20 spoon tokens for each player. Find a die, or write 1 to 6 on slips of paper and draw one from a cup. Read the rules.",
      "say": "The salt glass has only 3 spaces, but the sugar glass has 20. Why do you think that is?",
      "kid": "Look at the two glasses. Salt has 3 spaces. Sugar has 20. Why?",
-     "context": "This is the Full Glass dice race. Its spaces match the Full Glass Test."
+     "context": "This is the Full Glass dice race. Its glasses match the Full Glass Test."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play 10 turns each.",
+     "do": "Play 10 turns each, or 6 turns each with four players.",
      "say": "Your salt glass is full. Where does this spoon go? Can you use the sugar rule?",
      "kid": "Roll and add spoons. Full glass? The spoon goes on the bottom.",
-     "parent": "The salt glass's 3 spaces match about three tablespoons of water. The game shows that a full salt glass still has room for sugar."
+     "parent": "The salt glass's 3 spaces match about three tablespoons of water. Children often put a spoon on the bottom the first time the salt glass is full and lose a point. Then they find the sugar rule, which is the point of the game: a full salt glass still has room for sugar."
     },
     {
      "id": "s3",
@@ -1476,11 +1592,11 @@
    "title": "Clean the Muddy Water",
    "mins": 30,
    "context": "An engineering challenge. Make muddy water as clear as you can, using only things from home. Then find out what your clean water still has in it.",
-   "problem": "Divya, a girl in Class 3, has a glass of water with soil, rava and a spoon of salt mixed in. Make the water as clear as you can, using only things from home. Then say whether it is safe to drink.",
+   "problem": "Divya, a girl in Class 3, has a glass of water with soil, rava and a spoon of salt mixed in. Your job is to make the water as clear as you can, using only things from home. Then say what is still in it.",
    "constraints": [
     "Use only things from home.",
     "No boiling and no chemicals.",
-    "You have 20 minutes.",
+    "You have 30 minutes.",
     "Nobody drinks the water, however clear it looks."
    ],
    "materials": [
@@ -1489,7 +1605,7 @@
     "two clear glasses"
    ],
    "general": [
-    "Let it settle for 20 minutes, then pour the clear top water off carefully. This is how people used to clear river water in a matka.",
+    "Let it settle for 10 minutes while you build a filter, then pour the clear top water off carefully. Water left still in a pot lets the mud sink.",
     "Strain it through a folded cloth in a tea strainer.",
     "Make a bottle filter: cut a plastic bottle in half, turn the top upside down, and fill it with cotton wool, then clean sand, then small stones."
    ],
@@ -1498,7 +1614,7 @@
     "Pour it through the same filter twice.",
     "Hang a cloth with one end in the muddy glass and the other in an empty glass below. Water creeps along the cloth and drips out much clearer, but this takes hours."
    ],
-   "your_turn": "Design your own way to clear the water. Draw it, test it, and compare it with one other way. Then taste one drop from a clean spoon and say what the filter could not take out.",
+   "your_turn": "Design your own way to clear the water. Draw it, test it, and compare it with one other way. Then say what the filter could not take out, and how you know.",
    "flow": [
     {
      "id": "s1",
@@ -1519,10 +1635,10 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Taste one drop of the clearest water from a clean spoon. Read the usual and creative ideas.",
-     "say": "It looks clear. But taste one drop. What is still in it? Is clear water always safe water?",
-     "kid": "Taste one drop. Is it still salty? Is clear water always safe?",
-     "parent": "The salt is still there, because it dissolved. Germs can pass through these filters too, which is why drinking water is boiled or treated. Clear does not mean safe."
+     "do": "Put a teaspoon of the clearest water on a saucer by a sunny window. Read the usual and creative ideas. Look at the saucer the next day.",
+     "say": "It looks clear. But think about the Strain It test, when salt went through the cloth. Is the salt still in this water? Is clear water always safe water?",
+     "kid": "Think about the Strain It test. Is the salt still in your clear water? Is clear water always safe? Look at the saucer tomorrow.",
+     "parent": "The salt is still there, because it dissolved and goes through any filter. The saucer will show a thin white crust of salt once it dries. Germs can pass through these filters too, which is why drinking water is boiled or treated. Clear does not mean safe."
     }
    ],
    "setup": [
@@ -1535,8 +1651,8 @@
      "caption": "2. Build a filter and pour the water through."
     },
     {
-     "art": "Two glasses of filtered water held in front of a white paper, and a child tasting one drop from a spoon.",
-     "caption": "3. Compare against white paper. Taste one drop."
+     "art": "Two glasses of filtered water held in front of a white paper, and a saucer of water drying by a sunny window.",
+     "caption": "3. Compare against white paper. Leave a spoon of water on a saucer."
     }
    ]
   },
@@ -1558,7 +1674,7 @@
    ],
    "general": [
     "Dissolve the sugar in two spoons of warm water first, then add cold water.",
-    "Make a bottle of sugar syrup the day before, like juice shops do.",
+    "Make a bottle of sugar syrup the day before and keep it in the fridge.",
     "Stir hard and fast."
    ],
    "creative": [
@@ -1566,7 +1682,7 @@
     "Shake the sugar and water together in a closed jar instead of stirring.",
     "Use powdered sugar or glucose powder."
    ],
-   "your_turn": "Choose your best two ideas. Time each one with the same amount of sugar and cold water, and tell Anjali which to use.",
+   "your_turn": "Choose your best two ideas. Time each one with the same amount of sugar and cold water, and decide which is best for a busy stall.",
    "flow": [
     {
      "id": "s1",
@@ -1666,21 +1782,22 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, stirs a spoon of atta into water. The water turns white and cloudy. What will happen if she leaves it still for an hour?",
+     "p": "A torch beam shines through a glass of water from the side. You can see the beam clearly inside the water. What does that tell you?",
      "opts": [
-      "It will turn clear and the atta will be gone",
-      "Most of the atta will settle on the bottom",
-      "It will turn into dough"
+      "Salt is dissolved in it",
+      "Tiny bits are floating in it and have not dissolved",
+      "The water is very hot"
      ],
      "a": 1,
-     "why": "Atta does not dissolve. Its tiny bits float for a while, then settle on the bottom. Cloudy water is a sign that something has not dissolved.",
+     "why": "The beam shows up when light hits floating bits. In a clear solution the beam is hard to see, because nothing floats in it.",
      "how": "a1"
     },
     {
      "t": "truefalse",
-     "p": "When salt dissolves, it is gone from the water.",
+     "p": "If you shake oil and water hard in a closed bottle, the oil dissolves in the water.",
      "a": false,
-     "why": "False. The salt is still there, in particles too small to see. You can taste it, and you get it back when the water dries up."
+     "why": "False. Shaking breaks the oil into drops, but the drops join up again and float to the top.",
+     "how": "a4"
     },
     {
      "t": "write",
@@ -1786,20 +1903,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl of nine, and her brother Farhan, who is seven, are making lemonade for their Ammamma. They disagree about the sugar.",
+     "p": "Kavya, a girl of nine, and her cousin Rohan, who is seven, are making lemonade for guests. They disagree about the sugar.",
      "views": [
       {
        "who": "Kavya",
        "says": "Stir the sugar into a little warm water first. Then add cold water."
       },
       {
-       "who": "Farhan",
+       "who": "Rohan",
        "says": "Put everything in the cold water and keep stirring. It saves washing another cup."
       }
      ],
      "ask": "Whose way would you choose? Give a reason from the Cold, Room or Warm test. Then say one good point about the other way.",
      "lines": 4,
-     "a": "A strong answer picks one and uses evidence. For example: Kavya's way, because warm water dissolved sugar in about 20 stirs and cold water took about 90. Then it gives the other side fairly: Farhan's way does work if you stir long enough, and it is simpler.",
+     "a": "A strong answer picks one and uses evidence. For example: Kavya's way, because warm water dissolved sugar in far fewer stirs than cold water in your test. Then it gives the other side fairly: Rohan's way does work if you stir long enough, and it is simpler.",
      "why": "Both ways can work. One is faster, and the other is simpler. A good answer weighs both."
     }
    ]
@@ -1820,14 +1937,14 @@
     },
     {
      "t": "mcq",
-     "p": "Priya, a girl in Class 3, puts 10 spoons of salt in a small cup of water. Some salt stays on the bottom. She stirs for five more minutes. What happens?",
+     "p": "Two glasses are left still for a day. One has mud in water. One has salt dissolved in water. What do you find?",
      "opts": [
-      "All the salt dissolves",
-      "The salt on the bottom stays",
-      "The salt turns to sugar"
+      "The mud has settled but the salt water looks the same",
+      "Both have a layer on the bottom",
+      "The salt has settled but the mud water looks the same"
      ],
-     "a": 1,
-     "why": "Once water is saturated, extra salt stays as grains however long you stir. Stirring only helps water reach its limit faster."
+     "a": 0,
+     "why": "Mud does not dissolve, so it settles. Dissolved salt stays spread through the water, so the glass looks the same."
     },
     {
      "t": "order",
@@ -1864,7 +1981,7 @@
     },
     {
      "t": "count",
-     "p": "In the Full Glass Test, Lakshmi, a girl in Class 3, did the test. Her salt glass took 3 spoons. Her sugar glass was still going at 10 spoons. How many more spoons did the sugar glass take, at least?",
+     "p": "In the Full Glass Test, Thenmozhi, a girl in Class 3, did the test. Her salt glass took 3 spoons. Her sugar glass was still going at 10 spoons. How many more spoons did the sugar glass take, at least?",
      "a": 7,
      "why": "10 take away 3 is 7. The sugar glass took at least 7 more spoons, and it could have taken many more."
     },
@@ -1925,12 +2042,16 @@
      "how": "a2"
     },
     {
-     "t": "fill",
-     "p": "A solution that cannot dissolve any more of a thing is called ____.",
-     "a": [
-      "saturated"
+     "t": "odd",
+     "p": "Which one is not a solution?",
+     "opts": [
+      "Rasam",
+      "Sugar syrup",
+      "Muddy water",
+      "Salt water"
      ],
-     "why": "Saturated means it has reached its limit for that thing."
+     "a": 2,
+     "why": "A solution is clear and the same all through. Muddy water has bits floating in it that settle."
     },
     {
      "t": "mcq",
@@ -1952,22 +2073,11 @@
      "why": "A strong answer names both reasons: more sugar, and faster."
     },
     {
-     "t": "perspective",
-     "p": "Two friends in Class 3, Sunita and Arjun, are arguing about a glass of clear water left after the salt test.",
-     "views": [
-      {
-       "who": "Sunita",
-       "says": "The water is clear, so the salt has gone."
-      },
-      {
-       "who": "Arjun",
-       "says": "The salt is still there. We just can't see it."
-      }
-     ],
-     "ask": "Who do you agree with? Use evidence from your own tests. Then say why the other person's idea makes sense at first.",
-     "lines": 4,
-     "a": "A strong answer agrees with Arjun, using evidence: the water tastes salty, and the salt comes back when the water evaporates. It then says that Sunita's idea makes sense at first, because the salt really cannot be seen.",
-     "why": "Seeing is not the only test. Taste and evaporation show the salt is there."
+     "t": "write",
+     "p": "A glass of sugar water and a glass of plain water look the same. Both were made in your own kitchen. Write a safe way to tell them apart.",
+     "lines": 3,
+     "a": "Taste a drop from a clean spoon: the sugar water is sweet. Or put a spoonful of each on a saucer in the sun: the sugar water leaves a sticky crust when it dries.",
+     "why": "A strong answer uses a test that works because the sugar is still there, even though it cannot be seen."
     },
     {
      "t": "label",
@@ -2024,7 +2134,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three children in Class 4 explain why the full salt water could still dissolve sugar.",
+     "p": "Three friends, Kavya, Meenakshi and Rohan, explain why the full salt water could still dissolve sugar.",
      "views": [
       {
        "who": "Kavya",
@@ -2035,20 +2145,20 @@
        "says": "Water has a different limit for each thing, so salt did not use up the sugar limit."
       },
       {
-       "who": "Farhan",
+       "who": "Rohan",
        "says": "Sugar is softer than salt, so it squeezed in."
       }
      ],
      "ask": "Which explanation fits best with all your tests? Give your reason. Then say which part of another explanation could also be true.",
      "lines": 5,
-     "a": "A strong answer picks Meenakshi's, because the sugar glass took more than ten spoons while the salt stopped at three, so each thing has its own limit. It may say Kavya is partly right that dissolved particles fit in among water particles, and that the drink did get bigger.",
+     "a": "A strong answer picks Meenakshi's, because the sugar glass took more than ten spoons while the salt stopped at three, so each thing has its own limit. Kavya's idea sounds sensible, because a glass does look as if it has room. But it cannot explain why sugar fits and salt does not.",
      "why": "The evidence that sugar and salt have different limits in the same water supports separate limits. 'Empty space' and 'softer' do not explain why sugar dissolves so much more."
     },
     {
      "t": "count",
-     "p": "100 millilitres of water dissolves about 36 grams of salt. How much salt would 200 millilitres of water dissolve?",
-     "a": 72,
-     "why": "Twice as much water dissolves twice as much salt. 36 plus 36 is 72 grams."
+     "p": "Sea water leaves about 35 grams of salt for every litre that dries up in a salt pan. How many grams of salt would 3 litres leave?",
+     "a": 105,
+     "why": "Each litre leaves 35 grams. 3 lots of 35 is 35 + 35 + 35, which is 105 grams."
     },
     {
      "t": "mcq",
@@ -2084,7 +2194,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 4, wants to dissolve as much sugar as possible in one cup of water. What should she do?",
+     "p": "Ananya, a girl in Class 4, wants to dissolve as much sugar as possible in one cup of water. What should she do?",
      "opts": [
       "Use ice-cold water",
       "Use hot water, with a grown-up's help",
@@ -2147,29 +2257,11 @@
      "art": "A circle full of small water particles, with a few plus balls and a few bigger minus balls among them, and three blank label lines."
     },
     {
-     "t": "sort",
-     "p": "Sort these. Does heat make a big difference to how much dissolves, or very little?",
-     "cats": [
-      "Big difference",
-      "Very little"
-     ],
-     "items": [
-      [
-       "sugar",
-       "Big difference"
-      ],
-      [
-       "salt",
-       "Very little"
-      ],
-      [
-       "jaggery",
-       "Big difference"
-      ]
-     ],
-     "a": "see items",
-     "why": "Heat lets water hold much more sugar and jaggery. For salt, the limit hardly changes.",
-     "how": "e3"
+     "t": "write",
+     "p": "A friend says a strainer with very fine holes could catch the taste of tea too. Is she right? Explain.",
+     "lines": 3,
+     "a": "No. The taste has dissolved, so it is in pieces far smaller than the holes of any cloth or strainer. Only the leaves, which did not dissolve, can be caught.",
+     "why": "A strong answer links what dissolved to how small its pieces are."
     }
    ]
   }
@@ -2190,15 +2282,15 @@
   },
   {
    "t": "mcq",
-   "p": "Atta makes water cloudy. What does cloudy water tell you?",
+   "p": "Which way gets dissolved salt back out of salt water?",
    "opts": [
-    "The atta has dissolved",
-    "Tiny bits of atta are floating and have not dissolved",
-    "The water is dirty and must be thrown away"
+    "Pour it through a cloth",
+    "Let the water evaporate",
+    "Stir it faster"
    ],
    "a": 1,
-   "why": "Cloudy water means bits are floating in it. A dissolved thing leaves water clear. If you chose 'dissolved', try leaving the glass for an hour and watch the atta settle.",
-   "outcome": 0
+   "why": "When the water evaporates, it goes into the air and the salt stays behind as crystals. A cloth cannot catch dissolved salt, and stirring does not take it out.",
+   "outcome": 1
   },
   {
    "t": "mcq",
@@ -2222,19 +2314,6 @@
    ],
    "a": 1,
    "why": "The water took two or three spoons of salt and more than ten of sugar. Many children guess salt or the same, because the grains look alike.",
-   "outcome": 2,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "The salt water was full of salt. Then a spoon of sugar went in. What happened?",
-   "opts": [
-    "The sugar stayed on the bottom",
-    "The sugar dissolved",
-    "The salt came out"
-   ],
-   "a": 1,
-   "why": "The sugar dissolved, because water has a separate limit for each thing. 'Stayed on the bottom' is what most people guess, because they think 'full' means full of everything.",
    "outcome": 2,
    "how": "e1"
   },
@@ -2402,7 +2481,7 @@
   "Can you taste the salt in this dal? Can you see it? How do you know it is there?",
   "Why do you think the sugar is sitting at the bottom of this cold drink?",
   "Which things in our kitchen do you think would not dissolve in water?",
-  "When Amma makes coffee or tea, what stays behind in the strainer?",
+  "When coffee or tea is made at home, what stays behind in the strainer?",
   "Why do you think the sea is salty but rain is not?",
   "If you added a whole packet of salt to one glass of water, what would happen?"
  ],
@@ -2428,16 +2507,8 @@
    "a": "Sorry, you can't come through."
   },
   {
-   "j": "Why did the lemonade go to school?",
-   "a": "To become a little more solution-focused."
-  },
-  {
    "j": "What did the sand say when it was put in water?",
    "a": "I'm not dissolving, I'm just settling down."
-  },
-  {
-   "j": "Why do chemists love salt water?",
-   "a": "It has so many ions to talk to."
   },
   {
    "j": "What do you call water that can't take any more salt?",
@@ -2448,36 +2519,8 @@
    "a": "It always looked a bit cloudy."
   },
   {
-   "j": "Why did the sugar win the race in warm water?",
-   "a": "The water gave it a warm welcome."
-  },
-  {
-   "j": "What did the ice cube say to the sugar?",
-   "a": "Take your time, there's no rush."
-  },
-  {
-   "j": "What did one salt grain say to another in the full glass?",
-   "a": "Looks like we're staying at the bottom."
-  },
-  {
-   "j": "What's a filter's favourite word?",
-   "a": "Stop. Unless you've dissolved."
-  },
-  {
-   "j": "Why did the jaggery feel at home in hot water?",
-   "a": "It loved to break the ice."
-  },
-  {
-   "j": "What did the coffee powder say after the filter coffee was made?",
-   "a": "I gave it all my flavour."
-  },
-  {
    "j": "Why did Farhan's sea go on the balcony?",
    "a": "It needed some time to dry out."
-  },
-  {
-   "j": "How does a sugar grain say goodbye?",
-   "a": "It just disappears."
   }
  ],
  "maths": [
@@ -2491,7 +2534,7 @@
    "how": "e1"
   },
   {
-   "problem": "Three tablespoons of water dissolved 3 spoons of salt. Lakshmi, a girl in Class 3, doubles the water to 6 tablespoons. How many spoons of salt do you predict it will dissolve? Why?",
+   "problem": "Three tablespoons of water dissolved 3 spoons of salt. Revathi, a girl in Class 3, doubles the water to 6 tablespoons. How many spoons of salt do you predict it will dissolve? Why?",
    "answer": "About 6 spoons.",
    "explain": "Twice as much water can dissolve twice as much salt, because each part of the water has the same limit. 3 doubled is 6.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2518,9 +2561,9 @@
    "how": "a3"
   },
   {
-   "problem": "Odd one out: in the Full Glass Test, four children, Kavya, Arjun, Priya and Farhan, each did the test. Kavya's salt glass took 3 spoons, Arjun's took 3, Priya's took 2, and Farhan's took 7. Which result looks odd, and what might have gone wrong?",
-   "answer": "Farhan's 7 spoons looks odd.",
-   "explain": "The others are close together, at 2 or 3. Seven is far more. Farhan may have used more water, small spoons that were not level, warm water, or he may have counted cloudy water as grains being gone. Checking how he did it is the way to find out.",
+   "problem": "Odd one out: in the Full Glass Test, four children, Kavya, Divya, Priya and Meenakshi, each did the test. Kavya's salt glass took 3 spoons, Divya's took 3, Priya's took 2, and Meenakshi's took 7. Which result looks odd, and what might have gone wrong?",
+   "answer": "Meenakshi's 7 spoons looks odd.",
+   "explain": "The others are close together, at 2 or 3. Seven is far more. Meenakshi may have used more water, small spoons that were not level, or warm water, or she may have counted cloudy water as grains being gone. Checking how she did it is the way to find out.",
    "math_unit": "math.data.sorting-and-tallies.L3",
    "context": "These are made-up results from four children doing the Full Glass Test.",
    "why_maths": "Spotting a result that does not fit the pattern helps you find mistakes in how a test was done.",
@@ -2574,21 +2617,7 @@
    "why": "A science museum with hands-on exhibits about matter and everyday science."
   }
  ],
- "buy": [
-  {
-   "id": "b-spoons",
-   "item": "A set of measuring spoons (tablespoon, teaspoon, half teaspoon)",
-   "kind": "tool",
-   "why": "Not needed, because kitchen spoons work if you use the same ones throughout. A set makes it easier to compare results with other families. Sold cheaply in kitchen shops and supermarkets.",
-   "url": "https://www.amazon.in/s?k=measuring+spoons+set+steel",
-   "used_in": [
-    "e1",
-    "e2",
-    "e3"
-   ],
-   "plan": "Useful again in cooking, capacity and other science units."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "Does sugar dissolve in water?",
@@ -2693,5 +2722,5 @@
    "Lao Tzu, Tao Te Ching, chapter 78; Mahendranath Gupta, The Gospel of Sri Ramakrishna, translated by Swami Nikhilananda, 1942 (the salt doll)"
   ]
  },
- "playtest": "Every experiment and activity was walked through as if in a city flat with kitchen things. The Full Glass Test uses three tablespoons of water, about 45 millilitres, so salt runs out at the third or fourth level teaspoon (about 16 grams dissolve) while sugar is still dissolving at ten (about 90 grams would dissolve). Stopping sugar at ten keeps the test under 35 minutes, and the syrup is used again for lemonade. Near the limit salt dissolves slowly, so each spoon is stirred for a full minute, and the parent note says to stir once more before calling it full. Iodised table salt can make water slightly cloudy, so children are told to look for grains on the bottom, not cloudiness. Clear glasses or plastic cups are needed, because steel tumblers hide the bottom. Warm water is only bath-warm and always made by a grown-up. The warm salt test is expected to show almost no difference, which is the point. In the kitchen test, turmeric and tea dust colour the water but mostly settle, which the notes explain. The oil test uses a capped bottle to avoid spills. The coffee activity is optional, for homes that make filter coffee or tea, and the child only watches the hot water. The spine is the intro, the kitchen test, the Full Glass Test, the explanation cards, roots and the quiz, about 80 minutes."
+ "playtest": "Every experiment and activity was walked through as if in a city flat with kitchen things. The Full Glass Test uses three tablespoons of water, about 45 millilitres, so salt runs out at the third or fourth level teaspoon (about 16 grams dissolve) while sugar is still dissolving at ten (about 90 grams would dissolve). Stopping sugar at ten keeps the test under 35 minutes, and the syrup is used again for lemonade. Near the limit salt dissolves slowly, so each spoon is stirred for a full minute, and the parent note says to stir once more before calling it full. Iodised table salt can make water slightly cloudy, so children are told to look for grains on the bottom, not cloudiness. Clear glasses or plastic cups are needed, because steel tumblers hide the bottom. Warm water is only bath-warm and always made by a grown-up. Challenge c1 no longer asks anyone to taste muddy water: the salt is shown by letting a spoon of the clear water dry on a saucer. The warm salt test is expected to show almost no difference, which is the point. In the kitchen test, turmeric and tea dust colour the water but mostly settle, which the notes explain. The oil test uses a capped bottle to avoid spills. The coffee activity is optional, for homes that make filter coffee or tea, and the child only watches the hot water. The spine is the intro, the kitchen test, the Full Glass Test, the explanation cards, roots and the quiz, about 80 minutes."
 }

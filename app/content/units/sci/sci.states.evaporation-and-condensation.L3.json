@@ -73,7 +73,7 @@
   {
    "term": "Fog and mist",
    "meaning": "A cloud of tiny water drops floating in the air near the ground. They form when damp air cools and its water vapour condenses.",
-   "example": "On winter mornings in Delhi, fog can hide the end of the street.",
+   "example": "On a cold morning in Shillong, fog can hide the end of the street.",
    "art": "A street with a bus and trees fading into white fog."
   },
   {
@@ -371,8 +371,8 @@
   "practice": {
    "title": "Watch your breath come back",
    "mins": 3,
-   "say": "Hold this cold steel plate close to your mouth. Breathe out slowly on it. Watch the mist appear. Now watch it fade. That mist was inside you a moment ago. Now it is part of the room's air again. Let's do it three times, slowly. Then sit still for a moment and feel the air going in and out.",
-   "kid": "Hold a cold steel plate near your mouth. Breathe out slowly. Watch the mist come. Watch it fade away. That water was inside you. Now it is in the room. Do it three times. Then sit still and feel your breath."
+   "say": "Take a steel plate that has been in the fridge for ten minutes. Hold it close to your mouth. Breathe out slowly on it. Watch the mist appear. Now watch it fade. That mist was inside you a moment ago. Now it is part of the room's air again. Let's do it three times, slowly. Then sit still for a moment and feel the air going in and out.",
+   "kid": "Take a steel plate from the fridge. Hold it near your mouth. Breathe out slowly. Watch the mist come. Watch it fade away. That water was inside you. Now it is in the room. Do it three times. Then sit still and feel your breath."
   },
   "ask": [
    "When the cloth in the closed box stayed wet, was anything happening to it?",
@@ -391,32 +391,92 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a fast card game. Each card shows something happening to water at home. Players say whether it is evaporation or condensation.",
+   "context": "This is a fast card game. Each card names something that happens to water at home. Players say whether it is evaporation or condensation.",
    "printables": [
     {
      "kind": "cards",
-     "title": "20 picture cards to cut out",
+     "title": "20 cards to cut out",
      "items": [
-      "Wet clothes drying on a line (E)",
-      "Drops under a pot lid (C)",
-      "A puddle shrinking on a sunny road (E)",
-      "A misty bathroom mirror (C)",
-      "A mopped floor drying (E)",
-      "A cold bottle wet on the outside (C)",
-      "Sweat drying on your arm (E)",
-      "Dew on a scooter seat in the morning (C)",
-      "Papads drying on the terrace (E)",
-      "Spectacles misting outside an AC shop (C)",
-      "Wet hair drying under a fan (E)",
-      "Water dripping from an AC pipe (C)",
-      "Salt left behind in a dry salt pan (E)",
-      "Fog on a winter morning (C)",
-      "A wet kolam drawing on the doorstep drying (E)",
-      "Your breath misting a steel plate (C)",
-      "Ink drying on a page (E)",
-      "Drops on the inside of a closed lunch box (C)",
-      "A wet umbrella drying open on the balcony (E)",
-      "A misty window in a rainy-day bus (C)"
+      {
+       "f": "Wet clothes drying on a line",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Drops under the lid of an idli steamer",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "A puddle shrinking on a sunny road",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "A misty bathroom mirror",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "A mopped floor drying",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "A cold bottle wet on the outside",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "Sweat drying on your arm",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Dew on a scooter seat in the morning",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "Red chillies drying in the sun",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Spectacles misting as you step out of an AC shop",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "Wet hair drying under a fan",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Water dripping from an AC pipe",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "Salt left behind in a dry salt pan",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Fog on a winter morning",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "A wet kolam on the doorstep drying",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Your breath misting a steel plate",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "Fish drying on a rack in the sun at a fishing village",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "Drops on the inside of a closed lunch box",
+       "b": "C, condensation. The water is coming out of the air."
+      },
+      {
+       "f": "A wet umbrella drying open on the balcony",
+       "b": "E, evaporation. The water is going into the air."
+      },
+      {
+       "f": "A misty window in a bus on a rainy day",
+       "b": "C, condensation. The water is coming out of the air."
+      }
      ]
     },
     {
@@ -424,21 +484,22 @@
      "title": "Score sheet",
      "items": [
       "Player name",
-      "Cards won",
-      "Cards explained correctly"
+      "Cards won"
      ]
     }
    ],
    "rules": [
-    "Shuffle the cards and put them face down in a pile.",
-    "Turn over one card at a time.",
+    "Shuffle the cards and put them face down in a pile. Each card has its answer on the back.",
+    "Turn over one card at a time and show the front to everyone.",
     "The first player to say 'E' for evaporation or 'C' for condensation correctly wins the card.",
     "To keep the card, the winner must also say where the water is going: into the air, or out of the air.",
+    "If two players answer together, put the card at the bottom of the pile.",
+    "When the pile is finished, the player with the most cards wins. With two players, the one with more cards wins.",
     "Playing alone: sort all 20 cards into two piles against a timer, then check with the answers on the back."
    ],
    "setup": [
     {
-     "art": "Twenty small picture cards cut out and stacked face down on a table.",
+     "art": "Twenty small cards cut out and stacked face down on a table.",
      "caption": "1. Cut out the cards and stack them face down."
     },
     {
@@ -450,7 +511,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Cut out and shuffle the cards.",
+     "do": "Cut out the cards and shuffle them.",
      "say": "E means evaporation, water going into the air. C means condensation, water coming out of the air.",
      "kid": "E means water goes into the air. C means water comes out of the air. Ready?",
      "context": "This is the first step of the E or C snap game."
@@ -497,14 +558,25 @@
      "kind": "board",
      "title": "A board with 20 squares, from WET to DRY",
      "items": [
-      "Square 0: WET, the start",
-      "Squares 3 and 12: FAN ON! Move forward 2",
-      "Square 5: SPREAD WIDE ON THE LINE. Move forward 2",
-      "Squares 7 and 16: RAINY, STILL DAY. Miss a turn",
-      "Square 9: LEFT IN A HEAP. Go back 2",
-      "Square 11: SUNNY BALCONY. Move forward 3",
-      "Square 14: TIED IN A PLASTIC BAG. Go back to square 9",
-      "Square 18: DRY WIND. Move forward 1",
+      "Square 1: WET, the start",
+      "Square 2: DAMP. Nothing happens here",
+      "Square 3: DAMP. Nothing happens here",
+      "Square 4: FAN ON! Move forward 2",
+      "Square 5: DAMP. Nothing happens here",
+      "Square 6: SPREAD WIDE ON THE LINE. Move forward 2",
+      "Square 7: DAMP. Nothing happens here",
+      "Square 8: RAINY, STILL DAY. Miss a turn",
+      "Square 9: DAMP. Nothing happens here",
+      "Square 10: LEFT IN A HEAP. Go back 2",
+      "Square 11: DAMP. Nothing happens here",
+      "Square 12: SUNNY BALCONY. Move forward 3",
+      "Square 13: FAN ON! Move forward 2",
+      "Square 14: DAMP. Nothing happens here",
+      "Square 15: TIED IN A PLASTIC BAG. Go back to square 10",
+      "Square 16: DAMP. Nothing happens here",
+      "Square 17: RAINY, STILL DAY. Miss a turn",
+      "Square 18: NEARLY DRY. Nothing happens here",
+      "Square 19: DRY WIND. Move forward 1",
       "Square 20: DRY, the finish"
      ]
     },
@@ -512,39 +584,82 @@
      "kind": "cards",
      "title": "12 question cards",
      "items": [
-      "What is evaporation? (Water turning into water vapour)",
-      "What is condensation? (Water vapour turning back into drops)",
-      "Why does a fan help drying? (It carries the damp air away)",
-      "Why does a closed box stop drying? (The vapour cannot escape, so as much lands back as leaves)",
-      "Is the white cloud above a kettle water vapour? (No, tiny drops)",
-      "Where does dew come from? (Water vapour in the air)",
-      "Name one thing that slows drying. (Damp air, still air, cold, folding)",
-      "Does water need to boil to evaporate? (No)",
-      "Why does a cold bottle get wet outside? (Water vapour condenses on it)",
-      "What is humidity? (How much water vapour is in the air)",
-      "Name a living thing that drinks fog. (The Namib Desert beetle)",
-      "Who showed that dew does not fall? (William Wells)"
+      {
+       "f": "What is evaporation?",
+       "b": "Water turning into water vapour."
+      },
+      {
+       "f": "What is condensation?",
+       "b": "Water vapour turning back into drops."
+      },
+      {
+       "f": "Why does a fan help drying?",
+       "b": "It carries the damp air away."
+      },
+      {
+       "f": "Why does a closed box stop drying?",
+       "b": "The vapour cannot escape, so as much lands back as leaves."
+      },
+      {
+       "f": "Is the white cloud above a kettle water vapour?",
+       "b": "No. It is tiny drops."
+      },
+      {
+       "f": "Where does dew come from?",
+       "b": "From water vapour in the air."
+      },
+      {
+       "f": "Name one thing that slows drying.",
+       "b": "Damp air, still air, cold, or folding."
+      },
+      {
+       "f": "Does water need to boil to evaporate?",
+       "b": "No."
+      },
+      {
+       "f": "Why does a cold bottle get wet outside?",
+       "b": "Water vapour condenses on it."
+      },
+      {
+       "f": "What is humidity?",
+       "b": "How much water vapour is in the air."
+      },
+      {
+       "f": "Name a living thing that drinks fog.",
+       "b": "The Namib Desert beetle."
+      },
+      {
+       "f": "Who showed that dew does not fall from the sky?",
+       "b": "William Wells."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "4 cloth tokens and a dice",
+     "title": "4 cloth tokens",
      "items": [
-      "Cut out 4 small cloth shapes in different colours, or use buttons. Use a dice from a board game."
+      "Token 1: cut a small cloth shape from red paper, or use a red button",
+      "Token 2: cut a small cloth shape from blue paper, or use a blue button",
+      "Token 3: cut a small cloth shape from green paper, or use a green button",
+      "Token 4: cut a small cloth shape from yellow paper, or use a yellow button"
      ]
     }
    ],
    "rules": [
-    "Each player puts a cloth token on WET.",
-    "On your turn, a friend reads you a question card. Answer it correctly to roll the dice and move.",
-    "If you land on a special square, do what it says.",
-    "The first cloth to reach DRY wins.",
+    "You need a dice from any board game. Or write 1 to 6 on six paper slips and pick one from a bowl.",
+    "Each player puts a cloth token on square 1, WET. Two players are enough. Four can play.",
+    "On your turn, another player reads you a question card. If you answer correctly, roll the dice and move that many squares.",
+    "If your answer is wrong, the reader says the right answer. You move 1 square and do not roll.",
+    "A special square only works when you land on it by moving. If a square sends you to another square, ignore that second square.",
+    "Miss a turn means you skip your next turn, and the question card goes to the bottom of the pile.",
+    "When the question cards run out, shuffle them and use them again.",
+    "The first cloth to reach square 20, DRY, wins. You do not need an exact roll. Going past 20 counts.",
     "Playing alone: race two tokens against each other. Answer for both."
    ],
    "setup": [
     {
      "art": "A long winding board of 20 squares drawn on paper, from a dripping cloth at WET to a fluffy cloth at DRY, with fan, sun and rain symbols on some squares.",
-     "caption": "1. Draw or print the board and put the tokens on WET."
+     "caption": "1. Draw or print the board and put the tokens on square 1, WET."
     },
     {
      "art": "A child rolling a dice while another reads a question card.",
@@ -584,7 +699,7 @@
      "kid": "Which square helped you most? Why?",
      "check": {
       "t": "mcq",
-      "q": "Which square on the board dries a cloth fastest in real life, too?",
+      "q": "Which square on the board helps a cloth dry fastest in real life, too?",
       "options": [
        "Left in a heap",
        "Sunny balcony",
@@ -606,7 +721,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meena mops the kitchen floor. An hour later, the floor is dry. Where did the water go?",
+     "p": "Meena, a girl in Class 4, mops the kitchen floor. An hour later, the floor is dry. Where did the water go?",
      "opts": [
       "Into the floor tiles",
       "Into the air, as water vapour",
@@ -618,7 +733,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan takes a cold water bottle out of the fridge. Soon its outside is covered in drops. Where did the drops come from?",
+     "p": "Farhan, a boy in Class 4, takes a cold water bottle out of the fridge. Soon its outside is covered in drops. Where did the drops come from?",
      "opts": [
       "Water leaked through the bottle",
       "Water vapour in the room's air condensed on the cold bottle",
@@ -655,6 +770,14 @@
       "condensation"
      ],
      "why": "Condensation happens when water vapour touches something cold."
+    },
+    {
+     "t": "fill",
+     "p": "A wet cloth dries only when more water ____ it than lands back on it.",
+     "a": [
+      "leaves"
+     ],
+     "why": "Water leaves and lands back all the time. The cloth dries when the leaving is greater than the landing back."
     },
     {
      "t": "match",
@@ -756,7 +879,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya says the Sun has destroyed the water in the puddle on her balcony. What would you tell her, and what could she do to check?",
+     "p": "Kavya, a girl in your class, says the Sun has destroyed the water in the puddle on her balcony. What would you tell her, and what could she do to check?",
      "lines": 3,
      "a": "The water was not destroyed. It evaporated into the air as water vapour. She could put some water in a closed box in the sun and see drops form on the lid, or hold a cold plate over a warm puddle.",
      "why": "A strong answer says the water is still there as vapour, and gives a test that brings it back as drops."
@@ -770,20 +893,8 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Which way will dry a wet handkerchief fastest?",
-     "opts": [
-      "Folded in a heap in a closed cupboard",
-      "Spread out under a fan",
-      "Folded on a table",
-      "Inside a plastic bag"
-     ],
-     "a": 1,
-     "why": "Spread out, the handkerchief has lots of surface for water to leave from, and the fan carries the damp air away. The other three all trap damp air around the cloth."
-    },
-    {
      "t": "perspective",
-     "p": "Lakshmi's school uniform is still damp at 7 o'clock on a rainy morning. School starts at 9. Three people in her family each have an idea.",
+     "p": "Lakshmi, a girl in Class 4, finds her school uniform still damp at 7 o'clock on a rainy morning. School starts at 9. Three people in her family each have an idea.",
      "views": [
       {
        "who": "Paati",
@@ -824,31 +935,6 @@
      "why": "In the northeast monsoon the air is very humid. Water still evaporates, but nearly as much lands back. In hot, dry May, much more leaves than lands back."
     },
     {
-     "t": "mcq",
-     "p": "In the Damp Air Hunt, the cold tumbler misted fastest in the bathroom just after a bath. What does this tell you about the bathroom's air?",
-     "opts": [
-      "It was the coldest air",
-      "It had the most water vapour in it",
-      "It had no water vapour",
-      "It was full of soap"
-     ],
-     "a": 1,
-     "why": "Hot bath water evaporates fast, and the small room keeps the vapour in. More vapour hits the cold tumbler each second, so it mists sooner.",
-     "how": "e2"
-    },
-    {
-     "t": "truefalse",
-     "p": "The white cloud you see above a boiling pan is water vapour.",
-     "a": false,
-     "why": "False. Water vapour is invisible. The white cloud is tiny drops of water, formed when the vapour meets cooler air and condenses."
-    },
-    {
-     "t": "truefalse",
-     "p": "A puddle still evaporates on a cloudy day.",
-     "a": true,
-     "why": "True. Water evaporates at any temperature. It is slower on a cool, cloudy day, but it still happens."
-    },
-    {
      "t": "write",
      "p": "Just in front of a kettle's spout there is a clear gap. Then comes a white cloud. Higher up, the cloud vanishes. Explain each of the three parts.",
      "lines": 4,
@@ -857,7 +943,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya wears spectacles. She walks out of a cold, air-conditioned shop into a hot, damp street in Kochi. What happens to her spectacles?",
+     "p": "Divya, a girl in Class 5, wears spectacles. She walks out of a cold, air-conditioned shop into a hot, damp street in Kochi. What happens to her spectacles?",
      "opts": [
       "They mist up",
       "They get hot and dry",
@@ -951,14 +1037,14 @@
     },
     {
      "t": "perspective",
-     "p": "An air conditioner drips a bucket of water a day onto the balcony of Sumathi's flat. Three people say what to do with it.",
+     "p": "An air conditioner in the flat of Sumathi, a girl in Class 4, drips a bucket of water a day onto the balcony. Three people say what to do with it.",
      "views": [
       {
        "who": "Sumathi's mother",
        "says": "Use it to water the plants and mop the floor. It is a waste to pour it away."
       },
       {
-       "who": "Their neighbour",
+       "who": "A neighbour",
        "says": "Pour it away. It came out of a machine, so it must be dirty."
       },
       {
@@ -984,6 +1070,35 @@
      "lines": 3,
      "a": "In the open, the scooter loses warmth to the clear sky and gets colder than the air, so water vapour condenses on it. Under the shed, the roof stops it cooling as much, so it stays too warm for dew.",
      "why": "A strong answer says dew needs a surface that has cooled down, and the shed stops that cooling. Wells found the same with covered wool."
+    },
+    {
+     "t": "mcq",
+     "p": "On a hot, humid day, sweat stays on your skin and feels sticky. Why does it not dry quickly?",
+     "opts": [
+      "Humid air already holds a lot of water vapour, so evaporation slows down",
+      "Sweat cannot evaporate in hot weather",
+      "Your skin stops sweat from drying"
+     ],
+     "a": 0,
+     "why": "Damp air makes water land back almost as fast as it leaves, just as with a wet cloth on a monsoon day. So sweat dries slowly."
+    },
+    {
+     "t": "write",
+     "p": "Gayathri, a girl in Class 5, wants to test whether a thin cotton cloth dries faster than a thick towel. Name two things she must keep the same, and the one thing she changes.",
+     "lines": 4,
+     "a": "She must keep the same amount of water in each, by squeezing them the same way, and the same place and time. She changes only the kind of cloth.",
+     "why": "A strong answer names the things kept the same and says only one thing is changed, so the result can be trusted."
+    },
+    {
+     "t": "mcq",
+     "p": "Water in a clay matka stays cooler than water in a steel pot in the same room. Why?",
+     "opts": [
+      "A little water seeps through the clay and evaporates from the outside, taking warmth away",
+      "Clay makes new cold water",
+      "Clay is always colder than steel"
+     ],
+     "a": 0,
+     "why": "Evaporation takes warmth away from what it leaves, just as it cools wet skin. The matka keeps cooling because water keeps evaporating from its outside."
     }
    ]
   },
@@ -1014,29 +1129,11 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Why does a puddle dry faster on a windy day?",
-     "opts": [
-      "The wind is cold",
-      "The wind blows away the damp air above the puddle, so fewer particles land back",
-      "The wind pushes the water into the ground",
-      "The wind is made of water"
-     ],
-     "a": 1,
-     "why": "Above a puddle, the air gets damp. The wind replaces it with other, drier air, so fewer water particles land back."
-    },
-    {
      "t": "count",
-     "p": "In Sumathi's Drying Diary, her handkerchief took 2 hours to dry on Monday and 6 hours on a rainy Wednesday. How many more hours did it take on Wednesday?",
+     "p": "Sumathi, a girl in Class 4, kept a Drying Diary. Her handkerchief took 2 hours to dry on Monday and 6 hours on a rainy Wednesday. How many more hours did it take on Wednesday?",
      "a": 4,
      "why": "6 minus 2 is 4. The rainy day took 4 hours more, three times as long, because the humid air made water land back on the cloth.",
      "how": "p1"
-    },
-    {
-     "t": "truefalse",
-     "p": "When water evaporates, its particles are destroyed.",
-     "a": false,
-     "why": "False. The same particles are still there, spread out in the air as water vapour. Cooling brings them back as drops."
     },
     {
      "t": "truefalse",
@@ -1074,18 +1171,6 @@
      "why": "This is a real trade-off. Covers and shade save water, but a pond is also a home for living things, and money matters too."
     },
     {
-     "t": "mcq",
-     "p": "On which kind of night will the most dew form on the grass?",
-     "opts": [
-      "A cloudy, windy night",
-      "A clear, still night",
-      "A rainy night",
-      "A foggy afternoon"
-     ],
-     "a": 1,
-     "why": "On a clear night, grass loses warmth to the open sky and cools a lot. Still air lets it stay cold. William Wells found the most dew on such nights."
-    },
-    {
      "t": "write",
      "p": "Design a way to collect drinking water from damp air without using electricity. Draw it and explain how it works.",
      "lines": 4,
@@ -1110,43 +1195,12 @@
      "why": "Evaporation puts the water into the air. It waits there as vapour until a cold surface turns it back into drops."
     },
     {
-     "t": "match",
-     "p": "Match each place to what is happening to water there.",
-     "pairs": [
-      [
-       "A bathroom mirror after a hot bath",
-       "condensation"
-      ],
-      [
-       "Salt pans in the sun",
-       "evaporation"
-      ],
-      [
-       "An AC drain pipe dripping",
-       "condensation"
-      ],
-      [
-       "Papads drying on the terrace",
-       "evaporation"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Mirrors and the cold parts inside an AC collect water from the air. Salt pans and papads lose water into the air."
-    },
-    {
      "t": "fill",
      "p": "When air holds so much water vapour that as many particles land back on a wet thing as leave it, scientists say the air is ____.",
      "a": [
       "saturated"
      ],
      "why": "Saturated air is why the cloth in the closed box could not dry."
-    },
-    {
-     "t": "draw",
-     "p": "Draw two wet cloths side by side, one in open air and one in a closed box. Use arrows to show particles leaving and landing back. Make your arrows show which cloth dries.",
-     "a": "The open cloth has many arrows going up and away and only a few coming back. The closed cloth has the same number going up and coming back.",
-     "why": "The difference in arrows is the whole idea of the unit: a thing dries when more leaves than lands back.",
-     "art": "Two empty outlines: a cloth in the open, and a cloth in a box."
     },
     {
      "t": "mcq",
@@ -1159,6 +1213,72 @@
      ],
      "a": 1,
      "why": "The beetle needs water and has no puddles to drink from. Fog drops condense and join on their back, then run down to their mouth. The dune top is where most fog blows past."
+    },
+    {
+     "t": "write",
+     "p": "A solar still is a bowl of salty water under a clear plastic sheet in the sun. Clean drops of water gather on the sheet and run into a cup. Say where evaporation happens and where condensation happens.",
+     "lines": 4,
+     "a": "Evaporation happens at the surface of the salty water, as the sun warms it. The salt stays behind. The water vapour condenses into clean drops on the cooler plastic sheet.",
+     "why": "A strong answer puts evaporation at the water and condensation at the cooler sheet, and says the salt stays behind."
+    },
+    {
+     "t": "count",
+     "p": "A squeezed towel holds 200 grams of water. It loses 50 grams in the first hour and 30 grams in the second hour. How many grams of water are still in the towel?",
+     "a": 120,
+     "why": "200 minus 50 is 150. 150 minus 30 is 120. So 120 grams of water are still in the towel."
+    },
+    {
+     "t": "mcq",
+     "p": "On a cold morning in Shillong, you breathe out and see a white cloud. In hot Chennai, you do not. Why?",
+     "opts": [
+      "Cold air cools the water vapour in your breath, so it condenses into tiny drops",
+      "Your breath is hotter in Shillong",
+      "There is no water in your breath in Chennai"
+     ],
+     "a": 0,
+     "why": "Your breath always holds water vapour. In cold air the vapour cools quickly and condenses into tiny drops, which make the white cloud."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Does each one make the air in a room damper or drier?",
+     "cats": [
+      "Makes the air damper",
+      "Makes the air drier"
+     ],
+     "items": [
+      [
+       "a hot bath",
+       "Makes the air damper"
+      ],
+      [
+       "boiling a kettle",
+       "Makes the air damper"
+      ],
+      [
+       "wet clothes drying indoors",
+       "Makes the air damper"
+      ],
+      [
+       "an air conditioner running",
+       "Makes the air drier"
+      ],
+      [
+       "a dry wind blowing through the window",
+       "Makes the air drier"
+      ]
+     ],
+     "a": "see items",
+     "why": "Hot water, boiling and wet clothes put water vapour into the air. An air conditioner takes it out by condensing it. A dry wind brings in drier air."
+    },
+    {
+     "t": "fill",
+     "p": "Fog is a cloud of tiny ____ floating near the ground.",
+     "a": [
+      "drops",
+      "water drops",
+      "drops of water"
+     ],
+     "why": "Fog forms when damp air cools and its water vapour condenses into tiny drops."
     }
    ]
   }
@@ -1205,7 +1325,7 @@
     {
      "day": 1,
      "mins": 40,
-     "what": "Set up the two boxes (8 minutes). Check them every 30 minutes for about 3 hours, 2 minutes each time (12 minutes). Put ice on the closed lid, then open it (10 minutes). Check the opened cloth later, and talk about it (10 minutes)."
+     "what": "Set up the two boxes (8 minutes). Check them every 30 minutes for about 3 hours, 2 minutes each time (12 minutes). Put ice on the closed lid, then open it (9 minutes). Check the opened cloth later, and talk about it (11 minutes)."
     }
    ],
    "record": "Fill in the table. Then draw both boxes at the end, with arrows for water leaving the cloth and landing back on it.",
@@ -1277,7 +1397,8 @@
       ],
       "a": 1,
       "why": "The ice was in a bowl, outside the box, so it could not leak in. The water came from the cloth. It evaporated into the air of the box, and the cold lid turned it back into drops. If you picked the ice, look again: the drops are inside, and the bowl is outside."
-     }
+     },
+     "parent": "Drops should show within 5 minutes. If you see none, wait 5 more minutes and tilt the box to the light. On a cool day the drops can be very small. That is still a result. Say what you saw."
     },
     {
      "id": "s5",
@@ -1354,14 +1475,9 @@
     {
      "item": "a phone stopwatch or a clock with a seconds hand",
      "qty": 1
-    },
-    {
-     "item": "a digital room humidity meter, if you have one (not needed)",
-     "qty": 1,
-     "buy": "b-hygrometer"
     }
    ],
-   "safety": "In the kitchen, a grown-up stays with you and you keep away from the stove. Bathroom floors can be slippery: walk slowly.",
+   "safety": "In the kitchen, a grown-up stays with you and you keep away from the stove.",
    "schedule": [
     {
      "day": 1,
@@ -1397,11 +1513,11 @@
     {
      "id": "s2",
      "mins": 16,
-     "do": "In each place: 1. Wipe the outside of the tumbler completely dry. 2. Put it down and start the stopwatch. 3. Stop it when the shiny steel first turns dull with mist. 4. Wait until 3 minutes have passed, and look again. 5. Refill with ice water before the next place.",
+     "do": "In each place: 1. Wipe the outside of the tumbler completely dry. 2. Put it down and start the stopwatch. 3. Stop it when the shiny steel first turns dull with mist. 4. Wait until 3 minutes have passed, and look again. 5. Refill with ice water and stir for 1 minute before the next place.",
      "say": "Watch the shiny side closely. The moment it goes dull, say stop! Then let's wait and see how wet it gets in 3 minutes.",
      "kid": "Wipe the tumbler dry. Put it down. Start the clock. Shout stop when it goes dull. Look again after 3 minutes.",
      "adult": true,
-     "parent": "Stay with your child in the kitchen and keep them away from the stove. In damp places the mist may come in a few seconds, so watch closely. If every place mists up almost at once, which is common on monsoon days, compare how wet the tumbler is after 3 minutes instead. On a dry winter day, or in an air-conditioned room, it may take much longer, or not mist at all. That is a real result too."
+     "parent": "In damp places the mist may come in a few seconds, so watch closely. If every place mists up almost at once, which is common on monsoon days, compare how wet the tumbler is after 3 minutes instead. On a dry winter day, or in an air-conditioned room, it may take much longer, or not mist at all. That is a real result too."
     },
     {
      "id": "s3",
@@ -1411,7 +1527,7 @@
      "kid": "Which place misted fastest? Was your guess right? Where did that vapour come from?",
      "check": {
       "t": "mcq",
-      "q": "The tumbler misted fastest in the bathroom just after a bath. Why?",
+      "q": "Suppose the tumbler misted fastest in the bathroom just after a bath. Why would that be?",
       "options": [
        "The bathroom is the coldest room",
        "Hot bath water evaporated, so the bathroom air had a lot of water vapour",
@@ -1482,9 +1598,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Tip the lid so the drops run onto a dry steel plate. 2. Let them cool for a minute. 3. Touch them.",
-     "say": "So the water left the pot as an invisible gas, and the lid turned it back into water. We will find out how in this unit.",
-     "kid": "Watch the drops run onto the plate. Let them cool. Touch them. Is it water?",
+     "do": "1. Tip the lid so the drops run onto a dry steel plate. 2. Wait for them to cool. 3. A grown-up checks they are only warm. 4. Touch them.",
+     "say": "Touch a drop. Is it water? The lid was dry when we put it on. Where do you think this water came from?",
+     "kid": "Watch the drops run onto the plate. Let them cool. Touch one. Is it water? Where did it come from?",
      "adult": true,
      "parent": "Don't explain fully yet. It is enough for your child to say the water came up from the pot. The words evaporation and condensation come later, after the Closed Box Test."
     }
@@ -1509,12 +1625,11 @@
      "qty": 1
     }
    ],
-   "safety": "Safe to do alone.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Watch a cold bottle mist up, then check every 10 minutes until the mist has gone."
+     "what": "Watch a cold bottle mist up, then check every 10 minutes until the mist has gone. This can take an hour or more on a humid day."
     }
    ],
    "record": "Draw the bottle at the start, when it is misty, and when it is dry again. Write the times.",
@@ -1525,7 +1640,7 @@
      "caption": "1. Stand a cold bottle on a plate. Watch it mist up."
     },
     {
-     "art": "The same bottle 40 minutes later, completely dry and shiny again, with a clock showing the time.",
+     "art": "The same bottle much later, completely dry and shiny again, with a clock showing the time.",
      "caption": "2. Check every 10 minutes until it is dry again."
     }
    ],
@@ -1541,10 +1656,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Check the bottle every 10 minutes, for about 4 checks. 2. Note when the mist has gone and the bottle is dry.",
+     "do": "1. Check the bottle every 10 minutes. 2. Note when the mist has gone and the bottle is dry.",
      "say": "The mist is going away. The bottle is warming up. Where do you think the drops are going now?",
      "kid": "Check every 10 minutes. When is the bottle dry again? Where did the drops go?",
-     "wait": "Check every 10 minutes for about 40 minutes.",
+     "wait": "Check every 10 minutes. The mist may take 40 minutes to over an hour to go.",
      "check": {
       "t": "mcq",
       "q": "First the cold bottle got wet. Later, as it warmed up, it became dry again. What happened to the drops?",
@@ -1578,7 +1693,6 @@
      "qty": 1
     }
    ],
-   "safety": "Move gently. No pushing.",
    "schedule": [
     {
      "day": 1,
@@ -1605,7 +1719,7 @@
      "do": "1. Lay a dupatta on the floor: it is the wet cloth. 2. Everyone stands on it as a water particle. 3. Each time you clap, one particle steps off and walks out of the open door.",
      "say": "You are water particles in a wet cloth. Each clap, the fastest particle escapes into the air. The door is open, so they wander away.",
      "kid": "Stand on the dupatta. You are water! Each clap, one of you escapes. Walk out of the door.",
-     "parent": "Playing alone? Use 10 buttons on a handkerchief. Each turn, move one button off and far away.",
+     "parent": "With only two of you, or playing alone, use 10 buttons on a handkerchief. Each turn, move one button off and far away.",
      "context": "This is the first step of an act-out. Each person is a water particle on a wet cloth."
     },
     {
@@ -1622,7 +1736,8 @@
         "As many stepped on as stepped off."
        ]
       }
-     ]
+     ],
+     "parent": "With buttons, each turn move one button off the cloth and put one button from the floor back on."
     },
     {
      "id": "s3",
@@ -1691,7 +1806,8 @@
      "say": "The AC is not connected to any tap. So where does this water come from?",
      "kid": "Find the AC's thin pipe with a grown-up. Put the jug under it. Where does this water come from?",
      "adult": true,
-     "context": "This is the first step of an activity with an air conditioner. You catch the water that drips from its pipe."
+     "context": "This is the first step of an activity with an air conditioner. You catch the water that drips from its pipe.",
+     "parent": "In many flats the drain pipe ends high on an outside wall. If you cannot reach it safely, skip this activity. Or ask a neighbour whose pipe ends over a bucket."
     },
     {
      "id": "s2",
@@ -1717,12 +1833,12 @@
   },
   {
    "id": "a5",
-   "title": "How Did Paati Dry Clothes in the Monsoon?",
+   "title": "How Did Older Families Dry Clothes in the Monsoon?",
    "mins": 15,
    "days": 1,
    "materials": [
     {
-     "item": "a grandparent, an older neighbour or a relative on the phone",
+     "item": "a grandparent, an older neighbour or a relative, if you have one nearby, or on the phone",
      "qty": 1
     },
     {
@@ -1730,7 +1846,6 @@
      "qty": 1
     }
    ],
-   "safety": "Safe to do alone.",
    "schedule": [
     {
      "day": 1,
@@ -1742,7 +1857,7 @@
    "context": "This is an interview. You find out how families dried clothes before there were dryers, and the science in each way.",
    "setup": [
     {
-     "art": "A child with a notebook sitting beside a grandmother on a sofa, the grandmother making a wringing gesture with her hands.",
+     "art": "A child with a notebook sitting beside an older woman on a sofa, who is making a wringing gesture with her hands.",
      "caption": "1. Ask an older person how they dried clothes in the monsoon."
     },
     {
@@ -1755,7 +1870,7 @@
      "id": "s1",
      "mins": 10,
      "do": "Help your child ask: 1. How did you dry clothes when it rained for days? 2. What did you do if a uniform was still wet in the morning? 3. Where in the house did clothes dry best?",
-     "say": "Paati, when it rained for many days, how did you dry the clothes?",
+     "say": "When it rained for many days, how did you dry the clothes?",
      "kid": "Ask: how did you dry clothes when it rained for days? Write down what they say.",
      "context": "This is an interview with an older person about drying clothes in the rainy season."
     },
@@ -1784,11 +1899,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a pencil and the hunt list",
+     "item": "a pencil and a sheet of paper",
      "qty": 1
     }
    ],
-   "safety": "Safe to do alone. Don't touch anything hot.",
+   "safety": "Don't touch anything hot, like a pot that has just been cooking.",
    "schedule": [
     {
      "day": 1,
@@ -1839,7 +1954,7 @@
  "projects": [
   {
    "id": "p1",
-   "title": "The Drying Diary: one handkerchief, seven days",
+   "title": "The Drying Diary: one handkerchief, one week",
    "mins": 45,
    "days": 7,
    "materials": [
@@ -1848,20 +1963,14 @@
      "qty": 1
     },
     {
-     "item": "a peg and a place to hang it, the same every day",
+     "item": "a peg and a place to hang it out of the rain, the same every day",
      "qty": 1
     },
     {
      "item": "a notebook and a clock",
      "qty": 1
-    },
-    {
-     "item": "a digital room humidity meter, if you have one (not needed)",
-     "qty": 1,
-     "buy": "b-hygrometer"
     }
    ],
-   "safety": "Safe to do alone.",
    "schedule": [
     {
      "day": 1,
@@ -1915,7 +2024,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Choose one place to hang the handkerchief, and use it every day. 2. Wet it and squeeze it once, hard. 3. Hang it and note the time. 4. Check every 30 minutes, and note when it is dry.",
+     "do": "1. Choose one place out of the rain to hang the handkerchief, and use it every day. 2. Wet it and squeeze it once, hard. 3. Hang it and note the time. 4. Check every 30 minutes, and note when it is dry.",
      "say": "Every day we hang the same handkerchief, in the same place, at the same time. So only the weather changes.",
      "kid": "Wet the hanky. Squeeze it once. Hang it in the same place every day. Write the time it is dry.",
      "context": "This is the first day of the Drying Diary. You time how long one handkerchief takes to dry."
@@ -1952,12 +2061,13 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Dry by Morning: the rainy-day drying challenge",
+   "title": "Dry in Two Hours: the rainy-day drying challenge",
    "mins": 30,
    "problem": "It is raining, and your hand towel is soaking wet. Make it as dry as you can in 2 hours, inside your home, without an iron, a hair dryer or a clothes dryer.",
    "constraints": [
     "Start with two hand towels, both dipped and squeezed once in the same way.",
     "One towel is the control. It hangs folded on a chair.",
+    "Keep both towels in the same room.",
     "You may use only things you find at home.",
     "After 2 hours, compare the two towels by touch."
    ],
@@ -2019,18 +2129,7 @@
      "mins": 7,
      "do": "Compare both towels by touching them with the back of your hand.",
      "say": "Which towel is drier? Which part of your idea helped most?",
-     "kid": "Touch both towels. Which is drier? What helped most?",
-     "check": {
-      "t": "mcq",
-      "q": "Why does spreading a towel out make it dry faster than folding it?",
-      "options": [
-       "It makes the towel warmer",
-       "More of the towel touches the air, and the vapour can drift away instead of being trapped between the folds",
-       "Spread towels have less water"
-      ],
-      "a": 1,
-      "why": "Between folds, the air is trapped like in the closed box, so water lands back. Spread out, every part of the towel touches moving air."
-     }
+     "kid": "Touch both towels. Which is drier? What helped most?"
     }
    ]
   },
@@ -2083,19 +2182,19 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Rub a tiny drop of liquid soap on one half with a tissue. 2. Polish it until it looks clear. 3. Breathe on both halves.",
+     "do": "1. Rub a tiny drop of liquid soap on one half of the mirror with a tissue. 2. Polish it until it looks clear. 3. Leave the other half plain. 4. Breathe on both halves.",
      "say": "Let's treat one half and leave the other. Then breathe on both. Which stays clearer?",
      "kid": "Rub a tiny drop of soap on one half. Polish it. Breathe on both halves. Which stays clear?"
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Try warming the mirror in warm water, then breathe on it again.",
+     "do": "1. Stand the mirror in warm water for a minute, then dry it. 2. Straight away, breathe on the plain half. Compare with the first time.",
      "say": "Now we'll try a warm mirror. Will it mist as much? Why do you think so?",
-     "kid": "Warm the mirror in warm water. Dry it. Breathe on it. Does it mist?",
+     "kid": "Warm the mirror in warm water. Dry it. Straight away, breathe on the plain half. Does it mist?",
      "check": {
       "t": "mcq",
-      "q": "A warm mirror hardly mists when you breathe on it. Why?",
+      "q": "A warm mirror mists much less when you breathe on it. Why?",
       "options": [
        "Warm glass repels water",
        "Your breath's water vapour condenses only on things that are cold enough, and the warm mirror is not",
@@ -2103,7 +2202,8 @@
       ],
       "a": 1,
       "why": "Condensation needs a surface cold enough to slow the water particles down. A warm mirror is close to the temperature of your breath, so little condenses."
-     }
+     },
+     "parent": "The warm mirror stays clear only for a few seconds, until it cools down. So breathe on it quickly."
     }
    ]
   }
@@ -2176,7 +2276,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali puts a wet cloth in a box and closes the lid tightly. What will happen after a day?",
+   "p": "Anjali, a girl in Class 3, puts a wet cloth in a box and closes the lid tightly. What will happen after a day?",
    "opts": [
     "The cloth will be dry",
     "The cloth will still be wet, with drops on the inside of the box",
@@ -2216,7 +2316,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rani lifts the lid off a pot of cooking rice. Drops of water hang under the lid. Where did they come from?",
+   "p": "Rani, a girl in Class 4, lifts the lid off a pot of cooking rice. Drops of water hang under the lid. Where did they come from?",
    "opts": [
     "From the steel of the lid",
     "From the rice water, which evaporated and condensed on the cooler lid",
@@ -2244,7 +2344,7 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi wants to test whether a fan makes a cloth dry faster. Which is a fair test?",
+   "p": "Thenmozhi, a girl in Class 4, wants to test whether a fan makes a cloth dry faster. Which is a fair test?",
    "opts": [
     "One cloth under a fan in the sun, and one with no fan in the shade",
     "Two identical wet cloths in the same place, one with a fan and one without",
@@ -2373,10 +2473,6 @@
    "a": "Condensed milk. (It really is milk with lots of its water evaporated away.)"
   },
   {
-   "j": "Why did the puddle go up into the sky?",
-   "a": "It wanted to rise up in the world."
-  },
-  {
    "j": "Why did the bathroom mirror get misty?",
    "a": "It saw the hot bath and got all steamed up."
   },
@@ -2389,32 +2485,12 @@
    "a": "Two's company, three's a cloud."
   },
   {
-   "j": "Why was the wet towel sad inside the plastic bag?",
-   "a": "It had nowhere to go."
-  },
-  {
-   "j": "Knock knock. Who's there? Water. Water who?",
-   "a": "Water you doing? Come and look at the drops under this lid!"
-  },
-  {
    "j": "Why do wet clothes love the ceiling fan?",
    "a": "Because they are its biggest fans."
   },
   {
    "j": "What did the clothes line say to the clothes on a rainy day?",
    "a": "Hang in there!"
-  },
-  {
-   "j": "How does a puddle say goodbye?",
-   "a": "See you in the clouds!"
-  },
-  {
-   "j": "What did the Sun say to the puddle?",
-   "a": "Don't worry, I'll lift you up."
-  },
-  {
-   "j": "Why did the water particle leave the puddle?",
-   "a": "It needed more space."
   },
   {
    "j": "What do you call a cold bottle on a humid day?",
@@ -2425,21 +2501,13 @@
    "a": "It was feeling a bit mist-erable."
   },
   {
-   "j": "What did the dew say to the grass?",
-   "a": "I'll be here first thing in the morning."
-  },
-  {
-   "j": "Why was the closed lunch box so wet inside?",
-   "a": "It kept everything bottled up."
-  },
-  {
    "j": "What do clouds wear under their clothes?",
    "a": "Thunderwear."
   }
  ],
  "maths": [
   {
-   "problem": "In the Closed Box Test, Priya put the cloths in the boxes at 10:00 in the morning. The cloth in the open box was dry at 12:30. How long did it take to dry?",
+   "problem": "In the Closed Box Test, Priya, a girl in Class 4, put the cloths in the boxes at 10:00 in the morning. The cloth in the open box was dry at 12:30. How long did it take to dry?",
    "answer": "2 hours and 30 minutes.",
    "explain": "From 10:00 to 12:00 is 2 hours. From 12:00 to 12:30 is 30 minutes more. So it took 2 hours and 30 minutes, which is 150 minutes.",
    "math_unit": "math.time.duration.L3",
@@ -2448,7 +2516,7 @@
    "why_maths": "Writing the start and end times lets you work out exactly how long drying took, so you can compare it with another day or another cloth."
   },
   {
-   "problem": "Sumathi kept a Drying Diary for 6 days. Her handkerchief took these times to dry: Monday 2 hours, Tuesday 3 hours, Wednesday 6 hours, Thursday 5 hours, Friday 2 hours, Saturday 1 hour. On two days it rained. Which two days do you think they were? Tomorrow is forecast to be hot, dry and windy. Predict roughly how long it will take.",
+   "problem": "Sumathi, a girl in Class 4, kept a Drying Diary for 6 days. Her handkerchief took these times to dry: Monday 2 hours, Tuesday 3 hours, Wednesday 6 hours, Thursday 5 hours, Friday 2 hours, Saturday 1 hour. On two days it rained. Which two days do you think they were? Tomorrow is forecast to be hot, dry and windy. Predict roughly how long it will take.",
    "answer": "Wednesday and Thursday were probably the rainy days. Tomorrow it should take about 1 hour, or a little less.",
    "explain": "The two longest times, 6 hours and 5 hours, stand out from the rest. Rainy days have humid air, which slows drying. Saturday, the fastest day, took 1 hour. A hot, dry, windy day should be as fast as that, or faster.",
    "math_unit": "math.data.line-graphs.L4",
@@ -2525,7 +2593,7 @@
    "why_maths": "Multiplying one hour's water by the number of hours tells you how much water the AC takes out of the room's air in a whole night."
   },
   {
-   "problem": "Two wet towels hang in the same room. Towel A is spread out flat and has 4 times as much surface touching the air as towel B, which is folded. Towel A dried in 1 hour. Arun says towel B will take exactly 4 hours. Is that a fair guess, and why might it take even longer?",
+   "problem": "Two wet towels hang in the same room. Towel A is spread out flat and has 4 times as much surface touching the air as towel B, which is folded. Towel A dried in 1 hour. Arun, a boy in Class 4, says towel B will take exactly 4 hours. Is that a fair guess, and why might it take even longer?",
    "answer": "It is a fair first guess, but it may take longer than 4 hours.",
    "explain": "With a quarter of the surface, water can leave only a quarter as fast, so about 4 times as long is a good first guess. But inside the folds, damp air is trapped, so water lands back too. That can slow it down even more.",
    "math_unit": "math.logic.problem-solving.L4",
@@ -2587,20 +2655,7 @@
    "why": "Watch morning mist lie in the valleys and lift as the Sun warms the air."
   }
  ],
- "buy": [
-  {
-   "id": "b-hygrometer",
-   "item": "A small digital room thermometer with a humidity meter (hygrometer)",
-   "kind": "tool",
-   "why": "Not needed, but it shows the humidity as a number, so your Drying Diary and Damp Air Hunt can be compared with it. Small ones are cheap and sold online and in electronics shops.",
-   "url": "https://www.amazon.in/s?k=digital+hygrometer+thermometer+room",
-   "used_in": [
-    "e2",
-    "p1"
-   ],
-   "plan": "Useful again in weather and water cycle units."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "What do we call water turning into water vapour?",
@@ -2706,7 +2761,7 @@
    "Bhagavad Gita 2.16"
   ]
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat, with the materials listed. The Closed Box Test uses clear plastic food boxes or glass jars, so the cloth can be watched without opening the lid. Coloured cloth is suggested because wet cloth looks darker. The open cloth takes 2 to 4 hours on most days, and longer in the monsoon, so the step says to put both boxes in front of a fan if it is still damp after 4 hours. The closed cloth stays wet for days. Ice in a bowl on the lid reliably makes drops on the inside within a few minutes. The Damp Air Hunt may show little difference between rooms on a very humid day, so it also compares how wet the tumbler is after 3 minutes. A grown-up stays in the kitchen and lifts hot lids. The AC activity is marked for homes that have an AC, and never touches the unit. Both games work for one child alone. The spine fits about 85 minutes, with the Closed Box Test's waiting time spread through the day.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat, with the materials listed. The Closed Box Test uses clear plastic food boxes or glass jars, so the cloth can be watched without opening the lid. Coloured cloth is suggested because wet cloth looks darker. The open cloth takes 2 to 4 hours on most days, and longer in the monsoon, so the step says to put both boxes in front of a fan if it is still damp after 4 hours. The closed cloth stays wet for days. Ice in a bowl on the lid usually makes drops on the inside within 5 to 10 minutes, and the step says what to do if it does not. The Damp Air Hunt may show little difference between rooms on a very humid day, so it also compares how wet the tumbler is after 3 minutes. The cold bottle may take over an hour to dry again on a humid day. A grown-up stays in the kitchen and lifts hot lids. The AC activity is marked for homes that have an AC, and says to skip it if the drain pipe cannot be reached safely. Both games print every card, square and token, play with two players or four, and work for one child alone. The spine fits about 85 minutes, with the Closed Box Test's waiting time spread through the day.",
  "how_we_found_out": {
   "story": "For centuries, people said that dew 'falls' at night, as if it were a very fine rain from the sky. Some scientists also thought that the dew itself made the grass cold. William Charles Wells, a doctor in London, decided to test these ideas. Night after night, he laid small tufts of wool, weighed first, in different places: on the open grass, on raised boards, and under covers. In the morning he weighed them again, to see how much dew each had collected. He also measured the temperature of the grass and of the air above it. Wool under a cover collected very little dew. Far more dew formed on clear, still nights than on cloudy or windy ones. And the grass always became colder than the air before any dew appeared. In 1814 Wells published An Essay on Dew. He showed that dew does not fall. On clear nights, grass and leaves lose warmth to the open sky and cool down. Then water vapour from the air condenses on them. The cold comes first, and the dew comes after.",
   "who": "William Charles Wells, a doctor in London",

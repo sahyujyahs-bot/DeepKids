@@ -117,7 +117,7 @@
    "concept": "Slow growth makes bigger crystals",
    "status": "defined",
    "definition": "When a solution dries or cools slowly, a few crystals start and keep growing, so they become big. When it dries or cools fast, very many crystals start at once, so each stays tiny.",
-   "description": "On the plate, the water was thin and spread out, so it evaporated in a few hours. Salt particles were pushed out of the water all at once, and thousands of tiny crystals started everywhere. In the glass, the water evaporated slowly over days. Only a few crystals started, and new particles had time to join them. So the glass grew fewer, bigger crystals. Both were the same salt, and both made cubes.",
+   "description": "On the plate, the water was thin and spread out, so it evaporated in a day or two. Salt particles were pushed out of the water all at once, and thousands of tiny crystals started everywhere. In the glass, the water evaporated slowly over days. Only a few crystals started, and new particles had time to join them. So the glass grew fewer, bigger crystals. Both were the same salt, and both made cubes.",
    "examples": [
     "At the salt pans, slow drying grows bigger grains than fast drying.",
     "Kalkandu makers leave their syrup still for days, so the crystals grow big. Stirring and fast cooling give fine sugar instead.",
@@ -274,7 +274,7 @@
    "What did Nila see when she zoomed in on Arjun's sandy sugar?",
    "Why do you think Valli Athai's rule was that nobody touches the pots?",
    "If you wanted kalkandu fast, is there any way to hurry it without making it sandy?",
-   "Arjun thought better sugar made bigger crystals. How did Nila find out he was wrong?"
+   "Arjun wondered if Nila had used better sugar. How do we know the sugar was not the reason?"
   ],
   "art": [
    "A cool back room with a stone floor and rows of clay pots covered with white cloths, strings dipping into each, and two children peeping in at the door.",
@@ -299,24 +299,72 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 solid cards to cut out (the answer is in brackets)",
+     "title": "16 solid cards to cut out (the answer is on the back of each card)",
      "items": [
-      "A grain of salt (Crystal)",
-      "A grain of sugar (Crystal)",
-      "A lump of kalkandu (Crystal)",
-      "An ice cube (Crystal: made of many ice crystals)",
-      "A snowflake (Crystal)",
-      "A glass bangle (Not a crystal)",
-      "A clear boiled sweet (Not a crystal)",
-      "A lump of phitkari (Crystal)",
-      "A diamond (Crystal)",
-      "A grain of sand (A broken piece of a quartz crystal)",
-      "A steel spoon (Crystal: made of many tiny metal crystals packed together)",
-      "A rubber band (Not a crystal)",
-      "Runny honey (Not a crystal: it is a liquid)",
-      "Honey that has gone grainy (Has crystals in it)",
-      "The enamel on your teeth (Crystal: made of tiny crystals)",
-      "A glass window (Not a crystal)"
+      {
+       "f": "A grain of salt",
+       "b": "Crystal"
+      },
+      {
+       "f": "A grain of sugar",
+       "b": "Crystal"
+      },
+      {
+       "f": "A lump of kalkandu",
+       "b": "Crystal"
+      },
+      {
+       "f": "An ice cube",
+       "b": "Crystal: made of many ice crystals"
+      },
+      {
+       "f": "A snowflake",
+       "b": "Crystal"
+      },
+      {
+       "f": "A glass bangle",
+       "b": "Not a crystal"
+      },
+      {
+       "f": "A clear boiled sweet",
+       "b": "Not a crystal"
+      },
+      {
+       "f": "A lump of phitkari",
+       "b": "Crystal"
+      },
+      {
+       "f": "A diamond",
+       "b": "Crystal"
+      },
+      {
+       "f": "A grain of sand",
+       "b": "Crystal: a broken piece of a quartz crystal"
+      },
+      {
+       "f": "A steel spoon",
+       "b": "Crystal: made of many tiny metal crystals packed together"
+      },
+      {
+       "f": "A rubber band",
+       "b": "Not a crystal"
+      },
+      {
+       "f": "A glass marble (goli)",
+       "b": "Not a crystal"
+      },
+      {
+       "f": "Honey that has gone grainy",
+       "b": "Crystal: tiny crystals have formed in it"
+      },
+      {
+       "f": "The enamel on your teeth",
+       "b": "Crystal: made of tiny crystals"
+      },
+      {
+       "f": "A glass window",
+       "b": "Not a crystal"
+      }
      ]
     },
     {
@@ -339,11 +387,12 @@
    ],
    "rules": [
     "Put the two sorting cards face up.",
-    "Shuffle the 16 solid cards and put them face down.",
-    "On your turn, take the top card and read it aloud, but cover the answer in brackets.",
+    "Shuffle the 16 solid cards and put them in a pile with the names facing up and the answers underneath.",
+    "On your turn, take the top card and read the name aloud. Do not turn the card over.",
     "Put it on 'Crystal' or 'Not a crystal', and give one clue.",
-    "Check the answer. Right: keep the card. A good clue, such as 'it has flat faces' or 'it was cooled fast': 1 more point.",
-    "Playing alone, try to win all 16 cards with a clue for each."
+    "Now turn the card over. Right: keep the card. Wrong: the card stays on the table and nobody keeps it. A good clue, such as 'it has flat faces' or 'it was cooled fast': 1 more point.",
+    "The game ends when the pile is finished. Each card you kept is 1 point. The most points wins, and a tie is shared.",
+    "Playing alone, try to keep all 16 cards with a clue for each."
    ],
    "setup": [
     {
@@ -360,40 +409,29 @@
      "id": "s1",
      "mins": 2,
      "context": "This is the start of Crystal or Not?, a card game about which solids are crystals.",
-     "do": "1. Cut out the cards. 2. Lay out the two sorting cards. 3. Shuffle the 16 solid cards face down.",
+     "do": "1. Cut out the cards. 2. Lay out the two sorting cards. 3. Shuffle the 16 solid cards, names facing up.",
      "say": "Every card is a solid. Is it a crystal, with its particles in a pattern, or not?",
      "kid": "Lay out the two big cards. Shuffle the rest. Is each solid a crystal or not?"
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the boiled sweet card together as a practice round.",
-     "say": "Practice card. A clear boiled sweet. It is made of sugar. Is it a crystal?",
-     "kid": "Practice card. A clear boiled sweet, made of sugar. Crystal or not?",
-     "check": {
-      "t": "mcq",
-      "q": "A clear boiled sweet is made of sugar. Is it a crystal?",
-      "options": [
-       "Yes, because sugar is always a crystal",
-       "No, because its sugar particles are jumbled",
-       "Yes, because it is hard"
-      ],
-      "a": 1,
-      "why": "A boiled sweet is cooled so fast from hot syrup that its sugar particles freeze in a jumble. So it is not a crystal, even though kalkandu, made of the same sugar, is one. Picking 'sugar is always a crystal' misses that the arrangement matters. Picking 'it is hard' misses that glass is hard too, and it is not a crystal."
-     }
+     "do": "Play the boiled sweet card together as a practice round, then shuffle it back into the pile.",
+     "say": "Practice card. A clear boiled sweet. It is made of sugar. Is it a crystal? Turn it over to check.",
+     "kid": "Practice card. A clear boiled sweet, made of sugar. Crystal or not? Turn it over to check."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Take turns. 2. Read, sort and give a clue. 3. Check the answer in brackets.",
+     "do": "1. Take turns. 2. Read the name, sort the card and give a clue. 3. Turn the card over to check.",
      "say": "Read your card. Crystal or not? What is your clue?",
-     "kid": "Read your card. Crystal or not? Give a clue. Check the answer.",
-     "parent": "The steel spoon surprises most people. Metals are made of many tiny crystals packed together, too small to see without a microscope. The sand card is a broken piece of a crystal, so it counts as crystal."
+     "kid": "Read your card. Crystal or not? Give a clue. Turn it over to check.",
+     "parent": "The steel spoon surprises most people. Metals are made of many tiny crystals packed together, too small to see without a microscope. The sand card is a broken piece of a crystal, so it counts as a crystal."
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count the cards and points.",
+     "do": "Count your cards and points. The most points wins.",
      "say": "Which card surprised you most? Why?",
      "kid": "Count your cards. Which one surprised you?",
      "think": "Is there a solid in your home that you are not sure about? How could you find out?"
@@ -413,18 +451,55 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A 12 by 12 squared grid for each player (or use a page from a squared maths notebook)",
+     "title": "A grid of 6 by 6 squares for each round and each player (36 squares; or draw 6 by 6 squares on squared paper)",
      "items": [
-      "12 by 12 grid"
+      "A1",
+      "B1",
+      "C1",
+      "D1",
+      "E1",
+      "F1",
+      "A2",
+      "B2",
+      "C2",
+      "D2",
+      "E2",
+      "F2",
+      "A3",
+      "B3",
+      "C3",
+      "D3",
+      "E3",
+      "F3",
+      "A4",
+      "B4",
+      "C4",
+      "D4",
+      "E4",
+      "F4",
+      "A5",
+      "B5",
+      "C5",
+      "D5",
+      "E5",
+      "F5",
+      "A6",
+      "B6",
+      "C6",
+      "D6",
+      "E6",
+      "F6"
      ]
     },
     {
      "kind": "cards",
      "title": "Rule card",
      "items": [
-      "Fast round: roll 1 to 4 = start a NEW crystal (colour one square anywhere not touching another crystal). Roll 5 or 6 = add one square to any crystal you have.",
-      "Slow round: roll 1 = start a NEW crystal. Roll 2 to 6 = add one square to any crystal you have.",
-      "A new square must share a whole side with the crystal it joins."
+      "Fast round: roll 1 to 4 = start a NEW crystal (colour one square that does not touch another crystal). Roll 5 or 6 = add one square to a crystal you have.",
+      "Slow round: roll 1 = start a NEW crystal. Roll 2 to 6 = add one square to a crystal you have.",
+      "If you have no crystal yet, any roll starts a new one.",
+      "A square you add must share a whole side with the crystal it joins, and must not touch a different crystal.",
+      "If you cannot make the move, miss that turn."
      ]
     },
     {
@@ -440,15 +515,15 @@
     }
    ],
    "rules": [
-    "Each player has a grid and a pencil.",
-    "Play a fast round of 12 turns, using the fast rule.",
+    "Each player has a pencil, a 6 by 6 grid for each round, and one dice. Players can share one dice, or write 1 to 6 on slips of paper and pick one from a cup.",
+    "Play a fast round: 12 turns each, using the fast rule on the first grid.",
     "Count your crystals, and the squares in your biggest one. Write them down.",
-    "Play a slow round of 12 turns on a new grid, using the slow rule.",
-    "Count again. The player with the biggest single crystal in the slow round wins."
+    "Play a slow round: 12 turns each, on a new grid, using the slow rule.",
+    "Count again. The player with the biggest single crystal in the slow round wins, and a tie is shared. Playing alone, see if your slow crystal beats your fast one."
    ],
    "setup": [
     {
-     "art": "A squared grid with many separate single coloured squares scattered about, labelled 'fast round'.",
+     "art": "A 6 by 6 squared grid with many separate single coloured squares scattered about, none touching, labelled 'fast round'.",
      "caption": "1. Fast round: many new crystals start."
     },
     {
@@ -461,7 +536,7 @@
      "id": "s1",
      "mins": 2,
      "context": "This is the start of Fast or Slow?, a dice game about how crystals start and grow.",
-     "do": "Give each player a grid and read the rule card aloud.",
+     "do": "Give each player two grids and a pencil, and read the rule card aloud.",
      "say": "Each coloured square is a bit of salt joining a crystal. In the fast round, new crystals start often. In the slow round, they rarely start.",
      "kid": "Each square is salt joining a crystal. Fast round: new crystals start often. Slow round: rarely."
     },
@@ -505,12 +580,12 @@
   {
    "id": "e1",
    "title": "Fast Plate or Slow Glass: which grows bigger salt crystals?",
-   "mins": 45,
+   "mins": 42,
    "days": 7,
    "context": "In this experiment you make very salty water. You dry the same amount fast on a plate and slowly in a glass. Then you compare the salt crystals.",
    "question": "Does the speed of drying change the size of salt crystals? Does it change their shape?",
-   "predict": "Guess first. The plate will dry in a few hours. The glass will take about a week. Which will grow bigger crystals? Will the crystals be the same shape or different? Why do you think so?",
-   "fair_test": "Both use the same salt water, poured from the same tumbler, 2 big spoons each. Both sit side by side on the same shelf. The only difference is the dish: a wide plate spreads the water thin, so it dries fast, and a small glass keeps it deep, so it dries slowly.",
+   "predict": "Guess first. The plate will dry within a day or two. The glass will take about a week. Which will grow bigger crystals? Will the crystals be the same shape or different? Why do you think so?",
+   "fair_test": "Both use the same salt water, poured from the same tumbler, 2 big spoons each. Both sit side by side on the same shelf. The only difference is the dish: a wide plate spreads the water thin, so it dries fast, and a small glass keeps it deep, so it dries slowly. If you can, use a glass or ceramic plate, so both dishes are made of the same kind of material.",
    "results_table": [
     "Day",
     "Plate: what you see",
@@ -533,7 +608,7 @@
      "qty": 2
     },
     {
-     "item": "a steel plate, dark coloured if you have one, or a plate with a sheet of black paper under a clear plastic lid",
+     "item": "a wide plate with a flat bottom, dark if you have one",
      "qty": 1
     },
     {
@@ -554,17 +629,16 @@
      "qty": 1
     }
    ],
-   "safety": "Do not drink the very salty water. Keep the glass where nobody will knock it over.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 22,
      "what": "Make the saturated salt water. Pour 2 big spoons on the plate and 2 in the glass. Put both on one shelf. Guess what will happen."
     },
     {
      "day": 2,
      "mins": 5,
-     "what": "The plate should be dry. Look at its crystals with the phone camera. Measure the biggest. Look at the glass."
+     "what": "The plate should be dry, or nearly dry. Look at its crystals with the phone camera. Measure the biggest. Look at the glass."
     },
     {
      "day": 4,
@@ -588,7 +662,7 @@
      "caption": "2. Pour off the clear salt water."
     },
     {
-     "art": "A steel plate with a thin layer of salt water spread over it, and a small glass with salt water at the bottom, side by side on a shelf with labels 'fast' and 'slow'.",
+     "art": "A wide plate with a thin layer of salt water spread over it, and a small glass with salt water at the bottom, side by side on a shelf with labels 'fast' and 'slow'.",
      "caption": "3. Two big spoons on a plate, two in a small glass."
     },
     {
@@ -660,10 +734,10 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Look at the plate. It should be dry. 2. Zoom in with the phone camera near the edge, where single grains sit apart. 3. Measure the biggest crystal with the ruler. 4. Look at the glass too.",
+     "do": "1. Look at the plate. It should be dry, or nearly dry. 2. Zoom in with the phone camera near the edge, where single grains sit apart. 3. Measure the biggest crystal with the ruler. 4. Look at the glass too.",
      "say": "What does the plate look like? Zoom in on the edge. Can you find a single grain? What shape is it?",
      "kid": "Zoom in on the plate's edge. Find one single grain. What shape is it? Measure it.",
-     "parent": "Most of the plate is a white crust of tiny grains stuck together. At the edges, single grains are about 1 millimetre or less. Zoomed in, many look like tiny squares or cubes. In the glass, you may already see a few small cubes on the bottom, or thin square plates floating on top.",
+     "parent": "Most of the plate is a white crust of tiny grains stuck together. At the edges, single grains are about 1 millimetre or less. Zoomed in, many look like tiny squares or cubes. In a humid or rainy week the plate may take two days to dry. The glass is usually still wet, with perhaps a few specks at the edge.",
      "wait": "Look at the glass again on day 4"
     },
     {
@@ -672,7 +746,7 @@
      "do": "1. Look at the glass from the side and from the top. 2. Draw what you see. 3. Measure the biggest crystal you can see.",
      "say": "How many crystals are in the glass? How big is the biggest one now?",
      "kid": "Look at the glass from the side. Draw the crystals. Measure the biggest one.",
-     "parent": "Salt often climbs up the inside of the glass as a white crust. That is salt water creeping up and drying. Some crystals float on top as hollow square shapes, like little steps. These are cubes too, growing faster at their edges.",
+     "parent": "Salt often climbs up the inside of the glass as a white crust. That is salt water creeping up and drying. Some crystals may float on top as hollow square shapes, like little steps. These are cubes too, growing faster at their edges.",
      "wait": "Look again on day 7"
     },
     {
@@ -692,7 +766,7 @@
       "a": 1,
       "why": "Slow drying lets a few crystals keep growing, so they get big. Fast drying starts thousands of crystals at once, so each stays tiny. Both were salt, so both grew cubes. Picking 'the plate' is a common guess, because it dried first. Picking 'different shapes' is worth checking with the phone: look again at single grains."
      },
-     "parent": "Crystals from the glass are usually 3 to 6 millimetres across, and sometimes bigger. The plate grains are about 1 millimetre or smaller. If your glass crystals are small too, the glass may have been too wide or the shelf too windy. Try again with the narrowest glass you have."
+     "parent": "Crystals from the glass are often 2 to 5 millimetres across, and sometimes bigger. The plate grains are about 1 millimetre or smaller. In a damp week the glass may still be wet on day 7: keep looking every day or two. Sometimes the salt climbs the side of the glass as a crust instead of growing cubes. If so, measure the biggest cube on the bottom. If your glass crystals are small too, the glass may have been too wide or the shelf too windy. Try again with the narrowest glass you have."
     },
     {
      "id": "s9",
@@ -724,23 +798,23 @@
      [
       "2",
       "Dry, white crust of tiny grains",
-      "A few tiny cubes on the bottom",
+      "Still wet, maybe a few specks at the edge",
       "1 mm",
-      "1 mm"
+      "None yet"
      ],
      [
       "4",
       "Dry",
-      "More cubes, and a crust climbing up the side",
+      "A few tiny cubes on the bottom, and a crust climbing up the side",
       "1 mm",
-      "3 mm"
+      "2 mm"
      ],
      [
       "7",
       "Dry",
-      "Nearly dry, a few big cubes",
+      "Nearly dry, a few bigger cubes",
       "1 mm",
-      "5 mm"
+      "4 mm"
      ]
     ]
    }
@@ -795,12 +869,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 10,
      "what": "A grown-up dissolves phitkari in hot water. Leave the glass still overnight. Guess what shape will grow."
     },
     {
      "day": 2,
-     "mins": 15,
+     "mins": 20,
      "what": "Take out the phitkari crystals. Compare them with salt and sugar under the phone camera. Draw one of each."
     }
    ],
@@ -856,7 +930,7 @@
      "do": "1. Look at the glass from the side. 2. Pour the water away down the sink. 3. Tip the crystals onto the dark plate.",
      "say": "Look at the bottom of the glass. What has grown? Tip them out gently.",
      "kid": "What grew in the glass overnight? Tip the crystals onto the dark plate.",
-     "parent": "You should see clear crystals, many of them 3 to 10 millimetres across. Good ones look like two pyramids joined at their base, with triangle faces. Ones that grew on the bottom are often flat on one side, like a pyramid cut in half."
+     "parent": "You should see clear crystals, often 2 to 5 millimetres across and some bigger. Good ones look like two pyramids joined at their base, with triangle faces. Ones that grew on the bottom are often flat on one side, like a pyramid cut in half. If you see only a thin white film or fine powder, look closely with the phone: the crystals may be tiny. Overnight growth is not certain, so if little has formed, leave the glass one more night."
     },
     {
      "id": "s4",
@@ -911,7 +985,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Press slowly with the spoon. Do not hit hard, so that pieces do not fly. Keep your face away from the plate.",
+   "safety": "Press slowly with the spoon. Do not hit hard, so that pieces do not fly into your eyes.",
    "schedule": [
     {
      "day": 1,
@@ -982,13 +1056,13 @@
       "q": "You cracked a salt crystal. What did most of the pieces look like?",
       "options": [
        "Jagged, like broken glass",
-       "Smaller blocks with flat sides and square corners",
+       "Smaller pieces with flat sides and square corners",
        "Round, like tiny beads"
       ],
       "a": 1,
       "why": "Salt breaks most easily between its rows of particles. So the broken sides follow the same square pattern, and the pieces are small blocks. Picking 'jagged' is what glass does, because glass has no pattern inside. Picking 'round' is how worn sand grains look, after years of rubbing."
      },
-     "parent": "Many pieces will have smooth, flat sides that meet at square corners, like tiny bricks. This splitting along flat sides is called cleavage. Not every piece will be perfect, and some salt will turn to powder. That is normal.",
+     "parent": "Many pieces will have smooth, flat sides that meet at square corners, like tiny bricks. This splitting along flat sides is called cleavage. The pieces are tiny, so zoom in. Not every piece will be perfect, and some salt will turn to powder. That is normal. If most of it turns to powder, try again on a bigger grain, pressing even more slowly.",
      "think": "If you could crack the smallest piece again and again, would the pieces always be little blocks?"
     }
    ]
@@ -1041,10 +1115,10 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the start of Pack the Coins. Coins stand in for particles, so you can see how a repeated pattern makes straight edges.",
-     "do": "1. Lay the coins flat on the tray. 2. Push them together as tightly as they will go, every coin touching its neighbours.",
+     "do": "1. Lay the coins flat on the tray. 2. Push them together tightly, in rows. 3. Set each coin in the dip between two coins of the row below, like a honeycomb.",
      "say": "Pretend each coin is a particle of a crystal. Pack them as tightly as you can. How many coins touch each coin in the middle?",
      "kid": "Each coin is a particle. Pack them tight. Count the coins touching one in the middle.",
-     "parent": "A coin in the middle touches 6 others. The pattern is like a honeycomb."
+     "parent": "A coin in the middle touches 6 others. If your cluster looks untidy, nudge the coins into rows."
     },
     {
      "id": "s2",
@@ -1061,7 +1135,7 @@
        ]
       }
      ],
-     "parent": "The rows line up by themselves, because every coin fits the same way. Real crystals are made the same way, with particles instead of coins, in three directions instead of two."
+     "parent": "Every coin sits in the same way as its neighbours, so the rows line up. Real crystals are made the same way, with particles instead of coins, in three directions instead of two."
     },
     {
      "id": "s3",
@@ -1104,7 +1178,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Do not touch the freezer walls with wet fingers, as skin can stick. Close the freezer door quickly so the food stays cold.",
+   "safety": "Do not touch the freezer walls with wet fingers, as skin can stick.",
    "schedule": [
     {
      "day": 1,
@@ -1137,8 +1211,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Talk about how frost is like a snowflake.",
-     "say": "Snowflakes form high up in cold clouds, the same way. That is why every snowflake has six arms.",
-     "kid": "Snowflakes are ice crystals too. They grow six arms in cold clouds.",
+     "say": "Snowflakes form high up in cold clouds, the same way. Their ice crystals are six-sided, so many snowflakes have six arms.",
+     "kid": "Snowflakes are ice crystals too. Many grow six arms in cold clouds.",
      "think": "Frost grew without any liquid water. Where did its water come from?"
     }
    ]
@@ -1151,7 +1225,7 @@
    "context": "In this activity you hunt the kitchen for solids. You look closely and decide which are crystals, with flat faces of their own, and which are not.",
    "materials": [
     {
-     "item": "a few of these, whatever you have: salt, sugar, kalkandu, phitkari, honey that has gone grainy, ghee, a clear boiled sweet, a glass bangle, a piece of jaggery",
+     "item": "a few of these, whatever you have: salt, sugar, kalkandu, phitkari, honey that has gone grainy, ghee, a clear boiled sweet, a glass bangle, a piece of jaggery (gur, bellam or vellam)",
      "qty": 1
     },
     {
@@ -1160,7 +1234,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Don't eat the phitkari. Handle the glass bangle gently, and don't break it.",
+   "safety": "Don't eat the phitkari. Handle the glass bangle gently: if it breaks, the pieces are sharp.",
    "schedule": [
     {
      "day": 1,
@@ -1243,12 +1317,12 @@
      "qty": 1
     }
    ],
-   "safety": "Hot sugar syrup burns badly and sticks to skin. Only a grown-up makes and pours the syrup, and the child stands back until it has cooled.",
+   "safety": "Hot sugar syrup burns badly and sticks to skin. Only a grown-up makes and pours the syrup, and the child stands back until it has cooled. Stand the jar on a folded cloth before pouring, so it does not crack.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Dip the thread in a little syrup, roll it in sugar, and let it dry. Make the syrup. Hang the thread in the jar."
+     "what": "Wet the thread, roll it in sugar and let it dry. A grown-up makes the syrup. Hang the thread in the jar."
     },
     {
      "day": 3,
@@ -1295,9 +1369,9 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the start of Grow Your Own Kalkandu. You prepare a thread for sugar crystals to grow on.",
-     "do": "1. Tie the thread to the middle of the pencil. 2. Tie the button to the other end. 3. A grown-up dips the thread in a spoon of warm syrup. 4. Roll it in sugar and let it dry for an hour.",
-     "say": "The tiny sugar grains on the thread are seed crystals. New sugar can join them more easily than start from nothing.",
-     "kid": "Tie the thread to the pencil. Roll the sticky thread in sugar. Let it dry.",
+     "do": "1. Tie the thread to the middle of the pencil. 2. Tie the button to the other end. 3. Wet the thread with a little water. 4. Roll it in dry sugar and let it dry for an hour.",
+     "say": "The tiny sugar grains stuck on the thread are seed crystals. New sugar can join them more easily than start from nothing.",
+     "kid": "Tie the thread to the pencil. Wet it, then roll it in sugar. Let it dry.",
      "parent": "Hang the thread across the jar first to check the length. The button should hang about 2 centimetres above the bottom, so crystals on the bottom do not trap it."
     },
     {
@@ -1307,7 +1381,7 @@
      "say": "Hot water can hold far more sugar than cold water. As the syrup cools, where do you think the extra sugar will go?",
      "kid": "A grown-up makes the syrup. Stand back. When it has cooled a bit, hang the thread in it.",
      "adult": true,
-     "parent": "Cover the jar with paper and stand it in a plate with a little water, so ants cannot reach it. Put it somewhere warm and still, where nobody will move it."
+     "parent": "Cover the jar with paper and stand it in a plate with a little water, so ants cannot reach it. Put it somewhere still, where nobody will move it."
     },
     {
      "id": "s3",
@@ -1385,9 +1459,9 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the start of the Grow the Biggest Salt Crystal challenge.",
-     "do": "Read Kavya's problem aloud. Look at the crystals from your slow glass.",
-     "say": "Kavya's plate gave only tiny grains. What did our experiment show about growing big crystals?",
-     "kid": "Kavya wants one big salt crystal. What did your test show about big crystals?"
+     "do": "Read the problem aloud. Look at the crystals from your slow glass.",
+     "say": "The plate in the problem gave only tiny grains. What did our experiment show about growing big crystals?",
+     "kid": "The girl in the problem wants one big salt crystal. What did your test show about big crystals?"
     },
     {
      "id": "s2",
@@ -1395,7 +1469,7 @@
      "do": "1. Choose the best cube from your slow glass as a seed crystal. 2. Set up your design. 3. Look every 2 or 3 days for two weeks.",
      "say": "Which idea will you try? Why do you think it will grow one big crystal?",
      "kid": "Pick a seed crystal. Set up your glass. Look every few days.",
-     "parent": "A seed crystal in a covered, still glass grows a few millimetres each week. If many small crystals grow around it, lift it out, wipe them off, and put it into fresh salt water."
+     "parent": "A seed crystal in a covered, still glass grows a few millimetres each week. It may not reach the size of a fingernail, and that is fine: measure what you get. If many small crystals grow around it, lift it out, wipe them off, and put it into fresh salt water."
     },
     {
      "id": "s3",
@@ -1403,7 +1477,7 @@
      "do": "After two weeks, measure your crystal and explain your design.",
      "say": "How big did it grow? What would you change next time?",
      "kid": "Measure your crystal. What worked? What would you change?",
-     "think": "Why do new particles join the seed crystal instead of starting a new one?"
+     "think": "Which part of your design made the most difference, and how could you test that?"
     }
    ]
   },
@@ -1412,7 +1486,7 @@
    "title": "Salt or Sugar? Tell them apart without tasting",
    "mins": 20,
    "context": "This is a challenge. Two dabbas have lost their labels. You tell salt from sugar without tasting, using what you know about crystals.",
-   "problem": "Lakshmi's Paati in Mysuru has two dabbas of white grains with no labels. One is salt and one is sugar. Paati has diabetes, so she must not taste the sugar to check. How can Lakshmi tell which is which?",
+   "problem": "Lakshmi, a girl in Class 4, is visiting her Paati in Mysuru. Paati has two dabbas of white grains with no labels. One is salt and one is sugar. Paati has diabetes, so she must not taste the sugar to check. How can Lakshmi tell which is which?",
    "constraints": [
     "Nobody may taste the grains.",
     "Use only things from home.",
@@ -1459,14 +1533,14 @@
      "say": "Which heap is made of cubes? So which is the salt?",
      "kid": "Zoom in. Which grains are cubes? That one is salt.",
      "adult": true,
-     "parent": "Only the heating test needs a grown-up. Use a low flame and a steel spoon, and let the spoon cool before anyone touches it."
+     "parent": "Table salt grains are small, so use good light and zoom in close. Only the heating test needs a grown-up. Use a low flame and a steel spoon, and let the spoon cool before anyone touches it."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child to explain their answer to Lakshmi.",
-     "say": "How would you explain to Lakshmi that your test is reliable?",
-     "kid": "Tell Lakshmi which dabba is salt. How do you know?",
+     "do": "Ask your child to explain their answer to a friend who cannot see the grains.",
+     "say": "How would you explain to a friend that your test is reliable?",
+     "kid": "Tell a friend which dabba is salt. How do you know?",
      "think": "Would the shape test still work if the salt were ground into fine powder?"
     }
    ]
@@ -1509,18 +1583,6 @@
    ],
    "a": 1,
    "why": "The repeating pattern of particles is what makes a crystal. Picking 'clear' misses that salt crystals can look white, and glass is clear but not a crystal. Picking 'sparkles' misses that glitter sparkles too.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "Why does a crystal have flat faces?",
-   "opts": [
-    "Someone polished it",
-    "New particles join in the same pattern, row after row",
-    "It was pressed flat"
-   ],
-   "a": 1,
-   "why": "Particles join in rows that follow the pattern, and a finished row is flat. Picking 'polished' is how cut gems are made, but salt and sugar grow flat faces by themselves.",
    "outcome": 0
   },
   {
@@ -1596,18 +1658,6 @@
    ],
    "a": 1,
    "why": "Glass has its particles in a jumble, so it is not a crystal. Kalkandu and phitkari have their particles in a pattern.",
-   "outcome": 4
-  },
-  {
-   "t": "mcq",
-   "p": "A clear boiled sweet is made of sugar. Why is it not a crystal?",
-   "opts": [
-    "It cooled so fast that its sugar particles froze in a jumble",
-    "It has no sugar in it",
-    "It is too small"
-   ],
-   "a": 0,
-   "why": "Fast cooling gave the particles no time to line up. Kalkandu grows slowly, so its particles do. Picking 'no sugar' misses that it tastes sweet.",
    "outcome": 4
   },
   {
@@ -1692,14 +1742,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Fast Plate or Slow Glass test, both dishes got the same salt water and the same amount. Why?",
+     "p": "In the Fast Plate or Slow Glass test, you let the salt settle and pour off the clear salt water. Why not pour in everything, including the salt at the bottom?",
      "opts": [
-      "To use up all the salt water",
-      "So the only difference is how fast they dry",
-      "So they dry at the same time"
+      "The undissolved salt would stay on the dish and look like crystals that grew",
+      "The undissolved salt is a different kind of salt",
+      "The tumbler would be too heavy"
      ],
-     "a": 1,
-     "why": "A fair test changes only one thing. Here it was the speed of drying, set by the shape of the dish.",
+     "a": 0,
+     "why": "Salt that never dissolved is not crystals that grew from the water. Pouring off only the clear salt water means every crystal you see grew as the water dried.",
      "how": "e1"
     },
     {
@@ -1784,15 +1834,14 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi, a girl in Class 3, cracks a big grain of kal uppu with a spoon. What do most of the pieces look like?",
+     "p": "A glass bangle breaks. What are the broken edges like?",
      "opts": [
-      "Smaller blocks with flat sides",
-      "Round crumbs",
+      "Flat, with square corners",
+      "Curved and smooth",
       "Long thin needles"
      ],
-     "a": 0,
-     "why": "Salt breaks most easily between its rows of particles, so the pieces are small blocks with flat sides and square corners.",
-     "how": "a1"
+     "a": 1,
+     "why": "Glass has its particles in a jumble, so it breaks along curved lines. A crystal such as salt breaks along flat sides."
     },
     {
      "t": "order",
@@ -1814,19 +1863,18 @@
     },
     {
      "t": "write",
-     "p": "Your plate of salt water dried in one day. Your glass took a week. Which grew bigger crystals, and why?",
+     "p": "A jar of honey goes grainy in a cold month. What has happened to the sugar in it?",
      "lines": 3,
-     "a": "The glass. It dried slowly, so a few crystals had days to grow. The plate dried fast, so thousands of tiny crystals started at once.",
-     "why": "A strong answer names the glass and says slow drying lets a few crystals keep growing.",
-     "how": "e1"
+     "a": "Some of the sugar has come out of the honey and formed tiny crystals. That is what makes it grainy.",
+     "why": "A strong answer says tiny crystals have formed, and may say the honey crystallised."
     },
     {
-     "t": "fill",
-     "p": "Salt crystals grow as cubes. Phitkari crystals grow as two ____ joined at their base.",
-     "a": [
-      "pyramids"
-     ],
-     "why": "Phitkari particles join in their own pattern, which makes double pyramids with triangle faces."
+     "t": "write",
+     "p": "Choose one crystal from your kitchen. How do you know it is a crystal?",
+     "lines": 3,
+     "a": "Kalkandu is a crystal. It has flat shiny faces and sharp corners, and nobody cut them.",
+     "why": "A strong answer names a real kitchen crystal and gives a clue such as flat faces, sharp corners or a regular shape.",
+     "how": "a4"
     },
     {
      "t": "mcq",
@@ -1849,7 +1897,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Anjali, a girl in Class 4, dries salt water fast on a hot plate in the sun. What will she most likely get?",
+     "p": "Moni, a girl in Class 4 in Guwahati, dries salt water fast on a hot plate in the sun. What will she most likely get?",
      "opts": [
       "One big cube",
       "A crust of many tiny grains",
@@ -1896,7 +1944,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun stirred his hot sugar syrup and cooled it in cold water. He got fine, sandy sugar instead of kalkandu. What should he do differently next time, and why?",
+     "p": "In the story, Arjun stirred his hot sugar syrup and cooled it in cold water. He got fine, sandy sugar instead of kalkandu. What should he do differently next time, and why?",
      "lines": 3,
      "a": "Leave the syrup still and let it cool slowly, so only a few crystals start and the sugar has time to join them.",
      "why": "A strong answer says both: no stirring, and slow cooling, and links it to fewer crystals starting."
@@ -1944,15 +1992,11 @@
      "why": "A strong drawing shows a repeating pattern for the crystal and no pattern for the glass."
     },
     {
-     "t": "mcq",
-     "p": "Steno looked at many quartz crystals in 1669. Some were long, some short, some lopsided. What did he find was always the same?",
-     "opts": [
-      "Their size",
-      "The angle between one face and the next",
-      "Their colour"
-     ],
-     "a": 1,
-     "why": "However lopsided, every quartz crystal had the same angles between matching faces. Only the sizes of the faces changed."
+     "t": "write",
+     "p": "The salt pans at Thoothukudi are wide and shallow, not deep tanks. Why does shallow sea water in hot sun give salt faster?",
+     "lines": 3,
+     "a": "A thin layer has a large surface, so the water evaporates quickly in the sun. The salt stays behind. The grains will be small, as on the plate.",
+     "why": "A strong answer links a thin, wide layer and hot sun to fast evaporation, and may say fast drying gives small grains."
     },
     {
      "t": "write",
@@ -1962,12 +2006,10 @@
      "why": "A strong answer says the seed gives particles a ready pattern to join."
     },
     {
-     "t": "fill",
-     "p": "A crystal of one substance always has the same ____ between its faces, even if it grows lopsided.",
-     "a": [
-      "angles"
-     ],
-     "why": "Steno found this in 1669. It is true for every kind of crystal."
+     "t": "truefalse",
+     "p": "A salt crystal that grows for longer will turn into a different shape, not a cube.",
+     "a": false,
+     "why": "False. Size changes as a crystal grows, but salt always makes cubes. The pattern of its particles stays the same."
     },
     {
      "t": "truefalse",
@@ -1992,15 +2034,14 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi's Paati cannot taste sugar. Lakshmi has two dabbas of white grains. Which test tells salt from sugar without tasting?",
+     "p": "Frost on the wall of a freezer is made of ice crystals. Where does the water in the frost come from?",
      "opts": [
-      "Smell them",
-      "Zoom in on single grains: salt grains are cubes",
-      "Look at their colour"
+      "The water vapour in the air",
+      "The metal of the freezer",
+      "Water leaking from the ice tray"
      ],
-     "a": 1,
-     "why": "Salt grows cubes and sugar grows slanted blocks, so their shapes give them away. Both have almost no smell, and both are white.",
-     "how": "c2"
+     "a": 0,
+     "why": "Water vapour in the air freezes straight onto the cold wall as ice crystals."
     },
     {
      "t": "write",
@@ -2052,7 +2093,7 @@
     },
     {
      "t": "write",
-     "p": "Sana says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using what Steno found.",
+     "p": "Sana, a girl in Class 4, says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using what Steno found.",
      "lines": 3,
      "a": "She is partly right that they are not perfect cubes. But their faces still meet at square corners. Steno found that only the sizes of the faces change, not the angles.",
      "why": "A strong answer separates face size, which can change, from the angles, which stay the same."
@@ -2066,7 +2107,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya puts two seed crystals in the same glass of salt water. One is a salt cube, one is a sugar grain. What will happen?",
+     "p": "Kavya, a girl in Class 3, puts two seed crystals in the same glass of salt water. One is a salt cube, one is a sugar grain. What will happen?",
      "opts": [
       "Both grow salt",
       "The salt cube grows, and the sugar grain dissolves",
@@ -2121,11 +2162,15 @@
      "why": "Scientists still study exactly how nucleation happens."
     },
     {
-     "t": "write",
-     "p": "Valli Athai says nobody may touch her kalkandu pots for many days. Why does shaking or stirring a pot spoil the kalkandu?",
-     "lines": 3,
-     "a": "Shaking makes many new crystals start at once, so the sugar is shared among many small crystals, and none grows big.",
-     "why": "A strong answer links disturbing the syrup to many new crystals starting."
+     "t": "mcq",
+     "p": "A salt crystal is cracked again and again into smaller and smaller pieces. What do the pieces keep?",
+     "opts": [
+      "Flat sides and square corners",
+      "Round edges",
+      "No pattern at all"
+     ],
+     "a": 0,
+     "why": "Each small piece is still made of particles in the same square pattern, so it still breaks into blocks with flat sides."
     },
     {
      "t": "match",
@@ -2209,11 +2254,11 @@
   }
  ],
  "applications": [
-  "Salt pans along the coast of Tamil Nadu and Gujarat grow salt crystals by letting sea water evaporate in the sun.",
+  "Salt pans along the coasts of Tamil Nadu, Andhra Pradesh, Odisha and Gujarat, and in the Little Rann of Kutch, grow salt crystals by letting sea water or salty ground water evaporate in the sun.",
   "Sugar mills boil cane juice and control the cooling, so the sugar crystals come out the size they want.",
   "Kalkandu and thread mishri are grown on threads in still syrup for many days.",
   "Scientists grow crystals of the substances in medicines, then shine X-rays through them to see the shape of their particles. Dorothy Hodgkin found the shapes of penicillin and vitamin B12 this way.",
-  "Quartz crystals keep time in most wrist watches and phones, because a small quartz crystal vibrates at a very steady speed.",
+  "Quartz crystals keep time in many wrist watches and phones, because a small quartz crystal vibrates at a very steady speed.",
   "Computer chips are made from very pure silicon, grown as one huge crystal and then cut into thin slices."
  ],
  "spotted": [
@@ -2226,7 +2271,7 @@
    "art": "A small leaf cup of clear kalkandu crystals at a temple counter."
   },
   {
-   "text": "The white salt heaps at the salt pans near Thoothukudi, seen from the road.",
+   "text": "The white salt heaps at the salt pans near Thoothukudi, or along the Odisha and Gujarat coasts, seen from the road.",
    "art": "Rows of shallow salt pans with tall white salt heaps and workers with rakes."
   },
   {
@@ -2272,24 +2317,12 @@
  ],
  "jokes": [
   {
-   "j": "Why did the salt crystal stay on the shelf all week?",
-   "a": "It was growing up slowly."
-  },
-  {
    "j": "What did the salt crystal say to the sugar grain?",
    "a": "You're sweet, but you're not my type."
   },
   {
    "j": "Why are salt crystals so honest?",
    "a": "They're always square with you."
-  },
-  {
-   "j": "What do you call a crystal that grows in a hurry?",
-   "a": "Sand."
-  },
-  {
-   "j": "Why did the kalkandu win the race?",
-   "a": "It didn't. It was still growing."
   },
   {
    "j": "What's a crystal's favourite game?",
@@ -2308,46 +2341,22 @@
    "a": "One, two, three, four, five, six, done."
   },
   {
-   "j": "Why was the salt crystal never lost?",
-   "a": "It always knew its place in the pattern."
-  },
-  {
-   "j": "What did the seed crystal say to the new particle?",
-   "a": "Join the club. Please line up."
-  },
-  {
-   "j": "Why don't crystals ever argue?",
-   "a": "They always find common ground, face to face."
-  },
-  {
-   "j": "Why did Arjun's syrup turn to sand?",
-   "a": "It was stirred, not left."
-  },
-  {
-   "j": "What did one salt grain say to the other?",
-   "a": "Let's stick together and make a crust."
-  },
-  {
-   "j": "Why was the boiled sweet sad?",
-   "a": "It never got its act in order."
-  },
-  {
-   "j": "What is a crystal's favourite subject?",
-   "a": "Geometry, of course."
-  },
-  {
    "j": "Why did the ice cube get top marks?",
    "a": "It was a cool crystal."
   },
   {
-   "j": "What do you call a lazy crystal?",
-   "a": "A slow grower, and the biggest one in the glass."
+   "j": "Why did the salt crystal stay on the shelf all week?",
+   "a": "It was growing up slowly."
+  },
+  {
+   "j": "Why don't crystals ever argue?",
+   "a": "They always find common ground, face to face."
   }
  ],
  "maths": [
   {
    "context": "This is about the Fast Plate or Slow Glass test. You measured the biggest crystal from each dish.",
-   "problem": "Meenakshi's biggest plate crystal was 1 millimetre across. Her biggest glass crystal was 6 millimetres across. How many plate crystals, lined up side by side, would reach across the glass crystal?",
+   "problem": "Meenakshi did the plate and glass test. Her biggest plate crystal was 1 millimetre across. Her biggest glass crystal was 6 millimetres across. How many plate crystals, lined up side by side, would reach across the glass crystal?",
    "answer": "6 plate crystals.",
    "explain": "6 divided by 1 is 6. So 6 tiny plate crystals in a row are as wide as one glass crystal.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -2364,7 +2373,7 @@
   },
   {
    "context": "This is about the faces of a salt crystal. A salt crystal is a cube, like a dice.",
-   "problem": "How many faces, edges and corners does a salt cube have? Nila finds 4 salt cubes stuck together in a row. How many faces of the row can you see from outside?",
+   "problem": "How many faces, edges and corners does a salt cube have? Nila, in the story, finds 4 salt cubes stuck together in a row. How many faces of the row can you see from outside?",
    "answer": "A cube has 6 faces, 12 edges and 8 corners. A row of 4 has 18 faces showing.",
    "explain": "Each cube has 6 faces, so 4 cubes have 24. Where two cubes touch, 2 faces are hidden, one on each. A row of 4 has 3 joins, so 3 times 2 is 6 faces hidden. 24 take away 6 is 18.",
    "math_unit": "math.shapes-3d.faces-edges-vertices.L3",
@@ -2372,7 +2381,7 @@
   },
   {
    "context": "This is about the Grow Your Own Kalkandu project. You measured the biggest crystal on the thread every few days.",
-   "problem": "Shruti measured her biggest sugar crystal. Day 3: 1 millimetre. Day 5: 3 millimetres. Day 7: 5 millimetres. If it keeps growing the same way, how big will it be on day 9? Why might it slow down later?",
+   "problem": "Shruti, a girl in Class 3, grew kalkandu on a thread and measured her biggest sugar crystal. Day 3: 1 millimetre. Day 5: 3 millimetres. Day 7: 5 millimetres. If it keeps growing the same way, how big will it be on day 9? Why might it slow down later?",
    "answer": "About 7 millimetres on day 9. It may slow down because the syrup has less sugar left to give.",
    "explain": "It grows 2 millimetres every 2 days: 1, 3, 5, so next is 7. But each crystal takes sugar out of the syrup. As the syrup holds less spare sugar, growth slows unless more water evaporates.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2402,8 +2411,7 @@
  ],
  "song": {
   "topic_level": "sci.states.L3",
-  "title": "Still There",
-  "note": "Topic-level song for Solids, liquids, gases and particles L3"
+  "title": "Still There"
  },
  "links": [
   {
@@ -2423,14 +2431,14 @@
    "url": "https://www.vismuseum.gov.in/",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A large science museum. Check before you go which galleries are open, and look for minerals and crystals."
+   "why": "A large science museum in Bengaluru. Ask what is on show before you go."
   },
   {
    "title": "B. M. Birla Science Centre",
    "url": "https://birlasciencecentre.org/",
    "kind": "place",
    "where": "Hyderabad",
-   "why": "A science museum with galleries on the Earth and its rocks. Check which exhibits are open before you visit."
+   "why": "A science museum in Hyderabad. Ask what is on show before you go."
   }
  ],
  "buy": [
@@ -2438,39 +2446,36 @@
    "id": "b-alum",
    "item": "Phitkari (alum), a small lump or powder",
    "kind": "material",
-   "why": "For growing phitkari crystals overnight. Sold cheaply at grocery shops, pooja shops and chemists. Not to be eaten.",
+   "why": "For growing phitkari crystals overnight. Sold cheaply at grocery shops, pooja shops and chemists. A 100 gram packet is plenty. Not to be eaten.",
    "url": "https://www.amazon.in/s?k=phitkari+alum",
    "used_in": [
     "e2"
-   ],
-   "plan": "Buy before the Salt, Sugar or Phitkari experiment. A 100 gram packet is plenty."
+   ]
   },
   {
    "id": "b-lens",
    "item": "A hand lens (magnifying glass)",
    "kind": "tool",
-   "why": "For looking at the faces of small crystals. A phone camera zoomed in works too, so this is optional.",
+   "why": "For looking at the faces of small crystals. A phone camera zoomed in works too, so you can skip this.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "e1",
     "a1",
     "a3",
     "a4"
-   ],
-   "plan": "Optional. Use a phone camera if you don't have one."
+   ]
   },
   {
    "id": "b-kalkandu",
    "item": "Kalkandu (rock sugar), also called mishri",
    "kind": "material",
-   "why": "A big sugar crystal to compare with your grown crystals. Any kirana shop sells it.",
+   "why": "A big sugar crystal to compare with your grown crystals. Any kirana shop sells it. You can skip it.",
    "url": "https://www.amazon.in/s?k=kalkandu",
    "used_in": [
     "e2",
     "a4",
     "p1"
-   ],
-   "plan": "Optional. Small packets are cheap and keep for months."
+   ]
   }
  ],
  "warmup": [
@@ -2584,7 +2589,7 @@
  "roots": {
   "context": "We have grown salt crystals fast and slowly, and seen that each substance grows its own shape. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your plate dried fast and grew many tiny salt grains. Your glass dried slowly and grew fewer, bigger ones. Under the lens, both had flat faces and square corners. The drying speed set their size, but the salt itself set their shape.",
+   "truth": "Both dishes held the same salt water. The fast plate grew many tiny grains and the slow glass fewer, bigger ones. Under the lens, both had flat faces and square corners. Drying speed changed their size, and the salt gave them their shape.",
    "habit": "We think a neat shape must be made from outside, by a mould, a knife or a maker's hands. Salt makes its own cubes, because its particles always join in the same square pattern.",
    "evidence": "In the plate and glass test, the size changed but both made cubes. Cracked kal uppu broke into smaller blocks. Phitkari and sugar each grew their own different shape, in the same kind of glass."
   },
@@ -2593,7 +2598,7 @@
    "what_is_life": "Your body needs to know which way is down, even with your eyes shut. Inside each ear, tiny crystals rest on a soft jelly. When you tilt your head, they shift, and tiny hairs feel it.",
    "what_is_this_world": "Most rocks, most metals, sand, snow and the salt in the sea are made of crystals. Much of the solid world grew itself, particle by particle."
   },
-  "thread": "A salt crystal starts with a few particles that join and stay. Every particle that follows joins in the same way, millions of times over. Out of that one way of joining come the cubes on your plate, the heaps at Thoothukudi and the rock salt from old dried seas. One simple pattern shows up as countless crystals, big and small, in every place where salt water dries.",
+  "thread": "Every salt crystal starts when a few particles join and stay. Each new particle joins in the same way, millions of times over. That one way of joining gives the cubes on your plate, the heaps at Thoothukudi and the rock salt from old dried seas.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 64",
@@ -2633,7 +2638,7 @@
   ],
   "art": "A child at a window holding a single clear salt cube up to the light, with a faint picture inside it of rows of tiny particles, and a plate and a glass of salt crystals on the sill."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. The plate and glass test uses one cup of water and about 5 big spoons of salt, which every kitchen has. Two big spoons spread on a plate dry in a few hours to a day on an indoor shelf. The same amount in a narrow glass is about 1 to 2 centimetres deep and takes about 5 to 7 days, and grows cubes a few millimetres across, which a ruler and a phone camera show clearly. The step notes say what to do if the glass grows only small crystals. Phitkari is sold cheaply in most Indian towns, and dissolves in hot water and grows crystals overnight as it cools. The adult handles hot water and hot syrup. The kalkandu project has a fix for syrup that is too weak, and an ant moat. Cracking kal uppu uses a spoon pressed slowly, not a hammer. The frost hunt is outside the spine, because not every fridge has frost. The spine is about 85 minutes, with the glass checked on later days for 5 minutes at a time.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. The plate and glass test uses one cup of water and about 5 big spoons of salt. Two big spoons spread on a plate dry in a day or two on an indoor shelf. The same amount in a narrow glass is about 1 to 2 centimetres deep and takes about a week, longer in damp weather. It grows cubes a few millimetres across, or sometimes a crust, and the steps say what to do then. Phitkari is sold cheaply in most Indian towns, and grows crystals as hot water cools, though overnight growth is not certain. A grown-up handles hot water and hot syrup. The kalkandu project has a fix for syrup that is too weak, and an ant moat. Cracking kal uppu uses a spoon pressed slowly, not a hammer. The frost hunt is outside the core path, because not every fridge has frost.",
  "how_we_found_out": {
   "context": "How did people find out that every crystal of one kind follows the same rule? This card tells how.",
   "who": "Nicolas Steno, a Danish doctor and scientist who worked in Florence, Italy",

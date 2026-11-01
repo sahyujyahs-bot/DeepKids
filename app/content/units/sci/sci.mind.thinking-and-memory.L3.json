@@ -43,7 +43,7 @@
   {
    "term": "Memory",
    "meaning": "Anything you have learned and kept: a thing that happened, a fact, or a skill.",
-   "example": "Remembering your grandmother's face, knowing that 2 + 2 is 4, and knowing how to ride a cycle are all memories.",
+   "example": "Remembering a loved one's face, knowing that 2 + 2 is 4, and knowing how to ride a cycle are all memories.",
    "art": "Three bubbles: a birthday cake, the sum 2 + 2 = 4, and a child riding a cycle."
   },
   {
@@ -196,7 +196,7 @@
    "concept": "Where is a memory kept?",
    "status": "debated",
    "context": "This card is about a question scientists still argue about: where in you a memory really is.",
-   "description": "Scientists agree that memories depend on links between neurons. They have even found, in mice, small groups of neurons that bring back one particular memory when they fire. But a single memory seems to be spread across many parts of the brain, not kept in one spot. And nobody knows how signals between neurons become the experience of remembering your grandmother's face. Here are the main views.",
+   "description": "Scientists agree that memories depend on links between neurons. They have even found, in mice, small groups of neurons that bring back one particular memory when they fire. But a single memory seems to be spread across many parts of the brain, not kept in one spot. And nobody knows how signals between neurons become the experience of remembering a loved one's face. Here are the main views.",
    "examples": [
     "When you remember a festival, the sights, sounds, smells and feelings all come back together, though they are handled by different parts of the brain.",
     "People who lose part of their brain in an accident often keep most of their memories."
@@ -289,9 +289,9 @@
    "hint": "Think about what has stayed the same about you, and what has changed."
   },
   {
-   "q": "Why did the story list last until the next day, when the repeated list faded?",
+   "q": "You can hum a song you heard a year ago, but you forget ten words heard yesterday. Why?",
    "kind": "deep",
-   "hint": "Think about how many links each word had to other things in your mind."
+   "hint": "Think about the tune, the rhythm, and how often you heard the song."
   },
   {
    "q": "A touch-me-not plant has no brain, yet learned that being dropped was harmless. So what is a memory made of?",
@@ -304,7 +304,7 @@
    "hint": "Think about the things you are glad to forget, and what it would be like to remember every lunch you ever ate."
   },
   {
-   "q": "When you remember your grandmother's voice, where is that voice?",
+   "q": "When you remember the voice of someone you love, where is that voice?",
    "kind": "deep",
    "hint": "Think about whether there is a sound in your head, or something else."
   },
@@ -352,7 +352,7 @@
    "Why did Kavya forget the kolam after watching Paati only once?",
    "How did the little song help Kavya remember so many turns?",
    "Why did the kolam go wrong when Kavya tried it with her other hand?",
-   "Is there something you can now do without thinking, that was hard when you started?"
+   "At the end, Kavya gave Arjun only one corner on the first day. Why?"
   ],
   "art": [
    "A grandmother in a cotton saree bending over a white looping kolam on the landing outside a flat door, at dawn, with a steel bowl of rice flour.",
@@ -371,11 +371,11 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a memory game. A santhai is a weekly market in Tamil Nadu. Each player repeats the whole shopping list and adds one more thing, until someone forgets.",
+   "context": "This is a memory game. A santhai is a weekly market in Tamil Nadu. Each player says the whole shopping list so far and adds one more thing, until someone forgets.",
    "printables": [
     {
      "kind": "cards",
-     "title": "30 market picture cards to cut out",
+     "title": "30 market cards to cut out (each has the name of one thing written on it)",
      "items": [
       "tomatoes",
       "onions",
@@ -411,9 +411,20 @@
     },
     {
      "kind": "tokens",
-     "title": "15 memory tokens, 5 for each player",
+     "title": "12 memory tokens to cut out (3 for each player, for up to 4 players)",
      "items": [
-      "Cut out 15 small circles. Each player starts with 5. You lose one each time you forget."
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token",
+      "Memory token"
      ]
     },
     {
@@ -427,27 +438,28 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and put them face down in a pile. Each player takes 5 tokens.",
-    "The first player turns over a card and says: 'I went to the santhai and bought tomatoes.' Then they put the card face down in a row.",
-    "The next player turns over a new card, says the whole list in order, and adds the new thing.",
-    "If you forget a thing or get the order wrong, lose one token. The next player starts a new list.",
-    "After each round, say the trick you used to remember: a story, a picture, or grouping.",
-    "When a player has no tokens left, they are out. The last player with tokens wins.",
-    "Playing alone: turn over one card at a time and say the whole list each time. How long a list can you say? Try again tomorrow and beat it."
+    "Shuffle the market cards and put them in a pile, face down. Each player takes 3 memory tokens.",
+    "The first player turns over the top card, shows it to everyone, and says: 'I went to the santhai and bought tomatoes.' Then they put the card face down at the start of a row.",
+    "The next player turns over a new card, shows it to everyone, says the whole list in order from memory, and adds the new thing. Then they put the card face down at the end of the row.",
+    "If you forget a thing or say the order wrong, the others turn the row face up and check. If you are wrong, give back one token. The row of cards goes to a discard pile, and the next player starts a new list. If the pile of cards runs out, shuffle the discard pile and use it.",
+    "If a list reaches 12 things with no mistake, everyone wins that list. Clear the row and start a new list.",
+    "After each list, each player says the trick they used to remember: a story, an image in your head, or grouping.",
+    "The game ends when a player has no tokens left, or after 20 minutes. The player with the most tokens wins. If two players have the same number, they both win.",
+    "Playing alone: turn over one card at a time and say the whole list each time. How long a list can you say before you forget? Try again tomorrow and beat it."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards and tokens. 2. Shuffle the cards. 3. Give each player 5 tokens.",
-     "say": "This is a market game. Each of us will say the whole shopping list and add one more thing. If you forget, you lose a token.",
-     "kid": "Say the whole list. Add one thing. Forget? Lose a token!",
+     "do": "1. Cut out the cards and tokens. 2. Shuffle the cards and put them face down. 3. Give each player 3 tokens.",
+     "say": "This is a market game. Each of us will say the whole shopping list and add one more thing. If you forget, you give back a token.",
+     "kid": "Say the whole list. Add one thing. Forget? Give back a token!",
      "context": "This is the first step of I Went to the Santhai, a shopping list memory game."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play two rounds. Turn the cards face down as you go, so the list is only in your heads.",
+     "do": "Play two lists. A list ends when someone forgets, or when it reaches 12 things. Turn the cards face down as you go, so the list is only in your heads.",
      "say": "I went to the santhai and bought tomatoes. Your turn. Say tomatoes, then add your card.",
      "kid": "Turn a card. Say the whole list. Add your thing.",
      "parent": "Most children manage 6 to 10 things in the first round. Do not help with the list, but after the round, ask which trick they used."
@@ -460,7 +472,7 @@
      "kid": "Try making a story as the list grows. Can you go further?",
      "check": {
       "t": "mcq",
-      "q": "Divya wants to remember a long market list. Which trick will help her most?",
+      "q": "Divya, a girl in Class 3, wants to remember a long market list. Which trick will help her most?",
       "options": [
        "Saying each thing very fast",
        "Making a story that joins the things",
@@ -473,19 +485,19 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Play one more round with the story trick, then fill in the score sheet.",
-     "say": "One more round, with stories this time. Then let's write our longest lists on the score sheet.",
+     "do": "Play more lists with the story trick, until the game ends. Then fill in the score sheet.",
+     "say": "One more list, with stories this time. Then let's write our longest lists on the score sheet.",
      "kid": "One more round with a story. Write your longest list.",
      "think": "Was the story round longer than the first round? Why?"
     }
    ],
    "setup": [
     {
-     "art": "Picture cards of tomatoes, onions and bananas laid face down in a row on a mat, with paper tokens beside them.",
+     "art": "Market cards with tomatoes, onions and bananas written on them, laid face down in a row on a mat, with paper tokens beside them.",
      "caption": "1. Turn a card, say the whole list, add your thing."
     },
     {
-     "art": "A girl and her father laughing as she tells a silly story about a rolling tomato.",
+     "art": "A girl and an adult laughing as she tells a silly story about a rolling tomato.",
      "caption": "2. Try a story to remember a longer list."
     }
    ]
@@ -518,7 +530,7 @@
       "DL 3C AB 9062",
       "KA 03 JN 5190",
       "TN 72 BY 4006",
-      "KL 43 F 2208",
+      "KL 43 FA 2208",
       "TG 07 MS 6633",
       "AP 16 CR 0917",
       "TN 22 DT 3591",
@@ -538,12 +550,12 @@
     }
    ],
    "rules": [
-    "Shuffle the plate cards and put them face down.",
-    "The shower turns over one card and shows it for five seconds, then turns it back.",
-    "The other player writes the plate from memory.",
+    "Shuffle the plate cards and put them face down. A round uses 10 plates.",
+    "One player is the shower. They turn over one card, show it to everyone for five seconds, then turn it back. Everyone else writes the plate from memory.",
     "Score one point for each letter or digit in the right place. A full plate scores 10.",
-    "Take turns being the shower. After 5 plates each, add up the scores.",
-    "For round two, read each plate in groups before writing: 'TN 59, AB, 12, 34'. Does grouping raise your score?"
+    "Take turns being the shower, until 10 plates are used. The shower does not write. Add up the points from the first 5 plates you wrote.",
+    "For round two, shuffle the used cards, then play 10 plates again. This time, say each plate in groups while you look: 'TN 59, AB, 12, 34'.",
+    "Compare your round one and round two scores. Does grouping raise your score?"
    ],
    "flow": [
     {
@@ -557,7 +569,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Play five plates each and score them.",
+     "do": "Play round one: 10 plates. Take turns being the shower, and score each plate.",
      "say": "Here is the first one. Look carefully. Five, four, three, two, one. Now write it.",
      "kid": "Look hard. Now write it from memory.",
      "parent": "Ten letters and digits are more than most people can hold after one look. Most children get 5 to 7 right."
@@ -565,7 +577,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Play five more plates each, but this time say each plate in groups before writing.",
+     "do": "Play round two: 10 plates, but this time say each plate in groups while you look, before writing.",
      "say": "This time, say it in groups as you look: TN 59, AB, 12, 34. Four groups instead of ten letters. Does that help?",
      "kid": "Say the plate in groups. Then write it.",
      "check": {
@@ -590,7 +602,7 @@
    ],
    "setup": [
     {
-     "art": "A father holding up a card showing a yellow and black number plate, TN 59 AB 1234, with a girl watching.",
+     "art": "An adult holding up a card showing a yellow and black number plate, TN 59 AB 1234, with a girl watching.",
      "caption": "1. Look at the plate for five seconds."
     },
     {
@@ -604,12 +616,12 @@
   {
    "id": "e1",
    "title": "The Story Trick: does a story help you remember a list?",
-   "mins": 30,
+   "mins": 35,
    "days": 2,
    "context": "In this experiment you learn two lists of ten words. You repeat one list, and make the other into a story. Then you see which one you remember, straight away and the next day.",
    "question": "If you make a list of words into a story, do you remember more of them than if you just repeat them?",
    "predict": "You will learn one list by saying each word again and again, and the other by making up a story. Which list will you remember better tomorrow? Why do you think so?",
-   "fair_test": "Both lists have ten words for everyday things in a home. Each word gets the same time, 10 seconds. After each list, you count backwards from 20 to 1, so you cannot keep repeating the words. Only the way of learning changes. You test both lists the next day too, at the same time, without looking.",
+   "fair_test": "Both lists have ten words for everyday things in a home. Each word gets the same time, 10 seconds. After each list, you count backwards from 20 to 1, so you cannot keep repeating the words. Only the way of learning changes. You test both lists the next day too, at the same time, without looking. The two lists have different words, so if a second person also tries, they swap: a story for list A and repeating for list B. One child's result is a first clue, not proof.",
    "results_table": [
     "List",
     "How I learned it",
@@ -631,7 +643,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -640,7 +651,7 @@
     },
     {
      "day": 2,
-     "mins": 5,
+     "mins": 10,
      "what": "At the same time of day, without warning and without looking, say all the words you remember from both lists."
     }
    ],
@@ -714,14 +725,14 @@
      "parent": "Most children remember far more of the story list the next day, often 7 or more, and only 1 to 4 of the repeat list. If the numbers are close, that is a real result too. Ask your child what they did in their head for each list.",
      "check": {
       "t": "mcq",
-      "q": "Meena remembered 3 words from her repeat list and 8 from her story list the next day. What does this show?",
+      "q": "Meena, a girl in Class 3, remembered 3 words from her repeat list and 8 from her story list the next day. What does this suggest?",
       "options": [
        "Story lists always have easier words",
        "Making a story helped her remember more",
        "She is better at remembering on some days"
       ],
       "a": 1,
-      "why": "Both lists had ten words for everyday things, and she tested them on the same day. The only change was the way she learned them. So the story helped. To check the words were not easier, someone else can do it the other way round: list A as a story and list B repeated."
+      "why": "Both lists had ten everyday words, and she was tested on both at the same time of day. The only planned change was the way she learned them. So the story probably helped. The two lists had different words, so for a fairer check someone else can do it the other way round: list A as a story and list B repeated."
      }
     },
     {
@@ -764,7 +775,7 @@
    },
    "setup": [
     {
-     "art": "A mother reading words from a notebook to a girl sitting cross-legged on a mat, with a phone stopwatch between them.",
+     "art": "A grown-up reading words from a notebook to a girl sitting cross-legged on a mat, with a phone stopwatch between them.",
      "caption": "1. A grown-up reads list A. You repeat each word."
     },
     {
@@ -772,7 +783,7 @@
      "caption": "2. For list B, you make a story from the words."
     },
     {
-     "art": "The girl the next morning at breakfast, counting words on her fingers, while her mother ticks a list.",
+     "art": "The girl the next morning at breakfast, counting words on her fingers, while a grown-up ticks a list.",
      "caption": "3. The next day, say all the words you remember."
     }
    ]
@@ -794,7 +805,7 @@
    ],
    "materials": [
     {
-     "item": "a printed or hand-drawn sheet with ten rows of ten boxes, each box about 2 cm wide. A four-line English notebook with boxes drawn in pencil works too.",
+     "item": "a printed or hand-drawn sheet with eleven rows of ten boxes, each box about 2 cm wide: one row for the usual hand and ten for the other hand. A four-line English notebook with boxes drawn in pencil works too.",
      "qty": 1
     },
     {
@@ -806,7 +817,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks. Stop if the hand starts to ache, and rest it.",
    "schedule": [
     {
      "day": 1,
@@ -848,7 +858,7 @@
      "do": "1. Time four tries with the other hand, one row each. 2. After each try, write the time. 3. Count the numbers that touch or cross the box lines.",
      "say": "Off you go with your other hand. Take your time. I will write down the time. Now let's count how many went outside the boxes.",
      "kid": "Write 1 to 10 with your other hand. Then count numbers outside the boxes.",
-     "parent": "The first try is often two or three times slower than the usual hand, and wobbly. Do not let your child switch hands halfway. Praise the effort, not the speed."
+     "parent": "The first try is often two or three times slower than the usual hand, and wobbly. Do not let your child switch hands halfway. Praise the effort, not the speed. If the hand aches, rest it."
     },
     {
      "id": "s4",
@@ -876,14 +886,14 @@
      "parent": "A strong answer: 'Practice made my other hand faster. My first try took 52 seconds and my tenth took 31. My hand did not change, but the links in my brain for writing with that hand got stronger each time.' Most children's line falls quickly at first, then more slowly.",
      "check": {
       "t": "mcq",
-      "q": "Thara's times with her other hand were 60, 51, 46, 43, 42 seconds. What happens to the time she saves on each try?",
+      "q": "Thara, a girl in Class 3, took 60, 51, 46 and 43 seconds on day 1. On day 2 her first try took 41 seconds. What does this suggest?",
       "options": [
-       "It stays the same each try",
-       "It gets smaller with each try",
-       "It gets bigger with each try"
+       "Her brain kept some of what she practised the day before",
+       "The stopwatch ran fast",
+       "Her usual hand helped her"
       ],
-      "a": 1,
-      "why": "She saved 9, then 5, then 3, then 1 second. Practice helps a lot at first, then less and less. Many skills improve like this, quickly and then slowly. The best way to get past the slow part is to keep practising over many days."
+      "a": 0,
+      "why": "Her time on day 2 is close to her last time on day 1, even though a night passed. Practice leaves stronger links in the brain, and sleep helps them settle. Many skills stay close to where you left them, or even improve overnight."
      }
     }
    ],
@@ -941,7 +951,7 @@
      "caption": "1. Write 1 to 10 in the boxes with your usual hand."
     },
     {
-     "art": "A boy writing slowly with his left hand, tongue out in concentration, while his sister holds a phone stopwatch.",
+     "art": "A child writing slowly with the left hand, tongue out in concentration, while an adult holds a phone stopwatch.",
      "caption": "2. Now use your other hand. Time each try."
     },
     {
@@ -974,7 +984,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -1006,7 +1015,7 @@
      "do": "1. Read the set 1 words letter by letter, one each second, with no pauses. 2. Your child says them back. 3. Count the score.",
      "say": "The same letters, in a new order. D. O. G. S. U. N. C. U. P. P. E. N. Your turn.",
      "kid": "Same letters, new order. Listen. Say them back.",
-     "parent": "Many children notice the words partway through and get all 12. If they do not notice, that is fine. Write the score down."
+     "parent": "Many children notice the words partway through and get all 12. If they do not notice, that is a real result too. Write the score down."
     },
     {
      "id": "s4",
@@ -1014,7 +1023,7 @@
      "do": "Do set 2 the same way: jumble first, then words.",
      "say": "One more jumble, then one more set of words. Listen carefully.",
      "kid": "One more jumble. Then one more set of words.",
-     "parent": "Set 2 jumble: U, T, N, B, C, A, E, T, S, B, T, A. Set 2 words: C, A, T, B, U, S, N, E, T, B, A, T."
+     "parent": "Set 2 jumble: U, T, N, B, C, A, E, T, S, B, T, A. Set 2 words: C, A, T, B, U, S, N, E, T, B, A, T. After set 2, if your child did not notice the words, show them DOG SUN CUP PEN on paper and read set 1 again. Then they will see how much grouping helps."
     },
     {
      "id": "s5",
@@ -1038,7 +1047,7 @@
    ],
    "setup": [
     {
-     "art": "A grandmother reading letters from a card to a boy, who listens with his eyes closed.",
+     "art": "A grown-up reading letters from a card to a boy, who listens with his eyes closed.",
      "caption": "1. Listen to 12 jumbled letters. Say them back."
     },
     {
@@ -1065,7 +1074,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -1126,7 +1134,7 @@
      "qty": 1
     },
     {
-     "item": "a small cup of water, about 250 ml, or a second small bottle",
+     "item": "a small bottle of water, about 300 ml, with the cap on",
      "qty": 1
     },
     {
@@ -1134,7 +1142,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -1156,7 +1163,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Put the full one-litre bottle and the small cup of water in the cloth bag. 2. Let your child lift it. 3. Ask how it feels.",
+     "do": "1. Put the full one-litre bottle and the small bottle in the cloth bag. 2. Let your child lift it. 3. Ask how it feels.",
      "say": "A grown-up's brain weighs about 1.3 kilograms. This bag is about that heavy. Lift it. Your brain uses about a fifth of the energy from all your food. Why do you think it needs so much?",
      "kid": "Lift the bag. A grown-up's brain is this heavy. Why does it need so much food?",
      "check": {
@@ -1168,7 +1175,7 @@
        "All of it"
       ],
       "a": 1,
-      "why": "The brain uses about one fifth of the body's energy, even though it is small. Its billions of neurons are sending signals all day and all night, even while you sleep. That is one reason a brain that wasted most of itself would make no sense."
+      "why": "The brain uses about one fifth of the body's energy, even though it is small. Its billions of neurons are sending signals all day and all night, even while you sleep. A small part that uses so much energy is busy all the time."
      }
     }
    ],
@@ -1178,7 +1185,7 @@
      "caption": "1. Two fists together are about the size of a brain."
     },
     {
-     "art": "A cloth bag with a one-litre water bottle and a small cup inside, held up by a girl.",
+     "art": "A cloth bag with a one-litre water bottle and a small bottle inside, held up by a girl.",
      "caption": "2. Lift a bag as heavy as a grown-up's brain."
     }
    ]
@@ -1203,7 +1210,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after playing with dough. Do not eat raw dough.",
    "schedule": [
     {
      "day": 1,
@@ -1257,23 +1263,26 @@
    "title": "The Path in the Flour: a model of practice",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you make a model of how practice strengthens a path. You draw one line in flour once, and another line ten times.",
+   "context": "In this activity you make a model of how practice strengthens a path. You draw one line in flour once, and another line ten times, a little deeper each time.",
    "materials": [
     {
-     "item": "a steel plate with a thin layer of rice flour, kolam powder or atta, about as thick as a coin",
+     "item": "a deep steel plate or a steel tray with a rim, with rice flour, kolam powder or atta about 1 cm deep",
      "qty": 1
     },
     {
      "item": "a steel spoon",
      "qty": 1
+    },
+    {
+     "item": "a sheet of newspaper to put under the plate and catch spills",
+     "qty": 1
     }
    ],
-   "safety": "No safety risks. Do it on a sheet of newspaper to catch spills.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw one line once and another line ten times. Tap the plate and see which line lasts."
+     "what": "Draw one line once and another line ten times, a little deeper each time. Tap the plate and see which line lasts."
     }
    ],
    "record": "Draw the plate after tapping. Write which line stayed and why.",
@@ -1281,9 +1290,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Spread the flour evenly. 2. With one finger, draw line A from one side of the plate to the other, once. 3. Draw line B the same way, then trace exactly over it nine more times.",
-     "say": "Draw line A once. Now draw line B, and go over the same line again and again, ten times in all. Count with me.",
-     "kid": "Draw line A once. Draw line B ten times, on the same line.",
+     "do": "1. Put the plate on the newspaper. Spread the flour evenly, about 1 cm deep. 2. With one finger, draw line A from one side to the other, once, lightly. 3. Draw line B the same way. Then go over it nine more times, pressing a little deeper each time. On the tenth go, your finger should reach the plate.",
+     "say": "Draw line A once, lightly. Now draw line B, and go over the same line again and again, ten times in all, a little deeper each time. Count with me.",
+     "kid": "Draw line A once. Go over line B ten times, a little deeper each time.",
      "context": "This is the first step of The Path in the Flour, a model of how practice changes a path."
     },
     {
@@ -1292,13 +1301,13 @@
      "do": "1. Ask for a guess. 2. Tap the edge of the plate gently with the spoon, five times. 3. Look at both lines.",
      "say": "If I tap the plate, the flour will shift. Which line do you think will fade first? Why?",
      "kid": "Guess which line will fade. Tap the plate five times. Look!",
-     "parent": "The flour slides into the shallow line A first, so it blurs or fades. The deep line B stays clear for longer. If both stay, tap a little harder."
+     "parent": "The flour slides back into the shallow line A, so it fills up and fades. The deep line B stays clear for longer. If both stay, tap a little harder. If both vanish, tap more gently next time and say what you saw. It is a rough model."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Talk about what the model shows, and what it does not.",
-     "say": "Line B was used ten times, so it was deeper and lasted longer. In your brain, a path of neurons that is used again and again gets stronger too. But this is only a model. A brain has no flour, and its paths are links between neurons.",
+     "say": "Line B was gone over ten times, so it was deeper and lasted longer. In your brain, a path of neurons that is used again and again gets stronger too. But this is only a model. You pressed deeper on purpose, a brain has no flour, and its paths are links between neurons.",
      "kid": "Line B was used more. It lasted longer. Brain paths are like that too.",
      "check": {
       "t": "mcq",
@@ -1316,7 +1325,7 @@
    "setup": [
     {
      "art": "A steel plate with a thin layer of white flour, a child's finger drawing a line across it.",
-     "caption": "1. Draw line A once, and line B ten times."
+     "caption": "1. Draw line A once, and line B ten times, deeper each time."
     },
     {
      "art": "A spoon tapping the edge of the plate, with one faint line and one deep clear line.",
@@ -1336,7 +1345,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -1410,7 +1418,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
@@ -1433,9 +1440,9 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Show each crayon for about 3 seconds while saying a two-digit number. 2. Show two of the colours three times each, spread through the list, always with the same number. 3. Show the others once. 4. Write down every pair.",
-     "say": "Red, 47. Blue, 82. Green, 15. Yellow, 63. Red, 47. Brown, 29. Pink, 91. Blue, 82. Orange, 36. Black, 58. Red, 47. Blue, 82.",
+     "say": "Red, 47. Blue, 82. Green, 15. Yellow, 63. Red, 47. Brown, 29. Blue, 82. Pink, 91. Red, 47. Blue, 82. Orange, 36. Black, 58.",
      "kid": "Watch each colour. Listen to its number.",
-     "parent": "In this list red and blue are shown three times. Change the colours to the crayons you have, but keep two of them shown three times."
+     "parent": "In this list red and blue are shown three times, and the last two pairs, orange and black, are shown once. Change the colours to the crayons you have, but keep two of them shown three times."
     },
     {
      "id": "s3",
@@ -1443,7 +1450,7 @@
      "do": "1. Count back from 20 together. 2. Show each colour once, in a new order, and ask for its number. 3. Tick the right ones.",
      "say": "Count back from 20 with me. Now, what number went with this colour? And this one?",
      "kid": "Count back from 20. Then say the number for each colour.",
-     "parent": "Most children get the colours shown three times right much more often than the others. Calkins found that how often a pair was seen mattered more than anything else she tested.",
+     "parent": "Most children get the colours shown three times right more often than the others. If yours does not, that is a real result too. Calkins found that how often a pair was seen mattered more than anything else she tested.",
      "check": {
       "t": "mcq",
       "q": "Which pairs did most children remember best in this test?",
@@ -1473,7 +1480,7 @@
   {
    "id": "p1",
    "title": "My 7-Day Practice Diary",
-   "mins": 70,
+   "mins": 90,
    "days": 7,
    "context": "In this project you choose one new skill and practise it for ten minutes a day for seven days. You measure it every day to see how practice changes you.",
    "materials": [
@@ -1486,7 +1493,7 @@
      "qty": 1
     },
     {
-     "item": "whatever your skill needs: rice flour for a kolam, a skipping rope, a ball, a book of Thirukkural or rhymes",
+     "item": "whatever your skill needs: rice flour for a kolam or rangoli, a skipping rope, a ball, a book of Thirukkural or rhymes",
      "qty": 1
     }
    ],
@@ -1499,27 +1506,27 @@
     },
     {
      "day": 2,
-     "mins": 10,
+     "mins": 12,
      "what": "Measure first, then practise for ten minutes."
     },
     {
      "day": 3,
-     "mins": 10,
+     "mins": 12,
      "what": "Measure first, then practise."
     },
     {
      "day": 4,
-     "mins": 10,
+     "mins": 12,
      "what": "Measure first, then practise."
     },
     {
      "day": 5,
-     "mins": 10,
+     "mins": 12,
      "what": "Measure first, then practise."
     },
     {
      "day": 6,
-     "mins": 10,
+     "mins": 12,
      "what": "Measure first, then practise."
     },
     {
@@ -1534,14 +1541,14 @@
      "id": "s1",
      "mins": 15,
      "do": "1. Help your child choose one skill they cannot yet do well. 2. Choose a number to measure each day. 3. Measure it once. 4. Practise for ten minutes.",
-     "say": "Choose something you cannot do well yet. It could be a five-dot kolam, catching a ball 20 times, skipping, or saying a Thirukkural couplet. How will we measure it each day?",
+     "say": "Choose something you cannot do well yet. It could be a five-dot kolam, catching a ball 20 times, skipping, or saying a Thirukkural couplet or a rhyme. How will we measure it each day?",
      "kid": "Choose a new skill. How will you measure it? Try it once.",
      "parent": "Good numbers to measure: catches in a row without dropping, skips in a row, seconds to draw a kolam, or words of a couplet said without help. Measure before practising each day, so the number shows what stayed overnight.",
      "context": "This is the first day of a 7-day project. You practise one new skill each day and measure how it changes."
     },
     {
      "id": "s2",
-     "mins": 10,
+     "mins": 12,
      "do": "On days 2 to 6, measure first, then practise for ten minutes. Write the number in the diary.",
      "say": "Measure first, before practising. Write down your number. Now practise for ten minutes.",
      "kid": "Measure first. Write the number. Then practise ten minutes.",
@@ -1557,7 +1564,7 @@
      "wait": "Do this on day 7.",
      "check": {
       "t": "mcq",
-      "q": "After seven days, Sneha could skip 40 times instead of 8. What changed most?",
+      "q": "After seven days, Sneha, a girl in Class 3, could skip 40 times instead of 8. What changed most?",
       "options": [
        "Her legs grew much longer",
        "The links in her brain for skipping got stronger",
@@ -1614,7 +1621,7 @@
     "A card hung on the door handle, with 'done' on one side and 'not yet' on the other.",
     "Linking the tablet to something Thatha already does every evening, like the 7 o'clock news, so the habit carries it."
    ],
-   "your_turn": "Now design your own reminder. Draw it, make a model, and test it on a grown-up for three days with a pretend task.",
+   "your_turn": "Now design your own reminder. Draw it, make a model, and test it with a pretend task, such as drinking a glass of water at 7 o'clock. Keep using it for three days if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1666,16 +1673,16 @@
   {
    "id": "c2",
    "title": "Twenty Things Tomorrow",
-   "mins": 25,
+   "mins": 23,
    "context": "This is a memory challenge. You must remember a list of 20 things until tomorrow, without writing it down, using any tricks you like.",
-   "problem": "Amma is going to the market tomorrow and has lost her pen. Remember her list of 20 things until tomorrow evening, with no writing.",
+   "problem": "Amma is going to the market tomorrow evening and has lost her pen. Remember her list of 20 things until then, with no writing.",
    "constraints": [
     "No writing or drawing the list.",
     "You hear the list once, slowly, and you get ten minutes to use your tricks.",
     "You must say the list tomorrow, at least 24 hours later."
    ],
    "materials": [
-    "The list, read by a grown-up: rice, dal, salt, sugar, milk, curd, eggs, butter, tomatoes, onions, potatoes, carrots, bananas, apples, mangoes, grapes, soap, toothpaste, a bucket, a broom."
+    "The list, read by a grown-up: rice, dal, salt, sugar, milk, curd, eggs, paneer, tomatoes, onions, potatoes, carrots, bananas, apples, mangoes, grapes, soap, toothpaste, a bucket, a broom."
    ],
    "general": [
     "Group the list: things for the kitchen shelf, the fridge, the vegetable shop, the fruit shop and for cleaning.",
@@ -1687,12 +1694,12 @@
     "Sing the list to a song you already know.",
     "Act out each thing with your hands as you say it."
    ],
-   "your_turn": "Make up your own memory trick for a list of 20 things. Teach it to someone in your family and test them tomorrow.",
+   "your_turn": "Make up your own memory trick for a list of 20 things. Teach it to a family member or a friend, and test them tomorrow.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read the list once, slowly, while your child listens.",
+     "do": "In the evening, read the list once, slowly, while your child listens.",
      "say": "Here is Amma's list of twenty things. Listen once. Then you have ten minutes to use any trick you like.",
      "kid": "Listen to twenty things. Then use your best tricks!",
      "context": "This is a memory challenge. You remember a list of 20 things until tomorrow without writing anything."
@@ -1700,7 +1707,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Give your child ten minutes to use any tricks. They may ask for the list to be read once more.",
+     "do": "Give your child ten minutes to use any tricks. Do not read the list again.",
      "say": "Which tricks will you use? You could group them, make a story, or walk them round our home.",
      "kid": "Group them? A story? A memory walk? Choose your tricks.",
      "parent": "Grouping usually helps most with this list. It splits into five groups of four: kitchen shelf, fridge, vegetables, fruit and cleaning. Let your child choose."
@@ -1714,14 +1721,14 @@
      "wait": "Do this the next evening.",
      "check": {
       "t": "mcq",
-      "q": "Pooja grouped the list into kitchen shelf, fridge, vegetables, fruit and cleaning. Why does this help?",
+      "q": "Pooja, a girl in Class 3, grouped the list into kitchen shelf, fridge, vegetables, fruit and cleaning. Why does this help?",
       "options": [
        "She remembers five groups, and each group brings back its four things",
        "Groups make the list shorter",
        "Shops are easy to spell"
       ],
       "a": 0,
-      "why": "Five groups are easy to hold. When she remembers 'fridge', it brings back milk, curd, eggs and butter. The list is still twenty things long, but now it has a shape that links them."
+      "why": "Five groups are easy to hold. When she remembers 'fridge', it brings back milk, curd, eggs and paneer. The list is still twenty things long, but now it has a shape that links them."
      }
     }
    ],
@@ -1814,27 +1821,14 @@
   },
   {
    "t": "mcq",
-   "p": "Kalyani learned list A by repeating it and list B by making a story. To make the test fair, what must be the same?",
+   "p": "Kalyani, a girl in Class 3, learned list A by repeating it and list B by making a story. To make the test fair, what must be the same?",
    "opts": [
     "The number and kind of words, and the time for each word",
     "The words themselves",
     "The story"
    ],
    "a": 0,
-   "why": "Both lists need the same number of similar words and the same time, so only the way of learning changes. The words must be different, or the second list would be easier.",
-   "outcome": 3,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "In the Story Trick, most children remember far more of the story list the next day. What does this show?",
-   "opts": [
-    "Story words are easier words",
-    "What you do with words while you learn them changes how well you remember them",
-    "Memory is better in the morning"
-   ],
-   "a": 1,
-   "why": "Both lists had similar words, and only the way of learning changed. So the story helped. Testing at the same time of day rules out the time.",
+   "why": "Both lists need the same number of similar words and the same time, so only the way of learning changes. The words cannot be the same, because you cannot learn the same words for the first time twice, so choose words of the same kind.",
    "outcome": 3,
    "how": "e1"
   },
@@ -1953,7 +1947,7 @@
        "a memory of something that happened"
       ],
       [
-       "Knowing that Chennai is in Tamil Nadu",
+       "Knowing that Guwahati is in Assam",
        "a fact"
       ],
       [
@@ -2024,7 +2018,7 @@
     },
     {
      "t": "mcq",
-     "p": "Leela, a girl in Class 3, must remember her mother's mobile number, 9841023456. Which is the best way?",
+     "p": "Leela, a girl in Class 3, must remember a new mobile number, 9841023456. Which is the best way?",
      "opts": [
       "As ten separate digits",
       "In two groups, 98410 and 23456",
@@ -2052,10 +2046,10 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl of eight, practised a kolam with her right hand every morning for a month. Then she tried it with her left hand, and it went wrong. Why?",
+     "p": "Paati says a path in the head grows by walking on it. Choose one of your own experiments and say what in it matches her words.",
      "lines": 3,
-     "a": "Her left hand has the same kind of muscles, but it had not practised. The practice had made strong links in her brain for drawing with her right hand, not her left.",
-     "why": "A strong answer says that the skill was built by practice, in the links of the brain for that hand, and that the left hand had not been given that practice."
+     "a": "For example: 'In the Other Hand experiment, my times got shorter each try. Each try was a walk on the same path, and the path got easier.'",
+     "why": "A strong answer picks a real experiment from this unit and says that repeating it again and again made it easier or made more words last."
     },
     {
      "t": "draw",
@@ -2066,10 +2060,15 @@
      "art": "A blank box with a small dotted line in the middle."
     },
     {
-     "t": "truefalse",
-     "p": "We use only 10% of our brain.",
-     "a": false,
-     "why": "False. Brain scans show every part of the brain working over a day, and damage to almost any part causes problems. The 10% idea is an old myth."
+     "t": "mcq",
+     "p": "Which of these is long-term memory?",
+     "opts": [
+      "Your own name",
+      "The OTP you just read",
+      "The bus number you saw a second ago"
+     ],
+     "a": 0,
+     "why": "Your own name stays for years, so it is long-term memory. An OTP you just read, or a bus number you saw a second ago, is held for only a few seconds."
     },
     {
      "t": "fill",
@@ -2102,7 +2101,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Other Hand experiment, Shalini wrote 1 to 10 with her other hand ten times over three days. Which result shows that practice worked?",
+     "p": "In the Other Hand experiment, Shalini, a girl in Class 3, wrote 1 to 10 with her other hand ten times over three days. Which result shows that practice worked?",
      "opts": [
       "Her first try took 55 seconds and her tenth took 33",
       "Every try took about 50 seconds",
@@ -2137,23 +2136,6 @@
       "hippocampus"
      ],
      "why": "The hippocampus helps store new memories of events and places. Its name is Greek for 'seahorse'."
-    },
-    {
-     "t": "truefalse",
-     "p": "A grown-up's brain cannot change any more.",
-     "a": false,
-     "why": "False. Grown-up brains keep changing as they learn. London taxi drivers grew a bigger part of the hippocampus while they learned thousands of streets."
-    },
-    {
-     "t": "mcq",
-     "p": "Anjali, a girl in Class 3, wants to remember a poem for a show in one month. Which plan will help her most?",
-     "opts": [
-      "Read it ten times on Monday, then rest",
-      "Say it from memory for a few minutes on Monday, Wednesday and Saturday, and check it each time",
-      "Read it once the night before the show"
-     ],
-     "a": 1,
-     "why": "Saying it from memory on different days makes the memory stronger each time. Reading it many times on one day helps on that day, but most of it fades quickly. One reading the night before is too little."
     },
     {
      "t": "write",
@@ -2243,12 +2225,6 @@
      "art": "Empty axes on squared paper."
     },
     {
-     "t": "truefalse",
-     "p": "In an experiment, touch-me-not plants learned that being dropped gently was harmless, and remembered it for weeks.",
-     "a": true,
-     "why": "True. In 2014 Monica Gagliano and her team dropped touch-me-not plants a short way again and again. The plants stopped folding their leaves, and still remembered almost a month later."
-    },
-    {
      "t": "order",
      "p": "Put these in order, to show how practice makes a skill easy.",
      "items": [
@@ -2288,6 +2264,32 @@
      ],
      "a": 1,
      "why": "Most children of 8 can hold about 5 digits heard once, and most grown-ups about 7. That is why longer numbers are easier in groups."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do doctors ask a person who has had a stroke to keep practising a movement?",
+     "opts": [
+      "Practice can build new links around the damaged part",
+      "The muscle needs to get tired",
+      "Practice makes the brain heavier"
+     ],
+     "a": 0,
+     "why": "After a stroke, part of the brain is damaged. Practice strengthens other links and builds new ones, so the brain can find a new way to do the movement."
+    },
+    {
+     "t": "write",
+     "p": "You must learn the names of eight rivers of India for a quiz next week. Plan how you would use a story, groups or a memory walk, and on which days you would test yourself.",
+     "lines": 4,
+     "a": "For example: 'I would group them by region, make a silly story for each group, and test myself without looking on day 2, day 4 and the day before the quiz.'",
+     "why": "A strong answer names a trick and says why it helps, and spreads testing over different days."
+    },
+    {
+     "t": "fill",
+     "p": "Trying to bring a memory back without looking is called ____.",
+     "a": [
+      "recall"
+     ],
+     "why": "Recall means bringing a memory back without being shown it. Each recall, especially on a new day, makes the memory stronger."
     }
    ]
   },
@@ -2324,10 +2326,10 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy in Class 4, says, 'I am a picture learner. I can only learn from pictures.' How could you test whether this is true?",
+     "p": "Imran, a boy in Class 4, says, 'I am a picture learner. I can only learn from pictures.' How could you test whether this is true?",
      "lines": 5,
-     "a": "Give him ten words to learn by hearing them, and ten different but similar words to learn from pictures. Test both the next day. Then do the same with other children. If almost everyone does better with pictures, the pictures help everyone, not only 'picture learners'.",
-     "why": "When scientists tested this, people did not learn more in their own favourite style. Pictures help most people. A strong answer compares both ways for Arjun and for others."
+     "a": "Give Imran ten words to learn by hearing them, and ten different but similar words to learn from pictures. Test both the next day. Then do the same with other children. If almost everyone does better with pictures, the pictures help everyone, not only 'picture learners'.",
+     "why": "When scientists tested this, people did not learn more in their own favourite style. Pictures help most people. A strong answer compares both ways for Imran and for others."
     },
     {
      "t": "mcq",
@@ -2378,13 +2380,6 @@
      "art": "A neuron with four blank label lines pointing to its middle, branches, tail and a gap at the end of the tail."
     },
     {
-     "t": "write",
-     "p": "Imagine you could never forget anything at all. Give one good thing and one bad thing about it.",
-     "lines": 4,
-     "a": "Good: I would never lose a name or a fact. Bad: I would remember every boring lunch and every bad moment, and it might be hard to find the important things among them.",
-     "why": "A strong answer sees that forgetting is useful. It clears away what does not matter, so the important memories stand out."
-    },
-    {
      "t": "sort",
      "p": "Paati, a grandmother in Madurai, has many memories. Sort them by kind.",
      "cats": [
@@ -2423,21 +2418,15 @@
     },
     {
      "t": "mcq",
-     "p": "In Letters or Words, Arjun got all 12 letters right as words, but only 5 as a jumble. His sister Suha says the words were read more slowly. How could they check?",
+     "p": "In Letters or Words, Imran got all 12 letters right as words, but only 5 as a jumble. His sister Suha says the words were read more slowly. How could they check?",
      "opts": [
       "Use a stopwatch to read both rounds at one letter each second",
       "Do only the word round again",
       "Ask Arjun which was easier"
      ],
      "a": 0,
-     "why": "If both rounds are read at the same speed, speed cannot explain the difference. Only the order of the letters should change. Asking Arjun tells us what he felt, not what caused it.",
+     "why": "If both rounds are read at the same speed, speed cannot explain the difference. Only the order of the letters should change. Asking Imran tells us what he felt, not what caused it.",
      "how": "e3"
-    },
-    {
-     "t": "truefalse",
-     "p": "Practising for 10 minutes on each of 6 days usually helps more than practising for one hour on one day.",
-     "a": true,
-     "why": "True. The total time is the same, an hour. But practice spread over days gives the brain time and sleep to strengthen the links, and each new day brings the memory back again."
     },
     {
      "t": "mcq",
@@ -2451,17 +2440,38 @@
      "why": "Daily practice strengthens the links for the notes and patterns, until they come without effort. Then the student's attention is free for the song itself."
     },
     {
-     "t": "write",
-     "p": "Your brain changes every time you learn something. Are you the same person you were last year? Give a reason.",
-     "lines": 4,
-     "a": "Any answer with a reason. For example: 'Partly. My brain has new links from everything I learned, so I am a bit different. But I still have my old memories and my name, so I am still me.'",
-     "why": "A strong answer uses the science, that learning changes the brain, and thinks about what stays the same as well as what changes."
-    },
-    {
      "t": "odd",
      "p": "Which one is the odd one out, and why? Making a story, grouping, a memory walk, reading the same page ten times.",
      "a": "reading the same page ten times",
      "why": "Making a story, grouping and a memory walk all give new things links to each other or to things you know. Reading the same page again adds very few new links."
+    },
+    {
+     "t": "mcq",
+     "p": "Mary Calkins found that colours shown three times were remembered better than colours shown once. What is the best explanation?",
+     "opts": [
+      "Each time you meet a pair, the link between them gets stronger",
+      "Colours shown three times are brighter",
+      "The numbers with them were easier"
+     ],
+     "a": 0,
+     "why": "Seeing a pair again and again strengthens the link between the colour and the number. The colours and numbers were the same kind for every pair, so brightness or easy numbers do not explain it."
+    },
+    {
+     "t": "mcq",
+     "p": "A slime mould has no brain and no neurons, yet finds the shortest way through a maze to food. What does this suggest?",
+     "opts": [
+      "Finding a way and leaving a trail does not need neurons",
+      "Slime moulds secretly have brains",
+      "Mazes are easy for every living being"
+     ],
+     "a": 0,
+     "why": "Scientists have seen slime moulds, which are single cells, find short ways through mazes. This suggests that a brain is not needed for every kind of finding the way. Whether to call this memory is still argued about."
+    },
+    {
+     "t": "truefalse",
+     "p": "If two people remember the same festival differently, one of them must be lying.",
+     "a": false,
+     "why": "False. Memories are built again each time we recall them, so two honest people can remember the same day differently."
     }
    ]
   }
@@ -2504,12 +2514,16 @@
   {
    "text": "A pill box with the days of the week on it, in a grandparent's room.",
    "art": "A plastic pill box with seven little lids marked with the days of the week."
+  },
+  {
+   "text": "A Baul singer in Bengal, who learns many songs by ear from a teacher, without a written page, and sings them from memory.",
+   "art": "A Baul singer in a patchwork robe playing an ektara and singing, with listeners sitting around."
   }
  ],
  "open_questions": [
   {
    "q": "How do signals between neurons become the experience of remembering?",
-   "why_open": "Scientists can see which neurons fire when we remember, but nobody knows how that becomes the feeling of seeing your grandmother's face in your mind."
+   "why_open": "Scientists can see which neurons fire when we remember, but nobody knows how that becomes the feeling of seeing a loved one's face in your mind."
   },
   {
    "q": "Why do we sleep, and exactly what does sleep do to memories?",
@@ -2528,13 +2542,13 @@
   "What is the first thing you remember from when you were little?",
   "What did you learn today that you want to remember tomorrow? How will you remember it?",
   "Can you tell me today's day from start to finish, in order?",
-  "What is something you can now do without thinking that was hard last year?",
+  "Which trick from this unit will you use for your next test or poem?",
   "Why do you think we remember happy and scary days better than ordinary ones?",
   "Which do you think helps you remember more: reading something again, or trying to say it without looking?",
-  "What is your favourite memory of Paati or Thatha?",
+  "What is your favourite memory of a grandparent or another older person you love?",
   "How do you think the crow at the window remembers which flat gives food?",
   "Can you remember the shopping list for tomorrow without writing it down?",
-  "If you forgot everything, would you still be you?"
+  "What is one thing you are glad you forgot?"
  ],
  "jokes": [
   {
@@ -2542,23 +2556,7 @@
    "a": "Sorry, I forgot."
   },
   {
-   "j": "Why did the brain go to the gym?",
-   "a": "To make its links stronger."
-  },
-  {
-   "j": "Why are brains never lonely?",
-   "a": "Each neuron has thousands of friends."
-  },
-  {
-   "j": "Why did the neuron go to the party?",
-   "a": "To make new connections."
-  },
-  {
-   "j": "What did the dosa say to the chutney?",
-   "a": "I will never forget you. We always go together."
-  },
-  {
-   "j": "Why did Kavya put her homework under her pillow?",
+   "j": "Why did the girl put her homework under her pillow?",
    "a": "She heard that sleep helps you remember."
   },
   {
@@ -2590,24 +2588,8 @@
    "a": "Even he did not know where he was hiding."
   },
   {
-   "j": "What does a brain do when it sees a friend?",
-   "a": "It waves a neuron."
-  },
-  {
    "j": "Why did the taxi driver's brain grow?",
    "a": "It had too many streets to fit in."
-  },
-  {
-   "j": "What did Paati say when Arjun forgot the kolam?",
-   "a": "Don't worry, it will come back to you, one dot at a time."
-  },
-  {
-   "j": "Why did the goldfish laugh at the joke a month later?",
-   "a": "Goldfish can remember things for months, not just a few seconds."
-  },
-  {
-   "j": "What did the sticky note say to the brain?",
-   "a": "Don't worry, I've got this one."
   }
  ],
  "maths": [
@@ -2639,7 +2621,7 @@
    }
   },
   {
-   "problem": "Ravi wrote 1 to 10 with his other hand. His times were 50, 44, 40, 38 and 37 seconds. How many seconds did he save on each new try? Guess his time on the sixth try, and say why.",
+   "problem": "Ravi, a boy in Class 3, wrote 1 to 10 with his other hand. His times were 50, 44, 40, 38 and 37 seconds. How many seconds did he save on each new try? Guess his time on the sixth try, and say why.",
    "answer": "He saved 6, 4, 2 and 1 seconds. A good guess for the sixth try is about 36 or 37 seconds.",
    "explain": "50 - 44 = 6. 44 - 40 = 4. 40 - 38 = 2. 38 - 37 = 1. The savings get smaller each time, so the next one is probably about 1 second or less.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2657,13 +2639,13 @@
    "how": "a2"
   },
   {
-   "problem": "The number plate KA 05 MN 4821 has 10 letters and digits. Shreya says it as KA 05, MN, 48, 21. How many groups is that? If she can hold 5 things in her short-term memory, can she hold the plate as separate letters and digits? As groups?",
-   "answer": "4 groups. As 10 separate letters and digits, no. As 4 groups, yes.",
-   "explain": "KA 05 is one group, MN is one, 48 is one and 21 is one, so 4 groups. 10 things are more than 5, but 4 groups are fewer than 5.",
+   "problem": "A card number has 12 digits, written in groups of 4. How many groups is that? Shreya, a girl in Class 3, can hold about 5 things in her short-term memory. Can she hold the number as 12 separate digits? As groups?",
+   "answer": "3 groups. As 12 separate digits, no. As 3 groups, yes.",
+   "explain": "12 divided by 4 is 3, so there are 3 groups. 12 things are more than 5, but 3 groups are fewer than 5.",
    "math_unit": "math.division.sharing-and-grouping.L3",
-   "context": "This is about Number Plate Flash, where you look at a plate for five seconds and write it from memory.",
+   "context": "This is about chunking, which you tried in Number Plate Flash and Letters or Words.",
    "why_maths": "Counting the groups shows why chunking lets a small memory hold a long number.",
-   "how": "g2"
+   "how": "e3"
   },
   {
    "problem": "Divya practised catching a ball for 7 days. Her catches in a row were 4, 7, 9, 8, 12, 14, 15. On which day did her number go down? What was her biggest jump from one day to the next? Why might a number go down for one day?",
@@ -2714,7 +2696,7 @@
  "song": {
   "topic_level": "sci.mind.L3",
   "title": "Practise, Practise, Make the Path",
-  "note": "Topic-level song for Mind, brain and memory L3"
+  "note": "A song about how practice makes the brain's paths stronger."
  },
  "links": [
   {
@@ -2746,8 +2728,7 @@
    "url": "https://www.amazon.in/s?k=your+fantastic+elastic+brain",
    "used_in": [
     "p1"
-   ],
-   "plan": "Read it together during the 7-Day Practice Diary, on day 1 or day 7."
+   ]
   }
  ],
  "warmup": [

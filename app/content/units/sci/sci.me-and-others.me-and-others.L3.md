@@ -14,10 +14,10 @@
 5. I can plan a game or a job so that people with different bodies, skills and ideas can all take part.
 
 ## Terms
-- **Point of view**: The place a person sees from, or the way they think about something because of what they know and feel. *e.g.* From your chair the tumbler hides the lime. From Amma's chair the lime is in plain view. You have different points of view.
+- **Point of view**: The place a person sees from, or the way they think about something because of what they know and feel. *e.g.* From your chair the tumbler hides the lime. From the chair opposite the lime is in plain view. You have different points of view.
 - **Perspective taking**: Picturing what another person sees, knows or feels from where they are. *e.g.* Before you hold up your drawing, you turn it round so your friend can see it the right way up. You took her perspective.
-- **Belief**: What a person thinks is true. A belief can be right or wrong. *e.g.* Paati thinks the biscuit tin holds biscuits. If someone filled it with buttons, her belief is wrong, though it made good sense.
-- **False belief**: A belief that is wrong because the person has not seen or heard what changed. *e.g.* Your brother saw the ball go into the cupboard. While he was out, you moved it under the bed. He still thinks it is in the cupboard.
+- **Belief**: What a person thinks is true. A belief can be right or wrong. *e.g.* A grandmother thinks the biscuit tin holds biscuits. If someone filled it with buttons, her belief is wrong, though it made good sense.
+- **False belief**: A belief that is wrong because the person has not seen or heard what changed. *e.g.* A child saw the ball go into the cupboard. While they were out, you moved it under the bed. They still think it is in the cupboard.
 - **Theory of mind**: Knowing that other people have their own thoughts, wishes and beliefs, which can be different from yours. *e.g.* You know your friend wants the red crayon, even though you like the blue one best.
 - **Cooperation**: Working together to reach a goal that you could not reach as well alone. *e.g.* One person holds the paper flat while the other draws the kolam. Together the lines come out straight.
 - **Dominant eye**: The eye your brain uses first when you line up or aim at something. Most people have one. *e.g.* When you look through a keyhole, you put one eye to it without thinking. That is often your dominant eye.
@@ -31,7 +31,7 @@
 Light travels in straight lines. So from each place, some things are in view and some are hidden behind others. Two people at one table see two different pictures, and both are true. The same is true for thinking. A person who has seen the box being opened knows what is inside. A person who has not seen it can only guess from the outside.
 - e.g. From the front seat of an auto you can see the road ahead. From the back seat you mostly see the driver's back.
 - e.g. A teacher at the blackboard sees every child's face. Each child sees the blackboard and the backs of other heads.
-- e.g. Your grandmother remembers your street before the flats were built. You only know it as it is now.
+- e.g. An older neighbour may remember your street before the flats were built. You only know it as it is now.
 ### Picturing what someone else sees · *defined*
 **Definition:** Visual perspective taking is working out what another person can see from where they are.
 
@@ -43,7 +43,7 @@ There are two steps. The first is knowing whether a thing is in someone's view a
 **Definition:** Theory of mind is knowing that other people have their own thoughts, wishes and beliefs, which can differ from yours and from the truth.
 
 In 1983, Heinz Wimmer and Josef Perner told children a story. A boy called Maxi puts his chocolate in a cupboard and goes out. His mother moves it. Where will Maxi look when he comes back? Most children of three said he would look where the chocolate really is. Most children of five or six said he would look in the cupboard, where he left it. They understood that Maxi had a false belief. In 1985, Simon Baron-Cohen, Alan Leslie and Uta Frith made a shorter version with two dolls, Sally and Anne. It is now used all over the world.
-- e.g. Hide a sweet while your brother is out of the room. You know he will look in the old place.
+- e.g. Hide a sweet while a friend is out of the room. You know your friend will look in the old place.
 - e.g. A magic trick works because the watchers believe something false about where the coin is.
 - e.g. A surprise party works only if the guest of honour believes nothing is happening.
 ### Bodies differ in hidden ways · *defined*
@@ -112,19 +112,19 @@ One table sits in the middle of the room. Every chair round it gets a different 
 - Science (open): How the brain builds its picture of another person's mind is not known.
 - Other view, Protagoras, a Greek thinker about 2,400 years ago, as Plato reported him: Each person is the measure of things. What seems true to you is true for you, and what seems true to me is true for me. On this view there is no one whole to find by putting views together, only many views.
 - Practice, Sit in someone else's place (3 min): Today at a meal, swap seats with someone in the family. Sit still in their seat for one minute and just look. Breathe slowly three times. What can you see from here that you never see from your own chair? Tell each other one thing.
-- Ask: If every seat shows a different true table, is there a table that nobody is looking at?
-- Ask: Can you ever fully know what another person sees and feels, or only come close?
-- Ask: If an ant, a crow and you each see the balcony differently, whose balcony is it?
+- Ask: What did you see from another seat that surprised you?
+- Ask: What would someone need to tell you, because you cannot see it from their seat?
+- Ask: If no seat shows the whole table, how do you know there is one whole table?
 
 ## Deep and big questions
-- *deep:* You and Amma saw two different pictures of the same table. Which picture was the real table? (hint: Think about whether any one seat can see every side at once.)
+- *deep:* You and the person opposite saw two different pictures of the same table. Which picture was the real table? (hint: Think about whether any one seat can see every side at once.)
 - *deep:* You are not inside your friend's body. So how can you know what they need? (hint: Think about what you can learn by watching, by asking, and by remembering a time you felt the same.)
 - *big:* A colour-blind child and you look at one chilli. Are you seeing the same chilli differently, or seeing different chillies? (hint: Think about where the colour is: in the chilli, in the light, or in the eye and the brain.)
 - *big:* Would the world be better if everyone thought the same way? (hint: Think about a cooking team or a cricket team where everyone does the same job.)
 - *big:* A crow, an ant and you are on the same balcony. Whose view of the balcony is the right one? (hint: Think about what each of them notices and needs there.)
 
 ## Story: The Monster Under Meenu's Cot
-*The story is made up, from a story seed in the founder's notebook. What it shows is true: a thing looks very different from another place, and a person can only know what they have seen or been told.*
+*The story is made up. What it shows is true: a thing looks very different from another place, and a person can only know what they have seen or been told.*
 
 Meenu was seven, and she lived with her Appa and her Paati in a small flat in Madurai. Every night Appa read her a story. Then he looked under her cot, said "No monsters," and switched off the light.
 
@@ -190,14 +190,14 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 
 ## Games
 ### g1 · Guess Who I Am: answer as someone else (20 min)
-- **rules:** Shuffle the 'I am' cards and put them face down. Put the question cards face down in another pile.; On your turn, take an 'I am' card without showing anyone. You are now that person or animal.; The other players take turns to read a question card to you. You answer as the one on your card, from their point of view. You must not say what you are.; After each answer, any player may make one guess. A right guess scores 1 point for the guesser and 1 point for you.; If nobody guesses after five questions, show your card, and nobody scores.; Play until everyone has had two turns. Playing with one grown-up, take turns and count how many questions each guess needed.
-- **Printable cards: 24 'I am' cards to cut out:** a baby of one year; Paati, a grandmother of 75; a bus conductor in Chennai; a fisherwoman in Kochi; a cricket player waiting to bat; a girl on her first day at a new school; a cat sitting on a wall; a crow at a window; an ant on the kitchen floor; a dog left alone at home; a train driver at night; a teacher with 40 children; a farmer waiting for rain; a goalkeeper facing a penalty; a vegetable seller on a hot afternoon; a child who is colour blind looking at a painting; a left-handed child at a crowded table; a doctor in a busy hospital; a parrot in a cage; a traffic police officer at a busy signal; a girl who just moved from Kolkata to Hyderabad; a cow on a road; a tourist who speaks no Tamil in Madurai; a mosquito looking for blood
+- **rules:** Shuffle the 'I am' cards and put them face down. Put the question cards face down in another pile. A grown-up reads any card a young child cannot read.; On your turn, take an 'I am' card without showing anyone. You are now that person or animal.; The other players take turns to read a question card to you. You answer as the one on your card, from their point of view. You must not say what you are.; After each answer, every other player may make one guess. A right guess scores 1 point for the guesser and 1 point for you. Then the turn ends.; If nobody guesses after five questions, show your card. Nobody scores.; If the question pile runs out, shuffle the used question cards and use them again.; Play until everyone has had two turns. Add up the points on the score sheet. The highest total wins. With two players, the winner is the one with more points, and a draw is a draw.
+- **Printable cards: 24 'I am' cards to cut out:** a baby of one year; a grandmother of 75; a bus conductor in Chennai; a fisherwoman in Kochi; a cricket player waiting to bat; a girl on her first day at a new school; a cat sitting on a wall; a crow at a window; an ant on the kitchen floor; a dog left alone at home; a train driver at night; a teacher with 40 children; a farmer waiting for rain; a goalkeeper facing a penalty; a tea-garden worker in Assam on a rainy morning; a child who is colour blind looking at a painting; a left-handed child at a crowded table; a doctor in a busy hospital; a parrot in a cage; a dabbawala in Mumbai carrying lunch boxes; a girl who just moved from Kolkata to Hyderabad; a cow on a road; a tourist who speaks no Tamil in Madurai; a mosquito looking for blood
 - **Printable cards: 12 question cards:** What can you see right now?; What do you want most today?; What are you afraid of?; What sound do you hear the most?; What do you eat?; Who looks after you, or who do you look after?; What makes you tired?; Where do you sleep?; What would make your day better?; What do you know that most people don't?; What is hard for you that is easy for others?; What do big people or big things look like to you?
-- **Printable score sheet: Score sheet:** Player name; Guessed right; Guesses needed
+- **Printable score sheet: Score sheet:** Player name; Points from guessing; Points from being guessed; Total
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Read the rules together. 3. Play one practice turn where the grown-up is 'a crow at a window'.  
+  *Parent does:* 1. Cut out the cards. 2. Read the rules together. 3. Play one practice turn where the grown-up is 'a crow at a window'. The child reads the first question card.  
   *Parent says:* I am going to be someone secret. Ask me a question card, and I will answer the way they would. Ready? 'What can you see right now?' I see a girl eating a dosa, and I want the last piece.  
-  *Child mode:* Amma is someone secret. Ask her a question. Who is she?
+  *Child mode:* The grown-up is someone secret. Read a question card to them. Who are they?
 - **s2 (14 min)**  
   *Parent does:* Play the game. Each player takes two turns.  
   *Parent says:* Answer from inside their life. Not what you would say, but what they would say.  
@@ -215,14 +215,13 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **question:** Sitting in your own chair, can you draw what a person in another chair sees on the table?
 - **predict:** Before you draw, guess. Will the person opposite see the lime? Will the banana be on their left or their right? Why do you think so?
 - **fair test:** Keep the three things in exactly the same places all through the test. Draw each view while sitting in your own chair, without getting up or leaning. Check each drawing against a photo taken from that seat at sitting eye height. Only the seat changes.
-- **safety:** Nothing in this test is unsafe. A grown-up looks after the phone.
-- **record:** Fill in the table. Stick or draw the photos next to your drawings, and circle anything that came out different.
+- **record:** Fill in the table. Stick or draw the photos next to your drawings, and circle anything that came out different. With no phone, draw what you saw when you sat in that chair yourself.
 - **results table:** Seat | My drawing: what is on the left? | Photo: what is on the left? | My drawing: what is hidden? | Photo: what is hidden? | Right or not?
 - **s1 (4 min)**  
-  *Parent does:* 1. Put the tumbler in the middle of the table. 2. Put the banana to one side of it. 3. Put the lime close behind the tumbler on the far side, so your child cannot see it.  
+  *Parent does:* 1. Put the tumbler in the middle of the table. 2. Put the banana to the right of the tumbler, as your child sees it from their chair. 3. Put the lime close behind the tumbler on the far side, so your child cannot see it.  
   *Parent says:* This is our table for the test. You can't see the lime from your chair, can you? The tumbler is in the way.  
   *Child mode:* Sit in your chair. Look at the table. Can you see the lime? The tumbler hides it.
-  - Note: Use a tumbler taller than the lime, and put the lime right against it, so it is fully hidden from your child's seat. A grown-up sits opposite the child. The side seat stays empty for now.
+  - Note: Use a tumbler taller than the lime, and put the lime right against it, so it is fully hidden from your child's seat. You sit opposite the child. The seat on your child's right stays empty for now.
 - **s2 (4 min)**  
   *Parent does:* Ask your child to draw just what they see from their own chair. Write 'My seat' on it.  
   *Parent says:* Draw only what you can see from where you sit. Not what you know is there. Just what reaches your eyes.  
@@ -231,19 +230,19 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **s3 (6 min)**  
   *Parent does:* 1. Sit opposite your child. 2. Ask them to draw what you see from your chair, without getting up. 3. Ask the two prediction questions and write the answers in the table.  
   *Parent says:* Now draw what I can see from my chair. Stay in your seat. Will I see the lime? Will the banana be on my left or my right? Why do you think so?  
-  *Child mode:* Stay in your chair. Draw what Amma sees. Will she see the lime? Why?
+  *Child mode:* Stay in your chair. Draw what the grown-up opposite you sees. Will they see the lime? Why?
   - Ask: Why do you think I can see the lime? (good: Because the tumbler is between me and the lime, but not between you and the lime.; Because the lime is on your side.)
-  - Note: Don't help or hint. Any guess with a reason is good. Ask them to point to your left hand before they decide about the banana, if they want to.
+  - Note: Don't hint. Any guess with a reason is good.
 - **s4 (5 min)**  
   *Parent does:* 1. Hold the phone at your own eye height, sitting in your chair. 2. Take a photo of the table. 3. Put the photo next to your child's drawing. 4. Together, tick or cross: the lime, the banana's side, the tumbler.  
   *Parent says:* Here is what my chair really sees. Let's put it next to your drawing. What did you get right? What came out different?  
-  *Child mode:* Look at the photo from Amma's chair. Is it like your drawing?
+  *Child mode:* Look at the photo from the other chair. Is it like your drawing?
   - Note: Many children get the lime right but put the banana on the wrong side, because left and right swap for someone facing you. Some forget that the banana can hide part of the tumbler from that side. Whatever they find is a real result.
-  - Check: You sit opposite Amma. The banana is on your right. Where is it for Amma? → **On her left**
+  - Check: A child sits on one side of a table. The banana is on the child's right. Where is it for a grown-up sitting opposite? → **On the grown-up's left**
 - **s5 (7 min)**  
-  *Parent does:* 1. A second person sits at the side of the table, or you move there. 2. Your child stays in their chair and draws that view. 3. Take a photo from the side seat at sitting eye height. 4. Compare again and fill in the table.  
+  *Parent does:* 1. You move to the side seat, on your child's right. 2. Your child stays in their chair and draws what you see from there. 3. Take a photo from the side seat at sitting eye height. 4. Compare again and fill in the table.  
   *Parent says:* Now the side seat. This is harder. From there, what is in front, and what is behind? Is anything hidden?  
-  *Child mode:* Now draw the view from the side chair. What is in front?
+  *Child mode:* Now draw the view from the side chair, on your right. What is in front?
   - Note: From the side, the three things may line up differently. The banana may now be in front of the tumbler, or the lime may peep out. Let your child find this from the photo, not from you.
 - **s6 (4 min)**  
   *Parent does:* Talk about the results. Ask your child to say a claim, the evidence and a reason.  
@@ -255,7 +254,6 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **question:** Does everyone in the family use the same eye first when they aim, and is it on the same side as the hand they write with?
 - **predict:** Guess which eye each person in your family uses first. Will it be on the same side as their writing hand? Why do you think so?
 - **fair test:** Everyone looks at the same thing from the same spot, through the same hole, with both eyes open first. Each person does the test three times, because one try can be a mistake.
-- **safety:** A grown-up cuts the hole with scissors.
 - **record:** Fill in the table. Then count how many people are right-eyed and how many are left-eyed.
 - **results table:** Name | Writing hand | Try 1: eye | Try 2: eye | Try 3: eye | Dominant eye | Same side as hand?
 - **s1 (3 min) · grown-up needed**  
@@ -269,10 +267,10 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   *Child mode:* Guess your eye. Left or right? Why do you think so?
   - Note: Let each person guess. Many people guess it matches their writing hand. This is often true, but not always.
 - **s3 (8 min)**  
-  *Parent does:* 1. Hold the paper at arm's length with both hands. 2. With both eyes open, look through the hole at the clock. 3. Keep still and close the left eye. Is the clock still in the hole? 4. Open it, and close the right eye. 5. The eye that keeps the clock in the hole is the dominant eye. 6. Do it three times for each person.  
+  *Parent does:* 1. Hold the paper at arm's length with both hands. 2. With both eyes open, look through the hole at the clock. 3. Keep still and close the left eye. If the clock stays in the hole, the right eye is the dominant eye. 4. Open the left eye, and close the right eye. If the clock stays in the hole now, the left eye is the dominant one. 5. Do it three times for each person.  
   *Parent says:* Look through the hole at the clock, with both eyes open. Now close one eye. Did the clock jump out of the hole? Now the other eye.  
   *Child mode:* Look at the clock through the hole. Close one eye. Did it jump?
-  - Note: With one eye the clock stays in the hole. With the other, the clock jumps to the side. If a person gets a different eye each try, write 'not clear'. That happens for some people.
+  - Note: With the dominant eye open, the clock stays in the hole. With only the other eye open, the clock jumps to the side. If a person gets a different eye each try, write 'not clear'. That happens for some people.
   - Check: Lakshmi closes her left eye and the clock stays in the hole. She closes her right eye and the clock jumps away. Which is her dominant eye? → **Her right eye**
 - **s4 (6 min)**  
   *Parent does:* 1. Ask each person which hand they write with. 2. Fill in the table. 3. Count the right-eyed and left-eyed people. 4. Talk about the pattern.  
@@ -283,26 +281,25 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 
 ## Activities
 ### a1 · Hide From the Watchmen: Martin Hughes's hiding game (10 min)
-- **safety:** Nothing in this activity is unsafe.
 - **record:** Draw the walls from above. Mark each watchman with W and where you hid the toy with a star.
 - **s1 (3 min)**  
-  *Parent does:* 1. Stand two books on a table in a plus shape, making four corners. 2. Put one watchman at the end of one wall. 3. Give your child the tiny toy.  
+  *Parent does:* 1. Stand two books on a table in a plus shape, making four corners. 2. Put one watchman at the end of one book, facing the middle. 3. Give your child the tiny toy.  
   *Parent says:* This watchman is looking for the little one. Hide the little one where the watchman can't see them.  
   *Child mode:* Hide the little toy. The watchman must not see it.
   - Note: This is the game Martin Hughes played with children of three and four in Edinburgh in 1975. Your child will very likely find it easy. That is the point: even small children can work out what someone else can see.
 - **s2 (4 min)**  
-  *Parent does:* 1. Add a second watchman at the end of another wall. 2. Ask your child to hide the toy from both. 3. Ask how they know each watchman can't see it.  
+  *Parent does:* 1. Add a second watchman at the end of the next book round, a quarter turn from the first, not the book opposite. 2. Ask your child to hide the toy from both. 3. Ask how they know each watchman can't see it.  
   *Parent says:* Now there are two watchmen. Find a corner neither of them can see. How do you know?  
   *Child mode:* Two watchmen now. Find a corner neither can see. How do you know?
   - Ask: How do you know the watchman can't see that corner? (good: The wall is between the watchman and the corner.; If I put my eye where the watchman is, I can't see it.)
-  - Note: Only one corner is hidden from both, if the watchmen stand at the ends of two walls that are next to each other. If your child puts their eye down where the watchman stands to check, that is exactly what scientists do.
+  - Note: Only one corner is hidden from both when the watchmen stand at the ends of two neighbouring books. If your child puts their eye down where the watchman stands to check, that is exactly what scientists do.
 - **s3 (3 min)**  
   *Parent does:* Swap roles. Your child places the two watchmen, and you try to hide the toy.  
   *Parent says:* Your turn to be the boss. Place the watchmen so that it is hard for me to hide.  
-  *Child mode:* Your turn. Place the watchmen. Can Amma still hide?
+  *Child mode:* Your turn. Place the watchmen. Can the grown-up still hide?
+  - Note: If your child puts the watchmen at the ends of opposite books, no corner is hidden. Then the boss has won. Swap and try again.
   - Think: How did you know what a toy could see, when a toy has no real eyes?
-### a2 · The Biscuit Box Surprise: what will Paati think is inside? (15 min)
-- **safety:** Nothing in this activity is unsafe.
+### a2 · The Biscuit Box Surprise: what will someone else think is inside? (15 min)
 - **record:** Write each person's name, your guess of what they will say, and what they said.
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the closed biscuit box. 2. Ask what is inside. 3. Open it and show the pencils. 4. Close it again.  
@@ -310,17 +307,17 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   *Child mode:* What is in the box? Open it. Were you right?
   - Note: Put the pencils in before you start, out of sight. Most children say 'biscuits'. Children of three often say afterwards that they thought 'pencils' all along.
 - **s2 (5 min)**  
-  *Parent does:* 1. Ask your child what Paati, or someone else who has not seen inside, will say is in the box. 2. Ask why. 3. Write the guess.  
-  *Parent says:* Paati hasn't seen inside. What will she say is in the box? Why do you think so?  
-  *Child mode:* Paati hasn't looked. What will she say is inside? Why?
-  - Ask: Why will Paati say biscuits, when you know it is pencils? (good: Because she hasn't seen inside.; Because the box looks like a biscuit box, and that is all she knows.)
+  *Parent does:* 1. Ask your child what the person who has not seen inside will say is in the box. 2. Ask why. 3. Write the guess.  
+  *Parent says:* Someone who hasn't seen inside will be asked. What will they say is in the box? Why do you think so?  
+  *Child mode:* Someone hasn't looked in the box. What will they say is inside? Why?
+  - Ask: Why will they say biscuits, when you know it is pencils? (good: Because they haven't seen inside.; Because the box looks like a biscuit box, and that is all they know.)
 - **s3 (6 min)**  
-  *Parent does:* 1. Your child shows the closed box to Paati and asks what is inside. 2. Compare with the guess. 3. Is a child of three or four nearby? With their family's agreement, try it with them too. Ask them what they first thought.  
-  *Parent says:* Was your guess right? Paati believed something that was not true. Why did it make good sense for her to believe it?  
-  *Child mode:* Ask Paati. Was your guess right? Why did she think that?
-  - Note: Paati will almost certainly say biscuits, and your child will have predicted it. That shows your child understands a false belief. With a three-year-old the answers are often surprising: many say the next person will say 'pencils', because that is what they now know.
+  *Parent does:* 1. Your child shows the closed box to the person and asks what is inside. 2. Compare with the guess. 3. Is a child of three or four nearby? With their family's agreement, try it with them too. Ask them what they first thought.  
+  *Parent says:* Was your guess right? They believed something that was not true. Why did it make good sense for them to believe it?  
+  *Child mode:* Ask them what is inside. Was your guess right? Why did they think that?
+  - Note: Most people will say biscuits, and your child will have predicted it. That shows your child understands a false belief. With a three-year-old the answers are often surprising: many say the next person will say 'pencils', because that is what they now know.
   - Check: Farhan, aged 8, puts buttons in a sweet box. His friend Divya has not seen inside. What will Divya say is in the box? → **Sweets, because the box looks like a sweet box**
-### a3 · Jigsaw Nimbu Paani: one card each, one drink together (20 min)
+### a3 · Jigsaw Lime Drink: one card each, one drink together (20 min)
 - **safety:** A grown-up cuts the lime with the knife.
 - **record:** Write who held which card, and one thing that went wrong and how you fixed it together.
 - **s1 (4 min) · grown-up needed**  
@@ -337,9 +334,8 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   *Parent does:* Taste the drink and talk about it.  
   *Parent says:* Could anyone have made this alone with just their card? What happened when we didn't agree?  
   *Child mode:* Could you make it alone with your card? Why not?
-  - Think: Was the youngest person's card less important than the others?
+  - Think: Which part of making the drink was hardest to agree on?
 ### a4 · Tell It From the Other Side: the crocodile's story (15 min)
-- **safety:** Nothing in this activity is unsafe.
 - **record:** Draw the crocodile in the river and write three things the crocodile saw, wanted or was afraid of.
 - **s1 (5 min)**  
   *Parent does:* Tell the story briefly. A monkey lives in a jamun tree by a river and gives jamun fruit to a crocodile. The crocodile's wife wants the monkey's heart. The crocodile carries the monkey into the river to trick him. The monkey escapes by saying he left his heart in the tree.  
@@ -376,12 +372,11 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 
 ## Projects
 ### p1 · A Two-Sided Skit: one story, two points of view (50 min, 2 days)
-- **safety:** A grown-up helps with scissors and handles the phone.
 - **record:** Write the two scene plans, and after the show write one thing the audience noticed about the second scene.
 - **schedule:** day 1: Choose a story. Plan two short scenes: the story as one character sees it, then the same events as the other character sees them. Make simple costumes. (25 min); day 2: Practise and act both scenes for the family. Record them and talk about what changed. (25 min)
 - **s1 (25 min)**  
   *Parent does:* 1. Choose a story with two characters who see things differently. 2. Plan scene 1: the story as the first character tells it. 3. Plan scene 2: the same events as the second character tells them. 4. Make costumes from old cloth.  
-  *Parent says:* A skit with two sides. First, the story as Meenu sees it. Then the same story as Kombu sees it. What will be different in the second scene?  
+  *Parent says:* A skit with two sides. First, the story as one character sees it. Then the same story as the other character sees it. What will be different in the second scene?  
   *Child mode:* Plan two scenes. Same story. Two different tellers.
   - Note: Keep each scene to about two minutes. The events must stay the same in both scenes. Only what each character sees, knows and feels changes.
 - **s2 (25 min) · grown-up needed**  
@@ -405,7 +400,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   *Parent does:* Draw a race board of about 30 squares. Make pieces for three players that differ in shape or pattern, not only colour.  
   *Parent says:* Make the pieces so that someone could tell them apart in a black and white photo.  
   *Child mode:* Make pieces you can tell apart without colour.
-  - Note: A good test is a black and white photo on the phone. If the pieces still look different, the design works.
+  - Note: A good test is a black and white photo. Take a photo of the board and open it in the phone's gallery. Most phones have a black and white or mono filter under Edit. If the pieces still look different, the design works.
 - **s3 (5 min)**  
   *Parent does:* Play one round and check the design.  
   *Parent says:* Could everyone tell their piece apart? What would you change?  
@@ -418,9 +413,9 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **general:** Take turns of the same length, timed by counting swings, for example 20 swings each.; Go in order of who arrived first.; Take turns by age, youngest first.
 - **creative:** Let the youngest choose to be pushed, and count that turn as shorter.; Make a waiting game for the queue, so waiting is fun too.; Agree a special signal that means 'your turn is over' that nobody minds.
 - **s1 (8 min)**  
-  *Parent does:* Each person plays one of the three children and says what they want and why.  
+  *Parent does:* Take turns to play each of the three children, and say what they want and why.  
   *Parent says:* You are the five-year-old. What do you want? Now you are the ten-year-old. What do you want?  
-  *Child mode:* Be each child in turn. What do they want? Why?
+  *Child mode:* Take turns being each child. What do they want? Why?
 - **s2 (12 min)**  
   *Parent does:* Write a plan. Test it by playing it out with the three people.  
   *Parent says:* Will the five-year-old understand this plan? Will the ten-year-old think it is fair?  
@@ -445,30 +440,29 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
    **Answer:** ['mind']. *Why:* Theory of mind means understanding that other people's minds hold different things from yours.
 5. (sort) Sort these. Can you see it from outside, or is it hidden inside a person?  
    **Answer:** how tall someone is → Can see from outside; their dominant eye → Hidden inside; the colour of their shirt → Can see from outside; whether they are colour blind → Hidden inside; what they are afraid of → Hidden inside; their hair length → Can see from outside. *Why:* Many differences between people cannot be seen. You find them out by testing, watching or asking.
-6. (mcq) Anjali closes her right eye and the clock stays in the paper hole. Which is her dominant eye?  
-   Options: Her right eye / Her left eye / We can't tell  
-   **Answer:** Her left eye. *Why:* With the right eye closed, only the left eye was looking, and the clock stayed in the hole. So she lines things up with her left eye.
-7. (truefalse) Your dominant eye is always on the same side as the hand you write with.  
+6. (truefalse) Your dominant eye is always on the same side as the hand you write with.  
    **Answer:** False. *Why:* False. For many people they match, but for many they do not. The Dominant Eye Test can show this in one family.
-8. (odd) Which one is the odd one out? A false belief, a mistake in a sum, a magic trick watcher, a surprise party guest.  
-   Options: A false belief / A mistake in a sum / A magic trick watcher / A surprise party guest  
-   **Answer:** 1. *Why:* The trick watcher and the party guest both believe something false because of what they have not seen. That is what a false belief is. A mistake in a sum comes from adding wrongly, not from missing what happened.
-9. (mcq) Farhan builds a cross of two books on the table, making four corners. A toy watchman stands at the end of one book. How many corners can the watchman see?  
+7. (odd) Which one is NOT a false belief?  
+   Options: A guest thinks no party is planned, but one is. / A watcher thinks the coin is in the left hand, but the magician moved it. / A grandmother knows the box holds pencils, because she filled it herself. / Maxi thinks his chocolate is in the cupboard, after his mother moved it.  
+   **Answer:** 2. *Why:* A false belief is a wrong belief held by someone who missed what changed. The grandmother filled the box herself, so her belief is true. The other three people all missed a change.
+8. (mcq) Farhan builds a cross of two books on the table, making four corners. A toy watchman stands at the end of one book. How many corners can the watchman see?  
    Options: One / Two / All four  
    **Answer:** Two. *Why:* From the end of one wall, the watchman can look along both sides of it, into two corners. The other book hides the other two corners.
-10. (order) Put these steps of the Biscuit Box Surprise in order.  
-   **Answer:** ['Fill a biscuit box with pencils', 'Close the box', 'Guess what Paati will say', 'Ask Paati what is inside']. *Why:* You need to guess before you ask, or the guess is not a real prediction.
-11. (draw) Draw a tumbler and a banana on a table as you see them. Then draw them as someone on the other side of the table would see them.  
+9. (order) Put these steps of the Biscuit Box Surprise in order.  
+   **Answer:** ['Show your child the closed box and ask what is inside', 'Open the box and show the pencils', 'Guess what the person who has not looked will say', 'Ask a person who has not looked what is inside']. *Why:* You need to guess before you ask, or the guess is not a real prediction.
+10. (draw) Draw a tumbler and a banana on a table as you see them. Then draw them as someone on the other side of the table would see them.  
    **Answer:** Two drawings. In the second, the banana is on the other side of the tumbler, and anything hidden in the first may now be in view.. *Why:* A strong answer swaps left and right in the second drawing, and shows what the tumbler hides from each side.
-12. (write) Why could Meenu not see what Kombu needed, even after she lay on the floor next to him?  
+11. (write) In the story 'The Monster Under Meenu's Cot', Meenu is a girl who lies on the floor to see what the small creature Kombu sees. Why could she still not know what Kombu needed?  
    **Answer:** Lying on the floor showed her what Kombu could see, but not what he wanted or felt. She had to ask him.. *Why:* A strong answer says that seeing from someone's place shows what they see, but feelings and needs must be told or asked about.
-13. (perspective) Kavya and her grandmother Lakshmi disagree about a quarrel between Kavya and her friend.  
+12. (perspective) Kavya and her grandmother Lakshmi disagree about a quarrel between Kavya and her friend.  
    **Answer:** A strong answer picks a side with a reason, for example that the friend might have thought it was her pencil, or that taking without asking is still not fair. It also says what the other side has right: Kavya is right that asking first matters, and Lakshmi is right that the friend's view may change the story.. *Why:* Both have a point. Hearing the other side does not mean the other side is right, but it may change what you think happened.
-14. (write) Kombu thought Meenu was scary, and Meenu thought Kombu was scary. Write why each one felt that way, using what each could see.  
+13. (write) In the story 'The Monster Under Meenu's Cot', Kombu and Meenu were each scared of the other. Write why each one felt that way, using what each could see.  
    **Answer:** Meenu saw big horn shadows on the wall from her cot. Kombu, on the floor, saw a huge girl and heard a voice like thunder.. *Why:* A strong answer links each fear to what each one could see or hear from their own place.
-15. (mcq) A psychologist gave each child in a group one part of a lesson, so they needed each other. What did his studies find?  
+14. (mcq) A psychologist gave each child in a group one part of a lesson, so they needed each other. What did his studies find?  
    Options: The children fought more / The children came to like each other more / Nothing changed  
    **Answer:** The children came to like each other more. *Why:* Elliot Aronson's jigsaw classroom studies found children in these groups came to like each other more. Scientists still argue about when working together helps most.
+15. (truefalse) A child with red-green colour blindness cannot read a map because the child is not clever enough.  
+   **Answer:** False. *Why:* False. Colour blindness comes from light-sensing cells in the eye that work differently. It has nothing to do with being clever. A map that also uses shapes and labels is easy for everyone to read.
 ### What Others Know (stretch) (stretch, 15 questions)
 1. (mcq) Lakshmi sits at the side of a table, between Kavya and her mother. Which seat gives the hardest drawing to guess for Kavya?  
    Options: Her own seat / The seat opposite / The side seat  
@@ -478,67 +472,67 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 3. (truefalse) Children of three usually know that a toy behind a wall is hidden from someone on the other side.  
    **Answer:** True. *Why:* True. Even young children can tell what is in someone's view. Working out exactly how it looks from there comes later.
 4. (sort) Sort these. Is the person's belief true or false?  
-   **Answer:** Paati thinks the biscuit box holds biscuits, but it holds pencils → False belief; Arjun thinks his chappals are by the door, and they are → True belief; Maxi thinks his chocolate is in the cupboard, after his mother moved it → False belief; Divya thinks it is raining, and she can hear it on the roof → True belief. *Why:* A belief is false when the world changed or was different, and the person did not see or hear it.
+   **Answer:** A grandmother thinks the biscuit box holds biscuits, but it holds pencils → False belief; Arjun thinks his chappals are by the door, and they are → True belief; Maxi thinks his chocolate is in the cupboard, after his mother moved it → False belief; Divya thinks it is raining, and she can hear it on the roof → True belief. *Why:* A belief is false when the world changed or was different, and the person did not see or hear it.
 5. (mcq) A three-year-old sees the biscuit box opened to show pencils. Many three-year-olds then say something surprising. What?  
    Options: That they knew it held pencils all along / That it holds biscuits / That it is empty  
    **Answer:** That they knew it held pencils all along. *Why:* Many children of three say they thought 'pencils' from the start, and that the next person will say 'pencils' too. They find it hard to hold what they used to believe apart from what they now know.
 6. (write) Why did scientists need a story with a false belief, like Maxi and the chocolate, to test theory of mind? Why not just ask where the chocolate is?  
    **Answer:** If Maxi's belief were true, a child could answer by saying where the chocolate really is. Only a false belief shows whether the child understands what Maxi thinks.. *Why:* A strong answer says the right answer must be different from the truth, so we can tell whether the child is thinking about Maxi's mind or about the real world.
-7. (mcq) In the Dominant Eye Test, Paati's eye changed from try to try. What is the best thing to write?  
+7. (mcq) In the Dominant Eye Test, a grandmother's eye changed from try to try. What is the best thing to write?  
    Options: Right, because most people are right-eyed / Not clear, and test again another day / Left, because her first try was left  
    **Answer:** Not clear, and test again another day. *Why:* Some people do not have a clear dominant eye. A scientist writes what they really found, not what is usual.
 8. (count) A family of 6 did the Dominant Eye Test. 4 were right-eyed and 2 were left-eyed. 5 wrote with their right hand. How many people at least must have had a dominant eye on a different side from their writing hand?  
    **Answer:** 1. *Why:* 5 are right-handed, but only 4 are right-eyed. So at least 1 right-handed person must be left-eyed.
-9. (fill) When two people face each other, their left and right are ____.  
-   **Answer:** ['swapped', 'opposite', 'reversed']. *Why:* Your right hand is on the same side of the table as their left hand.
-10. (truefalse) Studies find that friends are more likely than other children to talk a quarrel through and stay together after it.  
+9. (truefalse) Studies find that friends are more likely than other children to talk a quarrel through and stay together after it.  
    **Answer:** True. *Why:* True. Friends quarrel too, but they are more likely to sort it out. Understanding each other's point of view helps.
-11. (draw) Draw your room the way an ant on the floor would see the room. Then write one thing the ant can see that you never notice.  
+10. (draw) Draw your room the way an ant on the floor would see the room. Then write one thing the ant can see that you never notice.  
    **Answer:** A drawing from very low down: huge table legs, chappals, the underside of the bed. One noticed thing, such as dust or a crumb under the cupboard.. *Why:* A strong answer draws from the floor and notices what a small being on the floor needs or meets.
-12. (mcq) Chimpanzee scientists hid one piece of food from a high-ranking chimp with a screen. Which piece did the low-ranking chimp mostly take?  
+11. (mcq) Chimpanzee scientists hid one piece of food from a high-ranking chimp with a screen. Which piece did the low-ranking chimp mostly take?  
    Options: The piece the high-ranking chimp could see / The piece hidden from the high-ranking chimp / Neither piece  
    **Answer:** The piece hidden from the high-ranking chimp. *Why:* The low-ranking chimp mostly took the hidden piece. Many scientists think this shows the chimp knew what the other could see. Others think a simple rule could explain it.
-13. (perspective) Two scientists disagree about the chimpanzee food test.  
+12. (perspective) Two scientists disagree about the chimpanzee food test.  
    **Answer:** A strong answer picks one side with a reason, and suggests a test where the two ideas predict different things, for example a see-through screen, where the rule says go but the other chimp can see.. *Why:* Good science designs a test where two ideas give different answers.
-14. (write) In Jigsaw Nimbu Paani, what would have happened if the youngest person had refused to read their card?  
+13. (write) In the Jigsaw Lime Drink activity, what would have happened if the youngest person had refused to read their card?  
    **Answer:** The drink could not be made properly, because one step would be missing.. *Why:* A strong answer says every card was needed, so every person mattered, whatever their age.
-15. (label) On the drawing of a cross of two books seen from above, label each corner with the watchmen who can see it: A, B, both or neither.  
+14. (label) On the drawing of a cross of two books seen from above, label each corner with the watchmen who can see it: A, B, both or neither.  
    **Answer:** The two corners each watchman looks into are labelled with that watchman; the corner both see is labelled both; the one corner neither sees is labelled neither.. *Why:* From the end of a wall, a watchman sees the two corners beside it. With two watchmen at the ends of two walls next to each other, one corner is seen by both, and one by neither.
+15. (mcq) In the story 'The Monster Under Meenu's Cot', Meenu lay on the floor and her chappals looked as big as boats. What does this show?  
+   Options: The chappals really grew / How big something looks depends on where you look from / Meenu was dreaming  
+   **Answer:** How big something looks depends on where you look from. *Why:* The chappals did not change. From the floor you are small and close to them, so they look huge. If you chose 'dreaming', remember that Kombu saw the same from the floor.
 ### Many Sides, One World (challenge) (challenge, 15 questions)
 1. (write) Jean Piaget and Bärbel Inhelder's three mountains task asked children to choose a picture of what a doll saw. Why might this be harder than hiding a toy from a watchman, even if a child can picture the doll's view?  
    **Answer:** Choosing between photos of mountains is a strange and hard job for a small child. Hiding from a watchman is a game that makes sense, and the child can check by looking.. *Why:* A strong answer says a test can fail because the task is confusing, not because the child cannot take another view.
-2. (mcq) Martin Hughes's game showed that most young children can work out what another sees. What does this teach about testing?  
-   Options: Children always pass every test / A test can show less than a person can do, if it does not make sense to them / Old scientists were always wrong  
-   **Answer:** A test can show less than a person can do, if it does not make sense to them. *Why:* Piaget's idea came from a task that confused young children. A task that made sense showed more. Piaget was right about many other things.
-3. (perspective) Two friends disagree about choosing friends.  
+2. (perspective) Two friends disagree about choosing friends.  
    **Answer:** A strong answer picks a side with a reason and an example, and admits what the other side gets right: similar friends do find it easy to play, and different friends do bring new skills.. *Why:* Both are true for different friendships. The evidence says similar friends are common, not that different friends are worse.
-4. (write) Many people think 'If I can't see it, nobody can.' Describe a test you could do at home to show this is wrong.  
+3. (write) Many people think 'If I can't see it, nobody can.' Describe a test you could do at home to show this is wrong.  
    **Answer:** Hide a thing behind a tumbler from yourself, then take a photo from the other side, or ask someone there what they see.. *Why:* A strong answer describes a test with a hidden thing and a way to check another person's view, such as a photo or going to their seat.
-5. (odd) Which one is the odd one out? Writing hand, dominant eye, height, colour vision.  
+4. (odd) Which one is the odd one out? Writing hand, dominant eye, height, colour vision.  
    Options: Writing hand / Dominant eye / Height / Colour vision  
    **Answer:** 2. *Why:* You can see someone's height just by looking. Their writing hand, dominant eye and colour vision you find out only by watching or testing them.
-6. (mcq) In many countries about 1 boy in 12 has red-green colour blindness, but only about 1 girl in 200. In a school of 600 boys and 600 girls, about how many would you expect to be colour blind?  
+5. (mcq) In many countries about 1 boy in 12 has red-green colour blindness, but only about 1 girl in 200. In a school of 600 boys and 600 girls, about how many would you expect to be colour blind?  
    Options: About 53 / About 6 / About 600  
    **Answer:** About 53. *Why:* 600 divided by 12 is 50 boys. 600 divided by 200 is 3 girls. 50 + 3 = 53. The real number in any one school may be different.
-7. (truefalse) If two people look at the same chilli, they always receive the same picture of it.  
+6. (truefalse) If two people look at the same chilli, they always receive the same picture of it.  
    **Answer:** False. *Why:* False. A person with colour blindness may see the colours differently, and someone in a different place sees a different side.
-8. (write) Wimmer and Perner's Maxi test asks where Maxi will look. Make up a new story, set in your home, that tests the same idea.  
+7. (write) Wimmer and Perner's Maxi test asks where Maxi will look. Make up a new story, set in your home, that tests the same idea.  
    **Answer:** A strong story has a person who puts something somewhere and leaves, someone who moves it, and the question of where the first person will look.. *Why:* A good test must have a false belief, so the right answer is different from where the thing really is.
-9. (draw) Draw a picture plan of a shared space in a block of flats, such as the play area, that works for a child in a wheelchair, a grandmother and a toddler.  
+8. (draw) Draw a picture plan of a shared space in a block of flats, such as the play area, that works for a child in a wheelchair, a grandmother and a toddler.  
    **Answer:** A plan with a ramp, benches in the shade, a low fence round a toddler area and wide paths.. *Why:* A strong answer thinks from each person's place and gives each one something they need.
-10. (mcq) The jigsaw classroom gave each child one part of a lesson. Why might this help children who did not get on to like each other?  
-   Options: They had to listen to each other to learn / They were told to be kind / They were given sweets  
-   **Answer:** They had to listen to each other to learn. *Why:* Each child needed the others' parts, so listening and helping were useful. Being told to be kind is less likely to change how children feel.
-11. (write) Gordon Allport said meeting people from another group helps most when people are equals and share a goal. Why might meeting while competing make things worse?  
+9. (write) Gordon Allport said meeting people from another group helps most when people are equals and share a goal. Why might meeting while competing make things worse?  
    **Answer:** When people compete, the other side becomes someone to beat, so they may get on worse.. *Why:* A strong answer links the result to what each side wants: a shared goal makes the other side useful, a contest makes them a rival.
-12. (match) Match each scientist to what they found.  
+10. (match) Match each scientist to what they found.  
    **Answer:** Martin Hughes → most children of three and four can hide a doll from a policeman doll; Heinz Wimmer and Josef Perner → children of about five understand that Maxi will look in the wrong place; Elliot Aronson → children in jigsaw groups came to like each other more; Brian Hare and others → a low-ranking chimp took food a high-ranking chimp could not see. *Why:* Each of these tests looked at how one mind works out what another sees, knows or needs.
-13. (label) Label the drawing of a table seen from above: mark where to sit to see the lime, where to sit so it is hidden, and draw a line from each seat's eyes to the lime.  
+11. (label) Label the drawing of a table seen from above: mark where to sit to see the lime, where to sit so it is hidden, and draw a line from each seat's eyes to the lime.  
    **Answer:** The seat on the lime's side is labelled 'sees the lime'. The seat behind the tumbler is labelled 'hidden'. Its line to the lime passes through the tumbler.. *Why:* Light travels in straight lines, so a line from the eye that passes through the tumbler means the lime is hidden from that seat.
-14. (fill) The Jain idea that every view sees only part of the truth is called ____.  
+12. (fill) The Jain idea that every view sees only part of the truth is called ____.  
    **Answer:** ['anekantavada']. *Why:* Anekantavada means many-sidedness. The story of the blind men and the elephant is about this idea.
-15. (truefalse) Hearing the other person's side of a quarrel means you must agree with them.  
+13. (truefalse) Hearing the other person's side of a quarrel means you must agree with them.  
    **Answer:** False. *Why:* False. Hearing their side tells you what they saw and wanted. You can still disagree, but now you disagree about what really happened.
+14. (mcq) A school wants a notice that a child with red-green colour blindness can read easily. Which is best?  
+   Options: Red words on a green board / Dark words on a pale board / Green words on a red board  
+   **Answer:** Dark words on a pale board. *Why:* Red and green can look alike to this child, so words in those colours blur into the board. Dark words on a pale board differ in lightness, which the child can see.
+15. (write) A friend says, 'I know exactly how you feel.' How could the friend check that this is true?  
+   **Answer:** The friend could ask, and listen to the whole answer. Seeing from someone's place shows what they see, but how they feel must be told.. *Why:* A strong answer says that feelings and needs cannot be seen from outside, so asking is the way to check, as Meenu did with Kombu.
 
 ## Videos
 - **Piaget's Mountains Task** (UofMNCYFC, 3 min) id `v4oYOjVDgo0`: Shows the three mountains task being done with a real child, so the family can see the old test that the Other Chair Test is based on. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Piaget's Mountains Task', channel UofMNCYFC). Not watched from here, so the length is a guess: a parent should preview it.
@@ -564,22 +558,22 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 6. (mcq) About how many people in 10 write with their left hand?  
    Options: About 1 / About 5 / About 9  
    **Answer:** About 1. *Why:* About 1 person in 10 is left-handed. So in a class of 30 you might find about 3 left-handed children.
-7. (mcq) Meenakshi has red-green colour blindness. Which game piece would be easiest for her to tell apart from a green piece?  
+7. (mcq) Farhan, aged 8, has red-green colour blindness. Which game piece would be easiest for him to tell apart from a green piece?  
    Options: A red piece / A red piece with a star drawn on it / A light green piece  
-   **Answer:** A red piece with a star drawn on it. *Why:* Red and green can look alike to her, but a star is a shape she can see clearly. Good designs use shape or pattern as well as colour.
+   **Answer:** A red piece with a star drawn on it. *Why:* Red and green can look alike to him, but a star is a shape he can see clearly. Good designs use shape or pattern as well as colour.
 8. (mcq) Before Martin Hughes's hiding game in 1975, what did many people think about children under seven?  
    Options: They could not picture what another person sees / They could not play hiding games / They could see more than grown-ups  
    **Answer:** They could not picture what another person sees. *Why:* Jean Piaget and Bärbel Inhelder's three mountains task suggested young children saw only their own view. Hughes's game, which made sense to children, showed most children of three and four could do it.
 9. (mcq) In Hughes's game, children hid a boy doll from policeman dolls behind walls. What did most children aged three and four do?  
    Options: Hid the boy where the policemen could see him / Hid the boy where neither policeman could see him / Refused to play  
    **Answer:** Hid the boy where neither policeman could see him. *Why:* About 9 children in 10 hid the doll in the right place. The task made sense to them, so they showed what they could really do.
-10. (mcq) In the Panchatantra story, the crocodile tells it his way. What changes?  
+10. (mcq) A child retells the Panchatantra story of the monkey and the crocodile as the crocodile would tell it. What changes?  
    Options: The events of the story / What the teller saw, knew and wanted / The ending  
    **Answer:** What the teller saw, knew and wanted. *Why:* The same things happen, but each teller notices and explains them from their own place. If you chose 'the ending', remember the monkey still escapes.
 11. (mcq) Three children of different ages share one swing. What makes a turns plan fair?  
    Options: The oldest always decides / Each child can see why it is fair from their own point of view / Whoever runs fastest goes first  
    **Answer:** Each child can see why it is fair from their own point of view. *Why:* A plan is fair when each person can see why it is fair from where they stand. 'The oldest decides' works for the oldest only.
-12. (mcq) In the Jigsaw Nimbu Paani activity, why did the family need everyone's card?  
+12. (mcq) In the Jigsaw Lime Drink activity, why did the family need everyone's card?  
    Options: Each card held a different part of the recipe / The cards were all the same / Only the grown-up's card mattered  
    **Answer:** Each card held a different part of the recipe. *Why:* Each person held one part, so the drink could only be made together. This is the idea of the jigsaw classroom.
 
@@ -588,7 +582,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - Architects design ramps, rails and wide doors by thinking from the place of someone in a wheelchair or with a pram.
 - Teachers use group work like the jigsaw classroom, so children from different backgrounds learn to work together.
 - Doctors and nurses learn to explain an illness from the patient's point of view, not only their own.
-- Cricket fielders and goalkeepers guess where a ball will go by picturing what the batter or kicker sees.
+- Cricketers and goalkeepers watch the batter or the kicker to guess where the ball will go.
 
 ## Spotted around us
 - The mirrors on an auto-rickshaw or a bus, which let the driver see what is behind, from where they sit.
@@ -607,24 +601,20 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - If your little cousin came to visit, what would look big and scary to them in our flat?
 - Think of a quarrel today. How would the other person tell it?
 - Which hand does each person at this meal eat with? Is anyone different?
-- What does Paati know about our street that we don't?
+- What does an older person in our building know about our street that we don't?
 
 ## Jokes
-- Why did the tumbler hide the lime? *It wanted to see things from the lime's point of view.*
-- What did the left hand say to the right hand across the table? *From where I sit, you're the one on the wrong side.*
-- Why did the crocodile tell the story differently? *He saw it from the river bed.*
-- What did the biscuit box say when Paati opened it? *Surprise! I'm full of pencils, not biscuits.*
-- Why did the watchman never find the toy? *He kept looking at things from his own point of view.*
 - What do you call two friends who share one umbrella? *Under-standing.*
 - Why did the ant think the chappal was a building? *Because from the floor, everything is sky-high.*
 - How many eyes do you need to look through a keyhole? *Just one, and your brain already picked it.*
-- Why did the friend sit in the other chair? *To see the lime that the tumbler was hiding from him.*
 - What did the crow at the window say about the family at breakfast? *From up here, all I see is the dosa.*
-- Why was the left-handed girl always happy at the table? *Because she always had her right on her side.*
+- What did the biscuit box say when it was opened? *Surprise! I'm full of pencils, not biscuits.*
 - Why did Kombu the monster ask for idli? *Because it is soft on horns and easy on claws.*
+- Why did the banana jump to the other side of the table? *It didn't. You just changed chairs.*
+- What did Kombu say about the people in the flat? *Nice people, but very loud feet.*
 
 ## Connected maths
-- In the Other Chair Test, Kavya made 3 drawings of other seats. In each one she checked 4 things: the lime, the banana's side, the tumbler, and what was in front. She got 9 things right in all. What fraction of her checks were right? **9 out of 12, which is three quarters.**. 3 drawings with 4 checks each is 3 times 4, which is 12 checks. She got 9 right. 9 out of 12 is the same as 3 out of 4, which is three quarters. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In the Other Chair Test, Kavya made 2 drawings of other seats. In each one she checked 4 things: the lime, the banana's side, the tumbler, and what was in front. She got 6 things right in all. What fraction of her checks were right? **6 out of 8, which is three quarters.**. 2 drawings with 4 checks each is 2 times 4, which is 8 checks. She got 6 right. 6 out of 8 is the same as 3 out of 4, which is three quarters. (queues `math.fractions.fractions-of-a-whole.L3`)
 - Arjun's family did the Dominant Eye Test. Appa, Amma and Paati are right-eyed. Arjun and his sister are left-eyed. Draw a tally and a bar chart. Is the result surprising, if about 2 people in 3 are right-eyed? **3 right-eyed and 2 left-eyed. It is not very surprising: in a small group, the numbers can easily differ from the usual 2 in 3.**. With 5 people, 2 in 3 would be a little more than 3 right-eyed. 3 right-eyed is close. A small group often differs from the pattern in a big group. (queues `math.data.bar-charts.L3`)
 - Three children share one swing. Each turn is 20 swings, and one swing takes about 3 seconds. How long does one child wait while the other two have their turns? **About 2 minutes.**. Two turns of 20 swings is 40 swings. 40 times 3 seconds is 120 seconds, which is 2 minutes. (queues `math.multiplication.equal-groups.L3`)
 - In the hiding game, two watchmen stand at the ends of two books that are next to each other. There are 4 corners. Watchman A sees 2 corners and watchman B sees 2 corners. Exactly 1 corner is seen by both. How many corners are hidden from both? **1 corner.**. A and B see 2 + 2 = 4 corners, but 1 corner was counted twice. So together they see 3 different corners. 4 - 3 = 1 corner is hidden from both. (queues `math.logic.puzzles.L3`)

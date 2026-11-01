@@ -25,7 +25,7 @@
   {
    "term": "Design",
    "meaning": "A plan for making something that does a job. It says what the thing will look like, what it is made of and how it is put together.",
-   "example": "Before building her boat, Kavya drew a design: a square base with walls three fingers high.",
+   "example": "Before folding a boat, you draw a design: a square base with walls three fingers high.",
    "art": "A child's pencil drawing of a foil boat with labels for the base and the walls."
   },
   {
@@ -61,19 +61,19 @@
   {
    "term": "Fair test",
    "meaning": "A test where you change only one thing and keep everything else the same, so you know what made the difference.",
-   "example": "To test whether taller walls help, Kavya kept the same size of foil and the same coins, and changed only the height of the walls.",
+   "example": "To test whether taller walls help, keep the same size of foil and the same coins, and change only the height of the walls.",
    "art": "Two foil boats side by side, the same size, one with low walls and one with tall walls."
   },
   {
    "term": "Weak spot",
    "meaning": "The part of a design that fails first when it is tested.",
-   "example": "Kavya's first boat let water in at one low corner. That corner was the weak spot.",
+   "example": "A first foil boat that lets water in at one low corner has a weak spot: that corner.",
    "art": "A foil boat tipping, with water pouring in over one low corner."
   },
   {
    "term": "Improve",
    "meaning": "To change a design so that it does its job better. A good improvement fixes the weak spot that a test showed.",
-   "example": "Kavya improved her boat by making all four walls the same height.",
+   "example": "You improve a boat that leaked at a low corner by making all four walls the same height.",
    "art": "A pencil crossing out a low wall on a drawing and drawing a taller one."
   },
   {
@@ -279,11 +279,6 @@
    "hint": "Think about where each change came from. Did you think of it first, or did the water show you?"
   },
   {
-   "q": "Why does a boat with taller walls carry more coins, when it is made of the same amount of foil?",
-   "kind": "deep",
-   "hint": "Think about how much water the boat can push aside before water spills over the top."
-  },
-  {
    "q": "A spider builds a web, a weaver bird a nest and a termite colony a mound. Are they designers too?",
    "kind": "big",
    "hint": "A male baya weaver bird weaves a hanging nest of grass. A female inspects it before she chooses to nest there. What might she be checking?"
@@ -292,11 +287,6 @@
    "q": "Is anything ever finished being designed?",
    "kind": "big",
    "hint": "Think of phones, bicycles or tumblers. Have their designs stopped changing?"
-  },
-  {
-   "q": "If you change two things at once and your boat gets better, what do you know, and what don't you know?",
-   "kind": "deep",
-   "hint": "Could one change have helped and the other made it worse?"
   },
   {
    "q": "Should a design be best for most people, or work for everyone, including people who use a wheelchair, cannot see well, or are very old?",
@@ -406,9 +396,10 @@
    ],
    "rules": [
     "Lay the 10 fix cards face up. Shuffle the problem cards face down.",
-    "Turn over a problem card and read it aloud.",
-    "Find the weak spot, then pick the fix card that mends it. Say why.",
+    "Take turns. On your turn, turn over a problem card and read it aloud.",
+    "Find the weak spot, then pick the fix card that mends it. Say why. Fix cards stay on the table, so any fix can be used again.",
     "Score 1 point if the fix mends the weak spot. Some problems have more than one good fix: any fix that really works scores.",
+    "The game ends when all 10 problem cards are used. With two or more players, the most points wins. If you play together, try to score 9 or 10 out of 10.",
     "Playing alone: race the clock. How many can you match in 5 minutes?"
    ],
    "flow": [
@@ -448,7 +439,7 @@
    ],
    "setup": [
     {
-     "art": "Ten picture cards of failed designs face down, and ten fix cards face up on a table.",
+     "art": "Ten problem cards face down and ten fix cards face up on a table.",
      "caption": "1. Turn over a problem card."
     },
     {
@@ -477,7 +468,7 @@
       "Make a shelter that keeps a toy dry when you sprinkle water.",
       "Carry 10 coins across the room with one hand.",
       "Make something that rolls down a slope in a straight line.",
-      "Keep an ice cube from melting for 10 minutes.",
+      "Make a scoop that moves 10 dal grains from one bowl to another without using your fingers.",
       "Make a ramp so a ball lands in a bowl.",
       "Hold a book open at one page."
      ]
@@ -498,11 +489,12 @@
     }
    ],
    "rules": [
-    "Draw one purpose card and one limit card.",
+    "Draw one purpose card and one limit card. If the two cannot work together, put the limit card back and draw again.",
     "You have 3 minutes to build, using the limit.",
     "Test it. Did it do the job? Score 2 points if yes, 1 if almost.",
     "Get one minute to improve it and test again. Score 1 extra point if it got better.",
-    "Playing alone: try to beat your own score over 4 rounds."
+    "Play 3 rounds. With two or more players, each person builds their own at the same time, using the same two cards. The highest total wins.",
+    "Playing alone: try to reach 9 points over 3 rounds."
    ],
    "flow": [
     {
@@ -514,8 +506,8 @@
     },
     {
      "id": "s2",
-     "mins": 14,
-     "do": "Play 3 or 4 rounds: build for 3 minutes, test, improve for 1 minute, test again.",
+     "mins": 15,
+     "do": "Play 3 rounds: build for 3 minutes, test, improve for 1 minute, test again.",
      "say": "Build it! Now test it. What failed? You have one minute to make it better.",
      "kid": "Build for 3 minutes. Test it. Fix it for 1 minute. Test again.",
      "adult": true,
@@ -523,7 +515,7 @@
     },
     {
      "id": "s3",
-     "mins": 4,
+     "mins": 3,
      "do": "Talk about the best round.",
      "say": "Which limit made it hardest? Did a limit ever make you think of a better idea?",
      "kid": "Which limit was hardest? Did it give you a new idea?",
@@ -581,7 +573,7 @@
      "qty": 1
     }
    ],
-   "safety": "Cut foil edges can be a little sharp, so fold them in. Wipe up spilled water at once so nobody slips. Small children must not put coins in their mouths.",
+   "safety": "Fold in the cut edges of the foil, because they can be sharp. Keep coins away from children under 5, who may put them in their mouths.",
    "schedule": [
     {
      "day": 1,
@@ -657,7 +649,7 @@
        ]
       }
      ],
-     "parent": "Good single changes: make all the walls the same height, make the walls taller, make the base wider, or fold the corners more tightly. If your child wants to change several things, say they can, but then you won't know which change helped. Let them choose."
+     "parent": "Good single changes: make all the walls the same height, make the walls taller, or fold the corners more tightly. With one square of foil, taller walls mean a smaller base, so try it and see which works better. If your child wants to change several things, say they can, but then you won't know which change helped. Let them choose."
     },
     {
      "id": "s6",
@@ -669,7 +661,7 @@
     {
      "id": "s7",
      "mins": 6,
-     "do": "1. Look at boat 2's weak spot. 2. Make one more change for boat 3. 3. Build it and test it the same way.",
+     "do": "1. Look at boat 2's weak spot. 2. Make one more change for boat 3. 3. Fold it from a new foil square and test it the same way.",
      "say": "One more round. What did boat 2 show us? Change one thing again, and test.",
      "kid": "Look where boat 2 let water in. Change one more thing. Build boat 3. Test it."
     },
@@ -710,7 +702,7 @@
       "emoji": "🛶"
      },
      {
-      "label": "Boat 3: wider base too",
+      "label": "Boat 3: corners pinched tighter",
       "value": 31,
       "emoji": "🚤"
      }
@@ -776,7 +768,6 @@
      "qty": 1
     }
    ],
-   "safety": "Ask a grown-up before taking rice and atta. Wash hands after.",
    "schedule": [
     {
      "day": 1,
@@ -813,7 +804,7 @@
      "do": "1. On each strip, draw a pencil line 2 centimetres from one end. 2. Spread a thin layer of paste up to the line. 3. Press a second strip on top, overlapping up to the line. 4. Make 2 joints with each: rice paste, atta paste, tape and water. 5. Write the name on each pair in pencil.",
      "say": "Every joint must overlap by the same 2 centimetres. Only the paste changes. That keeps it fair.",
      "kid": "Draw a line 2 centimetres from the end. Spread paste up to the line. Press the other strip on top. Make 2 of each. Write the name on them.",
-     "parent": "Use only a thin layer of paste, about as much as covers the overlap. For tape, use a piece 3 centimetres long across the overlap."
+     "parent": "Use only a thin layer of paste, about as much as covers the overlap. For tape, use a piece 3 centimetres long across the overlap. Tape is a different kind of joint from the pastes, because it covers the outside of both strips. Compare it with care."
     },
     {
      "id": "s3",
@@ -821,7 +812,8 @@
      "do": "Lay all the strips flat on a plate, away from fans, to dry overnight.",
      "say": "Pastes need time to dry. We'll test them tomorrow.",
      "kid": "Lay them flat. Leave them till tomorrow.",
-     "wait": "Leave the strips to dry overnight"
+     "wait": "Leave the strips to dry overnight",
+     "parent": "In a humid flat the pastes may still be damp after one night. Leave them another night."
     },
     {
      "id": "s4",
@@ -839,7 +831,7 @@
      "kid": "Which joint held best? If the paper tore, what was the weak spot then?",
      "check": {
       "t": "mcq",
-      "q": "In the paste test, Meena's rice paste joint held, but the paper tore just beside it. Where was the weak spot?",
+      "q": "In the paste test, a child's rice paste joint held, but the paper tore just beside it. Where was the weak spot?",
       "options": [
        "The rice paste",
        "The paper",
@@ -879,7 +871,6 @@
      "qty": 4
     }
    ],
-   "safety": "Use only cold vessels. Keep knives out of the hunt.",
    "schedule": [
     {
      "day": 1,
@@ -949,7 +940,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the small parts away from babies. Ink stains, so work on newspaper.",
+   "safety": "Keep the small parts away from babies and small children.",
    "schedule": [
     {
      "day": 1,
@@ -969,7 +960,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Pick up each part. 2. Ask what it does. 3. Write its job.",
+     "do": "1. Pick up each part. 2. Ask what it does. 3. Write its job. 4. Look at the cap of the second pen.",
      "say": "What does the spring do? What would happen without it? What does the tiny ball at the tip do?",
      "kid": "Hold up the spring. What does it do? Look at the tip. What does the tiny ball do?",
      "parent": "The spring pushes the refill back in after you click. The tiny ball at the tip rolls as you write, spreading ink. Many pen caps have a small hole at the top. One reason is safety: if a child swallows a cap, air can still get through."
@@ -1002,20 +993,15 @@
    "context": "People in different places solve the same problem in different ways. Here you compare ways of carrying water.",
    "materials": [
     {
-     "item": "a steel or plastic bucket, a water bottle, a steel kudam or any pot with a narrow neck if you have one, and a cloth bag",
-     "qty": 1
-    },
-    {
-     "item": "pictures from the app of a clay matka carried on the head and a yoke pole with a pot at each end",
+     "item": "a steel or plastic bucket, a water bottle and a steel kudam or any pot with a narrow neck",
      "qty": 1
     }
    ],
-   "safety": "Use only a little water. Wipe spills.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Compare four ways of carrying water and say which is best for which job."
+     "what": "Compare ways of carrying water and say which is best for which job."
     }
    ],
    "record": "Make a table: the design, one good thing, one problem.",
@@ -1030,10 +1016,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Look at the pictures of the head-carried matka and the yoke pole. 2. Ask why people chose each design.",
+     "do": "1. Picture a woman carrying a clay matka on her head. Picture a man with a pole across his shoulders and a pot at each end. 2. Your child draws each one in the notebook. 3. Ask why people chose each design.",
      "say": "Why does a kudam have a narrow neck? Why might someone carry a pot on their head?",
      "kid": "Why does a kudam have a narrow neck? Why carry a pot on your head?",
-     "parent": "A narrow neck spills less when the pot sways. Carrying on the head keeps the weight over the middle of the body. A yoke pole across the shoulders balances a pot at each end."
+     "parent": "A narrow neck spills less when the pot sways. Carrying on the head keeps the weight over the middle of the body, as women do with stacks of pots in Rajasthan and Gujarat. A pole across the shoulders balances a pot at each end."
     },
     {
      "id": "s3",
@@ -1071,7 +1057,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up spills.",
    "schedule": [
     {
      "day": 1,
@@ -1111,7 +1096,8 @@
       ],
       "a": 0,
       "why": "The same coins weigh the same wherever they sit. But piled at one end, they push that end down until water comes over its wall. Spread evenly, the whole boat sinks level. Picking 'heavier' is a common mix-up: the place of a load matters, not only its weight."
-     }
+     },
+     "parent": "If boat A carries as many coins as boat B, check that the coins really sat at one end, and that both boats are folded the same way."
     }
    ],
    "setup": [
@@ -1208,7 +1194,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On day 2, watch quietly from inside for 10 minutes. Note any birds and what they do.",
+     "do": "On day 2, watch quietly from inside for 10 minutes. Note any birds and what they do. Then refill and clean the water.",
      "say": "Let's watch quietly. Who comes? Do they drink, or bathe, or just look?",
      "kid": "Watch quietly for 10 minutes. Which birds come? What do they do?",
      "parent": "Birds may take a few days to find a new bowl. If none come, that is normal. Keep the water fresh and keep watching on day 3. Crows usually find water quickly."
@@ -1352,14 +1338,15 @@
     },
     {
      "id": "s3",
-     "mins": 15,
-     "do": "1. Build the best design. 2. Leave it for one hour near the ants. 3. Check every 15 minutes.",
-     "say": "Let's test it. We'll check every 15 minutes. Did any ant get in?",
-     "kid": "Build it. Check it every 15 minutes. Did any ants get in?"
+     "mins": 12,
+     "do": "1. Build the best design in about 8 minutes. 2. Leave it for one hour near the ants. 3. Look at it after 15, 30, 45 and 60 minutes. Each look takes about a minute.",
+     "say": "Let's test it. We'll look every 15 minutes. Did any ant get in?",
+     "kid": "Build it. Look at it every 15 minutes for an hour. Did any ants get in?",
+     "parent": "Some ants may still get across, for example over a crumb or a dead ant lying in the water. Write down how, and use it to improve the design."
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 8,
      "do": "Read the usual and creative solutions together, then improve your design.",
      "say": "What did the ants do when they met your design? How could you make it better?",
      "kid": "What did the ants do? How can you make it better?",
@@ -1543,7 +1530,7 @@
   },
   {
    "t": "mcq",
-   "p": "A crow lands on the edge of Divya's bird water bowl, and the bowl tips over. What is the best improvement?",
+   "p": "Divya, a girl in Class 4, puts out a bird water bowl. A crow lands on the edge and the bowl tips over. What is the best improvement?",
    "opts": [
     "Fill it to the top",
     "Use a wider, heavier bowl, or put a stone in the middle",
@@ -1765,10 +1752,10 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meera's boat carried 10 coins. She made the walls taller and it carried 18. Then she made the base wider too, and it carried 25. Which statement is true?",
+     "p": "Meera's boat carried 10 coins. She made the walls taller and it carried 18. Then she pinched the corners tighter too, and it carried 25. Which statement is true?",
      "opts": [
       "Each change helped",
-      "Only the wider base helped",
+      "Only the tighter corners helped",
       "Neither change helped"
      ],
      "a": 0,
@@ -1822,6 +1809,18 @@
      "why": "True. Someone decided what each thing was for and how to make it, even a simple steel tumbler."
     },
     {
+     "t": "mcq",
+     "p": "In a click pen, what does the spring do?",
+     "opts": [
+      "It pushes the refill back in after you click",
+      "It holds the ink",
+      "It makes the pen write"
+     ],
+     "a": 0,
+     "why": "The spring pushes the refill back into the pen when you click again. The ink is held in the refill, and the tiny ball at the tip makes the pen write.",
+     "how": "a2"
+    },
+    {
      "t": "fill",
      "p": "Water pushes ____ on a boat floating in it.",
      "a": [
@@ -1832,7 +1831,7 @@
     },
     {
      "t": "order",
-     "p": "Put Kavya's three bicycle designs from the story in order, and the problem that each one fixed.",
+     "p": "Put Kavya's three bicycle designs from the story in order, first to last.",
      "items": [
       "Pots in cloth bags tied firmly, so they cannot twist",
       "Shorter ropes, so the pots do not hit the wheel",
@@ -1907,14 +1906,6 @@
      "lines": 3,
      "a": "A strong answer says the sinking shows where the weak spot is, so he now knows what to change. Every engineer's first design fails somewhere.",
      "why": "This tests the idea that a failed test is useful information."
-    },
-    {
-     "t": "write",
-     "p": "Explain why spreading the coins evenly lets a foil boat carry more.",
-     "lines": 3,
-     "a": "Spread out, the coins push the whole boat down evenly, so it sinks level. Piled at one end, that end goes under first and water spills in over its wall.",
-     "why": "A good answer talks about where the load sits, not just how heavy it is.",
-     "how": "a4"
     },
     {
      "t": "draw",
@@ -2037,14 +2028,14 @@
      "t": "write",
      "p": "You want to know whether taller walls or a wider base helps a foil boat more. Plan a fair test. Say what you will change and what you will keep the same.",
      "lines": 4,
-     "a": "A strong answer makes one boat with taller walls and one with a wider base from the same size of foil, with the same coins, bucket and loading. It compares each with a plain starting boat.",
+     "a": "A strong answer makes one boat with taller walls and one with a wider base from the same size of foil, with the same coins, bucket and loading, and compares each with a plain starting boat. With one square of foil, a wider base means lower walls, so the test shows which trade is better.",
      "why": "A good plan changes one thing at a time and keeps everything else the same."
     },
     {
      "t": "write",
      "p": "A weaver bird builds a nest. A child builds a foil boat. In what ways are they both designers? In what ways are they different?",
      "lines": 3,
-     "a": "A strong answer says both make something for a purpose, choose materials and shape them. Differences: the bird uses grass and her beak, and builds a home for her young; the child uses foil and tests with coins.",
+     "a": "A strong answer says both make something for a purpose, choose materials and shape them. Differences: the bird uses grass and his beak to weave a nest; the child uses foil and tests with coins.",
      "why": "This asks the child to compare design across living beings."
     },
     {
@@ -2105,7 +2096,7 @@
        "Fewer"
       ],
       [
-       "make the base wider",
+       "spread the coins evenly",
        "More"
       ],
       [
@@ -2146,9 +2137,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Changing three things at once is a quick way to find out which change helped.",
+     "p": "One way of carrying water is the best for every job.",
      "a": false,
-     "why": "False. If three things change, you cannot tell which one made the difference. Change one at a time."
+     "why": "False. A narrow-necked kudam, a bucket and a bottle each suit a different job. The best design depends on the job."
     }
    ]
   }
@@ -2187,6 +2178,14 @@
   {
    "text": "Thick yellow cloth bags at the ration shop, strong enough to carry rice.",
    "art": "A yellow cloth bag full of rice with its handles tied."
+  },
+  {
+   "text": "The long crates in which Mumbai's dabbawalas carry tiffin boxes, on bicycle carriers and on their heads.",
+   "art": "A dabbawala on a bicycle with a crate of tiffin boxes tied on behind him."
+  },
+  {
+   "text": "Living root bridges in Meghalaya, grown over many years from the roots of rubber fig trees.",
+   "art": "A bridge of thick tree roots across a forest stream in Meghalaya."
   }
  ],
  "open_questions": [
@@ -2216,10 +2215,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the foil boat go back to the drawing board?",
-   "a": "It wanted a deeper meaning."
-  },
-  {
    "j": "What did the engineer say when her boat sank?",
    "a": "Great! Now I know where the weak spot is."
   },
@@ -2232,14 +2227,6 @@
    "a": "A plate."
   },
   {
-   "j": "Why did the paper bag go to the doctor?",
-   "a": "It had a weak joint."
-  },
-  {
-   "j": "Why did the prototype smile?",
-   "a": "It knew it would get better next time."
-  },
-  {
    "j": "What did the rice paste say to the paper?",
    "a": "I'm stuck on you."
   },
@@ -2248,16 +2235,8 @@
    "a": "They prefer the long walk round."
   },
   {
-   "j": "What did the bucket say to the foil boat?",
-   "a": "I've got you covered, up to a point."
-  },
-  {
    "j": "Why did the engineer change just one thing?",
    "a": "She didn't want the other things to get jealous."
-  },
-  {
-   "j": "What's a bridge's favourite game?",
-   "a": "Hold the load."
   },
   {
    "j": "Why was the tumbler so proud of its rim?",
@@ -2268,17 +2247,13 @@
    "a": "Thanks for showing me what not to do."
   },
   {
-   "j": "Why did the kite need a tail?",
-   "a": "To stop it spinning stories."
-  },
-  {
    "j": "How does a foil boat say goodbye?",
    "a": "See you at the bottom!"
   }
  ],
  "maths": [
   {
-   "problem": "Kavya's three foil boats carried 9, 22 and 31 coins. How many more coins did boat 3 carry than boat 1?",
+   "problem": "Three foil boats carried 9, 22 and 31 coins. How many more coins did boat 3 carry than boat 1?",
    "answer": "22 more coins.",
    "explain": "Boat 3 carried 31 coins and boat 1 carried 9. 31 minus 9 is 22. So boat 3 carried 22 more coins.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -2287,7 +2262,7 @@
    "why_maths": "Subtracting shows exactly how much better the improved design is, instead of just saying 'better'.",
    "chart": {
     "type": "bar",
-    "title": "Coins carried by Kavya's three boats",
+    "title": "Coins carried by three foil boats",
     "x": "Boat",
     "y": "Coins carried",
     "data": [
@@ -2337,7 +2312,7 @@
    "why_maths": "Working out how much material you need before you start is part of planning any design or test."
   },
   {
-   "problem": "Divya's foil boat carried 18 coins on her first try and 6 coins on her second try, with no change to the boat. Her friend's boat carried 14 and 15. Whose boat gave more reliable results? Why might Divya's be so different?",
+   "problem": "Divya, a girl in Class 4, tests a foil boat. It carried 18 coins on her first try and 6 coins on her second try, with no change to the boat. Her friend's boat carried 14 and 15. Whose boat gave more reliable results? Why might Divya's be so different?",
    "answer": "Her friend's boat.",
    "explain": "Her friend's two results, 14 and 15, are only 1 apart. Divya's, 18 and 6, are 12 apart. Something else changed between Divya's tries. Perhaps the boat was squashed after the first test, or the coins were piled on one side the second time.",
    "math_unit": "math.measurement-basics.estimation-and-precision.L3",
@@ -2389,8 +2364,7 @@
    "used_in": [
     "e1",
     "a4"
-   ],
-   "plan": "Left-over foil can be reused for the Brief and Build game and other units."
+   ]
   }
  ],
  "warmup": [
@@ -2550,7 +2524,7 @@
   ],
   "art": "A child's hands folding foil at a bucket, with faint ripples of water rising up around the hands as if the water were helping shape the boat."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done in a city flat today, with the materials listed. Changes made: the foil square is 15 centimetres, so even a very good boat carries no more than about 60 one-rupee coins, and most carry 10 to 40. Homes with fewer coins use level teaspoons of dry rice instead, the same load for every boat. Coins go in from the middle outwards, because piling them on one side is the most common reason a boat sinks early. A separate activity tests that. The paste test needs a night to dry, so it runs over two days, and plain water is included so the child sees what the pastes add. The phone stand is tested first with a small book, over a soft cloth. The bird bowl project warns that birds may take days to find a new bowl. The ant challenge says what to do if no ants come. Both games work for one child alone. The spine fits about 85 minutes: intro 2, kitchen hunt 10, foil boat test 40, explanations about 15, roots 8 and quiz 12.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done in a city flat today, with the materials listed. The foil boat test uses one 15 centimetre square per boat, and most boats carry 10 to 40 one-rupee coins. Homes with fewer coins use level teaspoons of dry rice, the same load for every boat. Coins go in from the middle outwards, because piling them on one side is the most common reason a boat sinks early; a separate activity tests that. The paste test runs over two days, with plain water as the no-paste joint, and may need a second night in a humid flat. The phone stand is tested first with a small book, over a soft cloth. The bird bowl may take days to find visitors. The ant challenge says what to do if no ants come. Both games work with one, two or more players. The spine fits about 87 minutes: intro 2, kitchen hunt 10, foil boat test 40, explanations about 15, roots 8 and quiz 12.",
  "how_we_found_out": {
   "story": "In 1965, Stephanie Kwolek was a chemist at the DuPont company in the USA. Her team wanted a light, very strong fibre, a thin thread that could be woven into strong cloth. One day she made a liquid that looked wrong. Good liquids for making fibre were usually clear and thick, like honey. Hers was cloudy and runny. People at the time expected a liquid like that to be useless, and such liquids were usually thrown away. The worker who ran the spinning machine did not want to try it at first. He was afraid the cloudy liquid would block the machine's tiny holes. Kwolek did not trust the guess. She wanted a test. She persuaded him to spin it. The fibre that came out was stiffer and stronger than anything they had made before. She tested it again and again to be sure. DuPont later called the fibre Kevlar. It is used today in helmets, cut-proof gloves, ropes and vests that protect police officers. A test, not a guess, showed what the liquid could do.",
   "who": "Stephanie Kwolek, a chemist at the DuPont company",

@@ -228,35 +228,35 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 
 ## Games
 ### g1 · Wave or Not? (15 min)
-- **rules:** Shuffle the cards and put them face down.; On your turn, take a card and read it out.; Say 'wave' or 'not a wave', and give a reason: what travels, and what stays?; If the other players agree with your reason, keep the card. If not, put it at the bottom of the pile.; For a 'you decide' card, any answer with a good reason scores.; When the pile is gone, the player with the most cards wins. Playing alone, try to sort all 20 with a reason for each.
-- **Printable cards: 20 cards to cut out:** Ripples from a stone in a bucket (wave); A cricket ball thrown to the batter (not a wave: the ball travels); A Mexican wave at Chepauk (wave); The river Kaveri flowing to the sea (not a wave: the water travels); The sound of a temple bell (wave); Wind blowing a kite (not a wave: the air travels); A bump on a dupatta tied to a door (wave); A train going from Chennai to Madurai (not a wave); The ground shaking in an earthquake (wave); Water from a tap into a bucket (not a wave); A squeeze along a spring toy (wave); An auto driving down the road (not a wave); A twist along the straw wave machine (wave); A crow flying home (not a wave); Light from the Sun (wave, a special kind that needs no material); Rice poured from a sack (not a wave); A tsunami crossing the deep ocean (wave); Sea water carried in a bucket (not a wave); A rumour passed round a class, with everyone in their seats (you decide, and give a reason); A line of standing dominoes falling one after another (you decide, and give a reason)
+- **rules:** Cut out the cards. Put them in a pile with the question side up.; On your turn, read the top card out loud. Say 'wave' or 'not a wave', and give a reason: what travels, and what stays?; Turn the card over. If your answer and reason match the back, keep the card. If they do not, put the card in the box. It is out of the game.; For a 'You decide' card, any answer with a good reason scores. The other players can ask you one question about it.; With two players, take turns. With four, play in a circle.; The game ends when the pile is gone. The player with the most cards wins. Playing alone, try to keep all 20.
+- **Printable cards: 20 cards to cut out (question on the front, answer on the back):** Ripples from a stone dropped in a bucket (back: Wave. The energy of the stone travels to the edge. The water only bobs up and down.); A cricket ball thrown to the batter (back: Not a wave. The ball itself travels from the bowler to the batter.); A Mexican wave at Chepauk stadium (back: Wave. The standing up travels round the stadium. Every person stays in their seat.); The river Kaveri flowing to the sea (back: Not a wave. The water itself travels all the way to the sea.); The sound of a dhak drum at Durga Puja (back: Wave. The sound is a wave in the air. The energy travels, and the air only moves back and forth a little.); Wind blowing a kite along (back: Not a wave. The air itself is moving.); A bump running along a dupatta tied to a door (back: Wave. The bump travels to the door. The cloth stays where it is.); A train going from Chennai to Madurai (back: Not a wave. The train itself travels from one city to the other.); The ground shaking in an earthquake (back: Wave. The shaking travels through the rock. The rock only shakes in its place.); Water running from a tap into a bucket (back: Not a wave. The water itself travels from the tap to the bucket.); A squeeze running along a spring toy (back: Wave. The squeeze travels along the coils. Each coil only moves a little and comes back.); An auto driving down the road (back: Not a wave. The auto itself travels along the road.); A twist running along the straw wave machine (back: Wave. The twist travels from straw to straw. Each straw only turns a little and turns back.); A crow flying home (back: Not a wave. The crow herself travels from place to place.); Light from the Sun (back: Wave, of a special kind. Light can cross empty space, so it needs no material to travel through.); Rice poured from a sack (back: Not a wave. The grains themselves move from the sack to the floor.); A tsunami crossing the deep ocean (back: Wave. The energy of the earthquake travels. The water only rises and falls.); Sea water carried across the kitchen in a bucket (back: Not a wave. The water itself is carried from place to place.); A rumour passed round a class, with everyone staying in their seats (back: You decide. What travels? What stays? Does the rumour change as it goes? Any answer with a good reason scores.); A line of standing dominoes falling one after another (back: You decide. What travels along the line? What does not come back up? Any answer with a good reason scores.)
 - **Printable score sheet: Score sheet:** Player name; Cards sorted right; Best reason given
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards and shuffle them.  
+  *Parent does:* Cut out the cards and put them in a pile with the questions facing up.  
   *Parent says:* In this game, the question is always the same. Does the stuff travel, or only the energy?  
   *Child mode:* For each card, ask: does the stuff travel, or only the energy?
 - **s2 (3 min)**  
-  *Parent does:* Play the first card together as a practice.  
+  *Parent does:* Find the river Kaveri card and play it together as a practice.  
   *Parent says:* The river Kaveri flowing to the sea. Is that a wave? What travels, and what stays?  
   *Child mode:* A river flowing. Does the water travel? Is it a wave?
   - Check: The river Kaveri flows to the sea. Is the flowing a wave? → **No, because the water itself travels to the sea**
 - **s3 (8 min)**  
-  *Parent does:* Play the game until the cards run out.  
+  *Parent does:* Play the game until the pile is gone.  
   *Parent says:* Your turn. Read the card, decide, and give your reason.  
   *Child mode:* Take a card. Wave or not? Say why.
 - **s4 (2 min)**  
-  *Parent does:* Talk about the 'you decide' cards.  
+  *Parent does:* Talk about the two 'You decide' cards.  
   *Parent says:* Is a rumour a wave? What travels, and what stays? Does it matter that the rumour can change as it goes?  
   *Child mode:* Is a rumour a wave? What travels? What stays?
 ### g2 · Crest and Trough (10 min)
-- **rules:** Stand in a line, side by side.; The caller turns over a card and reads it out.; Everyone does what the card says. For a wave card, each person moves only after the person next to them.; Anyone who moves too early or walks out of their place swaps with the caller.; With only two players, take turns: the caller says a card and the other player does it, using soft toys in a row as the rest of the line.
+- **rules:** Stand in a line, side by side. One player is the caller. Shuffle the 8 cards.; The caller turns over a card and reads it out.; Everyone does what the card says. For a wave card, each person moves only after the person next to them.; Anyone who moves too early or walks out of their place swaps with the caller.; The game ends when all 8 cards have been played. If nobody had to swap, the whole line wins together.; With only two players, the caller reads the cards. The other player kneels at one end of a row of soft toys and passes each wave along by tipping each toy over, one after another, then standing it up again. The caller swaps in if a toy is tipped too early.
 - **Printable cards: 8 caller cards:** CREST: stand tall on your toes, arms up; TROUGH: crouch down low; FLAT: stand still, arms by your side; WAVE LEFT: pass a crest to the left, one person at a time; WAVE RIGHT: pass a crest to the right; FAST CROWD: pass the wave as fast as you can; SLOW CROWD: count 'one, two' before you move; REFLECT: the last person sends the wave back
 - **s1 (3 min)**  
   *Parent does:* Stand in a line. Practise CREST, TROUGH and FLAT.  
   *Parent says:* A crest is the top of a wave. A trough is the bottom. Show me a crest! Now a trough!  
   *Child mode:* Crest: stand tall. Trough: crouch low. Flat: stand still.
 - **s2 (5 min)**  
-  *Parent does:* Play the caller cards in any order.  
+  *Parent does:* Play the 8 caller cards in any order, until all have been played.  
   *Parent says:* Wave left! Only move after the person next to you. Stay in your place!  
   *Child mode:* Move after the person next to you. Stay in your place!
 - **s3 (2 min)**  
@@ -269,8 +269,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 ### e1 · The Tray Test: does a wave cross deep or shallow water faster? (30 min)
 - **question:** If you give the water the same push, does a wave cross a tray faster when the water is shallow or when it is deep?
 - **predict:** Guess: will the wave be faster in shallow water, in deep water, or the same in both? Why do you think so?
-- **fair test:** Use the same tray, the same dosa turner and the same push every time: push it forward about 2 cm, once, quickly. Count the same thing every time: the wave goes to the far end and comes back to you twice. Only the depth of the water changes. Time each depth three times, because a stopwatch pressed a little late can fool you.
-- **safety:** Do this on the floor on a towel, so spilt water does not make anyone slip. Mop up any water straight away.
+- **fair test:** Use the same tray, the same dosa turner and the same push every time: push it forward about 2 cm, once, quickly. Time the same thing every time: the bump runs to the far end and back to you, twice. Only the depth of the water changes. Time each depth three times, because a stopwatch pressed a little late can fool you.
 - **record:** Fill in the table. Circle the middle time for each depth. Then finish this sentence: 'The deeper the water, the ...'
 - **results table:** Water depth | My guess: fast or slow? | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle time (seconds)
 - **s1 (5 min)**  
@@ -285,9 +284,9 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   - Ask: Why do you think so? (good: Deeper water is heavier, so it will be slower.; There is more water to push the wave, so faster.; The push is the same, so the same speed.)
   - Note: Do not say which is right. Write down the guess and the reason. Every one of the good answers above is a sensible first idea.
 - **s3 (9 min)**  
-  *Parent does:* 1. Shine the torch at a slant across the water, so the wave makes a bright line on the bottom of the tray. 2. Say 'go' and push. Start the stopwatch as you push. 3. Your child watches the bump go to the far end and back, then to the far end and back again. 4. Stop the stopwatch when the bump reaches you the second time. 5. Wait for the water to go still. Do it three times.  
+  *Parent does:* 1. Your child holds the phone stopwatch. 2. Shine the torch at a slant across the water, so the wave makes a bright line on the bottom of the tray. 3. Say 'go' and push once. Your child starts the stopwatch as you push. 4. Your child watches the bump run to the far end and back to you. Then it goes to the far end and back again. 5. Your child stops the stopwatch when the bump reaches you the second time. 6. Wait for the water to go still. Do it three times.  
   *Parent says:* Go! Count it with me. There, and back one. There, and back two. Stop!  
-  *Child mode:* Watch the bump. There and back is one. There and back again is two. Say stop!
+  *Child mode:* Start the stopwatch when the push starts. Watch the bump go there and back. There and back again is two. Press stop!
   - Note: In 1 cm of water the wave is slow and fades quickly, so watch the bright line it makes on the bottom. In a 40 cm tray, two trips there and back take roughly 5 seconds. If the bump fades before the second trip, time just one trip there and back at every depth instead.
 - **s4 (9 min)**  
   *Parent does:* 1. Add water until the ruler shows 2 cm. 2. Wait until it is still. 3. Time it three times, with the same push. 4. Add water to 4 cm and time it three times again.  
@@ -298,7 +297,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Parent does:* 1. Look at the table together. 2. Ask your child to say or write three things: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A strong answer sounds like this: 'Deeper water makes a faster wave. At 4 cm it took 3 seconds and at 1 cm it took 5 seconds, with the same push. I think the water decides how fast the wave goes.' Now read the card 'The medium sets a wave's speed'.
+  - Note: A strong answer sounds like this: 'Deeper water makes a faster wave. In my table, 4 cm took less time than 1 cm, with the same push. I think the water decides how fast the wave goes.' Now read the card 'The medium sets a wave's speed'.
   - Check: You gave the water the same push every time. What made the wave faster? → **Deeper water**
 ### e2 · Puffed Rice on the Waves: does the water travel with the wave? (20 min)
 - **question:** When waves cross a bucket, do they carry the water, and the things floating on it, to the far side?
@@ -355,7 +354,6 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Child mode:* The bump reached the door. The peg stayed. What travelled?
   - Think: Something went from your hand to the door, but the cloth stayed. What was it?
 ### a2 · Spring Toy Waves: a push wave and a shake wave (12 min)
-- **safety:** Do not stretch the spring toy too far, or it bends and stays tangled. Two big steps apart along the floor is enough for a plastic one.
 - **record:** Draw the spring with a push wave and with a shake wave. Draw arrows for which way the coils move and which way the wave goes.
 - **s1 (3 min)**  
   *Parent does:* 1. Sit on a smooth floor facing your child, about 2 metres apart. 2. Stretch the spring toy between you, along the floor. 3. Tape a paper tag to one coil near the middle.  
@@ -377,7 +375,6 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Child mode:* Your turn. Send a push wave. Then a shake wave.
   - Check: In both waves, where did the paper tag end up? → **Back near where it started**
 ### a3 · The Family Stadium Wave (10 min)
-- **safety:** Stand up carefully, with space around you.
 - **record:** Draw your row of people with the wave halfway along. Write one sentence on what made the wave fast or slow.
 - **s1 (3 min)**  
   *Parent does:* 1. Sit in a row. 2. Explain the rule: stand up and raise your arms when the person on your left does, then sit down when they sit. 3. The person at the left end starts.  
@@ -396,28 +393,26 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   - Note: The speed of a Mexican wave is set by the crowd, by how quickly each person reacts. Scientists who filmed real stadium crowds found that a Mexican wave usually travels at about 20 seats each second. Every person stays in their seat.
   - Think: In a stadium, could one person far away make the wave go faster near you?
 ### a4 · Wave Hunt at Home (12 min)
-- **safety:** Keep the phone dry. Put it on a folded cloth beside the plate, not in the water.
 - **record:** Make a list with two columns: 'The wave' and 'What it travels through'.
 - **s1 (4 min)**  
-  *Parent does:* 1. Put a little water in a steel plate. 2. Put the phone on a folded cloth, touching the edge of the plate. 3. Ring the phone or set an alarm so it buzzes.  
+  *Parent does:* 1. Put a little water in a steel plate on a table. 2. Lay the phone flat on the table, touching the side of the plate. 3. Make the phone buzz: ring it from another phone, or set an alarm.  
   *Parent says:* Watch the water while the phone buzzes. What do you see?  
   *Child mode:* Watch the water as the phone buzzes. What do you see?
-  - Note: Fine ripples appear on the water. The buzzing shakes the plate, and the shaking travels into the water. If you cannot see them, shine a torch across the water at a slant.
+  - Note: Very fine ripples may appear on the water, because the buzzing shakes the table and the plate. They are faint. Shine a torch across the water at a slant to see them. If you cannot see any, move on: the next step finds waves that are easier to see. Keep the phone out of the water.
 - **s2 (6 min)**  
   *Parent does:* Walk round the home together and find more waves.  
   *Parent says:* Let's hunt. Look for things that wave, ripple, shake or sound. For each one, ask: what is the wave travelling through?  
   *Child mode:* Hunt for waves. Ripples. Shakes. Sounds. What does each travel through?
-  - Note: Ideas: ripples when a tap drips into a full bucket, a curtain waving in the fan's wind, the pressure cooker whistle, a door slamming that shakes the window, a flag on a balcony, light from the window. Light is a wave too, but it can travel through empty space.
+  - Note: Ideas: ripples when a tap drips into a full bucket, the pressure cooker whistle, a door slamming that shakes the window, a rope or dupatta shaken, light from the window. Light is a wave too, but it can travel through empty space.
 - **s3 (2 min)**  
   *Parent does:* Read the list together.  
   *Parent says:* Which of your waves travel through water? Air? Something solid?  
   *Child mode:* Which waves went through water? Air? Something solid?
 ### a5 · Draw and Label a Wave (10 min)
-- **safety:** None needed.
 - **record:** Your labelled drawing, with the wavelength measured in centimetres.
 - **s1 (3 min)**  
   *Parent does:* Lay the dupatta on the floor in a wavy shape with three crests.  
-  *Parent says:* Here is a wave that is standing still, so we can look at it. The tops are called crests. The bottoms are called troughs.  
+  *Parent says:* Here is a wave that is standing still, so we can look at it. The tops are called crests. The bottoms are called troughs. The height is how far a crest rises above the flat middle line.  
   *Child mode:* Make a wavy dupatta on the floor. Tops are crests. Bottoms are troughs.
 - **s2 (3 min)**  
   *Parent does:* Measure from one crest to the next with the ruler or a measuring tape.  
@@ -429,10 +424,9 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Child mode:* Draw the wave. Label crest, trough, wavelength and height.
   - Check: Where is the wavelength of a wave? → **From one crest to the next crest**
 ### a6 · Tap the Water, Tap the Curd (10 min)
-- **safety:** Eat the curd afterwards, or use it for cooking.
 - **record:** Write one line for each bowl: what you saw, and how long the waves lasted.
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the bowls side by side. 2. Shine the torch across them at a slant. 3. Ask for a guess.  
+  *Parent does:* 1. Put the bowls side by side, with the water and the curd both about 3 cm deep. 2. Shine the torch across them at a slant. 3. Ask for a guess.  
   *Parent says:* I will tap each bowl on the side with the spoon. Will the waves look the same in water and in curd? Why do you think so?  
   *Child mode:* Will the curd make waves like the water? Why do you think so?
 - **s2 (4 min)**  
@@ -451,7 +445,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - **record:** Day 1: draw your machine with a wave on it. Day 2: write how the wave changed when it reached the heavy straws.
 - **schedule:** day 1: Build the machine: stretch tape sticky side up between two chairs, lay straws across it, and send a twist wave along. (25 min); day 2: Add dough to the ends of the straws on one half. Compare how fast the wave crosses each half. (20 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Put two chairs about 1.5 metres apart. 2. Stretch a long strip of tape between them, sticky side up, held down on each chair with books. 3. Lay a straw across the tape every 3 cm, with its middle on the tape. 4. Press a second strip of tape on top to hold them. 5. Lift and let go of the first straw at one end.  
+  *Parent does:* 1. Put two chairs about 1.5 metres apart. 2. Stretch a long strip of tape between them, sticky side up, held down on each chair with books. 3. Lay a straw across the tape every 3 cm, with its middle on the tape. 4. Press a second strip of tape on top to hold them. 5. Turn the first straw at one end a quarter turn and let go.  
   *Parent says:* We are building a wave machine. Every straw is like one bit of water. When I twist the first straw, watch what happens to the others.  
   *Child mode:* Lay straws across the tape. Twist the first straw. Watch!
   - Ask: Did any straw move along the tape to the other end? (good: No, each straw stayed in its place and only turned.; Only the twist moved along.)
@@ -465,7 +459,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Parent does:* 1. Watch the wave cross from the light half into the heavy half. 2. Time a wave across each half three times.  
   *Parent says:* Watch where it slows down. Time it across each half.  
   *Child mode:* Watch the wave cross into the heavy half. Time each half.
-  - Note: The wave slows down clearly in the heavy half, because heavy-ended straws are slower to start turning and slower to pass the twist on. Part of the wave also bounces back where the two halves meet. Just like the water in the tray, the material sets the speed of the wave.
+  - Note: The wave slows down clearly in the heavy half, because heavy-ended straws are slower to start turning and slower to pass the twist on. Part of the wave also bounces back where the two halves meet. The waves are quick, so the timings are rough. If you cannot time them, film the machine on a phone and watch it slowly, or compare the two halves by eye. Just like the water in the tray, the material sets the speed of the wave.
   - Check: Why did the wave slow down in the heavy half? → **Because the heavy straws pass the twist on more slowly**
 
 ## Challenges
@@ -473,12 +467,13 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - **problem:** Make a small village of clay or paper houses at one end of a tray of water. Waves from a dosa turner at the other end knock them over. Design something that protects the village.
 - **your turn:** Now design your own wave guard. Draw it first, build it, and test it with three waves. Then make it better and test again.
 - **constraints:** Use only things from home.; Leave a gap at least 3 cm wide so a paper boat could still reach the village.; Push the waves the same way for every test.
-- **general:** A solid wall across the tray, with a gap for boats. Walls like this, called breakwaters, protect harbours in Chennai and Visakhapatnam.; A sloping beach at the village end, made from a folded wet towel. Waves lose their energy running up a slope instead of crashing.
-- **creative:** A forest of toothpicks stuck in a strip of dough, like a mangrove forest along the coast.; A row of sponge pieces that soak up the wave's energy.; A floating line of bottle caps tied with thread.
+- **general:** A solid wall across the tray, with a gap for boats. Walls like this, called breakwaters, protect harbours in Chennai and Visakhapatnam, and the tetrapods along Marine Drive in Mumbai.; A sloping beach at the village end, made from a folded wet towel. Waves lose their energy running up a slope instead of crashing.
+- **creative:** A forest of toothpicks stuck in a strip of dough, like the mangrove forests of the Sundarbans.; A row of sponge pieces that soak up the wave's energy.; A floating line of bottle caps tied with thread.
 - **s1 (5 min)**  
   *Parent does:* 1. Build three small houses at one end of the tray. 2. Send three waves with the dosa turner. 3. See how many houses fall.  
   *Parent says:* Here is our village. Let's see what the waves do with nothing to protect it.  
   *Child mode:* Build three houses. Send three waves. How many fall?
+  - Note: If no house falls, make the houses from folded paper, or stand them closer to the water. Then keep the same houses for every test.
 - **s2 (5 min)**  
   *Parent does:* Draw two ideas for a wave guard.  
   *Parent says:* A wave carries energy. How could we stop that energy before it reaches the houses? Draw two ideas.  
@@ -545,12 +540,12 @@ Meenakshi grinned. "And the deep water is a quick crowd."
    **Answer:** ['crest', 'trough', 'wavelength', 'height']. *Why:* The crest is the top, the trough is the bottom, the wavelength goes from one crest to the next, and the height goes from the flat line up to the crest.
 13. (write) Tell how you would show a friend that ripples do not carry the water with them. What would you use, and what would they see?  
    **Answer:** Float puffed rice or paper in the middle of a bucket. Tap the water at one side. The ripples cross the bucket, but the puffed rice only bobs up and down and stays near the middle.. *Why:* A strong answer names a floating thing, says how to make the waves without pushing the water, and says what the floating thing does.
-14. (write) Meenakshi saw a Mexican wave at Chepauk stadium. She said, 'The wave travelled, but nobody went anywhere.' How can both be true?  
+14. (write) Meenakshi, a girl of 8, saw a Mexican wave at Chepauk stadium. She said, 'The wave travelled, but nobody went anywhere.' How can both be true?  
    **Answer:** Each person only stood up and sat down in their own seat. The standing up was passed from person to person, so the wave travelled round while the people stayed.. *Why:* A strong answer says what each person did and what travelled.
 15. (draw) Draw a dupatta with a bump on it. Draw one arrow to show which way the bump travels, and another to show which way a clothes peg on it moves.  
    **Answer:** The bump arrow points along the dupatta towards the door. The peg arrow points up and down.. *Why:* A strong drawing shows that the bump and the peg move in different directions: the bump along, the peg up and down.
 ### Wave Speed Detective (stretch) (stretch, 15 questions)
-1. (mcq) Arjun, a boy in Class 3, says, 'If I push harder in the Tray Test, the wave will cross faster.' What would test his idea fairly?  
+1. (mcq) Imran, a boy in Class 3, says, 'If I push harder in the Tray Test, the wave will cross faster.' What would test his idea fairly?  
    Options: Push harder and make the water deeper at the same time / Change trays each time / Keep the depth the same, and try a small push and a big push  
    **Answer:** Keep the depth the same, and try a small push and a big push. *Why:* To test the push, only the push may change. If the depth changed too, you could not tell which one made the difference.
 2. (mcq) A wave in the tray takes 3 seconds to go there and back once. How long would three trips there and back take?  
@@ -578,12 +573,12 @@ Meenakshi grinned. "And the deep water is a quick crowd."
    **Answer:** 2. *Why:* The paper boat is carried by water that is itself flowing. In the other three, energy travels while the material stays.
 11. (perspective) Lakshmi and her grandmother are at Marina Beach in Chennai, watching the waves come in.  
    **Answer:** A strong answer picks a side, uses evidence from the bucket or tray, and fairly says what the other person has right.. *Why:* Both have part of the truth. Far out, the water mostly goes round in small circles. Where waves break near the beach, water really does rush up the sand.
-12. (write) Kavya's Tray Test: 1 cm took 6 seconds, 2 cm took 4 seconds, 4 cm took 3 seconds. Write what pattern you see, and predict what happens at 6 cm.  
+12. (write) Kavya, a girl in Class 3, did the Tray Test. She found that 1 cm took 6 seconds, 2 cm took 4 seconds and 4 cm took 3 seconds. Write what pattern you see, and predict what happens at 6 cm.  
    **Answer:** The deeper the water, the shorter the time, so the faster the wave. At 6 cm, the time would be a little shorter than 3 seconds.. *Why:* A strong answer states the pattern in words and makes a prediction that follows it, without guessing a time below zero or a big jump.
 13. (write) In the family stadium wave, the wave was slower when everyone counted 'one, two' before standing. The first person started it the same way both times. What does this tell you about what sets a wave's speed?  
    **Answer:** The speed was set by how quickly each person passed it on, not by the person who started it. So the medium, here the people, sets the speed of a wave.. *Why:* A strong answer connects the speed to the people in the line and not to the start.
-14. (write) A crow sits on a pond as ripples pass. Say what the crow will do, and why.  
-   **Answer:** The crow will bob up and down as each ripple passes, but stay in about the same place, because ripples carry energy, not water.. *Why:* A strong answer uses the idea that the water stays in place.
+14. (write) A duck sits on a pond as ripples pass. Say what the duck will do, and why.  
+   **Answer:** The duck will bob up and down as each ripple passes, but stay in about the same place, because ripples carry energy, not water.. *Why:* A strong answer uses the idea that the water stays in place.
 15. (draw) Draw a tray seen from the side, with water in it. Draw a wave travelling across it, and label the crest and the trough.  
    **Answer:** A side view of a tray with a wavy water surface, the top labelled crest and the bottom labelled trough.. *Why:* A strong drawing shows the water level, the wave shape, and both labels in the right places.
 ### Waves Inside the Earth (challenge) (challenge, 15 questions)
@@ -599,7 +594,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 4. (mcq) In 1929, a big earthquake shook New Zealand. Machines on the far side of the world recorded faint waves where a fully liquid core would leave none. What did Inge Lehmann conclude?  
    Options: The machines were broken / The core has a solid ball inside it / The Earth is hollow  
    **Answer:** The core has a solid ball inside it. *Why:* Lehmann showed that a solid inner core would bend the waves so that some reach those places. More sensitive machines confirmed this in 1970.
-5. (mcq) Divya pushes the water in a tray once. The wave fades after one trip. What would help her see it for longer?  
+5. (mcq) Divya, a girl in Class 3, pushes the water in a tray once. The wave fades after one trip. What would help her see it for longer?  
    Options: Use deeper water, so the bottom slows the wave less / Use a smaller tray / Push it sideways  
    **Answer:** Use deeper water, so the bottom slows the wave less. *Why:* In very shallow water, rubbing against the bottom takes the wave's energy quickly. In deeper water the wave lasts longer. A torch at a slant also helps.
 6. (sort) Sort these waves by what they travel through.  
@@ -618,7 +613,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
    **Answer:** Almost none. The air near your mouth only moves back and forth a tiny bit and passes the energy on, like the water passing ripples under the puffed rice. What reaches your friend is the energy of the wave.. *Why:* A strong answer links sound to the puffed rice result and says what travels and what stays.
 13. (write) Why do you think a tsunami warning centre needs to know how deep the sea is?  
    **Answer:** Because the speed of the tsunami depends on the depth of the sea. Knowing the depth, they can work out when the wave will reach each part of the coast and warn people in time.. *Why:* A strong answer connects depth to speed and speed to arrival time.
-14. (write) In the bucket, the puffed rice crept forward about 1 cm. Kavya says, 'So waves do carry water after all.' What would you say to her?  
+14. (write) In the bucket, the puffed rice crept forward about 1 cm. Kavya, a girl in Class 3, says, 'So waves do carry water after all.' What would you say to her?  
    **Answer:** The puffed rice moved only a centimetre while the ripples crossed the whole bucket. The water mostly goes round in small circles, and each circle ends slightly forward, so floating things creep a little. But the wave's energy went much further than the water did.. *Why:* A strong answer takes Kavya's evidence seriously, compares the distances, and explains the small creep.
 15. (draw) Draw the Earth cut in half. Show the crust, the mantle, the liquid outer core and the solid inner core. Draw one earthquake wave bending as it goes through.  
    **Answer:** A circle with layers from outside to inside: crust, mantle, liquid outer core, solid inner core, and a curved line through them.. *Why:* A strong drawing has the four layers in the right order and a wave path that bends where layers meet.
@@ -670,16 +665,16 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - Tsunami warning centres, like the one in Hyderabad, use the depth of the sea to work out when a wave will reach each part of the coast.
 - Seismologists use earthquake waves to map the inside of the Earth and to find oil and water underground.
 - Doctors use sound waves in an ultrasound scan to see a baby inside the mother, or to look at a heart.
-- Breakwaters at harbours such as Chennai and Visakhapatnam calm the waves so ships can load safely.
+- Breakwaters at harbours such as Chennai and Visakhapatnam, and the tetrapods along Marine Drive in Mumbai, calm the waves so ships can load safely and the shore is protected.
 - Engineers design buildings in earthquake zones so that earthquake waves shake them without breaking them.
 - Phones, radios and television use waves to carry messages without any wire.
 - Some places are testing machines that turn the energy of sea waves into electricity.
 
 ## Spotted around us
 - Ripples when a drop from the tap falls into a full bucket.
-- Waves at Marina Beach in Chennai, at Kovalam in Kerala or on any beach, with a fishing boat bobbing far out.
+- Waves at Marina Beach in Chennai, at Juhu in Mumbai, at Puri in Odisha or on any beach, with a fishing boat bobbing far out.
 - A Mexican wave in the stands at a cricket match.
-- A field of paddy or tall grass with waves running across it in the wind.
+- A paddy field in Kerala, Odisha or Assam, with waves running across it in the wind.
 - The tsunami warning signs and evacuation route boards along the coast of Tamil Nadu and Kerala.
 - A curtain rippling in the wind from a ceiling fan.
 
@@ -692,7 +687,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 ## Questions to ask kids
 - When a tap drips into the bucket, what travels to the edge?
 - Look at a ceiling fan blowing a curtain. Is the curtain making a wave? What travels along it?
-- If you shout to a friend across the room, does your air go across to them?
+- Put your fingers on your throat and hum. What do you feel? What is the shaking passing through?
 - Why do you think a boat out at sea bobs up and down but is not washed to the shore?
 - At the beach, which waves look faster: the ones far out, or the ones near the sand?
 - What could make a Mexican wave go faster?
@@ -701,25 +696,20 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 
 ## Jokes
 - What did the sea say to the beach? *Nothing. It just waved.*
-- Why did the ripple never get lost? *Because it always came back from the wall.*
-- Why was the Mexican wave so tired? *Everyone kept passing it on to someone else.*
 - What do you call a wave that won't go anywhere? *A puddle.*
-- Why did the puffed rice refuse to go to the far side of the bucket? *It only liked to bob along with friends.*
 - What did one wave say to the other wave? *I'm crest-fallen without you.*
-- Why did the dupatta feel important? *Because everything that happened passed through it.*
 - How do waves say goodbye? *They wave.*
 - Why was the shallow water so slow? *It didn't have the depth to hurry.*
 - What is a spring toy's favourite thing to do on holiday? *Go for a long stretch.*
 - Why did the crest and the trough never meet for lunch? *One was always up when the other was down.*
 - What did the earthquake wave say to the inner core? *You're solid, my friend.*
 - Why did the wave machine get top marks? *It always passed the test along.*
-- Why don't fish ever argue with ripples? *They can feel where it's going.*
 - What did the bucket say to the pencil? *Stop tapping me, you're making waves.*
 
 ## Connected maths
-- In the Tray Test, Meenakshi timed the wave at 1 cm three times: 5.4 seconds, 5.1 seconds and 5.6 seconds. What is the middle time? **5.4 seconds.**. Put the times in order: 5.1, 5.4, 5.6. The one in the middle is 5.4 seconds. The middle time stops one late press of the stopwatch from changing the answer too much. (queues `math.time.duration.L3`)
+- In the Tray Test, Meenakshi, a girl of 8, timed the wave at 1 cm three times: 5.4 seconds, 5.1 seconds and 5.6 seconds. What is the middle time? **5.4 seconds.**. Put the times in order: 5.1, 5.4, 5.6. The one in the middle is 5.4 seconds. The middle time stops one late press of the stopwatch from changing the answer too much. (queues `math.time.duration.L3`)
 - A Mexican wave travels about 20 seats each second. One stand has 100 seats in a row. About how long does the wave take to cross the stand? **About 5 seconds.**. 20 seats in 1 second. 40 seats in 2 seconds. 60 in 3, 80 in 4, 100 in 5. So 20 times 5 is 100, and the wave takes about 5 seconds. (queues `math.multiplication.multiplication-facts.L3`)
-- Water 4 times as deep carries a long wave about 2 times as fast. Lakshmi's wave took 6 seconds there and back in 1 cm of water. About how long should it take in 4 cm of water? **About 3 seconds.**. Twice as fast means it takes half the time. Half of 6 seconds is 3 seconds. This is a prediction, so check it in your own tray. (queues `math.multiplication.multiplication-facts.L3`)
+- Water 4 times as deep carries a long wave about 2 times as fast. Lakshmi, a girl in Class 3, timed her wave in the Tray Test. It took 6 seconds there and back in 1 cm of water. About how long should it take in 4 cm of water? **About 3 seconds.**. Twice as fast means it takes half the time. Half of 6 seconds is 3 seconds. This is a prediction, so check it in your own tray. (queues `math.multiplication.multiplication-facts.L3`)
 - A tsunami can travel about 800 kilometres in an hour over the deep ocean. Near the shore it slows to about 40 kilometres in an hour. How many times faster is it in the deep ocean? **About 20 times faster.**. 40 times 2 is 80. 40 times 20 is 800. So 800 is 20 lots of 40, and the deep-ocean wave is about 20 times faster. (queues `math.multiplication.multiplication-facts.L3`)
 - Your straw wave machine has a straw every 3 cm. There are 50 straws. About how long is the machine? **About 150 cm, or 1.5 metres.**. Each straw takes 3 cm. 50 straws take 50 times 3 cm. 5 times 3 is 15, so 50 times 3 is 150 cm. (queues `math.multiplication.multiplication-facts.L3`)
 
@@ -734,7 +724,7 @@ Everything Hums (sci.sound.L3): Topic-level song for Sound L3
 - [Marina Beach](https://en.wikipedia.org/wiki/Marina_Beach) · place · Chennai: Watch the waves come in, and look for a fishing boat bobbing far out. Stay well back from the water.
 
 ## Things to buy
-- [A plastic spring toy, also sold as a magic spring or rainbow spring](https://www.amazon.in/s?k=magic+spring+toy+rainbow) (tool): It shows push waves and shake waves very clearly. It is cheap and sold in toy shops, at fairs and online. If you do not have one, use the dupatta and the family stadium wave instead. Used in a2. Used again in later sound units, to show how sound travels as squeezes in the air.
+- [A plastic spring toy, also sold as a magic spring or rainbow spring](https://www.amazon.in/s?k=magic+spring+toy+rainbow) (tool): It shows push waves and shake waves very clearly. It is cheap and sold in toy shops, at fairs and online. If you do not have one, use the dupatta and the family stadium wave instead. Used in a2. 
 
 ## Warm-up
 - What does a wave carry from place to place? → Energy.

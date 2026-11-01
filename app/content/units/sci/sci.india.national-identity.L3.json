@@ -7,8 +7,8 @@
   "art": "A child pressing a fist into a steel plate of atta, with a small paper Tricolour standing in a cup beside the plate, and a tiger walking through tall grass drawn faintly in the background."
  },
  "intro": {
-  "hook": "Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger made it?",
-  "text": "The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder, and it starts with knowing how many there are. In this unit you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.",
+  "hook": "Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger walked there?",
+  "text": "The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder. First you must know how many there are. In this unit you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.",
   "art": "Two fist prints side by side in a plate of atta, one small and faint, one wide and deep, with a ruler lying across them."
  },
  "outcomes": [
@@ -71,7 +71,7 @@
   },
   {
    "term": "Camera trap",
-   "meaning": "A camera trap is a camera fixed to a tree or a post in a forest. It takes a photo by itself whenever an animal walks past.",
+   "meaning": "A camera trap is a camera fixed to a tree or a post in a forest. Whenever an animal walks past, the camera takes a photo by itself.",
    "example": "A camera trap on a forest path in Nagarahole photographed a tigress at night.",
    "art": "A small camera strapped to a tree trunk beside a forest path, with a tiger walking past."
   },
@@ -127,9 +127,9 @@
    "concept": "The emblem and the rupee symbol",
    "status": "defined",
    "definition": "India's emblem is the Lion Capital of Ashoka: four lions sitting back to back on a round base, with the words Satyamev Jayate written below. The rupee symbol, ₹, joins the Devanagari letter र (ra) and the Roman letter R.",
-   "description": "Emperor Ashoka had the Lion Capital carved in stone at Sarnath, near Varanasi, about 2,250 years ago. It sat on top of a tall pillar. It is now in the museum at Sarnath. From the front you can only see three of the four lions. The base has an elephant, a horse, a bull and a lion carved on it, with a wheel between each of them. India took it as its emblem on 26 January 1950. The words Satyamev Jayate mean 'truth alone wins'. The ₹ symbol is much newer. In 2010 the government held an open competition. The winner was D. Udaya Kumar, a young designer from Tamil Nadu. His symbol was chosen on 15 July 2010. The two lines at its top also look like an equals sign.",
+   "description": "Emperor Ashoka had the Lion Capital carved in stone at Sarnath, near Varanasi, about 2,250 years ago. It sat on top of a tall pillar. It is now in the museum at Sarnath. From the front you can only see three of the four lions. The round base has carvings of an elephant, a horse, a bull and a lion, with a wheel between each of them. India took it as its emblem on 26 January 1950. The words Satyamev Jayate mean 'truth alone wins'. The ₹ symbol is much newer. In 2010 the government held an open competition. The winner was D. Udaya Kumar, a young designer from Tamil Nadu. His symbol was chosen on 15 July 2010. The two lines at its top also look like an equals sign.",
    "examples": [
-    "Look at any rupee note or coin. The Lion Capital is on it.",
+    "Look at any rupee note or coin. Every note and coin carries the Lion Capital.",
     "A price tag in a Madurai shop says ₹ 40. The ₹ means rupees.",
     "Passports and government letters have the emblem printed at the top."
    ],
@@ -182,7 +182,7 @@
   {
    "concept": "How India counts its tigers",
    "status": "defined",
-   "definition": "Today India counts its tigers mainly with camera traps. Each tiger's stripe pattern is different from every other tiger's, and it stays the same all their life. So a photo of the stripes shows exactly which tiger walked past.",
+   "definition": "Today India counts its tigers mainly with camera traps. Each tiger's stripe pattern is different from every other tiger's, and the pattern stays the same all their life. So a photo of the stripes shows exactly which tiger walked past.",
    "description": "From the 1970s, forest staff counted tigers from pugmarks. They traced each print on glass or paper and decided which prints came from the same tiger. But a print changes with the ground and with how the tiger walks. In soft wet mud it spreads and looks bigger. In dry dust its edges crumble. A heavy tiger, or one running, presses deeper. So one tiger could be counted as two, and two tigers as one. In the early 1990s, the Indian scientist K. Ullas Karanth began using camera traps in Nagarahole, Karnataka. He recognised each tiger from their stripes. In 2005, scientists found that Sariska Tiger Reserve in Rajasthan had no tigers left at all, though the official records had still shown tigers there. After that, India changed how it counts. Since 2006, every count every four years uses camera traps and careful sums. The count in 2006 found about 1,411 tigers. The count in 2022 photographed at least 3,167. That is about three out of every four wild tigers in the world.",
    "examples": [
     "A camera trap photographs a tigress's left side. Two weeks later another camera, 5 km away, photographs the same stripe pattern. It is the same tigress.",
@@ -191,7 +191,7 @@
    ],
    "perspectives": [],
    "art": "Two camera-trap photos of the same tiger's side, taken on different nights, with the same stripe pattern circled on both.",
-   "context": "This card explains why one footprint cannot tell you which tiger made it, and how stripes and camera traps solved the problem."
+   "context": "This card explains why one footprint cannot tell you which tiger walked there, and how stripes and camera traps solved the problem."
   },
   {
    "concept": "Does India have a national game?",
@@ -214,7 +214,7 @@
     },
     {
      "who": "People who say kabaddi",
-     "explanation": "Kabaddi needs no bat, ball or field, and it grew from games children played in Indian villages."
+     "explanation": "Kabaddi grew from village games children played across India, and needs no bat, ball or field."
     },
     {
      "who": "People who say none",
@@ -227,7 +227,7 @@
  ],
  "agreed": [
   {
-   "text": "Every tiger has their own stripe pattern, and it stays the same all their life.",
+   "text": "Every tiger has their own stripe pattern, which stays the same all their life.",
    "evidence": "Camera traps have photographed the same tigers again and again for many years, in Nagarahole and across India. Each one keeps the same stripes."
   },
   {
@@ -323,7 +323,7 @@
    "Shankar stopped laughing. He looked at the two tiger pugmarks again. 'So a tiger walking slowly on dry ground,' he said, 'and the same tiger stepping hard into wet mud...'",
    "'...could leave both of these,' said Meenakshi.",
    "'Could,' said Aunt Revathi. 'We don't know yet. A print tells us a tiger walked here. It can't tell us for sure which tiger. For that we need something on the tiger that never changes, whatever the ground is like.'",
-   "That evening she took Meenakshi to a tall jamun tree near the stream. A small grey box was strapped to the trunk at knee height. 'This is a camera trap,' said Aunt Revathi. 'When an animal walks past, it takes a photo by itself, day or night. There's another one across the path, so we get both sides.'",
+   "That evening she took Meenakshi to a tall jamun tree near the stream. A small grey box was strapped to the trunk at knee height. 'This is a camera trap,' said Aunt Revathi. 'When an animal walks past, the camera takes a photo by itself, day or night. There's another one across the path, so we get both sides.'",
    "For four days, Meenakshi checked the cameras with her aunt every morning. They saw photos of a sambar deer, two wild pigs, a porcupine and a very surprised peacock. On the fifth morning, there was a tiger.",
    "Back at the house, Aunt Revathi opened the photos on her laptop. A tigress was walking past the jamun tree in the moonlight. Then she opened a photo from another camera, near the old temple, taken two nights later.",
    "'Now look at her stripes,' she said. 'Just behind the shoulder. See that one shaped like a fish hook? And the two short ones above it, like a pair of eyebrows?'",
@@ -409,43 +409,43 @@
      "title": "10 camera-trap cards, all showing the left side (the back says which tiger)",
      "items": [
       {
-       "f": "Left side: a hook-shaped stripe, two short stripes above it",
+       "f": "Photo by the stream, at night. Left side: a hook-shaped stripe, two short stripes above it",
        "b": "Kaveri"
       },
       {
-       "f": "Left side: a hook-shaped stripe, two short stripes above it",
+       "f": "Photo on the temple path, at dawn. Left side: a hook-shaped stripe, two short stripes above it",
        "b": "Kaveri"
       },
       {
-       "f": "Left side: a hook-shaped stripe, two short stripes above it",
+       "f": "Photo under the jamun tree, in the evening. Left side: a hook-shaped stripe, two short stripes above it",
        "b": "Kaveri"
       },
       {
-       "f": "Left side: three long wavy stripes, one forked at the top",
+       "f": "Photo by the stream, at night. Left side: three long wavy stripes, one forked at the top",
        "b": "Tunga"
       },
       {
-       "f": "Left side: three long wavy stripes, one forked at the top",
+       "f": "Photo on the temple path, at dawn. Left side: three long wavy stripes, one forked at the top",
        "b": "Tunga"
       },
       {
-       "f": "Left side: a ring-shaped stripe with a dot inside",
+       "f": "Photo by the stream, at night. Left side: a ring-shaped stripe with a dot inside",
        "b": "Bhadra"
       },
       {
-       "f": "Left side: a ring-shaped stripe with a dot inside",
+       "f": "Photo on the temple path, at dawn. Left side: a ring-shaped stripe with a dot inside",
        "b": "Bhadra"
       },
       {
-       "f": "Left side: a ring-shaped stripe with a dot inside",
+       "f": "Photo under the jamun tree, in the evening. Left side: a ring-shaped stripe with a dot inside",
        "b": "Bhadra"
       },
       {
-       "f": "Left side: a stripe shaped like the letter Y, and a broken one below",
+       "f": "Photo by the stream, at night. Left side: a stripe shaped like the letter Y, and a broken one below",
        "b": "Sharavathi"
       },
       {
-       "f": "Left side: a stripe shaped like the letter Y, and a broken one below",
+       "f": "Photo on the temple path, at dawn. Left side: a stripe shaped like the letter Y, and a broken one below",
        "b": "Sharavathi"
       }
      ]
@@ -493,14 +493,14 @@
      "kid": "Turn the cards over. Which count was right? Why?",
      "check": {
       "t": "mcq",
-      "q": "Kaveri left a 14 cm print in wet mud and an 11 cm print on a dusty path. Why?",
+      "q": "A tigress called Kaveri left a 14 cm print in wet mud and an 11 cm print on a dusty path. Why?",
       "options": [
        "Kaveri's paw shrank",
        "Wet mud spreads under a paw, and dry dust does not",
        "Two different tigers made them"
       ],
       "a": 1,
-      "why": "The same paw makes a bigger print in soft wet mud, because the mud spreads and the paw sinks deeper. That is what your fist did in the damp and dry atta too. Thinking 'two different tigers' is the mistake forest staff once made."
+      "why": "The same paw makes a bigger print in soft wet mud, because the mud spreads and the paw sinks deeper. Thinking 'two different tigers' is the mistake forest staff once made."
      }
     }
    ],
@@ -542,16 +542,16 @@
        "b": "Wrong: a damaged flag is replaced"
       },
       {
-       "f": "After lowering the flag, Farhan folds it neatly and keeps it safe.",
+       "f": "After lowering the flag, a student folds it neatly and keeps it safe.",
        "b": "Right"
       },
       {
        "f": "Someone uses a flag as a tablecloth.",
-       "b": "Wrong"
+       "b": "Wrong: the flag is never used as a cloth or a cover"
       },
       {
        "f": "The flag is flown halfway down the pole when a national leader dies.",
-       "b": "Right: this is half mast"
+       "b": "Right: this is called half mast"
       },
       {
        "f": "A paper flag from 15 August is left lying on the road.",
@@ -559,14 +559,14 @@
       },
       {
        "f": "Another flag is flown higher than India's flag, on the same pole.",
-       "b": "Wrong"
+       "b": "Wrong: no flag may fly higher than India's"
       },
       {
        "f": "Everyone stands still and quiet while Jana Gana Mana is sung.",
        "b": "Right"
       },
       {
-       "f": "Kavya flies a paper Tricolour at home on Republic Day.",
+       "f": "A family flies a paper Tricolour at home on Republic Day.",
        "b": "Right: any citizen may fly the flag with respect"
       },
       {
@@ -581,16 +581,17 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and put them face down.",
-    "One player reads the top card aloud.",
-    "Everyone else says 'right' or 'wrong', and why.",
-    "Turn the card over to check. A correct answer with a reason scores 2 points. A correct answer without a reason scores 1."
+    "Shuffle the cards and put them face down in a pile.",
+    "Take turns to be the reader. The reader turns the top card, reads it aloud and keeps the back hidden.",
+    "The other players say 'right' or 'wrong', and why. With two players, the reader asks and the other answers; swap after every card.",
+    "The reader shows the back. A correct answer with a reason scores 2 points. A correct answer without a reason scores 1. A wrong answer scores 0.",
+    "When all 12 cards are used, add up the points. The highest score wins. If you are level, you both win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Shuffle the 12 cards. 2. Take turns reading one aloud. 3. Others say right or wrong, and why.",
+     "do": "1. Shuffle the 12 cards. 2. Take turns reading one aloud, and swap roles after every card. 3. The other player says right or wrong, and why. 4. The reader shows the back and gives points.",
      "say": "Right or wrong? And tell me why.",
      "kid": "Read a card. Is it right or wrong? Say why.",
      "context": "This is the first step of Flag Rules: Right or Wrong. You decide whether each way of treating the flag is right."
@@ -623,7 +624,7 @@
    "days": 1,
    "question": "Does the same fist leave the same size of print every time, on dry and damp ground, pressed gently and pressed hard?",
    "predict": "Guess first. If you press the same fist into dry atta and into damp atta, gently and then hard, will all four prints be the same width? Why do you think so?",
-   "fair_test": "Use the same fist every time, and measure every print the same way, across the four finger marks at the widest part. Only the ground or the press changes. Make each print twice, because one try can be a fluke.",
+   "fair_test": "Use the same fist every time, and measure every print the same way, across the four finger marks at the widest part. Only the ground or the press changes. Press 'gently' and 'hard' the same way each time: gently is just resting the fist, hard is as hard as is comfortable. Make each print twice, because one try can be a fluke.",
    "results_table": [
     "Ground",
     "Press",
@@ -633,7 +634,7 @@
    ],
    "materials": [
     {
-     "item": "whole wheat flour (atta), about 3 cups",
+     "item": "whole wheat flour (atta), about 6 cups (700 g)",
      "qty": 1
     },
     {
@@ -657,12 +658,11 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands before you start, so the atta can still be cooked afterwards. Sweep up spilled flour, because a floury floor is slippery.",
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Fill one plate with dry atta and one with damp atta. Press the same fist gently and hard into each. Measure every print. Then test whose print is whose."
+     "what": "Fill one plate with dry atta and one with damp atta. Press the same fist gently and hard into each. Measure every print. Then guess whose print is whose."
     }
    ],
    "record": "Fill in the results table. Draw one gentle print and one hard print, side by side, and write the widths under them.",
@@ -670,7 +670,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Pour about 1 and a half cups of dry atta into the first plate. 2. Make it about 2 cm deep. 3. Smooth the top flat with the edge of the ruler.",
+     "do": "1. Pour about 3 cups of dry atta into the first plate. 2. Make it about 2 cm deep. 3. Smooth the top flat with the edge of the ruler.",
      "say": "This plate is dry ground, like a dusty forest path in summer. Let's make it smooth and flat first.",
      "kid": "Wash your hands. Pour dry atta into the first plate. Smooth it flat with the ruler.",
      "parent": "Steel thalis with a rim work well. Keep the layer about 2 cm deep, so the fist does not hit the plate.",
@@ -679,7 +679,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Put about 1 and a half cups of atta in a bowl. 2. Add water one tablespoon at a time, rubbing it in with your fingers. 3. Stop when a pinch squeezed in your fingers holds together, like damp sand. 4. Spread it in the second plate, press it down lightly and smooth the top.",
+     "do": "1. Put about 3 cups of atta in a bowl. 2. Add water one tablespoon at a time, rubbing it in with your fingers. 3. Stop when a pinch squeezed in your fingers holds together, like damp sand. 4. Spread it in the second plate, press it down lightly and smooth the top.",
      "say": "This plate is damp ground, like mud by a stream. It should be crumbly, not a dough.",
      "kid": "Add water to the atta, one spoon at a time. Rub it in. Stop when a pinch holds together. Spread it in the second plate.",
      "parent": "About 4 to 5 tablespoons of water is usually enough. If it turns into a sticky dough, add a handful of dry atta and rub again. Damp, crumbly atta holds a sharp print. Use it for chapatis or puris the same day."
@@ -732,10 +732,10 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Your child looks away. 2. You, or another family member with a similar-sized hand, each make one print in the damp atta. 3. Your child turns round and guesses whose print is whose.",
-     "say": "Now let's be forest guards. Close your eyes. Two of us will each make one print. Can you tell whose is whose?",
-     "kid": "Close your eyes. Two people make prints. Open your eyes. Can you tell whose is whose?",
-     "parent": "Choose two people with hands of about the same size. If one press is hard and the other gentle, the smaller hand can leave the bigger print. Ask how sure your child feels, and why."
+     "do": "1. Your child looks away while you make one print in the damp atta, pressing as hard as you like. 2. Smooth a fresh patch. You look away while your child makes one print. 3. Look at the two prints together and guess whose is whose. Say how sure you are.",
+     "say": "Now let's be forest guards. I will make one print while you look away, and then you make one while I look away. Can we tell whose is whose?",
+     "kid": "Look away while your parent makes a print. Then your parent looks away while you make one. Can you tell whose is whose?",
+     "parent": "Others at home can join in, each making one print. If one press is hard and the other gentle, the smaller hand can leave the bigger print. Ask how sure your child feels, and why."
     },
     {
      "id": "s7",
@@ -835,7 +835,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety worries. Stand still and straight while you sing, as you would at school.",
    "schedule": [
     {
      "day": 1,
@@ -848,9 +847,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Read the words of the anthem together once, slowly. 2. Tell your child the full anthem should take about 52 seconds.",
+     "do": "1. Say the words of the anthem together once, slowly, so everyone knows them. 2. Tell your child the full anthem should take about 52 seconds.",
      "say": "The rules say our anthem takes about 52 seconds. Will each of us take that long? Why do you think so?",
-     "kid": "Read the anthem words once. It should take about 52 seconds. Will everyone take the same time? Why?",
+     "kid": "Say the anthem words once. Singing it should take about 52 seconds. Will everyone take the same time? Why?",
      "ask": [
       {
        "q": "Will everyone take the same time? Why do you think so?",
@@ -879,14 +878,14 @@
      "kid": "Now everyone sings together. Time it twice.",
      "check": {
       "t": "mcq",
-      "q": "Kavya sang the anthem in 60 seconds. Her grandmother sang it in 48 seconds. Who was closer to 52 seconds?",
+      "q": "Why do the times often come closer to each other when everyone sings together?",
       "options": [
-       "Kavya, by 8 seconds",
-       "Her grandmother, by 4 seconds",
-       "They were equally close"
+       "People listen to each other and match their speed",
+       "The anthem gets shorter when many people sing",
+       "The stopwatch runs slower"
       ],
-      "a": 1,
-      "why": "Kavya was 8 seconds over, because 60 minus 52 is 8. Her grandmother was 4 seconds under, because 52 minus 48 is 4. 4 is less than 8, so the grandmother was closer."
+      "a": 0,
+      "why": "When people sing together they listen and keep the same pace, so their times come closer to each other. They do not always come closer to 52 seconds."
      },
      "parent": "Singing together often brings the times closer to each other, because people listen and adjust. It does not always bring them closer to 52."
     },
@@ -896,7 +895,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think now? What did the clock show? And why do you think people sing at different speeds?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: people sing the same song at different speeds. What I saw: Amma took 56 seconds and I took 49. Together we took 53. Why: each person has their own pace. When we sing together, we listen and keep the same speed. That is why the official anthem has a fixed tune and timing, so a whole school can sing it as one."
+     "parent": "A good answer sounds like this. What I think: people sing the same song at different speeds. What I saw: my parent took 56 seconds and I took 49. Together we took 53. Why: each person has their own pace. When we sing together, we listen and keep the same speed. That is why the official anthem has a fixed tune and timing, so a whole school can sing it as one."
     }
    ],
    "context": "In this experiment you time your family singing India's national anthem, alone and together, and compare it with the official 52 seconds.",
@@ -920,7 +919,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a sheet of white paper, at least 30 cm by 20 cm (chart paper or 2 A4 sheets taped together)",
+     "item": "a sheet of white chart paper, cut to at least 30 cm by 20 cm",
      "qty": 1
     },
     {
@@ -940,7 +939,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -1034,11 +1032,9 @@
     },
     {
      "item": "a magnifying glass, if you have one",
-     "qty": 1,
-     "buy": "b-lens"
+     "qty": 1
     }
    ],
-   "safety": "Wash hands after handling money.",
    "schedule": [
     {
      "day": 1,
@@ -1071,7 +1067,7 @@
      "do": "1. Turn a note over. 2. Find the panel where the value is written in many languages. 3. Count the languages and find any your family can read.",
      "say": "On the back of a note, the amount is written in many Indian languages. How many can you count? Can anyone here read one?",
      "kid": "Turn the note over. Find the box of many languages. Count them. Can anyone read one?",
-     "parent": "The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali and Marathi. Hindi and English are on the front. Ask why the government prints so many."
+     "parent": "The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Odia and Assamese. Hindi and English are on the front. Ask why the government prints so many."
     }
    ],
    "context": "In this activity you hunt for India's emblem and the ₹ symbol on coins and notes, and count the languages on a rupee note.",
@@ -1101,7 +1097,6 @@
      "qty": 1
     }
    ],
-   "safety": "Ask only people your family knows, with a grown-up nearby.",
    "schedule": [
     {
      "day": 1,
@@ -1114,7 +1109,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Your child asks 5 family members or neighbours two questions. 2. 'What is India's national game?' 3. 'Is it official, or not?' 4. Write each answer and whether they felt sure.",
+     "do": "1. Your child asks 5 people you know, such as relatives or neighbours, by phone or in person two questions. 2. 'What is India's national game?' 3. 'Is it official, or not?' 4. Write each answer and whether they felt sure.",
      "say": "Let's ask five people what India's national game is. Write down how sure each one feels.",
      "kid": "Ask 5 people. What is India's national game? Is it official? Write their answers.",
      "context": "This is the first step of the Fact Check. You find out what people believe about India's national game."
@@ -1179,7 +1174,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety worries.",
    "schedule": [
     {
      "day": 1,
@@ -1280,7 +1274,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Family members are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.",
+     "do": "1. Family members or friends are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.",
      "say": "Welcome to the museum! Please tell us about this flag. How do scientists know which tiger is which?",
      "kid": "Welcome your visitors. Tell them about each thing. Answer their questions.",
      "ask": [
@@ -1301,7 +1295,7 @@
      "caption": "1. Set out the things. Write a label for each."
     },
     {
-     "art": "A girl pointing at the paper flag while her grandmother and father listen.",
+     "art": "A girl pointing at the paper flag while two visitors listen.",
      "caption": "2. Guide your visitors round. Answer their questions."
     }
    ]
@@ -1330,9 +1324,9 @@
     "Use one simple shape in the middle, like a circle or a star."
    ],
    "creative": [
-    "Use a shape that means something to your building, like the kolam drawn at your door every morning.",
+    "Use a shape that means something to your building, like a kolam or rangoli, if you have one at your door.",
     "Make each band stand for something real, the way saffron, white and green do.",
-    "Choose colours from things around you: the green of the neem tree in your street, the blue of the sea in Chennai."
+    "Choose colours from things around you: a tree in your street, the sea or a river nearby, the paint on your building."
    ],
    "your_turn": "Now design your own flag. Draw it, test it on three people, and change it until all three can draw it from memory.",
    "flow": [
@@ -1354,12 +1348,12 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Show the flag to someone for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory. 4. Compare. Change anything they got wrong, and test again.",
+     "do": "1. Show the flag to one person for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory. 4. Compare. Change anything they got wrong, and test again with two more people.",
      "say": "Let's test it. Did they remember every part? Which part did they forget? How could you make it simpler?",
      "kid": "Show your flag for 10 seconds. Hide it. Can they draw it? What did they forget?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi's flag has eight colours and tiny writing. Her friend can't draw it from memory. What would help most?",
+      "q": "Deepa, a girl in Class 4, designs a flag with eight colours and tiny writing. Her friend can't draw it from memory. What would help most?",
       "options": [
        "Add more writing",
        "Use fewer colours and bigger shapes",
@@ -1377,7 +1371,7 @@
      "caption": "1. Sketch three ideas. Pick the best."
     },
     {
-     "art": "A girl holding up her coloured flag across the room while her brother draws it from memory.",
+     "art": "A girl holding up her coloured flag across the room while a friend draws it from memory.",
      "caption": "2. Show it for 10 seconds. Can they draw it?"
     }
    ]
@@ -1425,15 +1419,15 @@
   },
   {
    "t": "mcq",
-   "p": "Lalitha draws a flag 15 cm long. How high should it be, to be 3 to 2?",
+   "p": "Lalitha, a girl in Class 3, draws a flag 18 cm high. How long should it be, to be 3 to 2?",
    "opts": [
-    "5 cm",
-    "10 cm",
-    "15 cm",
-    "20 cm"
+    "9 cm",
+    "12 cm",
+    "27 cm",
+    "36 cm"
    ],
-   "a": 1,
-   "why": "15 cm is 3 fives, so the height is 2 fives, 10 cm.",
+   "a": 2,
+   "why": "18 cm is 2 nines, so the length is 3 nines, 27 cm.",
    "outcome": 0
   },
   {
@@ -1503,7 +1497,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila presses her fist into damp atta, first gently, then hard. What will she find?",
+   "p": "Nila, a girl in Class 3, presses her fist into damp atta, first gently, then hard. What will she find?",
    "opts": [
     "Both prints are the same width",
     "The hard print is wider",
@@ -1638,7 +1632,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Meera says the flag should be flown with green on top on Republic Day. Is she right?",
+     "p": "Bhaswati, a girl in Class 3 in Kolkata, says the flag should be flown with green on top on Republic Day. Is she right?",
      "a": false,
      "why": "False. Saffron is always on top, every day. A flag with green on top is upside down."
     },
@@ -1702,7 +1696,7 @@
       "stripes",
       "stripe pattern"
      ],
-     "why": "Every tiger has their own stripe pattern, and it stays the same all their life."
+     "why": "Every tiger has their own stripe pattern, which stays the same all their life."
     },
     {
      "t": "draw",
@@ -1751,12 +1745,12 @@
        "Not an official symbol"
       ],
       [
-       "the elephant as national animal",
+       "the lion as India's national animal today",
        "Not an official symbol"
       ]
      ],
      "a": "see items",
-     "why": "The tiger, peacock, anthem and Lion Capital are official. No sport is official. The elephant is the national heritage animal, but the national animal is the tiger."
+     "why": "The tiger, peacock, anthem and Lion Capital are official. No sport is official. The lion was the national animal until 1973. Today the national animal is the tiger."
     },
     {
      "t": "label",
@@ -1801,7 +1795,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Revathi has two prints from her Paw Print Test: 6 cm in damp atta and 6 cm in dry atta. Her brother says this proves the ground makes no difference. What would you tell him?",
+     "p": "Hema has two prints from her Paw Print Test: 6 cm in damp atta and 6 cm in dry atta. Her brother says this proves the ground makes no difference. What would you tell him?",
      "lines": 4,
      "a": "One pair of prints can be a fluke. She should press each several times, the same way, and also look at the edges: dry prints are crumbly and blurred. The ground can change the shape and edges even when the width is close.",
      "why": "A strong answer asks for more tries before deciding, and looks at more than one thing about the print.",
@@ -1910,15 +1904,15 @@
     },
     {
      "t": "odd",
-     "p": "Which of these is the odd one out?",
+     "p": "Which of these does NOT help a tiger stay hidden while creeping up on a deer?",
      "opts": [
-      "Tiger",
-      "Peacock",
-      "Lotus",
-      "Hockey"
+      "Stripes that break up the tiger's shape",
+      "Creeping slowly and low",
+      "An orange coat that looks green to a deer",
+      "Roaring loudly"
      ],
      "a": 3,
-     "why": "The tiger, peacock and lotus are listed as India's national animal, bird and flower. Hockey has never been officially declared the national game."
+     "why": "Stripes, creeping and a coat that looks green to a deer all help the tiger get close without being seen. A loud roar would warn the deer."
     },
     {
      "t": "count",
@@ -2017,7 +2011,7 @@
     },
     {
      "t": "mcq",
-     "p": "Tara, a girl in Class 3, says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with her thinking?",
+     "p": "Mitali, a girl in Class 3 in Guwahati, says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with her thinking?",
      "opts": [
       "Nothing, there are three",
       "The fourth lion is hidden behind, because they sit back to back",
@@ -2043,7 +2037,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Anthem Clock, Mani's family sang alone in 47, 55 and 61 seconds, and together in 53 seconds. What does this best show?",
+     "p": "In the Anthem Clock, a family timed themselves. Alone they sang in 47, 55 and 61 seconds, and together in 53 seconds. What does this best show?",
      "opts": [
       "Everyone sings at the same speed",
       "Singing together brings people to one speed",
@@ -2188,7 +2182,7 @@
    "art": "An autorickshaw in Chennai with a small paper Tricolour tied to the front."
   },
   {
-   "text": "Peacock patterns woven into Kanchipuram silk saris and painted on temple walls.",
+   "text": "Peacock patterns woven into Kanchipuram and Paithani silk saris and painted on temple walls.",
    "art": "The border of a silk sari with peacocks woven in gold thread."
   },
   {
@@ -2238,10 +2232,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the tiger refuse to play hide and seek?",
-   "a": "Because he was always spotted. Wait, no, striped!"
-  },
-  {
    "j": "What does a tiger use to take a selfie?",
    "a": "A camera trap!"
   },
@@ -2258,20 +2248,12 @@
    "a": "To make a good impression."
   },
   {
-   "j": "How many spokes does a lazy Ashoka Chakra have?",
-   "a": "Still 24. Rules are rules!"
-  },
-  {
    "j": "Why did the lotus never need a bath?",
    "a": "Because water just rolls off their back."
   },
   {
    "j": "What did the camera trap say to the tiger?",
    "a": "Smile! Show me your left side."
-  },
-  {
-   "j": "Why was the anthem never late?",
-   "a": "Because it always finishes in 52 seconds."
   },
   {
    "j": "What did the forest guard say to the two pugmarks?",
@@ -2288,8 +2270,8 @@
  ],
  "maths": [
   {
-   "problem": "A flag must be 3 parts long for every 2 parts high. Revathi makes a flag 30 cm long. How high must it be? Her brother makes one 60 cm long. How high must his be?",
-   "answer": "Revathi's: 20 cm. Her brother's: 40 cm.",
+   "problem": "A flag must be 3 parts long for every 2 parts high. Hema makes a flag 30 cm long. How high must it be? Her brother makes one 60 cm long. How high must his be?",
+   "answer": "Hema's: 20 cm. Her brother's: 40 cm.",
    "explain": "30 cm is 3 groups of 10 cm, so the height is 2 groups of 10 cm, which is 20 cm. 60 cm is 3 groups of 20 cm, so the height is 2 groups of 20 cm, which is 40 cm. Check: a flag twice as long is twice as high.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "context": "This is about making an exact flag. India's flag is always 3 to 2: 3 parts long for every 2 parts high.",
@@ -2368,7 +2350,7 @@
  "song": {
   "topic_level": "sci.india.L3",
   "title": "One Flag, Many Voices",
-  "note": "Topic-level song for India: our country L3"
+  "note": "A song about India's symbols and the people who share them"
  },
  "links": [
   {
@@ -2398,19 +2380,7 @@
    "why": "The real Lion Capital of Ashoka, carved about 2,250 years ago, is on show here."
   }
  ],
- "buy": [
-  {
-   "id": "b-lens",
-   "item": "A magnifying glass",
-   "kind": "tool",
-   "why": "Useful for finding the tiny words Satyamev Jayate under the lions on a note. It is cheap at any stationery shop. Without one, read in bright light.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
-   "used_in": [
-    "a2"
-   ],
-   "plan": "Used again in many science units for looking closely at leaves, insects and soil."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "What are the three colours of India's flag, from top to bottom?",
@@ -2550,7 +2520,7 @@
   ],
   "science": [
    {
-    "text": "Every tiger has their own stripe pattern, and it stays the same all their life. The left and right sides are different.",
+    "text": "Every tiger has their own stripe pattern, which stays the same all their life. The left and right sides are different.",
     "status": "settled"
    },
    {

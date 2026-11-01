@@ -225,7 +225,7 @@
   {
    "q": "Light from Kratu left about 123 years ago. Are you seeing Kratu as he is now, or as he was?",
    "kind": "deep",
-   "hint": "Who in your family was alive 123 years ago? What could have changed since?"
+   "hint": "Was anyone you know alive 123 years ago? What could have changed since?"
   },
   {
    "q": "In 50,000 years the ladle will be bent out of shape. Will anyone then still call it the Saptarishi?",
@@ -253,7 +253,7 @@
    "Vikram put down a suitcase. 'So the old story picked the one pair in the ladle that really is a pair,' he said. 'Did the people who made it know that?'",
    "'Nobody could have measured it then,' said Lakshmi. 'Maybe it was luck. Maybe they just loved them for always being together.' Revathi laughed and hugged her. 'When we are in Chennai,' Vikram promised, 'I will go up on our terrace during a power cut and look for them.' 'Then switch off your phone first,' said Lakshmi. 'And wait.'"
   ],
-  "epiphany": "For the parent: from Earth, the seven stars of the Saptarishi look like a single group, but they are at different distances, so the ladle is a pattern seen from one place. Vikram assumes that stars which look together are together. Lakshmi knows they usually are not. Then comes a surprise: Arundhati (Alcor) and Vasishtha (Mizar) really are close in space and move together. So a pattern seen from Earth can hide real neighbours as well as false ones. Only measuring distances can tell which is which. The story also shows why the dark matters: with the streetlights on, Arundhati vanished.",
+  "epiphany": "For the parent: from Earth, the seven stars of the Saptarishi look like a single group, but they are at different distances, so the ladle is a pattern seen from one place. Vikram assumes that stars which look together are together. Lakshmi knows they usually are not. Then comes a surprise: Arundhati (Alcor) and Vasishtha (Mizar) really are close in space and move together. So a pattern seen from Earth can hide real neighbours as well as false ones. Only measuring distances can tell which is which. With the streetlights on, Arundhati vanished: the dark matters.",
   "ask": [
    "Why could Lakshmi see Arundhati on the first night but not when the streetlights were on?",
    "Why did Lakshmi tell Vikram not to look at his phone?",
@@ -275,7 +275,7 @@
    "id": "g1",
    "title": "The Moon's Journey Through the Nakshatras",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "board",
@@ -314,84 +314,138 @@
      "kind": "cards",
      "title": "18 question cards",
      "items": [
-      "The Moon is in Krittika tonight. Where will it be in 1 night?",
-      "The Moon is in Rohini tonight. Where will it be in 2 nights?",
-      "The Moon is in Ashwini tonight. Where will it be in 3 nights?",
-      "The Moon is in Magha tonight. Where will it be in 4 nights?",
-      "The Moon is in Chitra tonight. Where was it last night?",
-      "The Moon is in Revati tonight. Where will it be tomorrow? (Careful: the ring goes round.)",
-      "Onam is on Thiruvonam. What is its other name? (Shravana)",
-      "Karthigai Deepam is on which nakshatra? (Krittika)",
-      "How many nakshatras are there? (27)",
-      "About how many days does the Moon take to visit all of them? (About 27)",
-      "Which nakshatra is the star cluster called the Pleiades? (Krittika)",
-      "Which nakshatra is the red star in Orion, Thiruvathirai in Tamil? (Ardra)",
-      "Which way does the Moon move among the stars each night: east or west? (East)",
-      "Swati is a bright orange star. What did Edmond Halley find about it? (It had moved since Ptolemy's time.)",
-      "SKY CARD: If the Moon is up tonight, look and say which bright star is near it.",
-      "SKY CARD: Hold out your fist. How many fists does the Moon move in one night? (About one and a third)",
-      "The Moon is in Shravana tonight. Where will it be in 5 nights?",
-      "The Moon is in Mula tonight. Where was it 2 nights ago?"
+      {
+       "f": "Count on 1 space from the Moon token. In 1 night, which nakshatra will the Moon be in?",
+       "b": "The space just after the Moon token on the ring."
+      },
+      {
+       "f": "Count on 2 spaces from the Moon token. In 2 nights, which nakshatra will the Moon be in?",
+       "b": "The second space after the Moon token on the ring."
+      },
+      {
+       "f": "Count on 3 spaces from the Moon token. In 3 nights, which nakshatra will the Moon be in?",
+       "b": "The third space after the Moon token on the ring."
+      },
+      {
+       "f": "Count on 4 spaces from the Moon token. In 4 nights, which nakshatra will the Moon be in?",
+       "b": "The fourth space after the Moon token on the ring. After Revati the ring goes on to Ashwini."
+      },
+      {
+       "f": "Count on 5 spaces from the Moon token. In 5 nights, which nakshatra will the Moon be in?",
+       "b": "The fifth space after the Moon token on the ring. After Revati the ring goes on to Ashwini."
+      },
+      {
+       "f": "Count back 1 space from the Moon token. Which nakshatra was the Moon in last night?",
+       "b": "The space just before the Moon token. If the token is on Ashwini, the answer is Revati."
+      },
+      {
+       "f": "Count back 2 spaces from the Moon token. Which nakshatra was the Moon in 2 nights ago?",
+       "b": "The second space before the Moon token. Before Ashwini the ring goes back to Revati."
+      },
+      {
+       "f": "The Moon goes right round the ring in about 27 nights. Which nakshatra will it be in after 27 nights?",
+       "b": "The same one as now. The ring has 27 spaces, so 27 nights bring the Moon back to where it started."
+      },
+      {
+       "f": "Onam is on the day the Moon is in Thiruvonam. What is the other name of this nakshatra?",
+       "b": "Shravana."
+      },
+      {
+       "f": "Karthigai Deepam is lit on the day the Moon is in which nakshatra?",
+       "b": "Krittika."
+      },
+      {
+       "f": "How many nakshatras are there?",
+       "b": "27."
+      },
+      {
+       "f": "About how many days does the Moon take to visit all the nakshatras?",
+       "b": "About 27 days. The exact time is 27 and one-third days."
+      },
+      {
+       "f": "Which nakshatra is the star cluster that English speakers call the Pleiades?",
+       "b": "Krittika."
+      },
+      {
+       "f": "Which nakshatra is the red star in Orion that Tamil speakers call Thiruvathirai?",
+       "b": "Ardra."
+      },
+      {
+       "f": "Which way does the Moon move among the stars each night, east or west?",
+       "b": "East."
+      },
+      {
+       "f": "Swati is the bright orange star Arcturus. What did Edmond Halley find about it in 1718?",
+       "b": "It had moved since Ptolemy's time, about 1,500 years earlier."
+      },
+      {
+       "f": "Chitra is a bright white star. What is its English name?",
+       "b": "Spica."
+      },
+      {
+       "f": "Hold out your fist at arm's length. About how many fists does the Moon move among the stars in one night?",
+       "b": "About one and a third fists."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "A paper Moon token, and 20 small star tokens",
+     "title": "A paper Moon token, and 30 small star tokens",
      "items": [
-      "🌙",
-      "⭐"
+      "1 Moon token: cut a circle about 2 cm across from yellow paper, or use a coin",
+      "30 star tokens: cut 30 small paper stars, or use 30 dried beans"
      ]
     }
    ],
    "rules": [
-    "Put the Moon token on Ashwini. Shuffle the question cards and put them face down.",
-    "On your turn, take a card and read it out. Answer it using the board.",
-    "A right answer wins a star token. Then move the Moon token on by one space, because one more night has passed.",
-    "A SKY CARD can be done tonight. If you do it, you win two star tokens tomorrow.",
-    "When the Moon token has gone all the way round the ring, back to Ashwini, the game ends. The player with the most star tokens wins.",
-    "Count the turns at the end: the Moon took 27 turns to go round, just as the real Moon takes about 27 days."
+    "Put the Moon token on Ashwini. Shuffle the question cards and make a pile face down. Put the star tokens in a heap.",
+    "On your turn, take the top card and read the front aloud. Answer it, using the board for counting cards. The other players check the answer on the back of the card.",
+    "A right answer wins one star token. A wrong answer wins none.",
+    "Then move the Moon token on one space, in the order of the ring, because one night has passed. After Revati comes Ashwini.",
+    "Put the used card at the bottom of the pile. When the pile runs out, shuffle the used cards and make a new pile.",
+    "The game ends when the Moon token is back on Ashwini. The player with the most star tokens wins. A tie is a shared win. One player may take one turn more than another. That is fine."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Lay the board on the floor. 2. Put the Moon token on Ashwini. 3. Shuffle the cards.",
-     "say": "This ring is the Moon's path round the sky, split into 27 nakshatras. Each turn is one night. The Moon moves one space each night.",
+     "say": "This ring is the Moon's path round the sky, split into 27 nakshatras. Each turn is one night, and the Moon moves one space each night.",
      "kid": "This ring is the Moon's path. It has 27 nakshatras. Each turn is one night. The Moon moves one space.",
      "context": "This is the first step of the Moon's Journey game. It is a board game about the Moon moving through the 27 nakshatras."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'The Moon is in Krittika tonight. Where will it be in 1 night?' together as practice.",
-     "say": "Practice card. The Moon is in Krittika tonight. Where will it be tomorrow? Count one space on.",
-     "kid": "Practice card. The Moon is in Krittika. Count one space on. Where is it tomorrow?",
+     "do": "With the Moon token on Ashwini, find the card that says 'Count on 1 space' and play it together as practice.",
+     "say": "Practice card. The Moon is on Ashwini tonight. Count one space on the ring. Which nakshatra will it be in tomorrow night?",
+     "kid": "Practice card. The Moon is on Ashwini. Count one space on. Which nakshatra is the Moon in tomorrow?",
      "check": {
       "t": "mcq",
-      "q": "The Moon is in Krittika tonight. Where will it be tomorrow night?",
+      "q": "The Moon token is on Ashwini tonight. Which nakshatra will the Moon be in tomorrow night?",
       "options": [
        "Bharani",
-       "Rohini",
-       "Krittika again"
+       "Krittika",
+       "Revati"
       ],
-      "a": 1,
-      "why": "Rohini comes just after Krittika, and the Moon moves about one nakshatra a night. If you picked Bharani, you counted backwards. The Moon moves east among the stars, in the order of the list."
+      "a": 0,
+      "why": "Bharani comes just after Ashwini, and the Moon moves about one nakshatra a night, east among the stars, in the order of the ring. If you picked Revati, you counted backwards."
      }
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Play the game, taking turns, until the Moon token is back at Ashwini.",
-     "say": "Your turn. Read your card, answer it, then move the Moon one space.",
-     "kid": "Your turn. Read the card. Answer it. Then move the Moon one space.",
-     "parent": "Help with counting round the ring. After Revati comes Ashwini again."
+     "do": "Play the game, taking turns, until the Moon token is back on Ashwini.",
+     "say": "Your turn. Take a card, read it out and answer it. Then move the Moon one space.",
+     "kid": "Your turn. Take a card. Read it. Answer it. Then move the Moon one space.",
+     "parent": "Help with counting round the ring. After Revati comes Ashwini again. For a counting card, count on the board together if the answer is not clear."
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count how many turns the Moon took to go all the way round.",
+     "do": "Count how many turns the Moon took to go all the way round, one turn for each night.",
      "say": "How many turns did the Moon take to go all the way round? What does that tell us about the real Moon?",
-     "kid": "Count the turns. How many nights did the Moon take to go round?",
+     "kid": "Count the turns. How many nights did the Moon take to go all the way round?",
      "ask": [
       {
        "q": "What does the count tell us?",
@@ -426,34 +480,34 @@
      "title": "20 cards to cut out: 10 star patterns and 10 stories",
      "items": [
       "STARS: The Saptarishi, seven stars like a ladle",
+      "STARS: The Saptarishi, seven stars like a ladle",
       "STORY: Seven sages, with Arundhati beside Vasishtha (India)",
-      "STARS: The Saptarishi again",
-      "STORY: A bear, with hunters following her (the Mi'kmaq people of Canada)",
-      "STARS: Krittika, a tight little group",
+      "STORY: A bear with hunters following her (the Mi'kmaq people of Canada)",
+      "STARS: Krittika, a tight little group of six or seven stars",
+      "STARS: Krittika, a tight little group of six or seven stars",
+      "STARS: Krittika, a tight little group of six or seven stars",
       "STORY: Six mothers who cared for baby Kartikeya, or Murugan (India)",
-      "STARS: Krittika again",
       "STORY: Matariki, whose rising marks the new year (the Maori of New Zealand)",
-      "STARS: Krittika once more",
       "STORY: Seven sisters, one of them hard to see (Greece)",
       "STARS: Orion, three stars in a row with a red star above",
+      "STARS: Orion, three stars in a row with a red star above",
       "STORY: A hunter with a belt (Greece)",
-      "STARS: Orion again",
       "STORY: The deer's head, Mrigashira, and the red star Ardra (India)",
       "STARS: Scorpius, a curved line of stars with a red star",
-      "STORY: A scorpion (Greece and India, where it is Vrischika)",
-      "STARS: Scorpius again",
+      "STARS: Scorpius, a curved line of stars with a red star",
+      "STARS: Scorpius, a curved line of stars with a red star",
+      "STORY: A scorpion (Greece, and India where it is Vrischika)",
       "STORY: The magic fishhook of Maui, who pulled up islands (Hawaii and New Zealand)",
-      "STARS: Jyeshtha, the red star in Scorpius",
-      "STORY: The eldest, the meaning of the name Jyeshtha (India)"
+      "STORY: The red star is Jyeshtha, the eldest (India)"
      ]
     }
    ],
    "rules": [
     "Shuffle the 20 cards and lay them face down in rows.",
-    "On your turn, turn over two cards. If one is a STARS card and the other is a story told about those stars, you keep the pair.",
+    "On your turn, turn over two cards. If one is a STARS card and the other is a STORY told about those same stars, you keep the pair.",
     "Say which people tell that story. Then have another turn.",
     "If they do not match, turn them back face down. The next player has a turn.",
-    "When all cards are matched, the player with the most pairs wins."
+    "When all the cards are matched, the player with the most pairs wins. A tie is a shared win."
    ],
    "flow": [
     {
@@ -476,14 +530,14 @@
      "id": "s3",
      "mins": 2,
      "do": "At the end, ask the question below.",
-     "say": "Krittika had three stories. Did the stars change from story to story?",
-     "kid": "Krittika had three stories. Did the stars change?",
+     "say": "Two star groups here had three stories each. Which two were they?",
+     "kid": "Two star groups had three stories each. Which two?",
      "ask": [
       {
-       "q": "Why are there so many stories for the same stars?",
+       "q": "Which two star groups had three stories each?",
        "good": [
-        "Everyone sees the same stars but makes their own pictures.",
-        "Different people needed the stars for different things."
+        "Krittika, with the mothers, Matariki and the seven sisters.",
+        "Scorpius, with the scorpion, Maui's fishhook and Jyeshtha the eldest."
        ]
       }
      ]
@@ -523,7 +577,7 @@
      "qty": 7
     },
     {
-     "item": "a sheet of chart paper, or two sheets of newspaper taped together, about 50 cm across",
+     "item": "a sheet of chart paper, or two sheets of newspaper taped together, about 60 cm across",
      "qty": 1
     },
     {
@@ -555,8 +609,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Show your child the picture of the Saptarishi in the app. 2. Ask the guess question below and wait for the answer and the reason.",
+     "mins": 3,
+     "do": "1. On scrap paper, draw seven dots in the shape of a ladle together: four in a bowl and three in a handle. 2. Ask the guess question below and wait for the answer and the reason.",
      "say": "These seven stars make a ladle. If we could fly out into space and look from the side, would they still look like a ladle? Why do you think so?",
      "kid": "Look at the seven stars of the Saptarishi. They make a ladle. Would they still look like a ladle from the side? Guess. Say why.",
      "ask": [
@@ -573,8 +627,8 @@
     },
     {
      "id": "s2",
-     "mins": 6,
-     "do": "1. Tape the chart paper flat on a wall at your child's eye height when kneeling. 2. Measure from the bottom left corner of the paper and mark seven dots, using the list in the note. 3. Write each star's name next to its dot.",
+     "mins": 5,
+     "do": "1. Tape the chart paper flat on a wall, low enough that your child's eyes are level with the dots when kneeling. 2. Measure from the bottom left corner of the paper and mark seven dots, using the list in the note. 3. Write each star's name next to its dot.",
      "say": "This paper is the far sky. Let's mark where the seven stars are. Measure across from the left edge first, then up from the bottom.",
      "kid": "This paper is the sky. Measure across, then up. Mark each star with a dot. Write its name.",
      "parent": "Dot positions, in centimetres from the bottom left corner: Marichi 5 across and 5 up. Vasishtha 14 across and 13 up. Angiras 22 across and 14 up. Atri 31 across and 15 up. Pulastya 37 across and 10 up. Pulaha 49 across and 17 up. Kratu 46 across and 26 up. The dots make the ladle at the right size for the model.",
@@ -582,7 +636,7 @@
     },
     {
      "id": "s3",
-     "mins": 6,
+     "mins": 5,
      "do": "1. A grown-up pokes a hole in the middle of the Earth card with a sharp pencil. 2. Tape the card upright to the back of a chair, about 1 metre from the wall. 3. Make the hole level with the dots. 4. Tape one end of each thread to the front of the card, right at the edge of the hole.",
      "say": "This card is the Earth. We will look at the stars through this hole. Every thread starts at the Earth.",
      "kid": "The card is the Earth. A grown-up makes a hole in it. Tape all seven threads next to the hole.",
@@ -591,7 +645,7 @@
     },
     {
      "id": "s4",
-     "mins": 7,
+     "mins": 6,
      "do": "1. Stretch each thread from the card to one dot. 2. Pull it straight but not too tight, and tape it on the dot. 3. Measure along each thread from the card, and tape a paper star there. Use the distances in the note.",
      "say": "Each centimetre along the thread stands for 2 light-years. Kratu is about 123 light-years away, so his paper star goes at about 62 centimetres.",
      "kid": "Stretch each thread to its star dot. Tape it. Measure along the thread. Tape the paper star at the right place.",
@@ -599,8 +653,8 @@
     },
     {
      "id": "s5",
-     "mins": 4,
-     "do": "1. Your child stands behind the chair, closes one eye and looks through the hole in the Earth card. 2. They describe what they see and fill in the first row of the table.",
+     "mins": 3,
+     "do": "1. Your child kneels behind the chair, closes one eye and looks through the hole in the Earth card. 2. They describe what they see and fill in the first row of the table.",
      "say": "Look through the hole with one eye. What shape do the seven paper stars make?",
      "kid": "Close one eye. Look through the hole. What shape do the paper stars make? Write it down.",
      "ask": [
@@ -650,7 +704,7 @@
     },
     {
      "id": "s8",
-     "mins": 4,
+     "mins": 5,
      "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
      "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
@@ -703,11 +757,11 @@
      "qty": 1
     },
     {
-     "item": "a clock or timer that does not light up, or a grown-up outside the room calling out the time",
+     "item": "a phone with four alarms set for 1, 5, 10 and 15 minutes, left face down so its screen does not light the room",
      "qty": 1
     }
    ],
-   "safety": "Clear the floor before switching off the light, so nobody trips. A grown-up stays close by.",
+   "safety": "Clear the floor before switching off the light, so nobody trips.",
    "schedule": [
     {
      "day": 1,
@@ -746,10 +800,10 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Switch off the light. Leave only a thin line of light under the door. 2. After 1, 5, 10 and 15 minutes, your child counts the stars and calls out the number. 3. You write the numbers down without a bright light. A grown-up can call out the time from outside.",
+     "do": "1. Set the four alarms and switch off the light, leaving only a thin line of light under the door. A grown-up sits in the room. 2. When each alarm sounds (1, 5, 10 and 15 minutes), your child counts the stars and says the number aloud. 3. The grown-up remembers the number or writes it down by the line of light.",
      "say": "Now count. How many stars can you see? We'll count again in a few minutes.",
-     "kid": "Count the stars you can see. Say the number. Wait. Count again when the grown-up says.",
-     "parent": "If your child cannot see any stars even after 15 minutes, open the door a little more. If they see all 12 at once, the room is too bright: close the curtains or the door more. While you wait, chat quietly or tell the Krittika story from this unit."
+     "kid": "Count the stars you can see. Say the number when the alarm sounds. Then wait for the next alarm.",
+     "parent": "If your child cannot see any stars even after 15 minutes, open the door a little more. If they see all 12 at once, the room is too bright: close the curtains or the door more. Your numbers will not match the example chart. What matters is whether the count goes up. While you wait, chat quietly or tell the Arundhati story from this unit."
     },
     {
      "id": "s4",
@@ -891,11 +945,11 @@
      "say": "Hold your fist out straight, like this. How many fists fit between that bright star and the Moon?",
      "kid": "Hold your arm out straight. Make a fist. Count fists from the bright star to the Moon. Write it down.",
      "adult": true,
-     "parent": "A fist at arm's length covers about 10 degrees of sky, for children and grown-ups alike. If a building hides the star, choose another bright star and use it every night. If it is cloudy, skip that night and note the date."
+     "parent": "A fist at arm's length covers about 10 degrees of sky, for children and grown-ups alike. If a building hides the star, or no bright star is near the Moon, ask a grown-up to pick one with a sky map and use it every night. If it is cloudy, skip that night and note the date. After a missed night the Moon will have moved twice as far."
     },
     {
      "id": "s3",
-     "mins": 12,
+     "mins": 14,
      "do": "On the next two nights, at the same time and from the same spot, measure again from the same star.",
      "say": "Same time, same star. Where is the Moon tonight? How many fists away?",
      "kid": "Same time. Same star. Count the fists again. Did the Moon move?",
@@ -905,7 +959,7 @@
     },
     {
      "id": "s4",
-     "mins": 8,
+     "mins": 6,
      "do": "On day 4, look at the table together. Ask your child to say what I think, what I saw, and why.",
      "say": "How far did the Moon move each night? If it keeps going, how many nights to go all the way round the sky?",
      "kid": "How far did the Moon move each night? Which way? Say what you think, what you saw, and why.",
@@ -944,7 +998,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the dot picture of the stars of Orion in the app, printed or copied onto paper without lines",
+     "item": "a sheet of plain paper with 10 dots of Orion drawn on it by a grown-up (positions in the first step)",
      "qty": 1
     },
     {
@@ -952,7 +1006,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -965,16 +1018,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Give your child the dot picture. Do not say what it is. 2. Ask them to join any of the dots into a picture of anything they like.",
-     "say": "These dots are real stars that you can see from our balcony in winter. Join some of them to make a picture. It can be anything at all.",
+     "do": "1. A grown-up draws the 10 dots on a plain sheet before your child sees it, using the positions in the note. 2. Give your child the sheet without saying what it is. 3. Ask them to join any of the dots into a picture of anything they like.",
+     "say": "These dots are real stars that you can see from a balcony or window on winter evenings. Join some of them to make a picture. It can be anything at all.",
      "kid": "These dots are real stars. Join some of them. Make a picture of anything you like.",
-     "parent": "There is no right answer. Children often draw a person, a kite, a butterfly or an animal.",
+     "parent": "Dot positions, in centimetres from the bottom left corner of an upright page, about 14 cm across and 18 cm high: 3 across and 13 up (Betelgeuse). 11 and 13.5 (Bellatrix). 6 and 8 (Alnitak). 7.5 and 8.7 (Alnilam). 9 and 9.4 (Mintaka). 4 and 2.5 (Saiph). 12 and 3 (Rigel). 6.5 and 16.5, 7.5 and 16.5, 7 and 15.5 (the three small stars of the head). There is no right answer to the child's picture. Children often draw a person, a kite, a butterfly or an animal.",
      "context": "This is the first step of the One Sky, Many Pictures activity. You make your own star picture before learning other people's."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Show the two old pictures in the app. One is the Greek hunter Orion. The other is the Indian Mrigashira, the deer's head, with the red star Ardra nearby.",
+     "do": "Tell your child about the two old pictures and draw them on the dots in another colour. The Greek hunter joins Betelgeuse, Bellatrix, the three belt stars, Saiph and Rigel. The Indian Mrigashira, the deer's head, joins the three small dots at the top, and Ardra is the red star Betelgeuse.",
      "say": "The Greeks saw a hunter with a belt of three stars. In India, astronomers saw the head of a deer, Mrigashira, and named the red star Ardra. In Tamil it is Thiruvathirai.",
      "kid": "The Greeks saw a hunter here. Indian astronomers saw a deer's head. The red star is Ardra.",
      "ask": [
@@ -1004,12 +1057,12 @@
       "a": 1,
       "why": "The stars are the same. The pictures come from the people who joined them. Every culture made its own pictures. If you picked 'the stars moved', that is a good thought, because stars do move, but only very slowly. Both pictures are about 2,000 years old or more."
      },
-     "think": "If a child on another planet joined these dots, what might she see?"
+     "think": "If a child on another planet joined these dots, what might they see?"
     }
    ],
    "setup": [
     {
-     "art": "A sheet of paper with about fifteen white dots on dark blue, the stars of Orion, with no lines.",
+     "art": "A sheet of paper with ten white dots on dark blue, the stars of Orion, with no lines.",
      "caption": "1. Join the dots into your own picture."
     },
     {
@@ -1030,7 +1083,7 @@
      "qty": 1
     },
     {
-     "item": "a red stargazing torch (from the Red Torch activity), or no torch",
+     "item": "a red stargazing torch (made in the Red Torch activity), if you like",
      "qty": 1
     },
     {
@@ -1061,7 +1114,7 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Switch off the lights in the room behind the balcony. 2. Wait about 15 minutes without looking at a phone. 3. Look for seven bright stars making a ladle, low in the north.",
-     "say": "Let's give our eyes time. While we wait, tell me what you remember about the thread model.",
+     "say": "Let's give our eyes time. While we wait, tell me what you remember from the Thread Saptarishi model.",
      "kid": "Switch off the lights. Wait 15 minutes. No phone! Then look north for seven stars like a ladle.",
      "adult": true,
      "parent": "In much of South India the Saptarishi is quite low in the north, so tall buildings may hide part of it. Try different windows or the terrace. If you find the ladle on a dark night, look next to Vasishtha, the middle star of the handle, for tiny Arundhati."
@@ -1106,7 +1159,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1119,7 +1171,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read out the four short stories in the note, one by one. Show the picture of Krittika after each.",
+     "do": "1. Draw a tight group of six or seven dots in the middle of a page. This is Krittika. 2. Read out the four short stories in the note, one by one.",
      "say": "These four stories are all about the same small group of stars. Listen, and tell me what is the same in them.",
      "kid": "Listen to four stories. They are all about the same few stars. What is the same in them?",
      "parent": "1. India: the six Krittikas are mothers who cared for the baby Kartikeya, called Murugan in Tamil Nadu. 2. Greece: the Pleiades are seven sisters, and one is hard to see. 3. Many Aboriginal peoples of Australia: seven sisters are chased across the sky by a man. 4. The Maori of New Zealand: when Matariki rises before dawn in midwinter, the new year begins.",
@@ -1170,7 +1222,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a printed Tamil, Malayalam or other Indian calendar (panchangam), or the list in the note",
+     "item": "a printed panchang (Hindu calendar), such as a Tamil, Malayalam, Marathi or Bengali one, or the list in the note",
      "qty": 1
     },
     {
@@ -1178,7 +1230,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1194,7 +1245,7 @@
      "do": "Show your child a printed calendar. Point to where it names the nakshatra for each day.",
      "say": "This calendar tells us which nakshatra the Moon is in each day. Can you find today's?",
      "kid": "Find today on the calendar. Which nakshatra is the Moon in today?",
-     "parent": "Many Tamil and Malayalam calendars print the nakshatra for each day, often in a corner of the date box. A sky app also shows which star group the Moon is in.",
+     "parent": "Many Tamil, Malayalam, Marathi and Bengali calendars print the nakshatra for each day, often in a corner of the date box. If you have no printed calendar, go straight to the next step, where the list is.",
      "context": "This is the first step of the Festival Stars activity. You find out which festivals are timed by the Moon's nakshatra."
     },
     {
@@ -1203,7 +1254,7 @@
      "do": "Read out the festivals in the note. Your child fills in the table.",
      "say": "Each of these festivals happens on the day the Moon is in a certain nakshatra. Let's make a table.",
      "kid": "Listen to each festival. Write its name and its nakshatra in your table.",
-     "parent": "Onam: Thiruvonam, which is Shravana, in the month of Chingam. Karthigai Deepam: Krittika, in the month of Karthigai. Arudra Darshanam at Chidambaram: Thiruvathirai, which is Ardra, in Margazhi. Thaipusam: Pusam, which is Pushya, in the month of Thai. Panguni Uttiram: Uttiram, which is Uttara Phalguni, in Panguni."
+     "parent": "Onam: Thiruvonam, which is Shravana, in the month of Chingam. Karthigai Deepam: Krittika, in the month of Karthigai. Arudra Darshanam at Chidambaram: Thiruvathirai, which is Ardra, in Margazhi. Thaipusam: Pusam, which is Pushya, in the month of Thai. Panguni Uttiram: Uttiram, which is Uttara Phalguni, in Panguni. The names of the Hindu months come from the same stars: the month whose full Moon is in Krittika is Kartika, the one in Magha is Magha, and the one in Phalguni is Phalguna, when Holi is celebrated in much of North India and Dol Jatra in Bengal."
     },
     {
      "id": "s3",
@@ -1254,7 +1305,6 @@
      "qty": 1
     }
    ],
-   "safety": "Never shine any torch into someone's eyes.",
    "schedule": [
     {
      "day": 1,
@@ -1376,12 +1426,13 @@
         "The city lights hide the faint stars."
        ]
       }
-     ]
+     ],
+     "parent": "No app or star map? Use Orion, Krittika and the Saptarishi from this unit, and call the rest 'bright star' or 'planet'."
     }
    ],
    "setup": [
     {
-     "art": "A child's drawing of a city skyline of buildings, coconut trees and a water tank along the bottom of a page.",
+     "art": "A child's drawing of a city skyline of buildings, mango and coconut trees and a water tank along the bottom of a page.",
      "caption": "1. Draw the skyline in daylight."
     },
     {
@@ -1411,7 +1462,7 @@
    "general": [
     "Pick the brightest stars, because faint ones vanish in city light.",
     "Use the skyline to give directions: 'Start just above the left water tank.'",
-    "Choose a shape people know, like a kite, a kolam or a tumbler, so it is easy to remember."
+    "Choose a shape people know, like a kite, a kolam, a rangoli or a tumbler, so it is easy to remember."
    ],
    "creative": [
     "Use a planet as part of the shape, then watch it wander out of the pattern over a few weeks.",
@@ -1437,7 +1488,7 @@
      "kid": "Name your constellation. Write its story. Write how to find it.",
      "ask": [
       {
-       "q": "Would your constellation have the same shape from a planet round Kratu?",
+       "q": "Would your constellation have the same shape from a planet going round another star?",
        "good": [
         "No, the stars are at different distances, so it would look different.",
         "Only from near Earth."
@@ -1449,7 +1500,7 @@
      "id": "s3",
      "mins": 10,
      "do": "On another evening, give the directions to a family member. Can they find it alone?",
-     "say": "Let's test your directions. Can Amma find it on her own?",
+     "say": "Let's test your directions. Can someone at home or a friend find it on their own?",
      "kid": "Give your directions to someone. Can they find it alone?",
      "adult": true,
      "wait": "Do this on another clear evening."
@@ -1471,11 +1522,11 @@
    "id": "c2",
    "title": "Find It by Phone: tell a friend where a star is",
    "mins": 25,
-   "problem": "Your friend lives in another city. Over a phone call, help her find the same bright star or the Moon that you are looking at, at the same time. You may not send any pictures.",
+   "problem": "Your friend lives in another city. Over a phone call, help them find the same bright star or the Moon that you are looking at, at the same time. You may not send any pictures.",
    "constraints": [
     "Words only, no pictures or sky apps.",
     "Your friend must find it within 5 minutes.",
-    "The directions must work from her balcony, not yours."
+    "The directions must work from their balcony, not yours."
    ],
    "materials": [
     "a phone call with a friend or grandparent in another town",
@@ -1497,15 +1548,15 @@
      "id": "s1",
      "mins": 5,
      "do": "Plan with your child what words will help a friend find a star without pictures.",
-     "say": "Your friend can't see your balcony. What words will help her find the same star?",
-     "kid": "Your friend can't see your balcony. What words will help her find your star?",
+     "say": "Your friend can't see your balcony. What words will help them find the same star?",
+     "kid": "Your friend can't see your balcony. What words will help them find your star?",
      "context": "This is the first step of the Find It by Phone challenge. You describe where a star is, using only words."
     },
     {
      "id": "s2",
      "mins": 15,
      "do": "Make the phone call at an agreed time. Your child gives directions using direction, fists and brightness.",
-     "say": "Tell her which way to face. Then how many fists up. Then what is near it.",
+     "say": "Tell them which way to face. Then how many fists up. Then what is near it.",
      "kid": "Tell your friend which way to face. How many fists up? What is near it?",
      "adult": true
     },
@@ -1517,7 +1568,7 @@
      "kid": "Which words helped most? Was the Moon a good signpost? Why?",
      "ask": [
       {
-       "q": "Your friend is in Mysuru and you are in Chennai. Do you see the same stars?",
+       "q": "Suppose one friend is in Guwahati and another in Pune. Do they see the same stars?",
        "good": [
         "Almost the same, because the stars are so far away.",
         "Yes, the patterns look the same from anywhere on Earth."
@@ -1528,7 +1579,7 @@
    ],
    "setup": [
     {
-     "art": "A girl on a balcony in Chennai on a phone, holding up her fist to the sky.",
+     "art": "A girl on a balcony on a phone, holding up her fist to the sky.",
      "caption": "1. Plan your directions."
     },
     {
@@ -1546,7 +1597,7 @@
    "youtube": "sBfUBtdo8yo",
    "mins": 3,
    "why": "A short data film from a natural history museum. It shows the stars of the Big Dipper, which is the Saptarishi, moving over many thousands of years, so the ladle bends out of shape.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+   "check": "Preview it first. It is a short museum data film, not made for children."
   },
   {
    "title": "Where Are the Stars? See How Light Pollution Affects Night Skies",
@@ -1554,7 +1605,7 @@
    "youtube": "0FXJUP6_O1w",
    "mins": 3,
    "why": "Shows the same night sky under different amounts of city light, so a child sees why fewer stars show from a city flat.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+   "check": "Preview it first."
   },
   {
    "title": "Constellations for Kids",
@@ -1562,7 +1613,7 @@
    "youtube": "pqis3gZwVaY",
    "mins": 10,
    "why": "A children's introduction to what constellations are and how to find some of them. It uses the Western names, so pause to give the Indian names too.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it, and check any myths it tells against this unit."
+   "check": "Preview it first, and check any myths it tells against this unit."
   }
  ],
  "quiz": [
@@ -1580,7 +1631,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Thread Saptarishi model, Meenakshi looked at the paper stars from the side. What did she see?",
+   "p": "In the Thread Saptarishi model, Meenakshi, a girl in Class 3, looked at the paper stars from the side. What did she see?",
    "opts": [
     "A ladle, just like from the Earth card",
     "Five paper stars close together, and two much further away",
@@ -1591,20 +1642,6 @@
    "how": "e1",
    "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
    "why": "Five stars are about 80 light-years away and two are much further. From the side, the distance differences show. The ladle shows only from the Earth card."
-  },
-  {
-   "t": "mcq",
-   "p": "In the thread model, why did the ladle show only from the hole in the Earth card?",
-   "opts": [
-    "Because the paper stars are lined up along threads that all start there",
-    "Because the card is magic",
-    "Because the wall is flat"
-   ],
-   "a": 0,
-   "outcome": 1,
-   "how": "e1",
-   "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
-   "why": "Each thread points from the Earth card to a star's direction. Only from the card do the paper stars sit in those directions. Real constellations work the same way, seen from Earth."
   },
   {
    "t": "mcq",
@@ -1689,20 +1726,6 @@
    "a": 0,
    "outcome": 5,
    "why": "Her eyes need 20 to 30 minutes of darkness to see faint stars. A bright phone screen or white torch undoes it. A dim red light is fine."
-  },
-  {
-   "t": "mcq",
-   "p": "In the Eyes in the Dark test, why did you see more paper stars after 15 minutes than after 1 minute?",
-   "opts": [
-    "My eyes got better at seeing in dim light",
-    "The stars on the paper got darker",
-    "The room got brighter"
-   ],
-   "a": 0,
-   "outcome": 5,
-   "how": "e2",
-   "context": "In the Eyes in the Dark experiment, you sit in a nearly dark room and count faint pencil stars on a paper after 1, 5, 10 and 15 minutes.",
-   "why": "Nothing changed in the room. The cells in your eyes that work in dim light became more sensitive. This is dark adaptation."
   },
   {
    "t": "mcq",
@@ -1947,7 +1970,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Eyes in the Dark test, Divya's younger brother switches on the room light for a moment after 10 minutes. What will happen to her count?",
+     "p": "Divya, a girl in Class 4, is doing the Eyes in the Dark test. After 10 minutes her younger brother switches on the room light for a moment. What will happen to her count?",
      "opts": [
       "It goes up",
       "It drops, and she has to wait again",
@@ -1969,7 +1992,7 @@
     },
     {
      "t": "write",
-     "p": "In the Moon's Daily Step experiment, Kavya found the Moon was 1 fist east of a bright star on Monday and about 3 and a half fists east on Wednesday, at the same time. How far did the Moon move each night? About how long would it take to go all the way round the sky?",
+     "p": "In the Moon's Daily Step experiment, Kavya, a girl in your class, found the Moon was 1 fist east of a bright star on Monday and about 3 and a half fists east on Wednesday, at the same time. How far did the Moon move each night? About how long would it take to go all the way round the sky?",
      "lines": 4,
      "how": "e3",
      "context": "In the Moon's Daily Step experiment, you measure with your fist how far the Moon is from a bright star, at the same time on three nights.",
@@ -2085,7 +2108,7 @@
     },
     {
      "t": "perspective",
-     "p": "Many families in India know a child's birth nakshatra. Some say it is a lovely tradition. Some say it shapes a child's character. A scientist has tested that second idea.",
+     "p": "Many families in India know a child's birth nakshatra. Priya is a girl in Class 3, and her grandmother keeps this tradition. Some people say it is a lovely tradition. Some say it shapes a child's character. A scientist has tested that second idea.",
      "views": [
       {
        "who": "Priya's grandmother",
@@ -2170,12 +2193,12 @@
        "says": "Everyone needs the same map, so that a star found in Chennai and a star found in Chile can be given the same address."
       },
       {
-       "who": "Revathi, a teacher in Thanjavur",
+       "who": "Gauri, a teacher in Guwahati",
        "says": "Our children should first learn Saptarishi, Krittika and the nakshatras. These names carry our history and festivals."
       },
       {
        "who": "Anjali, aged 10",
-       "says": "We can learn both, like knowing a place's Tamil name and its name on a map."
+       "says": "We can learn both, like knowing a place's local name and its name on a map."
       }
      ],
      "ask": "Which view do you agree with most? Give a reason. Then say one thing another person has right.",
@@ -2251,7 +2274,7 @@
     },
     {
      "t": "write",
-     "p": "Sneha says: 'Halley must have been wrong. Ptolemy's list was just full of mistakes.' How did Halley answer that worry?",
+     "p": "Sneha, a girl in Class 5, says: 'Halley must have been wrong. Ptolemy's list was just full of mistakes.' How did Halley answer that worry?",
      "lines": 4,
      "a": "Halley noticed that most stars matched Ptolemy's list well. Only a few bright stars, like Sirius and Arcturus, were out of place by a lot. It is unlikely that Ptolemy would make large mistakes only on the brightest stars and not their neighbours. So those stars had really moved.",
      "why": "A strong answer explains that the pattern of the differences, not one difference, is the evidence."
@@ -2323,7 +2346,7 @@
   "Spacecraft find their direction with star trackers: small cameras that recognise star patterns, as a stargazer does.",
   "The Gaia spacecraft measured the distances and movements of over a billion stars, showing how the constellations will change.",
   "Birds such as indigo buntings, which fly at night, learn the stars round the Pole Star when young, and use them to keep their direction on their long journeys.",
-  "Planetariums, such as those in Bengaluru, Hyderabad and Thiruvananthapuram, use star maps to show the sky as it was long ago or will be in the future.",
+  "Planetariums, such as those in Bengaluru, Kolkata, Hyderabad and Thiruvananthapuram, use star maps to show the sky as it was long ago or will be in the future.",
   "Towns and parks that cut light pollution, called dark-sky places, let people see the stars again and protect night animals."
  ],
  "spotted": [
@@ -2340,7 +2363,7 @@
    "art": "Three stars in a line with a red star above, over a city skyline."
   },
   {
-   "text": "The nakshatra of the day, printed in the corner of each date on a Tamil or Malayalam calendar.",
+   "text": "The nakshatra of the day, printed in the corner of each date on a Tamil, Malayalam, Marathi or Bengali calendar.",
    "art": "A wall calendar in a kitchen with small words in the corner of each date."
   },
   {
@@ -2386,30 +2409,18 @@
   "What picture would you make from the stars above our building?",
   "How long do you think your eyes need in the dark before we look for faint stars?",
   "Why do you think we can see more stars during a power cut?",
-  "The light from that star left before your great-grandmother was born. What was the world like then?",
+  "The light from that star left before your grandparents were born. What was the world like then?",
   "Do you think the stars will look the same when you are a grandmother or grandfather?",
   "Where will the Moon be tomorrow night, among the stars?"
  ],
  "jokes": [
   {
-   "j": "Why did the Moon visit 27 nakshatras every month?",
-   "a": "It liked staying somewhere new every night."
-  },
-  {
    "j": "What did Kratu say to the other stars of the Saptarishi?",
-   "a": "You look close, but I'm miles behind you. Light-years, actually."
-  },
-  {
-   "j": "Why did the paper star refuse to move?",
-   "a": "It was told to stay fixed, like in the old days."
+   "a": "You look close, but I'm light-years behind you!"
   },
   {
    "j": "What do you call a star pattern that only you can see?",
    "a": "A one-person-stellation."
-  },
-  {
-   "j": "Why did the stargazer put red plastic on her torch?",
-   "a": "So her eyes didn't see red when it was switched on."
   },
   {
    "j": "What did Arundhati say to Vasishtha?",
@@ -2428,16 +2439,12 @@
    "a": "Lights out, stars on!"
   },
   {
-   "j": "Why did the Moon get lost on the 28th night?",
-   "a": "It forgot it had already gone all the way round."
-  },
-  {
    "j": "Why did the ladle in the sky never serve rasam?",
    "a": "Its stars were too far apart to hold anything."
   },
   {
    "j": "Which star is always in a hurry?",
-   "a": "Arcturus. It has been rushing since Ptolemy's time."
+   "a": "Arcturus. It has been rushing across the sky since Ptolemy's time."
   },
   {
    "j": "Why did the thread model make the grown-up trip?",
@@ -2446,10 +2453,6 @@
   {
    "j": "What did the planet say when it wandered through Krittika?",
    "a": "Just passing through, sisters!"
-  },
-  {
-   "j": "Why did the child bring a fist to the terrace?",
-   "a": "To measure the sky, of course."
   }
  ],
  "maths": [
@@ -2479,7 +2482,7 @@
    "why_maths": "The nakshatras go round in a circle, like the hours on a clock, so after the last one you start again from 1."
   },
   {
-   "problem": "In the Eyes in the Dark test, Lakshmi counted 3 stars after 1 minute, 6 after 5 minutes, 9 after 10 minutes and 10 after 15 minutes. Draw a bar chart. Between which two times did she gain the fewest stars? What does that tell you?",
+   "problem": "In the Eyes in the Dark test, Lakshmi, the girl in the story, counted 3 stars after 1 minute, 6 after 5 minutes, 9 after 10 minutes and 10 after 15 minutes. Draw a bar chart. Between which two times did she gain the fewest stars? What does that tell you?",
    "answer": "Between 10 and 15 minutes, when she gained only 1 star. Her eyes were getting close to their best.",
    "explain": "From 1 to 5 minutes she gained 3. From 5 to 10 she gained 3. From 10 to 15 she gained only 1. The gains get smaller, because the eyes have nearly finished adapting.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2589,8 +2592,7 @@
    "url": "https://www.amazon.in/s?k=red+cellophane+sheet",
    "used_in": [
     "a5"
-   ],
-   "plan": "Used on every night activity in this unit, and in the Stargazing unit for Class 5."
+   ]
   }
  ],
  "warmup": [
@@ -2722,7 +2724,7 @@
    "what_is_life": "Indigo buntings fly thousands of kilometres at night and need to keep their direction. As chicks they learn the stars that turn round the Pole Star, and use them to steer.",
    "what_is_this_world": "The stars are not stuck on a dome. They are scattered through deep space, near and far, and the flat sky is how that space looks from one small place."
   },
-  "thread": "There is one set of stars in space, and every people on Earth looks at it from the same place. Tamil families see Vasishtha and Arundhati. The Greeks saw a bear, and the Mi'kmaq of Canada see a bear followed by hunters. The stars are the same, and each people joined them into its own pictures and stories. In the same way, every place in space has its own sky made from the same stars. Each view is true from where it is seen, and none of them is the whole.",
+  "thread": "There is one set of stars in space, and every people on Earth looks at it from the same place. Indian families see Vasishtha and Arundhati. The Greeks saw a bear, and the Mi'kmaq of Canada see a bear followed by hunters. The stars are the same, and each people joined them into its own pictures and stories. In the same way, every place in space has its own sky made from the same stars. Each view is true from where it is seen, and none of them is the whole.",
   "teachings": [
    {
     "source": "Rig Veda 1.164.46",
@@ -2762,7 +2764,7 @@
   ],
   "art": "A child on a terrace looking up at the Saptarishi, with faint dotted lines showing the seven stars at different depths behind the sky, and far away a second planet whose child sees the same stars as a different shape."
  },
- "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat today, with the materials listed. The thread model was checked on paper: the seven dot positions make the ladle about 44 centimetres wide, which is the right size for the Saptarishi seen from 1 metre, so the paper stars sit on their dots when seen from the Earth card. The longest thread distance, Kratu at 62 centimetres, fits inside a 1 metre gap. The threads are taped at the edge of the hole rather than knotted through it, so the knot does not block the child's eye. The dark-room test uses pencil marks of different pressure and asks the parent to open or close the door if the child sees none or all at once. The Moon experiment says which week to choose and what to do on a cloudy night. Night sky activities are outside the spine, because clouds and season decide what can be seen.",
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat today, with the materials listed. The thread model was checked on paper: the seven dot positions make the ladle about 44 centimetres wide on a 60 centimetre sheet, which is the right size for the Saptarishi seen from 1 metre. The longest thread distance, Kratu at 62 centimetres, fits inside a 1 metre gap. The dark-room test uses pencil marks of different pressure, phone alarms for the times, and asks the parent to open or close the door if the child sees none or all at once. The Orion dots are drawn by hand from the positions given. The Moon experiment says which week to choose and what to do on a cloudy night. Night sky activities are outside the spine, because clouds and season decide what can be seen.",
  "how_we_found_out": {
   "story": "For about 2,000 years, astronomers called the stars the 'fixed stars'. The Moon, the Sun and the planets wandered across the sky, but the stars seemed to keep the same places against each other for ever. So the constellations would never change shape. In 1718, the English astronomer Edmond Halley tested this. He compared star positions measured in his own time with the star list in Ptolemy's book, the Almagest, made in Alexandria about 1,550 years earlier. Most stars matched. But a few bright stars, including Sirius and Arcturus, did not. They were out of place by about the width of the full Moon or more. Halley reasoned that Ptolemy could hardly have made such large mistakes on the brightest stars, while getting their neighbours right. So these stars must have moved. Later astronomers measured the movements of thousands of stars. Every star moves. They only look fixed because they are so far away. Arcturus is the nakshatra Swati, and it is one of the fastest-moving bright stars in our sky.",
   "who": "Edmond Halley, an English astronomer, using the star list of Ptolemy of Alexandria",

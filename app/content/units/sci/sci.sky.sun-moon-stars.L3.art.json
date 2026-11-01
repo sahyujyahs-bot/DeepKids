@@ -1,4 +1,52 @@
 {
+ "expl.10": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/expl.10.jpg",
+  "credit": "NASA/JPL-Caltech/UCLA, public domain"
+ },
+ "expl.13": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/expl.13.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.3": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/expl.3.jpg",
+  "credit": "NASA/JPL-Caltech/UCLA, public domain"
+ },
+ "expl.5": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/expl.5.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.7": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/expl.7.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.9": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/expl.9.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/flow.a2.jpg",
+  "credit": "NASA/Carla Thomas, public domain"
+ },
+ "flow.a4": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/flow.a4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/flow.a5.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/flow.c2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.e3": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/flow.e3.jpg",
+  "credit": "NASA/JPL-Caltech/JAXA, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/intro.jpg",
+  "credit": "NASA/Bill Ingalls, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.sun-moon-stars.L3/setup.e1.0.jpg",
   "drawn": true
@@ -35,5 +83,37 @@
   "src": "media/img/sci.sky.sun-moon-stars.L3/setup.e3.2.jpg",
   "drawn": true
  },
- "summary": "media/img/sci.sky.sun-moon-stars.L3/summary.jpg"
+ "summary": "media/img/sci.sky.sun-moon-stars.L3/summary.jpg",
+ "term.1": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.12.jpg",
+  "credit": "NASA/JPL-Caltech/IRAS /H. McCallon, public domain"
+ },
+ "term.14": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.14.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.19": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.19.jpg",
+  "credit": "NASA/JPL-Caltech, public domain"
+ },
+ "term.20": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.20.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.3": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.5": {
+  "src": "media/img/sci.sky.sun-moon-stars.L3/term.5.jpg",
+  "credit": "NASA, public domain"
+ }
 }

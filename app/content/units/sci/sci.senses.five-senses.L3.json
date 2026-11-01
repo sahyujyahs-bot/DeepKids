@@ -714,29 +714,101 @@
      "kind": "cards",
      "title": "24 cards to cut out: 12 animal cards and 12 super-sense cards",
      "items": [
-      "ANIMAL: Housefly",
+      {
+       "f": "ANIMAL: Housefly",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-00.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I taste with my feet.",
-      "ANIMAL: Cricket",
+      {
+       "f": "ANIMAL: Cricket",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-02.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
       "SENSE: My ears are on my front legs.",
-      "ANIMAL: Barn owl",
+      {
+       "f": "ANIMAL: Barn owl",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-04.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I catch mice in total darkness, by sound alone.",
-      "ANIMAL: Star-nosed mole",
+      {
+       "f": "ANIMAL: Star-nosed mole",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-06.jpg",
+        "credit": "Dan MacNeal, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: My nose has 22 fleshy fingers for touching.",
-      "ANIMAL: Catfish",
+      {
+       "f": "ANIMAL: Catfish",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-08.jpg",
+        "credit": "Nigel Hoadley, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: My whole skin is covered in taste buds.",
-      "ANIMAL: Honeybee",
+      {
+       "f": "ANIMAL: Honeybee",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-10.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I see ultraviolet stripes on flowers.",
-      "ANIMAL: Pit viper",
+      {
+       "f": "ANIMAL: Pit viper",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-12.jpg",
+        "credit": "Shaan Aroeste, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I feel the warmth of a mouse in the dark.",
-      "ANIMAL: Elephant",
+      {
+       "f": "ANIMAL: Elephant",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-14.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I hear rumbles far too low for you.",
-      "ANIMAL: Bat",
+      {
+       "f": "ANIMAL: Bat",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-16.jpg",
+        "credit": "Josep Fracés Balaguer, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I squeak and listen for echoes.",
-      "ANIMAL: Silk moth",
+      {
+       "f": "ANIMAL: Silk moth",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-18.jpg",
+        "credit": "Jaya Rakesh, CC0, via iNaturalist"
+       }
+      },
       "SENSE: I smell a mate from far away.",
-      "ANIMAL: Cat",
+      {
+       "f": "ANIMAL: Cat",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-20.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I cannot taste sweet at all.",
-      "ANIMAL: Parrot",
+      {
+       "f": "ANIMAL: Parrot",
+       "img": {
+        "src": "media/cards/five-senses-g1-0-22.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "SENSE: I eat chillies and feel no burn."
      ]
     },

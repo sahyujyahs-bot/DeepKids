@@ -602,20 +602,62 @@
      "kind": "cards",
      "title": "16 material cards, each with its main properties",
      "items": [
-      "STEEL: strong, rigid, shiny, carries heat well, waterproof, durable",
-      "WOOD: strong, rigid, does not carry heat well, floats, can rot when wet",
+      {
+       "f": "STEEL: strong, rigid, shiny, carries heat well, waterproof, durable",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-00.jpg",
+        "credit": "Abraham, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "WOOD: strong, rigid, does not carry heat well, floats, can rot when wet",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-01.jpg",
+        "credit": "Edukatori, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "PLASTIC: waterproof, light, can be bendy or stiff, does not carry heat or electricity, lasts a very long time",
       "GLASS: transparent, waterproof, hard, brittle",
-      "COTTON: soft, flexible, absorbent, breathes",
-      "WOOL: soft, warm, traps air, flexible",
+      {
+       "f": "COTTON: soft, flexible, absorbent, breathes",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-04.jpg",
+        "credit": "Robert Taylor, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "WOOL: soft, warm, traps air, flexible",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-05.jpg",
+        "credit": "Barney M, CC BY, via iNaturalist"
+       }
+      },
       "RUBBER: stretchy, bouncy, waterproof, grips well",
-      "CLAY (baked): porous, rigid, brittle, does not carry heat well",
+      {
+       "f": "CLAY (baked): porous, rigid, brittle, does not carry heat well",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-07.jpg",
+        "credit": "McKay Savage from London, UK, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "PAPER: light, absorbent, easy to cut, weak when wet",
       "COPPER: carries heat and electricity very well, bendy, shiny",
-      "BANANA LEAF: waterproof on top, flexible, rots away after use",
+      {
+       "f": "BANANA LEAF: waterproof on top, flexible, rots away after use",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-10.jpg",
+        "credit": "Cheongweei Gan, CC BY, via iNaturalist"
+       }
+      },
       "JUTE: strong when twisted into rope, rough, rots away after use",
       "ALUMINIUM: light, carries heat well, does not rust",
-      "BAMBOO: strong, light, flexible, grows fast",
+      {
+       "f": "BAMBOO: strong, light, flexible, grows fast",
+       "img": {
+        "src": "media/cards/using-materials-g1-1-13.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "SPONGE: soft, squashy, absorbent, light",
       "STONE: very hard, rigid, heavy, durable"
      ]

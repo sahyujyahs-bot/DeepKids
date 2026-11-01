@@ -663,34 +663,136 @@
      "items": [
       "Moong: Seed (a green moong seed)",
       "Moong: Seedling (a moong seedling with two round leaves)",
-      "Moong: Grown plant (a bushy moong plant)",
-      "Moong: Flower (a small yellow moong flower)",
+      {
+       "f": "Moong: Grown plant (a bushy moong plant)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-02.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Moong: Flower (a small yellow moong flower)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-03.jpg",
+        "credit": "swanand kesari, CC BY, via iNaturalist"
+       }
+      },
       "Moong: Fruit (a black moong pod full of seeds)",
       "Mango: Seed (a mango stone)",
-      "Mango: Seedling (a mango seedling with reddish new leaves)",
-      "Mango: Grown plant (a big mango tree)",
-      "Mango: Flower (a bunch of tiny mango flowers)",
+      {
+       "f": "Mango: Seedling (a mango seedling with reddish new leaves)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-06.jpg",
+        "credit": "Sham dattatray chavhan, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mango: Grown plant (a big mango tree)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-07.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mango: Flower (a bunch of tiny mango flowers)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-08.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "Mango: Fruit (a ripe mango with its stone)",
       "Sunflower: Seed (a striped sunflower seed)",
       "Sunflower: Seedling (a sunflower seedling)",
-      "Sunflower: Grown plant (a tall sunflower plant)",
-      "Sunflower: Flower (a big yellow sunflower)",
+      {
+       "f": "Sunflower: Grown plant (a tall sunflower plant)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-12.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sunflower: Flower (a big yellow sunflower)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-13.jpg",
+        "credit": "Manav Dhamani, CC BY, via iNaturalist"
+       }
+      },
       "Sunflower: Fruit (a sunflower head packed with seeds)",
       "Bhindi: Seed (a round bhindi seed)",
-      "Bhindi: Seedling (a bhindi seedling)",
-      "Bhindi: Grown plant (a bhindi plant)",
-      "Bhindi: Flower (a pale yellow bhindi flower)",
-      "Bhindi: Fruit (a bhindi pod cut open to show its seeds)",
+      {
+       "f": "Bhindi: Seedling (a bhindi seedling)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-16.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bhindi: Grown plant (a bhindi plant)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-17.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bhindi: Flower (a pale yellow bhindi flower)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-18.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bhindi: Fruit (a bhindi pod cut open to show its seeds)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-19.jpg",
+        "credit": "Sham dattatray chavhan, CC0, via iNaturalist"
+       }
+      },
       "Pumpkin: Seed (a flat pumpkin seed)",
       "Pumpkin: Seedling (a pumpkin seedling)",
-      "Pumpkin: Grown plant (a pumpkin vine)",
-      "Pumpkin: Flower (a yellow pumpkin flower with a tiny pumpkin behind it)",
+      {
+       "f": "Pumpkin: Grown plant (a pumpkin vine)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-22.jpg",
+        "credit": "nick_goldwater, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pumpkin: Flower (a yellow pumpkin flower with a tiny pumpkin behind it)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-23.jpg",
+        "credit": "Nicole Michel, CC BY, via iNaturalist"
+       }
+      },
       "Pumpkin: Fruit (a pumpkin cut open with seeds)",
-      "Rice: Seed (a grain of rice in the husk)",
+      {
+       "f": "Rice: Seed (a grain of rice in the husk)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-25.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
+      },
       "Rice: Seedling (a thin rice seedling)",
-      "Rice: Grown plant (a rice plant in a wet field)",
-      "Rice: Flower (rice flowers on the ear)",
-      "Rice: Fruit (a golden ear of rice grains)"
+      {
+       "f": "Rice: Grown plant (a rice plant in a wet field)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-27.jpg",
+        "credit": "Nihal Mahesh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rice: Flower (rice flowers on the ear)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-28.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rice: Fruit (a golden ear of rice grains)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g1-0-29.jpg",
+        "credit": "Вячеслав Юсупов, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
@@ -830,29 +932,131 @@
      "kind": "cards",
      "title": "24 cards to cut out: 12 flower cards and 12 fruit cards, each with a drawing and a name. The words in brackets say what to draw",
      "items": [
-      "Bhindi flower (pale yellow with a dark red middle)",
-      "Bhindi pod",
-      "Brinjal flower (purple with a yellow middle)",
-      "Brinjal",
-      "Tomato flower (small, yellow, star-shaped)",
+      {
+       "f": "Bhindi flower (pale yellow with a dark red middle)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-00.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bhindi pod",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-01.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Brinjal flower (purple with a yellow middle)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-02.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Brinjal",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-03.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Tomato flower (small, yellow, star-shaped)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-04.jpg",
+        "credit": "Aryan K, CC BY, via iNaturalist"
+       }
+      },
       "Tomato",
-      "Chilli flower (small and white)",
-      "Green chilli",
-      "Pea flower (white or pink, like a little bonnet)",
+      {
+       "f": "Chilli flower (small and white)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-06.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Green chilli",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-07.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pea flower (white or pink, like a little bonnet)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-08.jpg",
+        "credit": "zebedeugalinha, CC BY, via iNaturalist"
+       }
+      },
       "Pea pod",
-      "Pumpkin flower (big and yellow, with a tiny pumpkin behind it)",
+      {
+       "f": "Pumpkin flower (big and yellow, with a tiny pumpkin behind it)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-10.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
       "Pumpkin",
       "Mango flowers (a bunch of tiny cream flowers)",
       "Mango",
-      "Pomegranate flower (bright red)",
-      "Pomegranate with its crown",
-      "Guava flower (white and fluffy)",
-      "Guava",
-      "Banana flower (a big purple bud)",
-      "Bunch of bananas",
+      {
+       "f": "Pomegranate flower (bright red)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-14.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pomegranate with its crown",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-15.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Guava flower (white and fluffy)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-16.jpg",
+        "credit": "parithi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Guava",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-17.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Banana flower (a big purple bud)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-18.jpg",
+        "credit": "GERMAN LEONEL SARMIENTO CRUZ, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bunch of bananas",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-19.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
+      },
       "Coconut flowers (a creamy spray)",
-      "Coconut",
-      "Lotus flower (pink)",
+      {
+       "f": "Coconut",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-21.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus flower (pink)",
+       "img": {
+        "src": "media/cards/plant-life-cycle-g2-0-22.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
       "Lotus seed pod (like a showerhead)"
      ]
     },

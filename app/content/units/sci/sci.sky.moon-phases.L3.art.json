@@ -1,4 +1,36 @@
 {
+ "expl.11": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.11.jpg",
+  "credit": "NASA/Carla Thomas, public domain"
+ },
+ "expl.14": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.14.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.4": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.4.jpg",
+  "credit": "NASA/JPL, public domain"
+ },
+ "expl.5": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.5.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.6": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.6.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.7": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.7.jpg",
+  "credit": "NASA/GRC/Jordan Cochran, public domain"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.sky.moon-phases.L3/flow.c2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.moon-phases.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.moon-phases.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +66,41 @@
  "setup.e3.2": {
   "src": "media/img/sci.sky.moon-phases.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.sky.moon-phases.L3/summary.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.13": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.13.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.15": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.15.jpg",
+  "credit": "NASA/Carla Thomas, public domain"
+ },
+ "term.16": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.16.jpg",
+  "credit": "NASA/Carla Thomas, public domain"
+ },
+ "term.17": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.17.jpg",
+  "credit": "NASA/Jordan Cochran, public domain"
+ },
+ "term.2": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.2.jpg",
+  "credit": "NASA/Kim Shiflett, public domain"
+ },
+ "term.3": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.3.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.4": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.4.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.5": {
+  "src": "media/img/sci.sky.moon-phases.L3/term.5.jpg",
+  "credit": "NASA, public domain"
  }
 }

@@ -3,14 +3,14 @@
 
 **Summary.** A steel plate feels colder than a wooden board, even when both have sat in the same room all morning. Put an ice cube on each, and the ice on the steel melts first. Your skin does not read temperature like a thermometer. It feels how fast heat leaves it or comes into it. This is one of many senses that are not on the list of five. Your inner ears sense turning and tilting, your muscles tell you where your hands are, and pain warns you before you get badly hurt. Other animals have senses people lack: a fish feels the water move along their sides, and a prawn keeps their balance with grains of sand.
 
-**Intro.** *Spin round slowly five times, then sit down. The room seems to keep turning, though you and the room are both still. What is still spinning?* The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this unit you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, mint leaves and a bowl of water. Then you meet animals with senses people do not have.
+**Intro.** *Spin round slowly five times, then sit down. The room seems to keep turning, though you and the room are both still. What is still spinning?* The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this unit you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, a mint sweet and a bowl of water. Then you meet animals with senses people do not have.
 
 ## Learning outcomes
 0. I can name at least four senses that are not on the list of five, and say what each one tells me.
 1. I can explain why I feel dizzy after spinning, using the liquid in the loops of my inner ear.
 2. I can explain why a steel plate feels colder than a wooden board at the same temperature, using my ice test as evidence.
 3. I can say how my muscles and joints tell my brain where my hands and feet are, without my eyes.
-4. I can explain how pain protects the body, and what happens to people who cannot feel it.
+4. I can explain how pain protects the body, and what happens to people who have lost it.
 5. I can describe a sense that people lack but another animal has. I can say what problem the animal faces, and how the sense helps them live.
 6. I can plan a fair test of a sense, say what I think will happen and why, and use what I saw to explain the result.
 
@@ -27,7 +27,7 @@
 - **Pain**: The sense that warns you something is damaging, or about to damage, your body. Pain receptors detect strong heat, cuts, crushing and harmful chemicals. *e.g.* A pinch from a tight chappal strap hurts, so you loosen it before it makes a blister.
 - **Reflex**: A quick movement your body makes without you choosing it, to protect you. The signal goes to your spinal cord and straight back to the muscle. *e.g.* Your hand jerks away from a hot vessel before you have time to think.
 - **Interoception**: The senses inside your body. They tell you when you are hungry, thirsty, full, short of breath, or need the toilet. *e.g.* Your tummy rumbling and the empty feeling before lunch are interoception at work.
-- **Lateral line**: A line of tiny sensors along each side of a fish's body. They feel the water moving around the fish. *e.g.* A rohu in a muddy pond feels a fish swimming close by through their lateral line, even when they cannot see it.
+- **Lateral line**: A line of tiny sensors along each side of a fish's body. They feel the water moving around the fish. *e.g.* A rohu in a muddy pond feels another fish swimming close by through their lateral line, even when they cannot see that fish.
 - **Statocyst**: A small balance pit in animals such as prawns, crabs and octopuses. Tiny grains or crystals rest on sensing hairs inside it, and show which way is down. *e.g.* A prawn has a statocyst at the base of each of their short feelers, holding grains of sand.
 
 ## Explanations
@@ -57,7 +57,7 @@ Calcium carbonate is the same stuff as chalk and seashells. The crystals are hea
 
 Every muscle has tiny stretch sensors inside it. When your elbow bends, some muscles stretch and others get shorter, and the sensors report it. Sensors in your tendons feel how hard a muscle is pulling. Your brain puts these signals together into a picture of where each part of you is. That is how you can eat idli without looking at your hand, or type on a phone while looking at the screen. In the dot test, your pencil landed close to the dot with your eyes shut, but not exactly on it. Without your eyes to check, the body-position sense is good but not perfect.
 - e.g. You can put a spoon of rice into your mouth while looking at the TV.
-- e.g. When your foot 'falls asleep' after sitting cross-legged, you cannot feel where it is, so it is hard to stand on.
+- e.g. When your foot 'falls asleep' after sitting cross-legged, you have lost the feeling of where it is, so it is hard to stand on.
 - e.g. In 2021, Ardem Patapoutian shared the Nobel Prize for finding Piezo2, a tiny gate in nerve endings that opens when they are stretched. People born without working Piezo2 have very poor body-position sense.
 ### Why steel feels colder than wood · *defined*
 **Definition:** Your skin feels warmth and cold by how fast heat flows out of it or into it. Metals are good conductors of heat, so they draw heat from your skin quickly and feel colder.
@@ -69,14 +69,14 @@ Heat always flows from a warmer thing to a cooler thing. The skin of your hand i
 ### Warm spots and cold spots · *defined*
 **Definition:** The skin has separate receptors for cold and for warmth. They are not spread evenly, and there are many more cold spots than warm spots.
 
-In 1882, a Swedish scientist, Magnus Blix, touched the skin with a thin metal tip, point by point. Some points felt cold, some felt warm, and some felt only a touch. In 1884, Alfred Goldscheider in Germany found the same on his own. So warmth and cold are sensed by different receptors in different places. Cold receptors are the more common kind. That is why the cold-spot map on the back of your hand had cold squares and squares that felt only a touch. The same receptors can be fooled by chemicals. Menthol, in mint, switches on cold receptors, so your breath feels icy after a mint leaf. Capsaicin, in chilli, switches on heat receptors, so chilli feels hot. David Julius and Ardem Patapoutian shared the 2021 Nobel Prize for finding these receptors.
-- e.g. After chewing pudina, a sip of room-temperature water feels cold.
+In 1882, a Swedish scientist, Magnus Blix, touched the skin with a thin metal tip, point by point. Some points felt cold, some felt warm, and some felt only a touch. In 1884, Alfred Goldscheider in Germany found the same on his own. So warmth and cold are sensed by different receptors in different places. Cold receptors are the more common kind. That is why the cold-spot map on the back of your hand had cold squares and squares that felt only a touch. The same receptors can be fooled by chemicals. Menthol, in mint, switches on cold receptors, so your breath feels icy after a peppermint sweet. Capsaicin, in chilli, switches on heat receptors, so chilli feels hot. David Julius and Ardem Patapoutian shared the 2021 Nobel Prize for finding these receptors.
+- e.g. After sucking a peppermint sweet, a sip of room-temperature water feels cold.
 - e.g. Green chilli makes your mouth feel hot, though the chilli is no warmer than the rest of the food.
 - e.g. Some balms for aches contain menthol, and they feel cool on the skin.
 ### Pain is a guard · *defined*
 **Definition:** Pain receptors detect things that damage the body: strong heat, deep cold, cuts, crushing and harmful chemicals. Pain makes you stop, pull away and look after the hurt part.
 
-Pain is unpleasant on purpose. It makes you take your hand off the hot tawa, loosen a tight strap and rest a sprained ankle. Some protection is faster than feeling. When you touch something very hot, the signal goes to your spinal cord and straight back to your arm muscles. Your hand pulls away, often before you feel the pain. This is a reflex. A very small number of children are born unable to feel pain. They often get hurt without noticing: they bite their tongues, burn their hands and walk on broken bones. In the 1940s and 1950s, the surgeon Paul Brand found the same in people with leprosy in Vellore, as the how-we-found-out card tells. Pain is a gift that keeps the body whole.
+Pain is unpleasant on purpose. It makes you take your hand off the hot tawa, loosen a tight strap and rest a sprained ankle. Some protection is faster than feeling. When you touch something very hot, the signal goes to your spinal cord and straight back to your arm muscles. Your hand pulls away, often before you feel the pain. This is a reflex. A very small number of children are born unable to feel pain. They often get hurt without noticing: they bite their tongues, burn their hands and walk on broken bones. In the 1940s and 1950s, the surgeon Paul Brand found the same in people with leprosy in Vellore, as the how-we-found-out card tells. So pain, though unpleasant, protects the body.
 - e.g. A small pebble in your shoe hurts, so you stop and shake it out before it makes a wound.
 - e.g. A sore throat makes you rest your voice.
 - e.g. Your hand jerks away from a hot vessel before you have even said 'ouch'.
@@ -105,11 +105,11 @@ Scientists do not agree on one number. It depends on how you count. If you count
 - People have many more than five senses, including balance, body position, warmth, cold, pain and senses inside the body. *How we know:* Scientists have found a separate kind of receptor for each, and people who lose one of them, through illness or a rare gene, lose that sense only.
 - The semicircular canals in the inner ear sense the head turning, and the ear crystals sense tilting and speeding up. *How we know:* In the 1820s, Pierre Flourens found that damaging the canals in pigeons upset their balance. Today doctors test the canals by watching the eyes after spinning or after warm or cool water is put in the ear.
 - The skin feels how fast heat flows in or out of it, so good conductors of heat feel colder or hotter than poor conductors at the same temperature. *How we know:* A thermometer shows a steel plate and a wooden board in the same room are at the same temperature. Yet ice melts faster on the steel, and the steel feels colder.
-- Pain protects the body, and people who cannot feel pain get injured far more often. *How we know:* Doctors have followed children born unable to feel pain, and people with leprosy whose nerves were damaged. Both get burns, cuts and broken bones without noticing.
+- Pain protects the body, and people who have lost the sense of pain get injured far more often. *How we know:* Doctors have followed children born unable to feel pain, and people with leprosy whose nerves were damaged. Both get burns, cuts and broken bones without noticing.
 - Fish feel water movement through their lateral line, and prawns and crabs sense which way is down using grains in a balance pit. *How we know:* Fish with a blocked lateral line swim less well in a shoal. In 1893, Alois Kreidl gave freshly moulted shrimps iron filings instead of sand, and the shrimps tilted when he held a magnet near them.
 
 ## How we found out
-**Paul Brand, a surgeon, and Margaret Brand, an eye doctor, at the Christian Medical College, Vellore, The late 1940s to the 1960s.** For thousands of years, people believed leprosy made fingers and toes rot and fall off by itself. People with leprosy lost parts of their hands and feet, and many were pushed out of their towns. In the late 1940s, Paul Brand, a British surgeon at the Christian Medical College in Vellore, began to look closely. He noticed that his patients often hurt their hands while working, and did not seem to notice. He tested the hands of many patients. Their flesh was healthy, but the nerves had stopped carrying pain. So their hands were being hurt in daily life. A patient could hold a hot cooking pot, walk all day with a sharp stone in a shoe, or keep using a cut hand, and never feel it. The wounds got worse because nobody rested them. His wife, Margaret Brand, an eye doctor, found that the same thing harmed the eyes. Patients who could not feel their eyes did not blink enough to protect them. With soft shoes, careful habits and checking hands and feet every day, people with leprosy kept their fingers and toes. Leprosy can now be cured with medicines that are free in India.  
+**Paul Brand, a surgeon, and Margaret Brand, an eye doctor, at the Christian Medical College, Vellore, The late 1940s to the 1960s.** For thousands of years, people believed leprosy made fingers and toes rot and fall off by itself. People with leprosy lost parts of their hands and feet, and many were pushed out of their towns. In the late 1940s, Paul Brand, a British surgeon at the Christian Medical College in Vellore, began to look closely. He noticed that his patients often hurt their hands while working, and did not seem to notice. He tested the hands of many patients. Their flesh was healthy, but the nerves had stopped carrying pain. So their hands were being hurt in daily life. A patient could hold a hot cooking pot, walk all day with a sharp stone in a shoe, or keep using a cut hand, and never notice it. The wounds got worse because nobody rested them. His wife, Margaret Brand, an eye doctor, found that the same thing harmed the eyes. Patients who could not feel their eyes did not blink enough to protect them. With soft shoes, careful habits and checking hands and feet every day, people with leprosy kept their fingers and toes. Leprosy can now be cured with medicines that are free in India.  
 *What people believed before:* People thought the disease itself ate away fingers and toes. Paul Brand showed that leprosy damages the nerves, so people stop feeling pain, and the injuries come from everyday use that nobody feels.
 
 ## Challenging perspectives
@@ -121,7 +121,7 @@ Scientists do not agree on one number. It depends on how you count. If you count
   Against: Left in the same room, both reach the same temperature, as a thermometer shows. Ice melts faster on the steel, which could not happen if the steel were colder.
 - **Pain is bad, and life would be better without it.** (Many people, when they are hurting; *rejected*)  
   For: Pain is unpleasant, and long-lasting pain from an illness can make life very hard.  
-  Against: People who cannot feel pain get badly hurt without knowing. Short, sharp pain is a warning that protects the body. Long-lasting pain is different and needs a doctor's help.
+  Against: People who have lost the sense of pain get badly hurt without knowing. Short, sharp pain is a warning that protects the body. Long-lasting pain is different and needs a doctor's help.
 - **Feeling dizzy means something is wrong with you.** (Some children, the first time they get dizzy; *rejected*)  
   For: Dizziness feels strange and can make you fall.  
   Against: Dizziness after spinning is your balance sense working correctly: the liquid in the loops keeps moving after you stop. Dizziness that comes for no reason, again and again, should be checked by a doctor.
@@ -229,13 +229,14 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 
 ## Games
 ### g1 · Animal Sense Trios: problem, sense, animal (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in rows.; On your turn, turn over three cards.; If they make a trio, an animal with their own problem and sense, explain to the others how the sense solves the problem. Then keep the trio and take another turn.; If they do not make a trio, turn them face down again. The next player has a go.; When all the cards are gone, the player with the most trios wins.; Playing alone, turn all cards face up and make the trios as fast as you can. Then explain each one aloud.
-- **Printable cards: 24 cards: 8 animals, 8 problems, 8 senses:** ANIMAL: Sardine, mathi | PROBLEM: Swims in a big shoal and must turn with the others without bumping, even at night | SENSE: Lateral line, sensors along each side that feel the water move; ANIMAL: Prawn | PROBLEM: Lives in dark, moving water and must know which way is up | SENSE: Sand grains in a balance pit at the base of the short feelers; ANIMAL: Female mosquito | PROBLEM: Needs blood to make her eggs, and must find someone in the dark | SENSE: Smells the carbon dioxide in breath from metres away, then feels warmth; ANIMAL: Python | PROBLEM: Hunts rats at night, when nothing can be seen | SENSE: Pits along the lips that sense the heat of a warm body; ANIMAL: Spider | PROBLEM: Sees very little, but must know where an insect is caught in the web | SENSE: Sensors on the legs that feel each shake of the web; ANIMAL: Cat | PROBLEM: Hunts in the dark and squeezes through narrow gaps | SENSE: Whiskers that feel air moving and touch things before the body does; ANIMAL: Bat | PROBLEM: Catches flying insects in the dark | SENSE: Echolocation: makes high calls and listens to the echoes; ANIMAL: You | PROBLEM: Must stay upright while walking, running and climbing stairs | SENSE: Balance loops and ear crystals in the inner ear
+- **rules:** Cut out the 24 cards. Lay them all face up in rows. Keep the answer sheet face down.; On your turn, choose an animal card. Then pick the problem card and the sense card that go with it.; Say aloud how the sense solves the problem. Then turn the answer sheet over and check. If the three belong together, keep them and score 1 point. If not, put the three cards back.; If you are stuck, read one problem card aloud and guess the sense before you look for the animal.; When all 24 cards are taken, the player with the most trios wins. If it is a tie, both win.; Playing alone, time yourself making all 8 trios. Then explain each one aloud.
+- **Printable cards: 24 cards: 8 animals, 8 problems, 8 senses:** ANIMAL: Sardine (mathi); ANIMAL: Prawn; ANIMAL: Female mosquito; ANIMAL: Python; ANIMAL: Spider; ANIMAL: Cat; ANIMAL: Bat; ANIMAL: You; PROBLEM: Swims in a big shoal and must turn with the others without bumping, even at night; PROBLEM: Lives in dark, moving water and must know which way is up; PROBLEM: Needs blood to make her eggs, and must find someone in the dark; PROBLEM: Hunts rats at night, when nothing can be seen; PROBLEM: Sees very little, but must know where an insect is caught in the web; PROBLEM: Hunts in the dark and squeezes through narrow gaps; PROBLEM: Catches flying insects in the dark; PROBLEM: Must stay upright while walking, running and climbing stairs; SENSE: Lateral line, sensors along each side that feel the water move; SENSE: Sand grains in a balance pit at the base of the short feelers; SENSE: Smells the carbon dioxide in breath from metres away, then feels warmth; SENSE: Pits along the lips that sense the heat of a warm body; SENSE: Sensors on the legs that feel each shake of the web; SENSE: Whiskers that feel air moving and touch things before the body does; SENSE: Echolocation: makes high calls and listens to the echoes; SENSE: Balance loops and ear crystals in the inner ear
+- **Printable answer sheet: Answer sheet for the trios (keep it face down):** Sardine: turning with the shoal; lateral line; Prawn: knowing which way is up; sand grains in a balance pit; Female mosquito: finding someone to bite in the dark; smells breath, then feels warmth; Python: hunting rats at night; heat pits on the lips; Spider: knowing where an insect is caught; sensors on the legs; Cat: hunting and squeezing through gaps in the dark; whiskers; Bat: catching insects in the dark; echolocation; You: staying upright; balance loops and ear crystals
 - **Printable score sheet: Score sheet:** Player name; Trios collected; Reasons given
 - **s1 (3 min)**  
-  *Parent does:* Cut out the cards, shuffle them and lay them face down.  
+  *Parent does:* Cut out the cards and lay them face up in rows. Keep the answer sheet face down.  
   *Parent says:* Every animal has a problem in their life, and a sense that helps. Let's find the trios.  
-  *Child mode:* Lay the cards face down. Turn over three. Is it a trio?
+  *Child mode:* Lay the cards face up. Pick an animal. Find the problem and the sense that go with that animal.
 - **s2 (14 min)**  
   *Parent does:* Play the game by the rules. Each time someone makes a trio, ask how the sense solves the problem.  
   *Parent says:* You found the python. How do the pits help the python find a rat at night?  
@@ -247,19 +248,19 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Child mode:* Which animal sense would you like? What would you do with it?
   - Check: A female mosquito finds people in a dark room. Which sense helps her most? → **Smelling the carbon dioxide in breath**
 ### g2 · Which Sense Told You? (15 min)
-- **rules:** Each player has the 5 sense cards in their hand.; One player reads out a moment card, but not the answer in brackets.; Everyone holds up the sense card they think noticed it.; Each right card scores 1 point. Some moments use two senses, so two cards held up together can both score.; If people disagree, each one gives a reason. A good reason scores 1 extra point.; Playing alone, read each card, choose a sense, and check the answer in brackets.
-- **Printable cards: 5 sense cards, one set for each player:** BALANCE; BODY POSITION; WARM AND COLD; PAIN; INSIDE SENSES
-- **Printable cards: 16 moment cards:** You feel the lift start to go up. (Balance); You scratch your back in the dark. (Body position); The bathroom tiles feel cold under your feet. (Warm and cold); A thorn pricks your finger as you pick a rose. (Pain); Your tummy rumbles before lunch. (Inside senses); The ferry rocks and you hold the rail. (Balance); You put a spoon of curd rice in your mouth without looking. (Body position); The steel railing is hot in the afternoon sun. (Warm and cold); You bite your tongue by mistake. (Pain); You are thirsty after playing in the sun. (Inside senses); You stand on one foot to put on a sock. (Balance and body position); Your leg 'falls asleep' after sitting cross-legged. (Body position); Mint makes your breath feel cool. (Warm and cold); Your heart thumps after running up the stairs. (Inside senses); You pull your hand back from a hot tawa. (Pain, and a reflex); You lean into the bend when the bus turns. (Balance)
+- **rules:** Each player has the 5 sense cards in their hand. Shuffle the moment cards and stack them with the moment side up.; One player is the reader. The reader reads the top moment card aloud, but keeps the back hidden.; Everyone except the reader holds up the sense card they think noticed it.; The reader turns the card over. Each right card scores 1 point. Some moments use two senses, so two cards held up together can both score.; If people disagree, each one gives a reason. A good reason scores 1 extra point.; Pass the reader job on after each card. When the stack is finished, the most points wins.; Playing alone, read each card, choose a sense, then turn it over and check.
+- **Printable cards: 5 sense cards (print this page once for each player):** BALANCE; BODY POSITION; WARM AND COLD; PAIN; INSIDE SENSES
+- **Printable cards: 16 moment cards:** You feel the lift start to go up. (back: Balance); You scratch your back in the dark. (back: Body position); The bathroom tiles feel cold under your feet. (back: Warm and cold); A thorn pricks your finger as you pick a flower. (back: Pain); Your tummy rumbles before lunch. (back: Inside senses); The boat rocks on the river at Guwahati and you hold the side. (back: Balance); You put a spoon of curd rice in your mouth without looking. (back: Body position); The steel railing is hot in the afternoon sun. (back: Warm and cold); You bite your tongue by mistake. (back: Pain); You are thirsty after playing in the sun. (back: Inside senses); You stand on one foot to put on a sock. (back: Balance and body position); Your leg 'falls asleep' after sitting cross-legged. (back: Body position); A peppermint sweet makes your breath feel cool. (back: Warm and cold); Your heart thumps after running up the stairs. (back: Inside senses); You pull your hand back from a hot tawa. (back: Pain, and a reflex); You lean into the bend when the bus turns. (back: Balance)
 - **Printable score sheet: Score sheet:** Player name; Points
 - **s1 (2 min)**  
-  *Parent does:* Give each player the 5 sense cards. Shuffle the moment cards.  
+  *Parent does:* Give each player the 5 sense cards. Shuffle the moment cards and stack them.  
   *Parent says:* I will read a moment. Hold up the sense that noticed it.  
   *Child mode:* Hold your 5 sense cards. Listen to the moment. Which sense noticed it?
 - **s2 (11 min)**  
   *Parent does:* Read the moment cards one by one. Score them.  
   *Parent says:* 'You lean into the bend when the bus turns.' Which sense?  
   *Child mode:* Listen. Hold up a sense card. Were you right?
-  - Ask: Why is 'my leg fell asleep' about body position? (good: Because I cannot feel where my leg is.; Because the leg stops sending its signals to the brain.)
+  - Ask: Why is 'my leg fell asleep' about body position? (good: Because I have lost the feeling of where my leg is.; Because the leg stops sending its signals to the brain.)
 - **s3 (2 min)**  
   *Parent does:* Add up the points.  
   *Parent says:* Which moment was the hardest? Why?  
@@ -270,8 +271,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 ### e1 · The Ice Race: does ice melt slower on the colder-feeling plate? (30 min)
 - **question:** A steel plate feels colder than a wooden board. If we put an ice cube on each, which one melts first?
 - **predict:** Touch the steel plate and the wooden board. Which feels colder? Now guess: on which one will the ice cube melt first? Why do you think so?
-- **fair test:** Leave both surfaces in the same room for at least an hour, out of the sun and away from the fan, so they reach the same temperature. Use two ice cubes of the same size from the same tray. Put them down at the same moment. Only the surface changes.
-- **safety:** No heat is used. Wipe up melted water so nobody slips.
+- **fair test:** Leave both surfaces in the same room for at least an hour, out of the sun and away from the fan, so they reach the same temperature. Use two ice cubes of the same size from the same tray. Put them down at the same moment. Only the surface changes. A thin steel plate and a thick board are not exactly alike, so this is a fair test of how the two feel and melt ice, not of steel and wood in general.
 - **record:** Fill in the table. Then draw the two cubes as they looked after 10 minutes, with their puddles.
 - **results table:** Surface | How it felt to my hand | My guess: melts first or last? | After 5 minutes | After 10 minutes | After 15 minutes | Which melted first?
 - **s1 (4 min)**  
@@ -289,7 +289,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Parent does:* 1. Take two ice cubes from the same tray. 2. Put one in the middle of the plate and one in the middle of the board, at the same moment. 3. Look every 5 minutes. 4. Write what you see each time.  
   *Parent says:* Both cubes go down together. Now we watch. Every 5 minutes, tell me how big each cube is and how big its puddle is.  
   *Child mode:* Put both cubes down at the same time. Look every 5 minutes. Which cube is getting smaller faster?
-  - Note: The cube on the steel melts much faster. In a warm room it is often a puddle in 10 to 15 minutes, while the cube on the wood is still mostly whole. Steel thalis are thin, so the difference is smaller than with a thick metal. If the difference is small, add a third cube on an aluminium vessel or lid. Aluminium carries heat even faster than steel. While you wait, you can play a round of Which Sense Told You?, but do not explain the result yet.
+  - Note: Expect a clear difference within 10 to 15 minutes: the cube on the steel is smaller and sits in a bigger puddle, while the cube on the wood is still bigger. The exact times depend on how warm your room is. A thin steel thali gives a smaller difference than a thick piece of metal. If the difference is small, add a third cube on an aluminium vessel or lid, which carries heat even faster than steel. While you wait, you can play a round of Which Sense Told You?, but do not explain the result yet. If the two cubes melt at about the same time, write that down: the plate may have been warmer, or in the sun.
   - Check: The ice on the steel plate melted first. The steel had felt colder. What does this tell you? → **The steel was not really colder than the wood**
 - **s4 (2 min)**  
   *Parent does:* Touch the steel plate where the ice was, and the wooden board where its ice was.  
@@ -305,35 +305,35 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 ### e2 · Find the Dot: how well do your hands know where they are? (25 min)
 - **question:** With your eyes shut, how close can your pencil come to a dot you have just seen? Is your writing hand better than your other hand?
 - **predict:** Will your pencil land on the dot with your eyes shut? Will your writing hand do better than your other hand? Why do you think so?
-- **fair test:** Use the same dot, the same chair and the same starting place each time. Rest your hand in your lap before every try. Do 5 tries with each hand, because one try can be luck. Measure every miss with a ruler.
-- **safety:** Use a blunt pencil. Keep the other hand away from the paper.
+- **fair test:** Use the same kind of dot, the same chair and the same starting place each time. Rest your hand in your lap before every try. Do 5 tries with each hand, because one try can be luck. Measure every miss with a ruler. Practice helps, so if you do the test again, start with the other hand.
+- **safety:** Use a blunt pencil, and keep the other hand away from the paper.
 - **record:** Fill in the table. Circle your smallest miss. Write the total miss for each hand.
 - **results table:** Try | Writing hand: miss in cm | Other hand: miss in cm
 - **s1 (3 min)**  
-  *Parent does:* 1. Tape the paper to a table. 2. Your child sits facing it, with the pencil in their writing hand, resting in their lap. 3. Ask for a guess and a reason.  
+  *Parent does:* 1. Put a piece of paper on the table and hold it flat by two corners, away from the dot. 2. Your child sits facing it, with the pencil in their writing hand, resting in their lap. 3. Ask for a guess and a reason.  
   *Parent says:* You will look at the dot, shut your eyes, and try to touch it with your pencil. Will you hit it? Which hand will do better? Why do you think so?  
   *Child mode:* Look at the dot. Then shut your eyes. Can you touch it? Which hand will do better? Why?
 - **s2 (8 min)**  
-  *Parent does:* 1. Your child looks at the dot for 3 seconds, then shuts their eyes. 2. They lift the pencil from their lap and touch the paper once. 3. Mark the spot with a number. 4. Back to the lap. Do 5 tries.  
+  *Parent does:* 1. Your child looks at the dot for 3 seconds, then shuts their eyes. 2. They lift the pencil from their lap and touch the paper once, pressing enough to leave a small mark. 3. Write the try number and W (writing hand) beside the mark, and turn the paper face down so the mark cannot be seen. 4. Pencil back in the lap, and a fresh paper in front. Do 5 tries.  
   *Parent says:* Look at the dot. Now eyes shut. Lift your pencil and touch the paper once. Back in your lap. Again.  
   *Child mode:* Look. Shut your eyes. Touch the paper once. Hand back in your lap. Do it 5 times.
-  - Note: Do not say how close they are until all 5 tries are done, or they will correct their aim.
+  - Note: Do not say how close they are until all 5 tries are done, or they will correct their aim. Turning each paper face down also hides the earlier marks.
 - **s3 (8 min)**  
-  *Parent does:* Turn the paper over and do 5 tries with the other hand. Then measure each miss with a ruler, from the middle of the dot to the pencil mark.  
+  *Parent does:* Do 5 tries with the other hand on five more papers, writing O (other hand) by each mark. Then turn all the papers over. Measure each miss from the middle of the dot to the pencil mark, and write it in the table.  
   *Parent says:* Now the other hand, 5 times. Then we will measure how far each mark is from the dot.  
   *Child mode:* Now use your other hand, 5 times. Then measure each miss with the ruler.
-  - Note: Most children land within 1 to 4 centimetres of the dot. The writing hand is often a little closer, but not always. Some children find no difference.
+  - Note: Most children land within 1 to 4 centimetres of the dot. The writing hand is often a little closer, but not always. Some children find no difference, and that is a real result too.
 - **s4 (6 min)**  
   *Parent does:* Add up the misses for each hand. Ask for claim, evidence and reasoning.  
   *Parent says:* Your eyes were shut, but your pencil still came close. How did your hand know where to go? What did you see, and why did it happen?  
   *Child mode:* Your eyes were shut. How did your hand know where to go?
   - Ask: How did your hand get close to the dot without your eyes? (good: My arm knows where it is.; Stretch sensors in my muscles told my brain where my hand was.; I remembered where the dot was, and my body sense moved my hand there.)
   - Note: A strong answer: my pencil landed about 2 centimetres from the dot, so my body knows where my hand is even without my eyes. The sense is called proprioception. Stretch sensors in my muscles and joints told my brain. It was not perfect, because my eyes usually help to check.
-  - Check: With eyes shut, Meena's pencil landed 2 centimetres from the dot. What does this show? → **Her body can sense where her hand is without her eyes, but not perfectly**
+  - Check: With eyes shut, Tashi, a girl in Class 3, touched a pencil to the paper 2 centimetres from the dot. What does this show? → **Her body can sense where her hand is without her eyes, but not perfectly**
 ### e3 · The Dizzy Timer: does more spinning mean longer dizziness? (20 min)
 - **question:** If you spin 10 times instead of 5, does the dizzy feeling last longer?
 - **predict:** Will the dizziness after 10 turns last longer than after 5 turns, the same, or shorter? Why do you think so?
-- **fair test:** Spin at the same speed each time, about one turn every 2 seconds, in the same direction. Sit down straight after. Rest 3 minutes between tries, until you feel completely normal. Time each try the same way.
+- **fair test:** Spin at the same speed each time, about one turn every 2 seconds, in the same direction. Sit down straight after. Rest 3 minutes between tries, until you feel completely normal. Time each try the same way. The second try may feel different just because it is second, so on a second go, do 10 turns first.
 - **safety:** A grown-up stands close the whole time. Spin slowly, on a mat, away from furniture and stairs. Sit down straight after spinning. Stop at once if your child feels sick. Children who get headaches or feel sick easily should only watch, or time a grown-up instead.
 - **record:** Fill in the table. Draw two bars, one for 5 turns and one for 10.
 - **results table:** Number of turns | Seconds until the room stops spinning | Did the eyes flick? For how many seconds?
@@ -342,7 +342,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Parent says:* You will spin 5 times, sit down, and tell me when the room stops spinning. Then you will try 10 times. Which will last longer? Why?  
   *Child mode:* You will spin 5 times, then 10 times. Which dizziness lasts longer? Why?
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. Your child spins slowly 5 times, with arms out. 2. They sit down at once. 3. Start the stopwatch. 4. Look at their eyes. 5. Stop the watch when they say the room is still.  
+  *Parent does:* 1. Your child spins slowly 5 times, about 2 seconds a turn, with arms out. 2. They sit down at once. 3. Start the stopwatch. 4. Look at their eyes. 5. Stop the watch when they say the room is still.  
   *Parent says:* Spin slowly, 5 times. Now sit. Look straight at my face. Say 'stop' when the room stops moving.  
   *Child mode:* Spin slowly 5 times. Sit down. Look at a grown-up's face. Say stop when the room is still.
   - Note: Watch your child's eyes closely. For a few seconds they flick from side to side by themselves. The brain moves the eyes because it thinks the head is still turning. Write down how long the flicking lasts too.
@@ -350,12 +350,12 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Parent does:* Rest 3 minutes. Then do the same with 10 turns, at the same speed.  
   *Parent says:* Rest until you feel normal. Now 10 turns, the same speed. Sit, look at my face, and say 'stop' when it is over.  
   *Child mode:* Rest first. Now spin 10 times, same speed. Sit. Say stop when the room is still.
-  - Note: Most children feel dizzy for longer after 10 turns, often a few seconds to 20 seconds. Turning longer gets the liquid in the ear loops moving faster, so it takes longer to stop. Every body is different, so results vary.
+  - Note: Most children feel dizzy for longer after 10 turns, often by a few seconds up to 20 seconds. After more turns the liquid in the ear loops has had longer to catch up with the head, so more of it is swirling when you stop. Every body is different, so results vary. If the times are the same, write that down: 10 turns may be too few to show a difference.
 - **s4 (5 min)**  
   *Parent does:* Compare the two times. Ask for claim, evidence and reasoning.  
   *Parent says:* Which time was longer? What do you think is still moving after you stop?  
   *Child mode:* Which dizziness lasted longer? What keeps moving after you stop?
-  - Note: A strong answer: after 10 turns, the dizziness lasted longer. The liquid in the loops of my inner ear was swirling more, so it took longer to stop. While it was still swirling, my brain thought I was turning.
+  - Note: A strong answer: after 10 turns, the dizziness lasted longer. The liquid in the loops of my inner ear had longer to catch up, so it was swirling faster when I stopped and took longer to slow down. While it was still swirling, my brain thought I was turning.
   - Check: Why does the room seem to spin after you stop? → **The liquid in your ear loops keeps swirling for a few seconds**
 
 ## Activities
@@ -368,12 +368,12 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Child mode:* Spin slowly 5 times. Sit down. What do you notice?
   - Ask: What did you notice when you sat down? (good: The room kept turning.; I felt like I was still spinning.; I felt wobbly.)
 - **s2 (4 min)**  
-  *Parent does:* 1. Stand the bowl of water on the steel plate. 2. Float the paper arrow in the middle. 3. Wait until the water is still. 4. Quickly turn the plate a quarter turn. Watch the arrow.  
+  *Parent does:* 1. Stand the bowl of water on the steel plate, on a table. 2. Float the paper arrow in the middle. 3. Wait until the water is still. 4. Hold the bowl by its rim and turn it a quarter turn, quickly, so it slides on the plate. Watch the arrow.  
   *Parent says:* I will turn the bowl quickly, a little bit. Watch the arrow. Does the water turn with the bowl?  
   *Child mode:* Watch the paper arrow. The bowl turns. Does the arrow turn too?
-  - Note: The bowl turns, but the water and the arrow hardly move at first. Water is slow to start moving. The liquid in the loops of the inner ear lags behind in the same way when your head starts to turn. That lag bends tiny hairs, and the brain knows you are turning.
+  - Note: The bowl turns, but the water and the arrow follow a little late. Water is slow to start moving. The liquid in the loops of the inner ear lags behind in the same way when your head starts to turn. That lag bends tiny hairs, and the brain knows you are turning.
 - **s3 (5 min)**  
-  *Parent does:* 1. Now turn the plate round and round, steadily, for 20 seconds. 2. Then stop the bowl suddenly and hold it still. 3. Watch the arrow.  
+  *Parent does:* 1. Now turn the bowl round and round by its rim, steadily, for 20 seconds. 2. Then stop the bowl suddenly and hold it still. 3. Watch the arrow.  
   *Parent says:* Now I keep turning the bowl for a while. Then I stop it. Watch the arrow when I stop.  
   *Child mode:* The bowl turns and turns, then stops. What does the arrow do?
   - Note: After 20 seconds the water turns along with the bowl. When the bowl stops, the water keeps swirling for several seconds. This is what happens in your ears after you stop spinning, and it is why the room seems to keep turning.
@@ -384,13 +384,13 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Child mode:* Your head is the bowl. The liquid in your ear is the water. What kept turning?
   - Note: A good answer: my head stopped, but the liquid in my ears kept swirling, so my brain thought I was still spinning.
 ### a2 · The Floating Arm and the Thumb Hunt (10 min)
-- **safety:** Press gently, not with full strength. Stand away from the door hinge.
-- **record:** Write how high your arm floated. Write how many times out of 5 you found your thumb first time.
+- **safety:** Stand in the middle of the doorway, and keep your fingers away from the door hinge.
+- **record:** Write about how high your arm floated (to your waist, to your shoulder, or not at all). Write how many times out of 5 you found your thumb first time.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child stands in a doorway with arms straight down. 2. They press the backs of both hands outwards against the door frame, firmly, for 30 seconds. 3. Then they step forward out of the doorway and let their arms relax.  
   *Parent says:* Press the backs of your hands out against the door frame. Keep pressing while I count to 30. Now step forward and let your arms go loose. What happens?  
   *Child mode:* Press your hands out on the door frame. Count to 30. Step out and relax. Watch your arms!
-  - Note: For most people, the arms float up by themselves, as if they were light. This is called the Kohnstamm effect. The muscles keep working for a short time after you stop pressing. Your body-position sense tells you the arms are rising, though you did not decide to lift them. Scientists still study exactly why it happens. If nothing happens, try pressing a little harder for 45 seconds.
+  - Note: For most people, the arms float up by themselves, as if they were light. This is called the Kohnstamm effect. Scientists still study exactly why it happens, but the idea is that the brain keeps sending the 'press' message for a short time after you stop pressing. Your body-position sense tells you the arms are rising, though you did not decide to lift them. It does not work for everyone. If nothing happens, try pressing for 45 seconds. If there is still nothing, move on to the thumb test.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child shuts their eyes. 2. Gently move their left arm to a new place in the air and leave it there. 3. They touch their left thumb with their right pointing finger, in one go. 4. Do 5 different places.  
   *Parent says:* Eyes shut. I will move your left hand somewhere. Now find your left thumb with your right finger, in one go.  
@@ -398,47 +398,45 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   - Ask: You could not see your left hand. How did your finger find the thumb? (good: My arm knew where it was.; The muscles in my arm told my brain.; I could feel where my hand was.)
   - Note: Most children find the thumb almost every time. The stretch sensors in the muscles of the moved arm told the brain where the hand was. This sense is called proprioception.
 ### a3 · Cool Breath: mint fools your cold sense (10 min)
-- **safety:** Wash the leaves first. Toothpaste is for tasting a tiny dab only, not for swallowing.
+- **safety:** Sit still while you suck the sweet. Toothpaste is for a tiny dab only, not for swallowing.
 - **record:** Write how the air and the water felt before and after the mint.
 - **s1 (3 min)**  
   *Parent does:* Your child takes a deep breath in through the mouth and a sip of water. Ask how cold each feels, from 1 to 5.  
   *Parent says:* Breathe in through your mouth. Now take a sip. How cold is each, from 1 to 5?  
   *Child mode:* Breathe in through your mouth. Sip the water. How cold, from 1 to 5?
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child chews the mint leaves for 30 seconds and spits them out. 2. They breathe in through the mouth again. 3. Then they take another sip.  
-  *Parent says:* Chew the mint for 30 seconds. Now breathe in through your mouth. Now sip. How cold now, from 1 to 5?  
-  *Child mode:* Chew the mint. Breathe in. Sip the water. How cold now?
-  - Note: The air and the water feel much colder, though nothing has changed temperature. Mint contains menthol. Menthol switches on the cold receptors in your mouth, the same ones that fire when something cold touches you.
+  *Parent does:* 1. Your child sucks the peppermint sweet for 30 seconds. (With toothpaste, rub a tiny dab on the tongue for 30 seconds, then spit it out. With pudina leaves, chew 3 leaves for 30 seconds and spit them out.) 2. They breathe in through the mouth again. 3. Then they take another sip.  
+  *Parent says:* Suck the sweet for 30 seconds. Now breathe in through your mouth. Now sip. How cold now, from 1 to 5?  
+  *Child mode:* Suck the mint sweet. Breathe in. Sip the water. How cold now?
+  - Note: The air and the water feel much colder, though nothing has changed temperature. Peppermint contains menthol. Menthol switches on the cold receptors in your mouth, the same ones that fire when something cold touches you. Pudina leaves have less menthol, so the effect may be weak.
 - **s3 (3 min)**  
   *Parent does:* Talk about what this shows.  
   *Parent says:* The water came from the same glass. Was it really colder after the mint? What changed?  
   *Child mode:* The water was the same. Was it really colder? What changed?
   - Check: After chewing mint, the same water felt colder. Why? → **Menthol in mint switches on your cold receptors**
 ### a4 · Cold Spot Map: is all your skin the same? (15 min)
-- **safety:** The key is only cold, never hot. Touch lightly.
 - **record:** On the paper grid, colour each square blue if it felt cold and leave it white if it felt only like a touch.
 - **s1 (3 min)**  
   *Parent does:* Draw a small grid of 16 squares on the back of your child's hand, each square about as wide as a pencil.  
   *Parent says:* I am drawing a grid on your hand. We will test each square with a cold key. Will every square feel cold? Why do you think so?  
   *Child mode:* A grid goes on your hand. Will every square feel cold? Why?
 - **s2 (10 min)**  
-  *Parent does:* 1. Dip the tip of the key in the ice water for 10 seconds. 2. Wipe it dry. 3. Your child shuts their eyes. 4. Touch the tip lightly in the middle of one square. 5. They say 'cold' or 'just touch'. 6. Mark it on the paper. Re-cool the key every 3 squares.  
+  *Parent does:* 1. Dip the tip of the key in the ice water for 10 seconds. 2. Wipe it dry. 3. Your child shuts their eyes. 4. Touch the tip lightly in the middle of one square, in a mixed-up order. 5. They say 'cold' or 'just touch'. 6. Mark it on the paper. Re-cool the key every 3 squares.  
   *Parent says:* Eyes shut. I will touch you with the key. Tell me: cold, or just touch?  
   *Child mode:* Shut your eyes. Say cold or just touch each time.
-  - Note: Some squares feel clearly cold, and some feel only like a touch. Cold receptors are spread in small spots, with gaps between. If every square feels cold, use a thinner tip, such as the end of an opened steel paper clip, and smaller squares. In 1882, Magnus Blix mapped cold and warm spots in the same way.
+  - Note: Some squares feel clearly cold, and some feel only like a touch. Cold receptors are spread in small spots, with gaps between. If every square feels cold, use a thinner tip, such as the end of an opened steel paper clip, and smaller squares. Once or twice, touch with the key at room temperature, not dipped. Your child should say 'just touch'. If not, the answers are guesses, so repeat the squares. The map will not be perfect. In 1882, Magnus Blix mapped cold and warm spots in the same way.
 - **s3 (2 min)**  
   *Parent does:* Look at the map together.  
   *Parent says:* Look at your map. Is your skin the same everywhere?  
   *Child mode:* Look at your map. Where are your cold spots?
   - Note: A good answer: no, some spots feel cold and others do not. My skin has cold receptors in some places and not in others.
 ### a5 · Feel Like a Fish: sensing water move (10 min)
-- **safety:** Do it on a floor that can get wet, such as the bathroom. Wipe up spills.
 - **record:** Write how many times out of 6 you pointed to the right side.
 - **s1 (6 min)**  
-  *Parent does:* 1. Your child puts one hand flat in the middle of the water, eyes shut, and keeps very still. 2. Wait until the water is still. 3. Move the spoon quickly, on one side of the hand, about 10 cm away, without touching. 4. They point to where the movement came from. 5. Do 6 tries, on different sides.  
+  *Parent does:* 1. Your child puts one hand flat in the middle of the water, eyes shut, and keeps very still. 2. Wait until the water is still. 3. Dip the spoon quickly and quietly on one side of the hand, about 10 cm away, without touching. 4. They point to where the movement came from. 5. Do 6 tries: left, right, front, back, then left and right again. Walk round the basin so your footsteps do not give it away.  
   *Parent says:* Keep your hand still in the water, eyes shut. When you feel the water move, point to where it came from.  
   *Child mode:* Hand still in the water. Eyes shut. Feel the water move? Point to where it came from.
-  - Note: Most children feel the water push against their hand and point to the right side most times. A fish has a lateral line, a row of sensors along each side, that does this much better. It helps them feel a hunter coming or a shoal turning, even in muddy water.
+  - Note: Water in a basin bounces off the sides, so this is harder than for a fish in open water. Many children point to the right side 2 to 4 times out of 6. Just guessing among four sides would give about 1 or 2. A fish has a lateral line, a row of sensors along each side, that does this much better. It helps them feel a hunter coming or a shoal turning, even in muddy water.
 - **s2 (4 min)**  
   *Parent does:* Talk about why a fish needs this sense.  
   *Parent says:* A fish in a muddy river cannot see far. Why would feeling the water move help them?  
@@ -466,16 +464,16 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Child mode:* Count each column. Which sense spoke most? Which one kept you safe?
 
 ## Challenges
-### c1 · Guard the Feet: help someone who cannot feel pain in their feet (30 min)
-- **problem:** Some people cannot feel pain in their feet. This can happen with leprosy, or after many years of the illness diabetes. They do not notice a sharp stone, a blister or a burn from hot sand. Design something that helps them find a hurt before it gets worse.
+### c1 · Guard the Feet: help someone who has lost the sense of pain in their feet (30 min)
+- **problem:** Some people have lost the sense of pain in their feet. This can happen with leprosy, or after many years of the illness diabetes. They do not notice a sharp stone, a blister or a burn from hot sand. Design something that helps them find a hurt before it gets worse.
 - **your turn:** Now design your own foot guard. Draw it, label each part, and say which danger it catches.
 - **constraints:** It must work every day without anyone feeling pain.; It must be cheap and easy to make in an Indian home.; It must be safe and gentle on the skin.
 - **general:** A daily foot check with a mirror, morning and night, looking for red marks, cuts and blisters.; Soft, closed shoes that are checked inside for stones before putting them on.; Testing bath water with an elbow, which can still feel heat, before stepping in.
 - **creative:** A chappal with a bright white lining, so a drop of blood or a wet blister shows at once.; A family checklist chart on the bathroom door, ticked every evening.; A small cloth-covered tray by the door to tip out each shoe before wearing it.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. List the dangers for a foot that cannot feel pain.  
-  *Parent says:* Pain usually tells us when something is wrong. If someone cannot feel it, what could hurt their feet without them knowing?  
-  *Child mode:* Imagine your feet cannot feel pain. What could hurt them?
+  *Parent does:* Read the problem together. List the dangers for a foot that has lost the sense of pain.  
+  *Parent says:* Pain usually tells us when something is wrong. If someone has lost it in their feet, what could hurt their feet without them knowing?  
+  *Child mode:* Imagine your feet had lost the sense of pain. What could hurt them?
 - **s2 (20 min)**  
   *Parent does:* Draw two ideas, choose one, and make a model or a chart.  
   *Parent says:* Draw two ideas. Which one would catch more dangers? Let's make that one.  
@@ -509,8 +507,8 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
    **Answer:** Balance → when your head turns or tilts; Body position → where your hands and feet are; Temperature sense → warmth and cold; Pain → that something is hurting your body; Inside senses → hunger, thirst and needing the toilet. *Why:* These five senses are not on the list of five, and each has its own receptors.
 2. (fill) The three tiny loops of liquid in each inner ear are called the semicircular ____.  
    **Answer:** ['canals']. *Why:* The semicircular canals feel the head turning, because the liquid inside lags behind and bends tiny hairs.
-3. (truefalse) Two things left in the same room all day are at the same temperature, even if one feels colder.  
-   **Answer:** True. *Why:* True. Both reach room temperature. A good conductor of heat, such as steel, feels colder because it takes heat from your skin faster.
+3. (fill) The word for the senses inside your body, such as hunger and thirst, is ____.  
+   **Answer:** ['interoception']. *Why:* Interoception means sensing what is happening inside the body: hunger, thirst, being full, being short of breath and needing the toilet.
 4. (mcq) Which of these is the best conductor of heat?  
    Options: A cotton towel / A steel tumbler / A wooden spoon / A plastic plate  
    **Answer:** A steel tumbler. *Why:* Metals such as steel carry heat quickly. Cloth, wood and plastic carry heat slowly, so they are poor conductors.
@@ -526,7 +524,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 9. (odd) Which one is the odd one out, and why? Stretch sensors in muscles, ear crystals, semicircular canals, taste buds.  
    **Answer:** taste buds. *Why:* Taste buds are part of taste, one of the old five senses. The others are parts of the balance sense or the body-position sense.
 10. (truefalse) Pain is always bad for the body.  
-   **Answer:** False. *Why:* False. Short, sharp pain warns you to stop doing something harmful. People who cannot feel pain get hurt much more often.
+   **Answer:** False. *Why:* False. Short, sharp pain warns you to stop doing something harmful. People who have lost the sense of pain get hurt much more often.
 11. (label) Label the parts of the inner ear on the drawing: semicircular canals, the pouch with ear crystals, the nerve to the brain.  
    **Answer:** ['semicircular canals', 'pouch with ear crystals', 'nerve to the brain']. *Why:* The canals feel turning, the crystals feel tilting and speeding up, and the nerve carries both signals to the brain.
 12. (order) Put these in order: what happens when you touch a hot tawa?  
@@ -562,9 +560,8 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
    **Answer:** a cotton napkin. *Why:* Cotton is a poor conductor of heat. The others are metals and good conductors, so they feel colder to the touch.
 11. (write) Your leg 'falls asleep' after sitting cross-legged, and you wobble when you stand up. Which sense is not working properly, and why do you wobble?  
    **Answer:** My body-position sense. The squeezed nerves stop sending signals from my leg for a while, so my brain does not know where my foot is, and I cannot balance on it.. *Why:* A strong answer links the missing signals to the wobble.
-12. (mcq) Why is a short, sharp pain useful?  
-   Options: It makes you stop and protect the hurt part / It makes you stronger / It cools the body / It has no use  
-   **Answer:** It makes you stop and protect the hurt part. *Why:* Pain warns you, so you pull away, rest or look after the hurt part before more damage is done.
+12. (write) Hunger is a message from inside the body. Name two other messages from inside the body, and say what each one makes you do.  
+   **Answer:** Thirst makes me drink. Needing the toilet makes me go. Being short of breath after running makes me slow down and rest.. *Why:* A strong answer names two different inside messages and links each to something the body needs.
 13. (sort) Sort these: does each one feel colder or warmer than you would expect, and why?  
    **Answer:** a steel spoon in a cool room → Feels colder; a cotton mat on a cold floor → Feels warmer; the air after chewing mint → Feels colder; a mouthful of green chilli → Feels warmer. *Why:* Steel takes heat fast, and mint fools the cold receptors. Cotton takes heat slowly, and chilli fools the heat receptors.
 14. (label) Label the senses on the drawing of a girl climbing stairs: balance in her ears, body position in her legs, touch in her hand on the rail.  
@@ -576,8 +573,8 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
    **Answer:** Leave a steel tumbler and a wooden cup in the same room. Put a thermometer against each and wait. Both show the same reading. Or put a dab of butter on each in a warm room and see which melts first.. *Why:* A strong answer changes only one thing, uses a measurement or a result that does not depend on the hand, and says what each result would mean.
 2. (perspective) Scientists still count the senses differently.  
    **Answer:** A strong answer uses the map, which showed separate cold spots, to support counting receptors, or argues that what matters is how it feels. It names one strength of the other view.. *Why:* There is no single right answer. The number of senses depends on how you choose to count.
-3. (write) In 1893, Alois Kreidl gave freshly moulted shrimps iron filings instead of sand, and held a magnet above them. Predict what the shrimps did, and explain why.  
-   **Answer:** The shrimps tipped over. The magnet attracted the iron in their balance pits, so the iron pressed on the hairs as if down had moved. The shrimps turned their bodies to match the new 'down'.. *Why:* A strong answer explains that the shrimp feels which way the grains press, and the magnet changed that.
+3. (write) In 1893, Alois Kreidl gave freshly moulted shrimps iron filings instead of sand, and held a magnet above them. The shrimps tipped over. A friend says the shrimps could see the magnet. What test could show that the iron in their balance pits made them tip?  
+   **Answer:** Give other freshly moulted shrimps sand and hold the same magnet above them. If they stay upright and only the shrimps with iron tip over, the iron in the pits is the reason, not their eyes.. *Why:* A strong answer changes one thing, iron or sand, and keeps the magnet the same.
 4. (mcq) Astronauts in space often feel sick for the first few days. Which is the best explanation?  
    Options: Space is cold / With almost no feeling of down, their ear crystals send strange signals that do not match their eyes / They miss home / The food is different  
    **Answer:** With almost no feeling of down, their ear crystals send strange signals that do not match their eyes. *Why:* In orbit, the ear crystals no longer rest towards one side, so the balance sense and the eyes disagree. Most astronauts get used to it within a few days.
@@ -638,10 +635,10 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 9. (mcq) A prawn has just moulted, wriggling out of their old shell. Why do they pick up grains of sand?  
    Options: To eat them / To put them in the balance pits at the base of their short feelers / To build a nest / To clean their legs  
    **Answer:** To put them in the balance pits at the base of their short feelers. *Why:* The balance pits are part of the shell, so the old sand goes away with it. New sand grains rest on the sensing hairs and show the prawn which way is down.
-10. (mcq) After chewing pudina, Meenakshi, a girl in Class 3, sips water and it feels very cold. Why?  
-   Options: Pudina cools the water / Menthol in pudina switches on her cold receptors / Her mouth is burnt / The water came from the fridge  
-   **Answer:** Menthol in pudina switches on her cold receptors. *Why:* Menthol switches on cold receptors, so they send 'cold' signals though the water's temperature has not changed.
-11. (mcq) Riya, a girl in Class 4, wants to test if she gets dizzier after 10 spins than after 5. What makes it a fair test?  
+10. (mcq) After sucking a peppermint sweet, Meenakshi, a girl in Class 3, sips water and it feels very cold. Why?  
+   Options: The mint cools the water / Menthol in peppermint switches on her cold receptors / Her mouth is burnt / The water came from the fridge  
+   **Answer:** Menthol in peppermint switches on her cold receptors. *Why:* Menthol switches on cold receptors, so they send 'cold' signals though the water's temperature has not changed.
+11. (mcq) Rupa, a girl in Class 4, wants to test if she gets dizzier after 10 spins than after 5. What makes it a fair test?  
    Options: Spin faster for 10 than for 5 / Spin at the same speed and rest until normal between tries / Do 5 spins on the bed and 10 on the floor / Only do one try  
    **Answer:** Spin at the same speed and rest until normal between tries. *Why:* In a fair test, only the number of spins changes. The speed, the place and the rest between tries stay the same, so any difference comes from the number of spins.
 12. (mcq) Why do many children feel sick reading a book in a moving car?  
@@ -660,10 +657,10 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 
 ## Spotted around us
 - The steel railing on a balcony feels colder in the morning than the wooden door next to it.
-- A giant wheel at a temple festival or a mela, and the wobbly feeling when you step off.
+- A giant wheel at a temple festival, a mela or a Durga Puja fair, and the wobbly feeling when you step off.
 - A Kathak or Bharatanatyam dancer spinning, with her eyes fixed on one spot.
 - A shoal of fish in a temple tank turning all at once.
-- Prawns at the fish market in Kochi or Chennai, with their long and short feelers.
+- Prawns at the fish market in Kochi, Chennai or Kolkata, with their long and short feelers.
 - A mosquito finding you in a dark bedroom, though you cannot see her.
 - The wooden or plastic handle on a steel kadai or a pressure cooker.
 
@@ -686,31 +683,23 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - Is hunger a sense? What tells you that you are hungry?
 
 ## Jokes
-- Why did the prawn carry sand everywhere? *To stay well-balanced.*
 - Why did the steel plate feel so cold? *It kept taking all the heat.*
 - What did one ear say to the other after the giant wheel? *Stop spinning, I'm getting dizzy!*
-- Why was the fish never surprised? *She always felt it coming.*
 - Why did the mint go to school? *To be the coolest one in class.*
 - What did the spider say when the web shook? *Lunch is ringing the bell!*
 - Why didn't the ice cube sit on the steel plate? *It didn't want to melt down.*
-- Why did the girl spin round and round before her test? *She wanted to make her head spin with ideas.*
 - What does a python say when a rat walks by? *I can feel you're hot stuff.*
 - Why did the foot fall asleep? *It was tired of being stood on.*
 - What's a mosquito's favourite smell? *Your breath, sadly.*
 - Why was the wooden spoon so calm? *It never takes the heat.*
-- How do ears keep their balance? *With a lot of crystal-clear thinking.*
-- Why did the dancer stare at one spot? *So her ears wouldn't make her dizzy.*
-- Why did the cat bring her whiskers to the party? *To feel the music in the air.*
-- What did the thermometer say to the hand? *You're feeling the heat, I'm measuring it.*
-- Why did the shrimp swim sideways near the magnet? *Somebody moved down.*
 - What did the tummy say to the brain at noon? *This is your inside sense calling: lunch!*
 
 ## Connected maths
-- In the Dizzy Timer, Kavya felt dizzy for 6 seconds after 5 turns and 14 seconds after 10 turns. How many more seconds did 10 turns give? If the pattern goes on, guess how long 15 turns would give, and say why it is only a guess. **8 more seconds. A guess for 15 turns is about 22 seconds, but it is only a guess.**. 14 - 6 = 8. Each extra 5 turns added 8 seconds, so 14 + 8 = 22. It is only a guess, because the liquid in the ear may stop speeding up after a while, and we have not tested 15 turns. (queues `math.patterns.number-patterns.L3`)
-- In Find the Dot, Arjun's misses with his writing hand were 2, 1, 3, 1 and 2 cm. With his other hand they were 4, 3, 2, 3 and 3 cm. Which hand did better? By how much in total? **His writing hand did better, by 6 cm in total.**. Writing hand: 2 + 1 + 3 + 1 + 2 = 9 cm. Other hand: 4 + 3 + 2 + 3 + 3 = 15 cm. 15 - 9 = 6. A smaller total miss means the hand landed closer. (queues `math.addition-subtraction.mental-strategies.L3`)
+- In the Dizzy Timer, Kavya, a girl in Class 3, felt dizzy for 6 seconds after 5 turns and 14 seconds after 10 turns. How many more seconds did 10 turns give? If the pattern goes on, guess how long 15 turns would give, and say why it is only a guess. **8 more seconds. A guess for 15 turns is about 22 seconds, but it is only a guess.**. 14 - 6 = 8. Each extra 5 turns added 8 seconds, so 14 + 8 = 22. It is only a guess, because the liquid in the ear may stop speeding up after a while, and we have not tested 15 turns. (queues `math.patterns.number-patterns.L3`)
+- In Find the Dot, Arjun, a boy in Class 3, missed by 2, 1, 3, 1 and 2 cm. With his other hand they were 4, 3, 2, 3 and 3 cm. Which hand did better? By how much in total? **His writing hand did better, by 6 cm in total.**. Writing hand: 2 + 1 + 3 + 1 + 2 = 9 cm. Other hand: 4 + 3 + 2 + 3 + 3 = 15 cm. 15 - 9 = 6. A smaller total miss means the hand landed closer. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In the Ice Race, the cube on the steel plate melted in 15 minutes. The cube on the wooden board took 45 minutes. How many times as long did the wooden board's cube last? **3 times as long.**. 45 divided by 15 is 3. So the cube on the wood lasted 3 times as long as the cube on the steel. These are made-up numbers, and your own times will depend on the room. (queues `math.division.division-facts.L3`)
-- On her Cold Spot Map, Lakshmi tested 16 squares. 10 felt cold and the rest felt only like a touch. How many felt only like a touch? What fraction of the squares felt cold? **6 felt only like a touch. 10 out of 16 felt cold, which is the same as 5 out of 8.**. 16 - 10 = 6. 10 sixteenths is the same as 5 eighths, because both numbers can be halved. (queues `math.fractions.fractions-of-a-whole.L3`)
-- Meenakshi's diary had 4 balance messages, 7 body-position messages, 5 warm-and-cold messages, 2 pain messages and 12 inside-sense messages in 5 days. Draw a bar chart. Which sense sent the most messages? Why do you think so? **The inside senses sent the most, 12 messages.**. The tallest bar is inside senses, 12. That makes sense: every day she felt hungry, thirsty and needed the toilet several times, but she rarely got hurt. (queues `math.data.bar-charts.L3`)
+- On her Cold Spot Map, Lakshmi, a girl in Class 3, tested 16 squares. 10 felt cold and the rest felt only like a touch. How many felt only like a touch? What fraction of the squares felt cold? **6 felt only like a touch. 10 out of 16 felt cold, which is the same as 5 out of 8.**. 16 - 10 = 6. 10 sixteenths is the same as 5 eighths, because both numbers can be halved. (queues `math.fractions.fractions-of-a-whole.L3`)
+- Meenakshi, a girl in Class 3, kept a diary. It had 4 balance messages, 7 body-position messages, 5 warm-and-cold messages, 2 pain messages and 12 inside-sense messages in 5 days. Draw a bar chart. Which sense sent the most messages? Why do you think so? **The inside senses sent the most, 12 messages.**. The tallest bar is inside senses, 12. That makes sense: every day she felt hungry, thirsty and needed the toilet several times, but she rarely got hurt. (queues `math.data.bar-charts.L3`)
 
 ## Song
 The World Comes In (sci.senses.L3): Topic-level song for Senses L3
@@ -737,7 +726,7 @@ The World Comes In (sci.senses.L3): Topic-level song for Senses L3
 
 ## Plan
 - Start options: a1, e1, story, g1, big_questions, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → story → a2 → e2 → a3 → a4 → g2 → videos → ws-core → e3 → a5 → g1 → p1 → agreed → challenging → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → quiz
+- Default order: intro → a1 → summary → terms → e1 → explanations → story → a2 → e2 → a3 → a4 → g2 → p1 → videos → ws-core → e3 → a5 → g1 → agreed → challenging → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → quiz
 - Core: a1, e1, a2, a3, g2, ws-core
 
 ## Sources

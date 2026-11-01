@@ -98,7 +98,7 @@
    "definition": "When sugar dissolves, water particles attract the sugar particles on the outside of a grain and pull them away, one by one. The sugar particles then spread out among the water particles.",
    "description": "Water particles bump and tug at a sugar grain from every side. They can only reach the particles on its outside. As the outside particles leave, the next ones are uncovered, so the grain gets smaller and smaller until it is gone. Each sugar particle is now surrounded by water particles. It is far too small to see, but it is still sugar. That is why the water tastes sweet.",
    "examples": [
-    "Sugar in a glass of nimbu pani dissolves in about a minute if you stir it.",
+    "Sugar in a glass of lemon juice dissolves in about a minute if you stir it.",
     "Salt dissolves in sambar, so you taste it everywhere but cannot see it."
    ],
    "perspectives": [],
@@ -172,22 +172,22 @@
  ],
  "agreed": [
   {
-   "context": "This card says what scientists agree on.",
+   "context": "This card says scientists agree that everything is made of particles.",
    "text": "Everything is made of particles far too small to see.",
    "evidence": "Scientists first worked it out from how gases and dissolved things behave. Since the 1980s, special microscopes have made pictures of single atoms."
   },
   {
-   "context": "This card says what scientists agree on.",
+   "context": "This card says scientists agree that dissolved sugar is still there.",
    "text": "A dissolved substance is still there, as particles spread through the liquid.",
    "evidence": "The solution tastes of it, weighs more by exactly its weight, and gives it back when the liquid dries up."
   },
   {
-   "context": "This card says what scientists agree on.",
+   "context": "This card says scientists agree that the total weight stays the same in a closed container.",
    "text": "In a closed container, the total weight stays the same through dissolving, melting and chemical changes.",
    "evidence": "Chemists have weighed this carefully since the 1700s, and it has always held."
   },
   {
-   "context": "This card says what scientists agree on.",
+   "context": "This card says scientists agree on what makes sugar dissolve faster.",
    "text": "Crushing, stirring and warming make a solid dissolve faster.",
    "evidence": "Anyone can test it at home with sugar or salt."
   }
@@ -272,9 +272,9 @@
   "read_aloud": true,
   "note": "Kavya, her aunt Meenakshi, the stall and the customer are made up. Juice stalls in India often keep a bottle of sugar syrup, and unstirred syrup really does stay at the bottom of a glass.",
   "text": [
-   "Every summer holiday, Kavya helped at her Chithi's juice stall near the bus stand in Madurai. Chithi means aunt, and Kavya's Chithi was called Meenakshi. Her stall sold nimbu pani, sugarcane juice and sweet lime juice. It had a steel counter, a big glass jar of lemons, and a tall bottle of thick, clear sugar syrup.",
+   "Every summer holiday, Kavya helped at her Chithi's juice stall near the bus stand in Madurai. Chithi means aunt, and Kavya's Chithi was called Meenakshi. Her stall sold lemon juice, sugarcane juice and sweet lime juice. It had a steel counter, a big glass jar of lemons, and a tall bottle of thick, clear sugar syrup.",
    "Kavya was nine. Her job was to squeeze the lemons, pour in the syrup, fill the glass with cold water and hand it over. It was May, and the queue never ended. Bus drivers, students, a grandmother with a basket of jasmine flowers. Everyone was hot and thirsty.",
-   "That afternoon a bus conductor came to the counter. He wore a khaki uniform and a leather bag across his chest, and he looked tired. 'One nimbu pani,' he said, 'and hurry, my bus leaves in five minutes.'",
+   "That afternoon a bus conductor came to the counter. He wore a khaki uniform and a leather bag across his chest, and he looked tired. 'One lemon juice, please,' he said, 'and hurry, my bus leaves in five minutes.'",
    "Kavya squeezed half a lemon into a glass. She poured in a long stream of syrup. She filled the glass slowly with water from the cold steel can and handed it over with a straw. Then she turned to the next customer.",
    "'Hey!' The conductor held up his glass. 'You forgot the sugar. This is sour as anything.'",
    "'I put it in,' said Kavya. 'I poured the syrup myself.'",
@@ -287,7 +287,7 @@
    "'Taste this,' she said. 'This is from the bottom.'",
    "The conductor tasted it. His eyebrows went up. 'That is sweet. Very sweet.'",
    "'The sugar is all at the bottom,' said Kavya. 'The syrup is heavy, so it sank, and I forgot to stir. The top is just lemon and water.' She took a long spoon and stirred the glass round and round, ten times. 'Now try it.'",
-   "He sipped. He smiled for the first time. 'Now that is nimbu pani.' Then he frowned. 'But I still can't see any sugar. Did you add more while I wasn't looking?'",
+   "He sipped. He smiled for the first time. 'Now that is lemon juice.' Then he frowned. 'But I still can't see any sugar. Did you add more while I wasn't looking?'",
    "'No,' said Kavya. 'It was in there all the time. You just can't see it.'",
    "He laughed, paid, and ran for his bus, still drinking.",
    "That night, Chithi and Kavya washed the glasses together. Kavya told her what had happened. 'Chithi, how can sugar be in the water if you can't see it? Where does it hide?'",
@@ -308,7 +308,7 @@
   ],
   "art": [
    "A small juice stall by a busy bus stand in Madurai, with a jar of lemons, a tall bottle of clear syrup, and a nine-year-old girl squeezing a lemon.",
-   "A tired bus conductor in khaki holding a glass of nimbu pani up to the light, frowning.",
+   "A tired bus conductor in khaki holding a glass of lemon juice up to the light, frowning.",
    "Close-up of the glass, with a faint shimmering layer at the bottom, and a line of small black ants on the counter heading to a sticky ring.",
    "The girl lifting a straw out of the glass with her finger pressed on its top, letting drops fall onto a steel spoon.",
    "Night at the stall: the aunt and the girl washing glasses together under a bulb, and a hand-written sign on the syrup bottle saying STIR TEN TIMES."
@@ -328,72 +328,109 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 'It disappeared' cards to cut out",
+     "title": "16 'It disappeared' cards to cut out (the answer is on the back)",
      "items": [
-      "Lakshmi stirs sugar into her tea. The grains disappear. (Into the tea)",
-      "Amma puts salt in the rasam. You can't see it any more. (Into the rasam)",
-      "Wet clothes on the balcony are dry by evening. (Into the air)",
-      "A camphor tablet left on a plate gets smaller every day. (Into the air)",
-      "A puddle on the terrace is gone by afternoon. (Into the air)",
-      "Water in an open steel tumbler is lower after three days. (Into the air)",
-      "A bar of soap gets thinner after a month of baths. (Into the bath water)",
-      "Kavya rubs out a pencil line. The line is gone. (Onto the eraser crumbs)",
-      "The soles of Arjun's chappals wear thin. (Onto the roads he walked on)",
-      "Meera sucks a piece of kalkandu until it is gone. (Into her spit, then into her body)",
-      "An ice cube in a glass of water disappears. (Into the water, as more water)",
-      "A spoon of coffee powder vanishes in hot milk. (Into the milk)",
-      "A drop of ink spreads until the whole tumbler is pale blue. (Into the water)",
-      "A sugar drop on the floor is gone by morning, and there are ants nearby. (Into the ants)",
-      "Jaggery is stirred into water to make panakam. (Into the panakam)",
-      "A wet handprint on the steel counter fades away. (Into the air)"
+      {
+       "f": "Lakshmi, a girl in Class 3, stirs sugar into her tea. The grains disappear.",
+       "b": "Into water, a drink or food: the sugar spread through the tea."
+      },
+      {
+       "f": "Salt is stirred into the rasam. You can't see it any more.",
+       "b": "Into water, a drink or food: the salt spread through the rasam."
+      },
+      {
+       "f": "Wet clothes hung on the balcony are dry by evening.",
+       "b": "Into the air: the water became vapour."
+      },
+      {
+       "f": "A camphor tablet left on a plate gets smaller every day.",
+       "b": "Into the air: camphor particles leave the tablet. (This is the practice card.)"
+      },
+      {
+       "f": "A puddle on the terrace is gone by afternoon.",
+       "b": "Into the air: the water became vapour."
+      },
+      {
+       "f": "Water in an open steel tumbler is lower after three days.",
+       "b": "Into the air: the water became vapour."
+      },
+      {
+       "f": "A bar of soap gets thinner after a month of baths.",
+       "b": "Into water, a drink or food: tiny bits of soap went into the bath water."
+      },
+      {
+       "f": "Kavya, a girl in Class 3, rubs out a pencil line. The line is gone.",
+       "b": "Onto something it rubbed against: the eraser crumbs."
+      },
+      {
+       "f": "The soles of Arjun's chappals wear thin. Arjun is a boy in Class 3.",
+       "b": "Onto something it rubbed against: the roads he walked on."
+      },
+      {
+       "f": "Meera, a girl in Class 3, sucks a piece of kalkandu until it is gone.",
+       "b": "Into a living body: into her spit, then into her body."
+      },
+      {
+       "f": "An ice cube in a glass of water disappears.",
+       "b": "Into water, a drink or food: it became more water."
+      },
+      {
+       "f": "A spoon of instant coffee powder vanishes in hot milk.",
+       "b": "Into water, a drink or food: the coffee spread through the milk."
+      },
+      {
+       "f": "A drop of ink spreads until the whole tumbler of water is pale blue.",
+       "b": "Into water, a drink or food: the ink spread through the water."
+      },
+      {
+       "f": "A drop of sugar syrup on the floor is gone by morning. Ants were nearby.",
+       "b": "Into a living body: the ants ate it or carried it home."
+      },
+      {
+       "f": "Jaggery is stirred into water to make panakam.",
+       "b": "Into water, a drink or food: the jaggery spread through the panakam."
+      },
+      {
+       "f": "A wet handprint on the steel kitchen counter fades away.",
+       "b": "Into the air: the water became vapour."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "8 'Where it went' cards to cut out",
+     "title": "4 'Where it went' cards to cut out",
      "items": [
-      "Into a drink or food",
       "Into the air",
-      "Into the water",
+      "Into water, a drink or food",
       "Onto something it rubbed against",
-      "Into a living body",
-      "Into the air",
-      "Into the water",
-      "Into a drink or food"
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "A score sheet with each player's name and 16 boxes",
-     "items": [
-      "Name",
-      "Cards won",
-      "Points for reasons"
+      "Into a living body"
      ]
     }
    ],
    "rules": [
-    "Lay the 8 'Where it went' cards face up in a row.",
-    "Shuffle the 16 'It disappeared' cards and put them face down.",
+    "Lay the 4 'Where it went' cards face up in a row.",
+    "Take out the camphor card for the practice round. Shuffle the other 15 'It disappeared' cards and make a pile with the story side up.",
     "On your turn, take the top card and read it aloud.",
-    "Put it on the 'Where it went' card that fits. Then say what it broke into: grains, crumbs or particles.",
-    "Check the answer in the brackets. Right place: keep the card. Say the word 'particles' in your reason: 1 more point.",
-    "Some cards can fit two places. If you can explain your choice, it counts.",
-    "Playing alone, try to win all 16 cards with a reason for each."
+    "Put it on the 'Where it went' card that fits. Then say what the thing broke into: grains, crumbs or particles.",
+    "Turn the card over to check. Right place: keep the card, 1 point. Say the word 'particles' in your reason: 1 more point.",
+    "Wrong place: the card is out of the game, and nobody keeps it.",
+    "Some cards can fit two places. If you can explain your choice, it counts as right.",
+    "When all 15 cards are used, count your points. The most points wins. A tie is a shared win.",
+    "Playing alone, try to keep all 15 cards with a 'particles' reason for each: 30 points."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the cards. 2. Lay the 8 'Where it went' cards face up. 3. Shuffle the 16 'It disappeared' cards and put them face down.",
+     "do": "1. Cut out the cards. 2. Lay the 4 'Where it went' cards face up. 3. Take out the camphor card. Shuffle the other 15 cards and put them in a pile, story side up.",
      "say": "Every card is about something that seems to vanish. Nothing really vanishes. Your job is to say where it went.",
-     "kid": "Lay the 'Where it went' cards face up. Shuffle the others. Every card is something that seems to vanish. Where did it really go?",
+     "kid": "Lay the 'Where it went' cards face up. Shuffle the other cards in a pile. Every card is something that seems to vanish. Where did it really go?",
      "context": "This is the start of Where Did It Go?, a card game about things that seem to disappear."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the camphor card together as a practice round.",
+     "do": "Play the camphor card together as a practice round. Nobody keeps it.",
      "say": "Practice card. A camphor tablet left on a plate gets smaller every day. Where did the camphor go?",
      "kid": "Practice card. A camphor tablet gets smaller every day. Where did it go?",
      "check": {
@@ -411,9 +448,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Take turns. 2. Read a card, place it, and give a reason. 3. Check the answer in the brackets.",
+     "do": "1. Take turns. 2. Read a card, place it, and give a reason. 3. Turn the card over to check.",
      "say": "Read your card. Where did it go? Tell us what it broke into.",
-     "kid": "Read your card. Put it where it went. Say why. Check the answer in the brackets.",
+     "kid": "Read your card. Put it where it went. Say why. Turn the card over to check.",
      "parent": "Help your child use the word 'particles' in their reasons, for example 'the sugar broke into particles that spread through the tea'. The chappal and eraser cards are about tiny crumbs, not single particles. That is fine. Crumbs are made of particles too."
     },
     {
@@ -428,7 +465,7 @@
    ],
    "setup": [
     {
-     "art": "Eight cards laid face up in a row with labels like 'Into the air' and 'Into the water', and a face-down pile beside them.",
+     "art": "Four cards laid face up in a row with labels like 'Into the air' and 'Into water, a drink or food', and a pile of story cards beside them.",
      "caption": "1. Lay out the 'Where it went' cards. Shuffle the others."
     },
     {
@@ -445,48 +482,70 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game with beans. A square of beans is a model of a sugar grain, and you play the water, pulling off particles from the outside. It shows why crushed sugar dissolves faster.",
+   "context": "This is a board game with beans. A square of beans is a model of a sugar grain, and you play the water. Water can only pull off the beans it touches, so the game shows why crushed sugar dissolves faster.",
    "printables": [
     {
      "kind": "board",
-     "title": "A plate mat for each player, with a 5 by 5 square of circles drawn in the middle and a blue border labelled 'water'",
+     "title": "A mat with a 5 by 5 square of 25 circles: the sugar grain (print one for each player)",
      "items": [
-      "25 circles in a 5 by 5 square: the sugar grain",
-      "Blue border all round: the water"
+      "Circle 1 of 25",
+      "Circle 2 of 25",
+      "Circle 3 of 25",
+      "Circle 4 of 25",
+      "Circle 5 of 25",
+      "Circle 6 of 25",
+      "Circle 7 of 25",
+      "Circle 8 of 25",
+      "Circle 9 of 25",
+      "Circle 10 of 25",
+      "Circle 11 of 25",
+      "Circle 12 of 25",
+      "Circle 13 of 25",
+      "Circle 14 of 25",
+      "Circle 15 of 25",
+      "Circle 16 of 25",
+      "Circle 17 of 25",
+      "Circle 18 of 25",
+      "Circle 19 of 25",
+      "Circle 20 of 25",
+      "Circle 21 of 25",
+      "Circle 22 of 25",
+      "Circle 23 of 25",
+      "Circle 24 of 25",
+      "Circle 25 of 25"
      ]
     },
     {
      "kind": "cards",
-     "title": "A dice key to stick on the table",
+     "title": "4 dice key cards to stick on the table",
      "items": [
-      "1 or 2: Still water. Take 1 bean.",
-      "3 or 4: Stir! Take 2 beans.",
-      "5: Warm water! Take 3 beans.",
-      "6: Crush! Split your grain into 2 pieces with a gap between them. Then take 1 bean."
+      "1 or 2: Still water. Take 1 bean for every 4 beans that touch the water.",
+      "3 or 4: Stir! Take 1 bean for every 2 beans that touch the water.",
+      "5: Warm water! Take 3 beans for every 4 beans that touch the water.",
+      "6: Crush! Take no beans. Pull your grain apart into small pieces with gaps, so that empty space is beside every bean."
      ]
     },
     {
      "kind": "tokens",
-     "title": "25 rajma or chana beans for each player, and a dice",
+     "title": "Beans and a dice",
      "items": [
-      "🫘",
-      "🎲"
+      "Use 25 rajma or chana beans for each player, or cut 25 small paper circles. You also need one dice and a small bowl for each player."
      ]
     }
    ],
    "rules": [
-    "Each player puts 25 beans on the 25 circles of their mat. This is their sugar grain.",
-    "On your turn, roll the dice and do what the dice key says.",
-    "You may only take a bean that touches the water. A bean touches the water if the blue border or an empty circle is right beside it, on at least one side.",
-    "Beans you take go into the blue water border. They are dissolved.",
-    "If you roll 6, slide part of your grain away so it is in 2 pieces with a gap. Now more beans touch the water.",
-    "The first player whose whole grain is dissolved wins."
+    "Two players, or two teams if more play. Each side has a mat, 25 beans and a bowl. Put a bean on every circle: this is your sugar grain. The empty paper around the mat is the water.",
+    "A bean touches the water when there is empty space on at least one of its sides: up, down, left or right.",
+    "On your turn, count the beans that touch the water. Roll the dice and read the dice key.",
+    "Take the number of beans the key says, only from the beans that touch the water, and put them in your bowl. They have dissolved. Round down, but always take at least 1.",
+    "On a 6, take no beans. Pull your grain apart into small pieces with gaps, until empty space is beside every bean. Now many more beans touch the water.",
+    "The first side to dissolve all of its beans wins. If the other side finishes in the same round, it is a tie."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give each player a mat and 25 beans. 2. Fill every circle with a bean. 3. Point to the beans on the edge, and then to the 9 in the middle.",
+     "do": "1. Give each side a mat, 25 beans and a bowl. 2. Put a bean on every circle. 3. Point to the beans on the edge, and then to the 9 in the middle.",
      "say": "This square of beans is a sugar grain, and each bean is a sugar particle. You are the water. Water can only reach the beans on the outside.",
      "kid": "Put a bean on every circle. This is a sugar grain. You are the water. Can you reach the beans in the middle?",
      "context": "This is the start of Dissolve Race, a bean game. The square of beans is a model of a sugar grain."
@@ -512,10 +571,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Take turns rolling and taking beans. 2. On a 6, split the grain into 2 pieces.",
-     "say": "Roll. Remember, you can only take beans that touch the water.",
-     "kid": "Roll the dice. Take beans from the outside only. On a 6, split your grain in two!",
-     "parent": "Watch for the moment a 6 is rolled. After a split, many more beans touch the water. That is what crushing does to real sugar."
+     "do": "1. Take turns counting, rolling and taking beans. 2. On a 6, pull the grain apart into pieces.",
+     "say": "Count the beans that touch the water. Roll. Take only beans that touch the water.",
+     "kid": "Count the beans touching the water. Roll the dice. Take beans from the outside only. On a 6, pull your grain apart!",
+     "parent": "Watch for the first 6. After the grain is pulled apart, every bean touches the water, so the next rolls take many more beans. That is what crushing does to real sugar."
     },
     {
      "id": "s4",
@@ -536,16 +595,16 @@
    ],
    "setup": [
     {
-     "art": "A paper plate mat with a 5 by 5 square of rajma beans in the middle and a blue painted border.",
+     "art": "A mat with a 5 by 5 square of rajma beans in the middle, empty paper all round it, and a small bowl beside it.",
      "caption": "1. Fill the square with 25 beans. This is your sugar grain."
     },
     {
-     "art": "A hand taking a bean from the edge of the square and putting it in the blue border.",
-     "caption": "2. Roll. Take beans from the outside only."
+     "art": "A hand taking beans from the edge of the square and dropping them in a bowl.",
+     "caption": "2. Count the beans touching the water. Roll. Take beans from the outside only."
     },
     {
-     "art": "The bean square split into two pieces with a gap between them.",
-     "caption": "3. On a 6, split your grain. More beans touch the water."
+     "art": "The bean square pulled apart into small pieces with gaps between them.",
+     "caption": "3. On a 6, pull your grain apart. More beans touch the water."
     }
    ]
   }
@@ -599,7 +658,6 @@
      "qty": 1
     }
    ],
-   "safety": "Only taste from clean spoons and clean bottles. Wipe up spilled sugar, or ants will find it.",
    "schedule": [
     {
      "day": 1,
@@ -712,8 +770,8 @@
     "cols": [
      "What we did",
      "Where the pointer went",
-     "Bottle A looked",
-     "Bottle A tasted"
+     "What bottle A looked like",
+     "How bottle A tasted"
     ],
     "rows": [
      [
@@ -762,7 +820,7 @@
    "days": 1,
    "question": "Does the size of the pieces change how fast sugar dissolves?",
    "predict": "Guess first. Which will dissolve first in water: a lump of kalkandu, ordinary sugar grains, or powdered sugar? Which will be last? Why do you think so?",
-   "fair_test": "Use the same glass, the same amount of water from the same jug, and the same amount of sugar each time. Stir the same way: 5 slow stirs every 30 seconds. Only the size of the pieces changes. Water from one jug is all the same warmth.",
+   "fair_test": "Use the same glass, the same amount of water from the same jug, and about the same amount of sugar each time (one level teaspoon). Stir the same way: 5 slow stirs every 30 seconds. Only the size of the pieces changes. Water from one jug is all the same warmth.",
    "results_table": [
     "Kind of sugar",
     "My guess (first, second or last)",
@@ -795,7 +853,6 @@
      "qty": 1
     }
    ],
-   "safety": "If a grown-up powders the sugar in a mixie, the child stays clear of the blades. Crushing with a rolling pin is safe for children.",
    "schedule": [
     {
      "day": 1,
@@ -950,7 +1007,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1122,7 +1178,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use a clean straw for each sample, and don't share straws.",
    "schedule": [
     {
      "day": 1,
@@ -1147,7 +1202,7 @@
      "do": "1. Dip a clean straw just under the surface. 2. Press a finger tight on the top of the straw and lift it out. 3. Let the drops fall onto a clean spoon. 4. Taste.",
      "say": "This is water from the very top. Taste it. Sweet or plain?",
      "kid": "Take a little water from the top with the straw trick. Taste it. Sweet or plain?",
-     "parent": "The straw trick: a finger pressed on the top end holds the water in the straw. Lift your finger and the water drops out."
+     "parent": "The straw trick: a finger pressed on the top end holds the water in the straw. Lift your finger and the water drops out. The top may taste very faintly sweet if pouring the sugar stirred the water a little. The bottom will still be much sweeter."
     },
     {
      "id": "s3",
@@ -1211,7 +1266,7 @@
      "qty": 1
     },
     {
-     "item": "a few spoons of sugar water from the hanger balance experiment, and a few spoons of plain water",
+     "item": "a little sugar water (a teaspoon of sugar stirred into half a cup of water) and a little plain water",
      "qty": 1
     },
     {
@@ -1219,7 +1274,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch the ants, but don't touch them. Some ants bite. Wipe up the sugar water afterwards so the ants don't come into the kitchen.",
+   "safety": "Watch the ants, but don't touch them. Some ants bite.",
    "schedule": [
     {
      "day": 1,
@@ -1236,18 +1291,18 @@
      "say": "Both drops look the same. Will the ants be able to tell them apart? Why do you think so?",
      "kid": "Put a sugar water drop at one end. Plain water at the other. They look the same. Can the ants tell?",
      "wait": "Check after 15 minutes, and again after 30 minutes",
-     "parent": "Ants need sugar for energy. A colony has many mouths to feed, so ants search all the time and lead each other to good food. If there are no ants near you, try the bottom of a balcony wall or near a potted plant, and check again after an hour.",
+     "parent": "Ants need sugar for energy. A colony has many mouths to feed, so ants search all the time and lead each other to good food. If no ants come in 30 minutes, that is not a result: try near the bottom of a balcony wall or a potted plant, or try again another day.",
      "context": "This is the first step of Ask the Ants. You give ants a drop of sugar water and a drop of plain water that look the same."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Check the card after 15 minutes, and again after 30 minutes. Count the ants at each drop.",
+     "do": "Check the card after 15 minutes, and again after 30 minutes. Count the ants at each drop. If no ants have come, move to another spot and wait again.",
      "say": "Which drop did the ants go to? How did they know, when we can't see the sugar?",
      "kid": "Count the ants at each drop. Which one did they choose?",
      "check": {
       "t": "mcq",
-      "q": "The ants gathered at the sugar water drop and left the plain water alone. How did they find it?",
+      "q": "Suppose the ants gather at the sugar water drop and leave the plain water alone. How did they find it?",
       "options": [
        "They saw the sugar",
        "They sensed the sugar particles with their antennae",
@@ -1336,32 +1391,30 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "On day 3 and day 5, trace the open tablet on the same paper, inside the first outline.",
+     "mins": 10,
+     "do": "On day 3 and day 5, trace the open tablet on the same paper, inside the first outline. On day 5, also look at the jar tablet without opening the jar.",
      "say": "Has the open tablet changed? Can you smell camphor near it?",
      "kid": "Trace the open tablet again. Is it smaller? Can you smell it?",
      "adult": true,
-     "wait": "Do this on day 3 and day 5",
+     "wait": "Do this on day 3 and day 5, about 5 minutes each time",
      "parent": "In a warm, airy room the open tablet gets noticeably smaller within a few days, and its edges go soft and round. If it is changing slowly, keep going for a few more days."
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "On day 7, trace both tablets. Then open the jar and sniff, holding it a little away from your nose.",
-     "say": "Compare the two tablets. Then smell inside the jar. Where did the missing camphor from the open tablet go?",
+     "say": "Compare the two tablets. Then smell inside the jar. Where did the missing camphor from the open tablet go? How do you know?",
      "kid": "Trace both. Open the jar and sniff, not too close. Where did the open tablet's camphor go?",
      "adult": true,
-     "check": {
-      "t": "mcq",
-      "q": "The open tablet got much smaller, and the room smelled of camphor. Where did the camphor go?",
-      "options": [
-       "It was destroyed",
-       "Into the air, as camphor particles",
-       "It melted into the saucer"
-      ],
-      "a": 1,
-      "why": "Camphor particles leave the solid and fly off into the air, without melting first. When some of them reach your nose, you smell camphor. Picking 'destroyed' is the guess most people make, because we can't see where it went. Picking 'melted' is a good thought, but the saucer stayed dry."
-     }
+     "ask": [
+      {
+       "q": "Where did the missing camphor from the open tablet go? How do you know?",
+       "good": [
+        "Into the air, as camphor particles.",
+        "We could smell it in the room, and the saucer stayed dry."
+       ]
+      }
+     ]
     },
     {
      "id": "s4",
@@ -1403,7 +1456,7 @@
    "id": "c1",
    "title": "Prove It's There, Without Tasting",
    "mins": 25,
-   "problem": "Farhan, a boy in Class 3, says his sister's glass of sugar water is just water, because he can't see any sugar. He won't taste it, because he says that's cheating. Find a way to show the sugar is there, without anyone tasting it.",
+   "problem": "A friend says the glass of sugar water on the table is just water, because he can't see any sugar. He won't taste it, because he says that's cheating. Find a way to show the sugar is there, without anyone tasting it.",
    "constraints": [
     "Nobody may taste the water.",
     "You may use only things from home.",
@@ -1411,28 +1464,28 @@
    ],
    "materials": [
     "a glass of sugar water and a glass of plain water that look the same",
-    "the hanger balance from the experiment",
     "a steel plate or a sheet of black paper",
-    "a card for the ants"
+    "kitchen paper",
+    "a kitchen scale, if you have one"
    ],
    "general": [
-    "Weigh it. Fill two same bottles to the same mark, one with each water, and hang them on the hanger balance. The sugar water side goes down a little, because it holds the sugar particles too.",
-    "Ask the ants. Put a drop of each near an ant trail. Ants go to the sugar water.",
-    "Let it dry. Put a few drops of each on a steel plate in the sun. The plain water dries to almost nothing. The sugar water dries to a sticky patch."
+    "Weigh it, if you have a kitchen scale. Put two same glasses on the scale one at a time, each filled to the same mark, one with each water. The sugar water reads a little more, by a few grams. Fill carefully, or the difference is lost.",
+    "Let it dry. Put a few drops of each on a steel plate in a sunny window. The plain water dries to almost nothing. The sugar water dries to a sticky patch.",
+    "Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky."
    ],
    "creative": [
-    "Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky.",
     "Paint a few lines with each water on black paper with a brush. When dry, the sugar lines may shine and feel stiff.",
+    "Dip a strip of kitchen paper in each water and let both dry. The sugar strip feels stiffer.",
     "Ask a grown-up to boil a few spoons of each in a small pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom."
    ],
-   "your_turn": "Now invent your own test. Draw it, try it, and show Farhan the result.",
+   "your_turn": "Now invent your own test. Draw it, try it, and show your friend the result.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Set out a glass of sugar water and a glass of plain water. 2. Read the problem aloud.",
-     "say": "Farhan says this is just water, and he won't let anyone taste it. How could we show him the sugar is there?",
-     "kid": "Farhan won't believe there is sugar in this glass. Nobody can taste it. How can you show him?",
+     "say": "A friend says this is just water, and he won't let anyone taste it. How could we show him the sugar is there?",
+     "kid": "A friend won't believe there is sugar in this glass. Nobody can taste it. How can you show him?",
      "context": "This is the first step of the Prove It's There challenge. You find a way to show sugar is in water without tasting it."
     },
     {
@@ -1442,26 +1495,26 @@
      "say": "Pick two ways to try. Which shows the sugar most clearly?",
      "kid": "Pick two tests and try them. Which one shows the sugar best?",
      "adult": true,
-     "parent": "Boiling down needs a grown-up at the stove. The drying test works best on a steel plate in a sunny window. It may take an afternoon."
+     "parent": "Boiling down needs a grown-up at the stove. Start the drying test first, on a steel plate in a sunny window. It may take an hour or more, so look at it again at the end, or later in the day."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child to explain their best test, as if to Farhan.",
-     "say": "Explain to Farhan why your test shows the sugar is there.",
-     "kid": "Tell Farhan what your test showed. Why does it prove the sugar is there?",
+     "do": "Ask your child to explain their best test, as if to the friend.",
+     "say": "Explain to your friend why your test shows the sugar is there.",
+     "kid": "Tell your friend what your test showed. Why does it prove the sugar is there?",
      "think": "Which test would convince someone who doesn't believe you?"
     }
    ],
-   "context": "This is a challenge. A boy won't believe there is sugar in a glass of clear water. You find ways to prove it without tasting.",
+   "context": "This is a challenge. A friend won't believe there is sugar in a glass of clear water. You find ways to prove it without tasting.",
    "setup": [
     {
-     "art": "Two identical clear glasses of water, one labelled 'Farhan says: just water'.",
+     "art": "Two identical clear glasses of water, one labelled 'A friend says: just water'.",
      "caption": "1. Two glasses that look the same. Which has sugar?"
     },
     {
      "art": "A steel plate in a sunny window with two dried patches, one faint ring and one sticky shiny patch.",
-     "caption": "2. Try weighing, drying or asking the ants."
+     "caption": "2. Try weighing, drying or sticky fingers."
     }
    ]
   },
@@ -1469,7 +1522,7 @@
    "id": "c2",
    "title": "Quick Panakam: dissolve the jaggery fast",
    "mins": 30,
-   "problem": "Guests are arriving in 10 minutes, and Paati wants a jug of panakam, a cool South Indian drink made from jaggery, water, dry ginger and cardamom. The jaggery is one hard block. How will you get it dissolved in cold water in time?",
+   "problem": "Guests are arriving in 10 minutes, and you want to serve a jug of panakam, a cool South Indian drink made from jaggery, water, dry ginger and cardamom. The jaggery is one hard block. How will you get it dissolved in cold water in time?",
    "constraints": [
     "You have 10 minutes.",
     "The drink must be cool, so you can't boil the whole jug.",
@@ -1551,7 +1604,7 @@
    "youtube": "npv74D2MO6Q",
    "mins": 5,
    "why": "A short, lively explanation for children that everything is made of particles too small to see.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is approximate: a parent should preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "What Happens when Stuff Dissolves?",
@@ -1559,7 +1612,7 @@
    "youtube": "0cPFx0wFuVs",
    "mins": 10,
    "why": "For the parent and curious older children: a clear, friendly chemistry teacher shows how water particles pull a solid apart.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is approximate: a parent should preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "Vacation or Conservation (Of Mass): Crash Course Kids #23.1",
@@ -1567,7 +1620,7 @@
    "youtube": "3lHHOiTdmK4",
    "mins": 5,
    "why": "A short video for children on why the total weight stays the same when things change, which is what the hanger balance showed.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is approximate: a parent should preview it."
+   "check": "A parent should preview it first."
   }
  ],
  "quiz": [
@@ -1707,19 +1760,6 @@
    "why": "Ants smell and taste with their antennae. When an ant touches the sugar water, she picks up the sugar particles and knows it is food. Nobody can see dissolved sugar.",
    "outcome": 2,
    "how": "a4"
-  },
-  {
-   "t": "mcq",
-   "p": "A camphor tablet on an open saucer gets smaller every day, and the room smells of camphor. What is happening?",
-   "opts": [
-    "The camphor is being destroyed",
-    "Camphor particles are leaving the tablet and going into the air",
-    "The camphor is melting into the saucer"
-   ],
-   "a": 1,
-   "why": "Camphor particles fly off into the air, and some reach your nose, so you smell it. The saucer stays dry, so it is not melting. Nothing is destroyed.",
-   "outcome": 0,
-   "how": "p1"
   }
  ],
  "worksheets": [
@@ -1731,7 +1771,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi drops a spoon of salt into a glass of water and stirs. The salt disappears. Which word says what happened?",
+     "p": "Lakshmi, a girl in Class 3, drops a spoon of salt into a glass of water and stirs. The salt disappears. Which word says what happened?",
      "opts": [
       "The salt melted",
       "The salt dissolved",
@@ -1853,7 +1893,7 @@
      ],
      "items": [
       [
-       "sugar in nimbu pani",
+       "sugar in lemon juice",
        "Dissolving"
       ],
       [
@@ -1882,7 +1922,7 @@
     },
     {
      "t": "write",
-     "p": "Your friend says the sugar in her tea has disappeared. How could she find out if it is still there? Give one way.",
+     "p": "A friend says the sugar in her tea has disappeared. How could she find out if it is still there? Give one way.",
      "lines": 3,
      "a": "She could taste the tea to see if it is sweet. Or she could weigh the cup and the sugar before and after.",
      "why": "A strong answer names a real test, such as tasting, weighing or asking ants, and says what result would show the sugar is there."
@@ -2008,39 +2048,39 @@
     },
     {
      "t": "sort",
-     "p": "Sort these. Where did it go?",
+     "p": "Sort these. Does it make sugar dissolve faster, or make no difference?",
      "cats": [
-      "Into the air",
-      "Into a liquid"
+      "Dissolves faster",
+      "No difference"
      ],
      "items": [
       [
-       "a puddle drying on the terrace",
-       "Into the air"
+       "crushing the sugar into powder",
+       "Dissolves faster"
       ],
       [
-       "sugar in payasam",
-       "Into a liquid"
+       "stirring the water",
+       "Dissolves faster"
       ],
       [
-       "camphor shrinking on a plate",
-       "Into the air"
+       "using warmer water",
+       "Dissolves faster"
       ],
       [
-       "jaggery in panakam",
-       "Into a liquid"
+       "using a blue glass instead of a clear one",
+       "No difference"
       ],
       [
-       "wet clothes drying",
-       "Into the air"
+       "saying 'dissolve!' loudly",
+       "No difference"
       ],
       [
-       "coffee powder in hot milk",
-       "Into a liquid"
+       "counting the stirs out loud",
+       "No difference"
       ]
      ],
      "a": "see items",
-     "why": "Nothing vanishes. Each thing breaks into particles that go into the air or into a liquid."
+     "why": "Smaller pieces, stirring and warmth change how fast particles leave the sugar. The colour of the glass or words said over it change nothing."
     },
     {
      "t": "write",
@@ -2100,7 +2140,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi puts a camphor tablet in an empty jar, closes the lid tight, and weighs the jar every day for a week. What happens to the weight of the closed jar?",
+     "p": "Nila, a girl in Class 3, puts a camphor tablet in an empty jar, closes the lid tight, and weighs the jar every day for a week. What happens to the weight of the closed jar?",
      "opts": [
       "It goes down",
       "It stays the same",
@@ -2111,7 +2151,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anand puts 4 teaspoons of sugar into a full glass of water. Will the water spill over the top?",
+     "p": "Anand, a boy in Class 3, puts 4 teaspoons of sugar into a full glass of water. Will the water spill over the top?",
      "opts": [
       "No, the sugar takes up no space at all",
       "A little may spill, because the sugar particles still take up some space",
@@ -2173,7 +2213,7 @@
     },
     {
      "t": "write",
-     "p": "Ravi did the hanger balance test, but he did not put the empty sugar paper back in the bag. Side A went up a tiny bit. He says, 'Dissolved sugar weighs less!' What went wrong?",
+     "p": "Ravi, a boy in Class 3, did the hanger balance test, but he did not put the empty sugar paper back in the bag. Side A went up a tiny bit. He says, 'Dissolved sugar weighs less!' What went wrong?",
      "lines": 4,
      "a": "He took the paper out, so side A lost the paper's weight. That is why it went up. To be fair, everything that was on side A before must go back.",
      "why": "A strong answer spots that the test was not fair: something was taken away."
@@ -2201,14 +2241,14 @@
     },
     {
      "t": "write",
-     "p": "Many people say sugar 'melts' in tea. Plan a test to show it is dissolving, not melting.",
+     "p": "You want to find out if warm water makes sugar dissolve faster. Plan a fair test. Say what you change and what you keep the same.",
      "lines": 4,
-     "a": "Put sugar in a glass of cold water from the fridge and stir. It still disappears, with no heat. Then put sugar in a dry steel spoon on a warm day: it does not turn liquid. So water is needed, not heat.",
-     "why": "A strong answer tests sugar in cold water, where it cannot be melting, and keeps the test fair."
+     "a": "Change only the warmth of the water: one glass of cool water and one of warm water. Keep the same glass, the same amount of water, the same amount and kind of sugar, and the same stirring. Time how long each takes.",
+     "why": "A strong answer changes one thing, the warmth, and names several things kept the same."
     },
     {
      "t": "write",
-     "p": "In the camphor project, the jar tablet hardly shrank. Arjun says this shows camphor in the jar stopped moving. Is he right? Explain.",
+     "p": "In the camphor project, the jar tablet hardly shrank. Arjun, a boy in Class 3, says this shows camphor in the jar stopped moving. Is he right? Explain.",
      "lines": 3,
      "a": "No. The camphor particles in the jar keep leaving the tablet, but just as many land back on it, because they can't escape. So the tablet stays the same size, even though its particles are moving all the time.",
      "why": "A strong answer separates 'nothing changes that we can see' from 'nothing is moving'.",
@@ -2250,10 +2290,11 @@
  "applications": [
   "ORS, the oral rehydration drink given for diarrhoea, is salt and sugar dissolved in clean water. It has saved millions of lives.",
   "Sugar mills boil sugarcane juice until the water leaves and the sugar particles gather into crystals again.",
-  "Syrups, sherbets, coffee and payasam all depend on sugar dissolving.",
+  "Sharbats, filter coffee, payasam and the syrup that rasgullas sit in all depend on sugar dissolving.",
   "Many medicines are dissolved in water or in syrup, so the body can take them in quickly.",
   "Washing powder dissolves in water, so it can reach the dirt in every thread of the cloth.",
-  "Water purifiers that use RO remove the salts dissolved in tap or borewell water."
+  "Water purifiers that use RO remove the salts dissolved in tap or borewell water.",
+  "Kokum sharbat from the Konkan coast is made by dissolving sugar in kokum juice."
  ],
  "spotted": [
   {
@@ -2279,6 +2320,10 @@
   {
    "text": "Ants marching to a sticky spot on the kitchen platform where a drop of tea or juice dried.",
    "art": "A line of small black ants on a kitchen platform heading to a faint sticky ring."
+  },
+  {
+   "text": "The thick sugar syrup that rasgullas or gulab jamuns sit in at a sweet shop.",
+   "art": "A steel bowl of white rasgullas in clear sugar syrup on a sweet shop counter."
   }
  ],
  "open_questions": [
@@ -2306,17 +2351,12 @@
   "Where does the water on a wet floor go when it dries?",
   "If we could shrink to the size of a particle, what would a glass of water look like?",
   "Why do you think we stir tea, if sugar spreads by itself?",
-  "Can you find something in the kitchen that does not dissolve in water? What happens to it?",
-  "The ants found sugar we couldn't see. What do you think they notice that we don't?"
+  "Can you find something in the kitchen that does not dissolve in water? What happens to it?"
  ],
  "jokes": [
   {
    "j": "Why are atoms bad at keeping secrets?",
    "a": "They make up everything."
-  },
-  {
-   "j": "What did the sugar say to the water?",
-   "a": "You make me fall apart."
   },
   {
    "j": "What is a particle's favourite game?",
@@ -2331,24 +2371,12 @@
    "a": "It goes into thin air."
   },
   {
-   "j": "What did the spoon say to the sugar?",
-   "a": "Let's get things moving."
-  },
-  {
    "j": "Why did the salt in the rasam refuse to melt?",
    "a": "It was too busy dissolving."
   },
   {
-   "j": "What did the glass of sugar water say to the glass of plain water?",
-   "a": "We look the same, but I'm sweeter inside."
-  },
-  {
    "j": "Why did the ants walk all the way across the kitchen?",
    "a": "They heard there was a sweet deal by the window."
-  },
-  {
-   "j": "Why was the kalkandu lump last in the race?",
-   "a": "It didn't want to break up."
   },
   {
    "j": "What kind of music do particles like?",
@@ -2363,10 +2391,6 @@
    "a": "To become a little more refined."
   },
   {
-   "j": "What did the bottom of the unstirred glass say to the top?",
-   "a": "Come down here. All the sweet stuff is happening."
-  },
-  {
    "j": "Why did the jaggery block stay so calm in the water?",
    "a": "It knew it would dissolve its problems eventually."
   }
@@ -2374,7 +2398,7 @@
  "maths": [
   {
    "context": "This is about the hanger balance test. You weighed a bottle of water with a packet of sugar beside it, then dissolved the sugar and weighed again.",
-   "problem": "Meenakshi has a kitchen scale. Her bottle of water weighs 115 grams. Her packet of sugar weighs 16 grams. She dissolves the sugar in the bottle and puts the empty packet on the scale too. What will the scale show? Explain how you know before she weighs it.",
+   "problem": "Divya, a girl in Class 3, has a kitchen scale. Her bottle of water weighs 115 grams. Her packet of sugar weighs 16 grams. She dissolves the sugar in the bottle and puts the empty packet on the scale too. What will the scale show? Explain how you know before she weighs it.",
    "answer": "131 grams.",
    "explain": "Before: 115 + 16 = 131 grams. When the sugar dissolves, every sugar particle is still in the bottle, and the paper is still on the scale. Nothing is added or taken away, so the scale still shows 131 grams.",
    "math_unit": "math.weight-capacity.weight.L3",
@@ -2383,7 +2407,7 @@
   },
   {
    "context": "This is about the sugar race. You timed a kalkandu lump, ordinary sugar grains and powdered sugar dissolving in water.",
-   "problem": "In Arjun's race, the sugar grains took 2 minutes to dissolve and the kalkandu lump took 12 minutes. How many times as long did the lump take?",
+   "problem": "Arjun, a boy in Class 3, races three kinds of sugar. His sugar grains took 2 minutes to dissolve and his kalkandu lump took 12 minutes. How many times as long did the lump take?",
    "answer": "6 times as long.",
    "explain": "12 divided by 2 is 6. Check: 2 + 2 + 2 + 2 + 2 + 2 = 12. So the lump took 6 times as long as the grains, though both were one teaspoon of the same sugar.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2415,7 +2439,7 @@
   },
   {
    "context": "This is about the camphor project. You traced a camphor tablet on an open saucer every two days to see if it shrank.",
-   "problem": "Kavya's open camphor tablet was 20 millimetres wide on day 1, 17 millimetres on day 3, and 14 millimetres on day 5. If it keeps shrinking the same way, how wide will it be on day 7? On which day will it be about 5 millimetres wide?",
+   "problem": "Nila, a girl in Class 3, traces her open camphor tablet. It was 20 millimetres wide on day 1, 17 millimetres on day 3, and 14 millimetres on day 5. If it keeps shrinking the same way, how wide will it be on day 7? On which day will it be about 5 millimetres wide?",
    "answer": "11 millimetres on day 7. About 5 millimetres on day 11.",
    "explain": "It loses 3 millimetres every 2 days: 20, 17, 14. So day 7 is 14 - 3 = 11. Then day 9 is 8, and day 11 is 5. A real tablet may not shrink at exactly the same rate, so this is a prediction to test.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2424,7 +2448,7 @@
   },
   {
    "context": "This is about the Quick Panakam challenge, where you dissolve jaggery to make a drink for guests.",
-   "problem": "Each glass of panakam needs 3 tablespoons of grated jaggery. Paati wants 6 glasses. How many tablespoons of jaggery do you need? If you crush it into small pieces, does the amount change?",
+   "problem": "Each glass of panakam needs 3 tablespoons of grated jaggery. A family wants 6 glasses. How many tablespoons of jaggery do you need? If you crush it into small pieces, does the amount change?",
    "answer": "18 tablespoons. Crushing does not change the amount of jaggery, only the size of the pieces.",
    "explain": "6 groups of 3 is 6 x 3 = 18 tablespoons. Crushing breaks the jaggery into more, smaller pieces, but the total amount of jaggery stays the same. It just dissolves faster.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2647,9 +2671,9 @@
    "kid": "Sit still. Close your eyes. Put one drop of sugar water on your tongue. Notice the sweetness spread. Breathe slowly five times. The sugar is still there, in you now."
   },
   "ask": [
-   "When the sugar spread through the water, was it one thing or many things?",
-   "If something is too small for anyone to see, how can we be sure it is there?",
-   "The ants found sugar you could not see. What else might be around you that only other beings notice?"
+   "Boiling sugarcane juice brings the sugar back as grains. What does that tell you about the sugar in the juice?",
+   "Which of the three tests, tasting, weighing or asking the ants, would you trust most, and why?",
+   "Uddalaka asked Shvetaketu to taste the water at the top, the middle and the bottom. Why test three places?"
   ],
   "art": "A child at a window with a glass of water in sunlight, tiny glowing dots spread all through the water, and a line of ants on the sill heading towards a single bright drop."
  },

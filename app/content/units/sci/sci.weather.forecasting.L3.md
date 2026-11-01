@@ -18,17 +18,17 @@
 - **Meteorologist**: A scientist who studies the weather and makes forecasts. *e.g.* Meteorologists at the weather office in Chennai warn fishers when a storm is coming.
 - **Weather sign**: Something you can see or feel now that often comes before a kind of weather. *e.g.* Dark clouds growing very tall in the afternoon are a sign that a thunderstorm may come soon.
 - **Weather saying**: A short old saying that people repeat to remember a weather sign. *e.g.* 'Red sky at night, shepherd's delight' is an old English weather saying.
-- **Humidity**: How much water vapour is in the air. Water vapour is water in the form of an invisible gas. *e.g.* On a humid day in Kochi, washed clothes take a long time to dry, and your skin feels sticky.
+- **Humidity**: How much water vapour is in the air. Water vapour is water in the form of an invisible gas. *e.g.* On a humid day in Kochi or Mumbai, washed clothes take a long time to dry, and your skin feels sticky.
 - **Cumulus cloud**: A puffy white cloud with a flat bottom, like a heap of cotton. *e.g.* Small cumulus clouds drifting on a sunny morning usually mean fine weather.
-- **Cumulonimbus cloud**: A huge, tall storm cloud. Its top can spread out flat, like the top of an anvil. It brings thunder, lightning and heavy rain. *e.g.* In Bengaluru in April and May, cumulonimbus clouds often build up in the afternoon and bring a thunderstorm by evening.
+- **Cumulonimbus cloud**: A huge, tall storm cloud. Its top can spread out flat, like the top of an anvil. It brings thunder, lightning and heavy rain. *e.g.* In Kolkata in April and May, cumulonimbus clouds often build up in the afternoon and bring a sudden thunderstorm by evening.
 - **Cirrus cloud**: A thin, wispy cloud very high in the sky, made of tiny ice crystals. *e.g.* Long white streaks of cirrus high over the sea can show that a big storm is on its way, a day or more ahead.
-- **Halo**: A ring of light around the Sun or Moon. It is made when light passes through tiny ice crystals in a thin, high cloud. *e.g.* Paati saw a pale ring around the Moon and said rain might come in a day or two.
-- **Persistence forecast**: The simplest forecast: 'tomorrow will be like today'. Meteorologists use it to check whether their own forecasts are any better. *e.g.* In Chennai in March, when every day is hot and dry, 'tomorrow will be like today' is right almost every day.
+- **Halo**: A ring of light around the Sun or Moon. It is made when light passes through tiny ice crystals in a thin, high cloud. *e.g.* Someone sees a pale ring around the Moon and says rain might come in a day or two.
+- **Persistence forecast**: The simplest forecast: 'tomorrow will be like today'. Meteorologists use it to check whether their own forecasts are any better. *e.g.* In Ahmedabad in April, when every day is hot and dry, 'tomorrow will be like today' is right almost every day.
 - **Chance of rain**: How likely it is to rain, given as a percentage. A 60% chance of rain means that on 10 days like this one, rain would fall on about 6 of them. *e.g.* The app says 'Hyderabad: 30% chance of rain'. Rain is possible, but a dry day is more likely.
 - **Weather satellite**: A machine high above the Earth that takes pictures of the clouds and measures the air from space. *e.g.* INSAT-3D, an Indian weather satellite, sends pictures of the clouds over India every half hour.
 - **Weather model**: A computer program that uses the rules of how air moves and warms to work out what the weather will do next. *e.g.* The weather app's forecast for tomorrow comes from a weather model run on a very big computer.
 - **Weather warning**: A message from the weather office telling people that dangerous weather is coming and what to do. *e.g.* The India Meteorological Department gives warnings in colours: yellow means be aware, orange means be prepared, and red means take action.
-- **Cyclone**: A huge, swirling storm that forms over a warm sea, with very strong winds and heavy rain. *e.g.* Cyclones form over the Bay of Bengal and can bring floods to the coasts of Tamil Nadu, Andhra Pradesh and Odisha.
+- **Cyclone**: A huge, swirling storm that forms over a warm sea, with very strong winds and heavy rain. *e.g.* Cyclones form over the Bay of Bengal and can bring floods to the coasts of Tamil Nadu, Andhra Pradesh, Odisha and West Bengal.
 
 ## Explanations
 ### What a forecast is · *defined*
@@ -84,7 +84,7 @@ No one can measure every bit of air on Earth. Between weather stations there are
 ### Warnings that save lives · *defined*
 **Definition:** A weather warning tells people that dangerous weather, such as a cyclone, very heavy rain or a heat wave, is coming, so they can get ready or move to safety.
 
-Forecasts matter most when the weather is dangerous. In 1999 a very strong cyclone hit Odisha, and about ten thousand people died. In October 2013, the India Meteorological Department tracked Cyclone Phailin for days and forecast where and when it would cross the coast. Close to a million people in Odisha and Andhra Pradesh moved to shelters before the storm hit. The cyclone was about as strong as the one in 1999, but far fewer people died. The India Meteorological Department now gives warnings in colours: green means no warning, yellow means be aware, orange means be prepared, and red means take action. Fishers along the coast are told not to go out to sea when a storm is coming.
+Forecasts matter most when the weather is dangerous. In 1999 a very strong cyclone hit Odisha, and about ten thousand people died. In October 2013, the India Meteorological Department tracked Cyclone Phailin for days and forecast where and when it would cross the coast. Close to a million people in Odisha and Andhra Pradesh moved to shelters before the storm hit. Phailin was also a very powerful cyclone, but far fewer people died. The India Meteorological Department now gives warnings in colours: green means no warning, yellow means be aware, orange means be prepared, and red means take action. Fishers along the coast are told not to go out to sea when a storm is coming.
 - e.g. A red warning for very heavy rain in Kerala: schools close and people living near rivers move to higher ground.
 - e.g. Ports in India raise warning signals for ships when a storm is near.
 ### Can animals forecast the weather? · *debated*
@@ -99,7 +99,7 @@ Many people say animals know when rain is coming. Animals certainly sense change
 - Weather travels. Storms, clouds and rain move across land and sea. *How we know:* Satellite pictures taken every half hour show clouds moving. Weather stations along a coast record a storm arriving at one town after another.
 - Small differences in the air grow over time, so detailed forecasts many weeks ahead are not possible. *How we know:* Running the same weather model with tiny changes to the starting numbers gives very different weather after about two weeks.
 - Some cloud signs really do help forecast the weather, such as tall cumulonimbus clouds before a thunderstorm. *How we know:* Weather observers have recorded clouds and the weather that followed for more than two hundred years.
-- Warnings of cyclones and heavy rain save many lives. *How we know:* Far fewer people died in Odisha in Cyclone Phailin in 2013 than in the cyclone of 1999, which was about as strong, because people moved to shelters in time.
+- Warnings of cyclones and heavy rain save many lives. *How we know:* Far fewer people died in Odisha in Cyclone Phailin in 2013 than in the cyclone of 1999, also a very powerful one, because people moved to shelters in time.
 
 ## How we found out
 **Benjamin Franklin, a printer and scientist in Philadelphia, with letters and newspaper reports from Boston, 1743, the night of an eclipse of the Moon.** On a November night in 1743, Benjamin Franklin, a printer and scientist in Philadelphia in America, hoped to watch an eclipse of the Moon. A storm came instead. Thick clouds hid the sky, and a strong wind blew from the northeast. In those days, people thought a storm travels the way its wind blows. So Franklin guessed that this storm had come from the northeast, from the direction of Boston, where his brother lived. He thought Boston must have missed the eclipse too. Later, letters and newspapers from Boston surprised him. People there had seen the eclipse clearly, and the storm reached Boston hours after it hit Philadelphia. The storm had moved towards the northeast, against its own wind. Franklin collected reports of later storms from towns along the coast and found the same pattern. A storm's winds swirl around it, while the whole storm travels somewhere else. This also showed something useful. If storms travel, news of a storm can be sent ahead of it. After the telegraph was invented, towns could be warned before a storm arrived.  
@@ -214,37 +214,37 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 
 ## Games
 ### g1 · Sky Signs: a forecasting card game (15 min)
-- **rules:** Each player gets a set of 4 forecast cards. Shuffle the sign cards and put them face down, with the brackets hidden.; Turn over the top sign card and read it aloud, without the answer in brackets.; Every player chooses one forecast card and puts it face down. Then everyone turns their card over together.; Read the answer in brackets. Everyone who matched it scores 2 points.; If you chose a different card, you can still score 1 point by giving a good reason why your forecast could also happen.; Some cards say 'possible' or 'sometimes'. For those, everyone who says why the sign is not a sure thing scores 1 extra point.; After all 16 cards, the player with the most points wins. Playing alone, try to beat your own score next time.
-- **Printable cards: 16 sign cards to cut out (the answer is in brackets at the bottom of each card):** Small puffy white clouds that stay small all afternoon. (Fine weather); Puffy clouds growing taller and taller on a hot afternoon. (Thunderstorm soon); A giant cloud with a dark bottom and a flat top spreading out. (Thunderstorm soon); Thin white streaks very high up, slowly thickening into a milky sheet. (Rain in a day or two); A pale ring of light around the Moon. (Rain in a day or two, sometimes); A low grey sheet of cloud over the whole sky. (Steady rain); No clouds at all, dry air, no wind, in March. (Fine weather); The air feels sticky, and washed clothes stay damp all day. (Rain is possible); Salt in the dabba has gone lumpy. (Rain is possible); A sudden cold, gusty wind and the smell of rain. (Thunderstorm soon); Thunder far away, getting louder. (Thunderstorm soon); The satellite film shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. (Rain in a day or two); The weather office gives a red warning for very heavy rain. (Steady rain, and danger); Today was hot and dry, and the sky is still clear tonight. (Fine weather); Peacocks calling loudly in July. (The monsoon season, not a forecast for tomorrow); The forecast says 10% chance of rain. (Fine weather, most likely)
-- **Printable cards: 4 forecast cards for each player:** Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain
+- **rules:** Each player gets a set of 4 forecast cards. Shuffle the 16 sign cards and put them face down, with the answer side hidden.; Turn over the top sign card and read the front aloud. Keep the answer on the back hidden.; Every player chooses one forecast card and puts it face down. Then everyone turns their card over together.; Turn the sign card over and read the answer. Everyone who matched it scores 2 points.; If you chose a different card, you can still score 1 point by giving a good reason why your forecast could also happen.; If the answer says 'not certain', everyone who says why the sign is not a sure thing scores 1 extra point.; After all 16 cards, the player with the most points wins. If two players have the same score, they share the win. Playing alone, choose a forecast card, then check the answer, and try to beat your own score next time.
+- **Printable cards: 16 sign cards to cut out (the sign on the front, the answer on the back):** Small puffy white clouds that stay small all afternoon. (back: Fine weather); Puffy clouds growing taller and taller on a hot afternoon. (back: Thunderstorm soon); A giant cloud with a dark bottom and a flat top spreading out. (back: Thunderstorm soon); Thin white streaks very high up, slowly thickening into a milky sheet. (back: Rain in a day or two); A pale ring of light around the Moon. (back: Rain in a day or two (not certain)); A low grey sheet of cloud over the whole sky. (back: Steady rain); No clouds at all, dry air, no wind, in March. (back: Fine weather); The air feels sticky, and washed clothes stay damp all day. (back: Rain in a day or two (not certain)); Salt in the dabba has gone lumpy. (back: Rain in a day or two (not certain)); A sudden cold, gusty wind and the smell of rain. (back: Thunderstorm soon); Thunder far away, getting louder. (back: Thunderstorm soon); The satellite film shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. (back: Rain in a day or two); The weather office gives a red warning for very heavy rain. (back: Steady rain (and danger: follow the warning)); Today was hot and dry, and the sky is still clear tonight. (back: Fine weather); Peacocks calling loudly in July. (back: Rain in a day or two (not certain: peacocks call every monsoon, so this tells the season more than tomorrow)); The forecast says 10% chance of rain. (back: Fine weather)
+- **Printable cards: 16 forecast cards: a set of 4 for each of up to 4 players:** Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain; Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain; Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain; Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain
 - **Printable score sheet: Score sheet:** Player name; Points this round; Total
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Give each player 4 forecast cards. 3. Shuffle the sign cards and put them face down.  
+  *Parent does:* 1. Cut out the sign cards and the forecast cards. 2. Give each player a set of 4 forecast cards. 3. Shuffle the sign cards and put them face down.  
   *Parent says:* In this game, each card shows a sign in the sky or the air. You forecast the weather it points to.  
   *Child mode:* Get your 4 forecast cards. Mix up the sign cards. Put them face down.
 - **s2 (2 min)**  
-  *Parent does:* Play the first sign card, 'Puffy clouds growing taller and taller on a hot afternoon', as a practice round.  
+  *Parent does:* Take the sign card 'Puffy clouds growing taller and taller on a hot afternoon' out of the pile. Play it as practice, then shuffle it back in.  
   *Parent says:* Practice card. Puffy clouds are growing taller and taller on a hot afternoon. What's your forecast?  
   *Child mode:* Practice card. Puffy clouds are growing taller on a hot afternoon. What's your forecast?
   - Check: Puffy clouds are growing taller and taller on a hot afternoon. What is the best forecast? → **Thunderstorm soon**
 - **s3 (10 min)**  
-  *Parent does:* Play the rest of the cards, keeping score.  
+  *Parent does:* Play the other cards, keeping score on the score sheet.  
   *Parent says:* Next card. Choose your forecast. Ready? Turn it over. Who matched?  
   *Child mode:* Turn the next card. Choose your forecast. Turn them over together. Who matched?
-  - Note: The peacock card is a trick worth talking about. Peacocks call and dance in the monsoon because it is their breeding season. So they tell you the season, not tomorrow's weather.
+  - Note: The peacock card is worth talking about. Peacocks call and dance in the monsoon because it is their breeding season. So they tell you the season, not tomorrow's weather.
 ### g2 · Storm Warning: race the cyclone to the coast (20 min)
-- **rules:** Put the cyclone token on square 1. Put the four town cards face up along the coast.; On your turn, answer a question card. Right answer: put a 'warned' flag on any town that does not have one yet. Wrong answer: no flag this time.; Playing alone? Read the card yourself and check the answer in the brackets.; After every player has had a turn, roll the dice. On 1, 2 or 3, the cyclone moves 1 square. On 4, 5 or 6, it moves 2 squares.; On a STORM GROWS STRONGER square, the cyclone moves 1 extra square.; If every town has a flag before the cyclone reaches square 12, everyone wins together. The towns were warned in time.; If the cyclone reaches the coast first, count the towns that were warned. Play again and try to warn them all.
-- **Printable board: A map board: a path of 12 sea squares across the Bay of Bengal, ending at the coast, with four towns:** Squares 1 to 12: the path of the storm, from far out at sea to the coast; Town cards along the coast: Chennai, Nellore, Puducherry, Cuddalore; Squares 4 and 8: STORM GROWS STRONGER. Move the storm 1 extra square.; Square 6: SATELLITE PICTURE. Every player draws 1 extra question card.; Square 12: LANDFALL. The storm reaches the coast.
-- **Printable cards: 20 question cards (answers in brackets):** What do we call a huge swirling storm that forms over a warm sea? (A cyclone); Name one way weather offices see a cyclone far out at sea. (Satellites, or radar, or ships and buoys); What does an orange weather warning mean? (Be prepared); What does a red weather warning mean? (Take action); Why should fishers stay on the beach when a cyclone is coming? (The sea becomes very rough and dangerous); What does a 90% chance of rain mean? (Rain is very likely: on about 9 of 10 days like this); Does a storm always travel the way its wind blows? (No); Who found that a storm can move against its own wind, in 1743? (Benjamin Franklin); Name a thin, wispy, high cloud made of ice. (Cirrus); What is humidity? (How much water vapour is in the air); What is the simplest forecast of all? (Tomorrow will be like today); Is a forecast for tomorrow surer than one for next week? (Yes); Why do forecasts get less sure further ahead? (Small errors in today's readings grow bigger); In which months does Chennai get most of its rain? (October to December, the northeast monsoon); What does a weather model do? (Works out how the air will move and change, using a computer); Name the Indian weather office. (The India Meteorological Department); Which cyclone in 2013 was forecast so well that close to a million people moved to safety? (Cyclone Phailin); What is a halo? (A ring of light around the Sun or Moon, made by ice crystals high up); What should a family near the coast do with a red cyclone warning? (Follow the official advice, and move to a shelter if told to); What cloud brings thunder and lightning? (Cumulonimbus)
-- **Printable tokens: One cyclone token and four 'warned' flags:** 🌀; 🚩
+- **rules:** Put the cyclone token on square 1. Put the four town cards face up along the coast. Shuffle the question cards and put them face down.; On your turn, read the top question card aloud to yourself and answer it. Then turn the card over to check. Right answer: put a 'warned' flag on any town that does not have one yet. Wrong answer: no flag this time.; Playing with a parent? Take turns, one question each. Playing alone? Read the card, answer out loud, then check the back.; After every turn, roll the dice. On 1, 2 or 3, the cyclone moves 1 square. On 4, 5 or 6, it moves 2 squares.; If the cyclone lands on a STORM GROWS STRONGER square, it moves 1 extra square. If it lands on SATELLITE CHECK, the player whose turn it was answers 1 extra card at once.; If all four towns have a flag before the cyclone reaches square 12, everyone wins together. The towns were warned in time.; If the cyclone reaches square 12 first, count the towns that were warned. Play again and try to warn them all. If the question cards run out, shuffle them and use them again.
+- **Printable board: A map board with 12 sea squares and 4 town cards (16 items):** Square 1: START. The cyclone begins here, far out at sea.; Square 2: open sea.; Square 3: open sea.; Square 4: STORM GROWS STRONGER. If the cyclone lands here, move it 1 extra square.; Square 5: open sea.; Square 6: SATELLITE CHECK. If the cyclone lands here, the player whose turn it was answers 1 extra question card at once.; Square 7: open sea.; Square 8: STORM GROWS STRONGER. If the cyclone lands here, move it 1 extra square.; Square 9: open sea.; Square 10: open sea.; Square 11: open sea.; Square 12: LANDFALL. The cyclone reaches the coast.; Town card: Chennai, on the coast; Town card: Nellore, on the coast; Town card: Puducherry, on the coast; Town card: Cuddalore, on the coast
+- **Printable cards: 20 question cards (the question on the front, the answer on the back):** What do we call a huge swirling storm that forms over a warm sea? (back: A cyclone); Name one way weather offices see a cyclone far out at sea. (back: Satellites, or radar, or ships and buoys); What does an orange weather warning mean? (back: Be prepared); What does a red weather warning mean? (back: Take action); Why should fishers stay on the beach when a cyclone is coming? (back: The sea becomes very rough and dangerous); What does a 90% chance of rain mean? (back: Rain is very likely: on about 9 of 10 days like this); Does a storm always travel the way its wind blows? (back: No); When the wind blows from the east, which way does a wind ribbon stream? (back: Towards the west, away from where the wind comes from); Name a thin, wispy, high cloud made of ice. (back: Cirrus); What is humidity? (back: How much water vapour is in the air); What is the simplest forecast of all? (back: Tomorrow will be like today); Is a forecast for tomorrow surer than one for next week? (back: Yes); Why do forecasts get less sure further ahead? (back: Small errors in today's readings grow bigger); In which months does Chennai get most of its rain? (back: October to December, the northeast monsoon); What does a weather model do? (back: Works out how the air will move and change, using a computer); Name the Indian weather office. (back: The India Meteorological Department); Which cyclone in 2013 was forecast so well that close to a million people moved to safety? (back: Cyclone Phailin); What is a halo? (back: A ring of light around the Sun or Moon, made by ice crystals high up); What should a family near the coast do with a red cyclone warning? (back: Follow the official advice, and move to a shelter if told to); What cloud brings thunder and lightning? (back: Cumulonimbus)
+- **Printable tokens: Game tokens: 1 cyclone token and 4 'warned' flags:** Cut out 1 small circle for the cyclone and draw a swirl on it; Cut out 4 small paper flags and colour them red
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the board, the town cards and the question cards. 2. Put the cyclone on square 1.  
+  *Parent does:* 1. Lay out the board, the town cards and the question cards. 2. Put the cyclone on square 1. You also need a dice.  
   *Parent says:* A cyclone has formed far out in the Bay of Bengal. We are forecasters at the weather office. We must warn all four towns before it reaches the coast.  
   *Child mode:* A cyclone is out at sea. You are a forecaster. Warn all four towns before it reaches the coast!
 - **s2 (15 min)**  
-  *Parent does:* Take turns answering cards, placing flags and moving the cyclone.  
-  *Parent says:* Your question. Right? Put a flag on a town. Now the storm moves. Will we warn everyone in time?  
-  *Child mode:* Answer your card. Right? Put a flag on a town. Then roll for the storm.
+  *Parent does:* Take turns answering a card, placing a flag if you are right, and then rolling the dice to move the cyclone.  
+  *Parent says:* Your question. Right? Put a flag on a town. Now roll for the storm. Will we warn everyone in time?  
+  *Child mode:* Answer your card. Right? Put a flag on a town. Then roll to move the storm.
   - Check: Why does warning towns early save lives? → **People have time to move to safety**
 - **s3 (2 min)**  
   *Parent does:* Talk about the game.  
@@ -253,41 +253,41 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Ask: How do real forecasters see a cyclone early? (good: Satellites.; Radar.; Ships and buoys at sea.)
 
 ## Experiments
-### e1 · Tomorrow Like Today? A week-long forecast contest (60 min, 8 days)
+### e1 · Tomorrow Like Today? A week-long forecast contest (82 min, 8 days)
 - **question:** Whose forecast for tomorrow is right most often: 'tomorrow will be like today', your own reading of the sky, or the weather app?
 - **predict:** Guess first. Which of the three forecasters will get the most points in a week? Which will get the fewest? Why do you think so?
 - **fair test:** All three forecasts are written at the same time each evening, before anyone knows what tomorrow brings. Nobody changes a forecast after writing it. All three are judged on the same two questions, by the same rules. We run the contest for 7 days, because one day can be a fluke.
 - **safety:** Look at the sky, never straight at the Sun. If there is lightning, watch from indoors, away from the open balcony.
 - **record:** Fill in one row of the table every evening. On day 8, add up each forecaster's points and draw a bar for each.
 - **results table:** Day | Same as today: rain? sky? | My sky reading: rain? sky? | Weather app: rain? sky? | What really happened | Points: same as today | Points: me | Points: app
-- **schedule:** day 1: Set up the score sheet. Write down today's weather. Make the first three forecasts for tomorrow. (15 min); day 2: Check yesterday's three forecasts and give points. Then make three new forecasts for tomorrow. (5 min); day 3: Check and score. Make tomorrow's forecasts. (5 min); day 4: Check and score. Make tomorrow's forecasts. Who is ahead so far? (5 min); day 5: Check and score. Make tomorrow's forecasts. (5 min); day 6: Check and score. Make tomorrow's forecasts. (5 min); day 7: Check and score. Make the last forecasts. (5 min); day 8: Check and score the last day. Add up the points, draw a bar chart and say what you found. (15 min)
-- **s1 (5 min)**  
+- **schedule:** day 1: Set up the score sheet. Write down today's weather. Make the first three forecasts for tomorrow. (12 min); day 2: Check yesterday's three forecasts and give points. Then make three new forecasts for tomorrow. (9 min); day 3: Check and score. Make tomorrow's forecasts. (9 min); day 4: Check and score. Make tomorrow's forecasts. Who is ahead so far? (9 min); day 5: Check and score. Make tomorrow's forecasts. (9 min); day 6: Check and score. Make tomorrow's forecasts. (9 min); day 7: Check and score. Make the last forecasts. (9 min); day 8: Check and score the last day. Add up the points, draw a bar chart and say what you found. (16 min)
+- **s1 (4 min)**  
   *Parent does:* 1. Draw the table in the notebook, or print the score sheet. 2. Write the three forecasters at the top: 'Same as today', 'Me', 'The app'. 3. Read out the two questions everyone will answer each evening.  
   *Parent says:* We're going to have a forecast contest for a week. Every evening, three forecasters guess tomorrow. The first just says tomorrow will be like today. The second is you, reading the sky. The third is the weather app. Each evening they answer two questions. Will it rain tomorrow? Will the sky be mostly sunny or mostly cloudy?  
   *Child mode:* You are running a forecast contest! Three forecasters guess tomorrow's weather. One says 'same as today'. One is you. One is the weather app. Each answers two questions. Will it rain? Sunny or cloudy?
   - Note: Agree on the rules now, and write them at the top of the page. Rain means enough rain to wet the balcony floor or the road, at any time from morning to bedtime. 'Mostly cloudy' means clouds cover more than half the sky for most of the day. For the app, a chance of rain of 50% or more counts as 'yes, rain'.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* Ask your child to predict the winner and give a reason. Write the guess and the reason at the top of the page.  
   *Parent says:* Before we start, which forecaster do you think will win the week? Which will come last? Why do you think so?  
   *Child mode:* Guess the winner. Who will come last? Why do you think so? Write your guess at the top.
   - Ask: Why do you think that forecaster will win? (good: The app has satellites and computers.; Weather doesn't change much, so 'same as today' will be right a lot.; I can see the clouds myself.)
   - Note: Any guess with a reason is good. Don't say which one usually wins. Let the week answer it.
-- **s3 (4 min)**  
+- **s3 (2 min)**  
   *Parent does:* 1. Go to the window or balcony. 2. Write today's weather in the 'What really happened' column: rain or no rain, mostly sunny or mostly cloudy. 3. Write the 'Same as today' forecast for tomorrow: just copy today.  
   *Parent says:* First, what is today's weather? Did it rain today? Was the sky mostly sunny or mostly cloudy? The first forecaster just copies today for tomorrow.  
   *Child mode:* Look outside. Did it rain today? Was it sunny or cloudy? Write it down. Copy today into the 'Same as today' column for tomorrow.
-- **s4 (5 min)**  
+- **s4 (4 min)**  
   *Parent does:* 1. Ask your child to look at the sky for two minutes. They notice the clouds, which way they move, and how the air feels. 2. They write their own forecast for tomorrow. 3. Then open the weather app and write its forecast for tomorrow.  
   *Parent says:* Now it's your turn. Look carefully. Are there clouds? What kind? Are they growing or shrinking? Is there wind? Does the air feel sticky? Now make your forecast for tomorrow. Then we'll write what the app says.  
   *Child mode:* Look at the sky for two minutes. What clouds? Is there wind? Is the air sticky? Write your forecast for tomorrow. Then write the app's forecast.
   - Ask: What did you see that made you choose your forecast? (good: The clouds are getting bigger.; The sky is clear and there is no wind.; The air is sticky, so rain might come.)
   - Note: Always write your child's forecast before looking at the app, so the app does not change their mind. That keeps the test fair.
-  - Wait: Every evening for the next 6 evenings, at about the same time, do steps s5 and then s3 and s4 again.
-- **s5 (5 min)**  
-  *Parent does:* 1. Each evening, look at yesterday's three forecasts. 2. Give each forecaster 1 point for a right rain answer, and 1 point for a right sunny or cloudy answer. 3. Then make the three new forecasts.  
+  - Wait: Every evening for the next 6 evenings, at about the same time, do step s5 first, and then steps s3 and s4 again.
+- **s5 (3 min)**  
+  *Parent does:* 1. Each evening from day 2, look at yesterday's three forecasts. 2. Give each forecaster 1 point for a right rain answer, and 1 point for a right sunny or cloudy answer. 3. Then make the three new forecasts, as in steps s3 and s4.  
   *Parent says:* Let's check yesterday's forecasts against what really happened today. One point for the right rain answer, and one point for the right sky answer. Who scored today?  
   *Child mode:* Check yesterday's forecasts. Was each one right about rain? About sun or cloud? Give 1 point for each right answer.
-  - Note: On day 4, look at the totals together. Who is ahead? Is it what your child guessed?
+  - Note: On day 4, look at the totals together. Who is ahead? Is it what your child guessed? On day 8 you check and score the last day, and there are no new forecasts to make.
   - Check: Yesterday, 'Same as today' said 'no rain, sunny'. Today it rained, and the sky was cloudy all day. How many points does 'Same as today' get? → **0 points**
 - **s6 (8 min)**  
   *Parent does:* On day 8, after the last check: 1. Add up each forecaster's points. The most anyone can get is 14. 2. Draw a bar chart with one bar for each forecaster.  
@@ -321,28 +321,28 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Parent does:* 1. Just after a hot bath or shower, put plate 1 on a dry bathroom shelf, away from splashes. 2. Shut the door and window and turn off any exhaust fan. 3. Put plate 2 in the driest room, away from the kitchen.  
   *Parent says:* The bathroom air is full of water vapour from the hot water. We shut the door to keep it in. The other plate goes where the air is dry.  
   *Child mode:* Put plate 1 on a dry shelf in the steamy bathroom. Shut the door. Put plate 2 in a dry room.
-  - Note: Put the plate where no water can splash or drip on it, so only the damp air reaches the salt. On a very humid monsoon day, the dry room may not be very dry. Then put plate 2 in a room with an air conditioner, or just compare with fresh salt from the dabba.
+  - Note: Put the plate where no water can splash or drip on it, so only the damp air reaches the salt. On a very humid monsoon day the dry room may not be very dry. Then choose the room with the least damp air, and keep both plates for the same time.
   - Wait: Wait one hour.
 - **s4 (7 min)**  
   *Parent does:* 1. Bring both plates out together. 2. Look closely at each. 3. Tilt each plate slowly until it is nearly upright. 4. Press the salt gently with a finger.  
   *Parent says:* Let's compare. Look first. Now tilt each plate slowly. Does the salt slide off? Now press it gently with a finger. How does it feel?  
   *Child mode:* Bring both plates. Look closely. Tilt each one slowly. Does the salt slide? Press it gently. How does it feel?
   - Ask: What is different about the bathroom salt? (good: It is stuck to the plate.; It is lumpy and damp.; It doesn't slide off.)
-  - Note: Usually the bathroom salt looks darker and wetter, sticks to the plate and clumps together, while the dry-room salt slides off. If you see no difference, put the bathroom plate back and leave it overnight with the door shut, or try on a very humid monsoon day.
+  - Note: Often the bathroom salt looks darker and wetter, sticks to the plate and clumps together, while the dry-room salt slides off. The change can be small after one hour, because the steam fades once the shower is over. Some table salt has an anti-caking powder that slows lumping. If you see little or no difference, say so honestly. That is a real result: this air was not damp enough. Try again right after another hot shower, or on a humid monsoon day.
 - **s5 (5 min)**  
   *Parent does:* Ask for a claim, evidence and reasoning. Then explain humidity and what this means for the saying.  
   *Parent says:* What did you find? What took in the water? So, does lumpy salt tell us that rain is coming?  
   *Child mode:* What did you find? Where did the water come from? Does lumpy salt mean rain is coming?
   - Note: The saying has a true part: salt really does show that the air is damp, and damp air often comes before rain. But damp air does not always bring rain. A strong answer says both.
-  - Check: The bathroom salt went lumpy. Where did the water come from? → **Water vapour in the damp air**
-### e3 · Ground Wind and Cloud Wind: do they go the same way? (25 min, 3 days)
+  - Check: Suppose the bathroom salt went lumpy. Where did the water come from? → **Water vapour in the damp air**
+### e3 · Ground Wind and Cloud Wind: do they go the same way? (29 min, 3 days)
 - **question:** Does the wind on your balcony blow the same way as the clouds high above are moving?
 - **predict:** Guess first. Will the clouds move the same way as the wind on your balcony? Why do you think so?
 - **fair test:** Use the same spot each time. Check the ground wind with the same ribbon and the clouds against the same fixed edge. Check on 3 different days, because one day can be a fluke.
-- **safety:** Hold the stick inside the balcony railing. Never lean over a railing or climb onto anything. Never look straight at the Sun.
+- **safety:** Hold the stick inside the balcony railing. Never lean over a railing or climb onto anything.
 - **record:** Fill in the table each day. Draw an arrow for the ground wind and an arrow for the clouds on a little compass drawing.
 - **results table:** Day | Time | Ground wind comes from (north, south, east or west) | Clouds come from | Same or different?
-- **schedule:** day 1: Make the wind ribbon. Check the ground wind and the cloud direction. Write both down. (10 min); day 2: Check both again, at about the same time. (5 min); day 3: Check both again. Compare all three days. (10 min)
+- **schedule:** day 1: Make the wind ribbon. Check the ground wind and the cloud direction. Write both down. (12 min); day 2: Check both again, at about the same time. (6 min); day 3: Check both again. Compare all three days. (11 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Tie the plastic strip or ribbon to the end of the pencil. 2. Find north on the phone compass, or face where the Sun rises, which is east. 3. Write N, E, S and W on a page as a cross.  
   *Parent says:* We'll make a wind ribbon to see which way the air is moving on our balcony. First, let's find north, east, south and west.  
@@ -351,12 +351,12 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Parent does:* Ask for a prediction with a reason.  
   *Parent says:* Do you think the clouds high up will move the same way as the wind here? Why do you think so?  
   *Child mode:* Will the clouds move the same way as the wind here? Why?
-- **s3 (4 min) · grown-up needed**  
+- **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. Hold the ribbon out at arm's length, inside the railing. 2. The ribbon streams away from where the wind comes from. 3. Write where the wind comes from.  
   *Parent says:* Hold it still. The ribbon points away from where the wind comes from. So if it streams towards the west, the wind is coming from the east.  
   *Child mode:* Hold the ribbon out, inside the railing. Which way does it stream? The wind comes from the other side. Write it down.
   - Note: Stay with your child on the balcony. Buildings bend the wind, so if the ribbon flaps about in all directions, try a different side of the balcony or an open window on another side.
-- **s4 (5 min)**  
+- **s4 (3 min)**  
   *Parent does:* 1. Pick a cloud close to a fixed edge, such as the top of a building. 2. Keep your head still and watch for one minute. 3. Which way does it move? Write where the clouds come from.  
   *Parent says:* Clouds move slowly, so we watch one against something that stays still. Keep your head still. Is the cloud moving away from the edge or towards it?  
   *Child mode:* Pick a cloud near the top of a building. Keep your head still. Watch for one minute. Which way does it move?
@@ -388,17 +388,16 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Child mode:* Three hours later, look again. Were you right? What changed?
   - Note: Don't worry about whether the forecast was right. The habit we want is to look closely, guess with a reason, and check.
   - Wait: Wait three hours, then do this step.
-### a2 · Ask Paati: collect weather sayings (15 min)
-- **safety:** None.
+### a2 · Ask an Elder: collect weather sayings (15 min)
 - **record:** Write each saying in the language it was said, then what it means in English. Mark each one: a sign we can test, or a season.
 - **s1 (8 min)**  
   *Parent does:* 1. Help your child phone or visit an older relative or neighbour. 2. Your child asks: 'What signs did people look at to know rain was coming? Were there any sayings about the weather?' 3. Write down every answer.  
-  *Parent says:* Older people often know signs and sayings about the weather. Let's ask Paati. You ask the question, and I'll help you write.  
-  *Child mode:* Ask Paati or Thatha: what signs tell you rain is coming? Do you know any weather sayings? Write them down.
-  - Note: Answers may be about clouds, wind, the smell of the air, ants, birds, the Moon, or the months. Write sayings in the language they come in, Tamil, Malayalam, Telugu, Kannada, Hindi or any other, and then what they mean.
+  *Parent says:* Older people often know signs and sayings about the weather. Let's ask someone: a grandparent if you have one, or an older neighbour or relative. You ask the question, and I'll help you write.  
+  *Child mode:* Ask an older person: what signs tell you rain is coming? Do you know any weather sayings? Write them down.
+  - Note: Answers may be about clouds, wind, the smell of the air, ants, birds, the Moon, or the months. Write sayings in the language they come in, such as Tamil, Malayalam, Telugu, Kannada, Marathi, Bengali, Gujarati, Odia, Assamese or Hindi, and then what they mean. If nobody is available, ask a neighbour, a shopkeeper or a fisher or farmer you know.
 - **s2 (7 min)**  
   *Parent does:* Sort the sayings into two groups on the page: 'a sign we could test this week' and 'about a season'.  
-  *Parent says:* Some sayings are about a sign you can watch for, like a ring around the Moon. Others are about a time of year, like the rains in Aippasi. Let's sort them. Which ones could we test?  
+  *Parent says:* Some sayings are about a sign you can watch for, like a ring around the Moon. Others are about a time of year, like the rains in the Tamil month of Aippasi, which falls in October and November. Let's sort them. Which ones could we test?  
   *Child mode:* Sort the sayings. Which ones are a sign you can watch for? Which ones are about a season?
   - Ask: How could we test one of these sayings? (good: Watch for the sign and see if rain comes the next day.; Count how many times it is right.; Write it down every time we see the sign.)
   - Note: Choose one testable saying to use in the project p1, the Family Book of Weather Sayings.
@@ -421,7 +420,6 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Note: Your child may get 5, 6, 7 or even 8 rain days out of 10. That is normal with chance. Doing it again gives a different count. Over many tries, it comes close to 6 in 10.
   - Check: The forecast said '60% chance of rain', and it did not rain. What does that tell you? → **Dry days happen on about 4 of 10 days like this, so it is not a surprise**
 ### a4 · Watch the Clouds Travel: a satellite film (15 min)
-- **safety:** A grown-up chooses the website and stays with the child online.
 - **record:** Draw a rough map of India and the seas. Draw today's big clouds and an arrow for which way they are moving.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Open the satellite images on the India Meteorological Department website or on zoom.earth. 2. Find India, the Arabian Sea, the Bay of Bengal and your own city.  
@@ -439,10 +437,10 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Note: Clouds over India can move in many directions depending on the season. In the southwest monsoon, from June to September, much of the cloud comes from the southwest. In October to December, rain clouds often come to Tamil Nadu from the Bay of Bengal in the east.
 
 ## Projects
-### p1 · Our Family Book of Weather Sayings, Tested (60 min, 14 days)
-- **safety:** Watch the sky from indoors or a balcony. Never look straight at the Sun.
+### p1 · Our Family Book of Weather Sayings, Tested (71 min, 14 days)
+- **safety:** Never look straight at the Sun.
 - **record:** On each tally page: the saying, the sign, the weather it promises, and two rows of tally marks: 'sign seen, and the weather came' and 'sign seen, but the weather did not come'.
-- **schedule:** day 1: Choose two sayings that give a sign you can watch for. Make a tally page for each. (15 min); day 2: Watch for both signs each evening. If you see one, mark it. The next day, mark whether the weather it promised came. (3 min); day 14: Count the tallies. For each saying, decide: keep it, keep it with a warning, or drop it. Write and draw the book. (20 min)
+- **schedule:** day 1: Choose two sayings that give a sign you can watch for. Make a tally page for each. (15 min); day 2: Watch for both signs each evening, from day 2 to day 13. If you see one, mark it. The next day, mark whether the weather it promised came. (3 min); day 14: Count the tallies. For each saying, decide: keep it, keep it with a warning, or drop it. Write and draw the book. (20 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Choose two sayings that give a sign you could see in the next two weeks. 2. On a page for each, write the saying, the sign, and what it promises. 3. Draw two rows for tally marks: 'came true' and 'did not come true'.  
   *Parent says:* Let's choose two sayings to test. We need a sign we might really see, like high streaks of cloud or lumpy salt. For each one, we'll count the times it came true and the times it did not.  
@@ -512,7 +510,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
    **Answer:** The clouds, the wind and how damp the air feels. *Why:* Clouds, wind and damp air are signs of what is coming. What day of the week it is tells you nothing about the weather.
 3. (fill) Water in the form of an invisible gas is called water ____.  
    **Answer:** ['vapour']. *Why:* Water vapour is water as a gas. Humidity is how much water vapour is in the air.
-4. (truefalse) Divya says, 'A forecast is a promise about tomorrow.' Is she right?  
+4. (truefalse) Divya, a girl in Class 4, says, 'A forecast is a promise about tomorrow.' Is she right?  
    **Answer:** False. *Why:* False. A forecast is a careful guess made from today's weather. It is right most days, but not every day. A strong answer says what a forecast really is.
 5. (write) In the forecast contest, why does 'tomorrow will be like today' get so many days right?  
    **Answer:** Because on most days the weather changes slowly, so tomorrow is often like today.. *Why:* A strong answer says weather usually changes slowly, and adds that this forecast always gets it wrong when the weather does change.
@@ -530,7 +528,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
    **Answer:** 3. *Why:* A satellite, a weather balloon and a weather station all measure the air. A horoscope does not measure anything about the weather.
 11. (order) Put the steps of making a forecast at a weather office in order.  
    **Answer:** ['Measure the air all over the world', 'Send the readings to a big computer', 'The computer works out how the air will move', 'Meteorologists check the results and write the forecast']. *Why:* First measure, then send, then compute, then check and write. A strong answer says why each step needs the one before.
-12. (truefalse) Nila says, 'The wind on our balcony always blows the same way the clouds are moving.' Is she right?  
+12. (truefalse) Nila, a girl in Class 3, says, 'The wind on our balcony always blows the same way the clouds are moving.' Is she right?  
    **Answer:** False. *Why:* False. The wind high up, which carries the clouds, can blow a different way from the wind near the ground. A strong answer mentions the wind ribbon test.
 13. (mcq) Sita, a girl in Kozhikode, hears that the weather office has given an orange warning for heavy rain. What does orange mean?  
    Options: No warning / Be prepared / Take action / The rain is orange  
@@ -541,41 +539,39 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
    **Answer:** ['Same as today', 'Me', 'The app', 'What really happened']. *Why:* A strong answer also says why 'What really happened' is filled in the next day, never before.
 16. (fill) A ring of light around the Moon, made by ice crystals in thin high cloud, is called a ____.  
    **Answer:** ['halo']. *Why:* A halo forms when moonlight or sunlight passes through tiny ice crystals high in the sky. It often appears in the thin cloud that spreads ahead of a big storm system.
-### Weather on the Move (stretch) (stretch, 16 questions)
+### Weather on the Move (stretch) (stretch, 15 questions)
 1. (write) Franklin's storm blew from the northeast, but travelled towards the northeast. Explain how both can be true.  
    **Answer:** The wind swirls around the storm, while the whole storm moves along. So the wind at one place can blow one way while the storm travels another way.. *Why:* A strong answer separates the wind inside the storm from the movement of the whole storm, perhaps using the picture of water swirling in a bucket that is pushed along.
 2. (mcq) Pooja, a girl in Visakhapatnam, sees on the satellite film that a cloud swirl is 300 km out at sea and moving towards the coast at about 100 km each day. When might it arrive?  
    Options: Today / In about 3 days / In about 30 days / Never  
    **Answer:** In about 3 days. *Why:* 300 km at 100 km a day takes 3 days. A strong answer adds that storms can speed up, slow down or turn, so the forecast must be checked again each day.
-3. (truefalse) Kiran says, 'If the forecast said 30% chance of rain and it rained, the forecast was wrong.' Is he right?  
-   **Answer:** False. *Why:* False. 30% means rain on about 3 of 10 days like this. Rain on one of those days is what the forecast allowed. To judge a forecaster, you check many days.
-4. (write) In the salt test, the plate in the bathroom was kept away from splashes. Why did that matter?  
+3. (write) In the salt test, the plate in the bathroom was kept away from splashes. Why did that matter?  
    **Answer:** So that the only water reaching the salt was water vapour from the air, not drops from the tap.. *Why:* A strong answer says this made the test fair: it showed the damp air, not splashes, changed the salt.
-5. (order) A thunderstorm builds on a hot afternoon in Bengaluru. Put what happens in order.  
+4. (order) A thunderstorm builds on a hot afternoon in Bengaluru. Put what happens in order.  
    **Answer:** ['The sun heats the ground in the morning', 'Warm, damp air rises', 'Puffy clouds grow taller and taller', 'A tall storm cloud brings thunder and rain']. *Why:* Heat, then rising damp air, then growing clouds, then the storm. A strong answer says why the storm comes in the afternoon, not the early morning.
-6. (mcq) Edward Lorenz ran his weather program twice. The second time he typed 0.506 instead of 0.506127. What happened?  
+5. (mcq) Edward Lorenz ran his weather program twice. The second time he typed 0.506 instead of 0.506127. What happened?  
    Options: Both forecasts came out the same / The computer broke / After a while, the two forecasts were completely different / The second forecast was always better  
    **Answer:** After a while, the two forecasts were completely different. *Why:* The tiny difference grew until the two forecasts were completely different. This is why detailed forecasts many weeks ahead are not possible.
-7. (sort) Sort these sayings and signs: 'worth testing', 'about a season, not tomorrow', or 'cannot be about weather'.  
+6. (sort) Sort these sayings and signs: 'worth testing', 'about a season, not tomorrow', or 'cannot be about weather'.  
    **Answer:** salt goes lumpy before rain → Worth testing; in Aippasi the rain does not stop → About a season; it rains when you forget your umbrella → Cannot be about weather; a ring around the Moon means rain soon → Worth testing; peacocks dance when the rains come → About a season; ants carry their eggs up before rain → Worth testing. *Why:* A sign in the air or sky is worth testing. A sign that happens every monsoon tells you the season. Something with no link to the air cannot tell you the weather. A strong answer gives a reason for each.
-8. (perspective) Three people in a fishing village near Rameswaram are deciding whether to go to sea tomorrow.  
-   **Answer:** A strong answer chooses whom to trust most and gives reasons, for example that the weather office sees storms far out at sea. Then it answers back from another view: the grandfather's signs are free and quick, and the young fisher is right that the app can be wrong. A very strong answer says to use the warning and the signs together, and to stay ashore if either says danger.. *Why:* There is a real trade-off between staying safe and losing a day's catch. Warnings and local signs work best together.
-9. (write) A weather office needs readings from the sea, from the sky and from other countries to forecast for your city. Explain why.  
+7. (perspective) Three people in a fishing village near Rameswaram are deciding whether to go to sea tomorrow.  
+   **Answer:** A strong answer chooses whom to trust most and gives reasons, for example that the weather office sees storms far out at sea. Then it answers back from another view: Selvam's signs are free and quick, and Anitha is right that the app can be wrong. A very strong answer says to use the warning and the signs together, and to stay ashore if either says danger.. *Why:* There is a real trade-off between staying safe and losing a day's catch. Warnings and local signs work best together.
+8. (write) A weather office needs readings from the sea, from the sky and from other countries to forecast for your city. Explain why.  
    **Answer:** Weather travels, so the weather coming to my city tomorrow is somewhere else today, perhaps over the sea or another state.. *Why:* A strong answer uses the idea that weather moves, with an example such as rain coming from the Bay of Bengal to Chennai.
-10. (fill) The simplest forecast, 'tomorrow will be like today', is called a ____ forecast.  
+9. (fill) The simplest forecast, 'tomorrow will be like today', is called a ____ forecast.  
    **Answer:** ['persistence']. *Why:* Persistence means staying the same. Meteorologists use it to check whether their own forecasts are any better.
-11. (mcq) In the wind ribbon test, the ribbon streams towards the west. Where is the wind coming from?  
+10. (mcq) In the wind ribbon test, the ribbon streams towards the west. Where is the wind coming from?  
    Options: The east / The west / Straight down / Nowhere  
    **Answer:** The east. *Why:* The ribbon streams away from where the wind comes from. So it points west when the wind blows from the east.
-12. (draw) Draw a map with a storm over the sea and your city on the coast. Draw where the storm is today, and where you forecast it will be tomorrow.  
+11. (draw) Draw a map with a storm over the sea and your city on the coast. Draw where the storm is today, and where you forecast it will be tomorrow.  
    **Answer:** A storm drawn over the sea, an arrow, and the storm drawn again nearer to or over the city.. *Why:* A strong drawing shows the storm moving, with an arrow, and labels 'today' and 'tomorrow'.
-13. (truefalse) Rukmini says, 'Lumpy salt means it will certainly rain tomorrow.' Is she right?  
+12. (truefalse) Rukmini, a girl in Class 4, says, 'Lumpy salt means it will certainly rain tomorrow.' Is she right?  
    **Answer:** False. *Why:* False. Lumpy salt shows the air is humid. Humid air makes rain possible, but rain also needs the damp air to rise and cool into rain clouds.
-14. (match) Match each tool to what it tells forecasters.  
+13. (match) Match each tool to what it tells forecasters.  
    **Answer:** Weather satellite → pictures of clouds from space; Weather balloon → the air high above the ground; Radar → where rain is falling right now; Weather model → how the air will move next. *Why:* Each tool measures a different part of the weather. A strong answer says why forecasters need all of them.
-15. (write) In Kavya's forecast contest, the app won. Arjun says, 'So I should never use my own eyes.' Do you agree? Why or why not?  
+14. (write) In a story in this unit, Kavya's family runs a forecast contest, and the weather app wins. Kavya's seven-year-old cousin Arjun says, 'So I should never use my own eyes.' Do you agree? Why or why not?  
    **Answer:** No. The app is usually best, but your own eyes see what is happening right now where you are, such as a storm cloud growing, which can help the app's forecast.. *Why:* A strong answer sees that both have a use: the app sees far away, and your eyes see right here and right now.
-16. (count) Kavya's score sheet for 'Same as today' shows: day 1, 2 points. Day 2, 2 points. Day 3, 0 points. Day 4, 1 point. Day 5, 2 points. How many points in all?  
+15. (count) A made-up score sheet for 'Same as today' shows: day 1, 2 points. Day 2, 2 points. Day 3, 0 points. Day 4, 1 point. Day 5, 2 points. How many points in all?  
    **Answer:** 7. *Why:* 2 + 2 + 0 + 1 + 2 = 7. A strong answer also says what probably happened on day 3, the day the weather changed.
 ### The Limits of Forecasting (challenge) (challenge, 15 questions)
 1. (write) Zainab, a girl in Pune, says, 'If we measured every bit of air on Earth perfectly, we could forecast the weather a year ahead.' What do you think? Use Lorenz's story.  
@@ -589,7 +585,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
    **Answer:** In England most weather comes from the west, so a red sunset means clear sky to the west and fine weather coming. In Chennai, rain often comes from the east, from the Bay of Bengal, so the sunset sky in the west tells you less.. *Why:* A strong answer links the saying to the direction weather usually travels from in each place.
 5. (write) The forecast contest in a hot, dry March ended in a tie: all three forecasters got 14 points. Is this a useless result? Explain.  
    **Answer:** No. It shows that when the weather does not change, 'same as today' is as good as anything. To find out which forecaster is best, we would need to test when the weather is changing.. *Why:* A strong answer treats the tie as real evidence, and suggests a better time for a second test.
-6. (write) In 1999 a very strong cyclone hit Odisha and about ten thousand people died. In 2013 Cyclone Phailin was about as strong, but far fewer died. Give two reasons forecasting helped.  
+6. (write) In 1999 a very strong cyclone hit Odisha and about ten thousand people died. In 2013 Cyclone Phailin was also very powerful, but far fewer died. Give two reasons forecasting helped.  
    **Answer:** The storm was tracked for days, so people knew where and when it would hit. Close to a million people moved to shelters in time, and boats were brought in.. *Why:* A strong answer names knowing early and acting on the warning. A very strong answer says the forecast was only useful because people trusted it and acted.
 7. (mcq) Lewis Fry Richardson, an English scientist, worked out a 6-hour forecast by hand about a hundred years ago. It took him weeks. Why was it not useful, even if it had been right?  
    Options: The weather had already happened long before he finished / He used the wrong paper / Forecasts are never useful / It was in another language  
@@ -613,47 +609,41 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
    **Answer:** ['satellite', 'weather balloon', 'computer', 'meteorologist']. *Why:* A strong answer says what each part does: the satellite and balloon measure, the computer works out how the air will move, the meteorologist checks and writes the forecast.
 
 ## Videos
-- **How do weather forecasts work? (a short explainer for children)** (to find (for example the Met Office 'Learn About Weather' channel or SciShow Kids), 4 min) id `to find`: Shows the steps of a modern forecast: measuring, computing and checking. *Check:* No video could be looked up from here. Find one under 6 minutes that shows observations, a computer model and a forecaster, and preview it.
-- **The butterfly effect and weather (for the parent)** (to find (a short explainer on Edward Lorenz and chaos), 5 min) id `to find`: For the parent and curious older children: why small differences grow and limit how far ahead weather can be forecast. *Check:* Not found from here. Choose one that tells the true story of Lorenz's rounded number, and preview it.
-- **Cyclone Phailin 2013: how the warning saved lives** (to find (for example a news report or a World Meteorological Organization film), 4 min) id `to find`: Shows a real forecast of a dangerous storm, and the evacuation of close to a million people in Odisha and Andhra Pradesh. *Check:* Not found from here. Choose a calm report suitable for children, and preview it, since storm footage can frighten some children.
+- **How do weather forecasts work? (a short explainer for children)** (for example the Met Office 'Learn About Weather' channel or SciShow Kids, 4 min) id `to find`: Shows the steps of a modern forecast: measuring, computing and checking. *Check:* No video could be looked up from here. Find one under 6 minutes that shows observations, a computer model and a forecaster, and preview it.
+- **The butterfly effect and weather (for the parent)** (a short explainer on Edward Lorenz and chaos, 5 min) id `to find`: For the parent and curious older children: why small differences grow and limit how far ahead weather can be forecast. *Check:* Not found from here. Choose one that tells the true story of Lorenz's rounded number, and preview it.
+- **Cyclone Phailin 2013: how the warning saved lives** (for example a news report or a World Meteorological Organization film, 4 min) id `to find`: Shows a real forecast of a dangerous storm, and the evacuation of close to a million people in Odisha and Andhra Pradesh. *Check:* Not found from here. Choose a calm report suitable for children, and preview it, since storm footage can frighten some children.
 
 ## Quiz
-1. (mcq) Meera, a girl in Class 3 in Coimbatore, sees puffy clouds growing taller and taller on a hot afternoon. What weather is most likely soon?  
-   Options: A thunderstorm / A cold, clear night / Snow / A week of dry weather  
-   **Answer:** A thunderstorm. *Why:* Growing cumulus clouds can become cumulonimbus storm clouds, which bring thunder and heavy rain. Picking a dry answer means seeing the clouds but not noticing that they are growing.
-2. (mcq) What is a weather forecast?  
-   Options: A promise about tomorrow's weather / A careful guess about the weather to come, made from what the air is doing now / A record of yesterday's weather / A list of the seasons  
-   **Answer:** A careful guess about the weather to come, made from what the air is doing now. *Why:* A forecast starts from today's weather and works out how it will change. It is a careful guess, not a promise.
-3. (mcq) Shalini, a girl in Mysuru, says, 'My grandmother's saying worked last Tuesday, so it always works.' What is the best way to check?  
+1. (mcq) Meera, a girl in Class 3 in Coimbatore, sees a low grey sheet of cloud covering the whole sky. What weather is most likely?  
+   Options: Long, steady rain / A thunderstorm in ten minutes / A clear night / Snow  
+   **Answer:** Long, steady rain. *Why:* A low grey sheet of cloud over the whole sky often brings long, steady rain. A thunderstorm comes from tall, growing clouds, not from a flat sheet.
+2. (mcq) Shalini, a girl in Mysuru, says, 'My grandmother's saying worked last Tuesday, so it always works.' What is the best way to check?  
    Options: Ask more people whether they like the saying / Watch for the sign many times and count how often the weather it promises really comes / Test it once more / Look it up in a storybook  
    **Answer:** Watch for the sign many times and count how often the weather it promises really comes. *Why:* One time can be luck. Counting the times a saying comes true and the times it fails, over many tries, shows how good it is.
-4. (mcq) In a forecast contest, 'tomorrow will be like today' got most days right. On which kind of day did it go wrong?  
+3. (mcq) In a forecast contest, 'tomorrow will be like today' got most days right. On which kind of day did it go wrong?  
    Options: On days when the weather stayed the same / On days when the weather changed / On Sundays / On sunny days  
    **Answer:** On days when the weather changed. *Why:* 'Same as today' always predicts no change. So it is right when the weather stays the same and wrong every time it changes. Catching those changes is what makes a forecast useful.
-5. (mcq) Farhan, a boy in Chennai, sees a big swirl of cloud on a satellite picture over the Bay of Bengal, moving towards the coast. What is the best forecast for Chennai?  
+4. (mcq) Farhan, a boy in Chennai, sees a big swirl of cloud on a satellite picture over the Bay of Bengal, moving towards the coast. What is the best forecast for Chennai?  
    Options: Rain may come soon, because the cloud is moving towards the city / No rain, because the sky over Chennai is blue now / Snow / The cloud will stay where it is  
    **Answer:** Rain may come soon, because the cloud is moving towards the city. *Why:* Weather travels. A storm moving towards the coast today may reach the city tomorrow, even if the sky over the city is still blue.
-6. (mcq) Benjamin Franklin's storm had a wind from the northeast. Which way did the storm itself travel?  
-   Options: Towards the northeast, against its own wind / Towards the southwest, with its wind / It did not move / Straight up  
-   **Answer:** Towards the northeast, against its own wind. *Why:* Franklin found the storm reached Boston, to the northeast, hours after Philadelphia. A storm's winds swirl around it, while the whole storm travels another way.
-7. (mcq) The forecast says '70% chance of rain'. What does it mean?  
+5. (mcq) The forecast says '70% chance of rain'. What does it mean?  
    Options: It will rain for 70 minutes / 70% of the city will get wet / On 10 days like this, rain would fall on about 7 / It will certainly rain  
    **Answer:** On 10 days like this, rain would fall on about 7. *Why:* A 70% chance means rain on about 7 of 10 days like this one. It does not mean minutes or how much of the city gets wet.
-8. (mcq) The forecast said '20% chance of rain', and it rained. Was the forecast wrong?  
+6. (mcq) The forecast said '20% chance of rain', and it rained. Was the forecast wrong?  
    Options: Yes, it was completely wrong / Not necessarily: rain happens on about 2 of 10 days like this / Yes, because 20% means no rain / Forecasts are always wrong  
    **Answer:** Not necessarily: rain happens on about 2 of 10 days like this. *Why:* 20% means rain is unlikely but possible. Rain on 2 of every 10 such days is what 20% means. You would need to check many days to judge the forecaster.
-9. (mcq) Why is a forecast for next week less sure than a forecast for tomorrow?  
+7. (mcq) Why is a forecast for next week less sure than a forecast for tomorrow?  
    Options: Weather offices try less hard for next week / Small errors in today's measurements grow bigger over time / Computers switch off after one day / Next week's weather is decided by the Moon  
    **Answer:** Small errors in today's measurements grow bigger over time. *Why:* Nobody can measure every bit of air. The small errors grow day by day, as Edward Lorenz found with his rounded number. So forecasts get less sure the further ahead they look.
-10. (mcq) What does a red weather warning from the India Meteorological Department mean?  
+8. (mcq) What does a red weather warning from the India Meteorological Department mean?  
    Options: Be aware / Be prepared / Take action / No warning  
    **Answer:** Take action. *Why:* Green means no warning, yellow means be aware, orange means be prepared, and red means take action, for example moving to safety.
-11. (mcq) Lakshmi, a girl in Kochi, leaves salt on a plate in a steamy bathroom for an hour. The salt goes lumpy. What does this show?  
-   Options: Salt takes in water vapour from damp air / Salt makes rain / The bathroom is cold / Salt is melting  
-   **Answer:** Salt takes in water vapour from damp air. *Why:* Salt takes in water vapour from humid air and goes lumpy. Lumpy salt shows the air is damp, which makes rain possible, though not certain.
-12. (mcq) Why do weather offices need readings from far away to forecast your city's weather?  
+9. (mcq) Why do weather offices need readings from far away to forecast your city's weather?  
    Options: Because the weather coming to your city is often somewhere else today / Because far-away readings are more exciting / Because your city has no weather / Because computers only work with far-away numbers  
    **Answer:** Because the weather coming to your city is often somewhere else today. *Why:* Weather travels across land and sea. To know what is coming, forecasters need to know what the air is doing in the places it is coming from.
+10. (mcq) Arjun, a boy aged 7, says, 'The sky is blue today, so it will be dry on Saturday.' The weather app says 90% chance of rain on Saturday. What is the best reason to trust the app?  
+   Options: The app is always right / The app can see the weather that is still far away, such as clouds over the sea / Blue sky always means dry weather / The app has never been wrong  
+   **Answer:** The app can see the weather that is still far away, such as clouds over the sea. *Why:* The app uses satellites and readings from far away, so it sees weather that has not reached your sky yet. It is not always right, but it sees more than one sky can show.
 
 ## Applications
 - Warnings of cyclones, floods and heat waves, so people can move to safety.
@@ -662,7 +652,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - Planning flights, so aircraft avoid storms and strong winds.
 - Planning ship routes across the oceans.
 - Deciding when to open dam gates before heavy rain fills a reservoir.
-- Getting ready for a cricket match, a wedding or a festival outdoors.
+- Getting ready for a cricket match, a wedding or a festival outdoors, such as Ganesh Chaturthi or Durga Puja.
 - Planning how much electricity cities will need on very hot days.
 - Telling when the monsoon is about to reach Kerala, so the whole country can plan.
 - Helping hospitals get ready for heat waves.
@@ -690,7 +680,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - Is the salt in the kitchen lumpy this week?
 - What did the weather app say for today? Was it right?
 - If it rains tomorrow, where do you think the rain is right now?
-- Do you know any weather saying from Paati or Thatha?
+- Do you know any weather saying from a grandparent or an older neighbour?
 - Is 30% chance of rain likely or unlikely? Should we take an umbrella?
 - Why do you think fishers listen to the weather report?
 - Who would win the forecast contest this week, do you think?
@@ -701,22 +691,16 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - What kind of shorts do clouds wear? *Thunderwear.*
 - What is a cyclone's favourite game? *Twister.*
 - What did the thunder say to the lightning? *You're shocking, but I'll always follow you.*
-- Why did Arjun take a ladder to the balcony? *He heard the forecast was going to be high clouds.*
-- Why did the forecaster keep a notebook? *So she could check if yesterday's tomorrow came true.*
 - Why did the weather app go to school? *To improve its chances.*
 - What is the Moon's favourite jewellery? *A halo, of course.*
 - What falls but never gets hurt? *Rain.*
-- Why did the salt go lumpy? *It heard rain was coming and got all worked up.*
-- What did the wind say to the ribbon? *Follow me, I'll show you which way to go.*
-- Why don't clouds ever get lost? *The wind always shows them the way.*
-- What did Paati say when the app agreed with her? *Finally, it's learning.*
 - What goes up when the rain comes down? *An umbrella.*
 
 ## Connected maths
 - In the forecast contest, the app scored 12 points out of 14, and 'Same as today' scored 10. How many more points did the app score? **2 more points.**. The app scored 12 and 'Same as today' scored 10. 12 take away 10 is 2. So the app scored 2 more points. That means the app caught one more change in the weather, worth 2 points, or two changes worth 1 point each. (queues `math.addition-subtraction.word-problems.L3`)
-- Draw a bar chart of these contest scores: Same as today 10, Me 11, The app 12. Which bar is tallest? How much taller is it than the shortest? **The app's bar is tallest. It is 2 points taller than 'Same as today'.**. Draw three bars, 10, 11 and 12 high. The app's is tallest at 12. The shortest is 'Same as today' at 10. 12 minus 10 is 2. (queues `math.data.bar-charts.L3`)
+- Draw a bar chart of these contest scores: Same as today 9, Me 11, The app 13. Which bar is tallest? How much taller is it than the shortest? **The app's bar is tallest. It is 4 points taller than 'Same as today'.**. Draw three bars, 9, 11 and 13 high. The app's is tallest at 13. The shortest is 'Same as today' at 9. 13 minus 9 is 4. (queues `math.data.bar-charts.L3`)
 - Priya, a girl in Thiruvananthapuram, put 6 rajma and 4 chana in a tumbler, then picked one bean without looking. Is she more likely to pick rajma or chana? What if she put in 2 rajma and 8 chana? **With 6 rajma and 4 chana, rajma is more likely. With 2 rajma and 8 chana, chana is more likely.**. With 6 rajma out of 10, rajma is more likely than chana. It is like a 60% chance of rain. With 2 rajma out of 10, chana is much more likely. That is like a 20% chance of rain: rain is unlikely, but it can still happen. (queues `math.probability.likely-and-unlikely.L3`)
-- In one week of Kavya's contest it rained on 3 of the 7 days. What fraction of the days had rain? Did more than half the days have rain? **3 sevenths of the days had rain. That is less than half.**. 3 rainy days out of 7 days is 3 out of 7, written 3/7. Half of 7 is three and a half, and 3 is less than that. So fewer than half the days had rain. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In one week of a family's forecast contest it rained on 3 of the 7 days. What fraction of the days had rain? Did more than half the days have rain? **3 sevenths of the days had rain. That is less than half.**. 3 rainy days out of 7 days is 3 out of 7, written 3/7. Half of 7 is three and a half, and 3 is less than that. So fewer than half the days had rain. (queues `math.fractions.fractions-of-a-whole.L3`)
 - A thunderstorm is 30 km away and moving towards your town at 10 km each hour. How long until it arrives, if it keeps going the same way? **3 hours.**. Each hour it moves 10 km closer. After 1 hour it is 20 km away, after 2 hours 10 km, after 3 hours 0 km. So it arrives in 3 hours. 30 divided by 10 is 3. (queues `math.time.duration.L3`)
 
 ## Song
@@ -730,8 +714,8 @@ Shade, Rain and Wind (sci.weather.L3): Topic-level song for Weather L3
 - [Regional Meteorological Centre, Chennai (India Meteorological Department)](https://mausam.imd.gov.in/chennai) · place · Chennai (Nungambakkam): The weather office for South India. IMD offices sometimes hold open days, for example around World Meteorological Day on 23 March. Check before going.
 
 ## Things to buy
-- [The Cloud Book, by Tomie dePaola](https://www.amazon.in/s?k=The+Cloud+Book+Tomie+dePaola) (book): A short picture book about the main kinds of cloud, old stories about clouds, and weather sayings. Good to read before the Sky Signs game. Used in a1, g1, p1. Read it together before activity a1, then use its cloud pictures as the cloud cards for the forecast contest.
-- [A small digital room thermometer with a humidity reading (thermo-hygrometer)](https://www.amazon.in/s?k=digital+thermometer+hygrometer) (tool): Optional. It shows humidity as a number, so you can see the bathroom air become damp in the salt test, and watch humidity rise before rain. Used in e2, e1. Read it each evening in the forecast contest and add humidity to the table.
+- [The Cloud Book, by Tomie dePaola](https://www.amazon.in/s?k=The+Cloud+Book+Tomie+dePaola) (book): Optional. A short picture book about the main kinds of cloud, old stories about clouds, and weather sayings. Used in a1, g1, p1. 
+- [A small digital room thermometer with a humidity reading (thermo-hygrometer)](https://www.amazon.in/s?k=digital+thermometer+hygrometer) (tool): Optional. It shows humidity as a number, so you can see the bathroom air become damp in the salt test, and add humidity to your forecast table. Used in e2, e1. 
 
 ## Warm-up
 - What is a weather forecast? → A careful guess about the weather to come, made from what the air is doing now.

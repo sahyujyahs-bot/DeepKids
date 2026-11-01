@@ -109,7 +109,7 @@
   {
    "term": "Cyclone",
    "meaning": "A huge storm with very strong winds that spin round a calm centre, called the eye. Cyclones form over warm seas.",
-   "example": "Cyclones hit the coasts of Tamil Nadu, Andhra Pradesh and Odisha, often in October to December.",
+   "example": "Cyclones hit the coasts of Tamil Nadu, Andhra Pradesh, Odisha and West Bengal, often in October to December.",
    "art": "A satellite-style picture of a spiral of clouds over the sea, with a small clear eye in the middle."
   },
   {
@@ -124,7 +124,7 @@
    "concept": "Air is real stuff, and wind is air moving",
    "status": "defined",
    "definition": "Air is a mixture of gases. It takes up space and has weight. Wind is air moving past something.",
-   "description": "Air is made of tiny particles, far too small to see. They fly about very fast and bump into everything. You do not feel the air when it is still, because it presses on you equally from every side. When the air moves, its particles hit the front of you harder than the back, and you feel a push. That push is the wind. Air is light, but it is not weightless. One litre of air weighs a little over 1 gram. A bedroom 4 metres long, 3 metres wide and 3 metres high holds about 36,000 litres of air. That air weighs about 43 kilograms, more than most children in Class 3.",
+   "description": "Air is made of tiny particles, far too small to see. They fly about very fast and bump into everything. You do not notice the air when it is still, because it presses on you equally from every side. When the air moves, its particles hit the front of you harder than the back, and you feel a push. That push is the wind. Air is light, but it is not weightless. One litre of air weighs a little over 1 gram. A bedroom 4 metres long, 3 metres wide and 3 metres high holds about 36,000 litres of air. That air weighs about 43 kilograms, more than most children in Class 3.",
    "examples": [
     "You feel a wind when you cycle on a still day, because you are moving through the air.",
     "A ceiling fan pushes air down, and you feel it as a breeze.",
@@ -169,7 +169,7 @@
    "description": "Soil and rock heat up quickly in the sunshine. Water heats up slowly, because the Sun's warmth spreads down into deep water and the waves keep mixing it. So by late morning, the land on a coast is much warmer than the sea. The air over the land rises, and cool air from the sea flows in under it. This is the sea breeze. It can travel many kilometres inland. At night the land loses its heat quickly, but the sea stays warm. Now the air over the sea is the warmer air. It rises, and air from the cool land flows out to sea. This is the land breeze. On the Coromandel coast, fishers who sailed kattumarams, boats made of logs tied together, went out early with the land breeze and came home with the sea breeze.",
    "examples": [
     "People in Chennai wait for the sea breeze on hot summer afternoons.",
-    "Kochi and Visakhapatnam get sea breezes too.",
+    "Kochi, Visakhapatnam, Mumbai and Puri get sea breezes too.",
     "Inland cities such as Bengaluru and Hyderabad are too far from the sea for a sea breeze."
    ],
    "perspectives": [],
@@ -304,8 +304,8 @@
   {
    "claim": "Air weighs nothing.",
    "who": "A common belief",
-   "for": "You cannot feel the weight of the air on you, and an 'empty' bottle feels no heavier than a squashed one.",
-   "against": "Air presses on you from all sides at once, so you do not feel it. But a litre of air weighs a little over 1 gram. A balloon full of squeezed air tips a balance, and a pumped-up football weighs more than a flat one.",
+   "for": "You do not notice the weight of the air on you, and an 'empty' bottle feels no heavier than a squashed one.",
+   "against": "Air presses on you from all sides at once, so you do not notice it. But a litre of air weighs a little over 1 gram. A pumped-up football weighs a few grams more than a flat one.",
    "status": "rejected",
    "context": "This card is about the idea that air is nothing at all."
   },
@@ -427,29 +427,84 @@
      "kind": "board",
      "title": "The coast board",
      "items": [
-      "A big drawing of a beach: the sea on the left, the land on the right, and a paper arrow pinned in the middle so it can turn"
+      "Draw this by hand on a big sheet of paper: the word SEA on the left, the word LAND on the right, and a wavy line between them. The paper arrow below is pinned in the middle."
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "The arrow",
+     "items": [
+      "1 paper arrow, about 10 cm long. Cut it out and fix it to the middle of the board with a paper fastener (a brass split pin), so it turns."
      ]
     },
     {
      "kind": "cards",
      "title": "16 wind cards",
      "items": [
-      "2 pm in May, sunny, in Chennai",
-      "3 am in May, in Chennai",
-      "Noon in Kochi, the sand is too hot to walk on",
-      "Just before dawn in Puri",
-      "Afternoon in Visakhapatnam, the terrace floor is burning hot",
-      "Midnight on the beach in Goa",
-      "Afternoon on a cloudy, cool day on the coast (trick: hardly any breeze)",
-      "Early morning, a fisher sails a kattumaram out to sea",
-      "Afternoon, the fisher sails home",
-      "June, all of India is hot, a big wind comes from the sea",
-      "The fridge door is open: at the bottom",
-      "The fridge door is open: at the top",
-      "Hot afternoon on a hillside, the slope is baking",
-      "Night on a hillside, the slope has cooled",
-      "Bengaluru, far from the sea (trick: no sea breeze)",
-      "Evening, the land and sea are the same warmth (trick: calm)"
+      {
+       "f": "2 pm in May, sunny, in Chennai",
+       "b": "Towards the land. The land is hotter than the sea, so its air rises and cool sea air slides in."
+      },
+      {
+       "f": "3 am in May, in Chennai",
+       "b": "Towards the sea. At night the land has cooled more than the sea, so the warmer sea air rises and land air slides out."
+      },
+      {
+       "f": "Noon in Kochi, the sand is too hot to walk on",
+       "b": "Towards the land. Hot sand warms the air above it, which rises, and cooler sea air slides in."
+      },
+      {
+       "f": "Just before dawn in Puri",
+       "b": "Towards the sea. The land has cooled all night and the sea is the warmer one now."
+      },
+      {
+       "f": "Afternoon in Visakhapatnam, the terrace floor is burning hot",
+       "b": "Towards the land. The hot land warms the air over it, and cool sea air slides in."
+      },
+      {
+       "f": "Midnight on the beach in Goa",
+       "b": "Towards the sea. The land has cooled faster than the sea."
+      },
+      {
+       "f": "A cloudy, cool afternoon on the coast",
+       "b": "The middle: hardly any wind. Clouds keep the Sun off the land, so the land and sea stay almost equally warm."
+      },
+      {
+       "f": "Early morning: a fisher sails a kattumaram out to sea",
+       "b": "Towards the sea. Before sunrise the land is cooler than the sea, so the wind carries the boat out."
+      },
+      {
+       "f": "Afternoon: the fisher sails home",
+       "b": "Towards the land. The land is warmer by now, so the sea breeze carries the boat home."
+      },
+      {
+       "f": "4 pm in April at Juhu beach in Mumbai, the sand is very hot",
+       "b": "Towards the land. Hot sand, cooler sea: a sea breeze."
+      },
+      {
+       "f": "2 am at Digha beach in West Bengal",
+       "b": "Towards the sea. At night the land is cooler than the sea, so a land breeze blows."
+      },
+      {
+       "f": "Mid-afternoon at Kovalam, a hot sunny day",
+       "b": "Towards the land. The Sun has warmed the land more than the sea."
+      },
+      {
+       "f": "A hot afternoon at Mamallapuram, the rocks and sand are baking",
+       "b": "Towards the land. Rock and sand warm up fast, so the sea air slides in."
+      },
+      {
+       "f": "Night in Puducherry, the sand is cool and the sea is warmer",
+       "b": "Towards the sea. The warmer air is over the sea, so it rises and land air flows out."
+      },
+      {
+       "f": "3 pm in Bengaluru, about 300 km from the sea",
+       "b": "The middle: no sea breeze. Bengaluru is too far from the sea for a sea breeze to reach it."
+      },
+      {
+       "f": "Evening, when the land and the sea are the same warmth",
+       "b": "The middle: calm. With no warm place next to a cool place, the air has nothing to flow towards."
+      }
      ]
     },
     {
@@ -457,34 +512,35 @@
      "title": "Score sheet",
      "items": [
       "Name",
-      "Cards right",
-      "Cards wrong"
+      "Points"
      ]
     }
    ],
    "rules": [
-    "Shuffle the cards and put them face down.",
-    "Turn over a card and read it aloud.",
-    "Turn the arrow to show which way the wind blows: towards the land, towards the sea, or no wind. Say why in one sentence.",
-    "Check the answer key. A right answer with a reason scores 2 points. A right answer without a reason scores 1.",
-    "Playing alone: play against the clock. How many of the 16 cards can you get right in 5 minutes?"
+    "Shuffle the cards and put them face down in a pile.",
+    "On your turn, take the top card and read the front aloud. Do not look at the back.",
+    "Turn the arrow to show which way the wind blows: towards the land, towards the sea, or the middle for no wind. Say why in one sentence.",
+    "Another player turns the card over and reads the back. The right direction scores 1 point. A right reason as well scores 2 points.",
+    "The game ends when the pile is empty. The most points wins. If points are equal, both win.",
+    "Two players take turns, 8 cards each. Four players get 4 cards each.",
+    "Playing alone: turn the card over yourself after each answer. Try to finish all 16 cards in 5 minutes, then try to beat your points next time."
    ],
    "flow": [
     {
      "id": "s1",
-     "mins": 2,
-     "do": "Lay out the coast board and shuffle the cards.",
+     "mins": 4,
+     "do": "Draw the coast board and cut out the arrow. Pin the arrow in the middle of the board. Shuffle the cards.",
      "say": "Here is a beach, sea on one side, land on the other. Each card tells you a place and a time. You turn the arrow.",
      "kid": "Look at the beach board. Each card is a place and a time. Turn the arrow to show the wind.",
      "context": "This is the first step of Sea Breeze or Land Breeze. It is a card game about which way the wind blows."
     },
     {
      "id": "s2",
-     "mins": 10,
-     "do": "Take turns to read and answer the cards. Check each one with the answer key.",
+     "mins": 8,
+     "do": "Take turns to read a card, turn the arrow and give a reason. Another player turns the card over to check.",
      "say": "2 pm in May, in Chennai. Which way, and why?",
-     "kid": "Read a card. Turn the arrow. Say why. Then check.",
-     "parent": "Answer key: afternoon and sunny cards, sea to land. Night and dawn cards, land to sea. Fisher out, land to sea. Fisher home, sea to land. June, sea to land. Fridge bottom, out and down. Fridge top, in. Hot slope, up the hill. Cool slope at night, down the hill. Trick cards, calm or hardly any breeze."
+     "kid": "Read a card. Turn the arrow. Say why. Then turn the card over to check.",
+     "parent": "The answer and the reason are on the back of each card. Clouds, a faraway city and equal warmth mean the arrow stays in the middle."
     },
     {
      "id": "s3",
@@ -508,7 +564,7 @@
    "setup": [
     {
      "art": "A drawing of a beach on a sheet of paper, sea on the left and land on the right, with a paper arrow pinned in the middle.",
-     "caption": "1. Lay out the coast board."
+     "caption": "1. Draw the coast board and pin the arrow."
     },
     {
      "art": "A child reading a card and turning the paper arrow to point from the sea towards the land.",
@@ -535,9 +591,9 @@
       "SEA AIR, SLIDE IN! (sea players walk low and slow into the land space)",
       "NIGHT! (land players crouch close together)",
       "LAND AIR, SLIDE OUT! (land players walk low to the sea side)",
-      "CLOUDS! (trick card: everyone freezes)",
-      "FRIDGE DOOR OPEN! (everyone on the cold side walks low across the floor)",
-      "CYCLONE! (everyone spins slowly round the caller, the eye, who stands still)",
+      "CLOUDS! (everyone freezes)",
+      "FRIDGE DOOR OPEN! (everyone on the sea side walks low across the floor to the land side)",
+      "CYCLONE! (everyone spins slowly round the caller, who stands still like the eye)",
       "CALM! (everyone stands still and breathes)"
      ]
     },
@@ -545,15 +601,16 @@
      "kind": "tokens",
      "title": "For one child alone",
      "items": [
-      "12 blue buttons for sea air and 12 red buttons for land air, on a paper beach"
+      "12 blue buttons for sea air and 12 red buttons for land air. Draw a paper beach with the sea on the left and the land on the right, and put the buttons on it."
      ]
     }
    ],
    "rules": [
-    "Mark a line on the floor with a dupatta or tape. One side is the sea, the other is the land.",
-    "Players stand on both sides. The caller reads a card. Everyone acts it out.",
-    "Trick cards mean freeze. Anyone who moves sits out one card.",
-    "Playing alone: move the buttons on the paper beach for each card. Spread the warm ones and push the cool ones in under them."
+    "Mark a line on the floor with a dupatta or tape. One side is the sea, the other side is the land.",
+    "Every player stands on one side, with at least one player on each side. The caller reads a card and acts it out too. With two players, one calls and plays the land and the other plays the sea. Swap after 4 cards.",
+    "CLOUDS and CALM are freeze cards. Anyone who moves sits out the next card.",
+    "The game ends when all 8 cards have been read. There is no winner. The goal is that everyone acts every card right. Shuffle and play again with the sides swapped.",
+    "Playing alone: move the buttons on the paper beach for each card. Spread the red ones apart and push the blue ones in under them."
    ],
    "flow": [
     {
@@ -570,7 +627,7 @@
      "do": "Read the cards one at a time, giving players a few seconds to act.",
      "say": "Sun on the land!",
      "kid": "Listen to the card. Act it out. Freeze on CLOUDS!",
-     "parent": "After each card, say in one sentence what it means. 'Sun on the land' means warm air spreads out and rises. 'Sea air, slide in' is the sea breeze. 'Night' and 'land air, slide out' are the land breeze."
+     "parent": "After each card, say in one sentence what it means. 'Sun on the land' means warm air spreads out and rises. 'Sea air, slide in' is the sea breeze. 'Night' and 'land air, slide out' are the land breeze. 'Clouds' means the Sun does not warm the land, so there is no breeze. 'Fridge door open' is the same idea in a room: the cold air pours out low."
     },
     {
      "id": "s3",
@@ -597,7 +654,7 @@
   {
    "id": "e1",
    "title": "The Open Fridge: where does the air go?",
-   "mins": 25,
+   "mins": 28,
    "days": 1,
    "context": "In this experiment you open the fridge door and use a thin line of agarbatti smoke, and your own bare feet, to find out where the air goes. Nobody blows. Does the air move anyway?",
    "question": "When you open the fridge door, does air move? Which way does it go at the top of the door, and which way at the bottom?",
@@ -612,11 +669,11 @@
    ],
    "materials": [
     {
-     "item": "a fridge with a door that opens from top to bottom (the main door, not the freezer)",
+     "item": "a fridge (use the main door, not the freezer)",
      "qty": 1
     },
     {
-     "item": "an agarbatti (incense stick) in a steel holder or stuck in a lump of atta dough on a steel plate",
+     "item": "an agarbatti (incense stick) in a steel holder, or stuck in a lump of atta dough or clay on a steel plate",
      "qty": 1
     },
     {
@@ -628,7 +685,7 @@
      "qty": 1
     },
     {
-     "item": "a long strip of thin tissue paper, about 2 cm wide and 20 cm long, for the no-smoke way",
+     "item": "a long strip of thin tissue paper, about 2 cm wide and 20 cm long, for the way without smoke",
      "qty": 1
     }
    ],
@@ -636,7 +693,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 28,
      "what": "Guess and draw arrows. Feel the fridge air with bare feet. Test smoke at the top, middle and bottom of the open door, 3 times each. Talk about what you saw."
     }
    ],
@@ -672,11 +729,11 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. A grown-up lights the agarbatti and blows out the flame, so a thin line of smoke rises. 2. With the fridge door closed, hold it a hand-span in front of the door, at the bottom. 3. Watch which way the smoke goes.",
+     "do": "1. A grown-up lights the agarbatti and blows out the flame, so a thin line of smoke rises. 2. With the fridge door closed, hold it a hand-span in front of the door, at the bottom. 3. Watch which way the smoke goes. 4. No agarbatti, or no grown-up to light it? Hold the tissue strip by one end instead, in the same place.",
      "say": "First, the smoke with the door closed. Watch where it goes.",
      "kid": "A grown-up holds the smoking agarbatti near the closed fridge. Where does the smoke go?",
      "adult": true,
-     "parent": "The smoke should rise almost straight up, because the agarbatti warms the air around it. This is your 'before'. Hold the stick still. If the room fan is on, switch it off, or the smoke will blow about."
+     "parent": "The smoke should rise almost straight up, because the agarbatti warms the air around it. This is your 'before'. Hold the stick still. If the room fan is on, switch it off, or the smoke will blow about. The tissue strip is a weaker sign than smoke. At the bottom it may only flutter outwards. Then your bare feet are the main evidence."
     },
     {
      "id": "s4",
@@ -700,7 +757,7 @@
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 8,
      "do": "1. Hold the smoke a hand-span from the fridge, level with the top shelf. 2. Open the door and watch for 10 seconds. 3. Close, wait one minute. 4. Do the same in the middle. 5. Record each try.",
      "say": "Now the top, and then the middle. Watch closely. Does the smoke go in, out, or straight up?",
      "kid": "Now hold the smoke at the top. Open the door. Which way does it go? Then try the middle.",
@@ -812,7 +869,11 @@
      "qty": 1
     },
     {
-     "item": "a table fan, pedestal fan or wall fan. No fan of these kinds? A grown-up can use a hair dryer on its cool setting.",
+     "item": "a measuring tape, or a string marked at 50 cm and 150 cm",
+     "qty": 1
+    },
+    {
+     "item": "a table fan, pedestal fan or wall fan",
      "qty": 1
     },
     {
@@ -833,7 +894,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fold the paper square corner to corner both ways and open it. 2. Cut along each fold from the corners, stopping 2 cm from the middle. 3. Bend every other point to the middle and tape them, to make a pinwheel.",
+     "do": "1. Fold the paper square corner to corner both ways and open it. 2. Cut along each fold from the corners, stopping 2 cm from the middle. 3. Bend every other point to the middle and tape them, to make a pinwheel. 4. A grown-up pokes a small hole in the middle with a pencil point.",
      "say": "First we make the blades. Each blade must be tilted, all the same way round.",
      "kid": "Fold the square corner to corner. Open it. Cut along the folds, not to the middle. Bend every other point to the middle.",
      "parent": "This is the usual paper pinwheel. Help with the cutting. The four bent points are the tilted blades.",
@@ -851,22 +912,22 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Put the fan on a low setting. 2. Ask your child to guess the time to lift the clip at 50 cm and at 150 cm.",
+     "do": "1. Put the fan on its fastest setting and keep it there for every try. 2. Ask your child to guess the time to lift the clip at 50 cm and at 150 cm.",
      "say": "Before we time it, guess. How many seconds near the fan? How many far away? Why?",
      "kid": "Guess the time near the fan. Guess the time far away. Why do you think so?"
     },
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Put the windmill 50 cm from the fan, facing it. 2. Let the clip hang 30 cm down. 3. Start the clock when you let go of the pinwheel. 4. Stop when the clip reaches the axle. 5. Unwind and repeat 3 times.",
+     "do": "1. Put the windmill 50 cm from the fan, facing it, with the pinwheel at the height of the fan's middle. 2. Let the clip hang 30 cm down. 3. Start the clock when you let go of the pinwheel. 4. Stop when the clip reaches the axle. 5. Unwind and repeat 3 times.",
      "say": "Ready? Let go of the pinwheel, and start the clock. Stop when the clip reaches the top.",
      "kid": "Put the windmill near the fan. Let go and start the clock. Stop when the clip reaches the top. Do it three times.",
-     "parent": "Near a table fan on low, the clip often rises in 10 to 30 seconds. If the windmill does not turn at all, check that the blades all bend the same way and that the skewer turns freely."
+     "parent": "Near a table fan on its fastest setting, the clip often rises in 10 to 30 seconds. If the windmill does not turn at all, check that the blades all bend the same way and that the skewer turns freely. If it does not lift the clip in 2 minutes at 150 cm, write 'did not lift' for that try. That is a real result."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Move the windmill to 150 cm from the fan and time 3 more tries in the same way.",
+     "do": "Move the windmill to 150 cm from the fan, at the same height, and time 3 more tries in the same way.",
      "say": "Now move it further away. Same fan, same clip. Time it again, three times.",
      "kid": "Move the windmill far from the fan. Time it again. Three times."
     },
@@ -926,12 +987,12 @@
   {
    "id": "e3",
    "title": "Soil or Water: which warms faster in the sun?",
-   "mins": 40,
+   "mins": 55,
    "days": 1,
    "context": "The sea breeze happens because land and sea warm up by different amounts. In this experiment you put a bowl of soil and a bowl of water side by side in the sun, and find out which warms faster. You need a window or balcony that gets sunshine for about half an hour.",
    "question": "In the same sunshine, does soil or water get warmer in 30 minutes?",
    "predict": "Guess first. After 30 minutes in the sun, will the soil or the water be warmer, or will they be the same? Why do you think so?",
-   "fair_test": "Use two bowls that are the same size and kind. Fill both to the same depth, about 3 cm. Start them at the same temperature by leaving both in the shade for half an hour first. Put them side by side in the same sun, for the same time.",
+   "fair_test": "Use two bowls that are the same size and kind. Fill both to the same depth, about 3 cm, with dry soil and with water. Leave them side by side in the same shady spot for at least an hour first, so both start at the same temperature. Then put them side by side in the same sun, for the same time.",
    "results_table": [
     "Bowl",
     "At the start",
@@ -945,7 +1006,7 @@
      "qty": 1
     },
     {
-     "item": "soil from a potted plant, or sand, enough to fill one bowl 3 cm deep",
+     "item": "dry soil from a potted plant, or dry sand, enough to fill one bowl 3 cm deep",
      "qty": 1
     },
     {
@@ -962,12 +1023,12 @@
      "qty": 1
     }
    ],
-   "safety": "Do not look at the Sun. On a very hot day, the soil can get hot enough to sting your fingers, so touch it quickly and gently.",
+   "safety": "On a very hot day, the soil can get hot enough to sting your fingers, so touch it quickly and gently.",
    "schedule": [
     {
      "day": 1,
-     "mins": 40,
-     "what": "Put the bowls in the sun. Check them after 15 and 30 minutes. Move them to the shade and check again after 15 minutes."
+     "mins": 55,
+     "what": "An hour before, fill the two bowls and leave them in the shade. Then put them in the sun and check them after 15 and 30 minutes. Move them to the shade and check again after 15 minutes."
     }
    ],
    "record": "Fill in the table with thermometer readings, or with 'cool', 'warm' or 'hot' if you test by touch. Circle which one warmed faster and which one cooled faster.",
@@ -975,10 +1036,11 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fill one bowl 3 cm deep with soil and one 3 cm deep with water. 2. Leave both in the shade for half an hour. 3. Touch both, or measure both with the thermometer pushed 1 cm in.",
+     "do": "1. At least an hour before, fill one bowl 3 cm deep with dry soil and one 3 cm deep with water. 2. Leave both side by side in the shade. 3. Touch both, or measure both with the thermometer pushed 1 cm in. Write it down.",
      "say": "Here is our land and our sea. Feel them both. Are they the same now? Which do you think will get warmer in the sun, and why?",
      "kid": "This bowl is the land. This one is the sea. Feel both. Which will get warmer in the sun? Why?",
-     "context": "This is the first step of Soil or Water. You find out whether land or sea warms faster in the sun."
+     "context": "This is the first step of Soil or Water. You find out whether land or sea warms faster in the sun.",
+     "wait": "The bowls need at least an hour in the shade before you start."
     },
     {
      "id": "s2",
@@ -992,13 +1054,22 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "After 30 minutes in the sun, measure again. Then move both bowls into the shade and measure again after 15 minutes.",
-     "say": "Now the last reading in the sun. Then we'll put them in the shade, like night-time, and see which cools faster.",
-     "kid": "Feel them after 30 minutes. Now move both to the shade. Wait 15 minutes. Which cooled faster?",
-     "parent": "Usually the soil's surface gets several degrees warmer than the water, and in the shade the soil cools faster too. The water changes more slowly both ways. If the sun went behind a cloud, try again on a clear day."
+     "do": "After 30 minutes in the sun, touch or measure both again. Then move both bowls into the shade.",
+     "say": "Now the reading after 30 minutes in the sun. Then we'll put them in the shade, like night-time.",
+     "kid": "Feel them after 30 minutes in the sun. Now move both to the shade.",
+     "parent": "Usually the soil's surface gets several degrees warmer than the water. If the sun went behind a cloud, try again on a clear day."
     },
     {
      "id": "s4",
+     "mins": 15,
+     "do": "Wait 15 minutes in the shade. Then touch or measure both again and write it down.",
+     "say": "Which has cooled more, the soil or the water?",
+     "kid": "Wait 15 minutes. Feel both again. Which cooled faster?",
+     "wait": "Wait 15 minutes. Do something else meanwhile.",
+     "parent": "Usually the soil cools faster in the shade too. The water changes more slowly both ways."
+    },
+    {
+     "id": "s5",
      "mins": 5,
      "do": "Ask for claim, evidence and reasoning, and link it to the sea breeze.",
      "say": "What do you think now? What did you find? And on a real coast, which way would the breeze blow in the afternoon, and at night?",
@@ -1067,7 +1138,6 @@
      "qty": 1
     }
    ],
-   "safety": "Walk, don't run, in a room with things on the floor.",
    "schedule": [
     {
      "day": 1,
@@ -1146,73 +1216,74 @@
   },
   {
    "id": "a2",
-   "title": "Weigh the Air: the balloon balance",
+   "title": "Weigh the Air: a soft ball and a pumped ball",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you balance two blown-up balloons on a stick, then let the air out of one. Does the air inside a balloon weigh anything?",
+   "context": "In this activity you weigh a soft ball, pump air into it, and weigh it again. Does the air you add weigh anything? You need a kitchen scale that shows single grams, so borrow one if you have none.",
    "materials": [
     {
-     "item": "2 balloons of the same size",
+     "item": "a football, volleyball or any ball that can be pumped up",
      "qty": 1
     },
     {
-     "item": "a 30 cm ruler or a straight stick",
+     "item": "a ball pump with its needle",
      "qty": 1
     },
     {
-     "item": "cotton thread, about 1 metre",
+     "item": "a kitchen scale that shows single grams",
      "qty": 1
     },
     {
-     "item": "sticky tape, and a pin used by a grown-up",
+     "item": "a steel bowl, so the ball does not roll off the scale",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
      "qty": 1
     }
    ],
-   "safety": "A grown-up uses the pin. Keep balloon pieces away from small children, because they can choke on them.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Balance two blown-up balloons on a ruler. Let the air out of one, and see which way the ruler tips."
+     "what": "Weigh a soft ball, pump it hard, and weigh it again."
     }
    ],
-   "record": "Draw the ruler before and after, and write which side went down.",
+   "record": "Write the grams for the soft ball and for the pumped ball, and how many grams more the pumped ball weighs.",
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
-     "do": "1. Blow up both balloons to the same big size and tie them. 2. Tape one near each end of the ruler. 3. Tie a thread to the middle of the ruler and hang it from a door handle or a chair back. 4. Slide the thread until the ruler hangs level.",
-     "say": "Let's build a balance. Slide the thread until the ruler hangs flat. Then both sides weigh the same.",
-     "kid": "Blow up two balloons. Tape one on each end of the ruler. Hang the ruler by a thread. Make it hang flat.",
-     "adult": true,
-     "parent": "Getting it level takes patience. Move the thread a few millimetres at a time. A little tape on the thread stops it slipping.",
-     "context": "This is the first step of Weigh the Air. You build a balance with two balloons, to find out whether air has weight."
+     "mins": 5,
+     "do": "1. Put the empty bowl on the scale and press the zero button (tare), so it shows 0. 2. Let the air out of the ball until it is soft. 3. Put the ball in the bowl and write down the grams. 4. Lift it off and put it back, to check that the scale gives the same number.",
+     "say": "We weigh a soft ball first. Does the scale give the same number twice?",
+     "kid": "Make the scale show zero with the bowl on it. Put the soft ball in the bowl. Write the grams.",
+     "parent": "Press the pump needle into the valve, or squeeze the ball, to let air out. If your scale only shows tens of grams, it is too coarse: borrow one that shows single grams.",
+     "context": "This is the first step of Weigh the Air. You weigh a soft ball before and after you pump air into it, to find out whether air has weight."
     },
     {
      "id": "s2",
      "mins": 2,
-     "do": "Ask your child to guess what will happen when one balloon loses its air.",
-     "say": "If I let the air out of one balloon, will that side go up, go down, or stay level? Why?",
-     "kid": "One balloon will lose its air. Will that side go up, down, or stay? Why?"
+     "do": "Ask your child to guess what will happen when the ball is pumped hard.",
+     "say": "If we pump air into the ball, will it weigh more, less, or the same? Why?",
+     "kid": "Guess: will the pumped ball weigh more, less, or the same? Why?"
     },
     {
      "id": "s3",
-     "mins": 4,
-     "do": "1. A grown-up sticks a small piece of tape on one balloon, near the knot. 2. They prick a tiny hole through the tape with the pin, so the air leaks out slowly. 3. Watch the ruler.",
-     "say": "Watch the ruler while the air leaks out.",
-     "kid": "Watch the ruler as the air leaks out. Which side goes down?",
-     "adult": true,
-     "parent": "The side with the full balloon goes down. The air in a blown-up balloon is squeezed by the rubber, so the balloon holds a little more air than the same space of room air. That extra air is what tips the balance. If the balloon bursts, that is fine, the result is the same.",
+     "mins": 5,
+     "do": "1. Pump the ball until it is hard. 2. Put it in the same bowl on the same scale, without pressing zero again. 3. Write down the grams and work out the difference.",
+     "say": "Now the hard ball. What does the scale say?",
+     "kid": "Pump the ball until it is hard. Put it in the bowl. Write the grams. How many more?",
+     "parent": "A hard football usually weighs about 3 to 5 grams more. That is less than all the air you pumped in, because the bigger ball is also held up a little by the air around it. A small ball gives a smaller difference. If the scale shows no change, the ball is small or the scale is not fine enough. That is an honest result, so try a bigger ball or another scale.",
      "check": {
       "t": "mcq",
-      "q": "The side with the full balloon went down. What does this show?",
+      "q": "The pumped ball weighed a few grams more than the soft ball. What does this show?",
       "options": [
        "Air has weight",
-       "Empty balloons are heavier",
-       "The full balloon was pulled by the floor"
+       "The rubber got heavier",
+       "The scale is broken"
       ],
       "a": 0,
-      "why": "The full balloon side went down, so the air in it had weight. Air is light, a little over 1 gram for each litre, but it is real stuff. Picking 'empty balloons are heavier' would mean that side goes down, but it went up."
+      "why": "The only thing added to the ball was air, so the air has weight. Air is light, a little over 1 gram for each litre, but it is real stuff. Picking 'the rubber got heavier' does not fit, because nothing was added to the rubber."
      }
     },
     {
@@ -1225,16 +1296,12 @@
    ],
    "setup": [
     {
-     "art": "A ruler hanging level from a thread tied to a door handle, with a blown-up balloon taped near each end.",
-     "caption": "1. Balance two full balloons on a ruler."
+     "art": "A steel bowl with a soft football in it on a kitchen scale that shows 0 before the ball and a number after.",
+     "caption": "1. Weigh the soft ball in a bowl on the scale."
     },
     {
-     "art": "A grown-up's hand pricking a balloon through a piece of tape with a pin, while the ruler hangs level.",
-     "caption": "2. Let the air out of one balloon slowly."
-    },
-    {
-     "art": "The ruler tipped down on the side of the full balloon, with the empty balloon hanging limp on the high side.",
-     "caption": "3. The side with the air goes down."
+     "art": "A child pumping up the football with a hand pump, and the same ball weighed again, showing a few grams more.",
+     "caption": "2. Pump it hard and weigh it again."
     }
    ]
   },
@@ -1292,7 +1359,7 @@
      "say": "Watch the smoke closely in the torchlight. Which way does it drift?",
      "kid": "Watch the smoke in the torchlight. Does it drift to the ice, or to the hot cup?",
      "adult": true,
-     "parent": "The smoke near the bottom usually drifts slowly towards the hot tumbler, and rises above it. Over the ice it may sink. The movement is gentle, so switch off fans and close windows, and look from the side. If the smoke only rises, move it lower and closer to the ice."
+     "parent": "The smoke near the bottom usually drifts slowly towards the hot tumbler, and rises above it. Over the ice it may sink. The movement is gentle, so switch off fans and close windows, and look from the side. If the smoke only rises, move it lower and closer to the ice. If the smoke does not clearly drift, write that down. It is an honest result: this small model gives a weak flow. The fridge test and the soil and water test are the real evidence."
     },
     {
      "id": "s3",
@@ -1302,7 +1369,7 @@
      "kid": "Say what you saw. Which way did the smoke go? Why?",
      "check": {
       "t": "mcq",
-      "q": "Near the bottom of the box, the smoke drifted from the ice towards the hot water. On a real coast, which wind is this like?",
+      "q": "If the smoke near the bottom of the box drifts from the ice towards the hot water, which real wind is this like?",
       "options": [
        "A sea breeze in the afternoon",
        "A land breeze at night",
@@ -1474,7 +1541,7 @@
      "do": "Sit at the window together for 6 minutes and list everything that shows the air is moving.",
      "say": "Let's be wind detectives. You can't see the air, but you can see what it moves. What can you spot?",
      "kid": "Look out of the window. List everything the wind is moving. Clothes? Leaves? Flags? Birds?",
-     "parent": "Look for washing on lines, leaves and branches, flags, dust, plastic bags, smoke from a kitchen, and birds. Look up high for black kites, the birds, circling without flapping on a warm day.",
+     "parent": "Look for washing on lines, leaves and branches, flags, dust, plastic bags, smoke from a kitchen, and birds. Look high up for black kites, which are birds (not paper kites), circling without flapping on a warm afternoon.",
      "context": "This is the first step of Window Watch. You look for signs of moving air outside."
     },
     {
@@ -1520,7 +1587,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1533,9 +1599,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Draw or trace an outline of India. Mark Kerala, Chennai, Mumbai and your own town.",
+     "do": "Draw or trace an outline of India. Mark Kerala, Chennai, Kolkata, Mumbai and your own town.",
      "say": "Let's draw India and mark where we live.",
-     "kid": "Draw India. Mark Kerala, Chennai, Mumbai and your town.",
+     "kid": "Draw India. Mark Kerala, Chennai, Kolkata, Mumbai and your town.",
      "context": "This is the first step of the Monsoon Map. You draw the great seasonal winds of India."
     },
     {
@@ -1550,7 +1616,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Ask your child to explain the map.",
-     "say": "In summer the land of India is much hotter than the sea. Using your fridge test, why does the wind blow onto the land?",
+     "say": "In summer the land of India is much hotter than the sea. Think of the soil and water test. Why does the wind blow onto the land?",
      "kid": "In summer the land is very hot. Why does the wind blow from the sea?",
      "check": {
       "t": "mcq",
@@ -1644,7 +1710,7 @@
     {
      "id": "s2",
      "mins": 18,
-     "do": "On days 2 to 4, check the strip at about 8 am, 3 pm and 8 pm. Write each reading.",
+     "do": "On days 2 to 4, check the strip at about 8 am, 3 pm and 8 pm. Use a torch to see the strip after dark. Write each reading.",
      "say": "Time to check the breeze station. Is the strip still, fluttering or streaming? Which way?",
      "kid": "Check your strip. Still, fluttering or streaming? Which way does it point? Write it down.",
      "wait": "Come back each day for three more days.",
@@ -1658,7 +1724,7 @@
      "kid": "Look at your table. When was the breeze strongest? Did it turn round?",
      "check": {
       "t": "mcq",
-      "q": "Meera, who lives in Kochi, found her strip streamed away from the sea at 3 pm on most days. What is the best explanation?",
+      "q": "Meera, a girl in Class 3 who lives in Kochi, found her strip streamed away from the sea at 3 pm on most days. What is the best explanation?",
       "options": [
        "In the afternoon the land is warmer, so a sea breeze blows in",
        "The sea is blowing harder in the afternoon",
@@ -1689,7 +1755,7 @@
    "problem": "Your windmill from the experiment lifts one paper clip. Change its design so it lifts as many paper clips as possible, 150 cm from the fan.",
    "constraints": [
     "The windmill must stay 150 cm from the fan, on the same fan speed.",
-    "Use only paper, card, straws, skewers, tape and dough.",
+    "Use only paper, card, cardboard, straws, skewers, thread, an empty thread reel, tape and dough.",
     "The load must rise all the way to the axle."
    ],
    "materials": [
@@ -1737,7 +1803,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Read the usual and creative solutions, then invent one more.",
+     "do": "Read the ideas other people have tried, listed on this card, then invent one more.",
      "say": "Here's what other people have tried. Which ideas did you have already?",
      "kid": "Read the ideas. Which ones did you think of? Invent one more."
     }
@@ -1808,7 +1874,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Read the usual and creative solutions, then improve the plan.",
+     "do": "Read the ideas other people have tried, listed on this card, then improve your plan.",
      "say": "Which of these ideas could work in our flat?",
      "kid": "Read the ideas. Which could work in your home?"
     }
@@ -1867,7 +1933,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya pumps up a flat football. Then she weighs it. What has changed?",
+   "p": "Divya, a girl in Class 3, pumps up a flat football. Then she weighs it. What has changed?",
    "opts": [
     "It is lighter",
     "It is a little heavier",
@@ -1907,7 +1973,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi lives in Puri, by the sea. Which way does the breeze usually blow in the afternoon?",
+   "p": "Lakshmi, a girl in Class 3, lives in Puri, by the sea. Which way does the breeze usually blow in the afternoon?",
    "opts": [
     "From the sea onto the land",
     "From the land out to sea",
@@ -1947,7 +2013,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kiran wants to fly his kite but there is no wind. What should he do?",
+   "p": "Kiran, the six-year-old boy in the story, wants to fly his kite but there is no wind. What should he do?",
    "opts": [
     "Run with the kite",
     "Add a heavier tail",
@@ -2038,7 +2104,7 @@
      "p": "Air weighs nothing at all.",
      "how": "a2",
      "a": false,
-     "why": "False. A litre of air weighs a little over 1 gram. The air in a bedroom weighs about as much as a grown-up child. We do not feel it because it presses on us equally from all sides."
+     "why": "False. A litre of air weighs a little over 1 gram. The air in a bedroom weighs about as much as a small grown-up. We do not notice it because it presses on us equally from all sides."
     },
     {
      "t": "fill",
@@ -2047,19 +2113,6 @@
       "expands"
      ],
      "why": "Expand means spread out and take up more space. Warm air expands, so a litre of it weighs less than a litre of cool air."
-    },
-    {
-     "t": "mcq",
-     "p": "Lakshmi opens the fridge and holds agarbatti smoke near the bottom shelf. Where does the smoke go?",
-     "opts": [
-      "Straight up to the ceiling",
-      "Into the fridge",
-      "Out of the fridge and down to the floor",
-      "Nowhere, it stays still"
-     ],
-     "how": "e1",
-     "a": 2,
-     "why": "The cold air inside the fridge is denser than the room air, so it pours out at the bottom and sinks to the floor, carrying the smoke with it. A strong answer says the cold air is heavier."
     },
     {
      "t": "write",
@@ -2096,18 +2149,6 @@
      ],
      "a": "pairs as given",
      "why": "These words come up all through the unit. A strong answer could give an example of each."
-    },
-    {
-     "t": "mcq",
-     "p": "It is 3 pm on a sunny day in May on the beach at Chennai. Which way is the breeze most likely to blow?",
-     "opts": [
-      "From the sea onto the land",
-      "From the land out to sea",
-      "Straight down from the sky",
-      "There is never wind on a beach"
-     ],
-     "a": 0,
-     "why": "By afternoon the sand and land are much warmer than the sea. The warm air over the land rises, and the cooler sea air slides in under it. That is the sea breeze."
     },
     {
      "t": "draw",
@@ -2157,24 +2198,17 @@
      "why": "Washing, a kite, leaves and a windmill are all moved by the wind. A walking dog, a crawling ant and a car move by themselves. A circling black kite uses the rising air, but chooses where to fly. A strong answer says what is pushing each thing."
     },
     {
-     "t": "mcq",
-     "p": "Revathi's kite will not fly on a still morning. What can she do to fly it?",
-     "opts": [
-      "Make the kite heavier",
-      "Run with it, so air moves past it",
-      "Shorten the tail to nothing",
-      "Fly it indoors with the windows shut"
-     ],
-     "how": "a4",
-     "a": 1,
-     "why": "A kite needs air moving past it. Running, or walking backwards, pulls the kite through the still air, so air moves past it and pushes it up."
-    },
-    {
      "t": "truefalse",
      "p": "A wind needs something, like a fan or a mouth, to blow it.",
      "how": "e1",
      "a": false,
      "why": "False. Most winds have no blower. They start when one place is warmer than the next, and cooler, heavier air slides in under the warmer air. Your fridge test showed air flowing with nothing pushing it."
+    },
+    {
+     "t": "truefalse",
+     "p": "A strong wind pulls a closed umbrella as hard as it pulls an open one.",
+     "a": false,
+     "why": "False. An open umbrella has a big surface that catches a lot of air, so it gets a big push. A closed umbrella catches very little air."
     },
     {
      "t": "perspective",
@@ -2214,6 +2248,14 @@
      "why": "A strong answer says that the cooler, heavier air sinks under the warm air and pushes it up, as in the fridge test."
     },
     {
+     "t": "write",
+     "p": "Name two things you can see from a window that show the air is moving. Say how each one shows it.",
+     "lines": 3,
+     "how": "a5",
+     "a": "For example, washing flapping on a line is pushed by the moving air, and leaves on a tree bend as the air pushes them.",
+     "why": "A strong answer names two things and says that the moving air pushes each one."
+    },
+    {
      "t": "order",
      "p": "Put the steps of a sea breeze in order.",
      "items": [
@@ -2247,7 +2289,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Arjun's mother opens the fridge and holds smoke near the top of the open door. It drifts gently into the fridge. Why?",
+     "p": "Arjun, a boy in Class 3, watches his mother open the fridge and hold smoke near the top of the open door. It drifts gently into the fridge. Why?",
      "opts": [
       "The fridge sucks in air with a pump",
       "Smoke likes cold places",
@@ -2260,7 +2302,7 @@
     },
     {
      "t": "write",
-     "p": "Meenakshi says the fridge test proves that cold air is heavier. Her brother says it only proves that cold air comes out of fridges. What would you add to the test to convince her brother?",
+     "p": "Meenakshi, a girl in Class 3, says the fridge test proves that cold air is heavier. Her older brother says it only proves that cold air comes out of fridges. What would you add to the test to convince her brother?",
      "lines": 4,
      "a": "I would try the same thing somewhere else with cold air, such as a tumbler full of ice. If smoke sinks next to the ice and rises next to a hot tumbler, then cold air sinks everywhere, not only in fridges.",
      "why": "A strong answer suggests a new test with cold and warm air that has nothing to do with fridges."
@@ -2288,10 +2330,10 @@
     },
     {
      "t": "perspective",
-     "p": "Three people in Visakhapatnam talk about wind turbines.",
+     "p": "Three people talk about wind turbines.",
      "views": [
       {
-       "who": "Divya, an engineer",
+       "who": "Hema, an engineer",
        "says": "We should build more wind turbines. Wind is free, and turbines make electricity without smoke."
       },
       {
@@ -2310,7 +2352,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Windmill That Lifts, the clip took 15 seconds at 50 cm from the fan and 45 seconds at 150 cm. What does this show?",
+     "p": "In one family's test of the Windmill That Lifts, the clip took 15 seconds at 50 cm from the fan and 45 seconds at 150 cm. What does this show?",
      "opts": [
       "Faster wind makes the windmill work faster",
       "The clip is heavier far from the fan",
@@ -2336,7 +2378,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi wants to fly her patang from her building. Which place is safest?",
+     "p": "Nandini wants to fly her patang from her building. Which place is safest?",
      "opts": [
       "The edge of a roof with no railing",
       "The road in front of the building",
@@ -2451,7 +2493,7 @@
     },
     {
      "t": "write",
-     "p": "Riya says, 'A kite flies because it is lighter than air.' Is she right? Explain.",
+     "p": "Riya, a girl in Class 3, says, 'A kite flies because it is lighter than air.' Is she right? Explain.",
      "lines": 3,
      "a": "No. A kite is heavier than air. It flies because moving air pushes on its tilted face, and the string holds it against the wind, so the push holds it up.",
      "why": "A strong answer says that the kite is held up by the push of moving air, not by being lighter. If the wind stops, the kite falls."
@@ -2528,18 +2570,6 @@
      "why": "A strong drawing shows a closed loop, because the air that rises over the land has to go somewhere, and the air that slid in from the sea has to be replaced."
     },
     {
-     "t": "mcq",
-     "p": "A wind twice as fast pushes about four times as hard. A breeze pushes on a wall with a force of 10 units. About how hard would a wind twice as fast push?",
-     "opts": [
-      "10 units",
-      "20 units",
-      "40 units",
-      "100 units"
-     ],
-     "a": 2,
-     "why": "Twice as fast means about four times the push. 4 times 10 is 40. This is why strong winds are so much more dangerous than gentle ones."
-    },
-    {
      "t": "truefalse",
      "p": "A wind turbine makes the wind behind it a little slower.",
      "a": true,
@@ -2547,10 +2577,22 @@
     },
     {
      "t": "write",
-     "p": "Lakshmamma's father sailed out with the land breeze before dawn and home with the sea breeze in the afternoon. What would happen to his plan on a cloudy, cool day? Explain.",
+     "p": "In the story The Kite That Waited for the Sea, Lakshmamma's father sailed out with the land breeze before dawn and home with the sea breeze in the afternoon. What would happen to his plan on a cloudy, cool day? Explain.",
      "lines": 4,
      "a": "On a cloudy day the land would not get much warmer than the sea. So the sea breeze might be weak or might not come at all, and it would be hard to sail home.",
      "why": "A strong answer says that the sea breeze needs the land to be warmer than the sea, and clouds stop the sun warming the land."
+    },
+    {
+     "t": "mcq",
+     "p": "Wind farms are built on hill gaps, coasts and open plains, not in the middle of a city. Why?",
+     "opts": [
+      "Wind is stronger and steadier in open places",
+      "Cities have no air",
+      "Turbines need to be near the sea to make electricity",
+      "Wind only blows over hills"
+     ],
+     "a": 0,
+     "why": "Buildings slow the wind and make it gusty. In open places the wind is stronger and steadier, and a faster wind pushes the blades much harder, so the turbine makes more electricity."
     },
     {
      "t": "mcq",
@@ -2633,18 +2675,6 @@
       "warmer"
      ],
      "why": "Cool, dense air sinks and slides under warm, light air. So near the ground, air flows towards the warmer place."
-    },
-    {
-     "t": "mcq",
-     "p": "Halley's map of 1686 was one of the first weather maps. How did he collect the information for it?",
-     "opts": [
-      "From many sailors' reports of the winds, and his own voyage",
-      "From photographs taken from space",
-      "From a weather balloon",
-      "By guessing"
-     ],
-     "a": 0,
-     "why": "Halley gathered reports from sailors who had crossed many oceans, and added what he had felt himself on a voyage to St Helena. Putting many people's observations together showed the pattern."
     }
    ]
   }
@@ -2723,14 +2753,6 @@
    "a": "A big fan."
   },
   {
-   "j": "Why did the warm air go to the top of the room?",
-   "a": "The cool air kept pushing in under it."
-  },
-  {
-   "j": "What did one windmill say to the other?",
-   "a": "I'm a big fan of yours."
-  },
-  {
    "j": "Why don't kites ever get lonely?",
    "a": "They always have someone on the other end of the line."
   },
@@ -2739,24 +2761,8 @@
    "a": "Windsday."
   },
   {
-   "j": "Why did the land breeze leave at night?",
-   "a": "It wanted to see the sea."
-  },
-  {
    "j": "What did the black kite say to the thermal?",
    "a": "Thanks for the lift."
-  },
-  {
-   "j": "Why was the balloon so heavy?",
-   "a": "It was full of hot air. Well, squeezed air, actually."
-  },
-  {
-   "j": "What do you get when you cross a kite with a cyclone?",
-   "a": "A very short flight."
-  },
-  {
-   "j": "Why did the cold air never get lost?",
-   "a": "It always went downhill."
   },
   {
    "j": "How does the wind turbine stay so calm?",
@@ -2771,13 +2777,13 @@
   {
    "problem": "A 1 litre bottle of air weighs about 1 gram. A big 20 litre water can full of air holds 20 litres. About how much does that air weigh?",
    "answer": "About 20 grams.",
-   "explain": "Each litre of air weighs about 1 gram. There are 20 litres. 20 groups of 1 gram is 20 grams. That is about as heavy as four 5-rupee coins.",
+   "explain": "Each litre of air weighs about 1 gram. There are 20 litres. 20 groups of 1 gram is 20 grams. That is about as heavy as three 5-rupee coins.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "context": "This is about the weight of air. Air is real stuff, and each litre weighs a little over 1 gram.",
    "why_maths": "Air is too light to weigh in a bottle at home. Multiplying lets us work out how heavy a big amount of air is."
   },
   {
-   "problem": "In the Windmill That Lifts, the clip took 15 seconds to rise at 50 cm from the fan, and 45 seconds at 150 cm. How many times as long did it take far away?",
+   "problem": "In a made-up test of the Windmill That Lifts, the clip took 15 seconds to rise at 50 cm from the fan, and 45 seconds at 150 cm. How many times as long did it take far away?",
    "answer": "3 times as long.",
    "explain": "45 divided by 15 is 3. So the windmill took 3 times as long far from the fan. Check: 15 + 15 + 15 = 45.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2813,7 +2819,7 @@
    "why_maths": "The warming is what drives a sea breeze. Subtracting the start from the end shows how much each one warmed, so we can compare them fairly."
   },
   {
-   "problem": "Meera kept a Breeze Diary in Kochi for 5 days. The strip streamed away from the sea at 3 pm on 4 of the 5 days. On the fifth day it was cloudy and the strip hung still. If she keeps the diary for 10 sunny days, on about how many will she expect a sea breeze at 3 pm? Why?",
+   "problem": "Meera, a girl in Class 3 in Kochi, kept a Breeze Diary in Kochi for 5 days. The strip streamed away from the sea at 3 pm on 4 of the 5 days. On the fifth day it was cloudy and the strip hung still. If she keeps the diary for 10 sunny days, on about how many will she expect a sea breeze at 3 pm? Why?",
    "answer": "On about 10 days, or nearly all of them.",
    "explain": "On every sunny day she recorded, the breeze came. The only day without it was cloudy. So on sunny days she can expect a sea breeze almost every afternoon. The pattern lets her predict.",
    "math_unit": "math.probability.likely-and-unlikely.L3",
@@ -2833,7 +2839,7 @@
  "song": {
   "topic_level": "sci.weather.L3",
   "title": "Shade, Rain and Wind",
-  "note": "Topic-level song for Weather L3"
+  "note": "A song about shade, rain and wind."
  },
  "links": [
   {
@@ -2871,8 +2877,7 @@
    "url": "https://www.amazon.in/s?k=room+thermometer+analog",
    "used_in": [
     "e3"
-   ],
-   "plan": "Used again in the Weather unit (sci.weather.weather.L3)."
+   ]
   }
  ],
  "warmup": [
@@ -2960,7 +2965,6 @@
   "core": [
    "a1",
    "e1",
-   "a2",
    "e3",
    "a4",
    "g1",
@@ -3046,7 +3050,7 @@
   ],
   "art": "A child sitting on a terrace at dusk with one hand in front of their mouth, with a faint breeze lifting a kite tail and the edge of the sea far away."
  },
- "playtest": "Every activity was walked through for a city flat. The fridge test is the spine investigation because every family with a fridge gets the result: bare feet feel the cold air within seconds, and smoke at the bottom of the open door bends out and down. The top-of-door inflow is gentler, so the steps say so. Families with no agarbatti, or with asthma, use a tissue strip and bare feet. The door is opened for at most half a minute at a time. The cup windmill needs a table, pedestal or wall fan, or a hair dryer on cool. The skewer must turn freely in the straw, and the thread end must overhang the table edge. Soil or Water needs half an hour of sunshine at a window. By touch, the soil feels clearly warmer. The Breeze in a Box gives only a gentle drift, so it is outside the spine and the note says how to help it. The balloon balance works because squeezed air in a balloon outweighs the same space of room air, and the note explains this honestly. The tiny thread kite flies in front of a fan and when walked backwards. Kites outdoors are only from a terrace with a railing, with cotton thread. The spine is the intro, the tissue strip walk, the fridge test, the explanation cards, roots and the quiz, about 80 minutes.",
+ "playtest": "Every activity was walked through for a city flat. The fridge test is the spine investigation because every family with a fridge gets the result: bare feet feel the cold air within seconds, and smoke at the bottom of the open door bends out and down. The top-of-door inflow is gentler, so the steps say so. Families with no agarbatti, or with asthma, use a tissue strip and bare feet, and the steps say the strip is a weaker sign. The door is opened for at most half a minute at a time. The cup windmill needs a table, pedestal or wall fan on its fastest setting. The skewer must turn freely in the straw, and the thread end must overhang the table edge. Soil or Water needs the bowls to stand in the shade for an hour first, then half an hour of sunshine at a window and 15 minutes in the shade. The Breeze in a Box gives only a gentle drift, so it is outside the spine and the note says to write down what you really see. The balloon balance was replaced: the difference in a balloon is too small to see. Weighing a soft and a pumped ball shows a few grams, but needs a kitchen scale that shows single grams, so it is an optional extra outside the core. The tiny thread kite flies in front of a fan and when walked backwards. Kites outdoors are only from a terrace with a railing, with cotton thread. The spine is the intro, the tissue strip walk, the fridge test, the explanation cards, roots and the quiz, about 80 minutes.",
  "how_we_found_out": {
   "story": "For a long time, sailors knew the trade winds, steady winds that blow from the east over the warm seas near the equator. Galileo and Kepler, in the early 1600s, thought they knew why. The Earth spins towards the east, they said, and the air cannot keep up, so it is left behind as an east wind. In 1686, the English astronomer Edmond Halley collected sailors' reports of the winds from many oceans. He had felt the trade winds himself, on a voyage to the island of St Helena. He drew them on a map, one of the first weather maps ever made, and the map included the monsoons of the seas near India. The monsoon winds turn round with the seasons, but the Earth spins the same way all year. So the Earth's spin could not be the main cause. Halley said the Sun is the cause. Air over the hottest places is warmed and rises, and cooler air flows in to take its place. In 1735, George Hadley added the last piece. The spin does not make the winds, but it bends them once they move. That is why air flowing towards the equator arrives from the east.",
   "who": "Galileo Galilei and Johannes Kepler, who had the first idea, Edmond Halley, an English astronomer, and George Hadley, an English lawyer and scientist",

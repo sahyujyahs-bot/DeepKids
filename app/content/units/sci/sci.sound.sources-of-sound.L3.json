@@ -576,11 +576,19 @@
       },
       {
        "f": "A cricket chirping at night",
-       "b": "BODY, his wings rubbing"
+       "b": "BODY, his wings rubbing",
+       "img": {
+        "src": "media/cards/sources-of-sound-g1-0-08.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A frog calling in the rain",
-       "b": "BODY, vocal folds and throat pouch"
+       "b": "BODY, vocal folds and throat pouch",
+       "img": {
+        "src": "media/cards/sources-of-sound-g1-0-09.jpg",
+        "credit": "Subash Jeyan, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A steel tumbler tapped with a spoon",
@@ -596,7 +604,11 @@
       },
       {
        "f": "A mosquito whining",
-       "b": "BODY, wings beating"
+       "b": "BODY, wings beating",
+       "img": {
+        "src": "media/cards/sources-of-sound-g1-0-13.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A shehnai",
@@ -612,7 +624,11 @@
       },
       {
        "f": "A dog barking",
-       "b": "BODY, vocal folds"
+       "b": "BODY, vocal folds",
+       "img": {
+        "src": "media/cards/sources-of-sound-g1-0-17.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Manjira cymbals",
@@ -620,7 +636,11 @@
       },
       {
        "f": "An elephant rumbling",
-       "b": "BODY, vocal folds"
+       "b": "BODY, vocal folds",
+       "img": {
+        "src": "media/cards/sources-of-sound-g1-0-19.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz?",

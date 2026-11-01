@@ -7,7 +7,7 @@
   "art": "A black circle in space, ringed by bright swirling orange gas, with a few stars curving round it. Beside it, in a small circle, a child looking into a small hole in a closed cardboard box."
  },
  "intro": {
-  "hook": "Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer is also the reason a black hole is black.",
+  "hook": "Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.",
   "text": "In this unit you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.",
   "art": "A shoebox with black paper on its lid and a small round hole in the middle. The hole looks deeper and darker than the black paper around it."
  },
@@ -412,7 +412,18 @@
        ]
       }
      ],
-     "parent": "The hole should look clearly darker than the black paper, like a small piece of night. You can usually see the texture or a faint shine on black paper, but not in the hole. Write each person's ranking in the table."
+     "parent": "The hole should look clearly darker than the black paper, like a small piece of night. You can usually see the texture or a faint shine on black paper, but not in the hole. Write each person's ranking in the table.",
+     "check": {
+      "t": "mcq",
+      "q": "The small hole looked darker than black paper because:",
+      "options": [
+       "the hole was painted black",
+       "light went in and almost none came back out",
+       "the box was empty, and empty things are black"
+      ],
+      "a": 1,
+      "why": "Light went into the hole and bounced around inside, and was soaked up a little more at each bounce. Almost none came back out to your eyes. Black paper sends back a little light, so you can still see it."
+     }
     },
     {
      "id": "s4",
@@ -429,18 +440,7 @@
      "do": "1. Open the box. 2. Line the inside with black paper or a black cloth, on the bottom and the sides. 3. Close it again. 4. Look at the big hole from the same spot and rank it again.",
      "say": "Now the inside of the box is black too. Will the big hole look darker than before? Let's see.",
      "kid": "Line the inside of the box with black paper or cloth. Close it. Look at the big hole again. Is it darker now?",
-     "parent": "With a black inside, each bounce soaks up more light, so the big hole should look darker than before. If you have a phone, take a photo of the lid. In the photo, the hole is usually the darkest spot of all.",
-     "check": {
-      "t": "mcq",
-      "q": "The small hole looked darker than black paper because:",
-      "options": [
-       "the hole was painted black",
-       "light went in and almost none came back out",
-       "the box was empty, and empty things are black"
-      ],
-      "a": 1,
-      "why": "Light went into the hole and bounced around inside, and was soaked up a little more at each bounce. Almost none came back out to your eyes. Black paper sends back a little light, so you can still see it."
-     }
+     "parent": "With a black inside, each bounce soaks up more light, so the big hole should look darker than before. If you have a phone, take a photo of the lid. In the photo, the hole is usually the darkest spot of all."
     },
     {
      "id": "s6",
@@ -448,7 +448,7 @@
      "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened. Then read the parent note aloud.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
      "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a hole into a closed box looks blacker than black paper. What I saw: the small hole looked darkest, the big hole less dark, and a black inside made it darker again. Why: light that went into the hole was soaked up inside and almost none came back out. Now explain: we see black where no light comes back to our eyes. A black hole is black for the same reason, only stronger. Its gravity lets no light come back out at all."
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a hole into a closed box looks blacker than black paper. What I saw: the small hole looked darkest, the big hole less dark, and a black inside made it darker again. Why: light that went into the hole was soaked up inside and almost none came back out. Now explain: we see black where no light comes back to our eyes. A black hole looks black in the same way: no light comes back to our eyes. The cause is different, though. Its gravity holds the light in, so none comes back out at all."
     }
    ],
    "setup": [
@@ -492,7 +492,7 @@
      "qty": 1
     },
     {
-     "item": "a marble, or a big grape or a gooseberry (nellikai)",
+     "item": "a marble, or a big grape or a gooseberry (amla or nellikai)",
      "qty": 1
     },
     {
@@ -500,7 +500,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands before and after. The squeezed bread can go to the crows or into a compost bin.",
    "schedule": [
     {
      "day": 1,
@@ -588,7 +587,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a dupatta, a long scarf or a soft rope, about 2 metres long",
+     "item": "a gamcha, a dupatta, a long scarf or a soft rope, about 2 metres long",
      "qty": 1
     },
     {
@@ -600,12 +599,11 @@
      "qty": 1
     }
    ],
-   "safety": "Clear the floor of toys and furniture. Walk, do not run. The grown-up holds the dupatta firmly and lets go if anyone trips.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Act out the Earth going round the Sun on a dupatta. Then the Sun crouches small and turns off its torch, and the Earth keeps going round."
+     "what": "Act out the Earth going round the Sun on a scarf. Then the Sun crouches small and turns off its torch, and the Earth keeps going round."
     }
    ],
    "record": "Draw two pictures: the Earth going round the Sun, and the Earth going round a black hole of the same mass.",
@@ -613,15 +611,15 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. The grown-up stands in the middle as the Sun, holding a lit torch and one end of the dupatta. 2. The child holds the other end and walks round in a big circle as the Earth, keeping the dupatta tight.",
-     "say": "I am the Sun. The dupatta is gravity, pulling you towards me. Walk round me, keeping it tight. That is the Earth going round the Sun.",
-     "kid": "You are the Earth. Hold the dupatta tight. Walk round the Sun in a circle.",
-     "context": "This is the first step of Swap the Sun. You act out the Earth going round the Sun on a dupatta."
+     "do": "1. The grown-up stands in the middle as the Sun, holding a lit torch and one end of the scarf. 2. The child holds the other end and walks round in a big circle as the Earth, keeping the scarf tight.",
+     "say": "I am the Sun. The scarf is gravity, pulling you towards me. Walk round me, keeping it tight. That is the Earth going round the Sun.",
+     "kid": "You are the Earth. Hold the scarf tight. Walk round the Sun in a circle.",
+     "context": "This is the first step of Swap the Sun. You act out the Earth going round the Sun on a scarf."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. The Sun crouches down small, turns off the torch, and keeps holding the dupatta with the same grip. 2. The Earth keeps walking round. 3. Ask the question below.",
+     "do": "1. The Sun crouches down small, turns off the torch, and keeps holding the scarf with the same grip. 2. The Earth keeps walking round. 3. Ask the question below.",
      "say": "Now I have turned into a black hole. I am much smaller, and I give no light. But I have the same mass, so I pull you just as hard. Are you falling in?",
      "kid": "The Sun is now a black hole. Small and dark. The pull is the same. Do you fall in?",
      "ask": [
@@ -656,11 +654,11 @@
    ],
    "setup": [
     {
-     "art": "A grown-up holding a torch and one end of a dupatta, a child holding the other end and walking round in a circle.",
+     "art": "A grown-up holding a torch and one end of a scarf, a child holding the other end and walking round in a circle.",
      "caption": "1. The Earth goes round the Sun."
     },
     {
-     "art": "The grown-up crouched small with the torch off, still holding the dupatta, the child still walking round.",
+     "art": "The grown-up crouched small with the torch off, still holding the scarf, the child still walking round.",
      "caption": "2. The Sun becomes a black hole. The Earth keeps going round."
     }
    ],
@@ -673,7 +671,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a phone with a torch, or a small torch",
+     "item": "a small torch (a phone torch also works)",
      "qty": 1
     },
     {
@@ -681,46 +679,50 @@
      "qty": 1
     },
     {
+     "item": "a second phone propped on a shelf to film, or another person to watch",
+     "qty": 1
+    },
+    {
      "item": "a room that can be made dark, with a clear space about 2 metres across",
      "qty": 1
     }
    ],
-   "safety": "Clear the floor. Spin slowly, at walking speed, and stop if anyone feels dizzy. A grown-up must be one of the spinners.",
+   "safety": "Spin slowly, at walking speed, and stop if anyone feels dizzy. A grown-up must be one of the spinners.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "In a dark room, a child holds a torch and spins slowly, holding hands with a grown-up in dark clothes. A watcher sees only the torch going round and works out where the hidden partner is."
+     "what": "In a dark room, a child holds a torch and spins slowly, holding hands with a grown-up in dark clothes. A phone filming, or another person watching, sees only the torch going round, and the family works out where the hidden partner is."
     }
    ],
-   "record": "Draw what the watcher saw: the circle the light made, and where you think the hidden partner was.",
+   "record": "Draw what the film or the watcher showed: the circle the light made, and where you think the hidden partner was.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Make the room dark. 2. One child holds a lit torch at chest height, pointing up. 3. The grown-up, in dark clothes, holds the child's other hand. 4. A second person sits by the wall as the watcher.",
-     "say": "The torch is a star you can see. I am a hidden partner, like a black hole. The watcher must find me, using only the light.",
-     "kid": "Hold the torch up. Hold the grown-up's hand. The watcher can only see your light.",
+     "do": "1. Make the room dark. 2. Prop a phone on a shelf, facing the clear space, and start filming. If another person is at home, they can sit by the wall and watch instead. 3. The child holds a lit torch at chest height, pointing up. 4. The grown-up, in dark clothes, holds the child's other hand.",
+     "say": "The torch is a star you can see. I am a hidden partner, like a black hole. We must find me using only the light.",
+     "kid": "Hold the torch up. Hold the grown-up's hand. The film or the watcher can only see your light.",
      "adult": true,
      "context": "This is the first step of the Hidden Partner. You find an unseen partner by watching a light move round them, the way astronomers find black holes."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. The child and the grown-up lean back a little and turn round slowly together, holding hands, three or four times. 2. The watcher points to where the hidden partner must be.",
-     "say": "Watcher, the light is going round in a circle. Point to where you think the hidden partner is standing.",
-     "kid": "Spin slowly with the grown-up. Watcher, where is the hidden partner? Point!",
+     "do": "1. The child and the grown-up lean back a little and turn round slowly together, holding hands, three or four times. 2. Stop the film, then watch it together (or the watcher points). Point to where the hidden partner must be.",
+     "say": "The light is going round in a circle. Where do you think the hidden partner is standing?",
+     "kid": "Spin slowly with the grown-up. Then watch the film. Where is the hidden partner? Point!",
      "adult": true,
      "ask": [
       {
-       "q": "Watcher, how did you know where the hidden partner was?",
+       "q": "How did you know where the hidden partner was?",
        "good": [
         "The light went round and round one spot.",
         "The partner had to be near the middle of the circle."
        ]
       }
      ],
-     "parent": "The heavier grown-up turns almost on the spot, while the lighter child makes a big circle. So the hidden partner is near the middle of the light's circle. If no watcher is free, film it on a phone and watch it together afterwards."
+     "parent": "The heavier grown-up turns almost on the spot, while the lighter child makes a big circle. So the hidden partner is near the middle of the light's circle. The film shows only the moving light, so the grown-up can stand still in the middle and the circle is easy to see."
     },
     {
      "id": "s3",
@@ -752,12 +754,12 @@
    ],
    "setup": [
     {
-     "art": "A dark room with a child holding up a glowing torch and holding hands with a grown-up in dark clothes, a watcher sitting by the wall.",
+     "art": "A dark room with a child holding up a glowing torch and holding hands with a grown-up in dark clothes, a phone propped on a shelf, filming.",
      "caption": "1. One spinner holds a torch. The other is hidden in the dark."
     },
     {
      "art": "A circle of light drawn by the torch round a dark figure who is almost standing still in the middle.",
-     "caption": "2. The watcher sees only the light going round, and points to the hidden partner."
+     "caption": "2. The film shows only the light going round. Point to the hidden partner."
     }
    ],
    "context": "This is the Hidden Partner. You find an unseen partner by watching how a light moves round them."
@@ -783,7 +785,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -932,7 +933,7 @@
    "id": "g1",
    "title": "Can It Escape?",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "cards",
@@ -960,7 +961,7 @@
       },
       {
        "f": "A black hole, at its edge",
-       "b": "Escape speed: the speed of light, about 3 lakh kilometres a second. Inside the edge, even more."
+       "b": "Escape speed: the speed of light, about 3 lakh kilometres a second. Light goes at exactly this speed, so it just fails to get out. To escape, a traveller must be faster than this, and nothing is."
       }
      ]
     },
@@ -989,8 +990,8 @@
        "b": "About 3 lakh kilometres a second"
       },
       {
-       "f": "A beam of light that is already inside a black hole",
-       "b": "About 3 lakh kilometres a second, but the escape speed inside is even higher"
+       "f": "A jet aeroplane at top speed",
+       "b": "About a quarter of a kilometre a second (about 900 kilometres an hour)"
       }
      ]
     },
@@ -999,18 +1000,17 @@
      "title": "Score sheet",
      "items": [
       "Player name",
-      "Right guesses",
-      "Total points"
+      "Right guesses (1 point each)"
      ]
     }
    ],
    "rules": [
-    "Shuffle the place cards into one pile and the traveller cards into another, front side up.",
-    "On your turn, turn over one place card and one traveller card, keeping their backs hidden.",
+    "Shuffle the place cards into one pile and the traveller cards into another, names facing up.",
+    "On your turn, turn over the top place card and the top traveller card. Read the names only and keep the speeds on the backs hidden.",
     "Guess aloud: can this traveller escape from this place, yes or no?",
-    "Flip both cards to see the speeds. If the traveller's speed is higher than the place's escape speed, the answer is yes.",
+    "Flip both cards to see the speeds. The answer is yes only if the traveller's speed is higher than the place's escape speed. If it is the same or lower, the answer is no.",
     "A right guess scores one point. Put both cards back into their piles and shuffle.",
-    "After 10 turns each, the player with the most points wins."
+    "After 6 turns each, the player with the most points wins. If there is a tie, each tied player takes one more turn."
    ],
    "flow": [
     {
@@ -1059,7 +1059,7 @@
    ],
    "setup": [
     {
-     "art": "Two piles of cards on a floor: place cards showing the Moon, the Earth, the Sun and a black hole, and traveller cards showing a cricket ball, a rocket and a beam of light.",
+     "art": "Two piles of cards on a floor: place cards showing the Moon, the Earth, the Sun and a black hole, and traveller cards showing a cricket ball, a jet aeroplane and a beam of light.",
      "caption": "1. Make two piles: places and travellers."
     },
     {
@@ -1123,19 +1123,6 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi, a girl in Class 3, makes a small hole in the black lid of a closed box. Which looks darkest?",
-   "opts": [
-    "The black paper on the lid",
-    "The small hole",
-    "Both look exactly the same"
-   ],
-   "a": 1,
-   "outcome": 1,
-   "how": "e1",
-   "why": "The small hole looks darkest. Black paper sends back a little light. Light that goes into the hole is soaked up inside and almost none comes back out."
-  },
-  {
-   "t": "mcq",
    "p": "A boy throws a ball straight up, harder each time. What happens?",
    "opts": [
     "It goes higher each time before it falls back",
@@ -1172,7 +1159,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan squeezes a slice of bread into a tiny ball. What has changed?",
+   "p": "Farhan, a boy in Class 3, squeezes a slice of bread into a tiny ball. What has changed?",
    "opts": [
     "Its mass, the amount of bread",
     "Its size",
@@ -1245,17 +1232,6 @@
    "tier": "core",
    "mins": 20,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Which word means to soak up light?",
-     "opts": [
-      "reflect",
-      "absorb",
-      "escape"
-     ],
-     "a": 1,
-     "why": "Absorb means soak up. Reflect means bounce back. Black paper absorbs most of the light that falls on it."
-    },
     {
      "t": "truefalse",
      "p": "A black hole is empty inside, like a hole in the ground.",
@@ -1349,7 +1325,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi throws a ball up gently, then harder. The harder throw:",
+     "p": "Lakshmi, a girl in Class 3, throws a ball up gently, then harder. The harder throw:",
      "opts": [
       "goes higher before it comes back",
       "comes back at once",
@@ -1363,6 +1339,17 @@
      "p": "Light is the fastest thing in the universe.",
      "a": true,
      "why": "True. Light travels about 3 lakh kilometres a second. Nothing goes faster, which is why nothing can get out of a black hole."
+    },
+    {
+     "t": "mcq",
+     "p": "What do we call the path a star takes as it goes round a black hole?",
+     "opts": [
+      "an orbit",
+      "an event horizon",
+      "an escape"
+     ],
+     "a": 0,
+     "why": "The path one thing takes as it goes round another, held by gravity, is an orbit. The Earth orbits the Sun, and the star S2 orbits the black hole at the centre of our galaxy."
     },
     {
      "t": "odd",
@@ -1407,7 +1394,7 @@
     },
     {
      "t": "write",
-     "p": "Your cousin says, 'If I go to space, a black hole will suck me in.' What would you tell him?",
+     "p": "A friend says, 'If I go to space, a black hole will suck me in.' What would you tell your friend?",
      "lines": 3,
      "a": "Only if you go very close to it. Far away, a black hole pulls like any star of the same mass. The nearest one we know of is about 1,560 light-years away.",
      "why": "A strong answer corrects the vacuum cleaner idea and explains that the pull depends on mass and closeness."
@@ -1440,7 +1427,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In the experiment, the bigger hole looked less black than the small hole. Why might that be?",
+     "p": "In the experiment, the bigger hole usually looks less black than the small hole. Why might that be?",
      "lines": 3,
      "how": "e1",
      "context": "In the Blackest Black experiment, a box lid is covered with black paper and a small hole is made in it. The child compares how dark the hole looks with the black paper beside it.",
@@ -1519,7 +1506,7 @@
     },
     {
      "t": "write",
-     "p": "Farhan says: 'Squeezing the Sun into a black hole would make it pull the Earth harder.' Is he right? Explain.",
+     "p": "Farhan, a boy in Class 4, says: 'Squeezing the Sun into a black hole would make it pull the Earth harder.' Is he right? Explain.",
      "lines": 3,
      "a": "No. Squeezing does not add mass, as the bread showed. From the Earth's distance, the pull depends on the mass, so it would stay the same.",
      "why": "A strong answer uses the bread test as evidence and says that the pull from far away depends on mass."
@@ -1563,10 +1550,10 @@
       "Squeezing bread into a ball",
       "Folding a quilt small",
       "Pressing cotton wool flat",
-      "Cutting a roti in half"
+      "Cutting a dosa in half"
      ],
      "a": 3,
-     "why": "Cutting a roti in half is the odd one out. The other three squeeze the same stuff into a smaller space. Cutting splits it into two pieces."
+     "why": "Cutting a dosa in half is the odd one out. The other three squeeze the same stuff into a smaller space. Cutting splits it into two pieces."
     },
     {
      "t": "label",
@@ -1608,7 +1595,7 @@
      "views": [
       {
        "who": "Priya, aged 9",
-       "says": "Nobody has ever seen it, so we cannot be sure it is there."
+       "says": "Nobody has ever seen the black hole itself, so we cannot be sure it is there."
       },
       {
        "who": "Priya's grandmother",
@@ -1669,6 +1656,15 @@
       "three"
      ],
      "why": "About 3 lakh kilometres a second. Light could go round the Earth about 7 times in one second."
+    },
+    {
+     "t": "fill",
+     "p": "The black hole at the centre of our galaxy is about ____ million times as heavy as the Sun.",
+     "a": [
+      "4",
+      "four"
+     ],
+     "why": "Astronomers worked this out from how fast the star S2 swings round it, once every 16 years."
     },
     {
      "t": "match",
@@ -1743,19 +1739,6 @@
      ],
      "a": "see items",
      "why": "Scientists have strong evidence that black holes exist and trap light. What happens deep inside, and how the giants grew, are still open questions."
-    },
-    {
-     "t": "order",
-     "p": "Put these in order, from the lowest escape speed to the highest.",
-     "items": [
-      "The Moon",
-      "The Earth",
-      "Jupiter",
-      "The Sun",
-      "A black hole"
-     ],
-     "a": "order shown",
-     "why": "More mass packed into a smaller space means stronger gravity at the surface, and a higher escape speed. A black hole's is the highest of all."
     },
     {
      "t": "label",
@@ -1841,7 +1824,7 @@
    "art": "A row of flats in sunshine with their open windows looking dark from across the road."
   },
   {
-   "text": "A sky show about black holes at a planetarium, such as the Jawaharlal Nehru Planetarium in Bengaluru or the B. M. Birla Planetarium in Chennai.",
+   "text": "A sky show about black holes at a planetarium, such as the Jawaharlal Nehru Planetarium in Bengaluru, the B. M. Birla Planetarium in Chennai or the M. P. Birla Planetarium in Kolkata.",
    "art": "Children sitting under a planetarium dome, looking up at a picture of a black hole with a glowing ring."
   },
   {
@@ -1891,26 +1874,6 @@
    "a": "I'd love to stay, but I really must be going. Oh no, I can't!"
   },
   {
-   "j": "Why are black holes bad at hide and seek?",
-   "a": "They're not. Nobody has ever seen one."
-  },
-  {
-   "j": "Why did the box hole win the darkness contest?",
-   "a": "It had nothing to give back."
-  },
-  {
-   "j": "What did the ball say at the top of its flight?",
-   "a": "What goes up must come down, unless it's going 11 kilometres a second."
-  },
-  {
-   "j": "Why did the slice of bread feel important after being squeezed?",
-   "a": "Same mass, much more pressure."
-  },
-  {
-   "j": "Why didn't the Earth worry about the black hole?",
-   "a": "It was 1,560 light-years from the nearest one."
-  },
-  {
    "j": "What is a black hole's favourite sweet?",
    "a": "Mysore pak. Everything goes in, nothing comes out."
   },
@@ -1919,20 +1882,12 @@
    "a": "It was told to keep its distance."
   },
   {
-   "j": "What did the astronomer say about the hidden partner?",
-   "a": "I can't see you, but I know you're there."
-  },
-  {
    "j": "Why was the black hole so good at keeping secrets?",
    "a": "Not even light gets out."
   },
   {
    "j": "What do you call a rocket that is a little too slow?",
    "a": "A boomerang."
-  },
-  {
-   "j": "Why did the pupil of the eye join the black hole fan club?",
-   "a": "They both let light in and keep it."
   },
   {
    "j": "What did the Sun say when asked if it would become a black hole?",
@@ -1945,7 +1900,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Blackest Black experiment, Revathi made a small square hole 1 centimetre wide and a big square hole 3 centimetres wide. Draw both on squared paper with 1 centimetre squares. How many squares does each hole cover?",
+   "problem": "In the Blackest Black experiment, Revathi, a girl in Class 3, made a small square hole 1 centimetre wide and a big square hole 3 centimetres wide. Draw both on squared paper with 1 centimetre squares. How many squares does each hole cover?",
    "answer": "The small hole covers 1 square. The big hole covers 9 squares.",
    "explain": "The big hole is 3 squares wide and 3 squares tall. 3 times 3 is 9. So the big hole lets in 9 times as much light, and gives the light a much bigger way back out. That helps explain why it looked less black.",
    "math_unit": "math.area-perimeter.area.L3",
@@ -1982,7 +1937,7 @@
    "why_maths": "Subtracting tells us how old the light is, in years we can place in history."
   },
   {
-   "problem": "In the Hidden Partner activity, Ishita's torch went round 6 times in 30 seconds. How long did one round take?",
+   "problem": "In the Hidden Partner activity, the torch of Ishita, a girl in Class 3, went round 6 times in 30 seconds. How long did one round take?",
    "answer": "5 seconds.",
    "explain": "30 seconds shared equally among 6 rounds is 5 seconds for each round. 6 times 5 is 30. Astronomers do the same with stars: they time the rounds to find how long one orbit takes.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -1993,8 +1948,7 @@
  ],
  "song": {
   "topic_level": "sci.story-of-universe.L3",
-  "title": "City of Stars",
-  "note": "Topic-level song for The story of the universe L3 (still to be written)"
+  "title": "City of Stars"
  },
  "links": [
   {
@@ -2150,7 +2104,7 @@
   "deep_truth": {
    "truth": "The hole in your box looked blacker than the black paper. Light went in through the hole and almost none came back out. We see black wherever light does not come back to our eyes. A black hole is black because its gravity lets no light come back at all.",
    "habit": "We think of black as a colour that some things are made of, and of a black hole as a dark lump in space. Black is what we see when no light reaches our eyes from a place, and a black hole is a place that light cannot leave.",
-   "evidence": "In the Blackest Black experiment, a hole into a closed box looked darker than black paper, and a smaller hole looked darker than a bigger one. Nothing about the hole was coloured black. Only the light that came back out was different."
+   "evidence": "In the Blackest Black experiment, a hole into a closed box looked darker than black paper, and a smaller hole usually looked darker than a bigger one. Nothing about the hole was coloured black. Only the light that came back out was different."
   },
   "three": {
    "who_am_i": "You know about the black hole at the centre of our galaxy only by thinking about what you see around it. Your mind can know a place that your eyes can never see.",
@@ -2201,7 +2155,7 @@
   ],
   "art": "A child looking at their own eye in a mirror, the black pupil in the middle. In a circle beside it, a black hole with a glowing ring of gas, the same black at its centre."
  },
- "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat, with the materials listed. Blackest Black: a 1 centimetre hole in the lid of a closed shoebox lets in only a tiny share of the room's light, so the spot seen through it is lit hundreds of times more dimly than the lid itself. Black paper still reflects a few parts in every hundred. So the small hole looks clearly darker than black paper, even with the plain brown cardboard inside, and the step tells the parent to expect this. A 3 centimetre hole lets in about 9 times as much light and shows the inside faintly, so it usually looks less black than the small hole, and may still be darker than the paper. Either result is recorded. The step says to avoid direct sunshine, which could throw a bright spot inside the box. Squeeze the Bread: a 10 centimetre slice of ordinary bread squeezes to a ball of 2 or 3 centimetres, and keeps its weight to within a gram or two. Hidden Partner: when a grown-up and a child of 8 turn holding hands, the grown-up turns almost on the spot and the child's torch traces a big circle, which a watcher or a phone video can see. The spinning is slow, with a clear floor and a grown-up as one spinner. No step needs a garden, a dark sky or anything to be bought.",
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat, with the materials listed. Blackest Black: a 1 centimetre hole in the lid of a closed shoebox lets in only a tiny share of the room's light, so the spot seen through it is lit hundreds of times more dimly than the lid itself. Black paper still reflects a few parts in every hundred. So the small hole looks clearly darker than black paper, even with the plain brown cardboard inside, and the step tells the parent to expect this. A 3 centimetre hole lets in about 9 times as much light and shows the inside faintly, so it usually looks less black than the small hole, and may still be darker than the paper. Either result is recorded. The step says to avoid direct sunshine, which could throw a bright spot inside the box. Squeeze the Bread: a 10 centimetre slice of ordinary bread squeezes to a ball of 2 or 3 centimetres, and keeps its weight to within a gram or two. Hidden Partner: when a grown-up and a child of 8 turn holding hands, the grown-up turns almost on the spot and the child's torch traces a big circle, which a propped phone filming in the dark can show, with no third person needed. The spinning is slow, with a clear floor and a grown-up as one spinner. No step needs a garden, a dark sky or anything to be bought.",
  "how_we_found_out": {
   "story": "In 1939, Albert Einstein wrote a paper arguing that black holes could not form in nature. His own theory of gravity allowed them on paper, but he thought something would always stop a star being squeezed that small. Many scientists agreed. Even if black holes existed, they give out no light, so how could anyone find one? Two teams found a way. Reinhard Genzel, a German astronomer, began in 1992 with telescopes in Chile. Andrea Ghez, an American astronomer, began in 1995 with the giant Keck telescopes in Hawaii. Year after year, they photographed the stars at the very centre of our galaxy and watched them move. One star, called S2, raced round an empty-looking spot once every 16 years. From how fast and how tightly the stars swung round, the teams worked out how heavy the hidden thing was: about 4 million times as heavy as the Sun, packed into a space far too small to hold that many stars. Only a black hole fits. In 2020, Ghez and Genzel shared the Nobel Prize in Physics with Roger Penrose. Ghez was only the fourth woman ever to win it.",
   "who": "Andrea Ghez, an American astronomer at the University of California, Los Angeles, and Reinhard Genzel, a German astronomer at the Max Planck Institute for Extraterrestrial Physics",

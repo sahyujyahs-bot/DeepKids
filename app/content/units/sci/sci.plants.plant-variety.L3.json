@@ -659,31 +659,59 @@
      "items": [
       {
        "f": "Neem: tree",
-       "b": "Uses: shade, datun twigs, wood"
+       "b": "Uses: shade, datun twigs, wood",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-00.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mango: tree",
-       "b": "Uses: fruit, shade, wood"
+       "b": "Uses: fruit, shade, wood",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Peepal: tree",
-       "b": "Uses: shade"
+       "b": "Uses: shade",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-02.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coconut: tree (a palm)",
-       "b": "Uses: food, oil, coir rope"
+       "b": "Uses: food, oil, coir rope",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-03.jpg",
+        "credit": "Mr. Abhay Suresh Hule, Ph.D. in Zoology, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Teak: tree",
-       "b": "Uses: wood for doors and furniture"
+       "b": "Uses: wood for doors and furniture",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-04.jpg",
+        "credit": "T R Shankar Raman, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rubber tree: tree",
-       "b": "Uses: rubber from their sap"
+       "b": "Uses: rubber from their sap",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-05.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Hibiscus: shrub",
-       "b": "Uses: flowers"
+       "b": "Uses: flowers",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-06.jpg",
+        "credit": "Dashrath Gurjar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rose: shrub",
@@ -691,67 +719,131 @@
       },
       {
        "f": "Cotton: shrub",
-       "b": "Uses: cloth"
+       "b": "Uses: cloth",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-08.jpg",
+        "credit": "Arturo Benavides Mendoza, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mehendi: shrub",
-       "b": "Uses: colour for hands"
+       "b": "Uses: colour for hands",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-09.jpg",
+        "credit": "Amar Bharathy, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Lemon: shrub",
-       "b": "Uses: fruit"
+       "b": "Uses: fruit",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-10.jpg",
+        "credit": "Niyan Shehan, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Tulsi: shrub (a soft herb when young)",
-       "b": "Uses: tea, medicine"
+       "b": "Uses: tea, medicine",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-11.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Coriander: herb",
-       "b": "Uses: food"
+       "b": "Uses: food",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-12.jpg",
+        "credit": "Георгий Виноградов (Georgy Vinogradov), CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mint: herb",
-       "b": "Uses: food, medicine"
+       "b": "Uses: food, medicine",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-13.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rice: herb (a grass)",
-       "b": "Uses: food"
+       "b": "Uses: food",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-14.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Wheat: herb (a grass)",
-       "b": "Uses: food"
+       "b": "Uses: food",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-15.jpg",
+        "credit": "levkoviech, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Sugarcane: herb (a grass)",
-       "b": "Uses: sugar"
+       "b": "Uses: sugar",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-16.jpg",
+        "credit": "Emily Abrego, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bamboo: a giant grass (counts as a herb here)",
-       "b": "Uses: building, baskets"
+       "b": "Uses: building, baskets",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-17.jpg",
+        "credit": "Jyotsna Nag, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Money plant: climber",
-       "b": "Uses: decoration"
+       "b": "Uses: decoration",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-18.jpg",
+        "credit": "Navin Sasikumar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pepper: climber",
-       "b": "Uses: spice"
+       "b": "Uses: spice",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-19.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bitter gourd: climber",
-       "b": "Uses: food"
+       "b": "Uses: food",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-20.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pumpkin: creeper",
-       "b": "Uses: food"
+       "b": "Uses: food",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-21.jpg",
+        "credit": "Nicole Michel, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Watermelon: creeper",
-       "b": "Uses: fruit"
+       "b": "Uses: fruit",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-22.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sweet potato: creeper",
-       "b": "Uses: food"
+       "b": "Uses: food",
+       "img": {
+        "src": "media/cards/plant-variety-g1-0-23.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       }
      ]
     },

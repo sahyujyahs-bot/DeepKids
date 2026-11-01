@@ -21,7 +21,7 @@
 - **Placeholder**: A placeholder is a 0 that holds an empty place in a number. It keeps the other digits in their right places. *e.g.* In 205, the 0 holds the tens place. It tells you there are no tens.
 - **Shunya**: Shunya is the Sanskrit word for empty. Indian mathematicians used it as the name of zero. *e.g.* In Tamil, zero is called pujjiyam, and in Hindi shunya.
 - **Brahmagupta**: Brahmagupta was an Indian astronomer and mathematician. In the year 628 he wrote the first rules for doing sums with zero. *e.g.* One of his rules: a number plus zero stays the same, so 7 + 0 = 7.
-- **Divide**: To divide is to share into equal groups. 12 divided by 3 asks: how many groups of 3 make 12? *e.g.* 12 laddus shared among 3 friends gives 4 each.
+- **Divide**: To divide is to share into equal groups. 12 divided by 3 asks: how many groups of 3 make 12? *e.g.* 12 rasgullas shared among 3 friends gives 4 each.
 - **Undefined**: Undefined means a sum has no answer. Dividing a number by zero is undefined. *e.g.* Type 6 ÷ 0 on a phone calculator. It shows an error, not a number.
 - **Number line**: A number line is a line with numbers marked on it in order, the same distance apart. Zero sits in the middle, with bigger numbers to the right. *e.g.* A ruler is a number line that starts at 0.
 - **Negative number**: A negative number is less than zero. It is written with a minus sign, like -2. Brahmagupta called negative numbers debts. *e.g.* In a lift, the button B1 is one floor below the ground floor, so it is like -1.
@@ -59,10 +59,10 @@ Indian astronomers used place value with ten signs from at least about 1,500 yea
 **Definition:** In 628, Brahmagupta wrote rules for zero: a number plus zero stays the same, a number minus zero stays the same, and a number times zero is zero.
 
 Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was called the Brahmasphutasiddhanta. Before him, zero was a sign for an empty place. He treated it as a number you can add, take away and multiply. He also gave rules for negative numbers, which he called debts, and for positive numbers, which he called fortunes. Zero sits between them. A debt taken from zero becomes a fortune, he wrote.
-- e.g. 8 + 0 = 8. Adding no laddus to 8 laddus leaves 8.
-- e.g. 8 - 0 = 8. Taking away no laddus leaves 8.
-- e.g. 8 × 0 = 0. Eight plates with no laddus on each hold no laddus.
-- e.g. 0 × 8 = 0. No plates of 8 laddus hold no laddus.
+- e.g. 8 + 0 = 8. Adding no modaks to 8 modaks leaves 8.
+- e.g. 8 - 0 = 8. Taking away no modaks leaves 8.
+- e.g. 8 × 0 = 0. Eight plates with no modaks on each hold no modaks.
+- e.g. 0 × 8 = 0. No plates of 8 modaks hold no modaks.
 ### Why nobody can divide by zero · *defined*
 **Definition:** Dividing a number by zero has no answer. Mathematicians call it undefined.
 
@@ -140,27 +140,25 @@ We have learned that zero is the number for none, and that a 0 holds an empty pl
 - *what is life:* A honeybee choosing between flower patches gains by telling 'some' from 'none'. Keeping track of what is missing helps a living thing as much as keeping track of what is there.
 - *what is this world:* Nobody has ever found a place with exactly nothing in it. Even the emptiest space between the stars holds a few atoms and a little energy.
 
-Ten digits, 0 to 9, can write every number there is. Zero is what makes this work, because it holds the empty places that give every other digit its value. Zero is also a picture of how everything begins. Before anything, there is a balance in which everything adds up to zero. From that zero comes One, and from One, the many, just as every number is built up from places that start empty.
+Ten digits, 0 to 9, can write every number there is. Zero makes this work, because it holds the empty places that give every other digit its value. Some old texts say the same about empty space: a pot or a wheel works because of what is empty inside it.
 
 - **Tao Te Ching 11:** Thirty spokes meet at one hub, but it is the empty centre that makes the wheel useful. Shape clay into a pot, and it is the empty space inside that makes the pot useful. (The empty tens place in 205 is like the hole in the hub. It holds nothing, but without it the number does not work.)
-- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (Brahmagupta's rule says that taking zero from a number leaves it as it was. The verse says something like it about the whole. It also points to infinity, the next unit.)
+- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (The verse plays with taking away and what remains, as Brahmagupta's rules do with zero. It is about the whole, not about numbers.)
 - **Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation):** Then there was neither being nor non-being. Who really knows how it all began? (The hymn asks what was there before anything. Scientists also ask whether any place can be truly empty, and nobody knows yet.)
 - Science (settled): Brahmagupta wrote rules for calculating with zero in 628. His rules for adding, taking away and multiplying are the ones used today.
 - Science (settled): Even space with no atoms in it holds a tiny amount of energy, which physicists have measured. No perfectly empty place is known.
 - Science (debated): Whether bees and crows understand zero as a number is still argued about.
 - Other view, Many mathematicians: Zero is a tool people invented, like a word or a sign. It is very useful, but the jobs it does are rules we made up, not something we discovered in nature. On this view, it says nothing about where the world comes from.
 - Practice, The pause between breaths (3 min): Let's sit still and close our eyes. Breathe in slowly. Breathe out slowly, all the way. Now wait a moment before the next breath. That small pause, with no breath going in or out, is a kind of zero. Let's do it five times. Then tell me: was the pause empty, or was something there?
-- Ask: If nobody had ever written a 0, would there still be zero idlis on an empty plate?
-- Ask: Bees seem to know that none is less than one. Did people invent zero, or find it?
-- Ask: Can you think about nothing at all? What happens in your mind when you try?
+- Ask: In 205 the 0 adds nothing to count. Why can't we leave it out?
+- Ask: Is a place with nothing in it the same as a place that is not there? Think of the empty katori.
+- Ask: What did you notice in the pause between breaths?
 
 ## Deep and big questions
 - *deep:* If people had never written a sign for zero, would there still be zero tigers in your kitchen? (hint: Think about the difference between a thing and the sign we write for it. Is the number of tigers in your kitchen something we made up?)
 - *deep:* A 0 adds nothing to count, yet 520 and 52 are very different numbers. Where does the difference come from? (hint: Use the katoris. Which katori does the 5 sit in, with the 0 and without it?)
-- *deep:* Why can't you share 12 laddus into groups of zero? (hint: Try it with beans. Put 0 beans in each katori, again and again. Does the heap ever get smaller?)
+- *deep:* Why can't you share 12 pedas into groups of zero? (hint: Try it with beans. Put 0 beans in each katori, again and again. Does the heap ever get smaller?)
 - *big:* Can you think about nothing at all? What happens in your mind when you try? (hint: Close your eyes for one minute and try. What came into your mind?)
-- *big:* Bees seem to put 'none' below 'one'. Did people invent zero, or find something that was already there? (hint: There were zero idlis on the plate before anyone wrote a 0. What did the people who invented the sign add?)
-- *big:* Is there anywhere in the universe with exactly nothing in it? (hint: Even the space between stars holds a few atoms, and light crosses it. Could anything ever be perfectly empty?)
 
 ## Story: The Dot Ball
 *An imagined story. Real cricket scorers do mark every ball with no run as a dot, which is why such a ball is called a 'dot ball'.*
@@ -225,9 +223,9 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 
 ## Games
 ### g1 · Where Does the Zero Go? (15 min)
-- **rules:** Each player has a score sheet. Turn over a goal card for the round.; Take turns rolling one dice. A 6 counts as 0. Rolls of 1 to 5 count as themselves.; After each roll, write the digit in one of your empty boxes. Once written, it can't move.; After three rolls each, read your numbers aloud. The player who best meets the goal card wins the round.; After 5 rounds, the player who won most rounds wins. Playing alone? Try to beat the goal in at least 3 of 5 rounds.
+- **rules:** Each player has a score sheet. Turn over a goal card for the round.; Take turns rolling one dice. A 6 counts as 0. Rolls of 1 to 5 count as themselves.; After each roll, write the digit in one of your empty boxes. Once written, it can't move. A 0 in the Hundreds box is allowed: 042 is read as forty-two.; After three rolls each, read your numbers aloud. The player who best meets the goal card wins the round. If it is a tie, both players win it.; After 5 rounds, the player who won most rounds wins. Playing alone? Build two numbers each round, one after the other. Score a point when the second number meets the goal better than the first. Try to score 3 points in 5 rounds.
 - **Printable score sheet: A score sheet with 5 rounds of three boxes: Hundreds, Tens, Ones:** Round 1: [ H ] [ T ] [ O ]; Round 2: [ H ] [ T ] [ O ]; Round 3: [ H ] [ T ] [ O ]; Round 4: [ H ] [ T ] [ O ]; Round 5: [ H ] [ T ] [ O ]
-- **Printable cards: 6 goal cards, one turned over each round:** BIGGEST number wins; SMALLEST number wins; Closest to 500 wins; Closest to 300 wins; BIGGEST number wins; Number with a 0 in the middle scores double
+- **Printable cards: 5 goal cards, one turned over each round:** BIGGEST number wins; SMALLEST number wins; Closest to 500 wins; Closest to 300 wins; The biggest number that has a 0 in it wins. If nobody has a 0, the biggest number wins
 - **s1 (2 min)**  
   *Parent does:* 1. Give each player a score sheet. 2. Shuffle the goal cards. 3. Turn over the first one.  
   *Parent says:* In this game a 6 is a zero. Where you put your zero decides if you win.  
@@ -238,18 +236,17 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Practice. The goal is the biggest number. You rolled a 6. That is a zero. Where will you put it?
   - Check: The goal is the BIGGEST number. You roll a zero first. Which box is best? → **Ones**
 - **s3 (10 min)**  
-  *Parent does:* Play 5 rounds. After each round, everyone reads their number aloud, saying the hundreds, tens and ones.  
+  *Parent does:* Play 5 rounds. Turn over a new goal card each round. After each round, everyone reads their number aloud, saying the hundreds, tens and ones.  
   *Parent says:* Read your number out loud. Say how many hundreds, tens and ones.  
   *Child mode:* Roll, write, roll, write, roll, write. Read your number aloud. Who wins this round?
   - Note: Listen for numbers like 405 and 450. Ask, 'Where is your zero, and what is it holding?' A child who reads 405 as 'forty-five' is missing the empty tens place, so make it with katoris.
 ### g2 · Dot Ball Cricket (15 min)
-- **rules:** Each team bats for 2 overs. One over is 6 balls.; For each ball, the batting team rolls the dice and reads the key card.; The scorer marks every ball in a box: the runs, or a dot for a ball with no runs. Never leave a box blank.; After each over, count the marks. There must be exactly 6.; Add up the runs. The team with more runs wins. Playing alone? Play both teams, and see if Team B can beat Team A.
-- **Printable score sheet: A score sheet with 2 overs for each team, 6 boxes per over:** Team A, over 1: [ ][ ][ ][ ][ ][ ]; Team A, over 2: [ ][ ][ ][ ][ ][ ]; Team B, over 1: [ ][ ][ ][ ][ ][ ]; Team B, over 2: [ ][ ][ ][ ][ ][ ]
-- **Printable cards: A dice key card:** 1 = one run; 2 = two runs; 3 = dot ball, no runs: draw a dot; 4 = four runs; 5 = dot ball, no runs: draw a dot; 6 = six runs
+- **rules:** Each team bats for 2 overs. One over is 6 balls. With two players, one bats while the other scores, then you swap.; For each ball, the batting team rolls the dice and reads the key at the top of the score sheet.; The scorer marks every ball in a box: the runs, or a dot for a ball with no runs. Never leave a box blank.; After each over, count the marks. There must be exactly 6.; Add up the runs. The team with more runs wins. If the runs are level, each team bats one more over. Playing alone? Play both teams, and see if Team B can beat Team A.
+- **Printable score sheet: A score sheet with a key and 2 overs for each team, 6 boxes per over:** Key: roll 1 = one run, 2 = two runs, 3 = dot ball (draw a dot), 4 = four runs, 5 = dot ball (draw a dot), 6 = six runs; Team A, over 1: [ ][ ][ ][ ][ ][ ]; Team A, over 2: [ ][ ][ ][ ][ ][ ]; Team B, over 1: [ ][ ][ ][ ][ ][ ]; Team B, over 2: [ ][ ][ ][ ][ ][ ]
 - **s1 (2 min)**  
-  *Parent does:* 1. Give out the score sheet and the key card. 2. Choose who bats first and who scores.  
+  *Parent does:* 1. Give out the score sheet. 2. Choose who bats first and who scores.  
   *Parent says:* In this game every ball must go on the sheet. A ball with no runs gets a dot, never a blank.  
-  *Child mode:* Read the key card. A 3 or a 5 is a dot ball. Draw a dot for it, never a blank.
+  *Child mode:* Read the key at the top of the sheet. A roll of 3 or 5 is a dot ball. Draw a dot for it, never a blank.
 - **s2 (10 min)**  
   *Parent does:* Play 2 overs for each team. After each over, the scorer counts the marks aloud.  
   *Parent says:* End of the over. Count the marks. Are there six?  
@@ -266,7 +263,6 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **question:** If we leave a blank space instead of writing 0, can people still read the number right?
 - **predict:** Guess first. Will your readers read the blank-space numbers right? Which will be harder to read: a blank in the middle of a number, or a blank at the end? Why do you think so?
 - **fair test:** Every reader sees the same cards, in the same handwriting and the same size. Each blank is exactly as wide as one digit. Readers see the blank cards first, so the zero cards cannot give the answers away. Nobody gives hints. Use at least 3 readers, because one reader could be a fluke.
-- **safety:** Use child-safe scissors to cut the chits, or tear them along a fold.
 - **record:** Fill in the results table. Then write one line each: what I think (claim), what I saw (evidence), why (reasoning).
 - **results table:** Card | Number we meant | Reader 1 said | Reader 2 said | Reader 3 said | How many read it right?
 - **s1 (7 min)**  
@@ -278,7 +274,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent does:* 1. Write 6 zero cards with different numbers: 205, 610, 80, 803, 400, 607. 2. Use the same pen and the same size.  
   *Parent says:* Now we make cards with the zero written in. They use different numbers, so they can't give away the answers.  
   *Child mode:* Now write 6 cards with a 0: 205, 610, 80, 803, 400, 607. Use the same pen and size.
-  - Note: The zero cards have the same patterns as the blank cards: two with an empty middle, three with an empty end, one with two empty places at the end. Only the 0 is different.
+  - Note: The zero cards have the same patterns as the blank cards: three with an empty middle (205, 803, 607), two with an empty end (610, 80), and one with two empty places at the end (400). Only the 0 is different.
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess and a reason before anyone reads a card.  
   *Parent says:* What do you think will happen? Will people read the blank cards right? Which blank will trick them more? Why do you think so?  
@@ -296,9 +292,9 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent says:* Now the cards with zeros. Same question: please read this number out loud.  
   *Child mode:* Now show the zero cards. Ask each reader again. Write down what they say.
 - **s6 (3 min)**  
-  *Parent does:* 1. Turn the blank cards over and check each answer against the pencil number. 2. Fill in the last column: how many readers got each card right.  
+  *Parent does:* 1. Turn the blank cards over and check each answer against the pencil number. The zero cards need no turning: the number is written on the front. 2. Fill in the last column: how many readers got each card right.  
   *Parent says:* Let's check. Turn each card over. How many readers got it right?  
-  *Child mode:* Turn each card over. Was the reader right? Count how many got each card right.
+  *Child mode:* Turn each blank card over. Was the reader right? The zero cards show their number on the front. Count how many readers got each card right.
   - Check: In most homes, which cards get read wrong most often? → **The blank cards with the gap at the end, like 52 _**
 - **s7 (2 min)**  
   *Parent does:* Ask your child for a claim, evidence and reasoning. Write them under the table.  
@@ -311,7 +307,6 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **question:** Does it matter whether you measure from the end of a ruler or from its 0 mark?
 - **predict:** Look at the end of your ruler. Will you get the same length if you start from the very end, or from the 0 mark? If not, will the difference be the same for every object? Why do you think so?
 - **fair test:** Measure the same 5 things both ways, with the same ruler. Line up each object carefully against the ruler each time. Measure each one twice, because one reading can be a slip.
-- **safety:** No special care is needed.
 - **record:** Fill in the table. Draw the end of your ruler, and colour the strip before the 0.
 - **results table:** Object | Length from the ruler's end (cm) | Length from the 0 mark (cm) | Difference (mm)
 - **s1 (3 min)**  
@@ -325,7 +320,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Guess. Will both ways give the same length? Why do you think so?
   - Ask: What do you think will happen? (good: From the end will be longer, because the ruler starts counting at 0.; They will be the same.)
 - **s3 (8 min)**  
-  *Parent does:* 1. Put the pencil's end exactly at the ruler's edge. Read its length. 2. Now put the pencil's end at the 0 mark. Read it again. 3. Write both in the table. 4. Do the same for the other 4 things.  
+  *Parent does:* 1. Put the pencil's end exactly at the ruler's edge. Read its length. 2. Now put the pencil's end at the 0 mark. Read it again. 3. Write both in the table. 4. Measure each thing twice, in case of a slip. 5. Do the same for the other 4 things.  
   *Parent says:* First from the very edge, then from the 0 mark. Write down both numbers each time.  
   *Child mode:* Measure the pencil from the edge. Then from the 0. Write both. Now do the other four things.
   - Note: Help your child line up each object flat against the ruler, with eyes straight above the mark when reading.
@@ -333,7 +328,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent does:* 1. Work out the difference for each object, in millimetres. 2. Compare the differences.  
   *Parent says:* How much longer was each one when we started at the edge? Is the difference the same each time?  
   *Child mode:* Find the difference for each thing. Are the differences the same?
-  - Check: Kavya measured 5 things from the edge of her ruler, not from the 0. Every length came out 5 mm too long. Why? → **Her ruler has a 5 mm strip before the 0 mark, and she counted it every time**
+  - Check: In your table, the difference came out about the same for every object. What does that tell you? → **The ruler has a blank strip before the 0, and it adds the same length every time**
 - **s5 (3 min)**  
   *Parent does:* If you have a tailor's tape or a second ruler, check where its 0 is.  
   *Parent says:* Where does the tailor's tape start? Why do you think it starts right at the tip?  
@@ -343,7 +338,6 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 
 ## Activities
 ### a1 · Zero hunt at home (8 min)
-- **safety:** Stay indoors, or on your own balcony.
 - **record:** Draw two lists: 'Zero of these here' and 'Places I saw a 0'.
 - **s1 (2 min)**  
   *Parent does:* Put an empty plate on the table and ask the question below.  
@@ -378,7 +372,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent does:* Make 250, 502 and 520. Your child writes each one. Then they make a number for you to write.  
   *Parent says:* Make 250, then 502, then 520. Then you make a number for me to write.  
   *Child mode:* Make 250, then 502, then 520. Write each one. Now make one for your grown-up to write.
-  - Check: Lakshmi has 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it? → **502**
+  - Check: Lakshmi, a girl in Class 3, has 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it? → **502**
 ### a3 · Brahmagupta's rules with beans (15 min)
 - **safety:** Children under 4 must not be left with dry beans.
 - **record:** Write each rule you tested, with a small drawing of the beans.
@@ -404,7 +398,6 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Type 12 ÷ 0 on the calculator. What does it say?
   - Check: Why does the calculator show an error for 12 ÷ 0? → **No number of groups of 0 can ever make 12**
 ### a4 · Numbers without zero: Roman and old Tamil (12 min)
-- **safety:** No special care is needed.
 - **record:** Write 305 three ways: our digits, old Tamil and Roman.
 - **s1 (4 min)**  
   *Parent does:* 1. Show the Roman signs: I is 1, V is 5, X is 10, L is 50, C is 100. 2. Write 305 together: CCCV.  
@@ -416,12 +409,11 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Old Tamil had no zero. ௱ means hundred. So 305 is ௩௱௫: three, hundred, five.
   - Note: Traditional Tamil numerals had special signs for ten, a hundred and a thousand, and no zero. Modern Tamil writing uses a zero sign too.
 - **s3 (4 min)**  
-  *Parent does:* Ask your child to write 350 and 503 in all three ways, then answer the question below.  
-  *Parent says:* Now write 350 and 503 all three ways. Which way is shortest? Which way needs zero?  
-  *Child mode:* Write 350 and 503 three ways. Which way is quickest?
+  *Parent does:* Ask your child to write 350 and 105 in all three ways, then answer the question below. Check: 350 is CCCL and ௩௱௫௰. 105 is CV and ௱௫.  
+  *Parent says:* Now write 350 and 105 all three ways. Which way is shortest? Which way needs a zero?  
+  *Child mode:* Write 350 and 105 three ways. Which way is quickest?
   - Check: Roman numerals and old Tamil numerals had no zero. What did they use instead? → **Special signs for ten, a hundred and more**
 ### a5 · The lift number line: below zero (12 min)
-- **safety:** If you use a real lift, a grown-up rides with the child.
 - **record:** Draw your number line and mark G as 0.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a line with marks for -3, -2, -1, 0, 1, 2, 3, 4, 5. 2. Write G under 0, and B1, B2, B3 under -1, -2, -3.  
@@ -441,7 +433,6 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 
 ## Projects
 ### p1 · Zero's journey: a map and a timeline (40 min, 2 days)
-- **safety:** No special care is needed.
 - **record:** The finished timeline and map, and a list of the names zero had on its journey.
 - **schedule:** day 1: Draw a timeline with Babylon, Brahmagupta, the Gwalior stone, al-Khwarizmi and Fibonacci. (20 min); day 2: Draw a map of zero's journey and its name, from India to Baghdad to Italy. Tell the story to the family. (20 min)
 - **s1 (20 min)**  
@@ -477,7 +468,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Write 5 numbers your new way. Explain it once. Can your reader read them all?
   - Ask: Is your new mark a kind of zero? (good: Yes, because it shows an empty place.; No, because it is a box, not a number.)
 ### c2 · Build an abacus that can show 1,005 (30 min)
-- **problem:** Build a counting frame from things at home that can show any number up to 9,999, including 1,005 with its two empty places.
+- **problem:** Build a counting frame from things at home with 4 places that can show numbers like 1,005, 1,050 and 1,500, including their empty places.
 - **your turn:** Now design your own counting frame. Show 1,005, 1,050 and 1,500 on it. Can someone else read them?
 - **constraints:** Use only things from home.; It must have 4 places: thousands, hundreds, tens and ones.; An empty place must be easy to see.
 - **general:** Stand 4 pencils upright in a lump of atta dough, and slide bangles or rings of straw onto them.; Tape 4 straws across a shoebox lid, and slide beads along them.; Draw 4 columns on cardboard and put buttons in them.
@@ -501,15 +492,14 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 ### Zero at Work (core) (core, 15 questions)
 1. (fill) The number for none is called ____.  
    **Answer:** ['zero']. *Why:* Zero is the number of things in an empty group. A strong answer can also give an example, like the idlis on an empty plate.
-2. (mcq) Priya puts 3 beans in the Hundreds katori, no beans in the Tens katori, and 4 beans in the Ones katori. What number is it?  
-   Options: 34 / 304 / 340 / 3004  
-   **Answer:** 304. *Why:* 3 hundreds, no tens and 4 ones is 304. Picking 34 leaves out the empty place. Picking 340 puts the empty place in the wrong spot.
+2. (truefalse) In the number 407, the 0 means there are no tens.  
+   **Answer:** True. *Why:* True. 407 is 4 hundreds, no tens and 7 ones. The 0 holds the empty tens place, so the 4 stays in the hundreds place.
 3. (match) Match each number to what it is made of.  
    **Answer:** 205 → 2 hundreds, 0 tens, 5 ones; 250 → 2 hundreds, 5 tens, 0 ones; 25 → 2 tens, 5 ones; 502 → 5 hundreds, 0 tens, 2 ones. *Why:* The same two digits, 2 and 5, make four different numbers. Where the 0 sits changes the value of the others.
-4. (truefalse) Selvi says, 'A 0 means nothing, so 30 and 3 are the same number.' Is she right?  
+4. (truefalse) Gauri, a girl in Class 3, says, 'A 0 means nothing, so 30 and 3 are the same number.' Is she right?  
    **Answer:** False. *Why:* False. 30 is three tens. 3 is three ones. The 0 holds the ones place, so the 3 stays in the tens place. A strong answer uses beans or katoris to show it.
-5. (write) In the missing zero test, why was a blank at the end of a number missed more often than a blank in the middle?  
-   **Answer:** A blank in the middle sits between two digits, so you can see a space there. A blank at the end looks just like the paper after a number ends, so the reader doesn't know a place is there.. *Why:* A strong answer uses what the readers really said, for example that 52 with a blank was read as fifty-two.
+5. (write) Look at your own results from the missing zero test. Which card was read wrong most often? Write what the readers said and what you meant.  
+   **Answer:** The answer comes from the child's own table. A strong answer names a card with a blank at the end, gives the number the readers said, such as 52, and the number meant, such as 520.. *Why:* A strong answer uses the real numbers from the table, not a guess.
 6. (mcq) What is 6 - 0?  
    Options: 0 / 6 / 60 / There is no answer  
    **Answer:** 6. *Why:* Taking away nothing leaves what you had. That is one of Brahmagupta's rules.
@@ -520,8 +510,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 9. (odd) Three of these zeros are holding an empty place. Which one is the odd one out?  
    Options: The 0 in 106 / The 0 in 40 / The 0 in 3,008 / The 0 that is your score before a game starts  
    **Answer:** 3. *Why:* In 106, 40 and 3,008, each 0 holds a place. A score of 0 is zero on its own, the number for none.
-10. (write) Brahmagupta lived about 1,400 years ago. Write one of his rules for zero, and show it with beans or laddus.  
-   **Answer:** A number times zero is zero: 4 plates with no laddus on each hold 0 laddus. Or: a number plus zero stays the same: 6 beans and no more beans are still 6 beans.. *Why:* A strong answer gives the rule in words and a real example that shows it is true.
+10. (write) Brahmagupta lived about 1,400 years ago. Write one of his rules for zero, and show it with beans or sweets.  
+   **Answer:** A number times zero is zero: 4 plates with no sweets on each hold 0 sweets. Or: a number plus zero stays the same: 6 beans and no more beans are still 6 beans.. *Why:* A strong answer gives the rule in words and a real example that shows it is true.
 11. (order) Put these numbers in order, smallest first.  
    **Answer:** ['52', '250', '502', '520']. *Why:* 52 has no hundreds, so it is smallest. Then 250 has 2 hundreds. 502 and 520 both have 5 hundreds, but 520 has 2 tens and 502 has none.
 12. (label) Label the end of this ruler. Mark the 0, the strip before it, and the end of the first centimetre.  
@@ -530,15 +520,15 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    **Answer:** A strong answer agrees with Ammu: without a mark, nobody can count the balls, just as a blank at the end of 520 gets missed. It also gives Arjun his due: it is true that no runs were scored, and blanks are quicker if all you need is the total runs.. *Why:* Both views have something true. The question is what the score sheet is for: if you only need the runs, blanks are enough, but to count balls, every ball needs a mark.
 14. (fill) Brahmagupta called numbers below zero ____.  
    **Answer:** ['debts']. *Why:* He called positive numbers fortunes and negative numbers debts. A debt is money you owe, which is less than nothing.
-15. (mcq) Lakshmi says, 'Zero means I don't know.' Her rain gauge in Mysuru reads 0 mm. What does the 0 really tell her?  
+15. (mcq) Lakshmi, a girl in Class 3, says, 'Zero means I don't know.' Her rain gauge in Mysuru reads 0 mm. What does the 0 really tell her?  
    Options: That no rain fell / That nobody checked / That the gauge is broken / That it rained a lot  
    **Answer:** That no rain fell. *Why:* Zero is a real measurement: it says none. 'I don't know' would mean nobody checked the gauge. A strong answer says how these two are different.
 ### Inside the Number (stretch) (stretch, 15 questions)
-1. (write) Tara has 12 beans. She tries to put them into groups of 0. Explain, in your own words, why she can never finish.  
+1. (write) Tara, a girl in Class 3, has 12 beans. She tries to put them into groups of 0. Explain, in your own words, why she can never finish.  
    **Answer:** Each group takes no beans, so the heap never gets smaller. However many groups she makes, she still has 12 beans left. So no number of groups uses them up.. *Why:* A strong answer says that the heap stays the same size, and links it to 12 ÷ 0 having no answer.
-2. (mcq) 12 ÷ 3 = 4, because 4 × 3 = 12. Using the same check, why does 12 ÷ 0 have no answer?  
-   Options: Because no number times 0 gives 12 / Because 12 is too big / Because 0 × 12 = 12 / Because the answer is 12  
-   **Answer:** Because no number times 0 gives 12. *Why:* Every number times 0 is 0, so no number can be the answer to 12 ÷ 0. Picking '0 × 12 = 12' is a common slip: 0 × 12 is 0.
+2. (mcq) The Maya of Central America drew a sign for zero more than 1,500 years ago. What does this tell us?  
+   Options: More than one people found the idea of an empty place / Zero was invented in India after the Maya / The Maya zero was a number with rules, just like Brahmagupta's  
+   **Answer:** More than one people found the idea of an empty place. *Why:* The Maya made their own sign for an empty place, as Babylon did. India was the first to make zero a number with rules.
 3. (truefalse) Brahmagupta got every one of his rules for zero right.  
    **Answer:** False. *Why:* False. He wrote that 0 ÷ 0 = 0. Later mathematicians showed that every number times 0 gives 0, so 0 ÷ 0 has no single answer. His rules for adding, taking away and multiplying are still used.
 4. (perspective) Two people are arguing about 12 ÷ 0.  
@@ -559,8 +549,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    **Answer:** 503. *Why:* Five, hundred, three means 5 hundreds and 3, which is 503. Old Tamil used a sign for hundred instead of a zero.
 11. (match) Match each person or thing to what it did for zero.  
    **Answer:** Brahmagupta → wrote the first rules for calculating with zero, in 628; The Gwalior temple stone → shows a round 0 in the number 270, carved in 876; Al-Khwarizmi → wrote in Baghdad about calculating with Indian digits; Fibonacci → taught the Indian digits to Europe in 1202. *Why:* Together they show zero's journey from India across the world.
-12. (write) In the ruler test, Farhan's lengths from the edge were each 4 mm longer than from the 0 mark. Why was the difference the same for every object?  
-   **Answer:** The extra length came from the strip before the 0 mark. That strip is the same width every time, so it adds the same 4 mm to every object.. *Why:* A strong answer says where the extra 4 mm came from and why it can't change.
+12. (truefalse) A kitchen scale that shows 0 with an empty bowl on it is broken.  
+   **Answer:** False. *Why:* False. Pressing the zero button with the bowl on makes the scale start from the bowl, so it weighs only what you add, such as atta.
 13. (label) Label each digit of 3,060 with its place: thousands, hundreds, tens or ones. Circle the zeros that hold an empty place.  
    **Answer:** 3 thousands, 0 hundreds, 6 tens, 0 ones. Both zeros are circled.. *Why:* Both zeros hold empty places: no hundreds and no ones. Without them, the number would be 36.
 14. (order) Put these events in order, earliest first.  
@@ -570,8 +560,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 ### Big Ideas about Nothing (challenge) (challenge, 15 questions)
 1. (perspective) A family in Kolkata is arguing about who invented zero.  
    **Answer:** A strong answer sees that all three have part of it. Babylon and the Maya made signs for an empty place. India, with Brahmagupta in 628, made zero a number with its own rules, inside the ten-digit system the world uses. So the grandmother's view fits the facts best, but Bina is right that our zero came from India, and the aunt is right that others found the idea too.. *Why:* This is a real argument among historians. The answer depends on what 'inventing zero' means: a sign for an empty place, or a number with rules.
-2. (write) If no person had ever written a sign for zero, would there still be zero tigers in your kitchen? Explain what you think.  
-   **Answer:** Open answer. A strong answer separates the number of tigers, which is none whether or not anyone writes it, from the sign 0, which people made to write it down.. *Why:* There is no single right answer. A strong answer gives a reason and considers the other side.
+2. (write) The Romans had no zero, but Indian numbers won across the world. Using what you saw with CCCV and 305, say why you think this happened.  
+   **Answer:** Open answer. A strong answer says that with place value, ten digits can write any number, and the 0 keeps places, so the numbers are short and easy to add on paper. Roman signs need a new sign for every size.. *Why:* A strong answer compares how long and how easy the two ways of writing 305 are.
 3. (mcq) Honeybees were trained to pick the card with fewer shapes. Then they were shown a blank card and a card with one shape. What did they do?  
    Options: They picked the blank card, as if none is less than one / They ignored the blank card / They always picked the card with one shape / They flew away  
    **Answer:** They picked the blank card, as if none is less than one. *Why:* In the 2018 test in Melbourne, the bees put the blank card below one. Scientists still argue whether this means the bees understand zero, or just 'less'.
@@ -584,15 +574,15 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 7. (mcq) On the original thermometer scale Anders Celsius made in 1742, water boiled at 0 and froze at 100. Later the scale was turned round. What does this show?  
    Options: Where zero goes on a scale is chosen by people / Water used to boil at a different temperature / Celsius made a mistake with his thermometer / Zero always means the coldest  
    **Answer:** Where zero goes on a scale is chosen by people. *Why:* The zero on a temperature scale is a starting point people choose. The water did not change. Only the numbers we put on it did.
-8. (draw) Draw two ways of writing 507 that a reader could never mix up with 57, without using the sign 0.  
-   **Answer:** For example, three boxes with the middle one empty, or coloured digits with a different colour for each place.. *Why:* A strong drawing makes the empty tens place visible without a 0.
+8. (draw) Draw a number line from -5 to 5. A night in Leh starts at 3 °C, drops 4 degrees, then rises 2 degrees. Mark where it ends.  
+   **Answer:** A line with -5 to 5 evenly spaced, and a mark on 1.. *Why:* From 3, going down 4 reaches -1. Going up 2 reaches 1. A strong drawing has equal gaps between the numbers.
 9. (fill) The Gwalior stone, carved in the year ____, shows a round zero in the number 270.  
    **Answer:** ['876']. *Why:* It is the oldest zero in India whose date everyone agrees on.
 10. (write) The Bakhshali manuscript had three pieces carbon-dated. One came out about 1,700 years old, and others much younger. Why might one piece of bark be older than the writing on it?  
    **Answer:** The writer might have used old bark that was made long before. Or the book might have been copied and added to over many years. So the age of the bark doesn't have to be the age of the writing.. *Why:* This is what historians really argue about. A strong answer gives one possible reason and says why it matters.
 11. (label) Label the parts of 6 ÷ 0 = ? and say why no number fits in the box.  
    **Answer:** 6 is the number being shared, 0 is the size of each group, the box is the answer. No number fits, because any number times 0 is 0, not 6.. *Why:* A strong answer uses the check that division undoes multiplication.
-12. (mcq) Sunita reads the card '6' with a blank space after it, and says sixty. She is right. Why might she have guessed it?  
+12. (mcq) Sunita, a girl in Class 3, reads the card '6' with a blank space after it, and says sixty. She is right. Why might she have guessed it?  
    Options: She asked if something was missing, or noticed the chit was extra wide / Because blank spaces always mean zero / Because 6 is always sixty  
    **Answer:** She asked if something was missing, or noticed the chit was extra wide. *Why:* A blank at the end gives no sign at all. A reader can only guess from something else, like the size of the chit. Babylonian readers also had to guess from the story around a number.
 13. (odd) Three of these number systems have a zero. Which one is the odd one out?  
@@ -600,7 +590,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    **Answer:** 0. *Why:* Roman numerals have no zero. The Maya made a zero sign of their own, and today's digits, including modern Tamil, use one.
 14. (write) Zero is the only number you can add to anything without changing it. Can you think of something in life that is like this? Explain.  
    **Answer:** Open answer. For example, walking zero steps leaves you where you were, or adding zero spoons of sugar leaves the tea the same.. *Why:* A strong answer gives an example that really works like adding zero, and explains why.
-15. (perspective) Two friends in Pune are talking about the number 0.  
+15. (perspective) Two girls in Class 3 in Pune, Ishita and Rukhsana, are talking about the number 0.  
    **Answer:** Open answer. A strong answer separates the sign 0, which people did invent, from the idea of none, which bees may also have. It gives each friend a fair point.. *Why:* Philosophers and mathematicians still argue about whether numbers are invented or found. There is no single right answer.
 
 ## Videos
@@ -612,37 +602,34 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 1. (mcq) Ananya, a girl in Class 3, has a plate with no dosas on it. How many dosas are on her plate?  
    Options: One / Zero / We can't say, because there are none  
    **Answer:** Zero. *Why:* Zero is the number for none. It is a real answer to 'how many?'. Picking 'we can't say' means thinking that none is not a number.
-2. (mcq) Revathi writes the number two hundred and five. Which is right?  
-   Options: 25 / 205 / 2005  
-   **Answer:** 205. *Why:* Two hundreds, no tens and five ones is 205. The 0 holds the empty tens place. Picking 25 means leaving out the empty place. Picking 2005 means adding an empty place that isn't there.
-3. (mcq) Divya writes 520 but forgets the 0. What number has she written?  
+2. (mcq) Isha, a girl in Class 3, writes 520 but forgets the 0. What number has she written?  
    Options: 52, which is ten times smaller / 520, because the 0 means nothing / 502  
    **Answer:** 52, which is ten times smaller. *Why:* Without the 0, the 5 and 2 slide into the tens and ones places, so the number becomes 52. The 0 adds nothing to count, but it keeps the digits in their places.
-4. (mcq) In the missing zero test, Nila's grandmother read the card '52' with a blank space after it. What did she most likely say?  
+3. (mcq) In the missing zero test, Nila, a girl in Class 3, showed a neighbour the card '52' with a blank space after it. She meant 520. What did the neighbour most likely say?  
    Options: Five hundred and twenty / Fifty-two / Five hundred and two  
-   **Answer:** Fifty-two. *Why:* A blank at the end of a number looks like ordinary paper, so she sees only 52. That is why a 0 is needed at the end of a number.
-5. (mcq) What is 9 + 0?  
+   **Answer:** Fifty-two. *Why:* A blank at the end of a number looks like ordinary paper, so they see only 52. That is why a 0 is needed at the end of a number.
+4. (mcq) What is 9 + 0?  
    Options: 0 / 9 / 90  
    **Answer:** 9. *Why:* Brahmagupta's rule: a number plus zero stays the same. Adding no beans to 9 beans leaves 9. Picking 90 means mixing up adding a zero with writing a 0 after the 9.
-6. (mcq) Thenmozhi has 7 empty plates with no laddus on each. How many laddus is that altogether?  
+5. (mcq) Thenmozhi, a girl in Class 3, has 7 empty plates with no murukkus on each. How many murukkus is that altogether?  
    Options: 7 / 0 / 70  
-   **Answer:** 0. *Why:* 7 × 0 = 0. Seven groups of nothing is nothing. Picking 7 means counting the plates instead of the laddus.
-7. (mcq) Keerthana types 8 ÷ 0 on a calculator. What will it show?  
+   **Answer:** 0. *Why:* 7 × 0 = 0. Seven groups of nothing is nothing. Picking 7 means counting the plates instead of the murukkus.
+6. (mcq) Keerthana, a girl in Class 3, types 8 ÷ 0 on a calculator. What will it show?  
    Options: 0 / 8 / An error, because there is no answer  
    **Answer:** An error, because there is no answer. *Why:* 8 ÷ 0 asks what number times 0 gives 8. Every number times 0 is 0, so no number works. Picking 0 is the mistake Brahmagupta made for 0 ÷ 0.
-8. (mcq) Brahmagupta wrote the first rules for zero. When and where did he live?  
+7. (mcq) Brahmagupta wrote the first rules for zero. When and where did he live?  
    Options: In India, about 1,400 years ago / In Italy, about 800 years ago / In Egypt, about 4,000 years ago  
    **Answer:** In India, about 1,400 years ago. *Why:* Brahmagupta wrote his book in 628, in Bhillamala, now Bhinmal in Rajasthan. Italy is where Fibonacci taught the Indian digits, about 800 years ago.
-9. (mcq) The word 'zero' travelled with the idea. Which word did it start from?  
+8. (mcq) The word 'zero' travelled with the idea. Which word did it start from?  
    Options: Shunya, Sanskrit for empty / Zebra / Circle  
    **Answer:** Shunya, Sanskrit for empty. *Why:* Shunya became sifr in Arabic, zephirum in Latin, and then zero.
-10. (mcq) Mehak measures a pencil from the very edge of her ruler. The 0 mark is 5 mm in from the edge. What happens?  
+9. (mcq) Mehak, a girl in Class 3, measures a pencil from the very edge of her ruler. The 0 mark is 5 mm in from the edge. What happens?  
    Options: Her answer is 5 mm too long / Her answer is 5 mm too short / It makes no difference  
    **Answer:** Her answer is 5 mm too long. *Why:* The strip before the 0 is not part of the length scale. Starting at the edge adds it to every measurement, so each length is 5 mm too long.
-11. (mcq) The lift in Shalini's building in Hyderabad has buttons B2, B1, G, 1, 2. If G is 0, what number is B1?  
+10. (mcq) Shalini, a girl in Class 3, lives in Hyderabad. The lift in her building has buttons B2, B1, G, 1, 2. If G is 0, what number is B1?  
    Options: 1 / -1 / 0  
    **Answer:** -1. *Why:* B1 is one floor below the ground floor, so it is one less than zero: -1. Zero is not the smallest number.
-12. (mcq) Which of these is a 0 holding an empty place, not a 0 meaning 'none' on its own?  
+11. (mcq) Which of these is a 0 holding an empty place, not a 0 meaning 'none' on its own?  
    Options: The score 0 when nobody has any runs / The 0 in the pin code 600 028 / The 0 on an empty rain gauge  
    **Answer:** The 0 in the pin code 600 028. *Why:* In 600 028, each 0 holds a place so the other digits stay where they are. The other two answers use zero as the number for none.
 
@@ -668,19 +655,15 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 ## Open questions
 - **When and where was zero first written as a dot or circle in India?** The Bakhshali manuscript might hold a zero from about 1,700 years ago, but historians argue about its dates. Older writings may have been lost, because palm leaves and birch bark rot.
 - **Is there anywhere in the universe with exactly nothing in it?** Even the emptiest space has a tiny amount of energy that physicists have measured. Nobody knows whether a perfect nothing is possible.
-- **Do bees, crows and other animals understand zero the way people do?** Bees and crows treat 'none' as less than one in tests. Scientists still argue whether that is the same idea as our zero.
 - **Did time have a zero, a moment when it began?** Most scientists think the universe began growing about 13.8 billion years ago. Nobody knows whether anything came before that.
-- **Did people invent numbers, or find them?** Mathematicians and philosophers have argued about this for over 2,000 years, and still disagree.
 
 ## Questions to ask kids
 - How many tails do you have? How many legs? Which answer is zero?
 - What is the biggest number you can make with the digits 0, 5 and 2? The smallest?
 - If I write 50 and forget the 0, how many rupees have I written?
-- Can you share 6 laddus among 0 friends? What happens?
 - Which floor is the ground floor in a lift? Is there anything below it?
 - What is 1,000 × 0? What is 1,000 + 0?
 - Where did you see a 0 today?
-- Can you think about nothing at all for ten seconds? What happened?
 
 ## Jokes
 - How is a medu vada like a zero? *Both are round, with nothing in the middle.*
@@ -688,21 +671,15 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - Why did the Romans find maths so hard? *They had nothing to start with.*
 - How many idlis can you eat on an empty stomach? *Just one. After that, your stomach isn't empty.*
 - Why was 520 upset when the 0 went on holiday? *It felt ten times smaller.*
-- What did the cricket scorer draw when nothing happened? *The point of the game: a dot!*
 - Why is zero never worried before a test? *It has nothing to worry about.*
 - What did 1 say to 0? *Stand next to me and we'll be ten.*
-- Why did 12 refuse to be divided by zero? *It didn't want to end up in an error.*
 - What do you call a lift that only goes to floor 0? *Grounded.*
 - How much dirt is in a hole 1 metre deep and 1 metre wide? *None. It's a hole!*
-- What did the empty katori say to the full one? *I may hold nothing, but I'm holding my place.*
-- Why did Brahmagupta's zero never get lonely? *It could sit next to any number and make it ten times bigger.*
-- What is the quietest number? *Zero. It never adds anything.*
-- Why did the ruler start at zero? *Because it hadn't measured anything yet.*
 
 ## Connected maths
 - In the missing zero test, 3 readers each read the 3 cards with a blank at the end. That is 9 readings. Only 1 reading was right. How many were wrong? **8 readings were wrong.**. 3 readers each read 3 cards, so there were 3 × 3 = 9 readings. 1 was right. 9 - 1 = 8 were wrong. (queues `math.multiplication.equal-groups.L3`)
 - With 3 katoris and the digits 0, 4 and 7, used once each, how many different 3-digit numbers can you make? A 3-digit number cannot start with 0. **4 numbers: 407, 470, 704 and 740.**. The Hundreds katori can hold 4 or 7, not 0. If it holds 4, the others can be 07 or 70: 407 and 470. If it holds 7: 704 and 740. That is 4 numbers. (queues `math.number-sense.place-value.L3`)
-- Kavya forgot the 0 when she wrote ₹500 in her savings book. She wrote ₹50. How much money went missing from her record? **₹450.**. She meant 500 but wrote 50. 500 - 50 = 450. A missing 0 at the end made the number ten times smaller. (queues `math.addition-subtraction.word-problems.L3`)
+- Kavya, a girl in Class 3, forgot the 0 when she wrote ₹500 in her savings book. She wrote ₹50. How much money went missing from her record? **₹450.**. She meant 500 but wrote 50. 500 - 50 = 450. A missing 0 at the end made the number ten times smaller. (queues `math.addition-subtraction.word-problems.L3`)
 - In the ruler test, the pencil measured 15.5 cm from the edge and 15 cm from the 0 mark. A crayon measured 9 cm from the 0 mark. What will it measure from the edge? **9.5 cm.**. The strip before the 0 adds 15.5 - 15 = 0.5 cm, which is 5 mm. It adds the same to every object. So the crayon will measure 9 + 0.5 = 9.5 cm from the edge. (queues `math.measurement-basics.reading-scales.L3`)
 - 12 beans are shared into groups of 6, then 4, then 3, then 2, then 1. How many groups are there each time? What is the pattern? What happens with groups of 0? **2, 3, 4, 6 and 12 groups. Smaller groups give more groups. With groups of 0, there is no answer, because the heap never gets smaller.**. 12 ÷ 6 = 2, 12 ÷ 4 = 3, 12 ÷ 3 = 4, 12 ÷ 2 = 6, 12 ÷ 1 = 12. As each group gets smaller, you need more groups. A group of 0 uses up no beans, so no number of groups is ever enough. (queues `math.division.sharing-and-grouping.L3`)
 
@@ -718,8 +695,8 @@ Nothing and Forever (sci.nothing-and-forever.L3): Topic-level song for Nothing a
 - [Bodleian Libraries, University of Oxford](https://www.bodleian.ox.ac.uk) · interactive: The library that keeps the Bakhshali manuscript. Search the site for 'Bakhshali' to see photos of its dot zeros.
 
 ## Things to buy
-- [Zero Is the Leaves on the Tree, by Betsy Franco (picture book)](https://www.amazon.in/s?k=Zero+Is+the+Leaves+on+the+Tree) (book): Short pictures of zero in everyday life, like an empty swing and a bare tree. Good after the zero hunt, and for a younger sibling. Borrowing works just as well. Used in a1. Read it together after the zero hunt.
-- [Zero: The Biography of a Dangerous Idea, by Charles Seife (for the parent)](https://www.amazon.in/s?k=Zero+The+Biography+of+a+Dangerous+Idea) (book): The history of zero, from Babylon to India to Europe, told for grown-ups. Read the chapters on India and on dividing by zero before the project. Used in p1. Optional reading for the parent before Zero's journey.
+- [Zero Is the Leaves on the Tree, by Betsy Franco (picture book)](https://www.amazon.in/s?k=Zero+Is+the+Leaves+on+the+Tree) (book): Short pictures of zero in everyday life, like an empty swing and a bare tree. Good after the zero hunt. Borrowing works just as well. Used in a1. 
+- [Zero: The Biography of a Dangerous Idea, by Charles Seife (for the parent)](https://www.amazon.in/s?k=Zero+The+Biography+of+a+Dangerous+Idea) (book): The history of zero, from Babylon to India to Europe, told for grown-ups. Read the chapters on India and on dividing by zero before the project. Used in p1. 
 
 ## Warm-up
 - What is 7 + 0? → 7.

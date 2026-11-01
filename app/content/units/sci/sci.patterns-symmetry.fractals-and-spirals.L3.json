@@ -54,7 +54,7 @@
   {
    "term": "Floret",
    "meaning": "One of the small parts that a cauliflower or broccoli head is made of.",
-   "example": "Amma breaks the cauliflower into florets to make gobi curry.",
+   "example": "A cook breaks the cauliflower into florets to make a curry.",
    "art": "A pile of cauliflower florets in a steel bowl."
   },
   {
@@ -67,13 +67,13 @@
    "term": "Spiral",
    "meaning": "A curve that winds around a centre, getting further from the centre as it goes.",
    "example": "A jalebi, a murukku and a snail shell are all spirals.",
-   "art": "A jalebi, a murukku and a snail shell side by side, each with its spiral traced in colour."
+   "art": "A jalebi, a murukku and a snail shell side by side, each with the spiral traced in colour."
   },
   {
    "term": "Seed head",
    "meaning": "The middle of a flower, where many seeds grow packed together.",
    "example": "The big brown middle of a sunflower is a seed head, with hundreds of seeds in spiral rows.",
-   "art": "A close-up of a sunflower's brown seed head with its spiral rows."
+   "art": "A close-up of a sunflower's brown seed head with the spiral rows."
   },
   {
    "term": "Golden angle",
@@ -84,7 +84,7 @@
   {
    "term": "Fibonacci numbers",
    "meaning": "The list 1, 1, 2, 3, 5, 8, 13, 21, 34 and so on. Each number is the two before it added together.",
-   "example": "Most pineapples have 8 spirals going one way and 13 going the other. Both are Fibonacci numbers.",
+   "example": "Many pineapples have 8 spirals going one way and 13 going the other. Both are Fibonacci numbers.",
    "art": "The numbers 1, 1, 2, 3, 5, 8, 13 written along a curling line."
   },
   {
@@ -110,7 +110,7 @@
    "examples": [
     "A cauliflower: florets look like small cauliflowers.",
     "A fern: each leaflet looks like a small frond, and on many ferns each leaflet has its own smaller leaflets.",
-    "A tree: one branch, with all the twigs on it, looks like a small tree."
+    "A tree: one branch together with the twigs growing from that branch looks like a small tree."
    ],
    "perspectives": [],
    "art": "Three zoom circles: a whole cauliflower, then a floret, then a piece of floret, each looking alike."
@@ -173,7 +173,7 @@
     },
     {
      "who": "The growing tip explanation",
-     "explanation": "At the growing tip, each new bud uses up a growth chemical called auxin from the space around it. The next bud can only start where most auxin is left, in the biggest gap. Doing this again and again gives the golden angle on its own. This was shown in experiments on plant tips in the early 2000s."
+     "explanation": "At the growing tip, each new bud uses up a growth chemical called auxin from the space around it. The next bud can only start where the most auxin is left, in the biggest gap. Doing this again and again gives the golden angle on its own. This was shown in experiments on plant tips in the early 2000s."
     },
     {
      "who": "Many plant scientists today",
@@ -348,7 +348,7 @@
    "\"Look,\" said Meenakshi. \"The crab is walking a different beach from us.\"",
    "\"It is the same beach,\" said Farhan.",
    "\"Is it?\" asked Paati. \"Let's find out. Tomorrow we will measure the beach the way the crab walks it.\"",
-   "The next evening Paati gave each of them a stick. Each stick was exactly one metre long. Farhan checked it with his tape. \"This time,\" she said, \"you must follow the line of the wet sand. Lay the stick down, end to end, in every curve.\"",
+   "The next evening Paati gave each of them a stick. Each stick was exactly one metre long. Farhan checked it with his tape. \"This time,\" said Paati, \"you must follow the line of the wet sand. Lay the stick down, end to end, in every curve.\"",
    "It was slow work. The wet line bent around puddles. It went into a little bay the size of a mat and came out again. It wriggled around the rocks near the lighthouse. Meenakshi laid the stick. Farhan made a mark at its end with his toe. Then she laid it again from the mark.",
    "At the black rocks, Farhan added up their marks. \"Three hundred and ten metres,\" he said. He frowned. \"Yesterday it was two hundred and forty.\"",
    "\"Did the beach grow in the night?\" asked Meenakshi.",
@@ -358,15 +358,14 @@
    "\"Then which number is the real length?\" asked Farhan.",
    "Paati thought about this for a while. \"Every number is real,\" she said. \"Each one is true for the stick that made it. When you tell someone the length of a beach, tell them your stick too.\"",
    "Meenakshi picked up a small shell from the wet sand. It was curled like a jalebi. Farhan took it and turned it over. \"Even this shell has curves inside curves,\" he said. \"Look at the edge.\"",
-   "\"That shell is a snail's house,\" said Paati. \"The snail made it bigger by adding a new edge at the opening, a little wider each time. So the shell curled round as the snail grew.\"",
+   "\"That shell is a snail's house,\" said Paati. \"The snail made the shell bigger by adding a new edge at the opening, a little wider each time. So the shell curled round as the snail grew.\"",
    "That night, Farhan wrote in his notebook: \"Beach. Rope: 240 metres. Stick: 310 metres. Crab: we cannot measure.\" Then he drew the crab, running along the wet edge, going into every curve."
   ],
   "epiphany": "For the parent: the rope and the stick measured the same beach, but the stick gave a longer length, because it followed curves that the rope stepped across. A bendy edge has curves at every size, so its length depends on the size of what measures it. This is what the child finds on the map in the coast test.",
   "ask": [
    "Why did the stick give a longer length than the rope?",
    "Farhan said the crab walked the same beach. Meenakshi said a different one. What do you think?",
-   "If they had measured with a matchstick, would the beach come out shorter or longer? Why?",
-   "How did the snail make their shell bigger without leaving it?"
+   "If they had measured with a matchstick, would the beach come out shorter or longer? Why?"
   ],
   "art": [
    "A grandmother, a girl and a boy walking on a beach at sunset, an old lighthouse behind them and black rocks far ahead.",
@@ -390,26 +389,34 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 picture cards to cut out: 8 wholes and 8 parts",
+     "title": "16 cards to cut out: 8 wholes and 8 parts. Write the words on each card, and draw a small sketch if you like.",
      "items": [
-      "Whole cauliflower / one floret",
-      "Fern frond / one leaflet",
-      "Tree / one branch with twigs",
-      "Map of the Ganga delta / one small part of it",
-      "Lungs / one branch of airways",
-      "Snowflake / one arm with side branches",
-      "Bendy coast of Gujarat / one small bay of it",
-      "Khajuraho temple tower / one small tower on it"
+      "Whole: a cauliflower head",
+      "Part: one floret of a cauliflower",
+      "Whole: a fern frond",
+      "Part: one leaflet of a fern frond",
+      "Whole: a tree",
+      "Part: one branch of a tree plus the twigs growing from that branch",
+      "Whole: a map of the Ganga delta",
+      "Part: one small piece of the Ganga delta map",
+      "Whole: a pair of lungs",
+      "Part: one branch of the airways in the lungs",
+      "Whole: a snowflake",
+      "Part: one arm of a snowflake, with its side branches",
+      "Whole: the coast of Gujarat",
+      "Part: one small bay of the Gujarat coast",
+      "Whole: the tower of a Khajuraho temple",
+      "Part: one small tower on the Khajuraho tower"
      ]
     }
    ],
    "rules": [
-    "Lay all 16 cards face down in rows.",
+    "Cut out the 16 cards and lay them face down in four rows of four.",
     "On your turn, turn over two cards.",
-    "If they are a whole and its part, say how they look alike, and keep them.",
-    "If not, turn them back.",
+    "If one is a whole and the other is a part of that same whole, say how they look alike, and keep both cards.",
+    "If not, turn them back face down. Everyone tries to remember where they are.",
     "Playing alone? Count how many turns you take, and try to beat it next time.",
-    "When all pairs are found, the player with the most pairs wins."
+    "When all 8 pairs are found, the player with the most pairs wins. A tie is fine."
    ],
    "flow": [
     {
@@ -447,11 +454,11 @@
    ],
    "setup": [
     {
-     "art": "Sixteen small picture cards laid face down in four rows on a table.",
+     "art": "Sixteen small cards laid face down in four rows on a table.",
      "caption": "1. Lay the cards face down in rows."
     },
     {
-     "art": "Two cards turned up: a whole cauliflower and a single floret.",
+     "art": "Two cards turned up: 'Whole: a cauliflower head' and 'Part: one floret of a cauliflower'.",
      "caption": "2. Turn two over. A whole and its part? Keep them."
     }
    ]
@@ -465,14 +472,16 @@
     "with a parent",
     "with brothers, sisters or friends"
    ],
-   "context": "This is a race game played on a printed island with a very bendy coast. Players walk round the coast with different step sizes and find out who walks furthest.",
+   "context": "This is a race game played on a drawn island with a very bendy coast. Players walk round the coast with different step sizes and find out who walks furthest.",
    "printables": [
     {
-     "kind": "board",
-     "title": "A printed island with a very bendy coast and a START flag",
+     "kind": "cards",
+     "title": "4 step strips to cut out, each about half a centimetre wide",
      "items": [
-      "An island about 15 cm across with many bays",
-      "Step cards: 4 cm, 2 cm and 1 cm strips"
+      "Step strip, 4 cm long",
+      "Step strip, 3 cm long",
+      "Step strip, 2 cm long",
+      "Step strip, 1 cm long"
      ]
     },
     {
@@ -487,19 +496,20 @@
     }
    ],
    "rules": [
-    "Each player picks a step card: 4 cm, 2 cm or 1 cm.",
-    "Starting at the flag, step your strip round the coast, making a dot at each step.",
-    "Count your steps, and multiply by your strip size.",
-    "Before you count, everyone guesses who will have walked the longest coast.",
-    "The player whose guess was right scores a point. Play again with different strips."
+    "Draw an island about 15 cm across with a very bendy coast: big bays, small bays and a point sticking out. Mark START on the coast. Trace the island once for each player.",
+    "Each player takes a different step strip: 4 cm, 3 cm, 2 cm or 1 cm.",
+    "Before you step, everyone guesses who will have the longest coast, and says why.",
+    "Starting at START, step your strip round your island: hold one end on the last dot, swing the other end to touch the coast, and make a dot there. Stop when you are back at START.",
+    "Count your steps and multiply by your strip size. Write it on the score sheet.",
+    "A player whose guess was right scores a point. Swap strips and play again, until everyone has used every strip. The player with the most points wins. A tie is fine."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Give each player a step card.",
+     "do": "Draw and trace the island, then give each player a step strip.",
      "say": "Everyone walks round the same island. Who will walk the furthest? Guess before we start.",
-     "kid": "Pick a step card. Guess: who will walk the furthest round the island?"
+     "kid": "Take a step strip. Guess: who will walk the furthest round the island?"
     },
     {
      "id": "s2",
@@ -507,7 +517,7 @@
      "do": "Each player steps round the island and works out their length.",
      "say": "Step carefully, end to end. Then multiply your steps by your strip size.",
      "kid": "Step round the island. Make dots. Count your steps. Times them by your strip size.",
-     "parent": "One child alone can do all three strips in turn."
+     "parent": "One child alone can do all four strips in turn. When the last gap back to START is about half a step, count it as half a step. If it is less, leave it out."
     },
     {
      "id": "s3",
@@ -530,8 +540,8 @@
    ],
    "setup": [
     {
-     "art": "A printed island with a very bendy coast, a START flag, and three strips of card of different lengths.",
-     "caption": "1. Each player takes a strip and starts at the flag."
+     "art": "A drawn island with a very bendy coast, a START flag, and four strips of card of different lengths.",
+     "caption": "1. Each player takes a strip and starts at START."
     },
     {
      "art": "Dots round the island's coast, close together for one player and far apart for another.",
@@ -560,12 +570,12 @@
    ],
    "materials": [
     {
-     "item": "a map of India with the coast shown clearly, about the size of a notebook page or bigger. A school atlas works. You can also print the map from the app, or trace it.",
+     "item": "a large map that shows the Gujarat coast and the Kerala coast, big enough that the Gujarat coast from Daman to the Rann of Kutch is about 20 cm long. A wall map of India or a big school atlas page works. If your map is small, draw a very bendy coast and a gently curved coast, each about 20 cm long, on paper.",
      "qty": 1
     },
     {
-     "item": "a strip of thin card, such as from a cereal box or a file cover, cut into strips 4 cm, 2 cm and 1 cm long and about half a centimetre wide",
-     "qty": 3
+     "item": "a strip of thin card, such as from a cereal box or a file cover, cut into strips 4 cm and 1 cm long and about half a centimetre wide",
+     "qty": 2
     },
     {
      "item": "a piece of sewing thread, about 50 cm long",
@@ -576,7 +586,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the card strips, or helps with the scissors.",
+   "safety": "A grown-up helps a younger child with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -588,7 +598,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 2,
      "do": "1. Open the map. 2. Show your child the coast of Gujarat, from Daman up to the Rann of Kutch. 3. Show the Kerala coast too.",
      "say": "This is the coast of Gujarat. This one is Kerala. Which one is bendier? We will measure both.",
      "kid": "Find Gujarat on the map. Now find Kerala. Which coast is bendier?",
@@ -601,7 +611,7 @@
        ]
       }
      ],
-     "parent": "Gujarat has the Gulf of Kutch, the Gulf of Khambhat and the round Kathiawar peninsula. Kerala's coast is fairly smooth. The bigger the map, the clearer the result. If you have no atlas, draw a very bendy coast and a gently curved coast on a sheet of paper, each about 15 cm long."
+     "parent": "Gujarat has the Gulf of Kutch, the Gulf of Khambhat and the round Kathiawar peninsula. Kerala's coast is fairly smooth. The bigger the map, the clearer the result: on a small map the coast is only a few centimetres long and the difference between the strips is too small to see. In that case use two drawn coasts. If you have no atlas, draw a very bendy coast and a gently curved coast on a sheet of paper, each about 20 cm long."
     },
     {
      "id": "s2",
@@ -631,7 +641,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Repeat the same stretch with the 1 cm strip. 2. Count the steps. 3. The number of steps is the length in centimetres.",
+     "do": "1. Repeat the same stretch with the 1 cm strip. 2. Count the steps. 3. The number of steps is the length in centimetres. 4. Do it a second time and check you get nearly the same.",
      "say": "Now the short strip. Same start, same end. Watch where it goes that the long strip didn't.",
      "kid": "Now use the short strip. Start at the same place. Count your steps again.",
      "ask": [
@@ -653,10 +663,10 @@
     },
     {
      "id": "s6",
-     "mins": 4,
-     "do": "1. Measure the Kerala coast quickly with the 4 cm strip and the thread. 2. Compare how much each coast grew.",
+     "mins": 5,
+     "do": "1. Measure the Kerala coast with the 4 cm strip, the 1 cm strip and the thread. 2. Compare how much each coast grew.",
      "say": "Now the smooth coast. Did its length grow as much as Gujarat's?",
-     "kid": "Measure Kerala with the long strip and the thread. Did it grow as much?",
+     "kid": "Measure Kerala with the long strip, the short strip and the thread. Did it grow as much?",
      "ask": [
       {
        "q": "Which coast grew more when you measured more closely? Why?",
@@ -681,7 +691,7 @@
    ],
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, to show how to fill in the table",
+    "title": "Made-up example results from a large map, to show how to fill in the table. Your numbers will be different.",
     "cols": [
      "Coast",
      "4 cm strip",
@@ -705,8 +715,8 @@
    },
    "setup": [
     {
-     "art": "A map of India's west coast on a table, with three card strips beside it, 4 cm, 2 cm and 1 cm long, and a piece of thread.",
-     "caption": "1. Get the map, three card strips and a thread."
+     "art": "A large map of India's west coast on a table, with two card strips beside it, 4 cm and 1 cm long, and a piece of thread.",
+     "caption": "1. Get the map, two card strips and a thread."
     },
     {
      "art": "A child's hand holding a 4 cm card strip on the map, one end on the coast at Daman, the other end swung round until it touches the coast, with a pencil dot there.",
@@ -783,7 +793,7 @@
      "do": "1. Mark one scale near the bottom with the sketch pen. 2. Count the rows going up to the right, one at a time. 3. Stop when you come back to the marked row. 4. Write the number. 5. Count again.",
      "say": "Mark one row so you know where you started. Then count each row as you turn the pineapple.",
      "kid": "Mark one row. Count each row as you turn the pineapple. Stop when you reach the mark.",
-     "parent": "Mark the top of each row you count, or stick a little paper tab on it. Most pineapples have 8 rows one way and 13 the other. A big one may show 13 and 21. If your counts differ by one, count a third time."
+     "parent": "Mark the top of each row you count, or stick a little paper tab on it. Many pineapples have 8 rows one way and 13 the other. A smaller or bigger one may show another pair of neighbours in the list, such as 5 and 8 or 13 and 21. If your counts differ by one, count a third time."
     },
     {
      "id": "s4",
@@ -807,7 +817,7 @@
        "10"
       ],
       "a": 1,
-      "why": "Most pineapples have 8 and 13. Both are Fibonacci numbers, next to each other in the list. They come from each new scale growing turned about 137 and a half degrees round from the last one."
+      "why": "Many pineapples have 8 and 13. Both are Fibonacci numbers, next to each other in the list. They come from each new scale growing turned about 137 and a half degrees round from the last one."
      }
     }
    ],
@@ -865,7 +875,6 @@
      "qty": 1
     }
    ],
-   "safety": "No knife is needed. Break the pieces with your fingers. Cook and eat them afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -945,7 +954,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Pick only one leaf, and thank the plant. Don't pick leaves you don't know, as some have sap that stings.",
+   "safety": "Pick only one leaf. Don't pick leaves you don't know, as some have stinging sap.",
    "schedule": [
     {
      "day": 1,
@@ -1003,7 +1012,7 @@
    "title": "Branches With No Plan: paint between two sheets",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you squeeze thick paint between two smooth sheets and pull them apart. A branching pattern like a tree appears, though nobody drew it.",
+   "context": "In this activity you squeeze thick paint between two smooth sheets and pull them apart. A branching pattern like a tree appears that nobody drew.",
    "materials": [
     {
      "item": "thick poster paint or acrylic paint, about one teaspoon. Thick toothpaste also works.",
@@ -1018,7 +1027,6 @@
      "qty": 1
     }
    ],
-   "safety": "Paint can stain clothes. Wear an old shirt and cover the table.",
    "schedule": [
     {
      "day": 1,
@@ -1060,14 +1068,14 @@
      "do": "1. Spread the paint again with the sheets pressed together. 2. This time, pull them apart fast. 3. Compare the two patterns.",
      "say": "Now a fast pull. Will the branches be the same, thicker or thinner?",
      "kid": "Press them together again. Now pull fast. Are the branches different?",
-     "parent": "Usually a fast pull gives more, thinner branches, and a slow pull gives fewer, fatter ones. Thicker paint shows it best."
+     "parent": "Often a fast pull gives more, thinner branches, and a slow pull gives fewer, fatter ones. Thicker paint shows it best."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Press paper onto the pattern to keep a print.",
      "say": "Nobody drew these branches. So what made them?",
-     "kid": "Press paper on to keep a print. Nobody drew it. What made it?"
+     "kid": "Press paper on to keep a print. Nobody drew the branches. What made them?"
     }
    ],
    "setup": [
@@ -1097,7 +1105,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1166,7 +1173,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1189,12 +1195,13 @@
      "mins": 6,
      "do": "In each square, draw a quarter circle from one corner to the opposite corner, joining them into one curve.",
      "say": "Now draw a curve through each square, corner to corner. Join them up.",
-     "kid": "Draw a curve across each square, corner to corner. Join them into one curve."
+     "kid": "Draw a curve across each square, corner to corner. Join them into one curve.",
+     "parent": "Each curve is a quarter of a circle with its centre at the corner of the square that is nearest the middle of the drawing. The curve bulges away from the middle."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Compare the spiral with a shell, a picture of one, or a jalebi.",
+     "do": "Compare the spiral with a shell, a picture of one, or a murukku.",
      "say": "A snail adds a wider piece to their shell each time. Your spiral adds a bigger square each time. How are they alike?",
      "kid": "Each square is bigger. Each new bit of shell is wider. How are they alike?",
      "parent": "This spiral is close to the curve of many shells, but real shells each widen at their own rate. They are not all this exact spiral."
@@ -1223,7 +1230,7 @@
      "qty": 1
     }
    ],
-   "safety": "Don't touch the gas stove or anything hot. Ask before opening cupboards.",
+   "safety": "Don't touch a lit mosquito coil, a diya or the gas stove.",
    "schedule": [
     {
      "day": 1,
@@ -1239,7 +1246,7 @@
      "do": "Walk round the home together, looking for spirals and patterns inside patterns.",
      "say": "Let's find five spirals and three patterns inside patterns. Try the kitchen, the puja shelf and your own fingertips.",
      "kid": "Find 5 spirals and 3 patterns inside patterns. Look in the kitchen. Look at your fingertips!",
-     "parent": "Spirals: a murukku or jalebi, a coiled rope, a mosquito coil, the swirl of hair on top of a head, a fingerprint whorl, a shankha. Patterns inside patterns: cauliflower, broccoli, a leaf's veins, a tree from the window, a kolam, a printed saree border."
+     "parent": "Spirals: a murukku or jalebi, a coiled rope, a mosquito coil, the swirl of hair on top of a head, a fingerprint whorl, a shankha. Patterns inside patterns: cauliflower, broccoli, a leaf's veins, a tree from the window, a kolam, a saree border (Kanjivaram, Bandhani or Paithani)."
     },
     {
      "id": "s2",
@@ -1372,7 +1379,7 @@
    ],
    "creative": [
     "Use the same bay shape again and again, at smaller sizes, like a fractal.",
-    "Your lungs fit a surface close to the size of a badminton court inside your chest by branching. Some phone and radio aerials use fractal shapes for the same reason."
+    "Your lungs do this too: branching packs a very large surface into a small space."
    ],
    "your_turn": "Draw your own longest coast. Measure it. Then challenge someone at home to beat it in the same square.",
    "flow": [
@@ -1430,7 +1437,7 @@
     "Use the same turn for all 30 beans in one try."
    ],
    "materials": [
-    "a paper clock face about 20 cm across, with 60 minute marks",
+    "a paper clock face about 20 cm across, with 60 minute marks (draw round a plate; copy the 12 hour marks and 4 small marks between each from a wall clock)",
     "30 small dried beans, such as chana or moong",
     "a ruler"
    ],
@@ -1439,8 +1446,8 @@
     "A turn of 20 minutes is a third. The beans line up in 3 spokes with wide gaps."
    ],
    "creative": [
-    "A turn of 23 minutes is very close to the golden angle. The beans spread out in spirals and fill the circle evenly.",
-    "Try 22 or 24 minutes too. Close to the golden angle, but not quite, the beans start to make spokes again."
+    "A turn of 23 minutes is very close to the golden angle. The beans spread out in curving spirals instead of spokes.",
+    "Try 22 or 24 minutes too. With only 30 beans the difference is small, but the pattern changes. Compare them."
    ],
    "your_turn": "Try a turn of your own choice. Does it make spokes, or spirals? Draw what you get.",
    "flow": [
@@ -1466,7 +1473,7 @@
      "do": "1. Clear the beans. 2. Do it again, turning 23 minutes each time. Count round the minute marks carefully.",
      "say": "Now turn 23 minutes each time. Compare it with the 15 minute try.",
      "kid": "Now turn 23 minutes each time. Does it fill the circle better?",
-     "parent": "23 minutes is 138 degrees, very close to the golden angle of about 137 and a half degrees. The beans spread evenly and spirals start to appear."
+     "parent": "23 minutes is 138 degrees, very close to the golden angle of about 137 and a half degrees. Keep adding 23 and take away 60 when you pass 60: bean 1 at 0, then 23, 46, 9, 32, 55, 18. The beans spread out and spirals start to appear. Real sunflowers also place seeds so that the spacing stays even all the way out, so this paper version shows spirals but does not fill the circle perfectly."
     },
     {
      "id": "s4",
@@ -1483,7 +1490,7 @@
        "30 minutes, a half circle"
       ],
       "a": 0,
-      "why": "A quarter or a half turn lines the beans up in spokes with empty gaps between. A turn of 23 minutes, close to the golden angle, puts each bean into a gap, so the circle fills evenly."
+      "why": "A quarter or a half turn lines the beans up in spokes with empty gaps between. A turn of 23 minutes, close to the golden angle, puts each bean into a gap, so the beans spread out more evenly."
      }
     }
    ],
@@ -1506,7 +1513,7 @@
    "youtube": "I_rw-AJqpCM",
    "mins": 4,
    "why": "For the parent and curious older children: why the measured length of a coast keeps growing as the ruler shrinks, the same idea as the map test.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'What Is The Coastline Paradox?', channel Veritasium). Not watched from start to end. A parent should preview it."
+   "check": "Watch it yourself before showing it to a child."
   },
   {
    "title": "The Fibonacci Sequence: Nature's Code",
@@ -1514,15 +1521,15 @@
    "youtube": "wTlw7fNcO-0",
    "mins": 4,
    "why": "A short explanation of Fibonacci numbers in plants. Watch for whether it says every plant follows them: that is not true, as the unit explains.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The Fibonacci Sequence: Nature's Code', channel SciShow). Not watched from start to end. A parent should preview it."
+   "check": "Watch it yourself before showing it to a child."
   },
   {
    "title": "The fabulous Fibonacci flower formula",
    "channel": "Mathologer",
    "youtube": "_GkxCIW46to",
    "mins": 15,
-   "why": "For the parent: why turning by the golden angle packs seeds best, with animations of seeds placed by different turns, like the bean challenge.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The fabulous Fibonacci flower formula', channel Mathologer). Not watched from start to end. It is long and goes into more maths than the unit."
+   "why": "For the parent: why turning by the golden angle packs seeds best, with animations of seeds placed by different turns, like the bean challenge. It is long and goes into more maths than the unit.",
+   "check": "Watch it yourself before showing it to a child."
   }
  ],
  "quiz": [
@@ -1554,7 +1561,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anu steps a 2 cm strip along a bendy coast on a map. Then she uses a 1 cm strip. What happens to the length?",
+   "p": "Anu, a girl in Class 3, steps a 2 cm strip along a bendy coast on a map. Then she uses a 1 cm strip. What happens to the length?",
    "opts": [
     "It gets longer",
     "It stays the same",
@@ -1568,7 +1575,7 @@
   },
   {
    "t": "mcq",
-   "p": "Gujarat's coastline was given as about 1,600 km for many years. A new count with more detailed maps gave about 2,340 km. Why?",
+   "p": "India's coastline was given as about 7,516 km for many years. A new count with more detailed maps gave about 11,098 km. Why?",
    "opts": [
     "The detailed maps showed more small bends",
     "The sea moved back",
@@ -1594,7 +1601,7 @@
   },
   {
    "t": "mcq",
-   "p": "A fern grows in a shady forest. How do their leaflets on leaflets help them?",
+   "p": "A fern grows in a shady forest. How do the leaflets on leaflets help the fern?",
    "opts": [
     "They spread a lot of leaf to catch the little light there is",
     "They keep the fern cool",
@@ -1607,7 +1614,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rekha counts 8 spiral rows going one way on a pineapple. How many will she most likely count going the other way?",
+   "p": "Rekha, a girl in Class 4, counts 8 spiral rows going one way on a pineapple. How many will she most likely count going the other way?",
    "opts": [
     "13",
     "8",
@@ -1616,7 +1623,7 @@
    ],
    "a": 0,
    "how": "e2",
-   "why": "Most pineapples have 8 one way and 13 the other. Both are Fibonacci numbers next to each other.",
+   "why": "Many pineapples have 8 one way and 13 the other. Both are Fibonacci numbers next to each other.",
    "outcome": 3
   },
   {
@@ -1665,7 +1672,7 @@
     "They stick out into the moist air, so water freezes on them fastest",
     "The wind blows them into shape",
     "They are heavier",
-    "The snowflake chooses six friends"
+    "A cloud cuts it into shape"
    ],
    "a": 0,
    "why": "The parts that stick out furthest meet the most water vapour, so they grow fastest. Bumps on the arms grow into side branches the same way.",
@@ -1714,12 +1721,6 @@
      "why": "Fractal is the word for patterns inside patterns. It was made by Benoit Mandelbrot in 1975, from a Latin word meaning broken."
     },
     {
-     "t": "truefalse",
-     "p": "Arjun says, 'A coast measures the same length whatever ruler you use.' Is he right?",
-     "a": false,
-     "why": "False. A shorter ruler goes into smaller bends, so a bendy coast measures longer. A strong answer mentions the coast test on the map."
-    },
-    {
      "t": "match",
      "p": "Match each thing to the pattern it shows.",
      "pairs": [
@@ -1750,19 +1751,6 @@
      "how": "e1",
      "a": "The 4 cm strip stepped straight across the small bays. The 1 cm strip went into them, so it followed more of the coast's bends.",
      "why": "A strong answer says the coast did not change. Only the size of the step changed, and smaller steps follow more bends."
-    },
-    {
-     "t": "mcq",
-     "p": "Lakshmi measures the Gujarat coast on a map with a 4 cm strip and gets 20 cm. Then she uses a 1 cm strip. What will she most likely get?",
-     "opts": [
-      "More than 20 cm",
-      "Exactly 20 cm",
-      "Less than 20 cm",
-      "Zero"
-     ],
-     "a": 0,
-     "how": "e1",
-     "why": "The 1 cm strip goes into bends the 4 cm strip skipped, so the length comes out longer. Picking 'exactly 20 cm' means thinking a coast has one length whatever we measure with."
     },
     {
      "t": "draw",
@@ -1817,24 +1805,24 @@
       "Because they are broken"
      ],
      "a": 0,
-     "why": "Oxygen passes into the blood through a thin, wet surface. Branching packs a surface close to the size of a badminton court into your chest."
+     "why": "Oxygen passes into the blood through a thin, wet surface. Branching packs a very large surface into your chest."
     },
     {
      "t": "perspective",
-     "p": "Two friends in Kochi measured a beach. Divya used a long rope and got 240 metres. Farah used a 1 metre stick along every curve and got 310 metres.",
+     "p": "Two friends measured the same stretch of the Gujarat coast on a map. Divya, a girl in Class 4, used a 4 cm strip and got 20 cm. Farah, a girl in Class 3, used a 1 cm strip and got 31 cm.",
      "views": [
       {
        "who": "Divya, aged 9",
-       "says": "My rope is right. 310 must be a mistake, because the beach did not grow."
+       "says": "My strip is right. 31 must be a mistake, because the coast did not grow."
       },
       {
        "who": "Farah, aged 8",
-       "says": "My stick is right. It followed the real edge, so the beach is 310 metres."
+       "says": "My strip is right. It followed the small bays, so the coast is 31 cm."
       }
      ],
      "ask": "Which friend do you agree with? Use what you found in the coast test. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer says both numbers are true for the tool used. The stick followed more curves, so it gave more. Divya is right that the beach did not change. Farah is right that her stick followed more of the edge.",
+     "a": "A strong answer says both numbers are true for the strip used. The short strip followed more bends, so it gave more. Divya is right that the coast did not change. Farah is right that her strip followed more of the coast.",
      "why": "This tests the central idea: a bendy edge's length depends on the size of the step. Neither child made a mistake."
     },
     {
@@ -1859,12 +1847,6 @@
      ],
      "why": "A snail adds new shell only at the opening. So the centre is the oldest part, made when the snail was a baby.",
      "art": "An outline drawing of a snail shell with three empty label lines."
-    },
-    {
-     "t": "truefalse",
-     "p": "Meena says, 'A snail moves into a bigger shell when they grow.' Is she right?",
-     "a": false,
-     "why": "False. A snail never leaves their shell. They add new shell at the opening, a little wider each time. Hermit crabs move into empty shells, which may be where the idea comes from."
     },
     {
      "t": "order",
@@ -1892,10 +1874,32 @@
      "why": "A strong answer names both the whole and the part that looks like it."
     },
     {
-     "t": "count",
-     "p": "A drawn tree splits every branch into two. After the trunk splits 3 times, how many branch tips are there?",
-     "a": 8,
-     "why": "1 trunk splits into 2, then 4, then 8. Each split doubles the number of tips."
+     "t": "write",
+     "p": "Hold a leaf up to a bright window. What do the veins do as they go outwards from the middle, and why does the leaf need them?",
+     "lines": 3,
+     "how": "a2",
+     "a": "The big middle vein splits into smaller veins, and those split again. They carry water to every part of the leaf.",
+     "why": "A strong answer says the veins branch into smaller veins, and gives the job: water must reach every part of the leaf."
+    },
+    {
+     "t": "truefalse",
+     "p": "Rahim, a boy in Class 3, says, 'You can keep breaking a cauliflower floret, and every piece will look like a cauliflower, for ever.' Is he right?",
+     "a": false,
+     "how": "a1",
+     "why": "False. After a few breaks the pieces are too small to keep the shape. A real cauliflower is a fractal only over a few sizes."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do you mark one scale before counting the spiral rows on a pineapple?",
+     "opts": [
+      "So you know when you are back at the start and do not count a row twice",
+      "So the pineapple ripens faster",
+      "So the scales stay clean",
+      "So you can eat that scale first"
+     ],
+     "a": 0,
+     "how": "e2",
+     "why": "The rows wind all the way round. Without a mark you cannot tell where you started, and you may count a row twice."
     }
    ]
   },
@@ -1907,7 +1911,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Pooja measures the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?",
+     "p": "Pooja, a girl in Class 4, measures the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?",
      "opts": [
       "Gujarat, because it has more bends",
       "Kerala, because it is in the south",
@@ -1919,26 +1923,19 @@
      "why": "Gujarat has big gulfs and bays for the short strip to go into. Kerala's coast is fairly smooth, so there is little extra to follow."
     },
     {
-     "t": "write",
-     "p": "In 2024, India's coastline was counted again using more detailed maps. The length went from about 7,516 km to about 11,098 km. Did India gain new land? Explain.",
-     "lines": 4,
-     "a": "No. The coast stayed the same. The more detailed maps showed more of the small bends, so measuring them gave a longer length.",
-     "why": "This applies the coast test to a real event. A strong answer says the change came from measuring more closely, not from the coast changing."
-    },
-    {
      "t": "perspective",
      "p": "A sunflower makes each new seed in the biggest gap left by the others. Three people explain how.",
      "views": [
       {
        "who": "Anjali, a plant scientist",
-       "says": "The growing tip senses a chemical called auxin and starts each new seed where most of it is left."
+       "says": "The growing tip senses a chemical called auxin and starts each new seed where the most auxin is left."
       },
       {
        "who": "Ravi, a mathematician",
        "says": "Turning by the golden angle packs seeds best, so plants that did it made more seeds over many generations."
       },
       {
-       "who": "Selvi, a farmer",
+       "who": "Kamala, a farmer",
        "says": "The sunflower chooses where each seed goes, the way I choose where to plant each seedling."
       }
      ],
@@ -1949,7 +1946,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila places beans on a paper clock, each one 15 minutes round from the last and a little further out. What will she see?",
+     "p": "Nila, a girl in Class 3, places beans on a paper clock, each one 15 minutes round from the last and a little further out. What will she see?",
      "opts": [
       "Four straight spokes with gaps between",
       "Even spirals that fill the circle",
@@ -1961,25 +1958,17 @@
      "why": "15 minutes is a quarter circle, so every fourth bean lands on the same spoke. A turn of about 23 minutes, close to the golden angle, fills the circle instead."
     },
     {
-     "t": "fill",
-     "p": "The Fibonacci numbers go 1, 1, 2, 3, 5, 8, 13, ____.",
-     "a": [
-      "21"
-     ],
-     "why": "Each number is the two before it added together. 8 + 13 = 21."
-    },
-    {
      "t": "write",
-     "p": "A snail's shell is small at the centre and wide at the opening. Explain how the snail made it that shape, starting with the snail's problem.",
+     "p": "A snail's shell is small at the centre and wide at the opening. Explain how the snail gave the shell that shape, starting with the snail's problem.",
      "lines": 4,
      "a": "The snail keeps growing but cannot leave their shell. So they add new shell at the opening, a little wider each time. The tube winds round and gets wider, so it becomes a spiral.",
      "why": "A strong answer starts with the snail's problem, then says how adding at the opening solves it and makes the spiral."
     },
     {
      "t": "truefalse",
-     "p": "Harini reads on a poster that every sunflower has Fibonacci spirals. Is the poster right?",
+     "p": "Harini, a girl in Class 5, reads on a poster that every sunflower has Fibonacci spirals. Is the poster right?",
      "a": false,
-     "why": "False. Most counts are Fibonacci numbers, but in a 2016 study of 657 sunflowers, some heads had other numbers or no neat spirals. A strong answer says most, not all."
+     "why": "False. Many counts are Fibonacci numbers, but in a 2016 study of 657 sunflowers, some heads had other numbers or no neat spirals. A strong answer says many, not all."
     },
     {
      "t": "draw",
@@ -2081,7 +2070,7 @@
     },
     {
      "t": "write",
-     "p": "Ishaan says, 'The thread gave the true length of the coast, so the strips were wrong.' Is he right? Explain.",
+     "p": "Ishaan, a boy in Class 4, says, 'The thread gave the true length of the coast, so the strips were wrong.' Is he right? Explain.",
      "lines": 3,
      "how": "e1",
      "a": "Not quite. The thread followed smaller bends than the strips, so it gave more. But an even thinner thread, or an ant, would follow smaller bends still. Each number is true for its tool.",
@@ -2089,7 +2078,7 @@
     },
     {
      "t": "odd",
-     "p": "Three of these are spirals made by living beings. Which is the odd one out?",
+     "p": "Three of these spirals grew by themselves in living things. Which one was made by a person?",
      "opts": [
       "A jalebi",
       "A snail shell",
@@ -2097,7 +2086,7 @@
       "A shankha"
      ],
      "a": 0,
-     "why": "A jalebi is a spiral made by a cook. The snail and the sea snail grew their shells, and the pineapple plant grew the fruit's scales in spirals."
+     "why": "A jalebi is made by a cook pouring batter into hot oil. The snail shell, the shankha and the pineapple's scales grew by themselves."
     },
     {
      "t": "label",
@@ -2116,6 +2105,14 @@
      "a": 21,
      "how": "e2",
      "why": "8 + 13 = 21. That is also the next Fibonacci number, because each one is the two before it added."
+    },
+    {
+     "t": "fill",
+     "p": "The turn of about 137 and a half degrees that packs seeds best is called the ____ angle.",
+     "a": [
+      "golden"
+     ],
+     "why": "Many plants turn each new seed by the golden angle, which leaves no big gaps."
     }
    ]
   },
@@ -2125,13 +2122,6 @@
    "tier": "challenge",
    "mins": 25,
    "items": [
-    {
-     "t": "write",
-     "p": "Imagine measuring a beach with a stick the size of an ant's leg. Would the length be shorter or longer than with a 1 metre stick? Would it ever stop growing? Explain.",
-     "lines": 4,
-     "a": "Longer, because the tiny stick goes round every grain of sand. It would keep growing as the stick got smaller, until the stick reached the size of the grains, and then there are bends around even smaller bumps.",
-     "why": "A strong answer uses the idea of bends inside bends, and sees that the length keeps growing as the step shrinks."
-    },
     {
      "t": "perspective",
      "p": "Spain said its border with Portugal was 987 km. Portugal said 1,214 km.",
@@ -2152,7 +2142,7 @@
     },
     {
      "t": "mcq",
-     "p": "Leela turns her beans by 22 minutes on the paper clock, instead of 23. What will she most likely see?",
+     "p": "Leela, a girl in Class 5, turns her beans by 22 minutes on the paper clock, instead of 23. What will she most likely see?",
      "opts": [
       "The beans start to line up into spokes again",
       "Exactly the same even spirals",
@@ -2169,15 +2159,6 @@
      "lines": 5,
      "a": "Lungs: branching makes a huge surface to take oxygen into the blood. Tree: branching holds leaves out in every direction to catch light. Delta: the river splits as it drops its mud, spreading water over a wide area.",
      "why": "A strong answer gives each one's own problem, not just 'it is a fractal'."
-    },
-    {
-     "t": "draw",
-     "p": "Draw an island inside a 6 cm square with the longest coast you can. Explain the trick you used.",
-     "lines": 2,
-     "a": "A bendy island with bays inside bays, and a sentence such as 'I added small bays inside big bays.'",
-     "how": "c1",
-     "why": "More bends at smaller sizes give a longer coast in the same space. This is the trick lungs and fractal aerials use.",
-     "art": "A blank 6 cm square."
     },
     {
      "t": "mcq",
@@ -2245,7 +2226,7 @@
      ],
      "items": [
       [
-       "Most pineapples have 8 and 13 spiral rows",
+       "Many pineapples have 8 and 13 spiral rows",
        "True"
       ],
       [
@@ -2274,7 +2255,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the paint test, Aditi pulls the sheets apart very slowly once and very fast once. What is she testing?",
+     "p": "In the paint test, Aditi, a girl in Class 3, pulls the sheets apart very slowly once and very fast once. What is she testing?",
      "opts": [
       "Whether the speed of the pull changes the branches",
       "Whether paint is wet",
@@ -2284,21 +2265,6 @@
      "a": 0,
      "how": "a3",
      "why": "Only the speed changes between the two tries. So any difference in the branches comes from the speed. Usually the fast pull makes more, thinner branches."
-    },
-    {
-     "t": "order",
-     "p": "Put these in order of when they were made, from the oldest to the newest part of a snail's shell.",
-     "items": [
-      "the wide edge at the opening",
-      "the tiny curl at the centre",
-      "the middle turns"
-     ],
-     "a": [
-      "the tiny curl at the centre",
-      "the middle turns",
-      "the wide edge at the opening"
-     ],
-     "why": "The shell grows only at the opening, so the centre was made first, when the snail was tiny, and the opening is the newest."
     },
     {
      "t": "label",
@@ -2324,11 +2290,38 @@
      "why": "A snail adds to the shell opening, a snowflake adds ice to its tips, and a branch grows at its tip. A drawing is made all at once by the person drawing it."
     },
     {
-     "t": "count",
-     "p": "A Sierpinski triangle has 1 coloured triangle, then 3, then 9. How many at the next level?",
-     "a": 27,
-     "how": "a4",
-     "why": "Each coloured triangle becomes 3 smaller ones. 9 × 3 = 27."
+     "t": "write",
+     "p": "A long straight road is measured with a 1 metre stick, and then with a 10 cm ruler. Gujarat's coast grew a lot when the strip got shorter. Will the road grow as much? Explain.",
+     "lines": 3,
+     "a": "No. A straight road has hardly any bends for the shorter ruler to go into, so both give nearly the same length.",
+     "why": "A strong answer links growth in length to the number of bends. Kerala's smoother coast grew less than Gujarat's for the same reason."
+    },
+    {
+     "t": "fill",
+     "p": "In the bean test, a turn of about ____ minutes on the clock is close to the golden angle.",
+     "a": [
+      "23"
+     ],
+     "how": "c2",
+     "why": "23 minutes is about 138 degrees, close to the golden angle of about 137 and a half degrees."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the bean test in order.",
+     "items": [
+      "Compare the gaps in the two patterns",
+      "Place beans 15 minutes round from each other and a little further out each time",
+      "Draw a clock face with 60 marks and mark the centre",
+      "Clear the beans and place them again, 23 minutes round each time"
+     ],
+     "a": [
+      "Draw a clock face with 60 marks and mark the centre",
+      "Place beans 15 minutes round from each other and a little further out each time",
+      "Clear the beans and place them again, 23 minutes round each time",
+      "Compare the gaps in the two patterns"
+     ],
+     "how": "c2",
+     "why": "First draw the clock face, then place beans with the first turn, then change only the turn, then compare."
     }
    ]
   }
@@ -2347,7 +2340,7 @@
    "art": "A vegetable cart in a market with heaps of cauliflowers."
   },
   {
-   "text": "Pineapples on a fruit cart, with spiral rows of scales winding both ways.",
+   "text": "Pineapples on a fruit cart, with spiral rows of scales winding both ways. Many Indian pineapples come from Assam, Tripura, West Bengal and Kerala.",
    "art": "A fruit cart piled with pineapples, one turned to show its spiral rows."
   },
   {
@@ -2405,10 +2398,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the cauliflower go to the mirror?",
-   "a": "To meet all the little cauliflowers inside it."
-  },
-  {
    "j": "How long is the beach?",
    "a": "Tell me your ruler first."
   },
@@ -2417,32 +2406,12 @@
    "a": "No thanks, I'm just building an extension."
   },
   {
-   "j": "Why was the fern always in good company?",
-   "a": "Every leaflet was a little fern too."
-  },
-  {
    "j": "What is a pineapple's favourite staircase?",
    "a": "A spiral one."
   },
   {
-   "j": "Why did the crab win the walking race?",
-   "a": "They went round every grain of sand."
-  },
-  {
-   "j": "What did the big tree say to the twig?",
-   "a": "You look just like me when I was small."
-  },
-  {
    "j": "Why was the sunflower so good at parking?",
    "a": "They always found the biggest gap."
-  },
-  {
-   "j": "What do you call a jalebi that knows maths?",
-   "a": "A spiral thinker."
-  },
-  {
-   "j": "Why did the snowflake have so many arms?",
-   "a": "It kept reaching for more water."
   },
   {
    "j": "What did the map say to the ruler?",
@@ -2450,7 +2419,7 @@
   },
   {
    "j": "Why did the broccoli never get lost?",
-   "a": "Every part of it looked like home."
+   "a": "Every part of the broccoli looked like home."
   },
   {
    "j": "What did the lung say to the tree?",
@@ -2512,7 +2481,7 @@
    "why_maths": "A shape pattern with a rule can be counted far beyond what you can draw."
   },
   {
-   "problem": "Each time Pavithra halves her strip, the coast measures a bit longer. If the coast had bends at every size forever, would the length ever stop growing?",
+   "problem": "Pavithra, a girl in Class 4, halves the length of her strip each time, and the coast measures a bit longer each time. If the coast had bends at every size forever, would the length ever stop growing?",
    "answer": "No. A coast with bends at every size would keep getting longer, without end.",
    "explain": "Each shorter strip finds more bends to go into, so it adds more length. If there were always smaller bends, there would always be more to add, so the length would never stop growing. Real coasts stop at the size of sand grains and smaller bits.",
    "math_unit": "math.number-sense.infinity.L3",
@@ -2570,8 +2539,7 @@
    "used_in": [
     "a2",
     "p1"
-   ],
-   "plan": "Used again in many science units, for leaves, insects and crystals."
+   ]
   }
  ],
  "warmup": [
@@ -2704,7 +2672,7 @@
    {
     "source": "Jain teaching of anekantavada, many-sidedness, told with the story of the blind men and the elephant (also in the Buddhist Udana 6.4)",
     "teaching": "Each blind man touches one part of the elephant and describes that part truly, but no one of them has the whole elephant.",
-    "link": "The rope, the stick and the crab each measured the beach truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast."
+    "link": "The 4 cm strip, the 1 cm strip and the thread each measured the coast truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast."
    }
   ],
   "science": [
@@ -2734,7 +2702,7 @@
   ],
   "art": "A child on a beach at sunset looking down at the wet edge, with three zoom circles above: the curving coast from the sky, a small bay, and the curves around a single pebble."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Choices made: the main investigation uses a map and card strips, so it works in any flat. Gujarat's coast is used because its gulfs give a big, clear difference, and Kerala's smooth coast is measured too, to show that bendier coasts grow more. A bigger map gives a clearer result, and a drawn coast works if there is no atlas. Children need help holding the strip flat while swinging it to the coast. Crystal growing with salt and sugar is in the Crystals unit, so this unit shows branching growth with snowflakes and with paint pulled apart between two sheets, which works with thick poster paint or toothpaste. The pineapple count needs a mark on the starting row, or children count a row twice. The bean challenge uses small beans so 30 fit in a 20 cm clock face. Snails and ferns are not needed in the spine: they are pictures and stories, with the shell drawing and the fern house as extras. The spine fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Choices made: the main investigation uses a map and card strips, so it works in any flat. Gujarat's coast is used because its gulfs give a big, clear difference, and Kerala's smooth coast is measured too, to show that bendier coasts grow more. A bigger map gives a clearer result, and a drawn coast works if there is no atlas. Children need help holding the strip flat while swinging it to the coast. Crystal growing with salt and sugar is in the Crystals unit, so this unit shows branching growth with snowflakes and with paint pulled apart between two sheets, which works with thick poster paint or toothpaste. The pineapple count needs a mark on the starting row, or children count a row twice. The bean challenge uses small beans so 30 fit in a 20 cm clock face. Snails and ferns are not needed in the spine: they are pictures and stories, with the shell drawing and the fern house as extras. The spine fits about 85 minutes. The coast test needs a big map: on a small map the difference between strips is too small to see, so a drawn coast is the fallback.",
  "how_we_found_out": {
   "story": "Lewis Fry Richardson was an English scientist who hated war. In the 1940s he asked a question: do countries with longer borders fight more wars? To find out, he needed the lengths of borders. He looked them up in reference books and found a problem. Spain said its border with Portugal was 987 kilometres long. Portugal said the same border was 1,214 kilometres long. Most people assumed that one country had simply made a mistake. Richardson measured coasts and borders on maps himself. He stepped along them with a measuring tool set to a long step, then a shorter one, then shorter again. Every time the step got shorter, the length got longer, and bendier lines grew faster. Neither country was wrong. They had measured with different steps. His work was published in 1961, after he died. In 1967, Benoit Mandelbrot used it in a paper called 'How Long Is the Coast of Britain?'. In 1975, he named such shapes fractals.",
   "who": "Lewis Fry Richardson, an English scientist, and Benoit Mandelbrot, a mathematician",

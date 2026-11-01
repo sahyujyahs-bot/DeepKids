@@ -118,13 +118,13 @@ We have been learning how microbes and worms turn peels into compost, and why ai
 
 **Deep truth.** In your test, the peels pressed alone went slimy and smelled sour. The same peels mixed with dry paper smelled like damp soil. Paper let air in, and microbes that use air did the work. So the smell of rotting tells us which microbes are at work, and whether they have air.  
 *Habit it breaks:* We say 'garbage stinks', as if the bad smell were packed inside the waste. But the same peels smelled sour in one jar and earthy in the other. The smell depends on who is feeding on the waste, and that depends on air.  
-*Evidence:* In the paper jar test, jar A, with peels alone, collected liquid and smelled sour within a few days. Jar B, with the same peels and paper, stayed drier and smelled milder, like damp earth. Stirring a jar every day also made it smell less sour. In dumps, where garbage is pressed down with no air, food and paper last for decades.
+*Evidence:* In the paper jar test, jar A, with peels alone, collected liquid and smelled sour within a few days. Jar B, with the same peels and paper, stayed drier and smelled milder, like damp earth. Stirring a jar every day can also make it smell less sour. In dumps, where garbage is pressed down with no air, food and paper last for decades.
 
 - *who am i:* Your gut is full of microbes that live without air. They help digest the fibre in your food.
 - *what is life:* Every peel you throw away is food for millions of microbes, fungi and worms. Their meal becomes soil for new plants.
 - *what is this world:* The tiny particles in a peel are never lost. They go into the air and the soil, and plants build new leaves from them.
 
-A peel was once part of a living mango tree or tomato plant. Microbes and worms feed on it, and break it into water, carbon dioxide and nutrients. A new plant takes these up and builds new leaves and fruit from them. Then someone eats the fruit, and the peel goes back to the microbes. The same tiny particles pass from plant to microbe to soil to plant again, through countless lives. Many different beings are made, in turn, of the same one store of stuff.
+A peel was once part of a living mango tree or tomato plant. Microbes and worms feed on it, and break it into water, carbon dioxide and nutrients. A new plant takes these up and builds new leaves and fruit from them. Then someone eats the fruit, and the peel goes back to the microbes. The same tiny particles pass from plant to microbe to soil to plant again, through countless lives.
 
 - **Taittiriya Upanishad 3.2 (Bhrigu Valli):** Bhrigu came to understand that food is Brahman, the whole. From food all beings are born. By food they live. Into food they return when they leave. (A peel was food for us. In the compost pot it becomes food for microbes and worms. Their compost becomes food for plants, and the plants become food for us again.)
 - **Thich Nhat Hanh, Peace Is Every Step (1991), the chapter 'The Rose and the Garbage':** Look deeply at a rose, and you can see the garbage it will become. Look deeply at garbage, and you can see the compost and the roses it will become. (In the project, peels became the compost that a tulsi or marigold grows in. The flower and the garbage are the same stuff at different times.)
@@ -134,14 +134,12 @@ A peel was once part of a living mango tree or tomato plant. Microbes and worms 
 - Practice, Breathe with the soil (3 min): Let's hold a handful of soil from a plant pot, or ready compost. Bring it close and breathe in slowly through your nose. That smell is made by bacteria, millions of them, living in your hand. Now breathe out slowly. Your breath carries carbon dioxide, just like the breath of the microbes in the compost. Let's breathe in and out three more times, and feel that we are breathing alongside them.
 - Ask: If the tomato you eat was built partly from an old peel, where does the peel end and the tomato begin?
 - Ask: Microbes in the jar sensed air and water and grew where they could. Is that a kind of choosing?
-- Ask: Is anything really rubbish, if some living being can eat it?
 
 ## Deep and big questions
-- *deep:* A peel becomes compost, and the compost feeds a tomato plant. Is the tomato made of the old peel? (hint: The tiny particles in the peel do not disappear. Where can they go?)
 - *deep:* Some microbes need air and some live without it. Do the microbes in the pot choose where to live? (hint: Bacteria sense what is around them and move. What would they sense in a stirred pot and in a pressed-down one?)
-- *big:* Is anything really waste, if some living thing can eat it? (hint: Think of who feeds on a banana peel, and who feeds on them.)
 - *big:* Your own gut is full of microbes that live without air. Are they part of you, or guests? (hint: They help digest your food, and you give them a home.)
 - *big:* When we throw something 'away', where is away? (hint: Follow the garbage truck in your mind. Where does it stop?)
+- *deep:* A worm eats a peel and leaves a cast. Does she know what she is doing? (hint: A worm has no eyes, but she moves away from light and towards damp food. What does she sense?)
 
 ## Story: Chithappa's Smelly Bucket
 *Meenakshi, her family and their flat are made up. The way they fix the bucket is the real way to fix a smelly compost pot.*
@@ -190,7 +188,7 @@ From then on, every evening, Meenakshi put the day's peels in. Chithappa covered
 
 Eight weeks later, Meenakshi tipped the bottom of the bucket out onto a newspaper. It was dark brown and crumbly. She could not find a single peel in it. She held a handful to her nose. It smelled exactly like Paati's garden after the first rain.
 
-She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithappa watched her press the soil around the roots.
+She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chithappa watched her press the soil around the roots.
 
 "So the same peels can stink, or turn into this," he said slowly. "It depends on who gets to eat them."
 
@@ -205,25 +203,25 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 
 ## Games
 ### g1 · Keep the Pot Sweet: a compost card game (20 min)
-- **rules:** Shuffle the cards and put them face down. Each player has a pot card, Sweet side up.; On your turn, take the top card and read it out.; GREEN or BROWN: put it in that column of your pot.; NOT IN THE POT: say why it does not go in, and which bin it goes in instead. If you are right, score 1 point.; STIR, RAIN, TIGHT LID, DRY WEEK, WORM FRIEND: do what the card says.; After every turn, count your pot. If you have more greens than browns, turn your pot to Sour. A Sour pot turns Sweet again when your browns are equal to or more than your greens, or when you play a STIR card.; When all the cards are used, every Sweet pot scores 3 points. The most points wins.
-- **Printable cards: 32 cards to cut out:** GREEN: banana peel; GREEN: tomato skins; GREEN: onion skins; GREEN: used tea leaves; GREEN: papaya peel; GREEN: drumstick ends; GREEN: watermelon rind; GREEN: carrot peel; GREEN: coconut scrapings; GREEN: wilted coriander; GREEN: mango skin; GREEN: cucumber peel; BROWN: dry leaves; BROWN: torn newspaper; BROWN: egg tray; BROWN: cocopeat; BROWN: dry coconut husk, torn small; BROWN: brown paper bag; BROWN: dry flowers from a garland; BROWN: sawdust from untreated wood; NOT IN THE POT: plastic milk packet; NOT IN THE POT: used battery; NOT IN THE POT: leftover chicken curry; NOT IN THE POT: shiny chocolate wrapper; NOT IN THE POT: glass bottle; NOT IN THE POT: leftover rice; STIR! Stir your pot. If it is sour, it turns sweet.; STIR! Stir your pot. If it is sour, it turns sweet.; HEAVY RAIN on the balcony: add 1 extra green to your pot.; TIGHT LID: no air gets in. Your pot goes sour, unless it has at least 2 more browns than greens.; DRY WEEK: nothing happens in your pot. Answer: what should you add? (A little water); WORM FRIEND: a worm visits. Answer: what does a worm need? (Damp, dark, and food)
-- **Printable board: One pot card for each player, with two columns: Greens and Browns, and a Sweet or Sour sign to turn over:** Greens column; Browns column; Sweet side: smells like damp earth; Sour side: smells like old curd
-- **Printable score sheet: Score sheet:** 1 point for each NOT IN THE POT card you put in the right bin and explain; 1 point for each correct answer on a question card; 3 points at the end if your pot is sweet
+- **rules:** Shuffle the 32 cards and put them face down. Each player has a pot card, Sweet side up. Put the WET markers in the middle.; On your turn, take the top card and read it out.; GREEN or BROWN: put it in that column of your pot, or put it on the discard pile if you do not want it.; NOT IN THE POT: say why it does not go in the pot, and which bin it goes in. Turn the card over to check. If you are right, score 1 point. Then put the card on the discard pile.; STIR, HEAVY RAIN and TIGHT LID: do what the card says. DRY WEEK and WORM FRIEND: answer the question, turn the card over, and score 1 point if you are right.; A pot is sour when it has more greens than browns. WET markers count as greens. After every turn, check your pot and turn the pot card to the right side.; The game ends when the last card is played. Every pot that is Sweet scores 3 points. The most points wins. If points are equal, the player with the most browns wins.; Playing alone: play one pot through all 32 cards and try to beat your own score next time.
+- **Printable cards: 32 cards to cut out:** GREEN: banana peel; GREEN: tomato skins; GREEN: onion skins; GREEN: used tea leaves; GREEN: papaya peel; GREEN: drumstick ends; GREEN: watermelon rind; GREEN: pumpkin peel; GREEN: coconut scrapings; GREEN: wilted palak stalks; BROWN: dry leaves; BROWN: torn newspaper; BROWN: egg tray; BROWN: cocopeat; BROWN: dry coconut husk, torn small; BROWN: brown paper bag; BROWN: dry flowers from a garland; BROWN: sawdust from untreated wood; BROWN: dry banana leaf, torn; BROWN: dry bamboo leaves; NOT IN THE POT: plastic milk packet. Say why it does not go in the pot, and which bin it goes in. Then turn the card over to check. (back: Rinse it and put it in the dry-waste bin. Plastic does not rot.); NOT IN THE POT: used battery. Say why it does not go in the pot, and which bin it goes in. Then turn the card over to check. (back: Hazardous waste. Keep it in a closed box for a battery collection point.); NOT IN THE POT: leftover fish curry. Say why it does not go in the pot, and which bin it goes in. Then turn the card over to check. (back: Wet-waste bin for the truck. In a small pot, cooked food smells and brings rats.); NOT IN THE POT: shiny chocolate wrapper. Say why it does not go in the pot, and which bin it goes in. Then turn the card over to check. (back: Dry-waste bin. Foil and plastic do not rot.); NOT IN THE POT: glass bottle. Say why it does not go in the pot, and which bin it goes in. Then turn the card over to check. (back: Dry-waste bin, to be recycled. Glass does not rot.); NOT IN THE POT: leftover rice. Say why it does not go in the pot, and which bin it goes in. Then turn the card over to check. (back: Wet-waste bin for the truck. In a small pot, cooked rice smells and brings rats.); STIR! Take one GREEN card or one WET marker out of your pot and put it on the discard pile. If you have none, nothing happens. (back: Stirring lets air in, so the pot is less sour.); STIR! Take one GREEN card or one WET marker out of your pot and put it on the discard pile. If you have none, nothing happens. (back: Stirring lets air in, so the pot is less sour.); HEAVY RAIN on the balcony: put 1 WET marker in the Greens column of your pot. It counts as 1 green.; TIGHT LID: no air gets in. Put 2 WET markers in the Greens column of your pot. They count as 2 greens.; DRY WEEK: nothing happens in your pot this week. Question: what should you add to a dry pot? Say your answer, then turn the card over. (back: A little water. Microbes need water to work. If you were right, score 1 point.); WORM FRIEND: a worm visits your pot. Question: what does a worm need? Say your answer, then turn the card over. (back: Damp, dark and food. If you were right, score 1 point.)
+- **Printable cards: 4 pot cards to cut out (one for each player, front and back):** MY POT: SWEET SIDE. Smells like damp earth. Two columns: GREENS on the left, BROWNS on the right. Put your cards in the columns. (back: MY POT: SOUR SIDE. Smells like old curd. Too many greens and not enough air. Add browns or play a STIR card.); MY POT: SWEET SIDE. Smells like damp earth. Two columns: GREENS on the left, BROWNS on the right. Put your cards in the columns. (back: MY POT: SOUR SIDE. Smells like old curd. Too many greens and not enough air. Add browns or play a STIR card.); MY POT: SWEET SIDE. Smells like damp earth. Two columns: GREENS on the left, BROWNS on the right. Put your cards in the columns. (back: MY POT: SOUR SIDE. Smells like old curd. Too many greens and not enough air. Add browns or play a STIR card.); MY POT: SWEET SIDE. Smells like damp earth. Two columns: GREENS on the left, BROWNS on the right. Put your cards in the columns. (back: MY POT: SOUR SIDE. Smells like old curd. Too many greens and not enough air. Add browns or play a STIR card.)
+- **Printable tokens: 4 WET markers:** WET; WET; WET; WET
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and pot cards. 2. Shuffle the cards. 3. Give each player a pot card, Sweet side up.  
   *Parent says:* Each of us has a compost pot. We want to keep it sweet, smelling like damp earth, not sour. Let's play.  
   *Child mode:* You have a compost pot. Keep it sweet, not sour. Mix the cards and start.
 - **s2 (12 min)**  
-  *Parent does:* Take turns. After each turn, everyone counts greens and browns in their pot.  
+  *Parent does:* Take turns. After each turn, count the greens and browns in your pot.  
   *Parent says:* Your pot has three greens and one brown. Is it sweet or sour? Why?  
   *Child mode:* Count your greens and browns. More greens? Your pot goes sour.
   - Ask: Why does a pot with more greens than browns go sour? (good: Too wet.; Not enough air.; The browns soak up the wet and let air in.)
   - Note: When a pot turns sour, ask what would fix it in real life: more browns, and stirring.
 - **s3 (5 min)**  
-  *Parent does:* Count the points. Then ask the last question.  
+  *Parent does:* 1. Count the points. 2. Ask the last question.  
   *Parent says:* Who has a sweet pot? What did they do to keep it sweet?  
   *Child mode:* Count your points. How did you keep your pot sweet?
-  - Check: Kavya's pot has 4 greens and 1 brown. It smells sour. Which card would help most? → **Torn newspaper, a brown**
+  - Check: A pot has 4 greens and 1 brown. It smells sour. Which card would help most? → **Torn newspaper, a brown**
 
 ## Experiments
 ### e1 · Peels Alone or Peels with Paper: which jar smells of earth? (50 min, 10 days)
@@ -231,9 +229,9 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 - **predict:** Before you start, guess. Which jar will smell worse after a week, A with peels alone or B with peels and paper? And why do you think so?
 - **fair test:** Both jars are the same size, hold the same amount of the same peels, get one spoon of soil each, are pressed down the same amount and stand side by side under the same cloth. Only one thing is different: the paper in jar B. So any difference comes from the paper.
 - **safety:** A grown-up cuts the bottles and chops the peels. Never put your nose into a jar. Lift the cloth and waft the smell towards you with your hand. Use a spoon, not fingers, to poke the peels. Wash hands with soap after every check. Keep the jars away from the food and cooking area.
-- **record:** Fill in the table on days 3, 5, 7 and 10. On day 10, draw what the inside of each jar looked like, and draw a bar chart of the smell scores.
+- **record:** Fill in the table on days 3, 5, 7 and 10. On day 10, draw what the inside of each jar looked like, and draw a bar chart of the day 10 smell scores.
 - **results table:** Day | Jar A, peels alone: liquid at the bottom? (yes or no) | Jar A: what it looks like | Jar A: smell (0 none to 5 very bad) | Jar B, peels and paper: liquid at the bottom? | Jar B: what it looks like | Jar B: smell (0 to 5)
-- **schedule:** day 1: Make your guess and give a reason. Set up jars A and B. Cover them and put them side by side in the shade. (25 min); day 3: Look at both jars through the side. Waft the smell. Fill in the table. (4 min); day 5: Look, waft and fill in the table. (4 min); day 7: Look, waft and fill in the table. Look for white threads with a magnifying glass. (4 min); day 10: A last check. Then tip both jars out onto newspaper and look inside. Say what you think, what you saw and why. (13 min)
+- **schedule:** day 1: Make your guess and give a reason. Set up jars A and B. Cover them and put them side by side in the shade. (23 min); day 3: Look at both jars through the side. Waft the smell. Fill in the table. (4 min); day 5: Look, waft and fill in the table. (4 min); day 7: Look, waft and fill in the table. Look for white threads, with a magnifying glass if you have one. (4 min); day 10: Waft and score both jars a last time. Tip both jars out onto newspaper and look inside. Say what you think, what you saw and why. (15 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the bowl of chopped peels and the pile of torn paper. 2. Explain the two jars. 3. Ask for a guess and a reason, and write both down.  
   *Parent says:* We are going to fill two jars with the same peels. Jar B also gets dry paper mixed in. In a week, which jar do you think will smell worse? Why do you think so?  
@@ -261,16 +259,16 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
   *Parent does:* 1. Look at each jar from the side. 2. Is there liquid at the bottom? Are the peels slimy, grey, or covered with white threads? 3. Lift the cloth and waft the smell towards you. 4. Score the smell from 0 to 5. 5. Fill in the table.  
   *Parent says:* Let's check our jars. Look from the side first. Is there liquid at the bottom? Now let's waft the smell, never sniff right inside. Which jar smells worse?  
   *Child mode:* Look at each jar from the side. Is there liquid at the bottom? Wave the smell towards your nose. Give each jar a smell score.
-  - Note: In a warm Indian home, jar A usually collects brown liquid at the bottom by day 3 to 5, and the peels turn grey and slimy. It often smells sour, like old curd or vinegar, or worse. Jar B usually stays drier, because the paper soaks up the liquid. Its smell is milder and more like damp soil. White fluffy fungus threads often appear in jar B. Small fruit flies may gather on the cloth. That is normal. If both jars smell the same by day 5, give them more time. If jar A is not wet at all, the peels were too dry. Add a few watery peels to both jars and keep checking.
+  - Note: In a warm Indian home, jar A usually collects brown liquid at the bottom by day 3 to 5, and the peels turn grey and slimy. It often smells sour, like old curd or vinegar, or worse. Jar B often stays drier, because the paper soaks up the liquid. Its smell is milder and more like damp soil. White fluffy fungus threads often appear in jar B. Small fruit flies may gather on the cloth. That is normal. If both jars smell the same by day 5, give them more time. If jar A is not wet at all, the peels were too dry. Add a few watery peels to both jars and keep checking. Real jars differ with the weather and the peels, so use your own scores, whatever they are.
   - Wait: Check on days 3, 5 and 7, for about 4 minutes each time.
 - **s6 (8 min) · grown-up needed**  
-  *Parent does:* 1. On day 10, spread newspaper on the balcony floor. 2. Tip jar A out onto one side and jar B onto the other. 3. Spread each out with a spoon. 4. Look at the bottom layer of each.  
+  *Parent does:* 1. On day 10, waft both jars and fill in the table. 2. Spread newspaper on the balcony floor. 3. Tip jar A out onto one side and jar B onto the other. 4. Spread each out with a spoon. 5. Look at the bottom layer of each.  
   *Parent says:* Let's see inside. What is the bottom of jar A like? And the bottom of jar B?  
   *Child mode:* A grown-up tips both jars out onto newspaper. Look at the bottom of each. What do you see?
   - Note: The bottom of jar A is usually a grey or black, slimy, sour layer. That is where there was least air. Jar B is usually more crumbly, with paper strips going soft and brown. Afterwards, put everything into a compost pot or the wet-waste bin, and wash your hands with soap.
   - Check: Jar A had only peels. Jar B had peels and paper. Jar A went slimy and sour. Why? → **The peels in jar A were pressed together, so air could not get in**
 - **s7 (7 min)**  
-  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then draw a bar chart of the day 7 smell scores.  
+  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then draw a bar chart of the day 10 smell scores.  
   *Parent says:* Tell me what you think now. What did you see and smell? And why do you think it happened? Then let's draw a bar for each jar.  
   *Child mode:* Say what you think now. Say what you saw and smelled. Say why. Then draw a bar for each jar.
   - Ask: What did the paper change? (good: It soaked up the water.; It let air in, so different microbes did the work.; Jar B smelled more like soil.)
@@ -297,14 +295,14 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
   *Parent does:* 1. Lift the cloth on jar C. 2. Stir from the bottom to the top for 10 seconds. 3. Cover it. 4. Waft the smell of each jar and score it. 5. Write the scores.  
   *Parent says:* Stir jar C right from the bottom, so the bottom peels come up to the top. Now let's score both smells.  
   *Child mode:* Stir jar C from the bottom up. Count to ten. Then score both smells.
-  - Note: Jar D usually smells sourer by day 4 or 5, with liquid at the bottom. Jar C often smells less, because stirring brings the bottom peels up to the air. The difference is usually smaller than in the paper test, because the peels in jar C are still wet. That is a real result too. It shows that air and dryness both matter.
+  - Note: Jar D often smells sourer by day 4 or 5, with liquid at the bottom. Jar C may smell less, because stirring brings the bottom peels up to the air. The difference is usually smaller than in the paper test, because the peels in jar C are still wet. Right after you stir, jar C can smell stronger for a few minutes. Score it after a minute. If the two jars smell about the same, that is a real result too. It shows that air and dryness both matter.
   - Wait: Stir jar C and score both jars once a day, from day 2 to day 6.
 - **s4 (10 min)**  
   *Parent does:* 1. On day 7, compare the two jars. 2. Ask your child to say what they think, what they saw, and why. 3. Draw a line for each jar's scores across the week.  
   *Parent says:* Which jar smelled worse by the end? What do you think stirring did?  
   *Child mode:* Which jar smelled worse? What did stirring do? Draw a line for each jar.
   - Note: Afterwards, add both jars to a compost pot or the wet-waste bin.
-  - Check: Lakshmi stirred one jar of peels every day and left another alone. The stirred jar smelled less sour. Why? → **Stirring let air reach the peels at the bottom**
+  - Check: A friend stirred one jar of peels every day and left another alone. The stirred jar smelled less sour. Why? → **Stirring let air reach the peels at the bottom**
 
 ## Activities
 ### a1 · Two Smells: soil and the kitchen bin (10 min)
@@ -342,7 +340,6 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
   *Child mode:* Pick up one thing. Which sheet? Say why.
   - Ask: Why does the leftover rice go in Not in the pot? (good: It smells and brings rats.; Cooked food goes bad fast in a small pot.)
   - Ask: Why is the milk packet not in the pot? (good: It is plastic. Microbes can't eat it quickly.; It goes in dry waste.)
-  - Check: Which of these is a brown for a compost pot? → **A dry fallen leaf**
 - **s3 (4 min)**  
   *Parent does:* Put the greens and browns aside for the compost pot. Put the rest in the right bins: dry waste, wet waste for the truck, or hazardous waste for the battery.  
   *Parent says:* The greens and browns can go in our compost pot. The rest goes in the right bin.  
@@ -365,18 +362,17 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
   *Parent says:* Let's find it on the map. How far does our garbage travel? Now let's draw its journey.  
   *Child mode:* Find the place on the map. How far is it? Draw the journey.
   - Note: In many cities wet waste goes to a dump. Some cities, such as Mysuru and Indore, send sorted wet waste to compost or biogas plants. If nobody knows, that is an answer too.
-  - Check: Mixed garbage goes to a dump. Why does food in a dump rot so slowly? → **It is pressed tight with almost no air**
 
 ## Projects
 ### p1 · Our Balcony Compost Pot (75 min, 56 days)
 - **safety:** A grown-up makes the holes. A heated skewer melts holes easily but gets very hot: hold it with a cloth, and keep children back. Wear gloves to stir, and wash hands with soap. Keep cooked food, milk, meat and oil out, so the pot does not bring rats.
 - **record:** Keep a compost diary: the date, what you added, the smell, whether it felt warm, and what you saw. Draw the pot on days 1, 28 and 56.
-- **schedule:** day 1: Make the holes. Put a layer of browns and 2 handfuls of soil at the bottom. Add the first peels and cover them with twice as much browns. (30 min); day 2: Add today's peels. Cover them with browns. Do this every day. (3 min); day 4: Stir the pot from the bottom up. Do the squeeze test. Stir every 3 or 4 days from now on. (5 min); day 7: Waft the smell. Put a hand on the side: is it warm? Write it down. (5 min); day 14: Stir, smell and look for white fungus threads, mites and other small helpers. (5 min); day 28: Stop adding peels when the pot is about three-quarters full. Start a second pot if you can. Keep stirring this one. (5 min); day 42: Stir and look. Can you still see peels? Is the bottom turning dark and crumbly? (5 min); day 56: Tip out the compost. Pick out any big pieces to go back in. Use the compost in a pot and plant something in it. (17 min)
+- **schedule:** day 1: Make the holes. Put a layer of browns and 2 handfuls of soil at the bottom. Add the first peels and cover them with twice as much browns. (30 min); day 2: Add today's peels. Cover them with browns. Do this every day. (3 min); day 4: Stir the pot from the bottom up. Do the squeeze test. Stir every 3 or 4 days from now on. (5 min); day 7: Waft the smell. Put a hand on the side: is it warm? Write it down. A small pot may feel slightly warm or not warm at all. (5 min); day 14: Stir, smell and look for white fungus threads, mites and other small helpers. (5 min); day 28: Stop adding peels when the pot is about three-quarters full. Start a second pot if you can. Keep stirring this one. (5 min); day 42: Stir and look. Can you still see peels? Is the bottom turning dark and crumbly? (5 min); day 56: Tip out the compost. Pick out any big pieces to go back in. If it is not dark and crumbly yet, leave it 2 to 4 more weeks. Use the compost in a pot and plant a seedling in the compost. (17 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Heat the tip of a skewer on the stove, holding it with a cloth. 2. Melt about 20 small holes around the sides and bottom of the bucket. 3. Melt about 6 in the lid. 4. Stand the bucket on a tray.  
   *Parent says:* The tiny workers in a compost pot need air. These holes let air in. The tray catches any drips.  
   *Child mode:* A grown-up makes holes in the bucket. Stand back. The holes let air in.
-  - Note: If you use a terracotta pot, it already lets some air through its walls. Make sure it has a hole at the bottom, and use a plate as a lid.
+  - Note: If you use a terracotta pot, it already lets some air through its walls. Make sure it has a hole at the bottom, and use a plate as a lid. Without a stove, a grown-up can hammer a thick nail through the plastic on a wooden block instead.
 - **s2 (15 min)**  
   *Parent does:* 1. Put a layer of browns, about 2 fingers deep, at the bottom. 2. Add 2 handfuls of potted-plant soil. 3. Add today's chopped peels. 4. Cover them with about twice as much browns.  
   *Parent says:* Browns at the bottom soak up drips. The soil brings microbes. Then the peels, and then twice as much browns on top.  
@@ -397,8 +393,8 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 - **s5 (17 min)**  
   *Parent does:* 1. When the pot has had no new peels for about 4 weeks, tip it out onto newspaper. 2. Pick out any big pieces and put them back in the next pot. 3. Mix the compost into a plant pot, about one part compost to three parts soil. 4. Plant a seedling or some seeds.  
   *Parent says:* Look at it now. Can you find any peels? Smell it. What does it smell like?  
-  *Child mode:* Tip it out. Can you find any peels? Smell it. Now plant something in it!
-  - Note: Ready compost is dark, crumbly and smells like damp earth. In hot weather it can take 6 weeks after the last peels. In cool weather it can take 3 months. Don't use it alone as soil. Mix it with ordinary soil.
+  *Child mode:* Tip it out. Can you find any peels? Smell it. Now plant something in the compost!
+  - Note: Ready compost is dark, crumbly and smells like damp earth. In hot weather it can take 6 weeks after the last peels. In cool weather it can take 3 months. Don't use it alone as soil. Mix it with ordinary soil. If it is still lumpy and you can see peels, leave it a few more weeks.
 
 ## Challenges
 ### c1 · The No-Smell Kitchen Composter (35 min)
@@ -406,7 +402,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 - **your turn:** Now design your own composter. Draw it with labels: where the air gets in, where the browns go, and how it keeps flies out. Build it and use it for one week. Does it smell?
 - **constraints:** Use only things you have at home.; It must hold at least 3 days of your family's peels.; It must not smell when you stand next to it, and flies must not get in.; A grown-up must be able to empty it easily.
 - **general:** A bucket with many small air holes, and a cloth under the lid to keep flies out.; Three terracotta pots stacked on top of each other. Fill the top one. When it is full, move it down and start a new top pot. Many families in Bengaluru compost this way.; Keep a box of browns next to the bin, and cover every handful of peels with two handfuls of browns.
-- **creative:** Make a small bin with a tube up the middle, full of holes, so air reaches the centre.; Put a layer of dry leaves on top as a lid. Flies cannot smell the peels through it.; Find out about bokashi: food is sealed in a bucket with special microbes and it ferments, like a pickle, instead of rotting. Why does that not smell rotten?
+- **creative:** Make a small bin with a tube up the middle, full of holes, so air reaches the centre.; Always keep a thick layer of dry leaves on top, so that no peel shows. Fruit flies gather on peels that show.; Find out about bokashi: food is sealed in a bucket with special microbes and it ferments, like a pickle, instead of rotting. Why does that not smell rotten?
 - **s1 (5 min)**  
   *Parent does:* Remind your child of jar A in the paper jar test. Ask what made it smell.  
   *Parent says:* Remember jar A, with only peels? It went sour and slimy. What made it smell? So what must our composter do?  
@@ -424,124 +420,122 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 
 ## Worksheets
 ### Compost Basics (core) (core, 15 questions)
-1. (mcq) Which of these can go in a small compost pot at home?  
-   Options: Onion skins / A plastic spoon / Leftover chicken curry / A used battery  
-   **Answer:** Onion skins. *Why:* Onion skins are raw plant waste, so microbes turn them into compost. Plastic does not rot, cooked meat brings rats and smells, and a battery is hazardous waste.
-2. (sort) Sort these for a compost pot.  
-   **Answer:** banana peel → Greens; dry leaves → Browns; milk packet → Not in the pot; used tea leaves → Greens; torn newspaper → Browns; glass bottle → Not in the pot; carrot peel → Greens; egg tray → Browns. *Why:* Greens are wet plant waste. Browns are dry plant waste and paper. Plastic and glass do not rot, so they go in dry waste.
-3. (truefalse) Bacteria do most of the work of turning peels into compost.  
-   **Answer:** True. *Why:* True. Bacteria are too small to see, but there are so many of them that they do most of the work. Fungi and worms help.
-4. (truefalse) A compost pot works best with a tight lid and no holes.  
-   **Answer:** False. *Why:* False. Without air, microbes that live without air take over, and the pot turns sour and slimy. A compost pot needs air holes.
-5. (fill) Microbes that use air to break down food are called ____ microbes.  
+1. (sort) Sort these for a compost pot.  
+   **Answer:** banana peel → Greens; dry leaves → Browns; milk packet → Not in the pot; used tea leaves → Greens; torn newspaper → Browns; glass bottle → Not in the pot; pumpkin peel → Greens; egg tray → Browns. *Why:* Greens are wet plant waste. Browns are dry plant waste and paper. Plastic and glass do not rot, so they go in dry waste.
+2. (fill) Microbes that use air to break down food are called ____ microbes.  
    **Answer:** ['aerobic']. *Why:* Aerobic means using air. Aerobic microbes make compost that smells like damp earth.
-6. (fill) Dry things for a compost pot, such as torn newspaper and dry leaves, are called ____.  
+3. (fill) Dry things for a compost pot, such as torn newspaper and dry leaves, are called ____.  
    **Answer:** ['browns']. *Why:* Browns are dry. They soak up water and keep air spaces open.
-7. (match) Match each word to what it means.  
+4. (match) Match each word to what it means.  
    **Answer:** Compost → dark, crumbly soil made from rotted plants; Decompose → to break down because living things feed on it; Microbe → a living thing too small to see with your eyes alone; Earthworm → an animal with no legs who eats dead plants mixed with soil. *Why:* These four words come up all through the unit.
-8. (order) Put the steps for starting a compost pot in order.  
+5. (order) Put the steps for starting a compost pot in order.  
    **Answer:** ['A grown-up makes air holes in the bucket', 'Put browns and a little soil at the bottom', "Add today's chopped peels", 'Cover the peels with twice as much browns']. *Why:* First the holes, so air can get in. Then a dry bottom layer to soak up drips. Then peels, covered so flies can't reach them.
-9. (mcq) Remember the paper jar test. Jar A had peels alone, and jar B had peels with paper. Which jar usually collects brown liquid at the bottom?  
-   Options: Jar A, peels alone / Jar B, peels with paper / Neither  
-   **Answer:** Jar A, peels alone. *Why:* Peels are mostly water. In jar A, the water drains to the bottom. In jar B, the paper soaks it up.
-10. (mcq) What does good compost smell like?  
+6. (mcq) What does good compost smell like?  
    Options: Damp earth, like the first rain / Old curd / Rotten eggs  
-   **Answer:** Damp earth, like the first rain. *Why:* Good compost is made by microbes that use air. Soil bacteria in it make the smell of damp earth. Sour or rotten smells mean there is too little air.
-11. (write) In the paper jar test, jar B smelled less than jar A. Explain why. Use the words 'paper' and 'air'.  
+   **Answer:** Damp earth, like the first rain. *Why:* Good compost is made by microbes that use air. Soil bacteria in the compost make the smell of damp earth. Sour or rotten smells mean there is too little air.
+7. (write) In the paper jar test, jar B smelled less than jar A. Explain why. Use the words 'paper' and 'air'.  
    **Answer:** The paper soaked up the water from the peels and held them apart. So air could get in. Microbes that use air did the work, and they do not make sour smells.. *Why:* A full answer says what the paper did (soaked up water, kept spaces open) and why that matters (air for the microbes).
-12. (draw) Draw a compost pot that will not smell. Show the air holes, the browns and the peels. Draw arrows to show where air gets in.  
-   **Answer:** A pot with holes in the sides and lid, layers of peels covered with browns, and arrows going in through the holes.. *Why:* The drawing shows the three things a pot needs: air, browns to soak up the wet, and peels covered so flies can't reach them.
-13. (write) Mrs Rao, who lives in the next flat, says a compost pot will make the whole balcony stink. What would you tell her, and what would you show her?  
-   **Answer:** I would tell her that a pot only stinks when it has too little air or too much water. With holes, plenty of browns and stirring, it smells like damp soil. I would let her waft the smell of our pot or of jar B.. *Why:* A strong answer explains the cause of the smell and offers evidence she can check herself.
-14. (label) Label the drawing of an earthworm: mouth, gizzard, skin, worm cast.  
+8. (write) A neighbour in your building says a compost pot will make the whole balcony stink. What would you tell your neighbour, and what would you show them?  
+   **Answer:** I would tell her that a pot only stinks when it has too little air or too much water. With holes, plenty of browns and stirring, it smells like damp soil. I would let them waft the smell of our pot or of jar B.. *Why:* A strong answer explains the cause of the smell and offers evidence they can check herself.
+9. (label) Label the drawing of an earthworm: mouth, gizzard, skin, worm cast.  
    **Answer:** Mouth at the front end. Gizzard a little way behind the mouth, where food is ground with sand. Skin all over the body, which the worm breathes through. Worm cast coming out at the back end.. *Why:* A worm has no teeth, so the gizzard grinds the food. The skin must stay damp for the worm to breathe.
-15. (mcq) Why does chopping peels into small pieces help them become compost faster?  
+10. (mcq) Why does chopping peels into small pieces help them become compost faster?  
    Options: Small pieces have more surface for microbes to work on / Small pieces are lighter / Chopping kills the microbes  
    **Answer:** Small pieces have more surface for microbes to work on. *Why:* Microbes work on the outside of each piece. Cutting a peel into many pieces gives them much more outside to work on.
+11. (truefalse) Egg shells can go in a home compost pot if you crush them small.  
+   **Answer:** True. *Why:* True. Egg shells break down slowly, but crushed small they rot faster. Whole shells take a very long time.
+12. (mcq) Why does a compost bucket stand on a tray?  
+   Options: The tray catches drips of liquid from the bucket / The tray keeps the bucket warm / The tray lets air out of the lid  
+   **Answer:** The tray catches drips of liquid from the bucket. *Why:* Wet peels can drip a dark liquid. The tray catches it so it does not stain the floor.
+13. (truefalse) A plastic spoon in a compost pot turns into compost if you wait long enough.  
+   **Answer:** False. *Why:* False. Plastic does not rot, because microbes cannot feed on it quickly. It goes in the dry-waste bin.
+14. (mcq) You squeeze a handful of compost and one or two drops of water come out. What does that tell you?  
+   Options: The pot is just right: damp, like a squeezed-out sponge / The pot is far too wet / The pot is far too dry  
+   **Answer:** The pot is just right: damp, like a squeezed-out sponge. *Why:* One or two drops means damp but not soggy. Many drops mean too wet, so add browns. Dust and no drops mean too dry, so sprinkle a little water.
+15. (fill) Wet, fresh waste for a compost pot, such as peels and used tea leaves, is called ____.  
+   **Answer:** ['greens']. *Why:* Greens are wet and fresh. They must be balanced with dry browns.
 ### Air, Microbes and Dumps (stretch) (stretch, 15 questions)
-1. (mcq) Which gas with no smell do microbes make when they work without air?  
-   Options: Methane / Oxygen / Steam  
-   **Answer:** Methane. *Why:* Methane is made by anaerobic microbes. It has no smell, but it burns easily, and it traps the Sun's heat in the air.
-2. (truefalse) Newspapers dug out of landfills could still be read decades after they were thrown away.  
+1. (truefalse) Newspapers dug out of landfills could still be read decades after they were thrown away.  
    **Answer:** True. *Why:* True. William Rathje's Garbage Project found readable newspapers in landfills. Pressed tight, with little air and water, they had barely rotted.
-3. (write) A peel left on a compost pot rots in weeks. The same peel in a dump can last for years. Explain why.  
-   **Answer:** In a compost pot there is air, so aerobic microbes work fast. In a dump the garbage is pressed down with almost no air, so only slow anaerobic microbes can work.. *Why:* A full answer names the difference (air) and what it does to the microbes.
-4. (perspective) A family in Mysuru is deciding what to do with their wet waste.  
+2. (perspective) A family in Mysuru is deciding what to do with their wet waste.  
    **Answer:** A strong answer picks a side and backs it with a fact from the unit: home compost needs no truck and feeds plants, while a city plant can handle far more waste and make biogas. It then admits a fair point from another side, such as Selvi's point that sorting matters most for both.. *Why:* This is a real trade-off. Home composting needs time and space. City plants need homes to sort their waste well.
-5. (mcq) Asha's compost pot is dry and dusty. Nothing has changed in two weeks. What is wrong?  
-   Options: It is too dry for the microbes to work / It has too much air / It needs more plastic  
-   **Answer:** It is too dry for the microbes to work. *Why:* Microbes need water to digest food. When a pot is dusty, they slow down almost to a stop. Sprinkling a little water and stirring gets them going again.
-6. (fill) An earthworm breathes through their ____. That is why worms live in damp places.  
+3. (fill) An earthworm breathes through their ____. That is why worms live in damp places.  
    **Answer:** ['skin']. *Why:* A worm has no lungs. Air passes in through the damp skin. That is why worms live in damp places.
-7. (match) Match each compost problem to its fix.  
+4. (match) Match each compost problem to its fix.  
    **Answer:** Smells sour, with water at the bottom → add browns and stir; Fruit flies on top → cover the peels with browns; Dry and dusty, nothing changing → sprinkle a little water; Big pieces still there after weeks → chop the pieces smaller next time. *Why:* Each problem has a cause. Too wet, peels showing, too dry, and pieces too big each have their own fix.
-8. (order) Put the journey of a banana peel in order.  
+5. (order) Put the journey of a banana peel in order.  
    **Answer:** ['The peel goes into the compost pot', 'Microbes and worms feed on the peel', 'The peel becomes dark, crumbly compost', 'A banana plant takes up the nutrients through their roots']. *Why:* The peel is broken down by decomposers into compost. Plants then take up its nutrients to grow.
-9. (truefalse) You must have worms to make compost.  
-   **Answer:** False. *Why:* False. Bacteria and fungi do most of the work. A pot with no worms still makes compost. Worms make it faster.
-10. (draw) Draw two zoomed-in pictures: the inside of jar A, with peels alone, and the inside of jar B, with peels and paper. Show where there is air and where there is water.  
+6. (draw) Draw two zoomed-in pictures: the inside of jar A, with peels alone, and the inside of jar B, with peels and paper. Show where there is air and where there is water.  
    **Answer:** Jar A: peels squashed together, water filling the gaps, no air. Jar B: peels with strips of paper between them, small air spaces, the paper darker where it has soaked up water.. *Why:* A model drawing shows what we cannot see: the air spaces that let aerobic microbes work.
-11. (write) The middle of a big compost heap on a farm can get hotter than a cup of tea. A small pot on a balcony hardly gets warm. Why?  
+7. (write) The middle of a big compost heap on a farm can get hotter than a cup of tea. A small pot on a balcony hardly gets warm. Why?  
    **Answer:** Microbes give out heat as they work. In a big heap, the heat is trapped in the middle and builds up. A small pot loses its heat to the air quickly.. *Why:* A full answer says where the heat comes from (the microbes' work) and why size matters (a small pot loses heat fast).
-12. (mcq) Which living things make the earthy smell of soil and good compost?  
+8. (mcq) Which living things make the earthy smell of soil and good compost?  
    Options: Soil bacteria called Streptomyces / Earthworms / Flies  
    **Answer:** Soil bacteria called Streptomyces. *Why:* Streptomyces bacteria make geosmin, the substance that smells of damp earth. They grow where there is air and damp.
-13. (sort) Sort these: do they happen when microbes have air, or when they have no air?  
+9. (sort) Sort these: do they happen when microbes have air, or when they have no air?  
    **Answer:** smell of damp earth → With air; sour smell like old curd → Without air; methane gas → Without air; dark, crumbly compost → With air; slimy grey peels → Without air; rotten-egg smell → Without air. *Why:* With air, aerobic microbes make compost and earthy smells. Without air, anaerobic microbes make acids, smelly gases and methane.
-14. (mcq) India's waste rules ask every home to keep wet and dry waste in separate bins. Why?  
+10. (mcq) India's waste rules ask every home to keep wet and dry waste in separate bins. Why?  
    Options: So wet waste can be composted, and dry waste can be sorted and recycled / So the garbage truck has less to carry / Because wet waste is dangerous to touch  
    **Answer:** So wet waste can be composted, and dry waste can be sorted and recycled. *Why:* Mixed waste is hard to compost and hard to recycle. Kept apart, wet waste can become compost or biogas, and clean dry waste can be sorted and sold for recycling.
-15. (write) Before 1861, most people thought every living thing needed air. Then Louis Pasteur found microbes that live without air. Where in the paper jar test did you see signs of these microbes?  
+11. (write) Before 1861, most people thought every living thing needed air. Then Louis Pasteur found microbes that live without air. Where in the paper jar test did you see signs of these microbes?  
    **Answer:** At the bottom of jar A, where the peels were packed and wet. That is where there was least air, and it was slimy, grey and sour.. *Why:* A strong answer connects Pasteur's discovery to evidence the child saw: the airless, sour bottom layer.
+12. (sort) Sort these into the right bin.  
+   **Answer:** banana peel → Wet waste; rinsed milk packet → Dry waste; used battery → Hazardous waste; old newspaper → Dry waste; leftover rice → Wet waste; glass bottle → Dry waste. *Why:* Wet waste is food and plant waste that rots. Dry waste is paper, plastic, glass and metal. A battery is hazardous and needs a collection point.
+13. (fill) Bacteria and fungi have no mouth. They let out juices called ____ that break food into tiny pieces.  
+   **Answer:** ['enzymes']. *Why:* Enzymes break food down outside the body. Then the microbes soak up the tiny pieces.
+14. (mcq) You see white, fluffy threads on an old peel in a compost pot. What are they?  
+   Options: A fungus feeding on the peel / Cotton from the cloth / Plastic  
+   **Answer:** A fungus feeding on the peel. *Why:* White threads are a fungus. It is a helper, not a pest.
+15. (write) The paper jar test used one jar of each kind. Why would a scientist repeat the test with more jars?  
+   **Answer:** One pair of jars could be different by luck, for example if one jar got warmer. If many pairs show the same, we can trust the result more.. *Why:* A strong answer says that one result can be a fluke, and that repeating it makes the result more trustworthy.
 ### Compost Puzzles (challenge) (challenge, 15 questions)
-1. (write) Meena did the paper jar test. Her jar B, with paper, smelled worse than jar A. Give two reasons that might explain this odd result.  
+1. (write) Meena, a girl in Class 3, did the paper jar test. Her jar B, with paper, smelled worse than jar A. Give two reasons that might explain this odd result.  
    **Answer:** Perhaps she poured water into jar B, so it was too wet. Perhaps she used shiny magazine paper, which does not soak up water. Perhaps cooked food got into jar B. Perhaps jar B was pressed down much harder.. *Why:* A strong answer looks for a second thing that changed, because in a fair test only the paper should be different.
 2. (write) Plan a fair test to find out whether chopped peels become compost faster than whole peels. Say what you would keep the same and what you would change.  
    **Answer:** Two same jars, the same amount of the same kind of peel, the same soil, paper and place. Chop the peels in one jar into small pieces. Leave the other whole. Check every few days how much peel is left.. *Why:* A fair test changes only one thing, here the size of the pieces, and keeps everything else the same.
-3. (perspective) In a Hyderabad housing society, people disagree about the fallen leaves in the compound.  
+3. (perspective) In a housing society in Guwahati, people disagree about the fallen leaves in the compound.  
    **Answer:** A strong answer uses the unit's facts: dry leaves are browns that help compost stay airy and not smell, and burning makes smoke that harms lungs. It also gives a fair point to the watchman: his work is hard, and composting must not just add more work for him.. *Why:* There is a real trade-off between quick cleaning, people's health, and the work composting takes.
 4. (mcq) 100 grams of peels and paper turn into much less than 100 grams of compost. Where did most of the rest go?  
    Options: Into the air, as water and carbon dioxide made by the microbes / It vanished, and nothing is left of it anywhere / It turned into worms  
    **Answer:** Into the air, as water and carbon dioxide made by the microbes. *Why:* Nothing just vanishes. As microbes feed, they breathe out carbon dioxide and let out water, which go into the air. Picking 'vanished' is a common idea, but the stuff of the peel is still in the world.
 5. (truefalse) Every microbe that lives without air makes a rotten smell.  
    **Answer:** False. *Why:* False. The bacteria that turn milk into curd can live without air, and curd smells pleasantly sour. Bokashi bins ferment food without air, and smell like pickle, not rot.
-6. (mcq) Most of the microbes in your gut live without air. What do many of them do for you?  
-   Options: Help digest the fibre in your food / Make you breathe faster / Turn food into plastic  
-   **Answer:** Help digest the fibre in your food. *Why:* Many gut microbes break down fibre that your body cannot digest alone. So anaerobic microbes are not all bad. They help where there is no air.
-7. (draw) Draw the journey of a mango skin through the world: from the kitchen, to the compost pot, to the air and the soil, and back into a new plant.  
+6. (draw) Draw the journey of a mango skin through the world: from the kitchen, to the compost pot, to the air and the soil, and back into a new plant.  
    **Answer:** A loop: mango skin into the pot; microbes feeding; arrows to the air (carbon dioxide and water) and into compost; compost in a pot; a plant growing; carbon dioxide going into the plant's leaves.. *Why:* A strong drawing shows that the stuff of the skin goes two ways, into the air and into the soil, and that a plant takes up both again.
-8. (write) Your friend says, 'This bag says biodegradable, so it will rot in the landfill in a few weeks.' Using what Rathje's team found, what would you tell your friend?  
+7. (write) Your friend says, 'This bag says biodegradable, so it will rot in the landfill in a few weeks.' Using what Rathje's team found, what would you tell your friend?  
    **Answer:** In a landfill, garbage is pressed down with almost no air. Even newspapers and food barely rotted there for decades. So a bag that might rot in a compost heap may last for years in a landfill.. *Why:* A strong answer uses evidence (the landfill digs) and the reason (no air) to question the label.
-9. (fill) The smell of damp earth comes from a substance called ____, made by soil bacteria.  
-   **Answer:** ['geosmin']. *Why:* Geosmin is made by Streptomyces bacteria. Our noses can smell a tiny trace of it.
-10. (order) In a compost pot, which would become compost first? Put them in order, fastest first.  
+8. (order) In a compost pot, which would become compost first? Put them in order, fastest first.  
    **Answer:** ['chopped cucumber peel', 'torn newspaper', 'a whole coconut shell']. *Why:* Soft, wet, chopped peel is easiest for microbes to eat. Paper takes longer. A coconut shell is very hard and tough, and can take many months or years.
-11. (mcq) Many families in Bengaluru compost in terracotta pots. Why does a clay pot work well?  
+9. (mcq) Many families in Bengaluru compost in terracotta pots. Why does a clay pot work well?  
    Options: Its walls let a little air and water through / Clay kills smells by itself / Clay is the only thing microbes can live in  
    **Answer:** Its walls let a little air and water through. *Why:* Unglazed clay has tiny holes. Air can pass in, and extra water can soak out and dry, so the compost does not get airless and soggy.
-12. (truefalse) When a city composts its wet waste instead of dumping it, its dumps make less methane.  
+10. (truefalse) When a city composts its wet waste instead of dumping it, its dumps make less methane.  
    **Answer:** True. *Why:* True. Methane comes from wet waste rotting without air in the dump. Composted with air, the same waste makes carbon dioxide and compost instead.
-13. (match) Match each finding to who found it.  
+11. (match) Match each finding to who found it.  
    **Answer:** Louis Pasteur, 1861 → some microbes live without any air; William Rathje's Garbage Project → newspapers can still be read after decades in a landfill; Springtails, tiny soil animals → follow the smell of geosmin to find bacteria to eat. *Why:* Each finding showed something about how waste breaks down, and who is at work in it.
-14. (label) Label the drawing of a compost pot cut open: air holes, greens, browns, ready compost at the bottom, tray.  
+12. (label) Label the drawing of a compost pot cut open: air holes, greens, browns, ready compost at the bottom, tray.  
    **Answer:** Air holes in the sides and lid. Greens (peels) in layers. Browns (paper and leaves) covering each layer. Dark ready compost at the very bottom, the oldest part. A tray under the pot to catch drips.. *Why:* The oldest waste is at the bottom, so that is where compost is ready first.
-15. (mcq) A farm has a big compost heap. Which of these would let the most air into the middle of it?  
+13. (mcq) A farm has a big compost heap. Which of these would let the most air into the middle of it?  
    Options: A pipe full of holes pushed through the middle / A plastic sheet over the top / Pressing it down with a roller / Pouring water on it  
    **Answer:** A pipe full of holes pushed through the middle. *Why:* A pipe with holes carries air into the middle, where it is hardest to reach. A plastic sheet and pressing both keep air out, and too much water fills the air spaces.
+14. (write) Plan a fair test to find out whether the spoon of soil in the jars made any difference. Say what you keep the same and what you change.  
+   **Answer:** Use two same jars with the same amount of the same peels and paper, in the same place. Put a spoon of soil in one jar and none in the other. Compare the smell and the look every few days.. *Why:* A fair test changes only one thing, here the soil, and keeps all the rest the same.
+15. (write) A waste picker says, 'Mixed waste makes my work dirty and slow.' What do you think she means? Use what wet peels do to paper.  
+   **Answer:** Wet peels and food soak into paper and cardboard and make them dirty, so they cannot be sorted and recycled easily. The waste also smells and is unpleasant to touch.. *Why:* A strong answer links wet waste to spoiling dry waste, and to the person who has to sort it.
 
 ## Videos
-- **A Scientist's Guide to Composting** (SciShow, 8 min) id `7u57zTsAi-U`: For the parent and curious older children: what the microbes in a compost heap do, and why air, water, greens and browns matter. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'A Scientist's Guide to Composting', channel SciShow). Not watched from here: a parent should preview it and check its length.
-- **The Hidden Engineering of Landfills** (Practical Engineering, 15 min) id `HRx_dZawN44`: For the parent: how a modern landfill is built, why garbage there rots so slowly, and how its gas and liquid are handled. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The Hidden Engineering of Landfills', channel Practical Engineering). Not watched from here: a parent should preview it and check its length.
-- **Garbology? Talkin Trash with William Rathje, Garbologist** (WASTERUSH, 5 min) id `-YdN5HCk7Bw`: For the parent: William Rathje, from the How we found out card, talking about what digging into garbage taught him. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Garbology? - Talkin Trash? - William Rathje, Garbologist - What do you throw away?', channel WASTERUSH). Not watched from here: a parent should preview it, and check its length and that it suits children.
+- **A Scientist's Guide to Composting** (SciShow, 8 min) id `7u57zTsAi-U`: For the parent and curious older children: what the microbes in a compost heap do, and why air, water, greens and browns matter. *Check:* Watch it yourself first, and check that it suits your child.
+- **The Hidden Engineering of Landfills** (Practical Engineering, 15 min) id `HRx_dZawN44`: For the parent: how a modern landfill is built, why garbage there rots so slowly, and how its gas and liquid are handled. *Check:* Watch it yourself first, and check that it suits your child.
+- **Garbology? Talkin Trash with William Rathje, Garbologist** (WASTERUSH, 5 min) id `-YdN5HCk7Bw`: For the parent: William Rathje, from the How we found out card, talking about what digging into garbage taught him. *Check:* Watch it yourself first, and check that it suits your child.
 
 ## Quiz
 1. (mcq) Which of these is a green for a compost pot?  
    Options: Torn newspaper / Papaya peel / A dry leaf / An egg tray  
-   **Answer:** Papaya peel. *Why:* A papaya peel is wet, fresh plant waste, so it is a green. Newspaper, a dry leaf and an egg tray are dry, so they are browns. Picking one of those usually means mixing up the two groups: greens are wet, browns are dry.
+   **Answer:** Papaya peel. *Why:* A papaya peel is wet, fresh plant waste, so a papaya peel is a green. Newspaper, a dry leaf and an egg tray are dry, so they are browns. Picking one of those usually means mixing up the two groups: greens are wet, browns are dry.
 2. (mcq) Why should leftover cooked rice stay out of a small compost pot at home?  
    Options: It smells strongly and brings rats and flies / Microbes cannot eat rice / Rice turns into plastic  
    **Answer:** It smells strongly and brings rats and flies. *Why:* Microbes can eat rice, but in a small home pot cooked food smells strongly and brings rats and flies. Big city plants and hot heaps can handle it.
-3. (mcq) Priya puts the same peels in two jars. She mixes torn paper into jar B only. After a week, jar A has liquid at the bottom and smells sour. What does this show?  
+3. (mcq) Priya, a girl in Class 3, puts the same peels in two jars. She mixes torn paper into jar B only. After a week, jar A has liquid at the bottom and smells sour. What does this show?  
    Options: Paper keeps peels drier and lets air in / Paper makes peels rot faster than anything / Jar A had no microbes  
    **Answer:** Paper keeps peels drier and lets air in. *Why:* The only difference was the paper. It soaked up the liquid and held the peels apart, so air could get in and microbes that use air could work. Jar A had plenty of microbes, but they were the kind that live without air.
 4. (mcq) In the paper jar test, why do both jars get exactly one cup of the same peels?  
@@ -553,7 +547,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 6. (mcq) Microbes that live without air are called anaerobic. What do many of them make?  
    Options: Sour and rotten smells / Sweet smells, like flowers / Plastic  
    **Answer:** Sour and rotten smells. *Why:* Many anaerobic microbes make sour acids and smelly gases. Some also make methane, which has no smell but burns easily.
-7. (mcq) Arjun's compost pot is dry and dusty, and nothing has changed for two weeks. What should he do?  
+7. (mcq) Arjun, a boy in Class 3, has a compost pot. It is dry and dusty, and nothing has changed for two weeks. What should he do?  
    Options: Sprinkle a little water and stir / Add a tight lid / Put it in the fridge  
    **Answer:** Sprinkle a little water and stir. *Why:* Microbes need water to digest food. A dry pot is too dry for them to work. A little water, until it feels like a squeezed sponge, gets them going again.
 8. (mcq) Why does a compost pot need holes in its sides?  
@@ -590,7 +584,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 - The earthy smell when the first monsoon rain falls on dry ground.
 - Earthworm casts, small piles of muddy curls, on wet ground in a park after rain.
 - Huge garbage hills seen from the road or the train, near big cities, with kites and crows circling above.
-- Heaps of banana leaves and flowers after a festival or a wedding feast.
+- Heaps of banana leaves and marigold flowers after a festival such as Onam or Durga Puja, or after a wedding feast.
 
 ## Open questions
 - **How many kinds of microbes live in one spoonful of compost?** Scientists can now read the genes of the microbes in a sample, and they keep finding kinds nobody has named. Most of them have never been grown in a lab, so nobody knows what most of them do.
@@ -604,39 +598,26 @@ She mixed it into the soil of a pot and planted a tulsi seedling in it. Chithapp
 - What would happen to an apple core thrown on the ground in a park? And in a plastic bag in a dump?
 - If you were a microbe, would you rather live in a stirred compost pot or a pressed-down bin? Why?
 - Where does the garbage truck from our street go?
-- Do you think the tomato on your plate could be made partly from an old peel?
 - Why do you think the soil smells so strongly when the first rain falls?
 - Who in our building do you think works hardest to keep it clean?
 - Is there anything in our house that no living thing could ever eat?
 
 ## Jokes
 - Why did the banana peel go to the compost pot? *It wanted to turn over a new leaf.*
-- What did the compost pot say to the peels? *Don't worry, you'll break down eventually.*
 - Why was the compost pot so popular? *Everyone wanted to dig in.*
-- Why are earthworms good at keeping secrets? *They keep everything underground.*
 - Why did the compost pot need a holiday? *It was feeling a bit rotten.*
-- Why did the newspaper join the compost pot? *It heard there was good news for the peels.*
-- What is a microbe's favourite meal? *A peel-ful lunch.*
 - Why did the onion skin cry in the compost pot? *It was finally breaking down.*
-- What did the dry leaf say to the wet peel? *Don't worry, I'll soak up your troubles.*
-- Why do compost pots make good friends? *They never hold on to rubbish for long.*
-- What did the earthworm say when they were late? *Sorry, I got stuck in traffic. The soil was very thick.*
-- Why was the garbage in the dump so old? *Nobody gave it any air to grow up.*
 - What did the bacterium say to the papaya peel? *Nice to eat you.*
-- What did the soil say to the first rain? *Keep this up, and I will smell lovely.*
-- How do worms say hello? *They wave their whole body.*
-- Why did the stirring stick feel proud? *It gave everyone some fresh air.*
-- What kind of music do compost pots like? *Decom-pop.*
 - Why did the tea leaves love the compost pot? *It was their cup of soil.*
 - What did the methane say to the dump? *I'm just passing gas.*
-- Why did the fruit fly leave the compost pot? *Somebody covered the peels with browns.*
-- Why did the worm hide from the torch? *They were having a bad light day.*
+- What kind of music do compost pots like? *Decom-pop.*
+- What did the compost pot say to the peels? *Don't worry, you'll break down eventually.*
 
 ## Connected maths
-- Kavya weighed her family's peels on a kitchen scale for three days: 400 grams on Monday, 300 grams on Tuesday and 500 grams on Wednesday. How much was that altogether? Is it more or less than 1 kilogram? **1,200 grams, which is 1 kilogram and 200 grams. That is more than 1 kilogram.**. 400 + 300 = 700. 700 + 500 = 1,200 grams. 1,000 grams make 1 kilogram, so 1,200 grams is 1 kilogram and 200 grams. (queues `math.weight-capacity.weight.L3`)
+- Kavya, a girl in Class 3, weighed her family's peels on a kitchen scale for three days: 400 grams on Monday, 300 grams on Tuesday and 500 grams on Wednesday. How much was that altogether? Is it more or less than 1 kilogram? **1,200 grams, which is 1 kilogram and 200 grams. That is more than 1 kilogram.**. 400 + 300 = 700. 700 + 500 = 1,200 grams. 1,000 grams make 1 kilogram, so 1,200 grams is 1 kilogram and 200 grams. (queues `math.weight-capacity.weight.L3`)
 - Here are made-up smell scores from the paper jar test, from 0 (no smell) to 5 (very bad). Jar A: day 3 is 2, day 5 is 3, day 7 is 4. Jar B: day 3 is 1, day 5 is 1, day 7 is 1. Draw a bar chart for day 7. What pattern do you see across the days, and what do you predict for day 9? **On day 7, jar A's bar is 4 and jar B's is 1. Jar A's smell grows by 1 every two days, so it may be about 5 on day 9. Jar B stays at 1.**. Jar A went 2, 3, 4: up by 1 each check. If that goes on, day 9 would be 5, the highest score. Jar B stayed the same, so we predict 1. A prediction is a careful guess from a pattern. It can be wrong, so we check it. (queues `math.data.bar-charts.L3`)
 - For every cup of peels, you add 2 cups of browns. Today the family has 4 cups of peels. How many cups of browns do they need? If they only have 5 cups of browns, how many cups of peels can they cover? **8 cups of browns. With only 5 cups of browns they can cover 2 cups of peels, with 1 cup of browns left over.**. 1 cup of peels needs 2 cups of browns, so 4 cups need 4 groups of 2, which is 8. With 5 cups of browns: 2 cups of peels use 4 cups of browns, and 1 cup is left. That is not enough for a third cup of peels. (queues `math.multiplication.equal-groups.L3`)
-- Meenakshi's compost pot is ready 8 weeks after her last peels went in. She stopped adding peels on 1 March. About when will the compost be ready? How many days is 8 weeks? **About 26 April. 8 weeks is 56 days.**. 1 week is 7 days, so 8 weeks is 8 × 7 = 56 days. March has 31 days. From 1 March, 30 days takes us to 31 March. 26 more days takes us to 26 April. 30 + 26 = 56. (queues `math.time.calendar.L3`)
+- Meenakshi, the girl in the story, starts her compost pot on 1 March. The compost is ready about 8 weeks later. About when will it be ready? How many days is 8 weeks? **About 26 April. 8 weeks is 56 days.**. 1 week is 7 days, so 8 weeks is 8 × 7 = 56 days. March has 31 days. From 1 March, 30 days takes us to 31 March. 26 more days takes us to 26 April. 30 + 26 = 56. (queues `math.time.calendar.L3`)
 
 ## Song
 There Is No Away (sci.waste.L3): Topic-level song for Waste L3
@@ -648,19 +629,13 @@ There Is No Away (sci.waste.L3): Topic-level song for Waste L3
 - [A plant nursery near you]() · place · Every town: Ask to see their compost or vermicompost beds, and smell ready compost.
 
 ## Things to buy
-- [A block of cocopeat (coconut coir), about 5 kg](https://www.amazon.in/s?k=cocopeat+block+5kg) (material): A dry brown that is easy to store in a flat. It soaks up water and keeps a compost pot airy. Torn newspaper and dry leaves work just as well, so check what you have first. Used in p1. Also useful for potting plants in the plant units.
-- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the white fungus threads and tiny helpers in the jars and the compost pot. Used in e1. Used again in many Class 3 science units, such as Decomposers and Habitats.
 
 ## Warm-up
 - Is a banana peel a green or a brown? → A green. It is wet and fresh.
-- Is torn newspaper a green or a brown? → A brown. It is dry.
-- What do microbes that use air make compost smell like? → Damp earth.
 - What do we call microbes that live without air? → Anaerobic microbes.
 - Which gas from dumps burns easily? → Methane.
-- Why does a compost pot need holes? → To let air in.
 - Name one thing that should not go in a small compost pot at home. → Plastic, cooked food, milk, meat, oil or batteries.
 - How does an earthworm breathe? → Through their damp skin.
-- Who does most of the work in a compost pot? → Bacteria.
 
 ## Plan
 - Start options: a1, e1, story, g1, big_questions, cards, p1
