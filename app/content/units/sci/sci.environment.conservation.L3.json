@@ -1024,7 +1024,13 @@
      "kind": "cards",
      "title": "16 cards: 8 animal cards and 8 need cards",
      "items": [
-      "Buffalo (gives milk)",
+      {
+       "f": "Buffalo (gives milk)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-00.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
       "Hen (gives eggs)",
       "Silkworm (gives silk)",
       "Honeybee (gives honey and pollinates crops)",
