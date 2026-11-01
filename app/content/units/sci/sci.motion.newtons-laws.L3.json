@@ -474,7 +474,11 @@
       },
       {
        "f": "A swing goes back and forth. Keep going or change?",
-       "b": "Change. Gravity and the ropes keep changing its motion."
+       "b": "Change. Gravity and the ropes keep changing its motion.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-11.jpg",
+        "credit": "Mschel, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A football lies still, and then you kick it. Keep going or change?",
