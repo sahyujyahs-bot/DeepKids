@@ -418,7 +418,11 @@
       },
       {
        "f": "A tram in Kolkata brakes suddenly. What do the standing passengers do?",
-       "b": "Keep going: their bodies carry on forward, so they lurch forward. The brakes act on the tram, not on them."
+       "b": "Keep going: their bodies carry on forward, so they lurch forward. The brakes act on the tram, not on them.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-02.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A spacecraft far out in space has its engines off. Keep going or change?",
