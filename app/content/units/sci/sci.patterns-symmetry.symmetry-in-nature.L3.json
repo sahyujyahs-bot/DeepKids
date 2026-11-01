@@ -382,7 +382,11 @@
      "items": [
       {
        "f": "periwinkle flower",
-       "b": "Order 5"
+       "b": "Order 5",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-00.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "star fruit slice",
@@ -394,11 +398,19 @@
       },
       {
        "f": "starfish",
-       "b": "Order 5"
+       "b": "Order 5",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-03.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "snowflake",
-       "b": "Order 6"
+       "b": "Order 6",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-04.jpg",
+        "credit": "Alexey Kljatov, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "honeycomb cell",
@@ -442,7 +454,11 @@
       },
       {
        "f": "ixora flower with 4 petals",
-       "b": "Order 4"
+       "b": "Order 4",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-15.jpg",
+        "credit": "Siddarth Machado, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "letter S",
@@ -462,7 +478,11 @@
       },
       {
        "f": "butterfly",
-       "b": "Order 1: one line of symmetry, no rotational symmetry"
+       "b": "Order 1: one line of symmetry, no rotational symmetry",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-20.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "human face",
@@ -470,11 +490,19 @@
       },
       {
        "f": "tulsi flower",
-       "b": "Order 1: one line of symmetry, no rotational symmetry"
+       "b": "Order 1: one line of symmetry, no rotational symmetry",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-22.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "leaf",
-       "b": "Order 1: one line of symmetry, no rotational symmetry"
+       "b": "Order 1: one line of symmetry, no rotational symmetry",
+       "img": {
+        "src": "media/cards/symmetry-in-nature-g1-0-23.jpg",
+        "credit": "Ram Dayal Vaishnav, CC BY, via iNaturalist"
+       }
       }
      ]
     }

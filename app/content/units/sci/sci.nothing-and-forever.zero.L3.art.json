@@ -1,4 +1,16 @@
 {
+ "expl.3": {
+  "src": "media/img/sci.nothing-and-forever.zero.L3/expl.3.jpg",
+  "credit": "National Geographic, Public domain, via Wikimedia Commons"
+ },
+ "expl.7": {
+  "src": "media/img/sci.nothing-and-forever.zero.L3/expl.7.jpg",
+  "credit": "User:Nino Barbieri, CC BY 2.5, via Wikimedia Commons"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.nothing-and-forever.zero.L3/flow.a2.jpg",
+  "credit": "Manju Thilagavathi, CC0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.nothing-and-forever.zero.L3/setup.e1.0.jpg",
   "drawn": true
@@ -26,5 +38,17 @@
  "setup.e2.2": {
   "src": "media/img/sci.nothing-and-forever.zero.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.nothing-and-forever.zero.L3/term.1.jpg",
+  "credit": "Augustus Hoernle (1841-1918), Public domain, via Wikimedia Commons"
+ },
+ "term.11": {
+  "src": "media/img/sci.nothing-and-forever.zero.L3/term.11.jpg",
+  "credit": "Deinodactyla, CC0, via Wikimedia Commons"
+ },
+ "term.4": {
+  "src": "media/img/sci.nothing-and-forever.zero.L3/term.4.jpg",
+  "credit": "National Geographic, Public domain, via Wikimedia Commons"
  }
 }

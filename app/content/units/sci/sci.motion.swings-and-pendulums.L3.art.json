@@ -1,7 +1,15 @@
 {
+ "expl.6": {
+  "src": "media/img/sci.motion.swings-and-pendulums.L3/expl.6.jpg",
+  "credit": "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+ },
  "expl.7": {
   "src": "media/img/sci.motion.swings-and-pendulums.L3/expl.7.jpg",
   "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.motion.swings-and-pendulums.L3/flow.c2.jpg",
+  "credit": "Johann Nepomuk Maelzel, CC0, via Wikimedia Commons"
  },
  "intro": {
   "src": "media/img/sci.motion.swings-and-pendulums.L3/intro.jpg",
@@ -42,5 +50,9 @@
  "setup.e3.2": {
   "src": "media/img/sci.motion.swings-and-pendulums.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.motion.swings-and-pendulums.L3/term.10.jpg",
+  "credit": "Pearson Scott Foresman, Public domain, via Wikimedia Commons"
  }
 }

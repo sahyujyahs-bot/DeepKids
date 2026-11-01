@@ -484,11 +484,10 @@ function fxFab() {
   const b = document.createElement("button");
   b.id = "fxFab";
   b.className = "fxfab";
-  b.innerHTML = `${iamFace()}<span class="iamtag">Ask me</span>`;
+  b.innerHTML = `<img src="media/ui/iam-icon.png" alt="">`;
   b.setAttribute("aria-label", "Talk to IAm, the DeepKids Guru (AI). Drag to move him.");
   b.onclick = () => {
     if (b.dataset.dragged) return delete b.dataset.dragged;
-    iamLook();
     const at = iamWhere();
     fxChat(at.about, false, at);
   };

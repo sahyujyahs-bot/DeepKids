@@ -54,10 +54,11 @@ function ioptsView() {
   }
   return h + `</div>`;
 }
-const greetBar = (sub) => {
+// the top of Today: the time-of-day picture with the greeting, the day's progress and the read-aloud button on it
+function todayHero(sub) {
   const st = streak();
-  return `<section class="greetbar"><button class="readbtn" data-act="readnow" aria-label="Read the screen aloud" style="order:3;margin-left:auto">🔊</button>${dayRing()}<span style="display:grid;min-width:0"><b>${greetWord()}${pname() ? ", " + esc(pname()) : ""}!</b><span class="xs muted">${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</span></span></section>`;
-};
+  return `<section class="thero"><img src="${greetPic()}" alt=""><div class="therobtns">${dayRing()}<button class="readbtn" data-act="readnow" aria-label="Read the screen aloud">${icon("sound")}</button></div><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${sub}${st > 1 ? ` · <span class="streak">${st} days in a row</span>` : ""}</p></div></section>`;
+}
 function calHead(d) {
   return calHead0(d) + cancelNote(d);
 }
@@ -116,14 +117,12 @@ function nowCard(it) {
   const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
-  const mascot =
+  const pic =
     it.kind === "lesson"
-      ? sblob(it.s, "happy", "mascot bob")
-      : it.who === "you"
-        ? youBlob("mascot bob", "calm")
-        : kidBlob("mascot bob");
-  return `<section class="now ${col}">${mascot}<span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "▲ Hide" : "▼ What's in it"}</span></button>
-   <div class="row" style="flex-wrap:nowrap"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
+      ? `<img src="${esc(lessonPic(it.u))}" alt="">`
+      : `<span class="ic">${icon(KICO[it.kind] || "spark")}</span>`;
+  return `<section class="now ${col}"><div class="nowtop">${pic}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
+   <div class="row nowgo"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
    ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
 }
 function moreView() {
@@ -292,10 +291,13 @@ const nightDue = () => {
     (its.length > 0 || dayPlan(tomorrow()).some((i) => i.kind === "lesson"))
   );
 };
-const greetWord = () => {
+const dayPart = () => {
   const h = new Date().getHours();
-  return h < 12 ? "Good morning" : h < 17 ? "Good afternoon" : "Good evening";
+  return h < 12 ? 0 : h < 17 ? 1 : 2;
 };
+const greetWord = () => ["Good morning", "Good afternoon", "Good evening"][dayPart()];
+// Today's picture follows the time of day: fields at sunrise, a garden by day, a rooftop at dusk
+const greetPic = () => `media/ui/intro-${["journey", "together", "family"][dayPart()]}.jpg`;
 function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
@@ -482,7 +484,7 @@ const WEEK1 = [
   [
     "lesson",
     "Do one lesson together",
-    "Pick the first lesson on today's list below and do it with your child. Tick it when you finish.",
+    "Pick the first lesson on today's list and do it with your child. Tick it when you finish.",
     "",
     () => S.log.length > 0,
   ],
@@ -588,28 +590,28 @@ function viewToday() {
     lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
     left = real.filter((i) => !i.done),
     doneL = real.filter((i) => i.done);
-  let h = greetBar(
-    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? (f ? `${real.length - dn} thing${real.length - dn === 1 ? "" : "s"} left` : "all done") : "nothing planned"}`,
+  let h = todayHero(
+    `${S.child ? esc(S.child) + "'s day · " : ""}${longDate()} · ${real.length ? `${dn} of ${real.length} done` : "nothing planned"}`,
   );
   if (S.setup && !S.parent?.saved && !S.parent?.name)
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
-  h += firstWeekCard() + fxTodayTop(!window.FXANIMED); // the summary animates in the first time only
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
-  window.FXANIMED = 1;
-  // what to do next comes first; the day toggle sits right above the day's list, which marks the next thing
+  // what to do next comes first, then the day as a list; the first-week guide and the week's numbers sit below it
   h += `<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
   if (doneL.length)
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
+  h += `</section>${firstWeekCard()}${fxTodayTop(!window.FXANIMED)}`; // the summary animates in the first time only
+  window.FXANIMED = 1;
   {
     const oc = openCount(),
       tile = (act, ic, label, sub, extra = "") =>
         `<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;
     h += `<div class="qtiles">${tile("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${tile("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}${tile("quizgo", "spark", "Quick quiz", "Ask a few questions")}${tile("uploads", "plus", "Add photos", "Work samples")}${tile("lifeadd", "plus", "Something they did", "a class, cooking, a question")}</div>`;
   }
-  h += `</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
+  h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h;
 }
 function fxTodayTop(animate) {

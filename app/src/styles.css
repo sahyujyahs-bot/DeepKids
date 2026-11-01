@@ -36,6 +36,14 @@
   --r-xl: 14px;
   --lift: none;
   --night: #1e1436;
+  /* the calm look (approved redesign, Nov 2026): soft white cards on paper, round pills, one red action */
+  --r-card: 20px;
+  --r-btn: 14px;
+  --shadow: 0 10px 24px -18px rgba(30, 30, 60, 0.45);
+  --track: #efece2;
+  --sunbg: #fdf2d6;
+  --sunink: #8a5a06;
+  --aquabg: #e2f1ef;
 }
 * {
   box-sizing: border-box;
@@ -351,8 +359,9 @@ nav.nav button[aria-current="page"] {
   background: var(--sun);
   color: #2b2340;
 }
+/* room at the end for the bottom bar and IAm's button above it, so the last row can scroll clear of both */
 main {
-  padding-bottom: calc(112px + env(safe-area-inset-bottom, 0));
+  padding-bottom: calc(150px + env(safe-area-inset-bottom, 0));
 }
 .plain {
   border: 0;
@@ -2412,48 +2421,28 @@ dialog.mini::backdrop {
   border-radius: 16px;
 }
 .now {
-  margin-top: 16px;
-  border-radius: var(--r-xl);
-  padding: 22px 20px 16px;
   display: grid;
-  gap: 10px;
+  gap: 12px;
   position: relative;
-  background: color-mix(in srgb, var(--c) 28%, var(--surface));
-  box-shadow:
-    0 0 0 3px var(--c),
-    var(--lift);
-  animation: glow 2.6s ease-in-out infinite;
-}
-.now .mascot {
-  position: absolute;
-  right: 14px;
-  top: -24px;
-  width: 76px;
-  height: 76px;
-}
-.now h2 {
-  font-size: clamp(25px, 6.6vw, 32px);
-  padding-right: 64px;
-}
-.now .sub {
-  font-weight: 700;
-  color: var(--muted);
-}
-.now .eyebrow {
-  color: color-mix(in srgb, var(--c) 50%, var(--ink));
+  padding: 16px;
+  border-radius: var(--r-card);
+  background: var(--surface);
+  box-shadow: var(--shadow);
 }
 .btn.big {
-  height: 58px;
+  height: 54px;
   font-size: 19px;
+  border-radius: 16px !important;
 }
 .now .ck {
-  width: 58px;
-  height: 58px;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
 }
 .now .tdet {
   display: grid;
   gap: 10px;
-  border-top: 2px dashed color-mix(in srgb, var(--c) 40%, transparent);
+  border-top: 1px solid var(--rule);
   padding-top: 10px;
 }
 .nudge {
@@ -2645,13 +2634,6 @@ dialog.mini::backdrop {
 }
 .rescard .pill {
   font-size: 11px;
-}
-.greetbar {
-  flex-wrap: wrap;
-  padding: 10px 2px 2px;
-}
-.greetbar b {
-  font: 600 21px var(--display);
 }
 .calhead {
   display: flex;
@@ -3532,11 +3514,6 @@ table.rtab th {
   width: 13px;
   height: 13px;
 }
-.greetbar {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
 .dring {
   position: relative;
   flex: none;
@@ -3626,7 +3603,6 @@ a.btn {
 .wk1 {
   display: grid;
   gap: 10px;
-  border: 2px solid var(--sun);
 }
 .wk1h {
   display: flex;
@@ -4637,8 +4613,7 @@ html:has(.fxdlg[open]) {
     0 0 0 4px var(--good),
     0 10px 40px #0006;
 }
-.fximg,
-.fxph {
+.fximg {
   flex: none;
   width: 100%;
   aspect-ratio: 4/3;
@@ -4653,13 +4628,11 @@ html:has(.fxdlg[open]) {
   object-fit: cover;
   display: block;
 }
-.fximg.fxhero,
-.fxph.fxhero {
+.fximg.fxhero {
   aspect-ratio: 3/4;
   max-height: 52dvh;
 }
-.fximg.fxsq,
-.fxph.fxsq {
+.fximg.fxsq {
   aspect-ratio: 1;
   max-height: 44dvh;
   border-radius: 18px;
@@ -4696,28 +4669,6 @@ html:has(.fxdlg[open]) {
   display: grid;
   place-items: center;
   font-size: 64px;
-}
-.fxph {
-  display: grid;
-  place-items: center;
-  align-content: center;
-  gap: 10px;
-  padding: 18px;
-  text-align: center;
-  background: linear-gradient(
-    135deg,
-    color-mix(in srgb, var(--sun) 45%, var(--bg)),
-    color-mix(in srgb, var(--aqua) 35%, var(--bg))
-  );
-}
-.fxph span {
-  font-size: 64px;
-  line-height: 1;
-}
-.fxph i {
-  font: 600 13.5px/1.4 var(--body);
-  color: var(--muted);
-  max-width: 34ch;
 }
 .fxtxt {
   padding: 18px 20px 90px;
@@ -4833,19 +4784,10 @@ html:has(.fxdlg[open]) {
   box-shadow: 0 3px 0 var(--forestD);
   justify-self: start;
 }
-.fxrow,
-.fxmode,
-.fxchips {
+.fxrow {
   display: flex;
   gap: 8px;
   flex-wrap: wrap;
-}
-.fxchip {
-  border: 2px solid var(--line);
-  background: var(--surface);
-  border-radius: 999px;
-  padding: 8px 14px;
-  font: 700 14px var(--body);
 }
 .fxvoice {
   background: var(--surface);
@@ -4926,10 +4868,6 @@ html:has(.fxdlg[open]) {
   display: grid;
   gap: 10px;
   align-content: start;
-}
-.fxslide .fxph {
-  border-radius: 14px;
-  aspect-ratio: 16/10;
 }
 .fxjoke {
   cursor: pointer;
@@ -5029,35 +4967,37 @@ input.fxin {
 .fxact .fxaskb {
   background: var(--tang);
 }
+/* IAm's button: his face in a small round frame in the corner. Dragged, it lifts and leans the way it is carried,
+   then lands with a squash and a settle */
 .fxfab {
   position: fixed;
   right: 12px;
-  bottom: calc(env(safe-area-inset-bottom, 0) + 80px);
+  bottom: calc(env(safe-area-inset-bottom, 0) + 84px);
   z-index: 50;
-  border: 0;
+  width: 54px;
+  height: 54px;
   padding: 0;
-  background: 0 0;
-  display: grid;
-  justify-items: center;
-  gap: 2px;
+  border: 2px solid var(--surface);
+  border-radius: 50%;
+  background: var(--sunbg);
+  box-shadow: 0 6px 16px -6px rgba(0, 0, 0, 0.35);
   touch-action: none;
   cursor: grab;
-}
-.fxfab .iam {
-  width: 76px;
-  pointer-events: none;
-}
-/* dragged, he lifts and leans the way he is carried, then lands with a squash and a settle */
-.fxfab .iam {
   transition: transform 0.2s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+.fxfab img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  pointer-events: none;
 }
 .fxfab.lift {
   cursor: grabbing;
-}
-.fxfab.lift .iam {
   transform: translateY(-6px) scale(1.12) rotate(var(--tilt, 0deg));
 }
-.fxfab.land .iam {
+.fxfab.land {
   animation: iamland 0.65s ease-out;
 }
 /* the lean swings back past straight, then settles, as the squash bounces out */
@@ -5079,19 +5019,12 @@ input.fxin {
 body:has(.ob) .fxfab {
   display: none;
 }
-body.ai-locked .fxfab .iam::after {
+body.ai-locked .fxfab::after {
   content: "🔒";
   position: absolute;
-  right: -4px;
-  bottom: -2px;
-  font-size: 18px;
-}
-.iamtag {
-  background: var(--ink);
-  color: #fff;
-  font: 700 12px var(--body);
-  border-radius: 999px;
-  padding: 1px 10px;
+  right: -6px;
+  bottom: -4px;
+  font-size: 16px;
 }
 /* I am (17-iam.js): the Guru seated on a stone step, with eyelids and a mouth laid over his face. He breathes and blinks;
    .iamthink (waiting for an answer) closes his eyes, leaving the third eye open; .iamtalk (answering) moves his mouth. */
@@ -5117,30 +5050,6 @@ body.ai-locked .fxfab .iam::after {
 .iamfig .iambody {
   inset: 0;
   width: 100%;
-}
-.iamfig .iambody,
-.iamfig .iampose {
-  transition: opacity 0.18s;
-}
-.iamfig .iampose {
-  inset: 0;
-  width: 100%;
-  opacity: 0;
-}
-.iam[data-pose="read"] .iampose[data-p="read"],
-.iam[data-pose="page"] .iampose[data-p="page"],
-.iam[data-pose="shift"] .iampose[data-p="shift"],
-.iam[data-pose="glance"] .iampose[data-p="glance"],
-.iam[data-pose="reach"] .iampose[data-p="reach"],
-.iam[data-pose="lift"] .iampose[data-p="lift"] {
-  opacity: 1;
-}
-.iam[data-pose]:not([data-pose="look"]) .iambody {
-  opacity: 0;
-}
-/* eyelids and mouth belong to the looking face */
-.iam[data-pose]:not([data-pose="look"]) :is(.iamblink, .iammouth) {
-  visibility: hidden;
 }
 .iamfig .iamblink {
   left: 40.46%;
@@ -5217,9 +5126,6 @@ body.ai-locked .fxfab .iam::after {
   .iamfig img {
     animation: none !important;
   }
-}
-dialog .fxfab {
-  bottom: calc(env(safe-area-inset-bottom, 0) + 84px);
 }
 .iamasks {
   display: flex;
@@ -5330,7 +5236,6 @@ dialog .fxfab {
 .fxnew {
   display: grid;
   gap: 10px;
-  border: 2px solid var(--sun);
 }
 .fxviews p {
   margin: 6px 0;
@@ -5341,72 +5246,12 @@ dialog .fxfab {
 .fxucard.locked {
   opacity: 0.7;
 }
-.fxopenbtn {
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  text-align: left;
-  border: 0;
-  background: var(--surface);
-  border-radius: 18px;
-  padding: 10px;
-  box-shadow: var(--lift);
-}
-.fxopenbtn img {
-  width: 72px;
-  height: 72px;
-  border-radius: 14px;
-  object-fit: cover;
-  flex: none;
-  background: var(--sunk);
-}
-.fxgist {
-  display: block;
-  margin-top: 3px;
-  color: var(--muted);
-}
-.fxfacts {
-  margin: 8px 2px;
-  line-height: 1.6;
-  color: var(--muted);
-}
-.fxfacts b {
-  color: var(--ink);
-}
-.viewpick {
-  gap: 8px;
-  margin: 2px 0 4px;
-}
-.viewpick .inp {
-  width: auto;
-  height: 40px;
-}
-.fxmap {
-  height: 100%;
-  overflow-y: auto;
-  padding: 62px 10px 96px;
-  justify-content: center;
-}
-.fxmap .fxin {
-  min-height: 100%;
-}
+
 .fxgo {
   background: var(--forest);
   box-shadow: 0 3px 0 var(--forestD);
   font-size: 17px;
   min-height: 54px;
-}
-.fxstats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-.fxstats span {
-  background: var(--surface);
-  border-radius: 14px;
-  padding: 8px 12px;
-  font-size: 14px;
-  box-shadow: var(--lift);
 }
 .fxparts {
   list-style: none;
@@ -5432,9 +5277,7 @@ dialog .fxfab {
   background: color-mix(in srgb, var(--good) 12%, var(--surface));
 }
 .fxparts button.started {
-  box-shadow:
-    0 0 0 2px var(--sun),
-    var(--lift);
+  box-shadow: inset 0 0 0 2px var(--sun);
 }
 .fxpe {
   width: 44px;
@@ -5448,11 +5291,6 @@ dialog .fxfab {
 }
 .fxparts b {
   font: 600 16px var(--display);
-}
-.fxchev {
-  margin-left: auto;
-  font-size: 24px;
-  color: var(--muted);
 }
 .fxlead {
   min-height: 100%;
@@ -5541,18 +5379,6 @@ dialog .fxfab {
 .fxpieces.board .fxpc {
   min-height: 120px;
   font-size: 16px;
-}
-.fxmap .fxin {
-  height: auto;
-  max-height: none;
-  flex: none;
-  overflow: visible;
-}
-.fxmap {
-  display: block;
-}
-.fxmap > .fxin {
-  margin: 0 auto;
 }
 .fxcrumb {
   position: sticky;
@@ -5724,8 +5550,7 @@ dialog .fxfab {
   height: auto;
   display: block;
 }
-.fxsetrow .fximg,
-.fxsetrow .fxph {
+.fxsetrow .fximg {
   border-radius: 12px;
   max-height: none;
 }
@@ -5755,16 +5580,16 @@ dialog .fxfab {
   text-transform: uppercase;
   white-space: nowrap;
 }
-.fxlegend {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-.fxparts button {
-  border-left: 7px solid var(--kc);
-}
 .fxparts .fxpe {
-  background: color-mix(in srgb, var(--kc) 18%, var(--surface));
+  background: color-mix(in srgb, var(--kc) 16%, var(--surface));
+  color: var(--kc);
+}
+.fxparts .fxsm {
+  display: block;
+}
+.fxparts button > .ico {
+  margin-left: auto;
+  color: var(--muted);
 }
 .fxfeed .fxin {
   border-top: 8px solid var(--kc);
@@ -5803,11 +5628,6 @@ dialog .fxfab {
 .fxtruth {
   padding: 8px 12px;
   margin: 10px 0;
-}
-.fxucard {
-  padding: 10px;
-  margin: 8px 0;
-  background: #fff;
 }
 body.ai-locked [data-fx="chat"]::after,
 body.ai-locked [data-fx="askcard"]::after,
@@ -5856,12 +5676,11 @@ strong {
 }
 .card,
 .menurow,
-.focus,
 .qtile,
 .tile {
-  box-shadow: none !important;
-  border: 1.5px solid var(--rule) !important;
-  border-radius: var(--r-lg) !important;
+  box-shadow: var(--shadow) !important;
+  border: 0 !important;
+  border-radius: var(--r-card) !important;
   background: var(--surface);
 }
 .sec {
@@ -5869,40 +5688,32 @@ strong {
 }
 .tt {
   position: relative;
-  padding-left: 14px;
-  border-left: 2px solid var(--margin);
 }
 .tcard {
-  border-radius: var(--r) !important;
+  border-radius: var(--r-lg) !important;
   box-shadow: none !important;
-  background: var(--surface) !important;
-  border: 1.5px solid var(--rule) !important;
-  border-left: 6px solid var(--c) !important;
+  background: transparent !important;
+  border: 0 !important;
 }
 .tcard .ic {
   background: color-mix(in srgb, var(--c) 14%, #fff) !important;
   color: var(--c) !important;
-  border-radius: 6px !important;
+  border-radius: 12px !important;
 }
 .tr .t,
 .tr .num {
   font: 500 14px var(--body) !important;
   color: var(--muted);
 }
-.tcard.now,
-.now .tcard,
-.focus {
-  box-shadow: 4px 4px 0 var(--ink) !important;
-  border-color: var(--ink) !important;
-}
 .btn {
-  border-radius: var(--r) !important;
+  border-radius: var(--r-btn) !important;
   box-shadow: none !important;
   font: 700 17px var(--body) !important;
   letter-spacing: 0.01em;
   background: var(--margin);
 }
-.btn.soft {
+.btn.soft,
+.btn.line {
   background: 0 0 !important;
   color: var(--ink) !important;
   border: 1.5px solid var(--ink) !important;
@@ -5917,31 +5728,47 @@ strong {
   text-underline-offset: 3px;
 }
 .chip {
-  border-radius: 6px !important;
+  border-radius: 999px !important;
   font: 600 14px var(--body) !important;
-  background: 0 0 !important;
+  background: var(--surface) !important;
   border: 1.5px solid var(--rule);
   color: var(--ink);
+  height: 34px;
+  padding: 0 14px;
 }
 .pill {
-  border-radius: 6px !important;
+  border-radius: 999px !important;
   font: 600 13px var(--body) !important;
 }
 .pill.completed {
   background: var(--aqua) !important;
   color: #fff !important;
 }
-.chip[aria-pressed="true"],
-.seg button[aria-pressed="true"] {
+.chip[aria-pressed="true"] {
   background: var(--ink) !important;
   color: #fff !important;
   border-color: var(--ink) !important;
 }
+/* a segmented switch: the choices sit in one soft track, the chosen one is a white tab */
+.seg {
+  background: var(--track);
+  border-radius: 14px;
+  padding: 4px;
+  gap: 2px;
+}
 .seg button {
-  border-radius: 6px !important;
+  flex: 1 0 auto;
+  border-radius: 11px !important;
   font: 600 15px var(--body) !important;
-  border: 1.5px solid var(--rule) !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  background: 0 0 !important;
+  color: var(--muted);
+}
+.seg button[aria-pressed="true"] {
   background: var(--surface) !important;
+  color: var(--ink) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08) !important;
 }
 .inp {
   border-radius: var(--r) !important;
@@ -5979,7 +5806,7 @@ header.top {
 .nav {
   background: var(--surface) !important;
   box-shadow: none !important;
-  border-top: 1.5px solid var(--rule) !important;
+  border-top: 1px solid var(--rule) !important;
   border-radius: 0 !important;
 }
 .nav button {
@@ -5989,7 +5816,7 @@ header.top {
 }
 .nav button[aria-current="page"] {
   color: var(--margin) !important;
-  box-shadow: inset 0 3px 0 var(--margin) !important;
+  box-shadow: none !important;
 }
 .fxdlg {
   font-family: var(--body);
@@ -6011,10 +5838,6 @@ header.top {
 }
 .fxtruth h2 {
   font-family: var(--poster);
-}
-.fxucard {
-  border-radius: var(--r-lg) !important;
-  border: 1.5px solid var(--rule) !important;
 }
 @media (prefers-reduced-motion: reduce) {
   * {
@@ -6925,6 +6748,468 @@ body {
   border-bottom-color: var(--aqua);
 }
 
+/* Today, calm: the picture with the greeting, one Next card, then the day as a quiet list */
+.thero {
+  position: relative;
+  margin-top: 8px;
+  height: 210px;
+  border-radius: 24px;
+  overflow: hidden;
+  color: #fff;
+  background: var(--night);
+}
+.thero img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.therotxt {
+  position: absolute;
+  inset: auto 0 0;
+  padding: 48px 18px 16px;
+  background: linear-gradient(transparent, rgba(16, 18, 40, 0.85));
+}
+.thero h1 {
+  font: 400 clamp(25px, 7vw, 34px) / 1.1 var(--poster);
+  color: #fff;
+}
+.thero p {
+  font: 500 14px/1.4 var(--body);
+  opacity: 0.92;
+  margin-top: 2px;
+}
+.thero .streak {
+  color: #ffd27a;
+}
+.therobtns {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  gap: 8px;
+}
+.therobtns .readbtn,
+.therobtns .dring {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+}
+.therobtns .readbtn {
+  display: grid;
+  place-items: center;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+.therobtns .readbtn .ico {
+  width: 20px;
+  height: 20px;
+}
+.sec.cal {
+  background: 0 0;
+  box-shadow: none;
+  padding: 0;
+  margin-top: 16px;
+}
+.nowtop {
+  display: grid;
+  grid-template-columns: 78px 1fr;
+  gap: 14px;
+  align-items: center;
+}
+.nowtop img,
+.nowtop .ic {
+  width: 78px;
+  height: 78px;
+  border-radius: 16px;
+  object-fit: cover;
+}
+.nowtop .ic {
+  display: grid;
+  place-items: center;
+  background: color-mix(in srgb, var(--c) 14%, #fff);
+  color: var(--c);
+}
+.nowtop .ic .ico {
+  width: 32px;
+  height: 32px;
+}
+.nowtxt {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+.now .eyebrow {
+  font: 800 12px var(--body) !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  color: var(--margin) !important;
+}
+.now h2 {
+  font: 700 19px/1.2 var(--body);
+}
+.now .sub {
+  font: 500 14px/1.4 var(--body);
+  color: var(--muted);
+  text-align: left;
+}
+.now .chev {
+  color: var(--aqua);
+  font-weight: 700;
+  white-space: nowrap;
+}
+.nowgo {
+  flex-wrap: nowrap;
+}
+.calhead {
+  margin: 18px 0 2px;
+}
+.tt.compact {
+  gap: 0;
+}
+.tt.compact .tcard {
+  padding: 10px 4px;
+}
+.tt.compact .tcard .ic {
+  width: 38px;
+  height: 38px;
+}
+.tt.compact .ck {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 2px var(--rule);
+}
+.tt.compact .ck .ico {
+  width: 18px;
+  height: 18px;
+}
+.tt.compact .tr.done .ck {
+  box-shadow: none;
+}
+.tt.compact .tr.focus .tcard {
+  box-shadow: none !important;
+  background: color-mix(in srgb, var(--sun) 12%, var(--surface)) !important;
+  animation: none;
+}
+.tt.compact .tr.missed .tcard,
+.tr.done .tcard,
+.tr.missed .tcard {
+  box-shadow: none;
+}
+.tr .t {
+  width: 46px;
+}
+.tcard .tdet {
+  border-top: 1px solid var(--rule);
+}
+.donebar {
+  background: var(--aquabg);
+}
+.fxgoals {
+  margin-top: 8px;
+}
+.fxgoal,
+.fxcont {
+  border: 0;
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow);
+}
+.fxgoal:active {
+  transform: scale(0.98);
+  box-shadow: var(--shadow);
+}
+.fxgoal b {
+  font-size: 24px;
+}
+.fxempty {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  align-items: center;
+  border: 0;
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow);
+}
+.fxempty img {
+  width: 72px;
+  height: 72px;
+}
+.wk1 {
+  margin-top: 24px;
+}
+.qtile {
+  border: 0;
+}
+.qtile .qi,
+.menurow .ic {
+  border: 0 !important;
+  border-radius: 12px !important;
+  background: var(--sunbg) !important;
+}
+.morebtn {
+  box-shadow: var(--shadow);
+}
+
+/* A unit's first screen: the cover picture, a paper sheet over it, one button to go on, and a tile per kind of part */
+.fxmap {
+  height: 100%;
+  overflow-y: auto;
+  background: var(--bg);
+  padding-bottom: 96px;
+}
+.fxcover {
+  position: relative;
+  max-width: 720px;
+  margin: 0 auto;
+}
+.fxcover .fximg.fxhero {
+  aspect-ratio: 4/3;
+  max-height: 46dvh;
+}
+.fxround {
+  position: absolute;
+  left: 16px;
+  top: calc(env(safe-area-inset-top, 0) + 16px);
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+  display: grid;
+  place-items: center;
+}
+.fxcover .fxmd {
+  position: absolute;
+  right: 16px;
+  top: calc(env(safe-area-inset-top, 0) + 16px);
+  background: rgba(255, 255, 255, 0.92);
+}
+.fxsheetp {
+  position: relative;
+  max-width: 688px;
+  height: auto;
+  margin: -34px auto 0;
+  padding: 22px 22px 0;
+  display: grid;
+  gap: 12px;
+  border-radius: 26px 26px 0 0;
+  box-shadow: none;
+  overflow: visible;
+}
+.fxeb2 {
+  font: 800 12px var(--body);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--margin);
+}
+.fxsheetp h1 {
+  font: 400 clamp(26px, 7vw, 34px) / 1.12 var(--poster);
+}
+.fxsheetp h2 {
+  font: 700 18px var(--body);
+  margin-top: 12px;
+}
+.fxsum {
+  font: 500 16px/1.5 var(--body);
+  color: color-mix(in srgb, var(--ink) 85%, var(--bg));
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+}
+.fxsum.open {
+  display: block;
+}
+.fxsheetp > .link {
+  justify-self: start;
+  margin-top: -8px;
+}
+.fxpills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.fxpills span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: var(--sunbg);
+  color: var(--sunink);
+  font: 600 13px var(--body);
+}
+.fxpills .ico {
+  width: 15px;
+  height: 15px;
+}
+.fxsheetp > .fxbar {
+  flex: none;
+  margin-top: 4px;
+}
+.fxsheetp > .fxbar + .fxsm {
+  margin-top: -6px;
+}
+.fxstart {
+  width: 100%;
+}
+.fxtiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 10px;
+  margin-top: 4px;
+}
+.fxtile {
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+  padding: 14px 6px 12px;
+  border: 0;
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  color: var(--ink);
+  font: inherit;
+}
+.fxtile .ico {
+  width: 28px;
+  height: 28px;
+  margin-bottom: 4px;
+  color: var(--kc);
+}
+.fxtile b {
+  font: 600 14px var(--body);
+}
+.fxtile span {
+  font: 500 12px var(--body);
+  color: var(--muted);
+}
+.fxparts button {
+  box-shadow: none;
+  border-radius: 16px;
+}
+
+/* Library: a big picture on the left, a short title and line, the board chapter as a small tag, and a round + to add */
+.libtop {
+  margin-top: 8px;
+}
+.libtop h1 {
+  font-size: 32px;
+}
+.libview {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+.viewpick {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--muted);
+}
+.viewpick select {
+  border: 0;
+  background: 0 0;
+  padding: 4px 0;
+  font: 700 15px var(--body);
+  color: var(--ink);
+  cursor: pointer;
+}
+.fxucard {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  column-gap: 8px;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: var(--r-card);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+.fxucard.locked {
+  opacity: 0.7;
+}
+.fxopenbtn {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: 0 0;
+  text-align: left;
+  color: var(--ink);
+  font: inherit;
+}
+.fxopenbtn img {
+  width: 92px;
+  height: 92px;
+  border-radius: 14px;
+  object-fit: cover;
+  flex: none;
+  background: var(--sunk);
+}
+.fxuc {
+  display: grid;
+  gap: 3px;
+  justify-items: start;
+  min-width: 0;
+}
+.fxuc b {
+  font: 700 16px/1.25 var(--body);
+}
+.fxgist {
+  font: 500 14px/1.35 var(--body);
+  color: var(--muted);
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+}
+.fxtag {
+  margin-top: 2px;
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: var(--aquabg);
+  color: var(--aqua);
+  font: 600 12px var(--body);
+}
+.fxfacts {
+  font: 500 12.5px/1.4 var(--body);
+  color: var(--muted);
+}
+.fxfacts b {
+  color: var(--ink);
+}
+.fxadd {
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 50%;
+  background: var(--margin);
+  color: #fff;
+  display: grid;
+  place-items: center;
+}
+.fxfoot {
+  grid-column: 1 / -1;
+  padding: 6px 0 0 106px;
+  color: var(--muted);
+}
+.fxfoot .link {
+  font: 600 13px var(--body);
+  color: var(--muted);
+}
+
 /* Larger screens (tablets in landscape, laptops, desktops): the sections move from the bottom bar to a rail on the
    left, pages get wider, and full-screen sheets become a centred panel. Phones keep the layout above. */
 @media (min-width: 900px) {
@@ -6939,7 +7224,7 @@ body {
     margin-left: var(--rail);
   }
   main {
-    padding-bottom: calc(48px + env(safe-area-inset-bottom, 0));
+    padding-bottom: calc(120px + env(safe-area-inset-bottom, 0));
   }
   nav.nav {
     left: 0;
@@ -6974,19 +7259,22 @@ body {
   .dkedb#dkEditBtn {
     left: calc(var(--rail) + 12px);
   }
+  .thero {
+    height: 280px;
+  }
   .fxfab {
     right: 24px;
     bottom: calc(env(safe-area-inset-bottom, 0) + 24px);
-  }
-  .fxfab .iam {
-    width: 170px;
+    width: 72px;
+    height: 72px;
   }
 }
 @media (min-width: 1400px) {
   .wrap {
     max-width: 1080px;
   }
-  .fxfab .iam {
-    width: 220px;
+  .fxfab {
+    width: 84px;
+    height: 84px;
   }
 }

@@ -29,15 +29,16 @@ Subjects: Maths peacock, English #5B4BB7, Hindi margin red, Science #3C8A3F, Dee
 - **Mukta** (Ek Type): everything you read and tap. Clean, Latin and Devanagari.
 - **Kalam** (Indian Type Foundry): handwriting for notes in the margin: labels, parent tips, deep truths.
 
-**Shape**
-- 8px corners on small things, 14px only on the biggest panel.
-- No soft grey shadows. Structure comes from rule lines and a thin ink outline.
-- The one card that matters right now gets a solid ink offset, like a block print.
+**Shape** (the calm look the founder approved in November 2026; tokens `--r-card`, `--r-btn`, `--shadow`, `--track` in `:root`)
+- White cards with round corners (20px) and one very soft shadow on the paper; no borders or grey lines around them.
+- Buttons: the one main action is filled margin red; a second action is an ink outline; choices are round pills (chosen = ink).
+- Two choices side by side are a segmented switch: a soft track with the chosen one as a white tab.
+- Pictures lead: Today opens on a time-of-day picture with the greeting on it, a unit opens on its cover picture.
 
 ## Principles
-1. **One bold thing per screen.** On Today it is the night-sky header with the child's name and hand-drawn stars. Everything else is quiet paper.
-2. **Lists are notebook pages, not card stacks.** Rows sit on a page, separated by rule lines, with a red margin line.
-3. **Labels are handwritten notes, in sentence case.** No ALL-CAPS eyebrows.
+1. **One bold thing per screen.** On Today it is the picture with the greeting, then one Next card with one big button. Everything else is quiet paper.
+2. **Lists are calm rows, not card stacks.** Time, a small rounded colour icon, the name, a short line, a round tick; white space between, no lines.
+3. **Labels in sentence case.** The one exception is the short red label above the thing to do next ("Next · 4:30 pm") and a unit's topic.
 4. **Left aligned, generous line height**, lines under 70 characters.
 5. **Colour means something:** red is "do this now", turmeric is "today", peacock is "done and growing".
 

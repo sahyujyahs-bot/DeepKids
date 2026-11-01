@@ -120,7 +120,6 @@ function toast(m, ms) {
   // inside the open dialog on top (a sheet, the chat, a unit), or the message would be hidden behind it
   ([...document.querySelectorAll("dialog[open]")].pop() || document.body).appendChild(t);
   setTimeout(() => t.remove(), ms || Math.max(2200, m.length * 60));
-  iamLook();
 }
 const IC = {
   grid: '<rect x="4" y="4" width="7" height="7" rx="2.5"/><rect x="13" y="4" width="7" height="7" rx="2.5"/><rect x="4" y="13" width="7" height="7" rx="2.5"/><circle cx="16.5" cy="16.5" r="3.5"/>',
@@ -154,6 +153,15 @@ const IC = {
   play: '<path d="M8 5.5v13l10.5-6.5z"/>',
   pause: '<path d="M9 5.5v13M15 5.5v13" stroke-width="2.4"/>',
   spark: '<path d="M12 3l2.2 6.3L20.5 12l-6.3 2.2L12 20.5l-2.2-6.3L3.5 12l6.3-2.7z"/>',
+  words:
+    '<rect x="3.5" y="5" width="17" height="14" rx="3"/><path d="M7 15.5l2.5-7 2.5 7M7.9 13h3.2M14.5 15.5v-4.5M14.5 12.5a2 2 0 1 1 0 .1"/>',
+  puzzle:
+    '<path d="M5 9h3a2 2 0 1 1 4 0h3v3a2 2 0 1 1 0 4v3h-3a2 2 0 1 0-4 0H5v-3a2 2 0 1 0 0-4z" transform="translate(1 -1.5)"/>',
+  quiz: '<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .9-1 1.6v.6M12 17h.01" stroke-width="2.2"/>',
+  maths: '<path d="M7 4.5v5M4.5 7h5M14.5 7h5M5 15l4 4M9 15l-4 4M14.5 15.5h5M14.5 18.5h5"/>',
+  song: '<path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/>',
+  roots:
+    '<path d="M12 12V3.5M12 7c-2.5-2.5-5-2.5-6.5-2 .3 2.3 3 4 6.5 3.5M12 7c2.5-2.5 5-2.5 6.5-2-.3 2.3-3 4-6.5 3.5M4 12h16M12 12v4l-3 4M12 16l3 4M9 14l-3 2M15 14l3 2"/>',
 };
 const icon = (n, c = "") => `<svg class="ico ${c}" viewBox="0 0 24 24" aria-hidden="true">${IC[n] || IC.spark}</svg>`;
 const KL = {

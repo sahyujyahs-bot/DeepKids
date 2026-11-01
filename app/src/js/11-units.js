@@ -47,14 +47,13 @@ let FXCUR = 0,
   FXCARDS = [],
   FXOBS = null;
 function fxImg(u, key, brief, cls) {
-  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit
+  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit. A picture not drawn
+  // yet shows the unit's own picture: families never see the art brief, which is written for the artist
   const p = u.img?.[key],
     url = p?.src || p,
     em = FXE[key.split(".")[0]] || "🎨";
   if (!url && !brief) return "";
-  return url
-    ? `<div class="fximg ${cls || ""}${p.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')">${p.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`
-    : `<div class="fxph ${cls || ""}"><span>${em}</span>${brief ? `<i>${esc(brief)}</i>` : ""}</div>`;
+  return `<div class="fximg ${cls || ""}${p?.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${url ? esc(brief || "") : ""}" src="${esc(url || unitPic(u.id))}" onerror="this.parentNode.classList.add('broken')">${p?.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
 function fxChart(c) {
@@ -736,23 +735,24 @@ function fxSecMeta(u, o, ent) {
       }[o] || 5;
   return { id: o, title: m[0], emoji: m[1], kind: o, mins, lead: m[2] };
 }
-/* colour coding: every kind of part has one colour, label and icon, used on the map, the opening card and every card */
+/* colour coding: every kind of part has one colour, label, emoji and line icon (and a name for its tile on the unit's
+   first screen), used on the first screen, the opening card and every card */
 const FXKC = {
-  story: ["Story", "📖", "#8C93C7"],
-  idea: ["Big idea", "💡", "#6DB4F2"],
-  words: ["Words", "🔤", "#E0A800"],
-  games: ["Game", "🎲", "#E2559A"],
-  experiments: ["Experiment", "🧪", "#3F8F5F"],
-  activities: ["Activity", "🤸", "#1FA89D"],
-  projects: ["Project", "🛠️", "#E8741C"],
-  challenges: ["Challenge", "🧩", "#9A5BD0"],
-  worksheets: ["Worksheet", "📝", "#3B7DD8"],
-  quiz: ["Quiz", "❓", "#E24B4E"],
-  videos: ["Watch", "▶️", "#5A5470"],
-  maths: ["Maths", "➗", "#0F8A7E"],
-  song: ["Song", "🎵", "#C25B9E"],
-  roots: ["Roots", "🪷", "#B0638C"],
-  extra: ["Extras", "✨", "#8A9A3B"],
+  story: ["Story", "📖", "#8C93C7", "read", "Story"],
+  idea: ["Big idea", "💡", "#6DB4F2", "learn", "Big ideas"],
+  words: ["Words", "🔤", "#E0A800", "words", "Words"],
+  games: ["Game", "🎲", "#E2559A", "game", "Games"],
+  experiments: ["Experiment", "🧪", "#3F8F5F", "exp", "Experiments"],
+  activities: ["Activity", "🤸", "#1FA89D", "act", "Activities"],
+  projects: ["Project", "🛠️", "#E8741C", "proj", "Projects"],
+  challenges: ["Challenge", "🧩", "#9A5BD0", "puzzle", "Challenges"],
+  worksheets: ["Worksheet", "📝", "#3B7DD8", "ws", "Worksheets"],
+  quiz: ["Quiz", "❓", "#E24B4E", "quiz", "Quiz"],
+  videos: ["Watch", "▶️", "#5A5470", "play", "Videos"],
+  maths: ["Maths", "➗", "#0F8A7E", "maths", "Maths"],
+  song: ["Song", "🎵", "#C25B9E", "song", "Song"],
+  roots: ["Roots", "🪷", "#B0638C", "roots", "Roots"],
+  extra: ["Extras", "✨", "#8A9A3B", "spark", "Extras"],
 };
 const fxGroup = (k) =>
   ({
@@ -837,9 +837,9 @@ function fxSecState(u, s) {
   const F = fxSt();
   return F.done[u.id]?.["sec:" + s.id] ? "done" : F.time[u.id]?.[s.id] ? "started" : "";
 }
-function fxTop(d, mapView) {
+function fxTop() {
   const F = fxSt();
-  return `<div class="fxtop"><button class="fxx" data-fx="${mapView ? "close" : "map"}" aria-label="${mapView ? "Close" : "Back to the unit map"}">${mapView ? "✕" : "🗺️"}</button><div class="fxbar"><i style="width:0"></i></div><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>`;
+  return `<div class="fxtop"><button class="fxx" data-fx="map" aria-label="Back to the unit's first screen">${icon("back")}</button><div class="fxbar"><i style="width:0"></i></div><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>`;
 }
 function fxMap() {
   const u = FXU,
@@ -854,29 +854,31 @@ function fxMap() {
     pos = F.pos[u.id],
     cont = pos && typeof pos === "object" ? pos.s : -1,
     tot = SL.reduce((a, s) => a + s.mins, 0),
-    spent = Object.values(T).reduce((a, b) => a + b, 0);
-  d.innerHTML =
-    fxTop(d, true) +
-    `<div class="fxmap"><div class="fxin">${fxImg(u, "summary", u.summary.art, "fxhero")}<div class="fxtxt"><span class="fxeb">${esc(u.id.split(".")[1])} · Class ${u.id.slice(-1)} · ${SL.length} parts · about ${Math.max(1, Math.round(tot / ({ 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[+u.id.slice(-1)] || 40)))} days of ${{ 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[+u.id.slice(-1)] || 40} minutes</span><h1>${esc(u.title)}</h1><p>${esc(u.summary.text)}</p>
-    <div class="fxmode"><button class="fxb" data-fx="mode" data-m="parent" aria-pressed="${F.mode === "parent"}">👩 I'm teaching</button><button class="fxb" data-fx="mode" data-m="child" aria-pressed="${F.mode === "child"}">🧒 I'm the learner</button></div>
-    ${cont >= 0 && cont < SL.length ? `<button class="fxb fxgo" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">▶ Carry on: ${esc(SL[cont].title)}</button>` : `<button class="fxb fxgo" data-fx="sec" data-s="0">▶ Start at the beginning</button>`}
-    <p class="fxsm">Or start with: </p><div class="fxchips">${u.plan.start_options
-      .map((o) => {
-        const i = SL.findIndex((s) => s.id === o || (o === "cards" && s.id === "terms"));
-        return i < 0
-          ? ""
-          : `<button class="fxchip" data-fx="sec" data-s="${i}">${SL[i].emoji} ${esc(SL[i].title)}</button>`;
+    spent = Object.values(T).reduce((a, b) => a + b, 0),
+    cls = +u.id.slice(-1),
+    day = { 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[cls] || 40,
+    it = unitBy("unit|" + u.id),
+    SD = it ? fxSpineDays(it).length : 0,
+    ref = unitRef(u.id),
+    groups = [...new Set(SL.map((s) => fxGroup(s.kind)))];
+  d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>
+    <div class="fxin fxsheetp"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
+    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"} to start</span>` : ""}<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>${ref ? `<span>${esc(ref)}</span>` : ""}</div>
+    ${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
+    ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${esc(SL[cont].title)}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
+    <div class="fxtiles">${groups
+      .map((g) => {
+        const L = SL.filter((s) => fxGroup(s.kind) === g),
+          n = L.filter((s) => fxSecState(u, s) === "done").length;
+        return `<button class="fxtile" data-fx="sec" data-s="${SL.indexOf(L[0])}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}<b>${FXKC[g][4]}</b><span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></button>`;
       })
       .join("")}</div>
-    <div class="fxstats"><span><b>${done}</b> of ${SL.length} parts done</span><span><b>${fxMin(spent)}</b> spent</span><span>${fxScore(u)}</span></div>
-    <h2>All the parts</h2><div class="fxlegend">${[...new Set(SL.map((s) => fxGroup(s.kind)))].map((g) => `<span class="fxkp" style="--kc:${FXKC[g][2]}">${FXKC[g][1]} ${FXKC[g][0]}</span>`).join("")}</div><ol class="fxparts">${SL.map(
-      (s, i) => {
-        const st = fxSecState(u, s);
-        return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${fxKC(s.kind)[2]}"><span class="fxpe">${st === "done" ? "✅" : s.emoji}</span><span><b>${esc(s.title)}</b><br>${fxPill(s.kind)} <span class="fxsm">${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span><span class="fxchev">›</span></button></li>`;
-      },
-    ).join("")}</ol></div></div></div>
+    <h2>All the parts</h2><ol class="fxparts">${SL.map((s, i) => {
+      const st = fxSecState(u, s),
+        [kn, , kc, ki] = fxKC(s.kind);
+      return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${kc}"><span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span><b>${esc(s.title)}</b><span class="fxsm">${kn} · ${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span>${icon("next")}</button></li>`;
+    }).join("")}</ol></div></div>
     <div class="fxact"><button class="fxaskb" data-fx="chat">${iamFace("mini")}Ask IAm</button></div>`;
-  d.querySelector(".fxbar i").style.width = (100 * done) / SL.length + "%";
 }
 function fxShowSection(si, ci) {
   const u = FXU,
@@ -906,7 +908,7 @@ function fxShowSection(si, ci) {
     end,
   ];
   d.innerHTML =
-    fxTop(d, false) +
+    fxTop() +
     `<div class="fxfeed" style="--kc:${fxKC(s.kind)[2]}">${FXCARDS.map((c, i) => `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}"><div class="fxin">${c.html}</div></section>`).join("")}</div>
    <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">${iamFace("mini")}Ask IAm</button></div>`;
   const feed = d.querySelector(".fxfeed"),
@@ -1245,6 +1247,10 @@ function fxClick(e) {
   if (a === "close") return fxClose();
   if (a === "map") return fxMap();
   if (a === "sec") return fxGo(+b.dataset.s, +(b.dataset.c || 0));
+  if (a === "sum") {
+    b.textContent = d.querySelector(".fxsum").classList.toggle("open") ? "Show less" : "Read all";
+    return;
+  }
   if (a === "begin") return sec?.nextElementSibling?.scrollIntoView({ behavior: "smooth" });
   if (a === "mode") {
     F.mode = b.dataset.m;
@@ -1255,9 +1261,6 @@ function fxClick(e) {
     if (!t) return;
     t.dataset.m = F.mode === "parent" ? "child" : "parent";
     t.textContent = F.mode === "parent" ? "👩 Teaching" : "🧒 Learner";
-    d.querySelectorAll('.fxmode [data-fx="mode"]').forEach((x) =>
-      x.setAttribute("aria-pressed", x.dataset.m === F.mode),
-    );
     return toast(F.mode === "parent" ? "Parent mode: what to do and say" : "Learner mode: the app talks to the child");
   }
   if (a === "save") {
@@ -1418,40 +1421,32 @@ function dkUnitOpen(id) {
 // the lessons and board chapters that link to a unit
 const unitChapters = (id) => DATA.items.filter((i) => (i.c?.units || []).some((x) => x.id === id));
 // the picture on a unit's card (app/build/combined/build.py picks it), or the subject's picture if the unit has none
-const unitPic = (id) => DATA.units?.[id]?.pic || `media/ui/subj-${id.split(".")[0] === "sci" ? "sci" : "dks"}.jpg`;
+const unitPic = (id) => DATA.units?.[id]?.pic || subjPic(id.split(".")[0]);
+// a subject's own picture, for anything without a picture of its own
+const subjPic = (s) => `media/ui/subj-${["sci", "math", "eng", "hin", "wml", "wart"].includes(s) ? s : "dks"}.jpg`;
+// a lesson's picture: its unit's, or the first unit it links to, or its subject's
+const lessonPic = (u) => {
+  const id = u.board === "unit" ? u.c?.unit : u.c?.units?.[0]?.id;
+  return id ? unitPic(id) : subjPic(u.subj);
+};
 const firstSentence = (t) => String(t || "").split(/(?<=[.?!])\s/)[0];
-// "NCERT Class 3 Ch 2, 9 · Cambridge Unit 3.1–3.3": the board chapters a lesson covers ([{b, ref}]), in one line,
-// for the family's own boards when it covers any of them
-function coversLine(refs) {
-  const mine = refs.filter((r) => boardsOn().includes(r.b)),
-    G = new Map();
-  for (const { b, ref } of mine.length ? mine : refs) {
-    const [, pre, n] = String(ref).match(/^(.*?) ?([\d.]+)$/) || [ref, ref, ""],
-      B = G.get(b) || new Map();
-    G.set(b, B.set(pre, [...(B.get(pre) || []), n]));
-  }
-  // 3.1, 3.2, 3.3 -> 3.1–3.3
-  const runs = (ns) =>
-    [...new Set(ns)]
-      .reduce((R, n) => {
-        const r = R[R.length - 1],
-          [p, last] = [n.replace(/\d+$/, ""), +n.match(/\d+$/)?.[0]];
-        if (r && r.p === p && r.last + 1 === last) {
-          r.ns.push(n);
-          r.last = last;
-        } else R.push({ p, last, ns: [n] });
-        return R;
-      }, [])
-      .map((r) => (r.ns.length > 2 ? `${r.ns[0]}–${r.ns[r.ns.length - 1]}` : r.ns.join(", ")))
-      .join(", ");
-  const L = [...G].map(
-    ([b, B]) => `${BNAME[b] || b} ${[...B].map(([pre, ns]) => `${pre} ${runs(ns)}`.trim()).join("; ")}`,
+// one card for a unit or lesson in the Library: its picture, title and first line, its board chapter as a small tag,
+// a line of short facts (html), a button on the side (side) and a line under it (foot)
+const unitCard = ({ act, pic, title, gist, tag, facts, side = "", foot = "", locked }) =>
+  `<div class="fxucard${locked ? " locked" : ""}"><button class="fxopenbtn" ${act}><img src="${esc(pic)}" alt="" loading="lazy"><span class="fxuc"><b>${esc(title)}</b>${locked ? ' <span class="lk">🔒</span>' : ""}${gist ? `<span class="fxgist">${esc(gist)}</span>` : ""}${tag ? `<span class="fxtag">${esc(tag)}</span>` : ""}${facts.some(Boolean) ? `<span class="fxfacts">${facts.filter(Boolean).join(" · ")}</span>` : ""}</span></button>${side}${foot ? `<div class="fxfoot xs">${foot}</div>` : ""}</div>`;
+// the first board chapter of a list ([{b, ref}]) in a few words ("NCERT Class 3 Ch 7"), the family's own board first
+const shortRef = (refs) => {
+  const r = refs.find((x) => boardsOn().includes(x.b)) || refs[0];
+  return r ? `${BNAME[r.b] || r.b} ${r.ref}` : "";
+};
+// a unit's board chapter in a few words ("NCERT Class 3 Ch 7"), the family's own board first
+const unitRef = (id) =>
+  shortRef(
+    unitChapters(id)
+      .filter((i) => CHREF[i.board])
+      .sort((a, b) => a.level - b.level || a.n - b.n)
+      .map((i) => ({ b: i.board, ref: CHREF[i.board](i) })),
   );
-  return L.length ? `Covers ${esc(L.slice(0, 3).join(" · "))}${L.length > 3 ? " and more" : ""}` : "";
-}
-// one card for a unit or lesson in the Library: its picture, title and first line, a few short facts (html), and foot
-const unitCard = ({ act, pic, title, gist, facts, foot = "", locked }) =>
-  `<div class="fxucard${locked ? " locked" : ""}"><button class="fxopenbtn" ${act}><img src="${esc(pic)}" alt="" loading="lazy"><span><b>${esc(title)}</b>${locked ? ' <span class="lk">🔒</span>' : ""}${gist ? `<span class="fxgist sm">${esc(gist)}</span>` : ""}</span></button>${facts.some(Boolean) ? `<p class="fxfacts xs">${facts.filter(Boolean).join("<br>")}</p>` : ""}${foot}</div>`;
 const CHREF = {
   ncert: (i) => `Class ${i.level} Ch ${i.n}`,
   cambridge: (i) => `Stage ${i.level} Unit ${i.n}`,
@@ -1470,32 +1465,32 @@ const fxUnitBtns = (L) =>
       D = u ? fxDayPlan(u) : [],
       s = u?.subj || "sci",
       open = dkUnitOpen(x.id),
-      covers = coversLine(
-        unitChapters(x.id)
-          .filter((i) => CHREF[i.board])
-          .sort((a, b) => a.level - b.level || a.n - b.n)
-          .map((i) => ({ b: i.board, ref: CHREF[i.board](i) })),
-      );
+      inPlan = (S.extra?.[s] || []).includes(k),
+      q = `data-act="fxq" data-s="${s}" data-k="${esc(k)}"`;
     return unitCard({
       act: `data-act="fxopen" data-u="${esc(x.id)}"`,
       pic: unitPic(x.id),
       title: x.title,
       gist: firstSentence(I.summary?.text),
+      tag: unitRef(x.id),
       locked: !open,
       facts: open
         ? [
             SD.length < D.length
-              ? `About ${SD.length} session${SD.length === 1 ? "" : "s"} to start · ${D.length} sessions in all`
+              ? `About ${SD.length} session${SD.length === 1 ? "" : "s"} to start, ${D.length} in all`
               : `About ${D.length} session${D.length === 1 ? "" : "s"}`,
-            covers,
-            nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? ` · ${np} with questions left` : ""}` : "",
+            nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? `, ${np} with questions left` : ""}` : "",
           ]
         : ["On the DeepKids track · not linked to your board's chapters"],
+      side:
+        open && !inPlan
+          ? `<button class="fxadd" ${q} data-front="1" aria-label="Add to plan: ${esc(x.title)}">${icon("plus")}</button>`
+          : "",
       foot: !open
         ? ""
-        : (S.extra?.[s] || []).includes(k)
-          ? `<p class="xs"><b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button></p>`
-          : `<div class="row" style="align-items:center"><button class="btn sm" data-act="fxq" data-front="1" data-s="${s}" data-k="${esc(k)}">＋ Add to plan</button><button class="link xs" data-act="fxq" data-s="${s}" data-k="${esc(k)}">or add it at the end</button></div>`,
+        : inPlan
+          ? `<b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button>`
+          : `<button class="link xs" ${q}>or add it at the end of the plan</button>`,
     });
   }).join("");
 // what a locked unit says when tapped

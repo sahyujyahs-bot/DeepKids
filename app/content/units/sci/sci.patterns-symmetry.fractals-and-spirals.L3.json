@@ -393,7 +393,13 @@
      "items": [
       "Whole: a cauliflower head",
       "Part: one floret of a cauliflower",
-      "Whole: a fern frond",
+      {
+       "f": "Whole: a fern frond",
+       "img": {
+        "src": "media/cards/fractals-and-spirals-g1-0-02.jpg",
+        "credit": "Timothy McNitt, CC BY, via iNaturalist"
+       }
+      },
       "Part: one leaflet of a fern frond",
       "Whole: a tree",
       "Part: one branch of a tree plus the twigs growing from that branch",

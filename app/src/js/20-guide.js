@@ -2,16 +2,16 @@
    The ? in the top bar replays the current screen; Settings turns the mode on or off. */
 const GUIDE = {
   today: [
-    [".greetbar", "Your day at a glance", "The date, how much is left today, and the sound switch."],
-    [".fxtoday", "This week", "Minutes learned this week, and the units your child is working on."],
-    [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
+    [".thero", "Your day at a glance", "The date, how much is done today, and the read-aloud button."],
     [".now", "What to do now", "The next thing to do. Tap it to start. When you finish, tap Done and it moves on."],
+    [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
     [
       ".daydrag .tr:has(.dh)",
       "Change the order",
       "Want maths before science today? Hold the ⠿ dots, drag the lesson up or down and let go. The lessons swap times.",
       "drag",
     ],
+    [".fxtoday", "This week", "Minutes learned this week, and the units your child is working on."],
     [".morebtn", "For spare moments", "Jokes, games, experiments and reading, whenever you have a few minutes."],
     [
       "#nav",
@@ -115,7 +115,6 @@ function guideShow() {
     st = L[g.i];
   let box = document.getElementById("guide");
   if (!st) return guideEnd();
-  iamLook();
   if (!box) {
     box = document.createElement("div");
     box.id = "guide";

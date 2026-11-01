@@ -369,7 +369,13 @@
       "Swing with 2 metre chains, a grown-up",
       "Swing with 1 metre ropes, a small child",
       "Swing with 1 metre ropes, a grown-up",
-      "A wall clock pendulum, 25 cm",
+      {
+       "f": "A wall clock pendulum, 25 cm",
+       "img": {
+        "src": "media/cards/swings-and-pendulums-g1-0-16.jpg",
+        "credit": "Original uploader was Av.kumar85 at en.wikipedia, Public domain, via Wikimedia Commons"
+       }
+      },
       {
        "f": "A tall floor clock pendulum, 1 metre",
        "img": {
@@ -378,7 +384,13 @@
        }
       },
       "A jhumka on a 3 cm hook",
-      "A temple bell's clapper, 20 cm",
+      {
+       "f": "A temple bell's clapper, 20 cm",
+       "img": {
+        "src": "media/cards/swings-and-pendulums-g1-0-19.jpg",
+        "credit": "Manjeet Bawa, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "String 4 metres, bob a bucket of water",
       "String 4 metres, bob 1 coin",
       "TRICK CARD: String 25 cm, bob a heavy iron ball, a very wide start",

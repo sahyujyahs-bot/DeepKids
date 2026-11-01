@@ -7,7 +7,7 @@ function combinedTopicList() {
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
     L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
   return `<div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
-   <h3 class="fxsh">Class ${lv} · ${L.length} topics</h3><p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
+   ${dkViewPick(`${L.length} topics`)}<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
 function combinedCard(e) {
@@ -19,11 +19,8 @@ function combinedCard(e) {
     pic: unitPic(e.units?.[0]?.id || u.subj),
     title: u.title,
     gist: firstSentence(u.c?.p?.summary),
-    facts: [
-      n ? `About ${n} session${n === 1 ? "" : "s"}` : "",
-      coversLine(e.boards),
-      s === "none" ? "" : `<b>${STATUS[s]}</b>`,
-    ],
+    tag: shortRef(e.boards || []),
+    facts: [n ? `About ${n} session${n === 1 ? "" : "s"}` : "", s === "none" ? "" : `<b>${STATUS[s]}</b>`],
   });
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder
@@ -36,15 +33,17 @@ function dkTrackBrowse() {
   return chips + combinedBrowse();
 }
 // DeepKids Science two ways, picked under View: the class plan, or every topic with its levels 1 to 5
-function combinedBrowse() {
-  const view = ui.dkview === "topic" ? "topic" : "class";
-  return `<label class="row viewpick"><span class="sm">View</span><select class="inp" id="dkView">${[
+const dkViewPick = (count) =>
+  `<div class="libview"><label class="viewpick"><span class="sm">View:</span><select id="dkView">${[
     ["class", "Class plan"],
     ["topic", "All topics and levels"],
   ]
-    .map(([k, n]) => `<option value="${k}"${view === k ? " selected" : ""}>${n}</option>`)
-    .join("")}</select></label>${view === "class" ? combinedTopicList() : fxTopicLadder()}`;
-}
+    .map(
+      ([k, n]) =>
+        `<option value="${k}"${(ui.dkview === "topic" ? "topic" : "class") === k ? " selected" : ""}>${n}</option>`,
+    )
+    .join("")}</select></label><span class="sm muted">${count}</span></div>`;
+const combinedBrowse = () => (ui.dkview === "topic" ? fxTopicLadder() : combinedTopicList());
 // every science topic, strand by strand, then level by level: a written unit opens (any family can add it to the
 // plan alongside the class plan); the rest show as being written
 function fxTopicLadder() {
@@ -65,7 +64,7 @@ function fxTopicLadder() {
     topic = (t) =>
       `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${count(lessons(t))}</span></summary>${t.levels.map(([l, subs]) => `<p class="fxlvl"><b>Level ${l}</b> · Class ${DATA.levels?.[l]?.cls || l}</p>${subs.map(lesson).join("")}`).join("")}</details>`;
   return T.length
-    ? `<section class="card fxnew"><span class="eyebrow">Every science topic · ${T.length} topics · ${Object.keys(DATA.units || {}).length} units</span><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
+    ? `${dkViewPick(`${T.length} topics · ${Object.keys(DATA.units || {}).length} units`)}<section class="fxnew"><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
         ...new Set(T.map((t) => t.strand)),
       ]
         .map((st) => {
@@ -954,7 +953,7 @@ const CATS = {
 function viewLibrary() {
   const t = ui.lt || "topics",
     inv = S.inv || [];
-  let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
+  let h = `<section class="sec libtop"><h1>Library</h1><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
   else if (t === "games") h += gamesTab();
