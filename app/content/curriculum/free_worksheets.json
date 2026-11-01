@@ -19,35 +19,6 @@
    "what": "Sorts objects into plants, animals and non-living things."
   },
   {
-   "title": "Animals and their Offspring",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/animals/animals-offspring",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Matches each animal to its baby (cow to calf)."
-  },
-  {
-   "title": "Ocean, Forest, Farm and Desert Habitats",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/animals/ocean-forest-farm-habitat",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Picks the animals that belong in each place."
-  },
-  {
-   "title": "Healthy Eating",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/healthy-eating",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Picks out the healthy foods."
-  }
- ],
- "cam|sci|1|2": [
-  {
    "title": "Parts of a Plant",
    "url": "https://www.k5learning.com/science-worksheets/first-grade-1/plants/plant-parts",
    "publisher": "K5 Learning",
@@ -66,24 +37,6 @@
    "what": "Picks out what a plant needs to grow."
   },
   {
-   "title": "Plant Life Cycle",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/plants/life-cycle",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Puts a plant's life in order: seed, sprout, plant, flower, fruit."
-  },
-  {
-   "title": "Seeds, Fruit and Plants",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/plants/seeds",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Links seeds, plants and the fruits they grow."
-  },
-  {
    "title": "Hydroponics Made Easy",
    "url": "https://www.sciencebuddies.org/stem-activities/hydroponics-activity",
    "publisher": "Science Buddies",
@@ -93,148 +46,7 @@
    "what": "Grows a plant in a bottle of water without soil."
   }
  ],
- "cam|sci|1|3": [
-  {
-   "title": "Parts of the Body",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/parts-of-body",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Labels the main parts of the body."
-  },
-  {
-   "title": "Parts of the Face",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/parts-face",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Labels eight parts of the face."
-  },
-  {
-   "title": "Our 5 Senses",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/senses",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Matches body parts to the senses."
-  },
-  {
-   "title": "Can You Sense It?",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/human-senses",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Sorts things you can hear, smell, see, feel or taste."
-  },
-  {
-   "title": "The Five Senses: Detective Sense!",
-   "url": "https://kidshealth.org/classroom/prekto2/body/functions/senses.pdf",
-   "publisher": "Nemours KidsHealth",
-   "licence": "all rights reserved / free to use (Reproduction permitted for individual classroom use)",
-   "use": "link",
-   "age": "PreK–Grade 2 (age 4–8)",
-   "what": "Visits sense stations and records what each sense found."
-  }
- ],
- "cam|sci|1|4": [
-  {
-   "title": "Rough or Smooth?",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/rough-smooth",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Sorts materials into rough and smooth."
-  },
-  {
-   "title": "Sink or Float?",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/sink-float",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Guesses which objects sink and which float."
-  },
-  {
-   "title": "Solids and Liquids",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/solids-liquids",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Sorts materials into solids and liquids."
-  },
-  {
-   "title": "Observable Properties",
-   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/observing-properties",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 2 (age 7–8)",
-   "what": "Records the colour, shape and feel of objects."
-  },
-  {
-   "title": "Sorting Properties with Venn Diagrams",
-   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/sorting-venn",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 2 (age 7–8)",
-   "what": "Sorts objects by two properties at once in a Venn diagram."
-  }
- ],
- "cam|sci|1|5": [
-  {
-   "title": "Push or Pull",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/forces-machines/push-pull",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Sorts pictures into pushes and pulls."
-  },
-  {
-   "title": "Forces and Direction",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/forces-machines/direction-forces",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Draws an arrow for the push needed to stop a rolling ball."
-  },
-  {
-   "title": "Forces and Motion",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/forces-machines/movement",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Compares two pictures and picks which will move faster."
-  },
-  {
-   "title": "Racing Jars",
-   "url": "https://www.eia.gov/kids/for-teachers/lesson-plans/pdfs/primary%20jars.pdf",
-   "publisher": "U.S. Energy Information Administration (Energy Kids)",
-   "licence": "unknown (sheet on EIA site carries The NEED Project credit)",
-   "use": "link",
-   "age": "Primary, Grades K–3",
-   "what": "Races an empty and a full jar down a slope and compares them."
-  },
-  {
-   "title": "Rolling Race",
-   "url": "https://www.sciencebuddies.org/stem-activities/rolling-race",
-   "publisher": "Science Buddies",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Ages 6–10, with an adult",
-   "what": "Races cans and balls down a slope to see which rolls fastest."
-  }
- ],
- "cam|sci|1|6": [
+ "cam|sci|1|2": [
   {
    "title": "Sound Words",
    "url": "https://www.k5learning.com/science-worksheets/first-grade-1/energy-sound-light/sound-words",
@@ -279,6 +91,156 @@
    "use": "link",
    "age": "Ages 6–12",
    "what": "Rolls a paper cone and hears how it gathers quiet sounds."
+  }
+ ],
+ "cam|sci|1|3": [
+  {
+   "title": "Rough or Smooth?",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/rough-smooth",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Sorts materials into rough and smooth."
+  },
+  {
+   "title": "Solids and Liquids",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/solids-liquids",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Sorts materials into solids and liquids."
+  },
+  {
+   "title": "Observable Properties",
+   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/observing-properties",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 2 (age 7–8)",
+   "what": "Records the colour, shape and feel of objects."
+  },
+  {
+   "title": "Sorting Properties with Venn Diagrams",
+   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/sorting-venn",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 2 (age 7–8)",
+   "what": "Sorts objects by two properties at once in a Venn diagram."
+  }
+ ],
+ "cam|sci|1|5": [
+  {
+   "title": "Parts of the Body",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/parts-of-body",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Labels the main parts of the body."
+  },
+  {
+   "title": "Parts of the Face",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/parts-face",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Labels eight parts of the face."
+  },
+  {
+   "title": "Our 5 Senses",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/senses",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Matches body parts to the senses."
+  },
+  {
+   "title": "Can You Sense It?",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/human-senses",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Sorts things you can hear, smell, see, feel or taste."
+  },
+  {
+   "title": "The Five Senses: Detective Sense!",
+   "url": "https://kidshealth.org/classroom/prekto2/body/functions/senses.pdf",
+   "publisher": "Nemours KidsHealth",
+   "licence": "all rights reserved / free to use (Reproduction permitted for individual classroom use)",
+   "use": "link",
+   "age": "PreK–Grade 2 (age 4–8)",
+   "what": "Visits sense stations and records what each sense found."
+  },
+  {
+   "title": "Healthy Eating",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/healthy-eating",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Picks out the healthy foods."
+  }
+ ],
+ "cam|sci|1|6": [
+  {
+   "title": "Push or Pull",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/forces-machines/push-pull",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Sorts pictures into pushes and pulls."
+  },
+  {
+   "title": "Forces and Direction",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/forces-machines/direction-forces",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Draws an arrow for the push needed to stop a rolling ball."
+  },
+  {
+   "title": "Forces and Motion",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/forces-machines/movement",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Compares two pictures and picks which will move faster."
+  },
+  {
+   "title": "Racing Jars",
+   "url": "https://www.eia.gov/kids/for-teachers/lesson-plans/pdfs/primary%20jars.pdf",
+   "publisher": "U.S. Energy Information Administration (Energy Kids)",
+   "licence": "unknown (sheet on EIA site carries The NEED Project credit)",
+   "use": "link",
+   "age": "Primary, Grades K–3",
+   "what": "Races an empty and a full jar down a slope and compares them."
+  },
+  {
+   "title": "Rolling Race",
+   "url": "https://www.sciencebuddies.org/stem-activities/rolling-race",
+   "publisher": "Science Buddies",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Ages 6–10, with an adult",
+   "what": "Races cans and balls down a slope to see which rolls fastest."
+  },
+  {
+   "title": "Sink or Float?",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/sink-float",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 1 (age 6–7)",
+   "what": "Guesses which objects sink and which float."
   }
  ],
  "cam|sci|2|1": [
@@ -608,56 +570,7 @@
    "use": "link",
    "age": "Ages 8–11, with an adult",
    "what": "Grows a plant in a bottle of water without soil."
-  }
- ],
- "cam|sci|3|2": [
-  {
-   "title": "Food Groups",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/food-groups",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Matches foods to their group and draws a balanced meal."
   },
-  {
-   "title": "Breakfast: Great Beginnings",
-   "url": "https://kidshealth.org/classroom/3to5/personal/nutrition/breakfast.pdf",
-   "publisher": "Nemours KidsHealth",
-   "licence": "all rights reserved / free to use (Reproduction permitted for individual classroom use)",
-   "use": "link",
-   "age": "Grades 3–5 (age 8–11)",
-   "what": "Plans a healthy breakfast and answers a quiz."
-  },
-  {
-   "title": "Sleep: Sleep Log",
-   "url": "https://kidshealth.org/classroom/3to5/body/functions/sleep.pdf",
-   "publisher": "Nemours KidsHealth",
-   "licence": "all rights reserved / free to use (Reproduction permitted for individual classroom use)",
-   "use": "link",
-   "age": "Grades 3–5 (age 8–11)",
-   "what": "Keeps a sleep log and reads a short sleep story."
-  },
-  {
-   "title": "Fitness: Playing Is Winning!",
-   "url": "https://kidshealth.org/classroom/3to5/personal/fitness/fitness.pdf",
-   "publisher": "Nemours KidsHealth",
-   "licence": "all rights reserved / free to use (Reproduction permitted for individual classroom use)",
-   "use": "link",
-   "age": "Grades 3–5 (age 8–11)",
-   "what": "Plans active play and answers a fitness quiz."
-  },
-  {
-   "title": "How Does Heart Rate Change with Exercise?",
-   "url": "https://www.sciencebuddies.org/stem-activities/sweaty-science-how-does-heart-rate-change-with-exercise",
-   "publisher": "Science Buddies",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Ages 8–11, with an adult",
-   "what": "Counts heartbeats before and after exercise."
-  }
- ],
- "cam|sci|3|3": [
   {
    "title": "Living Things",
    "url": "https://www.k5learning.com/science-worksheets/first-grade-1/plants/living-things",
@@ -666,15 +579,17 @@
    "use": "link",
    "age": "Grade 1 (age 6–7)",
    "what": "Sorts pictures into living and non-living things."
-  },
+  }
+ ],
+ "cam|sci|3|4": [
   {
-   "title": "Needs of Living Things",
-   "url": "https://www.k5learning.com/science-worksheets/third-grade-3/ecosystems/basic-needs",
-   "publisher": "K5 Learning",
+   "title": "How Does Heart Rate Change with Exercise?",
+   "url": "https://www.sciencebuddies.org/stem-activities/sweaty-science-how-does-heart-rate-change-with-exercise",
+   "publisher": "Science Buddies",
    "licence": "all rights reserved / free to use",
    "use": "link",
-   "age": "Grade 3 (age 8–9)",
-   "what": "Lists what plants and animals need to live."
+   "age": "Ages 8–11, with an adult",
+   "what": "Counts heartbeats before and after exercise."
   },
   {
    "title": "Animal Classification",
@@ -704,101 +619,7 @@
    "what": "Sorts animals by what they eat."
   }
  ],
- "cam|sci|3|4": [
-  {
-   "title": "Using Our 5 Senses",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/human-body/five-senses",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Picks which sense is used most with each object."
-  },
-  {
-   "title": "The Five Senses: Detective Sense!",
-   "url": "https://kidshealth.org/classroom/prekto2/body/functions/senses.pdf",
-   "publisher": "Nemours KidsHealth",
-   "licence": "all rights reserved / free to use (Reproduction permitted for individual classroom use)",
-   "use": "link",
-   "age": "PreK–Grade 2 (age 4–8)",
-   "what": "Visits sense stations and records what each sense found."
-  },
-  {
-   "title": "Color Taste Test: Do You Taste with Your Eyes?",
-   "url": "https://www.sciencebuddies.org/stem-activities/color-taste-test",
-   "publisher": "Science Buddies",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Ages 6–10, with an adult",
-   "what": "Tastes coloured drinks to see if colour changes the taste."
-  },
-  {
-   "title": "Play a Memory Game with Your Nose!",
-   "url": "https://www.sciencebuddies.org/stem-activities/play-a-memory-game-with-your-nose",
-   "publisher": "Science Buddies",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Ages 6–10, with an adult",
-   "what": "Plays a matching game using only smell."
-  },
-  {
-   "title": "Write and Read Braille",
-   "url": "https://www.sciencebuddies.org/stem-activities/braille",
-   "publisher": "Science Buddies",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Ages 6–10, with an adult",
-   "what": "Writes and reads words in raised dots by touch."
-  }
- ],
  "cam|sci|3|5": [
-  {
-   "title": "Observable Properties",
-   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/observing-properties",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 2 (age 7–8)",
-   "what": "Records the colour, shape and feel of objects."
-  },
-  {
-   "title": "Sorting Properties with Venn Diagrams",
-   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/sorting-venn",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 2 (age 7–8)",
-   "what": "Sorts objects by two properties at once in a Venn diagram."
-  },
-  {
-   "title": "Material Properties and Uses",
-   "url": "https://www.k5learning.com/science-worksheets/second-grade-2/material-properties/uses",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 2 (age 7–8)",
-   "what": "Links what a material is like to what it is used for."
-  },
-  {
-   "title": "Magnets",
-   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/magnets",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 1 (age 6–7)",
-   "what": "Picks the objects a magnet will pull."
-  },
-  {
-   "title": "Magnets",
-   "url": "https://www.k5learning.com/science-worksheets/third-grade-3/electricity-magnetism/magnetism",
-   "publisher": "K5 Learning",
-   "licence": "all rights reserved / free to use",
-   "use": "link",
-   "age": "Grade 3 (age 8–9)",
-   "what": "Explores magnetic materials and the poles of a magnet."
-  }
- ],
- "cam|sci|3|6": [
   {
    "title": "Force and Motion",
    "url": "https://www.k5learning.com/science-worksheets/third-grade-3/forces-motion/forces-motion",
@@ -836,13 +657,22 @@
    "what": "Builds a simple forcemeter with a rubber band or spring."
   },
   {
-   "title": "Slip Sliding Away: Experimenting with Friction",
-   "url": "https://www.sciencebuddies.org/stem-activities/slip-sliding-away-experimenting-with-friction",
-   "publisher": "Science Buddies",
+   "title": "Magnets",
+   "url": "https://www.k5learning.com/science-worksheets/first-grade-1/material-properties/magnets",
+   "publisher": "K5 Learning",
    "licence": "all rights reserved / free to use",
    "use": "link",
-   "age": "Ages 8–11, with an adult",
-   "what": "Slides objects over different surfaces to compare friction."
+   "age": "Grade 1 (age 6–7)",
+   "what": "Picks the objects a magnet will pull."
+  },
+  {
+   "title": "Magnets",
+   "url": "https://www.k5learning.com/science-worksheets/third-grade-3/electricity-magnetism/magnetism",
+   "publisher": "K5 Learning",
+   "licence": "all rights reserved / free to use",
+   "use": "link",
+   "age": "Grade 3 (age 8–9)",
+   "what": "Explores magnetic materials and the poles of a magnet."
   }
  ],
  "cam|sci|4|1": [

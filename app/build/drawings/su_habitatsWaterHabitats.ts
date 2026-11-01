@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { D, INK, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, glass, hand, write, cards } from "./flatKit";
+import { D, INK, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, glass, hand, plate, write, cards } from "./flatKit";
 
 // WATER HABITATS L3 · ten set-up cards in the flat kit: bold ink, flat colour, a shade side, soft shadow.
 
@@ -202,35 +202,34 @@ const e1s3 = (c: Ctx) => {
 // setup.e2.0
 const e2s0 = (c: Ctx) => {
   ground(c);
-  katori(c, 190, 400, 150, COL.water, 0);
-  katori(c, 540, 400, 150, "#a9d2ec", 8, 3);
-  katori(c, 890, 400, 150, "#cfe6f4", 32, 4);
-  // a teaspoon of salt and a tablespoon of salt
-  const spoon = (x: number, y: number, rx: number, ry: number, len: number) => {
-    shadow(c, x + 12, y + ry * 0.7, rx + len * 0.4, ry * 0.5);
-    shape(c, () => rrect(c, x, y - ry * 0.18, len, ry * 0.36, ry * 0.18), COL.steelDk, 5);
-    shape(c, () => ell(c, x, y, rx, ry), COL.steel, 5);
-    shape(c, () => ell(c, x, y - ry * 0.15, rx * 0.85, ry * 0.75), WHITE, 3);
+  [180, 520, 860].forEach((x) => katori(c, x, 640, 140, COL.water, 0));
+  // a spoon of salt tipped over each of the last two bowls, held by a hand
+  const spoon = (bx: number, rx: number, ry: number, grains: number) => {
+    const cs = Math.cos(0.65), sn = Math.sin(0.65), tipY = 520, sx = bx - rx * cs, sy = tipY - rx * sn;
+    const hx = sx - cs * (rx + 130), hy = sy - sn * (rx + 130), s = 1.2;
+    line(c, [[sx, sy], [sx - cs * (rx + 230), sy - sn * (rx + 230)]], 22, INK); line(c, [[sx, sy], [sx - cs * (rx + 230), sy - sn * (rx + 230)]], 12, COL.steelDk);
+    shape(c, () => ell(c, sx, sy, rx, ry, 0.65), COL.steel, 6);
+    shape(c, () => ell(c, sx + 4, sy - 2, rx * 0.8, ry * 0.7, 0.65), WHITE, 3);
     const rd = rnd(rx);
-    for (let i = 0; i < 9; i++) shape(c, () => ell(c, x - rx * 0.55 + rd() * rx * 1.1, y - ry * 0.55 + rd() * ry * 0.8, 3.5, 2.5), COL.cloth, 1.5);
+    for (let i = 0; i < grains; i++) shape(c, () => ell(c, bx - 6 + (rd() - 0.5) * 30, tipY + 20 + rd() * 95, 5, 4), WHITE, 2);
+    hand(c, hx - cs * 70 * s, hy - sn * 70 * s, 0.65, s);
+    for (let i = 0; i < grains; i++) shape(c, () => ell(c, bx - 60 + rd() * 120, 645 + rd() * 14, 5, 3.5), WHITE, 2);
   };
-  spoon(470, 790, 64, 44, 170); spoon(790, 800, 98, 66, 190);
+  spoon(520, 50, 34, 5); spoon(860, 85, 58, 10);
 };
 
 // setup.e2.1
 const e2s1 = (c: Ctx) => {
   ground(c);
-  [[190, COL.water, 0], [540, "#a9d2ec", 8], [890, "#cfe6f4", 32]].forEach(([x, w, n], i) => {
-    katori(c, x as number, 260, 150, w as string, n as number, 3 + i);
-    cuke(c, (x as number) - 52, 262, 44, 26, 9); cuke(c, (x as number) + 50, 266, 44, 26, 9);
+  [190, 540, 890].forEach((x, i) => {
+    katori(c, x, 700, 150, COL.water, 0);
+    cuke(c, x - 50, 712, 52, 28, 10);
+    if (i < 2) cuke(c, x + 52, 716, 52, 28, 10);
   });
-  // the board with six slices, two for each bowl
-  shadow(c, 560, 960, 440, 20);
-  const bd = () => rrect(c, 110, 560, 860, 380, 40);
-  shape(c, bd, COL.wood); shade(c, bd, COL.woodDk, 0, -26, 0.7);
-  shape(c, () => rrect(c, 900, 640, 40, 90, 20), COUNTER, 5);
-  [190, 540, 890].forEach((x) => { cuke(c, x - 20 - (x === 890 ? 40 : 0), 690, 62, 40, 14); cuke(c, x - 20 - (x === 890 ? 40 : 0), 830, 62, 40, 14); });
-  [190, 540, 890].forEach((x) => arrow(c, [[x, 548], [x, 455]], RED, 9));
+  // a hand lets the second slice go into the last bowl
+  hand(c, 890, 200, Math.PI / 2, 1.3);
+  cuke(c, 905, 322, 52, 28, 10);
+  arrow(c, [[905, 400], [905, 570]], RED, 10);
 };
 
 // setup.e2.2
@@ -252,10 +251,14 @@ const e2s2 = (c: Ctx) => {
 
 // setup.e3.0
 const e3s0 = (c: Ctx) => {
-  ground(c); counter(c, 780);
-  tower(c, 170, 880, 180, 360);
-  ball(c, 470, 880, 129);
-  dome(c, 820, 880, 195, 83);
+  ground(c);
+  plate(c, 540, 900, 500, 120);
+  tower(c, 200, 900, 170, 330);
+  ball(c, 470, 915, 110);
+  // the third piece of dough, pressed flat into a dome by an open hand
+  dome(c, 830, 910, 150, 75);
+  hand(c, 830, 690, Math.PI / 2, 1.5, SKIN.child, CLOTH.child, true);
+  arrow(c, [[1020, 580], [1020, 780]], RED, 10);
 };
 
 // setup.e3.1

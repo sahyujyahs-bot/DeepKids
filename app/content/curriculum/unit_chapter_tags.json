@@ -1,19 +1,17 @@
 {
- "cam|sci|1|1": [
-  "sci.habitats.habitats.L3",
-  "sci.animals.animal-life-cycles.L3",
-  "sci.food.balanced-diet.L3"
+ "cam|sci|1|2": [
+  "sci.senses.five-senses.L3"
  ],
- "cam|sci|1|4": [
+ "cam|sci|1|3": [
   "sci.materials.properties.L3",
   "sci.materials.testing-materials.L3",
   "sci.waste.reduce-reuse-recycle.L3"
  ],
  "cam|sci|1|5": [
-  "sci.forces.friction.L3"
+  "sci.food.balanced-diet.L3"
  ],
  "cam|sci|1|6": [
-  "sci.senses.five-senses.L3"
+  "sci.forces.friction.L3"
  ],
  "cam|sci|2|1": [
   "sci.waste.reduce-reuse-recycle.L3"
@@ -38,17 +36,20 @@
   "sci.day-night-seasons.day-and-night.L3",
   "sci.sky.sun-moon-stars.L3"
  ],
- "cam|sci|3|2": [
-  "sci.body.heart-blood-breath.L3"
+ "cam|sci|2|6": [
+  "sci.electricity.simple-circuits.L3"
+ ],
+ "cam|sci|3|1": [
+  "sci.plants.photosynthesis.L3"
  ],
  "cam|sci|3|3": [
-  "sci.animals.animal-life-cycles.L3",
-  "sci.animals.vertebrate-groups.L3",
-  "sci.plants.photosynthesis.L3",
-  "sci.body.growing-old.L3"
+  "sci.light.how-we-see.L3"
  ],
  "cam|sci|3|4": [
-  "sci.light.how-we-see.L3"
+  "sci.body.heart-blood-breath.L3",
+  "sci.animals.animal-life-cycles.L3",
+  "sci.animals.vertebrate-groups.L3",
+  "sci.body.growing-old.L3"
  ],
  "cam|sci|4|1": [
   "sci.body.organs-inside.L3",
@@ -66,6 +67,9 @@
   "sci.sky.sun-moon-stars.L3",
   "sci.light.transparent-opaque.L3",
   "sci.light.what-is-light.L3"
+ ],
+ "cam|sci|4|6": [
+  "sci.electricity.simple-circuits.L3"
  ],
  "cam|sci|5|2": [
   "sci.sound.sources-of-sound.L3"

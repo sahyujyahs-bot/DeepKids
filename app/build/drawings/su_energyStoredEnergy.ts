@@ -116,14 +116,17 @@ const e1s1 = (c: Ctx) => {
 // setup.e1.2
 const e1s2 = (c: Ctx) => {
   floor(c);
-  const cx = 520, cy = 600, len = 480, R = 150, x0 = cx - len / 2, x1 = cx + len / 2;
+  const cx = 520, cy = 650, len = 480, R = 150, x0 = cx - len / 2, x1 = cx + len / 2;
   jarSide(c, cx, cy, len, R, () => {
     bandInside(c, x0 - 40, x1 - 70, cy, true);
     line(c, [[cx, cy], [cx, cy + 36]], 6, COL.purple);
     padlock(c, cx, cy + 100, 0.75);
-  }, () => { tapeStrip(c, x0 + 90, cy, R); lidStick(c, x1, cy); });
-  hand(c, 270, 320, 0.7, 2.1, SKIN.child, CLOTH.child, true);
-  arrow(c, [[300, 880], [800, 880]]);
+  }, () => { tapeStrip(c, x0 + 100, cy, R); lidStick(c, x1, cy); });
+  // the child's arm and flat hand press on top of the jar and roll it forward
+  const hy = cy - R - 62, hx = 470;
+  line(c, [[hx - 130, hy], [-40, hy - 230]], 150, INK); line(c, [[hx - 130, hy], [-40, hy - 230]], 138, CLOTH.child);
+  hand(c, hx, hy, 0, 1.9, SKIN.child, CLOTH.child, true);
+  arrow(c, [[300, 190], [800, 190]], RED, 14);
 };
 
 // setup.e1.3
@@ -229,11 +232,13 @@ const e2s2 = (c: Ctx) => {
   const rad = Math.PI / 180;
   line(c, [[cx, cy], at(300 * rad, r * 0.45)], 18); // hour hand, near 10
   line(c, [[cx, cy], at(60 * rad, r * 0.66)], 12); // minute hand, near 2
-  line(c, [at(190 * rad, -r * 0.14), at(190 * rad, r * 0.74)], 9, INK); line(c, [at(190 * rad, -r * 0.14), at(190 * rad, r * 0.74)], 4, RED);
+  // the thin red second hand sweeping round, with ghost hands behind it and an arrow in front
+  for (const [g, al] of [[88, 0.2], [100, 0.35]] as [number, number][]) { c.globalAlpha = al; line(c, [at(g * rad, -r * 0.14), at(g * rad, r * 0.74)], 6, RED); c.globalAlpha = 1; }
+  line(c, [at(114 * rad, -r * 0.14), at(114 * rad, r * 0.74)], 11, INK); line(c, [at(114 * rad, -r * 0.14), at(114 * rad, r * 0.74)], 5, RED);
   shape(c, () => ell(c, cx, cy, 16, 16), RED, 5);
   const arc: number[][] = [];
-  for (let a = 215; a <= 262; a += 4) arc.push(at(a * rad, r * 0.5));
-  arrow(c, arc);
+  for (let a = 126; a <= 162; a += 4) arc.push(at(a * rad, r * 0.6));
+  arrow(c, arc, RED, 12);
   // the phone beside it, showing the same time
   line(c, [[610, 520], [676, 520]], 10); line(c, [[610, 570], [676, 570]], 10);
   shadow(c, 850, 830, 150, 24);

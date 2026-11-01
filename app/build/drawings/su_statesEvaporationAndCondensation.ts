@@ -14,19 +14,27 @@ const tableRoom = (c: Ctx) => {
   c.fillStyle = "#e6cf9f"; c.fillRect(0, 690, 1080, 390);
   line(c, [[0, 690], [1080, 690]], 5);
 };
-// a wet cloth lying flat on the floor of a box, seen through the clear wall
+// the wet coloured cotton square: pink with a check, darker where wet
+const PINK = "#e57f93", PINKDK = "#c75d75", PINKLT = "#f6b8c4";
+// a wet cloth lying flat on the floor of a box, seen through the clear wall from a little above
 const flatCloth = (c: Ctx, x: number, yb: number, w: number) => {
-  shape(c, () => polyP(c, [[x - w * 0.4, yb - 8], [x + w * 0.4, yb - 8], [x + w * 0.31, yb - 44], [x - w * 0.31, yb - 44]]), WET, 5);
-  shade(c, () => polyP(c, [[x - w * 0.4, yb - 8], [x + w * 0.4, yb - 8], [x + w * 0.31, yb - 44], [x - w * 0.31, yb - 44]]), WETDK, 0, 14, 0.6);
-  for (const k of [-0.2, 0.05, 0.25]) shape(c, () => ell(c, x + w * k, yb - 26, 8, 5), COL.drop, 2.5);
+  const d = w * 0.3, g = w * 0.03;
+  shape(c, () => polyP(c, [[x - w * 0.4, yb - d], [x + w * 0.4, yb - d], [x + w * 0.46, yb - 4], [x - w * 0.46, yb - 4]]), "rgba(150,190,222,0.6)", 3);
+  const bl = [x - w * 0.33, yb - d * 0.92], br = [x + w * 0.33, yb - d * 0.92], fl = [x - w * 0.42, yb - d * 0.1 - g], fr = [x + w * 0.42, yb - d * 0.1 - g];
+  const P = (u: number, v: number) => [(bl[0] + (br[0] - bl[0]) * u) * (1 - v) + (fl[0] + (fr[0] - fl[0]) * u) * v, (bl[1] + (br[1] - bl[1]) * u) * (1 - v) + (fl[1] + (fr[1] - fl[1]) * u) * v];
+  shape(c, () => polyP(c, [fl, fr, [fr[0], fr[1] + g], [fl[0], fl[1] + g]]), PINKDK, 5);
+  shape(c, () => polyP(c, [bl, br, fr, fl]), PINK, 5);
+  for (const u of [0.25, 0.5, 0.75]) line(c, [P(u, 0.05), P(u, 0.95)], Math.max(3, w * 0.012), PINKLT);
+  for (const v of [0.33, 0.66]) line(c, [P(0.03, v), P(0.97, v)], Math.max(3, w * 0.012), PINKLT);
+  for (const [u, v] of [[0.3, 0.45], [0.7, 0.35], [0.55, 0.75]]) { const p = P(u, v); shape(c, () => ell(c, p[0], p[1], w * 0.03, w * 0.018), COL.drop, 2.5); }
 };
 // the clear box: kind "open" shows the rim, "lid" has its lid on
 const box = (c: Ctx, x: number, kind: "open" | "lid", wet = true) => {
   const yb = BY, h = BH, w = BW;
   shadow(c, x + 24, yb + 8, w * 0.62, 24);
-  if (wet) flatCloth(c, x, yb, w);
   const body = () => polyP(c, [[x - w / 2, yb - h], [x + w / 2, yb - h], [x + w * 0.46, yb], [x - w * 0.46, yb]]);
   shape(c, body, "rgba(214,236,250,0.5)", 6);
+  if (wet) flatCloth(c, x, yb, w);
   shine(c, [[x - w * 0.38, yb - h * 0.85], [x - w * 0.34, yb - h * 0.2]], 8);
   if (kind === "open") shape(c, () => ell(c, x, yb - h, w / 2, 20), "rgba(255,255,255,0.3)", 5);
   else {
@@ -45,9 +53,15 @@ const e1s0 = (c: Ctx) => {
   tableRoom(c);
   box(c, 240, "open"); box(c, 640, "open", false);
   // a hand lowering a wet, squeezed cloth into the right box
-  shape(c, () => { c.moveTo(540, 250); c.lineTo(740, 250); c.lineTo(745, 420); c.quadraticCurveTo(700, 450, 650, 425); c.quadraticCurveTo(595, 450, 540, 420); c.closePath(); }, WET, 6);
-  shade(c, () => { c.moveTo(540, 250); c.lineTo(740, 250); c.lineTo(745, 420); c.quadraticCurveTo(700, 450, 650, 425); c.quadraticCurveTo(595, 450, 540, 420); c.closePath(); }, WETDK, 40, 0, 0.6);
-  dropP(c, 600, 500, 12); dropP(c, 690, 530, 12);
+  const cl = () => { c.moveTo(535, 250); c.lineTo(745, 250); c.quadraticCurveTo(762, 350, 742, 430); c.quadraticCurveTo(700, 475, 650, 440); c.quadraticCurveTo(590, 478, 545, 435); c.quadraticCurveTo(518, 350, 535, 250); c.closePath(); };
+  shape(c, cl, PINK, 6);
+  shade(c, cl, PINKDK, 40, 0, 0.6);
+  c.save(); c.beginPath(); cl(); c.clip();
+  for (const y of [310, 370, 430]) line(c, [[520, y], [770, y]], 6, PINKLT);
+  for (const x of [590, 640, 690]) line(c, [[x, 250], [x - 6, 470]], 6, PINKLT);
+  for (const x of [575, 665]) line(c, [[x, 290], [x + 14, 400]], 4, PINKDK);
+  c.restore();
+  dropP(c, 600, 500, 12); dropP(c, 690, 520, 12);
   hand(c, 640, 175, Math.PI / 2, 1.7, SKIN.child, CLOTH.child);
   arrow(c, [[850, 250], [850, 420]]);
 };
@@ -69,13 +83,16 @@ const e1s2 = (c: Ctx) => {
   c.fillStyle = "#e6cf9f"; c.fillRect(0, 800, 1080, 280); line(c, [[0, 800], [1080, 800]], 5);
   const x = 540, yb = 880, w = 600, h = 420, lt = yb - h - 30;
   shadow(c, x + 30, yb + 8, w * 0.62, 26);
-  flatCloth(c, x, yb, w);
   const body = () => polyP(c, [[x - w / 2, yb - h], [x + w / 2, yb - h], [x + w * 0.46, yb], [x - w * 0.46, yb]]);
   shape(c, body, "rgba(214,236,250,0.5)", 6);
-  // the water going up from the cloth, and the drops forming under the lid
-  for (const dx of [-110, 0, 120]) line(c, [[x + dx, yb - 70], [x + dx + 16, yb - 140], [x + dx - 14, yb - 210], [x + dx + 10, yb - 280]], 8, "rgba(255,255,255,0.85)");
-  for (const [dx, s] of [[-160, 12], [-100, 16], [-40, 13], [30, 17], [100, 13], [160, 15], [-10, 11], [70, 10]]) dropP(c, x + dx, yb - h + 28 + s * 0.4, s);
-  dropP(c, x - 70, yb - h + 140, 11); dropP(c, x + 110, yb - h + 170, 10);
+  flatCloth(c, x, yb, w);
+  // the water going up from the cloth as vapour, and big drops hanging under the lid
+  for (const dx of [-150, 0, 150]) {
+    const pts: number[][] = []; for (let k = 0; k <= 24; k++) pts.push([x + dx + Math.sin(k * 0.5) * 22, yb - 130 - k * 6.5]);
+    thick(c, pts, 14, "#ffffff");
+    const q = pts[24]; line(c, [[q[0] - 26, q[1] + 18], [q[0], q[1] - 12], [q[0] + 26, q[1] + 18]], 9);
+  }
+  for (const [dx, s] of [[-190, 15], [-110, 20], [-30, 16], [50, 21], [130, 16], [200, 19]]) dropP(c, x + dx, yb - h + 34 + s * 0.4, s * 1.2);
   shine(c, [[x - w * 0.4, yb - h * 0.8], [x - w * 0.37, yb - h * 0.3]], 9);
   shape(c, () => rrect(c, x - w / 2 - 14, yb - h - 34, w + 28, 38, 12), COL.teal, 6);
   shade(c, () => rrect(c, x - w / 2 - 14, yb - h - 34, w + 28, 38, 12), COL.tealDk, 0, 17, 0.7);
@@ -151,53 +168,69 @@ const e2s0 = (c: Ctx) => {
   arrow(c, [[560, 60], [480, 110], [420, 200]]);
   hand(c, 915, 125, Math.PI, 1.7, SKIN.child, CLOTH.child);
 };
-// the phone showing a stopwatch
-const phone = (c: Ctx, x: number, yb: number, frac: number) => {
+// the ice water seen in the open top of the tumbler (k scales it to the opening)
+const iceInside = (ix: number, iy: number, rx: number, ry: number, c: Ctx) => {
+  const k = rx / 178; c.fillStyle = COL.water; c.fillRect(ix - rx, iy - ry, rx * 2, ry * 2);
+  cube(c, ix - 70 * k, iy - 4 * k, 36 * k, 0.3); cube(c, ix + 40 * k, iy + 8 * k, 34 * k, -0.2); cube(c, ix + 85 * k, iy - 10 * k, 30 * k, 0.5);
+};
+// the phone showing a stopwatch: a green start button, or a red stop button
+const phone = (c: Ctx, x: number, yb: number, frac: number, btn: "start" | "stop") => {
   const w = 170, h = 300;
   shadow(c, x + 20, yb + 4, w * 0.6, 14);
   shape(c, () => rrect(c, x - w / 2, yb - h, w, h, 22), COL.black, 6);
   shape(c, () => rrect(c, x - w / 2 + 12, yb - h + 22, w - 24, h - 44, 10), "#2d3a44", 3);
-  const cy = yb - h / 2, r = 54;
+  const cy = yb - h / 2 - 10, r = 54;
   shape(c, () => ell(c, x, cy, r, r), WHITE, 4);
-  c.beginPath(); c.moveTo(x, cy); c.arc(x, cy, r - 3, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * frac); c.closePath(); c.fillStyle = RED; c.fill();
+  if (frac > 0) { c.beginPath(); c.moveTo(x, cy); c.arc(x, cy, r - 3, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * frac); c.closePath(); c.fillStyle = RED; c.fill(); }
   shape(c, () => ell(c, x, cy, r, r), "rgba(0,0,0,0)", 4);
   line(c, [[x, cy], [x, cy - r + 10]], 5);
+  const by = yb - 58;
+  shape(c, () => ell(c, x, by, 26, 26), btn === "stop" ? RED : COL.green, 4);
+  if (btn === "stop") shape(c, () => rrect(c, x - 10, by - 10, 20, 20, 3), WHITE, 0);
+  else shape(c, () => polyP(c, [[x - 8, by - 12], [x + 13, by], [x - 8, by + 12]]), WHITE, 0);
 };
-const mirror = (c: Ctx, foggy: boolean) => {
-  shape(c, () => rrect(c, 60, 50, 380, 300, 28), "#e7f1f6", 8);
-  shine(c, [[110, 100], [160, 300]], 12);
-  if (foggy) { c.fillStyle = WHITE; c.globalAlpha = 0.7; for (const [fx, fy, fr] of [[230, 150, 100], [340, 230, 110], [160, 270, 70], [370, 110, 60]]) { c.beginPath(); c.arc(fx, fy, fr, 0, 7); c.fill(); } c.globalAlpha = 1; }
-  shape(c, () => rrect(c, 60, 50, 380, 300, 28), "rgba(0,0,0,0)", 8);
+// the bathroom mirror, steamed up
+const mirror = (c: Ctx) => {
+  shape(c, () => rrect(c, 60, 50, 340, 280, 28), COL.steel, 8);
+  shape(c, () => rrect(c, 78, 68, 304, 244, 18), "#e7f1f6", 4);
+  c.save(); c.beginPath(); rrect(c, 78, 68, 304, 244, 18); c.clip();
+  c.fillStyle = WHITE; c.globalAlpha = 0.8; for (const [fx, fy, fr] of [[170, 140, 90], [290, 120, 90], [230, 230, 100], [330, 250, 70], [130, 250, 60]]) { c.beginPath(); c.arc(fx, fy, fr, 0, 7); c.fill(); }
+  c.globalAlpha = 1; for (const [dx, dy, len] of [[140, 200, 80], [250, 190, 100], [330, 190, 70]]) line(c, [[dx, dy], [dx + 2, dy + len]], 7, COL.glassEdge);
+  c.restore();
+};
+// the dry cloth for wiping: white with blue stripes
+const wipeCloth = (c: Ctx, x: number, y: number) => {
+  const cl = () => rrect(c, x - 70, y - 120, 140, 240, 26);
+  shape(c, cl, WHITE, 6); shade(c, cl, "#d9dfe8", 36, 0, 0.8);
+  c.save(); c.beginPath(); cl(); c.clip(); for (const k of [-70, -10, 50]) line(c, [[x - 80, y + k], [x + 80, y + k]], 8, COL.blue); c.restore();
+  line(c, [[x - 30, y - 100], [x - 24, y - 60]], 3, COL.steelDk); line(c, [[x + 30, y + 80], [x + 22, y + 108]], 3, COL.steelDk);
 };
 // setup.e2.1
 const e2s1 = (c: Ctx) => {
   shelfRoom(c, 780);
-  mirror(c, true);
+  mirror(c);
   shape(c, () => rrect(c, 0, 780, 1080, 60), COL.brown, 6);
-  const yb = 780, x = 640;
-  phone(c, 210, yb, 0.08);
-  tumbler(c, x, yb, TW, TB, TH);
-  // the cloth wiping the outside
-  shape(c, () => rrect(c, x + 125, 510, 90, 170, 22), COL.cloth, 6);
-  shade(c, () => rrect(c, x + 125, 510, 90, 170, 22), "#e4dccb", 24, 0, 0.8);
-  hand(c, 940, 600, Math.PI, 1.6, SKIN.child, CLOTH.child);
-  arrow(c, [[900, 480], [900, 380]]);
+  const yb = 780, x = 600;
+  phone(c, 190, yb, 0, "start");
+  tumbler(c, x, yb, TW, TB, TH, (ix, iy, rx, ry) => iceInside(ix, iy, rx, ry, c));
+  // the cloth wiping the outside of the tumbler
+  wipeCloth(c, 745, 560);
+  hand(c, 870, 560, Math.PI, 1.6, SKIN.child, CLOTH.child);
+  arrow(c, [[820, 410], [820, 300]]); arrow(c, [[820, 300], [820, 410]]);
 };
 // setup.e2.2
 const e2s2 = (c: Ctx) => {
   shelfRoom(c, 900);
-  const x = 540, yb = 900, wt = 540, wb = 420, h = 660;
-  shadow(c, x + 80, yb + 30, 300, 30);
-  tumbler(c, x, yb, wt, wb, h, undefined, 1);
-  const r = rnd(33);
-  // drops running down the dull steel
-  for (const [dx, dy, len] of [[-170, 360, 120], [-80, 300, 160], [20, 420, 100], [110, 330, 190], [190, 380, 130], [-30, 560, 90], [-140, 540, 110], [150, 590, 80]]) {
-    const px = x + dx, py = yb - h + dy; void r;
-    line(c, [[px, py - len], [px + 2, py]], 12, "rgba(255,255,255,0.9)");
-    shape(c, () => ell(c, px + 2, py + 4, 15, 20), COL.drop, 4);
-  }
-  // water gathered at the foot
-  shape(c, () => ell(c, x, yb + 22, 270, 20), "rgba(143,195,234,0.8)", 4);
+  const x = 330, yb = 900, wt = 480, wb = 370, h = 590;
+  tumbler(c, x, yb, wt, wb, h, (ix, iy, rx, ry) => iceInside(ix, iy, rx, ry, c), 1);
+  // the steel is still shiny on the left, dull with mist everywhere else
+  const top = yb - h, ry = wt * 0.12;
+  shape(c, () => polyP(c, [[x - wt / 2 + 3, top + ry + 4], [x - wt / 2 + 60, top + ry + 4], [x - wb / 2 + 50, yb - 8], [x - wb / 2 + 3, yb - 8]]), COL.steel, 0);
+  shine(c, [[x - wt / 2 + 28, top + ry + 40], [x - wb / 2 + 24, yb - 60]], 14);
+  // the phone: the hand presses stop
+  phone(c, 840, yb, 0.2, "stop");
+  hand(c, 972, yb - 52, Math.PI, 1.2, SKIN.child, CLOTH.child, true);
+  arrow(c, [[1030, 700], [960, 770]]);
 };
 
 export const su_statesEvaporationAndCondensation = cards("sci.states.evaporation-and-condensation.L3 set-up", [e1s0, e1s1, e1s2, e2s0, e2s1, e2s2]);

@@ -173,10 +173,11 @@ const e2_0 = (c: Ctx) => {
   tableSide(c, 30, 910, 640, [70, 840], 960);
   book(c, 60, 516, 198, 124);
   ruler(c, 258, 516, 0.2796, -50, 450, 44);
-  // 10 cm between the ruler end and the table edge
-  line(c, [[702, 548], [702, 596]], 4, RED); line(c, [[910, 548], [910, 640]], 4, RED);
-  arrow(c, [[806, 570], [708, 570]]); arrow(c, [[806, 570], [904, 570]]);
-  write(c, "10 cm", 725, 470, 50, INK, 7);
+  // a hand lying flat on the table fills the gap between the ruler end and the table edge: a hand's width, 10 cm
+  hand(c, 702 + 78 * 1.15, 598, 0, 1.15, SKIN.child, CLOTH.child, true);
+  line(c, [[702, 470], [702, 520]], 4, RED); line(c, [[910, 470], [910, 520]], 4, RED);
+  arrow(c, [[806, 495], [708, 495]]); arrow(c, [[806, 495], [904, 495]]);
+  write(c, "10 cm", 725, 385, 50, INK, 7);
 };
 
 // setup.e2.1
@@ -243,7 +244,7 @@ const jumper = (c: Ctx, x: number, y: number, h: number, up: boolean) => {
   const hip = P(0, 0.38), knee = P(0.17, 0.22), ankle = P(0.02, 0.06), sho = P(0.04, 0.68);
   const trouser = "#6b5a8c";
   // far arm (darker)
-  const armPts = up ? [sho, P(0.2, 0.79), P(0.33, 0.92)] : [sho, P(-0.1, 0.56), P(-0.08, 0.43)];
+  const armPts = up ? [sho, P(0.2, 0.82), P(0.3, 1.0)] : [sho, P(-0.1, 0.55), P(-0.2, 0.44)];
   limb(armPts.map(([a, b]) => [a - 8, b + 4] as [number, number]), 0.058, CLOTH.childDk);
   // legs, tucked
   limb([hip, knee, ankle], 0.085, trouser);
@@ -255,7 +256,7 @@ const jumper = (c: Ctx, x: number, y: number, h: number, up: boolean) => {
   limb(armPts, 0.06, CLOTH.child);
   const hand1 = armPts[2];
   shape(c, () => ell(c, hand1[0], hand1[1], 0.04 * h, 0.04 * h), SKIN.child, 5);
-  if (!up) { shape(c, () => ell(c, hand1[0] - 0.03 * h, hand1[1] + 0.02 * h, 0.035 * h, 0.035 * h), SKIN.childDk, 5); line(c, [[hand1[0] - 0.02 * h, hand1[1] - 0.01 * h], [hand1[0] + 0.02 * h, hand1[1] + 0.03 * h]], 4); }
+  if (!up) { shape(c, () => ell(c, hand1[0] - 0.01 * h, hand1[1] + 0.03 * h, 0.035 * h, 0.035 * h), SKIN.childDk, 5); line(c, [[hand1[0] - 0.02 * h, hand1[1] - 0.01 * h], [hand1[0] + 0.02 * h, hand1[1] + 0.03 * h]], 4); }
   // head
   const hx = x + 0.07 * h, hy = y - 0.8 * h, hr = 0.095 * h;
   shape(c, () => ell(c, hx, hy, hr, hr * 1.05), SKIN.child);
@@ -266,10 +267,10 @@ const jumper = (c: Ctx, x: number, y: number, h: number, up: boolean) => {
 const e3_1 = (c: Ctx) => {
   ground(c); floorBand(c, 900);
   line(c, [[540, 40], [540, 880]], 5, COL.grey);
-  [260, 780].forEach((x) => { shadow(c, x + 10, 960, 130, 24); });
-  jumper(c, 260, 800, 620, false);
-  jumper(c, 780, 800, 620, true);
-  arrow(c, [[1030, 560], [1042, 330]]);
+  [260, 800].forEach((x) => { shadow(c, x + 10, 960, 130, 24); });
+  jumper(c, 250, 740, 600, false);
+  jumper(c, 780, 740, 600, true);
+  arrow(c, [[430, 520], [520, 520]]); arrow(c, [[920, 520], [1010, 520]]);
 };
 
 // setup.e3.2
@@ -279,7 +280,7 @@ const e3_2 = (c: Ctx) => {
   for (let y = 60; y <= 1080; y += 180) line(c, [[0, y], [1080, y]], 3, FLOORDK);
   tapeLine(c, 110, 130, 110, 950, 56);
   // the measuring tape from the start line to the coin
-  const ty = 640, x0 = 112, x1 = 690;
+  const ty = 640, x0 = 112, x1 = 650;
   shadow(c, 420, ty + 40, 290, 18);
   shape(c, () => rrect(c, x0, ty - 34, x1 - x0, 68, 4), COL.yellow, 6);
   shade(c, () => rrect(c, x0, ty - 34, x1 - x0, 68, 4), COL.orange, 0, 20, 0.5);
@@ -290,11 +291,12 @@ const e3_2 = (c: Ctx) => {
   [400, 640].forEach((y) => { shadow(c, 800, y + 20, 130, 40); });
   foot(c, 765, 400, Math.PI / 2, 0.78, 1); cuff(c, 765, 400, 46);
   foot(c, 765, ty, Math.PI / 2, 0.78, -1); cuff(c, 765, ty, 46);
-  const cx = 718;
-  shadow(c, cx + 8, ty + 18, 28, 8);
-  shape(c, () => ell(c, cx, ty, 28, 28), "#e6e8ec", 6); shape(c, () => ell(c, cx, ty, 18, 18), COL.steel, 4);
-  line(c, [[cx - 9, ty + 3], [cx + 9, ty + 3]], 4, COL.steelDk);
-  line(c, [[cx, ty - 9], [cx, ty + 9]], 4, COL.steelDk);
+  const cx = 650;
+  shadow(c, cx + 10, ty + 40, 46, 11);
+  shape(c, () => ell(c, cx, ty, 46, 46), "#e6e8ec", 6); shape(c, () => ell(c, cx, ty, 30, 30), COL.steel, 4);
+  line(c, [[cx - 14, ty + 4], [cx + 14, ty + 4]], 5, COL.steelDk);
+  line(c, [[cx, ty - 14], [cx, ty + 14]], 5, COL.steelDk);
+  arrow(c, [[cx, 470], [cx, 575]]);
 };
 
 export const su_motionPhysicsOfSport = cards("sci.motion.physics-of-sport.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

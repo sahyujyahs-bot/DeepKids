@@ -1020,9 +1020,21 @@
      "title": "24 situation cards to cut out",
      "items": [
       "Your kite string snaps and the kite flies away.",
-      "You find a puppy under the stairs of your building.",
+      {
+       "f": "You find a puppy under the stairs of your building.",
+       "img": {
+        "src": "media/cards/feelings-and-wellbeing-g1-0-01.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
+      },
       "Your friend wins the drawing prize, and you hoped to win.",
-      "A cockroach runs over your foot.",
+      {
+       "f": "A cockroach runs over your foot.",
+       "img": {
+        "src": "media/cards/feelings-and-wellbeing-g1-0-03.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "A relative you love gives you a surprise gift.",
       "Someone cuts in front of you in the queue.",
       "You smell the milk and it has gone sour.",

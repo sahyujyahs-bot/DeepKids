@@ -152,13 +152,17 @@ const e1c1 = (c: Ctx) => {
 // setup.e1.2
 const e1c2 = (c: Ctx) => {
   ground(c);
-  const w = 260, h = 240, y = 920;
-  clearBox(c, 30, y, w, h, boxPiece("crisp"), "A");
-  clearBox(c, 398, y, w, h, boxPiece("damp"), "B");
-  clearBox(c, 766, y, w, h, boxPiece("damp"), "C");
-  spoon(c, 565, 390, -0.45, 340, 68);
-  [[508, 450, 12], [502, 520, 11], [510, 590, 10]].forEach(([x, yy, s]) => drop(c, x, yy, s));
-  grip(c, 790, 285, Math.PI - 0.45, 1.3);
+  const w = 240, h = 240, y = 920;
+  clearBox(c, 25, y, w, h, boxPiece("crisp"), "A");
+  clearBox(c, 335, y, w, h, boxPiece("soft"), "B");
+  clearBox(c, 645, y, w, h, boxPiece("soft"), "C");
+  // one hand waters B from the left, the other waters C from the right: A gets nothing
+  [[470, 1], [765, -1]].forEach(([bx, dir]) => {
+    const ang = dir > 0 ? Math.PI + 0.45 : -0.45, gx = bx - dir * 164, gy = 322;
+    spoon(c, bx, 400, ang, 250, 66);
+    [[bx - 6, 470, 12], [bx - 8, 540, 11], [bx - 4, 605, 10]].forEach(([x, yy, sz]) => drop(c, x, yy, sz));
+    grip(c, gx, gy, dir > 0 ? 0.45 : Math.PI - 0.45, 0.95);
+  });
 };
 
 // setup.e1.3
@@ -186,11 +190,12 @@ const e2c0 = (c: Ctx) => {
   ground(c);
   const w = 350, h = 210, y = 800;
   clearBox(c, 60, y, w, h, sliceTwo, "P");
-  clearBox(c, 620, y, w, h, (cc, fx, fy, ww) => cuke(cc, fx - ww * 0.1, fy + 4, ww * 0.19, ww * 0.19 * 0.5, 9), "S");
-  // a grown-up's hand lowers the second slice into box S
-  cuke(c, 770, 380, 78, 66, 12);
-  hand(c, 850, 265, 2.0, 1.1, SKIN.adult, CLOTH.adult, false);
-  arrow(c, [[770, 480], [770, 570]], RED, 12);
+  clearBox(c, 620, y, w, h, () => {}, "S");
+  // a grown-up's hand pinches two slices and lowers them into the empty box S
+  cuke(c, 850, 400, 92, 78, 14);
+  cuke(c, 830, 380, 92, 78, 14);
+  hand(c, 955, 215, 2.05, 1.5, SKIN.adult, CLOTH.adult, false);
+  arrow(c, [[830, 505], [830, 580]], RED, 14);
 };
 
 // setup.e2.1
@@ -229,14 +234,15 @@ const bottlePath = (c: Ctx, x: number, yb: number, w: number, h: number) => {
   c.lineTo(x - bw, yb - bw * 0.3); c.quadraticCurveTo(x - bw, yb, x - bw * 0.7, yb); c.lineTo(x + bw * 0.7, yb); c.quadraticCurveTo(x + bw, yb, x + bw, yb - bw * 0.3);
   c.lineTo(x + bw, ys + h * 0.02); c.bezierCurveTo(x + bw, ys - h * 0.06, x + nw, yn + h * 0.07, x + nw, yn); c.lineTo(x + nw, yt); c.closePath();
 };
-const peel = (c: Ctx, x: number, y: number, rot: number) => {
-  c.save(); c.translate(x, y); c.rotate(rot);
-  const chunk = () => rrect(c, -34, -16, 68, 32, 10);
-  shape(c, chunk, BAN.peel, 4);
-  shade(c, chunk, BAN.peelDk, -5, -8, 0.6);
-  c.save(); c.beginPath(); chunk(); c.clip(); c.fillStyle = "#f7efc0"; c.fillRect(-40, 8, 80, 12); c.fillStyle = BAN.brown; c.fillRect(20, -20, 20, 40); c.restore();
-  c.beginPath(); rrect(c, -34, -16, 68, 32, 10); c.lineWidth = 4; c.strokeStyle = INK; c.stroke();
-  shape(c, () => ell(c, -12, -4, 5, 3), BAN.brown, 0); shape(c, () => ell(c, 4, -6, 4, 3), BAN.brown, 0);
+// a curved strip of banana peel: yellow with brown freckles, a brown tip, a pale inside edge
+const peel = (c: Ctx, x: number, y: number, rot: number, sc = 1) => {
+  c.save(); c.translate(x, y); c.rotate(rot); c.scale(sc, sc);
+  const strip = () => { c.moveTo(-46, 8); c.quadraticCurveTo(0, -30, 46, 8); c.lineTo(38, 24); c.quadraticCurveTo(0, -4, -38, 24); c.closePath(); };
+  shape(c, strip, BAN.peel, 4);
+  shade(c, strip, BAN.peelDk, 0, 7, 0.6);
+  c.save(); c.beginPath(); strip(); c.clip(); c.fillStyle = BAN.brown; c.fillRect(30, -40, 30, 80); c.restore();
+  c.beginPath(); strip(); c.lineWidth = 4; c.strokeStyle = INK; c.stroke();
+  [[-26, 4], [-8, -6], [10, -2], [-14, 12]].forEach(([u, v]) => shape(c, () => ell(c, u, v, 4.5, 3), BAN.brown, 0));
   c.restore();
 };
 // a plastic bottle standing on the counter, water up to 'level' (0..1 of its height), optional peels floating in it
@@ -248,7 +254,7 @@ const bottle = (c: Ctx, x: number, yb: number, w: number, h: number, level: numb
   c.fillStyle = COL.water; c.fillRect(x - w, yl, w * 2, h);
   c.globalAlpha = 0.5; c.fillStyle = COL.waterDk; c.fillRect(x + w * 0.22, yl, w, h); c.globalAlpha = 1;
   shape(c, () => ell(c, x, yl, w * 0.5, w * 0.06), COL.drop, 0);
-  if (peels) [[-50, 4, 0.3], [40, 30, -0.5], [-20, 80, 0.9], [45, 130, 0.5], [-45, 150, -0.2], [10, 168, 0.1], [-40, 190, 0.7]].forEach(([u, v, r]) => peel(c, x + u, yl + v + 14, r));
+  if (peels) [[-50, 4, 0.3], [40, 30, -0.5], [-20, 80, 0.9], [45, 130, 0.5], [-45, 150, -0.2], [10, 168, 0.1], [-40, 190, 0.7]].forEach(([u, v, r]) => peel(c, x + u, yl + v + 14, r, 1.1));
   if (bubbles) [[-40, -30, 11], [30, -60, 9], [-5, -100, 12], [55, 20, 8]].forEach(([u, v, r]) => { shape(c, () => ell(c, x + u, yl + v, r, r), "rgba(233,243,255,0.8)", 3); });
   c.lineWidth = 5; c.strokeStyle = COL.glassEdge; c.globalAlpha = 0.6;
   for (const f of [0.3, 0.42, 0.54]) { const yy = yb - h * f * 0.5 - h * 0.04; c.beginPath(); c.moveTo(x - w, yy); c.quadraticCurveTo(x, yy + 14, x + w, yy); c.stroke(); }
@@ -265,11 +271,11 @@ const e3c0 = (c: Ctx) => {
   const yb = 910, w = 250, h = 540;
   bottle(c, 290, yb, w, h, 0.5, true);
   bottle(c, 740, yb, w, h, 0.5, false);
-  // spoon tipping a chunk of peel into the neck
-  spoon(c, 312, 262, -0.315, 340, 66);
-  peel(c, 300, 252, 0.4); peel(c, 336, 265, -0.3);
-  peel(c, 292, 332, 1.2);
-  arrow(c, [[190, 260], [215, 340]], RED, 11);
+  // spoon tipping chopped banana peel into the neck
+  spoon(c, 312, 262, -0.315, 340, 76);
+  peel(c, 280, 248, -0.2, 1.1); peel(c, 345, 260, 0.2, 1.1);
+  peel(c, 300, 335, 1.5, 1.2);
+  arrow(c, [[170, 250], [190, 340]], RED, 12);
   grip(c, 592, 185, Math.PI - 0.315, 1.2);
 };
 

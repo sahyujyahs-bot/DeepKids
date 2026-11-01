@@ -38,12 +38,12 @@ const dropWater = (c: Ctx, x: number, y: number, rx: number, ry: number) => {
 
 // the magnifying glass held by a grown-up hand: lens centre (cx, cy), handle pointing away along (dx, dy)
 const LENS_RX = 170, LENS_RY = 62;
-const magnifier = (c: Ctx, cx: number, cy: number, dx: number, dy: number, rx = LENS_RX, ry = LENS_RY) => {
+const magnifier = (c: Ctx, cx: number, cy: number, dx: number, dy: number, rx = LENS_RX, ry = LENS_RY, clear = false) => {
   const ex = cx + dx * rx * 0.9, ey = cy + dy * ry * 0.9, hx = ex + dx * 340, hy = ey + dy * 340;
   line(c, [[ex, ey], [hx, hy]], 38, INK); line(c, [[ex, ey], [hx, hy]], 26, COL.brown);
   hand(c, ex + dx * 271, ey + dy * 271, Math.atan2(-dy, -dx), 1.3, SKIN.adult, CLOTH.adult);
   shape(c, () => ell(c, cx, cy, rx, ry), "#4a4458", 7);
-  shape(c, () => ell(c, cx, cy, rx - 16, ry - 12), COL.glass, 4);
+  shape(c, () => ell(c, cx, cy, rx - 16, ry - 12), clear ? "#e3f3fc" : COL.glass, 4);
   shine(c, [[cx - rx * 0.6, cy - ry * 0.1], [cx - rx * 0.2, cy - ry * 0.45]], 9);
 };
 // sunlight spreading from the sun down to the glass
@@ -59,10 +59,12 @@ const smoke = (c: Ctx, x: number, y: number, up: number) => {
   const p = [[x, y], [x + 22, y - up * 0.25], [x - 24, y - up * 0.5], [x + 20, y - up * 0.75], [x - 8, y - up]];
   for (const [w, col] of [[26, "#cfc9d6"], [11, "#f3eff8"]] as [number, string][]) { c.beginPath(); c.moveTo(p[0][0], p[0][1]); for (let i = 1; i < p.length - 1; i++) c.quadraticCurveTo(p[i][0], p[i][1], (p[i][0] + p[i + 1][0]) / 2, (p[i][1] + p[i + 1][1]) / 2); c.lineTo(p[4][0], p[4][1]); c.strokeStyle = col; c.lineWidth = w; c.lineCap = "round"; c.stroke(); }
 };
-const dot = (c: Ctx, x: number, y: number) => {
+const dot = (c: Ctx, x: number, y: number, k = 1) => {
+  c.save(); c.translate(x, y); c.scale(k, k); c.translate(-x, -y);
   c.beginPath(); ell(c, x, y, 40, 20); c.fillStyle = "rgba(255,226,120,0.6)"; c.fill();
   for (let k = 0; k < 8; k++) { const a = (k / 8) * Math.PI * 2; line(c, [[x + Math.cos(a) * 26, y + Math.sin(a) * 13], [x + Math.cos(a) * 52, y + Math.sin(a) * 26]], 5, "#fff3b0"); }
   shape(c, () => ell(c, x, y, 17, 9), WHITE, 3);
+  c.restore();
 };
 
 // setup.e1.0
@@ -100,9 +102,9 @@ const e1_3 = (c: Ctx) => {
   sheetOnPlate(c, 810, 830, 240, 130, false);
   for (const [x, y] of [[190, 800], [290, 840], [340, 790]]) { shape(c, () => ell(c, x, y, 26, 14), "#6a4128", 4); shape(c, () => ell(c, x, y, 15, 8), COL.steelIn, 0); }
   cone(c, 810, 330, 815, 8);
-  dot(c, 810, 815);
+  dot(c, 810, 815, 1.7);
   beam(c, 810, 330);
-  magnifier(c, 810, 330, -0.84, -0.54);
+  magnifier(c, 810, 330, -0.84, -0.54, 200, 80, true);
 };
 
 // ice on black paper and on white paper, side by side
@@ -132,8 +134,10 @@ const e2_2 = (c: Ctx) => {
   // a child's hand touches the front edge of each paper
   for (const [tx, an] of [[255, -1.35], [825, -1.8]] as [number, number][]) {
     const ty = 470 + 70, s = 1.7;
-    hand(c, tx - Math.cos(an) * 98 * s, ty - Math.sin(an) * 98 * s, an, s, SKIN.child, CLOTH.child, true);
+    hand(c, tx - Math.cos(an) * 80 * s, ty - Math.sin(an) * 80 * s, an, s, SKIN.child, CLOTH.child);
   }
+  // warm air rising off the black paper only
+  for (const x of [190, 270, 350]) { c.beginPath(); c.moveTo(x, 385); c.bezierCurveTo(x - 24, 360, x + 24, 340, x, 300); c.strokeStyle = RED; c.lineWidth = 9; c.lineCap = "round"; c.stroke(); }
 };
 
 export const su_skyTheSun = cards("sci.sky.the-sun.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2]);

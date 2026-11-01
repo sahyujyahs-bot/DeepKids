@@ -1,16 +1,29 @@
 import type { Ctx } from "./flatKit";
 import { COL, INK, WHITE, RED, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, arrow, write, hand, cards, rnd } from "./flatKit";
 
-// a bill (shop receipt): paper with grey text lines, centre (x, y), rotated
-const bill = (c: Ctx, x: number, y: number, w: number, h: number, rot: number, seed: number, crumple = true) => {
+// a bill (shop receipt): paper with a coloured shop bar, item lines with prices, a total and a zigzag tear; tax = yellow band on the tax lines
+const D2 = "2345679";
+const BILLBAR = [COL.orange, COL.teal, COL.purple, COL.red, COL.blue, COL.green];
+const bill = (c: Ctx, x: number, y: number, w: number, h: number, rot: number, seed: number, tax = false) => {
   c.save(); c.translate(x, y); c.rotate(rot);
   shadow(c, 14, h / 2 + 4, w * 0.5, 14);
-  const p = () => rrect(c, -w / 2, -h / 2, w, h, 6);
+  const n = Math.max(4, Math.round(w / 24)), tw = w / n, p = () => { c.moveTo(-w / 2, -h / 2); c.lineTo(w / 2, -h / 2); c.lineTo(w / 2, h / 2 - 12); for (let k = 0; k < n; k++) { c.lineTo(w / 2 - (k + 0.5) * tw, h / 2); c.lineTo(w / 2 - (k + 1) * tw, h / 2 - 12); } c.closePath(); };
   shape(c, p, COL.paper, 6);
   shade(c, p, COL.grey, w * 0.45, 0, 0.35);
-  const r = rnd(seed);
-  for (let i = 0; i < Math.floor((h - 50) / 26); i++) { const ww = w * (0.4 + r() * 0.4); line(c, [[-w / 2 + 18, -h / 2 + 26 + i * 26], [-w / 2 + 18 + ww, -h / 2 + 26 + i * 26]], 6, COL.greyDk); }
-  if (crumple) { line(c, [[-w / 2 + 6, -h * 0.1], [-w * 0.1, -h * 0.02], [w * 0.2, -h * 0.14]], 3, COL.grey); line(c, [[w * 0.1, h * 0.2], [w * 0.3, h * 0.3]], 3, COL.grey); }
+  const r = rnd(seed), pad = w * 0.1, fs = Math.max(16, w * 0.095), left = -w / 2 + pad, right = w / 2 - pad;
+  shape(c, () => rrect(c, left, -h / 2 + pad * 0.8, w - 2 * pad, Math.max(14, h * 0.07), 5), BILLBAR[seed % 6], 4);
+  const top = -h / 2 + pad * 0.8 + Math.max(14, h * 0.07) + fs * 1.1, rows = Math.max(1, Math.floor((h * 0.72 - fs * 4) / (fs * 1.9)));
+  for (let i = 0; i < rows; i++) {
+    const yy = top + i * fs * 1.9;
+    if (tax && i >= rows - 2) { c.globalAlpha = 0.85; shape(c, () => rrect(c, left - 4, yy - fs * 0.45, w - 2 * pad + 8, fs * 1.75, 6), COL.yellow, 0); c.globalAlpha = 1; }
+    line(c, [[left, yy + fs * 0.4], [left + (w - 2 * pad) * (0.3 + r() * 0.3), yy + fs * 0.4]], 6, COL.greyDk);
+    write(c, D2[Math.floor(r() * 7)] + D2[Math.floor(r() * 7)], right - fs * 1.4, yy - fs * 0.1, fs * 0.8, INK, 3.5);
+  }
+  const ty = top + rows * fs * 1.9 + fs * 0.1;
+  line(c, [[left, ty - fs * 0.3], [right, ty - fs * 0.3]], 4, INK);
+  line(c, [[left, ty + fs * 0.6], [left + (w - 2 * pad) * 0.3, ty + fs * 0.6]], 9, INK);
+  write(c, D2[Math.floor(r() * 7)] + D2[Math.floor(r() * 7)] + "0", right - fs * 2.2, ty + fs * 0.1, fs * 0.95, INK, 5);
+  if (h > 280) for (let k = 0; k < 14; k++) line(c, [[left + k * ((w - 2 * pad) / 13), h / 2 - 78], [left + k * ((w - 2 * pad) / 13), h / 2 - 38]], k % 3 ? 3 : 6, INK);
   c.restore();
 };
 const pencil = (c: Ctx, x: number, y: number, rot: number, body: string = COL.yellow) => {
@@ -71,55 +84,68 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  // bills lined up in order, tallest stack first
-  [230, 190, 150, 110, 80].forEach((hh, i) => bill(c, 190 + i * 175, 510 - hh * 0.675, 120, hh * 1.35, 0, 20 + i, false));
-  arrow(c, [[170, 550], [900, 550]], RED, 10);
-  notebook(c, 540, 800, 900, 360);
-  // table grid
-  for (let i = 0; i <= 3; i++) line(c, [[160, 630 + i * 100], [930, 630 + i * 100]], 5, INK);
-  for (let j = 0; j <= 4; j++) line(c, [[160 + j * 192, 630], [160 + j * 192, 930]], 5, INK);
+  // bills lined up in order, most tax first, the tax lines in yellow
+  [310, 260, 210, 160, 120].forEach((hh, i) => bill(c, 190 + i * 175, 500 - hh / 2, 130, hh, 0, 20 + i, true));
+  arrow(c, [[150, 545], [920, 545]], RED, 10);
+  notebook(c, 540, 810, 900, 380);
+  // table: a tinted heading row and three rows of numbers
+  c.globalAlpha = 0.9; shape(c, () => rrect(c, 160, 630, 770, 75, 4), COL.yellow, 0); c.globalAlpha = 1;
+  for (let i = 0; i <= 4; i++) line(c, [[160, 630 + i * 75], [930, 630 + i * 75]], 5, INK);
+  for (let j = 0; j <= 4; j++) line(c, [[160 + j * 192.5, 630], [160 + j * 192.5, 930]], 5, INK);
+  for (let j = 0; j < 4; j++) line(c, [[185 + j * 192.5, 668], [290 + j * 192.5, 668]], 9, COL.greyDk);
   const nums = [["3", "6", "9", "5"], ["2", "4", "7", "1"], ["8", "5", "6", "3"]];
-  nums.forEach((row, ri) => row.forEach((n, ci) => write(c, n, 200 + ci * 192, 650 + ri * 100, 60, INK, 7)));
+  nums.forEach((row, ri) => row.forEach((n, ci) => write(c, n, 240 + ci * 192.5, 712 + ri * 75, 50, INK, 7)));
+  pencil(c, 780, 985, -0.04, COL.orange);
 };
 
 // a small household thing on the mat, centred (x, y)
-const thingBiscuit = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 50, y - 60, 100, 120, 8), COL.orange); shape(c, () => ell(c, x, y, 28, 28), COL.wood, 5); };
-const thingShirt = (c: Ctx, x: number, y: number) => shape(c, () => polyP(c, [[x - 30, y - 60], [x - 12, y - 48], [x + 12, y - 48], [x + 30, y - 60], [x + 75, y - 30], [x + 55, y - 5], [x + 40, y - 15], [x + 40, y + 60], [x - 40, y + 60], [x - 40, y - 15], [x - 55, y - 5], [x - 75, y - 30]]), COL.blue);
-const thingTorch = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 20, y - 10, 40, 80, 8), COL.red); shape(c, () => polyP(c, [[x - 20, y - 10], [x - 40, y - 50], [x + 40, y - 50], [x + 20, y - 10]]), COL.steel); };
+const thingBiscuit = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 50, y - 62, 100, 124, 8), COL.orange); shape(c, () => rrect(c, x - 50, y - 62, 100, 18, 6), COL.red, 5); shape(c, () => ell(c, x, y + 5, 30, 30), COL.wood, 5); [[-10, 0], [8, 10], [0, 16]].forEach(([dx, dy]) => shape(c, () => ell(c, x + dx, y + dy, 3, 3), COL.woodDk, 0)); };
+const thingShirt = (c: Ctx, x: number, y: number) => { shape(c, () => polyP(c, [[x - 30, y - 60], [x - 12, y - 48], [x + 12, y - 48], [x + 30, y - 60], [x + 75, y - 30], [x + 55, y - 5], [x + 40, y - 15], [x + 40, y + 60], [x - 40, y + 60], [x - 40, y - 15], [x - 55, y - 5], [x - 75, y - 30]]), COL.blue); shape(c, () => { c.moveTo(x - 12, y - 48); c.quadraticCurveTo(x, y - 24, x + 12, y - 48); c.closePath(); }, COL.blueDk, 4); };
+const thingTorch = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 20, y - 10, 40, 80, 8), COL.red); shape(c, () => polyP(c, [[x - 20, y - 10], [x - 42, y - 52], [x + 42, y - 52], [x + 20, y - 10]]), COL.steel); shape(c, () => ell(c, x, y - 52, 42, 10), COL.yellow, 4); };
 const thingCar = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 70, y - 10, 140, 40, 10), COL.red); shape(c, () => polyP(c, [[x - 35, y - 10], [x - 20, y - 40], [x + 25, y - 40], [x + 45, y - 10]]), COL.sky); [-40, 40].forEach((d) => shape(c, () => ell(c, x + d, y + 32, 16, 16), INK, 4)); };
-const thingBox = (c: Ctx, x: number, y: number) => shape(c, () => rrect(c, x - 55, y - 40, 110, 80, 6), COL.teal);
-const thingChappal = (c: Ctx, x: number, y: number) => { shape(c, () => ell(c, x, y, 32, 70, 0.15), COL.brown); line(c, [[x - 20, y - 20], [x, y - 40], [x + 20, y - 20]], 8, COL.black); };
-const thingPen = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 70, y - 9, 140, 18, 6), COL.purple, 5); };
-const thingBall = (c: Ctx, x: number, y: number) => shape(c, () => ell(c, x, y, 45, 45), COL.green);
+const thingPhoneBox = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 52, y - 62, 104, 124, 8), COL.teal); shape(c, () => rrect(c, x - 22, y - 40, 44, 76, 8), INK, 4); shape(c, () => rrect(c, x - 16, y - 32, 32, 54, 3), COL.sky, 0); };
+const thingChappal = (c: Ctx, x: number, y: number) => { shape(c, () => ell(c, x - 22, y, 28, 66, 0.12), COL.brown); shape(c, () => ell(c, x + 28, y + 6, 28, 66, 0.12), COL.brown); line(c, [[x - 40, y - 15], [x - 22, y - 36], [x - 4, y - 15]], 8, COL.black); line(c, [[x + 10, y - 9], [x + 28, y - 30], [x + 46, y - 9]], 8, COL.black); };
+const thingPen = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 70, y - 11, 120, 22, 6), COL.purple, 5); shape(c, () => polyP(c, [[x + 50, y - 11], [x + 74, y], [x + 50, y + 11]]), COL.wood, 5); };
+const thingBall = (c: Ctx, x: number, y: number) => { shape(c, () => ell(c, x, y, 48, 48), COL.green); shape(c, () => { c.moveTo(x - 46, y - 8); c.quadraticCurveTo(x, y + 24, x + 46, y - 8); }, "rgba(0,0,0,0)", 5); line(c, [[x, y - 48], [x, y + 48]], 4, INK); };
+const thingTumbler = (c: Ctx, x: number, y: number) => { shape(c, () => polyP(c, [[x - 42, y - 56], [x + 42, y - 56], [x + 32, y + 56], [x - 32, y + 56]]), COL.steel); shade(c, () => polyP(c, [[x - 42, y - 56], [x + 42, y - 56], [x + 32, y + 56], [x - 32, y + 56]]), COL.steelDk, 18, 0, 0.5); shape(c, () => ell(c, x, y - 56, 42, 10), COL.steelIn, 5); };
+const thingBook = (c: Ctx, x: number, y: number) => { shape(c, () => rrect(c, x - 55, y - 50, 110, 100, 6), COL.purple); shape(c, () => rrect(c, x - 55, y - 50, 18, 100, 6), COL.blueDk, 5); shape(c, () => rrect(c, x - 20, y - 30, 60, 34, 4), COL.paper, 4); };
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  shape(c, () => rrect(c, 50, 90, 980, 900, 36), COL.pink, 7);
-  const f = [thingBiscuit, thingShirt, thingTorch, thingCar, thingBox, thingChappal, thingPen, thingBall];
-  const r = rnd(3);
-  for (let i = 0; i < 20; i++) { const col = i % 5, row = Math.floor(i / 5); const x = 150 + col * 195, y = 200 + row * 220; shadow(c, x + 10, y + 55, 55, 14); f[i % f.length](c, x + (r() - 0.5) * 10, y); }
+  // a woven mat with the household things spread over it
+  shape(c, () => rrect(c, 40, 80, 1000, 920, 30), COL.cloth, 7);
+  shape(c, () => rrect(c, 66, 106, 948, 868, 18), "rgba(0,0,0,0)", 0); line(c, [[70, 110], [1010, 110], [1010, 970], [70, 970], [70, 110]], 12, COL.teal);
+  const f = [thingBiscuit, thingShirt, thingTorch, thingCar, thingPhoneBox, thingChappal, thingPen, thingBall, thingTumbler, thingBook];
+  const r = rnd(7);
+  for (let i = 0; i < 20; i++) {
+    const col = i % 5, row = Math.floor(i / 5), x = 180 + col * 180 + (r() - 0.5) * 16, y = 215 + row * 215 + (r() - 0.5) * 24, rot = (r() - 0.5) * 0.5, k = f[(i * 7 + 3) % f.length];
+    shadow(c, x + 10, y + 64, 58, 12);
+    c.save(); c.translate(x, y); c.rotate(rot); c.scale(1.1, 1.1); k(c, 0, 0); c.restore();
+  }
 };
 
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  // inside back of a shirt collar with a label
-  const p = () => polyP(c, [[60, 80], [1020, 80], [1020, 1000], [60, 1000]]);
-  shape(c, p, COL.blue, 7);
-  shape(c, () => { c.moveTo(150, 130); c.quadraticCurveTo(540, 330, 930, 130); c.lineTo(980, 330); c.quadraticCurveTo(540, 560, 100, 330); c.closePath(); }, COL.blueDk, 7);
-  line(c, [[130, 300], [540, 500], [950, 300]], 5, COL.sky);
-  shadow(c, 560, 680, 290, 20);
-  shape(c, () => rrect(c, 300, 450, 480, 220, 12), WHITE, 7);
-  const r = rnd(4);
-  for (let i = 0; i < 3; i++) line(c, [[340, 500 + i * 55], [340 + 200 + r() * 160, 500 + i * 55]], 11, COL.greyDk);
-  shape(c, () => ell(c, 700, 560, 30, 30), COL.orange, 4);
-  shape(c, () => ell(c, 700, 560, 12, 12), COL.green, 3);
-  // pointing hand from the lower right
-  c.save(); c.translate(760, 870); c.rotate(-Math.PI * 0.62);
+  // a shirt turned inside out at the neck, a "Made in" label sewn inside, a finger pointing at it
+  const S = 5.4, cx = 540, cy = 470, P = (pts: number[][]) => pts.map(([u, v]) => [cx + u * S, cy + v * S]);
+  const body = P([[-30, -60], [-12, -48], [12, -48], [30, -60], [75, -30], [55, -5], [40, -15], [40, 60], [-40, 60], [-40, -15], [-55, -5], [-75, -30]]);
+  shadow(c, 570, 825, 380, 24);
+  shape(c, () => polyP(c, body), COL.blue, 7);
+  shade(c, () => polyP(c, body), COL.blueDk, 40, 0, 0.5);
+  line(c, [[cx - 40 * S + 12, cy + 52 * S], [cx + 40 * S - 12, cy + 52 * S]], 5, COL.sky);
+  shape(c, () => ell(c, cx, 190, 150, 52), COL.blueDk, 7);
+  shape(c, () => ell(c, cx, 200, 128, 36), COL.sky, 0);
+  shape(c, () => rrect(c, 435, 225, 210, 150, 10), WHITE, 7);
+  for (let k = 0; k < 3; k++) line(c, [[465, 265 + k * 38], [465 + 100 + (k % 2) * 40, 265 + k * 38]], 13, COL.greyDk);
+  line(c, [[447, 232], [633, 232]], 3, COL.grey);
+  // pointing hand from the lower right, finger tip on the label
+  c.save(); c.translate(715, 590); c.rotate(-Math.PI * 0.64); c.scale(1.35, 1.35);
   shape(c, () => rrect(c, -150, -45, 90, 90, 14), CLOTH.child, 6);
   shape(c, () => rrect(c, -62, -50, 120, 100, 28), SKIN.child, 6);
-  shape(c, () => rrect(c, 40, -42, 150, 34, 17), SKIN.child, 6);
   [0, 1, 2].forEach((k) => shape(c, () => rrect(c, 0, -2 + k * 20, 70, 22, 11), SKIN.child, 5));
+  shape(c, () => rrect(c, 40, -42, 150, 34, 17), SKIN.child, 6);
+  shape(c, () => rrect(c, -20, -62, 80, 26, 13), SKIN.child, 5);
   c.restore();
 };
 

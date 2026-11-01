@@ -127,10 +127,12 @@ const e1_1 = (c: Ctx) => {
 const e1_2 = (c: Ctx) => {
   ground(c);
   panel(c, 30, 140, 320, 800, () => {
-    fridge(c, 50, 200, 230, 700);
-    armTo(c, 335, 560, Math.PI, 1.15, CLOTH.adult); hand(c, 335, 560, Math.PI, 1.15, SKIN.adult, CLOTH.adult);
-    spray(c, 272, 560, 24, 22, 4, 21, 13); spray(c, 272, 430, 14, 50, 4, 22, 12);
-    arrow(c, [[200, 760], [320, 760]]);
+    shape(c, () => rrect(c, 120, 170, 260, 800, 0), COL.wood, 6); shade(c, () => rrect(c, 120, 170, 260, 800, 0), COL.woodDk, 22, 0, 0.4);
+    shape(c, () => rrect(c, 150, 230, 160, 260, 10), COL.woodDk, 4);
+    shape(c, () => rrect(c, 160, 530, 150, 60, 20), COL.steel, 5);
+    armTo(c, 100, 560, 0, 1.25, CLOTH.adult); hand(c, 100, 560, 0, 1.25, SKIN.adult, CLOTH.adult);
+    spray(c, 290, 560, 22, 18, 3, 21, 13);
+    arrow(c, [[300, 780], [150, 780]]);
   });
   panel(c, 380, 140, 320, 800, () => {
     shape(c, () => rrect(c, 350, 740, 400, 220, 0), COL.wood, 5); line(c, [[380, 780], [700, 780]], 4, COL.woodDk);
@@ -139,8 +141,7 @@ const e1_2 = (c: Ctx) => {
     arrow(c, [[640, 640], [640, 480]]);
   });
   panel(c, 730, 140, 320, 800, () => {
-    shape(c, () => rrect(c, 700, 740, 400, 220, 0), COL.wood, 5); line(c, [[730, 780], [1050, 780]], 4, COL.woodDk);
-    person(c, 890, 780, 560);
+    palmUp(c, 915, 930, 1.4, SKIN.adult, CLOTH.adult, () => spray(c, 0, -100, 50, 66, 8, 53, 16));
   });
 };
 // setup.e1.3
@@ -154,17 +155,25 @@ const e1_3 = (c: Ctx) => {
 // setup.e1.4
 const e1_4 = (c: Ctx) => {
   ground(c);
-  const x = 300, y = 1010, h = 860, head = h * 0.13, sh = y - h * 0.74, hy = sh - head * 1.05, sx = x + h * 0.11, sy = sh + h * 0.03;
-  const ex = x + 20, ey = hy + head * 0.5, a1 = Math.atan2(ey - sy, ex - sx), a2 = -Math.PI * 0.2, l2 = h * 0.16, wx = ex + Math.cos(a2) * l2, wy = ey + Math.sin(a2) * l2;
-  shadow(c, x + 90, y + 6, 190, 20);
-  person(c, x, y, h, { armR: [a1, a2], armL: [Math.PI * 0.5, Math.PI * 0.5] });
-  const pts = [[sx, sy], [ex, ey], [wx, wy]], uw = h * 0.06;
-  line(c, pts, uw + 10, INK); line(c, pts, uw, CLOTH.child); shape(c, () => ell(c, wx, wy, uw * 0.62, uw * 0.62), SKIN.child, 5);
-  spray(c, ex + 4, ey, 28, 26, 5, 61, 12);
-  [[-30, -6, 20], [-62, 22, 14], [-60, -30, 12]].forEach(([dx, dy, r]) => shape(c, () => ell(c, x + dx - 90, ey + dy, r, r), WHITE, 4));
-  shape(c, () => rrect(c, 640, 760, 400, 200, 0), COL.wood, 5);
-  c.save(); c.translate(780, 740); c.rotate(Math.PI / 2 - 0.3); remote(c, 0, 0); c.restore(); spray(c, 780, 740, 130, 30, 6, 62, 13);
-  arrow(c, [[560, 640], [660, 640]]);
+  panel(c, 30, 140, 490, 800, () => {
+    shadow(c, 290, 930, 170, 18);
+    const hx = 270, hy = 450;
+    line(c, [[hx, hy + 150], [hx, 900]], 150, INK); line(c, [[hx, hy + 150], [hx, 900]], 140, CLOTH.child);
+    shape(c, () => ell(c, hx, hy, 150, 160), SKIN.child);
+    shape(c, () => { c.moveTo(hx - 154, hy - 10); c.bezierCurveTo(hx - 150, hy - 220, hx + 150, hy - 220, hx + 154, hy - 10); c.quadraticCurveTo(hx, hy - 120, hx - 154, hy - 10); c.closePath(); }, CLOTH.hair, 5);
+    line(c, [[hx - 90, hy + 5], [hx - 50, hy - 5]], 7); line(c, [[hx + 50, hy - 5], [hx + 90, hy + 5]], 7);
+    const arm = [[470, 930], [430, 650], [150, 560]];
+    line(c, arm, 120, INK); line(c, arm, 108, CLOTH.child);
+    shape(c, () => ell(c, 140, 548, 46, 46), SKIN.child, 5);
+    spray(c, 300, 600, 90, 22, 7, 61, 14);
+    [[[440, 420], [490, 380]], [[455, 470], [515, 460]], [[440, 520], [490, 550]]].forEach((l) => line(c, l, 8));
+  });
+  panel(c, 560, 140, 490, 800, () => {
+    shadow(c, 805, 870, 130, 16);
+    remote(c, 805, 680); armTo(c, 805, 450, Math.PI / 2, 1.3, CLOTH.child); hand(c, 805, 450, Math.PI / 2, 1.3, SKIN.child, CLOTH.child, true);
+    spray(c, 805, 560, 18, 14, 1, 62, 12);
+  });
+  arrow(c, [[500, 960], [580, 960]]);
 };
 // setup.e2.0
 const e2_0 = (c: Ctx) => {

@@ -187,15 +187,20 @@ const e2_2 = (c: Ctx) => {
 
 // ---------------------------------------------------------------- e3 · half and half
 // setup.e3.0
+// one grown-up hand tilts a katori of water over a tumbler (as it looks on the left); the lip of the katori is near (400, 560)
+const katoriPour = (c: Ctx, hot: boolean) => {
+  const an = 0.15, s = 1.6, kx = 190, ky = 300, wx = kx - 70 * s * Math.cos(an), wy = ky - 70 * s * Math.sin(an);
+  tumbler(c, 330, 930, 300, 340, hot ? { water: HOT, steam: true, steamH: 150 } : { water: COLD, drops: true });
+  curve(c, [[kx + 24, ky + 138], [kx + 40, ky + 200], [318, 520], [322, 610]], 24, hot ? HOT : COLD, 8);
+  c.save(); c.translate(kx, ky); c.rotate(1.4); bowl(c, 0, 0, 140, hot ? HOT : COLD); c.restore();
+  forearm(c, wx, wy, an, s, ADULT.sleeve);
+  hand(c, wx, wy, an, s, ADULT.skin, ADULT.sleeve);
+  arrow(c, [[420, 300], [455, 380], [455, 470]], RED, 10);
+};
 const e3_0 = (c: Ctx) => {
-  ground(c); table(c, 720);
-  tumbler(c, 290, 770, 290, 320, { water: HOT, steam: true, steamH: 170 });
-  tumbler(c, 790, 770, 290, 320, { water: COLD, drops: true });
-  // one katori of water for each, and the thermometer lying between them
-  bowl(c, 290, 880, 105, HOT);
-  steam(c, 290, 872, 70, 2);
-  bowl(c, 790, 880, 105, COLD);
-  thermo(c, 430, 905, 290, 0.5, Math.PI / 2, 28);
+  ground(c); table(c, 800);
+  katoriPour(c, true);
+  c.save(); c.translate(1080, 0); c.scale(-1, 1); katoriPour(c, false); c.restore();
 };
 
 // one pouring grown-up hand holding a tilted tumbler, as it looks on the left; rim lip near (x+136, y+63)

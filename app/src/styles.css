@@ -5337,6 +5337,13 @@ dialog .fxfab {
   cursor: pointer;
   padding: 6px 0;
 }
+.fxlvl {
+  margin: 12px 0 4px;
+}
+.fxsoon {
+  margin: 4px 0;
+  color: var(--muted);
+}
 .fxnew {
   display: grid;
   gap: 10px;

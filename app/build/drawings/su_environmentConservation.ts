@@ -182,8 +182,8 @@ const e1_4 = (c: Ctx) => {
 // ---------------------------------------------------------------- experiment 2: the dot test
 const R2 = { x: 430, base: 880, cm: 62 };
 const dotAt = (c: Ctx, p: P, ghost = false) => {
-  if (ghost) { c.beginPath(); ell(c, p[0], p[1], 15, 15); c.setLineDash([7, 7]); c.strokeStyle = COL.greyDk; c.lineWidth = 4; c.stroke(); c.setLineDash([]); }
-  else shape(c, () => ell(c, p[0], p[1], 15, 15), COL.purple, 5);
+  if (ghost) { c.beginPath(); ell(c, p[0], p[1], 20, 20); c.setLineDash([7, 7]); c.strokeStyle = COL.greyDk; c.lineWidth = 4; c.stroke(); c.setLineDash([]); }
+  else shape(c, () => ell(c, p[0], p[1], 20, 20), COL.purple, 6);
 };
 const leafScene = (c: Ctx, tipCm: number, dots: number[], ghost: number[]) => {
   ground(c);
@@ -196,11 +196,12 @@ const leafScene = (c: Ctx, tipCm: number, dots: number[], ghost: number[]) => {
   const at = (y: number): P => { let lo = 0, hi = 1; for (let i = 0; i < 24; i++) { const m = (lo + hi) / 2; if (qp(a, b, d, m)[1] > y) lo = m; else hi = m; } return qp(a, b, d, lo); };
   ruler(c, x, base + 6, cm, 10, 0, 84);
   for (const cmv of dots) line(c, [[x + 42, base - cmv * cm], [at(base - cmv * cm)[0] - 30, base - cmv * cm]], 3, COL.greyDk);
-  ghost.forEach((g) => dotAt(c, at(base - g * cm), true));
-  dots.forEach((g) => dotAt(c, at(base - g * cm)));
-  // the 2 cm between the dots
+  ghost.forEach((g) => { const gp = at(base - g * cm); line(c, [[x + 42, gp[1]], [gp[0] - 30, gp[1]]], 3, COL.grey); dotAt(c, gp, true); });
+  // the 2 cm between the two dots, drawn tight against them
   const y1 = base - dots[0] * cm, y2 = base - dots[1] * cm, bx = 810;
-  line(c, [[bx - 12, y1], [bx, y1], [bx, y2], [bx - 12, y2]], 6, RED);
+  for (const y of [y1, y2]) line(c, [[at(y)[0] + 26, y], [bx - 12, y]], 3, COL.greyDk);
+  dots.forEach((g) => dotAt(c, at(base - g * cm)));
+  line(c, [[bx - 12, y1], [bx, y1], [bx, y2], [bx - 12, y2]], 7, RED);
   write(c, "2cm", bx + 22, (y1 + y2) / 2 - 22, 44, INK, 7);
   hand(c, R2.x - 91, 300, 0, 1.3);
   return at;
@@ -218,7 +219,11 @@ const e2_0 = (c: Ctx) => {
   hand(c, m[0] - 70 * 1.2 * Math.cos(an), m[1] - 70 * 1.2 * Math.sin(an), an, 1.2);
 };
 // setup.e2.1
-const e2_1 = (c: Ctx) => { leafScene(c, 8.7, [3.5, 5.5], [2, 4]); arrow(c, [[540, 700], [540, 560]], RED, 10); };
+const e2_1 = (c: Ctx) => {
+  const at = leafScene(c, 10, [5, 7], [2, 4]);
+  // each dot moved up by the same amount: an arrow from where it was to where it is now
+  [[2, 5, -62], [4, 7, -104]].forEach(([from, to, dx]) => { const a = at(880 - from * 62), b = at(880 - to * 62); arrow(c, [[a[0] + dx, a[1] - 26], [b[0] + dx, b[1] + 26]], RED, 9); });
+};
 
 // ---------------------------------------------------------------- experiment 3: the bare tub test
 const TH = 0.273;

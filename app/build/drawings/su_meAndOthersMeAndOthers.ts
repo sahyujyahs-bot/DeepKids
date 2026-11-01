@@ -104,14 +104,12 @@ const e1_0 = (c: Ctx) => {
 };
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
-  tableTop(c, 400);
-  viewChild(c, 540, 585, 0.65);
-  c.save(); c.translate(560, 800); c.rotate(-0.04);
-  shape(c, () => polyP(c, [[-380, -130], [380, -130], [330, 250], [-330, 250]].map(([a, b]) => [a, b])), WHITE, 6);
-  c.restore();
-  sketch(c, 380, 1010, 0.6);
-  pencil(c, 700, 950, 800, 660);
-  hand(c, 920, 790, Math.PI, 2.2, SKIN.child, CLOTH.child);
+  tableTop(c, 260);
+  viewChild(c, 540, 420, 0.5);
+  shape(c, () => polyP(c, [[110, 520], [980, 500], [1000, 1050], [90, 1060]]), WHITE, 6);
+  sketch(c, 330, 990, 0.8);
+  pencil(c, 645, 840, 775, 600);
+  hand(c, 826, 760, Math.PI, 2.2, SKIN.child, CLOTH.child);
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
@@ -131,14 +129,17 @@ const e1_2 = (c: Ctx) => {
   // equals: the drawing should match the photo
   line(c, [[530, 440], [570, 440]], 12, RED); line(c, [[530, 490], [570, 490]], 12, RED);
 };
+// a pink painted band across the wall, so you can see the hole is a hole: the band carries on through it
+const wallBand = (c: Ctx, x0: number, x1: number, y0: number, y1: number) => { c.fillStyle = COL.pink; c.fillRect(x0, y0, x1 - x0, y1 - y0); line(c, [[x0, y0], [x1, y0]], 5); line(c, [[x0, y1], [x1, y1]], 5); };
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   c.fillStyle = WALL; c.fillRect(0, 0, D, D);
+  wallBand(c, 0, D, 380, 580);
+  clock(c, 540, 480, 60);
   eyeOpen(c, 440, 110, 150); eyeOpen(c, 640, 110, 150);
-  c.setLineDash([16, 16]); line(c, [[440, 160], [510, 355]], 5, COL.greyDk); line(c, [[640, 160], [570, 355]], 5, COL.greyDk); c.setLineDash([]);
-  clock(c, 540, 470, 95);
+  c.setLineDash([16, 16]); line(c, [[440, 160], [490, 330]], 5, COL.greyDk); line(c, [[640, 160], [590, 330]], 5, COL.greyDk); c.setLineDash([]);
   sleeve(c, 540, 840, 1100, 158);
-  postcard(c, 540, 480, 700, 480, 540, 470, 135);
+  postcard(c, 540, 480, 700, 480, 540, 480, 135);
   hand(c, 540, 840, -Math.PI / 2, 2.2, SKIN.child, CLOTH.child);
 };
 // setup.e2.1
@@ -147,17 +148,18 @@ const e2_1 = (c: Ctx) => {
   const panel = (px: number, jump: boolean, shutLeft: boolean) => {
     c.save(); c.beginPath(); rrect(c, px - 250, 250, 500, 800, 24); c.clip();
     c.fillStyle = WALL; c.fillRect(px - 250, 250, 500, 800);
-    clock(c, px + (jump ? 120 : 0), 520, 62);
+    wallBand(c, px - 250, px + 250, 440, 600);
+    clock(c, px + (jump ? 200 : 0), 520, 40);
     sleeve(c, px, 850, 1100, 115);
-    postcard(c, px, 560, 430, 300, px, 520, 90);
+    postcard(c, px, 560, 300, 300, px, 520, 80);
     hand(c, px, 850, -Math.PI / 2, 1.6, SKIN.child, CLOTH.child);
+    if (jump) arrow(c, [[px, 365], [px + 200, 365]]);
     c.restore();
     c.beginPath(); rrect(c, px - 250, 250, 500, 800, 24); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
     (shutLeft ? eyeShut : eyeOpen)(c, px - 85, 150, 130); (shutLeft ? eyeOpen : eyeShut)(c, px + 85, 150, 130);
   };
   panel(285, false, true);
   panel(795, true, false);
-  c.save(); c.beginPath(); rrect(c, 545, 250, 500, 800, 24); c.clip(); arrow(c, [[735, 625], [875, 625]]); c.restore();
 };
 
 export const su_meAndOthersMeAndOthers = cards("sci.me-and-others.me-and-others.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1]);

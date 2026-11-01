@@ -109,11 +109,13 @@ const e1_2 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  shadow(c, 700, 600, 380, 26);
-  c.save(); c.translate(525, 540); c.scale(1.2, 1.2); c.translate(-525, -540);
-  ribbon(c, (t) => [390 - t * 260, 520 + Math.sin(t * 4.5) * 24 + t * 30], 100);
-  pencil(c, 380, 520, 540, 0.05, 1, true);
+  shadow(c, 600, 640, 420, 26);
+  c.save(); c.translate(525, 540); c.scale(1.3, 1.3); c.translate(-525, -540);
+  ribbon(c, (t) => [400 - t * 250, 520 + Math.sin(t * 4.5) * 22 + t * 24], 140);
+  pencil(c, 380, 520, 540, 0.0, 1, true);
   c.restore();
+  // the other hand presses the tape down over the strip and the pencil
+  hand(c, 351, 310, Math.PI / 2, 1.8, SKIN.child, CLOTH.child, true);
 };
 
 // setup.e2.1
@@ -134,7 +136,7 @@ const e2_1 = (c: Ctx) => {
   const turn: number[][] = []; for (let i = 0; i <= 16; i++) { const th = Math.PI * (0.12 + i * 0.045); turn.push([540 + Math.cos(th) * 440, 230 + Math.sin(th) * 130]); }
   arrow(c, turn);
   // the bed: headboard, mattress, blanket, pillow
-  c.save(); c.translate(-60, 0);
+  c.save(); c.translate(-60, -120);
   shape(c, () => rrect(c, 610, 930, 480, 120, 14), COL.brown);
   shape(c, () => rrect(c, 650, 850, 440, 100, 24), COL.cloth);
   shape(c, () => rrect(c, 780, 835, 320, 125, 28), COL.teal);
@@ -143,15 +145,21 @@ const e2_1 = (c: Ctx) => {
   shade(c, () => rrect(c, 670, 760, 230, 105, 48), COL.cloth, -26, -20, 0.9);
   c.beginPath(); rrect(c, 670, 760, 230, 105, 48); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
   c.restore();
-  // the flag held up at pillow height, the strip blown sideways
-  shadow(c, 313, 985, 60, 14);
-  ribbon(c, (t) => [320 + t * 220, 520 + Math.sin(t * 7) * 14 + t * 6], 70);
-  pencil(c, 303, 520, 440, Math.PI / 2, -1, true);
-  shape(c, () => rrect(c, -30, 735, 160, 110, 14), CLOTH.child);
-  hand(c, 170, 790, 0, 1.9);
+  // the flag held up at pillow height by one hand, the strip blown sideways towards the bed
+  ribbon(c, (t) => [275 + t * 215, 655 + Math.sin(t * 7) * 12 + t * 6], 76);
+  pencil(c, 240, 630, 380, Math.PI / 2, -1, true);
+  hand(c, 107, 850, 0, 1.9);
 };
 
 // setup.e2.2
+// a small flag on a stick: 0 hangs straight down (still air), 1 flutters, 2 blows out flat
+const miniFlag = (c: Ctx, x: number, y: number, state: number) => {
+  const top = y - 30;
+  if (state === 0) ribbon(c, (t) => [x + 20 + Math.sin(t * 6) * 2, top + 8 + t * 100], 32);
+  else if (state === 1) ribbon(c, (t) => [x + 8 + t * 80, top + 16 + t * 55 + Math.sin(t * 9) * 8], 32);
+  else ribbon(c, (t) => [x + 8 + t * 110, top + 18 + Math.sin(t * 9) * 6], 32);
+  shape(c, () => rrect(c, x - 8, top, 16, 112, 5), COL.yellow, 5);
+};
 const e2_2 = (c: Ctx) => {
   ground(c);
   const sheet = () => rrect(c, 70, 70, 940, 940, 14);
@@ -168,9 +176,13 @@ const e2_2 = (c: Ctx) => {
   // fan over the bed: four blades round a hub
   [0, 1, 2, 3].forEach((k) => { const a = k * Math.PI / 2 + 0.5; c.save(); c.translate(470, 590); c.rotate(a); shape(c, () => rrect(c, 20, -22, 110, 44, 20), COL.blue, 5); c.restore(); });
   shape(c, () => ell(c, 470, 590, 26, 26), COL.steel, 5);
-  // scores written round the bed, in white circles
-  const score = (x: number, y: number, n: string) => { shape(c, () => ell(c, x, y, 62, 62), WHITE, 6); write(c, n, x - 20, y - 34, 68, RED, 11); };
-  score(790, 590, "2"); score(470, 215, "1"); score(215, 860, "0"); score(850, 850, "0");
+  // each place tested: its flag and its score, still places yellow, windy places blue
+  const tone = [COL.yellow, COL.sky, COL.waterDk];
+  const score = (x: number, y: number, n: number) => {
+    miniFlag(c, x + 98, y + 6, n);
+    shape(c, () => ell(c, x, y, 50, 50), tone[n], 6); write(c, String(n), x - 17, y - 28, 56, INK, 10);
+  };
+  score(335, 215, 1); score(700, 520, 2); score(215, 810, 0); score(740, 810, 0); score(420, 810, 2);
 };
 
 export const su_microorganismsParasites = cards("sci.microorganisms.parasites.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2]);

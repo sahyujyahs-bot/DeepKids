@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { D, INK, BG, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, arrow, hand, person, cards } from "./flatKit";
+import { D, INK, BG, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, arrow, hand, write, cards } from "./flatKit";
 
 // GALAXIES L3 set-up cards: the pinhole galaxy (e1) and the rice galaxy (e2).
 const PAPER = "#fbf8ef", DOT = "#3a3540", NIGHT = "#1d2142", NIGHT_T = "#2c3260";
@@ -24,19 +24,37 @@ const bunchDots = (c: Ctx, x: number, y: number, R: number, r: number, lit = fal
   for (let i = 0; i < 16; i++) { const a = rd() * 6.283, d = Math.sqrt(rd()) * (R - r * 2.2); if (lit) { c.beginPath(); ell(c, x + Math.cos(a) * d, y + Math.sin(a) * d, r * 3, r * 3); c.fillStyle = "rgba(255,226,120,0.35)"; c.fill(); } shape(c, () => ell(c, x + Math.cos(a) * d, y + Math.sin(a) * d, r, r), lit ? "#fff3b0" : DOT, lit ? 2 : 0); }
 };
 
+// a pencil in a hand: tip at (tx, ty), pointing along angle an (the hand grips it, so draw the hand after)
+const pencil = (c: Ctx, tx: number, ty: number, an: number, len = 300) => {
+  c.save(); c.translate(tx, ty); c.rotate(an + Math.PI);
+  shape(c, () => polyP(c, [[0, 0], [50, -15], [50, 15]]), "#f0cf9a", 5);
+  shape(c, () => polyP(c, [[0, 0], [14, -4.5], [14, 4.5]]), INK, 3);
+  shape(c, () => rrect(c, 50, -15, len - 90, 30, 4), COL.yellow, 5);
+  shade(c, () => rrect(c, 50, -15, len - 90, 30, 4), COL.orange, 0, 8, 0.6);
+  shape(c, () => rrect(c, len - 40, -15, 40, 30, 6), COL.pink, 5);
+  c.restore();
+};
+
 // setup.e1.0
 const gal1 = (c: Ctx) => {
   ground(c);
-  shadow(c, 560, 960, 440, 40);
-  shape(c, () => rrect(c, 90, 150, 880, 800, 14), PAPER, 6);
-  shade(c, () => rrect(c, 90, 150, 880, 800, 14), COL.cloth, 14, 14, 0.8);
-  shape(c, () => rrect(c, 90, 150, 880, 800, 14), PAPER, 6);
-  ruler(c, 110, 190, 840);
-  pairDots(c, 0, 410, 1);
-  // little ticks from the ruler down to each pair
-  PAIRS.forEach(([cx, gap]) => { line(c, [[cx - gap / 2, 300], [cx - gap / 2, 385]], 3, COL.grey); line(c, [[cx + gap / 2, 300], [cx + gap / 2, 385]], 3, COL.grey); });
-  c.beginPath(); ell(c, 540, 720, 150, 150); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
-  bunchDots(c, 540, 720, 150, 12);
+  shadow(c, 520, 950, 440, 30);
+  shape(c, () => rrect(c, 50, 230, 900, 700, 14), PAPER, 6);
+  shade(c, () => rrect(c, 50, 230, 900, 700, 14), COL.cloth, 14, 14, 0.8);
+  shape(c, () => rrect(c, 50, 230, 900, 700, 14), PAPER, 6);
+  ruler(c, 80, 280, 640);
+  // three pairs of dots, gaps 1, 2, 3, each with its number
+  [[200, 40, "1"], [380, 80, "2"], [580, 120, "3"]].forEach(([cx, gap, n]) => {
+    [-1, 1].forEach((s) => shape(c, () => ell(c, (cx as number) + s * (gap as number) / 2, 440, 11, 11), DOT, 0));
+    write(c, n as string, (cx as number) - 14, 480, 50);
+  });
+  // the bunch of dots in a small circle
+  c.beginPath(); ell(c, 330, 760, 120, 120); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  bunchDots(c, 330, 760, 120, 10);
+  // a hand marking the last dot with a pencil
+  const an = 2.307, tx = 640, ty = 440, dx = Math.cos(an), dy = Math.sin(an);
+  pencil(c, tx, ty, an);
+  hand(c, tx - dx * 292, ty - dy * 292, an, 1.6, SKIN.child, CLOTH.child);
 };
 
 // setup.e1.1
@@ -156,22 +174,36 @@ const rice2 = (c: Ctx) => {
   shape(c, () => ell(c, 880, 880, 80, 20), "#fffaf0", 5);
 };
 
-// setup.e2.2
-const rice3 = (c: Ctx) => {
+// a hand with one finger out, fingertip at (tx, ty), pointing along angle an; s = size
+const pointHand = (c: Ctx, tx: number, ty: number, an: number, s: number) => {
+  const wx = tx - (144 * s * Math.cos(an) + 21.5 * s * Math.sin(an)), wy = ty - (144 * s * Math.sin(an) - 21.5 * s * Math.cos(an));
+  c.save(); c.translate(wx, wy); c.rotate(an); c.scale(s, s);
+  shape(c, () => rrect(c, -78, -36, 56, 72, 14), CLOTH.child, 6);
+  shape(c, () => { c.moveTo(-26, -32); c.quadraticCurveTo(20, -42, 46, -30); c.lineTo(52, 30); c.quadraticCurveTo(10, 40, -26, 32); c.closePath(); }, SKIN.child, 6);
+  for (let k = 1; k < 4; k++) shape(c, () => rrect(c, 38, -30 + k * 17, 40, 17, 8.5), SKIN.child, 5);
+  shape(c, () => rrect(c, 30, -30, 114, 17, 8.5), SKIN.child, 5);
+  shape(c, () => { c.moveTo(-4, 30); c.quadraticCurveTo(22, 60, 52, 50); c.quadraticCurveTo(64, 44, 50, 34); c.quadraticCurveTo(26, 32, 12, 18); c.closePath(); }, SKIN.child, 5);
+  c.restore();
+};
+// the Sun at (240, 520) on the zoomed rice, the counting strip along a thread to (ex, 520)
+const countView = (c: Ctx, ex: number, haze: boolean) => {
   ground(c);
   zoom(c, 2.2, 240, 520, () => { newspaper(c); circleLine(c); rice(c); shape(c, () => ell(c, CX, CY, 9, 9), INK, 0); });
-  // the long thread from the Sun to the edge, with the Sun at its end
-  zoom(c, 2.2, 240, 520, () => { thread(c, [SUN, [CX + CR, CY]]); paperSun(c); });
-  hand(c, 560, 830, -2.45, 1.7, SKIN.child, CLOTH.child, true);
+  if (haze) { const g = c.createRadialGradient(240, 520, 120, 240, 520, 380); g.addColorStop(0, "rgba(239,228,207,0)"); g.addColorStop(1, "rgba(239,228,207,0.95)"); c.fillStyle = g; c.fillRect(0, 0, D, D); }
+  line(c, [[240, 520], [ex, 520]], 90, "rgba(255,211,77,0.4)");
+  zoom(c, 2.2, 240, 520, () => { thread(c, [SUN, [SUN[0] + (ex - 240) / 2.2, SUN[1]]]); paperSun(c); });
+};
+
+// setup.e2.2
+const rice3 = (c: Ctx) => {
+  countView(c, 570, false);
+  pointHand(c, 430, 568, -2.55, 1.5);
 };
 
 // setup.e2.3
 const rice4 = (c: Ctx) => {
-  ground(c);
-  zoom(c, 2.2, 470, 780, () => { newspaper(c); circleLine(c); rice(c); shape(c, () => ell(c, CX, CY, 9, 9), INK, 0); });
-  zoom(c, 2.2, 470, 780, () => { thread(c, [SUN, [SUN[0], SUN[1] - 70]]); paperSun(c); });
-  // a child's hand held up beside the thread: the thread is as long as a hand
-  hand(c, 740, 800, -Math.PI / 2, 1.2, SKIN.child, CLOTH.child, true);
+  countView(c, 390, true);
+  pointHand(c, 385, 572, -2.55, 1.5);
 };
 
 export const su_storyOfUniverseGalaxies = cards("sci.story-of-universe.galaxies.L3 set-up", [gal1, gal2, gal3, gal4, rice1, rice2, rice3, rice4]);

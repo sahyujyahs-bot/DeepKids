@@ -27,7 +27,7 @@ function combinedTopicList() {
   };
   return `<div class="sech"><h3 style="font-size:18px">Lessons by class</h3></div>
    <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
-   <p class="xs muted">Every science topic any board teaches in Class ${lv}. ${((n) => (n === L.length ? "Each has a DeepKids lesson." : `${n} of ${L.length} have a DeepKids lesson; the others use the board's chapters for now.`))(L.filter((e) => e.k).length)}</p>${L.map(row).join("")}`;
+   <p class="xs muted">Your Class ${lv} plan on the DeepKids track. It covers every science topic any board teaches in Class ${lv}, ${((n) => (n === L.length ? "each through a DeepKids lesson." : `${n} of ${L.length} through a DeepKids lesson; the others use the board's chapters for now.`))(L.filter((e) => e.k).length)}</p>${L.map(row).join("")}`;
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder
 function dkTrackBrowse() {
@@ -38,16 +38,41 @@ function dkTrackBrowse() {
     return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is being written. For now, its chapters are under Board track.</p>`;
   return chips + combinedBrowse();
 }
-// every unit, for every family on any track: any of them can be added to the plan alongside the class plan
+// DeepKids Science two ways: the class plan, or every topic with its levels 1 to 5
 function combinedBrowse() {
-  const U = Object.values(DATA.units || {}).sort((a, b) => a.order - b.order),
-    byTopic = Object.entries(U.reduce((g, x) => ((g[x.topic] = g[x.topic] || []).push(x), g), {}));
-  return (
-    combinedTopicList() +
-    (U.length
-      ? `<section class="card fxnew"><span class="eyebrow">All DeepKids units · ${U.length} · written for Class 3</span><p class="sm">${["combined", "none"].includes(S.board) ? "All open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${byTopic.map(([t, L]) => `<details class="fxgrp"><summary><b>${esc(t)}</b> <span class="pill">${L.length}</span></summary>${fxUnitBtns(L)}</details>`).join("")}${fxSongBtns()}</section>`
-      : "")
-  );
+  const view = ui.dkview === "topic" ? "topic" : "class";
+  return `<div class="seg">${[
+    ["class", "By class"],
+    ["topic", "By topic and level"],
+  ]
+    .map(([k, n]) => `<button aria-pressed="${view === k}" data-act="dkview" data-v="${k}">${n}</button>`)
+    .join("")}</div>${view === "class" ? combinedTopicList() : fxTopicLadder()}`;
+}
+// every science topic, strand by strand, then level by level: a written unit opens (any family can add it to the
+// plan alongside the class plan); the rest show as being written
+function fxTopicLadder() {
+  const T = DATA.ladder?.sci || [],
+    tag = (board) => `<span class="pill">${board ? "Board topic" : "DeepKids extra"}</span>`,
+    lesson = ([id, name, board]) =>
+      DATA.units?.[id]
+        ? `<p class="xs">${tag(board)}</p>${fxUnitBtns([DATA.units[id]])}`
+        : `<p class="fxsoon sm">${esc(name)} · being written ${tag(board)}</p>`,
+    topic = (t) => {
+      const L = t.levels.flatMap(([, subs]) => subs);
+      return `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${L.filter(([id]) => DATA.units?.[id]).length} of ${L.length} written</span></summary>${t.levels.map(([l, subs]) => `<p class="fxlvl"><b>Level ${l}</b> · Class ${DATA.levels?.[l]?.cls || l}</p>${subs.map(lesson).join("")}`).join("")}</details>`;
+    };
+  return T.length
+    ? `<section class="card fxnew"><span class="eyebrow">Every science topic · ${T.length} topics · ${Object.keys(DATA.units || {}).length} units written</span><p class="sm">${["combined", "none"].includes(S.board) ? "Every written unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
+        ...new Set(T.map((t) => t.strand)),
+      ]
+        .map(
+          (st) =>
+            `<h3 class="fxsh">${esc(st)}</h3>${T.filter((t) => t.strand === st)
+              .map(topic)
+              .join("")}`,
+        )
+        .join("")}${fxSongBtns()}</section>`
+    : "";
 }
 const LSUBJ = {
   sci: "Science",

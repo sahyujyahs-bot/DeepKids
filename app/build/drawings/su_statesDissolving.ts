@@ -147,14 +147,18 @@ const e3_1 = (c: Ctx) => {
   spoon(c, 360, 250, 0.3, 270, SALT); gripHand(c, 360, 250, 0.3);
   falling(c, 690, 395, 560, SALT);
 };
-// setup.e3.2
+// setup.e3.2 · same heap in both glasses, and the same four tally strokes on a paper in front of each
 const e3_2 = (c: Ctx) => {
   ground(c);
-  mat(c, 290, 740, 200, COL.blue); mat(c, 780, 740, 200, COL.orange);
-  glass(c, 290, 730, 310, 450, 0.4); heap(c, 290, 726, 170, 60, SALT, 5);
-  glass(c, 780, 730, 310, 450, 0.4); heap(c, 780, 726, 170, 60, SALT, 5);
-  steam(c, 780, 270);
-  for (const x of [290, 780]) for (let i = 0; i < 3; i++) spoon(c, x - 150, 835 + i * 62, 0, 160);
+  mat(c, 290, 690, 200, COL.blue); mat(c, 780, 690, 200, COL.orange);
+  glass(c, 290, 680, 310, 440, 0.4); heap(c, 290, 676, 200, 80, SALT, 5);
+  glass(c, 780, 680, 310, 440, 0.4); heap(c, 780, 676, 200, 80, SALT, 5);
+  steam(c, 780, 240);
+  for (const x of [290, 780]) {
+    shadow(c, x + 8, 1035, 150, 18);
+    shape(c, () => rrect(c, x - 150, 800, 300, 220, 12), COL.paper, 6);
+    for (let i = 0; i < 4; i++) line(c, [[x - 90 + i * 60, 830], [x - 90 + i * 60, 990]], 10);
+  }
 };
 
 export const su_statesDissolving = cards("sci.states.dissolving.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

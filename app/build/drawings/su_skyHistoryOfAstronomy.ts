@@ -109,24 +109,37 @@ const pin = (c: Ctx, x: number, y: number, dx: number, dy: number, len: number) 
 // setup.e1.0
 const e1s0 = (c: Ctx) => {
   ground(c);
-  // wooden board
-  shadow(c, 540, 960, 440, 30);
-  shape(c, () => rrect(c, 100, 850, 880, 90, 16), COL.wood);
-  shade(c, () => rrect(c, 100, 850, 880, 90, 16), COL.woodDk, -60, 0, 0.5);
-  line(c, [[170, 890], [400, 890]], 4, COL.woodDk); line(c, [[580, 908], [860, 908]], 4, COL.woodDk);
-  cup(c, 540, 500, 1.6, { flip: true, coins: true });
-  pin(c, 540, 400, 0, 1, 140);
-  hand(c, 540, 255, Math.PI / 2, 2, SKIN.adult, CLOTH.adult);
-  arrow(c, [[800, 260], [800, 410]]);
+  // wooden board seen from a little above
+  shadow(c, 560, 955, 470, 34);
+  shape(c, () => polyP(c, [[150, 790], [930, 790], [1010, 860], [70, 860]]), COL.wood);
+  shape(c, () => rrect(c, 70, 860, 940, 80, 14), COL.wood);
+  shade(c, () => rrect(c, 70, 860, 940, 80, 14), COL.woodDk, -60, 0, 0.5);
+  line(c, [[200, 830], [420, 830]], 4, COL.woodDk); line(c, [[640, 815], [860, 815]], 4, COL.woodDk); line(c, [[160, 900], [420, 900]], 4, COL.woodDk);
+  // the cup upside down: its closed bottom faces up
+  shadow(c, 580, 835, 230, 40);
+  const body = () => { c.moveTo(390, 500); c.lineTo(345, 820); c.ellipse(540, 820, 195, 50, 0, Math.PI, 0, true); c.lineTo(690, 500); c.ellipse(540, 500, 150, 38, 0, 0, Math.PI); c.closePath(); };
+  shape(c, body, COL.glass, 6);
+  shade(c, body, COL.glassEdge, -40, 0, 0.3);
+  shape(c, () => ell(c, 540, 820, 195, 50), "rgba(255,255,255,0.18)", 5);
+  shape(c, () => ell(c, 540, 500, 150, 38), "rgba(255,255,255,0.4)", 5);
+  shine(c, [[400, 580], [385, 760]], 9);
+  // two coins taped inside the bottom, one on each side of the middle
+  for (const s of [-1, 1]) { coin(c, 540 + s * 88, 502, 48); tapeStrip(c, 540 + s * 88, 502, 92, 22, 0.35 * s); }
+  // the pin pushed down on the middle of the bottom
+  pin(c, 540, 415, 0, 1, 85);
+  hand(c, 540, 240, Math.PI / 2, 2, SKIN.adult, CLOTH.adult);
+  arrow(c, [[730, 250], [730, 410]]);
 };
 // setup.e1.1
 const e1s1 = (c: Ctx) => {
   ground(c);
-  potBack(c, 60, 660, 330, 860, 540);
-  cup(c, 360, 680, 1.55, { water: 18, jet: 125, coins: true });
-  potFront(c, 60, 660, 330, 860, 540);
-  arrow(c, [[360, 190], [360, 290]]);
-  phone(c, 740, 360, 240, 400, false, "00 00");
+  potBack(c, 60, 700, 420, 900, 540);
+  for (const [rx, a] of [[170, 0.9], [215, 0.5]]) { c.beginPath(); ell(c, 380, 546, rx, 14); c.strokeStyle = WHITE; c.globalAlpha = a; c.lineWidth = 5; c.stroke(); c.globalAlpha = 1; }
+  cup(c, 380, 590, 1.2, { water: 14, jet: 36, coins: true });
+  potFront(c, 60, 700, 420, 900, 540);
+  hand(c, 597, 345, Math.PI, 1.5);
+  arrow(c, [[190, 190], [190, 330]]);
+  phone(c, 770, 400, 240, 400, false, "00 00");
 };
 // setup.e1.2
 const e1s2 = (c: Ctx) => {
@@ -180,12 +193,34 @@ const backPerson = (c: Ctx, x: number, y: number, h: number, adult: boolean) => 
   fist(c, fx, fy, h * 0.13, false);
 };
 // setup.e2.0
+// a person in profile facing right, arm straight out with a fist, one eye shut. Feet at (x, y); t = 1 is a child 490 px tall.
+const sidePerson = (c: Ctx, x: number, y: number, t: number, adult: boolean) => {
+  const skin = adult ? SKIN.adult : SKIN.child, cloth = adult ? CLOTH.adult : CLOTH.child, clothDk = adult ? CLOTH.adultDk : CLOTH.childDk;
+  c.save(); c.translate(x - 225 * t, y - 1010 * t); c.scale(t, t);
+  shadow(c, 290, 1012, 150, 16);
+  for (const s of [0, 1]) { const l = [[225 + s * 36, 810], [225 + s * 36, 1000]]; line(c, l, 42, INK); line(c, l, 32, "#6b5a8c"); shape(c, () => rrect(c, 205 + s * 36, 988, 66, 28, 14), COL.black, 5); }
+  const body = () => rrect(c, 180, 668, 100, 160, 30);
+  shape(c, body, cloth); shade(c, body, clothDk, -30, 0);
+  shape(c, () => rrect(c, 218, 628, 36, 60, 8), skin, 5);
+  shape(c, () => ell(c, 205, 600, 36, 44), CLOTH.hair, 4);
+  shape(c, () => ell(c, 238, 580, 56, 58), skin);
+  shape(c, () => { c.moveTo(184, 580); c.bezierCurveTo(184, 506, 292, 506, 294, 570); c.quadraticCurveTo(250, 545, 184, 580); c.closePath(); }, CLOTH.hair, 5);
+  shape(c, () => ell(c, 296, 596, 12, 14), skin, 5);
+  line(c, [[256, 582], [280, 586]], 6);
+  const ar = [[240, 705], [575, 628]];
+  line(c, ar, 54, INK); line(c, ar, 44, cloth);
+  shape(c, () => rrect(c, 566, 590, 76, 76, 20), skin, 6);
+  for (let i = 0; i < 3; i++) line(c, [[600 + i * 16, 596], [600 + i * 16, 630]], 3, adult ? SKIN.adultDk : SKIN.childDk);
+  c.restore();
+};
 const e2s0 = (c: Ctx) => {
   wall(c);
-  c.fillStyle = "#e2cba3"; c.fillRect(0, 700, 1080, 380); line(c, [[0, 700], [1080, 700]], 6);
-  mark(c, 110, 420); mark(c, 970, 420);
-  backPerson(c, 330, 1000, 520, false);
-  backPerson(c, 690, 1000, 700, true);
+  c.fillStyle = "#e2cba3"; c.fillRect(0, 880, 1080, 200); line(c, [[0, 880], [1080, 880]], 6);
+  // the wall at the far end of the room, with the two marks
+  shape(c, () => rrect(c, 840, -20, 260, 900, 0), "#ecd6ac", 6);
+  for (const x of [915, 1010]) { c.save(); c.translate(x, 590); c.scale(0.8, 0.8); mark(c, 0, 0); c.restore(); }
+  sidePerson(c, 170, 940, 1.05, true);
+  sidePerson(c, 400, 1030, 0.78, false);
 };
 // setup.e2.1
 const e2s1 = (c: Ctx) => {
@@ -255,35 +290,43 @@ const e3s1 = (c: Ctx) => {
   shape(c, () => ell(c, 880, 915, 120, 18), COL.water, 4);
   bottle(c, 480, 925, 570);
   bottleTape(c, 480, 925);
-  for (const y of [380, 480]) line(c, [[378, y], [450, y]], 6);
+  // marks already drawn on the tape, and the new one at the water level
+  for (const y of [400, 490, 570]) line(c, [[392, y], [443, y]], 8);
   shape(c, () => ell(c, 618, 860, 8, 8), INK, 0);
   const jet: number[][] = [];
   for (let i = 0; i <= 12; i++) { const t = i / 12; jet.push([620 + t * 260, 860 - 40 * t + 100 * t * t]); }
   line(c, jet, 20, COL.waterDk); line(c, jet, 12, COL.water);
   for (const [dx, dy] of [[-30, -34], [26, -50], [50, -20], [-6, -22]]) shape(c, () => ell(c, 880 + dx, 912 + dy, 7, 10), COL.drop, 3);
   sinkLip(c);
-  // marker pen in the child's hand, tip on the tape at the water level
-  line(c, [[230, 570], [380, 570]], 34, INK); line(c, [[230, 570], [380, 570]], 24, COL.purple);
-  shape(c, () => polyP(c, [[378, 556], [378, 584], [408, 570]]), INK, 4);
+  // a fat purple marker in the child's hand, its tip on the tape at the water level
+  const barrel = () => rrect(c, 200, 548, 160, 44, 12);
+  shape(c, barrel, COL.purple, 6); shade(c, barrel, COL.purple, 0, 12, 0.0);
+  shape(c, () => rrect(c, 312, 548, 22, 44, 4), WHITE, 5);
+  shape(c, () => polyP(c, [[358, 556], [358, 584], [398, 570]]), INK, 5);
   hand(c, 150, 570, 0, 1.8);
 };
 // setup.e3.2
 const e3s2 = (c: Ctx) => {
   ground(c);
-  const bx = 600, bot = 900, ys = [390, 520, 630, 720, 790, 845];
-  // ruler on the left, 20 px to the centimetre, 0 level with the top mark
-  shadow(c, 190, 910, 110, 18);
-  shape(c, () => rrect(c, 110, 360, 120, 540, 10), COL.wood);
-  for (let i = 0; i <= 25; i++) line(c, [[110, 390 + i * 20], [110 + (i % 5 ? 22 : 44), 390 + i * 20]], i % 5 ? 3 : 5);
-  for (const n of [0, 5, 10, 15, 20]) write(c, String(n), 164, 390 + n * 20 - 14, 28, INK, 5);
+  const bx = 520, bot = 920, y0 = 400, cm = 28, gaps = [5, 4, 3, 2, 1];
+  const ys = [y0]; gaps.forEach((g) => ys.push(ys[ys.length - 1] + g * cm));
   bottle(c, bx, bot);
   bottleTape(c, bx, bot);
-  shape(c, () => ell(c, bx + BW - 4, 840, 8, 8), INK, 0);
-  for (const y of ys) {
-    line(c, [[230, y], [bx - 95, y]], 3, "rgba(43,35,64,0.28)");
-    line(c, [[bx - 100, y], [bx - 32, y]], 6);
-    shape(c, () => ell(c, 230, y, 10, 10), RED, 4);
-  }
+  shape(c, () => ell(c, bx + BW - 4, 862, 8, 8), INK, 0);
+  // the marks on the tape get closer together towards the hole
+  for (const y of ys) { line(c, [[bx - 95, y], [bx - 37, y]], 8); line(c, [[bx - 37, y], [720, y]], 3, "rgba(43,35,64,0.28)"); }
+  // the ruler laid along the tape, held by a hand
+  shadow(c, 370, 935, 90, 14);
+  shape(c, () => rrect(c, 305, 370, 116, 560, 10), COL.wood);
+  for (let i = 0; i <= 18; i++) line(c, [[421, y0 + i * cm], [421 - (i % 5 ? 22 : 44), y0 + i * cm]], i % 5 ? 3 : 5);
+  for (const n of [0, 5, 10, 15]) write(c, String(n), n > 5 ? 316 : 340, y0 + n * cm - 14, 28, INK, 5);
+  hand(c, 215, 610, 0, 1.5);
+  // the gap between each pair of marks, in cm
+  gaps.forEach((g, i) => {
+    const a = ys[i], b = ys[i + 1], m = (a + b) / 2;
+    line(c, [[708, a + 3], [734, a + 3]], 5, RED); line(c, [[708, b - 3], [734, b - 3]], 5, RED); line(c, [[721, a + 3], [721, b - 3]], 5, RED);
+    write(c, `${g} cm`, 750, m - 16, 32, INK, 6);
+  });
 };
 
 export const su_skyHistoryOfAstronomy = cards("sci.sky.history-of-astronomy.L3 set-up", [e1s0, e1s1, e1s2, e2s0, e2s1, e2s2, e3s0, e3s1, e3s2]);

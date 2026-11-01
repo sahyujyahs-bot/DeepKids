@@ -449,7 +449,13 @@
      "kind": "cards",
      "title": "24 cards to cut out: 12 seeds and 12 plants",
      "items": [
-      "SEED: a tiny round mustard seed",
+      {
+       "f": "SEED: a tiny round mustard seed",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-00.jpg",
+        "credit": "Miansari66, Public domain, via Wikimedia Commons"
+       }
+      },
       {
        "f": "PLANT: mustard, with yellow flowers and thin pods",
        "img": {
@@ -458,27 +464,117 @@
        }
       },
       "SEED: a yellow-brown methi seed",
-      "PLANT: methi, with small leaves in threes",
+      {
+       "f": "PLANT: methi, with small leaves in threes",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-03.jpg",
+        "credit": "Prof. Dr. Otto Wilhelm Thomé derivative work: Ninjatacoshell (talk), Public domain, via Wikimedia Commons"
+       }
+      },
       "SEED: a green moong bean",
-      "PLANT: moong, with long thin hairy pods",
+      {
+       "f": "PLANT: moong, with long thin hairy pods",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-05.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
       "SEED: a brown, shiny tamarind seed",
-      "PLANT: a tall tamarind tree, with tiny leaflets and curved brown pods",
-      "SEED: a coconut",
-      "PLANT: a coconut palm, with long feathery leaves",
+      {
+       "f": "PLANT: a tall tamarind tree, with tiny leaflets and curved brown pods",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-07.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "SEED: a coconut",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-08.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "PLANT: a coconut palm, with long feathery leaves",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-09.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
       "SEED: a big flat mango stone",
-      "PLANT: a mango tree, with long dark green leaves",
+      {
+       "f": "PLANT: a mango tree, with long dark green leaves",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-11.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "SEED: a jackfruit seed",
-      "PLANT: a jackfruit tree, with huge spiky fruits on the trunk",
+      {
+       "f": "PLANT: a jackfruit tree, with huge spiky fruits on the trunk",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-13.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
       "SEED: a tiny flat tomato seed",
-      "PLANT: a tomato plant, with yellow flowers and red fruits",
-      "SEED: a grain of paddy, rice still in the husk",
-      "PLANT: a rice plant, with long thin leaves, standing in water",
-      "SEED: a striped sunflower seed",
-      "PLANT: a sunflower, with a big yellow flower head",
-      "SEED: a small oval neem seed",
-      "PLANT: a neem tree, with leaves like small toothed blades along a stalk",
+      {
+       "f": "PLANT: a tomato plant, with yellow flowers and red fruits",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-15.jpg",
+        "credit": "Aryan K, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "SEED: a grain of paddy, rice still in the husk",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-16.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "PLANT: a rice plant, with long thin leaves, standing in water",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-17.jpg",
+        "credit": "Nihal Mahesh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "SEED: a striped sunflower seed",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-18.jpg",
+        "credit": "Mx. Granger, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "PLANT: a sunflower, with a big yellow flower head",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-19.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "SEED: a small oval neem seed",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-20.jpg",
+        "credit": "P Jeganathan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "PLANT: a neem tree, with leaves like small toothed blades along a stalk",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-21.jpg",
+        "credit": "Santhosh T, CC BY, via iNaturalist"
+       }
+      },
       "SEED: a hard lotus seed",
-      "PLANT: a lotus, with round leaves floating on a pond"
+      {
+       "f": "PLANT: a lotus, with round leaves floating on a pond",
+       "img": {
+        "src": "media/cards/dna-and-rna-g2-0-23.jpg",
+        "credit": "Tom Field, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],

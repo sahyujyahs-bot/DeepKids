@@ -1,4 +1,12 @@
 {
+ "flow.a4": {
+  "src": "media/img/sci.food.nutrients.L3/flow.a4.jpg",
+  "credit": "Nico Hernandez, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.food.nutrients.L3/intro.jpg",
+  "credit": "Melanie M, CC BY 2.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.food.nutrients.L3/setup.e1.0.jpg",
   "drawn": true
@@ -38,5 +46,17 @@
  "setup.e3.2": {
   "src": "media/img/sci.food.nutrients.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.food.nutrients.L3/summary.jpg",
+  "credit": "fabulousfabs, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.10": {
+  "src": "media/img/sci.food.nutrients.L3/term.10.jpg",
+  "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.food.nutrients.L3/term.8.jpg",
+  "credit": "rajesh rocky, CC BY, via iNaturalist"
  }
 }

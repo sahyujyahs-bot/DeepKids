@@ -52,10 +52,10 @@ const contents = (c: Ctx, x: number, y: number, w: number, h: number, o: Fill) =
     line(c, [[x - hw, ly], [x + hw, ly]], 5, "#b07a45"); line(c, [[x - hw * 0.6, ly + 22], [x - hw * 0.2, ly + 22]], 5, "rgba(255,255,255,0.35)");
   }
   if (o.threads) {
-    for (let k = 0; k < 18; k++) {
+    for (let k = 0; k < 30; k++) {
       const px = x - hw + 15 + r() * (hw * 2 - 30), py = ty + 4 + r() * (y - ty) * 0.75, dx = (r() - 0.5) * 56, dy = (r() - 0.5) * 30;
-      line(c, [[px, py], [px + dx * 0.5, py + dy * 0.5 + 9], [px + dx, py + dy]], 5, WHITE);
-      c.beginPath(); ell(c, px, py, 7, 5); c.fillStyle = WHITE; c.globalAlpha = 0.9; c.fill(); c.globalAlpha = 1;
+      line(c, [[px, py], [px + dx * 0.5, py + dy * 0.5 + 9], [px + dx, py + dy]], 7, WHITE);
+      c.beginPath(); ell(c, px, py, 10, 7); c.fillStyle = WHITE; c.globalAlpha = 0.9; c.fill(); c.globalAlpha = 1;
     }
   }
   if (o.soil) {
@@ -108,7 +108,7 @@ const head = (c: Ctx, x: number, y: number, r: number) => {
   shape(c, () => rrect(c, x - r * 1.6, y + r * 1.35, r * 3.2, r * 3.4, r * 0.6), CLOTH.child);
   shade(c, () => rrect(c, x - r * 1.6, y + r * 1.35, r * 3.2, r * 3.4, r * 0.6), CLOTH.childDk, -r * 0.4, 0);
   shape(c, () => rrect(c, x - r * 0.4, y + r * 0.7, r * 0.8, r * 0.9, r * 0.2), SKIN.child);
-  shape(c, () => polyP(c, [[x - r * 0.85, y - r * 0.2], [x - r * 1.35, y + r * 0.38], [x - r * 0.85, y + r * 0.45]]), SKIN.child, 5);
+  shape(c, () => polyP(c, [[x - r * 0.85, y - r * 0.25], [x - r * 1.65, y + r * 0.42], [x - r * 0.85, y + r * 0.5]]), SKIN.child, 5);
   shape(c, () => ell(c, x, y, r, r * 1.05), SKIN.child);
   shape(c, () => { c.moveTo(x - r * 0.8, y - r * 0.6); c.bezierCurveTo(x - r * 0.6, y - r * 1.5, x + r * 1.1, y - r * 1.4, x + r * 1.0, y + r * 0.3); c.lineTo(x + r * 0.55, y + r * 0.1); c.quadraticCurveTo(x + r * 0.1, y - r * 0.5, x - r * 0.8, y - r * 0.6); c.closePath(); }, CLOTH.hair, 5);
   shape(c, () => ell(c, x + r * 0.3, y + r * 0.15, r * 0.14, r * 0.26), SKIN.childDk, 4);
@@ -121,11 +121,30 @@ const grip = (tx: number, ty: number, an: number, reach: number, s: number) => {
   return { g: [gx, gy], w: [gx - 70 * s * dx, gy - 70 * s * dy] };
 };
 const arcPts = (cx: number, cy: number, rx: number, ry: number, a0: number, a1: number, n = 14) => Array.from({ length: n + 1 }, (_, i) => { const a = a0 + ((a1 - a0) * i) / n; return [cx + Math.cos(a) * rx, cy + Math.sin(a) * ry]; });
-// sniffing scene: head and nose on the right, hand wafting over the jars, the smell travelling to the nose
+// a wavy smell line from (a) to (b), bending through control point (m)
+const wavy = (c: Ctx, a: number[], m: number[], b: number[], amp: number, col: string, w = 8) => {
+  const pts: number[][] = [];
+  for (let i = 0; i <= 40; i++) {
+    const t = i / 40, x = (1 - t) * (1 - t) * a[0] + 2 * (1 - t) * t * m[0] + t * t * b[0], y = (1 - t) * (1 - t) * a[1] + 2 * (1 - t) * t * m[1] + t * t * b[1];
+    const dx = 2 * (1 - t) * (m[0] - a[0]) + 2 * t * (b[0] - m[0]), dy = 2 * (1 - t) * (m[1] - a[1]) + 2 * t * (b[1] - m[1]), n = Math.hypot(dx, dy), o = Math.sin(t * Math.PI * 6) * amp * Math.sin(t * Math.PI);
+    pts.push([x - (dy / n) * o, y + (dx / n) * o]);
+  }
+  line(c, pts, w, col);
+};
+// a torn strip of newspaper with ragged ends and two lines of print
+const torn = (c: Ctx, x: number, y: number, len: number, wd: number, rot: number) => {
+  c.save(); c.translate(x, y); c.rotate(rot);
+  shape(c, () => polyP(c, [[-len, -wd * 0.5], [-len * 0.4, -wd * 0.58], [len * 0.2, -wd * 0.45], [len, -wd * 0.55], [len * 0.9, -wd * 0.1], [len, wd * 0.5], [len * 0.3, wd * 0.58], [-len * 0.3, wd * 0.45], [-len, wd * 0.55], [-len * 0.9, 0]]), PAPER, 5);
+  line(c, [[-len * 0.7, -wd * 0.12], [len * 0.6, -wd * 0.12]], 3, "#9a948a"); line(c, [[-len * 0.7, wd * 0.18], [len * 0.2, wd * 0.18]], 3, "#9a948a");
+  c.restore();
+};
+// sniffing scene: head and a big nose on the right, an open hand sweeping the smell up from the jars, smell lines running to the nose
 const waft = (c: Ctx, inJars: () => void, onTable?: () => void) => {
-  ground(c); head(c, 810, 320, 105); table(c); onTable?.(); inJars();
-  hand(c, 280, 480, -0.3, 1.8, SKIN.child, CLOTH.child, true);
-  arrow(c, [[400, 590], [480, 528], [560, 458], [645, 402]]);
+  ground(c); head(c, 835, 300, 115); table(c); onTable?.(); inJars();
+  wavy(c, [330, 600], [470, 430], [655, 355], 22, "#7f8a70", 9);
+  wavy(c, [200, 600], [330, 400], [650, 335], 18, "#7f8a70", 9);
+  hand(c, 140, 500, -0.45, 1.6, SKIN.child, CLOTH.child, true);
+  arrow(c, [[330, 540], [420, 520], [510, 490], [590, 450]]);
 };
 
 // ---------------------------------------------------------------- the cards
@@ -150,24 +169,27 @@ const e1_1 = (c: Ctx) => {
   ground(c);
   jar(c, 250, 900, 300, 420, { level: 0.65, seed: 3 }, "A");
   jar(c, 700, 900, 300, 420, { level: 0.65, seed: 4, paper: true }, "B");
-  const an = 2.1, { g, w } = grip(690, 560, an, 200, 1.8);
+  [[640, 540, 0.5], [730, 600, -0.4], [690, 670, 1.1], [770, 520, -0.9]].forEach(([x, y, a]) => torn(c, x, y, 46, 26, a));
+  const an = 2.3, { g, w } = grip(700, 330, an, 70, 1.8);
   c.save(); c.translate(g[0], g[1]); c.rotate(an);
-  shape(c, () => rrect(c, -30, -17, 230, 34, 6), PAPER, 5); line(c, [[0, -4], [160, -4]], 3, "#9a948a"); line(c, [[0, 7], [110, 7]], 3, "#9a948a");
+  [[160, -0.35], [200, 0], [170, 0.35], [140, 0.7]].forEach(([l, a]) => { c.save(); c.rotate(a); torn(c, l * 0.6, 0, l * 0.5, 24, 0); c.restore(); });
   c.restore();
   hand(c, w[0], w[1], an, 1.8);
-  arrow(c, [[590, 330], [620, 400], [650, 460]]);
+  arrow(c, [[600, 360], [620, 430], [640, 490]]);
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
-  balcony(c, true);
+  balcony(c);
+  shape(c, () => polyP(c, [[0, 0], [1080, 0], [1080, 150], [0, 150]]), "#8f93ab", 6);
+  shape(c, () => polyP(c, [[0, 150], [1080, 150], [1080, 770], [0, 770]]), "rgba(63,67,100,0.16)", 0);
   jar(c, 340, 860, 260, 400, { level: 0.55, seed: 3 }, "A", 0.2);
   jar(c, 700, 860, 260, 400, { level: 0.55, seed: 4, paper: true }, "B", 0.2);
   cloth(c, 340, 860, 260, 400); cloth(c, 700, 860, 260, 400);
 };
 // setup.e1.3
 const e1_3 = (c: Ctx) => waft(c, () => {
-  jar(c, 230, 960, 210, 340, { level: 0.5, seed: 8, pal: SLIME, liquid: 0.16, gloss: true }, "A", 0.8);
-  jar(c, 480, 960, 210, 340, { level: 0.5, seed: 9, pal: DRY, paper: true, threads: true }, "B", 0.8);
+  jar(c, 200, 960, 230, 340, { level: 0.5, seed: 8, pal: SLIME, liquid: 0.26, gloss: true }, "A", 0.8);
+  jar(c, 470, 960, 230, 340, { level: 0.5, seed: 9, pal: DRY, paper: true, threads: true }, "B", 0.8);
 });
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
@@ -197,16 +219,19 @@ const e2_1 = (c: Ctx) => {
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => waft(c, () => {
-  jar(c, 200, 960, 200, 310, { level: 0.5, seed: 6, soil: true }, "C", 0.8);
-  jar(c, 430, 960, 200, 310, { level: 0.5, seed: 6, soil: true }, "D", 0.8);
+  jar(c, 200, 960, 220, 340, { level: 0.5, seed: 6, soil: true }, "C", 0.8);
+  jar(c, 450, 960, 220, 340, { level: 0.5, seed: 6, soil: true }, "D", 0.8);
 }, () => {
   shadow(c, 835, 1050, 230, 20);
   shape(c, () => rrect(c, 610, 810, 410, 230, 8), WHITE, 5);
-  [["C", 830], ["D", 930]].forEach(([ch, y]) => {
+  [["C", 850], ["D", 950]].forEach(([ch, y]) => {
     letter(c, ch as string, 632, (y as number) + 8, 38, INK, 7);
     for (let k = 0; k < 6; k++) { const bx = 690 + k * 54; shape(c, () => rrect(c, bx, (y as number), 48, 56, 6), "#fbf7ee", 3.5); write(c, String(k), bx + 14, (y as number) + 12, 32, INK, 5); }
   });
-  line(c, [[640, 1020], [930, 1015]], 20, INK); line(c, [[640, 1020], [930, 1015]], 12, COL.yellow);
+  c.save(); c.translate(980, 1010); c.rotate(-0.12);
+  shape(c, () => polyP(c, [[-300, -8], [-250, -8], [-232, 0], [-250, 8], [-300, 8]]), COL.wood, 0);
+  line(c, [[-300, 0], [-220, 0]], 22, INK); line(c, [[-300, 0], [-235, 0]], 14, COL.yellow); line(c, [[-235, 0], [-215, 0]], 14, "#f2d9b0"); line(c, [[-220, 0], [-212, 0]], 8, INK);
+  c.restore();
 });
 
 export const su_wasteCompostAndDisposal = cards("sci.waste.compost-and-disposal.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2]);

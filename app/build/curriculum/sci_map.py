@@ -19,7 +19,7 @@ TOPICS = [
    2: "The seven life processes in simple words; plants are alive even though they seem still; sorting tricky cases.",
    3: "Life processes named (nutrition, growth, movement, reproduction, sensing, respiration, excretion); testing each on a seed, a cloud, a car.",
    4: "Why the definition is hard: fire 'eats' and 'grows', crystals grow, seeds sleep for centuries; scientists' working definitions."},
-  ["C1-1.1", "C3-3.1", "C3-3.2", "C3-3.3", "O3-4"], L(wide=["animals/animals-around-us", "plants/plant-parts"], deep=["what-is-life/edge-of-life"])),
+  ["O3-4", "C1-1.1", "C3-1.1"], L(wide=["animals/animals-around-us", "plants/plant-parts"], deep=["what-is-life/edge-of-life"])),
  ("edge-of-life", "The edge of life: viruses, seeds, fire", {
    3: "Puzzle cases: dormant seeds, tardigrades that dry out and revive, fire; is there a clear line between alive and not?",
    5: "Viruses as the great debate (alive or not?); NASA's definition of life; life that might be very different on other worlds."},
@@ -35,16 +35,16 @@ TOPICS = [
    1: "Roots, stem, leaves, flowers, fruits and seeds; what each part does for the plant.",
    2: "Comparing parts of different plants (cactus, lotus, banyan); edible parts of plants we eat.",
    3: "How each part's shape suits its job; roots that store food, stems that climb, leaves that catch light."},
-  ["C1-2.1", "C3-1.1", "N3-4"], L(wide=["plants/what-plants-need", "food/where-food-comes-from"], deep=["plants/water-transport"])),
+  ["N3-4", "C1-1.2", "C3-1.2"], L(wide=["plants/what-plants-need", "food/where-food-comes-from"], deep=["plants/water-transport"])),
  ("what-plants-need", "What plants need to live and grow", {
    1: "Plants need light and water; watching a plant in the dark and one in the light.",
    2: "Light, water, air, warmth and soil; plants turn towards light.",
    3: "Fair tests of light, water and temperature on plant growth; measuring and recording growth."},
-  ["C1-2.3", "C3-1.2", "C3-1.4"], L(pre=["plants/plant-parts"], deep=["plants/photosynthesis"], math=["measurement-basics/standard-units", "data/bar-charts"])),
+  ["C1-1.3", "C1-1.4", "C3-1.3", "C3-1.4"], L(pre=["plants/plant-parts"], deep=["plants/photosynthesis"], math=["measurement-basics/standard-units", "data/bar-charts"])),
  ("water-transport", "How water travels through a plant", {
    3: "Water goes up from roots through the stem to the leaves; the coloured-water celery experiment.",
    4: "Leaves let water out (transpiration); plants pull water up like a straw; trees lifting water many metres."},
-  ["C3-1.3"], L(pre=["plants/plant-parts"], wide=["water/water-cycle"], deep=["plants/photosynthesis"])),
+  ["C3-1.4"], L(pre=["plants/plant-parts"], wide=["water/water-cycle"], deep=["plants/photosynthesis"])),
  ("photosynthesis", "Food from light: photosynthesis", {
    3: "Green leaves make the plant's food using sunlight, air and water; a tree is built mostly from air.",
    4: "Carbon dioxide in, oxygen out; why plants and animals need each other's 'breath'.",
@@ -66,7 +66,7 @@ TOPICS = [
    1: "Seeds grow into new plants; planting and watching seeds sprout.",
    3: "What a seed needs to germinate (water, warmth, air); inside a seed: baby plant and food store.",
    5: "Germination investigations; dormancy and seeds that wait for years; seed banks."},
-  ["C1-2.2", "C5-1.4"], L(pre=["plants/what-plants-need"], deep=["seeds-and-life-cycles/plant-life-cycle"], math=["data/bar-charts", "time/duration"])),
+  ["C5-1.4"], L(pre=["plants/what-plants-need"], deep=["seeds-and-life-cycles/plant-life-cycle"], math=["data/bar-charts", "time/duration"])),
  ("plant-life-cycle", "The life cycle of a flowering plant", {
    3: "Seed → seedling → adult plant → flower → fruit → seed; plants we can watch through a cycle.",
    5: "Life cycle stages named; annuals and perennials; how long different plants live."},
@@ -89,12 +89,12 @@ TOPICS = [
  ("animal-babies", "Animal babies and growing up", {
    1: "Animals have young; baby animals and their parents; some look like their parents, some don't.",
    2: "How animals and humans grow and change; caring for young."},
-  ["C1-1.3", "C2-4.2"], L(wide=["body/growing"], deep=["animals/animal-life-cycles", "evolution/inheritance"])),
+  ["C2-4.2"], L(wide=["body/growing"], deep=["animals/animal-life-cycles", "evolution/inheritance"])),
  ("animal-life-cycles", "Animal life cycles", {
    3: "Life cycles of a frog, butterfly and hen; metamorphosis: a body that rebuilds itself.",
    4: "Comparing life cycles of mammals, birds, insects and amphibians; how long animals live.",
    5: "Strange life cycles (cicadas, salmon, the immortal jellyfish); why so many young in some species."},
-  [], L(pre=["animals/animal-babies"], wide=["seeds-and-life-cycles/plant-life-cycle"], src="dk")),
+  ["C3-4.2"], L(pre=["animals/animal-babies"], wide=["seeds-and-life-cycles/plant-life-cycle"], src="dk")),
  ("animal-bodies", "How animals move, eat and breathe", {
    2: "Legs, wings, fins and crawling; teeth and beaks for different foods.",
    3: "Breathing with lungs, gills and skin; how animals find food.",
@@ -119,7 +119,7 @@ TOPICS = [
    2: "Grouping animals by body covering, legs, food; similarities and differences.",
    3: "Sorting humans and other living things in more than one way; there is no single right way to sort.",
    4: "Vertebrates and invertebrates; mammals, birds, reptiles, amphibians and fish."},
-  ["C2-4.1", "C3-3.4", "C3-3.5"], L(pre=["animals/animals-around-us"], math=["logic/sets-and-venn"], deep=["classification/keys-and-kingdoms"])),
+  ["C2-4.1", "C3-4.2"], L(pre=["animals/animals-around-us"], math=["logic/sets-and-venn"], deep=["classification/keys-and-kingdoms"])),
  ("keys-and-kingdoms", "Keys and the kingdoms of life", {
    4: "Making and using a branching key with yes/no questions.",
    5: "The big groups of life: animals, plants, fungi, microbes; why scientists keep re-drawing the tree of life."},
@@ -128,7 +128,7 @@ TOPICS = [
 ("habitats", "Habitats and adaptation", "Life", [
  ("local-environments", "Our local environment", {
    1: "Places near home where plants and animals live: park, pond, tree, under a stone."},
-  ["C1-1.2"], L(deep=["habitats/habitats"])),
+  [], L(deep=["habitats/habitats"])),
  ("habitats", "Habitats", {
    2: "What a habitat is; plants and animals in different habitats; rocks in the environment.",
    3: "Habitats near and far: pond, forest, desert, sea; what each provides.",
@@ -158,7 +158,7 @@ TOPICS = [
    3: "Who eats whom: simple food chains starting with plants.",
    4: "Energy passes along a food chain; producers, consumers, decomposers.",
    5: "Food webs; natural balance; what happens when one link disappears."},
-  ["O3-5", "O5-7", "C4-2.4"], L(pre=["plants/photosynthesis", "animals/animals-around-us"], deep=["energy/energy-in-living-things", "ecology/cycles-and-decomposers"])),
+  ["O3-5", "O5-7", "C4-2.4", "C3-4.3"], L(pre=["plants/photosynthesis", "animals/animals-around-us"], deep=["energy/energy-in-living-things", "ecology/cycles-and-decomposers"])),
  ("cycles-and-decomposers", "Decomposers and nature's recycling", {
    3: "Worms, fungi and microbes break down dead things into soil.",
    5: "Nothing is wasted in nature: carbon and nitrogen cycles in simple words; compost."},
@@ -174,7 +174,7 @@ TOPICS = [
    2: "Inheriting characteristics from parents; features we inherit and features we learn.",
    4: "Variation within a species; genes as instructions passed on (simply).",
    5: "DNA in simple words; why siblings differ; nature and nurture."},
-  ["C1-3.1", "C1-3.2", "C2-4.3"], L(wide=["body/body-parts"], deep=["evolution/natural-selection"])),
+  ["C2-4.3", "C1-5.3"], L(wide=["body/body-parts"], deep=["evolution/natural-selection"])),
  ("story-of-life", "The story of life, from RNA to us", {
    2: "Life began in the sea long ago and slowly became many kinds; a timeline from first cells to us.",
    3: "How life began: the oldest life, the RNA idea; the open question of life's origin.",
@@ -183,9 +183,10 @@ TOPICS = [
   [], L(pre=["what-is-life/signs-of-life"], deep=["evolution/natural-selection"], math=["number-sense/big-numbers", "measurement-basics/scale-models"], src="notes")),
  ("fossils-and-extinction", "Fossils, dinosaurs and extinction", {
    2: "Fossils are traces of old life; dinosaurs and the animals that came after.",
+   3: "Fossils are the remains or traces of living things from long ago, kept in rock; what fossils tell us about the past.",
    4: "How fossils form; Mary Anning; birds as the dinosaurs that survived.",
    5: "Mass extinctions and recovery; extinction today."},
-  [], L(wide=["planet-earth/rocks"], deep=["evolution/natural-selection"], src="dk")),
+  ["C3-4.4"], L(wide=["planet-earth/rocks"], deep=["evolution/natural-selection"], src="dk")),
  ("natural-selection", "How species change: natural selection", {
    4: "Variation, survival and passing on: the peppered moth; Darwin and Wallace.",
    5: "Natural selection, adaptation and new species; cooperation in evolution (Lynn Margulis)."},
@@ -220,7 +221,7 @@ TOPICS = [
  ("body-parts", "Body parts and what they do", {
    1: "Naming body parts; what each part helps us do; our bodies are similar and different.",
    3: "External organs and their jobs; care and cleanliness of each, including private parts."},
-  ["C1-3.3", "O3-9"], L(wide=["senses/five-senses"], deep=["body/organs-inside"])),
+  ["O3-9", "C1-5.1"], L(wide=["senses/five-senses"], deep=["body/organs-inside"])),
  ("growing", "Growing and changing", {
    2: "How humans grow from baby to adult; measuring ourselves over time."},
   ["C2-4.2"], L(wide=["animals/animal-babies"], math=["length/standard-units-length"])),
@@ -236,7 +237,7 @@ TOPICS = [
    3: "Heart, lungs, stomach and brain: where they are and what they do.",
    4: "Breathing and the heartbeat; measuring pulse before and after exercise.",
    5: "The main internal organs and their jobs; body systems working together."},
-  ["O5-13"], L(pre=["body/body-parts"], deep=["body/digestion"], math=["data/line-graphs"])),
+  ["O5-13", "C3-4.1"], L(pre=["body/body-parts"], deep=["body/digestion"], math=["data/line-graphs"])),
  ("digestion", "The digestive system", {
    4: "The journey of food from mouth to stomach to intestines.",
    5: "Parts and functions of the digestive system; teeth, saliva, stomach, intestines; gut microbes."},
@@ -246,7 +247,7 @@ TOPICS = [
  ("five-senses", "Our senses", {
    1: "Seeing, hearing, smelling, tasting and touching; the sense organs.",
    3: "Hearing and touch, taste and smell, sight: how each sense works; senses working together."},
-  ["C1-3.4", "C3-4.1", "C3-4.2", "C3-4.3"], L(wide=["body/body-parts"], deep=["senses/more-senses", "light/how-we-see", "sound/hearing"])),
+  ["C1-5.2"], L(wide=["body/body-parts"], deep=["senses/more-senses", "light/how-we-see", "sound/hearing"])),
  ("more-senses", "More than five senses", {
    3: "Balance, temperature, pain, knowing where your hands are; animals with senses we lack.",
    5: "Electric, magnetic and heat senses in animals; how the brain builds one picture from many senses."},
@@ -260,7 +261,7 @@ TOPICS = [
  ("healthy-food", "Healthy food and drink", {
    1: "Food and drink keep us healthy; foods we like; drinking water.",
    2: "Foods that help us grow, give energy and protect us; treats in moderation."},
-  ["C1-1.4"], L(deep=["food/nutrients"])),
+  ["C1-5.4"], L(deep=["food/nutrients"])),
  ("where-food-comes-from", "Where food comes from", {
    1: "Food from plants and food from animals.",
    3: "Foods from many sources; traditional knowledge of healthy eating.",
@@ -269,12 +270,12 @@ TOPICS = [
  ("nutrients", "Food groups and nutrients", {
    3: "Food groups; carbohydrates, proteins, fats, vitamins, minerals and water in simple words.",
    4: "Energy-giving, body-building and protective foods; reading a food label."},
-  ["C3-2.1", "O3-8", "N4-5"], L(pre=["food/healthy-food"], deep=["food/balanced-diet", "body/digestion"], math=["fractions/fractions-of-a-whole"])),
+  ["O3-8", "N4-5"], L(pre=["food/healthy-food"], deep=["food/balanced-diet", "body/digestion"], math=["fractions/fractions-of-a-whole"])),
  ("balanced-diet", "A balanced diet", {
    3: "A healthy diet and an unhealthy diet; making a balanced plate.",
    4: "Balanced food; traditional foods; food festivals.",
    5: "Balanced diets for different people; deficiency diseases and how to prevent them; cheap nutritious foods."},
-  ["C3-2.2", "C3-2.3", "N4-5", "C5-4.2", "O5-12"], L(pre=["food/nutrients"], wide=["health/exercise-and-rest"], math=["data/pictographs", "fractions/fractions-of-a-whole"])),
+  ["N4-5", "C5-4.2", "O5-12"], L(pre=["food/nutrients"], wide=["health/exercise-and-rest"], math=["data/pictographs", "fractions/fractions-of-a-whole"])),
  ("food-safety", "Keeping food safe", {
    3: "Food safety: washing, covering, cooking; parts of food and their jobs.",
    5: "Storing food; when to take extra care with food; how microbes spoil food."},
@@ -289,7 +290,7 @@ TOPICS = [
    2: "Keeping healthy: exercise, good food, sleep and keeping clean.",
    3: "Exercise and sleep; regular exercise and yoga.",
    4: "Mindful eating, exercise and rest; a safe environment."},
-  ["C2-4.4", "C3-2.4", "N3-9", "N4-6"], L(wide=["food/balanced-diet"], deep=["body/organs-inside"], math=["time/duration"])),
+  ["C2-4.4", "N3-9", "N4-6"], L(wide=["food/balanced-diet"], deep=["body/organs-inside"], math=["time/duration"])),
  ("feelings-and-wellbeing", "Feelings and well-being", {
    1: "Naming feelings; what helps when we feel sad or angry.",
    3: "Physical and emotional well-being; kindness, respect and friendship.",
@@ -317,19 +318,19 @@ TOPICS = [
  ("me-and-others", "Me, my family and others", {
    1: "Who am I? What I like; we are all similar and different; being kind.",
    3: "Seeing from another's point of view; friendship; living together with differences."},
-  ["C1-3.1", "C1-3.2"], L(wide=["family/family"], src="dk")),
+  ["C1-5.3"], L(wide=["family/family"], src="dk")),
 ]),
 # ======================= MATTER =======================
 ("materials", "Materials and their properties", "Matter", [
  ("what-is-it-made-of", "What things are made of", {
    1: "Wood, metal, plastic, glass, fabric, paper; naming the material of everyday things.",
    3: "This world of things: where materials come from; natural and made by people."},
-  ["C1-4.1", "N3-10"], L(deep=["materials/properties"], wide=["making-things/design-and-build"])),
+  ["N3-10", "C1-3.1"], L(deep=["materials/properties"], wide=["making-things/design-and-build"])),
  ("properties", "Properties of materials", {
    1: "Hard, soft, rough, smooth, bendy, stiff, shiny, dull.",
    2: "Properties of materials; waterproof, stretchy, strong; transparent or opaque.",
    3: "Properties of materials compared and measured; sorting materials by properties."},
-  ["C2-3.2", "C3-5.1", "C3-5.2", "N3-10"], L(pre=["materials/what-is-it-made-of"], deep=["materials/testing-materials", "states/solids-liquids-gases"], math=["logic/sets-and-venn"])),
+  ["C2-3.2", "N3-10", "C1-3.2"], L(pre=["materials/what-is-it-made-of"], deep=["materials/testing-materials", "states/solids-liquids-gases"], math=["logic/sets-and-venn"])),
  ("natural-and-made", "Natural and made materials", {
    2: "Natural materials and materials made by people; how glass, plastic and paper are made from natural materials."},
   ["C2-3.1"], L(pre=["materials/what-is-it-made-of"], deep=["making-things/paper"])),
@@ -337,15 +338,15 @@ TOPICS = [
    1: "Using materials: why a spoon is metal and a raincoat is plastic.",
    2: "Using the right material for the job.",
    3: "Uses of materials linked to properties."},
-  ["C1-4.2", "C2-3.3", "C3-5.3"], L(pre=["materials/properties"], deep=["making-things/design-and-build"])),
+  ["C2-3.3"], L(pre=["materials/properties"], deep=["making-things/design-and-build"])),
  ("sorting-materials", "Sorting materials", {
    1: "Sorting materials into groups.",
    3: "Sorting materials in more than one way."},
-  ["C1-4.3", "C3-5.2"], L(math=["logic/sets-and-venn", "data/sorting-and-tallies"])),
+  ["C1-3.3"], L(math=["logic/sets-and-venn", "data/sorting-and-tallies"])),
  ("testing-materials", "Testing materials", {
    2: "Testing materials: which is the most waterproof, the strongest, the stretchiest?",
    3: "Fair tests on materials; recording results in a table."},
-  ["C2-3.4", "C3-5.4"], L(pre=["materials/properties"], wide=["how-we-know/fair-tests"], math=["data/bar-charts", "measurement-basics/standard-units"])),
+  ["C2-3.4"], L(pre=["materials/properties"], wide=["how-we-know/fair-tests"], math=["data/bar-charts", "measurement-basics/standard-units"])),
  ("magnetic-materials", "Magnetic and non-magnetic materials", {
    3: "Which materials a magnet attracts; not all metals are magnetic."},
   ["C3-5.5"], L(pre=["materials/properties"], deep=["magnets/magnets-and-materials"])),
@@ -353,9 +354,10 @@ TOPICS = [
 ("states", "Solids, liquids, gases and particles", "Matter", [
  ("solids-liquids-gases", "Solids, liquids and gases", {
    2: "Solids keep their shape, liquids flow, gases spread out; water as ice, water and steam.",
+   3: "Solids keep their shape, liquids flow and take the shape of their container, gases spread out to fill a space; sorting materials into the three.",
    4: "How solids and liquids behave; powders that pour but are solids.",
    5: "Gases have mass and fill their container; air is a gas; states compared."},
-  ["C4-3.2", "C5-3.1"], L(pre=["materials/properties"], deep=["states/particles", "states/melting-and-solidifying"])),
+  ["C4-3.2", "C5-3.1", "C3-2.1"], L(pre=["materials/properties"], deep=["states/particles", "states/melting-and-solidifying"])),
  ("particles", "Everything is made of particles", {
    3: "Tiny particles too small to see; dissolving sugar disappears but is still there.",
    4: "Materials, substances and particles; particles in solids, liquids and gases.",
@@ -375,19 +377,24 @@ TOPICS = [
  ("dissolving", "Dissolving and solutions", {
    3: "Some things dissolve in water, some don't; making lemonade.",
    5: "Solutions; soluble and insoluble; separating mixtures (filtering, evaporating)."},
-  ["C5-3.4"], L(pre=["states/particles"], math=["weight-capacity/capacity"])),
+  ["C5-3.4", "C3-2.3"], L(pre=["states/particles"], math=["weight-capacity/capacity"])),
+ ("separating-mixtures", "Mixing and separating", {
+   3: "Separating mixtures by picking out, sieving, filtering, using a magnet or letting water evaporate; getting useful materials out of rocks."},
+  ["C3-2.2", "C3-2.4", "C3-2.5"], L(pre=["states/dissolving"], wide=["water/saving-water", "planet-earth/rocks"])),
  ("floating-and-sinking", "Floating, sinking and density", {
+   1: "Some things float and some sink; testing things in a bowl of water.",
    2: "What floats and what sinks; guessing before testing.",
    4: "Floating and sinking with shape: boats of clay; patterns in how things work.",
    5: "Density in simple words: heavy for its size; why ships float; floating in salty water."},
-  ["N4-7"], L(wide=["forces/air-water-resistance"], math=["weight-capacity/weight", "data/sorting-and-tallies"])),
+  ["N4-7", "C1-6.4"], L(wide=["forces/air-water-resistance"], math=["weight-capacity/weight", "data/sorting-and-tallies"])),
 ]),
 ("changes", "Changing materials", "Matter", [
  ("reversible-and-irreversible", "Changes we can and can't undo", {
+   1: "Things change when we bend, squash, twist, stretch, heat or cool them; some changes can be undone and some can't.",
    2: "Changing materials by squashing, bending, heating and cooling.",
    4: "Reversible and irreversible changes; cooking changes food for ever.",
    5: "Burning, rusting and cooking as new materials forming."},
-  ["C2-3.5"], L(pre=["materials/properties"], deep=["changes/chemical-reactions"])),
+  ["C2-3.5", "C1-3.4"], L(pre=["materials/properties"], deep=["changes/chemical-reactions"])),
  ("chemical-reactions", "Chemical reactions", {
    4: "Chemical reactions: new substances form (vinegar and baking soda, rusting); signs of a reaction.",
    5: "Burning needs fuel, air and heat; useful and harmful reactions."},
@@ -432,19 +439,19 @@ TOPICS = [
    1: "In the playground and with toys: pushes and pulls make things move; pushes and pulls around us.",
    2: "Forces around us: every push or pull is a force.",
    3: "Push and pull in more detail; forces act in a direction; arrows to show forces."},
-  ["C1-5.1", "C1-5.2", "C1-5.3", "C2-2.1", "C3-6.1"], L(deep=["forces/changing-motion", "gravity/falling"], wide=["motion/kinds-of-motion"])),
+  ["C2-2.1", "C1-6.1", "C1-6.2", "C1-6.5", "C3-5.1"], L(deep=["forces/changing-motion", "gravity/falling"], wide=["motion/kinds-of-motion"])),
  ("changing-motion", "Forces change shape, speed and direction", {
    1: "Changing movement: start, stop, faster, slower.",
    2: "Changing shape, changing speed, changing direction.",
    3: "Changing shape with forces; squashing, stretching, twisting."},
-  ["C1-5.4", "C2-2.2", "C2-2.3", "C2-2.4", "C3-6.2"], L(pre=["forces/push-and-pull"], deep=["forces/balanced-forces"], wide=["motion/speed"])),
+  ["C2-2.2", "C2-2.3", "C2-2.4", "C1-6.3"], L(pre=["forces/push-and-pull"], deep=["forces/balanced-forces"], wide=["motion/speed"])),
  ("measuring-forces", "How big is a force? Forcemeters", {
    3: "How big is that force? Measuring forces with a forcemeter in newtons."},
-  ["C3-6.3", "C3-6.4"], L(pre=["forces/push-and-pull"], math=["measurement-basics/reading-scales", "data/bar-charts"], deep=["gravity/weight-and-mass"])),
+  ["C3-5.1"], L(pre=["forces/push-and-pull"], math=["measurement-basics/reading-scales", "data/bar-charts"], deep=["gravity/weight-and-mass"])),
  ("friction", "Friction", {
    3: "Friction slows things down; rough and smooth surfaces; testing shoes and slopes.",
    5: "Friction as a contact force; useful and unwanted friction; friction makes heat."},
-  ["C3-6.5", "C5-5.3"], L(pre=["forces/push-and-pull"], deep=["forces/air-water-resistance", "energy/heat"], math=["measurement-basics/reading-scales", "data/bar-charts"])),
+  ["C5-5.3", "C3-5.3"], L(pre=["forces/push-and-pull"], deep=["forces/air-water-resistance", "energy/heat"], math=["measurement-basics/reading-scales", "data/bar-charts"])),
  ("air-water-resistance", "Air resistance, water resistance and upthrust", {
    4: "Parachutes, boats and streamlined shapes; water pushes up (upthrust).",
    5: "Friction, air resistance, water resistance and upthrust together; designing a parachute."},
@@ -465,17 +472,17 @@ TOPICS = [
  ("how-toys-work", "How things work: toys and spinning", {
    1: "How toys work: wind-up, roll, bounce, spin.",
    4: "Hands-on with toys and paper: spinning, floating and sinking; finding patterns in how things work."},
-  ["C1-5.2", "N4-7"], L(pre=["forces/push-and-pull"], wide=["motion/kinds-of-motion"])),
+  ["N4-7", "C1-6.3"], L(pre=["forces/push-and-pull"], wide=["motion/kinds-of-motion"])),
 ]),
 ("gravity", "Gravity", "Physics", [
  ("falling", "Things fall", {
    1: "Everything falls down when we let go; dropping things.",
    3: "Gravity pulls everything towards the Earth; heavy and light things fall together (without air); Galileo's question."},
-  [], L(pre=["forces/push-and-pull"], deep=["gravity/weight-and-mass"], src="notes")),
+  ["C3-5.2"], L(pre=["forces/push-and-pull"], deep=["gravity/weight-and-mass"], src="notes")),
  ("weight-and-mass", "Weight and mass", {
    3: "Weight is the pull of gravity; measuring weight with a forcemeter.",
    5: "Mass and weight are different; weight on the Moon and other planets; gravity, normal force and applied force."},
-  ["C5-5.1"], L(pre=["gravity/falling", "forces/measuring-forces"], math=["weight-capacity/weight", "multiplication/multi-digit"], deep=["gravity/orbits"])),
+  ["C5-5.1", "C3-5.2"], L(pre=["gravity/falling", "forces/measuring-forces"], math=["weight-capacity/weight", "multiplication/multi-digit"], deep=["gravity/orbits"])),
  ("orbits", "Gravity, orbits and satellites", {
    4: "The Moon falls around the Earth; why astronauts float (they are falling, not weightless).",
    5: "Gravity and satellites; natural and artificial satellites; escape speed."},
@@ -488,7 +495,7 @@ TOPICS = [
  ("kinds-of-motion", "Kinds of motion", {
    1: "Rolling, sliding, spinning, swinging, bouncing.",
    2: "Straight, round and back-and-forth motion; things that move by themselves and things that are moved."},
-  [], L(wide=["forces/push-and-pull"], deep=["motion/swings-and-pendulums"], src="notes")),
+  ["C1-6.1"], L(wide=["forces/push-and-pull"], deep=["motion/swings-and-pendulums"], src="notes")),
  ("speed", "Fast and slow: speed", {
    2: "Faster and slower; races and who wins.",
    4: "Speed means distance in a time; timing a toy car over a measured track.",
@@ -541,6 +548,9 @@ TOPICS = [
  ("switches", "Switches", {
    4: "Switches open and close a circuit; making a switch."},
   ["C4-6.4"], L(pre=["electricity/circuits"], math=["logic/true-false"])),
+ ("simple-circuits", "Simple circuits: cells, wires, bulbs and switches", {
+   3: "Where we use electricity; mains and cells; keeping safe; a complete loop (cell, wires, bulb, switch); conductors and insulators; why a gap stops it"},
+  [], L(deep=["electricity/circuits", "electricity/conductors-and-insulators"], wide=["magnets/magnets-and-materials"], notes="phy:219,phy:225-228")),
  ("static-and-charge", "Static electricity and charge", {
    3: "Balloons that stick to walls and lift hair; lightning is a giant spark.",
    5: "Positive and negative charge; attraction and repulsion; Tesla's experiments and their legends."},
@@ -550,11 +560,11 @@ TOPICS = [
  ("magnets-and-materials", "Magnets and magnetic materials", {
    3: "Magnets attract some metals (iron, steel, nickel).",
    5: "Magnets and magnetic materials; testing which metals are magnetic."},
-  ["C3-5.5", "C5-5.5"], L(pre=["materials/magnetic-materials"], deep=["magnets/poles"])),
+  ["C5-5.5", "C3-5.4", "C3-5.5"], L(pre=["materials/magnetic-materials"], deep=["magnets/poles"])),
  ("poles", "Poles and magnetic force", {
    3: "North and south poles; attract and repel.",
    5: "Magnetic force acts without touching; strength of magnets; magnetic fields with iron filings."},
-  ["C5-5.6"], L(pre=["magnets/magnets-and-materials"], deep=["magnets/compass-and-earth"], math=["data/bar-charts"])),
+  ["C5-5.6", "C3-5.4"], L(pre=["magnets/magnets-and-materials"], deep=["magnets/compass-and-earth"], math=["data/bar-charts"])),
  ("compass-and-earth", "The Earth is a magnet: compasses", {
    4: "A compass points north; making a compass with a needle.",
    5: "Earth's magnetic field; animals that navigate by magnetism; electromagnets."},
@@ -571,13 +581,14 @@ TOPICS = [
   ["C4-5.1", "C4-5.2"], L(pre=["light/light-sources"], wide=["senses/five-senses"], deep=["light/reflection"])),
  ("shadows", "Shadows", {
    2: "Shadows form when light is blocked; shadow puppets.",
+   3: "A shadow forms when an opaque object blocks light; shadows change size and shape as the light or the object moves.",
    4: "Shadows at different times of day and why their length changes; investigating shadow lengths.",
    5: "Shadow length and the Sun's height; sundials."},
-  ["N4-10", "C4-5.6"], L(pre=["light/light-sources"], wide=["day-night-seasons/sun-appears-to-move"], math=["length/standard-units-length", "data/line-graphs", "time/telling-time"])),
+  ["N4-10", "C4-5.6", "C3-3.1", "C3-3.2"], L(pre=["light/light-sources"], wide=["day-night-seasons/sun-appears-to-move"], math=["length/standard-units-length", "data/line-graphs", "time/telling-time"])),
  ("transparent-opaque", "Transparent, translucent and opaque", {
    2: "Which materials let light through.",
    3: "Transparent, translucent and opaque materials; using them (windows, curtains, sunglasses)."},
-  [], L(pre=["light/light-sources"], wide=["materials/properties"], src="notes")),
+  ["C3-3.3", "C3-3.4"], L(pre=["light/light-sources"], wide=["materials/properties"], src="notes")),
  ("reflection", "Reflection and mirrors", {
    3: "Mirrors reflect light; mirror writing.",
    4: "Light reflects off different surfaces; shiny and dull; periscopes."},
@@ -595,16 +606,16 @@ TOPICS = [
  ("sources-of-sound", "Where sounds come from", {
    1: "Where do sounds come from? Loud and soft sounds around us.",
    3: "Sounds are made when things vibrate; feeling vibration."},
-  ["C1-6.1"], L(deep=["sound/vibration"])),
+  ["C1-2.1"], L(deep=["sound/vibration"])),
  ("hearing", "Our ears and hearing", {
    1: "Our ears; hearing near and far sounds.",
    3: "How the ear works; protecting hearing; animals that hear what we can't."},
-  ["C1-6.2"], L(wide=["senses/five-senses"])),
+  ["C1-2.2"], L(wide=["senses/five-senses"])),
  ("sound-moves", "Sound travels", {
    1: "Sounds move from the source to our ears.",
    4: "Sound travels through solids, liquids and gases; string telephones; knock on wood vs metal.",
    5: "Speed of sound; echoes; sound can't travel in space."},
-  ["C1-6.3"], L(pre=["sound/sources-of-sound"], math=["time/duration"], deep=["sound/vibration"])),
+  ["C1-2.3"], L(pre=["sound/sources-of-sound"], math=["time/duration"], deep=["sound/vibration"])),
  ("vibration", "Vibration", {
    5: "How are sounds made? Vibrations of strings, skins and air columns."},
   ["C5-2.1"], L(pre=["sound/sources-of-sound"], deep=["sound/volume-and-pitch"])),
@@ -623,7 +634,7 @@ TOPICS = [
    1: "The Sun gives light and heat; the Moon and stars at night.",
    3: "Sun, Moon and stars; stars vs planets; Sun and planets.",
    4: "Our sky: Sun, Moon and stars; sky-related festivals and practices."},
-  ["O3-6", "N4-10"], L(deep=["sky/solar-system", "sky/stars-and-galaxies"])),
+  ["O3-6", "N4-10", "C1-4.2", "C3-6.1"], L(deep=["sky/solar-system", "sky/stars-and-galaxies"])),
  ("solar-system", "The solar system", {
    3: "The Sun and eight planets; Earth is a planet.",
    4: "Planets in order; rocky and gas planets.",
@@ -632,7 +643,7 @@ TOPICS = [
  ("moon-phases", "The Moon and its phases", {
    3: "The Moon seems to change shape; keeping a Moon diary.",
    5: "Phases of the Moon explained; the Moon's light is reflected sunlight; eclipses."},
-  ["O5-11"], L(pre=["sky/sun-moon-stars"], wide=["light/light-in-space"], math=["time/calendar", "patterns/repeating-patterns"])),
+  ["O5-11", "C3-6.2", "C3-6.3"], L(pre=["sky/sun-moon-stars"], wide=["light/light-in-space"], math=["time/calendar", "patterns/repeating-patterns"])),
  ("stars-and-galaxies", "Stars and galaxies", {
    4: "Stars are suns far away; constellations and stories of the sky from many cultures.",
    5: "The Milky Way; how stars are born and die; light-years."},
@@ -666,21 +677,24 @@ TOPICS = [
 ]),
 ("planet-earth", "Planet Earth", "Earth and space", [
  ("structure-of-earth", "Inside the Earth", {
+   1: "Our planet is a huge ball of rock with land, sea and air; the Earth is round.",
    4: "The structure of the Earth: crust, mantle, core.",
    5: "Moving plates; how continents drift; how we know what's inside."},
-  ["C4-4.1"], L(deep=["planet-earth/volcanoes-and-earthquakes"])),
+  ["C4-4.1", "C1-4.1"], L(deep=["planet-earth/volcanoes-and-earthquakes"])),
  ("volcanoes-and-earthquakes", "Volcanoes and earthquakes", {
    4: "Volcanoes; earthquakes; why they happen where they do.",
    5: "Plates and the shaking Earth; living safely in earthquake zones."},
   ["C4-4.2", "C4-4.3"], L(pre=["planet-earth/structure-of-earth"], wide=["weather/natural-events"])),
  ("rocks", "Rocks", {
+   1: "Rocks are all around us, in the ground, walls and roads; feeling, scratching and sorting rocks.",
    2: "Rocks and the environment; kinds of rocks and their uses.",
    4: "How rocks form and change; fossils in rocks."},
-  ["C2-1.4"], L(wide=["evolution/fossils-and-extinction"], deep=["planet-earth/soil-and-crops"])),
+  ["C2-1.4", "C1-4.3"], L(wide=["evolution/fossils-and-extinction"], deep=["planet-earth/soil-and-crops"])),
  ("soil-and-crops", "Soil and crops", {
+   1: "Soil is made of tiny bits of rock and dead plants; plants grow in it and small animals live in it.",
    3: "Soil is made from rocks and dead things; worms in soil.",
    5: "Types of soil and crops; preparing the field, sowing, manure, irrigation, harvesting; crops by season; soil erosion and its prevention."},
-  ["O5-8", "O5-9"], L(pre=["planet-earth/rocks"], wide=["food/where-food-comes-from"], math=["data/bar-charts"])),
+  ["O5-8", "O5-9", "C1-4.4"], L(pre=["planet-earth/rocks"], wide=["food/where-food-comes-from"], math=["data/bar-charts"])),
  ("landforms", "Landforms of India and the world", {
    4: "Mountains, plains, plateaus, deserts, coasts, islands.",
    5: "States and Union Territories; India on the world map; physical features, resources, climate, crops and vegetation."},
@@ -725,7 +739,7 @@ TOPICS = [
  ("saving-water", "Saving and cleaning water", {
    3: "Saving water at home and school; filtering dirty water.",
    5: "Water conservation; rainwater harvesting; traditional stepwells and tanks."},
-  ["N3-7", "N5-1", "O3-5"], L(pre=["water/water-sources-and-uses"], math=["weight-capacity/capacity", "data/bar-charts"])),
+  ["N3-7", "N5-1", "O3-5", "C3-2.4"], L(pre=["water/water-sources-and-uses"], math=["weight-capacity/capacity", "data/bar-charts"])),
  ("water-cycle", "The water cycle", {
    3: "Water goes round and round: rain, rivers, sea, clouds.",
    5: "The water cycle: evaporation, condensation, precipitation, collection; water shaping land."},
@@ -761,7 +775,7 @@ TOPICS = [
  ("basic-needs", "Air, water, food, clothing and shelter", {
    1: "What we need to live: air, water, food, clothes, a home.",
    3: "Our basic needs: why we need them and how to take care of them; needs and wants."},
-  ["O3-7"], L(wide=["making-things/houses-and-shelter", "food/healthy-food", "water/water-sources-and-uses"])),
+  ["O3-7", "C1-5.4"], L(wide=["making-things/houses-and-shelter", "food/healthy-food", "water/water-sources-and-uses"])),
 ]),
 # ======================= NATURE OF SCIENCE AND THE DEEP END =======================
 ("how-we-know", "How we know: thinking and working scientifically", "Nature of science", [

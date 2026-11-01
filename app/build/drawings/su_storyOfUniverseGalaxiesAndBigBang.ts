@@ -45,24 +45,23 @@ const ruler = (c: Ctx, x: number, y: number, w: number, cmPx: number) => {
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
-  balloon(c, 500, 450, 330, 300);
-  thread(c, [330, 470], [570, 420], 8);
-  bindi(c, 330, 470, 17, true); bindi(c, 450, 445, 17); bindi(c, 570, 420, 17);
-  bindi(c, 640, 600, 17); bindi(c, 380, 640, 17); bindi(c, 560, 270, 17);
-  hand(c, 890, 345, Math.PI * 0.97, 1.15, SKIN.adult, CLOTH.adult, true);
-  bindi(c, 760, 355, 17);
+  balloon(c, 480, 450, 330, 300);
+  bindi(c, 330, 470, 17, true); bindi(c, 450, 445, 17); bindi(c, 570, 420, 17); bindi(c, 690, 395, 17);
+  bindi(c, 380, 640, 17);
+  bindi(c, 720, 560, 17);
+  hand(c, 850, 560, Math.PI, 1.3, SKIN.child, CLOTH.child, true);
 };
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  balloon(c, 450, 290, 270, 230);
-  thread(c, [320, 290], [580, 250], 14);
-  bindi(c, 320, 290, 17, true); bindi(c, 580, 250, 17);
-  bindi(c, 540, 400, 17); bindi(c, 380, 150, 17);
+  balloon(c, 480, 220, 230, 165);
+  thread(c, [350, 240], [570, 205], 14);
+  bindi(c, 350, 240, 17, true); bindi(c, 570, 205, 17);
+  bindi(c, 500, 310, 17); bindi(c, 420, 120, 17);
   ruler(c, 120, 720, 840, 80);
-  line(c, [[165, 718], [565, 718]], 14, INK); line(c, [[165, 718], [565, 718]], 6, COL.yellow);
-  shape(c, () => ell(c, 165, 718, 11, 11), RED, 4);
-  hand(c, 675, 705, Math.PI, 1.1, SKIN.adult, CLOTH.adult, true);
+  line(c, [[165, 692], [405, 692]], 16, INK); line(c, [[165, 692], [405, 692]], 8, COL.yellow);
+  hand(c, 165, 587, Math.PI / 2, 1.5, SKIN.child, CLOTH.child);
+  hand(c, 405, 587, Math.PI / 2, 1.5, SKIN.child, CLOTH.child);
 };
 // setup.e1.2
 const dots = (c: Ctx, a: number[], b: number[]) => {
@@ -93,11 +92,13 @@ const e1_2 = (c: Ctx) => {
   rel.forEach((r, i) => { const p = pos(0.9, r); bindi(c, p[0], p[1], 17, i === 0); });
   person(c, 150, 1030, 780, { adult: true });
   shape(c, () => ell(c, 185, 392, 16, 14), "#5a2b2b", 4);
+  shape(c, () => ell(c, 150, 380, 34, 7), CLOTH.hair, 4);
 };
 // setup.e1.3
 const e1_3 = (c: Ctx) => {
   ground(c);
   balloon(c, 300, 420, 270, 250);
+  for (let i = 0; i < 40; i++) { const t = (i / 40) * Math.PI * 2; line(c, [[300 + Math.cos(t) * 150, 420 + Math.sin(t) * 137], [300 + Math.cos(t + 0.09) * 150, 420 + Math.sin(t + 0.09) * 137]], 5, COL.greyDk); }
   thread(c, [180, 420], [420, 380], 12);
   bindi(c, 180, 420, 17, true); bindi(c, 420, 380, 17); bindi(c, 330, 560, 17); bindi(c, 250, 250, 17);
   // the table: before (small balloon) and after (big balloon), three gaps
@@ -147,9 +148,10 @@ const paperPlate = (c: Ctx, x: number, y: number, R: number, k: number) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  paperPlate(c, 540, 540, 420, 1);
-  const r = [[-330, -110], [-250, 220], [180, -300], [300, 140], [-90, 330], [120, 300]];
-  r.forEach(([dx, dy]) => shape(c, () => ell(c, 540 + dx * 0.78, 540 + dy * 0.78, 9, 9), COL.yellow, 3));
+  paperPlate(c, 500, 580, 380, 0.78);
+  line(c, [[649, 386], [835, 238]], 24, INK); line(c, [[649, 386], [835, 238]], 12, COL.teal);
+  shape(c, () => ell(c, 649, 386, 8, 8), INK, 0);
+  hand(c, 835, 238, 2.47, 1.2, SKIN.child, CLOTH.child);
 };
 // the eye that looks, and a red arrow along the way it looks
 const eye = (c: Ctx, x: number, y: number) => {

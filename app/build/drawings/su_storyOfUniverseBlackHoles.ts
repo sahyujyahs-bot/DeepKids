@@ -66,44 +66,44 @@ const card2 = (c: Ctx) => {
   c.fillStyle = "#d9c3a0"; c.fillRect(0, 900, D, D - 900); line(c, [[0, 900], [D, 900]], 6);
   // table with the box on it
   shadow(c, 830, 975, 260, 22);
-  shape(c, () => rrect(c, 590, 778, 440, 40, 8), TABLE);
-  shape(c, () => rrect(c, 615, 818, 30, 150, 6), TABLEDK); shape(c, () => rrect(c, 975, 818, 30, 150, 6), TABLEDK);
-  box(c, 810, 604, 380, 130, 20, 90, { strip: true, hole: 14 });
+  shape(c, () => rrect(c, 560, 775, 480, 40, 8), TABLE);
+  shape(c, () => rrect(c, 585, 815, 30, 150, 6), TABLEDK); shape(c, () => rrect(c, 985, 815, 30, 150, 6), TABLEDK);
+  box(c, 800, 590, 440, 150, 20, 90, { strip: true, hole: 30 });
   // the child, one step away, pointing at the box
   person(c, 230, 960, 620, { armR: [-0.12, 0.02], armL: [Math.PI * 0.55, Math.PI * 0.5] });
-  arrow(c, [[300, 1030], [530, 1030]]);
 };
 
 // setup.e1.3
 const card3 = (c: Ctx) => {
-  room(c, 470);
-  // the lid on its own with the bigger round hole and a bottle cap beside it
-  const cx = 250, cy = 640, w = 440, h = 240, t = 30;
+  room(c, 90);
+  // the lid on its own, up on the table, with the bigger round hole; a bottle cap stands beside it
+  const cx = 360, cy = 300, w = 560, h = 250, t = 30;
   const pt = (u: number, v: number): [number, number] => [cx + u * (w / 2 - 0.1 * w * (1 - v)), cy - h / 2 + v * h];
-  shadow(c, cx + 20, cy + h / 2 + t + 4, w * 0.58, 20);
+  shadow(c, cx + 20, cy + h / 2 + t + 8, w * 0.58, 20);
   shape(c, () => rrect(c, cx - w / 2 - 6, cy + h / 2, w + 12, t, 5), COL.woodDk);
   shape(c, () => polyP(c, [pt(-1, 0), pt(1, 0), pt(1, 1), pt(-1, 1)]), PAPER);
   shade(c, () => polyP(c, [pt(-1, 0), pt(1, 0), pt(1, 1), pt(-1, 1)]), PAPERDK, w * 0.4, h * 0.2, 0.7);
-  shape(c, () => polyP(c, [pt(-0.78, 0.1), pt(-0.55, 0.1), pt(-0.55, 0.9), pt(-0.78, 0.9)]), WHITE, 5);
-  const [hx, hy] = pt(-0.05, 0.5);
-  shape(c, () => ell(c, hx, hy, 52, 28), HOLE, 6);
-  // the bottle cap, the same width as the hole
-  const [kx, ky] = pt(0.62, 0.5);
-  shape(c, () => ell(c, kx, ky + 14, 52, 28), COL.red, 5);
-  shape(c, () => ell(c, kx, ky, 52, 28), COL.orange, 5);
-  shape(c, () => ell(c, kx, ky, 38, 19), COL.yellow, 3);
-  // the open box, lined with black cloth
-  const bx = 800, bw = 440, bh = 240, top = 340, rimY = top + bh;
-  shadow(c, bx + 24, 905, 270, 22);
-  shape(c, () => rrect(c, bx - bw / 2, rimY - 4, bw, 900 - rimY + 4, 6), COL.brown);
-  shade(c, () => rrect(c, bx - bw / 2, rimY - 4, bw, 900 - rimY + 4, 6), COL.soilDk, bw * 0.3, 0, 0.35);
+  shape(c, () => polyP(c, [pt(0.5, 0.1), pt(0.78, 0.1), pt(0.78, 0.9), pt(0.5, 0.9)]), WHITE, 5);
+  const [hx, hy] = pt(-0.2, 0.5);
+  shape(c, () => ell(c, hx, hy, 82, 44), HOLE, 6);
+  // a bottle cap standing on its rim next to the lid, the same width as the hole
+  const kx = 900, ky = 470;
+  shadow(c, kx + 14, ky + 6, 90, 14);
+  const cap = () => { c.moveTo(kx - 82, ky); c.lineTo(kx - 70, ky - 60); c.lineTo(kx + 70, ky - 60); c.lineTo(kx + 82, ky); c.closePath(); };
+  shape(c, cap, COL.red, 6);
+  shade(c, cap, "#a8321f", 36, 0, 0.5);
+  for (let k = -3; k <= 3; k++) line(c, [[kx + k * 22, ky - 6], [kx + k * 20, ky - 54]], 4);
+  shape(c, () => ell(c, kx, ky - 60, 70, 16), COL.orange, 5);
+  // the open box below, lined with black cloth
+  const bx = 540, bw = 640, bh = 260, top = 560, rimY = top + bh;
+  shadow(c, bx + 24, 975, 340, 22);
+  shape(c, () => rrect(c, bx - bw / 2, rimY - 4, bw, 960 - rimY + 4, 6), COL.brown);
+  shade(c, () => rrect(c, bx - bw / 2, rimY - 4, bw, 960 - rimY + 4, 6), COL.soilDk, bw * 0.3, 0, 0.35);
   const bp = (u: number, v: number): [number, number] => [bx + u * (bw / 2 - 0.1 * bw * (1 - v)), top + v * bh];
   shape(c, () => polyP(c, [bp(-1, 0), bp(1, 0), bp(1, 1), bp(-1, 1)]), COL.wood);
-  shape(c, () => polyP(c, [bp(-0.88, 0.08), bp(0.88, 0.08), bp(0.88, 0.92), bp(-0.88, 0.92)]), PAPERDK);
-  shape(c, () => polyP(c, [bp(-0.88, 0.08), bp(0.88, 0.08), bp(0.88, 0.3), bp(-0.88, 0.3)]), "#17141f", 0);
-  for (const [u1, u2] of [[-0.5, -0.3], [0.1, 0.25], [0.5, 0.62]]) line(c, [bp(u1, 0.35), bp(u2, 0.88)], 5, "#4a4558");
-  // black cloth hanging over the front rim
-  shape(c, () => { const a = bp(-0.88, 0.92), b = bp(0.88, 0.92); c.moveTo(a[0], a[1]); c.lineTo(b[0], b[1]); c.lineTo(b[0] - 14, b[1] + 46); c.quadraticCurveTo(bx, b[1] + 20, a[0] + 14, a[1] + 46); c.closePath(); }, PAPER, 5);
+  shape(c, () => polyP(c, [bp(-0.9, 0.08), bp(0.9, 0.08), bp(0.9, 0.92), bp(-0.9, 0.92)]), HOLE);
+  for (const [u1, u2] of [[-0.55, -0.35], [0.1, 0.25], [0.5, 0.62]]) line(c, [bp(u1, 0.3), bp(u2, 0.85)], 5, "#4a4558");
+  shape(c, () => { const a = bp(-0.9, 0.92), b = bp(0.9, 0.92); c.moveTo(a[0], a[1]); c.lineTo(b[0], b[1]); c.lineTo(b[0] - 14, b[1] + 40); c.quadraticCurveTo(bx, b[1] + 18, a[0] + 14, a[1] + 40); c.closePath(); }, PAPER, 5);
 };
 
 export const su_storyOfUniverseBlackHoles = cards("sci.story-of-universe.black-holes.L3 set-up", [card0, card1, card2, card3]);

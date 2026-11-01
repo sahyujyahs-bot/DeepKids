@@ -1,4 +1,12 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/expl.1.jpg",
+  "credit": "U.S. Department of Energy Human Genome Program, Public domain, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/intro.jpg",
+  "credit": "National Human Genome Research Institute, Public domain, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.genetics.dna-and-rna.L3/setup.e1.0.jpg",
   "drawn": true
@@ -22,5 +30,9 @@
  "setup.e2.2": {
   "src": "media/img/sci.genetics.dna-and-rna.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/term.0.jpg",
+  "credit": "Unknown, Public domain, via Wikimedia Commons"
  }
 }

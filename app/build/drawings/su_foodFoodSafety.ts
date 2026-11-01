@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { COL, INK, RED, WHITE, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, hand, person, bowl, leaf, write, rnd, cards } from "./flatKit";
+import { D, COL, INK, RED, WHITE, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, hand, person, bowl, leaf, write, rnd, cards } from "./flatKit";
 
 // sci.food.food-safety.L3 · set-up cards. Same three steel dabbas (A, B, C), same dark steel plate with yellow turmeric,
 // same cucumber slice and biscuit on every card of an experiment.
@@ -59,9 +59,15 @@ const cuke = (c: Ctx, x: number, y: number, r: number, yellow = 0) => {
   for (let i = 0; i < 9; i++) { const an = (i / 9) * 6.283; shape(c, () => ell(c, x + Math.cos(an) * r * 0.33, y + Math.sin(an) * r * 0.33, r * 0.07, r * 0.045, an), "#f4f1e4", 0); }
   shade(c, () => ell(c, x, y, r, r), "#2f6a2a", r * 0.3, r * 0.2, 0.35);
   if (yellow > 0) {
-    c.save(); c.beginPath(); ell(c, x, y, r * 0.98, r * 0.98); c.clip(); c.globalAlpha = yellow; c.beginPath(); ell(c, x, y, r * 0.98, r * 0.98); c.fillStyle = TURM; c.fill(); c.globalAlpha = 1;
-    for (let i = 0; i < 26; i++) { c.beginPath(); ell(c, x + (rd() - 0.5) * r * 1.8, y + (rd() - 0.5) * r * 1.8, 5 + rd() * 5, 4 + rd() * 4); c.fillStyle = TURMDK; c.fill(); }
-    c.restore(); c.beginPath(); ell(c, x, y, r, r); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
+    // powder lies over most of the pale flesh; the green skin ring and a few seeds still show, so it stays a cucumber
+    c.save(); c.beginPath(); ell(c, x, y, r * 0.86, r * 0.86); c.clip();
+    c.globalAlpha = yellow; c.beginPath(); ell(c, x + r * 0.12, y + r * 0.14, r * 0.78, r * 0.72); c.fillStyle = TURM; c.fill(); c.globalAlpha = 1;
+    c.beginPath(); ell(c, x + r * 0.3, y + r * 0.3, r * 0.7, r * 0.6); c.fillStyle = TURMDK; c.globalAlpha = 0.35; c.fill(); c.globalAlpha = 1;
+    const rd = rnd(5);
+    for (let i = 0; i < 26; i++) { c.beginPath(); ell(c, x + (rd() - 0.3) * r * 1.5, y + (rd() - 0.3) * r * 1.5, 5 + rd() * 5, 4 + rd() * 4); c.fillStyle = TURMDK; c.fill(); }
+    c.restore();
+    c.beginPath(); ell(c, x, y, r * 0.86, r * 0.86); c.lineWidth = 4; c.strokeStyle = INK; c.stroke();
+    c.beginPath(); ell(c, x, y, r, r); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
   }
 };
 // a round biscuit seen from above: tan, rim, a ring of holes; yellow = a few specks only
@@ -153,39 +159,50 @@ const e1_2 = (c: Ctx) => {
 // setup.e1.3
 const e1_3 = (c: Ctx) => {
   ground(c);
-  // the kitchen shelf
-  shape(c, () => rrect(c, -20, 900, 740, 220, 8), COL.wood);
-  shape(c, () => rrect(c, -20, 900, 740, 40, 8), COL.woodDk, 6);
-  const wc = "#b9dcf4";
-  [110, 340, 570].forEach((x, i) => dabba(c, x, 900, 210, 240, "ABC"[i], wc));
-  leaf(c, 570 - 50, 678, 70, -0.35, COL.leaf); leaf(c, 570 + 5, 681, 70, 0.25, COL.leaf);
-  // the smell drifts up from dabba C to her nose
-  for (const k of [0, 1]) { const p = Array.from({ length: 24 }, (_, i) => { const t = i / 23; return [575 + t * 215 + Math.sin(t * 9 + k * 2) * 16, 640 - Math.sin(t * Math.PI * 0.5) * 215 - t * 20 + k * 22]; }); line(c, p, 10, "#7fc3b0"); }
-  // the child waves it towards herself
-  const H = 760, PX = 910, PY = 1040;
-  person(c, PX, PY, H, { armL: [2.4, 3.9] });
-  const sx = PX - H * 0.11, sy = PY - H * 0.74 + H * 0.03;
-  const ex = sx + Math.cos(2.4) * H * 0.17, ey = sy + Math.sin(2.4) * H * 0.17, wx = ex + Math.cos(3.9) * H * 0.16, wy = ey + Math.sin(3.9) * H * 0.16;
-  hand(c, wx + 10, wy + 10, 3.3, 1.35, SKIN.child, CLOTH.child, true);
-  arrow(c, [[470, 560], [500, 480], [560, 420]], RED, 10);
+  // dabba C, open, the leaves floating; the smell rises and drifts to the child's nose while a hand wafts it
+  dabba(c, 330, 990, 400, 420, "C", "#b9dcf4");
+  const top = 990 - 420;
+  leaf(c, 270, top + 6, 120, -0.35, COL.leaf); leaf(c, 360, top + 8, 120, 0.25, COL.leaf);
+  for (const k of [0, 1]) {
+    const p = Array.from({ length: 28 }, (_, i) => { const t = i / 27; return [330 + t * 400 + Math.sin(t * 10 + k * 2) * 16, top - 40 - Math.sin(t * Math.PI) * 130 + t * 130 + k * 26]; });
+    line(c, p, 12, "#7fc3b0");
+  }
+  // an open hand coming in from the top fans the smell towards the nose
+  hand(c, 600, 130, 1.0, 2, SKIN.child, CLOTH.child, true);
+  arrow(c, [[500, 330], [610, 380], [700, 470]], RED, 12);
+  // the child's head, side on, nose towards the dabba
+  shape(c, () => rrect(c, 700, 830, 340, 300, 50), CLOTH.child);
+  shade(c, () => rrect(c, 700, 830, 340, 300, 50), CLOTH.childDk, 60, 0);
+  shape(c, () => ell(c, 870, 650, 150, 160), SKIN.child);
+  shape(c, () => ell(c, 900, 565, 150, 100), CLOTH.hair, 5);
+  shape(c, () => ell(c, 732, 705, 34, 40), SKIN.child);
+  shape(c, () => ell(c, 935, 690, 24, 38), SKIN.childDk, 4);
+  shape(c, () => ell(c, 800, 685, 11, 15), INK, 0);
+  c.beginPath(); c.arc(815, 745, 34, 0.3, 1.6); c.strokeStyle = INK; c.lineWidth = 5; c.stroke();
 };
 
 // ---------------------------------------------------------------- experiment 2: washing coriander
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  bowl(c, 470, 690, 380, "#a98a5f");
-  // the bunch: leaves at the top, stems gathered in the hand, muddy roots in the water
-  const bx = 640;
+  bowl(c, 470, 690, 380, "#7fb6dd");
+  // the bunch: leaves at the top, stems gathered in the hand, muddy roots dipping into the water
+  const bx = 470;
   for (let k = -3; k <= 3; k++) {
     const tx = bx + k * 60, ty = 190 + Math.abs(k) * 26;
     line(c, [[bx + k * 5, 600], [bx + k * 4, 420], [tx, ty + 30]], 18, INK); line(c, [[bx + k * 5, 600], [bx + k * 4, 420], [tx, ty + 30]], 9, COL.green);
     corLeaf(c, tx, ty + 30, 100, k * 0.2);
   }
   for (let k = -3; k <= 3; k++) { const p = [[bx + k * 3, 600], [bx + k * 14, 670], [bx + k * 20, 740]]; line(c, p, 11, INK); line(c, p, 5, "#8a5a3c"); }
-  for (const [mx, my] of [[300, 715], [380, 745], [780, 735], [850, 700]]) shape(c, () => ell(c, mx, my, 30, 10), "#7d6040", 0);
-  hand(c, 750, 450, Math.PI, 1.6, SKIN.adult, CLOTH.adult);
-  arrow(c, [[450, 705], [520, 735], [610, 738]], RED, 10);
+  // the water over the roots, with brown mud clouds and ripples
+  c.save(); c.beginPath(); ell(c, 470, 690, 372, 70); c.clip();
+  c.globalAlpha = 0.5; c.fillStyle = COL.waterDk; c.fillRect(0, 672, D, 200); c.globalAlpha = 1;
+  for (const [mx, my, mr] of [[430, 725, 60], [520, 735, 70], [470, 705, 50]]) { c.beginPath(); ell(c, mx, my, mr, mr * 0.28); c.fillStyle = "rgba(138,90,60,0.55)"; c.fill(); }
+  c.restore();
+  for (const [rx, ry] of [[90, 20], [170, 34], [250, 46]]) { c.beginPath(); ell(c, 470, 700, rx, ry); c.strokeStyle = WHITE; c.lineWidth = 5; c.stroke(); }
+  // swish round the roots
+  arrow(c, Array.from({ length: 12 }, (_, i) => { const a = 0.15 * Math.PI + (i / 11) * 0.7 * Math.PI; return [470 + Math.cos(a) * 300, 705 + Math.sin(a) * 52]; }), RED, 12);
+  hand(c, 580, 450, Math.PI, 1.6, SKIN.adult, CLOTH.adult);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {

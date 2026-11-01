@@ -148,7 +148,7 @@ SUBS = {
    2: "Five big groups of animals with backbones and how to tell them apart.",
    3: "How each group breathes, keeps warm or cool, and has young.",
    5: "Surprises: mammals that lay eggs, fish that breathe air, birds that are dinosaurs; what the groups tell us about evolution."},
-  [], L(pre=["animals/animals-around-us"], wide=["classification/sorting-living-things"], src="notes", notes="bio:28-31,bio:178")),
+  ["C3-4.2"], L(pre=["animals/animals-around-us"], wide=["classification/sorting-living-things"], src="notes", notes="bio:28-31,bio:178")),
  ("invertebrates", "Animals without backbones", {
    3: "Worms, snails, crabs, spiders, insects, starfish and jellyfish: most animals have no backbone.",
    5: "Sponges, cnidarians, molluscs, arthropods, echinoderms; the octopus's three hearts and clever arms."},

@@ -197,10 +197,16 @@ const e3_1 = (c: Ctx) => {
     return [x, y];
   };
   // tape roll: tan ring with an empty middle; battery (further down): longer, with the nub
-  roll(-120, 85, 80, COL.yellow, COL.orange, () => { shape(c, () => ell(c, -120, -103, 40, 40), "#efe4cf", 6); shape(c, () => ell(c, -120, -103, 48, 48), NONE, 3); });
-  roll(170, 50, 190, COL.red, "#b8301f", () => { shape(c, () => ell(c, 170, -68, 50, 50), COL.steel, 6); shape(c, () => ell(c, 170, -68, 17, 17), COL.steelDk, 5); });
-  // speed lines behind each, and the arrow down the slope
-  [[-300, -100], [-290, -60], [40, -80], [50, -45]].forEach(([x, y]) => line(c, [[x, y], [x + 70, y]], 6, COL.grey));
+  // finish line at the low end: a dark band across the tray
+  shape(c, () => polyP(c, [[350, 0], [405, 0], [475, -130], [420, -130]]), INK, 0);
+  shape(c, () => polyP(c, [[372, -28], [405, -28], [412, -42], [379, -42]]), WHITE, 0);
+  shape(c, () => polyP(c, [[394, -70], [427, -70], [434, -84], [401, -84]]), WHITE, 0);
+  // tape roll: tan ring with an empty middle, still high up the slope; battery (the same start, now far ahead): longer, with the nub
+  roll(-170, 90, 80, COL.yellow, COL.orange, () => { shape(c, () => ell(c, -170, -108, 42, 42), "#efe4cf", 6); shape(c, () => ell(c, -170, -108, 50, 50), NONE, 3); });
+  roll(215, 52, 170, COL.red, "#b8301f", () => { shape(c, () => ell(c, 215, -70, 52, 52), COL.steel, 6); shape(c, () => ell(c, 215, -70, 17, 17), COL.steelDk, 5); });
+  // speed lines behind each, long behind the battery, and the arrow down the slope
+  [[-360, -120], [-350, -80]].forEach(([x, y]) => line(c, [[x, y], [x + 70, y]], 6, COL.grey));
+  [[-60, -100], [-30, -60], [0, -20]].forEach(([x, y]) => line(c, [[x, y], [x + 110, y]], 6, COL.grey));
   arrow(c, [[-200, -300], [240, -300]]);
   c.restore();
 };

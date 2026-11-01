@@ -1,6 +1,6 @@
 import type { Ctx } from "./core";
 import {
-  INK, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, rrect, polyP, shadow, shade, line, arrow, plate, hand, person, write, cards,
+  INK, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, rrect, polyP, shadow, shade, line, arrow, plate, bowl, hand, person, write, cards,
 } from "./flatKit";
 
 // sci.india.national-identity.L3 · set-up cards: atta paw print test, anthem clock.
@@ -38,40 +38,44 @@ const ruler = (c: Ctx, x: number, y: number, w: number, h: number, x0: number, p
   }
 };
 
-// setup.e1.0
+// setup.e1.0  key: first set-up card (dry plate, damp plate with water poured in)
 const e1_0 = (c: Ctx) => {
   ground(c);
-  attaPlate(c, 270, 690, 250, 210, false);
-  attaPlate(c, 810, 690, 250, 210, true);
-  // ruler resting across the dry atta
-  shadow(c, 290, 700, 255, 26);
-  ruler(c, 20, 575, 520, 70, 50, 50, 9);
-  drop(c, 810, 330, 90);
-  drop(c, 925, 420, 44);
-  drop(c, 695, 420, 44);
+  attaPlate(c, 270, 740, 250, 210, false);
+  attaPlate(c, 810, 740, 250, 210, true);
+  // a steel katori tipped over the damp plate, water running out in drops
+  c.save(); c.translate(790, 250); c.rotate(0.75); bowl(c, 0, 0, 110, COL.water); c.restore();
+  drop(c, 905, 400, 70);
+  drop(c, 925, 520, 56);
+  drop(c, 940, 625, 44);
+  arrow(c, [[690, 300], [740, 400]], RED, 12);
 };
 
-// setup.e1.1
+// setup.e1.1  key: second set-up card (the fist, backs of four bent fingers pressing down)
 const e1_1 = (c: Ctx) => {
   ground(c);
-  attaPlate(c, 540, 820, 470, 190, false);
+  attaPlate(c, 540, 850, 470, 190, false);
+  // a finished print of four dents at the front-left, to show what the fist leaves
+  [150, 215, 280, 345].forEach((x, i) => shape(c, () => ell(c, x, 905 - i * 4, 28, 17), DENT, 4));
   const xs = [432, 504, 576, 648];
-  xs.forEach((x) => shape(c, () => ell(c, x, 812, 40, 24), DENT, 4));
-  shadow(c, 570, 830, 190, 36);
+  shadow(c, 560, 790, 200, 30);
   // sleeve and the back of the hand
-  shape(c, () => rrect(c, 410, -40, 260, 380, 20), CLOTH.child, 6);
-  shade(c, () => rrect(c, 410, -40, 260, 380, 20), CLOTH.childDk, 60, 0, 0.55);
-  const back = () => rrect(c, 395, 300, 290, 270, 60);
+  shape(c, () => rrect(c, 410, -40, 260, 360, 20), CLOTH.child, 6);
+  shade(c, () => rrect(c, 410, -40, 260, 360, 20), CLOTH.childDk, 60, 0, 0.55);
+  const back = () => rrect(c, 395, 290, 290, 290, 70);
   shape(c, back, SKIN.child, 6);
   shade(c, back, SKIN.childDk, 40, 20, 0.55);
-  // four finger backs rolled down, pressing in
-  xs.forEach((x, i) => {
-    const f = () => rrect(c, x - 35, 520, 70, 292 - (i === 0 || i === 3 ? 12 : 0), 34);
+  // four bent fingers: short rounded backs side by side, a bend crease on each, resting on the atta
+  xs.forEach((x) => {
+    const f = () => rrect(c, x - 36, 520, 72, 215, 34);
     shape(c, f, SKIN.child, 6);
     shade(c, f, SKIN.childDk, 12, 0, 0.55);
+    line(c, [[x - 20, 585], [x + 20, 585]], 5, SKIN.childDk);
   });
   shape(c, () => ell(c, 690, 520, 34, 80, 0.5), SKIN.child, 6);
-  arrow(c, [[250, 280], [250, 640]], RED, 14);
+  // atta rim in front of the pressed knuckles
+  shape(c, () => ell(c, 540, 745, 215, 30), DENT, 5);
+  arrow(c, [[250, 240], [250, 600]], RED, 14);
 };
 
 // setup.e1.2
@@ -131,17 +135,21 @@ const e2_0 = (c: Ctx) => {
   note(c, 120, 330, 40, COL.purple); note(c, 330, 180, 46, COL.pink);
 };
 
-// setup.e2.1
+// setup.e2.1  key: fifth set-up card (family behind a table, phone stopwatch standing on it)
 const e2_1 = (c: Ctx) => {
   ground(c);
-  const base = 720, ppl: [number, number, boolean][] = [[150, 560, true], [370, 430, false], [730, 560, true], [920, 430, false]];
+  const base = 830, ppl: [number, number, boolean][] = [[150, 600, true], [370, 470, false], [730, 600, true], [920, 470, false]];
   ppl.forEach(([x, h, ad]) => { person(c, x, base, h, { adult: ad, armL: [Math.PI * 0.55, Math.PI * 0.5], armR: [Math.PI * 0.45, Math.PI * 0.5] }); sing(c, x, base, h); });
-  note(c, 270, 230, 38, COL.purple); note(c, 540, 170, 44, COL.pink); note(c, 830, 230, 38, COL.teal);
-  // the table in front, with the phone standing on it
-  shape(c, () => polyP(c, [[0, 700], [1080, 700], [1080, 930], [0, 930]]), COL.wood, 6);
-  shape(c, () => polyP(c, [[0, 930], [1080, 930], [1080, 1090], [0, 1090]]), COL.woodDk, 6);
-  shadow(c, 570, 905, 130, 20);
-  phone(c, 550, 740, 200, 340, "0 53");
+  note(c, 270, 150, 38, COL.purple); note(c, 540, 110, 44, COL.pink); note(c, 830, 150, 38, COL.teal);
+  // a table in front of them: top surface, front edge, two legs
+  shape(c, () => polyP(c, [[20, 720], [1060, 720], [1100, 800], [-20, 800]]), COL.wood, 6);
+  shape(c, () => rrect(c, -20, 800, 1120, 70, 4), COL.woodDk, 6);
+  shape(c, () => rrect(c, 70, 870, 80, 230, 4), COL.woodDk, 6);
+  shape(c, () => rrect(c, 930, 870, 80, 230, 4), COL.woodDk, 6);
+  // the phone stands upright on the table top, on a small foot
+  shadow(c, 560, 790, 120, 18);
+  shape(c, () => polyP(c, [[480, 790], [600, 790], [585, 765], [495, 765]]), COL.black, 5);
+  phone(c, 540, 615, 170, 300, "0 53");
 };
 
 export const su_indiaNationalIdentity = cards("sci.india.national-identity.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1]);

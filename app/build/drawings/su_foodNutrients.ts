@@ -10,10 +10,17 @@ const drop = (c: Ctx, x: number, y: number, s: number, col: string) =>
 const sparkle = (c: Ctx, x: number, y: number, r: number, col: string = WHITE) =>
   shape(c, () => { c.moveTo(x, y - r); c.quadraticCurveTo(x, y, x + r, y); c.quadraticCurveTo(x, y, x, y + r); c.quadraticCurveTo(x, y, x - r, y); c.quadraticCurveTo(x, y, x, y - r); c.closePath(); }, col, 3);
 
+// a soft lump of curd: cream, a few small holes
+const curd = (c: Ctx, x: number, y: number, r: number, seed: number) => {
+  shape(c, () => blob(c, x, y, r, seed), "#f6efd8", 4);
+  const q = rnd(seed + 9);
+  for (let k = 0; k < 3; k++) { c.beginPath(); c.arc(x + (q() - 0.5) * r * 1.0, y + (q() - 0.5) * r * 0.8, Math.max(2.5, r * 0.07), 0, 7); c.fillStyle = "#d8caa4"; c.fill(); }
+};
+
 // a steel tumbler seen from a little above: the top is a wide ellipse so the liquid inside shows
-const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, liquid: string | null = null) => {
+const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, liquid: string | null = null, shad = true) => {
   const top = w / 2, bot = w * 0.4, ry = w * 0.2;
-  shadow(c, x + w * 0.14, y + 8, w * 0.62, w * 0.12);
+  if (shad) shadow(c, x + w * 0.14, y + 8, w * 0.62, w * 0.12);
   const body = () => { c.moveTo(x - top, y - h); c.lineTo(x + top, y - h); c.lineTo(x + bot, y); c.quadraticCurveTo(x, y + ry * 0.9, x - bot, y); c.closePath(); };
   shape(c, body, COL.steel);
   shade(c, body, COL.steelDk, -w * 0.3, 0, 0.6);
@@ -52,9 +59,14 @@ const icon = (c: Ctx, kind: string, x: number, y: number, s: number) => {
     shape(c, () => rrect(c, x - 36 * s, y - 28 * s, 60 * s, 18 * s, 6), COL.steel, 5); shape(c, () => rrect(c, x + 10 * s, y - 28 * s, 16 * s, 40 * s, 5), COL.steel, 5);
     shape(c, () => rrect(c, x - 18 * s, y - 42 * s, 24 * s, 16 * s, 4), COL.red, 4); drop(c, x + 18 * s, y + 26 * s, 8 * s, COL.water);
   } else if (kind === "coconut") {
-    shape(c, () => { c.arc(x, y - 6 * s, 36 * s, 0, Math.PI); c.closePath(); }, "#7a4a2a", 5); shape(c, () => ell(c, x, y - 6 * s, 36 * s, 11 * s), WHITE, 5);
+    line(c, [[x + 6 * s, y - 26 * s], [x + 24 * s, y - 46 * s]], 9 * s, INK); line(c, [[x + 6 * s, y - 26 * s], [x + 24 * s, y - 46 * s]], 5 * s, RED);
+    shape(c, () => ell(c, x, y + 8 * s, 31 * s, 33 * s), "#7bb04a", 5);
+    shade(c, () => ell(c, x, y + 8 * s, 31 * s, 33 * s), COL.greenDk, 12 * s, 0, 0.5);
+    shape(c, () => ell(c, x, y - 22 * s, 17 * s, 7 * s), "#f3efd6", 4);
   } else if (kind === "whey") {
-    drop(c, x, y + 4 * s, 24 * s, WHEY);
+    const gl = () => { c.moveTo(x - 28 * s, y - 34 * s); c.lineTo(x + 28 * s, y - 34 * s); c.lineTo(x + 20 * s, y + 34 * s); c.lineTo(x - 20 * s, y + 34 * s); c.closePath(); };
+    shape(c, () => { c.moveTo(x - 25 * s, y - 8 * s); c.lineTo(x + 25 * s, y - 8 * s); c.lineTo(x + 20 * s, y + 34 * s); c.lineTo(x - 20 * s, y + 34 * s); c.closePath(); }, WHEY, 0);
+    shape(c, gl, "rgba(214,236,250,0.4)", 5); line(c, [[x - 18 * s, y - 24 * s], [x - 14 * s, y + 6 * s]], 4 * s, WHITE);
   }
 };
 const tag = (c: Ctx, x: number, y: number, w: number, h: number, kind: string, s = 1) => {
@@ -80,9 +92,11 @@ const slice = (c: Ctx, kind: SliceKind, x: number, y: number, r: number, dry = f
   if (kind === "chapati") for (let k = 0; k < 9; k++) shape(c, () => ell(c, x + (q() - 0.5) * r * 1.2, y + (q() - 0.5) * r * 1.2, r * 0.1, r * 0.07, q() * 3), "#7a4a2a", 0);
   if (dry) for (let k = 0; k < 3; k++) line(c, [[x - r * 0.5 + k * r * 0.3, y - r * 0.5], [x - r * 0.35 + k * r * 0.3, y + r * 0.1], [x - r * 0.5 + k * r * 0.35, y + r * 0.5]], Math.max(2, r * 0.03), INK);
 };
+const GRAPHITE = "#4a4550";
+const outline = (c: Ctx, x: number, y: number, from = 0, to = Math.PI * 2) => { c.beginPath(); c.arc(x, y, RING, from, to); c.strokeStyle = GRAPHITE; c.lineWidth = 9; c.lineCap = "round"; c.stroke(); };
 const KINDS: SliceKind[] = ["cucumber", "tomato", "potato", "carrot", "chapati"];
 const SLICE_AT: number[][] = [[215, 290], [540, 290], [865, 290], [350, 620], [690, 620]];
-const RING = 146, SLICE_R = 126, SHRINK = [0.3, 0.52, 0.56, 0.62, 0.92];
+const RING = 138, SLICE_R = 126, SHRINK = [0.3, 0.52, 0.56, 0.62, 0.92];
 const paperSheet = (c: Ctx) => { shadow(c, 560, 1000, 460, 40); shape(c, () => polyP(c, [[60, 60], [1020, 50], [1025, 1005], [55, 1010]]), "#fffaf0", 6); };
 
 // ---- the window and the sunny sill (e2.1, e3.1)
@@ -129,61 +143,61 @@ const su_e1_1 = (c: Ctx) => {
 };
 const SKIN_ADULT = "#8d5a3b", CLOTH_ADULT = "#5b8fd6";
 
-// setup.e1.2
+// setup.e1.2: hot milk in a steel tumbler, a spoon stirring in lemon juice, curds forming in pale whey
 const su_e1_2 = (c: Ctx) => {
   ground(c);
-  // half lemon on the counter
   shadow(c, 215, 960, 140, 28);
   shape(c, () => ell(c, 205, 880, 125, 100, -0.1), "#ffd34d", 6); shape(c, () => ell(c, 205, 880, 105, 82, -0.1), "#fff3b0", 4);
   for (let k = 0; k < 8; k++) line(c, [[205, 880], [205 + Math.cos(k * 0.785) * 95, 880 + Math.sin(k * 0.785) * 74]], 4, "#f1c93a");
-  tumbler(c, 600, 960, 420, 400, null);
-  const wx = 600, wy = 560;
-  shape(c, () => ell(c, wx, wy, 190, 74), MILK, 3);
+  tumbler(c, 640, 960, 420, 400, null);
+  const wx = 640, wy = 560;
+  shape(c, () => ell(c, wx, wy, 190, 74), "#e3ebaa", 3);
   const q = rnd(4);
-  for (let k = 0; k < 13; k++) { const a = q() * 6.28, d = Math.sqrt(q()) * 0.8, r = 20 + q() * 12; shape(c, () => blob(c, wx + Math.cos(a) * d * 160, wy + Math.sin(a) * d * 52, r, 40 + k), WHITE, 3.5); }
-  const sp: number[][] = []; for (let k = 0; k <= 10; k++) { const t = ((150 - k * 12) * Math.PI) / 180; sp.push([wx + Math.cos(t) * 150, wy + 8 + Math.sin(t) * 46]); }
+  for (let k = 0; k < 9; k++) { const a = (k / 9) * 6.28 + q() * 0.5, d = 0.45 + q() * 0.4; curd(c, wx + Math.cos(a) * d * 165, wy + Math.sin(a) * d * 55, 26 + q() * 12, 40 + k); }
+  curd(c, wx + 10, wy, 30, 77);
+  const sp: number[][] = []; for (let k = 0; k <= 14; k++) { const t = ((200 + k * 17) * Math.PI) / 180; sp.push([wx + Math.cos(t) * 168, wy + 14 + Math.sin(t) * 56]); }
   arrow(c, sp, RED, 10);
-  spoon(c, 240, 285, 600, 420, LEMONJ);
-  drop(c, 705, 472, 13, LEMONJ); drop(c, 708, 515, 11, LEMONJ);
-  hand(c, 170, 250, 0.35, 1.8);
+  spoon(c, 250, 250, 600, 440, "#e3ebaa");
+  hand(c, 180, 215, 0.35, 1.8);
 };
 
-// setup.e1.3
+// setup.e1.3: pouring the curdled milk through a cloth on a strainer; curds stay, whey drips into the glass
 const su_e1_3 = (c: Ctx) => {
   ground(c);
-  const gx = 540, gb = 975, gw = 400, gh = 520, top = gb - gh;
-  // strainer bowl, inside the glass
-  const bowlP = () => { c.moveTo(gx - 185, top + 20); c.bezierCurveTo(gx - 170, top + 190, gx - 90, top + 230, gx, top + 230); c.bezierCurveTo(gx + 90, top + 230, gx + 170, top + 190, gx + 185, top + 20); c.closePath(); };
+  const gx = 400, gb = 1010, gw = 380, gh = 400, top = gb - gh;
+  const bowlP = () => { c.moveTo(gx - 170, top + 20); c.bezierCurveTo(gx - 155, top + 170, gx - 90, top + 210, gx, top + 210); c.bezierCurveTo(gx + 90, top + 210, gx + 155, top + 170, gx + 170, top + 20); c.closePath(); };
   shape(c, bowlP, COL.steelIn, 5);
-  for (let k = -3; k <= 3; k++) line(c, [[gx + k * 50, top + 30], [gx + k * 22, top + 225]], 2.5, COL.steelDk);
-  [90, 150, 205].forEach((dy) => line(c, [[gx - 150, top + dy], [gx + 150, top + dy]], 2.5, COL.steelDk));
+  for (let k = -3; k <= 3; k++) line(c, [[gx + k * 48, top + 30], [gx + k * 20, top + 205]], 2.5, COL.steelDk);
+  [80, 135, 185].forEach((dy) => line(c, [[gx - 140, top + dy], [gx + 140, top + dy]], 2.5, COL.steelDk));
   glass(c, gx, gb, gw, gh, 0.3, WHEY);
-  drop(c, gx, top + 300, 15, WHEY); drop(c, gx + 3, top + 368, 13, WHEY);
-  // flange + cloth + curds above
-  shape(c, () => ell(c, gx, top, 270, 38), COL.steel, 6);
-  const drape = (sx: number) => shape(c, () => { c.moveTo(gx + sx * 235, top - 4); c.quadraticCurveTo(gx + sx * 285, top + 20, gx + sx * 262, top + 100); c.quadraticCurveTo(gx + sx * 225, top + 120, gx + sx * 200, top + 50); c.closePath(); }, COL.cloth, 5);
-  drape(-1); drape(1);
-  shape(c, () => ell(c, gx, top - 2, 250, 34), COL.cloth, 5);
+  drop(c, gx, top + 250, 14, WHEY); drop(c, gx + 3, top + 305, 12, WHEY);
+  shape(c, () => ell(c, gx, top, 255, 36), COL.steel, 6);
+  shape(c, () => ell(c, gx, top - 2, 232, 28), COL.cloth, 5);
   const q = rnd(6);
-  for (let row = 0; row < 3; row++) for (let k = 0; k < 6 - row; k++) { const x = gx - (5 - row) * 38 + k * 76 + (q() - 0.5) * 16, y = top - 18 - row * 58 + (q() - 0.5) * 10, r = 52 - row * 5; shape(c, () => blob(c, x, y, r, 70 + row * 7 + k), row ? WHITE : "#f6f1e4", 4.5); }
+  for (let k = 0; k < 8; k++) curd(c, gx - 150 + (k % 4) * 100 + (q() - 0.5) * 16, top - 22 - Math.floor(k / 4) * 62 + (q() - 0.5) * 10, 48 - Math.floor(k / 4) * 6, 70 + k);
+  // the tilted steel tumbler pouring lumpy milk, held by a grown-up's hand
+  c.save(); c.translate(820, 215); c.rotate(-2.2); tumbler(c, 0, 0, 200, 270, "#f6efd8", false); c.restore();
+  line(c, [[606, 392], [560, 450], [500, 510]], 40, INK); line(c, [[606, 392], [560, 450], [500, 510]], 28, MILK);
+  curd(c, 570, 440, 17, 91); curd(c, 528, 484, 15, 92);
+  c.save(); c.translate(965, 345); c.scale(-1, 1); hand(c, 0, 0, -0.2, 1.5, SKIN_ADULT, CLOTH_ADULT); c.restore();
+  arrow(c, [[650, 430], [605, 530]]);
 };
 
-// setup.e2.0
+// setup.e2.0: tracing round each slice with a pencil
 const su_e2_0 = (c: Ctx) => {
   ground(c);
   paperSheet(c);
   KINDS.forEach((k, i) => {
     const [x, y] = SLICE_AT[i];
     slice(c, k, x, y, SLICE_R, false, 3 + i);
-    if (i < 4) { c.beginPath(); c.arc(x, y, RING, 0, 7); c.strokeStyle = PENCIL; c.lineWidth = 6; c.stroke(); }
-    else { c.beginPath(); c.arc(x, y, RING, Math.PI * 0.75, Math.PI * 2.25); c.strokeStyle = PENCIL; c.lineWidth = 6; c.lineCap = "round"; c.stroke(); }
+    if (i < 4) outline(c, x, y); else outline(c, x, y, Math.PI * 0.75, Math.PI * 2.25);
   });
-  // pencil with its tip at the end of the half-drawn ring
-  const tx = 690 + RING * 0.707, ty = 620 + RING * 0.707, ux = 0.847, uy = 0.531;
-  line(c, [[tx + ux * 70, ty + uy * 70], [tx + ux * 260, ty + uy * 260]], 30, INK); line(c, [[tx + ux * 70, ty + uy * 70], [tx + ux * 260, ty + uy * 260]], 20, COL.yellow);
-  shape(c, () => polyP(c, [[tx, ty], [tx + ux * 74 - uy * 11, ty + uy * 74 + ux * 11], [tx + ux * 74 + uy * 11, ty + uy * 74 - ux * 11]]), "#f0cfa0", 4);
-  shape(c, () => polyP(c, [[tx, ty], [tx + ux * 22 - uy * 3.5, ty + uy * 22 + ux * 3.5], [tx + ux * 22 + uy * 3.5, ty + uy * 22 - ux * 3.5]]), INK, 2);
-  hand(c, tx + ux * 165, ty + uy * 165, -2.58, 1.6);
+  // pencil with its tip at the end of the half-drawn outline
+  const tx = 690 + RING * 0.707, ty = 620 + RING * 0.707, ux = 0.55, uy = 0.835, cone = 90;
+  line(c, [[tx + ux * cone, ty + uy * cone], [tx + ux * 330, ty + uy * 330]], 40, INK); line(c, [[tx + ux * cone, ty + uy * cone], [tx + ux * 330, ty + uy * 330]], 28, COL.yellow);
+  shape(c, () => polyP(c, [[tx, ty], [tx + ux * cone - uy * 20, ty + uy * cone + ux * 20], [tx + ux * cone + uy * 20, ty + uy * cone - ux * 20]]), "#f0cfa0", 5);
+  shape(c, () => polyP(c, [[tx, ty], [tx + ux * 28 - uy * 6, ty + uy * 28 + ux * 6], [tx + ux * 28 + uy * 6, ty + uy * 28 - ux * 6]]), INK, 2);
+  hand(c, tx + ux * 235, ty + uy * 235, -2.15, 1.6);
 };
 
 // setup.e2.1
@@ -206,7 +220,7 @@ const su_e2_2 = (c: Ctx) => {
   paperSheet(c);
   KINDS.forEach((k, i) => {
     const [x, y] = SLICE_AT[i];
-    c.beginPath(); c.arc(x, y, RING, 0, 7); c.strokeStyle = PENCIL; c.lineWidth = 6; c.stroke();
+    outline(c, x, y);
     slice(c, k, x, y, SLICE_R * SHRINK[i], true, 8 + i);
   });
 };

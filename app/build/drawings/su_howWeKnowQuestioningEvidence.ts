@@ -29,13 +29,19 @@ const sortTable = (c: Ctx, x: number, y: number, cw: number, rh: number, marks: 
 };
 const rect = (c: Ctx, x: number, y: number, w: number, h: number) => polyP(c, [[x, y], [x + w, y], [x + w, y + h], [x, y + h]]);
 
+const qmark = (c: Ctx, x: number, y: number, k: number) => {
+  c.beginPath(); c.arc(x, y, 38 * k, Math.PI * 1.05, Math.PI * 2.4); c.lineWidth = 16 * k; c.strokeStyle = INK; c.lineCap = "round"; c.stroke();
+  line(c, [[x + 17 * k, y + 28 * k], [x, y + 62 * k]], 16 * k); shape(c, () => ell(c, x, y + 100 * k, 10 * k, 10 * k), INK, 0);
+};
+
 // setup.e1.0
 const card_e1_0 = (c: Ctx) => {
   paperPage(c);
   for (let i = 0; i < 8; i++) {
     const y = 135 + i * 100;
     write(c, String(i + 1), 140, y, 44, INK, 7);
-    line(c, [[215, y + 40], [245, y + 22], [275, y + 40], [305, y + 22], [335, y + 40], [365, y + 22], [395, y + 40]], 8, COL.greyDk);
+    qmark(c, 235, y + 22, 0.5);
+    line(c, [[300, y + 44], [400, y + 44]], 6, COL.greyDk);
   }
   sortTable(c, 450, 150, 160, 150, []);
   // the pencil
@@ -69,21 +75,18 @@ const card_e1_1 = (c: Ctx) => {
 // setup.e1.2
 const card_e1_2 = (c: Ctx) => {
   ground(c, WALL);
-  c.fillStyle = FLOOR; c.fillRect(0, 900, 1080, 180); line(c, [[0, 900], [1080, 900]], 5);
-  const cx = 610, cy = 330, R = 230;
-  c.beginPath(); ell(c, cx + 18, cy + 22, R, R); c.fillStyle = SH; c.fill();
-  shape(c, () => ell(c, cx, cy, R, R), COL.brown, 7);
-  shape(c, () => ell(c, cx, cy, R - 24, R - 24), WHITE, 5);
+  const cx = 480, cy = 450, R = 360;
+  c.beginPath(); ell(c, cx + 20, cy + 26, R, R); c.fillStyle = SH; c.fill();
+  shape(c, () => ell(c, cx, cy, R, R), COL.brown, 8);
+  shape(c, () => ell(c, cx, cy, R - 34, R - 34), WHITE, 6);
   for (let n = 1; n <= 12; n++) {
-    const a = (n / 12) * Math.PI * 2 - Math.PI / 2, hh = 46, len = String(n).length, wd = hh * (0.8 * (len - 1) + 0.6);
-    write(c, String(n), cx + Math.cos(a) * 160 - wd / 2, cy + Math.sin(a) * 160 - hh / 2, hh, INK, 7);
+    const a = (n / 12) * Math.PI * 2 - Math.PI / 2, hh = 76, len = String(n).length, wd = hh * (0.8 * (len - 1) + 0.6);
+    write(c, String(n), cx + Math.cos(a) * 245 - wd / 2, cy + Math.sin(a) * 245 - hh / 2, hh, INK, 10);
   }
-  line(c, [[cx, cy], [cx + 70, cy - 60]], 14); line(c, [[cx, cy], [cx + 10, cy + 105]], 10);
-  shape(c, () => ell(c, cx, cy, 14, 14), RED, 4);
-  shadow(c, 250, 905, 120, 22); shadow(c, 910, 905, 140, 24);
-  person(c, 250, 900, 600, { armR: [-0.7, -0.7] });
-  hand(c, 447, 438, -0.7, 0.55, SKIN.child, CLOTH.child, true);
-  person(c, 900, 900, 700, { adult: true, armL: [-2.6, -2.3] });
+  line(c, [[cx, cy], [cx + 120, cy - 100]], 20); line(c, [[cx, cy], [cx - 20, cy + 170]], 14);
+  shape(c, () => ell(c, cx, cy, 20, 20), RED, 5);
+  // the child's hand, one finger on the numbers, counting them (it rests on the 4)
+  hand(c, 880, 620, -2.9, 1.7, SKIN.child, CLOTH.child, true);
 };
 
 // setup.e1.3
@@ -92,8 +95,10 @@ const card_e1_3 = (c: Ctx) => {
   sortTable(c, 140, 120, 240, 130, [["t", "t", "x"], ["t", "x", "x"], ["x", "x", ""]]);
   [1, 2, 2].forEach((n, i) => {
     const x = 140 + i * 240;
+    arrow(c, [[x + 120, 665], [x + 120, 750]], i === 0 ? COL.greenDk : i === 1 ? "#d9a300" : RED, 12);
     shape(c, () => rect(c, x, 770, 240, 150), "#fff1c7", 6);
-    write(c, String(n), x + 90, 800, 90, INK, 12);
+    line(c, [[x + 28, 812], [x + 88, 878]], 16, RED); line(c, [[x + 88, 812], [x + 28, 878]], 16, RED);
+    write(c, String(n), x + 130, 800, 90, INK, 12);
   });
 };
 

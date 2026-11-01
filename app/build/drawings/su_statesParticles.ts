@@ -22,24 +22,40 @@ const bottle = (c: Ctx, x: number, yb: number, w: number, h: number, fill = 0.75
   shape(c, () => rrect(c, x - nw / 2 - 5, yb - h, nw + 10, 28, 8), COL.teal, 5);
 };
 
-// a carrier bag hanging by its handles from (x, hy); things poke out of the top
-const bag = (c: Ctx, x: number, hy: number, top: number, w: number, h: number, items: () => void) => {
-  line(c, [[x - w * 0.3, top + 8], [x, hy], [x + w * 0.3, top + 8]], 16, INK); line(c, [[x - w * 0.3, top + 8], [x, hy], [x + w * 0.3, top + 8]], 6, COL.pink);
-  shape(c, () => rrect(c, x - w / 2, top, w, h, 14), "#c8627f");
-  shape(c, () => ell(c, x, top, w / 2, 14), "#8a3d56", 5);
-  items();
-  shape(c, () => rrect(c, x - w / 2, top + 50, w, h - 50, 14), COL.pink);
-  shade(c, () => rrect(c, x - w / 2, top + 50, w, h - 50, 14), "#c8627f", w * 0.12, 0, 0.5);
+// a carrier bag hung by its handle loop from a hanger end at (x, 410); its body hangs below, things poke out of the top
+const BAG_TOP = 600, BAG_H = 220, BAG_W = 260;
+const bagBody = (c: Ctx, x: number) => () => { c.moveTo(x - BAG_W / 2, BAG_TOP); c.lineTo(x + BAG_W / 2, BAG_TOP); c.lineTo(x + BAG_W / 2 + 14, BAG_TOP + BAG_H); c.lineTo(x - BAG_W / 2 - 14, BAG_TOP + BAG_H); c.closePath(); };
+const bagLoop = (c: Ctx, x: number) => {
+  const cy = (405 + BAG_TOP + 20) / 2, ry = (BAG_TOP + 20 - 405) / 2;
+  for (const [w, col] of [[26, INK], [14, COL.pink]] as [number, string][]) { c.beginPath(); ell(c, x, cy, 52, ry); c.strokeStyle = col; c.lineWidth = w; c.stroke(); }
 };
-// a small paper packet; sugar = grains showing at the open top
+const bag = (c: Ctx, x: number, items: () => void) => {
+  shape(c, bagBody(c, x), "#c8627f");
+  shape(c, () => ell(c, x, BAG_TOP, BAG_W / 2, 16), "#8a3d56", 5);
+  items();
+  const front = () => { c.moveTo(x - BAG_W / 2 - 2, BAG_TOP + 50); c.lineTo(x + BAG_W / 2 + 2, BAG_TOP + 50); c.lineTo(x + BAG_W / 2 + 14, BAG_TOP + BAG_H); c.lineTo(x - BAG_W / 2 - 14, BAG_TOP + BAG_H); c.closePath(); };
+  shape(c, front, COL.pink);
+  shade(c, front, "#c8627f", BAG_W * 0.14, 0, 0.5);
+};
+// a paper packet standing in a bag: full = a heap of sugar grains showing at the open top; empty = a flat, slumped sheet
 const packet = (c: Ctx, x: number, yb: number, w: number, h: number, sugar: boolean) => {
-  shape(c, () => rrect(c, x - w / 2, yb - h, w, h, 8), WHITE);
-  line(c, [[x - w / 2 + 6, yb - h + 22], [x + w / 2 - 6, yb - h + 22]], 4);
-  if (sugar) for (let i = 0; i < 7; i++) shape(c, () => ell(c, x - w * 0.36 + i * (w * 0.12), yb - h - 4 - (i % 2) * 6, 6, 5), WHITE, 2.5);
-  else shape(c, () => polyP(c, [[x - w / 2, yb - h], [x + w / 2, yb - h], [x + w / 2 - 6, yb - h - 12], [x - w / 2 + 6, yb - h - 12]]), "#ece4d0", 4);
+  if (sugar) {
+    shape(c, () => rrect(c, x - w / 2, yb - h, w, h, 8), WHITE);
+    line(c, [[x - w / 2 + 6, yb - h + 30], [x + w / 2 - 6, yb - h + 30]], 4);
+    shape(c, () => { c.moveTo(x - w / 2 + 2, yb - h + 4); c.quadraticCurveTo(x, yb - h - 56, x + w / 2 - 2, yb - h + 4); c.closePath(); }, "#fffdf6", 5);
+    for (let i = 0; i < 9; i++) shape(c, () => ell(c, x - w * 0.34 + (i % 5) * (w * 0.17), yb - h - 8 - Math.sin(((i % 5) / 4) * Math.PI) * 22 - Math.floor(i / 5) * 8, 7, 6), WHITE, 2.5);
+  } else {
+    // the same paper, empty and leaning: flat, no grains, a fold line, a bent top corner
+    c.save(); c.translate(x, yb); c.rotate(0.14);
+    const p = () => polyP(c, [[-w / 2, 0], [-w / 2, -h * 0.82], [w / 2 - 22, -h * 0.82], [w / 2, -h * 0.74], [w / 2, 0]]);
+    shape(c, p, WHITE); shade(c, p, "#ece4d0", w * 0.22, 0, 0.8);
+    line(c, [[-w / 2 + 4, -h * 0.5], [w / 2 - 4, -h * 0.5]], 3, COL.grey);
+    shape(c, () => polyP(c, [[w / 2 - 22, -h * 0.82], [w / 2, -h * 0.74], [w / 2 - 20, -h * 0.7]]), "#ece4d0", 3);
+    c.restore();
+  }
 };
 
-// the door, handle, hanger, straw and paper line, then the two bags (A on the left, B on the right)
+// the door, handle, hanger on it, straw taped to its middle and the paper line behind, then the two bags (A left, B right)
 const hanger = (c: Ctx, itemsA: () => void, itemsB: () => void) => {
   ground(c);
   shape(c, () => rrect(c, 350, -20, 380, 1120, 6), COL.wood, 6);
@@ -48,22 +64,26 @@ const hanger = (c: Ctx, itemsA: () => void, itemsB: () => void) => {
   // the paper with its line, taped to the door
   shape(c, () => rrect(c, 410, 740, 260, 240, 6), WHITE);
   line(c, [[540, 765], [540, 955]], 8);
-  // hanger: hook, triangle, bar
+  for (const tx of [410, 670]) shape(c, () => rrect(c, tx - 22, 730, 44, 24, 4), "rgba(255,255,255,0.8)", 4);
+  bagLoop(c, 170); bagLoop(c, 910);
+  // hanger: hook over the door handle, sloping shoulders, bar
   line(c, [[540, 215], [540, 110], [556, 90], [586, 98], [590, 128]], 16, INK); line(c, [[540, 215], [540, 110], [556, 90], [586, 98], [590, 128]], 6, COL.steelDk);
   line(c, [[540, 215], [170, 410], [910, 410], [540, 215]], 30, INK); line(c, [[540, 215], [170, 410], [910, 410], [540, 215]], 18, COL.blue);
   // straw taped to the middle of the bar, pointing straight down at the line
   shape(c, () => rrect(c, 531, 405, 18, 395, 6), COL.yellow, 5);
   shape(c, () => rrect(c, 510, 392, 60, 40, 6), "rgba(255,255,255,0.8)", 4);
-  bag(c, 230, 410, 590, 200, 170, itemsA);
-  bag(c, 850, 410, 590, 200, 170, itemsB);
+  bag(c, 170, itemsA);
+  bag(c, 910, itemsB);
 };
+// a bottle of water standing in a bag, its neck and cap above the bag mouth
+const inBag = (c: Ctx, x: number) => bottle(c, x, BAG_TOP + 150, 112, 300, 0.75, false);
 
 // setup.e1.0
 const e1_0 = (c: Ctx) => hanger(c, () => {}, () => {});
 // setup.e1.1
-const e1_1 = (c: Ctx) => hanger(c, () => { bottle(c, 190, 755, 92, 300, 0.75, false); packet(c, 280, 755, 66, 170, true); }, () => bottle(c, 850, 755, 92, 300, 0.75, false));
+const e1_1 = (c: Ctx) => hanger(c, () => { inBag(c, 120); packet(c, 235, BAG_TOP + 150, 92, 250, true); }, () => inBag(c, 910));
 // setup.e1.3
-const e1_3 = (c: Ctx) => hanger(c, () => { bottle(c, 190, 755, 92, 300, 0.75, false); packet(c, 280, 755, 66, 170, false); }, () => bottle(c, 850, 755, 92, 300, 0.75, false));
+const e1_3 = (c: Ctx) => hanger(c, () => { inBag(c, 120); packet(c, 235, BAG_TOP + 150, 92, 250, false); }, () => inBag(c, 910));
 
 // setup.e1.2
 const e1_2 = (c: Ctx) => {

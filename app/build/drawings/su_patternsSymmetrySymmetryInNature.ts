@@ -33,36 +33,51 @@ const bhindiCut = (c: Ctx, x: number, y: number, R: number) => {
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
-  glass(c, 330, 830, 330, 420, 0.7, SOAP);
-  // foam on top of the soapy water
-  for (const [bx, by, r] of [[270, 576, 26], [330, 566, 30], [392, 578, 26], [300, 598, 22], [364, 600, 22]]) bub(c, bx, by, r);
-  // the spoon, gripped by a child's hand, stirring
-  const sp: number[][] = [[388, 150], [340, 700]];
-  line(c, sp, 24, INK); line(c, sp, 12, COL.steel);
-  shape(c, () => ell(c, 337, 724, 34, 44, 0.08), COL.steel, 6);
-  hand(c, 388, 150, 1.69, 1.8);
-  arrow(c, [[190, 560], [215, 640], [270, 690]], RED, 10);
-  // the plate with soapy water, and the pour arrow to it
-  soapPlate(c, 810, 800, 250, 105);
-  arrow(c, [[540, 560], [640, 470], [760, 520], [800, 650]], RED, 11);
+  // the plate waiting below, with the soapy water landing in it
+  soapPlate(c, 440, 900, 380, 120);
+  // a glass of soapy water tipped over the plate, poured by a child's hand
+  const px = 720, py = 250, th = -2.15, gw = 270, gh = 360;
+  c.save(); c.translate(px, py); c.rotate(th);
+  shadow(c, 0, 8, gw * 0.5, gw * 0.1);
+  const body = () => { c.moveTo(-gw / 2, -gh); c.lineTo(gw / 2, -gh); c.lineTo(gw * 0.4, 0); c.lineTo(-gw * 0.4, 0); c.closePath(); };
+  shape(c, body, COL.glass, 0);
+  c.save(); c.beginPath(); body(); c.clip(); c.rotate(-th); c.translate(-px, -py);
+  c.beginPath(); c.rect(-100, 330, 1400, 900); c.fillStyle = SOAP; c.fill(); c.restore();
+  shape(c, body, "rgba(0,0,0,0)", 6);
+  shape(c, () => ell(c, 0, -gh, gw / 2, gw * 0.08), "rgba(255,255,255,0.35)", 5);
+  c.restore();
+  // the stream from the lip of the glass down into the plate
+  const lipX = px + Math.cos(th - Math.PI / 2) * gh + Math.cos(th) * (gw / 2), lipY = py + Math.sin(th - Math.PI / 2) * gh + Math.sin(th) * (gw / 2);
+  const stream: number[][] = [[lipX + 2, lipY + 6], [lipX - 26, lipY + 30], [lipX - 40, lipY + 110], [lipX - 44, 880]];
+  line(c, stream, 40, INK); line(c, stream, 28, SOAP);
+  shape(c, () => ell(c, lipX - 44, 895, 70, 22), FILM, 4);
+  hand(c, px + 150, py - 40, 2.75, 1.7);
+  arrow(c, [[200, 330], [150, 480], [175, 640]], RED, 11);
 };
 
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  soapPlate(c, 540, 760, 450, 190);
-  // a patch of same-sized bubbles in the middle, packed in rows
-  for (let row = 0; row < 7; row++) {
-    const y = 700 + row * 36 - 105, n = row % 2 ? 6 : 7;
-    for (let k = 0; k < n; k++) { const x = 540 + (k - (n - 1) / 2) * 82; if (((x - 540) / 300) ** 2 + ((y - 760) / 110) ** 2 < 1) bub(c, x, y, 40, 31); }
+  soapPlate(c, 500, 860, 440, 160);
+  // a patch of same-sized bubbles, packed in rows
+  for (let row = 0; row < 5; row++) {
+    const y = 815 + row * 34 - 70, n = row % 2 ? 5 : 6;
+    for (let k = 0; k < n; k++) { const x = 600 + (k - (n - 1) / 2) * 76; if (((x - 600) / 250) ** 2 + ((y - 860) / 100) ** 2 < 1) bub(c, x, y, 37, 29); }
   }
-  // the straw under the soapy water, held by a child's hand; air goes down it
-  const st: number[][] = [[880, 130], [625, 700]];
-  line(c, st, 34, INK); line(c, st, 20, COL.teal);
-  line(c, [[800, 270], [790, 296]], 20, WHITE); line(c, [[742, 408], [732, 434]], 20, WHITE); line(c, [[684, 546], [674, 572]], 20, WHITE);
-  bub(c, 615, 718, 34, 28); bub(c, 570, 742, 22, 18);
-  hand(c, 870, 150, 1.96, 1.8);
-  arrow(c, [[960, 400], [895, 560]], RED, 11);
+  // the straw goes from the child's mouth down under the soapy water; a new bubble grows at its tip
+  bub(c, 305, 830, 40, 32); bub(c, 345, 868, 22, 18);
+  // the child's face, cheeks puffed, blowing
+  const hx = 840, hy = 190, hr = 150;
+  shape(c, () => ell(c, hx, hy, hr, hr * 1.05), SKIN.child);
+  shape(c, () => { c.moveTo(hx - hr * 1.02, hy - 10); c.bezierCurveTo(hx - hr, hy - hr * 1.7, hx + hr, hy - hr * 1.7, hx + hr * 1.02, hy - 10); c.quadraticCurveTo(hx, hy - hr * 0.7, hx - hr * 1.02, hy - 10); c.closePath(); }, CLOTH.hair, 5);
+  shape(c, () => ell(c, hx - 60, hy + 5, 20, 26), WHITE, 4); shape(c, () => ell(c, hx + 60, hy + 5, 20, 26), WHITE, 4);
+  shape(c, () => ell(c, hx - 66, hy + 12, 9, 12), INK, 0); shape(c, () => ell(c, hx + 54, hy + 12, 9, 12), INK, 0);
+  shape(c, () => ell(c, hx - 95, hy + 70, 36, 30), "#e08a6a", 0); shape(c, () => ell(c, hx + 95, hy + 70, 36, 30), "#e08a6a", 0);
+  shape(c, () => ell(c, hx, hy + 78, 30, 24), "#7a3b2e", 5);
+  // the straw from the mouth, redrawn over the face
+  line(c, [[hx - 22, hy + 82], [330, 800]], 34, INK); line(c, [[hx - 22, hy + 82], [330, 800]], 20, COL.teal);
+  hand(c, 670, 597, 3.9, 1.6);
+  arrow(c, [[120, 600], [180, 700]], RED, 11);
 };
 
 // setup.e1.2

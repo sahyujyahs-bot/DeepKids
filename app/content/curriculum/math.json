@@ -5695,7 +5695,8 @@
    "source": "boards",
    "used_in_other_subjects": [
     "sci.making-things.design-and-build.L3",
-    "sci.forces.simple-machines.L3"
+    "sci.forces.simple-machines.L3",
+    "sci.light.shadows.L3"
    ],
    "chapter_refs": [
     "Cambridge Stage 3 Gg Geometrical reasoning, shapes and measurements"
@@ -5899,6 +5900,7 @@
    ],
    "source": "boards",
    "used_in_other_subjects": [
+    "sci.states.floating-and-sinking.L1",
     "sci.states.floating-and-sinking.L2"
    ],
    "chapter_refs": [
@@ -6309,6 +6311,7 @@
    ],
    "source": "boards",
    "used_in_other_subjects": [
+    "sci.light.shadows.L3",
     "sci.day-night-seasons.day-and-night.L3"
    ],
    "chapter_refs": [
@@ -8889,7 +8892,8 @@
    ],
    "source": "boards",
    "used_in_other_subjects": [
-    "sci.materials.sorting-materials.L1"
+    "sci.materials.sorting-materials.L1",
+    "sci.states.floating-and-sinking.L1"
    ],
    "chapter_refs": [
     "NCERT Class 1 Ch 13 So Many Toys",
@@ -9212,6 +9216,7 @@
     "sci.forces.friction.L3",
     "sci.motion.physics-of-sport.L3",
     "sci.magnets.poles.L3",
+    "sci.planet-earth.soil-and-crops.L1",
     "sci.planet-earth.soil-and-crops.L3",
     "sci.weather.weather.L1",
     "sci.weather.weather.L3",
@@ -9378,6 +9383,7 @@
     "sci.energy.heat.L2",
     "sci.energy.heat.L3",
     "sci.light.shadows.L2",
+    "sci.light.shadows.L3",
     "sci.light.shadows.L4",
     "sci.day-night-seasons.rhythms-of-nature.L3",
     "sci.weather.climate-change.L4",

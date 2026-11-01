@@ -187,38 +187,38 @@ const e2s2 = (c: Ctx) => trayScene(c, 4, 0.8, 24, true);
 // ---------------------------------------------------------------- experiment 3: which way the tiles overlap
 // a card board with four plastic tiles, in the board's own frame: x runs down the slope from its top end, y up is negative; the board's top face is y = 0
 // A: the higher tile lies on top of the one below. B: the lower tile lies on top of the one above.
-const roof = (c: Ctx, mode: "A" | "B", step: number, L: number, h: number) => {
-  const W = 3 * step + L, r = L / step;
+const roof = (c: Ctx, mode: "A" | "B", n: number, step: number, L: number, h: number) => {
+  const W = (n - 1) * step + L, r = L / step;
   shape(c, () => polyP(c, [[-12, 0], [W + 12, 0], [W + 12, 20], [-12, 20]]), CARD, 6);
   shade(c, () => polyP(c, [[-12, 0], [W + 12, 0], [W + 12, 20], [-12, 20]]), CARDDK, 0, 13, 0.8);
   // a tile is a straight plate h thick: bottom edge from (xa, ya) to (xb, yb), y up is negative
   const tile = (i: number, xa: number, ya: number, xb: number, yb: number) => {
     const P = [[xa, ya - h], [xb, yb - h], [xb, yb], [xa, ya]];
-    shape(c, () => polyP(c, P), i % 2 ? "#b5def2" : TILE, 6);
+    shape(c, () => polyP(c, P), i % 2 ? "#cfeafa" : "#7cc0ea", 7);
     shade(c, () => polyP(c, P), TILEDK, 0, h * 0.5, 0.7);
-    line(c, [[xa + 10, ya - h + 5], [xb - 10, yb - h + 5]], 3, WHITE);
+    line(c, [[xa + 14, ya - h + 7], [xb - 14, yb - h + 7]], 4, WHITE);
   };
-  if (mode === "A") for (const i of [3, 2, 1, 0]) tile(i, i * step, 0, i * step + L, i === 3 ? 0 : -h * r);
-  else { let yb = 0; for (let i = 0; i < 4; i++) { tile(i, i * step, -yb, i * step + L, 0); yb = i === 0 ? h : h + yb * (1 - step / L); } }
+  if (mode === "A") for (const i of [n - 1, ...Array.from({ length: n - 1 }, (_, k) => n - 2 - k)]) tile(i, i * step, 0, i * step + L, i === n - 1 ? 0 : -h * r);
+  else { let yb = 0; for (let i = 0; i < n; i++) { tile(i, i * step, -yb, i * step + L, 0); yb = i === 0 ? h : h + yb * (1 - step / L); } }
   return W;
 };
 // world position of a board-frame point
 const roofAt = (ox: number, oy: number, th: number, lx: number, ly: number): [number, number] => [ox + lx * Math.cos(th) - ly * Math.sin(th), oy + lx * Math.sin(th) + ly * Math.cos(th)];
 // the board on its book stacks: left end top at (ox, oy), tilted th, table at y = T
 const roofOnBooks = (c: Ctx, mode: "A" | "B", ox: number, oy: number, th: number, T: number, step: number, L: number, t: number, bw: number) => {
-  const W = 3 * step + L, [lx, ly] = roofAt(ox, oy, th, 0, 20), [rx, ry] = roofAt(ox, oy, th, W, 20);
+  const W = 2 * step + L, [lx, ly] = roofAt(ox, oy, th, 0, 20), [rx, ry] = roofAt(ox, oy, th, W, 20);
   books(c, lx - 10, bw, ly, T); books(c, rx - bw + 10, bw, ry, T);
-  c.save(); c.translate(ox, oy); c.rotate(th); roof(c, mode, step, L, t); c.restore();
+  c.save(); c.translate(ox, oy); c.rotate(th); roof(c, mode, 3, step, L, t); c.restore();
 };
 const roofCard = (c: Ctx, mode: "A" | "B") => {
   ground(c);
-  const T = 960, th = Math.asin(208 / 790), ox = 130, oy = T - 260 - 20;
+  const T = 960, th = Math.asin(190 / 830), ox = 110, oy = T - 270 - 20;
   c.fillStyle = FLOOR; c.fillRect(0, T, 1080, 140); line(c, [[0, T], [1080, T]], 5);
-  roofOnBooks(c, mode, ox, oy, th, T, 170, 240, 24, 150);
-  // a hand presses the overlap of two tiles
-  const [hx, hy] = roofAt(ox, oy, th, 340, -100);
-  hand(c, hx - 20, hy - 115, Math.PI / 2, 1.5, undefined, undefined, true);
-  arrow(c, [[hx + 150, hy - 200], [hx + 150, hy - 80]]);
+  roofOnBooks(c, mode, ox, oy, th, T, 250, 330, 44, 150);
+  // a flat hand presses on the place where two tiles overlap
+  const [hx, hy] = roofAt(ox, oy, th, 300, -78);
+  hand(c, hx - 30, hy - 150, Math.PI / 2, 1.7, undefined, undefined, true);
+  arrow(c, [[hx + 150, hy - 270], [hx + 150, hy - 110]]);
 };
 // setup.e3.0
 const e3s0 = (c: Ctx) => roofCard(c, "A");
@@ -227,21 +227,21 @@ const e3s1 = (c: Ctx) => roofCard(c, "B");
 // setup.e3.2
 const e3s2 = (c: Ctx) => {
   ground(c);
-  const T = 960, step = 100, L = 150, t = 16, bw = 90, th = Math.asin(156 / 450), W = 3 * step + L;
+  const T = 960, step = 110, L = 170, t = 22, bw = 80, th = Math.asin(130 / 390), W = 2 * step + L;
   c.fillStyle = FLOOR; c.fillRect(0, T, 1080, 140); line(c, [[0, T], [1080, T]], 5);
-  const roofs: ["A" | "B", number][] = [["A", 60], ["B", 570]];
+  const roofs: ["A" | "B", number][] = [["A", 60], ["B", 590]];
   for (const [mode, ox] of roofs) {
-    const oy = T - 260 - 20;
-    // the tissue under the roof
-    const x1 = ox + 105, x2 = ox + W - 105, wet = mode === "B";
-    shadow(c, (x1 + x2) / 2 + 20, T + 2, (x2 - x1) / 2 + 20, 8);
-    shape(c, () => polyP(c, [[x1, T - 14], [x2, T - 14], [x2 + 40, T - 40], [x1 + 40, T - 40]]), wet ? COL.water : WHITE, 5);
-    shape(c, () => polyP(c, [[x1, T - 14], [x2, T - 14], [x2, T], [x1, T]]), wet ? COL.waterDk : "#ece6d8", 5);
-    if (wet) for (const [bx, bw2] of [[60, 34], [130, 40], [190, 30]]) shape(c, () => ell(c, x1 + bx + 20, T - 27, bw2, 7), COL.waterDk, 3);
+    const oy = T - 260 - 20, wet = mode === "B";
+    // the tissue under the roof: white, with big blue wet patches on the leaking side only
+    const x1 = ox + 85, x2 = ox + W - 85;
+    shadow(c, (x1 + x2) / 2 + 30, T + 2, (x2 - x1) / 2 + 40, 8);
+    shape(c, () => polyP(c, [[x1, T - 14], [x2, T - 14], [x2 + 50, T - 52], [x1 + 50, T - 52]]), WHITE, 5);
+    shape(c, () => polyP(c, [[x1, T - 14], [x2, T - 14], [x2, T], [x1, T]]), "#ece6d8", 5);
+    if (wet) for (const [bx, by, rx] of [[40, 0, 34], [100, -6, 44], [160, 2, 36]]) shape(c, () => ell(c, x1 + bx + 25, T - 33 + by, rx, 11), COL.water, 4);
     roofOnBooks(c, mode, ox, oy, th, T, step, L, t, bw);
-    if (wet) for (const dx of [90, 190, 290]) { const [wx, wy] = roofAt(ox, oy, th, dx, 20); drop(c, wx, wy + 40, 11); drop(c, wx, wy + 110, 11); }
+    if (wet) for (const dx of [60, 140, 230]) { const [wx, wy] = roofAt(ox, oy, th, dx, 20); drop(c, wx, wy + 60, 12); drop(c, wx, wy + 130, 12); }
     // the spoon pours at the top of the roof
-    const [tx, ty] = roofAt(ox, oy, th, 80, -2 * t);
+    const [tx, ty] = roofAt(ox, oy, th, 70, -2 * t);
     spoonPour(c, tx, ty - 90, 1.45, ty - 4, 1.1, 9);
   }
 };

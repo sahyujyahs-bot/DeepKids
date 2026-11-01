@@ -218,17 +218,18 @@ const e2_2 = (c: Ctx) => {
   shape(c, () => ell(c, 320 + 13 + 40 + 20, T + rowH - 20 - 215 * 0.74 + 20 + 50, 16, 16), "#ece6d6", 4);
   person(c, 320, T + rowH * 2 - 20, 215, { armR: [-1.1, -1.5] });
   shape(c, () => ell(c, 320 + 215 * 0.11 + Math.cos(-1.1) * 36.5 + Math.cos(-1.5) * 34.4, T + rowH * 2 - 20 - 215 * 0.74 + 6.5 + Math.sin(-1.1) * 36.5 + Math.sin(-1.5) * 34.4 - 24, 16, 16), "#ece6d6", 4);
-  // tally marks: 7 and 4
+  // tally marks: 7 (a crossed bundle of five, then two) and 4, drawn big, with the count written beside
   const tally = (n: number, y: number) => {
-    let x = M + 40;
+    let x = M + 36;
     for (let g = 0; g < n; g += 5) {
       const k = Math.min(5, n - g), v = Math.min(4, k);
-      for (let i = 0; i < v; i++) line(c, [[x + i * 30, y - 70], [x + i * 30, y + 70]], 9, COL.blueDk);
-      if (k === 5) line(c, [[x - 15, y + 50], [x + 4 * 30 + 15, y - 50]], 9, COL.blueDk);
-      x += 4 * 30 + 50;
+      for (let i = 0; i < v; i++) line(c, [[x + i * 36, y - 80], [x + i * 36, y + 80]], 14, COL.blueDk);
+      if (k === 5) line(c, [[x - 22, y + 60], [x + 3 * 36 + 22, y - 60]], 14, COL.blueDk);
+      x += (k === 5 ? 3 * 36 : (v - 1) * 36) + 56;
     }
   };
   tally(7, T + rowH / 2); tally(4, T + rowH * 1.5);
+  write(c, "7", 835, T + rowH / 2 - 55, 110, INK, 12); write(c, "4", 835, T + rowH * 1.5 - 55, 110, INK, 12);
   // pencil
   c.save(); c.translate(540, 860); c.rotate(-0.1);
   shape(c, () => rrect(c, -230, -22, 380, 44, 6), COL.yellow, 6);
@@ -278,11 +279,17 @@ const glassBowl = (c: Ctx, x: number, y: number, w: number, wy: number, inside: 
   shape(c, () => ell(c, x, y, w / 2, w * 0.05), "rgba(255,255,255,0.3)", 6);
   shine(c, [[x - w * 0.4, y + dep * 0.25], [x - w * 0.3, y + dep * 0.55]], 8);
 };
-// a brinjal piece seen from the side
-const sidePiece = (c: Ctx, x: number, y: number, w: number, h: number) => {
-  shape(c, () => rrect(c, x - w / 2, y - h / 2, w, h, h * 0.35), PURPLE, 6);
-  shade(c, () => rrect(c, x - w / 2, y - h / 2, w, h, h * 0.35), PURPLE_DK, -w * 0.1, -h * 0.2, 0.7);
-  shape(c, () => rrect(c, x - w / 2, y - h / 2, w, h, h * 0.35), "rgba(0,0,0,0)", 6);
+// a brinjal slice seen from the side and a little above: purple skin round the edge, pale cut face on top
+const discPiece = (c: Ctx, x: number, y: number, rx: number, t: number) => {
+  const ry = rx * 0.22;
+  shape(c, () => ell(c, x, y + t, rx, ry), PURPLE_DK, 6);
+  shape(c, () => polyP(c, [[x - rx, y], [x + rx, y], [x + rx, y + t], [x - rx, y + t]]), PURPLE_DK, 0);
+  line(c, [[x - rx, y], [x - rx, y + t]], 6); line(c, [[x + rx, y], [x + rx, y + t]], 6);
+  shape(c, () => ell(c, x, y + t, rx, ry), PURPLE_DK, 0);
+  c.beginPath(); c.ellipse(x, y + t, rx, ry, 0, 0, Math.PI); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  shape(c, () => ell(c, x, y, rx, ry), PURPLE, 6);
+  shape(c, () => ell(c, x, y, rx - 12, ry - 6), BFLESH, 0);
+  for (let k = 0; k < 5; k++) shape(c, () => ell(c, x + (k - 2) * rx * 0.3, y + (k % 2 ? 3 : -3), 5, 3), mix(BFLESH, "#6a4a20", 0.5), 0);
 };
 
 // setup.e3.1
@@ -290,20 +297,21 @@ const e3_1 = (c: Ctx) => {
   ground(c);
   c.save(); c.translate(0, 80);
   const wy = 640, w = 430;
-  // left: the piece floats, half above the water
+  // left: the slice floats, its top face up in the air
   glassBowl(c, 270, 560, w, wy, () => {
-    sidePiece(c, 270, wy - 14, 170, 56);
-    c.fillStyle = COL.water; c.globalAlpha = 0.5; c.fillRect(100, wy, 340, 60); c.globalAlpha = 1;
+    discPiece(c, 270, wy - 34, 100, 54);
+    c.fillStyle = COL.water; c.globalAlpha = 0.5; c.fillRect(100, wy, 340, 120); c.globalAlpha = 1;
   });
-  // right: a steel lid holds the piece under
+  // right: a steel lid pressed down holds the slice under the water
   glassBowl(c, 780, 560, w, wy, () => {
-    sidePiece(c, 780, wy + 48, 170, 56);
-    c.fillStyle = COL.water; c.globalAlpha = 0.45; c.fillRect(600, wy, 360, 120); c.globalAlpha = 1;
+    discPiece(c, 780, wy + 62, 100, 54);
+    shape(c, () => rrect(c, 640, wy + 8, 280, 32, 12), COL.steel, 6);
+    c.fillStyle = COL.water; c.globalAlpha = 0.28; c.fillRect(600, wy, 360, 200); c.globalAlpha = 1;
   });
-  shape(c, () => rrect(c, 650, wy - 30, 260, 28, 12), COL.steel, 6);
-  shape(c, () => rrect(c, 750, wy - 62, 60, 36, 14), COL.steelDk, 6);
-  adultHand(c, 780, 370, Math.PI / 2, 2, true);
-  arrow(c, [[960, 330], [960, 500]]);
+  // the lid's knob stands out of the water; a hand grips it and pushes down
+  shape(c, () => rrect(c, 740, wy - 62, 80, 66, 16), COL.steelDk, 6);
+  adultHand(c, 780, 470, Math.PI / 2, 1.9);
+  arrow(c, [[940, 300], [940, 520]]);
   c.restore();
 };
 
@@ -315,7 +323,7 @@ const e3_2 = (c: Ctx) => {
   brinjalSlice(c, X[0], 440, 135, 105, BBROWN);
   brinjalSlice(c, X[1], 440, 135, 105);
   brinjalSlice(c, X[2], 440, 135, 105);
-  [0, 1, 1].forEach((k, i) => tagIcon(c, X[i], 850, k));
+  [0, 1, 2].forEach((k, i) => tagIcon(c, X[i], 850, k));
 };
 
 export const su_howWeKnowFairTests = cards("sci.how-we-know.fair-tests.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

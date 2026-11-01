@@ -103,19 +103,19 @@ const e1_2 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  head(c, 290, 380, 175, { adult: true, mouth: "smile" });
-  head(c, 800, 470, 140, { look: -4, mouth: "flat" });
+  head(c, 290, 380, 190, { adult: true, mouth: "big" });
+  head(c, 810, 470, 140, { look: -4, mouth: "flat", eyes: "wide" });
   // table, and the phone timer standing on it
   shape(c, () => rrect(c, -20, 800, D + 40, 300, 0), TABLE, 6);
   shade(c, () => rrect(c, -20, 800, D + 40, 300, 0), TABLE_DK, 0, 40, 0.5);
   line(c, [[0, 800], [D, 800]], 6);
   shadow(c, 560, 985, 150, 22);
-  shape(c, () => rrect(c, 430, 640, 260, 340, 30), COL.black, 6);
-  shape(c, () => rrect(c, 450, 668, 220, 284, 14), "#22303a", 4);
+  shape(c, () => rrect(c, 410, 620, 300, 360, 30), COL.black, 6);
+  shape(c, () => rrect(c, 432, 648, 256, 304, 14), "#22303a", 4);
   shape(c, () => ell(c, 560, 810, 80, 80), "rgba(0,0,0,0)", 0);
-  c.beginPath(); ell(c, 560, 810, 78, 78); c.strokeStyle = COL.tealDk; c.lineWidth = 16; c.stroke();
-  c.beginPath(); c.arc(560, 810, 78, -Math.PI / 2, Math.PI * 0.9); c.strokeStyle = "#c9f06b"; c.lineWidth = 16; c.lineCap = "round"; c.stroke();
-  write(c, "3", 543, 786, 48, "#c9f06b", 8);
+  c.beginPath(); ell(c, 560, 800, 92, 92); c.strokeStyle = COL.tealDk; c.lineWidth = 16; c.stroke();
+  c.beginPath(); c.arc(560, 800, 92, -Math.PI / 2, Math.PI * 0.9); c.strokeStyle = "#c9f06b"; c.lineWidth = 16; c.lineCap = "round"; c.stroke();
+  write(c, "3", 538, 770, 62, "#c9f06b", 8);
 };
 
 // setup.e2.1

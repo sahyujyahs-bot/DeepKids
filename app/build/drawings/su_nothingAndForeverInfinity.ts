@@ -152,29 +152,34 @@ const card4 = (c: Ctx) => {
 // setup.e2.2
 const card5 = (c: Ctx) => {
   ground(c);
-  // the steel tumbler, full of rice
-  const x = 330, top = 480, bot = 930, tw = 150, bw = 125;
+  // the steel tumbler with a window: rice filled up to about two thirds
+  const x = 300, top = 470, bot = 940, tw = 150, bw = 125;
   shadow(c, x + 40, bot + 16, tw * 1.1, 28);
   const body = () => { c.moveTo(x - tw, top); c.lineTo(x + tw, top); c.lineTo(x + bw, bot); c.lineTo(x - bw, bot); c.closePath(); };
   shape(c, body, COL.steel);
   shade(c, body, COL.steelDk, 70, 0, 0.55);
   shape(c, () => ell(c, x, top, tw, 34), COL.steelIn, 6);
-  shape(c, () => ell(c, x, top - 4, tw - 20, 24), WHITE, 3);
-  for (let i = 0; i < 12; i++) rice(c, x - 110 + i * 20, top - 12 + (i % 3) * 5, i * 0.7, 16);
-  shine(c, [[x - tw * 0.7, top + 60], [x - bw * 0.7, bot - 60]], 9);
-  // the spoon above, tipping rice in
-  spoon(c, 150, 150, 0.55, 250, 62, true);
-  rice(c, 345, 385, 1.1, 18); rice(c, 352, 425, 0.4, 18); rice(c, 338, 458, 2.0, 18);
-  hand(c, 150, 150, 0.55, 1.7, SKIN.child, CLOTH.child);
-  // the paper with tally marks
-  paper(c, 640, 330, 380, 560);
+  const win = () => rrect(c, x - 85, 570, 170, 320, 22);
+  shape(c, win, "#e9f3ff", 6);
+  c.save(); c.beginPath(); win(); c.clip();
+  for (let r = 0; r < 9; r++) for (let k = 0; k < 6; k++) rice(c, x - 70 + k * 27 + (r % 2) * 13, 665 + r * 25, (r * 7 + k * 3) * 0.5, 15);
+  c.restore();
+  shape(c, win, "rgba(0,0,0,0)", 6);
+  // the spoon above, tipping a spoonful in
+  spoon(c, 90, 110, 0.5, 250, 62, true);
+  rice(c, 335, 330, 1.1, 18); rice(c, 322, 375, 0.4, 18); rice(c, 330, 420, 2.0, 18);
+  hand(c, 90, 110, 0.5, 1.7, SKIN.child, CLOTH.child);
+  arrow(c, [[470, 300], [470, 410]]);
+  // the paper: a spoon picture, then one tally mark for every spoonful
+  paper(c, 630, 150, 390, 600);
+  spoon(c, 690, 215, -0.35, 100, 30, true);
+  line(c, [[670, 270], [980, 270]], 5, COL.grey);
   const tally = (px: number, py: number, n: number) => {
-    for (let k = 0; k < Math.min(4, n); k++) line(c, [[px + k * 20, py], [px + k * 20, py + 60]], 7);
-    if (n >= 5) line(c, [[px - 10, py + 48], [px + 70, py + 12]], 7, RED);
+    for (let k = 0; k < Math.min(4, n); k++) line(c, [[px + k * 24, py], [px + k * 24, py + 70]], 8);
+    if (n >= 5) line(c, [[px - 12, py + 56], [px + 88, py + 14]], 8, RED);
   };
-  tally(690, 390, 5); tally(840, 390, 5); tally(690, 500, 5); tally(840, 500, 5); tally(690, 610, 5); tally(840, 610, 3);
-  writer(c, 690, 830, 1.3, 0.3);
-  arrow(c, [[470, 360], [470, 440]]);
+  tally(680, 300, 5); tally(680, 410, 5); tally(680, 520, 2); tally(830, 300, 5); tally(830, 410, 1);
+  writer(c, 760, 590, 1.3, 0.3);
 };
 
 export const su_nothingAndForeverInfinity = cards("sci.nothing-and-forever.infinity.L3 set-up", [card0, card1, card2, card3, card4, card5]);

@@ -86,30 +86,29 @@ const card_e1_0 = (c: Ctx) => {
 const card_e1_1 = (c: Ctx) => {
   base(c);
   phone(c, 70, 120, 220, "0");
-  const nx = PX + 215, ny = PY + Math.sqrt(400 * 400 - 215 * 215);
+  const nx = PX + 170, ny = PY + Math.sqrt(400 * 400 - 170 * 170);
   dash(c, [[PX, PY], [PX, PY + 400]]); bag(c, PX, PY + 400, BR, 5, 0.3);
   thread(c, PX, PY, nx, ny); bag(c, nx, ny, BR, 5);
-  const an = 2.85, s = 1.5, gy = ny + 36; hand(c, nx - 70 * s * Math.cos(an), gy - 70 * s * Math.sin(an), an, s);
-  arrow(c, [[900, 955], [800, 995], [700, 995], [600, 960]], RED, 12);
+  const an = 2.6, s = 1.1, tx = nx + 114, ty = ny + 80; hand(c, tx - 98 * s * Math.cos(an), ty - 98 * s * Math.sin(an), an, s, SKIN.child, CLOTH.child, true);
+  arrow(c, [[850, 955], [780, 995], [700, 995], [620, 960]], RED, 12);
 };
 // setup.e1.2
 const card_e1_2 = (c: Ctx) => {
   bg(c); table(c, 40, 400); ruler(c, 215, 1000); books(c, 235, 390);
   for (const [x, n] of [[560, 5], [860, 1]] as [number, number][]) { thread(c, x, SLAB, x, SLAB + 400); bag(c, x, SLAB + 400, 85, n); write(c, String(n), x - 14, 940, 56, INK, 8); }
   dash(c, [[500, SLAB + 400], [920, SLAB + 400]]);
-  dimV(c, 690, SLAB, SLAB + 400); write(c, "50 cm", 706, 520, 34, COL.greyDk, 5);
+  for (const x of [595, 895]) { dimV(c, x, SLAB, SLAB + 400); write(c, "50 cm", x + 16, 520, 34, COL.greyDk, 5); }
 };
 // setup.e1.3
 const card_e1_3 = (c: Ctx) => {
   base(c);
   const px = 626, ln = 100;
-  dash(c, [[px, SLAB], [px, SLAB + 400]]); bag(c, px, SLAB + 400, BR, 5, 0.3);
-  for (let i = 0; i < 5; i++) { const x = 598 + i * 9; line(c, [[x, SLAB - 24], [x + 8, SLAB + 6]], 8); line(c, [[x, SLAB - 24], [x + 8, SLAB + 6]], 4, COL.pink); }
-  shape(c, () => polyP(c, [[592, SLAB - 30], [650, SLAB - 30], [650, SLAB + 12], [592, SLAB + 12]]), "rgba(255,211,77,0.75)", 4);
-  thread(c, px + 4, SLAB + 6, px + 4, SLAB + ln); bag(c, px + 4, SLAB + ln, BR, 5);
+  dash(c, [[px, SLAB], [px, SLAB + 400]]); bag(c, px, SLAB + 400, BR, 5, 0.18);
+  for (let i = 0; i < 9; i++) { const x = 596 + i * 6; line(c, [[x, SLAB - 26], [x + 6, SLAB + 8]], 7); line(c, [[x, SLAB - 26], [x + 6, SLAB + 8]], 3, COL.pink); }
+  shape(c, () => polyP(c, [[588, SLAB - 34], [654, SLAB - 34], [654, SLAB + 14], [588, SLAB + 14]]), "rgba(255,211,77,0.55)", 4);
+  thread(c, px + 4, SLAB + 8, px + 4, SLAB + ln); bag(c, px + 4, SLAB + ln, BR, 5);
   dimV(c, 760, SLAB, SLAB + ln); write(c, "12 cm", 780, SLAB + 30, 34, COL.greyDk, 5);
-  dimV(c, 960, SLAB, SLAB + 400); write(c, "50 cm", 800, 560, 34, COL.greyDk, 5);
-  dash(c, [[px + 20, SLAB + 400], [960, SLAB + 400]]);
+  arrow(c, [[820, 760], [820, 560], [820, 470]], RED, 14);
 };
 // setup.e2.0
 const card_e2_0 = (c: Ctx) => { base(c); hangLong(c); dimH(c, 372, 490, TIP); write(c, "10 cm", 500, 386, 30, COL.greyDk, 5); };

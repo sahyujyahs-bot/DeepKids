@@ -436,11 +436,23 @@
       "Poha",
       "Toor dal",
       "Chana sundal",
-      "Egg",
+      {
+       "f": "Egg",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-09.jpg",
+        "credit": "Justus Blümer from Deutschland, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "Machher jhol (fish curry)",
       "Milk",
       "Curd",
-      "Paneer",
+      {
+       "f": "Paneer",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-13.jpg",
+        "credit": "Sonja Pauen - Stanhopea, CC BY 2.0 de, via Wikimedia Commons"
+       }
+      },
       "Buttermilk",
       {
        "f": "Ghee",
@@ -457,7 +469,13 @@
        }
       },
       "Peanuts",
-      "Jaggery",
+      {
+       "f": "Jaggery",
+       "img": {
+        "src": "media/cards/nutrients-g1-1-18.jpg",
+        "credit": "Sushant Medhe Pawar of Kolhapur Agricultural Produce Market (Kolhapur Sheti Utpa, CC0, via Wikimedia Commons"
+       }
+      },
       "Til laddoo"
      ]
     },
@@ -566,7 +584,13 @@
       "Plain curd",
       "Ripe banana",
       "Raw rice",
-      "Almonds",
+      {
+       "f": "Almonds",
+       "img": {
+        "src": "media/cards/nutrients-g2-1-04.jpg",
+        "credit": "Danielle Keller (Danielle_dk), Public domain, via Wikimedia Commons"
+       }
+      },
       "Ragi flour",
       "Ghee",
       "Jaggery"

@@ -71,19 +71,27 @@ function s_e1_0(c: Ctx) {
   for (const x of [290, 790]) { strip(c, x, 680, 250, 52, 0.03, "news"); strip(c, x, 745, 250, 52, -0.03, "box"); strip(c, x, 810, 250, 52, 0.03, "milk"); }
 }
 // setup.e1.1
+const SAMBARB = "#e8922c";
 function s_e1_1(c: Ctx) {
   ground(c);
-  jar(c, 400, 960, 400, 520, { tag: "wet", fill: (cc, w, h) => { dryLayer(cc, w, h); wetLayer(cc, w, h); } });
-  // spoon tipping sambar and rice into the jar
+  // the MIXED jar: the three dry strips lie at the bottom, the sambar is just landing on top of them
+  jar(c, 400, 960, 400, 520, { tag: "wet", fill: (cc, w) => {
+    strip(cc, -w * 0.02, -30, w * 0.8, 58, 0.03, "milk"); strip(cc, w * 0.02, -90, w * 0.78, 58, -0.04, "box"); strip(cc, -w * 0.02, -150, w * 0.8, 58, 0.03, "news");
+    shape(cc, () => ell(cc, 60, -188, 135, 30), SAMBARB, 4);
+    for (let i = 0; i < 6; i++) shape(cc, () => ell(cc, -10 + i * 28, -194 + (i % 2) * 10, 11, 7, i), RICE, 2.5);
+    peel(cc, 20, -222, 0.7, 0.2);
+  } });
+  // a spoon tipping sambar and rice: a thick orange stream falls on the strips
   const hx = 905, hy = 200, an = Math.PI - 0.35;
   line(c, [[hx - 90, hy + 33], [575, 355]], 28, INK); line(c, [[hx - 90, hy + 33], [575, 355]], 17, COL.steel);
   shape(c, () => ell(c, 535, 372, 78, 46, 0.55), COL.steel, 6);
-  shape(c, () => ell(c, 530, 376, 56, 28, 0.55), SAMBAR, 3);
+  shape(c, () => ell(c, 530, 376, 56, 28, 0.55), SAMBARB, 3);
   for (let i = 0; i < 4; i++) shape(c, () => ell(c, 520 + i * 14, 370 + i * 4, 9, 6, i), RICE, 2.5);
-  line(c, [[478, 408], [462, 560]], 26, INK); line(c, [[478, 408], [462, 560]], 16, SAMBAR);
-  dropShape(c, 440, 600, 12, SAMBAR);
+  shape(c, () => { c.moveTo(466, 404); c.bezierCurveTo(500, 500, 450, 600, 482, 700); c.lineTo(486, 770); c.lineTo(456, 770); c.lineTo(450, 700); c.bezierCurveTo(430, 600, 476, 500, 446, 410); c.closePath(); }, SAMBARB, 5);
+  for (let i = 0; i < 4; i++) shape(c, () => ell(c, 462 + (i % 2) * 8, 470 + i * 70, 6, 4, i), COL.yellow, 0);
+  dropShape(c, 530, 740, 12, SAMBARB); dropShape(c, 418, 725, 10, SAMBARB);
   hand(c, hx, hy, an, 1.8);
-  arrow(c, [[640, 470], [640, 590]]);
+  arrow(c, [[290, 500], [290, 650]]);
 }
 // setup.e1.2
 function s_e1_2(c: Ctx) {
@@ -107,36 +115,42 @@ function s_e1_2(c: Ctx) {
 // setup.e1.3
 function s_e1_3(c: Ctx) {
   ground(c);
-  // soaked strip, torn, lifted by tongs
-  strip(c, 290, 535, 230, 150, Math.PI / 2, "soaked");
-  shape(c, () => polyP(c, [[215, 645], [245, 672], [275, 648], [300, 678], [330, 650], [360, 674], [365, 645]]), STAIN, 5);
-  c.save(); c.translate(0, 0); strip(c, 322, 770, 150, 150, Math.PI / 2 + 0.1, "soaked"); c.restore();
-  shape(c, () => polyP(c, [[258, 700], [282, 722], [310, 702], [336, 724], [362, 700], [388, 716], [386, 694]]), STAIN, 5);
-  shape(c, () => ell(c, 292, 640, 40, 13), "rgba(212,128,42,0.45)", 0);
-  [[250, 925, 11], [300, 940, 9], [352, 930, 12]].forEach(([x, y, s]) => dropShape(c, x, y, s, STAIN));
-  const tongs = (dx: number) => { line(c, [[dx - 28, 240], [dx - 6, 440]], 24, INK); line(c, [[dx + 28, 240], [dx + 6, 440]], 24, INK); line(c, [[dx - 28, 240], [dx - 6, 440]], 13, COL.steel); line(c, [[dx + 28, 240], [dx + 6, 440]], 13, COL.steel); };
-  tongs(290);
-  hand(c, 290, 150, Math.PI / 2, 1.7);
-  arrow(c, [[110, 520], [110, 360]]);
-  // dry strip held whole
-  strip(c, 780, 535, 560, 150, Math.PI / 2, "news");
-  hand(c, 780, 150, Math.PI / 2, 1.7, SKIN.adult, CLOTH.adult);
+  // left: the soaked strip is lifted with tongs and tears in two, the lower half falling away dripping
+  strip(c, 290, 450, 240, 150, Math.PI / 2, "soaked");
+  const topTear = [[-75, -2], [-52, 26], [-28, 2], [-6, 28], [18, 2], [40, 26], [62, 4], [75, 18]];
+  c.save(); c.translate(290, 570);
+  shape(c, () => polyP(c, [...topTear, [75, -2]]), STAIN, 0); line(c, topTear, 5); c.restore();
+  strip(c, 330, 765, 190, 150, Math.PI / 2 + 0.3, "soaked");
+  const lowTear = [[-75, 2], [-52, -26], [-30, -4], [-8, -28], [14, -4], [36, -26], [58, -4], [75, -16]];
+  c.save(); c.translate(358, 670); c.rotate(0.3);
+  shape(c, () => polyP(c, [...lowTear, [75, 2]]), STAIN, 0); line(c, lowTear, 5); c.restore();
+  [[270, 890, 12], [330, 925, 10], [255, 985, 9]].forEach(([x, y, s]) => dropShape(c, x, y, s, STAIN));
+  line(c, [[264, 190], [284, 350]], 24, INK); line(c, [[316, 190], [296, 350]], 24, INK);
+  line(c, [[264, 190], [284, 350]], 13, COL.steel); line(c, [[316, 190], [296, 350]], 13, COL.steel);
+  hand(c, 290, 110, Math.PI / 2, 1.5);
+  arrow(c, [[105, 540], [105, 330]]);
+  // right: the dry strip, lifted whole in a grown-up's fingers
+  strip(c, 790, 480, 560, 150, Math.PI / 2, "news");
+  hand(c, 790, 110, Math.PI / 2, 1.5, SKIN.adult, CLOTH.adult);
 }
 // setup.e1.4
 function s_e1_4(c: Ctx) {
   ground(c);
-  // the tap and the stream onto the milk packet strip
+  const star = (x: number, y: number, r: number) => { line(c, [[x - r, y], [x + r, y]], 6, COL.yellow); line(c, [[x, y - r], [x, y + r]], 6, COL.yellow); };
+  // the tap and the stream onto the milk packet piece
   shape(c, () => polyP(c, [[0, 80], [335, 80], [335, 215], [270, 215], [270, 145], [0, 145]]), COL.steel);
   shade(c, () => polyP(c, [[0, 80], [335, 80], [335, 215], [270, 215], [270, 145], [0, 145]]), COL.steelDk, 0, -14, 0.5);
   shape(c, () => rrect(c, 120, 44, 60, 38, 8), COL.blue, 5);
-  shape(c, () => polyP(c, [[272, 222], [332, 222], [326, 440], [278, 440]]), COL.water, 4);
-  shine(c, [[292, 240], [296, 420]], 7);
-  strip(c, 303, 640, 420, 130, Math.PI / 2, "milk");
-  for (const [x, y, s] of [[225, 470, 11], [385, 480, 12], [240, 560, 9], [370, 600, 10]]) dropShape(c, x, y, s);
-  hand(c, 303, 920, -Math.PI / 2, 1.7);
-  // the biscuit-box piece with its orange stain
-  strip(c, 790, 640, 420, 190, Math.PI / 2, "boxstain");
-  hand(c, 790, 920, -Math.PI / 2, 1.7, SKIN.adult, CLOTH.adult);
+  shape(c, () => polyP(c, [[272, 222], [332, 222], [326, 640], [278, 640]]), COL.water, 4);
+  shine(c, [[292, 240], [296, 600]], 7);
+  strip(c, 300, 745, 300, 210, -0.1, "milk");
+  for (const [x, y, s] of [[150, 640, 12], [470, 650, 13], [120, 760, 10], [500, 770, 11]]) dropShape(c, x, y, s);
+  star(445, 700, 22); star(150, 700, 16);
+  hand(c, 300, 935, -Math.PI / 2, 1.8);
+  // the biscuit-box piece: rinsed, it keeps its big orange stain
+  strip(c, 800, 745, 300, 210, 0.1, "boxstain");
+  for (const [x, y, s] of [[650, 790, 12], [955, 770, 11], [980, 860, 9]]) dropShape(c, x, y, s, BOXSTAIN);
+  hand(c, 800, 935, -Math.PI / 2, 1.8, SKIN.adult, CLOTH.adult);
 }
 
 // ---------------------------------------------------------------- experiment 2
@@ -199,15 +213,19 @@ function s_e2_1(c: Ctx) {
 // setup.e2.2
 function s_e2_2(c: Ctx) {
   ground(c);
-  phone(c, 580, 30, 170, 270);
+  phone(c, 800, 30, 170, 270);
   bowls3(c, 850);
+  [[205, 856], [295, 852], [250, 874]].forEach(([x, y]) => tealeaf(c, x, y, 26));
+  // gloved left hand holds the damp paper scrap with tea leaves stuck on it
   const wx = 185, wy = 300, an = 0.25, s = 2;
   const px = wx + Math.cos(an) * 100 * s, py = wy + Math.sin(an) * 100 * s;
   scrap(c, px, py, 105, 0.2);
-  [[-40, -14], [26, 18], [-6, 40], [46, -30]].forEach(([dx, dy]) => tealeaf(c, px + dx, py + dy, 24));
+  [[-40, -14], [26, 18], [-6, 40]].forEach(([dx, dy]) => tealeaf(c, px + dx, py + dy, 26));
   hand(c, wx, wy, an, s, GLOVE, GLOVEDK);
-  tealeaf(c, 262, 860, 22);
-  arrow(c, [[350, 490], [300, 590], [265, 700]]);
+  // gloved right hand picks one leaf off and carries it to the wet bowl
+  hand(c, 640, 285, Math.PI - 0.3, 1.9, GLOVE, GLOVEDK);
+  tealeaf(c, 498, 332, 30);
+  arrow(c, [[470, 395], [400, 520], [320, 640], [285, 730]]);
 }
 
 // ---------------------------------------------------------------- experiment 3
@@ -224,9 +242,18 @@ const dabba = (c: Ctx, x: number, y: number, w: number, h: number) => {
 function s_e3_0(c: Ctx) {
   ground(c);
   dabba(c, 290, 990, 380, 450); dabba(c, 790, 990, 380, 450);
-  shape(c, () => rrect(c, 100, 300, 380, 56, 14), COL.steel); shade(c, () => rrect(c, 100, 300, 380, 56, 14), COL.steelDk, -50, 0, 0.55); shape(c, () => ell(c, 290, 294, 44, 20), COL.steelDk, 5);
-  hand(c, 290, 165, Math.PI / 2, 1.6);
-  arrow(c, [[525, 330], [525, 470]]);
+  // a round steel lid with a knob, held over the left dabba and about to go down on it
+  const lx = 290, ly = 350;
+  shape(c, () => ell(c, lx, ly + 18, 200, 56), COL.steelDk, 6);
+  shape(c, () => rrect(c, lx - 200, ly, 400, 18, 0), COL.steelDk, 0);
+  line(c, [[lx - 200, ly], [lx - 200, ly + 18]], 6); line(c, [[lx + 200, ly], [lx + 200, ly + 18]], 6);
+  shape(c, () => ell(c, lx, ly, 200, 56), COL.steel, 6);
+  shade(c, () => ell(c, lx, ly, 200, 56), COL.steelDk, 40, 14, 0.5);
+  shine(c, [[lx - 150, ly - 8], [lx - 90, ly - 24]], 8);
+  shape(c, () => rrect(c, lx - 30, ly - 80, 60, 78, 16), COL.steel, 6);
+  shade(c, () => rrect(c, lx - 30, ly - 80, 60, 78, 16), COL.steelDk, 18, 0, 0.5);
+  hand(c, lx, 150, Math.PI / 2, 1.6);
+  arrow(c, [[545, 340], [545, 470]]);
 }
 const ant = (c: Ctx, x: number, y: number, s: number) => {
   c.save(); c.translate(x, y); c.scale(s, s);

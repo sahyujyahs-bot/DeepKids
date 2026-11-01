@@ -170,11 +170,18 @@ const e2c1 = (c: Ctx) => {
   ground(c);
   bucket(c);
   c.save(); c.beginPath(); c.arc(BX, BY, BR - 50, 0, Math.PI * 2); c.clip();
-  for (const r of [50, 125, 205, 290, 380, 470]) { c.beginPath(); c.arc(320, 600, r, 0, Math.PI * 2); c.strokeStyle = WHITE; c.lineWidth = 9; c.globalAlpha = 0.85; c.stroke(); c.globalAlpha = 1; }
+  for (const r of [90, 170, 250, 330, 410]) { c.beginPath(); c.arc(320, 600, r, 0, Math.PI * 2); c.strokeStyle = WHITE; c.lineWidth = 9; c.globalAlpha = 0.85; c.stroke(); c.globalAlpha = 1; }
   c.restore();
-  GRAINS.forEach(([x, y, r], i) => { grain(c, x, y - 4, r); line(c, [[x - 52, y + 24 + (i % 2) * 6], [x - 36, y + 34]], 6, WHITE); line(c, [[x + 36, y + 34], [x + 52, y + 24 + (i % 2) * 6]], 6, WHITE); });
+  // each grain rides its own little ring: it bobs on the spot, it does not travel
+  GRAINS.forEach(([x, y, r]) => {
+    c.beginPath(); ell(c, x, y + 4, 66, 44); c.strokeStyle = WHITE; c.lineWidth = 6; c.stroke();
+    grain(c, x, y, r);
+  });
+  // the tap: pencil tip just touching the water at the edge, a splash ring round it, red arrow down
   pencilV(c, 320, 250, 596);
+  shape(c, () => ell(c, 320, 600, 34, 14), WHITE, 5);
   hand(c, 239, 420, 0, 1.4);
+  arrow(c, [[420, 300], [420, 470]], RED, 14);
 };
 
 // setup.e2.2

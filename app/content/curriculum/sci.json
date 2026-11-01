@@ -32,9 +32,7 @@
     "sci.animals.animal-babies.L1",
     "sci.animals.birds.L1"
    ],
-   "chapters": [
-    "C1-1.3"
-   ]
+   "chapters": []
   },
   {
    "id": "sci.basic-needs.L1",
@@ -49,7 +47,9 @@
    "subtopic_levels": [
     "sci.basic-needs.basic-needs.L1"
    ],
-   "chapters": []
+   "chapters": [
+    "C1-5.4"
+   ]
   },
   {
    "id": "sci.body.L1",
@@ -65,7 +65,24 @@
     "sci.body.body-parts.L1"
    ],
    "chapters": [
-    "C1-3.3"
+    "C1-5.1"
+   ]
+  },
+  {
+   "id": "sci.changes.L1",
+   "subject": "sci",
+   "topic": "changes",
+   "name": "Changing materials",
+   "strand": "Matter",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "sci.changes.reversible-and-irreversible.L1"
+   ],
+   "chapters": [
+    "C1-3.4"
    ]
   },
   {
@@ -112,8 +129,7 @@
     "sci.evolution.inheritance.L1"
    ],
    "chapters": [
-    "C1-3.1",
-    "C1-3.2"
+    "C1-5.3"
    ]
   },
   {
@@ -146,7 +162,7 @@
     "sci.food.where-food-comes-from.L1"
    ],
    "chapters": [
-    "C1-1.4"
+    "C1-5.4"
    ]
   },
   {
@@ -165,10 +181,10 @@
     "sci.forces.how-toys-work.L1"
    ],
    "chapters": [
-    "C1-5.1",
-    "C1-5.2",
-    "C1-5.3",
-    "C1-5.4"
+    "C1-6.1",
+    "C1-6.2",
+    "C1-6.5",
+    "C1-6.3"
    ]
   },
   {
@@ -199,9 +215,7 @@
    "subtopic_levels": [
     "sci.habitats.local-environments.L1"
    ],
-   "chapters": [
-    "C1-1.2"
-   ]
+   "chapters": []
   },
   {
    "id": "sci.health.L1",
@@ -268,9 +282,9 @@
     "sci.materials.sorting-materials.L1"
    ],
    "chapters": [
-    "C1-4.1",
-    "C1-4.2",
-    "C1-4.3"
+    "C1-3.1",
+    "C1-3.2",
+    "C1-3.3"
    ]
   },
   {
@@ -287,8 +301,7 @@
     "sci.me-and-others.me-and-others.L1"
    ],
    "chapters": [
-    "C1-3.1",
-    "C1-3.2"
+    "C1-5.3"
    ]
   },
   {
@@ -304,7 +317,9 @@
    "subtopic_levels": [
     "sci.motion.kinds-of-motion.L1"
    ],
-   "chapters": []
+   "chapters": [
+    "C1-6.1"
+   ]
   },
   {
    "id": "sci.patterns-symmetry.L1",
@@ -322,6 +337,27 @@
    "chapters": []
   },
   {
+   "id": "sci.planet-earth.L1",
+   "subject": "sci",
+   "topic": "planet-earth",
+   "name": "Planet Earth",
+   "strand": "Earth and space",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "sci.planet-earth.structure-of-earth.L1",
+    "sci.planet-earth.rocks.L1",
+    "sci.planet-earth.soil-and-crops.L1"
+   ],
+   "chapters": [
+    "C1-4.1",
+    "C1-4.3",
+    "C1-4.4"
+   ]
+  },
+  {
    "id": "sci.plants.L1",
    "subject": "sci",
    "topic": "plants",
@@ -336,8 +372,9 @@
     "sci.plants.what-plants-need.L1"
    ],
    "chapters": [
-    "C1-2.1",
-    "C1-2.3"
+    "C1-1.2",
+    "C1-1.3",
+    "C1-1.4"
    ]
   },
   {
@@ -353,9 +390,7 @@
    "subtopic_levels": [
     "sci.seeds-and-life-cycles.seeds-and-germination.L1"
    ],
-   "chapters": [
-    "C1-2.2"
-   ]
+   "chapters": []
   },
   {
    "id": "sci.senses.L1",
@@ -371,7 +406,7 @@
     "sci.senses.five-senses.L1"
    ],
    "chapters": [
-    "C1-3.4"
+    "C1-5.2"
    ]
   },
   {
@@ -388,7 +423,9 @@
     "sci.sky.sun-moon-stars.L1",
     "sci.sky.stargazing.L1"
    ],
-   "chapters": []
+   "chapters": [
+    "C1-4.2"
+   ]
   },
   {
    "id": "sci.sound.L1",
@@ -406,9 +443,26 @@
     "sci.sound.sound-moves.L1"
    ],
    "chapters": [
-    "C1-6.1",
-    "C1-6.2",
-    "C1-6.3"
+    "C1-2.1",
+    "C1-2.2",
+    "C1-2.3"
+   ]
+  },
+  {
+   "id": "sci.states.L1",
+   "subject": "sci",
+   "topic": "states",
+   "name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "subtopic_levels": [
+    "sci.states.floating-and-sinking.L1"
+   ],
+   "chapters": [
+    "C1-6.4"
    ]
   },
   {
@@ -1053,7 +1107,8 @@
     "sci.animals.invertebrates.L3"
    ],
    "chapters": [
-    "N3-5"
+    "N3-5",
+    "C3-4.2"
    ]
   },
   {
@@ -1093,7 +1148,8 @@
     "sci.body.growing-old.L3"
    ],
    "chapters": [
-    "O3-9"
+    "O3-9",
+    "C3-4.1"
    ]
   },
   {
@@ -1158,8 +1214,7 @@
     "sci.classification.sorting-living-things.L3"
    ],
    "chapters": [
-    "C3-3.4",
-    "C3-3.5"
+    "C3-4.2"
    ]
   },
   {
@@ -1222,7 +1277,8 @@
    "chapters": [
     "N3-5",
     "N3-6",
-    "O3-5"
+    "O3-5",
+    "C3-4.3"
    ]
   },
   {
@@ -1290,9 +1346,12 @@
     3
    ],
    "subtopic_levels": [
-    "sci.evolution.story-of-life.L3"
+    "sci.evolution.story-of-life.L3",
+    "sci.evolution.fossils-and-extinction.L3"
    ],
-   "chapters": []
+   "chapters": [
+    "C3-4.4"
+   ]
   },
   {
    "id": "sci.family.L3",
@@ -1330,10 +1389,7 @@
    ],
    "chapters": [
     "N3-8",
-    "C3-2.1",
-    "O3-8",
-    "C3-2.2",
-    "C3-2.3"
+    "O3-8"
    ]
   },
   {
@@ -1356,11 +1412,8 @@
     "sci.forces.flight.L3"
    ],
    "chapters": [
-    "C3-6.1",
-    "C3-6.2",
-    "C3-6.3",
-    "C3-6.4",
-    "C3-6.5"
+    "C3-5.1",
+    "C3-5.3"
    ]
   },
   {
@@ -1392,7 +1445,9 @@
     "sci.gravity.falling.L3",
     "sci.gravity.weight-and-mass.L3"
    ],
-   "chapters": []
+   "chapters": [
+    "C3-5.2"
+   ]
   },
   {
    "id": "sci.habitats.L3",
@@ -1430,8 +1485,7 @@
    ],
    "chapters": [
     "N3-9",
-    "O3-9",
-    "C3-2.4"
+    "O3-9"
    ]
   },
   {
@@ -1483,6 +1537,7 @@
    ],
    "subtopic_levels": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.reflection.L3",
     "sci.light.colour.L3",
@@ -1490,7 +1545,12 @@
     "sci.light.refraction.L3",
     "sci.light.living-light.L3"
    ],
-   "chapters": []
+   "chapters": [
+    "C3-3.1",
+    "C3-3.2",
+    "C3-3.3",
+    "C3-3.4"
+   ]
   },
   {
    "id": "sci.magnets.L3",
@@ -1507,6 +1567,7 @@
     "sci.magnets.poles.L3"
    ],
    "chapters": [
+    "C3-5.4",
     "C3-5.5"
    ]
   },
@@ -1550,10 +1611,6 @@
    ],
    "chapters": [
     "N3-10",
-    "C3-5.1",
-    "C3-5.2",
-    "C3-5.3",
-    "C3-5.4",
     "C3-5.5"
    ]
   },
@@ -1687,11 +1744,10 @@
     "sci.plants.plant-variety.L3"
    ],
    "chapters": [
-    "C3-1.1",
     "N3-4",
     "C3-1.2",
-    "C3-1.4",
-    "C3-1.3"
+    "C3-1.3",
+    "C3-1.4"
    ]
   },
   {
@@ -1725,11 +1781,7 @@
     "sci.senses.more-senses.L3",
     "sci.senses.perception.L3"
    ],
-   "chapters": [
-    "C3-4.1",
-    "C3-4.2",
-    "C3-4.3"
-   ]
+   "chapters": []
   },
   {
    "id": "sci.sky.L3",
@@ -1753,7 +1805,10 @@
     "sci.sky.life-beyond-earth.L3"
    ],
    "chapters": [
-    "O3-6"
+    "O3-6",
+    "C3-6.1",
+    "C3-6.2",
+    "C3-6.3"
    ]
   },
   {
@@ -1784,13 +1839,21 @@
     3
    ],
    "subtopic_levels": [
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.particles.L3",
     "sci.states.evaporation-and-condensation.L3",
     "sci.states.dissolving.L3",
+    "sci.states.separating-mixtures.L3",
     "sci.states.crystals.L3",
     "sci.states.liquids-up-close.L3"
    ],
-   "chapters": []
+   "chapters": [
+    "C3-2.1",
+    "C3-2.3",
+    "C3-2.2",
+    "C3-2.4",
+    "C3-2.5"
+   ]
   },
   {
    "id": "sci.story-of-universe.L3",
@@ -1860,7 +1923,8 @@
    ],
    "chapters": [
     "N3-7",
-    "O3-5"
+    "O3-5",
+    "C3-2.4"
    ]
   },
   {
@@ -1896,10 +1960,8 @@
     "sci.what-is-life.cells.L3"
    ],
    "chapters": [
-    "C3-3.1",
-    "C3-3.2",
-    "C3-3.3",
-    "O3-4"
+    "O3-4",
+    "C3-1.1"
    ]
   },
   {
@@ -3822,10 +3884,8 @@
    ],
    "covers": "Life processes named (nutrition, growth, movement, reproduction, sensing, respiration, excretion); testing each on a seed, a cloud, a car.",
    "chapters": [
-    "C3-3.1",
-    "C3-3.2",
-    "C3-3.3",
-    "O3-4"
+    "O3-4",
+    "C3-1.1"
    ],
    "verify": [],
    "prerequisites": [
@@ -3848,10 +3908,8 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 3.1 Living and non-living",
-    "Cambridge Stage 3 3.2 Growth and nutrition",
-    "Cambridge Stage 3 3.3 Movement and reproduction",
-    "NIOS Level A Lesson 4 The Environment"
+    "NIOS Level A Lesson 4 The Environment",
+    "Cambridge Stage 3 1.1 Alive or not alive?"
    ]
   },
   {
@@ -4255,7 +4313,7 @@
    ],
    "covers": "Roots, stem, leaves, flowers, fruits and seeds; what each part does for the plant.",
    "chapters": [
-    "C1-2.1"
+    "C1-1.2"
    ],
    "verify": [],
    "prerequisites": [],
@@ -4272,7 +4330,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 2.1 Plant parts"
+    "Cambridge Stage 1 1.2 Parts of a plant"
    ]
   },
   {
@@ -4324,8 +4382,8 @@
    ],
    "covers": "How each part's shape suits its job; roots that store food, stems that climb, leaves that catch light.",
    "chapters": [
-    "C3-1.1",
-    "N3-4"
+    "N3-4",
+    "C3-1.2"
    ],
    "verify": [],
    "prerequisites": [
@@ -4346,8 +4404,8 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 1.1 Plants and their parts",
-    "NCERT Class 3 Ch 4 Getting to Know Plants"
+    "NCERT Class 3 Ch 4 Getting to Know Plants",
+    "Cambridge Stage 3 1.2 Plant parts"
    ]
   },
   {
@@ -4365,7 +4423,8 @@
    ],
    "covers": "Plants need light and water; watching a plant in the dark and one in the light.",
    "chapters": [
-    "C1-2.3"
+    "C1-1.3",
+    "C1-1.4"
    ],
    "verify": [],
    "prerequisites": [
@@ -4395,7 +4454,8 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 2.3 Plants and light"
+    "Cambridge Stage 1 1.3 Plants and light",
+    "Cambridge Stage 1 1.4 Plants need water"
    ]
   },
   {
@@ -4459,7 +4519,7 @@
    ],
    "covers": "Fair tests of light, water and temperature on plant growth; measuring and recording growth.",
    "chapters": [
-    "C3-1.2",
+    "C3-1.3",
     "C3-1.4"
    ],
    "verify": [],
@@ -4493,8 +4553,8 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 1.2 Plants need light and water",
-    "Cambridge Stage 3 1.4 Plant growth and temperature"
+    "Cambridge Stage 3 1.3 Plants and light",
+    "Cambridge Stage 3 1.4 Plants need water and the right temperature"
    ]
   },
   {
@@ -4512,7 +4572,7 @@
    ],
    "covers": "Water goes up from roots through the stem to the leaves; the coloured-water celery experiment.",
    "chapters": [
-    "C3-1.3"
+    "C3-1.4"
    ],
    "verify": [],
    "prerequisites": [
@@ -4535,7 +4595,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 1.3 Transporting water"
+    "Cambridge Stage 3 1.4 Plants need water and the right temperature"
    ]
   },
   {
@@ -5007,9 +5067,7 @@
     1
    ],
    "covers": "Seeds grow into new plants; planting and watching seeds sprout.",
-   "chapters": [
-    "C1-2.2"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.plants.what-plants-need.L1"
@@ -5035,9 +5093,7 @@
    ],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 1 2.2 Growing seeds"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.seeds-and-life-cycles.seeds-and-germination.L3",
@@ -5502,9 +5558,7 @@
     1
    ],
    "covers": "Animals have young; baby animals and their parents; some look like their parents, some don't.",
-   "chapters": [
-    "C1-1.3"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -5520,9 +5574,7 @@
    "maths": [],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 1 1.3 Animal babies"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.animals.animal-babies.L2",
@@ -5577,7 +5629,9 @@
     3
    ],
    "covers": "Life cycles of a frog, butterfly and hen; metamorphosis: a body that rebuilds itself.",
-   "chapters": [],
+   "chapters": [
+    "C3-4.2"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.animals.animal-babies.L2"
@@ -5597,8 +5651,10 @@
    "notebook": [
     "bio:277"
    ],
-   "source": "notes",
-   "chapter_refs": []
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 4.2 Animal groups and different life cycles"
+   ]
   },
   {
    "id": "sci.animals.animal-life-cycles.L4",
@@ -5635,7 +5691,7 @@
    "notebook": [
     "bio:277"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -5671,7 +5727,7 @@
    "notebook": [
     "bio:277"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -6043,7 +6099,7 @@
     "bio:31",
     "bio:178"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -6060,7 +6116,9 @@
     3
    ],
    "covers": "How each group breathes, keeps warm or cool, and has young.",
-   "chapters": [],
+   "chapters": [
+    "C3-4.2"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.animals.vertebrate-groups.L2",
@@ -6085,8 +6143,10 @@
     "bio:31",
     "bio:178"
    ],
-   "source": "notes",
-   "chapter_refs": []
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 4.2 Animal groups and different life cycles"
+   ]
   },
   {
    "id": "sci.animals.vertebrate-groups.L5",
@@ -6125,7 +6185,7 @@
     "bio:31",
     "bio:178"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -6452,8 +6512,7 @@
    ],
    "covers": "Sorting humans and other living things in more than one way; there is no single right way to sort.",
    "chapters": [
-    "C3-3.4",
-    "C3-3.5"
+    "C3-4.2"
    ],
    "verify": [],
    "prerequisites": [
@@ -6476,8 +6535,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 3.4 Sorting humans",
-    "Cambridge Stage 3 3.5 Sorting living things"
+    "Cambridge Stage 3 4.2 Animal groups and different life cycles"
    ]
   },
   {
@@ -6614,9 +6672,7 @@
     1
    ],
    "covers": "Places near home where plants and animals live: park, pond, tree, under a stone.",
-   "chapters": [
-    "C1-1.2"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -6625,10 +6681,8 @@
    "go_wide": [],
    "maths": [],
    "notebook": [],
-   "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 1 1.2 Local environments"
-   ]
+   "source": "dk",
+   "chapter_refs": []
   },
   {
    "id": "sci.habitats.habitats.L2",
@@ -7318,7 +7372,8 @@
    ],
    "covers": "Who eats whom: simple food chains starting with plants.",
    "chapters": [
-    "O3-5"
+    "O3-5",
+    "C3-4.3"
    ],
    "verify": [],
    "prerequisites": [
@@ -7341,7 +7396,8 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "NIOS Level A Lesson 5 Conservation of Environment"
+    "NIOS Level A Lesson 5 Conservation of Environment",
+    "Cambridge Stage 3 4.3 Food chains"
    ]
   },
   {
@@ -7866,8 +7922,7 @@
    ],
    "covers": "We are similar and we are different; how children look like their parents.",
    "chapters": [
-    "C1-3.1",
-    "C1-3.2"
+    "C1-5.3"
    ],
    "verify": [],
    "prerequisites": [],
@@ -7885,8 +7940,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 3.1 We are similar",
-    "Cambridge Stage 1 3.2 We are different"
+    "Cambridge Stage 1 5.3 Similar and different"
    ]
   },
   {
@@ -8081,7 +8135,9 @@
     "sci.evolution.story-of-life.L4",
     "sci.evolution.natural-selection.L4"
    ],
-   "go_wide": [],
+   "go_wide": [
+    "sci.evolution.fossils-and-extinction.L3"
+   ],
    "maths": [
     {
      "id": "math.number-sense.big-numbers.L4",
@@ -8228,7 +8284,7 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
-    "sci.evolution.fossils-and-extinction.L4",
+    "sci.evolution.fossils-and-extinction.L3",
     "sci.evolution.natural-selection.L4"
    ],
    "go_wide": [
@@ -8246,8 +8302,51 @@
     "bio:295",
     "bio:296"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
+  },
+  {
+   "id": "sci.evolution.fossils-and-extinction.L3",
+   "subject": "sci",
+   "topic": "evolution",
+   "topic_name": "Evolution: the story of life",
+   "strand": "Life",
+   "topic_level": "sci.evolution.L3",
+   "subtopic": "fossils-and-extinction",
+   "name": "Fossils, dinosaurs and extinction",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Fossils are the remains or traces of living things from long ago, kept in rock; what fossils tell us about the past.",
+   "chapters": [
+    "C3-4.4"
+   ],
+   "verify": [],
+   "prerequisites": [
+    "sci.evolution.fossils-and-extinction.L2"
+   ],
+   "go_deep": [
+    "sci.evolution.fossils-and-extinction.L4",
+    "sci.evolution.natural-selection.L4"
+   ],
+   "go_wide": [
+    "sci.evolution.story-of-life.L3",
+    "sci.planet-earth.rocks.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:51",
+    "bio:292",
+    "bio:293",
+    "bio:294",
+    "bio:295",
+    "bio:296"
+   ],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 4.4 Fossils"
+   ]
   },
   {
    "id": "sci.evolution.fossils-and-extinction.L4",
@@ -8266,7 +8365,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.evolution.fossils-and-extinction.L2"
+    "sci.evolution.fossils-and-extinction.L3"
    ],
    "go_deep": [
     "sci.evolution.fossils-and-extinction.L5",
@@ -8289,7 +8388,7 @@
     "bio:295",
     "bio:296"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -8333,7 +8432,7 @@
     "bio:295",
     "bio:296"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -9135,7 +9234,7 @@
    ],
    "covers": "Naming body parts; what each part helps us do; our bodies are similar and different.",
    "chapters": [
-    "C1-3.3"
+    "C1-5.1"
    ],
    "verify": [],
    "prerequisites": [],
@@ -9150,7 +9249,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 3.3 Our bodies"
+    "Cambridge Stage 1 5.1 Our bodies"
    ]
   },
   {
@@ -9431,7 +9530,9 @@
     3
    ],
    "covers": "Heart, lungs, stomach and brain: where they are and what they do.",
-   "chapters": [],
+   "chapters": [
+    "C3-4.1"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.body.body-parts.L3"
@@ -9459,7 +9560,9 @@
     "bio:27"
    ],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 3 4.1 Human organs"
+   ]
   },
   {
    "id": "sci.body.organs-inside.L4",
@@ -10431,7 +10534,7 @@
    ],
    "covers": "Seeing, hearing, smelling, tasting and touching; the sense organs.",
    "chapters": [
-    "C1-3.4"
+    "C1-5.2"
    ],
    "verify": [],
    "prerequisites": [],
@@ -10451,7 +10554,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 3.4 Our fantastic senses"
+    "Cambridge Stage 1 5.2 Our amazing senses"
    ]
   },
   {
@@ -10468,11 +10571,7 @@
     3
    ],
    "covers": "Hearing and touch, taste and smell, sight: how each sense works; senses working together.",
-   "chapters": [
-    "C3-4.1",
-    "C3-4.2",
-    "C3-4.3"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.senses.five-senses.L1"
@@ -10493,11 +10592,7 @@
     "bio:87"
    ],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 3 4.1 Hearing and touch",
-    "Cambridge Stage 3 4.2 Taste and smell",
-    "Cambridge Stage 3 4.3 Sight"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.senses.more-senses.L3",
@@ -10640,7 +10735,7 @@
    ],
    "covers": "Food and drink keep us healthy; foods we like; drinking water.",
    "chapters": [
-    "C1-1.4"
+    "C1-5.4"
    ],
    "verify": [],
    "prerequisites": [],
@@ -10655,7 +10750,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 1.4 Healthy food and drink"
+    "Cambridge Stage 1 5.4 Staying alive"
    ]
   },
   {
@@ -10705,7 +10800,7 @@
    "prerequisites": [],
    "go_deep": [
     "sci.food.where-food-comes-from.L3",
-    "sci.planet-earth.soil-and-crops.L3"
+    "sci.planet-earth.soil-and-crops.L1"
    ],
    "go_wide": [
     "sci.food.healthy-food.L1",
@@ -10805,7 +10900,6 @@
    ],
    "covers": "Food groups; carbohydrates, proteins, fats, vitamins, minerals and water in simple words.",
    "chapters": [
-    "C3-2.1",
     "O3-8"
    ],
    "verify": [],
@@ -10836,7 +10930,6 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 2.1 Food groups",
     "NIOS Level A Lesson 8 Food"
    ]
   },
@@ -10902,10 +10995,7 @@
     3
    ],
    "covers": "A healthy diet and an unhealthy diet; making a balanced plate.",
-   "chapters": [
-    "C3-2.2",
-    "C3-2.3"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.food.nutrients.L3"
@@ -10936,10 +11026,7 @@
    ],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 3 2.2 A healthy diet",
-    "Cambridge Stage 3 2.3 An unhealthy diet"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.food.balanced-diet.L4",
@@ -11236,7 +11323,6 @@
    ],
    "covers": "Exercise and sleep; regular exercise and yoga.",
    "chapters": [
-    "C3-2.4",
     "N3-9"
    ],
    "verify": [],
@@ -11263,7 +11349,6 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 2.4 Exercise and sleep",
     "NCERT Class 3 Ch 9 Staying Healthy and Happy"
    ]
   },
@@ -12274,8 +12359,7 @@
    ],
    "covers": "Who am I? What I like; we are all similar and different; being kind.",
    "chapters": [
-    "C1-3.1",
-    "C1-3.2"
+    "C1-5.3"
    ],
    "verify": [],
    "prerequisites": [],
@@ -12291,8 +12375,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 3.1 We are similar",
-    "Cambridge Stage 1 3.2 We are different"
+    "Cambridge Stage 1 5.3 Similar and different"
    ]
   },
   {
@@ -12415,7 +12498,7 @@
    ],
    "covers": "Wood, metal, plastic, glass, fabric, paper; naming the material of everyday things.",
    "chapters": [
-    "C1-4.1"
+    "C1-3.1"
    ],
    "verify": [],
    "prerequisites": [],
@@ -12433,7 +12516,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 4.1 What is it made of?"
+    "Cambridge Stage 1 3.1 Different materials"
    ]
   },
   {
@@ -12489,7 +12572,9 @@
     1
    ],
    "covers": "Hard, soft, rough, smooth, bendy, stiff, shiny, dull.",
-   "chapters": [],
+   "chapters": [
+    "C1-3.2"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.materials.what-is-it-made-of.L1"
@@ -12519,7 +12604,9 @@
     "chem:155"
    ],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 1 3.2 Properties of materials"
+   ]
   },
   {
    "id": "sci.materials.properties.L2",
@@ -12587,8 +12674,6 @@
    ],
    "covers": "Properties of materials compared and measured; sorting materials by properties.",
    "chapters": [
-    "C3-5.1",
-    "C3-5.2",
     "N3-10"
    ],
    "verify": [],
@@ -12598,7 +12683,7 @@
    ],
    "go_deep": [
     "sci.materials.testing-materials.L3",
-    "sci.states.solids-liquids-gases.L4"
+    "sci.states.solids-liquids-gases.L3"
    ],
    "go_wide": [
     "sci.materials.what-is-it-made-of.L3",
@@ -12623,8 +12708,6 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 5.1 Properties of materials",
-    "Cambridge Stage 3 5.2 Sorting materials",
     "NCERT Class 3 Ch 10 This World of Things"
    ]
   },
@@ -12678,9 +12761,7 @@
     1
    ],
    "covers": "Using materials: why a spoon is metal and a raincoat is plastic.",
-   "chapters": [
-    "C1-4.2"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.materials.properties.L1"
@@ -12697,9 +12778,7 @@
    "maths": [],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 1 4.2 Using materials"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.using-materials.L2",
@@ -12753,9 +12832,7 @@
     3
    ],
    "covers": "Uses of materials linked to properties.",
-   "chapters": [
-    "C3-5.3"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.materials.using-materials.L2",
@@ -12774,9 +12851,7 @@
    "maths": [],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 3 5.3 Uses of materials"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.sorting-materials.L1",
@@ -12793,7 +12868,7 @@
    ],
    "covers": "Sorting materials into groups.",
    "chapters": [
-    "C1-4.3"
+    "C1-3.3"
    ],
    "verify": [],
    "prerequisites": [],
@@ -12823,7 +12898,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 4.3 Sorting materials"
+    "Cambridge Stage 1 3.3 Sorting materials"
    ]
   },
   {
@@ -12840,9 +12915,7 @@
     3
    ],
    "covers": "Sorting materials in more than one way.",
-   "chapters": [
-    "C3-5.2"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.materials.sorting-materials.L1"
@@ -12872,9 +12945,7 @@
    ],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 3 5.2 Sorting materials"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.testing-materials.L2",
@@ -12940,9 +13011,7 @@
     3
    ],
    "covers": "Fair tests on materials; recording results in a table.",
-   "chapters": [
-    "C3-5.4"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.materials.testing-materials.L2",
@@ -12973,9 +13042,7 @@
    ],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 3 5.4 Testing materials"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.magnetic-materials.L3",
@@ -13035,7 +13102,7 @@
     "sci.materials.properties.L2"
    ],
    "go_deep": [
-    "sci.states.solids-liquids-gases.L4",
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.particles.L3",
     "sci.states.melting-and-solidifying.L2"
    ],
@@ -13051,6 +13118,52 @@
    ],
    "source": "boards",
    "chapter_refs": []
+  },
+  {
+   "id": "sci.states.solids-liquids-gases.L3",
+   "subject": "sci",
+   "topic": "states",
+   "topic_name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "topic_level": "sci.states.L3",
+   "subtopic": "solids-liquids-gases",
+   "name": "Solids, liquids and gases",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Solids keep their shape, liquids flow and take the shape of their container, gases spread out to fill a space; sorting materials into the three.",
+   "chapters": [
+    "C3-2.1"
+   ],
+   "verify": [],
+   "prerequisites": [
+    "sci.states.solids-liquids-gases.L2",
+    "sci.materials.properties.L3"
+   ],
+   "go_deep": [
+    "sci.states.solids-liquids-gases.L4",
+    "sci.states.particles.L3",
+    "sci.states.melting-and-solidifying.L4"
+   ],
+   "go_wide": [
+    "sci.states.particles.L3",
+    "sci.states.evaporation-and-condensation.L3",
+    "sci.states.dissolving.L3",
+    "sci.states.separating-mixtures.L3",
+    "sci.states.crystals.L3",
+    "sci.states.liquids-up-close.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:14",
+    "phy:100",
+    "phy:104"
+   ],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 2.1 Solids, liquids and gases"
+   ]
   },
   {
    "id": "sci.states.solids-liquids-gases.L4",
@@ -13071,7 +13184,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.states.solids-liquids-gases.L2",
+    "sci.states.solids-liquids-gases.L3",
     "sci.materials.properties.L3"
    ],
    "go_deep": [
@@ -13165,15 +13278,17 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.states.solids-liquids-gases.L2"
+    "sci.states.solids-liquids-gases.L3"
    ],
    "go_deep": [
     "sci.states.particles.L4",
     "sci.the-very-small.atoms.L3"
    ],
    "go_wide": [
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.evaporation-and-condensation.L3",
     "sci.states.dissolving.L3",
+    "sci.states.separating-mixtures.L3",
     "sci.states.crystals.L3",
     "sci.states.liquids-up-close.L3"
    ],
@@ -13377,14 +13492,16 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.states.solids-liquids-gases.L2"
+    "sci.states.solids-liquids-gases.L3"
    ],
    "go_deep": [
     "sci.states.evaporation-and-condensation.L5"
    ],
    "go_wide": [
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.particles.L3",
     "sci.states.dissolving.L3",
+    "sci.states.separating-mixtures.L3",
     "sci.states.crystals.L3",
     "sci.states.liquids-up-close.L3",
     "sci.water.water-cycle.L3"
@@ -13531,7 +13648,9 @@
     3
    ],
    "covers": "Some things dissolve in water, some don't; making lemonade.",
-   "chapters": [],
+   "chapters": [
+    "C3-2.3"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.states.particles.L3"
@@ -13540,8 +13659,10 @@
     "sci.states.dissolving.L5"
    ],
    "go_wide": [
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.particles.L3",
     "sci.states.evaporation-and-condensation.L3",
+    "sci.states.separating-mixtures.L3",
     "sci.states.crystals.L3",
     "sci.states.liquids-up-close.L3"
    ],
@@ -13556,7 +13677,9 @@
    ],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 3 2.3 Dissolving"
+   ]
   },
   {
    "id": "sci.states.dissolving.L5",
@@ -13611,6 +13734,97 @@
    ]
   },
   {
+   "id": "sci.states.separating-mixtures.L3",
+   "subject": "sci",
+   "topic": "states",
+   "topic_name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "topic_level": "sci.states.L3",
+   "subtopic": "separating-mixtures",
+   "name": "Mixing and separating",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "Separating mixtures by picking out, sieving, filtering, using a magnet or letting water evaporate; getting useful materials out of rocks.",
+   "chapters": [
+    "C3-2.2",
+    "C3-2.4",
+    "C3-2.5"
+   ],
+   "verify": [],
+   "prerequisites": [
+    "sci.states.dissolving.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.states.solids-liquids-gases.L3",
+    "sci.states.particles.L3",
+    "sci.states.evaporation-and-condensation.L3",
+    "sci.states.dissolving.L3",
+    "sci.states.crystals.L3",
+    "sci.states.liquids-up-close.L3",
+    "sci.water.saving-water.L3",
+    "sci.planet-earth.rocks.L4"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 2.2 Separating mixtures",
+    "Cambridge Stage 3 2.4 Filtering",
+    "Cambridge Stage 3 2.5 Separating materials from rocks"
+   ]
+  },
+  {
+   "id": "sci.states.floating-and-sinking.L1",
+   "subject": "sci",
+   "topic": "states",
+   "topic_name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "topic_level": "sci.states.L1",
+   "subtopic": "floating-and-sinking",
+   "name": "Floating, sinking and density",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Some things float and some sink; testing things in a bowl of water.",
+   "chapters": [
+    "C1-6.4"
+   ],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "sci.states.floating-and-sinking.L2"
+   ],
+   "go_wide": [
+    "sci.forces.air-water-resistance.L4"
+   ],
+   "maths": [
+    {
+     "id": "math.weight-capacity.weight.L1",
+     "chapters": [
+      "C1-Gg"
+     ]
+    },
+    {
+     "id": "math.data.sorting-and-tallies.L1",
+     "chapters": [
+      "N1-13",
+      "C1-Ss"
+     ]
+    }
+   ],
+   "notebook": [
+    "chem:156"
+   ],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 1 6.4 Floating and sinking"
+   ]
+  },
+  {
    "id": "sci.states.floating-and-sinking.L2",
    "subject": "sci",
    "topic": "states",
@@ -13626,7 +13840,9 @@
    "covers": "What floats and what sinks; guessing before testing.",
    "chapters": [],
    "verify": [],
-   "prerequisites": [],
+   "prerequisites": [
+    "sci.states.floating-and-sinking.L1"
+   ],
    "go_deep": [
     "sci.states.floating-and-sinking.L4"
    ],
@@ -13786,15 +14002,17 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.states.solids-liquids-gases.L2"
+    "sci.states.solids-liquids-gases.L3"
    ],
    "go_deep": [
     "sci.states.crystals.L5"
    ],
    "go_wide": [
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.particles.L3",
     "sci.states.evaporation-and-condensation.L3",
     "sci.states.dissolving.L3",
+    "sci.states.separating-mixtures.L3",
     "sci.states.liquids-up-close.L3",
     "sci.patterns-symmetry.symmetry-in-nature.L3"
    ],
@@ -13875,15 +14093,17 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.states.solids-liquids-gases.L2"
+    "sci.states.solids-liquids-gases.L3"
    ],
    "go_deep": [
     "sci.states.liquids-up-close.L5"
    ],
    "go_wide": [
+    "sci.states.solids-liquids-gases.L3",
     "sci.states.particles.L3",
     "sci.states.evaporation-and-condensation.L3",
     "sci.states.dissolving.L3",
+    "sci.states.separating-mixtures.L3",
     "sci.states.crystals.L3"
    ],
    "maths": [
@@ -14269,6 +14489,39 @@
    "chapter_refs": []
   },
   {
+   "id": "sci.changes.reversible-and-irreversible.L1",
+   "subject": "sci",
+   "topic": "changes",
+   "topic_name": "Changing materials",
+   "strand": "Matter",
+   "topic_level": "sci.changes.L1",
+   "subtopic": "reversible-and-irreversible",
+   "name": "Changes we can and can't undo",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Things change when we bend, squash, twist, stretch, heat or cool them; some changes can be undone and some can't.",
+   "chapters": [
+    "C1-3.4"
+   ],
+   "verify": [],
+   "prerequisites": [
+    "sci.materials.properties.L1"
+   ],
+   "go_deep": [
+    "sci.changes.reversible-and-irreversible.L2",
+    "sci.changes.chemical-reactions.L4"
+   ],
+   "go_wide": [],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 1 3.4 Changing materials"
+   ]
+  },
+  {
    "id": "sci.changes.reversible-and-irreversible.L2",
    "subject": "sci",
    "topic": "changes",
@@ -14287,6 +14540,7 @@
    ],
    "verify": [],
    "prerequisites": [
+    "sci.changes.reversible-and-irreversible.L1",
     "sci.materials.properties.L2"
    ],
    "go_deep": [
@@ -15134,9 +15388,9 @@
    ],
    "covers": "In the playground and with toys: pushes and pulls make things move; pushes and pulls around us.",
    "chapters": [
-    "C1-5.1",
-    "C1-5.2",
-    "C1-5.3"
+    "C1-6.1",
+    "C1-6.2",
+    "C1-6.5"
    ],
    "verify": [],
    "prerequisites": [],
@@ -15157,9 +15411,9 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 5.1 In the playground",
-    "Cambridge Stage 1 5.2 How toys work",
-    "Cambridge Stage 1 5.3 Pushes and pulls around us"
+    "Cambridge Stage 1 6.1 Moving things",
+    "Cambridge Stage 1 6.2 Push and pull forces",
+    "Cambridge Stage 1 6.5 Magnets can pull"
    ]
   },
   {
@@ -15217,7 +15471,7 @@
    ],
    "covers": "Push and pull in more detail; forces act in a direction; arrows to show forces.",
    "chapters": [
-    "C3-6.1"
+    "C3-5.1"
    ],
    "verify": [],
    "prerequisites": [
@@ -15243,7 +15497,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 6.1 Push and pull"
+    "Cambridge Stage 3 5.1 Forces and forcemeters"
    ]
   },
   {
@@ -15261,7 +15515,7 @@
    ],
    "covers": "Changing movement: start, stop, faster, slower.",
    "chapters": [
-    "C1-5.4"
+    "C1-6.3"
    ],
    "verify": [],
    "prerequisites": [
@@ -15280,7 +15534,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 5.4 Changing movement"
+    "Cambridge Stage 1 6.3 Making things move"
    ]
   },
   {
@@ -15338,9 +15592,7 @@
     3
    ],
    "covers": "Changing shape with forces; squashing, stretching, twisting.",
-   "chapters": [
-    "C3-6.2"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [
     "sci.forces.changing-motion.L2",
@@ -15361,9 +15613,7 @@
    "maths": [],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": [
-    "Cambridge Stage 3 6.2 Changing shape"
-   ]
+   "chapter_refs": []
   },
   {
    "id": "sci.forces.measuring-forces.L3",
@@ -15380,8 +15630,7 @@
    ],
    "covers": "How big is that force? Measuring forces with a forcemeter in newtons.",
    "chapters": [
-    "C3-6.3",
-    "C3-6.4"
+    "C3-5.1"
    ],
    "verify": [],
    "prerequisites": [
@@ -15415,8 +15664,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 6.3 How big is that force?",
-    "Cambridge Stage 3 6.4 Forcemeters"
+    "Cambridge Stage 3 5.1 Forces and forcemeters"
    ]
   },
   {
@@ -15434,7 +15682,7 @@
    ],
    "covers": "Friction slows things down; rough and smooth surfaces; testing shoes and slopes.",
    "chapters": [
-    "C3-6.5"
+    "C3-5.3"
    ],
    "verify": [],
    "prerequisites": [
@@ -15472,7 +15720,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 3 6.5 Friction"
+    "Cambridge Stage 3 5.3 Friction"
    ]
   },
   {
@@ -16028,7 +16276,7 @@
    ],
    "covers": "How toys work: wind-up, roll, bounce, spin.",
    "chapters": [
-    "C1-5.2"
+    "C1-6.3"
    ],
    "verify": [],
    "prerequisites": [
@@ -16046,7 +16294,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 5.2 How toys work"
+    "Cambridge Stage 1 6.3 Making things move"
    ]
   },
   {
@@ -16559,7 +16807,7 @@
    "go_wide": [],
    "maths": [],
    "notebook": [],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -16576,7 +16824,9 @@
     3
    ],
    "covers": "Gravity pulls everything towards the Earth; heavy and light things fall together (without air); Galileo's question.",
-   "chapters": [],
+   "chapters": [
+    "C3-5.2"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.gravity.falling.L1",
@@ -16590,8 +16840,10 @@
    ],
    "maths": [],
    "notebook": [],
-   "source": "notes",
-   "chapter_refs": []
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 5.2 Gravity"
+   ]
   },
   {
    "id": "sci.gravity.weight-and-mass.L3",
@@ -16607,7 +16859,9 @@
     3
    ],
    "covers": "Weight is the pull of gravity; measuring weight with a forcemeter.",
-   "chapters": [],
+   "chapters": [
+    "C3-5.2"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.gravity.falling.L3",
@@ -16639,7 +16893,9 @@
     "phy:102"
    ],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 3 5.2 Gravity"
+   ]
   },
   {
    "id": "sci.gravity.weight-and-mass.L5",
@@ -16817,7 +17073,9 @@
     1
    ],
    "covers": "Rolling, sliding, spinning, swinging, bouncing.",
-   "chapters": [],
+   "chapters": [
+    "C1-6.1"
+   ],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -16832,8 +17090,10 @@
     "phy:185",
     "phy:190"
    ],
-   "source": "notes",
-   "chapter_refs": []
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 1 6.1 Moving things"
+   ]
   },
   {
    "id": "sci.motion.kinds-of-motion.L2",
@@ -16866,7 +17126,7 @@
     "phy:185",
     "phy:190"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -18797,16 +19057,7 @@
     3
    ],
    "covers": "Where we use electricity; mains and cells; keeping safe; a complete loop (cell, wires, bulb, switch); conductors and insulators; why a gap stops it",
-   "chapters": [
-    "C2-6.1",
-    "C2-6.2",
-    "C2-6.3",
-    "C4-6.1",
-    "C4-6.2",
-    "C4-6.3",
-    "C4-6.4",
-    "C4-6.5"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -18825,7 +19076,7 @@
     "phy:227",
     "phy:228"
    ],
-   "source": "boards",
+   "source": "notes",
    "chapter_refs": []
   },
   {
@@ -18849,6 +19100,7 @@
     "sci.electricity.static-and-charge.L5"
    ],
    "go_wide": [
+    "sci.electricity.simple-circuits.L3",
     "sci.magnets.poles.L3"
    ],
    "maths": [],
@@ -19037,6 +19289,7 @@
    ],
    "covers": "Magnets attract some metals (iron, steel, nickel).",
    "chapters": [
+    "C3-5.4",
     "C3-5.5"
    ],
    "verify": [],
@@ -19056,6 +19309,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
+    "Cambridge Stage 3 5.4 Amazing magnets",
     "Cambridge Stage 3 5.5 Magnetic materials"
    ]
   },
@@ -19113,7 +19367,9 @@
     3
    ],
    "covers": "North and south poles; attract and repel.",
-   "chapters": [],
+   "chapters": [
+    "C3-5.4"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.magnets.magnets-and-materials.L3"
@@ -19139,7 +19395,9 @@
     "phy:234"
    ],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 3 5.4 Amazing magnets"
+   ]
   },
   {
    "id": "sci.magnets.poles.L5",
@@ -19516,6 +19774,7 @@
     "sci.light.reflection.L3"
    ],
    "go_wide": [
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.reflection.L3",
     "sci.light.colour.L3",
@@ -19596,7 +19855,7 @@
     "sci.light.light-sources.L2"
    ],
    "go_deep": [
-    "sci.light.shadows.L4"
+    "sci.light.shadows.L3"
    ],
    "go_wide": [
     "sci.light.light-sources.L2",
@@ -19629,6 +19888,70 @@
    "chapter_refs": []
   },
   {
+   "id": "sci.light.shadows.L3",
+   "subject": "sci",
+   "topic": "light",
+   "topic_name": "Light, seeing and shadows",
+   "strand": "Physics",
+   "topic_level": "sci.light.L3",
+   "subtopic": "shadows",
+   "name": "Shadows",
+   "level": 3,
+   "classes": [
+    3
+   ],
+   "covers": "A shadow forms when an opaque object blocks light; shadows change size and shape as the light or the object moves.",
+   "chapters": [
+    "C3-3.1",
+    "C3-3.2"
+   ],
+   "verify": [],
+   "prerequisites": [
+    "sci.light.shadows.L2",
+    "sci.light.light-sources.L2"
+   ],
+   "go_deep": [
+    "sci.light.shadows.L4"
+   ],
+   "go_wide": [
+    "sci.light.how-we-see.L3",
+    "sci.light.transparent-opaque.L3",
+    "sci.light.reflection.L3",
+    "sci.light.colour.L3",
+    "sci.light.what-is-light.L3",
+    "sci.light.refraction.L3",
+    "sci.light.living-light.L3",
+    "sci.day-night-seasons.sun-appears-to-move.L2"
+   ],
+   "maths": [
+    {
+     "id": "math.length.standard-units-length.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    },
+    {
+     "id": "math.data.line-graphs.L4",
+     "chapters": []
+    },
+    {
+     "id": "math.time.telling-time.L3",
+     "chapters": [
+      "N3-13",
+      "C3-Gt"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:156"
+   ],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 3.1 Shadows",
+    "Cambridge Stage 3 3.2 Changing shadows"
+   ]
+  },
+  {
    "id": "sci.light.shadows.L4",
    "subject": "sci",
    "topic": "light",
@@ -19648,7 +19971,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.light.shadows.L2",
+    "sci.light.shadows.L3",
     "sci.light.light-sources.L2"
    ],
    "go_deep": [
@@ -19783,7 +20106,7 @@
    "notebook": [
     "phy:160"
    ],
-   "source": "notes",
+   "source": "boards",
    "chapter_refs": []
   },
   {
@@ -19800,7 +20123,10 @@
     3
    ],
    "covers": "Transparent, translucent and opaque materials; using them (windows, curtains, sunglasses).",
-   "chapters": [],
+   "chapters": [
+    "C3-3.3",
+    "C3-3.4"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.light.transparent-opaque.L2",
@@ -19809,6 +20135,7 @@
    "go_deep": [],
    "go_wide": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.reflection.L3",
     "sci.light.colour.L3",
     "sci.light.what-is-light.L3",
@@ -19820,8 +20147,11 @@
    "notebook": [
     "phy:160"
    ],
-   "source": "notes",
-   "chapter_refs": []
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 3 3.3 Transparent materials",
+    "Cambridge Stage 3 3.4 Translucent materials"
+   ]
   },
   {
    "id": "sci.light.reflection.L3",
@@ -19847,6 +20177,7 @@
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.colour.L3",
     "sci.light.what-is-light.L3",
@@ -19976,6 +20307,7 @@
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.reflection.L3",
     "sci.light.what-is-light.L3",
@@ -20099,6 +20431,7 @@
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.reflection.L3",
     "sci.light.colour.L3",
@@ -20183,6 +20516,7 @@
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.reflection.L3",
     "sci.light.colour.L3",
@@ -20498,6 +20832,7 @@
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
+    "sci.light.shadows.L3",
     "sci.light.transparent-opaque.L3",
     "sci.light.reflection.L3",
     "sci.light.colour.L3",
@@ -20642,7 +20977,7 @@
    ],
    "covers": "Where do sounds come from? Loud and soft sounds around us.",
    "chapters": [
-    "C1-6.1"
+    "C1-2.1"
    ],
    "verify": [],
    "prerequisites": [],
@@ -20662,7 +20997,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 6.1 Where do sounds come from?"
+    "Cambridge Stage 1 2.1 Sound sources"
    ]
   },
   {
@@ -20715,7 +21050,7 @@
    ],
    "covers": "Our ears; hearing near and far sounds.",
    "chapters": [
-    "C1-6.2"
+    "C1-2.2"
    ],
    "verify": [],
    "prerequisites": [],
@@ -20731,7 +21066,7 @@
    "notebook": [],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 6.2 Our ears"
+    "Cambridge Stage 1 2.2 Loud and quiet"
    ]
   },
   {
@@ -20779,7 +21114,7 @@
    ],
    "covers": "Sounds move from the source to our ears.",
    "chapters": [
-    "C1-6.3"
+    "C1-2.3"
    ],
    "verify": [],
    "prerequisites": [
@@ -20810,7 +21145,7 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "Cambridge Stage 1 6.3 Sounds move"
+    "Cambridge Stage 1 2.3 Sound moves"
    ]
   },
   {
@@ -21373,7 +21708,9 @@
     1
    ],
    "covers": "The Sun gives light and heat; the Moon and stars at night.",
-   "chapters": [],
+   "chapters": [
+    "C1-4.2"
+   ],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -21389,7 +21726,9 @@
     "phy:30"
    ],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 1 4.2 Heat and light from the Sun"
+   ]
   },
   {
    "id": "sci.sky.sun-moon-stars.L3",
@@ -21406,7 +21745,8 @@
    ],
    "covers": "Sun, Moon and stars; stars vs planets; Sun and planets.",
    "chapters": [
-    "O3-6"
+    "O3-6",
+    "C3-6.1"
    ],
    "verify": [],
    "prerequisites": [
@@ -21433,7 +21773,8 @@
    ],
    "source": "boards",
    "chapter_refs": [
-    "NIOS Level A Lesson 6 Sun-Moon-Stars, Day-Night and Seasons"
+    "NIOS Level A Lesson 6 Sun-Moon-Stars, Day-Night and Seasons",
+    "Cambridge Stage 3 6.1 The shape of the Earth, Sun and Moon"
    ]
   },
   {
@@ -21651,7 +21992,10 @@
     3
    ],
    "covers": "The Moon seems to change shape; keeping a Moon diary.",
-   "chapters": [],
+   "chapters": [
+    "C3-6.2",
+    "C3-6.3"
+   ],
    "verify": [],
    "prerequisites": [
     "sci.sky.sun-moon-stars.L3"
@@ -21690,7 +22034,10 @@
     "phy:65"
    ],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 3 6.2 The Moon",
+    "Cambridge Stage 3 6.3 The phases of the Moon"
+   ]
   },
   {
    "id": "sci.sky.moon-phases.L5",
@@ -22964,6 +23311,42 @@
    ]
   },
   {
+   "id": "sci.planet-earth.structure-of-earth.L1",
+   "subject": "sci",
+   "topic": "planet-earth",
+   "topic_name": "Planet Earth",
+   "strand": "Earth and space",
+   "topic_level": "sci.planet-earth.L1",
+   "subtopic": "structure-of-earth",
+   "name": "Inside the Earth",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Our planet is a huge ball of rock with land, sea and air; the Earth is round.",
+   "chapters": [
+    "C1-4.1"
+   ],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "sci.planet-earth.structure-of-earth.L4",
+    "sci.planet-earth.volcanoes-and-earthquakes.L4"
+   ],
+   "go_wide": [
+    "sci.planet-earth.rocks.L1",
+    "sci.planet-earth.soil-and-crops.L1"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:59"
+   ],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 1 4.1 Planet Earth"
+   ]
+  },
+  {
    "id": "sci.planet-earth.structure-of-earth.L4",
    "subject": "sci",
    "topic": "planet-earth",
@@ -22981,7 +23364,9 @@
     "C4-4.1"
    ],
    "verify": [],
-   "prerequisites": [],
+   "prerequisites": [
+    "sci.planet-earth.structure-of-earth.L1"
+   ],
    "go_deep": [
     "sci.planet-earth.structure-of-earth.L5",
     "sci.planet-earth.volcanoes-and-earthquakes.L4"
@@ -23116,6 +23501,41 @@
    "chapter_refs": []
   },
   {
+   "id": "sci.planet-earth.rocks.L1",
+   "subject": "sci",
+   "topic": "planet-earth",
+   "topic_name": "Planet Earth",
+   "strand": "Earth and space",
+   "topic_level": "sci.planet-earth.L1",
+   "subtopic": "rocks",
+   "name": "Rocks",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Rocks are all around us, in the ground, walls and roads; feeling, scratching and sorting rocks.",
+   "chapters": [
+    "C1-4.3"
+   ],
+   "verify": [],
+   "prerequisites": [],
+   "go_deep": [
+    "sci.planet-earth.rocks.L2",
+    "sci.planet-earth.soil-and-crops.L1"
+   ],
+   "go_wide": [
+    "sci.planet-earth.structure-of-earth.L1",
+    "sci.planet-earth.soil-and-crops.L1",
+    "sci.evolution.fossils-and-extinction.L2"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 1 4.3 Rocks"
+   ]
+  },
+  {
    "id": "sci.planet-earth.rocks.L2",
    "subject": "sci",
    "topic": "planet-earth",
@@ -23133,7 +23553,9 @@
     "C2-1.4"
    ],
    "verify": [],
-   "prerequisites": [],
+   "prerequisites": [
+    "sci.planet-earth.rocks.L1"
+   ],
    "go_deep": [
     "sci.planet-earth.rocks.L4",
     "sci.planet-earth.soil-and-crops.L3"
@@ -23183,6 +23605,54 @@
    "chapter_refs": []
   },
   {
+   "id": "sci.planet-earth.soil-and-crops.L1",
+   "subject": "sci",
+   "topic": "planet-earth",
+   "topic_name": "Planet Earth",
+   "strand": "Earth and space",
+   "topic_level": "sci.planet-earth.L1",
+   "subtopic": "soil-and-crops",
+   "name": "Soil and crops",
+   "level": 1,
+   "classes": [
+    1
+   ],
+   "covers": "Soil is made of tiny bits of rock and dead plants; plants grow in it and small animals live in it.",
+   "chapters": [
+    "C1-4.4"
+   ],
+   "verify": [],
+   "prerequisites": [
+    "sci.planet-earth.rocks.L1"
+   ],
+   "go_deep": [
+    "sci.planet-earth.soil-and-crops.L3"
+   ],
+   "go_wide": [
+    "sci.planet-earth.structure-of-earth.L1",
+    "sci.planet-earth.rocks.L1",
+    "sci.food.where-food-comes-from.L1"
+   ],
+   "maths": [
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [
+    "bio:217",
+    "bio:218",
+    "bio:219",
+    "bio:220"
+   ],
+   "source": "boards",
+   "chapter_refs": [
+    "Cambridge Stage 1 4.4 Soil"
+   ]
+  },
+  {
    "id": "sci.planet-earth.soil-and-crops.L3",
    "subject": "sci",
    "topic": "planet-earth",
@@ -23199,6 +23669,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
+    "sci.planet-earth.soil-and-crops.L1",
     "sci.planet-earth.rocks.L2"
    ],
    "go_deep": [
@@ -24351,7 +24822,8 @@
    "covers": "Saving water at home and school; filtering dirty water.",
    "chapters": [
     "N3-7",
-    "O3-5"
+    "O3-5",
+    "C3-2.4"
    ],
    "verify": [],
    "prerequisites": [
@@ -24383,7 +24855,8 @@
    "source": "boards",
    "chapter_refs": [
     "NCERT Class 3 Ch 7 Water — A Precious Gift",
-    "NIOS Level A Lesson 5 Conservation of Environment"
+    "NIOS Level A Lesson 5 Conservation of Environment",
+    "Cambridge Stage 3 2.4 Filtering"
    ]
   },
   {
@@ -24614,7 +25087,7 @@
    "go_deep": [
     "sci.air.air-around-us.L5",
     "sci.weather.wind-and-air.L3",
-    "sci.states.solids-liquids-gases.L4"
+    "sci.states.solids-liquids-gases.L3"
    ],
    "go_wide": [
     "sci.plants.photosynthesis.L3"
@@ -24962,7 +25435,9 @@
     1
    ],
    "covers": "What we need to live: air, water, food, clothes, a home.",
-   "chapters": [],
+   "chapters": [
+    "C1-5.4"
+   ],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -24976,7 +25451,9 @@
    "maths": [],
    "notebook": [],
    "source": "boards",
-   "chapter_refs": []
+   "chapter_refs": [
+    "Cambridge Stage 1 5.4 Staying alive"
+   ]
   },
   {
    "id": "sci.basic-needs.basic-needs.L3",
@@ -31343,7 +31820,7 @@
    "cls": 1,
    "ref": "Stage 1 1.1",
    "title": "Animals and plants alive!",
-   "covers": "Unit 1 Being alive",
+   "covers": "Unit 1 Living things",
    "item": "cam|sci|1|1",
    "subtopic_levels": [
     "sci.what-is-life.signs-of-life.L1"
@@ -31353,223 +31830,257 @@
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 1.2",
-   "title": "Local environments",
-   "covers": "Unit 1 Being alive",
+   "title": "Parts of a plant",
+   "covers": "Unit 1 Living things",
    "item": "cam|sci|1|1",
    "subtopic_levels": [
-    "sci.habitats.local-environments.L1"
+    "sci.plants.plant-parts.L1"
    ]
   },
   "C1-1.3": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 1.3",
-   "title": "Animal babies",
-   "covers": "Unit 1 Being alive",
+   "title": "Plants and light",
+   "covers": "Unit 1 Living things",
    "item": "cam|sci|1|1",
    "subtopic_levels": [
-    "sci.animals.animal-babies.L1"
+    "sci.plants.what-plants-need.L1"
    ]
   },
   "C1-1.4": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 1.4",
-   "title": "Healthy food and drink",
-   "covers": "Unit 1 Being alive",
+   "title": "Plants need water",
+   "covers": "Unit 1 Living things",
    "item": "cam|sci|1|1",
    "subtopic_levels": [
-    "sci.food.healthy-food.L1"
+    "sci.plants.what-plants-need.L1"
    ]
   },
   "C1-2.1": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 2.1",
-   "title": "Plant parts",
-   "covers": "Unit 2 Growing plants",
+   "title": "Sound sources",
+   "covers": "Unit 2 Sound",
    "item": "cam|sci|1|2",
    "subtopic_levels": [
-    "sci.plants.plant-parts.L1"
+    "sci.sound.sources-of-sound.L1"
    ]
   },
   "C1-2.2": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 2.2",
-   "title": "Growing seeds",
-   "covers": "Unit 2 Growing plants",
+   "title": "Loud and quiet",
+   "covers": "Unit 2 Sound",
    "item": "cam|sci|1|2",
    "subtopic_levels": [
-    "sci.seeds-and-life-cycles.seeds-and-germination.L1"
+    "sci.sound.hearing.L1"
    ]
   },
   "C1-2.3": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 2.3",
-   "title": "Plants and light",
-   "covers": "Unit 2 Growing plants",
+   "title": "Sound moves",
+   "covers": "Unit 2 Sound",
    "item": "cam|sci|1|2",
    "subtopic_levels": [
-    "sci.plants.what-plants-need.L1"
+    "sci.sound.sound-moves.L1"
    ]
   },
   "C1-3.1": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 3.1",
-   "title": "We are similar",
-   "covers": "Unit 3 Ourselves",
+   "title": "Different materials",
+   "covers": "Unit 3 Materials in my world",
    "item": "cam|sci|1|3",
    "subtopic_levels": [
-    "sci.evolution.inheritance.L1",
-    "sci.me-and-others.me-and-others.L1"
+    "sci.materials.what-is-it-made-of.L1"
    ]
   },
   "C1-3.2": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 3.2",
-   "title": "We are different",
-   "covers": "Unit 3 Ourselves",
+   "title": "Properties of materials",
+   "covers": "Unit 3 Materials in my world",
    "item": "cam|sci|1|3",
    "subtopic_levels": [
-    "sci.evolution.inheritance.L1",
-    "sci.me-and-others.me-and-others.L1"
+    "sci.materials.properties.L1"
    ]
   },
   "C1-3.3": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 3.3",
-   "title": "Our bodies",
-   "covers": "Unit 3 Ourselves",
+   "title": "Sorting materials",
+   "covers": "Unit 3 Materials in my world",
    "item": "cam|sci|1|3",
    "subtopic_levels": [
-    "sci.body.body-parts.L1"
+    "sci.materials.sorting-materials.L1"
    ]
   },
   "C1-3.4": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 3.4",
-   "title": "Our fantastic senses",
-   "covers": "Unit 3 Ourselves",
+   "title": "Changing materials",
+   "covers": "Unit 3 Materials in my world",
    "item": "cam|sci|1|3",
    "subtopic_levels": [
-    "sci.senses.five-senses.L1"
+    "sci.changes.reversible-and-irreversible.L1"
    ]
   },
   "C1-4.1": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 4.1",
-   "title": "What is it made of?",
-   "covers": "Unit 4 Materials in my world",
+   "title": "Planet Earth",
+   "covers": "Unit 4 The Earth",
    "item": "cam|sci|1|4",
    "subtopic_levels": [
-    "sci.materials.what-is-it-made-of.L1"
+    "sci.planet-earth.structure-of-earth.L1"
    ]
   },
   "C1-4.2": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 4.2",
-   "title": "Using materials",
-   "covers": "Unit 4 Materials in my world",
+   "title": "Heat and light from the Sun",
+   "covers": "Unit 4 The Earth",
    "item": "cam|sci|1|4",
    "subtopic_levels": [
-    "sci.materials.using-materials.L1"
+    "sci.sky.sun-moon-stars.L1"
    ]
   },
   "C1-4.3": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 4.3",
-   "title": "Sorting materials",
-   "covers": "Unit 4 Materials in my world",
+   "title": "Rocks",
+   "covers": "Unit 4 The Earth",
    "item": "cam|sci|1|4",
    "subtopic_levels": [
-    "sci.materials.sorting-materials.L1"
+    "sci.planet-earth.rocks.L1"
+   ]
+  },
+  "C1-4.4": {
+   "board": "Cambridge",
+   "cls": 1,
+   "ref": "Stage 1 4.4",
+   "title": "Soil",
+   "covers": "Unit 4 The Earth",
+   "item": "cam|sci|1|4",
+   "subtopic_levels": [
+    "sci.planet-earth.soil-and-crops.L1"
    ]
   },
   "C1-5.1": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 5.1",
-   "title": "In the playground",
-   "covers": "Unit 5 Pushes and pulls",
+   "title": "Our bodies",
+   "covers": "Unit 5 Humans",
    "item": "cam|sci|1|5",
    "subtopic_levels": [
-    "sci.forces.push-and-pull.L1"
+    "sci.body.body-parts.L1"
    ]
   },
   "C1-5.2": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 5.2",
-   "title": "How toys work",
-   "covers": "Unit 5 Pushes and pulls",
+   "title": "Our amazing senses",
+   "covers": "Unit 5 Humans",
    "item": "cam|sci|1|5",
    "subtopic_levels": [
-    "sci.forces.push-and-pull.L1",
-    "sci.forces.how-toys-work.L1"
+    "sci.senses.five-senses.L1"
    ]
   },
   "C1-5.3": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 5.3",
-   "title": "Pushes and pulls around us",
-   "covers": "Unit 5 Pushes and pulls",
+   "title": "Similar and different",
+   "covers": "Unit 5 Humans",
    "item": "cam|sci|1|5",
    "subtopic_levels": [
-    "sci.forces.push-and-pull.L1"
+    "sci.evolution.inheritance.L1",
+    "sci.me-and-others.me-and-others.L1"
    ]
   },
   "C1-5.4": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 5.4",
-   "title": "Changing movement",
-   "covers": "Unit 5 Pushes and pulls",
+   "title": "Staying alive",
+   "covers": "Unit 5 Humans",
    "item": "cam|sci|1|5",
    "subtopic_levels": [
-    "sci.forces.changing-motion.L1"
+    "sci.food.healthy-food.L1",
+    "sci.basic-needs.basic-needs.L1"
    ]
   },
   "C1-6.1": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 6.1",
-   "title": "Where do sounds come from?",
-   "covers": "Unit 6 Hearing sounds",
+   "title": "Moving things",
+   "covers": "Unit 6 Forces",
    "item": "cam|sci|1|6",
    "subtopic_levels": [
-    "sci.sound.sources-of-sound.L1"
+    "sci.forces.push-and-pull.L1",
+    "sci.motion.kinds-of-motion.L1"
    ]
   },
   "C1-6.2": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 6.2",
-   "title": "Our ears",
-   "covers": "Unit 6 Hearing sounds",
+   "title": "Push and pull forces",
+   "covers": "Unit 6 Forces",
    "item": "cam|sci|1|6",
    "subtopic_levels": [
-    "sci.sound.hearing.L1"
+    "sci.forces.push-and-pull.L1"
    ]
   },
   "C1-6.3": {
    "board": "Cambridge",
    "cls": 1,
    "ref": "Stage 1 6.3",
-   "title": "Sounds move",
-   "covers": "Unit 6 Hearing sounds",
+   "title": "Making things move",
+   "covers": "Unit 6 Forces",
    "item": "cam|sci|1|6",
    "subtopic_levels": [
-    "sci.sound.sound-moves.L1"
+    "sci.forces.changing-motion.L1",
+    "sci.forces.how-toys-work.L1"
+   ]
+  },
+  "C1-6.4": {
+   "board": "Cambridge",
+   "cls": 1,
+   "ref": "Stage 1 6.4",
+   "title": "Floating and sinking",
+   "covers": "Unit 6 Forces",
+   "item": "cam|sci|1|6",
+   "subtopic_levels": [
+    "sci.states.floating-and-sinking.L1"
+   ]
+  },
+  "C1-6.5": {
+   "board": "Cambridge",
+   "cls": 1,
+   "ref": "Stage 1 6.5",
+   "title": "Magnets can pull",
+   "covers": "Unit 6 Forces",
+   "item": "cam|sci|1|6",
+   "subtopic_levels": [
+    "sci.forces.push-and-pull.L1"
    ]
   },
   "C2-1.1": {
@@ -31854,221 +32365,238 @@
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 1.1",
-   "title": "Plants and their parts",
-   "covers": "Unit 1 Looking after plants",
+   "title": "Alive or not alive?",
+   "covers": "Unit 1 Plants are living things",
    "item": "cam|sci|3|1",
    "subtopic_levels": [
-    "sci.plants.plant-parts.L3"
+    "sci.what-is-life.signs-of-life.L3"
    ]
   },
   "C3-1.2": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 1.2",
-   "title": "Plants need light and water",
-   "covers": "Unit 1 Looking after plants",
+   "title": "Plant parts",
+   "covers": "Unit 1 Plants are living things",
    "item": "cam|sci|3|1",
    "subtopic_levels": [
-    "sci.plants.what-plants-need.L3"
+    "sci.plants.plant-parts.L3"
    ]
   },
   "C3-1.3": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 1.3",
-   "title": "Transporting water",
-   "covers": "Unit 1 Looking after plants",
+   "title": "Plants and light",
+   "covers": "Unit 1 Plants are living things",
    "item": "cam|sci|3|1",
    "subtopic_levels": [
-    "sci.plants.water-transport.L3"
+    "sci.plants.what-plants-need.L3"
    ]
   },
   "C3-1.4": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 1.4",
-   "title": "Plant growth and temperature",
-   "covers": "Unit 1 Looking after plants",
+   "title": "Plants need water and the right temperature",
+   "covers": "Unit 1 Plants are living things",
    "item": "cam|sci|3|1",
    "subtopic_levels": [
-    "sci.plants.what-plants-need.L3"
+    "sci.plants.what-plants-need.L3",
+    "sci.plants.water-transport.L3"
    ]
   },
   "C3-2.1": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 2.1",
-   "title": "Food groups",
-   "covers": "Unit 2 Looking after ourselves",
+   "title": "Solids, liquids and gases",
+   "covers": "Unit 2 Mixing materials",
    "item": "cam|sci|3|2",
    "subtopic_levels": [
-    "sci.food.nutrients.L3"
+    "sci.states.solids-liquids-gases.L3"
    ]
   },
   "C3-2.2": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 2.2",
-   "title": "A healthy diet",
-   "covers": "Unit 2 Looking after ourselves",
+   "title": "Separating mixtures",
+   "covers": "Unit 2 Mixing materials",
    "item": "cam|sci|3|2",
    "subtopic_levels": [
-    "sci.food.balanced-diet.L3"
+    "sci.states.separating-mixtures.L3"
    ]
   },
   "C3-2.3": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 2.3",
-   "title": "An unhealthy diet",
-   "covers": "Unit 2 Looking after ourselves",
+   "title": "Dissolving",
+   "covers": "Unit 2 Mixing materials",
    "item": "cam|sci|3|2",
    "subtopic_levels": [
-    "sci.food.balanced-diet.L3"
+    "sci.states.dissolving.L3"
    ]
   },
   "C3-2.4": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 2.4",
-   "title": "Exercise and sleep",
-   "covers": "Unit 2 Looking after ourselves",
+   "title": "Filtering",
+   "covers": "Unit 2 Mixing materials",
    "item": "cam|sci|3|2",
    "subtopic_levels": [
-    "sci.health.exercise-and-rest.L3"
+    "sci.states.separating-mixtures.L3",
+    "sci.water.saving-water.L3"
+   ]
+  },
+  "C3-2.5": {
+   "board": "Cambridge",
+   "cls": 3,
+   "ref": "Stage 3 2.5",
+   "title": "Separating materials from rocks",
+   "covers": "Unit 2 Mixing materials",
+   "item": "cam|sci|3|2",
+   "subtopic_levels": [
+    "sci.states.separating-mixtures.L3"
    ]
   },
   "C3-3.1": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 3.1",
-   "title": "Living and non-living",
-   "covers": "Unit 3 Living things",
+   "title": "Shadows",
+   "covers": "Unit 3 Light and shadows",
    "item": "cam|sci|3|3",
    "subtopic_levels": [
-    "sci.what-is-life.signs-of-life.L3"
+    "sci.light.shadows.L3"
    ]
   },
   "C3-3.2": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 3.2",
-   "title": "Growth and nutrition",
-   "covers": "Unit 3 Living things",
+   "title": "Changing shadows",
+   "covers": "Unit 3 Light and shadows",
    "item": "cam|sci|3|3",
    "subtopic_levels": [
-    "sci.what-is-life.signs-of-life.L3"
+    "sci.light.shadows.L3"
    ]
   },
   "C3-3.3": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 3.3",
-   "title": "Movement and reproduction",
-   "covers": "Unit 3 Living things",
+   "title": "Transparent materials",
+   "covers": "Unit 3 Light and shadows",
    "item": "cam|sci|3|3",
    "subtopic_levels": [
-    "sci.what-is-life.signs-of-life.L3"
+    "sci.light.transparent-opaque.L3"
    ]
   },
   "C3-3.4": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 3.4",
-   "title": "Sorting humans",
-   "covers": "Unit 3 Living things",
+   "title": "Translucent materials",
+   "covers": "Unit 3 Light and shadows",
    "item": "cam|sci|3|3",
    "subtopic_levels": [
-    "sci.classification.sorting-living-things.L3"
-   ]
-  },
-  "C3-3.5": {
-   "board": "Cambridge",
-   "cls": 3,
-   "ref": "Stage 3 3.5",
-   "title": "Sorting living things",
-   "covers": "Unit 3 Living things",
-   "item": "cam|sci|3|3",
-   "subtopic_levels": [
-    "sci.classification.sorting-living-things.L3"
+    "sci.light.transparent-opaque.L3"
    ]
   },
   "C3-4.1": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 4.1",
-   "title": "Hearing and touch",
-   "covers": "Unit 4 Our five senses",
+   "title": "Human organs",
+   "covers": "Unit 4 Staying alive",
    "item": "cam|sci|3|4",
    "subtopic_levels": [
-    "sci.senses.five-senses.L3"
+    "sci.body.organs-inside.L3"
    ]
   },
   "C3-4.2": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 4.2",
-   "title": "Taste and smell",
-   "covers": "Unit 4 Our five senses",
+   "title": "Animal groups and different life cycles",
+   "covers": "Unit 4 Staying alive",
    "item": "cam|sci|3|4",
    "subtopic_levels": [
-    "sci.senses.five-senses.L3"
+    "sci.animals.animal-life-cycles.L3",
+    "sci.animals.vertebrate-groups.L3",
+    "sci.classification.sorting-living-things.L3"
    ]
   },
   "C3-4.3": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 4.3",
-   "title": "Sight",
-   "covers": "Unit 4 Our five senses",
+   "title": "Food chains",
+   "covers": "Unit 4 Staying alive",
    "item": "cam|sci|3|4",
    "subtopic_levels": [
-    "sci.senses.five-senses.L3"
+    "sci.ecology.food-chains.L3"
+   ]
+  },
+  "C3-4.4": {
+   "board": "Cambridge",
+   "cls": 3,
+   "ref": "Stage 3 4.4",
+   "title": "Fossils",
+   "covers": "Unit 4 Staying alive",
+   "item": "cam|sci|3|4",
+   "subtopic_levels": [
+    "sci.evolution.fossils-and-extinction.L3"
    ]
   },
   "C3-5.1": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 5.1",
-   "title": "Properties of materials",
-   "covers": "Unit 5 Investigating materials",
+   "title": "Forces and forcemeters",
+   "covers": "Unit 5 Forces and magnets",
    "item": "cam|sci|3|5",
    "subtopic_levels": [
-    "sci.materials.properties.L3"
+    "sci.forces.push-and-pull.L3",
+    "sci.forces.measuring-forces.L3"
    ]
   },
   "C3-5.2": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 5.2",
-   "title": "Sorting materials",
-   "covers": "Unit 5 Investigating materials",
+   "title": "Gravity",
+   "covers": "Unit 5 Forces and magnets",
    "item": "cam|sci|3|5",
    "subtopic_levels": [
-    "sci.materials.properties.L3",
-    "sci.materials.sorting-materials.L3"
+    "sci.gravity.falling.L3",
+    "sci.gravity.weight-and-mass.L3"
    ]
   },
   "C3-5.3": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 5.3",
-   "title": "Uses of materials",
-   "covers": "Unit 5 Investigating materials",
+   "title": "Friction",
+   "covers": "Unit 5 Forces and magnets",
    "item": "cam|sci|3|5",
    "subtopic_levels": [
-    "sci.materials.using-materials.L3"
+    "sci.forces.friction.L3"
    ]
   },
   "C3-5.4": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 5.4",
-   "title": "Testing materials",
-   "covers": "Unit 5 Investigating materials",
+   "title": "Amazing magnets",
+   "covers": "Unit 5 Forces and magnets",
    "item": "cam|sci|3|5",
    "subtopic_levels": [
-    "sci.materials.testing-materials.L3"
+    "sci.magnets.magnets-and-materials.L3",
+    "sci.magnets.poles.L3"
    ]
   },
   "C3-5.5": {
@@ -32076,7 +32604,7 @@
    "cls": 3,
    "ref": "Stage 3 5.5",
    "title": "Magnetic materials",
-   "covers": "Unit 5 Investigating materials",
+   "covers": "Unit 5 Forces and magnets",
    "item": "cam|sci|3|5",
    "subtopic_levels": [
     "sci.materials.magnetic-materials.L3",
@@ -32087,55 +32615,33 @@
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 6.1",
-   "title": "Push and pull",
-   "covers": "Unit 6 Forces and movement",
+   "title": "The shape of the Earth, Sun and Moon",
+   "covers": "Unit 6 The Earth and the Moon",
    "item": "cam|sci|3|6",
    "subtopic_levels": [
-    "sci.forces.push-and-pull.L3"
+    "sci.sky.sun-moon-stars.L3"
    ]
   },
   "C3-6.2": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 6.2",
-   "title": "Changing shape",
-   "covers": "Unit 6 Forces and movement",
+   "title": "The Moon",
+   "covers": "Unit 6 The Earth and the Moon",
    "item": "cam|sci|3|6",
    "subtopic_levels": [
-    "sci.forces.changing-motion.L3"
+    "sci.sky.moon-phases.L3"
    ]
   },
   "C3-6.3": {
    "board": "Cambridge",
    "cls": 3,
    "ref": "Stage 3 6.3",
-   "title": "How big is that force?",
-   "covers": "Unit 6 Forces and movement",
+   "title": "The phases of the Moon",
+   "covers": "Unit 6 The Earth and the Moon",
    "item": "cam|sci|3|6",
    "subtopic_levels": [
-    "sci.forces.measuring-forces.L3"
-   ]
-  },
-  "C3-6.4": {
-   "board": "Cambridge",
-   "cls": 3,
-   "ref": "Stage 3 6.4",
-   "title": "Forcemeters",
-   "covers": "Unit 6 Forces and movement",
-   "item": "cam|sci|3|6",
-   "subtopic_levels": [
-    "sci.forces.measuring-forces.L3"
-   ]
-  },
-  "C3-6.5": {
-   "board": "Cambridge",
-   "cls": 3,
-   "ref": "Stage 3 6.5",
-   "title": "Friction",
-   "covers": "Unit 6 Forces and movement",
-   "item": "cam|sci|3|6",
-   "subtopic_levels": [
-    "sci.forces.friction.L3"
+    "sci.sky.moon-phases.L3"
    ]
   },
   "C4-1.1": {

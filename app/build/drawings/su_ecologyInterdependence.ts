@@ -72,11 +72,11 @@ const rowPos = (x: number, y: number, w: number, h: number) => {
   for (let r = 0; r < 2; r++) for (let k = 0; k < 5; k++) p.push([x - w / 2 + 84 + k * ((w - 168) / 4), y - h / 2 + 80 + r * (h - 160) + (k % 2) * 8]);
   return p;
 };
-const root = (c: Ctx, x: number, y: number, len: number, an: number) => {
+const root = (c: Ctx, x: number, y: number, len: number, an: number, w = 17) => {
   const ex = x + Math.cos(an) * len, ey = y + Math.sin(an) * len, mx = x + Math.cos(an + 0.5) * len * 0.55, my = y + Math.sin(an + 0.5) * len * 0.55;
   const p = () => { c.beginPath(); c.moveTo(x, y); c.quadraticCurveTo(mx, my, ex, ey); };
-  p(); c.strokeStyle = INK; c.lineWidth = 17; c.lineCap = "round"; c.stroke();
-  p(); c.strokeStyle = WHITE; c.lineWidth = 8; c.stroke();
+  p(); c.strokeStyle = INK; c.lineWidth = w; c.lineCap = "round"; c.stroke();
+  p(); c.strokeStyle = WHITE; c.lineWidth = w - 9; c.stroke();
 };
 const tag = (c: Ctx, x: number, y: number, icon: () => void) => {
   shape(c, () => rrect(c, x - 90, y - 70, 180, 140, 26), WHITE, 5);
@@ -163,7 +163,7 @@ const boxes = (c: Ctx, grown: boolean) => {
   tiffin(c, 640, 730, 740, 340, JUICE, true);
   const a = rowPos(640, 300, 740, 340), b = rowPos(640, 730, 740, 340);
   const rd = rnd(21);
-  a.forEach(([x, y], i) => { if (grown && i !== 3 && i !== 8) root(c, x + 8, y + 8, 70, 1.0 + rd() * 0.5); });
+  a.forEach(([x, y], i) => { if (grown && i !== 3 && i !== 8) root(c, x + 8, y + 8, 105, i < 5 ? 0.9 + rd() * 0.4 : i === 9 ? 3.3 : 0.05 + rd() * 0.4, 24); });
   a.forEach(([x, y], i) => tseed(c, x, y, 36, i * 0.6));
   b.forEach(([x, y], i) => tseed(c, x, y, 36, i * 0.6 + 1));
   tag(c, 120, 300, () => dropShape(c, 120, 300, 52));
@@ -226,7 +226,7 @@ const e3_1 = (c: Ctx) => {
 const e3_2 = (c: Ctx) => {
   sill(c);
   sillBowls(c);
-  const F: [number, number, number, number][] = [[150, 300, 2.3, 0.3], [290, 250, 2.3, -0.4], [430, 330, 2.3, 0.2], [190, 440, 2.3, 3.3], [350, 400, 2.3, -0.2], [470, 470, 2.3, 0.6], [110, 540, 2.3, 0.1], [260, 520, 2.3, 3.0], [400, 560, 2.3, 0.4]];
+  const F: [number, number, number, number][] = [[100, 485, 1.9, 0.3], [250, 468, 1.9, -0.4], [400, 480, 1.9, 0.2], [490, 560, 1.9, 3.3], [175, 560, 1.9, 0.6], [330, 545, 1.9, -0.2], [430, 620, 1.9, 3.0], [260, 625, 1.9, 0.1], [95, 625, 1.9, 3.2]];
   F.forEach(([x, y, s, r]) => fly(c, x, y, s, r));
 };
 

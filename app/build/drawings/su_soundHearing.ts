@@ -128,35 +128,52 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c, WALL);
-  const px = [190, 540, 890], top = 210, ph = 640;
-  // each panel: the girl's head from the side with a different ear cover
+  const px = [190, 540, 890], top = 210, ph = 640, ey = 590;
+  // the girl's head from the side, facing right, ear big in the middle
+  const head = (x: number) => {
+    shape(c, () => rrect(c, x - 150, 770, 300, 200, 50), CLOTH.child);
+    shape(c, () => rrect(c, x - 50, 650, 100, 140, 20), SKIN.childDk);
+    shape(c, () => ell(c, x - 25, 490, 125, 170), CLOTH.hair);
+    shape(c, () => ell(c, x + 30, 540, 135, 165), SKIN.child);
+    shape(c, () => ell(c, x, 400, 140, 80), CLOTH.hair);
+    shape(c, () => ell(c, x + 88, 540, 10, 14), INK, 0);
+  };
+  // the ear: big, with the ear hole and the small flap in front of it
+  const earBig = (x: number, flapPressed: boolean) => {
+    shape(c, () => ell(c, x - 15, ey, 70, 100), SKIN.childDk, 5);
+    shape(c, () => ell(c, x - 8, ey + 6, 44, 72), SKIN.child, 4);
+    shape(c, () => ell(c, x + 2, ey + 16, 17, 25), INK, 0);
+    shape(c, () => ell(c, flapPressed ? x + 6 : x + 34, ey + 14, 20, 28), SKIN.childDk, 5);
+  };
   const covers: ((x: number) => void)[] = [
-    // 1: a hand cupped over the whole ear
-    (x) => { ear(c, x - 15, 560); hand(c, x - 105, 700, -1.0, 1.5, SKIN.child, CLOTH.child, true); },
-    // 2: a thick folded towel held against the ear
+    // 1: a flat hand cupped over the whole ear
+    (x) => { earBig(x, false); hand(c, x - 40, 800, -1.4, 3.0, SKIN.child, CLOTH.child, true); },
+    // 2: a thick folded striped towel held against the ear
     (x) => {
-      ear(c, x - 15, 560);
-      c.save(); c.translate(x - 8, 550); c.rotate(-0.1);
-      const tw = () => rrect(c, -66, -110, 132, 230, 24);
-      shape(c, tw, COL.pink); shade(c, tw, "#d97b98", 24, 0);
-      for (const dy of [-70, -20, 30, 80]) line(c, [[-52, dy], [52, dy]], 6, WHITE);
+      earBig(x, false);
+      const tw = () => rrect(c, x - 100, 440, 190, 300, 26);
+      shape(c, () => rrect(c, x - 86, 454, 190, 300, 26), COL.blueDk);
+      shape(c, tw, COL.cloth); shade(c, tw, COL.steelDk, 24, 0, 0.45);
+      c.save(); c.beginPath(); tw(); c.clip();
+      for (const dy of [490, 650]) { c.fillStyle = COL.teal; c.fillRect(x - 110, dy, 230, 36); c.fillStyle = COL.blue; c.fillRect(x - 110, dy + 36, 230, 12); }
       c.restore();
-      hand(c, x - 60, 780, -1.45, 1.3, SKIN.child, CLOTH.child, false);
+      shape(c, tw, "rgba(0,0,0,0)", 6);
+      for (const dy of [470, 560, 680]) line(c, [[x + 60, dy], [x + 88, dy + 4]], 5, COL.greyDk);
+      hand(c, x + 10, 900, -1.5, 1.8, SKIN.child, CLOTH.child, false);
     },
-    // 3: a fingertip pressing the little flap in front of the ear hole
+    // 3: a fingertip pressing the small flap shut over the ear hole
     (x) => {
-      ear(c, x - 15, 560, 1.15);
-      shape(c, () => ell(c, x + 8, 570, 13, 20), COL.pink, 0);
-      line(c, [[x + 150, 760], [x + 24, 584]], 48, INK); line(c, [[x + 150, 760], [x + 24, 584]], 36, SKIN.child);
-      line(c, [[x + 38, 574], [x + 30, 566]], 5, SKIN.childDk);
-      shape(c, () => rrect(c, x + 110, 745, 110, 120, 14), CLOTH.child, 5);
-      arrow(c, [[x + 100, 480], [x + 52, 530]], RED, 9);
+      earBig(x, true);
+      line(c, [[x + 210, 880], [x + 28, 640]], 62, INK); line(c, [[x + 210, 880], [x + 28, 640]], 50, SKIN.child);
+      shape(c, () => ell(c, x + 26, 636, 8, 12, 0.7), COL.pink, 0);
+      shape(c, () => rrect(c, x + 120, 790, 130, 120, 14), CLOTH.child, 5);
+      arrow(c, [[x + 140, 500], [x + 52, 552]], RED, 11);
     },
   ];
   px.forEach((x, i) => {
     c.save();
     c.beginPath(); rrect(c, x - 160, top, 320, ph, 28); c.fillStyle = "#dcecf5"; c.fill(); c.clip();
-    c.translate(0, 70); headSide(c, x, 420); c.translate(0, -70);
+    head(x);
     covers[i](x);
     c.restore();
     c.beginPath(); rrect(c, x - 160, top, 320, ph, 28); c.strokeStyle = INK; c.lineWidth = 7; c.stroke();
@@ -255,7 +272,7 @@ const doorScene = (c: Ctx, open: boolean) => {
     shape(c, () => ell(c, wx1 + 80, 560, 9, 9), COL.yellow, 3);
   } else {
     shade(c, () => polyP(c, [[wx0, dTop], [wx1, dTop], [wx1, fy], [wx0, fy]]), "#7a4e2a", 24, 0);
-    shape(c, () => ell(c, wx0 + 24, 560, 11, 11), COL.yellow, 4);
+    shape(c, () => ell(c, wx0 + 24, 700, 11, 11), COL.yellow, 4);
   }
   line(c, [[wx0, 0], [wx0, dTop]], 6); line(c, [[wx0, dTop], [wx0, fy]], 6);
   // the table with the phone, inside
@@ -288,17 +305,22 @@ const e3_0 = (c: Ctx) => {
 };
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
-  const { fy, wx0, wx1 } = doorScene(c, false);
-  const sine = (x0: number, x1: number, y: number, len: number, amp: number, col: string) => {
-    c.beginPath(); for (let x = x0; x <= x1; x += 3) { const yy = y + Math.sin(((x - x0) / len) * Math.PI * 2) * amp; x === x0 ? c.moveTo(x, yy) : c.lineTo(x, yy); }
-    c.strokeStyle = INK; c.lineWidth = 17; c.lineCap = "round"; c.stroke(); c.strokeStyle = col; c.lineWidth = 9; c.stroke();
+  const { wx0, wx1 } = doorScene(c, false);
+  // a wave from x0 to x1 at height y; its swing shrinks across the door (x between wx0 and wx1) when fade is set
+  const sine = (x0: number, x1: number, y: number, len: number, amp: number, col: string, fade = 0) => {
+    c.beginPath();
+    for (let x = x0; x <= x1; x += 3) {
+      const k = fade ? 1 - fade * Math.min(1, Math.max(0, (x - wx0) / (wx1 - wx0))) : 1, yy = y + Math.sin(((x - x0) / len) * Math.PI * 2) * amp * k;
+      x === x0 ? c.moveTo(x, yy) : c.lineTo(x, yy);
+    }
+    c.strokeStyle = INK; c.lineWidth = 19; c.lineCap = "round"; c.stroke(); c.strokeStyle = col; c.lineWidth = 10; c.stroke();
   };
-  // low note: long slow waves go right through the door and on to the child
-  sine(310, 690, 410, 190, 30, COL.blue);
+  // low note: long slow waves pass through the shut door, a little smaller, and reach the child's ear
+  sine(300, 720, 450, 210, 34, COL.blue, 0.55);
   // high note: short tight waves stop at the door
-  sine(310, wx0 - 6, 530, 40, 22, COL.orange);
-  line(c, [[wx0 - 6, 495], [wx0 + 22, 565]], 9, RED); line(c, [[wx0 + 22, 495], [wx0 - 6, 565]], 9, RED);
-  void fy; void wx1;
+  sine(300, wx0 - 8, 545, 40, 22, COL.orange);
+  line(c, [[wx0 - 28, 495], [wx0 + 34, 595]], 14, WHITE); line(c, [[wx0 + 34, 495], [wx0 - 28, 595]], 14, WHITE);
+  line(c, [[wx0 - 24, 500], [wx0 + 30, 590]], 9, RED); line(c, [[wx0 + 30, 500], [wx0 - 24, 590]], 9, RED);
 };
 
 export const su_soundHearing = cards("sci.sound.hearing.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1]);

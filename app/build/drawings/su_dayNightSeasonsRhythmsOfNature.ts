@@ -40,10 +40,10 @@ const cup = (c: Ctx, x: number, y: number, w: number, h: number) => {
   c.beginPath(); ell(c, x + w * 0.12, y - h + 2, w * 0.3, w * 0.05); c.fillStyle = COL.soilDk; c.fill();
 };
 // a bean seedling from soil point (x, y): stem and two leaves. flat = held out, half = half down, down = hanging
-const seedling = (c: Ctx, x: number, y: number, h: number, pose: "flat" | "half" | "down", lean = 0) => {
+const seedling = (c: Ctx, x: number, y: number, h: number, pose: "flat" | "half" | "down" | "hang", lean = 0) => {
   const tx = x + lean, ty = y - h, len = h * 0.46;
   line(c, [[x, y], [tx, ty]], 16, INK); line(c, [[x, y], [tx, ty]], 8, COL.greenLt);
-  const a = pose === "flat" ? -0.2 : pose === "half" ? 0.7 : 1.15;
+  const a = pose === "flat" ? -0.2 : pose === "half" ? 0.7 : pose === "hang" ? 1.3 : 1.15;
   leaf(c, tx, ty, len, a); leaf(c, tx, ty, len, Math.PI - a);
   leaf(c, tx, ty, len * 0.4, -Math.PI / 2, COL.greenLt);
 };
@@ -109,23 +109,23 @@ const e1s0 = (c: Ctx) => {
 };
 // setup.e1.1
 const e1s1 = (c: Ctx) => {
-  ground(c); sill(c, 470, 1040, 880);
-  plate(c, 770, 920, 180, 34); cup(c, 770, 910, 250, 230); seedling(c, 770, 680, 330, "flat");
-  c.save(); c.translate(260, 630); c.rotate(-0.05);
-  shadow(c, 20, 330, 200, 22);
-  shape(c, () => rrect(c, -210, -300, 420, 600, 14), COL.paper, 7);
+  ground(c); sill(c, 660, 1050, 880);
+  plate(c, 860, 920, 170, 34); cup(c, 860, 910, 240, 220); seedling(c, 860, 690, 300, "flat");
+  c.save(); c.translate(310, 540); c.rotate(-0.03);
+  shadow(c, 20, 300, 260, 22);
+  shape(c, () => rrect(c, -290, -270, 580, 540, 14), COL.paper, 7);
   (["flat", "half", "down"] as const).forEach((p, k) => {
-    const yb = -215 + k * 170 + 70, a = p === "flat" ? -0.2 : p === "half" ? 0.7 : 1.35;
-    line(c, [[0, yb], [0, yb - 60]], 12, INK); line(c, [[0, yb], [0, yb - 60]], 6, COL.greenLt);
-    leaf(c, 0, yb - 60, 110, a); leaf(c, 0, yb - 60, 110, Math.PI - a);
+    const xb = -180 + k * 185, a = p === "flat" ? -0.2 : p === "half" ? 0.7 : 1.3;
+    line(c, [[xb, 220], [xb, -60]], 14, INK); line(c, [[xb, 220], [xb, -60]], 7, COL.greenLt);
+    leaf(c, xb, -60, 100, a); leaf(c, xb, -60, 100, Math.PI - a);
   });
   c.restore();
-  hand(c, 250, 1110, -Math.PI / 2 - 0.05, 2.2);
+  hand(c, 310, 1010, -Math.PI / 2 - 0.03, 2.2);
 };
 // setup.e1.2
 const e1s2 = (c: Ctx) => {
   ground(c, "#e6dcc8"); c.save(); c.translate(0, 160); windowPane(c, 230, 90, 620, 520, true); sill(c, 150, 930, 620);
-  plate(c, 540, 690, 200, 38); cup(c, 540, 682, 270, 250); seedling(c, 540, 432, 270, "down");
+  plate(c, 540, 690, 200, 38); cup(c, 540, 682, 270, 250); seedling(c, 540, 432, 270, "hang");
   c.restore();
 };
 // setup.e1.3
@@ -215,8 +215,10 @@ const e3s1 = (c: Ctx) => {
   [[190, 670, 0.3], [330, 620, -0.5], [440, 650, 0.2], [610, 540, 0.8], [250, 520, 1.4]].forEach(([x, y, a]) => bud(c, x, y, 70, a));
   dabba(c, 930, 770, 120, 210, 56);
   shape(c, () => ell(c, 930, 560, 98, 42), COL.cloth, 4);
-  c.save(); c.translate(940, 430); c.rotate(-0.4); shape(c, () => ell(c, 0, 0, 110, 32), COL.steel, 6); shape(c, () => ell(c, 0, -4, 85, 21), COL.steelIn, 4); c.restore();
-  hand(c, 660, 920, -2.0, 1.8, SKIN.child, CLOTH.child, true);
+  [[900, 556, 0.3], [945, 566, -0.4], [925, 548, 1.2], [965, 552, 0.5], [890, 570, -0.2]].forEach(([x, y, a]) => bud(c, x, y, 52, a));
+  c.save(); c.translate(930, 400); c.rotate(-0.25); shape(c, () => ell(c, 0, 0, 120, 34), COL.steel, 6); shape(c, () => ell(c, 0, -4, 92, 22), COL.steelIn, 4); c.restore();
+  arrow(c, [[930, 520], [930, 450]], RED, 12);
+  hand(c, 330, 930, -1.45, 2.0, SKIN.child, CLOTH.child, true);
 };
 
 export const su_dayNightSeasonsRhythmsOfNature = cards("sci.day-night-seasons.rhythms-of-nature.L3 set-up", [e1s0, e1s1, e1s2, e1s3, e1s4, e2s0, e2s1, e2s2, e3s0, e3s1]);

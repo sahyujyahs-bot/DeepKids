@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { COL, SKIN, CLOTH, INK, WHITE, RED, BG, D, shape, ell, polyP, rrect, shadow, shade, line, arrow, hand, person, write, ground, cards } from "./flatKit";
+import { COL, SKIN, CLOTH, INK, WHITE, RED, BG, D, rnd, shape, ell, polyP, rrect, shadow, shade, line, arrow, hand, person, write, ground, cards } from "./flatKit";
 
 // FAMILY WORK · set-up cards for sci.family.family.L3 (time and fair share of home jobs).
 const WALL = "#f8e6bd", FLOOR = "#d9b98a", MAT = "#a5dcd5", MATDK = "#82c6bd", GRAN = "#d9d4cc";
@@ -75,26 +75,29 @@ const phone = (c: Ctx, x: number, y: number, s: number, ang: number, time: strin
 // setup.e1.0
 const e1s0 = (c: Ctx) => {
   ground(c);
-  shape(c, () => polyP(c, [[0, 0], [D, 0], [D, 800], [0, 800]]), WALL, 0);
-  shape(c, () => polyP(c, [[0, 800], [D, 800], [D, D], [0, D]]), FLOOR, 0);
-  line(c, [[0, 800], [D, 800]], 6);
-  // wall clock, big
-  clk(c, 600, 215, 150, Math.PI * 0.2, Math.PI * 1.0);
-  // grandmother at the stove, behind it
-  person(c, 870, 810, 520, { adult: true, armL: [Math.PI * 0.4, Math.PI * 0.2], armR: [Math.PI * 0.4, Math.PI * 0.8] });
-  shape(c, () => rrect(c, 670, 640, 380, 170, 14), COL.teal, 6); shade(c, () => rrect(c, 670, 640, 380, 170, 14), COL.tealDk, 24, 0);
-  shape(c, () => rrect(c, 670, 625, 380, 30, 10), COL.steelDk, 6);
-  for (const kx of [740, 810]) shape(c, () => ell(c, kx, 720, 22, 22), COL.steelIn, 5);
-  shape(c, () => rrect(c, 840, 590, 140, 50, 12), COL.steel, 6); shape(c, () => ell(c, 910, 590, 70, 14), COL.steelIn, 5);
-  for (const sx of [880, 930]) line(c, [[sx, 560], [sx - 14, 520], [sx + 14, 480]], 6, WHITE);
-  // girl at the table with a notebook, looking up at the clock
-  person(c, 270, 880, 560, { armR: [0.9, -0.35], armL: [1.3, 0.1] });
-  shape(c, () => rrect(c, 40, 735, 640, 40, 10), COL.wood, 6);
-  for (const lx of [80, 620]) shape(c, () => rrect(c, lx, 770, 28, 130, 6), COL.woodDk, 6);
-  shape(c, () => polyP(c, [[330, 738], [590, 738], [620, 700], [360, 700]]), WHITE, 6);
-  for (const ly of [712, 725]) line(c, [[385, ly], [585, ly]], 3, COL.glassEdge);
-  line(c, [[470, 728], [510, 700]], 13, INK); line(c, [[470, 728], [510, 700]], 8, COL.yellow); line(c, [[470, 728], [468, 731]], 9, INK);
-  arrow(c, [[320, 440], [400, 360], [470, 300]], RED, 9);
+  shape(c, () => rrect(c, 0, 0, D, 520, 0), WALL, 0);
+  line(c, [[0, 520], [D, 520]], 6);
+  // the wall clock, big, with an arrow down to the notebook: read the time, write it
+  clk(c, 540, 250, 190, Math.PI * 0.92, Math.PI * 1.0);
+  arrow(c, [[700, 380], [830, 450], [850, 555]], RED, 11);
+  // the notebook page with one row written: the job (a pot), the person, the start time
+  shadow(c, 540, 1040, 470, 24);
+  shape(c, () => rrect(c, 80, 560, 920, 460, 26), WHITE, 7);
+  shape(c, () => rrect(c, 80, 560, 70, 460, 20), COL.teal, 7);
+  for (const ly of [740, 850, 960]) line(c, [[180, ly], [960, ly]], 4, COL.glassEdge);
+  // job: a pot
+  shape(c, () => rrect(c, 190, 640, 110, 70, 14), COL.steel, 6); shade(c, () => rrect(c, 190, 640, 110, 70, 14), COL.steelDk, 18, 0);
+  shape(c, () => ell(c, 245, 640, 55, 12), COL.steelIn, 5);
+  line(c, [[185, 665], [160, 665]], 8); line(c, [[305, 665], [330, 665]], 8);
+  // person
+  PEOPLE[1](c, 420, 665, 48);
+  // start time, the same as the clock
+  write(c, "5 30", 520, 625, 80, INK, 10);
+  // a hand holding the pencil, writing
+  const an = Math.PI + 0.8, ux = Math.cos(an), uy = Math.sin(an), wx = 880, wy = 880;
+  line(c, [[wx + ux * 40, wy + uy * 40], [wx + ux * 225, wy + uy * 225]], 26, INK); line(c, [[wx + ux * 40, wy + uy * 40], [wx + ux * 225, wy + uy * 225]], 17, COL.yellow);
+  shape(c, () => polyP(c, [[wx + ux * 215 - uy * 9, wy + uy * 215 + ux * 9], [wx + ux * 245, wy + uy * 245], [wx + ux * 215 + uy * 9, wy + uy * 215 - ux * 9]]), COL.wood, 4);
+  hand(c, wx, wy, an, 1.5, SKIN.child, CLOTH.child);
 };
 // setup.e1.1
 const e1s1 = (c: Ctx) => {
@@ -146,11 +149,13 @@ const e1s2 = (c: Ctx) => {
 // setup.e2.0
 const e2s0 = (c: Ctx) => {
   mat(c);
-  const pos: [number, number, number][] = [[-70, 70, -0.5], [60, 80, 0.6], [-30, -20, 0.2], [70, -10, -0.7], [0, 50, 0.1], [-40, 100, 2.6], [40, 20, -1.2]];
-  pos.forEach(([dx, dy, r], i) => tshirt(c, 360 + dx * 1.2, 630 + dy * 1.2, 340, SHIRTS[i][0], SHIRTS[i][1], r));
-  // the count on a tag
-  shape(c, () => rrect(c, 250, 160, 230, 120, 24), WHITE, 6);
-  write(c, "20", 295, 185, 70, INK, 10);
+  // a heap of 20 clothes
+  const r = rnd(7);
+  for (let i = 0; i < 20; i++) { const [col, dk] = SHIRTS[i % SHIRTS.length]; tshirt(c, 170 + r() * 380, 420 + r() * 470, 175, col, dk, (r() - 0.5) * 3.2); }
+  // the count: a shirt and 20
+  shape(c, () => rrect(c, 120, 100, 330, 150, 26), WHITE, 6);
+  tshirt(c, 205, 175, 90, COL.blue, COL.blueDk);
+  write(c, "20", 285, 135, 80, INK, 11);
   phone(c, 810, 580, 1, 0, "0 00", false);
 };
 // setup.e2.1

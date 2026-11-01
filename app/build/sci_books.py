@@ -1,5 +1,6 @@
 # Science / EVS syllabus read from the uploaded books (NCERT 3–5, Cambridge Learner's Books 1–5, NIOS Level A).
 # Used by the app build (make_data.py) and the board topic sheets.
+import json, os
 
 # NCERT "Our Wondrous World" (Reprint 2026-27), from the uploaded chapter PDFs: unit, chapter, covers (from each unit's Note to the Teacher).
 NCERT = {
@@ -36,15 +37,9 @@ NCERT = {
      ('Unit 5: Our Amazing Planet', 'Rhythms of Nature', 'Day and night, seasons, and how plants, animals, people and places change; nature journaling'),
      ('Unit 5: Our Amazing Planet', 'Earth — Our Shared Home', 'Earth as a connected living planet; sharing nature, knowledge and culture; Vasudhaiva Kutumbakam')],
 }
-# From the uploaded Learner's Books: unit -> (strands, topics). Stages 1 and 3 are 1st editions (older framework).
+# From the uploaded Learner's Books, all 2nd editions: unit -> (strands, topics). Books 1 and 3 are read from
+# app/content/curriculum/cambridge_sci_2e.json (added below).
 BOOK = {
- 1: ("Cambridge Primary Science Learner's Book 1 (1st ed., older framework)", [
-  ('1 Being alive', 'Biology', ['Animals and plants alive!', 'Local environments', 'Animal babies', 'Healthy food and drink']),
-  ('2 Growing plants', 'Biology', ['Plant parts', 'Growing seeds', 'Plants and light']),
-  ('3 Ourselves', 'Biology', ['We are similar', 'We are different', 'Our bodies', 'Our fantastic senses']),
-  ('4 Materials in my world', 'Chemistry', ['What is it made of?', 'Using materials', 'Sorting materials']),
-  ('5 Pushes and pulls', 'Physics', ['In the playground', 'How toys work', 'Pushes and pulls around us', 'Changing movement']),
-  ('6 Hearing sounds', 'Physics', ['Where do sounds come from?', 'Our ears', 'Sounds move'])]),
  2: ("Cambridge Primary Science Learner's Book 2 (2nd ed.)", [
   ('1 Environments and habitats', 'Biology: structure and function, life processes', ['Habitats', 'Plants in different habitats', 'Animals in different habitats', 'Rocks and the environment', 'How can we care for our environment?']),
   ('2 Forces and movement', 'Physics: forces and energy', ['Forces around us', 'Changing shape', 'Changing speed', 'Changing direction']),
@@ -52,13 +47,6 @@ BOOK = {
   ('4 Humans and animals grow', 'Biology: structure and function, life processes', ['Comparing animals', 'Growing', 'Inheriting characteristics', 'Keeping healthy', 'Teeth']),
   ('5 Light', 'Physics: light and sound', ['Light sources', 'Darkness', 'The Sun appears to move!']),
   ('6 Electricity', 'Physics: electricity and magnetism', ['Where do we use electricity?', 'Keep safe with electricity', 'Making circuits'])]),
- 3: ("Cambridge Primary Science Learner's Book 3 (1st ed., older framework)", [
-  ('1 Looking after plants', 'Biology', ['Plants and their parts', 'Plants need light and water', 'Transporting water', 'Plant growth and temperature']),
-  ('2 Looking after ourselves', 'Biology', ['Food groups', 'A healthy diet', 'An unhealthy diet', 'Exercise and sleep']),
-  ('3 Living things', 'Biology', ['Living and non-living', 'Growth and nutrition', 'Movement and reproduction', 'Sorting humans', 'Sorting living things']),
-  ('4 Our five senses', 'Biology', ['Hearing and touch', 'Taste and smell', 'Sight']),
-  ('5 Investigating materials', 'Chemistry', ['Properties of materials', 'Sorting materials', 'Uses of materials', 'Testing materials', 'Magnetic materials']),
-  ('6 Forces and movement', 'Physics', ['Push and pull', 'Changing shape', 'How big is that force?', 'Forcemeters', 'Friction'])]),
 5: ("Cambridge Primary Science Learner's Book 5 (2nd ed.)", [
   ('1 Life cycles of flowering plants', 'Biology: structure and function, life processes', ['Flowering and non-flowering plants', 'Pollination, fruits and seeds', 'How seeds are spread', 'Seed germination']),
   ('2 Sound', 'Physics: light and sound', ['How are sounds made?', 'Volume and pitch', 'Changing the volume of sound', 'Changing the pitch of sound']),
@@ -74,6 +62,8 @@ BOOK = {
   ('5 Light', 'Physics: light and sound; Earth and space: Earth in space', ['How we see things', 'Light travels in straight lines', 'Light reflects off different surfaces', 'Light in the solar system', 'Day and night', 'Investigating shadow lengths']),
   ('6 Electricity', 'Physics: electricity and magnetism', ['Which materials conduct electricity?', 'Does water conduct electricity?', 'Using conductors and insulators in electrical appliances', 'Switches', 'Changing the number of components in a circuit'])]),
 }
+for lv, b in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'content', 'curriculum', 'cambridge_sci_2e.json'))).items():
+    BOOK[int(lv)] = ("Cambridge Primary Science " + b["book"], [(u["title"], u["strand"], u["topics"]) for u in b["units"]])
 # NIOS OBE Level A (A 102), "Equivalent to Class 3", from the uploaded book (2016): lesson -> "We will learn in this lesson".
 NIOS_A = [
  ('1', 'Concept of Family and Interpersonal Relations', 'The family; relations in a family; parents\' responsibility to children; status of girls and women'),

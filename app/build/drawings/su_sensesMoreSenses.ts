@@ -71,11 +71,24 @@ const sitChild = (c: Ctx, x: number, shut: boolean) => {
 
 // ---------------------------------------------------------------- e1: cold steel, warm wood
 // setup.e1.0
+// a child's flat palm seen from above, pressed on a surface: sleeve and wrist coming in from the top, fingers spread, thumb out
+const palm = (c: Ctx, x: number, y: number, s: number) => {
+  c.save(); c.translate(x, y); c.scale(s, s);
+  shape(c, () => rrect(c, -64, -330, 128, 150, 16), CLOTH.child);
+  shade(c, () => rrect(c, -64, -330, 128, 150, 16), CLOTH.childDk, 36, 0, 0.5);
+  shape(c, () => rrect(c, -50, -190, 100, 110, 14), SKIN.child);
+  shape(c, () => { c.save(); c.translate(-62, -10); c.rotate(0.85); rrect(c, -19, -10, 38, 100, 19); c.restore(); }, SKIN.child);
+  shape(c, () => rrect(c, -78, -95, 156, 150, 44), SKIN.child);
+  shade(c, () => rrect(c, -78, -95, 156, 150, 44), SKIN.childDk, 30, 10, 0.45);
+  [[-60, 100, 0.12], [-21, 122, 0.04], [18, 112, -0.04], [56, 86, -0.14]].forEach(([fx, fl, r]) => shape(c, () => { c.save(); c.translate(fx, 30); c.rotate(r); rrect(c, -19, 0, 38, fl + 20, 19); c.restore(); }, SKIN.child));
+  line(c, [[-30, -30], [30, -30]], 4, SKIN.childDk);
+  c.restore();
+};
 const e1_0 = (c: Ctx) => {
   ground(c);
-  plate(c, 285, 700, 250, 130);
-  board(c, 800, 690, 400, 230);
-  for (const x of [285, 800]) { shadow(c, x + 30, 700, 130, 30); hand(c, x - 40, 385, Math.PI / 2, 2.4, SKIN.child, CLOTH.child, true); }
+  plate(c, 285, 720, 250, 130);
+  board(c, 800, 710, 400, 230);
+  for (const x of [285, 800]) { shadow(c, x + 24, 760, 120, 60); palm(c, x, 640, 1.35); }
 };
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
@@ -139,28 +152,43 @@ const e2_2 = (c: Ctx) => {
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  shadow(c, 315, 905, 300, 60);
-  shape(c, () => ell(c, 300, 880, 250, 62), COL.teal);
-  shape(c, () => ell(c, 300, 880, 190, 40), COL.yellow, 5);
-  person(c, 300, 880, 580, { armL: [Math.PI, Math.PI], armR: [0, 0] });
+  shadow(c, 320, 935, 330, 52);
+  shape(c, () => polyP(c, [[110, 850], [550, 850], [640, 950], [20, 950]]), COL.teal);
+  shape(c, () => polyP(c, [[150, 868], [510, 868], [570, 930], [90, 930]]), COL.yellow, 4);
+  person(c, 330, 905, 620, { armL: [Math.PI, Math.PI], armR: [0, 0] });
   const pts: number[][] = [];
-  for (let i = 0; i <= 24; i++) { const t = Math.PI * 0.75 + (i / 24) * Math.PI * 1.7; pts.push([300 + Math.cos(t) * 300, 880 + Math.sin(t) * 78]); }
-  arrow(c, pts);
-  person(c, 925, 940, 760, { adult: true, armL: [Math.PI * 0.95, Math.PI * 0.9] });
+  for (let i = 0; i <= 22; i++) { const t = Math.PI * 0.9 + (i / 22) * Math.PI * 1.55; pts.push([330 + Math.cos(t) * 270, 620 + Math.sin(t) * 60]); }
+  arrow(c, pts, RED, 12);
+  person(c, 880, 950, 780, { adult: true, armL: [Math.PI * 0.97, Math.PI * 1.02], armR: [Math.PI * 0.8, Math.PI * 0.97] });
 };
 // setup.e3.1
+// close-up: the child's face, eyes looking at the grown-up's face, flick arrows over the eyes, a stopwatch in a hand below
+const faceBig = (c: Ctx, x: number, y: number, r: number, skin: string, cloth: string, clothDk: string, child: boolean, look: number) => {
+  shape(c, () => rrect(c, x - r * 1.1, y + r * 1.15, r * 2.2, r * 1.2, r * 0.4), cloth);
+  shade(c, () => rrect(c, x - r * 1.1, y + r * 1.15, r * 2.2, r * 1.2, r * 0.4), clothDk, r * 0.35, 0, 0.5);
+  shape(c, () => rrect(c, x - r * 0.28, y + r * 0.85, r * 0.56, r * 0.5, 10), skin);
+  shape(c, () => ell(c, x, y, r, r * 1.08), skin);
+  shape(c, () => { c.moveTo(x - r * 1.02, y - r * 0.1); c.bezierCurveTo(x - r * 1.1, y - r * 1.7, x + r * 1.1, y - r * 1.7, x + r * 1.02, y - r * 0.1); c.quadraticCurveTo(x, y - r * 0.75, x - r * 1.02, y - r * 0.1); c.closePath(); }, CLOTH.hair, 5);
+  if (child) shape(c, () => ell(c, x - look * r * 0.95, y - r * 0.55, r * 0.26, r * 0.45), CLOTH.hair, 4);
+  for (const s of [-1, 1]) {
+    const ex = x + s * r * 0.38, ey = y + r * 0.12;
+    shape(c, () => ell(c, ex, ey, r * 0.22, r * 0.18), WHITE, 4);
+    shape(c, () => ell(c, ex + look * r * 0.1, ey, r * 0.1, r * 0.1), INK, 0);
+  }
+  c.beginPath(); c.arc(x, y + r * 0.5, r * 0.3, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+};
 const e3_1 = (c: Ctx) => {
   ground(c);
-  shadow(c, 540, 905, 480, 40);
-  person(c, 230, 880, 560, { sit: true });
-  person(c, 800, 880, 640, { sit: true, adult: true });
-  const cy = 880 - 560 * 0.38 - 560 * 0.13 * 1.05 + 560 * 0.13 * 0.14;
-  dots(c, [262, cy], [725, cy], 14, RED);
-  arrow(c, [[60, cy], [135, cy]]); arrow(c, [[135, cy], [60, cy]]);
-  phone(c, 540, 980, 300, 160);
-  shape(c, () => ell(c, 540, 982, 50, 50), WHITE, 5);
-  line(c, [[540, 982], [540, 945]], 7); line(c, [[540, 982], [568, 998]], 7);
-  shape(c, () => rrect(c, 526, 920, 28, 14, 4), INK, 0);
+  faceBig(c, 290, 380, 200, SKIN.child, CLOTH.child, CLOTH.childDk, true, 1);
+  faceBig(c, 810, 380, 170, SKIN.adult, CLOTH.adult, CLOTH.adultDk, false, -1);
+  dots(c, [400, 405], [700, 405], 12, RED);
+  for (const ex of [214, 366]) { arrow(c, [[ex - 40, 300], [ex + 40, 300]], RED, 9); arrow(c, [[ex + 40, 300], [ex - 40, 300]], RED, 9); }
+  // a stopwatch held in a hand
+  shape(c, () => rrect(c, 566, 740, 40, 40, 8), COL.steelDk, 5);
+  shape(c, () => ell(c, 586, 880, 110, 110), WHITE, 7);
+  for (let k = 0; k < 12; k++) { const t = (k / 12) * Math.PI * 2; line(c, [[586 + Math.cos(t) * 86, 880 + Math.sin(t) * 86], [586 + Math.cos(t) * 100, 880 + Math.sin(t) * 100]], 5); }
+  line(c, [[586, 880], [586, 810]], 8, RED); line(c, [[586, 880], [640, 905]], 8);
+  hand(c, 370, 890, 0, 1.8, SKIN.child, CLOTH.child);
 };
 
 export const su_sensesMoreSenses = cards("sci.senses.more-senses.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1]);

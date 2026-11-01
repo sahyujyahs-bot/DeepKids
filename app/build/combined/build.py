@@ -216,6 +216,14 @@ if os.path.exists(os.path.join(LIFE, 'tags.json')):
     data['life'] = {'tags': tags, 'acts': [a for a in acts if a['links']]}
     print('life:', len(data['life']['acts']), 'activities,', len(tags), 'tags')
 data['combined'] = plan
+# the topic ladder for the Library's "By topic and level" view: strand > topic > level > its subtopic lessons
+# [id, name, on a board's syllabus], whether or not the unit is written yet
+STRANDS = ["Life", "Body and health", "Matter", "Physics", "Earth and space", "People and society", "Nature of science", "The Deep End"]
+lad = {}
+for t in sorted(CUR['topic_levels'], key=lambda t: (STRANDS.index(t['strand']), t['name'], t['level'])):
+    lad.setdefault(t['topic'], {"strand": t['strand'], "name": t['name'], "levels": []})['levels'].append(
+        [t['level'], [[s, SUB[s]['name'], bool(SUB[s]['chapters'])] for s in t['subtopic_levels']]])
+data['ladder'] = {'sci': list(lad.values())}
 data.pop('notebook', None)
 json.dump(data, open(DATA, 'w'), ensure_ascii=False, separators=(",", ":"))
 tot = sum(len(L) for s in plan.values() for L in s.values())

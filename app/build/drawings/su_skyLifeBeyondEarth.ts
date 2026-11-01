@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { INK, WHITE, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, bowl, hand, write, cards } from "./flatKit";
+import { INK, WHITE, rnd, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, bowl, hand, write, cards } from "./flatKit";
 
 // sci.sky.life-beyond-earth.L3 · salt water freezing: katoris, freezer, cup, ice. Same katori and same cup on every card.
 const ICE = "#eaf6fd", ICEDK = "#bcd9ea", SALTW = "#c3def2", SEAW = "#4f86c6";
@@ -45,16 +45,24 @@ const e1_1 = (c: Ctx) => {
 const e1_2 = (c: Ctx) => {
   ground(c);
   const R = 115;
-  bowl(c, 170, 440, R, ICE); shine(c, [[90, 440], [140, 452]], 10);
-  bowl(c, 470, 440, R, COL.waterDk);
-  [[420, 438, 40, 18], [490, 436, 36, 16], [535, 444, 24, 11]].forEach(([x, y, rx, ry]) => shape(c, () => ell(c, x, y, rx, ry), ICE, 5));
-  write(c, "0", 150, 130, 100, INK, 12); write(c, "1", 450, 130, 100, INK, 12); write(c, "6", 780, 130, 100, INK, 12);
-  // third katori tilted by a hand: clear water slides to the low lip and drips
-  c.save(); c.translate(800, 440); c.rotate(0.45); bowl(c, 0, 0, R, COL.water); c.restore();
-  shape(c, () => ell(c, 800, 456, 78, 20, 0.0), COL.water, 0);
-  [[935, 500, 15], [960, 560, 13], [972, 620, 11]].forEach(([x, y, r]) => shape(c, () => { c.moveTo(x, y - r * 1.8); c.quadraticCurveTo(x + r, y - r * 0.2, x, y + r); c.quadraticCurveTo(x - r, y - r * 0.2, x, y - r * 1.8); c.closePath(); }, COL.water, 4));
-  hand(c, 820, 623, -2.0, 1.7);
-  arrow(c, [[660, 300], [740, 255], [840, 270]]);
+  // katori 0: frozen solid, a white ice dome standing up over the rim, cracked
+  bowl(c, 150, 540, R, ICE);
+  const dome = () => { c.moveTo(45, 540); c.bezierCurveTo(50, 400, 250, 400, 255, 540); c.bezierCurveTo(200, 570, 100, 570, 45, 540); c.closePath(); };
+  shape(c, dome, WHITE, 6); shade(c, dome, ICEDK, 45, 0, 0.8);
+  line(c, [[110, 440], [140, 480], [125, 520]], 5, COL.blue); line(c, [[190, 450], [170, 495]], 5, COL.blue);
+  shine(c, [[80, 500], [100, 450], [135, 425]], 10);
+  // katori 1: soft, ice chunks floating in water (slush)
+  bowl(c, 450, 540, R, COL.waterDk);
+  [[395, 538, 36, 18, -0.2], [455, 548, 32, 15, 0.3], [505, 536, 30, 14, 0.1], [425, 520, 22, 11, 0.4], [480, 524, 20, 10, -0.3]].forEach(([x, y, rx, ry, r]) => shape(c, () => ell(c, x, y, rx, ry, r), WHITE, 5));
+  write(c, "0", 125, 200, 110, INK, 13); write(c, "1", 425, 200, 110, INK, 13); write(c, "6", 745, 120, 110, INK, 13);
+  // katori 6: tilted by a hand, clear water streams out of the low lip into a puddle
+  const L = [905, 545];
+  shape(c, () => { c.moveTo(L[0] - 12, L[1] - 6); c.bezierCurveTo(L[0] + 60, L[1] - 6, L[0] + 90, L[1] + 150, L[0] + 85, 860); c.lineTo(L[0] + 62, 860); c.bezierCurveTo(L[0] + 62, L[1] + 150, L[0] + 20, L[1] + 40, L[0] - 24, L[1] + 24); c.closePath(); }, COL.water, 5);
+  [[L[0] + 108, 700, 13], [L[0] + 100, 780, 11]].forEach(([x, y, r]) => shape(c, () => { c.moveTo(x, y - r * 1.8); c.quadraticCurveTo(x + r, y - r * 0.2, x, y + r); c.quadraticCurveTo(x - r, y - r * 0.2, x, y - r * 1.8); c.closePath(); }, COL.water, 4));
+  c.save(); c.translate(800, 470); c.rotate(0.5); bowl(c, 0, 0, R, COL.water); c.restore();
+  shape(c, () => ell(c, 985, 885, 70, 20), COL.water, 5); shine(c, [[945, 883], [985, 877]], 7);
+  hand(c, 820, 650, -2.0, 1.7);
+  arrow(c, [[875, 290], [950, 320], [985, 395]]);
 };
 
 // a tall cup of water, the same size and place on cards 3 and 4: pale salty water, or an ice layer over dark water
@@ -64,13 +72,20 @@ const cup = (c: Ctx, iced: boolean) => {
   const slab = (g0: number, g1: number) => () => { c.moveTo(CX - hw(g1), yAt(g1)); c.lineTo(CX + hw(g1), yAt(g1)); c.lineTo(CX + hw(g0), yAt(g0)); c.lineTo(CX - hw(g0), yAt(g0)); c.closePath(); };
   shadow(c, CX + 40, CY + 6, CW * 0.6, 40);
   if (!iced) { shape(c, slab(0, 0.75), SALTW, 0); shape(c, () => ell(c, CX, yAt(0.75), hw(0.75), 26), "#dcedf9", 0); [[470, 640], [560, 700], [620, 600], [510, 780], [600, 800], [450, 730]].forEach(([x, y]) => { c.beginPath(); c.arc(x, y, 5, 0, 7); c.fillStyle = WHITE; c.fill(); }); }
-  else {
-    shape(c, slab(0, 0.52), SEAW, 0); shade(c, slab(0, 0.52), COL.blueDk, 40, 0, 0.5);
-    shape(c, slab(0.5, 0.78), ICE, 4); shade(c, slab(0.5, 0.78), ICEDK, 50, 0, 0.7);
-    shape(c, () => ell(c, CX, yAt(0.78), hw(0.78), 26), WHITE, 4);
-    line(c, [[420, 600], [470, 560], [500, 590]], 5, ICEDK); line(c, [[590, 570], [640, 540]], 5, ICEDK); line(c, [[520, 520], [560, 500]], 5, ICEDK);
-  }
   shape(c, () => { c.moveTo(CX - TOP, yAt(1)); c.lineTo(CX + TOP, yAt(1)); c.lineTo(CX + BOT, CY); c.lineTo(CX - BOT, CY); c.closePath(); }, COL.glass, 6);
+  if (iced) {
+  shape(c, slab(0, 0.52), SEAW, 0); shade(c, slab(0, 0.52), COL.blueDk, 40, 0, 0.5);
+  // the ice layer: a thick white slab with a jagged underside poking down into the dark water
+  const yt = yAt(0.86), yb = yAt(0.52), xl = CX - hw(0.86), xr = CX + hw(0.86);
+  const slabIce = () => { c.moveTo(xl, yt); c.lineTo(xr, yt); c.lineTo(CX + hw(0.52), yb); [[1, 60], [2, 20], [3, 75], [4, 35], [5, 55]].forEach(([k, d]) => c.lineTo(CX + hw(0.52) - k * ((2 * hw(0.52)) / 6), yb + d)); c.lineTo(CX - hw(0.52), yb); c.closePath(); };
+  shape(c, slabIce, "#e4f6fd", 6); shade(c, slabIce, ICEDK, 60, 0, 0.8);
+  shape(c, () => ell(c, CX, yt, hw(0.86), 26), WHITE, 6);
+  line(c, [[450, yt - 6], [510, yt + 10], [490, yt + 20], [560, yt + 20]], 5, COL.blue); line(c, [[610, yt - 4], [650, yt + 12]], 5, COL.blue);
+  line(c, [[440, yt + 60], [490, yt + 120], [470, yt + 180]], 6, COL.blue); line(c, [[610, yt + 50], [640, yt + 110]], 6, COL.blue);
+  shine(c, [[400, yt + 40], [410, yt + 150]], 10);
+  [[520, yt + 120], [570, yt + 170]].forEach(([x, y]) => shape(c, () => ell(c, x, y, 8, 8), ICE, 3));
+    line(c, [[CX - TOP, yAt(1)], [CX - BOT, CY], [CX + BOT, CY], [CX + TOP, yAt(1)]], 6);
+  }
   shape(c, () => ell(c, CX, yAt(1), TOP, 28), "rgba(255,255,255,0.35)", 6);
   shine(c, [[CX - TOP * 0.7, yAt(0.9)], [CX - BOT * 0.75, yAt(0.15)]], 9);
 };
@@ -113,10 +128,15 @@ const e2_2 = (c: Ctx) => {
   [[240, 410], [380, 410]].forEach(([x, y]) => { shape(c, () => ell(c, x, y, 20, 26), WHITE, 4); shape(c, () => ell(c, x + 8, y + 2, 12, 16), INK, 0); });
   shape(c, () => ell(c, 440, 520, 42, 34), "#7a2f2f", 6);
   shape(c, () => ell(c, 436, 534, 22, 14), COL.pink, 0);
-  // the spoon with a piece of ice, held by her hand
-  line(c, [[500, 545], [900, 700]], 22, INK); line(c, [[500, 545], [900, 700]], 11, COL.steel);
-  shape(c, () => ell(c, 490, 545, 50, 30, 0.35), COL.steel, 6);
-  shape(c, () => polyP(c, [[462, 510], [512, 498], [530, 535], [480, 548]]), ICE, 5); shine(c, [[472, 514], [500, 508]], 6);
+  // the spoon with a big piece of ice, held by her hand, right at her mouth
+  line(c, [[590, 565], [900, 700]], 22, INK); line(c, [[590, 565], [900, 700]], 11, COL.steel);
+  shape(c, () => ell(c, 555, 550, 62, 36, 0.35), COL.steel, 6);
+  const S = 58, X = 555, Y = 502;
+  shape(c, () => polyP(c, [[X - S, Y - S * 0.4], [X, Y - S * 0.9], [X + S, Y - S * 0.4], [X, Y + S * 0.1]]), WHITE, 5);
+  shape(c, () => polyP(c, [[X - S, Y - S * 0.4], [X, Y + S * 0.1], [X, Y + S * 1.1], [X - S, Y + S * 0.6]]), "#d4ecf8", 5);
+  shape(c, () => polyP(c, [[X, Y + S * 0.1], [X + S, Y - S * 0.4], [X + S, Y + S * 0.6], [X, Y + S * 1.1]]), "#a9cfe6", 5);
+  line(c, [[X - S * 0.6, Y - S * 0.1], [X - S * 0.6, Y + S * 0.35]], 6, WHITE);
+  line(c, [[X + 20, Y + S * 1.15], [X + 18, Y + S * 1.5]], 6, COL.water);
   hand(c, 926, 715, -2.77, 1.7);
   // the katori of dark leftover water
   bowl(c, 780, 925, 130, SEAW);

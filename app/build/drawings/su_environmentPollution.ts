@@ -258,21 +258,21 @@ const e3_1 = (c: Ctx) => {
   // clearer water dripping from the neck
   drop(c, 440, 790, 13, CLEAR); drop(c, 440, 850, 10, CLEAR);
   // the glass tilted, brown water flowing over the lip into the funnel
-  const lipx = 400, lipy = 240, an = -1.95, gw = 190, gh = 270;
+  const lipx = 442, lipy = 125, an = -1.134, gw = 200, gh = 240;
   const P = (u: number, v: number) => [lipx + (u - 0) * Math.cos(an) - (v - 0) * Math.sin(an) + 0, lipy + u * Math.sin(an) + v * Math.cos(an)];
   // glass local: rim centre at local (0, -gh) -> placed at the lip; so shift so rim centre is at lip
   const gx = lipx - (0 * Math.cos(an) - (-gh) * Math.sin(an)), gy = lipy - (0 * Math.sin(an) + (-gh) * Math.cos(an));
   const Q = (u: number, v: number) => [gx + u * Math.cos(an) - v * Math.sin(an), gy + u * Math.sin(an) + v * Math.cos(an)];
   void P;
   const body = () => polyP(c, [Q(-gw / 2, -gh), Q(gw / 2, -gh), Q(gw * 0.4, 0), Q(-gw * 0.4, 0)]);
-  shape(c, body, COL.glass, 5);
+  shape(c, body, "rgba(236,244,250,0.9)", 5);
   // brown water: the part of the glass lower than the lip, level in the world
-  c.save(); c.beginPath(); body(); c.clip(); c.fillStyle = MUD; c.beginPath(); c.rect(-100, lipy + 20, 1400, 800); c.fill(); c.restore();
-  shape(c, body, "rgba(0,0,0,0)", 5);
+  c.save(); c.beginPath(); body(); c.clip(); c.fillStyle = MUD; c.beginPath(); c.rect(-100, lipy + 91, 1400, 800); c.fill(); c.restore();
+  shape(c, body, "rgba(0,0,0,0)", 8);
   line(c, [Q(-gw * 0.3, -gh * 0.9), Q(-gw * 0.2, -gh * 0.2)], 9, "rgba(255,255,255,0.7)");
   // the stream
-  line(c, [[lipx, lipy + 10], [lipx + 6, lipy + 60], [lipx + 10, 345]], 26, INK); line(c, [[lipx, lipy + 10], [lipx + 6, lipy + 60], [lipx + 10, 345]], 15, MUD);
-  handAt(c, gx + 0 + Q(0, -gh * 0.35)[0] - gx, Q(0, -gh * 0.35)[1], Math.PI - 0.45, 1.4);
+  line(c, [[lipx - 42, lipy + 94], [lipx - 41, lipy + 120], [lipx - 40, 352]], 36, INK); line(c, [[lipx - 42, lipy + 94], [lipx - 41, lipy + 120], [lipx - 40, 352]], 24, MUD);
+  handAt(c, gx + 0 + Q(0, -gh * 0.2)[0] - gx, Q(0, -gh * 0.2)[1], Math.PI - 0.5, 1.45);
   arrow(c, [[250, 140], [250, 235]], RED, 12);
 };
 
@@ -280,26 +280,38 @@ const e3_1 = (c: Ctx) => {
 const e3_2 = (c: Ctx) => {
   ground(c);
   // sunshine
-  for (let i = 0; i < 10; i++) { const a = (i / 10) * Math.PI * 2; line(c, [[170 + Math.cos(a) * 110, 160 + Math.sin(a) * 110], [170 + Math.cos(a) * 160, 160 + Math.sin(a) * 160]], 12, COL.orange); }
-  shape(c, () => ell(c, 170, 160, 85, 85), COL.yellow, 7);
-  // the steel plate with its two dried spots
-  c.save(); c.translate(0, -100); shadow(c, 560, 720, 450, 150);
-  shape(c, () => ell(c, 540, 560, 470, 240), COL.steel, 7);
-  shape(c, () => ell(c, 540, 550, 395, 192), "#aeb8c6", 5);
-  shade(c, () => ell(c, 540, 560, 470, 240), COL.steelDk, -60, -30, 0.5);
-  // thick white crust, left
-  const crust = () => { c.moveTo(210, 520); c.quadraticCurveTo(250, 440, 340, 455); c.quadraticCurveTo(440, 460, 450, 540); c.quadraticCurveTo(455, 640, 350, 650); c.quadraticCurveTo(230, 660, 210, 520); c.closePath(); };
-  shape(c, crust, WHITE, 6); shade(c, crust, "#d6d2c8", -26, -18, 0.8);
-  const r = rnd(33); for (let i = 0; i < 16; i++) shape(c, () => ell(c, 245 + r() * 180, 480 + r() * 150, 14, 10, r()), WHITE, 3);
-  // faint ring, right
-  c.beginPath(); ell(c, 720, 555, 115, 78); c.strokeStyle = "rgba(255,255,255,0.8)"; c.lineWidth = 9; c.stroke();
-  c.beginPath(); ell(c, 720, 555, 118, 80); c.strokeStyle = "rgba(43,35,64,0.22)"; c.lineWidth = 3; c.stroke();
-  c.restore();
-  // what each spot came from: soil filter and tap
-  c.save(); c.translate(335, 745); c.scale(0.3, 0.3); bottle(c, 0, 340, 120, COL.soil, true); c.restore();
-  const tx = 720, tp = [[tx - 100, 800], [tx + 20, 800], [tx + 20, 870]];
-  line(c, tp, 58, INK); line(c, tp, 44, COL.steel);
-  drop(c, tx + 20, 940, 22);
+  for (let i = 0; i < 8; i++) { const a = (i / 8) * Math.PI * 2; line(c, [[130 + Math.cos(a) * 75, 110 + Math.sin(a) * 75], [130 + Math.cos(a) * 112, 110 + Math.sin(a) * 112]], 10, COL.orange); }
+  shape(c, () => ell(c, 130, 110, 55, 55), COL.yellow, 7);
+  // the steel plate in the sun, with its two dried spots
+  const py = 380;
+  shadow(c, 560, py + 190, 450, 120);
+  shape(c, () => ell(c, 540, py, 470, 215), COL.steel, 7);
+  shape(c, () => ell(c, 540, py - 6, 395, 165), "#aeb8c6", 5);
+  shade(c, () => ell(c, 540, py, 470, 215), COL.steelDk, -60, -30, 0.5);
+  // thick white crust of salt, left: a raised lump with square crystals
+  const crust = () => { c.moveTo(170, py - 10); c.quadraticCurveTo(200, py - 100, 330, py - 95); c.quadraticCurveTo(470, py - 90, 480, py); c.quadraticCurveTo(480, py + 100, 330, py + 100); c.quadraticCurveTo(180, py + 100, 170, py - 10); c.closePath(); };
+  c.save(); c.translate(10, 22); shape(c, crust, "#8c96a6", 0); c.restore();
+  shape(c, crust, WHITE, 7); shade(c, crust, "#d6d2c8", -30, -22, 0.8);
+  const r = rnd(33);
+  for (let i = 0; i < 18; i++) { const x = 215 + r() * 230, y = py - 65 + r() * 150, q = 17 + r() * 8; c.save(); c.translate(x, y); c.rotate(r() * 1.2); shape(c, () => rrect(c, -q / 2, -q / 2, q, q, 3), WHITE, 3.5); c.restore(); }
+  // faint dried ring, right: only a thin pale mark, the plate shows through
+  c.beginPath(); ell(c, 760, py, 120, 66); c.strokeStyle = "rgba(255,255,255,0.85)"; c.lineWidth = 11; c.stroke();
+  c.beginPath(); ell(c, 760, py, 128, 72); c.strokeStyle = "rgba(43,35,64,0.25)"; c.lineWidth = 3; c.stroke();
+  // left source: a soil funnel over a jar of filtered water
+  const fx = 330, jt = 800;
+  shape(c, () => rrect(c, fx - 90, jt, 180, 170, 20), "rgba(236,244,250,0.9)", 6);
+  shape(c, () => rrect(c, fx - 84, jt + 110, 168, 54, 16), CLEAR, 0);
+  shape(c, () => rrect(c, fx - 90, jt, 180, 170, 20), "rgba(0,0,0,0)", 6);
+  const funnel = () => { c.moveTo(fx - 130, jt - 120); c.lineTo(fx + 130, jt - 120); c.lineTo(fx + 20, jt + 5); c.lineTo(fx + 20, jt + 50); c.lineTo(fx - 20, jt + 50); c.lineTo(fx - 20, jt + 5); c.closePath(); };
+  shape(c, funnel, COL.soil, 6); shade(c, funnel, COL.soilDk, 40, 0, 0.6);
+  drop(c, fx, jt + 96, 13, CLEAR);
+  arrow(c, [[fx, jt - 140], [fx, 540]], RED, 12);
+  // right source: water from a tap into a katori
+  const tx = 760, tp = [[980, 790], [tx, 790], [tx, 850]];
+  line(c, tp, 62, INK); line(c, tp, 48, COL.steel);
+  drop(c, tx, 905, 20);
+  bowl(c, tx, 985, 105, COL.water);
+  arrow(c, [[tx, 750], [tx, 540]], RED, 12);
 };
 
 export const su_environmentPollution = cards("sci.environment.pollution.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

@@ -148,7 +148,7 @@ const spoonsPair = (c: Ctx) => {
 };
 
 // a spoon standing in a steel tumbler of hot water; origin = middle of the tumbler's base on the table
-const spoonStanding = (c: Ctx, cx: number, gy: number, s: number, slide: boolean) => {
+const spoonStanding = (c: Ctx, cx: number, gy: number, s: number, big = false) => {
   c.save(); c.translate(cx, gy); c.scale(s, s);
   tumbler(c, 0, -280, 0, 130, 105);
   steam(c, -70, -290, 150); steam(c, 70, -290, 120);
@@ -156,12 +156,11 @@ const spoonStanding = (c: Ctx, cx: number, gy: number, s: number, slide: boolean
   c.beginPath(); c.rect(-400, -1000, 800, 720); ell(c, 0, -280, 130, 34); c.clip();
   c.translate(12, -20); c.rotate(-Math.PI / 2);
   handle(c, 0, 560, 34);
-  if (slide) { shape(c, () => ell(c, 322, 2, 40, 22), BUTTER, 5); pepper(c, 300, -4, 11); }
-  else butter(c, 330, -2, 24);
+  butter(c, 330, -2, big ? 34 : 24);
   c.restore(); c.restore();
 };
 // a spoon lying level: head in a bowl of hot water, handle across the rim and on a stack of books
-const spoonLying = (c: Ctx, bx: number, by: number, s: number, slide: boolean) => {
+const spoonLying = (c: Ctx, bx: number, by: number, s: number, big = false) => {
   c.save(); c.translate(bx, by); c.scale(s, s);
   bowl(c, 0, 0, 170, COL.water);
   shape(c, () => ell(c, -40, 2, 120, 26), COL.drop, 0);
@@ -176,26 +175,25 @@ const spoonLying = (c: Ctx, bx: number, by: number, s: number, slide: boolean) =
   c.restore();
   shape(c, () => ell(c, -40, 2, 105, 30), COL.steel);
   shape(c, () => ell(c, -42, 0, 84, 22), COL.steelIn, 4);
-  if (slide) { shape(c, () => ell(c, 230, -3, 38, 18), BUTTER, 5); pepper(c, 244, 3, 11); }
-  else butter(c, 226, -6, 22);
+  butter(c, 226, big ? -10 : -6, big ? 32 : 22);
   c.restore();
 };
 // setup.e2.1
 const spoonsSetUp = (c: Ctx) => {
   ground(c);
-  spoonStanding(c, 215, 900, 1, false);
-  spoonLying(c, 565, 790, 1, false);
+  spoonStanding(c, 215, 900, 1);
+  spoonLying(c, 565, 790, 1);
 };
-// setup.e2.2
+// setup.e2.2: a hand holds up the phone timer over the two spoons; each dot is about to slide towards the water
 const spoonsWatched = (c: Ctx) => {
   ground(c);
-  person(c, 540, 860, 700, { armR: [1.0, -0.9] });
-  c.fillStyle = "#e0c28e"; c.fillRect(0, 520, 1080, 560);
-  line(c, [[0, 520], [1080, 520]], 6);
-  spoonStanding(c, 170, 1010, 0.85, true);
-  spoonLying(c, 650, 925, 0.85, true);
-  phone(c, 880, 300, 150, 260, 0.2);
-  hand(c, 751, 375, -0.9, 0.8);
+  phone(c, 800, 190, 190, 320, 0.08);
+  hand(c, 590, 215, 0.08, 1.7);
+  spoonStanding(c, 215, 1000, 1, true);
+  spoonLying(c, 620, 900, 0.95, true);
+  // the same red arrow on each handle, pointing down the handle towards the hot water
+  arrow(c, [[186, 470], [186, 590]]);
+  arrow(c, [[930, 825], [820, 825]]);
 };
 
 export const su_energyHeatMoves = cards("sci.energy.heat-moves.L3 set-up", [ladleMarks, ladleDots, ladleStart, ladleLater, spoonsPair, spoonsSetUp, spoonsWatched]);

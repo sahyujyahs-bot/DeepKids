@@ -64,15 +64,18 @@ const tumbler = (c: Ctx, x: number, yBase: number, wb: number, wt: number, h: nu
   shape(c, () => ell(c, x, yBase - h, wt, wt * 0.22), COL.steelIn, 6);
   shape(c, () => ell(c, x, yBase - h + 2, wt * 0.86, wt * 0.17), water ? COL.water : COL.steelDk, 3);
 };
-// a chalk piece: sharp corners, or rounded; white with a grey shade side
-const chalk = (c: Ctx, x: number, y: number, r: number, rot: number, seedN: number, round = false) => {
-  let p: () => void;
-  if (round) p = () => ell(c, x, y, r, r * 0.78, rot);
-  else { const rr = rnd(seedN), pts: number[][] = []; for (let i = 0; i < 6; i++) { const a = rot + (i * Math.PI) / 3 + (rr() - 0.5) * 0.4, d = r * (0.72 + rr() * 0.45); pts.push([x + Math.cos(a) * d, y + Math.sin(a) * d * 0.75]); } p = () => polyP(c, pts); }
-  shape(c, p, "#fffdf5", 5); sh(c, p, "#cfc8b6", r * 0.45, 0.75);
+// a chalk bit: a short white stick, the round end face showing; a broken bit has one jagged end, a worn one is rounded both ends
+const chalk = (c: Ctx, x: number, y: number, r: number, rot: number, worn = false) => {
+  c.save(); c.translate(x, y); c.rotate(rot);
+  const h = r * 0.95, body = () => {
+    if (worn) { rrect(c, -r, -h / 2, r * 2, h, h * 0.45); return; }
+    c.moveTo(-r + 2, -h * 0.5); c.lineTo(r, -h * 0.5); c.ellipse(r, 0, r * 0.26, h * 0.5, 0, -Math.PI / 2, Math.PI / 2); c.lineTo(-r + 2, h * 0.5); c.lineTo(-r - 3, h * 0.1); c.lineTo(-r + 3, -h * 0.15); c.closePath();
+  };
+  shape(c, body, "#fffdf5", 5); shade(c, body, "#cfc8b6", -r * 0.1, -h * 0.3, 0.75);
+  shape(c, () => ell(c, r, 0, r * 0.26, h * 0.5), "#ece6d4", 4);
+  c.restore();
 };
 // a steel tiffin box, rim centre (x, y), rim radii (rx, ry), height h. open: the inside shows (a floor); closed: a lid
-const TX = 230, TY = 100, TH = 170;
 const tiffin = (c: Ctx, x: number, y: number, rx: number, ry: number, h: number, open: boolean) => {
   shadow(c, x + rx * 0.12, y + h + ry * 0.55, rx * 1.02, ry * 0.6);
   const body = () => { c.moveTo(x - rx, y); c.lineTo(x - rx, y + h); c.ellipse(x, y + h, rx, ry, 0, Math.PI, 0, true); c.lineTo(x + rx, y); c.closePath(); };
@@ -214,10 +217,10 @@ const e2_2 = (c: Ctx) => {
   shape(c, pud, COL.water, 5); sh(c, pud, COL.waterDk, 50, 0.7);
   shine(c, [[lx - 110, ly - 12], [lx - 50, ly - 22]], 9);
   for (const k of [1, 1.9, 2.8]) { c.beginPath(); c.ellipse(396, ly + 4, 22 * k, 7 * k, 0, 0, Math.PI * 2); c.strokeStyle = WHITE; c.lineWidth = 4; c.stroke(); }
-  // right: ten tunnels, the water has gone down them; the top is dry and air bubbles up
+  // right: ten tunnels, the water has gone down them: the top is dry and each hole shows a little water at its bottom
   const [rx, ry] = cup(c, CUP_R, RIM, CRX, CRY, CH);
-  tunnels(c, rx, ry, 1);
-  for (const [bx, by, br] of [[-90, -30, 15], [-30, -44, 11], [30, -42, 17], [100, -36, 12], [120, -4, 10]]) { shape(c, () => ell(c, rx + bx, ry + by, br, br), "rgba(233,243,255,0.85)", 4); shine(c, [[rx + bx - br * 0.4, ry + by - br * 0.2], [rx + bx - br * 0.2, ry + by - br * 0.5]], 3); }
+  tunnels(c, rx, ry, 1.2);
+  HOLES.forEach(([dx, dy]) => shape(c, () => ell(c, rx + dx * 1.2, ry + dy * 1.2 + 4, 10, 4), COL.water, 0));
   // the tumbler pouring into the left cup
   c.save(); c.translate(260, 290); c.rotate(1.9); c.translate(-260, -(290 + 130));
   tumbler(c, 260, 290 + 130 + 130, 76, 96, 260, 1);
@@ -231,18 +234,21 @@ const e2_2 = (c: Ctx) => {
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  const piece = (x: number, y: number, k: number) => chalk(c, x, y, 43, k * 0.9, 100 + k);
-  const spots = [[-105, -14], [0, -18], [105, -10], [-105, 30], [0, 36], [105, 32]];
-  for (const [x, wet] of [[270, false], [810, true]] as [number, boolean][]) {
-    tiffin(c, x, 560, TX, TY, TH, true);
-    spots.forEach(([dx, dy], i) => piece(x + dx, 582 + dy, i + (wet ? 6 : 0)));
-    if (wet) {
-      c.globalAlpha = 0.62; shape(c, () => ell(c, x, 572, TX * 0.9, TY * 0.8), COL.water, 0); c.globalAlpha = 1;
-      shine(c, [[x - 150, 545], [x - 90, 535]], 8);
-      for (const [dx, dy] of [[130, 540], [160, 560]]) shape(c, () => ell(c, x + dx - 60, dy - 8, 10, 7), COL.drop, 2.5);
-    }
-    c.beginPath(); ell(c, x, 560, TX, TY); c.strokeStyle = INK; c.lineWidth = 6; c.stroke();
+  const rx = 190, ry = 80, h = 150, ty = 720, spots = [[-95, -8], [0, -12], [95, -6], [-95, 30], [0, 34], [95, 30]];
+  for (const [x, wet] of [[250, false], [720, true]] as [number, boolean][]) {
+    tiffin(c, x, ty, rx, ry, h, true);
+    if (wet) { c.globalAlpha = 0.6; shape(c, () => ell(c, x, ty + 20, rx * 0.84, ry * 0.7), COL.water, 0); c.globalAlpha = 1; }
+    spots.forEach(([dx, dy], i) => chalk(c, x + dx, ty + 22 + dy, 40, i * 0.9 - 0.4));
+    if (wet) { shine(c, [[x - 110, ty + 8], [x - 60, ty + 2]], 8); c.beginPath(); ell(c, x, ty, rx, ry); c.strokeStyle = INK; c.lineWidth = 6; c.stroke(); }
   }
+  // a tumbler of water tipped over the right box
+  c.save(); c.translate(830, 300); c.rotate(-1.9); c.translate(0, -130);
+  tumbler(c, 0, 260, 76, 96, 260, 1);
+  c.restore();
+  const wp = () => { c.moveTo(716, 395); c.quadraticCurveTo(700, 410, 704, 450); c.lineTo(706, ty + 14); c.lineTo(742, ty + 14); c.lineTo(742, 450); c.quadraticCurveTo(738, 410, 730, 392); c.closePath(); };
+  shape(c, wp, COL.water, 4);
+  armHand(c, 960, 310, Math.PI, 1.5);
+  arrow(c, [[610, 440], [610, 590]]);
 };
 
 // setup.e3.1
@@ -258,36 +264,40 @@ const e3_1 = (c: Ctx) => {
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c);
-  // left: the dry box. Rounded pieces and a heap of powder on a dark plate
-  shadow(c, 290, 640, 215, 120);
-  shape(c, () => ell(c, 270, 610, 215, 120), "#4a4658", 6);
-  shape(c, () => ell(c, 270, 618, 180, 92), "#3a3540", 4);
-  for (const [x, y, r, a] of [[170, 580, 46, 0.2], [262, 555, 38, 1.2], [352, 600, 48, 0.7], [190, 668, 36, 2], [352, 675, 32, 0.4]] as number[][]) chalk(c, x, y, r, a, 0, true);
-  const pw = () => ell(c, 265, 640, 78, 36);
-  shape(c, pw, "#f3efe4", 3); sh(c, pw, "#cfc8b6", 20, 0.7);
-  specks(c, 265, 640, 100, 46, 40, 41, ["#fffdf5", "#f3efe4"], 3, 6);
-  // right: milky water that came through the strainer, the rounded pieces left in it
-  const gx = 770, sy = 520;
-  mkGlass(c, gx, 860);
-  thick(c, [[960, 505], [1048, 430]], 20, COL.steel);
-  const band = () => { c.moveTo(gx - 215, sy); c.lineTo(gx - 215, sy + 24); c.ellipse(gx, sy + 24, 215, 54, 0, Math.PI, 0, true); c.lineTo(gx + 215, sy); c.closePath(); };
-  shape(c, band, COL.steel); sh(c, band, COL.steelDk, 80, 0.7);
-  shape(c, () => ell(c, gx, sy, 215, 54), COL.steel, 6);
-  shape(c, () => ell(c, gx, sy + 2, 192, 43), "#e9edf2", 3);
-  c.save(); c.beginPath(); ell(c, gx, sy + 2, 192, 43); c.clip();
-  c.globalAlpha = 0.5; for (let i = -9; i <= 9; i++) { line(c, [[gx + i * 22, sy - 50], [gx + i * 22, sy + 50]], 2, COL.greyDk); } for (let j = -2; j <= 2; j++) line(c, [[gx - 200, sy + j * 18], [gx + 200, sy + j * 18]], 2, COL.greyDk); c.globalAlpha = 1;
-  for (const [dx, dy, r, a] of [[-90, 6, 32, 0.3], [-5, -6, 30, 1.1], [80, 8, 34, 0.6]] as number[][]) chalk(c, gx + dx, sy + dy, r, a, 0, true);
+  // left: the dry box tipped out on a dark plate, rounded pieces and a heap of powder
+  shadow(c, 250, 880, 205, 105);
+  shape(c, () => ell(c, 235, 850, 200, 108), "#4a4658", 6);
+  shape(c, () => ell(c, 235, 858, 165, 82), "#3a3540", 4);
+  for (const [x, y, a] of [[150, 830, 0.2], [235, 805, 1.2], [320, 840, 0.7], [165, 895, 2], [320, 895, 0.4], [240, 880, 1.6]] as number[][]) chalk(c, x, y, 36, a, true);
+  const pw = () => ell(c, 238, 862, 52, 22);
+  shape(c, pw, "#f3efe4", 3); shade(c, pw, "#cfc8b6", 14, 5, 0.7);
+  // right: the wet box poured through a strainer onto a dark plate; milky water on the plate
+  shadow(c, 760, 950, 300, 80);
+  shape(c, () => ell(c, 740, 880, 300, 112), "#4a4658", 6);
+  shape(c, () => ell(c, 740, 888, 262, 88), "#3a3540", 4);
+  shape(c, () => ell(c, 740, 905, 150, 44), "#f3efe4", 0);
+  // the strainer: a steel rim, a mesh bowl, a handle
+  const sx = 740, sy = 640, srx = 185, sry = 46, bowl = () => { c.moveTo(sx - srx, sy); c.quadraticCurveTo(sx - srx * 0.9, sy + 190, sx, sy + 190); c.quadraticCurveTo(sx + srx * 0.9, sy + 190, sx + srx, sy); c.closePath(); };
+  thick(c, [[sx + srx - 8, sy + 6], [1030, sy - 70]], 22, COL.steel);
+  shape(c, bowl, COL.steelIn);
+  c.save(); c.beginPath(); bowl(); c.clip(); c.globalAlpha = 0.55;
+  for (let i = -9; i <= 9; i++) line(c, [[sx + i * 22, sy], [sx + i * 22, sy + 200]], 2, COL.greyDk);
+  for (let j = 1; j <= 8; j++) line(c, [[sx - srx, sy + j * 24], [sx + srx, sy + j * 24]], 2, COL.greyDk);
+  c.globalAlpha = 1; c.restore();
+  sh(c, bowl, COL.steelDk, 70, 0.55);
+  shape(c, bowl, "rgba(0,0,0,0)", 6);
+  shape(c, () => ell(c, sx, sy, srx, sry), "#e9edf2", 6);
+  for (const [dx, dy, a] of [[-90, 4, 0.3], [0, -4, 1.1], [90, 6, 0.6]] as number[][]) chalk(c, sx + dx, sy + dy, 32, a, true);
+  // drops falling from the mesh
+  for (const dx of [-60, 10, 70]) { shape(c, () => ell(c, sx + dx, 838, 8, 12), "#f3efe4", 3); }
+  // the wet box tipped over the strainer, milky water pouring
+  c.save(); c.translate(790, 300); c.rotate(-1.9); c.translate(0, -85);
+  tiffin(c, 0, -85 + 85, 130, 50, 170, true);
   c.restore();
-};
-// the glass of milky water under the strainer
-const mkGlass = (c: Ctx, x: number, y: number) => {
-  const w = 290, h = 330, top = w / 2, bot = w * 0.4, ly = y - h * 0.84;
-  shadow(c, x + w * 0.12, y + 6, w * 0.6, w * 0.12);
-  shape(c, () => { c.moveTo(x - top * 0.96, ly); c.lineTo(x + top * 0.96, ly); c.lineTo(x + bot, y); c.lineTo(x - bot, y); c.closePath(); }, "#fffdf8", 0);
-  specks(c, x, ly + 150, 90, 110, 26, 51, ["#e4dfd2", "#d3cdbd"], 4, 9);
-  line(c, [[x - top * 0.96, ly], [x + top * 0.96, ly]], 5);
-  shape(c, () => { c.moveTo(x - top, y - h); c.lineTo(x + top, y - h); c.lineTo(x + bot, y); c.lineTo(x - bot, y); c.closePath(); }, COL.glass, 5);
-  shine(c, [[x - top * 0.65, y - h * 0.7], [x - bot * 0.7, y - h * 0.2]], 8);
+  const wp = () => { c.moveTo(722, 442); c.quadraticCurveTo(700, 470, 704, 520); c.lineTo(706, sy - 8); c.lineTo(758, sy - 8); c.lineTo(756, 520); c.quadraticCurveTo(752, 470, 742, 440); c.closePath(); };
+  shape(c, wp, "#f3efe4", 4);
+  armHand(c, 960, 300, Math.PI, 1.5);
+  arrow(c, [[560, 400], [560, 540]]);
 };
 
 export const su_planetEarthSoilAndCrops = cards("sci.planet-earth.soil-and-crops.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

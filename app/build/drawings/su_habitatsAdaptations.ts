@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { D, INK, WHITE, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, glass, plate, hand, write, cards } from "./flatKit";
+import { D, INK, WHITE, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, glass, plate, hand, write, cards } from "./flatKit";
 
 // SET-UP CARDS · sci.habitats.adaptations.L3 · wet towels in air (e1), huddled ice (e2), jelly on a leaf (e3)
 
@@ -75,7 +75,7 @@ const spread = (c: Ctx, cx: number, cy: number, s: number) => {
 };
 
 // ---------- spinach leaf (a bent blade) on a stalk
-const leafBlade = (c: Ctx, st: number[], b: number[], k: number[], tip: number[], W: number, coated: boolean) => {
+const leafBlade = (c: Ctx, st: number[], b: number[], k: number[], tip: number[], W: number, coated: boolean, wilt = false) => {
   const P = (t: number) => { const u = 1 - t; return [u * u * b[0] + 2 * u * t * k[0] + t * t * tip[0], u * u * b[1] + 2 * u * t * k[1] + t * t * tip[1]]; };
   const Nrm = (t: number) => { const a = P(Math.max(0, t - 0.02)), z = P(Math.min(1, t + 0.02)), dx = z[0] - a[0], dy = z[1] - a[1], l = Math.hypot(dx, dy) || 1; return [-dy / l, dx / l]; };
   const wd = (t: number) => W * Math.pow(Math.sin(Math.PI * Math.pow(t, 0.72)), 0.85) * (1 - 0.15 * t);
@@ -89,6 +89,7 @@ const leafBlade = (c: Ctx, st: number[], b: number[], k: number[], tip: number[]
   shape(c, whole, "rgba(0,0,0,0)", 6);
   line(c, Array.from({ length: 14 }, (_, i) => P(i / 13)), 5, COL.leafDk);
   for (const t of [0.2, 0.38, 0.56, 0.72]) for (const s2 of [1, -1]) { const p = P(t), n = Nrm(t), q = P(t + 0.12); line(c, [p, [(q[0] + p[0]) / 2 + n[0] * wd(t + 0.06) * 0.75 * s2, (q[1] + p[1]) / 2 + n[1] * wd(t + 0.06) * 0.75 * s2]], 3, COL.leafDk); }
+  if (wilt) shape(c, whole, "rgba(214,190,70,0.5)", 0);
   if (coated) {
     shape(c, whole, "rgba(255,252,215,0.30)", 0);
     const g = side(-sg * 1).filter((_, i) => i > 4 && i < 18).map((p, i) => { const t = (i + 5) / 26, q = P(t), n = Nrm(t); return [q[0] + n[0] * -sg * wd(t) * 0.5, q[1] + n[1] * -sg * wd(t) * 0.5]; });
@@ -115,14 +116,17 @@ const e1_2 = (c: Ctx) => {
     shadow(c, s * 0.06, s * 0.52, s * 0.55, s * 0.08);
     const p = () => rrect(c, -s / 2, -s / 2, s, s, s * 0.05);
     shape(c, p, WHITE, 6);
-    if (wet) { c.save(); c.beginPath(); p(); c.clip(); shape(c, () => { c.moveTo(-s * 0.3, -s * 0.1); c.bezierCurveTo(-s * 0.3, -s * 0.5, s * 0.3, -s * 0.5, s * 0.35, -s * 0.05); c.bezierCurveTo(s * 0.5, s * 0.3, -s * 0.1, s * 0.6, -s * 0.3, s * 0.3); c.closePath(); }, "#a3cdee", 0); c.restore(); drop(c, -s * 0.05, 0, s * 0.07); drop(c, s * 0.15, s * 0.15, s * 0.05); c.beginPath(); p(); c.lineWidth = 6; c.strokeStyle = INK; c.stroke(); }
+    if (wet) { c.save(); c.beginPath(); p(); c.clip(); shape(c, () => { c.moveTo(-s * 0.4, -s * 0.2); c.bezierCurveTo(-s * 0.4, -s * 0.6, s * 0.4, -s * 0.6, s * 0.45, -s * 0.05); c.bezierCurveTo(s * 0.6, s * 0.4, -s * 0.1, s * 0.7, -s * 0.4, s * 0.4); c.closePath(); }, "#7fb6e6", 0); c.restore(); drop(c, -s * 0.05, 0, s * 0.09); drop(c, s * 0.2, s * 0.18, s * 0.07); c.beginPath(); p(); c.lineWidth = 6; c.strokeStyle = INK; c.stroke(); }
     else line(c, [[-s * 0.4, -s * 0.15], [s * 0.4, -s * 0.15]], 3, COL.grey);
     c.restore();
   };
-  tissue(190, 270, 230, -0.1, false); tissue(190, 640, 230, 0.08, true);
-  plate(c, 690, 770, 330, 190); towelFlat(c, 690, 765, 340, 190);
-  tissue(700, 710, 210, 0.12, false);
-  armHand(c, 603, 530, 1.05, 2.0, true);
+  // dry tissue left on top, wet tissue lifted below it
+  tissue(170, 230, 250, -0.1, false); tissue(170, 600, 250, 0.08, true);
+  plate(c, 700, 800, 330, 190); towelFlat(c, 700, 795, 340, 190);
+  tissue(690, 740, 230, 0.06, false);
+  // a flat hand pressing down on the tissue
+  sleeve(c, 690, 440, 1.57, 2.2); hand(c, 690, 440, 1.57, 2.2, SKIN.child, CLOTH.child, true);
+  arrow(c, [[930, 330], [930, 560]]);
 };
 
 // ======================================================= e2
@@ -167,9 +171,9 @@ const e3_1 = (c: Ctx) => {
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
   ground(c);
-  leafBlade(c, [240, 540], [400, 535], [680, 495], [1030, 540], 125, true);
-  leafBlade(c, [240, 600], [330, 665], [470, 860], [360, 1050], 115, false);
-  armHand(c, 95, 575, 0, 2.2);
+  leafBlade(c, [235, 410], [330, 410], [620, 395], [1030, 410], 125, true);
+  leafBlade(c, [260, 470], [300, 540], [330, 700], [190, 1010], 115, false, true);
+  armHand(c, 95, 430, 0, 2.2);
 };
 
 export const su_habitatsAdaptations = cards("sci.habitats.adaptations.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

@@ -69,9 +69,9 @@ const tenSeeds = (c: Ctx, cx: number, sy: number) => {
 const sprout = (c: Ctx, p: number[][], healthy: boolean) => {
   const pts: number[][] = [];
   for (let i = 0; i <= 14; i++) { const t = i / 14, u = 1 - t; pts.push([0, 1].map((d) => u * u * u * p[0][d] + 3 * u * u * t * p[1][d] + 3 * u * t * t * p[2][d] + t * t * t * p[3][d])); }
-  line(c, pts, 20, INK); line(c, pts, 11, healthy ? "#d7ee9f" : "#e4e0a0");
+  line(c, pts, 20, INK); line(c, pts, 11, healthy ? "#d7ee9f" : "#c9a45a");
   const [a, b] = [pts[pts.length - 2], pts[pts.length - 1]], an = Math.atan2(b[1] - a[1], b[0] - a[0]);
-  const col = healthy ? COL.leaf : "#b4b25e";
+  const col = healthy ? COL.leaf : "#a58444";
   leaf(c, b[0], b[1], 44, an - 0.7, col); leaf(c, b[0], b[1], 44, an + 0.7, col);
 };
 // a drop of water (point up)
@@ -84,21 +84,16 @@ const tag = (c: Ctx, x: number, y: number, txt: string, heap: number) => {
   else line(c, [[x - 88, y + 24], [x - 36, y + 24]], 5, COL.grey);
   write(c, txt, x - 14, y - 22, 44, INK, 6);
 };
-// a steel katori seen from the front and a little above; cy = rim centre. Cotton and 10 seeds inside;
-// tails[i] is the white root length of seed i (0 = none)
-const KS: number[][] = [[-0.62, -0.2], [-0.3, -0.55], [0.05, -0.35], [0.4, -0.55], [0.68, -0.15], [-0.5, 0.3], [-0.15, 0.1], [0.2, 0.25], [0.55, 0.35], [-0.05, 0.6]];
-const katori = (c: Ctx, cx: number, cy: number, r: number, tails: number[]) => {
-  const ry = r * 0.4, body = () => { c.moveTo(cx - r, cy); c.bezierCurveTo(cx - r * 0.95, cy + r * 1.05, cx + r * 0.95, cy + r * 1.05, cx + r, cy); c.closePath(); };
+// a steel katori seen from the front and well above; cy = rim centre. Cream cotton and 10 moong seeds inside
+const katori = (c: Ctx, cx: number, cy: number, r: number) => {
+  const ry = r * 0.5, body = () => { c.moveTo(cx - r, cy); c.bezierCurveTo(cx - r * 0.95, cy + r * 1.05, cx + r * 0.95, cy + r * 1.05, cx + r, cy); c.closePath(); };
   shadow(c, cx + r * 0.14, cy + r * 0.82, r * 0.95, r * 0.15);
   shape(c, body, COL.steel); shade(c, body, COL.steelDk, r * 0.4, -r * 0.05);
-  shine(c, [[cx - r * 0.7, cy + r * 0.22], [cx - r * 0.45, cy + r * 0.55]], 8);
+  shine(c, [[cx - r * 0.7, cy + r * 0.28], [cx - r * 0.45, cy + r * 0.6]], 8);
   shape(c, () => ell(c, cx, cy, r, ry), COL.steelIn, 5);
-  shape(c, () => ell(c, cx, cy + 3, r * 0.88, ry * 0.8), WETC, 4);
-  KS.forEach(([u, v], i) => {
-    const x = cx + u * r * 0.78, y = cy + 3 + v * ry * 0.62, L = tails[i] ?? 0;
-    if (L > 0) { const an = 0.5 + i * 0.9, e = [x + Math.cos(an) * L, y + Math.sin(an) * L * 0.6]; line(c, [[x, y], e], 12, INK); line(c, [[x, y], e], 6, "#fffaf0"); }
-    seed(c, x, y, r * 0.1, 0.3 + i * 0.7, true);
-  });
+  shape(c, () => ell(c, cx, cy + 4, r * 0.88, ry * 0.84), "#fbf7ec", 4);
+  [[-0.55, 0.3], [-0.2, 0.42], [0.25, 0.4], [0.58, 0.28], [0.5, -0.32], [-0.5, -0.34]].forEach(([u, v]) => lump(c, cx + u * r, cy + v * ry, r * 0.16, "#d9ceb0"));
+  for (let i = 0; i < 10; i++) { const row = i < 5 ? 0 : 1, j = i % 5; seed(c, cx + (j - 2) * r * 0.32 + (row ? r * 0.16 : 0) - r * 0.08, cy + 4 + (row ? 0.25 : -0.25) * ry, r * 0.13, 0.3 + i * 0.7, true); }
 };
 const sky = (c: Ctx) => {
   shape(c, () => rrect(c, 130, 40, 820, 400, 14), COL.sky, 6);
@@ -158,6 +153,7 @@ const e1c2 = (c: Ctx) => {
       [-165, -70, 25, 120].forEach((d, i) => { const dir = 1; seed(c, cx2 + d, sy - 38 + (i % 2) * 10, 18, 0.3 + i, true); sprout(c, [[cx2 + d, sy - 38], [cx2 + d, sy - 120], [cx2 + d + dir * 36, sy - 175], [cx2 + d + dir * 62, sy - 90]], false); });
     },
   });
+  [-120, 0, 120].forEach((d) => arrow(c, [[cx2 + d, 470], [cx2 + d, 300]], RED, 10));
 };
 
 // ---------------------------------------------------------------- e2: the drain test
@@ -176,29 +172,32 @@ const e2c0 = (c: Ctx) => {
 // setup.e2.1
 const e2c1 = (c: Ctx) => {
   ground(c);
-  [190, 540, 890].forEach((x) => katori(c, x, 440, 158, []));
+  [190, 540, 890].forEach((x) => katori(c, x, 400, 165));
   tag(c, 190, 750, "0 g", 0); tag(c, 540, 750, "1 g", 0.55); tag(c, 890, 750, "5 g", 1);
 };
 // setup.e2.2
 const e2c2 = (c: Ctx) => {
   ground(c);
-  const all = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
-  katori(c, 190, 190, 135, all.map(() => 58));
-  katori(c, 540, 190, 135, all.map((i) => (i < 7 ? 34 : 0)));
-  katori(c, 890, 190, 135, all.map((i) => (i < 2 ? 12 : 0)));
-  tag(c, 190, 430, "0 g", 0); tag(c, 540, 430, "1 g", 0.55); tag(c, 890, 430, "5 g", 1);
+  const X0 = 250, CM = 88;
+  // each cup's sprouts lie on the table, roots to the right, longest to shortest by the cup's soap
+  const rows: [number, string, number, number[]][] = [[95, "0 g", 0, [6, 5.4, 4.8]], [250, "1 g", 0.55, [3, 2.6, 2.2]], [405, "5 g", 1, [0.5, 0.3, 0.4]]];
+  rows.forEach(([y, txt, heap, lens]) => {
+    tag(c, 108, y, txt, heap);
+    lens.forEach((L, k) => { const yy = y - 38 + k * 38, e = [[X0, yy], [X0 + L * CM, yy]]; line(c, e, 22, INK); line(c, e, 12, "#fffaf0"); seed(c, X0, yy, 22, 0.3 + k, true); });
+  });
   // the ruler, with the longest root lying along it
   shadow(c, 620, 800, 430, 20);
   shape(c, () => polyP(c, [[190, 660], [1050, 660], [1050, 760], [190, 760]]), COL.wood, 5);
   c.fillStyle = COL.woodDk; c.fillRect(193, 742, 854, 15);
   c.lineCap = "butt";
-  for (let mm = 0; mm <= 80; mm++) { const x = 230 + mm * 9, hh = mm % 10 === 0 ? 40 : mm % 5 === 0 ? 28 : 16; line(c, [[x, 660], [x, 660 + hh]], mm % 10 === 0 ? 4 : 2.5); }
-  for (let cm = 0; cm <= 8; cm++) write(c, String(cm), 230 + cm * 90 - 10, 706, 32, INK, 5);
-  write(c, "cm", 976, 706, 32, INK, 5);
-  const root = [[240, 642], [340, 646], [440, 640], [540, 646], [650, 642], [770, 644]];
+  for (let mm = 0; mm <= 80; mm++) { const x = X0 + mm * 8.8, hh = mm % 10 === 0 ? 40 : mm % 5 === 0 ? 28 : 16; line(c, [[x, 660], [x, 660 + hh]], mm % 10 === 0 ? 4 : 2.5); }
+  for (let cm = 0; cm <= 8; cm++) write(c, String(cm), X0 + cm * CM - 10, 706, 32, INK, 5);
+  write(c, "cm", 990, 706, 32, INK, 5);
+  const root = [[X0, 642], [X0 + 2 * CM, 645], [X0 + 4 * CM, 641], [X0 + 6 * CM, 643]];
   line(c, root, 24, INK); line(c, root, 14, "#fffaf0");
-  seed(c, 230, 636, 30, 0.3, true);
-  line(c, [[770, 620], [770, 684]], 7, RED);
+  seed(c, X0, 636, 30, 0.3, true);
+  line(c, [[X0 + 6 * CM, 620], [X0 + 6 * CM, 684]], 7, RED);
+  write(c, "0 g", X0 + 6 * CM + 30, 580, 44, INK, 6);
   arm(c, 20, 636, 0, 1.8, CLOTH.child);
   hand(c, 20, 636, 0, 1.8, SKIN.child, CLOTH.child, true);
 };

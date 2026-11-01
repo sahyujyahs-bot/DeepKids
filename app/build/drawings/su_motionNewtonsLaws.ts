@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { COL, CLOTH, SKIN, INK, D, WHITE, arrow, cards, ell, ground, hand, line, person, plate, rrect, shade, shadow, shape, shine, write } from "./flatKit";
+import { COL, CLOTH, RED, SKIN, INK, D, WHITE, arrow, cards, ell, ground, hand, line, person, plate, rrect, shade, shadow, shape, shine, write } from "./flatKit";
 
 // sci.motion.newtons-laws.L3 set-up cards: socks drop, spinning eggs, marble ramp.
 
@@ -107,23 +107,24 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   hall(c, 400);
-  person(c, 920, 800, 400, { adult: true, armR: [-0.8, -1.2], armL: [Math.PI * 0.5, Math.PI * 0.5] });
-  shadow(c, 480, 968, 150, 26);
-  person(c, 450, 960, 640, { armR: [0.12, -0.05], armL: [Math.PI * 0.5, Math.PI * 0.5] });
-  const wx = 450 + 640 * 0.11 + 640 * 0.17 * Math.cos(0.12) + 640 * 0.16 * Math.cos(-0.05), wy = 960 - 640 * 0.74 + 640 * 0.03 + 640 * 0.17 * Math.sin(0.12) + 640 * 0.16 * Math.sin(-0.05);
+  shadow(c, 330, 968, 150, 26);
+  person(c, 300, 960, 640, { armR: [0.12, -0.05], armL: [Math.PI * 0.5, Math.PI * 0.5] });
+  const wx = 300 + 640 * 0.11 + 640 * 0.17 * Math.cos(0.12) + 640 * 0.16 * Math.cos(-0.05), wy = 960 - 640 * 0.74 + 640 * 0.03 + 640 * 0.17 * Math.sin(0.12) + 640 * 0.16 * Math.sin(-0.05);
+  arrow(c, [[200, 230], [560, 230]], RED, 16);
   plate(c, wx + 20, 900, 200, 62);
-  hand(c, wx - 50, wy, 0.35, 0.62, SKIN.child, CLOTH.child, true);
-  sockRoll(c, wx + 20, wy + 150, 44);
-  for (const dx of [-26, 0, 26]) line(c, [[wx + 20 + dx, wy + 70], [wx + 20 + dx, wy + 100]], 5, COL.greyDk);
-  arrow(c, [[300, 1040], [620, 1040]]);
+  hand(c, wx - 50, wy, 0.2, 0.62, SKIN.child, CLOTH.child, true);
+  sockRoll(c, wx + 30, wy + 90, 44);
+  const pts: number[][] = []; for (let k = 0; k <= 12; k++) { const t = k / 12; pts.push([wx + 80 + t * 330, wy + 150 + t * t * (880 - wy - 150)]); }
+  arrow(c, pts);
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   floorTop(c);
-  plate(c, 200, 540, 170, 80);
-  tape(c, 380, 770, 540);
-  coin(c, 800, 540, 44);
-  sockRoll(c, 940, 500, 100);
+  plate(c, 200, 560, 170, 80);
+  tape(c, 380, 800, 560);
+  coin(c, 830, 560, 44);
+  sockRoll(c, 860, 520, 80);
+  write(c, "40 cm", 480, 400, 90, INK, 12);
 };
 // ---------------------------------------------------------------- e2: spinning eggs
 // setup.e2.0
@@ -137,21 +138,22 @@ const e2_0 = (c: Ctx) => {
 const e2_1 = (c: Ctx) => {
   ground(c);
   plate(c, 540, 700, 470, 290);
-  egg(c, 600, 680, 190, 125, 0.1);
-  letter(c, "A", 578, 640, 80);
-  hand(c, 250, 470, 0.55, 1.7);
-  arcArrow(c, 600, 680, 280, 210, 3.3, 4.6);
-  arcArrow(c, 600, 680, 280, 210, 0.2, 1.5);
+  egg(c, 640, 700, 190, 125, 0.1);
+  letter(c, "A", 618, 660, 80);
+  arcArrow(c, 640, 700, 290, 215, 3.5, 4.8);
+  arcArrow(c, 640, 700, 290, 215, 0.35, 1.65);
+  hand(c, 400, 640, 0.1, 1.7);
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
   ground(c);
-  plate(c, 540, 830, 470, 200);
-  egg(c, 540, 760, 200, 130);
-  letter(c, "A", 516, 720, 80);
-  hand(c, 520, 465, 1.5, 1.7, SKIN.child, CLOTH.child, true);
-  arcArrow(c, 540, 770, 340, 190, 2.5, 3.9);
-  arcArrow(c, 540, 770, 340, 190, 5.4, 6.8);
+  plate(c, 540, 860, 470, 190);
+  egg(c, 540, 790, 200, 130);
+  letter(c, "A", 516, 750, 80);
+  hand(c, 540, 330, 1.57, 1.7, SKIN.child, CLOTH.child, true);
+  arrow(c, [[780, 470], [780, 250]], RED, 14);
+  arcArrow(c, 540, 800, 340, 190, 2.5, 3.9);
+  arcArrow(c, 540, 800, 340, 190, 5.4, 6.8);
 };
 // ---------------------------------------------------------------- e3: marble ramp
 // setup.e3.0
@@ -175,12 +177,13 @@ const e3_1 = (c: Ctx) => {
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
-  ground(c); c.fillStyle = FLOOR; c.fillRect(0, 500, D, D - 500); line(c, [[0, 500], [D, 500]], 6);
-  const r = ramp(c, 200, 500, 0.8, 0, 80);
-  tape(c, r.endX + 10, 900, 700);
-  coin(c, 935, 700, 40);
-  marble(c, 1012, 680, 32);
+  ground(c); c.fillStyle = FLOOR; c.fillRect(0, 560, D, D - 560); line(c, [[0, 560], [D, 560]], 6);
+  const r = ramp(c, 230, 600, 0.9, 0, 80);
+  line(c, [[r.endX, 606], [r.endX, 700]], 5, COL.greyDk);
+  tape(c, r.endX, 880, 760);
+  coin(c, 910, 760, 40);
+  marble(c, 910, 718, 36);
+  write(c, "150 cm", 380, 840, 80, INK, 11);
 };
-
 export const su_motionNewtonsLaws = cards("sci.motion.newtons-laws.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);
 

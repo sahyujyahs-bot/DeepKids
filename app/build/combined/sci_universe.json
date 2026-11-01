@@ -16,7 +16,7 @@
       "cls": 1,
       "ref": "Unit 1.1",
       "title": "Animals and plants alive!",
-      "covers": "Biology"
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
@@ -29,23 +29,9 @@
      {
       "b": "cambridge",
       "cls": 3,
-      "ref": "Unit 3.1",
-      "title": "Living and non-living",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 3.2",
-      "title": "Growth and nutrition",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 3.3",
-      "title": "Movement and reproduction",
-      "covers": "Biology"
+      "ref": "Unit 1.1",
+      "title": "Alive or not alive?",
+      "covers": "Biology: structure and function, life processes"
      },
      {
       "b": "nios",
@@ -56,7 +42,7 @@
      }
     ],
     "chapters": [
-     "cam|sci|3|3",
+     "cam|sci|3|1",
      "nios|sci|3|4"
     ]
    }
@@ -73,18 +59,9 @@
   "rungs": [
    {
     "cls": 1,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 1,
-      "ref": "Unit 1.3",
-      "title": "Animal babies",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|1|1"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    },
    {
     "cls": 2,
@@ -114,9 +91,18 @@
   "rungs": [
    {
     "cls": 3,
-    "covers": [],
-    "chapters": [],
-    "deepkids": true
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 4.4",
+      "title": "Fossils",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|4"
+    ]
    },
    {
     "cls": 5,
@@ -133,8 +119,23 @@
    "A3"
   ],
   "note": "",
-  "start": 4,
+  "start": 3,
   "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.1",
+      "title": "Solids, liquids and gases",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|2"
+    ]
+   },
    {
     "cls": 4,
     "covers": [
@@ -159,8 +160,23 @@
    "A3"
   ],
   "note": "",
-  "start": 2,
+  "start": 1,
   "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 3.4",
+      "title": "Changing materials",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|3"
+    ]
+   },
    {
     "cls": 2,
     "covers": [
@@ -222,27 +238,27 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 4.1",
-      "title": "What is it made of?",
-      "covers": "Chemistry"
+      "ref": "Unit 3.1",
+      "title": "Different materials",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 4.2",
-      "title": "Using materials",
-      "covers": "Chemistry"
+      "ref": "Unit 3.2",
+      "title": "Properties of materials",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 4.3",
+      "ref": "Unit 3.3",
       "title": "Sorting materials",
-      "covers": "Chemistry"
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
      }
     ],
     "chapters": [
-     "cam|sci|1|4"
+     "cam|sci|1|3"
     ]
    },
    {
@@ -290,38 +306,9 @@
       "ref": "Ch 10",
       "title": "This World of Things",
       "covers": "What things are made of, where they come from, natural vs made by people, properties of materials"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 5.1",
-      "title": "Properties of materials",
-      "covers": "Chemistry"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 5.2",
-      "title": "Sorting materials",
-      "covers": "Chemistry"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 5.3",
-      "title": "Uses of materials",
-      "covers": "Chemistry"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 5.4",
-      "title": "Testing materials",
-      "covers": "Chemistry"
      }
     ],
     "chapters": [
-     "cam|sci|3|5",
      "ncert|sci|3|10"
     ]
    }
@@ -390,8 +377,30 @@
    "A4"
   ],
   "note": "",
-  "start": 2,
+  "start": 1,
   "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.3",
+      "title": "Rocks",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.4",
+      "title": "Soil",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|4"
+    ]
+   },
    {
     "cls": 2,
     "covers": [
@@ -405,6 +414,21 @@
     ],
     "chapters": [
      "cam|sci|2|1"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.5",
+      "title": "Separating materials from rocks",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|2"
     ]
    },
    {
@@ -432,8 +456,37 @@
    "B5"
   ],
   "note": "Plus touches this via water as a material and clouds/rain",
-  "start": 5,
+  "start": 3,
   "rungs": [
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.2",
+      "title": "Separating mixtures",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.3",
+      "title": "Dissolving",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 2.4",
+      "title": "Filtering",
+      "covers": "Chemistry: materials and their structure, properties of materials, changes to materials"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|2"
+    ]
+   },
    {
     "cls": 5,
     "covers": [
@@ -487,20 +540,27 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 2.1",
-      "title": "Plant parts",
-      "covers": "Biology"
+      "ref": "Unit 1.2",
+      "title": "Parts of a plant",
+      "covers": "Biology: structure and function, life processes"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 2.3",
+      "ref": "Unit 1.3",
       "title": "Plants and light",
-      "covers": "Biology"
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 1.4",
+      "title": "Plants need water",
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
-     "cam|sci|1|2"
+     "cam|sci|1|1"
     ]
    },
    {
@@ -516,23 +576,23 @@
      {
       "b": "cambridge",
       "cls": 3,
-      "ref": "Unit 1.1",
-      "title": "Plants and their parts",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
       "ref": "Unit 1.2",
-      "title": "Plants need light and water",
-      "covers": "Biology"
+      "title": "Plant parts",
+      "covers": "Biology: structure and function, life processes"
      },
      {
       "b": "cambridge",
       "cls": 3,
       "ref": "Unit 1.3",
-      "title": "Transporting water",
-      "covers": "Biology"
+      "title": "Plants and light",
+      "covers": "Biology: structure and function, life processes"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 1.4",
+      "title": "Plants need water and the right temperature",
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
@@ -553,33 +613,15 @@
   "rungs": [
    {
     "cls": 1,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 1,
-      "ref": "Unit 2.2",
-      "title": "Growing seeds",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|1|2"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    },
    {
     "cls": 3,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 1.4",
-      "title": "Plant growth and temperature",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|3|1"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    },
    {
     "cls": 5,
@@ -649,13 +691,13 @@
      {
       "b": "cambridge",
       "cls": 3,
-      "ref": "Unit 3.5",
-      "title": "Sorting living things",
-      "covers": "Biology"
+      "ref": "Unit 4.2",
+      "title": "Animal groups and different life cycles",
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
-     "cam|sci|3|3"
+     "cam|sci|3|4"
     ]
    },
    {
@@ -687,18 +729,9 @@
   "rungs": [
    {
     "cls": 1,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 1,
-      "ref": "Unit 1.2",
-      "title": "Local environments",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|1|1"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    },
    {
     "cls": 2,
@@ -818,9 +851,17 @@
       "ref": "Ch 6",
       "title": "Living in Harmony",
       "covers": "We are connected to plants and animals near and far; kindness to all living beings"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 4.3",
+      "title": "Food chains",
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
+     "cam|sci|3|4",
      "ncert|sci|3|6"
     ]
    },
@@ -871,11 +912,47 @@
    "B1"
   ],
   "note": "",
-  "start": 3,
+  "start": 1,
   "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.2",
+      "title": "Heat and light from the Sun",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|4"
+    ]
+   },
    {
     "cls": 3,
     "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.1",
+      "title": "The shape of the Earth, Sun and Moon",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.2",
+      "title": "The Moon",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 6.3",
+      "title": "The phases of the Moon",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     },
      {
       "b": "nios",
       "cls": 3,
@@ -885,6 +962,7 @@
      }
     ],
     "chapters": [
+     "cam|sci|3|6",
      "nios|sci|3|6"
     ]
    },
@@ -940,9 +1018,18 @@
   "rungs": [
    {
     "cls": 3,
-    "covers": [],
-    "chapters": [],
-    "deepkids": true
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 5.2",
+      "title": "Gravity",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|5"
+    ]
    },
    {
     "cls": 5,
@@ -975,8 +1062,23 @@
    "B1"
   ],
   "note": "",
-  "start": 4,
+  "start": 1,
   "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 4.1",
+      "title": "Planet Earth",
+      "covers": "Earth and space: planet Earth, Earth in space"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|4"
+    ]
+   },
    {
     "cls": 4,
     "covers": [
@@ -1398,34 +1500,34 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 5.1",
-      "title": "In the playground",
-      "covers": "Physics"
+      "ref": "Unit 6.1",
+      "title": "Moving things",
+      "covers": "Physics: forces and energy, electricity and magnetism"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 5.2",
-      "title": "How toys work",
-      "covers": "Physics"
+      "ref": "Unit 6.2",
+      "title": "Push and pull forces",
+      "covers": "Physics: forces and energy, electricity and magnetism"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 5.3",
-      "title": "Pushes and pulls around us",
-      "covers": "Physics"
+      "ref": "Unit 6.3",
+      "title": "Making things move",
+      "covers": "Physics: forces and energy, electricity and magnetism"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 5.4",
-      "title": "Changing movement",
-      "covers": "Physics"
+      "ref": "Unit 6.4",
+      "title": "Floating and sinking",
+      "covers": "Physics: forces and energy, electricity and magnetism"
      }
     ],
     "chapters": [
-     "cam|sci|1|5"
+     "cam|sci|1|6"
     ]
    },
    {
@@ -1470,41 +1572,20 @@
      {
       "b": "cambridge",
       "cls": 3,
-      "ref": "Unit 6.1",
-      "title": "Push and pull",
-      "covers": "Physics"
+      "ref": "Unit 5.1",
+      "title": "Forces and forcemeters",
+      "covers": "Physics: forces and energy, electricity and magnetism"
      },
      {
       "b": "cambridge",
       "cls": 3,
-      "ref": "Unit 6.2",
-      "title": "Changing shape",
-      "covers": "Physics"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 6.3",
-      "title": "How big is that force?",
-      "covers": "Physics"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 6.4",
-      "title": "Forcemeters",
-      "covers": "Physics"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 6.5",
+      "ref": "Unit 5.3",
       "title": "Friction",
-      "covers": "Physics"
+      "covers": "Physics: forces and energy, electricity and magnetism"
      }
     ],
     "chapters": [
-     "cam|sci|3|6"
+     "cam|sci|3|5"
     ]
    },
    {
@@ -1553,17 +1634,39 @@
    "B6"
   ],
   "note": "Plus mentions electromagnetic force; no magnets topic yet",
-  "start": 3,
+  "start": 1,
   "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 6.5",
+      "title": "Magnets can pull",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|6"
+    ]
+   },
    {
     "cls": 3,
     "covers": [
      {
       "b": "cambridge",
       "cls": 3,
+      "ref": "Unit 5.4",
+      "title": "Amazing magnets",
+      "covers": "Physics: forces and energy, electricity and magnetism"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
       "ref": "Unit 5.5",
       "title": "Magnetic materials",
-      "covers": "Chemistry"
+      "covers": "Physics: forces and energy, electricity and magnetism"
      }
     ],
     "chapters": [
@@ -1609,20 +1712,27 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 6.1",
-      "title": "Where do sounds come from?",
-      "covers": "Physics"
+      "ref": "Unit 2.1",
+      "title": "Sound sources",
+      "covers": "Physics: light and sound"
      },
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 6.3",
-      "title": "Sounds move",
-      "covers": "Physics"
+      "ref": "Unit 2.2",
+      "title": "Loud and quiet",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 2.3",
+      "title": "Sound moves",
+      "covers": "Physics: light and sound"
      }
     ],
     "chapters": [
-     "cam|sci|1|6"
+     "cam|sci|1|2"
     ]
    },
    {
@@ -1692,6 +1802,42 @@
     ],
     "chapters": [
      "cam|sci|2|5"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.1",
+      "title": "Shadows",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.2",
+      "title": "Changing shadows",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.3",
+      "title": "Transparent materials",
+      "covers": "Physics: light and sound"
+     },
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 3.4",
+      "title": "Translucent materials",
+      "covers": "Physics: light and sound"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|3"
     ]
    },
    {
@@ -1910,36 +2056,20 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 3.1",
-      "title": "We are similar",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 1,
-      "ref": "Unit 3.2",
-      "title": "We are different",
-      "covers": "Biology"
+      "ref": "Unit 5.3",
+      "title": "Similar and different",
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
-     "cam|sci|1|3"
+     "cam|sci|1|5"
     ]
    },
    {
     "cls": 3,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 3.4",
-      "title": "Sorting humans",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|3|3"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    }
   ]
  },
@@ -2015,13 +2145,28 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 3.3",
+      "ref": "Unit 5.1",
       "title": "Our bodies",
-      "covers": "Biology"
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
-     "cam|sci|1|3"
+     "cam|sci|1|5"
+    ]
+   },
+   {
+    "cls": 3,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 3,
+      "ref": "Unit 4.1",
+      "title": "Human organs",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|3|4"
     ]
    },
    {
@@ -2092,51 +2237,20 @@
      {
       "b": "cambridge",
       "cls": 1,
-      "ref": "Unit 3.4",
-      "title": "Our fantastic senses",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 1,
-      "ref": "Unit 6.2",
-      "title": "Our ears",
-      "covers": "Physics"
+      "ref": "Unit 5.2",
+      "title": "Our amazing senses",
+      "covers": "Biology: structure and function, life processes"
      }
     ],
     "chapters": [
-     "cam|sci|1|3",
-     "cam|sci|1|6"
+     "cam|sci|1|5"
     ]
    },
    {
     "cls": 3,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 4.1",
-      "title": "Hearing and touch",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 4.2",
-      "title": "Taste and smell",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 4.3",
-      "title": "Sight",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|3|4"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    }
   ]
  },
@@ -2205,13 +2319,6 @@
       "covers": "Hygiene and cleanliness at home and around us; regular exercise and yoga; physical and emotional well-being"
      },
      {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 2.4",
-      "title": "Exercise and sleep",
-      "covers": "Biology"
-     },
-     {
       "b": "nios",
       "cls": 3,
       "ref": "Lesson 9",
@@ -2220,7 +2327,6 @@
      }
     ],
     "chapters": [
-     "cam|sci|3|2",
      "ncert|sci|3|9",
      "nios|sci|3|9"
     ]
@@ -2359,18 +2465,9 @@
   "rungs": [
    {
     "cls": 1,
-    "covers": [
-     {
-      "b": "cambridge",
-      "cls": 1,
-      "ref": "Unit 1.4",
-      "title": "Healthy food and drink",
-      "covers": "Biology"
-     }
-    ],
-    "chapters": [
-     "cam|sci|1|1"
-    ]
+    "covers": [],
+    "chapters": [],
+    "deepkids": true
    },
    {
     "cls": 3,
@@ -2383,27 +2480,6 @@
       "covers": "Why food matters for health; foods from many sources; nutrients; traditional knowledge of healthy eating"
      },
      {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 2.1",
-      "title": "Food groups",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 2.2",
-      "title": "A healthy diet",
-      "covers": "Biology"
-     },
-     {
-      "b": "cambridge",
-      "cls": 3,
-      "ref": "Unit 2.3",
-      "title": "An unhealthy diet",
-      "covers": "Biology"
-     },
-     {
       "b": "nios",
       "cls": 3,
       "ref": "Lesson 8",
@@ -2412,7 +2488,6 @@
      }
     ],
     "chapters": [
-     "cam|sci|3|2",
      "ncert|sci|3|8",
      "nios|sci|3|8"
     ]
@@ -2491,8 +2566,23 @@
    "C12"
   ],
   "note": "",
-  "start": 3,
+  "start": 1,
   "rungs": [
+   {
+    "cls": 1,
+    "covers": [
+     {
+      "b": "cambridge",
+      "cls": 1,
+      "ref": "Unit 5.4",
+      "title": "Staying alive",
+      "covers": "Biology: structure and function, life processes"
+     }
+    ],
+    "chapters": [
+     "cam|sci|1|5"
+    ]
+   },
    {
     "cls": 3,
     "covers": [

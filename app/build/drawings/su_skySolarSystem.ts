@@ -111,7 +111,9 @@ const e1s1 = (c: Ctx) => e1(c, { s: 1.3, tx: -26, ty: -383, ruler: 26, z: 20, n:
 const e1s2 = (c: Ctx) => e1(c, { s: 1.1, tx: -39, ty: -186, ruler: 42, z: 40, n: 4, dim: true, move: true });
 
 // ---------------------------------------------------------------- e2 scene
-const GAP0 = -Math.PI / 4, GAP1 = Math.PI / 4, R = 260, FLOOR = R * 0.68, NEWS = "#ece7da";
+// a paper plate seen from above and a little from the front (ellipses, K = how squashed): teal rim, white floor,
+// a quarter of the rim cut out so there is a gap on the right.
+const GAP0 = -Math.PI / 4, GAP1 = Math.PI / 4, R = 300, F = 205, K = 0.72, T = 18, NEWS = "#ece7da", WALL = "#2a8a83";
 const bars = (c: Ctx, x: number, y: number, w: number, n: number, col = "#c4bfb3") => { for (let k = 0; k < n; k++) shape(c, () => rrect(c, x, y + k * 26, k % 5 === 4 ? w * 0.6 : w, 10, 5), col, 0); };
 const newspaper = (c: Ctx) => {
   ground(c, CLOTHBG);
@@ -124,69 +126,75 @@ const newspaper = (c: Ctx) => {
   line(c, [[-480, 0], [480, 0]], 3, "rgba(43,35,64,0.12)");
   c.restore();
 };
-// a piece of the plate's rim: the part of the ring from angle a0 to a1 round (cx, cy)
-const rimPath = (c: Ctx, cx: number, cy: number, a0: number, a1: number) => () => { c.arc(cx, cy, R, a0, a1); c.arc(cx, cy, FLOOR, a1, a0, true); c.closePath(); };
-const pleats = (c: Ctx, cx: number, cy: number, a0: number, a1: number) => { for (let a = a0 + 0.1; a < a1 - 0.05; a += 0.17) line(c, [[cx + Math.cos(a) * (FLOOR + 14), cy + Math.sin(a) * (FLOOR + 14)], [cx + Math.cos(a) * (R - 12), cy + Math.sin(a) * (R - 12)]], 3, "rgba(43,35,64,0.28)"); };
-const plateTop = (c: Ctx, cx: number, cy: number, cut = true) => {
-  const a0 = cut ? GAP1 : 0, a1 = cut ? GAP0 + Math.PI * 2 : Math.PI * 2;
-  c.save(); c.translate(16, 22); c.fillStyle = "rgba(43,35,64,0.16)"; c.beginPath(); rimPath(c, cx, cy, a0, a1)(); c.fill(); c.beginPath(); ell(c, cx, cy, FLOOR, FLOOR); c.fill(); c.restore();
-  shape(c, rimPath(c, cx, cy, a0, a1), "#ffd96b", 6);
-  shade(c, rimPath(c, cx, cy, a0, a1), "#e3a93f", -16, -16, 0.5);
-  pleats(c, cx, cy, a0, a1);
-  shape(c, () => ell(c, cx, cy, FLOOR, FLOOR), COL.paper, 6);
-  shade(c, () => ell(c, cx, cy, FLOOR, FLOOR), COL.cloth, -10, -10, 0.8);
-};
-const marble = (c: Ctx, x: number, y: number) => {
-  const r = 34;
-  shadow(c, x + 9, y + 12, r, r * 0.85);
-  shape(c, () => ell(c, x, y, r, r), COL.blue, 5);
-  shade(c, () => ell(c, x, y, r, r), COL.blueDk, -9, -9, 0.6);
-  line(c, [[x - 18, y + 4], [x - 4, y - 10], [x + 12, y - 6], [x + 20, y + 8]], 5, WHITE);
-  line(c, [[x - 4, y + 16], [x + 8, y + 10]], 4, COL.yellow);
-  shape(c, () => ell(c, x - 10, y - 12, 6, 4, -0.6), WHITE, 0);
-};
-const arcPts = (cx: number, cy: number, r: number, a0: number, a1: number): number[][] => { const out: number[][] = [], n = 16; for (let k = 0; k <= n; k++) { const a = a0 + ((a1 - a0) * k) / n; out.push([cx + Math.cos(a) * r, cy + Math.sin(a) * r]); } return out; };
+// points round an ellipse from angle a0 to a1
+const ep = (cx: number, cy: number, rx: number, ry: number, a0: number, a1: number, n = 48): number[][] => { const out: number[][] = []; for (let k = 0; k <= n; k++) { const a = a0 + ((a1 - a0) * k) / n; out.push([cx + Math.cos(a) * rx, cy + Math.sin(a) * ry]); } return out; };
 const deg = (d: number) => (d * Math.PI) / 180;
+// the rim from angle a0 to a1: its standing wall, then its sloping top with pleats
+const rimPiece = (c: Ctx, cx: number, cy: number, a0: number, a1: number) => {
+  const out = ep(cx, cy, R, R * K, a0, a1), inn = ep(cx, cy, F, F * K, a1, a0), top = () => polyP(c, [...out, ...inn]);
+  c.save(); c.translate(18, 24); c.beginPath(); polyP(c, [...out, ...inn]); c.fillStyle = SHD; c.fill(); c.restore();
+  shape(c, () => polyP(c, [...out, ...out.map(([x, y]) => [x, y + T]).reverse()]), WALL, 6);
+  shape(c, top, COL.teal, 6);
+  shade(c, top, COL.tealDk, -16, -14, 0.5);
+  for (let a = a0 + 0.12; a < a1 - 0.06; a += 0.19) line(c, [[cx + Math.cos(a) * (F + 14), cy + Math.sin(a) * (F + 14) * K], [cx + Math.cos(a) * (R - 12), cy + Math.sin(a) * (R - 12) * K]], 3, "rgba(43,35,64,0.3)");
+};
+const SHD = "rgba(43,35,64,0.16)";
+const plateTop = (c: Ctx, cx: number, cy: number) => {
+  c.save(); c.translate(18, 24); c.beginPath(); ell(c, cx, cy, F, F * K); c.fillStyle = SHD; c.fill(); c.restore();
+  shape(c, () => ell(c, cx, cy + T * 0.7, F, F * K), WALL, 6);
+  shape(c, () => ell(c, cx, cy, F, F * K), WHITE, 6);
+  shade(c, () => ell(c, cx, cy, F, F * K), COL.cloth, -14, -12, 0.9);
+  c.beginPath(); ell(c, cx, cy, F * 0.8, F * K * 0.8); c.strokeStyle = COL.teal; c.lineWidth = 7; c.stroke();
+  rimPiece(c, cx, cy, GAP1, GAP0 + Math.PI * 2);
+};
+const marble = (c: Ctx, x: number, y: number, r = 40) => {
+  shadow(c, x + 10, y + 14, r, r * 0.85);
+  shape(c, () => ell(c, x, y, r, r), COL.blue, 5);
+  shade(c, () => ell(c, x, y, r, r), COL.blueDk, -r * 0.27, -r * 0.27, 0.6);
+  line(c, [[x - r * 0.55, y + r * 0.12], [x - r * 0.12, y - r * 0.3], [x + r * 0.35, y - r * 0.18], [x + r * 0.6, y + r * 0.24]], 5, WHITE);
+  line(c, [[x - r * 0.12, y + r * 0.5], [x + r * 0.24, y + r * 0.3]], 4, COL.yellow);
+  shape(c, () => ell(c, x - r * 0.3, y - r * 0.36, r * 0.18, r * 0.12, -0.6), WHITE, 0);
+};
 
 // setup.e2.0
 const e2s0 = (c: Ctx) => {
   newspaper(c);
-  plateTop(c, 400, 500);
+  plateTop(c, 420, 440);
   // the quarter of the rim that was cut off, lying beside
-  const pcx = 990, pcy = 860, a0 = deg(135), a1 = deg(225);
-  c.save(); c.translate(16, 22); c.fillStyle = "rgba(43,35,64,0.16)"; c.beginPath(); rimPath(c, pcx, pcy, a0, a1)(); c.fill(); c.restore();
-  shape(c, rimPath(c, pcx, pcy, a0, a1), "#ffd96b", 6);
-  shade(c, rimPath(c, pcx, pcy, a0, a1), "#e3a93f", -14, -14, 0.5);
-  pleats(c, pcx, pcy, a0, a1);
+  rimPiece(c, 800, 780, deg(150), deg(240));
 };
 // setup.e2.1
 const e2s1 = (c: Ctx) => {
   newspaper(c);
-  const cx = 430, cy = 480;
+  const cx = 400, cy = 480, a = deg(72), mx = cx + Math.cos(a) * (F - 48), my = cy + Math.sin(a) * (F - 48) * K;
   plateTop(c, cx, cy);
-  arrow(c, arcPts(cx, cy, 112, deg(112), deg(245)), RED, 12);
-  const a = deg(100), mx = cx + Math.cos(a) * (FLOOR - 6), my = cy + Math.sin(a) * (FLOOR - 6);
-  marble(c, mx, my);
-  hand(c, 590, 830, Math.atan2(my - 830, mx - 590) + 0.05, 2, SKIN.child, CLOTH.child);
+  arrow(c, ep(cx, cy, F * 0.52, F * 0.52 * K, deg(105), deg(262), 18), RED, 13);
+  marble(c, mx, my, 50);
+  // the hand comes in through the gap and flicks the marble along the rim (to the left and down the screen)
+  const tx = -Math.sin(a), ty = Math.cos(a) * K, tl = Math.hypot(tx, ty), d = 215;
+  hand(c, mx - (tx / tl) * d + 20, my - (ty / tl) * d - 5, Math.atan2(ty, tx) + 0.12, 1.8, SKIN.child, CLOTH.child);
 };
 // setup.e2.2
 const e2s2 = (c: Ctx) => {
   newspaper(c);
-  const cx = 330, cy = 470, sx = cx + Math.cos(GAP0) * FLOOR, sy = cy + Math.sin(GAP0) * FLOOR, ex = sx + 0.707 * 440, ey = sy + 0.707 * 440;
+  const cx = 370, cy = 380, sx = cx + Math.cos(GAP0) * F, sy = cy + Math.sin(GAP0) * F * K, dx = 0.707, dy = 0.707 * K, t = 520, ex = sx + dx * t, ey = sy + dy * t;
   plateTop(c, cx, cy);
-  line(c, [[sx, sy], [ex, ey]], 9, "#5d5866");
+  line(c, [[sx, sy], [ex, ey]], 10, "#5d5866");
   marble(c, ex, ey);
-  arrow(c, [[sx + 120 + 30, sy + 120 - 30], [sx + 300 + 30, sy + 300 - 30]], RED, 12);
-  // the pencil that drew the line
-  c.save(); c.translate(250, 900); c.rotate(-0.1);
-  shadow(c, 190, 36, 230, 16);
-  shape(c, () => rrect(c, 0, -20, 40, 40, 8), COL.pink, 5);
-  shape(c, () => rect(c, 40, -20, 24, 40), COL.steelDk, 5);
-  shape(c, () => rect(c, 64, -20, 280, 40), COL.yellow, 5);
-  shade(c, () => rect(c, 64, -20, 280, 40), COL.orange, 0, -12, 0.5);
-  shape(c, () => polyP(c, [[344, -20], [344, 20], [420, 0]]), COL.wood, 5);
-  shape(c, () => polyP(c, [[392, -8], [392, 8], [420, 0]]), "#5d5866", 3);
-  c.restore();
+  const nx = 26, ny = -38;
+  arrow(c, [[sx + dx * 130 + nx, sy + dy * 130 + ny], [sx + dx * 360 + nx, sy + dy * 360 + ny]], RED, 13);
+  // a hand drawing the line with a pencil, the tip on the line
+  const tipx = sx + dx * 420, tipy = sy + dy * 420, an = deg(-72), s = 1.6, len = 400, reach = 70 * s + len / 2, wx = tipx - Math.cos(an) * reach, wy = tipy - Math.sin(an) * reach;
+  c.save(); c.translate(wx, wy); c.rotate(an); c.scale(s, s);
+  c.save(); c.translate(70, 0); c.scale(1 / s, 1 / s);
+  shape(c, () => rrect(c, -len / 2, -19, 44, 38, 8), COL.pink, 5);
+  shape(c, () => rect(c, -len / 2 + 44, -19, 26, 38), COL.steelDk, 5);
+  shape(c, () => rect(c, -len / 2 + 70, -19, len - 70 - 76, 38), COL.yellow, 5);
+  shade(c, () => rect(c, -len / 2 + 70, -19, len - 70 - 76, 38), COL.orange, 0, -11, 0.5);
+  shape(c, () => polyP(c, [[len / 2 - 76, -19], [len / 2 - 76, 19], [len / 2, 0]]), COL.wood, 5);
+  shape(c, () => polyP(c, [[len / 2 - 26, -8], [len / 2 - 26, 8], [len / 2, 0]]), "#5d5866", 3);
+  c.restore(); c.restore();
+  hand(c, wx, wy, an, s, SKIN.child, CLOTH.child);
 };
 
 export const su_skySolarSystem = cards("sci.sky.solar-system.L3 set-up", [e1s0, e1s1, e1s2, e2s0, e2s1, e2s2]);

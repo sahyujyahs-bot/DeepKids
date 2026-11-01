@@ -133,25 +133,44 @@ const e1_2 = (c: Ctx) => {
 };
 
 // ---- setup.e2.0
+const bananaWhole = (c: Ctx, cx: number, cy: number, sc: number) => {
+  c.save(); c.translate(cx, cy); c.scale(sc, sc);
+  shadow(c, 20, 52, 300, 26);
+  const body = () => { c.moveTo(-300, -50); c.quadraticCurveTo(0, 260, 300, -90); c.quadraticCurveTo(310, -30, 285, -14); c.quadraticCurveTo(0, 60, -290, 4); c.closePath(); };
+  shape(c, body, COL.yellow, 7);
+  shade(c, body, COL.orange, 20, 26, 0.5);
+  line(c, [[-250, -10], [-80, 60], [100, 58], [262, -36]], 4, "#d39a3a");
+  shape(c, () => rrect(c, -318, -64, 40, 66, 12), "#6a4128", 6);
+  shape(c, () => rrect(c, 270, -104, 36, 80, 12), "#6a4128", 6);
+  c.restore();
+};
 const e2_0 = (c: Ctx) => {
   ground(c);
+  c.save(); c.translate(81, -50); c.scale(0.85, 0.85);
   shadow(c, 560, 900, 330, 34);
   const bag = () => { c.moveTo(250, 300); c.lineTo(830, 300); c.quadraticCurveTo(870, 600, 840, 850); c.quadraticCurveTo(540, 905, 240, 850); c.quadraticCurveTo(210, 600, 250, 300); c.closePath(); };
   shape(c, bag, "rgba(225,240,250,0.8)", 6);
   c.save(); c.beginPath(); bag(); c.clip();
-  shape(c, () => { c.moveTo(200, 640); c.quadraticCurveTo(540, 600, 880, 645); c.lineTo(880, 920); c.lineTo(200, 920); c.closePath(); }, "#f3ecc4", 0);
+  // soapy water with banana mash: cream puree, lumps and cut round slices
+  shape(c, () => { c.moveTo(200, 600); c.quadraticCurveTo(540, 560, 880, 605); c.lineTo(880, 920); c.lineTo(200, 920); c.closePath(); }, "#f2e3a0", 0);
   const r = rnd(9);
-  for (let i = 0; i < 90; i++) shape(c, () => ell(c, 240 + r() * 600, 650 + r() * 200, 22 + r() * 26, 12 + r() * 14, r() * 3), ["#f2d46a", "#e6cb6e", "#f7e6a0", "#dcc05c"][i % 4], 0);
-  for (let i = 0; i < 7; i++) shape(c, () => ell(c, 280 + r() * 520, 625 + r() * 20, 12 + r() * 10, 12 + r() * 10), "rgba(255,255,255,0.85)", 3);
+  for (let i = 0; i < 26; i++) shape(c, () => ell(c, 250 + r() * 580, 640 + r() * 220, 28 + r() * 30, 18 + r() * 18, r() * 3), ["#f7ecb6", "#ecd988", "#e3cb74"][i % 3], 0);
+  for (const [x, y, rr] of [[360, 700, 52], [560, 760, 58], [700, 680, 48], [440, 820, 46]]) {
+    shape(c, () => ell(c, x, y, rr, rr * 0.8), "#fbf3cf", 5);
+    shape(c, () => ell(c, x, y, rr * 0.35, rr * 0.28), "#c9a24a", 0);
+    for (let k = 0; k < 3; k++) shape(c, () => ell(c, x + Math.cos(k * 2.1) * rr * 0.55, y + Math.sin(k * 2.1) * rr * 0.42, 4, 4), "#6a4128", 0);
+  }
   c.restore();
   shade(c, bag, COL.glassEdge, -50, 0, 0.25);
   shape(c, () => rrect(c, 244, 296, 592, 40, 12), COL.blue);
   shape(c, () => rrect(c, 640, 290, 60, 52, 12), COL.blueDk, 5);
-  shine(c, [[290, 430], [275, 650]], 10);
-  // two child hands press the mash from the sides
+  shine(c, [[290, 430], [275, 570]], 10);
+  // two child hands press the mash from above
   hand(c, 340, 400, Math.PI / 2, 2.4, SKIN.child, CLOTH.child, true);
   c.save(); c.translate(1080, 0); c.scale(-1, 1); hand(c, 340, 400, Math.PI / 2, 2.4, SKIN.child, CLOTH.child, true); c.restore();
   arrow(c, [[540, 420], [540, 560]], RED, 14);
+  c.restore();
+  bananaWhole(c, 540, 890, 0.95);
 };
 
 // ---- setup.e2.1
@@ -173,19 +192,30 @@ const e2_1 = (c: Ctx) => {
 // ---- setup.e2.2
 const e2_2 = (c: Ctx) => {
   ground(c);
-  const yb = 860, w = 270, h = 540, lv = yb - h * 0.45, top = lv - 10;
-  const one = (x: number, th: boolean, st: boolean) => {
-    tumbler(c, x, yb, w, h, 0, [[yb - h * 0.8, SPIRIT], [lv, YEL]], false);
-    if (st) strands(c, x, lv, w, 200, x);
-    if (th) {
-      const tip: number[] = [x + 5, top - 40];
-      line(c, [[x + 120, 160], tip], 24, INK); line(c, [[x + 120, 160], tip], 13, COL.wood);
-      for (const d of [-14, 0, 14]) { const p = () => { c.beginPath(); c.moveTo(tip[0] + d * 0.3, tip[1]); c.bezierCurveTo(tip[0] + d * 2, tip[1] + 50, tip[0] - d * 2, tip[1] + 100, tip[0] + d, lv); }; p(); c.strokeStyle = "#8aa9bd"; c.lineWidth = 15; c.lineCap = "round"; c.stroke(); p(); c.strokeStyle = WHITE; c.lineWidth = 8; c.stroke(); }
-      shape(c, () => ell(c, tip[0], tip[1] + 16, 26, 36), WHITE, 4);
+  const yb = 900, w = 270, h = 560, lv = yb - h * 0.45, sp = yb - h * 0.8;
+  const fibres = (x: number, n: number, hgt: number, seed: number) => {
+    const r = rnd(seed);
+    for (let i = 0; i < n; i++) {
+      const sx = x - w * 0.3 + (i / (n - 1)) * w * 0.6, top = lv - hgt * (0.6 + r() * 0.4), wob = (r() - 0.5) * 60;
+      const p = () => { c.beginPath(); c.moveTo(sx, lv + 4); c.bezierCurveTo(sx + wob, lv - hgt * 0.3, sx - wob, lv - hgt * 0.6, sx + wob * 0.3, top); };
+      p(); c.strokeStyle = "#7d9db3"; c.lineWidth = 16; c.lineCap = "round"; c.stroke();
+      p(); c.strokeStyle = WHITE; c.lineWidth = 9; c.stroke();
     }
-    shine(c, [[x - w * 0.36, yb - h * 0.85], [x - w * 0.28, yb - h * 0.55]], 8);
   };
-  one(190, false, true); one(540, true, true); one(890, false, false);
+  const one = (x: number, n: number, hgt: number, seed: number) => {
+    tumbler(c, x, yb, w, h, 0, [[sp, SPIRIT], [lv, YEL]], false);
+    if (n) fibres(x, n, hgt, seed);
+    shine(c, [[x - w * 0.36, yb - h * 0.85], [x - w * 0.28, yb - h * 0.6]], 8);
+  };
+  one(190, 11, 170, 4); one(540, 3, 90, 7); one(890, 0, 0, 1);
+  // the toothpick lifts a white wad of threads out of the middle glass
+  const tip = [535, 255], gr = [770, 160];
+  const strand = (d: number) => { c.beginPath(); c.moveTo(tip[0] + d * 0.4, tip[1] + 20); c.bezierCurveTo(tip[0] + d * 2, tip[1] + 130, tip[0] - d * 2, lv - 150, tip[0] + d * 1.6, lv - 10); };
+  for (const d of [-20, 0, 20]) { strand(d); c.strokeStyle = "#7d9db3"; c.lineWidth = 18; c.lineCap = "round"; c.stroke(); strand(d); c.strokeStyle = WHITE; c.lineWidth = 10; c.stroke(); }
+  line(c, [tip, gr], 22, INK); line(c, [tip, gr], 11, COL.wood);
+  for (const [dx, dy, rx, ry] of [[0, 0, 44, 52], [-26, 24, 30, 34], [24, 26, 30, 34], [4, 52, 24, 30]]) shape(c, () => ell(c, tip[0] + dx, tip[1] + dy, rx, ry), WHITE, 5);
+  handL(c, gr[0] + 78, gr[1] - 28, Math.PI - 0.38, 1.4, SKIN.child, CLOTH.child);
+  arrow(c, [[640, 330], [620, 250]], RED, 12);
 };
 
 export const su_evolutionStoryOfLife = cards("sci.evolution.story-of-life.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2]);

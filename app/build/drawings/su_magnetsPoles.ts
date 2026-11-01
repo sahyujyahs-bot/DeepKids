@@ -86,18 +86,20 @@ const e1_1 = (c: Ctx) => {
   for (const x of [468, 628]) { c.setLineDash([14, 12]); line(c, [[x, 410], [x, 620]], 6, RED); c.setLineDash([]); }
 };
 // setup.e1.2
+// top: north (red) ends facing 10 cm apart, the right boat turning round; bottom: the boats stuck, red end to blue end
 const e1_2 = (c: Ctx) => {
   ground(c);
-  tub(c, 40, 24, 1040, 520);
-  boat(c, 280, 272, 125, { len: 210, th: 80 });
-  boat(c, 800, 272, 125, { len: 210, th: 80, flip: true });
-  const x0 = 407, x1 = 673;
-  line(c, [[x0, 272], [x1, 272]], 6); line(c, [[x0, 246], [x0, 298]], 6); line(c, [[x1, 246], [x1, 298]], 6);
-  write(c, "10 cm", 452, 180, 46, INK, 7);
-  arrow(c, arcPts(800, 272, 165, 215, 325), RED, 12);
-  tub(c, 40, 560, 1040, 1056);
-  boat(c, 415, 808, 125, { len: 210, th: 80 });
-  boat(c, 665, 808, 125, { len: 210, th: 80 });
+  tub(c, 40, 24, 1040, 480);
+  boat(c, 270, 252, 125, { len: 246, th: 92 });
+  boat(c, 810, 252, 125, { len: 246, th: 92, flip: true });
+  const x0 = 393, x1 = 687;
+  line(c, [[x0, 252], [x1, 252]], 6); line(c, [[x0, 226], [x0, 278]], 6); line(c, [[x1, 226], [x1, 278]], 6);
+  write(c, "10 cm", 452, 160, 46, INK, 7);
+  arrow(c, arcPts(810, 252, 168, 215, 325), RED, 12);
+  arrow(c, [[540, 490], [540, 590]], RED, 14);
+  tub(c, 40, 600, 1040, 1056);
+  boat(c, 415, 828, 125, { len: 246, th: 92 });
+  boat(c, 665, 828, 125, { len: 246, th: 92 });
 };
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
@@ -108,32 +110,41 @@ const e2_0 = (c: Ctx) => {
   arrow(c, [[800, 300], [420, 300]], RED, 16);
 };
 // setup.e2.1
+// the top magnet turned a quarter turn (crosswise), slid 5 cm: the arrow and the ruler span the same 5 cm
 const e2_1 = (c: Ctx) => {
   ground(c);
-  ruler(c, 100, 70, 760, 100, 80, 150, true);
-  line(c, [[150, 235], [150, 205]], 6, RED); line(c, [[550, 235], [550, 205]], 6, RED);
-  line(c, [[150, 220], [550, 220]], 8, RED);
-  write(c, "5 cm", 580, 196, 50, INK, 8);
-  slab(c, 150, 480, 520, 300, true);
-  slab(c, 260, 370, 300, 520, false, [410, 480]);
-  arrow(c, arcPts(410, 630, 440, -35, 40), RED, 16);
+  arrow(c, [[150, 150], [550, 150]], RED, 16);
+  slab(c, 150, 330, 520, 300, true);
+  slab(c, 260, 220, 300, 520, false, [410, 480]);
+  arrow(c, arcPts(410, 480, 120, 200, 290), RED, 12);
+  hand(c, 760, 440, Math.PI, 1.5, SKIN.child, CLOTH.child, true);
+  ruler(c, 100, 830, 760, 100, 80, 150, true);
+  line(c, [[150, 960], [150, 990]], 6, RED); line(c, [[550, 960], [550, 990]], 6, RED);
+  line(c, [[150, 975], [550, 975]], 8, RED);
+  write(c, "5 cm", 580, 950, 50, INK, 8);
 };
 // setup.e2.2
+// a grown-up cuts a thin strip off the sheet (yellow back up); the strip is stuck on the fridge door
 const e2_2 = (c: Ctx) => {
   ground(c);
-  c.save(); c.translate(0, 130);
-  // the fridge door with the cut strip stuck on it
+  c.save(); c.translate(0, 100);
+  // the fridge: freezer door above, tall door below, the cut strip stuck on it
   shadow(c, 930, 640, 140, 22);
   shape(c, () => rrect(c, 790, 60, 250, 570, 34), COL.steel, 6);
   shade(c, () => rrect(c, 790, 60, 250, 570, 34), COL.steelDk, 24, 0, 0.5);
-  shape(c, () => rrect(c, 812, 120, 24, 240, 12), COL.steelDk, 5);
-  c.beginPath(); rrect(c, 846, 450, 180, 50, 10); c.fillStyle = SH; c.fill();
-  shape(c, () => rrect(c, 836, 436, 180, 50, 10), COL.yellow, 6);
-  // the magnet sheet, yellow back up, a narrow strip being cut off along its lower edge
-  slab(c, 300, 400, 440, 260, false, [500, 500]);
-  shape(c, () => polyP(c, [[300, 614], [300, 646], [520, 628]]), BG, 5);
-  // scissors, open, the lower blade in the cut
-  c.save(); c.translate(500, 628); c.rotate(-0.02);
+  line(c, [[792, 220], [1038, 220]], 6);
+  shape(c, () => rrect(c, 812, 100, 22, 90, 11), COL.steelDk, 5);
+  shape(c, () => rrect(c, 812, 250, 22, 220, 11), COL.steelDk, 5);
+  c.beginPath(); rrect(c, 922, 296, 76, 260, 10); c.fillStyle = SH; c.fill();
+  shape(c, () => rrect(c, 910, 282, 76, 260, 10), COL.yellow, 6);
+  shade(c, () => rrect(c, 910, 282, 76, 260, 10), COL.woodDk, 12, 12, 0.35);
+  // the sheet, yellow back up; its right-hand strip is cut free from the bottom up to the blades
+  shape(c, () => polyP(c, [[524, 200], [604, 200], [604, 380], [650, 525], [572, 525], [524, 380]]), COL.yellow, 6);
+  shade(c, () => polyP(c, [[524, 200], [604, 200], [604, 380], [650, 525], [572, 525], [524, 380]]), COL.woodDk, 10, 10, 0.4);
+  slab(c, 120, 200, 404, 300, false, [322, 350]);
+  arrow(c, [[690, 330], [775, 330]], RED, 14);
+  // scissors upright, blades up in the cut, handles below
+  c.save(); c.translate(548, 545); c.rotate(-Math.PI / 2); c.scale(0.8, 0.8);
   shape(c, () => ell(c, -100, 56, 66, 44, -0.35), COL.red, 6);
   shape(c, () => ell(c, -100, 56, 34, 22, -0.35), BG, 5);
   shape(c, () => polyP(c, [[-30, 2], [200, 8], [214, 16], [-30, 26]]), COL.steel, 5);
@@ -144,8 +155,8 @@ const e2_2 = (c: Ctx) => {
   c.restore();
   shape(c, () => ell(c, 0, 12, 14, 14), COL.steelDk, 5);
   c.restore();
-  hand(c, 275, 650, -0.04, 1.5, SKIN.adult, CLOTH.adult);
-  hand(c, 580, 270, Math.PI / 2, 1.5, SKIN.adult, CLOTH.adult, true);
+  hand(c, 548, 735, -Math.PI / 2, 1.4, SKIN.adult, CLOTH.adult);
+  hand(c, 260, 70, Math.PI / 2, 1.4, SKIN.adult, CLOTH.adult, true);
   c.restore();
 };
 

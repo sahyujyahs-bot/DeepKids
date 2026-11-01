@@ -100,17 +100,19 @@ const tile = (c: Ctx, x: number, y: number, s: number, k: number, rot = 0) => {
 };
 
 // ---------------------------------------------------------------- experiment 1: the story trick
-// setup.e1.0
+// setup.e1.0: the grown-up's hand holds the notebook and reads words aloud; the child says them back; a phone times it
 const e1_0 = (c: Ctx) => {
   ground(c);
-  shape(c, () => rrect(c, 30, 640, 1020, 400, 40), MAT, 6);
-  shade(c, () => rrect(c, 30, 640, 1020, 400, 40), MATDK, 12, 14, 0.45);
-  for (const yy of [700, 980]) line(c, [[70, yy], [1010, yy]], 6, MATDK);
-  notebook(c, 470, 500, 270, 200, 3);
-  phone(c, 560, 850, 170, 230, 1.4);
-  person(c, 200, 940, 700, { sit: true, adult: true, armL: [0.4, -0.7], armR: [0.5, -0.9] });
-  person(c, 790, 940, 700, { sit: true });
-  for (let i = 0; i < 3; i++) { c.beginPath(); c.arc(660, 420, 36 + i * 30, -0.7, 0.7); c.strokeStyle = COL.blueDk; c.lineWidth = 7; c.lineCap = "round"; c.stroke(); }
+  c.fillStyle = "#e6d6b8"; c.fillRect(0, 960, D, 120); line(c, [[0, 960], [D, 960]], 5);
+  notebook(c, 260, 740, 400, 330, 3);
+  hand(c, 260, 1005, -Math.PI / 2, 1.5, SKIN.adult, CLOTH.adult);
+  for (let i = 0; i < 3; i++) { c.beginPath(); c.arc(450, 630, 70 + i * 32, -0.5, 0.5); c.strokeStyle = COL.blueDk; c.lineWidth = 8; c.lineCap = "round"; c.stroke(); }
+  phone(c, 548, 860, 130, 190, 1.4);
+  shape(c, () => rrect(c, 640, 800, 300, 300, 70), CLOTH.child);
+  shape(c, () => rrect(c, 735, 680, 110, 160, 20), SKIN.child, 6);
+  face(c, 790, 560, 165, false, false);
+  shape(c, () => ell(c, 790, 640, 40, 30), INK, 0); shape(c, () => ell(c, 790, 656, 24, 12), COL.pink, 0);
+  for (let i = 0; i < 3; i++) { c.beginPath(); c.arc(790, 640, 200 + i * 30, -0.25, 0.4); c.strokeStyle = COL.blueDk; c.lineWidth = 8; c.lineCap = "round"; c.stroke(); }
 };
 
 const broom = (c: Ctx, x: number, y: number, s: number) => {
@@ -197,17 +199,18 @@ const e2_0 = (c: Ctx) => {
   phone(c, 930, 420, 160, 270, 0);
   penHand(c, 188, 320);
 };
-// setup.e2.1
+// setup.e2.1: the child writes with the other hand (the left one, from the right of the card); the usual hand rests, unused
 const e2_1 = (c: Ctx) => {
   ground(c);
   shape(c, () => rrect(c, 240, 330, 360, 220, 90), CLOTH.child, 6);
   shape(c, () => rrect(c, 380, 290, 80, 70, 20), SKIN.child, 6);
   face(c, 420, 205, 115, false, true);
   sheet(c, 3, 110, 400);
-  phone(c, 930, 700, 160, 270, 2.2);
-  // the child's other hand writes the fourth number
-  penHand(c, 582, 562, true);
+  phone(c, 930, 230, 160, 270, 2.2);
+  hand(c, 80, 1000, -0.1, 1.1, SKIN.child, CLOTH.child, true);
+  penHand(c, 582, 562);
 };
+
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
   ground(c);

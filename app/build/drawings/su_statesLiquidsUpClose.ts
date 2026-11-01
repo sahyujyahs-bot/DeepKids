@@ -165,21 +165,23 @@ const coinTop = (c: Ctx, x: number, y: number, rx: number) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  plate(c, 560, 900, 470, 110);
-  coinTop(c, 746, 880, 190);
+  const sx = 606, cy = 850;
+  plate(c, 560, 880, 480, 115);
+  coinTop(c, sx, cy, 250);
   // the straw, held with a finger over its top end
-  const sx = 746;
-  line(c, [[sx, 280], [sx, 700]], 36, INK); line(c, [[sx, 280], [sx, 700]], 24, COL.teal);
-  line(c, [[sx - 6, 300], [sx - 6, 690]], 5, WHITE);
-  // water hanging at the straw's tip and one drop falling
+  line(c, [[sx, 300], [sx, 650]], 40, INK); line(c, [[sx, 300], [sx, 650]], 28, COL.teal);
+  line(c, [[sx - 7, 320], [sx - 7, 640]], 5, WHITE);
+  // water hanging at the straw's tip and one drop falling to the coin
   const drop = (x: number, y: number, s: number) => shape(c, () => { c.moveTo(x, y - s * 1.5); c.quadraticCurveTo(x + s * 1.1, y - s * 0.2, x + s * 0.8, y + s * 0.3); c.arc(x, y + s * 0.3, s * 0.8, 0, Math.PI); c.quadraticCurveTo(x - s * 1.1, y - s * 0.2, x, y - s * 1.5); c.closePath(); }, COL.water, 5);
-  drop(sx, 725, 24);
-  drop(sx, 800, 26);
-  arrow(c, [[560, 720], [560, 810]]);
-  // the hand: fingers round the straw, thumb over the top
+  drop(sx, 690, 30);
+  drop(sx, 770, 34);
+  arrow(c, [[470, 640], [470, 760]]);
+  // the hand: fingers round the straw, the thumb pressed over the top end
   c.save(); c.translate(0, 2 * 380); c.scale(1, -1);
-  hand(c, 900, 380, Math.PI, 2.2, SKIN.child, CLOTH.child);
+  hand(c, sx + 154, 380, Math.PI, 2.2, SKIN.child, CLOTH.child);
   c.restore();
+  shape(c, () => ell(c, sx + 2, 292, 44, 26, 0.1), SKIN.child, 6);
+  line(c, [[sx - 20, 292], [sx + 14, 288]], 3, SKIN.childDk);
 };
 
 // the coin seen from the side on the plate: back of the coin, then the water, then the coin's front edge
@@ -210,22 +212,19 @@ const e2_1 = (c: Ctx) => {
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
   ground(c);
-  const cx = 540, ty = 720, rx = 300;
-  // spilled water on the plate first, at the coin's right foot
+  const cx = 540, ty = 720, rx = 330;
   coinSide(c, () => {
-    const flat = () => { c.moveTo(cx - rx - 40, ty + 8); c.bezierCurveTo(cx - rx, ty - 70, cx + rx, ty - 70, cx + rx + 40, ty + 8); c.ellipse(cx, ty, rx + 20, 38, 0, 0, Math.PI); c.closePath(); };
-    shape(c, flat, COL.water, 6);
-    shade(c, flat, COL.waterDk, 90, 0, 0.5);
-    shine(c, [[cx - 170, ty - 30], [cx - 80, ty - 44]], 9);
-    // a runnel down the coin's edge and a puddle where it lands
-    shape(c, () => { c.moveTo(cx + rx - 40, ty + 20); c.lineTo(cx + rx + 40, ty + 20); c.lineTo(cx + rx + 50, 806); c.lineTo(cx + rx - 20, 806); c.closePath(); }, COL.water, 4);
-    shape(c, () => ell(c, cx + rx + 50, 836, 170, 38), COL.water, 5);
-    shine(c, [[cx + rx + 20, 826], [cx + rx + 70, 820]], 7);
-    // soap bubbles
-    ([[cx - 120, ty - 52, 24], [cx + 20, ty - 62, 32], [cx + 130, ty - 48, 20], [cx - 20, ty - 90, 16]] as number[][]).forEach(([x, y, r]) => {
-      shape(c, () => ell(c, x, y, r, r), "rgba(255,255,255,0.7)", 4);
-      shine(c, [[x - r * 0.5, y - r * 0.2], [x - r * 0.2, y - r * 0.55]], 4);
-    });
+    // soapy water: only a thin, flat skin on the coin, bulging just past the edge and running over on the right
+    const ox = cx + rx;
+    shape(c, () => { c.moveTo(ox - 30, ty + 10); c.lineTo(ox + 24, ty + 10); c.lineTo(ox + 40, 820); c.lineTo(ox - 14, 820); c.closePath(); }, COL.water, 5);
+    const film = () => { c.moveTo(cx - rx - 14, ty); c.lineTo(cx - rx - 14, ty - 22); c.ellipse(cx, ty - 22, rx + 14, 36, 0, Math.PI, 0); c.lineTo(cx + rx + 14, ty); c.ellipse(cx, ty, rx + 14, 36, 0, 0, Math.PI); c.closePath(); };
+    shape(c, film, COL.water, 6);
+    shade(c, film, COL.waterDk, 110, 0, 0.5);
+    shape(c, () => ell(c, cx, ty - 22, rx + 14, 36), COL.drop, 4);
+    shine(c, [[cx - 200, ty - 30], [cx - 90, ty - 44]], 9);
+    shape(c, () => ell(c, ox + 10, 838, 125, 36), COL.water, 5);
+    shine(c, [[ox - 50, 830], [ox + 10, 824]], 7);
+    arrow(c, [[ox + 75, 690], [ox + 75, 780]]);
   });
 };
 

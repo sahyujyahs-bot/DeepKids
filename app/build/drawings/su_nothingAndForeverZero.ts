@@ -60,9 +60,19 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  const n = ["205", "610", "80", "803", "400", "607"], rot = [-0.03, 0.025, -0.02, 0.03, -0.025, 0.02];
-  n.forEach((s, i) => chitNum(c, s, 200 + (i % 3) * 340, 300 + Math.floor(i / 3) * 330, 300, 230, rot[i], 120));
-  penFlat(c, 300, 930, 480);
+  // three finished zero cards on top
+  ["610", "80", "803"].forEach((s, i) => chitNum(c, s, 150 + i * 280, 115, 250, 170, (i % 2 ? 0.03 : -0.03), 80));
+  // the big chit: 2, the 0 being written in the pen, 5
+  chit(c, 480, 600, 700, 420, -0.02, () => {
+    c.save(); c.globalAlpha = 0.5; c.beginPath(); ell(c, -10, 0, 95, 130); c.fillStyle = COL.yellow; c.fill(); c.restore();
+    numLine(c, "205", -220, -100, 200);
+  });
+  const dir = [Math.cos(Math.PI * 0.62), Math.sin(Math.PI * 0.62)], tip = [475, 705], s = 1.4;
+  const grip = [tip[0] - dir[0] * 150, tip[1] - dir[1] * 150];
+  const back = [tip[0] - dir[0] * 470, tip[1] - dir[1] * 470];
+  line(c, [back, tip], 34, INK); line(c, [back, tip], 22, COL.blue);
+  shape(c, () => { c.moveTo(tip[0] + dir[1] * 11 + dir[0] * 28, tip[1] - dir[0] * 11 + dir[1] * 28); c.lineTo(tip[0], tip[1]); c.lineTo(tip[0] - dir[1] * 11 + dir[0] * 28, tip[1] + dir[0] * 11 + dir[1] * 28); c.closePath(); }, PEN, 4);
+  hand(c, grip[0] - dir[0] * 70 * s, grip[1] - dir[1] * 70 * s, Math.PI * 0.62, s);
 };
 
 // setup.e1.2
@@ -100,28 +110,18 @@ const e1_2 = (c: Ctx) => {
 // setup.e1.3
 const e1_3 = (c: Ctx) => {
   ground(c);
-  const nums = ["304", "520", "60", "905", "700", "408"];
-  nums.forEach((s, i) => {
-    const cx = 175 + (i % 2) * 250, cy = 280 + Math.floor(i / 2) * 260;
-    chit(c, cx, cy, 230, 170, ((i * 7) % 5 - 2) * 0.015, () => numLine(c, s, -numWidth(s, 46) / 2, -23, 46, COL.greyDk, 5));
+  // the card as the reader saw it, and the same card turned over: the real number in pencil on the back
+  chit(c, 230, 300, 340, 270, -0.02, () => numLine(c, "52_", -numWidth("52_", 110) / 2, -55, 110));
+  chit(c, 700, 300, 380, 270, 0.02, () => numLine(c, "520", -numWidth("520", 90) / 2, -45, 90, COL.greyDk, 5));
+  arrow(c, [[250, 130], [360, 70], [520, 60], [640, 110]], RED, 12);
+  hand(c, 925, 505, Math.PI * 1.25, 1.5);
+  // the tally: cross, tick, tick
+  chit(c, 540, 790, 820, 200, 0, () => {
+    [[-250, 0], [0, 1], [250, 1]].forEach(([x, v]) => {
+      if (v) line(c, [[x - 36, 4], [x - 8, 38], [x + 42, -34]], 16, TICK);
+      else { line(c, [[x - 32, -32], [x + 32, 32]], 16, RED); line(c, [[x + 32, -32], [x - 32, 32]], 16, RED); }
+    });
   });
-  // the notebook table
-  shadow(c, 810, 905, 270, 28);
-  shape(c, () => rrect(c, 560, 150, 480, 740, 14), PAPER, 6);
-  shade(c, () => rrect(c, 560, 150, 480, 740, 14), PAPERDK, 14, 14, 0.7);
-  shape(c, () => rrect(c, 560, 150, 480, 740, 14), "rgba(0,0,0,0)", 6);
-  for (let k = 0; k < 7; k++) shape(c, () => ell(c, 560, 200 + k * 100, 14, 14), COL.steelDk, 4);
-  shape(c, () => rrect(c, 600, 190, 410, 90, 4), COL.sky, 5);
-  for (let r = 0; r < 7; r++) line(c, [[600, 190 + r * 95], [1010, 190 + r * 95]], 4);
-  line(c, [[600, 190 + 7 * 95 - 95 + 95], [1010, 190 + 7 * 95 - 95 + 95]], 4);
-  [600, 736, 872, 1010].forEach((x) => line(c, [[x, 190], [x, 190 + 7 * 95 - 0]], 4));
-  const pat = ["101", "000", "001", "110", "010", "111"];
-  pat.forEach((row, r) => [...row].forEach((v, k) => {
-    const x = 668 + k * 136, y = 237 + (r + 1) * 95 + 0;
-    if (v === "1") line(c, [[x - 28, y], [x - 6, y + 24], [x + 32, y - 28]], 12, TICK);
-    else { line(c, [[x - 24, y - 24], [x + 24, y + 24]], 12, RED); line(c, [[x + 24, y - 24], [x - 24, y + 24]], 12, RED); }
-  }));
-  [0, 1, 2].forEach((k) => { const x = 668 + k * 136; shape(c, () => ell(c, x, 237, 26, 28), SKIN.child, 5); shape(c, () => { c.moveTo(x - 27, 232); c.bezierCurveTo(x - 27, 200, x + 27, 200, x + 27, 232); c.quadraticCurveTo(x, 218, x - 27, 232); c.closePath(); }, CLOTH.hair, 4); });
 };
 
 // ---------------------------------------------------------------- e2 · Where does the ruler start?
@@ -161,19 +161,22 @@ const e2_0 = (c: Ctx) => {
   arrow(c, [[130, 190], [130, 400]], RED, 12);
 };
 
-// the pencil and ruler used on both measuring cards
+// the pencil and ruler used on both measuring cards: ruler edge at 90, the 0 mark at 190 (a 1 cm yellow strip)
 const measureScene = (c: Ctx, px: number) => {
   ground(c);
-  ruler(c, 90, 170, 540, 230, 100, 8, true, 52);
-  pencil(c, px, 510, 650, 56);
-  // a thin red line from the pencil's tip down through the ruler's marks
-  const tipX = px + 650;
-  line(c, [[tipX, 540], [tipX, 660]], 6, RED);
-  hand(c, tipX + 90, 290, Math.PI * 0.64, 1.7, SKIN.child, CLOTH.child, true);
+  ruler(c, 90, 190, 540, 230, 100, 8, true, 52);
+  pencil(c, px, 510, 600, 56);
+  // a red line from the pencil's tip down to the ruler's number, which is ringed
+  const tipX = px + 600, k = Math.round((tipX - 190) / 100);
+  line(c, [[tipX, 540], [tipX, 616]], 8, RED);
+  c.beginPath(); ell(c, tipX, 664, 36, 42); c.strokeStyle = RED; c.lineWidth = 8; c.stroke();
+  // the hand pressing the pencil flat near its rubber end, so the end stays in view
+  hand(c, px + 90, 352, 1.2, 1.6, SKIN.child, CLOTH.child, true);
+  return k;
 };
-// setup.e2.1
+// setup.e2.1 · the pencil's end at the very edge of the ruler
 const e2_1 = (c: Ctx) => { measureScene(c, 90); };
-// setup.e2.2
-const e2_2 = (c: Ctx) => { measureScene(c, 170); };
+// setup.e2.2 · the same pencil, its end at the 0 mark
+const e2_2 = (c: Ctx) => { measureScene(c, 190); };
 
 export const su_nothingAndForeverZero = cards("sci.nothing-and-forever.zero.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e2_0, e2_1, e2_2]);

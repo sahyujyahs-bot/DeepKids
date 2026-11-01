@@ -918,6 +918,12 @@ function onAct(e) {
       renderSheet();
       break;
     }
+    case "dkview": {
+      ui.dkview = b.dataset.v;
+      sfx("tap");
+      render();
+      break;
+    }
     case "btrack": {
       navPush();
       ui.btrack = b.dataset.v;

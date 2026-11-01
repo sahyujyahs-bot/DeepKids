@@ -1,4 +1,12 @@
 {
+ "expl.2": {
+  "src": "media/img/sci.health.exercise-and-rest.L3/expl.2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.4": {
+  "src": "media/img/sci.health.exercise-and-rest.L3/expl.4.jpg",
+  "credit": "Alessandro Zangrilli, Public domain, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.health.exercise-and-rest.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +42,13 @@
  "setup.e3.2": {
   "src": "media/img/sci.health.exercise-and-rest.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.health.exercise-and-rest.L3/term.0.jpg",
+  "credit": "Henry Vandyke Carter, Public domain, via Wikimedia Commons"
+ },
+ "term.8": {
+  "src": "media/img/sci.health.exercise-and-rest.L3/term.8.jpg",
+  "credit": "jodukrae, CC BY 2.0, via Wikimedia Commons"
  }
 }

@@ -28,13 +28,13 @@ const e1_0 = (c: Ctx) => {
   glass(c, 140, 820, 150, 190);
   glass(c, 330, 820, 190, 270);
   glass(c, 610, 820, 270, 380, 0.3);
-  const st = [[712, 384], [708, 540], [706, 706]];
+  const st = [[606, 372], [606, 520], [606, 690]];
   line(c, st, 30, INK); line(c, st, 20, COL.water);
-  shape(c, () => ell(c, 706, 706, 40, 10), COL.drop, 4);
-  tumbler(c, 760, 300, -2);
-  hand(c, 925, 285, Math.PI, 1.65, SKIN.child, CLOTH.child);
-  armExt(c, 925, 285, Math.PI, 1.65, 400);
-  arrow(c, [[815, 450], [815, 580]]);
+  shape(c, () => ell(c, 606, 690, 46, 11), COL.drop, 4);
+  tumbler(c, 660, 290, -2);
+  hand(c, 825, 275, Math.PI, 1.65, SKIN.child, CLOTH.child);
+  armExt(c, 825, 275, Math.PI, 1.65, 400);
+  arrow(c, [[780, 470], [780, 600]]);
 };
 
 // ---- the candle cards share the steel plate, the tealight and the glass

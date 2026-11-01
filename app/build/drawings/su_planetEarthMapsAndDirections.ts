@@ -73,6 +73,14 @@ const roomWithBadges = (c: Ctx, litN = false) => {
   badge(c, 540, 72, "N", litN); badge(c, 540, 748, "S"); badge(c, 128, 405, "W"); badge(c, 952, 405, "E");
 };
 
+// a hand with one finger pointing: the gripping hand with its first finger stretched out
+const pointHand = (c: Ctx, x: number, y: number, an: number, s: number, skin: string = SKIN.child, sleeve: string = CLOTH.child) => {
+  hand(c, x, y, an, s, skin, sleeve);
+  c.save(); c.translate(x, y); c.rotate(an); c.scale(s, s);
+  shape(c, () => rrect(c, 34, -30, 116, 18, 9), skin, 5);
+  c.restore();
+};
+
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
@@ -107,23 +115,23 @@ const e1_1 = (c: Ctx) => {
   tiles(c, 15, 150, 7, 6, 150);
   for (let i = 0; i < 4; i++) write(c, String(i + 1), 15 + 150 * i + 60, 175, 70, INK, 9);
   gridPaper(c, 60, 640, 460, 340, 57);
-  for (let i = 0; i < 4; i++) shape(c, () => rect(c, 60 + 57 * (i + 1), 640 + 57, 57, 57), COL.teal, 4);
-  hand(c, 650, 450, -2.0, 1.9, SKIN.child, CLOTH.child, true);
+  for (let i = 0; i < 4; i++) { shape(c, () => rect(c, 60 + 57 * (i + 1), 640 + 57, 57, 57), COL.teal, 4); write(c, String(i + 1), 60 + 57 * (i + 1) + 20, 640 + 57 + 12, 32, INK, 5); }
+  pointHand(c, 686, 579, -2.0, 2.3);
 };
 
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  tiles(c, 30, 20, 6, 4, 170);
+  tiles(c, 30, 20, 6, 3, 170);
   coin(c, 625, 275, 56);
   arrow(c, [[405, 275], [545, 275]], RED, 12);
-  // the other hand holds the map
-  gridPaper(c, 410, 735, 380, 280, 40);
-  shape(c, () => rect(c, 470, 800, 40, 40), WHITE, 5);
-  shape(c, () => ell(c, 680, 800, 20, 20), COL.yellow, 4);
-  hand(c, 741, 925, -2.8, 1.6, SKIN.adult, ADULT_SLEEVE);
+  // the map, with the same chit and coin two squares apart; a finger counts along it
+  gridPaper(c, 330, 590, 540, 360, 60);
+  shape(c, () => rect(c, 450, 710, 60, 60), WHITE, 5);
+  shape(c, () => ell(c, 600, 740, 22, 22), COL.yellow, 4);
+  arrow(c, [[522, 740], [566, 740]], RED, 8);
+  pointHand(c, 770, 935, -2.3, 1.7, SKIN.adult, ADULT_SLEEVE);
   // the chit being put on a tile
-  hand(c, 191, 156, 0.9, 1.6, SKIN.adult, ADULT_SLEEVE);
   chit(c, 290, 280, 170, 130, 0.15);
   hand(c, 191, 156, 0.9, 1.6, SKIN.adult, ADULT_SLEEVE);
 };
@@ -191,7 +199,7 @@ const e3_1 = (c: Ctx) => {
   ground(c);
   const ox = 130, oy = 870, W = 720, H = 480, th = Math.atan2(-H, W);
   gridPaper(c, ox, oy - H, W, H, 48, COL.sky);
-  gridPaper(c, ox, oy - H / 2, W / 2, H / 2, 40, COL.yellow);
+  gridPaper(c, ox, oy - H / 2, W / 2, H / 2, 48, COL.paper);
   // the ruler along the corner-to-corner line, below it
   c.save(); c.translate(ox, oy); c.rotate(th);
   const L = 900;
@@ -200,6 +208,8 @@ const e3_1 = (c: Ctx) => {
   for (let mm = 0; mm <= 20; mm++) { line(c, [[mm * 40, 0], [mm * 40, mm % 5 === 0 ? 34 : 22]], 3.5); line(c, [[mm * 40 + 20, 0], [mm * 40 + 20, 14]], 2.5); }
   for (const n of [0, 5, 10, 15, 20]) write(c, String(n), n * 40 - (n > 9 ? 16 : 8), 40, 30, INK, 5);
   c.restore();
+  for (const [px, py] of [[ox + W / 2, oy - H / 2], [ox + W, oy - H]]) shape(c, () => ell(c, px, py, 14, 14), RED, 4);
+  hand(c, 811, 684, -2.0, 1.9, SKIN.child, CLOTH.child, true);
 };
 
 export const su_planetEarthMapsAndDirections = cards("sci.planet-earth.maps-and-directions.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e3_0, e3_1]);

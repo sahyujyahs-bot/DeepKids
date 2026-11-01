@@ -455,7 +455,11 @@
      "items": [
       {
        "f": "Lotus",
-       "b": "POND. Lotus grow in still, muddy water, and their leaves stand above it."
+       "b": "POND. Lotus grow in still, muddy water, and their leaves stand above it.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-00.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog eggs in jelly",
@@ -463,11 +467,19 @@
       },
       {
        "f": "Green threads of paasi, or algae",
-       "b": "POND. Paasi grows in still, sunny water."
+       "b": "POND. Paasi grows in still, sunny water.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-02.jpg",
+        "credit": "Cristian Riquelme, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Murrel, a fish that gulps air",
-       "b": "POND. Murrel live in ponds, even when the water is short of oxygen, because they can breathe air at the surface."
+       "b": "POND. Murrel live in ponds, even when the water is short of oxygen, because they can breathe air at the surface.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-03.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tadpole",
@@ -475,7 +487,11 @@
       },
       {
        "f": "Water lily",
-       "b": "POND. Water lilies float their leaves on still water."
+       "b": "POND. Water lilies float their leaves on still water.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-05.jpg",
+        "credit": "Srivatsan Ramkumar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snail clamped to a stone in a fast stream",
@@ -483,31 +499,59 @@
       },
       {
        "f": "Small flat fish holding on to rocks",
-       "b": "RIVER. A flat body hugs the rocks, so fast water slides over it."
+       "b": "RIVER. A flat body hugs the rocks, so fast water slides over it.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-07.jpg",
+        "credit": "Vijay Karthick, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Mahseer, a big fish of fast rivers",
-       "b": "RIVER. Mahseer swim in cool, fast rivers, such as the Kaveri."
+       "b": "RIVER. Mahseer swim in cool, fast rivers, such as the Kaveri.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-08.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ganga river dolphin",
-       "b": "RIVER. The Ganga river dolphin lives in the fresh water of the Ganga and the rivers that join it."
+       "b": "RIVER. The Ganga river dolphin lives in the fresh water of the Ganga and the rivers that join it.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-09.jpg",
+        "credit": "Fábio Olmos, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Hilsa swimming upstream to lay eggs",
-       "b": "RIVER, SEA or MIXED is right if you say why. Hilsa live in the sea and swim up rivers, such as the Hooghly and the Godavari, to lay their eggs."
+       "b": "RIVER, SEA or MIXED is right if you say why. Hilsa live in the sea and swim up rivers, such as the Hooghly and the Godavari, to lay their eggs.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-10.jpg",
+        "credit": "Sabarni Sarker, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mackerel and sardines",
-       "b": "SEA. Both live in salt water."
+       "b": "SEA. Both live in salt water.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-11.jpg",
+        "credit": "Светлана Царахова, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Coral reef",
-       "b": "SEA. Coral reefs grow in warm, clear sea water."
+       "b": "SEA. Coral reefs grow in warm, clear sea water.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-12.jpg",
+        "credit": "Gregor Bailar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Sea turtle",
-       "b": "SEA. Sea turtles swim in the sea and come up to breathe air. The mothers lay their eggs on beaches."
+       "b": "SEA. Sea turtles swim in the sea and come up to breathe air. The mothers lay their eggs on beaches.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-13.jpg",
+        "credit": "Sundar Lakshmanan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Tiny sea algae, making about half of Earth's oxygen",
@@ -515,15 +559,27 @@
       },
       {
        "f": "Mangrove trees at Pichavaram",
-       "b": "MIXED. Mangroves grow in brackish water, where a river meets the sea."
+       "b": "MIXED. Mangroves grow in brackish water, where a river meets the sea.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-15.jpg",
+        "credit": "Donald Davesne, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Flamingos at Pulicat lake",
-       "b": "MIXED. Pulicat is a brackish lagoon, partly fresh and partly salty."
+       "b": "MIXED. Pulicat is a brackish lagoon, partly fresh and partly salty.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-16.jpg",
+        "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Irrawaddy dolphins in Chilika lake",
-       "b": "MIXED. Chilika lake is brackish: rivers feed it and the sea flows in."
+       "b": "MIXED. Chilika lake is brackish: rivers feed it and the sea flows in.",
+       "img": {
+        "src": "media/cards/water-habitats-g1-1-17.jpg",
+        "credit": "Ian Dugdale, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "QUESTION: Why do fish gulp at a pond's surface at dawn?",

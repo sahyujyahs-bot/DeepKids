@@ -96,11 +96,9 @@ const e1_2 = (c: Ctx) => {
   heap(c, BX, 850, 110, 30, 10, 9);
   hangingBalloon(c);
   const cy = BKY + 193;
-  for (const p of [-0.78, -0.4, 0, 0.4, 0.78]) bit(c, BX + 140 * Math.sin(p) * 1.04, cy + 175 * Math.cos(p) + 6, 17, p * 2 + 0.5);
-  bit(c, 380, 735, 17, 1.2); bit(c, 560, 710, 17, 3);
-  // counting: a raised hand and the number
-  hand(c, 920, 930, -Math.PI / 2, 1.7, undefined, undefined, true);
-  write(c, "5", 868, 560, 130, INK, 12);
+  // five bits stuck on the underside of the balloon, big and clear; two more rising from the plate
+  for (const p of [-0.62, -0.31, 0, 0.31, 0.62]) bit(c, BX + 140 * Math.sin(p), cy + 175 * Math.cos(p) + 10, 22, p * 3 + 0.4);
+  bit(c, 380, 770, 20, 1.2); bit(c, 585, 780, 20, 3);
 };
 
 // ---- the tap, the sink and the thin stream (cards e2.0, e2.1, e2.2)

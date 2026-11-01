@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { COL, CLOTH, INK, BG, WHITE, RED, SKIN, cards, ground, shape, ell, rrect, polyP, shadow, shade, line, shine, arrow, plate, seed, leaf, hand, write, rnd } from "./flatKit";
+import { COL, CLOTH, INK, BG, WHITE, RED, SKIN, cards, ground, shape, ell, rrect, polyP, shadow, shade, line, shine, arrow, plate, bowl, seed, leaf, hand, write, rnd } from "./flatKit";
 
 // sci.genetics.dna-and-rna.L3 set-up cards: three seeds on cotton (e1), big and small chana (e2).
 
@@ -60,20 +60,20 @@ const sprout = (c: Ctx, x: number, y: number, h: number, lean: number, seedCol: 
   leaf(c, tx, ty, leafLen, -2.55, leafCol); leaf(c, tx, ty, leafLen, -0.6, leafCol);
 };
 // a chana seedling: stem with small paired leaflets, seed at the foot
-const chanaSprout = (c: Ctx, x: number, y: number, h: number, lean: number) => {
+const chanaSprout = (c: Ctx, x: number, y: number, h: number, lean: number, ls = 1) => {
   const tx = x + lean, ty = y - h, sp = () => { c.beginPath(); c.moveTo(x, y); c.quadraticCurveTo(x + lean * 0.9, y - h * 0.5, tx, ty); };
   sp(); c.strokeStyle = INK; c.lineWidth = 26; c.lineCap = "round"; c.stroke(); sp(); c.strokeStyle = "#cfe58a"; c.lineWidth = 15; c.stroke();
-  for (let k = 0; k < 3; k++) { const u = 0.45 + k * 0.22, px = x + lean * u * 1.1, py = y - h * u; leaf(c, px, py, 52 - k * 5, -2.7 + k * 0.1, COL.leaf); leaf(c, px, py, 52 - k * 5, -0.45 - k * 0.1, COL.leaf); }
-  leaf(c, tx, ty, 44, -1.57, COL.leaf);
+  for (let k = 0; k < 3; k++) { const u = 0.45 + k * 0.22, px = x + lean * u * 1.1, py = y - h * u; leaf(c, px, py, (52 - k * 5) * ls, -2.7 + k * 0.1, COL.leaf); leaf(c, px, py, (52 - k * 5) * ls, -0.45 - k * 0.1, COL.leaf); }
+  leaf(c, tx, ty, 44 * ls, -1.57, COL.leaf);
   chana(c, x, y + 4, 24, true);
 };
-const ruler = (c: Ctx, x: number, bottom: number, cm: number, per: number, ticksLeft: boolean) => {
+const ruler = (c: Ctx, x: number, bottom: number, cm: number, per: number, ticksLeft: boolean, nh = 28) => {
   const top = bottom - cm * per - 24, w = 94;
   shadow(c, x + 8, bottom + 6, w * 0.5, 10);
   shape(c, () => rect4(c, x, top, w, bottom - top), COL.wood, 6);
   shade(c, () => rect4(c, x, top, w, bottom - top), COL.woodDk, -10, -4, 0.5);
-  for (let i = 0; i <= cm; i++) { const y = bottom - i * per; line(c, ticksLeft ? [[x + w, y], [x + w - 34, y]] : [[x, y], [x + 34, y]], 5); if (i > 0) write(c, String(i), ticksLeft ? x + 12 : x + 44, y - 14, 28, INK, 5); }
-  write(c, "0", ticksLeft ? x + 12 : x + 44, bottom - 14, 28, INK, 5);
+  for (let i = 0; i <= cm; i++) { const y = bottom - i * per; line(c, ticksLeft ? [[x + w, y], [x + w - 34, y]] : [[x, y], [x + 34, y]], 5); if (i > 0) write(c, String(i), ticksLeft ? x + 12 : x + 44, y - nh / 2, nh, INK, 5); }
+  write(c, "0", ticksLeft ? x + 12 : x + 44, bottom - nh / 2, nh, INK, 5);
 };
 
 // ---------- e1: three seeds, one cotton
@@ -137,14 +137,16 @@ const e1_2 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  plate(c, 540, 650, 500, 320);
-  const r = rnd(21);
-  for (let i = 0; i < 24; i++) { const a = r() * 6.28, d = Math.sqrt(r()); chana(c, 280 + Math.cos(a) * 140 * d, 670 + Math.sin(a) * 120 * d, 24 + r() * 16); }
-  for (let i = 0; i < 5; i++) chana(c, 540 + i * 100, 560, 44);
-  for (let i = 0; i < 5; i++) chana(c, 560 + i * 72, 740, 24);
-  arrow(c, [[450, 610], [500, 580]], RED, 10);
-  holdHand(c, 700, 330, Math.PI * 0.5, 2);
-  chana(c, 700, 378, 44);
+  plate(c, 620, 760, 440, 250);
+  bowl(c, 215, 470, 170);
+  const r = rnd(21), heap: number[][] = [];
+  for (let i = 0; i < 26; i++) { const a = r() * 3.14, d = Math.sqrt(r()); heap.push([215 + Math.cos(a) * 125 * d, 440 - Math.sin(a) * 70 * d + 20 * (1 - d), 26 + r() * 18]); }
+  heap.sort((p, q) => p[1] - q[1]).forEach(([x, y, k]) => chana(c, x, y, k));
+  for (let i = 0; i < 5; i++) chana(c, 430 + i * 100, 700, 44);
+  for (let i = 0; i < 5; i++) chana(c, 450 + i * 72, 850, 24);
+  chana(c, 700, 395, 44);
+  arrow(c, [[700, 470], [700, 600]], RED, 10);
+  holdHand(c, 700, 345, Math.PI * 0.5, 2);
 };
 
 // setup.e2.1
@@ -163,10 +165,10 @@ const e2_2 = (c: Ctx) => {
   ground(c);
   plate(c, 540, 850, 500, 150);
   cotton(c, 540, 848, 410, 112, true);
-  const hs = [330, 345, 318, 338, 325], ss = [265, 250, 275, 258, 268];
-  hs.forEach((h, i) => chanaSprout(c, 110 + i * 72, 850 - (i % 2) * 10, h, (i - 2) * 8));
-  ss.forEach((h, i) => chanaSprout(c, 680 + i * 72, 850 - (i % 2) * 10, h, (i - 2) * 8));
-  ruler(c, 490, 870, 8, 56, false);
+  const hs = [395, 410, 385, 405, 392], ss = [185, 170, 195, 178, 188];
+  hs.forEach((h, i) => chanaSprout(c, 90 + i * 70, 850 - (i % 2) * 10, h, (i - 2) * 6, 0.75));
+  ss.forEach((h, i) => chanaSprout(c, 705 + i * 70, 850 - (i % 2) * 10, h, (i - 2) * 6, 0.75));
+  ruler(c, 490, 870, 8, 56, false, 38);
   holdHand(c, 537, 400, Math.PI * 0.5, 2);
 };
 

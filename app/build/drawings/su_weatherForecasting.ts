@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { D, INK, BG, SH, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shade, line, arrow, plate, hand, person, write, cards } from "./flatKit";
+import { D, INK, BG, SH, WHITE, RED, COL, SKIN, CLOTH, rnd, ground, shape, ell, polyP, rrect, shade, shine, line, arrow, plate, hand, person, write, cards } from "./flatKit";
 
 // SCIENCE UNIT sci.weather.forecasting.L3 · ten set-up cards (flat kit): score-sheet notebook, sky watching,
 // salt on plates in steam and dry air, wind ribbon, cloud against a building, compass page.
@@ -83,33 +83,27 @@ const card0 = (c: Ctx) => {
 
 // setup.e1.1
 const card1 = (c: Ctx) => {
+  // sky above, the balcony ledge below: read the sky, write your own forecast; the phone lies face down
   c.fillStyle = "#7f8fd1"; c.fillRect(0, 0, D, D);
-  c.fillStyle = "#b39cd6"; c.fillRect(0, 380, D, 260);
-  c.fillStyle = "#f5b27f"; c.fillRect(0, 640, D, 300);
-  cloud(c, 250, 180, 78, "#fbe3e0", "#e3b6c6");
-  cloud(c, 700, 140, 80, "#fbe3e0", "#e3b6c6");
-  cloud(c, 960, 330, 40, "#fbe3e0", "#e3b6c6");
-  // child (left) points up at a cloud and holds a notebook; parent (right) holds a phone face down
-  person(c, 300, 1160, 760, { armL: [-2.3, -2.0], armR: [0.9, -1.3] });
-  person(c, 720, 1180, 800, { adult: true, armL: [1.7, 1.55], armR: [1.2, -1.9] });
-  // notebook in the child's hand
-  c.save(); c.translate(560, 520); c.rotate(-0.15);
-  c.beginPath(); rrect(c, -70, -88, 150, 190, 10); c.fillStyle = SH; c.fill();
-  shape(c, () => rrect(c, -75, -95, 150, 190, 10), COL.paper, 6);
-  [-50, -20, 10, 40, 70].forEach((y) => line(c, [[-50, y], [50, y]], 4, COL.steelDk));
-  line(c, [[-55, -88], [-55, 88]], 4, COL.pink);
+  c.fillStyle = "#b39cd6"; c.fillRect(0, 300, D, 150); c.fillStyle = "#f5b27f"; c.fillRect(0, 450, D, 120);
+  cloud(c, 260, 170, 90, "#fbe3e0", "#e3b6c6"); cloud(c, 720, 130, 100, "#fbe3e0", "#e3b6c6"); cloud(c, 930, 330, 50, "#fbe3e0", "#e3b6c6");
+  shape(c, () => rrect(c, -20, 560, D + 40, 560, 0), "#e8dcc3", 6);
+  shape(c, () => rrect(c, -20, 540, D + 40, 50, 8), "#f3e9d3", 6);
+  // open notebook with a little cloud being drawn
+  c.save(); c.translate(640, 800); c.rotate(-0.06);
+  c.beginPath(); rrect(c, -290, -190, 590, 400, 14); c.fillStyle = SH; c.fill();
+  shape(c, () => rrect(c, -300, -200, 590, 400, 14), COL.paper, 6);
+  line(c, [[-5, -200], [-5, 200]], 6);
+  [-120, -60, 0, 60, 120].forEach((y) => { line(c, [[-270, y], [-35, y]], 4, COL.steelDk); line(c, [[25, y], [260, y]], 4, COL.steelDk); });
+  cloud(c, 140, -100, 34, WHITE, "#cdd9e8"); [105, 140, 175].forEach((x) => drop(c, x, -20, 10));
   c.restore();
-  shape(c, () => ell(c, 528, 600, 24, 22), SKIN.child, 5);
-  // phone, back side up: dark with a camera
-  c.save(); c.translate(826, 585); c.rotate(0.12);
-  shape(c, () => rrect(c, -42, -78, 84, 156, 14), COL.black, 6);
-  shape(c, () => ell(c, -18, -52, 14, 14), COL.greyDk, 4); shape(c, () => ell(c, -18, -52, 5, 5), INK, 0);
+  // the phone, back side up (dark, camera): not looked at yet
+  c.save(); c.translate(150, 810); c.rotate(-0.25);
+  c.beginPath(); rrect(c, -70, -130, 150, 270, 22); c.fillStyle = SH; c.fill();
+  shape(c, () => rrect(c, -78, -140, 150, 270, 22), COL.black, 6);
+  shape(c, () => ell(c, -38, -98, 22, 22), COL.greyDk, 5); shape(c, () => ell(c, -38, -98, 8, 8), INK, 0);
   c.restore();
-  shape(c, () => ell(c, 790, 640, 22, 28), SKIN.adult, 5);
-  // parapet in front of their legs
-  shape(c, () => rrect(c, -20, 850, D + 40, 260, 0), "#e8dcc3", 6);
-  shade(c, () => rrect(c, -20, 850, D + 40, 260, 0), "#cbb996", 0, 60, 0.6);
-  shape(c, () => rrect(c, -20, 836, D + 40, 40, 8), "#f3e9d3", 6);
+  holding(c, 860, 985, -2.52, 1.2, (k) => { k.translate(30, 0); pencilObj(k, 190); });
 };
 
 // setup.e1.2
@@ -153,18 +147,21 @@ const saltPatch = (c: Ctx, x: number, y: number, rx: number, ry: number, seedN: 
 const saltPlate = (c: Ctx, x: number, y: number, rx: number, ry: number, seedN: number) => { plate(c, x, y, rx, ry); saltPatch(c, x, y - ry * 0.04, rx * 0.45, ry * 0.45, seedN); };
 const card4 = (c: Ctx) => {
   ground(c);
-  saltPlate(c, 270, 740, 235, 112, 3);
-  plate(c, 800, 740, 235, 112);
-  saltPatch(c, 800, 735, 105, 50, 5);
-  // the teaspoon in a hand, tipping salt onto the right plate
-  holding(c, 950, 160, Math.PI - 0.95, 1.25, (k) => {
+  // left: the finished thin patch; right: a heap being spread flat with the back of the teaspoon
+  saltPlate(c, 270, 780, 235, 112, 3);
+  plate(c, 800, 780, 235, 112);
+  saltPatch(c, 800, 780, 105, 48, 5);
+  const heap = () => { c.moveTo(735, 785); c.quadraticCurveTo(745, 700, 800, 695); c.quadraticCurveTo(855, 700, 865, 785); c.quadraticCurveTo(800, 815, 735, 785); c.closePath(); };
+  shape(c, heap, "#fffdf7", 5); shade(c, heap, "#d9d4c6", 22, 10, 0.7);
+  const r = rnd(9); for (let i = 0; i < 14; i++) { const x = 740 + r() * 120, y = 730 + r() * 55; shape(c, () => ell(c, x, y, 4, 3), "#e9e5da", 0); }
+  holding(c, 940, 330, 1.79, 1.25, (k) => {
     shape(k, () => rrect(k, 20, -9, 300, 18, 8), COL.steel, 5);
-    shape(k, () => ell(k, 345, 0, 54, 34), COL.steel, 5);
-    shape(k, () => ell(k, 350, 2, 40, 23), COL.steelIn, 4);
-    shape(k, () => ell(k, 352, 2, 30, 16), "#fffdf7", 0);
+    shape(k, () => ell(k, 345, 0, 58, 38), COL.steel, 5);
+    shade(k, () => ell(k, 345, 0, 58, 38), COL.steelDk, 14, 8, 0.6);
+    shine(k, [[320, -12], [350, -18]], 7);
   }, SKIN.adult, CLOTH.adult);
-  [[752, 560], [768, 600], [757, 640], [775, 668]].forEach(([x, y], i) => shape(c, () => ell(c, x + (i % 2) * 14, y, 6, 5), "#fffdf7", 3));
-  arrow(c, [[790, 545], [800, 640]], RED, 9);
+  const pts: number[][] = []; for (let i = 0; i <= 8; i++) { const a = Math.PI * (0.88 - 0.76 * (i / 8)); pts.push([800 + Math.cos(a) * 150, 790 + Math.sin(a) * 58]); }
+  arrow(c, pts, RED, 10);
 };
 
 // setup.e2.1
@@ -224,24 +221,24 @@ const tiltPlate = (c: Ctx, cx: number, cy: number, inner: (c: Ctx) => void) => {
 };
 const card6 = (c: Ctx) => {
   ground(c);
-  // left: the dry plate, salt slides off the low rim
-  tiltPlate(c, 290, 600, (k) => {
-    [[120, 4], [135, 16], [100, -10]].forEach(([x, y]) => shape(k, () => ell(k, x, y, 5, 4), "#fffdf7", 2));
-    arrow(k, [[-90, -4], [80, -4]], RED, 9);
-  });
-  [[470, 710, 0], [488, 760, 1], [470, 815, 0], [500, 870, 1], [480, 920, 0]].forEach(([x, y]) => shape(c, () => ell(c, x, y, 8, 6), "#fffdf7", 3));
-  // right: the damp plate, salt stuck in lumps
-  tiltPlate(c, 790, 600, (k) => {
-    k.beginPath(); ell(k, -6, 2, 100, 40); k.fillStyle = "#b9d6ee"; k.fill();
+  c.fillStyle = "#d9b98a"; c.fillRect(0, 930, D, 150); line(c, [[0, 930], [D, 930]], 6);
+  // left: the dry plate, all the salt has slid off the low rim and lies in a white pile
+  tiltPlate(c, 290, 560, (k) => { [[120, 12], [132, 22]].forEach(([x, y]) => shape(k, () => ell(k, x, y, 5, 4), "#fffdf7", 2)); });
+  const pr = rnd(6); for (let i = 0; i < 9; i++) shape(c, () => ell(c, 458 + (pr() - 0.5) * 36 + i * 3, 670 + i * 30, 7, 5), "#fffdf7", 3);
+  const pile = () => { c.moveTo(380, 935); c.quadraticCurveTo(410, 850, 490, 845); c.quadraticCurveTo(570, 850, 600, 935); c.closePath(); };
+  shape(c, pile, "#fffdf7", 6); shade(c, pile, "#d9d4c6", 30, 10, 0.7);
+  arrow(c, [[565, 660], [565, 800]], RED, 10);
+  // right: the damp plate, the salt is stuck in grey wet lumps and stays put
+  tiltPlate(c, 790, 560, (k) => {
     const r = rnd(4);
-    [[-70, 0, 38], [-20, -12, 44], [30, 8, 40], [72, -6, 32], [-35, 22, 28], [10, -28, 26]].forEach(([x, y, s]) => {
-      const pts: number[][] = []; for (let i = 0; i < 9; i++) { const a = (i / 9) * Math.PI * 2, q = 0.8 + r() * 0.35; pts.push([x + Math.cos(a) * s * q, y + Math.sin(a) * s * 0.7 * q]); }
-      shape(k, () => polyP(k, pts), "#f1eee4", 4); shade(k, () => polyP(k, pts), "#b8c3cf", s * 0.2, s * 0.25, 0.7);
+    [[-70, 4, 44], [-15, -8, 50], [45, 8, 46], [80, -4, 34], [-35, 26, 32], [10, -30, 30]].forEach(([x, y, s]) => {
+      const pts: number[][] = []; for (let i = 0; i < 9; i++) { const a = (i / 9) * Math.PI * 2, q = 0.85 + r() * 0.3; pts.push([x + Math.cos(a) * s * q, y + Math.sin(a) * s * 0.75 * q]); }
+      shape(k, () => polyP(k, pts), "#c8c3b0", 5); shade(k, () => polyP(k, pts), "#8f8a7a", s * 0.22, s * 0.28, 0.7);
+      shine(k, [[x - s * 0.5, y - s * 0.3], [x - s * 0.1, y - s * 0.5]], 6);
     });
-    [[-100, -20], [105, 20], [-50, 38]].forEach(([x, y]) => drop(k, x, y, 7));
   });
   // two hands, one under each plate
-  [290, 790].forEach((cx) => { const an = -1.75, s = 1.2, rx = cx - 181.5, ry = 600 - 56; hand(c, rx - Math.cos(an) * 84 * s * 0.8, ry - Math.sin(an) * 84 * s * 0.8, an, s); });
+  [290, 790].forEach((cx) => { const an = -1.75, s = 1.2, rx = cx - 181.5, ry = 560 - 56; hand(c, rx - Math.cos(an) * 84 * s * 0.8, ry - Math.sin(an) * 84 * s * 0.8, an, s); });
 };
 
 // setup.e3.0
@@ -294,16 +291,18 @@ const card9 = (c: Ctx) => {
   const ox = 540, oy = 470;
   line(c, [[ox - 290, oy], [ox + 290, oy]], 6); line(c, [[ox, oy - 290], [ox, oy + 290]], 6);
   letter(c, "N", ox, oy - 335, 60); letter(c, "S", ox, oy + 335, 60); letter(c, "W", ox - 345, oy, 60); letter(c, "E", ox + 345, oy, 60);
-  // ground wind (blue, towards the north-east) and clouds (red, towards the south-east)
-  arrow(c, [[ox + 10, oy - 10], [ox + 200, oy - 170]], COL.blueDk, 14);
-  arrow(c, [[ox + 10, oy + 10], [ox + 110, oy + 215]], RED, 14);
-  // little pictures say which is which
-  shape(c, () => ell(c, ox + 250, oy - 235, 70, 70), WHITE, 5);
-  line(c, [[ox + 232, oy - 205], [ox + 232, oy - 265]], 10, COL.yellow); line(c, [[ox + 232, oy - 262], [ox + 232, oy - 265]], 4);
-  { const N = 10, top: number[][] = [], bot: number[][] = []; for (let i = 0; i <= N; i++) { const t = i / N, x = ox + 232 + t * 62, y = oy - 262 + Math.sin(t * 7) * 6, w = 8 - t * 3; top.push([x, y - w]); bot.push([x, y + w]); } shape(c, () => polyP(c, [...top, ...bot.reverse()]), COL.red, 3); }
-  shape(c, () => ell(c, ox + 190, oy + 215, 74, 74), WHITE, 5);
-  cloud(c, ox + 190, oy + 205, 30, WHITE);
-  holding(c, 830, 880, Math.PI + 0.75, 1.1, (k) => { k.translate(30, 0); pencilObj(k, 190); });
+  // you, in the middle; the two arrows come in from where each one comes from
+  shape(c, () => ell(c, ox, oy, 70, 70), WHITE, 5); icon(c, iconMe, ox, oy + 4, 0.75);
+  // wind (blue) comes from the north-east: the ribbon picture streams towards you
+  shape(c, () => ell(c, ox + 230, oy - 215, 88, 88), WHITE, 5); c.beginPath(); ell(c, ox + 230, oy - 215, 88, 88); c.strokeStyle = COL.blueDk; c.lineWidth = 12; c.stroke();
+  line(c, [[ox + 262, oy - 165], [ox + 262, oy - 265]], 16); line(c, [[ox + 262, oy - 165], [ox + 262, oy - 265]], 8, COL.yellow);
+  { const N = 12, top: number[][] = [], bot: number[][] = []; for (let i = 0; i <= N; i++) { const t = i / N, x = ox + 258 - t * 100, y = oy - 252 + Math.sin(t * 8) * 9 + t * 18, w = 14 - t * 6; top.push([x, y - w]); bot.push([x, y + w]); } shape(c, () => polyP(c, [...top, ...bot.reverse()]), COL.red, 4); }
+  arrow(c, [[ox + 168, oy - 150], [ox + 80, oy - 70]], COL.blueDk, 16);
+  // clouds (red) come from the south-east: the cloud picture sits at the start of the arrow
+  shape(c, () => ell(c, ox + 230, oy + 215, 88, 88), WHITE, 5); c.beginPath(); ell(c, ox + 230, oy + 215, 88, 88); c.strokeStyle = RED; c.lineWidth = 12; c.stroke();
+  cloud(c, ox + 230, oy + 205, 38, WHITE);
+  arrow(c, [[ox + 168, oy + 150], [ox + 80, oy + 70]], RED, 16);
+  holding(c, 900, 905, Math.PI + 0.5, 1.1, (k) => { k.translate(30, 0); pencilObj(k, 190); });
 };
 
 export const su_weatherForecasting = cards("sci.weather.forecasting.L3 set-up", [card0, card1, card2, card3, card4, card5, card6, card7, card8, card9]);

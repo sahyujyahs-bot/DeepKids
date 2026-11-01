@@ -110,16 +110,19 @@ const cardCoastKit = (c: Ctx) => {
 const cardStep4 = (c: Ctx) => {
   ground(c);
   const S = coast(1, 0, 0); mapSheet(c, 30, 30, 1020, 1020, S);
-  const D = stepDots(S, 240), a = D[2], b = D[3];
-  dot(c, D[0]); dot(c, D[1]);
-  strip(c, a, b, 44);
-  dot(c, a); dot(c, b);
+  const D = stepDots(S, 240), p = D[1], a = D[2], b = D[3];
+  // where the strip was a moment ago (faint), the dots already made, the strip now: it turns round its end on the dot at a
+  c.globalAlpha = 0.4; strip(c, p, a, 52); c.globalAlpha = 1;
+  dot(c, D[0], 16); dot(c, p, 16);
+  strip(c, a, b, 52);
+  dot(c, a, 16); dot(c, b, 16);
   const mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2, ux = (b[0] - a[0]) / dist(a, b), uy = (b[1] - a[1]) / dist(a, b);
   let nx = -uy, ny = ux; if (nx < 0) { nx = -nx; ny = -ny; }
   reach(c, mx + nx * 70 * 1.5, my + ny * 70 * 1.5, Math.atan2(-ny, -nx), 1.5);
-  // the strip swings round its first end
-  const r = 310, a0 = Math.atan2(b[1] - a[1], b[0] - a[0]);
-  arrow(c, [0.7, 0.55, 0.4, 0.25].map((d) => [a[0] + Math.cos(a0 + d) * r, a[1] + Math.sin(a0 + d) * r]), RED, 11);
+  // the red arrow swings from the old strip end round to the new one, centred on the pivot dot
+  const r = 205, a1 = Math.atan2(p[1] - a[1], p[0] - a[0]);
+  let a2 = Math.atan2(b[1] - a[1], b[0] - a[0]); while (a2 - a1 > Math.PI) a2 -= 2 * Math.PI; while (a2 - a1 < -Math.PI) a2 += 2 * Math.PI;
+  arrow(c, [0.08, 0.18, 0.28, 0.38, 0.48, 0.58, 0.68, 0.78, 0.88, 0.96].map((u) => [a[0] + Math.cos(a1 + (a2 - a1) * u) * r, a[1] + Math.sin(a1 + (a2 - a1) * u) * r]), RED, 12);
 };
 // setup.e1.2
 const cardStep1 = (c: Ctx) => {
@@ -152,8 +155,9 @@ const cardRowRight = (c: Ctx) => { ground(c); pineapple(c); trace(c, RED, rowRed
 const cardMark = (c: Ctx) => {
   ground(c); pineapple(c);
   const s = scalePos(1, -4), t = [s.x, s.y];
-  dot(c, t, 16, COL.purple);
-  const sc = 1.2, an = Math.PI - 0.3, wx = t[0] - Math.cos(an) * 300 * sc, wy = t[1] - Math.sin(an) * 300 * sc;
+  // a big purple dot on one scale, the pen point resting right on it
+  dot(c, t, 30, INK); dot(c, t, 22, COL.purple);
+  const sc = 1.1, an = 2.7, wx = t[0] - Math.cos(an) * 300 * sc, wy = t[1] - Math.sin(an) * 300 * sc;
   reach(c, wx, wy, an, sc, () => pencil(c, sc, COL.purple, "#5d45a0"));
 };
 // setup.e2.2

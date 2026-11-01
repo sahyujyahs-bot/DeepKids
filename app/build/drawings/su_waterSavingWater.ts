@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { D, INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, glass, bowl, plate, leaf, hand, write, cards } from "./flatKit";
+import { D, INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, rnd, glass, bowl, plate, leaf, hand, write, cards } from "./flatKit";
 
 // sci.water.saving-water.L3 set-up cards: three experiments, three cards each.
 const MUD = "#a5603f", MUDDK = "#7f4529", DESK = "#e8d6b0", TERRA = "#d9693f", TERRADK = "#b4492a";
@@ -49,36 +49,35 @@ const e1_0 = (c: Ctx) => {
   arrow(c, [[515, 640], [620, 610]], RED, 10);
 };
 
+// a red arrow going round in a glass: the stirring or swirling
+const swirl = (c: Ctx, x: number) => arrow(c, Array.from({ length: 12 }, (_, i) => { const a = Math.PI * 0.95 + i * 0.2; return [x + Math.cos(a) * 125, 690 + Math.sin(a) * 38]; }), RED, 10);
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   desk(c, 860);
   glass(c, 280, 860, 260, 420, 0.7, MUD); glass(c, 800, 860, 260, 420, 0.7, MUD);
-  dot(c, 280, 790, 30, RED); dot(c, 800, 790, 30, COL.blue);
-  // glass A: a spoon stirs
-  c.save(); c.beginPath(); c.rect(0, 0, D, D); c.clip();
-  spoon(c, 262, 690, 362, 290);
-  c.restore();
-  shape(c, () => rrect(c, 320, 0, 110, 200, 10), CLOTH.child, 6);
-  hand(c, 385, 215, 1.75, 1.4);
-  arrow(c, [[150, 640], [185, 590], [250, 580]], RED, 10);
-  // glass B: a hand swirls a phitkari lump
-  shape(c, () => rrect(c, 830, 170, 110, 290, 10), CLOTH.child, 6);
-  hand(c, 885, 470, 1.75, 1.4);
-  lump(c, 855, 650, 1.5);
-  arrow(c, [[960, 700], [985, 650], [940, 610]], RED, 10);
+  dot(c, 280, 800, 30, RED); dot(c, 800, 800, 30, COL.blue);
+  // glass A: a hand stirs with a spoon
+  shape(c, () => rrect(c, 225, 0, 110, 340, 10), CLOTH.child, 6);
+  spoon(c, 262, 760, 300, 470);
+  hand(c, 280, 380, 1.57, 1.4);
+  swirl(c, 280);
+  // glass B: a hand swirls a lump of phitkari held in its fingers
+  shape(c, () => rrect(c, 745, 0, 110, 340, 10), CLOTH.child, 6);
+  lump(c, 800, 535, 1.3);
+  hand(c, 800, 380, 1.57, 1.4);
+  swirl(c, 800);
 };
 
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   desk(c, 860);
   shape(c, () => rrect(c, 60, 200, 960, 660, 14), COL.paper, 6);
-  star(c, 285, 620, 110); star(c, 795, 620, 110);
-  glass(c, 285, 860, 260, 420, 0.88, MUD);
-  glass(c, 795, 860, 260, 420, 0.88, "rgba(170,212,242,0.4)");
-  mud(c, 795, 860, 260, 420, 80);
+  glass(c, 285, 860, 260, 420, 0.88, "#8a4a2a");
+  glass(c, 795, 860, 260, 420, 0.88, "#cfe9f8");
+  mud(c, 795, 860, 260, 420, 110);
   dot(c, 285, 800, 28, RED); dot(c, 795, 800, 28, COL.blue);
-  // A: still full of brown cloud; B: clear above, mud below
-  for (let i = 0; i < 6; i++) { const x = 225 + (i % 3) * 60, y = 560 + Math.floor(i / 3) * 90; c.globalAlpha = 0.35; shape(c, () => ell(c, x, y, 20, 12), MUDDK, 0); c.globalAlpha = 1; }
+  // B: the clear part on top is measured
+  arrow(c, [[965, 740], [965, 500]], RED, 10); arrow(c, [[965, 500], [965, 740]], RED, 10);
 };
 
 // setup.e2.0
@@ -88,15 +87,25 @@ const mound = (c: Ctx, x: number, y: number, r: number) => {
   for (let i = 0; i < 9; i++) { const a = i * 2.4, rx = x + Math.cos(a) * r * 0.55, ry = y - r * 0.15 + Math.sin(a) * r * 0.25; shape(c, () => ell(c, rx, ry, 8, 5, a), WHITE, 2.5); }
   c.globalAlpha = 0.5; line(c, [[x + r * 1.1, y + r * 0.4], [x + r * 1.6, y + r * 0.35]], 12, "#e8d9a8"); line(c, [[x - r * 1.5, y + r * 0.5], [x - r * 1.0, y + r * 0.4]], 12, "#e8d9a8"); c.globalAlpha = 1;
 };
+// a heap of yellow poha with green peas on a plate, a steel spoon in it
+const food = (c: Ctx, x: number, y: number) => {
+  const lumps = [[-45, 10, 62, 40], [48, 14, 58, 38], [0, -14, 70, 46]];
+  lumps.forEach(([dx, dy, rx, ry]) => { const p = () => ell(c, x + dx, y + dy, rx, ry); shape(c, p, "#f0cf5e", 5); shade(c, p, "#d3a93a", 14, 10, 0.7); });
+  [[-40, -8], [20, -30], [60, 6], [-10, 22], [-62, 24], [38, 30]].forEach(([dx, dy]) => dot(c, x + dx, y + dy, 9, COL.green));
+  [[-20, -24], [4, 0], [40, -6], [-50, 8], [14, 24]].forEach(([dx, dy], i) => shape(c, () => ell(c, x + dx, y + dy, 11, 6, i), "#fff3b8", 2.5));
+  spoon(c, x + 60, y + 10, x + 150, y + 64);
+};
 const e2_0 = (c: Ctx) => {
   ground(c);
+  c.save(); c.translate(0, 60);
   // the sink with a steel basin in it
   shape(c, () => rrect(c, 60, 40, 960, 330, 24), COL.steel); shade(c, () => rrect(c, 60, 40, 960, 330, 24), COL.steelDk, 20, 10, 0.4);
   shape(c, () => rrect(c, 170, 150, 740, 190, 40), COL.steelDk);
   shape(c, () => rrect(c, 505, 40, 70, 70, 12), COL.steel); shape(c, () => rrect(c, 440, 95, 140, 36, 18), COL.steel);
   bowl(c, 540, 235, 150, COL.water);
+  c.restore();
   const xs = [190, 540, 890];
-  xs.forEach((x) => { plate(c, x, 770, 170, 115); mound(c, x, 765, 95); });
+  xs.forEach((x) => { plate(c, x, 770, 170, 115); food(c, x, 765); });
 };
 
 // setup.e2.1
@@ -138,9 +147,21 @@ const e2_2 = (c: Ctx) => {
   // tally marks on paper
   shape(c, () => rrect(c, 700, 80, 300, 330, 12), COL.paper, 6);
   const tally = (x: number, y: number, five: boolean) => { for (let i = 0; i < 4; i++) line(c, [[x + i * 28, y], [x + i * 28, y + 70]], 7); if (five) line(c, [[x - 12, y + 58], [x + 96, y + 12]], 7); };
-  tally(740, 110, true); tally(740, 220, false); drop(c, 920, 330, 14);
+  tally(735, 105, true); tally(735, 235, false);
+  // one mug = one tally mark
+  const miniMug = () => { c.moveTo(850, 320); c.lineTo(930, 320); c.lineTo(925, 385); c.lineTo(855, 385); c.closePath(); };
+  line(c, [[930, 335], [957, 340], [955, 365], [927, 368]], 16, INK); line(c, [[930, 335], [957, 340], [955, 365], [927, 368]], 7, COL.steel);
+  shape(c, miniMug, COL.steel); shade(c, miniMug, COL.steelDk, 14, 0);
+  [[470, 640], [500, 690], [455, 700]].forEach(([x, y]) => drop(c, x, y, 11));
 };
 
+// a blanket of dry leaves lying flat on the soil of a pot: centre (x, y), half width rx
+const mulch = (c: Ctx, x: number, y: number, rx: number, seed: number, gap = -999) => {
+  const r = rnd(seed), cols = [COL.orange, COL.brown, COL.woodDk, "#c9823a", COL.brown], L: number[][] = [];
+  for (let i = 0; i < 26; i++) L.push([x + (r() - 0.5) * 2 * rx * 0.62, y + (r() - 0.5) * 30 + (i > 12 ? -10 : 6), 95 + r() * 26, (r() - 0.5) * 0.6 + (r() > 0.5 ? Math.PI : 0), i]);
+  shape(c, () => ell(c, x, y - 4, rx * 0.95, 34), "#b98a45", 4);
+  L.filter(([lx]) => Math.abs(lx - gap) > 50).sort((p, q) => p[1] - q[1]).forEach(([lx, ly, len, an, i]) => leaf(c, lx, ly, len, an, cols[i % 5]));
+};
 // setup.e3.0
 const pot = (c: Ctx, x: number, y: number, w: number, h: number, soil: string, soilDk: string) => {
   shadow(c, x + w * 0.1, y + 8, w * 0.6, w * 0.07);
@@ -164,8 +185,7 @@ const e3_0 = (c: Ctx) => {
   // water drops on the bare soil of the left pot
   for (let i = 0; i < 4; i++) drop(c, 210 + i * 55, t1 - 12 + (i % 2) * 14, 9, COL.drop);
   // the right pot under a blanket of dry leaves
-  const cols = [COL.orange, COL.brown, COL.woodDk, "#c9823a", COL.brown];
-  for (let i = 0; i < 16; i++) { const a = -0.4 + (i % 4) * 0.55 + (i > 7 ? 2.2 : 0), x = 665 + (i % 8) * 32, y = t2 - 4 + ((i * 7) % 3) * 8 - (i > 7 ? 6 : 0); leaf(c, x, y, 120, a + (i % 2 ? 0.3 : -0.3), cols[i % 5]); }
+  mulch(c, 780, t2 + 6, 150, 7);
 };
 
 // setup.e3.1
@@ -180,9 +200,7 @@ const e3_1 = (c: Ctx) => {
   const t1 = pot(c, 290, 960, 380, 280, "#6a4128", "#3f2818");
   const t2 = pot(c, 790, 960, 380, 280, "#5a3a26", "#3f2818");
   finger(290, t1 + 40); cover(290, t1 + 4);
-  const cols = [COL.orange, COL.brown, COL.woodDk, "#c9823a", COL.brown];
-  for (let i = 0; i < 14; i++) leaf(c, 680 + (i % 7) * 34, t2 + ((i * 5) % 3) * 8 - (i > 6 ? 8 : 0), 110, -0.5 + (i % 4) * 0.5 + (i > 6 ? 2.4 : 0), cols[i % 5]);
-  finger(790, t2 + 40); cover(790, t2 + 4);
+  finger(790, t2 + 40); mulch(c, 790, t2 + 6, 165, 9, 790);
   write(c, "2 cm", 420, 420, 60, RED, 8);
 };
 
@@ -195,13 +213,16 @@ const heap = (c: Ctx, x: number, y: number, w: number, h: number, fill: string, 
 const e3_2 = (c: Ctx) => {
   ground(c);
   shape(c, () => polyP(c, [[50, 250], [1030, 250], [1030, 900], [50, 900]]), "#ece8dc", 6);
-  for (let r = 0; r < 4; r++) for (let k = 0; k < 2; k++) { const y = 290 + r * 40, x0 = 80 + k * 490; line(c, [[x0, y], [x0 + 440, y]], 8, "#cfcabc"); }
+  line(c, [[80, 285], [1000, 285]], 26, "#8d887c");
+  line(c, [[540, 330], [540, 880]], 4, "#cfcabc");
+  for (let r = 0; r < 4; r++) for (let k = 0; k < 2; k++) { const y = 345 + r * 36, x0 = 80 + k * 475; line(c, [[x0, y], [x0 + 420, y]], 8, "#cfcabc"); }
   heap(c, 270, 790, 400, 320, "#dcbf90", "#b99a68");
   heap(c, 690, 790, 400, 320, "#5a3a26", "#3f2818");
   const r = [[210, 600], [320, 560], [260, 700], [370, 670], [180, 720]];
   r.forEach(([x, y]) => shape(c, () => ell(c, x, y, 7, 5), "#b99a68", 0));
+  line(c, [[250, 640], [275, 690], [250, 735]], 4, "#a88a5c"); line(c, [[330, 620], [350, 670]], 4, "#a88a5c");
   const r2 = [[620, 600], [740, 570], [680, 690], [780, 680], [580, 720]];
-  r2.forEach(([x, y]) => shape(c, () => ell(c, x, y, 9, 6), COL.drop, 2.5));
+  r2.forEach(([x, y]) => shine(c, [[x - 18, y], [x + 18, y - 6]], 8));
   const cols = [COL.orange, COL.brown, COL.woodDk];
   [[950, 850, 0.5], [930, 800, -0.7], [960, 790, 0.1]].forEach(([x, y, a], i) => leaf(c, x, y, 95, a, cols[i]));
 };

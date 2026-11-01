@@ -2,7 +2,7 @@ import type { Ctx } from "./core";
 import { D, INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, rrect, polyP, shadow, shade, line, arrow, hand, person, write, cards } from "./flatKit";
 
 // EXERCISE AND REST · set-up cards. One spring clothes peg, one stopwatch, one child, one grown-up.
-const PALE = "#d8b392", FLUSH = "#cf6a55", WALL_DAY = "#f6e7c1", WALL_NIGHT = "#8a8cc4";
+const PALE = "#ead2bb", FLUSH = "#cc4a3c", WALL_DAY = "#f6e7c1", WALL_NIGHT = "#8a8cc4";
 
 // numbers centred on (cx, cy)
 const writeC = (c: Ctx, t: string, cx: number, cy: number, h: number, col: string = INK, w = 6) => write(c, t, cx - ((t.length - 1) * 0.8 * h + 0.6 * h) / 2, cy - h / 2, h, col, w);
@@ -60,8 +60,13 @@ const room = (c: Ctx, night: boolean) => {
 };
 const feet = (c: Ctx, x: number, y: number, h: number) => { for (const s of [-1, 1]) shape(c, () => ell(c, x + s * h * 0.075 + 12, y + 6, h * 0.05, h * 0.024), SKIN.child, 5); };
 const book = (c: Ctx, x1: number, x2: number, y: number) => {
-  shape(c, () => rrect(c, x1, y - 38, x2 - x1, 38, 6), COL.teal);
-  shape(c, () => rrect(c, x1 + 10, y - 30, x2 - x1 - 20, 22, 3), COL.paper, 3);
+  // a hardback book lying flat: top cover, a block of pages with fine lines, bottom cover, rounded spine at the left
+  shape(c, () => rrect(c, x1, y - 84, x2 - x1, 84, 12), COL.teal);
+  shape(c, () => rrect(c, x1 + 26, y - 66, x2 - x1 - 34, 48, 4), COL.paper, 4);
+  for (const k of [-48, -34, -20]) line(c, [[x1 + 40, y + k], [x2 - 16, y + k]], 3, COL.grey);
+  shape(c, () => rrect(c, x1, y - 84, 26, 84, 12), COL.tealDk);
+  shape(c, () => rrect(c, x1 + 50, y - 84, x2 - x1 - 50, 18, 6), COL.teal, 5);
+  shape(c, () => rrect(c, x1 + 50, y - 18, x2 - x1 - 50, 18, 6), COL.teal, 5);
 };
 const pencil = (c: Ctx, tx: number, ty: number, bx: number, by: number) => {
   const a = Math.atan2(by - ty, bx - tx), L = Math.hypot(bx - tx, by - ty), nx = -Math.sin(a), ny = Math.cos(a), cp = 0.14 * L;
@@ -82,9 +87,9 @@ const moon = (c: Ctx, x: number, y: number, r: number) => {
 };
 const star = (c: Ctx, x: number, y: number, r: number) => shape(c, () => polyP(c, [[x, y - r], [x + r * 0.3, y - r * 0.3], [x + r, y], [x + r * 0.3, y + r * 0.3], [x, y + r], [x - r * 0.3, y + r * 0.3], [x - r, y], [x - r * 0.3, y - r * 0.3]]), COL.yellow, 4);
 const window_ = (c: Ctx, night: boolean) => {
-  shape(c, () => rrect(c, 760, 30, 230, 150, 10), night ? "#2e2f5e" : COL.sky, 6);
-  if (night) { moon(c, 840, 105, 40); star(c, 920, 70, 14); star(c, 945, 135, 10); star(c, 890, 150, 8); } else sun(c, 870, 105, 36);
-  line(c, [[875, 30], [875, 180]], 6);
+  shape(c, () => rrect(c, 760, 16, 230, 138, 10), night ? "#2e2f5e" : COL.sky, 6);
+  if (night) { moon(c, 840, 85, 40); star(c, 920, 52, 14); star(c, 945, 112, 10); star(c, 890, 130, 8); } else sun(c, 870, 85, 36);
+  line(c, [[875, 16], [875, 154]], 6);
 };
 // the child against the wall, a book flat on her head; returns the top of her head
 const headTop = (y: number, h: number) => y - 1.0225 * h + 18;
@@ -102,8 +107,8 @@ const wallHeight = (c: Ctx, night: boolean, h: number, sleepy: boolean) => {
 const pencilHandAndBook = (c: Ctx, top: number, lineEnd: number) => {
   book(c, 200, 620, top);
   // grown-up's hand from the right holds the book's end
-  limb(c, [[681, top - 19], [1100, top - 19]], 82, CLOTH.adult);
-  hand(c, 681, top - 19, Math.PI, 1.2, SKIN.adult, CLOTH.adult);
+  limb(c, [[681, top - 42], [1100, top - 42]], 82, CLOTH.adult);
+  hand(c, 681, top - 42, Math.PI, 1.2, SKIN.adult, CLOTH.adult);
   // the other hand holds the pencil, its tip on the wall
   const tx = lineEnd, ty = top, bx = tx + 134, by = ty - 268;
   pencil(c, tx, ty, bx, by);
@@ -145,9 +150,22 @@ const e1_2 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  hand(c, 300, 800, -Math.PI / 2, 2.8, PALE, CLOTH.child, true);
-  hand(c, 780, 280, Math.PI / 2, 2.8, FLUSH, CLOTH.child, true);
-  arrow(c, [[300, 480], [300, 230]]); arrow(c, [[780, 610], [780, 860]]);
+  const x = 540;
+  // a child from the shoulders up: one arm held up (pale hand), one hanging down (red, veiny hand)
+  shadow(c, x + 14, 1050, 190, 20);
+  limb(c, [[420, 600], [300, 590]], 150, CLOTH.child); limb(c, [[640, 600], [830, 590]], 150, CLOTH.child);
+  shape(c, () => rrect(c, x - 150, 490, 300, 550, 70), CLOTH.child);
+  shade(c, () => rrect(c, x - 150, 490, 300, 550, 70), CLOTH.childDk, 40, 0);
+  shape(c, () => ell(c, x, 370, 112, 118), SKIN.child);
+  shape(c, () => { c.moveTo(x - 114, 365); c.bezierCurveTo(x - 112, 220, x + 112, 220, x + 114, 365); c.quadraticCurveTo(x, 300, x - 114, 365); c.closePath(); }, CLOTH.hair, 5);
+  for (const s of [-1, 1]) shape(c, () => ell(c, x + s * 40, 392, 10, 14), INK, 0);
+  c.beginPath(); c.arc(x, 425, 34, 0.2, Math.PI - 0.2); c.strokeStyle = INK; c.lineWidth = 5; c.stroke();
+  hand(c, 300, 500, -Math.PI / 2, 2.6, PALE, CLOTH.child, true);
+  hand(c, 830, 700, Math.PI / 2, 2.6, FLUSH, CLOTH.child, true);
+  c.save(); c.translate(830, 700); c.rotate(Math.PI / 2); c.scale(2.6, 2.6);
+  for (const v of [-16, 0, 16]) line(c, [[-20, v * 0.6], [10, v], [34, v * 1.1]], 3.5, "#4a5fa8");
+  c.restore();
+  arrow(c, [[120, 650], [120, 320]]); arrow(c, [[1030, 420], [1030, 780]]);
 };
 const standWall = (c: Ctx, armUp: boolean) => {
   const x = 420, y = 1000, h = 600;

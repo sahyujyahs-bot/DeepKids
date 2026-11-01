@@ -15,7 +15,7 @@ const childHand = (c: Ctx, x: number, y: number, an: number, s: number) => { for
 
 // a steel tumbler, bottom centre (x, y), mouth width w. A clear window shows what is inside:
 // water up to level (0..1 of the window) and a heap of salt on the bottom
-const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, o: { level?: number; salt?: boolean; mouth?: boolean; noShadow?: boolean } = {}) => {
+const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, o: { level?: number; salt?: boolean; mouth?: boolean; noShadow?: boolean; tilt?: number } = {}) => {
   if (!o.noShadow) shadow(c, x + w * 0.12, y + 8, w * 0.6, w * 0.1);
   const top = w / 2, bot = w * 0.4, body = () => { c.moveTo(x - top, y - h); c.lineTo(x + top, y - h); c.lineTo(x + bot, y); c.lineTo(x - bot, y); c.closePath(); };
   shape(c, body, COL.steel);
@@ -26,6 +26,7 @@ const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, o: { level?
   shape(c, win, "#eaf4fb", 0);
   c.save(); c.beginPath(); win(); c.clip();
   if (o.level) { const ly = y2 - (y2 - y1) * o.level; c.fillStyle = COL.water; c.fillRect(x - w, ly, w * 2, y2 - ly + 5); line(c, [[x - w, ly], [x + w, ly]], 6, COL.waterDk); }
+  if (o.tilt !== undefined) { c.save(); c.translate(x + xo, (y1 + y2) / 2); c.rotate(-o.tilt); c.fillStyle = COL.water; c.fillRect(-w, 10, w * 2, w); line(c, [[-w, 10], [w, 10]], 6, COL.waterDk); c.restore(); }
   if (o.salt) {
     const hh = (y2 - y1) * 0.34, r = rnd(5);
     shape(c, () => { c.moveTo(x + xo - hw(y2) * 1.1, y2 + 4); c.bezierCurveTo(x + xo - hw(y2) * 0.6, y2 - hh * 1.5, x + xo + hw(y2) * 0.6, y2 - hh * 1.5, x + xo + hw(y2) * 1.1, y2 + 4); c.closePath(); }, WHITE, 5);
@@ -64,10 +65,15 @@ const octa = (c: Ctx, x: number, y: number, s: number, rot = 0, lw = 4) => {
   shape(c, () => polyP(c, [T, R, B, L]), "rgba(0,0,0,0)", lw);
   c.restore();
 };
-// a sugar grain: a small cream-white lump
-const grain = (c: Ctx, x: number, y: number, r: number, rot = 0, lw = 4) => {
-  shape(c, () => ell(c, x, y, r, r * 0.8, rot), "#fff1cf", lw);
-  shape(c, () => ell(c, x + r * 0.3, y + r * 0.28, r * 0.55, r * 0.4, rot), "#ead3a0", 0);
+// a sugar crystal: a clear block with slanted ends (longer than a salt cube, not a square)
+const block = (c: Ctx, x: number, y: number, s: number, rot = 0, lw = 4) => {
+  c.save(); c.translate(x, y); c.rotate(rot);
+  const w = s * 0.7, h = s * 0.5, sl = s * 0.3, d = s * 0.3;
+  const P = [[-w + sl - d / 2, -h + d / 2], [w + sl - d / 2, -h + d / 2], [w - sl - d / 2, h + d / 2], [-w - sl - d / 2, h + d / 2]];
+  shape(c, () => polyP(c, [P[0], P[1], [P[1][0] + d, P[1][1] - d], [P[0][0] + d, P[0][1] - d]]), "#fffdf5", lw);
+  shape(c, () => polyP(c, [P[1], [P[1][0] + d, P[1][1] - d], [P[2][0] + d, P[2][1] - d], P[2]]), "#dccaa0", lw);
+  shape(c, () => polyP(c, P), "#f6ebcf", lw);
+  c.restore();
 };
 
 const phone = (c: Ctx, x: number, y: number, w: number, h: number, content: (sw: number, sh: number) => void) => {
@@ -92,7 +98,7 @@ const snail = (c: Ctx, x: number, y: number, s: number) => {
 
 // a heap of crystals of one kind on a plate
 const heap = (c: Ctx, x: number, y: number, rx: number, h: number, kind: "salt" | "sugar" | "alum", sd: number) => {
-  const r = rnd(sd), base = { salt: "#dfe6ee", sugar: "#ead3a0", alum: "#a9d2ea" }[kind];
+  const r = rnd(sd), base = { salt: "#dfe6ee", sugar: "#e4d8ba", alum: "#a9d2ea" }[kind];
   shadow(c, x + rx * 0.12, y + 6, rx * 1.05, 18);
   shape(c, () => { c.moveTo(x - rx, y); c.bezierCurveTo(x - rx * 0.6, y - h * 1.3, x + rx * 0.6, y - h * 1.3, x + rx, y); c.closePath(); }, base, 5);
   const ps: number[][] = [];
@@ -100,7 +106,7 @@ const heap = (c: Ctx, x: number, y: number, rx: number, h: number, kind: "salt" 
   ps.sort((a, b) => a[1] - b[1]);
   for (const [px, py, a, b] of ps) {
     if (kind === "salt") cube(c, px, py, 17 + a * 6, b * 0.8 - 0.4, 2.5);
-    else if (kind === "sugar") grain(c, px, py, 9 + a * 4, b * 3, 2.5);
+    else if (kind === "sugar") block(c, px, py, 15 + a * 5, b * 0.8 - 0.4, 2.5);
     else octa(c, px, py, 17 + a * 6, b * 0.8 - 0.4, 3);
   }
 };
@@ -116,14 +122,16 @@ const su_e1_0 = (c: Ctx) => {
   arrow(c, pts.reverse());
 };
 
-// setup.e1.1: pouring the clear salt water into the second tumbler, salt stays behind
+// setup.e1.1: pouring the clear salt water from one steel tumbler into the second, salt stays behind
 const su_e1_1 = (c: Ctx) => {
   ground(c);
-  tumbler(c, 790, 960, 320, 400, { level: 0.55, mouth: true });
-  c.save(); c.translate(300, 560); c.rotate(1.0); tumbler(c, 0, 0, 320, 400, { salt: true, noShadow: true }); c.restore();
-  stream(c, [[690, 400], [735, 430], [770, 500], [782, 590]]);
-  childHand(c, 190, 675, -0.6, 1.9);
-  arrow(c, [[220, 300], [300, 215], [420, 175], [540, 195]]);
+  tumbler(c, 800, 990, 320, 400, { level: 0.55, mouth: true });
+  const tilt = 0.95, px = 270, py = 560;
+  c.save(); c.translate(px, py); c.rotate(tilt); tumbler(c, 0, 0, 320, 400, { salt: true, mouth: true, noShadow: true, tilt }); c.restore();
+  const lx = px + 160 * Math.cos(tilt) + 400 * Math.sin(tilt), ly = py + 160 * Math.sin(tilt) - 400 * Math.cos(tilt);
+  stream(c, [[lx - 6, ly + 6], [lx + 30, ly + 40], [lx + 66, ly + 100], [775, 585]]);
+  childHand(c, 215, 705, -0.7, 1.9);
+  arrow(c, [[230, 300], [320, 215], [440, 175], [560, 195]]);
 };
 
 // setup.e1.2: a plate with a thin film of salt water and a small glass with salt water, side by side on a shelf
@@ -196,9 +204,9 @@ const su_e2_2 = (c: Ctx) => {
   heap(c, 270, 890, 140, 130, "salt", 3); heap(c, 540, 915, 140, 130, "sugar", 8); heap(c, 810, 890, 140, 130, "alum", 13);
   phone(c, 420, 290, 400, 540, (sw, sh) => {
     c.fillStyle = "#3a3540"; c.fillRect(-sw / 2, -sh / 2, sw, sh);
-    cube(c, 0, -140, 120, 0.15);
-    grain(c, -40, 0, 42, 0.3); grain(c, 40, -10, 36, 1.2); grain(c, 5, 50, 40, 2.1);
-    octa(c, 0, 165, 85, 0.1);
+    cube(c, -5, -150, 105, 0.12);
+    block(c, 0, 5, 92, -0.1);
+    octa(c, 0, 148, 64, 0.1);
   });
   childHand(c, 746, 300, 3.0, 1.9);
 };

@@ -60,42 +60,49 @@ const e1_0 = (c: Ctx) => {
   hand(c, wx, wy, an, 1.6);
 };
 
-// setup.e1.1
-const THREAD_FROM = [215, 525];
-const dotsOnPaper = LADLE.map(([x, y]) => [640 + (x - 330) * 0.52, 240 + (y - 230) * 0.95]);
+// setup.e1.1 and setup.e1.2: the same room, the chair with the card taped to its back, the sheet on the wall
+const HOLE = [292, 520];
+const dotsOnPaper = LADLE.map(([x, y]) => [700 + (x - 330) * 0.45, 240 + (y - 230) * 0.95]);
 const chair = (c: Ctx) => {
-  shadow(c, 290, 890, 190, 22);
-  for (const [x1, y1, x2, y2] of [[190, 740, 175, 890], [380, 760, 400, 890], [150, 700, 140, 890]]) line(c, [[x1, y1], [x2, y2]], 18, INK), line(c, [[x1, y1], [x2, y2]], 8, COL.brown);
-  shape(c, () => polyP(c, [[150, 690], [270, 705], [430, 770], [300, 770]]), COL.woodDk, 6);
-  shape(c, () => polyP(c, [[150, 390], [275, 415], [275, 705], [150, 690]]), COL.wood, 6);
+  shadow(c, 290, 890, 200, 22);
+  for (const [x1, y1, x2, y2] of [[190, 740, 175, 890], [380, 760, 400, 890], [120, 700, 110, 890]]) line(c, [[x1, y1], [x2, y2]], 18, INK), line(c, [[x1, y1], [x2, y2]], 8, COL.brown);
+  shape(c, () => polyP(c, [[110, 690], [250, 705], [430, 770], [290, 770]]), COL.woodDk, 6);
+  shape(c, () => polyP(c, [[110, 340], [235, 365], [235, 705], [110, 690]]), COL.wood, 6);
 };
 const postcard = (c: Ctx) => {
-  shape(c, () => polyP(c, [[172, 450], [248, 464], [248, 600], [172, 586]]), WHITE, 5);
-  shape(c, () => ell(c, THREAD_FROM[0] - 2, THREAD_FROM[1], 10, 13), INK, 0);
-  tape(c, 210, 450, 0.2); tape(c, 210, 596, 0.2);
+  shape(c, () => polyP(c, [[190, 410], [320, 435], [320, 615], [190, 590]]), WHITE, 6);
+  tape(c, 200, 412, 0.2); tape(c, 200, 592, 0.2); tape(c, 312, 440, 0.2); tape(c, 312, 612, 0.2);
+  shape(c, () => ell(c, HOLE[0], HOLE[1], 17, 20), COL.grey, 5);
 };
+const sceneSheet = (c: Ctx) => { wall(c); paper(c, 650, 170, 1010, 760); chair(c); postcard(c); };
+const threadTo = (c: Ctx, [x, y]: number[]) => line(c, [HOLE, [x, y]], 5, COL.purple);
 const e1_1 = (c: Ctx) => {
-  wall(c);
-  paper(c, 600, 170, 1010, 760);
-  chair(c); postcard(c);
-  dotsOnPaper.forEach(([x, y]) => line(c, [THREAD_FROM, [x, y]], 4, COL.purple));
+  sceneSheet(c);
+  dotsOnPaper.slice(0, 6).forEach((d) => threadTo(c, d));
   dotsOnPaper.forEach(([x, y]) => shape(c, () => ell(c, x, y, 14, 14), INK, 0));
-  shape(c, () => ell(c, THREAD_FROM[0], THREAD_FROM[1], 8, 10), INK, 0);
+  shape(c, () => ell(c, HOLE[0], HOLE[1], 7, 9), INK, 0);
+  // a hand pulls the last thread tight to the last dot
+  const [tx, ty] = dotsOnPaper[6], wx = tx + 40, wy = ty + 135, an = Math.atan2(ty - wy, tx - wx);
+  threadTo(c, [tx, ty]);
+  arm(c, wx, wy, an, 1.4);
+  hand(c, wx, wy, an, 1.4);
+  shape(c, () => ell(c, tx, ty, 14, 14), INK, 0);
 };
 
-// setup.e1.2
 const e1_2 = (c: Ctx) => {
-  wall(c);
-  const hx = 160, hy = 540, wx = 950;
-  shape(c, () => rrect(c, wx - 18, 50, 90, 900, 6), COL.paper, 6);
-  const dots = LADLE.map(([x, y]) => [wx, 120 + (y - 230) * 2.2]);
-  shape(c, () => rrect(c, 105, 430, 50, 220, 5), WHITE, 6);
-  shape(c, () => ell(c, 155, hy, 6, 10), INK, 0);
-  dots.forEach(([x, y]) => line(c, [[hx, hy], [x, y]], 4, COL.purple));
-  const T = [0.9, 0.45, 0.33, 0.52, 0.4, 0.3, 0.9];
-  dots.forEach(([x, y]) => shape(c, () => ell(c, x, y, 14, 14), INK, 0));
-  dots.forEach(([x, y], i) => star(c, hx + (x - hx) * T[i], hy + (y - hy) * T[i], 42));
-  shape(c, () => ell(c, hx, hy, 7, 10), INK, 0);
+  sceneSheet(c);
+  const T = [0.9, 0.38, 0.62, 0.5, 0.74, 0.3, 0.9];
+  const at = (i: number) => [HOLE[0] + (dotsOnPaper[i][0] - HOLE[0]) * T[i], HOLE[1] + (dotsOnPaper[i][1] - HOLE[1]) * T[i]];
+  dotsOnPaper.forEach((d) => threadTo(c, d));
+  dotsOnPaper.forEach(([x, y]) => shape(c, () => ell(c, x, y, 14, 14), INK, 0));
+  shape(c, () => ell(c, HOLE[0], HOLE[1], 7, 9), INK, 0);
+  [0, 1, 2, 4, 5, 6].forEach((i) => { const [x, y] = at(i); star(c, x, y, 32); });
+  // a hand slides the last paper star along its thread
+  const [px, py] = at(3), an = Math.atan2(-0.75, -0.66), wx = px - Math.cos(an) * 110 * 1.2, wy = py - Math.sin(an) * 110 * 1.2;
+  arm(c, wx, wy, an, 1.2);
+  hand(c, wx, wy, an, 1.2);
+  star(c, px, py, 40);
+  arrow(c, [[px + 40, py - 62], [px + 130, py - 82]]);
 };
 
 // setup.e1.3
@@ -145,19 +152,20 @@ const e2_0 = (c: Ctx) => {
 const e2_1 = (c: Ctx) => {
   c.fillStyle = NIGHT2; c.fillRect(0, 0, D, 700);
   c.fillStyle = NIGHT; c.fillRect(0, 700, D, 380); line(c, [[0, 700], [D, 700]], 6);
-  // the door and the thin line of light under it
-  shape(c, () => rrect(c, 770, 110, 220, 590, 6), "#46528a", 6);
-  shape(c, () => ell(c, 800 + 160, 420, 12, 12), COL.steel, 4);
-  c.fillStyle = "rgba(255,230,140,0.9)"; c.fillRect(772, 690, 216, 10);
-  c.beginPath(); c.moveTo(772, 700); c.lineTo(988, 700); c.lineTo(1060, 760); c.lineTo(700, 760); c.closePath(); c.fillStyle = "rgba(255,230,140,0.18)"; c.fill();
-  // the sheet on the wall: only the dark stars show
-  shape(c, () => rrect(c, 120, 140, 500, 480, 6), "#bcc3dc", 6);
-  [[210, 250], [370, 230], [520, 280], [260, 400], [440, 420], [540, 540]].forEach(([x, y], i) => { if (i < 3) star(c, x, y, 36, INK, 3); else { c.globalAlpha = 0.18; star(c, x, y, 36, INK, 2); c.globalAlpha = 1; } });
-  // the child sitting two metres away, with a red measure
-  person(c, 360, 1010, 480, { sit: true });
-  arrow(c, [[690, 820], [690, 730]], RED, 9); arrow(c, [[690, 880], [690, 960]], RED, 9);
-  line(c, [[690, 820], [690, 880]], 9, RED);
-  write(c, "2 m", 740, 800, 70, WHITE, 8);
+  // the door on the left and the thin line of light under it
+  shape(c, () => rrect(c, 20, 110, 170, 590, 6), "#46528a", 6);
+  shape(c, () => ell(c, 165, 420, 11, 11), COL.steel, 4);
+  c.fillStyle = "rgba(255,230,140,0.9)"; c.fillRect(22, 690, 166, 10);
+  c.beginPath(); c.moveTo(22, 700); c.lineTo(188, 700); c.lineTo(250, 760); c.lineTo(-30, 760); c.closePath(); c.fillStyle = "rgba(255,230,140,0.18)"; c.fill();
+  // the sheet on the wall at the right: only the dark stars show
+  shape(c, () => rrect(c, 580, 140, 420, 480, 6), "#bcc3dc", 6);
+  [[680, 250], [800, 230], [920, 280], [700, 420], [820, 430], [920, 540]].forEach(([x, y], i) => { if (i < 3) star(c, x, y, 36, INK, 3); else { c.globalAlpha = 0.18; star(c, x, y, 36, INK, 2); c.globalAlpha = 1; } });
+  // the child sits on the floor facing the sheet, with the distance measured along the floor
+  person(c, 330, 1010, 480, { sit: true });
+  arrow(c, [[620, 900], [540, 900]], RED, 9); arrow(c, [[780, 900], [860, 900]], RED, 9);
+  line(c, [[620, 900], [780, 900]], 9, RED);
+  line(c, [[500, 870], [500, 930]], 9, RED); line(c, [[900, 870], [900, 930]], 9, RED);
+  write(c, "2 m", 640, 780, 80, WHITE, 9);
 };
 
 // setup.e3.0
@@ -174,15 +182,16 @@ const e3_0 = (c: Ctx) => {
   fist(c, 557, 327, 1.4);
 };
 
-// setup.e3.1
+// setup.e3.1: the same star each night, the Moon one more fist away each night
 const e3_1 = (c: Ctx) => {
   ground(c, BG);
   for (let i = 0; i < 3; i++) {
-    const y = 60 + i * 335, gap = 150 + i * 150;
+    const y = 60 + i * 335, cy = y + 145;
     shape(c, () => rrect(c, 70, y, 940, 290, 24), NIGHT, 7);
-    star(c, 880, y + 145, 48, STAR, 6);
-    moon(c, 820 - gap, y + 145, 85);
-    write(c, String(i + 1), 120, y + 95, 100, WHITE, 11);
+    star(c, 900, cy, 48, STAR, 6);
+    for (let k = 0; k <= i; k++) fist(c, 800 - k * 110, cy + 6, 0.95);
+    moon(c, 800 - (i + 1) * 110 - 40, cy, 85);
+    write(c, String(i + 1), 110, y + 95, 100, WHITE, 11);
   }
 };
 

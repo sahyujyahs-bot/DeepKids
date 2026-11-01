@@ -104,21 +104,20 @@ const card_e1_0 = (c: Ctx) => {
 
 // setup.e1.1
 const card_e1_1 = (c: Ctx) => {
-  counterTop(c, 300);
-  const mix = (x: number, y: number, r: number, seedN: number) => {
-    shadow(c, x + r * 0.1, y + r * 0.62, r * 0.75, r * 0.12);
-    bowl(c, x, y, r, COL.soil);
-    shape(c, () => ell(c, x, y - 12, r * 0.92, r * 0.2), COL.soil, 4);
-    shape(c, () => ell(c, x - 10, y - 30, r * 0.62, r * 0.14), COL.soilDk, 0);
-    const rd = rnd(seedN);
-    for (let i = 0; i < 16; i++) { const a = rd() * 6.28, d = Math.sqrt(rd()) * 0.7; const px = x + Math.cos(a) * d * r, py = y - 22 + Math.sin(a) * d * r * 0.15; shape(c, () => rrect(c, px - 9, py - 5, 18, 10, 4), ICE, 2.5); }
-    for (let i = 0; i < 9; i++) { const a = rd() * 6.28, d = Math.sqrt(rd()) * 0.75; const px = x + Math.cos(a) * d * r, py = y - 22 + Math.sin(a) * d * r * 0.15; shape(c, () => ell(c, px, py, 8, 4, rd() * 3), COL.leafDk, 2); }
-  };
-  mix(300, 700, 200, 3); mix(780, 700, 200, 4);
-  hand(c, 300, 545, Math.PI / 2, 1.4, SKIN.child, CLOTH.child, true);
-  arrow(c, [[480, 400], [480, 600]]);
+  counterTop(c, 400);
+  const x = 520, y = 770, r = 290;
+  bowl(c, x, y, r, COL.soilDk);
+  const rd = rnd(11);
+  for (let i = 0; i < 16; i++) { const a = rd() * 6.28, d = Math.sqrt(rd()) * 0.8, px = x + Math.cos(a) * d * r, py = y + Math.sin(a) * d * r * 0.14; c.save(); c.translate(px, py); c.rotate(rd() * 3); c.scale(1.5, 1.5); shape(c, () => polyP(c, [[-24, 2], [-10, -20], [16, -14], [26, 6], [4, 18]]), ICE, 3); line(c, [[-12, -8], [4, -12]], 4, WHITE); c.restore(); }
+  for (let i = 0; i < 14; i++) { const a = rd() * 6.28, d = Math.sqrt(rd()) * 0.85; shape(c, () => ell(c, x + Math.cos(a) * d * r, y + Math.sin(a) * d * r * 0.15, 12, 5, rd() * 3), COL.leafDk, 2.5); }
+  // steel spoon pressing the mix down
+  const hx = x, sp = () => ell(c, hx, y - 20, 110, 52), hd = () => rrect(c, hx - 18, 200, 36, y - 20 - 200, 14);
+  shape(c, sp, COL.steel, 6); shade(c, sp, COL.steelDk, 36, 18, 0.6);
+  shape(c, hd, COL.steel, 6); shade(c, hd, COL.steelDk, 12, 0, 0.6);
+  hand(c, x - 105, 400, 0, 1.5, SKIN.child, CLOTH.child, false);
+  arrow(c, [[740, 270], [740, 520]]);
   // snowflake: freeze overnight
-  const sx = 790, sy = 330;
+  const sx = 900, sy = 190;
   for (let k = 0; k < 6; k++) {
     const a = k * Math.PI / 3, ex = sx + Math.cos(a) * 90, ey = sy + Math.sin(a) * 90;
     line(c, [[sx, sy], [ex, ey]], 18, INK); line(c, [[sx, sy], [ex, ey]], 9, COL.blue);
@@ -143,7 +142,7 @@ const card_e1_2 = (c: Ctx) => {
     plate(c, x, 690, 230, 80);
     const b = () => ell(c, x, 585, 108, 108);
     shape(c, b, "#eaf3f8", 6); shade(c, b, ICEDK, 36, 36, 0.7);
-    const rd = rnd(x); for (let i = 0; i < 26; i++) { const a = rd() * 6.28, d = Math.sqrt(rd()) * 0.85; shape(c, () => ell(c, x + Math.cos(a) * d * 108, 585 + Math.sin(a) * d * 108, 5 + rd() * 7, 4 + rd() * 5, rd() * 3), i % 3 ? COL.soilDk : COL.black, 0); }
+    const rd = rnd(7); for (let i = 0; i < 26; i++) { const a = rd() * 6.28, d = Math.sqrt(rd()) * 0.85; shape(c, () => ell(c, x + Math.cos(a) * d * 108, 585 + Math.sin(a) * d * 108, 5 + rd() * 7, 4 + rd() * 5, rd() * 3), i % 3 ? COL.soilDk : COL.black, 0); }
     shine(c, [[x - 70, 540], [x - 40, 505]], 9);
     ruler(c, x + 150, 705, 5);
   };
