@@ -5,7 +5,7 @@ const { chromium } = require("playwright");
 const fs = require("fs"),
   path = require("path");
 const [URL, OUT] = process.argv.slice(2);
-// ONLY=combined8,ncert8 limits the run to some families
+// ONLY=combined8,ncert8 limits the run to some families; W=1280 H=800 sets the screen size (default a 400 px phone)
 const FAMILIES = [
   ["combined", 8],
   ["combined", 6],
@@ -33,7 +33,7 @@ const FREEZE = () => {
   // full Chromium (not the headless shell), so screenshots match from run to run
   const b = await chromium.launch({ executablePath: chromium.executablePath() });
   for (const [board, age] of FAMILIES) {
-    const ctx = await b.newContext({ viewport: { width: 400, height: 860 } }),
+    const ctx = await b.newContext({ viewport: { width: +process.env.W || 400, height: +process.env.H || 860 } }),
       p = await ctx.newPage(),
       errs = [];
     await ctx.addInitScript(FREEZE);

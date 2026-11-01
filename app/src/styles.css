@@ -6923,3 +6923,59 @@ body {
   outline: 0;
   border-bottom-color: var(--aqua);
 }
+
+/* Larger screens (tablets in landscape, laptops, desktops): the sections move from the bottom bar to a rail on the
+   left, pages get wider, and full-screen sheets become a centred panel. Phones keep the layout above. */
+@media (min-width: 900px) {
+  :root {
+    --rail: 96px;
+  }
+  .wrap {
+    max-width: 960px;
+  }
+  header.top,
+  main {
+    margin-left: var(--rail);
+  }
+  main {
+    padding-bottom: calc(48px + env(safe-area-inset-bottom, 0));
+  }
+  nav.nav {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    transform: none;
+    width: var(--rail);
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 6px;
+    padding: 88px 8px 16px;
+    padding-left: max(8px, env(safe-area-inset-left, 0));
+    border-top: 0 !important;
+    border-right: 1.5px solid var(--rule);
+  }
+  nav.nav button {
+    flex: 0 0 auto;
+    height: 68px;
+    border-radius: 14px !important;
+  }
+  nav.nav button[aria-current="page"] {
+    box-shadow: inset 3px 0 0 var(--margin) !important;
+    background: var(--sunk) !important;
+  }
+  dialog.sheet {
+    width: min(880px, calc(100% - 48px));
+    height: calc(100% - 48px);
+    margin: 24px auto;
+    border-radius: 20px;
+    box-shadow: 0 30px 80px -30px rgba(30, 20, 50, 0.5);
+  }
+  .dkedb#dkEditBtn {
+    left: calc(var(--rail) + 12px);
+  }
+}
+@media (min-width: 1400px) {
+  .wrap {
+    max-width: 1080px;
+  }
+}
