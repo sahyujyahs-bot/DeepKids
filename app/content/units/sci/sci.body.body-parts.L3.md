@@ -206,6 +206,7 @@ Your whole body grew from one first cell. That cell divided again and again, and
 - *big:* In the past, some people were made to clean toilets and drains for everyone else, and were treated unfairly. Who keeps your town clean today, and how are they treated? (hint: Think of the people who sweep your street. Do you know their names?)
 - *deep:* If you had no sense of touch, what would be dangerous? (hint: Think of a hot tava, or a sharp stone in your shoe.)
 - *big:* Is a person who cannot see or hear any less a whole person? (hint: What do people do when one sense is missing?)
+- *deep:* When you are cold or scared, you get goosebumps. Why would your skin do that, when you have almost no fur to fluff up? (hint: Watch a cat or a dog who is cold or scared. Their fur stands up. Your skin still does the same thing it did for our furry ancestors long ago.)
 
 ## Story: Ruksana's Ink Thumbs
 *Azizul Haque and Hem Chandra Bose were real. They worked in Calcutta in the 1890s for Edward Henry, the head of the Bengal police, on a way to sort fingerprints. Haque worked out much of its counting. The system was taken up in British India in 1897 and later in Britain, and it was named after Henry. Ruksana, her family and everything they say and do are imagined.*

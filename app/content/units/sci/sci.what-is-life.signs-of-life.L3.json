@@ -480,6 +480,16 @@
    "q": "Where did the very first living thing come from?",
    "kind": "deep",
    "hint": "Life today comes only from life. But there was a time with no life on Earth at all."
+  },
+  {
+   "q": "A fire eats fuel, needs oxygen, grows and spreads. That ticks many signs on the list. So is a fire alive?",
+   "kind": "deep",
+   "hint": "Go through the list one sign at a time. Does a fire have cells? Does a fire carry instructions, the way a seed does, to build a new fire just like the first one?"
+  },
+  {
+   "q": "Is a handful of soil living or non-living?",
+   "kind": "deep",
+   "hint": "Soil is bits of rock, but it is also full of roots, worms and billions of tiny living beings too small to see. Can one handful be a mix of both?"
   }
  ],
  "story": {

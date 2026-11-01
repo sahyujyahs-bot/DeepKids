@@ -577,6 +577,11 @@
    "q": "Plants have made food from light for billions of years, and mend their own leaves every day. No machine can yet grow, mend itself and make food from light. What does that tell us about living things?",
    "kind": "big",
    "hint": "Is something cleverer just because it was made by people?"
+  },
+  {
+   "q": "Deep in the sea, where sunlight never reaches, tubeworms and crabs live around hot springs on the sea floor. How can there be life with no sunlight at all?",
+   "kind": "big",
+   "hint": "There, some bacteria make food from chemicals in the hot water, the way plants make food from light. Then other animals eat the bacteria, or live with them inside their bodies."
   }
  ],
  "story": {

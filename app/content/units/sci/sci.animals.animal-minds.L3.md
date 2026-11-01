@@ -186,6 +186,8 @@ A crow, a dog and you look very different from outside. Inside, your thinking an
 - *big:* Could a computer or robot ever really feel? How would we know? (hint: Can you tell from the outside whether something feels?)
 - *big:* If crows and octopuses got clever on their own, could minds grow anywhere in the universe? (hint: Crows and octopuses come from very different branches of life.)
 - *big:* Who decides which animals count as clever, and why do we often pick the ones most like us? (hint: Think about how a test made for humans might be unfair to a dog that thinks with their nose.)
+- *big:* Many birds see colours we cannot see, and some feel the Earth's magnetism to find their way. If every animal senses a different world, which one is the real world? (hint: Think of your room as an ant, a dog and a bird might sense your room. The dog smells far more than you, and the bird sees more colours. Is any of them sensing it wrongly?)
+- *big:* Chimpanzees and bonobos are our closest cousins. They make tools, play, laugh and look after each other. Is there anything only humans can do? (hint: Make a list of things you can do. For each one, think: has any other animal been seen doing something like that? Jane Goodall watched chimpanzees for years and was surprised again and again.)
 
 ## Story: The Horse Who Watched Faces
 *Clever Hans was a real horse in Berlin, owned by a retired teacher called Wilhelm von Osten. In 1904 crowds came to see him, and Oskar Pfungst tested him and showed he was reading tiny movements of the people asking. Lotte, her father and the scenes in the stable are made up.*

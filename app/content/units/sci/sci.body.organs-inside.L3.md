@@ -203,6 +203,7 @@ Long ago, all living things were single cells that did every job alone. Over a v
 - *deep:* Sponges have no organs, but they are alive. What is the smallest thing that can still be alive? (hint: Remember that every cell breathes, eats and senses in its own small way.)
 - *big:* People used to think the heart did the thinking. Which of our ideas today might turn out to be wrong? (hint: How did scientists find out the old idea was wrong?)
 - *big:* When you are scared, you feel it in your stomach and your heart. Where do feelings really happen? (hint: Is a feeling in one place, or in the whole body at once?)
+- *big:* The appendix is a small tube on your gut. For a long time people called it useless. Now some scientists think it keeps a store of helpful microbes. What else might we call useless just because we do not understand it yet? (hint: Scientists still argue about what the appendix is for. Think of a plant, an insect or a part of your body that people once thought had no use.)
 
 ## Story: The Marble and the Pomfret
 *Meenu, Appu, Amma and the doctor are made up. The facts are real: X-rays show glass and bones, the stomach sits under the left ribs, a fish's heart sits low behind the gills, and lungs and the swim bladders of fish come from the same ancient beginning. Small smooth swallowed things usually pass through safely, but a child who swallows anything must always see a doctor. On an X-ray the lungs look dark, because air lets X-rays through, and the heart looks paler.*

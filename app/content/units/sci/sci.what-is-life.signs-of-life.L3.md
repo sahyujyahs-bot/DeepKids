@@ -200,6 +200,8 @@ A dry seed and a boiled seed are made of the same kinds of atoms, and they look 
 - *big:* Why do we care more about hurting a dog than a stone? What about hurting a plant? (hint: Jain teachings say even earth and water hold life. How would that change how you treat them?)
 - *big:* Is a river alive? In 2017 a court in Uttarakhand said the Ganga and Yamuna should be treated as living persons. India's Supreme Court later put this on hold. (hint: Check the seven signs. Then ask: what changes if we treat a river as if it were alive?)
 - *deep:* Where did the very first living thing come from? (hint: Life today comes only from life. But there was a time with no life on Earth at all.)
+- *deep:* A fire eats fuel, needs oxygen, grows and spreads. That ticks many signs on the list. So is a fire alive? (hint: Go through the list one sign at a time. Does a fire have cells? Does a fire carry instructions, the way a seed does, to build a new fire just like the first one?)
+- *deep:* Is a handful of soil living or non-living? (hint: Soil is bits of rock, but it is also full of roots, worms and billions of tiny living beings too small to see. Can one handful be a mix of both?)
 
 ## Story: The Girl Who Tapped the Shy Plant
 *J.C. Bose was real, and he worked at Presidency College in Calcutta. He really did compare the 'tiring' of metals, plants and muscles, and published Response in the Living and Non-Living in 1902. His studies of the touch-me-not plant came a few years later than this story. He really did refuse his reduced pay for about three years. Tuli, her mother and Haren are made up, and the instruments are simplified.*

@@ -200,6 +200,7 @@ The first living things were single cells, each wrapped in a thin skin called a 
 - *deep:* Why does a fever make you feel cold at first, when your body is getting hotter? (hint: Think of the brain's heat knob being turned up. What does 37 degrees feel like then?)
 - *big:* Plants and even bacteria defend themselves. Does that mean they, in some way, know what they are? (hint: A bacterium has no brain. But bacteria can tell their own self from a virus.)
 - *big:* If germs are living things too, is it fair that we kill them? (hint: Germs are not bad on purpose. They are trying to live, like us.)
+- *big:* When you are ill, you say 'I am sick'. When you cut a finger, you say 'my finger hurts'. Are 'I' and 'my body' the same thing? (hint: Your body heals a cut without you deciding to. Who is doing the healing: you, your body, or is there no difference?)
 
 ## Story: The Thorns of Messina
 *Élie Metchnikoff, the starfish larvae, the rose thorns and the family's trip to the circus in Messina, Sicily, in 1882 are real. He told the story himself, and his wife Olga wrote it down in her book about his life. Olga telling the story, her little brother Sasha, his splinter and all the talk are made up.*

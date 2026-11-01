@@ -543,6 +543,11 @@
    "q": "Rømer was young and unknown. Cassini, the famous head of the observatory, never believed him. Should we trust an idea because of who says it, or because of the evidence?",
    "kind": "big",
    "hint": "Rømer's prediction came true on 9 November 1676. What would you have believed if you had been there?"
+  },
+  {
+   "q": "Is darkness something, or is it only the place where light is missing?",
+   "kind": "deep",
+   "hint": "You can shine a torch, but can you shine a dark-torch? When you switch on a lamp, where does the dark go?"
   }
  ],
  "story": {

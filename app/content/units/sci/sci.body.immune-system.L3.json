@@ -494,6 +494,11 @@
    "q": "If germs are living things too, is it fair that we kill them?",
    "kind": "big",
    "hint": "Germs are not bad on purpose. They are trying to live, like us."
+  },
+  {
+   "q": "When you are ill, you say 'I am sick'. When you cut a finger, you say 'my finger hurts'. Are 'I' and 'my body' the same thing?",
+   "kind": "big",
+   "hint": "Your body heals a cut without you deciding to. Who is doing the healing: you, your body, or is there no difference?"
   }
  ],
  "story": {

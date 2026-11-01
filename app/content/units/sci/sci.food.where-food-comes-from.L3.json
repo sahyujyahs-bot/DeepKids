@@ -584,6 +584,11 @@
    "q": "Could people one day live without plants, eating food made by microbes or machines?",
    "kind": "big",
    "hint": "The tube worms at deep-sea vents live without plants. What would people miss?"
+  },
+  {
+   "q": "A cow lives on grass, but you could not. Why can a cow get food out of grass, when your body cannot?",
+   "kind": "deep",
+   "hint": "A cow's stomach is full of tiny microbes who break the tough grass down for her. Do we have helpers like that inside us too?"
   }
  ],
  "story": {

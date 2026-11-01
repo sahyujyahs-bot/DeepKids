@@ -549,6 +549,11 @@
    "q": "Diamond, pencil lead and soot are all carbon. Could every material be just a few kinds of atom, joined in different patterns?",
    "kind": "big",
    "hint": "Think of the same 26 letters making every word in a book. Is the meaning in the letters or in the order?"
+  },
+  {
+   "q": "Is water a material? What about a shadow, a sound or a flame?",
+   "kind": "deep",
+   "hint": "A material is the stuff a thing is made of. Can you hold it, pour it or weigh it? A shadow is only a place where light is blocked. Is there any stuff there at all?"
   }
  ],
  "story": {

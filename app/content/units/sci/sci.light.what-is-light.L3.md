@@ -219,6 +219,7 @@ Radio waves, microwaves, the light we see and X-rays seem like very different th
 - *big:* Some news, like light from a far star, is very old when it reaches us. Is old news still true? (hint: Think about letters, photographs and stories from older relatives.)
 - *big:* Scientists can predict what light does perfectly, but still argue about what it is. Can you understand something without knowing what it is? (hint: You can predict that a dropped ball will fall, without knowing what gravity really is.)
 - *big:* Rømer was young and unknown. Cassini, the famous head of the observatory, never believed him. Should we trust an idea because of who says it, or because of the evidence? (hint: Rømer's prediction came true on 9 November 1676. What would you have believed if you had been there?)
+- *deep:* Is darkness something, or is it only the place where light is missing? (hint: You can shine a torch, but can you shine a dark-torch? When you switch on a lamp, where does the dark go?)
 
 ## Story: The Moon That Was Never Late
 *Ole Rømer, Giovanni Cassini, the Paris Observatory, Jupiter's moon Io and Rømer's prediction that Io would appear about ten minutes late on 9 November 1676 are real. Cassini really did not accept Rømer's idea. Marthe, her father the clock-keeper, her aunt Isabelle and her letters are made up.*

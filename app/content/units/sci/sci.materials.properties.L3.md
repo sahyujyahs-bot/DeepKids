@@ -233,6 +233,7 @@ Diamond and pencil lead are both only carbon atoms, joined in two different patt
 - *big:* Deep inside a dead star there may be a material stronger than any on Earth. Nobody can ever touch it. How can we know about it? (hint: We can use rules we have tested on Earth, and a computer, to work out what must happen. How sure should we be?)
 - *deep:* Your bones are a material that your body builds and mends. What other things around you are grown rather than made? (hint: Wood, cotton, wool, silk, leather, bamboo, shell, pearl. Which ones do you wear or use?)
 - *big:* Diamond, pencil lead and soot are all carbon. Could every material be just a few kinds of atom, joined in different patterns? (hint: Think of the same 26 letters making every word in a book. Is the meaning in the letters or in the order?)
+- *deep:* Is water a material? What about a shadow, a sound or a flame? (hint: A material is the stuff a thing is made of. Can you hold it, pour it or weigh it? A shadow is only a place where light is blocked. Is there any stuff there at all?)
 
 ## Story: The Thread That Held at Dawn
 *Real: the muslin of Bengal and its names Abrawan, Shabnam and Baft Hawa. Real: the best spinning was done in the damp of early morning and evening, near rivers. Real: cotton thread is a little stronger when damp than when dry. Real: cowrie shells were used as small money in Bengal for centuries. Imagined: Shefali, her aunt Pishi, the village and the merchant's agent, the shell-counting test and its numbers.*

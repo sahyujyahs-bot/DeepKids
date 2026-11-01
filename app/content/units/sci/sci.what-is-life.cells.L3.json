@@ -434,6 +434,11 @@
    "q": "All living things are made of cells. Does that make a mango tree, an ant and you a family?",
    "kind": "big",
    "hint": "Scientists think all cells come from one first cell, long ago."
+  },
+  {
+   "q": "The tiny energy-makers inside your cells, called mitochondria, were once bacteria who lived on their own. Are they part of you, or guests who moved in long ago?",
+   "kind": "big",
+   "hint": "Long ago, one cell took in a bacterium, and the two lived on together. Today neither can live without the other. When two lives join like that, are they one being or two?"
   }
  ],
  "story": {

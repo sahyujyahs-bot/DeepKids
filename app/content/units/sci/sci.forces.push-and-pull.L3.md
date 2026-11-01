@@ -206,6 +206,7 @@ Every force comes in a pair, acting on two different things. When you walk, you 
 - *big:* Newton got the fame, but Émilie du Châtelet made his book readable for a whole country. Who should get the credit for an idea: the person who finds it, or the people who help everyone understand it? (hint: Think of a teacher who explained something so you finally understood.)
 - *big:* Scientists can measure every force, but still argue about what a force really is. Can you use something well without knowing what it is? (hint: Do you know what electricity really is? You still switch on the fan.)
 - *deep:* Sunlight pushes on you right now, too gently to feel. What other tiny pushes might be all around us, that we never notice? (hint: Think of the air pressing on you, a breeze, or the floor holding you up.)
+- *deep:* When you press your hand on a table, the tiny parts of your hand and the table push each other away before they meet. So do you ever really touch anything? (hint: Everything is made of atoms, and the outsides of atoms push other atoms away. What you feel as touch is that push. So what does 'touching' really mean?)
 
 ## Story: The Rope That Could Only Pull
 *Onam's tug of war, called vadamvali, is real, and so are the coir rope makers of Alappuzha in Kerala. The rope, Anjali, her mother and the two teams are made up. The physics is true: a tight rope pulls equally at both ends, and the team that pushes the ground harder wins.*

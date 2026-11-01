@@ -190,6 +190,7 @@ Every cell in you came from a cell, and that one from another, back to the first
 - *big:* Leeuwenhoek was a cloth-seller with no degree, and people doubted him. What makes us believe someone? (hint: What did he do to show others he was right?)
 - *deep:* A slime mould is one cell, and they can remember. Where is a memory kept when there is no brain? (hint: The slime mould leaves a trail behind them. Could the trail be a kind of memory?)
 - *big:* All living things are made of cells. Does that make a mango tree, an ant and you a family? (hint: Scientists think all cells come from one first cell, long ago.)
+- *big:* The tiny energy-makers inside your cells, called mitochondria, were once bacteria who lived on their own. Are they part of you, or guests who moved in long ago? (hint: Long ago, one cell took in a bacterium, and the two lived on together. Today neither can live without the other. When two lives join like that, are they one being or two?)
 
 ## Story: The Trumpet in the Tank Water
 *The Foldscope paper microscope is real, and Stentor is a real single cell about a millimetre long. Scientists have watched Stentor bend away, reverse their hairs, shrink and swim off when specks land on them (Jennings 1902, Dexter and others 2019), though not every Stentor does these in the same order. Kavya, Rohan, the school and the temple tank are made up.*
