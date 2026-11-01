@@ -193,7 +193,8 @@ def check(path):
             if it.get("t") not in ITEM_T: P(f"{owner} item {i + 1}: unknown type {it.get('t')}")
             if "a" not in it or not it.get("why"): P(f"{owner} item {i + 1}: needs a (answer) and why (explanation)")
             if it.get("t") == "mcq" and not (isinstance(it.get("a"), int) and 0 <= it["a"] < len(it.get("opts", it.get("options", [])))): P(f"{owner} item {i + 1}: mcq answer out of range")
-    for ws in u["worksheets"]: items(f"worksheet {ws.get('id')}", ws.get("items", []), 15)
+    young = int(u.get("level") or 3) <= 2  # Classes 1 and 2 read little: shorter worksheets
+    for ws in u["worksheets"]: items(f"worksheet {ws.get('id')}", ws.get("items", []), 10 if young else 15)
     items("quiz", u["quiz"], 10)
     # REWRITE_UNIT.md "Worksheets that make children think": every question asked once, a mix of forms on each sheet,
     # thinking questions on every sheet, and at least one pick-a-side question

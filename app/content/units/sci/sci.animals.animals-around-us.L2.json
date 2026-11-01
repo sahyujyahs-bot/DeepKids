@@ -310,7 +310,7 @@
    "'Halli!' whispered Kabir. That is the Kannada word for a house gecko.",
    "The gecko ran across the ceiling, upside down, and stopped. The gecko did not fall.",
    "'How do her feet stick?' asked Kabir.",
-   "'Under each toe are millions of tiny hairs,' said Hema aunty. 'They are so small and so many that they hold on to the ceiling.'",
+   "'Under her toes are millions of tiny hairs,' said Hema aunty. 'They are so small and so many that they hold on to the ceiling.'",
    "Nila looked through Ajji's reading glasses. The gecko's skin was covered in tiny bumps. 'Scales,' said Nila. 'Like a snake. But with four legs.'",
    "Just then the gecko went tchk, tchk, tchk.",
    "Everyone laughed. The mystery was solved.",
@@ -461,21 +461,21 @@
     }
    ],
    "rules": [
-    "Before you play, draw the animal on each card under their name, so that a child who cannot read yet can play.",
+    "Before you play, share the cards and draw a quick animal under each name, so that a child who cannot read yet can play. A simple shape is enough.",
     "Lay the five covering mats in a circle on the floor.",
     "Mix the cards and put them face down in a pile.",
     "One player turns over the top card and reads the name aloud.",
-    "Everyone races to put a hand on the right mat.",
+    "Everyone races to put a hand on the right mat. A hand on a wrong mat means you sit out that card.",
     "Turn the card over to check. The first hand on the right mat wins the card.",
-    "When the pile is finished, the player with the most cards wins."
+    "When the pile is finished, the player with the most cards wins. If two players have the same number, they both win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Help your child draw each animal on the cards. 2. Lay the five mats in a circle.",
-     "say": "Let's draw the animals first. You draw the crow, and I will read the next name.",
-     "kid": "Draw an animal on each card. Then lay out the five mats."
+     "do": "1. Share the 24 cards between you and draw a quick animal on each. 2. Lay the five mats in a circle.",
+     "say": "Let's draw the animals first. I will draw some and you draw some.",
+     "kid": "Draw an animal on your cards. Then lay out the five mats."
     },
     {
      "id": "s2",
@@ -578,11 +578,11 @@
    ],
    "rules": [
     "Put the covering cards, leg cards and extra cards in three face-down piles.",
-    "On your turn, take one card from each pile.",
+    "On your turn, take one card from each pile. Put the cards back and mix the piles after each turn.",
     "Everyone draws a beast with that body in two minutes, and gives the beast a name.",
-    "Then everyone tries to name a real animal with that body. Each real animal named earns one point.",
+    "Then everyone tries to name a real animal with that body. Each player who names a real animal earns one point.",
     "If nobody can name one, talk about why. Is there really no animal like this? That earns everyone one point.",
-    "After five turns, the player with the most points wins."
+    "After three turns each, the player with the most points wins. If you are tied, you all win."
    ],
    "flow": [
     {
@@ -595,7 +595,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Read the three cards aloud. 2. Draw for two minutes. 3. Then name real animals. 4. Play five turns.",
+     "do": "1. Read the three cards aloud. 2. Draw for two minutes. 3. Then name real animals. 4. Play three turns each, taking turns to pick the cards.",
      "say": "Feathers, two legs and wings. Draw your beast. Now, is there a real animal like this?",
      "kid": "Draw your beast. Can you name a real animal like this?",
      "ask": [
@@ -1150,7 +1150,7 @@
      "mins": 3,
      "do": "Talk about coverings.",
      "say": "Your covering is skin and hair. Which animals have a covering made of the same material as your nails?",
-     "kid": "Which animals are covered in the same stuff as your nails?",
+     "kid": "Which animals are covered in the same material as your nails?",
      "check": {
       "t": "mcq",
       "q": "Your nails and a crow's feathers are made of the same material. What is it called?",
@@ -1369,7 +1369,7 @@
      "do": "Drip three drops of water on the feather and three on the paper. Watch.",
      "say": "Look at the drops. Which ones soak in? Which ones roll?",
      "kid": "Drip the water. Watch the drops.",
-     "parent": "On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail."
+     "parent": "On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. If the drops soak in, the feather may be dirty or fluffy down. Try a bigger, smooth feather, such as a pigeon's wing feather."
     },
     {
      "id": "s3",
@@ -1421,7 +1421,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Watch one fish for ten minutes. Note which fins move when the fish swims, turns and stops."
+     "what": "Watch one fish for seven minutes. Note which fins move when the fish swims, turns and stops."
     }
    ],
    "record": "Draw one fish with all their fins. Draw an arrow on the fin that moves the most.",
@@ -1527,7 +1527,7 @@
      "id": "s3",
      "mins": 10,
      "do": "On day three, your child draws themselves on the last page and fills in the same lines.",
-     "say": "Now draw yourself. What is your covering? How many legs? Are you a pet, a farm animal or wild?",
+     "say": "Now draw yourself. What is your covering? How many legs? Do you have wings or fins?",
      "kid": "Draw yourself. Fill in your lines too!",
      "wait": "Day 3",
      "ask": [
@@ -2278,7 +2278,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya says: 'All animals with wings are birds.' Which animal shows that she is wrong?",
+     "p": "Lakshmi, a girl in Class 2, says: 'All animals with wings are birds.' Which animal shows that she is wrong?",
      "opts": [
       "A crow",
       "A butterfly",
@@ -2289,10 +2289,10 @@
     },
     {
      "t": "write",
-     "p": "Some people think a pet is any animal that lives in your home. Is the gecko on your wall a pet? Give a reason.",
+     "p": "Two cats look the same. One lives in a flat and is fed by a family. The other lives in the lane and catches rats. Is one of them a different kind of animal? Which one is a pet? Give a reason.",
      "lines": 3,
-     "a": "No. Nobody feeds or looks after the gecko. The gecko finds their own food and comes and goes freely, so the gecko is wild.",
-     "why": "A strong answer says what makes a pet: a family looks after them. Living in a home is not enough."
+     "a": "No, they are the same kind of animal. The cat in the flat is a pet, because a family feeds and looks after her. The lane cat finds her own food.",
+     "why": "A strong answer says that being a pet depends on how an animal lives, not on what kind of animal she is."
     }
    ]
   }
@@ -2336,14 +2336,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Dough Legs test, why did the dough animal stand on three legs but not on two?",
+   "p": "In the Dough Legs test, which dough animal stood without help?",
    "opts": [
-    "Three legs make a triangle to stand on",
-    "Three legs are longer",
-    "The dough was dry"
+    "The one with three legs spread out",
+    "The one with one leg",
+    "The one with two thin legs"
    ],
    "a": 0,
-   "why": "Three legs spread out make a triangle under the body, so the body cannot tip. Two legs only make a line, so it tips forward or back.",
+   "why": "Three legs spread out stood, and one leg or two thin legs fell over. Three feet make a triangle to stand on.",
    "how": "e1",
    "outcome": 3
   },
@@ -2436,31 +2436,28 @@
  ],
  "videos": [
   {
-   "title": "How a gecko walks on the ceiling",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why Geckos Are Sticky Without Being Sticky",
+   "channel": "Be Smart",
+   "youtube": "p6QmV1EbVnI",
    "mins": 4,
    "why": "See up close how a gecko's toes grip a wall, like Chikki in the story.",
-   "check": "Find a real, accurate clip of gecko toe pads and climbing, under 5 minutes, with clear close-ups."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "Fish fins in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Fish slow motion movements",
+   "channel": "ravisanath",
+   "youtube": "tqj290bL-rE",
    "mins": 3,
    "why": "Shows which fin pushes a fish forward and which fins steer and stop, as in the Roll Stopper test.",
-   "check": "Find a real slow-motion clip of a fish swimming, showing the tail fin and side fins clearly."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "The Indian pangolin, a mammal with scales",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Pangolins: The Most Trafficked Mammal You've Never Heard Of | National Geographic",
+   "channel": "National Geographic",
+   "youtube": "DqC3ieJJlFM",
    "mins": 4,
    "why": "See a real mammal covered in scales, who rolls into a ball and carries her baby on her tail.",
-   "check": "Find a calm, accurate wildlife clip of an Indian pangolin, ideally from an Indian conservation group."
+   "check": "Not yet watched by a person: watch it first."
   }
  ],
  "applications": [
@@ -2761,7 +2758,7 @@
    "what_is_life": "A living body keeps acting to stay as it is. Standing up on two legs is one of the things your body does without stopping.",
    "what_is_this_world": "The world is full of bodies built in different ways: two legs or eight, feathers or fins. Each body suits the life that animal lives."
   },
-  "thread": "Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor and decide each shift.",
+  "thread": "Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor, and your muscles answer each shift.",
   "teachings": [
    {
     "source": "Yoga Sutras of Patanjali 2.46 and 2.47",
@@ -2806,5 +2803,6 @@
   "who": "Aristotle, Carl Linnaeus, and a jury in New York",
   "when": "About 350 BCE, 1758 and 1818",
   "wrong_idea": "A whale is a fish, because whales live in the sea and swim with fins."
- }
+ },
+ "playtest": "Walked every game, experiment, activity and worksheet as a parent and child in a flat. Fixed: Covering Snap now shares the drawing, handles wrong slaps and ties; Build-a-Beast now has three turns each so it fits 15 minutes, clear scoring, and returns used cards; fish-tank schedule now matches its 7-minute step; the project no longer asks a child if she is a pet or a farm animal; 'stuff' replaced; two quiz and worksheet questions that repeated others were changed; a name in a question is now introduced; the gecko toe line is now true to the facts. Dough Legs, Roll Stopper and ant steps, minutes, fair tests and checks agree and work with home materials. The three videos still have no checked ids."
 }

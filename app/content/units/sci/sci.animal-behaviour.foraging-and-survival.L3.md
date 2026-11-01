@@ -572,9 +572,9 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
    **Answer:** Moving gave the strip away. *Why:* The strip was the same and the newspaper was the same. Only the movement changed, and every wriggling try was much faster. So movement gave the strip away.
 
 ## Videos
-- **A short film of camouflaged animals, such as nightjars, moths on bark and leaf insects** (, 4 min) id `to find`: Seeing real camouflaged animals, and then seeing them move, shows how well hiding works and how movement gives it away. *Check:* Choose a nature film from a science or nature channel. Preview it first, and skip any that say chameleons change colour mainly to hide.
-- **Archerfish shooting water at insects** (, 3 min) id `to find`: A surprising way to hunt: a fish who knocks insects off leaves with a jet of water. *Check:* Choose slow-motion footage from a science or nature channel. Preview it first.
-- **A tiger stalking spotted deer, with alarm calls, in an Indian forest** (, 5 min) id `to find`: Shows an ambush in real life: how close a tiger must creep, how chital and langurs give alarm calls, and how often a hunt fails. *Check:* Choose one without a graphic kill. Preview it first.
+- **Amazing Insect Camouflage in Nature | Bugs, Insects & Spiders | Love Nature** (Love Nature, 4 min) id `hUrFgiDiLF0`: Seeing real camouflaged animals, and then seeing them move, shows how well hiding works and how movement gives it away. *Check:* Not yet watched by a person: watch it first.
+- **How The Archerfish Guns Down Spiders With Spit** (Love Nature, 3 min) id `jEojXgR_kP0`: A surprising way to hunt: a fish who knocks insects off leaves with a jet of water. *Check:* Not yet watched by a person: watch it first.
+- **Tiger Enters the Scene | Spotted Deer Alert Call Caught on Camera | Raw Jungle Moment** (S TUJLIMAN, 5 min) id `1pIJzXvBhaQ`: Shows an ambush in real life: how close a tiger must creep, how chital and langurs give alarm calls, and how often a hunt fails. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
 1. (mcq) Which word means searching for food and getting it?  

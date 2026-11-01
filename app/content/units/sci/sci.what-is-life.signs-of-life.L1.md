@@ -453,9 +453,9 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
    **Answer:** 24. *Why:* 12 and 12 make 24. Every one of those seeds could grow into a new tomato plant.
 
 ## Videos
-- **A land snail eating a leaf, close up** (, 3 min) id `to find`: See a snail's horns, eyes and breathing hole up close, like the snail in the story. *Check:* Find a real, calm close-up of a land snail feeding, under 5 minutes, with no scary music.
-- **Mint cuttings growing roots in water, time-lapse** (, 2 min) id `to find`: Shows in two minutes what the mint project shows in two weeks. *Check:* Find a real time-lapse of mint or another herb rooting in water.
-- **A wilted plant recovering after watering, time-lapse** (, 2 min) id `to find`: Shows a droopy plant standing up again after water, like the mint test. *Check:* Find a real time-lapse, not animation, of a wilted plant recovering.
+- **Oddly Satisfying: Snail Eating a Leaf (Timelapse)** (EXHILARATING, 3 min) id `R8sDDjhHso8`: See a snail's horns, eyes and breathing hole up close, like the snail in the story. *Check:* Not yet watched by a person: watch it first.
+- **Growing Mint From Cutting to Flower (60 Days Time Lapse)** (eLapse, 2 min) id `QzIkdEeIjIA`: Shows in two minutes what the mint project shows in two weeks. *Check:* Not yet watched by a person: watch it first.
+- **Wilted plant resurrecting after watering, Time lapse** (András Sándor, 2 min) id `t4RkOgcwWsg`: Shows a droopy plant standing up again after water, like the mint test. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
 1. (mcq) Which one was never alive?  

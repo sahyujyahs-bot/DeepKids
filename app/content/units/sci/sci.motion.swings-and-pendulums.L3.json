@@ -370,7 +370,13 @@
       "Swing with 1 metre ropes, a small child",
       "Swing with 1 metre ropes, a grown-up",
       "A wall clock pendulum, 25 cm",
-      "A tall floor clock pendulum, 1 metre",
+      {
+       "f": "A tall floor clock pendulum, 1 metre",
+       "img": {
+        "src": "media/cards/swings-and-pendulums-g1-0-17.jpg",
+        "credit": "nesnad, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
       "A jhumka on a 3 cm hook",
       "A temple bell's clapper, 20 cm",
       "String 4 metres, bob a bucket of water",

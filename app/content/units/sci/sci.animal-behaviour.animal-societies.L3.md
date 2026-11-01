@@ -566,9 +566,9 @@ Doddamma had brought her family to the river again.
    **Answer:** Because thousands of sisters share the work, find food fast, defend the nest and raise the young together. One ant alone could do far less.. *Why:* A strong answer links colony life to success: sharing jobs, fast recruitment to food, and defence.
 
 ## Videos
-- **A film of a wild elephant family led by their matriarch** (, 5 min) id `to find`: Shows an elephant family walking, drinking and gathering around the calves, following an old female. *Check:* No video id was confirmed from here. Choose a nature film that shows a real family, and check that it does not say a bull leads the herd.
-- **A film of ants following a pheromone trail to food** (, 4 min) id `to find`: Shows close up how ants lay and follow scent trails, which the child can compare with their own sugar drop test. *Check:* No video id was confirmed from here. Check that it does not say the queen gives orders.
-- **A talk or film about why the 'alpha wolf' idea is wrong** (, 5 min) id `to find`: For the parent and older children: David Mech or another wolf scientist explaining that wild packs are families. *Check:* No video id was confirmed from here. Prefer a video in which David Mech himself speaks, and check it describes wild packs as families.
+- **ELEPHANT KINGDOM: The Matriarch (Full Episode) | African Elephant Documentary** (Peaceful Planet, 5 min) id `0p0fF12ghbw`: Shows an elephant family walking, drinking and gathering around the calves, following an old female. *Check:* Not yet watched by a person: watch it first.
+- **How Do Ants Find Food? Ari and the Invisible Trail!** (Arravi Animations, 4 min) id `wk9WF6A_tC4`: Shows close up how ants lay and follow scent trails, which the child can compare with their own sugar drop test. *Check:* Not yet watched by a person: watch it first.
+- **Everything You Know About Alpha Wolves Is Wrong** (Wild Why, 5 min) id `QRMWk3yA4NM`: For the parent and older children: David Mech or another wolf scientist explaining that wild packs are families. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
 1. (mcq) What is an animal society?  

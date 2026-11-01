@@ -116,7 +116,7 @@ We have compared animals by their coverings, legs, wings and fins, and tested ho
 - *what is life:* A living body keeps acting to stay as it is. Standing up on two legs is one of the things your body does without stopping.
 - *what is this world:* The world is full of bodies built in different ways: two legs or eight, feathers or fins. Each body suits the life that animal lives.
 
-Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor and decide each shift.
+Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor, and your muscles answer each shift.
 
 - **Yoga Sutras of Patanjali 2.46 and 2.47:** A posture should be steady and comfortable. Patanjali says it becomes steady when effort is relaxed and the mind rests on the endless. (In the eyes-shut stand, you were steady only because your feet and ankles kept working. Your effort could relax, because your body kept correcting below what you noticed.)
 - **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this unit, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
@@ -178,7 +178,7 @@ The gecko ran across the ceiling, upside down, and stopped. The gecko did not fa
 
 'How do her feet stick?' asked Kabir.
 
-'Under each toe are millions of tiny hairs,' said Hema aunty. 'They are so small and so many that they hold on to the ceiling.'
+'Under her toes are millions of tiny hairs,' said Hema aunty. 'They are so small and so many that they hold on to the ceiling.'
 
 Nila looked through Ajji's reading glasses. The gecko's skin was covered in tiny bumps. 'Scales,' said Nila. 'Like a snake. But with four legs.'
 
@@ -214,13 +214,13 @@ That night the tube light went on, and the moths came, and so did Chikki.
 
 ## Games
 ### g1 · Covering Snap (15 min)
-- **rules:** Before you play, draw the animal on each card under their name, so that a child who cannot read yet can play.; Lay the five covering mats in a circle on the floor.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat.; Turn the card over to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins.
+- **rules:** Before you play, share the cards and draw a quick animal under each name, so that a child who cannot read yet can play. A simple shape is enough.; Lay the five covering mats in a circle on the floor.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat. A hand on a wrong mat means you sit out that card.; Turn the card over to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
 - **Printable cards: 24 animal cards to cut out, with the covering on the back:** Crow (back: Feathers); Peacock (back: Feathers); Penguin (back: Feathers. A bird that swims and does not fly.); Hen (back: Feathers); Dog (back: Hair or fur); Cow (back: Hair or fur); Bat (back: Hair or fur. A bat is a mammal with wings.); You (back: Hair or fur. You have hair and skin.); Elephant (back: Hair or fur. Elephants have thin, bristly hairs.); Squirrel (back: Hair or fur); Fish (back: Scales); Snake (back: Scales); Gecko (back: Scales); Indian pangolin (back: Scales. A pangolin is a mammal with scales!); Crocodile (back: Scales); Snail (back: Shell or hard case); Tortoise (back: Shell or hard case); Crab (back: Shell or hard case); Ant (back: Shell or hard case. An ant's outside is a hard case.); Beetle (back: Shell or hard case); Frog (back: Bare skin); Earthworm (back: Bare skin); Dolphin (back: Bare skin. A dolphin is a mammal with almost no hair.); Butterfly (back: Scales. A butterfly's wings are covered in tiny scales!)
 - **Printable board: 5 covering mats to lay on the floor:** Feathers; Hair or fur; Scales; Shell or hard case; Bare skin
 - **s1 (4 min)**  
-  *Parent does:* 1. Help your child draw each animal on the cards. 2. Lay the five mats in a circle.  
-  *Parent says:* Let's draw the animals first. You draw the crow, and I will read the next name.  
-  *Child mode:* Draw an animal on each card. Then lay out the five mats.
+  *Parent does:* 1. Share the 24 cards between you and draw a quick animal on each. 2. Lay the five mats in a circle.  
+  *Parent says:* Let's draw the animals first. I will draw some and you draw some.  
+  *Child mode:* Draw an animal on your cards. Then lay out the five mats.
 - **s2 (8 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. Race to the right mat. 3. Turn the card over to check.  
   *Parent says:* Crow! Which mat? Quick!  
@@ -233,7 +233,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Count your cards. Who has the most?
   - Check: A pangolin is covered in scales, and the mother feeds her baby milk. What is a pangolin? → **A mammal**
 ### g2 · Build-a-Beast (15 min)
-- **rules:** Put the covering cards, leg cards and extra cards in three face-down piles.; On your turn, take one card from each pile.; Everyone draws a beast with that body in two minutes, and gives the beast a name.; Then everyone tries to name a real animal with that body. Each real animal named earns one point.; If nobody can name one, talk about why. Is there really no animal like this? That earns everyone one point.; After five turns, the player with the most points wins.
+- **rules:** Put the covering cards, leg cards and extra cards in three face-down piles.; On your turn, take one card from each pile. Put the cards back and mix the piles after each turn.; Everyone draws a beast with that body in two minutes, and gives the beast a name.; Then everyone tries to name a real animal with that body. Each player who names a real animal earns one point.; If nobody can name one, talk about why. Is there really no animal like this? That earns everyone one point.; After three turns each, the player with the most points wins. If you are tied, you all win.
 - **Printable cards: 5 covering cards:** Feathers; Hair or fur; Scales; Shell; Bare skin
 - **Printable cards: 6 leg cards:** No legs; 2 legs; 4 legs; 6 legs; 8 legs; Many legs
 - **Printable cards: 4 extra cards:** Wings; Fins; A long tail; Nothing extra
@@ -243,7 +243,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent says:* We will make beasts. Take one card from each pile.  
   *Child mode:* Take one card from each pile.
 - **s2 (10 min)**  
-  *Parent does:* 1. Read the three cards aloud. 2. Draw for two minutes. 3. Then name real animals. 4. Play five turns.  
+  *Parent does:* 1. Read the three cards aloud. 2. Draw for two minutes. 3. Then name real animals. 4. Play three turns each, taking turns to pick the cards.  
   *Parent says:* Feathers, two legs and wings. Draw your beast. Now, is there a real animal like this?  
   *Child mode:* Draw your beast. Can you name a real animal like this?
   - Ask: Feathers and four legs. Is there a real animal like this? (good: No. Every animal with feathers is a bird, and birds have two legs.; Not today. Birds have two legs and two wings.)
@@ -373,7 +373,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **s3 (3 min)**  
   *Parent does:* Talk about coverings.  
   *Parent says:* Your covering is skin and hair. Which animals have a covering made of the same material as your nails?  
-  *Child mode:* Which animals are covered in the same stuff as your nails?
+  *Child mode:* Which animals are covered in the same material as your nails?
   - Check: Your nails and a crow's feathers are made of the same material. What is it called? → **Keratin**
 ### a3 · Move Like Them (10 min)
 - **record:** Draw the animal you liked being best, and how they move.
@@ -416,7 +416,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent does:* Drip three drops of water on the feather and three on the paper. Watch.  
   *Parent says:* Look at the drops. Which ones soak in? Which ones roll?  
   *Child mode:* Drip the water. Watch the drops.
-  - Note: On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail.
+  - Note: On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. If the drops soak in, the feather may be dirty or fluffy down. Try a bigger, smooth feather, such as a pigeon's wing feather.
 - **s3 (3 min)**  
   *Parent does:* Talk about it.  
   *Parent says:* Why does a crow need feathers that keep water off?  
@@ -454,7 +454,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Wait: Day 2
 - **s3 (10 min)**  
   *Parent does:* On day three, your child draws themselves on the last page and fills in the same lines.  
-  *Parent says:* Now draw yourself. What is your covering? How many legs? Are you a pet, a farm animal or wild?  
+  *Parent says:* Now draw yourself. What is your covering? How many legs? Do you have wings or fins?  
   *Child mode:* Draw yourself. Fill in your lines too!
   - Ask: Which animal in your book is most like you? (good: The dog, because we both have hair and are mammals.; The crow, because we both have two legs.)
   - Check: Which of these is true about you? → **You have hair and two legs**
@@ -581,16 +581,16 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** keratin. *Why:* Hair, nails, feathers, horns and the scales of snakes and lizards are all keratin, shaped in different ways.
 13. (sort) Sort these animals: insect, or not an insect?  
    **Answer:** an ant → Insect (6 legs); a spider → Not an insect; a butterfly → Insect (6 legs); a centipede → Not an insect; a mosquito → Insect (6 legs); an earthworm → Not an insect. *Why:* Ants, butterflies and mosquitoes have six legs. Spiders have eight, centipedes have many, and earthworms have none.
-14. (mcq) Kavya says: 'All animals with wings are birds.' Which animal shows that she is wrong?  
+14. (mcq) Lakshmi, a girl in Class 2, says: 'All animals with wings are birds.' Which animal shows that she is wrong?  
    Options: A crow / A butterfly / A peacock  
    **Answer:** A butterfly. *Why:* A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show she is wrong.
-15. (write) Some people think a pet is any animal that lives in your home. Is the gecko on your wall a pet? Give a reason.  
-   **Answer:** No. Nobody feeds or looks after the gecko. The gecko finds their own food and comes and goes freely, so the gecko is wild.. *Why:* A strong answer says what makes a pet: a family looks after them. Living in a home is not enough.
+15. (write) Two cats look the same. One lives in a flat and is fed by a family. The other lives in the lane and catches rats. Is one of them a different kind of animal? Which one is a pet? Give a reason.  
+   **Answer:** No, they are the same kind of animal. The cat in the flat is a pet, because a family feeds and looks after her. The lane cat finds her own food.. *Why:* A strong answer says that being a pet depends on how an animal lives, not on what kind of animal she is.
 
 ## Videos
-- **How a gecko walks on the ceiling** (, 4 min) id `to find`: See up close how a gecko's toes grip a wall, like Chikki in the story. *Check:* Find a real, accurate clip of gecko toe pads and climbing, under 5 minutes, with clear close-ups.
-- **Fish fins in slow motion** (, 3 min) id `to find`: Shows which fin pushes a fish forward and which fins steer and stop, as in the Roll Stopper test. *Check:* Find a real slow-motion clip of a fish swimming, showing the tail fin and side fins clearly.
-- **The Indian pangolin, a mammal with scales** (, 4 min) id `to find`: See a real mammal covered in scales, who rolls into a ball and carries her baby on her tail. *Check:* Find a calm, accurate wildlife clip of an Indian pangolin, ideally from an Indian conservation group.
+- **Why Geckos Are Sticky Without Being Sticky** (Be Smart, 4 min) id `p6QmV1EbVnI`: See up close how a gecko's toes grip a wall, like Chikki in the story. *Check:* Not yet watched by a person: watch it first.
+- **Fish slow motion movements** (ravisanath, 3 min) id `tqj290bL-rE`: Shows which fin pushes a fish forward and which fins steer and stop, as in the Roll Stopper test. *Check:* Not yet watched by a person: watch it first.
+- **Pangolins: The Most Trafficked Mammal You've Never Heard Of | National Geographic** (National Geographic, 4 min) id `DqC3ieJJlFM`: See a real mammal covered in scales, who rolls into a ball and carries her baby on her tail. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
 1. (mcq) Which animal is covered in feathers?  
@@ -602,9 +602,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
 3. (mcq) Which animal swims with fins?  
    Options: A rohu fish / A goat / A sparrow  
    **Answer:** A rohu fish. *Why:* A rohu is a fish, and fish swim with fins. Goats walk on four legs, and sparrows fly with wings.
-4. (mcq) In the Dough Legs test, why did the dough animal stand on three legs but not on two?  
-   Options: Three legs make a triangle to stand on / Three legs are longer / The dough was dry  
-   **Answer:** Three legs make a triangle to stand on. *Why:* Three legs spread out make a triangle under the body, so the body cannot tip. Two legs only make a line, so it tips forward or back.
+4. (mcq) In the Dough Legs test, which dough animal stood without help?  
+   Options: The one with three legs spread out / The one with one leg / The one with two thin legs  
+   **Answer:** The one with three legs spread out. *Why:* Three legs spread out stood, and one leg or two thin legs fell over. Three feet make a triangle to stand on.
 5. (mcq) A crow lives on the roof of a building in Hyderabad. What kind of animal is the crow?  
    Options: A pet / A wild animal / A farm animal  
    **Answer:** A wild animal. *Why:* The crow finds their own food and home, and nobody owns them. Wild animals live in cities too.

@@ -200,6 +200,11 @@ document.addEventListener("change", (e) => {
     ui.qf = e.target.value;
     render();
   }
+  if (e.target.id === "dkView") {
+    ui.dkview = e.target.value;
+    delete e.target.dataset.dirty;
+    render();
+  }
   if (e.target.id === "rcSel") {
     ui.rc = e.target.value;
     ui.rmore = 40;

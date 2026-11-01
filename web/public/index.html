@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#FFF6EC">
 <meta name="description" content="DeepKids Gurukul, THE homeschooling app: a planner and lesson guide for Indian families with children aged 6 to 10. NCERT, Cambridge and NIOS.">
 <link rel="manifest" href="/manifest.webmanifest">
-<link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+<link rel="icon" href="/icons/favicon-32.png" type="image/png">
 <link rel="apple-touch-icon" href="/icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="DeepKids Gurukul">
@@ -5370,17 +5370,34 @@ dialog .fxfab {
   padding: 10px;
   box-shadow: var(--lift);
 }
-.fxopenbtn img,
-.fxopenbtn > span:first-child {
-  width: 64px;
-  height: 64px;
+.fxopenbtn img {
+  width: 72px;
+  height: 72px;
   border-radius: 14px;
   object-fit: cover;
   flex: none;
-  display: grid;
-  place-items: center;
-  background: var(--sun);
-  font-size: 26px;
+  background: var(--sunk);
+}
+.fxgist {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+}
+.fxfacts {
+  margin: 8px 2px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.fxfacts b {
+  color: var(--ink);
+}
+.viewpick {
+  gap: 8px;
+  margin: 2px 0 4px;
+}
+.viewpick .inp {
+  width: auto;
+  height: 40px;
 }
 .fxmap {
   height: 100%;
@@ -5809,13 +5826,6 @@ dialog .fxfab {
   padding: 10px;
   margin: 8px 0;
   background: #fff;
-}
-.fxustat {
-  margin: 6px 0 8px 18px;
-  padding: 0;
-}
-.fxustat li {
-  margin: 2px 0;
 }
 body.ai-locked [data-fx="chat"]::after,
 body.ai-locked [data-fx="askcard"]::after,
@@ -7029,9 +7039,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="492d6ceefc2a0959ba";window.DK_APPV="492d6ceefc";window.DK_DATAV="2a098a9a4c"</script>
-<script src="/config.js?v=492d6ceefc2a0959ba"></script>
+<script>window.DK_BUILD="1e46f59187021259ba";window.DK_APPV="1e46f59187";window.DK_DATAV="02126747fc"</script>
+<script src="/config.js?v=1e46f59187021259ba"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=492d6ceefc2a0959ba"></script>
+<script src="/platform.js?v=1e46f59187021259ba"></script>
 </body>
 </html>

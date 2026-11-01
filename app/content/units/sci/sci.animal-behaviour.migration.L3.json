@@ -416,18 +416,18 @@
       "Square 0: The fir forests in the mountains of Mexico, the start. Every player's butterfly begins here in spring.",
       "Square 1: Warm sunshine. Fly on.",
       "Square 2: Milkweed plants in Texas. Your butterfly lays eggs here. Hand over to the next player: this is the end of the first generation's leg.",
-      "Square 3: A thunderstorm. Miss a turn.",
+      "Square 3: A thunderstorm. Miss a turn: the turn passes to the next player, with no question.",
       "Square 4: A field of flowers. Drink nectar. Roll again.",
       "Square 5: A busy highway. Go back 1.",
       "Square 6: A tailwind from the south. Move on 2.",
       "Square 7: Milkweed plants in Oklahoma. Lay eggs. Hand over: end of the second generation's leg.",
       "Square 8: A garden where the gardener sprayed poison. Go back 2.",
       "Square 9: A school garden full of milkweed. Roll again.",
-      "Square 10: Cold night. Miss a turn while you warm up in the sun.",
+      "Square 10: Cold night. Miss a turn while the butterfly warms up in the sun.",
       "Square 11: Milkweed near the Great Lakes. Lay eggs. Hand over: end of the third generation's leg.",
       "Square 12: A volunteer sticks a tiny tag on your wing. Take a tag token.",
       "Square 13: A headwind. Go back 1.",
-      "Square 14: Southern Canada, the end of the trip north. Summer! Now the autumn generation is born.",
+      "Square 14: Southern Canada, the end of the trip north. Summer! The autumn generation is born here.",
       "Square 15: Autumn. Turn your butterfly round. This one generation will fly the whole way back.",
       "Square 16: A tailwind from the north. Move on 3.",
       "Square 17: A dry field with no flowers. Go back 2.",
@@ -538,14 +538,14 @@
     }
    ],
    "rules": [
-    "You need the board, the question cards, one dice and the butterfly tokens. Put the butterfly who spent the winter in Mexico on square 0.",
-    "The players are one family of butterflies, working together. On your turn, another player reads you the top question card. Playing alone? Read it yourself and check the back.",
+    "You need the board, the question cards, one dice and the butterfly tokens. Put the butterfly who spent the winter in Mexico on square 0. There is only one butterfly on the board at a time.",
+    "Players take turns in order. On your turn, another player reads you the top question card. Playing alone? Read it yourself and check the back. When the cards run out, shuffle them and use them again.",
     "Answer right, and roll the dice and move the butterfly. Answer wrong, and read the back aloud. The butterfly stays.",
-    "Do what the square says.",
-    "On a 'Lay eggs' square, the butterfly stops there even if the roll was bigger. Swap in the next generation: her children, then her grandchildren, then her great-grandchildren. The next player now flies.",
+    "Do what the square says. If that sends you to another square, do not do that square as well.",
+    "On a 'Lay eggs' square, the butterfly stops there even if the roll was bigger. Swap in the next generation: her children, then her grandchildren, then her great-grandchildren. The turn then passes to the next player as usual.",
     "At square 15, swap in the autumn generation. This one butterfly flies all the way back to Mexico.",
-    "If you land on square 12, take a tag token. At the end, every tag token is a butterfly that scientists could follow.",
-    "Everyone wins together when the autumn butterfly reaches the forests of Mexico on square 19."
+    "If you land on square 12, take a tag token. At the end, every tag token is a butterfly that scientists could follow. There are only 4 tags: when they are gone, nothing happens on square 12.",
+    "Everyone wins together when the autumn butterfly reaches square 19. You do not need the exact roll: reaching or passing 19 ends the game."
    ],
    "flow": [
     {
@@ -579,7 +579,7 @@
      "mins": 10,
      "do": "Play the game until the autumn butterfly reaches square 19. Pause at each 'Lay eggs' square.",
      "say": "You've reached milkweed. Your butterfly lays eggs here. Who carries the journey on now?",
-     "kid": "Lay eggs! Swap in the next butterfly. The next player flies on.",
+     "kid": "Lay eggs! Swap in the next butterfly. Then the next player takes a turn.",
      "ask": [
       {
        "q": "The butterfly who left Mexico never reaches Canada. Who does?",
@@ -675,7 +675,7 @@
        "b": "GO. Many hilsa swim up rivers like the Hooghly to lay their eggs."
       },
       {
-       "f": "An olive ridley turtle in the sea far from Odisha. It is time to lay eggs. Stay or go?",
+       "f": "An olive ridley turtle in the sea far from Odisha. She is ready to lay her eggs. Stay or go?",
        "b": "GO. Huge numbers of olive ridleys come to beaches like Rushikulya and Gahirmatha in Odisha to lay their eggs."
       },
       {
@@ -704,8 +704,8 @@
     "On your turn, take the top card and read the front aloud.",
     "Say STAY or GO, and give one reason.",
     "Turn the card over and read the back. A right choice scores 1 point. A reason that matches the back scores 1 more.",
-    "Playing alone? Play against your score from last time.",
-    "When the cards run out, the player with the most points wins."
+    "Playing alone? Try to beat your own score next time.",
+    "When the cards run out, the player with the most points wins. If two players tie, they both win."
    ],
    "flow": [
     {
@@ -814,11 +814,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Clear the floor. 2. Put the bowl at one end. 3. Put a newspaper sheet about 5 or 6 normal steps away, facing the bowl. This is the usual start. 4. Put a second sheet about one metre to one side of the first. This is the secret start. Don't point it out.",
+     "do": "1. Clear the floor. 2. Put the bowl at one end. 3. Put a newspaper sheet about 5 or 6 normal steps away, facing the bowl. This is the usual start. Keep the second sheet for later.",
      "say": "Here is our lake, and here is where a young bird starts her journey. Let's set it up carefully first.",
      "kid": "Put the bowl at the end of the room. This is the lake. Stand on the newspaper. That is your start.",
      "adult": true,
-     "parent": "One metre to the side is about 4 grown-up foot-lengths. If your room is small, put the bowl 4 steps away and move the secret start 3 foot-lengths.",
+     "parent": "Use your child's own foot for measuring. One metre is about 4 or 5 of a child's foot-lengths. If your room is small, put the bowl 4 steps away and move the secret start 3 foot-lengths.",
      "context": "This is the first step of the Moved in the Night experiment. You set up a 'lake' and two starting spots."
     },
     {
@@ -867,7 +867,7 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Cover your child's eyes. 2. Turn them slowly round twice, then walk them about the room for a few seconds. 3. Quietly stand them on the secret start, facing the same way as the usual start. 4. Say 'Walk your steps.' 5. Measure and write. 6. Do this 3 times. Each time, walk them about first.",
+     "do": "1. Cover your child's eyes. 2. Turn them slowly round twice and walk them about the room for a few seconds. 3. While they are turning, put the second sheet about one metre to one side of the usual start, facing the same way. 4. Quietly stand them on this secret start. 5. Say 'Walk your steps.' 6. Measure and write. 7. Do this 3 times. Each time, walk them about first.",
      "say": "I'm going to walk you about a little. Then you start again. Walk your steps, and stop.",
      "kid": "Keep your eyes covered. I will walk you about. Then walk your steps and stop.",
      "adult": true,
@@ -887,7 +887,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Stand your child on the secret start with eyes open. 2. Let them look at the bowl for three seconds. 3. Cover their eyes. 4. Say 'Now find the bowl.' 5. Measure and write. 6. Do this 3 times.",
+     "do": "1. Cover your child's eyes, turn them round twice and walk them about, as before. 2. Stand them on the secret start, facing the same way as the usual start. 3. Uncover their eyes for three seconds to look at the bowl. 4. Cover their eyes again and say 'Now find the bowl.' 5. Measure and write. 6. Do this 3 times.",
      "say": "This time you get a quick peek at the lake first, only three seconds. Then find it with your eyes covered.",
      "kid": "Look at the bowl for three seconds. Now eyes covered. Find the bowl!",
      "adult": true,
@@ -949,7 +949,7 @@
       "Secret start",
       "Yes, 3 seconds",
       "1 foot",
-      "0 feet",
+      "2 feet",
       "1 foot"
      ]
     ]
@@ -1158,7 +1158,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Write one name on each of 12 slips (Arctic tern, house crow, humpback whale, monarch butterfly, house sparrow, demoiselle crane, Indian cobra, curlew sandpiper, hilsa fish, garden lizard, olive ridley turtle, Gaddi shepherd family).",
+     "do": "Write one name on each of 12 slips. Bar-headed goose. Rock pigeon. Wildebeest in Africa. Indian cobra. Barn swallow. Common myna. Blue whale. House gecko. Amur falcon. Indian palm squirrel. Dhangar shepherd family. Red-vented bulbul.",
      "say": "Here are 12 living beings. Some make a long journey every year. Some stay near home all year. Let's guess which.",
      "kid": "Here are 12 slips. Each has a living being on it. Read them out loud.",
      "context": "This is the first step of Go or Stay, a sorting activity about which animals travel far every year."
@@ -1171,7 +1171,7 @@
      "kid": "Put each slip in GO or STAY. Say why for each one.",
      "ask": [
       {
-       "q": "Why did you put the humpback whale in GO?",
+       "q": "Why did you put the blue whale in GO?",
        "good": [
         "Whales swim very far in the sea.",
         "I have heard whales travel between cold and warm seas."
@@ -1182,21 +1182,21 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Read out the answers. GO is the tern, whale, monarch, crane, sandpiper, hilsa, turtle and shepherd family. STAY is the house crow, house sparrow, Indian cobra and garden lizard.",
-     "say": "Let's check. Were any surprises? A shepherd family is in GO. Humans are animals too, and some of us migrate.",
+     "do": "Read out the answers. GO is the bar-headed goose, barn swallow, wildebeest, blue whale, Amur falcon and Dhangar shepherd family. STAY is the Indian cobra, rock pigeon, common myna, house gecko, Indian palm squirrel and red-vented bulbul.",
+     "say": "Let's check. Were there any surprises? A shepherd family is in GO. Humans are animals too, and some of us migrate.",
      "kid": "Let's check. Were you surprised by any? People can migrate too!",
      "check": {
       "t": "mcq",
       "q": "Which of these makes a long journey every year?",
       "options": [
-       "A house sparrow",
-       "A hilsa fish",
-       "A garden lizard"
+       "A common myna",
+       "A barn swallow",
+       "A house gecko"
       ],
       "a": 1,
-      "why": "Hilsa fish swim from the Bay of Bengal up rivers to lay their eggs. House sparrows and garden lizards stay near the same home all year."
+      "why": "Barn swallows spend the summer far to the north and the winter in South India. Mynas and geckos stay near the same home all year."
      },
-     "parent": "Some animals are mixed. A few humpback whales in the Arabian Sea stay all year, while most humpbacks migrate. You can mention this if your child asks."
+     "parent": "Some kinds of animals are mixed, with some travelling and some staying. If your child asks about one, say that scientists are still finding out."
     }
    ],
    "setup": [
@@ -1205,7 +1205,7 @@
      "caption": "1. Write the 12 slips."
     },
     {
-     "art": "A child dropping a slip that says 'Arctic tern' into the bowl labelled GO.",
+     "art": "A child dropping a slip that says 'barn swallow' into the bowl labelled GO.",
      "caption": "2. Sort them into GO and STAY, and say why."
     }
    ]
@@ -1518,7 +1518,7 @@
    ],
    "creative": [
     "Fix the clips on the middle of the plane instead of the nose or tail, and see if it balances better.",
-    "Make a lighter 'tracker' by cutting one clip in half, or using a scrap of foil instead.",
+    "Make a lighter 'tracker' from a small scrap of foil instead of a clip, and see if the plane flies further.",
     "Some scientists don't put trackers on birds at all. They use radar, cameras or the songs birds make at night."
    ],
    "your_turn": "Now design the best place and the lightest tracker for your plane. Draw it, test it 3 times, and write how far it flew compared with no tracker.",
@@ -1682,22 +1682,20 @@
  ],
  "videos": [
   {
-   "title": "Arctic tern migration, from the Arctic to Antarctica",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "This Bird Doesnt Make Any Sense",
+   "channel": "A Curious Birb",
+   "youtube": "9Gvc8TB7Tkw",
    "mins": 4,
    "why": "Shows the longest yearly journey of any animal, with the tracked route drawn on a map.",
-   "check": "Find a real video from a trusted nature channel. Check that the distance given is about 70,000 km a year."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "Monarch butterflies in their winter forests in Mexico",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Watch a Breathtaking Monarch Butterfly Swarm",
+   "channel": "Nature on PBS",
+   "youtube": "lWOySU_hAz0",
    "mins": 4,
    "why": "Shows millions of monarchs covering the fir trees, which children can compare with the story of how the forests were found.",
-   "check": "Find a real video. Check that it says the journey north takes several generations."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
    "title": "Humpback whales: a mother and calf in warm water",
@@ -1910,47 +1908,39 @@
     },
     {
      "t": "sort",
-     "p": "Sort these living beings. Do they make a long journey every year, or stay near home?",
+     "p": "Sort these journeys. Is each one a migration, or not?",
      "cats": [
-      "Makes a long journey",
-      "Stays near home"
+      "Migration",
+      "Not migration"
      ],
      "items": [
       [
-       "Arctic tern",
-       "Makes a long journey"
+       "Olive ridley turtles coming to Odisha beaches every year to lay eggs",
+       "Migration"
       ],
       [
-       "house crow",
-       "Stays near home"
+       "A cow walking to the field in the morning and home in the evening",
+       "Not migration"
       ],
       [
-       "humpback whale",
-       "Makes a long journey"
+       "A Gaddi family taking sheep to the high meadows every summer",
+       "Migration"
       ],
       [
-       "garden lizard",
-       "Stays near home"
+       "A bee flying from her hive to the flowers and back every day",
+       "Not migration"
       ],
       [
-       "monarch butterfly",
-       "Makes a long journey"
+       "Amur falcons flying from Nagaland to southern Africa every year",
+       "Migration"
       ],
       [
-       "house sparrow",
-       "Stays near home"
-      ],
-      [
-       "demoiselle crane",
-       "Makes a long journey"
-      ],
-      [
-       "Gaddi shepherd family",
-       "Makes a long journey"
+       "A family moving to a new city once",
+       "Not migration"
       ]
      ],
      "a": "see items",
-     "why": "The travellers move to where food and safe places for young are at each time of year. The stayers have what they need near home all year."
+     "why": "A migration is a long journey made at the same time every year, and back again. A daily trip, or a single move, is not migration."
     },
     {
      "t": "mcq",
@@ -2368,7 +2358,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the bowl test, Arun is moved 1 metre to the left and walks his steps. He stops 1 metre to the left of the bowl. His sister moves him 2 metres to the left. Where will he probably stop?",
+     "p": "In the bowl test, Arun, a boy in the story, is moved 1 metre to the left and walks his steps. He stops 1 metre to the left of the bowl. His sister moves him 2 metres to the left. Where will he probably stop?",
      "opts": [
       "Right at the bowl",
       "About 2 metres to the left of the bowl",
@@ -2620,12 +2610,12 @@
    "a": "To get to the other tide."
   },
   {
-   "j": "What kind of music do migrating birds like?",
-   "a": "Flying tunes, sung on the way."
+   "j": "Why did the swallows sit in a row on the wire?",
+   "a": "They were waiting for the evening flight."
   },
   {
-   "j": "Why did the monarch butterfly bring a map?",
-   "a": "She was on a long-distance flutter."
+   "j": "Why did the monarch arrive in Canada so late?",
+   "a": "She sent her great-grandchildren instead."
   },
   {
    "j": "What did the sandpiper say when she landed at Kodiakkarai?",
@@ -2640,8 +2630,8 @@
    "a": "A frequent flyer."
   },
   {
-   "j": "Why did the young cuckoo fly alone?",
-   "a": "She already knew which way was south."
+   "j": "Why did the young cuckoo never ask for directions?",
+   "a": "She was born with them."
   }
  ],
  "maths": [
@@ -2935,7 +2925,7 @@
    {
     "source": "Kalidasa, Meghaduta (The Cloud Messenger), first part, verse 11 (numbering differs a little between editions)",
     "teaching": "When they hear the cloud's thunder, the royal swans, longing for Lake Manasa, fly with the cloud through the sky as far as Mount Kailasa, carrying pieces of lotus stalk as food for the journey.",
-    "link": "Bar-headed geese leave India in spring for lakes on the Tibetan plateau, near Kailasa. Some bird experts think they are the 'royal swans' of old Indian poems. And a long journey really does need food stored for the way: real birds carry it as fat."
+    "link": "Bar-headed geese leave India in spring for lakes on the Tibetan plateau, the same high country as Mount Kailasa. A long journey really does need food stored for the way: real birds carry it as fat."
    },
    {
     "source": "Zhuangzi, chapter 1 (Free and Easy Wandering)",
@@ -2987,5 +2977,6 @@
   "who": "Norah and Fred Urquhart, Canadian scientists; Catalina Aguado and Ken Brugger, who found the winter forests; thousands of volunteer taggers; and the local people of the Mexican mountains, who knew about the butterflies all along",
   "when": "1950s (the tagging began) and January 1975 (the winter forests were found)",
   "wrong_idea": "Many people did not believe that a butterfly could fly thousands of kilometres. Tags posted back from further and further south, and then tagged butterflies found in the Mexican forests, showed that monarchs really do."
- }
+ },
+ "playtest": "Walked through the bowl test, the paper butterfly test, both games, the activities and the challenges as a parent and child in a flat would. Fixed: the 'secret' start in the bowl test was visible during setup, and the peek trial now spins the child first so it is fair; the butterfly board now says what happens on overshooting, chained squares, missed turns, empty tags and used-up cards; ties in the card game; the sorting activity and worksheet sort repeated the card game, so they now use other animals; an 'it' for a turtle; a weak tracker idea; an unverifiable Kalidasa claim; three weak jokes. Videos still have no verified ids and are left as placeholders."
 }

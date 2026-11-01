@@ -30,7 +30,7 @@
   {
    "term": "Different",
    "meaning": "Different means not the same.",
-   "example": "Your hair may be curly and your sister's hair straight. Your hair is different.",
+   "example": "Your hair may be curly and your friend's hair straight. Your hair is different.",
    "art": "Two girls back to back, one with curly hair and one with straight hair."
   },
   {
@@ -65,7 +65,7 @@
    "concept": "Each of us is different",
    "status": "defined",
    "definition": "No two people are exactly the same. We differ in how we look, how we sound and what we like.",
-   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell Amma from Paati with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.",
+   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.",
    "examples": [
     "You can know who is calling you just from their voice.",
     "Two sisters can have different favourite colours.",
@@ -114,10 +114,10 @@
    "concept": "Being kind",
    "status": "defined",
    "definition": "Being kind means helping someone, or doing something that makes them feel better.",
-   "description": "When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. Humans are not the only kind animals. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
+   "description": "When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
    "examples": [
     "Asking a new child to play with you.",
-    "Bringing water for Thatha when he is tired.",
+    "Bringing water for a tired grown-up.",
     "Waiting for a slower friend on a walk."
    ],
    "perspectives": [],
@@ -167,7 +167,7 @@
  ],
  "big_questions": [
   {
-   "q": "When you and Amma eat the same mango, do you taste the same thing?",
+   "q": "When you and a grown-up eat the same mango, do you taste the same thing?",
    "kind": "deep",
    "hint": "Think about the taste test. Did everyone pull the same face?"
   },
@@ -182,9 +182,9 @@
    "hint": "Your face and your likes change as you grow. What stays the same?"
   },
   {
-   "q": "Why do you think people, crows and elephants help each other?",
+   "q": "Which is bigger: how alike people are, or how different they are?",
    "kind": "big",
-   "hint": "Think of a time someone helped you. How did it feel?"
+   "hint": "Think of the mirror and the taste test. What did you find that was the same? What was different?"
   }
  ],
  "story": {
@@ -234,7 +234,7 @@
    "id": "g1",
    "title": "Stand Up If…: who is like me?",
    "mins": 10,
-   "players": "2 or more players and a caller",
+   "players": "2 or more players. One person is the caller.",
    "context": "This is a moving game about being similar and different. The caller reads a card. Everyone it is true for stands up. Some cards make everyone stand, and some make only one or two stand.",
    "printables": [
     {
@@ -282,8 +282,8 @@
        "b": "Count who stands. Not everyone can."
       },
       {
-       "f": "Stand up if you have ten toes.",
-       "b": "Most people stand. Most people have ten toes."
+       "f": "Stand up if you have a mouth.",
+       "b": "Everyone stands: every person has a mouth."
       },
       {
        "f": "Stand up if you like the rain.",
@@ -344,7 +344,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Read each card. 2. Count who stands. 3. Put the card on the right pile.",
-     "say": "Stand up if you have two eyes. Look, everyone is standing! Now, stand up if you like karela.",
+     "say": "Stand up if you have a nose. Look, everyone is standing! Now, stand up if you like karela.",
      "kid": "Stand up if it is true for you. Look who is standing with you.",
      "ask": [
       {
@@ -399,7 +399,7 @@
    "id": "g2",
    "title": "Kind Hands: act out a kind thing",
    "mins": 15,
-   "players": "2 to 4 players",
+   "players": "2 to 4 players. With 2, one is the grown-up and one is the child, and you take turns.",
    "context": "This is an acting game about being kind. Each card shows someone who needs help or feels sad. The player acts out a kind thing to do.",
    "printables": [
     {
@@ -411,12 +411,12 @@
        "b": "You could sit with her and ask her name."
       },
       {
-       "f": "Your little brother drops his ice cream.",
-       "b": "You could share yours, or give him a hug."
+       "f": "A little child drops their ice cream.",
+       "b": "You could share yours, or give a hug."
       },
       {
-       "f": "Paati is carrying a heavy bag of vegetables.",
-       "b": "You could carry one bag for her."
+       "f": "A grandparent or a neighbour is carrying a heavy bag of vegetables.",
+       "b": "You could carry one bag."
       },
       {
        "f": "A friend falls down and cries.",
@@ -431,12 +431,12 @@
        "b": "You could say, 'That's okay, we like different things.'"
       },
       {
-       "f": "Someone in class is laughed at for their accent.",
-       "b": "You could stand with them and say, 'I like how you talk.'"
+       "f": "A child at school talks in a way the others laugh at.",
+       "b": "You could stand next to them and say, 'I like how you talk.'"
       },
       {
-       "f": "Amma is tired after work.",
-       "b": "You could bring her a glass of water."
+       "f": "A grown-up at home is tired after work.",
+       "b": "You could bring them a glass of water."
       },
       {
        "f": "Your friend cannot find their pencil.",
@@ -447,12 +447,12 @@
        "b": "You could change the game so everyone can play."
       },
       {
-       "f": "Your sister is scared of the thunder.",
-       "b": "You could sit close to her and hold her hand."
+       "f": "A small child at home is scared of the thunder.",
+       "b": "You could sit close and hold their hand."
       },
       {
        "f": "An ant is stuck in a drop of water on the table.",
-       "b": "You could let the ant climb onto a scrap of paper and move them away."
+       "b": "You could let the ant climb onto a scrap of paper and put her down somewhere dry."
       }
      ]
     }
@@ -587,13 +587,13 @@
      "id": "s2",
      "mins": 4,
      "do": "Point to each person and each food. Ask your child to guess the thumb, and to say why. Write the guesses in pencil on a separate paper.",
-     "say": "Will Paati like the karela? Will Appa like the lime? Thumbs up, sideways or down? Why do you think so?",
+     "say": "Will this person like the karela? Will that person like the lime? Thumbs up, sideways or down? Why do you think so?",
      "kid": "Guess. Will each person like each food? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
        "good": [
-        "Paati will like karela, because she cooks karela a lot.",
+        "A grown-up will like karela, because they cook it a lot.",
         "Everyone will like jaggery, because jaggery is sweet."
        ]
       }
@@ -612,7 +612,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Help your child draw each person's thumb in the right box of the table.",
-     "say": "What did Paati show for the karela? Draw her thumb in that box.",
+     "say": "What did this person show for the karela? Draw their thumb in that box.",
      "kid": "Draw each thumb in the right box."
     },
     {
@@ -710,7 +710,7 @@
    "context": "In this experiment you close your eyes, and people at home say hello to you, one at a time. You guess who is talking. Then they whisper, and you guess again.",
    "question": "Can you tell who is talking just from their voice? Is it harder when they whisper?",
    "predict": "Guess first. How many people will you get right when they talk? When they whisper? Why do you think so?",
-   "fair_test": "Each person says the same words, 'Hello, how are you?', from the same spot across the room. A grown-up points to who speaks, in a mixed-up order, so the child cannot guess from the order.",
+   "fair_test": "Each person says the same words, 'Hello, how are you?', from the same spot across the room. Before you start, a grown-up writes the speakers' names on a paper in a mixed-up order, so the child cannot guess from the order. Everyone speaks in that order, then in a new mixed-up order for whispering.",
    "results_table": [
     "Who spoke",
     "Talking: my guess",
@@ -722,8 +722,8 @@
      "qty": 1
     },
     {
-     "item": "at least 3 people at home, or 2 people and a phone with a recorded voice of a relative",
-     "qty": "3 or more"
+     "item": "at least 2 people to speak (the grown-up and one more), or 1 person and a phone with a recorded voice of a relative",
+     "qty": "2 or more"
     },
     {
      "item": "a sheet of paper and a pencil",
@@ -750,7 +750,7 @@
        "q": "How many will you get right? Why?",
        "good": [
         "All of them, because I know everyone's voice.",
-        "Most of them, but Amma and Chithi sound alike."
+        "Most of them, but two people sound alike."
        ]
       }
      ]
@@ -758,7 +758,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Point to one person at a time, in a mixed-up order. 2. Each says 'Hello, how are you?' in a normal voice. 3. Your child guesses. 4. Mark a tick or a cross.",
+     "do": "1. Say the next name on the paper. 2. That person says 'Hello, how are you?' in a normal voice. 3. Your child guesses. 4. Mark a tick or a cross.",
      "say": "Listen. Who is this?",
      "kid": "Listen. Who is talking?"
     },
@@ -781,13 +781,13 @@
        "q": "Why was whispering harder?",
        "good": [
         "Because whispers all sound the same.",
-        "Because a whisper has no real voice in it."
+        "Because a whisper has no buzz in it."
        ]
       }
      ],
      "check": {
       "t": "mcq",
-      "q": "You could tell Amma's voice from Appa's voice. What does this show?",
+      "q": "You could tell one person's voice from another's. What does this show?",
       "options": [
        "Every person's voice is a little different",
        "Everyone has the same voice",
@@ -879,14 +879,14 @@
      "kid": "Draw you and your partner. Circle a same thing and a different thing.",
      "check": {
       "t": "mcq",
-      "q": "You and Amma both have two eyes. What is the word for this?",
+      "q": "You and a grown-up both have two eyes. What is the word for this?",
       "options": [
        "Similar",
        "Different",
        "Kind"
       ],
       "a": 0,
-      "why": "Similar means alike in some way. Every person has two eyes, so you and Amma are similar there."
+      "why": "Similar means alike in some way. Every person has two eyes, so you and the grown-up are similar there."
      }
     }
    ],
@@ -1023,7 +1023,7 @@
      "id": "s3",
      "mins": 7,
      "do": "1. Your child asks each person at home. 2. Phone two or three relatives so your child can ask them too. 3. Your child makes a tally mark for each answer.",
-     "say": "Ask Paati on the phone: 'What is your favourite fruit?'",
+     "say": "Ask a relative on the phone: 'What is your favourite fruit?'",
      "kid": "Ask: 'What is your favourite fruit?' Make a line."
     },
     {
@@ -1284,7 +1284,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Your child asks two or three people what snacks they like.",
-     "say": "Go and ask Appa and Paati what snack they like best.",
+     "say": "Go and ask two people at home what snack they like best.",
      "kid": "Ask people: 'What snack do you like?'"
     },
     {
@@ -1298,11 +1298,11 @@
      "id": "s4",
      "mins": 3,
      "do": "Check the plate together, person by person.",
-     "say": "Let's check. Is there something here for Paati? For Appa? For you?",
+     "say": "Let's check. Is there something here for each person?",
      "kid": "Check: is there something for everyone?",
      "check": {
       "t": "mcq",
-      "q": "Paati loves sour things and Appa loves sweet things. What plate will make both happy?",
+      "q": "One guest loves sour things and another guest loves sweet things. What plate will make both happy?",
       "options": [
        "A plate with only laddoos",
        "A plate with laddoos and lime pickle",
@@ -1366,17 +1366,6 @@
      "art": "A lump of jaggery, half a lime, a karela and a heap of salt on the left, and the four taste words on the right, mixed up."
     },
     {
-     "t": "mcq",
-     "p": "Which of these do all people need?",
-     "opts": [
-      "Curly hair",
-      "Water",
-      "A cricket bat"
-     ],
-     "a": 1,
-     "why": "Every person needs water to live. Curly hair and a cricket bat are not needed by everyone."
-    },
-    {
      "t": "truefalse",
      "p": "Every person has a heart beating inside them.",
      "a": true,
@@ -1438,15 +1427,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the taste test, which food got a thumbs up from almost everyone?",
+     "p": "In the story, Nila, her father and her grandmother all showed thumbs up for one food. Which one?",
      "opts": [
       "Jaggery",
-      "Karela",
-      "Lime"
+      "Pavakkai (karela)",
+      "Neither"
      ],
      "a": 0,
-     "why": "Nearly all people like sweet tastes, even new babies. So jaggery usually gets the most thumbs up. Karela and lime get more mixed thumbs.",
-     "how": "e1"
+     "why": "All three of them gave the jaggery a thumbs up. Sweet is a taste nearly everyone likes. The pavakkai got three different thumbs."
     },
     {
      "t": "draw",
@@ -1488,17 +1476,6 @@
      "why": "Many children think that if they dislike a food, the food is bad for everyone. The taste test shows the same food can taste different in each mouth."
     },
     {
-     "t": "mcq",
-     "p": "Fathima drops all her crayons on the floor. What is the kind thing to do?",
-     "opts": [
-      "Laugh at her",
-      "Help her pick them up",
-      "Walk away"
-     ],
-     "a": 1,
-     "why": "Helping Fathima pick up her crayons is kind. It helps her, and it shows you care how she feels."
-    },
-    {
      "t": "label",
      "p": "Here are four faces. Label each one: happy, sad, scared or angry.",
      "labels": [
@@ -1519,7 +1496,7 @@
     },
     {
      "t": "truefalse",
-     "p": "With your eyes closed, you can tell Amma's voice from Appa's voice.",
+     "p": "With your eyes closed, you can tell one grown-up's voice from another's.",
      "a": true,
      "why": "True. Each person's voice is a little different, so we can tell people apart just by listening.",
      "how": "e2"
@@ -1621,14 +1598,6 @@
      "art": "A large empty circle for a plate."
     },
     {
-     "t": "fill",
-     "p": "Every person needs air, water, food and ____.",
-     "a": [
-      "sleep"
-     ],
-     "why": "Every person needs sleep. Babies, children and grown-ups all sleep every day. Love and care from other people are needed too."
-    },
-    {
      "t": "sort",
      "p": "Sort these into two groups: things all people share, and things that are only yours.",
      "cats": [
@@ -1649,7 +1618,7 @@
        "All people share"
       ],
       [
-       "your name",
+       "your favourite colour",
        "Only yours"
       ],
       [
@@ -1662,7 +1631,7 @@
       ]
      ],
      "a": "see items",
-     "why": "All people have bones, need water and laugh. Your fingerprints are yours alone, and your name and favourite song are your own. Someone else may share your name, but not your fingerprints."
+     "why": "All people have bones, need water and laugh. Your fingerprints are yours alone, and so are your favourite colour and song."
     },
     {
      "t": "mcq",
@@ -1681,18 +1650,6 @@
      "lines": 2,
      "a": "Amma did not like coffee as a child, but she likes coffee now.",
      "why": "A strong answer reports a real food. Many people learn to like bitter or sour foods as they grow and eat them again and again."
-    },
-    {
-     "t": "odd",
-     "p": "Three of these are the same for all people. Which one is different from person to person?",
-     "opts": [
-      "Having a heart",
-      "Needing sleep",
-      "Favourite food",
-      "Needing water"
-     ],
-     "a": 2,
-     "why": "All people have a heart and need sleep and water. Favourite foods are different from person to person."
     },
     {
      "t": "label",
@@ -1716,7 +1673,7 @@
     },
     {
      "t": "mcq",
-     "p": "In 1931, a scientist called Arthur Fox tasted nothing in a white powder. His friend said the same powder was very bitter. What did this show?",
+     "p": "In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?",
      "opts": [
       "The friend was making it up",
       "The same powder can taste different to different people",
@@ -1839,7 +1796,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the voice test, why does the grown-up point to people in a mixed-up order?",
+   "p": "In the voice test, why are the speakers' names written in a mixed-up order?",
    "opts": [
     "So the child cannot guess from the order",
     "To make it noisy",
@@ -1873,22 +1830,20 @@
    "check": "Find a real clip from a study or a science programme, not acted, showing newborn faces to sweet and bitter tastes."
   },
   {
-   "title": "Elephants comforting an upset elephant",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Elephant Empathy | ScienceTake | The New York Times",
+   "channel": "The New York Times",
+   "youtube": "qQcScYqxUzc",
    "mins": 3,
    "why": "Shows kindness in other animals: elephants touching and calling to another elephant who is upset.",
-   "check": "Find real footage, ideally linked to Joshua Plotnik and Frans de Waal's 2014 study of Asian elephants in Thailand. No scary scenes."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "How your tongue tastes: taste buds for children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How Do We Taste our Food? | The Sense of Taste | What Are Taste Buds? | The Dr. Binocs Show",
+   "channel": "Peekaboo Kidz",
+   "youtube": "imkwAY2PtLw",
    "mins": 4,
    "why": "Shows the bumps on the tongue up close and how taste buds sense sweet, sour, salty and bitter.",
-   "check": "Make sure the video does not show the old 'tongue map', where each taste has its own zone. That idea is wrong: every part of the tongue can sense every taste."
+   "check": "Not yet watched by a person: watch it first."
   }
  ],
  "applications": [
@@ -1935,7 +1890,7 @@
   }
  ],
  "ask_kids": [
-  "What is one way you and Appa are similar? One way you are different?",
+  "What is one way you and a grown-up at home are similar? One way you are different?",
   "Is there a food you did not like before, but like now?",
   "Who in our family has a voice you could know with your eyes closed?",
   "What kind thing did someone do for you today? How did it feel?",
@@ -1972,12 +1927,12 @@
    "a": "Because a trunk hug is the biggest hug of all!"
   },
   {
-   "j": "What did the tongue say to the jaggery?",
-   "a": "You taste like a treat!"
+   "j": "Why did the mango go to the doctor?",
+   "a": "Because it was not peeling well!"
   },
   {
-   "j": "Why did Paati smile at the karela?",
-   "a": "Because she had grown to love the bitter-sweet things in life!"
+   "j": "What do you call a crow who tells jokes?",
+   "a": "A cawmedian!"
   }
  ],
  "maths": [
@@ -2163,9 +2118,9 @@
   "three": {
    "who_am_i": "You are a person like every other person, with the same body parts and the same needs. You are also the only one with your face, your voice and your tastes.",
    "what_is_life": "Every living being senses the world in their own way. A tongue, a nose and an ear each meet the world and tell you about it.",
-   "what_is_this_world": "The world is full of people who are like you and not like you. A crow, an elephant and a rat are not like you either, and they help each other too."
+   "what_is_this_world": "People are not the only ones who help each other. Crows, elephants and rats do too."
   },
-  "thread": "All people share the same body plan, and almost all the same genes. From that one shared plan come billions of people, each with their own face, voice and taste. The same is true of every living being: one way of life, many ways of sensing it. Everything is conscious, and each being feels the world from where they are. Knowing this, we ask others what they feel, instead of guessing.",
+  "thread": "People share the same body parts and almost all the same genes, yet each of us looks, sounds and tastes in our own way. Everything is conscious, and every being feels the world from where they are. So when we want to know what another person feels, we ask them instead of guessing.",
   "teachings": [
    {
     "source": "Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching",
@@ -2180,7 +2135,7 @@
    {
     "source": "Tattvartha Sutra 5.21, a Jain text",
     "teaching": "Living beings help one another.",
-    "link": "People help each other, and so do elephants and rats. This Jain teaching says helping is what all living beings do."
+    "link": "People help each other, and so do elephants and rats. This Jain teaching says that helping each other is what living beings do."
    }
   ],
   "science": [
@@ -2200,17 +2155,17 @@
   "practice": {
    "title": "A slow taste",
    "mins": 3,
-   "say": "Close your eyes. I will put a small piece of jaggery on your tongue. Don't chew yet. Just feel it. Is it sweet straight away, or slowly? Now chew slowly. Now think of Paati eating the same jaggery. Is she tasting what you taste? We can only ask her.",
-   "kid": "Close your eyes. Put a bit of jaggery on your tongue. Don't chew. Feel the sweet come. Now chew slowly. Does Paati taste the same?"
+   "say": "Close your eyes. I will put a small piece of jaggery on your tongue. Don't chew yet. Just feel it. Is it sweet straight away, or slowly? Now chew slowly. Now think of someone at home eating the same jaggery. Are they tasting what you taste? We can only ask them.",
+   "kid": "Close your eyes. Put a bit of jaggery on your tongue. Don't chew. Feel the sweet come. Now chew slowly. Does someone else taste the same?"
   },
   "ask": [
-   "When Amma tastes the same mango, how could you find out what she tastes?",
+   "A friend says 'yuck' to a food you love. What could you say or do?",
    "What would be lost if everyone liked exactly the same things?",
    "Who is someone different from you that you would like to know better?"
   ],
   "art": "A girl with her eyes closed, a small piece of jaggery on her tongue, and her grandmother beside her, also tasting, both smiling in their own way."
  },
- "playtest": "Every activity was walked through as if in a city flat. The taste test needs only jaggery, a lime and a karela (or methi seeds), and at least 3 people; karela is safe raw in a thin slice, and the steps say a child may spit it out. Tasting with eyes closed and showing thumbs on 'three' stops copying. If all thumbs match, the parent note says to ask how strong each taste was, which nearly always differs. The voice test works with 3 people; if the child gets every whisper right, the note says this is a real result and suggests a less familiar voice. The fruit tally works with phone calls to relatives when the household is small.",
+ "playtest": "Walked through every game, experiment, activity, project and sheet as a parent and child in a city flat would, reading aloud. Games: both printables list every card (20 and 12); the 'ten toes' card did not fit the Everyone/Some piles, so it is now 'a mouth'; kindness cards no longer assume a brother, sister or Paati; both games work with 2 players. Taste test: steps and minutes agree (25), steps no longer name made-up people, and the sheet question now asks about the story, not a result the family may not get. Voice test: the speaker order is now written on paper by a grown-up, so it works with 2 speakers or a recorded voice, and minutes agree (15). Cut two repeated worksheet items from each sheet, replaced a joke that was not funny, fixed a Fox story mismatch, and removed repeated mango questions and 'Amma/Paati/Appa' from family-facing steps.",
  "how_we_found_out": {
   "story": "In 1931, Arthur Fox, a chemist in the USA, was pouring a white powder into a bottle. Some of the powder flew up into the air. The man working next to him said the dust tasted very bitter. Fox was surprised. He tasted nothing at all, even when he put some powder on his tongue. Until then, most people thought a food or a chemical tastes the same to everyone. Fox gave the powder to his friends and family. Some found it horribly bitter. Others tasted nothing. Other scientists tested many families, and found that tasting this powder runs in families, like the shape of your nose. In the 1990s, Linda Bartoshuk, an American taste scientist, found that some people taste bitter things much more strongly than most. She called them supertasters. So when your family makes different faces at karela, they may really be tasting it differently.",
   "who": "Arthur Fox, a chemist in the USA, and later Linda Bartoshuk, an American taste scientist",

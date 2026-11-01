@@ -1413,38 +1413,90 @@ function fxDaySteps(u, n) {
 function dkUnitOpen(id) {
   if (["combined", "none"].includes(S.board)) return true;
   const B = boardsOn();
-  return DATA.items.some((i) => B.includes(i.board) && (i.c?.units || []).some((x) => x.id === id));
+  return unitChapters(id).some((i) => B.includes(i.board));
 }
-const fxLockedCard = (x, I) =>
-  `<div class="fxucard locked"><button class="fxopenbtn" data-act="fxopen" data-u="${esc(x.id)}">${I.img?.summary ? `<img src="${esc(I.img.summary)}" alt="">` : "<span>🔒</span>"}<span><b>${esc(x.title)}</b> <span class="lk">🔒</span><br><span class="xs muted">On the DeepKids track · not linked to your board's chapters</span></span></button></div>`;
+// the lessons and board chapters that link to a unit
+const unitChapters = (id) => DATA.items.filter((i) => (i.c?.units || []).some((x) => x.id === id));
+// the picture on a unit's card (app/build/combined/build.py picks it), or the subject's picture if the unit has none
+const unitPic = (id) => DATA.units?.[id]?.pic || `media/ui/subj-${id.split(".")[0] === "sci" ? "sci" : "dks"}.jpg`;
+const firstSentence = (t) => String(t || "").split(/(?<=[.?!])\s/)[0];
+// "NCERT Class 3 Ch 2, 9 · Cambridge Unit 3.1–3.3": the board chapters a lesson covers ([{b, ref}]), in one line,
+// for the family's own boards when it covers any of them
+function coversLine(refs) {
+  const mine = refs.filter((r) => boardsOn().includes(r.b)),
+    G = new Map();
+  for (const { b, ref } of mine.length ? mine : refs) {
+    const [, pre, n] = String(ref).match(/^(.*?) ?([\d.]+)$/) || [ref, ref, ""],
+      B = G.get(b) || new Map();
+    G.set(b, B.set(pre, [...(B.get(pre) || []), n]));
+  }
+  // 3.1, 3.2, 3.3 -> 3.1–3.3
+  const runs = (ns) =>
+    [...new Set(ns)]
+      .reduce((R, n) => {
+        const r = R[R.length - 1],
+          [p, last] = [n.replace(/\d+$/, ""), +n.match(/\d+$/)?.[0]];
+        if (r && r.p === p && r.last + 1 === last) {
+          r.ns.push(n);
+          r.last = last;
+        } else R.push({ p, last, ns: [n] });
+        return R;
+      }, [])
+      .map((r) => (r.ns.length > 2 ? `${r.ns[0]}–${r.ns[r.ns.length - 1]}` : r.ns.join(", ")))
+      .join(", ");
+  const L = [...G].map(
+    ([b, B]) => `${BNAME[b] || b} ${[...B].map(([pre, ns]) => `${pre} ${runs(ns)}`.trim()).join("; ")}`,
+  );
+  return L.length ? `Covers ${esc(L.slice(0, 3).join(" · "))}${L.length > 3 ? " and more" : ""}` : "";
+}
+// one card for a unit or lesson in the Library: its picture, title and first line, a few short facts (html), and foot
+const unitCard = ({ act, pic, title, gist, facts, foot = "", locked }) =>
+  `<div class="fxucard${locked ? " locked" : ""}"><button class="fxopenbtn" ${act}><img src="${esc(pic)}" alt="" loading="lazy"><span><b>${esc(title)}</b>${locked ? ' <span class="lk">🔒</span>' : ""}${gist ? `<span class="fxgist sm">${esc(gist)}</span>` : ""}</span></button>${facts.some(Boolean) ? `<p class="fxfacts xs">${facts.filter(Boolean).join("<br>")}</p>` : ""}${foot}</div>`;
+const CHREF = {
+  ncert: (i) => `Class ${i.level} Ch ${i.n}`,
+  cambridge: (i) => `Stage ${i.level} Unit ${i.n}`,
+  nios: (i) => `Lesson ${i.n}`,
+};
 const fxUnitBtns = (L) =>
   L.map((x) => {
-    if (!dkUnitOpen(x.id)) return fxLockedCard(x, DATA.units?.[x.id] || {});
     const I = DATA.units?.[x.id] || {},
       k = "unit|" + x.id,
       u = unitBy(k),
       P = I.parts || [],
       X = fxStates(x.id),
-      isD = (p) => X[P.indexOf(p)] === "done",
-      nd = P.filter(isD).length,
+      nd = X.filter((z) => z === "done").length,
       np = X.filter((z) => z === "pending").length,
       SD = u ? fxSpineDays(u) : [],
-      tot = P.reduce((a, p) => a + p[3], 0),
       D = u ? fxDayPlan(u) : [],
-      di = Math.max(
-        0,
-        D.findIndex((d) => d.some((p) => !isD(p))),
-      ),
-      day = D[di] || [],
-      s = u?.subj || "sci";
-    return `<div class="fxucard"><button class="fxopenbtn" data-act="fxopen" data-u="${esc(x.id)}">${I.img?.summary ? `<img src="${esc(I.img.summary)}" alt="">` : "<span>▶</span>"}<span><b>${esc(x.title)}</b><br><span class="xs muted">Subtopic: ${esc(I.subtopic || "")} · Topic: ${esc(I.topic || "")}</span></span></button>
-  <ul class="fxustat xs"><li><b>Next session:</b> ${day.reduce((m, p) => m + p[3], 0)} min · ${di < SD.length ? `core session ${di + 1} of ${SD.length}` : "go deeper"}: ${day
-    .map((p) => esc(p[1]))
-    .slice(0, 3)
-    .join(
-      ", ",
-    )}${day.length > 3 ? "…" : ""}</li><li><b>Whole unit:</b> about ${Math.round((tot / 60) * 10) / 10} hours, ${D.length} sessions</li><li><b>Core path:</b> ${SD.length} sessions${u && rank[fxUnitSt(k)] >= 2 ? " · done ✔" : ""} · <b>Go deeper:</b> ${u ? fxDeeper(u).length : 0} more parts</li><li><b>Done:</b> ${nd} of ${P.length} parts${np ? ` · ${np} pending` : ""}</li></ul>
-  ${(S.extra?.[s] || []).includes(k) ? `<p class="xs"><b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button></p>` : `<div class="row" style="align-items:center"><button class="btn sm" data-act="fxq" data-front="1" data-s="${s}" data-k="${esc(k)}">＋ Add to plan</button><button class="link xs" data-act="fxq" data-s="${s}" data-k="${esc(k)}">or add it at the end</button></div>`}</div>`;
+      s = u?.subj || "sci",
+      open = dkUnitOpen(x.id),
+      covers = coversLine(
+        unitChapters(x.id)
+          .filter((i) => CHREF[i.board])
+          .sort((a, b) => a.level - b.level || a.n - b.n)
+          .map((i) => ({ b: i.board, ref: CHREF[i.board](i) })),
+      );
+    return unitCard({
+      act: `data-act="fxopen" data-u="${esc(x.id)}"`,
+      pic: unitPic(x.id),
+      title: x.title,
+      gist: firstSentence(I.summary?.text),
+      locked: !open,
+      facts: open
+        ? [
+            SD.length < D.length
+              ? `About ${SD.length} session${SD.length === 1 ? "" : "s"} to start · ${D.length} sessions in all`
+              : `About ${D.length} session${D.length === 1 ? "" : "s"}`,
+            covers,
+            nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? ` · ${np} with questions left` : ""}` : "",
+          ]
+        : ["On the DeepKids track · not linked to your board's chapters"],
+      foot: !open
+        ? ""
+        : (S.extra?.[s] || []).includes(k)
+          ? `<p class="xs"><b>✓ In the plan</b> · ${(S.next?.[s] || [])[0] === k ? "comes next" : "in the queue"} · <button class="link xs" data-fxsee="${s}" data-k="${esc(k)}">See it in Plan</button></p>`
+          : `<div class="row" style="align-items:center"><button class="btn sm" data-act="fxq" data-front="1" data-s="${s}" data-k="${esc(k)}">＋ Add to plan</button><button class="link xs" data-act="fxq" data-s="${s}" data-k="${esc(k)}">or add it at the end</button></div>`,
+    });
   }).join("");
 // what a locked unit says when tapped
 const dkLocked = () =>

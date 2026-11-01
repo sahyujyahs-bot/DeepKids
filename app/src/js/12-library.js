@@ -5,25 +5,26 @@ function combinedTopicList() {
       .map(Number)
       .sort((a, b) => a - b),
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
-    L = (DATA.combined?.[sj] || {})[lv] || [];
-  const row = (e) => {
-    const u = e.k && unitByK(e.k),
-      boards = [...new Set(e.boards.map((b) => BNAME[b.b] || b.b))].join(", ");
-    if (u) return topicRow(u);
-    return `<div class="topic ${SC(sj)}"><div class="trow plain"><span class="no">${esc((e.title || "?")[0])}</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(e.title)}</b><br><span class="xs muted">Taught by ${esc(boards)} in Class ${lv} · DeepKids version being written</span><div class="row chips" style="margin-top:4px;flex-wrap:wrap">${(
-      e.use || []
-    )
-      .map((k) => {
-        const v = unitByK(k);
-        return v
-          ? `<button class="chip" style="white-space:normal;text-align:left;height:auto;min-height:36px;line-height:1.3;padding:6px 12px" data-act="chapter" data-k="${k}">${esc(BNAME[v.board] || v.board)}: ${esc(v.title)}</button>`
-          : "";
-      })
-      .join("")}</div></span></div></div>`;
-  };
-  return `<div class="sech"><h3 style="font-size:18px">Lessons by class</h3></div>
-   <div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
-   <p class="xs muted">Your Class ${lv} plan on the DeepKids track. It covers every science topic any board teaches in Class ${lv}, ${((n) => (n === L.length ? "each through a DeepKids lesson." : `${n} of ${L.length} through a DeepKids lesson; the others use the board's chapters for now.`))(L.filter((e) => e.k).length)}</p>${L.map(row).join("")}`;
+    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
+  return `<div class="row chips">${cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join("")}</div>
+   <h3 class="fxsh">Class ${lv} · ${L.length} topics</h3><p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
+}
+// a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
+function combinedCard(e) {
+  const u = unitByK(e.k),
+    s = st(u.k),
+    n = u.c?.p?.days?.length;
+  return unitCard({
+    act: `data-act="chapter" data-k="${esc(u.k)}"`,
+    pic: unitPic(e.units?.[0]?.id || u.subj),
+    title: u.title,
+    gist: firstSentence(u.c?.p?.summary),
+    facts: [
+      n ? `About ${n} session${n === 1 ? "" : "s"}` : "",
+      coversLine(e.boards),
+      s === "none" ? "" : `<b>${STATUS[s]}</b>`,
+    ],
+  });
 }
 // DeepKids track in the Library: per subject, the written units and topic ladder
 function dkTrackBrowse() {
@@ -31,18 +32,18 @@ function dkTrackBrowse() {
     sj = subjs.includes(ui.bs) ? ui.bs : "sci",
     chips = `<div class="row chips">${subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div>`;
   if (sj !== "sci")
-    return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is being written. For now, its chapters are under Board track.</p>`;
+    return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is coming soon. For now, its chapters are under Board track.</p>`;
   return chips + combinedBrowse();
 }
-// DeepKids Science two ways: the class plan, or every topic with its levels 1 to 5
+// DeepKids Science two ways, picked under View: the class plan, or every topic with its levels 1 to 5
 function combinedBrowse() {
   const view = ui.dkview === "topic" ? "topic" : "class";
-  return `<div class="seg">${[
-    ["class", "By class"],
-    ["topic", "By topic and level"],
+  return `<label class="row viewpick"><span class="sm">View</span><select class="inp" id="dkView">${[
+    ["class", "Class plan"],
+    ["topic", "All topics and levels"],
   ]
-    .map(([k, n]) => `<button aria-pressed="${view === k}" data-act="dkview" data-v="${k}">${n}</button>`)
-    .join("")}</div>${view === "class" ? combinedTopicList() : fxTopicLadder()}`;
+    .map(([k, n]) => `<option value="${k}"${view === k ? " selected" : ""}>${n}</option>`)
+    .join("")}</select></label>${view === "class" ? combinedTopicList() : fxTopicLadder()}`;
 }
 // every science topic, strand by strand, then level by level: a written unit opens (any family can add it to the
 // plan alongside the class plan); the rest show as being written
@@ -53,20 +54,24 @@ function fxTopicLadder() {
       DATA.units?.[id]
         ? `<p class="xs">${tag(board)}</p>${fxUnitBtns([DATA.units[id]])}`
         : `<p class="fxsoon sm">${esc(name)} · being written ${tag(board)}</p>`,
-    topic = (t) => {
-      const L = t.levels.flatMap(([, subs]) => subs);
-      return `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${L.filter(([id]) => DATA.units?.[id]).length} of ${L.length} written</span></summary>${t.levels.map(([l, subs]) => `<p class="fxlvl"><b>Level ${l}</b> · Class ${DATA.levels?.[l]?.cls || l}</p>${subs.map(lesson).join("")}`).join("")}</details>`;
-    };
+    // "7 units · 23 coming": how many of these topics' lessons are written, and how many are still to come
+    count = (L) => {
+      const n = L.filter(([id]) => DATA.units?.[id]).length;
+      return [n ? `${n} unit${n === 1 ? "" : "s"}` : "", n < L.length ? `${L.length - n} coming` : ""]
+        .filter(Boolean)
+        .join(" · ");
+    },
+    lessons = (t) => t.levels.flatMap(([, subs]) => subs),
+    topic = (t) =>
+      `<details class="fxgrp"><summary><b>${esc(t.name)}</b> <span class="pill">${count(lessons(t))}</span></summary>${t.levels.map(([l, subs]) => `<p class="fxlvl"><b>Level ${l}</b> · Class ${DATA.levels?.[l]?.cls || l}</p>${subs.map(lesson).join("")}`).join("")}</details>`;
   return T.length
-    ? `<section class="card fxnew"><span class="eyebrow">Every science topic · ${T.length} topics · ${Object.keys(DATA.units || {}).length} units written</span><p class="sm">${["combined", "none"].includes(S.board) ? "Every written unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
+    ? `<section class="card fxnew"><span class="eyebrow">Every science topic · ${T.length} topics · ${Object.keys(DATA.units || {}).length} units</span><p class="sm">${["combined", "none"].includes(S.board) ? "Every unit is open to you, whatever your class." : "The units for your board's chapters are open to you. The ones with a 🔒 are on the DeepKids track."} Add any open unit to your plan, alongside your class plan. Younger children can do them with more help from you.</p>${[
         ...new Set(T.map((t) => t.strand)),
       ]
-        .map(
-          (st) =>
-            `<h3 class="fxsh">${esc(st)}</h3>${T.filter((t) => t.strand === st)
-              .map(topic)
-              .join("")}`,
-        )
+        .map((st) => {
+          const ts = T.filter((t) => t.strand === st);
+          return `<h3 class="fxsh">${esc(st)} <span class="xs muted">${ts.length} topic${ts.length === 1 ? "" : "s"} · ${count(ts.flatMap(lessons))}</span></h3>${ts.map(topic).join("")}`;
+        })
         .join("")}${fxSongBtns()}</section>`
     : "";
 }

@@ -119,6 +119,16 @@ def unit_games(u):
         if q: x.update(rules=g.get('rules', []), slips=[it if isinstance(it, str) else it.get('f', '') for p in pr if p.get('kind') != 'score sheet' for it in p.get('items', [])])
         out.append(x)
     return out
+# the picture on the unit's card: its summary picture, else its first intro, term, explanation or setup picture
+def card_pic(img):
+    kinds = ['summary', 'intro', 'term', 'expl', 'setup']
+    def order(k):
+        p = k.split('.')
+        return (kinds.index(p[0]), [int(x) if x.isdigit() else x for x in p[1:]])
+    for k in sorted((k for k in img if k.split('.')[0] in kinds), key=order):
+        src = img[k].get('src') if isinstance(img[k], dict) else img[k]
+        if src and os.path.exists(os.path.join(APP, 'content', src)): return src
+    return ''
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
@@ -145,7 +155,7 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
     sub0 = SUB.get(u['id'], {})
     data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "spine": u["plan"].get("spine", []), "req": bool(sub0.get("chapters")), "jokes": [[j.get("j", ""), j.get("a", ""), j.get("src", "unit")] for j in u.get("jokes", [])], "buy": [{"item": b.get("item", ""), "kind": b.get("kind", ""), "url": b.get("url", ""), "used_in": b.get("used_in", []), "plan": b.get("plan", "")} for b in u.get("buy", [])], "order": SUBI.get(u["id"], 9999), "games": unit_games(u), "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
-                              "img": {"summary": (u.get('img') or {}).get('summary', '')}, "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
+                              "pic": card_pic(u.get('img') or {}), "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
     ref = {"id": u['id'], "title": u['title']}
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']
     sub = SUB.get(u['id'], {})

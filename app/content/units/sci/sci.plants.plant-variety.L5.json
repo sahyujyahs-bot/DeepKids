@@ -349,7 +349,7 @@
    "\"Spores again,\" said Paati. \"But a moss is different from a fern. A moss has no veins, the tubes that carry water up a stem. So moss stays small, and lives where the ground is wet. And to make a new moss, the moss needs rain. A male cell has to swim through a film of water to reach the egg.\"",
    "\"And pines don't need rain for that, because of pollen,\" said Nila. \"The wind carries it.\"",
    "\"Now you know why botanists sort plants the way they do,\" said Paati. \"Not by colour, not by size. By how they make new plants.\"",
-   "Arjun carried the paper with the brown print all the way home to Chennai in a closed box. With Nila's help, he tipped the dust onto damp soil in a clay pot and covered the pot with a sheet of glass. For weeks nothing happened. Then a faint green film appeared. When Nila looked closely, she saw tiny flat green hearts, smaller than a fingernail. Paati said each heart was a little plant grown from a spore. Some months later, out of one of the hearts, a real fern leaf began to uncurl."
+   "Arjun carried the paper with the brown print all the way home to Chennai in a closed box. With Nila's help, he tipped the dust onto damp soil in a clay pot and covered the pot with a sheet of glass. For weeks nothing happened. Then a faint green film appeared. When Nila looked closely, she saw tiny flat green hearts, smaller than a fingernail. Paati said each heart was a little plant grown from a spore, and that underneath, a male cell swims through a drop of water to an egg. Some months later, out of one of the hearts, a real fern leaf began to uncurl."
   ],
   "epiphany": "For the parent: the brown dots under a fern leaf are sori, clusters of spore cases. A spore is a single cell with almost no food, which is why spores are so light and why ferns needed no seed. A spore grows first into a tiny flat heart-shaped plant, the prothallus. On it, male cells swim through water to an egg, and the young fern grows from there. Pine seeds sit naked on cone scales, and the cones open in dry air and close in damp air. Mosses have no veins and need water for their male cells to swim, so they stay small and live in damp places.",
   "ask": [
@@ -470,7 +470,7 @@
       },
       {
        "f": "Jasmine (malli): white flowers worn in the hair",
-       "b": "Flower group. Jasmine makes small fruits with seeds."
+       "b": "Flower group. Jasmine is known by her flowers; the cultivated kinds seldom set seed."
       },
       {
        "f": "Deodar: a tall tree on the hills around Shimla",
@@ -697,19 +697,19 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Write down the questions you asked in the best round. 2. Draw them as a key with yes and no arrows.",
-     "say": "Our best round is a key. Let's draw it.",
-     "kid": "Write your best questions in order. Draw yes and no arrows.",
+     "do": "1. Count the questions in your best round. 2. Halve 16 again and again until you reach 1, and count the halvings.",
+     "say": "Each good question cuts the cards in half. How many halvings does it take to get from 16 cards to one?",
+     "kid": "Count the questions in your best round. Halve 16 until you reach 1. How many halvings was that?",
      "check": {
       "t": "mcq",
-      "q": "Five cards are left: three ferns and two mosses. Which question splits them best?",
+      "q": "Every question cuts the cards exactly in half. What is the fewest yes-or-no questions that always finds one card out of 16?",
       "options": [
-       "Does the plant have veins?",
-       "Does the plant have flowers?",
-       "Is the plant green?"
+       "4",
+       "8",
+       "16"
       ],
       "a": 0,
-      "why": "Ferns have veins and mosses do not, so this question separates the two groups. None of them have flowers and all of them are green, so the other questions rule out nothing."
+      "why": "16 halves to 8, then 4, then 2, then 1. That is 4 questions. In real life a question rarely splits the cards exactly in half, so a real key often needs more."
      },
      "context": "This is the last step of Twenty Questions with a Key. Here you turn your best questions into a key."
     }
@@ -735,7 +735,7 @@
    ],
    "materials": [
     {
-     "item": "a table fan or a pedestal fan that blows sideways, standing on a table or stool so the air blows over the floor",
+     "item": "a table fan or a pedestal fan, standing on a table or stool and blowing straight across the room",
      "qty": 1
     },
     {
@@ -814,9 +814,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Put the fan on a table or stool at one end of a clear floor, aimed along the floor. 2. Lay the sheets of paper end to end on the floor in a straight line, about 2.5 metres long. Start under the spot 30 cm in front of the fan. 3. With the pencil, mark the edge of the paper every 25 cm from the start. 4. Set the fan to its lowest speed.",
+     "do": "1. Put the fan on a table or stool at one end of a clear floor, blowing straight across the room. 2. Lay the sheets of paper end to end on the floor in a straight line, about 2.5 metres long. Start under the spot 30 cm in front of the fan. 3. With the pencil, mark the edge of the paper every 25 cm from the start. 4. Set the fan to its lowest speed.",
      "say": "Today we test how far the wind can carry tiny things and bigger things. First, let's make a track to measure along.",
-     "kid": "Put the fan on a table, aimed along the floor. Lay the paper in a long line on the floor. Mark every 25 cm with a pencil. Set the fan to slow.",
+     "kid": "Put the fan on a table, blowing across the room. Lay the paper in a long line on the floor. Mark every 25 cm with a pencil. Set the fan to slow.",
      "parent": "The drop spot is about 30 cm in front of the fan, level with its middle. The air must flow past the falling things, so drop from that height, not from near the floor. Close windows, so the room's air stays still apart from the fan.",
      "context": "This is the first step of the Fan Test. Here you set up a paper track in front of a fan, so you can measure how far things travel."
     },
@@ -1156,7 +1156,7 @@
      "qty": 5
     },
     {
-     "item": "a few mustard seeds, a rajma bean soaked overnight, and a few whole jeera",
+     "item": "a few mustard seeds, a rajma bean soaked in water overnight (start the evening before), and a few whole jeera",
      "qty": "a few of each"
     },
     {
@@ -1200,15 +1200,15 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Ask the big question of the unit. 2. Write your child's first answer on a slip of paper to look at later.",
-     "say": "Ferns and mosses never make flowers, fruits or seeds. So how does a new fern grow on a wall?",
-     "kid": "Ferns and mosses never make seeds. How does a new fern grow? Write your guess.",
+     "do": "1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what it can have inside. 3. Write your child's guess to compare with the Fan Test.",
+     "say": "A fern spore is much smaller than the smallest of these. What could fit inside something so small, and what could not?",
+     "kid": "A fern spore is smaller than all of these. What could fit inside it? What could not? Write your guess.",
      "ask": [
       {
-       "q": "How do you think a new fern grows?",
+       "q": "What could a spore not have room for?",
        "good": [
-        "From something tiny that blows in the wind.",
-        "From a piece of an old fern."
+        "A young plant and a store of food.",
+        "A tough coat made of many cells."
        ]
       }
      ],
@@ -1463,7 +1463,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. At home, look at the photos together. 2. Use the Four-Question Key to sort each one. 3. Mark the places on a rough map of your building.",
+     "do": "1. At home, look at the photos together. 2. Use the key from A Key for the Four Plant Groups to sort each one. 3. Mark the places on a rough map of your building.",
      "say": "Where did we find the mosses? Where did we find the cone plants? Why there?",
      "kid": "Sort your photos into the groups. Mark where you found each one.",
      "ask": [
@@ -1503,6 +1503,10 @@
     {
      "item": "a measuring cup",
      "qty": 1
+    },
+    {
+     "item": "a small tea strainer or a thin cloth tied into a bundle",
+     "qty": "1"
     }
    ],
    "record": "Write how much water was left in each tumbler, and work out how much each one held.",
@@ -1520,9 +1524,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Push the moss into one tumbler and the soil into the other. 2. Wait two minutes. 3. Lift each one out and hold it over its tumbler for one minute while it drips.",
+     "do": "1. Put the moss in the strainer (or cloth) and push it into one tumbler. Rinse the strainer, put the soil in it and push it into the other tumbler. 2. Wait two minutes. 3. Lift each one out and hold it over its tumbler for one minute while it drips.",
      "say": "Which will hold more water, the moss or the soil? Why do you think so?",
-     "kid": "Guess which holds more water. Say why. Push each one into its tumbler. Wait. Lift it out and let it drip.",
+     "kid": "Guess which holds more water. Say why. Put the moss in a strainer and push it into one tumbler. Do the same with the soil. Wait. Lift each out and let it drip.",
      "context": "This is the first step of the Moss Sponge. Here you soak moss and dry soil in the same amount of water."
     },
     {
@@ -2037,7 +2041,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi in Kochi sees green moss on her wall in the monsoon. In April the same moss looks brown and dry. Why?",
+     "p": "Lakshmi, a girl in Class 5 in Kochi, sees green moss on her wall in the monsoon. In April the same moss looks brown and dry. Why?",
      "opts": [
       "Mosses grow and stay green only when they are wet",
       "Moss turns brown because they are old and dead",
@@ -2221,7 +2225,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Fan Test. Shalini's mustard seeds landed 15 cm, 20 cm and 25 cm away. What is the average?",
+     "p": "Shalini, a girl in Class 5, measured where her mustard seeds landed in the Fan Test: they landed 15 cm, 20 cm and 25 cm away. What is the average?",
      "opts": [
       "20 cm",
       "60 cm",
@@ -2241,20 +2245,20 @@
     },
     {
      "t": "perspective",
-     "p": "An old textbook and a botanist disagree about mosses.",
-     "a": "A strong answer separates 'came earlier' from 'is worse'. It may agree with either side, but uses evidence such as mosses living in Antarctica or peat bogs storing carbon, and gives one fair point from the other side.",
-     "why": "This is a real debate about words. Most botanists today avoid 'lower plants', but the word is still in some books.",
+     "p": "A school textbook says seaweeds are plants. A botanist says they are not.",
+     "a": "A strong answer separates 'makes food from sunlight', which many groups of living beings do, from 'is a close relative', which is what the family tree shows. It uses a fact from the unit: land plants came from green algae, but red and brown seaweeds sit on very different branches. It gives one fair point from the other side.",
+     "why": "This is a real disagreement about where to draw a line. Green seaweeds are close relatives of land plants, and red and brown seaweeds are not, so the word depends on how you cut the tree.",
      "views": [
       {
-       "who": "An old textbook",
-       "says": "Mosses and ferns are lower plants. Flowering plants are higher plants."
+       "who": "A school textbook",
+       "says": "Seaweeds are plants. They are green or brown and make food from sunlight, just like a tulsi."
       },
       {
        "who": "Dr Sudha, a botanist",
-       "says": "There are no lower plants. A moss alive today has been changing for as long as a rose. Each plant is good at their own way of living."
+       "says": "Only land plants, which all came from one green alga, should be called plants. Red and brown seaweeds are on very different branches of the tree of life."
       }
      ],
-     "ask": "Which do you agree with? Give evidence. Then give one fair point from the other side.",
+     "ask": "Which do you agree with? Use a fact from the unit. Then give one fair point from the other side.",
      "lines": 5
     },
     {
@@ -2413,7 +2417,7 @@
      "t": "truefalse",
      "p": "Cycads and the ginkgo tree still make male cells that swim, inside the pollen.",
      "a": true,
-     "why": "True. In 1896 two Japanese scientists, Sakugoro Hirase and Seiichiro Ikeno, found swimming male cells in the ginkgo and in cycads. Ikeno found the same in cycads."
+     "why": "True. In 1896 two Japanese scientists, Sakugoro Hirase and Seiichiro Ikeno, found swimming male cells in the ginkgo and in cycads, one in each. Even so, they swim only a very short way, within the seed plant."
     },
     {
      "t": "mcq",
@@ -2429,11 +2433,11 @@
      "how": "a6"
     },
     {
-     "t": "draw",
-     "p": "Draw nested circles for: land plants, plants with veins, seed plants and flowering plants. Put a moss, a fern, a pine and a mango in the right circles.",
-     "a": "The biggest circle holds all four. Inside it, 'plants with veins' holds the fern, pine and mango. Inside that, 'seed plants' holds the pine and mango. The smallest circle holds only the mango.",
-     "why": "Each smaller circle is a group inside a bigger group, because each new feature appeared once, inside an older group.",
-     "how": "a3"
+     "t": "write",
+     "p": "Linnaeus put ferns, mosses, algae and fungi into one group because none of them has flowers. Using what Hofmeister found, explain why 'has no flowers' is a poor way to make a group.",
+     "a": "No flowers only says what the plants lack. Hofmeister showed that mosses and ferns follow the same pattern of life as conifers. Conifers, ferns and mosses are relatives, but fungi and algae are far away on the tree. A good group needs a shared ancestor, not a shared missing part.",
+     "why": "A strong answer says that a group made from something missing can mix unrelated living beings, and that a shared ancestor is what makes a real group.",
+     "lines": 4
     },
     {
      "t": "fill",
@@ -2694,7 +2698,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rekha wants to know if til travels farther than mustard in the Fan Test. Which test is fair?",
+   "p": "Rekha, a girl in Class 5, wants to know if til travels farther than mustard in the Fan Test. Which test is fair?",
    "opts": [
     "Drop both from the same height, at the same spot, with the same fan speed, 3 times each",
     "Drop til from higher up because it is lighter",
@@ -2709,31 +2713,28 @@
  ],
  "videos": [
   {
-   "title": "A fern's life cycle, from spore to fern",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Watch Ferns Get Freaky | Deep Look",
+   "channel": "Deep Look",
+   "youtube": "waMtqP1U6-8",
    "mins": 5,
    "why": "To see the tiny heart-shaped plant that grows from a spore, which is hard to find at home.",
-   "check": "Find a real video. Check that it shows the prothallus and the swimming male cells, and that it calls spores single cells."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "Fern spore cases snapping open, in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Fern Spores under a microscope",
+   "channel": "MartinMicroscope",
+   "youtube": "-xF83pHEx6Q",
    "mins": 3,
    "why": "Fern spore cases fling out spores faster than the eye can see. Slow motion shows the catapult.",
-   "check": "Look for slow-motion footage based on Noblin and others, Science 2012. Check that it is filmed, not animated."
+   "check": "Not yet watched by a person: watch it first."
   },
   {
-   "title": "How mosses live: no roots, no veins, no flowers",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "🌿 How Does Moss Absorb Water Without Roots? 💧 | Amazing Plant Facts #Short",
+   "channel": "Nature and plants",
+   "youtube": "6QDhLw9ucq0",
    "mins": 5,
    "why": "A close look at moss leaves, rhizoids and spore capsules.",
-   "check": "Find a real video. Check it does not call mosses primitive or lower, or teach this as the plain truth."
+   "check": "Not yet watched by a person: watch it first."
   }
  ],
  "applications": [
@@ -2829,8 +2830,8 @@
    "a": "Because they were on the very newest branch."
   },
   {
-   "j": "What is a moss's favourite season?",
-   "a": "The monsoon, of course."
+   "j": "Why did the cycas get cross when people called her a palm?",
+   "a": "She said, \"I make cones, not coconuts. Please get my family right!\""
   },
   {
    "j": "How do you tell a fern is shy?",
@@ -2927,7 +2928,7 @@
    "why_maths": "Huge spans of time are impossible to picture. A scale shrinks them onto a strip you can see, so you notice that flowers are a recent arrival."
   },
   {
-   "problem": "On a pine cone, Bornali counted 8 spirals going one way and 13 going the other. In the pattern 1, 1, 2, 3, 5, 8, 13, each number is the sum of the two before it. What are the next two numbers?",
+   "problem": "On a pine cone, Bornali, a girl in Class 5, counted 8 spirals going one way and 13 going the other. In the pattern 1, 1, 2, 3, 5, 8, 13, each number is the sum of the two before it. What are the next two numbers?",
    "answer": "21 and 34.",
    "explain": "8 + 13 = 21. 13 + 21 = 34. Sunflower heads often have 21 and 34, or 34 and 55, spirals.",
    "math_unit": "math.patterns.number-patterns.L5",
@@ -3127,5 +3128,6 @@
   "when": "1753 (Linnaeus), the 1840s (fern spores watched as they grew) and 1851 (Hofmeister)",
   "wrong_idea": "That ferns and mosses were a separate, mysterious kind of plant with hidden or invisible seeds. Hofmeister showed that they follow the same pattern of life as conifers, only without seeds.",
   "art": "A young man at a wooden desk beside sheet music and a brass microscope, with drawings of a moss, a fern and a pine cone on his page."
- }
+ },
+ "playtest": "I walked the unit through as a parent and child in a city flat would. Fixed: the fan was said to blow along the floor, but a table fan blows across the room; the Moss Sponge soil would crumble in the water, so both go in a tea strainer; the rajma needed an overnight soak, now said in the materials; a game step pointed to a four-question key that does not exist; the Twenty Questions ending repeated the key drawing and now counts halvings (16 to 1 takes 4 questions) with a matching check; the fern-seed question was asked in the intro and again in the dhania activity, so the activity now asks what a spore has room for; the jasmine card claimed fruit it seldom sets; four named children were not introduced; two worksheet items repeated the family-tree drawing and the lower-plants debate, so they became a Linnaeus and Hofmeister question and a seaweed debate; the story now says what the heart-shaped plant is for; one weak joke was replaced; the three video entries still have no checked address, so find and watch real videos before they are shown. Counts, minutes and answers agree."
 }

@@ -15,7 +15,7 @@
 
 ## Terms
 - **Similar**: Similar means alike in some way. *e.g.* You and your cousin are similar: you both have ten fingers and you both like mangoes.
-- **Different**: Different means not the same. *e.g.* Your hair may be curly and your sister's hair straight. Your hair is different.
+- **Different**: Different means not the same. *e.g.* Your hair may be curly and your friend's hair straight. Your hair is different.
 - **Taste**: Taste is how a food seems in your mouth: sweet, sour, salty or bitter. You taste with your tongue. *e.g.* Jaggery tastes sweet. Lime tastes sour. Karela tastes bitter.
 - **Kind**: Being kind means doing something to help another person or animal, or to make them feel better. *e.g.* Sharing your crayons with a new friend is kind. Putting out water for a crow on a hot day is kind.
 
@@ -30,7 +30,7 @@ Every person has a heart, a mouth and a nose. Almost everyone has two eyes, two 
 ### Each of us is different · *defined*
 **Definition:** No two people are exactly the same. We differ in how we look, how we sound and what we like.
 
-Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell Amma from Paati with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
+Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
 - e.g. You can know who is calling you just from their voice.
 - e.g. Two sisters can have different favourite colours.
 - e.g. The lines on your fingertips are not like anyone else's.
@@ -50,9 +50,9 @@ Scientists agree that two things matter. One is the body you were born with. The
 ### Being kind · *defined*
 **Definition:** Being kind means helping someone, or doing something that makes them feel better.
 
-When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. Humans are not the only kind animals. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
+When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
 - e.g. Asking a new child to play with you.
-- e.g. Bringing water for Thatha when he is tired.
+- e.g. Bringing water for a tired grown-up.
 - e.g. Waiting for a slower friend on a walk.
 
 ## Mostly agreed
@@ -84,26 +84,26 @@ We have found ways we are like other people, and ways we are not. Now we ask wha
 
 - *who am i:* You are a person like every other person, with the same body parts and the same needs. You are also the only one with your face, your voice and your tastes.
 - *what is life:* Every living being senses the world in their own way. A tongue, a nose and an ear each meet the world and tell you about it.
-- *what is this world:* The world is full of people who are like you and not like you. A crow, an elephant and a rat are not like you either, and they help each other too.
+- *what is this world:* People are not the only ones who help each other. Crows, elephants and rats do too.
 
-All people share the same body plan, and almost all the same genes. From that one shared plan come billions of people, each with their own face, voice and taste. The same is true of every living being: one way of life, many ways of sensing it. Everything is conscious, and each being feels the world from where they are. Knowing this, we ask others what they feel, instead of guessing.
+People share the same body parts and almost all the same genes, yet each of us looks, sounds and tastes in our own way. Everything is conscious, and every being feels the world from where they are. So when we want to know what another person feels, we ask them instead of guessing.
 
 - **Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching:** Just as a mother would protect her only child with her life, let your heart be kind to all beings, without limit. (Kindness here is not only for people who are like us. It is for every being, however different they look or feel.)
 - **Tirukkural 315:** What use is wisdom to someone who will not treat another's pain as their own, and try to stop it? (In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that knowing things is of little use without caring about other people's pain.)
-- **Tattvartha Sutra 5.21, a Jain text:** Living beings help one another. (People help each other, and so do elephants and rats. This Jain teaching says helping is what all living beings do.)
+- **Tattvartha Sutra 5.21, a Jain text:** Living beings help one another. (People help each other, and so do elephants and rats. This Jain teaching says that helping each other is what living beings do.)
 - Science (settled): The same substance can taste strongly bitter to one person and hardly bitter to another. This runs partly in families, and partly comes from what each person is used to eating.
 - Science (open): Nobody can feel another person's taste directly. Whether two people feel the same sweetness from the same mango is still an open question.
 - Other view, Many taste scientists: People differ in how strongly they taste, but they mostly agree on which foods are sweet, sour, salty or bitter. For them, what we share is much bigger than our differences, and the differences are small.
-- Practice, A slow taste (3 min): Close your eyes. I will put a small piece of jaggery on your tongue. Don't chew yet. Just feel it. Is it sweet straight away, or slowly? Now chew slowly. Now think of Paati eating the same jaggery. Is she tasting what you taste? We can only ask her.
-- Ask: When Amma tastes the same mango, how could you find out what she tastes?
+- Practice, A slow taste (3 min): Close your eyes. I will put a small piece of jaggery on your tongue. Don't chew yet. Just feel it. Is it sweet straight away, or slowly? Now chew slowly. Now think of someone at home eating the same jaggery. Are they tasting what you taste? We can only ask them.
+- Ask: A friend says 'yuck' to a food you love. What could you say or do?
 - Ask: What would be lost if everyone liked exactly the same things?
 - Ask: Who is someone different from you that you would like to know better?
 
 ## Deep and big questions
-- *deep:* When you and Amma eat the same mango, do you taste the same thing? (hint: Think about the taste test. Did everyone pull the same face?)
+- *deep:* When you and a grown-up eat the same mango, do you taste the same thing? (hint: Think about the taste test. Did everyone pull the same face?)
 - *deep:* If you could swap tongues with someone for one minute, what would you want to taste? (hint: Think of a food that someone at home loves and you do not.)
 - *big:* What makes you you? Is it your face, your voice, what you like, or something else? (hint: Your face and your likes change as you grow. What stays the same?)
-- *big:* Why do you think people, crows and elephants help each other? (hint: Think of a time someone helped you. How did it feel?)
+- *big:* Which is bigger: how alike people are, or how different they are? (hint: Think of the mirror and the taste test. What did you find that was the same? What was different?)
 
 ## Story: Bornali's Tiffin
 *Masor tenga is a real Assamese sour fish curry, often made with tomato or lime. Rasam is a Tamil soup, often sour with tamarind and tomato. Pavakkai is the Tamil name for karela, bitter gourd. Nila, Bornali, Kavya, Ammamma and Appa are made up.*
@@ -160,14 +160,14 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 ## Games
 ### g1 · Stand Up If…: who is like me? (10 min)
 - **rules:** A child who cannot read yet can be the caller, with a grown-up whispering each card to them first.; Mix the cards. The caller reads one card out loud.; Everyone the card is true for stands up. Everyone else sits.; The caller counts who is standing, then turns the card over and reads the back.; Put the card on the 'Everyone' pile if everyone stood, or on the 'Some' pile if only some stood.; At the end, look at the two piles. Which kind of card made everyone stand?
-- **Printable cards: 20 calling cards for the caller:** Stand up if you have a nose. (back: Everyone stands: we are all similar here.); Stand up if you like mangoes. (back: Count who stands. Likes are different.); Stand up if you need to drink water. (back: Everyone stands: every person needs water.); Stand up if you have curly hair. (back: Count who stands. Hair is different.); Stand up if you sleep every night. (back: Everyone stands: every person needs sleep.); Stand up if you like karela. (back: Count who stands. Tastes are different.); Stand up if you have a heart beating inside you. (back: Everyone stands: every person has a heart.); Stand up if your favourite colour is blue. (back: Count who stands. Favourites are different.); Stand up if you were once a baby. (back: Everyone stands: every person was a baby once.); Stand up if you can whistle. (back: Count who stands. Not everyone can.); Stand up if you have ten toes. (back: Most people stand. Most people have ten toes.); Stand up if you like the rain. (back: Count who stands. Likes are different.); Stand up if you laugh when something is funny. (back: Everyone stands: people all over the world laugh.); Stand up if you are taller than the door handle. (back: Count who stands. Heights are different.); Stand up if you feel sad sometimes. (back: Everyone stands: every person feels sad sometimes.); Stand up if you like to sing. (back: Count who stands. Likes are different.); Stand up if you speak more than one language. (back: Count who stands. Many people in India do.); Stand up if you need food to grow. (back: Everyone stands: every person needs food.); Stand up if you were born in this city. (back: Count who stands. People come from many places.); Stand up if you like to be hugged. (back: Count who stands. Some people like hugs, some do not.)
+- **Printable cards: 20 calling cards for the caller:** Stand up if you have a nose. (back: Everyone stands: we are all similar here.); Stand up if you like mangoes. (back: Count who stands. Likes are different.); Stand up if you need to drink water. (back: Everyone stands: every person needs water.); Stand up if you have curly hair. (back: Count who stands. Hair is different.); Stand up if you sleep every night. (back: Everyone stands: every person needs sleep.); Stand up if you like karela. (back: Count who stands. Tastes are different.); Stand up if you have a heart beating inside you. (back: Everyone stands: every person has a heart.); Stand up if your favourite colour is blue. (back: Count who stands. Favourites are different.); Stand up if you were once a baby. (back: Everyone stands: every person was a baby once.); Stand up if you can whistle. (back: Count who stands. Not everyone can.); Stand up if you have a mouth. (back: Everyone stands: every person has a mouth.); Stand up if you like the rain. (back: Count who stands. Likes are different.); Stand up if you laugh when something is funny. (back: Everyone stands: people all over the world laugh.); Stand up if you are taller than the door handle. (back: Count who stands. Heights are different.); Stand up if you feel sad sometimes. (back: Everyone stands: every person feels sad sometimes.); Stand up if you like to sing. (back: Count who stands. Likes are different.); Stand up if you speak more than one language. (back: Count who stands. Many people in India do.); Stand up if you need food to grow. (back: Everyone stands: every person needs food.); Stand up if you were born in this city. (back: Count who stands. People come from many places.); Stand up if you like to be hugged. (back: Count who stands. Some people like hugs, some do not.)
 - **s1 (1 min)**  
   *Parent does:* 1. Mix the cards. 2. Make two places on the floor for piles: 'Everyone' and 'Some'.  
   *Parent says:* When I read a card, stand up if it is true for you. Let's see who is like you.  
   *Child mode:* Listen to the card. Stand up if it is true for you.
 - **s2 (7 min)**  
   *Parent does:* 1. Read each card. 2. Count who stands. 3. Put the card on the right pile.  
-  *Parent says:* Stand up if you have two eyes. Look, everyone is standing! Now, stand up if you like karela.  
+  *Parent says:* Stand up if you have a nose. Look, everyone is standing! Now, stand up if you like karela.  
   *Child mode:* Stand up if it is true for you. Look who is standing with you.
   - Ask: Who stood up with you for the mango card? (good: Amma and Paati stood up with me.; Only I stood up.)
 - **s3 (2 min)**  
@@ -178,7 +178,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Check: Which card made everyone stand up? → **Stand up if you need to drink water**
 ### g2 · Kind Hands: act out a kind thing (15 min)
 - **rules:** Mix the cards and put them face down.; On your turn, a grown-up reads you the front of a card.; Act out one kind thing you could do. You can use words, or just your hands and face.; The others guess what you are doing. Then read the back of the card for one more idea.; Everyone gets a turn. There is no winner: everyone who acts something kind gets a clap.
-- **Printable cards: 12 kindness cards to cut out:** A new girl sits alone at lunch. (back: You could sit with her and ask her name.); Your little brother drops his ice cream. (back: You could share yours, or give him a hug.); Paati is carrying a heavy bag of vegetables. (back: You could carry one bag for her.); A friend falls down and cries. (back: You could help them up and ask, 'Are you hurt?'); It is very hot, and a crow sits on the balcony with an open beak. (back: You could ask a grown-up to put out a bowl of water.); A friend does not like the food you love. (back: You could say, 'That's okay, we like different things.'); Someone in class is laughed at for their accent. (back: You could stand with them and say, 'I like how you talk.'); Amma is tired after work. (back: You could bring her a glass of water.); Your friend cannot find their pencil. (back: You could lend them one of yours.); A child in a wheelchair wants to join your game. (back: You could change the game so everyone can play.); Your sister is scared of the thunder. (back: You could sit close to her and hold her hand.); An ant is stuck in a drop of water on the table. (back: You could let the ant climb onto a scrap of paper and move them away.)
+- **Printable cards: 12 kindness cards to cut out:** A new girl sits alone at lunch. (back: You could sit with her and ask her name.); A little child drops their ice cream. (back: You could share yours, or give a hug.); A grandparent or a neighbour is carrying a heavy bag of vegetables. (back: You could carry one bag.); A friend falls down and cries. (back: You could help them up and ask, 'Are you hurt?'); It is very hot, and a crow sits on the balcony with an open beak. (back: You could ask a grown-up to put out a bowl of water.); A friend does not like the food you love. (back: You could say, 'That's okay, we like different things.'); A child at school talks in a way the others laugh at. (back: You could stand next to them and say, 'I like how you talk.'); A grown-up at home is tired after work. (back: You could bring them a glass of water.); Your friend cannot find their pencil. (back: You could lend them one of yours.); A child in a wheelchair wants to join your game. (back: You could change the game so everyone can play.); A small child at home is scared of the thunder. (back: You could sit close and hold their hand.); An ant is stuck in a drop of water on the table. (back: You could let the ant climb onto a scrap of paper and put her down somewhere dry.)
 - **s1 (2 min)**  
   *Parent does:* 1. Mix the cards. 2. Read the first card to your child.  
   *Parent says:* A new girl sits alone at lunch. How do you think she feels? What could you do?  
@@ -209,9 +209,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Note: Three people is the least. Grandparents, older cousins or a neighbour make the test more interesting, because the ages are different.
 - **s2 (4 min)**  
   *Parent does:* Point to each person and each food. Ask your child to guess the thumb, and to say why. Write the guesses in pencil on a separate paper.  
-  *Parent says:* Will Paati like the karela? Will Appa like the lime? Thumbs up, sideways or down? Why do you think so?  
+  *Parent says:* Will this person like the karela? Will that person like the lime? Thumbs up, sideways or down? Why do you think so?  
   *Child mode:* Guess. Will each person like each food? Why?
-  - Ask: Why do you think so? (good: Paati will like karela, because she cooks karela a lot.; Everyone will like jaggery, because jaggery is sweet.)
+  - Ask: Why do you think so? (good: A grown-up will like karela, because they cook it a lot.; Everyone will like jaggery, because jaggery is sweet.)
 - **s3 (9 min) · grown-up needed**  
   *Parent does:* 1. Hand everyone a piece of jaggery. 2. Everyone closes their eyes, tastes and chews. 3. Count 'one, two, three'. 4. Everyone opens their eyes and shows a thumb at the same time. 5. Everyone sips water. 6. Do the same with the lime, then the karela.  
   *Parent says:* Close your eyes and taste. Don't make a face yet! One, two, three: show your thumb.  
@@ -219,7 +219,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Note: Tasting with eyes closed, and showing thumbs together, stops people copying each other. Karela is safe raw in a small slice, but it is very bitter: a child can spit it out. A sip of water clears the mouth between foods.
 - **s4 (4 min)**  
   *Parent does:* Help your child draw each person's thumb in the right box of the table.  
-  *Parent says:* What did Paati show for the karela? Draw her thumb in that box.  
+  *Parent says:* What did this person show for the karela? Draw their thumb in that box.  
   *Child mode:* Draw each thumb in the right box.
 - **s5 (4 min)**  
   *Parent does:* Look at the table together. Ask your child what they think, what they saw, and why. Then ask the check question.  
@@ -232,16 +232,16 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 ### e2 · Who Said Hello? Can you tell people apart by voice alone? (15 min)
 - **question:** Can you tell who is talking just from their voice? Is it harder when they whisper?
 - **predict:** Guess first. How many people will you get right when they talk? When they whisper? Why do you think so?
-- **fair test:** Each person says the same words, 'Hello, how are you?', from the same spot across the room. A grown-up points to who speaks, in a mixed-up order, so the child cannot guess from the order.
+- **fair test:** Each person says the same words, 'Hello, how are you?', from the same spot across the room. Before you start, a grown-up writes the speakers' names on a paper in a mixed-up order, so the child cannot guess from the order. Everyone speaks in that order, then in a new mixed-up order for whispering.
 - **record:** Draw a face for each person, and a tick or a cross under 'talking' and 'whispering'.
 - **results table:** Who spoke | Talking: my guess | Whispering: my guess
 - **s1 (2 min)**  
   *Parent does:* 1. Your child sits on a chair with eyes closed or covered. 2. Everyone else stands across the room, quietly.  
   *Parent says:* Close your eyes. People will say hello. Guess who it is. How many do you think you will get right? Why?  
   *Child mode:* Close your eyes. Guess who says hello.
-  - Ask: How many will you get right? Why? (good: All of them, because I know everyone's voice.; Most of them, but Amma and Chithi sound alike.)
+  - Ask: How many will you get right? Why? (good: All of them, because I know everyone's voice.; Most of them, but two people sound alike.)
 - **s2 (5 min)**  
-  *Parent does:* 1. Point to one person at a time, in a mixed-up order. 2. Each says 'Hello, how are you?' in a normal voice. 3. Your child guesses. 4. Mark a tick or a cross.  
+  *Parent does:* 1. Say the next name on the paper. 2. That person says 'Hello, how are you?' in a normal voice. 3. Your child guesses. 4. Mark a tick or a cross.  
   *Parent says:* Listen. Who is this?  
   *Child mode:* Listen. Who is talking?
 - **s3 (5 min)**  
@@ -253,9 +253,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent does:* Count the ticks for talking and for whispering. Ask the question below.  
   *Parent says:* How many did you get right when they talked? And when they whispered? Why was one harder?  
   *Child mode:* Count your ticks. Which was harder?
-  - Ask: Why was whispering harder? (good: Because whispers all sound the same.; Because a whisper has no real voice in it.)
+  - Ask: Why was whispering harder? (good: Because whispers all sound the same.; Because a whisper has no buzz in it.)
   - Note: Whispers are usually harder to tell apart. If your child gets every one right both times, that is a real result too: they know these voices very well. Try again with a voice they hear less often, such as a neighbour.
-  - Check: You could tell Amma's voice from Appa's voice. What does this show? → **Every person's voice is a little different**
+  - Check: You could tell one person's voice from another's. What does this show? → **Every person's voice is a little different**
 
 ## Activities
 ### a1 · Mirror Twins: what is the same, what is different? (10 min)
@@ -275,7 +275,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent does:* Help your child draw the two of you. Ask the check question.  
   *Parent says:* Draw us both. Circle one thing that is the same, and one thing that is different.  
   *Child mode:* Draw you and your partner. Circle a same thing and a different thing.
-  - Check: You and Amma both have two eyes. What is the word for this? → **Similar**
+  - Check: You and a grown-up both have two eyes. What is the word for this? → **Similar**
 ### a2 · All About Me: my name, my face, what I like (15 min)
 - **record:** The 'All About Me' page. Keep it, and make a new one next year to see what has changed.
 - **s1 (5 min)**  
@@ -308,7 +308,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Child mode:* Guess. Which fruit will win? Why?
 - **s3 (7 min)**  
   *Parent does:* 1. Your child asks each person at home. 2. Phone two or three relatives so your child can ask them too. 3. Your child makes a tally mark for each answer.  
-  *Parent says:* Ask Paati on the phone: 'What is your favourite fruit?'  
+  *Parent says:* Ask a relative on the phone: 'What is your favourite fruit?'  
   *Child mode:* Ask: 'What is your favourite fruit?' Make a line.
 - **s4 (2 min)**  
   *Parent does:* Count the lines for each fruit together.  
@@ -368,7 +368,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Child mode:* Plan a snack plate. Everyone must find something they like.
 - **s2 (5 min)**  
   *Parent does:* Your child asks two or three people what snacks they like.  
-  *Parent says:* Go and ask Appa and Paati what snack they like best.  
+  *Parent says:* Go and ask two people at home what snack they like best.  
   *Child mode:* Ask people: 'What snack do you like?'
 - **s3 (9 min)**  
   *Parent does:* Your child draws a big plate and draws the snacks on it. Help with names if needed.  
@@ -376,47 +376,41 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Child mode:* Draw your plate. Draw the snacks. Who is each one for?
 - **s4 (3 min)**  
   *Parent does:* Check the plate together, person by person.  
-  *Parent says:* Let's check. Is there something here for Paati? For Appa? For you?  
+  *Parent says:* Let's check. Is there something here for each person?  
   *Child mode:* Check: is there something for everyone?
-  - Check: Paati loves sour things and Appa loves sweet things. What plate will make both happy? → **A plate with laddoos and lime pickle**
+  - Check: One guest loves sour things and another guest loves sweet things. What plate will make both happy? → **A plate with laddoos and lime pickle**
 
 ## Worksheets
-### Like Me, Not Like Me (core) (core, 15 questions)
+### Like Me, Not Like Me (core) (core, 13 questions)
 1. (draw) Draw yourself and one person from your home, side by side. Circle one thing that is the same about you.  
    **Answer:** Two people, with a circle round something they share, such as two eyes or ten fingers.. *Why:* A strong drawing circles a body part both people have. All people share the same body parts.
 2. (match) Draw a line from each food to its taste.  
    **Answer:** Jaggery → Sweet; Lime → Sour; Karela → Bitter; Salt → Salty. *Why:* Sweet, sour, salty and bitter are four of our tastes. Jaggery is sweet, lime is sour, karela is bitter and salt is salty.
-3. (mcq) Which of these do all people need?  
-   Options: Curly hair / Water / A cricket bat  
-   **Answer:** Water. *Why:* Every person needs water to live. Curly hair and a cricket bat are not needed by everyone.
-4. (truefalse) Every person has a heart beating inside them.  
+3. (truefalse) Every person has a heart beating inside them.  
    **Answer:** True. *Why:* True. Every person has a heart. This is one way all people are similar.
-5. (truefalse) Everyone in the world likes mangoes.  
+4. (truefalse) Everyone in the world likes mangoes.  
    **Answer:** False. *Why:* False. Many people love mangoes, but not everyone. People like different things.
-6. (sort) Is it the same for everyone, or different for each person? Circle the same things in green and the different things in red.  
+5. (sort) Is it the same for everyone, or different for each person? Circle the same things in green and the different things in red.  
    **Answer:** has a nose → Same for everyone; favourite colour → Different for each person; needs sleep → Same for everyone; sound of their voice → Different for each person; needs food → Same for everyone; how tall they are → Different for each person. *Why:* All people have a nose and need sleep and food. Favourite colours, voices and heights are different from person to person.
-7. (odd) Three of these are things every person needs to live. Which one is not?  
+6. (odd) Three of these are things every person needs to live. Which one is not?  
    Options: Air / Water / Food / A toy car  
    **Answer:** 3. *Why:* Every person needs air, water and food to live. A toy car is fun, but nobody needs one to live.
-8. (mcq) In the taste test, which food got a thumbs up from almost everyone?  
-   Options: Jaggery / Karela / Lime  
-   **Answer:** Jaggery. *Why:* Nearly all people like sweet tastes, even new babies. So jaggery usually gets the most thumbs up. Karela and lime get more mixed thumbs.
-9. (draw) Draw one kind thing you can do for someone at home today.  
+7. (mcq) In the story, Nila, her father and her grandmother all showed thumbs up for one food. Which one?  
+   Options: Jaggery / Pavakkai (karela) / Neither  
+   **Answer:** Jaggery. *Why:* All three of them gave the jaggery a thumbs up. Sweet is a taste nearly everyone likes. The pavakkai got three different thumbs.
+8. (draw) Draw one kind thing you can do for someone at home today.  
    **Answer:** Any kind act, such as carrying a bag, sharing a snack or giving a hug.. *Why:* A strong drawing shows the child helping another person or making them feel better.
-10. (count) Look at the picture of six children. Count the children with curly hair.  
+9. (count) Look at the picture of six children. Count the children with curly hair.  
    **Answer:** 2. *Why:* Two of the six children have curly hair, and four have straight hair. Hair is one way people are different.
-11. (write) Say out loud, and a grown-up writes it down: name two ways you and your best friend are different.  
+10. (write) Say out loud, and a grown-up writes it down: name two ways you and your best friend are different.  
    **Answer:** My friend is taller than me. My friend likes cricket and I like drawing.. *Why:* A strong answer gives two real differences, such as how they look and what they like.
-12. (perspective) Lakshmi and her brother Arun are eating dinner in Madurai. Karela is on the table.  
+11. (perspective) Lakshmi and her brother Arun are eating dinner in Madurai. Karela is on the table.  
    **Answer:** A strong answer agrees with Lakshmi: the same karela tastes different to different people, so neither of them is wrong. Arun is right that karela is very bitter, and for him it really does taste yucky.. *Why:* Many children think that if they dislike a food, the food is bad for everyone. The taste test shows the same food can taste different in each mouth.
-13. (mcq) Fathima drops all her crayons on the floor. What is the kind thing to do?  
-   Options: Laugh at her / Help her pick them up / Walk away  
-   **Answer:** Help her pick them up. *Why:* Helping Fathima pick up her crayons is kind. It helps her, and it shows you care how she feels.
-14. (label) Here are four faces. Label each one: happy, sad, scared or angry.  
+12. (label) Here are four faces. Label each one: happy, sad, scared or angry.  
    **Answer:** ['happy', 'sad', 'scared', 'angry']. *Why:* Faces show how people feel. Knowing how someone feels helps us know how to be kind to them.
-15. (truefalse) With your eyes closed, you can tell Amma's voice from Appa's voice.  
+13. (truefalse) With your eyes closed, you can tell one grown-up's voice from another's.  
    **Answer:** True. *Why:* True. Each person's voice is a little different, so we can tell people apart just by listening.
-### Same Food, Different Tongues (stretch) (stretch, 15 questions)
+### Same Food, Different Tongues (stretch) (stretch, 13 questions)
 1. (write) Paati gave karela a thumbs up, and you gave a thumbs down. You both ate the same karela. Say why, and a grown-up writes it down.  
    **Answer:** Karela tastes different to Paati and to me. Paati has eaten karela for many years, and her tongue is different from mine.. *Why:* A strong answer says the food was the same, so the difference is in each person: their tongue and the foods they are used to.
 2. (mcq) In the taste test, why did everyone taste with their eyes closed?  
@@ -435,28 +429,23 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    **Answer:** False. *Why:* False. Elephants soothe other elephants who are upset. In tests, rats free other rats who are shut in. Many animals help each other.
 8. (draw) Draw a snack plate with something on it for every person at home. Write or say who each snack is for.  
    **Answer:** A plate with several different snacks and a name next to each.. *Why:* A strong plate has different tastes, sweet, sour and salty, so that each person finds something they like.
-9. (fill) Every person needs air, water, food and ____.  
-   **Answer:** ['sleep']. *Why:* Every person needs sleep. Babies, children and grown-ups all sleep every day. Love and care from other people are needed too.
-10. (sort) Sort these into two groups: things all people share, and things that are only yours.  
-   **Answer:** having bones → All people share; the lines on your fingertips → Only yours; needing water → All people share; your name → Only yours; laughing when something is funny → All people share; your favourite song → Only yours. *Why:* All people have bones, need water and laugh. Your fingerprints are yours alone, and your name and favourite song are your own. Someone else may share your name, but not your fingerprints.
-11. (mcq) In the story, Kavya said 'Yuck' about Bornali's sour fish curry. What would have been a kind thing to say?  
+9. (sort) Sort these into two groups: things all people share, and things that are only yours.  
+   **Answer:** having bones → All people share; the lines on your fingertips → Only yours; needing water → All people share; your favourite colour → Only yours; laughing when something is funny → All people share; your favourite song → Only yours. *Why:* All people have bones, need water and laugh. Your fingerprints are yours alone, and so are your favourite colour and song.
+10. (mcq) In the story, Kavya said 'Yuck' about Bornali's sour fish curry. What would have been a kind thing to say?  
    Options: 'That smells funny.' / 'What is it called? Can I smell it?' / 'Throw it away.'  
    **Answer:** 'What is it called? Can I smell it?'. *Why:* Asking about Bornali's food is kind. It shows Kavya wants to know her. Saying 'Yuck' made Bornali feel sad.
-12. (write) Ask a grown-up: is there a food you did not like as a child, but like now? Say what they told you, and a grown-up writes it down.  
+11. (write) Ask a grown-up: is there a food you did not like as a child, but like now? Say what they told you, and a grown-up writes it down.  
    **Answer:** Amma did not like coffee as a child, but she likes coffee now.. *Why:* A strong answer reports a real food. Many people learn to like bitter or sour foods as they grow and eat them again and again.
-13. (odd) Three of these are the same for all people. Which one is different from person to person?  
-   Options: Having a heart / Needing sleep / Favourite food / Needing water  
-   **Answer:** 2. *Why:* All people have a heart and need sleep and water. Favourite foods are different from person to person.
-14. (label) Here is a drawing of a child. Label the parts that every person has: eyes, ears, nose, mouth, hands.  
+12. (label) Here is a drawing of a child. Label the parts that every person has: eyes, ears, nose, mouth, hands.  
    **Answer:** ['eyes', 'ears', 'nose', 'mouth', 'hands']. *Why:* Every person has these body parts. This is one of the ways all people are similar.
-15. (mcq) In 1931, a scientist called Arthur Fox tasted nothing in a white powder. His friend said the same powder was very bitter. What did this show?  
+13. (mcq) In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?  
    Options: The friend was making it up / The same powder can taste different to different people / The powder had no taste for anyone  
    **Answer:** The same powder can taste different to different people. *Why:* Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people.
 
 ## Videos
 - **Newborn babies tasting sweet, sour and bitter** (, 3 min) id `to find`: Shows that babies only hours old relax at sweet and screw up their faces at bitter, before they have learned anything about food. *Check:* Find a real clip from a study or a science programme, not acted, showing newborn faces to sweet and bitter tastes.
-- **Elephants comforting an upset elephant** (, 3 min) id `to find`: Shows kindness in other animals: elephants touching and calling to another elephant who is upset. *Check:* Find real footage, ideally linked to Joshua Plotnik and Frans de Waal's 2014 study of Asian elephants in Thailand. No scary scenes.
-- **How your tongue tastes: taste buds for children** (, 4 min) id `to find`: Shows the bumps on the tongue up close and how taste buds sense sweet, sour, salty and bitter. *Check:* Make sure the video does not show the old 'tongue map', where each taste has its own zone. That idea is wrong: every part of the tongue can sense every taste.
+- **Elephant Empathy | ScienceTake | The New York Times** (The New York Times, 3 min) id `qQcScYqxUzc`: Shows kindness in other animals: elephants touching and calling to another elephant who is upset. *Check:* Not yet watched by a person: watch it first.
+- **How Do We Taste our Food? | The Sense of Taste | What Are Taste Buds? | The Dr. Binocs Show** (Peekaboo Kidz, 4 min) id `imkwAY2PtLw`: Shows the bumps on the tongue up close and how taste buds sense sweet, sour, salty and bitter. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
 1. (mcq) Which one is true for every person?  
@@ -486,7 +475,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 9. (mcq) Which other animals have scientists seen helping each other?  
    Options: Elephants and rats / No animals at all / Only people  
    **Answer:** Elephants and rats. *Why:* Elephants soothe other elephants who are upset, and rats free other rats who are shut in. People are animals too, and we help each other as well.
-10. (mcq) In the voice test, why does the grown-up point to people in a mixed-up order?  
+10. (mcq) In the voice test, why are the speakers' names written in a mixed-up order?  
    Options: So the child cannot guess from the order / To make it noisy / So people get tired  
    **Answer:** So the child cannot guess from the order. *Why:* If people spoke in the same order each time, the child could guess from the order and not the voice. Mixing it up makes the test fair.
 11. (mcq) What does a scientist do before a test?  
@@ -513,7 +502,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - **Why are people and other animals kind, even to strangers?** Scientists have many ideas. Kindness helps groups live together, and it feels good. But nobody fully knows how kindness began.
 
 ## Questions to ask kids
-- What is one way you and Appa are similar? One way you are different?
+- What is one way you and a grown-up at home are similar? One way you are different?
 - Is there a food you did not like before, but like now?
 - Who in our family has a voice you could know with your eyes closed?
 - What kind thing did someone do for you today? How did it feel?
@@ -528,8 +517,8 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - Why do your fingertips never get lost? *Because their lines are like no one else's!*
 - What do you call a whisper that wants to be heard? *A shout in training!*
 - Why did the elephant hug her friend? *Because a trunk hug is the biggest hug of all!*
-- What did the tongue say to the jaggery? *You taste like a treat!*
-- Why did Paati smile at the karela? *Because she had grown to love the bitter-sweet things in life!*
+- Why did the mango go to the doctor? *Because it was not peeling well!*
+- What do you call a crow who tells jokes? *A cawmedian!*
 
 ## Connected maths
 - In a favourite fruit tally, 4 people chose mango, 2 chose banana and 3 chose guava. Which fruit was chosen most? **Mango, with 4.**. 4 is more than 3, and 3 is more than 2. So mango was chosen most. But 5 people chose banana or guava, so not everyone likes mango best. (queues `math.data.sorting-and-tallies.L1`)

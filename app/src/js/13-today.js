@@ -652,7 +652,7 @@ function fxTodayTop(animate) {
     const I = DATA.units[c.id],
       X = fxStates(c.id),
       pct = Math.round((100 * X.filter((z) => z === "done").length) / Math.max(1, X.length));
-    cont = `<button class="fxcont" data-act="fxopen" data-u="${esc(c.id)}"><img src="${esc(I.img?.summary || "media/ui/subj-" + (c.id.split(".")[0] === "sci" ? "sci" : "dks") + ".jpg")}" alt=""><span><span class="xs muted">Continue learning</span><b>${esc(I.title)}</b><span class="fxbar"><i style="width:${pct}%"></i></span><span class="xs muted">${pct}% done</span></span></button>`;
+    cont = `<button class="fxcont" data-act="fxopen" data-u="${esc(c.id)}"><img src="${esc(unitPic(c.id))}" alt=""><span><span class="xs muted">Continue learning</span><b>${esc(I.title)}</b><span class="fxbar"><i style="width:${pct}%"></i></span><span class="xs muted">${pct}% done</span></span></button>`;
   }
   const L = dayPlan(today).filter((x) => x.kind === "lesson"),
     pic = !L.length
