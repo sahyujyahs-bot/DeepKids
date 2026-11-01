@@ -405,7 +405,11 @@
      "items": [
       {
        "f": "A pond heron stands still in a paddy field, then stabs a fish.",
-       "b": "Hunts by ambush: waits, then strikes"
+       "b": "Hunts by ambush: waits, then strikes",
+       "img": {
+        "src": "media/cards/foraging-and-survival-g1-0-00.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A pack of dholes runs after a sambar deer for a long way.",

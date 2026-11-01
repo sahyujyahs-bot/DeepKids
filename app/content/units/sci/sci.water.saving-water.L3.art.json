@@ -3,6 +3,10 @@
   "src": "media/img/sci.water.saving-water.L3/expl.11.jpg",
   "credit": "NASA, public domain"
  },
+ "expl.3": {
+  "src": "media/img/sci.water.saving-water.L3/expl.3.jpg",
+  "credit": "US Environmental Protection Agency, Public domain, via Wikimedia Commons"
+ },
  "flow.a2": {
   "src": "media/img/sci.water.saving-water.L3/flow.a2.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
@@ -58,5 +62,9 @@
  "term.3": {
   "src": "media/img/sci.water.saving-water.L3/term.3.jpg",
   "credit": "Chiome-gold, CC0, via Wikimedia Commons"
+ },
+ "term.7": {
+  "src": "media/img/sci.water.saving-water.L3/term.7.jpg",
+  "credit": "en:USAID, Public domain, via Wikimedia Commons"
  }
 }
