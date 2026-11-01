@@ -16670,8 +16670,7 @@ function itemAction(it, a) {
         `data-act="play" ${a}`,
         it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
       ],
-      prep:
-        it.id === "pm" ? [`data-act="night"`, "Get tomorrow ready"] : [`data-act="tlopen" ${a}`, "Open the checklist"],
+      prep: [it.id === "pm" ? `data-act="night"` : `data-act="tlopen" ${a}`, "Open the checklist"],
       warm: [`data-act="games"`, "Start the warm-up"],
       plan: [`data-act="quickplan"`, "Open the Planner"],
       paper: [`data-act="paper" data-p="${it.p?.id}"`, "Read it together"],
