@@ -531,7 +531,11 @@
       },
       {
        "f": "How many legs does an ant have?",
-       "b": "One look: Look closely, with a hand lens if you have one."
+       "b": "One look: Look closely, with a hand lens if you have one.",
+       "img": {
+        "src": "media/cards/asking-questions-g2-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Does our banana get more brown spots each day?",
@@ -539,7 +543,11 @@
       },
       {
        "f": "Does the Moon look the same shape every night?",
-       "b": "Long watch: Look every evening for a month."
+       "b": "Long watch: Look every evening for a month.",
+       "img": {
+        "src": "media/cards/asking-questions-g2-0-03.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
       },
       {
        "f": "How much does a moong sprout grow in a week?",
@@ -571,11 +579,19 @@
       },
       {
        "f": "How far away is the Sun?",
-       "b": "Ask or read: Read it in a book. You cannot look or test this at home."
+       "b": "Ask or read: Read it in a book. You cannot look or test this at home.",
+       "img": {
+        "src": "media/cards/asking-questions-g2-0-11.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "How many crows land on our railing between 7 and 8 in the morning?",
-       "b": "Long watch: Count them for the whole hour, on several days."
+       "b": "Long watch: Count them for the whole hour, on several days.",
+       "img": {
+        "src": "media/cards/asking-questions-g2-0-12.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Does the steel tumbler feel colder than the wooden table?",
@@ -583,7 +599,11 @@
       },
       {
        "f": "Does a curry leaf plant grow towards the window?",
-       "b": "Long watch: Look at it every few days for a few weeks."
+       "b": "Long watch: Look at it every few days for a few weeks.",
+       "img": {
+        "src": "media/cards/asking-questions-g2-0-14.jpg",
+        "credit": "haemanthus, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Does our tap drip faster at night?",
@@ -603,7 +623,11 @@
       },
       {
        "f": "What does a crow dream about?",
-       "b": "Hard to find out by looking: A crow cannot tell us, and we cannot look inside a dream."
+       "b": "Hard to find out by looking: A crow cannot tell us, and we cannot look inside a dream.",
+       "img": {
+        "src": "media/cards/asking-questions-g2-0-19.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       }
      ]
     },

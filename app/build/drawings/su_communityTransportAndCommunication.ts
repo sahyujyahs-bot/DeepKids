@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, hand, person, write, cards } from "./flatKit";
+import { INK, BG, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, polyP, rrect, shadow, shade, line, shine, arrow, hand, person, write, cards } from "./flatKit";
 
 // sci.community.transport-and-communication.L3 set-up cards: a cloth on a chair in a doorway, a dim hanky torch,
 // a heel-to-toe walk, a results table, and the back-to-back drawing game.
@@ -12,11 +12,13 @@ const num = (c: Ctx, s: string, cx: number, cy: number, h: number, col: string =
   const total = (s.length - 1) * 0.8 * h + 0.6 * h;
   write(c, s, cx - total / 2, cy - h / 2, h, col, w);
 };
-// a shoe seen from above, toe at the left
-const sole = (c: Ctx, x: number, y: number, len: number, col: string = COL.blueDk) => {
-  const sh = () => rrect(c, x - len / 2, y - len * 0.2, len, len * 0.4, len * 0.2);
-  shape(c, sh, col, 5); shade(c, sh, COL.blueDk, 0, len * 0.12, 0.5);
-  shape(c, () => ell(c, x - len * 0.28, y, len * 0.16, len * 0.15), COL.sky, 4);
+// a shoe seen from above, toe at the left: toe cap, laces, the opening at the heel; len is toe to heel
+const foot = (c: Ctx, x: number, y: number, len: number) => {
+  const L = len, sh = () => { c.moveTo(x - 0.5 * L, y); c.bezierCurveTo(x - 0.5 * L, y - 0.24 * L, x - 0.3 * L, y - 0.24 * L, x - 0.2 * L, y - 0.21 * L); c.lineTo(x + 0.35 * L, y - 0.15 * L); c.bezierCurveTo(x + 0.52 * L, y - 0.15 * L, x + 0.52 * L, y + 0.15 * L, x + 0.35 * L, y + 0.15 * L); c.lineTo(x - 0.2 * L, y + 0.21 * L); c.bezierCurveTo(x - 0.3 * L, y + 0.24 * L, x - 0.5 * L, y + 0.24 * L, x - 0.5 * L, y); c.closePath(); };
+  shape(c, sh, COL.blue, 5); shade(c, sh, COL.blueDk, 0, L * 0.1, 0.55);
+  line(c, [[x - 0.28 * L, y - 0.2 * L], [x - 0.22 * L, y], [x - 0.28 * L, y + 0.2 * L]], 4, INK);
+  for (const u of [-0.08, 0.03, 0.14]) line(c, [[x + u * L, y - 0.1 * L], [x + u * L, y + 0.1 * L]], 5, WHITE);
+  shape(c, () => ell(c, x + 0.32 * L, y, 0.1 * L, 0.1 * L), COL.sky, 4);
 };
 const tick = (c: Ctx, x: number, y: number, s: number) => {
   line(c, [[x - s * 0.5, y], [x - s * 0.1, y + s * 0.45], [x + s * 0.6, y - s * 0.55]], 18, INK);
@@ -62,22 +64,22 @@ const su_e1_0 = (c: Ctx) => {
 // setup.e1.1
 const su_e1_1 = (c: Ctx) => {
   ground(c);
-  const body = () => rrect(c, 375, 190, 330, 700, 40);
+  // the dim glow through the cloth
+  c.beginPath(); ell(c, 540, 270, 250, 210); c.fillStyle = "rgba(255,211,77,0.30)"; c.fill();
+  const body = () => rrect(c, 390, 260, 300, 640, 40);
   shape(c, body, COL.blueDk); shade(c, body, "#2c5287", 40, 0, 0.7);
-  shape(c, () => ell(c, 540, 700, 36, 36), COL.blue, 5);
-  shape(c, () => rrect(c, 700, 330, 12, 90, 5), COL.blueDk, 4);
-  // the glow of the torch through the hanky, a few short dim rays
-  for (const a of [-2.8, -2.3, -1.75, -1.4, -0.85, -0.35]) line(c, [[540 + Math.cos(a) * 270, 290 + Math.sin(a) * 175], [540 + Math.cos(a) * 340, 290 + Math.sin(a) * 235]], 12, COL.yellow);
-  // the folded hanky over the top end, a little wider than the phone
-  c.save(); c.translate(540, 0); c.scale(1.4, 1); c.translate(-540, 0);
-  const hanky = () => { c.moveTo(412, 420); c.quadraticCurveTo(396, 215, 540, 140); c.quadraticCurveTo(684, 215, 668, 420); c.quadraticCurveTo(640, 460, 610, 430); c.quadraticCurveTo(576, 470, 540, 432); c.quadraticCurveTo(504, 470, 470, 430); c.quadraticCurveTo(440, 460, 412, 420); c.closePath(); };
-  shape(c, hanky, "#fffaf0"); shade(c, hanky, COL.grey, 36, 6, 0.4);
-  shape(c, () => ell(c, 540, 290, 100, 100), "rgba(255,226,120,0.40)", 0);
-  c.restore();
-  line(c, [[440, 230], [475, 380]], 4, COL.grey); line(c, [[640, 225], [605, 375]], 4, COL.grey);
-  // the rubber band
-  const band = () => rrect(c, 372, 372, 336, 34, 16);
-  shape(c, band, COL.orange); shade(c, band, "#c9731f", 0, 10, 0.5);
+  shape(c, () => ell(c, 540, 760, 36, 36), COL.blue, 5);
+  // the hanky folded in layers: the thick folded edge shows on the right and the bottom
+  for (const d of [20, 10]) shape(c, () => rrect(c, 330 + d, 170 + d, 420, 290, 20), d === 20 ? "#e6dfcf" : COL.cloth, 5);
+  const hanky = () => rrect(c, 330, 170, 420, 290, 20);
+  shape(c, hanky, "#fffaf0"); shade(c, hanky, COL.grey, 40, 24, 0.35);
+  c.beginPath(); ell(c, 540, 270, 130, 80); c.fillStyle = "rgba(255,211,77,0.45)"; c.fill();
+  shape(c, () => rrect(c, 358, 198, 364, 234, 12), "rgba(0,0,0,0)", 6);
+  c.save(); c.beginPath(); rrect(c, 358, 198, 364, 234, 12); c.strokeStyle = COL.blue; c.lineWidth = 8; c.stroke(); c.restore();
+  line(c, [[540, 232], [540, 400]], 4, COL.grey); line(c, [[392, 315], [690, 315]], 4, COL.grey);
+  // the rubber band round the phone and the cloth
+  const band = () => rrect(c, 372, 400, 336, 44, 20);
+  shape(c, band, COL.orange); shade(c, band, "#c9731f", 0, 14, 0.5);
   // the hand holding the phone from below
   hand(c, 540, 1020, -Math.PI / 2, 2.4, SKIN.adult, CLOTH.adult);
 };
@@ -91,8 +93,8 @@ const su_e1_2 = (c: Ctx) => {
   // the dim beam from the torch to the cloth
   c.fillStyle = "rgba(255,226,120,0.28)"; c.beginPath(); polyP(c, [[505, 296], [300, 470], [300, 700], [505, 316]]); c.fill();
   // the foot-prints, heel touching toe, and the way back
-  for (const x of [360, 460, 560]) sole(c, x, 960, 100);
-  arrow(c, [[340, 1038], [650, 1038]]);
+  for (const x of [330, 470, 610]) foot(c, x, 958, 140);
+  arrow(c, [[300, 1045], [720, 1045]]);
   // the grown-up and the child, with shoes
   const shoes = (x: number, h: number) => { for (const s of [-1, 1]) shape(c, () => ell(c, x + s * h * 0.06 + 2, 884, 0.06 * h, 16), COL.blueDk, 5); };
   person(c, 910, 880, 740, { adult: true }); shoes(910, 740);
@@ -115,7 +117,7 @@ const su_e1_3 = (c: Ctx) => {
   line(c, [[90, 130], [840, 130]], 0.1, COL.paper);
   for (const x of [280, 560]) line(c, [[x, 130], [x, 910]], 6);
   // header: foot-prints, one dot for the first try, two for the second
-  sole(c, 420, 190, 100); sole(c, 700, 190, 100);
+  foot(c, 420, 190, 130); foot(c, 700, 190, 130);
   shape(c, () => ell(c, 420, 245, 9, 9), INK, 0);
   shape(c, () => ell(c, 690, 245, 9, 9), INK, 0); shape(c, () => ell(c, 712, 245, 9, 9), INK, 0);
   // the four cloths and the foot-steps counted
@@ -125,7 +127,7 @@ const su_e1_3 = (c: Ctx) => {
     const cloth = () => rrect(c, 130, y - 55, 110, 110, 14);
     shape(c, cloth, col); shade(c, cloth, dk, 28, 28, 0.6);
     line(c, [[150, y - 25], [220, y - 18]], 4, "rgba(255,255,255,0.4)");
-    num(c, a, 420, y, 80); num(c, b, 700, y, 80);
+    num(c, a, 385, y, 80); num(c, b, 665, y, 80); foot(c, 510, y, 64); foot(c, 790, y, 64);
   });
   // the pencil beside the paper
   const pencil = () => polyP(c, [[925, 250], [975, 250], [975, 800], [950, 860], [925, 800]]);
@@ -165,8 +167,21 @@ const su_e2_0 = (c: Ctx) => {
   hand(c, 540, 1000, -Math.PI / 2, 2.3, SKIN.child, CLOTH.child);
 };
 
-// a person sitting on a chair (seat at y), lower legs down to the floor fy, facing right
-const sitter = (c: Ctx, x: number, y: number, fy: number, h: number, adult: boolean) => {
+// a head seen from the side, looking right (flip the canvas to look left): hair at the back, one eye, a nose
+const sideHead = (c: Ctx, x: number, hy: number, r: number, skin: string, bun: boolean) => {
+  const head = () => ell(c, x, hy, r, r * 1.05), a = -0.35;
+  shape(c, () => rrect(c, x - 0.3 * r, hy + 0.6 * r, 0.6 * r, 0.9 * r, 6), skin, 5);
+  if (bun) shape(c, () => ell(c, x - r * 0.95, hy - r * 0.15, r * 0.36, r * 0.55), CLOTH.hair, 5);
+  shape(c, () => ell(c, x + r * 0.98, hy + r * 0.14, r * 0.17, r * 0.2), skin, 4);
+  shape(c, head, skin, 5);
+  shape(c, () => { c.ellipse(x, hy, r, r * 1.05, 0, a, a - Math.PI - 1.0, true); c.bezierCurveTo(x - 0.2 * r, hy + 0.25 * r, x + 0.1 * r, hy - 0.1 * r, x + r * Math.cos(a), hy + r * 1.05 * Math.sin(a)); c.closePath(); }, CLOTH.hair, 5);
+  shape(c, () => ell(c, x + r * 0.5, hy + r * 0.05, r * 0.09, r * 0.13), INK, 0);
+  shape(c, () => ell(c, x + r * 0.02, hy + r * 0.3, r * 0.13, r * 0.2), skin === SKIN.child ? SKIN.childDk : SKIN.adultDk, 3);
+  c.beginPath(); c.arc(x + r * 0.58, hy + r * 0.45, r * 0.22, 0.4, 1.9); c.strokeStyle = INK; c.lineWidth = 4; c.stroke();
+};
+
+// a person sitting on a chair (seat at y), lower legs down to the floor fy, facing right, head seen from the side
+const sitter = (c: Ctx, x: number, y: number, fy: number, h: number, adult: boolean, arms: [[number, number], [number, number]] = [[0.9, 0.2], [0.9, 0.2]]) => {
   const sh = y - 0.38 * h;
   shadow(c, x + 0.1 * h, fy + 6, 0.38 * h, 18);
   // chair: back plank (down to the floor), seat, front leg
@@ -183,7 +198,11 @@ const sitter = (c: Ctx, x: number, y: number, fy: number, h: number, adult: bool
     line(c, pts, 0.07 * h, INK); line(c, pts, 0.07 * h - 10, "#6b5a8c");
     shape(c, () => ell(c, lx + s * 0.03 * h + 18, fy - 12, 36, 15), COL.blueDk, 5);
   }
-  person(c, x, y, h, { sit: true, adult, armL: [0.9, 0.2], armR: [0.9, 0.2] });
+  person(c, x, y, h, { sit: true, adult, armL: arms[0], armR: arms[1] });
+  // the kit's front-facing head is painted over by a side view
+  const head = h * 0.13, hy = sh - head * 1.05;
+  c.fillStyle = BG; c.fillRect(x - head * (adult ? 1.15 : 1.35), hy - head * 2, head * (adult ? 2.3 : 2.7), sh - 0.02 * h - (hy - head * 2));
+  sideHead(c, x, hy, head, adult ? SKIN.adult : SKIN.child, !adult);
 };
 
 // setup.e2.1
@@ -191,38 +210,34 @@ const su_e2_1 = (c: Ctx) => {
   ground(c);
   const fy = 930, y = 740;
   c.fillStyle = HALL; c.fillRect(0, fy, 1080, 150); line(c, [[0, fy], [1080, fy]], 6);
-  const cc = 480, ca = 682, hc = 600, ha = 680;
-  // the child, flipped to face left, holds up the picture card
+  const cc = 420, ca = 640, hc = 600, ha = 660;
+  // the child, flipped to look left; her near arm holds the picture card up at the bottom edge
   c.save(); c.translate(cc, 0); c.scale(-1, 1); c.translate(-cc, 0);
-  sitter(c, cc, y, fy, hc, false);
+  sitter(c, cc, y, fy, hc, false, [[0.9, 0.2], [0.9, -Math.PI / 2]]);
   c.restore();
-  // her card and hands (world coordinates)
-  c.save(); c.translate(cc, 0); c.scale(-1, 1);
-  const cardX = 80, cardW = 230, cardY = 255, cardH = 285;
+  const cardX = 60, cardW = 230, cardY = 245, cardH = 255;
   shape(c, () => rrect(c, cardX, cardY, cardW, cardH, 12), COL.purple, 6);
   shape(c, () => rrect(c, cardX + 10, cardY + 10, cardW - 20, cardH - 20, 6), COL.paper, 4);
   shapesOn(c, cardX + 10, cardY + 10, cardW - 20, cardH - 20, false);
-  for (const wx of [74, 206]) shape(c, () => ell(c, wx, 525, 26, 26), SKIN.child, 5);
-  c.restore();
-  // her speech: a circle and a square
-  shape(c, () => polyP(c, [[400, 190], [470, 180], [490, 352]]), WHITE, 5);
-  shape(c, () => ell(c, 330, 140, 160, 90), WHITE, 5);
-  shape(c, () => polyP(c, [[400, 190], [470, 180], [455, 225]]), WHITE, 0);
-  shape(c, () => ell(c, 290, 140, 44, 44), COL.sky, 6);
-  shape(c, () => rrect(c, 350, 100, 64, 64, 6), COL.orange, 6);
-  // the grown-up, drawing on a board on the lap
+  hand(c, 231, 548, -Math.PI / 2, 0.9, SKIN.child, CLOTH.child);
+  // her words, a circle and a square, going over the chairs to the grown-up's ear
+  shape(c, () => polyP(c, [[290, 175], [345, 175], [385, 345]]), WHITE, 5);
+  shape(c, () => ell(c, 330, 110, 150, 85), WHITE, 5);
+  shape(c, () => polyP(c, [[296, 160], [340, 160], [344, 200]]), WHITE, 0);
+  shape(c, () => ell(c, 285, 110, 42, 42), COL.sky, 6);
+  shape(c, () => rrect(c, 345, 78, 62, 62, 6), COL.orange, 6);
+  // the grown-up, drawing on a board on the lap, the pencil on the paper
   sitter(c, ca, y, fy, ha, true);
-  c.save(); c.translate(ca + 200, 640); c.rotate(-0.25);
-  shape(c, () => rrect(c, -110, -80, 220, 160, 8), COL.wood, 6);
-  shape(c, () => rrect(c, -96, -66, 192, 132, 4), WHITE, 4);
-  c.beginPath(); ell(c, -40, -12, 36, 36); c.strokeStyle = "#6f6a78"; c.lineWidth = 6; c.stroke();
-  c.beginPath(); rrect(c, -50, -22, 20, 20, 2); c.stroke();
-  line(c, [[-15, 14], [60, 40]], 6, "#6f6a78");
+  c.save(); c.translate(ca + 215, 690); c.rotate(-0.2);
+  shape(c, () => rrect(c, -125, -90, 250, 180, 8), COL.wood, 6);
+  shape(c, () => rrect(c, -110, -75, 220, 150, 4), WHITE, 4);
+  c.beginPath(); ell(c, -50, -15, 42, 42); c.strokeStyle = "#4d4858"; c.lineWidth = 7; c.stroke();
+  c.beginPath(); rrect(c, -62, -27, 24, 24, 2); c.stroke();
+  line(c, [[-14, 14], [50, 42]], 7, "#4d4858");
   c.restore();
-  const wx = ca + 253, wy = 614;
-  shape(c, () => ell(c, wx, wy, 26, 26), SKIN.adult, 5);
-  line(c, [[wx, wy], [wx - 70, wy + 62]], 14, INK); line(c, [[wx, wy], [wx - 66, wy + 58]], 7, COL.yellow);
-  shape(c, () => ell(c, wx, wy, 26, 26), SKIN.adult, 5);
+  line(c, [[ca + 300, 630], [ca + 272, 722]], 16, INK); line(c, [[ca + 300, 630], [ca + 272, 722]], 8, COL.yellow);
+  hand(c, ca + 285, 585, 1.75, 0.8, SKIN.adult, CLOTH.adult);
+  arrow(c, [[500, 100], [610, 120], [680, 250]]);
 };
 
 // setup.e2.2

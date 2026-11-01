@@ -60,10 +60,13 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  topBowl(c, 540, 235, 190, 130);
-  fish(c, 540, 235, 190, 130, 20, 20);
-  ["5", "5", "4", "5"].forEach((n, i) => slip(c, 150 + i * 260, 700, 210, 360, (i - 1.5) * 0.03, n));
-  [0, 1, 2, 3].forEach((i) => line(c, [[150 + i * 260 - 105, 640], [150 + i * 260 + 105, 640]], 3, "#e4dccb"));
+  topBowl(c, 540, 235, 200, 135);
+  fish(c, 540, 235, 200, 135, 20, 21);
+  ["5", "5", "4", "5"].forEach((n, i) => {
+    const x = 150 + i * 260;
+    slip(c, x, 820, 210, 260, (i - 1.5) * 0.04, n);
+    hand(c, x, 1050, -Math.PI / 2, 1.6, i % 2 ? SKIN.adult : SKIN.child, i % 2 ? CLOTH.adult : CLOTH.child);
+  });
 };
 
 // setup.e1.2
@@ -82,18 +85,21 @@ const e1_2 = (c: Ctx) => {
 // setup.e1.3
 const e1_3 = (c: Ctx) => {
   ground(c);
-  person(c, 270, 780, 520, { adult: true, armL: [Math.PI * 0.55, Math.PI * 0.3], armR: [Math.PI * 0.45, Math.PI * 0.4] });
-  person(c, 810, 780, 520, { armL: [Math.PI * 0.55, Math.PI * 0.6], armR: [Math.PI * 0.45, Math.PI * 0.6] });
-  [[270, 80], [810, 80]].forEach(([x, y]) => { shape(c, () => ell(c, x, y + 50, 130, 75), WHITE, 6); write(c, "10", x - 50, y, 100, INK, 12); });
-  shape(c, () => rrect(c, 0, 640, D, 440, 0), COL.wood, 6);
-  shade(c, () => rrect(c, 0, 640, D, 440, 0), COL.woodDk, 0, 30, 0.4);
-  shadow(c, 560, 990, 360, 36);
-  shape(c, () => rrect(c, 180, 700, 330, 290, 14), WHITE, 7);
-  shape(c, () => rrect(c, 510, 700, 330, 290, 14), "#f3ecda", 7);
-  [770, 820, 870, 920].forEach((y) => line(c, [[215, y], [475, y]], 4, COL.grey));
-  write(c, "10", 570, 760, 170, INK, 18);
-  pencil(c, 780, 900, 700, 905);
-  hand(c, 990, 905, Math.PI, 1.3, SKIN.child, CLOTH.child);
+  topBowl(c, 270, 400, 225, 160);
+  [[0, 0], [-0.55, -0.1], [0.55, -0.1], [-0.28, -0.5], [0.28, -0.5], [-0.28, 0.5], [0.28, 0.5], [-0.8, 0.35], [0.8, 0.35], [0, 0.3]].forEach(([a, b]) => chana(c, 270 + a * 160, 400 + b * 110, 34));
+  shadow(c, 770, 725, 260, 30);
+  shape(c, () => rrect(c, 520, 120, 480, 590, 14), WHITE, 7);
+  shade(c, () => rrect(c, 520, 120, 480, 590, 14), "#e4dccb", 20, 20, 0.45);
+  [560, 620, 680].forEach((y) => line(c, [[550, y], [970, y]], 4, COL.grey));
+  write(c, "10", 620, 230, 220, INK, 20);
+  pencil(c, 1030, 668, 924, 522);
+  hand(c, 1062, 726, -2.2, 1.5, SKIN.child, CLOTH.child);
+  shadow(c, 330, 840, 170, 20);
+  shape(c, () => polyP(c, [[230, 840], [310, 840], [190, 940]]), WHITE, 6);
+  shape(c, () => ell(c, 330, 790, 170, 85), WHITE, 7);
+  line(c, [[238, 846], [304, 846]], 9, WHITE);
+  write(c, "10", 280, 745, 100, INK, 14);
+  hand(c, 100, 1060, -1.1, 1.5, SKIN.adult, CLOTH.adult, true);
 };
 
 // setup.e2.0

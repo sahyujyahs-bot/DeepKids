@@ -18,8 +18,8 @@ const chana = (c: Ctx, x: number, y: number, r: number, rot: number) => {
   shape(c, () => ell(c, x - r * 0.35, y - r * 0.3, r * 0.28, r * 0.16, rot), "#f0cf8f", 0);
   line(c, [[x + Math.cos(rot) * r * 0.2, y + Math.sin(rot) * r * 0.2 + r * 0.1], [x + Math.cos(rot + 0.8) * r * 0.6, y + Math.sin(rot + 0.8) * r * 0.6 + r * 0.1]], Math.max(2, r * 0.1), "#8a5a25");
 };
-const mustard = (c: Ctx, x: number, y: number, r: number) => { shape(c, () => ell(c, x, y, r, r), "#5a3a26", Math.max(1.5, r * 0.25)); shape(c, () => ell(c, x - r * 0.3, y - r * 0.3, r * 0.3, r * 0.3), "#b98a5a", 0); };
-const grainR = (w: number, g: Grain) => (g === "chana" ? w * 0.072 : g === "moong" ? w * 0.042 : w * 0.0185);
+const mustard = (c: Ctx, x: number, y: number, r: number) => { shape(c, () => ell(c, x, y, r, r), "#8a4e22", Math.max(1.5, r * 0.22)); shape(c, () => ell(c, x - r * 0.3, y - r * 0.3, r * 0.35, r * 0.35), "#e0a766", 0); };
+const grainR = (w: number, g: Grain) => (g === "chana" ? w * 0.072 : g === "moong" ? w * 0.042 : w * 0.026);
 const oneGrain = (c: Ctx, g: Grain, x: number, y: number, r: number, rot: number) => (g === "chana" ? chana(c, x, y, r, rot) : g === "moong" ? seed(c, x, y, r, rot) : mustard(c, x, y, r));
 
 // rows of grains from the surface (fraction `to` of the height) down to the bottom, inside the glass
@@ -115,7 +115,7 @@ const e1_2 = (c: Ctx) => {
 const e1_3 = (c: Ctx) => {
   ground(c);
   const gs: Grain[] = ["chana", "moong", "mustard"];
-  gs.forEach((g, i) => jar(c, 195 + i * 340, 780, 280, 400, { grain: g, water: TAPE, tape: TAPE }));
+  gs.forEach((g, i) => jar(c, 195 + i * 340, 780, 280, 400, { grain: g, grainTo: 0.7, water: TAPE, tape: TAPE }));
 };
 
 // ---------------------------------------------------------------- the syringe
@@ -139,40 +139,56 @@ const syringe = (c: Ctx, ml: number, water = false) => {
   write(c, "0", B0 - 11, cy + BH + 26, 44, INK, 7); write(c, "5", B0 + 5 * PX - 12, cy + BH + 26, 44, INK, 7); write(c, "10", B0 + 10 * PX - 42, cy + BH + 26, 44, INK, 7);
   return sx;
 };
-// the syringe cards are drawn a little larger, so the syringe fills the card
-const tilted = (c: Ctx, k: number, mid: number, draw: () => void) => { c.save(); c.translate(540, 560); c.scale(k, k); c.translate(-mid, -SCY); draw(); c.restore(); };
+// the syringe cards are drawn at one size, so the three read as a sequence
+const tilted = (c: Ctx, draw: () => void) => { c.save(); c.translate(540, 560); c.translate(-580, -SCY); draw(); c.restore(); };
+const dashed = (c: Ctx, a: number[], b: number[]) => { const n = Math.hypot(b[0] - a[0], b[1] - a[1]), ux = (b[0] - a[0]) / n, uy = (b[1] - a[1]) / n; for (let d = 0; d < n; d += 20) line(c, [[a[0] + ux * d, a[1] + uy * d], [a[0] + ux * Math.min(d + 11, n), a[1] + uy * Math.min(d + 11, n)]], 5, RED); };
+// where the plunger started (dashed) and how far it went (red bracket above the barrel)
+const travel = (c: Ctx, ml0: number, sx: number) => {
+  const x0 = B0 + ml0 * PX, y0 = SCY - BH + 5, y1 = SCY + BH - 5, by = SCY - BH - 18;
+  dashed(c, [x0 - 30, y0], [x0, y0]); dashed(c, [x0, y0], [x0, y1]); dashed(c, [x0, y1], [x0 - 30, y1]); dashed(c, [x0 - 30, y1], [x0 - 30, y0]);
+  line(c, [[x0, by], [sx, by]], 8, RED); line(c, [[x0, by - 12], [x0, by + 12]], 8, RED); line(c, [[sx, by - 12], [sx, by + 12]], 8, RED);
+};
+// the left hand holds the barrel from above; with `block` its first finger is pressed on the tip
+const holdBarrel = (c: Ctx, block: boolean) => {
+  arm(c, 390, SCY - 70 * 1.4, Math.PI / 2, 1.4);
+  if (block) { const f = [[352, SCY - 62], [248, SCY - 22]]; line(c, f, 54, INK); line(c, f, 44, SKIN.child); line(c, [[262, SCY - 36], [274, SCY - 30]], 4, SKIN.childDk); }
+};
 
-// setup.e2.0
+// setup.e2.0 : pull the plunger out from 0 to 10, the tip open
 const e2_0 = (c: Ctx) => {
   ground(c);
-  tilted(c, 1.2, 594, () => {
+  tilted(c, () => {
     const sx = syringe(c, 10);
-    arrow(c, [[sx + 60, 390], [sx + 240, 390]]);
+    travel(c, 0, sx);
+    arrow(c, [[sx + 40, 380], [sx + 250, 380]]);
+    holdBarrel(c, false);
     arm(c, sx + 190, SCY + 70 * 1.4, -Math.PI / 2, 1.4);
   });
 };
 
-// setup.e2.1
+// setup.e2.1 : tip blocked with a finger, push the plunger in from 10 to 5
 const e2_1 = (c: Ctx) => {
   ground(c);
-  tilted(c, 1.05, 523, () => {
+  tilted(c, () => {
     const sx = syringe(c, 5), disc = sx + RL + 24;
-    arm(c, 268 - 90 * 1.15, SCY - 4, 0, 1.15, true);
+    travel(c, 10, sx);
     arm(c, disc + 78 * 1.15, SCY, Math.PI, 1.15);
-    arrow(c, [[disc + 90, 395], [disc - 120, 395]]);
+    arrow(c, [[disc + 90, 380], [disc - 160, 380]]);
     line(c, [[sx, SCY + BH - 2], [sx, SCY + BH + 18]], 7, RED);
+    holdBarrel(c, true);
   });
 };
 
-// setup.e2.2
+// setup.e2.2 : the same, full of water: the plunger hardly moves from 10
 const e2_2 = (c: Ctx) => {
   ground(c);
-  tilted(c, 0.93, 590, () => {
-    const sx = syringe(c, 9.5, true), disc = sx + RL + 24;
-    arm(c, 268 - 90 * 1.15, SCY - 4, 0, 1.15, true);
+  tilted(c, () => {
+    const sx = syringe(c, 9.3, true), disc = sx + RL + 24;
+    travel(c, 10, sx);
     arm(c, disc + 78 * 1.15, SCY, Math.PI, 1.15);
-    arrow(c, [[disc + 90, 395], [disc - 120, 395]]);
+    arrow(c, [[disc + 90, 380], [disc - 160, 380]]);
     line(c, [[sx, SCY + BH - 2], [sx, SCY + BH + 18]], 7, RED);
+    holdBarrel(c, true);
   });
 };
 

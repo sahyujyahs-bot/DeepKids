@@ -53,14 +53,6 @@ const lemonHalf = (c: Ctx, x: number, y: number, r: number) => {
   shape(c, () => ell(c, x, y, r * 0.8, r * 0.8), "#fff3b0", 3);
   for (let k = 0; k < 8; k++) { const a = (k * Math.PI) / 4 + 0.2; line(c, [[x + Math.cos(a) * r * 0.1, y + Math.sin(a) * r * 0.1], [x + Math.cos(a) * r * 0.7, y + Math.sin(a) * r * 0.7]], 3, COL.yellow); }
 };
-// a straight steel tumbler with a pale drink showing at the rim
-const tumbler = (c: Ctx, x: number, y: number, w: number, h: number, inside: string) => {
-  shadow(c, x + w * 0.12, y + 6, w * 0.6, w * 0.12);
-  const body = () => { c.moveTo(x - w / 2, y - h); c.lineTo(x + w / 2, y - h); c.lineTo(x + w * 0.42, y); c.lineTo(x - w * 0.42, y); c.closePath(); };
-  shape(c, body, COL.steel, 6); shade(c, body, COL.steelDk, w * 0.3, 0, 0.55);
-  shape(c, () => ell(c, x, y - h, w / 2, w * 0.1), inside, 5);
-  shine(c, [[x - w * 0.34, y - h * 0.82], [x - w * 0.3, y - h * 0.2]], 8);
-};
 // a torn red-cabbage leaf, purple with pale veins
 const cabbageLeaf = (c: Ctx, x: number, y: number, len: number, rot: number) => {
   c.save(); c.translate(x, y); c.rotate(rot);
@@ -140,12 +132,12 @@ const e1_3 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c);
-  sheet(c, [[70, 380], [1010, 380], [1056, 900], [24, 900]]);
-  glassWith(c, 160, 790, 200, 300, 0.5, PINK);
-  lemonHalf(c, 332, 728, 62);
-  glassWith(c, 550, 790, 200, 300, 0.5, PALE);
-  tumbler(c, 735, 790, 130, 160, "#fbf8f0");
-  glassWith(c, 930, 790, 200, 300, 0.5, PUR);
+  sheet(c, [[20, 380], [1050, 380], [1070, 900], [6, 900]]);
+  glassWith(c, 135, 790, 190, 290, 0.5, PINK);
+  lemonHalf(c, 295, 735, 55);
+  glassWith(c, 510, 790, 190, 290, 0.5, PALE);
+  glassWith(c, 705, 790, 130, 200, 0.65, "#fffbea");
+  glassWith(c, 900, 790, 190, 290, 0.5, PUR);
 };
 
 // setup.e2.1
@@ -163,39 +155,56 @@ const e2_2 = (c: Ctx) => {
   glassWith(c, 750, 620, 260, 340, 0.5, PUR);
   line(c, [[500, 420], [580, 420]], 12); line(c, [[500, 460], [580, 460]], 12);
   sheet(c, [[190, 735], [890, 735], [900, 975], [180, 975]]);
-  for (let k = 0; k < 4; k++) line(c, [[260 + k * 40, 775], [260 + k * 40, 935]], 9);
-  line(c, [[245, 930], [405, 780]], 9);
-  line(c, [[455, 775], [455, 935]], 9);
-  write(c, "6", 640, 770, 150, INK, 12);
+  for (let k = 0; k < 4; k++) line(c, [[240 + k * 36, 775], [240 + k * 36, 935]], 9);
+  line(c, [[225, 930], [365, 780]], 9);
+  line(c, [[410, 775], [410, 935]], 9);
+  write(c, "6", 520, 770, 150, INK, 12);
+  // a teaspoon lying on the paper: narrow bowl, handle widening to the end
+  const tsp = () => polyP(c, [[726, 838], [850, 888], [884, 902], [892, 922], [860, 926], [724, 872]]);
+  shape(c, tsp, COL.steel, 6); shade(c, tsp, COL.steelDk, 8, 10, 0.5);
+  shape(c, () => ell(c, 712, 855, 62, 34, 0.38), COL.steel, 6); shape(c, () => ell(c, 712, 855, 48, 24, 0.38), "#e8f6ff", 3);
 };
 
 // ---------------------------------------------------------------- experiment 3: curd turns sour
+// a steel katori seen from above with milk or set curd in it, so it never looks empty
+const katori = (c: Ctx, x: number, y: number, r: number, what: "milk" | "curd") => {
+  bowl(c, x, y, r);
+  const ry = r * 0.28;
+  shape(c, () => ell(c, x, y, r, ry), COL.steelIn, 5);
+  if (what === "milk") {
+    shape(c, () => ell(c, x, y + ry * 0.1, r * 0.88, ry * 0.8), "#fff7e0", 3);
+    shine(c, [[x - r * 0.6, y - ry * 0.1], [x - r * 0.3, y - ry * 0.35]], 8);
+  } else {
+    const dome = () => { c.moveTo(x - r * 0.88, y + ry * 0.1); c.bezierCurveTo(x - r * 0.8, y - r * 0.62, x + r * 0.8, y - r * 0.62, x + r * 0.88, y + ry * 0.1); c.bezierCurveTo(x + r * 0.5, y + ry * 0.95, x - r * 0.5, y + ry * 0.95, x - r * 0.88, y + ry * 0.1); c.closePath(); };
+    shape(c, dome, "#fffaf0", 5); shade(c, dome, "#d9d2c0", r * 0.14, r * 0.06, 0.6);
+    shine(c, [[x - r * 0.5, y - r * 0.28], [x - r * 0.2, y - r * 0.4]], 8);
+  }
+};
 // steam over warm milk
 const steam = (c: Ctx, x: number, y: number) => [-70, 0, 70].forEach((dx) => { c.globalAlpha = 0.6; line(c, [[x + dx, y], [x + dx - 18, y - 40], [x + dx + 16, y - 80], [x + dx - 6, y - 120]], 10, COL.grey); c.globalAlpha = 1; });
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
   steam(c, 450, 500);
-  bowl(c, 450, 680, 250, "#fbf8f0");
-  // ripple round the spoon tip
-  c.globalAlpha = 0.9; shape(c, () => ell(c, 470, 684, 80, 20), "rgba(255,255,255,0)", 4); c.globalAlpha = 1;
+  katori(c, 450, 680, 250, "milk");
+  // ripples round the spoon
+  for (const k of [1, 1.7, 2.4]) { c.beginPath(); ell(c, 470, 690, 52 * k, 14 * k); c.strokeStyle = "#d8c9a0"; c.lineWidth = 4; c.stroke(); }
   spoon(c, 900 + Math.cos(2.45) * 68, 330 + Math.sin(2.45) * 68, 470, 680, 0.1, WHITE);
-  shape(c, () => ell(c, 470, 680, 26, 14), WHITE, 3);
+  shape(c, () => ell(c, 466, 668, 34, 22), "#fffaf0", 3);
   handL(c, 900, 330, 2.45, 1.7);
-  arrow(c, [[640, 760], [520, 785], [380, 765], [300, 720]]);
-  tag(c, 210, 930, 130, 80, "1");
+  arrow(c, [[640, 712], [560, 742], [400, 742], [300, 705]]);
+  tag(c, 450, 940, 130, 80, "1");
 };
 
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   ground(c);
   // A: set thick, a spoon standing in it
-  bowl(c, 230, 740, 165, "#fffaf0");
-  line(c, [[270, 590], [240, 735]], 16, INK); line(c, [[270, 590], [240, 735]], 8, COL.steelIn);
-  shape(c, () => ell(c, 232, 742, 30, 12, 0.1), COL.steel, 4);
+  katori(c, 230, 740, 165, "curd");
+  line(c, [[300, 540], [245, 690]], 16, INK); line(c, [[300, 540], [245, 690]], 8, COL.steelIn);
   tag(c, 230, 920, 110, 70, "1");
   // B: being covered with a plate
-  bowl(c, 655, 740, 165, "#fbf8f0");
+  katori(c, 655, 740, 165, "milk");
   plate(c, 655, 520, 215, 62);
   handL(c, 940, 520, Math.PI, 1.6);
   arrow(c, [[655, 270], [655, 410]]);

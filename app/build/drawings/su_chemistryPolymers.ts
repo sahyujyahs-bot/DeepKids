@@ -97,22 +97,38 @@ const e1_0 = (c: Ctx) => {
   adultHand(c, 801, 250, Math.PI, 1.8);
 };
 
+// a steel katori seen from a little above, full of runny white glue; rim centre (x, y), rim radius r
+const katori = (c: Ctx, x: number, y: number, r: number) => {
+  shadow(c, x + r * 0.1, y + r * 0.78, r * 0.85, r * 0.14);
+  const body = () => { c.moveTo(x - r, y); c.bezierCurveTo(x - r * 0.9, y + r * 0.95, x + r * 0.9, y + r * 0.95, x + r, y); c.closePath(); };
+  shape(c, body, COL.steel); shade(c, body, COL.steelDk, r * 0.35, -r * 0.05);
+  shape(c, () => ell(c, x, y, r, r * 0.42), COL.steelIn, 5);
+  shape(c, () => ell(c, x, y + 3, r * 0.86, r * 0.33), GLUE, 4);
+  line(c, [[x - r * 0.5, y + 2], [x - r * 0.2, y - 10], [x + r * 0.15, y + 2], [x + r * 0.45, y - 6]], 4, COL.grey);
+  shine(c, [[x - r * 0.62, y - 12], [x - r * 0.36, y - 20]], 8);
+};
+// a small teaspoon icon, bowl on top, handle down
+const spoonIcon = (c: Ctx, x: number, y: number) => {
+  line(c, [[x, y + 14], [x, y + 50]], 14, INK); line(c, [[x, y + 14], [x, y + 50]], 6, COL.steel);
+  shape(c, () => ell(c, x, y, 15, 21), COL.steel, 5);
+};
+
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  const xs = [200, 540, 880], nums = ["1", "3", "6"];
+  const xs = [190, 540, 890], nums = ["1", "3", "6"], n = [1, 3, 6];
   xs.forEach((x, i) => {
-    bowl(c, x, 700, 140, GLUE);
-    shape(c, () => { c.moveTo(x - 125, 702); c.bezierCurveTo(x - 110, 610, x + 110, 610, x + 125, 702); c.quadraticCurveTo(x, 730, x - 125, 702); c.closePath(); }, GLUE, 5);
-    shine(c, [[x - 70, 660], [x - 30, 640]], 8);
-    write(c, nums[i], x - 14, 860, 100, INK, 12);
+    katori(c, x, 640, 150);
+    write(c, nums[i], x - 14, 790, 80, INK, 11);
+    for (let k = 0; k < n[i]; k++) spoonIcon(c, x + ((k % 3) - (Math.min(n[i], 3) - 1) / 2) * 56, 915 + Math.floor(k / 3) * 80);
   });
-  // the teaspoon in a grown-up's hand, tipped over the middle katori, a thin clear stream falling in
+  // the teaspoon in a grown-up's hand, tipped over the middle katori, a thin clear stream falling into the glue
   const dir = [Math.cos(2.5), Math.sin(2.5)];
   line(c, [[870 - dir[0] * 300, 150 - dir[1] * 300], [610, 350]], 22, INK); line(c, [[870 - dir[0] * 300, 150 - dir[1] * 300], [610, 350]], 12, COL.steel);
   shape(c, () => ell(c, 590, 368, 48, 27, 2.5), COL.steel, 5);
-  line(c, [[552, 398], [546, 668]], 22, INK); line(c, [[552, 398], [546, 668]], 12, COL.drop);
-  for (const [x, y] of [[520, 600], [572, 560], [524, 480]]) shape(c, () => ell(c, x, y, 9, 13), COL.drop, 3);
+  line(c, [[552, 398], [546, 636]], 22, INK); line(c, [[552, 398], [546, 636]], 12, COL.water);
+  for (const [x, y] of [[520, 560], [574, 520], [524, 460]]) shape(c, () => ell(c, x, y, 9, 13), COL.water, 3);
+  c.beginPath(); ell(c, 546, 640, 46, 13); c.strokeStyle = COL.waterDk; c.lineWidth = 6; c.stroke();
   adultHand(c, 870, 150, 2.5, 1.8);
 };
 
@@ -129,15 +145,18 @@ const e1_2 = (c: Ctx) => {
 // setup.e1.3
 const e1_3 = (c: Ctx) => {
   ground(c);
-  const y = 560;
-  // thread between two lumps, thin and sagging in the middle
-  const lump = (x: number) => { shape(c, () => ell(c, x, y + 8, 72, 62), SLIME); };
-  lump(235); lump(845);
-  const thread = (w: number, col: string) => { c.beginPath(); c.moveTo(235, y + 6); c.quadraticCurveTo(540, y + 60, 845, y + 6); c.strokeStyle = col; c.lineWidth = w; c.lineCap = "round"; c.stroke(); };
-  thread(26, INK); thread(14, SLIME);
-  arrow(c, [[300, 390], [110, 390]]); arrow(c, [[780, 390], [970, 390]]);
-  childHand(c, 100, y, 0, 1.8);
-  childHand(c, 980, y, Math.PI, 1.8);
+  const y = 560, big = 78, thin = 8, sag = (x: number) => 34 * Math.sin((Math.PI * (x - 150)) / 780);
+  // one piece of slime: a round lump in each fist, between them a long thin thread that sags in the middle
+  const half = (x: number) => thin + (big - thin) * (Math.exp(-(((x - 255) / 62) ** 2)) + Math.exp(-(((x - 825) / 62) ** 2)));
+  const xsA: number[] = []; for (let x = 140; x <= 940; x += 6) xsA.push(x);
+  const pts = [...xsA.map((x) => [x, y + sag(x) - half(x)]), ...xsA.slice().reverse().map((x) => [x, y + sag(x) + half(x)])];
+  const p = () => polyP(c, pts);
+  shadow(c, 540, y + 130, 380, 14);
+  shape(c, p, SLIME, 6); shade(c, p, SLIME_DK, 0, 30, 0.6);
+  shine(c, [[225, y - 45], [265, y - 56]], 9);
+  arrow(c, [[300, 400], [110, 400]]); arrow(c, [[780, 400], [970, 400]]);
+  childHand(c, 20, y, 0, 1.8);
+  childHand(c, 1060, y, Math.PI, 1.8);
 };
 
 // ---------------------------------------------------------------- experiment 2: balloon
@@ -156,12 +175,18 @@ const e2_1 = (c: Ctx) => {
   ground(c);
   balloon(c, -120);
   knot(c, -120);
-  // the oiled skewer from the grown-up's hand, its tip on the thick rubber near the knot
-  const T = [420, 796], W = [900, 590];
-  line(c, [T, [W[0] + 80, W[1] - 35]], 28, INK); line(c, [T, [W[0] + 80, W[1] - 35]], 18, COL.wood);
-  line(c, [[T[0] + 40, T[1] - 16], [T[0] + 230, T[1] - 98]], 5, WHITE);
-  for (const [x, y] of [[510, 757], [590, 722], [670, 688]]) shape(c, () => ell(c, x, y, 9, 13, 1.2), COL.yellow, 3);
-  arrow(c, [[640, 560], [700, 520], [780, 530], [815, 560]]);
+  // the oiled skewer from the grown-up's hand, its tip pressed into the thick rubber near the knot, a dent round it
+  const T = [425, 793], W = [900, 590], E = [W[0] + 80, W[1] - 35], an = Math.atan2(E[1] - T[1], E[0] - T[0]), ux = Math.cos(an), uy = Math.sin(an);
+  const P = (t: number) => [T[0] + ux * t, T[1] + uy * t];
+  for (let k = 0; k < 6; k++) { const a = -2.6 + k * 0.5; line(c, [[T[0] + Math.cos(a) * 36, T[1] + Math.sin(a) * 24], [T[0] + Math.cos(a) * 80, T[1] + Math.sin(a) * 52]], 5, INK); }
+  line(c, [T, E], 28, INK); line(c, [T, E], 18, COL.wood);
+  shape(c, () => ell(c, T[0], T[1], 14, 10), COL.woodDk, 4);
+  line(c, [P(30), P(330)], 5, WHITE);
+  for (const t of [60, 130, 200]) { const q = P(t); shape(c, () => ell(c, q[0], q[1] - 20, 9, 13, 1.2), COL.yellow, 3); }
+  // a twist arrow wound round the shaft
+  const m = P(280), ring: number[][] = [];
+  for (let k = 0; k <= 18; k++) { const t = 0.4 + (k / 18) * 4.4, perp = 70 * Math.cos(t), along = 24 * Math.sin(t); ring.push([m[0] - uy * perp + ux * along, m[1] + ux * perp + uy * along]); }
+  arrow(c, ring, RED, 11);
   childHand(c, 420, 1070, -Math.PI / 2, 1.7);
   adultHand(c, W[0], W[1], 2.73, 1.8);
 };

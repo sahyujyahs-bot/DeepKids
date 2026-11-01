@@ -79,9 +79,9 @@ const sugarHeap = (c: Ctx, x: number, y: number) => {
 const waxShavings = (c: Ctx, x: number, y: number) => {
   const r = rnd(33);
   for (let i = 0; i < 8; i++) {
-    const a = r() * 6.28, d = Math.sqrt(r()) * 0.7, px = x + Math.cos(a) * 80 * d, py = y + 6 + Math.sin(a) * 105 * d, rr = 22 + r() * 10, a0 = r() * 6;
-    c.beginPath(); c.arc(px, py, rr, a0, a0 + 4.3); c.strokeStyle = INK; c.lineWidth = 17; c.lineCap = "round"; c.stroke();
-    c.beginPath(); c.arc(px, py, rr, a0, a0 + 4.3); c.strokeStyle = i % 2 ? WHITE : "#f3ecdc"; c.lineWidth = 10; c.stroke();
+    const a = r() * 6.28, d = Math.sqrt(r()) * 0.7, px = x + Math.cos(a) * 80 * d, py = y + 6 + Math.sin(a) * 105 * d, rr = 30 + r() * 12, a0 = r() * 6;
+    c.beginPath(); c.arc(px, py, rr, a0, a0 + 4.3); c.strokeStyle = INK; c.lineWidth = 24; c.lineCap = "round"; c.stroke();
+    c.beginPath(); c.arc(px, py, rr, a0, a0 + 4.3); c.strokeStyle = i % 2 ? "#fbf2cf" : "#f1e3b0"; c.lineWidth = 14; c.stroke();
   }
 };
 const brownLump = (c: Ctx, x: number, y: number) => {
@@ -97,9 +97,10 @@ const waxLump = (c: Ctx, x: number, y: number) => {
   shine(c, [[x - 48, y - 40], [x - 28, y - 72], [x + 6, y - 80]], 9);
 };
 // two spoons (left, right) on a steel thali; each gets its contents drawn in the spoon's own frame
-const twoSpoons = (c: Ctx, left: (c: Ctx, x: number, y: number) => void, right: (c: Ctx, x: number, y: number) => void) => {
+const twoSpoons = (c: Ctx, left: (c: Ctx, x: number, y: number) => void, right: (c: Ctx, x: number, y: number) => void, extras?: () => void) => {
   ground(c); plate(c, 540, 500, 430, 430);
   [[380, left], [700, right]].forEach(([x, fn]) => { c.save(); c.translate(x as number, 307); c.scale(0.92, 0.92); spoonTop(c, 0, 0); (fn as typeof left)(c, 0, 0); c.restore(); });
+  extras?.();
 };
 
 // setup.e1.0.0
@@ -143,7 +144,7 @@ const e1_2 = (c: Ctx) => {
 
 // setup.e2.0.0
 const e2_0 = (c: Ctx) => {
-  twoSpoons(c, sugarHeap, waxShavings);
+  twoSpoons(c, sugarHeap, waxShavings, () => { sugarCube(c, 482, 700, 1); candle(c, 598, 770); });
 };
 
 // setup.e2.1.1
@@ -177,17 +178,29 @@ const e2_2 = (c: Ctx) => {
   twoSpoons(c, brownLump, waxLump);
 };
 
+// a sugar cube, centre (x, y), s = scale
+const sugarCube = (c: Ctx, x: number, y: number, s: number) => {
+  c.save(); c.translate(x, y); c.scale(s, s);
+  shape(c, () => polyP(c, [[0, -46], [52, -22], [0, 2], [-52, -22]]), WHITE, 5);
+  shape(c, () => polyP(c, [[-52, -22], [0, 2], [0, 58], [-52, 34]]), "#e4dccb", 5);
+  shape(c, () => polyP(c, [[52, -22], [0, 2], [0, 58], [52, 34]]), "#cfc6b2", 5);
+  for (const [gx, gy] of [[-24, -24], [10, -30], [26, -14], [-6, -12], [-34, -10]]) shape(c, () => ell(c, gx, gy, 3.5, 3.5), "#d9d0bd", 0);
+  c.restore();
+};
+// a candle stub standing on its base (x, y), the wax is scraped off it; no flame
+const candle = (c: Ctx, x: number, y: number) => {
+  const body = () => rrect(c, x - 42, y - 190, 84, 190, 12);
+  shadow(c, x + 14, y + 4, 70, 14);
+  shape(c, body, "#fbf2cf"); shade(c, body, "#e0cf94", -26, 0, 0.7);
+  shape(c, () => ell(c, x, y - 190, 42, 12), "#f1e3b0", 5);
+  line(c, [[x, y - 192], [x + 5, y - 226]], 7, INK);
+};
 // a paper tag with a picture on it: a drop (plain), a sugar cube, a heap of white powder (soda); s scales the whole tag
 const tag = (c: Ctx, x: number, y: number, kind: "drop" | "sugar" | "soda", s: number) => {
   c.save(); c.translate(x, y); c.scale(s, s);
   shadow(c, 8, 82, 112, 12); shape(c, () => rrect(c, -105, -70, 210, 140, 16), COL.paper, 5);
   if (kind === "drop") drop(c, 0, 8, 44);
-  if (kind === "sugar") {
-    shape(c, () => polyP(c, [[0, -46], [52, -22], [0, 2], [-52, -22]]), WHITE, 5);
-    shape(c, () => polyP(c, [[-52, -22], [0, 2], [0, 58], [-52, 34]]), "#e4dccb", 5);
-    shape(c, () => polyP(c, [[52, -22], [0, 2], [0, 58], [52, 34]]), "#cfc6b2", 5);
-    for (const [gx, gy] of [[-24, -24], [10, -30], [26, -14], [-6, -12], [-34, -10]]) shape(c, () => ell(c, gx, gy, 3.5, 3.5), "#d9d0bd", 0);
-  }
+  if (kind === "sugar") sugarCube(c, 0, 0, 1);
   if (kind === "soda") {
     const heap = () => { c.moveTo(-76, 44); c.bezierCurveTo(-64, -12, -24, -48, 0, -48); c.bezierCurveTo(24, -48, 64, -12, 76, 44); c.closePath(); };
     shape(c, heap, WHITE, 5); shade(c, heap, "#d9d0bd", -22, 0, 0.8);

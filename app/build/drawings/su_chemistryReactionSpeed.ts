@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { COL, INK, RED, WHITE, SH, SKIN, CLOTH, ground, shape, ell, rrect, shadow, shade, line, arrow, glass, plate, hand, leaf, write, rnd, cards } from "./flatKit";
+import { COL, INK, BG, RED, WHITE, SH, SKIN, CLOTH, ground, shape, ell, rrect, shadow, shade, polyP, line, arrow, glass, plate, hand, leaf, write, rnd, cards } from "./flatKit";
 
 // sci.chemistry.reaction-speed.L3 · set-up cards. Same clear tumblers, steel plate, icon tags, potato and ruler on every card of an experiment.
 
@@ -16,9 +16,6 @@ const solid = (c: Ctx, path: () => void, col: string, dk: string, dx: number, dy
 // a hand coming in from the right: the kit hand, mirrored
 const handM = (c: Ctx, x: number, y: number, an: number, s: number, open = false) => {
   c.save(); c.translate(x, y); c.scale(-1, 1); hand(c, 0, 0, Math.PI - an, s, SKIN.child, CLOTH.child, open); c.restore();
-};
-const drop = (c: Ctx, x: number, y: number, s: number, col: string = COL.waterDk) => {
-  shape(c, () => { c.moveTo(x, y - s * 1.5); c.quadraticCurveTo(x + s * 1.1, y - s * 0.2, x + s * 0.8, y + s * 0.3); c.arc(x, y + s * 0.3, s * 0.8, 0, Math.PI); c.quadraticCurveTo(x - s * 1.1, y - s * 0.2, x, y - s * 1.5); c.closePath(); }, col, 4);
 };
 // a grated shred with an ink outline
 const shred = (c: Ctx, x: number, y: number, an: number, col: string, len = 30) => {
@@ -150,68 +147,55 @@ const e1s2 = (c: Ctx) => {
 // setup.e1.3
 const e1s3 = (c: Ctx) => {
   ground(c);
-  // the sink
-  shadow(c, 370, 960, 340, 36);
-  const sinkP = () => rrect(c, 40, 700, 660, 250, 40);
-  solid(c, sinkP, COL.steel, COL.steelDk, 24, 16);
-  shape(c, () => rrect(c, 90, 738, 560, 170, 30), "#8793a4", 5);
-  shape(c, () => ell(c, 370, 830, 54, 18), COL.black, 5);
-  [-22, 0, 22].forEach((dx) => line(c, [[370 + dx, 815], [370 + dx, 845]], 3, COL.steelDk));
-  // the tap at the back of the sink
-  line(c, [[640, 700], [640, 600], [560, 590], [560, 650]], 34, INK); line(c, [[640, 700], [640, 600], [560, 590], [560, 650]], 22, COL.steel);
-  shape(c, () => rrect(c, 608, 690, 64, 24, 8), COL.steelDk, 5);
-  c.save(); c.translate(50, 0);
-  // the strainer: handle, mesh bowl, grated potato heaped in it
-  line(c, [[150, 270], [300, 296]], 28, INK); line(c, [[150, 270], [300, 296]], 17, COL.steel);
-  const bowlP = () => { c.moveTo(285, 296); c.bezierCurveTo(300, 480, 580, 480, 595, 296); c.closePath(); };
-  shape(c, () => ell(c, 440, 296, 155, 32), COL.steelIn, 6);
-  shape(c, bowlP, COL.steel, 0);
-  shade(c, bowlP, COL.steelDk, -40, -26, 0.5);
-  c.save(); c.beginPath(); bowlP(); c.clip();
-  for (let k = -4; k <= 4; k++) line(c, [[440 + k * 38, 310], [440 + k * 22, 470]], 3, COL.steelDk);
-  for (let yy = 340; yy < 470; yy += 30) line(c, [[270, yy], [610, yy]], 3, COL.steelDk);
-  c.restore();
-  c.beginPath(); bowlP(); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
-  heap(c, 440, 296, 135, 90, POTATO, "#dcb67e", POTATO_DK, 8, false);
-  c.beginPath(); c.ellipse(440, 296, 155, 32, 0, 0, Math.PI); c.lineWidth = 12; c.strokeStyle = INK; c.stroke();
-  c.beginPath(); c.ellipse(440, 296, 155, 32, 0, 0, Math.PI); c.lineWidth = 5; c.strokeStyle = COL.steelIn; c.stroke();
-  hand(c, 40, 255, 0.1, 1.8);
-  [[420, 530, 1.1], [468, 590, 1], [430, 655, 1.15]].forEach(([x, y, s]) => drop(c, x, y, 16 * s));
-  c.restore();
-  // the fresh cup, the potato dropping in, foam beginning
-  const x = 880, yb = 960, h = 430, w = 290;
+  plate(c, 560, 940, 500, 80);
+  // the fresh cup of peroxide on the right, foam just beginning
+  const x = 740, yb = 950, h = 540, w = 380;
   glass(c, x, yb, w, h, 0.35, CLEAR);
-  foam(c, x, yb - h * 0.35, 150, { yb, w, h, r: 28 }, 33);
-  [[830, 250, 1.2], [905, 300, 0.5], [850, 355, 1.5], [915, 400, 1.0], [860, 455, 0.8]].forEach(([sx, sy, a]) => shred(c, sx, sy, a, POTATO, 40));
-  arrow(c, [[700, 330], [710, 260], [740, 215], [790, 190], [835, 190]], RED, 12);
+  foam(c, x, yb - h * 0.35, 120, { yb, w, h, r: 28 }, 33);
+  // the tea strainer tipped over the cup: handle in the hand, mesh bowl, grated potato sliding out
+  const bx = 420, by = 330;
+  line(c, [[260, 240], [bx - 120, by - 20]], 34, INK); line(c, [[260, 240], [bx - 120, by - 20]], 22, COL.steel);
+  c.save(); c.translate(bx, by); c.rotate(0.55);
+  const bowlP = () => ell(c, 0, 0, 170, 100);
+  shape(c, bowlP, COL.steel, 0); shade(c, bowlP, COL.steelDk, -26, -20, 0.55);
+  c.save(); c.beginPath(); bowlP(); c.clip();
+  for (let k = -5; k <= 5; k++) line(c, [[k * 32, -110], [k * 32, 110]], 2.5, COL.steelDk);
+  for (let k = -3; k <= 3; k++) line(c, [[-180, k * 32], [180, k * 32]], 2.5, COL.steelDk);
+  c.restore();
+  c.beginPath(); bowlP(); c.lineWidth = 7; c.strokeStyle = INK; c.stroke();
+  shape(c, () => ell(c, 0, 0, 150, 82), COL.steelIn, 4);
+  c.restore();
+  heap(c, bx + 8, by + 24, 112, 62, POTATO, "#dcb67e", POTATO_DK, 8, false);
+  // shreds falling into the cup
+  [[600, 430, 1.1], [640, 500, 1.6], [690, 470, 0.5], [740, 540, 1.3], [655, 580, 0.9]].forEach(([sx, sy, a]) => shred(c, sx, sy, a, POTATO, 40));
+  hand(c, 190, 215, 0.15, 1.6);
+  arrow(c, [[520, 170], [610, 190], [660, 250], [665, 330]], RED, 12);
 };
 
 // ---------------------------------------------------------------- experiment 2: eggshell in vinegar
 // setup.e2.0
 const e2s0 = (c: Ctx) => {
   ground(c);
-  plate(c, 540, 560, 510, 310);
-  // the shell half that waits on the plate
-  const sx = 850, sy = 690, sr = 128;
-  shadow(c, sx + 14, sy + 130, sr, 28);
-  const body = () => { c.moveTo(sx - sr, sy); c.bezierCurveTo(sx - sr * 0.95, sy + sr * 1.45, sx + sr * 0.95, sy + sr * 1.45, sx + sr, sy); c.closePath(); };
-  solid(c, body, SHELL, SHELL_DK, 22, 10);
-  const rim = () => { for (let k = 0; k <= 16; k++) { const a = (k / 16) * Math.PI * 2, f = k % 2 ? 0.9 : 1; (k ? c.lineTo : c.moveTo).call(c, sx + Math.cos(a) * sr * f, sy + Math.sin(a) * sr * 0.34 * f); } c.closePath(); };
-  shape(c, rim, SHELL_DK, 5);
-  shape(c, () => ell(c, sx + 6, sy + 4, sr * 0.78, sr * 0.22), "#b9976a", 0);
-  // folded paper with the shell inside, a little powder fallen out
-  const paper = () => { c.moveTo(130, 420); c.lineTo(470, 395); c.lineTo(510, 660); c.lineTo(170, 690); c.closePath(); };
-  shape(c, () => { c.moveTo(146, 438); c.lineTo(486, 413); c.lineTo(526, 678); c.lineTo(186, 708); c.closePath(); }, SH, 0);
-  shape(c, paper, "#fffaf0", 6);
-  line(c, [[300, 408], [340, 672]], 4, COL.grey);
-  [[120, 720], [165, 745], [215, 752], [535, 700], [560, 675]].forEach(([x, y]) => shape(c, () => ell(c, x, y, 8, 6), WHITE, 3));
-  // the rolling pin, upright on the page, a flat hand pressing it
-  shadow(c, 420, 745, 70, 16);
-  shape(c, () => rrect(c, 375, 270, 50, 66, 8), COL.woodDk, 6);
-  shape(c, () => rrect(c, 375, 725, 50, 66, 8), COL.woodDk, 6);
-  solid(c, () => rrect(c, 350, 330, 100, 400, 28), COL.wood, COL.woodDk, 24, 0);
-  handM(c, 650, 545, Math.PI, 2.0, true);
-  arrow(c, [[335, 580], [200, 580]], RED, 12);
+  plate(c, 540, 650, 510, 340);
+  // the paper the shell is folded in, lying on the plate
+  shape(c, () => polyP(c, [[190, 428], [930, 428], [985, 808], [135, 808]]), SH, 0);
+  shape(c, () => polyP(c, [[170, 410], [910, 410], [965, 790], [115, 790]]), "#fffaf0", 6);
+  line(c, [[170, 410], [910, 410]], 10, COL.grey);
+  // big pieces of shell still waiting behind the pin
+  [[260, 470, 1.0], [400, 455, 0.8], [690, 462, 0.9], [830, 478, 1.1]].forEach(([x, y, k]) => {
+    const p = () => { c.moveTo(x - 46 * k, y); c.bezierCurveTo(x - 40 * k, y + 52 * k, x + 40 * k, y + 52 * k, x + 46 * k, y); c.closePath(); };
+    solid(c, p, SHELL, SHELL_DK, 10, 6);
+  });
+  // fine white powder in front of the pin, where it has already passed
+  const r = rnd(9);
+  for (let k = 0; k < 60; k++) shape(c, () => ell(c, 220 + r() * 700, 660 + r() * 110, 6 + r() * 4, 5 + r() * 3), WHITE, 3);
+  // the rolling pin lying across the paper, a flat hand pressing it down
+  shadow(c, 560, 650, 330, 26);
+  shape(c, () => rrect(c, 180, 548, 100, 54, 12), COL.woodDk, 6);
+  shape(c, () => rrect(c, 800, 548, 100, 54, 12), COL.woodDk, 6);
+  solid(c, () => rrect(c, 250, 505, 580, 140, 40), COL.wood, COL.woodDk, 0, 30);
+  hand(c, 540, 270, Math.PI / 2, 2.0, SKIN.child, CLOTH.child, true);
+  arrow(c, [[960, 520], [985, 600], [975, 690]], RED, 12);
 };
 
 // setup.e2.1
@@ -241,15 +225,20 @@ const e2s1 = (c: Ctx) => {
 const e2s2 = (c: Ctx) => {
   e2Base(c);
   vinegar(c, GX2[0]); vinegar(c, GX2[1]);
-  // the morning sun
-  const sx = 540, sy = 175;
-  for (let k = 0; k < 10; k++) { const a = (k / 10) * Math.PI * 2; line(c, [[sx + Math.cos(a) * 76, sy + Math.sin(a) * 76], [sx + Math.cos(a) * 106, sy + Math.sin(a) * 106]], 10, COL.orange); }
-  solid(c, () => ell(c, sx, sy, 58, 58), COL.yellow, COL.orange, 16, 16);
-  // left: the piece is thin and bent, only a few bubbles
-  shellPiece(c, GX2[0] + 4, GY2 - 70, 96, Math.PI * 1.08, Math.PI * 1.85, 14, "#f2e8d2");
-  [[285, 790, 9], [335, 745, 8]].forEach(([x, y, r]) => bub(c, x, y, r));
-  // right: still and clear, a thin white layer at the bottom
-  shape(c, () => ell(c, GX2[1], GY2 - 12, 140, 16), WHITE, 3);
+  // night, then the morning sun
+  const mx = 330, my = 170, sx = 750, sy = 170;
+  shape(c, () => ell(c, mx, my, 62, 62), COL.cloth, 0);
+  c.save(); c.beginPath(); ell(c, mx, my, 62, 62); c.clip(); shape(c, () => ell(c, mx + 30, my - 12, 56, 56), BG, 0); c.restore();
+  c.beginPath(); c.arc(mx, my, 62, Math.PI * 0.62, Math.PI * 1.55); c.lineWidth = 7; c.strokeStyle = INK; c.stroke();
+  [[430, 120], [455, 205], [225, 130]].forEach(([x, y]) => shape(c, () => ell(c, x, y, 9, 9), COL.yellow, 3));
+  arrow(c, [[480, 170], [620, 170]], RED, 12);
+  for (let k = 0; k < 10; k++) { const a = (k / 10) * Math.PI * 2; line(c, [[sx + Math.cos(a) * 84, sy + Math.sin(a) * 84], [sx + Math.cos(a) * 118, sy + Math.sin(a) * 118]], 11, COL.orange); }
+  solid(c, () => ell(c, sx, sy, 64, 64), COL.yellow, COL.orange, 18, 18);
+  // left: the shell piece is thin and soft, bubbles still rising from it
+  shellPiece(c, GX2[0] + 4, GY2 - 90, 110, Math.PI * 1.08, Math.PI * 1.85, 16, "#f2e8d2");
+  [[250, 775, 14], [330, 740, 16], [275, 685, 12], [345, 625, 15], [285, 565, 11], [330, 505, 13], [270, 455, 10]].forEach(([x, y, rr]) => bub(c, x, y, rr));
+  // right: perfectly still and clear, the powder has all gone to a white heap on the bottom
+  heap(c, GX2[1], GY2 - 4, 125, 70, WHITE, WHITE, "#d5dde8", 6, false);
 };
 
 // ---------------------------------------------------------------- experiment 3: which vegetable

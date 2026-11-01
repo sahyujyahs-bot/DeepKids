@@ -191,36 +191,43 @@ const card_e2_2 = (c: Ctx) => {
 const card_e3_0 = (c: Ctx) => {
   ground(c);
   [180, 540, 900].forEach((x, i) => {
-    bowl(c, x, 380, 150, COL.water);
-    c.beginPath(); ell(c, x - 40, 372, 52, 7, -0.1); c.fillStyle = COL.drop; c.fill();
-    numPaper(c, x, 640, String(i + 1), 200, 220);
+    const y = 330, r = 160, body = () => { c.moveTo(x - r, y); c.bezierCurveTo(x - r * 0.95, y + 250, x + r * 0.95, y + 250, x + r, y); c.closePath(); };
+    shadow(c, x + 20, y + 215, r * 0.85, 26);
+    shape(c, body, COL.steel, 6);
+    shade(c, body, COL.steelDk, r * 0.4, -10, 0.6);
+    shape(c, () => ell(c, x, y, r, 72), COL.steelIn, 6);
+    shape(c, () => ell(c, x, y + 8, r * 0.84, 56), COL.water, 4);
+    c.save(); c.beginPath(); ell(c, x, y + 8, r * 0.84, 56); c.clip(); c.beginPath(); ell(c, x + 26, y + 22, r * 0.84, 56); c.rect(-5000, -5000, 10000, 10000); c.fillStyle = COL.waterDk; c.globalAlpha = 0.55; c.fill("evenodd"); c.restore(); c.globalAlpha = 1;
+    shape(c, () => ell(c, x - 50, y, 46, 9, -0.1), COL.drop, 0);
+    numPaper(c, x, 690, String(i + 1), 220, 240);
   });
 };
 
 // setup.e3.1 : a grown-up holds a wet steel spoon, wrapped in a cloth, in the edge of a blue flame; the child stands back
 const card_e3_1 = (c: Ctx) => {
   ground(c);
-  // the stove and its flame
-  shape(c, () => polyP(c, [[200, 870], [760, 870], [800, 950], [160, 950]]), COL.steel, 6);
-  shade(c, () => polyP(c, [[200, 870], [760, 870], [800, 950], [160, 950]]), COL.steelDk, -30, -8, 0.6);
-  cap(c, 480, 862, 120);
-  [[-85, 110, 60], [85, 110, 60], [-45, 190, 80], [45, 190, 80], [0, 250, 100]].forEach(([dx, h, w]) => flame(c, 480 + dx, 860, h, w, BLUE[0], BLUE[1], BLUE[2]));
-  // the spoon: handle from the hand, bowl in the edge of the flame
-  const bx = 575, by = 745, an = 0.7, dx = Math.cos(an), dy = Math.sin(an), wx = 190, wy = 345;
-  line(c, [[wx + dx * 40, wy + dy * 40], [bx, by]], 26, INK); line(c, [[wx + dx * 40, wy + dy * 40], [bx, by]], 16, COL.steel);
-  shape(c, () => ell(c, bx + dx * 38, by + dy * 38, 62, 38, an), COL.steel, 6);
-  shade(c, () => ell(c, bx + dx * 38, by + dy * 38, 62, 38, an), COL.steelDk, -14, -10, 0.6);
-  [[0, -8], [22, 6], [-18, 8]].forEach(([u, v]) => { c.beginPath(); ell(c, bx + dx * (38 + u) - dy * v, by + dy * (38 + u) + dx * v, 9, 6, an); c.fillStyle = COL.drop; c.fill(); });
+  // the stove and its blue flame
+  shape(c, () => polyP(c, [[160, 880], [720, 880], [760, 960], [120, 960]]), COL.steel, 6);
+  shade(c, () => polyP(c, [[160, 880], [720, 880], [760, 960], [120, 960]]), COL.steelDk, -30, -8, 0.6);
+  cap(c, 440, 872, 120);
+  [[-85, 130, 60], [85, 130, 60], [-45, 220, 80], [45, 220, 80], [0, 290, 100]].forEach(([dx, h, w]) => flame(c, 440 + dx, 870, h, w, BLUE[0], BLUE[1], BLUE[2]));
+  // the spoon: long handle from the hand, big bowl of water in the edge of the flame
+  const bx = 520, by = 690, wx = 190, wy = 290, an = Math.atan2(by - wy, bx - wx), dx = Math.cos(an), dy = Math.sin(an);
+  line(c, [[wx + dx * 40, wy + dy * 40], [bx, by]], 34, INK); line(c, [[wx + dx * 40, wy + dy * 40], [bx, by]], 22, COL.steel);
+  const sx = bx + dx * 60, sy = by + dy * 60, sp = () => ell(c, sx, sy, 100, 62, an);
+  shape(c, sp, COL.steel, 7);
+  shade(c, sp, COL.steelDk, -16, -12, 0.6);
+  shape(c, () => ell(c, sx + dx * 4, sy + dy * 4, 74, 40, an), COL.water, 4);
+  c.beginPath(); ell(c, sx - 24, sy - 8, 26, 8, an); c.fillStyle = COL.drop; c.fill();
   // the hand with a teal cloth wrapped on the handle
-  hand(c, wx, wy, an, 1.6, SKIN.adult, CLOTH.adult);
-  c.save(); c.translate(wx + dx * 190, wy + dy * 190); c.rotate(an);
+  hand(c, wx, wy, an, 1.9, SKIN.adult, CLOTH.adult);
+  c.save(); c.translate(wx + dx * 245, wy + dy * 245); c.rotate(an);
   shape(c, () => rrect(c, -50, -34, 100, 68, 16), COL.teal, 6);
   shade(c, () => rrect(c, -50, -34, 100, 68, 16), COL.tealDk, -14, -14, 0.6);
-  shape(c, () => polyP(c, [[-30, 30], [10, 32], [14, 82], [-22, 70]]), COL.teal, 6);
   line(c, [[-20, -18], [-20, 18]], 4, COL.tealDk); line(c, [[10, -18], [10, 18]], 4, COL.tealDk);
   c.restore();
   // the child stands well back
-  person(c, 930, 990, 440);
+  person(c, 930, 1000, 430);
 };
 
 // setup.e3.2 : three flames side by side: blue, blue with tiny orange sparks, bright yellow-orange

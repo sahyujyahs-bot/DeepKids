@@ -7,17 +7,18 @@ import { COL, INK, BG, WHITE, RED, SKIN, CLOTH, cards, ground, shape, ell, rrect
 const steelTumbler = (c: Ctx, x: number, y: number, w: number, h: number) => {
   shadow(c, x + w * 0.12, y + 8, w * 0.6, w * 0.12);
   const top = w / 2, bot = w * 0.4, body = () => { c.moveTo(x - top, y - h); c.lineTo(x + top, y - h); c.lineTo(x + bot, y); c.lineTo(x - bot, y); c.closePath(); };
-  shape(c, body, COL.steel, 6);
-  shade(c, body, COL.steelDk, w * 0.3, 0);
-  shape(c, () => ell(c, x, y - h, top, w * 0.09), COL.steelIn, 5);
-  line(c, [[x - top * 0.92, y - h * 0.8], [x + top * 0.82, y - h * 0.8]], 3, COL.steelDk);
-  shine(c, [[x - top * 0.6, y - h * 0.68], [x - bot * 0.62, y - h * 0.15]], 8);
+  shape(c, body, "#aab5c6", 6);
+  shade(c, body, "#6f7d94", w * 0.34, 0, 0.7);
+  shape(c, () => ell(c, x, y - h, top, w * 0.09), "#5d6a80", 5);
+  line(c, [[x - top * 0.92, y - h * 0.8], [x + top * 0.82, y - h * 0.8]], 4, "#6f7d94");
+  line(c, [[x - bot * 0.98, y - h * 0.12], [x + bot * 0.98, y - h * 0.12]], 4, "#6f7d94");
+  shine(c, [[x - top * 0.6, y - h * 0.68], [x - bot * 0.62, y - h * 0.22]], 12);
 };
 const hairBand = (c: Ctx, x: number, y: number, rx: number, ry: number) => {
   c.beginPath(); ell(c, x, y, rx, ry); c.strokeStyle = INK; c.lineWidth = 24; c.stroke();
   c.beginPath(); ell(c, x, y, rx, ry); c.strokeStyle = COL.pink; c.lineWidth = 13; c.stroke();
 };
-const BAG = "rgba(214,236,250,0.5)";
+const BAG = "rgba(235,246,255,0.22)";
 const dropP = (c: Ctx, x: number, y: number, r: number) => {
   shape(c, () => { c.moveTo(x, y - r * 1.7); c.bezierCurveTo(x + r * 0.2, y - r * 0.8, x + r, y - r * 0.5, x + r, y + r * 0.2); c.arc(x, y + r * 0.2, r, 0, Math.PI); c.bezierCurveTo(x - r, y - r * 0.5, x - r * 0.2, y - r * 0.8, x, y - r * 1.7); c.closePath(); }, COL.drop, 3.5);
 };
@@ -27,11 +28,11 @@ const handBagPath = (c: Ctx) => { c.moveTo(262, HY - 108); c.bezierCurveTo(400, 
 const tumblerBagPath = (c: Ctx) => { c.moveTo(TX - 40, TY - 520); c.bezierCurveTo(TX - 190, TY - 490, TX - 185, TY - 330, TX - 175, TY - 20); c.bezierCurveTo(TX - 170, TY + 60, TX + 170, TY + 60, TX + 175, TY - 20); c.bezierCurveTo(TX + 185, TY - 330, TX + 190, TY - 490, TX + 40, TY - 520); c.closePath(); };
 const handBag = (c: Ctx, misty: boolean) => {
   hand(c, HX, HY, 0, 2.5, SKIN.child, CLOTH.child, true);
-  shape(c, () => handBagPath(c), misty ? "rgba(235,246,255,0.5)" : "rgba(214,236,250,0.28)", 5);
+  shape(c, () => handBagPath(c), misty ? "rgba(240,248,255,0.78)" : "rgba(214,236,250,0.22)", 5);
   shine(c, [[330, HY - 110], [500, HY - 100]], 9);
   if (misty) {
     const r = rnd(5);
-    for (let i = 0; i < 16; i++) dropP(c, 310 + r() * 240, HY - 100 + r() * 200, 11 + r() * 6);
+    for (let i = 0; i < 12; i++) dropP(c, 320 + r() * 220, HY - 90 + r() * 180, 17 + r() * 7);
   }
   line(c, [[262, HY - 108], [225, HY - 140]], 5); line(c, [[262, HY + 108], [225, HY + 140]], 5);
   hairBand(c, 264, HY, 17, 112);
@@ -40,6 +41,7 @@ const tumblerBag = (c: Ctx) => {
   steelTumbler(c, TX, TY, 250, 420);
   shape(c, () => tumblerBagPath(c), BAG, 5);
   shine(c, [[TX - 150, TY - 420], [TX - 155, TY - 80]], 9);
+  line(c, [[TX + 100, TY - 440], [TX + 150, TY - 300]], 4, COL.glassEdge); line(c, [[TX + 120, TY - 200], [TX + 160, TY - 90]], 4, COL.glassEdge);
   line(c, [[TX - 40, TY - 520], [TX - 62, TY - 575]], 5); line(c, [[TX + 40, TY - 520], [TX + 62, TY - 575]], 5); line(c, [[TX, TY - 520], [TX, TY - 580]], 5);
   hairBand(c, TX, TY - 505, 52, 13);
 };
@@ -90,20 +92,19 @@ const plates = (c: Ctx) => {
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
-  // a towel with a stripe at each end, a flat hand pressing on it, drops soaking in
-  shadow(c, 340, 905, 300, 36);
-  const tow = () => rrect(c, 60, 400, 560, 470, 26);
-  shape(c, tow, COL.cloth, 6); shade(c, tow, "#e4dccb", 20, 20);
-  for (const sx of [100, 540]) { shape(c, () => rrect(c, sx, 400, 40, 470, 0), COL.teal, 0); }
-  line(c, [[100, 402], [100, 868]], 4); line(c, [[140, 402], [140, 868]], 4); line(c, [[540, 402], [540, 868]], 4); line(c, [[580, 402], [580, 868]], 4);
-  hand(c, 240, 590, 0.35, 2.5, SKIN.child, CLOTH.child, true);
-  dropP(c, 400, 790, 14); dropP(c, 470, 840, 12); dropP(c, 330, 840, 12);
-  // the things on the table: steel tumbler, two clear bags, two hair bands
-  steelTumbler(c, 850, 590, 190, 280);
-  const bag = (x: number, y: number) => { shape(c, () => rrect(c, x, y, 300, 150, 18), BAG, 5); line(c, [[x + 20, y + 24], [x + 280, y + 24]], 3, COL.glassEdge); };
-  shadow(c, 880, 960, 190, 28);
-  bag(740, 760); bag(710, 800);
-  hairBand(c, 760, 700, 44, 14); hairBand(c, 960, 700, 44, 14);
+  // a hand rubbing dry inside a folded towel, drops flying off the wet skin, rub arrows above
+  shadow(c, 560, 900, 420, 40);
+  hand(c, 70, 620, -0.08, 2.7, SKIN.child, CLOTH.child, false);
+  c.save(); c.translate(-120, 0);
+  const tow = () => { c.moveTo(300, 420); c.bezierCurveTo(420, 390, 520, 450, 640, 410); c.bezierCurveTo(740, 385, 820, 420, 900, 410); c.lineTo(900, 830); c.bezierCurveTo(820, 850, 740, 810, 640, 840); c.bezierCurveTo(520, 870, 420, 810, 300, 840); c.closePath(); };
+  shape(c, tow, COL.cloth, 6); shade(c, tow, "#d9cfb8", 26, 22, 0.8);
+  for (const sx of [760, 810]) shape(c, () => rrect(c, sx, 410, 24, 425, 0), COL.teal, 0);
+  for (const sx of [760, 784, 810, 834]) line(c, [[sx, 412], [sx, 834]], 4);
+  for (let k = 0; k < 8; k++) line(c, [[900, 425 + k * 52], [940, 425 + k * 52 + 10]], 7);
+  line(c, [[380, 520], [470, 560], [560, 540]], 5, "#d9cfb8"); line(c, [[400, 700], [500, 740], [590, 720]], 5, "#d9cfb8");
+  arrow(c, [[400, 330], [520, 290], [640, 330]], RED, 12); arrow(c, [[640, 330], [520, 370], [400, 330]], RED, 12);
+  c.restore();
+  dropP(c, 250, 800, 20); dropP(c, 190, 880, 17); dropP(c, 285, 920, 15);
 };
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
@@ -120,6 +121,16 @@ const e1_2 = (c: Ctx) => {
 
 // ---------------------------------------------------------------- experiment e2: the water ring
 // setup.e2.0
+// a hand with one finger pointing: wrist at (x, y), pointing along angle an
+const pointHand = (c: Ctx, x: number, y: number, an: number, s: number) => {
+  c.save(); c.translate(x, y); c.rotate(an); c.scale(s, s);
+  shape(c, () => rrect(c, -78, -36, 56, 72, 14), CLOTH.child, 6);
+  shape(c, () => { c.moveTo(-26, -32); c.quadraticCurveTo(20, -42, 46, -30); c.lineTo(52, 30); c.quadraticCurveTo(10, 40, -26, 32); c.closePath(); }, SKIN.child, 6);
+  for (let k = 1; k < 4; k++) shape(c, () => rrect(c, 38, -30 + k * 17, 40, 17, 8.5), SKIN.child, 5);
+  shape(c, () => rrect(c, 34, -30, 140, 18, 9), SKIN.child, 5);
+  shape(c, () => { c.moveTo(-4, 30); c.quadraticCurveTo(22, 58, 52, 52); c.quadraticCurveTo(64, 46, 50, 36); c.quadraticCurveTo(26, 34, 12, 18); c.closePath(); }, SKIN.child, 5);
+  c.restore();
+};
 const e2_0 = (c: Ctx) => {
   ground(c, "#cfe3ee");
   // a kitchen counter edge with a line of ants walking along it, a hand showing them
@@ -129,7 +140,7 @@ const e2_0 = (c: Ctx) => {
   line(c, [[0, 680], [1080, 680]], 7); line(c, [[0, 790], [1080, 790]], 7);
   const xs = [110, 320, 530, 740, 950];
   xs.forEach((x, i) => ant(c, x, 600 + (i % 2) * 14, 1.7, Math.PI * 0 + (i % 2) * 0.08));
-  hand(c, 850, 930, -2.3, 2.1, SKIN.child, CLOTH.child, true);
+  pointHand(c, 880, 900, -2.5, 2.3);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => { plates(c); };

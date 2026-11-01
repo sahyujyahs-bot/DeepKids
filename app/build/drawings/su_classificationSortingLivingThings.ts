@@ -142,29 +142,36 @@ const paper = (c: Ctx, cx: number, cy: number, col: string, k = 1) => {
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
-  plate(c, 540, 560, 490, 350);
-  shadow(c, 370, 478, 215, 22); cucumber(c, 165, 395, 400, 60, -Math.PI / 2 + 0.03);
-  shadow(c, 290, 810, 110, 20); capsicum(c, 290, 585, 100, 190, 0.05);
-  shadow(c, 540, 830, 60, 14); chilli(c, 480, 540, 290, 42, 0.12);
-  shadow(c, 800, 590, 110, 18); tomato(c, 810, 455, 118);
-  shadow(c, 760, 790, 160, 18); brinjal(c, 640, 685, 270, 76, -Math.PI / 2 + 0.3);
+  // three colour groups, each on its own mat: greens together, red alone, purple alone
+  const mat = (x: number, y: number, w: number, h: number, col: string) => {
+    shape(c, () => rrect(c, x + 14, y + 16, w, h, 36), "rgba(43,35,64,0.16)", 0);
+    shape(c, () => rrect(c, x, y, w, h, 36), col, 7);
+  };
+  mat(40, 110, 590, 860, "#cfe6ad"); mat(670, 110, 370, 380, "#f7c7bb"); mat(670, 530, 370, 440, "#d9c9ee");
+  shadow(c, 140, 800, 70, 14); cucumber(c, 140, 230, 560, 62, 0);
+  shadow(c, 350, 760, 100, 16); capsicum(c, 340, 530, 105, 200, 0);
+  shadow(c, 520, 740, 50, 12); chilli(c, 495, 280, 400, 46, 0);
+  shadow(c, 870, 450, 110, 16); tomato(c, 855, 320, 125);
+  shadow(c, 870, 940, 90, 14); brinjal(c, 855, 590, 330, 92, 0);
 };
 
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  const tile = (x: number, y: number, ok: boolean, draw: (cx: number, cy: number) => void) => {
+  // close-ups of the top of each vegetable: the three with a green cap are ticked, the cucumber has none
+  const tile = (x: number, y: number, ok: boolean, draw: (x: number, y: number) => void) => {
     shape(c, () => rrect(c, x + 14, y + 16, 450, 450, 28), "rgba(43,35,64,0.16)", 0);
     shape(c, () => rrect(c, x, y, 450, 450, 28), COL.paper, 6);
-    draw(x + 225, y + 225);
+    c.save(); c.beginPath(); rrect(c, x + 3, y + 3, 444, 444, 26); c.clip(); draw(x + 225, y); c.restore();
+    shape(c, () => rrect(c, x, y, 450, 450, 28), "rgba(0,0,0,0)", 6);
     shape(c, () => ell(c, x + 395, y + 55, 34, 34), ok ? COL.leaf : RED, 5);
     if (ok) line(c, [[x + 378, y + 56], [x + 391, y + 70], [x + 415, y + 40]], 8, WHITE);
     else { line(c, [[x + 380, y + 40], [x + 410, y + 70]], 8, WHITE); line(c, [[x + 410, y + 40], [x + 380, y + 70]], 8, WHITE); }
   };
-  tile(50, 55, true, (cx, cy) => tomato(c, cx, cy + 30, 150));
-  tile(580, 55, true, (cx, cy) => brinjal(c, cx, cy - 170, 330, 92, 0));
-  tile(50, 575, true, (cx, cy) => chilli(c, cx - 45, cy - 140, 320, 56, -0.12));
-  tile(580, 575, false, (cx, cy) => cucumber(c, cx, cy - 170, 340, 66, 0));
+  tile(50, 55, true, (cx, y) => tomato(c, cx, y + 360, 250));
+  tile(580, 55, true, (cx, y) => brinjal(c, cx, y + 190, 560, 150, 0));
+  tile(50, 575, true, (cx, y) => chilli(c, cx - 60, y + 190, 600, 82, -0.1));
+  tile(580, 575, false, (cx, y) => cucumber(c, cx, y + 150, 600, 120, 0));
 };
 
 // setup.e1.2
@@ -202,6 +209,11 @@ const e2_0 = (c: Ctx) => {
   stemLine(c, [[480, 150], [480, 950]], 34, "#8a6aa8");
   for (const [ty, s] of [[230, 220], [390, 190]]) { leaf(c, 480, ty, s, UL + 0.25, "#4f9a45"); leaf(c, 480, ty, s, UR - 0.25, "#4f9a45"); }
   leaf(c, 480, 150, 120, -Math.PI / 2, "#4f9a45");
+  // the child feels it with eyes closed
+  shape(c, () => ell(c, 170, 330, 120, 128), SKIN.child);
+  shape(c, () => { c.moveTo(52, 315); c.bezierCurveTo(55, 160, 285, 160, 288, 315); c.quadraticCurveTo(170, 255, 52, 315); c.closePath(); }, CLOTH.hair, 5);
+  for (const ex of [125, 215]) { c.beginPath(); c.arc(ex, 335, 16, 0.15, Math.PI - 0.15); c.strokeStyle = INK; c.lineWidth = 6; c.lineCap = "round"; c.stroke(); }
+  c.beginPath(); c.arc(170, 390, 26, 0.3, Math.PI - 0.3); c.strokeStyle = INK; c.lineWidth = 5; c.stroke();
   hand(c, 690, 680, Math.PI, 3, SKIN.child, CLOTH.child);
   const ar: number[][] = []; for (let k = 0; k <= 8; k++) { const a = Math.PI * (0.15 + 0.7 * (1 - k / 8)); ar.push([480 + Math.cos(a) * 125, 440 + Math.sin(a) * 40]); }
   arrow(c, ar, RED, 12);
@@ -211,9 +223,16 @@ const e2_0 = (c: Ctx) => {
 const e2_1 = (c: Ctx) => {
   ground(c);
   c.fillStyle = "#e8d7b6"; c.fillRect(0, 930, 1080, 150); line(c, [[0, 930], [1080, 930]], 6);
-  shadow(c, 300, 952, 120, 16); shadow(c, 790, 952, 120, 16);
-  mint(c, 290, 952, 760, 0);
-  coriander(c, 790, 952, 780, 0);
+  shadow(c, 250, 952, 120, 16); shadow(c, 790, 952, 120, 16);
+  // mint: two leaves face each other at every joint. coriander: one leaf at a joint, then the next one on the other side
+  const joint = (x: number, y: number) => shape(c, () => ell(c, x, y, 17, 17), COL.yellow, 5);
+  const H = 800, M = 250, K = 790;
+  stemLine(c, [[M, 940], [M, 940 - H]], 16, COL.green);
+  for (const t of [0.2, 0.42, 0.64, 0.86]) { leaf(c, M, 940 - H * t, 210, UL, "#3f9a52"); leaf(c, M, 940 - H * t, 210, UR, "#3f9a52"); }
+  for (const t of [0.2, 0.42, 0.64, 0.86]) joint(M, 940 - H * t);
+  stemLine(c, [[K, 940], [K, 940 - H]], 14, COL.greenLt);
+  [[0.2, UL], [0.4, UR], [0.6, UL], [0.8, UR]].forEach(([t, a]) => lobed(c, K, 940 - H * t, a, 200));
+  for (const t of [0.2, 0.4, 0.6, 0.8]) joint(K, 940 - H * t);
 };
 
 // setup.e2.2
@@ -231,7 +250,7 @@ const e2_2 = (c: Ctx) => {
   leaf(c, 350, 405, 270, -0.5, "#4f9a45");
   hand(c, 190, 430, 0.0, 2.2, SKIN.child, CLOTH.child);
   for (const k of [0, 1, 2]) { const pts: number[][] = []; for (let t = 0; t <= 14; t++) pts.push([470 + k * 45 + Math.sin(t * 0.8 + k) * 14, 270 - t * 11]); line(c, pts, 8, COL.teal); }
-  arrow(c, [[230, 590], [380, 590]], RED, 12);
+  arrow(c, [[300, 560], [440, 560]], RED, 12); arrow(c, [[440, 610], [300, 610]], RED, 12);
   // five herbs on the table
   c.fillStyle = "#e8d7b6"; c.fillRect(0, 760, 1080, 320); line(c, [[0, 760], [1080, 760]], 6);
   tulsi(c, 130, 1050, 270, -0.2); mint(c, 330, 1050, 270, 0.1); coriander(c, 540, 1050, 270, -0.1); curry(c, 760, 1050, 270, 0.15); lemongrass(c, 960, 1050, 270, -0.1);
@@ -258,13 +277,16 @@ const e3_0 = (c: Ctx) => {
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
   ground(c);
-  paper(c, 250, 790, WHITE, 0.85);
-  katoriDown(c, 250, 800, 140);
-  paper(c, 700, 810, "#3a3540", 0.85);
-  capDown(c, 700, 810, 125, 90);
-  katoriDown(c, 700, 470, 150, false);
-  hand(c, 700 + 70 * 1.9, 360, Math.PI, 1.9, SKIN.adult, CLOTH.adult);
-  arrow(c, [[960, 500], [960, 640]], RED, 12);
+  // left: white paper, cap already under its katori. right: black paper, cap face down, a katori coming down over it
+  paper(c, 270, 800, WHITE, 0.9);
+  katoriDown(c, 270, 830, 170);
+  shape(c, () => rrect(c, 270 - 36, 830 - 170 * 0.98 - 10, 72, 26, 10), COL.steelDk, 5);
+  paper(c, 770, 810, "#3a3540", 0.9);
+  capDown(c, 770, 840, 120, 85);
+  katoriDown(c, 770, 450, 170, false);
+  shape(c, () => rrect(c, 770 - 36, 450 - 170 * 0.98 - 10, 72, 26, 10), COL.steelDk, 5);
+  hand(c, 770 + 70 * 1.9 - 15, 290, Math.PI, 1.9, SKIN.adult, CLOTH.adult);
+  arrow(c, [[770, 520], [770, 640]], RED, 14);
 };
 
 // setup.e3.2
@@ -277,9 +299,9 @@ const e3_2 = (c: Ctx) => {
   shape(c, () => polyP(c, pts), SPORE, 5);
   for (let i = 0; i < n; i++) { const a = (i * 2 * Math.PI) / n; line(c, [[px + Math.cos(a) * 55, py + Math.sin(a) * 40], [px + Math.cos(a) * 180, py + Math.sin(a) * 128]], 4, "#5e3720"); }
   shape(c, () => ell(c, px, py, 38, 27), "#c9a07a", 4);
-  seed(c, 540, 880, 36, 0.3);
+  seed(c, 540, 885, 62, 0.3);
   // the cap lifted away in a hand
-  shape(c, () => rrect(c, 765, 230, 70, 180, 14), STEM, 5);
+  shape(c, () => rrect(c, 760, 230, 80, 190, 14), "#e6d0aa", 5);
   const dome = () => { c.moveTo(640, 250); c.bezierCurveTo(640, 60, 960, 60, 960, 250); c.bezierCurveTo(910, 295, 690, 295, 640, 250); c.closePath(); };
   shape(c, dome, CAP); shade(c, dome, CAPDK, -35, -25, 0.55);
   shine(c, [[690, 210], [730, 130]], 10);

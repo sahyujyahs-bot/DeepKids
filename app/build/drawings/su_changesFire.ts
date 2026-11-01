@@ -61,19 +61,20 @@ const candleScene = (c: Ctx, lit: boolean) => {
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
-  plate(c, 470, 840, 340, 88);
-  shape(c, () => ell(c, 460, 814, 230, 24), "#fbefd0", 5);
-  const lump = () => { c.moveTo(290, 805); c.bezierCurveTo(250, 720, 300, 600, 420, 575); c.bezierCurveTo(500, 560, 590, 610, 610, 720); c.bezierCurveTo(620, 780, 600, 812, 570, 814); c.lineTo(320, 814); c.bezierCurveTo(305, 814, 295, 812, 290, 805); c.closePath(); };
-  shape(c, lump, WAX, 6); shade(c, lump, WAXDK, 70, 10, 0.9);
-  drip(c, 372, 640, 722); drip(c, 540, 665, 712);
-  shape(c, () => ell(c, 440, 600, 70, 22, -0.1), "#fffaf0", 4);
-  shine(c, [[330, 680], [345, 625], [385, 598]], 14); shine(c, [[345, 730], [335, 715]], 10);
-  // the match, its head pressed on top of the wax
-  const tip = [462, 574], an = 2.52, dir = [Math.cos(an), Math.sin(an)], gr = [790, 330];
-  line(c, [[gr[0] - dir[0] * 40, gr[1] - dir[1] * 40], tip], 24, INK); line(c, [[gr[0] - dir[0] * 40, gr[1] - dir[1] * 40], [tip[0] - dir[0] * -18, tip[1] - dir[1] * -18]], 14, COL.wood);
-  shape(c, () => ell(c, tip[0] + 2, tip[1] - 2, 20, 24), COL.red, 5);
-  flame(c, tip[0] - 8, tip[1] - 14, 130, -6);
-  handL(c, 875, 268, an, 1.6);
+  plate(c, 400, 850, 330, 85);
+  // a short piece of candle, no wick: flat top, a match flame held to it
+  const body = () => rrect(c, 250, 580, 300, 255, 14);
+  shadow(c, 440, 840, 260, 26);
+  shape(c, body, WAX, 6); shade(c, body, WAXDK, 90, 0, 0.9);
+  shape(c, () => ell(c, 400, 580, 150, 32), "#fffaf0", 5);
+  shape(c, () => ell(c, 440, 584, 70, 14), "#fbefd0", 3);
+  drip(c, 318, 600, 700); drip(c, 520, 604, 660);
+  shine(c, [[285, 660], [285, 780]], 10);
+  const tip = [455, 574], an = 2.9, dir = [Math.cos(an), Math.sin(an)], gr = [tip[0] - dir[0] * 190, tip[1] - dir[1] * 190];
+  line(c, [gr, tip], 26, INK); line(c, [gr, tip], 16, COL.wood);
+  shape(c, () => ell(c, tip[0] + 4, tip[1] - 2, 22, 22), COL.red, 5);
+  flame(c, tip[0] - 4, tip[1] - 16, 130, -10);
+  handL(c, gr[0] + 112, gr[1] - 9, an, 1.6);
 };
 
 // setup.e1.1
@@ -126,20 +127,17 @@ const e2_0 = (c: Ctx) => {
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  plate(c, 440, 905, 250, 55);
-  const wick = candle(c, 440, 895, 120, 200, false);
-  flame(c, 440, wick, 110);
-  const sy = 470;
-  holdBar(c, 640, sy + 10, sy + 20);
-  // the spoon bowl: underside, rim, steel inside, holes
-  const under = () => { c.moveTo(228, sy); c.bezierCurveTo(250, sy + 120, 630, sy + 120, 652, sy); c.closePath(); };
-  shape(c, under, COL.steel, 6); shade(c, under, COL.steelDk, 80, -20, 0.6);
-  shape(c, () => ell(c, 440, sy, 212, 72), COL.steel, 6);
-  shape(c, () => ell(c, 440, sy + 2, 186, 54), COL.steelIn, 4);
-  const holes: number[][] = [[340, sy + 10], [440, sy + 20], [540, sy + 10], [390, sy - 14], [490, sy - 14]];
-  holes.forEach(([x, y]) => shape(c, () => ell(c, x, y, 22, 12), COL.orange, 4));
-  [[340, 100, -6], [440, 120, 0], [540, 100, 6], [390, 90, -4], [490, 90, 4]].forEach(([x, h, l], i) => flame(c, x, holes[i][1] - 2, h, l, 0.24));
-  handL(c, 905, sy + 22, Math.PI, 1.4);
+  plate(c, 400, 890, 240, 55);
+  const wick = candle(c, 400, 880, 120, 230, false);
+  // the whole flame stays tall: it passes up through the slots of the spoon
+  flame(c, 400, wick, 270, 0, 0.4);
+  const my = wick - 120;
+  holdBar(c, 580, my + 4, my + 14);
+  // the spoon seen side-on: a steel strip with gaps (the slots) where the flame shows through
+  const segs: number[][] = [[190, 328], [362, 386], [414, 438], [472, 600]];
+  segs.forEach(([x0, x1]) => { const seg = () => rrect(c, x0, my - 20, x1 - x0, 42, 12); shape(c, seg, COL.steel, 6); shade(c, seg, COL.steelDk, 0, 12, 0.6); });
+  shape(c, () => rrect(c, 690, my - 6, 130, 62, 14), COL.cloth, 6); line(c, [[705, my + 24], [805, my + 24]], 4, COL.grey);
+  handL(c, 905, my + 25, Math.PI, 1.4);
 };
 
 // ------------------------------------------------ experiment 3: wicks, oil, time

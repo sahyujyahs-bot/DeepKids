@@ -38,7 +38,7 @@ const spoon = (c: Ctx, bx: number, by: number, ang: number, len: number, sh = tr
 };
 
 // a clear plastic takeaway box with a toffee on its floor; (x, y) = front bottom left corner
-const clearBox = (c: Ctx, x: number, y: number, w: number, h: number, open: boolean) => {
+const clearBox = (c: Ctx, x: number, y: number, w: number, h: number, open: boolean, prize = true) => {
   const dx = w * 0.28, dy = -w * 0.2, glassF = "rgba(214,236,250,0.3)";
   shadow(c, x + w / 2 + dx / 2 + 20, y + dy / 2 + 30, w * 0.66, w * 0.13);
   if (open) { // the lid, hinged at the back and swung up
@@ -47,7 +47,7 @@ const clearBox = (c: Ctx, x: number, y: number, w: number, h: number, open: bool
   }
   shape(c, () => polyP(c, [[x, y], [x + w, y], [x + w + dx, y + dy], [x + dx, y + dy]]), "#dfe9f0", 4);
   shape(c, () => polyP(c, [[x + dx, y + dy - h], [x + w + dx, y + dy - h], [x + w + dx, y + dy], [x + dx, y + dy]]), "rgba(255,255,255,0.35)", 4);
-  toffee(c, x + w * 0.46 + dx * 0.5, y + dy * 0.5 - w * 0.06, w * 0.09);
+  if (prize) toffee(c, x + w * 0.46 + dx * 0.5, y + dy * 0.5 - w * 0.06, w * 0.09);
   shape(c, () => polyP(c, [[x + w, y - h], [x + w + dx, y - h + dy], [x + w + dx, y + dy], [x + w, y]]), glassF, 6);
   shape(c, () => polyP(c, [[x, y - h], [x + w, y - h], [x + w, y], [x, y]]), glassF, 6);
   shine(c, [[x + w * 0.1, y - h * 0.85], [x + w * 0.1, y - h * 0.25]], 9);
@@ -62,7 +62,7 @@ const clearBox = (c: Ctx, x: number, y: number, w: number, h: number, open: bool
 
 // a shoebox, cardboard: a flap in the top face (hinged at the back) and a flap in the front face (hinged at the bottom)
 // (x, y) = front bottom left corner; tf / sf = top / side flap open or shut
-const shoebox = (c: Ctx, x: number, y: number, w: number, h: number, tf: boolean, sf: boolean) => {
+const shoebox = (c: Ctx, x: number, y: number, w: number, h: number, tf: boolean, sf: boolean, prize = true) => {
   const dx = w * 0.3, dy = -w * 0.2;
   const P = (u: number, v: number): number[] => [x + u * w + v * dx, y - h + v * dy];
   shadow(c, x + w / 2 + dx / 2 + 24, y + dy / 2 + 34, w * 0.62, w * 0.12);
@@ -81,7 +81,7 @@ const shoebox = (c: Ctx, x: number, y: number, w: number, h: number, tf: boolean
   if (sf) {
     shape(c, () => polyP(c, [[fx0, ft], [fx1, ft], [fx1, fb], [fx0, fb]]), CB.inner, 5);
     shade(c, () => polyP(c, [[fx0, ft], [fx1, ft], [fx1, fb], [fx0, fb]]), "#000000", 0, 40, 0.0);
-    toffee(c, (fx0 + fx1) / 2, fb - h * 0.2, w * 0.05);
+    if (prize) toffee(c, (fx0 + fx1) / 2, fb - h * 0.2, w * 0.05);
     const fl = h * 0.5;
     shape(c, () => polyP(c, [[fx0, fb], [fx1, fb], [fx1 - 10, fb + fl], [fx0 + 10, fb + fl]]), CB.top, 6);
     shade(c, () => polyP(c, [[fx0, fb], [fx1, fb], [fx1 - 10, fb + fl], [fx0 + 10, fb + fl]]), CB.side, 14, 0, 0.4);
@@ -127,24 +127,23 @@ const e1s0 = (c: Ctx) => {
   spoon(c, 860, 900, -1.1, 230);
 };
 
-// key: setup.e1.1
+// key: setup.e1.1  (tap the closed lid with the spoon, twice)
 const e1s1 = (c: Ctx) => {
   scene(c);
-  clearBox(c, 150, 880, 520, 300, false);
-  spoon(c, 483, 528, -0.74, 330);
-  hand(c, 698, 331, 2.4, 2.2, SKIN.child, CLOTH.child);
-  for (const a of [-2.3, -1.57, -0.85]) { const cx = 483 + Math.cos(a) * 96, cy = 528 + Math.sin(a) * 66, ex = 483 + Math.cos(a) * 132, ey = 528 + Math.sin(a) * 92; line(c, [[cx, cy], [ex, ey]], 7, INK); }
-  arrow(c, [[360, 250], [310, 330], [296, 400]], RED, 11);
+  clearBox(c, 150, 990, 520, 290, false);
+  spoon(c, 483, 648, -1.25, 360);
+  hand(c, 610, 265, 1.89, 2.2, SKIN.child, CLOTH.child);
+  for (const a of [-2.6, -1.57 - 1.2, -0.5, 0.2]) { const cx = 483 + Math.cos(a) * 100, cy = 648 + Math.sin(a) * 70, ex = 483 + Math.cos(a) * 150, ey = 648 + Math.sin(a) * 105; line(c, [[cx, cy], [ex, ey]], 8, INK); }
+  arrow(c, [[300, 330], [330, 440], [345, 540]], RED, 12);
 };
 
-// key: setup.e1.2
+// key: setup.e1.2  (lift the lid, take the prize out: box now empty, the toffee in the hand)
 const e1s2 = (c: Ctx) => {
   scene(c);
-  clearBox(c, 460, 680, 420, 260, true);
-  notebook(c, 280, 880, 320, 300, -0.08, 2);
-  writer(c, 85, 546, 0.95, 260, 790, 1.7);
-  hand(c, 484, 215, 0, 2, SKIN.adult, CLOTH.adult);
-  arrow(c, [[690, 520], [690, 440], [700, 390]], RED, 11);
+  clearBox(c, 50, 900, 480, 280, true, false);
+  hand(c, 930, 500, Math.PI, 1.7, SKIN.child, CLOTH.child);
+  toffee(c, 930 - 100 * 1.7, 500, 48);
+  arrow(c, [[400, 740], [520, 600], [640, 505]], RED, 12);
 };
 
 // key: setup.e2.0
@@ -161,14 +160,15 @@ const e2s1 = (c: Ctx) => {
   arrow(c, [[250, 700], [250, 790], [250, 840]], RED, 11);
 };
 
-// key: setup.e2.2
+// key: setup.e2.2  (the side door is open and empty; a hand holds the prize it took out; the child writes the door)
 const e2s2 = (c: Ctx) => {
   scene(c, 300);
-  shoebox(c, 430, 560, 420, 230, false, true);
+  shoebox(c, 430, 560, 420, 230, false, true, false);
   notebook(c, 280, 890, 320, 290, -0.08, 2);
   writer(c, 85, 556, 0.95, 260, 800, 1.7);
-  hand(c, 843, 611, 2.95, 2, SKIN.adult, CLOTH.adult);
-  arrow(c, [[480, 560], [480, 650], [480, 690]], RED, 11);
+  hand(c, 925, 600, Math.PI, 1.8, SKIN.adult, CLOTH.adult);
+  toffee(c, 925 - 84 * 1.8, 600, 46);
+  arrow(c, [[690, 440], [740, 505], [768, 545]], RED, 12);
 };
 
 export const su_animalBehaviourAnimalLearning = cards("sci.animal-behaviour.animal-learning.L3 set-up", [e1s0, e1s1, e1s2, e2s0, e2s1, e2s2]);

@@ -383,15 +383,27 @@
       },
       {
        "f": "Farhan drops two balls from the same height onto the same tiled floor.",
-       "b": "FAIR. Only the ball is different, so the ball is the only thing that can explain a higher bounce."
+       "b": "FAIR. Only the ball is different, so the ball is the only thing that can explain a higher bounce.",
+       "img": {
+        "src": "media/cards/fair-tests-g1-0-01.jpg",
+        "credit": "Mitch Bennett from Columbia, MO, USA, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Divya tests which soil grows beans better. She puts red soil in a big pot by the window and black soil in a small pot in the shade.",
-       "b": "UNFAIR. The soil, the pot size and the light are all different. Fix: use two pots of the same size, in the same place, with the same water and the same kind of bean."
+       "b": "UNFAIR. The soil, the pot size and the light are all different. Fix: use two pots of the same size, in the same place, with the same water and the same kind of bean.",
+       "img": {
+        "src": "media/cards/fair-tests-g1-0-02.jpg",
+        "credit": "Katrin Simon, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gauri tests which wrapping stops a cut banana going dark. She cuts three equal pieces from one banana. She wraps one in cloth and one in foil, and leaves one open. She looks at all three after an hour.",
-       "b": "FAIR. Only the wrapping is different. The open piece is the control."
+       "b": "FAIR. Only the wrapping is different. The open piece is the control.",
+       "img": {
+        "src": "media/cards/fair-tests-g1-0-03.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Revathi puts one apple slice in the fridge and one on the table, and puts lemon only on the fridge slice.",
