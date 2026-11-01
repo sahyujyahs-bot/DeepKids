@@ -486,7 +486,11 @@
       },
       {
        "f": "Looking through a magnifying glass at the Sun",
-       "b": "NOT SAFE. The lens would gather the Sun's light into your eye."
+       "b": "NOT SAFE. The lens would gather the Sun's light into your eye.",
+       "img": {
+        "src": "media/cards/the-sun-g1-0-15.jpg",
+        "credit": "Tomomarusan, CC BY 2.5, via Wikimedia Commons"
+       }
       },
       {
        "f": "Eclipse glasses with a scratch or a hole",

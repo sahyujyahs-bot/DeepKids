@@ -408,12 +408,48 @@
      "items": [
       "A child: MIDDLE (all the sounds people hear)",
       "A grandparent: MIDDLE, but often not the very top of it",
-      "An elephant: VERY LOW and the lower part of MIDDLE",
-      "A pigeon: VERY LOW and the lower part of MIDDLE",
-      "A dog: MIDDLE and HIGH",
-      "A cat: MIDDLE, HIGH and VERY HIGH",
-      "A mouse: MIDDLE, HIGH and VERY HIGH",
-      "A moth: HIGH only, the band where bats call"
+      {
+       "f": "An elephant: VERY LOW and the lower part of MIDDLE",
+       "img": {
+        "src": "media/cards/hearing-g1-0-02.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A pigeon: VERY LOW and the lower part of MIDDLE",
+       "img": {
+        "src": "media/cards/hearing-g1-0-03.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A dog: MIDDLE and HIGH",
+       "img": {
+        "src": "media/cards/hearing-g1-0-04.jpg",
+        "credit": "Ankit Shakya, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A cat: MIDDLE, HIGH and VERY HIGH",
+       "img": {
+        "src": "media/cards/hearing-g1-0-05.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A mouse: MIDDLE, HIGH and VERY HIGH",
+       "img": {
+        "src": "media/cards/hearing-g1-0-06.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A moth: HIGH only, the band where bats call",
+       "img": {
+        "src": "media/cards/hearing-g1-0-07.jpg",
+        "credit": "Ramnarayan K, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
@@ -426,7 +462,11 @@
       },
       {
        "f": "A mosquito whining near your ear",
-       "b": "MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth."
+       "b": "MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.",
+       "img": {
+        "src": "media/cards/hearing-g1-1-01.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A pressure cooker whistling",
