@@ -378,15 +378,27 @@
       },
       {
        "f": "A dog sits when asked, because sitting has brought a treat many times.",
-       "b": "From what happened before"
+       "b": "From what happened before",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-05.jpg",
+        "credit": "Ramnarayan K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pigeons fly down to a man who scatters grain at the same spot every morning.",
-       "b": "From what happened before"
+       "b": "From what happened before",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-06.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A cat runs to the kitchen at the sound of the fish seller's bell.",
-       "b": "From what happened before"
+       "b": "From what happened before",
+       "img": {
+        "src": "media/cards/animal-learning-g1-0-07.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Honeybees go back to the flower colour that gave them the most nectar.",
