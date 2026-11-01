@@ -1031,7 +1031,13 @@
         "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
        }
       },
-      "Hen (gives eggs)",
+      {
+       "f": "Hen (gives eggs)",
+       "img": {
+        "src": "media/cards/conservation-g2-0-01.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "Silkworm (gives silk)",
       "Honeybee (gives honey and pollinates crops)",
       "Bullock (pulls a cart or plough)",
