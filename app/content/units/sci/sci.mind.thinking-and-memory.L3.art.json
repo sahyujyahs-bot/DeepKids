@@ -1,4 +1,12 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.mind.thinking-and-memory.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.mind.thinking-and-memory.L3/expl.5.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.mind.thinking-and-memory.L3/setup.e1.0.jpg",
   "drawn": true
@@ -33,6 +41,10 @@
  },
  "setup.e3.2": {
   "src": "media/img/sci.mind.thinking-and-memory.L3/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.mind.thinking-and-memory.L3/term.1.jpg",
   "drawn": true
  },
  "term.8": {
