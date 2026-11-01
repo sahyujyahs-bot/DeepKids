@@ -568,7 +568,13 @@
       "A candle flame: I eat wax, I need air, I grow and I make new flames.",
       "A salt crystal: I grow bigger every day in salty water.",
       "A dry karamani seed: I have sat in a jar for a year doing nothing.",
-      "A water bear: I am a tiny animal. I can dry into a ball and wake years later.",
+      {
+       "f": "A water bear: I am a tiny animal. I can dry into a ball and wake years later.",
+       "img": {
+        "src": "media/cards/edge-of-life-g1-0-03.jpg",
+        "credit": "Jane V Thomas, CC BY, via iNaturalist"
+       }
+      },
       "A virus: I do nothing alone. Inside a cell, I make thousands of copies of me.",
       "A toy robot: I walk, I beep, I sense your hand. I run on batteries.",
       "A cloud: I grow, I move, I split into little clouds.",
@@ -578,7 +584,13 @@
       "Dried yeast in a packet: I look like sand.",
       "A river: I flow, I carve valleys, I am full of fish.",
       "A wooden chair: I was once a tree.",
-      "A mushroom: I have no leaves and no mouth. I eat dead wood.",
+      {
+       "f": "A mushroom: I have no leaves and no mouth. I eat dead wood.",
+       "img": {
+        "src": "media/cards/edge-of-life-g1-0-13.jpg",
+        "credit": "Surya, CC0, via iNaturalist"
+       }
+      },
       "Curd: I am full of tiny bacteria.",
       "A computer program that copies itself and changes a little each time.",
       "A hen's egg from the shop. It has no chick inside, and never will.",

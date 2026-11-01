@@ -504,16 +504,34 @@
      "kind": "cards",
      "title": "27 thing cards to cut out",
      "items": [
-      "A mango leaf on the tree",
+      {
+       "f": "A mango leaf on the tree",
+       "img": {
+        "src": "media/cards/cells-g1-0-00.jpg",
+        "credit": "Vaishali, CC BY, via iNaturalist"
+       }
+      },
       "A small stone",
       "A wooden spoon",
       "A cotton handkerchief",
       "A steel tumbler",
-      "An ant",
+      {
+       "f": "An ant",
+       "img": {
+        "src": "media/cards/cells-g1-0-05.jpg",
+        "credit": "Joss Carr, CC BY, via iNaturalist"
+       }
+      },
       "A grain of salt",
       "Curd",
       "A cork bottle stopper",
-      "A mushroom",
+      {
+       "f": "A mushroom",
+       "img": {
+        "src": "media/cards/cells-g1-0-09.jpg",
+        "credit": "Alan Rockefeller, CC BY, via iNaturalist"
+       }
+      },
       "A plastic bucket",
       "A cloud",
       "A strand of your hair",

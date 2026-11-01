@@ -1,4 +1,20 @@
 {
+ "flow.a3": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/flow.a3.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "flow.a6": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/flow.a6.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/flow.c1.jpg",
+  "credit": "NASA/JPL/Cornell University, public domain"
+ },
+ "flow.p1": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/flow.p1.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.what-is-life.signs-of-life.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +50,13 @@
  "setup.e3.2": {
   "src": "media/img/sci.what-is-life.signs-of-life.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/summary.jpg",
+  "credit": "Parth Kansara, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/term.8.jpg",
+  "credit": "Daniel S. Katz, CC BY, via iNaturalist"
  }
 }

@@ -623,14 +623,56 @@
      "kind": "cards",
      "title": "8 place cards, one for each corner or table of the room",
      "items": [
-      "SEA (blue bead). Roll: 1, 2, 3: you stay deep in the sea. 4, 5: the Sun warms you, go to CLOUD. 6: a fish swallows you, go to ANIMAL.",
-      "CLOUD (white bead). Roll: 1: you drift on, stay. 2, 3, 4: you fall as rain into the SEA. 5: you fall on the hills, go to RIVER. 6: you fall as snow, go to ICE.",
-      "RIVER (green bead). Roll: 1, 2: you flow on, go to SEA. 3: you soak in, go to GROUND. 4: a cow drinks you, go to ANIMAL. 5: the Sun warms you, go to CLOUD. 6: a farmer's pump lifts you, go to PLANT.",
+      {
+       "f": "SEA (blue bead). Roll: 1, 2, 3: you stay deep in the sea. 4, 5: the Sun warms you, go to CLOUD. 6: a fish swallows you, go to ANIMAL.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-00.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "CLOUD (white bead). Roll: 1: you drift on, stay. 2, 3, 4: you fall as rain into the SEA. 5: you fall on the hills, go to RIVER. 6: you fall as snow, go to ICE.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-01.jpg",
+        "credit": "Trixia Lao, CC0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "RIVER (green bead). Roll: 1, 2: you flow on, go to SEA. 3: you soak in, go to GROUND. 4: a cow drinks you, go to ANIMAL. 5: the Sun warms you, go to CLOUD. 6: a farmer's pump lifts you, go to PLANT.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-02.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
       "GROUND (brown bead). Roll: 1, 2, 3: you wait between the grains, stay. 4: a root drinks you, go to PLANT. 5: you seep out as a spring, go to RIVER. 6: a well brings you up, go to ANIMAL.",
-      "PLANT (light green bead). Roll: 1: a cold night, you become a dewdrop on the leaf, go to DEW. 2, 3, 4, 5: you leave a leaf as vapour, go to CLOUD. 6: a goat eats the leaf, go to ANIMAL.",
-      "ANIMAL (red bead). Roll: 1, 2: you are breathed out, go to CLOUD. 3, 4: you leave as urine, go to GROUND. 5: you are sweat that dries, go to CLOUD. 6: you stay in the animal's body for now.",
-      "ICE (purple bead). Roll: 1, 2, 3, 4, 5: you stay frozen in a glacier. 6: spring comes and you melt, go to RIVER.",
-      "DEW (yellow bead). Roll: 1, 2, 3: the morning Sun dries you, go to CLOUD. 4, 5, 6: you drip into the soil, go to GROUND."
+      {
+       "f": "PLANT (light green bead). Roll: 1: a cold night, you become a dewdrop on the leaf, go to DEW. 2, 3, 4, 5: you leave a leaf as vapour, go to CLOUD. 6: a goat eats the leaf, go to ANIMAL.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-04.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ANIMAL (red bead). Roll: 1, 2: you are breathed out, go to CLOUD. 3, 4: you leave as urine, go to GROUND. 5: you are sweat that dries, go to CLOUD. 6: you stay in the animal's body for now.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-05.jpg",
+        "credit": "Piyush Marwadi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ICE (purple bead). Roll: 1, 2, 3, 4, 5: you stay frozen in a glacier. 6: spring comes and you melt, go to RIVER.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-06.jpg",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "DEW (yellow bead). Roll: 1, 2, 3: the morning Sun dries you, go to CLOUD. 4, 5, 6: you drip into the soil, go to GROUND.",
+       "img": {
+        "src": "media/cards/water-cycle-g1-0-07.jpg",
+        "credit": "Yinan Chen, Public Domain, via Wikimedia Commons"
+       }
+      }
      ]
     },
     {

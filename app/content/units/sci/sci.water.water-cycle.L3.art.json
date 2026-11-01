@@ -1,4 +1,24 @@
 {
+ "expl.15": {
+  "src": "media/img/sci.water.water-cycle.L3/expl.15.jpg",
+  "credit": "NASA/JPL/Space Science Institute, public domain"
+ },
+ "expl.8": {
+  "src": "media/img/sci.water.water-cycle.L3/expl.8.jpg",
+  "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.water.water-cycle.L3/flow.a2.jpg",
+  "credit": "Rosendahl, Public domain, via Wikimedia Commons"
+ },
+ "flow.e3": {
+  "src": "media/img/sci.water.water-cycle.L3/flow.e3.jpg",
+  "credit": "Santhosh T, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.water.water-cycle.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.water.water-cycle.L3/setup.e1.0.jpg",
   "drawn": true
@@ -66,5 +86,41 @@
  "setup.e5.2": {
   "src": "media/img/sci.water.water-cycle.L3/setup.e5.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.water.water-cycle.L3/summary.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.10": {
+  "src": "media/img/sci.water.water-cycle.L3/term.10.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.water.water-cycle.L3/term.12.jpg",
+  "credit": "Shixart1985, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.13": {
+  "src": "media/img/sci.water.water-cycle.L3/term.13.jpg",
+  "credit": "Sameer Kulkarni, CC BY, via iNaturalist"
+ },
+ "term.19": {
+  "src": "media/img/sci.water.water-cycle.L3/term.19.jpg",
+  "credit": "Dey.sandip, CC BY 3.0, via Wikimedia Commons"
+ },
+ "term.21": {
+  "src": "media/img/sci.water.water-cycle.L3/term.21.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.6": {
+  "src": "media/img/sci.water.water-cycle.L3/term.6.jpg",
+  "credit": "Shardayyy Photography, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.7": {
+  "src": "media/img/sci.water.water-cycle.L3/term.7.jpg",
+  "credit": "Sakib8785, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.9": {
+  "src": "media/img/sci.water.water-cycle.L3/term.9.jpg",
+  "credit": "Staffan Enbom from Finland, CC BY 2.0, via Wikimedia Commons"
  }
 }

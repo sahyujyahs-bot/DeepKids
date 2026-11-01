@@ -539,21 +539,57 @@
       "A dry moong seed",
       "A cloud",
       "A car",
-      "A cat",
-      "A mushroom",
-      "A tulsi plant",
+      {
+       "f": "A cat",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-03.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A mushroom",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-04.jpg",
+        "credit": "Surya, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "A tulsi plant",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-05.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "A river",
       "A stone",
       "A wooden chair",
       "A hen's egg from a shop",
       "A spoon of dry yeast",
       "You",
-      "An ant",
+      {
+       "f": "An ant",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-12.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "A mobile phone",
-      "A money plant cutting in a bottle",
+      {
+       "f": "A money plant cutting in a bottle",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-14.jpg",
+        "credit": "Navin Sasikumar, CC BY, via iNaturalist"
+       }
+      },
       "The wind",
       "A soap bubble",
-      "An earthworm",
+      {
+       "f": "An earthworm",
+       "img": {
+        "src": "media/cards/signs-of-life-g1-0-17.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
       "A slice of bread",
       "A fallen dry leaf",
       "A cotton shirt",
@@ -720,20 +756,98 @@
      "kind": "cards",
      "title": "14 living-thing cards",
      "items": [
-      "A neem tree",
-      "A goldfish",
-      "A sunflower",
-      "A crow",
-      "A frog",
-      "An earthworm",
-      "A mango tree",
-      "A honeybee",
+      {
+       "f": "A neem tree",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-00.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A goldfish",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-01.jpg",
+        "credit": "Mohammad Amin Ghaffari, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A sunflower",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-02.jpg",
+        "credit": "Manav Dhamani, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A crow",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-03.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A frog",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-04.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "An earthworm",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-05.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A mango tree",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-06.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "A honeybee",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-07.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
       "A baby",
-      "A mushroom",
-      "A cow",
-      "A touch-me-not plant",
-      "A spider",
-      "A snail"
+      {
+       "f": "A mushroom",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-09.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A cow",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-10.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A touch-me-not plant",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-11.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A spider",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-12.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A snail",
+       "img": {
+        "src": "media/cards/signs-of-life-g2-1-13.jpg",
+        "credit": "zebedeugalinha, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],
