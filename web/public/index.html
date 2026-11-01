@@ -6941,6 +6941,62 @@ body {
   outline: 0;
   border-bottom-color: var(--aqua);
 }
+
+/* Larger screens (tablets in landscape, laptops, desktops): the sections move from the bottom bar to a rail on the
+   left, pages get wider, and full-screen sheets become a centred panel. Phones keep the layout above. */
+@media (min-width: 900px) {
+  :root {
+    --rail: 96px;
+  }
+  .wrap {
+    max-width: 960px;
+  }
+  header.top,
+  main {
+    margin-left: var(--rail);
+  }
+  main {
+    padding-bottom: calc(48px + env(safe-area-inset-bottom, 0));
+  }
+  nav.nav {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    transform: none;
+    width: var(--rail);
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 6px;
+    padding: 88px 8px 16px;
+    padding-left: max(8px, env(safe-area-inset-left, 0));
+    border-top: 0 !important;
+    border-right: 1.5px solid var(--rule);
+  }
+  nav.nav button {
+    flex: 0 0 auto;
+    height: 68px;
+    border-radius: 14px !important;
+  }
+  nav.nav button[aria-current="page"] {
+    box-shadow: inset 3px 0 0 var(--margin) !important;
+    background: var(--sunk) !important;
+  }
+  dialog.sheet {
+    width: min(880px, calc(100% - 48px));
+    height: calc(100% - 48px);
+    margin: 24px auto;
+    border-radius: 20px;
+    box-shadow: 0 30px 80px -30px rgba(30, 20, 50, 0.5);
+  }
+  .dkedb#dkEditBtn {
+    left: calc(var(--rail) + 12px);
+  }
+}
+@media (min-width: 1400px) {
+  .wrap {
+    max-width: 1080px;
+  }
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -6972,9 +7028,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="b2aec8e327b8a059ba";window.DK_APPV="b2aec8e327";window.DK_DATAV="b8a05ee629"</script>
-<script src="/config.js?v=b2aec8e327b8a059ba"></script>
+<script>window.DK_BUILD="9c9a75079bb8a059ba";window.DK_APPV="9c9a75079b";window.DK_DATAV="b8a05ee629"</script>
+<script src="/config.js?v=9c9a75079bb8a059ba"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=b2aec8e327b8a059ba"></script>
+<script src="/platform.js?v=9c9a75079bb8a059ba"></script>
 </body>
 </html>
