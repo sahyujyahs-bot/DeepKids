@@ -3,6 +3,10 @@
   "src": "media/img/sci.states.particles.L3/flow.a2.jpg",
   "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
  },
+ "flow.e1": {
+  "src": "media/img/sci.states.particles.L3/flow.e1.jpg",
+  "credit": "AIDEPCUL, CC BY 4.0, via Wikimedia Commons"
+ },
  "flow.e2": {
   "src": "media/img/sci.states.particles.L3/flow.e2.jpg",
   "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
@@ -46,5 +50,9 @@
  "term.3": {
   "src": "media/img/sci.states.particles.L3/term.3.jpg",
   "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
+ },
+ "term.6": {
+  "src": "media/img/sci.states.particles.L3/term.6.jpg",
+  "credit": "Gary Todd from Xinzheng, China, CC0, via Wikimedia Commons"
  }
 }
