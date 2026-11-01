@@ -1,5 +1,5 @@
 import type { Ctx } from "./core";
-import { D, BG, INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, rrect, polyP, shadow, shade, line, shine, arrow, glass, bowl, hand, write, cards } from "./flatKit";
+import { D, BG, INK, WHITE, RED, COL, SKIN, CLOTH, ground, shape, ell, rrect, polyP, shadow, shade, line, shine, arrow, glass, bowl, hand, write, leaf, cards } from "./flatKit";
 
 // ---- shared pieces for the festival colour experiments
 const TURMERIC = "#f2b61f", TURMERIC_DK = "#d89a10", RED_LIQ = "#d63a2c", HIB = "#b04a7a";
@@ -34,11 +34,16 @@ const spoonOn = (c: Ctx, x0: number, y0: number, x1: number, y1: number, liquid:
 const e1_0 = (c: Ctx) => {
   ground(c);
   shape(c, () => rrect(c, 50, 120, 980, 840, 24), WHITE, 6);
-  const xs = [165, 395, 625, 855];
-  [[360, 0], [700, 4]].forEach(([y, o]) => xs.forEach((x, i) => {
-    bowl(c, x, y, 95, TURMERIC); c.beginPath(); ell(c, x - 22, y - 2, 28, 5); c.fillStyle = "rgba(255,255,255,0.45)"; c.fill();
-    shape(c, () => rrect(c, x - 45, y + 82, 90, 56, 8), COL.paper, 4);
-    write(c, String(i + 1 + o), x - 14, y + 92, 36, INK, 5);
+  const xs = [195, 425, 655, 885];
+  [[340, 0], [720, 4]].forEach(([y, o]) => xs.forEach((x, i) => {
+    const r = 105, body = () => { c.moveTo(x - r, y); c.bezierCurveTo(x - r * 0.95, y + r * 0.95, x + r * 0.95, y + r * 0.95, x + r, y); c.closePath(); };
+    shadow(c, x + 12, y + r * 0.78, r * 0.9, r * 0.14);
+    shape(c, body, COL.steel); shade(c, body, COL.steelDk, r * 0.35, -r * 0.05);
+    shape(c, () => ell(c, x, y, r, r * 0.4), COL.steelIn, 5);
+    shape(c, () => ell(c, x, y + 4, r * 0.82, r * 0.3), TURMERIC, 4);
+    c.beginPath(); ell(c, x - r * 0.3, y, r * 0.3, r * 0.06); c.fillStyle = "rgba(255,255,255,0.5)"; c.fill();
+    shape(c, () => rrect(c, x - 45, y + 92, 90, 56, 8), COL.paper, 4);
+    write(c, String(i + 1 + o), x - 14, y + 102, 36, INK, 5);
   }));
 };
 // setup.e1.1
@@ -72,48 +77,71 @@ const petal = (c: Ctx, x: number, y: number, r: number, rot: number) => {
 const e2_0 = (c: Ctx) => {
   ground(c);
   bowl(c, 600, 700, 340, HIB);
-  c.beginPath(); ell(c, 600, 700, 250, 40); c.fillStyle = "#c4608f"; c.fill();
-  [[460, 690, 60, 0.3], [560, 720, 54, 2.4], [660, 690, 60, 4.0], [740, 725, 50, 1.2], [610, 668, 48, 5.2], [520, 668, 44, 3.3], [700, 650, 40, 0.8]].forEach(([x, y, r, a]) => petal(c, x, y, r, a));
-  for (const [x, s] of [[470, 1], [590, 1.2], [720, 0.9]]) line(c, [[x, 520], [x - 18 * s, 470], [x + 14 * s, 420], [x - 8 * s, 365]], 9, "rgba(255,255,255,0.8)");
-  hand(c, 250, 520, 0.62, 2.8, SKIN.child, CLOTH.child, true);
+  c.beginPath(); ell(c, 600, 700, 250, 42); c.fillStyle = "#c4608f"; c.fill();
+  c.beginPath(); ell(c, 585, 700, 150, 28); c.fillStyle = "#9a3d78"; c.fill();
+  [[480, 705, 50, 0.3], [560, 722, 46, 2.4], [650, 700, 50, 4.0], [720, 715, 44, 1.2], [600, 685, 42, 5.2], [520, 685, 38, 3.3]].forEach(([x, y, r, a]) => petal(c, x, y, r, a));
+  // one whole hibiscus flower, so the petals are known
+  for (let k = 0; k < 5; k++) { const a = (k / 5) * Math.PI * 2 - 1.2; petal(c, 880 + Math.cos(a) * 62, 250 + Math.sin(a) * 62, 62, a); }
+  shape(c, () => ell(c, 880, 250, 22, 22), "#6e1428", 4); line(c, [[880, 250], [930, 190]], 6, COL.yellow); shape(c, () => ell(c, 934, 186, 11, 11), COL.yellow, 4);
+  // a hand rubbing the petals in the warm water
+  hand(c, 374, 545, 0.62, 2.6, SKIN.child, CLOTH.child, true);
+  arrow(c, [[690, 585], [840, 585]]); arrow(c, [[840, 630], [690, 630]]);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  const xs = [200, 540, 880];
-  glass(c, xs[0], 620, 250, 360, 0.75, "#ef6a98"); glass(c, xs[1], 620, 250, 360, 0.75, "#6fbf55"); glass(c, xs[2], 620, 250, 360, 0.75, COL.purple);
-  lemon(c, xs[0], 840, 90);
-  // soap bar
-  shadow(c, xs[1] + 14, 905, 110, 20);
-  shape(c, () => rrect(c, xs[1] - 100, 790, 200, 110, 34), "#cfe8f6", 6); shade(c, () => rrect(c, xs[1] - 100, 790, 200, 110, 34), "#9cc3dd", 22, 8, 0.5);
-  shape(c, () => ell(c, xs[1] + 55, 790, 28, 28), WHITE, 4); shape(c, () => ell(c, xs[1] + 100, 760, 16, 16), WHITE, 4);
-  // plain water in a katori
-  bowl(c, xs[2], 810, 100, COL.water);
-  [xs[0], xs[1], xs[2]].forEach((x) => arrow(c, [[x, 730], [x, 690]]));
+  const xs = [210, 535, 860], JUICE = COL.purple;
+  xs.forEach((x) => glass(c, x, 940, 220, 340, 0.6, JUICE));
+  // lemon squeezed into the first glass
+  lemonHalf(c, xs[0], 330, 110, 120);
+  hand(c, xs[0], 140, Math.PI / 2, 1.5);
+  [400, 480, 560].forEach((y) => drop(c, xs[0], y, 15, COL.yellow));
+  // soapy water (bubbles) and plain water poured from katoris into the other two
+  const pour = (x: number, liquid: string, bubbles: boolean) => {
+    c.save(); c.translate(x + 25, 250); c.rotate(-0.6); bowl(c, 0, 0, 78, liquid);
+    if (bubbles) for (const [bx, by, br] of [[-30, -4, 13], [-5, 4, 16], [22, -3, 12], [-48, 6, 9]]) shape(c, () => ell(c, bx, by, br, br * 0.7), WHITE, 3);
+    c.restore();
+    hand(c, x + 90, 110, Math.PI / 2 + 0.5, 1.4);
+    line(c, [[x - 39, 300], [x - 39, 690]], 14, liquid);
+    arrow(c, [[x + 60, 430], [x + 60, 540]]);
+  };
+  pour(xs[1], "#d8eef7", true);
+  pour(xs[2], COL.water, false);
 };
 
 // ---- e3: festival dates over three years
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  // notebook on the left
-  c.save(); c.translate(175, 340); c.rotate(-0.06);
-  shadow(c, 12, 242, 150, 22);
-  shape(c, () => rrect(c, -150, -230, 300, 460, 14), COL.paper, 6);
-  for (let i = 0; i < 4; i++) line(c, [[-150, -90 + i * 80], [150, -90 + i * 80]], 4);
-  line(c, [[-50, -230], [-50, 230]], 4); line(c, [[50, -230], [50, 230]], 4);
-  write(c, "12", -138, -195, 48, INK, 6); write(c, "3", -22, -195, 48, INK, 6); write(c, "8", 78, -195, 48, INK, 6);
+  // the notebook with an empty table: three year columns, rows to fill
+  c.save(); c.translate(250, 480); c.rotate(-0.04);
+  shadow(c, 14, 385, 220, 26);
+  shape(c, () => rrect(c, -210, -370, 420, 740, 16), COL.paper, 6);
+  for (let i = 0; i < 9; i++) shape(c, () => ell(c, -210, -320 + i * 80, 13, 13), BG, 4);
+  for (let i = 0; i < 5; i++) line(c, [[-165, -250 + i * 130], [185, -250 + i * 130]], 5);
+  for (let i = 0; i < 4; i++) line(c, [[-165 + i * 117, -330], [-165 + i * 117, 270]], 5);
+  ["2024", "2025", "2026"].forEach((t, i) => write(c, t, -158 + i * 117, -318, 30, INK, 5));
+  write(c, "14", -143, -222, 56, INK, 8);
   c.restore();
-  // the phone with a month calendar
-  shadow(c, 600, 840, 230, 30);
-  shape(c, () => rrect(c, 410, 120, 400, 720, 50), COL.black, 6);
-  shape(c, () => rrect(c, 430, 150, 360, 660, 28), WHITE, 4);
-  shape(c, () => polyP(c, [[430, 178], [458, 150], [762, 150], [790, 178], [790, 260], [430, 260]]), RED, 4);
-  write(c, "2024", 530, 188, 52, WHITE, 7);
-  for (let i = 0; i < 30; i++) { const cx = 450 + (i % 7) * 48, cy = 300 + Math.floor(i / 7) * 100; if (i === 11) shape(c, () => ell(c, cx + 20, cy + 13, 25, 25), COL.orange, 4); write(c, String(i + 1), cx + (i < 9 ? 10 : 2), cy, 24, INK, 4); }
-  // the grown-up's hand holds the phone, the child's hand points at a day
-  hand(c, 300, 720, 0, 1.4, SKIN.adult, CLOTH.adult);
-  hand(c, 880, 470, Math.PI + 0.3, 1.6, SKIN.child, CLOTH.child, true);
+  // the phone with a month calendar, one day marked
+  shadow(c, 710, 805, 190, 26);
+  shape(c, () => rrect(c, 540, 90, 340, 700, 46), COL.black, 6);
+  shape(c, () => rrect(c, 558, 118, 304, 644, 26), WHITE, 4);
+  shape(c, () => polyP(c, [[558, 144], [584, 118], [836, 118], [862, 144], [862, 220], [558, 220]]), RED, 4);
+  write(c, "2024", 640, 150, 44, WHITE, 6);
+  for (let i = 0; i < 30; i++) {
+    const cx = 572 + (i % 7) * 40, cy = 252 + Math.floor(i / 7) * 94;
+    if (i === 13) shape(c, () => ell(c, cx + 18, cy + 11, 22, 22), COL.orange, 4);
+    write(c, String(i + 1), cx + (i < 9 ? 12 : 3), cy, 20, INK, 4);
+  }
+  // the grown-up holds the phone; the child writes in the notebook
+  hand(c, 975, 600, Math.PI, 1.3, SKIN.adult, CLOTH.adult);
+  const ux = 0.315, uy = -0.949, wx = 86, wy = 677, at = (d: number): number[] => [wx + ux * d, wy + uy * d];
+  const pencil = (d0: number, d1: number, w: number, col: string) => line(c, [at(d0), at(d1)], w, col);
+  pencil(30, 205, 30, INK); pencil(30, 205, 20, COL.yellow);
+  shape(c, () => polyP(c, [[at(205)[0] - uy * 15, at(205)[1] + ux * 15], [at(205)[0] + uy * 15, at(205)[1] - ux * 15], at(252)]), COL.wood, 5);
+  pencil(240, 252, 7, INK);
+  hand(c, wx, wy, Math.atan2(uy, ux), 1.5);
 };
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
@@ -123,24 +151,51 @@ const e3_1 = (c: Ctx) => {
   for (let i = 0; i < 9; i++) shape(c, () => ell(c, 90, 140 + i * 90, 12, 12), BG, 4);
   const colx = [440, 620, 800];
   ["2024", "2025", "2026"].forEach((t, i) => write(c, t, colx[i] - 26, 100, 40, INK, 6));
-  const rows: [string[], boolean][] = [[["26", "26", "26"], true], [["15", "15", "15"], true], [["2", "2", "2"], true], [["1", "20", "8"], false], [["25", "14", "4"], false], [["10", "31", "20"], false]];
+  const rows: [string[], boolean][] = [[["14", "14", "14"], true], [["15", "15", "15"], true], [["25", "25", "25"], true], [["1", "20", "8"], false], [["25", "14", "4"], false], [["10", "31", "20"], false]];
   const icons = [
-    (x: number, y: number) => { shape(c, () => rrect(c, x - 40, y - 24, 80, 18, 2), "#f39a3c", 4); shape(c, () => rrect(c, x - 40, y - 6, 80, 18, 2), WHITE, 4); shape(c, () => rrect(c, x - 40, y + 12, 80, 18, 2), COL.green, 4); },
-    (x: number, y: number) => { line(c, [[x, y + 6], [x - 10, y + 30], [x + 12, y + 40]], 4); shape(c, () => polyP(c, [[x, y - 36], [x + 30, y - 4], [x, y + 8], [x - 30, y - 4]]), COL.pink, 5); },
-    (x: number, y: number) => { shape(c, () => ell(c, x - 24, y, 20, 20), COL.glass, 5); shape(c, () => ell(c, x + 24, y, 20, 20), COL.glass, 5); line(c, [[x - 4, y], [x + 4, y]], 5); },
-    (x: number, y: number) => { for (let k = 0; k < 6; k++) { const a = (k / 6) * Math.PI * 2; shape(c, () => ell(c, x + Math.cos(a) * 24, y + Math.sin(a) * 24, 16, 16), k % 2 ? COL.orange : COL.pink, 4); } shape(c, () => ell(c, x, y, 13, 13), COL.yellow, 4); },
-    (x: number, y: number) => { for (const [dx, dy, col] of [[-22, -12, COL.pink], [20, -14, COL.blue], [0, 18, COL.yellow], [26, 16, COL.green]] as [number, number, string][]) shape(c, () => ell(c, x + dx, y + dy, 18, 18), col, 4); },
-    (x: number, y: number) => { shape(c, () => { c.arc(x, y, 34, 0.9, Math.PI * 2 - 0.9); c.arc(x + 14, y, 26, Math.PI * 2 - 1.1, 1.1, true); c.closePath(); }, COL.yellow, 5); },
+    // Pongal: a clay pot boiling over, and sugarcane
+    (x: number, y: number) => {
+      line(c, [[x + 50, y + 44], [x + 56, y - 40]], 10, INK); line(c, [[x + 50, y + 44], [x + 56, y - 40]], 5, COL.green); leaf(c, x + 54, y - 20, 36, -2.4); leaf(c, x + 54, y - 36, 36, -0.7);
+      shape(c, () => ell(c, x - 6, y + 12, 40, 32), "#c9683a", 5); shape(c, () => rrect(c, x - 28, y - 22, 44, 14, 5), "#a8512a", 5);
+      for (const [dx, dy, r] of [[-26, -26, 11], [-8, -34, 14], [10, -28, 11], [-34, -12, 8]]) shape(c, () => ell(c, x + dx, y + dy, r, r), WHITE, 4);
+    },
+    // Independence Day: the flag on a pole
+    (x: number, y: number) => {
+      line(c, [[x - 44, y - 44], [x - 44, y + 50]], 8, INK);
+      shape(c, () => rrect(c, x - 40, y - 40, 92, 22, 2), "#f39a3c", 4); shape(c, () => rrect(c, x - 40, y - 18, 92, 22, 2), WHITE, 4); shape(c, () => rrect(c, x - 40, y + 4, 92, 22, 2), COL.green, 4);
+      c.beginPath(); ell(c, x + 6, y - 7, 9, 9); c.strokeStyle = COL.blueDk; c.lineWidth = 4; c.stroke();
+    },
+    // Christmas: a tree with a star
+    (x: number, y: number) => {
+      c.save(); c.translate(x, y - 12); c.scale(0.75, 0.75); c.translate(-x, -y);
+      shape(c, () => rrect(c, x - 8, y + 30, 16, 22, 2), COL.brown, 4);
+      for (const [w, t] of [[44, 4], [36, -20], [28, -42]]) shape(c, () => polyP(c, [[x, y + t - 22], [x + w, y + t + 26], [x - w, y + t + 26]]), COL.green, 5);
+      shape(c, () => polyP(c, [[x, y - 74], [x + 7, y - 58], [x + 22, y - 58], [x + 10, y - 48], [x + 15, y - 34], [x, y - 44], [x - 15, y - 34], [x - 10, y - 48], [x - 22, y - 58], [x - 7, y - 58]]), COL.yellow, 4);
+      shape(c, () => ell(c, x - 16, y + 12, 7, 7), RED, 3); shape(c, () => ell(c, x + 14, y - 12, 7, 7), RED, 3);
+      c.restore();
+    },
+    // Diwali: a rangoli pattern
+    (x: number, y: number) => {
+      for (let k = 0; k < 8; k++) { const a = (k / 8) * Math.PI * 2; shape(c, () => ell(c, x + Math.cos(a) * 34, y + Math.sin(a) * 34, 17, 10, a), k % 2 ? COL.orange : COL.pink, 4); }
+      shape(c, () => ell(c, x, y, 14, 14), COL.yellow, 4);
+      for (let k = 0; k < 8; k++) { const a = (k / 8) * Math.PI * 2 + 0.4; shape(c, () => ell(c, x + Math.cos(a) * 54, y + Math.sin(a) * 54, 5, 5), COL.purple, 3); }
+    },
+    // Holi: puffs of coloured powder
+    (x: number, y: number) => { for (const [dx, dy, col] of [[-26, -14, COL.pink], [24, -16, COL.blue], [-4, 16, COL.yellow], [30, 18, COL.green], [-34, 22, COL.orange]] as [number, number, string][]) shape(c, () => ell(c, x + dx, y + dy - 6, 20, 20), col, 4); },
+    // Eid: the crescent moon and a star
+    (x: number, y: number) => {
+      shape(c, () => { c.arc(x - 8, y, 36, 0.9, Math.PI * 2 - 0.9); c.arc(x + 6, y, 28, Math.PI * 2 - 1.1, 1.1, true); c.closePath(); }, COL.yellow, 5);
+      shape(c, () => polyP(c, [[x + 40, y - 20], [x + 45, y - 8], [x + 58, y - 8], [x + 48, y], [x + 52, y + 12], [x + 40, y + 5], [x + 28, y + 12], [x + 32, y], [x + 22, y - 8], [x + 35, y - 8]]), COL.yellow, 4);
+    },
   ];
   rows.forEach(([d, same], r) => {
     const y = 200 + r * 120;
     if (r) line(c, [[110, y - 45], [980, y - 45]], 3, COL.grey);
     icons[r](210, y + 30);
     d.forEach((t, i) => write(c, t, colx[i] - (t.length - 1) * 20, y, 56, INK, 8));
-    shape(c, () => rrect(c, 360, y - 20, 560, 100, 50), "rgba(0,0,0,0)", 0);
     c.beginPath(); rrect(c, 355, y - 18, 560, 96, 48); c.strokeStyle = same ? COL.green : COL.orange; c.lineWidth = 10; c.stroke();
   });
-  line(c, [[110, 200 + 3 * 120 - 45], [980, 200 + 3 * 120 - 45]], 8, INK);
+  line(c, [[110, 530], [980, 530]], 8, INK);
 };
 
 export const su_communityFestivals = cards("sci.community.festivals.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e3_0, e3_1]);
