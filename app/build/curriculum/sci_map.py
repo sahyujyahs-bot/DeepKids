@@ -541,6 +541,9 @@ TOPICS = [
  ("switches", "Switches", {
    4: "Switches open and close a circuit; making a switch."},
   ["C4-6.4"], L(pre=["electricity/circuits"], math=["logic/true-false"])),
+ ("simple-circuits", "Simple circuits: cells, wires, bulbs and switches", {
+   3: "Where we use electricity; mains and cells; keeping safe; a complete loop (cell, wires, bulb, switch); conductors and insulators; why a gap stops it"},
+  [], L(deep=["electricity/circuits", "electricity/conductors-and-insulators"], wide=["magnets/magnets-and-materials"], notes="phy:219,phy:225-228")),
  ("static-and-charge", "Static electricity and charge", {
    3: "Balloons that stick to walls and lift hair; lightning is a giant spark.",
    5: "Positive and negative charge; attraction and repulsion; Tesla's experiments and their legends."},

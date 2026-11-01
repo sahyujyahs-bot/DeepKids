@@ -18797,16 +18797,7 @@
     3
    ],
    "covers": "Where we use electricity; mains and cells; keeping safe; a complete loop (cell, wires, bulb, switch); conductors and insulators; why a gap stops it",
-   "chapters": [
-    "C2-6.1",
-    "C2-6.2",
-    "C2-6.3",
-    "C4-6.1",
-    "C4-6.2",
-    "C4-6.3",
-    "C4-6.4",
-    "C4-6.5"
-   ],
+   "chapters": [],
    "verify": [],
    "prerequisites": [],
    "go_deep": [
@@ -18825,7 +18816,7 @@
     "phy:227",
     "phy:228"
    ],
-   "source": "boards",
+   "source": "notes",
    "chapter_refs": []
   },
   {
@@ -18849,6 +18840,7 @@
     "sci.electricity.static-and-charge.L5"
    ],
    "go_wide": [
+    "sci.electricity.simple-circuits.L3",
     "sci.magnets.poles.L3"
    ],
    "maths": [],

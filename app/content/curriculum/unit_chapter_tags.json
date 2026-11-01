@@ -38,6 +38,9 @@
   "sci.day-night-seasons.day-and-night.L3",
   "sci.sky.sun-moon-stars.L3"
  ],
+ "cam|sci|2|6": [
+  "sci.electricity.simple-circuits.L3"
+ ],
  "cam|sci|3|2": [
   "sci.body.heart-blood-breath.L3"
  ],
@@ -66,6 +69,9 @@
   "sci.sky.sun-moon-stars.L3",
   "sci.light.transparent-opaque.L3",
   "sci.light.what-is-light.L3"
+ ],
+ "cam|sci|4|6": [
+  "sci.electricity.simple-circuits.L3"
  ],
  "cam|sci|5|2": [
   "sci.sound.sources-of-sound.L3"
