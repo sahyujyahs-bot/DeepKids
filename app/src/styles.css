@@ -6978,7 +6978,7 @@ body {
     bottom: calc(env(safe-area-inset-bottom, 0) + 24px);
   }
   .fxfab .iam {
-    width: 120px;
+    width: 170px;
   }
 }
 @media (min-width: 1400px) {
@@ -6986,6 +6986,6 @@ body {
     max-width: 1080px;
   }
   .fxfab .iam {
-    width: 150px;
+    width: 220px;
   }
 }

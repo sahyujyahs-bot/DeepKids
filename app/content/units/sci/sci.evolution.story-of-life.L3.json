@@ -591,7 +591,11 @@
      "items": [
       {
        "f": "The Earth forms",
-       "b": "The Earth forms: 4.5 billion years ago"
+       "b": "The Earth forms: 4.5 billion years ago",
+       "img": {
+        "src": "media/cards/story-of-life-g2-0-00.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The first oceans",
