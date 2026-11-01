@@ -128,7 +128,7 @@
   {
    "term": "Digestive juices",
    "meaning": "Liquids your body makes to break food down into tiny pieces. The stomach's juice has a strong acid in it.",
-   "example": "When you smell hot pakoras, your mouth fills with saliva, or spit. Saliva is a digestive juice too.",
+   "example": "When you smell hot dosas, your mouth fills with saliva, or spit. Saliva is a digestive juice too.",
    "art": "Little droplets falling into a stomach where food pieces are breaking apart."
   },
   {
@@ -219,7 +219,7 @@
    "concept": "The brain: the body's message centre",
    "status": "defined",
    "definition": "The brain is a soft organ inside the skull. It receives messages from the body, sends messages back and lets us think, feel, remember and move.",
-   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of rice. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.",
+   "description": "Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of rice. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain has no pain sensors of its own, so touching it does not hurt. That is why doctors can sometimes operate on a brain while the person is awake.",
    "examples": [
     "When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.",
     "When you sleep, your brain keeps you breathing and sorts out what you learned that day.",
@@ -661,7 +661,7 @@
        "b": "The brain"
       },
       {
-       "f": "TEAM CARD: You smell hot pakoras and your mouth fills with water. Which organ sends that message?",
+       "f": "TEAM CARD: You smell dosas roasting and your mouth fills with water. Which organ sends that message?",
        "b": "The brain"
       },
       {
@@ -686,9 +686,9 @@
    "rules": [
     "Draw a big body outline on paper, about A3 size. Add a head, ribs and a backbone, but no organs. Or trace your child and add the ribs.",
     "Cut out the organ tokens and spread them beside the outline. Shuffle the clue cards and put them face down.",
-    "Take turns to be the reader. The reader turns over the top card, reads the front out loud and checks the back. The reader does not race for that card.",
-    "Everyone else races to put the right organ token in the right place on the outline. For the lungs, place both lung tokens.",
-    "The first player to get both the organ and the place right wins the card. A player who gets it wrong sits out that card. Tokens go back beside the outline.",
+    "Take turns to be the reader. The reader turns over the top card, reads the front out loud and checks the back. With 3 or more players, the reader does not race for that card.",
+    "Everyone else races to put the right organ token in the right place on the outline. For the lungs, place both lung tokens. With 2 players, the other player places the token alone.",
+    "The first player to get both the organ and the place right wins the card. A player who gets it wrong sits out that card. With 2 players, a right answer wins the card for the player who placed it, and a wrong answer gives it to the reader. Tokens go back beside the outline.",
     "On a TEAM card, point to the organs on the outline. The first right answer wins the card. On a FEEL IT card, everyone does it first, and then the first right answer wins the card.",
     "When the cards run out, the player with the most cards wins. If players tie, they share the win."
    ],
@@ -820,7 +820,7 @@
       "Read a story in class",
       "Get a fright when a dog barks",
       "Play kabaddi at break time",
-      "Eat lunch from your tiffin",
+      "Eat thepla and curd from your tiffin at lunch",
       "Solve a hard sum",
       "Sing in assembly",
       "Swim in a pool",
@@ -881,7 +881,7 @@
     "Each player takes an organ role card. With 3 players, one player takes two organs. With 2 players, each takes two.",
     "Shuffle the event cards and put them face down. Put the energy tokens in a bowl.",
     "On your turn, turn over an event card and read it out.",
-    "Every player whose organ works harder says why. If the others agree it is a good reason, that player takes one energy token.",
+    "Every player whose organ works harder says why. If the others agree it is a good reason, that player takes one energy token. A player with two organs takes one token for each organ that works harder.",
     "The brain player must say what message the brain sends.",
     "If the bowl runs empty, the day ends there.",
     "When the cards run out, the team wins the day if every organ has at least 3 tokens. Then talk: did any organ get through the day alone?"
@@ -912,7 +912,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Turn over 'Eat a big breakfast of idli and sambar' as a practice card.",
+     "do": "Turn over 'Eat a big breakfast of idli and sambar' as a practice card. Then shuffle it back in.",
      "say": "Practice card: a big breakfast. Which organs work harder?",
      "kid": "Practice card: a big breakfast. Who works harder? Say why.",
      "check": {
@@ -975,19 +975,6 @@
      "why": "The heart is made of millions of living cells working together on one big job: pumping blood. A hair is made of cells that are no longer alive. A tear and a drop of sweat are liquids, not made of cells at all. A strong answer says both parts: many living cells, and one special job."
     },
     {
-     "t": "mcq",
-     "p": "Put your hand where you think your heart is. Most people put it far over on the left. Where is the heart really?",
-     "opts": [
-      "Far over on the left, under the arm",
-      "In the middle of the chest, behind the breastbone, tipped a little to the left",
-      "Low in the belly",
-      "Just under the neck"
-     ],
-     "a": 1,
-     "why": "The heart sits in the middle of the chest, behind the flat breastbone. Only its pointy bottom end tips to the left. That is why so many people guess 'far left'.",
-     "art": "A child's chest outline with a heart in the middle, its pointy end tipped a little to the left."
-    },
-    {
      "t": "write",
      "p": "A girl presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?",
      "lines": 3,
@@ -1031,12 +1018,6 @@
      "p": "While you sleep, your heart stops beating and rests until you wake up.",
      "a": false,
      "why": "False. Your heart beats every minute of your life, day and night. While you sleep, it just beats a little more slowly, because your muscles need less oxygen."
-    },
-    {
-     "t": "truefalse",
-     "p": "Your stomach sits right behind your belly button.",
-     "a": false,
-     "why": "False. This is what most people think. The stomach is higher, just under the ribs on the left. Behind the belly button are mostly the long, curly intestines."
     },
     {
      "t": "sort",
@@ -1134,6 +1115,19 @@
      "lines": 3,
      "a": "My heart pumps blood to my brain. The blood carries oxygen and food. Without the heart's blood, my brain stops working within a few minutes.",
      "why": "A strong answer says what the blood carries, not only that the heart pumps it. Every organ needs the heart's blood."
+    },
+    {
+     "t": "write",
+     "p": "Put your hands on your ribs and breathe in slowly and deeply. What do your hands feel, and what is happening inside you?",
+     "lines": 3,
+     "a": "My ribs lift up and out. Inside, my lungs are filling with air and getting bigger, so my chest needs more room.",
+     "why": "A strong answer links what the hands feel (ribs moving) to what happens inside (lungs filling)."
+    },
+    {
+     "t": "truefalse",
+     "p": "Your food pipe and your windpipe are the same tube, so swallowed water can go straight to your lungs.",
+     "a": false,
+     "why": "False. They are two tubes side by side. The food pipe goes to the stomach, and the windpipe goes to the lungs. A small flap closes the windpipe when you swallow."
     }
    ]
   },
@@ -1241,13 +1235,13 @@
        "says": "The heart is the boss. Without its blood, the brain stops working in a few minutes."
       },
       {
-       "who": "Usha",
+       "who": "Mitali",
        "says": "There is no boss. The organs are a team, and each one needs the others."
       }
      ],
      "ask": "Pick one girl. Give one piece of evidence from this unit for her side. Then say what one of the other girls would answer back.",
      "lines": 5,
-     "a": "A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Usha: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
+     "a": "A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Mitali: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
      "why": "Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence."
     },
     {
@@ -1570,17 +1564,17 @@
     },
     {
      "id": "s3",
-     "mins": 5,
+     "mins": 4,
      "adult": false,
      "do": "1. Put one egg in the empty jar and screw the lid on. 2. Fill the other jar right to the top with water. Put the egg in, top it up so there is no air, and screw the lid on tight. 3. Over the sink, shake each jar firmly up and down 5 times, the same way. Shake in the air. Do not bang the jar on anything.",
      "say": "Same jar, same egg, same shakes. Only the water is different. That keeps the test fair. Five firm shakes, up and down.",
      "kid": "Put an egg in each jar. Fill one with water to the top. Close the lids tight. Shake each one firmly up and down, 5 times.",
-     "parent": "Fill the water jar right to the top, so there is no air gap. An air bubble lets the water slosh, and then the egg can hit the side. If neither egg cracks after 5 shakes, open, look, close and do 5 more, a little harder. Shake both jars the same way each time. Banging a jar on the table can crack even the egg in water, so shake only in the air. With banana or tofu, look for squashed, broken corners instead of cracks."
+     "parent": "Fill the water jar right to the top, so there is no air gap. An air bubble lets the water slosh, and then the egg can hit the side. Shake both jars the same way each time. Banging a jar on the table can crack even the egg in water, so shake only in the air. With banana or tofu, look for squashed, broken corners instead of cracks."
     },
     {
      "id": "s4",
-     "mins": 5,
-     "do": "Open both jars over the tray. Look closely at each egg. Fill in the table.",
+     "mins": 6,
+     "do": "Open both jars over the tray. Look closely at each egg, even for tiny cracks, and fill in the 'after 5 shakes' column. If neither egg is cracked, close the jars and shake each 5 more times, a little harder. Open them, look again, and fill in 'after 10 shakes'.",
      "say": "Let's look. Is either egg cracked? Look very closely, even for tiny cracks.",
      "kid": "Open the jars. Look closely. Is either egg cracked? Write it in the table.",
      "check": {
@@ -1594,7 +1588,7 @@
       "a": 1,
       "why": "In the empty jar, the egg flies across and hits the hard sides. In the full jar, the water fills all the space. The egg moves along with the water and the jar, so it never crashes into the sides. The liquid around your brain does the same job. Picking 'both are the same' often means thinking only the hard jar protects. The jar helps, but the water protects the egg much better."
      },
-     "parent": "If neither egg is cracked, say so honestly. Look for tiny cracks or a leak. Then try 5 more shakes, a little harder."
+     "parent": "A raw egg is stronger than it looks, and sometimes neither egg cracks, even after 10 shakes. That is a real result, so write it down honestly and look for tiny cracks or a leak. A banana piece squashes more easily, so try it as well."
     },
     {
      "id": "s5",
@@ -1847,15 +1841,15 @@
     },
     {
      "id": "s3",
-     "mins": 12,
-     "do": "1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Stop timing at 6 minutes. 5. Do it again with the other two lumps, crushing one, and swap who stirs which.",
+     "mins": 14,
+     "do": "1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Stop timing at 6 minutes. 5. Do it again with the other two lumps, crushing one of them, and swap who stirs which.",
      "say": "Ready? Tip them in together. Stir gently, one stir each second. Tell me when you can see no sugar at all. Then we do it again, because one try can be a fluke.",
      "kid": "Tip both in at the same time. Stir, one stir each second. Watch the clock. Stop at 6 minutes. Do it twice.",
      "parent": "The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often longer. If it is still there after 6 minutes, write '6 minutes and still there'. Swapping who stirs keeps the test fair."
     },
     {
      "id": "s4",
-     "mins": 4,
+     "mins": 3,
      "do": "Draw one bar for the whole lump and one for the crushed lump.",
      "say": "Let's draw a bar for each. Which bar is taller? Which sugar was faster?",
      "kid": "Draw a bar for the whole lump and one for the bits. Which is taller?",
@@ -1892,7 +1886,7 @@
     },
     {
      "id": "s5",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
@@ -2029,7 +2023,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use safety scissors. A grown-up helps with long cuts.",
    "schedule": [
     {
      "day": 1,
@@ -2086,7 +2079,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Ask your child to place each organ on the map. Then check the places together and move any that are wrong.",
-     "say": "Put each organ where you think it goes. Now let's check with the card. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.",
+     "say": "Put each organ where you think it goes. Now let's check. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.",
      "kid": "Put each organ on your map. Now check. Heart in the middle. Lungs on both sides. Stomach under the left ribs. Brain in the head.",
      "check": {
       "t": "mcq",
@@ -2237,11 +2230,11 @@
     }
    ],
    "record": "Draw one scene as a comic strip with four boxes.",
-   "context": "This is a drama game. Your child plays the brain, the Brain Mayor, and family members or toys play the heart, lungs and stomach. You act out how they work together in four moments of a day.",
+   "context": "This is a drama game. Your child plays the brain, and family members or toys play the heart, lungs and stomach. You act out how they work together in four moments of a day.",
    "setup": [
     {
      "art": "A child sitting on a chair wearing a paper sign saying BRAIN, with a parent holding a HEART sign and two soft toys with LUNGS and STOMACH signs.",
-     "caption": "1. Make signs. The child is the Brain Mayor."
+     "caption": "1. Make signs. The child is the brain."
     },
     {
      "art": "The child pointing and giving orders while the parent with the HEART sign taps fast on a table.",
@@ -2257,15 +2250,15 @@
      "id": "s1",
      "mins": 3,
      "do": "Make the four signs. Your child is the BRAIN, sitting on a chair. You are the HEART. Toys are LUNGS and STOMACH.",
-     "say": "You are the Brain Mayor. You get messages and send orders. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.",
+     "say": "You are the brain. You get messages from the senses and send messages to the other organs. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.",
      "kid": "You are the brain. You get messages and give orders. Who is the heart? Who are the lungs and stomach?",
      "context": "This is the first step of the Body Council, a drama game where family members act as organs."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Act out 'A dog barks suddenly'. The brain hears it and orders the heart to drum faster and the lungs to breathe faster. The stomach stops for a while.",
-     "say": "Woof! A big dog barks! Brain Mayor, what do you tell everyone?",
+     "do": "Act out 'A dog barks suddenly'. The brain hears it and tells the heart to drum faster and the lungs to breathe faster. The stomach stops for a while.",
+     "say": "Woof! A big dog barks! Brain, what do you tell everyone?",
      "kid": "A dog barks! You are the brain. What do you tell the heart and lungs?",
      "parent": "A good brain says: 'Heart, beat faster! Lungs, breathe faster! Stomach, wait!' This is what really happens when we are scared. Blood moves away from the stomach to the leg muscles."
     },
@@ -2291,7 +2284,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Swap roles. Then ask the team question.",
-     "say": "Let's swap. Now I am the brain. Here is a puzzle for the council: could the Brain Mayor work if the heart went on holiday?",
+     "say": "Let's swap. Now I am the brain. Here is a puzzle for the council: could the brain work if the heart went on holiday?",
      "kid": "Swap roles. Could the brain work if the heart stopped?",
      "ask": [
       {
@@ -2374,7 +2367,7 @@
        "Eight, one in each arm"
       ],
       "a": 1,
-      "why": "An octopus has three hearts. Two pump blood through their gills and one pumps blood round the body. Picking 'eight' is a clever guess, because octopuses have eight arms, and most of their nerve cells are in the arms. But the hearts are three."
+      "why": "An octopus has three hearts. Two pump blood through the gills and one pumps blood round the body. Picking 'eight' is a clever guess, because octopuses have eight arms. But the hearts are three, and they sit in the body, not in the arms."
      }
     },
     {
@@ -2519,7 +2512,6 @@
      "buy": "b-bodybook"
     }
    ],
-   "safety": "A grown-up uses the stapler.",
    "schedule": [
     {
      "day": 1,
@@ -2962,15 +2954,15 @@
   },
   {
    "t": "mcq",
-   "p": "An octopus has three hearts. Two of them pump blood only through their gills. What does the third one do?",
+   "p": "A fish, a cow and a child each have a brain inside a skull and a heart. What is the best reason?",
    "opts": [
-    "Pumps blood round the rest of the body",
-    "Helps the octopus think",
-    "Digests food",
-    "Nothing"
+    "They all happen to live near water",
+    "All animals with backbones share one ancient ancestor, so they share a body plan",
+    "The brain and heart grow wherever there is room",
+    "Their parents taught them"
    ],
-   "a": 0,
-   "why": "Two hearts push blood through the gills, where it picks up oxygen. The third pumps it round the rest of the body. Our one heart does both jobs, with two sides.",
+   "a": 1,
+   "why": "Animals with backbones all come from one ancient ancestor, so their insides follow a similar plan: a brain in a skull, a heart in front and a gut below. That is why a fish and a child can be compared organ by organ.",
    "outcome": 7
   },
   {
@@ -3060,7 +3052,7 @@
   },
   {
    "q": "Do animals with very different brains, like octopuses, feel things the way we do?",
-   "why_open": "An octopus solves puzzles and plays. But their brain is built very differently, and we cannot ask them what they feel."
+   "why_open": "Octopuses solve puzzles and play. But their brain is built very differently, and we cannot ask them what they feel."
   },
   {
    "q": "Exactly how does the heart's own timekeeper stay so steady for a whole life?",
@@ -3094,10 +3086,6 @@
    "a": "Crunches."
   },
   {
-   "j": "Why did the stomach rumble at the cinema?",
-   "a": "It heard there was a lot of popcorn."
-  },
-  {
    "j": "Why did the egg love its jar of water?",
    "a": "It never cracked under pressure."
   },
@@ -3110,12 +3098,12 @@
    "a": "Down you go!"
   },
   {
-   "j": "Why did the stomach write a diary?",
-   "a": "It wanted to keep track of everything that went down."
+   "j": "Why is the heart bad at hide and seek?",
+   "a": "You can always hear it thump."
   },
   {
-   "j": "Why did the X-ray machine see right through the joke?",
-   "a": "It was too thin."
+   "j": "Why was the brain so tired after the exam?",
+   "a": "It had too much on its mind."
   }
  ],
  "maths": [
@@ -3224,12 +3212,6 @@
    "url": "https://www.bbc.co.uk/bitesize",
    "kind": "interactive",
    "why": "Short videos and quizzes on organs and the human body for primary-school children."
-  },
-  {
-   "title": "PhET simulations",
-   "url": "https://phet.colorado.edu/",
-   "kind": "simulation",
-   "why": "Free science simulations. Search for the ones about the body and senses."
   },
   {
    "title": "National Organ and Tissue Transplant Organisation (NOTTO)",
@@ -3366,8 +3348,8 @@
    "explanations",
    "g1",
    "e2",
-   "ws-core",
    "e1",
+   "ws-core",
    "a3",
    "videos",
    "a4",
@@ -3488,5 +3470,6 @@
   "who": "Aristotle, Herophilus and Galen",
   "when": "About 350 BCE (Aristotle), about 300 BCE (Herophilus) and about 160 CE (Galen's pig experiment)",
   "wrong_idea": "Aristotle taught that the heart does the thinking and the brain only cools the blood. Galen cut the nerves that control a pig's voice, and showed that they come from the brain. The pig fell silent while the heart kept beating."
- }
+ },
+ "playtest": "Walked through the unit as a family would: printed and played both games with 2 and with 4 players, did the three experiments, six activities, project and two challenges step by step in a city flat, and read every card on its own. Fixes: the clue game had no way to play with 2 (the reader never raced), so a 2-player rule was added. The busy-day game now says a player with two organs takes a token per organ, and the practice card is shuffled back. The egg test now checks after 5 shakes and, if needed, after 10, and says honestly that neither egg may crack (a raw egg is tougher than it looks); step minutes were re-added so they total 25. The mishri test now has 14 minutes for two timed tries. The Brain Mayor idea was dropped from the Body Council because the unit itself says the body is more a team than a kingdom. The core worksheet now comes after the egg test it refers to. Removed unneeded safety lines (scissors, stapler), a PhET link that did not point to a body simulation, 3 weak jokes (added 2 better ones, 9 in all), and repeated questions (the heart-position and stomach-behind-the-belly-button items in the core worksheet, the octopus hearts question in the quiz). The line about the brain and pain now says it has no pain sensors of its own. Examples were widened with dosas, thepla and a Northeast name, Mitali. Both games print every item (24 clue cards, 8 tokens, 18 events, 36 energy tokens, 4 role cards with pictures). The three videos have not been opened by a person, so someone should watch them before they stay in."
 }

@@ -33,7 +33,7 @@
 - **Diaphragm**: A dome-shaped muscle under your lungs. When it pulls down, air rushes into your lungs. *e.g.* When you hiccup, your diaphragm is giving a sudden little jerk.
 - **Food pipe**: The tube that carries food from your mouth down to your stomach. Doctors call it the oesophagus. *e.g.* When you swallow a sip of water, it slides down your food pipe in a few seconds.
 - **Intestines**: Long coiled tubes after the stomach. They take the useful parts of food into your blood. *e.g.* Most of your 'tummy' below the belly button is intestines, not stomach.
-- **Digestive juices**: Liquids your body makes to break food down into tiny pieces. The stomach's juice has a strong acid in it. *e.g.* When you smell hot pakoras, your mouth fills with saliva, or spit. Saliva is a digestive juice too.
+- **Digestive juices**: Liquids your body makes to break food down into tiny pieces. The stomach's juice has a strong acid in it. *e.g.* When you smell hot dosas, your mouth fills with saliva, or spit. Saliva is a digestive juice too.
 - **Organ system**: A team of organs that work together for one big job. *e.g.* Your mouth, food pipe, stomach and intestines are a team for digesting food.
 - **X-ray**: A kind of light that our eyes cannot see. It passes through the soft parts of the body, but bones block most of it. Doctors use it to take pictures of your inside. *e.g.* If you break your arm, a doctor takes an X-ray to see the bone.
 
@@ -76,7 +76,7 @@ When you swallow, food slides down your food pipe into your stomach. Your stomac
 ### The brain: the body's message centre · *defined*
 **Definition:** The brain is a soft organ inside the skull. It receives messages from the body, sends messages back and lets us think, feel, remember and move.
 
-Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of rice. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain itself cannot feel pain. That is why doctors can sometimes operate on a brain while the person is awake.
+Your brain sits inside your skull, floating in a clear liquid that cushions it. In a grown-up it weighs about 1.3 kilograms, a little more than a 1-kilogram packet of rice. It is made of about 86 billion nerve cells, joined in a huge web. Messages race along nerves between the brain and every part of your body. Your eyes, ears, nose, tongue and skin send messages in. Your brain sends messages out to your muscles. Some parts of your brain work without you thinking at all. They keep you breathing and change how fast your heart beats, even while you sleep. The brain uses about a fifth of your body's energy, even though it is a small part of your weight. The brain has no pain sensors of its own, so touching it does not hurt. That is why doctors can sometimes operate on a brain while the person is awake.
 - e.g. When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.
 - e.g. When you sleep, your brain keeps you breathing and sorts out what you learned that day.
 - e.g. Messages cross over. The left side of your brain moves the right side of your body.
@@ -296,9 +296,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 
 ## Games
 ### g1 · Where Am I? The Organ Clue Game (20 min)
-- **rules:** Draw a big body outline on paper, about A3 size. Add a head, ribs and a backbone, but no organs. Or trace your child and add the ribs.; Cut out the organ tokens and spread them beside the outline. Shuffle the clue cards and put them face down.; Take turns to be the reader. The reader turns over the top card, reads the front out loud and checks the back. The reader does not race for that card.; Everyone else races to put the right organ token in the right place on the outline. For the lungs, place both lung tokens.; The first player to get both the organ and the place right wins the card. A player who gets it wrong sits out that card. Tokens go back beside the outline.; On a TEAM card, point to the organs on the outline. The first right answer wins the card. On a FEEL IT card, everyone does it first, and then the first right answer wins the card.; When the cards run out, the player with the most cards wins. If players tie, they share the win.
+- **rules:** Draw a big body outline on paper, about A3 size. Add a head, ribs and a backbone, but no organs. Or trace your child and add the ribs.; Cut out the organ tokens and spread them beside the outline. Shuffle the clue cards and put them face down.; Take turns to be the reader. The reader turns over the top card, reads the front out loud and checks the back. With 3 or more players, the reader does not race for that card.; Everyone else races to put the right organ token in the right place on the outline. For the lungs, place both lung tokens. With 2 players, the other player places the token alone.; The first player to get both the organ and the place right wins the card. A player who gets it wrong sits out that card. With 2 players, a right answer wins the card for the player who placed it, and a wrong answer gives it to the reader. Tokens go back beside the outline.; On a TEAM card, point to the organs on the outline. The first right answer wins the card. On a FEEL IT card, everyone does it first, and then the first right answer wins the card.; When the cards run out, the player with the most cards wins. If players tie, they share the win.
 - **Printable tokens: Organ tokens: draw each one on coloured paper and cut it out (one set):** Brain; Heart; Left lung (smaller, with a dent); Right lung; Stomach (J shape); Intestines (coiled); Food pipe; Windpipe
-- **Printable cards: 24 clue cards to cut out (the answer is on the back):** I sit inside a bony helmet. Who am I? (back: Brain: in the head, inside the skull); I am about the size of your fist. I squeeze all day and all night. Who am I? (back: Heart: in the middle of the chest); There are two of us. We are soft and spongy, and we are full of air. Who are we? (back: Lungs: in the chest, one on each side of the heart); I am shaped like a J. I sit under your ribs on the left. Who am I? (back: Stomach: under the ribs, on the left); I float in a clear liquid that stops me banging on bone. Who am I? (back: Brain: in the head, inside the skull); I am smaller than my twin, because I leave room for the heart. Who am I? (back: Left lung: on the left side of the chest); I am a stretchy bag. I make a strong acid. Who am I? (back: Stomach: under the ribs, on the left); I am a long, coiled tube. Most of your tummy below the belly button is me. Who am I? (back: Intestines: in the belly, below the belly button); I carry food from your mouth down to the stomach. Who am I? (back: Food pipe: from the mouth down to the stomach); I carry air from your nose down to the lungs. Who am I? (back: Windpipe: from the nose and throat down to the lungs); I have about 86 billion nerve cells. Who am I? (back: Brain: in the head, inside the skull); I sit in the middle of your chest, tipped a little to the left. Who am I? (back: Heart: in the middle of the chest, tipped a little to the left); I take in air all night, even when you are fast asleep. Who am I? (back: Lungs: in the chest. The brain tells them to keep going.); I churn your food like hands kneading dough. Who am I? (back: Stomach: under the ribs, on the left); I have four chambers, or rooms, inside me, and blood flows through them. Who am I? (back: Heart: in the middle of the chest); Oxygen passes through my hundreds of millions of tiny air bags into your blood. Who am I? (back: Lungs: in the chest); TEAM CARD: You are running for the bus. Point to the two organs that speed up. (back: The heart and the lungs); TEAM CARD: You just ate a big lunch. Point to the organ that is stretched wide. (back: The stomach); TEAM CARD: You are doing a hard puzzle. Which organ is using a lot of energy? (back: The brain); TEAM CARD: You smell hot pakoras and your mouth fills with water. Which organ sends that message? (back: The brain); FEEL IT: Everyone puts a hand on the middle of their chest. What can you feel? (back: Your heartbeat, from the heart); FEEL IT: Everyone breathes in deeply with hands on their ribs. What moves? (back: Your ribs and chest move, as the lungs fill with air); FEEL IT: Everyone knocks gently on their head. What is the hard part called? (back: The skull); FEEL IT: Everyone swallows a sip of water. Where does it go? (back: Down the food pipe to the stomach)
+- **Printable cards: 24 clue cards to cut out (the answer is on the back):** I sit inside a bony helmet. Who am I? (back: Brain: in the head, inside the skull); I am about the size of your fist. I squeeze all day and all night. Who am I? (back: Heart: in the middle of the chest); There are two of us. We are soft and spongy, and we are full of air. Who are we? (back: Lungs: in the chest, one on each side of the heart); I am shaped like a J. I sit under your ribs on the left. Who am I? (back: Stomach: under the ribs, on the left); I float in a clear liquid that stops me banging on bone. Who am I? (back: Brain: in the head, inside the skull); I am smaller than my twin, because I leave room for the heart. Who am I? (back: Left lung: on the left side of the chest); I am a stretchy bag. I make a strong acid. Who am I? (back: Stomach: under the ribs, on the left); I am a long, coiled tube. Most of your tummy below the belly button is me. Who am I? (back: Intestines: in the belly, below the belly button); I carry food from your mouth down to the stomach. Who am I? (back: Food pipe: from the mouth down to the stomach); I carry air from your nose down to the lungs. Who am I? (back: Windpipe: from the nose and throat down to the lungs); I have about 86 billion nerve cells. Who am I? (back: Brain: in the head, inside the skull); I sit in the middle of your chest, tipped a little to the left. Who am I? (back: Heart: in the middle of the chest, tipped a little to the left); I take in air all night, even when you are fast asleep. Who am I? (back: Lungs: in the chest. The brain tells them to keep going.); I churn your food like hands kneading dough. Who am I? (back: Stomach: under the ribs, on the left); I have four chambers, or rooms, inside me, and blood flows through them. Who am I? (back: Heart: in the middle of the chest); Oxygen passes through my hundreds of millions of tiny air bags into your blood. Who am I? (back: Lungs: in the chest); TEAM CARD: You are running for the bus. Point to the two organs that speed up. (back: The heart and the lungs); TEAM CARD: You just ate a big lunch. Point to the organ that is stretched wide. (back: The stomach); TEAM CARD: You are doing a hard puzzle. Which organ is using a lot of energy? (back: The brain); TEAM CARD: You smell dosas roasting and your mouth fills with water. Which organ sends that message? (back: The brain); FEEL IT: Everyone puts a hand on the middle of their chest. What can you feel? (back: Your heartbeat, from the heart); FEEL IT: Everyone breathes in deeply with hands on their ribs. What moves? (back: Your ribs and chest move, as the lungs fill with air); FEEL IT: Everyone knocks gently on their head. What is the hard part called? (back: The skull); FEEL IT: Everyone swallows a sip of water. Where does it go? (back: Down the food pipe to the stomach)
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a big body outline on paper. Add ribs and a backbone, but no organs. 2. Cut out the organ tokens. 3. Shuffle the clue cards and put them face down.  
   *Parent says:* This is a game about the organs inside us. An organ is a body part with a special job. I read a clue, and you race to put that organ in the right place.  
@@ -324,16 +324,16 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Child mode:* Count your cards. Now point to your own brain, heart, lungs and stomach.
   - Think: Which organ was hardest to place? Why do you think so?
 ### g2 · Busy Day: The Body Team Game (20 min)
-- **rules:** Each player takes an organ role card. With 3 players, one player takes two organs. With 2 players, each takes two.; Shuffle the event cards and put them face down. Put the energy tokens in a bowl.; On your turn, turn over an event card and read it out.; Every player whose organ works harder says why. If the others agree it is a good reason, that player takes one energy token.; The brain player must say what message the brain sends.; If the bowl runs empty, the day ends there.; When the cards run out, the team wins the day if every organ has at least 3 tokens. Then talk: did any organ get through the day alone?
+- **rules:** Each player takes an organ role card. With 3 players, one player takes two organs. With 2 players, each takes two.; Shuffle the event cards and put them face down. Put the energy tokens in a bowl.; On your turn, turn over an event card and read it out.; Every player whose organ works harder says why. If the others agree it is a good reason, that player takes one energy token. A player with two organs takes one token for each organ that works harder.; The brain player must say what message the brain sends.; If the bowl runs empty, the day ends there.; When the cards run out, the team wins the day if every organ has at least 3 tokens. Then talk: did any organ get through the day alone?
 - **Printable cards: 4 organ role cards:** HEART: you pump blood [picture]; LUNGS: you take in oxygen [picture]; STOMACH: you churn food [picture]; BRAIN: you send and receive messages [picture]
-- **Printable cards: 18 event cards from a busy day:** Wake up and stretch; Eat a big breakfast of idli and sambar; Run to catch the school bus; Read a story in class; Get a fright when a dog barks; Play kabaddi at break time; Eat lunch from your tiffin; Solve a hard sum; Sing in assembly; Swim in a pool; Sit quietly after lunch; Smell food cooking and feel hungry; Climb the stairs to the roof; Laugh at a joke; Drink a glass of water; Blow up a balloon; Fall asleep at night; Dream
+- **Printable cards: 18 event cards from a busy day:** Wake up and stretch; Eat a big breakfast of idli and sambar; Run to catch the school bus; Read a story in class; Get a fright when a dog barks; Play kabaddi at break time; Eat thepla and curd from your tiffin at lunch; Solve a hard sum; Sing in assembly; Swim in a pool; Sit quietly after lunch; Smell food cooking and feel hungry; Climb the stairs to the roof; Laugh at a joke; Drink a glass of water; Blow up a balloon; Fall asleep at night; Dream
 - **Printable tokens: 36 energy tokens (small paper circles):** ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡; ⚡
 - **s1 (3 min)**  
   *Parent does:* 1. Hand out the organ role cards. 2. Shuffle the event cards. 3. Put the energy tokens in a bowl.  
   *Parent says:* Each of us is one organ today. A day is full of events. When your organ works harder, you take a token, and say why.  
   *Child mode:* Pick your organ card. Mix the event cards. Every time your organ works harder, take a token.
 - **s2 (3 min)**  
-  *Parent does:* Turn over 'Eat a big breakfast of idli and sambar' as a practice card.  
+  *Parent does:* Turn over 'Eat a big breakfast of idli and sambar' as a practice card. Then shuffle it back in.  
   *Parent says:* Practice card: a big breakfast. Which organs work harder?  
   *Child mode:* Practice card: a big breakfast. Who works harder? Say why.
   - Check: You eat a big breakfast. Which organ is busiest? → **The stomach**
@@ -366,16 +366,16 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Parent does:* Ask your child to guess which egg will crack first, and to write down the guess.  
   *Parent says:* We will shake an egg in an empty jar and an egg in a jar full of water. Which one do you think will crack? Why? Write your guess.  
   *Child mode:* One egg in an empty jar. One egg in water. Which will crack? Why? Write your guess.
-- **s3 (5 min)**  
+- **s3 (4 min)**  
   *Parent does:* 1. Put one egg in the empty jar and screw the lid on. 2. Fill the other jar right to the top with water. Put the egg in, top it up so there is no air, and screw the lid on tight. 3. Over the sink, shake each jar firmly up and down 5 times, the same way. Shake in the air. Do not bang the jar on anything.  
   *Parent says:* Same jar, same egg, same shakes. Only the water is different. That keeps the test fair. Five firm shakes, up and down.  
   *Child mode:* Put an egg in each jar. Fill one with water to the top. Close the lids tight. Shake each one firmly up and down, 5 times.
-  - Note: Fill the water jar right to the top, so there is no air gap. An air bubble lets the water slosh, and then the egg can hit the side. If neither egg cracks after 5 shakes, open, look, close and do 5 more, a little harder. Shake both jars the same way each time. Banging a jar on the table can crack even the egg in water, so shake only in the air. With banana or tofu, look for squashed, broken corners instead of cracks.
-- **s4 (5 min)**  
-  *Parent does:* Open both jars over the tray. Look closely at each egg. Fill in the table.  
+  - Note: Fill the water jar right to the top, so there is no air gap. An air bubble lets the water slosh, and then the egg can hit the side. Shake both jars the same way each time. Banging a jar on the table can crack even the egg in water, so shake only in the air. With banana or tofu, look for squashed, broken corners instead of cracks.
+- **s4 (6 min)**  
+  *Parent does:* Open both jars over the tray. Look closely at each egg, even for tiny cracks, and fill in the 'after 5 shakes' column. If neither egg is cracked, close the jars and shake each 5 more times, a little harder. Open them, look again, and fill in 'after 10 shakes'.  
   *Parent says:* Let's look. Is either egg cracked? Look very closely, even for tiny cracks.  
   *Child mode:* Open the jars. Look closely. Is either egg cracked? Write it in the table.
-  - Note: If neither egg is cracked, say so honestly. Look for tiny cracks or a leak. Then try 5 more shakes, a little harder.
+  - Note: A raw egg is stronger than it looks, and sometimes neither egg cracks, even after 10 shakes. That is a real result, so write it down honestly and look for tiny cracks or a leak. A banana piece squashes more easily, so try it as well.
   - Check: In the egg in the jar test, which egg is usually safer? → **The egg in the jar full of water**
 - **s5 (4 min)**  
   *Parent does:* Talk about where the model is like a real head, and where it is different.  
@@ -439,17 +439,17 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Parent says:* This lump is now lots of small bits. Nothing was added or taken away. Which do you think will disappear into the water first, the whole lump or the bits? Why?  
   *Child mode:* Crush one lump inside a cloth. Tap it until it is small bits. Which will disappear first? Why? Write your guess.
   - Note: Use the same amount of sugar in both. Tip every crushed bit out of the cloth.
-- **s3 (12 min)**  
-  *Parent does:* 1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Stop timing at 6 minutes. 5. Do it again with the other two lumps, crushing one, and swap who stirs which.  
+- **s3 (14 min)**  
+  *Parent does:* 1. Tip the whole lump into one glass and the crushed bits into the other, at the same moment. 2. You stir one and your child stirs the other, about one stir each second. 3. Write down how many minutes each takes until you can see no sugar. 4. Stop timing at 6 minutes. 5. Do it again with the other two lumps, crushing one of them, and swap who stirs which.  
   *Parent says:* Ready? Tip them in together. Stir gently, one stir each second. Tell me when you can see no sugar at all. Then we do it again, because one try can be a fluke.  
   *Child mode:* Tip both in at the same time. Stir, one stir each second. Watch the clock. Stop at 6 minutes. Do it twice.
   - Note: The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often longer. If it is still there after 6 minutes, write '6 minutes and still there'. Swapping who stirs keeps the test fair.
-- **s4 (4 min)**  
+- **s4 (3 min)**  
   *Parent does:* Draw one bar for the whole lump and one for the crushed lump.  
   *Parent says:* Let's draw a bar for each. Which bar is taller? Which sugar was faster?  
   *Child mode:* Draw a bar for the whole lump and one for the bits. Which is taller?
   - Check: In the lump or bits test, why did the crushed sugar disappear faster? → **Much more of the sugar was touching the water**
-- **s5 (3 min)**  
+- **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
@@ -480,7 +480,6 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Child mode:* Knock gently on your head. That is your skull. What is inside? Draw yourself. Put a dot for each thing you felt.
   - Think: You felt your heart, your breath, your swallow and your skull. What do you think you could not feel at all?
 ### a2 · The Life-size Organ Map (30 min)
-- **safety:** Use safety scissors. A grown-up helps with long cuts.
 - **record:** Take a photo of the map before and after you check it. Keep the map for the project and the challenge.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the paper on the floor. 2. Ask your child to lie on it with arms a little out. 3. Trace round them with a marker.  
@@ -498,7 +497,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   - Note: These sizes are rough guides. The lungs are bigger than most children expect. They fill most of the chest.
 - **s4 (6 min)**  
   *Parent does:* Ask your child to place each organ on the map. Then check the places together and move any that are wrong.  
-  *Parent says:* Put each organ where you think it goes. Now let's check with the card. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.  
+  *Parent says:* Put each organ where you think it goes. Now let's check. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.  
   *Child mode:* Put each organ on your map. Now check. Heart in the middle. Lungs on both sides. Stomach under the left ribs. Brain in the head.
   - Check: On your organ map, where do the lungs go? → **Filling most of the chest, one on each side of the heart**
 - **s5 (3 min)**  
@@ -535,11 +534,11 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **record:** Draw one scene as a comic strip with four boxes.
 - **s1 (3 min)**  
   *Parent does:* Make the four signs. Your child is the BRAIN, sitting on a chair. You are the HEART. Toys are LUNGS and STOMACH.  
-  *Parent says:* You are the Brain Mayor. You get messages and send orders. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.  
+  *Parent says:* You are the brain. You get messages from the senses and send messages to the other organs. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.  
   *Child mode:* You are the brain. You get messages and give orders. Who is the heart? Who are the lungs and stomach?
 - **s2 (4 min)**  
-  *Parent does:* Act out 'A dog barks suddenly'. The brain hears it and orders the heart to drum faster and the lungs to breathe faster. The stomach stops for a while.  
-  *Parent says:* Woof! A big dog barks! Brain Mayor, what do you tell everyone?  
+  *Parent does:* Act out 'A dog barks suddenly'. The brain hears it and tells the heart to drum faster and the lungs to breathe faster. The stomach stops for a while.  
+  *Parent says:* Woof! A big dog barks! Brain, what do you tell everyone?  
   *Child mode:* A dog barks! You are the brain. What do you tell the heart and lungs?
   - Note: A good brain says: 'Heart, beat faster! Lungs, breathe faster! Stomach, wait!' This is what really happens when we are scared. Blood moves away from the stomach to the leg muscles.
 - **s3 (4 min)**  
@@ -549,7 +548,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   - Check: When you fall asleep, what does the brain do? → **It keeps the heart and breathing going, more slowly**
 - **s4 (4 min)**  
   *Parent does:* Swap roles. Then ask the team question.  
-  *Parent says:* Let's swap. Now I am the brain. Here is a puzzle for the council: could the Brain Mayor work if the heart went on holiday?  
+  *Parent says:* Let's swap. Now I am the brain. Here is a puzzle for the council: could the brain work if the heart went on holiday?  
   *Child mode:* Swap roles. Could the brain work if the heart stopped?
   - Ask: Why can't the heart ever take a holiday? (good: The brain needs blood every second.; Every cell needs oxygen all the time.)
 ### a5 · Same Plan, Different Animals (20 min)
@@ -598,7 +597,6 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 
 ## Projects
 ### p1 · My Inside Book: a lift-the-flap book (60 min, 3 days)
-- **safety:** A grown-up uses the stapler.
 - **record:** The finished book, and the name of the person you read it to.
 - **schedule:** day 1: Draw the cover: a child in a shirt. Cut the shirt into a flap that lifts up. Draw the four organs underneath. (20 min); day 2: Make one page each for the heart, lungs, stomach and brain: where it is, what it does and one amazing fact. (20 min); day 3: Staple the book together. Read it to someone younger, and ask them to point to their own organs. (20 min)
 - **s1 (20 min)**  
@@ -674,36 +672,35 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 1. (mcq) An organ is a body part with a special job, made of many living cells. Which of these is an organ?  
    Options: One hair / Your heart / One tear / One drop of sweat  
    **Answer:** Your heart. *Why:* The heart is made of millions of living cells working together on one big job: pumping blood. A hair is made of cells that are no longer alive. A tear and a drop of sweat are liquids, not made of cells at all. A strong answer says both parts: many living cells, and one special job.
-2. (mcq) Put your hand where you think your heart is. Most people put it far over on the left. Where is the heart really?  
-   Options: Far over on the left, under the arm / In the middle of the chest, behind the breastbone, tipped a little to the left / Low in the belly / Just under the neck  
-   **Answer:** In the middle of the chest, behind the breastbone, tipped a little to the left. *Why:* The heart sits in the middle of the chest, behind the flat breastbone. Only its pointy bottom end tips to the left. That is why so many people guess 'far left'.
-3. (write) A girl presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?  
+2. (write) A girl presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?  
    **Answer:** The heart is in the middle, but its pointy bottom end tips to the left. That end squeezes hard and taps the chest wall on the left side. So the beat feels strongest there, even though most of the heart is in the middle.. *Why:* A strong answer separates where the heart is from where you feel it. Feeling something in one place does not always tell you where all of it is.
-4. (fill) The hard bony box that keeps your brain safe is called the ____.  
+3. (fill) The hard bony box that keeps your brain safe is called the ____.  
    **Answer:** ['skull']. *Why:* The skull works like a helmet. It is hard so a bump does not reach the soft brain inside.
-5. (match) Match each organ to its main job.  
+4. (match) Match each organ to its main job.  
    **Answer:** Heart → pumps blood all round the body; Lungs → take oxygen from the air into the blood; Stomach → churns food and breaks it down; Brain → sends and receives messages. *Why:* Each organ has one main job. But no organ can do its job alone. The brain needs the heart's blood, and the heart needs the lungs' oxygen.
-6. (truefalse) While you sleep, your heart stops beating and rests until you wake up.  
+5. (truefalse) While you sleep, your heart stops beating and rests until you wake up.  
    **Answer:** False. *Why:* False. Your heart beats every minute of your life, day and night. While you sleep, it just beats a little more slowly, because your muscles need less oxygen.
-7. (truefalse) Your stomach sits right behind your belly button.  
-   **Answer:** False. *Why:* False. This is what most people think. The stomach is higher, just under the ribs on the left. Behind the belly button are mostly the long, curly intestines.
-8. (sort) Sort these body parts by where they sit: brain, heart, left lung, right lung, stomach, intestines.  
+6. (sort) Sort these body parts by where they sit: brain, heart, left lung, right lung, stomach, intestines.  
    **Answer:** brain → Head; heart → Chest; left lung → Chest; right lung → Chest; stomach → Belly; intestines → Belly. *Why:* The brain is at the top, in the skull. The heart and both lungs share the chest, inside the ribs. The stomach is at the very top of the belly, under the left ribs, and the intestines fill the rest.
-9. (write) Your brain floats in a clear liquid inside your skull. Use what you saw in the egg in the jar test to explain how that liquid helps.  
+7. (write) Your brain floats in a clear liquid inside your skull. Use what you saw in the egg in the jar test to explain how that liquid helps.  
    **Answer:** In the empty jar, the egg crashed into the hard sides and cracked. In the jar of water, the water cushioned the egg, so it did not hit the sides hard. The liquid around my brain does the same. When I jump or bump my head, it stops my brain banging against my skull.. *Why:* A strong answer uses the test as evidence: what happened in each jar, then how the brain is like the egg.
-10. (mcq) A girl runs up the stairs to her flat on the fourth floor. At the top her heart is thumping and she is breathing fast. Why?  
+8. (mcq) A girl runs up the stairs to her flat on the fourth floor. At the top her heart is thumping and she is breathing fast. Why?  
    Options: Her leg muscles need more oxygen, so her heart and lungs work faster to bring it / Her stomach is hungry / Her brain has gone to sleep / She is cold  
    **Answer:** Her leg muscles need more oxygen, so her heart and lungs work faster to bring it. *Why:* Climbing makes the leg muscles work hard, so they need more oxygen. The lungs breathe faster to take in more. The heart beats faster to carry it in the blood. The brain sends the messages that speed them both up.
-11. (fill) When you breathe in, the air goes down your windpipe and into your two ____.  
+9. (fill) When you breathe in, the air goes down your windpipe and into your two ____.  
    **Answer:** ['lungs']. *Why:* The windpipe splits into two tubes, one for each lung.
-12. (label) Label the body outline. Write brain, heart, left lung, right lung and stomach at the right arrows.  
+10. (label) Label the body outline. Write brain, heart, left lung, right lung and stomach at the right arrows.  
    **Answer:** Brain in the head. Heart in the middle of the chest. One lung on each side of the heart. Stomach under the ribs on the left.. *Why:* This is your body map. If you are not sure, lie down on your life-size organ map and check.
-13. (odd) Which one does not help bring oxygen to your toe: your lungs, your heart, your blood or your stomach? Say why.  
+11. (odd) Which one does not help bring oxygen to your toe: your lungs, your heart, your blood or your stomach? Say why.  
    **Answer:** The stomach. *Why:* The lungs take oxygen into the blood, the blood carries it, and the heart pumps the blood to the toe. The stomach helps bring food to the toe, not oxygen.
-14. (order) Put these in order, the way a bite of dosa travels: stomach, mouth, intestines, food pipe.  
+12. (order) Put these in order, the way a bite of dosa travels: stomach, mouth, intestines, food pipe.  
    **Answer:** order shown. *Why:* Food goes in at the mouth, down the food pipe to the stomach, and then on into the long intestines.
-15. (write) Why does your brain need your heart? Use the word blood in your answer.  
+13. (write) Why does your brain need your heart? Use the word blood in your answer.  
    **Answer:** My heart pumps blood to my brain. The blood carries oxygen and food. Without the heart's blood, my brain stops working within a few minutes.. *Why:* A strong answer says what the blood carries, not only that the heart pumps it. Every organ needs the heart's blood.
+14. (write) Put your hands on your ribs and breathe in slowly and deeply. What do your hands feel, and what is happening inside you?  
+   **Answer:** My ribs lift up and out. Inside, my lungs are filling with air and getting bigger, so my chest needs more room.. *Why:* A strong answer links what the hands feel (ribs moving) to what happens inside (lungs filling).
+15. (truefalse) Your food pipe and your windpipe are the same tube, so swallowed water can go straight to your lungs.  
+   **Answer:** False. *Why:* False. They are two tubes side by side. The food pipe goes to the stomach, and the windpipe goes to the lungs. A small flap closes the windpipe when you swallow.
 ### Organ Detective (stretch) (stretch, 15 questions)
 1. (mcq) Your lungs have hundreds of millions of tiny air bags, not one big bag. Why?  
    Options: Tiny bags are easier to grow / Many tiny bags give a huge surface where oxygen can pass into the blood / One big bag would be too heavy / Tiny bags make breathing quieter  
@@ -727,7 +724,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    Options: The stomach / The lungs / The brain / No organ, the heart decides alone  
    **Answer:** The brain. *Why:* The brain sends messages along nerves that speed the heart up. The heart starts each beat by itself, but the brain changes how fast. So 'the heart decides alone' is half right, which makes this worth thinking about.
 10. (perspective) Three girls in a Class 3 group are arguing about which organ is the boss of the body.  
-   **Answer:** A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Usha: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.. *Why:* Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence.
+   **Answer:** A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Mitali: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.. *Why:* Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence.
 11. (write) A girl holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?  
    **Answer:** Her brain. While she holds her breath, her cells keep using oxygen and making a waste gas called carbon dioxide. The waste gas builds up in her blood. Her brain senses it and sends strong messages to her diaphragm to breathe. That is why she cannot hold her breath for ever.. *Why:* A strong answer names the brain and says what it notices: waste gas building up in the blood. Breathing is controlled by the brain, even while we are busy with something else.
 12. (match) Match each bone to the soft part it protects.  
@@ -776,7 +773,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    **Answer:** Each stomach fits the food that animal eats. Grass is tough and hard to break down, so a cow needs four parts and a long time. A mussel is shut inside a shell, so a starfish pushes the stomach in through the gap. Same job, different food, different stomach.. *Why:* A strong answer links each stomach to that animal's food. The job, breaking down food, stays the same.
 
 ## Videos
-- **How Do Your Body Parts Work? | Non Stop Episodes | The Dr. Binocs Show | PEEKABOO KIDZ** (Peekaboo Kidz, 5 min) id `GYtJKrbqhiQ`: A short, clear tour of the heart, lungs, stomach and brain for a child, with simple animation. *Check:* Not yet watched by a person: watch it first.
+- **How Do Your Body Parts Work? | Non Stop Episodes | The Dr. Binocs Show | PEEKABOO KIDZ** (Peekaboo Kidz, 5 min) id `GYtJKrbqhiQ`: A short, clear tour of the heart, lungs, stomach and brain for a child, with simple animation. *Check:* Not yet watched by a person: watch it first. Check it places the stomach under the left ribs and the heart in the middle of the chest.
 - **How your digestive system works - Emma Bryce** (TED-Ed, 5 min) id `Og5xAdC8EUI`: For the parent and curious older children: churning, stomach acid and why the stomach does not digest itself. *Check:* Not yet watched by a person: watch it first. Check that it explains the mucus layer and does not claim stress causes ulcers.
 - **What is so special about the human brain? | Suzana Herculano-Houzel** (TED, 14 min) id `_7_XH1CBzGw`: For the parent: the Brazilian scientist who counted the brain's 86 billion nerve cells explains how she did it. *Check:* Not yet watched by a person: watch it first. The talk exists on TED's own site.
 
@@ -817,9 +814,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 12. (mcq) Which of these is still a mystery to scientists?  
    Options: Where the heart sits / How the brain makes a thought or a feeling / What the stomach does / How many lungs we have  
    **Answer:** How the brain makes a thought or a feeling. *Why:* Where organs are and what they do is well known. How a brain makes the feeling of being you is one of the biggest open questions in science.
-13. (mcq) An octopus has three hearts. Two of them pump blood only through their gills. What does the third one do?  
-   Options: Pumps blood round the rest of the body / Helps the octopus think / Digests food / Nothing  
-   **Answer:** Pumps blood round the rest of the body. *Why:* Two hearts push blood through the gills, where it picks up oxygen. The third pumps it round the rest of the body. Our one heart does both jobs, with two sides.
+13. (mcq) A fish, a cow and a child each have a brain inside a skull and a heart. What is the best reason?  
+   Options: They all happen to live near water / All animals with backbones share one ancient ancestor, so they share a body plan / The brain and heart grow wherever there is room / Their parents taught them  
+   **Answer:** All animals with backbones share one ancient ancestor, so they share a body plan. *Why:* Animals with backbones all come from one ancient ancestor, so their insides follow a similar plan: a brain in a skull, a heart in front and a gut below. That is why a fish and a child can be compared organ by organ.
 14. (mcq) Scientists can grow 'mini-organs', called organoids, from a few cells in a lab. What are they?  
    Options: Full-sized organs ready to put in people / Tiny, simple versions of organs like the brain or gut, used to study them and test medicines / Toys / Plastic models  
    **Answer:** Tiny, simple versions of organs like the brain or gut, used to study them and test medicines. *Why:* Organoids are about the size of a pea or smaller. They help scientists learn how organs grow and test medicines safely.
@@ -856,7 +853,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **How much do the germs in our gut change how we feel?** Tests in mice show gut germs can change behaviour. Tests in people are new, and the results are mixed.
 - **Can we grow a whole new heart, lung or stomach from a person's own cells?** Scientists can grow tiny mini-organs. Nobody has yet grown a full-sized working one for a person.
 - **How many organs does a body have?** It depends on what you count as an organ. Scientists still argue about new ones, like the interstitium.
-- **Do animals with very different brains, like octopuses, feel things the way we do?** An octopus solves puzzles and plays. But their brain is built very differently, and we cannot ask them what they feel.
+- **Do animals with very different brains, like octopuses, feel things the way we do?** Octopuses solve puzzles and play. But their brain is built very differently, and we cannot ask them what they feel.
 - **Exactly how does the heart's own timekeeper stay so steady for a whole life?** Scientists understand a lot about it. But how it stays steady for billions of beats, and why it sometimes goes wrong, is still being studied.
 
 ## Questions to ask kids
@@ -873,12 +870,11 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - What do you call a heart that loves music? *A beat box.*
 - Why did the skull not go to the dance? *It had no body to go with.*
 - What is a stomach's favourite exercise? *Crunches.*
-- Why did the stomach rumble at the cinema? *It heard there was a lot of popcorn.*
 - Why did the egg love its jar of water? *It never cracked under pressure.*
 - What did the ribs say to the heart? *Don't worry, we've got you covered.*
 - What did the food pipe say to the vada? *Down you go!*
-- Why did the stomach write a diary? *It wanted to keep track of everything that went down.*
-- Why did the X-ray machine see right through the joke? *It was too thin.*
+- Why is the heart bad at hide and seek? *You can always hear it thump.*
+- Why was the brain so tired after the exam? *It had too much on its mind.*
 
 ## Connected maths
 - In the kitchen weigh-in, a grown-up's brain weighed about 1,300 grams and a grown-up's heart about 300 grams. How much heavier is the brain? **1,000 grams heavier, which is 1 kilogram.**. The brain is about 1,300 grams. The heart is about 300 grams. 1,300 take away 300 is 1,000. So the brain is 1,000 grams, or 1 kilogram, heavier. (queues `math.weight-capacity.weight.L3`)
@@ -894,7 +890,6 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [KidsHealth: How the Body Works](https://kidshealth.org/) · interactive: Free child-friendly pages and short films about the heart, lungs, stomach and brain.
 - [Inner Body: interactive anatomy](https://www.innerbody.com/) · interactive: For the parent: click on body systems to see where organs sit. Some pages are detailed.
 - [BBC Bitesize: Science for primary](https://www.bbc.co.uk/bitesize) · interactive: Short videos and quizzes on organs and the human body for primary-school children.
-- [PhET simulations](https://phet.colorado.edu/) · simulation: Free science simulations. Search for the ones about the body and senses.
 - [National Organ and Tissue Transplant Organisation (NOTTO)](https://notto.mohfw.gov.in/) · interactive: For the parent: India's official site about organ donation, if your family wants to talk about it.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in/) · place · Mumbai: Has exhibits on the human body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum with hands-on galleries, including biology and the body.
@@ -920,7 +915,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 
 ## Plan
 - Start options: a1, story, a2, big_questions, cards, g1, e1
-- Default order: intro → a1 → story → summary → terms → a2 → explanations → g1 → e2 → ws-core → e1 → a3 → videos → a4 → e3 → agreed → challenging → g2 → a5 → a6 → big_questions → ws-stretch → p1 → c1 → c2 → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → story → summary → terms → a2 → explanations → g1 → e2 → e1 → ws-core → a3 → videos → a4 → e3 → agreed → challenging → g2 → a5 → a6 → big_questions → ws-stretch → p1 → c1 → c2 → ws-challenge → open_questions → roots → quiz
 - Core: a1, a2, g1, e1, e2, ws-core, a4
 
 ## Sources

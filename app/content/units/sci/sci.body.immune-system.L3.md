@@ -278,8 +278,8 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 
 ## Games
 ### g1 · Get Past the Walls! (20 min)
-- **rules:** Cut out the 16 germ cards and the 12 defence cards. Lay the body board flat: OUTSIDE at the top, THE WALLS in the middle, INSIDE at the bottom.; Shuffle the germ cards face down in one pile and the defence cards in another. One player is the Germ. The other players are the Body. Each Body player takes 3 defence cards.; The Germ turns over the top card of the germ pile, reads the card out and places the card on OUTSIDE. A card marked 'starts INSIDE' goes straight onto INSIDE.; The Body players take turns, starting on the Germ's left. The Body player whose turn it is plays one defence card onto THE WALLS and says how it stops this germ. For example, 'Stomach acid kills the germs on the guava.' The other players agree, or say why it does not fit.; If the defence fits, the germ is stopped. Put both cards in the discard pile. That Body player scores 1 point and takes a new defence card. If the defence pile runs out, shuffle the discard pile to make a new one.; If she has no card that fits, or the germ starts INSIDE, the germ is inside the body. Now she can play only a WHITE BLOOD CELL, INFLAMMATION, FEVER or WASH IT card onto INSIDE, and say how it fights this germ. If it fits, she scores 1 point and takes a new card.; If nothing fits, the germ scores 1 point for the Germ player. The germ card goes in the discard pile.; After 4 germ cards (8 if two of you play), the next player becomes the Germ. When all 16 germ cards are used, the player with the most points wins. A tie is shared.
-- **Printable cards: 16 germ cards to cut out:** Cold virus floating in a sneeze; Dust with germs blowing into your eyes; Germs on a dirty hand, about to rub your nose; Germs on an unwashed guava; Bacteria on a rusty nail that pokes your foot (starts INSIDE); Dirty puddle water splashing on a scraped knee (starts INSIDE); Germs on a shared spoon; A mosquito carrying a germ (starts INSIDE); Germs on a door handle; Germs in a cough on the bus; Germs on a dog's paw that touches your arm (no cut); Germs in dirty water from a broken pipe; A splinter carrying bacteria under the skin (starts INSIDE); Germs in a cut that nobody washed (starts INSIDE); Germs in dust you breathe in on a road; A germ that got past every wall (starts INSIDE)
+- **rules:** Cut out the 16 germ cards and the 12 defence cards. Lay the body board flat: OUTSIDE at the top, THE WALLS in the middle, INSIDE at the bottom.; Shuffle the germ cards face down in one pile and the defence cards in another. One player is the Germ. The other players are the Body. Each Body player takes 3 defence cards.; The Germ turns over the top card of the germ pile, reads the card out and places the card on OUTSIDE. A card marked 'starts INSIDE' goes straight onto INSIDE.; The Body players take turns, one germ card each, starting on the Germ's left. With two players, the one Body player answers every card. The Body player whose turn it is plays one defence card onto THE WALLS and says how it stops this germ. For example, 'Stomach acid kills the germs on the guava.' The other players agree, or say why it does not fit.; If the defence fits, the germ is stopped. Put both cards in the discard pile. That Body player scores 1 point and takes a new defence card. If the defence pile runs out, shuffle the discard pile to make a new one.; If she has no card that fits, or the germ starts INSIDE, the germ is inside the body. Now she can play only a WHITE BLOOD CELL, INFLAMMATION, FEVER or WASH IT card onto INSIDE, and say how it fights this germ. If it fits, she scores 1 point and takes a new card.; If nothing fits, the germ scores 1 point for the Germ player. The germ card goes in the discard pile.; After 4 germ cards (8 if two of you play), the next player becomes the Germ. The new Germ puts her defence cards under the defence pile. The old Germ takes 3 new defence cards and keeps her points. When all 16 germ cards are used, the player with the most points wins. A tie is shared.
+- **Printable cards: 16 germ cards to cut out:** Cold virus floating in a sneeze; Dust with germs blowing into your eyes; Germs on a dirty hand, about to rub your nose; Germs on an unwashed guava; Bacteria on a rusty nail that pokes your foot (starts INSIDE); Dirty monsoon puddle water splashing on a scraped knee (starts INSIDE); Germs on a shared spoon; A mosquito carrying a germ (starts INSIDE); Germs on a door handle; Germs in a cough on the bus; Germs on a dog's paw that touches your arm (no cut); Germs in dirty water from a broken pipe; A splinter carrying bacteria under the skin (starts INSIDE); Germs in a cut that nobody washed (starts INSIDE); Germs in dust you breathe in on a road; A germ that got past every wall (starts INSIDE)
 - **Printable cards: 12 defence cards to cut out:** SKIN: a tight wall of dead cells; TEARS: wash the eye at every blink; MUCUS and NOSE HAIRS: trap dust and germs; SNEEZE and COUGH: blast them out; SALIVA: washes the mouth; STOMACH ACID: kills germs in food and water; WHITE BLOOD CELL: finds and eats germs; INFLAMMATION: red, warm, swollen, more defenders arrive; FEVER: the brain turns up the heat; WASH IT: clean a cut and cover it; SOAP: wash hands before eating; FRIENDLY MICROBES: no room for germs
 - **Printable board: The body board:** OUTSIDE (germs start here); THE WALLS (skin, eyes, nose, mouth); INSIDE (blood and white blood cells)
 - **Printable score sheet: Score sheet:** Player 1: points ____; Player 2: points ____; Player 3: points ____ (4 players); Player 4: points ____ (4 players)
@@ -309,7 +309,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Child mode:* Count your points. Which defence did you use most?
   - Think: Your real body plays this game every second, and it usually wins. What do you think happens on the days it doesn't?
 ### g2 · Germ Tag (15 min)
-- **rules:** Put a cushion on the floor. The cushion is the body. Lay a rolled towel on the floor 4 big steps away. This is the start line.; One player is the Germ and stands at the start line. One player is the Body and stands in front of the cushion as the SKIN WALL. The skin wall may shuffle sideways and spread her arms, but may not step forward.; Round 1: the Germ runs round the wall to touch the cushion. If the skin wall touches the Germ first, the Body scores 1 point. If the Germ touches the cushion, the Germ scores 1 point. Play 3 tries.; Round 2: shout 'FEVER!' Now the Germ must hop on one leg instead of running. Play 3 tries.; Round 3: the Body takes the WHITE BLOOD CELL card. She may now run, and she starts right next to the Germ, because she remembers the germ from round 1. Play 3 tries. Grown-ups, move at the child's speed so it stays a game.; Swap roles and play all three rounds again. The player with more points wins.; With 4 or more players, add more Germs. The skin wall players hold hands in a line and shuffle sideways together. In round 3 one extra player is the white blood cell, and a Germ she tags is out.
+- **rules:** Put a cushion on the floor. The cushion is the body. Lay a rolled towel on the floor 4 big steps away. This is the start line.; One player is the Germ and stands at the start line. One player is the Body and stands in front of the cushion as the SKIN WALL. The skin wall may shuffle sideways and spread her arms, but may not step forward.; Round 1: the Germ runs round the wall to touch the cushion. If the skin wall touches the Germ first, the Body scores 1 point. If the Germ touches the cushion, the Germ scores 1 point. Play 3 tries.; Round 2: shout 'FEVER!' Now the Germ must hop on one leg instead of running. Play 3 tries.; Round 3: the Body takes the WHITE BLOOD CELL card. She may now run, and she starts right next to the Germ, because the hurt place has sent out signals that call white blood cells to it. Play 3 tries. Grown-ups, move at the child's speed so it stays a game.; Count the points for the three rounds. If you like, swap roles and play all three rounds again, then add up both turns. The player with more points wins. A tie is shared.; With 4 or more players, add more Germs. The skin wall players hold hands in a line and shuffle sideways together. In round 3 one extra player is the white blood cell, and a Germ she tags is out.
 - **Printable cards: 5 role cards to cut out (with 2 players, use one GERM, one SKIN WALL and one WHITE BLOOD CELL):** GERM; GERM; SKIN WALL; SKIN WALL; WHITE BLOOD CELL
 - **s1 (2 min)**  
   *Parent does:* Hand out the role cards. Put the cushion and the start line down. Choose who is the Germ and who is the Body.  
@@ -327,13 +327,13 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Check: In Germ Tag, the germ players must hop in the fever round. What does the hopping stand for? → **Many germs grow more slowly when the body is hotter**
 - **s4 (4 min)**  
   *Parent does:* Play round 3 with the white blood cell starting next to the germ. 3 tries.  
-  *Parent says:* Round three: the white blood cell remembers this germ from before. So she starts right next to the germ.  
-  *Child mode:* Round three: the white blood cell remembers the germ. She starts right beside the start line. Run!
+  *Parent says:* Round three: a hurt place sends out signals, and white blood cells follow them to the germs. So the white blood cell starts right next to the germ.  
+  *Child mode:* Round three: the white blood cell follows the signals to the germ. She starts right beside the germ. Run!
 - **s5 (1 min)**  
   *Parent does:* Swap roles and play again if you like. Then sit down together and talk.  
   *Parent says:* Which round was hardest for the germ? Why?  
   *Child mode:* Which round was hardest for the germ? Say why.
-  - Think: In round three the white blood cell remembered. You will learn how the body remembers germs in a later unit.
+  - Think: In round three the white blood cell started next to the germ. In your body, what tells white blood cells where the germs are?
 
 ## Experiments
 ### e1 · The Apple Skin Test (35 min, 7 days)
@@ -394,9 +394,10 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Note: Under the arm reads a little lower than in the mouth. That's fine, as long as you measure the same way each time.
   - Check: The thermometer reads 36.7 degrees Celsius. Is that a fever? → **No, it is normal**
 - **s3 (10 min)**  
-  *Parent does:* Measure again three more times today: after running about, in the afternoon and in the evening.  
-  *Parent says:* Let's measure again after you have run about or jumped for a few minutes. Then this afternoon, and after dinner. Remember to sit still for a few minutes first, and measure the same way.  
-  *Child mode:* Measure again: after playing, in the afternoon and in the evening. Same arm, same way. Write each number.
+  *Parent does:* Measure again three more times today: right after running about for 3 minutes, in the afternoon and in the evening.  
+  *Parent says:* Let's run about or jump for 3 minutes. Then sit down and measure straight away. Measure again this afternoon, and after dinner. Use the same arm and the same way each time.  
+  *Child mode:* Run about for 3 minutes, then sit down and measure. Measure again in the afternoon and in the evening. Same arm, same way. Write each number.
+  - Note: After running, the number may go up only a little, or not at all. Write what you really read. Do not measure after a hot bath or a cold drink.
   - Wait: Come back to this step later in the day.
 - **s4 (4 min)**  
   *Parent does:* Help your child draw a line chart of their temperatures.  
@@ -413,7 +414,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **fair test:** To make it fair, use two cards the same size, with the same tape, in the same place, for the same time. Only one thing changes: on one card the sticky side of the tape faces up.
 - **record:** Count the dust specks between the lines on each card twice, and write the counts in the table. Then draw a bar chart with one bar for each card.
 - **results table:** Card | Specks between the lines, count 1 | Count 2 | Halfway between the two counts
-- **schedule:** day 1: Make the two cards: sticky tape facing up on one, smooth tape facing up on the other. Lay both flat near an open window. (10 min); day 2: Turn each card over and tap it once. Count the dust specks between the lines on each card with a magnifying glass. Make a bar chart. (15 min)
+- **schedule:** day 1: Make the two cards: sticky tape facing up on one, smooth tape facing up on the other. Lay both flat near an open window. (10 min); day 2: Turn each card over and knock it gently once. Count the dust specks between the lines on each card with a magnifying glass. Make a bar chart. (15 min)
 - **s1 (3 min)**  
   *Parent does:* Ask your child to breathe in through their nose and think about where the dust in the air goes.  
   *Parent says:* The air we breathe has dust in it, and germs ride on the dust. Inside your nose are tiny hairs and sticky mucus. Today we'll make a pretend nose and test if sticky catches more.  
@@ -425,9 +426,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Note: Count only between the two lines, so both cards are counted over the same area. If the sticky card has fewer than 10 specks after a day, leave both cards one more day.
   - Wait: Leave the cards for one day.
 - **s3 (10 min)**  
-  *Parent does:* Hold each card upside down and tap it once, so loose dust falls off. Then count the specks between the lines on each card with the magnifying glass, twice. Write both counts, then the number halfway between them.  
-  *Parent says:* First we turn each card over and tap it. Air rushes through your nose with every breath. Only dust that stays stuck has really been trapped. Now let's count the specks between the lines on each card. Count twice, because it's easy to miss some. Then we find the number halfway between the two counts.  
-  *Child mode:* Turn each card over and tap it once. Use the magnifying glass. Count the specks between the lines. Count twice. Write the numbers.
+  *Parent does:* Hold each card upside down and knock it gently once, so loose dust falls off. Then count the specks between the lines on each card with the magnifying glass, twice. Write both counts, then the number halfway between them.  
+  *Parent says:* First we turn each card over and knock it gently. Air rushes through your nose with every breath. Only dust that stays stuck has really been trapped. Now let's count the specks between the lines on each card. Count twice, because it's easy to miss some. Then we find the number halfway between the two counts.  
+  *Child mode:* Turn each card over and knock it gently once. Use the magnifying glass. Count the specks between the lines. Count twice. Write the numbers.
   - Note: Wash your hands after handling the dusty cards.
 - **s4 (3 min)**  
   *Parent does:* Help your child draw a bar chart, one bar for each card.  
@@ -500,7 +501,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent says:* Every time you blink, your eyelid spreads a fresh layer of tears across your eye, like a wiper on a windscreen. Let's count how often that happens. I'll talk for one minute. You make a tally mark every time I blink.  
   *Child mode:* Watch a grown-up's eyes for one minute. Make a tally mark every time they blink.
 - **s2 (5 min)**  
-  *Parent does:* Count again while the person reads silently, then compare.  
+  *Parent does:* Count again while each of you reads silently for one minute, then compare.  
   *Parent says:* Now let's count while you read. Do you think the number will be the same?  
   *Child mode:* Count blinks again while someone reads. Is the number the same?
   - Check: People usually blink less while reading or looking at a screen. What might that do to their eyes? → **Their eyes may get dry and tired, with fewer tear washes**
@@ -511,6 +512,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Ask your child to crawl about as a healthy lizard, moving between sun and shade.  
   *Parent says:* Lizards make very little heat of their own. To warm up, they lie on a hot rock. To cool down, they hide in shade. Be a healthy lizard. Move between sun and shade.  
   *Child mode:* You are a lizard. Lizards warm up on hot rocks and cool down in shade. Move between sun and shade.
+  - Note: If your flat has no sunny patch, pick any two corners and call one the warm rock and the other the shade. The acting works the same.
 - **s2 (6 min)**  
   *Parent does:* Say 'Now you are a sick lizard' and see where your child goes. Then tell them about the experiment.  
   *Parent says:* Now you are a sick lizard. Germs got in. In the 1970s, a scientist called Matthew Kluger watched sick desert lizards. They crawled to warmer spots than healthy ones. They gave themselves a fever! And sick lizards kept in a cool place were more likely to die. So fever is not a mistake. It is one of the oldest defences on Earth. Some fish and insects also warm themselves up when they are sick.  
@@ -552,9 +554,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Child mode:* Make a cut in the wall. Put germs there. Make a red road for blood. Put cotton-ball guards on it, rushing to the cut.
   - Check: Body castle: germs got through a cut in the wall. Who comes to fight them? → **White blood cells, through the blood**
 - **s4 (10 min)**  
-  *Parent does:* Fix a paper fever knob on the tower and invite someone at home, or a friend, for a tour.  
-  *Parent says:* The brain's heat knob sits on the tower. When the guards call for help, the knob turns up. That's a fever. Now give someone at home, or a friend, a tour of the castle.  
-  *Child mode:* Put a heat knob on the tower. Turn it up when the guards call: that's a fever. Now give someone at home, or a friend, a tour!
+  *Parent does:* Cut a slit in the tower and push a card arrow through it. Up means hot and down means cool. This is the fever knob. Then invite someone at home, or a friend, for a tour.  
+  *Parent says:* The brain's heat knob sits on the tower. When the guards call for help, slide the arrow up. That's a fever. Now give someone at home, or a friend, a tour of the castle.  
+  *Child mode:* Put a heat knob on the tower: a card arrow in a slit. Slide it up when the guards call: that's a fever. Now give someone at home, or a friend, a tour!
   - Note: During the tour, ask the visitor to say 'How do you know?' about one defence.
 
 ## Challenges
@@ -568,7 +570,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Parent does:* Set up the paper and the 1 metre mark. Spray 3 times with nothing in the way. Circle and count the coloured spots.  
   *Parent says:* A sneeze can spray tiny drops a long way. Germs ride in those drops. This bottle is our pretend sneeze. Let's see how far it goes with nothing to stop it.  
   *Child mode:* Spray the bottle 3 times at the paper. Nothing in the way. Count the coloured spots.
-  - Note: Set the nozzle to a fine spray, not a jet. Use washable colouring and paper you don't mind spotting. Protect the floor with newspaper.
+  - Note: Set the nozzle to a fine spray, not a jet. Use washable colouring and paper you don't mind spotting. Protect the floor with newspaper. If you do not want marks on the wall, tape the paper to a big cardboard box instead.
 - **s2 (15 min)**  
   *Parent does:* Test each stopper: a tissue, a hanky, a cloth mask, a hand held in front, a sleeve held over the nozzle. Use a fresh sheet of paper each time.  
   *Parent says:* Now let's test our stoppers, one at a time. Same place, same three sprays. Only the stopper changes.  
@@ -583,7 +585,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **your turn:** Now invent your own bandage. Draw it, test it, and say how it is like the skin wall it replaces.
 - **constraints:** Use only things from home, like cloth, paper, cling film, cotton and tape.; The cover must stay on when you turn the banana over.; Test each cover the same way.
 - **general:** A plaster: a soft pad over the cut, sticky tape round the edges.; A clean cloth tied round, like a bandage.; First wash the cut, then cover it.
-- **creative:** Try a clean leaf as a cover. Does it keep out the flour and the water?; Make a cover with a soft middle and a waterproof top.; The Sushruta Samhita, an old Indian book on surgery, describes cleaning wounds and binding them with clean cloth. Try a design like that.
+- **creative:** Try a washed banana leaf or betel leaf as a cover. Does it keep out the flour and the water?; Make a cover with a soft middle and a waterproof top.; The Sushruta Samhita, an old Indian book on surgery, describes cleaning wounds and binding them with clean cloth. Try a design like that.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Make a small, shallow cut in the banana peel with a butter knife.  
   *Parent says:* This banana's peel is its skin. I've made a small cut, a hole in the wall. Your job is to design a cover that keeps the pretend germs out of the cut.  
@@ -607,14 +609,13 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** skin → Wall; tears → Wall; white blood cells → Inside; mucus → Wall; fever → Inside; stomach acid → Wall. *Why:* Walls stop germs at the doors: skin, tears, mucus and stomach acid. Once germs are inside, white blood cells fight them, and a fever helps the fight.
 3. (write) Find the mistake. Divya, a girl in Class 3, says, 'Tears are only for when you are sad.' Use the onion activity and your blink count to show what is wrong.  
    **Answer:** Divya is wrong. When the onion was cut, my eyes made tears even though I was not sad. The tears washed out the stinging gas. And we blink about 15 times a minute, all day. Each blink spreads a thin layer of tears to wash and wet the eye.. *Why:* A strong answer uses evidence the child saw: tears came with the onion, without any sadness, and blinking spreads tears all day. It ends with the job of tears: to wash dust and germs out of the eyes.
-4. (mcq) Remember the Apple Skin Test? Apple A was left whole, with soil rubbed on its skin. Apple B had one clean cut. Which apple went soft and brown first, and why?  
-   Options: Apple A, because whole apples rot from the inside / Both at the same time, because they are the same kind of apple / Apple B, because microbes got in through the cut  
-   **Answer:** Apple B, because microbes got in through the cut. *Why:* Microbes landed on both apples. On apple A, the skin kept them out. On apple B, the cut was an open door. A strong answer gives the reason, not just the letter: the skin is the wall, and a cut is a hole in it.
+4. (write) Think about the Apple Skin Test. Add an apple E: it has a cut with soil rubbed in, and then a clean plaster over the cut. On day 7, will E look more like apple C (soil in the cut, no cover) or like apple A (skin whole)? Say why.  
+   **Answer:** E should look better than C. The plaster works like skin: it keeps microbes from the air and the outside away from the cut. But the soil was already inside the cut, so E may still start to go soft, a little later than A. Washing the cut first, like apple D, would help more.. *Why:* A strong answer says that a cover acts like a skin wall, and also notices that microbes already inside the cut are not kept out by it. That is why we wash a cut before we cover it.
 5. (match) Each wall stops germs in its own way. Match each wall to how it works.  
    **Answer:** Skin → a tight cover of dead cells with no gaps; Mucus → a sticky trap that catches dust and germs in the nose; Tears → wash dust and germs out of the eyes; Stomach acid → kills many germs that come in with food. *Why:* Each wall guards a different door. The skin covers everything. Mucus traps, tears wash, and the acid in the stomach kills many germs that get swallowed.
 6. (fill) When germs get past the walls, ____ blood cells find them and eat them.  
    **Answer:** ['white']. *Why:* White blood cells travel in the blood and hunt germs. They are almost see-through, but a big crowd of them looks pale and creamy, like pus.
-7. (mcq) Kavya, a girl in Class 4, scraped her knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?  
+7. (mcq) Ishani, a girl in Class 4, scraped her knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?  
    Options: The scrape is spreading and getting worse / Extra blood is bringing white blood cells to fight germs at the scrape / The skin round the scrape is dying  
    **Answer:** Extra blood is bringing white blood cells to fight germs at the scrape. *Why:* Redness, warmth and swelling are called inflammation. Blood vessels near the scrape widen, so more blood and more white blood cells reach the spot. It looks like damage, but it is the body at work. If the redness keeps spreading for days, or red lines appear, a grown-up should take her to a doctor.
 8. (truefalse) Pus coming out of a cut means the germs are winning.  
@@ -626,7 +627,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 11. (draw) Draw a scraped knee as if it were cut in half, seen from the side. Show the skin, a blood vessel, white blood cells, pus and a scab. Label each one.  
    **Answer:** A side view with the skin on top and a gap where it was scraped. A blood vessel runs below. White blood cells are coming out of the vessel towards the gap. Pus sits in the gap, and a scab covers the top.. *Why:* A strong drawing shows the white blood cells coming from the blood, not from the air. It puts the scab on top, sealing the hole in the skin wall.
 12. (perspective) A family argues about whether children should play in mud.  
-   **Answer:** A strong answer picks a side and uses the unit: for example, most microbes are harmless or helpful, or a cut is an open door for germs. Then it fairly gives another person's best point, for example that dirty hands carry germs into the mouth.. *Why:* There is no single winner. Paati is right that some germs live in soil, as apple C showed. Amma's idea about allergies is studied by scientists, but it is not settled. Dr Revathi joins both: play, then wash.
+   **Answer:** A strong answer picks a side and uses the unit: for example, most microbes are harmless or helpful, or a cut is an open door for germs. Then it fairly gives another person's best point, for example that dirty hands carry germs into the mouth.. *Why:* There is no single winner. Paati is right that some germs live in soil, as apple C showed. Amma's idea about allergies is studied by scientists, but it is not settled. Dr Nandini joins both: play, then wash.
 13. (truefalse) Most microbes are harmless or helpful.  
    **Answer:** True. *Why:* True. Only a few microbes are germs that make us ill. Many, like those in curd and on our skin, help us.
 14. (mcq) In the Sticky Nose Test, the sticky card caught many more dust specks than the smooth card. Which part of your nose works like the sticky card?  
@@ -643,24 +644,24 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** Blowing the dust and germs, caught in mucus, out of your nose. *Why:* A sneeze is the nose's wall at work. The mucus catches dust and germs, and the sneeze blasts them out. A strong answer says what is thrown out and why it helps.
 3. (perspective) Lalitha, a girl in Class 4, has a fever of 38.5 degrees Celsius. She feels tired but is drinking water. Three people give different advice.  
    **Answer:** A strong answer uses the science: a fever is the brain turning up the heat, many germs grow more slowly in the heat, and sick lizards kept cool were more likely to die. It then admits another fair point, for example that medicine can help a child sleep and drink, or that some fevers need a doctor.. *Why:* This is a real argument. Doctors today mostly agree with Dr Meera: medicine is for comfort, and warning signs matter more than the number. The grandmother is right that fever helps. The aunt is right that a child who is very unwell needs care.
-4. (truefalse) A fever is always dangerous and must always be brought down quickly.  
-   **Answer:** False. *Why:* False. Most fevers are the body fighting germs, and they pass in a few days. Doctors say to look after the child's comfort and watch for warning signs, rather than chase a number.
-5. (write) Challenge the belief. A girl's grandmother says, 'You went out with wet hair, so you caught a cold.' The girl says, 'A cold is caused by a virus.' Who is right, and how could both be partly right?  
+4. (write) Challenge the belief. A girl's grandmother says, 'You went out with wet hair, so you caught a cold.' The girl says, 'A cold is caused by a virus.' Who is right, and how could both be partly right?  
    **Answer:** The girl is right that a cold needs a virus. Without the virus, wet hair cannot give you a cold. But some studies suggest that a cold nose fights viruses a little less well. So getting chilly might help a virus that is already there.. *Why:* A strong answer says what causes a cold (a virus) and then treats the grandmother's idea fairly. Scientists are still studying how cold weather affects colds.
-6. (sort) Sort these. Does it HELP the immune system, or is it a MYTH?  
+5. (sort) Sort these. Does it HELP the immune system, or is it a MYTH?  
    **Answer:** sleeping well → Helps; washing hands with soap → Helps; a drink that magically 'boosts immunity' → Myth; eating many kinds of food → Helps; playing outside every day → Helps; scrubbing skin until it is raw → Myth. *Why:* Sleep, varied food, play and handwashing help the body work well. No single drink boosts immunity, and scrubbing skin raw damages the wall and its friendly microbes.
-7. (draw) Draw three pictures to show a phagocyte eating a germ: touch, wrap, swallow.  
+6. (draw) Draw three pictures to show a phagocyte eating a germ: touch, wrap, swallow.  
    **Answer:** 1. A blob cell touching a small germ. 2. The cell's edges wrapping around the germ. 3. The germ inside the cell.. *Why:* Phagocytes eat germs by wrapping around them and pulling them inside, where chemicals break them down.
-8. (fill) A white blood cell that eats germs is called a ____. The word means 'eating cell'.  
+7. (fill) A white blood cell that eats germs is called a ____. The word means 'eating cell'.  
    **Answer:** ['phagocyte']. *Why:* Phagocyte comes from old Greek words for eating and cell. Élie Metchnikoff studied these cells, starting with baby starfish in 1882.
-9. (mcq) Antibiotics are medicines that kill bacteria. Shanthi, a girl in Class 4, has a cold, which is caused by a virus. Will an antibiotic help her get better?  
+8. (mcq) Antibiotics are medicines that kill bacteria. Zoya, a girl in Class 4, has a cold, which is caused by a virus. Will an antibiotic help her get better?  
    Options: Yes, antibiotics kill every kind of germ / No. Antibiotics do not work on viruses. Rest, water and her own immune system will beat the cold. / Only if she takes a double dose  
    **Answer:** No. Antibiotics do not work on viruses. Rest, water and her own immune system will beat the cold.. *Why:* Many people think antibiotics cure colds. They do not, because a cold is caused by a virus, not bacteria. Taking antibiotics when they are not needed also helps bacteria learn to survive them. A strong answer says why: antibiotics work on bacteria only.
+9. (write) In the Sticky Nose Test, you counted the dust specks only between the two pencil lines, not on the whole card. Why does that make the test fairer?  
+   **Answer:** Both cards had the same area counted, 4 cm of tape between the lines. If one card was counted all over and the other only in part, the numbers could not be compared. Counting the same area means only the stickiness is different.. *Why:* A strong answer says the same area must be counted on both cards, so that the only difference is the sticky or smooth tape.
 10. (match) After a cut, you can see signs of the body's fight. Match each sign to what is causing it.  
    **Answer:** Redness → more blood flowing to the spot; Swelling → fluid and white blood cells coming out of the blood vessels; Pus → white blood cells that fought, with dead germs; Scab → dried blood sealing the hole in the skin. *Why:* Each sign has a cause inside the body. Together they show the steps: more blood comes, defenders leave the vessels, they fight, and the hole is sealed.
 11. (mcq) A vaccine shows the immune system a harmless form of a germ, such as a dead or weakened one. Why does this help when the real germ comes later?  
-   Options: The body recognises the germ and fights them much faster / The vaccine makes the skin thicker / The vaccine kills every microbe in the body  
-   **Answer:** The body recognises the germ and fights them much faster. *Why:* The immune system remembers the shapes on a germ. After a vaccine, the body has met those shapes already. When the real germ arrives, the body is ready, and fights before the germ can make you very ill.
+   Options: The body recognises the germs and fights them much faster / The vaccine makes the skin thicker / The vaccine kills every microbe in the body  
+   **Answer:** The body recognises the germs and fights them much faster. *Why:* The immune system remembers the shapes on a germ. After a vaccine, the body has met those shapes already. When the real germ arrives, the body is ready, and fights before the germ can make you very ill.
 12. (truefalse) Boiling drinking water kills most of the germs in it.  
    **Answer:** True. *Why:* Heat kills most germs. That is why boiled water is safer to drink, and sends fewer germs down to your stomach.
 13. (fill) Redness, warmth, swelling and pain around a cut are together called ____.  
@@ -723,9 +724,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 3. (mcq) White blood cells and red blood cells both travel in the blood. Which job belongs to white blood cells?  
    Options: Carrying oxygen round the body / Finding germs and destroying them / Making the skin white  
    **Answer:** Finding germs and destroying them. *Why:* White blood cells hunt germs. Red blood cells carry oxygen. Picking 'making the skin white' comes from the name, but white blood cells have nothing to do with skin colour.
-4. (mcq) What does a phagocyte do when they touch a germ?  
-   Options: Wraps round the germ and swallows them / Runs away from the germ / Turns into a germ  
-   **Answer:** Wraps round the germ and swallows them. *Why:* A phagocyte is a white blood cell that eats germs. They wrap round the germ, pull them inside and break them down with chemicals.
+4. (mcq) What do phagocytes do when they touch germs?  
+   Options: They wrap round the germs and swallow them / They run away from the germs / They turn into germs  
+   **Answer:** They wrap round the germs and swallow them. *Why:* A phagocyte is a white blood cell that eats germs. Phagocytes wrap round germs, pull them inside and break them down with chemicals.
 5. (mcq) A child has a fever. Which of these means a grown-up should call a doctor quickly?  
    Options: The child feels warm and sleepy for one evening / The child wants water / The child has a stiff neck and a new rash / The child wants a blanket  
    **Answer:** The child has a stiff neck and a new rash. *Why:* A doctor is needed for a stiff neck, a rash, trouble breathing or a fit. A doctor is also needed for a fever of 40 degrees or more, one lasting more than 3 days, or any fever in a baby under 3 months. Feeling warm, sleepy and thirsty is common in an ordinary fever.
@@ -764,7 +765,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - Onions being chopped in a kitchen, and the cook's eyes streaming.
 - A digital thermometer in a family's medicine box, next to a strip of plasters.
 - Dust collecting on a window grill on a busy road. Your nose catches some of that dust every day.
-- A scab on a cricketer's knee after a slide on the maidan.
+- A scab on a footballer's knee after a muddy match in Shillong, or a cricketer's knee after a slide on the maidan in Kolkata.
 - Sticky gum oozing from a cut in the bark of a neem or mango tree.
 - A garden lizard basking on a warm wall in the morning sun.
 - A pot of homemade curd: full of friendly microbes, not germs.
@@ -798,12 +799,10 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - Why did the thermometer go to school? *To get a few more degrees.*
 - What did the mucus say to the dust? *"Stick around!"*
 - Why did the plaster go to the party? *It was asked to cover for a friend.*
-- What's a germ's least favourite song? *Happy birthday, sung twice while washing hands.*
 - What did one tear say to the other tear? *"Let's go with the flow."*
 - What did the bacterium say to the lysozyme? *"You've really cracked me up."*
 - What did the fever say to the germ? *"Things are about to heat up."*
-- What's a phagocyte's favourite meal? *Germ-an food. And a whole germ for dessert.*
-- Why did the friendly microbe take the last seat on the skin? *So the germ would have nowhere to sit.*
+- What's a phagocyte's favourite meal? *Germ-an food.*
 
 ## Connected maths
 - In one family's sticky nose test, the sticky card caught 42 dust specks. The smooth card caught 6. How many more specks did the sticky card catch? **36 more specks.**. The sticky card caught 42 specks. The smooth card caught 6. 42 take away 6 is 36. So the sticky card caught 36 more. You can check: 6 + 36 = 42. (queues `math.addition-subtraction.word-problems.L3`)
@@ -826,13 +825,10 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: A science centre with many hands-on galleries. Look for exhibits about the body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about living things and the body.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries for children. Ask about exhibits on health and the body.
-- [Your local health centre or a family doctor]() · place · anywhere: Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean.
+- [Your local health centre or a family doctor]() · place · Your nearest clinic: Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean.
 
 ## Things to buy
-- [Digital body thermometer](https://www.amazon.in/s?k=digital+thermometer) (tool): Safe and easy to read. Used to find your normal temperature, and every time someone in the family has a fever. Used in e2. 
-- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look at skin, skin flakes and dust specks. If you don't have one, zoom in with a phone camera. Used in a2, e3. 
-- [Split pins (paper fasteners)](https://www.amazon.in/s?k=split+pins+paper+fasteners) (material): To make a turning fever knob on the body castle. Used in p1. 
-- [Small plastic spray bottle](https://www.amazon.in/s?k=small+spray+bottle) (material): The pretend sneeze in the sneeze stopper challenge. Used in c1. 
+- [Digital body thermometer](https://www.amazon.in/s?k=digital+thermometer) (tool): Easy to read and safe. Used to find your normal temperature, and whenever someone has a fever. Used in e2. 
 
 ## Warm-up
 - Name the body's biggest wall against germs. → Skin.

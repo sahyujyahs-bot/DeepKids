@@ -499,26 +499,134 @@
      "kind": "cards",
      "title": "20 food cards to cut out, five for each family",
      "items": [
-      "Rice (Grass family)",
-      "Wheat (Grass family)",
-      "Ragi (Grass family)",
-      "Maize (Grass family)",
-      "Sugarcane (Grass family)",
-      "Moong (Bean family)",
-      "Chana (Bean family)",
-      "Peanut (Bean family)",
-      "Toor dal (Bean family)",
+      {
+       "f": "Rice (Grass family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-00.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Wheat (Grass family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-01.jpg",
+        "credit": "Sandy Wolkenberg, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Ragi (Grass family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-02.jpg",
+        "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Maize (Grass family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-03.jpg",
+        "credit": "zebedeugalinha, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sugarcane (Grass family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-04.jpg",
+        "credit": "Diogo Luiz, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Moong (Bean family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-05.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Chana (Bean family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-06.jpg",
+        "credit": "Nico Hernandez, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Peanut (Bean family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-07.jpg",
+        "credit": "Agnes, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Toor dal (Bean family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-08.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
       "Methi (Bean family)",
-      "Tomato (Tomato family)",
-      "Brinjal (Tomato family)",
-      "Chilli (Tomato family)",
-      "Potato (Tomato family)",
+      {
+       "f": "Tomato (Tomato family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-10.jpg",
+        "credit": "Aryan K, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Brinjal (Tomato family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-11.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Chilli (Tomato family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-12.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Potato (Tomato family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-13.jpg",
+        "credit": "Maya Lodhiyal, CC BY, via iNaturalist"
+       }
+      },
       "Capsicum (Tomato family)",
-      "Cucumber (Gourd family)",
-      "Pumpkin (Gourd family)",
-      "Watermelon (Gourd family)",
-      "Bitter gourd (Gourd family)",
-      "Bottle gourd (Gourd family)"
+      {
+       "f": "Cucumber (Gourd family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-15.jpg",
+        "credit": "Patricia Rose, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pumpkin (Gourd family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-16.jpg",
+        "credit": "Shami Narayanan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Watermelon (Gourd family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-17.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bitter gourd (Gourd family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-18.jpg",
+        "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bottle gourd (Gourd family)",
+       "img": {
+        "src": "media/cards/sorting-living-things-g1-0-19.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {
@@ -630,30 +738,162 @@
      "kind": "cards",
      "title": "24 living-thing cards to cut out",
      "items": [
-      "crow",
-      "cat",
-      "bat",
-      "butterfly",
-      "ant",
-      "earthworm",
-      "snail",
-      "fish",
-      "frog",
-      "house lizard",
-      "cow",
+      {
+       "f": "crow",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-00.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "cat",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-01.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "bat",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-02.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "butterfly",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-03.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "ant",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-04.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "earthworm",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-05.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "snail",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-06.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "fish",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-07.jpg",
+        "credit": "vaazhaikumar, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "frog",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-08.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "house lizard",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-09.jpg",
+        "credit": "Suhas Saya, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "cow",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-10.jpg",
+        "credit": "Анна Митрошенкова, CC BY, via iNaturalist"
+       }
+      },
       "child",
-      "neem tree",
-      "tulsi plant",
-      "coconut tree",
-      "grass",
-      "mushroom",
+      {
+       "f": "neem tree",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-12.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "tulsi plant",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-13.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "coconut tree",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-14.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "grass",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-15.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "mushroom",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-16.jpg",
+        "credit": "Lucian Clanet, CC BY, via iNaturalist"
+       }
+      },
       "curd bacteria",
-      "spider",
-      "pigeon",
-      "mosquito",
-      "dolphin",
-      "tortoise",
-      "banana plant"
+      {
+       "f": "spider",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-18.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "pigeon",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-19.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "mosquito",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-20.jpg",
+        "credit": "Rodolfo Salinas Villarreal, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "dolphin",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-21.jpg",
+        "credit": "Sydney Dragon, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "tortoise",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-22.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "banana plant",
+       "img": {
+        "src": "media/cards/sorting-living-things-g2-0-23.jpg",
+        "credit": "Cheongweei Gan, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

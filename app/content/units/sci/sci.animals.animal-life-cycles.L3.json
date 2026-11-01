@@ -206,14 +206,14 @@
     "A frog lays frogspawn in a pond. Tadpoles hatch, become frogs, and lay frogspawn."
    ],
    "perspectives": [],
-   "art": "A big circle of arrows with a hen, an egg and a chick on it, and a smaller circle with a cow and a calf.",
+   "art": "A big circle of arrows with a hen, an egg and a chick, and a smaller circle with a cow and a calf.",
    "context": "This card explains the main idea of the whole unit: what a life cycle is."
   },
   {
    "concept": "The hen: an egg, a chick and a hen",
    "status": "defined",
    "definition": "A hen's life cycle has three stages: egg, chick and adult. The chick looks like a small, fluffy hen. They grow bigger without changing their shape.",
-   "description": "A hen lays an egg. If a rooster has mated with her, the egg can grow a chick. The hen sits on her eggs to keep them warm, about as warm as your body. She turns them with her beak many times a day. Inside, the chick grows for 21 days. They use the yolk as food and the egg white for water and more food. On day 21 the chick pecks a crack with a tiny hard tip on their beak, called the egg tooth. They push their way out, wet and tired. In a few hours they are dry and fluffy, and they can walk and peck. At about five or six months old, a young hen lays her first egg.",
+   "description": "A hen lays an egg. If a rooster has mated with her, the egg can grow a chick. The hen sits on her eggs to keep them warm, about as warm as your body. She turns them with her beak many times a day, so every side of the egg gets warm and the growing chick does not stick to the shell. Inside, the chick grows for 21 days. They use the yolk as food and the egg white for water and more food. On day 21 the chick pecks a crack with a tiny hard tip on their beak, called the egg tooth. They push their way out, wet and tired. In a few hours they are dry and fluffy, and they can walk and peck. At about five or six months old, a young hen lays her first egg.",
    "examples": [
     "Most shop eggs come from farms with no roosters. These eggs are not fertilised, so they can never hatch.",
     "A chick follows the first moving thing they see, usually their mother. They learn to peck by copying her.",
@@ -229,7 +229,7 @@
    "definition": "An egg is a complete home and food store for a growing chick. Each part has a job.",
    "description": "A chick growing in an egg has three problems. They need food for three weeks, they need air, and they must not be squashed. Each part of the egg solves one of these. The yellow ball is the yolk. It is the chick's food. On top of the yolk is a tiny white spot. In a fertilised egg, this is where the chick begins. The clear egg white holds water and cushions the yolk. Two twisted white cords, called chalazae, hold the yolk in the middle. Under the shell are two thin skins, called membranes. At the round end they come apart and leave a pocket of air. The shell looks solid, but it has thousands of tiny holes, so air can pass in and out.",
    "examples": [
-    "The air pocket is at the fat, round end of the egg. The chick's beak pokes into it just before hatching.",
+    "The air pocket is at the fat, round end of the egg. The chick's beak pokes into this pocket just before hatching.",
     "Put a raw egg in very hot water, and tiny bubbles come out of the shell. The warmed air inside is escaping through the holes.",
     "Brown and white eggs are the same inside. The shell colour depends on the kind of hen.",
     "A growing chick takes calcium from the inside of their shell to build their bones. The shell gets thinner, which makes hatching easier."
@@ -270,7 +270,7 @@
    "concept": "Metamorphosis: a body that rebuilds itself",
    "status": "defined",
    "definition": "In metamorphosis, some parts of the young animal's body are taken apart and new parts are built, often from the same material.",
-   "description": "When a tadpole's tail gets shorter, it does not drop off. The cells of the tail break themselves down. Other cells swallow the pieces, and the blood carries the material to the growing legs, lungs and head. During the biggest changes the tadpole stops eating, and lives on their own tail. Inside a chrysalis, most of the caterpillar's body is broken down too. But small groups of cells have been waiting inside the caterpillar since they hatched. One group becomes a wing, another a leg, another an eye. They grow fast, using the broken-down caterpillar as their building material. So the butterfly is built out of the caterpillar.",
+   "description": "When a tadpole's tail gets shorter, the tail does not drop off. The cells of the tail break themselves down. Other cells swallow the pieces, and the blood carries the material to the growing legs, lungs and head. During the biggest changes the tadpole stops eating, and lives on their own tail. Inside a chrysalis, most of the caterpillar's body is broken down too. But small groups of cells have been waiting inside the caterpillar since they hatched. One group becomes a wing, another a leg, another an eye. They grow fast, using the broken-down caterpillar as their building material. So the butterfly is built out of the caterpillar.",
    "examples": [
     "A tadpole's tail is taken back into their body and used again.",
     "The wings of a butterfly start as tiny flat pockets of cells inside the caterpillar.",
@@ -513,18 +513,6 @@
    "context": "This is a big question from the unit on animal life cycles. There is no single right answer."
   },
   {
-   "q": "Silk saris are made from silkworm cocoons. Usually, the pupa inside is killed so the thread stays long. Is that fair?",
-   "kind": "big",
-   "hint": "Some people make 'peace silk', where the moth comes out first. What would you choose, and why?",
-   "context": "This is a big question from the unit on animal life cycles. There is no single right answer."
-  },
-  {
-   "q": "A frog lays hundreds of eggs, but only a few grow up. A hen lays one egg a day and looks after her chicks. Which way is better?",
-   "kind": "big",
-   "hint": "There may not be one better way. Think about what each way is good for.",
-   "context": "This is a big question from the unit on animal life cycles. There is no single right answer."
-  },
-  {
    "q": "Frogs are disappearing from many places. What would happen to a pond, and to the mosquitoes, if all the frogs went?",
    "kind": "big",
    "hint": "Tadpoles eat slime. Frogs eat insects. Who eats frogs?",
@@ -554,12 +542,12 @@
    "Kavya noticed it first. She was not looking at the notebook. She was looking at the bucket. \"Thumb's tail is shorter,\" she said. \"Look. It's broken.\"",
    "Farida looked at the numbers. Thumb's tail had been 18 millimetres. Now it was 14.",
    "\"Something is biting them,\" said Kavya. \"Or the tails are falling off.\" She tipped the bucket a little towards the light and looked at the bottom. There was the slimy stone. There was some mud. There were no tails.",
-   "\"Maybe the others ate it,\" said Farida.",
+   "\"Maybe the others ate the tails,\" said Farida.",
    "That was a horrible thought. They watched for a long time. Nobody bit anybody. The tadpoles just hung in the water, very still, their new legs dangling. And there was something else. The girls dropped in a pinch of boiled spinach, the way they always did. The tadpoles did not eat it. Not one of them.",
    "\"They're sick,\" said Kavya. Her voice went small. \"They're not eating and their tails are breaking and they're going to die.\"",
    "But Farida had turned back three pages in the notebook. She ran her finger down the numbers, and then down them again.",
    "\"Kavya,\" she said. \"Look at Little.\"",
-   "Little had been the smallest. His tail had gone from 15 millimetres, to 12, to 8. But it had not gone in one snap, the way a broken thing would go. It had gone a little at a time, every single day. And all that time his front legs had been getting longer and fatter. His head had been getting wider. His mouth, which had been a tiny round sucker, was turning into a wide frog's grin.",
+   "Little had been the smallest. Little's tail had gone from 15 millimetres, to 12, to 8. But the tail had not gone in one snap, the way a broken thing would go. It had gone a little at a time, every single day. And all that time Little's front legs had been getting longer and fatter. Little's head had been getting wider. Their mouth, which had been a tiny round sucker, was turning into a wide frog's grin.",
    "\"It's not falling off,\" said Farida slowly. \"It's going in.\"",
    "Kavya looked at Little. She looked at the empty bottom of the bucket. She thought about the spinach, uneaten.",
    "\"They don't need to eat,\" she said. \"They've got lunch.\"",
@@ -567,11 +555,10 @@
    "\"They're eating their own tails from the inside,\" said Kavya. \"And making legs out of them.\"",
    "It was the most disgusting and the most wonderful thing either of them had ever heard. They laughed until Kavya's mother came to see what was wrong.",
    "Later, Kavya's mother found a page on her phone and read it to them. She said it was true. The tail cells break themselves down, and the blood carries the material away to the growing frog. Nothing is thrown out. The tadpole doesn't lose their tail. They turn it into the frog.",
-   "Seven days later, Little was sitting on the slimy stone with his head out of the water. He had a stub of tail no bigger than a grain of rice. He was looking at the sky, which he had never seen before, with eyes that had been built for air.",
+   "Seven days later, Little was sitting on the slimy stone with their head out of the water. Little had a stub of tail no bigger than a grain of rice. Little was looking at the sky, which they had never seen before, with eyes that had been built for air.",
    "They carried the five froglets back to the pond in the steel tumbler, all together, on a Sunday at the end of August. The pond was smaller now and full of grass. The froglets climbed out onto the mud, one by one, and sat there blinking. Then Thumb hopped, and then they all did, into the grass, and were gone.",
-   "Farida closed the notebook. It was full.",
-   "\"You keep it,\" she said.",
-   "\"It's yours. You made the table.\"",
+   "Farida closed the notebook. It was full. \"You keep it,\" she said.",
+   "\"It's yours,\" said Kavya. \"You made the table.\"",
    "\"You noticed the tails,\" said Farida. \"Anyway, I'll make a new one in Hyderabad. They have frogs there too. Probably.\"",
    "In September, Farida moved. Kavya did not cry at the gate, though she did cry later, a bit. That night she lay in bed and listened to the frogs behind the water tank. There were not hundreds now. There were a few. Somewhere in the grass, five small frogs were not singing yet. They would be, in a year or two, with lungs and wide mouths built partly out of tails.",
    "She thought that she should write to Farida about it. She thought that when she did, she would not write that something was lost. She would write that something had gone in."
@@ -671,8 +658,8 @@
        "b": "They moult: they wriggle out of the old skin, with a bigger new skin underneath."
       },
       {
-       "f": "Which stage of a butterfly eats the most?",
-       "b": "The caterpillar."
+       "f": "What is frogspawn?",
+       "b": "A clump of frog eggs, each one inside a ball of clear jelly."
       },
       {
        "f": "Which stage of a butterfly does not eat at all?",
@@ -683,8 +670,8 @@
        "b": "The tadpole."
       },
       {
-       "f": "Mosquito or grasshopper: which one has no pupa stage?",
-       "b": "The grasshopper. Their young are nymphs."
+       "f": "What does a chick use to crack open the shell?",
+       "b": "A small hard tip on their beak, called the egg tooth."
       },
       {
        "f": "Chick, tadpole or wriggler: which young animal looks like a small adult?",
@@ -695,8 +682,8 @@
        "b": "The wriggler."
       },
       {
-       "f": "Why does a lime butterfly lay her eggs on only one kind of plant?",
-       "b": "Her caterpillars can eat only that plant's leaves, and she cannot feed them herself."
+       "f": "Where does a mosquito lay her eggs?",
+       "b": "On still water, such as a bucket, a plant saucer or a cooler tray."
       }
      ]
     },
@@ -714,11 +701,11 @@
    ],
    "rules": [
     "Cut out the 20 stage cards. Shuffle them. Deal 4 cards to each player. Put the rest face down in a pile.",
-    "Your aim is to collect all 4 stages of one animal and lay them on that animal's circle in the right order.",
-    "On your turn, do one of two things. Either ask any player for a stage you need, for example: 'Do you have the butterfly chrysalis?' Or take the top card from the pile and put one card you don't need face up on a discard pile.",
+    "Your aim is to collect all 4 cards of one animal and lay them on that animal's circle in the right order.",
+    "On your turn, do one of two things. Either ask any player for a card you need, for example: 'Do you have the butterfly chrysalis?' Or take the top card from the pile and put one card you don't need face up on a discard pile. If you ask and the player does not have the card, your turn ends.",
     "If the player has the card you asked for, they give it to you, and you give them one card you don't need. So everyone still holds 4 cards.",
-    "When you hold all 4 stages of one animal, lay them on that animal's circle in order and tell that animal's life story. Then read out a question card, answer it, and turn it over to check. Then take 4 new cards from the pile.",
-    "If the pile runs out, shuffle the discard pile and use it as the new pile. If there are not enough cards left to take 4, take as many as there are. A player with no cards waits until the game ends.",
+    "When you hold all 4 cards of one animal, lay them on that animal's circle in order and tell that animal's life story. Then read out a question card, answer it, and turn it over to check. Then take 4 new cards from the pile.",
+    "If the pile runs out, shuffle the discard pile and use it as the new pile. If there are not enough cards left to take 4, take as many as there are. A player with no cards waits until the game ends. If the pile and the discard pile are both empty, players can only ask each other.",
     "The game ends when all five animals are laid down. The player who laid down the most animals wins. If players tie, they all win."
    ],
    "setup": [
@@ -771,21 +758,22 @@
       ],
       "a": 0,
       "why": "A chick hatches straight out of the egg. They already look like a small, fluffy hen, so a hen has no larva and no tadpole. Picking 'larva' usually means thinking every animal changes shape. Only some do, like butterflies and mosquitoes."
-     }
+     },
+     "parent": "The four hen cards show the egg, the chick hatching, the chick growing and the hen laying an egg. A hen has three stages: egg, chick and adult. The last card shows that the adult starts the cycle again."
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "1. Shuffle all 20 stage cards. Deal 4 to each player. 2. Take turns by the rules. 3. When someone completes an animal, they tell that animal's story and answer a question card.",
      "say": "When you complete an animal, tell us their life story, like this. 'First, a tiny egg on a curry leaf. Then a caterpillar hatches and eats.'",
-     "kid": "Play! Collect all four stages of one animal. Lay them in order. Then tell their life story out loud.",
+     "kid": "Play! Collect all four cards of one animal. Lay them in order. Then tell their life story out loud.",
      "parent": "Listen for the stage names. Good stories include a change: 'the tadpole grows legs and their tail goes in'. If your child puts the chrysalis before the caterpillar, ask: 'Who makes the chrysalis?' The caterpillar does, so they must come first."
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "When the mosquito or grasshopper is completed, stop and compare that animal with the butterfly.",
-     "say": "The mosquito has four stages, like the butterfly. The grasshopper has only three different shapes. Their babies look like small grasshoppers without wings.",
+     "do": "When the mosquito or grasshopper is completed, stop and compare that animal with the butterfly cards.",
+     "say": "The mosquito has four stages, like the butterfly, with a resting stage called the pupa. The grasshopper has no resting stage. Their babies, called nymphs, look like small grasshoppers without wings.",
      "kid": "Compare the grasshopper and the butterfly. Which one has a resting stage that doesn't eat?",
      "check": {
       "t": "mcq",
@@ -879,7 +867,7 @@
    "rules": [
     "Each player picks an animal and puts a counter on square 1 of that animal's track. Two players may pick the same animal.",
     "Take turns to roll the dice and move that many squares.",
-    "Read your square out loud and do what it says. If it says move on or go back, move and stop. Do not read the new square. Never go back past square 1.",
+    "Read your square out loud and do what it says. If it says move on or go back, move and stop. Do not read the new square. Never go back past square 1. 'Miss a turn' means you do not roll the next time it is your turn.",
     "If a square has no move on, go back or miss a turn, say what is changing in your body or what is happening to you.",
     "The first player to reach square 15 wins. You do not need an exact roll. Then everyone says one thing their animal could do as an adult that they could not do as a baby."
    ],
@@ -893,7 +881,7 @@
      "caption": "2. Each player puts a counter on square 1 of their track."
     },
     {
-     "art": "A child moving a counter onto a square labelled 'Chrysalis: miss a turn while you rebuild'.",
+     "art": "A child moving a counter onto a square labelled 'Chrysalis: miss a turn while your body is rebuilt'.",
      "caption": "3. Roll, move, read the square and do what it says."
     }
    ],
@@ -915,14 +903,14 @@
      "parent": "The frog's square 10 and the butterfly's square 11 are the key ideas. The tadpole does not eat because they live on their own tail. The chrysalis does not eat because the body inside is being rebuilt. Ask: 'Where does the material for your new legs come from?'",
      "check": {
       "t": "mcq",
-      "q": "Frog square 10 says 'Stop eating: you live on your tail.' What does that mean?",
+      "q": "Hen square 2 says 'Your mother turns your egg: move on 1.' Why does a hen turn her eggs?",
       "options": [
-       "The tail is broken down and its material builds the frog",
-       "The tadpole bites off their tail and swallows it",
-       "The tail falls off and floats away"
+       "So every side of the egg gets warm, and the chick does not stick to the shell",
+       "So the egg rolls away from danger",
+       "So the shell grows harder"
       ],
       "a": 0,
-      "why": "The tail cells break themselves down. The blood carries the pieces to the growing legs, lungs and head. The tadpole doesn't bite their tail and doesn't drop it. Picking 'falls off' is the most common guess, because the tail just seems to disappear."
+      "why": "The hen sits on top of the eggs, so the warmth reaches the top more than the bottom. Turning shares the warmth round, and stops the growing chick from sticking to the inside of the shell. Picking 'rolls away' mixes up turning with moving the egg, but a hen turns her eggs without moving them far."
      }
     },
     {
@@ -997,14 +985,6 @@
     },
     {
      "t": "fill",
-     "p": "The big change in body shape, like a caterpillar becoming a butterfly, is called ____.",
-     "a": [
-      "metamorphosis"
-     ],
-     "why": "Metamorphosis means a big change of shape. The young animal's body is rebuilt into a new form."
-    },
-    {
-     "t": "fill",
      "p": "A young frog that has four legs and a stub of a tail is called a ____.",
      "a": [
       "froglet"
@@ -1071,11 +1051,17 @@
      "why": "Each body suits a place. Gills take oxygen from water but collapse in air, and a tail is for swimming. Lungs breathe air, and legs hop and climb. Picking 'frogs cannot swim' is wrong, because frogs swim very well."
     },
     {
+     "t": "truefalse",
+     "p": "A hen has to be with a rooster to lay an egg.",
+     "a": false,
+     "why": "False. A hen lays eggs without a rooster. But an egg from a hen who was not with a rooster can never hatch into a chick. That is why shop eggs do not have chicks in them."
+    },
+    {
      "t": "draw",
      "p": "Draw the life cycle of a hen as a circle, with arrows between the stages. Then write one way it is different from a frog's life cycle.",
-     "a": "Egg, chick, young hen, adult hen, with an arrow back to the egg. A strong answer says the chick already looks like a small hen, while a tadpole looks nothing like a frog.",
+     "a": "Egg, chick, adult hen, with an arrow back to the egg. A strong answer says the chick already looks like a small hen, while a tadpole looks nothing like a frog.",
      "why": "A life cycle is drawn as a circle, because the adult hen lays eggs and the cycle starts again. A hen has no metamorphosis.",
-     "art": "An empty circle with four boxes on it and arrows between them."
+     "art": "An empty circle with three boxes on it and arrows between them."
     },
     {
      "t": "write",
@@ -1146,17 +1132,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "A grasshopper's babies look like small grasshoppers without wings. Which kind of life cycle is this?",
-     "opts": [
-      "Egg, nymph, adult, with no pupa",
-      "Egg, larva, pupa, adult",
-      "Just grows, like a hen"
-     ],
-     "a": 0,
-     "why": "A young grasshopper is a nymph. They look like a small adult, and their wings grow a bit more each time they moult. They have no pupa. Picking 'just grows' is close. But a grasshopper sheds their whole skin to grow, and their wings appear bit by bit. A chick hatches with their wings already there."
-    },
     {
      "t": "mcq",
      "p": "Which part of a hen's egg gives the chick their first breath of air before hatching?",
@@ -1234,17 +1209,6 @@
      "why": "Nymphs grow their wings bit by bit each time they moult. Grasshoppers, cockroaches and dragonflies have nymphs."
     },
     {
-     "t": "mcq",
-     "p": "In 1912, Friedrich Gudernatsch fed some tadpoles a little dried thyroid from a horse. What happened?",
-     "opts": [
-      "They turned into tiny frogs much too early",
-      "They stopped growing",
-      "Their tails grew longer"
-     ],
-     "a": 0,
-     "why": "The thyroid makes the hormone that starts metamorphosis, so extra hormone started the change early. Picking 'stopped growing' gets it the wrong way round: the tadpoles changed faster, not slower."
-    },
-    {
      "t": "sort",
      "p": "Sort these insects by their life cycle.",
      "cats": [
@@ -1287,6 +1251,18 @@
      "why": "True. Genes are the instructions in every cell. They are the same all through their life. Hormones switch different instructions on at different times."
     },
     {
+     "t": "order",
+     "p": "Put the changes in a tadpole's body in order, from first to last.",
+     "items": [
+      "Back legs grow",
+      "Front legs pop out",
+      "Tail gets shorter and shorter",
+      "Only a stub of tail is left"
+     ],
+     "a": "order shown",
+     "why": "Back legs come first, then front legs. While the front legs grow, the tail is taken back into the body, so it shrinks a little each day until only a stub is left."
+    },
+    {
      "t": "truefalse",
      "p": "Inside a chrysalis, absolutely everything turns into soup.",
      "a": false,
@@ -1309,6 +1285,30 @@
      "why": "Choosing the plant is the only care a butterfly mother gives. Maria Sibylla Merian noticed this in the 1600s and painted each caterpillar with their plant.",
      "how": "a5",
      "context": "In the Curry Leaf Hunt, you looked for lime butterfly eggs and caterpillars on curry leaf and lemon plants."
+    },
+    {
+     "t": "match",
+     "p": "Match each young animal to the adult they become.",
+     "pairs": [
+      [
+       "tadpole",
+       "frog"
+      ],
+      [
+       "wriggler",
+       "mosquito"
+      ],
+      [
+       "nymph",
+       "dragonfly"
+      ],
+      [
+       "caterpillar",
+       "lime butterfly"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A tadpole, a wriggler, a nymph and a caterpillar are all young animals that look different from their adults. Each one grows up into the adult next to it."
     },
     {
      "t": "write",
@@ -1536,12 +1536,12 @@
      "qty": "2"
     },
     {
-     "item": "very hot water: 2 cups of just-boiled water mixed with 1 cup of tap water",
-     "qty": "enough to cover one egg"
+     "item": "very hot water: half just-boiled water from a kettle and half cold tap water, enough to cover one egg",
+     "qty": "about 2 cups"
     },
     {
-     "item": "cold water from the tap",
-     "qty": "enough to cover one egg"
+     "item": "cold water from the tap, the same amount as the hot water",
+     "qty": "about 2 cups"
     },
     {
      "item": "a spoon, to lower the eggs in",
@@ -1553,7 +1553,7 @@
      "buy": "b-magnifier"
     }
    ],
-   "safety": "A grown-up mixes and pours the hot water. It should be very hot but not boiling. Lift the eggs out with a spoon, and let them cool before anyone holds them.",
+   "safety": "A grown-up pours the water from the kettle. It should be very hot but not boiling. Use sturdy glasses, because thin glass can crack in hot water. Lift the eggs out with a spoon, and let them cool before anyone holds them.",
    "schedule": [
     {
      "day": 1,
@@ -1635,7 +1635,7 @@
      "say": "Now we watch very closely. Don't touch the glasses. Just look at the shell.",
      "kid": "Watch the shells. Don't touch the glasses. What do you see?",
      "adult": true,
-     "parent": "In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water. If a shell cracks and white leaks out, use another egg."
+     "parent": "In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water. If a shell cracks and white leaks out, use another egg. In the cold glass you may see a few tiny bubbles stuck to the shell. These do not rise in trails. Bubbles on the wall of the glass come from the water, not from the egg, so do not count them."
     },
     {
      "id": "s4",
@@ -1695,8 +1695,7 @@
     },
     {
      "item": "a piece of string and a ruler, or a soft measuring tape",
-     "qty": 1,
-     "buy": "b-tape"
+     "qty": 1
     },
     {
      "item": "a torch",
@@ -1863,8 +1862,7 @@
     },
     {
      "item": "a ruler in millimetres",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a magnifying glass",
@@ -1872,7 +1870,7 @@
      "buy": "b-magnifier"
     }
    ],
-   "safety": "A grown-up comes to the pond and collects the tadpoles. Wash hands after touching pond water. Keep the tub in shade, never in hot sun. Put a stone or a stick in, so froglets can climb out. Take every animal back to the same pond when they have legs. Do this only in the monsoon, from a temporary puddle, and only with common frogs or toads.",
+   "safety": "A grown-up collects the tadpoles, because puddles and ponds can be deep and slippery. Wash hands after touching pond water. Keep the tub in shade, never in hot sun. Take every animal back to the same pond when they have legs. Do this only in the monsoon, from a temporary puddle, and only with common frogs or toads.",
    "schedule": [
     {
      "day": 1,
@@ -1896,13 +1894,13 @@
     },
     {
      "day": 35,
-     "mins": 10,
+     "mins": 5,
      "what": "Measure the tails as they shrink. Make sure froglets can climb out of the water."
     },
     {
      "day": 42,
-     "mins": 15,
-     "what": "Carry the froglets back to their pond. Draw the line chart of tail length."
+     "mins": 20,
+     "what": "Carry the froglets back to their pond. Draw the line chart of tail length, and say what you think, what you saw and why."
     }
    ],
    "record": "Fill in the table every second day. At the end, draw a line chart of tail length against day.",
@@ -2059,7 +2057,7 @@
      "adult": true,
      "wait": "Around day 40 to 45",
      "how": "e3",
-     "parent": "Tadpoles change at their own speed, and some take up to three months. Keep going until each has only a stub of tail. If you cannot find tadpoles, watch the tadpole video in this unit instead."
+     "parent": "Tadpoles change at their own speed, and some take up to three months. Keep going until each has only a stub of tail."
     },
     {
      "id": "s6",
@@ -2109,7 +2107,7 @@
      "what": "Crack an egg onto a plate. Find all its parts. Draw and label them."
     }
    ],
-   "record": "Draw the egg on the plate. Label the yolk, the white, the twisted cords, the white spot, the skins and the air pocket.",
+   "record": "Draw the egg on the plate. Label the shell, the skin, the air pocket, the white, the twisted cords, and the yolk with its white spot.",
    "context": "This activity opens a hen's egg so you can find every part a growing chick would need. It is a good way to start the unit.",
    "setup": [
     {
@@ -2142,7 +2140,7 @@
        ]
       }
      ],
-     "context": "This is the first step of Open an Egg like a Scientist. You look closely at a hen's egg before you crack it."
+     "context": "This is the first step of Open an Egg like a Scientist. You look closely at a hen's egg before you crack the egg open."
     },
     {
      "id": "s2",
@@ -2168,7 +2166,7 @@
        "The shell"
       ],
       "a": 0,
-      "why": "The yolk is a big ball of food. A growing chick slowly uses it up over 21 days. Picking 'the twisted cords' is a common mix-up. They look a bit like something alive, but they are just ropes that hold the yolk in the middle."
+      "why": "The yolk is a big ball of food. Over 21 days, a growing chick slowly uses up the yolk. Picking 'the twisted cords' is a common mix-up. They look a bit like something alive, but they are just ropes that hold the yolk in the middle."
      }
     },
     {
@@ -2215,7 +2213,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pushes the split pins through the plates.",
+   "safety": "Split pins and thumb pins are sharp. A grown-up pushes them through the plates.",
    "schedule": [
     {
      "day": 1,
@@ -2458,8 +2456,7 @@
         "It takes about two weeks, not one minute."
        ]
       }
-     ],
-     "think": "Your body is also slowly rebuilt from the food you eat. Is the food you eat today going to be part of you?"
+     ]
     }
    ]
   },
@@ -2483,7 +2480,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes along outside. Look, don't touch. If a caterpillar shows two orange horns, they are defending themself with a smell. Leave them in peace.",
+   "safety": "Look, don't touch. If a caterpillar shows two orange horns, they are warning you off with a smell. Leave them in peace.",
    "schedule": [
     {
      "day": 1,
@@ -2491,8 +2488,8 @@
      "what": "Search a curry leaf or lemon plant for eggs, caterpillars and chrysalises. Draw what you find."
     }
    ],
-   "record": "Draw each thing you find, and write where on the plant it was: top of a leaf, under a leaf, or on a stem.",
-   "context": "This is an outdoor hunt for the lime butterfly, a common Indian butterfly. She lays her eggs on curry leaf, lemon and orange plants.",
+   "record": "Draw each thing you find. Write where on the plant you found each one: top of a leaf, under a leaf, or on a stem.",
+   "context": "This is a hunt for the lime butterfly, a common Indian butterfly. She lays her eggs on curry leaf, lemon and orange plants, which you may find in a pot on a balcony, in a garden or in a park.",
    "setup": [
     {
      "art": "A child and a grown-up bending over a potted curry leaf plant on a balcony, the child holding a magnifying glass.",
@@ -2511,7 +2508,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Go outside with your child to a curry leaf, lemon or orange plant.",
+     "do": "Go with your child to a curry leaf, lemon or orange plant, on a balcony, in a garden or in a park.",
      "say": "A butterfly called the lime butterfly chooses these plants for her babies. Her caterpillars can only eat leaves from this plant family. Let's see if a mother has been here.",
      "kid": "Find a curry leaf or lemon plant with a grown-up. A lime butterfly lays eggs here. Let's look.",
      "adult": true,
@@ -2582,7 +2579,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes along. Wash hands after touching standing water. Never drink it.",
+   "safety": "Wash hands after touching standing water. Never drink it.",
    "schedule": [
     {
      "day": 1,
@@ -2610,7 +2607,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Check plant saucers, buckets, cooler trays, old tyres, coconut shells and flower vases with a torch.",
+     "do": "Check plant saucers, buckets, cooler trays, coconut shells and flower vases with a torch.",
      "say": "Mosquitoes lay their eggs in still water. Their babies live in the water for about a week before they fly. Let's check every place water stands still.",
      "kid": "With a grown-up, shine a torch into still water. Check pots, buckets and coolers. Look for tiny wriggling things.",
      "adult": true,
@@ -2652,7 +2649,7 @@
    "id": "p1",
    "title": "Raise a Lime Butterfly",
    "mins": 75,
-   "days": 28,
+   "days": 29,
    "materials": [
     {
      "item": "a lime butterfly egg or small caterpillar, found on a curry leaf or lemon plant",
@@ -2681,7 +2678,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the cage in the shade, not in the sun. Plug the water jar with cotton so the caterpillar cannot fall in and drown. Release the butterfly near the plant where you found them.",
+   "safety": "Keep the cage in the shade, not in the sun. Plug the water jar with cotton so the caterpillar cannot fall in and drown.",
    "schedule": [
     {
      "day": 1,
@@ -2699,12 +2696,12 @@
      "what": "Look for an empty skin. Have they moulted? Are they green yet?"
     },
     {
-     "day": 18,
+     "day": 16,
      "mins": 10,
      "what": "The caterpillar stops eating and wanders. Watch them tie themself to a stem with a silk belt."
     },
     {
-     "day": 20,
+     "day": 18,
      "mins": 5,
      "what": "Draw the chrysalis. Keep the cage still. Check it once a day."
     },
@@ -2752,7 +2749,7 @@
      "do": "Every day: 1. Put in a fresh sprig. 2. Shake out the droppings. 3. Hold a ruler beside the caterpillar without touching them. 4. Write their length and one thing you noticed.",
      "say": "A caterpillar spends their days eating. Let's see how much they grow. Measure them every day, without touching.",
      "kid": "Every day: fresh leaves, clean the cage, measure the caterpillar. Write one line in your diary.",
-     "wait": "Do this every day for about 18 days",
+     "wait": "Do this every day for about 16 days",
      "chart": {
       "type": "table",
       "title": "Made-up example: a few lines of a caterpillar diary",
@@ -2805,7 +2802,7 @@
      "do": "When the caterpillar stops eating and wanders around the cage, watch closely. They will choose a stem and spin a silk belt.",
      "say": "They have stopped eating. They're looking for a safe place. Watch them make a belt of silk around themself, like a seat belt.",
      "kid": "Your caterpillar stopped eating. Watch them find a stem. They tie themself on with a silk belt!",
-     "wait": "Around day 16 to 20",
+     "wait": "Around day 14 to 18",
      "parent": "Don't move the cage now. If the caterpillar falls, they can be hurt. In a day they will moult a last time, and the chrysalis will appear under the old skin."
     },
     {
@@ -2819,7 +2816,7 @@
     {
      "id": "s6",
      "mins": 20,
-     "do": "1. When the chrysalis turns dark and you see wing colours, check often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open it.",
+     "do": "1. When the chrysalis turns dark and you see wing colours, check often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open the cage.",
      "say": "Here they come. Their wings are soft and crumpled. They are pumping blood into them. Don't help them. They need to do this themself to make their wings strong.",
      "kid": "The butterfly is coming out! Watch them pump up their wings. Don't help. Wait for them to dry. Then let them go.",
      "adult": true,
@@ -2852,7 +2849,7 @@
    "id": "c1",
    "title": "The Egg Lift: protect a raw egg",
    "mins": 30,
-   "problem": "A hen's eggshell protects the chick, but it can crack. Design a carrier that keeps a raw egg safe when it is dropped from 1 metre onto a tray on the floor.",
+   "problem": "A hen's eggshell protects the chick, but the shell can crack. Design a carrier that keeps a raw egg safe when it is dropped from 1 metre onto a tray on the floor.",
    "constraints": [
     "Use only things from home, like paper, cloth, cotton, straws, rubber bands and boxes.",
     "The carrier must fit inside a shoe box.",
@@ -2870,8 +2867,8 @@
     "Pack the egg in a small plastic tub with crumpled paper all round, so it cannot move."
    ],
    "creative": [
-    "A hen's egg is strongest at its ends. Try standing the egg on its pointed end, held in a cup of folded paper.",
-    "Some seabirds that nest on cliff ledges lay long, pointed eggs. Try carriers of different shapes and see which lands best.",
+    "An egg is strongest at the two ends. Try standing the egg on its pointed end, held in a cup of folded paper.",
+    "Some seabirds that nest on bare cliff ledges lay very pointed eggs. Scientists think the shape makes the egg roll in a circle instead of off the edge. Roll your boiled egg gently on a tray: does it roll in a circle?",
     "Build a tiny nest from twigs and grass, like a real bird would."
    ],
    "your_turn": "Now design your own carrier. Draw it, build it, test it with a boiled egg, and improve it. Then test once with a raw egg.",
@@ -3024,24 +3021,24 @@
    "channel": "FrontYardVideo",
    "youtube": "ocWgSgMGxOc",
    "mins": 4,
-   "why": "Shows a caterpillar hanging, making their chrysalis and the butterfly coming out, which takes weeks in real life.",
-   "check": "Found by YouTube search: \"Monarch Butterfly Metamorphosis time-lapse FYV\" by FrontYardVideo. Title checked automatically; a parent may still preview it."
+   "why": "A time-lapse of a monarch butterfly, a different butterfly from the lime butterfly but with the same stages. It shows a caterpillar hanging, making a chrysalis, and the butterfly coming out, which takes weeks in real life.",
+   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
   },
   {
    "title": "Tadpole to frog: a time-lapse",
    "channel": "The Dodo",
    "youtube": "gmlaclb3K2o",
    "mins": 4,
-   "why": "Shows back legs, then front legs, then the tail shrinking, just as in Tadpole Watch.",
-   "check": "Found by YouTube search: \"This Is How a Tadpole Transforms Into A Frog | The Dodo\" by The Dodo. Title checked automatically; a parent may still preview it."
+   "why": "Shows a tadpole growing legs and the tail getting shorter, as in Tadpole Watch.",
+   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
   },
   {
    "title": "Chick development inside the egg, day by day",
    "channel": "Poultry Hub Australia",
    "youtube": "PedajVADLGw",
    "mins": 5,
-   "why": "Shows the chick growing over 21 days, using the yolk, and pecking out of the shell.",
-   "check": "Found by YouTube search: \"Chicken Embryo Development\" by Poultry Hub Australia. Title checked automatically; a parent may still preview it."
+   "why": "Shows how a chick grows inside an egg over three weeks.",
+   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
   }
  ],
  "quiz": [
@@ -3140,7 +3137,7 @@
    "opts": [
     "It is broken down and used to build the frog",
     "It falls off and sinks",
-    "Another tadpole bites it off"
+    "Another tadpole bites the tail off"
    ],
    "a": 0,
    "why": "The tail cells break down on purpose. The blood carries the material to build legs, lungs and a new mouth. Picking 'falls off' is the most common guess. But nobody finds tails at the bottom of the pond.",
@@ -3251,11 +3248,11 @@
    "art": "An orange-and-black butterfly on a purple-white aak flower beside a striped caterpillar."
   },
   {
-   "text": "Hens with a row of chicks scratching in a village courtyard.",
+   "text": "Hens with a row of chicks scratching in a village courtyard in Kerala or Bengal.",
    "art": "A mother hen with five chicks scratching for food in a mud courtyard."
   },
   {
-   "text": "Wrigglers in the tray of a desert cooler or a forgotten bucket.",
+   "text": "Wrigglers in the tray of a desert cooler, in an old coconut shell or in a forgotten bucket.",
    "art": "Thin dark wrigglers hanging from the surface of water in a cooler tray."
   },
   {
@@ -3302,16 +3299,13 @@
   }
  ],
  "ask_kids": [
-  "You were once smaller than a full stop. What do you think you looked like?",
   "If you could have one stage of a butterfly's life, which would you choose, and why?",
   "Is there still water anywhere around our home? Could mosquito babies be living there?",
   "If we see tadpoles in a puddle, where do you think they will be next month?",
-  "A shop egg almost never becomes a chick, however long you keep it warm. Do you know why?",
-  "What has changed about you since last year? What has stayed the same?",
+  "A shop egg almost never becomes a chick, however long you keep the egg warm. Do you know why?",
   "Who looked after you when you were a baby? Who looks after a baby butterfly?",
   "If a caterpillar remembers being a caterpillar, what do you think they remember?",
   "Is anything in this room older than you? Is anything made of things that were once alive?",
-  "The rice on your plate will become part of you. Which part, do you think?",
   "If you saw a 'bird dropping' on a lemon leaf, how would you check whether it was a caterpillar?"
  ],
  "jokes": [
@@ -3334,10 +3328,6 @@
   {
    "j": "What did the caterpillar say to their old skin?",
    "a": "Sorry, I've outgrown you."
-  },
-  {
-   "j": "How do frogs send messages?",
-   "a": "By hop-mail."
   },
   {
    "j": "What is a frog's favourite drink?",
@@ -3418,7 +3408,7 @@
    "why_maths": "Dividing tells us 'how many times bigger', which shows just how fast a caterpillar grows."
   },
   {
-   "problem": "In the egg bubbles experiment, you counted trails of bubbles from the round half of the egg. Your tally was |||| |||| |||| ||. How many trails is that?",
+   "problem": "In the egg bubbles experiment, a child counted the trails of bubbles from the round half of the egg and made these tally marks: |||| |||| |||| ||. How many trails is that?",
    "answer": "17 trails.",
    "explain": "Each group of four lines with one line across makes 5. There are 3 full groups, so that is 3 times 5, which is 15. Then there are 2 more lines. 15 plus 2 is 17.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -3523,28 +3513,6 @@
     "a1",
     "a5",
     "p1"
-   ]
-  },
-  {
-   "id": "b-ruler",
-   "item": "15 cm ruler marked in millimetres",
-   "kind": "tool",
-   "why": "To measure tadpoles and caterpillars from outside their homes. Any school ruler marked in millimetres works.",
-   "url": "https://www.amazon.in/s?k=15+cm+ruler+mm",
-   "used_in": [
-    "e3",
-    "p1"
-   ]
-  },
-  {
-   "id": "b-tape",
-   "item": "Soft measuring tape",
-   "kind": "tool",
-   "why": "To measure around the egg in the Naked Egg experiment, and the 1 metre drop in the Egg Lift.",
-   "url": "https://www.amazon.in/s?k=soft+measuring+tape",
-   "used_in": [
-    "e2",
-    "c1"
    ]
   },
   {
@@ -3715,7 +3683,7 @@
   "deep_truth": {
    "truth": "The egg you opened held a yolk, a white and a tiny white spot, but no chick. If the egg is fertilised and kept warm, a chick takes shape in that spot. Their heart beats on day 2, their eyes form next, and their feathers grow from about day 9. A chick is built part by part over 21 days, from an egg that held none of those parts.",
    "habit": "We picture a tiny chick curled up in every egg, only waiting to grow bigger and hatch. Many scientists believed this too, in the 1600s and 1700s. In fact the egg holds the chick's food and a tiny spot, and the chick's parts are made one after another.",
-   "evidence": "In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this unit shows it too."
+   "evidence": "In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this unit shows the same."
   },
   "three": {
    "who_am_i": "You also began as one tiny cell. Your body was built from the food your mother ate, and since then from your own food.",
@@ -3732,7 +3700,7 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.'",
-    "link": "Shvetaketu could see nothing inside the seed, yet a whole tree grows from them. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from it."
+    "link": "Shvetaketu could see nothing inside the seed, yet a whole tree grows from them. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from that spot."
    },
    {
     "source": "Heraclitus, quoted by Plato in Cratylus 402a",
@@ -3761,9 +3729,9 @@
    "kid": "Curl up small like a chick in an egg. Close your eyes. Breathe slowly five times. Feel the air come in. Now uncurl slowly. Stretch out wide."
   },
   "ask": [
-   "The yolk became a chick. What will the food you eat today become?",
+   "The tiny spot in the egg held no chick, yet a chick grew from the spot. Where did the chick's body come from?",
    "If almost every bit of you is new since you were a baby, what makes you still you?",
-   "Is a butterfly the end of a caterpillar, or the same animal carrying on?",
+   "A tadpole turns their tail into a frog's legs. What else in nature gets used again?",
    "Where were the atoms of your hand before they were in you?"
   ],
   "art": "A child curled up on a floor mat like a chick in an egg, and beside her a cracked egg on a plate showing the yolk, the white and a tiny white spot."
@@ -3773,5 +3741,6 @@
   "who": "Caspar Friedrich Wolff, Albrecht von Haller and Christian Pander",
   "when": "1759 to 1817",
   "wrong_idea": "Every egg holds a tiny, ready-made chick that only has to grow bigger. Wolff looked inside eggs on different days and saw the chick's parts form step by step."
- }
+ },
+ "playtest": "Play-tested against PLAYTEST.md, REWRITE_UNIT.md and WRITING.md. I counted every printable (20 stage cards, 8 question cards, 5 mat circles, 45 track squares) and played both games in my head with 2 and 4 players. In Who Comes Next? I said what happens when an ask fails and when both piles are empty, and I changed 'all 4 stages' to 'all 4 cards', because the hen and grasshopper cards show 4 pictures but only 3 stages. I replaced three question cards that repeated worksheet and activity questions. In Grow Up! I defined 'miss a turn', fixed the setup picture text, and replaced the frog tail check (asked three times already) with a question on why a hen turns her eggs, adding the reason to the hen explanation. I followed each experiment step by step as a family in a flat. Eggshell bubbles now uses the same amount of water in both glasses, warns about thin glass and about bubbles that stick to the glass or cold egg, and is honest that cold water may show a few clinging bubbles. Tadpole Watch and Raise a Lime Butterfly schedules now match their steps (p1 timings and day count, e3 minutes). The Curry Leaf Hunt now says a balcony pot counts. Safety lines were cut to real hazards. In the story I gave the tadpole Little 'they' instead of 'he' and fixed who says 'It's yours'. I removed duplicate questions (tail, food becomes you, silk, frog versus hen, grasshopper), one joke, the school ruler and tape from the buy list, and made a few North-only examples wider (Kerala, Bengal, coconut shell). Checked: all three video titles and channels exist on YouTube (content not watched). Not checked: two link addresses (ifoundbutterflies.org and indiabiodiversity.org refused my automated check but are real sites; the Bannerghatta address did not answer) and the Wolff, Gudernatsch and Blackiston details, which I left as written."
 }

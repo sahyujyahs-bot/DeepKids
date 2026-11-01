@@ -238,7 +238,7 @@ That evening Lotte brought the oats. She did not hurry. She stood in front of Ha
 
 Hans lowered his head and blew warm air into her hands. Then he waited, the way he always did, watching her face to see what she would do next.
 
-**For the parent:** For the parent: Hans could not do sums, but he could read tiny changes in human faces and bodies, smaller than people knew they were making. The crowd saw only the trick they expected and missed the real cleverness. Animal minds are often clever in ways we do not think to test. Pfungst found the truth by holding up a number he had not looked at himself, which is the idea of a blind test.
+**For the parent:** For the parent: Hans could not do sums, but he could read tiny changes in human faces and bodies, smaller than people knew they were making. The crowd saw only the trick they expected and missed the real cleverness. Animal minds are often clever in ways we have not thought to test. Pfungst found the truth by holding up a number he had not looked at himself, which is the idea of a blind test.
 
 - Ask: In the story, why did Hans tap and tap when Oskar Pfungst held up a number he had not looked at?
 - Ask: What tiny thing did the people asking Hans do when he reached the right number?
@@ -253,7 +253,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **Printable board: Two playing mats (write the words big on two sheets of paper):** TRUE: scientists have tested it; TALL TALE: a test showed it is not true
 - **Printable tokens: Evidence tokens:** Cut about 40 small paper circles and draw a magnifying glass on each. If the tokens run out, keep score with tally marks.
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the TRUE and TALL TALE mats on the floor. 2. Shuffle the 22 cards and put them face down. 3. Put the tokens in a bowl. 4. Have three cups and a coin ready for one TEST IT card.  
+  *Parent does:* 1. Lay the TRUE and TALL TALE mats on the floor. 2. Shuffle the 22 cards and put them face down. 3. Put the tokens in a bowl. 4. Have three cups and a coin ready for the first TEST IT card.  
   *Parent says:* Each card says something about an animal's mind. Some are true, and scientists have tested them. Some are tall tales that people believe, but tests showed they are wrong.  
   *Child mode:* Put the two mats down: TRUE and TALL TALE. Mix up the cards. Put them face down. For each card, decide: true, or a tall tale?
 - **s2 (3 min)**  
@@ -279,15 +279,14 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Count your tokens! Then pick one true card. Say what it shows, and how we know.
   - Note: A good answer sounds like this. What I think: crows remember faces. Evidence: crows scolded the mask for years. Why: they must have kept the face in memory.
 ### g2 · Read My Face (15 min)
-- **rules:** Shuffle the feeling cards and put them face down.; The face-maker takes a card and does not show it. They show the feeling with face and body only. No sounds, no words.; The others guess. The first right guess wins a point. The face-maker also wins a point.; In round two, the face-maker may only use their face, hands behind their back.; In round three, the face-maker may only use their body. They turn their face away.; After the game, talk about which round was easiest, and why.
+- **rules:** Shuffle the 16 feeling cards and put them face down. Keep score on a sheet of paper with tally marks.; The face-maker takes a card and does not show it. They show the feeling with face and body only. No sounds, no words.; The others guess. The first right guess wins a point. The face-maker also wins a point.; Round one is face and body. In round two, the face-maker may only use their face, with hands behind their back. In round three, they may only use their body, with their face turned away.; In each round, every player is the face-maker once. With two players, swap after every card.; After three rounds, the player with the most points wins. If there is a tie, share the win. Then talk about which round was easiest, and why.
 - **Printable cards: 16 feeling cards:** Happy; Scared; Angry; Sad; Surprised; Bored; Proud; Worried; Excited; Tired; Disgusted, like smelling bad milk; Shy; Hungry; Calm; Confused; Playful
-- **Printable score sheet: Score sheet:** Player; Faces guessed right; Guesses right
 - **s1 (2 min)**  
   *Parent does:* Shuffle the 16 feeling cards. Explain the rules.  
   *Parent says:* In this game you show a feeling without any words. Dogs and horses watch our faces all the time. Let's see how good we are at it.  
   *Child mode:* Take a card. Don't show anyone. Show the feeling with your face. No words!
 - **s2 (8 min)**  
-  *Parent does:* Play three rounds. Round one: face and body. Round two: face only. Round three: body only, face turned away.  
+  *Parent does:* Play three rounds, with every player making one face in each round. Round one: face and body. Round two: face only. Round three: body only, face turned away.  
   *Parent says:* Round one, use your whole body. Round two, only your face. Round three, turn your face away and use only your body.  
   *Child mode:* Round one: face and body. Round two: face only. Round three: body only. Which is hardest?
   - Check: In Read My Face, which round is usually hardest to guess? → **Body only, with the face turned away**
@@ -300,7 +299,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
   *Parent says:* What do you think now about reading faces? What did you see in the game? Why do you think it happened?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: faces show feelings best. What I saw: we guessed almost every face, but body-only was hard. Why: eyes and mouths change most with feelings.
+  - Note: A good answer sounds like this. What I think: faces show feelings best. What I saw: we guessed most faces in round one, but body-only was harder. Why: eyes and mouths change most with feelings.
 
 ## Experiments
 ### e1 · The Thirsty Crow Test: what raises the water best? (25 min)
@@ -312,7 +311,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - **results table:** What we dropped in | Guess: how many to reach the line? | How many it really took | Did it ever reach the line?
 - **s1 (3 min)**  
   *Parent does:* 1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.  
-  *Parent says:* Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. Our beak can only reach the top line.  
+  *Parent says:* Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. A crow's beak can only reach as far as the top line.  
   *Child mode:* Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the worm. Can you bring it up to the line?
   - Note: Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.
 - **s2 (3 min)**  
@@ -357,15 +356,16 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Move your finger slowly over the cups. Watch the face. Pick one. Do it 10 times. Count how many you get right.
   - Note: Helpers should try to keep a still face, but most people still give tiny clues without meaning to. That is exactly what Hans saw.
 - **s3 (6 min)**  
-  *Parent does:* Now the helper must not know. The guesser shuts their eyes and the helper turns away. The third person puts the coin under a cup, then leaves the room or turns their back. The helper turns back and sits facing the guesser. Play 10 more times and count.  
+  *Parent does:* Now the helper must not know. The guesser shuts their eyes and the helper turns away. The third person puts the coin under a cup, then leaves the room or turns their back. The helper turns back and sits facing the guesser. Play 10 more times and count. If you have no third person, skip this step.  
   *Parent says:* Now I won't know where the coin is either. This is called a blind test. Let's see what happens to your score.  
   *Child mode:* Now your helper doesn't know either. This is a blind test. Someone else hides the coin. Play 10 more times. Count your right guesses.
-  - Note: This round needs a third person to hide the coin, so the helper does not know. With only two of you, ask a neighbour or another relative to help for this round.
+  - Note: The blind round needs a third person to hide the coin, so the helper does not know. If there are only two of you, skip this round. With 3 cups, lucky guessing gives about 3 right out of 10. If your first-round score is well above 3, the helper's face was giving clues. A very still face can give a score near luck, and that is a real result too.
   - Check: In the Clever Hans test, what usually happens when the helper does not know where the coin is? → **The guesser gets fewer right, about 3 out of 10, like lucky guessing**
 - **s4 (2 min)**  
   *Parent does:* Draw two bars, one for each round. Compare them with your guesses.  
   *Parent says:* Let's draw our two scores as bars. Was there a difference? Was it big?  
   *Child mode:* Draw two bars. One for 'helper knows'. One for 'blind'. Which is taller?
+  - Note: If you skipped the blind round, draw the second bar at 3, the score luck gives with 3 cups, and compare your first round with it.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
   *Parent says:* What do you think now? What did you see? Why did it happen? And why do scientists use blind tests when they test animals?  
@@ -400,7 +400,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 
 ## Activities
 ### a1 · Play Spotters (15 min)
-- **safety:** Watch from a distance. Never go close to street dogs, monkeys or cows. Go outdoors only with a grown-up.
+- **safety:** Watch from a distance. Never go close to street dogs, monkeys or cows.
 - **record:** Put a tally mark for each play sign you see. Circle the one you saw most.
 - **s1 (3 min)**  
   *Parent does:* Draw the five play signs with your child: play bow, chasing, jumping and twisting, tossing a thing, gentle wrestling.  
@@ -416,9 +416,9 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* Look at the tallies. Ask what your child thinks, what they saw, and why.  
   *Parent says:* Which play sign did you see most? Why do you think the animals were playing?  
   *Child mode:* Which sign did you see most? Why do you think animals play?
-  - Note: A good answer: 'What I think: puppies play to practise fighting. What I saw: 9 chases and 4 play bows. Why: they practised without hurting each other.'
+  - Note: A good answer: 'What I think: puppies play to practise. What I saw: 9 chases and 4 play bows. Why: they may be practising without hurting each other, though scientists are not sure why animals play.'
 ### a2 · Be a Jay: hide it, then find it tomorrow (18 min, 2 days)
-- **safety:** Do not hide food where ants or pets can get it. Hide nothing near electric plugs or on high shelves.
+- **safety:** Do not hide food where ants or pets can reach it. Hide nothing near electric sockets.
 - **record:** Write how many you found out of 8. Write which ones you forgot.
 - **schedule:** day 1: Hide 8 treats in one room. A grown-up secretly notes where. (8 min); day 2: Find as many as you can in 3 minutes. Count them. (10 min)
 - **s1 (8 min)**  
@@ -443,9 +443,9 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent says:* This is how dog and dolphin trainers teach. Karen Pryor, an American dolphin trainer, made this game famous in her book Don't Shoot the Dog in 1984. No words allowed, only claps.  
   *Child mode:* Go out of the room for a minute. We will choose a secret action. You must find it. The only clue is a clap.
 - **s2 (10 min)**  
-  *Parent does:* The learner comes back and moves around. The trainer claps each time the learner gets a little closer to the action. No words, no pointing. Play 3 rounds and swap roles.  
+  *Parent does:* The learner comes back and moves around. The trainer claps each time the learner gets a little closer to the action. No words, no pointing. Count the claps. Play 3 rounds and swap roles.  
   *Parent says:* Each clap means 'yes, that's closer'. Watch how the learner figures it out, one small step at a time.  
-  *Child mode:* Move around. A clap means you are getting closer. Keep going until you do the secret action.
+  *Child mode:* Move around. A clap means you are getting closer. Keep going until you do the secret action. The trainer counts the claps.
   - Check: In the Training Game, what does each clap teach the learner? → **That what they just did is a step closer**
 - **s3 (3 min)**  
   *Parent does:* Talk about how it felt to be the learner.  
@@ -509,7 +509,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 ### p1 · Crow Friends: will the crows learn you? (53 min, 7 days)
 - **safety:** Feed only a little plain food, so the crows do not depend on you. Use a balcony, a terrace or a window ledge, with a grown-up. Do not touch the birds. Wash the plate and your hands afterwards.
 - **record:** Write the minutes until the first crow each day. Note how many crows came, and whether any were waiting. Draw a line chart.
-- **schedule:** day 1: Put out the rice in your cap. Time how long until the first crow comes. Write it down. (10 min); day 2: Same place, same time, same cap. Time the first crow. (6 min); day 3: Same again. Are crows waiting nearby before you come out? (6 min); day 4: Same again. Write the time. (6 min); day 5: Same again. Write the time. (6 min); day 6: Same again. Write the time. (6 min); day 7: Same again. Then draw a line chart of all seven days, and talk about what the crows learned. (13 min)
+- **schedule:** day 1: Wearing your cap, put out the rice. Time how long until the first crow comes. Write it down. (10 min); day 2: Same place, same time, same cap. Time the first crow. (6 min); day 3: Same again. Are crows waiting nearby before you come out? (6 min); day 4: Same again. Write the time. (6 min); day 5: Same again. Write the time. (6 min); day 6: Same again. Write the time. (6 min); day 7: Same again. Then draw a line chart of all seven days, and talk about what the crows learned. (13 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* On day 1, wear the cap and put out the plate with a little rice. Step back three big steps and start the timer. Stop it when the first crow lands at the plate.  
   *Parent says:* Crows learn and remember faces. Let's see if they learn us. Every day we come at the same time, wearing the same cap. We time how long the first crow takes.  
@@ -534,13 +534,13 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 
 ## Challenges
 ### c1 · Hook It Like Betty (20 min)
-- **problem:** A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out without tipping the bottle or putting your fingers in.
+- **problem:** A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out by its handle without tipping the bottle or putting your fingers in.
 - **your turn:** Now invent your own tool. Draw it, make it and test it. How many tries did it take?
 - **constraints:** You may not tip, shake or cut the bottle.; Your fingers must not go inside the bottle.; You may use only one straight pipe cleaner, or a long strip of kitchen foil rolled tight into a thin stick.
-- **general:** Bend the end of the pipe cleaner into a hook, and catch the bucket's handle.; Twist the end into a small loop to catch the handle.
-- **creative:** Bend a hook at both ends, so you can try again quickly if one misses.; New Caledonian crows also make hooks from twigs, by snapping a branch off just below a fork. Could you make a hook from a forked twig?; What if you could only use your mouth, like Betty? Try holding the pipe cleaner in a clothes peg instead of your fingers.
+- **general:** Bend the end of the pipe cleaner into a small hook, and catch the bucket's handle.; Make the hook only about 2 cm long, so it slips easily through the handle.
+- **creative:** Bend a hook at both ends, so you can try again quickly if one misses.; New Caledonian crows also make hooks from twigs, by snapping a branch off just below a fork. Could you make a hook from a forked twig?; Betty held the wire in her beak, with no hands. Try holding your pipe cleaner in a clothes peg, and use only the peg.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* A grown-up cuts the top off a tall plastic bottle. Make a tiny bucket from the bottom of a paper cup, with a thread handle. Put a sweet in it and drop it to the bottom.  
+  *Parent does:* A grown-up cuts the top off a tall plastic bottle. Make a tiny bucket from the bottom of a paper cup. Tape on a loop of thin card as a handle, standing straight up. Put a sweet in the bucket and drop it to the bottom.  
   *Parent says:* A crow called Betty did this in Oxford in 2002. She had a straight wire and a bucket of food at the bottom of a tube. Let's see if you can do what Betty did.  
   *Child mode:* The sweet is at the bottom. No fingers inside! You only have a straight pipe cleaner.
 - **s2 (10 min)**  
@@ -574,7 +574,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Draw a harder puzzle. Two steps. Make it fair. Build it tomorrow!
 
 ## Worksheets
-### Animal Minds Detective (core) (core, 18 questions)
+### Animal Minds Detective (core) (core, 15 questions)
 1. (mcq) Which of these is play?  
    Options: A dog eating their dinner / Two puppies chasing each other with wagging tails / A cat running from a big dog / A crow building a nest  
    **Answer:** Two puppies chasing each other with wagging tails. *Why:* Play is done for fun, when safe and relaxed. Eating, running from danger and nest building all have a job to do right now. Picking 'running from a big dog' means a chase was seen as play, but that cat is scared, not relaxed.
@@ -608,13 +608,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** True. *Why:* The play bow means 'let's play, this is not a real fight'.
 15. (write) Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.  
    **Answer:** Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.. *Why:* Each of these was seen in careful tests or long watching, not just told as a story.
-16. (fill) Keeping what you learned, so you can use it later, is called ____.  
-   **Answer:** ['memory']. *Why:* Memory is keeping what you learned. A jay that finds seeds months later is using memory.
-17. (truefalse) A puppy that bows with the front legs down and the tail up is asking to play.  
-   **Answer:** True. *Why:* The play bow means 'let's play, this is not a real fight'.
-18. (write) Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.  
-   **Answer:** Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.. *Why:* Each of these was seen in careful tests or long watching, not just told as a story.
-### Testing Animal Minds (stretch) (stretch, 17 questions)
+### Testing Animal Minds (stretch) (stretch, 15 questions)
 1. (mcq) Look at the chart. The guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does the blind round tell us?  
    Options: 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know / The guesser was having a bad day / The guesser can see through cups / The blind round is not needed  
    **Answer:** 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know. *Why:* With 3 cups, a lucky guess is right about 1 time in 3, which is about 3 in 10. In the blind round the guesser did no better than luck. So the 8 out of 10 must have come from the helper's face. Picking 'bad day' is possible once, but repeating the test would show the same pattern.
@@ -626,35 +620,31 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** a jay finding seeds they hid months ago → Memory; a bumblebee rolling a ball for no reward → Play; a sea otter cracking a shell on a stone → Tool use; a dog getting faster at a puzzle feeder → Learning; a dolphin carrying a sea sponge on their nose to dig in the sand → Tool use; goats leaping and twisting in a field → Play. *Why:* Learning changes what an animal does, memory keeps what was learned, play is for fun, and tool use means using an outside object for a job.
 5. (write) In Crow Friends, the first crow came after 22 minutes on day 1, and after only 3 minutes on day 7. Give two possible reasons. Then say how you could find out which reason is right.  
    **Answer:** For example: the crows learned that the place and the person were safe, or more crows simply found out about the food. To tell, I could keep everything the same but wear a different cap, or put the rice out at a new place.. *Why:* A changing number can have more than one cause. A fair test changes one thing at a time to find out which cause matters.
-6. (mcq) Nicola Clayton's team let a scrub jay hide food while another jay watched. Later, when she was alone, the hider dug up her food and hid it again somewhere new. Why might she do this?  
-   Options: The watcher might steal it, so she moved it where the watcher had not seen / She forgot where she put it / Jays always move their food twice / She wanted the exercise  
-   **Answer:** The watcher might steal it, so she moved it where the watcher had not seen. *Why:* Jays who had been watched moved their food much more often than jays who hid alone. This suggests a jay can keep track of who saw what. Jays who had stolen food themselves did this the most. Picking 'forgot' cannot be right, because she went straight to her hiding places.
+6. (mcq) Nicola Clayton's team let a scrub jay hide food while another jay watched. Later, when they were alone, the hider dug up their food and hid it again somewhere new. Why might they do this?  
+   Options: The watcher might steal it, so they moved it where the watcher had not seen / They forgot where they put it / Jays always move their food twice / They wanted the exercise  
+   **Answer:** The watcher might steal it, so they moved it where the watcher had not seen. *Why:* Jays who had been watched moved their food much more often than jays who hid alone. This suggests a jay can keep track of who saw what. Jays who had stolen food themselves did this the most. Picking 'forgot' cannot be right, because they went straight to their hiding places.
 7. (write) Clever Hans could not do sums. Was he clever? Give your reason.  
-   **Answer:** Any reasoned answer, for example: yes, because he could read tiny face changes that people did not even know they made.. *Why:* Reading faces is a real skill. The story shows animals can be clever in ways we do not think to test.
+   **Answer:** Any reasoned answer, for example: yes, because he could read tiny face changes that people did not even know they made.. *Why:* Reading faces is a real skill. The story shows animals can be clever in ways we have not thought to test.
 8. (mcq) An octopus has about two thirds of their neurons in their arms. What does this mean?  
    Options: Their arms can feel, taste and grab partly on their own / They have no brain / Their arms are made of brain  
    **Answer:** Their arms can feel, taste and grab partly on their own. *Why:* The arms have so many neurons that each can explore partly on its own. The octopus still has a brain in their head. Picking 'no brain' goes too far.
 9. (mcq) Brian Hare's team found that pet dogs follow pointing better than chimpanzees. Why might that be?  
    Options: Dogs have lived with people for thousands of years / Dogs have bigger brains than chimpanzees / Chimpanzees cannot see fingers  
    **Answer:** Dogs have lived with people for thousands of years. *Why:* Dogs have lived alongside people for a very long time, and grow up watching us. Dogs do not have bigger brains than chimpanzees. Chimpanzees can see fingers fine, but are less tuned to follow them.
-10. (draw) Draw the four dog moods: relaxed, playful, scared and angry. Show the tail and ears on each.  
-   **Answer:** Relaxed: loose tail, soft ears. Playful: play bow, tail up. Scared: tail tucked, ears flat. Angry: stiff body, teeth showing, tail stiff.. *Why:* Dogs show feelings with tails, ears, mouths and bodies. Reading them keeps you safe.
-11. (write) Find the mistake. A girl did the Thirsty Crow Test. She filled the glass higher for the small stones than for the big stones. Why can't she compare her two counts?  
+10. (write) Find the mistake. A girl did the Thirsty Crow Test. She filled the glass higher for the small stones than for the big stones. Why can't she compare her two counts?  
    **Answer:** Because she changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. She must start both at the same line.. *Why:* In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.
-12. (perspective) Dogs are very good at following a pointing finger. Scientists explain why in different ways.  
+11. (perspective) Dogs are very good at following a pointing finger. Scientists explain why in different ways.  
    **Answer:** A strong answer picks a side and uses the evidence given, for example that untrained street dogs follow pointing, or that wolves raised by people can learn it. It notices that street dogs also live around people, so they might learn it too. Many answers end up saying both are partly true.. *Why:* Many scientists today think both are true: dogs are born ready to watch people, and living with people makes them better at it.
-13. (mcq) In the Training Game, the learner heard a clap each time they moved closer to the secret action. How is this like teaching a dog to roll over?  
+12. (mcq) In the Training Game, the learner heard a clap each time they moved closer to the secret action. How is this like teaching a dog to roll over?  
    Options: The dog gets a small reward for each step closer, so they learn step by step / The dog is born knowing how to roll over / The dog learns by being told the whole action in words  
    **Answer:** The dog gets a small reward for each step closer, so they learn step by step. *Why:* Animal trainers reward each small step, like lying down, then rolling to one side, then all the way over. The learner in the game did the same with claps. Picking 'born knowing' mixes learning up with instinct.
-14. (match) Match each scientist to what they found.  
+13. (match) Match each scientist to what they found.  
    **Answer:** Ivan Pavlov → dogs learned to drool at a sound that came before food; Edward Thorndike → cats in puzzle boxes escaped a little faster each time; Wolfgang Kohler → a chimpanzee fitted two short sticks into one long one; Gordon Burghardt → wrote down clear signs that tell play from other things animals do. *Why:* Each of these scientists found out something about how animals learn, solve problems or play.
-15. (write) Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?  
+14. (write) Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?  
    **Answer:** For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.. *Why:* A good test changes one thing at a time and watches what the animal chooses.
-16. (match) Match each scientist to what they found.  
-   **Answer:** Ivan Pavlov → dogs learned to drool at a sound that came before food; Edward Thorndike → cats in puzzle boxes escaped a little faster each time; Wolfgang Kohler → a chimpanzee fitted two short sticks into one long one; Gordon Burghardt → wrote down clear signs that tell play from other things animals do. *Why:* Each of these scientists found out something about how animals learn, solve problems or play.
-17. (write) Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?  
-   **Answer:** For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.. *Why:* A good test changes one thing at a time and watches what the animal chooses.
-### Minds, Brains and Big Puzzles (challenge) (challenge, 17 questions)
+15. (write) Meera's cat comes running every time the fridge door opens. Meera says her cat understands what a fridge is. Give a simpler explanation, and say how you could test it.  
+   **Answer:** For example: the cat learned that the sound of the fridge door comes before food. To test it, open a cupboard that makes a similar sound, or open the fridge door very quietly, and see if the cat still comes.. *Why:* The simplest explanation that fits is often learning, as in Pavlov's dogs. A good test changes one thing at a time, such as the sound.
+### Minds, Brains and Big Puzzles (challenge) (challenge, 15 questions)
 1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this unit, is that fair? Give two pieces of evidence.  
    **Answer:** Not fair. For example: Betty the crow bent a wire into a hook, crows remember a human face for years, and jays remember where they hid food. A crow's small brain is packed tightly with neurons.. *Why:* The saying comes from the idea that a small brain must be a simple one. A strong answer gives real tests from the unit, not just an opinion.
 2. (fill) Your brain has about 86 ____ neurons.  
@@ -685,16 +675,11 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** A crow's head with many tiny neurons joined by lines, with sparks or arrows moving along them.. *Why:* In a brain, every thought comes with neurons passing tiny electric signals to each other. Drawing a model helps us picture what we cannot see.
 13. (write) Write one question about animal minds that nobody knows the answer to yet.  
    **Answer:** Any honest open question, for example: what does it feel like to be a bee? Do fish feel happy?. *Why:* Science grows from good open questions.
-14. (mcq) Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?  
-   Options: Both being born ready and growing up with people matter / Wolves cannot learn anything / Dogs do not need to learn it at all  
-   **Answer:** Both being born ready and growing up with people matter. *Why:* If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.
-15. (write) Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?  
+14. (write) Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?  
    **Answer:** For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.. *Why:* A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out.
-16. (mcq) Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?  
-   Options: Both being born ready and growing up with people matter / Wolves cannot learn anything / Dogs do not need to learn it at all  
-   **Answer:** Both being born ready and growing up with people matter. *Why:* If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.
-17. (write) Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?  
-   **Answer:** For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.. *Why:* A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out.
+15. (mcq) Lakshmi, a girl in Class 4, wants to test whether her neighbour's pet dog follows pointing. Which plan is fairest?  
+   Options: Hide a treat under one bowl and point at it once / Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without / Point at the bowl and only give the dog the treat if they go there  
+   **Answer:** Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without. *Why:* Rubbing the treat on both bowls stops the dog using smell. Many tries, with and without pointing, show whether pointing makes a difference. One try could be luck. Giving the treat only for the pointed bowl would teach the dog during the test.
 
 ## Videos
 - **A New Caledonian crow bends a stick into a hook** (Science News, 2 min) id `B7GTkOHzHNk`: Shows a real crow bending a stick into a hook tool, the same idea as the challenge Hook It Like Betty. *Check:* Title and channel checked with YouTube's oEmbed: "Watch a toolmaking crow bend a stick | Science News" by Science News. A parent may still preview it.
@@ -751,7 +736,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - Robot makers study octopus arms to build soft robot arms that can grip things gently.
 - Laws in India, like the Prevention of Cruelty to Animals Act, 1960, protect animals because they can suffer.
 - Doctors study animal memory to understand memory loss in people.
-- Elephants follow old routes they remember, so wildlife workers protect those routes as safe corridors between forests.
+- Elephants follow old routes they remember, so wildlife workers protect those routes as safe corridors between forests, from the Western Ghats to Assam.
 - Bird counts, like those run by Bird Count India, depend on people who watch birds carefully and know their habits.
 
 ## Spotted around us
@@ -761,7 +746,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - Monkeys at a temple who have learned to open bags and bottles.
 - A cow who walks home on her own at sunset, knowing the way.
 - A myna or parrot copying sounds from the house, like a pressure cooker whistle.
-- Elephants at a camp who answer their mahout's call.
+- Elephants at a temple in Kerala or a forest camp in Karnataka who answer their mahout's call.
 - Pigeons on a balcony who come back to the same ledge every day.
 
 ## Open questions
@@ -788,13 +773,11 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 ## Jokes
 - Why did the crow sit on the telephone wire? *They wanted to make a long-distance caw.*
 - What do you call a crow that can make tools? *A caw-penter.*
-- What did the horse say when he got the sum wrong? *Hay, nobody's perfect.*
 - Why do elephants remember so much? *They keep it all in their trunk.*
 - What do you call a dog that does magic? *A labracadabrador.*
 - Why did the octopus beat the shark in a puzzle? *They were well armed.*
 - Why did the jay hide their seeds in the library? *So they could look them up later.*
 - How does a dog stop a video? *They press paws.*
-- Why are crows so good at maths? *They always count on their friends.*
 - Why did the cat join the puzzle club? *They liked to paws and think.*
 
 ## Connected maths
@@ -805,7 +788,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - In the pointing test, a dog chose the right bowl 8 times out of 10 with pointing, and 5 times out of 10 with no pointing. Draw a tally for each round. How many more right choices did pointing give? **3 more right choices.**. With pointing, the tally is 8 marks. With no pointing, it is 5 marks. 8 take away 5 is 3. With 2 bowls, a lucky guess is right about 5 times in 10, so the no-pointing score is about luck. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
-Every Creature Counts (sci.animals.L3): Topic-level song
+Every Creature Counts (sci.animals.L3): 
 
 ## Links
 - [Jane Goodall Institute](https://www.janegoodall.org/) · interactive: Stories, photos and videos of chimpanzees, from the scientist who first saw them make tools.
@@ -817,9 +800,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [IISER Kolkata](https://www.iiserkol.ac.in/) · interactive: The institute where Anindita Bhadra's team studies how street dogs understand people.
 
 ## Things to buy
-- [Pipe cleaners (chenille stems)](https://www.amazon.in/s?k=pipe+cleaners+chenille+stems) (material): For bending hooks in Hook It Like Betty. Rolled kitchen foil works too. Used in c1. 
-- [Me...Jane, by Patrick McDonnell (picture book, 2011)](https://www.amazon.in/s?k=Me+Jane+Patrick+McDonnell) (book): The true story of Jane Goodall as a child who loved watching animals. Used in g1. 
-- [Are We Smart Enough to Know How Smart Animals Are?, by Frans de Waal (2016), for parents](https://www.amazon.in/s?k=Are+We+Smart+Enough+to+Know+How+Smart+Animals+Are) (book): A readable book for parents on animal minds, from crows to apes. Used in e2. 
+- [Pipe cleaners (chenille stems)](https://www.amazon.in/s?k=pipe+cleaners+chenille+stems) (material): For bending hooks in the Hook It Like Betty challenge. Rolled kitchen foil works too. Used in c1. 
 
 ## Warm-up
 - Changing what you do because of what happened before is called ____. → Learning.

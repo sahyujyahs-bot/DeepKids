@@ -207,7 +207,7 @@
    "definition": "The placenta grows on the wall of the womb. It takes food and oxygen from the mother's blood and passes them along the umbilical cord to the baby. It also takes the baby's waste away.",
    "description": "A baby in the womb is surrounded by water. They cannot eat, and there is no air to breathe. So the mother's body feeds them. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.",
    "examples": [
-    "The dal and rice the mother eats become part of the baby's growing body.",
+    "The ragi, dal or rice the mother eats become part of the baby's growing body.",
     "When the mother breathes in, some of that oxygen ends up in the baby.",
     "The cord is about as long as your arm, and has no nerves, so cutting it does not hurt."
    ],
@@ -221,7 +221,7 @@
    "definition": "The baby floats in warm water called amniotic fluid, inside a thin bag in the womb. The water cushions the baby, keeps them warm and lets them move.",
    "description": "A growing baby is soft, and their mother walks, bends and sometimes bumps into things. The water around the baby solves this. A bump on the mother's tummy spreads out through the water, so the baby is hardly jolted. The water also stays at the same warm temperature, and gives the baby room to stretch and kick. The baby swallows some of the water. This is practice for swallowing, and the water carries tastes from the mother's food.",
    "examples": [
-    "A raw egg in a jar filled to the top with water stays whole when you shake the jar. In an empty jar, it cracks.",
+    "A raw egg in a jar filled to the top with water usually stays whole when you shake the jar. In an empty jar, it is more likely to crack.",
     "Babies whose mothers ate a lot of carrot liked carrot flavour more after birth, in one study.",
     "The baby practises breathing movements in the water, though there is no air to breathe."
    ],
@@ -509,7 +509,7 @@
  "games": [
   {
    "id": "g1",
-   "title": "Forty Weeks: the race to be born",
+   "title": "Forty Weeks: growing from one cell to birth",
    "mins": 20,
    "players": "2 to 4 players",
    "context": "This is a board game about growing in the womb. Each square is one week. You move from one cell to birth, and learn what happens on the way.",
@@ -524,7 +524,7 @@
     },
     {
      "art": "A child moving a button counter along the track and reading a card aloud.",
-     "caption": "3. Roll, move, and read a card when you land on a star."
+     "caption": "3. Roll and move. Read the square you land on aloud. On a star, also take a GROW card."
     }
    ],
    "printables": [
@@ -545,8 +545,8 @@
       "Square 11: The face takes shape: eyes, nose and mouth",
       "Square 12: STAR. Fingers and toes",
       "Square 13: The middle three months begin",
-      "Square 14: Rest. The baby grows and moves",
-      "Square 15: Rest. The bones are getting harder",
+      "Square 14: The baby grows and moves",
+      "Square 15: The bones are getting harder",
       "Square 16: STAR. Fingerprints forming",
       "Square 17: Fat starts to form under the skin",
       "Square 18: The mother may feel the first kicks",
@@ -558,19 +558,19 @@
       "Square 24: STAR. Hearing sounds",
       "Square 25: Practising breathing movements in the water",
       "Square 26: Jumping at loud sounds",
-      "Square 27: Rest. Sleeping and waking in turns",
+      "Square 27: Sleeping and waking in turns",
       "Square 28: STAR. Eyes open",
       "Square 29: Growing much bigger",
       "Square 30: About 40 centimetres long",
       "Square 31: The lungs are getting ready for air",
       "Square 32: STAR. Getting chubby",
       "Square 33: The skull bones are still soft and not joined",
-      "Square 34: Rest. Fat keeps building up under the skin",
-      "Square 35: Rest. The baby fills most of the womb",
+      "Square 34: Fat keeps building up under the skin",
+      "Square 35: The baby fills most of the womb",
       "Square 36: STAR. Head turns down, ready",
       "Square 37: Not early any more. Nearly ready",
       "Square 38: Most babies are born between 37 and 42 weeks",
-      "Square 39: Rest. Nearly time",
+      "Square 39: Nearly time",
       "Square 40: BIRTH! First breath"
      ]
     },
@@ -587,7 +587,7 @@
       "You suck your thumb. Show everyone how.",
       "A loud drum outside makes you jump. Move back 1.",
       "You hear your mother singing. Move forward 1.",
-      "Your mother eats rice, sambar and vegetables. Move forward 2.",
+      "Your mother eats poha, dal and vegetables. Move forward 2.",
       "Your mother sees a doctor for a check-up. Move forward 1.",
       "You stretch and turn a somersault. Move forward 1."
      ]
@@ -605,11 +605,11 @@
        "b": "It cushions, keeps warm and lets the baby move."
       },
       {
-       "f": "What was everyone at the very start?",
+       "f": "What was every person at the very start?",
        "b": "One cell."
       },
       {
-       "f": "What is left when the cord falls off?",
+       "f": "After a baby is born, what is left when the cord stump falls off?",
        "b": "The belly button."
       },
       {
@@ -618,15 +618,15 @@
       },
       {
        "f": "Name one thing a baby can do in the womb.",
-       "b": "Kick, suck their thumb, hiccup, hear, swallow."
+       "b": "Kick, suck their thumb, hiccup, hear or swallow. Any one of these is right."
       },
       {
        "f": "Why can't a baby breathe air in the womb?",
        "b": "They are in water, and there is no air there."
       },
       {
-       "f": "What does a cell do to make more cells?",
-       "b": "The cell splits in two."
+       "f": "How does a cell make more cells?",
+       "b": "It splits in two."
       }
      ]
     },
@@ -652,10 +652,10 @@
    "rules": [
     "Everyone puts a button on square 1, as one cell.",
     "Take turns to roll the die and move that many squares.",
-    "If you land on a STAR square, the player on your left reads out what is happening that week. Then you take a GROW card and do what it says. A GROW card never makes you take another card.",
-    "If you roll a 6, move 6 squares, then the player on your left reads you a WONDER card. Answer it right to win a heart token. If you are not right, they read you the answer from the back. No token.",
+    "Whenever you land on a square, the player on your left reads out what is happening that week. If it is a STAR square, you then also take a GROW card and do what it says. A GROW card never makes you take another card.",
+    "If you roll a 6, move 6 squares, then the player on your left reads you a WONDER card. Answer it right to win a heart token. If you are not right, they read you the answer from the back. No token. This still happens if the 6 takes you to square 40.",
     "When a pile of cards runs out, shuffle the used cards and use them again. If the heart tokens run out, keep score on paper.",
-    "Reach or pass square 40 and you are born! Take a big first breath and shout 'Hello, world!' You stop rolling.",
+    "Reach or pass square 40 and you are born! Take a big first breath and shout \"Hello, world!\" You stop rolling, but you can still help read cards for the others.",
     "Keep playing until everyone is born. The player with the most heart tokens wins. If it is a tie, share the win."
    ],
    "flow": [
@@ -670,7 +670,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Read square 6 together before you start. Point at the heart on the track.",
+     "do": "Read square 6 together before you start. Point at square 6 on the track.",
      "say": "At about six weeks, the baby is as small as a grain of rice. But their heart is already beating. Can you feel your heart now?",
      "kid": "Look at square 6. The heart starts beating there. Put your hand on your chest. Feel yours beat.",
      "check": {
@@ -689,9 +689,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns to roll and move. 2. On a STAR, read the square aloud and take a GROW card. 3. On a 6, ask a WONDER question.",
-     "say": "Remember, when you land on a star, read out what is happening to the baby that week.",
-     "kid": "Roll and move. Land on a star? Read it out. Then take a GROW card.",
+     "do": "1. Take turns to roll and move. 2. Read aloud each square you land on. On a STAR, also take a GROW card. 3. On a 6, ask a WONDER question.",
+     "say": "Remember, whenever you land on a square, read out what is happening to the baby that week.",
+     "kid": "Roll and move. Read out the square you land on. Is it a star? Then take a GROW card.",
      "ask": [
       {
        "q": "Why does the GROW card say 'move forward' when the mother eats well?",
@@ -734,11 +734,11 @@
    "setup": [
     {
      "art": "Twelve hand-drawn cards, each with an animal name and a number of days written large.",
-     "caption": "1. Make 12 animal cards. On each, write the animal's name and, big, the days a baby grows inside the mother. Draw the animal if you like."
+     "caption": "1. Cut out the 12 animal cards. Each has the animal and, big, the days a baby grows inside the mother."
     },
     {
      "art": "Two children each holding a fan of cards, one laying an elephant card on top of a mouse card.",
-     "caption": "2. Each player turns over a card. The longest wait wins both."
+     "caption": "2. Everyone turns over a card. The longest wait wins all the cards turned over."
     }
    ],
    "printables": [
@@ -828,10 +828,10 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and share them out face down.",
-    "Each player turns over their top card at the same time.",
-    "The card with the most days wins both cards. The winner puts them in a pile.",
-    "The winner says about how many more days their card has. A good guess is fine.",
+    "Shuffle the cards and share them out face down. With 2 players each gets 6 cards, with 3 players 4 cards, with 4 players 3 cards.",
+    "Everyone turns over their top card at the same time.",
+    "The card with the most days wins all the cards turned over. The winner puts them in a pile.",
+    "The winner says about how many more days their card has than the next longest. A good guess is fine.",
     "When all the cards are played, the player with the biggest pile wins. If the piles are equal, shuffle and play again."
    ],
    "flow": [
@@ -851,7 +851,7 @@
      "kid": "Turn your top card over. Longest wait wins. How many days more?",
      "check": {
       "t": "mcq",
-      "q": "Game moment: your elephant card meets a mouse card. Who wins?",
+      "q": "Game moment: your elephant card meets a mouse card. Whose card wins?",
       "options": [
        "The elephant, about 650 days",
        "The mouse, about 20 days",
@@ -865,7 +865,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "At the end, lay all 12 cards in a line, shortest wait to longest.",
+     "do": "At the end, gather all 12 cards and lay them in a line, shortest wait to longest.",
      "say": "Look at the line. What do you notice about the small animals and the big ones?",
      "kid": "Put all the cards in a line, from shortest wait to longest. What do you notice?",
      "ask": [
@@ -878,7 +878,7 @@
        ]
       }
      ],
-     "think": "A whale is far bigger than an elephant, but a whale baby grows for about a year. Why might that be?",
+     "think": "A blue whale is far bigger than an elephant, but a whale baby grows for about a year. Why might that be?",
      "context": "This is the last step of Who Waits Longest?. You line up all the animal cards from shortest to longest wait."
     }
    ]
@@ -918,7 +918,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use plastic jars, not glass. Shake over a tray. Wash hands with soap after touching raw eggs.",
+   "safety": "Use plastic jars, not glass. Wash hands with soap after touching raw eggs.",
    "schedule": [
     {
      "day": 1,
@@ -1131,7 +1131,7 @@
   {
    "id": "e3",
    "title": "Keep the Baby Warm: which wrap works best?",
-   "mins": 30,
+   "mins": 33,
    "days": 1,
    "question": "Which keeps a pretend baby warm longest: lying alone, wrapped in a cloth, or held against a person's chest under a cloth?",
    "predict": "Guess which bottle will stay warmest after 20 minutes. Put the three in order. Why do you think so?",
@@ -1165,7 +1165,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 33,
      "what": "Fill three bottles. Keep one alone, one wrapped, one held on a chest. Feel or measure them after 10 and 20 minutes."
     }
    ],
@@ -1229,7 +1229,7 @@
     },
     {
      "id": "s3",
-     "mins": 17,
+     "mins": 20,
      "do": "1. Start a timer for 10 minutes as soon as the three bottles are in place. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.",
      "say": "While we wait, think about this. Why might a person's body be good at keeping a baby warm?",
      "kid": "Wait 10 minutes. Feel each bottle on your cheek. Write it down. Wait 10 more minutes. Do it again.",
@@ -1279,7 +1279,7 @@
      "qty": 1
     }
    ],
-   "safety": "If you use atta dough, wash your hands before and after. Do not eat raw dough.",
+   "safety": "Do not eat the raw dough.",
    "schedule": [
     {
      "day": 1,
@@ -2355,7 +2355,7 @@
      "t": "write",
      "p": "Predict. A woman who is going to have a baby hums a low lullaby. Then she hums a high, squeaky tune, just as loud. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
      "lines": 3,
-     "a": "The low lullaby. In my test, the low hum came through the bag of water more clearly, but the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.",
+     "a": "The low lullaby. If the test worked, the low hum came through the bag of water a little more clearly, and the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.",
      "why": "A strong answer makes a prediction, then backs it with what the child heard through the water bag.",
      "how": "e2"
     },
@@ -2470,7 +2470,7 @@
       "centimetres",
       "cm"
      ],
-     "why": "About 20 to 30 centimetres. You tested this with a plastic bag in front of your eyes. A face close up was clearer than a face far away.",
+     "why": "About 20 to 30 centimetres. In the Newborn Eyes model, a face close up looked clearer through the plastic bag than a face far away. The model is only rough.",
      "how": "a6"
     },
     {
@@ -2518,7 +2518,7 @@
     },
     {
      "t": "write",
-     "p": "Twins can grow in the same womb at the same time, with the same DNA. Yet their fingerprints are different. Why might that be?",
+     "p": "Identical twins grow in the same womb at the same time and have the same DNA. Yet their fingerprints are different. Why might that be?",
      "lines": 3,
      "a": "Fingerprints form at about four months. Each twin's fingers press and move in slightly different ways in the womb. Tiny differences, like where they lie, make different patterns.",
      "why": "A strong answer says DNA is not the whole story. Fingerprints also depend on chance, on how each baby grew in their own place in the womb.",
@@ -2615,7 +2615,7 @@
      "t": "write",
      "p": "Challenge the belief. Many people say a pregnant mother must 'eat for two', so she should eat twice as much. Doctors say she needs only a little more, about one extra small meal a day, and only in the last six months. Think about how big the baby is. Who do you think is right, and why?",
      "lines": 4,
-     "a": "The doctors. The baby is tiny for most of the nine months, only about the size of a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, vegetables, milk, eggs or fish.",
+     "a": "The doctors. The baby is tiny for most of the nine months, only about the size of a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, ragi or rice, vegetables, milk, eggs or fish.",
      "why": "A strong answer uses a size from the unit (rice-sized, banana-sized, about 3 kilograms at birth) to show the baby needs far less food than a grown-up. It may add that the food must be good, because it reaches the baby through the placenta."
     },
     {
@@ -2683,7 +2683,7 @@
       "a newborn, about 50 centimetres long"
      ],
      "a": "order shown",
-     "why": "The first cell is about as wide as a hair. The baby grows from rice-sized to raspberry-sized to banana-sized, and then to about 50 centimetres at birth.",
+     "why": "The first cell is about as wide as a hair. The baby grows from rice-sized to grape-sized to banana-sized, and then to about 50 centimetres at birth.",
      "how": "a2"
     },
     {
@@ -2899,7 +2899,7 @@
    "youtube": "XEfnq4Q4bfk",
    "mins": 10,
    "why": "For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film.",
-   "check": "Not yet watched by a person: watch it first. Preview it before showing a child."
+   "check": "Watch it first yourself, and choose a short clip rather than the whole film."
   },
   {
    "title": "Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios",
@@ -2907,7 +2907,7 @@
    "youtube": "O8KdLdRsbRk",
    "mins": 5,
    "why": "Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go.",
-   "check": "Not yet watched by a person: watch it first. No id given. The documentary is real (BBC Two, 2016). Find an official BBC clip about the first weeks. Preview it: some parts discuss conception in more detail than this unit."
+   "check": "Watch it first yourself. Some parts talk about how a baby is conceived in more detail than this unit does."
   },
   {
    "title": "Maternal health: Ensuring kangaroo mother care for every small or preterm baby",
@@ -2915,7 +2915,7 @@
    "youtube": "YfhWxMmBIW4",
    "mins": 4,
    "why": "Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe.",
-   "check": "Not yet watched by a person: watch it first. No id given. Check it is the WHO's own video before showing."
+   "check": "Watch it first yourself."
   }
  ],
  "applications": [
@@ -2950,7 +2950,7 @@
    "art": "Children playing at a beach in Goa, a few belly buttons peeking out."
   },
   {
-   "text": "A godh bharai or baby shower, where families celebrate a coming baby.",
+   "text": "A baby shower, called godh bharai, valaikappu or seemantham in different places, where families celebrate a coming baby.",
    "art": "Women in bright saris placing fruits and flowers in a pregnant woman's lap."
   },
   {
@@ -3001,8 +3001,6 @@
   "If you could remember being in the womb, what would you have heard?",
   "Can you find your belly button? What does it tell you?",
   "How many people looked after you before you could talk?",
-  "Which animal baby do you think waits longest to be born?",
-  "If one cell doubles every day, how many would there be after a week?",
   "What do you think a baby needs most in their first week?",
   "Why do you think babies like being rocked gently?",
   "Who do you look a bit like in your family? Who do you not look like at all?",
@@ -3027,8 +3025,8 @@
    "a": "A hic-cupcake."
   },
   {
-   "j": "Why did the baby kick so much?",
-   "a": "The football team was waiting."
+   "j": "Why did the new baby ask for a towel?",
+   "a": "After nine months of swimming, they wanted to dry off."
   },
   {
    "j": "Why did the baby mouse arrive so fast?",
@@ -3044,15 +3042,6 @@
   }
  ],
  "maths": [
-  {
-   "problem": "Remember the dough doubling, where one ball split into 2, then 4, then 8? If you keep going, how many balls after 6 rounds of splitting?",
-   "answer": "64 balls.",
-   "explain": "Each round doubles the number. 1, then 2, 4, 8, 16, 32, 64. That is 6 rounds. So there are 64 balls.",
-   "math_unit": "math.patterns.number-patterns.L3",
-   "how": "a1",
-   "context": "This is about the One Cell to Many activity, where you split a ball of dough again and again like a dividing cell.",
-   "why_maths": "Doubling is how cells grow in number. Seeing the pattern shows why one cell can become trillions."
-  },
   {
    "problem": "A baby grows in the womb for about 40 weeks. There are 7 days in a week. About how many days is that?",
    "answer": "280 days.",
@@ -3218,7 +3207,7 @@
    "id": "b-thermo",
    "item": "Kitchen or digital thermometer",
    "kind": "tool",
-   "why": "To measure how warm each pretend baby stays in Keep the Baby Warm.",
+   "why": "To measure how warm each pretend baby stays in Keep the Baby Warm. Feeling with your cheek also works, but is rougher.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer",
    "used_in": [
     "e3"
@@ -3415,5 +3404,6 @@
   "who": "Nicolaas Hartsoeker, Caspar Friedrich Wolff, Karl Ernst von Baer and Oscar Hertwig",
   "when": "1694 (Hartsoeker's drawing), 1759 (Wolff), 1827 (von Baer) and 1876 (Hertwig)",
   "wrong_idea": "People thought a tiny, ready-made person was inside the egg or sperm, and only grew bigger. Wolff watched hen's eggs day by day and saw the parts form one after another. Von Baer found that a mammal's egg is a single cell with no parts in it."
- }
+ },
+ "playtest": "Played both games with 2 and 4 players in my head. Forty Weeks: all 40 squares, 12 GROW cards, 8 WONDER cards and 12 heart tokens are listed. Board squares now all do one thing (they are read aloud) and the 'Rest.' labels are gone. A roll of 6 that reaches square 40 still gets its WONDER card, finished players can help read, and the title no longer says 'race' because the winner is whoever has most hearts. WONDER cards were reworded to stand alone. Who Waits Longest: all days differ so there are no ties, and the rules now say how 3 or 4 players share the 12 cards and that the top card wins every card turned over. Experiments: followed e1, e2, e3 step by step in a flat. Fixed e3 so the 20 minutes of waiting is in the minutes (33) and schedule, trimmed the egg safety line, and made the explanation about the egg jar honest (usually, not always). e2 and the Newborn Eyes model stay rough, and their parent notes and worksheet answers now say so. Removed internal notes from the video check fields (all three ids were opened and their titles match), tidied a buy line, deleted the repeated cell-doubling exercise from maths and ask_kids (the dough, quiz and challenge worksheet keep it), dropped a repeated animal question, replaced one weak joke (8 jokes remain), and fixed twins wording (identical twins). Rule 28: swapped in poha, ragi and valaikappu/seemantham beside the South Indian foods. Left alone: sources.founder (a source list, not shown on cards), the roots deep truth, structure and ids. Not checked against outside sources: the fruit sizes (grape at 8 weeks is rounded), and video contents were not watched."
 }

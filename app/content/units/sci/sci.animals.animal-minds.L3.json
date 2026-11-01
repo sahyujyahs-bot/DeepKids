@@ -503,7 +503,7 @@
    "That evening Lotte brought the oats. She did not hurry. She stood in front of Hans and let herself feel what she felt, which was a mix of sorry and proud and glad. She did not say anything.",
    "Hans lowered his head and blew warm air into her hands. Then he waited, the way he always did, watching her face to see what she would do next."
   ],
-  "epiphany": "For the parent: Hans could not do sums, but he could read tiny changes in human faces and bodies, smaller than people knew they were making. The crowd saw only the trick they expected and missed the real cleverness. Animal minds are often clever in ways we do not think to test. Pfungst found the truth by holding up a number he had not looked at himself, which is the idea of a blind test.",
+  "epiphany": "For the parent: Hans could not do sums, but he could read tiny changes in human faces and bodies, smaller than people knew they were making. The crowd saw only the trick they expected and missed the real cleverness. Animal minds are often clever in ways we have not thought to test. Pfungst found the truth by holding up a number he had not looked at himself, which is the idea of a blind test.",
   "ask": [
    "In the story, why did Hans tap and tap when Oskar Pfungst held up a number he had not looked at?",
    "What tiny thing did the people asking Hans do when he reached the right number?",
@@ -720,7 +720,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the TRUE and TALL TALE mats on the floor. 2. Shuffle the 22 cards and put them face down. 3. Put the tokens in a bowl. 4. Have three cups and a coin ready for one TEST IT card.",
+     "do": "1. Lay the TRUE and TALL TALE mats on the floor. 2. Shuffle the 22 cards and put them face down. 3. Put the tokens in a bowl. 4. Have three cups and a coin ready for the first TEST IT card.",
      "say": "Each card says something about an animal's mind. Some are true, and scientists have tested them. Some are tall tales that people believe, but tests showed they are wrong.",
      "kid": "Put the two mats down: TRUE and TALL TALE. Mix up the cards. Put them face down. For each card, decide: true, or a tall tale?",
      "context": "This is the first step of True or Tall Tale?, a card game about what animals can really do. Here you set up the game."
@@ -820,24 +820,15 @@
       "Confused",
       "Playful"
      ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Score sheet",
-     "items": [
-      "Player",
-      "Faces guessed right",
-      "Guesses right"
-     ]
     }
    ],
    "rules": [
-    "Shuffle the feeling cards and put them face down.",
+    "Shuffle the 16 feeling cards and put them face down. Keep score on a sheet of paper with tally marks.",
     "The face-maker takes a card and does not show it. They show the feeling with face and body only. No sounds, no words.",
     "The others guess. The first right guess wins a point. The face-maker also wins a point.",
-    "In round two, the face-maker may only use their face, hands behind their back.",
-    "In round three, the face-maker may only use their body. They turn their face away.",
-    "After the game, talk about which round was easiest, and why."
+    "Round one is face and body. In round two, the face-maker may only use their face, with hands behind their back. In round three, they may only use their body, with their face turned away.",
+    "In each round, every player is the face-maker once. With two players, swap after every card.",
+    "After three rounds, the player with the most points wins. If there is a tie, share the win. Then talk about which round was easiest, and why."
    ],
    "setup": [
     {
@@ -865,7 +856,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Play three rounds. Round one: face and body. Round two: face only. Round three: body only, face turned away.",
+     "do": "Play three rounds, with every player making one face in each round. Round one: face and body. Round two: face only. Round three: body only, face turned away.",
      "say": "Round one, use your whole body. Round two, only your face. Round three, turn your face away and use only your body.",
      "kid": "Round one: face and body. Round two: face only. Round three: body only. Which is hardest?",
      "check": {
@@ -905,7 +896,7 @@
      "do": "Ask your child to say what they think, what they saw, and why.",
      "say": "What do you think now about reading faces? What did you see in the game? Why do you think it happened?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: faces show feelings best. What I saw: we guessed almost every face, but body-only was hard. Why: eyes and mouths change most with feelings.",
+     "parent": "A good answer sounds like this. What I think: faces show feelings best. What I saw: we guessed most faces in round one, but body-only was harder. Why: eyes and mouths change most with feelings.",
      "context": "This is the last step of Read My Face. The child says what they think, what they saw, and why."
     }
    ]
@@ -937,7 +928,7 @@
      "qty": 1
     },
     {
-     "item": "big stones, each about the size of a walnut, washed. A plant pot, the building compound or the roadside usually has some.",
+     "item": "big stones, each about the size of a walnut, washed. Pebbles from a plant pot or a flower shop work well.",
      "qty": 10
     },
     {
@@ -1013,7 +1004,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.",
-     "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. Our beak can only reach the top line.",
+     "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. A crow's beak can only reach as far as the top line.",
      "kid": "Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the worm. Can you bring it up to the line?",
      "parent": "Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.",
      "context": "This is the first step of the thirsty crow test. You set up a glass of water with a floating 'worm' to raise."
@@ -1133,8 +1124,8 @@
      "qty": 1
     },
     {
-     "item": "a guesser, a helper who sits facing the guesser, and for the blind round a third person to hide the coin (any other person at home, or a neighbour)",
-     "qty": 3
+     "item": "a guesser and a helper who sits facing the guesser. For the blind round, you also need a third person to hide the coin (a relative or a neighbour).",
+     "qty": 2
     },
     {
      "item": "a pencil and the results table",
@@ -1146,7 +1137,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Play 10 rounds with a helper who knows, then 10 rounds with a helper who does not. Compare."
+     "what": "Play 10 rounds with a helper who knows, then (if a third person can help) 10 rounds with a helper who does not know. Compare."
     }
    ],
    "record": "Fill in the table. Draw two bars: one for 'helper knows' and one for 'helper does not know'.",
@@ -1204,7 +1195,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Now the helper must not know. The guesser shuts their eyes and the helper turns away. The third person puts the coin under a cup, then leaves the room or turns their back. The helper turns back and sits facing the guesser. Play 10 more times and count.",
+     "do": "Now the helper must not know. The guesser shuts their eyes and the helper turns away. The third person puts the coin under a cup, then leaves the room or turns their back. The helper turns back and sits facing the guesser. Play 10 more times and count. If you have no third person, skip this step.",
      "say": "Now I won't know where the coin is either. This is called a blind test. Let's see what happens to your score.",
      "kid": "Now your helper doesn't know either. This is a blind test. Someone else hides the coin. Play 10 more times. Count your right guesses.",
      "check": {
@@ -1220,7 +1211,7 @@
      },
      "how": "e2",
      "context": "This step of the Clever Hans test is the blind round, where nobody watching knows where the coin is.",
-     "parent": "This round needs a third person to hide the coin, so the helper does not know. With only two of you, ask a neighbour or another relative to help for this round."
+     "parent": "The blind round needs a third person to hide the coin, so the helper does not know. If there are only two of you, skip this round. With 3 cups, lucky guessing gives about 3 right out of 10. If your first-round score is well above 3, the helper's face was giving clues. A very still face can give a score near luck, and that is a real result too."
     },
     {
      "id": "s4",
@@ -1248,7 +1239,8 @@
       ]
      },
      "how": "e2",
-     "context": "This step of the Clever Hans test turns your two scores into a bar chart."
+     "context": "This step of the Clever Hans test turns your two scores into a bar chart.",
+     "parent": "If you skipped the blind round, draw the second bar at 3, the score luck gives with 3 cups, and compare your first round with it."
     },
     {
      "id": "s5",
@@ -1426,7 +1418,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch from a distance. Never go close to street dogs, monkeys or cows. Go outdoors only with a grown-up.",
+   "safety": "Watch from a distance. Never go close to street dogs, monkeys or cows.",
    "schedule": [
     {
      "day": 1,
@@ -1485,7 +1477,7 @@
      "do": "Look at the tallies. Ask what your child thinks, what they saw, and why.",
      "say": "Which play sign did you see most? Why do you think the animals were playing?",
      "kid": "Which sign did you see most? Why do you think animals play?",
-     "parent": "A good answer: 'What I think: puppies play to practise fighting. What I saw: 9 chases and 4 play bows. Why: they practised without hurting each other.'",
+     "parent": "A good answer: 'What I think: puppies play to practise. What I saw: 9 chases and 4 play bows. Why: they may be practising without hurting each other, though scientists are not sure why animals play.'",
      "context": "This is the last step of Play Spotters. The child looks at their tally and explains it."
     }
    ]
@@ -1510,7 +1502,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not hide food where ants or pets can get it. Hide nothing near electric plugs or on high shelves.",
+   "safety": "Do not hide food where ants or pets can reach it. Hide nothing near electric sockets.",
    "schedule": [
     {
      "day": 1,
@@ -1628,9 +1620,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "The learner comes back and moves around. The trainer claps each time the learner gets a little closer to the action. No words, no pointing. Play 3 rounds and swap roles.",
+     "do": "The learner comes back and moves around. The trainer claps each time the learner gets a little closer to the action. No words, no pointing. Count the claps. Play 3 rounds and swap roles.",
      "say": "Each clap means 'yes, that's closer'. Watch how the learner figures it out, one small step at a time.",
-     "kid": "Move around. A clap means you are getting closer. Keep going until you do the secret action.",
+     "kid": "Move around. A clap means you are getting closer. Keep going until you do the secret action. The trainer counts the claps.",
      "check": {
       "t": "mcq",
       "q": "In the Training Game, what does each clap teach the learner?",
@@ -1934,7 +1926,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Put out the rice in your cap. Time how long until the first crow comes. Write it down."
+     "what": "Wearing your cap, put out the rice. Time how long until the first crow comes. Write it down."
     },
     {
      "day": 2,
@@ -2079,7 +2071,7 @@
    "title": "Hook It Like Betty",
    "mins": 20,
    "context": "In 2002, a crow called Betty bent a straight wire into a hook to lift a bucket of food out of a tube. In this challenge you try the same thing.",
-   "problem": "A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out without tipping the bottle or putting your fingers in.",
+   "problem": "A tiny paper bucket with a sweet inside sits at the bottom of a tall bottle. Lift it out by its handle without tipping the bottle or putting your fingers in.",
    "constraints": [
     "You may not tip, shake or cut the bottle.",
     "Your fingers must not go inside the bottle.",
@@ -2087,23 +2079,23 @@
    ],
    "materials": [
     "a tall plastic bottle with the top cut off by a grown-up",
-    "a tiny paper bucket with a thread handle, made from a paper cup bottom",
+    "a tiny paper bucket made from the bottom of a paper cup, with a handle of thin card taped on so it stands straight up",
     "a sweet",
     "one pipe cleaner, or a strip of kitchen foil about 30 cm long, rolled tight"
    ],
    "general": [
-    "Bend the end of the pipe cleaner into a hook, and catch the bucket's handle.",
-    "Twist the end into a small loop to catch the handle."
+    "Bend the end of the pipe cleaner into a small hook, and catch the bucket's handle.",
+    "Make the hook only about 2 cm long, so it slips easily through the handle."
    ],
    "creative": [
     "Bend a hook at both ends, so you can try again quickly if one misses.",
     "New Caledonian crows also make hooks from twigs, by snapping a branch off just below a fork. Could you make a hook from a forked twig?",
-    "What if you could only use your mouth, like Betty? Try holding the pipe cleaner in a clothes peg instead of your fingers."
+    "Betty held the wire in her beak, with no hands. Try holding your pipe cleaner in a clothes peg, and use only the peg."
    ],
    "your_turn": "Now invent your own tool. Draw it, make it and test it. How many tries did it take?",
    "setup": [
     {
-     "art": "A tall cut-off plastic bottle with a tiny paper bucket and thread handle sitting at the bottom, a straight pipe cleaner lying beside it.",
+     "art": "A tall cut-off plastic bottle with a tiny paper bucket and an upright card handle sitting at the bottom, a straight pipe cleaner lying beside it.",
      "caption": "1. Put the paper bucket with a sweet at the bottom of the bottle."
     },
     {
@@ -2111,7 +2103,7 @@
      "caption": "2. Bend the pipe cleaner into a tool."
     },
     {
-     "art": "The hook lifting the bucket by its thread handle out of the bottle.",
+     "art": "The hook lifting the bucket by its card handle out of the bottle.",
      "caption": "3. Hook the handle and lift the bucket out."
     }
    ],
@@ -2119,7 +2111,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "A grown-up cuts the top off a tall plastic bottle. Make a tiny bucket from the bottom of a paper cup, with a thread handle. Put a sweet in it and drop it to the bottom.",
+     "do": "A grown-up cuts the top off a tall plastic bottle. Make a tiny bucket from the bottom of a paper cup. Tape on a loop of thin card as a handle, standing straight up. Put a sweet in the bucket and drop it to the bottom.",
      "say": "A crow called Betty did this in Oxford in 2002. She had a straight wire and a bucket of food at the bottom of a tube. Let's see if you can do what Betty did.",
      "kid": "The sweet is at the bottom. No fingers inside! You only have a straight pipe cleaner.",
      "adult": true,
@@ -2433,27 +2425,6 @@
      "lines": 3,
      "a": "Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.",
      "why": "Each of these was seen in careful tests or long watching, not just told as a story."
-    },
-    {
-     "t": "fill",
-     "p": "Keeping what you learned, so you can use it later, is called ____.",
-     "a": [
-      "memory"
-     ],
-     "why": "Memory is keeping what you learned. A jay that finds seeds months later is using memory."
-    },
-    {
-     "t": "truefalse",
-     "p": "A puppy that bows with the front legs down and the tail up is asking to play.",
-     "a": true,
-     "why": "The play bow means 'let's play, this is not a real fight'."
-    },
-    {
-     "t": "write",
-     "p": "Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.",
-     "lines": 3,
-     "a": "Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.",
-     "why": "Each of these was seen in careful tests or long watching, not just told as a story."
     }
    ]
   },
@@ -2615,21 +2586,21 @@
     },
     {
      "t": "mcq",
-     "p": "Nicola Clayton's team let a scrub jay hide food while another jay watched. Later, when she was alone, the hider dug up her food and hid it again somewhere new. Why might she do this?",
+     "p": "Nicola Clayton's team let a scrub jay hide food while another jay watched. Later, when they were alone, the hider dug up their food and hid it again somewhere new. Why might they do this?",
      "opts": [
-      "The watcher might steal it, so she moved it where the watcher had not seen",
-      "She forgot where she put it",
+      "The watcher might steal it, so they moved it where the watcher had not seen",
+      "They forgot where they put it",
       "Jays always move their food twice",
-      "She wanted the exercise"
+      "They wanted the exercise"
      ],
      "a": 0,
-     "why": "Jays who had been watched moved their food much more often than jays who hid alone. This suggests a jay can keep track of who saw what. Jays who had stolen food themselves did this the most. Picking 'forgot' cannot be right, because she went straight to her hiding places."
+     "why": "Jays who had been watched moved their food much more often than jays who hid alone. This suggests a jay can keep track of who saw what. Jays who had stolen food themselves did this the most. Picking 'forgot' cannot be right, because they went straight to their hiding places."
     },
     {
      "t": "write",
      "p": "Clever Hans could not do sums. Was he clever? Give your reason.",
      "a": "Any reasoned answer, for example: yes, because he could read tiny face changes that people did not even know they made.",
-     "why": "Reading faces is a real skill. The story shows animals can be clever in ways we do not think to test.",
+     "why": "Reading faces is a real skill. The story shows animals can be clever in ways we have not thought to test.",
      "context": "Clever Hans was a horse in Berlin who seemed to do sums, but was really reading people's faces.",
      "lines": 3
     },
@@ -2654,13 +2625,6 @@
      ],
      "a": 0,
      "why": "Dogs have lived alongside people for a very long time, and grow up watching us. Dogs do not have bigger brains than chimpanzees. Chimpanzees can see fingers fine, but are less tuned to follow them."
-    },
-    {
-     "t": "draw",
-     "p": "Draw the four dog moods: relaxed, playful, scared and angry. Show the tail and ears on each.",
-     "a": "Relaxed: loose tail, soft ears. Playful: play bow, tail up. Scared: tail tucked, ears flat. Angry: stiff body, teeth showing, tail stiff.",
-     "why": "Dogs show feelings with tails, ears, mouths and bodies. Reading them keeps you safe.",
-     "art": "Four empty boxes, each with a dog outline."
     },
     {
      "t": "write",
@@ -2741,38 +2705,11 @@
      "context": "In the Thirsty Crow Test, rooks dropped stones into a tube of water to reach a floating worm, and chose big stones first."
     },
     {
-     "t": "match",
-     "p": "Match each scientist to what they found.",
-     "pairs": [
-      [
-       "Ivan Pavlov",
-       "dogs learned to drool at a sound that came before food"
-      ],
-      [
-       "Edward Thorndike",
-       "cats in puzzle boxes escaped a little faster each time"
-      ],
-      [
-       "Wolfgang Kohler",
-       "a chimpanzee fitted two short sticks into one long one"
-      ],
-      [
-       "Gordon Burghardt",
-       "wrote down clear signs that tell play from other things animals do"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each of these scientists found out something about how animals learn, solve problems or play.",
-     "context": "This question is about four more scientists from this unit who studied animal behaviour."
-    },
-    {
      "t": "write",
-     "p": "Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?",
+     "p": "Meera's cat comes running every time the fridge door opens. Meera says her cat understands what a fridge is. Give a simpler explanation, and say how you could test it.",
      "lines": 3,
-     "a": "For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.",
-     "why": "A good test changes one thing at a time and watches what the animal chooses.",
-     "how": "e1",
-     "context": "In the Thirsty Crow Test, rooks dropped stones into a tube of water to reach a floating worm, and chose big stones first."
+     "a": "For example: the cat learned that the sound of the fridge door comes before food. To test it, open a cupboard that makes a similar sound, or open the fridge door very quietly, and see if the cat still comes.",
+     "why": "The simplest explanation that fits is often learning, as in Pavlov's dogs. A good test changes one thing at a time, such as the sound."
     }
    ]
   },
@@ -2938,18 +2875,6 @@
      "lines": 3
     },
     {
-     "t": "mcq",
-     "p": "Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?",
-     "opts": [
-      "Both being born ready and growing up with people matter",
-      "Wolves cannot learn anything",
-      "Dogs do not need to learn it at all"
-     ],
-     "a": 0,
-     "why": "If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.",
-     "context": "This question is about why dogs are so good at reading people."
-    },
-    {
      "t": "write",
      "p": "Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?",
      "lines": 3,
@@ -2958,22 +2883,15 @@
     },
     {
      "t": "mcq",
-     "p": "Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?",
+     "p": "Lakshmi, a girl in Class 4, wants to test whether her neighbour's pet dog follows pointing. Which plan is fairest?",
      "opts": [
-      "Both being born ready and growing up with people matter",
-      "Wolves cannot learn anything",
-      "Dogs do not need to learn it at all"
+      "Hide a treat under one bowl and point at it once",
+      "Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without",
+      "Point at the bowl and only give the dog the treat if they go there"
      ],
-     "a": 0,
-     "why": "If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.",
-     "context": "This question is about why dogs are so good at reading people."
-    },
-    {
-     "t": "write",
-     "p": "Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?",
-     "lines": 3,
-     "a": "For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.",
-     "why": "A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out."
+     "a": 1,
+     "why": "Rubbing the treat on both bowls stops the dog using smell. Many tries, with and without pointing, show whether pointing makes a difference. One try could be luck. Giving the treat only for the pointed bowl would teach the dog during the test.",
+     "context": "This question is about a test of whether a dog follows a pointing finger. A treat is hidden under one of two bowls."
     }
    ]
   }
@@ -3173,7 +3091,7 @@
   "Robot makers study octopus arms to build soft robot arms that can grip things gently.",
   "Laws in India, like the Prevention of Cruelty to Animals Act, 1960, protect animals because they can suffer.",
   "Doctors study animal memory to understand memory loss in people.",
-  "Elephants follow old routes they remember, so wildlife workers protect those routes as safe corridors between forests.",
+  "Elephants follow old routes they remember, so wildlife workers protect those routes as safe corridors between forests, from the Western Ghats to Assam.",
   "Bird counts, like those run by Bird Count India, depend on people who watch birds carefully and know their habits."
  ],
  "spotted": [
@@ -3202,7 +3120,7 @@
    "art": "A myna on a window grill, beak open, beside a kitchen with a pressure cooker."
   },
   {
-   "text": "Elephants at a camp who answer their mahout's call.",
+   "text": "Elephants at a temple in Kerala or a forest camp in Karnataka who answer their mahout's call.",
    "art": "An elephant turning their head at a mahout calling from a river bank."
   },
   {
@@ -3262,10 +3180,6 @@
    "a": "A caw-penter."
   },
   {
-   "j": "What did the horse say when he got the sum wrong?",
-   "a": "Hay, nobody's perfect."
-  },
-  {
    "j": "Why do elephants remember so much?",
    "a": "They keep it all in their trunk."
   },
@@ -3284,10 +3198,6 @@
   {
    "j": "How does a dog stop a video?",
    "a": "They press paws."
-  },
-  {
-   "j": "Why are crows so good at maths?",
-   "a": "They always count on their friends."
   },
   {
    "j": "Why did the cat join the puzzle club?",
@@ -3442,8 +3352,7 @@
  ],
  "song": {
   "topic_level": "sci.animals.L3",
-  "title": "Every Creature Counts",
-  "note": "Topic-level song"
+  "title": "Every Creature Counts"
  },
  "links": [
   {
@@ -3496,30 +3405,10 @@
    "id": "b-pipe",
    "item": "Pipe cleaners (chenille stems)",
    "kind": "material",
-   "why": "For bending hooks in Hook It Like Betty. Rolled kitchen foil works too.",
+   "why": "For bending hooks in the Hook It Like Betty challenge. Rolled kitchen foil works too.",
    "url": "https://www.amazon.in/s?k=pipe+cleaners+chenille+stems",
    "used_in": [
     "c1"
-   ]
-  },
-  {
-   "id": "b-mejane",
-   "item": "Me...Jane, by Patrick McDonnell (picture book, 2011)",
-   "kind": "book",
-   "why": "The true story of Jane Goodall as a child who loved watching animals.",
-   "url": "https://www.amazon.in/s?k=Me+Jane+Patrick+McDonnell",
-   "used_in": [
-    "g1"
-   ]
-  },
-  {
-   "id": "b-dewaal",
-   "item": "Are We Smart Enough to Know How Smart Animals Are?, by Frans de Waal (2016), for parents",
-   "kind": "book",
-   "why": "A readable book for parents on animal minds, from crows to apes.",
-   "url": "https://www.amazon.in/s?k=Are+We+Smart+Enough+to+Know+How+Smart+Animals+Are",
-   "used_in": [
-    "e2"
    ]
   }
  ],
@@ -3712,5 +3601,6 @@
   "who": "Ludwig Edinger first, then Erich Jarvis, Anton Reiner and many others, and later Suzana Herculano-Houzel's team, who counted the neurons",
   "when": "Around 1900, then 2004 to 2016",
   "wrong_idea": "Birds have almost no thinking part in their brains, so they act mostly on instinct. A closer look showed that most of a bird's forebrain does the job of our cortex, and in 2016 neuron counts showed that crows pack in as many as some monkeys."
- }
+ },
+ "playtest": "Played the unit as a family would. Games: counted the 22 True or Tall Tale cards (18 claims and 4 TEST IT cards, all with a back), two mats and tokens; played with 2 and with 4, and the cups and coin are now needed only for the first TEST IT card. In Read My Face I removed the score sheet (it printed as three empty boxes), and wrote one clear game: every player makes a face in every round, with a winner after three rounds. Experiments: worked the thirsty crow test through with a 6 to 7 cm glass (about 66 ml for 2 cm, so about 6 walnut-sized stones, about 32 marble-sized, thermocol hardly any) and kept it; the Clever Hans test needed three people, so the blind round is now optional with a luck comparison for a family of two; the dog pointing test stays optional and outside the core path. Fixed: the Hook It Like Betty bucket had a limp thread handle that no hook can catch, so it now has a stiff card handle; the Training Game now says to count claps; Crow Friends day 1 said the rice goes in the cap; removed an outdoor warning from Play Spotters and extra warnings from Be a Jay; removed duplicate worksheet items (7 repeated questions, plus the second dog-moods drawing and wolf question); changed jay pronouns to they; cut two weak jokes (8 left); removed two books from the buy list that no step needs; removed an internal song note; swapped in Kerala, Karnataka and Assam for a few places. Left as they are: the Descartes view and the claim 'fish and insects cannot feel pain' appear only as old or disputed views with evidence against, so the validator's mind-denial warning is expected for them. The three videos were checked against their YouTube titles."
 }

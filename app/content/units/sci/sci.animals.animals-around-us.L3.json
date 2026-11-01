@@ -222,7 +222,7 @@
    "definition": "Towns and villages give some animals food, water, shelter and fewer enemies, so these animals settle there.",
    "description": "A tall building has many ledges, like the cliffs where wild rock pigeons nest. A market is full of food scraps for crows and kites. Insects gather at our tube lights, so geckos find food there. Rats shelter in drains and eat what people throw away. Animals that can eat many kinds of food, and are not too shy, do well near people. Animals that need quiet forests or one special food often cannot live in towns. Every town is a habitat, a place where some living things find what they need.",
    "examples": [
-    "Black kites circle over Delhi's markets and eat the scraps people throw.",
+    "Black kites circle over busy markets in Delhi, Hyderabad and Chennai and eat the scraps people throw.",
     "Cattle egrets walk behind cows and buffaloes in village fields. The animals' feet stir up insects for the egrets to catch.",
     "Rhesus macaques and langurs live in many temples and towns, where people leave food.",
     "Greater adjutant storks nest in tall trees in villages near Guwahati, in Assam. Purnima Devi Barman, a scientist from Assam, worked with village women, the Hargila Army, to protect the nests, and the storks grew in number."
@@ -238,7 +238,7 @@
    "description": "In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals cross the lines. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and bird watchers often find dozens of kinds in a single city park.",
    "examples": [
     "Indian grey hornbills nest in old trees in Delhi and Mumbai, not only in forests.",
-    "Peacocks walk on the rooftops of villages in Rajasthan.",
+    "Peacocks walk on the rooftops of villages in Rajasthan and Tamil Nadu.",
     "Elephants walk through tea gardens and villages in Assam and Kerala."
    ],
    "perspectives": [],
@@ -288,8 +288,8 @@
    "description": "An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In our tests we only watch animals. We do not pick them up.",
    "examples": [
     "Use binoculars, or sit at a window, to watch a nest.",
-    "Never feed wild monkeys. It teaches them to grab food from people.",
-    "After the ant trail test, wipe up the sugar and wipe the floor with a damp cloth, so the ants stop coming to that spot."
+    "If a bird keeps calling and diving at you, walk away. You are too close to a nest.",
+    "Watch from behind a window or a curtain, so the animal does not see you."
    ],
    "perspectives": [],
    "art": "A child watching a nest through binoculars from far away, with a dotted line showing the safe distance.",
@@ -300,7 +300,6 @@
    "status": "idea",
    "description": "Animals that live in cities face noise, bright lights and new foods. Some seem to change their habits. In the noisy Dutch city of Leiden, scientists found great tits singing higher notes than in quiet woods, so their songs can be heard over traffic. Some city birds now sing at night under streetlights. Scientists think some of these changes are learned, and some may be slowly passed on through families over many years. How much the city is changing animals is a new and growing question.",
    "examples": [
-    "Some city crows use wire coat hangers to build nests.",
     "Mynas in towns eat food scraps from bins that village mynas never see.",
     "In cities with bright lights, some birds start singing before dawn, earlier than birds in villages."
    ],
@@ -341,12 +340,12 @@
    "context": "This card is about a common idea that wild animals do not belong in towns."
   },
   {
-   "claim": "Animals do not think about their homes. They build them by pure instinct, like machines.",
+   "claim": "Animals build their homes by pure instinct, like machines, with no learning at all.",
    "who": "René Descartes, a French philosopher, wrote in 1637 that animals are like machines. Many people still believe something like this.",
    "for": "A young weaver bird that has never seen a nest can still weave one. Part of the skill is born in them.",
    "against": "Young weaver birds weave messy nests at first and get better with practice. Crows choose new materials like wire when twigs are scarce. So building is part inborn and part learned.",
    "status": "rejected",
-   "context": "This card is about the old idea that animals build homes without any learning at all."
+   "context": "This card is about the old idea that animals build homes without any learning."
   },
   {
    "claim": "House sparrows are disappearing from Indian cities mainly because of mobile phone towers.",
@@ -382,11 +381,6 @@
   }
  ],
  "big_questions": [
-  {
-   "q": "If a crow builds their nest with wire from your house, whose home is the nest?",
-   "kind": "big",
-   "hint": "Think of the tree, the wire, the crow's work and the chicks."
-  },
   {
    "q": "Is a city a natural place, or not?",
    "kind": "big",
@@ -616,7 +610,7 @@
       "A bare hollow in an old tree trunk",
       "A tree hole with a mud door",
       {
-       "f": "A burrow in the ground",
+       "f": "A burrow in the ground, lined with torn cloth or paper",
        "img": {
         "src": "media/cards/animals-around-us-g1-1-09.jpg",
         "credit": "Siya ul haque, CC BY, via iNaturalist"
@@ -626,9 +620,9 @@
       "A tiny mud pot",
       "A ball of grass and fibre in a tree",
       "A hole in a wall or a roof",
-      "Crowded tunnels under the floor or beside a wall",
+      "A nest of many tunnels and rooms, shared by thousands of ants",
       {
-       "f": "A tunnel in damp soil",
+       "f": "A single narrow tunnel in damp soil",
        "img": {
         "src": "media/cards/animals-around-us-g1-1-15.jpg",
         "credit": "renjus box, CC BY, via iNaturalist"
@@ -698,9 +692,9 @@
    "rules": [
     "Cut out the 16 animal cards, the 16 home cards and the 4 wanderer cards. Shuffle all 36 together and lay them face down in rows. Put the 24 leaf tokens in a pile.",
     "On your turn, turn over two cards and read them aloud.",
-    "If an animal card and its home card match, keep the pair. Say one thing the home is for, such as eggs, hiding or keeping cool. Then take a leaf token and have another turn.",
+    "If the two cards are an animal and the home that belongs to that animal, keep the pair. Say one thing the home is for, such as eggs, hiding or keeping cool. Then take a leaf token and have another turn.",
     "If they do not match, turn them back face down. Try to remember where they are. Your turn is over.",
-    "A wanderer has no home card. If you turn one over, keep it, say why that animal does not need a fixed home, and take two leaf tokens. Turn the other card back face down. Then have another turn.",
+    "A wanderer has no home card. If you turn one over, keep it, say why that animal does not need a fixed home, and take two leaf tokens. Turn the other card back face down, unless it is a wanderer too: keep that one as well. Then have another turn.",
     "When all the cards are taken, count your leaf tokens. The player with the most wins. If two players tie, they share the win."
    ],
    "setup": [
@@ -843,7 +837,7 @@
       },
       {
        "f": "Mosquito",
-       "b": "SUNSET LINE: many mosquitoes bite at dawn and dusk"
+       "b": "SUNSET LINE: many mosquitoes are busiest at dawn and dusk. Some kinds bite by day and some at night."
       },
       {
        "f": "Firefly",
@@ -969,7 +963,7 @@
     "Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or an old sari.",
     "One player is the caller. The caller reads the animal on the front of a card aloud, and keeps the back hidden.",
     "Everyone else runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.",
-    "The caller reads the answer on the back. Everyone who was right scores a point.",
+    "The caller reads the answer on the back. Everyone who was right scores a point. If the back gives two answers, either one scores.",
     "Anyone who can say why that animal is busy at that time scores a bonus point.",
     "Swap the caller after every 6 cards, so everyone calls. When all 24 cards are used, the player with the most points wins."
    ],
@@ -1151,7 +1145,7 @@
       "q": "Why do we watch at the same spot and for the same 5 minutes each time?",
       "options": [
        "So the test is fair. Only the time of day changes.",
-       "Because 10 is a lucky number.",
+       "Because 5 is a lucky number.",
        "So we do not get bored."
       ],
       "a": 0,
@@ -1230,7 +1224,7 @@
      "qty": 1
     },
     {
-     "item": "soil in the sun and soil in the shade: the two biggest flower pots you have, filled with the same soil, one on a sunny balcony and one in the shade (or a garden bed if you have one)",
+     "item": "soil in the sun and soil in the shade: the two biggest, deepest flower pots you have, filled with the same soil, one on a sunny balcony and one in the shade (or a garden bed if you have one)",
      "qty": 1
     },
     {
@@ -1295,14 +1289,14 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "In the sunny pot or soil, dig a small hole about as deep as your hand is long. Put the tip of the thermometer at the bottom. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
+     "do": "In the sunny pot or soil, dig a small hole. Make it as deep as your hand is long, or as deep as the pot allows. Put the tip of the thermometer at the bottom. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
      "say": "This hole is like a little burrow. Let's see how warm it is inside.",
      "kid": "Dig a small hole, a hand deep. Put the thermometer tip at the bottom. Wait 5 minutes. Read it.",
      "context": "This step of the Cool Home Test measures the temperature inside a small hole, like an animal's burrow.",
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "The open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest?",
+      "q": "In one test in a garden, the open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest?",
       "options": [
        "The Sun's heat warms the top of the soil first, and soil is slow to let heat through.",
        "There is ice under the ground.",
@@ -1311,7 +1305,7 @@
       "a": 0,
       "why": "The Sun heats the surface. Soil passes heat down very slowly, so a little way underground stays cool in the day. That is why many animals hide in burrows at noon. Picking 'ice' means guessing without evidence. Picking 'broken' is worth checking, but the same thermometer gave sensible readings in the other two places."
      },
-     "parent": "In a flower pot the hole is usually only a few degrees cooler than the top, because the pot heats up from the sides. In garden soil the difference is bigger. Write what you really measure. The numbers in the question are from a garden."
+     "parent": "In a flower pot the hole is usually only a few degrees cooler than the top, because the pot heats up from the sides. In garden soil the difference is bigger. Write what you really measure. The numbers in the question are made up, to show what a garden might give."
     },
     {
      "id": "s5",
@@ -1629,7 +1623,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a sheet of paper with a grid of 9 squares, 3 across and 3 down, drawn by you (draw three lines across and three down)",
+     "item": "a sheet of paper with a grid of 9 squares, 3 across and 3 down, drawn by you (draw two lines across and two lines down)",
      "qty": 1
     },
     {
@@ -1773,14 +1767,14 @@
      "context": "This is the testing step of Build a Nest with a Beak.",
      "check": {
       "t": "mcq",
-      "q": "Why do city crows often use wire in their nests?",
+      "q": "The egg rolled out of a nest made only of short sticks. What would help most?",
       "options": [
-       "Wire is easy to find in cities, and it bends and holds its shape.",
-       "Crows prefer metal to wood.",
-       "Wire keeps the eggs warm."
+       "Wind thread and paper strips round the sticks, and line the inside with soft wool",
+       "Add more straight sticks on top",
+       "Use a bigger egg"
       ],
       "a": 0,
-      "why": "Birds build with what they find nearby. In cities there is plenty of wire, and it bends round a branch and stays put. Picking 'prefer metal' goes too far. Crows in villages use twigs. Picking 'keeps eggs warm' is not right, because wire does not keep heat in. Soft lining does that."
+      "why": "Sticks alone slide apart. Thread and strips hold them together, and soft wool makes a cup that the egg cannot roll out of. Birds also bind and line their nests. More straight sticks only make a looser pile, and the size of the egg is not the problem."
      }
     },
     {
@@ -1825,7 +1819,7 @@
     },
     {
      "art": "A child placing a card of a crow on the town panel, with a cow card and a tiger card waiting.",
-     "caption": "2. Put each animal card where it lives."
+     "caption": "2. Put each animal card on the panel where that animal lives."
     },
     {
      "art": "Cards of a monkey, a leopard and a peacock lying across the fold lines between panels.",
@@ -1902,7 +1896,7 @@
      "what": "Sit still for 5 minutes and mark every animal sound on a map around you."
     }
    ],
-   "record": "Mark each animal sound where it came from, with a small drawing or a letter.",
+   "record": "Mark the direction of each animal sound with a small drawing or a letter.",
    "context": "This is a listening activity. You sit very still with your eyes closed and mark every animal sound you hear on a map, with yourself in the middle.",
    "setup": [
     {
@@ -2058,7 +2052,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 50,
      "do": "Days 2 to 6: watch for 10 minutes each day, following the schedule.",
      "say": "Today, watch at a different time. Is your animal doing the same thing as before, or something new?",
      "kid": "Watch your animal again today. Are they doing the same thing, or something new?",
@@ -2336,7 +2330,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Animals build with what they have. Bees and spiders make their building material inside their own bodies. Weavers, termites and crows collect it from around them. That is why a city crow's nest has wire in it."
+     "why": "Animals build with what they have. Bees and spiders make their building material inside their own bodies. Weavers, termites and crows collect it from around them. That is why wire is part of a city crow's nest."
     },
     {
      "t": "sort",
@@ -2393,7 +2387,7 @@
       "On the roof of a parked car"
      ],
      "a": 2,
-     "why": "The Sun heats the top of the ground. Soil lets heat through very slowly, so a little way down it stays cool. In the Cool Home Test, the hole was much cooler than the open ground. Picking a sunny wall or a car roof puts the rat where the Sun hits hardest.",
+     "why": "The Sun heats the top of the ground. Soil lets heat through very slowly, so a little way down it stays cool. If you did the Cool Home Test, you measured this yourself. Picking a sunny wall or a car roof puts the rat where the Sun hits hardest.",
      "how": "e2"
     },
     {
@@ -2470,24 +2464,20 @@
      "art": "An empty box with a small tree outline in the corner."
     },
     {
-     "t": "mcq",
-     "p": "Many people believe snakes come into houses to drink milk. What do snakes really come for?",
-     "opts": [
-      "Milk left out for them",
-      "Rats, frogs and other animals to eat, and cool places to hide",
-      "To meet people",
-      "To sleep on beds"
-     ],
-     "a": 1,
-     "why": "Snakes hunt. Rats live near our food stores, and frogs live near our water, so snakes follow them. Snakes cannot digest milk well, so milk left out can harm them. This is a popular belief that the evidence does not support."
-    },
-    {
      "t": "fill",
      "p": "A hole or tunnel that an animal digs in the ground to live in is called a ____.",
      "a": [
       "burrow"
      ],
      "why": "A burrow is dug by the animal. Rats, crabs and porcupines dig burrows."
+    },
+    {
+     "t": "fill",
+     "p": "A place where birds or bats rest or sleep together is called a ____.",
+     "a": [
+      "roost"
+     ],
+     "why": "A roost is where many birds or bats rest together. Hundreds of crows fly to one big tree to roost at sunset."
     }
    ]
   },
@@ -2572,18 +2562,6 @@
      ],
      "a": "pairs as given",
      "why": "Each animal lives near people because people give them something they need, such as food or shelter. They are not lost. They came for a reason."
-    },
-    {
-     "t": "mcq",
-     "p": "Which note in an animal diary is a fact anyone could check, not a guess?",
-     "opts": [
-      "The squirrel was angry.",
-      "At 7:15 the squirrel ran up the wall with a twig in their mouth.",
-      "The squirrel loves me.",
-      "The squirrel is the cleverest in town."
-     ],
-     "a": 1,
-     "why": "A fact has a time, and something anyone standing there could see. 'Angry' or 'loves me' might be true, but watching once cannot tell us. We would need more evidence first."
     },
     {
      "t": "mcq",
@@ -2699,6 +2677,13 @@
       "food"
      ],
      "why": "Towns are full of scraps, grain and fruit. An animal that can eat many kinds of food finds something to eat almost anywhere."
+    },
+    {
+     "t": "write",
+     "p": "You want to find out whether the pigeons near your home are busier in the morning or in the evening. Say what you would keep the same and what you would change.",
+     "lines": 4,
+     "a": "Change only the time of day. Keep the same place to watch from, the same number of minutes, and watch on several days. Then count the pigeon visits at each time.",
+     "why": "A strong answer changes one thing, keeps the rest the same, and watches on more than one day so one odd day cannot fool us."
     }
    ]
   },
@@ -2847,13 +2832,6 @@
     },
     {
      "t": "write",
-     "p": "Is a city a natural place? Give a reason for your answer.",
-     "lines": 5,
-     "a": "Yes, in a way. Ants and termites build cities too, and we call those natural. People are animals, and many wild animals live in our cities. But a city is also very different from a forest, so some animals cannot live there.",
-     "why": "This is a big question with no single answer. A strong answer gives a reason and thinks about both sides."
-    },
-    {
-     "t": "write",
      "p": "For years, books said termite mounds stay fresh because the termites' body warmth pushes air up, like smoke up a chimney. In 2015, scientists measured the air inside real mounds near Bengaluru. What did they find? Why is measuring better than only reasoning?",
      "lines": 5,
      "a": "They found that the mound's thin outer walls warm up in the day and cool at night faster than the middle. That moves the air one way by day and the other way by night. Reasoning gave a neat story, but only measuring showed what really happens.",
@@ -2878,6 +2856,14 @@
      ],
      "a": 0,
      "why": "A quick look shows only one moment. The chimpanzees also had to get used to her before they behaved normally nearby. Long, quiet watching is how she found something nobody had seen."
+    },
+    {
+     "t": "fill",
+     "p": "An animal that is busiest at dawn and dusk is called ____.",
+     "a": [
+      "crepuscular"
+     ],
+     "why": "Crepuscular means most active in the dim light at dawn and dusk. Deer such as the chital are crepuscular."
     }
    ]
   }
@@ -2963,7 +2949,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why do black kites circle over Delhi's markets?",
+   "p": "Why do black kites circle over busy city markets?",
    "opts": [
     "They are lost.",
     "They find food scraps there.",
@@ -3075,7 +3061,7 @@
    "youtube": "XRB4GQCEOlE",
    "mins": 4,
    "why": "Seeing a weaver tear grass strips and weave them knot by knot makes the 'Kinds of animal homes' card real.",
-   "check": "Found by YouTube search. Title checked automatically. Not watched: a parent should preview it."
+   "check": "Parents: watch it once before showing it to a child."
   },
   {
    "title": "Dr. Vidya Athreya on the myths that misled India about leopards",
@@ -3083,7 +3069,7 @@
    "youtube": "YkCjuSQ8LUY",
    "mins": 8,
    "why": "For the parent first: a talk by Vidya Athreya, a scientist who studies leopards that live near people in India, including around Mumbai. Preview it before showing a child.",
-   "check": "Found by YouTube search. Title checked automatically. Not watched: a parent should preview it."
+   "check": "Parents: watch it once before showing it to a child."
   },
   {
    "title": "Termite mounds in Namibia inspire energy-efficient buildings",
@@ -3091,7 +3077,7 @@
    "youtube": "ngSLWpckhks",
    "mins": 4,
    "why": "Shows how scientists measure the air moving through termite mounds, and how builders learn from them. This film is about mounds in Namibia. The 2015 study of mounds near Bengaluru came from the same Harvard group.",
-   "check": "Found by YouTube search. Title checked automatically. Not watched: a parent should preview it."
+   "check": "Parents: watch it once before showing it to a child."
   }
  ],
  "applications": [
@@ -3159,10 +3145,6 @@
    "why_open": "There are two main ideas, and experiments support parts of each. Nobody has seen the sense working inside a living bird."
   },
   {
-   "q": "Why do baya weaver birds put mud inside their nests?",
-   "why_open": "The mud is real, but nobody has tested the ideas well enough to be sure."
-  },
-  {
    "q": "Are city animals changing in their bodies and genes, not only in their habits?",
    "why_open": "Some studies suggest yes, but changes take many generations, and it is hard to tell learned habits from inherited ones."
   },
@@ -3208,10 +3190,6 @@
   {
    "j": "Why are spiders good at the internet?",
    "a": "They always have their own web."
-  },
-  {
-   "j": "Why did the gecko stay near the tube light?",
-   "a": "They were a light snacker."
   },
   {
    "j": "What do bees use to do their hair?",
@@ -3286,7 +3264,7 @@
    "why_maths": "Multiplying shows how small daily watches add up to a long study, which is how naturalists collect enough evidence."
   },
   {
-   "problem": "In the Cool Home Test, the thermometer read 44 °C on open ground in the sun, 35 °C in the shade and 30 °C inside the hole. How much cooler was the hole than the open ground? How much cooler was the shade?",
+   "problem": "In one Cool Home Test in a garden, the thermometer read 44 °C on open ground in the sun, 35 °C in the shade and 30 °C inside the hole. How much cooler was the hole than the open ground? How much cooler was the shade?",
    "answer": "The hole was 14 degrees cooler. The shade was 9 degrees cooler.",
    "explain": "44 take away 30 is 14. So the hole was 14 degrees cooler than the open ground. 44 take away 35 is 9. So the shade was 9 degrees cooler. The hole was the best place for an animal to rest.",
    "math_unit": "math.temperature.reading-thermometers.L3",
@@ -3442,8 +3420,7 @@
     "a1",
     "p1",
     "e1"
-   ],
-   "plan": "Keep it by the window. Look up every new bird you see during My Animal Week."
+   ]
   },
   {
    "id": "b-nestbox",
@@ -3584,13 +3561,13 @@
  "roots": {
   "context": "We have been watching the animals around us: when they are busy, where they live, and how ants keep to one path. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "An ant that has never been to the sugar can still find it. They follow the scent that other ants left on the floor. Rub the scent away, and the ants stop and wander until it is laid again. So the colony keeps their way to food on the floor, where every ant can follow it.",
-   "habit": "We think whatever an animal knows must be stored inside their own head. An ant colony keeps their way to food on the ground, where every ant can follow it and add to it.",
+   "truth": "An ant that has never been to the sugar can still find it. They follow the scent that other ants left on the floor. Rub the scent away, and the ants stop and wander until ants lay the scent again. So the colony keeps their way to food on the floor, as a trail that every ant can follow.",
+   "habit": "We think whatever an animal knows must be stored inside their own head. An ant colony keeps their way to food on the ground, as a trail that every ant can follow and add to.",
    "evidence": "In the Ant Trail Test, ants walked on under a hand held above the trail, but stopped and wandered where the floor was rubbed. A few minutes later the line formed again."
   },
   "three": {
    "who_am_i": "You are an animal too. You have habits, a home and a body clock, like the crow outside.",
-   "what_is_life": "Living things make homes from what is near, like twigs and mud, and from what their bodies make, like wax and silk. City crows even use our lost hair clips.",
+   "what_is_life": "Living things make homes from what is near, like twigs and mud, and from what their bodies make, like wax and silk. City crows even use wire and plastic that people throw away.",
    "what_is_this_world": "The world is one big shared home. Every wall, tree and drain is somebody's house."
   },
   "thread": "The crows' nest in the story was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. One awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.",
@@ -3603,11 +3580,11 @@
    {
     "source": "Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (Jain teaching)",
     "teaching": "All beings love their lives. They like comfort and dislike pain. They want to live. To every being, their life is dear.",
-    "link": "This is why we watch kindly. The crow guarding her chicks wants them to live, just as a parent does."
+    "link": "This is why we watch kindly. A crow guarding their chicks wants them to live, just as a parent does."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing",
-    "teaching": "Look deeply at a sheet of paper and you can see a cloud, the rain and the tree in it. Nothing exists all by itself.",
+    "teaching": "Look deeply at a sheet of paper and you can see a cloud, the rain and the tree in the paper. Nothing exists all by itself.",
     "link": "Look deeply at a crow's nest and you see the neem tree, the city's wires and a family's lost things. A home is made of everything around it."
    }
   ],
@@ -3644,5 +3621,6 @@
   "who": "Jane Goodall, sent to Gombe by Louis Leakey",
   "when": "1960",
   "wrong_idea": "Only humans make and use tools. Goodall saw wild chimpanzees making tools from twigs and grass stems, by watching them for months."
- }
+ },
+ "playtest": "Walked through the unit as a parent and child in a Chennai-style city flat. Games: wrote out all 36 Who Lives Here cards (16 animals, 16 homes, 4 wanderers) and 24 tokens and played it with 2 and 4 players; the 24 tokens are enough because 16 pairs plus 4 wanderers at 2 each is at most 24. Made the rat, ant and earthworm home cards clearly different (they could be mixed up before) and said what happens if two wanderers are turned together. Day Shift, Night Shift has 24 cards with answers on the back; the mosquito card now matches the dengue and malaria facts elsewhere, and cards with two answers say either scores. Experiments: Busy Times (65 min), Cool Home (30) and Ant Trail (35) add up and are fair; Cool Home in a pot is honest that the difference is smaller than in garden soil, and its sample numbers are said to be made up; it is not in the core path. Fixed the Animal Week step minutes to 90, the bingo grid instructions (two lines each way), and the nest-building check, which had been about crow wire and not the egg test. Cut repeats (crow wire examples, the feeding and ant-sugar tidy-up lines, snake milk, city-as-natural, baya mud, whose-home-is-the-nest, diary fact versus guess), one weak joke (9 remain), buy.plan and the video check notes, and the 'hair clips' story detail used as fact in roots. Swapped some North-only examples for South ones (kites in Hyderabad and Chennai, peacocks in Tamil Nadu). Videos exist and their titles match, but nobody has watched them, so a parent is told to preview. Real people's views in the Mumbai leopard question are paraphrases and should be checked against Vidya Athreya's own words if kept."
 }

@@ -380,8 +380,8 @@
    "status": "debated",
    "description": "In every part of India, people have long eaten what grows nearby, at that time of year. Ayurveda books describe how food should change with each of the six seasons, or ritus. This idea is called ritucharya. Grandparents say things like 'eat curd rice and buttermilk in summer' and 'eat til and jaggery in winter'. Some of this matches what science knows. Some has not been tested.",
    "examples": [
-    "Summer: watermelon, tender coconut, buttermilk, aam panna and cucumber, all very watery.",
-    "Winter: sarson ka saag, gajar halwa, bajra roti, til laddoo and peanuts, all filling and rich.",
+    "Summer: watermelon, tender coconut, buttermilk (neer mor), aam panna and cucumber, all very watery.",
+    "Winter: sarson ka saag, gajar halwa, til laddoo, and the jaggery and sesame sweets of Pongal and Sankranti, all filling and rich.",
     "Rice and fish in Bengal and Kerala, where there are many rivers and plenty of rain. Bajra and jowar in dry Rajasthan, where little water falls."
    ],
    "perspectives": [
@@ -614,7 +614,7 @@
    "But the seeds survived. After the war, they went out from St Isaac's Square to farms across the country, packet by packet. They were sown in spring soil. They woke up and ate their lunch and pushed out roots and shoots, and grew, and made more seeds, and those seeds made more.",
    "Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds came, many generations later, from seeds that lived through that winter. Now they turn their leaves to the Sun."
   ],
-  "epiphany": "For the parent: Nina's turn comes when she sees that seeds are not only food. Each seed is a living baby plant with a store of food, waiting to grow. Eaten, a seed is one mouthful. Planted, it becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years.",
+  "epiphany": "For the parent: Nina's turn comes when she sees that seeds are not only food. Each seed is a living baby plant with a store of food, waiting to grow. Eaten, a seed is one mouthful. Planted, a seed becomes a plant that makes many more seeds. Most of our food is seeds or other plant parts. Every bit of it comes from living things that keep making more of themselves. That is why farmers have always kept back their best seeds, even in hungry years.",
   "ask": [
    "Why did the scientists in the story not cook the seeds, even though they were starving?",
    "What did Nina remember about the inside of a pea? What were the two fat halves for?",
@@ -763,13 +763,13 @@
    "rules": [
     "Put the 4 SUN cards in a row in the middle of the table. Every chain starts from a SUN card, and any number of chains can start from the same SUN. Shuffle the other 33 cards and deal 5 to each player. Put the rest face down as a pile.",
     "On your turn, play cards from your hand to start a new chain or to add to a chain already on the table, yours or anyone's. To start a chain, put a plant (or Tiny algae in the sea) next to a SUN card. To add to a chain, put the next card at its end.",
-    "A chain must make sense going forwards. For example: SUN, Grass, Cow, Milk, Curd. A chain does not need an animal: SUN, Rice plant, Rice is a full chain.",
+    "A chain must make sense going forwards. For example: SUN, Grass, Cow, Milk. A chain does not need an animal: SUN, Rice plant, Rice is a full chain.",
     "Say the chain out loud: 'The Sun fed the grass. The grass fed the cow. The cow made milk.' If everyone agrees each step is true, you score 1 point for each card you played this turn. If anyone thinks a step is wrong, talk it over; a wrong card goes back to your hand and scores nothing.",
-    "HELPER cards join a chain where microbes change a food: Milk, HELPER: curd bacteria, Curd. Rice plant, HELPER: idli microbes, Idli.",
+    "HELPER cards show where microbes change a food. Curd must come right after HELPER: curd bacteria, and Idli right after HELPER: idli microbes. For example: Milk, HELPER: curd bacteria, Curd. Rice plant, HELPER: idli microbes, Idli.",
     "EARTH cards: play one next to your chain for 1 bonus point if you can say where that salt or water came from (the sea, the rocks, the rain).",
     "The SURPRISE card needs no SUN. Play it alone and explain what feeds the animals at a deep-sea vent. A good explanation scores 3 points.",
     "At the end of your turn, draw cards from the pile until you hold 5 again. If you could not play any card, put back up to 2 cards at the bottom of the pile and draw 2 new ones.",
-    "Keep score on a piece of paper. When the pile is empty, play on until nobody can play any more card. The player with the most points wins. If points are equal, the players share the win."
+    "Keep score on a piece of paper. When the pile is empty, play on until nobody can play any more cards, or until a whole round passes with no one playing. The player with the most points wins. If points are equal, the players share the win."
    ],
    "flow": [
     {
@@ -804,7 +804,7 @@
      "do": "1. Take turns playing cards and building chains. 2. Say your chain out loud. 3. Others agree or challenge each step. 4. Write each score on paper. 5. Draw cards back up to 5.",
      "say": "Say each step of your chain. If anyone thinks a step is wrong, they can challenge it, and we decide together.",
      "kid": "Play cards to make a chain. Say every step. Others can challenge a wrong step! Then draw back up to 5 cards.",
-     "parent": "Good chains: SUN, Rice plant, Rice. SUN, Grass, Cow, Milk, HELPER: curd bacteria, Curd. SUN, Tiny algae in the sea, Small fish, Big fish, Fish curry. SUN, Sugarcane, Jaggery. Challenge wrong steps kindly: 'Does a hen make honey?' For the SURPRISE card, a good answer is this. Deep-sea microbes make food from chemicals in hot vent water. They need no sunlight at all."
+     "parent": "Good chains: SUN, Rice plant, Rice. SUN, Wheat plant, Chapati. SUN, Grass, Cow, Milk, HELPER: curd bacteria, Curd. SUN, Tiny algae in the sea, Small fish, Big fish, Fish curry. SUN, Sugarcane, Jaggery. Challenge wrong steps kindly: 'Does a hen make honey?' For the SURPRISE card, a good answer is this. Deep-sea microbes make food from chemicals in hot vent water. They need no sunlight at all."
     },
     {
      "id": "s4",
@@ -865,7 +865,7 @@
         "credit": "Kristof Zyskowski, CC BY, via iNaturalist"
        }
       },
-      "Cauliflower",
+      "Tamarind",
       "Clove",
       "Mango",
       "Tomato",
@@ -930,7 +930,7 @@
     },
     {
      "kind": "tokens",
-     "title": "10 question tokens (print one set for each player)",
+     "title": "10 question tokens for each player (print this page once for each player)",
      "items": [
       "❓",
       "❓",
@@ -1129,7 +1129,7 @@
     },
     {
      "t": "write",
-     "p": "A girl finds mushrooms growing on a damp log in a dark corner of the garden. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?",
+     "p": "Mushrooms grow on a damp, dead log in a shady corner. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?",
      "lines": 3,
      "a": "The tulsi is a plant and makes her food from air and water using sunlight, so in the dark she cannot make new food. Mushrooms are fungi. They do not make food from light. They feed on the dead wood of the log, so they can grow in the dark.",
      "why": "A strong answer says how each one gets food: the plant makes food with light, the fungus takes food from dead things."
@@ -1311,12 +1311,22 @@
      "why": "Botanists call any part that grows from a flower and holds seeds a fruit. Bhindi is full of seeds, so it is a fruit, even though a cook calls it a vegetable. Potato is a stem, radish is a root and keerai is leaves."
     },
     {
-     "t": "write",
-     "p": "Ghee comes from a cow. Write the whole chain, going back from ghee to where its energy began.",
-     "lines": 3,
-     "a": "Ghee is made from butter. Butter is made from milk. The cow made milk from the grass she ate. The grass made their food using sunlight. So the chain is: Sun, grass, cow, milk, butter, ghee.",
-     "why": "A strong answer reaches the Sun with no missing steps. Every animal food goes back to a plant, and every plant goes back to the Sun.",
-     "how": "a3"
+     "t": "order",
+     "p": "Put the steps of making curd at home in order.",
+     "items": [
+      "Bacteria feed on the milk, and the milk turns thick and sour",
+      "Stir in a spoon of old curd",
+      "Keep the katori in a warm place overnight",
+      "Let boiled milk cool until it is just warm"
+     ],
+     "a": [
+      "Let boiled milk cool until it is just warm",
+      "Stir in a spoon of old curd",
+      "Keep the katori in a warm place overnight",
+      "Bacteria feed on the milk, and the milk turns thick and sour"
+     ],
+     "why": "Hot milk would kill the bacteria, so the milk cools first. The old curd brings the bacteria. Warmth lets them work overnight, and they turn the milk into curd.",
+     "how": "e1"
     },
     {
      "t": "mcq",
@@ -1368,7 +1378,7 @@
        "says": "Curd is a microbe food, because bacteria turned the milk into curd."
       },
       {
-       "who": "Meenakshi, her cousin",
+       "who": "Meenakshi, her classmate",
        "says": "Curd is a plant food, because the cow made the milk from grass."
       }
      ],
@@ -1390,7 +1400,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these foods into usual summer foods and usual winter foods in north India.",
+     "p": "Sort these into usual summer foods and usual winter foods in India.",
      "cats": [
       "Summer",
       "Winter"
@@ -1401,7 +1411,7 @@
        "Summer"
       ],
       [
-       "sarson ka saag",
+       "til-jaggery sweets of Pongal and Sankranti",
        "Winter"
       ],
       [
@@ -1422,7 +1432,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Mangoes and watermelons ripen in summer, and buttermilk cools us. Mustard greens and carrots grow in winter, and til laddoo gives lots of energy in the cold."
+     "why": "Mangoes and watermelons ripen in summer, and buttermilk cools us. Mustard greens and carrots grow in winter, and sesame and jaggery sweets give lots of energy in the cold."
     },
     {
      "t": "mcq",
@@ -1571,19 +1581,6 @@
      "how": "e3"
     },
     {
-     "t": "mcq",
-     "p": "You want to find out if the added curd is what turns milk into curd. Which test is best?",
-     "opts": [
-      "Compare warm milk with curd to warm milk without curd",
-      "Compare warm milk with curd to cold milk without curd",
-      "Taste lots of curd",
-      "Use a bigger katori"
-     ],
-     "a": 0,
-     "why": "To test one thing, change only that one thing. Both katoris are warm, so only the curd is different. Cold milk without curd changes two things at once, so you could not tell which one mattered.",
-     "how": "e1"
-    },
-    {
      "t": "sort",
      "p": "Sort these by what was at the very start of their food chain.",
      "cats": [
@@ -1619,6 +1616,19 @@
      ],
      "a": "see items",
      "why": "Chapati, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive."
+    },
+    {
+     "t": "mcq",
+     "p": "A girl wants to find out whether methi seedlings need light to turn green. She sets up two trays. Which setup is a fair test?",
+     "opts": [
+      "Same seeds, soil and water. One tray in the sun, one in a dark cupboard",
+      "One tray in the sun with lots of water, one in the dark with a little water",
+      "Methi seeds in the sun, moong seeds in the dark",
+      "One tray in the sun, and no second tray"
+     ],
+     "a": 0,
+     "why": "A fair test changes only one thing, here the light. The seeds, soil and water stay the same. In the other setups, water or the seeds also change, so you could not tell what made the difference.",
+     "how": "p1"
     },
     {
      "t": "write",
@@ -1740,7 +1750,7 @@
      "say": "Each katori gets the same amount of milk. That keeps the test fair.",
      "kid": "Wait for a grown-up to pour the warm milk. Each katori gets the same amount. Label them A, B and C.",
      "adult": true,
-     "parent": "Milk that is too hot kills the bacteria. Milk that is too cold makes them very slow. Just warm, like a baby's bottle, is right."
+     "parent": "Milk that is too hot kills the bacteria. Milk that is too cold makes them very slow. Just warm on the wrist is right."
     },
     {
      "id": "s3",
@@ -1760,7 +1770,7 @@
       "why": "A and B have the same milk, the same katori and the same warm place. Only the curd is different. So if A sets and B does not, the curd made the difference. Picking 'B is in the fridge' mixes B up with C, which is the one we put in the cold."
      },
      "wait": "Leave the katoris overnight, about 8 hours.",
-     "parent": "In cold weather, keep katoris A and B warm all night. Wrap them in a thick towel, or put them in a closed casserole. Curd sets in about 6 to 8 hours when it is warm, and much more slowly when it is cold."
+     "parent": "In cold weather, keep katoris A and B warm all night. Wrap them in a thick towel, or put them in a closed casserole. Curd sets in about 6 to 8 hours when it is warm, and much more slowly when it is cold. If A is still runny in the morning, leave it warm for 3 or 4 more hours before you judge."
     },
     {
      "id": "s4",
@@ -1812,7 +1822,7 @@
      "kid": "Draw a bar for each katori. Make it as tall as its score. Which one is tallest?",
      "check": {
       "t": "mcq",
-      "q": "Katori A, with curd in a warm place, set into curd. Katori C, with curd in the fridge, did not. What does that tell us?",
+      "q": "Suppose katori A, with curd in a warm place, sets into curd. Katori C, with curd in the fridge, does not. What does that tell us?",
       "options": [
        "The curd bacteria need warmth to work",
        "The fridge makes milk sour",
@@ -1987,14 +1997,14 @@
      "kid": "Weigh the soaked moong. Is it heavier? Put 20 soaked seeds on a wet cloth.",
      "check": {
       "t": "mcq",
-      "q": "50 grams of dry moong was soaked overnight. Now it weighs about 100 grams. Where did the extra weight come from?",
+      "q": "Suppose 50 grams of dry moong is soaked overnight and now weighs about 100 grams. Where did the extra weight come from?",
       "options": [
        "The seeds took in water",
        "The seeds grew new seeds",
        "The bowl got heavier"
       ],
       "a": 0,
-      "why": "The seeds took in water through their coats and swelled up. Water has weight, so they got heavier. A baby plant needs water before they can start using their stored food. Picking 'grew new seeds' usually means thinking the seeds multiplied. Count them and you will find the same number, just fatter."
+      "why": "The seeds took in water through their coats and swelled up. Water has weight, so they got heavier. Baby plants need water before they can start using their stored food. Picking 'grew new seeds' usually means thinking the seeds multiplied. Count them and you will find the same number, just fatter."
      },
      "parent": "A typical result is that the moong roughly doubles, from 50 grams to about 100 grams. There will also be less water left in the bowl."
     },
@@ -2049,7 +2059,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using their stored food."
+     "parent": "A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using their stored food."
     }
    ],
    "context": "This is the sprouting test. You give some moong seeds water and keep others dry, to find out what a dry seed needs to start growing.",
@@ -2167,7 +2177,7 @@
      "parent": "Expected results: potato, rice, chapati, raw banana and besan or ragi turn blue-black. Cucumber shows little or none. Paneer, sugar and salt stay brown-orange. Sugar is a surprise: it comes from a plant but is not starch. Salt never came from a living thing. If the paneer turns blue-black, some starch may have been added to it when it was made. Some shop paneer has starch added, so that is a real finding, not a mistake.",
      "check": {
       "t": "mcq",
-      "q": "The paneer stayed brown-orange. What does that tell us?",
+      "q": "Suppose the paneer stays brown-orange. What does that tell us?",
       "options": [
        "Paneer has no starch",
        "The iodine stopped working",
@@ -2201,7 +2211,7 @@
      "do": "Ask your child to say or write: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think, what did you see, and why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, chapati, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk."
+     "parent": "A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, chapati, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk."
     }
    ],
    "context": "This is the iodine test. A drop of iodine turns blue-black on starch, the food a plant packs into their seeds and roots. You test which foods have it.",
@@ -2237,7 +2247,7 @@
      "qty": 20
     }
    ],
-   "safety": "Do not taste anything raw. A grown-up handles eggs and anything breakable.",
+   "safety": "A grown-up handles eggs and anything breakable.",
    "schedule": [
     {
      "day": 1,
@@ -2250,7 +2260,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the four plates with their drawings. 2. Explain what each plate stands for.",
+     "do": "1. On four plates or sheets of paper, draw a leaf (plant), a cow (animal), a mushroom (fungi and tiny living things), and a water drop with a salt crystal (the Earth). 2. Lay them out and explain what each plate stands for.",
      "say": "We are food detectives. Every food came from somewhere. This plate is for plants. This one is for animals. This one is for fungi and tiny living things. And this one is for things that were never alive, from the Earth.",
      "kid": "You are a food detective! Four plates. Plant, animal, tiny life, or Earth. Every food goes on one.",
      "context": "This is the first step of Kitchen Detective. You collect things from the kitchen and sort them by where they came from."
@@ -2261,7 +2271,7 @@
      "do": "1. Your child fetches about 20 things from the kitchen, with your help. 2. For each one, they say where it came from and put it on a plate. 3. If they are not sure, ask: 'Was it ever alive? Did it grow?'",
      "say": "For each one, ask yourself: was this ever alive? Did it grow on a plant, or come from an animal?",
      "kid": "Fetch 20 things from the kitchen. For each one, ask: was it ever alive? Put it on a plate.",
-     "parent": "Tricky ones: jaggery and sugar are plant (sugarcane stem). Tea is plant (leaves). A clove is plant (a dried flower bud). Honey is animal, made by bees from flower nectar, so honey is really plant and animal together. Curd is milk changed by microbes, so it belongs on two plates. Salt and water go on the Earth plate. Mushrooms go with the fungi.",
+     "parent": "Tricky ones: jaggery and sugar are plant (sugarcane stem). Tea is plant (leaves). A clove is plant (a dried flower bud). Honey is animal, made by bees from flower nectar, so honey is really plant and animal together. Put it on the animal plate and talk about the flowers. Curd is milk changed by bacteria. Put it on the tiny-life plate and talk about the milk it came from. Salt and water go on the Earth plate. Mushrooms go with the fungi.",
      "check": {
       "t": "mcq",
       "q": "Which plate does a mushroom go on?",
@@ -2316,7 +2326,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a big steel thali or tray, with six spots marked: root, stem, leaf, flower, fruit, seed",
+     "item": "a big steel thali or tray, and six small paper slips with the words root, stem, leaf, flower, fruit and seed",
      "qty": 1
     },
     {
@@ -2341,7 +2351,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show the six spots on the thali. Name each plant part and say what each one does.",
+     "do": "Write root, stem, leaf, flower, fruit and seed on six paper slips and lay them around the thali. Name each plant part and say what each one does.",
      "say": "A plant has six main parts. Roots take in water. Stems hold the plant up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds hold baby plants. We eat all six!",
      "kid": "Plants have six parts. Root, stem, leaf, flower, fruit, seed. We eat all of them. Can you find one of each?",
      "context": "This is the first step of the Plant-Part Thali. You find one food from each part of a plant."
@@ -2429,7 +2439,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Ask what is for dinner tonight. 2. Choose four foods, including one from an animal. 3. Draw each one on the right side of the page.",
+     "do": "1. Ask what is for dinner tonight. 2. Choose four foods, including one from an animal if your family eats any, such as milk, curd, ghee or egg. 3. Draw each one on the right side of the page.",
      "say": "Let's follow each food backwards, one step at a time, all the way to where it began.",
      "kid": "Pick four foods from dinner. Draw them on the right side of the page.",
      "context": "This is the first step of Trace Your Dinner. You follow foods backwards, step by step, until you reach the place where every food begins."
@@ -2440,7 +2450,7 @@
      "do": "1. For each food, draw arrows going left, one step at a time. 2. Chapati came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.",
      "say": "Before it was chapati, what was it? And before that? Keep going until you can't go back any further.",
      "kid": "Draw arrows going back. What was it before? And before that? Draw the person at each step.",
-     "parent": "Good chains: chapati, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm, toor plant, Sun. For any animal food, go one step further: what did the animal eat?",
+     "parent": "Good chains: chapati, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm in Karnataka, toor plant, Sun. Idli, rice and urad dal, paddy field in Thanjavur or Palakkad, Sun. For any animal food, go one step further: what did the animal eat?",
      "check": {
       "t": "mcq",
       "q": "Curd came from milk. Milk came from a cow. What comes next, going backwards?",
@@ -2619,7 +2629,7 @@
      "say": "Excuse me, which vegetables are fresh now? Which ones come only in winter? Where do these come from?",
      "kid": "Ask your questions politely. Write down the answers.",
      "adult": true,
-     "parent": "Sellers usually know a lot and enjoy being asked. In summer, sellers often name mangoes, jackfruit and watermelon. In the monsoon, corn and jamun. In winter, carrots, peas, cauliflower, sarson and oranges. Apples may come from Himachal Pradesh or Kashmir, and onions often from Maharashtra."
+     "parent": "Sellers usually know a lot and enjoy being asked. In summer, sellers often name mangoes, jackfruit, ice apple (nungu) and watermelon. In the monsoon, corn, jamun and drumstick. In winter, carrots, peas, cauliflower, sarson and oranges. Apples may come from Himachal Pradesh or Kashmir, onions often from Maharashtra, bananas from Tamil Nadu or Kerala, and tea from Assam."
     },
     {
      "id": "s3",
@@ -2668,7 +2678,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up handles the stove and knives if you cook the dish.",
    "schedule": [
     {
      "day": 1,
@@ -2683,7 +2692,7 @@
      "mins": 10,
      "do": "Your child asks an elder: What is the dish called? Who taught you? What goes into it? When was it made?",
      "say": "Every family has dishes that have been cooked for many years. Let's ask about one, and write it down so it is never lost.",
-     "kid": "Ask a grandparent about a dish they loved as a child. What goes in it? Who taught them? Write it down.",
+     "kid": "Ask an older relative or neighbour about a dish they loved as a child. What goes in it? Who taught them? Write it down.",
      "context": "This is the first step of The Travelling Masala Box. You collect a family recipe from an elder, then find out where each ingredient first came from in the world."
     },
     {
@@ -2879,7 +2888,7 @@
      "do": "Ask your child to say or write: what I think, what I saw, why.",
      "say": "Which tray made food? What did you see? Why do you think so?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: plants need light to make food. What I saw: the dark seedlings grew tall but pale and floppy, and the sunny ones were green and strong. Why: in the dark, the seedlings only used up the food stored in their seeds. In the sun, the leaves made new food from light, air and water."
+     "parent": "A good answer sounds like this. What I think: plants need light to make food. What I saw: the dark seedlings grew tall but pale and floppy, and the sunny ones were green and strong. Why: in the dark, the seedlings only used up the food stored in their seeds. In the sun, the leaves made new food from light, air and water."
     }
    ],
    "context": "In this 10-day project, you grow methi or moong greens in two trays, one in the sun and one in the dark. Then you eat the food that light made.",
@@ -2919,7 +2928,7 @@
     "jars, steel dabbas, cloth, paper, plastic bags, neem leaves, dried red chillies, wood ash from a chulha if you have it"
    ],
    "general": [
-    "Dry the seeds well in the sun first. Dry seeds stay dormant.",
+    "Dry the seeds well first, on a plate in a sunny window. Dry seeds stay dormant.",
     "Use an airtight steel dabba or glass jar with a tight lid, so damp air cannot get in.",
     "Keep it off the floor, away from water."
    ],
@@ -2948,7 +2957,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Build one or two designs. 2. Put 50 seeds in each. 3. Place them in the damp place next to the open plate.",
+     "do": "1. Build one or two designs. 2. Put 50 seeds in each. 3. Place them in the damp place next to the open plate. 4. Each day, sprinkle a few drops of water on the open plate and outside each seed safe.",
      "say": "Let's build our two best ideas and put them in the same damp place as the open plate.",
      "kid": "Build your two best ideas. Put 50 seeds in each. Put them next to the open plate.",
      "wait": "Leave them for one week."
@@ -2971,7 +2980,7 @@
       "why": "A seed holds a resting baby plant. Water starts them growing, just like in the sprouting test. Once they sprout, they use up their stored food and can no longer be kept for sowing. Picking 'the dark' is a common mix-up. Seeds can sprout in the dark, because they start on their own stored food."
      },
      "think": "Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?",
-     "parent": "In dry weather, the open seeds may look the same after a week. Then press them: damp seeds feel softer and may smell musty. To copy a monsoon week, sprinkle a few drops of water over the open plate and over the outside of each seed safe every day. A safe that lets damp in will show it."
+     "parent": "If the open seeds look the same after a week, press them: damp seeds feel softer and may smell musty. A safe that lets damp in will show it."
     }
    ],
    "context": "This is a design challenge. You build a seed safe that keeps seeds dry and whole in a damp place for a week. Farmers store seed this way until the next sowing.",
@@ -3326,7 +3335,7 @@
    "art": "Bright green flooded rice fields seen through a train window."
   },
   {
-   "text": "Bee boxes beside yellow mustard fields in winter, in Punjab and Rajasthan.",
+   "text": "Bee boxes beside yellow mustard fields in winter in Rajasthan, or beside sunflower fields in Karnataka.",
    "art": "Wooden bee boxes at the edge of a yellow mustard field."
   },
   {
@@ -3413,14 +3422,6 @@
   {
    "j": "Why did the carrot get a medal?",
    "a": "She was outstanding in her field."
-  },
-  {
-   "j": "Why did the honeybee go to school?",
-   "a": "To get a little more buzz-ness sense."
-  },
-  {
-   "j": "What did the idli batter say in the morning?",
-   "a": "I feel so much better after a good rise."
   },
   {
    "j": "What did the tube worm say when asked about sunshine?",
@@ -3860,5 +3861,6 @@
   "who": "Louis Pasteur, Justus von Liebig and Eduard Buchner",
   "when": "1857 to 1897",
   "wrong_idea": "Fermentation is only a chemical breakdown, like rotting, and the tiny living cells in it play no part."
- }
+ },
+ "playtest": "Played both games in my head with 2 and 4 players. Pass the Sunlight: counted all 37 cards (4 SUN, 9 plants, 6 animals, 13 foods, 2 helpers, 2 Earth, 1 surprise), made the HELPER cards needed (Curd and Idli must follow their helper), took the dead example (Curd right after Milk without a helper), and added an end for when a round passes with no play. Where Am I From: counted the 24 mystery cards, 7 helper cards and the 10 tokens per player, swapped cauliflower for tamarind to add a South Indian food, and made the token page say it is printed once per player. Followed the three experiments, six activities, the project and two challenges step by step: minutes and schedules add up; checks that assumed a result now say 'Suppose'; the curd test says what to do if the kitchen is cold; the plant-part thali and plate sorting now say how to make their labels; the seed safe now sprinkles water each day so the damp test is real, and sun drying moved to a sunny windowsill; the family-recipe safety line (no cooking step) was removed. Removed the repeated 'claim, evidence and reasoning' paragraph (kept once, in the curd test), one repeated curd-test question and the repeated ghee chain question, two weak jokes (8 kept), and fixed a cousin, a baby's bottle and a vegetarian assumption. Added South, West and East examples to the markets, seasons, chains, bee boxes and the summer and winter sort. The three videos were checked to exist with the same titles. I left the sources list as it is (editor notes, not shown to families) and did not change the unit's science or structure."
 }

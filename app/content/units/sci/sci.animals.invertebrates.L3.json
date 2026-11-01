@@ -761,7 +761,7 @@
        }
       },
       {
-       "f": "Silverfish (an insect)",
+       "f": "Silverfish",
        "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: an insect with 6 legs.",
        "img": {
         "src": "media/cards/invertebrates-g1-0-26.jpg",
@@ -826,15 +826,15 @@
     "On your turn, take the top card and read the animal's name out loud. Do not turn it over yet.",
     "Put the card on the BACKBONE mat or the NO BACKBONE mat, with the name facing up. Say one reason, like 'they have a shell' or 'they have bones like a fish'.",
     "Now turn the card over and read the back. If you chose the right mat and gave a reason, make 1 tally mark in your row on the score sheet. A TRICK CARD scores 2. If you chose the wrong mat, move the card to the right one and score nothing.",
-    "The game ends when the pile is empty. Count the cards on each mat and write the two numbers on the tally sheet. The player with most points wins. If points are equal, you share the win."
+    "The game ends when the pile is empty, even if one player has had one more turn. Count the cards on each mat and write the two numbers on the tally sheet. The player with most points wins. If points are equal, you share the win."
    ],
    "setup": [
     {
-     "art": "Two paper mats on the floor, one with a drawing of a fish skeleton and one with a drawing of a snail shell and a crab, and a pile of face-down animal cards.",
+     "art": "Two paper mats on the floor, one labelled BACKBONE and one labelled NO BACKBONE, and a pile of face-down animal cards.",
      "caption": "1. Lay out the two mats. Put the cards face down in a pile."
     },
     {
-     "art": "A child holding up a starfish card, looking puzzled, with both mats in front of her.",
+     "art": "A child holding up a starfish card, looking puzzled, with both mats in front of them.",
      "caption": "2. Take a card. Decide which mat it goes on, and say why."
     },
     {
@@ -854,7 +854,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it.",
+     "do": "Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it. Then shuffle it back into the pile.",
      "say": "Let's practise with one card. An earthworm. Do they have a backbone?",
      "kid": "Practice card: an earthworm. Backbone or not? Say your answer.",
      "check": {
@@ -924,14 +924,14 @@
        }
       },
       {
-       "f": "Honeybee: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land.",
+       "f": "Honeybee: 6 legs. 3 body parts. Feelers. 4 wings. No shell. Lives on land.",
        "img": {
         "src": "media/cards/invertebrates-g2-0-01.jpg",
         "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
        }
       },
       {
-       "f": "Mosquito: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land (the young live in water).",
+       "f": "Mosquito: 6 legs. 3 body parts. Feelers. 2 wings. No shell. Lives on land (the young live in water).",
        "img": {
         "src": "media/cards/invertebrates-g2-0-02.jpg",
         "credit": "chiragmunje, CC BY, via iNaturalist"
@@ -1022,8 +1022,8 @@
     "One player secretly picks one animal and writes their name on a scrap of paper.",
     "The others take turns asking yes or no questions about the animal's body. 'Are they cute?' does not count.",
     "After each answer, turn over every card that it rules out. If only one card is left face up, that is the secret animal.",
-    "Whoever names the secret animal first wins that round and picks the next secret animal. With two players, the guesser wins by naming the animal.",
-    "Try to find the animal in 4 questions or fewer."
+    "Whoever names the secret animal first wins that round. With two players, the guesser wins by naming the animal. If nobody has named it after 8 questions, the player who picked it wins the round.",
+    "Try to find the animal in 4 questions or fewer. Then the next player picks a secret animal. Play until everyone has picked once. The player who won the most rounds wins; a tie is a shared win."
    ],
    "setup": [
     {
@@ -1056,16 +1056,16 @@
      "kid": "Ask a question. Turn over the cards that do not fit.",
      "ask": [
       {
-       "q": "Which question rules out the most cards?",
+       "q": "Which question rules out the most cards at once?",
        "good": [
-        "Do they have legs?",
-        "Do they have more than 6 legs?"
+        "Do they have more than 6 legs?",
+        "Do they live in water?"
        ]
       }
      ],
      "check": {
       "t": "mcq",
-      "q": "The secret animal lives on land and has more than 6 legs. It has no feelers, 2 body parts and no tail with a sting. What animal is this?",
+      "q": "The secret animal lives on land and has more than 6 legs. They have no feelers and 2 body parts, and no tail with a sting. What animal is this?",
       "options": [
        "An ant",
        "A house spider",
@@ -1073,7 +1073,7 @@
        "An earthworm"
       ],
       "a": 1,
-      "why": "A house spider has 8 legs, 2 body parts and no feelers. A scorpion has those too, but they also have a long tail with a sting. Picking the ant usually means thinking every small crawling animal is an insect. But an ant has 6 legs and 3 body parts. A prawn has 10 legs and lives in water."
+      "why": "A house spider has 8 legs, 2 body parts and no feelers. A scorpion has those too, but a scorpion also has a long tail with a sting. Picking the ant usually means thinking every small crawling animal is an insect. But an ant has 6 legs and 3 body parts. A prawn has 10 legs and lives in water."
      }
     },
     {
@@ -1219,12 +1219,12 @@
      "t": "truefalse",
      "p": "A starfish is a kind of fish, because 'fish' is in their name.",
      "a": false,
-     "why": "False. A starfish has no backbone, no fins and no gills like a fish. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either."
+     "why": "False. A starfish has no backbone and no fins, like a fish has. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either."
     },
     {
      "t": "truefalse",
      "p": "An animal with no backbone has no skeleton of any kind.",
-     "a": "False",
+     "a": false,
      "why": "False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, lean on the sea instead."
     },
     {
@@ -1550,7 +1550,7 @@
     {
      "t": "truefalse",
      "p": "A butterfly with small wings will grow into a butterfly with big wings.",
-     "a": "False",
+     "a": false,
      "why": "False. A butterfly, like other insects, grows only by moulting, because their armour cannot stretch. Once an insect has grown-up wings, they stop moulting, so they stop growing. A small butterfly is simply a small butterfly. All the growing happened when they were a caterpillar."
     }
    ],
@@ -1738,7 +1738,7 @@
   {
    "id": "e1",
    "title": "Water Bones: how does a worm stay firm?",
-   "mins": 35,
+   "mins": 38,
    "days": 1,
    "question": "Which bottles stay firm under a load: open and empty, capped with air, or capped and full of water?",
    "predict": "Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and then under you sitting on the board. Say why you think so.",
@@ -1778,15 +1778,15 @@
      "qty": 1
     },
     {
-     "item": "a towel, a pencil and the results table",
+     "item": "a towel, a pen and the results table",
      "qty": 1
     }
    ],
-   "safety": "Do this on the floor, on a towel. Put the books on gently, and keep fingers out from under the board. In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and hold your child's hands for balance.",
+   "safety": "In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and stay beside your child, who rests both hands on a sturdy chair. Put the books on gently and keep fingers out from under the board.",
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 38,
      "what": "Put a board on pairs of bottles and pile books on top. Measure how far each pair sinks. Then sit on the board over the capped pairs, and squeeze each capped bottle by hand. Squeeze an open bottle of water and watch the water rise. Draw a bar chart."
     }
    ],
@@ -1806,7 +1806,7 @@
      "caption": "3. Pile the books on. Measure the height again."
     },
     {
-     "art": "A child sitting cross-legged in the middle of the board over two capped bottles, feet off the floor, a grown-up holding her hands and reading the ruler.",
+     "art": "A child sitting cross-legged in the middle of the board over two capped bottles, feet off the floor, both hands resting on a chair seat beside the board, a grown-up standing next to them and reading the ruler.",
      "caption": "4. Sit on the board over the capped pairs. Measure again."
     },
     {
@@ -1872,7 +1872,7 @@
     },
     {
      "id": "s3",
-     "mins": 9,
+     "mins": 12,
      "do": "1. Lay one pair of bottles on the towel, a hand-span apart. 2. Push a book against the outside of each bottle, so it cannot roll. 3. Put the board across the bottles. 4. Stand the ruler on the towel and read the height of the board. 5. Pile the 5 books on the board gently. 6. Read the height again, and write how far it sank. 7. Take the books off. Test each capped pair 3 times, but the open pair only once, because a squashed bottle cannot be used again. For the open pair, write the same number in all three boxes.",
      "say": "First we read the height with just the board. Then with the books. The difference is how far the bottles sank.",
      "kid": "Put two bottles under the board. Read the ruler. Add the books. Read it again. How far did it sink?",
@@ -1916,10 +1916,10 @@
      "id": "s4",
      "mins": 6,
      "adult": true,
-     "do": "1. Use only the two capped pairs for this test. 2. Lay the capped air pair under the board as before, with a book against each bottle. Read the height. 3. Your child sits gently in the middle of the board and lifts their feet. Hold their hands lightly, only for balance. 4. Read the height while they sit still, and write how far it sank. 5. Do the same with the capped water pair. 6. Try each pair twice.",
+     "do": "1. Use only the two capped pairs for this test. 2. Lay the capped air pair under the board as before, with a book against each bottle. Read the height. 3. Put a sturdy chair next to the board. Your child sits gently in the middle of the board, rests both hands on the chair seat and lifts their feet. 4. Stay beside them. Read the ruler while they sit still, and write how far it sank. 5. Do the same with the capped water pair. 6. Try each pair twice.",
      "say": "The books were not heavy enough to tell the two capped pairs apart. You are much heavier than five books. Sit very still while I read the ruler.",
-     "kid": "Ask a grown-up to hold your hands. Sit gently on the board over the capped bottles. Lift your feet. Sit still while they read the ruler.",
-     "parent": "The air bottles usually sink a little, often about 1 cm, and spring back up when your child stands. The water bottles hardly move. Never use the open bottles here: they would squash flat and drop your child. If your bottles are thick and stiff, the difference may be small. The hand squeeze in the next step still shows it.",
+     "kid": "Sit gently on the board over the capped bottles. Rest both hands on the chair and lift your feet. Sit still while a grown-up reads the ruler.",
+     "parent": "The air bottles sink a little, from a few millimetres to about 1 cm, and spring back up when your child stands. The water bottles hardly move. Never use the open bottles here: they would squash flat and drop your child. If your bottles are thick and stiff, the difference may be small. The hand squeeze in the next step still shows it.",
      "ask": [
       {
        "q": "Which capped pair went down more when you sat on it?",
@@ -1955,7 +1955,6 @@
      "do": "1. Over the sink, open one water bottle and pour out a little, so the water sits in the neck. 2. Mark the water level with a pen. 3. Squeeze the middle of the bottle with both hands, and watch the water.",
      "say": "Now the cap is off. Squeeze the middle and watch the water in the neck. Where does it go?",
      "kid": "Open a water bottle over the sink. Mark the water. Squeeze the middle. Where does the water go?",
-     "adult": false,
      "check": {
       "t": "mcq",
       "q": "When you squeeze the middle of an open bottle of water, what happens?",
@@ -2025,7 +2024,7 @@
   {
    "id": "e2",
    "title": "Armour Tubes: why are insect legs hollow tubes?",
-   "mins": 25,
+   "mins": 27,
    "days": 1,
    "question": "Which paper shape holds up the most books: round tubes, square tubes or zigzags?",
    "predict": "Before you test, make the three shapes from the same paper. Guess which shape will hold the most books before it crumples, and say why you think so.",
@@ -2061,8 +2060,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Make three round tubes, three square tubes and three zigzags from paper. Stand each set under a board and add books until it crumples. Draw a bar chart."
+     "mins": 27,
+     "what": "Make six round tubes, six square tubes and six zigzags from paper. Stand each set of three under a board and add books until it crumples. Draw a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw one bar for each shape, as tall as the number of books it held.",
@@ -2108,10 +2107,10 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
-     "do": "1. Roll a sheet into a round tube as tall as the short side of the paper, about 21 cm, and tape it. Make three. 2. Fold a sheet into four equal strips, the same height, and tape it into a square tube. Make three. 3. Fold a sheet back and forth into a zigzag fan, the same height. Make three.",
+     "mins": 8,
+     "do": "1. Roll a sheet into a round tube as tall as the short side of the paper, about 21 cm, and tape it. Make six: three for each try. 2. Fold a sheet into four equal strips, the same height, and tape it into a square tube. Make six. 3. Fold a sheet back and forth into a zigzag fan, the same height. Make six.",
      "say": "Insects, spiders and crabs wear their skeleton on the outside, as armour. Their legs are hollow tubes. Let's find out why tubes are a good idea.",
-     "kid": "Make three round tubes, three square tubes and three zigzags from paper. Tape them.",
+     "kid": "Make six round tubes, six square tubes and six zigzags from paper. Tape them. Keep three of each for the second try.",
      "context": "This is the first step of the Armour Tubes experiment. You test which paper shape is strongest, to see why armoured legs are tubes."
     },
     {
@@ -2137,7 +2136,7 @@
      "do": "1. Stand three columns of one shape in a triangle, a hand's width apart. 2. Lay the board on top. 3. Add books one at a time, gently, until the columns bend or crumple. 4. Write down how many books they held. 5. Test each shape twice, with fresh paper.",
      "say": "Gently now. One book at a time. Stop when the columns crumple, and count how many books they held.",
      "kid": "Stand three columns under the board. Add books one at a time. When they crumple, count the books.",
-     "parent": "Lower each book gently. Dropping it is not fair, because a falling book pushes harder. If you run out of books before the round tubes crumple, write 'more than' and the number.",
+     "parent": "Lower each book gently. Dropping it is not fair, because a falling book pushes harder. If you run out of books before the round tubes crumple, write 'more than' and the number. Square and round tubes can come out close, and sometimes the square one wins. Write what you found.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -2250,7 +2249,7 @@
      "qty": 1
     },
     {
-     "item": "uncooked rice and a small cup to measure it",
+     "item": "about 2 kg of uncooked rice and a small cup to measure it",
      "qty": 1
     },
     {
@@ -2329,7 +2328,7 @@
      "say": "One cup at a time, gently. When it pops, we write down the last number of cups it held.",
      "kid": "Add rice one cup at a time. When the sucker pops off, write how many cups it held. Then try two suckers, then four.",
      "adult": true,
-     "parent": "Tie each sucker's hook to the bag handle with its own short string, so they share the load. Pour the rice back into its tin afterwards to use again.",
+     "parent": "Tie each sucker's hook to the bag handle with its own short string, so they share the load. Pour the rice back into its tin afterwards to use again. If four suckers still hold after 12 cups, stop there and write 'more than 12'.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -2404,8 +2403,7 @@
      "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now about many small suckers? What did you see? And why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so they hold on very tightly.",
-     "think": "Four suckers held 11 cups, not exactly 12. Why might they not add up perfectly?"
+     "parent": "A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so they hold on very tightly."
     }
    ]
   }
@@ -2588,7 +2586,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the 12 minibeast cards from Guess My Minibeast, or real animals: a dead housefly from a windowsill, an ant in a clear box, or a raw prawn from the kitchen or the fish market",
+     "item": "the 12 minibeast cards printed with Guess My Minibeast, or real animals: a dead housefly from a windowsill, an ant in a clear box, or a raw prawn from the kitchen or the fish market",
      "qty": 12
     },
     {
@@ -2606,7 +2604,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Use the leg count key to name 6 minibeasts, then make your own key question."
+     "what": "Use the leg count key on the minibeast cards, compare an ant and a spider, then add a question for the woodlouse."
     }
    ],
    "record": "For each animal, write the questions you answered and the group you reached.",
@@ -2631,7 +2629,7 @@
      "mins": 2,
      "do": "Write this key on paper. 1: Do they have legs? No: worm or snail. Yes: go to 2. 2: Do they have exactly 6 legs? Yes: insect. No: go to 3. 3: Do they have exactly 8 legs? Yes: arachnid, like a spider. No: go to 4. 4: Do they have 10 legs? Yes: crab or prawn. No: go to 5. 5: Do they have lots of legs on a long ringed body? Yes: centipede or millipede.",
      "say": "This is a key. It is a list of yes or no questions. Each answer sends you to the next question, until you reach the animal's group.",
-     "kid": "This is a key. Answer each question yes or no. Follow the arrows to the animal's group.",
+     "kid": "This is a key. Answer each question yes or no. Follow the numbers to the animal's group.",
      "context": "This is the first step of the Leg Count Key. You use yes or no questions about legs to find the group a small animal belongs to."
     },
     {
@@ -2642,7 +2640,7 @@
      "kid": "Pick a card. Count the legs. Follow the key. Which group are they in?",
      "check": {
       "t": "mcq",
-      "q": "A woodlouse has 14 legs. It is not long and thin like a centipede. Where does the key leave them?",
+      "q": "A woodlouse has 14 legs. They are not long and thin like a centipede. Where does the key leave them?",
       "options": [
        "They are an insect",
        "They are a spider",
@@ -2693,7 +2691,7 @@
      "qty": 1
     },
     {
-     "item": "a clear glass sheet, a clear plastic box lid or a clean glass tumbler laid on its side",
+     "item": "a clear plastic box lid, or a sheet of glass from an old photo frame with its edges taped",
      "qty": 1
     },
     {
@@ -2711,7 +2709,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Put a snail on clear plastic or glass. Watch the waves under their foot. Draw what you see. Put them back."
+     "what": "When you have found a snail: put them on clear plastic or glass. Watch the waves under their foot. Draw what you see. Put them back."
     }
    ],
    "record": "Draw the snail's foot from underneath, with the waves. Write how many waves you counted at one time.",
@@ -2739,7 +2737,7 @@
      "kid": "Ask a grown-up to help you find a snail after rain. Hold them gently by the shell.",
      "adult": true,
      "context": "This is the first step of the Snail Foot Window. You watch a snail walk on clear plastic and look at their foot from below.",
-     "parent": "Snails come out after rain, mostly in the monsoon, and often at night. Look on walls, under flowerpot rims and on potted plants. If none turns up, try again in the evening after watering the pots, or after the next rain. Until then, watch an ant walk across a sheet of glass or a clear lid and count their legs, to compare with a snail's one foot later."
+     "parent": "You need a live snail for this activity. Do it on a day when you find one. Snails come out after rain, mostly in the monsoon, and often at night. Look on walls, under flowerpot rims and on potted plants. If none turns up, try again in the evening after watering the pots, or after the next rain. Until then, watch an ant walk across a clear lid and count their legs, to compare with a snail's one foot later."
     },
     {
      "id": "s2",
@@ -2813,7 +2811,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cutting.",
    "schedule": [
     {
      "day": 1,
@@ -2841,9 +2838,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay a thin plastic bag flat. 2. Pinch the middle of the closed end to make a small air bubble about the size of a lime. 3. Tie it off with thread. 4. A grown-up cuts the rest of the bag into 8 long, thin strips.",
-     "say": "A jellyfish has no bones, no brain and no heart. They are about 95 parts in every 100 water. Let's make one and see how it stays in shape.",
-     "kid": "Pinch a small bubble at the top of a plastic bag. Tie it. A grown-up cuts the rest into thin strips. These are tentacles.",
+     "do": "1. Lay a thin plastic bag flat. 2. Pinch the middle of the closed end to make a small air bubble. Make it the size of a large marble, so it fits through the bottle neck. 3. Tie it off with thread. 4. A grown-up cuts the rest of the bag into 8 long, thin strips.",
+     "say": "A jellyfish has no bones and no heart, and a net of nerves instead of a brain. About 95 parts in every 100 of their body are water. Let's make one and see how it stays in shape.",
+     "kid": "Pinch a small bubble at the top of a plastic bag. Make it the size of a large marble. Tie it. A grown-up cuts the rest into thin strips. These are tentacles.",
      "adult": true,
      "context": "This is the first step of Jellyfish in a Bottle. You make a model jellyfish from a plastic bag."
     },
@@ -2964,7 +2961,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Let the tube split along the tape. Your child slides out. Make a new, bigger tube from fresh paper, but leave it untaped for one minute, as 'soft armour'.",
+     "do": "Let the tube split along the tape. If it does not split, tear it along the tape. Your child slides out. Make a new, bigger tube from fresh paper, but leave it untaped for one minute, as 'soft armour'.",
      "say": "The old armour splits and you climb out. For a while your new armour is soft. A real crab hides at this time, because they are easy to eat.",
      "kid": "Split the tube. Climb out. Your new armour is soft for a while. Hide!",
      "check": {
@@ -3093,7 +3090,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -3121,7 +3117,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw round a tumbler on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Draw an arm from the middle circle out to each dot. 5. A grown-up helps cut the star out.",
+     "do": "1. Draw round a tumbler on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Join each dot to the middle circle with two lines. Each pair of lines makes one long thin arm. 5. A grown-up helps cut the star out.",
      "say": "A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.",
      "kid": "Draw round a bowl. Put five dots round the edge. Draw an arm to each dot. Cut out your star.",
      "adult": true,
@@ -3243,7 +3239,7 @@
      "id": "s1",
      "mins": 10,
      "do": "1. A grown-up cuts the top off a large bottle. 2. Your child fills it in layers: 4 cm of damp soil, then 2 cm of sand. 3. Repeat soil and sand until the bottle is nearly full. 4. Mist each layer so it is damp, not wet. 5. Put dead leaves and peels on top.",
-     "say": "Charles Darwin, a famous scientist, studied earthworms, on and off, for about 40 years. He thought they were some of the most important animals in the world. Let's find out why.",
+     "say": "Earthworms mix the soil and pull leaves underground. Let's build a see-through home for them, and watch what they do.",
      "kid": "Make stripes in the bottle: soil, then sand, then soil, then sand. Keep them damp. Put leaves on top.",
      "adult": true,
      "context": "This is the first step of the Bottle Wormery, a 14-day project. You build a striped bottle of soil and sand and add earthworms, to watch what they do."
@@ -3283,7 +3279,7 @@
      "wait": "Come back on day 3, day 7 and day 10.",
      "check": {
       "t": "mcq",
-      "q": "After a week in the wormery, the stripes of soil and sand are blurred and mixed. Who mixed them?",
+      "q": "Suppose that after a week in the wormery the stripes of soil and sand are blurred and mixed. Who mixed them?",
       "options": [
        "The water",
        "The earthworms, moving up and down through the soil",
@@ -3292,7 +3288,8 @@
       ],
       "a": 1,
       "why": "Earthworms tunnel up and down. They swallow soil at one level and leave it at another, and they pull leaves down from the top. Picking 'the water' is a fair idea to test. You could make a second bottle with no worms and compare."
-     }
+     },
+     "parent": "With only a few worms, or with compost worms that stay near the top, the change in two weeks may be small. Tunnels against the plastic and leaves pulled down are the signs to look for. Write down what you really see."
     },
     {
      "id": "s5",
@@ -3335,7 +3332,7 @@
    "creative": [
     "A hermit crab does not grow armour at all. They borrow empty snail shells and move into a bigger one when they grow. Could your toy swap armour with a friend?",
     "Snails solve the problem by adding new shell at the open edge. Could you add a new strip at the end of your armour each week?",
-    "Real armadillos and pangolins have backbones, but they use overlapping scales. Look at pictures of a pangolin for ideas."
+    "Real armadillos and pangolins have backbones, but they use overlapping plates or scales. Ask a grown-up to find a picture of a pangolin for ideas."
    ],
    "your_turn": "Now design your own armour that can grow. Draw it, build it, and test it by slipping a folded cloth under it to 'grow' 2 cm. Does it still cover everything? Does the elbow still bend?",
    "context": "This is a design challenge. Animals with armour must moult to grow. Your job is to invent armour that can grow without being thrown away.",
@@ -3357,7 +3354,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read the problem together. Look at pictures of a crab, a woodlouse and a prawn's tail in a book or online.",
+     "do": "Read the problem together. Look at the crab, prawn and woodlouse cards from Backbone or Not?",
      "say": "A crab's armour cannot grow, so they have to break out of it. Can we invent armour that grows with you?",
      "kid": "Read the problem. Armour that can grow. Look at how a woodlouse's back is made of plates.",
      "context": "This is the first step of the Armour That Can Grow challenge. You design armour that can get bigger without being thrown away."
@@ -3434,7 +3431,8 @@
     "sticky tape",
     "rubber bands",
     "an old sock",
-    "a ruler"
+    "a ruler",
+    "a plate and a few drops of water"
    ],
    "general": [
     "Make an inchworm. Fold a strip of paper into a zigzag. Pull a thread through it to squash it, then let go so it springs out. Tape a little sandpaper or a rubber band under the back end, so it grips while the front slides.",
@@ -3442,7 +3440,7 @@
     "Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. Bunch and stretch, bunch and stretch."
    ],
    "creative": [
-    "Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. It stretches and wriggles. The water fills the paper, like liquid filling a worm's body.",
+    "Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. The wet paper swells and opens out, so the worm stretches. A real worm stretches by squeezing the liquid inside, not by soaking it up.",
     "Robot makers build soft robots that move like worms and octopus arms. Some are pumped full of air or liquid and then sealed, like the capped bottles in the Water Bones experiment.",
     "Could your worm move along a tube or a hose, the way a worm moves through soil?"
    ],
@@ -3466,7 +3464,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Watch an earthworm move, or watch the video in this unit. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.",
+     "do": "Watch an earthworm move, or watch the video 'Exploring Invertebrates: How Do Earthworms Move?' in this unit. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.",
      "say": "A worm squeezes to stretch forward, then pulls up their back end. Tiny bristles stop them sliding backwards. Can we copy that?",
      "kid": "A worm squeezes, stretches, grips and pulls. Can you copy that with paper?",
      "context": "This is the first step of the Crawl Without Legs challenge. You build a model worm that moves without legs or wheels."
@@ -3629,19 +3627,6 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these is NOT an insect?",
-   "opts": [
-    "An ant",
-    "A mosquito",
-    "A spider",
-    "A honeybee"
-   ],
-   "a": 2,
-   "why": "A spider is an arachnid, with 8 legs. Ants, mosquitoes and bees all have 6 legs.",
-   "outcome": 3
-  },
-  {
-   "t": "mcq",
    "p": "In Water Bones, what would happen if you took the cap off a bottle full of water and then squeezed it?",
    "opts": [
     "Water would squirt out, and the bottle would go soft.",
@@ -3713,7 +3698,7 @@
  "applications": [
   "Farmers and gardeners use earthworms to make compost, called vermicompost, from kitchen and farm waste.",
   "Honeybees and many other insects pollinate crops like mangoes, mustard, apples and cotton.",
-  "Silk comes from the cocoons of silkworm moths. India is one of the biggest silk makers in the world.",
+  "Silk comes from the cocoons of silkworm moths. India is one of the biggest silk makers in the world, from Karnataka's mulberry silk to Assam's golden muga silk.",
   "Lac, used in bangles, polish and sealing wax, is made by tiny lac insects on trees in Jharkhand and Chhattisgarh.",
   "Engineers copy spider silk to try to make strong, light threads.",
   "Soft robots are built to move like worms and octopus arms, to squeeze into pipes or rubble.",
@@ -3750,7 +3735,7 @@
    "art": "A lifted flowerpot with grey woodlice rolled into little balls underneath."
   },
   {
-   "text": "Prawns, crabs and clams at a fish market.",
+   "text": "Prawns, crabs and clams at a fish market, in Kochi, Mangaluru, Kolkata or Mumbai.",
    "art": "A market stall with baskets of prawns, crabs and clams."
   },
   {
@@ -3844,10 +3829,6 @@
   {
    "j": "Which insect is good at maths?",
    "a": "An account-ant."
-  },
-  {
-   "j": "What did the clam do on their birthday?",
-   "a": "They shellebrated."
   }
  ],
  "maths": [
@@ -4063,7 +4044,7 @@
   },
   {
    "q": "Is a starfish a fish?",
-   "a": "No. They have no backbone and no gills. They are a sea star."
+   "a": "No. A fish has a backbone. A starfish has none, and is better called a sea star."
   },
   {
    "q": "What is an exoskeleton?",
@@ -4236,5 +4217,6 @@
   "who": "Carl Linnaeus, Jean-Baptiste Lamarck and Georges Cuvier",
   "when": "1758 to 1801",
   "wrong_idea": "Every animal without a backbone is either an insect or a worm. Lamarck and Cuvier looked closely at their bodies and found many different groups."
- }
+ },
+ "playtest": "Played Backbone or Not? and Guess My Minibeast in my head with 2 and with 4 players, and wrote out every card (30 and 12 all present). Fixes to the games: the practice card is shuffled back so the 30-card counts stay true, the silverfish card no longer gives itself away, honeybee and mosquito cards now differ (4 wings and 2 wings) so no two cards are the same, Guess My Minibeast now has an end (8 questions, then everyone picks once), and mat pictures match the printed mats. Went through e1 to e3, a1 to a7, p1, c1 and c2 as a family would: in Water Bones the child could not be held and the ruler read by one adult, so the child now rests both hands on a chair; minutes were raised to match the steps (Water Bones 38, Armour Tubes 27 with six tubes of each shape for the two tries); Many Small Suckers now lists the rice needed and a stopping point; the jellyfish bubble is now marble-sized so it fits the bottle neck; the star in Five-Arm Fold has clear drawing steps; the snail, spider and wormery steps say honestly that they need a live animal and what to expect if few are found. The square tube may match the round tube in Armour Tubes, and the air-bottle sit test may sink only a few millimetres; both are said plainly. Removed warnings that were not real hazards (scissors) and kept the real ones (sitting on bottles, falling rice, cutting a bottle, spiders). Removed the repeated Many Small Suckers think question, the Darwin 40-year line in the wormery, one repeated insect question in the quiz and the weakest joke (9 jokes left). Changed the jellyfish line from 'no brain' to 'a net of nerves instead of a brain'. Added fish markets from the south, east and west and Assam muga silk for India-wide examples. The one 'cannot feel anything' line is a claim the unit shows to be wrong, so it stays."
 }

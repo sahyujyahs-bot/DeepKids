@@ -70,14 +70,14 @@ Before a baby, the womb is about the size of a small pear. As the baby grows, th
 **Definition:** The placenta grows on the wall of the womb. It takes food and oxygen from the mother's blood and passes them along the umbilical cord to the baby. It also takes the baby's waste away.
 
 A baby in the womb is surrounded by water. They cannot eat, and there is no air to breathe. So the mother's body feeds them. Her blood carries food and oxygen to the placenta. The baby's blood comes to the placenta too, through the cord. The two bloods stay apart, with a very thin wall between them. Food and oxygen pass through that wall into the baby's blood. Waste passes back out, and the mother's body gets rid of it.
-- e.g. The dal and rice the mother eats become part of the baby's growing body.
+- e.g. The ragi, dal or rice the mother eats become part of the baby's growing body.
 - e.g. When the mother breathes in, some of that oxygen ends up in the baby.
 - e.g. The cord is about as long as your arm, and has no nerves, so cutting it does not hurt.
 ### The water around the baby · *defined*
 **Definition:** The baby floats in warm water called amniotic fluid, inside a thin bag in the womb. The water cushions the baby, keeps them warm and lets them move.
 
 A growing baby is soft, and their mother walks, bends and sometimes bumps into things. The water around the baby solves this. A bump on the mother's tummy spreads out through the water, so the baby is hardly jolted. The water also stays at the same warm temperature, and gives the baby room to stretch and kick. The baby swallows some of the water. This is practice for swallowing, and the water carries tastes from the mother's food.
-- e.g. A raw egg in a jar filled to the top with water stays whole when you shake the jar. In an empty jar, it cracks.
+- e.g. A raw egg in a jar filled to the top with water usually stays whole when you shake the jar. In an empty jar, it is more likely to crack.
 - e.g. Babies whose mothers ate a lot of carrot liked carrot flavour more after birth, in one study.
 - e.g. The baby practises breathing movements in the water, though there is no air to breathe.
 ### Nine months of growing · *defined*
@@ -259,25 +259,25 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - Ask: Why do you think the whole class started looking at their own fingers at the end?
 
 ## Games
-### g1 · Forty Weeks: the race to be born (20 min)
-- **rules:** Everyone puts a button on square 1, as one cell.; Take turns to roll the die and move that many squares.; If you land on a STAR square, the player on your left reads out what is happening that week. Then you take a GROW card and do what it says. A GROW card never makes you take another card.; If you roll a 6, move 6 squares, then the player on your left reads you a WONDER card. Answer it right to win a heart token. If you are not right, they read you the answer from the back. No token.; When a pile of cards runs out, shuffle the used cards and use them again. If the heart tokens run out, keep score on paper.; Reach or pass square 40 and you are born! Take a big first breath and shout 'Hello, world!' You stop rolling.; Keep playing until everyone is born. The player with the most heart tokens wins. If it is a tie, share the win.
-- **Printable board: The 40-week track (40 squares):** Square 1: one cell; Square 2: the cell splits into 2, then 4, then 8; Square 3: Still tiny. The ball of cells settles into the wall of the womb; Square 4: The first layers of cells form; Square 5: The brain and spine start to form; Square 6: STAR. The heart starts beating; Square 7: Arms and legs start as tiny buds; Square 8: STAR. Size of a grape; Square 9: Now called a foetus; Square 10: Moving a little, too small a movement for the mother to notice; Square 11: The face takes shape: eyes, nose and mouth; Square 12: STAR. Fingers and toes; Square 13: The middle three months begin; Square 14: Rest. The baby grows and moves; Square 15: Rest. The bones are getting harder; Square 16: STAR. Fingerprints forming; Square 17: Fat starts to form under the skin; Square 18: The mother may feel the first kicks; Square 19: Swallowing the warm water; Square 20: STAR. Halfway! Size of a banana; Square 21: Kicking and stretching; Square 22: Eyebrows and eyelids are forming; Square 23: Hiccups the mother may feel as a gentle tap; Square 24: STAR. Hearing sounds; Square 25: Practising breathing movements in the water; Square 26: Jumping at loud sounds; Square 27: Rest. Sleeping and waking in turns; Square 28: STAR. Eyes open; Square 29: Growing much bigger; Square 30: About 40 centimetres long; Square 31: The lungs are getting ready for air; Square 32: STAR. Getting chubby; Square 33: The skull bones are still soft and not joined; Square 34: Rest. Fat keeps building up under the skin; Square 35: Rest. The baby fills most of the womb; Square 36: STAR. Head turns down, ready; Square 37: Not early any more. Nearly ready; Square 38: Most babies are born between 37 and 42 weeks; Square 39: Rest. Nearly time; Square 40: BIRTH! First breath
-- **Printable cards: 12 GROW cards (take one when you land on a star):** The placenta sends you extra food. Move forward 2.; Your mother drinks plenty of water and rests. Move forward 1.; Your cells split again and again. Move forward 2.; You get hiccups. Stay where you are and hiccup three times.; You kick! Your mother feels it. Move forward 1.; Your lungs practise breathing movements. Move forward 1.; You suck your thumb. Show everyone how.; A loud drum outside makes you jump. Move back 1.; You hear your mother singing. Move forward 1.; Your mother eats rice, sambar and vegetables. Move forward 2.; Your mother sees a doctor for a check-up. Move forward 1.; You stretch and turn a somersault. Move forward 1.
-- **Printable cards: 8 WONDER cards (question on the front, answer on the back):** How does a baby in the womb get oxygen? (back: Through the cord, from the mother's blood.); What does the water around the baby do? (back: It cushions, keeps warm and lets the baby move.); What was everyone at the very start? (back: One cell.); What is left when the cord falls off? (back: The belly button.); About how many weeks does a baby grow in the womb? (back: About 40.); Name one thing a baby can do in the womb. (back: Kick, suck their thumb, hiccup, hear, swallow.); Why can't a baby breathe air in the womb? (back: They are in water, and there is no air there.); What does a cell do to make more cells? (back: The cell splits in two.)
+### g1 · Forty Weeks: growing from one cell to birth (20 min)
+- **rules:** Everyone puts a button on square 1, as one cell.; Take turns to roll the die and move that many squares.; Whenever you land on a square, the player on your left reads out what is happening that week. If it is a STAR square, you then also take a GROW card and do what it says. A GROW card never makes you take another card.; If you roll a 6, move 6 squares, then the player on your left reads you a WONDER card. Answer it right to win a heart token. If you are not right, they read you the answer from the back. No token. This still happens if the 6 takes you to square 40.; When a pile of cards runs out, shuffle the used cards and use them again. If the heart tokens run out, keep score on paper.; Reach or pass square 40 and you are born! Take a big first breath and shout "Hello, world!" You stop rolling, but you can still help read cards for the others.; Keep playing until everyone is born. The player with the most heart tokens wins. If it is a tie, share the win.
+- **Printable board: The 40-week track (40 squares):** Square 1: one cell; Square 2: the cell splits into 2, then 4, then 8; Square 3: Still tiny. The ball of cells settles into the wall of the womb; Square 4: The first layers of cells form; Square 5: The brain and spine start to form; Square 6: STAR. The heart starts beating; Square 7: Arms and legs start as tiny buds; Square 8: STAR. Size of a grape; Square 9: Now called a foetus; Square 10: Moving a little, too small a movement for the mother to notice; Square 11: The face takes shape: eyes, nose and mouth; Square 12: STAR. Fingers and toes; Square 13: The middle three months begin; Square 14: The baby grows and moves; Square 15: The bones are getting harder; Square 16: STAR. Fingerprints forming; Square 17: Fat starts to form under the skin; Square 18: The mother may feel the first kicks; Square 19: Swallowing the warm water; Square 20: STAR. Halfway! Size of a banana; Square 21: Kicking and stretching; Square 22: Eyebrows and eyelids are forming; Square 23: Hiccups the mother may feel as a gentle tap; Square 24: STAR. Hearing sounds; Square 25: Practising breathing movements in the water; Square 26: Jumping at loud sounds; Square 27: Sleeping and waking in turns; Square 28: STAR. Eyes open; Square 29: Growing much bigger; Square 30: About 40 centimetres long; Square 31: The lungs are getting ready for air; Square 32: STAR. Getting chubby; Square 33: The skull bones are still soft and not joined; Square 34: Fat keeps building up under the skin; Square 35: The baby fills most of the womb; Square 36: STAR. Head turns down, ready; Square 37: Not early any more. Nearly ready; Square 38: Most babies are born between 37 and 42 weeks; Square 39: Nearly time; Square 40: BIRTH! First breath
+- **Printable cards: 12 GROW cards (take one when you land on a star):** The placenta sends you extra food. Move forward 2.; Your mother drinks plenty of water and rests. Move forward 1.; Your cells split again and again. Move forward 2.; You get hiccups. Stay where you are and hiccup three times.; You kick! Your mother feels it. Move forward 1.; Your lungs practise breathing movements. Move forward 1.; You suck your thumb. Show everyone how.; A loud drum outside makes you jump. Move back 1.; You hear your mother singing. Move forward 1.; Your mother eats poha, dal and vegetables. Move forward 2.; Your mother sees a doctor for a check-up. Move forward 1.; You stretch and turn a somersault. Move forward 1.
+- **Printable cards: 8 WONDER cards (question on the front, answer on the back):** How does a baby in the womb get oxygen? (back: Through the cord, from the mother's blood.); What does the water around the baby do? (back: It cushions, keeps warm and lets the baby move.); What was every person at the very start? (back: One cell.); After a baby is born, what is left when the cord stump falls off? (back: The belly button.); About how many weeks does a baby grow in the womb? (back: About 40.); Name one thing a baby can do in the womb. (back: Kick, suck their thumb, hiccup, hear or swallow. Any one of these is right.); Why can't a baby breathe air in the womb? (back: They are in water, and there is no air there.); How does a cell make more cells? (back: It splits in two.)
 - **Printable tokens: 12 heart tokens:** Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1. 4. Keep the hearts in a pile.  
   *Parent says:* Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see who gets born first.  
   *Child mode:* Put your button on square 1. That is you, as one tiny cell. Each square is one week.
 - **s2 (3 min)**  
-  *Parent does:* Read square 6 together before you start. Point at the heart on the track.  
+  *Parent does:* Read square 6 together before you start. Point at square 6 on the track.  
   *Parent says:* At about six weeks, the baby is as small as a grain of rice. But their heart is already beating. Can you feel your heart now?  
   *Child mode:* Look at square 6. The heart starts beating there. Put your hand on your chest. Feel yours beat.
   - Check: At about six weeks, how big is the growing baby? → **About as small as a grain of rice**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns to roll and move. 2. On a STAR, read the square aloud and take a GROW card. 3. On a 6, ask a WONDER question.  
-  *Parent says:* Remember, when you land on a star, read out what is happening to the baby that week.  
-  *Child mode:* Roll and move. Land on a star? Read it out. Then take a GROW card.
+  *Parent does:* 1. Take turns to roll and move. 2. Read aloud each square you land on. On a STAR, also take a GROW card. 3. On a 6, ask a WONDER question.  
+  *Parent says:* Remember, whenever you land on a square, read out what is happening to the baby that week.  
+  *Child mode:* Roll and move. Read out the square you land on. Is it a star? Then take a GROW card.
   - Ask: Why does the GROW card say 'move forward' when the mother eats well? (good: Her food goes to the baby through the cord.; The baby needs food to grow.)
 - **s4 (4 min)**  
   *Parent does:* When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count the heart tokens.  
@@ -286,7 +286,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Check: Game moment: you are born on square 40. What does the baby do first? → **Breathes air for the first time**
   - Think: What do you think the very first breath felt like?
 ### g2 · Who Waits Longest? Animal baby cards (15 min)
-- **rules:** Shuffle the cards and share them out face down.; Each player turns over their top card at the same time.; The card with the most days wins both cards. The winner puts them in a pile.; The winner says about how many more days their card has. A good guess is fine.; When all the cards are played, the player with the biggest pile wins. If the piles are equal, shuffle and play again.
+- **rules:** Shuffle the cards and share them out face down. With 2 players each gets 6 cards, with 3 players 4 cards, with 4 players 3 cards.; Everyone turns over their top card at the same time.; The card with the most days wins all the cards turned over. The winner puts them in a pile.; The winner says about how many more days their card has than the next longest. A good guess is fine.; When all the cards are played, the player with the biggest pile wins. If the piles are equal, shuffle and play again.
 - **Printable cards: 12 animal cards (days a baby grows inside the mother, rounded):** Giraffe: about 450 days [picture]; Pig: about 114 days [picture]; Cow: about 280 days [picture]; Rabbit: about 31 days [picture]; Indian elephant: about 650 days [picture]; Human: about 270 days; Cat: about 65 days [picture]; Camel: about 390 days [picture]; House mouse: about 20 days [picture]; Horse: about 340 days [picture]; Dog: about 63 days [picture]; Goat: about 150 days [picture]
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the 12 cards face up and find the human card. 2. Shuffle them and share them out face down.  
@@ -296,20 +296,20 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Parent does:* Play the game. After each round, ask the winner how many more days their card has.  
   *Parent says:* Who wins this round? How many more days is that?  
   *Child mode:* Turn your top card over. Longest wait wins. How many days more?
-  - Check: Game moment: your elephant card meets a mouse card. Who wins? → **The elephant, about 650 days**
+  - Check: Game moment: your elephant card meets a mouse card. Whose card wins? → **The elephant, about 650 days**
 - **s3 (4 min)**  
-  *Parent does:* At the end, lay all 12 cards in a line, shortest wait to longest.  
+  *Parent does:* At the end, gather all 12 cards and lay them in a line, shortest wait to longest.  
   *Parent says:* Look at the line. What do you notice about the small animals and the big ones?  
   *Child mode:* Put all the cards in a line, from shortest wait to longest. What do you notice?
   - Ask: What do you notice about the line? (good: Bigger animals usually wait longer.; Humans are in the middle.; The elephant waits the longest, almost two years.)
-  - Think: A whale is far bigger than an elephant, but a whale baby grows for about a year. Why might that be?
+  - Think: A blue whale is far bigger than an elephant, but a whale baby grows for about a year. Why might that be?
 
 ## Experiments
 ### e1 · The Floating Safe: does water protect an egg? (20 min)
 - **question:** Does a raw egg stay safer from bumps in a jar full of water, or in an empty jar?
 - **predict:** Before you shake anything, guess. Will the egg in the empty jar crack, the egg in the water jar crack, both, or neither? Why do you think so?
 - **fair test:** To make it fair, keep everything the same except the water. Use two jars of the same size with lids. Use eggs of the same size. Shake each jar the same way, the same number of times. Count the shakes out loud.
-- **safety:** Use plastic jars, not glass. Shake over a tray. Wash hands with soap after touching raw eggs.
+- **safety:** Use plastic jars, not glass. Wash hands with soap after touching raw eggs.
 - **record:** Fill in the table. Then write three sentences. My claim is... My evidence is... My reasoning is...
 - **results table:** Jar | What I guessed | After 5 gentle shakes | After 5 harder shakes (or "cracked already") | Cracked: yes or no
 - **s1 (3 min)**  
@@ -364,7 +364,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Say it like a scientist. What I think. What I saw. Why.
   - Ask: What might a baby in the womb hear? (good: Low sounds like voices and the heartbeat, a bit muffled.; The mother's voice, because it comes through her body too.)
   - Think: The mother's voice reaches the baby through the air and through her own body. Why might the baby hear her best of all?
-### e3 · Keep the Baby Warm: which wrap works best? (30 min)
+### e3 · Keep the Baby Warm: which wrap works best? (33 min)
 - **question:** Which keeps a pretend baby warm longest: lying alone, wrapped in a cloth, or held against a person's chest under a cloth?
 - **predict:** Guess which bottle will stay warmest after 20 minutes. Put the three in order. Why do you think so?
 - **fair test:** Use three bottles of the same size, filled with the same amount of warm water, from the same jug. Check them all at the same times. Change only how each one is kept.
@@ -379,7 +379,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Parent does:* 1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up wraps the third in the other towel and tucks it against their chest, under a dupatta or shirt.  
   *Parent says:* Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors in Bogotá, in Colombia, started it in 1978, to keep early babies warm.  
   *Child mode:* One bottle stays alone. One gets wrapped. One goes on a grown-up's chest, under a cloth.
-- **s3 (17 min)**  
+- **s3 (20 min)**  
   *Parent does:* 1. Start a timer for 10 minutes as soon as the three bottles are in place. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.  
   *Parent says:* While we wait, think about this. Why might a person's body be good at keeping a baby warm?  
   *Child mode:* Wait 10 minutes. Feel each bottle on your cheek. Write it down. Wait 10 more minutes. Do it again.
@@ -393,7 +393,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 
 ## Activities
 ### a1 · One Cell to Many: the dough doubling (15 min)
-- **safety:** If you use atta dough, wash your hands before and after. Do not eat raw dough.
+- **safety:** Do not eat the raw dough.
 - **record:** Draw your rows of dough balls: 1, 2, 4, 8, 16. Write how many there are in each row.
 - **s1 (2 min)**  
   *Parent does:* 1. Give your child one ball of dough on a plate. 2. Tell them it is the first cell.  
@@ -616,7 +616,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    Options: The baby's blood changed at birth / In the placenta, the two bloods stay apart, with a thin wall between them / The doctor gave the baby new blood  
    **Answer:** In the placenta, the two bloods stay apart, with a thin wall between them. *Why:* Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group.
 3. (write) Predict. A woman who is going to have a baby hums a low lullaby. Then she hums a high, squeaky tune, just as loud. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
-   **Answer:** The low lullaby. In my test, the low hum came through the bag of water more clearly, but the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
+   **Answer:** The low lullaby. If the test worked, the low hum came through the bag of water a little more clearly, and the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
 4. (truefalse) If a pregnant mother looks at a rabbit every day, her baby may be born with long ears.  
    **Answer:** False. *Why:* False. This is an old belief. Thoughts and sights do not travel to the baby. Only things carried in the mother's blood reach the baby. How the baby looks comes from their DNA and how their cells grow.
 5. (sort) Sort these. Can it reach the baby through the mother's blood, or not?  
@@ -631,7 +631,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 9. (perspective) Some babies are born very early and very small. Two people disagree about the best way to keep such a baby warm.  
    **Answer:** A strong answer uses the test: the bottle on the chest stayed warm because a person's body is warmer than the room. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.. *Why:* Both are used in real hospitals. Kangaroo care was started in Bogotá, in Colombia, in 1978. Doctors found it keeps many small babies warm and well. Very sick babies may still need an incubator.
 10. (fill) A newborn sees most clearly at about 20 to 30 ____ away. That is about the distance to the face of the person holding them.  
-   **Answer:** ['centimetres', 'cm']. *Why:* About 20 to 30 centimetres. You tested this with a plastic bag in front of your eyes. A face close up was clearer than a face far away.
+   **Answer:** ['centimetres', 'cm']. *Why:* About 20 to 30 centimetres. In the Newborn Eyes model, a face close up looked clearer through the plastic bag than a face far away. The model is only rough.
 11. (mcq) Shalini, a girl in Class 4, was born by caesarean birth. What does that mean?  
    Options: She was born later than other babies / She did not grow in a womb / Doctors lifted her out through a careful cut in her mother's tummy and womb  
    **Answer:** Doctors lifted her out through a careful cut in her mother's tummy and womb. *Why:* In a caesarean birth, doctors open the mother's tummy and womb and lift the baby out. Shalini grew in the womb and was fed through a cord, like everyone else.
@@ -643,7 +643,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    **Answer:** A line with marks at about 6 weeks for the heart, about 12 weeks for fingers, about 24 weeks for hearing, and 40 weeks for birth.. *Why:* A strong drawing spaces the marks fairly. The heart and fingers come early, in the first three months. Hearing comes in the middle. Most of the growing in size happens near the end.
 15. (truefalse) In the first five days, the ball of cells gets bigger with every split.  
    **Answer:** False. *Why:* False. This surprises most people. For the first five days, each split makes smaller cells, and the ball stays the same size. The ball only grows once it settles into the womb wall and gets food from the mother.
-16. (write) Twins can grow in the same womb at the same time, with the same DNA. Yet their fingerprints are different. Why might that be?  
+16. (write) Identical twins grow in the same womb at the same time and have the same DNA. Yet their fingerprints are different. Why might that be?  
    **Answer:** Fingerprints form at about four months. Each twin's fingers press and move in slightly different ways in the womb. Tiny differences, like where they lie, make different patterns.. *Why:* A strong answer says DNA is not the whole story. Fingerprints also depend on chance, on how each baby grew in their own place in the womb.
 ### Big Questions About Beginnings (challenge) (challenge, 16 questions)
 1. (write) One cell splits into two. The next day, each of those cells splits again. This goes on every day. On which day do you first have more than 1000 cells? Show your working.  
@@ -662,7 +662,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 7. (write) Your body was built from food your mother ate. Trace one grain of rice back as far as you can, to where its atoms came from.  
    **Answer:** The grain came from a rice plant. The plant built the grain from air, water and soil, using sunlight. The atoms in the soil and air were part of the Earth. Almost all atoms heavier than hydrogen and helium were made inside stars long ago.. *Why:* A strong answer goes back at least three steps. It shows that a baby is built from food, sunlight, soil and air.
 8. (write) Challenge the belief. Many people say a pregnant mother must 'eat for two', so she should eat twice as much. Doctors say she needs only a little more, about one extra small meal a day, and only in the last six months. Think about how big the baby is. Who do you think is right, and why?  
-   **Answer:** The doctors. The baby is tiny for most of the nine months, only about the size of a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, vegetables, milk, eggs or fish.. *Why:* A strong answer uses a size from the unit (rice-sized, banana-sized, about 3 kilograms at birth) to show the baby needs far less food than a grown-up. It may add that the food must be good, because it reaches the baby through the placenta.
+   **Answer:** The doctors. The baby is tiny for most of the nine months, only about the size of a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, ragi or rice, vegetables, milk, eggs or fish.. *Why:* A strong answer uses a size from the unit (rice-sized, banana-sized, about 3 kilograms at birth) to show the baby needs far less food than a grown-up. It may add that the food must be good, because it reaches the baby through the placenta.
 9. (mcq) In 1694 a scientist named Nicolaas Hartsoeker drew a tiny curled-up man inside a sperm cell. How did later scientists show this idea was wrong?  
    Options: They asked mothers what they felt / They weighed newborn babies / They watched hen's eggs day by day and saw the body parts form one after another  
    **Answer:** They watched hen's eggs day by day and saw the body parts form one after another. *Why:* In 1759 Caspar Friedrich Wolff watched chicks forming in hen's eggs. The parts appeared one by one. Later, better microscopes showed that the first cell has no body parts at all.
@@ -675,16 +675,16 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 13. (write) Every cell has the same DNA. How do you think a cell 'knows' whether to become part of a toe or part of an eye?  
    **Answer:** Cells send each other chemical messages. A cell can tell where they are from how strong the message around them is. Then they read the right pages of their instructions.. *Why:* Scientists are still working this out. A strong answer mentions messages between cells, or the place where the cell is.
 14. (order) Put these sizes in order, from smallest to biggest.  
-   **Answer:** order shown. *Why:* The first cell is about as wide as a hair. The baby grows from rice-sized to raspberry-sized to banana-sized, and then to about 50 centimetres at birth.
+   **Answer:** order shown. *Why:* The first cell is about as wide as a hair. The baby grows from rice-sized to grape-sized to banana-sized, and then to about 50 centimetres at birth.
 15. (fill) Doctors say a pregnancy lasts about 40 weeks. A week has 7 days. So 40 weeks is ____ days.  
    **Answer:** ['280']. *Why:* 40 times 7 is 280. Doctors count from a date about two weeks before the first cell was made. So the baby really grows for about 38 weeks, or about 266 days.
 16. (sort) Sort these. Do scientists agree on this, or do they still argue about it?  
    **Answer:** a baby begins as one cell → Scientists agree; the placenta passes food and oxygen → Scientists agree; why human babies are born so helpless → Scientists still argue; exactly what signal starts birth → Scientists still argue; how much an unborn baby remembers → Scientists still argue. *Why:* Some things have been checked again and again. Others are still open. A strong answer can say why each open question is hard to test: nobody can ask a baby in the womb.
 
 ## Videos
-- **Pregnancy 101 | National Geographic** (National Geographic, 10 min) id `XEfnq4Q4bfk`: For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film. *Check:* Not yet watched by a person: watch it first. Preview it before showing a child.
-- **Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios** (BBC Studios, 5 min) id `O8KdLdRsbRk`: Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go. *Check:* Not yet watched by a person: watch it first. No id given. The documentary is real (BBC Two, 2016). Find an official BBC clip about the first weeks. Preview it: some parts discuss conception in more detail than this unit.
-- **Maternal health: Ensuring kangaroo mother care for every small or preterm baby** (World Health Organization (WHO), 4 min) id `YfhWxMmBIW4`: Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe. *Check:* Not yet watched by a person: watch it first. No id given. Check it is the WHO's own video before showing.
+- **Pregnancy 101 | National Geographic** (National Geographic, 10 min) id `XEfnq4Q4bfk`: For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film. *Check:* Watch it first yourself, and choose a short clip rather than the whole film.
+- **Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios** (BBC Studios, 5 min) id `O8KdLdRsbRk`: Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go. *Check:* Watch it first yourself. Some parts talk about how a baby is conceived in more detail than this unit does.
+- **Maternal health: Ensuring kangaroo mother care for every small or preterm baby** (World Health Organization (WHO), 4 min) id `YfhWxMmBIW4`: Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe. *Check:* Watch it first yourself.
 
 ## Quiz
 1. (mcq) You began as one cell, smaller than a grain of salt. What was inside that first cell?  
@@ -746,7 +746,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - The Anganwadi centre in your area, where pregnant mothers and young babies get food and check-ups.
 - A baby being carried in a sari or dupatta sling on a grandmother's hip.
 - Belly buttons, on every person on the beach. Each one is a mark from before birth.
-- A godh bharai or baby shower, where families celebrate a coming baby.
+- A baby shower, called godh bharai, valaikappu or seemantham in different places, where families celebrate a coming baby.
 - A newborn's tiny hand grabbing a grown-up's finger tight.
 - A cow and her calf in the street, with the calf already walking. Compare the calf with a human baby.
 - Your own baby clothes, kept in a cupboard. Hold them up against you now.
@@ -765,8 +765,6 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - If you could remember being in the womb, what would you have heard?
 - Can you find your belly button? What does it tell you?
 - How many people looked after you before you could talk?
-- Which animal baby do you think waits longest to be born?
-- If one cell doubles every day, how many would there be after a week?
 - What do you think a baby needs most in their first week?
 - Why do you think babies like being rocked gently?
 - Who do you look a bit like in your family? Who do you not look like at all?
@@ -778,13 +776,12 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - What did the cell say to their twin after splitting? *I'm beside myself!*
 - Why was the baby so good at swimming? *They practised for nine months.*
 - What do you call a baby who loves hiccups? *A hic-cupcake.*
-- Why did the baby kick so much? *The football team was waiting.*
+- Why did the new baby ask for a towel? *After nine months of swimming, they wanted to dry off.*
 - Why did the baby mouse arrive so fast? *There were only 20 days to pack.*
 - Why did the baby stay in the womb so long? *The rent was free and the water was warm.*
 - What did the thumb say to the ink pad? *You always leave me with a good impression.*
 
 ## Connected maths
-- Remember the dough doubling, where one ball split into 2, then 4, then 8? If you keep going, how many balls after 6 rounds of splitting? **64 balls.**. Each round doubles the number. 1, then 2, 4, 8, 16, 32, 64. That is 6 rounds. So there are 64 balls. (queues `math.patterns.number-patterns.L3`)
 - A baby grows in the womb for about 40 weeks. There are 7 days in a week. About how many days is that? **280 days.**. 40 weeks times 7 days. 4 times 7 is 28. So 40 times 7 is 280. A baby grows for about 280 days. (queues `math.multiplication.multiplication-facts.L3`)
 - In the Who Waits Longest? card game, an Indian elephant baby grows for about 650 days and a human baby for about 270 days. How many more days does the elephant baby grow? **380 more days.**. 650 take away 270. 650 take away 200 is 450. Then 450 take away 70 is 380. So the elephant baby grows about 380 days longer. (queues `math.addition-subtraction.written-methods.L3`)
 - On the fruit line, a newborn is about 50 centimetres long. You are now about 125 centimetres tall. How many newborn lengths tall are you? **2 and a half newborn lengths.**. Two newborns make 50 plus 50, which is 100 centimetres. That leaves 25 centimetres, which is half of 50. So you are 2 and a half newborn lengths tall. (queues `math.length.standard-units-length.L3`)
@@ -805,7 +802,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 ## Things to buy
 - [Washable ink pad](https://www.amazon.in/s?k=washable+ink+pad+kids) (material): For making clear fingerprints in Prints From Before You Were Born. Used in a3. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To see the loops and whorls of fingerprints. Used in a3. 
-- [Kitchen or digital thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To measure how warm each pretend baby stays in Keep the Baby Warm. Used in e3. 
+- [Kitchen or digital thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To measure how warm each pretend baby stays in Keep the Baby Warm. Feeling with your cheek also works, but is rougher. Used in e3. 
 - [Soft measuring tape, 150 centimetres](https://www.amazon.in/s?k=measuring+tape+150+cm) (tool): For marking baby lengths and measuring your own height. Used in a2. 
 
 ## Warm-up

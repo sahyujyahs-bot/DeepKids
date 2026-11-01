@@ -183,7 +183,7 @@
   {
    "concept": "Shivering, goosebumps and curling up",
    "status": "defined",
-   "definition": "When you are too cold, your body makes more heat and tries to keep the heat it has. Shivering makes heat. Goosebumps and curling up help to keep it.",
+   "definition": "When you are too cold, your body makes more heat and tries to keep the heat it has. Shivering makes heat. Curling up helps to keep it.",
    "description": "Muscles make heat whenever they work. When you shiver, your muscles tighten and loosen very fast, by themselves. You do not move anywhere, but you make a lot of heat. Shivering can make a few times more heat than sitting still. At the same time, tiny muscles in your skin pull each hair upright. These are goosebumps. In a furry animal like a cat or a monkey, standing fur traps a warm layer of air. Our body hair is too thin to trap much, so goosebumps are a leftover from our furry relatives. Curling up into a ball also helps. It means less of your skin touches the cold air, so less heat escapes.",
    "examples": [
     "Your teeth chatter when you come out of a cold swimming pool.",
@@ -290,7 +290,7 @@
    "description": "The usual story is that the body waits for a change, then fixes it. But the body often acts before the change arrives. When you drink water, your thirst goes away in about a minute. That is long before the water has reached your blood. Your mouth and throat tell your brain 'water is coming'. In the same way, your body gets ready for food at the smell of dinner.",
    "examples": [
     "Thirst goes away soon after you drink, before the water is used.",
-    "Your mouth waters when you smell parathas being cooked.",
+    "Your mouth waters when you smell dosa being made.",
     "Many people's bodies start warming up just before they wake in the morning."
    ],
    "perspectives": [
@@ -584,17 +584,17 @@
      "title": "20 event cards (write the + cards in red and the - cards in blue)",
      "items": [
       "Played cricket at noon: +2",
-      "Drank hot coffee: +1",
+      "Drank a hot bowl of rasam: +1",
       "Wore a sweater indoors in May: +2",
       "Sat in a closed car in the sun: +3",
       "Ran a race: +2",
       "Ate a big spicy lunch: +1",
       "Danced at a wedding: +2",
-      "Got a fever: +2",
+      "Had a long hot bath: +2",
       "Stood by the cooking fire: +1",
       "Monsoon day, very humid: +1",
       "Jumped in a cold river: -3",
-      "Cold winter morning in Shimla: -2",
+      "Cold winter morning in Ooty: -2",
       "Ate an ice lolly: -1",
       "Got caught in the rain: -2",
       "Sat under the AC: -1",
@@ -617,12 +617,12 @@
       "Fan yourself: -1",
       "Shiver: +2",
       "Shiver: +2",
-      "Goosebumps: +1",
+      "Rub your hands and stamp your feet: +1",
       "Pale fingers, blood stays inside: +1",
       "Curl up in a ball: +1",
       "Put on a shawl: +1",
-      "Drink water: take a used Sweat card back into your hand, if there is one",
-      "Drink water: take a used Sweat card back into your hand, if there is one",
+      "Drink water: take a used Sweat card back into your hand. If there is none, move 1 box towards 5.",
+      "Drink water: take a used Sweat card back into your hand. If there is none, move 1 box towards 5.",
       "Wild card: you choose +1 or -1",
       "Wild card: you choose +1 or -1"
      ]
@@ -631,26 +631,26 @@
      "kind": "tokens",
      "title": "Counters and 'just right' stars",
      "items": [
-      "Counter: cut 4 small circles from card, one for each player",
+      "Counter: cut 4 small circles from card, one for each player (2 are enough for 2 players)",
       "Star: cut 20 small stars from paper"
      ]
     }
    ],
    "rules": [
     "Each player puts a counter on box 5 of their dial, the green JUST RIGHT box.",
-    "Shuffle the 20 event cards into one pile and the 16 body action cards into another. Deal 4 body action cards to each player.",
+    "Shuffle the 20 event cards into one pile and the 16 body action cards into another. Deal 3 body action cards to each player and leave the rest face down as the draw pile.",
     "On your turn, turn over the top event card and move your counter up or down by that number.",
     "Then you may play one body action card from your hand to move back towards 5. Say what your body is doing, out loud.",
     "If your counter is on 5 at the end of your turn, you win a star.",
-    "At the end of every turn, pick up one new body action card. When that pile runs out, shuffle the played body cards to make a new pile.",
-    "If your counter reaches 1 or 9, you have gone too far. Your turn ends with no star. Rest and drink water: put your counter on 3 (from 1) or 7 (from 9), and talk about what a grown-up would do to help.",
-    "Each player has 5 turns. With 2 players you use 10 event cards, with 4 players all 20. The player with the most stars wins. If players tie, they share the win."
+    "At the end of every turn, pick up one new body action card from the draw pile. When that pile runs out, shuffle the played body cards to make a new pile.",
+    "If your counter reaches or goes past 1 or 9, you have gone too far. Your turn ends with no star. Rest and drink water: put your counter on 3 (from 1) or 7 (from 9), and talk about what a grown-up would do to help.",
+    "Each player has 5 turns, so the game uses 5 event cards for each player: 10 with 2 players, 15 with 3 and all 20 with 4. Put the unused event cards back in the box. The player with the most stars wins. If players tie, they share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Give each player a dial and a counter on box 5. 2. Shuffle the 20 event cards into one pile. 3. Shuffle the 16 body action cards into another and deal 4 to each player.",
+     "do": "1. Give each player a dial and a counter on box 5. 2. Shuffle the 20 event cards into one pile. 3. Shuffle the 16 body action cards into another and deal 3 to each player.",
      "say": "Your body likes to stay at just right. That is box 5. The weather and what you do will push you hot or cold. Your job is to bring yourself back, like your real body does.",
      "kid": "Put your counter on box 5. That is just right. Events will push you hot or cold. Use your body cards to come back to 5.",
      "context": "This is the first step of Keep It Just Right, a card game about how your body keeps its warmth steady. Here you set up the game."
@@ -676,10 +676,10 @@
       "options": [
        "Sweat: -2",
        "Shiver: +2",
-       "Goosebumps: +1"
+       "Put on a shawl: +1"
       ],
       "a": 0,
-      "why": "Sweat brings you down 2, from 7 to 5. When sweat dries on your skin, it carries heat away. Shiver and goosebumps would push you even hotter, because they make or keep heat. Picking them is a good game moment to ask: which actions warm us, and which cool us?"
+      "why": "Sweat brings you down 2, from 7 to 5. When sweat dries on your skin, it carries heat away. Shiver and a shawl would push you even hotter, because they make or keep heat. It is a good moment to ask: which actions warm us, and which cool us?"
      },
      "context": "This is a practice round of Keep It Just Right, the body warmth card game."
     },
@@ -695,7 +695,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "When someone reaches 1 or 9, stop the game and talk about it. Then move that counter to 3 or 7.",
+     "do": "When someone reaches or passes box 1 or 9, stop the game and talk about it. Then move that counter to 3 or 7.",
      "say": "You reached the edge! In real life, that is when the body cannot fix it alone. What would a grown-up do to help?",
      "kid": "You reached the edge. Your body needs help now. What can a grown-up do?",
      "ask": [
@@ -767,12 +767,12 @@
     }
    ],
    "rules": [
-    "One person is the Brain and holds the caller cards.",
+    "One person is the Brain and holds the caller cards. Keep 'Just right!' aside for the very end and shuffle the other 11.",
     "The Brain reads a card. The players act out what the body does. For example, wipe sweat for 'Hot sun!' and shiver for 'Cold wind!'.",
     "For 'Very thirsty!' pretend to drink. For 'Sticky monsoon room!' wipe sweat and fan yourself, and say the sweat is not drying. For 'Fan is on, wet back!' give a small shiver, because drying water cools you.",
-    "For 'Just right!', everyone stands still and smiles.",
     "If a player does a cooling action for a cold card, or a warming action for a hot card, they explain what went wrong and then carry on.",
-    "Swap who is the Brain after 6 cards. The game ends after all 12 cards. With two players, the grown-up is the Brain first and the child second."
+    "Swap who is the Brain after 6 cards. With two players, the grown-up is the Brain first and the child second.",
+    "The game ends with 'Just right!': everyone stands still and smiles."
    ],
    "flow": [
     {
@@ -793,12 +793,12 @@
       "t": "mcq",
       "q": "The Brain says 'Snow on the mountain!' What does your body do?",
       "options": [
-       "Shiver and get goosebumps",
-       "Sweat a lot",
+       "Shiver and hug yourself",
+       "Wipe sweat and fan yourself",
        "Go red in the face"
       ],
       "a": 0,
-      "why": "In the cold, your muscles shiver to make heat, and goosebumps try to trap warmth. Sweating and red cheeks are for losing heat, which you do when you are too hot. Mixing them up is common, so try acting out one hot card and one cold card again."
+      "why": "In the cold, your muscles shiver to make heat, and hugging yourself keeps heat in. Sweating and red cheeks are for losing heat, which you do when you are too hot. Mixing them up is common, so try acting out one hot card and one cold card again."
      },
      "context": "This is the main part of Brain Says, the acting game about keeping warm or cool."
     },
@@ -871,7 +871,7 @@
        "Cool down"
       ],
       [
-       "goosebumps",
+       "curling up in a ball",
        "Keep warm"
       ],
       [
@@ -884,7 +884,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Sweating, red skin and panting all help heat escape. Shivering makes heat. Goosebumps and pale fingers help keep the heat in. Pale fingers might look like 'cold', but the body is saving heat for its middle."
+     "why": "Sweating, red skin and panting all help heat escape. Shivering makes heat. Curling up and pale fingers help keep the heat in. Pale fingers might look like 'cold', but the body is saving heat for its middle."
     },
     {
      "t": "fill",
@@ -919,17 +919,6 @@
      "why": "Something notices, something decides and something acts. Then the loop checks again, and stops when you are just right."
     },
     {
-     "t": "mcq",
-     "p": "Vikram, a boy in Class 4, is waiting for the school bus on a cold morning. His arms and jaw start to shake. What is his body doing?",
-     "opts": [
-      "Cooling him down",
-      "Shaking because he is scared",
-      "Working his muscles fast to make heat"
-     ],
-     "a": 2,
-     "why": "This is shivering. Working muscles make heat, so shaking fast warms him up. Picking 'cooling down' mixes up shivering with sweating."
-    },
-    {
      "t": "truefalse",
      "p": "A clay matka keeps water cool because clay is a cold material.",
      "a": false,
@@ -961,18 +950,6 @@
      ],
      "a": 1,
      "why": "When you are hot, the blood vessels near your skin open wider. More warm blood passes near the air, and heat escapes. Cheeks can also go red when you feel shy, but after running it is about cooling."
-    },
-    {
-     "t": "mcq",
-     "p": "Which of these is a good sign that you have drunk enough water?",
-     "opts": [
-      "Very dark yellow pee",
-      "Feeling dizzy",
-      "Pale yellow pee",
-      "A dry mouth"
-     ],
-     "a": 2,
-     "why": "Pale yellow pee usually means your kidneys have plenty of water to let go. Dark pee, dizziness and a dry mouth can all mean you need to drink."
     },
     {
      "t": "write",
@@ -1011,23 +988,34 @@
      "why": "Each person has part of it. Cold water takes in some heat. Matka water and a fan are cheap and work well. But the body's main cooler is drying sweat, and that needs enough water."
     },
     {
-     "t": "mcq",
-     "p": "Your skin is the first to feel the heat. But which part of you decides to start sweating?",
-     "opts": [
-      "Your skin itself",
-      "A small part of your brain called the hypothalamus",
-      "Your sweat"
-     ],
-     "a": 1,
-     "why": "The hypothalamus is about the size of an almond, deep inside the brain. Sensors send it messages. It compares your warmth with 'just right' and sends the order. The sweat glands only carry it out."
-    },
-    {
      "t": "write",
      "p": "Predict. A girl runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?",
      "lines": 3,
      "a": "Only a small one, less than a degree. Running makes extra heat, but her body gets rid of it fast. Warm blood goes to her skin, which is why her face feels hot, and she sweats. So the inside stays close to 37 degrees.",
      "why": "A strong answer predicts a small change and explains it with the cooling tricks: blood to the skin and sweat. It notices that a hot face does not mean a hot inside. The My Steady Inside test checks this.",
      "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "You can make yourself sweat just by deciding to, the way you decide to wave your hand.",
+     "a": false,
+     "how": "a1",
+     "why": "False. Sweating is done for you by a part of your brain, without your choosing. In Jump and Notice you could not sweat on purpose, but your body did it when you were hot."
+    },
+    {
+     "t": "write",
+     "p": "Find the mistake. Ananya, a girl in Class 2, says, 'When I put on a jumper on a cold morning, the jumper makes heat to warm me.' What is wrong?",
+     "lines": 3,
+     "a": "A jumper does not make heat. My body makes the heat, in my muscles and cells. The jumper holds a layer of still air next to my skin, so the heat I make does not escape so fast.",
+     "why": "A strong answer says the heat comes from the body, and the jumper only keeps it in, like fur on a cat."
+    },
+    {
+     "t": "fill",
+     "p": "When water slowly turns into a gas and goes into the air, it ____. Sweat does this when it dries.",
+     "a": [
+      "evaporates"
+     ],
+     "why": "Evaporation takes heat from your skin, and that is why drying sweat cools you."
     }
    ]
   },
@@ -1071,7 +1059,7 @@
       "They are trying to bark"
      ],
      "a": 1,
-     "why": "Dogs have sweat glands only on their paw pads. Panting moves air over their wet tongue, so water dries and cools them. It is the same trick as sweating."
+     "why": "Panting moves air over their wet tongue, so water dries and cools them. It is the same trick as sweating."
     },
     {
      "t": "truefalse",
@@ -1225,12 +1213,11 @@
      "why": "Sweat cools only when it dries. Thick wool holds the sweat and the heat next to the skin. Thin cotton lets air in, so the sweat can dry and carry heat away."
     },
     {
-     "t": "fill",
-     "p": "When your blood gets a little too salty, you feel ____.",
-     "a": [
-      "thirsty"
-     ],
-     "why": "Sensors in the hypothalamus notice the saltiness and make you feel thirsty. Then you drink, and the saltiness goes back to just right."
+     "t": "write",
+     "p": "In winter, your fingers and toes go cold long before your tummy does. Use the word 'blood' to explain why.",
+     "lines": 3,
+     "a": "In the cold, the blood vessels in my skin squeeze narrow, so less warm blood goes to my fingers and toes. My body keeps the warm blood near my middle, where my heart and brain are.",
+     "why": "A strong answer says the blood vessels narrow, and that the body is saving heat for the parts that matter most. Cold fingers are the body working, not failing."
     }
    ]
   },
@@ -1328,18 +1315,6 @@
      "why": "Birds keep themselves at about 40 to 42 degrees. Humans are about 37. A lizard does not make much of their own heat, so on a cold morning they are as cold as the air until they bask."
     },
     {
-     "t": "mcq",
-     "p": "Why can't goosebumps keep us warm the way fur keeps a cat warm?",
-     "opts": [
-      "We have no muscles in our skin",
-      "Goosebumps make us hotter than cats",
-      "Our body hair is too thin and short to trap a layer of air",
-      "Cats don't have hair"
-     ],
-     "a": 2,
-     "why": "Goosebumps pull our hairs up, just like a cat's. But our hairs are too thin to trap a blanket of still air. So goosebumps are a leftover from our furry relatives."
-    },
-    {
      "t": "draw",
      "p": "Draw the Earth's slow rock thermostat as a loop: Earth gets warmer, more rain and weathering, less carbon dioxide in the air, Earth cools.",
      "a": "A loop of four arrows: warmer Earth, more rain washing rocks, less carbon dioxide, cooler Earth, back to the start.",
@@ -1377,6 +1352,18 @@
      "p": "A healthy body keeps its temperature at exactly the same number all day long.",
      "a": false,
      "why": "False. Homeostasis keeps the temperature close to 37 degrees, not exactly on it. It is a little lower early in the morning and a little higher in the evening or after running. The body corrects big changes, not tiny ones."
+    },
+    {
+     "t": "mcq",
+     "p": "A desert cooler blows air through wet straw pads. It works well in Hyderabad in May but poorly in Chennai in July. Why?",
+     "opts": [
+      "Chennai has no electricity",
+      "Humid air cannot take up much more water, so the pads dry slowly and cool the air less",
+      "The cooler makes heat in July",
+      "Straw only works in May"
+     ],
+     "a": 1,
+     "why": "A cooler cools the air as the water in the pads dries, the same trick as sweat. Dry May air takes up water fast. Humid air is already full of water, so the pads dry slowly."
     }
    ]
   }
@@ -1390,7 +1377,7 @@
    "context": "This is the sweaty tumbler test. You wrap two tumblers of warm water, one in a wet cloth and one in a dry cloth, and put them in front of a fan. Then you measure which one cools down faster.",
    "question": "Does a wet cloth, like sweat on skin, cool something down faster than a dry cloth?",
    "predict": "Before you start, guess. Which tumbler will be cooler after 20 minutes: the one in the wet cloth or the one in the dry cloth? Or will they be the same? Why do you think so?",
-   "fair_test": "To make it fair, keep everything the same except the wet cloth. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Stand both on the same kind of plate, the same distance from the fan.",
+   "fair_test": "To make it fair, keep everything the same except the wet cloth. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Stand both on the same kind of plate, side by side, the same distance from the fan.",
    "results_table": [
     "Time (minutes)",
     "Wet cloth tumbler (degrees)",
@@ -1655,7 +1642,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child runs on the spot for 2 minutes. 2. Straight away, take their temperature again the same way. 3. Ask how their face and hands feel.",
+     "do": "1. Your child runs on the spot for 2 minutes. 2. If the armpit is sweaty, pat it dry. 3. Straight away, take their temperature again the same way. 4. Ask how their face and hands feel.",
      "say": "Run on the spot, as fast as you like, for 2 minutes. Now quickly, thermometer under your arm again. How does your face feel?",
      "kid": "Run on the spot for 2 minutes. Then take your temperature again. Touch your face. Is it hot? Are you sweaty?",
      "ask": [
@@ -1669,7 +1656,7 @@
       }
      ],
      "context": "This is a step of the My Steady Inside experiment. You take your temperature after running.",
-     "parent": "Pat the armpit dry first if it is sweaty. The number may rise by a few tenths of a degree, stay the same, or even dip a little, because sweaty skin cools the thermometer. A change of less than one degree is what to expect."
+     "parent": "The number may rise by a few tenths of a degree, stay the same, or even dip a little, because sweaty skin cools the thermometer. A change of less than one degree is what to expect."
     },
     {
      "id": "s4",
@@ -1752,7 +1739,7 @@
    "record": "Fill in the table. Draw the matka with little arrows showing water creeping out and drying away.",
    "setup": [
     {
-     "art": "A clay matka and a steel pot side by side in the shade on a verandah, both being filled from one jug.",
+     "art": "A clay matka and a steel pot side by side in the shade on a balcony, both being filled from one jug.",
      "caption": "1. Fill both pots with the same water. Measure the start."
     },
     {
@@ -1810,7 +1797,7 @@
      "kid": "How is the matka like your sweaty skin? Say three things. What I think. What I saw. Why.",
      "check": {
       "t": "mcq",
-      "q": "In the matka test, the matka water stayed cooler. What is the best reason?",
+      "q": "In the matka test on a dry day, the matka water ends up cooler than the steel pot water. What is the best reason?",
       "options": [
        "Water seeps out and dries on the outside, carrying heat away",
        "Clay is a cold material",
@@ -1975,7 +1962,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Your child presses the pad of a finger on their dry hand for 3 seconds, then lets go. 2. Count the seconds until the white spot is pink again. 3. Now they put the other hand in the cold water for one minute, then dry it.",
+     "do": "1. Your child presses the pad of a finger on one hand for 3 seconds, then lets go. This hand stays dry and warm. 2. Count the seconds until the white spot is pink again. 3. Now they put the other hand in the cold water for one minute, then dry it.",
      "say": "Press your fingertip hard for three seconds and let go. See the white spot? Let's count until it is pink again. Now put your other hand in the cold water for one minute.",
      "kid": "Press a fingertip for 3 seconds. Let go. Count until it is pink. Then put your other hand in cold water.",
      "adult": true,
@@ -2029,7 +2016,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "sticky notes or small paper slips",
+     "item": "sticky notes, or small paper slips and a little tape",
      "qty": 10
     },
     {
@@ -2243,8 +2230,8 @@
       "q": "Why does a cat fluff up their fur on a cold morning?",
       "options": [
        "Standing fur traps a layer of warm air",
-       "To look bigger to the cold",
-       "Fur makes its own heat"
+       "To dry their fur faster",
+       "Fur makes heat on its own"
       ],
       "a": 0,
       "why": "Standing fur holds still air, and still air keeps heat in, like a blanket. Cats do also puff up to look bigger when frightened, but on a cold morning it is about warmth. Fur does not make heat. It only keeps in the heat the body makes."
@@ -2326,8 +2313,8 @@
      "id": "s2",
      "mins": 10,
      "do": "Keep the diary all day. Try to include some active play, outside if you can, or star jumps and skipping at home.",
-     "say": "Today let's play outside for a while. Do you think you will drink more or less today? Will your pee be paler or darker?",
-     "kid": "Keep your diary today. Play outside too. Do you drink more on an active day?",
+     "say": "Today let's be extra active, outside if we can, or with star jumps and skipping at home. Do you think you will drink more or less today? Will your pee be paler or darker?",
+     "kid": "Keep your diary today. Be extra active: play outside, or do star jumps and skipping. Do you drink more on an active day?",
      "wait": "Day 2: keep the diary all day",
      "context": "This is day 2 of My Water Diary. You keep counting, on a busier day."
     },
@@ -2368,14 +2355,14 @@
     "Measure the inside of both boxes with a thermometer at the end."
    ],
    "materials": [
-    "two shoeboxes, each with a small window cut in one side",
+    "two shoeboxes with their lids on, each with two small windows cut in opposite sides",
     "a thermometer. With only one, move it from box to box and leave it inside for 2 minutes before you read it.",
     "cotton cloth, water, a spray bottle, white paper, foil, a clay saucer or kulhad"
    ],
    "general": [
     "Cover the box with white paper or foil, so it reflects sunlight.",
     "Shade it with cardboard or cloth.",
-    "Hang a wet cloth over the window, so the air coming in is cooled by drying water."
+    "Hang a wet cloth over one window, so the air coming in is cooled by drying water."
    ],
    "creative": [
     "People in India have hung wet khus grass mats in doorways for hundreds of years. The breeze through the wet mat cools the room. Could you make a tiny one?",
@@ -2401,7 +2388,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put both shoeboxes in the sun, with the same window facing the same way. 2. Put a thermometer inside each one. 3. Write down the starting numbers.",
+     "do": "1. Put both shoeboxes in the sun, with the windows facing the same way. 2. Put a thermometer inside each one. With only one thermometer, read one box, then the other. 3. Write down the starting numbers.",
      "say": "Here are two little rooms in the sun. In 30 minutes, which will be cooler inside? Let's make one of them cool, without any electricity.",
      "kid": "Put both boxes in the sun. Put a thermometer in each. Write the numbers.",
      "context": "This is the first step of the shoebox room challenge. You set up two boxes in the sun."
@@ -2427,7 +2414,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "At the 30-minute mark, about 10 minutes after you finish building, read both thermometers. If you have one thermometer, read the plain box first and then the test box, each after 2 minutes inside. Compare.",
+     "do": "After your child finishes building, leave both boxes in the sun for about 5 more minutes. Then read both thermometers. If you have one thermometer, read the plain box first, then move it into the test box. Leave it inside each box for 2 minutes before you read it. Compare.",
      "say": "Let's read both. How many degrees cooler is your room? Which idea worked best?",
      "kid": "Read both thermometers. How much cooler is your box? Which idea helped most?",
      "check": {
@@ -2532,7 +2519,7 @@
    "youtube": "Iz0Q9nTZCw4",
    "mins": 8,
    "why": "For the parent: a clear, friendly cartoon explanation of set points and feedback loops, with body temperature as the main example.",
-   "check": "Not yet watched by a person: watch it first. Title and channel recalled, not opened from here. Find the video on the Amoeba Sisters channel, check it plays, and add its id."
+   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
   },
   {
    "title": "Why Do We Sweat? | Sports Science | SciShow Kids",
@@ -2540,7 +2527,7 @@
    "youtube": "c2_aN98p0RM",
    "mins": 4,
    "why": "For the child: why sweating cools us, told simply.",
-   "check": "Not yet watched by a person: watch it first."
+   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
   },
   {
    "title": "Temperature Regulation Of The Human Body | Physiology | Biology | FuseSchool",
@@ -2548,7 +2535,7 @@
    "youtube": "vJhsyS4lTW0",
    "mins": 5,
    "why": "For curious children and parents: sweating, shivering, blood vessels and the hypothalamus in one short animation.",
-   "check": "Not yet watched by a person: watch it first. Choose one short animation on thermoregulation from a trusted science channel. Check it does not say that sweat is cold when it comes out."
+   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
   }
  ],
  "quiz": [
@@ -2726,7 +2713,7 @@
   "Astronauts wear a suit of thin water tubes under their spacesuit, to carry body heat away.",
   "Newborn babies in hospital are kept in warm cots or held skin to skin, because they lose heat quickly.",
   "Builders and farmers are told to work early and late in the day in summer, and rest in the shade at noon.",
-  "Engineers design buildings with shade, thick walls and courtyards to stay cool, like old havelis in Rajasthan."
+  "Engineers design buildings with shade, thick walls and courtyards to stay cool, like old havelis in Rajasthan and the open central courtyards of old Kerala houses."
  ],
  "spotted": [
   {
@@ -2758,8 +2745,8 @@
    "art": "A group of monkeys huddled close on a wall on a misty winter morning."
   },
   {
-   "text": "Shops selling nimbu pani with a pinch of salt in summer.",
-   "art": "A roadside cart with a jug of lemon water, glasses and a small bowl of salt."
+   "text": "Shops selling nimbu pani or neer mor (spiced buttermilk) with a pinch of salt in summer.",
+   "art": "A roadside cart with a jug of lemon water, a pot of buttermilk, glasses and a small bowl of salt."
   }
  ],
  "open_questions": [
@@ -2806,10 +2793,6 @@
    "a": "It wanted to get more degrees."
   },
   {
-   "j": "What did the sweat drop say to the forehead?",
-   "a": "Don't worry, I'll be gone in a minute, and I'm taking the heat with me."
-  },
-  {
    "j": "Why did the matka never get stressed?",
    "a": "It always kept its cool."
   },
@@ -2836,10 +2819,6 @@
   {
    "j": "Why did the lizard lie on the rock all morning?",
    "a": "She was charging her batteries, with sunlight."
-  },
-  {
-   "j": "What did one shiver say to the other?",
-   "a": "Let's warm up to each other."
   }
  ],
  "maths": [
@@ -2922,7 +2901,7 @@
    "why_maths": "Counting and adding your cups turns a feeling, 'I was thirsty', into numbers you can compare across days."
   },
   {
-   "problem": "In Keep It Just Right, your counter starts on box 5. You draw 'Played cricket at noon: +2', then 'Drank hot coffee: +1'. Which box are you on? How many do you need to take away to get back to 5, and which body cards add up to that?",
+   "problem": "In Keep It Just Right, your counter starts on box 5. You draw 'Played cricket at noon: +2', then 'Drank a hot bowl of rasam: +1'. Which box are you on? How many do you need to take away to get back to 5, and which body cards add up to that?",
    "answer": "Box 8. You need to take away 3. Sweat (minus 2) and Cheeks go red (minus 1) add up to 3.",
    "explain": "5 + 2 = 7. 7 + 1 = 8. To get from 8 to 5 you need to take away 3. Sweat takes away 2, which leaves you on 6. Cheeks go red takes away 1 more, and that brings you to 5. In the game you play one card a turn, so it takes two turns.",
    "math_unit": "math.algebra.balance-and-missing-numbers.L3",
@@ -3001,7 +2980,7 @@
    "id": "b-probe",
    "item": "Digital kitchen probe thermometer",
    "kind": "tool",
-   "why": "Measures the water in the sweaty tumbler test, the matka test and the shoebox challenge.",
+   "why": "To measure the temperature of water. The tumbler test, the matka test and the shoebox challenge all use it.",
    "url": "https://www.amazon.in/s?k=digital+probe+thermometer+kitchen",
    "used_in": [
     "e1",
@@ -3013,7 +2992,7 @@
    "id": "b-fever",
    "item": "Digital fever thermometer",
    "kind": "tool",
-   "why": "Measures your own temperature in the My Steady Inside test. Every home should have one anyway.",
+   "why": "To take your own temperature. Every home should have one anyway.",
    "url": "https://www.amazon.in/s?k=digital+thermometer+fever",
    "used_in": [
     "e2"
@@ -3023,41 +3002,20 @@
    "id": "b-matka",
    "item": "Small clay matka or surahi",
    "kind": "material",
-   "why": "For the matka test, and to keep cool drinking water all summer. A local potter or market often has them more cheaply.",
+   "why": "Keeps drinking water cool all summer. A local potter or market often has them more cheaply.",
    "url": "https://www.amazon.in/s?k=clay+matka+water+pot",
    "used_in": [
-    "e3",
-    "c1"
+    "e3"
    ]
   },
   {
    "id": "b-lens",
    "item": "Magnifying glass",
    "kind": "tool",
-   "why": "To watch goosebumps up close. Not needed: you can also look with your eyes alone.",
+   "why": "To watch goosebumps up close. You can also look with your eyes alone.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
    "used_in": [
     "a5"
-   ]
-  },
-  {
-   "id": "b-ors",
-   "item": "ORS packets (WHO formula)",
-   "kind": "material",
-   "why": "Good to keep at home for loose motions or heat exhaustion. Children can read the packet and see the salt and sugar. Use it only when needed, as the packet says.",
-   "url": "https://www.amazon.in/s?k=ors+powder+who+formula",
-   "used_in": [
-    "p1"
-   ]
-  },
-  {
-   "id": "b-book",
-   "item": "The Way We Work, by David Macaulay",
-   "kind": "book",
-   "why": "A detailed picture book of how the body works. Read a few pages on the skin or the brain before the Body Council play.",
-   "url": "https://www.amazon.in/s?k=the+way+we+work+david+macaulay",
-   "used_in": [
-    "a4"
    ]
   }
  ],
@@ -3084,7 +3042,7 @@
   },
   {
    "q": "Why does a dog pant?",
-   "a": "Water dries from its tongue and cools it down."
+   "a": "Water dries from their tongue and cools them down."
   },
   {
    "q": "Why is a matka damp on the outside?",
@@ -3195,7 +3153,7 @@
    "what_is_life": "All living things keep their inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.",
    "what_is_this_world": "Your heat and water leave you all the time, into the air of the room. Food and drink from the world bring them back."
   },
-  "thread": "The same loop keeps balance at every size. One cell pumps salt to keep their inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it, so one simple pattern shows up in countless living things.",
+  "thread": "The same loop keeps balance at every size. One cell pumps salt to keep their inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.14",
@@ -3240,5 +3198,6 @@
    "A lotus flower keeps itself warm on a cool night. What do you think the flower senses while it does that?"
   ],
   "art": "A child sitting cross-legged, with a loop of three arrows around them: a skin sensor, a glowing almond-shaped spot in the brain, and a drop of sweat. A sun and a snowflake sit outside the loop."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family in a flat would. Keep It Just Right: dealing 4 body cards to 4 players used the whole pile, so the draw pile was empty at the start and a played card came straight back. It now deals 3. Players going past box 1 or 9 are covered, the 'Drink water' card does something when no Sweat card is played, and the rules say how many event cards each player count uses. I swapped the fever card (a fever raises the set point, which the game cannot show) for a hot bath, and the Goosebumps card for rubbing hands, because the unit teaches that goosebumps do little for humans; the same fix is in the Brain Says check, the sort and the explanation card. Brain Says now keeps 'Just right!' for the end, so the 12 cards and the swap agree. In the shoebox challenge the minutes and the reading time now agree, the boxes get two windows so a wet cloth can cool the air passing through, and the one-thermometer way of reading is spelled out. In My Steady Inside the pat-dry step is in the instruction, and the matka question says it is a dry-day result. I removed duplicate worksheet questions (shivering, hypothalamus, pee colour, goosebumps, thirst fill), cut the jokes to 8, removed two buy items nothing in the unit used, and cleaned buy reasons. Examples now include Ooty, rasam, dosa, neer mor and Kerala courtyards. The three videos exist with matching titles on YouTube but were not watched; the sweaty tumbler numbers and the matka difference are expected, not measured here. Safety lines left in place are for hot water, ice, fans, hot appliances and very dark pee. I added five new questions (sweat is not a choice, the jumper mistake, evaporation, cold fingers, the desert cooler) to keep each sheet at 15 items."
 }

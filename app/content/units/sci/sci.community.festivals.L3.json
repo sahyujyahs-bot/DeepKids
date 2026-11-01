@@ -408,7 +408,13 @@
       "CHRISTMAS",
       "Paper star lanterns and plum cake",
       "REPUBLIC DAY",
-      "A parade in New Delhi with a decorated float from each state"
+      {
+       "f": "A parade in New Delhi with a decorated float from each state",
+       "img": {
+        "src": "media/cards/festivals-g1-0-23.jpg",
+        "credit": "Pete Souza, Public domain, via Wikimedia Commons"
+       }
+      }
      ]
     },
     {

@@ -569,7 +569,7 @@
       "Germs on a dirty hand, about to rub your nose",
       "Germs on an unwashed guava",
       "Bacteria on a rusty nail that pokes your foot (starts INSIDE)",
-      "Dirty puddle water splashing on a scraped knee (starts INSIDE)",
+      "Dirty monsoon puddle water splashing on a scraped knee (starts INSIDE)",
       "Germs on a shared spoon",
       "A mosquito carrying a germ (starts INSIDE)",
       "Germs on a door handle",
@@ -624,11 +624,11 @@
     "Cut out the 16 germ cards and the 12 defence cards. Lay the body board flat: OUTSIDE at the top, THE WALLS in the middle, INSIDE at the bottom.",
     "Shuffle the germ cards face down in one pile and the defence cards in another. One player is the Germ. The other players are the Body. Each Body player takes 3 defence cards.",
     "The Germ turns over the top card of the germ pile, reads the card out and places the card on OUTSIDE. A card marked 'starts INSIDE' goes straight onto INSIDE.",
-    "The Body players take turns, starting on the Germ's left. The Body player whose turn it is plays one defence card onto THE WALLS and says how it stops this germ. For example, 'Stomach acid kills the germs on the guava.' The other players agree, or say why it does not fit.",
+    "The Body players take turns, one germ card each, starting on the Germ's left. With two players, the one Body player answers every card. The Body player whose turn it is plays one defence card onto THE WALLS and says how it stops this germ. For example, 'Stomach acid kills the germs on the guava.' The other players agree, or say why it does not fit.",
     "If the defence fits, the germ is stopped. Put both cards in the discard pile. That Body player scores 1 point and takes a new defence card. If the defence pile runs out, shuffle the discard pile to make a new one.",
     "If she has no card that fits, or the germ starts INSIDE, the germ is inside the body. Now she can play only a WHITE BLOOD CELL, INFLAMMATION, FEVER or WASH IT card onto INSIDE, and say how it fights this germ. If it fits, she scores 1 point and takes a new card.",
     "If nothing fits, the germ scores 1 point for the Germ player. The germ card goes in the discard pile.",
-    "After 4 germ cards (8 if two of you play), the next player becomes the Germ. When all 16 germ cards are used, the player with the most points wins. A tie is shared."
+    "After 4 germ cards (8 if two of you play), the next player becomes the Germ. The new Germ puts her defence cards under the defence pile. The old Germ takes 3 new defence cards and keeps her points. When all 16 germ cards are used, the player with the most points wins. A tie is shared."
    ],
    "setup": [
     {
@@ -744,8 +744,8 @@
     "One player is the Germ and stands at the start line. One player is the Body and stands in front of the cushion as the SKIN WALL. The skin wall may shuffle sideways and spread her arms, but may not step forward.",
     "Round 1: the Germ runs round the wall to touch the cushion. If the skin wall touches the Germ first, the Body scores 1 point. If the Germ touches the cushion, the Germ scores 1 point. Play 3 tries.",
     "Round 2: shout 'FEVER!' Now the Germ must hop on one leg instead of running. Play 3 tries.",
-    "Round 3: the Body takes the WHITE BLOOD CELL card. She may now run, and she starts right next to the Germ, because she remembers the germ from round 1. Play 3 tries. Grown-ups, move at the child's speed so it stays a game.",
-    "Swap roles and play all three rounds again. The player with more points wins.",
+    "Round 3: the Body takes the WHITE BLOOD CELL card. She may now run, and she starts right next to the Germ, because the hurt place has sent out signals that call white blood cells to it. Play 3 tries. Grown-ups, move at the child's speed so it stays a game.",
+    "Count the points for the three rounds. If you like, swap roles and play all three rounds again, then add up both turns. The player with more points wins. A tie is shared.",
     "With 4 or more players, add more Germs. The skin wall players hold hands in a line and shuffle sideways together. In round 3 one extra player is the white blood cell, and a Germ she tags is out."
    ],
    "setup": [
@@ -755,7 +755,7 @@
     },
     {
      "art": "A germ child hopping on one leg while the white blood cell runs to tag them.",
-     "caption": "2. In the fever round, the germ must hop."
+     "caption": "2. In the fever round, the germ must hop. In the last round, the white blood cell starts next to the germ."
     }
    ],
    "flow": [
@@ -808,8 +808,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Play round 3 with the white blood cell starting next to the germ. 3 tries.",
-     "say": "Round three: the white blood cell remembers this germ from before. So she starts right next to the germ.",
-     "kid": "Round three: the white blood cell remembers the germ. She starts right beside the start line. Run!",
+     "say": "Round three: a hurt place sends out signals, and white blood cells follow them to the germs. So the white blood cell starts right next to the germ.",
+     "kid": "Round three: the white blood cell follows the signals to the germ. She starts right beside the germ. Run!",
      "context": "This is step 4 of 5 of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
     },
     {
@@ -818,7 +818,7 @@
      "do": "Swap roles and play again if you like. Then sit down together and talk.",
      "say": "Which round was hardest for the germ? Why?",
      "kid": "Which round was hardest for the germ? Say why.",
-     "think": "In round three the white blood cell remembered. You will learn how the body remembers germs in a later unit.",
+     "think": "In round three the white blood cell started next to the germ. In your body, what tells white blood cells where the germs are?",
      "context": "This is the last step of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
     }
    ]
@@ -887,15 +887,11 @@
      "how": "a1"
     },
     {
-     "t": "mcq",
-     "p": "Remember the Apple Skin Test? Apple A was left whole, with soil rubbed on its skin. Apple B had one clean cut. Which apple went soft and brown first, and why?",
-     "opts": [
-      "Apple A, because whole apples rot from the inside",
-      "Both at the same time, because they are the same kind of apple",
-      "Apple B, because microbes got in through the cut"
-     ],
-     "a": 2,
-     "why": "Microbes landed on both apples. On apple A, the skin kept them out. On apple B, the cut was an open door. A strong answer gives the reason, not just the letter: the skin is the wall, and a cut is a hole in it.",
+     "t": "write",
+     "p": "Think about the Apple Skin Test. Add an apple E: it has a cut with soil rubbed in, and then a clean plaster over the cut. On day 7, will E look more like apple C (soil in the cut, no cover) or like apple A (skin whole)? Say why.",
+     "lines": 3,
+     "a": "E should look better than C. The plaster works like skin: it keeps microbes from the air and the outside away from the cut. But the soil was already inside the cut, so E may still start to go soft, a little later than A. Washing the cut first, like apple D, would help more.",
+     "why": "A strong answer says that a cover acts like a skin wall, and also notices that microbes already inside the cut are not kept out by it. That is why we wash a cut before we cover it.",
      "how": "e1"
     },
     {
@@ -932,7 +928,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 4, scraped her knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?",
+     "p": "Ishani, a girl in Class 4, scraped her knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?",
      "opts": [
       "The scrape is spreading and getting worse",
       "Extra blood is bringing white blood cells to fight germs at the scrape",
@@ -994,7 +990,7 @@
      "ask": "Whose side are you on? Give a reason from this unit. Then say one thing another person gets right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses the unit: for example, most microbes are harmless or helpful, or a cut is an open door for germs. Then it fairly gives another person's best point, for example that dirty hands carry germs into the mouth.",
-     "why": "There is no single winner. Paati is right that some germs live in soil, as apple C showed. Amma's idea about allergies is studied by scientists, but it is not settled. Dr Revathi joins both: play, then wash."
+     "why": "There is no single winner. Paati is right that some germs live in soil, as apple C showed. Amma's idea about allergies is studied by scientists, but it is not settled. Dr Nandini joins both: play, then wash."
     },
     {
      "t": "truefalse",
@@ -1078,12 +1074,6 @@
      "why": "This is a real argument. Doctors today mostly agree with Dr Meera: medicine is for comfort, and warning signs matter more than the number. The grandmother is right that fever helps. The aunt is right that a child who is very unwell needs care."
     },
     {
-     "t": "truefalse",
-     "p": "A fever is always dangerous and must always be brought down quickly.",
-     "a": false,
-     "why": "False. Most fevers are the body fighting germs, and they pass in a few days. Doctors say to look after the child's comfort and watch for warning signs, rather than chase a number."
-    },
-    {
      "t": "write",
      "p": "Challenge the belief. A girl's grandmother says, 'You went out with wet hair, so you caught a cold.' The girl says, 'A cold is caused by a virus.' Who is right, and how could both be partly right?",
      "lines": 3,
@@ -1143,7 +1133,7 @@
     },
     {
      "t": "mcq",
-     "p": "Antibiotics are medicines that kill bacteria. Shanthi, a girl in Class 4, has a cold, which is caused by a virus. Will an antibiotic help her get better?",
+     "p": "Antibiotics are medicines that kill bacteria. Zoya, a girl in Class 4, has a cold, which is caused by a virus. Will an antibiotic help her get better?",
      "opts": [
       "Yes, antibiotics kill every kind of germ",
       "No. Antibiotics do not work on viruses. Rest, water and her own immune system will beat the cold.",
@@ -1151,6 +1141,14 @@
      ],
      "a": 1,
      "why": "Many people think antibiotics cure colds. They do not, because a cold is caused by a virus, not bacteria. Taking antibiotics when they are not needed also helps bacteria learn to survive them. A strong answer says why: antibiotics work on bacteria only."
+    },
+    {
+     "t": "write",
+     "p": "In the Sticky Nose Test, you counted the dust specks only between the two pencil lines, not on the whole card. Why does that make the test fairer?",
+     "lines": 3,
+     "a": "Both cards had the same area counted, 4 cm of tape between the lines. If one card was counted all over and the other only in part, the numbers could not be compared. Counting the same area means only the stickiness is different.",
+     "why": "A strong answer says the same area must be counted on both cards, so that the only difference is the sticky or smooth tape.",
+     "how": "e3"
     },
     {
      "t": "match",
@@ -1180,7 +1178,7 @@
      "t": "mcq",
      "p": "A vaccine shows the immune system a harmless form of a germ, such as a dead or weakened one. Why does this help when the real germ comes later?",
      "opts": [
-      "The body recognises the germ and fights them much faster",
+      "The body recognises the germs and fights them much faster",
       "The vaccine makes the skin thicker",
       "The vaccine kills every microbe in the body"
      ],
@@ -1841,9 +1839,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Measure again three more times today: after running about, in the afternoon and in the evening.",
-     "say": "Let's measure again after you have run about or jumped for a few minutes. Then this afternoon, and after dinner. Remember to sit still for a few minutes first, and measure the same way.",
-     "kid": "Measure again: after playing, in the afternoon and in the evening. Same arm, same way. Write each number.",
+     "do": "Measure again three more times today: right after running about for 3 minutes, in the afternoon and in the evening.",
+     "say": "Let's run about or jump for 3 minutes. Then sit down and measure straight away. Measure again this afternoon, and after dinner. Use the same arm and the same way each time.",
+     "kid": "Run about for 3 minutes, then sit down and measure. Measure again in the afternoon and in the evening. Same arm, same way. Write each number.",
      "wait": "Come back to this step later in the day.",
      "chart": {
       "type": "table",
@@ -1876,7 +1874,8 @@
        ]
       ]
      },
-     "context": "This is step 3 of 5 of My Temperature Through the Day. In this experiment you take your own temperature at different times of one day, with a digital thermometer. You find out what 'normal' is for you, so you will know a fever when you see one."
+     "context": "This is step 3 of 5 of My Temperature Through the Day. In this experiment you take your own temperature at different times of one day, with a digital thermometer. You find out what 'normal' is for you, so you will know a fever when you see one.",
+     "parent": "After running, the number may go up only a little, or not at all. Write what you really read. Do not measure after a hot bath or a cold drink."
     },
     {
      "id": "s4",
@@ -1947,8 +1946,7 @@
     },
     {
      "item": "a magnifying glass, or a phone camera zoomed in",
-     "qty": 1,
-     "buy": "b-magnifier"
+     "qty": 1
     },
     {
      "item": "a pencil and a ruler",
@@ -1964,7 +1962,7 @@
     {
      "day": 2,
      "mins": 15,
-     "what": "Turn each card over and tap it once. Count the dust specks between the lines on each card with a magnifying glass. Make a bar chart."
+     "what": "Turn each card over and knock it gently once. Count the dust specks between the lines on each card with a magnifying glass. Make a bar chart."
     }
    ],
    "record": "Count the dust specks between the lines on each card twice, and write the counts in the table. Then draw a bar chart with one bar for each card.",
@@ -2023,9 +2021,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Hold each card upside down and tap it once, so loose dust falls off. Then count the specks between the lines on each card with the magnifying glass, twice. Write both counts, then the number halfway between them.",
-     "say": "First we turn each card over and tap it. Air rushes through your nose with every breath. Only dust that stays stuck has really been trapped. Now let's count the specks between the lines on each card. Count twice, because it's easy to miss some. Then we find the number halfway between the two counts.",
-     "kid": "Turn each card over and tap it once. Use the magnifying glass. Count the specks between the lines. Count twice. Write the numbers.",
+     "do": "Hold each card upside down and knock it gently once, so loose dust falls off. Then count the specks between the lines on each card with the magnifying glass, twice. Write both counts, then the number halfway between them.",
+     "say": "First we turn each card over and knock it gently. Air rushes through your nose with every breath. Only dust that stays stuck has really been trapped. Now let's count the specks between the lines on each card. Count twice, because it's easy to miss some. Then we find the number halfway between the two counts.",
+     "kid": "Turn each card over and knock it gently once. Use the magnifying glass. Count the specks between the lines. Count twice. Write the numbers.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -2196,9 +2194,8 @@
    "context": "In this activity you look closely at your own skin with a magnifying glass. You use sticky tape to pick up old skin flakes, which shows how skin keeps renewing its outer wall.",
    "materials": [
     {
-     "item": "a magnifying glass",
-     "qty": 1,
-     "buy": "b-magnifier"
+     "item": "a magnifying glass, or a phone camera zoomed in",
+     "qty": 1
     },
     {
      "item": "clear sticky tape",
@@ -2461,7 +2458,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Count again while the person reads silently, then compare.",
+     "do": "Count again while each of you reads silently for one minute, then compare.",
      "say": "Now let's count while you read. Do you think the number will be the same?",
      "kid": "Count blinks again while someone reads. Is the number the same?",
      "check": {
@@ -2488,7 +2485,7 @@
    "context": "In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence.",
    "materials": [
     {
-     "item": "a warm spot and a cool spot, such as a patch of sun by a window and a shady corner",
+     "item": "a warm spot and a cool spot, such as a patch of sun by a window and a shady corner (or any two corners you name that way)",
      "qty": 1
     },
     {
@@ -2521,7 +2518,8 @@
      "do": "Ask your child to crawl about as a healthy lizard, moving between sun and shade.",
      "say": "Lizards make very little heat of their own. To warm up, they lie on a hot rock. To cool down, they hide in shade. Be a healthy lizard. Move between sun and shade.",
      "kid": "You are a lizard. Lizards warm up on hot rocks and cool down in shade. Move between sun and shade.",
-     "context": "This is the first step of The Lizard's Fever. In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence."
+     "context": "This is the first step of The Lizard's Fever. In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence.",
+     "parent": "If your flat has no sunny patch, pick any two corners and call one the warm rock and the other the shade. The acting works the same."
     },
     {
      "id": "s2",
@@ -2648,9 +2646,8 @@
      "qty": 20
     },
     {
-     "item": "a paper dial for the fever knob, with a split pin",
-     "qty": 1,
-     "buy": "b-splitpins"
+     "item": "a card arrow and a paper dial for the fever knob",
+     "qty": 1
     }
    ],
    "safety": "A grown-up helps with sharp scissors and cutting cardboard.",
@@ -2738,9 +2735,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Fix a paper fever knob on the tower and invite someone at home, or a friend, for a tour.",
-     "say": "The brain's heat knob sits on the tower. When the guards call for help, the knob turns up. That's a fever. Now give someone at home, or a friend, a tour of the castle.",
-     "kid": "Put a heat knob on the tower. Turn it up when the guards call: that's a fever. Now give someone at home, or a friend, a tour!",
+     "do": "Cut a slit in the tower and push a card arrow through it. Up means hot and down means cool. This is the fever knob. Then invite someone at home, or a friend, for a tour.",
+     "say": "The brain's heat knob sits on the tower. When the guards call for help, slide the arrow up. That's a fever. Now give someone at home, or a friend, a tour of the castle.",
+     "kid": "Put a heat knob on the tower: a card arrow in a slit. Slide it up when the guards call: that's a fever. Now give someone at home, or a friend, a tour!",
      "parent": "During the tour, ask the visitor to say 'How do you know?' about one defence.",
      "context": "This is the last step of Build the Body Castle. In this 2-day project you build a cardboard castle that shows all the body's defences: walls, gates, guards and a heat knob. Then you give a tour of it to your family."
     }
@@ -2760,7 +2757,7 @@
     "Test each idea the same way: 3 sprays from the same place, 1 metre from the paper."
    ],
    "materials": [
-    "a spray bottle with water and a few drops of food colouring or ink",
+    "a spray bottle (a clean plant mister or an old cleaner bottle, rinsed well) with water and a few drops of food colouring or ink",
     "several sheets of white paper, taped to a wall one at a time",
     "a tissue, a hanky, a cloth mask, and your own sleeve",
     "a measuring tape"
@@ -2798,7 +2795,7 @@
      "say": "A sneeze can spray tiny drops a long way. Germs ride in those drops. This bottle is our pretend sneeze. Let's see how far it goes with nothing to stop it.",
      "kid": "Spray the bottle 3 times at the paper. Nothing in the way. Count the coloured spots.",
      "adult": true,
-     "parent": "Set the nozzle to a fine spray, not a jet. Use washable colouring and paper you don't mind spotting. Protect the floor with newspaper.",
+     "parent": "Set the nozzle to a fine spray, not a jet. Use washable colouring and paper you don't mind spotting. Protect the floor with newspaper. If you do not want marks on the wall, tape the paper to a big cardboard box instead.",
      "context": "This is the first step of The Sneeze Stopper. This is a design challenge. A spray bottle makes a pretend sneeze. You test ways to catch it, and design the best sneeze stopper you can."
     },
     {
@@ -2879,7 +2876,7 @@
     "First wash the cut, then cover it."
    ],
    "creative": [
-    "Try a clean leaf as a cover. Does it keep out the flour and the water?",
+    "Try a washed banana leaf or betel leaf as a cover. Does it keep out the flour and the water?",
     "Make a cover with a soft middle and a waterproof top.",
     "The Sushruta Samhita, an old Indian book on surgery, describes cleaning wounds and binding them with clean cloth. Try a design like that."
    ],
@@ -3003,14 +3000,14 @@
   },
   {
    "t": "mcq",
-   "p": "What does a phagocyte do when they touch a germ?",
+   "p": "What do phagocytes do when they touch germs?",
    "opts": [
-    "Wraps round the germ and swallows them",
-    "Runs away from the germ",
-    "Turns into a germ"
+    "They wrap round the germs and swallow them",
+    "They run away from the germs",
+    "They turn into germs"
    ],
    "a": 0,
-   "why": "A phagocyte is a white blood cell that eats germs. They wrap round the germ, pull them inside and break them down with chemicals.",
+   "why": "A phagocyte is a white blood cell that eats germs. Phagocytes wrap round germs, pull them inside and break them down with chemicals.",
    "outcome": 2
   },
   {
@@ -3123,7 +3120,7 @@
    "art": "A dusty window grill above a road full of autos."
   },
   {
-   "text": "A scab on a cricketer's knee after a slide on the maidan.",
+   "text": "A scab on a footballer's knee after a muddy match in Shillong, or a cricketer's knee after a slide on the maidan in Kolkata.",
    "art": "A child cricketer's knee with a small scab."
   },
   {
@@ -3208,10 +3205,6 @@
    "a": "It was asked to cover for a friend."
   },
   {
-   "j": "What's a germ's least favourite song?",
-   "a": "Happy birthday, sung twice while washing hands."
-  },
-  {
    "j": "What did one tear say to the other tear?",
    "a": "\"Let's go with the flow.\""
   },
@@ -3225,11 +3218,7 @@
   },
   {
    "j": "What's a phagocyte's favourite meal?",
-   "a": "Germ-an food. And a whole germ for dessert."
-  },
-  {
-   "j": "Why did the friendly microbe take the last seat on the skin?",
-   "a": "So the germ would have nowhere to sit."
+   "a": "Germ-an food."
   }
  ],
  "maths": [
@@ -3453,7 +3442,7 @@
    "title": "Your local health centre or a family doctor",
    "url": "",
    "kind": "place",
-   "where": "anywhere",
+   "where": "Your nearest clinic",
    "why": "Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean."
   }
  ],
@@ -3462,41 +3451,10 @@
    "id": "b-thermometer",
    "item": "Digital body thermometer",
    "kind": "tool",
-   "why": "Safe and easy to read. Used to find your normal temperature, and every time someone in the family has a fever.",
+   "why": "Easy to read and safe. Used to find your normal temperature, and whenever someone has a fever.",
    "url": "https://www.amazon.in/s?k=digital+thermometer",
    "used_in": [
     "e2"
-   ]
-  },
-  {
-   "id": "b-magnifier",
-   "item": "Magnifying glass",
-   "kind": "tool",
-   "why": "To look at skin, skin flakes and dust specks. If you don't have one, zoom in with a phone camera.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
-   "used_in": [
-    "a2",
-    "e3"
-   ]
-  },
-  {
-   "id": "b-splitpins",
-   "item": "Split pins (paper fasteners)",
-   "kind": "material",
-   "why": "To make a turning fever knob on the body castle.",
-   "url": "https://www.amazon.in/s?k=split+pins+paper+fasteners",
-   "used_in": [
-    "p1"
-   ]
-  },
-  {
-   "id": "b-spray",
-   "item": "Small plastic spray bottle",
-   "kind": "material",
-   "why": "The pretend sneeze in the sneeze stopper challenge.",
-   "url": "https://www.amazon.in/s?k=small+spray+bottle",
-   "used_in": [
-    "c1"
    ]
   }
  ],
@@ -3692,5 +3650,6 @@
   "who": "Élie Metchnikoff, George Nuttall, Almroth Wright and Stewart Douglas",
   "when": "1882 to 1908",
   "wrong_idea": "Germs inside the body are killed only by chemicals in the blood, and the body's cells play no useful part. Metchnikoff watched cells eat germs, and Wright and Douglas showed that the chemicals and the cells work together."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family in a city flat would, with 2 and with 4 players, and read the worksheets, quiz and maths against them. Games: counted the 16 germ cards and 12 defence cards (all match their titles and every card has a use); made the Get Past the Walls turn order clear (one germ card per Body player, what happens to the hand when the Germ changes); in Germ Tag, replaced 'the white blood cell remembers the germ' (that is memory, taught in a later unit, and would teach the wrong science) with 'signals from the hurt place call white blood cells', and made the scoring and swap rule match the 15 minutes of steps. Experiments: the apple test minutes, days and fair test add up and it works in a flat; the temperature step now says to run for 3 minutes, sit, then measure, and says honestly that the rise may be small; 'tap' on the sticky-nose cards became 'knock gently'. Buy list cut to the thermometer only: the magnifier has a phone-camera alternative, the fever knob is now a card arrow in a slit (no split pins), and the pretend sneeze uses any rinsed spray bottle. Worksheets: replaced the apple A versus B question (B was not a clean comparison and the question repeated the e1 check) with a new prediction about an apple E with a plaster; removed the repeated 'fever is always dangerous' true/false and added a fair-test question about counting the same area on both cards; fixed 'Dr Revathi' to Dr Nandini; fixed phagocyte grammar in the quiz; swapped two South-only names for Ishani and Zoya and added a Shillong/Kolkata example. Cut jokes from 10 to 8 real ones. Deleted nothing that other parts point to, ids unchanged. Videos were opened (oembed) and all three exist. Left alone: the story (Olga, Sasha and the talk are marked as made up and are not reused as fact), the deep truth and the roots."
 }

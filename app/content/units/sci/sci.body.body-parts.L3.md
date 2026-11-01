@@ -44,7 +44,7 @@
 ### External organs and internal organs · *defined*
 **Definition:** An organ is a body part with its own job. External organs are on the outside of the body, where we can see them. Internal organs are inside.
 
-Look in a mirror. Everything you can see is on the outside of you. Your skin, hair, nails, eyes, ears, nose, mouth, teeth, hands, feet and private parts are your external organs. Each one does a job. Under your skin are the internal organs, like the heart, lungs, stomach and brain. They have their own unit. The outside parts and the inside parts work together all the time. Your nose takes in air, and your lungs inside use it.
+Look in a mirror. Everything you can see is on the outside of you. Your skin, hair, nails, eyes, ears, nose, mouth, teeth, hands, feet and private parts are your external organs. Each one does a job. Under your skin are the internal organs, like the heart, lungs, stomach and brain. You can learn about them later. The outside parts and the inside parts work together all the time. Your nose takes in air, and your lungs inside use it.
 - e.g. Your eyes see a ball coming. Your hands catch it. Your feet run to it.
 - e.g. Your nose smells food cooking. Your mouth starts to make spit, ready to eat.
 - e.g. Your skin feels cold. You put on a sweater.
@@ -58,8 +58,8 @@ Spread out flat, a grown-up's skin would cover about one door. Skin has many job
 ### Your outside is always renewing · *defined*
 **Definition:** The top layer of skin is made of flat, dead cells. New cells are always being made underneath. They push up, and the old ones flake off.
 
-You cannot feel it, but you are shedding skin all the time. Tiny flakes fall off every day. Some of the dust in a house is made of these flakes. New skin is always growing underneath, so the outer layer is replaced about every month or two. This is why a scraped knee heals and a sunburn peels. Bathing washes away the old flakes, with sweat and dirt. Scrubbing hard does not help. It can hurt the new skin underneath.
-- e.g. Clear sticky tape pressed on your arm picks up tiny white flakes. Those are dead skin cells.
+You do not notice it, but you are shedding skin all the time. Tiny flakes fall off every day. Some of the dust in a house is made of these flakes. New skin is always growing underneath, so the outer layer is replaced about every month or two. This is why a scraped knee heals and a sunburn peels. Bathing washes away the old flakes, with sweat and dirt. Scrubbing hard does not help. It can hurt the new skin underneath.
+- e.g. Clear sticky tape pressed on your arm usually picks up a few tiny white flakes. Most of those are dead skin cells.
 - e.g. A scraped knee grows new skin over a week or two.
 - e.g. After a sunburn, the top skin peels off in sheets.
 ### Hair and nails: dead, yet growing · *defined*
@@ -81,7 +81,7 @@ Your eyes are soft and easy to hurt, so they have many guards. Your eyebrows sto
 
 The outer ear is shaped like a funnel to catch sounds. Sounds travel down a short tube, the ear canal, to the eardrum. The eardrum is a thin skin, a little like the skin of a drum. Sound makes it shake, and that is how you hear. The ear canal makes wax. The wax traps dust and tiny germs. Then it slowly moves outwards by itself, helped by your jaw moving when you chew and talk. So ears mostly clean themselves. Doctors say never put cotton buds, hairpins or matchsticks into your ears. They push wax deeper and can tear the eardrum. Don't pour oil in either, unless a doctor tells you to. Just wipe the outside with a cloth. Keep away from very loud sounds.
 - e.g. A little wax at the opening of the ear is normal. Wipe it off with a towel after a bath.
-- e.g. Chewing a dosa moves your jaw, which helps the wax move out.
+- e.g. Chewing a thepla or a dosa moves your jaw, which helps the wax move out.
 - e.g. Loud music through earphones for a long time can hurt hearing.
 ### Nose: air, smell and a dust trap · *defined*
 **Definition:** The nose is the organ for breathing in air and for smelling. Hairs and sticky mucus inside it trap dust and germs.
@@ -100,7 +100,7 @@ Children have 20 milk teeth. From about age 6, they fall out one by one, and big
 ### Hands, fingertips and handwashing · *defined*
 **Definition:** The hands hold, feel and make things. Fingertips have ridges that make our fingerprints. Hands touch everything, so they carry germs.
 
-Your thumb can turn and touch the tip of every finger. This lets you hold a pencil, a needle or a single grain of rice. Your fingertips are packed with nerves, so they feel very well. On their skin are tiny curving ridges. Sweat comes out of tiny holes along the ridges, and your fingers pick up oil from your face and hair. So you leave fingerprints on what you touch. Hands also pick up germs from everything they touch. So wash them with soap before eating, after the toilet, after playing outside and after touching animals. Rub every part for at least 20 seconds, then rinse. Hands carry a thin layer of oil and grease, and germs stick in it. Soap grabs that oil, and water carries it away.
+Your thumb can turn and touch the tip of every finger. This lets you hold a pencil, a needle or a single grain of rice. Your fingertips are packed with nerves, so they feel very well. On their skin are tiny curving ridges, and they leave a faint print on what you touch. Hands also pick up germs from everything they touch. So wash them with soap before eating, after the toilet, after playing outside and after touching animals. Rub every part for at least 20 seconds, then rinse. Hands carry a thin layer of oil and grease, and germs stick in it. Soap grabs that oil, and water carries it away.
 - e.g. You leave fingerprints on a glass, a mirror and a phone screen.
 - e.g. Germs from a door handle can get onto your idli if you don't wash your hands.
 - e.g. A blind reader feels the raised dots of Braille with the fingertips.
@@ -142,7 +142,7 @@ Washing hands with soap stops many illnesses. Everyone agrees on that. But milli
 
 ## Mostly agreed
 - Each external organ has its own job, and the organs work together. *How we know:* When one part is hurt, its job suffers. A blocked nose makes food taste dull, and cold, numb fingers fumble with buttons. People who cannot see often learn to read Braille with their fingertips, so another part takes on some of the work.
-- The outer skin keeps renewing itself, and hair and nails grow from living roots. *How we know:* Sticky tape picks up dead skin flakes from anyone's arm. Cut hair and nails grow back, while the cut part never hurts.
+- The outer skin keeps renewing itself, and hair and nails grow from living roots. *How we know:* Sticky tape usually picks up dead skin flakes from anyone's arm. Cut hair and nails grow back, while the cut part never hurts.
 - Washing hands with soap stops many germs spreading. *How we know:* In 1847, Ignaz Semmelweis made doctors in a Vienna hospital wash their hands in a chlorine solution, and far fewer mothers died. Many studies since have shown handwashing with soap cuts tummy and chest illnesses.
 - Sugar helps mouth germs make acid that damages teeth, and brushing with fluoride toothpaste protects them. *How we know:* Children who eat sweet snacks often get more holes in their teeth. Dentists see fewer holes in children who brush twice a day.
 - Every finger has its own print, and fingerprints form before birth. *How we know:* Police have compared millions of fingerprints for over 100 years. No two have been found to match, not even those of identical twins, or the two thumbs of one person.
@@ -288,8 +288,8 @@ Many years later, the government gave her uncle a reward and an honour for his w
 
 ## Games
 ### g1 · Guard Match (20 min)
-- **rules:** Cut out the 30 cards. Lay the 10 PART cards face up in two rows, so everyone can see them.; Shuffle the 10 GUARD cards and the 10 CARE cards together. Lay these 20 cards face down in rows.; On your turn, turn over two cards and read them out loud.; If one is a GUARD and one is a CARE card for the same part, you win the pair. Put both under that PART card.; If they do not match, turn them face down again in the same places. Try to remember where they are.; When you win a pair, explain how the guard protects the part. A good explanation wins a bonus point. Each pair is worth one point. Keep score on a scrap of paper.; When all ten pairs are won, the player with the most points wins. If points are equal, you share the win.
-- **Printable cards: 30 cards to cut out: 10 parts, 10 guards, 10 care cards:** PART: Eyes; GUARD: Eyelashes, eyelids and tears; CARE: Never rub hard. Wash with clean water. Never look at the sun.; PART: Ears; GUARD: Earwax that moves out by itself; CARE: Wipe the outside only. Never poke anything in.; PART: Nose; GUARD: Nose hairs and sticky mucus; CARE: Blow gently into a handkerchief. Sneeze into your elbow.; PART: Teeth; GUARD: Hard enamel and spit; CARE: Brush twice a day, most of all at night.; PART: Skin; GUARD: A top layer of dead cells that renews itself; CARE: Bathe every day. Dry the folds. Cover cuts.; GUARD: Hair keeps the head warm and shaded from the sun; GUARD: It keeps the head warm and shaded; CARE: Wash and comb. Don't share combs.; PART: Nails; GUARD: Hard keratin over the fingertips; CARE: Cut short and straight. Don't bite them.; PART: Hands; GUARD: Skin and a sense of touch that warns of heat; CARE: Wash with soap for 20 seconds.; PART: Feet; GUARD: Thick skin on the soles; CARE: Wash and dry between the toes. Wear chappals outside.; PART: Private parts; GUARD: Clothes, and the rule that your body belongs to you; CARE: Wash every day, wipe front to back, and tell a trusted adult if a touch feels wrong.
+- **rules:** Cut out the 30 cards. Lay the 10 PART cards face up in two rows, so everyone can see them.; Shuffle the 10 GUARD cards and the 10 CARE cards together. Lay these 20 cards face down in rows.; On your turn, turn over two cards and read them out loud.; If one is a GUARD and one is a CARE card for the same part, you win the pair. Put both under that PART card.; If they do not match, turn them face down again in the same places. Try to remember where they are.; When you win a pair, explain how the guard protects the part. A good explanation wins a bonus point. Each pair is worth one point. Keep score on a scrap of paper.; When all ten pairs are won, the player with the most points wins. If points are equal, you share the win. If you play alone, try to win all ten pairs in as few turns as you can.
+- **Printable cards: 30 cards to cut out: 10 parts, 10 guards, 10 care cards:** PART: Eyes; GUARD: Eyelashes, eyelids and tears; CARE: Never rub hard. Wash with clean water. Never look at the sun.; PART: Ears; GUARD: Earwax that moves out by itself; CARE: Wipe the outside only. Never poke anything in.; PART: Nose; GUARD: Nose hairs and sticky mucus; CARE: Blow gently into a handkerchief. Sneeze into your elbow.; PART: Teeth; GUARD: Hard enamel and spit; CARE: Brush twice a day, most of all at night.; PART: Skin; GUARD: A top layer of dead cells that renews itself; CARE: Bathe every day. Dry the folds. Cover cuts.; PART: Hair; GUARD: A strong covering that keeps the head warm and shaded from the sun; CARE: Wash and comb. Don't share combs.; PART: Nails; GUARD: Hard keratin over the fingertips; CARE: Cut short and straight. Don't bite them.; PART: Hands; GUARD: Skin and a sense of touch that warns of heat; CARE: Wash with soap for 20 seconds.; PART: Feet; GUARD: Thick skin on the soles; CARE: Wash and dry between the toes. Wear chappals outside.; PART: Private parts; GUARD: Clothes, and the rule that your body belongs to you; CARE: Wash every day, wipe front to back, and tell a trusted adult if a touch feels wrong.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 30 cards. 2. Lay the 10 PART cards face up in two rows. 3. Shuffle the other 20 cards and lay them face down in rows below.  
   *Parent says:* Every part of your outside has a guard and a way we care for it. In this game, you find the guard and the care card for each part.  
@@ -298,7 +298,6 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent does:* Play a practice round. Put the Ears card, the Earwax guard card and the 'Wipe the outside only' care card face up together.  
   *Parent says:* Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only. Why don't we poke inside?  
   *Child mode:* Practice match: ears, earwax, wipe the outside only. Why not poke inside? Say your answer.
-  - Ask: Why don't we poke cotton buds into our ears? (good: It pushes the wax deeper.; It can hurt the eardrum.; The wax comes out by itself.)
   - Check: Earwax is… → **a guard that traps dust and moves out by itself**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. Keep a pair if the guard and care card belong to the same part. 3. Explain the guard for a bonus point. 4. Keep score on a scrap of paper.  
@@ -312,7 +311,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Check: Game moment: you turned over 'Nose hairs and sticky mucus'. Which part is it the guard of? → **Nose**
 ### g2 · Guess the Body Part (15 min)
 - **rules:** Shuffle the 12 clue cards and put them in a pile, clue side up. One player is the reader.; The reader reads the top clue in the voice of the body part, without looking at the answer on the back.; The first player to guess right gets the card. If nobody guesses after two tries, the reader turns the card over, says the answer and keeps the card.; Then everyone acts out what that part does, or one way to care for it.; Swap readers after each card. When all 12 cards are read, the player with the most cards wins. If cards are equal, you share the win.
-- **Printable cards: 12 clue cards (clue on the front, answer on the back):** I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (back: Skin); I am dead, but I keep growing. A haircut never hurts me. Who am I? (back: Hair); I am hard and I grow about 3 millimetres a month. Germs love to hide under me. Who am I? (back: Nails); I shut in a flash when something comes near. I spread tears over the eye. Who am I? (back: Eyelid); I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (back: Earwax); I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (back: Eardrum); I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (back: Nose); I am the hardest thing in your body, but germs that feed on sugar make acid that eats me. Who am I? (back: Enamel); I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (back: Thumb); I carry all your weight. My middle curves up like a spring. Who am I? (back: Foot); I am made of tiny ridges, and nobody else in the world has me. Who am I? (back: Fingerprint); I am covered by your underwear. I am private. I belong to you. Who am I? (back: Private parts)
+- **Printable cards: 12 clue cards (clue on the front, answer on the back):** I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (back: Skin); The part of me that you can see is dead, but I keep growing from a living root. A haircut never hurts me. Who am I? (back: Hair); I am hard and I grow about 3 millimetres a month. Germs love to hide under me. Who am I? (back: Nails); I shut in a flash when something comes near. I spread tears over the eye. Who am I? (back: Eyelid); I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (back: Earwax); I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (back: Eardrum); I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (back: Nose); I am the hardest material in your body, but germs that feed on sugar make acid that eats me. Who am I? (back: Enamel); I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (back: Thumb); I carry all your weight. My middle curves up like a spring. Who am I? (back: Foot); I am made of tiny ridges, and nobody else in the world has me. Who am I? (back: Fingerprint); I am covered by your underwear. I am private. I belong to you. Who am I? (back: Private parts)
 - **s1 (2 min)**  
   *Parent does:* Shuffle the 12 clue cards. Choose the first reader.  
   *Parent says:* In this game, a body part talks to us. We must guess who it is.  
@@ -322,7 +321,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* Read it in the body part's own voice. Then we all show what it does or how to look after it.  
   *Child mode:* Read the clue in a funny voice. Others guess. Then everyone acts out the part.
   - Note: If a child guesses 'nails' for the hair clue, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.
-  - Check: Game moment: 'I am dead, but I keep growing. A haircut never hurts me.' Who am I? → **Hair**
+  - Check: Game moment: 'The part of me that you can see is dead, but I keep growing from a living root. A haircut never hurts me.' Who am I? → **Hair**
 - **s3 (3 min)**  
   *Parent does:* Count the cards each player won. Ask each player to make up one new clue of their own.  
   *Parent says:* Now make up your own clue, about any body part.  
@@ -332,13 +331,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 ### e1 · The Bread Test: what do unwashed hands leave behind? (36 min, 6 days)
 - **question:** Do washed hands leave fewer germs on bread than unwashed hands? Does soap make a difference?
 - **predict:** Before you start, guess. Which slice will grow the most spots: touched by dirty hands, by hands washed in water only, or by hands washed with soap? Which will grow the fewest? Why do you think so?
-- **fair test:** To make it fair, use slices from the same loaf, touch each one in the same way for the same time, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.
+- **fair test:** To make it fair, use slices from the same loaf, touch each one in the same way for the same time, and give every slice the same few drops of water, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.
 - **safety:** Never open the bags once they are sealed. Mould spores can upset breathing. At the end, throw the bags away still sealed, and wash hands.
 - **record:** Fill in the table on days 2, 4 and 6. On day 6, draw each slice. Then draw a bar for each slice, as tall as its number of spots.
 - **results table:** Slice | Day 2: spots | Day 4: spots | Day 6: spots | What it looks like
 - **schedule:** day 1: Touch the slices, seal and label the bags, and put them in a dark cupboard. (18 min); day 2: Look at the bags without opening them. Count any spots. (3 min); day 4: Look again and count spots. (3 min); day 6: Count spots a last time, draw the slices, fill in the table, compare and say what you found. (12 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. With a clean spoon, sprinkle 5 drops of clean water on each slice, so all four are equally damp. 4. Ask your child to guess which slice will grow the most spots.  
+  *Parent does:* 1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. With a clean spoon, sprinkle 5 drops of clean water on each of the four slices, so all four are equally damp. 4. Ask your child to guess which slice will grow the most spots.  
   *Parent says:* Our hands touch everything, and they pick up tiny living things too small to see. Let's find out what they leave on food.  
   *Child mode:* Label four bags. Dirty hands. Water only. Soap. Untouched. Which slice will grow the most spots? Guess first.
   - Note: Bread from a local bakery, or pav, grows mould faster than packet bread, which often has preservatives in it. Mould grows best on damp bread in a warm, dark place.
@@ -395,7 +394,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* What do you see on the tape? Where did it come from?  
   *Child mode:* Look closely. What are the tiny white flakes?
   - Note: The flakes are tiny and can look like specks of dust or fluff, and some dust does stick too. Look in good light, or shine a torch from the side. If a strip shows very little, say so: that is an honest result. Skin that is oily or freshly bathed may give fewer flakes.
-  - Check: The tiny white flakes on the tape are… → **dead skin cells that were ready to fall off**
+  - Check: The tiny white flakes on the skin strips, and not on the plain strip, are most likely… → **dead skin cells that were ready to fall off**
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things about the sticky tape test. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -477,14 +476,14 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Note: Genes are the instructions inside your cells that guide how your body grows. The two prints often look like mirror images, and they may be the same kind, such as two whorls. But the small forks and ends will not be in the same places. If a print is smudged, make a darker pencil patch and try again.
   - Check: Your two thumbs grew from the same genes. What did you find when you compared their prints closely? → **The forks and ends of the ridges were in different places**
 - **s4 (8 min)**  
-  *Parent does:* Take the right thumbprint of everyone at home. Label each with the person's name. Sort them into loops, whorls and arches. Make a tally.  
+  *Parent does:* Take the right thumbprint of everyone at home. If there are only two of you, ask a neighbour or a friend as well. Label each with the person's name. Sort them into loops, whorls and arches. Make a tally.  
   *Parent says:* Is anyone's print the same as yours? Even people in the same family?  
-  *Child mode:* Take everyone's thumbprint. Write their names. Sort them. Count each kind.
+  *Child mode:* Take thumbprints of everyone at home, and a friend if you need more. Write their names. Sort them. Count each kind.
   - Note: Loops are the most common kind, then whorls. Arches are rare. Family members often have similar kinds, but never the same exact print.
 - **s5 (2 min)**  
-  *Parent does:* Wash hands with soap. Watch the grey graphite come off.  
+  *Parent does:* Wash hands with soap. Watch most of the grey come off.  
   *Parent says:* Pencil sticks to skin. Watch what soap does.  
-  *Child mode:* Wash with soap. Watch the grey come off.
+  *Child mode:* Wash with soap. Watch most of the grey come off.
   - Note: Koalas, chimpanzees and gorillas have fingerprints too.
   - Think: What other animals do you think have fingerprints?
 ### a3 · Oily Hands: water or soap? (15 min)
@@ -539,13 +538,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent does:* Your child watches your eyes for one minute while you chat normally, and makes a tally mark at every blink. Swap.  
   *Parent says:* Every blink spreads tears over your eyes and wipes away dust. Count how many times I blink in one minute.  
   *Child mode:* Watch a grown-up's eyes for one minute. Make a mark every time they blink.
-  - Note: Grown-ups usually blink about 15 to 20 times a minute when talking. Children often blink less. When reading or looking at a screen, people blink much less, which is why eyes get dry.
+  - Note: Grown-ups usually blink about 15 to 20 times a minute when talking. When reading or looking at a screen, people blink much less, which is why eyes get dry.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of clean water on the forehead just above one eyebrow, and watch where it runs. Then your child opens their eyes and looks in the mirror at the wet track.  
   *Parent says:* Where does the water go when it reaches the eyebrow?  
   *Child mode:* Close your eyes. A grown-up drips water above your eyebrow. Where does it run?
   - Note: Use only a few drops, on the forehead and never in the eyes. If you use too much water, it will run straight through the hairs. A few drops show the steering best.
-  - Check: The water runs round the eyebrow and down the side of the face. What is the eyebrow's job? → **To send sweat and rain away from the eyes**
+  - Check: Many drops run along the eyebrow and down the side of the face, not into the eye. What is the eyebrow's job? → **To send sweat and rain away from the eyes**
 - **s3 (3 min)**  
   *Parent does:* Talk about the other eye guards: eyelashes, eyelids and tears. Add 'eye care' to the Outside-Me Map.  
   *Parent says:* Name all the guards of your eyes. Which one did you see working today?  
@@ -557,9 +556,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* This is the inside of an ear. Dust is blowing in. Who will stop it reaching the eardrum?  
   *Child mode:* The sari is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.
 - **s2 (4 min)**  
-  *Parent does:* Your child plays the wax. They catch the paper balls before they reach the cushion. Each time you pretend to chew or talk loudly, they shuffle one step out of the ear, carrying the dust.  
+  *Parent does:* Your child plays the wax. They catch the paper balls before they reach the cushion. Each time you pretend to chew or talk loudly, they shuffle one step out of the ear, carrying the dust. Then you pretend to be a cotton bud and gently push the dust and wax back towards the cushion.  
   *Parent says:* Every time I chew or talk, my jaw moves, and the wax moves out a little.  
-  *Child mode:* You are the wax. Catch the dust. Each time the grown-up pretends to chew, shuffle one step out.
+  *Child mode:* You are the wax. Catch the dust. Each time the grown-up pretends to chew, shuffle one step out. Then the grown-up pretends to be a cotton bud. See what it does to you.
   - Check: In the play, a cotton bud comes in. What does it do to the wax? → **Pushes it back towards the eardrum**
 - **s3 (3 min)**  
   *Parent does:* Swap roles. Then talk: what should we do with ears? Add the ear care rule to the Outside-Me Map.  
@@ -597,6 +596,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 ## Challenges
 ### c1 · Build a Tippy Tap (30 min)
 - **problem:** In many places there is no tap or sink. People still need to wash their hands with soap, without touching a dirty handle. Build a handwashing station from a plastic bottle, which you work with your foot.
+- **safety:** A grown-up makes the hole. A nail or skewer is sharp.
 - **your turn:** Draw your design and label each part. Then build it with a grown-up, and test it: how many handwashes does one bottle give?
 - **constraints:** Your hands must not touch the bottle to tip it.; It must use very little water.; The soap must stay clean and close by.
 - **general:** The tippy tap: a bottle hung on a stick, tied to a foot pedal stick with string. Pressing the pedal tips the bottle and pours a thin stream.; A pot with a small tap fitted near the bottom.; A bucket and mug, poured by a friend.
@@ -656,7 +656,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    Options: Blink a lot, and rinse with clean water if the dust stays / Rub the eye hard / Pull out your eyelashes / Put in any eye drops from the cupboard  
    **Answer:** Blink a lot, and rinse with clean water if the dust stays. *Why:* Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if it stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops.
 5. (truefalse) If you can't see any dirt on your hands, they are clean.  
-   **Answer:** False. *Why:* False. Germs and mould spores are far too small to see. In the bread test, hands that looked clean still left spots on the bread. Looking is not enough. Washing with soap is the safe way.
+   **Answer:** False. *Why:* False. Germs and mould spores are far too small to see. In the bread test, hands washed in water only still left spots on the bread. Looking is not enough. Washing with soap is the safe way.
 6. (mcq) A girl rubs oil and turmeric on her hands, like in the oily hands activity. Then she rinses them in plain water for 20 seconds. What will she most likely see?  
    Options: Most of the turmeric is still stuck, because water slides over the oil / All the turmeric is gone / The turmeric turns into soap / Her hands turn blue  
    **Answer:** Most of the turmeric is still stuck, because water slides over the oil. *Why:* Turmeric sticks in the oil, the way germs stick in the oil on our skin. Water and oil do not mix, so water slides over. Soap grabs the oil, so water can then carry it away.
@@ -672,15 +672,15 @@ Many years later, the government gave her uncle a reward and an honour for his w
 11. (mcq) A girl's little brother asks, 'What are the parts under my underwear called?' What is the best answer for her to give?  
    Options: They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom. / Those are rude words. Don't ask. / They don't have names. / Only doctors can say.  
    **Answer:** They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.. *Why:* These are correct body words, like elbow or knee. A child who knows the right words can tell a doctor or a trusted grown-up clearly if something hurts or feels wrong.
-12. (write) Someone you know says, 'This touch is our secret. Don't tell anyone.' What do you do? Why is it never your fault?  
-   **Answer:** I say no, get away and tell a trusted grown-up. If they don't listen, I tell another one. It is never my fault, because a grown-up who asks for a secret like this is the one doing wrong.. *Why:* A strong answer has all three steps: say no, get away, tell. It also knows that secrets about touching are never kept.
+12. (write) A birthday surprise is a secret that is fun and soon ends. A secret about touching is different. How is it different, and who should you tell?  
+   **Answer:** A birthday surprise is a happy secret that ends when the present is opened. A secret about touching must never be kept, even after promising. I say no, get away and tell a trusted grown-up, and I keep telling until someone helps. It is never my fault.. *Why:* A strong answer separates secrets that are fun and soon shared from secrets about touching, which are never kept. It names the three steps: say no, get away, tell.
 13. (label) Label the eye's guards on the picture: eyebrow, eyelashes, eyelid. Next to each, write one thing it keeps out of the eye.  
    **Answer:** Eyebrow above the eye: keeps sweat and rain out. Eyelashes on the edge of the lid: catch dust. Eyelid over the eye: shuts out dust and bright light, and spreads tears.. *Why:* Each guard has its own job. A strong answer puts each label in the right place and gives a real job for it.
 14. (draw) Draw your hand. Mark the places people most often forget when washing.  
    **Answer:** Thumbs, fingertips and nails, between the fingers, and the backs of the hands.. *Why:* In the oily hands activity, the turmeric often stays on the thumbs, fingertips and backs of hands. Those are the places to rub carefully.
 15. (write) Many people clean their ears with a cotton bud. Think of the Wax Escalator act-it-out. Where does earwax go by itself? What does a cotton bud do to it?  
    **Answer:** Earwax moves out of the ear by itself, a little each time I chew or talk, and carries dust with it. A cotton bud pushes the wax back in, and a hard poke can hurt the eardrum. So I wipe only the outside.. *Why:* A strong answer says which way wax moves and why a bud works against it. It challenges a common habit with what the child acted out.
-16. (perspective) Three people at home argue about whether hair is alive.  
+16. (perspective) Three people argue about whether hair is alive.  
    **Answer:** A strong answer picks a side and backs it with evidence, such as 'a haircut does not hurt, so the part we cut has no living nerves' or 'my nail tracker mark moved, so something is still growing'. It then admits a fair point from another side.. *Why:* This is a real puzzle about what 'alive' means. The hair shaft is dead keratin. The root is living and keeps adding cells. So hair is a dead thing made by a living body.
 ### Guards and Growing (stretch) (stretch, 16 questions)
 1. (mcq) In the bread test, a girl forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?  
@@ -703,8 +703,8 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Earwax → dust and tiny insects in the ear; Nose hairs and mucus → dust and germs in the air you breathe; Thick skin on the soles → sharp stones and hot ground; Nails → knocks to the soft fingertips. *Why:* Every external organ has guards. Many, like wax and mucus, look like dirt, but they keep us safe.
 8. (sort) Sort these into DEAD CELLS and LIVING CELLS.  
    **Answer:** the hair you can see → Dead cells; the root of a hair, under the skin → Living cells; the white tip of a fingernail → Dead cells; the flakes on the sticky tape → Dead cells; the skin under a scab, making new skin → Living cells; the skin at the base of a nail, making new nail → Living cells. *Why:* Living cells at the roots keep making new cells. These get pushed out, harden and die. So what we see on the outside is mostly dead, and the living part is hidden underneath.
-9. (write) In the eyebrow test, the water dripped above your eyebrow ran off to the side. Why do you think eyebrows are curved? What might happen on a hot, sweaty day without them?  
-   **Answer:** The curve works like a little roof gutter. It sends sweat and rain round the side of the eye. Without eyebrows, sweat would run straight into my eyes and sting, and I could not see well while playing.. *Why:* A strong answer uses what the child saw in the test and explains the shape by its job.
+9. (write) In the eyebrow test, you dripped water above your eyebrow and watched where it ran. Why do you think eyebrows are curved? What might happen on a hot, sweaty day without them?  
+   **Answer:** The curve works like a little roof gutter. It can send sweat and rain round the side of the eye. Without eyebrows, sweat would run straight into my eyes and sting, and I could not see well while playing.. *Why:* A strong answer uses what the child saw in the test and explains the shape by its job.
 10. (odd) Three of these habits protect a body part. One harms it. Which one is the odd one out?  
    Options: Cutting nails short every week or two / Wiping only the outside of the ear / Brushing teeth before bed / Rubbing an itchy eye hard  
    **Answer:** 3. *Why:* Short nails leave no gap for germs. Wiping only the outside lets earwax move out by itself. Brushing at night protects teeth when there is less spit. Rubbing hard can scratch the eye and push in germs, so it is the odd one out. Blink, or rinse with clean water, instead.
@@ -731,8 +731,8 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Tiny differences in the womb, such as how each baby lies and how fast each finger grows, shape the exact ridges. *Why:* Genes give the general pattern, but small differences in the womb shape the exact ridges. Picking 'change every year' is wrong. Your fingerprints keep their pattern all your life.
 4. (write) Your outer skin replaces itself every month or two. Some of the dust in your house is your old skin, and you leave fingerprints on everything you touch. Where do you think you end and the world begins?  
    **Answer:** Any thoughtful answer. For example: I thought I ended at my skin. But my old skin flakes off and becomes dust, and I leave fingerprints on everything I touch. So it is hard to say exactly where I stop.. *Why:* This is a big question with no single answer. A strong answer uses what the child saw in the sticky tape test.
-5. (write) In 1847, a doctor called Ignaz Semmelweis made doctors in his hospital wash their hands in chlorine water. Deaths of mothers in his ward fell from about 1 in 10 to 1 or 2 in 100. Many doctors still refused to believe him for years. Why do you think they found it hard to believe?  
-   **Answer:** Germs are too small to see, so the doctors could not see anything on their hands. They also did not like being told that their own hands had made mothers ill. But the fall in deaths was big and clear evidence.. *Why:* A strong answer gives a reason people resist an idea, and says what evidence should have changed their minds.
+5. (write) A nurse washes her hands with soap about 30 times a day, and the skin on her hands is dry and cracked. Why is cracked skin a problem for her and for her patients? What could she do?  
+   **Answer:** Skin is a guard that keeps germs out. Cracked skin lets germs in and can hold germs, and it hurts. She can rinse well, pat her hands dry and use a moisturiser. Between washes, a hand-rub gel is gentler on skin than soap.. *Why:* A strong answer links the cracked skin to the skin's job as a guard, and gives a sensible fix. Washing at the right times matters, and so does looking after the skin.
 6. (mcq) A girl does a new bread test. She touches one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?  
    Options: The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs / Both grow the same, because soap is soap / The 2-second slice grows fewer spots / Neither grows any spots  
    **Answer:** The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs. *Why:* Soap needs time and rubbing to grab the oil that germs stick in, all over the hand. A quick splash misses most of it. That is why we rub for about 20 seconds.
@@ -742,7 +742,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Any creative design with a clear job. For example: ear flaps that close in loud places, like a hippo's ears closing under water.. *Why:* Good designs copy what real guards do: trap, steer away, wash out or shut.
 9. (write) Some old Indian books describe cleaning teeth with neem twigs. Fluoride toothpaste is newer. Some people say old ways are always best, and some say new ways are always best. How could you find out which cleans better?  
    **Answer:** A fair test: some people use twigs and some use fluoride toothpaste for weeks, with everything else the same, and a dentist counts holes and germs. At home, I could coat one eggshell with neem paste and one with toothpaste, and put both in vinegar. That only tests protection from acid, not from germs.. *Why:* Scientists test old and new ways fairly, instead of trusting what is old or what is new. A strong answer changes only one thing, and says what its test can and cannot show.
-10. (write) A visitor to your home wants a hug, but you don't feel like hugging. A parent says you can say no politely and wave instead. Why is it good that you get to choose?  
+10. (write) A visitor to your home wants a hug, but you would rather not hug. A parent says you can say no politely and wave instead. Why is it good that you get to choose?  
    **Answer:** My body belongs to me, even when I am small. Choosing a wave instead of a hug is polite and still keeps my body mine. Practising small 'no's makes it easier to say no to a touch that feels wrong.. *Why:* A strong answer knows that a child's body belongs to the child, and that saying no politely is not rude.
 11. (mcq) After a sunburn, skin often peels a few days later. Why does this happen?  
    Options: The damaged top cells die and flake off, while new cells push up from underneath / The skin melts in the sun / Germs eat the skin / Skin peels so it can grow thicker  
@@ -776,37 +776,31 @@ Many years later, the government gave her uncle a reward and an honour for his w
 3. (mcq) What do eyelashes and eyebrows have in common?  
    Options: Both guard the eyes, by catching dust or steering sweat away / Both help us see colours / Both make tears / Both are only for looks  
    **Answer:** Both guard the eyes, by catching dust or steering sweat away. *Why:* Lashes catch dust before it reaches the eye. Brows steer sweat and rain round the side. They look nice too, but they are guards.
-4. (mcq) A haircut does not hurt, but pulling out one hair does. Why?  
-   Options: The hair we see is dead, but the root is alive and has nerves around it / Pulling is always harder than cutting / The barber is more careful / Hair is made of bone  
-   **Answer:** The hair we see is dead, but the root is alive and has nerves around it. *Why:* The part we cut is dead keratin. The root sits in living skin with nerves, so pulling it hurts.
-5. (mcq) A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?  
+4. (mcq) A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?  
    Options: Living cells underneath, which keep making new skin cells / The scab turned into skin / Skin from the other knee moved over / The plaster made it  
    **Answer:** Living cells underneath, which keep making new skin cells. *Why:* Living cells under the top layer keep dividing and pushing up new cells. That is how the outer skin renews itself, and how a scrape heals.
-6. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
+5. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
    Options: To compare: it shows how much the bread grows with no hands at all / Because there were not enough hands / To make it go bad faster / It was the slice for eating  
    **Answer:** To compare: it shows how much the bread grows with no hands at all. *Why:* The untouched slice is the comparison. If the hand slices grew more spots than it, the extra spots came from the hands.
-7. (mcq) A girl's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?  
-   Options: Soap took away far more germs than water alone, but not quite every one / Water works just as well as soap / Soap made the bread grow spots / Washing makes no difference  
-   **Answer:** Soap took away far more germs than water alone, but not quite every one. *Why:* The soap slice had 2 spots, much closer to the untouched slice than the water-only slice with 6. So soap removes most germs and spores. It does not remove every single one, and nothing needs to.
-8. (mcq) Why is brushing at night most important?  
+6. (mcq) Why is brushing at night most important?  
    Options: Your mouth makes less spit at night, so germs can make acid for hours / Teeth grow at night / It helps you sleep / Germs only come out at night  
    **Answer:** Your mouth makes less spit at night, so germs can make acid for hours. *Why:* Spit washes and protects teeth. At night there is less of it. Picking 'germs only come out at night' is a mix-up: germs are there all day.
-9. (mcq) In the egg test, what does the vinegar stand in for?  
+7. (mcq) In the egg test, what does the vinegar stand in for?  
    Options: The acid that germs in the mouth make from sugar / Spit / Toothpaste / Water we drink  
    **Answer:** The acid that germs in the mouth make from sugar. *Why:* Vinegar is an acid, and it eats the hard shell. Germs in the mouth turn sugar into acid that eats tooth enamel in the same way.
-10. (mcq) If any touch feels wrong or confusing, what should you do?  
+8. (mcq) If any touch feels wrong or confusing, what should you do?  
    Options: Say no, get away and tell a trusted grown-up / Keep it a secret / Think it is your fault / Wait and see  
    **Answer:** Say no, get away and tell a trusted grown-up. *Why:* Say no, get away, tell. It is never the child's fault, and secrets about touching are never kept.
-11. (mcq) You tell a trusted grown-up about a touch that felt wrong, but they don't listen. What should you do next?  
+9. (mcq) You tell a trusted grown-up about a touch that felt wrong, but they don't listen. What should you do next?  
    Options: Tell another trusted grown-up, and keep telling until someone helps / Stop telling anyone / Think you made a mistake / Keep it a secret  
    **Answer:** Tell another trusted grown-up, and keep telling until someone helps. *Why:* This is why children choose more than one trusted grown-up. Keep telling until someone listens and helps.
-12. (mcq) What do scientists still argue about?  
+10. (mcq) What do scientists still argue about?  
    Options: What fingertip ridges are for / Whether skin is an organ / Whether hair grows / Whether teeth need brushing  
    **Answer:** What fingertip ridges are for. *Why:* Scientists agree skin is an organ, hair grows and brushing helps. They still argue whether ridges are mainly for grip, feeling or both.
-13. (mcq) Your left and right thumbs grew from the same genes. What are their prints like?  
+11. (mcq) Your left and right thumbs grew from the same genes. What are their prints like?  
    Options: Different: the ridge forks and ends are in different places / Exactly the same, because the genes are the same / Different, because one thumb is older / They have no pattern at all  
    **Answer:** Different: the ridge forks and ends are in different places. *Why:* Every finger has its own print. The ridges formed before birth, and tiny differences in how each fingertip grew set the details. Picking 'exactly the same' is the common idea that genes decide everything. Both thumbs are the same age, so 'older' cannot be the reason.
-14. (mcq) Fingerprints form before birth. What happens to them as you grow up?  
+12. (mcq) Fingerprints form before birth. What happens to them as you grow up?  
    Options: They get bigger, but the pattern stays the same all your life / They change into a new pattern every year / They disappear by the age of 10 / They swap from loops to whorls  
    **Answer:** They get bigger, but the pattern stays the same all your life. *Why:* The ridges grow bigger as the fingers grow, but the pattern of loops, whorls and forks stays the same. That is why police can use them.
 
@@ -859,16 +853,14 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - Why are noses so good at football? *They're always running.*
 - What do you call a bear with no teeth? *A gummy bear.*
 - What did the left eye say to the right eye? *'Between you and me, something smells.'*
-- Why was the fingerprint never lonely? *It left a little of itself everywhere it went.*
 - What has teeth but can't bite? *A comb.*
 - Why did the foot go to the party in chappals? *It wanted to keep its sole safe.*
 - Why did the nail cutter never tell long stories? *It always cut them short.*
-- Why do eyebrows never get wet when it rains? *They send the drips the other way.*
 
 ## Connected maths
 - A thumbnail grew 2 millimetres in two weeks. About how much will it grow in eight weeks? **About 8 millimetres.**. Eight weeks is four lots of two weeks. In each two weeks, the nail grows 2 millimetres. 2 + 2 + 2 + 2 = 8, or 4 × 2 = 8. So about 8 millimetres. (queues `math.multiplication.equal-groups.L3`)
 - A child has 20 milk teeth. A grown-up usually has 32 teeth. How many more teeth does the grown-up have? **12 more teeth.**. 32 take away 20 is 12. You can check: 20 + 12 = 32. So a grown-up has 12 more teeth than a child. (queues `math.addition-subtraction.mental-strategies.L3`)
-- Ten people at home gave their right thumbprints. 6 were loops, 3 were whorls and 1 was an arch. Draw a bar chart. Which kind was most common? **Loops were most common, with 6 out of 10.**. Draw one bar for each kind. The loop bar is 6 tall, the whorl bar is 3 tall and the arch bar is 1 tall. The loop bar is tallest, so loops were most common. 6 + 3 + 1 = 10, so every print is counted. (queues `math.data.bar-charts.L3`)
+- Ten people gave their right thumbprints. 6 were loops, 3 were whorls and 1 was an arch. Draw a bar chart. Which kind was most common? **Loops were most common, with 6 out of 10.**. Draw one bar for each kind. The loop bar is 6 tall, the whorl bar is 3 tall and the arch bar is 1 tall. The loop bar is tallest, so loops were most common. 6 + 3 + 1 = 10, so every print is counted. (queues `math.data.bar-charts.L3`)
 - A grown-up blinked 15 times in one minute. How many times would that be in 10 minutes? **150 times.**. One minute has 15 blinks. Ten minutes is ten lots of 15. 15 × 10 = 150. So about 150 blinks in 10 minutes. (queues `math.multiplication.multiplication-facts.L3`)
 - In one family's bread test, the dirty-hands slice had 12 spots and the soap slice had 3 spots. How many times as many spots did the dirty-hands slice have? **4 times as many.**. 12 divided by 3 is 4. You can check: 3 + 3 + 3 + 3 = 12. So the dirty-hands slice grew 4 times as many spots as the soap slice. (queues `math.division.sharing-and-grouping.L3`)
 
@@ -886,8 +878,6 @@ This Body Is a Universe (sci.body.L3):
 
 ## Things to buy
 - [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at skin flakes, fingerprints and bread mould through a bag. Everything still works without one. Used in e1, e2, a2. 
-- [15 cm ruler with millimetres](https://www.amazon.in/s?k=15+cm+ruler) (tool): Measures how far a nail grows in the Nail Tracker. Used in p1. 
-- [My Body Belongs to Me, by Jill Starishevsky](https://www.amazon.in/s?k=My+Body+Belongs+to+Me+Jill+Starishevsky) (book): A gentle picture book on private parts and telling a trusted adult. Used in a4. 
 
 ## Warm-up
 - What is the biggest organ of your body? → Skin.

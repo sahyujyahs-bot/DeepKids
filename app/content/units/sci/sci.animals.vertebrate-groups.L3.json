@@ -192,7 +192,7 @@
    ],
    "perspectives": [],
    "art": "Four small pictures: a tadpole with gills, a frog with lungs and shiny skin, a lizard with lungs, and a bird with lungs and balloon-like air sacs.",
-   "context": "This card explains how the four groups that are not fish breathe. Breathing is covered in more detail in the unit on animal bodies."
+   "context": "This card explains how the four groups that are not fish breathe."
   },
   {
    "concept": "Two ways to keep warm",
@@ -375,14 +375,6 @@
  ],
  "challenging": [
   {
-   "claim": "Cold-blooded animals have cold blood.",
-   "who": "Many people, because of the old word 'cold-blooded'.",
-   "for": "Frogs and fish feel cool to touch, and lizards are slow on cold mornings.",
-   "against": "A lizard basking in the sun can be warmer than a person. Their body warms and cools with their surroundings, so they are not always cold.",
-   "status": "rejected",
-   "context": "This card is about a common mistake caused by an old word."
-  },
-  {
    "claim": "Animals that make their own heat are more advanced than the others.",
    "who": "An old view of nature as a ladder, with mammals and humans at the top.",
    "for": "Birds and mammals can stay active in cold places and at night.",
@@ -468,7 +460,7 @@
    "Noor looked at the lantern. The flame was inside a glass, safe from the wind. She looked at her own shawl. She thought of how warm she stayed under her quilt at night, even when the room was icy. The quilt did not make any heat. It just held hers in.",
    "She knelt and scooped the chick up into her two cupped hands. They were so light it felt like holding a leaf. She held them against her chest and pulled her woollen shawl over her hands. She could feel the chick's heart going very fast, like rain on a tin roof. Slowly, slowly, the shaking stopped.",
    "\"Your hands are warm,\" said Dadi softly. \"Your hands are a fire too.\"",
-   "They waited for Noor's mother to come home. She climbed the ladder with the chick in a soft cloth and slid them back into the nest. At once there was a flutter. The mother sparrow had been on the roof all along, chirping angrily. Now she dived into the gap. Noor saw her spread her feathers wide and settle down over her babies, round and puffed up, like a warm brown cushion.",
+   "Noor's mother came home. She climbed the ladder with the chick in a soft cloth and slid them back into the nest. At once there was a flutter. The mother sparrow had been on the roof all along, chirping angrily. Now she dived into the gap. Noor saw her spread her feathers wide and settle down over her babies, round and puffed up, like a warm brown cushion.",
    "That night Noor lay under her quilt and thought about the two kinds of warm. The lizard, cold all night, waiting for the sun to come back. The chick, burning their own tiny fire, safe under their mother's feathers.",
    "\"Dadi,\" she whispered across the dark room. \"Where does the sparrow's fire come from?\"",
    "\"From the grain she eats,\" said Dadi sleepily.",
@@ -689,10 +681,10 @@
     },
     {
      "kind": "score sheet",
-     "title": "Family score sheet",
+     "title": "Score sheet",
      "items": [
       "Player name",
-      "Families finished",
+      "Points (1 for each right answer)",
       "Bonus points"
      ]
     }
@@ -705,8 +697,8 @@
     "Choose any animal in your hand and answer the question for that animal. Then say which family mat it belongs on. The mats list the clues to check against.",
     "If the others agree, put the animal on the right mat and score one point.",
     "If you are wrong, the others tell you the right answer. The card still goes on the right mat, but with no point. The next player goes.",
-    "The player who puts the last card on a mat gets a bonus point.",
-    "When all 25 cards are on the mats, the player with the most points wins. A tie is a shared win."
+    "The player who puts the fifth card on a mat gets a bonus point.",
+    "When all 25 cards are on the mats, the player with the most points (bonus included) wins. A tie is a shared win."
    ],
    "setup": [
     {
@@ -860,7 +852,7 @@
     },
     {
      "kind": "tokens",
-     "title": "20 food tokens (paper grains of bajra)",
+     "title": "20 food tokens (paper grains of ragi)",
      "items": [
       "grain",
       "grain",
@@ -886,20 +878,20 @@
     }
    ],
    "rules": [
-    "Mark a SUN corner and a SHADE corner with a chunni or a chalk line.",
-    "One player is the caller and shows the weather cards. Everyone else takes a role card: LIZARD or SPARROW. With 2 players, the other player is a lizard for the first 10 cards, then you swap: the caller becomes a sparrow and the other player calls.",
+    "Mark a SUN corner and a SHADE corner with a cloth or a chalk line.",
+    "One player is the caller and shows the weather cards. Everyone else takes a role card: LIZARD or SPARROW. With 2 players, the other player is a lizard for the first 10 cards. Then swap: the caller becomes a sparrow, the other player calls, and you play 10 more cards.",
     "Each sparrow starts with 2 food tokens. The rest stay in a pile.",
     "The caller shuffles the 6 weather cards and shows them one by one, calling each out loud. After the last, shuffle and go on until 10 cards have been shown. Players act out each one.",
-    "SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token from the pile.",
+    "SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token from the pile (if the pile is empty, they take none).",
     "HOT NOON: lizards run to SHADE. Sparrows pant with open mouths.",
     "COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, and each sparrow gives one food token back to the pile to keep warm.",
     "MONSOON RAIN: lizards and sparrows both run to SHADE to shelter from the rain.",
-    "A sparrow with no token to give on a cold card must sit out the next card. A lizard that moves on a cold card sits out the next card.",
-    "After 10 weather cards, stop. There is no winner. Talk about who did better in each kind of weather."
+    "A sparrow with no token to give on a cold card must sit out the next card. A lizard that moves on a cold card sits out the next card. Sitting out lasts for one card only.",
+    "After 10 weather cards, stop (with 2 players, swap roles and play 10 more, then stop). There is no winner. Talk about who did better in each kind of weather."
    ],
    "setup": [
     {
-     "art": "A courtyard with a sunny corner marked by a yellow chunni and a shady corner under a tree, children holding LIZARD and SPARROW cards.",
+     "art": "A courtyard with a sunny corner marked by a yellow cloth and a shady corner under a tree, children holding LIZARD and SPARROW cards.",
      "caption": "1. Mark a sun corner and a shade corner. Give out role cards."
     },
     {
@@ -919,7 +911,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow. Stop after 10 cards.",
+     "do": "Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow. Stop after 10 cards (with 2 players, swap roles and do 10 more).",
      "say": "Sunny morning! Hot noon! Cold night! Remember, sparrows, you must spend a grain to stay warm in the cold.",
      "kid": "Listen for the weather. Act it out fast. Sparrows, give a grain in the cold.",
      "context": "This is the main part of Sun, Shade and Snow. The caller shows weather cards and players act out how their animal copes.",
@@ -990,7 +982,7 @@
      "qty": 1
     },
     {
-     "item": "2 woollen socks of the same thickness",
+     "item": "2 woollen socks of the same thickness (no wool at home? use two same-size pieces of a woollen shawl or scarf, wrapped round the bottles)",
      "qty": 2
     },
     {
@@ -1059,9 +1051,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child a woollen sweater. Ask the questions below.",
+     "do": "Show your child a woollen sweater, shawl or blanket. Ask the questions below.",
      "say": "On a cold morning, we put on a sweater. Does the sweater make heat, like a heater? Or does it do something else?",
-     "kid": "Hold a woollen sweater. Does it make heat? Or does it do something else?",
+     "kid": "Hold something woollen. Does it make heat? Or does it do something else?",
      "context": "This is the start of the fur coat test. It begins by asking what a sweater, fur or feathers really do.",
      "check": {
       "t": "mcq",
@@ -1083,7 +1075,7 @@
      "kid": "Three bottles are three animals. One has no coat. One has a dry coat. One has a wet coat.",
      "context": "This is step 2 of the fur coat test. Here you fill the bottles and dress two of them in socks.",
      "adult": true,
-     "parent": "Use water at about 45 °C: hot-bath warm, so you can keep a finger in it. Measure each bottle at the start. They should all be within one degree. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Dip only the tip, and wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
+     "parent": "Use water at about 45 °C: hot-bath warm, so you can keep a finger in it. In the next step you measure each bottle at the start. They should all be within one degree; if not, pour a little warm water out of the hottest one. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Dip only the tip, and wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
     },
     {
      "id": "s3",
@@ -1282,7 +1274,7 @@
       "why": "The sunny tumbler takes in the sun's warmth, just as a basking lizard does. Picking 'the same' means forgetting that a thing that cannot make its own heat warms up and cools down with its surroundings."
      },
      "how": "e2",
-     "parent": "Put the sunny tumbler where the sun falls straight on it, not through window glass, which blocks some of the warmth. No thermometer? Dip one finger in each tumbler at the end. The sunny one should feel warmer. On a cloudy day, the difference will be small. Try again on a sunny day."
+     "parent": "Put the sunny tumbler where the sun falls straight on it, not through window glass, which blocks some of the warmth. No thermometer? Dip one finger in each tumbler at the end. The sunny one should feel warmer. On a cloudy day, the difference will be small. Try again on a sunny day. On a sunny day, expect the sunny tumbler to be about 2 to 5 degrees warmer than the shady one after 30 minutes."
     },
     {
      "id": "cer",
@@ -1291,7 +1283,7 @@
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "context": "This is the last step of the lizard on a wall test. You say what you found out, like a scientist.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: things that cannot make their own heat get warm from the sun. What I saw: the sunny tumbler went from 26 to 32 degrees, but the shady one only went to 28. Why: sunlight warms what it lands on. A lizard is warmed the same way."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this (with made-up numbers). What I think: things that cannot make their own heat get warm from the sun. What I saw: the sunny tumbler went from 26 to 32 degrees, but the shady one only went to 28. Why: sunlight warms what it lands on. A lizard is warmed the same way."
     }
    ]
   },
@@ -1375,17 +1367,17 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Put one spoonful of jelly seeds in an open bowl. 2. Put one spoonful in a bowl of water. 3. Put one spoonful inside half an eggshell, cover it with the other half and tape it shut. Put it in the third bowl.",
+     "do": "1. Put one spoonful of jelly seeds in an open bowl. 2. Put one spoonful in a bowl of water. 3. Put one spoonful inside half an eggshell, cover it with the other half and tape it shut. Put it in the third bowl. 4. Stand the three bowls side by side in the same room, near a fan or an open window.",
      "say": "Frogs lay their eggs in water. Hens lay their eggs in a dry nest, with a shell. Let's see why.",
      "kid": "Put one spoonful in the open bowl. Put one in water. Put one inside an eggshell, and tape it shut.",
      "context": "This is step 2 of the egg in the air test. Here you put the jelly eggs in three different places.",
      "how": "e3",
-     "parent": "A steel box keeps in even more water than a real shell, because a real shell has tiny holes that let air through. In very humid weather, the open spoonful dries slowly. Put all three bowls under a fan."
+     "parent": "A steel box keeps in even more water than a real shell, because a real shell has tiny holes that let air through. In very humid weather the open spoonful dries slowly, so keep the bowls in moving air. If it is still damp after a day, leave it one more day."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "After 3 hours, and again the next day, look at all three. Open the eggshell carefully.",
+     "do": "After 3 hours, look at all three. Lift the top half of the eggshell quickly, look, and tape it shut again. Look at all three once more the next day, and open the eggshell then.",
      "say": "Which jelly eggs are still soft and wet? Which are drying out?",
      "kid": "Look at all three. Which are still wet? Which dried up?",
      "context": "This is step 3 of the egg in the air test. You check the jelly eggs after 3 hours and after a day.",
@@ -1501,7 +1493,7 @@
       {
        "q": "Which animals might be like the spoon?",
        "good": [
-        "Lizards, like the house lizard on our wall.",
+        "Lizards, like a house lizard on a wall.",
         "Snakes.",
         "Frogs and fish."
        ]
@@ -1564,7 +1556,7 @@
      "id": "s2",
      "mins": 20,
      "do": "Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing.",
-     "say": "Look, a crow. Which group? Are they in the sun or the shade? Is there a house lizard on our wall? Where are they sitting?",
+     "say": "Look, a crow. Which group? Are they in the sun or the shade? Is there a house lizard on a wall? Where are they sitting?",
      "kid": "Spot an animal. Which group? Tick them. Are they in sun or shade?",
      "context": "This is the main part of backbone spotting. You spot animals, sort them and watch how they keep warm or cool.",
      "adult": false,
@@ -1622,11 +1614,10 @@
      "qty": 1
     },
     {
-     "item": "a big leaf or a sheet of paper cut into an elephant-ear shape",
+     "item": "a sheet of newspaper",
      "qty": 1
     }
    ],
-   "safety": "Keep the water away from electric sockets.",
    "schedule": [
     {
      "day": 1,
@@ -1673,7 +1664,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child to pant quickly with an open mouth for ten seconds, then notice how their tongue and mouth feel.",
+     "do": "Ask your child to pant for ten seconds with an open mouth, then breathe normally. Does the tongue feel cooler?",
      "say": "Dogs hardly sweat. So they pant. Fast breaths dry the water off their tongue and mouth, and that carries heat away.",
      "kid": "Dogs can't sweat much. They pant. Pant for ten seconds. Does your tongue feel cooler and drier?",
      "context": "This is the second part of cool down like them. You pant like a dog."
@@ -1681,7 +1672,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Make a big elephant ear from a sheet of newspaper. Flap it next to your face for 30 seconds.",
+     "do": "Fold a sheet of newspaper into a big elephant ear. Flap it next to your face for 30 seconds.",
      "say": "Elephants have huge, thin ears full of blood vessels. When they flap them, the moving air cools the blood. Then the cool blood flows back into the body. Buffaloes cannot sweat much either, so what do they do?",
      "kid": "Flap a paper elephant ear. Feel the breeze? Elephants cool their blood this way.",
      "context": "This is the third part of cool down like them. You flap a big paper ear like an elephant.",
@@ -1710,11 +1701,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "one big bottle, about 1 litre",
+     "item": "one big plastic bottle, about 1 litre",
      "qty": 1
     },
     {
-     "item": "one small bottle, about 200 millilitres",
+     "item": "one small plastic bottle, about 200 millilitres",
      "qty": 1
     },
     {
@@ -1722,7 +1713,7 @@
      "qty": 1
     },
     {
-     "item": "a thermometer",
+     "item": "a thermometer that can go in water",
      "qty": 1,
      "buy": "b-thermo"
     }
@@ -1890,10 +1881,6 @@
     {
      "item": "crayons or colour pencils",
      "qty": 1
-    },
-    {
-     "item": "the animal cards from Five Families",
-     "qty": 1
     }
    ],
    "schedule": [
@@ -1962,8 +1949,8 @@
    "days": 2,
    "materials": [
     {
-     "item": "a small bottle, about 200 millilitres, as the egg",
-     "qty": 1
+     "item": "2 small plastic bottles of the same size, about 200 millilitres, as the eggs",
+     "qty": 2
     },
     {
      "item": "warm tap water, poured by a grown-up",
@@ -1974,7 +1961,7 @@
      "qty": 1
     },
     {
-     "item": "a thermometer",
+     "item": "a thermometer that can go in water",
      "qty": 1,
      "buy": "b-thermo"
     },
@@ -2084,7 +2071,7 @@
    "general": [
     "Wrap the cube in a woollen sock or cotton wool, so still air slows the room's heat getting in.",
     "Wrap it in shiny foil, which bounces back some heat.",
-    "Keep it in the shade, away from the sun and the stove."
+    "Keep it away from the sun and the stove (all the cubes stay on the same table)."
    ],
    "creative": [
     "Camels have thick fur on their backs. It stops the desert sun from heating them. Could a thick 'camel coat' on top work best?",
@@ -2126,10 +2113,11 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Build the coats. Put all the cubes out at the same time. Check every 10 minutes and note which is melting.",
+     "do": "Build the coats. Leave one bare cube as the comparison. Put all the cubes out at the same time on a plate each. Check every 10 minutes and note which is melting.",
      "say": "Let's check. Which one is a puddle? Which one is still a cube?",
      "kid": "Check every 10 minutes. Which ice cube is melting fastest?",
-     "context": "This is the testing part of save the ice cube. You check each cube every 10 minutes."
+     "context": "This is the testing part of save the ice cube. You check each cube every 10 minutes.",
+     "parent": "A bare cube melts in about 20 to 40 minutes in a warm room, and a wrapped one lasts longer, so keep checking after the 20 minutes. Bigger cubes (frozen in a small cup) are easier to compare."
     },
     {
      "id": "s3",
@@ -2156,7 +2144,7 @@
    "mins": 30,
    "problem": "Frogs breathe through their skin, so their skin must stay damp. Design a shady hideout that keeps a wet sponge damp for as long as possible in a sunny spot.",
    "constraints": [
-    "Use one kitchen sponge as the frog. Soak both sponges, then squeeze each until it stops dripping, so they hold the same water.",
+    "Use two kitchen sponges. Soak both, then squeeze each until it stops dripping, so they hold the same water. One goes in the hideout as the frog. The other stays bare.",
     "The hideout must fit inside a shoebox.",
     "Place it in the same sunny spot as a bare wet sponge."
    ],
@@ -2375,18 +2363,6 @@
      "why": "Each animal has their own way. Drying water carries heat away in sweat, panting and wet mud. Elephants cool their blood in their ears. Lizards simply move out of the sun."
     },
     {
-     "t": "mcq",
-     "p": "Why do frogs lay their eggs in water?",
-     "opts": [
-      "Because frog eggs have no shell and would dry out in air",
-      "Because the water keeps them warm",
-      "Because frogs cannot walk on land"
-     ],
-     "a": 0,
-     "why": "Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the Egg in the Air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.",
-     "how": "e3"
-    },
-    {
      "t": "perspective",
      "p": "In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends, Meera and Farida, argue about which kind of animal has the better life there.",
      "views": [
@@ -2463,17 +2439,28 @@
      "why": "Any correct pair is good. Warm: fur, fat, shivering, huddling. Cool: sweating, panting, mud, shade, flapping ears."
     },
     {
-     "t": "write",
-     "p": "Why is 'cold-blooded' a confusing word for a lizard?",
-     "lines": 3,
-     "a": "Because a lizard's blood is not always cold. In the sun it can be warmer than a person. They just take their heat from outside instead of making it.",
-     "why": "A good answer says the lizard can be warm, and that the real difference is where the heat comes from."
-    },
-    {
      "t": "draw",
      "p": "Draw a fish. Draw arrows to show water going in at the mouth, over the gills and out at the side.",
      "a": "Arrows go in at the mouth, over the gills behind the eye, and out under the gill flap.",
      "why": "This shows the path water takes so the gills can take out its oxygen."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these animals is a reptile?",
+     "opts": [
+      "Toad",
+      "Star tortoise",
+      "Seahorse"
+     ],
+     "a": 1,
+     "why": "A tortoise has dry scales on its shell, breathes with lungs and lays shelled eggs on land. A toad is an amphibian and a seahorse is a fish."
+    },
+    {
+     "t": "write",
+     "p": "Choose one animal from your Five Families cards. Write which family it belongs to, and one clue that shows it.",
+     "lines": 3,
+     "a": "Any animal with a correct family and a real clue. For example: a peacock is a bird, because peacocks have feathers and lay hard-shelled eggs.",
+     "why": "Sorting by clues such as skin, breathing and eggs is how scientists put animals in families."
     }
    ]
   },
@@ -2485,7 +2472,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A mudskipper is a fish who hops about on the mud of the Sundarbans at low tide. They have gills, not lungs. How can they breathe out of water?",
+     "p": "A mudskipper is a fish that hops about on the mud of the Sundarbans at low tide. They have gills, not lungs. How can they breathe out of water?",
      "opts": [
       "They keep water in their gill chambers, and take in some oxygen through their wet skin.",
       "They grow lungs each morning.",
@@ -2574,18 +2561,6 @@
      "why": "The platypus of Australia is a mammal with fur that feeds their babies milk, but they lay eggs. Picking penguin or crocodile is wrong: they lay eggs but are a bird and a reptile."
     },
     {
-     "t": "mcq",
-     "p": "Why does a small bottle of warm water cool faster than a big one?",
-     "opts": [
-      "It has more skin for its size, so heat escapes faster",
-      "Small things are always colder",
-      "The water inside is different"
-     ],
-     "a": 0,
-     "why": "A small body has lots of surface for its size, so heat leaks out fast. That is why tiny birds and mice must eat so often.",
-     "how": "a4"
-    },
-    {
      "t": "match",
      "p": "Match the animal parent to what they do.",
      "pairs": [
@@ -2636,6 +2611,12 @@
      "p": "Draw a bird's egg, cut in half. Show the shell, the baby, the yolk for food, and the tiny holes that let air in.",
      "a": "A shell with dots for holes, a small curled chick, a yellow yolk, and clear watery white around them.",
      "why": "An egg holds what the baby needs: food in the yolk, water in the white, and air that comes in through the shell."
+    },
+    {
+     "t": "truefalse",
+     "p": "A python mother can warm her eggs by shivering her muscles.",
+     "a": true,
+     "why": "Shivering muscles make heat. A python mother coils round her eggs and shivers, so her eggs stay warmer than the air around them."
     }
    ]
   },
@@ -2731,11 +2712,11 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in your class, says: 'My sweater makes heat. That is why I feel warm when I put it on.' What is wrong with her idea? How could the Fur Coat Test show it?",
+     "p": "A street dog jumps into a pond on a cold morning and comes out shivering. Use what you learned to explain why the wet dog gets cold fast, and what the shivering does.",
      "lines": 4,
-     "a": "The sweater makes no heat. It traps still air, which holds in the heat that Kavya's body makes. In the Fur Coat Test, the wrapped bottle still cooled, only more slowly. A sweater on a chair, or wrapped round a bottle of cold water, never gets warm.",
-     "why": "A strong answer says the heat comes from the body, and the wool only slows it leaving. It uses the test as evidence.",
-     "how": "e1"
+     "a": "Wet fur loses the trapped air that held the heat in, and the water drying off the dog carries heat away. Shivering shakes the muscles, and the muscles make extra heat.",
+     "how": "e1",
+     "why": "Wet fur has no trapped air left to hold heat in, and water drying off the dog carries heat away. Shivering shakes the muscles, and moving muscles make heat."
     },
     {
      "t": "write",
@@ -2946,7 +2927,7 @@
    "youtube": "tvzTbKULHmA",
    "mins": 4,
    "why": "How animals that take their heat from outside get through cold weather.",
-   "check": "Found by YouTube search: \"How \"Cold-Blooded\" Animals Survive the Cold\" by SciShow. Title checked automatically; a parent may still preview it."
+   "check": "Watch it yourself first, then watch it together."
   },
   {
    "title": "How do fish breathe?",
@@ -2954,7 +2935,7 @@
    "youtube": "zj5v3n6Nlm8",
    "mins": 5,
    "why": "Shows water flowing over gills, close up.",
-   "check": "Found by YouTube search: \"How Do Fish Breathe? | Animal Science for Kids\" by SciShow Kids. Title checked automatically; a parent may still preview it."
+   "check": "Watch it yourself first, then watch it together."
   },
   {
    "title": "For olive ridley sea turtles, laying eggs is grueling work",
@@ -2962,7 +2943,7 @@
    "youtube": "xk9rsfXtmOI",
    "mins": 4,
    "why": "Real footage of olive ridley turtles, the same kind that nest in Odisha, laying shelled eggs in the sand.",
-   "check": "Found by YouTube search: \"For Olive Ridley Sea Turtles, Laying Eggs is Grueling Work\" by Smithsonian Channel. Title checked automatically; a parent may still preview it."
+   "check": "Watch it yourself first, then watch it together."
   }
  ],
  "applications": [
@@ -3074,10 +3055,6 @@
   {
    "j": "What is a snake's favourite subject?",
    "a": "Hiss-tory."
-  },
-  {
-   "j": "What do you call a cold dog?",
-   "a": "A chilli dog."
   },
   {
    "j": "Why did the elephant flap her ears?",
@@ -3213,7 +3190,7 @@
    "id": "b-thermo",
    "item": "Digital thermometer that can measure water, about 0 to 100 °C (a kitchen or lab probe thermometer)",
    "kind": "tool",
-   "why": "Measures the warm bottles, the tumblers in the sun and the nest egg. A fever thermometer cannot read cool water, so it works only for some tests.",
+   "why": "For the warm bottles, the tumblers in the sun and the nest egg. A fever thermometer cannot read cool water, so it works only for some tests.",
    "url": "https://www.amazon.in/s?k=digital+probe+thermometer+kitchen",
    "used_in": [
     "e1",
@@ -3227,7 +3204,7 @@
    "id": "b-sabja",
    "item": "Sabja seeds (sweet basil seeds), a small packet",
    "kind": "material",
-   "why": "When soaked, each seed grows a ball of clear jelly, just like frog eggs. Used in the egg in the air test.",
+   "why": "When soaked, each seed grows a ball of clear jelly, just like frog eggs.",
    "url": "https://www.amazon.in/s?k=sabja+seeds",
    "used_in": [
     "e3"
@@ -3429,5 +3406,6 @@
   "who": "Charles Blagden and George Fordyce, with the earlier idea from Herman Boerhaave",
   "when": "1774 to 1775",
   "wrong_idea": "That no animal can live in air hotter than their own body, because a body heats up like any other object."
- }
+ },
+ "playtest": "Played Five Families with 2 and with 4 players: all 25 cards and 5 question cards are listed, the score sheet now matches the scoring (points and bonus), and the bonus is for the fifth card on a mat. Played Sun, Shade and Snow with 2 and with 4: the 2-player rule was contradictory, so now the player is a lizard for 10 cards, then roles swap for 10 more; an empty food pile and sitting out are explained; tokens are ragi and the corners use a cloth. Did every experiment in a flat: the sock can be a woollen shawl, step 2 notes now point to the right step, the sunny tumbler note gives an honest expected difference (2 to 5 degrees, small on a cloudy day), the sabja eggs sit in moving air and the eggshell is only peeked at after 3 hours, the ice cube challenge has a bare comparison cube and an honest melting time, the frog sponge rules are clearer, the nest project needs 2 bottles, and the elephant-ear activity uses newspaper. Removed the pointless water-near-sockets safety line, the unused animal cards from the babies chart, one joke, internal video notes, and repeats (the frog egg question, the cold-blooded question and claim, the sweater and small-bottle questions), replacing one with a wet-dog question. Fixed the confusing mother/ladder line in the story. I could not watch the three videos, only confirm that the titles exist, so a parent is told to preview them. Science facts were read and not changed."
 }

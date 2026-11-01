@@ -109,7 +109,7 @@
   {
    "term": "Kite",
    "meaning": "A light frame covered with paper or cloth that flies on the wind, held by a string. In India a paper kite is called a patang or guddi.",
-   "example": "On Makar Sankranti the skies over Ahmedabad and Hyderabad fill with kites.",
+   "example": "On Makar Sankranti the skies over Ahmedabad and Hyderabad fill with kites, and in Kolkata on Vishwakarma Puja.",
    "art": "A diamond patang with a tail, its string running down to a child on a rooftop."
   },
   {
@@ -231,7 +231,7 @@
    "concept": "How a kite flies",
    "status": "defined",
    "definition": "A kite flies because the wind pushes on it while the string holds it back. The kite is tilted, so the wind is turned downwards and the kite is pushed upwards.",
-   "description": "A kite has no engine and does not flap. Instead, the wind moves past it. The string pulls the kite back, so it can't simply be blown away. The tilted kite turns the wind downwards, and the wind pushes the kite up. If the string goes slack, the kite tumbles. If the wind stops, you can run, so the air still moves past the kite. A tail adds a little drag at the back. It keeps the kite's nose pointing into the wind, so it doesn't spin. Old stories from China say people made kites there more than 2,000 years ago. In India, kites fill the sky on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, and on Independence Day in Delhi.",
+   "description": "A kite has no engine and does not flap. Instead, the wind moves past it. The string pulls the kite back, so it can't simply be blown away. The tilted kite turns the wind downwards, and the wind pushes the kite up. If the string goes slack, the kite tumbles. If the wind stops, you can run, so the air still moves past the kite. A tail adds a little drag at the back. It keeps the kite's nose pointing into the wind, so it doesn't spin. Old stories from China say people made kites there more than 2,000 years ago. In India, kites fill the sky on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, on Vishwakarma Puja in Kolkata, and on Independence Day in Delhi.",
    "examples": [
     "A patang climbs when the string is pulled tight and drops when it goes slack.",
     "On a still day you must run to fly a kite.",
@@ -368,7 +368,7 @@
    "concept": "Flying on other worlds",
    "status": "defined",
    "definition": "Wings need air to push on. Where there is no air, as in space, wings do nothing. Where there is thin air, as on Mars, wings must move very fast.",
-   "description": "In space there is no air at all, so a plane's wings would have nothing to push. Rockets work differently. They throw hot gas out backwards very fast, and the gas pushes the rocket forwards. Mars has air, but only about one hundredth as much as Earth. In 2021, NASA flew a small helicopter called Ingenuity on Mars. It was the first powered flight on another planet. Its blades spun about 2,400 times a minute, many times faster than a ceiling fan. The team was led by MiMi Aung, an engineer who grew up partly in Myanmar. Its chief engineer, Bob Balaram, studied at IIT Madras. Ingenuity was meant to fly 5 times. It flew 72 times. Saturn's moon Titan has thick air and weak gravity. NASA plans to send a flying drone there, called Dragonfly.",
+   "description": "In space there is no air at all, so a plane's wings would have nothing to push. Rockets work differently. They throw hot gas out backwards very fast, and the gas pushes the rocket forwards. Mars has air, but only about one hundredth as much as Earth. In 2021, NASA flew a small helicopter called Ingenuity on Mars. It was the first powered flight on another planet. Its blades spun about 2,400 times a minute, many times faster than a ceiling fan. The team was led by MiMi Aung, an engineer who grew up partly in Myanmar. Bob Balaram, the chief engineer of Ingenuity, studied at IIT Madras. Ingenuity was meant to fly 5 times. It flew 72 times. Saturn's moon Titan has thick air and weak gravity. NASA plans to send a flying drone there, called Dragonfly.",
    "examples": [
     "Ingenuity's first flight, on 19 April 2021, lasted about 40 seconds.",
     "Astronauts on the Moon can't fly a kite, because the Moon has no air."
@@ -580,19 +580,19 @@
   "title": "The Kite Who Watched the Kites",
   "mins": 12,
   "read_aloud": true,
-  "note": "Delhi really does fill with paper kites every Independence Day, and black kites really do soar over the old city. Glass-coated kite string really injures many birds, and the Charity Birds Hospital in Chandni Chowk, Delhi, really treats them. The narrator, Farah, Bilal and everything that happens to them are made up.",
+  "note": "Delhi really does fill with paper kites every Independence Day, and black kites really do soar over the old city. Glass-coated kite string really injures many birds, and the Charity Birds Hospital in Chandni Chowk, Delhi, really treats them. The narrator, Farah, Bilal, Farah's brother and mother, and everything that happens to them are made up.",
   "text": [
    "I am a kite. Not the paper kind. I am the older kind, the kind with feathers. People in Delhi call me cheel. The English named their paper toys after my family, long ago, because the toys hang in the wind the way we do.",
    "I live on the broken water tank above a sweet shop in the old city. From there I can see the whole jumble of rooftops, the domes of the mosque, and the river far away. On most days the sky belongs to my family and to the pigeons. But every year, on the fifteenth of August, the people climb onto their roofs, and the sky fills up with paper.",
    "That year I watched a girl called Farah. She was nine, and she had one kite. It was pink, with a torn corner patched with tape. Her cousin Bilal had six kites and a big wooden spool of string that glittered in the sun. I knew that glitter. It was glass, ground fine and glued onto the thread, so that his string could cut other people's strings. It can cut feathers too.",
    "Farah's kite would not fly. She held it above her head and ran across the roof, and it bumped along behind her like a tired dog. She threw it up into the air, and it turned over and fell between two water pots. Bilal laughed. 'Your kite is scared of the sky,' he said.",
    "I did not laugh. I had been young once, and I had fallen too.",
-   "The sun was high. Over the hot roofs and the hot roads, warm air was beginning to rise in great invisible bubbles. I could feel one under the tank, like a breath. I stepped off, spread my wings, and did not flap. I tilted the front edges of my wings up, just a little, and leaned on the rising air. It pushed up under me. I turned in a slow circle, and the bubble carried me up, round and round, until Farah's roof was the size of a chapati.",
+   "The sun was high. Over the hot roofs and the hot roads, warm air was beginning to rise in great invisible bubbles. I could feel one under the tank, like a breath. I stepped off, spread my wings, and did not flap. I tilted the front edges of my wings up, just a little, and leaned on the rising air. It pushed up under me. I turned in a slow circle, and the bubble carried me up, round and round, until Farah's roof was the size of a postage stamp.",
    "From up there, I saw her stop running. She was looking at me. She shaded her eyes with one hand and watched me hang in the sky without moving a feather. I twisted my forked tail a little, to keep my head pointing into the breeze. I could feel her wondering.",
    "Then she did something clever. All morning she had run along with the wind, so the kite only drifted lazily after her. Now she stood still, with the wind blowing on her back. She called her little brother and put the kite in his hands. 'Carry it to the far edge,' she said. 'Hold it up high, with its face to the wind. Let go only when I say.' He walked away across the roof, and she let out string as he went, until it stretched between them, tight. The pink paper faced the breeze, the way I always face it.",
    "'Now!'",
    "He let go. She did not run. She pulled. The wind pushed the pink kite back, and the string held it, and the kite had nowhere to go but up. It shot up past the washing line, past the neighbour's satellite dish, wobbling and then steadying. Farah let out a little string, then pulled again, and it climbed again. Whenever the string went slack, the kite began to sag. Whenever she drew it tight, it rose. She was laughing out loud.",
-   "So that was the secret she found. A kite does not fly in spite of the string. It flies because of it. The wind pushes, the string holds, and the tilted paper turns the push into an upward push. Mine is the same trick, without the string. I lean on the moving air, and the air holds me.",
+   "So that was the secret she found. The string is what lets a kite fly. The wind pushes, the string holds, and the tilted paper turns the push into an upward push. Mine is the same trick, without the string. I lean on the moving air, and the air holds me.",
    "For an hour the sky was perfect. Hundreds of paper kites hung over the old city, red and yellow and green, and my family wheeled among them. Then the fighting began. The kite fighters crossed their strings and sawed, and kites came loose and drifted away over the rooftops. People cheered. Bilal cut three kites down, one after another.",
    "I did not see the fourth string. It was loose, trailing from a kite that had already been cut. It drifted across the sky like a spider's thread, and the glass in the thread caught the light a moment too late. It wrapped once around my left wing. When I beat my wing to shake it off, it bit.",
    "A wing is only a wing while it can push the air. Mine could not. The air slid past it, and I was falling. I tumbled through the paper kites and the shouting, and I hit the roof among Farah's water pots.",
@@ -606,7 +606,6 @@
   "epiphany": "For the parent: Farah's kite fails while she runs along with the wind and lets the string go slack. It flies the moment she stands still with the wind at her back, the kite's face turned into the wind, and pulls the string tight. The wind pushes the kite, the string holds it, and the tilted kite turns that push upwards. The cheel does the same thing without a string, leaning tilted wings on rising warm air. When the glass string damages a wing, the wing can no longer push the air, and it falls. Every flyer in the story stays up the same way: by pushing air downwards.",
   "ask": [
    "In the story, Farah's kite would not fly at first. What did she change to make it climb?",
-   "Why did the kite rise when Farah pulled the string tight, and sag when the string went slack?",
    "How did the cheel stay up in the sky without flapping?",
    "Why did the cheel fall when the glass string cut a wing?",
    "At the end, Bilal holds a spool of plain cotton string. Why do you think he changed?"
@@ -751,7 +750,7 @@
      "title": "Five playing mats",
      "items": [
       "FLAPPERS: moving wings push air down and back",
-      "GLIDERS: still wings, sliding slowly down the air",
+      "GLIDERS AND SOARERS: still wings, sliding down the air or riding rising air",
       "HELD ON A STRING: the wind pushes, the string holds",
       "SPINNERS AND FLOATERS: they fall very slowly",
       "ENGINES AND OTHER TRICKS: propellers, jets, hot air or rockets"
@@ -805,19 +804,19 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Find the card 'Paper plane'. Play it together as a practice round.",
+     "do": "Find the card 'Paper plane'. Play it together as a practice round. Then shuffle it back into the pile.",
      "say": "Let's practise. A paper plane. Does it flap? Does it have an engine? Which mat does it go on?",
-     "kid": "Practice card: a paper plane. Does it flap? Does it have an engine? Which mat does it go on?",
+     "kid": "Practice card: a paper plane. Does it flap? Does it have an engine? Which mat does it go on? Then shuffle it back into the pile.",
      "check": {
       "t": "mcq",
       "q": "A paper plane, after it leaves your hand. Which mat does it go on?",
       "options": [
        "FLAPPERS",
-       "GLIDERS",
+       "GLIDERS AND SOARERS",
        "ENGINES AND OTHER TRICKS"
       ],
       "a": 1,
-      "why": "Gliders is right. Once it leaves your hand, a paper plane has no thrust, so it slides slowly down the air on still wings. Picking FLAPPERS mixes up the throw with flapping. Picking ENGINES counts your arm as an engine, but your arm only pushes for a moment."
+      "why": "GLIDERS AND SOARERS is right. Once it leaves your hand, a paper plane has no thrust, so it slides slowly down the air on still wings. Picking FLAPPERS mixes up the throw with flapping. Picking ENGINES counts your arm as an engine, but your arm only pushes for a moment."
      },
      "ask": [
       {
@@ -867,7 +866,7 @@
    "context": "This is a card game about the different ways things fly. Players sort 24 flyers, from sparrows to seeds to a helicopter on Mars, by the trick each one uses to stay up.",
    "setup": [
     {
-     "art": "Five paper mats in a row on the floor, labelled flappers, gliders, held on a string, spinners and floaters, and engines and other tricks.",
+     "art": "Five paper mats in a row on the floor, labelled flappers, gliders and soarers, held on a string, spinners and floaters, and engines and other tricks.",
      "caption": "1. Lay out the five mats."
     },
     {
@@ -906,7 +905,7 @@
       "Throw hard and fast.",
       "Throw with your other hand.",
       "Fold the wing tips up.",
-      "Tear a small strip off one wing."
+      "Bend the back edge of one wing down a little."
      ]
     },
     {
@@ -924,9 +923,10 @@
    "rules": [
     "Each pilot folds one paper plane.",
     "Put the runway mat on the floor, 3 big steps from the throwing line.",
-    "On your turn, take a challenge card and do what it says. Then throw.",
+    "On your turn, take a challenge card and do what it says to your plane. Then throw.",
     "Score the sheet your plane comes to rest on. Missing the runway scores 0.",
     "Write the points and what the plane did in the pilot log.",
+    "After your throw, undo the change and put the card at the bottom of the pile. When the pile has been used up, shuffle it and use it again.",
     "After 4 rounds each, the most points wins."
    ],
    "flow": [
@@ -942,7 +942,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Take turns. Each pilot draws a challenge card, does it, then throws. 2. Score the landing. 3. Write it in the pilot log.",
+     "do": "1. Take turns. Each pilot draws a challenge card, does it, then throws. 2. Score the landing. 3. Write it in the pilot log. 4. Undo the change and put the card at the bottom of the pile.",
      "say": "What did that card do to your plane? Did it climb, dive or glide?",
      "kid": "Pick a card. Do what it says. Throw your plane. Did it climb, dive or glide? Write your points.",
      "ask": [
@@ -962,7 +962,7 @@
        ]
       }
      ],
-     "parent": "A paper clip on the nose moves the plane's balance point forward. That usually makes it steadier. Bending up the back edges of the wings pushes the tail down and the nose up. Too much, and the plane swoops up and stalls. Tearing a wing makes it roll to one side."
+     "parent": "A paper clip on the nose moves the plane's balance point forward. That usually makes it steadier. Bending up the back edges of the wings pushes the tail down and the nose up. Too much, and the plane swoops up and stalls. Bending the back edge of one wing down makes the plane roll to one side."
     },
     {
      "id": "s3",
@@ -1040,7 +1040,11 @@
      "buy": "b-tape"
     },
     {
-     "item": "a pencil, the results table and a long hallway or a terrace",
+     "item": "a strip of tape for the throwing line",
+     "qty": 1
+    },
+    {
+     "item": "a pencil, the results table and a long hallway or the longest room you have",
      "qty": 1
     }
    ],
@@ -1091,7 +1095,8 @@
        ]
       }
      ],
-     "context": "This is the first step of the Paper Clip Pilot experiment. You find out whether weight on a paper plane's nose helps it fly further."
+     "context": "This is the first step of the Paper Clip Pilot experiment. You find out whether weight on a paper plane's nose helps it fly further.",
+     "parent": "To fold a dart plane: fold an A4 sheet in half the long way and open it. Fold the two top corners in to the middle line. Fold the two new slanted edges in to the middle again. Fold the whole plane in half along the middle line, then fold each wing down level with the bottom edge."
     },
     {
      "id": "s2",
@@ -1255,6 +1260,10 @@
     },
     {
      "item": "a phone stopwatch",
+     "qty": 1
+    },
+    {
+     "item": "a strip of tape to mark 2 metres on a wall or door",
      "qty": 1
     },
     {
@@ -1485,15 +1494,7 @@
        ]
       }
      ],
-     "parent": "With a slight tilt, the hand is pushed up a little. This is lift. With a steep tilt, the hand is mostly pushed back and starts to wobble. Real wings do this too. It is called a stall."
-    },
-    {
-     "id": "s3",
-     "mins": 3,
-     "do": "1. Hold the card loosely by one short edge, between finger and thumb, so it hangs straight down. 2. Hold it an arm's length in front of the fan, with the hanging card facing the fan. 3. Watch what the moving air does to it.",
-     "say": "The card hangs straight down. What do you think the moving air will do to it? Why?",
-     "kid": "Hold the card loosely by its top edge. Let it hang down. Hold it in front of the fan. Watch it.",
-     "parent": "The air pushes the card back, so it swings up into a slant, like a kite on a string. The slanted card turns the air downwards, and the air holds it up. If your fan has a slower speed, try it. The card then hangs more steeply, because slower air pushes less.",
+     "parent": "With a slight tilt, the hand is pushed up a little. This is lift. With a steep tilt, the hand is mostly pushed back and starts to wobble. Real wings do this too. It is called a stall.",
      "check": {
       "t": "mcq",
       "q": "In the Hand Wing test, when does the air push your hand up the most?",
@@ -1505,6 +1506,14 @@
       "a": 1,
       "why": "A little tilt is right. It turns the moving air downwards, so the air pushes the hand up. Picking 'flat' misses that a flat hand hardly turns the air. Picking 'steeply' misses that a steep hand is mostly pushed back and wobbles. That is a stall."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Hold the card loosely by one short edge, between finger and thumb, so it hangs straight down. 2. Hold it an arm's length in front of the fan, with the hanging card facing the fan. 3. Watch what the moving air does to it.",
+     "say": "The card hangs straight down. What do you think the moving air will do to it? Why?",
+     "kid": "Hold the card loosely by its top edge. Let it hang down. Hold it in front of the fan. Watch it.",
+     "parent": "The air pushes the card back, so it swings up into a slant, like a kite on a string. The slanted card turns the air downwards, and the air holds it up. If your fan has a slower speed, try it. The card then hangs more steeply, because slower air pushes less."
     },
     {
      "id": "s4",
@@ -1612,7 +1621,7 @@
      "id": "s2",
      "mins": 5,
      "adult": true,
-     "do": "1. Go to the longest clear space you have, like a hallway, a terrace or a park. 2. Your child runs holding a big flat card in front of them, facing forwards. 3. Then they run holding it edge-on, like a knife.",
+     "do": "1. Go to the longest clear space you have, like a hallway, a long room or a terrace. 2. Your child runs holding a big flat card in front of them, facing forwards. 3. Then they run holding it edge-on, like a knife.",
      "say": "Which way was harder to run? Something pushed back on the card. What was it?",
      "kid": "Run holding the card flat in front of you. Now run holding it edge-on. Which was harder? What pushed back?",
      "check": {
@@ -1742,7 +1751,7 @@
      "qty": 1
     }
    ],
-   "safety": "Go with a grown-up. Wash your hands after. Don't put seeds in your mouth. Aak plant sap stings eyes, so collect only the dry fluffy seeds, never break the plant.",
+   "safety": "Go with a grown-up. Aak plant sap stings the eyes, so collect only the dry fluffy seeds and never break the plant.",
    "schedule": [
     {
      "day": 1,
@@ -1977,7 +1986,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a dupatta or a light scarf for each person",
+     "item": "a dupatta, a saree end or a light scarf for each person",
      "qty": 1
     },
     {
@@ -2019,9 +2028,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Each person holds a dupatta like wings. 2. Call out a way of flying, and everyone dances it. Flap like a crow. Glide like a paper plane. Soar in circles like a cheel. Spin down like a mahogany seed. Float like aak fluff.",
+     "do": "1. Each person holds a dupatta or scarf like wings. 2. Call out a way of flying, and everyone dances it. Flap like a crow. Glide like a paper plane. Soar in circles like a cheel. Spin down like a mahogany seed. Float like aak fluff.",
      "say": "When I call a word, move like that flyer. Flap! Glide! Soar! Spin! Float!",
-     "kid": "Hold your dupatta like wings. When you hear a word, move like that flyer. Flap! Glide! Soar! Spin! Float!",
+     "kid": "Hold your dupatta or scarf like wings. When you hear a word, move like that flyer. Flap! Glide! Soar! Spin! Float!",
      "context": "This is the first step of the Wings Dance. You dance the different ways that birds, planes and seeds fly.",
      "ask": [
       {
@@ -2031,7 +2040,18 @@
         "Spinning, because you get dizzy."
        ]
       }
-     ]
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "In the Wings Dance, which move was soaring?",
+      "options": [
+       "Flapping your arms fast",
+       "Turning slowly in big circles with your arms still",
+       "Spinning on the spot as you sink down"
+      ],
+      "a": 1,
+      "why": "Turning slowly in big circles with still arms is soaring, like a cheel in a thermal. Flapping fast is flapping, like a crow. Spinning as you sink is the mahogany seed's trick."
+     }
     },
     {
      "id": "s2",
@@ -2046,17 +2066,6 @@
      "do": "End the dance by asking which flyer each person liked being most.",
      "say": "Which flyer did you like being most? Why?",
      "kid": "Which flyer did you like being most? Tell someone why.",
-     "check": {
-      "t": "mcq",
-      "q": "In the Wings Dance, which move was soaring?",
-      "options": [
-       "Flapping your arms fast",
-       "Turning slowly in big circles with your arms still",
-       "Spinning on the spot as you sink down"
-      ],
-      "a": 1,
-      "why": "Turning slowly in big circles with still arms is soaring, like a cheel in a thermal. Flapping fast is flapping, like a crow. Spinning as you sink is the mahogany seed's trick."
-     },
      "think": "People have danced like birds for thousands of years. Why do you think flying makes people want to dance?"
     }
    ],
@@ -2327,7 +2336,14 @@
     },
     {
      "id": "s2",
-     "mins": 15,
+     "mins": 5,
+     "do": "Read the usual and creative solutions. Try one of them, then invent your own.",
+     "say": "Here are some usual and some creative ideas. Which would you like to try?",
+     "kid": "Look at the usual ideas and the creative ideas. Try one. Then invent your own!"
+    },
+    {
+     "id": "s3",
+     "mins": 20,
      "do": "1. Your child designs and builds their own glider. 2. Throw it 3 times and measure each flight. 3. Improve it and test again.",
      "say": "What will you change to make it go further? Change only one thing at a time.",
      "kid": "Build your own coin glider. Throw it 3 times and measure. Change one thing and try again.",
@@ -2342,14 +2358,7 @@
       ],
       "a": 0,
       "why": "Near the nose is right. It puts the balance point a little forward, so the glider flies steadily. Picking 'the tail' makes it swoop up and drop. Picking 'a wing tip' makes it roll to that side."
-     }
-    },
-    {
-     "id": "s3",
-     "mins": 10,
-     "do": "Read the usual and creative solutions. Try one of them, then invent your own.",
-     "say": "Here are some usual and some creative ideas. Which would you like to try?",
-     "kid": "Look at the usual ideas and the creative ideas. Try one. Then invent your own!",
+     },
      "think": "Real planes carry people, bags and food. Where do you think engineers put the heaviest things?"
     }
    ],
@@ -2375,19 +2384,6 @@
      "a": 1,
      "why": "A bird's wings push air down, and the air pushes the bird up. Picking 'nothing' usually means air is thought of as empty. But air is a real material that pushes back.",
      "art": "A crow mid-downstroke with air arrows going down."
-    },
-    {
-     "t": "mcq",
-     "p": "A tissue is pushed into the bottom of a glass. The glass is pushed upside down into water. Why does the tissue stay dry?",
-     "opts": [
-      "Air in the glass keeps the water out",
-      "The water is too cold to get in",
-      "The tissue is waterproof",
-      "The glass is magnetic"
-     ],
-     "a": 0,
-     "why": "The 'empty' glass is full of air, and the air takes up the space. Picking 'waterproof' usually means the child hasn't seen that the air is doing the work. Try a tissue in a glass held the right way up: it gets wet.",
-     "how": "a1"
     },
     {
      "t": "fill",
@@ -2512,6 +2508,15 @@
      "why": "Plants have found many ways to fly: parachutes, spinners and gliders all slow the seed's fall so the wind can carry them far."
     },
     {
+     "t": "fill",
+     "p": "A paper plane has no engine. After it leaves your hand, it ____ slowly down through the air.",
+     "a": [
+      "glides",
+      "glide"
+     ],
+     "why": "With no thrust, a paper plane keeps moving forward only by sinking slowly. Its wings make lift the whole time."
+    },
+    {
      "t": "mcq",
      "p": "Why do many plants make seeds that fly?",
      "opts": [
@@ -2524,31 +2529,10 @@
      "why": "A seed that lands under their parent must share light and water. A seed that travels can find space of their own. Picking 'to keep the seeds dry' misses that a flying seed lands in rain and sun like any other. Over a very long time, plants whose seeds travelled further had more young plants growing in new places."
     },
     {
-     "t": "mcq",
-     "p": "A paper plane swoops up, stops and drops. What could help?",
-     "opts": [
-      "A paper clip on its nose",
-      "Throwing it harder",
-      "Taking off one wing",
-      "Making it wet"
-     ],
-     "a": 0,
-     "why": "A clip moves the balance point forward, so the plane glides instead of swooping. Picking 'throw harder' is a common idea. But a harder throw makes it swoop up even more steeply.",
-     "how": "e1"
-    },
-    {
      "t": "truefalse",
      "p": "A plane's wings would still hold it up in space, where there is no air.",
      "a": false,
      "why": "False. Wings must push on air. In space there is none, so rockets are used instead."
-    },
-    {
-     "t": "write",
-     "p": "Your hand is held flat in front of a fan. You tilt the front edge up a little. What do you feel, and why?",
-     "lines": 3,
-     "a": "I feel my hand pushed upwards. The tilted hand turns the moving air downwards, so the air pushes my hand up. That push is lift.",
-     "why": "A small tilt turns the air down and gives lift.",
-     "how": "e3"
     },
     {
      "t": "draw",
@@ -2559,7 +2543,7 @@
     },
     {
      "t": "write",
-     "p": "Pooja, a girl in Class 3, says, 'Air is nothing. An empty bottle has nothing in it.' How could you show her she is wrong, using things at home?",
+     "p": "Divya, a girl in Class 3, says, 'Air is nothing. An empty bottle has nothing in it.' How could you show her she is wrong, using things at home?",
      "lines": 4,
      "a": "A strong answer describes a test and what it shows. For example: put the lid on an 'empty' bottle and squeeze it. It pushes back, because air is inside. Or push an open bottle, mouth down, into a bucket of water. The water cannot get in until bubbles of air come out.",
      "why": "Air is a real material. It takes up space and pushes back, even though we can't see it."
@@ -2573,7 +2557,7 @@
        "says": "The crow is better. Crows flap, so they can take off from a wall, fly in any weather, and carry food home."
       },
       {
-       "who": "Anjali, her friend",
+       "who": "Mythili, Kavya's friend in Class 3",
        "says": "The cheel is better. Cheels soar on rising warm air, so they can stay up for an hour with hardly any work."
       }
      ],
@@ -2581,6 +2565,13 @@
      "lines": 5,
      "a": "A strong answer picks a bird and explains how they stay up: flapping pushes air down and back, and soaring uses rising warm air under still wings. It answers back fairly, for example that soaring saves energy but needs sunshine and rising air, while flapping works anywhere but is hard work.",
      "why": "Both are good at different jobs. Flapping is strong but tiring. Soaring is cheap but needs thermals, so cheels soar most around midday."
+    },
+    {
+     "t": "write",
+     "p": "Stand under a ceiling fan that is switched on. Which way do you feel the air move? Why do you think the blades are tilted?",
+     "lines": 3,
+     "a": "I feel the air moving down. The blades are tilted like a wing, so each blade pushes the air downwards as it turns.",
+     "why": "A tilted blade pushes air one way, just as a tilted wing pushes air down. Then the air pushes back on the blade."
     }
    ]
   },
@@ -2623,43 +2614,6 @@
         "label": "3 clips on the nose",
         "value": 3,
         "emoji": "📎"
-       }
-      ]
-     }
-    },
-    {
-     "t": "mcq",
-     "p": "Look at the chart of the Seed Spinners results. Which spinner took longest to fall?",
-     "opts": [
-      "Short wings",
-      "Middle wings",
-      "Long wings"
-     ],
-     "a": 2,
-     "why": "The long-wing spinner has the tallest bar, at 2.2 seconds. Its longer wings sweep through more air, so it can be held up while falling more slowly. Picking 'short wings' often means a tall bar was read as 'fast'. Here a tall bar means slow.",
-     "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall.",
-     "how": "e2",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example results: how long each paper spinner took to fall 2 metres",
-      "x": "Wing length",
-      "y": "Time to fall (seconds)",
-      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
-      "data": [
-       {
-        "label": "Short wings, 4 cm",
-        "value": 1.2,
-        "emoji": "🌀"
-       },
-       {
-        "label": "Middle wings, 7 cm",
-        "value": 1.7,
-        "emoji": "🌀"
-       },
-       {
-        "label": "Long wings, 10 cm",
-        "value": 2.2,
-        "emoji": "🌀"
        }
       ]
      }
@@ -2731,6 +2685,12 @@
      "p": "Paper planes have flat wings, so they can't make any lift.",
      "a": false,
      "why": "False. A flat wing tilted a little still turns air down, so it gets lift. That is why paper planes fly."
+    },
+    {
+     "t": "truefalse",
+     "p": "A sunbird hovering at a flower works harder than a cheel soaring high above.",
+     "a": true,
+     "why": "True. To hover, the sunbird's wings must keep pushing air down all the time. A soaring cheel rides rising warm air and hardly moves a feather."
     },
     {
      "t": "truefalse",
@@ -2974,7 +2934,7 @@
     },
     {
      "t": "write",
-     "p": "In the story, Farah's kite rose when she pulled the string tight. Her friend Isha says, 'If I pull harder and harder, my kite will end up straight above my head.' Is Isha right? Explain, using the words wind, string and push.",
+     "p": "In the story, Farah's kite rose when she pulled the string tight. Revathi, a girl in Class 4, says, 'If I pull harder and harder, my kite will end up straight above my head.' Is Revathi right? Explain, using the words wind, string and push.",
      "lines": 4,
      "a": "A strong answer says no. The wind pushes the kite back, away from the flyer, and the string holds it against that push. The tilted kite turns the push upwards. Straight overhead, the wind would blow flat along the kite's face instead of against it, so there would be almost no push to hold it up. So a kite always stays a little downwind of the flyer, with the string slanting.",
      "why": "A kite is held up by the wind pushing against a string. It needs the wind to hit its face, so it can never sit directly above the flyer.",
@@ -3043,18 +3003,6 @@
   },
   {
    "t": "mcq",
-   "p": "You push an 'empty' plastic bottle, mouth down, into a bucket of water. What happens?",
-   "opts": [
-    "Water can't fill it, because air inside is in the way",
-    "Water rushes straight in",
-    "The bottle melts"
-   ],
-   "a": 0,
-   "why": "The bottle is full of air, and air takes up space. Tip the bottle a little, and bubbles of air escape while water comes in. Picking 'water rushes in' means the air isn't being counted.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
    "p": "Which force pulls a flying thing down towards the Earth?",
    "opts": [
     "Lift",
@@ -3093,7 +3041,7 @@
    "t": "mcq",
    "p": "A kite flies best when the flyer…",
    "opts": [
-    "Stands with the wind on her back and keeps the string tight",
+    "Stands with the wind on their back and keeps the string tight",
     "Runs along with the wind",
     "Lets the string go slack"
    ],
@@ -3240,12 +3188,12 @@
    "channel": "NASA Jet Propulsion Laboratory (NASA JPL)",
    "youtube": "U7DFnNimSfw",
    "mins": 3,
-   "why": "Shows the 72 flights of the first powered helicopter on another planet. Good for the 'Flying on other worlds' card and the maths problem about blade speed.",
+   "why": "Shows the 72 flights of the first powered helicopter on another planet. Good for the 'Flying on other worlds' card.",
    "check": "A parent may like to preview it first."
   },
   {
    "title": "How the dandelion seed flies (separated vortex ring)",
-   "channel": "University of Edinburgh, or Nature",
+   "channel": "Nature Video",
    "youtube": "N2UbaDV9O9Q",
    "mins": 2,
    "why": "Shows the swirling ring of air above a dandelion seed, found by Cummins and colleagues in 2018. Good for the Seeds that fly card and the Slowest Seed challenge.",
@@ -3272,7 +3220,7 @@
    "art": "Cheels circling in a hazy midday sky over rooftops."
   },
   {
-   "text": "The sky full of kites on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, or on Independence Day in Delhi.",
+   "text": "The sky full of kites on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, on Vishwakarma Puja in Kolkata, or on Independence Day in Delhi.",
    "art": "Hundreds of coloured paper kites over old city rooftops."
   },
   {
@@ -3371,16 +3319,8 @@
    "a": "On the school buzz."
   },
   {
-   "j": "Why was the swift so tired?",
-   "a": "The swift hadn't landed in ten months."
-  },
-  {
    "j": "What do you call a kite with no string?",
    "a": "Gone with the wind."
-  },
-  {
-   "j": "Why did Ingenuity like Mars?",
-   "a": "There are no traffic jams in the sky."
   }
  ],
  "maths": [
@@ -3666,26 +3606,6 @@
    "used_in": [
     "p1"
    ]
-  },
-  {
-   "id": "b-book1",
-   "item": "A Seed Is Sleepy, by Dianna Hutts Aston, illustrated by Sylvia Long",
-   "kind": "book",
-   "why": "A beautiful picture book about seeds, including the ones that fly.",
-   "url": "https://www.amazon.in/s?k=A+Seed+Is+Sleepy+Dianna+Hutts+Aston",
-   "used_in": [
-    "a3"
-   ]
-  },
-  {
-   "id": "b-book2",
-   "item": "The Wright Brothers: How They Invented the Airplane, by Russell Freedman",
-   "kind": "book",
-   "why": "A true story with the brothers' own photographs. Best read aloud by a parent, a chapter at a time.",
-   "url": "https://www.amazon.in/s?k=Russell+Freedman+Wright+Brothers+How+They+Invented+the+Airplane",
-   "used_in": [
-    "g2"
-   ]
   }
  ],
  "warmup": [
@@ -3874,5 +3794,6 @@
   "who": "Wilbur and Orville Wright, with earlier numbers from John Smeaton and Otto Lilienthal",
   "when": "1901 to 1903",
   "wrong_idea": "The numbers inventors had used for many years to work out how much a wing lifts were correct. The Wrights' wind tunnel showed that one key number was too big."
- }
+ },
+ "playtest": "Walked through every game, experiment, activity, project and challenge as a family of two (parent and child) would, in a city flat. Games: all 24 flyer cards, 5 mats and 20 feathers are listed one by one; the mat for soaring birds was missing, so mat 2 is now GLIDERS AND SOARERS, and the practice card is shuffled back so the count stays 24. Paper Plane Airport had 8 cards for up to 16 turns and a torn-wing card that cannot be undone, so cards now go back to the bottom of the pile, every change is undone after the throw, and the tear became a bent wing edge. Experiments: added the missing dart-plane folding steps and the tape the steps need; moved the Hand Wing check to the step where the hand is tilted; kept the made-up numbers labelled and the honest 'no difference' result. Core path now uses a hallway or longest room, not a park. Air Mail challenge now reads the ideas before building. Removed repeated questions (tissue glass, plane swoop, hand tilt, spinner chart, bottle in water, kite string story question), two weak jokes (8 kept), two unused books from the buy list, and fixed names and pronouns (new names for Pooja and Isha, Isha introduced, 'her back' made 'their back', Bob Balaram no longer 'its'). Added Kolkata Vishwakarma Puja, a saree end and a postage stamp for variety across India. The two YouTube videos were opened (oembed) and match. Not checked: the claim that the toy kite is named after the bird, and that a 4 cm-wing paper spinner will spin steadily (the steps say to drop again if it tumbles)."
 }
