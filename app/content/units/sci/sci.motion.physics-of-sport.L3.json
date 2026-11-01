@@ -551,7 +551,11 @@
      "items": [
       {
        "f": "Running a race",
-       "b": "Feet push back on the ground, the ground pushes you forward"
+       "b": "Feet push back on the ground, the ground pushes you forward",
+       "img": {
+        "src": "media/cards/physics-of-sport-g2-0-00.jpg",
+        "credit": "Jarek Tuszyński, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Long jump take-off",

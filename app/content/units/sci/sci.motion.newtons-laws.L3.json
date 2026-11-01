@@ -410,7 +410,11 @@
      "items": [
       {
        "f": "A football rolls across the grass. Keep going or change?",
-       "b": "Change. Friction from the grass slows it down."
+       "b": "Change. Friction from the grass slows it down.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-00.jpg",
+        "credit": "Peter Glaser baraida, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A coin sits on a table. Nobody touches it. Keep going or change?",
@@ -434,11 +438,19 @@
       },
       {
        "f": "A bus turns left. What does a standing passenger do?",
-       "b": "Keep going: the body carries on straight, so the passenger leans to the right, the outside of the turn."
+       "b": "Keep going: the body carries on straight, so the passenger leans to the right, the outside of the turn.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-04.jpg",
+        "credit": "shankar s. from sharjah, united arab emirates, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A ceiling fan is switched off. Keep going or change?",
-       "b": "Change. Friction in the fan's bearings and the air slow the blades until they stop."
+       "b": "Change. Friction in the fan's bearings and the air slow the blades until they stop.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-05.jpg",
+        "credit": "Veera.sj, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A stone slides across a frozen lake. Keep going or change?",
@@ -466,7 +478,11 @@
       },
       {
        "f": "A football lies still, and then you kick it. Keep going or change?",
-       "b": "Change. The kick starts it moving."
+       "b": "Change. The kick starts it moving.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-12.jpg",
+        "credit": "James Boyes from UK, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Water is stirred in a bowl and the spoon is taken out. Keep going or change?",

@@ -544,7 +544,7 @@ function wk1Lesson(d0) {
   const U = wk1Unit();
   if (U)
     return [
-      `Start with a finished science unit together: “${chT(U)}”. It opens right here.`,
+      `Start with a science unit together: “${chT(U)}”. It opens right here.`,
       `<button class="btn sm" data-act="wk1unit">${icon("play")}Start the unit</button>`,
     ];
   const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),

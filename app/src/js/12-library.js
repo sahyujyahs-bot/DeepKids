@@ -9,11 +9,7 @@ function combinedTopicList() {
   const row = (e) => {
     const u = e.k && unitByK(e.k),
       boards = [...new Set(e.boards.map((b) => BNAME[b.b] || b.b))].join(", ");
-    if (u)
-      return topicRow(u).replace(
-        "</b><br>",
-        `</b> <span class="pill completed" style="font-size:11px">Written in full</span><br>`,
-      );
+    if (u) return topicRow(u);
     return `<div class="topic ${SC(sj)}"><div class="trow plain"><span class="no">${esc((e.title || "?")[0])}</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(e.title)}</b><br><span class="xs muted">Taught by ${esc(boards)} in Class ${lv} · DeepKids version being written</span><div class="row chips" style="margin-top:4px;flex-wrap:wrap">${(
       e.use || []
     )
