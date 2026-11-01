@@ -388,7 +388,11 @@
       },
       {
        "f": "Jaggery is stirred into water to make panakam.",
-       "b": "Into water, a drink or food: the jaggery spread through the panakam."
+       "b": "Into water, a drink or food: the jaggery spread through the panakam.",
+       "img": {
+        "src": "media/cards/particles-g1-0-14.jpg",
+        "credit": "Sushant Medhe Pawar of Kolhapur Agricultural Produce Market (Kolhapur Sheti Utpa, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A wet handprint on the steel kitchen counter fades away.",

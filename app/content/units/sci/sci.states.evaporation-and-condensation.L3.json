@@ -399,7 +399,11 @@
      "items": [
       {
        "f": "Wet clothes drying on a line",
-       "b": "E, evaporation. The water is going into the air."
+       "b": "E, evaporation. The water is going into the air.",
+       "img": {
+        "src": "media/cards/evaporation-and-condensation-g1-0-00.jpg",
+        "credit": "el cajon yacht club, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Drops under the lid of an idli steamer",
@@ -451,7 +455,11 @@
       },
       {
        "f": "Fog on a winter morning",
-       "b": "C, condensation. The water is coming out of the air."
+       "b": "C, condensation. The water is coming out of the air.",
+       "img": {
+        "src": "media/cards/evaporation-and-condensation-g1-0-13.jpg",
+        "credit": "Ximonic (Simo Räsänen), CC BY 3.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A wet kolam on the doorstep drying",

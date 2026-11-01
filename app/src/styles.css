@@ -6828,22 +6828,16 @@ body {
   gap: 14px;
   align-items: center;
 }
-.nowtop img,
-.nowtop .ic {
+.nowtop img {
   width: 78px;
   height: 78px;
   border-radius: 16px;
   object-fit: cover;
 }
-.nowtop .ic {
-  display: grid;
-  place-items: center;
+.nowtop img.draw {
+  object-fit: contain;
+  padding: 4px;
   background: color-mix(in srgb, var(--c) 14%, #fff);
-  color: var(--c);
-}
-.nowtop .ic .ico {
-  width: 32px;
-  height: 32px;
 }
 .nowtxt {
   display: grid;
@@ -6977,6 +6971,22 @@ body {
   margin-top: -4px;
   left: 58px;
   background: var(--rule);
+}
+.tt.compact .tcard .ic.pic {
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 14px !important;
+}
+.tcard .ic.pic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.tcard .ic.pic.draw img {
+  object-fit: contain;
+  padding: 3px;
 }
 .tt.compact .dh {
   opacity: 0.35;

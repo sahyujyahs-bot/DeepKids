@@ -6846,22 +6846,16 @@ body {
   gap: 14px;
   align-items: center;
 }
-.nowtop img,
-.nowtop .ic {
+.nowtop img {
   width: 78px;
   height: 78px;
   border-radius: 16px;
   object-fit: cover;
 }
-.nowtop .ic {
-  display: grid;
-  place-items: center;
+.nowtop img.draw {
+  object-fit: contain;
+  padding: 4px;
   background: color-mix(in srgb, var(--c) 14%, #fff);
-  color: var(--c);
-}
-.nowtop .ic .ico {
-  width: 32px;
-  height: 32px;
 }
 .nowtxt {
   display: grid;
@@ -6995,6 +6989,22 @@ body {
   margin-top: -4px;
   left: 58px;
   background: var(--rule);
+}
+.tt.compact .tcard .ic.pic {
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 14px !important;
+}
+.tcard .ic.pic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.tcard .ic.pic.draw img {
+  object-fit: contain;
+  padding: 3px;
 }
 .tt.compact .dh {
   opacity: 0.35;
@@ -7403,9 +7413,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="e3b512885030de59ba";window.DK_APPV="e3b5128850";window.DK_DATAV="30def913a7"</script>
-<script src="/config.js?v=e3b512885030de59ba"></script>
+<script>window.DK_BUILD="b695119d3c30de59ba";window.DK_APPV="b695119d3c";window.DK_DATAV="30def913a7"</script>
+<script src="/config.js?v=b695119d3c30de59ba"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=e3b512885030de59ba"></script>
+<script src="/platform.js?v=b695119d3c30de59ba"></script>
 </body>
 </html>

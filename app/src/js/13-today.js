@@ -120,7 +120,7 @@ function nowCard(it) {
   const pic =
     it.kind === "lesson"
       ? `<img src="${esc(lessonPic(it.u))}" alt="">`
-      : `<span class="ic">${icon(KICO[it.kind] || "spark")}</span>`;
+      : `<img class="draw" src="${dayDrawing(it)}" alt="">`;
   return `<section class="now ${col}"><div class="nowtop">${pic}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
    <div class="row nowgo"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
    ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
@@ -239,6 +239,24 @@ function itemDetail(it, date) {
   const A = itemAction(it, `data-id="${it.id}" data-date="${date}"`);
   return `${it.sub ? `<p class="sm" style="font-weight:700">${esc(it.sub)}</p>` : ""}<div class="row"><button class="btn sm" ${A[0]}>${it.done ? "Done ✓" : A[1]}</button></div>`;
 }
+// each row's picture: a lesson shows its unit's picture (or its subject's), everything else one of the founder's drawings
+const DAYPIC = {
+  warm: "warm",
+  finish: "finish",
+  prep: "prep",
+  todo: "prep",
+  plan: "prep",
+  exps: "think",
+  paper: "think",
+  refresh: "play",
+  event: "event",
+};
+const dayDrawing = (it) => `media/ui/day-${DAYPIC[it.kind] || "other"}.webp`;
+function dayPic(it) {
+  return it.kind === "lesson"
+    ? `<span class="ic pic"><img src="${esc(lessonPic(it.u))}" alt="" loading="lazy"></span>`
+    : `<span class="ic pic draw"><img src="${dayDrawing(it)}" alt="" loading="lazy"></span>`;
+}
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
@@ -261,7 +279,7 @@ function tRow(it, date, focus) {
               ? `<span class="tag miss">Pending</span>`
               : "";
   const drag = date === today && !it.done && !it.anytime && DAYMOVE.has(it.kind);
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard"><span class="ic">${icon(KICO[it.kind] || "spark")}</span><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Part ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Part ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),

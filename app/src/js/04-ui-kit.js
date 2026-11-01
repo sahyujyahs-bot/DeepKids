@@ -335,19 +335,6 @@ function flower(x, y, col, i, bloomed, isNow) {
       .join("");
   return `<g class="bloom" style="animation-delay:${(i * 0.07).toFixed(2)}s"><g class="sway" style="animation-delay:${(i * 0.3).toFixed(1)}s"><path d="M${x} ${y}V${cy}" stroke="var(--forest)" stroke-width="3.2" stroke-linecap="round"/><path d="M${x} ${y - 12}q-12-2-14-12q12 0 14 10z" fill="var(--forest)"/>${pet}<circle cx="${x}" cy="${cy}" r="7.5" fill="var(--sun)"/><circle cx="${x - 2.6}" cy="${cy - 1}" r="1.3" fill="#2B2340"/><circle cx="${x + 2.6}" cy="${cy - 1}" r="1.3" fill="#2B2340"/><path d="M${x - 2.6} ${cy + 2.2}q2.6 2.6 5.2 0" stroke="#2B2340" stroke-width="1.3" fill="none" stroke-linecap="round"/></g></g>`;
 }
-const KICO = {
-  lesson: "read",
-  prep: "prep",
-  warm: "warm",
-  exps: "exps",
-  event: "event",
-  todo: "prep",
-  shelf: "read",
-  mynote: "read",
-  refresh: "game",
-  plan: "week",
-  paper: "learn",
-};
 function pathMap(units) {
   const n = units.length;
   if (!n) return "";

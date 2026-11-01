@@ -1,4 +1,16 @@
 {
+ "flow.a2": {
+  "src": "media/img/sci.states.particles.L3/flow.a2.jpg",
+  "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.states.particles.L3/flow.e2.jpg",
+  "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.states.particles.L3/intro.jpg",
+  "credit": "david pacey from LEEDS, West yorkshire, CC BY 2.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.states.particles.L3/setup.e1.0.jpg",
   "drawn": true
@@ -26,5 +38,13 @@
  "setup.e2.2": {
   "src": "media/img/sci.states.particles.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.states.particles.L3/summary.jpg",
+  "credit": "Pinakpani, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.3": {
+  "src": "media/img/sci.states.particles.L3/term.3.jpg",
+  "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons"
  }
 }
