@@ -92,6 +92,7 @@ def check(path):
         if not all(t.get(x) for x in ("term", "meaning", "example", "art")): P(f"term needs term, meaning, example, art: {t.get('term')}")
     for x in u["explanations"]:
         if x.get("status") not in ("defined", "idea", "debated"): P(f"explanation status must be defined/idea/debated: {x.get('concept')}")
+        if not isinstance(x.get("perspectives"), list): P(f"explanation needs a perspectives list (empty is fine): {x.get('concept')}")
         if x.get("status") == "debated" and len(x.get("perspectives", [])) < 2: P(f"debated explanation needs 2+ perspectives: {x.get('concept')}")
         if x.get("status") == "defined" and not x.get("definition"): P(f"defined explanation needs a definition: {x.get('concept')}")
         if not x.get("examples"): P(f"explanation needs examples: {x.get('concept')}")

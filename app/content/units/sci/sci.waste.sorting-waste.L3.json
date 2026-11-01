@@ -118,7 +118,8 @@
     "Dry: a rinsed milk packet, a cardboard box, a steel lid.",
     "Hazardous: an old battery, a broken tube light, a strip of expired tablets."
    ],
-   "art": "Three containers in a row: a green bin with peels, a blue bin with paper and a milk packet, and a small box with a red cross holding a battery and a wrapped tube light."
+   "art": "Three containers in a row: a green bin with peels, a blue bin with paper and a milk packet, and a small box with a red cross holding a battery and a wrapped tube light.",
+   "perspectives": []
   },
   {
    "concept": "Why mixing spoils dry waste",
@@ -130,7 +131,8 @@
     "A pizza box with cheese stuck on it is not taken for recycling. A clean cardboard box is.",
     "A milk packet smeared with curd can be rinsed and dried, and then it is dry waste again."
    ],
-   "art": "A close-up drawing of paper fibres like a tangle of threads, with liquid seeping between them, next to a smooth plastic surface where the liquid sits on top."
+   "art": "A close-up drawing of paper fibres like a tangle of threads, with liquid seeping between them, next to a smooth plastic surface where the liquid sits on top.",
+   "perspectives": []
   },
   {
    "concept": "Mixing is quick, unmixing is slow",
@@ -142,7 +144,8 @@
     "In the sorting race, sorting 30 things into bins as you throw them is quick. Sorting the same 30 after they are mixed with wet tea leaves takes much longer.",
     "Waste pickers at dumping grounds spend their whole day pulling dry waste out of mixed heaps."
    ],
-   "art": "A glass of water with a drop of ink spreading out in curls, and beside it a hand trying to pick tea leaves off a wet newspaper."
+   "art": "A glass of water with a drop of ink spreading out in curls, and beside it a hand trying to pick tea leaves off a wet newspaper.",
+   "perspectives": []
   },
   {
    "concept": "What happens to sorted waste and to mixed waste",
@@ -154,7 +157,8 @@
     "Clean newspapers from a sorted blue bin are sold by weight to the kabadiwala.",
     "A bag of mixed waste goes to the dumping ground, where it can rot, smell and burn."
    ],
-   "art": "Three paths from a home: a green bin to a compost pot with a plant growing, a blue bin to a kabadiwala's cart and a paper mill, and a mixed bag to a smoking garbage mountain."
+   "art": "Three paths from a home: a green bin to a compost pot with a plant growing, a blue bin to a kabadiwala's cart and a paper mill, and a mixed bag to a smoking garbage mountain.",
+   "perspectives": []
   },
   {
    "concept": "Dangerous waste needs its own box",
@@ -166,7 +170,8 @@
     "Old batteries kept in a jar until there are enough to take to a collection point.",
     "A box of expired tablets kept aside, not thrown in the bin."
    ],
-   "art": "A child's hands wrapping a broken tumbler in thick newspaper, and a grown-up writing 'BROKEN GLASS' on it with a marker."
+   "art": "A child's hands wrapping a broken tumbler in thick newspaper, and a grown-up writing 'BROKEN GLASS' on it with a marker.",
+   "perspectives": []
   },
   {
    "concept": "How waste makes a home or lane unsafe",
@@ -178,7 +183,8 @@
     "A bin with a lid keeps flies and ants out of the kitchen.",
     "A drain blocked by plastic bags floods the road after a heavy shower."
    ],
-   "art": "A lane after rain: an overflowing open bin with flies and a crow, a coconut shell full of water, and a drain choked with plastic bags. Beside it, a clean doorstep with a closed bin."
+   "art": "A lane after rain: an overflowing open bin with flies and a crow, a coconut shell full of water, and a drain choked with plastic bags. Beside it, a clean doorstep with a closed bin.",
+   "perspectives": []
   },
   {
    "concept": "The people who handle our waste",
@@ -190,7 +196,8 @@
     "A waste picker sorting a mixed bag can be cut by a blade hidden inside.",
     "A thank-you and a sorted bag make a waste collector's day easier."
    ],
-   "art": "A woman in a green uniform at a building gate, receiving a blue bag of dry waste from a child, with a cart of sorted sacks behind her."
+   "art": "A woman in a green uniform at a building gate, receiving a blue bag of dry waste from a child, with a cart of sorted sacks behind her.",
+   "perspectives": []
   },
   {
    "concept": "Whether every home should sort, or machines should do it",

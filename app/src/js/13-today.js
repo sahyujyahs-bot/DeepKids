@@ -297,7 +297,7 @@ const dayPart = () => {
 };
 const greetWord = () => ["Good morning", "Good afternoon", "Good evening"][dayPart()];
 // Today's picture follows the time of day: fields at sunrise, a garden by day, a rooftop at dusk
-const greetPic = () => `media/ui/intro-${["journey", "together", "family"][dayPart()]}.jpg`;
+const greetPic = () => `media/ui/${["subj-wml", "intro-together", "intro-family"][dayPart()]}.jpg`;
 function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
