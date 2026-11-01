@@ -1,4 +1,16 @@
 {
+ "expl.7": {
+  "src": "media/img/sci.sky.the-sun.L3/expl.7.jpg",
+  "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+ },
+ "flow.c2": {
+  "src": "media/img/sci.sky.the-sun.L3/flow.c2.jpg",
+  "credit": "NASA/Carla Thomas, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.the-sun.L3/intro.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sky.the-sun.L3/setup.e1.0.jpg",
   "drawn": true
@@ -26,5 +38,29 @@
  "setup.e2.2": {
   "src": "media/img/sci.sky.the-sun.L3/setup.e2.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.sky.the-sun.L3/summary.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.sky.the-sun.L3/term.0.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.1": {
+  "src": "media/img/sci.sky.the-sun.L3/term.1.jpg",
+  "credit": "NASA/JPL-Caltech/JAXA, public domain"
+ },
+ "term.14": {
+  "src": "media/img/sci.sky.the-sun.L3/term.14.jpg",
+  "credit": "Manav Dhamani, CC BY, via iNaturalist"
+ },
+ "term.15": {
+  "src": "media/img/sci.sky.the-sun.L3/term.15.jpg",
+  "credit": "Siya ul haque, CC BY, via iNaturalist"
+ },
+ "term.16": {
+  "src": "media/img/sci.sky.the-sun.L3/term.16.jpg",
+  "credit": "NASA/Carla Thomas, public domain"
  }
 }
