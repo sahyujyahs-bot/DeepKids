@@ -3,7 +3,7 @@
 
 **Summary.** A bean plant lifts their leaves in the morning and lowers them at night, even inside a dark box. They keep time with a clock inside their body. Many living things have one. It runs on a rhythm of about 24 hours, and sunlight sets it right each morning. Flowers use their clocks to open when their visitors come: the lotus at dawn, jasmine in the evening, pavazhamalli at night. Over the year, living things also read the length of the day. Shorter days tell barn swallows to fly to India for the winter, and longer nights tell sevanthi plants to flower. So nature keeps a daily rhythm and a yearly rhythm, and living things get ready for each change before it comes.
 
-**Intro.** *Look at a bean plant at noon, and their leaves are spread out flat. Look again at bedtime, and the same leaves hang down. Put the plant in a dark box, where no light can reach. Will the leaves still lift in the morning? How could a plant know it is morning without seeing the sky?* People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this unit you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.
+**Intro.** *Look at a bean plant at noon, and their leaves are spread out flat. Look again at bedtime, and the same leaves hang down. Put the plant in a dark box, where no light can reach. Will the leaves still lift in the morning? How could a plant tell when morning is coming, without seeing the sky?* People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this unit you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.
 
 ## Learning outcomes
 0. I can say what a daily rhythm and a yearly rhythm are, with an example of each from plants, animals and people.
@@ -154,7 +154,7 @@ The Earth makes one rhythm: one spin a day, one trip round the Sun a year. From 
 - Science (debated): Plants feel the length of the night and use it to decide when to flower. Some scientists call this an automatic response.
 - Science (open): How the many clocks in one body stay in step is not fully known.
 - Other view, Many plant scientists: A plant's clock is a loop of genes and chemicals, as steady as a ticking wall clock. Saying the plant 'expects' the morning adds a feeling that the experiment cannot show. They would say the plant is timed, not expecting.
-- Practice, Guess the time with your body (3 min): Let's hide the clocks and sit still with our eyes closed. Take five slow breaths. Now notice your body. Do you feel sleepy or awake? Hungry or full? Warm or cool? Keep your eyes closed and guess what time it is. Now open your eyes and check the clock. How close was your body?
+- Practice, Spot a rhythm right now (3 min): Sit quietly by a window for one minute. Look and listen. Find one thing outside on a daily rhythm right now, such as a bird heading home. What will it be doing in six hours?
 - Ask: Your bean plant got ready for a morning they could not see. Is getting ready the same as knowing?
 - Ask: If every living thing keeps their own clock, whose clock tells the real time?
 - Ask: Your body cools before dawn without you deciding it. Who is keeping that time: you, or your body?
@@ -234,41 +234,41 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 
 ## Games
 ### g1 · Nature's Clock: who is awake now? (15 min)
-- **rules:** Shuffle the cards. Each player takes 5 cards.; On your turn, put one card on the part of the clock where you think it belongs, and say why.; The other players check the answer in the brackets. Right, and you keep the card as a point. Wrong, and it goes to the bottom of the pile.; Playing alone, place all 20 cards, then check them and count your points.; When all cards are placed, the player with the most points wins.
+- **rules:** Shuffle the cards and deal them all out, face down: 10 each with 2 players, 5 each with 4 players.; On your turn, turn over one of your cards, read the front, put it on the part of the clock where you think it belongs, and say why.; Then read the back. Right: the card stays on the clock and you make a mark on the score sheet. Wrong: move the card to the right part of the clock, and write the right answer on the score sheet. No mark.; Playing alone, place all 20 cards one by one in the same way and count your marks. Next time, try to beat your score.; The game ends when every card is on the clock. The most marks wins. If marks are equal, you share the win.
 - **Printable board: A clock board split into four parts: dawn, day, dusk and night:** DAWN: the first light; DAY: bright sunshine; DUSK: the Sun is setting; NIGHT: dark
-- **Printable cards: 20 living thing cards to cut out:** Lotus opening (dawn); Rooster crowing (dawn); Pavazhamalli flowers falling (dawn); Crows feeding (day); Bees on flowers (day); Sunbird drinking nectar (day); Bean leaves held flat (day); Squirrel running on a wall (day); Four o'clock flowers opening (dusk); Crows flying to roost (dusk); Fruit bats flying out (dusk); Jasmine buds opening (dusk); Frogs starting to call after rain (dusk); Owl hunting (night); Moth visiting flowers (night); Pavazhamalli flowers open (night); Gecko catching insects by a light (night); Bean leaves hanging down (night); Migrating swallows flying (night); You, asleep (night)
+- **Printable cards: 20 living thing cards to cut out (name on the front, answer on the back):** Lotus opening (back: DAWN. The lotus opens in the early morning.); Rooster crowing (back: DAWN. A rooster often crows before the sky gets light.); Pavazhamalli (shiuli) flowers falling (back: DAWN. They open at night and fall around dawn.); Crows feeding (back: DAY. Crows feed in the day and roost at night.); Bees on flowers (back: DAY. Bees fly by day.); Sunbird drinking nectar (back: DAY. Sunbirds feed in daylight.); Bean leaves held flat (back: DAY. Bean leaves are held out flat in the day.); Squirrel running on a wall (back: DAY. Squirrels are busy by day.); Four o'clock flowers opening (back: DUSK. They open in the late afternoon, as the light begins to fade.); Crows flying to roost (back: DUSK. Crows fly to the big trees together at sunset.); Fruit bats flying out (back: DUSK. Fruit bats hang in trees all day and fly out at dusk.); Jasmine buds opening (back: DUSK. Jasmine buds open in the evening.); Frogs starting to call in the monsoon evening (back: DUSK. Many frogs start calling as the light fades.); Owl hunting (back: NIGHT. Owls are nocturnal.); Moth visiting flowers (back: NIGHT. Many moths fly at night.); Pavazhamalli (shiuli) flowers open (back: NIGHT. They open at night and fall at dawn.); Gecko catching insects by a light (back: NIGHT. Geckos hunt insects that gather round lights at night.); Bean leaves hanging down (back: NIGHT. Bean leaves droop at night.); Small songbirds migrating high in the sky (back: NIGHT. Many small birds migrate at night and rest and eat by day.); A child asleep (back: NIGHT. People sleep at night, when the body is coolest.)
 - **Printable score sheet: Score sheet:** Player name; Cards placed right; Cards placed wrong, and the right answer
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards and lay out the clock board. 2. Deal 5 cards to each player.  
+  *Parent does:* 1. Cut out the cards and lay out the clock board. 2. Shuffle the cards and deal them all out, face down.  
   *Parent says:* Every living thing has their own time to be busy. Let's see if you know when.  
-  *Child mode:* Lay out the clock. Take 5 cards. Each card is a living thing. Where on the clock do they go?
+  *Child mode:* Lay out the clock. Take your cards. Each card is a living thing. Where on the clock do they go?
 - **s2 (3 min)**  
   *Parent does:* Play the practice card 'Fruit bats flying out'.  
   *Parent says:* Practice card: fruit bats flying out. Dawn, day, dusk or night?  
-  *Child mode:* Practice card. Fruit bats flying out. When does this happen? Tap your answer.
+  *Child mode:* Practice card. Fruit bats flying out. When does this happen? Choose your answer.
   - Check: When do fruit bats fly out of their trees to eat? → **Dusk**
 - **s3 (7 min)**  
   *Parent does:* Take turns placing cards and saying why.  
-  *Parent says:* Place a card and give a reason. Why do they go there?  
-  *Child mode:* Place a card. Say why. Check the answer.
+  *Parent says:* Place a card and give a reason. Why do they go there? Then read the back.  
+  *Child mode:* Place a card. Say why. Then read the back to check.
 - **s4 (2 min)**  
   *Parent does:* Count the points and look at the finished clock.  
   *Parent says:* Look at our clock. Is any part of the day empty?  
   *Child mode:* Count your points. Look at the clock. Is any time empty?
   - Think: If every time of day has someone busy, is there ever a quiet moment in nature?
 ### g2 · Falcon Flight: Nagaland to Africa (20 min)
-- **rules:** Put every falcon on square 0.; On your turn, another player reads you a question card. Playing alone, read it yourself and check the answer in the brackets.; Answer right, and roll the dice and move. Answer wrong, and move 1 square.; Follow what the square says. On the SEA squares, a wrong answer sends you back 2, because there is nowhere to rest.; The first falcon to reach southern Africa wins. Playing alone, try to finish in 12 turns or fewer.
-- **Printable board: A journey board of 24 squares:** Square 0: Eastern China, the start. Days are getting shorter.; Squares 3 and 10: STORM. Miss a turn.; Square 8: Doyang reservoir, Nagaland. REST AND EAT: roll again.; Squares 12 to 20: THE SEA. No resting here. Answer wrong, and go back 2.; Square 16: BRIGHT LIGHTS on a ship. Go back 1, unless you can say why lights are a problem for migrating birds.; Square 24: Southern Africa, the finish.
-- **Printable cards: 20 question cards:** What does 'migrate' mean? (To travel far at the same time each year, and come back); Why do falcons leave the north in autumn? (Food runs out in winter); What tells many birds it is time to go? (The days getting shorter); What is a body clock? (A timer inside a living thing, about 24 hours long); What resets the body clock each morning? (Light); Name a flower that opens at night. (Pavazhamalli, or Brahma kamal); Name a flower that opens in the morning. (Lotus); When do jasmine buds open? (In the evening); What do bean leaves do at night? (Hang down); Do bean leaves still lift in the morning inside a dark box? (Yes); What did people once think swallows did in winter? (Slept in mud under lakes); What did the stork found in 1822 have in their neck? (A spear from Africa); Who are pollinators? (Animals that carry pollen between flowers); When is your body coolest? (In the early morning); What do birds store before a long flight? (Fat); What is the restlessness of caged birds at migration time called? (Zugunruhe); Name a butterfly that migrates in South India. (Blue tiger); What does the Moon set the time for on coral reefs? (When corals release their eggs); Which plant flowers when the nights grow long? (Sevanthi); Why do lights on tall buildings harm migrating birds? (Birds fly towards them and can crash or tire)
-- **Printable tokens: One paper falcon for each player:** 🦅
+- **rules:** Put every falcon on square 0. Stack the question cards face down, and have one dice ready.; On your turn, another player reads you the front of the top card. Playing alone, read it yourself, think of your answer, then turn it over.; Right: roll the dice and move that many squares. Wrong: move 1 square. But if you start your turn on a SEA square (12 to 20), a wrong answer sends you back 2 squares instead, because there is nowhere to rest.; Then follow the square you land on. A square you are sent back to does nothing. A STORM means you miss your next turn. When the cards run out, shuffle them and use them again.; The first falcon to reach or pass square 24 wins. Playing alone, try to finish in 12 turns or fewer.
+- **Printable board: A journey board of 25 squares, numbered 0 to 24:** Square 0: Eastern China, the start. The days are getting shorter. Fly on.; Square 1: Fly on. Falcons catch flying insects such as dragonflies on the way.; Square 2: Fly on over mountains and grassland.; Square 3: STORM. Miss a turn.; Square 4: Fly on. Falcons gather in big flocks before the long journey.; Square 5: Fly on. The days are shorter every week.; Square 6: Fly on towards north-east India.; Square 7: Fly on. The hills of the north-east are ahead.; Square 8: Doyang reservoir, Nagaland. REST AND EAT: roll again.; Square 9: Nagaland. Villagers now protect the falcons that rest here. Fly on.; Square 10: STORM. Miss a turn.; Square 11: The last land. Fly on to the coast.; Square 12: THE SEA begins. No resting here. A wrong answer sends you back 2.; Square 13: THE SEA. No resting here. A wrong answer sends you back 2.; Square 14: THE SEA. No resting here. A wrong answer sends you back 2.; Square 15: THE SEA. No resting here. A wrong answer sends you back 2.; Square 16: THE SEA. BRIGHT LIGHTS on a ship. Go back 1, unless you can say why lights are a problem for migrating birds. A wrong answer sends you back 2 as well.; Square 17: THE SEA. No resting here. A wrong answer sends you back 2.; Square 18: THE SEA. No resting here. A wrong answer sends you back 2.; Square 19: THE SEA. No resting here. A wrong answer sends you back 2.; Square 20: THE SEA. No resting here. A wrong answer sends you back 2.; Square 21: Land at last! Fly on.; Square 22: Fly on over the coast of Africa.; Square 23: Nearly there. Fly on.; Square 24: Southern Africa, the finish. You reach it or pass it, and you win.
+- **Printable cards: 20 question cards to cut out (question on the front, answer on the back):** What does 'migrate' mean? (back: To travel far at the same time each year, and come back); Why do falcons leave the north in autumn? (back: Food runs out in winter); What tells many birds it is time to go? (back: The days getting shorter); What is a body clock? (back: A timer inside a living thing, about 24 hours long); What resets the body clock each morning? (back: Light); Name a flower that opens at night. (back: Pavazhamalli (shiuli), or Brahma kamal); Name a flower that opens in the morning. (back: Lotus); When do jasmine buds open? (back: In the evening); What do bean leaves do at night? (back: Hang down); Do bean leaves still lift in the morning inside a dark box? (back: Yes); What does 'nocturnal' mean? (back: Active at night); What did the stork found in 1822 have in their neck? (back: A spear from Africa); Who are pollinators? (back: Animals that carry pollen between flowers); When is your body coolest? (back: In the early morning); What do birds store before a long flight? (back: Fat); What is the restlessness of caged birds at migration time called? (back: Zugunruhe); Name a butterfly that migrates in South India. (back: Blue tiger); What does the Moon set the time for on coral reefs? (back: When corals release their eggs); Which plant flowers when the nights grow long? (back: Sevanthi (chrysanthemum)); Why do lights on tall buildings harm migrating birds? (back: Birds fly towards them and can crash or tire)
+- **Printable tokens: Paper falcons, one for each player (up to 4):** Cut out one small paper falcon for each player, or use a coin or button each.
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the board. 2. Put the falcons on square 0. 3. Shuffle the cards.  
+  *Parent does:* 1. Lay out the board. 2. Put the falcons on square 0. 3. Shuffle the cards and have a dice ready.  
   *Parent says:* Amur falcons fly from China to Nagaland, rest and eat, then cross the sea to Africa. Let's fly with them.  
   *Child mode:* Put your falcon on the start. You are flying to Africa. Rest in Nagaland. Then cross the sea!
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together.  
   *Parent says:* Practice card. What tells many birds it is time to go?  
-  *Child mode:* Practice card. What tells birds it is time to go? Tap your answer.
+  *Child mode:* Practice card. What tells birds it is time to go? Choose your answer.
   - Check: What tells many birds it is time to migrate? → **The days getting shorter**
 - **s3 (12 min)**  
   *Parent does:* Take turns until a falcon reaches Africa.  
@@ -288,7 +288,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **safety:** A grown-up pokes the holes in the cups. Wash hands after handling soil. Raw rajma seeds must not be eaten.
 - **record:** Fill in the table at every check. Draw the leaves of both cups at 7 in the morning on day 11. Then write what you think, what you saw and why.
 - **results table:** Day and time | Window cup: flat, half down or hanging down? | Box cup: flat, half down or hanging down?
-- **schedule:** day 1: Soak 6 rajma seeds in water overnight. (5 min); day 2: Plant 3 seeds in each cup and put both cups on a bright windowsill. (10 min); day 3: Water a little if the soil feels dry. Do this every day until the test. (2 min); day 10: When the first two leaves are open, check both cups at 7 in the morning, 1 in the afternoon, 6 in the evening and 9 at night. At 6 in the evening, after the check, put one cup into the dark box. (15 min); day 11: Check both cups at 7 in the morning, 1 in the afternoon and 9 at night. Peek into the box quickly. (10 min); day 12: Check both cups at 7 in the morning. Then take the box cup out and put it back by the window. (3 min)
+- **schedule:** day 1: Soak 6 rajma seeds in water overnight. (5 min); day 2: Plant 3 seeds in each cup and put both cups on a bright windowsill. (10 min); day 3: Water a little if the soil feels dry. Do this every day until the test. (2 min); day 10: When the first two leaves are open, check both cups at 7 in the morning, 1 in the afternoon, 6 in the evening and 9 at night. At 9 at night, after the check, put one cup into the dark box. (15 min); day 11: Check both cups at 7 in the morning, 1 in the afternoon and 9 at night. Peek into the box quickly. (10 min); day 12: Check both cups at 7 in the morning. Then take the box cup out and put it back by the window. (3 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Put 6 rajma seeds in a bowl. 2. Cover them with water. 3. Leave them overnight.  
   *Parent says:* We are going to grow bean plants. Their leaves move, and we will test why. Soaking wakes the seeds up.  
@@ -313,7 +313,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   - Ask: What did the leaves do between the evening and night checks? (good: They went down.; They were hanging down at night, but flat in the day.)
   - Note: In the day the leaves are held out flat. By night they usually droop until they hang almost straight down. If your room is lit late at night, check in a dim corner, or turn the room light off for the night check.
 - **s5 (3 min)**  
-  *Parent does:* 1. At 6 in the evening, after the check, put one cup on its plate in a corner of the same room. 2. Cover it with the box. 3. Make sure no light gets in at the edges.  
+  *Parent does:* 1. At 9 at night, after the check, put one cup on its plate in a corner of the same room. 2. Cover it with the box. 3. Make sure no light gets in at the edges.  
   *Parent says:* Now the test. This cup will not see the night end, or the morning come. Before we close it, what do you think will happen?  
   *Child mode:* Put one cup in the corner. Cover it with the box. No light can get in now. What will the leaves do in the morning? Guess, and say why.
   - Check: Why do we put the box cup in the same room as the window cup? → **So both cups stay equally warm, and only the light is different**
@@ -322,7 +322,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent says:* Quickly, before much light gets in. Are the box leaves up or down?  
   *Child mode:* Look at the window cup. Now lift the box and peek, very quickly. Are the leaves up or down? Cover it again. Write it down.
   - Note: Expect the box leaves to rise in the morning and fall again at night, though often a little less far than the window leaves. If the box leaves stayed down all day, check that the plants are healthy and the soil is damp, and try again with the other cup.
-  - Check: The box cup has had no light since last evening. In the morning, their leaves are flat again. What does this show? → **The plant has a clock inside them that tells them it is morning**
+  - Check: The box cup has had no light since last night. In the morning, their leaves are flat again. What does this show? → **The plant has a clock inside them that tells them it is morning**
 - **s7 (3 min)**  
   *Parent does:* 1. On the next morning, check both cups once more. 2. Take the box away and put the box cup back by the window.  
   *Parent says:* Two mornings in the dark. Did the leaves still know? Now the plant can have their light back.  
@@ -333,14 +333,14 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the bean plant has a clock inside them. What I saw: in the dark box, the leaves were flat in the morning and hanging down at night, like the window cup. Why: no light reached them, so the timing came from inside the plant. The days on the windowsill had set their clock.
-### e2 · Warm and Cool: does your body keep a daily rhythm? (30 min, 3 days)
+### e2 · Warm and Cool: does your body keep a daily rhythm? (40 min, 3 days)
 - **question:** Is your body the same warmth all day, or does it change at the same times each day?
 - **predict:** Guess first. When will your body be warmest: just after waking, in the late afternoon, or at bedtime? Why do you think so?
-- **fair test:** Use the same digital thermometer, in the same place on your body, each time. Measure after sitting still for 15 minutes, not after running, a bath or a hot meal. Measure at the same three times on three days, because one reading can be a fluke.
+- **fair test:** Use the same digital thermometer, in the same place on your body, each time. Measure after sitting or lying still for 15 minutes (the waking reading is taken lying in bed, before getting up), not after running, a bath or a hot meal. Measure at the same three times on three days, because one reading can be a fluke.
 - **safety:** Use only a digital thermometer. Never use an old glass thermometer, because it can break, and some have mercury inside. Wipe the thermometer clean before and after each use.
 - **record:** Write each temperature in the table, to one decimal place, for example 36.4. At the end, circle the warmest reading of each day.
 - **results table:** Day | Just after waking (°C) | Late afternoon, about 5 pm (°C) | Bedtime (°C)
-- **schedule:** day 1: Measure your temperature just after waking, at about 5 in the afternoon and at bedtime. (10 min); day 2: Measure again at the same three times. (10 min); day 3: Measure again at the same three times. Then work out which time was warmest on most days. (10 min)
+- **schedule:** day 1: Measure your temperature just after waking, at about 5 in the afternoon and at bedtime. (9 min); day 2: Measure again at the same three times. (9 min); day 3: Measure again at the same three times. Then work out which time was warmest on most days. (22 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Keep the thermometer and notebook by the bed. 2. As soon as your child wakes, before getting up, measure their temperature.  
   *Parent says:* Before you get up or eat anything, let's measure how warm your body is. We'll measure the same way three times a day.  
@@ -350,8 +350,8 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent does:* 1. At about 5 in the afternoon, ask your child to sit still for 15 minutes, reading or drawing. 2. Then measure in the same place.  
   *Parent says:* Sitting still first matters, because running about makes your body warmer for a while.  
   *Child mode:* Sit quietly for 15 minutes. Then measure again, in the same place. Write it down.
-- **s3 (3 min)**  
-  *Parent does:* 1. At bedtime, after brushing teeth, measure once more. 2. Do all three measurements again on day 2 and day 3.  
+- **s3 (21 min)**  
+  *Parent does:* 1. At bedtime, after brushing teeth and lying or sitting quietly for 15 minutes (a bedtime story works), measure once more. 2. Do all three measurements again on day 2 and day 3.  
   *Parent says:* Last one for today. Do you think it will be higher or lower than this morning?  
   *Child mode:* Measure once more at bedtime. Guess first: higher or lower than this morning?
   - Wait: Measure at the same three times tomorrow and the day after.
@@ -360,7 +360,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent says:* Was the warmest time the same on most days? How big was the difference?  
   *Child mode:* Circle the warmest number of each day. Was it the same time of day each time?
   - Note: Most people find their morning reading lowest and their late afternoon or evening reading highest, by about 0.3 to 0.6 °C. Underarm readings jump about more. If your numbers show no pattern, that is real data too. Talk about what could have made the readings jump.
-  - Check: On most days, Kavya's temperature was lowest just after waking and highest in the late afternoon. What does this show? → **Her body warms and cools on a daily rhythm**
+  - Check: On most days, a child's temperature was lowest just after waking and highest in the late afternoon. What does this show? → **The body warms and cools on a daily rhythm**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write what they think, what they saw and why.  
   *Parent says:* Tell me three things. What do you think now? What did you see? Why did it happen?  
@@ -370,7 +370,6 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **question:** Jasmine buds open in the evening. Do they need to see the evening come, or will they open on time in the dark?
 - **predict:** Guess first. Will the buds kept in a closed dabba open at the same time as the buds on an open plate, later, or not at all? Why do you think so?
 - **fair test:** Use 20 buds from the same string or bunch. Put 10 on a damp cloth on an open plate, and 10 on a damp cloth inside a closed steel dabba, next to each other in the same room. Only the light is different. Count the open buds at the same times.
-- **safety:** None needed. Wash the buds' cloths afterwards.
 - **record:** Fill in the table at each check. Draw one bud at 4 pm and the same flower at 10 pm.
 - **results table:** Time | Open plate: buds open (out of 10) | Closed dabba: buds open (out of 10) | Smell (none, a little, strong)
 - **schedule:** day 1: In the afternoon, set up the plate and the dabba. Count open buds at 4 pm, 6 pm, 8 pm and 10 pm. (20 min); day 2: Count once more in the morning, and see what the open flowers look like now. (5 min)
@@ -380,16 +379,16 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Child mode:* Count 20 buds. Put 10 on a damp cloth on a plate. Put 10 in the dabba and close the lid. Put them side by side.
   - Note: Choose buds that are still tightly closed. Fully open flowers in the afternoon will spoil the count.
 - **s2 (12 min)**  
-  *Parent does:* 1. At 4, 6, 8 and 10 in the evening, count the open buds on the plate. 2. Open the dabba, count quickly, and close it again. 3. Smell both and write how strong the smell is.  
+  *Parent does:* 1. At 4, 6, 8 and 10 pm, count the open buds on the plate. 2. Open the dabba, count quickly, and close it again. 3. Smell both and write how strong the smell is.  
   *Parent says:* How many are open now? Can you smell them yet?  
   *Child mode:* Count the open flowers on the plate. Peek in the dabba and count. Close it fast. Smell them. Write it all down.
   - Ask: When did most of the buds open? (good: In the evening, after 6.; Between 6 and 8 in the evening.)
-  - Note: Most jasmine buds open in the evening, and the smell gets much stronger at night. We could not find a study on whether buds in darkness open at the same time, so your result is real new data. Either answer teaches something.
+  - Note: Most jasmine buds open in the evening, and the smell gets much stronger at night. We do not know in advance whether buds in the dark open on time, so your result is real new data. A closed dabba also changes the air and dampness, so a late result may not be only because of the dark. Either answer teaches something.
 - **s3 (3 min)**  
   *Parent does:* Next morning, look at the flowers on the plate and in the dabba.  
   *Parent says:* What do the flowers look like this morning? Do they still smell?  
   *Child mode:* Look at yesterday's flowers. Are they still fresh? Do they still smell?
-  - Check: Why might it help a jasmine flower to open and smell strongest in the evening? → **Their visitors, such as moths, come at that time**
+  - Check: Suppose the buds in the closed dabba open at about the same time as the buds on the plate. What does that suggest? → **The buds do not need to see the evening light to open on time**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say or write what they think, what they saw and why.  
   *Parent says:* What do you think now? What did you see? Why do you think it happened?  
@@ -431,14 +430,13 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Child mode:* Turn the arrow to now. Which flowers are open right now?
   - Check: Why do different flowers open at different hours? → **Each opens when their visitors, such as bees or moths, are about**
 ### a3 · Morning People and Night People: a family survey (15 min)
-- **safety:** None needed.
 - **record:** A table with each person's age, when they wake on a holiday, and when they feel most awake.
 - **s1 (3 min)**  
   *Parent does:* 1. Help your child draw a table with four columns: name, age, 'wakes on a holiday at', 'feels most awake at'. 2. Fill it in for your child first.  
   *Parent says:* Every person has a body clock, but not all clocks are set the same. Let's find out who in our family is a morning person.  
   *Child mode:* Make a table. Name, age, wakes on a holiday at, feels most awake at. Fill in your own row first.
 - **s2 (8 min)**  
-  *Parent does:* 1. Ask at least three people of different ages, such as a grandparent, a parent and a cousin. 2. Write their answers in the table.  
+  *Parent does:* 1. Ask at least three people of different ages, such as a parent, an older relative or neighbour, and a cousin or friend. A phone call works. 2. Write their answers in the table.  
   *Parent says:* Ask each person: when do you wake up on a holiday, with no alarm? When do you feel most awake?  
   *Child mode:* Ask each person two questions. When do you wake on a holiday? When do you feel most awake? Write it down.
 - **s3 (4 min)**  
@@ -448,7 +446,6 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   - Note: Small families give small numbers, so this shows a pattern only roughly. That is fine. The point is that body clocks differ between people, and change with age.
   - Check: Scientists have found that most teenagers' body clocks run later than younger children's and grandparents'. What would that look like? → **Teenagers feel sleepy later at night, and find early mornings hard**
 ### a4 · Map the Journeys (20 min)
-- **safety:** None needed.
 - **record:** Your map, with a key for the three colours and the months of each journey.
 - **s1 (6 min)**  
   *Parent does:* 1. In red, draw the Amur falcon's journey. Start in eastern Russia and China. 2. Draw the arrow to Nagaland, in north-east India, for October. 3. Carry it on across the Arabian Sea to southern Africa. 4. Draw a dotted arrow back for spring.  
@@ -466,7 +463,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent does:* Talk about what the three journeys have in common.  
   *Parent says:* All three journeys come at the same time every year. What tells them when?  
   *Child mode:* All three go at the same time every year. What tells them when to go?
-  - Check: What tells many migrating birds when to start their journey? → **The change in day length**
+  - Check: All three animals travel at the same time every year. What does that suggest? → **Each one has a signal or clock that repeats every year**
 ### a5 · Dawn Flower Watch (if you have a garden or park nearby) (20 min)
 - **safety:** Go with a grown-up. Keep away from the edges of ponds.
 - **record:** Two drawings of the same flower, with the times written underneath.
@@ -484,7 +481,6 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Child mode:* Look at both drawings. Why does this flower open at that time?
   - Think: Who visits this flower? When do they come?
 ### a6 · A Swallow's Year: act it out (12 min)
-- **safety:** Clear a space so nobody trips.
 - **record:** Draw the four parts of the swallow's year in a circle.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the four sheets on the floor in a circle. 2. Your child is the swallow, standing on 'North: summer'. 3. A grown-up holds the torch high and steady, for long summer days.  
@@ -492,7 +488,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Child mode:* You are a swallow. It is summer in the north. Long days. Lots of insects. Flap and catch flies!
 - **s2 (4 min)**  
   *Parent does:* 1. The grown-up lowers the torch and switches it off more often, for shorter days. 2. Your child eats more, then flies to 'Flying south', then to 'India: winter'.  
-  *Parent says:* The days are getting shorter. Your body knows. You eat and eat, then you fly south, mostly at night.  
+  *Parent says:* The days are getting shorter. Your body knows. You eat and eat, then you fly south.  
   *Child mode:* The days get shorter. Eat lots! Now fly south. Land on the wires in India.
 - **s3 (5 min)**  
   *Parent does:* 1. The grown-up makes the days long again. 2. Your child flies north. 3. Ask the check question.  
@@ -507,7 +503,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **schedule:** day 1: Set up the calendar. Write the date, sunset time and three living things you can see or hear. (15 min); day 7: Second entry, on the same day of the week, at the same time. (10 min); day 14: Third entry. (10 min); day 28: Last entry. Read all four, and write what changed and what stayed the same. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Choose one window or the balcony. 2. Write the date and the time the streetlights come on. 3. Write three living things you can see or hear there: birds, flowers, trees, insects. 4. Draw one of them.  
-  *Parent says:* Like Arjun's nature calendar, we'll write what this window shows us, once a week for four weeks.  
+  *Parent says:* We'll write what this window shows us, once a week for four weeks.  
   *Child mode:* Write today's date. What time did the streetlights come on? Write three living things you see or hear. Draw one.
 - **s2 (20 min)**  
   *Parent does:* Each week, on the same day and at the same time, write a new entry the same way.  
@@ -548,7 +544,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **problem:** Plan pots for a balcony or windowsill, so that some flower is open in the morning, afternoon, evening and night. You should be able to tell the rough time of day from the flowers.
 - **your turn:** Now plan your own balcony flower clock. Draw the pots and label the opening times. Which hour is hardest to fill?
 - **constraints:** No more than 5 pots, because balconies are small.; Only plants that grow in pots in India.; Say what time each one opens, and check facts with a nursery or a book.
-- **general:** Morning: morning glory, or portulaca, which is called the nine o'clock flower.; Late afternoon: four o'clock flower.; Evening: jasmine.; Night: Brahma kamal, which flowers only on some nights in the year.
+- **general:** Morning: morning glory, or portulaca, which is called the nine o'clock flower.; Late afternoon: four o'clock flower.; Evening: jasmine.; Night: pavazhamalli (called shiuli in Bengal and parijat in the north), or the night-blooming Brahma kamal cactus, which flowers on only a few nights in the year.
 - **creative:** Add a bean plant, whose leaves tell day from night.; Add a touch-me-not, whose leaves fold at night.; Choose plants that smell at different times, so you can tell the time with your eyes shut.
 - **s1 (5 min)**  
   *Parent does:* Draw the balcony and five empty pots.  
@@ -575,8 +571,8 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    **Answer:** Lotus → early morning; Four o'clock flower → late afternoon; Jasmine → evening; Pavazhamalli → night. *Why:* Each flower opens when their visitors are about. A strong answer can name a visitor, such as bees by day or moths at night.
 4. (fill) A timer inside a living thing that keeps a rhythm of about 24 hours is called a body ____.  
    **Answer:** ['clock']. *Why:* A body clock keeps time even in steady darkness, like the bean plant in the box. Light resets it each morning.
-5. (write) In the bean test, why did we keep the box cup in the same room as the window cup?  
-   **Answer:** So both cups were equally warm. Then the only difference between them was the light, so any difference in the leaves would come from the light.. *Why:* A strong answer uses the idea of a fair test: change only one thing.
+5. (write) In the bean test, we kept two things the same for both cups and changed one thing. Name two things we kept the same, and the one thing we changed.  
+   **Answer:** Kept the same: the seeds, the soil, the water, the room and its warmth (any two). Changed: the light, because one cup was in a dark box.. *Why:* A strong answer uses the idea of a fair test: change only one thing.
 6. (sort) Sort these into daily rhythms and yearly rhythms.  
    **Answer:** Bean leaves hanging down at night → Daily rhythm; Swallows coming to India for winter → Yearly rhythm; Jasmine opening in the evening → Daily rhythm; Neem flowering near Ugadi → Yearly rhythm; Feeling sleepy at bedtime → Daily rhythm; Sevanthi flowering when nights grow long → Yearly rhythm. *Why:* Daily rhythms repeat each day, with light and dark. Yearly rhythms repeat each year, with the seasons. A strong answer can say what sets each one.
 7. (mcq) Barn swallows sit on the electric wires in Chennai in January. Where are they most likely to be in June?  
@@ -590,20 +586,19 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 10. (perspective) Two friends in Kochi talk about why birds fly south for winter.  
    **Answer:** A strong answer sees that food is the main problem, because a small bird must eat often to stay warm, and winter takes the food away. Many birds also leave while it is still warm, as the days shorten. But Divya is right that cold is part of the story: the cold is what freezes the lakes and kills the insects.. *Why:* Both views hold something true. A strong answer links cold, food and day length.
 11. (order) Put the steps of the bean test in order.  
-   **Answer:** ['Plant soaked rajma seeds in two cups', 'Wait for the first two leaves to open', 'Put one cup under a dark box in the evening', 'Peek into the box the next morning']. *Why:* First grow the plants, then wait until they have leaves to watch, then start the test, then check.
-12. (truefalse) Lakshmi says, 'Plants only move their leaves when someone touches them.' Is she right?  
+   **Answer:** ['Plant soaked rajma seeds in two cups', 'Wait for the first two leaves to open', 'Put one cup under a dark box at night', 'Peek into the box the next morning']. *Why:* First grow the plants, then wait until they have leaves to watch, then start the test, then check.
+12. (truefalse) Lakshmi, a girl in Class 3, says, 'Plants only move their leaves when someone touches them.' Is she right?  
    **Answer:** False. *Why:* False. Bean, tamarind and rain tree leaves move every evening and morning with no touch at all. Touch-me-not also folds when touched, but that is a different movement.
 13. (write) Your body is coolest early in the morning and warmest in the late afternoon. Why did we measure on three days, not one?  
    **Answer:** One reading can be a fluke. A thermometer reading can jump by a little, or I might have just run about. Three days show whether the pattern really repeats.. *Why:* A strong answer says that repeating a test shows whether a result is real.
-14. (mcq) Why does a jasmine flower give out the most smell in the evening and night?  
-   Options: The smell is stronger in the dark / Their visitors, such as moths, come then / Smells cannot travel in sunlight / People are home in the evening  
-   **Answer:** Their visitors, such as moths, come then. *Why:* Smell guides visitors to the flower. Many white night flowers are visited by moths, which fly at night. Making scent when nobody is coming would waste it. 'People are home' is about us, not the flower's visitors.
+14. (write) Look at your bean table. At which check were the leaves lowest, and what time of day was that?  
+   **Answer:** For example: the leaves were hanging down at the 9 at night check, and flat at 7 in the morning and 1 in the afternoon.. *Why:* A strong answer gives a time from the child's own table, and says whether it matches the daily pattern.
 15. (label) Label the parts of this bean seedling: stem, leaf, pulvinus (the leaf joint), root.  
    **Answer:** ['stem', 'leaf', 'pulvinus', 'root']. *Why:* The pulvinus is the small swollen joint where the leaf blade meets their stalk. Water moving in and out of its cells bends it, which lifts or lowers the leaf.
 16. (write) Name one daily rhythm in your own body, and say when it happens.  
    **Answer:** For example: I feel sleepy at about 9 at night, or I feel hungry at about 1 in the afternoon, or my body is coolest in the early morning.. *Why:* A strong answer gives a time, and notices it happens about the same time each day.
 ### Days, Seasons and Journeys (stretch) (stretch, 16 questions)
-1. (mcq) Kavya puts her bean plant in a dark cupboard for two days. Their leaves still lift each morning and droop each night. What sets the timing?  
+1. (mcq) Kavya, a girl in Class 3, puts her bean plant in a dark cupboard for two days. The leaves still lift each morning and droop each night. What sets the timing?  
    Options: The noise of the morning / The plant's roots seeing the soil / A body clock inside the plant / The cupboard door  
    **Answer:** A body clock inside the plant. *Why:* No light reached the plant, so the timing came from inside them, from their body clock. A strong answer adds that the days on the windowsill had set that clock before.
 2. (write) A body clock runs a little fast or slow. What would happen to a plant's clock if the plant stayed in the dark for many weeks?  
@@ -614,9 +609,9 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    **Answer:** ['photoperiodism']. *Why:* 'Photo' means light and 'period' means a length of time. Sevanthi uses it to flower when the nights grow long.
 5. (sort) Sort each change by what sets its timing.  
    **Answer:** Winged termites flying out → Rain; Sevanthi flowering → Day length or a body clock; Pavazhamalli opening at night → Day length or a body clock; Frogs calling at the start of the monsoon → Rain; Swallows arriving for winter → Day length or a body clock. *Why:* Signs set by day length or a clock come at nearly the same date every year. Signs set by rain come on a different date each year, depending on when the rain comes.
-6. (mcq) In Srinagar, day length changes by about 4 and a half hours across the year. In Chennai, it changes by only about 1 and a half hours. Where would day length be the easiest signal of the season?  
-   Options: Both the same / Srinagar / Neither, day length never changes / Chennai  
-   **Answer:** Srinagar. *Why:* A bigger change is easier to notice. Further from the equator, day length changes more over the year. Near the equator, many living things use rain more than day length.
+6. (mcq) Day length changes very little across the year in Kerala. Which signal would help a Kerala plant time flowering?  
+   Options: The change in day length / The arrival of the monsoon rains / The noise of crows / The colour of the sky  
+   **Answer:** The arrival of the monsoon rains. *Why:* Where day length hardly changes, it is a weak signal. Near the equator, many living things use the rains more than day length.
 7. (draw) Draw a circle for one year. Mark when barn swallows are in India and when they are in the north. Add what they do in each place.  
    **Answer:** A circle with the cold months, about October to March, labelled 'India: feeding', and the warm months labelled 'North: nesting and raising chicks', with arrows for the journeys between.. *Why:* A strong drawing shows the year as a loop that repeats, with a reason for each half.
 8. (truefalse) Eberhard Gwinner kept warblers in a room where the light stayed the same all year. They still became restless at about migration time.  
@@ -624,10 +619,9 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 9. (write) Malli buds kept inside a closed dabba opened at nearly the same time as buds on an open plate. What would that tell you?  
    **Answer:** That the buds did not need to see the evening to open. The timing came from inside them, from a clock, set by the days before.. *Why:* A strong answer reasons from evidence. It might also say that if the dabba buds opened later, the evening light would be part of the signal.
 10. (order) Put a migrating bird's autumn in order.  
-   **Answer:** ['The days grow shorter', 'Eat a lot and store fat', 'Fly south, mostly at night', 'Arrive in India and find food']. *Why:* The change in day length comes first. It changes the bird's body, so they eat and store fat for fuel. Then they fly.
-11. (mcq) Why is it useful for a plant to start lifting their leaves before sunrise?  
-   Options: So birds can see them / They can use the very first light to make food / So the leaves stay dry / It isn't useful at all  
-   **Answer:** They can use the very first light to make food. *Why:* Plants make food from light, air and water. Being ready before the light comes means no morning light is wasted. Plants whose clocks match the day grow better.
+   **Answer:** ['The days grow shorter', 'Eat a lot and store fat', 'Fly south', 'Arrive in India and find food']. *Why:* The change in day length comes first. It changes the bird's body, so they eat and store fat for fuel. Then they fly.
+11. (write) Name one thing in your bedtime routine that helps your body clock stay in step with the day.  
+   **Answer:** For example: going to bed at the same time each night, keeping the room dark, or getting bright morning light.. *Why:* A strong answer links the habit to light and dark, which set the body clock.
 12. (match) Match each word to what it means.  
    **Answer:** Nocturnal → active at night; Diurnal → active in the day; Migrate → travel far at the same time each year; Hibernate → rest deeply through the cold season; Pollinator → an animal that carries pollen. *Why:* These words describe how animals fit their lives to the day and the year.
 13. (perspective) Two sisters in Mysuru talk about how the swallows know when to come to India.  
@@ -641,10 +635,10 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    **Answer:** ['eastern China and Russia', 'Nagaland', 'southern Africa']. *Why:* Amur falcons nest in eastern China and Russia, rest and feed in Nagaland in October and November, and fly across the Arabian Sea to winter in southern Africa.
 ### Moons, Storks and Big Ideas (challenge) (challenge, 16 questions)
 1. (write) In the bean test, the box cup's leaves rose on the first morning, but on the second morning only half way. Suggest a reason.  
-   **Answer:** Without light, the plant's clock was not reset, so it may have started to drift. Or the plant was getting weaker without light to make food. A third reason could be that peeking let a little light in at the wrong time.. *Why:* A strong answer gives more than one possible reason and says how to test one of them.
+   **Answer:** Without light, the plant's clock was not reset, so the clock may have drifted. Or the plant was getting weaker without light to make food. A third reason could be that peeking let a little light in at the wrong time.. *Why:* A strong answer gives more than one possible reason and says how to test one of them.
 2. (perspective) Three scientists argue about why bean leaves droop at night.  
    **Answer:** A strong answer picks one and designs a fair test: for example, pin some leaves open and compare them on cold nights with leaves left free, as Darwin did. It says that nobody yet knows for sure, and that more than one reason may be true.. *Why:* This is a real open question. Scientists have evidence for several ideas. A strong answer designs a test that changes only one thing.
-3. (mcq) Arjun's grandmother says, 'The eesal come out after the first big rain.' This year the rain came a month late. When did the eesal come?  
+3. (mcq) In the story, Arjun's grandmother Paati says, 'The eesal come out after the first big rain.' This year the rain came a month late. When did the eesal come?  
    Options: On the same date as last year / Before the rain, as a warning / After the late rain / Not at all this year  
    **Answer:** After the late rain. *Why:* Winged termites fly out after heavy rain softens the ground. So they follow the rain, not the date. Signs set by day length come on nearly the same date each year. Signs set by rain move with the rain.
 4. (write) A plant whose clock matches the length of the day grows bigger than one whose clock does not. Explain why, in your own words.  
@@ -671,11 +665,11 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    **Answer:** In the dark box, bean leaves lifted in the morning before any light could reach them. A reaction comes after the thing it reacts to. These leaves moved with no light at all, so the plant was keeping time and getting ready.. *Why:* A strong answer uses the evidence from the bean test to argue against a popular belief.
 14. (draw) Design a fair test to find out whether malli buds need warmth to open on time. Draw the setup and label what stays the same.  
    **Answer:** Two groups of buds from one string, both in the dark, one in a cool place such as near a window at night and one in a warmer place. Same number of buds, same damp cloth, same times for counting.. *Why:* A strong design changes only the warmth and keeps the light, buds, water and timing the same. A fridge is too cold and would harm the buds.
-15. (mcq) Michael, a night-shift nurse, works all night and sleeps by day. He often feels sleepy at work. What is the best explanation?  
-   Options: His body clock still expects him to sleep at night / Night air makes people sleepy / He eats too much / Hospitals are boring  
-   **Answer:** His body clock still expects him to sleep at night. *Why:* The body clock is set by daylight, so it keeps telling his body that night is for sleep. Bright light at work and dark curtains at home can help shift it.
+15. (mcq) Mercy, a night-shift nurse, works all night and sleeps by day. She often feels sleepy at work. What is the best explanation?  
+   Options: Her body clock still expects her to sleep at night / Night air makes people sleepy / She eats too much / Hospitals are boring  
+   **Answer:** Her body clock still expects her to sleep at night. *Why:* The body clock is set by daylight, so it keeps telling her body that night is for sleep. Bright light at work and dark curtains at home can help shift it.
 16. (write) Living things get ready for sunrise before it comes. Name two things in your family's day that are done to be ready before something happens.  
-   **Answer:** For example: soaking rice and dal at night so the idli batter is ready by morning, or setting out school clothes the night before.. *Why:* A strong answer sees the same pattern as the bean plant: preparing ahead saves time when the moment comes.
+   **Answer:** For example: soaking rice and dal at night so the idli or dhokla batter is ready by morning, or setting out school clothes the night before.. *Why:* A strong answer sees the same pattern as the bean plant: preparing ahead saves time when the moment comes.
 
 ## Videos
 - **Circadian control of leaf movement** (Utah State University Crop Physiology Lab, 2 min) id `eviOCC13Pt0`: A time-lapse of plant leaves rising and falling over several days, like the bean plant in the experiment. Watch it after the bean test. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is estimated: a parent should preview it.
@@ -740,6 +734,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - Winged termites dancing round streetlights after the first heavy rain.
 - Rain tree leaves folded on the roads of Bengaluru and Chennai in the evening.
 - Crows flying to roost together in big trees at sunset.
+- Shiuli (pavazhamalli) flowers scattered on the ground at dawn in Kolkata, in the weeks before Durga Puja.
 
 ## Open questions
 - **Why do some leaves droop or fold at night?** Keeping warm, keeping moonlight off and staying dry all have some evidence. Nobody has shown which matters most, or whether it differs between plants.
@@ -757,42 +752,28 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - Which flower in our street opens in the morning? Which in the evening?
 - If you lived in a cave with no clocks, how would you know when to sleep?
 - Why do you think the crows all fly to the same tree in the evening?
-- Do you think a plant knows it is morning, or just reacts to it? Why?
+- Do you think a plant knows when morning is coming, or just reacts when the light arrives? Why?
 - Which signs of the season have you noticed this week?
 - If you were a bird flying at night, what would help you find the way?
 
 ## Jokes
-- Why did the bean plant go to bed early? *They had to be up before the Sun.*
-- What do you call a flower that opens at dawn? *An early bloomer.*
-- Why don't swallows need a calendar? *They can read the length of the day.*
-- Why did the falcon pack a big lunch? *There are no snack shops over the sea.*
-- What did the jasmine say at 7 pm? *Time to open up and smell lovely.*
-- Why was the body clock never late? *The Sun set it every morning.*
-- What did one swallow say to the other on the electric wire? *Let's hang out here till spring.*
-- Why did the stork take the long way home? *They were bringing back something from Africa.*
-- What time does a lotus wake up? *Petal-past six.*
-- Why did the owl miss breakfast? *They were having dinner.*
-- Why did the rooster go to school? *To brush up on their crow-nology.*
-- What do leaves say at night? *Time to droop off to sleep.*
-- Why do corals like full moons? *It's the best night for a party.*
-- Why did the sevanthi wait so long to flower? *They were waiting for the right night.*
-- What did the termite say after the first rain? *Finally, we can wing it.*
-- Why did the bat sleep all day? *Their body clock is set to night.*
-- Why did the swallow fly south? *It was too far to walk.*
-- Why did the pavazhamalli drop all their flowers at dawn? *The night show was over.*
-- What is a bird's favourite kind of maths? *Migr-addition.*
-- Why did the clock in the plant never need a battery? *It runs on sunshine.*
 - Why did Paati never buy a calendar? *She had a balcony.*
 - What do you call a sleepy bean? *A has-bean awake.*
+- Why did the rooster go to school? *To brush up on his crow-nology.*
+- What time does a lotus wake up? *Petal-past six.*
+- Why did the owl miss breakfast? *She was still having dinner.*
+- What is a bird's favourite kind of maths? *Migr-addition.*
+- Why did the falcon pack a big lunch? *There are no snack shops over the sea.*
+- Why did the swallow fly south? *The walk was too far.*
+- What did the termite say after the first rain? *Finally, we can wing it.*
 - Why did the moth visit the jasmine at night? *The day shift was full of bees.*
-- Why did the falcon stop in Nagaland? *For a quick bite before the big flight.*
 
 ## Connected maths
-- In the warm and cool test, Kavya's temperature was 36.3 °C just after waking and 36.8 °C at 5 pm. How much warmer was she at 5 pm? **0.5 °C warmer, which is half a degree.**. 36.8 take away 36.3 is 0.5. Think of it as 368 tenths take away 363 tenths, which is 5 tenths. Half a degree is small, but it came back on every day she measured. (queues `math.temperature.reading-thermometers.L3`)
+- In the warm and cool test, Kavya, a girl in Class 3, measured her temperature. It was 36.3 °C just after waking and 36.8 °C at 5 pm. How much warmer was she at 5 pm? **0.5 °C warmer, which is half a degree.**. 36.8 take away 36.3 is 0.5. Think of it as 368 tenths take away 363 tenths, which is 5 tenths. Half a degree is small, but it came back on every day she measured. (queues `math.temperature.reading-thermometers.L3`)
 - In Chennai, the longest day is about 12 hours 55 minutes and the shortest is about 11 hours 20 minutes. In Srinagar, they are about 14 hours 25 minutes and 9 hours 55 minutes. In which city does day length change more across the year, and by how much? **Srinagar. Day length changes by about 4 hours 30 minutes there, and by about 1 hour 35 minutes in Chennai.**. Chennai: 12 hours 55 minutes take away 11 hours 20 minutes is 1 hour 35 minutes. Srinagar: 14 hours 25 minutes take away 9 hours 55 minutes. From 9 hours 55 minutes to 10 hours is 5 minutes, then 4 hours 25 minutes more to 14 hours 25 minutes. Total 4 hours 30 minutes. That is nearly three times as much change as in Chennai. (queues `math.time.duration.L3`)
 - In the malli buds test, 7 of the 10 buds on the plate were open at 8 pm, and 6 of the 10 buds in the dabba were open. Is that a big difference, or nearly the same? What would you do to be more sure? **Nearly the same: only 1 bud different out of 10. To be more sure, repeat with more buds, or on another evening.**. 7 and 6 differ by 1. With only 10 buds, one bud that was a little slow could make that difference by chance. If the dabba had 1 open and the plate 7, that would be a big difference. Repeating the test shows whether a small difference is real. (queues `math.data.sorting-and-tallies.L3`)
 - Amur falcons cross about 4,000 kilometres of sea without stopping. If they fly about 1,000 kilometres a day, how many days and nights are they over the sea? **About 4 days.**. 4,000 divided by 1,000 is 4. Check: 1,000 + 1,000 + 1,000 + 1,000 = 4,000. The falcons cannot land on water, so they must store enough fat before they leave to last all 4 days. (queues `math.division.sharing-and-grouping.L3`)
-- In the bean test, Riya gave each leaf position a number: flat is 2, half down is 1, hanging down is 0. Her window cup scored 2 at 7 am, 2 at 1 pm, 1 at 6 pm and 0 at 9 pm. Draw these as a line graph. What do you predict for 7 am the next day? **A line that stays high in the morning and afternoon, then falls in the evening to 0 at night. The next morning should be 2 again.**. A line graph shows change over time. The line is flat at 2 in the day, drops to 1 at 6 pm and to 0 at 9 pm. Because the leaves move on a daily rhythm, the pattern repeats, so at 7 am the next day the score should be back to 2. (queues `math.data.line-graphs.L4`)
+- In the bean test, Riya, a girl in Class 3, gave each leaf position a number: flat is 2, half down is 1, hanging down is 0. Her window cup scored 2 at 7 am, 2 at 1 pm, 1 at 6 pm and 0 at 9 pm. Draw these as a line graph. What do you predict for 7 am the next day? **A line that stays high in the morning and afternoon, then falls in the evening to 0 at night. The next morning should be 2 again.**. A line graph shows change over time. The line is flat at 2 in the day, drops to 1 at 6 pm and to 0 at 9 pm. Because the leaves move on a daily rhythm, the pattern repeats, so at 7 am the next day the score should be back to 2. (queues `math.data.line-graphs.L4`)
 
 ## Song
 Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, night and seasons L3. The Day and night, Seasons and Rhythms of nature units share it.
@@ -808,9 +789,8 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 - [Lalbagh Botanical Garden]() · place · Bengaluru: Many flowering trees and lotus ponds. Visit early in the morning and again in the afternoon, and see which flowers have opened or closed.
 
 ## Things to buy
-- [A small bag of potting soil or coco peat](https://www.amazon.in/s?k=potting+soil+small+bag) (material): For growing the bean plants, if you have no potted plant to borrow soil from. Damp cotton wool also works for the first two weeks. Used in e1. 
+- [A small bag of potting soil or coco peat](https://www.amazon.in/s?k=potting+soil+small+bag) (material): For growing the bean plants, if you have no potted plant to borrow soil from. Used in e1. 
 - [A digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer) (tool): For the warm and cool test. Many homes already have one. It reads to one tenth of a degree, which is needed to see the daily change. Used in e2. 
-- [A small pair of binoculars](https://www.amazon.in/s?k=binoculars+for+kids) (tool): Optional. Helps to see birds on far wires and roofs for the window calendar. Not needed for anything in the core path. Used in p1. 
 
 ## Warm-up
 - What do bean leaves do at night? → They hang down. In the day they are held out flat.

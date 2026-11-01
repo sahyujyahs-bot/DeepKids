@@ -18,7 +18,7 @@
   "I can explain how drying, salting and cooling keep food from rotting, using what decomposers need.",
   "I can explain how earthworms help to make soil, and why they need damp ground.",
   "I can describe how decomposers return what a dead thing was made of to the soil and air, for new plants to use.",
-  "I can handle rotting food safely: I look at mould through a closed box and never sniff it closely."
+  "I can handle rotting food safely: I look at mould through a closed box and never sniff mould closely."
  ],
  "cards_mins": 20,
  "terms": [
@@ -78,7 +78,7 @@
   },
   {
    "term": "Worm casts",
-   "meaning": "The soil that comes out of the back end of an earthworm, after it has passed through their body. Casts are crumbly and rich in food for plants.",
+   "meaning": "The soil that comes out of the back end of an earthworm, after the soil has passed through their body. Casts are crumbly and rich in food for plants.",
    "example": "The tiny heaps of curly soil on a lawn after rain are worm casts.",
    "art": "A small curly heap of soil on grass, with a worm's tail just disappearing into a hole beside it."
   },
@@ -135,7 +135,7 @@
    "status": "defined",
    "context": "This card explains how a mould or mushroom eats, with no mouth.",
    "definition": "A fungus has no mouth and no stomach. Their hyphae give out chemicals called enzymes onto the food. The enzymes break the food down into tiny pieces that dissolve in water. Then the hyphae soak up that watery food.",
-   "description": "You digest food inside your stomach. A fungus digests food outside their body, wherever their threads touch it. This is why a mouldy tomato goes soft and runny: the mould has broken it down. It is also why a fungus needs water. Without water, the digested food cannot dissolve, and the threads cannot soak it up.",
+   "description": "You digest food inside your stomach. A fungus digests food outside their body, wherever their threads touch it. This is why a mouldy tomato goes soft and runny: the mould has broken the tomato down. It is also why a fungus needs water. Without water, the digested food cannot dissolve, and the threads cannot soak it up.",
    "examples": [
     "A mouldy tomato turns soft and leaks juice where the mould has been feeding.",
     "A dry rusk on the shelf stays hard and clean for weeks."
@@ -148,7 +148,7 @@
    "status": "defined",
    "context": "This card is about what the mould test showed: what decomposers need to do their work.",
    "definition": "Most decomposers need food, water, warmth and air to grow and feed quickly. Take away any one of these, and rotting slows down or stops.",
-   "description": "In the chapati test, the damp piece grew mould in a few days. The dry piece stayed clean, though the same air had touched it. The damp piece in the fridge grew mould much more slowly, because cold slows decomposers down. It does not kill them. Most decomposers also need air. Food sealed away from air, like the inside of a tin, keeps for a long time.",
+   "description": "In the chapati test, the damp piece grew mould in a few days. The dry piece stayed clean, though the same air had touched it. The damp piece in the fridge grew mould much more slowly, because cold slows decomposers down. It does not kill them. Most decomposers also need air, so a tight, airless heap rots slowly. Sealing alone does not keep food safe, because some bacteria need no air. Tinned food keeps because it is heated first to kill the decomposers, and then sealed.",
    "examples": [
     "Leaves on the ground stay crisp through a dry summer and rot within weeks once the monsoon comes.",
     "A cut onion in the fridge keeps for days, and on a warm kitchen shelf it goes bad sooner."
@@ -161,7 +161,7 @@
    "status": "defined",
    "context": "This card connects the mould test to the ways Indian kitchens keep food for months.",
    "definition": "People preserve food by taking away something decomposers need. Drying takes away water. Salt and sugar pull water out of food and hold it, so decomposers cannot use it. Cooling slows them down. Boiling kills many of them.",
-   "description": "Indian kitchens have used these ideas for thousands of years. Vadam, appalam and dried chillies are dried in the sun. Tender mangoes for maavadu sit in salt. Fish are salted and dried into karuvadu on the beaches of Tamil Nadu. Pickles use salt, oil and sometimes vinegar or lemon juice. Milk is boiled before it is kept. A jar of pickle can last a year, while a fresh mango rots in a week.",
+   "description": "Indian kitchens have used these ideas for thousands of years. Vadam, appalam and dried chillies are dried in the sun. Tender mangoes for maavadu sit in salt. Fish are salted and dried into karuvadu on the beaches of Tamil Nadu, and into shutki in Bengal and Assam. Pickles use salt, oil and sometimes vinegar or lemon juice. Mango pickle is avakaya in Andhra and aam ka achaar in Punjab. Milk is boiled before it is kept. A jar of pickle can last a year, while a fresh mango rots in a week.",
    "examples": [
     "Sun-dried vadam keep for months in a dry tin.",
     "A lemon pickle in salt lasts for a year or more.",
@@ -201,13 +201,13 @@
    "status": "defined",
    "context": "This card is about how decomposers find their food.",
    "definition": "Decomposers sense their food and act on what they sense. Fungus threads sense food and grow towards the food. Earthworms choose which leaves to pull into their burrows.",
-   "description": "A fungus spreads their threads in the directions where they find food and water, and stops growing where there is none. Charles Darwin watched earthworms pull leaves into their burrows. They usually grabbed a leaf by its narrow tip, the end that slides in most easily. Some scientists call these automatic responses. Either way, decomposers are not just waiting. They are working out where their next meal is.",
+   "description": "A fungus spreads their threads in the directions where they find food and water, and stops growing where there is none. Charles Darwin watched earthworms pull leaves into their burrows. They usually grabbed a leaf by the narrow tip, the end that slides in most easily. Some scientists call these automatic responses. Either way, decomposers are not just waiting. They are working out where their next meal is.",
    "examples": [
     "Mould threads on a chapati spread out over the food, not onto the dry steel of the box.",
     "Earthworms pull some kinds of leaves into their burrows more often than others."
    ],
    "perspectives": [],
-   "art": "An earthworm at the mouth of a burrow, holding a leaf by its pointed tip."
+   "art": "An earthworm at the mouth of a burrow, holding a leaf by the pointed tip."
   },
   {
    "concept": "How long things take to decompose",
@@ -255,7 +255,7 @@
    "context": "This card is about a common idea: that food rots just because it gets old."
   },
   {
-   "claim": "Mould comes out of the food itself.",
+   "claim": "Mould is made inside the food, with no spores needed.",
    "who": "Most people for thousands of years, until the 1700s",
    "for": "Mould seems to appear from nowhere, right on the food.",
    "against": "Mould grows from spores in the air. Pier Antonio Micheli, an Italian botanist, showed in 1729 that sowing spores of one mould on fruit grew that same mould. Food sealed away from spores does not grow mould.",
@@ -289,7 +289,7 @@
  ],
  "big_questions": [
   {
-   "q": "When a leaf has turned into soil, and the soil has become part of a new plant, is the old leaf gone, or is it still there?",
+   "q": "When a leaf has turned into soil, and the soil has become part of a new plant, is the old leaf gone, or is the leaf still there?",
    "kind": "big",
    "hint": "Think about the compost bottle. Where did the peels go?"
   },
@@ -338,7 +338,7 @@
    "Three weeks later, Kavya looked into the open pot and called out. The leaves had gone dark brown and limp. Some had holes, like lace, so that only their veins were left. A thin white fuzz spread across them like cobwebs. And in one corner stood a tiny grey mushroom on a thin stalk.",
    "\"The rain melted them!\" said Arjun.",
    "Paati brought her old magnifying glass. \"Look closer,\" she said. \"Does it look melted?\"",
-   "Kavya looked. The white fuzz was made of threads, thinner than any hair, running all over the leaves and into the soil. Where the threads were thickest, the leaf was softest. In the soil, something pink moved. It was a small earthworm, who must have come up in the garden soil. The worm was pulling a piece of leaf into a hole by its narrow tip.",
+   "Kavya looked. The white fuzz was made of threads, thinner than any hair, running all over the leaves and into the soil. Where the threads were thickest, the leaf was softest. In the soil, something pink moved. It was a small earthworm, who must have been in the garden soil from the start. She was pulling a piece of leaf into a hole by the narrow tip.",
    "\"The threads are a fungus,\" said Paati. \"The mushroom is only the part that pops up to make spores. The fungus is eating the leaves. So are bacteria, too small to see. And so is your worm.\"",
    "\"Then why didn't they eat the leaves in April?\" asked Kavya. \"The dry pot has the same soil and the same leaves.\"",
    "Paati smiled and waited.",
@@ -355,7 +355,7 @@
   "ask": [
    "Why did nothing happen to the leaves in April and May?",
    "What did Kavya see when she looked at the white fuzz with the magnifying glass?",
-   "Arjun said the rain melted the leaves. What was really happening?",
+   "How did the earthworm use the leaf, and which end did she pull it in by?",
    "Why did Kavya pour water into the dry pot? What did that show?",
    "Paati said some of the soil will become tulsi leaves. How could that happen?"
   ],
@@ -364,7 +364,7 @@
    "Two clay pots full of red leaves on a balcony, one under the roof and one at the open edge.",
    "Heavy monsoon rain falling on the open pot.",
    "A girl looking through a magnifying glass at dark, lacy leaves covered in fine white threads, a tiny grey mushroom in the corner.",
-   "A small earthworm pulling a leaf into a hole by its pointed tip.",
+   "A small earthworm pulling a leaf into a hole by the pointed tip.",
    "A girl tipping dark soil into a pot with a tulsi plant, her grandmother smiling beside her."
   ]
  },
@@ -382,35 +382,60 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A path of 20 squares from the top of a tree, through a leaf heap, down into the soil, ending at a new plant",
+     "title": "A path of 21 squares, numbered 0 to 20, from the top of a tree, through a leaf heap, down into the soil, ending at a new plant",
      "items": [
-      "Square 0: the leaf falls",
-      "Squares 1 to 6: the leaf heap",
-      "Squares 7 to 13: the damp layer, where fungi grow",
-      "Squares 14 to 19: the soil, where worms and bacteria live",
-      "Square 20: a new plant's roots take in your nutrients"
+      "Square 0: START. The leaf falls from the tree.",
+      "Square 1: leaf heap. Dry, crisp leaves on top, with air between them.",
+      "Square 2: leaf heap. Dry, crisp leaves on top, with air between them.",
+      "Square 3: leaf heap. Dry, crisp leaves on top, with air between them.",
+      "Square 4: leaf heap. Leaves packed lower down in the heap.",
+      "Square 5: leaf heap. Leaves packed lower down in the heap.",
+      "Square 6: leaf heap. Leaves packed lower down in the heap.",
+      "Square 7: damp layer. Fungus threads spread through the wet leaves.",
+      "Square 8: damp layer. Fungus threads spread through the wet leaves.",
+      "Square 9: damp layer. Fungus threads spread through the wet leaves.",
+      "Square 10: damp layer. Fungus threads spread through the wet leaves.",
+      "Square 11: damp layer. Mushrooms and millipedes live here.",
+      "Square 12: damp layer. Mushrooms and millipedes live here.",
+      "Square 13: damp layer. Mushrooms and millipedes live here.",
+      "Square 14: soil. Earthworm burrows and bacteria.",
+      "Square 15: soil. Earthworm burrows and bacteria.",
+      "Square 16: soil. Earthworm burrows and bacteria.",
+      "Square 17: soil. Dark, crumbly soil with plant roots nearby.",
+      "Square 18: soil. Dark, crumbly soil with plant roots nearby.",
+      "Square 19: soil. Dark, crumbly soil with plant roots nearby.",
+      "Square 20: FINISH. A new plant's roots take in your nutrients. You have become soil."
      ]
     },
     {
      "kind": "cards",
      "title": "16 nature cards",
      "items": [
-      "RAIN! Decomposers can feed. Move 3.",
-      "A millipede chews you into small pieces. Move 2.",
-      "Fungus threads spread through you. Move 3.",
-      "Bacteria feed on you. Move 2.",
-      "An earthworm pulls you into their burrow. Move 4.",
-      "Warm, damp night. Move 2.",
-      "A termite takes a bite. Move 1.",
-      "Mushrooms pop up after rain. Move 2.",
-      "DRY SPELL. Decomposers wait. Miss a turn.",
-      "HOT SUN dries the heap. Go back 1.",
-      "COLD WEEK. Decomposers slow down. Move only 1 on your next turn.",
-      "Swept into a plastic bag. Go back 2.",
-      "The heap is packed tight, with no air. Miss a turn.",
-      "Question card: name a decomposer you can see without a microscope. Right answer, move 2.",
-      "Question card: why does a dry chapati not go mouldy? Right answer, move 2.",
-      "Question card: what does a fungus use to digest food? Right answer, move 2."
+      "RAIN! Decomposers can feed. Move your leaf forward 3 squares.",
+      "A millipede chews your leaf into small pieces. Move forward 2 squares.",
+      "Fungus threads spread through your leaf. Move forward 3 squares.",
+      "Bacteria feed on your leaf. Move forward 2 squares.",
+      "An earthworm pulls your leaf into her burrow. Move forward 4 squares.",
+      "A warm, damp night. Decomposers feed well. Move forward 2 squares.",
+      "A termite takes a bite of your leaf. Move forward 1 square.",
+      "Mushrooms pop up after rain. Move forward 2 squares.",
+      "DRY SPELL. The decomposers wait for water. Miss your next turn.",
+      "HOT SUN dries the heap. Go back 1 square.",
+      "COLD WEEK. Decomposers slow down. On your next turn, if your card says move forward, move only 1 square.",
+      "Your leaf is swept into a plastic bag. Go back 2 squares.",
+      "The heap is packed tight, with no air. Miss your next turn.",
+      {
+       "f": "Question card: name a decomposer you can see without a microscope. Right answer, move forward 2 squares.",
+       "b": "Answer: an earthworm, a mushroom, a mould, a millipede or a termite. Any one is right."
+      },
+      {
+       "f": "Question card: why does a dry chapati not go mouldy? Right answer, move forward 2 squares.",
+       "b": "Answer: a mould needs water to digest food, and a dry chapati has too little."
+      },
+      {
+       "f": "Question card: what does a fungus use to digest food? Right answer, move forward 2 squares.",
+       "b": "Answer: chemicals called enzymes. The fungus gives them out onto the food."
+      }
      ]
     },
     {
@@ -420,16 +445,18 @@
       "a red badam leaf",
       "a neem leaf",
       "a mango leaf",
-      "a banana peel"
+      "a banana leaf"
      ]
     }
    ],
    "rules": [
-    "Each player puts a leaf counter on square 0.",
-    "Take turns to turn over a nature card, and do what it says.",
-    "On a question card, the other players check the answer with the answer key at the bottom of the card.",
-    "When the cards run out, shuffle them and start again.",
-    "The first leaf to reach square 20 has become soil and fed a new plant, and wins.",
+    "Each player puts a leaf counter on square 0. Two to four can play.",
+    "Take turns to turn over a card from the top of the pile, and do what it says. Then put it at the bottom.",
+    "On a question card, the other player reads the answer on the back. If your answer is right, move forward 2 squares. If not, stay where you are.",
+    "Miss your next turn means you do nothing on your next turn.",
+    "You cannot go back past square 0. If a card would take you past square 20, you reach square 20.",
+    "When you land on square 1, 7 or 14, say which decomposers work in that layer.",
+    "The first leaf to reach square 20 has become soil and fed a new plant, and wins. Finish the round so everyone has had the same number of turns, and anyone else who reached square 20 also wins.",
     "Playing alone: play two leaves against each other, one for each hand."
    ],
    "flow": [
@@ -504,32 +531,70 @@
      "kind": "cards",
      "title": "12 food cards",
      "items": [
-      "A wet chapati in a closed box on a warm shelf (rot)",
-      "Sun-dried vadam in a dry tin (keep)",
-      "A cut tomato on the kitchen counter (rot)",
-      "Lemon pickle in salt and oil (keep)",
-      "A cooked rice bowl left out on a hot day (rot)",
-      "Dried red chillies (keep)",
-      "A ripe papaya slice in a closed box (rot)",
-      "Uncooked rice in a dry steel dabba (keep)",
-      "A wet towel full of crumbs in a bag (rot)",
-      "A packet of sugar, sealed (keep)",
-      "Fresh fish left out in the sun (rot)",
-      "Salted, dried fish, karuvadu (keep)"
+      {
+       "f": "A wet chapati in a closed box on a warm shelf",
+       "b": "ROT. It has food, water, warmth and air."
+      },
+      {
+       "f": "Sun-dried vadam in a dry tin",
+       "b": "KEEP. It has almost no water."
+      },
+      {
+       "f": "A cut tomato on the kitchen counter",
+       "b": "ROT. It is wet and soft, with food, water and warmth."
+      },
+      {
+       "f": "Lemon pickle in salt and oil",
+       "b": "KEEP. The salt holds the water, so decomposers cannot use it."
+      },
+      {
+       "f": "A bowl of cooked rice left out on a hot day",
+       "b": "ROT. It has food, water and warmth."
+      },
+      {
+       "f": "Dried red chillies",
+       "b": "KEEP. They are dry, so they have almost no water."
+      },
+      {
+       "f": "A ripe papaya slice in a closed box",
+       "b": "ROT. It is wet, sweet and soft, and the box keeps it warm and damp."
+      },
+      {
+       "f": "Uncooked rice in a dry steel dabba",
+       "b": "KEEP. It is dry, so decomposers have no water."
+      },
+      {
+       "f": "Leftover sambar rice in a closed tiffin, left on the counter in summer",
+       "b": "ROT. It has food, water and warmth."
+      },
+      {
+       "f": "Aam papad, a dried mango sheet, in a tin",
+       "b": "KEEP. It has been dried in the sun, so it has little water."
+      },
+      {
+       "f": "Fresh fish left out in the sun",
+       "b": "ROT. It has food and water, and the sun makes it warm."
+      },
+      {
+       "f": "Salted, dried fish: karuvadu in Tamil Nadu, shutki in Bengal",
+       "b": "KEEP. Salt and drying take away the water."
+      }
      ]
     }
    ],
    "rules": [
-    "Shuffle the cards and turn them over one at a time.",
-    "Shout ROT or KEEP as fast as you can.",
-    "Then say which thing the decomposers are missing: water, warmth or air. A right reason wins the card.",
-    "The player with the most cards wins."
+    "Shuffle the cards and put them face down in a pile. Take turns to turn over the top card and read the front aloud.",
+    "Everyone shouts ROT or KEEP as fast as they can.",
+    "Then each player says why. For a KEEP card, say what is missing: water, warmth or air. For a ROT card, say what the decomposers have.",
+    "Read the back of the card. A player who shouted the right word and gave a right reason takes the card.",
+    "When the pile is finished, the player with the most cards wins. If it is a tie, you share the win.",
+    "Playing alone: keep your own score. Count a card when you get both the word and the reason right."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Shuffle the cards. 2. Turn them over one at a time. 3. Everyone shouts ROT or KEEP, then gives the reason.",
+     "do": "1. Shuffle the cards. 2. Turn them over one at a time. 3. Everyone shouts ROT or KEEP, then gives the reason. 4. Read the back of the card.",
      "say": "Vadam in a dry tin. Rot or keep? And why?",
      "kid": "Turn a card. Shout ROT or KEEP. Then say why.",
      "context": "This is the Rot or Keep game. You decide fast whether each food will rot, and say why."
@@ -569,11 +634,11 @@
   {
    "id": "e1",
    "title": "Damp or Dry: what does mould need to eat a chapati?",
-   "mins": 45,
+   "mins": 43,
    "days": 7,
    "question": "Three pieces of the same chapati sit in the same air. One is dry, one is damp and warm, one is damp and cold. Which one does mould grow on?",
    "predict": "Guess first. Which piece will grow mould first: the dry one, the damp one on the shelf, or the damp one in the fridge? And why do you think so?",
-   "fair_test": "All three pieces come from one chapati, are the same size and sit in the same air for an hour. B and C get the same amount of water. A and B sit on the same shelf. Only one thing differs each time: water between A and B, and warmth between B and C.",
+   "fair_test": "All three pieces come from one chapati, are the same size and sit in the same air for an hour. B and C get the same amount of water. A and B sit on the same shelf. Only one thing differs each time: water between A and B, and warmth between B and C. Piece A is also heated to dry it, so it cools on the plate for 10 minutes and spores from the room land on it again.",
    "results_table": [
     "Day",
     "Box A: dry, on the shelf",
@@ -595,30 +660,25 @@
      "qty": 1
     },
     {
-     "item": "a tawa and the stove, for drying one piece (or a sunny windowsill)",
+     "item": "a tawa and the stove, for drying one piece",
      "qty": 1
     },
     {
      "item": "a marker or paper labels",
      "qty": 1
-    },
-    {
-     "item": "a magnifying glass, if you have one",
-     "qty": 1,
-     "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up does the tawa step. Never open a mouldy box near your face, and never sniff mould: the spores can make people sneeze or wheeze. Throw the closed boxes away at the end, or a grown-up washes them outdoors.",
+   "safety": "A grown-up does the tawa step, because the tawa is hot. Never open a mouldy box near your face, and never sniff mould: the spores can make people sneeze or wheeze. Throw the closed boxes away at the end.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Set up boxes A, B and C. Write your guess and reason."
+     "mins": 21,
+     "what": "Tear the chapati, dry piece A, and set up boxes A, B and C. Write your guess and reason."
     },
     {
      "day": 2,
      "mins": 2,
-     "what": "Look at each box. Write what you see."
+     "what": "Look at each box without opening it. Write what you see."
     },
     {
      "day": 3,
@@ -642,11 +702,11 @@
     },
     {
      "day": 7,
-     "mins": 10,
-     "what": "Look with a magnifying glass. Say what you think, what you saw and why. Throw the closed boxes away."
+     "mins": 12,
+     "what": "Look, then compare the three boxes. Say what you think, what you saw and why. Throw boxes A and C away. Keep box B closed for Mould Up Close."
     }
    ],
-   "record": "Fill in the table every day. On day 7, draw piece B as you see it under the magnifying glass.",
+   "record": "Fill in the table every day from day 2 to day 7.",
    "flow": [
     {
      "id": "s1",
@@ -659,12 +719,12 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "1. Put piece A on a dry tawa on the lowest flame. 2. Warm it, turning it, until it is crisp and snaps like a papad. 3. Let it cool.",
+     "mins": 8,
+     "do": "1. A grown-up puts piece A on a dry tawa on the lowest flame. 2. Turn it until it is crisp and snaps like a papad, about 5 minutes. 3. Switch off the flame. Put piece A back on the plate and let it cool for 10 minutes.",
      "say": "Piece A will be our dry piece. We take the water out of it on the tawa.",
-     "kid": "A grown-up crisps piece A on the tawa. Wait for it to cool.",
+     "kid": "A grown-up crisps piece A on the tawa. Then it cools on the plate.",
      "adult": true,
-     "parent": "This takes about 5 minutes on a low flame. If you prefer, dry piece A in strong sun on a windowsill for a day instead. Don't crisp it until black. You only want it dry and hard. Spores from the room will land on it again while it cools on the plate."
+     "parent": "Don't crisp it until black. You only want it dry and hard. The heat also kills the spores on piece A, so it must cool on the plate in the room air. New spores from the room then land on it, as on B and C."
     },
     {
      "id": "s3",
@@ -694,19 +754,19 @@
     },
     {
      "id": "s5",
-     "mins": 7,
-     "do": "Every day for 7 days, look at each box without opening it. Write down what you see: no change, white fuzz, or coloured patches.",
+     "mins": 12,
+     "do": "Every day from day 2 to day 7, look at each box without opening it. Write down what you see: no change, white fuzz, or coloured patches.",
      "say": "Let's check our boxes. Don't open them. What do you see on each piece today?",
      "kid": "Look at each box. Don't open it! Write what you see. No change, white fuzz, or colours?",
-     "wait": "Check once a day for 7 days.",
-     "parent": "In a warm Indian kitchen, piece B usually shows white fuzz in 2 to 4 days, then black, green or blue patches. Piece A usually stays clean all week. Piece C may stay clean, or show a little mould late in the week. If piece B shows nothing by day 5, the kitchen may be cool. Move both A and B to a warmer spot and keep checking."
+     "wait": "Check once a day, from day 2 to day 7.",
+     "parent": "In a warm kitchen, piece B usually shows white fuzz in 2 to 4 days, then black, green or blue patches. In cool or dry weather it can take up to a week. Piece A usually stays clean. In a very humid kitchen it may get a little fuzz late, much less than B. Piece C may stay clean, or show a little mould late in the week. If B shows nothing by day 7, write that down. It is a real result, and the test did not work this time. A chapati with ghee or a very dry kitchen can do this. Try again with a fresh chapati."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "On the last day, look at piece B with a magnifying glass, through the closed box.",
-     "say": "Let's look closely at the mould on piece B. What is the fuzz made of?",
-     "kid": "Look at piece B with a magnifying glass. Keep the lid on. What do you see?",
+     "do": "On the last day, put the three boxes side by side and compare them. Keep the lids on.",
+     "say": "Which box has the most mould? Which has none? What is the same about all three?",
+     "kid": "Put the boxes side by side. Keep the lids on. Which has the most mould? Which has none?",
      "check": {
       "t": "mcq",
       "q": "All three pieces sat in the same air. Why did mould grow on piece B and not on piece A?",
@@ -725,15 +785,16 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a mould needs water and warmth to eat a chapati. What I saw: the damp piece in the kitchen grew fuzz on day 3. The dry piece stayed clean all week. The damp piece in the fridge grew a little, late. Why: moulds digest food in water, and cold slows them down."
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. Your results may differ. What I think: a mould needs water and warmth to eat a chapati. What I saw: the damp piece in the kitchen grew fuzz on day 3. The dry piece stayed clean all week. The damp piece in the fridge grew a little, late. Why: moulds digest food in water, and cold slows them down."
     },
     {
      "id": "s8",
      "mins": 2,
-     "do": "Put all three closed boxes straight in the dustbin. To use a box again, a grown-up empties it outdoors and washes it with soap.",
-     "say": "Mould spores can make some people sneeze or wheeze. So we never open the box near our faces.",
-     "kid": "Don't open the box. A grown-up throws it away or washes it.",
-     "adult": true
+     "do": "Put boxes A and C, still closed, in the dustbin. Keep box B closed for the next activity, Mould Up Close. Put it in the dustbin when that is done.",
+     "say": "Mould spores can make some people sneeze or wheeze. So we never open a box near our faces.",
+     "kid": "Don't open the boxes. A grown-up throws them away.",
+     "adult": true,
+     "parent": "If you used jars and want to keep them, a grown-up tips the contents into a dustbin bag without sniffing, and washes the jar with soap."
     }
    ],
    "context": "In this test you find out what a mould needs to grow on food. Three pieces of one chapati are kept dry, damp and warm, or damp and cold.",
@@ -795,7 +856,7 @@
   {
    "id": "e2",
    "title": "The Pickle Test: does salt keep mould away?",
-   "mins": 35,
+   "mins": 28,
    "days": 6,
    "question": "Will cucumber slices covered in salt grow mould as fast as plain slices?",
    "predict": "Guess first. Which box will rot first: the plain slices or the salted slices? Why do you think so?",
@@ -828,36 +889,36 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 13,
      "what": "Cut the slices. Set up a plain box and a salt box. Write your guess."
     },
     {
      "day": 2,
-     "mins": 3,
-     "what": "Look at both boxes and write what you see."
+     "mins": 2,
+     "what": "Look at both boxes without opening them. Write what you see."
     },
     {
      "day": 3,
-     "mins": 3,
+     "mins": 2,
      "what": "Look and write."
     },
     {
      "day": 4,
-     "mins": 3,
+     "mins": 2,
      "what": "Look and write."
     },
     {
      "day": 5,
-     "mins": 3,
+     "mins": 2,
      "what": "Look and write."
     },
     {
      "day": 6,
-     "mins": 8,
-     "what": "Look, then say what you think, what you saw and why."
+     "mins": 7,
+     "what": "Look, then say what you think, what you saw and why. Throw both closed boxes away."
     }
    ],
-   "record": "Fill in the table each day. Draw both boxes on the last day.",
+   "record": "Fill in the table each day from day 2 to day 6. Draw both boxes on the last day.",
    "flow": [
     {
      "id": "s1",
@@ -894,17 +955,17 @@
     },
     {
      "id": "s4",
-     "mins": 6,
-     "do": "Every day for 6 days, look at both boxes without opening them. Write down what you see.",
+     "mins": 10,
+     "do": "Every day from day 2 to day 6, look at both boxes without opening them. Write down what you see.",
      "say": "What has happened in each box today? Look for water, colour, softness and fuzz.",
      "kid": "Look at both boxes. Don't open them. What has changed?",
-     "wait": "Check once a day for 6 days.",
-     "parent": "Within a day, the salt box fills with liquid. The salt pulls water out of the cucumber, and the slices go limp. That water is held by the salt, so moulds cannot use it. The plain slices usually go slimy or grow fuzz in 3 to 6 days. The salted ones stay free of mould."
+     "wait": "Check once a day, from day 2 to day 6.",
+     "parent": "Within a day, the salt box fills with liquid. The salt pulls water out of the cucumber, and the slices go limp. The salt holds that water, so moulds cannot use it. The plain slices usually go soft and slimy in 3 to 6 days, and may grow fuzz. Slimy and soft counts as rotting too. The salted ones stay free of mould. If both boxes look the same by day 6, write that down as your result."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then put both closed boxes in the dustbin.",
      "say": "What do you think now? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "check": {
@@ -966,11 +1027,11 @@
   {
    "id": "e3",
    "title": "Balloon Bottle: do rotting peels give off a gas?",
-   "mins": 30,
+   "mins": 23,
    "days": 4,
    "question": "Do decomposers feeding on fruit peels give off a gas?",
    "predict": "Guess first. Will the balloon on the peel bottle grow, stay flat, or shrink? What about the bottle with only water? Why do you think so?",
-   "fair_test": "Two bottles of the same size, with the same water and the same kind of balloon, in the same place. Only the peels are different.",
+   "fair_test": "Two bottles of the same size, with the same water and the same kind of balloon, in the same place. Only the peels and banana are different.",
    "results_table": [
     "Day",
     "Peel bottle balloon",
@@ -995,26 +1056,25 @@
      "qty": 1
     }
    ],
-   "safety": "Don't sniff the bottle when you open it. A grown-up takes the balloon off outdoors.",
    "schedule": [
     {
      "day": 1,
-     "mins": 12,
+     "mins": 10,
      "what": "Fill both bottles and put on the balloons. Write your guess."
     },
     {
      "day": 2,
-     "mins": 3,
+     "mins": 2,
      "what": "Look at both balloons and write."
     },
     {
      "day": 3,
-     "mins": 3,
+     "mins": 2,
      "what": "Look and write."
     },
     {
      "day": 4,
-     "mins": 12,
+     "mins": 9,
      "what": "Look, then say what you think, what you saw and why. Empty the bottles."
     }
    ],
@@ -1048,12 +1108,12 @@
     },
     {
      "id": "s3",
-     "mins": 5,
-     "do": "Check the balloons every day for 4 days. Write down whether each one is flat, standing up a little, or round.",
+     "mins": 6,
+     "do": "Check the balloons every day from day 2 to day 4. Write down whether each one is flat, standing up a little, or round.",
      "say": "What are the balloons doing today?",
      "kid": "Look at both balloons. Flat, standing up, or round?",
-     "wait": "Check once a day for 4 days.",
-     "parent": "In a warm room, the peel balloon usually starts to stand up within 1 to 3 days. Yeasts and bacteria on the peels eat the sugar and breathe out carbon dioxide gas. The water-only balloon stays flat. If nothing happens by day 4, move both bottles somewhere warmer."
+     "wait": "Check once a day, from day 2 to day 4.",
+     "parent": "In a warm room, the peel balloon usually starts to stand up within 1 to 3 days. Yeasts and bacteria on the peels eat the sugar and breathe out carbon dioxide gas. The water-only balloon stays flat. This test does not work every time. In a cool room the balloon may stay flat or only lift a little. If so, write that down honestly, and try again somewhere warmer."
     },
     {
      "id": "s4",
@@ -1076,9 +1136,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "A grown-up takes the balloon off outdoors and tips the peels into a compost pot or the wet-waste bin.",
-     "say": "The peels can go on rotting in the compost. Let's not sniff it. It smells sour.",
-     "kid": "A grown-up empties the bottle outside.",
+     "do": "A grown-up takes the balloons off and tips the peels into the wet-waste bin.",
+     "say": "The peels can go on rotting in the bin. Let's not sniff the bottle. It smells sour.",
+     "kid": "A grown-up empties the bottles.",
      "adult": true
     }
    ],
@@ -1142,7 +1202,7 @@
      "qty": 1
     }
    ],
-   "safety": "Look, but don't touch any mould, and don't put your nose close to it. Wash your hands afterwards.",
+   "safety": "Look, but don't touch any mould, and don't put your nose close to the mould. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1168,7 +1228,7 @@
      "kid": "Draw two things you found. Who do you think is eating them?",
      "ask": [
       {
-       "q": "Who is making this tomato go soft?",
+       "q": "Who is making this food go soft or fuzzy?",
        "good": [
         "Mould and bacteria.",
         "Tiny living things.",
@@ -1235,13 +1295,14 @@
      "do": "Hold the magnifying glass close to the closed box over the mould patch. Move it slowly until the fuzz looks sharp.",
      "say": "What is the fuzz made of? Look at the edge of the patch, where it is spreading.",
      "kid": "Look at the mould through the magnifying glass. What is the fuzz made of?",
-     "context": "In this activity you look closely at the mould from the chapati test, without opening the box."
+     "context": "In this activity you look closely at the mould from the chapati test, without opening the box.",
+     "parent": "Use box B from the chapati test. If it grew no mould, look at a mouldy lemon or onion with the magnifying glass instead, and ask a grown-up to hold it for you."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Draw what you see. Label the threads and the dots.",
-     "say": "The threads are hyphae. The dots on top are cases full of spores. Draw both.",
+     "say": "The threads are called hyphae. The dots on top are cases full of spores. If your dots are black, green or blue, they are those cases. Draw both.",
      "kid": "Draw the threads. Draw the dots. The dots are full of spores.",
      "check": {
       "t": "mcq",
@@ -1279,7 +1340,7 @@
      "qty": 1
     },
     {
-     "item": "a grandparent or another grown-up to talk to, in person or on the phone",
+     "item": "an older relative, a neighbour or another grown-up to talk to, in person or on the phone",
      "qty": 1
     },
     {
@@ -1287,12 +1348,11 @@
      "qty": 1
     }
    ],
-   "safety": "",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Find 5 foods that keep for a long time. Ask a grandparent how they kept food when they were young."
+     "what": "Find 5 foods that keep for a long time. Ask an older relative how they kept food when they were young."
     }
    ],
    "record": "A table with three columns: the food, how it is kept, and what it takes away from the decomposers.",
@@ -1300,7 +1360,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "Find 5 foods in the kitchen that keep for months. Look for pickle, vadam, appalam, dried chillies, rice or sugar.",
+     "do": "Find 5 foods in the kitchen that keep for months. Look for pickle, vadam, papad, dried fish, dried chillies, rice or sugar.",
      "say": "Let's find foods that can sit on the shelf for months without rotting. How is each one kept?",
      "kid": "Find 5 foods that keep for months. How is each one kept?",
      "context": "In this activity you find out how your family keeps food from rotting, and why each way works."
@@ -1308,28 +1368,18 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Phone or visit a grandparent or older relative. Ask how they kept food before there were fridges.",
-     "say": "Let's ask Ammamma how food was kept when she was little.",
-     "kid": "Ask a grandparent: how did you keep food without a fridge?",
-     "parent": "Common answers: drying in the sun, salting, pickling, keeping curd in a cool clay pot, boiling milk twice a day, cooking food fresh for each meal."
+     "do": "Phone or visit an older relative or neighbour. Ask how they kept food before there were fridges.",
+     "say": "Let's ask someone older how food was kept when they were little.",
+     "kid": "Ask an older person: how did you keep food without a fridge?",
+     "parent": "Common answers: drying in the sun, salting, pickling, keeping curd in a cool clay pot, boiling milk twice a day, cooking food fresh for each meal.",
+     "context": "In this step you ask an older person how food was kept before fridges."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "For each food, write what it takes away from the decomposers: water, warmth or air.",
      "say": "Drying takes away water. What does salt do? What does the fridge do?",
-     "kid": "For each food, write: no water, no warmth or no air.",
-     "check": {
-      "t": "mcq",
-      "q": "How does salt keep maavadu, the tender mango pickle, from rotting for months?",
-      "options": [
-       "Salt pulls water out of the mango and holds it, so decomposers cannot use it",
-       "Salt makes the mango too hot",
-       "Salt keeps air away"
-      ],
-      "a": 0,
-      "why": "Salt draws water out of food and holds it. Decomposers cannot take in water that salty. It is the same thing you saw in the Pickle Test."
-     }
+     "kid": "For each food, write: no water, no warmth or no air."
     }
    ],
    "context": "This is a family interview and kitchen search about keeping food without rotting.",
@@ -1339,8 +1389,8 @@
      "caption": "1. Find 5 foods that keep for months."
     },
     {
-     "art": "A child on the phone with a grandmother, a notebook open on the table.",
-     "caption": "2. Ask a grandparent how they kept food."
+     "art": "A child on the phone with an older relative, a notebook open on the table.",
+     "caption": "2. Ask an older relative how they kept food."
     }
    ]
   },
@@ -1357,9 +1407,12 @@
     {
      "item": "paper labels: leaf, millipede, earthworm, fungus, bacteria, plant",
      "qty": 6
+    },
+    {
+     "item": "a sheet of paper drawn as a tree, and tape or a glue stick",
+     "qty": 1
     }
    ],
-   "safety": "Clear a space so nobody trips.",
    "schedule": [
     {
      "day": 1,
@@ -1383,7 +1436,7 @@
      "do": "1. The leaf falls. 2. The millipede tears the newspaper into big pieces. 3. The earthworm pulls pieces into a pretend burrow under a chair. 4. The fungus and bacteria tear the pieces into tiny bits. 5. The plant picks up the tiny bits and sticks them on a paper tree as new leaves.",
      "say": "First the leaf falls. Who comes next? Why do the bits need to get smaller and smaller?",
      "kid": "Act out your part. Tear the leaf smaller and smaller. Then the plant uses the bits!",
-     "parent": "Point out that each step makes the pieces smaller. Small pieces have more surface for fungi and bacteria to feed on."
+     "parent": "Point out that each step makes the pieces smaller. Small pieces have more surface for fungi and bacteria to feed on. Tearing is only our model. Fungi and bacteria really break food down with chemicals called enzymes."
     },
     {
      "id": "s3",
@@ -1431,7 +1484,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Go with a grown-up. Wash your hands afterwards. If you pick up a worm, keep your hands wet and put them back on damp soil quickly.",
+   "safety": "Go with a grown-up. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1515,20 +1568,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Show the explanation card's picture of the mycelium. Ask your child to draw it again.",
+     "do": "Show the picture on the word card 'Mycelium'. Ask your child to draw the mushroom again, with the threads.",
      "say": "The mushroom is only a small part. Most of the fungus is a web of threads under the ground. Let's draw it again.",
-     "kid": "The mushroom is just a small part. Draw the web of threads underneath.",
-     "check": {
-      "t": "mcq",
-      "q": "What is the main body of a mushroom fungus?",
-      "options": [
-       "The web of threads in the soil, called the mycelium",
-       "The cap",
-       "The stalk"
-      ],
-      "a": 0,
-      "why": "The cap and stalk grow up for a few days to drop spores. The mycelium lives in the soil or wood for months or years, feeding all the time."
-     }
+     "kid": "The mushroom is just a small part. Draw the web of threads underneath."
     }
    ],
    "context": "This is a drawing activity about the part of a fungus you cannot see.",
@@ -1568,7 +1610,7 @@
      "qty": 1
     },
     {
-     "item": "a plate to stand the bottle on, a cloth to cover the top, and a ruler",
+     "item": "a plate to stand the bottle on, a cloth to cover the top, a marker and a ruler",
      "qty": 1
     }
    ],
@@ -1596,13 +1638,18 @@
     },
     {
      "day": 28,
-     "mins": 10,
+     "mins": 5,
      "what": "Look closely at what is left of the peels. Measure."
+    },
+    {
+     "day": 35,
+     "mins": 5,
+     "what": "Look, water if dry, measure."
     },
     {
      "day": 42,
      "mins": 15,
-     "what": "Tip out the compost, look at it, and add it to a plant pot."
+     "what": "Measure, tip out the compost, look at it, and add it to a plant pot."
     }
    ],
    "record": "Each week, write the date, the height of the pile, and a sentence about what you see.",
@@ -1619,17 +1666,17 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "Each week, look through the side. Measure the height of the pile. Add a spoon of water if it looks dry.",
+     "mins": 25,
+     "do": "Each week, on days 7, 14, 21, 28 and 35, look through the side. Measure the height of the pile. Add a spoon of water if it looks dry.",
      "say": "Has the pile sunk? Can you still see the peels? Do you see white threads?",
      "kid": "Look through the bottle. Measure the pile. Is it lower? Can you see white threads?",
-     "wait": "Come back every week for six weeks.",
+     "wait": "Come back every week until day 42.",
      "parent": "You will usually see white fungus threads in the first week or two, and the peels going brown and soft. The pile sinks as the peels are eaten. If it smells bad, mix in more dry leaves or paper."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "On the last day, tip the compost onto newspaper. Look for any pieces of peel that are left. Then add the compost to a plant pot.",
+     "do": "On day 42, measure the pile. Then tip the compost onto newspaper and look for any pieces of peel that are left. Then add the compost to a plant pot.",
      "say": "Where did most of the peels go? Is anything left?",
      "kid": "Tip out the compost. What is left of the peels? Give it to a plant.",
      "check": {
@@ -1705,7 +1752,8 @@
      "mins": 10,
      "do": "Draw three ideas together.",
      "say": "Let's draw three ideas for a compost pot. How does air get in? Where does extra water go?",
-     "kid": "Draw three ideas. Show how air gets in. Show where water goes."
+     "kid": "Draw three ideas. Show how air gets in. Show where water goes.",
+     "context": "In this step you draw three ideas for a balcony compost pot."
     },
     {
      "id": "s3",
@@ -1713,7 +1761,8 @@
      "do": "Choose the best idea and make a model, or the real pot if a grown-up agrees.",
      "say": "Which idea is best? Let's build it.",
      "kid": "Pick your best idea. Build it with a grown-up.",
-     "adult": true
+     "adult": true,
+     "context": "In this step you choose your best compost pot idea and build it."
     }
    ],
    "context": "This is a design challenge: a compost pot for a city flat.",
@@ -1767,7 +1816,8 @@
      "mins": 10,
      "do": "Pick an idea and set it up. Put one tomato in a closed plastic bag as the comparison.",
      "say": "Let's test our idea against a tomato in a bag. Which will last longer?",
-     "kid": "Set up your idea. Put another tomato in a bag to compare."
+     "kid": "Set up your idea. Put another tomato in a bag to compare.",
+     "context": "This step sets up the tomato test. One tomato gets your idea, and one sits in a closed plastic bag."
     },
     {
      "id": "s3",
@@ -1775,7 +1825,8 @@
      "do": "Check both tomatoes each day for a week.",
      "say": "Which tomato is still firm?",
      "kid": "Check both tomatoes every day. Which is still firm?",
-     "wait": "Check once a day for a week."
+     "wait": "Check once a day for a week.",
+     "context": "This step checks the two tomatoes from the tomato challenge each day."
     }
    ],
    "context": "This is a challenge to slow down decomposers using old kitchen ways.",
@@ -1798,7 +1849,7 @@
    "youtube": "uB61rfeeAsM",
    "mins": 4,
    "why": "A short, clear introduction to decomposers and what they do for soil, for children.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The Dirt on Decomposers: Crash Course Kids #7.2', channel Crash Course Kids). Not watched from here: a parent should preview it and check its length."
+   "check": "Preview it first and check its length before showing your child."
   },
   {
    "title": "Bread Mold - 4K Timelapse - 8 Days",
@@ -1806,7 +1857,7 @@
    "youtube": "vPf7Yl99AMo",
    "mins": 2,
    "why": "Eight days of mould growing on bread, sped up. Watch it after the chapati test to see the threads spread and the coloured spores appear.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Bread Mold - 4K Timelapse - 8 Days', channel 360 Timelapse). Not watched from here: a parent should preview it and check its length."
+   "check": "Preview it first and check its length before showing your child."
   },
   {
    "title": "Darwin's Unexpected Final Obsession",
@@ -1814,7 +1865,7 @@
    "youtube": "hEkbSV8aYrs",
    "mins": 12,
    "why": "For the parent and curious older children: the story of Charles Darwin's last book, about earthworms and how they make soil.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Darwin's Unexpected Final Obsession', channel PBS Eons). Not watched from here: a parent should preview it and check its length."
+   "check": "Preview it first and check its length before showing your child."
   }
  ],
  "quiz": [
@@ -1833,28 +1884,15 @@
   },
   {
    "t": "mcq",
-   "p": "Meena leaves a damp chapati in a closed box on the kitchen shelf. After 4 days it has fuzzy patches. Where did the mould come from?",
+   "p": "Meena, a girl in Class 3, leaves a damp chapati in a closed box on the kitchen shelf. After 4 days it has fuzzy patches. Where did the mould come from?",
    "opts": [
     "From spores in the air that landed on the chapati",
-    "The chapati turned into mould by itself",
+    "The chapati was already full of mould inside",
     "From the box's plastic"
    ],
    "a": 0,
-   "why": "Spores float in the air everywhere. Some landed on the chapati before the lid was shut, and grew on the damp food. People once thought mould came from the food itself, but Micheli showed in 1729 that mould grows from spores.",
+   "why": "Spores float in the air everywhere. Some landed on the chapati before the lid was shut, and grew on the damp food. People once thought mould was made inside the food, but Micheli showed in 1729 that mould grows from spores.",
    "outcome": 1,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "In the chapati test, the dry piece stayed clean all week. Why?",
-   "opts": [
-    "No spores landed on it",
-    "A mould needs water to digest food",
-    "Dry food is poisonous to moulds"
-   ],
-   "a": 1,
-   "why": "Spores landed on all three pieces, in the same air. A mould digests food outside their body and soaks it up in water. With no water, the spores on the dry piece could not grow.",
-   "outcome": 2,
    "how": "e1"
   },
   {
@@ -1884,7 +1922,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi's grandmother keeps tender mangoes in lots of salt to make maavadu. Why does it not rot for months?",
+   "p": "Lakshmi, a girl in Class 4, helps her family keep tender mangoes in lots of salt to make maavadu. Why does it not rot for months?",
    "opts": [
     "Salt holds the water, so decomposers cannot use it",
     "Salt makes the mangoes hot",
@@ -1912,7 +1950,7 @@
    "p": "Why do earthworms stay under the soil on sunny days?",
    "opts": [
     "They breathe through their damp skin, and the sun would dry it out",
-    "They are scared of birds' songs",
+    "They only eat at night",
     "The soil is warmer than the air"
    ],
    "a": 0,
@@ -1958,14 +1996,14 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan finds a lemon with a green fuzzy patch in the fruit basket. What should he do?",
+   "p": "Farhan, a boy in Class 3, finds a lemon with a green fuzzy patch in the fruit basket. What should he do?",
    "opts": [
     "Smell it closely to check",
     "Tell a grown-up, and put it in the wet-waste bin without sniffing it",
     "Scrape the fuzz off with his fingers"
    ],
    "a": 1,
-   "why": "Mould spores can make people sneeze or wheeze, so we don't sniff mould or touch it with bare hands. A grown-up puts it in the bin, and everyone washes their hands.",
+   "why": "Mould spores can make people sneeze or wheeze, so we don't sniff mould or touch mould with bare hands. A grown-up puts it in the bin, and everyone washes their hands.",
    "outcome": 6
   }
  ],
@@ -1997,7 +2035,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Mould comes out of the food by itself.",
+     "p": "Mould appears on food even when no spores land on it.",
      "a": false,
      "why": "False. Mould grows from spores that float in the air and land on food."
     },
@@ -2018,16 +2056,11 @@
      "why": "Say it 'HY-fee'. The fuzz of a mould is a tangle of hyphae."
     },
     {
-     "t": "mcq",
-     "p": "Kavya puts a dry chapati piece and a damp chapati piece in two closed boxes on the same shelf. Which one grows mould?",
-     "opts": [
-      "The dry piece",
-      "The damp piece",
-      "Both, at the same speed"
-     ],
-     "a": 1,
-     "why": "A mould needs water to digest food. The damp piece grows mould and the dry piece stays clean.",
-     "how": "e1"
+     "t": "write",
+     "p": "Every year a big tree drops a mountain of leaves, yet the ground under it is never buried. Explain where the leaves go.",
+     "lines": 3,
+     "a": "Decomposers eat the leaves. Fungi, bacteria and worms break them down into soil, and plants use the nutrients.",
+     "why": "A good answer names decomposers and says the leaves become soil."
     },
     {
      "t": "sort",
@@ -2151,11 +2184,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw what you saw on the damp chapati piece on the last day of the test. Label the threads.",
-     "a": "White fuzzy threads, perhaps with black or green dots on top.",
-     "why": "The threads are hyphae. The dots are spore cases.",
-     "how": "e1",
-     "art": "A blank box outline with a chapati piece inside."
+     "p": "Draw an earthworm in the soil pulling a leaf into a burrow. Label the burrow and a worm cast on the surface.",
+     "a": "A worm in a tunnel under a soil line, a leaf at the burrow mouth, and a small curly heap labelled worm cast on top.",
+     "why": "Worms pull leaves down and leave casts, which are crumbly soil rich in food for plants.",
+     "art": "A soil line with space above and below."
     }
    ]
   },
@@ -2166,22 +2198,17 @@
    "mins": 25,
    "items": [
     {
-     "t": "mcq",
-     "p": "In the Pickle Test, the salted cucumber sat in a puddle of water, but grew no mould. Why?",
-     "opts": [
-      "The salt held the water, so moulds could not use it",
-      "The water washed the spores away",
-      "Salt is food for moulds"
-     ],
-     "a": 0,
-     "why": "Salt pulls water out of food and holds it. Moulds cannot take in water that salty.",
-     "how": "e2"
+     "t": "write",
+     "p": "Rani, a girl in Class 4, puts cut papaya in a box and shuts the lid. She says the lid will stop it rotting. Is she right? Explain.",
+     "lines": 3,
+     "a": "Not really. Spores had already landed on the papaya. The papaya is wet and sweet, and the closed box keeps it warm and damp, so mould can still grow.",
+     "why": "A good answer says a lid does not take away water or warmth, and spores are already on the food."
     },
     {
      "t": "mcq",
      "p": "Why does boiled milk keep longer than unboiled milk?",
      "opts": [
-      "Boiling kills many of the bacteria in it",
+      "Boiling kills many of the bacteria in the milk",
       "Boiling makes the milk drier",
       "Boiling adds salt"
      ],
@@ -2213,15 +2240,26 @@
      "why": "A good answer says that decomposers need water."
     },
     {
-     "t": "mcq",
-     "p": "Which way of keeping food takes away water?",
-     "opts": [
-      "Sun-drying",
-      "Putting it in the fridge",
-      "Keeping it in a closed jar"
+     "t": "perspective",
+     "p": "A block of flats has a compost yard for wet waste, behind the building.",
+     "views": [
+      {
+       "who": "Mrs Nair, a resident",
+       "says": "The compost yard smells and brings flies. Send the wet waste away on the lorry."
+      },
+      {
+       "who": "Mr Hussain, the gardener",
+       "says": "The compost gives free soil for the building's plants. Sending waste away on a lorry wastes it."
+      },
+      {
+       "who": "Kiran, aged 9",
+       "says": "Compost smells only when the heap is too wet. We can cover each layer with dry leaves."
+      }
      ],
-     "a": 0,
-     "why": "Drying in the sun takes the water out. A fridge slows decomposers with cold, and a closed jar keeps out new spores."
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses a fact: compost smells when it is too wet and has no air, and dry leaves fix that. It then gives another side its due, such as that a badly kept heap really can smell and attract flies.",
+     "why": "There is a real trade-off. Compost gives soil back, but a heap that is too wet smells and brings flies."
     },
     {
      "t": "fill",
@@ -2229,7 +2267,7 @@
      "a": [
       "enzymes"
      ],
-     "why": "Enzymes break food into tiny pieces that dissolve in water. The fungus then soaks it up."
+     "why": "Enzymes break food into tiny pieces that dissolve in water. The fungus then soaks up the dissolved food."
     },
     {
      "t": "mcq",
@@ -2338,7 +2376,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Priya says, 'Food rots because it gets old.' Use the chapati test to explain why she is not quite right.",
+     "p": "Rupa, a girl in Class 4, says, 'Food rots because it gets old.' Use the chapati test to explain why she is not quite right.",
      "lines": 3,
      "a": "The dry piece got just as old as the damp piece, but it did not rot. Food rots when decomposers can feed on it, and they need water.",
      "why": "A good answer uses the dry piece as evidence.",
@@ -2346,14 +2384,14 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali wants to test whether air matters for mould. Which test is fair?",
+     "p": "Hamida, a girl in Class 4, wants to find out whether a closed lid changes how fast mould grows. Which test is fair?",
      "opts": [
-      "Two damp chapati pieces, one in a jar with air and one in a jar filled to the top with water, on the same shelf",
+      "Two damp pieces of the same chapati, in the same kind of box on the same shelf, one box with the lid on and one with the lid off",
       "One dry piece in the sun and one damp piece in the fridge",
       "One piece of chapati and one piece of bread"
      ],
      "a": 0,
-     "why": "A fair test changes only one thing. The first test changes only the air. The others change several things at once."
+     "why": "A fair test changes only one thing. The first test changes only the lid. The others change several things at once."
     },
     {
      "t": "write",
@@ -2398,22 +2436,50 @@
      "why": "True. Many trees and plants have fungus partners on their roots. Exactly how much the trees share through them is debated."
     },
     {
-     "t": "write",
-     "p": "The mushroom you see lasts only a few days. Why does the fungus not die when the mushroom goes?",
-     "lines": 2,
-     "a": "The main body of the fungus is the mycelium in the soil. It goes on living and feeding.",
-     "why": "The mushroom is only the part that drops spores."
+     "t": "perspective",
+     "p": "After the rice harvest, a farmer must clear her field before the next crop.",
+     "views": [
+      {
+       "who": "The farmer",
+       "says": "I burn the stubble. It clears the field in an hour, and I have only two weeks before I sow."
+      },
+      {
+       "who": "Her neighbour, a soil scientist",
+       "says": "Burning kills the decomposers near the surface and lets the nutrients go up as smoke. Leave the stubble to rot."
+      },
+      {
+       "who": "A nurse in the village",
+       "says": "The smoke makes children cough. Please do not burn."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason from this unit. Then say what another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses a fact: stubble left in the field is eaten by decomposers and returns nutrients to the soil, but rotting takes weeks and the farmer has little time. It then gives another side its due.",
+     "why": "This is a real trade-off between time, the soil and the village's health. Decomposers need weeks, and many farmers need a fast way to clear the field."
     },
     {
-     "t": "mcq",
-     "p": "Penicillin, a medicine that kills bacteria, was first found in which living thing?",
-     "opts": [
-      "A mould",
-      "An earthworm",
-      "A neem tree"
+     "t": "match",
+     "p": "Match each scientist to what they found out.",
+     "pairs": [
+      [
+       "Charles Darwin",
+       "Earthworms slowly build up the topsoil"
+      ],
+      [
+       "Pier Antonio Micheli",
+       "Mould grows from spores"
+      ],
+      [
+       "Alexander Fleming",
+       "A Penicillium mould stopped bacteria from growing around the mould"
+      ],
+      [
+       "Suzanne Simard",
+       "Carbon seems to pass between trees through fungus threads, but this is debated"
+      ]
      ],
-     "a": 0,
-     "why": "In 1928, Alexander Fleming saw that a Penicillium mould stopped bacteria growing near it. Moulds and bacteria compete for the same food."
+     "a": "pairs as given",
+     "why": "Each of them used careful watching and testing to find out how decomposers work."
     },
     {
      "t": "write",
@@ -2436,10 +2502,10 @@
     },
     {
      "t": "write",
-     "p": "A dry moong seed and a dry chapati both wait for months. What does water do to each of them?",
+     "p": "Tomato halves are put in two jars. Jar 1 was boiled and then sealed straight away. Jar 2 is left open. Which tomato will rot first, and what does this show about where mould comes from?",
      "lines": 3,
-     "a": "Water wakes the seed, and they sprout. Water lets the mould on the chapati feed, and it rots.",
-     "why": "In both cases, water lets living things grow."
+     "a": "The tomato in the open jar rots first. The boiled, sealed jar keeps spores out, so no mould grows. This shows that mould grows from spores that arrive from the air.",
+     "why": "A good answer links the sealed jar to the missing spores."
     },
     {
      "t": "mcq",
@@ -2473,7 +2539,7 @@
   "Vermicompost, made by earthworms, is used on farms across India. Sultan Ahmed Ismail, a soil scientist in Chennai, spent years teaching farmers to make it with Indian earthworms.",
   "Biogas plants use bacteria to turn cow dung and food waste into gas for cooking.",
   "Food preserving: drying, salting, pickling, boiling and cooling all work by slowing decomposers.",
-  "Sewage treatment plants use bacteria to clean dirty water before it goes back to rivers.",
+  "Sewage treatment plants use bacteria to clean dirty water before the water goes back to rivers.",
   "Penicillin, the first antibiotic medicine, came from a mould.",
   "Farmers leave crop stubble and leaves in fields so decomposers can return nutrients to the soil, instead of burning them.",
   "Curd, idli batter and bread are made with the help of bacteria and yeast, close relatives of the decomposers."
@@ -2546,16 +2612,8 @@
    "a": "Because he was a fun-gi."
   },
   {
-   "j": "What did the earthworm say when he was late?",
-   "a": "Sorry, I was stuck in traffic. It was a bit of a soil jam."
-  },
-  {
    "j": "Why was the mould so good at making friends?",
    "a": "They just spread out and met everyone."
-  },
-  {
-   "j": "What do you call a lazy compost heap?",
-   "a": "A rot-ten worker."
   },
   {
    "j": "Why did the banana peel go to the compost pot?",
@@ -2568,10 +2626,6 @@
   {
    "j": "What did the dry chapati say to the mould?",
    "a": "Sorry, I'm not your type. Come back when I'm damp."
-  },
-  {
-   "j": "Why did the mushroom stand under the umbrella?",
-   "a": "He didn't need to. Mushrooms love the rain."
   },
   {
    "j": "What is a worm's favourite subject?",
@@ -2592,23 +2646,11 @@
   {
    "j": "What do you call a worm in a fur coat?",
    "a": "A caterpillar."
-  },
-  {
-   "j": "Why did the leaf wait all summer?",
-   "a": "She was waiting for the rain to get eaten."
-  },
-  {
-   "j": "What did the bacteria say to the tomato?",
-   "a": "You look a bit soft today."
-  },
-  {
-   "j": "Why are worms good at maths?",
-   "a": "They know how to break things down."
   }
  ],
  "maths": [
   {
-   "problem": "In the chapati test, Meera counted the mould spots on the damp piece. On day 3 there were 2 spots. On day 5 there were 8 spots. How many times as many spots were there on day 5?",
+   "problem": "In the chapati test, Meera, a girl in Class 3, counted the mould spots on the damp piece. On day 3 there were 2 spots. On day 5 there were 8 spots. How many times as many spots were there on day 5?",
    "answer": "4 times as many.",
    "explain": "On day 3 there were 2 spots. On day 5 there were 8. 8 divided by 2 is 4. So there were 4 times as many spots after just two more days.",
    "math_unit": "math.division.division-facts.L3",
@@ -2632,10 +2674,10 @@
      }
     ]
    },
-   "why_maths": "Dividing shows how fast the mould spread, not just that it grew."
+   "why_maths": "Dividing shows how fast the mould spread, not just that mould grew."
   },
   {
-   "problem": "Meera's mould spots went from 2 on day 3 to 8 on day 5. If they keep multiplying by 4 every two days, how many would there be on day 7? Why might the real number be smaller?",
+   "problem": "Meera, a girl in Class 3, counted mould spots on a damp chapati piece. They went from 2 on day 3 to 8 on day 5. If they keep multiplying by 4 every two days, how many would there be on day 7? Why might the real number be smaller?",
    "answer": "32 spots, if the pattern held. The real number is likely to be smaller, because the spots join up into one big patch and the chapati runs out of room and food.",
    "explain": "8 times 4 is 32. But patterns in living things don't go on for ever. The mould runs out of food and space.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2644,16 +2686,16 @@
    "why_maths": "A number pattern helps us predict, and then the science tells us when the pattern must stop."
   },
   {
-   "problem": "Kavya's compost bottle pile was 20 cm high on day 1. On day 28 it was 12 cm high. How many centimetres did it sink? About how high do you think it will be on day 42, and why?",
+   "problem": "Tara, a girl in Class 4, built a compost bottle. Her pile was 20 cm high on day 1. On day 28 it was 12 cm high. How many centimetres did it sink? About how high do you think it will be on day 42, and why?",
    "answer": "It sank 8 cm. On day 42 it might be about 10 or 11 cm, a little lower but not 4 cm lower, because the softest peels are eaten first and the tough bits are slower.",
    "explain": "20 minus 12 is 8. It sank about 2 cm a week. But decomposers finish the soft peels first, so the sinking slows down.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
-   "context": "This is about the Bottle Compost project, where you measured the height of the pile each week.",
+   "context": "This is about the Bottle Compost project, where you measure the height of the pile each week.",
    "how": "p1",
    "why_maths": "Subtracting tells us how much was eaten, and thinking about the pattern helps us predict what comes next."
   },
   {
-   "problem": "Lakshmi started the chapati test on Monday. The first white fuzz appeared on Thursday. How many days did the mould take to show?",
+   "problem": "Lakshmi, a girl in Class 4, started the chapati test on Monday. The first white fuzz appeared on Thursday. How many days did the mould take to show?",
    "answer": "3 days.",
    "explain": "Monday to Tuesday is 1 day, to Wednesday is 2, to Thursday is 3. So the fuzz showed after 3 days.",
    "math_unit": "math.time.calendar.L3",
@@ -2671,7 +2713,7 @@
    "why_maths": "Using clues one at a time, and ruling things out, is how scientists reason from what they see."
   },
   {
-   "problem": "In the Rot Hunt, Divya found 4 rotting things in the fruit basket, 2 in the vegetable tray and 6 in the wet-waste bin. Draw a pictograph with one leaf for every 2 things. How many leaves does each place get?",
+   "problem": "In the Rot Hunt, Divya, a girl in Class 3, found 4 rotting things in the fruit basket, 2 in the vegetable tray and 6 in the wet-waste bin. Draw a pictograph with one leaf for every 2 things. How many leaves does each place get?",
    "answer": "Fruit basket: 2 leaves. Vegetable tray: 1 leaf. Wet-waste bin: 3 leaves.",
    "explain": "One leaf stands for 2 things. 4 divided by 2 is 2. 2 divided by 2 is 1. 6 divided by 2 is 3.",
    "math_unit": "math.data.pictographs.L3",
@@ -2711,27 +2753,19 @@
    "kind": "place",
    "where": "Bengaluru",
    "why": "Old trees, fallen leaves and logs. After the rains, look for mushrooms."
-  },
-  {
-   "title": "A compost yard run by your city or building",
-   "url": "",
-   "kind": "place",
-   "where": "many cities",
-   "why": "See wet waste turning into compost on a big scale. Ask your ward office or building committee whether you can visit."
   }
  ],
  "buy": [
   {
    "id": "b-boxes",
-   "item": "Small clear plastic boxes with lids (3)",
+   "item": "Small clear plastic boxes with lids (5)",
    "kind": "material",
    "why": "You can watch the mould grow without opening the box. Clean jam jars or zip bags work just as well, so check the kitchen first.",
    "url": "https://www.amazon.in/s?k=small+clear+plastic+containers+with+lid",
    "used_in": [
     "e1",
     "e2"
-   ],
-   "plan": "Throw them away after the mould tests, or a grown-up washes them outdoors."
+   ]
   },
   {
    "id": "b-lens",
@@ -2740,12 +2774,10 @@
    "why": "To see the threads and spore cases of mould, and to look at worm casts.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
-    "e1",
     "a1",
     "a2",
     "a5"
-   ],
-   "plan": "Used again in many science units."
+   ]
   },
   {
    "id": "b-balloons",
@@ -2755,19 +2787,7 @@
    "url": "https://www.amazon.in/s?k=balloons",
    "used_in": [
     "e3"
-   ],
-   "plan": "Only needed for the Balloon Bottle test."
-  },
-  {
-   "id": "b-book",
-   "item": "World of Rot, by Britt Crow-Miller",
-   "kind": "book",
-   "why": "A picture-filled book about decomposers for children, for reading together after the unit.",
-   "url": "https://www.amazon.in/s?k=World+of+Rot+Britt+Crow-Miller",
-   "used_in": [
-    "p1"
-   ],
-   "plan": "Read a few pages each week while the Bottle Compost project runs."
+   ]
   }
  ],
  "warmup": [
@@ -2882,7 +2902,7 @@
  "roots": {
   "context": "We have found who the decomposers are, and what they need to eat dead things. Now we ask what rotting tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Both chapati pieces sat in the same air and caught the same mould spores. Only the damp piece grew mould and went soft. A mould digests food outside their body and soaks it up in water. So rotting is something living things do, and a dry leaf waits for the rain to be eaten.",
+   "truth": "A dry and a damp chapati piece sat in the same air and caught the same mould spores. Only the damp piece grew mould and went soft. A mould digests food outside their body and soaks it up in water. So rotting is something living things do, and a dry leaf waits for water to be eaten.",
    "habit": "We say food 'goes bad' or 'spoils', as if time or the food itself did it. That hides the living things who are eating it. A dead leaf is not just falling apart. It is someone's meal, and the meal waits for water.",
    "evidence": "In the chapati test, the dry piece stayed clean all week in the same air as the damp piece. The damp piece in the fridge grew mould only slowly. In the Pickle Test, salted slices with plenty of water around them grew no mould, because the salt held the water."
   },
@@ -2891,7 +2911,7 @@
    "what_is_life": "Every living thing eats, and every living thing is eaten in the end. Decomposers make sure nothing is wasted.",
    "what_is_this_world": "The soil under a forest is mostly made by decomposers, from leaves, wood and animals that lived there before."
   },
-  "thread": "A badam leaf, a worm, a mould and a tulsi plant look like separate lives. But the leaf's material becomes the mould's threads, the worm's casts and the tulsi's new leaves. One store of material keeps passing from body to body. Each body is a short stop on that journey. This is a small picture of the One becoming the many: the same material, taking one shape after another.",
+  "thread": "A badam leaf, a worm, a mould and a tulsi plant look like separate lives. But the leaf's material becomes the mould's threads, the worm's casts and the tulsi's new leaves. The same material passes from body to body, and each body holds it for a while.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
@@ -2931,12 +2951,12 @@
   },
   "ask": [
    "When a leaf becomes soil and the soil becomes part of a tulsi leaf, is it the same leaf or a new one?",
-   "Is a fungus who eats a dead tree ending the tree's life, or carrying it on?",
+   "Is a fungus who eats a dead tree ending the tree's life, or carrying the tree's life on?",
    "The mould spores were on the dry chapati too, waiting. Is a waiting spore alive in the same way a growing mould is?"
   ],
   "art": "A child holding a handful of dark soil above a tulsi pot, with faint shapes of leaves, a worm and mushroom threads drawn inside the soil."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat, with the materials listed. Choices made: a homemade chapati is used instead of shop bread, because many shop breads contain a chemical that slows mould. All three chapati pieces sit in the same air for an hour first, so that the only difference is water or cold. The dry piece is crisped on a tawa or in the sun, because a soft chapati in a closed box can hold enough water to grow mould. Boxes stay closed so nobody breathes the spores. The Pickle Test uses a thick coat of salt, as in a real pickle, so the result is clear. The earthworm walk is outside the spine and marked for families with a garden or park, since worms are not reliably found in a flat.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat, with the materials listed. A homemade chapati is used instead of shop bread, because many shop breads contain a chemical that slows mould. All three chapati pieces sit in the same air for an hour first, and the dried piece cools in the room air so spores land on it again. The dry piece is crisped on a tawa by a grown-up. Boxes stay closed so nobody breathes the spores. The Balloon Bottle test does not work every time, and says so. The earthworm walk is outside the spine and marked for families with a garden or park.",
  "how_we_found_out": {
   "story": "In 1837, Charles Darwin had just come home from five years at sea. He visited his uncle, Josiah Wedgwood, at his farm in England. His uncle showed him something odd. Years before, burnt lime and cinders had been spread on top of some fields. Now they lay in a layer a few centimetres under the grass, as if the ground had grown over them. Most people thought worms were just pests, too small and weak to change a field. Darwin suggested that worms had done it, by swallowing soil below and leaving it on top as casts. Some people laughed. One writer said worms were far too feeble for such work. Darwin kept testing for about 40 years. He kept worms in pots in his study. He collected and weighed their casts. He watched them pull leaves into their burrows, usually by the narrow tip. He even had a piano played to them. They ignored the sound, but felt the shaking when their pot sat on the piano. In 1881 he wrote a whole book about worms. It showed that worms carry many tonnes of soil to the surface of each field every year, and slowly bury stones and old buildings.",
   "who": "Charles Darwin, with his uncle Josiah Wedgwood and his own children, who helped with the worm tests",

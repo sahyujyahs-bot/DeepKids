@@ -613,7 +613,13 @@
       "EXAMPLE: A cotton cloth (Flexible)",
       "WORD: Elastic",
       "TEST: Stretch it, then let go. It springs back.",
-      "EXAMPLE: A rubber band (Elastic)",
+      {
+       "f": "EXAMPLE: A rubber band (Elastic)",
+       "img": {
+        "src": "media/cards/properties-g1-0-11.jpg",
+        "credit": "Fructibus, CC0, via Wikimedia Commons"
+       }
+      },
       "WORD: Brittle",
       "TEST: Bend it too far. It snaps into pieces.",
       "EXAMPLE: A glass bangle (Brittle)",
@@ -787,7 +793,13 @@
       "Wool: hard 1, flexible 5, transparent 0, absorbent 4, strong 2",
       "Newspaper: hard 1, flexible 4, transparent 1, absorbent 4, strong 1",
       "Paper towel: hard 1, flexible 5, transparent 1, absorbent 5, strong 1",
-      "Rubber: hard 1, flexible 5, transparent 0, absorbent 0, strong 3",
+      {
+       "f": "Rubber: hard 1, flexible 5, transparent 0, absorbent 0, strong 3",
+       "img": {
+        "src": "media/cards/properties-g2-0-11.jpg",
+        "credit": "Dean Hochman, CC BY 2.0, via Wikimedia Commons"
+       }
+      },
       "Granite: hard 5, flexible 0, transparent 0, absorbent 0, strong 2",
       "Brick: hard 4, flexible 0, transparent 0, absorbent 3, strong 2",
       "Clay pot: hard 3, flexible 0, transparent 0, absorbent 3, strong 1",

@@ -40,16 +40,16 @@ Look out of any window and you see part of your environment. It is the air you b
 **Definition:** The environment has a living part (plants, animals, fungi, microbes and people) and a non-living, or physical, part (air, water, soil, rocks, light, warmth, and the things people build).
 
 Books split the environment into two parts. The living part is also called the biological environment. It holds every plant, animal, fungus and microbe, and people too. The non-living part is called the physical environment. It holds air, water, soil, rocks, sunlight and warmth. Buildings, roads and fans are non-living too, so they belong to the physical environment. To decide which part something belongs to, ask: does this grow, breathe and make young like itself? A dry seed is tricky. They look lifeless, but they are alive and will sprout when given water.
-- e.g. Living: the money plant, the gecko on the wall, the bacteria in curd, your grandmother.
+- e.g. Living: the money plant, the gecko on the wall, the bacteria in curd, a neighbour.
 - e.g. Non-living: the tap water, the sunlight on the floor, the concrete wall, the ceiling fan.
-- e.g. Tricky: a dry moong seed is alive, though they seem to do nothing. A wooden door was once part of a living tree, but the door is not alive.
+- e.g. Tricky: a dry moong seed is alive, but looks asleep. A wooden door was once part of a living tree, but the door is not alive.
 ### Natural, made by people, or both · *defined*
 **Definition:** Natural things are made by nature. Things made by people are made from natural materials using human skill and work.
 
 A river, a cloud and a coconut are natural. A road, a steel tumbler and a plastic bucket are made by people. But everything people make starts as something natural. Steel is made from iron ore dug out of the ground. Plastic is made mostly from oil or gas from deep under the ground. Paper is made from wood. Many things are a bit of both. Curd is made by people, but microbes do the work. A potted tulsi is a natural plant, placed and cared for by people. Many old lakes in Tamil Nadu and Karnataka, called eri or kere, were dug and banked by people long ago, and now fish and birds live in them.
 - e.g. Natural: a neem tree, rain, a crow, sand.
 - e.g. Made by people: a bus, a steel plate, a nylon rope, a brick.
-- e.g. Both: curd, a mango tree planted by your grandfather, a temple tank full of fish.
+- e.g. Both: curd, a mango tree planted in a park, a temple tank full of fish, a living root bridge in Meghalaya grown by the Khasi people from fig tree roots.
 ### The parts change each other · *defined*
 **Definition:** The living and non-living parts of the environment change each other all the time.
 
@@ -60,7 +60,7 @@ The non-living parts decide who can live where. Moss grows in a damp corner, not
 ### Earth is like a closed box · *defined*
 **Definition:** Earth gets energy from outside, as sunlight, but almost no new water or air. The same water and air are used again and again.
 
-Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid, but gravity holds the air and water close to Earth. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. The oxygen in the air was made by plants, algae and some bacteria, and it is breathed in and given out again and again.
+Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid, but gravity holds the air and water close to Earth. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. Plants, algae and some bacteria made the oxygen in the air. Animals, plants and microbes breathe the oxygen in, and plants make more.
 - e.g. Water you pour down the sink does not disappear. It goes to a drain, a treatment plant, a river, a lake or the sea, and later rises again as water vapour.
 - e.g. Smoke from burning rubbish spreads through the air and comes down with rain, or is breathed in by people far away.
 - e.g. Plastic thrown into a drain can reach the sea and stay there for many years.
@@ -210,20 +210,20 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - Ask: What did Arjun decide to do with the rice water, and why?
 
 ## Games
-### g1 · Four Corners: living or not, natural or made (20 min)
-- **rules:** Shuffle the cards and put them face down in a pile.; Take turns to turn over one card.; Put the card in one of the four boxes, and say why in one sentence.; If another player thinks it belongs somewhere else, put it in the 'Argue it!' circle. Each of you gives a reason.; If the others agree with a reason, that player earns a reason token. A good reason can earn a token even if you change your mind.; When all cards are placed, the player with the most reason tokens wins.; Playing alone? Sort all the cards, then pick the three hardest and write a reason for each.
-- **Printable cards: 32 thing cards to cut out:** Easy cards: crow, neem tree, stone, rain cloud, steel tumbler, plastic bucket, ant, sand, auto-rickshaw, coconut, river, brick; Tricky cards: curd, wooden spoon, potted tulsi, dry moong seed, cotton shirt, temple tank with fish, paper, salt from the salt pans, a dog, a mango tree your grandfather planted; More tricky cards: honey, a pearl, a silk saree, glass, a road with grass growing through cracks, a bird's nest, a beehive, a snake skin, a candle, a clay pot
-- **Printable board: The four-corner grid:** A big square split into four boxes: Living and natural, Living and placed or cared for by people, Non-living and natural, Non-living and made by people; A small 'Argue it!' circle in the middle, for cards that could go in two boxes
-- **Printable tokens: Reason tokens:** 20 small paper circles. A player earns one for every good reason that the others accept.
+### g1 · Four Corners: living or not, natural or made (25 min)
+- **rules:** Shuffle the cards and put them face down in a pile.; Take turns to turn over one card.; Put the card in one of the four boxes, and say why in one sentence.; If another player thinks it belongs somewhere else, move it to the 'Argue it!' circle. Each of you gives a reason.; If the others accept a reason, that player earns a reason token. A good reason can earn a token even if you change your mind.; If everyone agrees on a box, move the card there. If nobody can agree, the card stays in the 'Argue it!' circle.; When all the cards are placed, the player with the most reason tokens wins. If two players tie, they share the win.; Short on time? Play with only 16 cards. Playing alone? Sort all the cards, then pick the three hardest and write a reason for each.
+- **Printable cards: 32 thing cards to cut out:** crow; neem tree; stone; rain cloud; steel tumbler; plastic bucket; ant; sand; auto-rickshaw; coconut; river; brick; curd; wooden spoon; potted tulsi; dry moong seed; cotton shirt; temple tank with fish; paper; salt from the salt pans; a pet dog; a mango tree planted in a park; honey; a pearl; a silk saree; glass; a road with grass growing through cracks; a bird's nest; a beehive; a bamboo basket; a living root bridge in Meghalaya, grown from fig tree roots; a clay pot
+- **Printable board: The four-corner grid:** Box 1: Living and natural; Box 2: Living and cared for by people; Box 3: Non-living and natural; Box 4: Non-living and made by people; A small 'Argue it!' circle in the middle, for cards that could go in two boxes
+- **Printable tokens: Reason tokens:** Cut 30 small paper circles. A player earns one for every good reason that the others accept. If they run out, keep score with tally marks.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and lay out the grid. 2. Read the four box names aloud. 3. Place one easy card together, such as the crow.  
   *Parent says:* Each card is something in our environment. We put it in a box and say why. Let's try the crow together. Is the crow living? Is the crow natural?  
   *Child mode:* Turn over a card. Is the thing living? Is it natural? Put it in a box.
-- **s2 (12 min)**  
+- **s2 (17 min)**  
   *Parent does:* Take turns turning over cards. When a card is argued, both players give a reason before you decide.  
   *Parent says:* Curd! Is curd living? Who made it? Tell me your reason before you put it down.  
   *Child mode:* Say your reason out loud. Others can argue. Good reasons win tokens.
-  - Note: Expect real arguments over curd (made by people, but full of living bacteria), the wooden spoon (made by people from a natural, once-living tree), honey and the beehive (made by bees, not people) and the dry seed (alive though still). These are the point of the game. Reward the reason, not the box.
+  - Note: Expect real arguments over curd (made by people, but full of living bacteria), the wooden spoon (made by people from a natural, once-living tree), honey and the beehive (made by bees, not people) and the dry seed (alive, but looking asleep). These are the point of the game. Reward the reason, not the box.
   - Check: Which box suits a dry moong seed best? → **Living and natural**
 - **s3 (5 min)**  
   *Parent does:* 1. Count the tokens. 2. Look at the 'Argue it!' cards together. 3. Ask which card was hardest.  
@@ -231,34 +231,34 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Which card was hardest? Why was it hard?
   - Ask: Why is a beehive hard to place? (good: It is made, but by bees, not by people.; It is natural, though it is built.; The box names only talk about people making things.)
 ### g2 · No Away: a board game where everything comes back round (20 min)
-- **rules:** Each player puts a water drop on Home tap.; Take turns to roll a dice and move round the loop.; On a Choice square, take a choice card and do what it says. Tokens put on the board stay there.; If you land on a square with an oil or wrapper token, you are stuck there for one turn. Your drop is dirty and must be cleaned at the Treatment plant before it can go on.; A player can spend a turn to pick up one token and take it to the Dump yard. The dump yard is still part of the board.; The first drop to go all the way round twice wins. But if more than 10 tokens are on the board, everyone loses.
-- **Printable board: The loop board:** A ring of 20 squares: Home tap, Kitchen sink, Drain, Treatment plant, River, Lake, Sea, Water vapour, Cloud, Rain, Hill, Stream, Eri (village lake), Paddy field, Well, Tank on the roof, Home tap again, and three 'Choice' squares; A 'Dump yard' space beside the board
-- **Printable cards: 16 choice cards:** Pour leftover oil down the sink: put a black oil token on the Drain square; Wipe the oily pan with old newspaper first: no token; Throw a plastic wrapper from the bus window: put a wrapper token on the River square; Put peels in the compost pot: move 2 squares ahead; Wash the scooter with a running pipe: lose your next turn; Water the plants with rice water: move 1 square ahead; Plus 10 more cards of the same kind, written by your family
-- **Printable tokens: Tokens:** 4 blue water-drop tokens, one per player; 10 black oil tokens; 10 wrapper tokens
+- **rules:** Each player puts a water drop on square 1, Home. Put the 16 choice cards face down in a pile.; Take turns to roll a dice and move your drop forward round the loop, from square 20 back to square 1.; On a Choice square, take the top card and do what it says. Then put it at the bottom of the pile. Tokens put on the board stay there.; If you land on a square with an oil or wrapper token, your drop is held up by the dirt: miss your next turn.; Instead of rolling, a player can spend a turn to pick up one token from any square and take it to the Dump yard.; The Dump yard is beside the board, so those tokens have not left the game.; The first drop to go all the way round twice wins. Then everyone counts the tokens on the board and in the Dump yard.
+- **Printable board: The loop board:** 1. Home (start); 2. Kitchen sink; 3. Choice; 4. Drain; 5. Treatment plant; 6. River; 7. Choice; 8. Lake; 9. Sea; 10. Water vapour; 11. Cloud; 12. Rain; 13. Hill; 14. Stream; 15. Choice; 16. Eri (village lake); 17. Paddy field; 18. Well; 19. Tank on the roof; 20. Choice; A 'Dump yard' box beside the board
+- **Printable cards: 16 choice cards:** Pour leftover oil down the sink: put a black oil token on the Drain square.; Wipe the oily pan with old newspaper first: no token. Move 1 square ahead.; Throw a plastic wrapper from the bus window: put a wrapper token on the River square.; Put peels in the compost pot: move 2 squares ahead.; Wash the scooter with a running pipe: lose your next turn.; Water the plants with rice water: move 1 square ahead.; Mix wet peels and dry plastic in one bin: put a wrapper token on the Eri square.; Carry a cloth bag to the shop: move 2 squares ahead.; Catch rain from the terrace in a bucket: move 3 squares ahead.; Mend a dripping tap: move 1 square ahead.; Rinse paint brushes in the stream: put a black oil token on the Stream square.; Wash dishes in a steel basin, not under a running tap: move 2 squares ahead.; Burn plastic rubbish on the road: put a wrapper token on the Cloud square.; You see a wrapper in a drain and pick it up: take 1 token from the board to the Dump yard. If there is none, move 1 square ahead.; Join a lake clean-up morning: take up to 2 tokens from the board to the Dump yard, then move 1 square ahead.; Fix a leaking pipe in your building: move 2 squares ahead.
+- **Printable tokens: Tokens:** 4 blue water-drop tokens, one per player; 10 black oil tokens (cut small paper circles and colour them black); 10 wrapper tokens (small paper squares). If a kind runs out, cut more.
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the board. 2. Put the drops on Home tap. 3. Read the squares round the loop aloud.  
-  *Parent says:* This board is one loop. Our water starts at the tap and goes to the sink, the drain, the river, the cloud and the rain. Then it comes back to the tap.  
-  *Child mode:* Put your drop on Home tap. Follow the loop with your finger.
+  *Parent does:* 1. Lay out the board. 2. Put the drops on Home. 3. Read the squares round the loop aloud.  
+  *Parent says:* This board is one loop. Our water starts at home and goes to the sink, the drain, the river, the cloud and the rain. Then it comes back to us.  
+  *Child mode:* Put your drop on Home. Follow the loop with your finger.
 - **s2 (14 min)**  
   *Parent does:* Play. When someone places a token, ask where that thing would really go.  
   *Parent says:* You poured oil down the sink. Look, the oil stays on the Drain square. Who will land there next?  
   *Child mode:* Roll and move. Read your card. Tokens stay on the board!
-  - Note: The point is that nothing leaves the loop. Even the Dump yard sits beside the board. If tokens pile up, everyone loses, so players soon start cleaning up together. Let that happen without telling them to.
+  - Note: The point is that nothing leaves the loop. Even the Dump yard sits beside the board. Players soon start carrying tokens to the Dump yard to free the others. Let that happen without telling them to.
 - **s3 (3 min)**  
-  *Parent does:* Count the tokens left on the board. Talk about which choice cards put the most on it.  
-  *Parent says:* How many tokens are still on the board? Which choices put them there? Where would they be in real life?  
-  *Child mode:* Count the tokens left. Which cards made the most mess?
+  *Parent does:* Count the tokens on the board and in the Dump yard. Talk about which choice cards made the most.  
+  *Parent says:* How many tokens are on the board and in the Dump yard? Which choices put them there? Where would they be in real life?  
+  *Child mode:* Count all the tokens. Which cards made the most mess?
   - Check: In the game, what happens to a wrapper token put on the River square? → **It stays on the board until someone moves it**
 
 ## Experiments
-### e1 · The Closed Box Test: can moong seedlings live with the lid on? (30 min, 7 days)
+### e1 · The Closed Box Test: can moong seedlings live with the lid on? (35 min, 7 days)
 - **question:** If we shut moong seeds in a closed box with damp cotton, and add no more water or air, will they live longer or shorter than seeds in an open box?
 - **predict:** Which box will keep its seedlings green longer, the closed one or the open one? Why do you think so? Think about water, and think about air.
 - **fair test:** Both boxes are the same size. Each gets the same cotton, the same 3 tablespoons of water and 10 soaked moong seeds from the same bowl. Both stand side by side in the same place. Only one thing is different: one box has its lid on. We use 10 seeds, not 1, because one seed might be dead.
-- **safety:** Wash hands after handling the seeds and cotton. If white or grey fuzzy mould grows, do not open the box near your face. Throw the cotton and seeds in the wet waste at the end, and wash the boxes.
+- **safety:** If white or grey fuzzy mould grows, do not open the box near your face. Throw the cotton and seeds in the wet waste at the end, and wash the boxes and your hands.
 - **record:** Fill in the table on days 2, 4 and 7. On day 7, draw both boxes side by side and draw arrows where you think the water went in each.
 - **results table:** Day | Closed box: drops on the lid? | Closed box: cotton damp or dry? | Closed box: seedlings | Open box: cotton damp or dry? | Open box: seedlings
-- **schedule:** day 0: The night before: soak 20 moong seeds in a bowl of water. (2 min); day 1: Set up both boxes. Guess what will happen and why. Close one lid. Weigh both boxes if you have a scale. (20 min); day 2: Look for drops on the lid of the closed box. Touch the cotton in the open box. Fill in the table. (3 min); day 4: Look at both boxes again and fill in the table. (3 min); day 7: Last look and weighing. Say your claim, your evidence and your reasoning. (10 min)
+- **schedule:** day 0: The night before: soak 20 moong seeds in a bowl of water. (2 min); day 1: Set up both boxes with the same cotton, water and seeds. Guess what will happen and why. Close one lid and put both in a bright place. Weigh both boxes if you have a scale. (16 min); day 2: Look for drops on the lid of the closed box. Touch the cotton in the open box. Fill in the table. (3 min); day 4: Look at both boxes again and fill in the table. (3 min); day 7: Last look and weighing. Say your claim, your evidence and your reasoning. Then talk about Earth. (11 min)
 - **s0 (2 min)**  
   *Parent does:* The night before, put 20 whole moong seeds in a bowl and cover them with water.  
   *Parent says:* Tonight we soak some moong seeds, so they are ready to sprout tomorrow.  
@@ -305,10 +305,10 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Parent says:* The closed box never got new air. In the light, the leaves make oxygen, and the seedlings and microbes breathe it again. Earth is a bit like this box. What comes in from outside?  
   *Child mode:* Nothing new came into the closed box. Only light. Is Earth like that?
   - Check: What came into the closed box from outside during the week? → **Only light**
-### e2 · The Drain Test: does washing powder in water change how seeds sprout? (25 min, 4 days)
+### e2 · The Drain Test: does washing powder in water change how seeds sprout? (27 min, 4 days)
 - **question:** Do moong seeds sprout and grow the same in soapy water as in plain water? Does the amount of soap matter?
 - **predict:** Which cup of seeds will grow the longest roots by day 3: plain water, a little soap or a lot of soap? Why do you think so?
-- **fair test:** Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of its own water. All three cups stand together in the same place. Only the water changes. We keep adding the same water to each cup if it dries.
+- **fair test:** Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of its own water. The three tumblers are the same size and filled to the same level. All three cups stand together in the same place. Only the water changes. We keep adding the same water to each cup if it dries.
 - **safety:** A grown-up mixes the washing powder. Keep it away from eyes and mouths. Wash hands after touching soapy cotton. Pour the soapy water away at the end into the toilet, not onto a potted plant.
 - **record:** Fill in the table on days 2 and 3. Draw one seedling from each cup, the same size as in real life.
 - **results table:** Cup | Seeds sprouted on day 2 (out of 10) | Seeds sprouted on day 3 (out of 10) | Longest root on day 3 (cm) | What the roots look like
@@ -332,6 +332,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Parent does:* Day 2: count how many seeds in each cup have a white root. Fill in the table.  
   *Parent says:* How many seeds have sprouted in each cup? Let's count them together.  
   *Child mode:* Count the seeds with roots in each cup.
+  - Note: Dry seeds sprout a little later than soaked ones. If few seeds have roots in any cup today, that is normal. The day 3 count matters most.
   - Wait: Day 2
 - **s5 (7 min)**  
   *Parent does:* Day 3: 1. Count again. 2. Measure the longest root in each cup with a ruler. 3. Ask for a claim, evidence and reasoning.  
@@ -339,6 +340,11 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* What did the soap do? Show me how you know.
   - Note: Usually the plain cup grows the longest white roots. The 'a lot' cup has fewer sprouts, or short, brownish roots. The 'a little' cup is often in between, or close to plain. If all three grow the same in your home, that is a real result too. Write it down, and talk about how much soap a lake would need to get.
   - Wait: Day 3
+- **s6 (2 min)**  
+  *Parent does:* Day 4: look at the cups one last time. Pour the soapy water down the toilet, and wash the cups and your hands.  
+  *Parent says:* One last look. Did anything change since yesterday? Now we clear up.  
+  *Child mode:* Look one last time. Then help to clear up.
+  - Wait: Day 4
 
 ## Activities
 ### a1 · The Window Survey: what is in our environment? (15 min)
@@ -353,14 +359,14 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Parent does:* 1. Draw the four-box square. 2. Read out each thing on the list. 3. Your child says which box it goes in, and why.  
   *Parent says:* Everything on our list is part of our environment. Let's sort it. Is the crow living or non-living? Natural or made by people?  
   *Child mode:* Sort your list into the four boxes. Say why for each.
-  - Ask: Where does the wind go? (good: Non-living and natural.)
-  - Ask: Where does the potted plant on the next balcony go? (good: Living, and cared for by people.; Living and natural, but someone planted them.)
+  - Ask: Which box does the wind go in? (good: Non-living and natural.)
+  - Ask: Which box does a potted plant on the next balcony go in? (good: Living, and cared for by people.; Living and natural, but someone planted the plant.)
 - **s3 (5 min)**  
   *Parent does:* Look at the box with the most things, and the things that were hard to place.  
   *Parent says:* Which box has the most things? Which thing was hardest to place? Did anything change something else on the list?  
   *Child mode:* Which box is fullest? Which thing was hard? Why?
   - Ask: Can you find one thing on the list that changes another thing on the list? (good: The sun warms the wall.; The wind moves the tree.; The crow eats from the dustbin.; The auto makes smoke in the air.)
-  - Check: Lakshmi hears a temple bell from her window. Which box does the bell go in? → **Non-living and made by people**
+  - Check: Lakshmi, a girl aged 9, hears a temple bell from her window. Which box does the bell go in? → **Non-living and made by people**
 ### a2 · Where Is Away? Follow the water and the rubbish (20 min)
 - **safety:** A grown-up comes along. Stay away from open drains, roads and moving vehicles. Do not touch the drain or the bins.
 - **record:** Draw a map with two paths: one for the sink water and one for the dry rubbish. Draw each path as far as you know it. Put a question mark where you do not know.
@@ -373,13 +379,13 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Parent does:* Ask the person who collects your rubbish, the building watchman, or a neighbour where the rubbish goes. Or look it up together on your city corporation's website.  
   *Parent says:* Who takes our rubbish? Where do they take it? Let's ask.  
   *Child mode:* Who takes our rubbish? Ask where it goes next.
-  - Note: In many cities, rubbish goes first to a collection point or transfer station, then to a dump yard or a processing plant. In Chennai, the large dump yards are at Kodungaiyur and Perungudi. Wet waste may go to a compost centre, if it was kept separate.
+  - Note: In many cities, rubbish goes first to a collection point or transfer station, then to a dump yard or a processing plant. In Chennai, the large dump yards are at Kodungaiyur and Perungudi, in Mumbai at Deonar, and in Delhi at Ghazipur. Wet waste may go to a compost centre, if it was kept separate.
 - **s3 (8 min)**  
   *Parent does:* Draw the map of both paths together. Mark what you know and what you do not.  
   *Parent says:* Let's draw where our water and our rubbish go. Where does each path stop? Is that really the end?  
   *Child mode:* Draw the paths. Does either one really end?
   - Ask: Where does the sink water end up in the end? (good: A river, a lake or the sea.; Then it evaporates and becomes rain again.; It never really ends.)
-  - Check: Farhan washes a plastic wrapper down a street drain. Where is the wrapper most likely to end up? → **In a river, a lake or the sea, or stuck in the drain**
+  - Check: Farhan, a boy in Class 3, washes a plastic wrapper down a street drain. Where is the wrapper most likely to end up? → **In a river, a lake or the sea, or stuck in the drain**
 ### a3 · Who Else Lives Here? A week of home neighbours (20 min, 7 days)
 - **safety:** Look, do not touch. Keep away from wasps' nests, bees and stray dogs. Wash hands after looking in corners.
 - **record:** Make a table with three columns: who I found, where I found them, and what that spot gives them.
@@ -413,7 +419,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Parent says:* This steel tumbler was made by people. What is steel made from? Where did that come from? Keep going back.  
   *Child mode:* For each thing, ask: what was it made from? Keep asking!
   - Note: Every made thing leads back to something natural: steel from iron ore, plastic mostly from oil or natural gas, glass from sand, paper from wood, a cotton cloth from the cotton plant, a clay pot from clay. Curd and honey are both: made with the help of living things. This prepares for the idea that what we make and throw out stays in the environment.
-  - Check: Divya's plastic lunch box is made by people. What was the plastic mostly made from? → **Oil or natural gas from under the ground**
+  - Check: Divya, a girl in Class 3, has a plastic lunch box. The lunch box is made by people. What was the plastic mostly made from? → **Oil or natural gas from under the ground**
 ### a5 · One Tree's Guests (if you have a park or a tree nearby) (20 min)
 - **safety:** A grown-up comes along. Do not touch ants' nests, bees' nests or caterpillars, because some sting or have itchy hairs. Stay away from the road.
 - **record:** Draw the tree. Draw each guest where you saw them, and write what they were doing.
@@ -444,31 +450,35 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Is the glass misty now? Write the time and what you see.
   - Note: Morning mist and afternoon clearing is common, because the glass is cooler than the air inside in the early morning.
   - Wait: Day 3
-- **s3 (10 min)**  
-  *Parent does:* Every week, draw the garden and look for changes: new leaves, roots, moss, tiny insects or mould.  
+- **s3 (5 min)**  
+  *Parent does:* Draw the garden and look for changes: new leaves or roots.  
+  *Parent says:* What has changed since day 1? Is the glass misty at the same times of day?  
+  *Child mode:* Draw your garden. What is new?
+  - Wait: Day 7
+- **s4 (10 min)**  
+  *Parent does:* Look closely for anything new living in the jar: moss, tiny insects, a sprout or mould. Draw it.  
   *Parent says:* Is anything living in there that we did not put in?  
   *Child mode:* Draw your garden. Is anything new living there?
   - Note: Tiny springtails, moss or a sprouted weed seed from the soil may appear. They came in with the soil. This shows the soil was full of life to begin with.
   - Wait: Day 14
-- **s4 (10 min)**  
+- **s5 (10 min)**  
   *Parent does:* Compare the day 1 drawing with today's. Talk about where the water has been all month.  
   *Parent says:* No water has gone in for a month. Where has the plant's water been all this time?  
   *Child mode:* Look at day 1 and today. Where did the water go all month?
   - Wait: Day 30
 ### p2 · Our Family's Care Week (45 min, 7 days)
-- **safety:** If you choose composting, keep the pot covered and away from the kitchen counter. Wash hands after handling waste.
 - **record:** A tally chart with one row for each day: how many plastic bags, or how many litres of water, or how many bowls of peels kept out of the bin.
-- **schedule:** day 1: Choose one thing to send out less of. Count how much goes out on a normal day. (15 min); day 2: Start the change. Tally each day. (3 min); day 7: Count up the week. Did it work? What was hard? Will you keep it up? (15 min)
+- **schedule:** day 1: Choose one thing to send out less of. Count how much goes out on a normal day. (15 min); day 2: Make the change. Add today's tally mark. (3 min); day 3: Make the change. Add today's tally mark. (3 min); day 4: Make the change. Add today's tally mark. (3 min); day 5: Make the change. Add today's tally mark. (3 min); day 6: Make the change. Add today's tally mark. (3 min); day 7: Count up the week. Did it work? What was hard? Will you keep it up? (15 min)
 - **s1 (15 min)**  
   *Parent does:* Talk as a family. Choose one thing, such as plastic bags, oil down the sink, or peels in the dry bin. Count how much goes out on one normal day.  
   *Parent says:* We send many things out of our home. Let's pick one and try to send less of it this week. First, how much goes out on a normal day?  
   *Child mode:* Pick one thing your family throws out. Count it for one day.
   - Note: Good choices are small and countable: plastic carry bags brought home, leftover cooking oil, rice water poured down the sink, or wet waste mixed with dry. A change the child can do themselves works best.
-- **s2 (3 min)**  
-  *Parent does:* Each day, make the change and add a tally mark.  
+- **s2 (15 min)**  
+  *Parent does:* Each day from day 2 to day 6 (3 minutes a day), make the change and add a tally mark.  
   *Parent says:* Did we do it today? Let's add today's tally.  
   *Child mode:* Did we do it today? Add a tally mark.
-  - Wait: Day 2
+  - Wait: Days 2 to 6
 - **s3 (15 min)**  
   *Parent does:* At the end of the week, count up and compare with the first day.  
   *Parent says:* How much less went out this week? What made it hard? Where would the things we did not throw out have gone?  
@@ -485,7 +495,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **creative:** Put a stone in the middle as a landing step.; Hang a small cloth over one side for shade.; Keep a second saucer for washing and swapping, so one is always clean.
 - **s1 (10 min)**  
   *Parent does:* Talk about the problem. Draw two ideas.  
-  *Parent says:* Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's each draw one idea.  
+  *Parent says:* Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's draw two ideas.  
   *Child mode:* Draw two ideas for a bird water bowl. Think: safe, cool, clean.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Build the best idea. Fix it firmly where a grown-up says.  
@@ -529,10 +539,10 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 4. (mcq) Which of these is NOT part of a pigeon's environment on a city balcony?  
    Options: the railing they sit on / the grain someone scatters / a lion in a forest far away  
    **Answer:** a lion in a forest far away. *Why:* A pigeon's environment is everything around them that affects them. A lion far away does not affect the pigeon. The railing and the grain do.
-5. (truefalse) A city flat has no environment, because there are no forests in it.  
-   **Answer:** False. *Why:* False. A flat has air, water, light, warmth, ants, geckos, plants and people. All of that is an environment.
+5. (truefalse) Smoke from burning rubbish leaves the Earth, so the problem is gone.  
+   **Answer:** False. *Why:* False. Smoke spreads through the air and comes down with rain, or is breathed in by people far away. It stays on Earth.
 6. (write) Nila, a girl in Class 3, says, "A dry moong seed is non-living, because they do not move or grow." Is she right? Explain.  
-   **Answer:** No. A dry moong seed is alive, though they seem to do nothing. Given water, they swell and sprout within a day or two. A stone never does that.. *Why:* A strong answer says the seed is alive and gives evidence, such as sprouting when given water.
+   **Answer:** No. A dry moong seed is alive, but looks asleep. Given water, they swell and sprout within a day or two. A stone never does that.. *Why:* A strong answer says the seed is alive and gives evidence, such as sprouting when given water.
 7. (mcq) In the Closed Box Test, what was the ONE thing that was different between the two boxes?  
    Options: the number of seeds / the lid / the amount of water  
    **Answer:** the lid. *Why:* Everything else was kept the same: the box, the cotton, the water, the seeds and the place. That is why any difference must come from the lid.
@@ -547,8 +557,8 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 12. (mcq) A gecko waits next to the tube light every night. Why there?  
    Options: The light warms the gecko like the Sun / Insects come to the light, so there is food there / Geckos like to look at bright things  
    **Answer:** Insects come to the light, so there is food there. *Why:* Many insects fly to lights at night, so the light brings the gecko food. This is a non-living part of the environment, the light, shaping where a living thing spends their time.
-13. (truefalse) Everything people make was made from something natural first.  
-   **Answer:** True. *Why:* True. Steel comes from iron ore, plastic mostly from oil or gas, glass from sand, paper from wood. People change natural materials. They never make one from nothing.
+13. (truefalse) Rain falling on a city flat is natural, and the roof tank that stores it is made by people. Both are part of the environment.  
+   **Answer:** True. *Why:* True. The environment holds natural things and things made by people together.
 14. (perspective) A family in Chennai is deciding what to do with the peels and leftover food from the kitchen.  
    **Answer:** A strong answer picks a side and gives a reason from this unit, for example that peels in the dry bin go to the dump yard and rot there in a smelly heap, while a compost pot turns them into soil for the plants. It then says one thing another person has right, such as that composting in a small flat needs a covered pot and some care.. *Why:* There is a real trade-off. Composting at home sends less to the dump, but it takes space and effort. Separate bins only help if the city collects them separately.
 15. (draw) Draw your window. Draw and label two living things and two non-living things you can see from it.  
@@ -556,12 +566,12 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 ### Round and Round (stretch) (stretch, 15 questions)
 1. (write) In the Closed Box Test, the seedlings in the closed box never got fresh air. Explain how they still had the gases they needed.  
    **Answer:** In the light, their leaves made food from water and carbon dioxide and gave out oxygen. The seedlings and the microbes in the box breathed some of that oxygen and gave out carbon dioxide again. So the same air went round.. *Why:* A strong answer names both gases and says they are used and given out again inside the box.
-2. (mcq) Priya weighs both boxes on day 1 and day 7 of the Closed Box Test. The seedlings in the closed box grew taller. What happens to the closed box's weight?  
+2. (mcq) Priya, a girl in Class 4, weighs both boxes on day 1 and day 7 of the Closed Box Test. The seedlings in the closed box grew taller. What happens to the closed box's weight?  
    Options: It gets much heavier, because the seedlings grew / It stays about the same, because nothing went in or out / It gets much lighter, like the open box  
    **Answer:** It stays about the same, because nothing went in or out. *Why:* Nothing went in or out of the closed box, so its weight stayed about the same, even though the seedlings grew. They were built from water and air that were already in the box. The open box got lighter, because water vapour left it.
 3. (truefalse) The open box in the Closed Box Test got lighter because its water was destroyed.  
    **Answer:** False. *Why:* False. The water was not destroyed. It evaporated into the room's air as water vapour. Later it may condense on a cold window or rise into a cloud.
-4. (write) Divya's family pours soapy water from washing clothes into the street drain. Use the Drain Test to explain what this water might do in a lake.  
+4. (write) Divya, a girl in Class 3, and her family pour soapy water from washing clothes into the street drain. Use the Drain Test to explain what this water might do in a lake.  
    **Answer:** The Drain Test showed that a lot of washing powder in water made fewer seeds sprout, with shorter roots. If lots of soapy water reaches a lake, it may harm the seeds and plants that live there. In Bellandur Lake in Bengaluru, soap and sewage made thick froth.. *Why:* A strong answer uses the evidence from the test and links it to living things in a lake.
 5. (mcq) In the Drain Test, why did each cup get 10 seeds and not just 1?  
    Options: Because 10 is a nice number / Because one seed might be dead, which would fool us / Because seeds need friends to sprout  
@@ -572,7 +582,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
    **Answer:** ['condenses']. *Why:* Condensing is the opposite of evaporating. Drops on the closed box lid formed this way.
 8. (match) Match each thing to where it most often goes in a city when we throw it out.  
    **Answer:** water from the kitchen sink → a drain, then a treatment plant or a river; a plastic wrapper in the dry bin → a dump yard or a recycling centre; peels kept in their own bin → a compost centre; smoke from burning leaves → the air we breathe. *Why:* Each thing goes somewhere in the environment. None of them leaves the Earth.
-9. (write) Arjun says, "It doesn't matter if I drop a wrapper. Someone will take it away." Use the idea of 'away' to answer him.  
+9. (write) Arjun, the boy in the story, says, "It doesn't matter if I drop a wrapper. Someone will take it away." Use the idea of 'away' to answer him.  
    **Answer:** There is no away outside the Earth. If someone picks it up, it goes to a dump yard. If not, rain washes it into a drain, and it may reach a lake or the sea. Either way, it is still in the environment.. *Why:* A strong answer says where the wrapper would really go.
 10. (mcq) Which of these changes the environment the MOST?  
    Options: one crow building a nest / people building a new city / an ant carrying a crumb  
@@ -649,18 +659,18 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 7. (mcq) How is Earth like the closed box?  
    Options: New water rains in from space every day / Sunlight comes in, but almost no new water or air arrives, so the same water and air go round / Nothing at all comes in, not even light  
    **Answer:** Sunlight comes in, but almost no new water or air arrives, so the same water and air go round. *Why:* Sunlight reaches Earth from outside, and heat goes back out to space. But gravity holds the air and water close, and almost no new matter arrives. So water and air are used again and again.
-8. (mcq) Kavya pours leftover rasam down the sink. Where does the rasam go?  
+8. (mcq) Kavya, the girl in the story, pours leftover rasam down the sink. Where does the rasam go?  
    Options: It disappears / Through drains to a treatment plant, a river, a lake or the sea / Back into Kavya's tap  
    **Answer:** Through drains to a treatment plant, a river, a lake or the sea. *Why:* Nothing poured down a sink leaves the Earth. It travels through drains, and some is cleaned at treatment plants, before reaching rivers, lakes or the sea. 'It disappears' is the 'away' habit.
 9. (mcq) Moss grows in the damp corner of a bathroom but not on a hot, sunny wall. What does this show?  
    Options: The non-living environment decides where some living things can live / Moss is scared of light / Moss is non-living  
    **Answer:** The non-living environment decides where some living things can live. *Why:* Moss needs damp places, so the water and shade in the bathroom corner make it a home for moss. The dry sunny wall does not. The physical environment shapes who can live where.
-10. (mcq) Farhan's family wants to send less plastic out of their home. Which plan is easiest to check?  
+10. (mcq) Farhan, a boy in Class 3, and his family want to send less plastic out of their home. Which plan is easiest to check?  
    Options: Try to be better / Carry a cloth bag to the shop and count the plastic bags brought home each day for a week / Tell the neighbours to use less plastic  
    **Answer:** Carry a cloth bag to the shop and count the plastic bags brought home each day for a week. *Why:* A good care plan is one change you can count. Counting the bags each day shows whether it worked. 'Try to be better' is a good wish, but there is nothing to count.
 
 ## Applications
-- Sewage treatment plants clean a city's waste water with screens, settling tanks and microbes, before it goes back to a river or the sea.
+- Sewage treatment works clean a city's waste water with screens, settling tanks and microbes, before the water goes back to a river or the sea.
 - The East Kolkata Wetlands clean much of Kolkata's sewage in fish ponds, where sunlight, algae and microbes do the work.
 - Tamil Nadu made rainwater harvesting compulsory for buildings in 2003, so rain soaks back into the ground instead of running off into drains.
 - India's Solid Waste Management Rules of 2016 ask every home to keep wet, dry and hazardous waste apart, so each can be treated in the right way.
@@ -689,7 +699,6 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **How much dust from space lands on the Earth each day?** Different ways of measuring give answers from a few tonnes to over a hundred tonnes a day. Either way, it is tiny next to the Earth.
 
 ## Questions to ask kids
-- Where did the water in your glass come from this morning? Where was it before that?
 - Which living things share our flat with us? Which ones have you never seen but know are there?
 - Is our balcony plant part of our environment, or are we part of the plant's environment?
 - When we flush the toilet, where does the water go? Let's guess, then find out.
@@ -701,27 +710,22 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - Saalumarada Thimmakka planted trees along a road and watered them for years. What could our family look after for a long time?
 
 ## Jokes
-- Why did the moong seedling like the closed box? *Their water kept coming back.*
 - What did the drop on the lid say to the cotton? *Don't worry, I'll be back down soon.*
-- Where does rubbish go when we throw it away? *Somewhere on Earth. There is no away!*
 - Why did the wrapper refuse to leave the planet? *There was no exit.*
 - What did the gecko say to the tube light? *Thanks for inviting my dinner.*
 - Why was the peepal so good at breaking walls? *They had very strong roots and a lot of patience.*
-- Why did the crow sit on the dustbin? *They heard it was a free buffet.*
-- What is a cloud's favourite game? *Round and round, from sea to sky and back.*
+- Why did the crow sit on the dustbin? *She heard it was a free buffet.*
 - Why did the plastic bag go to school? *To learn how to be used again.*
 - What did the soapy water say to the lake? *Sorry, I'm feeling a bit bubbly today.*
 - Why did the bottle garden never get thirsty? *It kept its water bottled up.*
 - What did the Earth say to the Sun? *Send light, please. I have the water covered.*
 - Why did the rasam not disappear down the sink? *It just went to visit the river.*
-- What do you call a clean lake? *A lake that someone cared about.*
-- Why did the compost pot smile? *Their peels were turning into something good.*
 
 ## Connected maths
-- In the Closed Box Test, the open box weighed 120 grams on day 1 and 82 grams on day 7. How many grams of water left the open box? **38 grams.**. Take the day 7 weight from the day 1 weight. 120 take away 80 is 40. 40 take away 2 more is 38. So 38 grams of water evaporated into the room's air. (queues `math.addition-subtraction.word-problems.L3`)
-- Look at the kitchen scale. Each big mark is 10 grams and each small mark is 2 grams. The pointer is 1 small mark past 110. What does the closed box weigh? **112 grams.**. The pointer has passed the 110 mark by one small mark. Each small mark is 2 grams. 110 + 2 = 112. (queues `math.measurement-basics.reading-scales.L3`)
+- In the Closed Box Test, the open box weighed 114 grams on day 1 and 76 grams on day 7. How many grams of water left the open box? **38 grams.**. Take the day 7 weight from the day 1 weight. 114 take away 70 is 44. 44 take away 6 more is 38. So 38 grams of water evaporated into the room's air. (queues `math.addition-subtraction.word-problems.L3`)
+- Look at the kitchen scale. Each big mark is 10 grams and each small mark is 2 grams. On day 7 the pointer is 1 small mark past 110. What does the closed box weigh? **112 grams.**. The pointer has passed the 110 mark by one small mark. Each small mark is 2 grams. 110 + 2 = 112. (queues `math.measurement-basics.reading-scales.L3`)
 - In the Drain Test, 10 seeds were put in each cup. 10 sprouted in plain water, 9 in 'a little' soap and 4 in 'a lot'. How many more seeds sprouted in plain water than in 'a lot'? **6 more seeds.**. 10 take away 4 is 6. So 6 more seeds sprouted in plain water than in the cup with a lot of washing powder. (queues `math.data.bar-charts.L3`)
-- Farhan's family counted plastic bags brought home: 4 on Monday, 3 on Tuesday, 1 on Wednesday, 0 on Thursday and 0 on Friday. How many bags did they bring home in the 5 days? **8 bags.**. Add the days: 4 + 3 = 7, 7 + 1 = 8, and 0 + 0 adds nothing. So 8 bags in 5 days, and none on the last two days, once they carried a cloth bag. (queues `math.data.sorting-and-tallies.L3`)
+- Farhan, a boy in Class 3, and his family counted plastic bags brought home: 4 on Monday, 3 on Tuesday, 1 on Wednesday, 0 on Thursday and 0 on Friday. How many bags did they bring home in the 5 days? **8 bags.**. Add the days: 4 + 3 = 7, 7 + 1 = 8, and 0 + 0 adds nothing. So 8 bags in 5 days, and none on the last two days, once they carried a cloth bag. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
 Round and Round (sci.environment.L3): Topic-level song for Caring for the environment L3
@@ -729,7 +733,7 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 ## Links
 - [Biosphere 2](https://biosphere2.org) · interactive: The real sealed glass building from How We Found Out, now a research centre of the University of Arizona. Its site has pictures of the inside.
 - [CPCB National Air Quality Index](https://airquality.cpcb.gov.in/AQI_India/) · interactive: For the parent. A live map of the air in Indian cities, measured every hour. Find the station nearest your home.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free tested activities from a science museum in San Francisco. Search for 'water cycle' and 'terrarium'. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free tested activities from a science museum in San Francisco. Search for 'water cycle' and 'terrarium'.
 - [East Kolkata Wetlands]() · place · Kolkata: Wetlands where fish ponds clean much of the city's sewage with sunlight, algae and microbes. Visit with a guide or a nature group.
 - [Adyar Eco Park (Tholkappia Poonga)]() · place · Chennai: Part of the Adyar estuary, restored from a dumping ground into a wetland with native plants and birds. Check visiting days before you go.
 - [A city lake near you]() · place · Bengaluru, Hyderabad, Chennai and most cities: Walk round a lake and look at what flows in. Many cities have lake groups who welcome families on clean-up and bird-watching mornings.
@@ -738,7 +742,7 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 ## Things to buy
 - [Whole green moong, about 100 grams]() (material): Most kitchens already have it. Whole moong sprouts within a day, which is why both experiments use it. Split moong dal will not sprout. Used in e1, e2. 
 - [A small bag of potting soil](https://www.amazon.in/s?k=potting+soil) (material): Only needed if you have no potted plant to borrow soil from. Any nursery sells it. Used in p1. 
-- [One Well: The Story of Water on Earth, by Rochelle Strauss](https://www.amazon.in/s?k=One+Well+Rochelle+Strauss) (book): A picture book for ages 8 and up about how all the water on Earth is shared, as if it were one well. It is on the founder's reading list. Used in a2. If bought, read a few pages after Where Is Away?, when the child has followed the kitchen water.
+- [One Well: The Story of Water on Earth, by Rochelle Strauss](https://www.amazon.in/s?k=One+Well+Rochelle+Strauss) (book): A picture book for ages 8 and up about how all the water on Earth is shared, as if it were one well. Used in a2. Read a few pages after Where Is Away?, once your child has followed the kitchen water.
 
 ## Warm-up
 - What is the environment? → Everything around a living thing that affects them.

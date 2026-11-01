@@ -33,11 +33,11 @@
 On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today.
 - e.g. A fridge is about 4 °C inside.
 - e.g. A healthy body is about 37 °C inside.
-- e.g. Tea people drink is often about 60 to 65 °C.
+- e.g. Hot tea or filter coffee is often about 60 to 65 °C.
 ### How a liquid thermometer works · *defined*
 **Definition:** A liquid thermometer has a bulb of liquid joined to a very narrow tube. When the liquid warms, it expands and climbs up the tube. When it cools, it shrinks and goes down.
 
-The liquid expands only a tiny bit. But the tube is so narrow that this tiny bit of extra liquid makes a long line. The numbers on the side were marked by putting the thermometer in melting ice and in boiling water. A thermometer shows its own temperature. Put it in hot water, and heat moves into the bulb until the bulb is as warm as the water. That takes about a minute for a glass thermometer. So you wait until the line stops moving before you read it. Most laboratory thermometers in India use red-coloured spirit. Old ones used silvery mercury, which is poisonous if the glass breaks.
+The liquid expands only a tiny bit. But the tube is so narrow that this tiny bit of extra liquid makes a long line. The numbers on the side were marked by putting the thermometer in melting ice and in boiling water. A thermometer shows its own temperature. Put it in hot water, and heat moves into the bulb until the bulb is as warm as the water. That takes about a minute for a glass thermometer. So you wait until the line stops moving before you read it. Many laboratory thermometers today use red-coloured spirit. Old ones used silvery mercury, which is poisonous if the glass breaks.
 - e.g. Dip the bulb in hot water and the red line climbs for about a minute, then stops.
 - e.g. A digital thermometer has a tiny metal part instead of liquid, and it shows a number on a screen.
 - e.g. If you read too early, the number is too low for hot water and too high for cold water.
@@ -130,13 +130,11 @@ In a room where everything is at one temperature, no heat moves. A difference is
 - Practice, Warm the tumbler (3 min): Hold this steel tumbler of room water in both hands. Close your eyes. Breathe in slowly, and out slowly. Feel the steel against your palms. Keep holding it for one minute. Now open your eyes. Does the tumbler feel cooler or warmer than at the start? Which way did the heat go?
 - Ask: Your body sends heat into the room all day. Is part of the room's warmth yours?
 - Ask: If nothing ever had a different temperature, would anything ever happen?
-- Ask: Your hand felt one bowl as warm and cold at once. Is a feeling wrong if it does not match the thermometer?
 
 ## Deep and big questions
 - *deep:* Your hot tumbler gave its heat to the room. Where is that heat now? (hint: Think about the air, the table and the walls. Did the room get warmer? Why was it too little to notice?)
 - *big:* If heat always spreads from warmer to cooler, will everything in the world one day be the same temperature? (hint: Think about what keeps making new warm places, like the Sun and your own body.)
 - *deep:* A thermometer tells you its own temperature. How do you know it is telling you the water's temperature too? (hint: Think about what happens when two things touch for a while.)
-- *deep:* Is there a coldest possible temperature? What would happen to the particles there? (hint: If temperature is how fast particles jiggle, what is the slowest they could go?)
 - *big:* Your hand and a thermometer said different things about the same water. Which one tells the truth about the world? (hint: Think about what each one is really measuring. Is a feeling of warmth wrong, or is it about something else?)
 
 ## Story: Where Did Paati's Coffee Go?
@@ -200,7 +198,6 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 
 **For the parent:** For the parent: when a hot thing cools, its heat does not vanish. It moves into whatever is cooler around it: the air, the table, the water. In a big room the air gets only a tiny bit warmer, too little to measure, so the heat seems to disappear. A vessel of water is small enough to show the rise. The coffee and the water stopped at the same temperature, nearer the water's starting temperature, because there was more water. Heat moves only from hotter to cooler, and stops when they are equal. Cold is not a thing that moves.
 
-- Ask: Why did the room still read 29 degrees after the coffee had cooled?
 - Ask: In the vessel test, what happened to the water around the tumbler? Why?
 - Ask: Why did the coffee and the water end up nearer 29 than 70?
 - Ask: Why does Paati's high pouring cool the coffee faster?
@@ -208,32 +205,32 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 
 ## Games
 ### g1 · Hotter or Colder? A temperature card game (20 min)
-- **rules:** Shuffle the temperature cards and lay them number side down.; On your turn, turn over the top two cards with the words showing, not the number.; Say which one you think is hotter, and why.; Then say which way the heat would go if the two things touched.; Turn the cards over to check the numbers. A right 'hotter' guess scores 1 point, and a right heat direction scores 1 more.; Every third turn, take a question card instead.; After everyone has had 6 turns, lay all the cards in one long line from coldest to hottest.
-- **Printable cards: 24 temperature cards to cut out (the number is on the back):** A freezer: minus 18 °C; An ice cube: 0 °C; Inside a fridge: 4 °C; Ooty on a winter morning: about 5 °C; A tumbler of water with ice in it: about 2 °C; A room in Chennai in May: about 32 °C; A Delhi night in January, outdoors: about 7 °C; Your skin: about 33 °C; Inside your body: about 37 °C; A child with a fever: 39 °C; A hen's body: about 41 °C; A warm bath: about 40 °C; Hot filter coffee: about 65 °C; Boiling water at sea level: 100 °C; Water boiling in a pressure cooker: about 120 °C; An oven baking a cake: about 180 °C; A dosa tawa ready for batter: about 200 °C; A candle flame: about 1,000 °C or more; Melted iron in a factory: about 1,500 °C; The surface of the Sun: about 5,500 °C; The coldest place on the Moon, inside a dark crater: below minus 240 °C; A Rajasthan desert afternoon in May: about 45 °C; The sea at Kovalam beach: about 28 °C; Curd just out of the fridge: about 6 °C
-- **Printable cards: 8 question cards:** Your two cards touch. Which way does the heat move? (From the hotter one to the cooler one); What unit do we measure temperature in? (Degrees Celsius); Why can't a fever thermometer measure fridge water? (It reads only from about 32 to 42 °C); Why must you wait before reading a thermometer? (Heat takes time to move into it); What makes the red line in a thermometer climb? (The liquid expands as it warms); Ice is in your hand. Is cold going into your hand? (No. Heat is going from your hand into the ice); A hot tumbler and a cold tumbler stand in a room for 3 hours. What do they read? (About the same as the room); At what temperature does water freeze? (0 °C)
+- **rules:** Make one pile of the 24 temperature cards, with the thing side up. Make a second pile of the 8 question cards, with the question side up.; On your turn, take the top two temperature cards and put them side by side. Do not turn them over yet.; Say which one you think is hotter, and why. Then guess the temperature of the hotter one.; Then say which way the heat would move if the two things touched.; Turn both cards over to check. A right 'hotter' guess scores 1 point. A temperature guess within 10 degrees scores 1 more point.; Then take the top question card. Another player reads it out, you answer, and they turn it over to check. A right answer scores 1 point. If you are playing alone, check it yourself. When the question cards run out, skip this step.; Play until all 24 temperature cards are used: 12 turns in all. With 2 players, each has 6 turns. With 4 players, each has 3.; The most points wins. Then everyone works together. Mix all 24 temperature cards and lay them in one line from coldest to hottest, thing side up. Turn them over to check the numbers.
+- **Printable cards: 24 temperature cards to cut out (the thing on the front, its temperature on the back):** A freezer (back: minus 18 °C); An ice cube (back: 0 °C); Inside a fridge (back: 4 °C); Ooty on a winter morning (back: about 5 °C); A tumbler of water with ice in it (back: about 2 °C); A room in Chennai in May (back: about 32 °C); A Kolkata night in January, outdoors (back: about 12 °C); Your skin (back: about 33 °C); Inside your body (back: about 37 °C); A child with a fever (back: 39 °C); A hen's body (back: about 41 °C); A warm bath (back: about 40 °C); Hot filter coffee (back: about 65 °C); Boiling water at sea level (back: 100 °C); Water boiling in a pressure cooker (back: about 120 °C); An oven baking a cake (back: about 180 °C); A dosa tawa ready for batter (back: about 200 °C); A candle flame (back: about 1,000 °C or more); Melted iron in a factory (back: about 1,500 °C); The surface of the Sun (back: about 5,500 °C); The coldest place on the Moon, inside a dark crater (back: below minus 240 °C); A Rajasthan desert afternoon in May (back: about 45 °C); The sea at Kovalam beach (back: about 28 °C); Curd just out of the fridge (back: about 6 °C)
+- **Printable cards: 8 question cards to cut out (the question on the front, the answer on the back):** Your two cards touch. Which way does the heat move? (back: From the hotter one to the cooler one); What unit do we measure temperature in? (back: Degrees Celsius); Why can't a fever thermometer measure fridge water? (back: It reads only from about 32 to 42 °C); Why must you wait before reading a thermometer? (back: Heat takes time to move into it); What makes the red line in a thermometer climb? (back: The liquid expands as it warms); Ice is in your hand. Is cold going into your hand? (back: No. Heat is going from your hand into the ice); A hot tumbler and a cold tumbler stand in a room for 3 hours. What do they read? (back: About the same as the room); At what temperature does water freeze? (back: 0 °C)
 - **Printable score sheet: Score sheet:** Player name; Right guesses; Question cards right
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Shuffle the temperature cards. 3. Lay them with the words up and the numbers down.  
+  *Parent does:* 1. Cut out the cards. 2. Make a pile of temperature cards with the thing side up. 3. Make a pile of question cards with the question side up.  
   *Parent says:* Each card shows something real. The number on the back is how hot it is. We will guess which is hotter.  
-  *Child mode:* Each card is a real thing. Its temperature is on the back. Guess which is hotter!
+  *Child mode:* Each card shows a real thing. Its temperature is on the back. Guess which is hotter!
 - **s2 (3 min)**  
-  *Parent does:* Play one practice turn with the coffee card and the bath card.  
+  *Parent does:* Take out the hot filter coffee card and the warm bath card. Play one practice turn with them. Then mix them back into the pile.  
   *Parent says:* Practice turn. Hot coffee, or a warm bath. Which is hotter? If coffee spilled into the bath, which way would the heat go?  
   *Child mode:* Coffee or a warm bath. Which is hotter? Which way would heat go?
   - Check: Hot coffee spills into a warm bath. Which way does the heat move? → **From the coffee into the bath water, because the coffee is hotter**
 - **s3 (10 min)**  
-  *Parent does:* Play the game. Every third turn, take a question card.  
-  *Parent says:* Your turn. Which is hotter, and why? Which way would the heat go?  
-  *Child mode:* Turn two cards. Which is hotter? Which way would the heat go?
+  *Parent does:* Play the game. After each turn, take a question card.  
+  *Parent says:* Your turn. Which is hotter, and why? Guess its number. Which way would the heat go?  
+  *Child mode:* Take two cards. Which is hotter? Guess its number. Which way would heat go?
   - Note: The surprises children enjoy most: a hen is warmer than a person, a pressure cooker is hotter than boiling water, and the Moon's dark craters are far colder than any freezer.
 - **s4 (4 min)**  
-  *Parent does:* Lay all 24 cards in a line from coldest to hottest.  
+  *Parent does:* Mix all 24 temperature cards. Lay them in a line from coldest to hottest, then turn them over to check.  
   *Parent says:* Now let's make one long line, from the coldest thing to the hottest. Where does your own body go?  
   *Child mode:* Make one long line, coldest to hottest. Where do you go?
   - Check: Which of these is the hottest? → **A hen's body**
 
 ## Experiments
-### e1 · Hot Tumbler, Cold Tumbler: where do they both end up? (40 min)
+### e1 · Hot Tumbler, Cold Tumbler: where do they both end up? (45 min)
 - **question:** If a tumbler of hot water and a tumbler of cold water stand on the same table, what happens to each one's temperature, and where does it stop?
 - **predict:** Guess the temperature of each tumbler after 20 minutes, and again after 3 hours. Why do you think so?
 - **fair test:** Use two tumblers of the same size and metal, filled to the same height. Stand them side by side, away from the fan, the sun and the stove. Use the same thermometer for every reading, and read both tumblers at the same times. Stir gently and wait until the line stops moving before reading, because a thermometer takes about a minute to catch up.
@@ -320,7 +317,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   - Note: Equal amounts at 60 and 10 give a mix close to 35, the number exactly in the middle. It is usually a degree or two lower, because some heat goes into the tumbler and the air.
   - Check: Equal amounts of water at 60 °C and 10 °C are mixed. About what will the mix read? → **About 35 °C, halfway between**
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* 1. Now use 1 katori of hot water and 2 katoris of cold. 2. Ask for a new guess with a reason. 3. Mix, stir and read.  
+  *Parent does:* 1. Empty the third tumbler. 2. Top up the hot water so it is hot again. 3. Ask for a new guess, with a reason. 4. Pour 1 katori of hot water and 2 katoris of cold water into the third tumbler, stir and read.  
   *Parent says:* This time there is twice as much cold water. Will the mix be nearer the hot number or the cold number? Why?  
   *Child mode:* Now 1 katori hot and 2 katoris cold. Will the mix be nearer hot or cold? Why?
   - Note: With 60 and 10, the mix should read about 25 to 27, nearer the cold number. A good way to think: one hot katori gives its heat to share among three katoris.
@@ -349,13 +346,15 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   *Parent says:* Your hands disagree. Let's ask the thermometer. How many numbers does it give?  
   *Child mode:* Read the thermometer in the middle bowl. One number or two?
   - Check: Why did one hand feel the middle water as warm and the other as cold? → **Each hand felt whether it was getting warmer or cooler, and one hand was colder to start with**
-### a2 · The Temperature Hunt: measure five things at home (15 min)
+### a2 · The Temperature Hunt: measure five things at home (17 min, 2 days)
 - **safety:** Never put a laboratory thermometer in your mouth or near the stove. Lay it flat when you are not holding it.
 - **record:** Make a table with three columns: the place, my guess, and what the thermometer read. Then put the five things in order from coldest to warmest.
-- **s1 (3 min)**  
-  *Parent does:* 1. List five things. They are room air, air at a shady window, tap water, fridge water, and water that stood out overnight. 2. Ask your child to guess a temperature for each.  
+- **schedule:** day 1: In the evening, stand a tumbler of tap water on a shelf in the room, away from the fan and the sun. (2 min); day 2: Guess, then measure: the room, a shady window, tap water, fridge water, and the water that stood out overnight. (15 min)
+- **s1 (5 min)**  
+  *Parent does:* 1. The evening before, stand a tumbler of tap water on a shelf in the room. 2. Next day, list five things. They are room air, air at a shady window, tap water, fridge water, and the water that stood out overnight. 3. Ask your child to guess a temperature for each.  
   *Parent says:* We are going to measure five things. Guess a number for each one first. Which will be the coldest? Which will be the warmest?  
   *Child mode:* Five things to measure. Guess a number for each. Which is coldest?
+  - Wait: Set up the tumbler the evening before.
 - **s2 (10 min)**  
   *Parent does:* 1. Measure each one. 2. For air, hold the thermometer by its top in the shade for 2 minutes. 3. For water, stand it in a tumbler for about a minute. 4. Write each number next to the guess.  
   *Parent says:* Wait until the line stops each time. How close was your guess?  
@@ -379,13 +378,13 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   *Parent says:* Let's mark where the water is now. What will happen to it in hot water? Why?  
   *Child mode:* Mark the water level. Now guess: what will hot water do to it? Why?
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* 1. Stand the bottle in the bowl of hot water. 2. Watch the straw for 5 minutes. 3. Mark the highest level, and write the hot water's real temperature beside it.  
+  *Parent does:* 1. Stand the bottle in the bowl of hot water. 2. Stand the real thermometer in the same bowl. 3. Watch the straw for 5 minutes. 4. Mark the highest level, and write the real thermometer's reading beside it.  
   *Parent says:* Watch the straw closely. What is the coloured water doing?  
   *Child mode:* Watch the straw. Is the water going up or down?
   - Note: In the first few seconds the level may dip a little, because the glass warms and expands first. Then the water warms and climbs, often several centimetres. This is real and worth pointing out.
   - Check: Why did the coloured water climb up the straw? → **The water in the bottle warmed, expanded and needed more space, so it went up the straw**
 - **s4 (7 min)**  
-  *Parent does:* 1. Move the bottle into the ice water. 2. Watch for 5 minutes. 3. Mark the lowest level.  
+  *Parent does:* 1. Move the bottle into the ice water, with the real thermometer. 2. Watch for 5 minutes. 3. Mark the lowest level, and write the real reading beside it.  
   *Parent says:* Now into the cold. What do you think will happen? Why?  
   *Child mode:* Now put it in ice water. What happens to the level?
   - Note: The level falls, often below the room mark. Your child now has a thermometer with three marks. A real thermometer was made the same way, with marks for ice and boiling water.
@@ -396,7 +395,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   *Parent does:* 1. Walk through the home together. 2. Find six things that are warming up or cooling down. 3. For each, ask which way the heat is going.  
   *Parent says:* Let's find things that are warming up or cooling down. For each one, where is the heat going? From what, into what?  
   *Child mode:* Find six things getting warmer or cooler. Where is the heat going?
-  - Note: Good finds: a cooker cooling after cooking, curd warming on the table, ice melting in a drink, a hot iron cooling, a child's hand on a cold tile, clothes drying in the sun. For ice in a drink, the heat goes from the drink into the ice.
+  - Note: Good finds: a pot of rice or fish curry cooling after cooking, curd warming on the table, ice melting in a drink, a hot iron cooling, a child's hand on a cold tile, clothes drying in the sun. For ice in a drink, the heat goes from the drink into the ice.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to draw each one with a red arrow from the warmer thing to the cooler thing.  
   *Parent says:* Draw each one. Make the heat arrow go from the warmer thing to the cooler thing.  
@@ -404,15 +403,15 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   - Check: Ice cubes are melting in a tumbler of lemon juice. Which way is the heat going? → **From the juice into the ice**
 
 ## Projects
-### p1 · My Temperature Diary: seven days at the window (40 min, 7 days)
-- **safety:** Keep the thermometer in the shade, tied or taped so it cannot fall from the window or balcony.
+### p1 · My Temperature Diary: seven days at the window (44 min, 7 days)
+- **safety:** Tie or tape the thermometer so it cannot fall from the window or balcony.
 - **record:** A table with the day, the 8 am reading, the 2 pm reading and the weather in one word (sunny, cloudy, rainy). On day 7, a line graph with two lines.
-- **schedule:** day 1: Choose a shady spot. Draw the diary table. Take the first morning and afternoon readings. (10 min); day 2: Read the thermometer at 8 in the morning and 2 in the afternoon. (4 min); day 3: Read at 8 in the morning and 2 in the afternoon. (4 min); day 4: Read at 8 in the morning and 2 in the afternoon. (4 min); day 5: Read at 8 in the morning and 2 in the afternoon. (4 min); day 6: Read at 8 in the morning and 2 in the afternoon. (4 min); day 7: Last readings. Draw a line graph and find the warmest and coolest times. (10 min)
+- **schedule:** day 1: Choose a shady spot. Draw the diary table. Take the first morning and afternoon readings. (10 min); day 2: Read the thermometer at 8 in the morning and 2 in the afternoon. (4 min); day 3: Read at 8 in the morning and 2 in the afternoon. (4 min); day 4: Read at 8 in the morning and 2 in the afternoon. (4 min); day 5: Read at 8 in the morning and 2 in the afternoon. (4 min); day 6: Read at 8 in the morning and 2 in the afternoon. (4 min); day 7: Last readings. Then draw a line graph and find the warmest and coolest times. (14 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Find a shady spot at a window or balcony. 2. Fix the thermometer there so it cannot fall. 3. Draw the table. 4. Take the first readings at 8 am and 2 pm.  
   *Parent says:* For seven days we will read the same thermometer at the same place, every morning and every afternoon. Which will be warmer, do you think? Why?  
   *Child mode:* Read the thermometer at 8 in the morning and 2 in the afternoon. Which will be warmer? Why?
-- **s2 (20 min)**  
+- **s2 (24 min)**  
   *Parent does:* Each day, read at 8 am and 2 pm. Write the numbers and one word for the weather.  
   *Parent says:* Time for the reading. What does it say? Is it warmer or cooler than yesterday at this time?  
   *Child mode:* Read the thermometer. Write the number. Write the weather.
@@ -425,10 +424,11 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   - Check: Why is 2 in the afternoon usually warmer than 8 in the morning? → **The Sun has been heating the ground and air for hours**
 
 ## Challenges
-### c1 · Cool the Coffee Fast (25 min)
+### c1 · Cool the Hot Water Fast (25 min)
 - **problem:** A tumbler of hot water is too hot to drink. Get it down to 40 °C as fast as you can, without a fridge, ice or adding cold water.
+- **safety:** A grown-up pours the hot water and does the high pouring. Keep hands clear of the stream and work over a tray.
 - **your turn:** Try your best idea and time it. Then try a second idea. Which was faster, and why do you think so?
-- **constraints:** Start with one tumbler of hot water from a grown-up, all at the same temperature.; No fridge, no ice, and no adding water.; Measure with the thermometer and time it.
+- **constraints:** Start with one tumbler of hot water from a grown-up, all at the same temperature.; No fridge, no ice, and no water added to the hot water.; Measure with the thermometer and time it.
 - **general:** Pour the water between two tumblers, or a tumbler and a davara, again and again. Much more water touches the air, so heat leaves faster.; Pour it into a wide plate. A shallow layer has a big top for heat to leave through.; Fan it. Moving air carries warm air away from the water, so cooler air keeps touching it.
 - **creative:** Stand the tumbler in a bigger bowl of tap water, as in Tumbler in a Bowl.; Stir it with a cold steel spoon, and swap the spoon each minute.; Combine two ideas, such as pouring onto a plate and fanning.
 - **s1 (4 min) · grown-up needed**  
@@ -461,7 +461,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   *Parent says:* Now draw your scale. If 30 is here and 45 is here, where would 40 go?  
   *Child mode:* Draw your scale on paper. Where would 40 go?
 - **s3 (5 min)**  
-  *Parent does:* Test a new bowl. Read the straw first, then check with the real thermometer.  
+  *Parent does:* Ask a grown-up to mix a fourth bowl. Read the straw first, then check with the real thermometer.  
   *Parent says:* What does your straw thermometer say? Now let's check with the real one. How close were you?  
   *Child mode:* Read your straw thermometer. Then check with the real one. How close?
   - Check: Why does the straw thermometer take much longer to settle than a real thermometer? → **Its bottle holds much more water, so it needs much more heat to warm up**
@@ -472,10 +472,10 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
    **Answer:** ['thermometer']. *Why:* A thermometer measures temperature. Your hand can only tell you whether it is warming up or cooling down.
 2. (fill) On the Celsius scale, pure water freezes at ____ degrees and boils at ____ degrees.  
    **Answer:** ['0', '100']. *Why:* The Celsius scale was made by marking melting ice as 0 and boiling water as 100, and cutting the space between into 100 equal degrees.
-3. (mcq) Meenakshi, a girl in Class 3, dips a thermometer into hot water and reads it straight away. What is wrong with her reading?  
+3. (mcq) Meenakshi, a girl in Class 5, dips a thermometer into hot water and reads it straight away. What is wrong with her reading?  
    Options: Nothing, a thermometer is right at once / It will be too low, because the thermometer has not warmed up to the water yet / It will be too high, because thermometers start hot  
    **Answer:** It will be too low, because the thermometer has not warmed up to the water yet. *Why:* Heat takes about a minute to move into the thermometer's bulb. Until then the thermometer is cooler than the water, so it reads too low. A strong answer says: wait until the line stops moving.
-4. (mcq) Farhan wants to measure the water in the fridge. He has a fever thermometer and a laboratory thermometer. Which should he use?  
+4. (mcq) Farhan, a boy aged 8, wants to measure the water in the fridge. He has a fever thermometer and a laboratory thermometer. Which should he use?  
    Options: The fever thermometer, because it is digital / The laboratory thermometer, because a fever thermometer reads only from about 32 to 42 °C / Either one  
    **Answer:** The laboratory thermometer, because a fever thermometer reads only from about 32 to 42 °C. *Why:* Fridge water is about 4 to 8 °C, far below what a fever thermometer can read, so it would just show 'Lo'. A laboratory thermometer reads from about minus 10 to 110 °C.
 5. (truefalse) When you hold an ice cube, cold moves from the ice into your hand.  
@@ -488,14 +488,14 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
    **Answer:** inside a fridge → about 4 °C; melting ice → 0 °C; inside your body → about 37 °C; boiling water at sea level → 100 °C; a room in Chennai in May → about 32 °C. *Why:* Knowing a few real temperatures helps you judge any number you read. Your body is warmer than most rooms, and a fridge is just above freezing.
 9. (order) Put these steps for reading a thermometer in water in the right order.  
    **Answer:** ['Stand the bulb in the water', 'Stir the water gently', 'Wait until the line stops moving', 'Read the number where the line ends']. *Why:* The bulb must be in the water, stirring mixes the water so it is the same all through, and waiting lets heat move into the bulb. Only then is the number right.
-10. (mcq) Kavya puts one hand in warm water and one in ice water. Then she puts both in a bowl of tap water. What does she feel?  
-   Options: Both hands feel the tap water as warm / The hand from the warm water feels it as cold, and the hand from the ice feels it as warm / Both hands feel the tap water as cold  
-   **Answer:** The hand from the warm water feels it as cold, and the hand from the ice feels it as warm. *Why:* The warm hand loses heat to the tap water and feels cold. The cold hand gains heat and feels warm. Your skin feels whether it is warming or cooling, so the same water feels different to each hand.
+10. (mcq) A laboratory thermometer has a round bulb at the bottom. Why must the bulb be right in the water, and not just the tip of the glass?  
+   Options: Most of the liquid is in the bulb, so the bulb must reach the water's temperature / The bulb makes the water hotter / The glass tip is too sharp  
+   **Answer:** Most of the liquid is in the bulb, so the bulb must reach the water's temperature. *Why:* The bulb holds most of the liquid. Heat must move into the bulb until it is as warm as the water, and then the line shows the water's temperature.
 11. (write) In the Hot Tumbler, Cold Tumbler test, the cold tumbler's number went up from 8 to 16 in 20 minutes. Where did its heat come from?  
    **Answer:** From the air and the table around it. They were at room temperature, which was warmer than the cold water, so heat moved from them into the water.. *Why:* A strong answer names where the heat came from and says why it moved that way: from the warmer air and table to the cooler water.
 12. (write) Why does a thermometer have such a narrow tube?  
    **Answer:** The liquid expands only a tiny bit when it warms. In a narrow tube, that tiny bit of extra liquid makes a long line that is easy to see and read.. *Why:* A strong answer says that the liquid expands only a little, and that the narrow tube makes that small change show up as a big rise.
-13. (write) Revathi says, 'Shut the door, the cold is coming in!' What is really happening when the door is open on a cold night?  
+13. (write) A girl on a cold night says, 'Shut the door, the cold is coming in!' What is really happening when the door is open on a cold night?  
    **Answer:** Heat from the warm room is going out through the open door into the colder air outside. The room cools down because it is losing heat. No cold is coming in.. *Why:* A strong answer says that heat is leaving, and uses the rule that heat moves from warmer to cooler.
 14. (draw) Draw a tumbler of hot water on a table. Draw red arrows to show where its heat goes.  
    **Answer:** Red arrows go out of the water into the air above it, out through the sides into the air, and down into the table.. *Why:* A strong drawing shows heat leaving in several directions, always from the hot water to the cooler things that touch it.
@@ -505,72 +505,72 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 1. (mcq) In the Tumbler in a Bowl test, the hot tumbler started at 62 °C and the bowl water at 30 °C. Where did the two numbers stop?  
    Options: Both at 62 °C / Both at about 37 °C, nearer the bowl's start / Both at 30 °C  
    **Answer:** Both at about 37 °C, nearer the bowl's start. *Why:* Heat moved from the tumbler into the bowl until both were the same. The bowl held three times as much water, so it went up only a little while the tumbler came down a lot. They met at about 37 °C.
-2. (mcq) Arjun mixes one katori of water at 70 °C with one katori of water at 20 °C. About what will the mix read?  
-   Options: 90 °C / About 45 °C / 20 °C  
-   **Answer:** About 45 °C. *Why:* With equal amounts, the hot water comes down as far as the cold water goes up, so they meet halfway. Halfway between 70 and 20 is 45. In a real test it reads a little less, because the tumbler takes some heat.
-3. (mcq) Which holds more heat: a small katori of water at 70 °C, or a big bucket of water at 40 °C?  
-   Options: The katori, because it is hotter / The bucket, because it has so much more water / They hold the same  
-   **Answer:** The bucket, because it has so much more water. *Why:* Temperature says how hot a thing is, not how much heat it holds. The bucket has many times more water, so it holds far more heat and can melt much more ice. The katori is hotter, so heat would flow from it into the bucket if they touched.
-4. (truefalse) Heat can move by itself from a cooler thing to a warmer thing.  
-   **Answer:** False. *Why:* False. Heat moves by itself only from warmer to cooler. A fridge can move heat the other way, but only by using electricity to pump it, which is why the back of a fridge is warm.
-5. (fill) When the liquid in a thermometer warms up, it takes up more space. This is called ____.  
+2. (truefalse) Heat can move by itself from a cooler thing to a warmer thing.  
+   **Answer:** False. *Why:* False. Heat moves by itself only from warmer to cooler. It can be pushed the other way only by a machine that uses electricity, such as a fridge.
+3. (fill) When the liquid in a thermometer warms up, it takes up more space. This is called ____.  
    **Answer:** ['expanding', 'expansion']. *Why:* Most things expand when they warm. In a thermometer, the expanding liquid has nowhere to go but up the tube.
-6. (odd) Three of these are things losing heat. Which one is gaining heat?  
-   Options: A hot iron after it is switched off / Fresh chapatis cooling in a box / Ice cream melting in a bowl / A cup of tea left on the table  
+4. (odd) Three of these are things losing heat. Which one is gaining heat?  
+   Options: A hot iron after it is switched off / Fresh theplas cooling in a box / Ice cream melting in a bowl / A cup of tea left on the table  
    **Answer:** 2. *Why:* Ice cream is colder than the room, so heat moves into it and it melts. The iron, the chapatis and the tea are all warmer than the room, so they lose heat.
-7. (sort) Your skin is about 33 °C. Sort these. Does heat move into your hand or out of your hand when you touch each one?  
+5. (sort) Your skin is about 33 °C. Sort these. Does heat move into your hand or out of your hand when you touch each one?  
    **Answer:** a tumbler of hot coffee → Into my hand; a steel plate from the fridge → Out of my hand; a warm bath at 40 °C → Into my hand; a marble floor in the morning → Out of my hand; a hot water bottle → Into my hand; tap water at 26 °C → Out of my hand. *Why:* Compare each thing with your skin. Anything warmer than 33 °C gives heat to your hand. Anything cooler takes heat from it. A strong answer compares numbers, not just how things feel.
-8. (order) Lakshmi read her hot tumbler every 5 minutes. Put her readings in time order, from the first to the last.  
+6. (order) Lakshmi, a girl aged 9, read her hot tumbler every 5 minutes. Put her readings in time order, from the first to the last.  
    **Answer:** ['62 °C', '56 °C', '52 °C', '48 °C', '45 °C']. *Why:* A hot tumbler cools all the time, so the readings go down. They also go down by less each time, because the water gets closer to room temperature.
-9. (write) In the Hot Tumbler test, the hot water fell 6 degrees in the first 5 minutes, but only 3 degrees between 15 and 20 minutes. Why did it slow down?  
+7. (write) In the Hot Tumbler test, the hot water fell 6 degrees in the first 5 minutes, but only 3 degrees between 15 and 20 minutes. Why did it slow down?  
    **Answer:** At the start the water was much hotter than the room, so heat left fast. As it cooled, it was closer to room temperature, so the difference was smaller and heat left more slowly.. *Why:* A strong answer links the speed of cooling to the difference between the water and the room: the bigger the difference, the faster heat moves.
-10. (write) Your straw thermometer's coloured water climbed when you stood it in hot water. Explain why, using the word 'expand'.  
+8. (write) Your straw thermometer's coloured water climbed when you stood it in hot water. Explain why, using the word 'expand'.  
    **Answer:** The water in the bottle warmed up and expanded, so it needed more space. The only place it could go was up the straw, so the level rose.. *Why:* A strong answer says the bottle water warmed, expanded, and had only the straw to go into.
-11. (write) Selvi takes a bottle of water out of the fridge. After an hour, it is covered in drops. She thinks water leaked through the bottle. What would you tell her?  
+9. (write) Selvi, a girl in Class 3, takes a bottle of water out of the fridge. After an hour, it is covered in drops. She thinks water leaked through the bottle. What would you tell her?  
    **Answer:** The drops came from the air, not from inside. The cold bottle cooled the damp air touching it, and the water in that air turned into drops. To check, wipe the bottle dry. More drops appear, but the water inside does not go down.. *Why:* A strong answer says the drops come from the air cooled by the cold bottle, and suggests a way to check.
-12. (draw) Draw a graph with time along the bottom and temperature up the side. Draw one line for a hot tumbler and one for a cold tumbler on the same table, for 3 hours. Draw the room temperature as a dotted line.  
-   **Answer:** The hot line starts high and curves down, steeply at first and then more gently, flattening at the dotted line. The cold line starts low and curves up, flattening at the dotted line too.. *Why:* A strong graph shows both lines curving towards the room line and levelling off there, faster at the start than near the end.
-13. (perspective) Three friends argue about why their hands feel cold after holding a steel tumbler of fridge water.  
+10. (perspective) Three friends argue about why their hands feel cold after holding a steel tumbler of fridge water.  
    **Answer:** A strong answer usually agrees with Meenakshi: a thermometer shows the hand cooling and the tumbler warming, and Prévost showed that only heat moves. It admits Farhan has a point, since both words describe the same change, but explains that scientists measure the heat, and cold is just less of it.. *Why:* There is a real argument here. Farhan's view is not silly, and scientists in the 1790s argued about it. A strong answer gives evidence and is fair to another side.
-14. (mcq) Thangam's thermometer reads 31 °C in her room. She hangs it in the afternoon sun and it reads 45 °C. Is the air in the sun really 45 °C?  
+11. (mcq) Thangam, a girl in Class 4, has a thermometer that reads 31 °C in her room. She hangs it in the afternoon sun and it reads 45 °C. Is the air in the sun really 45 °C?  
    Options: Yes, the thermometer is always right / Probably not. The sunlight is heating the thermometer itself, so it reads hotter than the air / No, thermometers do not work outside  
    **Answer:** Probably not. The sunlight is heating the thermometer itself, so it reads hotter than the air. *Why:* A thermometer shows its own temperature. Sunlight heats its glass and liquid directly, so it reads higher than the air. That is why weather stations keep thermometers in a shady box with slats.
-15. (fill) Two things that touch keep passing heat until they are at the same ____.  
+12. (fill) Two things that touch keep passing heat until they are at the same ____.  
    **Answer:** ['temperature']. *Why:* Heat moves only when there is a temperature difference. When the temperatures are the same, it stops.
+13. (write) Rub your palms hard together for 10 seconds. They get warm. Someone says heat was stored inside your hands and rubbing squeezed it out. Why is that hard to believe?  
+   **Answer:** You can keep rubbing for as long as you like, and your hands keep getting warm. A store of heat would run out. The rubbing makes the tiny particles jiggle faster, and that is heat.. *Why:* A strong answer says that rubbing can make heat without end, so heat is not a stored fluid. It is the jiggling of particles, which rubbing speeds up.
+14. (match) Match each word to what it means.  
+   **Answer:** temperature → how hot or cold something is; heat → energy that moves from a warmer thing to a cooler thing; expand → take up more space; room temperature → the temperature things reach after standing in a room for long. *Why:* Temperature is a measure of how hot something is. Heat is the energy that moves because of a difference in temperature.
+15. (mcq) A thermometer has been standing in a hot tumbler. It is moved straight into fridge water and read after 5 seconds. What will it show?  
+   Options: About 8 °C, the temperature of the fridge water / A number still close to the hot water's, because the thermometer has not cooled yet / Exactly 0 °C  
+   **Answer:** A number still close to the hot water's, because the thermometer has not cooled yet. *Why:* A thermometer shows its own temperature. It takes about a minute to give up its heat to the cold water. Until then the reading is too high.
 ### Think Like Prévost (challenge) (challenge, 15 questions)
-1. (mcq) In 1790, Marc-Auguste Pictet put a flask of snow in front of a curved mirror. A thermometer in front of a second mirror, across the room, fell. What did Pierre Prévost say was happening?  
-   Options: The snow was sending out rays of cold / The thermometer was sending heat to the snow, and getting less back than it gave / The mirrors were cold  
-   **Answer:** The thermometer was sending heat to the snow, and getting less back than it gave. *Why:* Prévost said everything sends out heat all the time, and warmer things send out more. The thermometer was warmer than the snow, so it gave out more than it got back, and cooled. Many people at the time thought the snow sent out cold, which is why it was a real argument.
-2. (mcq) Dhanya mixes 1 katori of water at 60 °C with 2 katoris of water at 15 °C. About what will the mix read?  
+1. (write) In 1790, a thermometer fell when a flask of snow stood in front of a mirror across the room. Why was it sensible to think the snow was sending out cold?  
+   **Answer:** The thermometer really did get colder when the snow was there, and it looked as if something travelled from the snow to the thermometer. Pierre Prévost showed that the same result fits another idea: the thermometer was sending out more heat than it got back.. *Why:* A strong answer says that one result can fit two ideas, and that Prévost's idea, that only heat moves, fits everything else in this unit.
+2. (mcq) Dhanya, a girl in Class 4, mixes 1 katori of water at 60 °C with 2 katoris of water at 15 °C. About what will the mix read?  
    Options: About 37 °C, halfway / About 30 °C, nearer the cold / About 50 °C, nearer the hot  
    **Answer:** About 30 °C, nearer the cold. *Why:* Think of three katoris sharing heat. The total of the three starting numbers is 60 + 15 + 15 = 90, and 90 shared by 3 is 30. There is more cold water, so the mix is nearer the cold number.
 3. (truefalse) If you leave a tumbler of water on the table for a whole day, it can end up a little cooler than the room.  
    **Answer:** True. *Why:* True. Water evaporating from the top carries away a little heat, so open water often settles a degree or so below the air. A strong answer names evaporation as the reason.
-4. (write) Your hot tumbler gave its heat to the room. Why didn't the room's thermometer go up?  
-   **Answer:** The room has a huge amount of air, walls and furniture compared with one tumbler. The tumbler's heat was shared among all of it, so the room warmed by far too little to see on the thermometer.. *Why:* A strong answer says that the heat spread into something much bigger, so the rise was too small to measure, and may mention the Tumbler in a Bowl test, where a smaller amount of water did show the rise.
-5. (write) A thermometer only ever tells you its own temperature. So how can it tell you the temperature of the water?  
-   **Answer:** When the thermometer stands in the water, heat moves between them until they are at the same temperature. Then the thermometer's own temperature is the water's temperature, so its reading is the water's too.. *Why:* A strong answer uses the rule that things that touch end up at the same temperature, and explains why you must wait.
-6. (write) A big pot of sambar stays hot much longer than a small bowl of it, even though both started at the same temperature. Why?  
+4. (write) A big pot of sambar stays hot much longer than a small bowl of it, even though both started at the same temperature. Why?  
    **Answer:** The big pot holds much more sambar, so it holds much more heat. Heat leaves through the surface, and the big pot has less surface for each spoonful of sambar inside. So it takes much longer to lose its heat.. *Why:* A strong answer uses the difference between heat and temperature: same temperature, but the pot holds far more heat.
-7. (write) Many people think hot water freezes faster than cold water. This is called the Mpemba effect. Describe a fair test you could do at home to check it.  
+5. (write) Many people think hot water freezes faster than cold water. This is called the Mpemba effect. Describe a fair test you could do at home to check it.  
    **Answer:** Use two identical steel cups with the same amount of water, one hot and one cold. Put them side by side in the freezer at the same time. Check every 10 minutes and write when each one is frozen solid. Repeat it three times, because one try can be a fluke.. *Why:* A strong test changes only the starting temperature, keeps the cups, amounts and place the same, decides what 'frozen' means, and repeats the test. Scientists still argue about this effect, so either result is interesting.
-8. (perspective) A family is deciding how to keep their flat cooler in May, without an AC.  
+6. (perspective) A family is deciding how to keep their flat cooler in May, without an AC.  
    **Answer:** A strong answer usually backs Kavya: heat comes in when the outside is hotter, and goes out when the outside is cooler, so a thermometer inside and outside tells you when to open the windows. It admits Paati is right that a breeze cools our skin even when the air is warm, because it helps sweat evaporate, and Amma is right about the hottest hours.. *Why:* This is a real choice families make, with a real trade-off. A strong answer uses the direction of heat flow as evidence and is fair to the other views.
-9. (sort) Sort these sentences. Is each one about temperature or about amount of heat?  
-   **Answer:** The tea is 65 °C. → Temperature; The big bucket melted more ice than the small katori. → Amount of heat; The thermometer reads 30 in the room. → Temperature; The big pot of sambar stayed hot for an hour. → Amount of heat; Water boils at 100 °C. → Temperature. *Why:* Temperature is a number for how hot something is. The amount of heat depends on how hot it is and how much of it there is. A strong sorter asks: is this about how hot, or about how much it can warm other things?
-10. (order) Put these in order from coldest to hottest.  
-   **Answer:** ['inside a healthy person', 'a child with a fever', 'a warm bath', "a hen's body"]. *Why:* A healthy person is about 37 °C, a fever is about 39 °C, a warm bath about 40 °C and a hen about 41 °C. Birds keep their bodies warmer than people do.
-11. (mcq) A fridge keeps its inside cold, but the back of the fridge is warm. Why?  
+7. (sort) Sort these sentences. Is each one about temperature or about amount of heat?  
+   **Answer:** The tea is 65 °C. → Temperature; The big bucket melted more ice than the small katori. → Amount of heat; The thermometer reads 30 in the room. → Temperature; The big pot of sambar could warm many cold plates. → Amount of heat; Water boils at 100 °C. → Temperature. *Why:* Temperature is a number for how hot something is. The amount of heat depends on how hot it is and how much of it there is. A strong sorter asks: is this about how hot, or about how much it can warm other things?
+8. (mcq) A fridge keeps its inside cold, but the back of the fridge is warm. Why?  
    Options: The fridge pumps heat out of its inside and lets it out at the back / The light inside is hot / Cold and heat are both made inside it  
    **Answer:** The fridge pumps heat out of its inside and lets it out at the back. *Why:* Heat does not move by itself from the cold inside to the warm kitchen. The fridge uses electricity to pump it out, and the heat leaves through the grille at the back. A fridge does not make cold. It moves heat.
-12. (draw) Draw what the water particles might look like in a tumbler of cold water and in a tumbler of hot water. Show how they move.  
+9. (draw) Draw what the water particles might look like in a tumbler of cold water and in a tumbler of hot water. Show how they move.  
    **Answer:** Both drawings show many small dots packed close together. The cold ones have short wiggle lines. The hot ones have long wiggle lines, showing they jiggle faster.. *Why:* A strong drawing keeps the particles the same size and about the same distance apart, and shows the difference only in how fast they move, because that is what temperature is.
-13. (label) Here is the Tumbler in a Bowl setup. Label: hot water, bowl water, steel tumbler, and the direction the heat moves.  
+10. (label) Here is the Tumbler in a Bowl setup. Label: hot water, bowl water, steel tumbler, and the direction the heat moves.  
    **Answer:** Hot water inside the tumbler, bowl water around it, the steel tumbler wall between them, and arrows pointing outwards from the hot water through the steel into the bowl water.. *Why:* A strong label shows heat going one way only: from the hot water, through the steel, into the cooler water around it.
-14. (fill) On the Celsius scale, anything colder than freezing water gets a ____ number, such as a freezer at about 18 below zero.  
+11. (fill) On the Celsius scale, anything colder than freezing water gets a ____ number, such as a freezer at about 18 below zero.  
    **Answer:** ['minus', 'negative']. *Why:* Zero is where water freezes, not where temperature ends. Colder than that, we count down below zero: minus 1, minus 2, and so on.
-15. (write) If temperature is how fast particles jiggle, could there be a coldest possible temperature? Explain your thinking.  
+12. (write) If temperature is how fast particles jiggle, could there be a coldest possible temperature? Explain your thinking.  
    **Answer:** Yes. If particles jiggle more slowly as things get colder, there must be a point where they are moving as little as they possibly can. Nothing could be colder than that. Scientists call it absolute zero, which is about minus 273 °C.. *Why:* A strong answer reasons from the idea that temperature is jiggling: slower and slower must stop somewhere. Naming absolute zero is a bonus, not needed.
+13. (write) Design a fair test to find out whether a lid slows down the cooling of a tumbler of hot water. Say what you change and what you keep the same.  
+   **Answer:** Use two identical steel tumblers with the same amount of water at the same temperature. Put a lid on one only. Stand them side by side in the same place and read both every 5 minutes. Repeat it, because one try can be a fluke.. *Why:* A strong test changes only the lid, keeps the tumblers, the water, the temperature and the place the same, reads both at the same times, and repeats the test.
+14. (mcq) A glass clinical thermometer keeps its reading after it is taken out of the mouth. What makes this possible?  
+   Options: A small kink in the tube stops the liquid sliding back / The liquid cannot cool down / The glass stays warm for hours  
+   **Answer:** A small kink in the tube stops the liquid sliding back. *Why:* The kink holds the liquid in the tube, so a grown-up can read it after taking it out. You shake it down before the next use.
+15. (mcq) In the Tumbler in a Bowl test, the hot tumbler started at 62 °C and the bowl water at 30 °C. Suppose the bowl held ten times as much water as the tumbler. Where would the two numbers stop?  
+   Options: About 37 °C, as before / Very near 30 °C, only a little warmer / Near 62 °C  
+   **Answer:** Very near 30 °C, only a little warmer. *Why:* The tumbler's heat is shared among much more water, so the bowl warms very little. The more water the bowl holds, the nearer the meeting point is to the bowl's start.
 
 ## Videos
 - **Temperature vs Heat (Eureka!)** (eloengee, 4 min) id `wTi3Hn09OBs`: A short, clear cartoon from the old Eureka! series. It shows that temperature is how fast particles move, and heat is the energy that passes between things. Good for the parent, and for the child after the tumbler test. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Temperature vs Heat (Eureka!)', uploaded by eloengee). Not watched from here, so the length is a guess and a parent should preview it.
@@ -581,37 +581,31 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 1. (mcq) What does a thermometer measure?  
    Options: How heavy something is / How hot or cold something is / How much heat something holds  
    **Answer:** How hot or cold something is. *Why:* A thermometer measures temperature: how hot or cold something is. It does not say how much heat a thing holds. A big bucket and a small cup can read the same.
-2. (mcq) Why must you wait before reading a thermometer in hot water?  
-   Options: Heat takes time to move into the thermometer until it is as warm as the water / The numbers need time to appear / The water needs time to get hot  
-   **Answer:** Heat takes time to move into the thermometer until it is as warm as the water. *Why:* A thermometer shows its own temperature. It reads right only after heat has moved in and it is as warm as the water, which takes about a minute.
-3. (mcq) Ravi puts one hand in warm water and one in ice water for a minute. Then he puts both in tap water. Why does each hand feel something different?  
+2. (mcq) Ravi, a boy in Class 3, puts one hand in warm water and one in ice water for a minute. Then he puts both in tap water. Why does each hand feel something different?  
    Options: The tap water is warmer on one side / Each hand feels whether it is warming up or cooling down / Ravi's hands are different  
    **Answer:** Each hand feels whether it is warming up or cooling down. *Why:* The hand from the ice gains heat in the tap water and feels warm. The hand from the warm water loses heat and feels cold. A thermometer shows one number for the whole bowl.
-4. (mcq) Why does the red liquid in a thermometer climb when it gets warmer?  
+3. (mcq) Why does the red liquid in a thermometer climb when it gets warmer?  
    Options: The liquid expands and the only place to go is up the narrow tube / Heat is lighter than air, so it floats up / The glass squeezes it upwards  
    **Answer:** The liquid expands and the only place to go is up the narrow tube. *Why:* Warmer liquid takes up more space. The narrow tube turns a tiny bit of extra liquid into a long rise. Heat is not a thing that floats, so the second answer cannot be right.
+4. (mcq) A parent's hand is cold from holding a cold drink. The hand feels a child's forehead and says 'very warm'. A clinical thermometer reads 37.0 °C. Which should the parent trust?  
+   Options: The hand, because it can feel heat directly / The thermometer, because a hand only feels whether it is warming up or cooling down / Neither, because a number cannot show a fever  
+   **Answer:** The thermometer, because a hand only feels whether it is warming up or cooling down. *Why:* A cold hand gains heat from the forehead and feels it as warm, as in the two-hands bowl test. The thermometer waits until it matches the body and shows one steady number. 37.0 °C is a normal body temperature.
 5. (mcq) A hot dosa is put on a cool steel plate. Which way does heat move?  
    Options: From the plate into the dosa / From the dosa into the plate / No heat moves  
    **Answer:** From the dosa into the plate. *Why:* Heat moves from the warmer thing to the cooler thing. The dosa is hotter, so heat goes from the dosa into the plate, and the plate gets warm.
 6. (mcq) Two tumblers, one of hot water and one of fridge water, stand in a room at 30 °C for 3 hours. What will they read?  
    Options: The hot one 60 °C, the cold one 8 °C, the same as at the start / Both about 30 °C / The hot one 8 °C and the cold one 60 °C  
    **Answer:** Both about 30 °C. *Why:* Both share heat with the room until they are the same as the room. In your own test, both ended within a degree or two of the room.
-7. (mcq) In the Hot Tumbler, Cold Tumbler test, why did the cold water warm up?  
-   Options: Heat moved into it from the warmer air and table / Cold moved out of it into the room / The thermometer warmed it  
-   **Answer:** Heat moved into it from the warmer air and table. *Why:* The air and the table were warmer than the fridge water, so heat moved into the water. Nothing called cold moves. The thermometer is far too small to warm a whole tumbler.
-8. (mcq) A small katori of water is at 70 °C. A big bucket of water is at 40 °C. Which statement is true?  
+7. (mcq) A small katori of water is at 70 °C. A big bucket of water is at 40 °C. Which statement is true?  
    Options: The katori is hotter, but the bucket holds more heat / The katori is hotter and holds more heat / They hold the same heat  
    **Answer:** The katori is hotter, but the bucket holds more heat. *Why:* Temperature says how hot, and the katori is hotter. But the bucket has so much more water that it holds far more heat. It would melt much more ice.
-9. (mcq) Equal amounts of water at 80 °C and 20 °C are mixed. About what will the mix read?  
+8. (mcq) Equal amounts of water at 80 °C and 20 °C are mixed. About what will the mix read?  
    Options: 100 °C / About 50 °C / 20 °C  
    **Answer:** About 50 °C. *Why:* With equal amounts, the hot water cools by as much as the cold water warms, so they meet halfway. Halfway between 80 and 20 is 50. Mixing can never make water hotter than the hottest part.
-10. (mcq) In 1790, a flask of snow in front of a mirror made a thermometer across the room fall. What did Pierre Prévost show?  
+9. (mcq) In 1790, a flask of snow in front of a mirror made a thermometer across the room fall. What did Pierre Prévost show?  
    Options: Snow sends out rays of cold / The thermometer gave more heat to the snow than it got back / Mirrors make things cold  
    **Answer:** The thermometer gave more heat to the snow than it got back. *Why:* Prévost said everything sends out heat, and warmer things send out more. The thermometer lost more heat to the snow than it gained, so it cooled. Only heat was moving.
-11. (mcq) Why can't a fever thermometer measure water from the fridge?  
-   Options: It reads only from about 32 to 42 °C / It only works in the mouth / Water breaks it  
-   **Answer:** It reads only from about 32 to 42 °C. *Why:* A fever thermometer is made for bodies, which change only a little, so its range is short. Fridge water is far below 32 °C, so it just shows 'Lo'.
-12. (mcq) A tumbler of water on a sunny sill reads 45 °C, but the air in the shade reads 33 °C. What is the best explanation?  
+10. (mcq) A tumbler of water on a sunny sill reads 45 °C, but the air in the shade reads 33 °C. What is the best explanation?  
    Options: Sunlight is heating the water directly, so it is warmer than the air / Heat is flowing from the shady air into the water / The thermometer is broken  
    **Answer:** Sunlight is heating the water directly, so it is warmer than the air. *Why:* Sunlight brings heat straight to the water, so the water ends up warmer than the air around it. Heat cannot flow by itself from the cooler shady air into warmer water.
 
@@ -628,8 +622,8 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 ## Spotted around us
 - Drops of water forming on a steel tumbler of cold water or a cold bottle from the fridge.
 - The warm grille at the back of the fridge, where the heat from inside comes out.
-- Paati or Amma pouring coffee or tea between a tumbler and a davara to cool it.
-- The temperature shown on the TV weather report or a phone, for Chennai, Bengaluru, Kochi or Delhi.
+- Someone at home pouring coffee or tea between a tumbler and a davara to cool it.
+- The temperature shown on the TV weather report or a phone, for Chennai, Kochi, Guwahati or Ahmedabad.
 - A thermometer in a clinic, a pharmacy or the school sick room.
 - Curd, butter or idli batter from the fridge going soft on the kitchen counter as it warms up.
 
@@ -642,37 +636,29 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - Which do you think is warmer right now: the air in this room, or the water in the tap? How could we find out?
 - When you hold a cold glass, which way is the heat going?
 - Why does hot food cool down on your plate, but never get hotter?
-- Where does the heat from your cup of milk go when it cools?
-- Why do we pour coffee between a tumbler and a davara?
 - Is your body warmer or cooler than this room? So which way is your heat going?
 - Why does curd from the fridge go soft on the table?
 - What number do you think the thermometer will show on the balcony right now?
 - If we left a tumbler of ice water out until bedtime, what would it read?
-- Why does the back of the fridge feel warm?
+- Do you think a steel plate and a wooden plate left in the same room have the same temperature? How could we check?
 
 ## Jokes
 - Why did the thermometer go to school? *It wanted to get a degree.*
 - What did the hot tumbler say to the cold tumbler? *Don't worry, I'll warm up to you.*
-- Why is the thermometer so calm in a crisis? *It always waits until things settle before it says anything.*
-- What did one ice cube say to the other? *I'm melting! Who gave me all this heat?*
-- Why did the cold water sit next to the room? *It wanted to catch up with everyone.*
 - What is a thermometer's favourite subject? *Degree-ography.*
 - Why did the coffee call the police? *Someone mugged it, and it lost all its heat.*
 - How does a thermometer say goodbye? *I'll see you around 37.*
 - Why don't fridges ever win at hide and seek? *Their warm backs give them away.*
-- What did the bucket say to the small hot katori? *You may be hotter, but I've got more heat.*
 - Why did the red line in the thermometer climb so high? *It was feeling expansive.*
 - Why did the ice cube refuse to hold hands? *Every time it did, it lost its cool and melted.*
-- What did the room say when the hot tumbler finally stopped cooling? *Welcome to my temperature.*
 - Why was the straw thermometer so proud? *Because it was rising in the world.*
-- What did Prévost say to the snow? *Stop taking the credit. The thermometer did all the giving.*
 
 ## Connected maths
-- Lakshmi read her hot tumbler every 5 minutes: 62, 56, 52, 48, 45 degrees. How many degrees did it fall in the first 5 minutes? And in the last 5 minutes? What do you notice? **6 degrees in the first 5 minutes, and 3 degrees in the last 5 minutes. It cooled more slowly as it got closer to room temperature.**. 62 minus 56 is 6. 48 minus 45 is 3. The falls in between were 4 and 4. So the falls get smaller: 6, 4, 4, 3. The water cools fastest when it is furthest from the room's temperature. (queues `math.addition-subtraction.mental-strategies.L3`)
+- Lakshmi, a girl aged 9, read her hot tumbler every 5 minutes: 62, 56, 52, 48, 45 degrees. How many degrees did it fall in the first 5 minutes? And in the last 5 minutes? What do you notice? **6 degrees in the first 5 minutes, and 3 degrees in the last 5 minutes. It cooled more slowly as it got closer to room temperature.**. 62 minus 56 is 6. 48 minus 45 is 3. The falls in between were 4 and 4. So the falls get smaller: 6, 4, 4, 3. The water cools fastest when it is furthest from the room's temperature. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In the same test, Lakshmi's room was 30 °C. Her hot tumbler started at 62 °C and her cold tumbler at 8 °C. How far was each tumbler from the room at the start? Which one would you expect to change faster at first? **The hot tumbler was 32 degrees above the room. The cold tumbler was 22 degrees below it. The hot one should change faster at first, because it was further from the room.**. 62 minus 30 is 32. 30 minus 8 is 22. The bigger the difference, the faster heat moves. In her test the hot tumbler fell 6 degrees in the first 5 minutes, and the cold one rose 3. (queues `math.number-sense.comparing-ordering.L3`)
-- Arjun mixed 1 katori of water at 60 °C with 1 katori at 10 °C. What should the mix read? He measured 33 °C. Why might it be a little lower? **It should read about 35 °C. It was a little lower because some heat went into the steel tumbler and the air.**. With equal amounts, the mix is halfway. 60 plus 10 is 70, and half of 70 is 35. Some of the hot water's heat warmed the tumbler and the air instead of the cold water, so the mix was 2 degrees lower. (queues `math.addition-subtraction.word-problems.L3`)
+- Arjun, a boy aged 7, mixed 1 katori of water at 60 °C with 1 katori at 10 °C. What should the mix read? He measured 33 °C. Why might it be a little lower? **It should read about 35 °C. It was a little lower because some heat went into the steel tumbler and the air.**. With equal amounts, the mix is halfway. 60 plus 10 is 70, and half of 70 is 35. Some of the hot water's heat warmed the tumbler and the air instead of the cold water, so the mix was 2 degrees lower. (queues `math.addition-subtraction.word-problems.L3`)
 - A thermometer has a long line at every 10 degrees and a short line at every 2 degrees. The red liquid stops 3 short lines above the long line for 20. What does it read? **26 °C.**. Each short line is 2 degrees. 3 short lines is 3 lots of 2, which is 6. 20 plus 6 is 26. (queues `math.temperature.reading-thermometers.L3`)
-- Selvi's Temperature Diary shows these 2 pm readings for a week in Bengaluru: 29, 30, 28, 24, 27, 29, 30 °C. On which day was it coolest? What might the weather have been that day? What was the difference between the warmest and coolest afternoon? **Day 4 was the coolest, at 24 °C. It was probably cloudy or rainy. The difference was 6 degrees, from 30 down to 24.**. The smallest number is 24, on day 4. Clouds and rain stop sunlight heating the ground and air, so a rainy afternoon is cooler. 30 minus 24 is 6. (queues `math.data.line-graphs.L4`)
+- Selvi, a girl in Class 3, kept a Temperature Diary in Bengaluru. Her 2 pm readings for a week were: 29, 30, 28, 24, 27, 29, 30 °C. On which day was it coolest? What might the weather have been that day? What was the difference between the warmest and coolest afternoon? **Day 4 was the coolest, at 24 °C. It was probably cloudy or rainy. The difference was 6 degrees, from 30 down to 24.**. The smallest number is 24, on day 4. Clouds and rain stop sunlight heating the ground and air, so a rainy afternoon is cooler. 30 minus 24 is 6. (queues `math.data.line-graphs.L4`)
 
 ## Song
 Warm to Cool (sci.energy.L3): Topic-level song for Energy L3
@@ -684,7 +670,7 @@ Warm to Cool (sci.energy.L3): Topic-level song for Energy L3
 - [B. M. Birla Science Centre](https://www.birlasciencecentre.org/) · place · Hyderabad: A science centre and planetarium with hands-on science exhibits.
 
 ## Things to buy
-- [A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital kitchen probe thermometer.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every experiment in this unit needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are sold cheaply in stationery and science shops and online. A digital probe is harder to break. Used in e1, e2, e3, a1, a2, a3, p1, c1, c2. Used again in later units on how heat moves, melting and the weather. Keep it in its case.
+- [A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital kitchen probe thermometer.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every experiment in this unit needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break. Used in e1, e2, e3, a1, a2, a3, p1, c1, c2. 
 
 ## Warm-up
 - What does a thermometer measure? → Temperature: how hot or cold something is.

@@ -26,9 +26,9 @@
 - **Repel**: To push away. Two of the same charge, two plus or two minus, repel each other. *e.g.* Hairs that all have plus charge repel each other and spread apart.
 - **Insulator**: A material that does not let charge move through it. Charge stays where it is put on an insulator. *e.g.* Rubber, plastic, wool and dry hair are insulators, so they can hold static charge.
 - **Conductor**: A material that lets charge move through it easily. Metals, water and your body are conductors. *e.g.* A steel spoon rubbed on wool does not stay charged in your hand, because the charge runs through the steel and through you.
-- **Humid**: Having a lot of water vapour in the air. Humid air makes things feel sticky and damp. *e.g.* Chennai in the monsoon is humid. Static tricks work badly then.
+- **Humid**: Having a lot of water vapour in the air. Humid air makes things feel sticky and damp. *e.g.* Mumbai in the monsoon is humid. Static tricks work badly then.
 - **Spark**: A tiny flash and snap when charge jumps across air from one thing to another. *e.g.* Pulling off a sweater in a dark, dry room can make tiny sparks you can see and hear.
-- **Lightning**: A giant spark between a storm cloud and the ground, or between two parts of a cloud. *e.g.* In April and May, evening storms bring lightning to Kerala and Karnataka.
+- **Lightning**: A giant spark between a storm cloud and the ground, or between two parts of a cloud. *e.g.* In April and May, evening storms bring lightning to Kerala, Karnataka, Odisha and Assam.
 - **Thunder**: The loud sound made when lightning heats the air so fast that the air bursts outwards. *e.g.* You see the flash first and hear the thunder after, because light travels much faster than sound.
 - **Lightning conductor**: A metal rod on top of a tall building, joined by a thick metal strip to the ground. Lightning goes down the strip instead of through the building. *e.g.* Tall apartment blocks and mobile phone towers usually have a lightning conductor on top.
 - **Electric field**: The space around a charged thing where it can push or pull other charges, without touching them. *e.g.* Bees can feel the electric field around a flower with the tiny hairs on their body.
@@ -47,7 +47,7 @@ You, the balloon, the wall and the air are all made of atoms. Every atom holds p
 Rubbing does not make charge. It only moves electrons. Some materials hold on to their electrons loosely, like hair, wool and glass. Others grab electrons, like rubber and many plastics. Rub a rubber balloon on dry hair, and electrons move from the hair to the balloon. The balloon now has extra minus charge. The hair has lost the same number of electrons, so it has extra plus charge. Rub two pieces of the same material together, and hardly any electrons move, because neither grabs harder. On an insulator like a balloon, the charge stays on the patch you rubbed. Turn the balloon round, and the other side does not lift paper.
 - e.g. A plastic comb pulled through dry hair takes electrons from the hair.
 - e.g. A plastic ruler rubbed on a woollen sweater takes electrons from the wool.
-- e.g. Some materials give electrons to a balloon instead, such as a thin plastic carry bag. The balloon is charged either way.
+- e.g. Two balloons rubbed together hardly move any electrons, because they are the same material.
 ### Opposite charges attract, the same charges repel · *defined*
 **Definition:** Plus and minus charges attract each other. Two plus charges repel each other, and so do two minus charges. The closer they are, the stronger the push or pull.
 
@@ -65,7 +65,7 @@ A paper bit is neutral. So why does it jump up to a rubbed balloon? The balloon'
 ### Why static fails on a damp day · *defined*
 **Definition:** Water lets charge move. In humid air, a very thin layer of water forms on surfaces, and the charge leaks away through it.
 
-Static electricity needs the charge to stay put. On a dry day, a rubbed balloon can stay charged for a long time. On a humid day, a very thin layer of water forms on the balloon, too thin to see. Water is a conductor, so the extra electrons slowly leak away into the air and onto your hands. That is why static tricks work well in a dry Bengaluru or Delhi winter, and badly in a sticky Chennai or Kochi monsoon. An air-conditioned room helps, because an AC takes water out of the air. Your body is a conductor too. A steel spoon rubbed on wool does not stay charged while you hold it, because the charge runs through the steel and through you.
+Static electricity needs the charge to stay put. On a dry day, a rubbed balloon can stay charged for a long time. On a humid day, a very thin layer of water forms on the balloon, too thin to see. Water is a conductor, so the extra electrons slowly leak away into the air and onto your hands. That is why static tricks work well in a dry Bengaluru or Jaipur winter, and badly in a sticky Kolkata or Kochi monsoon. An air-conditioned room helps, because an AC takes water out of the air. Your body is a conductor too. A steel spoon rubbed on wool does not stay charged while you hold it, because the charge runs through the steel and through you.
 - e.g. Static shocks from a car door or a metal railing are common in dry winters, and rare in the monsoon.
 - e.g. Clean, dry hair charges well. Damp or oiled hair often charges badly.
 - e.g. A rubbed comb that touches the water stream stops bending it, because the wet comb loses its charge.
@@ -103,7 +103,7 @@ In recent years, lightning has killed more than 2,000 people in India every year
 **Definition:** Some animals can sense electric fields, the space around a charged thing where it pushes and pulls other charges.
 
 A bumblebee needs to find flowers that still have nectar, and not waste time on ones another bee has just emptied. A flying bee picks up a small plus charge from rubbing against the air. A flower usually has a small minus charge. When a bee lands, some of the charge moves, and the flower's electric field changes for a while. Scientists in Bristol showed in 2013 that bumblebees can feel this with the tiny hairs on their body, and learn which flowers to skip. The charge also helps pollen jump from the flower onto the bee. Young spiders have a problem too: they have no wings, but need to travel to new places. Many climb up high and let out silk threads. The Earth's electric field pulls on the charged threads, and helps lift the spiders into the air.
-- e.g. A bee's charge pulls pollen grains across a small gap onto their body.
+- e.g. A bee's charge pulls pollen grains across a small gap onto her body.
 - e.g. Young spiders can float for kilometres on silk threads, which is called ballooning.
 - e.g. Sharks and some fish sense the electric signals of the animals they hunt.
 
@@ -164,7 +164,7 @@ A plain balloon looks as if nothing is going on inside it. In fact it holds huge
 - *deep:* Rubbing moved electrons from your hair to the balloon. How did the electrons know which way to go? (hint: Think about which materials grab electrons and which let them go. What happened when you rubbed a balloon with another balloon?)
 - *deep:* Why does the electric force hide so well, when it can lift your hair against the pull of the whole Earth? (hint: Think about how much plus and minus charge there is in everything, and how exactly they cancel.)
 - *big:* Bees feel the electric field of a flower. What would the world feel like if you could sense electric fields too? (hint: Think about the balloon, the storm cloud, your own body and the wires in the walls.)
-- *big:* People once thought lightning was thrown by gods. Today we know it is a spark. Does knowing how it works make lightning less wonderful, or more? (hint: Think about how you felt when your own balloon made a tiny spark.)
+- *big:* People once thought lightning was thrown by gods. Today we know it is a spark. Does knowing how it works make lightning less wonderful, or more? (hint: Think about how you felt when your own sweater crackled in the dark.)
 - *big:* Every atom in you holds plus and minus in balance. Are you, too, a kind of balance? (hint: Think about what would happen to you if all your electrons were taken away.)
 
 ## Story: Sparks in Thatha's Sweater
@@ -242,21 +242,21 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 
 ## Games
 ### g1 · Plus or Minus: the charge card game (15 min)
-- **rules:** Shuffle the cards and put them face down in a pile.; The dealer turns over two cards, side by side.; The first player to say 'attract', 'repel' or 'nothing', correctly, wins both cards.; If someone says the wrong answer, the other players can win the pair by saying why it is wrong.; A SPARK! card: the player who turned it over explains how a spark happens, then takes 2 cards from the pile.; When the pile is finished, the player with the most cards wins.; Playing alone: turn over two cards, say your answer, and check it on the answer card. Try to get 12 right in a row.
-- **Printable cards: 30 charge cards to cut out:** 8 PLUS cards: a rubbed hair, a rubbed woollen sweater, a rubbed glass bangle, the top of a storm cloud; 8 MINUS cards: a rubbed balloon, a rubbed plastic comb, a rubbed plastic ruler, the bottom of a storm cloud; 10 NEUTRAL cards: a paper bit, a wall, a stream of water, an empty can, a new balloon, a grain of pepper; 4 SPARK! cards: if you turn this over, say how a spark happens and take 2 cards from the pile
-- **Printable cards: Answer card:** PLUS and MINUS: attract; PLUS and PLUS: repel; MINUS and MINUS: repel; PLUS or MINUS with NEUTRAL: attract, a little; NEUTRAL and NEUTRAL: nothing happens
-- **Printable score sheet: Score sheet:** Player name; Pairs won; Spark cards explained
+- **rules:** Shuffle the cards and put them face down in a pile. Put the answer cards face up in the middle.; Turn over the top two cards, side by side.; The first player to say 'attract', 'repel' or 'nothing' correctly wins both cards.; If someone says the wrong answer, the other players can win the pair by saying why it is wrong.; If one of the two cards is SPARK!, the first player to explain how a spark happens wins both cards. (Charge builds up, then jumps across the air with a flash and a crackle.) If both are SPARK!, the same.; There are 30 cards, so there are 15 pairs. When the pile is finished, the player with the most cards wins. If two players tie, they play the pairs again with the cards they won.; Playing alone: turn over two cards, say your answer, and check it on the answer cards. Try to get 12 right in a row.
+- **Printable cards: 30 charge cards to cut out:** PLUS: your hair after a balloon is rubbed on it; PLUS: a woollen sweater after a balloon is rubbed on it; PLUS: a glass bangle rubbed with silk; PLUS: a woollen shawl rubbed on a plastic comb; PLUS: a glass rod rubbed with silk; PLUS: a woollen monkey cap rubbed on a plastic ruler; PLUS: dry hair rubbed with a plastic comb; PLUS: the top of a storm cloud; MINUS: a balloon rubbed on a woollen sweater; MINUS: a balloon rubbed on dry hair; MINUS: a plastic comb pulled through dry hair; MINUS: a plastic ruler rubbed on wool; MINUS: a plastic pen rubbed on wool; MINUS: a plastic straw rubbed on wool; MINUS: a plastic bottle rubbed on wool; MINUS: the bottom of a storm cloud; NEUTRAL: a paper bit; NEUTRAL: a painted wall; NEUTRAL: a thin stream of tap water; NEUTRAL: an empty aluminium can; NEUTRAL: a new balloon straight from the packet; NEUTRAL: a grain of black pepper; NEUTRAL: a feather; NEUTRAL: a tiny scrap of tissue; NEUTRAL: a grain of salt; NEUTRAL: a dry leaf; SPARK! Explain how a spark happens; SPARK! Explain how a spark happens; SPARK! Explain how a spark happens; SPARK! Explain how a spark happens
+- **Printable cards: 5 answer cards (keep them in the middle of the table):** PLUS and MINUS: attract; PLUS and PLUS: repel; MINUS and MINUS: repel; PLUS or MINUS with NEUTRAL: attract, a little; NEUTRAL and NEUTRAL: nothing happens
+- **Printable score sheet: Score sheet (one line for each player):** Player name; Pairs won; SPARK! cards explained
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards. 2. Read the answer card together. 3. Shuffle the cards.  
+  *Parent does:* 1. Cut out the cards. 2. Read the answer cards together. 3. Shuffle the charge cards.  
   *Parent says:* Every card is plus, minus or neutral. When I turn two over, say what they do to each other. Attract, repel, or nothing.  
-  *Child mode:* Every card is plus, minus or neutral. Read the answer card first.
+  *Child mode:* Every card is plus, minus or neutral. Read the answer cards first.
 - **s2 (2 min)**  
   *Parent does:* Play one practice pair together: a rubbed balloon and a paper bit.  
   *Parent says:* A rubbed balloon and a paper bit. The paper bit is neutral. Do they attract, repel, or do nothing?  
-  *Child mode:* A rubbed balloon and a paper bit. What happens? Tap your answer.
+  *Child mode:* A rubbed balloon and a paper bit. What happens? Say your answer.
   - Check: A rubbed balloon, with minus charge, meets a neutral paper bit. What happens? → **They attract**
 - **s3 (8 min)**  
-  *Parent does:* 1. Play until the pile is finished. 2. Count the cards each player won.  
+  *Parent does:* 1. Turn over two cards and say your answer. 2. Play until the pile is finished. 3. Count the cards each player won.  
   *Parent says:* Turn over two cards. Who can say it first? Remember to say why.  
   *Child mode:* Turn over two cards. Say attract, repel or nothing. Then say why.
   - Note: Ask for a reason now and then. A good reason for two minus cards: both have extra electrons, and the same charges push apart. For two neutral cards: the plus and minus in each cancel, so neither pushes or pulls.
@@ -266,12 +266,12 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* The cloud's top is plus. Its bottom is minus. What happens next?
   - Think: Why does lightning not happen all the time, if the top and bottom of a cloud attract?
 ### g2 · Storm Run: a board game about lightning safety (15 min)
-- **rules:** Everyone starts in the paddy field. Take turns to roll the dice and move.; Land on a STORM square: another player reads you a storm card.; Give the safe answer and say why: move ahead 2 squares. Give an unsafe answer: move back 2 squares.; The first player to reach HOME wins.; Playing alone: read the card, say your answer, then check the answer in the brackets.
-- **Printable board: Storm Run board:** A path of 24 squares from a paddy field to a house, passing a lone tree, a pond, a bus stop and a temple tank; Every third square is a STORM square with a cloud on it; The last square is HOME: inside a house with the door shut
-- **Printable cards: 16 storm cards:** You hear thunder while playing cricket in the park. Go home at once, or finish the over? (Go home at once. If you can hear thunder, lightning can reach you.); There is a big tree alone in the field. Shelter under it? (No. Lightning often strikes tall things standing alone.); Your cousin wants to fly a kite as the clouds gather. Is that safe? (No. The wet string can carry lightning to her hand.); You are inside during a storm. Is it a good time for a bath? (No. Lightning can travel along water pipes.); You are in a closed car in a storm. Get out and run, or stay in? (Stay in. The metal body carries lightning round you to the ground.); You are swimming in a temple tank and hear thunder. What do you do? (Get out of the water at once and go indoors.); The thunder stopped five minutes ago. Go back out to play? (Not yet. Wait about 30 minutes after the last thunder.); You are on an open scooter in a storm. Is it as safe as a car? (No. A scooter has no metal roof around you. Stop and go inside a building.); You are caught in a field with no building near. What is safest? (Crouch low with your feet together, away from trees and poles.); Amma's phone app Damini says lightning is near. What do you do? (Go indoors and stay in.); During the storm, can you stand on the terrace to watch? (No. Watch from inside, away from the window.); Your friend says lightning never strikes the same place twice. True? (No. Tall towers are struck many times a year.); Lightning flashes and the thunder comes 3 seconds later. Is it far away? (No. It is about 1 kilometre away. Go in at once.); You are under a bus stop with a thin metal roof and no walls. Is it a safe shelter? (No. Go inside a proper building.); You see a fallen electric wire after the storm. Touch it? (Never. Stay away and tell a grown-up.); You are indoors. Should you keep away from corded appliances and taps until the storm passes? (Yes. Lightning can travel along wires and pipes.)
-- **Printable tokens: A counter for each player and one dice:** counters; a dice
+- **rules:** Everyone puts a counter on square 1, the paddy field. Take turns to roll the dice and move that many squares.; The STORM squares are 3, 6, 9, 12, 15, 18 and 21. Land on one and another player reads you a storm card.; Give the safe answer and say why: move ahead 2 squares. Give an unsafe answer: move back 2 squares. (You never land on another STORM square this way, so only one card at a time.); Read the safe answer on the back of the card aloud after every answer, so everyone learns it.; The first player to reach square 24, HOME, or pass it wins. If all 16 cards have been used, shuffle them and use them again.; Playing alone: read a card, say your answer, then turn it over to check. Move your counter as if you were two players taking turns, and see how many turns it takes to get home.
+- **Printable board: Storm Run board: 24 squares to cut out and lay in a row:** Square 1: START: the paddy field; Square 2: a bund between two fields; Square 3: STORM: a dark cloud overhead; Square 4: a lone tree by the path; Square 5: a banana grove; Square 6: STORM: a dark cloud overhead; Square 7: a pond; Square 8: a row of mango trees; Square 9: STORM: a dark cloud overhead; Square 10: the bus stop; Square 11: a tea stall; Square 12: STORM: a dark cloud overhead; Square 13: the temple tank; Square 14: a cow shed; Square 15: STORM: a dark cloud overhead; Square 16: a market lane; Square 17: a bridge over the canal; Square 18: STORM: a dark cloud overhead; Square 19: the school gate; Square 20: a row of houses; Square 21: STORM: a dark cloud overhead; Square 22: your street; Square 23: your gate; Square 24: HOME: inside the house with the door shut
+- **Printable cards: 16 storm cards (question on the front, safe answer on the back):** You hear thunder while playing kho-kho in the school ground. Go home at once, or finish the game? (back: Go home at once. If you can hear thunder, lightning can reach you.); There is a big tree alone in the field. Shelter under it? (back: No. Lightning often strikes tall things standing alone.); Your cousin wants to fly a kite as the clouds gather. Is that safe? (back: No. A wet kite string can carry lightning to the hand that holds it.); You are inside during a storm. Is it a good time for a bath? (back: No. Lightning can travel along water pipes.); You are in a closed car in a storm. Get out and run, or stay in? (back: Stay in. The metal body carries the lightning round you to the ground.); You are swimming in a temple tank and hear thunder. What do you do? (back: Get out of the water at once and go indoors.); The thunder stopped five minutes ago. Go back out to play? (back: Not yet. Wait about 30 minutes after the last thunder.); You are on an open scooter in a storm. Is it as safe as a car? (back: No. A scooter has no metal body around you. Stop and go inside a building.); You are caught in a field with no building near. What is the least risky thing to do? (back: Crouch low with your feet together, away from trees and poles. It is still not safe, so get to a building as soon as you can.); A phone app called Damini says lightning is near. What do you do? (back: Go indoors and stay in.); During the storm, can you stand on the terrace to watch? (back: No. Watch from inside, away from the window.); Your friend says lightning never strikes the same place twice. True? (back: No. Tall towers are struck many times a year.); Lightning flashes and the thunder comes 3 seconds later. Is it far away? (back: No. It is about 1 kilometre away. Go in at once.); You are under a bus stop with a thin metal roof and no walls. Is it a safe shelter? (back: No. Go inside a proper building.); You see a fallen electric wire after the storm. Touch it? (back: Never. Stay away and tell a grown-up.); You are indoors. Should you keep away from corded appliances and taps until the storm passes? (back: Yes. Lightning can travel along wires and pipes.)
+- **Printable tokens: Counters and a dice:** a counter for each player: a coin, a button or a bottle cap; one dice
 - **s1 (2 min)**  
-  *Parent does:* 1. Put the board on the table. 2. Put the storm cards face down. 3. Put all counters on the paddy field.  
+  *Parent does:* 1. Lay the 24 squares in a row on the table. 2. Put the storm cards face down. 3. Put all counters on square 1, the paddy field.  
   *Parent says:* A storm is coming. We are all out in a paddy field, and we must get home safely. The storm cards ask what you would do.  
   *Child mode:* A storm is coming! Race from the field to home. Answer safely.
 - **s2 (11 min)**  
@@ -280,13 +280,13 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Roll and move. On a storm square, answer the card. Say why.
   - Check: It starts to thunder while you are in an open field. There is one big tree near you. Where is safest? → **Running to the nearest building, or crouching low away from the tree if there is none**
 - **s3 (2 min)**  
-  *Parent does:* Talk about the car card.  
+  *Parent does:* When the car card comes up, or after the game, talk about it.  
   *Parent says:* A closed car is safe in a storm. Many people think it is because of the rubber tyres. What do you think keeps you safe?  
   *Child mode:* A car is safe in a storm. Is it the tyres? Or something else?
   - Note: The metal body of the car carries the charge round the outside and down to the ground. The tyres are far too thin to stop lightning, which has just crossed kilometres of air.
 
 ## Experiments
-### e1 · The Rubbing Test: which cloth charges a balloon best? (30 min)
+### e1 · The Rubbing Test: which cloth charges a balloon best? (36 min)
 - **question:** If you rub a balloon with different things, which one gives it the most charge? Does a balloon rubbed with another balloon get charged at all?
 - **predict:** Look at the things you will rub the balloon with: dry hair, a woollen sweater, a cotton towel, a newspaper and a second balloon. Which one will make the most paper bits jump up? Which will make the fewest? Why do you think so?
 - **fair test:** Use the same balloon, the same 20 paper bits, the same 10 rubs and the same height every time. Only the thing you rub with changes. Before each new rub, take the old charge off the balloon, and check that it lifts no bits. Do each one twice, because one try can be a fluke.
@@ -297,17 +297,17 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Shut the windows. If you have an AC, run it for 30 minutes first. 2. Put the 20 paper bits in a small heap on the dark plate. 3. Hold the plain balloon 2 cm above them for 3 seconds.  
   *Parent says:* First, a test with no rubbing at all. Hold the balloon just above the paper. Watch closely. Does anything jump?  
   *Child mode:* Hold the balloon just above the paper bits. Do any jump?
-  - Note: No bits should jump, because a new balloon is neutral. This is the starting test that every other result is compared with. Static works best in dry air. In the monsoon, or in Chennai or Kochi, an AC room helps a lot, because an AC takes water out of the air.
+  - Note: No bits should jump, because a new balloon is neutral. This is the starting test that every other result is compared with. Static works best in dry air. In the monsoon, or in Mumbai or Kochi, an AC room helps a lot, because an AC takes water out of the air.
 - **s2 (4 min)**  
   *Parent does:* 1. Show the five things: dry hair, wool, cotton, newspaper and the second balloon. 2. Ask your child to put them in order, from most bits to fewest. 3. Write the guesses in the table.  
   *Parent says:* We will rub the balloon with each of these, ten times. Which will make the most bits jump? Which the fewest? Why do you think so?  
   *Child mode:* Which thing will make the most bits jump? Which the fewest? Why?
   - Ask: Why do you think that one will work best? (good: Because the sweater made sparks in the story.; Because hair stood up to the balloon before.)
   - Note: Do not say what will happen. Any reason your child gives is good. It tells you what they think now.
-- **s3 (14 min)**  
-  *Parent does:* 1. Rub one side of the balloon 10 times on the first thing, firmly, in one direction. 2. Hold the rubbed side 2 cm above the heap for 3 seconds. 3. Count the bits that cling. 4. Pick off the bits. 5. Pat the balloon all over with a damp hand, wait one minute, and check it lifts no bits. 6. Go on to the next thing.  
-  *Parent says:* Rub ten times on one side. Hold that side over the paper. Count the bits that stick. Then pat it with a damp hand to take the charge off.  
-  *Child mode:* Rub ten times. Hold it over the paper. Count the bits. Then pat it with a damp hand.
+- **s3 (20 min)**  
+  *Parent does:* 1. Rub one side of the balloon 10 times on the first thing, firmly, in one direction. 2. Hold the rubbed side 2 cm above the heap for 3 seconds. 3. Count the bits that cling and write the number as Try 1. 4. Pick off the bits. 5. Pat the balloon all over with a damp hand, wait until it is dry (about a minute), and check it lifts no bits. 6. Do the same again for Try 2. 7. Go on to the next thing.  
+  *Parent says:* Rub ten times on one side. Hold that side over the paper. Count the bits that stick. Then pat it with a damp hand to take the charge off. We do each thing twice.  
+  *Child mode:* Rub ten times. Hold it over the paper. Count the bits. Pat it with a damp hand. Do each thing twice.
   - Note: Hair, if it is clean, dry and not oiled, and wool usually lift the most bits. Cotton and newspaper usually lift fewer. A balloon rubbed with another balloon usually lifts very few or none, because both are the same material, so neither grabs electrons harder. Results vary from day to day, so a different order is fine, as long as you saw it. If nothing lifts at all, the air is too damp. Try in an AC room, make the bits smaller, or do the water-bending test instead, which works in damper air.
   - Check: Why do we pat the balloon with a damp hand and check it before each new rub? → **To take away the old charge, so each result shows only the new rubbing**
 - **s4 (3 min)**  
@@ -334,7 +334,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Make a very thin stream. Hold the comb near it. Does it bend?
   - Note: The stream must be thin and smooth, not dripping. The unrubbed comb should not bend it. This is the starting test.
 - **s2 (5 min)**  
-  *Parent does:* 1. Dry your hands. 2. Comb dry hair 10 times fast, or rub the comb on wool. 3. Hold the comb about 1 cm from the stream, without touching it.  
+  *Parent does:* 1. Dry your hands. 2. Rub the comb 10 times on the same wool or dry hair you will use for everything else. 3. Hold the comb about 1 cm from the stream, without touching it.  
   *Parent says:* Now rub the comb ten times. Bring it close to the water, but don't touch. Watch the stream. What do you think will happen? Why?  
   *Child mode:* Rub the comb ten times. Hold it close. Don't touch the water!
   - Ask: The water has no charge. Why did it bend towards the comb? (good: The comb pulled the near side of the water.; The comb's charge pushed the water's electrons back, so the near side got pulled.)
@@ -408,12 +408,12 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* Rub the balloon. Lower it slowly over the plate. Which grains jump first? Why do you think so?  
   *Child mode:* Rub the balloon. Lower it slowly. Which grains jump first?
   - Note: The black pepper usually jumps up first, because pepper grains are lighter than salt grains. If you go too low, the salt jumps too. If nothing jumps, the air may be too damp.
+  - Check: Why does the pepper jump up to the balloon before the salt does? → **Pepper grains are lighter, so the small electric force can lift them first**
 - **s3 (3 min)**  
   *Parent does:* Talk about bees.  
   *Parent says:* A bee needs pollen from flowers. A flying bee picks up a plus charge, and a flower has a small minus charge. What might happen to the pollen when a bee comes close?  
   *Child mode:* A bee has charge, like your balloon. What happens to the pollen?
-  - Note: Pollen grains jump across a small gap onto a charged bee, in the same way as the pepper. This helps the bee carry pollen, and helps the plant spread their pollen to other flowers.
-  - Check: Why does the pepper jump up to the balloon before the salt does? → **Pepper grains are lighter, so the small electric force can lift them first**
+  - Note: Pollen grains jump across a small gap onto a charged bee, in the same way as the pepper. This helps the bee carry pollen, and helps plants spread their pollen to other flowers.
 ### a4 · Sparks in the Dark (10 min)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. Never do this near a gas stove or anything that can catch fire.
 - **record:** Write what you heard and what you saw. Draw the sparks.
@@ -426,7 +426,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* Watch the sweater very closely, and listen. What do you hear? What do you see? Where does it come from?  
   *Child mode:* Watch the sweater in the dark. Listen too. What do you notice?
   - Ask: What do you think the crackle and the flash are? (good: Tiny sparks.; Charge jumping across the air, like tiny lightning.)
-  - Note: On a dry night you hear crackles and may see tiny blue flashes along the wool. Synthetic sweaters and fleece often work best. In damp weather you may hear only a few crackles and see nothing. You can also rub a balloon on the sweater in the dark and bring a fingertip close to it.
+  - Note: On a dry night you hear crackles and may see tiny blue flashes along the wool. Synthetic sweaters and fleece often work best. In damp weather, as in the monsoon, you may hear only a few crackles and see nothing. That is a real result, not a mistake. You can also rub a balloon on the sweater in the dark and bring a fingertip close to it.
 - **s3 (2 min)**  
   *Parent does:* Switch the light back on and talk.  
   *Parent says:* Each crackle was a tiny spark. How is it like lightning and thunder?  
@@ -444,11 +444,11 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* Now rub the balloon and hold it near the can. Move it slowly away. What does the can do? Why do you think so?  
   *Child mode:* Rub the balloon. Hold it near the can. Move it slowly away.
   - Note: The can rolls towards the balloon and follows it as you move away. If the balloon touches the can, some charge is lost. Rub it again. A light aluminium can works much better than a steel tin.
+  - Check: The can has no charge. Why does it roll towards the rubbed balloon? → **The balloon pushes the electrons in the can to the far side, so the near side is pulled**
 - **s3 (6 min)**  
   *Parent does:* 1. Make a start line and a finish line 50 cm apart with tape or chalk. 2. Race the can to the finish, using only the balloon.  
   *Parent says:* Can you roll the can all the way to the finish line, without touching it? How many times did you need to rub the balloon again?  
   *Child mode:* Roll the can to the finish line. Don't touch it!
-  - Check: The can has no charge. Why does it roll towards the rubbed balloon? → **The balloon pushes the electrons in the can to the far side, so the near side is pulled**
 ### a6 · Our Storm Safety Plan (10 min)
 - **safety:** Do this on a calm day, never during a storm.
 - **record:** Make a poster: 'When we hear thunder, we…', with five rules and a reason for each.
@@ -463,10 +463,9 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   - Note: Good rules: go inside at the first thunder, because if you can hear thunder, lightning can reach you. Stay off the terrace and balcony. No bathing or washing up during the storm, because lightning can travel along pipes. Keep away from corded appliances. Wait about 30 minutes after the last thunder before going out. The Damini app, made by the Indian Institute of Tropical Meteorology in Pune, gives lightning warnings.
   - Check: Why should you not have a bath during a thunderstorm? → **Lightning can travel along metal pipes and water into the bathroom**
 ### a7 · Be a Storm Cloud (10 min)
-- **safety:** Move slowly and carefully, away from furniture.
 - **record:** Draw the cloud with plus at the top and minus at the bottom, and a lightning bolt.
 - **s1 (3 min)**  
-  *Parent does:* 1. Make a small paper sign marked plus in red, and one marked minus in blue, for each person. 2. Everyone starts in the middle of the room as a water drop.  
+  *Parent does:* 1. Make a paper sign marked plus in red, and one marked minus in blue, for each person. 2. Everyone starts in the middle of the room as a water drop.  
   *Parent says:* We are all water drops inside a storm cloud. The wind is carrying us up into the cold top of the cloud, where we freeze.  
   *Child mode:* You are a water drop in a storm cloud. The wind lifts you up!
 - **s2 (5 min)**  
@@ -474,11 +473,11 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* Ice crystals are light. When they bump the hail, they get plus charge and the wind lifts them to the top. Hail is heavy. It gets minus charge and stays near the bottom.  
   *Child mode:* Bump elbows gently. Ice goes to the top with plus. Hail stays low with minus.
   - Note: This is a simple picture of the main idea. Scientists still study exactly how each bump moves the charge.
+  - Check: In a storm cloud, how does the charge build up? → **Ice crystals and hail bump into each other, and charge moves between them**
 - **s3 (2 min)**  
   *Parent does:* When everyone has moved, the grown-up calls 'Spark!' and everyone claps once, loudly.  
   *Parent says:* The top is full of plus and the bottom full of minus. The charge is too big. Spark! That clap is the thunder.  
   *Child mode:* Too much charge! Spark! Clap once for the thunder.
-  - Check: In a storm cloud, how does the charge build up? → **Ice crystals and hail bump into each other, and charge moves between them**
 
 ## Projects
 ### p1 · The Static Weather Diary (50 min, 5 days)
@@ -499,7 +498,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Do the test on the last day. 2. Draw a bar for each day. 3. Look for a pattern.  
   *Parent says:* Look at your bars. On which days did the balloon lift the most? What was the air like on those days?  
   *Child mode:* Draw a bar for each day. When did it lift the most?
-  - Check: Meera's balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason? → **Damp air lets the charge leak away through a thin layer of water**
+  - Check: Meera, a girl in Class 4, kept a Static Weather Diary. Her balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason? → **Damp air lets the charge leak away through a thin layer of water**
   - Wait: Day 5: the last test, then draw the chart.
 
 ## Challenges
@@ -518,19 +517,19 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* Try it and time it. Now change just one thing. Was it faster?  
   *Child mode:* Try it. Time it. Change one thing. Try again!
   - Note: Holding the balloon close, without touching, makes the biggest difference, because the force gets much stronger closer up. A touch takes away charge, so the balloon then needs rubbing again.
+  - Check: Why does the can slow down if the balloon touches it? → **The touch takes some charge off the balloon**
 - **s3 (5 min)**  
-  *Parent does:* Read the usual and creative ideas together.  
+  *Parent does:* Read the general and creative ideas on this card together.  
   *Parent says:* Here are some other ideas. Which one would you try next? Can you invent a better one?  
   *Child mode:* Read the other ideas. Can you invent a better one?
-  - Check: Why does the can slow down if the balloon touches it? → **The touch takes some charge off the balloon**
 ### c2 · Build a Charge Detector (30 min)
 - **problem:** Build a detector that shows when something is charged, even when it is too weak to lift paper. Two thin strips of foil inside a jar must spread apart when a charged thing comes near.
 - **your turn:** Now design your own charge detector, or improve this one so the strips spread further. Draw it, build it and test it.
 - **constraints:** The foil strips must be inside a jar, out of the wind.; Use only things from home.; Nothing charged may touch the strips themselves.
 - **general:** Push the straightened paper clip through the middle of the cardboard. Bend its bottom end into a hook. Hang two strips of foil, each about 1 cm by 4 cm, side by side on the hook. Put the cardboard on the jar with the strips hanging inside. Press a small foil ball onto the top of the clip.; Bring a rubbed balloon near the foil ball, without touching it. The strips should spread apart.
-- **creative:** Test which cloths charge the balloon most by how far the strips spread.; Test a rubbed comb, a rubbed ruler and a rubbed steel spoon.; Find out whether your hair is still charged a minute after you rub it.
+- **creative:** Test which cloths charge the balloon most by how far the strips spread.; Hold the rubbed balloon 2 cm, 5 cm and 10 cm from the foil ball. How far apart do the strips spread each time?; Find out whether your hair is still charged a minute after you rub it.
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up pushes the paper clip through the cardboard. 2. Bend a hook at the bottom. 3. Hang the two foil strips on the hook. 4. Put the cardboard on the jar. 5. Put the foil ball on top.  
+  *Parent does:* 1. Straighten a paper clip. A grown-up pushes it through the middle of the cardboard. 2. Bend a hook in the bottom end. 3. Hang the two foil strips on the hook. 4. Put the cardboard on the jar. 5. Press the foil ball onto the top of the clip.  
   *Parent says:* We are making a detector. The charge will travel down the metal clip into the two foil strips. Then what do you think the strips will do?  
   *Child mode:* Build the detector. Hang two foil strips on the clip inside the jar.
   - Note: The thinner and lighter the foil, the better it works. Chocolate wrapper foil often works better than kitchen foil. The strips must hang freely and touch each other at the start.
@@ -538,7 +537,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Rub the balloon on wool 10 times. 2. Bring it slowly towards the foil ball, without touching. 3. Watch the strips. 4. Take the balloon away.  
   *Parent says:* Bring the rubbed balloon slowly closer. Watch the strips. What happens? And when I take it away?  
   *Child mode:* Bring the rubbed balloon close. Don't touch. Watch the strips!
-  - Note: The strips spread apart as the balloon comes near, and fall back together when it goes. The balloon pushes electrons down the clip into both strips, so both strips get the same charge, and they repel. On a damp day the movement is small, so try it in an AC room.
+  - Note: The strips spread apart as the balloon comes near, and fall back together when it goes. The balloon pushes electrons down the clip into both strips, so both strips get the same charge, and they repel. The strips move only a little, and only when the balloon is within about 2 cm of the ball. On a damp day they may hardly move, so try it in an AC room.
 - **s3 (5 min)**  
   *Parent does:* Try the creative ideas and talk about why it works.  
   *Parent says:* Why do the two strips push apart? What charge do they both have?  
@@ -553,8 +552,8 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** Attract → to pull towards; Repel → to push away; Neutral → equal plus and minus charge; Insulator → a material that keeps charge where it is put; Conductor → a material that lets charge move through it. *Why:* These five words come up all through the unit.
 3. (sort) Sort these pairs. Do they attract or repel?  
    **Answer:** a plus charge and a minus charge → Attract; two plus charges → Repel; two minus charges → Repel; a rubbed balloon and a paper bit → Attract; a rubbed balloon and your rubbed hair → Attract; two rubbed plastic strips → Repel. *Why:* Opposites attract and the same charges repel. A charged thing also attracts a neutral thing, like a paper bit.
-4. (truefalse) A balloon that has not been rubbed has no electric charge inside it at all.  
-   **Answer:** False. *Why:* False. It is full of plus and minus charge, in equal amounts, so they cancel. It is neutral, not empty.
+4. (truefalse) A tiny static shock from a car door is just as dangerous as a shock from a mains socket.  
+   **Answer:** False. *Why:* False. A static shock moves only a small amount of charge, so it stings but does no harm. Mains electricity keeps pushing, and it can kill.
 5. (mcq) Kavitha rubs only one side of a balloon on wool. She holds the other side over paper bits. What happens?  
    Options: Many bits jump / Few or no bits jump / The balloon pops  
    **Answer:** Few or no bits jump. *Why:* Rubber is an insulator, so the charge stays on the patch that was rubbed. The other side has hardly any. That is why it is called static.
@@ -600,13 +599,13 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** The electric force is small, so it can only lift very light things. *Why:* The force on a neutral thing is small, so it lifts only very light things like paper bits, pepper and hair. A book is far heavier.
 8. (order) Put these in order, from the one that charged the balloon most to least, using these made-up results: cotton 3 bits, wool 12 bits, newspaper 5 bits, dry hair 14 bits.  
    **Answer:** ['dry hair', 'wool', 'newspaper', 'cotton']. *Why:* More bits lifted means more charge. Dry hair 14, wool 12, newspaper 5 and cotton 3.
-9. (write) In the Static Weather Diary, Deepa's balloon lifted 15 bits on Monday and only 2 bits on Thursday. Suggest a reason, and say how she could check it.  
+9. (write) In the Static Weather Diary, Deepa, a girl in Class 4, finds her balloon lifted 15 bits on Monday and only 2 bits on Thursday. Suggest a reason, and say how she could check it.  
    **Answer:** Thursday was probably a damper day, so the charge leaked away. She could check the humidity in a weather app for each day, or test on a damp day in an AC room to see if the count goes up.. *Why:* A strong answer gives a reason from the science and a test that could show whether it is right.
 10. (fill) The sound made when lightning heats the air so fast that it bursts outwards is called ____.  
    **Answer:** ['thunder']. *Why:* Thunder is the sound of air heated by lightning to nearly 30,000 degrees Celsius.
-11. (mcq) You see a lightning flash. You count 6 seconds before you hear the thunder. About how far away was it?  
-   Options: About 2 kilometres / About 6 kilometres / About 18 kilometres  
-   **Answer:** About 2 kilometres. *Why:* Sound travels about 1 kilometre in 3 seconds. 6 seconds divided by 3 is 2, so about 2 kilometres. That is close enough to be dangerous.
+11. (mcq) A petrol tanker is joined to the ground by a wire before it unloads. Why?  
+   Options: Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel / So the tanker cannot roll away / To keep the fuel cool  
+   **Answer:** Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel. *Why:* Fuel pumping and a moving tanker can build up charge. A wire to the ground lets it drain away quietly, instead of jumping as a spark near the fuel.
 12. (sort) Sort these materials. Does each one keep its charge in your hand, or let it run away?  
    **Answer:** plastic comb → Keeps charge; steel spoon → Lets it run away; rubber balloon → Keeps charge; aluminium foil → Lets it run away; plastic ruler → Keeps charge; a wet cloth → Lets it run away. *Why:* Insulators like plastic and rubber keep the charge where it is put. Conductors like metals and water let it run away through your body.
 13. (mcq) A bumblebee flies to a flower that another bee visited a few seconds ago. How can the bee tell?  
@@ -619,7 +618,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 ### Lightning Thinker (challenge) (challenge, 15 questions)
 1. (perspective) In the 1700s, people argued about how to protect a tall building from lightning.  
    **Answer:** A strong answer chooses Franklin's rod, because a metal strip is a conductor and gives the charge an easy path to the ground. It may say that bells were in tall towers, which lightning often struck, so ringing them put the ringers in danger. It gives the third view its due: a rod does not stop lightning, it only guides it safely, which is why the strip to the ground matters.. *Why:* This uses the ideas of conductors and tall things in a real old argument.
-2. (mcq) Indira rubs a balloon on a woollen shawl and a second balloon on her hair. She hangs them side by side, and they lean apart. What does this tell her?  
+2. (mcq) Ipsita rubs a balloon on a woollen shawl and a second balloon on her hair. She hangs them side by side, and they lean apart. What does this tell her?  
    Options: Both balloons got the same kind of charge / The balloons got opposite charges / Neither balloon is charged  
    **Answer:** Both balloons got the same kind of charge. *Why:* The balloons repel, so they must have the same kind of charge. Both took electrons, from the wool and from the hair.
 3. (write) Your hair is a conductor when it is wet, but your hair can stay charged after a balloon. Explain how both can be true.  
@@ -631,9 +630,9 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** Minus on the balloon. Electrons pushed down the clip into the strips, so both strips have minus signs and spread apart in a V. The foil ball at the top has plus signs.. *Why:* This shows charges moving through a conductor, and the same charges repelling.
 6. (truefalse) A tall building with a lightning conductor will never be struck by lightning.  
    **Answer:** False. *Why:* False. The rod may still be struck, but the charge flows down the metal strip into the ground instead of through the building, so the building is not harmed.
-7. (mcq) Lightning flashes about 45 times every second somewhere on Earth. About how many flashes is that in one minute?  
-   Options: About 450 / About 2,700 / About 45,000  
-   **Answer:** About 2,700. *Why:* One minute is 60 seconds. 45 times 60 is 2,700.
+7. (mcq) Dust gathers thickly on the blades of a ceiling fan. What is one reason?  
+   Options: The blades rub against the air and get charged, and a charged blade attracts neutral dust / Dust is magnetic / The blades are made of paper  
+   **Answer:** The blades rub against the air and get charged, and a charged blade attracts neutral dust. *Why:* Spinning blades rub against the air and pick up charge, and a charged surface attracts light, neutral specks of dust, the way a balloon attracts paper bits.
 8. (write) Many people say lightning never strikes the same place twice. Plan a way you could check this, using real records.  
    **Answer:** Look up the records of how often one tall building or tower is struck, for example the Empire State Building, which is struck about 20 to 25 times a year. If a place is struck more than once, the saying is wrong.. *Why:* A strong answer uses records as evidence instead of a feeling.
 9. (order) Put these in order, from the weakest spark to the strongest.  
@@ -645,18 +644,18 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** ['zero', '0', 'nothing']. *Why:* 8 plus charges and 8 minus charges cancel, so the overall charge is zero. The atom is neutral.
 12. (write) Your hair rose up to a balloon against the pull of the whole Earth. What does that tell you about how strong the electric force is, compared with gravity?  
    **Answer:** The electric force from a small balloon beat the pull of the whole Earth on the hair. So the electric force must be very strong. We do not notice it most of the time because plus and minus usually cancel.. *Why:* A strong answer compares the two forces using the rising hair as evidence, and explains why we rarely notice the electric force.
-13. (mcq) Why does a closed car protect you from lightning, but an open scooter does not?  
-   Options: A car's metal body carries the charge around you to the ground, and a scooter has no metal shell around you / A scooter is too slow / A car has more tyres  
-   **Answer:** A car's metal body carries the charge around you to the ground, and a scooter has no metal shell around you. *Why:* The car's metal shell is a conductor around you. On a scooter, nothing surrounds you, so you can be the path to the ground.
+13. (mcq) A photocopier makes black powder stick to the paper only where the words are. What does it use?  
+   Options: Static charge: the words are charged, and they attract the powder / Glue on the paper / A magnet under the paper  
+   **Answer:** Static charge: the words are charged, and they attract the powder. *Why:* The copier charges the drum in the shape of the page. The charged parts attract the powder, which is pressed onto the paper. It is the same pull as a balloon on paper bits.
 14. (draw) Design a poster for your building's lift: 'What to do in a thunderstorm'. Show four rules with a picture for each.  
    **Answer:** Four clear rules with pictures, for example: go inside at the first thunder, stay off the terrace, no baths or washing up during the storm, wait 30 minutes after the last thunder.. *Why:* A strong poster gives rules that really keep people safe, each with a reason a neighbour would understand.
 15. (write) Nobody knows exactly how the very first spark of a lightning bolt starts. Why do you think it is hard to find out?  
    **Answer:** Any sensible reason. For example: lightning starts high inside a storm cloud, it is over in a fraction of a second, and it is dangerous to fly instruments into a storm.. *Why:* This is an open question in science. A strong answer thinks about what makes it hard to measure.
 
 ## Videos
-- **The Sticky Balloon Trick!** (SciShow Kids, 4 min) id `5TAIUCYMlIQ`: A short video for children about why a rubbed balloon sticks to a wall, with plus and minus charges explained simply. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The Sticky Balloon Trick! | Physics for Kids', channel SciShow Kids). Not watched from here, so the length is a guess: a parent should preview it.
-- **What Causes Lightning?** (NOAA SciJinks, 2 min) id `VqXnN_FQfrc`: A short cartoon from the US weather service about how ice and hail in a storm cloud build up charge until lightning jumps. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'What Causes Lightning? | NOAA SciJinks'). Not watched from here: a parent should preview it.
-- **The Science of Lightning** (National Geographic, 4 min) id `h-0gNl5f4BU`: For the parent and older children: real footage of lightning, how it forms, and how hot it is. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The Science of Lightning | National Geographic'). Not watched from here: preview it first, as some storm footage may scare young children.
+- **The Sticky Balloon Trick!** (SciShow Kids, 4 min) id `5TAIUCYMlIQ`: A short video for children about why a rubbed balloon sticks to a wall, with plus and minus charges explained simply. *Check:* A parent should watch it first.
+- **What Causes Lightning?** (NOAA SciJinks, 2 min) id `VqXnN_FQfrc`: A short cartoon from the US weather service about how ice and hail in a storm cloud build up charge until lightning jumps. *Check:* A parent should watch it first.
+- **The Science of Lightning** (National Geographic, 4 min) id `h-0gNl5f4BU`: For the parent and older children: real footage of lightning, how it forms, and how hot it is. *Check:* A parent should watch it first, as some storm footage may scare young children.
 
 ## Quiz
 1. (mcq) A new balloon, straight out of the packet, does not lift paper bits. Why not?  
@@ -668,7 +667,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 3. (mcq) Two balloons are both rubbed on wool and hung side by side on threads. What do they do?  
    Options: Swing towards each other / Lean away from each other / Hang straight down  
    **Answer:** Lean away from each other. *Why:* Both balloons got the same kind of charge from the wool, and the same charges repel. Picking 'towards each other' would be right only if they had opposite charges.
-4. (mcq) After rubbing with a balloon, Anjali's hair stands up and the strands spread apart. Why do the strands spread apart?  
+4. (mcq) After rubbing with a balloon, Bornali's hair stands up and the strands spread apart. Why do the strands spread apart?  
    Options: Each strand has the same plus charge, and the same charges repel / The wind blows them / The strands are pulled by gravity  
    **Answer:** Each strand has the same plus charge, and the same charges repel. *Why:* Every strand lost electrons to the balloon, so every strand has plus charge. The same charges push each other away. Gravity pulls the hair down, not apart.
 5. (mcq) A rubbed comb bends a thin stream of tap water. The water was never rubbed. Why does it bend?  
@@ -717,7 +716,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - A tiny shock from a metal railing or a car door in a dry season.
 - Dust clinging to the TV screen and the blades of the ceiling fan.
 - Crackles when you pull a woollen blanket or a fleece off the bed.
-- Lightning over the sea from Marina Beach or Kovalam before the monsoon.
+- Lightning over the sea from Marina Beach in Chennai, Puri or Juhu in Mumbai, before the monsoon.
 - The lightning conductor rod on top of a tall apartment block or a mobile tower.
 - Thin plastic bags that cling to your hands and will not come off.
 
@@ -746,21 +745,16 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - What did the proton say to the electron? *Opposites attract!*
 - Why did the storm cloud need a holiday? *It was feeling all charged up.*
 - What do you call a sweater that crackles in the dark? *A spark-ling sweater.*
-- Why did the paper bit jump onto the balloon? *It couldn't resist the pull.*
-- What is lightning's favourite subject? *Shock-ology.*
-- Why do two rubbed balloons never get along? *They have the same charge, so they keep pushing each other away.*
 - What did the thunder say to the lightning? *You always get there first.*
-- Why did the comb bend the water? *It had a very charming personality.*
 - Why did the steel spoon fail the balloon test? *It couldn't hold on to anything.*
 - What did the hair say to the balloon? *You make me stand on end.*
 - How do clouds make up after a fight? *They bolt together.*
-- Why did the bee get good marks? *She always picked up everything.*
 
 ## Connected maths
 - In the Rubbing Test, Fathima's balloon lifted these paper bits: dry hair 14, wool 12, newspaper 5, cotton 3, another balloon 0. How many more bits did hair lift than cotton? How many bits were lifted in all? **Hair lifted 11 more than cotton. 34 bits were lifted in all.**. 14 take away 3 is 11. For the total, 14 + 12 = 26, 26 + 5 = 31, 31 + 3 = 34, and 34 + 0 = 34. (queues `math.data.bar-charts.L3`)
 - Sound travels about 1 kilometre in 3 seconds. Gayathri counts 12 seconds between a flash of lightning and the thunder. About how far away was the lightning? **About 4 kilometres.**. Every 3 seconds is about 1 kilometre. 12 divided by 3 is 4. So the lightning was about 4 kilometres away. (queues `math.division.sharing-and-grouping.L3`)
 - Lightning flashes about 45 times every second somewhere on Earth. How many flashes is that in 10 seconds? In one minute? **About 450 in 10 seconds, and about 2,700 in a minute.**. 45 times 10 is 450. One minute is 60 seconds, which is 6 lots of 10 seconds. 450 times 6 is 2,700. (queues `math.multiplication.equal-groups.L3`)
-- In her Static Weather Diary, Meera's balloon lifted 15, 13, 4, 2 and 14 bits on five days. On two of the days it rained. Which two days were probably the rainy ones? Why? **Days 3 and 4, with 4 and 2 bits.**. Damp air lets charge leak away, so a rainy day gives a low count. The counts 4 and 2 are much lower than the others, which are all 13 or more. (queues `math.logic.puzzles.L3`)
+- Meera, a girl in Class 4, kept a Static Weather Diary. Her balloon lifted 15, 13, 4, 2 and 14 bits on five days. On two of the days it rained. Which two days were probably the rainy ones? Why? **Days 3 and 4, with 4 and 2 bits.**. Damp air lets charge leak away, so a rainy day gives a low count. The counts 4 and 2 are much lower than the others, which are all 13 or more. (queues `math.logic.puzzles.L3`)
 - Lightning can heat the air to about 30,000 degrees Celsius. The surface of the Sun is about 6,000 degrees Celsius. About how many times hotter is lightning? **About 5 times hotter.**. How many 6,000s make 30,000? 6,000 times 5 is 30,000. So lightning is about 5 times as hot as the Sun's surface. (queues `math.multiplication.multiplication-facts.L3`)
 
 ## Song
@@ -774,7 +768,7 @@ Round and Round the Loop (sci.electricity.L3): Topic-level song for Electricity 
 - [Birla Science Museum](https://www.birlasciencecentre.org) · place · Hyderabad: A science museum and planetarium with physics exhibits.
 
 ## Things to buy
-- [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): Most experiments in this unit need a balloon. Packets are sold in any stationery or general store. Round balloons work better than long ones, because they are easy to rub and hold. Used in e1, a1, a3, a4, a5, p1, c1, c2. Keep a few spare, because balloons sometimes pop. Throw burst pieces away at once.
+- [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): Most of the activities need a balloon. Round balloons work better than long ones, because they are easy to rub and hold. Used in e1, a1, a3, a4, a5, p1, c1, c2. 
 
 ## Warm-up
 - What are the two kinds of electric charge? → Plus and minus.

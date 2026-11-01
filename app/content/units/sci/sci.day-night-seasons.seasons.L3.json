@@ -60,8 +60,8 @@
   },
   {
    "term": "Deciduous",
-   "meaning": "A deciduous tree drops all or most of their leaves for part of the year, and then grows new ones.",
-   "example": "A teak tree drops their big leaves in the dry months and grows new ones before the rains.",
+   "meaning": "Deciduous trees drop all or most of their leaves for part of the year, and then grow new ones.",
+   "example": "Teak trees drop their big leaves in the dry months and grow new ones before the rains.",
    "art": "A teak tree with bare branches and a carpet of big brown leaves on the ground below."
   },
   {
@@ -73,7 +73,7 @@
   {
    "term": "Chlorophyll",
    "meaning": "The green colouring in leaves. Plants use it to catch sunlight and make their food.",
-   "example": "A palak leaf is dark green because she has a lot of chlorophyll.",
+   "example": "A palak leaf is dark green because the leaf is full of chlorophyll.",
    "art": "A close-up of a green leaf with tiny green dots inside its cells."
   },
   {
@@ -109,7 +109,7 @@
   {
    "term": "Harvest",
    "meaning": "Gathering a crop when it is ready.",
-   "example": "Rice is harvested in many parts of Tamil Nadu in January, and Pongal celebrates it.",
+   "example": "Rice is harvested in January in Tamil Nadu and in Assam, and Pongal and Magh Bihu celebrate it.",
    "art": "Women and men cutting golden rice in a field, with sheaves stacked by the bund."
   },
   {
@@ -165,10 +165,10 @@
   {
    "concept": "Why many trees drop their leaves in the dry months",
    "status": "defined",
-   "definition": "A deciduous tree drops their leaves for part of the year. In most of India, they do this in the hot, dry months before the rains. Before a leaf falls, the tree breaks down the green chlorophyll and takes useful nutrients back into the branches. The yellow colour that was hidden under the green then shows.",
+   "definition": "Deciduous trees drop their leaves for part of the year. In most of India, they do this in the hot, dry months before the rains. Before a leaf falls, the tree breaks down the green chlorophyll and takes useful nutrients back into the branches. The yellow colour that was hidden under the green then shows.",
    "description": "Leaves lose water all the time, through tiny holes underneath. In the rains, the soil is wet, and the roots easily replace that water. From about February to May, many places get almost no rain, and the soil dries out. A big tree with thousands of leaves could lose more water than her roots can find. So trees such as teak, peepal, neem, gulmohar and the Indian almond drop many or all of their leaves. A leaf is full of useful nutrients, such as nitrogen, that the tree took from the soil. Throwing them away would be a waste. So before the leaf falls, the tree breaks down the green chlorophyll and moves much of the nitrogen back into the branches, to use for new leaves. Your strip test showed that a green leaf also holds yellow pigments. They stay in the leaf longer than the green does. So as the green goes, the leaf turns yellow. Some trees, such as the Indian almond, also make new red colours in their leaves before they drop them. Then, often before the rains, new leaves come out, soft and pale green or coppery pink.",
    "examples": [
-    "The peepal tree drops their leaves for a short time in the dry season. Their new leaves come out coppery pink.",
+    "Peepal trees drop their leaves for a short time in the dry season. Their new leaves come out coppery pink.",
     "Neem trees drop many old leaves around February and March. By Ugadi, they have new leaves and tiny white flowers, used in Ugadi pachadi.",
     "Coconut palms and mango trees are evergreen. They never stand bare."
    ],
@@ -180,7 +180,7 @@
    "concept": "How plants know the season",
    "status": "defined",
    "definition": "Many plants sense the length of the night, and use it to know the time of year. When the nights reach the right length, they start to flower. This is called photoperiodism.",
-   "description": "A plant cannot read a calendar, but the length of the night is a very good clock. It changes the same way every year, whatever the weather does. Plants sense light with special substances in their leaves. They notice how long the dark lasts each night. Some plants, such as the chrysanthemum, or sevanthi, flower when the nights get long, in the cool months. That is why sevanthi garlands are cheap in November and December. Other plants flower when the nights get short. Scientists found this in the 1920s, as the story of Garner and Allard tells. Plants also notice warmth, cold and rain. Many seeds wait in the dry soil and sprout only after the first rains. Plants feel, remember and decide, and choosing when to flower is one of their biggest decisions. Some scientists call this an automatic response, built into the plant by their genes.",
+   "description": "A plant cannot read a calendar, but the length of the night is a very good clock. It changes the same way every year, whatever the weather does. Plants sense light with special substances in their leaves. They notice how long the dark lasts each night. Some plants, such as the chrysanthemum, or sevanthi, flower when the nights get long, in the cool months. That is why sevanthi garlands are cheap in November and December. Other plants flower when the nights get short. Scientists found this in the 1920s, as the story of Garner and Allard tells. Plants also notice warmth, cold and rain. Many seeds wait in the dry soil and sprout only after the first rains. Plants feel, remember and decide, and choosing when to flower is one of their biggest decisions.",
    "examples": [
     "Sevanthi, the chrysanthemum, flowers in the long nights of the cool months.",
     "Some old rice varieties flower at the same time every year, in October or November, even when farmers sow them at different times.",
@@ -217,11 +217,12 @@
    "concept": "How people change with the seasons",
    "status": "defined",
    "definition": "People change their clothes, food, homes, work and festivals with the seasons, to stay comfortable and to fit in with the plants and animals they depend on.",
-   "description": "In summer, families wear loose cotton clothes and drink buttermilk, tender coconut water and panakam. They eat mangoes, watermelon and nungu, the ice apple of the palmyra palm. Many families dry vadams and make mango pickle on the terrace, because the strong sun dries food fast. In the rains, farmers sow rice and other crops, because the fields finally have enough water. Umbrellas and raincoats come out. In the cool months, people in the north wear sweaters, monkey caps and shawls, and sit in the sun at midday. Many festivals mark a harvest: Onam in Kerala in August or September, Pongal in Tamil Nadu and Makar Sankranti in January, and Baisakhi in Punjab in April. Even fishing changes. Every year the Government of India stops most fishing at sea for 61 days, while many fish breed. On the east coast this is from 15 April to 14 June. On the west coast it is from 1 June to 31 July.",
+   "description": "In summer, families wear loose cotton clothes and drink buttermilk, tender coconut water and panakam. They eat mangoes, watermelon and nungu, the ice apple of the palmyra palm. Many families dry vadams and make mango pickle on the terrace, because the strong sun dries food fast. In the rains, farmers sow rice and other crops, because the fields finally have enough water. Umbrellas and raincoats come out. In the cool months, people in the north wear sweaters, monkey caps and shawls, and sit in the sun at midday. Many festivals mark a harvest: Onam in Kerala in August or September, Pongal in Tamil Nadu, Makar Sankranti and Magh Bihu in Assam in January, and Baisakhi in Punjab in April. Even fishing changes. Every year the Government of India stops most fishing at sea for 61 days, while many fish breed. On the east coast this is from 15 April to 14 June. On the west coast it is from 1 June to 31 July.",
    "examples": [
     "Jasmine flowers are plentiful in Madurai in summer, and costly in the cool months, when the plants make fewer.",
     "Pongal is cooked with the new rice of the January harvest.",
-    "In Delhi in winter, people sell roasted sweet potatoes and peanuts on the street."
+    "In Delhi in winter, people sell roasted sweet potatoes and peanuts on the street.",
+    "In the rains, hilsa fish swim up the rivers of Bengal, and many families cook them."
    ],
    "perspectives": [],
    "art": "A family in three seasons: drinking buttermilk under a fan in summer, a girl with an umbrella and her mother sowing rice in the rains, and the family cooking Pongal in a pot outside on a cool January morning.",
@@ -234,11 +235,11 @@
    "description": "Scientists agree that the Earth as a whole is getting warmer, mostly because people burn coal, oil and gas. In many countries, records kept for a hundred years or more show some plants flowering earlier in spring than they used to. In India, fewer such records exist, so scientists are still working out how much each season has shifted. Many farmers say the rains have become less regular, with long dry gaps and then very heavy downpours. Weather scientists are studying whether this is a lasting change. Nobody can yet say exactly how India's seasons will be in 50 years.",
    "examples": [
     "Japan has kept records of when cherry trees flower in Kyoto for more than a thousand years. In recent decades, the flowering has come earlier.",
-    "Grandparents often remember cooler summers. Their memories are useful clues, but memory can be wrong, so scientists check them against written records."
+    "Older people often remember cooler summers. Their memories are useful clues, but memory can be wrong, so scientists check them against written records."
    ],
    "perspectives": [],
-   "art": "A grandmother and a girl on a balcony looking at an old diary of flowering dates, with a mango tree in flower below.",
-   "context": "Are the seasons the same as when your grandparents were small? This card says what scientists know and what they are still finding out."
+   "art": "An older woman and a girl on a balcony looking at an old diary of flowering dates, with a mango tree in flower below.",
+   "context": "Are the seasons the same as when older people were small? This card says what scientists know and what they are still finding out."
   }
  ],
  "agreed": [
@@ -273,10 +274,10 @@
    "context": "This card is about a common idea of why summer is hot."
   },
   {
-   "claim": "A tree that drops their leaves in the dry season is dying or sick.",
+   "claim": "Trees that drop their leaves in the dry season are dying or sick.",
    "who": "Many people who see a bare tree in March",
    "for": "Yellow leaves can be a sign of trouble, for example in a potted plant that gets too much water.",
-   "against": "Deciduous trees drop their leaves every year and grow new ones. Before the leaves fall, the tree takes back useful nutrients from them.",
+   "against": "Deciduous trees drop their leaves every year and grow new ones. Before the leaves fall, a tree takes back useful nutrients from them.",
    "status": "rejected",
    "context": "This card is about whether a bare tree in the dry season is a sick tree."
   },
@@ -307,11 +308,6 @@
  ],
  "big_questions": [
   {
-   "q": "The yellow was inside the green leaf all along. What else might be hidden inside things we think we know well?",
-   "kind": "deep",
-   "hint": "Think about the strip test, and what the green was covering."
-  },
-  {
    "q": "A tree takes back the useful parts of a leaf before letting it fall. Is the fallen leaf still part of the tree?",
    "kind": "deep",
    "hint": "Think about where the nitrogen went, and what happens to the leaf on the ground."
@@ -332,7 +328,7 @@
    "hint": "Think about where she lays her eggs, and where she spends most of the year."
   },
   {
-   "q": "Your grandparents' summers may have felt different from yours. How could we find out if the seasons are really changing?",
+   "q": "Older people say their summers felt different from ours. How could we find out if the seasons are really changing?",
    "kind": "big",
    "hint": "Think about what records people could keep, year after year."
   }
@@ -397,32 +393,104 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 clue cards to cut out (answers for where most of India gets the south-west monsoon)",
+     "title": "24 clue cards to cut out (the season is written on the back; answers are for where most of India gets the south-west monsoon)",
      "items": [
-      "Mangoes are piled high in the market. (Summer)",
-      "Your noon shadow is so short it hides under your feet. (Summer)",
-      "The koel calls ku-oo from the trees all day. (Summer)",
-      "Families drink neer mor and tender coconut water. (Summer)",
-      "Vadams dry on the terrace in a few hours. (Summer)",
-      "The neem tree has new leaves and tiny white flowers for Ugadi. (Summer, just starting)",
-      "Buffaloes lie in a pond with only their heads showing. (Summer)",
-      "The school holidays have started. (Summer, in most of India)",
-      "Frogs croak all night from the puddles. (Rainy season)",
-      "Winged termites fly round the street light after a big rain. (Rainy season)",
-      "Farmers plant rice seedlings in flooded fields. (Rainy season)",
-      "Umbrellas and raincoats hang by the door. (Rainy season)",
-      "Grass grows on a wall that was bare and brown. (Rainy season)",
-      "Onam is coming, and Kerala gets ready for the harvest. (End of the rainy season)",
-      "Fishing boats stay tied up on the west coast in June and July. (Rainy season)",
-      "Mushrooms pop up in the park. (Rainy season)",
-      "Pintail ducks swim on the lake, far from Central Asia. (Winter)",
-      "Sevanthi garlands are cheap in the flower market. (Winter)",
-      "Fog hides the tops of buildings in Delhi in the morning. (Winter)",
-      "Pongal is cooked with new rice outside the house. (Winter)",
-      "Your noon shadow is longer than in May. (Winter)",
-      "Grandparents sit in the sun at noon to get warm. (Winter)",
-      "Olive ridley turtles crawl up a Chennai beach at night to lay eggs. (Winter, going on into spring)",
-      "Coconut oil in Delhi has gone hard in the bottle. (Winter)"
+      {
+       "f": "Mangoes are piled high in the market.",
+       "b": "Summer"
+      },
+      {
+       "f": "Your noon shadow is so short it hides under your feet.",
+       "b": "Summer"
+      },
+      {
+       "f": "The koel calls ku-oo from the trees all day.",
+       "b": "Summer"
+      },
+      {
+       "f": "Families drink neer mor and tender coconut water.",
+       "b": "Summer"
+      },
+      {
+       "f": "Vadams dry on the terrace in a few hours.",
+       "b": "Summer"
+      },
+      {
+       "f": "The neem tree has new leaves and tiny white flowers for Ugadi.",
+       "b": "Summer, just starting"
+      },
+      {
+       "f": "Buffaloes lie in a pond with only their heads showing.",
+       "b": "Summer"
+      },
+      {
+       "f": "The school holidays have started.",
+       "b": "Summer, in most of India"
+      },
+      {
+       "f": "Frogs croak all night from the puddles.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Winged termites fly round the street light after a big rain.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Farmers plant rice seedlings in flooded fields.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Hilsa fish swim up the rivers of Bengal, and the fish market is full of them.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Grass grows on a wall that was bare and brown.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Onam is coming, and Kerala gets ready for the harvest.",
+       "b": "End of the rainy season"
+      },
+      {
+       "f": "Fishing boats stay tied up on the west coast in June and July.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Mushrooms pop up in the park.",
+       "b": "Rainy season"
+      },
+      {
+       "f": "Pintail ducks swim on the lake, far from Central Asia.",
+       "b": "Winter"
+      },
+      {
+       "f": "Sevanthi garlands are cheap in the flower market.",
+       "b": "Winter"
+      },
+      {
+       "f": "Fog hides the tops of buildings in Delhi in the morning.",
+       "b": "Winter"
+      },
+      {
+       "f": "Pongal is cooked with new rice outside the house.",
+       "b": "Winter"
+      },
+      {
+       "f": "Your noon shadow is longer than in May.",
+       "b": "Winter"
+      },
+      {
+       "f": "Kites fill the sky over Ahmedabad on 14 January, and people eat sesame sweets.",
+       "b": "Winter"
+      },
+      {
+       "f": "Olive ridley turtles crawl up a Chennai beach at night to lay eggs.",
+       "b": "Winter, going on into spring"
+      },
+      {
+       "f": "Coconut oil in Delhi has gone hard in the bottle.",
+       "b": "Winter"
+      }
      ]
     },
     {
@@ -445,12 +513,13 @@
     }
    ],
    "rules": [
-    "Shuffle the clue cards and put them face down.",
-    "On your turn, take a card and read the clue out loud, but not the answer in brackets.",
-    "The other players point to a season on the wheel board. Each right guess scores 1 point.",
-    "Anyone who can say why that clue belongs to that season scores 1 more point.",
-    "If you live in Tamil Nadu, remember your big rains come from October to December. If a card does not match your home, say why and score a point.",
-    "After all the cards are read, the player with the most points wins."
+    "Cut out the 24 cards. Shuffle them and put them in a pile, clue side up.",
+    "On your turn, take the top card and read the clue out loud. Keep the back hidden.",
+    "The other players each point to a season on the board. Turn the card over. Each player who pointed to the right season scores 1 point.",
+    "Anyone, including the reader, who can say why that clue belongs to that season scores 1 more point.",
+    "If you live in Tamil Nadu, your big rains come from October to December. If a card does not match your home, say why and score 1 point.",
+    "With two players, take turns to read. The one guessing scores for the guess, and either player can score for saying why.",
+    "When all the cards are read, or after 12 cards if you are short of time, the player with the most points wins. Equal points means you both win."
    ],
    "flow": [
     {
@@ -466,7 +535,7 @@
      "mins": 2,
      "do": "Play one practice card together.",
      "say": "Practice card: frogs croak all night from the puddles. Which season? Why?",
-     "kid": "Frogs croak all night. Which season is it? Tap your answer.",
+     "kid": "Frogs croak all night. Which season is it? Point to your answer.",
      "check": {
       "t": "mcq",
       "q": "Frogs croak all night from the puddles. Which season is it?",
@@ -482,7 +551,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns to read cards. 2. Keep score.",
+     "do": "1. Take turns to read cards. 2. Keep score. 3. Stop when the cards are done.",
      "say": "Your turn. Read your clue. Can anyone say why it belongs to that season, for an extra point?",
      "kid": "Read your clue. Guess. Say why for an extra point.",
      "parent": "Ask 'why' as often as you can. The reasons are the real learning: the frog needs water, the duck's lake has frozen, the strong sun dries the vadams."
@@ -502,7 +571,7 @@
      "caption": "1. Cut out the clue cards and the season wheel."
     },
     {
-     "art": "A girl reading a card aloud while her grandmother and brother point at the rainy season on the board.",
+     "art": "A girl reading a clue card aloud while two other players point at the rainy season on the board.",
      "caption": "2. Read a clue. The others point to the season."
     }
    ]
@@ -576,17 +645,18 @@
     }
    ],
    "rules": [
+    "Shuffle the problem cards and the answer cards separately, so they are not in the order they were printed.",
     "Lay all the cards face up in three rows: living things, problems and answers.",
-    "On your turn, pick one living thing card. Find their problem card and their answer card.",
+    "On your turn, pick one living thing card. Find its problem card and its answer card.",
     "Say the set out loud as one sentence: who they are, what the season's problem is, and what they do.",
-    "If the others agree it is right, keep the set and score 1 point.",
-    "When all the sets are made, the player with the most sets wins. Playing alone, try to make all 10 sets in 10 minutes."
+    "If the other player agrees it is right, keep the set and score 1 point. If not, put the cards back and the next player goes.",
+    "When all 10 sets are made, the player with the most sets wins. Equal sets means you both win. Playing alone, try to make all 10 sets in 10 minutes."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 30 cards. 2. Lay them in three rows, face up.",
+     "do": "1. Cut out the 30 cards. 2. Shuffle the problem cards and the answer cards. 3. Lay them in three rows, face up.",
      "say": "Every living thing here has a problem that comes with a season. Can you find their problem, and what they do about it?",
      "kid": "Lay out the cards in three rows. Match each living thing to a problem and an answer.",
      "context": "This is the first step of Ready for the Season, a matching game about how living things cope with the seasons."
@@ -642,7 +712,7 @@
   {
    "id": "e1",
    "title": "Hidden Colours: is there yellow inside a green leaf?",
-   "mins": 35,
+   "mins": 38,
    "days": 1,
    "context": "In this experiment you rub a green leaf and a yellowing leaf onto paper strips, and let a liquid carry their colours up the paper. You find out which colours each leaf was hiding.",
    "question": "A green leaf and a yellowing leaf: what colours does each one hold?",
@@ -661,7 +731,7 @@
      "qty": 2
     },
     {
-     "item": "one yellowing leaf: a palak or coriander leaf that has gone yellow in the fridge, or a yellow leaf from a potted plant",
+     "item": "one yellowing leaf: a palak or coriander leaf kept in a plastic bag in the fridge for about a week until it goes yellow, or a yellow leaf from a potted plant or one that has fallen from a tree",
      "qty": 1
     },
     {
@@ -691,8 +761,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
-     "what": "Rub a green leaf and a yellowing leaf onto paper strips. Stand them in nail polish remover for 20 minutes. Compare the colours."
+     "mins": 38,
+     "what": "Rub a green leaf and a yellowing leaf onto paper strips. Stand them in nail polish remover for about 15 minutes. Compare the colours."
     }
    ],
    "record": "Tape both dry strips into your notebook side by side. Label each colour band. Fill in the table.",
@@ -742,8 +812,8 @@
     },
     {
      "id": "s5",
-     "mins": 12,
-     "do": "1. Watch the liquid climb the paper. 2. Every few minutes, look at the colours through the side of the tumbler. 3. After about 15 to 20 minutes, or when the liquid is 1 cm from the top, lift the strips out. 4. Mark the top of the liquid with a pencil. 5. Lay them on a plate to dry.",
+     "mins": 15,
+     "do": "1. Watch the liquid climb the paper. 2. Every few minutes, look at the colours through the side of the tumbler. 3. After about 15 minutes, or when the liquid is 1 cm from the top, lift the strips out. 4. Mark the top of the liquid with a pencil. 5. Lay them on a plate to dry.",
      "say": "Watch the line. What is happening to the green? Is any other colour moving away from it?",
      "kid": "Watch the strip. Does the green move? Can you see another colour?",
      "adult": true,
@@ -860,7 +930,6 @@
      "qty": 1
     }
    ],
-   "safety": "Never point the torch into anyone's eyes.",
    "schedule": [
     {
      "day": 1,
@@ -1022,7 +1091,7 @@
        ]
       }
      ],
-     "parent": "There is no single right clue. A strong answer gives a clue that only happens in one season, and says why."
+     "parent": "There is no single right clue. A strong answer gives a clue that only happens in one season, and says why. For the Hidden Colours test, put a palak or coriander leaf in a plastic bag in the fridge today. It will start to yellow in about a week."
     }
    ],
    "context": "A starting activity: you look for clues outside and inside your home to work out the season.",
@@ -1049,7 +1118,7 @@
     },
     {
      "item": "two small steel bowls",
-     "qty": 1
+     "qty": 2
     },
     {
      "item": "a fridge",
@@ -1060,7 +1129,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks. Wipe up any spilled oil so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -1084,7 +1152,8 @@
      "do": "1. After about 30 minutes, take the bowl out of the fridge. 2. Compare the two bowls. Tip each one gently. 3. Then hold the cold bowl in your warm hands and watch.",
      "say": "Look at both bowls. Tip them. What is different? Now hold the cold one in your hands. What happens?",
      "kid": "Compare the bowls. Tip them. Hold the cold one. What happens?",
-     "parent": "The fridge oil turns white and solid, because coconut oil sets below about 24 degrees Celsius. In your warm hands, it melts back to clear liquid within a few minutes. If your room is cooler than about 24 degrees, both bowls may set. Then warm one bowl in your hands."
+     "parent": "The fridge oil turns white and solid, because coconut oil sets below about 24 degrees Celsius. In your warm hands, it melts back to clear liquid within a few minutes. If your room is cooler than about 24 degrees, both bowls may set. Then warm one bowl in your hands.",
+     "wait": "About 30 minutes later"
     },
     {
      "id": "s3",
@@ -1094,7 +1163,7 @@
      "kid": "Where in India does coconut oil go hard? What does that tell you?",
      "check": {
       "t": "mcq",
-      "q": "Meena's coconut oil in Delhi is hard and white in January. Kavya's oil in Kochi is clear and runny in January. Why?",
+      "q": "A girl in Delhi finds her coconut oil hard and white in January. A girl in Kochi finds hers clear and runny in the same month. Why?",
       "options": [
        "January in Delhi is much colder than January in Kochi",
        "Delhi's coconut oil is a different kind",
@@ -1120,8 +1189,8 @@
   {
    "id": "a3",
    "title": "Sun Patch on the Floor (if sunlight comes in through a window)",
-   "mins": 10,
-   "days": 1,
+   "mins": 20,
+   "days": 22,
    "materials": [
     {
      "item": "a window that gets sunlight at some time of day",
@@ -1140,8 +1209,23 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Mark the edge of the sun patch on the floor at the same time each week."
+     "mins": 5,
+     "what": "Mark the edge of the sun patch on the floor and write the date."
+    },
+    {
+     "day": 8,
+     "mins": 5,
+     "what": "At the same time of day, mark the edge again."
+    },
+    {
+     "day": 15,
+     "mins": 5,
+     "what": "Mark the edge again."
+    },
+    {
+     "day": 22,
+     "mins": 5,
+     "what": "Mark the edge again and compare all four marks. Keep going every week for as long as you like."
     }
    ],
    "record": "Write the date on each tape mark. After a few months, draw where the patch has moved.",
@@ -1157,10 +1241,27 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. One week later, at the same time, mark the edge again. 2. Keep going every week for as long as you like. 3. Compare the marks.",
+     "wait": "One week later",
+     "do": "1. At the same time of day, mark the edge of the sun patch again. 2. Write the date.",
      "say": "Is the patch further into the room or nearer the window than last week? What does that tell you about how high the Sun is now?",
-     "kid": "Mark the edge again. Has it moved in or out?",
-     "parent": "If the window faces south, in most of India the patch reaches deep into the room in December and January, when the midday Sun is low in the south. In April and May, the Sun is high and the patch stays near the window, or does not come in at all. The change from week to week is small, so it takes a month or more to see clearly."
+     "kid": "Mark the edge again. Has it moved in or out?"
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "wait": "Two weeks after the start",
+     "do": "Mark the edge again and write the date.",
+     "say": "Has the patch moved again? Is it moving the same way as last week?",
+     "kid": "Mark the edge again. Has it moved?"
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "wait": "Three weeks after the start",
+     "do": "1. Mark the edge a fourth time. 2. Compare the marks. 3. Keep going every week for as long as you like.",
+     "say": "Look at the four marks. Which way is the patch moving? What does that tell you about the Sun?",
+     "kid": "Look at all four marks. Which way is the patch moving?",
+     "parent": "If the window faces south, in most of India the patch reaches deep into the room in December and January, when the midday Sun is low in the south. In April and May, the Sun is high and the patch stays near the window, or does not come in at all. The change from week to week is small, so in four weeks it may be only a few centimetres. It takes a few months to see clearly."
     }
    ],
    "context": "A slow activity for a sunny window: mark where the sunlight lands on your floor each week, and watch it move with the seasons.",
@@ -1198,7 +1299,6 @@
      "qty": 1
     }
    ],
-   "safety": "Scissors: a grown-up helps.",
    "schedule": [
     {
      "day": 1,
@@ -1214,7 +1314,7 @@
      "do": "1. Draw lines to split the plate into 12 equal parts, like a pizza. 2. Write the months round the edge, starting with January at the top. 3. Colour the months: orange for summer, blue for the rains, green for the cool months.",
      "say": "Let's make our year into a wheel. Which months are hot here? Which months are rainy? Which are cool?",
      "kid": "Split the plate into 12 parts. Write the months. Colour the seasons.",
-     "parent": "Colour it for where you live. In Chennai, the big rains come from October to December. In Mumbai or Kochi, they come from June to September. If you are unsure, ask a grandparent.",
+     "parent": "Colour it for where you live. In Chennai, the big rains come from October to December. In Mumbai or Kochi, they come from June to September. If you are unsure, ask a neighbour or look it up.",
      "context": "In this activity you make a season wheel, a circle of the twelve months with your seasons, foods and festivals on it."
     },
     {
@@ -1223,7 +1323,7 @@
      "do": "1. In each month, draw or write one thing your family does or eats. 2. Add one plant and one animal you notice in that month.",
      "say": "What do we eat in May? When is Pongal? When do we take out the umbrellas? When does the koel call?",
      "kid": "Draw one food, one festival, one plant or animal in each month.",
-     "parent": "Examples: mangoes and nungu in May, umbrellas and frogs in the rains, Diwali sweets, sevanthi garlands in December, Pongal and sugarcane in January, neem flowers at Ugadi."
+     "parent": "Examples: mangoes and nungu in May, umbrellas and frogs in the rains, hilsa fish in Bengal in the rains, Diwali sweets, sevanthi garlands in December, Pongal and sugarcane in January, kites and sesame sweets for Uttarayan in Gujarat, Magh Bihu feasts in Assam, neem flowers at Ugadi."
     },
     {
      "id": "s3",
@@ -1248,12 +1348,12 @@
   },
   {
    "id": "a5",
-   "title": "Ask Paati: one season, then and now",
+   "title": "Ask an Elder: one season, then and now",
    "mins": 15,
    "days": 1,
    "materials": [
     {
-     "item": "a grandparent or an older neighbour, in person or on a phone call",
+     "item": "an older relative or neighbour, in person or on a phone call",
      "qty": 1
     },
     {
@@ -1261,12 +1361,11 @@
      "qty": 1
     }
    ],
-   "safety": "No safety risks.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Ask a grandparent how one season felt when they were your age, and what has changed."
+     "what": "Ask an older person how one season felt when they were your age, and what has changed."
     }
    ],
    "record": "Write down their answers. Draw one thing they told you.",
@@ -1274,11 +1373,11 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Help your child choose one season and write four questions.",
-     "say": "Grandparents have watched many more summers and monsoons than we have. Let's choose one season and ask them about it. What would you like to know?",
-     "kid": "Pick one season. Write four questions to ask a grandparent.",
+     "do": "Help your child choose one season and write four questions. Choose someone to ask: a grandparent or other older relative, if you have one, or an older neighbour.",
+     "say": "Older people have watched many more summers and monsoons than we have. Let's choose one season and ask someone about it. What would you like to know?",
+     "kid": "Pick one season. Write four questions to ask an older person.",
      "parent": "Good questions: What did you wear? What did you eat? What did children play? Which birds or plants did you notice? What has changed since then?",
-     "context": "In this activity you interview a grandparent about how a season felt long ago."
+     "context": "In this activity you interview an older person about how a season felt long ago."
     },
     {
      "id": "s2",
@@ -1297,10 +1396,10 @@
      "parent": "Memories are useful clues, but they can be wrong. Old weather records, photos and diaries can check them."
     }
    ],
-   "context": "An interview activity: ask a grandparent how a season felt when they were a child.",
+   "context": "An interview activity: ask an older person how a season felt when they were a child.",
    "setup": [
     {
-     "art": "A girl with a notebook sitting next to her grandmother on a sofa, asking questions.",
+     "art": "A girl with a notebook sitting next to an older woman on a sofa, asking questions.",
      "caption": "1. Ask your questions."
     },
     {
@@ -1359,8 +1458,8 @@
      "id": "s1",
      "mins": 10,
      "do": "1. Choose one tree you can see from home, or a potted plant. 2. Draw the whole tree or plant. 3. Write the date and the weather. 4. Look up today's sunrise and sunset times, and work out the day length.",
-     "say": "We are going to watch one tree for four weeks, like a scientist. Every week, you draw them and write down what you see. Today is the first page.",
-     "kid": "Choose a tree. Draw them. Write the date, the weather and sunrise time.",
+     "say": "We are going to watch one tree for four weeks, like a scientist. Every week, you draw the tree and write down what you see. Today is the first page.",
+     "kid": "Choose a tree. Draw the tree. Write the date, the weather, and the sunrise and sunset times.",
      "parent": "A tree that is changing helps a lot: one dropping leaves, flowering or fruiting. In February to April, neem, peepal, gulmohar and the Indian almond often change fast. A potted plant works if you can't see a tree.",
      "context": "This is the first day of a four-week project. You keep a diary of one tree or plant, once a week."
     },
@@ -1378,7 +1477,7 @@
      "wait": "Two weeks after the start",
      "do": "Draw and write again. Add any animal you saw on or near the tree.",
      "say": "Did you see any birds, squirrels or insects visiting the tree this week? What were they doing?",
-     "kid": "Draw again. Did any animal visit the tree? What did they do?"
+     "kid": "Draw again. Did any animal visit the tree? What did the animal do?"
     },
     {
      "id": "s4",
@@ -1389,7 +1488,7 @@
      "kid": "Look at all four pages. What changed? Did the days get longer or shorter?",
      "check": {
       "t": "mcq",
-      "q": "Ananya's diary from February to March shows her neem tree dropping yellow leaves, then growing new ones. What is the best reason?",
+      "q": "Ananya, a girl in Class 4, keeps a diary of the neem tree outside her window. From February to March the tree drops yellow leaves, then grows new ones. What is the best reason?",
       "options": [
        "The tree is changing with the dry season, as neem trees do every year",
        "The tree is sick and then got better",
@@ -1400,7 +1499,7 @@
      }
     }
    ],
-   "context": "A four-week project: keep a diary of one tree or plant, and watch how they change with the season.",
+   "context": "A four-week project: keep a diary of one tree or plant, and watch how the tree or plant changes with the season.",
    "setup": [
     {
      "art": "A child at a balcony drawing a neem tree in a notebook, with the date and weather written at the top of the page.",
@@ -1437,8 +1536,7 @@
    ],
    "creative": [
     "Put the clay saucer inside a slightly bigger one with a little water between them, so it stays cool for longer.",
-    "Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon.",
-    "Keep a diary of which birds come and at what time."
+    "Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon."
    ],
    "your_turn": "Now design your own bird water bowl. Draw it, build it, put it out, and record which birds visit in a week.",
    "flow": [
@@ -1500,9 +1598,9 @@
     "You need sunshine on a balcony, terrace or window sill for about 40 minutes."
    ],
    "materials": [
-    "two shoeboxes of the same size",
-    "two ice cubes of the same size, on two small steel plates",
-    "card, newspaper, an old white cloth, a coconut leaf or a sack",
+    "two shoeboxes of the same size, with the lids off",
+    "two ice cubes of the same size from the freezer, on two small steel plates",
+    "card, newspaper, an old white cloth or a jute sack",
     "cello tape",
     "a clock"
    ],
@@ -1513,7 +1611,7 @@
    "creative": [
     "Leave a gap of air between the shade and the box, so the shade's heat doesn't touch the box.",
     "Use a wet cloth as the shade, so it cools as it dries, like a wet khus curtain.",
-    "Copy a thatched roof with a coconut leaf."
+    "Copy a thatched roof with dry grass or a jute sack."
    ],
    "your_turn": "Now design your own summer shade. Draw it, build it, test it against a box with no shade, and try to beat your first design.",
    "flow": [
@@ -1528,7 +1626,7 @@
     {
      "id": "s2",
      "mins": 27,
-     "do": "1. Build the shade on one box. 2. Put an ice cube on a plate inside each box. 3. Put both boxes side by side in full sunshine. 4. Check every 10 minutes. 5. Note which ice cube is smaller.",
+     "do": "1. Build the shade on one box. 2. Take the ice cubes out of the freezer only when you are ready, and put one on a plate inside each box. 3. Put both boxes side by side in full sunshine, facing the same way. 4. Check every 10 minutes. 5. Note which ice cube is smaller.",
      "say": "Both boxes are in the same sun. Only the shade is different. Check every 10 minutes. Which ice is melting slower?",
      "kid": "Both boxes in the sun. Check every 10 minutes. Which ice melts slower?",
      "parent": "The ice in the shaded box should stay bigger. If both melt at the same speed, the shade may be touching the box and passing its heat on. Try leaving a gap of air."
@@ -1617,19 +1715,6 @@
   },
   {
    "t": "mcq",
-   "p": "Why does the ground get hotter at noon in summer than at noon in winter?",
-   "opts": [
-    "The summer Sun is higher, so its light is packed into a smaller patch",
-    "The Earth is closer to the Sun in summer",
-    "There are more clouds in summer"
-   ],
-   "a": 0,
-   "why": "The high summer Sun shines nearly straight down, like the straight torch, so its light is packed into a small patch. The Earth is in fact closest to the Sun in January. Picking 'closer' is the most common wrong idea.",
-   "outcome": 1,
-   "how": "e2"
-  },
-  {
-   "t": "mcq",
    "p": "In the torch test, what happened when the torch shone at a slant from the same distance?",
    "opts": [
     "The patch got bigger and dimmer",
@@ -1677,18 +1762,6 @@
    "a": 0,
    "why": "In the dry months there is little rain, and leaves lose water every day. Dropping leaves helps a tree save water until the rains.",
    "outcome": 2
-  },
-  {
-   "t": "mcq",
-   "p": "Pintail ducks come to India's lakes in winter. Why?",
-   "opts": [
-    "Their own lakes in Central Asia freeze, so they cannot reach food",
-    "They like Indian festivals",
-    "India's lakes are deeper"
-   ],
-   "a": 0,
-   "why": "In winter, ice covers their northern lakes, so they cannot reach the plants and small animals they eat. They fly to India, where the lakes stay open.",
-   "outcome": 4
   },
   {
    "t": "mcq",
@@ -1798,6 +1871,10 @@
       [
        "Pongal with new rice",
        "Winter"
+      ],
+      [
+       "hilsa fish swimming up Bengal rivers",
+       "Rainy season"
       ]
      ],
      "a": "see items",
@@ -1823,18 +1900,6 @@
      "why": "Chennai gets most of its rain from the north-east monsoon, from October to December. Most of the rest of India gets most rain from June to September. Picking June to September is right for Kochi or Mumbai, but not for Chennai."
     },
     {
-     "t": "mcq",
-     "p": "In the torch test, the torch shone straight down and then at a slant, from the same distance. What happened to the patch of light at a slant?",
-     "opts": [
-      "It got bigger and dimmer",
-      "It got smaller and brighter",
-      "It stayed the same"
-     ],
-     "a": 0,
-     "why": "At a slant, the same light spread over more squares, so the patch was bigger and each square got less light. That is why it looked dimmer.",
-     "how": "e2"
-    },
-    {
      "t": "write",
      "p": "Why is the ground hotter at noon in May than at noon in December? Use the torch test in your answer.",
      "lines": 3,
@@ -1843,30 +1908,12 @@
      "how": "e2"
     },
     {
-     "t": "mcq",
-     "p": "In the Hidden Colours test, a green palak leaf made a yellow band on the paper strip. What does this show?",
-     "opts": [
-      "A green leaf has a yellow colour hidden under the green",
-      "The liquid turned the leaf yellow",
-      "The coin left a yellow mark"
-     ],
-     "a": 0,
-     "why": "The yellow came out of the leaf. It was there all along, but the strong green hides it. The liquid is clear, and the coin leaves no colour of its own.",
-     "how": "e1"
-    },
-    {
      "t": "fill",
-     "p": "A tree that drops all or most of their leaves for part of the year is called a ____ tree.",
+     "p": "Trees that drop all or most of their leaves for part of the year are called ____ trees.",
      "a": [
       "deciduous"
      ],
      "why": "Deciduous trees, such as teak and peepal, drop their leaves in the dry months and grow new ones later."
-    },
-    {
-     "t": "truefalse",
-     "p": "A neem tree dropping yellow leaves in March must be sick.",
-     "a": false,
-     "why": "False. Neem trees drop many old leaves in the dry months every year, and grow new leaves and flowers soon after. A yellowing leaf in a potted plant can sometimes mean too much water, but a neem dropping leaves in March is a normal seasonal change."
     },
     {
      "t": "draw",
@@ -1874,41 +1921,6 @@
      "a": "Two drawings: one tree full of green leaves with wet ground, one with yellow leaves falling or bare branches and dry ground. Labels such as 'green leaves', 'yellow leaves falling', 'dry soil'.",
      "why": "A strong drawing shows the leaves changing and the reason: dry soil in the dry season.",
      "art": "Two empty boxes side by side, labelled 'Rainy season' and 'Dry season'."
-    },
-    {
-     "t": "match",
-     "p": "Match each animal to what they do in a season.",
-     "pairs": [
-      [
-       "Koel",
-       "calls and lays eggs in crows' nests in summer"
-      ],
-      [
-       "Frog",
-       "lays eggs in monsoon puddles"
-      ],
-      [
-       "Pintail duck",
-       "flies to India for the winter"
-      ],
-      [
-       "Buffalo",
-       "lies in mud on hot afternoons"
-      ],
-      [
-       "Olive ridley turtle",
-       "lays eggs on Chennai beaches from January to March"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each animal changes what they do to fit a season: heat, water, cold or a safe time for eggs."
-    },
-    {
-     "t": "write",
-     "p": "Pintail ducks fly thousands of kilometres from Central Asia to India every winter. What problem does this long journey solve for them?",
-     "lines": 3,
-     "a": "In winter, the lakes in Central Asia freeze, so the ducks cannot reach the plants and small animals they eat under the water. India's lakes stay open and full of food, so they fly here and go back in spring to lay eggs.",
-     "why": "A strong answer starts with the duck's own problem, frozen lakes and no food, and then says how flying to India helps."
     },
     {
      "t": "sort",
@@ -1958,12 +1970,6 @@
      "why": "Summer sunshine is strong and the air is dry, so food dries in hours. In the rains, food would stay damp and could go mouldy. The vadams then keep for months."
     },
     {
-     "t": "truefalse",
-     "p": "The Earth is closest to the Sun in early January.",
-     "a": true,
-     "why": "True. The Earth is closest to the Sun in early January, which is winter in India. This shows that being close to the Sun is not what makes summer."
-    },
-    {
      "t": "write",
      "p": "Nila, a girl in Class 3, says: 'Summer is hot because the Earth is close to the Sun then.' Give one fact that shows she is wrong.",
      "lines": 3,
@@ -1977,6 +1983,50 @@
       "chlorophyll"
      ],
      "why": "Chlorophyll is the green pigment that plants use to catch sunlight and make their food."
+    },
+    {
+     "t": "truefalse",
+     "p": "Every place in India gets its big rains at the same time of year.",
+     "a": false,
+     "why": "False. Kochi and Mumbai get most rain from June to September. Chennai gets most of its rain from October to December."
+    },
+    {
+     "t": "mcq",
+     "p": "Imran, a boy in Class 3, measures his shadow at noon in May and again in December. What will he find?",
+     "opts": [
+      "The shadow is shorter in May",
+      "The shadow is shorter in December",
+      "The shadow is the same length"
+     ],
+     "a": 0,
+     "why": "In May the noon Sun is high, nearly overhead, so shadows are very short. In December the Sun is lower, so shadows are longer."
+    },
+    {
+     "t": "fill",
+     "p": "A tree that keeps green leaves all year round, such as the coconut palm, is called ____.",
+     "a": [
+      "evergreen"
+     ],
+     "why": "Evergreen trees drop old leaves a few at a time and keep growing new ones, so they are never bare."
+    },
+    {
+     "t": "write",
+     "p": "Choose one: the frog, the buffalo or the koel. Which season is it, what problem or chance does the season bring, and what do they do about it?",
+     "lines": 3,
+     "a": "Any one animal with a true reason. For example: in summer the buffalo has few sweat glands, so she lies in mud or water to cool off. Or: after the first rains, frogs call and lay eggs in puddles, because their eggs and tadpoles need water.",
+     "why": "A strong answer starts with the animal's problem or chance in that season, then says what the animal does."
+    },
+    {
+     "t": "mcq",
+     "p": "In the torch test, which shine gave each square the most light?",
+     "opts": [
+      "Straight down",
+      "At a slant",
+      "Very low"
+     ],
+     "a": 0,
+     "why": "Straight down, the same light is packed into the fewest squares, so each square gets the most. That is like the high summer Sun.",
+     "how": "e2"
     }
    ]
   },
@@ -1987,20 +2037,8 @@
    "mins": 25,
    "items": [
     {
-     "t": "mcq",
-     "p": "In the Hidden Colours test, Fatima's yellowing coriander leaf made a strong yellow band but almost no green. Her green leaf made both. What is the best explanation?",
-     "opts": [
-      "The yellowing leaf had lost most of its green, and the yellow stayed",
-      "The yellowing leaf made new yellow",
-      "She did fewer coin rolls on the green leaf"
-     ],
-     "a": 0,
-     "why": "Both leaves had the yellow. Only the green was different. So as a leaf ages, the green goes first, and the yellow that was always there shows. If she did the same 10 rolls on each, the number of rolls cannot be the reason.",
-     "how": "e1"
-    },
-    {
      "t": "write",
-     "p": "Before a tree drops their leaves, they break down the green chlorophyll and move useful nutrients back into the branches. Why is this better for the tree than just dropping green leaves?",
+     "p": "Before a tree drops her leaves, she breaks down the green chlorophyll and moves useful nutrients back into the branches. Why is this better for the tree than just dropping green leaves?",
      "lines": 3,
      "a": "The leaves hold nutrients such as nitrogen, which the tree worked hard to take from the soil. If the tree dropped green leaves, those nutrients would be lost on the ground. By taking them back first, the tree can use them again for new leaves.",
      "why": "A strong answer says the nutrients are saved and reused, not wasted."
@@ -2018,7 +2056,7 @@
        "says": "The tree must be sick. We should call someone to cut it before it falls."
       },
       {
-       "who": "Amma",
+       "who": "Sushila's mother",
        "says": "We can't be sure from one look. Let's watch the tree for a month and see if new leaves come."
       }
      ],
@@ -2029,7 +2067,7 @@
     },
     {
      "t": "mcq",
-     "p": "Rani does the torch test. Straight down, the torch lights 30 squares. Very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?",
+     "p": "Rani, a girl in Class 4, does the torch test. Straight down, the torch lights 30 squares. Very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?",
      "opts": [
       "About a third as much",
       "Three times as much",
@@ -2062,18 +2100,6 @@
      "lines": 3,
      "a": "The days are long in June and short in December, and this happens the same way every year. A plant that can sense how long the nights are can tell whether it is the warm part of the year or the cool part, and flower at the right time.",
      "why": "A strong answer says that day length changes the same way every year, so it is a reliable clock, better than weather that can change from day to day."
-    },
-    {
-     "t": "mcq",
-     "p": "Sevanthi, the chrysanthemum, flowers when the nights get long. When would you expect sevanthi flowers to be plentiful in the market?",
-     "opts": [
-      "May",
-      "July",
-      "December",
-      "April"
-     ],
-     "a": 2,
-     "why": "The nights are longest around December, so sevanthi flowers then. That is why sevanthi garlands are cheap in the cool months."
     },
     {
      "t": "truefalse",
@@ -2184,17 +2210,29 @@
     },
     {
      "t": "write",
-     "p": "A girl in Class 3 says the yellow in a falling leaf is a new colour that the leaf makes as she dies. What would you show her to change her mind?",
+     "p": "A girl in Class 3 says the yellow in a falling leaf is a new colour that the leaf makes as the leaf dies. What would you show her to change her mind?",
      "lines": 3,
      "a": "I would do the Hidden Colours test with a fresh green leaf. The green leaf also makes a yellow band on the strip. So the yellow was already in the leaf while it was green. It only shows when the green goes.",
      "why": "A strong answer uses the strip test as evidence, and explains that the yellow was there all along.",
      "how": "e1"
     },
     {
-     "t": "truefalse",
-     "p": "A shade on a window makes cold air for the room.",
-     "a": false,
-     "why": "False. A shade makes no cold. It stops sunlight from reaching the window and the room, so less heat gets in."
+     "t": "write",
+     "p": "Name two things your family wears or eats in one season but not in another. Say why each change helps.",
+     "lines": 3,
+     "a": "Any two real examples with a reason. For example: cotton clothes in summer, because they keep us cooler; sweaters in a cold winter, because they hold in body heat.",
+     "why": "A strong answer links each change to the weather or the harvest of that season."
+    },
+    {
+     "t": "mcq",
+     "p": "Rekha, a girl in Class 4, wants to test whether sevanthi plants flower because of long nights. Which test is fairest?",
+     "opts": [
+      "Two pots of the same plant side by side. Cover one with a dark cloth for the same long night every day, and leave the other uncovered",
+      "Two pots in different places, one in sun and one in shade",
+      "One pot watched for a whole year"
+     ],
+     "a": 0,
+     "why": "In a fair test only one thing changes. Here the two plants are the same and in the same place, and only the length of the night is different."
     }
    ]
   },
@@ -2224,7 +2262,7 @@
     },
     {
      "t": "write",
-     "p": "Garner and Allard's tobacco plants flowered when they were shut in the dark every afternoon. Later scientists found that a short flash of light in the middle of the night stopped them flowering. What does this tell you the plant is really measuring?",
+     "p": "Garner and Allard's tobacco plants flowered when they were shut in the dark every afternoon. Later scientists found that a short flash of light in the middle of a long night stopped plants like these from flowering. What does this tell you the plant is really measuring?",
      "lines": 3,
      "a": "The plant is measuring how long the dark lasts without a break, the length of the night. A flash in the middle splits the long night into two short nights, so the plant acts as if the nights are short.",
      "why": "A strong answer says the plant measures the night, and explains why the flash matters: it breaks the night into two short ones."
@@ -2233,7 +2271,7 @@
      "t": "mcq",
      "p": "Street lights shine all night near some trees in a city. What might happen to a plant that uses night length to know when to flower?",
      "opts": [
-      "It might flower at the wrong time, or not at all",
+      "The plant might flower at the wrong time, or not at all",
       "It will flower twice as much",
       "Nothing, because plants only feel daytime light"
      ],
@@ -2249,7 +2287,7 @@
     },
     {
      "t": "mcq",
-     "p": "Shreya repeats the torch test, but she holds the torch twice as far away for the slanting shine. Why is this not a fair test?",
+     "p": "Shreya, a girl in Class 4, repeats the torch test, but she holds the torch twice as far away for the slanting shine. Why is this not a fair test?",
      "opts": [
       "Two things changed: the angle and the distance",
       "The torch got tired",
@@ -2258,12 +2296,6 @@
      "a": 0,
      "why": "In a fair test only one thing changes. If the distance changes too, she cannot tell whether the bigger patch came from the slant or from the extra distance.",
      "how": "e2"
-    },
-    {
-     "t": "truefalse",
-     "p": "Painting a leaf's yellow pigment on paper would turn the paper green over time.",
-     "a": false,
-     "why": "False. The yellow pigment stays yellow. A leaf looks green only because she has much more green chlorophyll than yellow pigment. The yellow is always there underneath."
     },
     {
      "t": "order",
@@ -2302,7 +2334,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a picture that explains why a deciduous tree drops their leaves in the dry season. Show the soil, the roots, the leaves and the water.",
+     "p": "Draw a picture that explains why a deciduous tree drops her leaves in the dry season. Show the soil, the roots, the leaves and the water.",
      "a": "Dry soil with little water near the roots, and many leaves losing water through tiny holes, with arrows showing water leaving. A second picture of the bare tree losing much less water.",
      "why": "A strong drawing shows that leaves lose water, that the dry soil cannot replace it, and that fewer leaves means less water lost.",
      "art": "An empty box with a line for the ground near the bottom."
@@ -2313,18 +2345,6 @@
      "lines": 3,
      "a": "Sweat cools a body as it dries. A buffalo has few sweat glands, so she cannot cool herself well by sweating. Wet mud on her skin dries slowly and cools her, like sweat would. A cow sweats more, so shade is often enough for her.",
      "why": "A strong answer starts with the buffalo's problem, few sweat glands in the heat, and explains how wet mud cools as it dries."
-    },
-    {
-     "t": "mcq",
-     "p": "Olive ridley turtle eggs take about 50 days to hatch in the warm sand. Eggs laid on 20 February would hatch around:",
-     "opts": [
-      "11 April",
-      "20 March",
-      "1 June",
-      "10 February"
-     ],
-     "a": 0,
-     "why": "February has 28 days in most years, so 8 days take us to the end of February. March has 31 days, which makes 39. 11 more days into April makes 50. So about 11 April."
     },
     {
      "t": "sort",
@@ -2371,11 +2391,36 @@
      "why": "Garner and Allard named it photoperiodism in 1920. 'Photo' means light, and 'period' means a length of time."
     },
     {
-     "t": "write",
-     "p": "The yellow was hidden in the green leaf all along. Think of something else that is hidden until something else goes away. Explain how it is like the leaf.",
-     "lines": 4,
-     "a": "Any good example with a clear link. For example: stars are in the sky all day, but we see them only when the bright sunlight goes away at night. Like the yellow in the leaf, they were there all along, hidden by something brighter.",
-     "why": "A strong answer finds a real example where something stronger hides something that was there all along, and explains the link."
+     "t": "perspective",
+     "p": "A farmer and a weather scientist are talking about the rains.",
+     "views": [
+      {
+       "who": "A farmer",
+       "says": "The rains come later and in heavier bursts than when I was young. I am sure they have changed."
+      },
+      {
+       "who": "A weather scientist",
+       "says": "Memories are useful clues, but I need written rain records from many years to be sure."
+      }
+     ],
+     "ask": "Whose way of finding out do you trust more? What would you check? Then say what the other person has right.",
+     "lines": 5,
+     "a": "A strong answer values both: the farmer notices real things every day and may be right, and the scientist's records can check the memory and show how big the change is. A good check is written rain records for the same place over many years.",
+     "why": "Both are useful. Memory gives the first clue, and records show whether it is true. The best answers use both."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a year in the life of a pintail duck. Show where she is in summer, in autumn, in winter and in spring, and why.",
+     "a": "Summer: on a lake in Central Asia, laying eggs. Autumn: flying south to India as the lakes freeze. Winter: on a warm Indian lake, feeding. Spring: flying back north to lay eggs.",
+     "why": "A strong drawing follows the duck's year and gives the reason for each move: frozen lakes and food in winter, a place for eggs in summer.",
+     "art": "Four empty boxes in a row, labelled Summer, Autumn, Winter and Spring."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a lamp as the Sun and a tilted ball as the Earth. Show India in June and in December, and label which time of year leans towards the Sun and which leans away.",
+     "a": "Two drawings with the ball tilted the same way both times. In June, India's half leans towards the Sun. In December it leans away.",
+     "why": "A strong drawing keeps the tilt pointing the same way while the Earth moves round the Sun, so that the two halves lean towards the Sun at opposite times.",
+     "art": "Two empty boxes, each with a small lamp on the left and an empty space for the ball."
     }
    ]
   }
@@ -2423,6 +2468,10 @@
   {
    "text": "Pongal pots and sugarcane outside homes in mid-January.",
    "art": "A clay pot boiling over with Pongal on a small fire outside a house with a kolam and sugarcane stalks."
+  },
+  {
+   "text": "Kites filling the sky over Gujarat on 14 January, for Uttarayan.",
+   "art": "A rooftop in Ahmedabad with children flying colourful kites against a blue winter sky."
   }
  ],
  "open_questions": [
@@ -2473,28 +2522,12 @@
    "a": "Her lake gave her the cold shoulder."
   },
   {
-   "j": "What do you call a koel who sings all summer?",
-   "a": "A hot-weather tweeter."
-  },
-  {
    "j": "Why was the frog so happy in July?",
    "a": "Every puddle was a pool party."
   },
   {
    "j": "What did the leaf say to the paper strip?",
    "a": "You've found my true colours."
-  },
-  {
-   "j": "Why did the torch go to the beach?",
-   "a": "It wanted to shine at a slant."
-  },
-  {
-   "j": "What does a mango say at the end of May?",
-   "a": "It's been a juicy summer."
-  },
-  {
-   "j": "Why did the sevanthi wait for winter?",
-   "a": "She was counting sheep. Long nights help."
   },
   {
    "j": "What is a buffalo's favourite summer spa?",
@@ -2509,10 +2542,6 @@
    "a": "It wanted to firm up its plans."
   },
   {
-   "j": "What did the yellow leaf say to the green leaf?",
-   "a": "I was like you once. Underneath, you're like me."
-  },
-  {
    "j": "Why do bears in the Himalayas love winter?",
    "a": "They can sleep through it."
   },
@@ -2523,7 +2552,7 @@
  ],
  "maths": [
   {
-   "problem": "In the torch test, Divya's torch lit 40 squares when it shone straight down. When it shone very low, the same light lit 120 squares. How many times as many squares did the low torch light? What share of the light did each square get?",
+   "problem": "Divya, a girl in Class 3, does the torch test. Her torch lit 40 squares when it shone straight down. When it shone very low, the same light lit 120 squares. How many times as many squares did the low torch light? What share of the light did each square get?",
    "answer": "3 times as many squares. Each square got about a third of the light.",
    "explain": "120 divided by 40 is 3. The same light was shared among 3 times as many squares, so each square got a third as much. That is why the low light looked dim.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2579,7 +2608,7 @@
    "why_maths": "A fraction shows how big a share of the year each season takes."
   },
   {
-   "problem": "Olive ridley turtle eggs take about 50 days to hatch in warm sand. Lakshmi's family sees a turtle lay eggs on a Chennai beach on 20 February. About when should the babies come out? February has 28 days this year.",
+   "problem": "Olive ridley turtle eggs take about 50 days to hatch in warm sand. A family sees a turtle lay eggs on a Chennai beach on 20 February. About when should the babies come out? February has 28 days this year.",
    "answer": "About 11 April.",
    "explain": "From 20 February to the end of February is 8 days. March has 31 days, so that makes 39. 50 take away 39 is 11, so 11 days into April: about 11 April. The real time can be a week or more longer or shorter, depending on how warm the sand is.",
    "math_unit": "math.time.calendar.L3",
@@ -2639,12 +2668,11 @@
    "id": "b-blot",
    "item": "White blotting paper, a few sheets",
    "kind": "material",
-   "why": "Blotting paper soaks up the liquid evenly, so the leaf colours spread into clear bands. It is cheap at stationery shops. A white paper napkin folded in four can stand in.",
+   "why": "Blotting paper soaks up the liquid evenly, so the leaf colours spread into clear bands. You can buy it at stationery shops. A white paper napkin folded in four can stand in.",
    "url": "https://www.amazon.in/s?k=white+blotting+paper+sheets",
    "used_in": [
     "e1"
-   ],
-   "plan": "Keep spare sheets for other colour-separating tests, such as sketch pen inks."
+   ]
   },
   {
    "id": "b-remover",
@@ -2654,8 +2682,7 @@
    "url": "https://www.amazon.in/s?k=acetone+nail+polish+remover",
    "used_in": [
     "e1"
-   ],
-   "plan": "Store it closed, high up and away from any flame."
+   ]
   }
  ],
  "warmup": [
@@ -2680,7 +2707,7 @@
    "a": "Yellow."
   },
   {
-   "q": "What is a tree called that drops their leaves for part of the year?",
+   "q": "What are trees called that drop their leaves for part of the year?",
    "a": "Deciduous."
   },
   {
@@ -2776,7 +2803,7 @@
  "roots": {
   "context": "We have pulled hidden colours out of a leaf, watched light spread at a slant, and met the animals and people who change with the year. Now we ask what the seasons tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your strip drew a yellow band out of a leaf that looked only green. The yellow was there all along, hidden under the green. Before a tree drops leaves in the dry season, they break down the green and take back what is useful. Then the hidden yellow shows, and the leaf falls.",
+   "truth": "Your strip drew a yellow band out of a leaf that looked only green. The yellow was there all along, hidden under the green. In the dry season a tree breaks down the green in her leaves and takes back what is useful. Then the hidden yellow shows, and the leaf falls.",
    "habit": "We say a leaf 'turns' yellow, as if a new colour is painted on as the leaf dies. And we read yellow leaves as a sign of a sick tree. In the dry season, the yellow is the colour that was always there, showing once the tree has taken back the green.",
    "evidence": "In the Hidden Colours test, the green palak leaf gave a green band and a yellow band. The yellowing palak leaf gave a strong yellow band and much less green. Scientists have measured that trees take back about half of the nitrogen from their leaves before the leaves fall."
   },
@@ -2819,12 +2846,12 @@
   ],
   "other_view": {
    "who": "Many plant scientists",
-   "view": "A tree that drops their leaves is following a chain of chemical steps set off by dryness and the season. Calling it 'taking back' or 'getting ready' is a helpful way to talk. But they would say the tree does not plan anything."
+   "view": "Trees that drop their leaves are following a chain of chemical steps set off by dryness and the season. Calling it 'taking back' or 'getting ready' is a helpful way to talk. But these scientists would say a tree does not plan anything."
   },
   "practice": {
    "title": "Three signs of the season",
    "mins": 3,
-   "say": "Let's sit by the window and close our eyes for a minute. Listen. What sound tells you the season? Now breathe in slowly through your nose. What can you smell? Feel the air on your skin. Is it hot, damp or cool? Open your eyes. Find one living thing outside. How is she or he changing right now?",
+   "say": "Let's sit by the window and close our eyes for a minute. Listen. What sound tells you the season? Now breathe in slowly through your nose. What can you smell? Feel the air on your skin. Is it hot, damp or cool? Open your eyes. Find one living thing outside. How are they changing right now?",
    "kid": "Sit by the window. Close your eyes. What can you hear? What can you smell? How does the air feel? Open your eyes. Find one living thing. How are they changing?"
   },
   "ask": [
@@ -2832,13 +2859,13 @@
    "A tree takes back what is useful before the leaf falls. Is the fallen leaf still part of the tree?",
    "Every place in India has its own seasons. Is there one 'winter', or many?"
   ],
-  "art": "A girl and her grandmother sitting quietly by a window, eyes closed, while outside a neem tree drops yellow leaves on one side and grows new pale-green leaves on the other."
+  "art": "A girl sitting quietly by a window, eyes closed, while outside a neem tree drops yellow leaves on one side and grows new pale-green leaves on the other."
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: the main investigation uses palak or coriander, which most kitchens have, and a yellowing leaf from the fridge, so no tree or garden is needed. The coin-roll method avoids grinding leaves. Nail polish remover with acetone gives the clearest bands in about 15 minutes. Rubbing alcohol and liquid hand sanitiser work more slowly, and plain water hardly moves the green, so it is not offered. The liquid must be shallower than the leaf line, or the colours simply wash off, so the step says 1 cm deep and a line at 2 cm. The yellow band can be thin and fades as the strip dries, so the steps say to look straight away and to use 20 rolls if the line is faint. Nail polish remover catches fire easily, so the steps keep it far from diyas, stoves and agarbattis, with a window open and an adult pouring. The torch test needs only a dark room, a torch and a maths notebook. Its numbers depend on the torch, so the example results are marked as made up. The sun patch activity and the shade challenge need sunshine, so they are marked 'if sunlight comes in' and kept out of the spine. The coconut oil test works only if the room is warmer than about 24 degrees, so the step says what to do if both bowls set. The spine is the season detective activity, Hidden Colours, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
   "story": "About 1906, farmers in Maryland, in the United States, found a new kind of tobacco plant. It grew huge, taller than a man, but it would not flower in the summer, so it gave no seeds. People thought plants flowered when they were old enough or big enough, or when the weather was warm. This plant broke that idea. It was big, warm and well fed, and still did not flower. Then farmers noticed it did flower in winter, in a glasshouse. Wightman Garner and Harry Allard, two scientists in the United States government's farm department, wondered if the plant could tell the length of the day. In 1918 they tested it. Every afternoon they pushed some plants into a dark hut, so their days were short, like winter days. Other plants stayed outside. In the middle of summer, the plants with short days flowered, and the others did not. They published their results in 1920 and called this photoperiodism. In 1938, Karl Hamner and James Bonner showed that a short flash of light in the middle of the night could stop such plants from flowering. So what plants really measure is the length of the night.",
   "who": "Wightman Garner and Harry Allard, scientists in the United States Department of Agriculture, and later Karl Hamner and James Bonner",
   "when": "1918 to 1920, with the night-length experiments in 1938",
-  "wrong_idea": "People thought a plant flowers when they are old enough, big enough or warm enough. Garner and Allard showed that many plants flower when the days reach a certain length, by shortening the days of tobacco plants with a dark hut. Later work showed that the plants are really measuring the length of the night."
+  "wrong_idea": "People thought plants flower when they are old enough, big enough or warm enough. Garner and Allard showed that many plants flower when the days reach a certain length, by shortening the days of tobacco plants with a dark hut. Later work showed that the plants are really measuring the length of the night."
  }
 }

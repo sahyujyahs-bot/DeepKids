@@ -109,7 +109,7 @@
   {
    "term": "Lateral line",
    "meaning": "A row of tiny sensors along each side of a fish's body. It feels the water moving, so a fish can sense other animals nearby without seeing them.",
-   "example": "A blind cave fish swims round a rock without bumping it, using their lateral line.",
+   "example": "A blind cave fish swims round rocks without bumping into them, using their lateral line.",
    "art": "A fish with a dotted line drawn along their side, from gills to tail."
   },
   {
@@ -377,12 +377,12 @@
    "context": "Is a camel's hump full of water? This card looks at a very common idea."
   },
   {
-   "claim": "An animal grows a new feature because they need one. A giraffe's neck grew long because giraffes stretched for leaves.",
+   "claim": "An animal grows a new feature when they need one. A giraffe's neck grew long because giraffes stretched for leaves.",
    "who": "Jean-Baptiste Lamarck, in 1809, and many people today",
    "for": "Using a body part can make it stronger in your own life. Muscles grow with exercise.",
    "against": "Changes made to a parent's body in their own life are not passed on to their young in that way. August Weismann cut the tails off mice for many generations, and their babies always had tails. Long necks built up because giraffes with slightly longer necks survived and had more young.",
    "status": "rejected",
-   "context": "Does an animal grow a feature because they need it? This card looks at an old idea."
+   "context": "Does an animal grow a feature when they need one? This card looks at an old idea."
   },
   {
    "claim": "Animals of the same kind are bigger in colder places.",
@@ -551,7 +551,7 @@
       "Big ears",
       "Burrow under the sand",
       "Thick fur",
-      "Long tail to wrap round you",
+      "Long tail to wrap round your body",
       "Small ears",
       "Huddle together",
       "Blubber",
@@ -564,8 +564,8 @@
       "Huge eyes",
       "Shining eyes",
       "Long whiskers",
-      "Lateral line",
-      "Echolocation"
+      "Lateral line (sensors along a fish's side that feel water move)",
+      "Echolocation (making sounds and listening for echoes)"
      ]
     },
     {
@@ -581,10 +581,10 @@
    "rules": [
     "Shuffle the feature cards. Deal 5 to each player. Put the place cards face down in a pile.",
     "Turn over the top place card and read it aloud.",
-    "Each player may play one feature card that helps with that place. To score, say the problem first, then how the feature helps. For example: 'It is burning hot, so big ears let heat escape.'",
+    "Each player may play one feature card that helps with that place. To score, say the problem first, then how the feature helps. For example: 'It is burning hot, so big ears let heat escape.' If you have no card that helps, play none and score 0 for that place.",
     "A good explanation scores 2 points. If the others agree the feature helps but the explanation is unclear, score 1 point.",
-    "After each place, everyone draws back up to 5 cards.",
-    "When all 8 places have been played, the player with the most points wins.",
+    "After each place, put the played cards in a discard pile and everyone draws back up to 5 cards. If the feature pile runs out, shuffle the discard pile and use it again.",
+    "When all 8 places have been played, the player with the most points wins. If two players tie, they share the win.",
     "Playing alone: deal yourself 8 cards. Score a point for every place you can survive with your cards, and try to beat your score next time."
    ],
    "flow": [
@@ -599,7 +599,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the first place card together as practice: 'CAVE: total darkness, always.'",
+     "do": "Turn over the CAVE card and play it as practice. Then shuffle it back in.",
      "say": "Practice round. Which feature would help in a cave that is always dark?",
      "kid": "Practice round. A cave is always dark. Which card helps?",
      "check": {
@@ -633,7 +633,7 @@
    ],
    "setup": [
     {
-     "art": "Eight place cards with pictures of a desert, snowy Ladakh, a pond, a mangrove, a cave and a night forest, laid face down.",
+     "art": "Eight place cards with the name of each place and its problem written on them, laid face down.",
      "caption": "1. Put the place cards face down. Deal 5 feature cards each."
     },
     {
@@ -650,7 +650,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a moving game for three or more people. Everyone is an emperor penguin, keeping warm in a huddle and taking turns on the cold outside.",
+   "context": "This is a moving game for two or more people. Everyone is an emperor penguin, keeping warm in a huddle and taking turns on the cold outside.",
    "printables": [
     {
      "kind": "cards",
@@ -666,11 +666,12 @@
     }
    ],
    "rules": [
-    "Everyone is a penguin. Put a soft ball or a rolled sock on top of your feet. That is your egg. Never let it touch the ice, the floor.",
-    "One person is the weather and reads a weather card.",
-    "On a wind card, the penguins on that side shuffle round to the sheltered side of the huddle, without dropping their eggs.",
-    "A penguin who drops their egg becomes the weather.",
-    "Play until every card has been read twice."
+    "Everyone is a penguin. Put a soft ball or a rolled sock on top of your feet. That is your egg. Never let it touch the floor.",
+    "Stand shoulder to shoulder in a tight huddle. Shuffle the weather cards and put them face down.",
+    "Take turns to be the weather: turn over the top card and read it aloud. The person reading is a penguin in the huddle too, and does what the card says.",
+    "On a wind card, the penguins on that side of the huddle shuffle round to the sheltered side, without dropping their eggs. With two players, the person on that side steps round behind the other.",
+    "A penguin who drops their egg reads the next card.",
+    "Play until every card has been read twice. Shuffle the cards again after the first time through."
    ],
    "flow": [
     {
@@ -684,10 +685,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "The weather reads the cards one at a time, and the penguins move.",
+     "do": "Take turns turning over a weather card. Everyone does what it says, including the person reading.",
      "say": "Wind from the left! Left side, shuffle round to the back. Don't drop your egg!",
      "kid": "Listen to the weather. Shuffle round when the wind comes. Keep your egg on your feet!",
-     "parent": "Shuffling with an egg on your feet is slow and wobbly, which is how real penguins move in a huddle. Keep it gentle, with no pushing."
+     "parent": "Shuffling with an egg on your feet is slow and wobbly, which is how real penguins move in a huddle. Keep it gentle, with no pushing. With only two of you, the person on the windy side steps round behind the other."
     },
     {
      "id": "s3",
@@ -771,7 +772,7 @@
      "buy": "b-scale"
     }
    ],
-   "safety": "A grown-up makes the pin holes and puts the pin away. Keep the bowl of water away from switches and sockets.",
+   "safety": "A grown-up makes the pin holes and puts the pin away.",
    "schedule": [
     {
      "day": 1,
@@ -954,7 +955,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up melted water from the floor so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -986,7 +986,7 @@
      "do": "Every 10 minutes, look at both plates. Write down what you see: sharp corners, rounded corners, small cubes, or gone.",
      "say": "Let's look again. Which cubes have lost their corners first? Which look smaller?",
      "kid": "Every 10 minutes, look at both plates. Which cubes look smaller?",
-     "parent": "In a warm Indian room, the spread-out cubes usually look clearly smaller after 20 to 30 minutes. The huddle keeps its block shape longer. You can read the story or play a game while you wait."
+     "parent": "In a warm Indian room, the spread-out cubes usually look clearly smaller after 20 to 30 minutes. The huddle keeps its block shape longer. In a very hot room, check every 5 minutes. If you see little difference, your room may be cool, so try again with the plates in a warmer spot. You can read the story or play a game while you wait."
     },
     {
      "id": "s4",
@@ -1003,7 +1003,7 @@
        "Ice likes to be together"
       ],
       "a": 1,
-      "why": "Heat from the warm air goes into ice through its outside. In the huddle, the sides of the cubes that touched each other were hidden from the warm air. So less heat got in. Picking 'smaller to start with' is a fair worry, but all the cubes came from the same tray. A penguin huddle works the same way in reverse. Less of each penguin's body faces the icy wind, so less heat escapes."
+      "why": "Heat from the warm air goes into ice through its outside. In the huddle, the sides of the cubes that touched each other were hidden from the warm air. So less heat got in. Picking 'smaller to start with' is a fair worry, but all the cubes came from the same tray. A penguin huddle works for the same reason: less of each penguin's body faces the icy wind, so less heat escapes."
      },
      "how": "e2"
     },
@@ -1094,7 +1094,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up picks any leaves from a potted plant, with clean scissors. Wash your hands after using the petroleum jelly. Do not eat the leaves afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1146,7 +1145,7 @@
       "a": 1,
       "why": "A leaf is firm when its cells are full of water. Water escapes from a picked leaf through its surface and its tiny holes. The jelly covered them, so the coated leaf kept its water and stayed firm. Picking 'the jelly fed the leaf' is a natural guess, but petroleum jelly is not food for a plant. A cactus's thick waxy coat works the same way, all their life."
      },
-     "parent": "A spinach leaf under a fan usually goes limp within 2 to 4 hours. A thicker leaf, like money plant, can take a day, so check it the next morning instead. If both leaves stay firm, move the plate into the sun."
+     "parent": "A spinach leaf under a fan usually goes limp within 2 to 4 hours. A thicker leaf, like money plant, can take a day, so check the leaf the next morning instead. If both leaves stay firm, move the plate into the sun. If they still look the same, say so honestly in your record: this test did not show a difference."
     },
     {
      "id": "s5",
@@ -1194,7 +1193,6 @@
      "qty": 1
     }
    ],
-   "safety": "Put the bucket on the floor on a towel. A grown-up stays close while your child's eyes are covered.",
    "schedule": [
     {
      "day": 1,
@@ -1225,7 +1223,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Take off the blindfold and talk about what happened.",
-     "say": "A cave fish has no eyes. How do you think they swim round rocks and finds food in the dark?",
+     "say": "A cave fish has no eyes. How do you think they swim round rocks and find food in the dark?",
      "kid": "A cave fish has no eyes. How do they find food in the dark?",
      "check": {
       "t": "mcq",
@@ -1271,7 +1269,7 @@
      "qty": 3
     }
    ],
-   "safety": "Clear the floor of anything sharp or breakable. A grown-up walks right beside the child the whole time.",
+   "safety": "Move anything sharp or breakable out of the way before the walk.",
    "schedule": [
     {
      "day": 1,
@@ -1463,7 +1461,7 @@
      "do": "1. Turn off the lights. 2. Lay both cups on their sides on a table, holes facing you. 3. Hold the torch just beside your own eyes and shine it at the holes from about one metre away.",
      "say": "Which eye shines back at you?",
      "kid": "Turn off the lights. Hold the torch beside your face. Shine it at both holes. Which one glows?",
-     "parent": "Hold the torch right next to your eyes, because the reflected light comes back towards the torch. If the foil eye does not glow, move the torch a little until the hole lines up with the foil inside. You should see a bright spot in the foil cup and only darkness in the black one.",
+     "parent": "Hold the torch right next to your eyes, because the reflected light comes back towards the torch. If the foil eye does not glow, move the torch a little until the hole lines up with the foil inside. You should see a bright spot in the foil cup and only darkness in the black one. This works best in a really dark room. If you see no bright spot, make the hole a little bigger, and turn the cup until the foil faces the torch.",
      "check": {
       "t": "mcq",
       "q": "Why does the foil eye shine, but not the black eye?",
@@ -1504,7 +1502,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "4 or 5 different leaves from the kitchen or a potted plant: a cabbage leaf, spinach, curry leaves, coriander, and aloe vera if you have it",
+     "item": "4 or 5 different leaves from the kitchen or a potted plant: a cabbage leaf, spinach, curry leaves, coriander, a piece of banana leaf, and aloe vera if you have it",
      "qty": 5
     },
     {
@@ -1517,7 +1515,6 @@
      "buy": "b-magnifier"
     }
    ],
-   "safety": "Wash your hands after touching aloe vera, and keep the jelly away from your eyes.",
    "schedule": [
     {
      "day": 1,
@@ -1576,7 +1573,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1589,9 +1585,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read out the five places and let your child pick one. The places are the Thar at noon, a Ladakh winter night, a mangrove, a cave and the deep sea.",
+     "do": "Read out the five places and let your child pick one. The places are the Thar at noon, a Ladakh winter night, a mangrove, a cave and a pond.",
      "say": "Pick a place. What problems would a living thing have there? Let's list them first.",
-     "kid": "Pick a place: desert, snowy mountain, mangrove, cave or deep sea. What problems would you have there?",
+     "kid": "Pick a place: desert, snowy mountain, mangrove, cave or pond. What problems would you have there?",
      "context": "This is the first step of Design an Animal. You invent a living thing for one of the hard places in this unit."
     },
     {
@@ -1606,8 +1602,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask your child to show the drawing and explain one feature.",
-     "say": "Tell me about one feature. What problem does it solve? Is there a real animal with something like it?",
-     "kid": "Show your creature. Explain one feature. Does a real animal have something like it?"
+     "say": "Tell me about one feature. What problem does that feature solve? Is there a real animal with a similar feature?",
+     "kid": "Show your creature. Explain one feature. Does a real animal have a similar feature?"
     }
    ],
    "context": "This activity is drawing a made-up living thing for a hard place, like a desert or a cave, starting with the problems of that place.",
@@ -1643,7 +1639,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch birds and animals from a window or balcony, and never touch or feed street animals without a grown-up.",
+   "safety": "Watch birds and animals from a window or balcony. Never touch or feed street animals.",
    "schedule": [
     {
      "day": 1,
@@ -1763,7 +1759,7 @@
     },
     {
      "id": "s3",
-     "mins": 22,
+     "mins": 27,
      "do": "1. Build your best idea with a wet towel. 2. Put it beside a plain flat wet towel under the fan. 3. Do the touch test every 15 minutes.",
      "say": "Which stays wet longer, yours or the plain one?",
      "kid": "Build your best idea. Put it beside a plain wet towel. Test them every 15 minutes.",
@@ -1823,7 +1819,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem. Look at a picture of a water hyacinth, or a cut lotus stem.",
+     "do": "Read the problem. Think of a water hyacinth, the floating weed of Indian ponds and lakes, or look at a cut lotus stem.",
      "say": "Water plants have air inside them, which helps them float near the light. How could we trap air in a raft?",
      "kid": "Water plants float on air trapped inside them. How could you trap air in a raft?",
      "context": "This is the first step of Float Like a Water Hyacinth. You build a raft that floats on trapped air, like a water plant."
@@ -1842,7 +1838,7 @@
      "do": "Read the usual and creative solutions, then invent one more.",
      "say": "Here are some ideas. Which ones are most like a real water plant?",
      "kid": "Look at the ideas. Which is most like a real water plant? Invent one more.",
-     "think": "Why would a water plant want to float near the top, instead of sinking to the bottom?"
+     "think": "Why is it useful for a water plant to float near the top, instead of sinking to the bottom?"
     }
    ],
    "context": "This is an engineering challenge. You build a raft that floats on trapped air, the way water hyacinths and lotus stems do.",
@@ -1982,7 +1978,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavin, a boy in Class 3, puts 6 ice cubes close together in a block, and 6 more spread apart. Which melt more slowly?",
+   "p": "Divya, a girl in Class 3, puts 6 ice cubes close together in a block, and 6 more spread apart. Which melt more slowly?",
    "opts": [
     "The spread-out cubes",
     "The cubes close together",
@@ -2079,10 +2075,11 @@
      "why": "A snow leopard has thick fur, a long thick tail and small ears, which keep them warm in the snow."
     },
     {
-     "t": "truefalse",
-     "p": "A camel's hump is full of water.",
-     "a": false,
-     "why": "False. The hump is mostly fat. A camel saves water by losing very little."
+     "t": "write",
+     "p": "Think of a cold night at home. Name two things you do to keep warm. For each, say which animal's way of keeping warm yours is like.",
+     "a": "For example: I curl up under a blanket, like a dog curling into a ball. I wear a woollen sweater, like a yak's thick coat, because both trap still air.",
+     "why": "A good answer links each thing to an animal's adaptation and says how it keeps heat in.",
+     "lines": 4
     },
     {
      "t": "truefalse",
@@ -2093,9 +2090,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Bats are blind.",
-     "a": false,
-     "why": "False. All bats can see. Many small bats also use echolocation to hunt in the dark."
+     "p": "An adaptation can be a way of behaving, such as a desert lizard hiding in a burrow at noon.",
+     "a": true,
+     "why": "True. An adaptation can be a part of the body or a way of behaving."
     },
     {
      "t": "fill",
@@ -2224,9 +2221,9 @@
     },
     {
      "t": "write",
-     "p": "Kavya puts all her plants close together in the shade on a hot day. Why does this help them keep their water?",
-     "a": "The pots shade each other and hide from the hot wind, so less water evaporates from their leaves and soil.",
-     "why": "Crowding together means less of each plant faces the sun and hot air, like penguins huddling against the cold.",
+     "p": "Kavya, a girl aged 9, puts her pots of plants close together in the shade on a hot day. Why might this help the plants keep their water?",
+     "a": "The pots shade each other and hide from the hot wind, so less water evaporates from the leaves and soil.",
+     "why": "Crowding together means less of each plant faces the sun and hot air, so less water escapes.",
      "lines": 3
     }
    ]
@@ -2271,7 +2268,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ravi, a boy in Class 3, coats one spinach leaf with petroleum jelly and leaves another plain. After 4 hours the plain leaf is floppy. What does this show?",
+     "p": "Sneha, a girl in Class 3, coats one spinach leaf with petroleum jelly and leaves another plain. After 4 hours the plain leaf is floppy. What does this show?",
      "opts": [
       "Petroleum jelly is plant food",
       "A coat on the surface slows down the water escaping from a leaf",
@@ -2315,26 +2312,33 @@
      "why": "Mangroves grow where the sea comes in every day. Some keep salt out at their roots, and others, like the grey mangrove, push the extra salt out through their leaves."
     },
     {
-     "t": "mcq",
-     "p": "The slender loris of South India has huge eyes. Why?",
-     "opts": [
-      "They are awake at night, and big eyes collect more light",
-      "They eat very big food",
-      "They live under water"
-     ],
-     "a": 0,
-     "why": "The slender loris is nocturnal. Big eyes let in as much light as possible, so they can see insects in the dark."
+     "t": "write",
+     "p": "The slender loris is awake at night and has huge eyes. Explain how the big eyes help, starting with the loris's problem.",
+     "a": "The forest is dark at night, so little light reaches the loris. Big eyes collect as much light as possible, so the loris can see insects in the dark.",
+     "why": "A full answer gives the problem first, then the feature, then how it helps.",
+     "lines": 3
     },
     {
-     "t": "mcq",
-     "p": "A cave fish has no eyes, but they have many more taste buds than a river fish. How do the extra taste buds help them?",
-     "opts": [
-      "They help them find food in the dark by taste",
-      "They help them see",
-      "They keep them warm"
+     "t": "perspective",
+     "p": "Scientists disagree about why cave fish lost their eyes.",
+     "views": [
+      {
+       "who": "Scientists who study energy",
+       "says": "Eyes cost a lot of energy and caves have little food. Fish with smaller eyes saved energy and had more young."
+      },
+      {
+       "who": "Scientists who study how fish grow",
+       "says": "The same change that gave the fish more taste buds also made their eyes shrink. Losing the eyes was a side effect of a better sense of taste."
+      },
+      {
+       "who": "Scientists who study genes",
+       "says": "In the dark, a broken eye gene does no harm, so it was never weeded out. Over many generations it simply built up."
+      }
      ],
-     "a": 0,
-     "why": "In total darkness, eyes cannot find food, but taste and touch can. Many cave fish have more taste buds and a bigger lateral line."
+     "ask": "Which idea do you find most convincing? Give a reason. Then say what you would want to find out before you were sure.",
+     "lines": 5,
+     "a": "A strong answer picks one idea and gives a reason, such as 'caves have little food, so saving energy matters'. It then names a fair question, such as whether fish from different caves lost their eyes in the same way.",
+     "why": "Scientists still argue about this. No single view has been proved, so a good answer gives a reason and admits what is not yet known."
     },
     {
      "t": "truefalse",
@@ -2425,30 +2429,6 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Six ice cubes are spread out on a plate. How many faces of each cube touch the warm air? Remember that one face sits on the plate.",
-     "opts": [
-      "6",
-      "5",
-      "4"
-     ],
-     "a": 1,
-     "why": "A cube has 6 faces. One sits on the plate, so 5 touch the air.",
-     "how": "e2"
-    },
-    {
-     "t": "mcq",
-     "p": "Six ice cubes are pushed into a block of 2 rows of 3. How many cube faces touch the air now? Count the 6 tops and the faces around the edges.",
-     "opts": [
-      "16",
-      "30",
-      "6"
-     ],
-     "a": 0,
-     "why": "There are 6 top faces. Around the edge, the long sides show 3 faces each and the short sides show 2 each: 3 + 3 + 2 + 2 = 10. 6 + 10 = 16. Spread out, they showed 30. So the huddle showed only about half as many faces to the air.",
-     "how": "e2"
-    },
-    {
-     "t": "mcq",
      "p": "A yak would struggle in the plains of Tamil Nadu in summer. Why?",
      "opts": [
       "Their thick coat holds in so much heat that they would overheat",
@@ -2470,6 +2450,28 @@
      "why": "Unrelated living things in similar places often end up with similar shapes. Scientists call this convergent evolution."
     },
     {
+     "t": "perspective",
+     "p": "A school in Chennai wants to plant something in its sunny yard.",
+     "views": [
+      {
+       "who": "Mrs Borah, the gardener",
+       "says": "Plant a euphorbia or a cactus. Their fat, waxy stems need hardly any watering, even in a hot summer."
+      },
+      {
+       "who": "Mr Patil, a teacher",
+       "says": "Plant a neem tree. A cactus gives no shade, but a neem tree cools the yard and the children can sit under it."
+      },
+      {
+       "who": "Zoya, aged 9",
+       "says": "Plant both. The cactus survives when water is short, and the neem gives shade when there is enough water."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses the idea that every adaptation has a cost: a cactus saves water but gives no shade and grows slowly, while a neem tree needs more water. It then admits a fair point from another view.",
+     "why": "There is a real trade-off. Saving water and giving shade pull in different directions, so the best choice depends on how much water the school has."
+    },
+    {
      "t": "mcq",
      "p": "Lamarck said a giraffe's neck grew longer because giraffes stretched. August Weismann cut the tails off mice, generation after generation. What did the baby mice show?",
      "opts": [
@@ -2481,26 +2483,10 @@
      "why": "Every baby mouse had a full tail. A change to the parents' bodies in their own lives was not passed on. That was one test against Lamarck's idea."
     },
     {
-     "t": "mcq",
-     "p": "A wood frog freezes solid in winter and thaws in spring. What protects their cells from breaking?",
-     "opts": [
-      "Sugar that floods their body before they freeze",
-      "Thick fur",
-      "Hot water"
-     ],
-     "a": 0,
-     "why": "Before they freeze, the frog's liver floods their body with sugar, which keeps the inside of their cells from freezing."
-    },
-    {
-     "t": "mcq",
-     "p": "Which living thing's adaptation is a way of behaving, not a part of the body?",
-     "opts": [
-      "A desert lizard hiding in their burrow at noon",
-      "A cactus's spines",
-      "A duck's webbed feet"
-     ],
-     "a": 0,
-     "why": "Hiding at noon is something the lizard does. Spines and webbed feet are parts of the body."
+     "t": "truefalse",
+     "p": "Before a wood frog freezes in winter, sugar floods their body and protects the inside of their cells.",
+     "a": true,
+     "why": "True. The frog's liver floods their body with sugar, which keeps the inside of their cells from freezing and breaking."
     },
     {
      "t": "mcq",
@@ -2549,18 +2535,62 @@
      "how": "e1"
     },
     {
-     "t": "write",
-     "p": "A bat hears their world, a cave fish feels their world through the water, and you see yours. Do you think they live in the same world? Give a reason.",
-     "a": "Any thoughtful answer. For example: It is the same cave, but each animal meets it through a different sense, so each knows a different side of it.",
-     "why": "There is no single right answer. A good answer gives a reason.",
-     "lines": 4
-    },
-    {
      "t": "draw",
      "p": "Design a plant for the Thar Desert. Label three features and the problem each one solves.",
      "a": "For example: a fat stem to store water, a waxy coat to stop water escaping, and very deep roots to reach water underground.",
      "why": "Each feature should answer a real problem of the desert: little water, hot sun or dry air.",
      "art": "An empty box with a line of sand dunes along the bottom."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these adaptations. Are they a part of the body or a way of behaving?",
+     "a": "see items",
+     "why": "A part of the body is something the animal has. A way of behaving is something the animal does.",
+     "cats": [
+      "Part of the body",
+      "Way of behaving"
+     ],
+     "items": [
+      [
+       "webbed feet",
+       "Part of the body"
+      ],
+      [
+       "hiding in a burrow at noon",
+       "Way of behaving"
+      ],
+      [
+       "thick fur",
+       "Part of the body"
+      ],
+      [
+       "huddling together",
+       "Way of behaving"
+      ],
+      [
+       "puffing up feathers on a cold morning",
+       "Way of behaving"
+      ],
+      [
+       "a waxy coat",
+       "Part of the body"
+      ]
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Kavya spreads dry leaves over the soil in her pots. How could you test whether a layer of dry leaves keeps soil damp longer? Say what you would keep the same.",
+     "a": "Fill two pots with the same soil and the same amount of water, and put them side by side. Cover one with dry leaves and leave the other bare. Check how damp the soil is each day. Keep the pot size, soil, water and place the same.",
+     "why": "A fair test changes only one thing. Here only the layer of dry leaves changes.",
+     "lines": 4
+    },
+    {
+     "t": "fill",
+     "p": "Plants take in air through tiny holes in their leaves called ____.",
+     "a": [
+      "stomata"
+     ],
+     "why": "Water vapour also escapes through the stomata, so a plant must balance saving water with taking in air."
     }
    ]
   }
@@ -2626,7 +2656,7 @@
   },
   {
    "q": "How does a wood frog's heart know when to start beating again after they thaw?",
-   "why_open": "Scientists know the frog's heart restarts as it thaws, but not fully how the signal begins."
+   "why_open": "Scientists know the frog's heart restarts as the frog thaws, but not fully how the signal begins."
   },
   {
    "q": "How well do adaptations keep up when a place changes fast, as the climate is changing now?",
@@ -2659,105 +2689,45 @@
  ],
  "jokes": [
   {
-   "j": "Why did the camel never get lost in the desert?",
-   "a": "They always had a hump-y sense of direction."
-  },
-  {
    "j": "What do you call a camel with no hump?",
    "a": "Humphrey."
-  },
-  {
-   "j": "Why was the cactus so calm on the hottest day?",
-   "a": "They kept everything inside."
-  },
-  {
-   "j": "Why don't cactuses need umbrellas?",
-   "a": "They have a waxy coat on already."
-  },
-  {
-   "j": "What did the rolled-up towel say to the flat towel?",
-   "a": "You really need to stop putting yourself out there."
-  },
-  {
-   "j": "Why did the penguins stand so close together?",
-   "a": "They were having a cool-down meeting."
   },
   {
    "j": "How does a penguin build their house?",
    "a": "Igloos it together."
   },
   {
-   "j": "What is a snow leopard's favourite scarf?",
-   "a": "Their own tail."
-  },
-  {
-   "j": "Why did the yak go to the hairdresser?",
-   "a": "They were having a very long hair day."
-  },
-  {
-   "j": "Why don't ducks ever need towels?",
-   "a": "They come out of the water already oiled and ready."
-  },
-  {
    "j": "What did the duck say when they bought lip balm?",
    "a": "Put it on my bill."
-  },
-  {
-   "j": "Why are fish so good at swimming?",
-   "a": "They're always in school."
-  },
-  {
-   "j": "Why did the mangrove tree come up for air?",
-   "a": "Their roots told them to."
-  },
-  {
-   "j": "What kind of music does a mudskipper like?",
-   "a": "Anything with a good beat on the mud."
-  },
-  {
-   "j": "Why did the owl keep turning their head?",
-   "a": "They didn't want to look the other way."
-  },
-  {
-   "j": "Why are owls so clever at night?",
-   "a": "They're full of night-wisdom and very big eyes."
-  },
-  {
-   "j": "What did the cat say when the torch shone in their eyes?",
-   "a": "Excuse me, I'm trying to shine here."
-  },
-  {
-   "j": "Why do bats sing so well?",
-   "a": "They have perfect echo."
-  },
-  {
-   "j": "Why did the cave fish never play hide and seek?",
-   "a": "They always felt where you were."
-  },
-  {
-   "j": "Why did the slender loris stay up all night?",
-   "a": "It had big plans and even bigger eyes."
-  },
-  {
-   "j": "What does a frozen frog say in spring?",
-   "a": "Ribbit. I'm defrosted."
-  },
-  {
-   "j": "Why did the ice cubes huddle together?",
-   "a": "They didn't want to break the ice with strangers."
   },
   {
    "j": "Why did the fennec fox always hear the gossip?",
    "a": "They were all ears."
   },
   {
-   "j": "Why did the camel bring a flask on their trip?",
-   "a": "They didn't. They just packed less sweat."
+   "j": "Why did the ice cubes huddle together?",
+   "a": "They didn't want to break the ice with strangers."
+  },
+  {
+   "j": "Why do bats sing so well?",
+   "a": "They have perfect echo."
+  },
+  {
+   "j": "Why are fish so clever?",
+   "a": "They live in schools."
+  },
+  {
+   "j": "Why did the cave fish never play hide and seek?",
+   "a": "They always felt where you were."
+  },
+  {
+   "j": "Why did the penguins stand so close together?",
+   "a": "They were having a cool-down meeting."
   }
  ],
  "maths": [
   {
-   "problem": "In the three wet leaves test, Lakshmi weighed her towels. In one hour, the flat towel lost 18 grams of water. The covered towel lost only 2 grams. How many times as much water did the flat towel lose?",
+   "problem": "In the three wet leaves test, Lakshmi, a girl in Class 3, weighed her towels. In one hour, the flat towel lost 18 grams of water. The covered towel lost only 2 grams. How many times as much water did the flat towel lose?",
    "answer": "9 times as much.",
    "explain": "The flat towel lost 18 grams and the covered towel lost 2 grams. 18 divided by 2 is 9. So the flat towel lost 9 times as much water. Check: 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2806,7 +2776,7 @@
    "why_maths": "Working out the difference shows how big the camel's daily change is, compared with yours."
   },
   {
-   "problem": "In the three wet leaves test, Farhan did the touch test every 15 minutes. The flat towel was dry at the 4th check. The rolled towel was still wet inside at the 8th check. How long did each take?",
+   "problem": "In the three wet leaves test, Farhan, a boy in Class 3, did the touch test every 15 minutes. The flat towel was dry at the 4th check. The rolled towel was still wet inside at the 8th check. How long did each take?",
    "answer": "The flat towel was dry after 60 minutes. The rolled towel was still wet inside after 120 minutes, which is 2 hours.",
    "explain": "4 checks of 15 minutes is 15 + 15 + 15 + 15 = 60 minutes. 8 checks is twice as many, 120 minutes. So the rolled towel kept its water for at least twice as long.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2815,7 +2785,7 @@
    "why_maths": "Counting in equal groups of 15 minutes turns the number of checks into a time, so you can compare how long each towel kept its water."
   },
   {
-   "problem": "In the huddle test, the spread-out cubes made 120 millilitres of meltwater in 30 minutes, and the huddle made 60 millilitres. Arjun says, 'If I spread the cubes even further apart, they will make even more meltwater.' Is he right? What would you test to find out?",
+   "problem": "In the huddle test, the spread-out cubes made 120 millilitres of meltwater in 30 minutes, and the huddle made 60 millilitres. Arjun, a boy in Class 3, says, 'If I spread the cubes even further apart, they will make even more meltwater.' Is he right? What would you test to find out?",
    "answer": "Probably not much more. Once the cubes are apart, all 5 of their faces already touch the air. Spreading them further would not open up any more faces. You could test it by putting 6 cubes a finger-width apart and 6 cubes a hand-width apart.",
    "explain": "The huddle made half as much meltwater, 60 out of 120, because it hid faces from the air. Spread-out cubes already show every face except the bottom. So spreading them further should change little. A fair test would change only the distance between cubes.",
    "math_unit": "math.logic.puzzles.L3",
@@ -2850,6 +2820,13 @@
    "kind": "place",
    "where": "Near Chidambaram, Tamil Nadu",
    "why": "Row a boat through narrow channels between mangroves, and look for breathing roots poking out of the mud."
+  },
+  {
+   "title": "Sundarbans mangrove forest",
+   "url": "",
+   "kind": "place",
+   "where": "South 24 Parganas, West Bengal",
+   "why": "The world's largest mangrove forest. Go on a boat with a guide, and look for breathing roots poking out of the mud."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
@@ -2940,7 +2917,7 @@
   },
   {
    "q": "How does a snow leopard keep their face warm?",
-   "a": "It wraps its long, thick tail round it."
+   "a": "They wrap their long, thick tail round their face like a scarf."
   },
   {
    "q": "What makes a cat's eyes shine at night?",
@@ -3089,7 +3066,7 @@
   ],
   "art": "A child curled up in a ball on a mat beside a fat round cactus, with a snow leopard curled up asleep in the background, all three in warm evening light."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, in a city flat, with the materials listed. The three wet leaves test uses paper kitchen towels, or equal pieces of old cotton cloth. The covering is a piece of milk-packet plastic with 5 pin holes, because petroleum jelly does not spread well on wet paper. Under a fan in dry weather, the flat towel dries in about an hour, and the rolled towel stays wet inside for 2 hours or more. In humid monsoon weather everything takes longer, so the step says to keep checking or use a sunny window. The tissue touch test lets a child see wet, damp or dry without a scale. The huddle test needs 12 cubes from one tray, and plates kept out of sun and fan. In a warm room the difference shows within 20 to 30 minutes, and pouring the meltwater into two glasses makes it easy to see. The jelly coat test uses market spinach, which wilts within a few hours under a fan. Thicker potted-plant leaves may need overnight. The model eyes need a properly dark room, and the torch held beside the eyes. The ripple, whisker and webbed hand activities need a grown-up close by, and the plastic bag goes only on the hand. Both games work in a flat. Huddle Up needs three or more people, and Survive the Place can be played alone. Timings were checked step by step. The spine fits about 85 minutes: intro, the three wet leaves test, explanations, roots and quiz.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, in a city flat, with the materials listed. The three wet leaves test uses paper kitchen towels or equal pieces of old cotton cloth. Under a fan in dry weather the flat towel dries in about an hour, and the rolled towel stays wet inside for 2 hours or more. In humid weather everything takes longer. The huddle test needs 12 cubes from one tray and shows a difference in 20 to 30 minutes in a warm room. The jelly coat test works with market spinach in a few hours; thicker leaves may need overnight, and a result with no difference is recorded honestly. The model eyes need a really dark room. Both games work in a flat with two players: Survive the Place can also be played alone, and Huddle Up works with two or more.",
  "how_we_found_out": {
   "story": "For hundreds of years, many people believed that a camel carries water in their hump, or in special pockets in their stomach. How else could they cross a desert for days without drinking? In the winter of 1953, two scientists set out to test it. Bodil Schmidt-Nielsen, from Denmark, and her husband Knut Schmidt-Nielsen, from Norway, took their equipment to Béni Abbès, an oasis in the Sahara Desert in Algeria. They kept camels without water, weighed them, took their temperatures and measured everything they lost. They found that the hump is mostly fat, not water. The stomach held no store of water either. Instead, a camel saves water by losing very little. A thirsty camel let their body warm up by about 6 degrees during the hot day, instead of sweating to stay cool. At night they cooled down again. They also made very little urine. A camel could lose water equal to a quarter of their body weight and still recover once they drank. Bodil later became the first woman to lead the American Physiological Society, in 1975.",
   "who": "Bodil Schmidt-Nielsen and Knut Schmidt-Nielsen, scientists who studied how animals' bodies work",

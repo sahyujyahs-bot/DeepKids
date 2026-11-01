@@ -71,7 +71,7 @@ Independence Day, on 15 August, remembers the day in 1947 when India became free
 **Definition:** Turmeric is an indicator: it stays yellow in acids and in plain water, and turns red-brown in bases.
 
 Turmeric gets its yellow colour from a substance called curcumin. In plain water or in an acid, such as lemon juice, curcumin looks yellow. In a base, such as soap, baking soda or lime, the tiny particles of curcumin change shape a little. The changed particles take in different colours of light, so we see red-brown. Nothing red has been added. Add enough lemon juice, and the particles change back, and the colour turns yellow again. A substance that changes colour like this is called an indicator. That is why a turmeric stain on a shirt turns red when you wash it with soap.
-- e.g. A turmeric stain turns red with soap, then fades back to yellow as it dries and rinses.
+- e.g. A turmeric stain turns red with soap, and goes back to yellow once the soap is rinsed out.
 - e.g. A pinch of lime in turmeric water makes the deep red water used for aarathi.
 - e.g. Red hibiscus juice is an indicator too. It turns pink in acids and green in bases.
 ### Where festival colours come from · *defined*
@@ -121,7 +121,7 @@ We have turned turmeric red and yellow again, and learned how festivals mark the
 *Habit it breaks:* We give each thing one fixed colour, as if 'turmeric is yellow' says everything about it. The test shows that what a thing looks like also depends on what it is with.  
 *Evidence:* In the Turmeric Test, the same turmeric water turned red-brown with soap and baking soda, stayed yellow with lemon, tamarind, salt and sugar, and went back to yellow when lemon was added to a red bowl.
 
-- *who am i:* Like turmeric, you show different sides with different people: one way with your grandmother, another way with your friends, and you are still you.
+- *who am i:* Like turmeric, you show different sides with different people: one way with an older relative, another way with your friends, and you are still you.
 - *what is life:* Curd bacteria make the acid that makes curd sour. Living things change the world around them, and that changes how other things look and act.
 - *what is this world:* A world where yellow turmeric and white lime together make red is a world where meetings make new things.
 
@@ -142,7 +142,7 @@ Turmeric on its own looks yellow. Lime on its own looks white. Put them together
 - *deep:* Why does turmeric change colour, but salt stays white in soapy water? (hint: Think about what is special about the curcumin in turmeric.)
 - *deep:* If the Moon calendar were the only calendar, what would happen to Pongal? (hint: Think about the 11 days a Moon year is short, and the harvest that comes at the same season every year.)
 - *big:* Why do people all over the world have festivals, even people who have never met? (hint: Think about the seasons, the harvest, and how it feels to do something together.)
-- *big:* If a festival changes a little every year, is it still the same festival? (hint: Think about the festivals your grandparents tell you about, and how they celebrate now.)
+- *big:* If a festival changes a little every year, is it still the same festival? (hint: Think about the festivals older relatives tell you about, and how they are celebrated now.)
 - *big:* A mela is built in a week and gone in a week. What stays behind after it ends? (hint: Think about memories, friends, money for the toy makers, and the rubbish on the ground.)
 
 ## Story: The Red Water at the Door
@@ -202,7 +202,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 
 ## Games
 ### g1 · Festival Pairs: a memory card game (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in 4 rows of 6.; On your turn, turn over any two cards and read them aloud.; If they are a festival and its partner, keep them. Then say one more thing you know about that festival, and score a bonus point.; If they do not match, turn them face down again in the same places. The next player has a turn.; When all the pairs are found, the player with the most points wins.; Playing alone, count how many turns you need. Next time, try to beat it.
+- **rules:** Cut out the 24 cards. Shuffle them and lay them face down in 4 rows of 6.; On your turn, turn over any two cards and read them aloud.; If they are a festival and its partner, keep them and turn over two more cards. Then say one more thing you know about that festival, and score a bonus point.; If they do not match, turn them face down again in the same places. The next player has a turn.; When all the pairs are found, the player with the most points wins. If two players have the same, they share the win.; Playing alone, count how many turns you need. Next time, try to beat it.
 - **Printable cards: 24 cards to cut out: 12 festivals and their 12 partners:** PONGAL (Tamil Nadu); Rice, dal and jaggery boiled in a new pot until it spills over; ONAM (Kerala); A sadya feast on a banana leaf, and a pookalam of flower petals; UGADI (Karnataka, Andhra Pradesh, Telangana); Pachadi made with neem flowers, jaggery, tamarind and raw mango; MAKARA SANKRANTI (Karnataka); Ellu bella: sesame, jaggery, coconut and groundnut, shared with neighbours; VISHU (Kerala); Vishukkani: rice, fruit, gold and yellow konna flowers to see first in the morning; LOHRI (Punjab); A bonfire, with sesame and popcorn thrown into it; MAGH BIHU (Assam); Rice cakes called pitha, and a bonfire; UTTARAYAN (Gujarat); Kites flown from every rooftop; DURGA PUJA (West Bengal); Pandals, big decorated tents, to visit at night; EID-UL-FITR; Sweet seviyan, and gifts for people in need; CHRISTMAS; Paper star lanterns and plum cake; REPUBLIC DAY; A parade in New Delhi with a decorated float from each state
 - **Printable score sheet: Score sheet:** Player name; Pairs found; Pairs explained
 - **s1 (3 min)**  
@@ -220,8 +220,8 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent says:* Five of these festivals come in the middle of January. Can you find them in your pile?  
   *Child mode:* Find the five festivals that come in mid-January.
   - Ask: Which five festivals come in mid-January? (good: Pongal, Makara Sankranti, Lohri, Magh Bihu and Uttarayan.; They are all the same harvest festival with different names.)
-### g2 · Sun or Moon? A festival sorting race (15 min)
-- **rules:** Shuffle the cards and put them face down in a pile. Put the sorting mat in the middle.; Turn over one card at a time. Say 'Sun' or 'Moon', and put it on that side of the mat.; When all 14 are sorted, turn each card over and check the back. Score one point for each card in the right place.; Playing with others, take turns. Playing alone, try to get all 14 right.
+### g2 · Sun or Moon? A festival sorting game (15 min)
+- **rules:** Shuffle the cards and put them face down in a pile. Put the sorting mat in the middle.; Turn over one card at a time. Say 'Sun' or 'Moon', and put it on that side of the mat. Playing with others, take turns, and keep a note of who placed each card.; When all 14 are sorted, turn each card over and check the back. The player who placed a card scores one point if it is on the right side.; Playing alone, try to get all 14 right.
 - **Printable cards: 14 festival cards (the answer is on the back):** Pongal (back: Sun: 14 or 15 January every year); Makara Sankranti (back: Sun: 14 or 15 January every year); Vishu (back: Sun: about 14 or 15 April every year); Christmas (back: Sun: always 25 December); Independence Day (back: Sun: always 15 August); Republic Day (back: Sun: always 26 January); Gandhi Jayanti (back: Sun: always 2 October); Diwali (back: Moon: a new moon night in October or November); Eid-ul-Fitr (back: Moon: about 11 days earlier each year); Holi (back: Moon: a full moon day in February or March); Buddha Purnima (back: Moon: a full moon day in April or May); Ganesh Chaturthi (back: Moon: the fourth day after a new moon, in August or September); Guru Nanak Jayanti (back: Moon: a full moon day in October or November); Navaratri and Dasara (back: Moon: nine nights after a new moon, in September or October)
 - **Printable board: Sorting mat:** SUN: same date every year; MOON: the date moves
 - **s1 (2 min)**  
@@ -243,8 +243,8 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 ### e1 · The Turmeric Test: which kitchen liquids turn turmeric red? (30 min)
 - **question:** Which liquids from our kitchen turn turmeric water red, and which leave it yellow? Can the red be turned back?
 - **predict:** Look at the eight liquids. Which ones do you think will turn the turmeric red? Why do you think so? Then guess: if a bowl turns red, can lemon juice make it yellow again, and why?
-- **fair test:** Every bowl gets the same amount of turmeric water and the same spoonful of liquid. We wait the same one minute before we look. One bowl gets plain water, so we can see what no change looks like. We look at every bowl on the same white paper, in the same light.
-- **safety:** Soapy water and baking soda water sting the eyes, so keep hands away from the face and wash them afterwards. Do not taste the test liquids. Turmeric stains clothes and counters, so wear old clothes and work on an old cloth or a steel plate.
+- **fair test:** Every bowl gets the same amount of turmeric water and the same spoonful of liquid. We look at all the bowls together, one minute after the last liquid goes in, so every bowl has waited at least a minute. One bowl gets plain water, so we can see what no change looks like. We look at every bowl on the same white paper, in the same light.
+- **safety:** Soapy water and baking soda water sting the eyes, so keep hands away from the face and wash them afterwards. Do not taste the test liquids.
 - **record:** Fill in the table. Then draw your row of bowls in colour, and write 'acid', 'base' or 'neither' under each one.
 - **results table:** Liquid | My guess: red or yellow? | Colour after 1 minute | Acid, base or neither? | Lemon added: what happened?
 - **s1 (6 min)**  
@@ -253,7 +253,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Child mode:* Stir turmeric into water. Pour some into each bowl. What colour is it?
   - Note: The water looks cloudy yellow, and some turmeric settles at the bottom. Stir each bowl before you add a liquid.
 - **s2 (6 min)**  
-  *Parent does:* 1. Make the test liquids, about 3 tablespoons each. 2. Salt, sugar and baking soda: half a teaspoon each in 3 tablespoons of water. 3. Soapy water: rub the soap bar in water for 10 seconds. 4. Curd: one spoon of curd stirred into 2 spoons of water.  
+  *Parent does:* 1. Make the test liquids, about 2 tablespoons each. 2. Salt, sugar and baking soda: half a teaspoon each in 2 tablespoons of water. 3. Soapy water: rub the soap bar in water for 10 seconds. 4. Curd: one spoon of curd stirred into 2 spoons of water.  
   *Parent says:* These are the eight liquids we will test. Lemon and tamarind are sour. Soap feels slippery. Look at each one and smell it, but do not taste.  
   *Child mode:* Help make the eight liquids. Smell them, but do not taste.
   - Note: Lemon juice can be squeezed straight into a cup. Tamarind water is a small piece of tamarind soaked in warm water for 5 minutes. No tamarind? Leave it out and test seven liquids.
@@ -264,9 +264,9 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   - Ask: Why do you think that one will turn red? (good: Because soap turned a turmeric stain red.; Because it is slippery, like soap.; Because the lemon is sour and the soap is not.)
   - Note: Do not say what will happen. Any reason is good if your child says it.
 - **s4 (8 min)**  
-  *Parent does:* 1. Add one teaspoon of the first liquid to its bowl. 2. Stir once. 3. Wait one minute. 4. Write the colour. 5. Go on to the next bowl.  
-  *Parent says:* One teaspoon in, one stir, then we wait a whole minute. Compare it with the plain water bowl. Has it changed?  
-  *Child mode:* Add one spoon. Stir. Wait one minute. Is it red or yellow?
+  *Parent does:* 1. Add one teaspoon of a different liquid to each bowl, one after another, and stir each once. Put plain water in one bowl. 2. When the last liquid is in, wait one minute. 3. Look at the bowls together and write each colour in the table.  
+  *Parent says:* One teaspoon in each bowl, one stir each. Then we wait a whole minute. Compare every bowl with the plain water bowl. Has it changed?  
+  *Child mode:* Add one spoon to each bowl. Stir. Wait one minute. Is each bowl red or yellow?
   - Note: Soapy water and baking soda water turn the turmeric orange-red or red-brown. If the baking soda bowl is only orange, add a pinch of dry baking soda and stir. Lemon, tamarind, curd, salt and sugar leave it yellow, like the plain water. Lemon may make it a little paler.
   - Check: Which bowl did you keep with only plain water added? → **One bowl, so we can see what no change looks like**
 - **s5 (4 min)**  
@@ -280,18 +280,18 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Child mode:* Which ones went red? How are they alike? What did lemon do?
   - Ask: What is the same about the liquids that turned it red? (good: Soap and baking soda are both slippery when wet.; They are not sour.; They are bases.)
   - Ask: What does the lemon test show? (good: The red can go back to yellow, so the turmeric was not spoilt.; Lemon is an acid, and it undoes what the base did.)
+  - Note: Red means a base. For the yellow bowls, turmeric cannot tell an acid from plain water. Use the taste of the food instead: lemon, tamarind and curd are sour, so they are acids. Salt and sugar are not sour, so they are neither.
 ### e2 · The Hibiscus Test: is a festival flower an indicator too? (25 min)
 - **question:** Does red hibiscus juice change colour with lemon juice and with soap, the way turmeric does?
 - **predict:** Guess what colour hibiscus juice will turn with lemon, and what colour with soapy water. Why do you think so?
 - **fair test:** Use the same hibiscus juice in three bowls, the same spoonful of liquid, and wait the same one minute. Keep one bowl with plain water, to compare.
-- **safety:** Keep soapy water away from the eyes. Wash hands after. Do not drink any of the juices.
 - **record:** Draw the three tumblers in colour. Write one sentence on how hibiscus is like turmeric, and one on how it is different.
 - **results table:** Liquid added | My guess | Colour after 1 minute | Same as turmeric, or different?
 - **s1 (8 min)**  
   *Parent does:* 1. Tear the petals of two flowers into small pieces. 2. Put them in half a cup of warm water. 3. Squeeze and rub them with your fingers for 3 minutes. 4. Strain the juice.  
   *Parent says:* Rub the petals hard. The colour comes out into the water. What colour is the juice?  
   *Child mode:* Tear the petals. Rub them in warm water. What colour is the water?
-  - Note: The juice is pale purple or dull red. The darker it is, the clearer the result. If it is very pale, add more petals.
+  - Note: The juice is pale purple or dull red. The darker it is, the clearer the result. If it is very pale, add more petals. No hibiscus? Red cabbage leaves torn small and soaked in warm water also change colour, pink with an acid and blue-green with a base.
 - **s2 (4 min)**  
   *Parent does:* 1. Pour the juice into three tumblers. 2. Ask your child to guess the colour with lemon and with soap, and why.  
   *Parent says:* Turmeric went red with soap. What do you think hibiscus will do with soap? And with lemon? Why?  
@@ -311,7 +311,6 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **question:** Do festivals fall on the same date every year? If some move, which ones, and by how much?
 - **predict:** Look at the list: Pongal, Christmas, Independence Day, Diwali, Eid-ul-Fitr and Holi. Which do you think will fall on the same date every year? Why do you think so?
 - **fair test:** Look up all six festivals in the same three years, from the same calendar. Write the date exactly, with the day and the month.
-- **safety:** A grown-up holds the phone and helps find the dates.
 - **record:** Fill in the table. Circle in one colour the festivals that stayed the same. Circle in another colour the ones that moved.
 - **results table:** Festival | My guess: same date or moves? | Date in year 1 | Date in year 2 | Date in year 3 | Sun or Moon?
 - **s1 (4 min)**  
@@ -332,7 +331,6 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 
 ## Activities
 ### a1 · Yellow to Red: the first look (8 min)
-- **safety:** Keep soapy water away from the eyes. Wash hands afterwards.
 - **record:** Draw the bowl before and after. Write one thing you wonder about it.
 - **s1 (3 min)**  
   *Parent does:* 1. Stir a pinch of turmeric into the bowl of water. 2. Rub the soap in the cup of water for 10 seconds. 3. Let your child pour one spoon of soapy water into the turmeric.  
@@ -345,7 +343,6 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   - Ask: What do you wonder? (good: Why did it turn red?; Will other things turn it red?; Can it go back to yellow?)
   - Note: Keep their questions. The Turmeric Test answers them. If your family uses aarathi water, ask if they have seen it made.
 ### a2 · Plan a Mela (20 min)
-- **safety:** None.
 - **record:** Keep the map. Under it, list the people who work at your mela and their jobs.
 - **s1 (5 min)**  
   *Parent does:* Talk about a mela, a fair or a big festival ground your child has seen. If they have not, talk about a busy temple festival or a railway station.  
@@ -361,9 +358,9 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent says:* Your mela has to be built in a week and taken down in a day. Why are bamboo and cloth good for that?  
   *Child mode:* Why is a stall made of bamboo and cloth, not bricks?
   - Ask: Why bamboo and cloth? (good: They are light and quick to put up and take down.; They can be used again at the next mela.; Bricks would take too long and leave a mess.)
-### a3 · A Rice-Flour Kolam: who comes to eat it? (15 min)
-- **safety:** Draw it where no one will slip on it.
+### a3 · A Rice-Flour Kolam: who comes to eat it? (15 min, 2 days)
 - **record:** Draw the kolam when it is new, and again the next morning. Mark where parts are missing.
+- **schedule:** day 1: Draw a small rice-flour kolam, and look at it again after two hours. (10 min); day 2: Check the kolam the next morning for ants and gaps, and talk about who it fed. (5 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Put the rice flour in a bowl. 2. Show your child how to pinch it between thumb and finger and let it fall in a thin line. 3. Make 9 dots in a square and draw loops around them.  
   *Parent says:* Pinch the flour and move your hand slowly. Let it fall in a thin line, like a thread.  
@@ -372,7 +369,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent does:* Come back after two hours, and again the next morning. Look closely for ants and gaps in the lines.  
   *Parent says:* Is the kolam the same as before? Can you see any ants? Are any parts of the line missing?  
   *Child mode:* Look at your kolam. Any ants? Any gaps in the lines?
-  - Note: Ants usually find rice flour within a day in most Indian homes. If none come, the kolam may be too far from where ants walk. Try a few grains of the flour near the kitchen wall.
+  - Note: Ants often find rice flour within a day, but not always. If none come, the kolam may be too far from where ants walk. Try a few grains of the flour near the kitchen wall.
   - Wait: Check again the next morning.
 - **s3 (2 min)**  
   *Parent does:* Talk about who the kolam fed.  
@@ -380,7 +377,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Child mode:* Did your kolam feed anyone? Who?
   - Ask: Why do you think people used rice flour, not chalk? (good: So the ants and birds can eat it.; Because rice was in every home.)
 ### a4 · Make Aarathi Water with a Grown-up (10 min)
-- **safety:** Lime paste is a strong base and can burn the eyes and skin. Only a grown-up touches it, with a matchstick. Keep it far from the child's face. If any gets in an eye, wash the eye with plenty of running water and see a doctor.
+- **safety:** Lime paste is a strong base and can burn the eyes and skin. Only a grown-up touches it, with a matchstick. Keep it far from the child's face. If any gets in an eye, wash the eye with plenty of running water and see a doctor. Keep the lime tube closed and out of children's reach afterwards.
 - **record:** Draw the plate before and after. Write what the lime did.
 - **s1 (4 min)**  
   *Parent does:* 1. Pour a glass of water into the plate. 2. Stir in one teaspoon of turmeric.  
@@ -396,9 +393,8 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent says:* Remember the Turmeric Test? Which liquids turned it red? So what kind of substance is lime?  
   *Child mode:* Soap turned turmeric red. Lime did too. So what is lime?
   - Ask: What kind of substance is lime? (good: A base, like soap and baking soda.)
-  - Note: Pour the aarathi water onto a plant pot or down the drain afterwards, not where children play.
+  - Note: Pour the aarathi water down the drain afterwards, not where children play.
 ### a5 · A Timeline of Our National Festivals (15 min)
-- **safety:** None.
 - **record:** Keep the timeline. Write one sentence under each mark.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a line along the strip. 2. Mark 1850 at the left end and this year at the right. 3. Mark every 10 years in between, about 3 cm apart.  
@@ -408,11 +404,11 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent does:* Mark 1869 (Gandhi is born, 2 October), 1947 (India becomes independent, 15 August) and 1950 (the Constitution comes into force, 26 January). Mark your own birth year too.  
   *Parent says:* Gandhi was born in 1869. India became free in 1947. The Constitution came into force in 1950. Where does each one go?  
   *Child mode:* Mark 1869, 1947 and 1950. Then mark the year you were born.
-  - Note: 1947 and 1950 are very close on the line, only 3 years apart. That surprises many children.
+  - Note: 1947 and 1950 are very close on the line, only 3 years apart. That surprises many children. Gandhi was 77 when India became independent.
 - **s3 (3 min)**  
   *Parent does:* Ask the closing question.  
-  *Parent says:* Gandhi was 77 years old when India became independent. Can you see that gap on your line?  
-  *Child mode:* Find the gap from 1869 to 1947. How long is it?
+  *Parent says:* Look at 1947 and 1950 on your line. How many years after independence did the Constitution come into force?  
+  *Child mode:* Find 1947 and 1950. How long is the gap?
   - Ask: How many years after independence did the Constitution come into force? (good: Two and a half years: from August 1947 to January 1950.)
 
 ## Projects
@@ -422,19 +418,19 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **schedule:** day 1: Interview an older family member about one festival when they were young. (20 min); day 2: Help make one food from that festival, and write down the recipe. (25 min); day 3: Finish the book with drawings of the food, the clothes and the custom. (15 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Choose one festival. 2. Ask the five interview questions. 3. Write short answers in the book.  
-  *Parent says:* Ask: Which festival did you love most as a child? What did you eat? What did you wear? What did your family do? What has changed since then?  
+  *Parent says:* Ask: What was the best part of the festival when you were a child? What did you eat? What did you wear? What did your family do? What has changed since then?  
   *Child mode:* Ask five questions. Write short answers. What has changed since then?
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Choose one food from the interview. 2. Help a grown-up make it, or a simple part of it. 3. Write the ingredients and the steps.  
   *Parent says:* Which ingredients come from a plant? Which from an animal? Which were harvested this season?  
   *Child mode:* Help make the food. Write what goes in it.
-  - Note: Simple choices: ellu bella, sakkarai pongal, lemon rice, payasam or seviyan. Let your child measure and stir away from the flame.
+  - Note: Simple choices: ellu bella, sakkarai pongal, lemon rice, payasam, seviyan, pitha or puran poli. Let your child measure and stir away from the flame.
   - Wait: Do this on day 2.
 - **s3 (15 min)**  
   *Parent does:* Draw the food, the festival clothes and one custom. Add a cover.  
   *Parent says:* Draw the food, the clothes and one custom. Give your book a title.  
   *Child mode:* Draw the food, the clothes and a custom. Make a cover.
-  - Ask: What has changed in this festival since your grandparent was young? What has stayed the same? (good: We buy sweets now, but they made them.; We still draw a kolam.)
+  - Ask: What has changed in this festival since the person you interviewed was young? What has stayed the same? (good: We buy sweets now, but they made them.; We still draw a kolam.)
   - Wait: Do this on day 3.
 
 ## Challenges
@@ -443,7 +439,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **your turn:** Now design your own stall. Draw it first, then build it and test it with the fan.
 - **constraints:** Use only newspaper, string or thread, cello tape, ice-cream sticks and a cloth or paper roof.; The stall must be at least 20 cm tall.; It must stay standing for one minute in front of a fan on low speed.
 - **general:** Roll newspaper tightly into poles, like bamboo, and tape the four corners of the roof to the tops.; Tie the poles together at the top with string, the way stall makers tie bamboo with rope.; Add slanted poles from each corner to the base, to make triangles.
-- **creative:** Weigh down the base with a few coins in a paper cup, as stall makers tie their poles to stakes.; Cut small slits in the cloth roof so the wind passes through.; Make the roof slope, so the wind slides over it.
+- **creative:** Tape a few coins inside the base, so the stall is heaviest at the bottom.; Cut small slits in the cloth roof so the wind passes through.; Make the roof slope, so the wind slides over it.
 - **s1 (8 min)**  
   *Parent does:* Look at the problem. Draw two ideas.  
   *Parent says:* A real stall is bamboo, rope and cloth. Our poles will be rolled newspaper. Draw two ideas before you build.  
@@ -477,7 +473,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Parent does:* Brush the turmeric water over the whole page in one smooth layer. Watch the letters.  
   *Parent says:* Brush gently over the whole page. Watch the letters appear. Why are they red and the rest yellow?  
   *Child mode:* Brush turmeric over the page. Watch! Why are the letters red?
-  - Ask: Why did the lemon word stay hidden? (good: Lemon is an acid, and turmeric stays yellow in acids.)
+  - Ask: Why are the letters red and the rest of the page yellow? (good: Baking soda is a base, and turmeric turns red in a base.; The paper without baking soda has no base, so the turmeric stays yellow.)
 
 ## Worksheets
 ### Festivals and the Turmeric Test (core) (core, 15 questions)
@@ -492,17 +488,16 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 5. (mcq) Which food is made at Pongal by boiling rice, moong dal, jaggery and ghee in a new pot?  
    Options: Pitha / Sakkarai pongal / Seviyan  
    **Answer:** Sakkarai pongal. *Why:* Sakkarai pongal, sweet pongal, is cooked in a new pot until it boils over. Pitha is a rice cake of Assam, and seviyan is a sweet made at Eid.
-6. (truefalse) A festival that falls on a new moon night will come on the same date every year.  
+6. (write) Choose one festival your family or neighbours celebrate. Write its food, its clothes or decorations, and one custom.  
+   **Answer:** Any true example, such as: Onam, a sadya on a banana leaf, kasavu clothes, and a pookalam of flowers.. *Why:* A strong answer names a real food, a real piece of clothing or decoration, and a custom that people do.
+7. (truefalse) A festival that falls on a new moon night will come on the same date every year.  
    **Answer:** False. *Why:* False. New moons fall on different dates of our Sun calendar each year, so the festival moves. Diwali is an example.
-7. (order) Put these steps of the Turmeric Test in order.  
+8. (order) Put these steps of the Turmeric Test in order.  
    **Answer:** ['Pour turmeric water into each bowl', 'Add one spoon of a liquid', 'Wait one minute and look at the colour', 'Write the colour in the table']. *Why:* The turmeric water goes in first, then the liquid. Waiting the same minute for every bowl makes the test fair.
-8. (sort) In the Turmeric Test, which liquids turn turmeric red, and which leave it yellow?  
+9. (sort) In the Turmeric Test, which liquids turn turmeric red, and which leave it yellow?  
    **Answer:** soapy water → Turns red; baking soda water → Turns red; lemon juice → Stays yellow; tamarind water → Stays yellow; salt water → Stays yellow; sugar water → Stays yellow. *Why:* Soap and baking soda are bases, so they turn turmeric red. Lemon and tamarind are acids, and salt and sugar are neither, so turmeric stays yellow.
-9. (draw) Draw two bowls of turmeric water: one after you add lemon juice, one after you add soapy water. Colour them and label each one acid or base.  
+10. (draw) Draw two bowls of turmeric water: one after you add lemon juice, one after you add soapy water. Colour them and label each one acid or base.  
    **Answer:** A yellow bowl labelled 'lemon: acid', and a red-brown bowl labelled 'soap: base'.. *Why:* A strong drawing uses the right colours and the right labels, and may show the lemon and the soap beside each bowl.
-10. (mcq) In the Turmeric Test, one bowl got only plain water. Why?  
-   Options: To have something to drink / To show what turmeric water looks like with no change, so we can compare / Because we ran out of liquids  
-   **Answer:** To show what turmeric water looks like with no change, so we can compare. *Why:* The plain water bowl is the control. Every other bowl is compared with it, so we can tell whether a colour really changed.
 11. (write) Arjun, a boy of 7, says the red aarathi water must have red powder in it. How could you show him he is wrong, using only things from the kitchen?  
    **Answer:** Put a pinch of turmeric in water so he sees it is yellow. Let him add soapy water or baking soda himself. It turns red with no red powder. Then add lemon juice, and it turns yellow again.. *Why:* A strong answer lets Arjun do the test himself, uses a base that is plainly not red, and may use lemon to show the change goes back.
 12. (match) Match each national festival to its date.  
@@ -514,78 +509,81 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 15. (label) Here is a drawing of a mela. Label the bamboo stall, the giant wheel, the Lost and Found booth and the first-aid booth.  
    **Answer:** ['bamboo stall', 'giant wheel', 'Lost and Found booth', 'first-aid booth']. *Why:* A strong answer finds each place and can say what it is for: selling, riding, finding lost children, and helping people who are hurt.
 ### Sun, Moon and Indicators (stretch) (stretch, 15 questions)
-1. (write) Pongal falls in January every year, but Eid-ul-Fitr has come in many different months over the years. Explain why, in your own words.  
-   **Answer:** Pongal follows the Sun, so it stays in January. Eid follows only the Moon. Twelve Moon months are about 354 days, 11 days shorter than a Sun year, so Eid comes 11 days earlier each year and moves through all the months.. *Why:* A strong answer names the Sun and the Moon, and gives the 11-day difference.
-2. (mcq) Eid-ul-Fitr was on about 10 April one year. About when will it be the next year?  
+1. (mcq) Eid-ul-Fitr was on about 10 April one year. About when will it be the next year?  
    Options: About 30 March / About 10 April again / About 21 April  
    **Answer:** About 30 March. *Why:* Eid comes about 11 days earlier each year. 11 days before 10 April is about 30 March. Picking 21 April means adding the days instead of taking them away.
-3. (truefalse) Diwali also follows the Moon, so it moves through all the months of the year, just like Eid.  
+2. (truefalse) Diwali also follows the Moon, so it moves through all the months of the year, just like Eid.  
    **Answer:** False. *Why:* False. The Hindu calendar adds an extra month about every three years to catch up with the Sun, so Diwali always stays in October or November. The Islamic calendar adds no extra month.
-4. (sort) Sort these festivals by what decides their date.  
-   **Answer:** Pongal → The Sun; Christmas → The Sun; Republic Day → The Sun; Diwali → The Moon; Holi → The Moon; Buddha Purnima → The Moon. *Why:* Pongal, Christmas and Republic Day fall on the same date every year. Diwali, Holi and Buddha Purnima fall on a new moon or a full moon, so they move.
-5. (odd) Three of these are bases that turn turmeric red. Which one is the odd one out?  
+3. (odd) Three of these are bases that turn turmeric red. Which one is the odd one out?  
    Options: soap / lime paste / tamarind water / baking soda  
    **Answer:** 2. *Why:* Tamarind is sour, so it is an acid, and turmeric stays yellow in it. Soap, lime and baking soda are bases.
-6. (write) A turmeric stain on a white shirt turned red when Lakshmi's mother scrubbed it with soap. Then it turned yellow again after rinsing for a long time. Explain both changes.  
+4. (write) A turmeric stain on a white shirt turned red when Lakshmi, a girl in Class 3, scrubbed it with soap. Then it turned yellow again after rinsing for a long time. Explain both changes.  
    **Answer:** Soap is a base, so it turned the turmeric red. Rinsing washed the soap away, so the turmeric was in plain water again and turned back to yellow.. *Why:* A strong answer explains the red with the base and the change back with the base being washed away.
-7. (mcq) In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?  
+5. (mcq) In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?  
    Options: Show that something is a base / Show that something is an acid / Make red aarathi water  
    **Answer:** Show that something is an acid. *Why:* Turmeric stays yellow in acids and in plain water, so it cannot tell them apart. Hibiscus turns pink in acids, so it shows an acid clearly.
-8. (write) Ravi, a boy in Class 3, adds baking soda water to turmeric water. It turns only a little orange. What could he change to make the colour stronger? Why would it work?  
+6. (write) Ravi, a boy in Class 3, adds baking soda water to turmeric water. It turns only a little orange. What could he change to make the colour stronger? Why would it work?  
    **Answer:** He could add more baking soda, or a pinch of dry baking soda. More base makes the change stronger, so the colour turns redder.. *Why:* A strong answer changes the amount of base and explains it with the idea of a stronger base.
-9. (fill) A substance, like turmeric, that changes colour to show whether something is an acid or a base is called an ____.  
+7. (fill) A substance, like turmeric, that changes colour to show whether something is an acid or a base is called an ____.  
    **Answer:** ['indicator']. *Why:* Turmeric and hibiscus are both indicators. Scientists use many indicators to test liquids.
-10. (match) Match each harvest festival custom to its festival.  
+8. (match) Match each harvest festival custom to its festival.  
    **Answer:** Cows decorated with painted horns → Mattu Pongal; Kites flown from rooftops → Uttarayan; Sesame thrown into a bonfire → Lohri; Rice cakes called pitha → Magh Bihu; Ellu bella shared with neighbours → Makara Sankranti in Karnataka. *Why:* Each state celebrates the same harvest in its own way. A strong answer can say which state each custom belongs to.
-11. (order) Put these events in order, from the earliest to the latest.  
+9. (order) Put these events in order, from the earliest to the latest.  
    **Answer:** ['Mahatma Gandhi is born', 'India becomes independent', "India's Constitution comes into force"]. *Why:* Gandhi was born in 1869. India became independent in 1947. The Constitution came into force in 1950.
-12. (perspective) At Holi, two neighbours argue about colours.  
+10. (perspective) At Holi, two neighbours argue about colours.  
    **Answer:** A strong answer picks one view and backs it with a reason, such as knowing what is in the colour. It then grants another view, for example that natural lime is not safe, or that tested factory colours can be safe.. *Why:* Each person sees part of the truth. Safety depends on what a colour is made of, not only on whether it is natural.
-13. (draw) Draw a mela stall made of bamboo, rope and cloth. Label each material and say why it was chosen.  
-   **Answer:** A stall with bamboo poles at the corners, rope tying them, and a cloth roof, each labelled: bamboo is light and strong, rope is quick to tie and untie, cloth gives shade and folds small.. *Why:* A strong drawing names each material and gives a reason tied to a mela being put up and taken down quickly.
-14. (truefalse) Curd is sour, so it is an acid, and turmeric stays yellow in it.  
-   **Answer:** True. *Why:* True. Curd is sour because the bacteria in it make an acid. Turmeric stays yellow in acids.
-15. (label) Here is a picture of a row of bowls from the Turmeric Test. Label each bowl 'acid', 'base' or 'neither'.  
-   **Answer:** ['lemon juice: acid', 'soapy water: base', 'salt water: neither', 'baking soda water: base']. *Why:* The red bowls had bases. Lemon is an acid. Salt water is neither, so it stays yellow like plain water.
+11. (truefalse) Curd is sour, so it is an acid, and turmeric stays yellow in it.  
+   **Answer:** True. *Why:* True. Curd is sour because the bacteria that turn milk into curd make an acid. Turmeric stays yellow in acids.
+12. (mcq) Vishu in Kerala comes in mid-April almost every year. What does that tell you about it?  
+   Options: It follows the Sun / It follows the Moon / It moves 11 days earlier each year  
+   **Answer:** It follows the Sun. *Why:* A festival that stays near the same date in our calendar follows the Sun. A Moon festival would slide 11 days earlier each year, or jump by weeks.
+13. (write) Predict: you add curd mixed with water to hibiscus juice. What colour will it turn, and why?  
+   **Answer:** Pink, because curd is sour, so it is an acid, and hibiscus turns pink in acids.. *Why:* A strong answer uses the Hibiscus Test and the fact that curd is an acid.
+14. (truefalse) A rice-flour kolam is drawn only to look pretty.  
+   **Answer:** False. *Why:* False. A kolam is decorative, and rice flour is also food for ants and small birds.
+15. (mcq) Why is sakkarai pongal cooked with new rice at Pongal?  
+   Options: The rice has just been harvested / New rice is the only rice that boils over / Old rice cannot be cooked with jaggery  
+   **Answer:** The rice has just been harvested. *Why:* Pongal is a harvest festival, and festival food often uses the crop that has just been harvested.
 ### Think Like a Chemist and a Calendar Maker (challenge) (challenge, 15 questions)
 1. (write) Some people say Makara Sankranti is the day the Sun starts moving north in the sky. Today that happens on about 21 or 22 December. How could both be true about 1,700 years ago, but not today?  
    **Answer:** Sankranti is fixed by where the Sun is against the stars. The shortest day is fixed by the tilt of Earth's axis. The axis slowly wobbles, so the two days drift apart, about one day in 70 years. Long ago they fell together. Now they are about 24 days apart.. *Why:* A strong answer sees that the two days are measured in different ways, and that one of them slowly drifts.
 2. (perspective) In the 1770s, Antoine Lavoisier said all acids contain oxygen. In 1810, Humphry Davy studied the acid made from salt.  
    **Answer:** Davy's, because one acid with no oxygen is enough to show the rule is wrong. Lavoisier did right to look for a pattern in his results and to test many acids. His pattern was true for the acids he had tested.. *Why:* One clear case that breaks a rule shows the rule is wrong. A strong answer also respects Lavoisier for making a rule that could be tested.
-3. (write) Kavya, a girl in Class 4, says, "Turmeric is yellow. That is just what it is." After the Turmeric Test, what would you tell her?  
-   **Answer:** Turmeric is yellow in water and in acids, but red in bases like soap. Its colour depends on what it is mixed with. And the red can be turned back to yellow with lemon, so both colours belong to the same turmeric.. *Why:* A strong answer uses evidence from the test, and both the red change and the change back.
-4. (mcq) Tara mixes a mystery white powder in water and adds it to turmeric water. It stays yellow. What can she say for sure?  
+3. (mcq) Tara, a girl in Class 3, mixes a mystery white powder in water and adds it to turmeric water. It stays yellow. What can she say for sure?  
    Options: The powder is an acid / The powder is not a base / The powder is salt  
    **Answer:** The powder is not a base. *Why:* Turmeric stays yellow in acids and in things that are neither, so she cannot tell which. She can only say it is not a base. Hibiscus juice would tell her more.
-5. (write) Design a test to find out whether toothpaste is a base. Say what you would use, what you would do, and what each result would mean.  
+4. (write) Design a test to find out whether toothpaste is a base. Say what you would use, what you would do, and what each result would mean.  
    **Answer:** Mix a pea-sized blob of toothpaste in 3 spoons of water. Add one spoon to a bowl of turmeric water, and keep a bowl with plain water to compare. Wait one minute. If it turns red, the toothpaste is a base. If it stays yellow, it is not a base.. *Why:* A strong design has a control, the same amounts and wait, and says what red and yellow would each mean.
-6. (odd) Three of these festivals fall on almost the same date every year. Which one is the odd one out?  
+5. (odd) Three of these festivals fall on almost the same date every year. Which one is the odd one out?  
    Options: Vishu / Christmas / Ganesh Chaturthi / Independence Day  
    **Answer:** 2. *Why:* Ganesh Chaturthi is counted from a new moon, so it moves between August and September. Vishu, Christmas and Independence Day follow the Sun.
-7. (mcq) A seller at a mela wants her stall to survive a windy evening. Which change helps most?  
+6. (mcq) A seller at a mela wants her stall to survive a windy evening. Which change helps most?  
    Options: A heavier cloth roof / Slanted poles from the corners to the ground, making triangles / Taller poles  
    **Answer:** Slanted poles from the corners to the ground, making triangles. *Why:* Triangles do not change shape when pushed, so slanted poles stop the stall leaning over. A heavier roof or taller poles make it more likely to tip.
-8. (write) A mela is built in a week and gone in a week. Think of three people whose work keeps going after it ends, and say why.  
+7. (write) A mela is built in a week and gone in a week. Think of three people whose work keeps going after it ends, and say why.  
    **Answer:** The potter and toy maker, who start making things for the next mela. The cleaners, who clear the ground. The families who earned money, who use it for the rest of the year.. *Why:* A strong answer thinks past the mela days, about makers, cleaners and the money and memories people take home.
-9. (truefalse) Every festival's date could be worked out from the Sun alone, if we tried.  
+8. (truefalse) Every festival's date could be worked out from the Sun alone, if we tried.  
    **Answer:** False. *Why:* False. Festivals like Diwali and Eid are fixed by the Moon's shape. The Sun alone cannot tell you when the new moon or the crescent comes.
-10. (draw) Draw the secret greeting from the challenge: the paper before, and after the turmeric water. Add arrows to show where the base is.  
+9. (draw) Draw the secret greeting from the challenge: the paper before, and after the turmeric water. Add arrows to show where the base is.  
    **Answer:** Before: a plain white page with faint marks. After: a yellow page with red letters, and arrows pointing to the letters labelled 'baking soda, a base'.. *Why:* A strong drawing shows that only the parts with base turn red.
-11. (match) Match each colour change to what it tells you.  
+10. (match) Match each colour change to what it tells you.  
    **Answer:** Turmeric turns red → the liquid is a base; Hibiscus turns pink → the liquid is an acid; Hibiscus turns green → the liquid is a base; Turmeric stays yellow → the liquid is an acid, or neither. *Why:* The two indicators give different clues. Using both tells you more than using one.
-12. (label) Here is a calendar page with Eid marked in three years. Label each mark with the year, from the latest date in the year to the earliest.  
-   **Answer:** ['10 April: first year', '30 March: second year', '19 March: third year']. *Why:* Eid comes about 11 days earlier each year, so the latest date in the year is the first year. 10 April, then 30 March, then 19 March.
-13. (sort) Sort these by what they are made of.  
+11. (sort) Sort these by what they are made of.  
    **Answer:** turmeric → From a plant; rice flour kolam → From a plant; palash flower colour → From a plant; lime paste → From a mineral or rock; white stone kolam powder → From a mineral or rock. *Why:* Turmeric is a root, rice is a seed and palash is a flower. Lime is made by heating limestone or shells and adding water. Stone powder is ground rock.
-14. (order) Put the steps of making the secret greeting in order.  
+12. (order) Put the steps of making the secret greeting in order.  
    **Answer:** ['Write with baking soda water', 'Let it dry for 10 minutes', 'Brush turmeric water over the page', 'Watch the red letters appear']. *Why:* The base must go on first and dry. The turmeric goes on last, and it turns red only where the base is.
-15. (fill) Twelve Moon months add up to about ____ days, which is 11 days shorter than a Sun year.  
+13. (fill) Twelve Moon months add up to about ____ days, which is 11 days shorter than a Sun year.  
    **Answer:** ['354']. *Why:* One Moon month is about 29 and a half days. Twelve of them make about 354 days. A Sun year is about 365.
+14. (write) A neighbour says, "Natural colours are always safe." Use what you know about lime to explain why that is not true.  
+   **Answer:** Lime is natural, but it is a strong base that can burn the eyes and skin. So a colour is not safe just because it comes from nature.. *Why:* A strong answer uses lime as evidence and says what matters is what the colour is made of.
+15. (mcq) The Hindu calendar adds an extra month about every three years. What would happen to Diwali if it did not?  
+   Options: Diwali would slide about 11 days earlier each year and move through the seasons / Diwali would always be on the same date / Diwali would come in the same month, 11 days later each year  
+   **Answer:** Diwali would slide about 11 days earlier each year and move through the seasons. *Why:* Without the extra month, a Moon year is about 11 days short of a Sun year. Diwali would slide earlier each year, as Eid does.
 
 ## Videos
-- **Turmeric and Red Rose as Indicators | Exploring substances | Grade 7 | Science | Khan Academy** (Khan Academy India - English, 6 min) id `PmjT6Z_Cz5c`: Shows turmeric changing colour with acids and bases, and a flower indicator too. It is made for older children, so watch it after the Turmeric Test, and pause to talk. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it.
-- **What is Pongal? | Pongal Festival Explained for Kids** (Tales Old 'N' New, 5 min) id `ogcx-yH1zJY`: A short explainer of Pongal and its four days, made for children. Good after the harvest festival card. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check that it matches the unit.
-- **Make Your Own pH Indicator at Home with HIBISCUS FLOWERS** (The Aspiring Chemist, 5 min) id `hzKcpghAyBI`: Shows hibiscus juice turning pink in acids and green in bases, the same as the Hibiscus Test. Watch before you try it. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess: a parent should preview it.
+- **Turmeric and Red Rose as Indicators | Exploring substances | Grade 7 | Science | Khan Academy** (Khan Academy India - English, 6 min) id `PmjT6Z_Cz5c`: Shows turmeric changing colour with acids and bases, and a flower indicator too. It is made for older children, so watch it after the Turmeric Test, and pause to talk. *Check:* Preview it first, then watch together.
+- **What is Pongal? | Pongal Festival Explained for Kids** (Tales Old 'N' New, 5 min) id `ogcx-yH1zJY`: A short explainer of Pongal and its four days, made for children. Good after the harvest festival card. *Check:* Preview it first, then watch together.
+- **Make Your Own pH Indicator at Home with HIBISCUS FLOWERS** (The Aspiring Chemist, 5 min) id `hzKcpghAyBI`: Shows hibiscus juice turning pink in acids and green in bases, the same as the Hibiscus Test. Watch before you try it. *Check:* Preview it first, then watch together.
 
 ## Quiz
 1. (mcq) Why are mela stalls usually made of bamboo poles, rope and cloth?  
@@ -668,21 +666,16 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - Why was the kolam always happy to have guests? *The ants came to visit every day.*
 - Why was the Pongal pot so happy? *It was overflowing with joy.*
 - Why did the kite go to school at Uttarayan? *To get higher marks.*
-- What did the giant wheel say at the end of the mela? *I've been going round all week. Time for a rest.*
-- Why did Eid tell Christmas to hurry up? *Because Eid comes 11 days earlier every year.*
 - Why don't calendars ever win races? *Their days are numbered.*
 - Why did the bamboo pole join the mela? *It wanted to stand up for something.*
 - What is a sadya's favourite game? *Leaf it to me.*
 - Why was the Moon never on time for Diwali? *It kept changing its phase.*
-- What did the soap say to the turmeric stain? *I'm sorry, I didn't mean to make you red.*
-- Why did the baking soda write secret letters? *It wanted its message to turn up in red.*
-- Why did the Lost and Found booth always smile? *It loved happy endings.*
 - What did one hibiscus say to the other in the lemon juice? *You look tickled pink.*
 
 ## Connected maths
 - Twelve Moon months are about 354 days. A Sun year is about 365 days. How many days shorter is the Moon year? **11 days.**. 365 minus 354 is 11. Count up from 354: 6 more makes 360, and 5 more makes 365. 6 and 5 make 11. (queues `math.addition-subtraction.mental-strategies.L3`)
 - Eid moves about 11 days earlier every year. About how many years does it take to move 33 days, more than a whole month? **3 years.**. Each year it moves 11 days. 11, 22, 33: that is 3 years. So in 3 years Eid moves back by more than a month. (queues `math.multiplication.equal-groups.L3`)
-- In the Turmeric Test, Lakshmi tested 8 liquids. 2 turned red. Write the fraction that turned red, and the fraction that stayed yellow. **2 out of 8, which is 1 quarter, turned red. 6 out of 8, which is 3 quarters, stayed yellow.**. 2 out of 8 is the same as 1 out of 4, a quarter. The rest, 6 out of 8, is 3 out of 4. Most kitchen liquids were not bases. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In the Turmeric Test, Lakshmi, a girl in Class 3, tested 8 liquids. 2 turned red. Write the fraction that turned red, and the fraction that stayed yellow. **2 out of 8, which is 1 quarter, turned red. 6 out of 8, which is 3 quarters, stayed yellow.**. 2 out of 8 is the same as 1 out of 4, a quarter. The rest, 6 out of 8, is 3 out of 4. Most kitchen liquids were not bases. (queues `math.fractions.fractions-of-a-whole.L3`)
 - India's Constitution came into force in 1950. How many years ago was that, this year? How old was Gandhi in 1947, if he was born in October 1869 and India became free in August 1947? **This year minus 1950. For 2026, that is 76 years. Gandhi was 77 years old in August 1947.**. From 1869 to 1947 is 78 years. But in August 1947 he had not yet had his birthday in October, so he was still 77. (queues `math.time.calendar.L3`)
 - Pongal is on 14 January and Republic Day is on 26 January. How many days after Pongal is Republic Day? Predict: will the gap be the same next year? Why? **12 days. Yes, the gap stays about the same, because both follow the Sun calendar.**. 26 minus 14 is 12. Both dates are fixed by the Sun, so they stay together. If Pongal falls on 15 January in some year, the gap is 11. (queues `math.addition-subtraction.word-problems.L3`)
 
@@ -697,8 +690,8 @@ Our Street, Our Mela (sci.community.L3): Topic-level song for Community and neig
 - [Mysuru Dasara exhibition](https://www.mysoredasara.gov.in) · place · Mysuru: A big mela held every year at Dasara time, with stalls, rides and food.
 
 ## Things to buy
-- [A small packet of baking soda (cooking soda)](https://www.amazon.in/s?k=baking+soda) (material): Many kitchens have it. If yours does not, any grocery shop sells it cheaply. It is the base that turns turmeric red in the tests and the secret greeting. Soapy water works in its place for most steps. Used in e1, e2, c2. Keep it in the kitchen. It is used in cooking too.
-- [A small tube or packet of lime paste (chuna or sunnambu)](https://www.amazon.in/s?k=chuna+lime+paste) (material): Only for making aarathi water with a grown-up. Paan shops sell it in small amounts. Baking soda can be used instead, for a lighter red. Used in a4. Keep it closed, high up, and out of children's reach.
+- [A small packet of baking soda (cooking soda)](https://www.amazon.in/s?k=baking+soda) (material): Many kitchens have it. If yours does not, any grocery shop sells it cheaply. It is the base that turns turmeric red in the tests and the secret greeting. Soapy water works in its place for most steps. Used in e1, e2, c2. 
+- [A small tube or packet of lime paste (chuna or sunnambu)](https://www.amazon.in/s?k=chuna+lime+paste) (material): Only for making aarathi water with a grown-up. Paan shops sell it in small amounts. Baking soda can be used instead, for a lighter red. Used in a4. 
 
 ## Warm-up
 - What colour does turmeric turn in soapy water? → Red-brown.

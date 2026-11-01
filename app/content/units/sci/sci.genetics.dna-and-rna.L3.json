@@ -42,7 +42,7 @@
   {
    "term": "Protein",
    "meaning": "A protein is a molecule that a cell builds by joining smaller parts called amino acids in a chain. Proteins do most of the work in a body: they build, carry, digest and protect.",
-   "example": "A protein in your spit begins to break down rice into sugar. Chew plain rice for a minute, and it starts to taste a little sweet.",
+   "example": "Haemoglobin is a protein in your red blood cells. It carries oxygen from your lungs around your body.",
    "art": "A chain of beads folding up into a small knotted shape."
   },
   {
@@ -98,8 +98,7 @@
    "description": "DNA looks like a long ladder twisted round and round. Each rung of the ladder is a pair of letters. A always pairs with T, and C always pairs with G. With only four letters, the order is what matters, just as the same letters make different words: 'pat' and 'tap'. One set of your DNA has about 3 billion letter pairs. Reading one letter every second, without ever stopping, would take nearly 100 years. Every known living thing with cells uses the same four letters.",
    "examples": [
     "ATG and GTA use the same three letters but say different things to a cell.",
-    "A mustard plant and you both use A, T, C and G. Only the order and the length differ.",
-    "Stretched out, the DNA in one of your cells would be about 2 metres long."
+    "A mustard plant and you both use A, T, C and G. Only the order and the length differ."
    ],
    "perspectives": [],
    "art": "A twisted ladder in which each rung is two coloured blocks, labelled A with T and C with G.",
@@ -111,7 +110,7 @@
    "definition": "A gene is a stretch of DNA that holds the instructions for one protein. A protein is a chain of smaller parts called amino acids, folded into a shape that does a job.",
    "description": "Proteins do most of the work in a living body. Keratin builds your hair and nails. Haemoglobin, in your blood, carries oxygen. A protein in your spit breaks starch into sugar. Each protein is made of up to 20 kinds of amino acid joined in a chain. The gene says which amino acids go in which order. The order decides how the chain folds, and the fold decides the job.",
    "examples": [
-    "Chew plain rice for a minute, and the protein in your spit starts turning its starch into a sugar that tastes sweet.",
+    "When you boil an egg, the clear protein in the white turns white and firm.",
     "Keratin, a protein, makes hair, nails, a bird's feathers and a cow's horns.",
     "A green leaf is green because of chlorophyll, which the leaf's proteins build."
    ],
@@ -141,7 +140,7 @@
    "examples": [
     "Your eye cells and your toe cells have the same DNA, but use different genes.",
     "A methi seedling's seed leaves turn green only in the light, because light leads their cells to make chlorophyll.",
-    "Moong sprouts grown in the dark stay pale yellow, because their cells need light to finish making chlorophyll."
+    "Cells in your pancreas use the gene for insulin. Your skin cells carry that gene too, but do not use it."
    ],
    "perspectives": [],
    "art": "One open book with the same pages, and three readers: a leaf cell reading the green page, a root cell reading the water page and a flower cell reading the yellow page.",
@@ -167,7 +166,6 @@
    "definition": "",
    "description": "Scientists agree that both DNA and surroundings shape every living thing. The same moong seeds grow short and green in light, and tall and pale in the dark. People with the same DNA, identical twins, still grow up different. What scientists argue about is how much each one matters, and the answer is different for every feature.",
    "examples": [
-    "Moong seeds from one packet grow differently in light and dark.",
     "Your height depends on your DNA and also on the food you ate as you grew.",
     "Identical twins have different fingerprints."
    ],
@@ -255,7 +253,7 @@
    "claim": "Every living thing keeps their instructions in DNA.",
    "who": "What most school books say",
    "for": "Everything made of cells does keep their instructions in DNA.",
-   "against": "Many viruses, such as the flu virus and the virus that causes COVID-19, keep their genes in RNA instead. Whether a virus counts as a living thing is itself an open question.",
+   "against": "Many viruses, such as the flu virus and the virus that causes COVID-19, keep their genes in RNA instead. Scientists still argue about whether viruses count as living things.",
    "status": "accepted",
    "context": "This card is about viruses, which break a rule most books give."
   },
@@ -359,7 +357,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "1 key card for each player",
+     "title": "Key card (print one for each player, or share one)",
      "items": [
       "THE KEY. Letter 1 is the body: A round, T long, C square, G triangle. Letter 2 is the legs: A two, T four, C six, G no legs. Letter 3 is the eyes: A one, T two, C three, G five. Letter 4 is something extra: A wings, T a tail, C horns, G spots."
      ]
@@ -385,10 +383,10 @@
    ],
    "rules": [
     "Shuffle the code cards and put them face down.",
-    "Each player takes one code card and keeps it secret.",
+    "Each player takes one code card and keeps it secret. With two players, each of you takes one of the two ATCG cards, so you can compare.",
     "Everyone uses the key to draw their creature, one letter at a time.",
     "When all have finished, show the creatures. Can the others guess your code from your creature?",
-    "Two cards say ATCG and two say TACG. If two players had the same code, put their creatures side by side. What is the same, and what is different?",
+    "If two players hold the same code, such as ATCG, put their creatures side by side. What is the same, and what is different?",
     "Play again with new cards. Playing alone, draw three creatures and then decode them the next day."
    ],
    "setup": [
@@ -428,7 +426,7 @@
       "options": [
        "The code was different",
        "The code set the parts, and each player's drawing added their own details",
-       "One player cheated"
+       "The key was different"
       ],
       "a": 1,
       "why": "The same code gave the same parts every time: round body, four legs, three eyes, spots. Size and colour were not in the code, so they came from who drew it and how. Living things are like this too: DNA sets the plan, and where and how a body grows changes the details. Picking 'the code was different' forgets that both cards said ATCG."
@@ -483,7 +481,7 @@
     "On your turn, turn over two cards.",
     "If they are a seed and the plant that grows from that seed, keep the pair and say one thing the seed's instructions build. Then take another turn.",
     "If not, turn them face down again.",
-    "The player with the most pairs at the end wins. Playing alone, count how many turns you need, and try to beat it next time."
+    "The player with the most pairs at the end wins. If you tie, you both win. Playing alone, count how many turns you need, and try to beat it next time."
    ],
    "setup": [
     {
@@ -705,12 +703,12 @@
     },
     {
      "id": "s4",
-     "mins": 3,
-     "do": "1. Day 2: add one or two spoons of water if the cotton feels dry. 2. Look for tiny white roots. 3. Write down which seeds have one.",
+     "mins": 5,
+     "do": "1. Day 2: add one or two spoons of water if the cotton feels dry. Look for tiny white roots and write down which seeds have one. 2. Day 3: add water again and look for stems standing up.",
      "say": "Let's see who has woken up. Which seeds have a root?",
      "kid": "Is the cotton dry? Add a spoon of water. Which seeds have a tiny white root? Write it down.",
-     "wait": "Day 2",
-     "parent": "The first thing out of a seed is the root. It always grows downwards. Day 3 is the same: a spoon of water, and a quick look for stems standing up."
+     "wait": "Day 2 and day 3",
+     "parent": "The first thing out of a seed is the root. It always grows downwards. Stems come up a day later."
     },
     {
      "id": "s5",
@@ -742,7 +740,7 @@
     },
     {
      "id": "s7",
-     "mins": 6,
+     "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
@@ -754,13 +752,13 @@
    "id": "e2",
    "title": "Big Seed, Small Seed: does a bigger seed grow a bigger seedling?",
    "mins": 30,
-   "days": 5,
+   "days": 7,
    "question": "Kala chana seeds from one packet come in different sizes. Will the biggest seeds grow taller seedlings than the smallest ones? Will their leaves be a different shape?",
-   "predict": "Guess first. After five days, will the seedlings from big seeds be taller, shorter or the same as those from small seeds? Will the leaves be a different shape? Why do you think so?",
+   "predict": "Guess first. After a week, will the seedlings from big seeds be taller, shorter or the same as those from small seeds? Will the leaves be a different shape? Why do you think so?",
    "fair_test": "Big and small seeds come from the same packet, so they are the same kind. They grow on the same plate, side by side, with the same water and light. Only the seed size changes. We use 5 of each size, because one seed alone could be a fluke.",
    "results_table": [
     "Seed",
-    "Height of each of the 5 seedlings on day 5 (cm)",
+    "Height of each of the 5 seedlings on day 7 (cm)",
     "Total of the 5 heights (cm)",
     "Shape of the leaves"
    ],
@@ -808,8 +806,23 @@
      "what": "Add a spoon of water. Look for roots."
     },
     {
+     "day": 4,
+     "mins": 1,
+     "what": "Add a spoon of water."
+    },
+    {
      "day": 5,
-     "mins": 11,
+     "mins": 1,
+     "what": "Add a spoon of water."
+    },
+    {
+     "day": 6,
+     "mins": 1,
+     "what": "Add a spoon of water."
+    },
+    {
+     "day": 7,
+     "mins": 8,
      "what": "Measure all ten seedlings. Add up each row. Compare the leaves."
     }
    ],
@@ -826,7 +839,7 @@
     },
     {
      "art": "A child measuring a chana seedling with a ruler, ten seedlings in two rows.",
-     "caption": "3. On day 5, measure each seedling and look at the leaves."
+     "caption": "3. On day 7, measure each seedling and look at the leaves."
     }
    ],
    "flow": [
@@ -846,19 +859,27 @@
        ]
       }
      ],
-     "parent": "Write the guess and reason down. Keep the two groups apart: put the small ones on a paper label marked SMALL."
+     "parent": "Write the guess and reason down. Keep the two groups apart on two pieces of paper marked BIG and SMALL."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Soak the two groups in two small bowls of water for about 8 hours, or overnight. 2. Next day, lay them in two labelled rows on wet cotton by a window.",
-     "say": "Soaking wakes the seeds up faster. Both groups get the same soak and the same plate.",
-     "kid": "Soak the two groups overnight. Next day, lay them in two rows on wet cotton.",
-     "wait": "Next day",
-     "parent": "Kala chana nearly always sprout within two days. Keep the cotton wet but not swimming, and add a spoon of water each day."
+     "do": "Soak the two groups in two small bowls of water for about 8 hours, or overnight.",
+     "say": "Soaking wakes the seeds up faster. Both groups get the same soak.",
+     "kid": "Soak the two groups overnight, in two bowls.",
+     "parent": "Kala chana nearly always sprout within two days after soaking."
     },
     {
      "id": "s3",
+     "mins": 5,
+     "do": "Next day, wet the cotton on the plate and tip off the extra water. Lay the two groups in two labelled rows, a finger-width apart, and put the plate by a window.",
+     "say": "Both groups get the same plate, the same water and the same light.",
+     "kid": "Lay the two groups in two rows on wet cotton. Label each row.",
+     "wait": "Next day",
+     "parent": "Keep the cotton wet but not swimming, and out of hot afternoon sun."
+    },
+    {
+     "id": "s4",
      "mins": 2,
      "do": "Add a spoon of water. Look for roots in both rows.",
      "say": "Has every seed got a root? Is one row faster?",
@@ -866,30 +887,38 @@
      "wait": "Day 3"
     },
     {
-     "id": "s4",
-     "mins": 8,
+     "id": "s5",
+     "mins": 3,
+     "do": "Add a spoon of water to the cotton each day.",
+     "say": "The shoots are growing. Keep the cotton wet, never swimming.",
+     "kid": "Add a spoon of water each day. Watch the shoots grow.",
+     "wait": "Days 4 to 6"
+    },
+    {
+     "id": "s6",
+     "mins": 4,
      "do": "1. Measure each seedling from the cotton to the top of the shoot. 2. Write each height in the table. 3. Add up the 5 heights in each row.",
      "say": "Let's measure every one, not just the tallest. Adding up all five gives a fairer picture than one seedling.",
      "kid": "Measure every seedling. Write each height. Add up the five in each row.",
-     "wait": "Day 5",
+     "wait": "Day 7"
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "1. Look at the leaves in both rows with the magnifying glass. 2. Then ask for claim, evidence and reasoning.",
+     "say": "Are the leaves a different shape in the two rows? What did size change, and what did it not change?",
+     "kid": "Look at the leaves in both rows. Same shape or different? What did seed size change?",
      "check": {
       "t": "mcq",
-      "q": "The big-seed row adds up to 30 cm. The small-seed row adds up to 20 cm. What does that suggest?",
+      "q": "In a test like this, the big-seed row adds up to 25 cm and the small-seed row to 15 cm. What does that suggest?",
       "options": [
        "Big seeds have different instructions",
        "Big seeds packed more food, so their seedlings grew faster at first",
        "Small seeds are a different kind of plant"
       ],
       "a": 1,
-      "why": "Both groups are the same kind, from one packet, so they carry the same kind of instructions. A bigger seed has a bigger food store, which feeds the seedling until their leaves can make food from light. Picking 'different instructions' is a fair first thought. But look at the leaves: they are the same shape in both rows. If your results came out the other way, or equal, that is a real result too."
-     }
-    },
-    {
-     "id": "s5",
-     "mins": 8,
-     "do": "1. Look at the leaves in both rows with the magnifying glass. 2. Then ask for claim, evidence and reasoning.",
-     "say": "Are the leaves a different shape in the two rows? What did size change, and what did it not change?",
-     "kid": "Look at the leaves in both rows. Same shape or different? What did seed size change?",
+      "why": "Both groups are the same kind, from one packet, so they carry the same kind of instructions. A bigger seed has a bigger food store, which feeds the seedling until their leaves can make food from light. Picking 'different instructions' is a fair first thought. But the leaves are the same shape in both rows. If your results came out the other way, or equal, that is a real result too."
+     },
      "parent": "A good answer sounds like this. What I think: bigger chana seeds grow a little taller at first, but the leaves are the same shape. What I saw: the big-seed row added up to more centimetres, and every leaf was the same small, toothed chana leaf. Why: all the seeds have chana instructions, so they make the same shape. A big seed just has more stored food. Chana leaves open slowly. If you cannot see leaflets yet, wait two more days before comparing the leaves. In many tests the difference in height is small, and some small seeds win. That is fine: it shows other things matter too."
     }
    ]
@@ -1011,7 +1040,7 @@
      "do": "Read out the three codes, one row at a time. Grid 1: AATT, AATT, CCGG, CCGG. Grid 2: ATAT, CGCG, ATAT, CGCG. Grid 3: ACGT, ACGT, ACGT, ACGT.",
      "say": "Here is the first code. Row 1 is A, A, T, T. Colour each square as I read it.",
      "kid": "Listen to each code. Colour one square for each letter.",
-     "parent": "Each grid uses four A, four T, four C and four G. Only the order changes. Grid 1 makes four big blocks. Grid 2 makes rows that switch between red and yellow, then blue and green. Grid 3 makes four coloured columns."
+     "parent": "Each grid uses four A, four T, four C and four G. Only the order changes. Grid 1 makes four big blocks. In grid 2, rows 1 and 3 switch between red and yellow, and rows 2 and 4 switch between blue and green. Grid 3 makes four coloured columns."
     },
     {
      "id": "s3",
@@ -1056,7 +1085,6 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up crushes the ginger. Leave out green chilli for young children.",
    "schedule": [
     {
      "day": 1,
@@ -1205,7 +1233,7 @@
    "context": "In this activity you look for features you share with your family, and sort out which come from DNA and which come from your life.",
    "setup": [
     {
-     "art": "A child holding a mirror beside a framed photo of her mother and grandmother, comparing their noses.",
+     "art": "A child holding a mirror beside a framed photo of a relative, comparing their noses.",
      "caption": "1. Compare your face with family photos in a mirror."
     },
     {
@@ -1218,8 +1246,8 @@
      "id": "s1",
      "mins": 7,
      "do": "Sit with photos or family members. Look in the mirror together and compare hair, eyes, eyebrows, nose, smile, ears and hands.",
-     "say": "Which of your features do you see in Amma? In Appa? In a grandparent? Is there anything you have that nobody else has?",
-     "kid": "Look in the mirror. Then look at your family. Who has your nose? Your smile?",
+     "say": "Which of your features do you see in someone in your family? Is there anything you have that nobody else has?",
+     "kid": "Look in the mirror. Then look at your family or the photos. Who has your nose? Your smile?",
      "parent": "Be gentle in families where a child is adopted or lives with one parent. You can compare with anyone in the home: we all share some features with people we live with, and many with all people."
     },
     {
@@ -1261,6 +1289,10 @@
     {
      "item": "a ruler",
      "qty": 1
+    },
+    {
+     "item": "3 small paper or plastic cups, each with a hole poked in the bottom",
+     "qty": 3
     },
     {
      "item": "a small pot or cup of soil from a potted plant, if you have one",
@@ -1321,10 +1353,19 @@
      "mins": 5,
      "do": "Draw one seedling of each kind, as big as the page allows. Write the date and each height.",
      "say": "Each seedling is following their own instructions. Let's draw them every few days and see what they build next.",
-     "kid": "Draw one of each kind. Write the date. Measure each one."
+     "kid": "Draw one of each kind. Write the date. Measure each one.",
+     "parent": "Start on day 4 of the Three Seeds test, so the seedlings are already up. If you use a fresh plate, put the seeds on wet cotton four days before this page."
     },
     {
      "id": "s2",
+     "mins": 5,
+     "do": "Day 3: draw them again, and measure them. Has anything new appeared?",
+     "say": "What has changed since the first page?",
+     "kid": "Draw each seedling again. What is new?",
+     "wait": "Day 3"
+    },
+    {
+     "id": "s3",
      "mins": 15,
      "do": "1. Day 5: fill three cups with soil from a potted plant. 2. Make a hole with a pencil and lower one seedling of each kind in, root first. 3. Water gently.",
      "say": "Seedlings on cotton run out of food once their seed is used up. Soil gives them minerals to keep building.",
@@ -1333,7 +1374,7 @@
      "parent": "No soil? Keep them on the cotton. They will still grow for a few more days, though more slowly. Soil from a potted plant, or a small bag from any plant nursery, is enough."
     },
     {
-     "id": "s3",
+     "id": "s4",
      "mins": 10,
      "do": "Draw them again. Look between the seed leaves with the magnifying glass.",
      "say": "Look between the seed leaves. Is something new growing there? Does it look like the seed leaves?",
@@ -1342,8 +1383,8 @@
      "parent": "The first true leaves look different from the seed leaves. Methi's true leaves come in threes, like the methi leaves sold in the market. Mustard's are rougher, with wavy edges. Moong's first true leaves are a pair of pointed leaves. Leaves may come a few days late in a cool or dim room."
     },
     {
-     "id": "s4",
-     "mins": 20,
+     "id": "s5",
+     "mins": 15,
      "do": "Day 10: lay out all the pages in order and talk about them.",
      "say": "Look at all your pages together. Did any seedling ever grow the wrong kind of leaf? What does that tell you?",
      "kid": "Lay out all your pages. Did any plant grow the wrong kind of leaf?",
@@ -1368,7 +1409,7 @@
    "id": "c1",
    "title": "Code a Kolam: instructions in four letters",
    "mins": 30,
-   "problem": "Design a code that uses only the letters A, T, C and G, so that a friend or family member can draw your kolam or pattern exactly, without ever seeing it.",
+   "problem": "Design a code that uses only the letters A, T, C and G, so that a family member or friend can draw your kolam, rangoli or alpona pattern exactly, without ever seeing it.",
    "constraints": [
     "You may use only the four letters A, T, C and G, written in one long line.",
     "Your partner gets only the code and your key, never the drawing.",
@@ -1393,11 +1434,11 @@
    "context": "This is a design challenge. You invent a code using only the four DNA letters that lets someone else draw your pattern.",
    "setup": [
     {
-     "art": "A child hiding a drawn kolam behind her back, handing a strip of paper covered in letters A, T, C and G to her brother.",
+     "art": "A child hiding a drawn kolam behind her back, handing a strip of paper covered in letters A, T, C and G to a parent.",
      "caption": "1. Hide your pattern. Give only the code and key."
     },
     {
-     "art": "The brother drawing on dot paper from the strip, the sister comparing his drawing with hers.",
+     "art": "The parent drawing on dot paper from the strip, the child comparing the drawing with her secret one.",
      "caption": "2. Your partner draws it. Compare the two."
     }
    ],
@@ -1434,7 +1475,7 @@
    "youtube": "zwibgNGe4aY",
    "mins": 6,
    "why": "A clear animation of DNA as a code, and how cells use it to build proteins. Best for the parent, or watched together with pauses.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is approximate: a parent should preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "From DNA to protein - 3D",
@@ -1442,7 +1483,7 @@
    "youtube": "gG7uCskUOrA",
    "mins": 3,
    "why": "A short 3D animation of a gene being copied into RNA, and a ribosome building a protein. No words a child needs to follow: let them watch the shapes.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is approximate: a parent should preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "DNA vs RNA (Updated)",
@@ -1450,7 +1491,7 @@
    "youtube": "JQByjprj_mA",
    "mins": 7,
    "why": "A cheerful cartoon comparing DNA and RNA. Made for older students, so it is best for the parent or a curious child of 9 or 10.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, and the length is approximate: a parent should preview it."
+   "check": "A parent should preview it first."
   }
  ],
  "quiz": [
@@ -1483,16 +1524,16 @@
   },
   {
    "t": "mcq",
-   "p": "In a fair test of three kinds of seed, what should be different?",
+   "p": "Deepa, a girl in Class 3, tests whether moong or methi grows taller. She puts moong on a sunny window ledge and methi in a dark cupboard. What is wrong with her test?",
    "opts": [
-    "Only the kind of seed",
-    "The water for each seed",
-    "The place each seed grows",
-    "Everything"
+    "She changed the light as well as the kind of seed",
+    "She used two kinds of seed",
+    "She used a window",
+    "Nothing is wrong"
    ],
    "a": 0,
    "how": "e1",
-   "why": "In a fair test, only one thing changes. If the water or place also changed, you could not tell what made the difference.",
+   "why": "In a fair test, only one thing changes. Deepa changed the seed and the light, so she could not tell which one made the difference.",
    "outcome": 1
   },
   {
@@ -1575,15 +1616,15 @@
   },
   {
    "t": "mcq",
-   "p": "Two brothers, Arun and Vikram, have the same parents but look different. Why?",
+   "p": "A crow's chick grows up to be a crow, never a pigeon. What makes sure of this?",
    "opts": [
-    "One has no DNA",
-    "Each got a different mix of their parents' DNA",
-    "Their parents changed",
-    "Brothers never share DNA"
+    "The DNA the chick got from the crow parents",
+    "The branch the nest is on",
+    "The food the parents bring",
+    "The colour of the sky"
    ],
-   "a": 1,
-   "why": "Each parent passes on a different mix of genes in every egg or sperm. So brothers and sisters share many features but not all.",
+   "a": 0,
+   "why": "Half of the chick's DNA came from each crow parent, and that DNA holds the instructions for a crow. Food and surroundings help the chick grow, but they cannot turn a crow into a pigeon.",
    "outcome": 4
   },
   {
@@ -1676,18 +1717,6 @@
      "why": "These five words come up all through the unit. A strong answer could also give an example of each, such as keratin for a protein."
     },
     {
-     "t": "mcq",
-     "p": "How many different letters does DNA use?",
-     "opts": [
-      "2",
-      "4",
-      "26",
-      "100"
-     ],
-     "a": 1,
-     "why": "DNA uses four chemical letters: A, T, C and G. With a very long chain of them, four letters are enough to hold all the instructions for a body."
-    },
-    {
      "t": "sort",
      "p": "Sort these into living things that carry DNA and things that do not.",
      "cats": [
@@ -1765,9 +1794,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Karthik says, 'Children get their features from their parents' blood.' True or false?",
-     "a": false,
-     "why": "False. Features pass on through the DNA in the egg and the sperm. Red blood cells have no DNA at all. The saying 'it runs in the blood' is very old, but it is not how it works."
+     "p": "True or false: nearly every cell in your body carries the same DNA.",
+     "a": true,
+     "why": "True. A skin cell and a bone cell have the same DNA. They use different genes from it, so they do different jobs. Red blood cells are the exception: they lose their nucleus as they grow."
     },
     {
      "t": "odd",
@@ -1834,11 +1863,10 @@
     },
     {
      "t": "write",
-     "p": "Your family's recipe book stays on a shelf, and you cook from a copy on a slip. Which part of a cell is like the book, and which is like the slip? Why does a cell use a copy?",
-     "lines": 4,
-     "how": "a3",
-     "a": "The DNA is like the book, kept safe in the nucleus. The RNA is like the slip, a copy of one gene. The cell uses a copy so that the DNA stays safe, and so it can make many copies of a gene when it needs a lot of one protein.",
-     "why": "A strong answer names both parts correctly and gives at least one reason for copying."
+     "p": "Sunita, a girl in Class 4, says, 'A gene and a protein are the same thing.' Is she right? Explain.",
+     "lines": 3,
+     "a": "No. A gene is a stretch of DNA that holds the instructions. A protein is the chain of amino acids that a cell builds by following that gene.",
+     "why": "A strong answer says the gene is the instructions and the protein is what is built from them."
     }
    ]
   },
@@ -1850,7 +1878,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kala chana from one packet were sorted into big and small seeds and grown side by side. What would you expect on day 5?",
+     "p": "Kala chana from one packet were sorted into big and small seeds and grown side by side. What would you expect after a week?",
      "opts": [
       "The big seeds grow a different kind of leaf",
       "The big seeds often grow a little taller, with the same shape of leaf",
@@ -1870,9 +1898,9 @@
     },
     {
      "t": "truefalse",
-     "p": "True or false: a skin cell and a bone cell in your body carry different DNA.",
+     "p": "True or false: a gene is the same as a whole chromosome.",
      "a": false,
-     "why": "False. Almost every cell in your body has the same DNA. A skin cell and a bone cell use different genes from it, like cooks using different pages of one cookbook."
+     "why": "False. A chromosome is one long piece of DNA. It holds many genes, each one a short stretch of it."
     },
     {
      "t": "mcq",
@@ -1973,24 +2001,24 @@
     },
     {
      "t": "perspective",
-     "p": "A family in Mysuru argues about where a baby's looks come from.",
+     "p": "A family in Mysuru talks about a baby girl's looks.",
      "views": [
       {
        "who": "Paati, the grandmother",
-       "says": "She has her mother's eyes. It runs in the blood."
+       "says": "She has her mother's eyes. She will grow up just like her mother."
       },
       {
        "who": "Revathi, the mother, a nurse",
-       "says": "Her eyes came from DNA, half from me and half from her father. Blood has nothing to do with it."
+       "says": "Half her DNA is mine and half is her father's, in a new mix. How she grows up will also depend on her food and her life."
       },
       {
-       "who": "Arjun, aged 7",
+       "who": "Mallika, aged 7, her cousin",
        "says": "She looks like nobody. She looks like herself."
       }
      ],
      "ask": "Which view do you agree with most? Use what you learned about DNA. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Revathi that looks pass on through DNA, not blood. It gives Paati her due: families really do share features, which is what she noticed. And Arjun is right too: each child gets a new mix of their parents' DNA, so no one else looks exactly like them.",
+     "a": "A strong answer agrees with Revathi that DNA and life both shape the baby. It gives Paati her due: families really do share features, such as the eyes she noticed. And Mallika is right too: each child gets a new mix of their parents' DNA, so no one else looks exactly like them.",
      "why": "Each view sees something true. A strong answer uses the facts about DNA and is fair to every view."
     },
     {
@@ -2014,12 +2042,11 @@
     },
     {
      "t": "fill",
-     "p": "Most of your cells have 46 chromosomes: ____ from your mother and ____ from your father.",
+     "p": "A protein is a chain of smaller parts called ____ ____.",
      "a": [
-      "23",
-      "23"
+      "amino acids"
      ],
-     "why": "46 shared equally between two parents is 23 each. That is why a child gets half of their DNA from each parent."
+     "why": "A cell joins amino acids in the order the gene says. The order decides how the chain folds, and the fold decides the job."
     },
     {
      "t": "write",
@@ -2084,13 +2111,13 @@
        "says": "Proteins carry the instructions. They are made of 20 kinds of parts. DNA has only four, so it is too simple."
       },
       {
-       "who": "Oswald Avery, after his 1944 experiment",
-       "says": "When I destroyed the protein, bacteria still changed. When I destroyed the DNA, they did not. So DNA carries the instructions."
+       "who": "Oswald Avery's team, describing their 1944 result",
+       "says": "When we destroyed the protein, the bacteria still changed. When we destroyed the DNA, they did not. So DNA carries the instructions."
       }
      ],
      "ask": "Which scientist would you have believed in 1944? What evidence would have changed your mind? Then say why the protein scientist's idea made sense at the time.",
      "lines": 6,
-     "a": "A strong answer sides with Avery because of the test: removing DNA stopped the change, removing protein did not. Hershey and Chase's 1952 virus test added more evidence. It is fair to the protein scientist: 20 kinds of parts did seem able to say more, and nobody yet knew how long DNA was.",
+     "a": "A strong answer sides with Avery's team because of the test: removing DNA stopped the change, removing protein did not. Hershey and Chase's 1952 virus test added more evidence. It is fair to the protein scientist: 20 kinds of parts did seem able to say more, and nobody yet knew how long DNA was.",
      "why": "The protein idea was reasonable but wrong. A strong answer shows how evidence, not how complicated something looks, settled it."
     },
     {
@@ -2173,21 +2200,21 @@
     },
     {
      "t": "odd",
-     "p": "Which of these does NOT keep their instructions in DNA?",
+     "p": "Three of these are proteins. Which one is the odd one out?",
      "opts": [
-      "A mango tree",
-      "A curd bacterium",
-      "The flu virus",
-      "An elephant"
+      "Keratin",
+      "Haemoglobin",
+      "Insulin",
+      "Chlorophyll"
      ],
-     "a": 2,
-     "why": "The mango tree, the curd bacterium and the elephant are all made of cells, and all keep their instructions in DNA. The flu virus keeps their genes in RNA."
+     "a": 3,
+     "why": "Keratin, haemoglobin and insulin are all proteins, built by following genes. Chlorophyll is the green colour in leaves. It is not a protein, but the leaf's proteins build it."
     },
     {
      "t": "write",
      "p": "Martha Chase did the 1952 experiment with Alfred Hershey, but only Hershey shared the Nobel Prize. Why do you think this happened, and why does it matter to say her name?",
      "lines": 4,
-     "a": "She was a young assistant, and prizes usually went to the senior scientist, and at that time women's work was often left out. Saying her name matters because she did the work, and children should know that women make discoveries too.",
+     "a": "Nobody knows for sure. She was a young assistant, prizes then usually went to the senior scientist, and women's work was often left out. Saying her name matters because she did the work, and children should know that women make discoveries too.",
      "why": "A strong answer gives a reason from history and says something fair about credit for shared work."
     },
     {
@@ -2240,7 +2267,7 @@
    "art": "A family photo at a wedding, three cousins with the same wide smile as their grandmother."
   },
   {
-   "text": "Most mango varieties, such as Alphonso and Banganapalli, are grown by joining a branch of the chosen tree onto a young tree. A tree grown from a mango seed often gives different fruit.",
+   "text": "Most mango varieties, such as Alphonso, Banganapalli and Himsagar, are grown by joining a branch of the chosen tree onto a young tree. A tree grown from a mango seed often gives different fruit.",
    "art": "A nursery worker binding a mango branch onto a small young tree with plastic tape."
   },
   {
@@ -2279,14 +2306,9 @@
   }
  ],
  "ask_kids": [
-  "Which of your features do you think came from Amma? Which from Appa?",
-  "This dosa batter was rice and urad dal. Where were their instructions?",
-  "If every cell in you has the same DNA, how does your eye know to be an eye?",
-  "A neem seed and a mango stone can land on the same soil. Why do they grow differently?",
-  "What would happen if a recipe was copied with one word wrong?",
-  "Is there anything about you that is not in your DNA?",
-  "Why do you think the cell copies a gene, instead of sending out the DNA itself?",
-  "The crow at the window had a mother and father crow. What did they pass on?"
+  "What would happen if a recipe was copied with one word wrong? What might happen in a cell if a gene was copied with one letter wrong?",
+  "A mustard seed is smaller than a pinhead. How can it hold the plan for a whole plant?",
+  "The shape of each seedling was already inside the seed. So why did the seedlings still need water and light?"
  ],
  "jokes": [
   {
@@ -2295,19 +2317,11 @@
   },
   {
    "j": "Why did the mustard seed never become a mango tree?",
-   "a": "It wasn't in their instructions."
-  },
-  {
-   "j": "Why was the RNA always in a hurry?",
-   "a": "It had a message to deliver."
+   "a": "That was not in the instructions."
   },
   {
    "j": "What do you call a gene that tells jokes?",
    "a": "A genie-us."
-  },
-  {
-   "j": "Why did the cell keep their DNA in the nucleus?",
-   "a": "Because it was too precious to leave lying around the kitchen."
   },
   {
    "j": "How does a ribosome read?",
@@ -2322,8 +2336,12 @@
    "a": "We grew up in the same place, but you're just not my type."
   },
   {
-   "j": "Why did Paati's cookbook never go into the kitchen?",
-   "a": "It didn't want to get into a sticky situation, just like DNA."
+   "j": "Why do genes make good jokes?",
+   "a": "Because they run in the family."
+  },
+  {
+   "j": "Why did the cell refuse to share their snacks?",
+   "a": "They were cell-fish."
   }
  ],
  "maths": [
@@ -2353,9 +2371,9 @@
    "why_maths": "Halving shows exactly how a child's DNA is shared between the two parents."
   },
   {
-   "problem": "In the Big Seed, Small Seed test, the five big-seed seedlings measured 7, 6, 6, 5 and 6 cm. The five small-seed seedlings measured 5, 4, 3, 4 and 4 cm. Add up each row. Which row grew more, and by how much?",
-   "answer": "Big seeds: 30 cm. Small seeds: 20 cm. The big-seed row grew 10 cm more.",
-   "explain": "Big: 7 + 6 + 6 + 5 + 6 = 30. Small: 5 + 4 + 3 + 4 + 4 = 20. 30 take away 20 is 10. Notice that the shortest big-seed seedling, 5 cm, was as tall as the tallest small-seed seedling. That is why we measure five, not one.",
+   "problem": "In the Big Seed, Small Seed test, the five big-seed seedlings measured 6, 5, 5, 4 and 5 cm. The five small-seed seedlings measured 4, 3, 2, 3 and 3 cm. Add up each row. Which row grew more, and by how much?",
+   "answer": "Big seeds: 25 cm. Small seeds: 15 cm. The big-seed row grew 10 cm more.",
+   "explain": "Big: 6 + 5 + 5 + 4 + 5 = 25. Small: 4 + 3 + 2 + 3 + 3 = 15. 25 take away 15 is 10. Notice that the shortest big-seed seedling, 4 cm, was as tall as the tallest small-seed seedling. That is why we measure five, not one.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "how": "e2",
    "context": "This is about the Big Seed, Small Seed experiment. You grew the five biggest and five smallest kala chana from one packet side by side. These are made-up example results.",
@@ -2367,12 +2385,12 @@
     "data": [
      {
       "label": "Big seeds",
-      "value": 30,
+      "value": 25,
       "emoji": "🌱"
      },
      {
       "label": "Small seeds",
-      "value": 20,
+      "value": 15,
       "emoji": "🌱"
      }
     ]
@@ -2424,7 +2442,7 @@
    "url": "https://www.ccmb.res.in/",
    "kind": "place",
    "where": "Hyderabad",
-   "why": "A national research lab that studies cells and DNA. It holds open days for the public on some days of the year. Check their website before planning a visit."
+   "why": "A national research lab that studies cells and DNA. Check their website before planning a visit, as it may not be open to the public."
   }
  ],
  "buy": [
@@ -2439,8 +2457,7 @@
     "e1",
     "e2",
     "p1"
-   ],
-   "plan": "Useful again in the cells, plants and insects units."
+   ]
   }
  ],
  "warmup": [
@@ -2537,10 +2554,7 @@
   ]
  },
  "sources": {
-  "founder": [
-   "ideas/by_topic/genes-and-inheriting-features.md: the founder's RNA picture book ('RNA's story of life', 'The DNA Upgrade'): RNA as the builder and messenger, DNA as the safe store. Used for the cookbook-and-slip picture and the RNA kitchen activity. The origin-of-life parts are left to the unit on how life began.",
-   "Curriculum entry sci.genetics.dna-and-rna.L3: 'Every living thing carries instructions that make it what it is'. Built on the prerequisite inheritance unit, and kept clear of the banana DNA threads and RNA copying activities in sci.evolution.story-of-life.L3, the Franklin story in sci.how-we-know.stories-of-discovery.L3, and the light and dark moong test in sci.plants.what-plants-need.L3."
-  ],
+  "founder": [],
   "science": [
    "Miescher, 1871, Hoppe-Seyler's Medizinisch-chemische Untersuchungen (nuclein, work done 1869 in Tübingen)",
    "Avery, MacLeod and McCarty, Journal of Experimental Medicine 79, 1944 (DNA as the transforming principle)",
@@ -2597,7 +2611,7 @@
   "practice": {
    "title": "Hold a seed",
    "mins": 3,
-   "say": "Let's each hold one mustard seed in our palm. Look at how small it is. Now close your eyes and breathe slowly, five times. Inside this seed is the plan for a whole mustard plant, with yellow flowers. Inside your own body, every cell holds a plan too. Some of it came from your grandmother, and from her grandmother. Open your eyes. Look at the seed again.",
+   "say": "Let's each hold one mustard seed in our palm. Look at how small it is. Now close your eyes and breathe slowly, five times. Inside this seed is the plan for a whole mustard plant, with yellow flowers. Inside your own body, every cell holds a plan too. Some of it came from your grandparents, and from their parents. Open your eyes. Look at the seed again.",
    "kid": "Hold one mustard seed. Look how small it is. Close your eyes. Breathe slowly five times. A whole plant's plan is inside. Your cells hold a plan too. Open your eyes."
   },
   "ask": [
@@ -2607,7 +2621,7 @@
   ],
   "art": "A child's open palm holding a single tiny mustard seed, and rising above the palm, drawn faintly like a dream, a whole mustard plant in yellow flower with a thin twisted ladder of DNA winding up the stem."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Kitchen moong, methi and mustard almost always sprout on wet cotton within two days in Indian room temperatures. Their seed leaves are clearly different by day 4: fat moong halves, small oval methi leaves and tiny notched mustard leaves. Roasted or very old seeds will not sprout, so the steps say to try a fresh packet. A puddle of water rots seeds, so the steps say wet but not swimming. Hot afternoon sun can dry cotton in hours, so the plate sits in bright light but out of direct afternoon sun. Kala chana from one packet vary enough in size to pick clear big and small groups, and sprout after an overnight soak. Chana leaves open slowly, so the step says to wait two more days if needed. The RNA Kitchen uses curd, water, salt, curry leaves and ginger, and a grown-up crushes the ginger. Green chilli is left out for young children. The look-alike hunt has a note for adoptive and single-parent families. Both games work for one child alone and need only paper and a pencil. The spine (intro, Seed Faces, Three Seeds, explanations, roots, quiz) fits about 85 minutes over two sessions, with short checks on days 2 and 3.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Kitchen moong, methi and mustard almost always sprout on wet cotton within two days in Indian room temperatures. Their seed leaves are clearly different by day 4. Roasted or very old seeds will not sprout, so the steps say to try a fresh packet. A puddle of water rots seeds, so the steps say wet but not swimming. Hot afternoon sun can dry cotton in hours, so the plate sits in bright light but out of direct afternoon sun. Kala chana from one packet vary enough in size to pick clear big and small groups, and sprout after an overnight soak. The Big Seed, Small Seed test runs for a week, so the shoots are long enough to measure. Chana leaves open slowly, so the step says to wait two more days if needed. The Sprout Album starts on day 4 of the Three Seeds test. The RNA Kitchen uses curd, water, salt, curry leaves and ginger, and a grown-up crushes the ginger. The look-alike hunt has a note for adoptive and single-parent families. Both games work for two players and for one child alone, and need only paper and a pencil. The spine (intro, Seed Faces, Three Seeds, explanations, roots, quiz) fits about 85 minutes over two sessions, with short checks on days 2 and 3.",
  "how_we_found_out": {
   "story": "In 1869 Friedrich Miescher, a young Swiss doctor working in Tübingen, Germany, washed white blood cells off used hospital bandages. From the nucleus of these cells he got a new substance, which he called nuclein. Today we call it DNA. For the next 70 years, most scientists thought nuclein was too simple to matter. The chemist Phoebus Levene showed it was made of only four kinds of small parts, and many took this to mean it was a dull, repeating chain. Proteins, with 20 kinds of parts, seemed far better for holding instructions. In 1944, Oswald Avery, Colin MacLeod and Maclyn McCarty in New York gave harmless bacteria a liquid from dead, harmful ones. The harmless bacteria became harmful. When they destroyed the protein in the liquid, it still worked. When they destroyed the DNA, it stopped. Many scientists still doubted. Then in 1952, Alfred Hershey and Martha Chase, his 24-year-old assistant, marked the DNA and the protein of a virus with different radioactive atoms. Only the DNA went inside the bacteria the virus attacked, and new viruses were built from that DNA. DNA carried the instructions. Hershey later shared a Nobel Prize. Chase did not.",
   "who": "Friedrich Miescher, Phoebus Levene, Oswald Avery, Colin MacLeod, Maclyn McCarty, Alfred Hershey and Martha Chase",

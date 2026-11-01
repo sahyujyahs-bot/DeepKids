@@ -163,7 +163,8 @@
    "examples": [
     "Foam on some city lakes, such as Bellandur Lake in Bengaluru, comes from sewage with soap and detergent in it.",
     "In your soil test, the muddy water came out clearer, but the salt in it went straight through.",
-    "A plastic bag in a drain stops the water flowing, and the drain floods in the rain."
+    "A plastic bag in a drain stops the water flowing, and the drain floods in the rain.",
+    "After festivals such as Ganesh Chaturthi in Maharashtra and Durga Puja in Kolkata, idols made of plaster of Paris and chemical paint dissolve slowly and leave waste in lakes and rivers. Clay idols do far less harm."
    ],
    "perspectives": [],
    "art": "A cut-away picture: a rubbish heap on the ground, rain falling, dark water soaking down through soil to the groundwater, and a borewell pipe nearby."
@@ -227,14 +228,6 @@
    "context": "This card is about whether staying indoors always means cleaner air."
   },
   {
-   "claim": "A few pot plants clean the air in a room.",
-   "who": "Many advertisements, based on a 1989 NASA study",
-   "for": "In small sealed boxes, plants took harmful gases out of the air.",
-   "against": "Later studies found that a real room needs far more plants than anyone keeps to match what fresh air from a window does.",
-   "status": "debated",
-   "context": "This card is about the idea that house plants are air filters."
-  },
-  {
    "claim": "Burning dry leaves is natural, so it does no harm.",
    "who": "Some people who sweep and burn leaves",
    "for": "Leaves are natural, and forests sometimes burn by themselves.",
@@ -265,7 +258,7 @@
    "hint": "Think about your card. You could not see one speck land, but you saw many specks together."
   },
   {
-   "q": "A tree beside a busy road catches dust on their leaves, and that dust is hard for them. Does the tree have a say?",
+   "q": "Dust settles on the leaves of a tree beside a busy road, and that is hard for the tree. Does the tree have a say?",
    "kind": "big",
    "hint": "Think about how the tree senses light, and what dust does to that."
   }
@@ -301,7 +294,7 @@
    "Arjun was quiet for a long time. Then he said, 'But Bhogi is for getting rid of old things. If we don't burn them, what do we do with them?'",
    "Kavya had been thinking about that too. 'Paati says Bhogi means letting go of old things to make space for new ones,' she said. 'It doesn't say you have to set them on fire.'",
    "So the next year, on Bhogi morning, Kavya and Arjun did something different. They went round the flats with a big cloth bag. The torn clothes went to the kabadiwala, who sells them on to be shredded and made into new cloth. The old grass mats went into the compost pit at the corner of the park. The broken toys went in a box for a woman who mends them. And on the window sill, they taped up three fresh cards.",
-   "At lunchtime they compared them with last year's. The new flat card was grey too, because many people in the city still had bonfires. But it was less grey than last year's, and Arjun said his eyes did not itch at all.",
+   "At lunchtime they compared them with last year's, which Kavya had kept in her notebook. The new flat card was grey too, because many people in the city still had bonfires. But it was less grey than last year's, and Arjun said his eyes did not itch at all.",
    "'Our lane made less smoke,' said Kavya. 'And our noses caught less of it.'"
   ],
   "epiphany": "The dust that lands on a sticky card is the same dust that lands inside your nose, because both catch whatever is in the air you breathe.",
@@ -331,36 +324,41 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 cards to cut out: 12 sources and 12 fixes",
+     "title": "24 cards to cut out: 12 source cards and 12 fix cards",
      "items": [
-      "Burning dry leaves on the road | Put the leaves in a compost pit",
-      "Burning rubbish and plastic | Sort waste and give it to the waste collector",
-      "A diesel bus giving off black smoke | Buses that run on electricity or gas",
-      "Dust from a building site | Cover the sand heaps and spray water",
-      "A mosquito coil burning in a closed bedroom | Sleep under a mosquito net",
-      "Frying in a kitchen with no fan | Switch on the exhaust fan or open the window",
-      "Sewage pouring into a river | Clean the sewage at a treatment works first",
-      "Plastic bags in the drain | Carry a cloth bag",
-      "Washing a scooter in the lake | Wash at home with a bucket",
-      "Firecrackers at Diwali | Diyas and a family get-together",
-      "Old tyres in the Bhogi bonfire | Give old things away, burn nothing",
-      "A vehicle engine left running at a signal | Switch the engine off while waiting"
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Score sheet",
-     "items": [
-      "A row for each player: pairs found, and 'air, water or land' points."
+      "SOURCE: Burning dry leaves on the road",
+      "SOURCE: Burning rubbish and plastic",
+      "SOURCE: A diesel bus giving off black smoke",
+      "SOURCE: Dust from a building site",
+      "SOURCE: A mosquito coil burning in a closed bedroom",
+      "SOURCE: Frying in a kitchen with no fan",
+      "SOURCE: Sewage pouring into a river",
+      "SOURCE: Plastic bags thrown in the drain",
+      "SOURCE: Washing a scooter in the lake",
+      "SOURCE: Firecrackers at Diwali",
+      "SOURCE: Old tyres burning in a Bhogi bonfire",
+      "SOURCE: A car engine left running at a signal",
+      "FIX: Put the dry leaves in a compost pit instead of burning them",
+      "FIX: Sort waste and give it to the waste collector instead of burning it",
+      "FIX: Run buses on electricity or gas instead of diesel",
+      "FIX: Cover the sand heaps at a building site and spray them with water",
+      "FIX: Sleep under a mosquito net instead of burning a coil",
+      "FIX: Switch on the exhaust fan or open the window while frying",
+      "FIX: Clean the sewage at a treatment works before it reaches the river",
+      "FIX: Carry a cloth bag instead of taking plastic bags",
+      "FIX: Wash the scooter at home with a bucket, not in the lake",
+      "FIX: Light diyas and meet the family instead of lighting firecrackers",
+      "FIX: Give old things away at Bhogi instead of burning tyres",
+      "FIX: Switch the engine off while waiting at a signal"
      ]
     }
    ],
    "rules": [
-    "Cut out the 24 cards. Shuffle them and lay them face down in rows.",
+    "Cut out the 24 cards: 12 SOURCE cards and 12 FIX cards. Shuffle them and lay them face down in rows. Keep score on a sheet of paper, one row for each player.",
     "Take turns to turn over two cards.",
-    "If they are a source and its fix, keep them. Then say whether the source pollutes air, water or land. A correct answer earns a bonus point.",
+    "If you have a SOURCE card and the FIX card that goes with it, keep them. Then say whether the source pollutes air, water or land. A good answer earns a bonus point.",
     "If they don't match, turn them back face down.",
-    "When all the pairs are found, the player with the most points wins.",
+    "When all the pairs are found, the player with the most points wins. If two players tie, they both win.",
     "Playing alone? Count how many turns you need, and try to beat it next time."
    ],
    "setup": [
@@ -369,7 +367,7 @@
      "caption": "1. Lay the cards face down in rows."
     },
     {
-     "art": "Two cards turned face up: 'Burning dry leaves on the road' and 'Put the leaves in a compost pit', with a child pointing at them.",
+     "art": "Two cards turned face up: 'SOURCE: Burning dry leaves on the road' and 'FIX: Put the dry leaves in a compost pit instead of burning them', with a child pointing at them.",
      "caption": "2. Turn over two cards. Is it a source and its fix?"
     }
    ],
@@ -398,7 +396,7 @@
      "kid": "Which fix could your family try this week?",
      "check": {
       "t": "mcq",
-      "q": "Farhan's neighbour burns dry leaves every morning. Which fix makes no smoke at all?",
+      "q": "Joseph, a boy in Class 4, has a neighbour who burns dry leaves every morning. Which fix makes no smoke at all?",
       "options": [
        "Put the leaves in a compost pit",
        "Burn them at night instead",
@@ -416,7 +414,7 @@
    "id": "e1",
    "title": "The Sticky Card Test: what is in the air at your window?",
    "mins": 30,
-   "days": 3,
+   "days": 4,
    "context": "In this experiment you put sticky cards in three places for three days, then count the specks the air leaves on them.",
    "question": "Does the air at our window leave dust on a sticky card, even where nothing can fall on it? How much, compared with a card the air cannot reach?",
    "predict": "Guess first. After three days, which card will have the most specks: the flat one on the sill, the upright one on the grill, or the one in the closed dabba? Will the upright card catch anything at all? Why do you think so?",
@@ -456,7 +454,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up tapes the card to the outside sill or grill. Children never lean out of a window or climb on the sill. Wash hands after using the jelly.",
+   "safety": "A grown-up tapes the card to the outside sill or grill. Children never lean out of a window or climb on the sill.",
    "schedule": [
     {
      "day": 1,
@@ -466,10 +464,10 @@
     {
      "day": 2,
      "mins": 2,
-     "what": "Look at the cards without touching them. Can you see anything yet?"
+     "what": "Look at the cards without touching them. Can you see anything yet? Then leave them for two more days."
     },
     {
-     "day": 3,
+     "day": 4,
      "mins": 13,
      "what": "Bring the cards in. Look with the magnifying glass. Count the specks in one corner of each square. Fill in the table and say what you found."
     }
@@ -549,10 +547,10 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "On day 3: 1. Untape the cards carefully, holding the edges. 2. Put the three cards side by side on a white sheet. 3. Look at each square with the magnifying glass. 4. Count the specks in the top left corner of each square, a quarter of the square.",
+     "do": "On day 4: 1. Untape the cards carefully, holding the edges. 2. Put the three cards side by side on a white sheet. 3. Look at each square with the magnifying glass. 4. Count the specks in the top left corner of each square, a quarter of the square.",
      "say": "Let's look closely. Count only the specks in the top left corner, so the counting doesn't take all day.",
      "kid": "Lay the three cards side by side. Look with the glass. Count the specks in one corner of each square.",
-     "wait": "Leave the cards for 1 more day",
+     "wait": "Leave the cards for 2 more days",
      "ask": [
       {
        "q": "What colours and shapes are the specks?",
@@ -600,7 +598,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read the explanation cards."
+     "parent": "A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this unit's explanation cards."
     }
    ]
   },
@@ -636,7 +634,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe gently, and hold each leaf from below so it doesn't tear. Wash hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -699,7 +696,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Talk about what the dust means for the plant.",
-     "say": "A leaf makes the plant's food from sunlight. What does a layer of dust do to the sunlight? How does this plant get the dust off on their own, out in the rain?",
+     "say": "A leaf makes the plant's food from sunlight. What does a layer of dust do to the sunlight? How does a plant outdoors get the dust off?",
      "kid": "Leaves need sunlight to make food. What does dust do to the light?",
      "ask": [
       {
@@ -710,7 +707,7 @@
        ]
       }
      ],
-     "parent": "Rain washes most dust off leaves. A plant on a covered balcony gets no rain, so a gentle wipe or a spray of water now and then helps them. You can offer that as a kindness, not a chore."
+     "parent": "Rain washes most dust off leaves. A plant on a covered balcony gets no rain, so a gentle wipe or a spray of water now and then helps the plant. You can offer that as a kindness, not a chore."
     }
    ]
   },
@@ -722,7 +719,7 @@
    "context": "In this experiment you pour dirty, salty water through soil in a cut bottle, then dry a spoonful to see what came through.",
    "question": "When dirty water soaks into the ground, does the soil clean it? Does it stop the mud? Does it stop the salt?",
    "predict": "Guess first. We pour muddy, salty water through a bottle of soil. Will the water that comes out be clear? Will the salt stay in the soil, or come through? Why do you think so?",
-   "fair_test": "Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control.",
+   "fair_test": "Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control. Potting soil can add a little salt of its own, so compare the two spoonfuls, not just the crust.",
    "results_table": [
     "Water",
     "How it looked: cloudy or clear",
@@ -742,20 +739,24 @@
      "qty": 1
     },
     {
-     "item": "a glass of water with 2 teaspoons of salt stirred in until it disappears, and 1 spoon of soil to make it muddy",
+     "item": "2 glasses of water, 4 teaspoons of salt in all (2 in each glass, stirred in until they disappear), and 1 spoon of soil to make the water muddy",
      "qty": 1
     },
     {
      "item": "a steel plate, a teaspoon and a little plain tap water",
      "qty": 1
+    },
+    {
+     "item": "a small cup to keep a little of the dirty water",
+     "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the bottle, because the cut edge is sharp. Never drink or taste the water in this experiment. Wash hands after handling soil.",
+   "safety": "A grown-up cuts the bottle, because the cut edge is sharp. Never drink or taste the water in this experiment.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Build the soil filter, pour the dirty salt water through, and put two spoonfuls to dry in the sun. Look again when they are dry, after a few hours."
+     "what": "Build the soil filter, pour the dirty salt water through, and put two spoonfuls on a plate to dry in a sunny window. Look again when they are dry, after a few hours or overnight."
     }
    ],
    "record": "Draw the soil filter, with the dirty water going in and the water coming out. Draw the two dry spots on the plate and label them.",
@@ -787,7 +788,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Stir 2 teaspoons of salt into a glass of water until you can't see it. 2. Add 1 spoon of soil and stir to make it muddy. 3. Ask for a guess and a reason.",
+     "do": "1. Stir 2 teaspoons of salt into each of two glasses of water until you can't see it. 2. Add 1 spoon of soil to one glass and stir to make it muddy. 3. Pour a little of the muddy water into the small cup and keep it. 4. Ask for a guess and a reason.",
      "say": "This is our dirty water. It has mud we can see, and salt we can't see, because the salt has dissolved. Dissolved means broken up into pieces too small to see, spread all through the water. What will come out of the bottom? Why do you think so?",
      "kid": "Stir salt into the water. Stir in some soil too. What will come out of the bottle? Say why.",
      "ask": [
@@ -803,11 +804,11 @@
     },
     {
      "id": "s3",
-     "mins": 7,
-     "do": "1. Pour the dirty water slowly onto the soil. 2. Wait for the water to drip through, about 5 minutes. 3. Compare the water that came out with a little of the dirty water you kept back.",
+     "mins": 10,
+     "do": "1. Pour the muddy salt water slowly onto the soil. Then pour the second glass of salt water in the same way, so enough water comes through. 2. Wait for the water to drip through, about 5 minutes. 3. Compare the water that came out with the muddy water you kept in the cup.",
      "say": "Look at the water dripping out. Is it clearer than what went in?",
      "kid": "Pour the water in slowly. Wait. Is the water that comes out clearer?",
-     "parent": "The first drips may be brown, because some fine soil washes through. Pour the first half cup back through once, and it comes out clearer. Clean soil stops most of the mud."
+     "parent": "The first drips may be brown, because some fine soil washes through. Pour the first half cup back through once, and it comes out clearer. Clean soil stops most of the mud. Dry soil soaks up a lot of water, so if only a few drops come out, pour in more water or wet the soil first."
     },
     {
      "id": "s4",
@@ -815,12 +816,11 @@
      "do": "1. Put one teaspoon of the water that came through on one side of the steel plate. 2. Put one teaspoon of plain tap water on the other side. 3. Leave the plate in a sunny window until both are dry, a few hours.",
      "say": "The mud was stopped. What about the salt? We can't see it in the water, but if the water dries up, the salt gets left behind.",
      "kid": "Put a spoon of each water on the plate. Leave it in the sun. Look when it is dry.",
-     "wait": "Leave the plate in the sun for a few hours",
-     "parent": "On a cloudy day, drying can take the whole day. A grown-up can dry the spoonfuls faster by warming the steel plate on a tawa over a low flame."
+     "parent": "If the day is cloudy, leave the plate overnight in a warm, airy spot. A fan helps."
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 2,
      "do": "Look at the dry plate together. Ask the check question.",
      "say": "What is left where each spoonful dried?",
      "kid": "Look at the plate. What is left where the water dried?",
@@ -834,7 +834,8 @@
       ],
       "a": 0,
       "why": "Soil catches pieces, like mud, in the tiny gaps between its grains. Salt was dissolved, so its pieces were far too small to catch, and went through with the water. Many harmful things dissolve in the same way. That is how pollution on the ground can reach the groundwater that borewells pump up."
-     }
+     },
+     "wait": "Leave the plate for a few hours, until both spoonfuls are dry"
     }
    ]
   }
@@ -930,7 +931,6 @@
      "qty": 1
     }
    ],
-   "safety": "Look from the window or balcony. Stay inside the grill.",
    "schedule": [
     {
      "day": 1,
@@ -1006,16 +1006,16 @@
      "qty": 2
     }
    ],
-   "safety": "Look, don't poke. Never put anything inside your nose. Wash hands after using a tissue.",
+   "safety": "Look, don't poke. Never put anything inside your nose.",
    "schedule": [
     {
      "day": 1,
-     "mins": 4,
+     "mins": 5,
      "what": "Look inside your nose with a mirror and torch. In the evening after a day out on busy roads, blow your nose into a white tissue and look."
     },
     {
      "day": 2,
-     "mins": 4,
+     "mins": 3,
      "what": "In the evening after a day at home, blow your nose into a white tissue and compare."
     }
    ],
@@ -1057,7 +1057,7 @@
      "wait": "Do this on an evening after a day at home",
      "check": {
       "t": "mcq",
-      "q": "Divya's tissue is greyer after a day on busy roads than after a day at home. Why?",
+      "q": "Divya, a girl in Class 3, blows her nose into a tissue after a day on busy roads and after a day at home. The first tissue is greyer. Why?",
       "options": [
        "Her nose caught more dust from the dirtier air",
        "Her nose makes grey mucus when she is tired",
@@ -1090,7 +1090,6 @@
      "qty": 1
     }
    ],
-   "safety": "Look from inside the window or grill.",
    "schedule": [
     {
      "day": 1,
@@ -1115,7 +1114,7 @@
     {
      "day": 5,
      "mins": 2,
-     "what": "Rate the landmark, then compare all five days."
+     "what": "Rate the landmark once more, then compare all five days."
     }
    ],
    "record": "A table with the date, the time, your rating, and the AQI number if you can find it.",
@@ -1141,16 +1140,16 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Each morning, at about the same time, rate the landmark again. If you have an air quality app, write the AQI too.",
+     "do": "On days 2, 3 and 4, at about the same time each morning, rate the landmark again. If you have an air quality app, write the AQI too.",
      "say": "Same window, same time, every day. Why do you think the time has to be the same?",
      "kid": "Look at the same thing at the same time each day. Write how clear it is.",
-     "wait": "Repeat each morning for 4 more days",
+     "wait": "Wait for the next morning, and repeat on days 2, 3 and 4",
      "parent": "Morning mist after rain is water drops, not pollution. Note if it rained. In winter, haze is often worst early in the morning, when cold air near the ground keeps smoke from rising."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Compare all five days.",
+     "do": "On day 5, rate the landmark once more, then compare all five days.",
      "say": "Which day was clearest? Did anything happen the day before, like rain, wind or a festival?",
      "kid": "Which day was clearest? Which was haziest? What happened before?",
      "ask": [
@@ -1161,7 +1160,8 @@
         "The rain drops catch the particles and bring them down."
        ]
       }
-     ]
+     ],
+     "wait": "Wait until day 5"
     }
    ]
   }
@@ -1172,11 +1172,11 @@
    "title": "Clean-Air Week at Home",
    "mins": 50,
    "days": 5,
-   "context": "In this five-day project your family picks two changes that make less smoke at home, tries them for a week, and checks the kitchen air with a sticky card before and after.",
+   "context": "In this five-day project your family picks two changes that make less smoke at home, tries them for two days, and checks the kitchen air with a sticky card before and after.",
    "materials": [
     {
-     "item": "4 sticky cards made as in the Sticky Card Test",
-     "qty": 4,
+     "item": "2 sticky cards made as in the Sticky Card Test (white card, a 2 cm square, a thin layer of jelly), and cello tape",
+     "qty": 2,
      "buy": "b-jelly"
     },
     {
@@ -1226,7 +1226,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Tape a sticky card on top of a kitchen cupboard, away from the flame. 2. Cook as usual for two days. 3. Together, list everything at home that makes smoke.",
+     "do": "1. Make a sticky card. 2. Tape it on top of a kitchen cupboard, away from the flame. 3. Cook as usual for two days. 4. Together, list everything at home that makes smoke.",
      "say": "Let's find out how much smoke our kitchen air carries on ordinary days. Then we'll try to make less.",
      "kid": "Put a sticky card high up in the kitchen. Cook as usual. List what makes smoke at home.",
      "adult": true,
@@ -1278,7 +1278,7 @@
     "old cotton cloth, a dupatta, mosquito net or a kitchen strainer cloth",
     "cardboard and cello tape",
     "a spray bottle of water",
-    "two sticky cards",
+    "two sticky cards, made as in the Sticky Card Test",
     "a strip of tissue paper"
    ],
    "general": [
@@ -1316,7 +1316,8 @@
      "mins": 15,
      "do": "Build the best idea. Tape one sticky card just behind the filter, and another beside it, open to the air.",
      "say": "One card behind the filter, one beside it. That way we can see how much the filter stopped.",
-     "kid": "Build your filter. Put one card behind it and one beside it. Check the tissue still flutters."
+     "kid": "Build your filter. Put one card behind it and one beside it. Check the tissue still flutters.",
+     "parent": "If the day is still, hold the tissue strip against the filter and blow gently from the room side. If the strip moves, air gets through."
     },
     {
      "id": "s3",
@@ -1341,7 +1342,7 @@
    "id": "c2",
    "title": "A Bhogi Without Smoke",
    "mins": 30,
-   "problem": "On Bhogi, the first day of Pongal, many families in Tamil Nadu burn old things to make a fresh start. The smoke fills the city. Plan a Bhogi for your building that keeps the meaning, letting go of old things, but makes no smoke.",
+   "problem": "On Bhogi, the first day of Pongal, many families in Tamil Nadu and Andhra Pradesh burn old things to make a fresh start. The smoke fills the city. Plan a Bhogi for your building that keeps the meaning, letting go of old things, but makes no smoke.",
    "constraints": [
     "The plan must keep the idea of letting go of old things.",
     "Nothing is burned.",
@@ -1405,24 +1406,24 @@
    "channel": "UNICEF Viet Nam",
    "youtube": "G1mUopisDX4",
    "mins": 2,
-   "why": "A short animation that follows fine particles from the air into a child's body. Good for the child and the parent together.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+   "why": "A short animation that follows fine particles from the air into a child's body. Good for the child and the parent together. Preview it first.",
+   "check": "A parent should watch it first."
   },
   {
    "title": "How Particle Pollution Impacts Your Lung",
    "channel": "American Lung Association",
    "youtube": "ltbx_Gb4x9w",
    "mins": 2,
-   "why": "For the parent and older children: how particles of different sizes travel into the airways and lungs.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+   "why": "For the parent and older children: how particles of different sizes travel into the airways and lungs. Preview it first.",
+   "check": "A parent should watch it first."
   },
   {
    "title": "The Man Who Accidentally Killed The Most People In History",
    "channel": "Veritasium",
    "youtube": "IV3dnLzthDA",
    "mins": 20,
-   "why": "For the parent: the story of leaded petrol, and how Clair Patterson showed the lead in the air came from people. It explains the How We Found Out card in depth.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. It is long and made for grown-ups, so a parent should watch it first."
+   "why": "For the parent: the story of leaded petrol, and how Clair Patterson showed the lead in the air came from people. It explains the How We Found Out card in depth. It is long and made for grown-ups, so watch it first.",
+   "check": "A parent should watch it first."
   }
  ],
  "quiz": [
@@ -1638,20 +1639,8 @@
      "why": "Smoke and dust float in the air. Sewage and scooter washing go into the water. Rubbish and plastic stay on and in the ground. A strong answer notices that some things pollute more than one, such as burning rubbish, which dirties the air and leaves ash on the land."
     },
     {
-     "t": "mcq",
-     "p": "In the Sticky Card Test, one card was shut in a closed steel dabba. Why?",
-     "opts": [
-      "To show what a card looks like when the air cannot reach it",
-      "To keep it safe for later",
-      "To catch dust from inside the dabba"
-     ],
-     "a": 0,
-     "why": "The dabba card is the control. It had the same jelly and stayed clean, so we know the specks on the other cards came from the air, not from the jelly or the card.",
-     "how": "e1"
-    },
-    {
      "t": "truefalse",
-     "p": "Lakshmi says, 'If the air looks clear, it must be clean.' Is she right?",
+     "p": "Pooja, a girl in Class 3, says, 'If the air looks clear, it must be clean.' Is she right?",
      "a": false,
      "why": "False. Fine particles are too small to see one by one, and some harmful gases have no colour. The sticky card caught specks from air that looked clear."
     },
@@ -1681,7 +1670,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya blows her nose after a day on a busy road. The tissue is grey. Why?",
+     "p": "Divya, a girl in Class 3, blows her nose after a day on a busy road. The tissue is grey. Why?",
      "opts": [
       "The sticky mucus in her nose caught dust from the air",
       "Her nose made dust",
@@ -1696,17 +1685,6 @@
      "lines": 4,
      "a": "For example: frying in the kitchen, so switch on the exhaust fan. Vehicles on the road, so switch the engine off at a signal.",
      "why": "A strong answer names real sources the child has seen, and a change that really reduces them, not just 'be careful'."
-    },
-    {
-     "t": "mcq",
-     "p": "Which of these makes no smoke at all?",
-     "opts": [
-      "Putting dry leaves in a compost pit",
-      "Burning dry leaves in a small pile",
-      "Burning dry leaves at night"
-     ],
-     "a": 0,
-     "why": "Any burning makes smoke, whatever the size of the pile or the time. Leaves in a compost pit rot into soil."
     },
     {
      "t": "draw",
@@ -1731,26 +1709,6 @@
      "why": "Groundwater is water that soaked down through soil and rock. Pollution on the ground can reach it."
     },
     {
-     "t": "mcq",
-     "p": "Anjali's tulsi plant is on a covered balcony beside a busy road. Their leaves look grey. Why is the dust a problem for the plant?",
-     "opts": [
-      "It blocks some of the sunlight the leaves use to make food",
-      "It makes the plant heavier",
-      "It makes the leaves taste bitter"
-     ],
-     "a": 0,
-     "why": "A leaf makes food from sunlight, air and water. Dust blocks some of the light, so the plant makes less food. On a covered balcony, no rain washes it off.",
-     "how": "e2"
-    },
-    {
-     "t": "write",
-     "p": "Your upright card on the grill caught some specks, though nothing could fall onto it. Explain how they got there.",
-     "lines": 3,
-     "a": "Some specks are so tiny that they hardly fall. They float in the air, and the wind blows them against the card, where they stick.",
-     "why": "A strong answer says the specks were floating and carried sideways by the air, not falling.",
-     "how": "e1"
-    },
-    {
      "t": "perspective",
      "p": "Two sisters in Kochi talk about their neighbour, who burns the dry leaves from his garden every week.",
      "views": [
@@ -1767,6 +1725,43 @@
      "lines": 5,
      "a": "A strong answer uses evidence: smoke from any burning carries soot and fine particles, and the sticky card shows that what is in the air lands near and inside us. It also gives the other side its due: burning plastic is worse, because its smoke has poisons in it as well.",
      "why": "Both sisters have a point. Plastic smoke is more poisonous, but smoke from leaves is still full of fine particles that harm lungs. Composting leaves avoids the smoke altogether."
+    },
+    {
+     "t": "mcq",
+     "p": "Anjali, a girl in Class 4, keeps a tulsi plant on a covered balcony beside a busy road. The leaves look grey. Why is the dust a problem for the plant?",
+     "opts": [
+      "It blocks some of the sunlight the leaves use to make food",
+      "It makes the plant heavier",
+      "It makes the leaves taste bitter"
+     ],
+     "a": 0,
+     "why": "A leaf makes food from sunlight, air and water. Dust blocks some of the light, so the plant makes less food. On a covered balcony, no rain washes it off.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "Smoke from a burning tyre or plastic bag is harmless, because it is only smoke.",
+     "a": false,
+     "why": "False. Burning tyres and plastic give off soot and poisonous gases as well. That is why they must never be burned."
+    },
+    {
+     "t": "fill",
+     "p": "A number that says how polluted the outside air is today is called the air quality ____.",
+     "a": [
+      "index"
+     ],
+     "why": "The Air Quality Index, or AQI, is low when the air is cleaner and high when it is dirtier."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do people who work on building sites often wear masks?",
+     "opts": [
+      "The site fills the air with dust that can get into their lungs",
+      "The sun is too bright on a site",
+      "Masks keep the noise out"
+     ],
+     "a": 0,
+     "why": "Cutting, mixing and moving sand and cement throws dust into the air. A mask stops some of it before it is breathed in."
     }
    ]
   },
@@ -1776,18 +1771,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Kavya counts 40 specks in one corner of her sticky card's square. The square has four equal corners, and the specks are spread evenly. About how many specks are in the whole square?",
-     "opts": [
-      "About 160",
-      "About 44",
-      "About 10"
-     ],
-     "a": 0,
-     "why": "One corner is a quarter of the square. If one quarter holds 40, the whole holds about 4 times 40, which is 160. Scientists count part of a sample and multiply in the same way.",
-     "how": "e1"
-    },
     {
      "t": "order",
      "p": "Put the steps of the Sticky Card Test in order.",
@@ -1826,30 +1809,12 @@
      "why": "The incense stick, the coil and the frying all give off smoke. A fan only moves the air that is already there."
     },
     {
-     "t": "truefalse",
-     "p": "The smallest particles in smoke are the most harmful to our lungs.",
-     "a": true,
-     "why": "True. The nose catches bigger dust. The finest particles, about 30 times thinner than a hair, can slip past and reach the deepest parts of the lungs."
-    },
-    {
      "t": "label",
      "p": "Label the picture of the soil filter: soil, cotton plug, muddy salt water going in, water coming out.",
      "a": "Muddy salt water poured in at the top, soil in the upper half, cotton plug in the bottle neck, water dripping into the lower half.",
      "why": "A strong answer shows the water going down through the soil, and labels what the soil stops (mud) and what it lets through (dissolved salt).",
      "how": "e3",
      "art": "An unlabelled drawing of a cut plastic bottle with the top half upside down in the bottom half, filled with soil, with four blank label lines."
-    },
-    {
-     "t": "mcq",
-     "p": "In the soil test, the water came out clearer, but it left a white crust when it dried. What did the soil stop?",
-     "opts": [
-      "The mud, but not the dissolved salt",
-      "The salt, but not the mud",
-      "Nothing at all"
-     ],
-     "a": 0,
-     "why": "Soil catches pieces like mud in the gaps between its grains. Salt was dissolved, in pieces far too small to catch, so it went through with the water.",
-     "how": "e3"
     },
     {
      "t": "write",
@@ -1892,18 +1857,6 @@
      "why": "A taller chimney or a fire round the back still makes the same smoke, so somebody else breathes it. Composting, switching off and cleaner fuel make less smoke in the first place."
     },
     {
-     "t": "mcq",
-     "p": "Sana in Pune notices that the far hill is blurry every winter morning, but clear after rain. Why is it clearer after rain?",
-     "opts": [
-      "Rain washes particles out of the air",
-      "Rain makes the hill closer",
-      "Rain makes new air"
-     ],
-     "a": 0,
-     "why": "Raindrops catch dust and soot as they fall and bring them to the ground. That is one way nature cleans the air.",
-     "how": "a4"
-    },
-    {
      "t": "truefalse",
      "p": "Opening the kitchen window or running the exhaust fan while frying helps the air in the kitchen.",
      "a": true,
@@ -1922,14 +1875,14 @@
        "says": "The coil fills our room with smoke all night. We breathe it for hours."
       },
       {
-       "who": "Paati, the grandmother",
+       "who": "Ammamma, the grandmother",
        "says": "We used to sleep under a net. No mosquitoes and no smoke."
       }
      ],
      "ask": "Who do you agree with? Give a reason from this unit. Then say what the others have right.",
      "lines": 5,
      "a": "A strong answer sees that both dangers are real: dengue is serious, and coil smoke is full of fine particles. It may choose the net because it solves both problems, and it gives each person credit for their point.",
-     "why": "This is a real trade-off. The mother is right that mosquitoes are dangerous. Ishita is right about the smoke. Paati's net removes both problems, though a net must be tucked in well to work."
+     "why": "This is a real trade-off. The mother is right that mosquitoes are dangerous. Ishita is right about the smoke. Ammamma's net removes both problems, though a net must be tucked in well to work."
     },
     {
      "t": "write",
@@ -1939,24 +1892,49 @@
      "why": "A strong answer keeps everything the same except the place, says how long, and says how to compare the results."
     },
     {
-     "t": "fill",
-     "p": "Black particles from burning diesel, wood or rubbish are called ____.",
-     "a": [
-      "soot"
-     ],
-     "why": "Soot is what the black specks on the sticky card mostly are. It forms when something burns without enough air."
-    },
-    {
      "t": "mcq",
-     "p": "On the cotton from Gurpreet's leaf wipe, the top of the leaf was grey and the underside was nearly white. What does this tell us about most of the dust?",
+     "p": "Which mask stops most of the fine particles (PM2.5) in smoky air?",
      "opts": [
-      "It falls down and settles on surfaces that face up",
-      "It is made by the leaf",
-      "It floats up from the ground"
+      "A well-fitted N95 mask",
+      "A thin cloth handkerchief",
+      "Holding your breath"
      ],
      "a": 0,
-     "why": "Most dust is heavy enough to settle slowly, so it lands on tops. Only the finest specks float about and stick underneath.",
-     "how": "e2"
+     "why": "A cloth stops big dust, but fine particles slip through its gaps. A well-fitted N95 mask stops most of them."
+    },
+    {
+     "t": "truefalse",
+     "p": "Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world.",
+     "a": true,
+     "why": "True. The smoke is full of fine particles that people breathe for hours every day. Cooking on gas makes far less smoke."
+    },
+    {
+     "t": "write",
+     "p": "A building site next door covers your window sill with grey dust. Suggest two things the builders could do to make less dust.",
+     "lines": 3,
+     "a": "For example: cover the sand heaps, spray water on the ground, cover lorries that carry sand, or put a screen round the site.",
+     "why": "A strong answer suggests changes that stop the dust being made or blown, not just 'tell them to be careful'."
+    },
+    {
+     "t": "fill",
+     "p": "Salt that is dissolved in water has broken into pieces too small to ____.",
+     "a": [
+      "see"
+     ],
+     "why": "Dissolved means broken into pieces too small to see, spread through the water. The same pieces are too small for soil to catch."
+    },
+    {
+     "t": "write",
+     "p": "Your city's AQI is 40 on an ordinary day and 300 on the morning after a festival with many crackers and bonfires. Say two things your family could do on the second day.",
+     "lines": 4,
+     "a": "For example: keep the windows closed for a while, stay indoors instead of playing outside, wear a well-fitted mask if you go out, or skip burning anything at home.",
+     "why": "A strong answer gives changes that lower how much dirty air the family breathes on that day."
+    },
+    {
+     "t": "truefalse",
+     "p": "Burning rubbish is a good way to get rid of it, because it disappears.",
+     "a": false,
+     "why": "False. The smoke goes into the air, and ash and metal bits are left on the land. Nothing disappears: it only changes form and moves."
     }
    ]
   },
@@ -1975,17 +1953,6 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "A factory builds a taller chimney, and the air near the factory gets cleaner. What has happened to the smoke?",
-     "opts": [
-      "The wind carries it further away, so other people breathe it",
-      "The tall chimney destroys the smoke",
-      "The smoke turns into clean air higher up"
-     ],
-     "a": 0,
-     "why": "A taller chimney puts the smoke higher, where the wind spreads it over a wider area. The same amount of smoke is still made. It only lands somewhere else."
-    },
-    {
      "t": "perspective",
      "p": "A building in Chennai is planning its Bhogi morning.",
      "views": [
@@ -1994,8 +1961,8 @@
        "says": "The bonfire is our tradition. My mother and grandmother lit it. Without the fire, it isn't Bhogi."
       },
       {
-       "who": "Kavya, aged 9",
-       "says": "Last Bhogi my sticky card was the greyest it has ever been, and flights were stopped by the smoke."
+       "who": "Meera, aged 9",
+       "says": "Last Bhogi the sky was grey, and flights at the airport were delayed by the smoke. We can keep Bhogi without it."
       },
       {
        "who": "Farhan, the building secretary",
@@ -2126,7 +2093,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi puts a sticky card on top of her kitchen cupboard for two days. It catches oily, sticky specks. Where did they most likely come from?",
+     "p": "Rekha, a mother in Pune, puts a sticky card on top of her kitchen cupboard for two days. It catches oily, sticky specks. Where did they most likely come from?",
      "opts": [
       "Frying and tadka on the stove",
       "Dust from the road",
@@ -2135,6 +2102,13 @@
      "a": 0,
      "why": "Hot oil gives off tiny droplets of oil and smoke. They float in the kitchen air and stick to high surfaces. That is why kitchen tops get sticky.",
      "how": "p1"
+    },
+    {
+     "t": "write",
+     "p": "Pick one fix from this unit that costs money and one that costs nothing. Which would more families really do? Why?",
+     "lines": 4,
+     "a": "For example: a net costs money but switching off the engine at a signal costs nothing. A strong answer weighs cost, habit and how much smoke each one really stops.",
+     "why": "A strong answer is honest about what families can afford and still keeps the smoke or dust in mind."
     }
    ]
   }
@@ -2149,7 +2123,7 @@
  ],
  "spotted": [
   {
-   "text": "A grey layer on the top of a ceiling fan blade, which you can see from a ladder.",
+   "text": "A grey layer on the top of a ceiling fan blade, which a grown-up can see by standing on a steady stool.",
    "art": "A ceiling fan seen from above, with a thick grey line of dust along the top of one blade."
   },
   {
@@ -2193,7 +2167,7 @@
  ],
  "ask_kids": [
   "Can you see the far water tank or tower from our window today? Is it sharp or blurry?",
-  "What colour do you think the top of our ceiling fan is? Shall we check?",
+  "What colour do you think the top of our ceiling fan blade is? A grown-up can check it from a stool.",
   "Which part of our home do you think has the dustiest air?",
   "That bus gave off black smoke. Where do you think the smoke goes after that?",
   "Why do you think the leaves on that tree look grey today?",
@@ -2220,15 +2194,11 @@
   },
   {
    "j": "Why did the cloud of smoke get lost?",
-   "a": "It had no sense of direction, it went wherever the wind blew."
+   "a": "It had no sense of direction. It went wherever the wind blew."
   },
   {
    "j": "What is a tissue's least favourite day?",
    "a": "The day after Diwali."
-  },
-  {
-   "j": "Why did the money plant never get dusty in the rain?",
-   "a": "Their leaves were too slippery for it."
   },
   {
    "j": "What did the river say to the plastic bag?",
@@ -2245,15 +2215,11 @@
   {
    "j": "Why did the compost pit win the Bhogi prize?",
    "a": "It took all the old things and made no smoke."
-  },
-  {
-   "j": "Why did the borewell refuse the salty water?",
-   "a": "It had already had its fill."
   }
  ],
  "maths": [
   {
-   "problem": "Kavya counts 35 specks in the top left corner of her window card's square. The square has 4 equal corners, and the specks look evenly spread. About how many specks are in the whole square?",
+   "problem": "Kavya, a girl aged 9, counts 35 specks in the top left corner of her window card's square. The square has 4 equal corners, and the specks look evenly spread. About how many specks are in the whole square?",
    "answer": "About 140 specks.",
    "explain": "One corner is a quarter of the square. If one quarter holds 35, four quarters hold 4 times 35. 4 times 35 is 140. Check: 35 + 35 + 35 + 35 = 140.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2262,7 +2228,7 @@
    "why_maths": "Counting every speck would take too long. Counting a part and multiplying gives a good estimate quickly."
   },
   {
-   "problem": "In one corner of each square, Meenakshi counted: card A on the sill, 35 specks. Card B upright on the grill, 12 specks. Card C in the dabba, 1 speck. How many more specks did card A catch than card B? Why might card C have 1 speck, not 0?",
+   "problem": "Meenakshi, a girl in Class 3 in Madurai, left three sticky cards for three days. In one corner of each square, she counted: card A on the sill, 35 specks. Card B upright on the grill, 12 specks. Card C in the dabba, 1 speck. How many more specks did card A catch than card B? Why might card C have 1 speck, not 0?",
    "answer": "23 more specks. Card C may have caught a speck while the card was being made, before it went in the dabba.",
    "explain": "35 minus 12 is 23. Card C shows what gets on a card without the outside air, such as a speck from the room while the jelly was spread. That is why a control is useful: it tells us how much to ignore.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2294,7 +2260,7 @@
    "why_maths": "A bar chart shows at a glance which place caught most, and subtracting tells us by how much."
   },
   {
-   "problem": "Sana checked her city's AQI each morning. Monday 85, Tuesday 92, Wednesday 160, Thursday 110, Friday 70. It rained on Thursday night. Which morning had the dirtiest air? How much lower was Friday than Wednesday? What might explain Friday?",
+   "problem": "Sana, a girl in Pune, checked her city's AQI each morning. Monday 85, Tuesday 92, Wednesday 160, Thursday 110, Friday 70. It rained on Thursday night. Which morning had the dirtiest air? How much lower was Friday than Wednesday? What might explain Friday?",
    "answer": "Wednesday had the dirtiest air. Friday was 90 lower. The rain on Thursday night probably washed particles out of the air.",
    "explain": "The highest number, 160, is the dirtiest. 160 minus 70 is 90. Rain catches particles as it falls, so the morning after rain is often clearer.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2379,9 +2345,9 @@
    "url": "",
    "used_in": [
     "e1",
-    "p1"
-   ],
-   "plan": "Most homes already have some. Any chemist or general store sells it."
+    "p1",
+    "c1"
+   ]
   },
   {
    "id": "b-lens",
@@ -2392,8 +2358,7 @@
    "used_in": [
     "e1",
     "p1"
-   ],
-   "plan": "Used again in many science units, for looking at seeds, insects, salt crystals and soil."
+   ]
   }
  ],
  "warmup": [
@@ -2506,14 +2471,14 @@
   "deep_truth": {
    "truth": "After one day, your window card still looked white. After three days, its square was grey with specks. No single speck was big enough to notice, but together they covered the card. Pollution grows the same way, from small amounts added every day, until rain and wind cannot clear them.",
    "habit": "We look for pollution in big, dramatic things, like a black cloud from a chimney. But most of it builds up from tiny amounts, from every vehicle, stove and fire, each too small to notice on its own.",
-   "evidence": "On day 2 the cards still looked almost white. By day 3 the window card was grey, while the card in the closed dabba stayed white, so the specks came from the air and had piled up over the days. Clair Patterson's Greenland ice showed the same thing over many years: lead from petrol, too little to see in one year's snow, building up layer after layer."
+   "evidence": "On day 2 the cards still looked almost white. By day 4, three days after you put them out, the window card was grey, while the card in the closed dabba stayed white, so the specks came from the air and had piled up over the days. Clair Patterson's Greenland ice showed the same thing over many years: lead from petrol, too little to see in one year's snow, building up layer after layer."
   },
   "three": {
    "who_am_i": "You are a body that air flows through all day. Some of what the air carries stays in you.",
    "what_is_life": "Every living thing that meets the air, from a crow to a tulsi plant, meets the same dust.",
    "what_is_this_world": "The air over a city is shared. Smoke made in one lane ends up in the breath of people far away."
   },
-  "thread": "There is one air over a city, the same air for every creature in it. Every breath is drawn from it: yours, the crow's on the window sill, and the air taken in by the neem tree's leaves. When one person burns a tyre, the smoke does not stay theirs. It spreads into that one air and comes back as many breaths, in many noses and on many leaves. One air, shared by countless lives, is a plain, everyday picture of the One becoming the many.",
+  "thread": "There is one air over a city, the same air for every creature in it. Every breath is drawn from it: yours, the crow's on the window sill, and the air taken in by the neem tree's leaves. When one person burns a tyre, the smoke does not stay theirs. It spreads into that one air and comes back as many breaths, in many noses and on many leaves.",
   "teachings": [
    {
     "source": "Atharva Veda 12.1.12 (the Prithvi Sukta, the hymn to the Earth)",
@@ -2558,7 +2523,7 @@
   ],
   "art": "A child sitting by an open window with eyes closed, breathing in, with faint lines of air flowing from a neem tree outside, past a crow on the sill, into the child's nose, and out again into the city."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat today, with the materials listed. The Sticky Card Test uses card from an empty biscuit or medicine box, petroleum jelly or coconut oil, and a steel dabba as the control. A window sill on the road side of a city flat reliably catches visible specks within three days. On a high floor or a quiet lane there are fewer, so the step says to leave the cards two more days, or to rate the colour if counting is hard. A grown-up does the taping, because children must not lean out of windows, and the card goes under the sunshade if rain is likely, because rain washes dust off. Counting one corner of the square keeps counting to a few minutes. The Leaf Wipe needs one potted plant that has stood near a window for a week, which most flats have. The soil filter needs a cut bottle, done by a grown-up, and two cups of soil from a pot. Two teaspoons of salt in a glass leave a thick white crust when a spoonful dries in the sun in a few hours, and the step gives a faster tawa method for a cloudy day. Nobody tastes any water. Your Nose, the Dust Catcher depends on the day: a tissue may stay white after a trip in clean air, and the step says that is good news. Source Snap works for one child alone. The spine (intro, the White Cloth Wipe, the Sticky Card Test, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, with the cards left out for three days in between.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat today, with the materials listed. The Sticky Card Test uses card from an empty biscuit or medicine box, petroleum jelly or coconut oil, and a steel dabba as the control. A window sill on the road side of a city flat reliably catches visible specks within three days. On a high floor or a quiet lane there are fewer, so the step says to leave the cards two more days, or to rate the colour if counting is hard. A grown-up does the taping, because children must not lean out of windows, and the card goes under the sunshade if rain is likely, because rain washes dust off. Counting one corner of the square keeps counting to a few minutes. The Leaf Wipe needs one potted plant that has stood near a window for a week, which most flats have. The soil filter needs a cut bottle, done by a grown-up, and two cups of soil from a pot. Two teaspoons of salt in a glass leave a thick white crust when a spoonful dries in the sun in a few hours, and the step gives a faster tawa method for a cloudy day. Nobody tastes any water. Your Nose, the Dust Catcher depends on the day: a tissue may stay white after a trip in clean air, and the step says that is good news. Source Snap works for one child alone. The spine (intro, the White Cloth Wipe, the Sticky Card Test, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, with the cards left out for three days in between (put out on day 1, collected on day 4).",
  "how_we_found_out": {
   "story": "In the 1950s, Clair Patterson, an American scientist, set out to measure the age of the Earth from tiny amounts of lead in rocks. He kept getting wrong results, because lead from the air was getting into his samples. It was on the dust, his tools, even his hands. So he built one of the world's first very clean labs, with filtered air and scrubbed surfaces, and found the Earth's age: about 4.55 billion years. But a question stayed with him. Where was all that lead in the air coming from? Most experts, such as Robert Kehoe, who worked with the makers of leaded petrol, said the lead in air and in people's bodies was natural and had always been there. Patterson tested this. With his co-workers Masayo Murozumi and Tsaihwa Chow, he measured lead in ice from deep in the Greenland ice sheet. Each year's snow is a layer, so old layers hold old air. Snow from long ago had almost no lead. Recent layers had far more, and the rise was steepest after leaded petrol came into use. The lead was not natural. Countries slowly stopped selling leaded petrol. India stopped in 2000, and the whole world had stopped by 2021.",
   "who": "Clair Patterson, an American scientist, with his co-workers Masayo Murozumi and Tsaihwa Chow; Robert Kehoe, who held the opposite view",

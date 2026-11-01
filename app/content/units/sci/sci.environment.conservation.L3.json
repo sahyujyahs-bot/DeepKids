@@ -373,7 +373,7 @@
   {
    "id": "e1",
    "title": "The Cutting Test: what grows back, wheat or moong?",
-   "mins": 52,
+   "mins": 54,
    "days": 13,
    "context": "In this experiment you grow wheat and moong side by side in one tub of soil. When both are tall, you cut them at the same height, like a cow grazing. Then you watch for four days to see which one grows back.",
    "question": "If we cut wheat and moong at the same height, which one grows back?",
@@ -391,7 +391,7 @@
    ],
    "materials": [
     {
-     "item": "4 tablespoons of whole wheat grains (gehu). Whole jowar or bajra also work.",
+     "item": "6 tablespoons of whole wheat grains (gehu). Whole jowar or bajra also work.",
      "qty": 1,
      "buy": "b-wheat"
     },
@@ -429,7 +429,7 @@
      "qty": 2
     }
    ],
-   "safety": "A grown-up makes the holes in the tub. Wash your hands after touching soil. Don't eat the soaked grains.",
+   "safety": "A grown-up makes the holes in the tub with a heated skewer or the tip of a scissor. Mind the hot metal.",
    "schedule": [
     {
      "day": 1,
@@ -474,7 +474,7 @@
     {
      "day": 13,
      "mins": 10,
-     "what": "Measure for the last time. Say what you think, what you saw and why. Keep the tub for the next experiments."
+     "what": "Measure for the last time. Say what you think, what you saw and why. Keep both tubs for the next experiments."
     }
    ],
    "record": "Fill in the table each time. On the last day, draw one cut wheat plant and one cut moong plant, side by side, with their heights.",
@@ -505,7 +505,7 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the Cutting Test. You soak the seeds so they start to grow.",
-     "do": "1. Put 2 tablespoons of wheat in one bowl and 2 tablespoons of moong in the other. 2. Cover each with water. 3. Leave them overnight.",
+     "do": "1. Put 6 tablespoons of wheat in one bowl and 2 tablespoons of moong in the other. 2. Cover each with water. 3. Leave them overnight.",
      "say": "A cow eats the same field every day, and the field doesn't run out. Today we start a tiny field of our own, to find out why.",
      "kid": "Put wheat in one bowl. Put moong in the other. Cover them with water. Leave them till tomorrow.",
      "parent": "Soaking makes the seeds swell and start growing faster. Any whole wheat from a grocery shop works, but not atta or broken wheat (dalia)."
@@ -514,7 +514,7 @@
      "id": "s2",
      "mins": 12,
      "context": "This is the sowing step of the Cutting Test. You plant the soaked seeds in one tub.",
-     "do": "1. Fill the tub with soil to about 2 centimetres from the top. 2. Put a label W on the left half and M on the right half. 3. Spread the wheat thickly over the W half. 4. Spread the moong over the M half, about a finger-width apart. 5. Cover with a thin layer of soil. 6. Water gently until the soil is damp, not muddy. 7. Put the tub on its plate by a bright window. 8. Fill the second tub the same way and spread wheat over all of it. Keep it next to the first. You will need it for the Bare Tub Test.",
+     "do": "1. Fill the tub with soil to about 2 centimetres from the top. 2. Put a label W on the left half and M on the right half. 3. Spread 2 tablespoons of the soaked wheat thickly over the W half. 4. Spread the moong over the M half, about a finger-width apart. 5. Cover with a thin layer of soil. 6. Water gently until the soil is damp, not muddy. 7. Put the tub on its plate by a bright window. 8. Fill the second tub the same way and spread the rest of the soaked wheat over all of it. Keep it next to the first. You will need it for the Bare Tub Test.",
      "say": "We grow both in the same tub, so they get the same soil, water and light. Then the only difference is the kind of plant.",
      "kid": "Fill the tub with soil. Wheat goes on one side. Moong goes on the other. Cover them with a little soil. Water gently. Now sow a second tub with only wheat.",
      "adult": true,
@@ -594,7 +594,7 @@
      "do": "1. Make a bar for each plant on the last day. 2. Ask your child to say or write three things: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: wheat grows back after cutting and moong doesn't. What I saw: the cut wheat grew from 2 to 7 centimetres in four days, and the moong stayed at 2. Why: wheat grows from the bottom of the leaf, so cutting the top doesn't stop them. Now read the card 'Why grass grows back after grazing'. Keep the tub for the Dot Test and the Bare Tub Test."
+     "parent": "A good answer: What I think: wheat grows back after cutting and moong doesn't. What I saw: the cut wheat grew from 2 to 7 centimetres in four days, and the moong stayed at 2. Why: wheat grows from the bottom of the leaf, so cutting the top doesn't stop them. Now read the card 'Why grass grows back after grazing'. Keep both tubs: the Dot Test uses the 5 uncut wheat plants, and the Bare Tub Test uses the second tub."
     }
    ]
   },
@@ -628,7 +628,6 @@
      "qty": 1
     }
    ],
-   "safety": "Press the pen gently, so the leaf doesn't tear.",
    "schedule": [
     {
      "day": 1,
@@ -658,7 +657,7 @@
      "mins": 10,
      "context": "This is the first step of the Dot Test. You mark young wheat leaves with dots.",
      "do": "1. Choose 3 young wheat leaves. 2. Hold the ruler upright in the soil beside each leaf. 3. Put a small dot on the leaf at 2 centimetres, and another at 4 centimetres. 4. Write down the heights and the gap, which is 2 centimetres.",
-     "say": "If a leaf grows at the top, the dots stay where they are. If the leaf grows in the middle, the dots move apart. What if she grows at the bottom? What do you think will happen? Why?",
+     "say": "If a leaf grows at the top, the dots stay where they are. If the leaf grows in the middle, the dots move apart. What if the leaf grows at the bottom? What do you think will happen? Why?",
      "kid": "Put a dot at 2 centimetres. Put another at 4 centimetres. Do it on 3 leaves. What will the dots do?"
     },
     {
@@ -679,7 +678,7 @@
       "a": 2,
       "why": "The gap did not change, so the part between the dots did not grow. The whole marked part moved up, so new leaf was added underneath, near the soil. If the tip were growing, the dots would not move up at all."
      },
-     "parent": "The lower dot usually rises by 1 to 3 centimetres in two days while the gap stays about the same. If the lower dot was very close to the soil, the gap may grow a little, because the growing part is just there. That is a useful clue too."
+     "parent": "The lower dot usually rises by 1 to 3 centimetres in two days while the gap stays about the same. If the lower dot was very close to the soil, the gap may grow a little, because the growing part is just there. That is a useful clue too. If the dots barely rose, the leaf may be too old to be growing fast. Try a younger leaf, and say so in your notes."
     }
    ]
   },
@@ -699,7 +698,7 @@
    ],
    "materials": [
     {
-     "item": "the second tub from the Cutting Test, sown all over with wheat, 2 or more weeks old and never cut",
+     "item": "the second tub from the Cutting Test, sown all over with wheat, at least 10 days old and never cut",
      "qty": 1
     },
     {
@@ -724,7 +723,7 @@
      "qty": 4
     }
    ],
-   "safety": "Do this in the bathroom or on the balcony, where mud can be washed away. A grown-up makes the holes in the bottle cap. Wash your hands afterwards.",
+   "safety": "A grown-up makes the holes in the bottle cap with a heated skewer or a nail. Do this in the bathroom or on the balcony, where mud can be washed away.",
    "schedule": [
     {
      "day": 1,
@@ -812,58 +811,135 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A board with four fields in a square, and a round counter from 1 to 10",
+     "title": "A board with four fields in a square, and ten round boxes",
      "items": [
       "Field 1: by the tank",
       "Field 2: by the coconut trees",
       "Field 3: by the temple",
       "Field 4: by the road",
-      "A row of boxes marked Round 1 to Round 10"
+      "Round 1",
+      "Round 2",
+      "Round 3",
+      "Round 4",
+      "Round 5",
+      "Round 6",
+      "Round 7",
+      "Round 8",
+      "Round 9",
+      "Round 10"
      ]
     },
     {
      "kind": "tokens",
      "title": "20 grass tokens and 1 herd token",
      "items": [
-      "20 grass tokens: dried rajma, small buttons or torn green paper",
-      "1 herd token: a coin or a bottle cap"
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Grass token: dried bean, button or torn green paper",
+      "Herd token: a coin or a bottle cap"
      ]
     },
     {
      "kind": "cards",
      "title": "16 question cards to cut out",
      "items": [
-      "Where does a grass leaf grow from: the top or the bottom? (The bottom, near the soil)",
-      "Why does a moong stem stop growing taller when you cut the tip? (Moong grows from the tip of the stem)",
-      "What is overgrazing? (Animals eating plants faster than they grow back)",
-      "What holds soil in place when it rains? (Plant roots, and leaves that soften the drops)",
-      "Why does a buffalo lie in a pond on a hot day? (To cool down. She has dark skin and few sweat glands)",
-      "What does a silkworm eat? (Mulberry leaves)",
-      "Name one thing bees do for crops. (They pollinate the flowers, so the crops make fruit and seed)",
-      "Why is a plastic bag of food scraps on the road dangerous for a cow? (She can swallow the plastic, and it stays in her stomach)",
-      "What is conservation? (Using something carefully, so that it lasts)",
-      "What is groundwater? (Water that soaks into the ground and fills the gaps between soil and rock)",
-      "1 millimetre of rain falls on 1 square metre of roof. How much water is that? (1 litre)",
-      "Name one way to save water while brushing your teeth. (Use a mug, or close the tap)",
-      "Which state made rainwater harvesting compulsory for buildings in 2003? (Tamil Nadu)",
-      "Appiko means 'hug' in which language? (Kannada)",
-      "What happened at Keoladeo when the buffaloes were sent out? (A wetland grass spread over the water)",
-      "Name an Indian law that protects animals from cruelty. (The Prevention of Cruelty to Animals Act, 1960)"
+      {
+       "f": "Why did Athai tie her goats and move them to a new place every few days?",
+       "b": "Goats can eat plants down to the roots. Moving them gives the plants time to grow back."
+      },
+      {
+       "f": "Why does a cover of dry leaves on soil help in heavy rain?",
+       "b": "The leaves soften the drops, so they do not knock the soil loose."
+      },
+      {
+       "f": "Which rainforest in Kerala was saved from a dam by a people's campaign?",
+       "b": "Silent Valley."
+      },
+      {
+       "f": "Which movement of the Himalayas did the Appiko movement follow?",
+       "b": "The Chipko movement."
+      },
+      {
+       "f": "What do families in Tamil Nadu do for their cattle on Mattu Pongal?",
+       "b": "They bathe them, paint their horns, put on garlands and feed them pongal."
+      },
+      {
+       "f": "Water from washing rice can still be used. How?",
+       "b": "To water plants."
+      },
+      {
+       "f": "What is a recharge pit?",
+       "b": "A pit of stones and sand that lets rain from a terrace soak into the ground."
+      },
+      {
+       "f": "A balcony is 3 metres long and 2 metres wide. 10 millimetres of rain falls. How many litres land on it?",
+       "b": "60 litres. 6 square metres times 10."
+      },
+      {
+       "f": "Why does a moong stem stop growing taller when you cut the tip?",
+       "b": "Moong grows from the tip of the stem."
+      },
+      {
+       "f": "Why is a plastic bag of food scraps on the road dangerous for a cow?",
+       "b": "She can swallow the plastic, and it stays in her stomach."
+      },
+      {
+       "f": "What is groundwater?",
+       "b": "Water that soaks into the ground and fills the gaps between soil and rock."
+      },
+      {
+       "f": "Name one way to save water while brushing your teeth.",
+       "b": "Use a mug, or close the tap."
+      },
+      {
+       "f": "Which state made rainwater harvesting compulsory for buildings in 2003?",
+       "b": "Tamil Nadu."
+      },
+      {
+       "f": "What happened at Keoladeo when the buffaloes were sent out?",
+       "b": "A wetland grass spread over the water."
+      },
+      {
+       "f": "Name one thing bees do for crops.",
+       "b": "They pollinate the flowers, so the crops make fruit and seed."
+      },
+      {
+       "f": "Name an Indian law that protects animals from cruelty.",
+       "b": "The Prevention of Cruelty to Animals Act, 1960."
+      }
      ]
     }
    ],
    "rules": [
     "Put 5 grass tokens on each field. Put the herd on Field 1. Put a marker on Round 1.",
-    "Each round, the herd eats 2 grass tokens from the field they are on. Take them off the board.",
-    "Then every field that still has at least 1 token grows 1 token back. No field can hold more than 5.",
+    "Each round has three parts. First, the herd eats 2 grass tokens from the field they are on. Take them off the board.",
+    "Second, every field that still has at least 1 token grows 1 token back. No field can hold more than 5.",
+    "Third, you may try to move the herd. Read a question card and answer it together, then check the back. Right answer: move the herd to any field. Wrong answer: the herd stays where it is. Put the card at the bottom of the pile.",
     "A field with 0 tokens is bare. A bare field never grows back in this game, because the rain has washed its soil away.",
-    "Before the next round, you may move the herd to another field. To move, read a question card and answer it. Right answer: move. Wrong answer: the herd stays where they are.",
     "If the herd is on a field with fewer than 2 tokens, they eat what is there and go hungry for the rest.",
-    "The team wins if the herd never goes hungry and no field turns bare for 10 rounds. Playing alone works the same way."
+    "The team wins if no field turns bare and the herd never goes hungry for 10 rounds. If a field turns bare or the herd goes hungry, the team loses: set up again and try a new plan.",
+    "Two players: take turns to read and answer the cards, and choose the moves together. Four players: the same, one turn each. Playing alone works the same way."
    ],
    "setup": [
     {
-     "art": "A paper board with four fields drawn in a square, each with 5 dried rajma beans, and a coin on Field 1.",
+     "art": "A paper board with four fields drawn in a square, each with 5 dried dried beans, and a coin on Field 1.",
      "caption": "1. Put 5 grass tokens on each field and the herd on Field 1."
     },
     {
@@ -880,7 +956,7 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Four Fields. You set up the board and the tokens.",
-     "do": "1. Draw or print the board. 2. Put 5 tokens on each field. 3. Put the herd on Field 1. 4. Shuffle the question cards.",
+     "do": "1. Draw or print the board. 2. Put 5 tokens on each field. 3. Put the herd on Field 1. 4. Shuffle the question cards and put them in a pile.",
      "say": "We are herders, all on one team. Our cows must eat every day for 10 rounds. Grass grows back, but a bare field is lost.",
      "kid": "Put 5 beans on each field. Put the coin on Field 1. The coin is your herd of cows."
     },
@@ -908,7 +984,7 @@
      "id": "s3",
      "mins": 12,
      "context": "This is the main game of Four Fields. You play 10 rounds and move the herd to keep every field alive.",
-     "do": "Play 10 rounds by the rules. Before each move, the player reads a question card and answers it.",
+     "do": "Play 10 rounds by the rules. Each round, the herd eats, the grass grows back, and you read a question card to try to move.",
      "say": "Where should the herd go next? Which field has had the longest rest?",
      "kid": "Play 10 rounds. Answer a card to move. Try to keep every field green.",
      "parent": "Moving every round or two keeps all four fields alive. A wrong answer keeps the herd in place, which makes the game harder. That is fine. Talk about which field to choose."
@@ -948,22 +1024,30 @@
      "kind": "cards",
      "title": "16 cards: 8 animal cards and 8 need cards",
      "items": [
-      "Buffalo (gives milk) | A pond, a shower or a wet floor on hot days, because she heats up fast",
-      "Hen (gives eggs) | A dry, clean coop, because damp and dirt bring disease",
-      "Silkworm (gives silk) | Fresh mulberry leaves every day",
-      "Honeybee (gives honey and pollinates crops) | Flowers that have not been sprayed with poison",
-      "Bullock (pulls a cart or plough) | Rest and water in the hottest hours",
-      "Dog (guards the home) | A rabies vaccine every year",
-      "Cow (gives milk) | Clean food, and never plastic bags from the road",
-      "Sheep (gives wool) | A haircut, called shearing, so her wool does not get too thick and hot"
+      "Buffalo (gives milk)",
+      "Hen (gives eggs)",
+      "Silkworm (gives silk)",
+      "Honeybee (gives honey and pollinates crops)",
+      "Bullock (pulls a cart or plough)",
+      "Dog (guards the home)",
+      "Cow (gives milk)",
+      "Sheep (gives wool)",
+      "Needs a pond, a shower or a wet floor on hot days, because she heats up fast",
+      "Needs a dry, clean coop, because damp and dirt bring disease",
+      "Needs fresh mulberry leaves every day",
+      "Needs flowers that have not been sprayed with poison",
+      "Needs rest and water in the hottest hours",
+      "Needs a rabies vaccine every year",
+      "Needs clean food, and never plastic bags from the road",
+      "Needs a haircut, called shearing, so her wool does not get too thick and hot"
      ]
     }
    ],
    "rules": [
     "Cut the 16 cards and lay them face down in 4 rows.",
-    "Turn over 2 cards. If they are an animal and her need, say why she needs this, and keep the pair.",
-    "If they don't match, turn them back. The next player has a turn.",
-    "Playing alone: count how many turns you take to find all 8 pairs. Next time, try to beat it."
+    "Turn over 2 cards. If they are an animal and what she needs, say why she needs that, and keep the pair.",
+    "If they do not match, or you cannot say why, turn them back. The next player has a turn.",
+    "The game ends when all 8 pairs are found. With two or four players, the player with the most pairs wins. With one player, count your turns and try to beat that next time."
    ],
    "setup": [
     {
@@ -1117,7 +1201,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use the caught water to water a plant afterwards, so none is wasted.",
    "schedule": [
     {
      "day": 1,
@@ -1152,7 +1235,7 @@
      "do": "1. Pour the water into the measuring cup. 2. Write the millilitres. 3. Multiply by 6 for an hour, then by 24 for a day.",
      "say": "10 minutes, 6 times, is an hour. An hour, 24 times, is a day. How much is that?",
      "kid": "Measure the water. Times 6 is one hour. Times 24 is one day.",
-     "parent": "One drip a second often gives about 30 to 50 millilitres in 10 minutes. That is about 4 to 7 litres a day, a full bucket every few days. A tap washer costs a few rupees."
+     "parent": "One drip a second often gives about 30 to 50 millilitres in 10 minutes. That is about 4 to 7 litres a day, a full bucket every few days. A tap washer costs a few rupees. Use the caught water for a plant, so none is wasted."
     }
    ]
   },
@@ -1242,7 +1325,6 @@
      "qty": 1
     }
    ],
-   "safety": "Handle silk and honey jars carefully.",
    "schedule": [
     {
      "day": 1,
@@ -1313,7 +1395,6 @@
      "qty": 1
     }
    ],
-   "safety": "Help with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -1362,7 +1443,7 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of the Grazing Diary. You choose and cut the plants.",
-     "do": "1. Choose 6 wheat plants. 2. Mark 3 with a stick labelled 2 cm, and 3 with a stick labelled 1 cm. 3. Cut each group at its height.",
+     "do": "1. Choose 6 cut wheat plants of about the same height. 2. Mark 3 with a stick labelled 2 cm, and 3 with a stick labelled 1 cm. 3. Cut each group at its height.",
      "say": "A gentle cow takes the top. A hungry one bites close to the ground. Which plants will grow back best? Why do you think so?",
      "kid": "Mark 3 plants for 2 centimetres. Mark 3 for 1 centimetre. Cut them. Which will grow back best?",
      "adult": true
@@ -1497,7 +1578,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Lakshmi says, 'When a cow eats grass, that grass plant is finished.' Is she right?",
+     "p": "Lakshmi, a girl in your class, says, 'When a cow eats grass, that grass plant is finished.' Is she right?",
      "a": false,
      "why": "False. The cow bites off the top, but the growing point at the bottom of each leaf is left, so the grass grows again. A strong answer says where the grass grows from."
     },
@@ -1636,17 +1717,17 @@
      "p": "Two sisters in Coimbatore are looking after their grandmother's cows for a week.",
      "views": [
       {
-       "who": "Kavya, aged 9",
+       "who": "Janani, aged 9",
        "says": "Grass grows back, so we can keep the cows in the same small field all week."
       },
       {
-       "who": "Divya, aged 7",
+       "who": "Nila, aged 7",
        "says": "We should move them to a new field every two days."
       }
      ],
      "ask": "Which sister do you agree with? Use what you found in the Cutting Test. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer says grass does grow back, as Kavya says, but only so fast. If the cows eat a small field faster than it regrows, it turns bare. Moving them gives each field time to grow.",
+     "a": "A strong answer says grass does grow back, as Janani says, but only so fast. If the cows eat a small field faster than it regrows, it turns bare. Moving them gives each field time to grow.",
      "why": "Both have part of it. Grass regrows, and the speed of regrowth decides how long animals can stay."
     },
     {
@@ -1696,7 +1777,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Revathi says, 'To make grass grow back faster, cut it right down at the soil.' What is wrong with her idea?",
+     "p": "Revathi, a girl in your class, says, 'To make grass grow back faster, cut it right down at the soil.' What is wrong with her idea?",
      "lines": 3,
      "a": "The growing point of a grass leaf is at the bottom, near the soil. Cutting right at the soil can damage it, and leaves no green to make food. Grass grows back best when some leaf is left.",
      "why": "A strong answer uses where the growing point is, and why leaves are needed."
@@ -1916,7 +1997,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Selvi wants to test whether a cover of dry leaves stops soil washing away. Plan her fair test. What will she change, and what will she keep the same?",
+     "p": "Nandini wants to test whether a cover of dry leaves stops soil washing away. Plan her fair test. What will she change, and what will she keep the same?",
      "lines": 5,
      "a": "She changes only the cover: one tub with dry leaves, one bare. She keeps the same soil, the same tilt, the same amount of water, poured from the same height for the same time.",
      "why": "A strong answer changes one thing and lists at least three things kept the same."
@@ -1964,7 +2045,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya says, 'If something grows back, we can take it for ever.' Use the Grazing Diary to say whether she is right.",
+     "p": "A friend says, 'If something grows back, we can take it for ever.' Use the Grazing Diary to say whether she is right.",
      "lines": 4,
      "how": "p1",
      "a": "Only partly. The wheat grew back, but after several cuts it grew back less, especially when cut close to the soil. We can take for ever only if we take less than grows back.",
@@ -2081,7 +2162,7 @@
     },
     {
      "t": "write",
-     "p": "Ravi says, 'The water from the wheat tub was clearer because the wheat drank all the rain.' Find the mistake in his thinking.",
+     "p": "Ravi, a boy in your class, says, 'The water from the wheat tub was clearer because the wheat drank all the rain.' Find the mistake in his thinking.",
      "lines": 4,
      "a": "Water still ran out of the wheat tub, so the wheat did not drink it all. It was clearer because the roots held the soil and the leaves softened the drops.",
      "why": "A strong answer uses the evidence that water came out of both tubs."
@@ -2292,7 +2373,7 @@
    "youtube": "7QKw2_VI-ZM",
    "mins": 1,
    "why": "A close-up time lapse of cut grass growing back from the base. It shows what the Cutting Test shows, much faster.",
-   "check": "Id, title and channel found through a YouTube search from here. Not watched: a parent should preview it."
+   "check": "A parent should preview it first."
   },
   {
    "title": "Erosion and Soil",
@@ -2300,7 +2381,7 @@
    "youtube": "im4HVXMGI68",
    "mins": 8,
    "why": "A presenter pours water on trays of bare soil and soil with plants and compares the runoff, like the Bare Tub Test.",
-   "check": "Id, title and channel found through a YouTube search from here. Not watched: a parent should preview it and check that it matches this description."
+   "check": "A parent should preview it first."
   },
   {
    "title": "In Chennai, A Community Harvests 25,000 Litres Of Rain Water In An Hour",
@@ -2308,7 +2389,7 @@
    "youtube": "w8Ad9Cf3EI4",
    "mins": 3,
    "why": "A news report from Chennai about a neighbourhood that catches its rain and sends it into the ground.",
-   "check": "Id, title and channel found through a YouTube search from here. Not watched: a parent should preview it."
+   "check": "A parent should preview it first."
   }
  ],
  "applications": [
@@ -2403,24 +2484,8 @@
    "a": "Cool as a cucumber."
   },
   {
-   "j": "Why did the raindrop go into the pit?",
-   "a": "It wanted to visit the groundwater family."
-  },
-  {
-   "j": "What did the bare field say to the rain?",
-   "a": "Please don't wash me away!"
-  },
-  {
    "j": "Why did the tap go to the doctor?",
    "a": "It had a bad drip."
-  },
-  {
-   "j": "What is a bee's favourite colour?",
-   "a": "Bee-yellow, from all the pollen."
-  },
-  {
-   "j": "Why don't goats ever get bored at dinner?",
-   "a": "They eat almost anything on the menu."
   },
   {
    "j": "Why did the hen want a dry coop?",
@@ -2431,48 +2496,16 @@
    "a": "Don't let my rain go down the drain!"
   },
   {
-   "j": "Why did the silkworm only eat mulberry leaves?",
-   "a": "She was a very fussy eater."
-  },
-  {
    "j": "What is a lawn's favourite day?",
    "a": "Mow-nday, then it grows all week."
-  },
-  {
-   "j": "Why did the soil hold on to the roots?",
-   "a": "Because the roots held on to the soil first."
-  },
-  {
-   "j": "What do you call a cow who saves water?",
-   "a": "A conservation cow. She never lets a drop go to waste."
-  },
-  {
-   "j": "Why did the spring onion grow back so fast?",
-   "a": "They had a head start at the bottom."
-  },
-  {
-   "j": "Why did the bucket smile at the hose?",
-   "a": "Because it used less water to wash the car."
   },
   {
    "j": "What did the herder say to the herd?",
    "a": "Time to moo-ve on!"
   },
   {
-   "j": "Why did the tree hug back in Karnataka?",
-   "a": "Appiko! The people hugged them first."
-  },
-  {
    "j": "Why did the rain gauge feel important?",
    "a": "Everyone was measuring up to it."
-  },
-  {
-   "j": "What did the buffalo say to the mud?",
-   "a": "You're so cool."
-  },
-  {
-   "j": "Why was the field so calm?",
-   "a": "It knew how to grow back after a bad bite."
   }
  ],
  "maths": [
@@ -2523,8 +2556,8 @@
   },
   {
    "problem": "In the Four Fields game, a field has 5 tokens. Each round the herd eats 2 and the field grows 1 back. After how many rounds is it down to 2 tokens? What happens if the herd stays longer?",
-   "answer": "After 3 rounds. If the herd stays, the field soon reaches 0 and turns bare.",
-   "explain": "Each round the field loses 2 and gains 1, so it loses 1 overall. 5, then 4, then 3, then 2. Staying on means 1, then 0.",
+   "answer": "After 3 rounds. If the herd stays one more round, it eats the last 2 tokens and the field is bare.",
+   "explain": "Each round the field loses 2 and gains 1, so it loses 1 overall. 5, then 4, then 3, then 2. In the next round the herd eats the last 2, and nothing is left to grow back.",
    "math_unit": "math.patterns.number-patterns.L3",
    "context": "This is about Four Fields, a game where you move a herd between fields so the grass can grow back.",
    "how": "g1",
@@ -2605,17 +2638,6 @@
     "e3",
     "c1"
    ]
-  },
-  {
-   "id": "b-book",
-   "item": "One Well: The Story of Water on Earth, by Rochelle Strauss",
-   "kind": "book",
-   "why": "A picture book for ages 8 and up that treats all the water on Earth as one shared well.",
-   "url": "https://www.amazon.in/s?k=One+Well+Rochelle+Strauss",
-   "used_in": [
-    "a3"
-   ],
-   "plan": "If bought, read it on the day of the Rain Gauge."
   }
  ],
  "warmup": [
@@ -2766,8 +2788,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/caring-for-the-environment.md: philosophy lines 'actions have consequences', 'stewardship is shared responsibility, small changes matter', and the reading suggestion One Well by Rochelle Strauss",
-   "NIOS Level A Lesson 5, Conservation of Environment (useful animals and their care, conserving the environment and water), from the curriculum mapping"
+   "NIOS Level A Lesson 5, Conservation of Environment (useful animals and their care, conserving the environment and water)"
   ],
   "science": [
    "Grass leaf growth from the basal intercalary meristem: standard plant biology texts, for example Raven, Biology of Plants",
@@ -2779,5 +2800,5 @@
    "Chennai water crisis of 2019, as reported in Indian newspapers (water trains from Jolarpettai)"
   ]
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Whole wheat sprouts reliably within 2 to 3 days in a warm room and reaches 8 to 12 centimetres in about a week, so the cut comes on day 9. In a cold room the steps say to wait longer. Moong seed leaves sit low, so the cut step says to cut below them, so the stump has no leaves left. The Bare Tub Test needs a separate tub of wheat sown on the same day, because the Cutting Test tub is half moong. The rain bottle needs holes made by a grown-up, and the test is done in the bathroom. The Onion Test uses spring onions from any vegetable shop and shows new green in 2 or 3 days. The Drip Count reuses the water for plants. The Rain Gauge depends on a rainy day, so it is not in the spine, and it gives a city rainfall figure to use instead. Both games work for one child alone. The spine fits about 85 minutes, with the Cutting Test spread over 13 days in short daily visits."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Whole wheat sprouts reliably within 2 to 3 days in a warm room and reaches 8 to 12 centimetres in about a week, so the cut comes on day 9. In a cold room the steps say to wait longer. Moong seed leaves sit low, so the cut step says to cut below them if needed, and to write that down. The Bare Tub Test needs a separate tub of wheat sown on the same day, so the Cutting Test sows 6 tablespoons of wheat in all, and that tub is at least 10 days old by then. The rain bottle needs holes made by a grown-up, and the test is done in the bathroom. The Onion Test uses spring onions from any vegetable shop and shows new green in 2 or 3 days. The Drip Count reuses the water for plants. The Rain Gauge depends on a rainy day, so it is not in the spine, and it gives a city rainfall figure to use instead. Both games work for one child alone, and with two or four players. The spine fits about 85 minutes, with the Cutting Test spread over 13 days in short daily visits."
 }

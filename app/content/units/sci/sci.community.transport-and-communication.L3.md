@@ -1,7 +1,7 @@
 # Transport and communication: how people, goods and messages travel
 `sci.community.transport-and-communication.L3`
 
-**Summary.** The rice in your kitchen may have come hundreds of kilometres by truck or train. A phone call reaches Ammamma in Mysuru in less than a second. Transport is how people and goods move from place to place: by road, rail, water, air and pipeline. Communication is how messages and ideas travel: by speech, signs, letters, phones, radio, TV and the internet. In this unit you follow how both grew, from footpaths and boats to metros and satellites. You learn what road signs and traffic lights mean, and how transport dirties the air. Then you test, in a dark room, which clothes a driver can see from furthest away.
+**Summary.** The rice in your kitchen may have come hundreds of kilometres by truck or train. A phone call reaches a relative in Mysuru in less than a second. Transport is how people and goods move from place to place: by road, rail, water, air and pipeline. Communication is how messages and ideas travel: by speech, signs, letters, phones, radio, TV and the internet. In this unit you follow how both grew, from footpaths and boats to metros and satellites. You learn what road signs and traffic lights mean, and how transport dirties the air. Then you test, in a dark room, which clothes a driver can see from furthest away.
 
 **Intro.** *Pick up one packet from your kitchen shelf, such as rice, salt or tea. Read where it was packed. Who carried it to your home, and how?* Almost nothing in your home was made in your home. Salt may come from Thoothukudi or Gujarat. Tea may come from the Nilgiris or Assam. It came by truck, train or ship, and then by a shop's van or a delivery scooter. People also need to send messages: to order the rice, to pay for it, to say 'it has arrived'. In this unit you find out how people learned to carry things and messages further and faster. You also find out how roads keep people safe, and test whether a driver can really see you at night.
 
@@ -27,7 +27,7 @@
 - **One-way communication**: In one-way communication, the message goes from the sender to the receiver, and the receiver cannot answer back straight away. *e.g.* A radio programme, a road sign and a newspaper are one-way.
 - **Two-way communication**: In two-way communication, both people can send and receive messages, so the listener can ask questions. *e.g.* A phone call and a talk at the dinner table are two-way.
 - **Mass communication**: Mass communication sends one message to a very large number of people at once. *e.g.* A cricket match on TV reaches millions of homes at the same time.
-- **Satellite**: A satellite is something that goes round the Earth again and again. People send machines up into space to be satellites. Communication satellites pass on phone, TV and internet signals. *e.g.* Your TV dish points up at a satellite far above the Earth.
+- **Satellite**: A satellite is an object that goes round the Earth again and again. People send machines up into space to be satellites. Communication satellites pass on phone, TV and internet signals. *e.g.* Your TV dish points up at a satellite far above the Earth.
 - **PIN code**: A PIN code is the 6-digit number in an Indian address. PIN stands for Postal Index Number. It tells the post office which area a letter must go to. *e.g.* The PIN code 600001 is for an area in Chennai.
 - **Pollution**: Pollution is anything harmful that we add to air, water or land. Vehicle smoke and loud horns are two kinds of pollution. *e.g.* A bus with an old engine leaves a cloud of black smoke behind.
 - **Exhaust**: Exhaust is the smoke and gas that come out of a vehicle's engine when it burns petrol or diesel. It has carbon dioxide and tiny specks of soot in it. *e.g.* You can smell the exhaust behind a bus at a bus stop.
@@ -54,6 +54,8 @@ Road transport, such as cycles, autos, buses and trucks, goes almost everywhere,
 - e.g. A fisherwoman in Kollam takes her fish to the market in an auto: road transport.
 - e.g. Coal reaches power stations in long goods trains: rail transport.
 - e.g. Big ships carry cars and machines into Chennai port: water transport.
+- e.g. In Guwahati, ferries carry people and bicycles across the wide Brahmaputra river: water transport.
+- e.g. Mumbai's dabbawalas carry thousands of lunch boxes every day by train and by bicycle: rail and road transport working together.
 ### How communication grew · *defined*
 **Definition:** Communication grew from gestures and speech, to drums, smoke and messengers, to writing and the post, and then to electric messages: the telegraph, the telephone, radio, TV and the internet.
 
@@ -80,6 +82,7 @@ A red circle says what you must not do, such as 'No horn' or 'No entry'. A blue 
 
 In big cities, much of the dirty air comes from vehicles. Breathing it for years can make people ill, especially children and old people. Carbon dioxide from engines adds to the gases that are warming the whole Earth. Walking and cycling make no exhaust at all. A full bus or metro carries many people with much less fuel for each person than if they all drove. Electric vehicles give out no exhaust on the road, but their electricity often comes from power stations that burn coal. So the cleanest journey is often the one we walk, cycle or share.
 - e.g. A Chennai Metro train carries hundreds of people at once on electricity.
+- e.g. Kolkata has India's oldest metro, opened in 1984. It carries people on electricity, with no exhaust in the streets.
 - e.g. A cycle ride to the shop makes no smoke and no noise.
 - e.g. Some hospital and school zones have 'No horn' signs to cut noise.
 ### How a radio message gets past the curve of the Earth · *defined*
@@ -128,7 +131,7 @@ People are not the only beings who communicate. A honeybee who finds flowers com
 ## Roots
 We have learned how people, goods and messages travel, and found in the dark that a driver sees us only by the light we send back. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** With the same dim torch, the black cloth vanished a few steps away. The white cloth was still clear across the room. Both were there the whole time. A driver knows you are on the road only when light from you reaches their eyes.  
+**Deep truth.** With the same dim torch, the black cloth vanished a few steps away. The white cloth was seen from much further. Both were there the whole time. A driver knows you are on the road only when light from you reaches their eyes.  
 *Habit it breaks:* We think that being somewhere is the same as being seen there, and that if we can see a car, its driver can see us. The test showed that being seen depends on how much light comes back from us. Road safety needs both: we must see, and we must be seen.  
 *Evidence:* In the Seen in the Dark test, every cloth stayed on the chair and got the same torch light. Only the light reflected back to the eye changed, and the black cloth vanished first. A reflective strip, which sends light straight back to the lamp, shone brightest of all.
 
@@ -136,17 +139,16 @@ We have learned how people, goods and messages travel, and found in the dark tha
 - *what is life:* Bees dance, ants leave smell trails, crows call and plants release smells that warn their neighbours. Living beings are always sending messages.
 - *what is this world:* Roads, rails, wires and radio waves join far places, so rice from Andhra Pradesh reaches a kitchen in Kochi.
 
-Every message needs a sender, something that carries it, and a receiver. In the dark test, the torch, the cloth and your eye made one chain, and if any part was missing, nothing was seen. Roads, rails, wires and radio waves are longer chains of the same kind. Light, sound and signals pass between things all the time, so no part of the world is ever fully cut off from the rest. One world shows up as many separate things, and they stay in touch through what passes between them.
+Every message needs a sender, something that carries it, and a receiver. In the dark test, the torch, the cloth and your eye made one chain, and if any part was missing, nothing was seen. Roads, rails, wires and radio waves are longer chains of the same kind.
 
 - **Avatamsaka Sutra, the image of Indra's net:** A great net hangs over the world, with a jewel at every knot. Each jewel shines with the reflected light of all the others. (In the dark test, the cloths had no light of their own. Each one was seen only by the torch light it sent back. The things around us are seen the same way, by light passed between them.)
-- **Thich Nhat Hanh, the idea of interbeing (in The Heart of Understanding, 1988):** Look deeply at a sheet of paper and you can see the cloud, the rain, the tree and the logger in the paper. Nothing exists by itself alone. (In the Kitchen Journey, one packet of rice held a farmer, a truck driver, a train, a shopkeeper and many messages. Transport and communication are how these many parts reach each other.)
+- **Thich Nhat Hanh, the idea of interbeing (in The Heart of Understanding, 1988):** Look deeply at a sheet of paper and you can see the cloud, the rain, the tree and the logger in the paper. Nothing exists by itself alone. (In the Kitchen Journey, a packet of rice reached your kitchen through a farmer, a truck driver, a train and a shopkeeper, who passed messages to each other along the way. Transport and communication are how these parts reach each other.)
 - Science (settled): Apollo 11 left a reflector on the Moon in 1969. Scientists still bounce laser light off it to measure how far away the Moon is.
 - Science (settled): Radio messages from the Voyager 1 spacecraft, now beyond the planets, take nearly a day to reach Earth.
 - Other view, The Charvaka school of ancient India: The Charvakas taught that perception, what our senses show us, is the only sure way to know anything. In the dark, you could not see the black cloth. Yet you said it was still there, because you remembered putting it on the chair. A Charvaka would ask: can you really know something that your senses cannot show you right now?
 - Practice, Borrowed light (3 min): Let's sit still in a dim room with only one small light on. Look slowly around. Name one thing you can see. Now find where its light comes from. Is it giving out its own light, or sending back light from the lamp? Do this for three things. Then close your eyes and breathe slowly five times. Open them again and notice the light coming back to you.
 - Ask: The black cloth was there, but you could not see it. How did you know it was still there?
-- Ask: When you see a friend's face, does anything go from you to them, or only from them to you?
-- Ask: If a message is sent and nobody receives it, was anything really sent?
+- Ask: Everything on the Kitchen Journey reached you through other people. What does that tell you about the rice on your plate?
 
 ## Deep and big questions
 - *deep:* When you see a friend across the room, does anything go from you to your friend, or only from your friend to you? (hint: Think of the dark-room test. Where did the light start, where did it bounce, and where did it end?)
@@ -201,7 +203,7 @@ When they came back with the milk, Arjun was thinking hard. 'Paati,' he said, 'w
 
 Paati laughed. 'Now that is a question even I never asked on the night bus. What do you think?'
 
-**For the parent:** For the parent: a driver sees a walker only by the headlight that bounces off the walker and returns to the driver's eyes. A white mundu reflects much of that light, so the man was seen from far away. The dark blue shirt reflected very little, so the boy was seen only when the auto was very close. Seeing the bright lamp does not mean the driver can see you. A reflector, like the red one on a cycle or the strip on a school bag, sends light straight back towards its source, so it shines brightly for the driver and much less for someone standing to the side. Many road signs are covered with the same kind of sheeting. Arjun's last question has a plain answer: nothing goes out from our eyes to make us see. We see when light comes into them.
+**For the parent:** a driver sees a walker only by the headlight that bounces off the walker and returns to the driver's eyes. A white mundu reflects much of that light, so the man was seen from far away. The dark blue shirt reflected very little, so the boy was seen only when the auto was very close. Seeing the bright lamp does not mean the driver can see you. A reflector, like the red one on a cycle or the strip on a school bag, sends light straight back towards its source, so it shines brightly for the driver and much less for someone standing to the side. Many road signs are covered with the same kind of sheeting. Arjun's last question has a plain answer: nothing goes out from our eyes to make us see. We see when light comes into them.
 
 - Ask: Why could Kavya see the man in the white mundu long before the auto reached him?
 - Ask: Arjun could see the auto's headlight from the balcony. Why did that not mean the driver could see the boy?
@@ -211,13 +213,13 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 
 ## Games
 ### g1 · Sign Snap: read a road sign by its shape and colour (20 min)
-- **rules:** Shuffle the cards and put them face down.; Turn over the top card and read the front aloud.; First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point.; Then say what it means. Check the back. A right meaning is 1 more point.; Playing alone, try to beat your own score. With others, take turns.; The first player to 15 points wins.
-- **Printable cards: 19 road sign cards to cut out (the meaning is on the back):** Red circle with a crossed-out horn (back: No horn. Do not sound your horn here.); Red circle filled with a white bar across the middle (back: No entry. Vehicles must not go in.); Red circle with '40' inside (back: Speed limit. Do not go faster than 40 kilometres an hour.); Red circle with a U-shaped arrow crossed out (back: No U-turn.); Blue circle with a white arrow pointing straight up (back: Go straight only.); Blue circle with a white cycle (back: Cycle track. This path is for cycles.); Red eight-sided sign with the word STOP (back: Stop. Come to a full stop, then go only when it is safe.); Upside-down triangle with a red border (back: Give way. Let the other traffic go first.); Red-bordered triangle with two children (back: School ahead. Slow down and watch for children.); Red-bordered triangle with a walking person (back: Pedestrian crossing ahead. Slow down for people crossing.); Red-bordered triangle with a bump (back: Speed breaker ahead. Slow down.); Red-bordered triangle with a road bending sharply (back: Sharp bend ahead. Slow down.); Red-bordered triangle with a cow (back: Cattle may be on the road. Drive carefully.); Blue rectangle with a fuel pump (back: Petrol pump this way.); Blue rectangle with a knife and fork (back: Place to eat this way.); Blue rectangle with a big white P (back: Parking here.); Traffic light with the red light on (back: Stop.); Traffic light with the amber light on (back: Get ready to stop.); Wide white stripes across the road (back: Zebra crossing. People on foot may cross here, and vehicles must stop for them.)
+- **rules:** Shuffle the cards and put them face down.; Turn over the top card and read the front aloud. If you like, draw the sign beside the words.; First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point. The eight-sided STOP sign and the upside-down triangle (Give way) are orders too.; Then say what it means. Check the back. A right meaning is 1 more point.; With two or more players, take turns. The first player to 15 points wins. If the cards run out first, the highest score wins.; Playing alone, go through all 19 cards once and write down your score. Next time, try to beat it.
+- **Printable cards: 19 road sign cards to cut out (the meaning is on the back):** Red circle with a crossed-out horn (back: No horn. Do not sound your horn here.); Red circle filled with a white bar across the middle (back: No entry. Vehicles must not go in.); Red circle with '40' inside (back: Speed limit. Do not go faster than 40 kilometres an hour.); Red circle with a U-shaped arrow crossed out (back: No U-turn.); Blue circle with a white arrow pointing straight up (back: Go straight only.); Blue circle with a white cycle (back: Cycle track. This path is for cycles.); Red eight-sided sign with the word STOP (back: Stop. Come to a full stop, then go only when it is safe.); Upside-down triangle with a red border (back: Give way. Let the other traffic go first.); Red-bordered triangle with two children (back: School ahead. Slow down and watch for children.); Red-bordered triangle with a walking person (back: Pedestrian crossing ahead. Slow down for people crossing.); Red-bordered triangle with a bump (back: Speed breaker ahead. Slow down.); Red-bordered triangle with a road bending sharply (back: Sharp bend ahead. Slow down.); Red-bordered triangle with a cow (back: Cattle may be on the road. Drive carefully.); Blue rectangle with a fuel pump (back: Petrol pump this way.); Blue rectangle with a knife and fork (back: Place to eat this way.); Blue rectangle with a big white P (back: Parking here.); Red circle with a crossed-out letter P (back: No parking. Do not leave your vehicle here.); Blue rectangle with a white H (back: Hospital this way.); Blue rectangle with a walking person (back: Pedestrian crossing here. People on foot may cross, and vehicles must stop for them.)
 - **Printable score sheet: Score sheet:** Player name; Shape right (1 point); Meaning right (1 point); Total
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 20 cards. 2. Shuffle them and put them face down. 3. Read the rules aloud.  
-  *Parent says:* In this game, the shape of a sign tells you its kind before you even see the picture. Circles give orders, triangles warn, and rectangles give information.  
-  *Child mode:* Cut out the cards. Mix them up. Put them face down. Circles give orders. Triangles warn. Rectangles give information.
+  *Parent does:* 1. Cut out the 19 cards. 2. Shuffle them and put them face down. 3. Read the rules aloud.  
+  *Parent says:* In this game, the shape of a sign tells you its kind before you even know the picture. Circles give orders, triangles warn, and rectangles give information. STOP and Give way are orders too.  
+  *Child mode:* Cut out the cards. Mix them up. Put them face down. Circles give orders. Triangles warn. Rectangles give information. STOP and Give way are orders too.
 - **s2 (14 min)**  
   *Parent does:* 1. Take turns: turn a card, read the front, name the kind of sign, then say its meaning. 2. Check the back and score.  
   *Parent says:* What shape is it? So what kind of sign is it? Now, what does it tell the driver or the walker to do?  
@@ -229,9 +231,9 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Child mode:* Count your points. Which sign was hardest? Why do signs use pictures, not words?
   - Check: A sign is a circle with a red border. What kind of sign is it? → **An order saying what you must not do**
 ### g2 · Send It! Choose the best way to carry it (20 min)
-- **rules:** Shuffle the job cards and put them face down. Spread the means cards face up.; Turn over a job card and read it aloud.; Each player picks the means card they think is best and says why.; Read the back of the job card. A choice that matches gets 2 points.; A different choice with a good reason gets 1 point, if the other players agree.; After all 12 jobs, the player with most points wins.
-- **Printable cards: 12 job cards:** Wish Ammamma in Mysuru a happy birthday today. (back: A phone or video call: fast and two-way. A posted card would arrive late.); Carry 1,000 sacks of rice from Andhra Pradesh to Kerala. (back: A goods train: carries heavy loads a long way cheaply.); Take a sick person to hospital, 5 kilometres away, quickly. (back: An ambulance: fast, and other vehicles must give way to it.); Tell everyone in Tamil Nadu that a cyclone is coming. (back: Radio, TV and phone alerts: mass communication reaches millions at once.); Send 2,000 new cars from Chennai to another country. (back: A big ship: the cheapest way to carry very heavy goods across the sea.); Get from Kochi to Delhi by tomorrow morning. (back: An aeroplane: the fastest over long distances, though it uses a lot of fuel.); Buy milk from the shop at the end of your lane. (back: Walk: no smoke, no noise and no cost.); Bring cooking gas to every flat in a big building. (back: A gas pipeline, or cylinders brought by a delivery van.); Warn a driver that a school is just ahead. (back: A road sign: a red-bordered triangle with two children.); Tell a friend who is deaf, across a noisy room, that it is time to go. (back: A gesture or sign language: no sound needed.); Get 300 people to their offices in a crowded city. (back: A metro or buses: many people, much less smoke for each person.); Send a photo to a cousin in Kolkata right now. (back: The internet, by phone: it arrives in seconds.)
-- **Printable cards: 12 means cards:** Walking; Cycle; Auto; Bus; Metro; Goods train; Ship; Aeroplane; Pipeline; Phone call; Radio and TV; Road sign
+- **rules:** Shuffle the job cards and put them face down. Spread the means cards face up.; Turn over a job card and read it aloud.; Each player picks the means card they think is best and says why. Two players may pick the same card.; Read the back of the job card. A choice that matches the back gets 2 points.; A different choice with a good reason gets 1 point, if the other players agree.; After all 12 jobs, the player with most points wins.
+- **Printable cards: 12 job cards:** Wish a grandparent in Mysuru a happy birthday today. (back: A phone or video call: fast and two-way. A posted card would arrive late.); Carry 1,000 sacks of rice from Andhra Pradesh to Kerala. (back: A goods train: carries heavy loads a long way cheaply.); Take a sick person to hospital, 5 kilometres away, quickly. (back: An ambulance: fast, and other vehicles must give way to it.); Tell everyone in Tamil Nadu that a cyclone is coming. (back: Radio, TV and phone alerts: mass communication reaches millions at once.); Send 2,000 new cars from Chennai to another country. (back: A big ship: the cheapest way to carry very heavy goods across the sea.); Get from Kochi to Delhi by tomorrow morning. (back: An aeroplane: the fastest over long distances, though it uses a lot of fuel.); Buy milk from the shop at the end of your lane. (back: Walk: no smoke, no noise and no cost.); Bring cooking gas to every flat in a big building. (back: A gas pipeline: it brings gas to every flat without any vehicle.); Warn a driver that a school is just ahead. (back: A road sign: a red-bordered triangle with two children.); Tell a friend who is deaf, across a noisy room, that it is time to go. (back: Hand signs, or sign language: no sound needed.); Get 300 people to their offices in a crowded city. (back: A metro or buses: many people, much less smoke for each person.); Send a photo to a cousin in Kolkata right now. (back: The internet, on a phone: it arrives in seconds.)
+- **Printable cards: 15 means cards:** Walking; Cycle; Auto; Bus; Metro; Goods train; Ship; Aeroplane; Pipeline; Ambulance; Phone call; Internet on a phone; Radio and TV; Hand signs; Road sign
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out both sets of cards. 2. Put the job cards face down. 3. Spread the means cards face up.  
   *Parent says:* Every job needs a way to carry something, or a way to send a message. You choose the best way, and give your reason.  
@@ -297,45 +299,43 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 ### e2 · Words Only: can you send a picture by talking? (30 min)
 - **question:** Does a picture sent by words alone come out more correctly when the listener can ask questions, and does it take longer?
 - **predict:** Guess first. Will the drawing come out better when the listener stays silent, or when the listener can ask questions? Which way will be quicker? Why do you think so?
-- **fair test:** Use two pictures that are equally hard: each has the same 4 kinds of shapes in different places. The same person describes both times. Use a clock to time each round. Score each drawing in the same way, 2 points for each shape: 1 for the right shape and size, 1 for the right place. Then swap roles and do it again, using the pictures the other way round.
-- **safety:** No special safety needs.
+- **fair test:** Use four picture cards that are equally hard: each has the same 4 kinds of shapes in different places. The same person describes in rounds 1 and 2, and the other person describes in rounds 3 and 4. Use a clock to time each round. Score each drawing the same way, 2 points for each shape: 1 for the right shape and size, 1 for the right place. In the swap, do the round with questions first, so practice does not favour one kind of round.
 - **record:** Fill in the table. Put each drawing next to its picture card.
 - **results table:** Round | Listener may ask questions? | Time taken (minutes) | Score out of 8
 - **s1 (5 min)**  
-  *Parent does:* 1. Put two chairs back to back. 2. The describer gets picture A and picture B, face down. 3. The listener gets paper and a pencil. 4. Ask for guesses and reasons.  
+  *Parent does:* 1. Draw 4 picture cards and label them A, B, C and D. Each has the same 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. 2. Put two chairs back to back. 3. The describer takes cards A and B, face down. The listener takes paper and a pencil. 4. Ask for guesses and reasons.  
   *Parent says:* You will describe a picture using only words. I will draw it without seeing it. First, guess. Will my drawing be better if I stay silent, or if I can ask questions? Why?  
   *Child mode:* Sit back to back. Hide your pictures. Guess: silent listener or questions allowed? Which will be better? Why?
-  - Note: If you cannot print, draw 4 cards. Each has 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. Two cards are for the first go and two for the swap. Keep them simple.
-- **s2 (5 min)**  
+  - Note: Keep the shapes simple so the four cards are equally hard. Cards A and B are for the first two rounds. Cards C and D are for the swap.
+- **s2 (4 min)**  
   *Parent does:* 1. Round 1: the describer describes picture A. 2. The listener draws and says nothing at all. 3. Time the round. 4. Stop when the describer says 'done'.  
   *Parent says:* Round 1. I must stay silent. I cannot ask anything. Describe picture A as clearly as you can. Tell me when you are done.  
   *Child mode:* Describe picture A. Your listener must stay silent. Say 'done' at the end.
   - Note: Do not nod, sigh or ask. This is one-way communication, like a radio programme.
-- **s3 (7 min)**  
+- **s3 (6 min)**  
   *Parent does:* 1. Round 2: the describer describes picture B. 2. This time the listener may ask as many questions as they like. 3. Time the round.  
   *Parent says:* Round 2. Now I can ask questions. Describe picture B. I will ask whenever I am not sure.  
   *Child mode:* Describe picture B. Now your listener can ask questions. Answer each one.
   - Note: Ask real questions: 'How big is the circle?' 'Is the line touching the triangle?' This is two-way communication, like a phone call.
-- **s4 (5 min)**  
+- **s4 (3 min)**  
   *Parent does:* 1. Turn the cards over. 2. Score each drawing: 2 points for each shape, 1 for the right shape and size, 1 for the right place. 3. Write the scores and times.  
   *Parent says:* Let's score them. For each shape, one point if it is the right shape and size, and one if it is in the right place.  
   *Child mode:* Put each drawing next to its card. Give points for each shape. Write the scores and times.
   - Ask: Which round had the higher score? Which was quicker? (good: The round with questions scored higher.; The silent round was quicker.)
-- **s5 (5 min)**  
-  *Parent does:* 1. Swap roles: now the child draws. 2. Use the other two cards. Do one silent round and one round with questions. 3. Score and time both.  
-  *Parent says:* Now I describe and you draw. We do it again, once silent and once with questions. Does the same thing happen?  
-  *Child mode:* Now you draw. Stay silent in the first round. Ask questions in the second. Score both.
-  - Note: Swapping checks that the result is not just because one of you is a better describer.
+- **s5 (9 min)**  
+  *Parent does:* 1. Swap roles: now your child listens and you describe, or the other way round, as you like. 2. Use cards C and D. Do the round with questions first (card C), then the silent round (card D). 3. Score and time both.  
+  *Parent says:* Now we swap. This time the round with questions comes first, then the silent round. Does the same thing happen?  
+  *Child mode:* Swap roles. Do the round with questions first, then the silent round. Score and time both.
+  - Note: Swapping roles and order checks that the result is not just because one of you describes better, or because the second go was easier.
 - **s6 (3 min)**  
   *Parent does:* Ask your child for a claim, the evidence and a reason.  
   *Parent says:* What did you find? What is your evidence? Why do you think questions made such a difference?  
   *Child mode:* Which way gave better drawings? Which was quicker? Why do you think so?
   - Ask: A road sign cannot answer questions. What does that mean for how it must be made? (good: It must be very simple.; Everyone must understand it at once.; It uses shapes and pictures, not long words.)
-  - Check: Which of these is two-way communication? → **A phone call with Ammamma**
+  - Check: Which of these is two-way communication? → **A phone call with a friend**
 
 ## Activities
 ### a1 · The Kitchen Journey: how far did our food travel? (10 min)
-- **safety:** No special safety needs.
 - **record:** Make a list: the thing, where it came from, and how you think it travelled.
 - **s1 (5 min)**  
   *Parent does:* 1. Put 5 packets on the table. 2. Your child reads where each one was made or packed. 3. Find each place on the map.  
@@ -343,12 +343,11 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Child mode:* Read the small print on each packet. Where was it packed? Find the place on the map.
 - **s2 (5 min)**  
   *Parent does:* 1. For each packet, ask how it reached your home. 2. Ask what the family would have if nothing could be carried from far away.  
-  *Parent says:* How do you think this tea got from the hills to our shop? And from the shop to our home? What would we have if nothing could travel?  
+  *Parent says:* How do you think this packet got from where it was made to our shop? And from the shop to our home? What would we have if nothing could travel?  
   *Child mode:* How did each thing get here? Truck, train, ship or scooter? What would we eat if nothing could travel?
-  - Ask: How did the tea get to our home? (good: By truck from the tea garden.; By train, then by the shop's van.; Someone carried it from the shop.)
+  - Ask: How did this packet get to our home? (good: By truck from where it was made.; By train, then by the shop's van.; Someone carried it from the shop.)
   - Note: Good answers name more than one kind of transport, such as a train and then a truck. Tea often comes from the Nilgiris, Munnar or Assam. Salt often comes from Thoothukudi or Gujarat.
 ### a2 · The Time-line Rope: put transport and messages in order (15 min)
-- **safety:** No special safety needs.
 - **record:** Take a photo of your time-line, or copy it into your notebook.
 - **s1 (6 min)**  
   *Parent does:* 1. Draw one thing on each of 12 cards. 2. Draw a footpath, a log boat, a bullock cart, a steam train, a bus and an aeroplane. 3. Draw a drum, a messenger pigeon, a letter, a telephone, a radio and a mobile phone.  
@@ -363,7 +362,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Parent does:* Ask what each new invention made possible.  
   *Parent says:* Pick one card. What could people do after this was invented that they could not do before?  
   *Child mode:* Pick one card. What could people do after it was invented?
-  - Check: Which of these is the oldest? → **The boat**
+  - Check: Which of these was invented first? → **The telegraph**
 ### a3 · Sign Spotting: read the road signs near home (20 min)
 - **safety:** A grown-up holds the child's hand on the road. Stay on the footpath. Stop to look and draw only in a safe place, never at the road's edge.
 - **record:** Draw each sign you saw. Write what it means. Sort them into three groups: circles (orders), triangles (warnings) and rectangles (information).
@@ -407,8 +406,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Parent says:* How many cars passed? How many people were in them? One bus took about as much road as how many cars?  
   *Child mode:* Which vehicle carried most people? Which made the most smoke for each person?
   - Ask: Why might a city want more buses and fewer cars? (good: A bus carries many people in one vehicle.; Less smoke and less traffic for each person.)
-### a6 · Ask a Grandparent: how did you travel and send messages at my age? (15 min)
-- **safety:** No special safety needs.
+### a6 · Ask an Older Person: how did you travel and send messages at my age? (15 min)
 - **record:** Write a short 'then and now' table with their answers and yours.
 - **s1 (10 min)**  
   *Parent does:* 1. Help your child write 5 questions. 2. Your child asks them on the phone or in person. 3. They write short answers.  
@@ -442,11 +440,11 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 
 ## Challenges
 ### c1 · A Sign Without Words (25 min)
-- **problem:** Your building needs a sign at the gate that says: 'Children play here. Drive slowly.' Many visitors and drivers do not read English, Tamil or Hindi. Design a sign that anyone understands in two seconds.
+- **problem:** Your building needs a sign at the gate that says: 'Children play here. Drive slowly.' Some visitors and drivers do not read the languages used in your area. Design a sign that anyone understands in two seconds.
 - **your turn:** Now design your own sign for something in your building or street. Show it for 2 seconds to three people. Did they all understand it?
 - **constraints:** No words, except numbers.; It must be understood in 2 seconds, from 5 steps away.; Use the shape and colour rules that road signs use.
 - **general:** Use a triangle with a red border, because a triangle means a warning.; Draw two running children in black, like the real 'School ahead' sign.; Add a red circle with '10' to give a speed limit.
-- **creative:** Test the sign on three people: show it for two seconds, then ask what it means.; Make it bigger and simpler after each test.; Stick a strip of foil or reflective tape on the border so it shines in headlights.
+- **creative:** Test the sign on three people: show it for two seconds, then ask what it means.; Make it bigger and simpler after each test.; If you have reflective tape, stick a strip on the border so it shines in headlights.
 - **s1 (10 min)**  
   *Parent does:* Your child sketches three ideas, using shapes and colours from real road signs.  
   *Parent says:* A driver has two seconds to read your sign. What shape should it be? What picture? Draw three ideas.  
@@ -464,7 +462,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **problem:** A child walks home from tuition after dark. Make a band for their school bag that a driver can see from as far away as possible, using only things from home. Test it with the dim torch from the Seen in the Dark test.
 - **your turn:** Now design your own night band. Test it in the dark. How many foot-steps away can you still see it? Can you beat the white cloth?
 - **constraints:** Only things from home.; It must not fall off when the bag is shaken.; Test it in the dark with the dim torch, from your eye, and count foot-steps.
-- **general:** Use a strip of white cloth: white reflects much more light than dark colours.; Use a reflective strip or tape, which sends light back towards the driver.; Make the band wide: a bigger white area is seen from further away.
+- **general:** Use a strip of white cloth: white reflects much more light than dark colours.; If you have reflective tape, use it: it sends light back towards the driver.; Make the band wide: a bigger white area is seen from further away.
 - **creative:** Crumple kitchen foil, then smooth it flat, so it glints from many angles.; Cut an old CD into strips with a grown-up's help: it shines in many directions.; Put bands on both the front and the back, so drivers coming either way can see them.
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* Your child chooses materials and makes a band for the bag.  
@@ -484,17 +482,17 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 ### Transport, messages and road safety (core) (core, 15 questions)
 1. (sort) Meenakshi, a girl in Class 3 in Madurai, makes a list of ways to travel. Sort each one into its kind of transport.  
    **Answer:** an auto-rickshaw → Road; a goods train → Rail; a kattumaram → Water; a helicopter → Air; a city bus → Road; a metro train → Rail; a ferry boat → Water; an aeroplane → Air. *Why:* Road transport runs on roads, rail on tracks, water transport floats, and air transport flies. A kattumaram is a raft of logs tied together. A strong answer knows that a metro is rail transport, even when it runs on a bridge above the road.
-2. (mcq) In the Seen in the Dark test, Divya shone the same dim torch on a black cloth and a white cloth. Which one could she still see from further away?  
+2. (mcq) In the Seen in the Dark test, Divya, a girl in Class 3, shone the same dim torch on a black cloth and a white cloth. Which one could she still see from further away?  
    Options: The black cloth / The white cloth / Both the same / Neither, in the dark  
    **Answer:** The white cloth. *Why:* The white cloth reflects much more of the torch light back to Divya's eyes, so she can still see it from further away. The black cloth reflects very little, so it vanishes sooner.
-3. (write) Arjun says, 'I can see the car's headlights, so the driver can see me.' Explain why he may be wrong.  
+3. (write) Arjun, a six-year-old boy, says, 'I can see the car's headlights, so the driver can see me.' Explain why he may be wrong.  
    **Answer:** Arjun sees the bright lamp itself. The driver sees Arjun only by the little light that bounces off him and comes back. If Arjun wears dark clothes, very little light comes back, so the driver may not see him.. *Why:* A strong answer says that seeing a lamp and being seen by its light are different. It uses the idea of light bouncing off and coming back.
 4. (fill) A traffic light that is ____ means stop.  
    **Answer:** ['red']. *Why:* Red means stop, amber means get ready to stop, and green means go.
 5. (match) Match each road sign shape to what it tells you.  
    **Answer:** A red circle → something you must not do; A blue circle → something you must do; A red-bordered triangle → a warning of something ahead; A blue rectangle → useful information, such as the way to a petrol pump. *Why:* In India, circles give orders, triangles warn, and rectangles give information. A strong answer could draw one example of each.
 6. (truefalse) Boats were invented long before wheels.  
-   **Answer:** True. *Why:* True. Log canoes about 10,000 years old have been found. The oldest wheels are about 5,500 years old. Many people guess the wheel came first.
+   **Answer:** True. *Why:* Log canoes about 10,000 years old have been found. The oldest wheels are about 5,500 years old. Many people guess the wheel came first.
 7. (draw) Draw a road sign that warns drivers that a school is ahead. Colour its border.  
    **Answer:** A triangle with a red border, a white middle, and two children drawn in black.. *Why:* A warning sign is a red-bordered triangle. The picture of children tells drivers to slow down and watch out.
 8. (mcq) Which of these is two-way communication?  
@@ -517,15 +515,15 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 15. (write) Your family walks home after dinner at night. Write two things each person can do so that drivers see them.  
    **Answer:** Wear white or pale clothes. Wear or carry something with a reflective strip. Carry a torch and shine it on the ground ahead.. *Why:* A strong answer uses the Seen in the Dark test: pale clothes and reflective strips send much more light back to a driver.
 ### Signs, signals and choices (stretch) (stretch, 15 questions)
-1. (mcq) In the Seen in the Dark test, Nandini held a reflective strip on the chair. It shone brightly when the torch was beside her eye. What happened when she held the torch far out to the side?  
+1. (mcq) In the Seen in the Dark test, Nandini, a girl in Class 3, held a reflective strip on the chair. It shone brightly when the torch was beside her eye. What happened when she held the torch far out to the side?  
    Options: The strip shone even brighter / The strip looked much duller / The strip turned black / Nothing changed  
    **Answer:** The strip looked much duller. *Why:* A reflective strip sends light straight back towards the lamp. With the torch by her eye, the light came straight back to her. With the torch to the side, the light went back to the torch, not to her eyes.
 2. (write) Many road signs are covered with reflective sheeting. Why does this help a driver at night?  
    **Answer:** The sheeting sends the car's headlight straight back towards the driver. So the sign shines brightly to the driver, even though no lamp is switched on inside it.. *Why:* A strong answer says where the light comes from (the car's own headlights) and where it goes (back to the driver).
-3. (mcq) In the Words Only test, Revathi described a picture to her mother. In which round did her mother's drawing probably score higher?  
-   Options: When her mother had to stay silent / When her mother could ask questions / Both rounds scored the same / Scores have nothing to do with questions  
-   **Answer:** When her mother could ask questions. *Why:* When the listener can ask, she can clear up mistakes, such as which shape is bigger. Two-way communication usually gets more right, but it takes longer.
-4. (write) A driver passes a road sign in two seconds. Use what you found in the Words Only test to explain why a road sign must be very simple.  
+3. (mcq) In the Words Only test, one person describes a picture and the other draws it. Revathi, a girl in Class 3, described a picture to a friend, once with the friend silent and once with questions allowed. In which round did the friend's drawing probably score higher?  
+   Options: When the friend had to stay silent / When the friend could ask questions / Both rounds scored the same / Scores have nothing to do with questions  
+   **Answer:** When the friend could ask questions. *Why:* When the listener can ask, they can clear up mistakes, such as which shape is bigger. Two-way communication usually gets more right, but it takes longer.
+4. (write) A driver passes a road sign in two seconds. Use what you found in the Words Only test (a listener who cannot ask questions made more mistakes) to explain why a road sign must be very simple.  
    **Answer:** A road sign is one-way communication. The driver cannot ask it what it means. In the test, the silent listener made more mistakes. So a sign must be simple enough to understand at once, with no questions.. *Why:* A strong answer links the sign to one-way communication and uses evidence from the test.
 5. (sort) Sort these into one-way and two-way communication.  
    **Answer:** a radio programme → One-way; a video call → Two-way; a road sign → One-way; a chat at dinner → Two-way; a poster on a wall → One-way; letters sent back and forth → Two-way. *Why:* In two-way communication, both sides can send and receive. Letters sent back and forth are two-way, but slow.
@@ -533,7 +531,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    Options: Aeroplanes / A pipeline / Bullock carts / Cycles  
    **Answer:** A pipeline. *Why:* A pipeline carries liquid all day and night, without any vehicle. Once it is built, it is cheap and safe for this job.
 7. (truefalse) Electric scooters give out no exhaust on the road, but their electricity may still cause pollution somewhere else.  
-   **Answer:** True. *Why:* True. In India, much electricity is made by burning coal in power stations. So the pollution moves from the road to the power station.
+   **Answer:** True. *Why:* In India, much electricity is made by burning coal in power stations. So the pollution moves from the road to the power station.
 8. (perspective) A town council in Kerala is deciding how to spend money on transport.  
    **Answer:** A strong answer chooses a plan and gives two reasons, such as clean air, cost, or who can use it. It then fairly names a strength of another plan, for example that a wider road helps trucks bring goods to shops.. *Why:* Real towns weigh these trade-offs. More road space often fills with more cars. Footpaths and buses help people without cars. There is no single right answer.
 9. (fill) The 6-digit number in an Indian address that helps the post office sort letters is called the ____.  
@@ -545,8 +543,8 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    **Answer:** A charged layer high in the air sends some radio waves back down. *Why:* The ionosphere, a layer of charged air high above us, sends some radio waves back down to the ground. Edward Appleton showed this in 1924.
 12. (write) Choose one invention from this unit: the wheel, the train, the telegraph or the mobile phone. What could people do after it that they could not do before?  
    **Answer:** For example: after the train, people could travel across India in days instead of weeks, and carry heavy goods like coal and rice cheaply to faraway cities.. *Why:* A strong answer names a real change and says why the invention made it possible.
-13. (order) Put these in order, from oldest to newest.  
-   **Answer:** ['Log boats', 'Wheels on carts', 'The first passenger train in India', "Kochi's water metro"]. *Why:* Log boats are about 10,000 years old. Wheels are about 5,500 years old. India's first passenger train ran in 1853. Kochi's water metro began in 2023.
+13. (order) Put these ways of sending a message to a cousin in another state in order, from slowest to fastest.  
+   **Answer:** ['A letter by post', 'A telegram', 'A WhatsApp message']. *Why:* A letter takes days. A telegram took hours, and the last one was sent in 2013. A WhatsApp message arrives in seconds.
 14. (odd) Three of these are warning signs. Which is the odd one out?  
    Options: A triangle with a speed breaker / A triangle with a sharp bend / A triangle with two children / A red circle with a crossed-out horn  
    **Answer:** 3. *Why:* The red circle is an order: do not sound your horn. The triangles all warn of something ahead.
@@ -556,25 +554,24 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 ### Thinking like a road engineer (challenge) (challenge, 15 questions)
 1. (write) In the Seen in the Dark test, the white cloth was seen from much further away than the black cloth. On a real road, why does this distance matter so much to a driver going fast?  
    **Answer:** A fast vehicle needs a long distance to slow down and stop. If the driver sees a walker only when very close, there is no time to stop. Seeing someone from further away gives the driver time.. *Why:* A strong answer links seeing distance to stopping distance, and so to safety.
-2. (mcq) In the Seen in the Dark test, Kavya's white cloth was still visible at the far wall, 15 foot-steps away. What should she do to find how far it can really be seen?  
+2. (mcq) In the Seen in the Dark test, Kavya, a nine-year-old girl, found that her white cloth was still visible at the far wall, 15 foot-steps away. What should she do to find how far it can really be seen?  
    Options: Write 15 and stop / Make the torch dimmer, or use a longer room, and test all the cloths again / Test only the white cloth again / Use a brighter torch  
    **Answer:** Make the torch dimmer, or use a longer room, and test all the cloths again. *Why:* If the white cloth is still seen at the wall, she has not found its limit. A dimmer torch or a longer room lets her find it. She must test every cloth again in the same way, so the test stays fair.
 3. (perspective) After the Seen in the Dark test, three people talk about road safety at night.  
    **Answer:** A strong answer uses the test, for example that the black cloth vanished at a few steps. It may choose any person, but it sees that all three help: being seen, driving slowly, and safer roads work together.. *Why:* Road safety depends on walkers, drivers and the town together. A good answer weighs each.
 4. (write) Many people think bright neon colours are best at night. Plan a test in a dark room to check this. Say what you would compare, and what would make it fair.  
    **Answer:** I would compare a neon green or orange cloth with a white cloth and a reflective strip, using the dim torch by my eye. Same chair, same darkness, same torch, two tries each. I would count foot-steps until each vanished.. *Why:* A strong plan keeps everything the same except the cloth, and tries each one more than once.
-5. (mcq) In the Words Only test, Pooja's silent round took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. What does this show?  
-   Options: Questions make communication worse / Two-way communication got more right but took longer / Speed is all that matters / The test was unfair  
-   **Answer:** Two-way communication got more right but took longer. *Why:* The question round scored 4 more points but took 3 more minutes. Two-way communication is usually more correct and slower. That is a real trade-off.
+5. (write) A traffic light shows amber for a few seconds between green and red. Why is the amber light there? What could happen without it?  
+   **Answer:** Amber warns drivers that red is coming, so they can slow down and stop in time. A vehicle going fast cannot stop at once. Without amber, a driver could be in the middle of the junction when the light turned red, and crash into traffic coming the other way.. *Why:* A strong answer links the warning to the time and distance a vehicle needs to stop, as in the first question of this sheet.
 6. (write) A cyclone warning goes out by radio and TV. Is that one-way or two-way communication? What problem could that cause, and how could it be fixed?  
    **Answer:** It is one-way. People cannot ask questions, such as 'Where is the nearest shelter?' It could be fixed by giving a phone helpline, or by local volunteers who go to each street and answer questions.. *Why:* A strong answer names it as one-way and suggests adding a two-way channel.
 7. (truefalse) Marconi was the only person who worked on early radio.  
-   **Answer:** False. *Why:* False. Many people worked on radio. In Kolkata in the 1890s, J.C. Bose made and detected very short radio waves. Tesla, Popov and others also built radio devices.
+   **Answer:** False. *Why:* Many people worked on radio. In Kolkata in the 1890s, J.C. Bose made and detected very short radio waves. Tesla, Popov and others also built radio devices.
 8. (draw) Draw the curved Earth with two radio towers far apart. Show how a radio wave can travel from one to the other by bouncing off the ionosphere.  
    **Answer:** A curved Earth, a layer above it marked ionosphere, and a zigzag line from one tower up to the layer, down to the ground, and up and down again to the far tower.. *Why:* A strong drawing shows straight lines that change direction at the ionosphere, not a wave that curves by itself.
-9. (mcq) One full bus carries 50 people. Each car carries 2 people. How many cars would carry the same people as one full bus?  
-   Options: 2 / 25 / 50 / 100  
-   **Answer:** 25. *Why:* 50 people divided by 2 people in each car is 25 cars. That is why one full bus takes far less road space and fuel for each person than cars.
+9. (mcq) Sacks of rice go from a farm in Andhra Pradesh to a shop in Kerala. Which two kinds of transport are most likely to carry them?  
+   Options: A goods train, then a truck / An aeroplane, then a ship / A pipeline, then a cycle / A kattumaram, then a helicopter  
+   **Answer:** A goods train, then a truck. *Why:* Rice is heavy and travels a long way, so a goods train is cheap. A truck then takes it from the station to the shop door. Most goods use more than one kind of transport.
 10. (write) The wheel was invented about 5,500 years ago, but in some hilly places people kept carrying loads on their backs or on animals for thousands of years more. Why might wheels not help much there?  
    **Answer:** Wheels need smooth, fairly flat ground or roads. On steep, rocky paths a cart cannot go, but a person or a donkey can.. *Why:* A strong answer sees that an invention helps only where its conditions are right.
 11. (sort) Sort each change by whether it would make city air cleaner or dirtier.  
@@ -590,9 +587,9 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    **Answer:** ['You post it in a post box', 'It is sorted by PIN code at a sorting office', 'It goes by train or van to the right city', 'A postwoman brings it to the door']. *Why:* A letter is collected, sorted by PIN code, carried to the right area, and then delivered. Transport and communication work together here.
 
 ## Videos
-- **Retroreflectors; they're everywhere, and they cheat physics (sort of)** (Technology Connections, 15 min) id `Bi_Tp1H9CDs`: For the parent and curious older children: how the strips on bags, road signs and cycle reflectors send light straight back to the lamp. It explains what the Seen in the Dark test showed with a reflective strip. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
-- **An Animated History of Transportation** (The Atlantic, 5 min) id `FaLCQo8NJFA`: A short animated history of how people have travelled, from walking to modern vehicles. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length and facts.
-- **How The Internet Works? | What Is Internet? | Dr Binocs Show** (Peekaboo Kidz, 5 min) id `UXsomnDkntI`: A cartoon for children on how a message travels across the internet, through cables and towers. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length and facts.
+- **Retroreflectors; they're everywhere, and they cheat physics (sort of)** (Technology Connections, 15 min) id `Bi_Tp1H9CDs`: For the parent and curious older children: how the strips on bags, road signs and cycle reflectors send light straight back to the lamp. It explains what the Seen in the Dark test showed with a reflective strip. *Check:* Preview it first and check its length.
+- **An Animated History of Transportation** (The Atlantic, 5 min) id `FaLCQo8NJFA`: A short animated history of how people have travelled, from walking to modern vehicles. *Check:* Preview it first and check its length.
+- **How The Internet Works? | What Is Internet? | Dr Binocs Show** (Peekaboo Kidz, 5 min) id `UXsomnDkntI`: A cartoon for children on how a message travels across the internet, through cables and towers. *Check:* Preview it first and check its length.
 
 ## Quiz
 1. (mcq) Which kind of transport is a goods train?  
@@ -613,9 +610,9 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 6. (mcq) Which of these is one-way communication?  
    Options: A phone call / A radio programme / A chat with your teacher / A video call  
    **Answer:** A radio programme. *Why:* You can listen to a radio programme, but you cannot ask it questions. The other three are two-way.
-7. (mcq) Why must a road sign be very simple?  
-   Options: Signs are expensive / A driver sees it for only a moment and cannot ask what it means / Drivers do not like reading / So it lasts longer  
-   **Answer:** A driver sees it for only a moment and cannot ask what it means. *Why:* A road sign is one-way communication, read in a moment. In the Words Only test, the silent listener made more mistakes, so one-way messages must be very clear.
+7. (mcq) A road sign is a blue circle with a white arrow pointing straight up. What does it tell a driver?  
+   Options: Go straight only / Do not go straight / Petrol pump ahead / School ahead  
+   **Answer:** Go straight only. *Why:* A blue circle gives an order about what you must do. This one says to go straight only.
 8. (mcq) Which of these makes no exhaust at all?  
    Options: A diesel bus / A petrol scooter / A cycle / A diesel truck  
    **Answer:** A cycle. *Why:* A cycle burns no fuel, so it makes no exhaust. Petrol and diesel engines give out smoke and gases.
@@ -652,7 +649,6 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - A goods train with many wagons waiting at a level crossing.
 - A dish antenna on a balcony, pointing at a satellite.
 - Snake boats racing on the backwaters of Alappuzha during the Nehru Trophy race.
-- Ambulance written back to front on the front of an ambulance.
 
 ## Open questions
 - **Who really sent the first radio signals, and who deserves the most credit?** Bose, Marconi, Tesla, Popov and others all did important early work at about the same time. Historians still argue about how to share the credit.
@@ -678,22 +674,18 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - What did the traffic light say to the car? *Don't look, I'm changing!*
 - Why did the train get a gold star? *It always stayed on track.*
 - What travels all round the world but stays in one corner? *A stamp.*
-- What kind of phone does a turtle use? *A shell phone.*
 - What did the envelope say to the stamp? *Stick with me, and we'll go places.*
 - What has wheels and flies? *A rubbish truck.*
-- Why did the computer go to the doctor? *It had a virus.*
 - What has four wheels and goes 'hoot hoot'? *An owl on a skateboard.*
 - What do you call a train full of toffee? *A chew-chew train.*
-- Why did the zebra crossing feel safe? *Everyone stopped for it.*
 - What has keys but cannot open a single door? *A keyboard.*
-- Why did the auto-rickshaw go to school? *To become a little wheel-y smarter.*
 
 ## Connected maths
-- In the Seen in the Dark test, Kavya still saw the white shirt from 15 foot-steps away. The black T-shirt vanished at 3 foot-steps. How many times further away was the white shirt seen? **5 times further away.**. The white shirt was seen at 15 foot-steps and the black T-shirt at 3. 15 divided by 3 is 5. So the white shirt was seen 5 times further away. Check: 3 + 3 + 3 + 3 + 3 = 15. (queues `math.division.sharing-and-grouping.L3`)
-- Kavya's yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of her two tries? **13 foot-steps.**. 12 + 14 = 26. Half of 26 is 13. So the middle value is 13 foot-steps. This is called the average of the two tries. (queues `math.addition-subtraction.mental-strategies.L3`)
-- Farhan watched the road for 10 minutes. He counted 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus? **They carried the same number: 40 people each.**. 20 cars with 2 people each is 20 × 2 = 40 people. The bus carried about 40 people too. So one bus carried as many people as 20 cars, using one engine instead of 20. (queues `math.multiplication.equal-groups.L3`)
+- Kavya, a nine-year-old girl, did the Seen in the Dark test. She still saw the white shirt from 15 foot-steps away. The black T-shirt vanished at 3 foot-steps. How many times further away was the white shirt seen? **5 times further away.**. The white shirt was seen at 15 foot-steps and the black T-shirt at 3. 15 divided by 3 is 5. So the white shirt was seen 5 times further away. Check: 3 + 3 + 3 + 3 + 3 = 15. (queues `math.division.sharing-and-grouping.L3`)
+- In the same test, Kavya's yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of her two tries? **13 foot-steps.**. 12 + 14 = 26. Half of 26 is 13. So the middle value is 13 foot-steps. This is called the average of the two tries. (queues `math.addition-subtraction.mental-strategies.L3`)
+- Farhan, a boy aged 8, watched the road for 10 minutes. He counted 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus? **They carried the same number: 40 people each.**. 20 cars with 2 people each is 20 × 2 = 40 people. The bus carried about 40 people too. So one bus carried as many people as 20 cars, using one engine instead of 20. (queues `math.multiplication.equal-groups.L3`)
 - India's first passenger train ran in 1853. Kochi's water metro began in 2023. How many years apart are they? **170 years.**. 2023 − 1853 = 170. Count up: from 1853 to 1953 is 100 years, and from 1953 to 2023 is 70 more. 100 + 70 = 170. (queues `math.addition-subtraction.written-methods.L3`)
-- In the Words Only test, Revathi's silent round took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. How many more points did questions give? How many more minutes did they take? **4 more points, and 3 more minutes.**. 7 − 3 = 4 more points. 5 − 2 = 3 more minutes. So questions gave a much better drawing, but took longer. Whether it is worth it depends on the job. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Words Only test, Revathi, a girl in Class 3, had a silent round that took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. How many more points did questions give? How many more minutes did they take? **4 more points, and 3 more minutes.**. 7 − 3 = 4 more points. 5 − 2 = 3 more minutes. So questions gave a much better drawing, but took longer. Whether it is worth it depends on the job. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Many Hands, One Street (sci.community.L3): Topic-level song for Community and neighbourhood L3
@@ -727,7 +719,7 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 - Core: a1, e1, g1, ws-core
 
 ## Sources
-- ideas/by_topic/transport-and-communication.md: SCI Card for J.C. Bose (radio waves in Kolkata in the 1890s, credit with Marconi), used in 'challenging' and 'open_questions'. The founder's word-and-picture communication ideas (draw the words, guess the drawing), which shaped the Words Only test. The story seed of beings inventing gestures to reach a friend who could not hear, which shaped the sign language card in Send It!
+- Notes on J.C. Bose (radio waves in Kolkata in the 1890s, credited alongside Marconi), used in 'challenging' and 'open_questions'. Ideas on communicating with words and pictures (describe it, draw it), which shaped the Words Only test. The idea of beings inventing gestures to reach a friend who could not hear, which shaped the hand signs card in Send It!
 - Board chapter: NIOS Open Basic Education, Environmental Studies Level A, Lesson 10, Transport and Communication (pack nios/sci-L3-10.json): development of transport and communication, kinds, road signs and traffic lights, PIN code, animal communication. Its roller and string telephone experiments are not repeated here.
 - Nearby units not repeated: sci.community.community-and-helpers.L3 (Postcard Test, Shared Pond), sci.sound.sources-of-sound.L3 (string telephone), sci.forces.friction.L3 and sci.forces.simple-machines.L3 (rollers, wheel and axle), sci.light.how-we-see.L3 (light into the eye).
 - Appleton, E. V. and Barnett, M. A. F., 'Local reflection of wireless waves from the upper atmosphere', Nature 115, 1925 (the ionosphere experiment of December 1924)

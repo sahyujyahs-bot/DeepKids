@@ -116,9 +116,9 @@
    "definition": "The environment has a living part (plants, animals, fungi, microbes and people) and a non-living, or physical, part (air, water, soil, rocks, light, warmth, and the things people build).",
    "description": "Books split the environment into two parts. The living part is also called the biological environment. It holds every plant, animal, fungus and microbe, and people too. The non-living part is called the physical environment. It holds air, water, soil, rocks, sunlight and warmth. Buildings, roads and fans are non-living too, so they belong to the physical environment. To decide which part something belongs to, ask: does this grow, breathe and make young like itself? A dry seed is tricky. They look lifeless, but they are alive and will sprout when given water.",
    "examples": [
-    "Living: the money plant, the gecko on the wall, the bacteria in curd, your grandmother.",
+    "Living: the money plant, the gecko on the wall, the bacteria in curd, a neighbour.",
     "Non-living: the tap water, the sunlight on the floor, the concrete wall, the ceiling fan.",
-    "Tricky: a dry moong seed is alive, though they seem to do nothing. A wooden door was once part of a living tree, but the door is not alive."
+    "Tricky: a dry moong seed is alive, but looks asleep. A wooden door was once part of a living tree, but the door is not alive."
    ],
    "perspectives": [],
    "art": "A page split down the middle: on one side a plant, an ant, a bird and a person, on the other side the sun, a glass of water, a stone and a fan.",
@@ -132,7 +132,7 @@
    "examples": [
     "Natural: a neem tree, rain, a crow, sand.",
     "Made by people: a bus, a steel plate, a nylon rope, a brick.",
-    "Both: curd, a mango tree planted by your grandfather, a temple tank full of fish."
+    "Both: curd, a mango tree planted in a park, a temple tank full of fish, a living root bridge in Meghalaya grown by the Khasi people from fig tree roots."
    ],
    "perspectives": [],
    "art": "Three boxes: Natural (a cloud, a coconut, a rock), Made by people (a bus, a steel plate, a bucket), Both (a bowl of curd, a potted tulsi, a temple tank with fish).",
@@ -156,7 +156,7 @@
    "concept": "Earth is like a closed box",
    "status": "defined",
    "definition": "Earth gets energy from outside, as sunlight, but almost no new water or air. The same water and air are used again and again.",
-   "description": "Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid, but gravity holds the air and water close to Earth. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. The oxygen in the air was made by plants, algae and some bacteria, and it is breathed in and given out again and again.",
+   "description": "Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid, but gravity holds the air and water close to Earth. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. Plants, algae and some bacteria made the oxygen in the air. Animals, plants and microbes breathe the oxygen in, and plants make more.",
    "examples": [
     "Water you pour down the sink does not disappear. It goes to a drain, a treatment plant, a river, a lake or the sea, and later rises again as water vapour.",
     "Smoke from burning rubbish spreads through the air and comes down with rain, or is breathed in by people far away.",
@@ -353,7 +353,7 @@
   {
    "id": "g1",
    "title": "Four Corners: living or not, natural or made",
-   "mins": 20,
+   "mins": 25,
    "players": [
     "alone",
     "2 to 4 players",
@@ -365,16 +365,48 @@
      "kind": "cards",
      "title": "32 thing cards to cut out",
      "items": [
-      "Easy cards: crow, neem tree, stone, rain cloud, steel tumbler, plastic bucket, ant, sand, auto-rickshaw, coconut, river, brick",
-      "Tricky cards: curd, wooden spoon, potted tulsi, dry moong seed, cotton shirt, temple tank with fish, paper, salt from the salt pans, a dog, a mango tree your grandfather planted",
-      "More tricky cards: honey, a pearl, a silk saree, glass, a road with grass growing through cracks, a bird's nest, a beehive, a snake skin, a candle, a clay pot"
+      "crow",
+      "neem tree",
+      "stone",
+      "rain cloud",
+      "steel tumbler",
+      "plastic bucket",
+      "ant",
+      "sand",
+      "auto-rickshaw",
+      "coconut",
+      "river",
+      "brick",
+      "curd",
+      "wooden spoon",
+      "potted tulsi",
+      "dry moong seed",
+      "cotton shirt",
+      "temple tank with fish",
+      "paper",
+      "salt from the salt pans",
+      "a pet dog",
+      "a mango tree planted in a park",
+      "honey",
+      "a pearl",
+      "a silk saree",
+      "glass",
+      "a road with grass growing through cracks",
+      "a bird's nest",
+      "a beehive",
+      "a bamboo basket",
+      "a living root bridge in Meghalaya, grown from fig tree roots",
+      "a clay pot"
      ]
     },
     {
      "kind": "board",
      "title": "The four-corner grid",
      "items": [
-      "A big square split into four boxes: Living and natural, Living and placed or cared for by people, Non-living and natural, Non-living and made by people",
+      "Box 1: Living and natural",
+      "Box 2: Living and cared for by people",
+      "Box 3: Non-living and natural",
+      "Box 4: Non-living and made by people",
       "A small 'Argue it!' circle in the middle, for cards that could go in two boxes"
      ]
     },
@@ -382,7 +414,7 @@
      "kind": "tokens",
      "title": "Reason tokens",
      "items": [
-      "20 small paper circles. A player earns one for every good reason that the others accept."
+      "Cut 30 small paper circles. A player earns one for every good reason that the others accept. If they run out, keep score with tally marks."
      ]
     }
    ],
@@ -390,10 +422,11 @@
     "Shuffle the cards and put them face down in a pile.",
     "Take turns to turn over one card.",
     "Put the card in one of the four boxes, and say why in one sentence.",
-    "If another player thinks it belongs somewhere else, put it in the 'Argue it!' circle. Each of you gives a reason.",
-    "If the others agree with a reason, that player earns a reason token. A good reason can earn a token even if you change your mind.",
-    "When all cards are placed, the player with the most reason tokens wins.",
-    "Playing alone? Sort all the cards, then pick the three hardest and write a reason for each."
+    "If another player thinks it belongs somewhere else, move it to the 'Argue it!' circle. Each of you gives a reason.",
+    "If the others accept a reason, that player earns a reason token. A good reason can earn a token even if you change your mind.",
+    "If everyone agrees on a box, move the card there. If nobody can agree, the card stays in the 'Argue it!' circle.",
+    "When all the cards are placed, the player with the most reason tokens wins. If two players tie, they share the win.",
+    "Short on time? Play with only 16 cards. Playing alone? Sort all the cards, then pick the three hardest and write a reason for each."
    ],
    "flow": [
     {
@@ -406,11 +439,11 @@
     },
     {
      "id": "s2",
-     "mins": 12,
+     "mins": 17,
      "do": "Take turns turning over cards. When a card is argued, both players give a reason before you decide.",
      "say": "Curd! Is curd living? Who made it? Tell me your reason before you put it down.",
      "kid": "Say your reason out loud. Others can argue. Good reasons win tokens.",
-     "parent": "Expect real arguments over curd (made by people, but full of living bacteria), the wooden spoon (made by people from a natural, once-living tree), honey and the beehive (made by bees, not people) and the dry seed (alive though still). These are the point of the game. Reward the reason, not the box.",
+     "parent": "Expect real arguments over curd (made by people, but full of living bacteria), the wooden spoon (made by people from a natural, once-living tree), honey and the beehive (made by bees, not people) and the dry seed (alive, but looking asleep). These are the point of the game. Reward the reason, not the box.",
      "check": {
       "t": "mcq",
       "q": "Which box suits a dry moong seed best?",
@@ -420,7 +453,7 @@
        "Non-living and made by people"
       ],
       "a": 1,
-      "why": "A dry moong seed is alive, though they seem to do nothing. Given water, they sprout. Many people first say 'non-living', because the seed does not move or grow while dry."
+      "why": "A dry moong seed is alive. Given water, the seed sprouts. Many people first say 'non-living', because a dry seed does not move or grow."
      }
     },
     {
@@ -459,27 +492,55 @@
    "players": [
     "2 to 4 players"
    ],
-   "context": "This is a board game played on a loop. Players move water drops round the loop from home to drain to lake to cloud and back. Anything a player 'throws away' stays on the board and comes back round.",
+   "context": "This is a board game played on a loop. Players move water drops round the loop from home to drain to river to sea to cloud and back. Anything a player 'throws away' stays in the game and comes back round.",
    "printables": [
     {
      "kind": "board",
      "title": "The loop board",
      "items": [
-      "A ring of 20 squares: Home tap, Kitchen sink, Drain, Treatment plant, River, Lake, Sea, Water vapour, Cloud, Rain, Hill, Stream, Eri (village lake), Paddy field, Well, Tank on the roof, Home tap again, and three 'Choice' squares",
-      "A 'Dump yard' space beside the board"
+      "1. Home (start)",
+      "2. Kitchen sink",
+      "3. Choice",
+      "4. Drain",
+      "5. Treatment plant",
+      "6. River",
+      "7. Choice",
+      "8. Lake",
+      "9. Sea",
+      "10. Water vapour",
+      "11. Cloud",
+      "12. Rain",
+      "13. Hill",
+      "14. Stream",
+      "15. Choice",
+      "16. Eri (village lake)",
+      "17. Paddy field",
+      "18. Well",
+      "19. Tank on the roof",
+      "20. Choice",
+      "A 'Dump yard' box beside the board"
      ]
     },
     {
      "kind": "cards",
      "title": "16 choice cards",
      "items": [
-      "Pour leftover oil down the sink: put a black oil token on the Drain square",
-      "Wipe the oily pan with old newspaper first: no token",
-      "Throw a plastic wrapper from the bus window: put a wrapper token on the River square",
-      "Put peels in the compost pot: move 2 squares ahead",
-      "Wash the scooter with a running pipe: lose your next turn",
-      "Water the plants with rice water: move 1 square ahead",
-      "Plus 10 more cards of the same kind, written by your family"
+      "Pour leftover oil down the sink: put a black oil token on the Drain square.",
+      "Wipe the oily pan with old newspaper first: no token. Move 1 square ahead.",
+      "Throw a plastic wrapper from the bus window: put a wrapper token on the River square.",
+      "Put peels in the compost pot: move 2 squares ahead.",
+      "Wash the scooter with a running pipe: lose your next turn.",
+      "Water the plants with rice water: move 1 square ahead.",
+      "Mix wet peels and dry plastic in one bin: put a wrapper token on the Eri square.",
+      "Carry a cloth bag to the shop: move 2 squares ahead.",
+      "Catch rain from the terrace in a bucket: move 3 squares ahead.",
+      "Mend a dripping tap: move 1 square ahead.",
+      "Rinse paint brushes in the stream: put a black oil token on the Stream square.",
+      "Wash dishes in a steel basin, not under a running tap: move 2 squares ahead.",
+      "Burn plastic rubbish on the road: put a wrapper token on the Cloud square.",
+      "You see a wrapper in a drain and pick it up: take 1 token from the board to the Dump yard. If there is none, move 1 square ahead.",
+      "Join a lake clean-up morning: take up to 2 tokens from the board to the Dump yard, then move 1 square ahead.",
+      "Fix a leaking pipe in your building: move 2 squares ahead."
      ]
     },
     {
@@ -487,27 +548,28 @@
      "title": "Tokens",
      "items": [
       "4 blue water-drop tokens, one per player",
-      "10 black oil tokens",
-      "10 wrapper tokens"
+      "10 black oil tokens (cut small paper circles and colour them black)",
+      "10 wrapper tokens (small paper squares). If a kind runs out, cut more."
      ]
     }
    ],
    "rules": [
-    "Each player puts a water drop on Home tap.",
-    "Take turns to roll a dice and move round the loop.",
-    "On a Choice square, take a choice card and do what it says. Tokens put on the board stay there.",
-    "If you land on a square with an oil or wrapper token, you are stuck there for one turn. Your drop is dirty and must be cleaned at the Treatment plant before it can go on.",
-    "A player can spend a turn to pick up one token and take it to the Dump yard. The dump yard is still part of the board.",
-    "The first drop to go all the way round twice wins. But if more than 10 tokens are on the board, everyone loses."
+    "Each player puts a water drop on square 1, Home. Put the 16 choice cards face down in a pile.",
+    "Take turns to roll a dice and move your drop forward round the loop, from square 20 back to square 1.",
+    "On a Choice square, take the top card and do what it says. Then put it at the bottom of the pile. Tokens put on the board stay there.",
+    "If you land on a square with an oil or wrapper token, your drop is held up by the dirt: miss your next turn.",
+    "Instead of rolling, a player can spend a turn to pick up one token from any square and take it to the Dump yard.",
+    "The Dump yard is beside the board, so those tokens have not left the game.",
+    "The first drop to go all the way round twice wins. Then everyone counts the tokens on the board and in the Dump yard."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the board. 2. Put the drops on Home tap. 3. Read the squares round the loop aloud.",
-     "say": "This board is one loop. Our water starts at the tap and goes to the sink, the drain, the river, the cloud and the rain. Then it comes back to the tap.",
-     "kid": "Put your drop on Home tap. Follow the loop with your finger.",
-     "context": "This is the first step of No Away, a board game where everything you throw out stays on the board."
+     "do": "1. Lay out the board. 2. Put the drops on Home. 3. Read the squares round the loop aloud.",
+     "say": "This board is one loop. Our water starts at home and goes to the sink, the drain, the river, the cloud and the rain. Then it comes back to us.",
+     "kid": "Put your drop on Home. Follow the loop with your finger.",
+     "context": "This is the first step of No Away, a board game where everything you throw out stays in the game."
     },
     {
      "id": "s2",
@@ -515,14 +577,14 @@
      "do": "Play. When someone places a token, ask where that thing would really go.",
      "say": "You poured oil down the sink. Look, the oil stays on the Drain square. Who will land there next?",
      "kid": "Roll and move. Read your card. Tokens stay on the board!",
-     "parent": "The point is that nothing leaves the loop. Even the Dump yard sits beside the board. If tokens pile up, everyone loses, so players soon start cleaning up together. Let that happen without telling them to."
+     "parent": "The point is that nothing leaves the loop. Even the Dump yard sits beside the board. Players soon start carrying tokens to the Dump yard to free the others. Let that happen without telling them to."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the tokens left on the board. Talk about which choice cards put the most on it.",
-     "say": "How many tokens are still on the board? Which choices put them there? Where would they be in real life?",
-     "kid": "Count the tokens left. Which cards made the most mess?",
+     "do": "Count the tokens on the board and in the Dump yard. Talk about which choice cards made the most.",
+     "say": "How many tokens are on the board and in the Dump yard? Which choices put them there? Where would they be in real life?",
+     "kid": "Count all the tokens. Which cards made the most mess?",
      "check": {
       "t": "mcq",
       "q": "In the game, what happens to a wrapper token put on the River square?",
@@ -538,8 +600,8 @@
    ],
    "setup": [
     {
-     "art": "A ring-shaped board of 20 squares labelled tap, sink, drain, river, lake, sea, cloud, rain and well, with blue drop tokens on the tap square.",
-     "caption": "1. Put every drop on Home tap."
+     "art": "A ring-shaped board of 20 squares labelled Home, sink, drain, river, lake, sea, cloud, rain and well, with blue drop tokens on the Home square.",
+     "caption": "1. Put every drop on Home."
     },
     {
      "art": "The same board later, with a few black oil tokens and wrapper tokens on the drain and river squares, and a child carrying one to a box marked Dump yard beside the board.",
@@ -552,7 +614,7 @@
   {
    "id": "e1",
    "title": "The Closed Box Test: can moong seedlings live with the lid on?",
-   "mins": 30,
+   "mins": 35,
    "days": 7,
    "context": "In this experiment you grow moong seeds in two clear boxes. One box is closed tight. The other is left open. You add no more water for a week, and watch what happens to the water and the seedlings in each.",
    "question": "If we shut moong seeds in a closed box with damp cotton, and add no more water or air, will they live longer or shorter than seeds in an open box?",
@@ -589,11 +651,11 @@
      "qty": 1
     },
     {
-     "item": "a kitchen weighing scale, if you have one (not needed)",
+     "item": "a kitchen weighing scale, if you have one (optional)",
      "qty": 1
     }
    ],
-   "safety": "Wash hands after handling the seeds and cotton. If white or grey fuzzy mould grows, do not open the box near your face. Throw the cotton and seeds in the wet waste at the end, and wash the boxes.",
+   "safety": "If white or grey fuzzy mould grows, do not open the box near your face. Throw the cotton and seeds in the wet waste at the end, and wash the boxes and your hands.",
    "schedule": [
     {
      "day": 0,
@@ -602,8 +664,8 @@
     },
     {
      "day": 1,
-     "mins": 20,
-     "what": "Set up both boxes. Guess what will happen and why. Close one lid. Weigh both boxes if you have a scale."
+     "mins": 16,
+     "what": "Set up both boxes with the same cotton, water and seeds. Guess what will happen and why. Close one lid and put both in a bright place. Weigh both boxes if you have a scale."
     },
     {
      "day": 2,
@@ -617,8 +679,8 @@
     },
     {
      "day": 7,
-     "mins": 10,
-     "what": "Last look and weighing. Say your claim, your evidence and your reasoning."
+     "mins": 11,
+     "what": "Last look and weighing. Say your claim, your evidence and your reasoning. Then talk about Earth."
     }
    ],
    "record": "Fill in the table on days 2, 4 and 7. On day 7, draw both boxes side by side and draw arrows where you think the water went in each.",
@@ -773,12 +835,12 @@
   {
    "id": "e2",
    "title": "The Drain Test: does washing powder in water change how seeds sprout?",
-   "mins": 25,
+   "mins": 27,
    "days": 4,
    "context": "In this experiment you sprout moong seeds with plain water, a little washing powder in water, and a lot of washing powder in water. Soapy water from our homes goes down drains and reaches lakes and rivers, where seeds and plants live.",
    "question": "Do moong seeds sprout and grow the same in soapy water as in plain water? Does the amount of soap matter?",
    "predict": "Which cup of seeds will grow the longest roots by day 3: plain water, a little soap or a lot of soap? Why do you think so?",
-   "fair_test": "Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of its own water. All three cups stand together in the same place. Only the water changes. We keep adding the same water to each cup if it dries.",
+   "fair_test": "Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of its own water. The three tumblers are the same size and filled to the same level. All three cups stand together in the same place. Only the water changes. We keep adding the same water to each cup if it dries.",
    "results_table": [
     "Cup",
     "Seeds sprouted on day 2 (out of 10)",
@@ -878,7 +940,8 @@
      "do": "Day 2: count how many seeds in each cup have a white root. Fill in the table.",
      "say": "How many seeds have sprouted in each cup? Let's count them together.",
      "kid": "Count the seeds with roots in each cup.",
-     "wait": "Day 2"
+     "wait": "Day 2",
+     "parent": "Dry seeds sprout a little later than soaked ones. If few seeds have roots in any cup today, that is normal. The day 3 count matters most."
     },
     {
      "id": "s5",
@@ -888,6 +951,14 @@
      "kid": "What did the soap do? Show me how you know.",
      "parent": "Usually the plain cup grows the longest white roots. The 'a lot' cup has fewer sprouts, or short, brownish roots. The 'a little' cup is often in between, or close to plain. If all three grow the same in your home, that is a real result too. Write it down, and talk about how much soap a lake would need to get.",
      "wait": "Day 3"
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "Day 4: look at the cups one last time. Pour the soapy water down the toilet, and wash the cups and your hands.",
+     "say": "One last look. Did anything change since yesterday? Now we clear up.",
+     "kid": "Look one last time. Then help to clear up.",
+     "wait": "Day 4"
     }
    ],
    "example_chart": {
@@ -926,7 +997,7 @@
      "caption": "2. Ten seeds on each cup. Same place, same light."
     },
     {
-     "art": "A child measuring the white root of a moong sprout with a ruler, with three cups of different-looking sprouts beside her.",
+     "art": "A child measuring the white root of a moong sprout with a ruler, with three cups of different-looking sprouts beside them.",
      "caption": "3. Count the sprouts and measure the longest root."
     }
    ]
@@ -976,16 +1047,16 @@
      "kid": "Sort your list into the four boxes. Say why for each.",
      "ask": [
       {
-       "q": "Where does the wind go?",
+       "q": "Which box does the wind go in?",
        "good": [
         "Non-living and natural."
        ]
       },
       {
-       "q": "Where does the potted plant on the next balcony go?",
+       "q": "Which box does a potted plant on the next balcony go in?",
        "good": [
         "Living, and cared for by people.",
-        "Living and natural, but someone planted them."
+        "Living and natural, but someone planted the plant."
        ]
       }
      ]
@@ -1009,7 +1080,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Lakshmi hears a temple bell from her window. Which box does the bell go in?",
+      "q": "Lakshmi, a girl aged 9, hears a temple bell from her window. Which box does the bell go in?",
       "options": [
        "Living and natural",
        "Non-living and natural",
@@ -1022,7 +1093,7 @@
    ],
    "setup": [
     {
-     "art": "A girl and her mother at an open window of a flat, the girl pointing out at a coconut palm and a crow while the mother writes in a notebook.",
+     "art": "A girl and a parent at an open window of a flat, the girl pointing out at a coconut palm and a crow while the parent writes in a notebook.",
      "caption": "1. Three minutes: say everything you see, hear and feel."
     },
     {
@@ -1078,7 +1149,7 @@
      "say": "Who takes our rubbish? Where do they take it? Let's ask.",
      "kid": "Who takes our rubbish? Ask where it goes next.",
      "adult": true,
-     "parent": "In many cities, rubbish goes first to a collection point or transfer station, then to a dump yard or a processing plant. In Chennai, the large dump yards are at Kodungaiyur and Perungudi. Wet waste may go to a compost centre, if it was kept separate."
+     "parent": "In many cities, rubbish goes first to a collection point or transfer station, then to a dump yard or a processing plant. In Chennai, the large dump yards are at Kodungaiyur and Perungudi, in Mumbai at Deonar, and in Delhi at Ghazipur. Wet waste may go to a compost centre, if it was kept separate."
     },
     {
      "id": "s3",
@@ -1098,7 +1169,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Farhan washes a plastic wrapper down a street drain. Where is the wrapper most likely to end up?",
+      "q": "Farhan, a boy in Class 3, washes a plastic wrapper down a street drain. Where is the wrapper most likely to end up?",
       "options": [
        "It disappears",
        "In a river, a lake or the sea, or stuck in the drain",
@@ -1111,7 +1182,7 @@
    ],
    "setup": [
     {
-     "art": "A boy and his aunt shining a torch on a grey pipe running down the outside wall of a block of flats.",
+     "art": "A boy and a grown-up shining a torch on a grey pipe running down the outside wall of a block of flats.",
      "caption": "1. Follow the sink pipe as far as you can."
     },
     {
@@ -1251,7 +1322,7 @@
      "parent": "Every made thing leads back to something natural: steel from iron ore, plastic mostly from oil or natural gas, glass from sand, paper from wood, a cotton cloth from the cotton plant, a clay pot from clay. Curd and honey are both: made with the help of living things. This prepares for the idea that what we make and throw out stays in the environment.",
      "check": {
       "t": "mcq",
-      "q": "Divya's plastic lunch box is made by people. What was the plastic mostly made from?",
+      "q": "Divya, a girl in Class 3, has a plastic lunch box. The lunch box is made by people. What was the plastic mostly made from?",
       "options": [
        "Sand",
        "Oil or natural gas from under the ground",
@@ -1329,7 +1400,7 @@
    ],
    "setup": [
     {
-     "art": "A mother and daughter sitting on a cloth under a big neem tree, the girl writing in a notebook while a squirrel runs down the trunk.",
+     "art": "A parent and child sitting on a cloth under a big neem tree, the child writing in a notebook while a squirrel runs down the trunk.",
      "caption": "1. Watch one tree for 15 minutes."
     },
     {
@@ -1420,15 +1491,23 @@
     },
     {
      "id": "s3",
+     "mins": 5,
+     "do": "Draw the garden and look for changes: new leaves or roots.",
+     "say": "What has changed since day 1? Is the glass misty at the same times of day?",
+     "kid": "Draw your garden. What is new?",
+     "wait": "Day 7"
+    },
+    {
+     "id": "s4",
      "mins": 10,
-     "do": "Every week, draw the garden and look for changes: new leaves, roots, moss, tiny insects or mould.",
+     "do": "Look closely for anything new living in the jar: moss, tiny insects, a sprout or mould. Draw it.",
      "say": "Is anything living in there that we did not put in?",
      "kid": "Draw your garden. Is anything new living there?",
      "parent": "Tiny springtails, moss or a sprouted weed seed from the soil may appear. They came in with the soil. This shows the soil was full of life to begin with.",
      "wait": "Day 14"
     },
     {
-     "id": "s4",
+     "id": "s5",
      "mins": 10,
      "do": "Compare the day 1 drawing with today's. Talk about where the water has been all month.",
      "say": "No water has gone in for a month. Where has the plant's water been all this time?",
@@ -1463,7 +1542,6 @@
      "qty": 1
     }
    ],
-   "safety": "If you choose composting, keep the pot covered and away from the kitchen counter. Wash hands after handling waste.",
    "schedule": [
     {
      "day": 1,
@@ -1473,7 +1551,27 @@
     {
      "day": 2,
      "mins": 3,
-     "what": "Start the change. Tally each day."
+     "what": "Make the change. Add today's tally mark."
+    },
+    {
+     "day": 3,
+     "mins": 3,
+     "what": "Make the change. Add today's tally mark."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Make the change. Add today's tally mark."
+    },
+    {
+     "day": 5,
+     "mins": 3,
+     "what": "Make the change. Add today's tally mark."
+    },
+    {
+     "day": 6,
+     "mins": 3,
+     "what": "Make the change. Add today's tally mark."
     },
     {
      "day": 7,
@@ -1494,11 +1592,11 @@
     },
     {
      "id": "s2",
-     "mins": 3,
-     "do": "Each day, make the change and add a tally mark.",
+     "mins": 15,
+     "do": "Each day from day 2 to day 6 (3 minutes a day), make the change and add a tally mark.",
      "say": "Did we do it today? Let's add today's tally.",
      "kid": "Did we do it today? Add a tally mark.",
-     "wait": "Day 2"
+     "wait": "Days 2 to 6"
     },
     {
      "id": "s3",
@@ -1563,7 +1661,7 @@
      "id": "s1",
      "mins": 10,
      "do": "Talk about the problem. Draw two ideas.",
-     "say": "Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's each draw one idea.",
+     "say": "Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's draw two ideas.",
      "kid": "Draw two ideas for a bird water bowl. Think: safe, cool, clean.",
      "context": "This is a design challenge: make a water station for birds on a hot balcony."
     },
@@ -1799,7 +1897,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya pours leftover rasam down the sink. Where does the rasam go?",
+   "p": "Kavya, the girl in the story, pours leftover rasam down the sink. Where does the rasam go?",
    "opts": [
     "It disappears",
     "Through drains to a treatment plant, a river, a lake or the sea",
@@ -1823,7 +1921,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan's family wants to send less plastic out of their home. Which plan is easiest to check?",
+   "p": "Farhan, a boy in Class 3, and his family want to send less plastic out of their home. Which plan is easiest to check?",
    "opts": [
     "Try to be better",
     "Carry a cloth bag to the shop and count the plastic bags brought home each day for a week",
@@ -1942,15 +2040,15 @@
     },
     {
      "t": "truefalse",
-     "p": "A city flat has no environment, because there are no forests in it.",
+     "p": "Smoke from burning rubbish leaves the Earth, so the problem is gone.",
      "a": false,
-     "why": "False. A flat has air, water, light, warmth, ants, geckos, plants and people. All of that is an environment."
+     "why": "False. Smoke spreads through the air and comes down with rain, or is breathed in by people far away. It stays on Earth."
     },
     {
      "t": "write",
      "p": "Nila, a girl in Class 3, says, \"A dry moong seed is non-living, because they do not move or grow.\" Is she right? Explain.",
      "lines": 3,
-     "a": "No. A dry moong seed is alive, though they seem to do nothing. Given water, they swell and sprout within a day or two. A stone never does that.",
+     "a": "No. A dry moong seed is alive, but looks asleep. Given water, they swell and sprout within a day or two. A stone never does that.",
      "why": "A strong answer says the seed is alive and gives evidence, such as sprouting when given water."
     },
     {
@@ -2034,9 +2132,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Everything people make was made from something natural first.",
+     "p": "Rain falling on a city flat is natural, and the roof tank that stores it is made by people. Both are part of the environment.",
      "a": true,
-     "why": "True. Steel comes from iron ore, plastic mostly from oil or gas, glass from sand, paper from wood. People change natural materials. They never make one from nothing."
+     "why": "True. The environment holds natural things and things made by people together."
     },
     {
      "t": "perspective",
@@ -2085,7 +2183,7 @@
     },
     {
      "t": "mcq",
-     "p": "Priya weighs both boxes on day 1 and day 7 of the Closed Box Test. The seedlings in the closed box grew taller. What happens to the closed box's weight?",
+     "p": "Priya, a girl in Class 4, weighs both boxes on day 1 and day 7 of the Closed Box Test. The seedlings in the closed box grew taller. What happens to the closed box's weight?",
      "opts": [
       "It gets much heavier, because the seedlings grew",
       "It stays about the same, because nothing went in or out",
@@ -2104,7 +2202,7 @@
     },
     {
      "t": "write",
-     "p": "Divya's family pours soapy water from washing clothes into the street drain. Use the Drain Test to explain what this water might do in a lake.",
+     "p": "Divya, a girl in Class 3, and her family pour soapy water from washing clothes into the street drain. Use the Drain Test to explain what this water might do in a lake.",
      "lines": 4,
      "how": "e2",
      "a": "The Drain Test showed that a lot of washing powder in water made fewer seeds sprout, with shorter roots. If lots of soapy water reaches a lake, it may harm the seeds and plants that live there. In Bellandur Lake in Bengaluru, soap and sewage made thick froth.",
@@ -2188,7 +2286,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, \"It doesn't matter if I drop a wrapper. Someone will take it away.\" Use the idea of 'away' to answer him.",
+     "p": "Arjun, the boy in the story, says, \"It doesn't matter if I drop a wrapper. Someone will take it away.\" Use the idea of 'away' to answer him.",
      "lines": 3,
      "a": "There is no away outside the Earth. If someone picks it up, it goes to a dump yard. If not, rain washes it into a drain, and it may reach a lake or the sea. Either way, it is still in the environment.",
      "why": "A strong answer says where the wrapper would really go."
@@ -2245,7 +2343,7 @@
       },
       {
        "who": "Fatima, who lives next to the lake",
-       "says": "Clear the rubbish now and plant trees round it. People will care for a lake they can enjoy."
+       "says": "Clear the rubbish now and plant trees round the lake. People will care for a lake they can enjoy."
       },
       {
        "who": "A builder",
@@ -2466,7 +2564,7 @@
   }
  ],
  "applications": [
-  "Sewage treatment plants clean a city's waste water with screens, settling tanks and microbes, before it goes back to a river or the sea.",
+  "Sewage treatment works clean a city's waste water with screens, settling tanks and microbes, before the water goes back to a river or the sea.",
   "The East Kolkata Wetlands clean much of Kolkata's sewage in fish ponds, where sunlight, algae and microbes do the work.",
   "Tamil Nadu made rainwater harvesting compulsory for buildings in 2003, so rain soaks back into the ground instead of running off into drains.",
   "India's Solid Waste Management Rules of 2016 ask every home to keep wet, dry and hazardous waste apart, so each can be treated in the right way.",
@@ -2537,7 +2635,6 @@
   }
  ],
  "ask_kids": [
-  "Where did the water in your glass come from this morning? Where was it before that?",
   "Which living things share our flat with us? Which ones have you never seen but know are there?",
   "Is our balcony plant part of our environment, or are we part of the plant's environment?",
   "When we flush the toilet, where does the water go? Let's guess, then find out.",
@@ -2550,16 +2647,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the moong seedling like the closed box?",
-   "a": "Their water kept coming back."
-  },
-  {
    "j": "What did the drop on the lid say to the cotton?",
    "a": "Don't worry, I'll be back down soon."
-  },
-  {
-   "j": "Where does rubbish go when we throw it away?",
-   "a": "Somewhere on Earth. There is no away!"
   },
   {
    "j": "Why did the wrapper refuse to leave the planet?",
@@ -2575,11 +2664,7 @@
   },
   {
    "j": "Why did the crow sit on the dustbin?",
-   "a": "They heard it was a free buffet."
-  },
-  {
-   "j": "What is a cloud's favourite game?",
-   "a": "Round and round, from sea to sky and back."
+   "a": "She heard it was a free buffet."
   },
   {
    "j": "Why did the plastic bag go to school?",
@@ -2600,21 +2685,13 @@
   {
    "j": "Why did the rasam not disappear down the sink?",
    "a": "It just went to visit the river."
-  },
-  {
-   "j": "What do you call a clean lake?",
-   "a": "A lake that someone cared about."
-  },
-  {
-   "j": "Why did the compost pot smile?",
-   "a": "Their peels were turning into something good."
   }
  ],
  "maths": [
   {
-   "problem": "In the Closed Box Test, the open box weighed 120 grams on day 1 and 82 grams on day 7. How many grams of water left the open box?",
+   "problem": "In the Closed Box Test, the open box weighed 114 grams on day 1 and 76 grams on day 7. How many grams of water left the open box?",
    "answer": "38 grams.",
-   "explain": "Take the day 7 weight from the day 1 weight. 120 take away 80 is 40. 40 take away 2 more is 38. So 38 grams of water evaporated into the room's air.",
+   "explain": "Take the day 7 weight from the day 1 weight. 114 take away 70 is 44. 44 take away 6 more is 38. So 38 grams of water evaporated into the room's air.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the Closed Box Test. You weigh both boxes on day 1 and day 7 to see whether any water left them.",
    "chart": {
@@ -2625,12 +2702,12 @@
     "data": [
      {
       "label": "Day 1",
-      "value": 120,
+      "value": 114,
       "emoji": "📦"
      },
      {
       "label": "Day 7",
-      "value": 82,
+      "value": 76,
       "emoji": "📦"
      }
     ]
@@ -2639,7 +2716,7 @@
    "why_maths": "Subtracting the two weights tells us exactly how much water left, which our eyes cannot measure."
   },
   {
-   "problem": "Look at the kitchen scale. Each big mark is 10 grams and each small mark is 2 grams. The pointer is 1 small mark past 110. What does the closed box weigh?",
+   "problem": "Look at the kitchen scale. Each big mark is 10 grams and each small mark is 2 grams. On day 7 the pointer is 1 small mark past 110. What does the closed box weigh?",
    "answer": "112 grams.",
    "explain": "The pointer has passed the 110 mark by one small mark. Each small mark is 2 grams. 110 + 2 = 112.",
    "math_unit": "math.measurement-basics.reading-scales.L3",
@@ -2690,7 +2767,7 @@
    "why_maths": "A bar chart lets us see at a glance which cup did best, and subtracting tells us by how much."
   },
   {
-   "problem": "Farhan's family counted plastic bags brought home: 4 on Monday, 3 on Tuesday, 1 on Wednesday, 0 on Thursday and 0 on Friday. How many bags did they bring home in the 5 days?",
+   "problem": "Farhan, a boy in Class 3, and his family counted plastic bags brought home: 4 on Monday, 3 on Tuesday, 1 on Wednesday, 0 on Thursday and 0 on Friday. How many bags did they bring home in the 5 days?",
    "answer": "8 bags.",
    "explain": "Add the days: 4 + 3 = 7, 7 + 1 = 8, and 0 + 0 adds nothing. So 8 bags in 5 days, and none on the last two days, once they carried a cloth bag.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -2721,7 +2798,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free tested activities from a science museum in San Francisco. Search for 'water cycle' and 'terrarium'. It is on the founder's list of STEM websites."
+   "why": "Free tested activities from a science museum in San Francisco. Search for 'water cycle' and 'terrarium'."
   },
   {
    "title": "East Kolkata Wetlands",
@@ -2778,12 +2855,12 @@
    "id": "b-book",
    "item": "One Well: The Story of Water on Earth, by Rochelle Strauss",
    "kind": "book",
-   "why": "A picture book for ages 8 and up about how all the water on Earth is shared, as if it were one well. It is on the founder's reading list.",
+   "why": "A picture book for ages 8 and up about how all the water on Earth is shared, as if it were one well.",
    "url": "https://www.amazon.in/s?k=One+Well+Rochelle+Strauss",
    "used_in": [
     "a2"
    ],
-   "plan": "If bought, read a few pages after Where Is Away?, when the child has followed the kitchen water."
+   "plan": "Read a few pages after Where Is Away?, once your child has followed the kitchen water."
   }
  ],
  "warmup": [

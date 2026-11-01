@@ -43,7 +43,7 @@
   {
    "term": "Fatigue",
    "meaning": "Fatigue is tiredness. A muscle with fatigue works more slowly and more weakly, and may ache.",
-   "example": "After two minutes of squeezing a peg, your fingers slow down. That is muscle fatigue.",
+   "example": "After a minute or two of squeezing a peg round after round, your fingers slow down. That is muscle fatigue.",
    "art": "A hand squeezing a clothes peg, with the fingers drawn shaking and small lines showing an ache."
   },
   {
@@ -173,7 +173,7 @@
    "examples": [
     "A baby sleeps for most of the day and night.",
     "After a good night's sleep, a dance step practised yesterday often feels easier.",
-    "A dog asleep may twitch their paws and whimper during dreaming sleep."
+    "Sleeping dogs may twitch their paws and whimper during dreaming sleep."
    ],
    "perspectives": [],
    "art": "A sleeping child with a simple wave line above her, slow and big for deep sleep, then quick and small for dreaming sleep.",
@@ -225,7 +225,7 @@
   },
   {
    "text": "Working muscles need oxygen, which the blood brings. When less blood reaches a muscle, it tires faster.",
-   "evidence": "Squeezing a peg with the arm held up, so less blood reaches the hand, tires the fingers faster. Lab studies that squeeze the blood supply with a cuff show the same."
+   "evidence": "Squeezing a peg with the arm held up, so less blood reaches the hand, usually tires the fingers a little faster. Lab studies that squeeze the blood supply with a cuff show the same."
   },
   {
    "text": "Regular exercise makes muscles, bones, the heart and the lungs stronger.",
@@ -361,74 +361,163 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A board with 24 squares, one for each hour, going round in a circle from 6 in the morning",
+     "title": "A board with 24 squares, one for each hour, going round in a circle from 6 in the morning to 5 the next morning",
      "items": [
-      "Square 1: 6 a.m., wake up",
-      "Squares 4, 10 and 16: PLAY! Do 10 star jumps or march on the spot, then gain 1 energy",
-      "Squares 7 and 13: TOO LONG ON A SCREEN. Lose 1 energy",
-      "Squares 9 and 18: REST. Take three slow breaths, then gain 1 energy",
-      "Square 15: BIG GAME OF KHO-KHO. Lose 2 energy, but move on 2 squares",
-      "Square 22: BEDTIME",
-      "Squares 23 and 24: DEEP SLEEP and DREAMING SLEEP"
+      "Square 1, 6 a.m.: WAKE UP. Everyone starts here.",
+      "Square 2, 7 a.m.: BREAKFAST. Gain 1 energy.",
+      "Square 3, 8 a.m.: LONG LESSON, sitting still. Lose 1 energy.",
+      "Square 4, 9 a.m.: PLAY! Do 10 star jumps or march on the spot, then gain 1 energy.",
+      "Square 5, 10 a.m.: WATER BREAK. Take a sip of water, then move on 1 square.",
+      "Square 6, 11 a.m.: TOO LONG ON A SCREEN. Lose 1 energy.",
+      "Square 7, 12 noon: LUNCH. Gain 1 energy.",
+      "Square 8, 1 p.m.: STRETCH. Reach up high for three slow breaths, then move on 1 square.",
+      "Square 9, 2 p.m.: REST. Take three slow breaths, then gain 1 energy.",
+      "Square 10, 3 p.m.: PLAY! Do 10 star jumps or march on the spot, then gain 1 energy.",
+      "Square 11, 4 p.m.: HOMEWORK, sitting still. Lose 1 energy.",
+      "Square 12, 5 p.m.: BIG GAME OF KHO-KHO. Lose 2 energy, but move on 2 squares.",
+      "Square 13, 6 p.m.: TOO LONG ON A SCREEN. Lose 1 energy.",
+      "Square 14, 7 p.m.: DINNER. Gain 1 energy.",
+      "Square 15, 8 p.m.: YOGA. Stand in tree pose for 10 seconds, then gain 1 energy.",
+      "Square 16, 9 p.m.: BEDTIME. Screens off, lights out. Gain 1 energy, then write down your energy. That is your score.",
+      "Square 17, 10 p.m.: LIGHT SLEEP. Breathing slows down. Breathe slowly three times.",
+      "Square 18, 11 p.m.: DEEP SLEEP. The body makes growth hormone. Close your eyes and count five slow breaths.",
+      "Square 19, midnight: DEEP SLEEP. The discs in your back soak up water. Sit up straight and stretch your back tall.",
+      "Square 20, 1 a.m.: DREAMING SLEEP. The eyes dart about under the lids. Close your eyes and roll them left and right.",
+      "Square 21, 2 a.m.: DEEP SLEEP. The heart and breathing stay slow. Let both arms go floppy.",
+      "Square 22, 3 a.m.: DREAMING SLEEP. The brain is nearly as busy as when awake. Say one thing you dreamed about, real or made up.",
+      "Square 23, 4 a.m.: DREAMING SLEEP. The arm and leg muscles go floppy, so you do not act out dreams. Let your legs go floppy.",
+      "Square 24, 5 a.m.: WAKE UP. Stretch like a cat. This is the finish."
      ]
     },
     {
      "kind": "cards",
-     "title": "24 question cards to cut out",
+     "title": "24 cards to cut out: 20 question cards and 4 TRY IT cards. Question on the front, answer on the back.",
      "items": [
-      "What happens to your peg count if you squeeze without a break? (It goes down)",
-      "What brings oxygen to a working muscle? (The blood)",
-      "Does rest help a tired muscle recover? (Yes)",
-      "How many hours of sleep does a child of 8 need? (About 9 to 12)",
-      "Name a stamina exercise. (Skipping, cycling, swimming, kho-kho or running)",
-      "Name a strength exercise. (Climbing, carrying, wall push-ups)",
-      "Name a flexibility exercise. (Yoga or stretching)",
-      "What is a yoga pose called? (An asana)",
-      "What is the breathing part of yoga called? (Pranayama)",
-      "Name the yoga pose where you stand on one leg. (Tree pose, vrikshasana)",
-      "In which part of sleep do most vivid dreams happen? (Dreaming sleep, or REM sleep)",
-      "Do your eyes move during dreaming sleep? (Yes, they dart about under the eyelids)",
-      "Does the brain switch off when you sleep? (No, it stays busy)",
-      "When is most growth hormone released? (In deep sleep)",
-      "Are you taller at bedtime or in the morning? (In the morning)",
-      "Why do astronauts exercise every day? (So their bones and muscles don't get weaker)",
-      "Who discovered dreaming sleep in 1953? (Eugene Aserinsky and Nathaniel Kleitman)",
-      "Does a raised hand tire faster or slower when squeezing a peg? (Faster)",
-      "Does the heart rest between beats? (Yes, for a moment between every beat)",
-      "Which day is the International Day of Yoga? (21 June)",
-      "TRY IT: stand in tree pose for 10 seconds. Did you do it?",
-      "TRY IT: hum like a bee for one long breath out.",
-      "TRY IT: squeeze your fists tight, then let go. Which feels better?",
-      "TRY IT: touch your toes slowly and hold for three breaths."
+      {
+       "f": "In the clothes-peg test, what happens to your count if you squeeze round after round without a break?",
+       "b": "It goes down."
+      },
+      {
+       "f": "What does a muscle do when it contracts?",
+       "b": "It gets shorter and pulls on a bone."
+      },
+      {
+       "f": "Does rest help a tired muscle recover?",
+       "b": "Yes. Blood keeps flowing through it and helps refill it."
+      },
+      {
+       "f": "Name one thing that helps a child fall asleep.",
+       "b": "A dark, quiet, cool room, or no screen before bed."
+      },
+      {
+       "f": "Name a stamina exercise.",
+       "b": "Skipping, cycling, swimming, kho-kho or running."
+      },
+      {
+       "f": "Name a strength exercise.",
+       "b": "Climbing, carrying or wall push-ups."
+      },
+      {
+       "f": "Name a flexibility exercise.",
+       "b": "Yoga or stretching."
+      },
+      {
+       "f": "In which yoga pose do you lie on your tummy and lift your chest?",
+       "b": "Cobra pose, bhujangasana."
+      },
+      {
+       "f": "Which yoga breath is a long hum, like a bee?",
+       "b": "Bhramari, the bee breath."
+      },
+      {
+       "f": "Name the yoga pose where you stand on one leg.",
+       "b": "Tree pose, vrikshasana."
+      },
+      {
+       "f": "What does REM stand for?",
+       "b": "Rapid eye movement."
+      },
+      {
+       "f": "After light sleep comes deep sleep or dreaming sleep?",
+       "b": "Deep sleep. Dreaming sleep comes after that."
+      },
+      {
+       "f": "Does the brain switch off when you sleep?",
+       "b": "No. It stays busy."
+      },
+      {
+       "f": "When is most growth hormone released?",
+       "b": "In deep sleep."
+      },
+      {
+       "f": "Why can astronauts be up to about 5 cm taller in space?",
+       "b": "Nothing presses down on their backs, so the discs fill up."
+      },
+      {
+       "f": "Why do astronauts exercise every day?",
+       "b": "So their bones and muscles do not get weaker."
+      },
+      {
+       "f": "Who discovered dreaming sleep in 1953?",
+       "b": "Eugene Aserinsky and Nathaniel Kleitman."
+      },
+      {
+       "f": "You squeeze a peg with your arm held up above your head. Do your fingers tire faster or slower than with the arm down?",
+       "b": "Usually faster, because less blood reaches a raised hand."
+      },
+      {
+       "f": "Does the heart rest between beats?",
+       "b": "Yes, for a moment between every beat."
+      },
+      {
+       "f": "Which day is the International Day of Yoga?",
+       "b": "21 June."
+      },
+      {
+       "f": "TRY IT: stand in tree pose for 10 seconds.",
+       "b": "Did you do it? Gain 1 energy, then roll."
+      },
+      {
+       "f": "TRY IT: hum like a bee for one long breath out.",
+       "b": "Did you do it? Gain 1 energy, then roll."
+      },
+      {
+       "f": "TRY IT: squeeze your fists tight, then let go. Which feels better?",
+       "b": "Letting go. Gain 1 energy, then roll."
+      },
+      {
+       "f": "TRY IT: touch your toes slowly and hold for three breaths.",
+       "b": "Did you do it? Gain 1 energy, then roll."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "One counter for each player, and 5 energy tokens each",
+     "title": "Counters, energy tokens and a dice",
      "items": [
-      "🔵",
-      "🟢",
-      "🟡",
-      "⚡"
+      "Counters: one coin, button or bottle cap for each player.",
+      "Energy tokens: cut 5 small paper squares for each player.",
+      "A dice from any board game."
      ]
     }
    ],
    "rules": [
-    "Each player starts on square 1, 6 a.m., with 3 energy tokens.",
-    "On your turn, another player reads you a question card. Playing alone? Read it yourself and check the answer in brackets.",
-    "Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.",
-    "On a TRY IT card, do it. Then gain 1 energy and roll.",
-    "Follow what the square says. You can never have more than 5 energy tokens.",
-    "If your energy reaches 0, you must REST: miss one turn and gain 2 energy.",
-    "When you reach BEDTIME, stop there. The game ends when everyone reaches bedtime. The player with the most energy left wins. Then everyone says one thing their body does during sleep."
+    "Each player puts a counter on square 1, 6 a.m., and takes 3 energy tokens. Energy never goes above 5 or below 0.",
+    "On your turn, another player reads you a card and checks the answer on the back. Playing alone? Read it yourself.",
+    "Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square. If the cards run out, shuffle them and use them again.",
+    "On a TRY IT card, do it for real. Then gain 1 energy and roll.",
+    "Follow what the square you land on says. Squares you move on to from a square do not count: only the square you landed on.",
+    "If your energy is 0 at the start of your turn, you must REST: miss that turn and gain 2 energy.",
+    "When you land on or pass square 16, BEDTIME, take its 1 energy and write down your energy. That is your score. Then keep going through the night to square 24.",
+    "When everyone has reached square 24, the game ends. The highest score wins, and equal scores share the win. Playing alone? Try for a score of 4 or more. Then everyone says one thing their body does during sleep."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the board. 2. Give each player a counter and 3 energy tokens. 3. Shuffle the cards.",
-     "say": "This board is one whole day, from waking up to bedtime. You need energy to get through it. Let's see who reaches bedtime with the most energy left.",
-     "kid": "Put your counter on 6 a.m. Take 3 energy tokens. Mix up the cards. Can you reach bedtime with energy left?",
+     "do": "1. Lay out the board. 2. Give each player a counter and 3 energy tokens. 3. Shuffle the cards and put them in a pile. 4. Put the dice beside the board.",
+     "say": "This board is one whole day and night, from waking up at 6 in the morning to the next morning. You need energy to get through the day. Let's see who has the most energy at bedtime.",
+     "kid": "Put your counter on 6 a.m. Take 3 energy tokens. Mix up the cards. Can you reach bedtime with lots of energy?",
      "context": "This is the first step of the Day and Night game. Here you set up the board."
     },
     {
@@ -436,7 +525,7 @@
      "mins": 3,
      "do": "Play the card 'Does rest help a tired muscle recover?' as a practice round.",
      "say": "Practice card. Does rest help a tired muscle recover?",
-     "kid": "Practice card. Does rest help a tired muscle recover? Tap your answer.",
+     "kid": "Practice card. Does rest help a tired muscle recover? Say your answer, then check the back of the card.",
      "check": {
       "t": "mcq",
       "q": "Does rest help a tired muscle recover?",
@@ -451,17 +540,17 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns. 2. Do every PLAY, REST and TRY IT square for real.",
-     "say": "Answer, roll and move. When you land on PLAY, really do it!",
+     "do": "1. Take turns. 2. Do every PLAY, REST, YOGA, STRETCH and night square for real.",
+     "say": "Answer, roll and move. When you land on a square with something to do, really do it!",
      "kid": "Answer your card. Roll and move. On PLAY squares, really do the star jumps!",
      "parent": "In a flat with neighbours below, swap star jumps for marching on the spot. Most games last about 10 to 15 minutes."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "When everyone reaches bedtime, each player says one thing the body does during sleep.",
+     "do": "When everyone has reached the morning, each player says one thing the body does during sleep.",
      "say": "Everyone is in bed. Tell me one thing your body or brain is doing while you sleep.",
-     "kid": "You reached bedtime. Say one thing your body does while you sleep.",
+     "kid": "You reached the morning. Say one thing your body does while you sleep.",
      "ask": [
       {
        "q": "What does your body do while you sleep?",
@@ -473,7 +562,7 @@
        ]
       }
      ],
-     "think": "Squares 23 and 24 are deep sleep and dreaming sleep. Why does the game end with sleep and not with play?"
+     "think": "Squares 17 to 23 are the night. Why does the board go through the whole night, and not stop at bedtime?"
     }
    ],
    "setup": [
@@ -486,8 +575,8 @@
      "caption": "2. Answer, roll and move. Do the PLAY squares for real."
     },
     {
-     "art": "All the counters on the bedtime square, with a moon and stars above.",
-     "caption": "3. Reach bedtime with the most energy left."
+     "art": "All the counters on the last square, the morning, with a rising sun.",
+     "caption": "3. Your score is your energy at bedtime. Keep going through the night to the morning."
     }
    ]
   },
@@ -521,9 +610,10 @@
     }
    ],
    "rules": [
-    "The caller reads a card. If it begins 'Muscle says', players do it. If not, they stay still.",
+    "The caller reads a card aloud. Sometimes the caller starts with 'Muscle says', and sometimes not. With two players, a grown-up is the caller.",
+    "If the caller said 'Muscle says', the players do the move. If not, they stay still.",
     "Players put a hand on the muscle and say 'hard' or 'soft'.",
-    "Anyone who moves when the caller did not say 'Muscle says' becomes the next caller."
+    "Anyone who moves when the caller did not say 'Muscle says' becomes the next caller. If the cards run out, shuffle them and go on. There is no winner: the aim is to feel every muscle change."
    ],
    "flow": [
     {
@@ -648,7 +738,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child sits with the hand resting on the table. 2. Say 'go' and start the timer. 3. Count every full squeeze out loud, quietly. 4. Say 'stop' at 30 seconds and write the number.",
+     "do": "1. Your child sits with the hand resting on the table. 2. Say 'go' and start the timer. 3. Count every full squeeze under your breath. 4. Say 'stop' at 30 seconds and write the number.",
      "say": "Round 1. Ready, go! Squeeze as fast as you can.",
      "kid": "Round 1. When your helper says go, squeeze as fast as you can. Stop when they say stop.",
      "parent": "Counting under your breath works better than making your child count, so they can put all their effort into squeezing. Most children of 8 manage somewhere between 30 and 70 squeezes in the first round."
@@ -750,8 +840,8 @@
    "mins": 25,
    "days": 1,
    "question": "Do your fingers tire faster when your hand is held up above your head, where less blood reaches it?",
-   "predict": "Guess first. You will squeeze a peg for one minute with your arm held straight up. Later, after a long rest, you will squeeze for one minute with your arm hanging down. Which way will give more squeezes? Why do you think so?",
-   "fair_test": "Use the same peg, the same hand and the same counter both times. Rest 10 minutes between the two tests, so the fingers start fresh. Do the arm-up test first. That way, if arm-down still wins, it cannot be because you had more practice the second time.",
+   "predict": "Guess first. You will squeeze a peg for one minute with your arm hanging down. Later, after a long rest, you will squeeze for one minute with your arm held straight up. Which way will give more squeezes? Why do you think so?",
+   "fair_test": "Use the same peg, the same hand and the same counter both times. Rest 10 minutes between the two tests, so the fingers start fresh. Do the arm-down test first. Practice usually helps the second try, so if the arm-up count is still lower, practice cannot be the reason.",
    "results_table": [
     "Arm position",
     "Squeezes in the first 30 seconds",
@@ -778,12 +868,12 @@
      "qty": 1
     }
    ],
-   "safety": "Plastic pegs can snap, and a spring can pinch. If the fingers really hurt, with a sharp pain rather than an ache, stop at once. Holding the arm up is tiring for the shoulder too, so rest the back of the arm against a wall.",
+   "safety": "Plastic pegs can snap, and a spring can pinch. If the fingers really hurt, with a sharp pain rather than an ache, stop at once.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Squeeze for one minute with the arm up. Rest 10 minutes. Squeeze for one minute with the arm down. Compare."
+     "what": "Squeeze for one minute with the arm hanging down. Rest 10 minutes. Squeeze for one minute with the arm held up against a wall. Compare."
     }
    ],
    "record": "Fill in the table, and draw two bars, one for each arm position.",
@@ -810,27 +900,28 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Explain the test. 2. Ask for a guess and a reason, and write it down.",
-     "say": "First, you squeeze with your arm up for one minute. Then a long rest. Then one minute with your arm down. Which will give more squeezes? Why?",
-     "kid": "Arm up first. Then rest. Then arm down. Which will give more squeezes? Why do you think so?"
+     "say": "First, you squeeze with your arm hanging down for one minute. Then a long rest. Then one minute with your arm held up. Which will give more squeezes? Why?",
+     "kid": "Arm down first. Then rest. Then arm up. Which will give more squeezes? Why do you think so?"
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Your child stands with their back to a wall and raises the squeezing arm straight up, resting it against the wall. 2. Time one minute. Write the count at 30 seconds and at 60 seconds. 3. Ask your child to say 'now' when the ache starts, and write the time.",
-     "say": "Arm up against the wall. Ready, go! Squeeze as fast as you can. Tell me when it starts to ache.",
-     "kid": "Lean your back on the wall. Raise your arm straight up. Squeeze fast for one minute. Say 'now' when it starts to ache.",
-     "parent": "Count quietly. At 30 seconds, note the count without stopping. Most children feel the ache sooner with the arm up."
+     "do": "1. Your child stands with the squeezing arm hanging down at the side. 2. Time one minute. Write the count at 30 seconds and at 60 seconds. 3. Ask your child to say 'now' when the ache starts, and write the time.",
+     "say": "Arm hanging down. Ready, go! Squeeze as fast as you can. Tell me when it starts to ache.",
+     "kid": "Let your arm hang down. Squeeze fast for one minute. Say 'now' when it starts to ache.",
+     "parent": "Count quietly. At 30 seconds, note the count without stopping."
     },
     {
      "id": "s4",
-     "mins": 10,
-     "do": "1. Rest for 10 minutes. Read the Pongal story, or play a game. 2. Then do one minute with the arm hanging down at the side, timed and counted the same way.",
-     "say": "Now a long rest, so your fingers start fresh. Then the same test with your arm hanging down.",
-     "kid": "Rest for 10 minutes. Then do it again with your arm hanging down. Squeeze fast for one minute. Say 'now' when it aches."
+     "mins": 11,
+     "do": "1. Rest for 10 minutes. Read or listen to this unit's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.",
+     "say": "Now a long rest, so your fingers start fresh. Then the same test with your arm held straight up against the wall.",
+     "kid": "Rest for 10 minutes. Then lean your back on the wall and raise your arm straight up. Squeeze fast for one minute. Say 'now' when it aches.",
+     "parent": "Most children feel the ache sooner with the arm up. Resting the arm against the wall stops the shoulder tiring first."
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Compare the totals and the ache times. 2. Ask for what I think, what I saw, why.",
      "say": "Which way gave more squeezes? When did the ache start each time? Tell me what you think, what you saw, and why.",
      "kid": "Which way gave more squeezes? Which started aching sooner? Say what you think, what you saw, and why.",
@@ -845,7 +936,7 @@
       "a": 1,
       "why": "Blood has to be pumped uphill to a raised hand, so less flows there. Less blood means less oxygen to help the muscle refill its fuel, and slower removal of waste. Picking 'the peg gets heavier' means thinking the load changed. It did not: the same peg was used both times."
      },
-     "parent": "Usually the arm-down count is higher and the ache comes later. If your child's results are the other way round, ask what might have been different, such as tired fingers from earlier or counting mistakes. Try again another day."
+     "parent": "Usually the arm-up count is lower and the ache comes sooner. After only one minute the difference can be small, and it can go the other way. If the two counts are within a few squeezes of each other, say honestly that it is too close to call, and try again another day. Ask what might have been different, such as tired fingers from earlier or counting mistakes."
     }
    ],
    "context": "In this experiment you squeeze a peg with your arm held up and then hanging down, to see whether blood flow changes how fast a muscle tires.",
@@ -856,12 +947,12 @@
     "y": "Squeezes",
     "data": [
      {
-      "label": "Arm up",
-      "value": 62
-     },
-     {
       "label": "Arm down",
       "value": 81
+     },
+     {
+      "label": "Arm up",
+      "value": 62
      }
     ]
    },
@@ -871,12 +962,12 @@
      "caption": "1. Hold one hand up and one down. Compare their colour."
     },
     {
-     "art": "A child standing with her back to a wall, one arm raised straight up against the wall, squeezing a peg.",
-     "caption": "2. Squeeze for one minute with the arm up."
+     "art": "The same child standing with the arm hanging down at her side, squeezing the peg, a timer on a stool beside her.",
+     "caption": "2. Squeeze for one minute with the arm hanging down."
     },
     {
-     "art": "The same child with the arm hanging down at her side, squeezing the peg, a timer on a stool beside her.",
-     "caption": "3. After 10 minutes of rest, squeeze with the arm down."
+     "art": "A child standing with her back to a wall, one arm raised straight up against the wall, squeezing a peg.",
+     "caption": "3. After 10 minutes of rest, squeeze for one minute with the arm up."
     }
    ]
   },
@@ -909,7 +1000,6 @@
      "qty": 1
     }
    ],
-   "safety": "None, but a grown-up should hold the book, so it does not slip onto your child's face.",
    "schedule": [
     {
      "day": 1,
@@ -1030,7 +1120,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use a plastic bottle, not glass. Stop as soon as the arm drops.",
    "schedule": [
     {
      "day": 1,
@@ -1121,16 +1210,27 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Shift the weight onto one foot. 2. Place the other foot on the inside of the calf or thigh, never on the knee. 3. Join the hands. 4. Time how long your child stays up, to a limit of 60 seconds. 5. Swap legs.",
+     "do": "1. Shift the weight onto one foot. 2. Place the other foot on the inside of the calf or thigh, never on the knee. 3. Join the hands. 4. Time how long your child stays up, to a limit of 60 seconds, and write it down. 5. Swap legs.",
      "say": "Now tree pose, vrikshasana. Look at one spot on the wall to help you balance. I'll time you.",
      "kid": "Stand on one leg. Put your other foot on the inside of your leg, not on the knee. Look at one spot. How long can you stay?",
-     "parent": "Tiny wobbles are normal. The muscles in the standing foot and leg are working and relaxing all the time to keep the body steady. Ask your child to feel the ankle."
+     "parent": "Tiny wobbles are normal. The muscles in the standing foot and leg are working and relaxing all the time to keep the body steady. Ask your child to feel the ankle.",
+     "check": {
+      "t": "mcq",
+      "q": "In tree pose, why does your standing ankle keep wobbling a little?",
+      "options": [
+       "Because yoga is too hard for children",
+       "Because the muscles in your leg are making tiny changes all the time to keep you balanced",
+       "Because the floor is moving"
+      ],
+      "a": 1,
+      "why": "Staying balanced is not one big push. The muscles in your foot and leg keep making tiny corrections, contracting and relaxing, to keep your weight over your foot. Practice makes the corrections quicker and smaller."
+     }
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "1. Lie on the tummy with hands under the shoulders. 2. Press gently and lift the head and chest, keeping the hips down. 3. Hold for three breaths. Lower slowly.",
-     "say": "This is cobra pose, bhujangasana. Lift your chest slowly, like a cobra lifting their head. Keep your hips on the floor.",
+     "say": "This is cobra pose, bhujangasana. Lift your chest slowly, like a cobra lifting her head. Keep your hips on the floor.",
      "kid": "Lie on your tummy. Hands under your shoulders. Lift your head and chest slowly. Breathe three times. Come down slowly.",
      "parent": "Keep the elbows a little bent. The pose should feel like a gentle stretch at the front of the body, never a pinch in the back."
     },
@@ -1146,18 +1246,7 @@
      "mins": 2,
      "do": "1. Kneel, sit back on the heels and bend forward until the forehead rests on the floor. 2. Rest the arms by the sides. 3. Stay for six slow breaths. This is child's pose, balasana.",
      "say": "Now child's pose. Rest your forehead on the floor. Let every muscle go soft.",
-     "kid": "Kneel and sit back on your heels. Bend forward. Rest your forehead on the floor. Breathe slowly six times.",
-     "check": {
-      "t": "mcq",
-      "q": "In tree pose, why does your standing ankle keep wobbling a little?",
-      "options": [
-       "Because yoga is too hard for children",
-       "Because the muscles in your leg are making tiny changes all the time to keep you balanced",
-       "Because the floor is moving"
-      ],
-      "a": 1,
-      "why": "Staying balanced is not one big push. The muscles in your foot and leg keep making tiny corrections, contracting and relaxing, to keep your weight over your foot. Practice makes the corrections quicker and smaller."
-     }
+     "kid": "Kneel and sit back on your heels. Bend forward. Rest your forehead on the floor. Breathe slowly six times."
     }
    ],
    "setup": [
@@ -1178,7 +1267,7 @@
   {
    "id": "a3",
    "title": "My Sleep Diary and 24-Hour Circle",
-   "mins": 20,
+   "mins": 29,
    "days": 7,
    "materials": [
     {
@@ -1194,7 +1283,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1204,7 +1292,7 @@
     {
      "day": 2,
      "mins": 2,
-     "what": "Write the wake-up time, the hours slept, and how you feel. Write tonight's bedtime."
+     "what": "Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime."
     },
     {
      "day": 3,
@@ -1228,7 +1316,7 @@
     },
     {
      "day": 7,
-     "mins": 5,
+     "mins": 14,
      "what": "Fill in the last row. Draw a 24-hour circle of one day. Look for a pattern."
     }
    ],
@@ -1245,38 +1333,27 @@
     },
     {
      "id": "s2",
-     "mins": 3,
-     "do": "1. Each morning, write the wake-up time. 2. Count the hours slept. 3. Write how your child feels: great, fine or tired.",
+     "mins": 2,
+     "do": "1. Each morning, write the wake-up time. 2. Count the hours slept. 3. Write how your child feels: great, fine or tired. 4. Write how long your child played or exercised yesterday.",
      "say": "What time did you wake up? Let's count how many hours you slept. How do you feel this morning?",
-     "kid": "Write the time you woke up. Count the hours from bedtime. How do you feel? Write great, fine or tired.",
-     "wait": "Do this every morning for 6 days.",
+     "kid": "Write the time you woke up. Count the hours from bedtime. How do you feel? Write great, fine or tired. How long did you play or exercise yesterday?",
+     "wait": "Do this every morning, from day 2 to day 7.",
      "parent": "Counting hours across midnight is good time practice. From 9 at night to 6 in the morning is 9 hours: 3 hours to midnight and 6 more after it."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. On day 7, draw round a plate to make a big circle. 2. Divide it into 24 slices, one for each hour. 3. Colour the hours of sleep, school or study, play and meals in different colours.",
+     "do": "1. On day 7, draw round a plate to make a big circle. 2. Mark 24 equal slices, one for each hour. 3. Think of yesterday. Colour the hours of sleep, school or study, play and meals in different colours.",
      "say": "Let's draw one day as a circle. Each slice is one hour. Which colour takes up the most room?",
-     "kid": "Draw a big circle. Cut it into 24 slices, one for each hour. Colour your sleep hours blue. Colour your play hours green.",
-     "parent": "To make 24 slices, draw a cross to make 4 quarters, then split each quarter into 3, then split each of those in half."
+     "kid": "Draw a big circle round a plate. Mark 24 slices, one for each hour. Colour your sleep hours blue. Colour your play hours green.",
+     "parent": "To make 24 equal slices, draw a cross to make 4 quarters, then split each quarter into 3, then split each of those in half. Or mark a point every 15 degrees with a protractor."
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "Look across the week together and ask about the pattern.",
      "say": "On the mornings you felt great, how many hours had you slept? On the tired mornings?",
-     "kid": "Look at your table. On great mornings, how long did you sleep? On tired mornings?",
-     "check": {
-      "t": "mcq",
-      "q": "How many hours of sleep does a child of 8 need each night?",
-      "options": [
-       "About 5 to 6 hours",
-       "About 9 to 12 hours",
-       "About 14 to 16 hours"
-      ],
-      "a": 1,
-      "why": "Children aged 6 to 12 need about 9 to 12 hours a night. Grown-ups need about 7 to 9. Babies need even more than children. If your diary shows fewer than 9 hours on most nights, try an earlier bedtime for a week and see how you feel."
-     }
+     "kid": "Look at your table. On great mornings, how long did you sleep? On tired mornings?"
     }
    ],
    "setup": [
@@ -1305,7 +1382,7 @@
      "qty": 3
     }
    ],
-   "safety": "Do the moves on a clear floor, away from furniture. No jumping if the neighbours below will be disturbed: march on the spot instead.",
+   "safety": "Do the moves on a clear floor, away from furniture.",
    "schedule": [
     {
      "day": 1,
@@ -1319,7 +1396,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Write one activity on each slip. Use skipping, climbing stairs, kho-kho, swimming, cycling and carrying a bucket of water. Add wall push-ups, yoga, touching your toes, kabaddi, Bharatanatyam and sweeping the floor. 2. Label three bowls: stamina, strength and stretch.",
+     "do": "1. Write one activity on each slip. Use skipping, climbing stairs, kho-kho, swimming, cycling and carrying a bucket of water. Add wall push-ups, yoga, touching your toes, kabaddi, Bharatanatyam and mallakhamb, the pole and rope gymnastics of Maharashtra. 2. Label three bowls: stamina, strength and stretch.",
      "say": "Stamina means keeping going for a long time. Strength means pushing or pulling hard. Stretch means bending far. Let's sort these.",
      "kid": "Read each slip. Is it mostly stamina, strength or stretch? Put it in a bowl.",
      "context": "This is the first step of the exercise sort. Here you write the slips and label the bowls."
@@ -1373,12 +1450,11 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Ask a grandparent or an elderly neighbour five questions about exercise, games and sleep when they were your age."
+     "what": "Ask a grandparent, an older relative or an elderly neighbour five questions about exercise, games and sleep when they were your age."
     }
    ],
    "record": "Write the answers in a table with two columns: then and now.",
@@ -1388,8 +1464,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Help your child write five questions.",
-     "say": "Let's write five questions for Paati, Thatha or an older neighbour about when they were your age.",
-     "kid": "Write five questions. How did you get to school? What games did you play? When did you go to bed? Did you do yoga? Did you have a TV?",
+     "say": "Let's write five questions for a grandparent, a relative or a neighbour about when they were your age.",
+     "kid": "Write five questions. How did you get to school? What games did you play, such as lagori or gilli-danda? When did you go to bed? Did you do yoga? Did you have a TV?",
      "context": "This is the first step of the elder interview. Here you write your questions."
     },
     {
@@ -1425,7 +1501,7 @@
   {
    "id": "p1",
    "title": "My Ten-Day Yoga Log: does practice make me steadier?",
-   "mins": 60,
+   "mins": 70,
    "days": 10,
    "materials": [
     {
@@ -1470,7 +1546,7 @@
     },
     {
      "day": 5,
-     "mins": 5,
+     "mins": 15,
      "what": "Practise for 5 minutes, then test again and write the numbers."
     },
     {
@@ -1517,7 +1593,7 @@
      "say": "Now the sit and reach test. Reach forward slowly. Don't bounce. Hold it while I measure.",
      "kid": "Sit with your feet flat on the wall. Reach slowly towards the wall. Hold still. How far are your fingers from the wall?",
      "adult": true,
-     "parent": "If the fingertips reach past the toes and touch the wall, write the reach as 0, and measure how far up the wall they go next time. The same reach done fast or with a bounce is not fair."
+     "parent": "A smaller number means a better reach. If the fingertips touch the wall, write 0. Reach slowly each time: a reach done fast or with a bounce is not fair."
     },
     {
      "id": "s3",
@@ -1535,7 +1611,7 @@
      "kid": "Draw a bar for day 1, day 5 and day 10. Did you get steadier? Why do you think so?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi's tree pose time went from 12 seconds on day 1 to 40 seconds on day 10. What is the best explanation?",
+      "q": "Nisha, a girl in Class 3, held tree pose for 12 seconds on day 1 and 40 seconds on day 10. What is the best explanation?",
       "options": [
        "Her leg grew longer",
        "Her body and brain got better at the tiny corrections that keep her balanced",
@@ -1584,14 +1660,14 @@
    ],
    "general": [
     "March fast on the spot, or dance on the spot, for stamina.",
-    "Wall push-ups, or sitting against a wall as if on a chair, for strength.",
-    "Cobra pose and a toe-touch stretch for flexibility.",
+    "Slow squats, or sitting against a wall as if on a chair, for strength.",
+    "Cobra pose and a slow side bend for flexibility.",
     "Work for one minute, then rest for 30 seconds, then the next move."
    ],
    "creative": [
     "Make a dice where each number is a move, and roll for the order.",
     "Climb the building stairs slowly, one floor at a time, if your building has stairs.",
-    "Make it a dance to your favourite song, with each verse a different kind of move."
+    "Make it a dance to your favourite song, such as garba, bhangra or a film song, with each verse a different kind of move."
    ],
    "your_turn": "Now plan your own monsoon workout. Write the moves and the rest times on a card. Do it with your family, and time it. Did it work your breath, your muscles and your stretch?",
    "context": "This is a design challenge. You plan a workout for a rainy day in a small flat.",
@@ -1871,7 +1947,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy in Class 3, has a test tomorrow. Which plan will help his body and brain most?",
+   "p": "Karthik, a boy in Class 3, has a test tomorrow. Which plan will help his body and brain most?",
    "opts": [
     "Study late until midnight, then wake up at 6",
     "Study, play outside, and go to bed on time for 10 hours of sleep",
@@ -2095,14 +2171,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the arm up, arm down test, why do the arm-up round first?",
+     "p": "In the arm up, arm down test, why do the arm-down round first?",
      "opts": [
-      "So that if arm-down still wins, it cannot be because of extra practice",
+      "So that if the arm-up count is still lower, it cannot be because of extra practice",
       "Because arms are stronger in the morning",
       "It does not matter at all"
      ],
      "a": 0,
-     "why": "The second try often goes better because you have practised. Doing arm-up first puts that extra practice on the arm-down side, so a win for arm-down must come from something else, such as blood flow.",
+     "why": "The second try often goes better because you have practised. Doing arm-down first puts that extra practice on the arm-up side, so if arm-up is still lower, the reason must be something else, such as blood flow.",
      "how": "e2"
     },
     {
@@ -2213,9 +2289,9 @@
     },
     {
      "t": "write",
-     "p": "Your grown-up's peg counts were bigger than yours, but both sets fell and then rose after rest. Why does the pattern matter more than the size of the numbers?",
+     "p": "Your grown-up's peg counts were different from yours, but both sets fell and then rose after rest. Why does the pattern matter more than the size of the numbers?",
      "lines": 3,
-     "a": "The question was about what rest does. Both of us showed counts falling with no rest and rising after it. Bigger hands just give bigger numbers. The same pattern in two people makes the result less likely to be a fluke.",
+     "a": "The question was about what rest does. Both of us showed counts falling with no rest and rising after it. Different people give different numbers. The same pattern in two people makes the result less likely to be a fluke.",
      "why": "A strong answer says that the test compared rounds within one person, not people with each other.",
      "how": "e1"
     },
@@ -2303,14 +2379,14 @@
     },
     {
      "t": "mcq",
-     "p": "A dolphin must swim up to breathe, even at night. How does a dolphin sleep?",
+     "p": "Dolphins must swim up to breathe, even at night. How do dolphins sleep?",
      "opts": [
-      "With one half of their brain at a time",
+      "With one half of the brain at a time",
       "They never sleep",
       "Only on the beach"
      ],
      "a": 0,
-     "why": "Dolphins rest one half of their brain while the other half stays awake enough to swim and breathe."
+     "why": "Dolphins rest one half of the brain while the other half stays awake enough to swim and breathe."
     },
     {
      "t": "truefalse",
@@ -2386,7 +2462,7 @@
      "t": "write",
      "p": "Your heart rests between every beat, and you rest every night. Name two other things in nature that work and rest in turns.",
      "lines": 3,
-     "a": "A tamarind tree folds their leaves at night and opens them in the day. The sea comes in and goes out with the tides. Birds sleep at night and fly in the day.",
+     "a": "Tamarind trees fold their leaves at night and open them in the day. The sea comes in and goes out with the tides. Birds sleep at night and fly in the day.",
      "why": "Any two true examples of a rhythm of activity and rest are good."
     },
     {
@@ -2431,19 +2507,19 @@
  ],
  "spotted": [
   {
-   "text": "People doing yoga at sunrise on Marina Beach in Chennai, or in a city park.",
+   "text": "People doing yoga at sunrise on Marina Beach in Chennai, on a rooftop in Kolkata, or in a city park.",
    "art": "A row of people in tree pose on a beach at sunrise."
   },
   {
-   "text": "A cricket bowler walking slowly back to the start of their run before bowling again.",
+   "text": "A cricket bowler walking slowly back to the start of the run before bowling again.",
    "art": "A bowler walking back to the bowling mark, breathing slowly."
   },
   {
-   "text": "A street dog asleep in the afternoon shade, twitching their paws in a dream.",
+   "text": "A street dog asleep in the afternoon shade, paws twitching in a dream.",
    "art": "A dog asleep under a parked scooter, paws twitching."
   },
   {
-   "text": "A delivery rider resting on their scooter at a tea stall between orders.",
+   "text": "A delivery rider resting on the scooter at a tea stall between orders.",
    "art": "A delivery rider sitting on a scooter, holding a small glass of tea."
   },
   {
@@ -2478,7 +2554,7 @@
   "What did you dream about last night? Do you remember it?",
   "If you rested your legs for two minutes now, do you think you could run faster?",
   "Which do you do most in a week: stamina, strength or stretching?",
-  "How long do you think the street dog sleeps in a day?",
+  "How long do you think a street dog sleeps in a day?",
   "Why do you think we feel sleepy after a big lunch on a hot day?",
   "What helps you fall asleep fastest?"
  ],
@@ -2496,10 +2572,6 @@
    "a": "She wanted to be on time for her dreams."
   },
   {
-   "j": "What is a yoga teacher's favourite tree?",
-   "a": "The one that stands on one leg."
-  },
-  {
    "j": "Why did the pillow go to the doctor?",
    "a": "It was feeling a bit flat."
   },
@@ -2508,20 +2580,8 @@
    "a": "Hmmm, that felt good."
   },
   {
-   "j": "How do you know your backbone has rested?",
-   "a": "You wake up feeling a little taller."
-  },
-  {
    "j": "Why did the sleepy boy bring a ladder to bed?",
-   "a": "His mother said he would grow in his sleep."
-  },
-  {
-   "j": "What did the alarm clock say to the sleeping girl?",
-   "a": "Rise and shine, the discs are full!"
-  },
-  {
-   "j": "Why does the snake love yoga class?",
-   "a": "Cobra pose is named after him."
+   "a": "His mother told him he would grow in his sleep."
   },
   {
    "j": "What did the bed say to the child at night?",
@@ -2532,21 +2592,13 @@
    "a": "To let her muscles catch up."
   },
   {
-   "j": "Why did the muscle love the rest break?",
-   "a": "It finally had time to refuel."
-  },
-  {
    "j": "What do you call a dinosaur who is fast asleep?",
    "a": "A dino-snore."
-  },
-  {
-   "j": "Why did the moon tell the child to go to bed?",
-   "a": "Because the sun had to get up early."
   }
  ],
  "maths": [
   {
-   "problem": "In the tired peg test, Meera's counts were 48, 41, 36, 32 and 29 in five rounds with no break. How many fewer squeezes did she do in round 5 than in round 1?",
+   "problem": "In the tired peg test, Meera, a girl in Class 3, counted 48, 41, 36, 32 and 29 squeezes in five rounds with no break. How many fewer squeezes did she do in round 5 than in round 1?",
    "answer": "19 fewer.",
    "explain": "48 take away 29 is 19. Count up from 29: 1 more makes 30, then 18 more makes 48. 1 + 18 = 19.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2583,7 +2635,7 @@
    }
   },
   {
-   "problem": "Look at how much Meera's count fell each round: 48 to 41, 41 to 36, 36 to 32, 32 to 29. Is the fall getting bigger or smaller? Guess what round 6 would be without a rest.",
+   "problem": "Meera, a girl in Class 3, did the tired peg test. Her count fell each round: 48 to 41, 41 to 36, 36 to 32, 32 to 29. Is the fall getting bigger or smaller? Guess what round 6 would be without a rest.",
    "answer": "The fall gets smaller each round: 7, then 5, then 4, then 3. Round 6 would probably be about 26 or 27.",
    "explain": "48 − 41 = 7. 41 − 36 = 5. 36 − 32 = 4. 32 − 29 = 3. The drops shrink, so the next drop might be about 2 or 3. 29 − 3 = 26.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -2592,7 +2644,7 @@
    "why_maths": "Finding the pattern in the drops lets you predict what would happen next, before you test it."
   },
   {
-   "problem": "After resting for two minutes, Meera's count went from 29 back up to 43. Her first round was 48. Did the rest bring back all of her strength?",
+   "problem": "In the tired peg test, Meera, a girl in Class 3, rested for two minutes after her fifth round. Her count went from 29 back up to 43. Her first round was 48. Did the rest bring back all of her strength?",
    "answer": "Not all of it. She got back 14 of the 19 squeezes she had lost.",
    "explain": "She lost 48 − 29 = 19 squeezes. The rest brought her up 43 − 29 = 14. 19 − 14 = 5, so she was still 5 short of round 1. A longer rest would probably bring back the rest.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2601,7 +2653,7 @@
    "why_maths": "Comparing what was lost with what came back tells you how much a short rest helps."
   },
   {
-   "problem": "Kavya goes to sleep at 9 at night and wakes up at 6:30 in the morning. How long did she sleep? Is it enough for a child of 8?",
+   "problem": "Kavya, a girl in Class 3, goes to sleep at 9 at night and wakes up at 6:30 in the morning. How long did she sleep? Is it enough for a child of 8?",
    "answer": "9 and a half hours. Yes, it is within the 9 to 12 hours a child of 8 needs.",
    "explain": "From 9 at night to midnight is 3 hours. From midnight to 6 in the morning is 6 hours. Then 30 more minutes to 6:30. 3 + 6 = 9 hours, plus half an hour.",
    "math_unit": "math.time.duration.L3",
@@ -2619,7 +2671,7 @@
    "why_maths": "Seeing sleep as a part of the whole day shows how much of your life is rest."
   },
   {
-   "problem": "Lakshmi measured her height at bedtime: 128.3 cm. In the morning she measured 129.0 cm. How many millimetres taller was she in the morning?",
+   "problem": "Sneha, a girl in Class 3, measured her height at bedtime: 128.3 cm. In the morning she measured 129.0 cm. How many millimetres taller was she in the morning?",
    "answer": "7 millimetres.",
    "explain": "129.0 − 128.3 = 0.7 centimetres. One centimetre is 10 millimetres, so 0.7 centimetres is 7 millimetres.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -2628,7 +2680,7 @@
    "why_maths": "The difference is very small, so changing to millimetres makes it easier to see and compare."
   },
   {
-   "problem": "In the arm up, arm down test, Divya squeezed 62 times with her arm up and 81 times with her arm down. Her brother squeezed 70 times arm up and 90 times arm down. Did both show the same pattern?",
+   "problem": "In the arm up, arm down test, Divya, a girl in Class 3, squeezed 62 times with her arm up and 81 times with her arm down. Her brother squeezed 70 times arm up and 90 times arm down. Did both show the same pattern?",
    "answer": "Yes. Both did more squeezes with the arm down: Divya 19 more, her brother 20 more.",
    "explain": "81 − 62 = 19. 90 − 70 = 20. The numbers are different, but both did better with the arm down by about the same amount.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2728,8 +2780,7 @@
    "used_in": [
     "a2",
     "p1"
-   ],
-   "plan": "Used again whenever the family does yoga together."
+   ]
   }
  ],
  "warmup": [
@@ -2848,14 +2899,14 @@
   "deep_truth": {
    "truth": "In the peg test, your squeezes slowed each round you did not rest. After two minutes of rest, your count went up again. In those two minutes, your blood brought oxygen and helped the muscle refill its fuel. So a resting muscle is busy, getting ready to work again.",
    "habit": "We split the day into working and resting, and think of resting as doing nothing. But the peg test shows that strength comes back during rest, because the body is busy refilling and clearing the muscle.",
-   "evidence": "The peg count fell from round to round without a break, then rose after two minutes of rest. With the arm held up, so less blood reached the hand, the fingers tired faster."
+   "evidence": "The peg count fell from round to round without a break, then rose after two minutes of rest. With the arm held up, so less blood reached the hand, the fingers usually tired a little faster."
   },
   "three": {
    "who_am_i": "You are a body that works and rests in turns, all day and all night. Even your heart rests for a moment between beats.",
-   "what_is_life": "Every living thing has times of activity and times of rest. A tamarind tree folds their leaves at night, and a dog sleeps and dreams.",
+   "what_is_life": "Every living thing has times of activity and times of rest. Tamarind trees fold their leaves at night, and a dog sleeps and dreams.",
    "what_is_this_world": "The Earth turns from day to night, and the sea comes in and goes out. Much of the world moves in rhythms of more and less."
   },
-  "thread": "The peg test showed a rhythm: work uses the fuel up, and rest fills it again. The same rhythm runs through many things. Your heart contracts and then relaxes, every second of your life. Your lungs fill and empty. The Earth turns its face to the Sun and away again. A tamarind tree folds their leaves at night. Your whole body sleeps and wakes. One rhythm of using and refilling shows up in muscles, hearts, trees and planets.",
+  "thread": "The peg test showed a rhythm: work uses the fuel up, and rest fills it again. Your heart contracts and then relaxes, every second of your life. Your lungs fill and empty. Tamarind trees fold their leaves at night and open them by day. Your whole body sleeps and wakes.",
   "teachings": [
    {
     "source": "Bhagavad Gita 6.16–6.17",
@@ -2904,7 +2955,7 @@
   ],
   "art": "A child lying on a mat on a balcony at dusk, eyes closed and hands open, a tamarind tree outside with folded leaves, and the first stars appearing."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home in a city flat with the materials listed. The tired peg test needs a firm peg: a very soft one may not tire the fingers in five rounds, so the step says to hold two pegs together if needed. The helper counts under their breath, so the child can put all their effort into squeezing. A grown-up repeats the test, because the pattern matters more than the numbers. The arm up, arm down test does the arm-up round first and rests 10 minutes between rounds, so practice cannot explain an arm-down win, and the arm rests against a wall so the shoulder does not give out first. The height test asks for three marks each time and the middle one, because a home tape measure can be a millimetre or two off. It warns that a difference of 1 or 2 millimetres could be a mistake, and suggests measuring a grown-up too. Star jumps in the game become marching on the spot in flats with neighbours below. The sleep diary shows how to count hours across midnight. Timings were checked step by step. The spine fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home in a city flat with the materials listed. The tired peg test needs a firm peg: a very soft one may not tire the fingers in five rounds, so the step says to hold two pegs together if needed. The helper counts under their breath, so the child can put all their effort into squeezing. A grown-up repeats the test, because the pattern matters more than the numbers. The arm up, arm down test does the arm-down round first and rests 10 minutes between rounds, so practice cannot explain a low arm-up count, and the arm rests against a wall so the shoulder does not give out first. It says honestly that the difference can be small after one minute. The height test asks for three marks each time and the middle one, because a home tape measure can be a millimetre or two off. It warns that a difference of 1 or 2 millimetres could be a mistake, and suggests measuring a grown-up too. Star jumps in the game become marching on the spot in flats with neighbours below. The board game has 24 listed squares and 24 cards, and was played through for two and for four players. The sleep diary shows how to count hours across midnight. Timings were checked step by step.",
  "how_we_found_out": {
   "story": "For a long time, many scientists thought sleep was the brain switching off, like a lamp at night. In 1951 Eugene Aserinsky was a student at the University of Chicago, working for the sleep scientist Nathaniel Kleitman. Aserinsky used a machine that recorded the brain's tiny electrical signals, and the movements of the eyes, with wires taped to the head. His first sleeper was his own son, Armond, who was 8 years old. All night the pens of the machine scratched lines on paper. Several times in the night, the lines went wild. Armond's eyes were darting about under his closed lids, and his brain signals looked almost like those of someone awake. At first Aserinsky thought the old machine was broken. But it happened again and again, in other sleepers too, at regular times each night. When sleepers were woken during these times, they usually said they had been dreaming. In 1953 Aserinsky and Kleitman published what they found. They had discovered dreaming sleep, called REM sleep. The brain does not switch off at night.",
   "who": "Eugene Aserinsky, a student, and Nathaniel Kleitman, a sleep scientist, at the University of Chicago, with Aserinsky's son Armond as the first sleeper",

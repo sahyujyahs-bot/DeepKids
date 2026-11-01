@@ -31,6 +31,10 @@
   "src": "media/img/sci.magnets.magnets-and-materials.L3/flow.e3.jpg",
   "credit": "Tatiana Gerus from Brisbane, Australia, CC BY 2.0, via Wikimedia Commons"
  },
+ "intro": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/intro.jpg",
+  "credit": "OpenStax, CC BY 4.0, via Wikimedia Commons"
+ },
  "setup.a1.0": "media/img/sci.magnets.magnets-and-materials.L3/setup.a1.0.svg",
  "setup.a2.0": "media/img/sci.magnets.magnets-and-materials.L3/setup.a2.0.svg",
  "setup.a2.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.a2.2.svg",
@@ -77,6 +81,10 @@
  "term.21": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/term.21.jpg",
   "credit": "NASA, public domain"
+ },
+ "term.22": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/term.22.jpg",
+  "credit": "Codrin Bucur, CC BY, via iNaturalist"
  },
  "term.4": "media/img/sci.magnets.magnets-and-materials.L3/term.4.svg",
  "term.5": "media/img/sci.magnets.magnets-and-materials.L3/term.5.svg",

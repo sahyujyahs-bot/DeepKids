@@ -15,7 +15,7 @@
   "I can give examples of how plants help animals: with food, shelter and oxygen.",
   "I can explain how animals help plants, by carrying pollen, carrying seeds and feeding the soil.",
   "I can run a fair test that shows tomato juice holds seeds back from sprouting, and say what I saw.",
-  "I can explain why many plants grow sweet fruit, and what happens to the seeds when an animal eats it.",
+  "I can explain why many plants grow sweet fruit, and what happens to the seeds when an animal eats the fruit.",
   "I can tell how the fig tree and the fig wasp depend on each other, and what mutualism means.",
   "I can name ways to be kind to the small living things around me, and say why harming one kind can harm others."
  ],
@@ -41,7 +41,7 @@
   },
   {
    "term": "Pollination",
-   "meaning": "Pollen reaching the part of a flower that makes seeds. Often an animal or the wind brings it from another flower.",
+   "meaning": "Pollen reaching the part of a flower that makes seeds. Often an animal or the wind carries the pollen from another flower.",
    "example": "A bee drinking in one pumpkin flower gets pollen on her body. She leaves some of it in the next pumpkin flower she visits.",
    "art": "A bee flying from one yellow pumpkin flower to another, with a dotted line of pollen grains behind her."
   },
@@ -84,7 +84,7 @@
   {
    "term": "Ahimsa",
    "meaning": "Not harming any living being. It is an old teaching in Jain, Buddhist and Hindu traditions.",
-   "example": "Carrying a spider out of the house on a sheet of paper, instead of squashing her, is ahimsa.",
+   "example": "Carrying a spider out of the house on a sheet of paper, instead of squashing the spider, is ahimsa.",
    "art": "A child gently carrying a small spider under a clear cup on a postcard towards an open window."
   }
  ],
@@ -100,7 +100,7 @@
     "Your idli was made from rice and urad dal plants, and tiny living things in the batter made it rise."
    ],
    "perspectives": [],
-   "art": "A neem tree with a crow's nest in it, a cow grazing below, an earthworm in the soil, and a family eating idli on a verandah nearby.",
+   "art": "A neem tree with a crow's nest in her branches, a cow grazing below, an earthworm in the soil, and a family eating idli on a verandah nearby.",
    "context": "This card says what interdependence means, with everyday examples from around an Indian home."
   },
   {
@@ -120,10 +120,10 @@
   {
    "concept": "How animals carry pollen",
    "status": "defined",
-   "definition": "Pollination is pollen reaching the part of a flower that makes seeds. Many plants need an animal to carry it there.",
+   "definition": "Pollination is pollen reaching the part of a flower that makes seeds. Many plants need an animal to carry the pollen there.",
    "description": "A plant stays in one place, so she cannot take her pollen to another flower herself. Many flowers offer visitors nectar and some pollen to eat. While a bee drinks, pollen sticks to the hairs on her body. At the next flower, some of it rubs off, and that flower can now make seeds. Bright colours and strong smells help animals find flowers. Scientists estimate that animals carry the pollen of about 87 in every 100 kinds of flowering plants. Most grasses use the wind instead, and rice and wheat flowers mostly pollinate themselves.",
    "examples": [
-    "Bees carry pollen between mustard flowers. Farmers in Punjab and Rajasthan keep bee boxes in mustard fields.",
+    "Bees carry pollen between mustard flowers. Farmers in Rajasthan and West Bengal keep bee boxes in mustard fields.",
     "Fruit bats drink nectar from the night flowers of the kapok tree, the tree that gives the soft cotton for pillows.",
     "In Madagascar, an orchid hides her nectar at the bottom of a tube up to 35 centimetres long. Only a moth with a tongue that long can reach it, and carry her pollen."
    ],
@@ -138,7 +138,7 @@
    "description": "A seed that falls right under her parent tree must grow in deep shade, crowded by many other seedlings. A seed carried far away has a better chance. Plants cannot carry their seeds, so many plants wrap them in sweet flesh. Birds, bats, monkeys and people eat the flesh. Small seeds pass through an animal's gut unharmed and come out in the droppings, often far away. Big seeds, like a mango stone, are dropped or spat out. Many fruits stay green, hard and sour until their seeds are ready. Then they turn soft, sweet and coloured, and animals come to eat them.",
    "examples": [
     "Peepal and banyan plants growing out of walls and terraces came from seeds in bird droppings.",
-    "Birds eat red chillies and do not feel the burning taste. Mammals do. So birds, not mammals, carry most wild chilli seeds.",
+    "The burning taste of red chillies does not bother birds, but it bothers mammals. So birds, not mammals, carry most wild chilli seeds.",
     "In the forests of the Western Ghats, hornbills eat figs and wild nutmegs and drop the seeds far across the forest."
    ],
    "perspectives": [],
@@ -183,7 +183,7 @@
     "A field where cows graze grows thick grass where their dung fell."
    ],
    "perspectives": [],
-   "art": "A cut-away view of soil with an earthworm tunnel, roots reaching into it, and worm castings on top.",
+   "art": "A cut-away view of soil with an earthworm tunnel, roots reaching into the soil, and worm castings on top.",
    "context": "This card is about one more way animals help plants: by feeding the soil."
   },
   {
@@ -353,12 +353,12 @@
   {
    "id": "e1",
    "title": "The Juice Test: why don't seeds sprout inside a tomato?",
-   "mins": 51,
+   "mins": 46,
    "days": 8,
    "context": "In this experiment you take the seeds out of a ripe tomato. You wash some of them clean, and keep some in the tomato's own juice. Then you watch for a week to see which ones sprout.",
    "question": "Does the juice of a tomato stop her seeds from sprouting?",
    "predict": "Guess first. One box will have 10 washed seeds on tissue wet with water. The other will have 10 seeds on tissue wet with tomato juice. How many seeds in each box will sprout in a week? Why do you think so?",
-   "fair_test": "Use seeds from the same tomato, and 10 in each box. Use the same tissue and the same amount of liquid, and keep the two boxes side by side. Only the liquid is different: water in one box, tomato juice in the other. We use 10 seeds in each box, not 1, because any one seed might not sprout anyway.",
+   "fair_test": "Use seeds from the same tomato, 10 in each box. Use the same tissue and the same amount of liquid, and keep the two boxes side by side in the same warm place. Only one thing differs: in Box W the seeds are washed and wet with water, and in Box J the seeds stay in their jelly and are wet with tomato juice. We use 10 seeds in each box, not 1, because any one seed might not sprout anyway.",
    "results_table": [
     "Day",
     "Box W (water): seeds sprouted",
@@ -404,11 +404,11 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up cuts the tomato. Wash your hands after touching the seeds and the juice. White or grey fuzz in the juice box is mould: don't sniff it closely, and throw the tissue away in a closed bag when the test ends.",
+   "safety": "A grown-up cuts the tomato. Wash your hands after touching the seeds and the juice. White or grey fuzz in the juice box is mould. Don't put your nose close to the box, and throw the tissue away in a closed bag when the test ends.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 22,
      "what": "Cut the tomato. Wash 10 seeds. Set up Box W with water and Box J with juice. Guess what will happen."
     },
     {
@@ -443,7 +443,7 @@
     },
     {
      "day": 8,
-     "mins": 12,
+     "mins": 10,
      "what": "Count for the last time. Say what you think, what you saw and why. Keep Box J for the next experiment."
     }
    ],
@@ -481,7 +481,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Spoon about 10 seeds into the tea strainer. 2. Rinse them under the tap. 3. Rub them gently between finger and thumb until they no longer feel slippery. 4. Count out exactly 10 clean seeds.",
+     "do": "1. Rinse the tea strainer. 2. Spoon about 10 seeds into it and rinse them under the tap. 3. Rub them gently between finger and thumb until they no longer feel slippery. 4. Count out exactly 10 clean seeds.",
      "say": "These seeds will be our washed seeds. Rub them until the slippery jelly has gone. They should feel like tiny flat buttons.",
      "kid": "Put 10 seeds in the strainer. Wash them under the tap. Rub gently until they are not slippery. Count 10.",
      "parent": "Each tomato seed has a slippery coat of jelly. Rinsing and rubbing takes most of it off. A few hairy fibres on the seed are fine."
@@ -490,7 +490,7 @@
      "id": "s4",
      "mins": 8,
      "do": "1. Fold tissue into 4 layers in each box. 2. Label one box W, for water, and the other J, for juice. 3. Box W: wet the tissue with 2 teaspoons of water. Lay the 10 washed seeds on it, a little apart. 4. Box J: wet the tissue with 2 teaspoons of tomato juice. Lay 10 seeds from the bowl on it, still in their jelly. 5. Close both lids. Put the boxes side by side in a warm place out of direct sun, such as the top of the fridge.",
-     "say": "Both boxes get the same seeds, the same tissue and the same amount of liquid. Only the liquid is different. Now guess. How many will sprout in each box, and why?",
+     "say": "Both boxes get seeds from the same tomato, the same tissue and the same amount of liquid. Only one thing is different: Box J seeds keep their jelly and juice, and Box W seeds are washed and given water. Now guess. How many will sprout in each box, and why?",
      "kid": "Fold the tissue in both boxes. Wet Box W with water. Wet Box J with juice. Put 10 seeds in each. Close the lids. How many will sprout? Why?",
      "ask": [
       {
@@ -530,7 +530,7 @@
       "a": 1,
       "why": "Both boxes had seeds from the same tomato, the same tissue and the same warm place. Only the liquid was different, so the juice made the difference. 'Dead' is a fair guess, and the next experiment tests it by washing the Box J seeds. 'Need soil' can't be right, because the washed seeds sprouted with no soil at all."
      },
-     "parent": "Real results vary. Box J may have 1 or 2 sprouts, often where the juice dried out. That is still a big difference. If neither box sprouted, the tomato may have been picked too green, or the room was cold. Try again with a very soft, ripe tomato in a warmer place."
+     "parent": "Real results vary. Box J may have 1 or 2 sprouts, often where the juice dried out. That is still a big difference. If neither box sprouted, the tomato may have been picked too green, or the room was cold. Try again with a very soft, ripe tomato in a warmer place. If Box J grows white or grey mould, bin the mouldy seeds in a closed bag. Keep the clean seeds for the next experiment."
     },
     {
      "id": "s7",
@@ -615,7 +615,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Wash your hands after touching the old juice and tissue. Throw the old tissue away in a closed bag.",
+   "safety": "Wash your hands after touching the old juice and tissue. If seeds have white or grey mould, don't put your nose close to them. Throw the mouldy seeds and tissue away in a closed bag.",
    "schedule": [
     {
      "day": 1,
@@ -747,16 +747,15 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the plates away from food you will eat. Throw the banana pieces away in a closed bin when you finish, and wash your hands.",
    "schedule": [
     {
      "day": 1,
-     "mins": 12,
+     "mins": 9,
      "what": "Cut two pieces the same size. Put them side by side. Guess. Count visitors in the evening."
     },
     {
      "day": 2,
-     "mins": 14,
+     "mins": 17,
      "what": "Count visitors in the morning and at midday. Compare. Say what you think, what you saw and why."
     }
    ],
@@ -803,7 +802,7 @@
        "Green bananas are poisonous"
       ],
       "a": 1,
-      "why": "As a fruit ripens, she makes her flesh soft and sweet and gives off a strong smell. Animals follow the smell to the fruit. In wild bananas, the flesh is full of hard seeds, and ripening is what calls the animals that carry them. 'The colour yellow' is a good idea to test: you could paint a green banana yellow and see. Green bananas are not poisonous, just hard and starchy."
+      "why": "As a fruit ripens, the flesh turns soft and sweet and gives off a strong smell. Animals follow the smell to the fruit. In wild bananas, the flesh is full of hard seeds, and ripening is what calls the animals that carry them. 'The colour yellow' is a good idea to test: you could paint a green banana yellow and see. Green bananas are not poisonous, just hard and starchy."
      },
      "parent": "If no fruit flies come in two days, look for ants or house flies instead, or try again in a warmer month. The bananas we buy have tiny soft seeds that don't grow, because people chose seedless kinds. Wild bananas are full of hard black seeds."
     },
@@ -813,7 +812,7 @@
      "do": "Ask for three sentences: what I think, what I saw, why.",
      "say": "What do you think now? What did you see? And why do you think it happened?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: animals come to ripe fruit much more than to green fruit. I saw 12 fruit flies on the ripe banana and 1 on the green one. A ripe fruit smells strong and tastes sweet, so animals find her and eat her when her seeds are ready."
+     "parent": "A good answer: animals come to ripe fruit much more than to green fruit. I saw 12 fruit flies on the ripe banana and 1 on the green one. A ripe fruit smells strong and tastes sweet, so animals find it and eat it when its seeds are ready."
     }
    ],
    "setup": [
@@ -894,7 +893,7 @@
       "a": 1,
       "why": "Guava seeds are tiny and hard, so many pass through a bird's gut unharmed and land far from the tree. Picking 'digests them all' is a fair guess, because we digest most food. But many small, hard seeds come through whole. Parrots do crack and eat some seeds, so not every seed survives."
      },
-     "parent": "Rough answers. Swallowed: guava, tomato, papaya, chilli, fig. Dropped or spat out: mango, jamun, custard apple. Monkeys, bats and people eat mangoes and drop the stone. Birds swallow red chillies and do not feel the burn."
+     "parent": "Rough answers. Swallowed: guava, tomato, papaya, chilli, fig. Dropped or spat out: mango, jamun, custard apple. Monkeys, bats and people eat mangoes and drop the stone. Birds swallow red chillies, because the burn does not bother them."
     },
     {
      "id": "s3",
@@ -918,10 +917,10 @@
   },
   {
    "id": "a2",
-   "title": "Cup and Card: move a small creature without harming her",
+   "title": "Cup and Card: move a small creature without harming them",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you learn a way to move a small creature out of the house without hurting her. This is one way to practise ahimsa, not harming any living being.",
+   "context": "In this activity you learn a way to move a small creature out of the house without hurting them. This is one way to practise ahimsa, not harming any living being.",
    "materials": [
     {
      "item": "a clear plastic cup or a glass tumbler",
@@ -929,6 +928,10 @@
     },
     {
      "item": "a stiff card, such as a postcard or the back of an old notebook",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper, a pencil and scissors, for a paper beetle",
      "qty": 1
     },
     {
@@ -944,31 +947,31 @@
      "what": "Practise cup and card. Move one small creature outside, gently."
     }
    ],
-   "record": "Draw the creature you moved and where you set her free.",
+   "record": "Draw the creature you moved and where you set them free.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Cup and Card. You practise on a paper beetle first.",
      "do": "1. Draw and cut out a small paper beetle. 2. Put it on the floor. 3. Show your child: put the cup over it, slide the card under slowly, then lift cup and card together.",
-     "say": "This is how to catch a small creature without touching her. Cup over, card under, lift both together.",
+     "say": "This is how to catch a small creature without touching them. Cup over, card under, lift both together.",
      "kid": "Cup over. Card under, slowly. Lift both together. Try it on the paper beetle.",
      "parent": "Slide the card slowly, so a real creature can step onto it rather than being squashed."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Find a real small creature, if there is one. 2. Catch her with cup and card. 3. Carry her to a balcony, a plant pot or a window ledge, and lift the cup.",
-     "say": "She is small, and our house is a big strange place for her. Let's take her somewhere she can live.",
-     "kid": "Catch her with the cup and card. Carry her outside. Lift the cup gently. Watch her go.",
+     "do": "1. Find a real small creature, if there is one. 2. Catch the creature with the cup and card. 3. Carry them to a balcony, a plant pot or a window ledge, and lift the cup.",
+     "say": "They are small, and our house is a big strange place for them. Let's take them somewhere they can live.",
+     "kid": "Catch the creature with the cup and card. Carry them outside. Lift the cup gently. Watch them go.",
      "adult": true,
-     "parent": "If there is no creature today, keep the cup and card by the door for the next one. Ants on a kitchen counter can be wiped onto a card and carried out too."
+     "parent": "If there is no creature today, practise on the paper beetle again and keep the cup and card by the door for the next one. Ants on a kitchen counter can be wiped onto a card and carried out too."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about it.",
-     "say": "Spiders eat mosquitoes. Ants carry away crumbs and dead insects. What might this little creature do for the other living things around her?",
+     "say": "Spiders eat mosquitoes. Ants carry away crumbs and dead insects. What might this little creature do for the other living things around them?",
      "kid": "Spiders eat mosquitoes. Ants clear away crumbs. What might your creature do for others?",
      "think": "Who might need the creature you just set free?"
     }
@@ -1004,7 +1007,6 @@
      "qty": 1
     }
    ],
-   "safety": "If ants go inside the house, wipe the kolam away with a wet cloth.",
    "schedule": [
     {
      "day": 1,
@@ -1042,12 +1044,12 @@
        "q": "Who came to the kolam, and what did they get from it?",
        "good": [
         "Ants came and carried away bits of flour.",
-        "A sparrow or a pigeon pecked at it.",
+        "A sparrow or a pigeon pecked at the flour.",
         "The wind blew some away, and nobody came."
        ]
       }
      ],
-     "parent": "Ants are the most likely guests. Sparrows, pigeons and mynas sometimes come. If nobody came, that is a result too: talk about why."
+     "parent": "Ants are the most likely guests. Sparrows, pigeons and mynas sometimes come. If nobody came, that is a result too: talk about why. If ants start walking into the house, wipe the kolam away with a wet cloth."
     }
    ],
    "setup": [
@@ -1077,15 +1079,18 @@
      "qty": 10
     },
     {
-     "item": "a few small yellow paper dots and a piece of tape, for pollen",
-     "qty": 1
+     "item": "about 5 small yellow paper dots and a piece of tape, for pollen",
+     "qty": 5
     },
     {
-     "item": "a dupatta or scarf, for wings",
+     "item": "a few small white paper dots, for eggs",
+     "qty": 3
+    },
+    {
+     "item": "a scarf or a thin towel, for wings",
      "qty": 1
     }
    ],
-   "safety": "Crawl slowly so the chairs don't tip over.",
    "schedule": [
     {
      "day": 1,
@@ -1107,7 +1112,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Your child crawls in through the gap. Take the scarf off as they squeeze in: the wings tear off. 2. Inside, they press a pollen dot onto three flowers. 3. They lay paper eggs on two other flowers.",
+     "do": "1. Your child crawls in through the gap. Take the scarf off as they squeeze in: the wings tear off. 2. Inside, they press a pollen dot onto three flowers. 3. They lay white paper dots, for eggs, on two other flowers.",
      "say": "The gap is so tight that the wasp's wings often tear off. Now give pollen to the flowers. Then lay your eggs.",
      "kid": "Squeeze in. Your wings come off! Give pollen to 3 flowers. Lay your eggs on 2 more.",
      "check": {
@@ -1125,7 +1130,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child crawls out as the wasp's daughter, with a new pollen dot. She flies to the next 'fig', the table.",
+     "do": "Your child crawls out as the wasp's daughter, with a new pollen dot, and flies to the next 'fig', the table.",
      "say": "Now you are her daughter, grown up inside the fig. You fly out carrying pollen, to find a new fig.",
      "kid": "Now you are her daughter. Crawl out with new pollen. Fly to a new fig!",
      "parent": "The mother wasp dies inside the fig. Children sometimes find this sad. You can say that her young grow up in the fig, and her daughters carry on."
@@ -1147,7 +1152,7 @@
    "title": "Who Made My Breakfast? A map of helpers near and far",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you take one meal and list every plant and animal that helped make it, and where in India or the world each one lives.",
+   "context": "In this activity you take one meal and list every plant and animal that helped make the meal, and where in India or the world each one lives.",
    "materials": [
     {
      "item": "one meal, such as idli, coconut chutney, sambar and filter coffee, or whatever you ate today",
@@ -1162,7 +1167,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1176,9 +1180,9 @@
      "id": "s1",
      "mins": 6,
      "context": "This is the first step of Who Made My Breakfast. You list the foods in one meal and the plants they came from.",
-     "do": "1. Write each food in the meal. 2. Next to each one, write the plant or animal it came from.",
+     "do": "1. Write each food in the meal. 2. Next to each one, write the plant or animal that food came from.",
      "say": "Let's take our breakfast apart. Idli is rice and urad dal. Chutney is coconut. Coffee is a seed. Who grew each one?",
-     "kid": "Write each food in your breakfast. Next to it, write the plant or animal it came from."
+     "kid": "Write each food in your breakfast. Next to it, write the plant or animal that food came from."
     },
     {
      "id": "s2",
@@ -1186,7 +1190,7 @@
      "do": "1. For each plant, think of the helpers they needed: bees for flowers, worms for soil, microbes in the batter, farmers. 2. Read packets, or guess, to find where each grew.",
      "say": "Coconut palms grow in Kerala and along the coast. Coffee grows in the hills of Kodagu and Chikmagalur. Who else helped? The tiny living things in the batter made the idli rise.",
      "kid": "Who helped each plant grow? Bees? Worms? Farmers? Where did each one grow? Draw arrows.",
-     "parent": "Some facts to share. Idli batter rises because bacteria and yeasts in it feed and make gas overnight. Coffee flowers are visited by bees, and more beans form when they are. Many of our foods travel hundreds of kilometres to reach us."
+     "parent": "Some facts to share. Idli batter rises because the bacteria and yeasts in the batter feed and make gas overnight. Coffee flowers are visited by bees, and more beans form when they are. Many of our foods travel hundreds of kilometres to reach us."
     },
     {
      "id": "s3",
@@ -1241,15 +1245,23 @@
      "buy": "b-pot"
     },
     {
+     "item": "a small cup of soil or a second small pot, for the extra seedlings",
+     "qty": 1
+    },
+    {
      "item": "a stick about 1 metre long, and some soft string",
      "qty": 1
+    },
+    {
+     "item": "red and blue wool or thread, for marking two flower clusters",
+     "qty": 2
     },
     {
      "item": "a sunny balcony or window that gets at least 5 hours of sun a day",
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes any holes in a tin. Wash your hands after handling soil.",
+   "safety": "A grown-up makes any holes in a tin.",
    "schedule": [
     {
      "day": 1,
@@ -1259,7 +1271,7 @@
     {
      "day": 14,
      "mins": 8,
-     "what": "Keep the strongest 1 or 2 seedlings and move the others to another pot. Measure the tallest."
+     "what": "Keep the strongest 1 or 2 seedlings. Lift the extra seedlings with a spoon into a cup of soil. Measure the tallest."
     },
     {
      "day": 28,
@@ -1274,20 +1286,20 @@
     {
      "day": 50,
      "mins": 10,
-     "what": "When yellow flowers open, gently tap each flower stalk with a finger, once a day for a week."
+     "what": "When yellow flowers open, pick two flower clusters of similar size on the same plant. Tie red wool near one and blue wool near the other. Tap only the red one, once a day for a week."
     },
     {
      "day": 60,
      "mins": 15,
-     "what": "Count the flowers that turned into tiny green tomatoes, and the ones that fell off."
+     "what": "Count the flowers that turned into tiny green tomatoes in the red cluster and in the blue cluster, and the ones that fell off."
     },
     {
      "day": 70,
      "mins": 15,
-     "what": "Count and draw the green tomatoes. Say what you think, what you saw and why."
+     "what": "Count and draw the green tomatoes on each cluster. Say what you think, what you saw and why."
     }
    ],
-   "record": "A growth diary: the date, the height of the tallest plant, the number of flowers and the number of tomatoes, with a drawing every two weeks.",
+   "record": "A growth diary: the date, the height of the tallest plant, the number of flowers and the number of tomatoes, with a drawing every two weeks. At the end, the tomatoes on the red (tapped) and blue (untapped) clusters.",
    "flow": [
     {
      "id": "s1",
@@ -1301,29 +1313,29 @@
     },
     {
      "id": "s2",
-     "mins": 8,
-     "do": "Every two weeks, measure the tallest plant with a ruler and draw her in the diary.",
+     "mins": 24,
+     "do": "Every two weeks (days 14, 28 and 42), measure the tallest plant with a ruler and draw her in the diary. On day 14, keep the strongest 1 or 2 seedlings and lift the others into a cup of soil. On day 28, tie the plant loosely to the stick.",
      "say": "How tall is she now? Let's write it down and draw her.",
      "kid": "Measure your tomato plant. Draw her. Write the height.",
-     "wait": "Come back every two weeks."
+     "wait": "Come back on days 14, 28 and 42."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "When the yellow flowers open, tap each flower stalk gently with a finger, once a day, for a week.",
-     "say": "Tomato flowers drop their pollen when they are shaken. Outside, bees buzz on them and the wind shakes them. On a balcony there are few bees and little wind. So we will be her bee.",
-     "kid": "The flowers are open! Tap each flower stalk gently. You are being her bee.",
-     "parent": "Some bees hold a tomato flower and buzz their flight muscles, which shakes the pollen out. This is called buzz pollination. Gardeners copy it by tapping, or by touching the stalk with an electric toothbrush for a second."
+     "do": "When the yellow flowers open, pick two flower clusters of similar size on the same plant. Tie red wool near one and blue near the other. Tap each flower stalk of the red cluster gently with a finger, once a day, for a week. Never tap the blue one.",
+     "say": "Tomato flowers drop their pollen when they are shaken. Outside, bees buzz on them and the wind shakes them. On a balcony there are few bees and little wind. So we will be her bee, but only for the red cluster. The blue one is our comparison.",
+     "kid": "The flowers are open! Tap the stalks of the red cluster gently. You are being her bee. Leave the blue cluster alone.",
+     "parent": "Some bees hold a tomato flower and buzz their flight muscles, which shakes the pollen out. This is called buzz pollination. Gardeners copy it by tapping, or by touching the stalk with an electric toothbrush for a second. A balcony plant has only a few flowers, so two clusters give a hint, not proof. Wind or a passing hand may shake the blue cluster too."
     },
     {
      "id": "s4",
-     "mins": 15,
-     "do": "Count the flowers that became tiny green tomatoes, and the ones that fell off.",
-     "say": "Which flowers turned into tomatoes? Did the tapped ones do better?",
-     "kid": "Count the tiny green tomatoes. Count the flowers that fell off. Which did better?",
+     "mins": 30,
+     "do": "Count the flowers that became tiny green tomatoes in the red cluster and in the blue cluster. Count the ones that fell off. Do this on day 60 and again on day 70.",
+     "say": "Which cluster has more tiny tomatoes: the one we tapped, or the one we left alone?",
+     "kid": "Count the tiny green tomatoes on the red cluster and on the blue cluster. Which has more?",
      "check": {
       "t": "mcq",
-      "q": "On a balcony with no bees and no wind, why does tapping tomato flowers help?",
+      "q": "On a balcony with no bees and little wind, why might tapping tomato flowers help?",
       "options": [
        "It makes the plant grow taller",
        "It shakes the pollen out, so it reaches the part of the flower that makes seeds",
@@ -1345,7 +1357,7 @@
     },
     {
      "art": "A child's finger gently tapping the stalk of a yellow tomato flower, with a few grains of pollen falling.",
-     "caption": "3. When flowers open, tap them to shake out the pollen."
+     "caption": "3. When flowers open, tap the red cluster to shake out the pollen. Leave the blue one alone."
     }
    ]
   }
@@ -1360,7 +1372,7 @@
    "constraints": [
     "Use a dried chana or a dried pea as the seed inside your design.",
     "Use only things from home.",
-    "The seed must stay on the sock while it walks 5 steps across the room.",
+    "The seed must stay on the sock while the sock walks 5 steps across the room.",
     "Then it must come off with one brush of the hand."
    ],
    "materials": [
@@ -1413,7 +1425,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Test each design 3 times: brush the sock past it, walk 5 steps, then brush the seed off.",
+     "do": "Test each design 3 times. Brush the sock past it. Walk your sock hand 5 steps across the floor. Then brush the seed off.",
      "say": "Did it ride all 5 steps? Did it come off when you brushed it?",
      "kid": "Brush the sock past your seed. Walk 5 steps. Is it still on? Now brush it off.",
      "check": {
@@ -1426,7 +1438,8 @@
       ],
       "a": 1,
       "why": "A seed that never falls off can never land on soil and grow. The point of the ride is to land somewhere new, away from the shade of her parent. 'So the animal isn't bothered' is kind, but the plant's need is to get the seed onto new ground."
-     }
+     },
+     "parent": "Some designs will not ride at all, and that is a result too. If a chana is too heavy for every design, use a dried pea or a mustard seed."
     },
     {
      "id": "s4",
@@ -1476,8 +1489,8 @@
       "Neem fruit (the crow eats her; the crow drops her seed far away)",
       "Fruit bat",
       "Kapok flower (she gives nectar at night; the bat carries her pollen)",
-      "A bird",
-      "Red chilli (the bird feels no burn; the bird carries her seeds)",
+      "Bulbul",
+      "Red chilli (the burn does not bother the bulbul; the bulbul carries her seeds)",
       "Monkey",
       "Mango (the monkey eats her flesh and drops the stone)",
       "Earthworm",
@@ -1493,22 +1506,13 @@
       "You",
       "Tulsi plant (you water her; she gives leaves and oxygen)"
      ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Pairs found",
-     "items": [
-      "Player name",
-      "Pairs found",
-      "Pairs explained"
-     ]
     }
    ],
    "rules": [
     "Shuffle the 24 cards and lay them face down in 4 rows of 6.",
     "On your turn, turn over 2 cards. If they are partners, say how each one helps the other.",
-    "If you can say it, keep the pair and take another turn. If not, turn them back over.",
-    "If the 2 cards are not partners, turn them back face down. The next player has a turn.",
+    "If you can say it, keep the pair and take another turn.",
+    "If the 2 cards are not partners, or you cannot say how they help each other, turn them back face down. The next player has a turn.",
     "When all the cards are gone, the player with the most pairs wins. Playing alone? Count how many turns you need, and try to beat it next time."
    ],
    "setup": [
@@ -1545,7 +1549,7 @@
        "The bat sleeps in the tree"
       ],
       "a": 1,
-      "why": "Kapok flowers open at night and make nectar. Fruit bats drink it, and pollen sticks to their fur. At the next flower, some pollen rubs off, and that flower can make seeds. 'Sleeps in the tree' is true of some bats, but it doesn't help the tree make seeds."
+      "why": "Kapok flowers open at night and make nectar. Fruit bats drink it, and pollen sticks to their fur. At the next flower, some pollen rubs off, and that flower can make seeds. 'Sleeps in the tree' is true of some bats, but sleeping doesn't help the tree make seeds."
      }
     },
     {
@@ -1697,12 +1701,12 @@
      "p": "Why did we use the same tomato, the same tissue and the same place for both boxes in the Juice Test?",
      "opts": [
       "To save tomatoes",
-      "So that only the liquid was different, and we could tell what made the difference",
+      "So that only the juice was different, and we could tell what made the difference",
       "Because seeds like the same place",
       "To make it quicker"
      ],
      "a": 1,
-     "why": "In a fair test, only one thing changes. If the boxes had different tomatoes too, we couldn't tell whether the juice or the tomato made the difference.",
+     "why": "In a fair test, only one thing changes. If the boxes had different tomatoes or different places too, we couldn't tell whether the juice or something else made the difference.",
      "how": "e1"
     },
     {
@@ -1749,10 +1753,11 @@
      "art": "Two blank flower outlines with space between them."
     },
     {
-     "t": "truefalse",
-     "p": "Ahimsa means not harming any living being.",
-     "a": true,
-     "why": "True. Ahimsa is an old teaching in Jain, Buddhist and Hindu traditions. Carrying a spider outside instead of squashing her is ahimsa."
+     "t": "write",
+     "p": "Think of a fruit tree you know. Write one animal that eats her fruit. Say what the animal gets and what the tree gets.",
+     "lines": 3,
+     "a": "A myna eats peepal figs. The myna gets food, and the peepal gets her seeds carried to a new place in the myna's droppings.",
+     "why": "A full answer says what each partner gets: food for the animal and a way to spread seeds for the tree."
     }
    ]
   },
@@ -1763,16 +1768,11 @@
    "mins": 25,
    "items": [
     {
-     "t": "mcq",
-     "p": "After the Juice Test, the seeds from Box J were washed and put on water. Most sprouted 3 days later. What does this show?",
-     "opts": [
-      "The juice had killed them",
-      "They were waiting, and the juice was holding them back",
-      "They needed to be cold first",
-      "Tomato seeds always take 10 days"
-     ],
-     "a": 1,
-     "why": "Dead seeds never sprout. These sprouted once the juice was gone, so the juice was holding them back.",
+     "t": "write",
+     "p": "A friend says the seeds in Box J were dead, because they did not sprout. What test would show the seeds were still alive? What result would prove it?",
+     "lines": 3,
+     "a": "Wash the seeds and put them on wet tissue with water. If they sprout, they were alive, and the juice was only holding them back.",
+     "why": "A strong answer names a test that could prove the friend wrong, and says what to look for.",
      "how": "e2"
     },
     {
@@ -1788,15 +1788,13 @@
      "why": "A seed must drink water and swell to sprout. The sugars and salts in juice hold on to the water. The juice also has a plant hormone that tells seeds to rest."
     },
     {
-     "t": "mcq",
-     "p": "Why are a peepal's flowers never seen from outside?",
-     "opts": [
-      "A peepal has no flowers",
-      "Her flowers are all inside her figs",
-      "They open only at night",
-      "They are underground"
+     "t": "fill",
+     "p": "A peepal's flowers grow inside her ____.",
+     "a": [
+      "figs",
+      "fig",
+      "fruits"
      ],
-     "a": 1,
      "why": "A peepal fig is a hollow ball lined with tiny flowers. Only a tiny fig wasp can get in through the hole at the end."
     },
     {
@@ -1816,7 +1814,7 @@
       "The seeds go mouldy"
      ],
      "a": 0,
-     "why": "Birds don't feel the burning taste, so they eat chillies and carry the seeds far away. Mammals feel the burn and leave chillies alone, and their teeth would crush the seeds."
+     "why": "The burning taste does not bother birds, so they eat chillies and carry the seeds far away. Mammals are bothered by the burn and leave chillies alone, and their teeth would crush the seeds."
     },
     {
      "t": "truefalse",
@@ -1858,23 +1856,32 @@
      "why": "Darwin reasoned that only an animal with a tongue almost as long as the tube could reach the nectar. A moth with a long enough tongue was found in Madagascar and described in 1903."
     },
     {
-     "t": "write",
-     "p": "Meera, a girl in Class 3, says, 'A bee helps flowers because she is kind.' Her brother says, 'A bee only wants food.' What could each of them be right about?",
-     "lines": 4,
-     "a": "Meera could be right that the bee senses the flower and takes part in the partnership. Her brother could be right that the bee visits for nectar to feed her colony. Either way, the flower gets her pollen carried.",
-     "why": "This is a real argument. A good answer gives something true on each side."
+     "t": "perspective",
+     "p": "Does a bee help a flower on purpose?",
+     "views": [
+      {
+       "who": "Meera, a girl in Class 3",
+       "says": "A bee helps flowers because she is kind."
+      },
+      {
+       "who": "Dev, a boy in Meera's class",
+       "says": "A bee only wants food. Carrying pollen is an accident."
+      },
+      {
+       "who": "A biologist who studies evolution",
+       "says": "Each bee does what keeps her and her colony alive. Flowers and bees that fitted each other well left more young, so they fit more and more closely."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and backs it with a fact, such as: the bee visits to get nectar for her colony, and the pollen she carries is a side effect. It then admits a fair point from another side, such as: the flower still gets her pollen carried.",
+     "why": "Scientists still argue about whether partners know they are helping. A good answer gives something true on each side."
     },
     {
-     "t": "mcq",
-     "p": "In some apple orchards in Sichuan, in China, people pollinate flowers by hand with brushes. Why?",
-     "opts": [
-      "Because it is faster than bees",
-      "Because there are too few bees left there",
-      "Because apple flowers have no pollen",
-      "Because the wind is too strong"
-     ],
-     "a": 1,
-     "why": "Where sprays have killed many bees, people must do the bees' work. It is slow and costly. Harming one kind of living thing harms the plants that depend on her."
+     "t": "truefalse",
+     "p": "In some apple orchards in Sichuan, in China, people pollinate flowers by hand with brushes because too few bees are left.",
+     "a": true,
+     "why": "True. Where sprays have killed many bees, people must do the bees' work. It is slow and costly. Harming one kind of living thing harms the plants that depend on them."
     },
     {
      "t": "sort",
@@ -1945,7 +1952,7 @@
      "t": "write",
      "p": "Why might a seed do better far from her parent tree than right underneath her?",
      "lines": 3,
-     "a": "Under the parent tree it is shady, and many seeds fall in the same place, so they crowd each other. Far away, a seed may find more light and space.",
+     "a": "Under the parent tree the ground is shady, and many seeds fall in the same place, so they crowd each other. Far away, a seed may find more light and space.",
      "why": "A full answer mentions shade and crowding."
     }
    ]
@@ -2006,15 +2013,15 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3, put washed tomato seeds on wet tissue, and other seeds from the same tomato in tomato juice. After a week, which seeds had sprouted?",
+   "p": "Kavya, a girl in Class 3, wants to test whether guava flesh holds guava seeds back from sprouting. Which test is fair?",
    "opts": [
-    "Only the seeds in juice",
-    "Mostly the washed seeds on water",
-    "Both the same",
-    "None, because seeds need soil"
+    "Washed seeds on wet tissue in a warm room, and seeds in guava flesh on wet tissue in a cold room",
+    "Washed seeds on wet tissue, and seeds in guava flesh on wet tissue, both in the same warm room",
+    "Washed guava seeds in one box, and washed mango seeds with their flesh in another",
+    "Only the seeds in guava flesh, because that is what she wants to know about"
    ],
    "a": 1,
-   "why": "The juice holds seeds back from sprouting. Washed seeds on water sprout in a few days. Seeds don't need soil to sprout, only water, air and warmth.",
+   "why": "In a fair test, only one thing changes. Here it is the guava flesh. The tissue, the water and the room stay the same. Without washed seeds to compare, she could not tell what the flesh did.",
    "outcome": 2,
    "how": "e1"
   },
@@ -2047,15 +2054,15 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun eats a guava under the tree and spits out nothing. Where do most of the tiny guava seeds end up?",
+   "p": "A hornbill eats wild figs in a forest, then rests in a faraway tree. How can this help the fig tree?",
    "opts": [
-    "They are all digested",
-    "They pass through his body",
-    "They stay in his mouth",
-    "They turn into juice"
+    "Fig seeds in her droppings can sprout far from the parent tree",
+    "The hornbill waters the fig tree",
+    "The hornbill pollinates the figs",
+    "It cannot, because fig seeds are always digested"
    ],
-   "a": 1,
-   "why": "Small, hard guava seeds pass through a gut unharmed. In the wild, birds and animals carry guava seeds this way.",
+   "a": 0,
+   "why": "Small fig seeds pass through a bird's gut unharmed. Far from the parent tree, there is more light and space. Fig wasps, not hornbills, pollinate figs.",
    "outcome": 3
   },
   {
@@ -2101,13 +2108,13 @@
    "t": "mcq",
    "p": "Lakshmi finds a small spider in her room. Which is a way to practise ahimsa?",
    "opts": [
-    "Squash her with a slipper",
-    "Catch her with a cup and a card, and carry her outside",
-    "Spray her",
-    "Leave a light on so she goes away"
+    "Squash the spider with a slipper",
+    "Catch the spider with a cup and a card, and carry her outside",
+    "Spray the spider",
+    "Leave a light on so the spider goes away"
    ],
    "a": 1,
-   "why": "Ahimsa means not harming any living being. Cup and card moves her without hurting her. Spiders eat mosquitoes and flies, so she helps others too.",
+   "why": "Ahimsa means not harming any living being. Cup and card moves a spider without hurting her. Spiders eat mosquitoes and flies, so she helps others too.",
    "outcome": 5
   }
  ],
@@ -2169,7 +2176,7 @@
    "art": "A white rice-flour kolam on a doorstep with a line of ants at one edge."
   },
   {
-   "text": "Bee boxes along mustard fields in Punjab and Rajasthan, or in litchi orchards in Bihar.",
+   "text": "Bee boxes along mustard fields in West Bengal and Rajasthan, or in litchi orchards in Bihar.",
    "art": "Wooden bee boxes in a row beside a yellow mustard field."
   },
   {
@@ -2197,19 +2204,14 @@
  ],
  "ask_kids": [
   "Which animals do you think have eaten from the tree outside our window?",
-  "Why doesn't a guava seed sprout inside the guava?",
   "If all the bees in our city disappeared, which of our foods would we miss?",
+  "Which bird do you see or hear most often near your home, and what does she eat?",
   "Who helped make the food on your plate today?",
-  "A peepal grows on a wall. Who planted her?",
   "What could we do on our balcony to help the birds and bees in summer?",
   "Can you think of an animal that helps us, and that we help back?",
   "Is there any living thing that needs nobody else?"
  ],
  "jokes": [
-  {
-   "j": "Why did the tomato seed stay in bed?",
-   "a": "Her juice told her to rest."
-  },
   {
    "j": "What did the bee say to the flower?",
    "a": "Hello, honey!"
@@ -2231,10 +2233,6 @@
    "a": "Thanks for the lift!"
   },
   {
-   "j": "Why are bees such good partners?",
-   "a": "They always bring something to the party: pollen."
-  },
-  {
    "j": "What is a mango's favourite game?",
    "a": "Drop the stone."
   },
@@ -2249,18 +2247,6 @@
   {
    "j": "Why did the fruit bat stay up all night?",
    "a": "The kapok flowers were serving nectar."
-  },
-  {
-   "j": "Why did the banana go to the window?",
-   "a": "To meet some fruit flies."
-  },
-  {
-   "j": "What did the cow say to the grass?",
-   "a": "Don't worry, I'll give some back."
-  },
-  {
-   "j": "Why did the spider thank the child?",
-   "a": "For the cup and card taxi."
   },
   {
    "j": "Why did the tailorbird bring a needle?",
@@ -2296,7 +2282,7 @@
    "why_maths": "Saying 'more sprouted in water' is true, but 'eight times as many' shows how big the difference really is."
   },
   {
-   "problem": "Farhan counted the sprouted seeds in Box W each day. Day 3: 2. Day 4: 5. Day 5: 7. Day 6: 7. Day 7: 7. He had 10 seeds. Why did the count stop at 7? Give two possible reasons.",
+   "problem": "Farhan, a boy in Class 3, counted the sprouted seeds in Box W each day. Day 3: 2. Day 4: 5. Day 5: 7. Day 6: 7. Day 7: 7. He had 10 seeds. Why did the count stop at 7? Give two possible reasons.",
    "answer": "Three seeds never sprouted. They may have been damaged or dead, or not yet ripe enough when the tomato was picked.",
    "explain": "The count went up by 3, then 2, then stopped. All the seeds had the same water and warmth, so the 3 seeds that never sprouted were probably different themselves. Some seeds in any fruit are damaged, empty or not fully grown. This is why we use 10 seeds, not 1.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2389,8 +2375,7 @@
    "url": "https://www.amazon.in/s?k=potting+soil+mix",
    "used_in": [
     "p1"
-   ],
-   "plan": "Used again in other plant units for growing seeds."
+   ]
   }
  ],
  "warmup": [
@@ -2435,11 +2420,11 @@
    "evidence": "In the Juice Test, seeds in tomato juice did not sprout, while washed seeds from the same tomato did. In Waiting or Dead, the juice seeds sprouted once they were washed. So the seeds were alive, waiting for the flesh to go."
   },
   "three": {
-   "who_am_i": "Every meal you eat began with a plant. Each time you eat a guava or a tomato, you are the animal her seeds were waiting for.",
+   "who_am_i": "Almost every meal you eat comes from a plant, or from an animal that ate plants. Each time you eat a guava or a tomato, you are the animal her seeds were waiting for.",
    "what_is_life": "No life is lived alone. A peepal seedling on a wall needed a wasp, a bird and the rain before she could grow.",
    "what_is_this_world": "The world is full of partners, near and far. An orchid in Madagascar and her moth fit each other, just as the peepal fits her tiny wasp."
   },
-  "thread": "A tomato plant, a bird and a fig wasp each live in their own body. Yet the tomato's fruit is shaped for an eater's mouth, and the fig's tiny hole is shaped for one kind of wasp. Each body carries a part of another's life. These partners grew to fit each other over millions of years, and all of them came from the same first living cells. So many different lives turn out to be parts of one long, shared story of life.",
+  "thread": "A tomato plant, a bird and a fig wasp each live in their own body. Yet the tomato's fruit is shaped for an eater's mouth, and the fig's tiny hole is shaped for one kind of wasp. These partners grew to fit each other over millions of years. Each now depends on the other to make the next generation.",
   "teachings": [
    {
     "source": "Tattvartha Sutra 5.21, a Jain text by Umaswati",
@@ -2473,7 +2458,7 @@
   ],
   "other_view": {
    "who": "Many biologists who study evolution",
-   "view": "Plants and animals do not help each other out of kindness. Each one does what keeps herself and her young alive, and the help is a side effect. A bee takes nectar for her colony, and the pollen she carries is an accident. On this view, partnerships are explained fully by natural selection, with no need for any shared story of oneness."
+   "view": "Plants and animals do not help each other out of kindness. Each one does what keeps herself and her young alive, and the help is a side effect. A bee takes nectar for her colony, and the pollen she carries is an accident. On this view, natural selection explains these partnerships fully."
   },
   "practice": {
    "title": "Thank the helpers in a fruit",
@@ -2483,13 +2468,13 @@
   },
   "ask": [
    "A bee takes nectar to feed her own family. If she doesn't mean to help the flower, is she still helping?",
-   "A plant offers a fruit, and an animal carries her seeds. Is that a gift, a trade, or something else?",
+   "Which would hurt a peepal more: losing her fig wasps, or losing the birds that eat her figs? Why?",
    "The tomato seeds were waiting for an eater. Is a seed's life her own, or partly the eater's?"
   ],
   "art": "A tomato cut open on a steel plate by a window, a bulbul on the sill, and a row of sprouting seeds on wet tissue, all lit by morning sun."
  },
  "how_we_found_out": {
-  "story": "In 1977, an American scientist named Stanley Temple made a famous claim. On the island of Mauritius grows a tree called the tambalacoque. Temple said only 13 old trees were left, and no young ones. The dodo, a big bird that could not fly, lived only on Mauritius, and had died out about 300 years before. Temple said the tree's seeds could sprout only after passing through a dodo's gut. To test it, he fed 17 tambalacoque fruits to turkeys. The turkeys crushed 7 of them. He planted the other 10 seeds, and 3 sprouted. Many people believed the story, and it went into books. But Temple had not planted any seeds that were not eaten, to compare. So nobody could tell whether the turkeys made any difference. Foresters in Mauritius pointed out that they had sprouted tambalacoque seeds before, with no bird at all, and that younger trees did exist. Later studies found the tree was dying out mainly because of pigs, monkeys and plants brought to the island by people.",
+  "story": "In 1977, an American scientist named Stanley Temple made a famous claim. On the island of Mauritius grows a tree called the tambalacoque. Temple said only 13 old trees were left, and no young ones. The dodo, a big bird that could not fly, lived only on Mauritius, and had died out about 300 years before. Temple said the tree's seeds could sprout only after passing through a dodo's gut. To test it, he fed 17 tambalacoque fruits to turkeys and planted the seeds that came through. Only 3 sprouted. Many people believed the story, and it went into books. But Temple had not planted any seeds that were not eaten, to compare. So nobody could tell whether the turkeys made any difference. Foresters in Mauritius pointed out that they had sprouted tambalacoque seeds before, with no bird at all, and that younger trees did exist. Later studies found the tree was dying out mainly because of pigs, monkeys and plants brought to the island by people.",
   "who": "Stanley Temple, an American scientist, and the foresters and botanists who questioned him, including those of Mauritius",
   "when": "1977 (Temple's paper in the journal Science), questioned from 1979, and reviewed again in 1991 and 2004",
   "wrong_idea": "That the tambalacoque tree's seeds could sprout only after passing through a dodo. Temple's test had no comparison group of uneaten seeds. Seeds were sprouted without any dodo, and young trees were found."
@@ -2571,5 +2556,5 @@
    "Thirukkural 322 (chapter 33, Kollamai, not killing); Tattvartha Sutra 5.21; Darwin, On the Origin of Species 1859, closing paragraph"
   ]
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, in a city flat, with the materials listed. The Juice Test needs only a ripe tomato, two tiffin or takeaway boxes, tissue and a tea strainer. Washed tomato seeds on wet tissue usually show roots in 3 to 6 days in a warm Indian home, so the test runs 8 days; the steps say what to do if the room is cold or the tomato was picked green. The juice for topping up is kept in the fridge, because juice left out ferments. Mould may grow in Box J: the safety note says not to sniff it and to bin it in a closed bag, and Waiting or Dead tells the parent to leave mouldy seeds out. Seeds don't need light to sprout, so the boxes stay closed on top of the fridge. Ripe or Green relies on fruit flies, which are common in Indian kitchens but not certain, so it is outside the spine and says to count ants or house flies instead. The rice-flour kolam needs real rice flour or rava, since chalk kolams feed nobody. Cup and Card practises on a paper beetle when no creature turns up, and a grown-up handles anything that might sting. The tomato project needs a balcony or window with at least 5 hours of sun; a shady window gives thin plants with few flowers. Timings were checked step by step. The spine (intro, the Fruit Bowl Question, the Juice Test set-up and daily checks, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, plus 2 or 3 minutes a day of checking."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, in a city flat, with the materials listed. The Juice Test needs only a ripe tomato, two tiffin or takeaway boxes, tissue and a tea strainer. Washed tomato seeds on wet tissue usually show roots in 3 to 6 days in a warm Indian home, so the test runs 8 days; the steps say what to do if the room is cold or the tomato was picked green. The juice for topping up is kept in the fridge, because juice left out ferments. Mould may grow in Box J: the safety note says not to sniff it and to bin it in a closed bag, and Waiting or Dead tells the parent to leave mouldy seeds out. Seeds don't need light to sprout, so the boxes stay closed on top of the fridge. Ripe or Green relies on fruit flies, which are common in Indian kitchens but not certain, so it is outside the spine and says to count ants or house flies instead. The rice-flour kolam needs real rice flour or rava, since chalk kolams feed nobody. Cup and Card practises on a paper beetle when no creature turns up, and a grown-up handles anything that might sting. The tomato project needs a balcony or window with at least 5 hours of sun; a shady window gives thin plants with few flowers. It compares a tapped flower cluster with an untapped one on the same plant; with so few flowers, the result is a hint, not proof, and the steps say so. Timings were checked step by step. The spine (intro, the Fruit Bowl Question, the Juice Test set-up and daily checks, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, plus 2 or 3 minutes a day of checking."
 }

@@ -136,7 +136,7 @@
    "concept": "Food groups: boxes to sort food",
    "status": "defined",
    "definition": "A food group is a box of foods that give mostly the same nutrient, or do mostly the same job in the body.",
-   "description": "Food groups help families plan meals. Different books use different boxes. Many Indian school books use three: energy-giving foods, body-building foods and protective foods. The Cambridge book uses five: carbohydrates, fruit and vegetables, protein, dairy, and fats and sugars. All of these are ways of sorting. A food is put in the box of the nutrient it gives most, or that it is best known for. But most foods carry several nutrients, so one food can belong in two or three boxes.",
+   "description": "Food groups help families plan meals. Different books use different boxes. Many Indian school books use three: energy-giving foods, body-building foods and protective foods. Some school books use five: carbohydrates, fruit and vegetables, protein, dairy, and fats and sugars. All of these are ways of sorting. A food is put in the box of the nutrient it gives most, or that it is best known for. But most foods carry several nutrients, so one food can belong in two or three boxes.",
    "examples": [
     "Milk is in the dairy group. It also gives protein, fat and calcium, so it could go in the protein box too.",
     "Peanuts are often called a protein food. But more than a third of a peanut is fat."
@@ -242,7 +242,7 @@
    "description": "For about 40 years, many doctors told people to eat as little fat as possible, to keep their hearts healthy. Today most scientists agree the body needs some fat, and the kind of fat matters. They still argue about some fats, like ghee and coconut oil. Most agree that trans fats, found in some reused frying oils and some packaged snacks, are harmful.",
    "examples": [
     "Peanuts, til and fish give fats that most scientists agree are good for the heart.",
-    "Oil used again and again for frying pakoras can form harmful fats."
+    "Oil used again and again for frying vadas can form harmful fats."
    ],
    "perspectives": [
     {
@@ -285,7 +285,7 @@
    "claim": "Dal is a protein food, so it is mostly protein.",
    "who": "A common idea, from food group charts",
    "for": "Dal is one of the best sources of protein for vegetarian families. It has much more protein than rice or wheat.",
-   "against": "Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate. It is in the protein box because it gives more protein than most plant foods, not because it is mostly protein.",
+   "against": "Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate. It is in the protein box because it gives more protein than most plant foods. That is the reason, and not that dal is mostly protein.",
    "status": "rejected",
    "context": "This card looks at what it means to call dal a protein food."
   },
@@ -304,14 +304,6 @@
    "against": "Your body uses water in every cell, in blood, sweat and urine. You need more of it each day than any other nutrient, and you would fall ill within days without it. So scientists count it as a nutrient.",
    "status": "rejected",
    "context": "This card asks whether water should count as a nutrient."
-  },
-  {
-   "claim": "Whey is waste and should be thrown away after making paneer.",
-   "who": "Many home cooks",
-   "for": "The paneer is what you wanted. The whey looks thin and watery.",
-   "against": "Whey holds milk sugar, minerals, some vitamins and a little protein. Many cooks use it to knead chapati dough or to cook dal or rice.",
-   "status": "rejected",
-   "context": "This card is about the pale liquid left after making paneer."
   },
   {
    "claim": "The more vitamins you take, the healthier you are.",
@@ -337,11 +329,6 @@
    "q": "A calf lives on milk alone for weeks. Why can a calf do that, but a child of eight cannot?",
    "kind": "deep",
    "hint": "What is in milk, and what is missing? Think of iron and vitamin C. What does a calf start eating as they grow?"
-  },
-  {
-   "q": "We sort foods into boxes, but most foods belong in several. Are food groups real, or only a useful habit?",
-   "kind": "big",
-   "hint": "Who made the boxes, and why? Would a bee or a cow sort foods into the same boxes?"
   },
   {
    "q": "A plant takes calcium from rocks in the soil. You eat the plant, and the calcium becomes your bones. Where did your bones come from, really?",
@@ -415,9 +402,13 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A mat with five boxes: carbohydrates, fruit and vegetables, protein, dairy, fats and sugars",
+     "title": "A mat with five boxes to draw",
      "items": [
-      "Draw five big boxes on a sheet of paper and write one food group in each."
+      "Box 1: Carbohydrates",
+      "Box 2: Fruit and vegetables",
+      "Box 3: Protein",
+      "Box 4: Dairy",
+      "Box 5: Fats and sugars"
      ]
     },
     {
@@ -430,11 +421,11 @@
       "Banana",
       "Guava",
       "Keerai poriyal",
-      "Carrot",
+      "Poha",
       "Toor dal",
       "Chana sundal",
       "Egg",
-      "Fish curry",
+      "Machher jhol (fish curry)",
       "Milk",
       "Curd",
       "Paneer",
@@ -452,17 +443,18 @@
      "items": [
       "1 point: a food in its usual box",
       "2 more points: a second box for the same food, with a true reason",
-      "Answer card for the parent: Toor dal (protein and carbohydrates), Peanuts (protein and fats), Milk (dairy, protein and fats), Curd (dairy and protein), Paneer (dairy, protein and fats), Coconut (fats, and fruit), Til laddoo (fats and sugars, with calcium), Ragi mudde (carbohydrates, with calcium), Banana (fruit and carbohydrates), Egg (protein and fats)"
+      "Answer card for the parent. Foods with a second box: Toor dal (protein, and carbohydrates), Peanuts (protein, and fats), Milk (dairy, and protein, and fats), Curd (dairy, and protein), Paneer (dairy, and protein, and fats), Banana (fruit, and carbohydrates), Egg (protein, and fats), Machher jhol (protein, and fats), Idli (carbohydrates, and a little protein from the urad dal). The other foods have no second box."
      ]
     }
    ],
    "rules": [
-    "Shuffle the food cards and put them face down.",
+    "Draw the five-box mat. Shuffle the food cards and put them face down.",
     "On your turn, take a card and put it in the box where it usually goes. That scores 1 point.",
     "If you think the food also belongs in a second box, say which, and give a reason. For example: 'Peanuts go in protein, but they are also more than a third fat.'",
-    "The other players check the answer card. A true reason scores 2 more points. Lay the card across the two boxes.",
-    "Play until the cards run out. The highest score wins.",
-    "Playing alone: try to find a second box for at least 8 foods."
+    "The other player checks the answer card. A true reason scores 2 more points. Lay the card across the two boxes. A wrong reason scores nothing, and the card stays in its usual box.",
+    "Foods that are not on the answer card have no second box. Put them in their usual box and move on.",
+    "Play until the cards run out. The highest score wins. With three or four players, take turns round the table.",
+    "Playing alone: try to find a second box for at least 6 foods."
    ],
    "flow": [
     {
@@ -481,14 +473,14 @@
      "kid": "Take a card. Put it in its usual box. Can it go in a second box? Say why.",
      "check": {
       "t": "mcq",
-      "q": "Toor dal is in the protein box. Which second box is true for dal?",
+      "q": "Curd is in the dairy box. Which second box is true for curd?",
       "options": [
-       "Carbohydrates, because more than half of dry dal is carbohydrate",
-       "Fats and sugars, because dal is oily",
-       "Dairy, because dal is cooked with milk"
+       "Protein, because curd carries the protein of the milk",
+       "Fruit and vegetables, because curd is white and fresh",
+       "Fats and sugars, because curd is cooked with sugar"
       ],
       "a": 0,
-      "why": "More than half of dry toor dal is carbohydrate, mostly starch. Dal has very little fat, and it is not made from milk. Ghee added at the table brings fat, but that comes from the ghee."
+      "why": "Curd is made from milk, and the milk's protein stays in it. Curd is not a fruit or a vegetable, and plain curd has no sugar added."
      }
     },
     {
@@ -497,7 +489,7 @@
      "do": "At the end, count the cards lying across two boxes.",
      "say": "Look how many foods lie across two boxes. What does that tell you about food groups?",
      "kid": "Count the cards lying across two boxes. What does that tell you?",
-     "parent": "A good answer: food groups say what a food gives most, but most foods give several nutrients."
+     "parent": "A good answer: food groups say what a food gives most, but most foods give several nutrients. Count the cards lying across two boxes. There should be about 9."
     }
    ],
    "context": "This is a sorting card game. You put foods into food groups and score extra points for foods that truly belong in two groups.",
@@ -524,53 +516,54 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "8 spoon cards to cut out (each shows 10 coloured circles)",
+     "title": "8 spoon cards to cut out (each lists its 10 spoons by colour)",
      "items": [
-      "Card A: 10 blue (water)",
-      "Card B: 9 blue, 1 striped (milk sugar, fat, protein, minerals)",
-      "Card C: 7 blue, 3 yellow (carbohydrate)",
-      "Card D: 6 yellow, 2 red (protein), 1 green (fibre), 1 blue",
-      "Card E: 4 orange (fat), 3 red, 2 yellow, 1 green",
-      "Card F: 8 blue, 2 yellow",
+      "Card A: 9 blue, 1 yellow",
+      "Card B: 9 blue, 1 striped",
+      "Card C: 8 blue, 2 yellow",
+      "Card D: 8 yellow, 1 red, 1 blue",
+      "Card E: 5 orange, 2 red, 1 yellow, 1 green, 1 blue",
+      "Card F: 7 yellow, 1 red, 1 green, 1 blue",
       "Card G: 10 orange",
-      "Card H: 10 yellow"
+      "Card H: 9 yellow, 1 blue"
      ]
     },
     {
      "kind": "cards",
      "title": "8 food cards to cut out",
      "items": [
-      "Cucumber",
-      "Milk",
-      "Cooked rice",
-      "Dry toor dal",
-      "Raw peanuts",
+      "Watermelon",
+      "Plain curd",
       "Ripe banana",
-      "Coconut oil",
-      "Sugar"
+      "Raw rice",
+      "Almonds",
+      "Ragi flour",
+      "Ghee",
+      "Jaggery"
      ]
     },
     {
      "kind": "score sheet",
-     "title": "Answer card for the parent",
+     "title": "Colour key and answer card for the parent",
      "items": [
-      "A cucumber, B milk, C cooked rice, D dry toor dal, E raw peanuts, F ripe banana, G coconut oil, H sugar. All are rounded to the nearest spoon out of 10."
+      "Colour key: blue is water, yellow is carbohydrate, red is protein, orange is fat, green is fibre, striped is milk sugar, fat, protein and minerals together.",
+      "Answers: A watermelon, B plain curd, C ripe banana, D raw rice, E almonds, F ragi flour, G ghee, H jaggery. Every card is rounded to the nearest spoon out of 10."
      ]
     }
    ],
    "rules": [
     "Lay the 8 spoon cards face up in a row. Shuffle the food cards face down.",
     "On your turn, take a food card and put it on the spoon card you think matches.",
-    "Say one reason. For example: 'Coconut oil is all fat, so it must be the card with 10 orange circles.'",
-    "When all the food cards are down, check with the answer card. Each right match scores 1 point.",
+    "Say one reason. For example: 'Ghee is all fat, so it must be the card with 10 orange spoons.'",
+    "When all the food cards are down, check with the answer card. Each right match scores 1 point. The highest score wins, and with two players a tie is fine.",
     "Playing alone: match all 8, then check. Try again tomorrow and beat your score."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the cards. 2. Lay the spoon cards face up. 3. Explain the colours: blue water, yellow carbohydrate, red protein, orange fat, green fibre.",
-     "say": "Each spoon card shows what a food would be if we split it into 10 spoons. Your job is to match each food to its card.",
+     "do": "1. Cut out the cards. 2. Lay the spoon cards face up. 3. Read out the colour key: blue water, yellow carbohydrate, red protein, orange fat, green fibre.",
+     "say": "Each spoon card shows what a food would be if we split it into 10 spoons. Your job is to match each food to its card. These are new foods, not the ones from the first activity.",
      "kid": "Each card shows a food split into 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Match the foods.",
      "context": "This is the first step of Ten-Spoon Match. It is a matching game where you work out which food has which mix of nutrients."
     },
@@ -582,14 +575,14 @@
      "kid": "Take a food card. Put it on a spoon card. Say why.",
      "check": {
       "t": "mcq",
-      "q": "Which spoon card matches sugar?",
+      "q": "Which spoon card matches ghee?",
       "options": [
-       "Card H: 10 yellow, all carbohydrate",
        "Card G: 10 orange, all fat",
-       "Card A: 10 blue, all water"
+       "Card H: 9 yellow, 1 blue, almost all carbohydrate",
+       "Card A: 9 blue, 1 yellow, mostly water"
       ],
       "a": 0,
-      "why": "White sugar is almost all carbohydrate, so all 10 spoons are yellow. Sugar and oil are rare foods that are nearly one nutrient. Most foods are mixes."
+      "why": "Ghee is almost all fat, so all 10 spoons are orange. Ghee, oil and sugar are rare foods that are nearly one nutrient. Most foods are mixes."
      }
     },
     {
@@ -598,7 +591,7 @@
      "do": "Check with the answer card. Talk about the hardest match.",
      "say": "Which match was hardest? Why?",
      "kid": "Check your answers. Which one was hardest?",
-     "parent": "Cucumber and milk are often mixed up, because both are mostly water. Banana and cooked rice are also close: both are mostly water and carbohydrate."
+     "parent": "Watermelon, plain curd and banana are all mostly water, so they are often mixed up. Look at what the last spoons are. Raw rice and ragi flour are close too: both are mostly carbohydrate."
     }
    ],
    "context": "This is a matching game. You match foods to cards that show their mix of nutrients out of 10 spoons.",
@@ -608,7 +601,7 @@
      "caption": "1. Lay out the 8 spoon cards."
     },
     {
-     "art": "A child placing a 'coconut oil' card on a spoon card with ten orange circles.",
+     "art": "A child placing a 'ghee' card on a spoon card with ten orange circles.",
      "caption": "2. Match each food to its spoon card and say why."
     }
    ]
@@ -774,14 +767,6 @@
      "how": "e2"
     },
     {
-     "t": "write",
-     "p": "Why do you need to drink water every day, even on a day you sit still?",
-     "lines": 3,
-     "a": "Water leaves my body all day, in my breath, sweat and urine. So I need to put it back.",
-     "why": "A good answer names at least two ways water leaves the body.",
-     "how": "a2"
-    },
-    {
      "t": "perspective",
      "p": "Kavya, a girl in Class 3, is making a food group chart. She has to decide where milk goes.",
      "views": [
@@ -836,26 +821,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Dry toor dal is about one-fifth protein and more than half carbohydrate. Why is it put in the protein group?",
-     "opts": [
-      "It gives more protein than most plant foods",
-      "It is mostly protein",
-      "It has no carbohydrate"
-     ],
-     "a": 0,
-     "why": "Dal has far more protein than rice or wheat, so it is a very useful protein food, especially for vegetarians. But most of it is carbohydrate. Picking 'mostly protein' is what the box makes people think."
-    },
-    {
-     "t": "write",
-     "p": "Peanuts are often called a protein food. Using what you know, explain why a peanut could also go in the fats group.",
-     "lines": 3,
-     "a": "More than a third of a peanut is fat, which is more than its protein. So it belongs in the fats group too.",
-     "why": "A strong answer uses the numbers: more fat than protein in a peanut.",
-     "how": "a1"
-    },
-    {
-     "t": "mcq",
-     "p": "In the sun-dried slices test, a potato slice kept about a fifth of its weight. A cucumber slice kept almost nothing. Which had more of something that is not water?",
+     "p": "Suppose in a sun-dried slices test a potato slice kept about a fifth of its weight and a cucumber slice kept almost nothing. Which had more of something that is not water?",
      "opts": [
       "The potato, because it has a lot of starch",
       "The cucumber, because it is green",
@@ -1032,6 +998,21 @@
      "why": "The drawing shows that one smooth liquid split into two parts.",
      "art": "Two empty tumbler outlines side by side.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Chew a small piece of plain rice for one minute without swallowing. Does it start to taste a little sweet? Explain why.",
+     "lines": 3,
+     "a": "Yes, it starts to taste a little sweet. Rice is mostly starch, and the spit in your mouth breaks starch into sugar.",
+     "why": "A strong answer joins what was tasted to the idea that starch is a chain of sugar pieces."
+    },
+    {
+     "t": "fill",
+     "p": "Plants take up minerals from the soil together with ____.",
+     "a": [
+      "water"
+     ],
+     "why": "Minerals dissolve in the water in the soil, and the plant's roots take both up together."
     }
    ]
   },
@@ -1076,35 +1057,6 @@
      "a": "I would change only the temperature of the milk: one tumbler hot and one cold. I would keep the amount of milk, the amount of lemon juice, the stirring and the waiting time the same. I would look at how many lumps form and how big they are after 3 minutes.",
      "why": "A strong design changes one thing, keeps the rest the same, and says what will be compared.",
      "how": "e1"
-    },
-    {
-     "t": "perspective",
-     "p": "Three people argue about the best way to describe dal.",
-     "views": [
-      {
-       "who": "A Class 3 food chart",
-       "says": "Dal is a protein food."
-      },
-      {
-       "who": "A food scientist",
-       "says": "Dry dal is more than half carbohydrate and about one-fifth protein."
-      },
-      {
-       "who": "A mother cooking for a vegetarian family",
-       "says": "Dal is our protein. Without it, our meals would have very little protein."
-      }
-     ],
-     "ask": "Which description is most useful, and for whom? Give a reason. Then answer back from one of the other points of view.",
-     "lines": 5,
-     "a": "Any well-argued answer. For example: the scientist's description is most accurate, but the mother's is most useful for planning meals, because for her family dal gives more protein than any other food.",
-     "why": "Each view is true for a different purpose. A strong answer says which purpose matters to them."
-    },
-    {
-     "t": "write",
-     "p": "A calf lives on milk alone for weeks. Name two nutrients a child of eight would run short of on milk alone, and say where else they could get them.",
-     "lines": 4,
-     "a": "Iron, because milk has very little iron: keerai, dal and ragi give it. Vitamin C, because milk has little: amla, guava and lemon give it. Fibre too: whole grains, dal and vegetables.",
-     "why": "A strong answer names nutrients milk lacks, like iron, vitamin C and fibre, with foods that give them."
     },
     {
      "t": "mcq",
@@ -1161,8 +1113,8 @@
      "t": "write",
      "p": "Ragi has nearly three times as much calcium as the same weight of milk. Why do you think most food charts put milk, not ragi, first for calcium?",
      "lines": 4,
-     "a": "Many charts were first made in countries where milk is the usual food and ragi is not eaten. Milk is also easy to drink every day. Charts may not include the grains that families in South India have eaten for a long time.",
-     "why": "Good answers think about who made the chart and what foods they knew."
+     "a": "We cannot be sure. One idea is that many food charts were first made where milk is the usual food and ragi is not eaten. Another is that milk is easy to drink every day. A good answer gives a reason and says it is a guess.",
+     "why": "Good answers think about who made the chart and what foods they knew, and say plainly that it is a guess."
     },
     {
      "t": "draw",
@@ -1173,7 +1125,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the milk-splitting test, tamarind water made fewer lumps than lemon juice. What is the most likely reason?",
+     "p": "Suppose tamarind water made fewer lumps than lemon juice in the milk-splitting test. What is the most likely reason?",
      "opts": [
       "Tamarind water was less strongly acidic than the lemon juice",
       "Tamarind is brown",
@@ -1182,13 +1134,6 @@
      "a": 0,
      "why": "How quickly and fully milk curdles depends on how acidic the liquid is. Tamarind water is sour, but often less strongly than lemon juice. Adding more tamarind water usually gives more lumps.",
      "how": "e1"
-    },
-    {
-     "t": "write",
-     "p": "When you drink milk, its protein is taken apart into amino acids and built into your muscle. Is that muscle still milk, or is it you? Explain what you think.",
-     "lines": 4,
-     "a": "Any thoughtful answer. For example: the amino acids came from the milk, but they have been joined in a new way, so now they are part of me.",
-     "why": "There is no single right answer. A good answer uses the idea that amino acids are taken apart and joined again."
     },
     {
      "t": "sort",
@@ -1225,6 +1170,30 @@
      ],
      "a": "see items",
      "why": "Sugar is nearly all carbohydrate, oil nearly all fat, salt nearly all minerals. Most whole foods, like milk, dal and peanuts, are mixes."
+    },
+    {
+     "t": "write",
+     "p": "A biscuit packet says that 100 grams hold 65 grams of carbohydrate, 20 grams of fat and 8 grams of protein. Which is the biggest part? What might the other 7 grams be?",
+     "lines": 3,
+     "a": "Carbohydrate is the biggest part. The other 7 grams could be water, fibre and minerals, which the packet does not list as separate numbers.",
+     "why": "A strong answer adds the three numbers (93) and says that something else makes up the rest."
+    },
+    {
+     "t": "mcq",
+     "p": "A food slice weighed 20 grams. After drying in the sun it weighed 2 grams. About how much of the slice was water?",
+     "opts": [
+      "About 9 out of every 10 parts",
+      "About 1 out of every 10 parts",
+      "About half"
+     ],
+     "a": 0,
+     "why": "18 of the 20 grams went into the air as water vapour. 18 out of 20 is 9 out of 10."
+    },
+    {
+     "t": "truefalse",
+     "p": "Some vitamins dissolve in water, so a cook who throws away the water that vegetables were boiled in also throws away some of their vitamins. True or false?",
+     "a": true,
+     "why": "True. Vitamin C and the B vitamins dissolve in water. Steaming, or using the cooking water in a dal or rasam, keeps more of them."
     }
    ]
   }
@@ -1258,7 +1227,7 @@
      "qty": "2 tablespoons"
     },
     {
-     "item": "white vinegar, if you have it (skip this cup if not, or use sour curd instead)",
+     "item": "white vinegar, if you have it (skip this cup if not)",
      "qty": "1 tablespoon"
     },
     {
@@ -1290,7 +1259,7 @@
      "qty": 1
     }
    ],
-   "safety": "Hot milk can scald. A grown-up heats the milk and pours it. The child adds the liquids with a spoon only after the grown-up says the tumblers are cool enough to touch on the outside. Never taste vinegar straight from the bottle.",
+   "safety": "Hot milk can scald, and the steel tumblers get hot. A grown-up heats the milk and pours it. The child adds the liquids with a spoon and does not pick up a tumbler until the grown-up says it has cooled.",
    "schedule": [
     {
      "day": 1,
@@ -1323,7 +1292,7 @@
      "id": "s2",
      "mins": 6,
      "adult": true,
-     "do": "1. Heat the milk in a pan until it steams and tiny bubbles form at the edge. Do not let it boil over. 2. Turn off the flame. 3. Pour half a cup into each of the six tumblers. 4. Wait 2 minutes for the tumblers to cool a little.",
+     "do": "1. Heat the milk in a pan until it steams and tiny bubbles form at the edge. Do not let it boil over. 2. Turn off the flame. 3. Pour half a cup into each of the six tumblers.",
      "say": "I am heating the milk, because hot milk splits much faster than cold milk. Stay back from the stove while I pour.",
      "kid": "A grown-up heats the milk and pours it. Stand back. Hot milk can burn you. Wait until they say it is safe.",
      "parent": "Hot milk works best, about as hot as tea you would wait to sip. Cold milk also curdles with lemon juice, but slowly and with tiny lumps that are hard to see. Feel the outside of each tumbler before your child touches it."
@@ -1332,7 +1301,7 @@
      "id": "s3",
      "mins": 6,
      "adult": true,
-     "do": "1. Add 1 tablespoon of lemon juice to the lemon tumbler. 2. Stir slowly five times. 3. Do the same for each liquid in its own tumbler, with a rinsed spoon each time. 4. Start a 3-minute timer after the last one.",
+     "do": "1. Add 1 tablespoon of lemon juice to the lemon tumbler. 2. Stir slowly five times. 3. Do the same for each liquid in its own tumbler, with a rinsed spoon each time. Work in order and finish all six within about one minute, so the milk is equally hot in each. 4. Start a 3-minute timer after the last one.",
      "say": "Add one liquid to each tumbler. Five slow stirs. Rinse the spoon each time, so no lemon gets into the next cup.",
      "kid": "Add one spoon of liquid to its tumbler. Stir five times, slowly. Rinse the spoon. Do the next one.",
      "parent": "Rinsing the spoon matters. A drop of lemon in the sugar tumbler could start it curdling and spoil the test."
@@ -1340,21 +1309,21 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. After 3 minutes, tilt each tumbler gently towards the light. 2. Look for white lumps, and for a thin, clear liquid around them. 3. Fill in the table.",
+     "do": "1. After 3 minutes, a grown-up checks that the tumblers have cooled enough to pick up. 2. Tilt each tumbler gently towards the light. 3. Look for white lumps, and for a thin, clear liquid around them. 4. Fill in the table.",
      "say": "Tilt each tumbler and look closely. Do you see lumps? What colour is the liquid around them?",
      "kid": "Tilt each tumbler gently. Do you see white lumps? Is the milk still smooth? Write what you see.",
      "check": {
       "t": "mcq",
-      "q": "Lemon, vinegar and tamarind made the milk split into lumps. Salt, sugar and plain water did not. What do lemon, vinegar and tamarind have in common?",
+      "q": "Lemon juice and vinegar made the milk split into lumps. Salt water, sugar water and plain water did not. What do lemon juice and vinegar have in common?",
       "options": [
        "They are all sour",
        "They are all from plants",
        "They are all yellow"
       ],
       "a": 0,
-      "why": "Lemon juice, vinegar and tamarind are all sour. Sour things are acids. An acid makes the main protein in milk, casein, clump together into lumps. Picking 'from plants' is a fair thought, but sugar comes from a plant too, and sugar water did not curdle the milk. Picking 'yellow' doesn't work, because vinegar is clear."
+      "why": "Lemon juice and vinegar are both sour. Sour things are acids. An acid makes the main protein in milk, casein, clump together into lumps. Picking \"from plants\" is a fair thought, but sugar comes from a plant too, and sugar water did not curdle the milk. Picking \"yellow\" does not work, because vinegar is clear. If you used tamarind, it is sour too, so it should make some lumps."
      },
-     "parent": "You should see thick white lumps and pale green-yellow liquid in the lemon and vinegar tumblers within a minute or two. Tamarind water usually curdles hot milk too, sometimes more slowly, with brownish whey. Salt, sugar and water tumblers stay smooth. If the lemon tumbler shows only tiny lumps, the milk was not hot enough. Add one more tablespoon of lemon juice and stir."
+     "parent": "You should see thick white lumps and a pale green-yellow liquid in the lemon and vinegar tumblers within a minute or two. Tamarind water is also sour. It usually makes lumps, but fewer and slower, with brownish whey, so write down what you really see. Salt, sugar and water tumblers stay smooth. If the lemon tumbler shows only tiny lumps, the milk was not hot enough. Add one more tablespoon of lemon juice and stir."
     },
     {
      "id": "s5",
@@ -1362,7 +1331,7 @@
      "do": "1. Lay the cotton cloth over the strainer and hold it over a clear glass. 2. Pour the lemon tumbler through it. 3. Gather the cloth and gently squeeze. 4. Compare how much is in the cloth and how much is in the glass.",
      "say": "Let's separate the two parts. The cloth will catch the lumps. Which part do you think will be bigger?",
      "kid": "Pour the lumpy milk through the cloth. The lumps stay. The liquid runs into the glass. Which part is bigger?",
-     "parent": "The white lumps are called curds. They hold most of the milk's protein and fat, with some water still inside. Pressed together, they are paneer. The pale liquid is whey. It is mostly water, with milk sugar, minerals and some vitamins. There will be much more whey than curd. Keep 2 spoons of whey in a small cup for the Hidden Minerals test (e3).",
+     "parent": "The white lumps are called curds. They hold most of the milk's protein and fat, with some water still inside. Pressed together, they are paneer. The pale liquid is whey. It is mostly water, with milk sugar, minerals and some vitamins. There will be much more whey than curd. Keep 2 spoons of whey in a small covered cup in the fridge for the Hidden Minerals test.",
      "ask": [
       {
        "q": "Why is there so much more whey than curd?",
@@ -1407,7 +1376,7 @@
      ],
      [
       "Tamarind water",
-      "No",
+      "Yes",
       "A few",
       "Light brown"
      ],
@@ -1457,7 +1426,7 @@
    "days": 3,
    "question": "Which foods lose the most when they dry in the sun: cucumber, tomato, potato, carrot or chapati? What does that tell us about the water in them?",
    "predict": "Put the five slices in order, from the one you think will shrink most to the one you think will shrink least. Why do you think so?",
-   "fair_test": "Cut every slice the same thickness, about half a centimetre, and about the same size. Dry them all on the same plate, in the same place, for the same number of days. Only the food changes. If you have a kitchen scale, weigh each slice before and after, because a number is easier to compare than a shape.",
+   "fair_test": "Cut the vegetable slices the same thickness, about half a centimetre, and about the same size. The chapati is thinner. That is fine, because thin things dry faster, so if the chapati still loses less, the result holds. Dry them all on the same plate, in the same place, for the same number of days. Only the food changes. If you have a kitchen scale, weigh each slice before and after, because a number is easier to compare than a shape.",
    "results_table": [
     "Food",
     "My guess (1 = shrinks most)",
@@ -1488,12 +1457,11 @@
      "qty": 1
     },
     {
-     "item": "a kitchen scale, if you have one (not needed)",
-     "qty": 1,
-     "buy": "b-scale"
+     "item": "a kitchen scale that reads to 1 gram, if you have one (optional)",
+     "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the slices with the knife. Do not eat the slices after drying, because they have sat out for days.",
+   "safety": "A grown-up cuts the slices with the knife. Do not eat the slices after drying, because they have sat out for days and can grow mould.",
    "schedule": [
     {
      "day": 1,
@@ -1515,9 +1483,9 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 6,
+     "mins": 8,
      "adult": true,
-     "do": "1. Cut one slice from each vegetable, about half a centimetre thick. 2. Cut a piece of chapati about the same size. 3. Lay all five on a sheet of paper and draw round each one with a pencil.",
+     "do": "1. Cut one slice from each vegetable, about half a centimetre thick. 2. Tear a piece of chapati about the same size. 3. Lay all five on a sheet of paper and draw round each one with a pencil.",
      "say": "All five slices start about the same size. Which one do you think will shrink the most when it dries? Why?",
      "kid": "Draw round each slice on the paper. Which one will shrink the most? Put them in order. Say why.",
      "ask": [
@@ -1533,7 +1501,7 @@
     },
     {
      "id": "s2",
-     "mins": 6,
+     "mins": 7,
      "do": "1. If you have a kitchen scale, weigh each slice and write the number. 2. Move the slices onto the steel plate. 3. Cover with a thin cloth to keep flies off. 4. Put the plate by a sunny window or on a balcony.",
      "say": "The cloth keeps flies off but lets air in. Sun and moving air help water leave the slices.",
      "kid": "Weigh each slice if you have a scale. Put them on the plate. Cover them with a thin cloth. Put them in the sun.",
@@ -1564,7 +1532,7 @@
       "a": 0,
       "why": "A cucumber is nearly all water. The sun and moving air turned that water into water vapour, which went into the air. What is left is the small part of the cucumber that is not water: some sugar, fibre and minerals. Chapati is already much drier, so it had less water to lose. Picking 'the chapati is stronger' is a natural guess, but the difference is in how much water each food held."
      },
-     "parent": "With a scale, a cucumber slice of 20 grams usually ends at about 1 gram. A potato slice keeps about a fifth of its weight, because a potato is about four-fifths water and the rest is mostly starch. The tomato and carrot fall in between. A home scale that reads to 1 gram is good enough to see this."
+     "parent": "After three days the slices may be leathery and not fully dry. Their order still shows. A cucumber slice of 20 grams usually ends at a few grams, a small wrinkled disc. A potato slice keeps more of its weight, because a potato is about four-fifths water and the rest is mostly starch, and it dries slowest. The tomato and carrot fall in between. A home scale that reads to 1 gram is good enough to see this. The chapati was already dry, so its size hardly changes."
     }
    ],
    "context": "In this three-day experiment you dry slices of four vegetables and a piece of chapati in the sun, to find out how much of each food is water.",
@@ -1652,7 +1620,7 @@
      "qty": "1 teaspoon"
     },
     {
-     "item": "whey saved from the milk-splitting experiment (e1), if you have it",
+     "item": "whey saved from the milk-splitting experiment, if you have it",
      "qty": "1 teaspoon"
     },
     {
@@ -1660,7 +1628,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not taste the spots. Wash the plate afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1709,7 +1676,7 @@
      "kid": "Tilt the plate to the light. What is left of each spot? Touch the coconut and whey spots. Are they sticky?",
      "check": {
       "t": "mcq",
-      "q": "The tap water left a white ring, but the filtered water left almost nothing. What is the white ring?",
+      "q": "Suppose the tap water left a white ring and the filtered water left almost nothing. What is the white ring?",
       "options": [
        "Minerals that were dissolved in the tap water",
        "Dust from the air",
@@ -1726,7 +1693,7 @@
      "do": "Ask your child to say or write: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think about clear water now? What did you see? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: clear water can carry minerals that I cannot see. What I saw: the tap water left a white ring and the filtered water left almost nothing. The whey left a sticky film. Why: minerals and sugar were dissolved in the water. When the water went into the air, they stayed on the plate. Your body gets some of its minerals from water in the same way."
+     "parent": "A good answer sounds like this. What I think: clear water can carry minerals that I cannot see. What I saw: the tap water left a white ring and the filtered water left almost nothing. The whey left a sticky film. Why: minerals and sugar were dissolved in the water. When the water went into the air, they stayed on the plate. People also get some of their minerals from drinking water."
     }
    ],
    "context": "In this experiment you dry spoons of clear liquids on a steel plate to find the minerals and sugars hidden in them.",
@@ -1802,7 +1769,7 @@
      "qty": "1 of each"
     },
     {
-     "item": "the food card in this activity, for the parent: Food cards for the parent to read out, out of 10 spoons. Cucumber: 10 water (a tiny bit of sugar, fibre and minerals too). Milk: 9 water, 1 shared by milk sugar, fat, protein and minerals. Cooked rice: 7 water, 3 carbohydrate. Dry toor dal: 6 carbohydrate, 2 protein, 1 fibre, 1 water. Raw peanuts: 4 fat, 3 protein, 2 carbohydrate, 1 fibre and water.",
+     "item": "the answers for the parent to read out, out of 10 spoons. Cucumber: 10 water, with a tiny bit of sugar, fibre and minerals. Milk: 9 water, and 1 shared by milk sugar, fat, protein and minerals. Cooked rice: 7 water, 3 carbohydrate. Dry toor dal: 6 carbohydrate, 2 protein, 1 fibre, 1 water. Raw peanuts: 4 fat, 3 protein, 2 carbohydrate, 1 fibre.",
      "qty": 1
     }
    ],
@@ -1856,7 +1823,7 @@
      "do": "Ask the question below and listen to the answer.",
      "say": "We put dal in the protein box and peanuts in the protein box. Now that you know what is inside, is that fair? Why?",
      "kid": "Is it fair to call dal a protein food? Say why or why not.",
-     "parent": "There is no single right answer. A good answer says that dal gives more protein than most plant foods, but most of it is carbohydrate. So a food group names only one part of a food."
+     "parent": "There is no single right answer. A good answer says that dal gives more protein than most plant foods, but the larger part of dal is carbohydrate. So a food group names only one part of a food."
     }
    ],
    "context": "This is a quick guessing activity to start the unit. You guess what five foods are made of, using 10 spoons, and then hear what scientists found.",
@@ -1886,7 +1853,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1967,7 +1933,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -2000,7 +1965,7 @@
        "Vitamin C"
       ],
       "a": 0,
-      "why": "Calcium is a mineral that makes bones and teeth hard. You get it from ragi, milk, curd, til and green leaves. Fat builds the skin of each cell, and vitamin C helps cuts heal."
+      "why": "Calcium is a mineral that makes bones and teeth hard. You get it from ragi, milk, curd, til and green leaves. Fat builds the outer wall of every cell, and vitamin C helps cuts heal."
      }
     },
     {
@@ -2031,7 +1996,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "white or black chana (kondakadalai), soaked overnight and pressure-cooked by a grown-up",
+     "item": "white or black chana (kondakadalai), soaked overnight and pressure-cooked by a grown-up beforehand",
      "qty": "1 cup"
     },
     {
@@ -2056,7 +2021,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Make chana sundal together. Name every ingredient's main nutrients. Eat it."
+     "what": "The evening before, soak the chana. On the day, a grown-up pressure-cooks it. Then make chana sundal together, name every ingredient's main nutrients, and eat it."
     }
    ],
    "record": "Draw your bowl of sundal. Draw arrows from each ingredient to the nutrients it gives.",
@@ -2126,7 +2091,6 @@
      "qty": 1
     }
    ],
-   "safety": "Drink normally. This is a diary, not a contest to drink as much as possible.",
    "schedule": [
     {
      "day": 1,
@@ -2213,14 +2177,14 @@
     "whey from the milk-splitting experiment, if you have some"
    ],
    "general": [
-    "Knead chapati or poori dough with whey instead of water.",
+    "Knead chapati or thepla dough with whey instead of water.",
     "Cook rice or dal in whey instead of some of the water.",
     "Use whey in place of water when making rasam."
    ],
    "creative": [
     "Use whey to soak the rice and urad dal for idli batter, and see if it changes the taste.",
-    "Water a potted plant with a little diluted whey, and compare with a plant given only water for two weeks.",
-    "Make a whey drink with a pinch of salt, roasted jeera and coriander, like neer mor."
+    "Make a whey drink with a pinch of salt, roasted jeera and coriander, like neer mor.",
+    "Use whey instead of water to make the batter for dosa or dhokla, and see if it changes the taste."
    ],
    "your_turn": "Write your plan for 800 millilitres of whey, with amounts for each use. Try one use this week and tell your family what nutrients the whey carried.",
    "flow": [
@@ -2238,7 +2202,7 @@
      "do": "Plan three or four uses together, with amounts that add up to 800 millilitres.",
      "say": "How much whey would chapati dough for four people take? How much could go into the rasam?",
      "kid": "Plan three uses for the whey. How much for each? Add them up to 800.",
-     "parent": "Chapati dough for four people takes about 200 to 300 millilitres of liquid. A pot of rasam takes about 500 millilitres. Whey is sour, so taste the dish before adding tamarind or lemon."
+     "parent": "Chapati dough for four people takes about 150 to 200 millilitres of liquid. A pot of rasam takes about 500 millilitres. Whey is sour, so taste the dish before adding tamarind or lemon."
     },
     {
      "id": "s3",
@@ -2287,13 +2251,14 @@
     "paper and pencil"
    ],
    "general": [
-    "Nimbu pani: water, lemon juice, a little sugar and a pinch of salt.",
-    "Neer mor or sambharam: thin buttermilk with salt, curry leaves and ginger.",
+    "Lemon water (nimbu pani): water, lemon juice, a little sugar and a pinch of salt.",
+    "Neer mor or sambharam: thin buttermilk with salt, curry leaves and ginger, made just before you leave.",
     "Tender coconut water, with a banana as the snack."
    ],
    "creative": [
     "Panakam, made for Rama Navami in many South Indian homes: water, jaggery, dry ginger, cardamom and a little lemon.",
-    "Freeze half the bottle overnight, then top it up in the morning, so it stays cool."
+    "Freeze half the bottle overnight, then top it up in the morning, so it stays cool.",
+    "Kokum sherbet, from the Konkan coast: water, soaked kokum, a little sugar and a pinch of salt."
    ],
    "your_turn": "Write the recipe for your drink and snack, and explain what each ingredient puts back. Make it before a busy, hot day, and see how you feel.",
    "flow": [
@@ -2311,7 +2276,7 @@
      "do": "Design one drink and one snack together. Name what each ingredient gives.",
      "say": "Water puts back water. What puts back the salt? What gives energy for the next race?",
      "kid": "Plan a drink and a snack. What does each part put back?",
-     "parent": "Water replaces water. A pinch of salt replaces some of the sodium lost in sweat. Sugar or jaggery gives quick energy, and also helps the gut take in salt and water. Doctors use a measured mix of salt and sugar in water, called ORS, for children who have lost a lot of water through diarrhoea."
+     "parent": "Water replaces water. A pinch of salt replaces some of the sodium lost in sweat. Sugar or jaggery gives quick energy, and also helps the gut take in salt and water. Doctors use a measured mix of salt and sugar in water, called ORS, for children who have lost a lot of water through diarrhoea. Milk drinks like buttermilk go sour in a warm bottle after a few hours, so make them last and drink them early."
     },
     {
      "id": "s3",
@@ -2520,18 +2485,6 @@
    "a": 0,
    "why": "They measured the nitrogen in their urine to see how much protein they used. It was far too little for the climb. So the energy came mostly from carbohydrates and fats.",
    "outcome": 5
-  },
-  {
-   "t": "mcq",
-   "p": "How did Fick and Wislicenus measure how much protein their bodies used?",
-   "opts": [
-    "They measured the nitrogen in their urine",
-    "They weighed themselves at the top",
-    "They counted their breaths"
-   ],
-   "a": 0,
-   "why": "Protein is the nutrient with a lot of nitrogen. When the body breaks protein down, the nitrogen leaves in urine. So the nitrogen showed how much protein was used.",
-   "outcome": 5
   }
  ],
  "applications": [
@@ -2550,7 +2503,7 @@
    "art": "A row of steel tumblers on a drying rack, with faint white rings at their bottoms."
   },
   {
-   "text": "Paneer being made in a sweet shop or at home, with whey dripping from a tied cloth.",
+   "text": "Paneer, or chhena for rasgulla and sandesh, being made in a sweet shop or at home, with whey dripping from a tied cloth.",
    "art": "A white cloth bundle hanging from a tap, pale whey dripping into a bowl."
   },
   {
@@ -2605,7 +2558,6 @@
   "Which food on your plate has the most water in it?",
   "Is the rasam a drink or a food? Why?",
   "Which food today gave you protein?",
-  "Where did the calcium in your bones come from before it was in the ragi?",
   "Why do you think we feel thirsty after playing in the sun?",
   "If milk is mostly water, why does it look white?",
   "What would happen if you ate only rice for a week?",
@@ -2615,35 +2567,15 @@
  "jokes": [
   {
    "j": "Why did the paneer get top marks?",
-   "a": "Because it was the cream of the crop."
+   "a": "Because he was the cream of the crop."
   },
   {
    "j": "What did the milk say when the lemon juice arrived?",
    "a": "I think I am going to split."
   },
   {
-   "j": "Why did the cucumber never win at hide-and-seek?",
-   "a": "Because it is nearly all water, so you could see right through it."
-  },
-  {
    "j": "What is a skeleton's favourite mineral?",
    "a": "Calcium, of course. It is bone-afide."
-  },
-  {
-   "j": "Why did the dal go to the protein party and the carbohydrate party?",
-   "a": "Because it belongs to both."
-  },
-  {
-   "j": "Why did the tumbler have a white ring?",
-   "a": "The tap water left without saying goodbye to its minerals."
-  },
-  {
-   "j": "What did the idli say to the runner?",
-   "a": "I have got the energy you need."
-  },
-  {
-   "j": "Why did the peanut feel confused?",
-   "a": "Everyone called them protein, but they had more fat than protein."
   },
   {
    "j": "Why do bananas never get lonely?",
@@ -2654,24 +2586,16 @@
    "a": "Don't worry, I will C you through this."
   },
   {
-   "j": "Why did the whey refuse to go down the sink?",
-   "a": "Because it still had a lot to give."
+   "j": "Why don't eggs tell jokes?",
+   "a": "They would crack each other up."
   },
   {
-   "j": "What did the water say to the body?",
-   "a": "I make up more than half of you, so be nice to me."
+   "j": "Why did the mustard seed go to the sundal party?",
+   "a": "She wanted to pop in."
   },
   {
-   "j": "Why did the carrot go to the eye doctor?",
-   "a": "To bring some vitamin A."
-  },
-  {
-   "j": "What is the strongest drink in the kitchen?",
-   "a": "Milk. It builds bones."
-  },
-  {
-   "j": "Why did the fat say it was full of energy?",
-   "a": "Because one spoon of fat has twice the energy of one spoon of sugar."
+   "j": "Why did the curd go to school?",
+   "a": "To become a little more cultured."
   }
  ],
  "maths": [
@@ -2685,7 +2609,7 @@
    "why_maths": "Fractions let us say how much of a food is protein, whatever the size of the bowl."
   },
   {
-   "problem": "Kavya split 200 millilitres of milk with 20 millilitres of lemon juice. She collected 180 millilitres of whey. About how much went into the curds?",
+   "problem": "Kavya, a girl in Class 3, split 200 millilitres of milk with 20 millilitres of lemon juice. She collected 180 millilitres of whey. About how much went into the curds?",
    "answer": "About 40 millilitres.",
    "explain": "She started with 200 + 20 = 220 millilitres of liquid. 180 millilitres came out as whey. 220 - 180 = 40. So about 40 millilitres went into the curds. That is much less than the whey.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2694,7 +2618,7 @@
    "why_maths": "Taking away what came out from what went in tells us how much stayed in the curds, without having to measure them."
   },
   {
-   "problem": "A cucumber slice weighed 20 grams and dried to 1 gram. A potato slice weighed 20 grams and dried to 4 grams. How much water did each lose? Which food had more that was not water?",
+   "problem": "In a made-up test, a cucumber slice weighed 20 grams and dried to 1 gram. A potato slice weighed 20 grams and dried to 4 grams. How much water did each lose? Which food had more that was not water?",
    "answer": "The cucumber lost 19 grams. The potato lost 16 grams. The potato had more that was not water: 4 grams instead of 1.",
    "explain": "20 - 1 = 19 grams of water from the cucumber. 20 - 4 = 16 grams from the potato. What is left is the part that is not water. 4 grams is 4 times as much as 1 gram.",
    "math_unit": "math.weight-capacity.weight.L3",
@@ -2703,7 +2627,7 @@
    "why_maths": "Weighing before and after turns 'it shrank a lot' into a number we can compare between foods."
   },
   {
-   "problem": "Meena's steel tumbler holds 200 millilitres. On Monday she drank 6 tumblers. On Tuesday, a hot sports day, she drank 9. How much more did she drink on Tuesday, in millilitres? Why might that be?",
+   "problem": "Meena, a girl in Class 3, has a steel tumbler that holds 200 millilitres. On Monday she drank 6 tumblers. On Tuesday, a hot sports day, she drank 9. How much more did she drink on Tuesday, in millilitres? Why might that be?",
    "answer": "600 millilitres more. On a hot sports day she sweated more, so she needed more water.",
    "explain": "Monday: 6 x 200 = 1,200 millilitres. Tuesday: 9 x 200 = 1,800 millilitres. 1,800 - 1,200 = 600. That is 3 more tumblers, because sweat carries water out of the body.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2720,9 +2644,9 @@
    "why_maths": "Saying 'nearly 3 times as much' is easier to remember and compare than two big numbers."
   },
   {
-   "problem": "In Two-Box Foods, Arjun found a second box for 8 of the 20 food cards. Kavya found a second box for 12. Make a tally chart for both and say what the numbers suggest about food groups.",
-   "answer": "Arjun: 8 tallies. Kavya: 12 tallies. More than a third of the foods fit two boxes for both players, so many foods are a mix of nutrients.",
-   "explain": "Tally in groups of five: Arjun has one group of 5 and 3 more. Kavya has two groups of 5 and 2 more. 8 and 12 are both more than a third of 20, which is about 7. So many foods belong in two boxes.",
+   "problem": "Kavya, a girl in Class 3, and her brother Arjun, who is 6, play Two-Box Foods with 20 food cards. Arjun finds a second box for 5 cards. Kavya finds a second box for 8. Make a tally chart for both. Who found more, and how many more? What do the numbers suggest about food groups?",
+   "answer": "Arjun: 5 tallies. Kavya: 8 tallies. Kavya found 3 more. Even Arjun found a second box for 5 of 20 cards, which is a quarter, so many foods fit two boxes.",
+   "explain": "Tally in groups of five: Arjun has one group of 5. Kavya has one group of 5 and 3 more. 8 - 5 = 3, so Kavya found 3 more. 5 out of 20 is one-quarter, because 20 divided by 4 is 5. So at least a quarter of these foods belong in two boxes.",
    "math_unit": "math.data.sorting-and-tallies.L3",
    "how": "g1",
    "context": "In Two-Box Foods, you score extra for finding a second food group for a food.",
@@ -2757,7 +2681,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free hands-on activities from a science museum in San Francisco. It is on the founder's list of STEM websites."
+   "why": "Free hands-on science activities from a science museum in San Francisco, in the United States."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
@@ -2774,19 +2698,7 @@
    "why": "Ask politely if your child can watch paneer being made, and ask what the shop does with the whey."
   }
  ],
- "buy": [
-  {
-   "id": "b-scale",
-   "item": "A small digital kitchen scale that reads to 1 gram",
-   "kind": "tool",
-   "why": "Not needed, but it turns the sun-dried slices test into numbers. Useful in many later units and in cooking.",
-   "url": "https://www.amazon.in/s?k=digital+kitchen+scale+1g",
-   "used_in": [
-    "e2"
-   ],
-   "plan": "Used again in the weight and mass unit (sci.gravity.weight-and-mass.L3)."
-  }
- ],
+ "buy": [],
  "warmup": [
   {
    "q": "Name the six kinds of nutrient.",
@@ -2949,13 +2861,13 @@
    "kid": "Hold a glass of milk. Look at it. Name what is inside: water, protein, fat, sugar, minerals. Take one slow sip. Swallow. Breathe slowly three times."
   },
   "ask": [
-   "When you drink milk, at what moment does it stop being milk and start being you?",
-   "If the same few kinds of atoms make sugar, oil and paneer, what makes them so different?",
+   "Which part of your body, do you think, is made from the food you ate this week?",
+   "If you split a food into its parts, is it still the same food? Why?",
    "Is a food group something real in the food, or something people made up to help them?"
   ],
   "art": "A child sitting cross-legged holding a glass of milk in both hands, with faint drawings of tiny particles rising from the glass and joining into the shape of the child's arm."
  },
- "playtest": "Every flow was walked through as if done at home today. Splitting Milk (e1): 1 tablespoon of lemon juice in half a cup of milk heated until steaming curdles it within a minute or two, which is more acid per cup than a usual paneer recipe, so the result is clear. Cold milk curdles slowly with tiny lumps, so the milk is heated by a grown-up and the step says what to do if the lumps are small. Vinegar is optional, with sour curd as a swap. Tamarind is weaker and may curdle slowly; the step says so. Sun-Dried Slices (e2) needs no scale: drawing round each slice before and after shows the cucumber shrinking to a small wrinkled disc. It covers the plate with a cloth against flies, and gives a fan and an extra day for the monsoon. Hidden Minerals (e3) depends on how hard the tap water is, so it uses filtered water as the comparison, salt water as a sure result, and says that soft water leaves only a faint ring. The sundal activity keeps the child away from hot oil.",
+ "playtest": "Every flow was walked through as if done at home. Splitting Milk (e1): 1 tablespoon of lemon juice in half a cup of steaming milk curdles it within a minute or two. All six liquids are added within a minute so the milk is equally hot. Tamarind may curdle slowly or only a little, and the step says to write down what is seen. Sun-Dried Slices (e2) needs no scale. After three days the slices may be leathery, not fully dry, and the order still shows. Hidden Minerals (e3) depends on how hard the tap water is, so it compares with filtered water and salt water, and says that soft water leaves only a faint ring. The sundal activity keeps the child away from hot oil.",
  "how_we_found_out": {
   "story": "In the 1840s, Justus von Liebig, a famous German chemist, taught that working muscles burn up their own protein. So people thought protein foods were the main fuel for hard work. In 1865 two professors in Zurich, Adolf Fick and Johannes Wislicenus, decided to test this on themselves. Protein is the only nutrient in food with a lot of nitrogen in it. When the body breaks protein down, that nitrogen leaves in urine. So by measuring the nitrogen in their urine, they could work out how much protein their bodies had used. In August 1865 they climbed the Faulhorn, a mountain in Switzerland, nearly 2,000 metres up from the lake below. Before and during the climb they ate no protein, only food made of starch, fat and sugar. They collected their urine and measured its nitrogen. The protein they had used could give only a small part of the energy needed to lift their bodies up the mountain. The rest of the energy had to come from starch, fat and sugar. Liebig was wrong. Muscles run mainly on carbohydrates and fats. Protein is used mostly to build and mend the body.",
   "who": "Adolf Fick, a physiologist, and Johannes Wislicenus, a chemist, both professors in Zurich",

@@ -92,7 +92,7 @@
    "examples": [
     "A fridge is about 4 °C inside.",
     "A healthy body is about 37 °C inside.",
-    "Tea people drink is often about 60 to 65 °C."
+    "Hot tea or filter coffee is often about 60 to 65 °C."
    ],
    "perspectives": [],
    "art": "A tall thermometer with labels beside it: a freezer at minus 18, ice at 0, a fridge at 4, a room at 30, a child at 37, tea at 60, boiling water at 100.",
@@ -102,7 +102,7 @@
    "concept": "How a liquid thermometer works",
    "status": "defined",
    "definition": "A liquid thermometer has a bulb of liquid joined to a very narrow tube. When the liquid warms, it expands and climbs up the tube. When it cools, it shrinks and goes down.",
-   "description": "The liquid expands only a tiny bit. But the tube is so narrow that this tiny bit of extra liquid makes a long line. The numbers on the side were marked by putting the thermometer in melting ice and in boiling water. A thermometer shows its own temperature. Put it in hot water, and heat moves into the bulb until the bulb is as warm as the water. That takes about a minute for a glass thermometer. So you wait until the line stops moving before you read it. Most laboratory thermometers in India use red-coloured spirit. Old ones used silvery mercury, which is poisonous if the glass breaks.",
+   "description": "The liquid expands only a tiny bit. But the tube is so narrow that this tiny bit of extra liquid makes a long line. The numbers on the side were marked by putting the thermometer in melting ice and in boiling water. A thermometer shows its own temperature. Put it in hot water, and heat moves into the bulb until the bulb is as warm as the water. That takes about a minute for a glass thermometer. So you wait until the line stops moving before you read it. Many laboratory thermometers today use red-coloured spirit. Old ones used silvery mercury, which is poisonous if the glass breaks.",
    "examples": [
     "Dip the bulb in hot water and the red line climbs for about a minute, then stops.",
     "A digital thermometer has a tiny metal part instead of liquid, and it shows a number on a screen.",
@@ -266,11 +266,6 @@
    "hint": "Think about what happens when two things touch for a while."
   },
   {
-   "q": "Is there a coldest possible temperature? What would happen to the particles there?",
-   "kind": "deep",
-   "hint": "If temperature is how fast particles jiggle, what is the slowest they could go?"
-  },
-  {
    "q": "Your hand and a thermometer said different things about the same water. Which one tells the truth about the world?",
    "kind": "big",
    "hint": "Think about what each one is really measuring. Is a feeling of warmth wrong, or is it about something else?"
@@ -313,7 +308,6 @@
   ],
   "epiphany": "For the parent: when a hot thing cools, its heat does not vanish. It moves into whatever is cooler around it: the air, the table, the water. In a big room the air gets only a tiny bit warmer, too little to measure, so the heat seems to disappear. A vessel of water is small enough to show the rise. The coffee and the water stopped at the same temperature, nearer the water's starting temperature, because there was more water. Heat moves only from hotter to cooler, and stops when they are equal. Cold is not a thing that moves.",
   "ask": [
-   "Why did the room still read 29 degrees after the coffee had cooled?",
    "In the vessel test, what happened to the water around the tumbler? Why?",
    "Why did the coffee and the water end up nearer 29 than 70?",
    "Why does Paati's high pouring cool the coffee faster?",
@@ -337,50 +331,146 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card shows a real thing and its temperature. Players guess which of two things is hotter, and say which way heat would move if they touched.",
+   "context": "This is a card game. Each card shows a real thing and its temperature on the back. Players guess which of two things is hotter, guess its temperature, and say which way heat would move if they touched.",
    "printables": [
     {
      "kind": "cards",
-     "title": "24 temperature cards to cut out (the number is on the back)",
+     "title": "24 temperature cards to cut out (the thing on the front, its temperature on the back)",
      "items": [
-      "A freezer: minus 18 °C",
-      "An ice cube: 0 °C",
-      "Inside a fridge: 4 °C",
-      "Ooty on a winter morning: about 5 °C",
-      "A tumbler of water with ice in it: about 2 °C",
-      "A room in Chennai in May: about 32 °C",
-      "A Delhi night in January, outdoors: about 7 °C",
-      "Your skin: about 33 °C",
-      "Inside your body: about 37 °C",
-      "A child with a fever: 39 °C",
-      "A hen's body: about 41 °C",
-      "A warm bath: about 40 °C",
-      "Hot filter coffee: about 65 °C",
-      "Boiling water at sea level: 100 °C",
-      "Water boiling in a pressure cooker: about 120 °C",
-      "An oven baking a cake: about 180 °C",
-      "A dosa tawa ready for batter: about 200 °C",
-      "A candle flame: about 1,000 °C or more",
-      "Melted iron in a factory: about 1,500 °C",
-      "The surface of the Sun: about 5,500 °C",
-      "The coldest place on the Moon, inside a dark crater: below minus 240 °C",
-      "A Rajasthan desert afternoon in May: about 45 °C",
-      "The sea at Kovalam beach: about 28 °C",
-      "Curd just out of the fridge: about 6 °C"
+      {
+       "f": "A freezer",
+       "b": "minus 18 °C"
+      },
+      {
+       "f": "An ice cube",
+       "b": "0 °C"
+      },
+      {
+       "f": "Inside a fridge",
+       "b": "4 °C"
+      },
+      {
+       "f": "Ooty on a winter morning",
+       "b": "about 5 °C"
+      },
+      {
+       "f": "A tumbler of water with ice in it",
+       "b": "about 2 °C"
+      },
+      {
+       "f": "A room in Chennai in May",
+       "b": "about 32 °C"
+      },
+      {
+       "f": "A Kolkata night in January, outdoors",
+       "b": "about 12 °C"
+      },
+      {
+       "f": "Your skin",
+       "b": "about 33 °C"
+      },
+      {
+       "f": "Inside your body",
+       "b": "about 37 °C"
+      },
+      {
+       "f": "A child with a fever",
+       "b": "39 °C"
+      },
+      {
+       "f": "A hen's body",
+       "b": "about 41 °C"
+      },
+      {
+       "f": "A warm bath",
+       "b": "about 40 °C"
+      },
+      {
+       "f": "Hot filter coffee",
+       "b": "about 65 °C"
+      },
+      {
+       "f": "Boiling water at sea level",
+       "b": "100 °C"
+      },
+      {
+       "f": "Water boiling in a pressure cooker",
+       "b": "about 120 °C"
+      },
+      {
+       "f": "An oven baking a cake",
+       "b": "about 180 °C"
+      },
+      {
+       "f": "A dosa tawa ready for batter",
+       "b": "about 200 °C"
+      },
+      {
+       "f": "A candle flame",
+       "b": "about 1,000 °C or more"
+      },
+      {
+       "f": "Melted iron in a factory",
+       "b": "about 1,500 °C"
+      },
+      {
+       "f": "The surface of the Sun",
+       "b": "about 5,500 °C"
+      },
+      {
+       "f": "The coldest place on the Moon, inside a dark crater",
+       "b": "below minus 240 °C"
+      },
+      {
+       "f": "A Rajasthan desert afternoon in May",
+       "b": "about 45 °C"
+      },
+      {
+       "f": "The sea at Kovalam beach",
+       "b": "about 28 °C"
+      },
+      {
+       "f": "Curd just out of the fridge",
+       "b": "about 6 °C"
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "8 question cards",
+     "title": "8 question cards to cut out (the question on the front, the answer on the back)",
      "items": [
-      "Your two cards touch. Which way does the heat move? (From the hotter one to the cooler one)",
-      "What unit do we measure temperature in? (Degrees Celsius)",
-      "Why can't a fever thermometer measure fridge water? (It reads only from about 32 to 42 °C)",
-      "Why must you wait before reading a thermometer? (Heat takes time to move into it)",
-      "What makes the red line in a thermometer climb? (The liquid expands as it warms)",
-      "Ice is in your hand. Is cold going into your hand? (No. Heat is going from your hand into the ice)",
-      "A hot tumbler and a cold tumbler stand in a room for 3 hours. What do they read? (About the same as the room)",
-      "At what temperature does water freeze? (0 °C)"
+      {
+       "f": "Your two cards touch. Which way does the heat move?",
+       "b": "From the hotter one to the cooler one"
+      },
+      {
+       "f": "What unit do we measure temperature in?",
+       "b": "Degrees Celsius"
+      },
+      {
+       "f": "Why can't a fever thermometer measure fridge water?",
+       "b": "It reads only from about 32 to 42 °C"
+      },
+      {
+       "f": "Why must you wait before reading a thermometer?",
+       "b": "Heat takes time to move into it"
+      },
+      {
+       "f": "What makes the red line in a thermometer climb?",
+       "b": "The liquid expands as it warms"
+      },
+      {
+       "f": "Ice is in your hand. Is cold going into your hand?",
+       "b": "No. Heat is going from your hand into the ice"
+      },
+      {
+       "f": "A hot tumbler and a cold tumbler stand in a room for 3 hours. What do they read?",
+       "b": "About the same as the room"
+      },
+      {
+       "f": "At what temperature does water freeze?",
+       "b": "0 °C"
+      }
      ]
     },
     {
@@ -394,21 +484,22 @@
     }
    ],
    "rules": [
-    "Shuffle the temperature cards and lay them number side down.",
-    "On your turn, turn over the top two cards with the words showing, not the number.",
-    "Say which one you think is hotter, and why.",
-    "Then say which way the heat would go if the two things touched.",
-    "Turn the cards over to check the numbers. A right 'hotter' guess scores 1 point, and a right heat direction scores 1 more.",
-    "Every third turn, take a question card instead.",
-    "After everyone has had 6 turns, lay all the cards in one long line from coldest to hottest."
+    "Make one pile of the 24 temperature cards, with the thing side up. Make a second pile of the 8 question cards, with the question side up.",
+    "On your turn, take the top two temperature cards and put them side by side. Do not turn them over yet.",
+    "Say which one you think is hotter, and why. Then guess the temperature of the hotter one.",
+    "Then say which way the heat would move if the two things touched.",
+    "Turn both cards over to check. A right 'hotter' guess scores 1 point. A temperature guess within 10 degrees scores 1 more point.",
+    "Then take the top question card. Another player reads it out, you answer, and they turn it over to check. A right answer scores 1 point. If you are playing alone, check it yourself. When the question cards run out, skip this step.",
+    "Play until all 24 temperature cards are used: 12 turns in all. With 2 players, each has 6 turns. With 4 players, each has 3.",
+    "The most points wins. Then everyone works together. Mix all 24 temperature cards and lay them in one line from coldest to hottest, thing side up. Turn them over to check the numbers."
    ],
    "setup": [
     {
-     "art": "Two face-up cards on a table, one showing a cup of filter coffee and one showing a warm bath, with a child pointing at the coffee.",
+     "art": "Two cards face up on a table, one reading 'Hot filter coffee' and one reading 'A warm bath', with a child pointing at the coffee.",
      "caption": "1. Turn over two cards. Which is hotter?"
     },
     {
-     "art": "The same two cards flipped to show 65 °C and 40 °C, with a red arrow drawn from the coffee to the bath.",
+     "art": "The same two cards turned over to show 65 °C and 40 °C, with a red arrow drawn from the coffee card to the bath card.",
      "caption": "2. Check the numbers. Which way would the heat go?"
     }
    ],
@@ -416,15 +507,15 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Shuffle the temperature cards. 3. Lay them with the words up and the numbers down.",
+     "do": "1. Cut out the cards. 2. Make a pile of temperature cards with the thing side up. 3. Make a pile of question cards with the question side up.",
      "say": "Each card shows something real. The number on the back is how hot it is. We will guess which is hotter.",
-     "kid": "Each card is a real thing. Its temperature is on the back. Guess which is hotter!",
+     "kid": "Each card shows a real thing. Its temperature is on the back. Guess which is hotter!",
      "context": "This is the first step of Hotter or Colder, a card game about real temperatures."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice turn with the coffee card and the bath card.",
+     "do": "Take out the hot filter coffee card and the warm bath card. Play one practice turn with them. Then mix them back into the pile.",
      "say": "Practice turn. Hot coffee, or a warm bath. Which is hotter? If coffee spilled into the bath, which way would the heat go?",
      "kid": "Coffee or a warm bath. Which is hotter? Which way would heat go?",
      "check": {
@@ -442,15 +533,15 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Play the game. Every third turn, take a question card.",
-     "say": "Your turn. Which is hotter, and why? Which way would the heat go?",
-     "kid": "Turn two cards. Which is hotter? Which way would the heat go?",
+     "do": "Play the game. After each turn, take a question card.",
+     "say": "Your turn. Which is hotter, and why? Guess its number. Which way would the heat go?",
+     "kid": "Take two cards. Which is hotter? Guess its number. Which way would heat go?",
      "parent": "The surprises children enjoy most: a hen is warmer than a person, a pressure cooker is hotter than boiling water, and the Moon's dark craters are far colder than any freezer."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Lay all 24 cards in a line from coldest to hottest.",
+     "do": "Mix all 24 temperature cards. Lay them in a line from coldest to hottest, then turn them over to check.",
      "say": "Now let's make one long line, from the coldest thing to the hottest. Where does your own body go?",
      "kid": "Make one long line, coldest to hottest. Where do you go?",
      "check": {
@@ -472,7 +563,7 @@
   {
    "id": "e1",
    "title": "Hot Tumbler, Cold Tumbler: where do they both end up?",
-   "mins": 40,
+   "mins": 45,
    "days": 1,
    "question": "If a tumbler of hot water and a tumbler of cold water stand on the same table, what happens to each one's temperature, and where does it stop?",
    "predict": "Guess the temperature of each tumbler after 20 minutes, and again after 3 hours. Why do you think so?",
@@ -519,8 +610,8 @@
     },
     {
      "day": 1,
-     "mins": 5,
-     "what": "Three hours later, read both tumblers and the room again."
+     "mins": 10,
+     "what": "Three hours later, read both tumblers and the room again. Then say what you think, what you saw, and why."
     }
    ],
    "record": "Fill in the table. Then draw two lines on one graph, one for each tumbler, with time along the bottom. Draw a dotted line across for the room.",
@@ -844,7 +935,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Now use 1 katori of hot water and 2 katoris of cold. 2. Ask for a new guess with a reason. 3. Mix, stir and read.",
+     "do": "1. Empty the third tumbler. 2. Top up the hot water so it is hot again. 3. Ask for a new guess, with a reason. 4. Pour 1 katori of hot water and 2 katoris of cold water into the third tumbler, stir and read.",
      "say": "This time there is twice as much cold water. Will the mix be nearer the hot number or the cold number? Why?",
      "kid": "Now 1 katori hot and 2 katoris cold. Will the mix be nearer hot or cold? Why?",
      "adult": true,
@@ -960,7 +1051,7 @@
        "One hand is better at feeling than the other"
       ],
       "a": 1,
-      "why": "The hand from the ice was cold, so it gained heat in the middle bowl and felt warm. The hand from the warm bowl lost heat and felt cold. The thermometer showed the water was one temperature. Picking 'warm on one side' is a sensible guess, and you can test it: swap hands, and the feelings swap too."
+      "why": "The hand from the ice was cold, so it gained heat in the middle bowl and felt warm. The hand from the warm bowl lost heat and felt cold. The thermometer showed the water was one temperature. Picking 'warm on one side' is a sensible guess, and you can test it: put the hands in the outside bowls the other way round, and the feelings swap."
      }
     }
    ]
@@ -968,8 +1059,8 @@
   {
    "id": "a2",
    "title": "The Temperature Hunt: measure five things at home",
-   "mins": 15,
-   "days": 1,
+   "mins": 17,
+   "days": 2,
    "materials": [
     {
      "item": "a laboratory thermometer that reads from about minus 10 to 110 °C, or a digital kitchen probe thermometer. A fever thermometer will not work, because it reads only from about 32 to 42 °C.",
@@ -989,8 +1080,13 @@
    "schedule": [
     {
      "day": 1,
+     "mins": 2,
+     "what": "In the evening, stand a tumbler of tap water on a shelf in the room, away from the fan and the sun."
+    },
+    {
+     "day": 2,
      "mins": 15,
-     "what": "Guess, then measure: the room, the balcony or a window, tap water, fridge water, and water that stood out overnight."
+     "what": "Guess, then measure: the room, a shady window, tap water, fridge water, and the water that stood out overnight."
     }
    ],
    "record": "Make a table with three columns: the place, my guess, and what the thermometer read. Then put the five things in order from coldest to warmest.",
@@ -1008,11 +1104,12 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "1. List five things. They are room air, air at a shady window, tap water, fridge water, and water that stood out overnight. 2. Ask your child to guess a temperature for each.",
+     "mins": 5,
+     "do": "1. The evening before, stand a tumbler of tap water on a shelf in the room. 2. Next day, list five things. They are room air, air at a shady window, tap water, fridge water, and the water that stood out overnight. 3. Ask your child to guess a temperature for each.",
      "say": "We are going to measure five things. Guess a number for each one first. Which will be the coldest? Which will be the warmest?",
      "kid": "Five things to measure. Guess a number for each. Which is coldest?",
-     "context": "This is the first step of the Temperature Hunt. You guess the temperature of five things at home."
+     "context": "This is the first step of the Temperature Hunt. You guess the temperature of five things at home.",
+     "wait": "Set up the tumbler the evening before."
     },
     {
      "id": "s2",
@@ -1123,7 +1220,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Stand the bottle in the bowl of hot water. 2. Watch the straw for 5 minutes. 3. Mark the highest level, and write the hot water's real temperature beside it.",
+     "do": "1. Stand the bottle in the bowl of hot water. 2. Stand the real thermometer in the same bowl. 3. Watch the straw for 5 minutes. 4. Mark the highest level, and write the real thermometer's reading beside it.",
      "say": "Watch the straw closely. What is the coloured water doing?",
      "kid": "Watch the straw. Is the water going up or down?",
      "adult": true,
@@ -1143,7 +1240,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Move the bottle into the ice water. 2. Watch for 5 minutes. 3. Mark the lowest level.",
+     "do": "1. Move the bottle into the ice water, with the real thermometer. 2. Watch for 5 minutes. 3. Mark the lowest level, and write the real reading beside it.",
      "say": "Now into the cold. What do you think will happen? Why?",
      "kid": "Now put it in ice water. What happens to the level?",
      "parent": "The level falls, often below the room mark. Your child now has a thermometer with three marks. A real thermometer was made the same way, with marks for ice and boiling water."
@@ -1188,7 +1285,7 @@
      "do": "1. Walk through the home together. 2. Find six things that are warming up or cooling down. 3. For each, ask which way the heat is going.",
      "say": "Let's find things that are warming up or cooling down. For each one, where is the heat going? From what, into what?",
      "kid": "Find six things getting warmer or cooler. Where is the heat going?",
-     "parent": "Good finds: a cooker cooling after cooking, curd warming on the table, ice melting in a drink, a hot iron cooling, a child's hand on a cold tile, clothes drying in the sun. For ice in a drink, the heat goes from the drink into the ice.",
+     "parent": "Good finds: a pot of rice or fish curry cooling after cooking, curd warming on the table, ice melting in a drink, a hot iron cooling, a child's hand on a cold tile, clothes drying in the sun. For ice in a drink, the heat goes from the drink into the ice.",
      "context": "This is the first step of the home hunt. You find things that are warming up or cooling down."
     },
     {
@@ -1216,7 +1313,7 @@
   {
    "id": "p1",
    "title": "My Temperature Diary: seven days at the window",
-   "mins": 40,
+   "mins": 44,
    "days": 7,
    "materials": [
     {
@@ -1233,7 +1330,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the thermometer in the shade, tied or taped so it cannot fall from the window or balcony.",
+   "safety": "Tie or tape the thermometer so it cannot fall from the window or balcony.",
    "schedule": [
     {
      "day": 1,
@@ -1267,8 +1364,8 @@
     },
     {
      "day": 7,
-     "mins": 10,
-     "what": "Last readings. Draw a line graph and find the warmest and coolest times."
+     "mins": 14,
+     "what": "Last readings. Then draw a line graph and find the warmest and coolest times."
     }
    ],
    "record": "A table with the day, the 8 am reading, the 2 pm reading and the weather in one word (sunny, cloudy, rainy). On day 7, a line graph with two lines.",
@@ -1295,7 +1392,7 @@
     },
     {
      "id": "s2",
-     "mins": 20,
+     "mins": 24,
      "do": "Each day, read at 8 am and 2 pm. Write the numbers and one word for the weather.",
      "say": "Time for the reading. What does it say? Is it warmer or cooler than yesterday at this time?",
      "kid": "Read the thermometer. Write the number. Write the weather.",
@@ -1326,12 +1423,12 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "Cool the Coffee Fast",
+   "title": "Cool the Hot Water Fast",
    "mins": 25,
    "problem": "A tumbler of hot water is too hot to drink. Get it down to 40 °C as fast as you can, without a fridge, ice or adding cold water.",
    "constraints": [
     "Start with one tumbler of hot water from a grown-up, all at the same temperature.",
-    "No fridge, no ice, and no adding water.",
+    "No fridge, no ice, and no water added to the hot water.",
     "Measure with the thermometer and time it."
    ],
    "materials": [
@@ -1369,7 +1466,7 @@
      "say": "This water is too hot to drink. How can we get it down to 40 degrees quickly, with no fridge and no ice? Why would your idea work?",
      "kid": "Cool this hot water to 40 degrees. No fridge. No ice. What will you try? Why?",
      "adult": true,
-     "context": "This is the first step of Cool the Coffee Fast, a design challenge to cool hot water quickly."
+     "context": "This is the first step of Cool the Hot Water Fast, a design challenge to cool hot water quickly."
     },
     {
      "id": "s2",
@@ -1398,7 +1495,8 @@
       "why": "Heat leaves through the surface that touches the cooler air. A falling stream and a wide davara give much more surface than a tall tumbler, so heat leaves faster. Some water also evaporates, which carries away heat too. Steel does not make cold."
      }
     }
-   ]
+   ],
+   "safety": "A grown-up pours the hot water and does the high pouring. Keep hands clear of the stream and work over a tray."
   },
   {
    "id": "c2",
@@ -1413,7 +1511,7 @@
    "materials": [
     "the straw thermometer",
     "a laboratory thermometer that reads from about minus 10 to 110 °C, or a digital kitchen probe thermometer. A fever thermometer will not work, because it reads only from about 32 to 42 °C.",
-    "bowls of water at three different temperatures, mixed by a grown-up",
+    "bowls of water at three different temperatures, and a fourth bowl for the test, mixed by a grown-up",
     "a strip of paper, cello tape and a pencil"
    ],
    "general": [
@@ -1457,7 +1555,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Test a new bowl. Read the straw first, then check with the real thermometer.",
+     "do": "Ask a grown-up to mix a fourth bowl. Read the straw first, then check with the real thermometer.",
      "say": "What does your straw thermometer say? Now let's check with the real one. How close were you?",
      "kid": "Read your straw thermometer. Then check with the real one. How close?",
      "check": {
@@ -1516,19 +1614,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why must you wait before reading a thermometer in hot water?",
-   "opts": [
-    "Heat takes time to move into the thermometer until it is as warm as the water",
-    "The numbers need time to appear",
-    "The water needs time to get hot"
-   ],
-   "a": 0,
-   "why": "A thermometer shows its own temperature. It reads right only after heat has moved in and it is as warm as the water, which takes about a minute.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
-   "p": "Ravi puts one hand in warm water and one in ice water for a minute. Then he puts both in tap water. Why does each hand feel something different?",
+   "p": "Ravi, a boy in Class 3, puts one hand in warm water and one in ice water for a minute. Then he puts both in tap water. Why does each hand feel something different?",
    "opts": [
     "The tap water is warmer on one side",
     "Each hand feels whether it is warming up or cooling down",
@@ -1552,6 +1638,18 @@
   },
   {
    "t": "mcq",
+   "p": "A parent's hand is cold from holding a cold drink. The hand feels a child's forehead and says 'very warm'. A clinical thermometer reads 37.0 °C. Which should the parent trust?",
+   "opts": [
+    "The hand, because it can feel heat directly",
+    "The thermometer, because a hand only feels whether it is warming up or cooling down",
+    "Neither, because a number cannot show a fever"
+   ],
+   "a": 1,
+   "why": "A cold hand gains heat from the forehead and feels it as warm, as in the two-hands bowl test. The thermometer waits until it matches the body and shows one steady number. 37.0 °C is a normal body temperature.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
    "p": "A hot dosa is put on a cool steel plate. Which way does heat move?",
    "opts": [
     "From the plate into the dosa",
@@ -1572,19 +1670,6 @@
    ],
    "a": 1,
    "why": "Both share heat with the room until they are the same as the room. In your own test, both ended within a degree or two of the room.",
-   "outcome": 4
-  },
-  {
-   "t": "mcq",
-   "p": "In the Hot Tumbler, Cold Tumbler test, why did the cold water warm up?",
-   "opts": [
-    "Heat moved into it from the warmer air and table",
-    "Cold moved out of it into the room",
-    "The thermometer warmed it"
-   ],
-   "a": 0,
-   "how": "e1",
-   "why": "The air and the table were warmer than the fridge water, so heat moved into the water. Nothing called cold moves. The thermometer is far too small to warm a whole tumbler.",
    "outcome": 4
   },
   {
@@ -1626,18 +1711,6 @@
   },
   {
    "t": "mcq",
-   "p": "Why can't a fever thermometer measure water from the fridge?",
-   "opts": [
-    "It reads only from about 32 to 42 °C",
-    "It only works in the mouth",
-    "Water breaks it"
-   ],
-   "a": 0,
-   "why": "A fever thermometer is made for bodies, which change only a little, so its range is short. Fridge water is far below 32 °C, so it just shows 'Lo'.",
-   "outcome": 0
-  },
-  {
-   "t": "mcq",
    "p": "A tumbler of water on a sunny sill reads 45 °C, but the air in the shade reads 33 °C. What is the best explanation?",
    "opts": [
     "Sunlight is heating the water directly, so it is warmer than the air",
@@ -1675,7 +1748,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, dips a thermometer into hot water and reads it straight away. What is wrong with her reading?",
+     "p": "Meenakshi, a girl in Class 5, dips a thermometer into hot water and reads it straight away. What is wrong with her reading?",
      "opts": [
       "Nothing, a thermometer is right at once",
       "It will be too low, because the thermometer has not warmed up to the water yet",
@@ -1686,7 +1759,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan wants to measure the water in the fridge. He has a fever thermometer and a laboratory thermometer. Which should he use?",
+     "p": "Farhan, a boy aged 8, wants to measure the water in the fridge. He has a fever thermometer and a laboratory thermometer. Which should he use?",
      "opts": [
       "The fever thermometer, because it is digital",
       "The laboratory thermometer, because a fever thermometer reads only from about 32 to 42 °C",
@@ -1791,15 +1864,14 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya puts one hand in warm water and one in ice water. Then she puts both in a bowl of tap water. What does she feel?",
+     "p": "A laboratory thermometer has a round bulb at the bottom. Why must the bulb be right in the water, and not just the tip of the glass?",
      "opts": [
-      "Both hands feel the tap water as warm",
-      "The hand from the warm water feels it as cold, and the hand from the ice feels it as warm",
-      "Both hands feel the tap water as cold"
+      "Most of the liquid is in the bulb, so the bulb must reach the water's temperature",
+      "The bulb makes the water hotter",
+      "The glass tip is too sharp"
      ],
-     "a": 1,
-     "why": "The warm hand loses heat to the tap water and feels cold. The cold hand gains heat and feels warm. Your skin feels whether it is warming or cooling, so the same water feels different to each hand.",
-     "how": "a1"
+     "a": 0,
+     "why": "The bulb holds most of the liquid. Heat must move into the bulb until it is as warm as the water, and then the line shows the water's temperature."
     },
     {
      "t": "write",
@@ -1818,7 +1890,7 @@
     },
     {
      "t": "write",
-     "p": "Revathi says, 'Shut the door, the cold is coming in!' What is really happening when the door is open on a cold night?",
+     "p": "A girl on a cold night says, 'Shut the door, the cold is coming in!' What is really happening when the door is open on a cold night?",
      "lines": 3,
      "a": "Heat from the warm room is going out through the open door into the colder air outside. The room cools down because it is losing heat. No cold is coming in.",
      "why": "A strong answer says that heat is leaving, and uses the rule that heat moves from warmer to cooler."
@@ -1858,33 +1930,10 @@
      "why": "Heat moved from the tumbler into the bowl until both were the same. The bowl held three times as much water, so it went up only a little while the tumbler came down a lot. They met at about 37 °C."
     },
     {
-     "t": "mcq",
-     "p": "Arjun mixes one katori of water at 70 °C with one katori of water at 20 °C. About what will the mix read?",
-     "opts": [
-      "90 °C",
-      "About 45 °C",
-      "20 °C"
-     ],
-     "a": 1,
-     "how": "e3",
-     "why": "With equal amounts, the hot water comes down as far as the cold water goes up, so they meet halfway. Halfway between 70 and 20 is 45. In a real test it reads a little less, because the tumbler takes some heat."
-    },
-    {
-     "t": "mcq",
-     "p": "Which holds more heat: a small katori of water at 70 °C, or a big bucket of water at 40 °C?",
-     "opts": [
-      "The katori, because it is hotter",
-      "The bucket, because it has so much more water",
-      "They hold the same"
-     ],
-     "a": 1,
-     "why": "Temperature says how hot a thing is, not how much heat it holds. The bucket has many times more water, so it holds far more heat and can melt much more ice. The katori is hotter, so heat would flow from it into the bucket if they touched."
-    },
-    {
      "t": "truefalse",
      "p": "Heat can move by itself from a cooler thing to a warmer thing.",
      "a": false,
-     "why": "False. Heat moves by itself only from warmer to cooler. A fridge can move heat the other way, but only by using electricity to pump it, which is why the back of a fridge is warm."
+     "why": "False. Heat moves by itself only from warmer to cooler. It can be pushed the other way only by a machine that uses electricity, such as a fridge."
     },
     {
      "t": "fill",
@@ -1900,7 +1949,7 @@
      "p": "Three of these are things losing heat. Which one is gaining heat?",
      "opts": [
       "A hot iron after it is switched off",
-      "Fresh chapatis cooling in a box",
+      "Fresh theplas cooling in a box",
       "Ice cream melting in a bowl",
       "A cup of tea left on the table"
      ],
@@ -1945,7 +1994,7 @@
     },
     {
      "t": "order",
-     "p": "Lakshmi read her hot tumbler every 5 minutes. Put her readings in time order, from the first to the last.",
+     "p": "Lakshmi, a girl aged 9, read her hot tumbler every 5 minutes. Put her readings in time order, from the first to the last.",
      "items": [
       "48 °C",
       "62 °C",
@@ -1981,18 +2030,10 @@
     },
     {
      "t": "write",
-     "p": "Selvi takes a bottle of water out of the fridge. After an hour, it is covered in drops. She thinks water leaked through the bottle. What would you tell her?",
+     "p": "Selvi, a girl in Class 3, takes a bottle of water out of the fridge. After an hour, it is covered in drops. She thinks water leaked through the bottle. What would you tell her?",
      "lines": 4,
      "a": "The drops came from the air, not from inside. The cold bottle cooled the damp air touching it, and the water in that air turned into drops. To check, wipe the bottle dry. More drops appear, but the water inside does not go down.",
      "why": "A strong answer says the drops come from the air cooled by the cold bottle, and suggests a way to check."
-    },
-    {
-     "t": "draw",
-     "p": "Draw a graph with time along the bottom and temperature up the side. Draw one line for a hot tumbler and one for a cold tumbler on the same table, for 3 hours. Draw the room temperature as a dotted line.",
-     "a": "The hot line starts high and curves down, steeply at first and then more gently, flattening at the dotted line. The cold line starts low and curves up, flattening at the dotted line too.",
-     "how": "e1",
-     "why": "A strong graph shows both lines curving towards the room line and levelling off there, faster at the start than near the end.",
-     "art": "Empty graph axes labelled 'Time (hours)' and 'Temperature (°C)'."
     },
     {
      "t": "perspective",
@@ -2018,7 +2059,7 @@
     },
     {
      "t": "mcq",
-     "p": "Thangam's thermometer reads 31 °C in her room. She hangs it in the afternoon sun and it reads 45 °C. Is the air in the sun really 45 °C?",
+     "p": "Thangam, a girl in Class 4, has a thermometer that reads 31 °C in her room. She hangs it in the afternoon sun and it reads 45 °C. Is the air in the sun really 45 °C?",
      "opts": [
       "Yes, the thermometer is always right",
       "Probably not. The sunlight is heating the thermometer itself, so it reads hotter than the air",
@@ -2034,6 +2075,48 @@
       "temperature"
      ],
      "why": "Heat moves only when there is a temperature difference. When the temperatures are the same, it stops."
+    },
+    {
+     "t": "write",
+     "p": "Rub your palms hard together for 10 seconds. They get warm. Someone says heat was stored inside your hands and rubbing squeezed it out. Why is that hard to believe?",
+     "lines": 4,
+     "a": "You can keep rubbing for as long as you like, and your hands keep getting warm. A store of heat would run out. The rubbing makes the tiny particles jiggle faster, and that is heat.",
+     "why": "A strong answer says that rubbing can make heat without end, so heat is not a stored fluid. It is the jiggling of particles, which rubbing speeds up."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "temperature",
+       "how hot or cold something is"
+      ],
+      [
+       "heat",
+       "energy that moves from a warmer thing to a cooler thing"
+      ],
+      [
+       "expand",
+       "take up more space"
+      ],
+      [
+       "room temperature",
+       "the temperature things reach after standing in a room for long"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Temperature is a measure of how hot something is. Heat is the energy that moves because of a difference in temperature."
+    },
+    {
+     "t": "mcq",
+     "p": "A thermometer has been standing in a hot tumbler. It is moved straight into fridge water and read after 5 seconds. What will it show?",
+     "opts": [
+      "About 8 °C, the temperature of the fridge water",
+      "A number still close to the hot water's, because the thermometer has not cooled yet",
+      "Exactly 0 °C"
+     ],
+     "a": 1,
+     "why": "A thermometer shows its own temperature. It takes about a minute to give up its heat to the cold water. Until then the reading is too high."
     }
    ]
   },
@@ -2044,19 +2127,15 @@
    "mins": 30,
    "items": [
     {
-     "t": "mcq",
-     "p": "In 1790, Marc-Auguste Pictet put a flask of snow in front of a curved mirror. A thermometer in front of a second mirror, across the room, fell. What did Pierre Prévost say was happening?",
-     "opts": [
-      "The snow was sending out rays of cold",
-      "The thermometer was sending heat to the snow, and getting less back than it gave",
-      "The mirrors were cold"
-     ],
-     "a": 1,
-     "why": "Prévost said everything sends out heat all the time, and warmer things send out more. The thermometer was warmer than the snow, so it gave out more than it got back, and cooled. Many people at the time thought the snow sent out cold, which is why it was a real argument."
+     "t": "write",
+     "p": "In 1790, a thermometer fell when a flask of snow stood in front of a mirror across the room. Why was it sensible to think the snow was sending out cold?",
+     "lines": 4,
+     "a": "The thermometer really did get colder when the snow was there, and it looked as if something travelled from the snow to the thermometer. Pierre Prévost showed that the same result fits another idea: the thermometer was sending out more heat than it got back.",
+     "why": "A strong answer says that one result can fit two ideas, and that Prévost's idea, that only heat moves, fits everything else in this unit."
     },
     {
      "t": "mcq",
-     "p": "Dhanya mixes 1 katori of water at 60 °C with 2 katoris of water at 15 °C. About what will the mix read?",
+     "p": "Dhanya, a girl in Class 4, mixes 1 katori of water at 60 °C with 2 katoris of water at 15 °C. About what will the mix read?",
      "opts": [
       "About 37 °C, halfway",
       "About 30 °C, nearer the cold",
@@ -2072,21 +2151,6 @@
      "a": true,
      "how": "e1",
      "why": "True. Water evaporating from the top carries away a little heat, so open water often settles a degree or so below the air. A strong answer names evaporation as the reason."
-    },
-    {
-     "t": "write",
-     "p": "Your hot tumbler gave its heat to the room. Why didn't the room's thermometer go up?",
-     "lines": 4,
-     "how": "e1",
-     "a": "The room has a huge amount of air, walls and furniture compared with one tumbler. The tumbler's heat was shared among all of it, so the room warmed by far too little to see on the thermometer.",
-     "why": "A strong answer says that the heat spread into something much bigger, so the rise was too small to measure, and may mention the Tumbler in a Bowl test, where a smaller amount of water did show the rise."
-    },
-    {
-     "t": "write",
-     "p": "A thermometer only ever tells you its own temperature. So how can it tell you the temperature of the water?",
-     "lines": 4,
-     "a": "When the thermometer stands in the water, heat moves between them until they are at the same temperature. Then the thermometer's own temperature is the water's temperature, so its reading is the water's too.",
-     "why": "A strong answer uses the rule that things that touch end up at the same temperature, and explains why you must wait."
     },
     {
      "t": "write",
@@ -2145,7 +2209,7 @@
        "Temperature"
       ],
       [
-       "The big pot of sambar stayed hot for an hour.",
+       "The big pot of sambar could warm many cold plates.",
        "Amount of heat"
       ],
       [
@@ -2155,23 +2219,6 @@
      ],
      "a": "see items",
      "why": "Temperature is a number for how hot something is. The amount of heat depends on how hot it is and how much of it there is. A strong sorter asks: is this about how hot, or about how much it can warm other things?"
-    },
-    {
-     "t": "order",
-     "p": "Put these in order from coldest to hottest.",
-     "items": [
-      "a hen's body",
-      "a child with a fever",
-      "a warm bath",
-      "inside a healthy person"
-     ],
-     "a": [
-      "inside a healthy person",
-      "a child with a fever",
-      "a warm bath",
-      "a hen's body"
-     ],
-     "why": "A healthy person is about 37 °C, a fever is about 39 °C, a warm bath about 40 °C and a hen about 41 °C. Birds keep their bodies warmer than people do."
     },
     {
      "t": "mcq",
@@ -2214,6 +2261,36 @@
      "lines": 4,
      "a": "Yes. If particles jiggle more slowly as things get colder, there must be a point where they are moving as little as they possibly can. Nothing could be colder than that. Scientists call it absolute zero, which is about minus 273 °C.",
      "why": "A strong answer reasons from the idea that temperature is jiggling: slower and slower must stop somewhere. Naming absolute zero is a bonus, not needed."
+    },
+    {
+     "t": "write",
+     "p": "Design a fair test to find out whether a lid slows down the cooling of a tumbler of hot water. Say what you change and what you keep the same.",
+     "lines": 5,
+     "a": "Use two identical steel tumblers with the same amount of water at the same temperature. Put a lid on one only. Stand them side by side in the same place and read both every 5 minutes. Repeat it, because one try can be a fluke.",
+     "why": "A strong test changes only the lid, keeps the tumblers, the water, the temperature and the place the same, reads both at the same times, and repeats the test."
+    },
+    {
+     "t": "mcq",
+     "p": "A glass clinical thermometer keeps its reading after it is taken out of the mouth. What makes this possible?",
+     "opts": [
+      "A small kink in the tube stops the liquid sliding back",
+      "The liquid cannot cool down",
+      "The glass stays warm for hours"
+     ],
+     "a": 0,
+     "why": "The kink holds the liquid in the tube, so a grown-up can read it after taking it out. You shake it down before the next use."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Tumbler in a Bowl test, the hot tumbler started at 62 °C and the bowl water at 30 °C. Suppose the bowl held ten times as much water as the tumbler. Where would the two numbers stop?",
+     "opts": [
+      "About 37 °C, as before",
+      "Very near 30 °C, only a little warmer",
+      "Near 62 °C"
+     ],
+     "a": 1,
+     "how": "e2",
+     "why": "The tumbler's heat is shared among much more water, so the bowl warms very little. The more water the bowl holds, the nearer the meeting point is to the bowl's start."
     }
    ]
   }
@@ -2238,11 +2315,11 @@
    "art": "The back of a fridge with a black metal grille, and wavy lines showing warm air rising from it."
   },
   {
-   "text": "Paati or Amma pouring coffee or tea between a tumbler and a davara to cool it.",
+   "text": "Someone at home pouring coffee or tea between a tumbler and a davara to cool it.",
    "art": "A woman pouring frothy coffee from a steel tumbler into a davara from a height."
   },
   {
-   "text": "The temperature shown on the TV weather report or a phone, for Chennai, Bengaluru, Kochi or Delhi.",
+   "text": "The temperature shown on the TV weather report or a phone, for Chennai, Kochi, Guwahati or Ahmedabad.",
    "art": "A phone weather screen showing several Indian cities, each with a temperature in degrees Celsius."
   },
   {
@@ -2272,13 +2349,11 @@
   "Which do you think is warmer right now: the air in this room, or the water in the tap? How could we find out?",
   "When you hold a cold glass, which way is the heat going?",
   "Why does hot food cool down on your plate, but never get hotter?",
-  "Where does the heat from your cup of milk go when it cools?",
-  "Why do we pour coffee between a tumbler and a davara?",
   "Is your body warmer or cooler than this room? So which way is your heat going?",
   "Why does curd from the fridge go soft on the table?",
   "What number do you think the thermometer will show on the balcony right now?",
   "If we left a tumbler of ice water out until bedtime, what would it read?",
-  "Why does the back of the fridge feel warm?"
+  "Do you think a steel plate and a wooden plate left in the same room have the same temperature? How could we check?"
  ],
  "jokes": [
   {
@@ -2288,18 +2363,6 @@
   {
    "j": "What did the hot tumbler say to the cold tumbler?",
    "a": "Don't worry, I'll warm up to you."
-  },
-  {
-   "j": "Why is the thermometer so calm in a crisis?",
-   "a": "It always waits until things settle before it says anything."
-  },
-  {
-   "j": "What did one ice cube say to the other?",
-   "a": "I'm melting! Who gave me all this heat?"
-  },
-  {
-   "j": "Why did the cold water sit next to the room?",
-   "a": "It wanted to catch up with everyone."
   },
   {
    "j": "What is a thermometer's favourite subject?",
@@ -2318,10 +2381,6 @@
    "a": "Their warm backs give them away."
   },
   {
-   "j": "What did the bucket say to the small hot katori?",
-   "a": "You may be hotter, but I've got more heat."
-  },
-  {
    "j": "Why did the red line in the thermometer climb so high?",
    "a": "It was feeling expansive."
   },
@@ -2330,21 +2389,13 @@
    "a": "Every time it did, it lost its cool and melted."
   },
   {
-   "j": "What did the room say when the hot tumbler finally stopped cooling?",
-   "a": "Welcome to my temperature."
-  },
-  {
    "j": "Why was the straw thermometer so proud?",
    "a": "Because it was rising in the world."
-  },
-  {
-   "j": "What did Prévost say to the snow?",
-   "a": "Stop taking the credit. The thermometer did all the giving."
   }
  ],
  "maths": [
   {
-   "problem": "Lakshmi read her hot tumbler every 5 minutes: 62, 56, 52, 48, 45 degrees. How many degrees did it fall in the first 5 minutes? And in the last 5 minutes? What do you notice?",
+   "problem": "Lakshmi, a girl aged 9, read her hot tumbler every 5 minutes: 62, 56, 52, 48, 45 degrees. How many degrees did it fall in the first 5 minutes? And in the last 5 minutes? What do you notice?",
    "answer": "6 degrees in the first 5 minutes, and 3 degrees in the last 5 minutes. It cooled more slowly as it got closer to room temperature.",
    "explain": "62 minus 56 is 6. 48 minus 45 is 3. The falls in between were 4 and 4. So the falls get smaller: 6, 4, 4, 3. The water cools fastest when it is furthest from the room's temperature.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -2390,7 +2441,7 @@
    "why_maths": "Finding each difference lets you predict which tumbler will change faster, before you look at the readings."
   },
   {
-   "problem": "Arjun mixed 1 katori of water at 60 °C with 1 katori at 10 °C. What should the mix read? He measured 33 °C. Why might it be a little lower?",
+   "problem": "Arjun, a boy aged 7, mixed 1 katori of water at 60 °C with 1 katori at 10 °C. What should the mix read? He measured 33 °C. Why might it be a little lower?",
    "answer": "It should read about 35 °C. It was a little lower because some heat went into the steel tumbler and the air.",
    "explain": "With equal amounts, the mix is halfway. 60 plus 10 is 70, and half of 70 is 35. Some of the hot water's heat warmed the tumbler and the air instead of the cold water, so the mix was 2 degrees lower.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2407,7 +2458,7 @@
    "why_maths": "A thermometer is a number line standing up. Counting the small steps is how you read numbers between the labelled ones."
   },
   {
-   "problem": "Selvi's Temperature Diary shows these 2 pm readings for a week in Bengaluru: 29, 30, 28, 24, 27, 29, 30 °C. On which day was it coolest? What might the weather have been that day? What was the difference between the warmest and coolest afternoon?",
+   "problem": "Selvi, a girl in Class 3, kept a Temperature Diary in Bengaluru. Her 2 pm readings for a week were: 29, 30, 28, 24, 27, 29, 30 °C. On which day was it coolest? What might the weather have been that day? What was the difference between the warmest and coolest afternoon?",
    "answer": "Day 4 was the coolest, at 24 °C. It was probably cloudy or rainy. The difference was 6 degrees, from 30 down to 24.",
    "explain": "The smallest number is 24, on day 4. Clouds and rain stop sunlight heating the ground and air, so a rainy afternoon is cooler. 30 minus 24 is 6.",
    "math_unit": "math.data.line-graphs.L4",
@@ -2490,7 +2541,6 @@
    "id": "b-therm",
    "item": "A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital kitchen probe thermometer.",
    "kind": "tool",
-   "why": "Every experiment in this unit needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are sold cheaply in stationery and science shops and online. A digital probe is harder to break.",
    "url": "https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110",
    "used_in": [
     "e1",
@@ -2503,7 +2553,7 @@
     "c1",
     "c2"
    ],
-   "plan": "Used again in later units on how heat moves, melting and the weather. Keep it in its case."
+   "why": "Every experiment in this unit needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break."
   }
  ],
  "warmup": [
@@ -2670,12 +2720,11 @@
   },
   "ask": [
    "Your body sends heat into the room all day. Is part of the room's warmth yours?",
-   "If nothing ever had a different temperature, would anything ever happen?",
-   "Your hand felt one bowl as warm and cold at once. Is a feeling wrong if it does not match the thermometer?"
+   "If nothing ever had a different temperature, would anything ever happen?"
   ],
   "art": "A child sitting cross-legged with eyes closed, holding a steel tumbler in both hands, with soft red arrows going from the palms into the tumbler."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: a fever thermometer cannot be used, because it reads only from about 32 to 42 °C, so one laboratory thermometer or digital probe is the single bought item, used in every part. Hot water is always half boiled and half tap water, about 60 to 65 °C, poured by a grown-up. With one thermometer, two tumblers can both be read in each 5-minute gap. A 150 ml tumbler of hot water in a 30 °C room cools only to about 45 °C in 20 minutes, so the experiment has a last reading after 3 hours, when both tumblers are within a degree or two of the room. The parent is told the hot tumbler may settle a little below the room because of evaporation. The Tumbler in a Bowl test uses about three times as much bowl water as tumbler water, so the two meet at about 37 °C within 15 to 20 minutes. The straw thermometer must be filled to the brim, and its level may dip for a few seconds before it climbs, so the step says so. The Temperature Diary keeps the thermometer in shade and tied down. No step needs a garden, a park or any animal. The spine is the Two-Hands Bowl, the Hot Tumbler test, the explanation cards, roots and the quiz, about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: a fever thermometer cannot be used, because it reads only from about 32 to 42 °C, so one laboratory thermometer or digital probe is the single bought item, used in every part. Hot water is always half boiled and half tap water, about 60 to 65 °C, poured by a grown-up. With one thermometer, two tumblers can both be read in each 5-minute gap. A 150 ml tumbler of hot water in a 30 °C room cools only to about 45 °C in 20 minutes, so the experiment has a last reading after 3 hours, when both tumblers are within a degree or two of the room. The parent is told the hot tumbler may settle a little below the room because of evaporation. The Tumbler in a Bowl test uses about three times as much bowl water as tumbler water, so the two meet at about 37 °C within 15 to 20 minutes. The straw thermometer must be filled to the brim, and its level may dip for a few seconds before it climbs, so the step says so. The Temperature Diary keeps the thermometer in shade and tied down. No step needs a garden, a park or any animal. The spine is the Two-Hands Bowl, the Hot Tumbler test, the explanation cards, roots and the quiz.",
  "how_we_found_out": {
   "story": "In 1790, Marc-Auguste Pictet, a scientist in Geneva in Switzerland, set up two curved metal mirrors facing each other across a room. In front of one mirror he put a thermometer. In front of the other he put something hot. The thermometer rose, though nothing touched it. The mirrors were bouncing the heat across the room. Then Pictet put a flask of snow where the hot thing had been. The thermometer fell. It looked as if the snow was sending out rays of cold, and the mirrors were carrying them. Some scientists thought cold might be a real thing that travels, just like heat. In 1791, Pierre Prévost, another scientist in Geneva, explained it differently. Everything sends out heat all the time, he said, and warmer things send out more. The thermometer was sending heat to the snow and getting less back than it gave. So the thermometer cooled. Scientists today agree with Prévost. Cold is not a thing that moves. Only heat moves, and a cold thing is one that has less of it.",
   "who": "Marc-Auguste Pictet and Pierre Prévost, scientists in Geneva",

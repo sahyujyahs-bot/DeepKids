@@ -37,7 +37,7 @@
   {
    "term": "Bacteria",
    "meaning": "Microbes made of just one tiny cell each. One of them is called a bacterium. They live almost everywhere.",
-   "example": "Bacteria in warm dal can make it sour and frothy by the next morning.",
+   "example": "In warm dal, bacteria make the dal sour and frothy by the next morning.",
    "art": "A drop of dal under a magnifying circle, with many tiny rod and ball shapes."
   },
   {
@@ -123,7 +123,7 @@
   {
    "concept": "Why food goes bad",
    "status": "defined",
-   "definition": "Food spoils when microbes such as bacteria and moulds land on it, feed on it and multiply.",
+   "definition": "Food spoils when microbes such as bacteria and moulds land on the food, feed on the food and multiply.",
    "description": "Microbes are everywhere: in the air, on hands, on vegetables and in soil. When some land on food that is warm and wet, they feed on it. As they feed, they make gases and acids. That is why spoiled dal smells sour and froths, and why old bread grows fuzz. Food also changes in other ways, without microbes. A cut apple turns brown in air, and old oil can smell stale.",
    "examples": [
     "Dal left out overnight in summer smells sour and has bubbles on top.",
@@ -156,7 +156,7 @@
    "examples": [
     "Idli batter rises overnight because its microbes multiply for hours.",
     "Cooked food eaten within 2 hours is safer than the same food eaten in the evening.",
-    "A fridge does not kill bacteria, but it slows their splitting a lot."
+    "A fridge does not kill bacteria. The cold slows their splitting a lot."
    ],
    "perspectives": [],
    "art": "A clock face with a few dots at 1 o'clock, more at 3, and a crowd of dots at 7.",
@@ -211,8 +211,9 @@
    "description": "Microbes need water. Sun-dried vadams, appalams and dried fish keep for months, because there is almost no water left in them. Lots of salt or sugar pulls water out of microbes, so they cannot grow. That is how lemon pickle and mango jam keep. Sour foods, such as tamarind and lemon, slow down many microbes too. In pickles, a layer of oil on top also keeps air and new microbes off. A wet spoon can bring water into a pickle and let mould grow.",
    "examples": [
     "Tamarind rice was a favourite food for long train journeys.",
-    "Kerala families dry fish in the sun and store it for the rainy months.",
-    "Families in the north make aam papad, thin sheets of dried mango pulp."
+    "Kerala families dry fish in the sun and keep the dried fish for the rainy months.",
+    "Families in the north make aam papad, thin sheets of dried mango pulp.",
+    "In Nagaland and Manipur, families dry or ferment bamboo shoot and smoke meat over a fire to keep them."
    ],
    "perspectives": [],
    "art": "A sunny balcony with vadams drying on a cloth, a jar of lemon pickle, and a string of dried red chillies.",
@@ -221,7 +222,7 @@
   {
    "concept": "Spoiling and fermenting: microbes we do not want, and microbes we do",
    "status": "defined",
-   "definition": "Fermenting is when microbes we want change food in a useful way. Spoiling is when other microbes, or the same ones for too long, make it unpleasant or unsafe.",
+   "definition": "Fermenting is when microbes we want change food in a useful way. Spoiling is when other microbes, or the same ones for too long, make the food unpleasant or unsafe.",
    "description": "Idli batter is left out overnight so that bacteria and yeasts can eat and multiply. They make gas, so the batter rises, and acid, so it turns sour. That is fermenting. Curd is made the same way, by curd bacteria. Because the good microbes fill the food first, they leave little room for harmful ones. But batter left out for two or three days goes too sour and may grow mould.",
    "examples": [
     "Milk with a spoon of curd added sets into curd overnight.",
@@ -299,7 +300,7 @@
  ],
  "agreed": [
   {
-   "text": "Most food spoils because microbes, such as bacteria and moulds, grow in it.",
+   "text": "Most food spoils because microbes, such as bacteria and moulds, grow inside the food.",
    "evidence": "Food that is boiled and sealed, so that no new microbes can get in, stays fresh for months or years. This is how tinned food works. Lazzaro Spallanzani showed this with boiled, sealed broth in the 1760s, and Louis Pasteur showed it again in the 1860s."
   },
   {
@@ -332,7 +333,7 @@
    "claim": "If food smells fine, it is safe to eat.",
    "who": "Many people",
    "for": "Spoiled food often smells sour or bad, and a bad smell is a useful warning.",
-   "against": "Some harmful bacteria grow in food without changing its smell or taste. Food left warm for many hours can make people ill even if it smells normal.",
+   "against": "Some harmful bacteria grow in food and leave the smell and taste unchanged. Food left warm for many hours can make people ill even if it smells normal.",
    "status": "rejected",
    "context": "This card is about whether your nose can tell you food is safe."
   },
@@ -465,39 +466,95 @@
      "kind": "board",
      "title": "A 30-square board",
      "items": [
+      "Square 1: Start. Everyone puts a token here.",
+      "Square 2: Read this tip aloud: Wash your hands with soap before you cook or eat.",
       "Square 3, ladder to 10: You wash the coriander until the water runs clear.",
+      "Square 4: Read this tip aloud: Dry foods like papad, khakhra and vadams keep for months in a closed tin.",
+      "Square 5: Question square. Take a question card.",
       "Square 6, ladder to 14: You cover the rice with a plate so flies cannot land.",
+      "Square 7: Read this tip aloud: A packet says how long the food lasts, and whether it needs the fridge.",
+      "Square 8: Read this tip aloud: Cook eggs, fish and meat all the way through.",
       "Square 9, snake to 2: You cut cooked chicken on the board that held raw chicken.",
+      "Square 10: Read this tip aloud: Cut raw fish and meat on a different board from the salad.",
+      "Square 11: Read this tip aloud: Cooked food should not sit out for more than 2 hours.",
       "Square 12, ladder to 19: You put leftover sambar in the fridge after it cools.",
+      "Square 13: Read this tip aloud: A lid or a net over the dabba keeps flies and dust off.",
+      "Square 14: Read this tip aloud: Rinse a dabba well before you put fresh food in it.",
+      "Square 15: Question square. Take a question card.",
       "Square 16, snake to 7: You leave cut fruit uncovered in the sun all afternoon.",
+      "Square 17: Read this tip aloud: Cold slows microbes down, but it does not kill them.",
       "Square 18, ladder to 25: You boil the milk and cover it.",
+      "Square 19: Read this tip aloud: Wash or peel fruit before you eat it.",
+      "Square 20: Read this tip aloud: Look at the date on a packet before you open it.",
       "Square 21, snake to 11: You eat a biscuit after playing outside, without washing your hands.",
+      "Square 22: Read this tip aloud: Salt and sourness keep a pickle safe for months.",
+      "Square 23: Read this tip aloud: A tin that bulges at the top must be thrown away, unopened.",
       "Square 24, snake to 15: You put a wet spoon into the pickle jar.",
+      "Square 25: Question square. Take a question card.",
+      "Square 26: Read this tip aloud: Drink clean water that has been boiled or filtered.",
       "Square 27, snake to 20: You eat curd rice that sat in a warm bag since yesterday.",
+      "Square 28: Read this tip aloud: Wash your hands again after you touch raw fish or chicken.",
+      "Square 29: Read this tip aloud: Nearly there. Wash your hands before the feast.",
       "Square 30: Finish. A safe meal!"
      ]
     },
     {
      "kind": "cards",
-     "title": "12 question cards",
+     "title": "12 question cards (question on the front, answer on the back)",
      "items": [
-      "Why do we wash vegetables that we will eat raw?",
-      "Name one food that keeps for months without a fridge.",
-      "Why does a fridge make food last longer?",
-      "Why is a wet spoon bad for a pickle?",
-      "What do microbes need to grow? Name two things.",
-      "Why should cooked food not sit out for more than 2 hours?",
-      "Why do flies make food unsafe?",
-      "What is pasteurised milk?",
-      "Is the five-second rule true? Why or why not?",
-      "Why do we keep raw fish away from cooked food?",
-      "Name a food we let microbes change on purpose.",
-      "What should you drink if you have loose motions?"
+      {
+       "f": "Why do we wash vegetables that we eat raw?",
+       "b": "Soil and hands put microbes on them, and nothing cooks them off. Washing moves most of them away."
+      },
+      {
+       "f": "Name two foods that keep for months without a fridge.",
+       "b": "For example vadams, papad, pickles, dried fish or dry flour."
+      },
+      {
+       "f": "Why does a fridge make food last longer?",
+       "b": "Cold slows microbes down, so they multiply more slowly. It does not kill them."
+      },
+      {
+       "f": "Why should you wash your hands with soap before you cook?",
+       "b": "Hands carry microbes. Soap and water move them off before they can get on the food."
+      },
+      {
+       "f": "What do microbes need to grow? Name two things.",
+       "b": "Food, water and warmth. Any two is a good answer."
+      },
+      {
+       "f": "Why should cooked food not sit out for more than 2 hours?",
+       "b": "In warm food some bacteria double every 20 minutes. A few can become millions in a few hours."
+      },
+      {
+       "f": "Where on a packet do you find how long the food stays good?",
+       "b": "In the 'Best before' or 'Use by' date."
+      },
+      {
+       "f": "What is a spore? Why does it matter for boiled food?",
+       "b": "A spore is a tough resting cell that some bacteria make. It can survive boiling and start growing again when the food is warm."
+      },
+      {
+       "f": "Why is a whole banana safer to leave out than cut fruit?",
+       "b": "The skin keeps microbes and flies off the fruit inside. Cut fruit is wet and open."
+      },
+      {
+       "f": "Why do we keep raw fish away from cooked food?",
+       "b": "Microbes from the raw fish can move onto cooked food, and nothing is left to kill them."
+      },
+      {
+       "f": "Name a food that we let microbes change on purpose.",
+       "b": "Curd, idli batter, dosa batter or dhokla batter."
+      },
+      {
+       "f": "What should you drink if you have loose motions?",
+       "b": "ORS, which is clean water with the right amounts of salt and sugar. Sip it often."
+      }
      ]
     },
     {
      "kind": "tokens",
-     "title": "4 player tokens",
+     "title": "4 player tokens (cut them out, or use coins or buttons)",
      "items": [
       "a tumbler",
       "an idli",
@@ -507,18 +564,18 @@
     }
    ],
    "rules": [
-    "Take turns to roll one die and move your token.",
+    "Each player puts a token on square 1. Take turns to roll one die and move your token that many squares.",
     "Landing on a ladder: read the square aloud, say why the habit is safe, then climb.",
-    "Landing on a snake: read the square aloud, say what the safe habit would be, then slide down.",
-    "If you can say the safe habit, you slide down only half way, rounded down.",
-    "On any square with a 5 in it, take a question card. A good answer moves you on 2 squares.",
-    "The first player to reach square 30 wins."
+    "Landing on a snake: read the square aloud and say what the safe habit would be. If you can say it, you stay where you are. If you cannot, the other player tells you and you slide down.",
+    "Landing on a plain square: read the tip aloud. Nothing else happens.",
+    "Squares 5, 15 and 25 are question squares. When you stop on one by your roll, another player reads you the top question card. A good answer moves you on 2 squares, and you follow any ladder or snake you land on. Then they read the answer on the back. When the cards run out, shuffle them and use them again.",
+    "The first player to reach or pass square 30 wins. You do not need an exact roll."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Print or draw the board. 2. Cut out the question cards. 3. Choose tokens.",
+     "do": "1. Print or draw the board. 2. Cut out the question cards and the tokens. 3. Choose tokens.",
      "say": "On this board, safe habits are ladders and risky habits are snakes. When you land on one, say why.",
      "kid": "Safe habits are ladders. Risky habits are snakes. Say why when you land on one.",
      "context": "This is the first step of Safe Kitchen, a snakes and ladders game about food safety."
@@ -531,7 +588,7 @@
      "kid": "Why is it a snake? What should you do instead?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi lands on square 24. She put a wet spoon into the lime pickle. Why is that a snake?",
+      "q": "A player lands on square 24, where a wet spoon was put into the lime pickle. Why is that a snake?",
       "options": [
        "The water lets mould grow in the pickle",
        "The spoon makes the pickle too salty",
@@ -570,32 +627,76 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game. A grown-up reads a food card, and you decide whether to keep it or throw it, and say why.",
+   "context": "This is a quick game. One player reads a food card, the others decide whether to keep the food or throw it, and say why.",
    "printables": [
     {
      "kind": "cards",
-     "title": "14 food cards",
+     "title": "14 food cards (food on the front, KEEP or THROW and the reason on the back)",
      "items": [
-      "Lemon pickle, made 3 months ago, kept in a dry jar with a dry spoon. (KEEP)",
-      "Dal cooked this morning, left out on the counter until night, in May. (THROW)",
-      "Idli batter made last night, risen and bubbly, with a fresh sour smell. (KEEP)",
-      "Bread with a small green fuzzy spot in one corner. (THROW)",
-      "Groundnuts that look shrivelled and have grey-green dust on them. (THROW)",
-      "Leftover rasam, cooled and kept in the fridge since last night. (KEEP, then boil before eating)",
-      "Packet milk, unopened, kept in the fridge, before its date. (KEEP)",
-      "A milk packet that is puffed up and smells sour when cut. (THROW)",
-      "Sun-dried vadams in a closed tin, from last summer. (KEEP)",
-      "Cut papaya left uncovered on the table for 5 hours, with flies. (THROW)",
-      "A tin of food that is bulging at the top. (THROW)",
-      "Curd made yesterday, kept covered in a cool place, smelling fresh. (KEEP)",
-      "Cooked chicken from a party that sat out all afternoon. (THROW)",
-      "Rava, kept dry in a closed jar. (KEEP)"
+      {
+       "f": "Lemon pickle made 3 months ago, kept in a dry jar and taken out only with a dry spoon.",
+       "b": "KEEP. Salt and sourness leave microbes little water to use, and the jar stays dry."
+      },
+      {
+       "f": "Dal cooked this morning, left on the counter until night, in May.",
+       "b": "THROW. It was warm, wet and full of protein, so bacteria had hours to double again and again."
+      },
+      {
+       "f": "Idli batter made last night, risen and bubbly, with a fresh sour smell.",
+       "b": "KEEP. Microbes we want made it rise. Cook it today, or keep it in the fridge."
+      },
+      {
+       "f": "Bread with a small green fuzzy spot in one corner.",
+       "b": "THROW. Mould grows threads through the whole loaf, even where you cannot see them."
+      },
+      {
+       "f": "Groundnuts that look shrivelled and have grey-green dust on them.",
+       "b": "THROW. Mould on nuts can make poisons that cooking does not remove."
+      },
+      {
+       "f": "Leftover rasam, cooled and kept in the fridge since last night.",
+       "b": "KEEP, then boil it well before eating. The fridge slowed the microbes, and boiling kills most of them."
+      },
+      {
+       "f": "Packet milk, unopened, kept in the fridge, before its date.",
+       "b": "KEEP. It is pasteurised, sealed and cold."
+      },
+      {
+       "f": "A milk packet that is puffed up and smells sour when cut.",
+       "b": "THROW. Microbes have made gas and acid in the milk."
+      },
+      {
+       "f": "Sun-dried vadams in a closed tin, from last summer.",
+       "b": "KEEP. Almost no water is left in them, so microbes cannot grow."
+      },
+      {
+       "f": "Cut papaya left uncovered on the table for 5 hours, with flies.",
+       "b": "THROW. Cut fruit is wet and open, and flies carry microbes onto it."
+      },
+      {
+       "f": "A tin of food that is bulging at the top.",
+       "b": "THROW, unopened. Microbes inside may be making gas, and some make dangerous poisons."
+      },
+      {
+       "f": "Curd made yesterday, kept covered in a cool place, smelling fresh.",
+       "b": "KEEP. Curd bacteria fill the curd and leave little room for harmful ones."
+      },
+      {
+       "f": "Fish curry cooked at lunch and left in a covered pan until night, in the monsoon heat.",
+       "b": "THROW. A lid keeps new microbes out, but it does not cool the curry. Bacteria multiplied for hours."
+      },
+      {
+       "f": "Besan, kept dry in a closed tin.",
+       "b": "KEEP. Dry flour has no water for microbes. It stays good while it stays dry."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "A KEEP card and a THROW card for each player",
+     "title": "4 answer cards: 2 KEEP and 2 THROW (cut 2 more for each extra player)",
      "items": [
+      "KEEP",
+      "THROW",
       "KEEP",
       "THROW"
      ]
@@ -603,16 +704,16 @@
    ],
    "rules": [
     "Each player has a KEEP card and a THROW card.",
-    "A grown-up reads a food card aloud, without the answer.",
-    "Everyone holds up a card at the same time.",
-    "Each player says one reason. A right card with a good reason scores 2 points. A good reason alone scores 1.",
-    "Play until all the cards are read."
+    "One player is the reader. The reader reads the front of a food card aloud and does not play that round.",
+    "The other players hold up KEEP or THROW at the same time, then each gives one reason.",
+    "The reader reads the back. A right card with a good reason scores 2 points. A good reason with a wrong card scores 1.",
+    "Pass the pile to the next reader. Play until every card is read. The most points wins. If you play alone, read the front, choose and say your reason aloud, then turn the card over and score the same way."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Hand out KEEP and THROW cards. Read the first food card.",
+     "do": "Hand out the KEEP and THROW cards. The first reader reads the front of the first food card.",
      "say": "Listen. Would you keep this food or throw it away? Hold up your card, then tell me why.",
      "kid": "Keep or throw? Hold up your card. Then say why.",
      "context": "This is the start of Keep or Throw?, a quick game about which foods are still safe."
@@ -620,7 +721,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Read the cards one at a time. After each, ask for a reason.",
+     "do": "Read the cards one at a time. After each, ask for a reason, then read the back.",
      "say": "What would the microbes do in this food? Is it wet, warm, old, open, dry, salty or cold?",
      "kid": "Think about the microbes. Is the food wet? Warm? Old? Dry? Salty?",
      "check": {
@@ -660,7 +761,7 @@
   {
    "id": "e1",
    "title": "Three Dabbas of Dal Water: which stays fresh longest?",
-   "mins": 30,
+   "mins": 34,
    "days": 3,
    "question": "Dal water is boiled and poured into three clean dabbas. One is closed, one is left open, and one is closed with an unwashed coriander leaf inside. Which one stays fresh longest?",
    "predict": "Before you start, guess. Which dabba will go sour and frothy first, and which will stay fresh longest? Why do you think so?",
@@ -708,8 +809,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Guess, then boil the dal water, fill the three dabbas, and look at them at bedtime."
+     "mins": 21,
+     "what": "Guess, then boil the dal water, rinse and fill the three dabbas, and look at them at bedtime."
     },
     {
      "day": 2,
@@ -718,8 +819,8 @@
     },
     {
      "day": 3,
-     "mins": 5,
-     "what": "Look and smell again. Decide the order. Then a grown-up throws the dal water away and washes the dabbas."
+     "mins": 8,
+     "what": "Look and smell again and decide the order. Then a grown-up throws the dal water away and washes the dabbas."
     }
    ],
    "record": "Fill in the table with what you see and smell each time: clear or cloudy, bubbles or froth, a skin or fuzz on top, and the smell (fresh, a little sour, very sour). Then write what you think happened, what you saw, and why.",
@@ -808,10 +909,10 @@
        ]
       }
      ],
-     "parent": "If A also spoiled, that is a real result. A few bacteria make spores that survive boiling, and a lid on a dabba is not a perfect seal. Ask which spoiled first, not only which spoiled.",
+     "parent": "If A also spoiled, that is a real result. A few bacteria make spores that survive boiling, and a lid on a dabba is not a perfect seal. Ask which spoiled first, not only which spoiled. The order in which they spoil is the result to trust. The exact day depends on how warm your room is.",
      "check": {
       "t": "mcq",
-      "q": "In the Three Dabbas test, Meenakshi's dabba C, with the unwashed leaf, went sour first. What does this show?",
+      "q": "In a Three Dabbas test, dabba C, with the unwashed leaf, went sour first. What does this show?",
       "options": [
        "The leaf brought many microbes into the dal water",
        "Coriander makes food sour by itself",
@@ -921,7 +1022,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use clean tap or filtered water. No soap on food, ever.",
    "schedule": [
     {
      "day": 1,
@@ -1049,7 +1149,7 @@
      "qty": 1
     },
     {
-     "item": "half a teaspoon of turmeric powder, our pretend dirt and microbes",
+     "item": "a teaspoon of turmeric powder, our pretend dirt and microbes",
      "qty": 1
     },
     {
@@ -1069,7 +1169,7 @@
      "qty": 1
     }
    ],
-   "safety": "Turmeric stains clothes and fingers, so wear old clothes. Do not eat the test foods. A grown-up cuts the cucumber.",
+   "safety": "A grown-up cuts the cucumber. Do not eat the test foods.",
    "schedule": [
     {
      "day": 1,
@@ -1090,15 +1190,15 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Sprinkle a thin, even layer of turmeric through the strainer on one side of the plate. 2. A grown-up cuts two thin cucumber slices.",
-     "say": "A thin layer is enough, like the dust on a floor. We need one patch for each drop.",
-     "kid": "Sprinkle a thin layer of turmeric through the strainer. Not too much.",
+     "do": "1. A grown-up cuts two thin cucumber slices. 2. Through the strainer, sprinkle four separate thin patches of turmeric on the plate, each about the size of your palm.",
+     "say": "A thin layer is enough, like the dust on a floor. We need a fresh patch for each drop, so make four.",
+     "kid": "Sprinkle four thin patches of turmeric through the strainer. Keep them apart.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Drop a cucumber slice flat onto the turmeric from about one hand's height. 2. Lift it off after 1 second. 3. Do the same with a biscuit on a fresh patch. 4. Put both on the white plate, face up.",
+     "do": "1. Drop a cucumber slice flat onto the first patch from about one hand's height. 2. Lift it off after 1 second. 3. Do the same with a biscuit on the second patch. 4. Put both on the white plate, face up.",
      "say": "Drop, count one, and lift. Look at the side that touched. Which picked up more?",
      "kid": "Drop it. Count one. Lift it. Look at the bottom. How much yellow?",
      "parent": "Lift by the edges. Do not press the food down, because we want only what it picks up by itself."
@@ -1106,9 +1206,10 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Make two fresh patches of turmeric. 2. Drop the second cucumber slice and the second biscuit. 3. Leave them for 10 seconds, then lift.",
+     "do": "1. Drop the second cucumber slice onto the third patch and the second biscuit onto the fourth patch. 2. Leave them for 10 seconds, then lift them off.",
      "say": "Now ten seconds. Do you think it will pick up more, or the same?",
-     "kid": "Now leave them for 10 seconds. More yellow, or the same?"
+     "kid": "Now leave them for 10 seconds. More yellow, or the same?",
+     "parent": "With powder, the gap between 1 and 10 seconds can be small. The gap between wet and dry is the big one."
     },
     {
      "id": "s5",
@@ -1127,7 +1228,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Anjali dropped a wet slice of cucumber on the kitchen floor and picked it up in one second. What is true?",
+      "q": "A girl named Anjali, in Class 3, dropped a wet slice of cucumber on the kitchen floor and picked it up in one second. What is true?",
       "options": [
        "Some dirt and microbes can stick to it, even in one second",
        "Nothing sticks if you lift it within five seconds",
@@ -1189,7 +1290,6 @@
      "qty": 1
     }
    ],
-   "safety": "Stay away from the stove and knives while you look.",
    "schedule": [
     {
      "day": 1,
@@ -1227,7 +1327,7 @@
    "context": "This is a looking activity. You find every way your family keeps food safe, and sort them.",
    "setup": [
     {
-     "art": "A girl opening a steel dabba in a kitchen while her mother points to a pickle jar on the shelf.",
+     "art": "A girl opening a steel dabba in a kitchen while a grown-up points to a pickle jar on the shelf.",
      "caption": "1. Look in dabbas, jars, the fridge and cupboards."
     },
     {
@@ -1255,7 +1355,6 @@
      "qty": 1
     }
    ],
-   "safety": "No food is used, so nothing needs to be thrown away.",
    "schedule": [
     {
      "day": 1,
@@ -1285,7 +1384,7 @@
      "say": "Hold the torch low, almost flat. Dust shows up as bright specks. Which plate has more?",
      "kid": "Shine the torch low across each plate. Which one has more specks?",
      "wait": "Next morning: look with a torch.",
-     "parent": "The open plate usually shows many fine specks and perhaps a hair or an insect wing. Microbes ride on dust like this, but are far too small to see."
+     "parent": "The open plate usually shows many fine specks and perhaps a hair or an insect wing. Microbes ride on dust like this, but are far too small to see. If both plates look almost clean, hold the torch flatter and darken the room more."
     },
     {
      "id": "s3",
@@ -1435,7 +1534,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Compare the dates.",
+     "do": "Compare the dates and work out how many days are left on each packet.",
      "say": "Which food has the shortest time? Which has the longest? What is different about them?",
      "kid": "Which food lasts the shortest time? Which lasts longest? Why?",
      "think": "Why does dry food get a much later date than milk?"
@@ -1455,7 +1554,7 @@
   },
   {
    "id": "a5",
-   "title": "Paati's Ways: how families kept food before fridges",
+   "title": "Old Ways: how families kept food before fridges",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -1489,7 +1588,7 @@
      "do": "Do the interview, in person or on a phone call.",
      "say": "Ask your questions, then listen. Ask 'why did that work?' if they know.",
      "kid": "Ask your questions. Listen. Ask why it worked.",
-     "parent": "Common answers: boiling milk twice a day, sun-dried vadams and vathal, mango and lime pickles, dried fish, curd hung in a cloth, water kept in a clay pot, cooking fresh for each meal."
+     "parent": "Common answers: boiling milk twice a day, sun-dried vadams, vathal and papad, mango and lime pickles, dried fish, curd hung in a cloth, water kept in a clay pot, fermented bamboo shoot in the Northeast, cooking fresh for each meal."
     },
     {
      "id": "s3",
@@ -1503,7 +1602,7 @@
    "context": "This is an interview with an elder about how their family kept food safe before fridges.",
    "setup": [
     {
-     "art": "A girl on a phone call with her grandmother, a notebook open on her knee.",
+     "art": "A girl on a phone call with an elder, a notebook open on her knee.",
      "caption": "1. Ask your questions."
     },
     {
@@ -1595,6 +1694,10 @@
      "qty": 1
     },
     {
+     "item": "a dry steel bowl",
+     "qty": 1
+    },
+    {
      "item": "a knife and a board, for the grown-up",
      "qty": 1
     },
@@ -1603,7 +1706,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the lemons. Lemon juice stings in cuts and eyes. Keep everything dry: the jar, the lid, the spoon and your hands.",
+   "safety": "A grown-up cuts the lemons. Lemon juice stings in cuts and eyes.",
    "schedule": [
     {
      "day": 1,
@@ -1655,7 +1758,7 @@
      "do": "1. Pack the pieces and all the salt into the dry jar. 2. Close the lid. 3. Keep it in a sunny or warm spot.",
      "say": "Every day the salt pulls out more juice. Watch the jar.",
      "kid": "Pack it into the jar. Close the lid. Put it in a warm place.",
-     "parent": "In many South Indian homes, the jar goes in the sun for a few hours each day. A warm windowsill works too."
+     "parent": "In many homes across India, the jar goes in the sun for a few hours each day. A warm windowsill works too."
     },
     {
      "id": "s4",
@@ -1675,7 +1778,7 @@
      "wait": "Day 14: taste and explain.",
      "check": {
       "t": "mcq",
-      "q": "Revathi's lemon pickle stayed good for weeks without a fridge. What is the main reason?",
+      "q": "A family's lemon pickle stayed good for weeks without a fridge. What is the main reason?",
       "options": [
        "The salt pulled water out of the lemons and out of any microbes",
        "The turmeric made it yellow",
@@ -1683,7 +1786,8 @@
       ],
       "a": 0,
       "why": "Lots of salt, and the sour lemon juice, make it very hard for microbes to grow. That is why the jar and spoon must stay dry: water would weaken the salt."
-     }
+     },
+     "parent": "At 14 days the pieces are still firm, sharp and very salty. They turn soft and mellow after about three weeks. Taste only a small piece."
     }
    ],
    "context": "In this two-week project you make a salt lemon pickle and watch it keep for weeks without a fridge.",
@@ -1725,7 +1829,7 @@
     "Set the covered vessel in a bowl of water, with a wet cloth over it, so evaporation cools it."
    ],
    "creative": [
-    "Turn some of the milk into curd on purpose, so curd bacteria fill it before other microbes can.",
+    "Turn some of the milk into curd on purpose, by adding a spoon of curd. Curd bacteria fill the milk before other microbes can.",
     "Keep the milk in a clay pot with a wet cloth, in a shady spot with a breeze.",
     "Make paneer from some of the milk with lemon juice, and use it the same day."
    ],
@@ -1760,7 +1864,8 @@
      "mins": 5,
      "do": "Check the milk in the morning by looking and smelling. Boil it before anyone drinks it.",
      "say": "Is it still smooth and fresh-smelling? What worked?",
-     "kid": "Is it smooth? Does it smell fresh? What worked?"
+     "kid": "Is it smooth? Does it smell fresh? What worked?",
+     "parent": "If the milk has curdled or smells sour, the plan did not work. Pour it away and plan again."
     }
    ],
    "setup": [
@@ -1778,7 +1883,7 @@
    "id": "c2",
    "title": "The Water-Saving Vegetable Wash",
    "mins": 30,
-   "problem": "In many cities, such as Chennai and Bengaluru, water is short in summer. Design a way to wash a day's vegetables well, using as little water as you can.",
+   "problem": "In many cities, such as Chennai, Delhi and Shimla, water is short in summer. Design a way to wash a day's vegetables well, using as little water as you can.",
    "constraints": [
     "Use things from home.",
     "The vegetables must end up clean: rub them, and the last rinse water should look clear.",
@@ -1851,7 +1956,7 @@
    "youtube": "8n3guja-ukg",
    "mins": 5,
    "why": "For the parent and older children: what bacteria and moulds are doing when food spoils.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The content and length were not watched, so a parent should preview it first."
+   "check": "A parent should watch it first, to be sure it suits your child."
   },
   {
    "title": "Is the Five-Second Rule Real?",
@@ -1859,7 +1964,7 @@
    "youtube": "Dn7oKBEy2gU",
    "mins": 4,
    "why": "What scientists found when they tested food dropped on the floor. It goes with the Five-Second Test.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The content and length were not watched, so a parent should preview it first."
+   "check": "A parent should watch it first, to be sure it suits your child."
   },
   {
    "title": "Raspberry Decay Time Lapse – 17 Days",
@@ -1867,7 +1972,7 @@
    "youtube": "6L4qc0ea69M",
    "mins": 2,
    "why": "A time-lapse of fruit spoiling, so the child can watch mould grow, which is too slow to see in real life.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. A parent should preview it first."
+   "check": "A parent should watch it first, to be sure it suits your child."
   }
  ],
  "quiz": [
@@ -1934,19 +2039,6 @@
   },
   {
    "t": "mcq",
-   "p": "In the Three Dabbas test, boiled dal water went into three clean dabbas: A closed, B open, and C closed with an unwashed coriander leaf. Why were all three dabbas rinsed with just-boiled water?",
-   "opts": [
-    "To keep the test fair, so all three started almost clean",
-    "To make the dal cook faster",
-    "To make the dabbas shiny"
-   ],
-   "a": 0,
-   "how": "e1",
-   "why": "Rinsing all three the same way means the only differences are the lid and the leaf. That is what makes the test fair.",
-   "outcome": 3
-  },
-  {
-   "t": "mcq",
    "p": "Which part of food mainly gives us energy?",
    "opts": [
     "Carbohydrate, as in rice and ragi",
@@ -1959,18 +2051,6 @@
   },
   {
    "t": "mcq",
-   "p": "Dal, milk and paneer are rich in protein. What is protein's main job in the body?",
-   "opts": [
-    "Building and repairing the body",
-    "Keeping food cold",
-    "Making food taste sour"
-   ],
-   "a": 0,
-   "why": "Protein builds new skin, muscle and blood, and repairs cuts.",
-   "outcome": 4
-  },
-  {
-   "t": "mcq",
    "p": "Why does lemon pickle with lots of salt keep for months without a fridge?",
    "opts": [
     "The salt pulls water out, and microbes cannot grow without water",
@@ -1979,18 +2059,6 @@
    ],
    "a": 0,
    "why": "Microbes need water. Lots of salt pulls water out of them, and the sour juice slows them too.",
-   "outcome": 5
-  },
-  {
-   "t": "mcq",
-   "p": "Why do sun-dried vadams keep for a year in a closed tin?",
-   "opts": [
-    "There is almost no water left in them for microbes",
-    "The sun turns them into stone",
-    "Microbes do not like the colour"
-   ],
-   "a": 0,
-   "why": "Drying takes away the water that microbes need. Kept dry in a closed tin, they cannot grow.",
    "outcome": 5
   },
   {
@@ -2016,6 +2084,18 @@
    "a": 0,
    "why": "A good smell does not prove food is safe. After hours in the warmth, harmful bacteria may have grown without any smell.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we cut raw fish and cucumber salad on two different boards?",
+   "opts": [
+    "Microbes from the raw fish could move onto the salad, which is not cooked",
+    "Fish makes cucumber taste bitter",
+    "A board can only be used for one food a day"
+   ],
+   "a": 0,
+   "why": "Cooking kills the microbes in raw fish, but the salad is eaten raw. Microbes that move onto it from the board stay alive.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -2046,12 +2126,6 @@
      ],
      "a": 0,
      "why": "Microbes need water to take in food, and warmth to grow quickly. Cold, dryness and lots of salt all slow them down."
-    },
-    {
-     "t": "truefalse",
-     "p": "A fridge kills all the germs in food.",
-     "a": false,
-     "why": "False. A fridge slows microbes down but does not kill them. Food in the fridge still spoils, only more slowly."
     },
     {
      "t": "truefalse",
@@ -2189,7 +2263,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and her mother Lakshmi disagree about packet milk.",
+     "p": "Meenakshi, a girl in Class 3, and her mother Lakshmi disagree about packet milk.",
      "views": [
       {
        "who": "Lakshmi, the mother",
@@ -2206,10 +2280,19 @@
      "why": "Both have a point. Pasteurised milk kept cold is safe. But milk that has warmed up or been opened can pick up microbes, and then boiling helps."
     },
     {
-     "t": "truefalse",
-     "p": "Food that smells fine is always safe to eat.",
-     "a": false,
-     "why": "False. Some harmful bacteria grow without changing the smell or taste of food. Food left warm for many hours can be unsafe even if it smells normal."
+     "t": "write",
+     "p": "Cooked rice is left on the kitchen counter after lunch on a hot day. Would you eat it at night? Give two reasons.",
+     "a": "No. In the warm kitchen, any bacteria in the rice could double every 20 minutes for hours. Some survive cooking as spores, and flies or dust can add more.",
+     "why": "A strong answer uses time and warmth, and says that cooked rice can look and smell normal and still be unsafe."
+    },
+    {
+     "t": "fill",
+     "p": "Bacteria multiply by ________ in two.",
+     "a": [
+      "splitting",
+      "dividing"
+     ],
+     "why": "One bacterium splits into two, then four, then eight. That is why a few microbes can become millions in a few hours."
     }
    ]
   },
@@ -2354,13 +2437,13 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, \"Washing hands only matters if they look dirty.\" Use what you know about microbes to answer him.",
+     "p": "A friend says, \"Washing hands only matters if they look dirty.\" Use what you know about microbes to answer him.",
      "a": "Microbes are far too small to see, so clean-looking hands can still carry many. Washing with soap moves them off before you touch food.",
      "why": "A strong answer uses the fact that microbes are invisible, so looks cannot tell you."
     },
     {
      "t": "perspective",
-     "p": "Nandini's family washes greens in different ways.",
+     "p": "Nandini, a girl in Class 4, hears two ways of washing greens at home.",
      "views": [
       {
        "who": "Nandini's grandmother",
@@ -2383,28 +2466,22 @@
      "why": "Microbes grow fastest between about 5 and 60 degrees. Food is safer kept colder than 5 or hotter than 60."
     },
     {
-     "t": "mcq",
-     "p": "In the Five-Second Test, a wet cucumber slice and a dry biscuit were dropped on turmeric powder. What did most children find?",
-     "opts": [
-      "The wet cucumber picked up much more, even in one second",
-      "Neither picked up anything in one second",
-      "The biscuit picked up more"
-     ],
-     "a": 0,
-     "how": "e3",
-     "why": "Wet food is sticky, so the powder clings fast. Scientists found the same with real bacteria: wet watermelon picked up the most."
-    },
-    {
      "t": "truefalse",
      "p": "Cutting raw fish and then cucumber on the same unwashed board can carry microbes onto the cucumber.",
      "a": true,
-     "why": "True. The cucumber will not be cooked, so microbes from the raw fish stay alive on it. Use a different board or wash it with soap and hot water first."
+     "why": "True. The cucumber will not be cooked, so the microbes that came from the raw fish stay alive on the cucumber. Use a different board or wash it with soap and hot water first."
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Madurai, packed tamarind rice and lemon rice for a two-day train journey, and ate the curd rice on the first night. Explain her plan.",
+     "p": "A family packed tamarind rice, lemon rice and idlis for a two-day train journey, and ate the curd rice on the first night. Explain their plan.",
      "a": "Tamarind rice and lemon rice are sour, salty and oily, so they keep a day or more. Curd rice is wet and mild, so it was eaten first, before microbes could multiply in the heat.",
      "why": "A strong answer links each food to what microbes need, and why wet food is eaten first."
+    },
+    {
+     "t": "truefalse",
+     "p": "Packet milk left out of the fridge all night is still safe, because it was pasteurised.",
+     "a": false,
+     "why": "False. Pasteurising kills most microbes, but a few survive. In warm milk those, and any that land on it later, multiply. Boil it again or throw it away."
     }
    ]
   },
@@ -2423,14 +2500,14 @@
     },
     {
      "t": "perspective",
-     "p": "Two scientists argue about where the microbes came from in dabba B, the open one.",
+     "p": "Two scientists, Dr Lata and Dr Sunita, argue about where the microbes came from in dabba B, the open one.",
      "views": [
       {
-       "who": "Dr Anjali",
+       "who": "Dr Lata",
        "says": "They fell in from the air, riding on dust."
       },
       {
-       "who": "Dr Farhan",
+       "who": "Dr Sunita",
        "says": "A small fly visited it in the night and left them."
       }
      ],
@@ -2470,7 +2547,7 @@
     },
     {
      "t": "order",
-     "p": "Put these in order of how fast they would spoil if left out, from fastest to slowest, and think about why.",
+     "p": "Put these in order of how fast they would spoil, from fastest to slowest. The packet milk is in the fridge and the rest are left out on a warm day.",
      "items": [
       "Boiled milk, covered",
       "Raw milk from a cow, open",
@@ -2516,14 +2593,6 @@
      "why": "Drawing the journey shows how microbes reach food, and that any habit that breaks the journey keeps the food safe."
     },
     {
-     "t": "fill",
-     "p": "Fermenting is when microbes we ________ change a food in a useful way.",
-     "a": [
-      "want"
-     ],
-     "why": "Fermenting and spoiling are both microbes at work. The difference is whether we want the change."
-    },
-    {
      "t": "write",
      "p": "In Kerala, many families dry fish in the sun before the rainy season. Why does dried fish keep for months, but fresh fish only a day?",
      "a": "Drying takes out almost all the water. Microbes need water to grow, so they cannot multiply in dried fish. Fresh fish is wet and full of protein, so microbes grow fast.",
@@ -2566,34 +2635,27 @@
      "why": "Each myth sounds sensible, but tests show otherwise: microbes move in under a second, some do not change the smell, and they are too small to see in water."
     },
     {
-     "t": "match",
-     "p": "Match each part of food to its main job.",
-     "pairs": [
-      [
-       "Carbohydrate",
-       "Gives most of our energy"
-      ],
-      [
-       "Protein",
-       "Builds and repairs the body"
-      ],
-      [
-       "Vitamins and minerals",
-       "Keep the body working and help fight illness"
-      ],
-      [
-       "Fibre",
-       "Helps food move through the gut"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each part of food has a main job. A good meal has some of each."
-    },
-    {
      "t": "write",
      "p": "A family has no fridge. It is May in Hyderabad. Plan their day of cooking so the food stays safe.",
      "a": "Cook fresh for each meal and eat it within 2 hours. Boil milk morning and evening and keep it covered. Keep pickles, dry snacks and dry grains for later. Wash vegetables well and cover all food.",
      "why": "A strong answer uses time, heat, covering and dry foods together, because there is no cold to slow the microbes."
+    },
+    {
+     "t": "mcq",
+     "p": "A girl wants to test whether a fridge slows microbes. Which test is fair?",
+     "opts": [
+      "The same dal water in two identical closed dabbas, one in the fridge and one on a shelf",
+      "Dal water in the fridge and milk on a shelf",
+      "A closed dabba in the fridge and an open dabba on a shelf"
+     ],
+     "a": 0,
+     "why": "Only one thing should change, which is the cold. The food, the dabba and the lid must stay the same, or we cannot tell what caused the difference."
+    },
+    {
+     "t": "write",
+     "p": "You find a dabba of dal that has been in the fridge for six days. It smells fine. Make a rule for your family about how long leftovers stay in the fridge, and say how you chose it.",
+     "a": "A strong rule is short, such as 3 to 4 days, then eat or throw. The fridge only slows microbes, so they still multiply slowly, and a smell can fail to warn us.",
+     "why": "A strong answer uses two ideas from the unit: cold slows microbes without killing them, and smell is not proof."
     }
    ]
   }
@@ -2614,7 +2676,7 @@
    "art": "A glass counter of sweets with a fine net cover on the open tray."
   },
   {
-   "text": "Vadams and appalams drying on a cloth on a terrace in Tamil Nadu in the summer.",
+   "text": "Papads and vadams drying on a cloth on a terrace in the summer sun.",
    "art": "Rows of white rice vadams drying on a white cloth on a sunny terrace."
   },
   {
@@ -2641,7 +2703,7 @@
   },
   {
    "q": "Does soaking vegetables in salt water or vinegar remove many more microbes than plain running water?",
-   "why_open": "Studies give different answers. It depends on the vegetable, the microbe, the strength of the soak and how long it lasts."
+   "why_open": "Studies give different answers. The answer depends on the vegetable, the kind of microbe, the strength of the soak and the soaking time."
   },
   {
    "q": "Why do some people fall ill from the same food that leaves others well?",
@@ -2668,64 +2730,24 @@
  ],
  "jokes": [
   {
-   "j": "Why did the bacteria love the dal so much?",
-   "a": "It was warm, wet and full of protein. A perfect home!"
-  },
-  {
    "j": "What did the lid say to the fly?",
    "a": "Sorry, this dabba is closed!"
-  },
-  {
-   "j": "Why did the pickle never go to parties?",
-   "a": "Too salty for the microbes to join in."
-  },
-  {
-   "j": "Why was the vadam so calm?",
-   "a": "Nothing could grow on them. They were completely dry about it."
-  },
-  {
-   "j": "What did the microbe say when the fridge door shut?",
-   "a": "Brrr. I'll just sit here and wait."
-  },
-  {
-   "j": "Why did the coriander take four baths?",
-   "a": "It came from the market with soil in its roots."
-  },
-  {
-   "j": "What is a fly's favourite kind of food?",
-   "a": "Anything left uncovered!"
-  },
-  {
-   "j": "Why did the milk go to the stove?",
-   "a": "To get boiled before the microbes arrived."
   },
   {
    "j": "What did one bacterium say to the other after 20 minutes?",
    "a": "Look, we're four now!"
   },
   {
-   "j": "Why did the idli batter rise early?",
-   "a": "The microbes worked all night."
-  },
-  {
-   "j": "Why did the biscuit beat the cucumber in the five-second test?",
-   "a": "The biscuit was dry, so the dirt couldn't stick."
-  },
-  {
-   "j": "What did the pressure cooker say to the open pan?",
-   "a": "I'm under pressure, but I get things hotter!"
-  },
-  {
-   "j": "Why did the spoon get sent back to dry?",
-   "a": "Because the pickle jar said no wet visitors."
-  },
-  {
    "j": "What do you call a microbe in the freezer?",
    "a": "A very slow microbe."
   },
   {
-   "j": "Why did Paati pack tamarind rice for the train?",
-   "a": "Because it was too sour for the microbes and just right for us."
+   "j": "What did the microbe say when the fridge door shut?",
+   "a": "Brrr. I'll just sit here and wait."
+  },
+  {
+   "j": "Why did the idli batter rise early?",
+   "a": "The microbes worked all night."
   },
   {
    "j": "What did the turmeric say to the wet cucumber?",
@@ -2736,8 +2758,16 @@
    "a": "It knew it couldn't wait till tomorrow."
   },
   {
-   "j": "Why was the sealed tin so proud?",
-   "a": "Nothing gets in, and nothing gets out."
+   "j": "Why did the spoon get sent back to dry?",
+   "a": "Because the pickle jar said no wet visitors."
+  },
+  {
+   "j": "Why did Paati pack tamarind rice for the train?",
+   "a": "Because it was too sour for the microbes and just right for us."
+  },
+  {
+   "j": "Why did the pickle never go to parties?",
+   "a": "Too salty for the microbes to join in."
   }
  ],
  "maths": [
@@ -2750,7 +2780,7 @@
    "why_maths": "Doubling shows why food that is fine at breakfast can be risky by lunchtime."
   },
   {
-   "problem": "In the Three Dabbas test, Nandini looked at her dabbas at bedtime on day 1, in the morning and evening of day 2, and once on day 3. Dabba C smelled sour at the first morning check, and dabba B at the evening check. Dabba B lasted how many checks longer than C?",
+   "problem": "In the Three Dabbas test, Nandini, a girl in Class 4, looked at her dabbas at bedtime on day 1, in the morning and evening of day 2, and once on day 3. Dabba C smelled sour at the first morning check, and dabba B at the evening check. Dabba B lasted how many checks longer than C?",
    "answer": "1 check longer.",
    "explain": "The checks were: bedtime day 1, morning day 2, evening day 2, day 3. C went sour at check 2 and B at check 3. 3 minus 2 is 1.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2759,7 +2789,7 @@
    "why_maths": "Counting the checks turns 'which spoiled first' into a number, so two families' results can be compared."
   },
   {
-   "problem": "In How Many Washes, Revathi's coriander needed 4 washes. She used 4 tumblers of water for each wash. How many tumblers did she use in all? How many would she save if she could get it clean in 3 washes?",
+   "problem": "In How Many Washes, Revathi, a girl in Class 3, found that her coriander needed 4 washes. She used 4 tumblers of water for each wash. How many tumblers did she use in all? How many would she save if she could get it clean in 3 washes?",
    "answer": "16 tumblers. She would save 4 tumblers.",
    "explain": "4 washes times 4 tumblers is 16. 3 washes times 4 tumblers is 12. 16 minus 12 is 4.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2768,7 +2798,7 @@
    "why_maths": "Multiplying shows how much water washing uses, which matters in cities where water is short."
   },
   {
-   "problem": "The World Health Organization says cooked food should not sit out for more than 2 hours. Lakshmi's family finished cooking lunch at 12:30. By what time should the leftovers go in the fridge?",
+   "problem": "The World Health Organization says cooked food should not sit out for more than 2 hours. A family finished cooking lunch at 12:30. By what time should the leftovers go in the fridge?",
    "answer": "By 2:30.",
    "explain": "12:30 plus 2 hours is 2:30 in the afternoon.",
    "math_unit": "math.time.duration.L3",
@@ -2776,7 +2806,7 @@
    "why_maths": "Adding time tells you the latest safe moment, so you can plan when to put food away."
   },
   {
-   "problem": "Farhan's family has 12 food packets. 4 of them say 'Keep refrigerated'. What fraction of the packets must be kept cold?",
+   "problem": "A family has 12 food packets. 4 of them say 'Keep refrigerated'. What fraction of the packets must be kept cold?",
    "answer": "One third of the packets.",
    "explain": "4 out of 12 is 4 twelfths. 12 shared into 3 equal groups is 4 in each, so 4 is one of those 3 groups: one third.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -2828,11 +2858,10 @@
    "id": "b-lens",
    "item": "A hand magnifying glass",
    "kind": "tool",
-   "why": "For reading tiny dates on packets and looking closely at mould, soil on roots and dust specks. Sold in stationery shops.",
+   "why": "For reading the tiny dates and marks on packets. Sold in stationery shops.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
-    "a4",
-    "a2"
+    "a4"
    ]
   }
  ],
@@ -2934,10 +2963,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/food-and-a-balanced-diet.md: the founder's notes on food and nutrition, used for the parts of food and their jobs",
-   "ideas/by_topic/microorganisms.md: the founder's picture of microbes as beings who sense, decide and act, used for the microbe's-eye view of spoiling",
-   "NIOS Open Basic Education, Environmental Studies Level A, Lesson 8 'Food': components of food and keeping food clean",
-   "Curriculum entry sci.food.food-safety.L3: washing, covering, cooking, and parts of food and their jobs"
+   "NIOS Open Basic Education, Environmental Studies Level A, Lesson 8 'Food': components of food and keeping food clean"
   ],
   "science": [
    "World Health Organization, Five Keys to Safer Food Manual, 2006 (the five keys, the 5 to 60 degrees Celsius range, and the 2-hour limit for cooked food)",
@@ -2980,7 +3006,7 @@
     "status": "settled"
    },
    {
-    "text": "How many microbes of each kind it takes to make a person ill depends on the microbe and the person, and for many germs it is still being studied.",
+    "text": "The number of microbes that makes a person ill depends on the kind of microbe and on the person. For many germs, scientists are still studying this.",
     "status": "open"
    }
   ],

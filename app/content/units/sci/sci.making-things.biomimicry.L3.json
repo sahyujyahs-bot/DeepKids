@@ -591,16 +591,76 @@
      "kind": "cards",
      "title": "10 green NATURE cards to cut out",
      "items": [
-      "Burdock burr: hooked spines that catch on fur, so animals carry its seeds away",
-      "Lotus leaf: tiny waxy bumps that make rain roll off and wash the leaf clean",
-      "Kingfisher: a long beak that widens slowly, so they dive without a splash that warns the fish",
-      "Owl: soft, fringed feather edges, so they fly almost silently to their prey",
-      "Gecko: millions of tiny toe hairs, so they can run up walls to catch insects",
-      "Termite mound: thick earth walls and air passages that keep the nest fresh and cool",
-      "Pitcher plant: a slippery rim, so insects slide in and become their food",
-      "Honeybee comb: six-sided cells that hold the most honey for the least wax",
-      "Humpback whale: bumps on their flippers that help them turn tightly while hunting",
-      "Bird: twists the tips of their wings to balance and turn in the air"
+      {
+       "f": "Burdock burr: hooked spines that catch on fur, so animals carry its seeds away",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-00.jpg",
+        "credit": "Sandy Wolkenberg, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lotus leaf: tiny waxy bumps that make rain roll off and wash the leaf clean",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-01.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Kingfisher: a long beak that widens slowly, so they dive without a splash that warns the fish",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-02.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Owl: soft, fringed feather edges, so they fly almost silently to their prey",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-03.jpg",
+        "credit": "Shikha Sreenivas, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Gecko: millions of tiny toe hairs, so they can run up walls to catch insects",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-04.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Termite mound: thick earth walls and air passages that keep the nest fresh and cool",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-05.jpg",
+        "credit": "Alexander Klink, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Pitcher plant: a slippery rim, so insects slide in and become their food",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-06.jpg",
+        "credit": "T R Shankar Raman, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Honeybee comb: six-sided cells that hold the most honey for the least wax",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-07.jpg",
+        "credit": "Einebillion, CC BY 4.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "Humpback whale: bumps on their flippers that help them turn tightly while hunting",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-08.jpg",
+        "credit": "Lawrence Hylton, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Bird: twists the tips of their wings to balance and turn in the air",
+       "img": {
+        "src": "media/cards/biomimicry-g1-0-09.jpg",
+        "credit": "Omar Haroon, CC0, via iNaturalist"
+       }
+      }
      ]
     },
     {

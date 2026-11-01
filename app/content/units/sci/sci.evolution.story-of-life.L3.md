@@ -33,7 +33,7 @@
 - **Hydrothermal vent**: A crack in the sea floor where hot water full of minerals pours out from deep inside the Earth. *e.g.* Vents were first seen in 1977, deep in the Pacific Ocean near the Galápagos Islands.
 - **Meteorite**: A rock from space that falls to the ground on Earth. *e.g.* The Murchison meteorite fell in Australia in 1969. It holds amino acids that formed in space.
 - **Hypothesis**: An idea that tries to explain something, and that can be tested. *e.g.* 'Life began as RNA' is a hypothesis. Scientists test it with experiments.
-- **Ancestor**: A living being that someone came from, long ago. Your grandmothers and great-grandmothers are your ancestors. *e.g.* All living things today share very old ancestors: the first cells.
+- **Ancestor**: A living being that someone came from, long ago. Your grandparents and great-grandparents are your ancestors. *e.g.* All living things today share very old ancestors: the first cells.
 
 ## Explanations
 ### Every living thing comes from another living thing · *defined*
@@ -220,8 +220,8 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 
 ## Games
 ### g1 · Copy Race: build the partner chain (15 min)
-- **rules:** Shuffle the letter cards and put them face down in a pile.; Each player takes one chain card and lays it face up.; On your turn, take the top letter card. If it is the partner of your next letter, lay it under that letter. If not, put it on a discard pile.; A pairs with U. C pairs with G.; The first player to finish the whole partner chain wins.; Playing alone: time yourself. Try to beat your time with a new chain card.
-- **Printable cards: 40 letter cards:** 10 cards of A; 10 cards of U; 10 cards of C; 10 cards of G
+- **rules:** Shuffle the 40 letter cards and put them face down in a pile.; Each player takes one chain card and lays it face up.; On your turn, turn over the top letter card. If it is the partner of a letter in your chain that has no partner yet, lay it under that letter. If not, put it face up on a discard pile.; A pairs with U. C pairs with G.; If the pile runs out, shuffle the discard pile and turn it over to make a new pile.; The first player to finish the whole partner chain wins.; Playing alone: time yourself. Try to beat your time with a new chain card.
+- **Printable cards: 40 letter cards:** A; A; A; A; A; A; A; A; A; A; U; U; U; U; U; U; U; U; U; U; C; C; C; C; C; C; C; C; C; C; G; G; G; G; G; G; G; G; G; G
 - **Printable cards: 6 chain cards:** A U G C C A; G G C A U U; C A U G A C; U U A G C G; A C G U G A; G C A U C U
 - **s1 (2 min)**  
   *Parent does:* Shuffle the letter cards. Give each player a chain card.  
@@ -229,42 +229,40 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* Take a chain card. You are a chain of RNA. Build your partner chain.
 - **s2 (10 min)**  
   *Parent does:* Play until someone finishes their partner chain.  
-  *Parent says:* Remember: A goes with U, C goes with G. You can only place the partner of your next letter.  
-  *Child mode:* Take a card. Is it the partner of your next letter? Place it. If not, throw it away.
-  - Note: If the pile runs out, shuffle the discards and use them again. This is a little like RNA letters floating in the sea, waiting to be picked up.
+  *Parent says:* Remember: A goes with U, C goes with G. You can place a card under any letter that has no partner yet.  
+  *Child mode:* Turn over a card. Is it the partner of a letter in your chain with no partner yet? Place it. If not, put it in the discard pile.
+  - Note: This is a little like RNA letters floating in the sea, waiting to be picked up. When the pile runs out, shuffle the discards and use them again.
 - **s3 (3 min)**  
   *Parent does:* After the game, check every partner chain together.  
   *Parent says:* Let's check each chain. Did anyone place a wrong partner?  
   *Child mode:* Check your partner chain. Is every pair right?
-  - Check: In Copy Race, Lakshmi's chain starts G G C. Which cards does she need for her partner chain, in order? → **C C G**
 ### g2 · Line Up Time: put the story of life in order (15 min)
-- **rules:** Put 'The Earth forms' at the start of the line, face up.; Shuffle the other cards with their dates covered, and deal them out.; On your turn, place one card on the line where you think it goes, then show its date.; If it is in the right place, score a point. If not, move it to the right place.; Playing alone: place all the cards, then check the dates and count how many you got right.
-- **Printable cards: 10 event cards:** The Earth forms (4.5 billion years ago); The first oceans (about 4.4 billion years ago); The oldest stromatolites (about 3.5 billion years ago); Oxygen starts to fill the air (about 2.4 billion years ago); Stromatolites grow at Vempalle, in India (about 2 billion years ago); The first animals (about 600 million years ago); The first land plants (about 470 million years ago); Dinosaurs die out (66 million years ago); The first people like us (about 300,000 years ago); Wöhler makes urea (1828)
-- **Printable score sheet: Score sheet:** Player name; Cards placed right; Cards placed wrong
+- **rules:** Put 'The Earth forms' on the table with its date side up. This is the start of the line.; Shuffle the other 9 cards with the event side up, and deal them out one at a time. Grown-ups take any extra cards.; On your turn, place one of your cards in the line, where you think it goes. Then turn it over to read its date.; If its date fits in order with the dates already on the line, score one point. If not, move it to the right place and score nothing.; When every card is placed, the player with the most points wins. Keep score on a scrap of paper.; Playing alone: place all 9 cards, turning each one over after you place it. Count how many you placed right the first time.
+- **Printable cards: 10 event cards:** The Earth forms (back: The Earth forms: 4.5 billion years ago); The first oceans (back: The first oceans: about 4.4 billion years ago); The oldest stromatolites (back: The oldest stromatolites: about 3.5 billion years ago); Oxygen starts to fill the air (back: Oxygen starts to fill the air: about 2.4 billion years ago); Stromatolites grow at Vempalle, in India (back: Stromatolites grow at Vempalle, in India: about 2 billion years ago); The first animals (back: The first animals: about 600 million years ago); The first land plants (back: The first land plants: about 470 million years ago); Dinosaurs die out (back: Dinosaurs die out: 66 million years ago); The first people like us (back: The first people like us: about 300,000 years ago); Wöhler makes urea in a lab (back: Wöhler makes urea in a lab: 1828, about 200 years ago)
 - **s1 (2 min)**  
-  *Parent does:* Cover the dates on the cards with a strip of paper. Put 'The Earth forms' down first.  
+  *Parent does:* Put 'The Earth forms' on the table with its date side up. Shuffle the other cards with the event side up and deal them out.  
   *Parent says:* These cards are events in the story of life. We have to put them in order, oldest first.  
   *Child mode:* These are events in the story of life. Put them in order, oldest first.
 - **s2 (10 min)**  
   *Parent does:* Take turns placing cards and checking the dates.  
   *Parent says:* Where does this one go? Before or after the stromatolites?  
-  *Child mode:* Place your card. Before or after the others? Then check its date.
+  *Child mode:* Place your card in the line. Is it before or after the others? Then turn it over and read its date.
   - Note: The hardest ones are usually oxygen and animals. Many children put animals much earlier than they came. That surprise is the point.
 - **s3 (3 min)**  
   *Parent does:* Count the points.  
   *Parent says:* What surprised you most about the order?  
   *Child mode:* Count your points. What surprised you most?
-  - Check: Which came first? → **Oxygen starts to fill the air**
+  - Check: In the story of life, which of these came first? → **Oxygen starts to fill the air**
 
 ## Experiments
-### e1 · The Rusting Nails: what did the first oxygen do to the sea? (30 min, 3 days)
+### e1 · The Rusting Nails: what did the first oxygen do to the sea? (35 min, 3 days)
 - **question:** Does an iron nail in water rust when very little oxygen can reach it?
 - **predict:** Guess first. Which nail will rust most: the nail in open tap water, the nail in boiled water sealed under oil, or the nail in open salty water? Which will rust least? Why do you think so?
 - **fair test:** Use three nails of the same kind and size, three jars of the same size, and the same amount of water in each. Keep the jars side by side in the same place. Only one thing changes in each jar: open water, water with little oxygen, or salty water.
 - **safety:** A grown-up boils the water and pours it. Let it cool until just warm before anyone touches the jar. Nails can be sharp at the tip.
 - **record:** Fill in the table each time you look. Draw each nail on day 3, colouring any rust orange.
 - **results table:** Jar | What is in it | After 3 hours | After 1 day | After 2 days | After 3 days
-- **schedule:** day 1: Boil water for jar B. Set up the three jars. Make your guess. Look again after 3 hours. (20 min); day 2: Look at all three nails. Write and draw what you see. (5 min); day 3: Look again, take the nails out, and say what you found. (5 min)
+- **schedule:** day 1: Boil water for jar B. Set up the three jars. Make your guess. Look again after 3 hours. (20 min); day 2: Look at all three nails. Write and draw what you see. (5 min); day 3: Look again, take the nails out, compare them and say what you found. (10 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the three nails. 2. Ask them to guess which nail will rust most, and which least, and why.  
   *Parent says:* We'll put these iron nails in three jars of water. In one jar we'll keep oxygen away. Which nail do you think will rust most? Which will rust least? Why?  
@@ -320,12 +318,12 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent says:* Every cell holds a long chain molecule called DNA. It holds the instructions for that living thing. Do you think we can see it? Will the empty glass show anything? Why?  
   *Child mode:* Every cell has instructions inside, in a chain called DNA. Can we see it? What will the empty glass show? Why?
 - **s2 (5 min)**  
-  *Parent does:* 1. Mix 1 cup warm water, 2 teaspoons salt and 4 teaspoons washing liquid. Stir gently, without making foam. 2. Mash the banana in one bag and the peas in another, with 2 spoons of the mix each, for 2 minutes.  
+  *Parent does:* 1. Mix 1 cup warm water, 2 teaspoons salt and 4 teaspoons washing liquid. Stir gently, without making foam. 2. Mash the banana in one bag and the peas in another, each with 1 tablespoon of the mix, for 2 minutes.  
   *Parent says:* Mashing breaks the cells apart. The washing liquid breaks their thin skins. Salt helps the long DNA strands clump together, so we can see them.  
   *Child mode:* Mash the banana well. Mash the peas well. You are breaking open millions of cells.
-  - Note: Keep the third portion of the mix with no food in it. That glass is the control. It shows what happens with no cells at all.
+  - Note: Keep the rest of the mix. The glass with no food gets plain mix only. That glass is the control. It shows what happens with no cells at all.
 - **s3 (4 min)**  
-  *Parent does:* 1. Add 4 more spoons of the mix to each bag. Squish gently for 1 minute. 2. Strain each one into its own glass, about a quarter full. 3. Pour the same amount of plain mix into the third glass.  
+  *Parent does:* 1. Add 2 more tablespoons of the mix to each bag. Squish gently for 1 minute. 2. Strain each one into its own glass, about a quarter full. 3. Pour 3 tablespoons of plain mix, with no food in it, into the third glass.  
   *Parent says:* Now we strain out the lumps. The DNA is in the runny liquid now.  
   *Child mode:* Strain each mash into its own glass. Pour plain mix into the third glass.
 - **s4 (4 min) · grown-up needed**  
@@ -337,7 +335,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* 1. Wait 3 to 5 minutes. 2. Look where the two layers meet. 3. Gently twirl the toothpick there in each glass.  
   *Parent says:* Look where the two layers meet. Can you see anything white and cloudy rising up?  
   *Child mode:* Wait and watch where the layers meet. See white threads? Twirl the toothpick there.
-  - Note: White, cloudy, stringy stuff rises into the spirit layer in the banana and pea glasses. It winds onto the toothpick like wet cotton. The glass with no food stays clear. If you see little, the spirit may not be cold enough, or there may be too much liquid. Try again with less liquid and colder spirit.
+  - Note: White, cloudy, stringy stuff rises into the spirit layer in the banana and pea glasses. It winds onto the toothpick like wet cotton. The glass with no food stays clear, though it may show a few soap bubbles. If you see little, the spirit may not be cold enough, or there may be too much liquid. Try again with less liquid and colder spirit.
   - Check: The glass with no food stayed clear. The banana and pea glasses made white threads. What does this show? → **The threads came from the cells of the banana and the peas**
 - **s6 (4 min)**  
   *Parent does:* Ask for three short sentences: what I think, what I saw, and why.  
@@ -347,10 +345,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 
 ## Activities
 ### a1 · The Chain of Mothers: who came before? (8 min)
-- **safety:** No safety needs.
 - **record:** Keep the drawing. You will add to it at the end of the unit.
 - **s1 (3 min)**  
-  *Parent does:* 1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother, then her mother.  
+  *Parent does:* 1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother (or a mother they picture), then her mother.  
   *Parent says:* Draw yourself at this end. Who did you come from? Draw her next to you. And who did she come from?  
   *Child mode:* Draw yourself at the right end. Draw your mother next to you. Then her mother.
 - **s2 (3 min)**  
@@ -364,7 +361,6 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* Draw a big question mark at the far end. Who was first? Where did they come from?
   - Think: If life only comes from life, how could the first life begin?
 ### a2 · The Time String: 4.5 billion years along a corridor (15 min)
-- **safety:** Lay the string along the floor where nobody will trip on it.
 - **record:** Take a photo of the string, or draw it with the labels in order.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the string straight along a corridor or across two rooms. 2. Mark one end 'Earth forms, 4.5 billion years ago' and the other 'Today'.  
@@ -382,7 +378,6 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Check: On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of it was there only life too small to see, or no life at all? → **About 3.9 metres, until the first animals**
   - Think: For most of the Earth's story, the only life was too small to see. What were they doing all that time?
 ### a3 · Copy the Chain: how RNA letters make a copy (12 min)
-- **safety:** No safety needs.
 - **record:** Write your first chain, its partner and the partner's partner, one under the other.
 - **s1 (3 min)**  
   *Parent does:* 1. Make the letter cards. 2. Write the rule on a paper: A pairs with U, C pairs with G.  
@@ -398,12 +393,11 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* Under each letter, put its partner. A goes with U. C goes with G.
   - Check: A chain reads A C G U. Which is its partner chain? → **U G C A**
 - **s4 (3 min)**  
-  *Parent does:* Now make the partner of the partner chain, under it. Compare it with the first chain.  
-  *Parent says:* Now make a partner for the partner. What do you notice when you compare it with your first chain?  
-  *Child mode:* Make a partner for the partner chain. Look at your first chain. What do you see?
+  *Parent does:* Now write the partner of the partner chain on paper, letter by letter, under the partner chain. Compare it with the first chain.  
+  *Parent says:* Now write a partner for the partner. What do you notice when you compare it with your first chain?  
+  *Child mode:* Write a partner for the partner chain. Look at your first chain. What do you see?
   - Note: The third chain matches the first exactly. That is how a chain can be copied: partner, then partner again. In cells, proteins help with this copying. In the RNA idea, the first RNA chains copied themselves with help only from chemicals around them, and maybe from other RNA.
 ### a4 · Copy Mistakes: how one chain becomes many (10 min)
-- **safety:** No safety needs.
 - **record:** Keep all the copies in a column. Circle every letter that is different from the first chain.
 - **s1 (2 min)**  
   *Parent does:* Write this chain at the top of the paper: A U G C C A U G G A C U.  
@@ -418,16 +412,16 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* Compare the last copy with the first chain. Circle every letter that changed.  
   *Parent says:* How many letters changed? Did a mistake, once made, carry on into the next copies?  
   *Child mode:* Circle every letter that changed. Did a mistake stay in the copies after it?
-  - Check: In the copying game, a mistake in copy 3 was still there in copies 4 to 8. Why? → **Each copy was made from the copy before, so the mistake was copied too**
+  - Check: In a copying game, a mistake is made in copy 3. Why does it show up in copies 4 to 8 too? → **Each copy was made from the copy before, so the mistake was copied too**
   - Think: Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?
 ### a5 · Find a Living Film (in the monsoon, or by a damp corner) (10 min)
-- **safety:** Look, don't lick. Wash hands after touching. Stay away from roads and deep drains.
+- **safety:** Wash hands after touching the film. Stay away from roads and deep drains.
 - **record:** Draw or photograph the film. Write where you found it and whether it was in sun or shade.
 - **s1 (4 min)**  
   *Parent does:* Look for a green or black slimy film on a damp wall, the outside of a clay pot, or a balcony drain.  
   *Parent says:* This green film is made of millions of tiny living things. Some of them make oxygen, like the microbes that built the oldest rocks.  
-  *Child mode:* Look for a green or black film on something damp. It is millions of tiny living things.
-  - Note: In the monsoon this is easy to find, especially on north-facing walls and old pots. In a dry season, look near a dripping tap or AC outlet. If you cannot find one, look at photos of Shark Bay stromatolites instead.
+  *Child mode:* Look for a green or black film on something damp. The film is made of millions of tiny living things.
+  - Note: In the monsoon this is easy to find, especially on north-facing walls and old pots. In a dry season, look near a dripping tap or AC outlet. If you cannot find one, look at the photos on the Stromatolite page listed under Links.
 - **s2 (4 min)**  
   *Parent does:* Look through the magnifying glass, or zoom in with a phone camera.  
   *Parent says:* Can you see single living things? Or only a carpet? That carpet is called a mat.  
@@ -438,7 +432,6 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent says:* Is it in the sun or the shade? Why might that matter to living things that make food from light?  
   *Child mode:* Draw it. Was it in sun or shade? Write it down.
 ### a6 · Where Did Life Begin? A debate with evidence (15 min)
-- **safety:** No safety needs.
 - **record:** Write which idea you think is best, and your best reason.
 - **s1 (5 min)**  
   *Parent does:* Write one idea at the top of each sheet: sea-floor vents, warm pools on land, from space. Under each, write the evidence from the explanation card 'Where did life begin?'.  
@@ -457,7 +450,6 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 
 ## Projects
 ### p1 · The Story of Life, Told by RNA: make a picture book (60 min, 3 days)
-- **safety:** A grown-up does the stapling.
 - **record:** The finished book. On the back, list one thing in it that scientists know and one thing that is still an idea.
 - **schedule:** day 1: Plan 6 pages: the young Earth, the building blocks, RNA copying, the first cell skins, stromatolites, and the first oxygen. (20 min); day 2: Draw and write each page, with one or two sentences in RNA's own voice. (25 min); day 3: Add a last page, 'What nobody knows yet', and read the book aloud to your family. (15 min)
 - **s1 (20 min)**  
@@ -481,9 +473,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 ### c1 · Keep the Nail Grey (30 min)
 - **problem:** An iron nail in open tap water rusts within a day or two. Find a way to keep a nail grey for three days in open water, using things from home.
 - **your turn:** Invent your own way to keep a nail grey. Test it against an untreated nail for three days. Which worked best, and why?
-- **constraints:** The nail must sit in open tap water, with no lid and no oil layer on the water.; Use only things from home.; Put an untreated nail in another jar beside it, so you can compare.
+- **constraints:** The nail must sit in open tap water, with no lid and no oil layer on the water.; Use only things from home.; Put an untreated nail in another jar beside it, so you can compare.; Both glasses get the same amount of tap water and stand side by side.
 - **general:** Coat the nail with grease or petroleum jelly, so water and air can't touch the iron.; Paint it with nail polish, as iron gates are painted.; Dip it in melted candle wax, with a grown-up.
-- **creative:** Wrap the nail tightly in a strip of aluminium foil. Aluminium may protect the iron, a little like the zinc coat on shiny nails.; Rub the nail with a crayon until it is covered in wax.; Test which coating lasts longest when you rub the nail a little each day.
+- **creative:** Wrap the nail tightly in a strip of aluminium foil to keep water off the iron. This is a test, and it may not work.; Rub the nail with a crayon until it is covered in wax.; Test which coating lasts longest when you rub the nail a little each day.
 - **s1 (5 min)**  
   *Parent does:* Remind your child of the nail test. Ask what a nail needs in order to rust.  
   *Parent says:* In the nail test, what did a nail need in order to rust?  
@@ -497,7 +489,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* 1. Coat one nail with the best idea. 2. Put it in a glass of tap water. 3. Put an uncoated nail in another glass beside it. 4. Check over three days.  
   *Parent says:* Now test it. We'll compare your coated nail with a plain one.  
   *Child mode:* Coat one nail. Put both nails in water. Check them for three days.
-  - Note: Melted wax needs a grown-up and a low flame or a candle. Nail polish and petroleum jelly are easiest.
+  - Note: Melting wax needs a flame or hot water, so a grown-up does that part. Nail polish and petroleum jelly are easiest and need no flame.
 - **s4 (5 min)**  
   *Parent does:* Read the usual and creative solutions, then invent one more.  
   *Parent says:* Here's what people usually do, and some creative ideas. Can you think of a better one?  
@@ -510,7 +502,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **general:** Copy in groups of 4 letters at a time, so you don't lose your place.; After each copy, check it against the line above.; Use a ruler under the line you are copying.
 - **creative:** Have a helper check each copy, like the checker in a cell that fixes mistakes.; Copy by partners instead, A to U and C to G, then partner again, so each letter is checked twice.; Give each letter a colour, so a wrong letter stands out.
 - **s1 (5 min)**  
-  *Parent does:* Write a 20-letter chain. Copy it five times fast, with no method, and count the mistakes.  
+  *Parent does:* Write a 20-letter chain of A, U, C and G, in any order. Copy it five times fast, with no method, and count the mistakes.  
   *Parent says:* First, let's see how many mistakes we make with no method at all.  
   *Child mode:* Copy the chain five times, fast. Count the mistakes in the last copy.
 - **s2 (5 min)**  
@@ -518,7 +510,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent says:* How could you copy with fewer mistakes, and still be quick?  
   *Child mode:* Think of three ways to make fewer mistakes. Write them down.
 - **s3 (15 min)**  
-  *Parent does:* Try the best idea. Copy five times again and count the mistakes.  
+  *Parent does:* Try the best idea. Copy the same 20-letter chain five times again, on a fresh sheet, and count the mistakes.  
   *Parent says:* Test your best idea. Did you make fewer mistakes this time?  
   *Child mode:* Try your best idea. Copy five times. Count the mistakes again.
   - Note: Checking each copy against the one above usually cuts mistakes the most. Living cells do this too: some of their copying proteins check and fix mistakes.
@@ -541,16 +533,15 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 4. (truefalse) Scientists know for sure how life began.  
    **Answer:** False. *Why:* False. Nobody knows yet. There are good ideas, such as the RNA idea, and scientists are testing them.
 5. (fill) A rock built in thin layers by mats of microbes is called a ____.  
-   **Answer:** ['stromatolite']. *Why:* Stromatolites grow as microbe mats trap mud and grow up through it, layer after layer.
-6. (mcq) In the nail test, which nail stayed grey the longest?  
-   Options: The nail in open tap water / The nail in boiled water under oil / The nail in open salty water  
-   **Answer:** The nail in boiled water under oil. *Why:* The nail in boiled water under oil got very little oxygen, so it hardly rusted. The salty water nail rusted fastest.
+   **Answer:** ['stromatolite']. *Why:* Stromatolites grow as microbe mats trap mud and grow up through the mud, layer after layer.
+6. (write) In the nail test, why did we keep one nail in plain tap water, with nothing done to it?  
+   **Answer:** It is the nail to compare with. Without it we could not tell whether boiling, oil or salt changed anything.. *Why:* A fair test needs one thing left alone to compare with.
 7. (fill) Iron joins with ____ to make rust.  
    **Answer:** ['oxygen']. *Why:* Rust forms when oxygen reaches iron, and water helps.
 8. (match) Match each RNA letter to its partner.  
    **Answer:** A → U; U → A; C → G; G → C. *Why:* A pairs with U, and C pairs with G.
-9. (write) A chain reads A A C G. Write its partner chain.  
-   **Answer:** U U G C. *Why:* A pairs with U, and C pairs with G. So A A C G has the partner U U G C.
+9. (write) A friend says: 'A nail rusts because it gets old.' Using the nail test, what would you say?  
+   **Answer:** The nail under oil stayed grey as long as the others sat in air, so age is not the cause. Rust needs oxygen to reach the iron, and water helps.. *Why:* The test changed only the oxygen, so oxygen explains the rust.
 10. (mcq) What did the first oxygen made by microbes do to the iron in the sea?  
    Options: It made rust, which sank in layers / It made the iron float / Nothing happened / It turned the iron into salt  
    **Answer:** It made rust, which sank in layers. *Why:* Oxygen met the dissolved iron and made rust, which sank in layers. These became banded iron rocks.
@@ -566,12 +557,10 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 15. (sort) Sort these: living thing, or once made by living things?  
    **Answer:** a cyanobacterium → Living thing; a stromatolite → Made by living things; a curd bacterium → Living thing; banded iron rock → Made by living things; the oxygen in the air → Made by living things. *Why:* Cyanobacteria and a curd bacterium are alive now. A stromatolite, banded iron rock and the oxygen in the air were made by living things.
 ### Clues to the Beginning (stretch) (stretch, 15 questions)
-1. (mcq) Stanley Miller filled a flask with water and gases and made sparks in it for a week. What did he find?  
-   Options: Tiny living cells / Amino acids / Gold / Nothing at all  
-   **Answer:** Amino acids. *Why:* He found amino acids, the building blocks of proteins. This showed they can form without living things.
-2. (mcq) Before 1828, many chemists believed the chemicals of living bodies could be made only by...  
-   Options: living things / the Sun / machines / lightning  
-   **Answer:** living things. *Why:* They believed only living things, with a 'life force', could make them. Wöhler made urea from non-living chemicals and showed this was wrong.
+1. (draw) Draw Stanley Miller's flask. Label the gases, the water, the spark and the brown water at the end of the week.  
+   **Answer:** A glass flask with water and the gases methane, ammonia and hydrogen, two metal points with a spark between them, and brown water at the end with amino acids in it.. *Why:* Everything in the flask was non-living, yet amino acids formed.
+2. (write) Miller used no living thing in his flask. Why does that matter for the question of how life began?  
+   **Answer:** It shows that building blocks of life, amino acids, can form from simple chemicals without life. So the first life did not need living things to make its chemicals.. *Why:* It does not show how life began, only that one step does not need life.
 3. (fill) Friedrich Wöhler made ____, a chemical found in urine, from non-living chemicals.  
    **Answer:** ['urea']. *Why:* In 1828 he made urea from ammonium cyanate.
 4. (mcq) Why is the RNA idea attractive to scientists?  
@@ -579,9 +568,8 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
    **Answer:** Because RNA can carry instructions and also do some jobs. *Why:* RNA can both carry instructions, like DNA, and do some jobs, like proteins. So it could have come first.
 5. (truefalse) The RNA idea has been proven in the lab.  
    **Answer:** False. *Why:* False. Scientists have made parts of it work, such as RNA that copies other RNA, but not RNA that copies itself from scratch.
-6. (mcq) In the banana test, the glass with no food stayed clear. Why was that glass useful?  
-   Options: It made the banana taste better / It showed the threads came from the cells, not the other things / It was a spare glass  
-   **Answer:** It showed the threads came from the cells, not the other things. *Why:* It is the control. It showed that the threads came from the cells, not from the salt, washing liquid or spirit.
+6. (truefalse) In the banana test, the glass with no food should show no white threads.  
+   **Answer:** True. *Why:* True. It has the same salt, washing liquid and spirit, so any threads in the other glasses come from the cells.
 7. (write) Why did we boil the water for jar B in the nail test?  
    **Answer:** Boiling drives most of the air, with its oxygen, out of the water.. *Why:* With little oxygen in the water, the nail could hardly rust.
 8. (mcq) What is a ribozyme?  
@@ -597,11 +585,10 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 12. (mcq) Why are living stromatolites found at Shark Bay in Australia?  
    Options: It is very cold there / The water is so salty that few grazers can eat the mats / Nobody has ever been there / People planted them  
    **Answer:** The water is so salty that few grazers can eat the mats. *Why:* The water there is very salty, and few snails and other grazers can live in it to eat the microbe mats.
-13. (write) Copy this chain twice by partners: G U U A. What is the second copy?  
-   **Answer:** G U U A. *Why:* The first partner is C A A U. Its partner is G U U A, the same as the start.
-14. (mcq) In the copy-mistakes activity, why did a mistake carry on into all the later copies?  
-   Options: Each copy was made from the one before / The timer was wrong / The letters were too small  
-   **Answer:** Each copy was made from the one before. *Why:* Each copy was made from the one before, so a change was passed on.
+13. (write) A copy of a chain has one wrong letter. What happens to the copies made from it, and how could that lead to new kinds?  
+   **Answer:** Every later copy carries the wrong letter. If the change helps the chain last or copy, those copies become more common, and slowly new kinds appear.. *Why:* Changes pass on from copy to copy, which is how one kind slowly becomes many.
+14. (fill) A change in a copied chain, such as a wrong letter, is called a ____.  
+   **Answer:** ['mutation']. *Why:* Mutations pass on to later copies.
 15. (odd) Which one is the odd one out? A, U, C, G, T  
    **Answer:** T. *Why:* A, U, C and G are the letters of RNA. T is used in DNA in place of U.
 ### The Open Question (challenge) (challenge, 15 questions)
@@ -612,15 +599,14 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 3. (mcq) Some say life came to Earth from space. What is the biggest problem with this as an answer to how life began?  
    Options: Space is too dark / Meteorites are too small / It does not explain how life began out there / Nobody has looked  
    **Answer:** It does not explain how life began out there. *Why:* Even if life came from space, it still had to begin somewhere. The idea moves the question, but does not answer it.
-4. (write) In the nail test, Divya's nail in jar B rusted a little on day 3. Give one reason this might have happened.  
+4. (write) Divya, a girl in Class 4, did the nail test. Her nail in jar B rusted a little on day 3. Give one reason this might have happened.  
    **Answer:** Some air got into the water: from splashing while pouring, a gap in the oil layer, or air dissolving back in while it cooled.. *Why:* An odd result is a clue. Less oxygen still gave much less rust than in jars A and C.
-5. (mcq) Long ago, iron could stay dissolved in the sea for a very long time. Why?  
-   Options: The sea was frozen / There was almost no oxygen to make rust / Iron cannot rust in water / The iron was hidden in fish  
-   **Answer:** There was almost no oxygen to make rust. *Why:* There was almost no oxygen in the sea to turn the iron into rust.
+5. (order) Put these in order, first to last.  
+   **Answer:** ['Iron is dissolved in the sea with almost no oxygen', 'Microbes begin to make oxygen', 'The oxygen meets the iron and makes rust', 'The rust sinks and builds red layers in the rock']. *Why:* The sea had iron but no oxygen. Microbes added oxygen, which made rust. The rust settled in layers that became banded iron rock.
 6. (truefalse) All living things today use DNA, RNA and ribosomes.  
    **Answer:** True. *Why:* True. This is one of the main reasons scientists think all life shares one family.
-7. (write) If a chain of RNA could copy itself in the sea, would you call it alive? Give a reason.  
-   **Answer:** Any answer with a reason. For example: yes, because it makes copies of itself and can change. Or: no, because it has no skin and does not take in food.. *Why:* Scientists themselves disagree on where to draw the line between chemistry and life.
+7. (perspective) A chain of RNA copies itself in the sea. Is it alive?  
+   **Answer:** A strong answer picks a side and gives a reason, such as copying and change, or no skin and no food. It then admits a fair point from the other side.. *Why:* Scientists themselves disagree on where to draw the line between chemistry and life.
 8. (mcq) Why is it hard to find fossils of the very first life?  
    Options: Very few rocks that old survive, and the first life was tiny and soft / Nobody has looked / The first life was made of iron / Fossils only form in India  
    **Answer:** Very few rocks that old survive, and the first life was tiny and soft. *Why:* Very few rocks older than about 3.5 billion years survive, and the first life was tiny and soft.
@@ -629,22 +615,23 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 10. (mcq) Zita Martins and her team found uracil in the Murchison meteorite. Why does this matter?  
    Options: It proves there are aliens / It shows that an RNA letter can form without life / It shows the meteorite came from India / It shows the meteorite was alive  
    **Answer:** It shows that an RNA letter can form without life. *Why:* Uracil is one of the four letters of RNA. Finding it in a meteorite shows that RNA letters can form in space, without life.
-11. (write) Kavya says: 'Oxygen was always in the air.' What would you tell her, using the nail test and banded iron rock?  
+11. (write) Kavya, a girl in your class, says: 'Oxygen was always in the air.' What would you tell her, using the nail test and banded iron rock?  
    **Answer:** Iron rusts where oxygen reaches it. The young sea held dissolved iron without rusting, so it had little oxygen. Red rust layers in banded iron show when oxygen made by microbes arrived.. *Why:* Rocks older than about 2.4 billion years show almost no oxygen in the air.
 12. (mcq) Which of these is NOT evidence that all life is one family?  
    Options: All life uses DNA / All life uses ribosomes / All life reads the same genetic code / All life is green  
    **Answer:** All life is green. *Why:* All life using DNA, ribosomes and the same code points to one family. Being green does not: many living things are not green.
-13. (write) On a time string where 1 metre is 1 billion years, how far from the Today end are the first animals, from about 600 million years ago?  
-   **Answer:** 60 centimetres.. *Why:* 600 million is 6 tenths of a billion. 6 tenths of a metre is 60 centimetres.
+13. (mcq) Which result would make the RNA idea much stronger?  
+   Options: Finding RNA that copies itself from scratch in a lab flask / Finding a stromatolite / Finding rust on a nail / Finding DNA in a banana  
+   **Answer:** Finding RNA that copies itself from scratch in a lab flask. *Why:* The idea needs RNA that copies itself from scratch. Nobody has made that yet.
 14. (write) Ask one question about how life began that you think nobody has answered yet.  
    **Answer:** Any honest question. For example: what was the first RNA chain? Did life begin more than once?. *Why:* Open questions drive science. Good ones can be tested.
 15. (draw) Draw what you think the first cell looked like: a skin, and something inside that could be copied.  
    **Answer:** A round bubble with a thin skin and a short chain of letters inside.. *Why:* Many scientists think the first cells were fatty acid bubbles with RNA inside.
 
 ## Videos
-- **What Was The Miller-Urey Experiment?** (Stated Clearly, 6 min) id `NNijmxsKGbc`: A clear cartoon of Stanley Miller's spark experiment, and what it does and does not show about how life began. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'What Was The Miller-Urey Experiment?', channel Stated Clearly). Length not checked, and not watched from here: a parent should preview it.
-- **DNA vs RNA - Differences in Form and Function** (Stated Clearly, 6 min) id `FNynz6Q12Bw`: For the parent and curious older children: how RNA differs from DNA, and why RNA can do jobs as well as carry instructions. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'DNA vs RNA - Differences in Form and Function | Stated Clearly'). Length not checked, and not watched from here: a parent should preview it.
-- **The Great Oxidation Event (GOE)** (GEO GIRL, 10 min) id `LK6X3EGEdOY`: For the parent: a geologist explains how oxygen made by cyanobacteria built up, and how banded iron rocks record it. It goes with the nail test. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The Great Oxidation Event (GOE) | GEO GIRL', channel GEO GIRL). Length not checked, and not watched from here: a parent should preview it and decide whether it suits the child.
+- **What Was The Miller-Urey Experiment?** (Stated Clearly, 6 min) id `NNijmxsKGbc`: A clear cartoon of Stanley Miller's spark experiment, and what it does and does not show about how life began. *Check:* Watch it yourself first, then decide if it suits your child.
+- **DNA vs RNA - Differences in Form and Function** (Stated Clearly, 6 min) id `FNynz6Q12Bw`: For the parent and curious older children: how RNA differs from DNA, and why RNA can do jobs as well as carry instructions. *Check:* Watch it yourself first, then decide if it suits your child.
+- **The Great Oxidation Event (GOE)** (GEO GIRL, 10 min) id `LK6X3EGEdOY`: For the parent: a geologist explains how oxygen made by cyanobacteria built up, and how banded iron rocks record it. It goes with the nail test. *Check:* Watch it yourself first, then decide if it suits your child.
 
 ## Quiz
 1. (mcq) Every living thing comes from another living thing. Why does that make the first life a puzzle?  
@@ -653,13 +640,13 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 2. (mcq) The Earth is about 4.5 billion years old. About how old are the oldest signs of life we are fairly sure of?  
    Options: 4.5 billion years / 3.5 billion years / 600 million years / 6,000 years  
    **Answer:** 3.5 billion years. *Why:* About 3.5 billion years, from stromatolites in Western Australia. Picking 4.5 billion would mean life began the moment the Earth formed.
-3. (mcq) On a time string where 1 metre is 1 billion years, how far from the start are the oldest stromatolites, from 3.5 billion years ago?  
-   Options: 1 metre / 3.5 metres / 35 centimetres / 4 metres  
-   **Answer:** 1 metre. *Why:* 4.5 minus 3.5 is 1. So the oldest stromatolites are 1 metre from the start.
+3. (mcq) What tells us there was liquid water on the Earth about 4.4 billion years ago?  
+   Options: Tiny zircon crystals from Western Australia / Fossil fish / Stromatolites in India / Banded iron rock in Karnataka  
+   **Answer:** Tiny zircon crystals from Western Australia. *Why:* Tiny zircon crystals from Western Australia are about 4.4 billion years old, and their chemistry shows they formed with water around. There were no fish then, and stromatolites and banded iron rocks are younger.
 4. (mcq) How did microbes build stromatolites?  
    Options: They carried small stones / They ate rock / Mud settled on their mat, and they grew up through it, again and again / They froze into ice  
    **Answer:** Mud settled on their mat, and they grew up through it, again and again. *Why:* Mud settled on a mat of microbes, and the microbes grew up through it to make a new mat. Layer after layer built a dome. Picking 'carried stones' gives microbes a job they cannot do at their size.
-5. (mcq) Revathi puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?  
+5. (mcq) A girl puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?  
    Options: Both nails rusty / The open-water nail rusty, the sealed nail almost grey / The sealed nail rusty, the open-water nail grey / Both nails gone  
    **Answer:** The open-water nail rusty, the sealed nail almost grey. *Why:* The nail in open water rusts, because oxygen reaches it. The nail sealed under oil gets very little oxygen, so it stays almost grey.
 6. (mcq) What do the red stripes in banded iron rock show?  
@@ -683,9 +670,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 12. (mcq) Which is true about where life began?  
    Options: It began at sea-floor vents, for certain / It began in warm pools, for certain / It came from space, for certain / Nobody knows yet  
    **Answer:** Nobody knows yet. *Why:* Vents, warm pools and space all have supporters and evidence, but nobody knows yet.
-13. (mcq) In the banana test, white threads rose into the cold spirit. What were they?  
-   Options: Banana fibres / Soap bubbles / Mostly DNA from the banana's cells / Salt crystals  
-   **Answer:** Mostly DNA from the banana's cells. *Why:* They were mostly DNA, the chain molecule that holds the instructions in every cell, clumped together in millions of strands.
+13. (mcq) In the banana test, why do we add washing liquid?  
+   Options: To make the banana taste nice / To break open the thin skins of the cells / To make the spirit cold / To turn DNA white  
+   **Answer:** To break open the thin skins of the cells. *Why:* Washing liquid breaks the thin skins of the cells open, so the DNA comes out. Salt then helps the DNA strands clump together.
 
 ## Applications
 - Searching for life on Mars: the Perseverance rover is collecting rock samples from Jezero Crater, an old lake bed, to look for signs of ancient microbes.
@@ -702,7 +689,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - Green or black streaks on damp walls and old clay pots in the rainy season, made by cyanobacteria and algae.
 - Red, orange and grey striped rocks, used as building stone or seen on hillsides in Karnataka, Goa and Odisha, where iron ore is mined.
 - Shooting stars on a clear night. They are tiny bits of space dust burning up. Some bigger pieces land as meteorites.
-- The sea at a beach such as Marina in Chennai or Kovalam in Kerala. Life lived only in water for most of the Earth's story.
+- The sea at a beach such as Marina in Chennai, Puri in Odisha or Kovalam in Kerala. Life lived only in water for most of the Earth's story.
 - Curd setting overnight. Today, new microbes come only from living microbes.
 
 ## Open questions
@@ -715,7 +702,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **How did the genetic code, the rules for turning RNA letters into proteins, begin?** All life uses nearly the same code, but nobody knows how it first came about.
 
 ## Questions to ask kids
-- Where did you come from? And where did she come from? How far back can we go?
+- Where did you come from? Where did your mother come from? And her mother? How far back can we go?
 - Can you spot any rust today? What made it rust?
 - Every breath of oxygen was made by a living thing. Which living things near us make oxygen?
 - If the whole Earth's story was one day, what would people be? The last few seconds?
@@ -726,26 +713,19 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 
 ## Jokes
 - Why did the RNA chain bring a partner to the party? *Because A always dances with U.*
-- What did the young Earth say to the first microbe? *You're small, but you'll change everything.*
-- Why was the iron nail so grumpy? *It got rusty from all that oxygen.*
 - How do stromatolites keep their secrets? *In layers and layers.*
+- Why did the nail forget how to play cricket? *It was a bit rusty.*
 - What did C say to G? *We make a great pair.*
-- Why did the nail in the oil jar stay so calm? *Nothing could get to it.*
-- What is a microbe's favourite way to build a house? *One thin layer at a time, for a billion years.*
-- Why did the RNA chain cry after copying? *It made a mistake, and now there were two of them.*
-- What did the banana say to the spirit? *Stop pulling my threads.*
+- What did the banana say to the spirit? *Please stop pulling my threads.*
 - Why don't stromatolites ever hurry? *They've had 3.5 billion years of practice at waiting.*
-- What did the scientist say when asked how life began? *Nobody knows yet, and that's the exciting part.*
-- Why did the oxygen go to the sea? *To meet some iron and get a little rusty.*
-- How does a cyanobacterium say good morning? *With a puff of fresh oxygen.*
-- Why was the time string so humble? *Because people only took up the very last dot.*
 - What did the first cell say to its skin? *Thanks for holding me together.*
+- How does a cyanobacterium say good morning? *With a puff of fresh oxygen.*
 
 ## Connected maths
 - On the time string, 1 metre stands for 1 billion years. The oldest stromatolites are from 3.5 billion years ago. How far from the Today end do they go? **3 metres and 50 centimetres.**. Each billion years is 1 metre. So 3.5 billion years is 3.5 metres. 0.5 of a metre is 50 centimetres. So it is 3 metres and 50 centimetres from the Today end. That is 1 metre from the start, because 4.5 minus 3.5 is 1. (queues `math.length.standard-units-length.L3`)
 - On the time string, 1 centimetre stands for 10 million years. Dinosaurs died out 66 million years ago. About how far from the Today end should that label go? Is it nearer 6 cm or 7 cm? **About 6.6 centimetres, a little nearer 7 cm.**. 66 million years is 6 lots of 10 million, and 6 million more. 6 lots make 6 cm. 6 million is 6 tenths of 10 million, so it is about 6 tenths of a centimetre more. 6.6 cm is nearer 7 than 6. (queues `math.measurement-basics.scale-models.L4`)
 - You make the 4.5 metre time string from newspaper strips, each 50 centimetres long. How many strips do you need? **9 strips.**. Two strips of 50 cm make 1 metre. 4 metres need 4 lots of 2, which is 8 strips. Half a metre more needs 1 more strip. 8 plus 1 is 9. (queues `math.division.sharing-and-grouping.L3`)
-- Meenakshi counted rust spots on her nails after 2 days. The nail in open tap water had 10 spots. The nail in salty water had 30. The nail under oil had 1. How many times as many spots did the salty-water nail have as the tap-water nail? What does this tell you? **3 times as many. Salt makes iron rust faster.**. 30 divided by 10 is 3, so the salty-water nail had 3 times as many spots. Both nails had air and water. The only difference was salt, so salt made the rust form faster. The nail under oil had far fewer spots than either, because little oxygen reached it. (queues `math.division.sharing-and-grouping.L3`)
+- Meenakshi, a girl in Class 4, counted rust spots on her nails after 2 days. The nail in open tap water had 10 spots. The nail in salty water had 30. The nail under oil had 1. How many times as many spots did the salty-water nail have as the tap-water nail? What does this tell you? **3 times as many. Salt makes iron rust faster.**. 30 divided by 10 is 3, so the salty-water nail had 3 times as many spots. Both nails had air and water. The only difference was salt, so salt made the rust form faster. The nail under oil had far fewer spots than either, because little oxygen reached it. (queues `math.division.sharing-and-grouping.L3`)
 - Imagine one RNA chain that makes one copy of itself every hour, and every copy does the same. Start with 1 chain. How many chains are there after 5 hours? **32 chains.**. The number doubles every hour: 1, 2, 4, 8, 16, 32. After 1 hour there are 2, and after 5 hours there are 32. Doubling grows very fast. After 10 hours there would be 1,024. (queues `math.patterns.number-patterns.L3`)
 
 ## Song
@@ -765,7 +745,7 @@ A with U, C with G (sci.evolution.L3): Topic-level song for Evolution L3
 - [Plain iron nails, about 5 cm, not shiny galvanised ones](https://www.amazon.in/s?k=iron+wire+nails+2+inch) (material): Plain iron nails rust within a day or two, so the nail test shows a clear result. A hardware shop sells them loose for a few rupees. Used in e1, c1. 
 - [Surgical spirit or rubbing alcohol, a small bottle](https://www.amazon.in/s?k=surgical+spirit) (material): Needed for the banana DNA test. Sold at medical shops. Keep it away from flames and children. Used in e2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the green living film closely. A phone camera zoomed in also works. Used in a5. 
-- [The Story of Life: A First Book about Evolution, by Catherine Barr and Steve Williams, illustrated by Amy Husband](https://www.amazon.in/s?k=The+Story+of+Life+Catherine+Barr) (book): A picture book that tells the story of life from the first cells to today, for ages 5 to 8. Used in p1. Read it before day 2 of the picture book project, and compare its pages with your own.
+- [The Story of Life: A First Book about Evolution, by Catherine Barr and Steve Williams, illustrated by Amy Husband](https://www.amazon.in/s?k=The+Story+of+Life+Catherine+Barr) (book): A picture book that tells the story of life from the first cells to today, for ages 5 to 8. Used in p1. 
 
 ## Warm-up
 - How old is the Earth? → About 4.5 billion years.

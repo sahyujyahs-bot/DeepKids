@@ -127,7 +127,7 @@
   },
   {
    "term": "Ancestor",
-   "meaning": "A living being that someone came from, long ago. Your grandmothers and great-grandmothers are your ancestors.",
+   "meaning": "A living being that someone came from, long ago. Your grandparents and great-grandparents are your ancestors.",
    "example": "All living things today share very old ancestors: the first cells.",
    "art": "A family tree drawn as a banyan tree, with a small round cell at the bottom of the trunk."
   }
@@ -309,7 +309,7 @@
     "A bacterium's ribosome and your ribosome are built in a very similar way."
    ],
    "perspectives": [],
-   "art": "A huge family tree with bacteria, mushrooms, plants, birds, fish and people on its branches, all growing from one small trunk with a round cell at its root.",
+   "art": "A huge family tree with bacteria, mushrooms, plants, birds, fish and people on the branches, all growing from one small trunk with a round cell at the root.",
    "context": "This card is about why scientists say all life is one family."
   }
  ],
@@ -475,10 +475,46 @@
      "kind": "cards",
      "title": "40 letter cards",
      "items": [
-      "10 cards of A",
-      "10 cards of U",
-      "10 cards of C",
-      "10 cards of G"
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "U",
+      "U",
+      "U",
+      "U",
+      "U",
+      "U",
+      "U",
+      "U",
+      "U",
+      "U",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "G",
+      "G",
+      "G",
+      "G",
+      "G",
+      "G",
+      "G",
+      "G",
+      "G",
+      "G"
      ]
     },
     {
@@ -495,10 +531,11 @@
     }
    ],
    "rules": [
-    "Shuffle the letter cards and put them face down in a pile.",
+    "Shuffle the 40 letter cards and put them face down in a pile.",
     "Each player takes one chain card and lays it face up.",
-    "On your turn, take the top letter card. If it is the partner of your next letter, lay it under that letter. If not, put it on a discard pile.",
+    "On your turn, turn over the top letter card. If it is the partner of a letter in your chain that has no partner yet, lay it under that letter. If not, put it face up on a discard pile.",
     "A pairs with U. C pairs with G.",
+    "If the pile runs out, shuffle the discard pile and turn it over to make a new pile.",
     "The first player to finish the whole partner chain wins.",
     "Playing alone: time yourself. Try to beat your time with a new chain card."
    ],
@@ -514,27 +551,16 @@
      "id": "s2",
      "mins": 10,
      "do": "Play until someone finishes their partner chain.",
-     "say": "Remember: A goes with U, C goes with G. You can only place the partner of your next letter.",
-     "kid": "Take a card. Is it the partner of your next letter? Place it. If not, throw it away.",
-     "parent": "If the pile runs out, shuffle the discards and use them again. This is a little like RNA letters floating in the sea, waiting to be picked up."
+     "say": "Remember: A goes with U, C goes with G. You can place a card under any letter that has no partner yet.",
+     "kid": "Turn over a card. Is it the partner of a letter in your chain with no partner yet? Place it. If not, put it in the discard pile.",
+     "parent": "This is a little like RNA letters floating in the sea, waiting to be picked up. When the pile runs out, shuffle the discards and use them again."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "After the game, check every partner chain together.",
      "say": "Let's check each chain. Did anyone place a wrong partner?",
-     "kid": "Check your partner chain. Is every pair right?",
-     "check": {
-      "t": "mcq",
-      "q": "In Copy Race, Lakshmi's chain starts G G C. Which cards does she need for her partner chain, in order?",
-      "options": [
-       "G G C",
-       "C C G",
-       "U U A"
-      ],
-      "a": 1,
-      "why": "G pairs with C, and C pairs with G. So G G C needs C C G. Picking U U A mixes up the rules: U is the partner of A, not of G."
-     }
+     "kid": "Check your partner chain. Is every pair right?"
     }
    ],
    "setup": [
@@ -563,40 +589,62 @@
      "kind": "cards",
      "title": "10 event cards",
      "items": [
-      "The Earth forms (4.5 billion years ago)",
-      "The first oceans (about 4.4 billion years ago)",
-      "The oldest stromatolites (about 3.5 billion years ago)",
-      "Oxygen starts to fill the air (about 2.4 billion years ago)",
-      "Stromatolites grow at Vempalle, in India (about 2 billion years ago)",
-      "The first animals (about 600 million years ago)",
-      "The first land plants (about 470 million years ago)",
-      "Dinosaurs die out (66 million years ago)",
-      "The first people like us (about 300,000 years ago)",
-      "Wöhler makes urea (1828)"
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "Score sheet",
-     "items": [
-      "Player name",
-      "Cards placed right",
-      "Cards placed wrong"
+      {
+       "f": "The Earth forms",
+       "b": "The Earth forms: 4.5 billion years ago"
+      },
+      {
+       "f": "The first oceans",
+       "b": "The first oceans: about 4.4 billion years ago"
+      },
+      {
+       "f": "The oldest stromatolites",
+       "b": "The oldest stromatolites: about 3.5 billion years ago"
+      },
+      {
+       "f": "Oxygen starts to fill the air",
+       "b": "Oxygen starts to fill the air: about 2.4 billion years ago"
+      },
+      {
+       "f": "Stromatolites grow at Vempalle, in India",
+       "b": "Stromatolites grow at Vempalle, in India: about 2 billion years ago"
+      },
+      {
+       "f": "The first animals",
+       "b": "The first animals: about 600 million years ago"
+      },
+      {
+       "f": "The first land plants",
+       "b": "The first land plants: about 470 million years ago"
+      },
+      {
+       "f": "Dinosaurs die out",
+       "b": "Dinosaurs die out: 66 million years ago"
+      },
+      {
+       "f": "The first people like us",
+       "b": "The first people like us: about 300,000 years ago"
+      },
+      {
+       "f": "Wöhler makes urea in a lab",
+       "b": "Wöhler makes urea in a lab: 1828, about 200 years ago"
+      }
      ]
     }
    ],
    "rules": [
-    "Put 'The Earth forms' at the start of the line, face up.",
-    "Shuffle the other cards with their dates covered, and deal them out.",
-    "On your turn, place one card on the line where you think it goes, then show its date.",
-    "If it is in the right place, score a point. If not, move it to the right place.",
-    "Playing alone: place all the cards, then check the dates and count how many you got right."
+    "Put 'The Earth forms' on the table with its date side up. This is the start of the line.",
+    "Shuffle the other 9 cards with the event side up, and deal them out one at a time. Grown-ups take any extra cards.",
+    "On your turn, place one of your cards in the line, where you think it goes. Then turn it over to read its date.",
+    "If its date fits in order with the dates already on the line, score one point. If not, move it to the right place and score nothing.",
+    "When every card is placed, the player with the most points wins. Keep score on a scrap of paper.",
+    "Playing alone: place all 9 cards, turning each one over after you place it. Count how many you placed right the first time."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Cover the dates on the cards with a strip of paper. Put 'The Earth forms' down first.",
+     "do": "Put 'The Earth forms' on the table with its date side up. Shuffle the other cards with the event side up and deal them out.",
      "say": "These cards are events in the story of life. We have to put them in order, oldest first.",
      "kid": "These are events in the story of life. Put them in order, oldest first."
     },
@@ -605,7 +653,7 @@
      "mins": 10,
      "do": "Take turns placing cards and checking the dates.",
      "say": "Where does this one go? Before or after the stromatolites?",
-     "kid": "Place your card. Before or after the others? Then check its date.",
+     "kid": "Place your card in the line. Is it before or after the others? Then turn it over and read its date.",
      "parent": "The hardest ones are usually oxygen and animals. Many children put animals much earlier than they came. That surprise is the point."
     },
     {
@@ -616,7 +664,7 @@
      "kid": "Count your points. What surprised you most?",
      "check": {
       "t": "mcq",
-      "q": "Which came first?",
+      "q": "In the story of life, which of these came first?",
       "options": [
        "The first animals",
        "Oxygen starts to fill the air",
@@ -633,8 +681,8 @@
      "caption": "1. Start with 'The Earth forms'. Place each card in order."
     },
     {
-     "art": "A card being turned over to show its date, with a score sheet beside it.",
-     "caption": "2. Show the date. Right place, one point."
+     "art": "A card being turned over to show its date, with a line of cards beside it.",
+     "caption": "2. Turn the card over to read its date. Right place, one point."
     }
    ]
   }
@@ -643,7 +691,7 @@
   {
    "id": "e1",
    "title": "The Rusting Nails: what did the first oxygen do to the sea?",
-   "mins": 30,
+   "mins": 35,
    "days": 3,
    "context": "In this experiment you put iron nails in three jars of water. In one jar, you keep oxygen away from the nail. Over three days you find out what oxygen does to iron, the way the first oxygen made by microbes did to the iron in the young sea.",
    "question": "Does an iron nail in water rust when very little oxygen can reach it?",
@@ -702,8 +750,8 @@
     },
     {
      "day": 3,
-     "mins": 5,
-     "what": "Look again, take the nails out, and say what you found."
+     "mins": 10,
+     "what": "Look again, take the nails out, compare them and say what you found."
     }
    ],
    "record": "Fill in the table each time you look. Draw each nail on day 3, colouring any rust orange.",
@@ -881,7 +929,7 @@
     },
     {
      "item": "surgical spirit or rubbing alcohol from a medical shop, chilled in the freezer for 30 minutes",
-     "qty": "half a cup",
+     "qty": "three-quarters of a cup",
      "buy": "b-spirit"
     },
     {
@@ -922,15 +970,15 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Mix 1 cup warm water, 2 teaspoons salt and 4 teaspoons washing liquid. Stir gently, without making foam. 2. Mash the banana in one bag and the peas in another, with 2 spoons of the mix each, for 2 minutes.",
+     "do": "1. Mix 1 cup warm water, 2 teaspoons salt and 4 teaspoons washing liquid. Stir gently, without making foam. 2. Mash the banana in one bag and the peas in another, each with 1 tablespoon of the mix, for 2 minutes.",
      "say": "Mashing breaks the cells apart. The washing liquid breaks their thin skins. Salt helps the long DNA strands clump together, so we can see them.",
      "kid": "Mash the banana well. Mash the peas well. You are breaking open millions of cells.",
-     "parent": "Keep the third portion of the mix with no food in it. That glass is the control. It shows what happens with no cells at all."
+     "parent": "Keep the rest of the mix. The glass with no food gets plain mix only. That glass is the control. It shows what happens with no cells at all."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Add 4 more spoons of the mix to each bag. Squish gently for 1 minute. 2. Strain each one into its own glass, about a quarter full. 3. Pour the same amount of plain mix into the third glass.",
+     "do": "1. Add 2 more tablespoons of the mix to each bag. Squish gently for 1 minute. 2. Strain each one into its own glass, about a quarter full. 3. Pour 3 tablespoons of plain mix, with no food in it, into the third glass.",
      "say": "Now we strain out the lumps. The DNA is in the runny liquid now.",
      "kid": "Strain each mash into its own glass. Pour plain mix into the third glass."
     },
@@ -949,7 +997,7 @@
      "do": "1. Wait 3 to 5 minutes. 2. Look where the two layers meet. 3. Gently twirl the toothpick there in each glass.",
      "say": "Look where the two layers meet. Can you see anything white and cloudy rising up?",
      "kid": "Wait and watch where the layers meet. See white threads? Twirl the toothpick there.",
-     "parent": "White, cloudy, stringy stuff rises into the spirit layer in the banana and pea glasses. It winds onto the toothpick like wet cotton. The glass with no food stays clear. If you see little, the spirit may not be cold enough, or there may be too much liquid. Try again with less liquid and colder spirit.",
+     "parent": "White, cloudy, stringy stuff rises into the spirit layer in the banana and pea glasses. It winds onto the toothpick like wet cotton. The glass with no food stays clear, though it may show a few soap bubbles. If you see little, the spirit may not be cold enough, or there may be too much liquid. Try again with less liquid and colder spirit.",
      "check": {
       "t": "mcq",
       "q": "The glass with no food stayed clear. The banana and pea glasses made white threads. What does this show?",
@@ -1004,7 +1052,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1017,7 +1064,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother, then her mother.",
+     "do": "1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother (or a mother they picture), then her mother.",
      "say": "Draw yourself at this end. Who did you come from? Draw her next to you. And who did she come from?",
      "kid": "Draw yourself at the right end. Draw your mother next to you. Then her mother."
     },
@@ -1040,7 +1087,7 @@
    ],
    "setup": [
     {
-     "art": "A long paper strip with a child drawn at the right end and her mother and grandmother drawn to the left.",
+     "art": "A long paper strip with a child drawn at the right end and a mother and grandmother drawn to the left.",
      "caption": "1. Draw yourself, your mother and her mother."
     },
     {
@@ -1069,7 +1116,6 @@
      "qty": 8
     }
    ],
-   "safety": "Lay the string along the floor where nobody will trip on it.",
    "schedule": [
     {
      "day": 1,
@@ -1145,7 +1191,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1190,9 +1235,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Now make the partner of the partner chain, under it. Compare it with the first chain.",
-     "say": "Now make a partner for the partner. What do you notice when you compare it with your first chain?",
-     "kid": "Make a partner for the partner chain. Look at your first chain. What do you see?",
+     "do": "Now write the partner of the partner chain on paper, letter by letter, under the partner chain. Compare it with the first chain.",
+     "say": "Now write a partner for the partner. What do you notice when you compare it with your first chain?",
+     "kid": "Write a partner for the partner chain. Look at your first chain. What do you see?",
      "parent": "The third chain matches the first exactly. That is how a chain can be copied: partner, then partner again. In cells, proteins help with this copying. In the RNA idea, the first RNA chains copied themselves with help only from chemicals around them, and maybe from other RNA."
     }
    ],
@@ -1202,8 +1247,8 @@
      "caption": "1. Make letter cards and write the pairing rule."
     },
     {
-     "art": "Three rows of letter cards one under another: A C G U A G, then U G C A U C, then A C G U A G.",
-     "caption": "2. Build the partner, then the partner's partner."
+     "art": "Two rows of letter cards, A C G U A G and under it U G C A U C, and a third row A C G U A G written in pencil under them.",
+     "caption": "2. Build the partner with cards, then write the partner's partner."
     }
    ]
   },
@@ -1223,7 +1268,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1256,7 +1300,7 @@
      "kid": "Circle every letter that changed. Did a mistake stay in the copies after it?",
      "check": {
       "t": "mcq",
-      "q": "In the copying game, a mistake in copy 3 was still there in copies 4 to 8. Why?",
+      "q": "In a copying game, a mistake is made in copy 3. Why does it show up in copies 4 to 8 too?",
       "options": [
        "Each copy was made from the copy before, so the mistake was copied too",
        "The pencil was blunt",
@@ -1296,7 +1340,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Look, don't lick. Wash hands after touching. Stay away from roads and deep drains.",
+   "safety": "Wash hands after touching the film. Stay away from roads and deep drains.",
    "schedule": [
     {
      "day": 1,
@@ -1311,8 +1355,8 @@
      "mins": 4,
      "do": "Look for a green or black slimy film on a damp wall, the outside of a clay pot, or a balcony drain.",
      "say": "This green film is made of millions of tiny living things. Some of them make oxygen, like the microbes that built the oldest rocks.",
-     "kid": "Look for a green or black film on something damp. It is millions of tiny living things.",
-     "parent": "In the monsoon this is easy to find, especially on north-facing walls and old pots. In a dry season, look near a dripping tap or AC outlet. If you cannot find one, look at photos of Shark Bay stromatolites instead."
+     "kid": "Look for a green or black film on something damp. The film is made of millions of tiny living things.",
+     "parent": "In the monsoon this is easy to find, especially on north-facing walls and old pots. In a dry season, look near a dripping tap or AC outlet. If you cannot find one, look at the photos on the Stromatolite page listed under Links."
     },
     {
      "id": "s2",
@@ -1357,7 +1401,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1407,7 +1450,7 @@
      "caption": "1. Three ideas, one sheet each, with the evidence."
     },
     {
-     "art": "A girl standing and arguing, with her mother listening and holding up a finger to answer.",
+     "art": "A girl standing and arguing, with a parent listening and holding up a finger to answer.",
      "caption": "2. Argue for an idea, then against it."
     }
    ]
@@ -1422,7 +1465,7 @@
    "context": "In this 3-day project you make a short picture book in which RNA tells the story of life, from the young sea to you. It has to be true, and where nobody knows, it has to say so.",
    "materials": [
     {
-     "item": "4 sheets of paper folded in half and stapled, to make an 8-page book",
+     "item": "4 sheets of paper folded in half and stapled, to make a book with a cover and 7 pages",
      "qty": 4
     },
     {
@@ -1435,7 +1478,6 @@
      "buy": "b-book"
     }
    ],
-   "safety": "A grown-up does the stapling.",
    "schedule": [
     {
      "day": 1,
@@ -1494,14 +1536,14 @@
    "setup": [
     {
      "art": "Four sheets folded and stapled into a small book, with a pencil and crayons beside it.",
-     "caption": "1. Make an 8-page book."
+     "caption": "1. Make a small book."
     },
     {
      "art": "An open page showing a wiggly RNA strand with a smiling face and a speech bubble, in a blue sea.",
      "caption": "2. Draw each page, with RNA telling the story."
     },
     {
-     "art": "A child reading her book aloud to her grandmother and brother on a sofa.",
+     "art": "A child reading her book aloud to her family on a sofa.",
      "caption": "3. Read it aloud to your family."
     }
    ]
@@ -1517,7 +1559,8 @@
    "constraints": [
     "The nail must sit in open tap water, with no lid and no oil layer on the water.",
     "Use only things from home.",
-    "Put an untreated nail in another jar beside it, so you can compare."
+    "Put an untreated nail in another jar beside it, so you can compare.",
+    "Both glasses get the same amount of tap water and stand side by side."
    ],
    "materials": [
     "2 plain iron nails",
@@ -1530,7 +1573,7 @@
     "Dip it in melted candle wax, with a grown-up."
    ],
    "creative": [
-    "Wrap the nail tightly in a strip of aluminium foil. Aluminium may protect the iron, a little like the zinc coat on shiny nails.",
+    "Wrap the nail tightly in a strip of aluminium foil to keep water off the iron. This is a test, and it may not work.",
     "Rub the nail with a crayon until it is covered in wax.",
     "Test which coating lasts longest when you rub the nail a little each day."
    ],
@@ -1558,7 +1601,7 @@
      "do": "1. Coat one nail with the best idea. 2. Put it in a glass of tap water. 3. Put an uncoated nail in another glass beside it. 4. Check over three days.",
      "say": "Now test it. We'll compare your coated nail with a plain one.",
      "kid": "Coat one nail. Put both nails in water. Check them for three days.",
-     "parent": "Melted wax needs a grown-up and a low flame or a candle. Nail polish and petroleum jelly are easiest."
+     "parent": "Melting wax needs a flame or hot water, so a grown-up does that part. Nail polish and petroleum jelly are easiest and need no flame."
     },
     {
      "id": "s4",
@@ -1594,8 +1637,7 @@
    "materials": [
     "paper and pencil",
     "a timer",
-    "letter cards from the Copy the Chain activity",
-    "a family member as a helper"
+    "a helper, such as a parent or an older child"
    ],
    "general": [
     "Copy in groups of 4 letters at a time, so you don't lose your place.",
@@ -1612,7 +1654,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Write a 20-letter chain. Copy it five times fast, with no method, and count the mistakes.",
+     "do": "Write a 20-letter chain of A, U, C and G, in any order. Copy it five times fast, with no method, and count the mistakes.",
      "say": "First, let's see how many mistakes we make with no method at all.",
      "kid": "Copy the chain five times, fast. Count the mistakes in the last copy."
     },
@@ -1626,7 +1668,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Try the best idea. Copy five times again and count the mistakes.",
+     "do": "Try the best idea. Copy the same 20-letter chain five times again, on a fresh sheet, and count the mistakes.",
      "say": "Test your best idea. Did you make fewer mistakes this time?",
      "kid": "Try your best idea. Copy five times. Count the mistakes again.",
      "parent": "Checking each copy against the one above usually cuts mistakes the most. Living cells do this too: some of their copying proteins check and fix mistakes."
@@ -1646,7 +1688,7 @@
      "caption": "1. Copy fast, five times. Count the mistakes."
     },
     {
-     "art": "A girl copying while her father checks each line with a ruler.",
+     "art": "A girl copying while a grown-up checks each line with a ruler.",
      "caption": "2. Add a checker. Count again."
     }
    ]
@@ -1659,7 +1701,7 @@
    "youtube": "NNijmxsKGbc",
    "mins": 6,
    "why": "A clear cartoon of Stanley Miller's spark experiment, and what it does and does not show about how life began.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'What Was The Miller-Urey Experiment?', channel Stated Clearly). Length not checked, and not watched from here: a parent should preview it."
+   "check": "Watch it yourself first, then decide if it suits your child."
   },
   {
    "title": "DNA vs RNA - Differences in Form and Function",
@@ -1667,7 +1709,7 @@
    "youtube": "FNynz6Q12Bw",
    "mins": 6,
    "why": "For the parent and curious older children: how RNA differs from DNA, and why RNA can do jobs as well as carry instructions.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'DNA vs RNA - Differences in Form and Function | Stated Clearly'). Length not checked, and not watched from here: a parent should preview it."
+   "check": "Watch it yourself first, then decide if it suits your child."
   },
   {
    "title": "The Great Oxidation Event (GOE)",
@@ -1675,7 +1717,7 @@
    "youtube": "LK6X3EGEdOY",
    "mins": 10,
    "why": "For the parent: a geologist explains how oxygen made by cyanobacteria built up, and how banded iron rocks record it. It goes with the nail test.",
-   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The Great Oxidation Event (GOE) | GEO GIRL', channel GEO GIRL). Length not checked, and not watched from here: a parent should preview it and decide whether it suits the child."
+   "check": "Watch it yourself first, then decide if it suits your child."
   }
  ],
  "quiz": [
@@ -1707,17 +1749,16 @@
   },
   {
    "t": "mcq",
-   "p": "On a time string where 1 metre is 1 billion years, how far from the start are the oldest stromatolites, from 3.5 billion years ago?",
+   "p": "What tells us there was liquid water on the Earth about 4.4 billion years ago?",
    "a": 0,
-   "why": "4.5 minus 3.5 is 1. So the oldest stromatolites are 1 metre from the start.",
+   "why": "Tiny zircon crystals from Western Australia are about 4.4 billion years old, and their chemistry shows they formed with water around. There were no fish then, and stromatolites and banded iron rocks are younger.",
    "opts": [
-    "1 metre",
-    "3.5 metres",
-    "35 centimetres",
-    "4 metres"
+    "Tiny zircon crystals from Western Australia",
+    "Fossil fish",
+    "Stromatolites in India",
+    "Banded iron rock in Karnataka"
    ],
-   "outcome": 1,
-   "how": "a2"
+   "outcome": 1
   },
   {
    "t": "mcq",
@@ -1734,7 +1775,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?",
+   "p": "A girl puts an iron nail in boiled water, pours oil on top and closes the lid. Another nail sits in open tap water. After three days, what will she most likely see?",
    "a": 1,
    "why": "The nail in open water rusts, because oxygen reaches it. The nail sealed under oil gets very little oxygen, so it stays almost grey.",
    "opts": [
@@ -1840,14 +1881,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the banana test, white threads rose into the cold spirit. What were they?",
-   "a": 2,
-   "why": "They were mostly DNA, the chain molecule that holds the instructions in every cell, clumped together in millions of strands.",
+   "p": "In the banana test, why do we add washing liquid?",
+   "a": 1,
+   "why": "Washing liquid breaks the thin skins of the cells open, so the DNA comes out. Salt then helps the DNA strands clump together.",
    "opts": [
-    "Banana fibres",
-    "Soap bubbles",
-    "Mostly DNA from the banana's cells",
-    "Salt crystals"
+    "To make the banana taste nice",
+    "To break open the thin skins of the cells",
+    "To make the spirit cold",
+    "To turn DNA white"
    ],
    "outcome": 4,
    "how": "e2"
@@ -1902,18 +1943,13 @@
      "a": [
       "stromatolite"
      ],
-     "why": "Stromatolites grow as microbe mats trap mud and grow up through it, layer after layer."
+     "why": "Stromatolites grow as microbe mats trap mud and grow up through the mud, layer after layer."
     },
     {
-     "t": "mcq",
-     "p": "In the nail test, which nail stayed grey the longest?",
-     "a": 1,
-     "why": "The nail in boiled water under oil got very little oxygen, so it hardly rusted. The salty water nail rusted fastest.",
-     "opts": [
-      "The nail in open tap water",
-      "The nail in boiled water under oil",
-      "The nail in open salty water"
-     ],
+     "t": "write",
+     "p": "In the nail test, why did we keep one nail in plain tap water, with nothing done to it?",
+     "a": "It is the nail to compare with. Without it we could not tell whether boiling, oil or salt changed anything.",
+     "why": "A fair test needs one thing left alone to compare with.",
      "how": "e1"
     },
     {
@@ -1955,10 +1991,10 @@
     },
     {
      "t": "write",
-     "p": "A chain reads A A C G. Write its partner chain.",
-     "a": "U U G C",
-     "why": "A pairs with U, and C pairs with G. So A A C G has the partner U U G C.",
-     "how": "a3"
+     "p": "A friend says: 'A nail rusts because it gets old.' Using the nail test, what would you say?",
+     "a": "The nail under oil stayed grey as long as the others sat in air, so age is not the cause. Rust needs oxygen to reach the iron, and water helps.",
+     "why": "The test changed only the oxygen, so oxygen explains the rust.",
+     "how": "e1"
     },
     {
      "t": "mcq",
@@ -2056,28 +2092,16 @@
    "mins": 20,
    "items": [
     {
-     "t": "mcq",
-     "p": "Stanley Miller filled a flask with water and gases and made sparks in it for a week. What did he find?",
-     "a": 1,
-     "why": "He found amino acids, the building blocks of proteins. This showed they can form without living things.",
-     "opts": [
-      "Tiny living cells",
-      "Amino acids",
-      "Gold",
-      "Nothing at all"
-     ]
+     "t": "draw",
+     "p": "Draw Stanley Miller's flask. Label the gases, the water, the spark and the brown water at the end of the week.",
+     "a": "A glass flask with water and the gases methane, ammonia and hydrogen, two metal points with a spark between them, and brown water at the end with amino acids in it.",
+     "why": "Everything in the flask was non-living, yet amino acids formed."
     },
     {
-     "t": "mcq",
-     "p": "Before 1828, many chemists believed the chemicals of living bodies could be made only by...",
-     "a": 0,
-     "why": "They believed only living things, with a 'life force', could make them. Wöhler made urea from non-living chemicals and showed this was wrong.",
-     "opts": [
-      "living things",
-      "the Sun",
-      "machines",
-      "lightning"
-     ]
+     "t": "write",
+     "p": "Miller used no living thing in his flask. Why does that matter for the question of how life began?",
+     "a": "It shows that building blocks of life, amino acids, can form from simple chemicals without life. So the first life did not need living things to make its chemicals.",
+     "why": "It does not show how life began, only that one step does not need life."
     },
     {
      "t": "fill",
@@ -2106,16 +2130,10 @@
      "why": "False. Scientists have made parts of it work, such as RNA that copies other RNA, but not RNA that copies itself from scratch."
     },
     {
-     "t": "mcq",
-     "p": "In the banana test, the glass with no food stayed clear. Why was that glass useful?",
-     "a": 1,
-     "why": "It is the control. It showed that the threads came from the cells, not from the salt, washing liquid or spirit.",
-     "opts": [
-      "It made the banana taste better",
-      "It showed the threads came from the cells, not the other things",
-      "It was a spare glass"
-     ],
-     "how": "e2"
+     "t": "truefalse",
+     "p": "In the banana test, the glass with no food should show no white threads.",
+     "a": true,
+     "why": "True. It has the same salt, washing liquid and spirit, so any threads in the other glasses come from the cells."
     },
     {
      "t": "write",
@@ -2176,22 +2194,18 @@
     },
     {
      "t": "write",
-     "p": "Copy this chain twice by partners: G U U A. What is the second copy?",
-     "a": "G U U A",
-     "why": "The first partner is C A A U. Its partner is G U U A, the same as the start.",
-     "how": "a3"
+     "p": "A copy of a chain has one wrong letter. What happens to the copies made from it, and how could that lead to new kinds?",
+     "a": "Every later copy carries the wrong letter. If the change helps the chain last or copy, those copies become more common, and slowly new kinds appear.",
+     "why": "Changes pass on from copy to copy, which is how one kind slowly becomes many.",
+     "how": "a4"
     },
     {
-     "t": "mcq",
-     "p": "In the copy-mistakes activity, why did a mistake carry on into all the later copies?",
-     "a": 0,
-     "why": "Each copy was made from the one before, so a change was passed on.",
-     "opts": [
-      "Each copy was made from the one before",
-      "The timer was wrong",
-      "The letters were too small"
+     "t": "fill",
+     "p": "A change in a copied chain, such as a wrong letter, is called a ____.",
+     "a": [
+      "mutation"
      ],
-     "how": "a4"
+     "why": "Mutations pass on to later copies."
     },
     {
      "t": "odd",
@@ -2233,21 +2247,26 @@
     },
     {
      "t": "write",
-     "p": "In the nail test, Divya's nail in jar B rusted a little on day 3. Give one reason this might have happened.",
+     "p": "Divya, a girl in Class 4, did the nail test. Her nail in jar B rusted a little on day 3. Give one reason this might have happened.",
      "a": "Some air got into the water: from splashing while pouring, a gap in the oil layer, or air dissolving back in while it cooled.",
      "why": "An odd result is a clue. Less oxygen still gave much less rust than in jars A and C.",
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Long ago, iron could stay dissolved in the sea for a very long time. Why?",
-     "a": 1,
-     "why": "There was almost no oxygen in the sea to turn the iron into rust.",
-     "opts": [
-      "The sea was frozen",
-      "There was almost no oxygen to make rust",
-      "Iron cannot rust in water",
-      "The iron was hidden in fish"
+     "t": "order",
+     "p": "Put these in order, first to last.",
+     "a": [
+      "Iron is dissolved in the sea with almost no oxygen",
+      "Microbes begin to make oxygen",
+      "The oxygen meets the iron and makes rust",
+      "The rust sinks and builds red layers in the rock"
+     ],
+     "why": "The sea had iron but no oxygen. Microbes added oxygen, which made rust. The rust settled in layers that became banded iron rock.",
+     "items": [
+      "The oxygen meets the iron and makes rust",
+      "Iron is dissolved in the sea with almost no oxygen",
+      "The rust sinks and builds red layers in the rock",
+      "Microbes begin to make oxygen"
      ]
     },
     {
@@ -2257,9 +2276,21 @@
      "why": "True. This is one of the main reasons scientists think all life shares one family."
     },
     {
-     "t": "write",
-     "p": "If a chain of RNA could copy itself in the sea, would you call it alive? Give a reason.",
-     "a": "Any answer with a reason. For example: yes, because it makes copies of itself and can change. Or: no, because it has no skin and does not take in food.",
+     "t": "perspective",
+     "p": "A chain of RNA copies itself in the sea. Is it alive?",
+     "views": [
+      {
+       "who": "A scientist who says yes",
+       "says": "It makes copies of itself, and its copies can change and become better at copying. Those are things living things do."
+      },
+      {
+       "who": "A scientist who says no",
+       "says": "It has no skin, takes in no food and uses no energy. Copying alone is not enough to call it alive."
+      }
+     ],
+     "ask": "Which view do you agree with more? Give a reason. Then say one thing the other scientist has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives a reason, such as copying and change, or no skin and no food. It then admits a fair point from the other side.",
      "why": "Scientists themselves disagree on where to draw the line between chemistry and life."
     },
     {
@@ -2294,7 +2325,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya says: 'Oxygen was always in the air.' What would you tell her, using the nail test and banded iron rock?",
+     "p": "Kavya, a girl in your class, says: 'Oxygen was always in the air.' What would you tell her, using the nail test and banded iron rock?",
      "a": "Iron rusts where oxygen reaches it. The young sea held dissolved iron without rusting, so it had little oxygen. Red rust layers in banded iron show when oxygen made by microbes arrived.",
      "why": "Rocks older than about 2.4 billion years show almost no oxygen in the air."
     },
@@ -2311,11 +2342,16 @@
      ]
     },
     {
-     "t": "write",
-     "p": "On a time string where 1 metre is 1 billion years, how far from the Today end are the first animals, from about 600 million years ago?",
-     "a": "60 centimetres.",
-     "why": "600 million is 6 tenths of a billion. 6 tenths of a metre is 60 centimetres.",
-     "how": "a2"
+     "t": "mcq",
+     "p": "Which result would make the RNA idea much stronger?",
+     "a": 0,
+     "why": "The idea needs RNA that copies itself from scratch. Nobody has made that yet.",
+     "opts": [
+      "Finding RNA that copies itself from scratch in a lab flask",
+      "Finding a stromatolite",
+      "Finding rust on a nail",
+      "Finding DNA in a banana"
+     ]
     },
     {
      "t": "write",
@@ -2360,7 +2396,7 @@
    "art": "A night sky over a terrace with a short bright streak across it."
   },
   {
-   "text": "The sea at a beach such as Marina in Chennai or Kovalam in Kerala. Life lived only in water for most of the Earth's story.",
+   "text": "The sea at a beach such as Marina in Chennai, Puri in Odisha or Kovalam in Kerala. Life lived only in water for most of the Earth's story.",
    "art": "A beach at sunrise with waves rolling in and a child looking out to sea."
   },
   {
@@ -2399,7 +2435,7 @@
   }
  ],
  "ask_kids": [
-  "Where did you come from? And where did she come from? How far back can we go?",
+  "Where did you come from? Where did your mother come from? And her mother? How far back can we go?",
   "Can you spot any rust today? What made it rust?",
   "Every breath of oxygen was made by a living thing. Which living things near us make oxygen?",
   "If the whole Earth's story was one day, what would people be? The last few seconds?",
@@ -2414,60 +2450,32 @@
    "a": "Because A always dances with U."
   },
   {
-   "j": "What did the young Earth say to the first microbe?",
-   "a": "You're small, but you'll change everything."
-  },
-  {
-   "j": "Why was the iron nail so grumpy?",
-   "a": "It got rusty from all that oxygen."
-  },
-  {
    "j": "How do stromatolites keep their secrets?",
    "a": "In layers and layers."
+  },
+  {
+   "j": "Why did the nail forget how to play cricket?",
+   "a": "It was a bit rusty."
   },
   {
    "j": "What did C say to G?",
    "a": "We make a great pair."
   },
   {
-   "j": "Why did the nail in the oil jar stay so calm?",
-   "a": "Nothing could get to it."
-  },
-  {
-   "j": "What is a microbe's favourite way to build a house?",
-   "a": "One thin layer at a time, for a billion years."
-  },
-  {
-   "j": "Why did the RNA chain cry after copying?",
-   "a": "It made a mistake, and now there were two of them."
-  },
-  {
    "j": "What did the banana say to the spirit?",
-   "a": "Stop pulling my threads."
+   "a": "Please stop pulling my threads."
   },
   {
    "j": "Why don't stromatolites ever hurry?",
    "a": "They've had 3.5 billion years of practice at waiting."
   },
   {
-   "j": "What did the scientist say when asked how life began?",
-   "a": "Nobody knows yet, and that's the exciting part."
-  },
-  {
-   "j": "Why did the oxygen go to the sea?",
-   "a": "To meet some iron and get a little rusty."
+   "j": "What did the first cell say to its skin?",
+   "a": "Thanks for holding me together."
   },
   {
    "j": "How does a cyanobacterium say good morning?",
    "a": "With a puff of fresh oxygen."
-  },
-  {
-   "j": "Why was the time string so humble?",
-   "a": "Because people only took up the very last dot."
-  },
-  {
-   "j": "What did the first cell say to its skin?",
-   "a": "Thanks for holding me together."
   }
  ],
  "maths": [
@@ -2499,7 +2507,7 @@
    "why_maths": "Working out the strips first means you cut just enough paper and the timeline comes out the right length."
   },
   {
-   "problem": "Meenakshi counted rust spots on her nails after 2 days. The nail in open tap water had 10 spots. The nail in salty water had 30. The nail under oil had 1. How many times as many spots did the salty-water nail have as the tap-water nail? What does this tell you?",
+   "problem": "Meenakshi, a girl in Class 4, counted rust spots on her nails after 2 days. The nail in open tap water had 10 spots. The nail in salty water had 30. The nail under oil had 1. How many times as many spots did the salty-water nail have as the tap-water nail? What does this tell you?",
    "answer": "3 times as many. Salt makes iron rust faster.",
    "explain": "30 divided by 10 is 3, so the salty-water nail had 3 times as many spots. Both nails had air and water. The only difference was salt, so salt made the rust form faster. The nail under oil had far fewer spots than either, because little oxygen reached it.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2638,8 +2646,7 @@
    "url": "https://www.amazon.in/s?k=The+Story+of+Life+Catherine+Barr",
    "used_in": [
     "p1"
-   ],
-   "plan": "Read it before day 2 of the picture book project, and compare its pages with your own."
+   ]
   }
  ],
  "warmup": [
@@ -2831,7 +2838,7 @@
   ],
   "art": "A child breathing in on a balcony at sunrise, with faint lines of air coming from a potted plant, and below, drawn like a dream, a shallow ancient sea with stromatolite domes and rusty layers forming on the sea floor."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: shiny silver nails have a zinc coat and rust slowly, so the nail test asks for plain grey iron nails, or for shiny ones rubbed with sandpaper. The boiled water for jar B cools with its lid on, is poured gently, and gets a full layer of oil, because splashing lets air back in. The step says what to do if nail B rusts a little. The banana test needs ice-cold spirit and slow pouring, both stated, with a control glass of no food, and a grown-up keeps the spirit away from the stove. The green film search depends on the season, so it is not in the spine and gives an alternative. The time string fits along a corridor or across two rooms, and newspaper strips can replace string. Both games work for one child alone. Timings were checked step by step. The spine fits about 85 minutes.",
+ "playtest": "Every game, experiment, activity, challenge and project was walked through as at home, with the listed materials. Games: letter and event cards are written out one by one; both games work with 2 or 4 players and alone. Nail test: minutes and schedule agree (35 min over 3 days); plain grey nails are asked for. Banana test: the amounts of mix and spirit now agree with the glass sizes. The green film search depends on the season, so it is not in the spine. Repeated questions were removed across worksheets and quiz.",
  "how_we_found_out": {
   "story": "For a long time, many chemists thought the chemicals in living bodies were special. They believed only a living thing, with a 'life force' inside it, could make them. In 1828, Friedrich Wöhler, a German chemist, heated a salt called ammonium cyanate, which is made from non-living chemicals. To his surprise, he got urea, a chemical found in urine. He wrote to a friend that he had made urea without needing a kidney. It took many more experiments to convince everyone, but the old idea began to crack. More than a hundred years later, in 1952, Stanley Miller was a young student working with Harold Urey in Chicago. He wanted to test an idea of Alexander Oparin in Russia and J.B.S. Haldane in Britain: that the young sea was a soup in which life's chemicals could form. He filled a flask with water, methane, ammonia and hydrogen, and made electric sparks in it for a week. The water turned brown. In it were amino acids, the building blocks of proteins. Haldane later moved to India and became an Indian citizen. He worked in Kolkata and Bhubaneswar until he died in 1964.",
   "who": "Friedrich Wöhler, a German chemist, and Stanley Miller, an American student working with Harold Urey",

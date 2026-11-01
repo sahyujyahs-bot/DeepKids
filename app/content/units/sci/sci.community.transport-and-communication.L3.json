@@ -3,7 +3,7 @@
  "title": "Transport and communication: how people, goods and messages travel",
  "level": 3,
  "summary": {
-  "text": "The rice in your kitchen may have come hundreds of kilometres by truck or train. A phone call reaches Ammamma in Mysuru in less than a second. Transport is how people and goods move from place to place: by road, rail, water, air and pipeline. Communication is how messages and ideas travel: by speech, signs, letters, phones, radio, TV and the internet. In this unit you follow how both grew, from footpaths and boats to metros and satellites. You learn what road signs and traffic lights mean, and how transport dirties the air. Then you test, in a dark room, which clothes a driver can see from furthest away.",
+  "text": "The rice in your kitchen may have come hundreds of kilometres by truck or train. A phone call reaches a relative in Mysuru in less than a second. Transport is how people and goods move from place to place: by road, rail, water, air and pipeline. Communication is how messages and ideas travel: by speech, signs, letters, phones, radio, TV and the internet. In this unit you follow how both grew, from footpaths and boats to metros and satellites. You learn what road signs and traffic lights mean, and how transport dirties the air. Then you test, in a dark room, which clothes a driver can see from furthest away.",
   "art": "A busy Indian street at dusk seen from a balcony: a bus, an auto, a cyclist and a walker, a red-circle road sign and a traffic light, with a phone tower and a satellite in the evening sky above."
  },
  "intro": {
@@ -101,7 +101,7 @@
   },
   {
    "term": "Satellite",
-   "meaning": "A satellite is something that goes round the Earth again and again. People send machines up into space to be satellites. Communication satellites pass on phone, TV and internet signals.",
+   "meaning": "A satellite is an object that goes round the Earth again and again. People send machines up into space to be satellites. Communication satellites pass on phone, TV and internet signals.",
    "example": "Your TV dish points up at a satellite far above the Earth.",
    "art": "A satellite with solar panels above the Earth, and a dish on an Indian rooftop pointing at it."
   },
@@ -161,7 +161,9 @@
    "examples": [
     "A fisherwoman in Kollam takes her fish to the market in an auto: road transport.",
     "Coal reaches power stations in long goods trains: rail transport.",
-    "Big ships carry cars and machines into Chennai port: water transport."
+    "Big ships carry cars and machines into Chennai port: water transport.",
+    "In Guwahati, ferries carry people and bicycles across the wide Brahmaputra river: water transport.",
+    "Mumbai's dabbawalas carry thousands of lunch boxes every day by train and by bicycle: rail and road transport working together."
    ],
    "perspectives": [],
    "art": "Five panels: a truck on a ghat road, a goods train, a cargo ship at a port, an aeroplane, and a pipeline crossing a field.",
@@ -216,6 +218,7 @@
    "description": "In big cities, much of the dirty air comes from vehicles. Breathing it for years can make people ill, especially children and old people. Carbon dioxide from engines adds to the gases that are warming the whole Earth. Walking and cycling make no exhaust at all. A full bus or metro carries many people with much less fuel for each person than if they all drove. Electric vehicles give out no exhaust on the road, but their electricity often comes from power stations that burn coal. So the cleanest journey is often the one we walk, cycle or share.",
    "examples": [
     "A Chennai Metro train carries hundreds of people at once on electricity.",
+    "Kolkata has India's oldest metro, opened in 1984. It carries people on electricity, with no exhaust in the streets.",
     "A cycle ride to the shop makes no smoke and no noise.",
     "Some hospital and school zones have 'No horn' signs to cut noise."
    ],
@@ -384,7 +387,7 @@
    "When they came back with the milk, Arjun was thinking hard. 'Paati,' he said, 'when I see you, does anything go from my eyes to you?'",
    "Paati laughed. 'Now that is a question even I never asked on the night bus. What do you think?'"
   ],
-  "epiphany": "For the parent: a driver sees a walker only by the headlight that bounces off the walker and returns to the driver's eyes. A white mundu reflects much of that light, so the man was seen from far away. The dark blue shirt reflected very little, so the boy was seen only when the auto was very close. Seeing the bright lamp does not mean the driver can see you. A reflector, like the red one on a cycle or the strip on a school bag, sends light straight back towards its source, so it shines brightly for the driver and much less for someone standing to the side. Many road signs are covered with the same kind of sheeting. Arjun's last question has a plain answer: nothing goes out from our eyes to make us see. We see when light comes into them.",
+  "epiphany": "a driver sees a walker only by the headlight that bounces off the walker and returns to the driver's eyes. A white mundu reflects much of that light, so the man was seen from far away. The dark blue shirt reflected very little, so the boy was seen only when the auto was very close. Seeing the bright lamp does not mean the driver can see you. A reflector, like the red one on a cycle or the strip on a school bag, sends light straight back towards its source, so it shines brightly for the driver and much less for someone standing to the side. Many road signs are covered with the same kind of sheeting. Arjun's last question has a plain answer: nothing goes out from our eyes to make us see. We see when light comes into them.",
   "ask": [
    "Why could Kavya see the man in the white mundu long before the auto reached him?",
    "Arjun could see the auto's headlight from the balcony. Why did that not mean the driver could see the boy?",
@@ -410,7 +413,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about road signs. You read a sign's shape and colour first, then its picture, and say what a driver or walker must do.",
+   "context": "This is a card game about road signs. Each card describes a sign in words. You say its kind from its shape and colour, then what it means.",
    "printables": [
     {
      "kind": "cards",
@@ -481,16 +484,16 @@
        "b": "Parking here."
       },
       {
-       "f": "Traffic light with the red light on",
-       "b": "Stop."
+       "f": "Red circle with a crossed-out letter P",
+       "b": "No parking. Do not leave your vehicle here."
       },
       {
-       "f": "Traffic light with the amber light on",
-       "b": "Get ready to stop."
+       "f": "Blue rectangle with a white H",
+       "b": "Hospital this way."
       },
       {
-       "f": "Wide white stripes across the road",
-       "b": "Zebra crossing. People on foot may cross here, and vehicles must stop for them."
+       "f": "Blue rectangle with a walking person",
+       "b": "Pedestrian crossing here. People on foot may cross, and vehicles must stop for them."
       }
      ]
     },
@@ -507,20 +510,20 @@
    ],
    "rules": [
     "Shuffle the cards and put them face down.",
-    "Turn over the top card and read the front aloud.",
-    "First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point.",
+    "Turn over the top card and read the front aloud. If you like, draw the sign beside the words.",
+    "First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point. The eight-sided STOP sign and the upside-down triangle (Give way) are orders too.",
     "Then say what it means. Check the back. A right meaning is 1 more point.",
-    "Playing alone, try to beat your own score. With others, take turns.",
-    "The first player to 15 points wins."
+    "With two or more players, take turns. The first player to 15 points wins. If the cards run out first, the highest score wins.",
+    "Playing alone, go through all 19 cards once and write down your score. Next time, try to beat it."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Sign Snap. You set up the cards.",
-     "do": "1. Cut out the 20 cards. 2. Shuffle them and put them face down. 3. Read the rules aloud.",
-     "say": "In this game, the shape of a sign tells you its kind before you even see the picture. Circles give orders, triangles warn, and rectangles give information.",
-     "kid": "Cut out the cards. Mix them up. Put them face down. Circles give orders. Triangles warn. Rectangles give information."
+     "do": "1. Cut out the 19 cards. 2. Shuffle them and put them face down. 3. Read the rules aloud.",
+     "say": "In this game, the shape of a sign tells you its kind before you even know the picture. Circles give orders, triangles warn, and rectangles give information. STOP and Give way are orders too.",
+     "kid": "Cut out the cards. Mix them up. Put them face down. Circles give orders. Triangles warn. Rectangles give information. STOP and Give way are orders too."
     },
     {
      "id": "s2",
@@ -560,7 +563,7 @@
    ],
    "setup": [
     {
-     "art": "Nineteen small cut-out cards on a table, showing red circles, red-bordered triangles, blue circles and blue rectangles.",
+     "art": "Nineteen small cut-out cards on a table, each with a short written description of a road sign.",
      "caption": "1. Cut out the sign cards and put them face down."
     },
     {
@@ -584,7 +587,7 @@
      "title": "12 job cards",
      "items": [
       {
-       "f": "Wish Ammamma in Mysuru a happy birthday today.",
+       "f": "Wish a grandparent in Mysuru a happy birthday today.",
        "b": "A phone or video call: fast and two-way. A posted card would arrive late."
       },
       {
@@ -613,7 +616,7 @@
       },
       {
        "f": "Bring cooking gas to every flat in a big building.",
-       "b": "A gas pipeline, or cylinders brought by a delivery van."
+       "b": "A gas pipeline: it brings gas to every flat without any vehicle."
       },
       {
        "f": "Warn a driver that a school is just ahead.",
@@ -621,7 +624,7 @@
       },
       {
        "f": "Tell a friend who is deaf, across a noisy room, that it is time to go.",
-       "b": "A gesture or sign language: no sound needed."
+       "b": "Hand signs, or sign language: no sound needed."
       },
       {
        "f": "Get 300 people to their offices in a crowded city.",
@@ -629,13 +632,13 @@
       },
       {
        "f": "Send a photo to a cousin in Kolkata right now.",
-       "b": "The internet, by phone: it arrives in seconds."
+       "b": "The internet, on a phone: it arrives in seconds."
       }
      ]
     },
     {
      "kind": "cards",
-     "title": "12 means cards",
+     "title": "15 means cards",
      "items": [
       "Walking",
       "Cycle",
@@ -646,8 +649,11 @@
       "Ship",
       "Aeroplane",
       "Pipeline",
+      "Ambulance",
       "Phone call",
+      "Internet on a phone",
       "Radio and TV",
+      "Hand signs",
       "Road sign"
      ]
     }
@@ -655,8 +661,8 @@
    "rules": [
     "Shuffle the job cards and put them face down. Spread the means cards face up.",
     "Turn over a job card and read it aloud.",
-    "Each player picks the means card they think is best and says why.",
-    "Read the back of the job card. A choice that matches gets 2 points.",
+    "Each player picks the means card they think is best and says why. Two players may pick the same card.",
+    "Read the back of the job card. A choice that matches the back gets 2 points.",
     "A different choice with a good reason gets 1 point, if the other players agree.",
     "After all 12 jobs, the player with most points wins."
    ],
@@ -708,11 +714,11 @@
    ],
    "setup": [
     {
-     "art": "Job cards face down in a pile and twelve means cards spread out face up: walking, cycle, auto, bus, metro, goods train, ship, aeroplane, pipeline, phone call, radio and TV, road sign.",
+     "art": "Job cards face down in a pile and fifteen means cards spread out face up: walking, cycle, auto, bus, metro, goods train, ship, aeroplane, pipeline, ambulance, phone call, internet on a phone, radio and TV, hand signs, road sign.",
      "caption": "1. Put the job cards face down. Spread the means cards face up."
     },
     {
-     "art": "A mother and son each holding up a means card, a goods train and a truck, with a job card about 1,000 sacks of rice between them.",
+     "art": "A parent and a child each holding up a means card, a goods train and a ship, with a job card about sacks of rice between them.",
      "caption": "2. Read a job. Each player picks a way and says why."
     }
    ]
@@ -952,7 +958,7 @@
    "context": "In this experiment one person describes a simple picture and the other draws it without seeing it. You find out whether the drawing comes out better when the listener may ask questions.",
    "question": "Does a picture sent by words alone come out more correctly when the listener can ask questions, and does it take longer?",
    "predict": "Guess first. Will the drawing come out better when the listener stays silent, or when the listener can ask questions? Which way will be quicker? Why do you think so?",
-   "fair_test": "Use two pictures that are equally hard: each has the same 4 kinds of shapes in different places. The same person describes both times. Use a clock to time each round. Score each drawing in the same way, 2 points for each shape: 1 for the right shape and size, 1 for the right place. Then swap roles and do it again, using the pictures the other way round.",
+   "fair_test": "Use four picture cards that are equally hard: each has the same 4 kinds of shapes in different places. The same person describes in rounds 1 and 2, and the other person describes in rounds 3 and 4. Use a clock to time each round. Score each drawing the same way, 2 points for each shape: 1 for the right shape and size, 1 for the right place. In the swap, do the round with questions first, so practice does not favour one kind of round.",
    "results_table": [
     "Round",
     "Listener may ask questions?",
@@ -965,8 +971,8 @@
      "qty": 4
     },
     {
-     "item": "plain paper and a pencil for the listener",
-     "qty": 4
+     "item": "plain paper (4 sheets) and a pencil for the listener",
+     "qty": 1
     },
     {
      "item": "2 chairs placed back to back",
@@ -977,12 +983,11 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Describe two pictures, one with a silent listener and one with questions allowed. Score and time both. Swap roles and repeat."
+     "what": "Draw 4 picture cards. Describe two pictures, one with a silent listener and one with questions allowed. Score and time both. Swap roles and repeat, with the questions round first."
     }
    ],
    "record": "Fill in the table. Put each drawing next to its picture card.",
@@ -1010,15 +1015,15 @@
      ],
      [
       "3 (swapped)",
-      "No",
-      "2 minutes",
-      "4"
-     ],
-     [
-      "4 (swapped)",
       "Yes",
       "4 minutes",
       "8"
+     ],
+     [
+      "4 (swapped)",
+      "No",
+      "2 minutes",
+      "4"
      ]
     ]
    },
@@ -1028,7 +1033,7 @@
      "caption": "1. The describer holds a picture card the listener must not see."
     },
     {
-     "art": "A girl and her father sitting on chairs back to back, the girl describing a card and the father drawing on paper.",
+     "art": "A girl and an adult sitting on chairs back to back, the girl describing a card and the adult drawing on paper.",
      "caption": "2. Sit back to back. One describes, the other draws."
     },
     {
@@ -1041,14 +1046,14 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the Words Only test. Here you set up the chairs and the picture cards.",
-     "do": "1. Put two chairs back to back. 2. The describer gets picture A and picture B, face down. 3. The listener gets paper and a pencil. 4. Ask for guesses and reasons.",
+     "do": "1. Draw 4 picture cards and label them A, B, C and D. Each has the same 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. 2. Put two chairs back to back. 3. The describer takes cards A and B, face down. The listener takes paper and a pencil. 4. Ask for guesses and reasons.",
      "say": "You will describe a picture using only words. I will draw it without seeing it. First, guess. Will my drawing be better if I stay silent, or if I can ask questions? Why?",
      "kid": "Sit back to back. Hide your pictures. Guess: silent listener or questions allowed? Which will be better? Why?",
-     "parent": "If you cannot print, draw 4 cards. Each has 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. Two cards are for the first go and two for the swap. Keep them simple."
+     "parent": "Keep the shapes simple so the four cards are equally hard. Cards A and B are for the first two rounds. Cards C and D are for the swap."
     },
     {
      "id": "s2",
-     "mins": 5,
+     "mins": 4,
      "do": "1. Round 1: the describer describes picture A. 2. The listener draws and says nothing at all. 3. Time the round. 4. Stop when the describer says 'done'.",
      "say": "Round 1. I must stay silent. I cannot ask anything. Describe picture A as clearly as you can. Tell me when you are done.",
      "kid": "Describe picture A. Your listener must stay silent. Say 'done' at the end.",
@@ -1056,7 +1061,7 @@
     },
     {
      "id": "s3",
-     "mins": 7,
+     "mins": 6,
      "do": "1. Round 2: the describer describes picture B. 2. This time the listener may ask as many questions as they like. 3. Time the round.",
      "say": "Round 2. Now I can ask questions. Describe picture B. I will ask whenever I am not sure.",
      "kid": "Describe picture B. Now your listener can ask questions. Answer each one.",
@@ -1064,7 +1069,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 3,
      "do": "1. Turn the cards over. 2. Score each drawing: 2 points for each shape, 1 for the right shape and size, 1 for the right place. 3. Write the scores and times.",
      "say": "Let's score them. For each shape, one point if it is the right shape and size, and one if it is in the right place.",
      "kid": "Put each drawing next to its card. Give points for each shape. Write the scores and times.",
@@ -1080,11 +1085,11 @@
     },
     {
      "id": "s5",
-     "mins": 5,
-     "do": "1. Swap roles: now the child draws. 2. Use the other two cards. Do one silent round and one round with questions. 3. Score and time both.",
-     "say": "Now I describe and you draw. We do it again, once silent and once with questions. Does the same thing happen?",
-     "kid": "Now you draw. Stay silent in the first round. Ask questions in the second. Score both.",
-     "parent": "Swapping checks that the result is not just because one of you is a better describer."
+     "mins": 9,
+     "do": "1. Swap roles: now your child listens and you describe, or the other way round, as you like. 2. Use cards C and D. Do the round with questions first (card C), then the silent round (card D). 3. Score and time both.",
+     "say": "Now we swap. This time the round with questions comes first, then the silent round. Does the same thing happen?",
+     "kid": "Swap roles. Do the round with questions first, then the silent round. Score and time both.",
+     "parent": "Swapping roles and order checks that the result is not just because one of you describes better, or because the second go was easier."
     },
     {
      "id": "s6",
@@ -1108,7 +1113,7 @@
       "options": [
        "A road sign",
        "A radio programme",
-       "A phone call with Ammamma",
+       "A phone call with a friend",
        "A poster on a wall"
       ],
       "a": 2,
@@ -1139,7 +1144,6 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1171,13 +1175,13 @@
      "id": "s2",
      "mins": 5,
      "do": "1. For each packet, ask how it reached your home. 2. Ask what the family would have if nothing could be carried from far away.",
-     "say": "How do you think this tea got from the hills to our shop? And from the shop to our home? What would we have if nothing could travel?",
+     "say": "How do you think this packet got from where it was made to our shop? And from the shop to our home? What would we have if nothing could travel?",
      "kid": "How did each thing get here? Truck, train, ship or scooter? What would we eat if nothing could travel?",
      "ask": [
       {
-       "q": "How did the tea get to our home?",
+       "q": "How did this packet get to our home?",
        "good": [
-        "By truck from the tea garden.",
+        "By truck from where it was made.",
         "By train, then by the shop's van.",
         "Someone carried it from the shop."
        ]
@@ -1207,7 +1211,6 @@
      "qty": 12
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
@@ -1251,15 +1254,15 @@
      "kid": "Pick one card. What could people do after it was invented?",
      "check": {
       "t": "mcq",
-      "q": "Which of these is the oldest?",
+      "q": "Which of these was invented first?",
       "options": [
-       "The train",
-       "The wheel",
-       "The boat",
-       "The aeroplane"
+       "The telegraph",
+       "The telephone",
+       "The radio",
+       "The mobile phone"
       ],
-      "a": 2,
-      "why": "Boats are much older than wheels. Log canoes about 10,000 years old have been found. Wheels came about 5,500 years ago, trains about 200 years ago and aeroplanes about 120 years ago."
+      "a": 0,
+      "why": "The telegraph came in the 1800s, before the telephone in 1876. Radio followed in the early 1900s, and mobile phones came to India in 1995."
      }
     }
    ]
@@ -1359,7 +1362,7 @@
      "caption": "1. Make a code: a pattern of short and long flashes for each letter."
     },
     {
-     "art": "A child in a dim room flashing a torch at the ceiling, and her mother across the room writing letters on paper.",
+     "art": "A child in a dim room flashing a torch at the ceiling, and a parent across the room writing letters on paper.",
      "caption": "2. Flash a word at the ceiling. Your partner writes it down."
     }
    ],
@@ -1406,7 +1409,7 @@
    "context": "In this activity you watch the road from a window or balcony, and count vehicles and the people inside them.",
    "materials": [
     {
-     "item": "a window or balcony that looks onto a road",
+     "item": "a window or balcony that looks onto a road, or a safe spot at your gate with a grown-up",
      "qty": 1
     },
     {
@@ -1464,10 +1467,10 @@
   },
   {
    "id": "a6",
-   "title": "Ask a Grandparent: how did you travel and send messages at my age?",
+   "title": "Ask an Older Person: how did you travel and send messages at my age?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you phone or visit a grandparent or an older neighbour and ask how they travelled and sent messages when they were young.",
+   "context": "In this activity you ask a grandparent, an older relative or an older neighbour how they travelled and sent messages when they were young.",
    "materials": [
     {
      "item": "a phone, or a visit",
@@ -1478,12 +1481,11 @@
      "qty": 1
     }
    ],
-   "safety": "No special safety needs.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Interview a grandparent with 5 questions. Write down their answers. Compare their childhood with yours."
+     "what": "Interview an older person with 5 questions. Write down their answers. Compare their childhood with yours."
     }
    ],
    "record": "Write a short 'then and now' table with their answers and yours.",
@@ -1612,7 +1614,7 @@
    "title": "A Sign Without Words",
    "mins": 25,
    "context": "This is a design challenge. You design a sign that everyone understands at once, even someone who cannot read.",
-   "problem": "Your building needs a sign at the gate that says: 'Children play here. Drive slowly.' Many visitors and drivers do not read English, Tamil or Hindi. Design a sign that anyone understands in two seconds.",
+   "problem": "Your building needs a sign at the gate that says: 'Children play here. Drive slowly.' Some visitors and drivers do not read the languages used in your area. Design a sign that anyone understands in two seconds.",
    "constraints": [
     "No words, except numbers.",
     "It must be understood in 2 seconds, from 5 steps away.",
@@ -1631,7 +1633,7 @@
    "creative": [
     "Test the sign on three people: show it for two seconds, then ask what it means.",
     "Make it bigger and simpler after each test.",
-    "Stick a strip of foil or reflective tape on the border so it shines in headlights."
+    "If you have reflective tape, stick a strip on the border so it shines in headlights."
    ],
    "your_turn": "Now design your own sign for something in your building or street. Show it for 2 seconds to three people. Did they all understand it?",
    "setup": [
@@ -1640,7 +1642,7 @@
      "caption": "1. Draw a sign with no words."
     },
     {
-     "art": "The child holding the sign up for two seconds while her grandmother, five steps away, guesses its meaning.",
+     "art": "The child holding the sign up for two seconds while an adult, five steps away, guesses its meaning.",
      "caption": "2. Show it for 2 seconds from 5 steps away. Do people understand?"
     }
    ],
@@ -1700,7 +1702,7 @@
    ],
    "general": [
     "Use a strip of white cloth: white reflects much more light than dark colours.",
-    "Use a reflective strip or tape, which sends light back towards the driver.",
+    "If you have reflective tape, use it: it sends light back towards the driver.",
     "Make the band wide: a bigger white area is seen from further away."
    ],
    "creative": [
@@ -1754,7 +1756,7 @@
    "youtube": "Bi_Tp1H9CDs",
    "mins": 15,
    "why": "For the parent and curious older children: how the strips on bags, road signs and cycle reflectors send light straight back to the lamp. It explains what the Seen in the Dark test showed with a reflective strip.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length."
+   "check": "Preview it first and check its length."
   },
   {
    "title": "An Animated History of Transportation",
@@ -1762,7 +1764,7 @@
    "youtube": "FaLCQo8NJFA",
    "mins": 5,
    "why": "A short animated history of how people have travelled, from walking to modern vehicles.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length and facts."
+   "check": "Preview it first and check its length."
   },
   {
    "title": "How The Internet Works? | What Is Internet? | Dr Binocs Show",
@@ -1770,7 +1772,7 @@
    "youtube": "UXsomnDkntI",
    "mins": 5,
    "why": "A cartoon for children on how a message travels across the internet, through cables and towers.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length and facts."
+   "check": "Preview it first and check its length."
   }
  ],
  "quiz": [
@@ -1855,17 +1857,16 @@
   },
   {
    "t": "mcq",
-   "p": "Why must a road sign be very simple?",
+   "p": "A road sign is a blue circle with a white arrow pointing straight up. What does it tell a driver?",
    "opts": [
-    "Signs are expensive",
-    "A driver sees it for only a moment and cannot ask what it means",
-    "Drivers do not like reading",
-    "So it lasts longer"
+    "Go straight only",
+    "Do not go straight",
+    "Petrol pump ahead",
+    "School ahead"
    ],
-   "a": 1,
-   "why": "A road sign is one-way communication, read in a moment. In the Words Only test, the silent listener made more mistakes, so one-way messages must be very clear.",
-   "outcome": 2,
-   "how": "e2"
+   "a": 0,
+   "why": "A blue circle gives an order about what you must do. This one says to go straight only.",
+   "outcome": 2
   },
   {
    "t": "mcq",
@@ -1989,7 +1990,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Seen in the Dark test, Divya shone the same dim torch on a black cloth and a white cloth. Which one could she still see from further away?",
+     "p": "In the Seen in the Dark test, Divya, a girl in Class 3, shone the same dim torch on a black cloth and a white cloth. Which one could she still see from further away?",
      "opts": [
       "The black cloth",
       "The white cloth",
@@ -2002,7 +2003,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, 'I can see the car's headlights, so the driver can see me.' Explain why he may be wrong.",
+     "p": "Arjun, a six-year-old boy, says, 'I can see the car's headlights, so the driver can see me.' Explain why he may be wrong.",
      "lines": 3,
      "a": "Arjun sees the bright lamp itself. The driver sees Arjun only by the little light that bounces off him and comes back. If Arjun wears dark clothes, very little light comes back, so the driver may not see him.",
      "why": "A strong answer says that seeing a lamp and being seen by its light are different. It uses the idea of light bouncing off and coming back.",
@@ -2044,7 +2045,7 @@
      "t": "truefalse",
      "p": "Boats were invented long before wheels.",
      "a": true,
-     "why": "True. Log canoes about 10,000 years old have been found. The oldest wheels are about 5,500 years old. Many people guess the wheel came first."
+     "why": "Log canoes about 10,000 years old have been found. The oldest wheels are about 5,500 years old. Many people guess the wheel came first."
     },
     {
      "t": "draw",
@@ -2166,7 +2167,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Seen in the Dark test, Nandini held a reflective strip on the chair. It shone brightly when the torch was beside her eye. What happened when she held the torch far out to the side?",
+     "p": "In the Seen in the Dark test, Nandini, a girl in Class 3, held a reflective strip on the chair. It shone brightly when the torch was beside her eye. What happened when she held the torch far out to the side?",
      "opts": [
       "The strip shone even brighter",
       "The strip looked much duller",
@@ -2187,20 +2188,20 @@
     },
     {
      "t": "mcq",
-     "p": "In the Words Only test, Revathi described a picture to her mother. In which round did her mother's drawing probably score higher?",
+     "p": "In the Words Only test, one person describes a picture and the other draws it. Revathi, a girl in Class 3, described a picture to a friend, once with the friend silent and once with questions allowed. In which round did the friend's drawing probably score higher?",
      "opts": [
-      "When her mother had to stay silent",
-      "When her mother could ask questions",
+      "When the friend had to stay silent",
+      "When the friend could ask questions",
       "Both rounds scored the same",
       "Scores have nothing to do with questions"
      ],
      "a": 1,
-     "why": "When the listener can ask, she can clear up mistakes, such as which shape is bigger. Two-way communication usually gets more right, but it takes longer.",
+     "why": "When the listener can ask, they can clear up mistakes, such as which shape is bigger. Two-way communication usually gets more right, but it takes longer.",
      "how": "e2"
     },
     {
      "t": "write",
-     "p": "A driver passes a road sign in two seconds. Use what you found in the Words Only test to explain why a road sign must be very simple.",
+     "p": "A driver passes a road sign in two seconds. Use what you found in the Words Only test (a listener who cannot ask questions made more mistakes) to explain why a road sign must be very simple.",
      "lines": 4,
      "a": "A road sign is one-way communication. The driver cannot ask it what it means. In the test, the silent listener made more mistakes. So a sign must be simple enough to understand at once, with no questions.",
      "why": "A strong answer links the sign to one-way communication and uses evidence from the test.",
@@ -2258,7 +2259,7 @@
      "t": "truefalse",
      "p": "Electric scooters give out no exhaust on the road, but their electricity may still cause pollution somewhere else.",
      "a": true,
-     "why": "True. In India, much electricity is made by burning coal in power stations. So the pollution moves from the road to the power station."
+     "why": "In India, much electricity is made by burning coal in power stations. So the pollution moves from the road to the power station."
     },
     {
      "t": "perspective",
@@ -2318,20 +2319,18 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, from oldest to newest.",
+     "p": "Put these ways of sending a message to a cousin in another state in order, from slowest to fastest.",
      "items": [
-      "The first passenger train in India",
-      "Wheels on carts",
-      "Log boats",
-      "Kochi's water metro"
+      "A WhatsApp message",
+      "A letter by post",
+      "A telegram"
      ],
      "a": [
-      "Log boats",
-      "Wheels on carts",
-      "The first passenger train in India",
-      "Kochi's water metro"
+      "A letter by post",
+      "A telegram",
+      "A WhatsApp message"
      ],
-     "why": "Log boats are about 10,000 years old. Wheels are about 5,500 years old. India's first passenger train ran in 1853. Kochi's water metro began in 2023."
+     "why": "A letter takes days. A telegram took hours, and the last one was sent in 2013. A WhatsApp message arrives in seconds."
     },
     {
      "t": "odd",
@@ -2376,7 +2375,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Seen in the Dark test, Kavya's white cloth was still visible at the far wall, 15 foot-steps away. What should she do to find how far it can really be seen?",
+     "p": "In the Seen in the Dark test, Kavya, a nine-year-old girl, found that her white cloth was still visible at the far wall, 15 foot-steps away. What should she do to find how far it can really be seen?",
      "opts": [
       "Write 15 and stop",
       "Make the torch dimmer, or use a longer room, and test all the cloths again",
@@ -2419,17 +2418,11 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "In the Words Only test, Pooja's silent round took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. What does this show?",
-     "opts": [
-      "Questions make communication worse",
-      "Two-way communication got more right but took longer",
-      "Speed is all that matters",
-      "The test was unfair"
-     ],
-     "a": 1,
-     "why": "The question round scored 4 more points but took 3 more minutes. Two-way communication is usually more correct and slower. That is a real trade-off.",
-     "how": "e2"
+     "t": "write",
+     "p": "A traffic light shows amber for a few seconds between green and red. Why is the amber light there? What could happen without it?",
+     "a": "Amber warns drivers that red is coming, so they can slow down and stop in time. A vehicle going fast cannot stop at once. Without amber, a driver could be in the middle of the junction when the light turned red, and crash into traffic coming the other way.",
+     "why": "A strong answer links the warning to the time and distance a vehicle needs to stop, as in the first question of this sheet.",
+     "lines": 4
     },
     {
      "t": "write",
@@ -2442,7 +2435,7 @@
      "t": "truefalse",
      "p": "Marconi was the only person who worked on early radio.",
      "a": false,
-     "why": "False. Many people worked on radio. In Kolkata in the 1890s, J.C. Bose made and detected very short radio waves. Tesla, Popov and others also built radio devices."
+     "why": "Many people worked on radio. In Kolkata in the 1890s, J.C. Bose made and detected very short radio waves. Tesla, Popov and others also built radio devices."
     },
     {
      "t": "draw",
@@ -2453,15 +2446,15 @@
     },
     {
      "t": "mcq",
-     "p": "One full bus carries 50 people. Each car carries 2 people. How many cars would carry the same people as one full bus?",
+     "p": "Sacks of rice go from a farm in Andhra Pradesh to a shop in Kerala. Which two kinds of transport are most likely to carry them?",
      "opts": [
-      "2",
-      "25",
-      "50",
-      "100"
+      "A goods train, then a truck",
+      "An aeroplane, then a ship",
+      "A pipeline, then a cycle",
+      "A kattumaram, then a helicopter"
      ],
-     "a": 1,
-     "why": "50 people divided by 2 people in each car is 25 cars. That is why one full bus takes far less road space and fuel for each person than cars."
+     "a": 0,
+     "why": "Rice is heavy and travels a long way, so a goods train is cheap. A truck then takes it from the station to the shop door. Most goods use more than one kind of transport."
     },
     {
      "t": "write",
@@ -2604,10 +2597,6 @@
   {
    "text": "Snake boats racing on the backwaters of Alappuzha during the Nehru Trophy race.",
    "art": "Long black boats full of rowers racing on green water, crowds on the banks."
-  },
-  {
-   "text": "Ambulance written back to front on the front of an ambulance.",
-   "art": "The front of a white ambulance with its name written in mirror letters."
   }
  ],
  "open_questions": [
@@ -2662,20 +2651,12 @@
    "a": "A stamp."
   },
   {
-   "j": "What kind of phone does a turtle use?",
-   "a": "A shell phone."
-  },
-  {
    "j": "What did the envelope say to the stamp?",
    "a": "Stick with me, and we'll go places."
   },
   {
    "j": "What has wheels and flies?",
    "a": "A rubbish truck."
-  },
-  {
-   "j": "Why did the computer go to the doctor?",
-   "a": "It had a virus."
   },
   {
    "j": "What has four wheels and goes 'hoot hoot'?",
@@ -2686,21 +2667,13 @@
    "a": "A chew-chew train."
   },
   {
-   "j": "Why did the zebra crossing feel safe?",
-   "a": "Everyone stopped for it."
-  },
-  {
    "j": "What has keys but cannot open a single door?",
    "a": "A keyboard."
-  },
-  {
-   "j": "Why did the auto-rickshaw go to school?",
-   "a": "To become a little wheel-y smarter."
   }
  ],
  "maths": [
   {
-   "problem": "In the Seen in the Dark test, Kavya still saw the white shirt from 15 foot-steps away. The black T-shirt vanished at 3 foot-steps. How many times further away was the white shirt seen?",
+   "problem": "Kavya, a nine-year-old girl, did the Seen in the Dark test. She still saw the white shirt from 15 foot-steps away. The black T-shirt vanished at 3 foot-steps. How many times further away was the white shirt seen?",
    "answer": "5 times further away.",
    "explain": "The white shirt was seen at 15 foot-steps and the black T-shirt at 3. 15 divided by 3 is 5. So the white shirt was seen 5 times further away. Check: 3 + 3 + 3 + 3 + 3 = 15.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2727,7 +2700,7 @@
    "why_maths": "Saying 'five times further' tells a driver much more than saying 'white is better'."
   },
   {
-   "problem": "Kavya's yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of her two tries?",
+   "problem": "In the same test, Kavya's yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of her two tries?",
    "answer": "13 foot-steps.",
    "explain": "12 + 14 = 26. Half of 26 is 13. So the middle value is 13 foot-steps. This is called the average of the two tries.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -2736,7 +2709,7 @@
    "why_maths": "Two tries rarely give the same number. Taking the middle value gives one fair number for each cloth."
   },
   {
-   "problem": "Farhan watched the road for 10 minutes. He counted 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus?",
+   "problem": "Farhan, a boy aged 8, watched the road for 10 minutes. He counted 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus?",
    "answer": "They carried the same number: 40 people each.",
    "explain": "20 cars with 2 people each is 20 × 2 = 40 people. The bus carried about 40 people too. So one bus carried as many people as 20 cars, using one engine instead of 20.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2754,7 +2727,7 @@
    "why_maths": "Working out the gap between dates shows how fast transport has changed."
   },
   {
-   "problem": "In the Words Only test, Revathi's silent round took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. How many more points did questions give? How many more minutes did they take?",
+   "problem": "In the Words Only test, Revathi, a girl in Class 3, had a silent round that took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. How many more points did questions give? How many more minutes did they take?",
    "answer": "4 more points, and 3 more minutes.",
    "explain": "7 − 3 = 4 more points. 5 − 2 = 3 more minutes. So questions gave a much better drawing, but took longer. Whether it is worth it depends on the job.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2926,7 +2899,7 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/transport-and-communication.md: SCI Card for J.C. Bose (radio waves in Kolkata in the 1890s, credit with Marconi), used in 'challenging' and 'open_questions'. The founder's word-and-picture communication ideas (draw the words, guess the drawing), which shaped the Words Only test. The story seed of beings inventing gestures to reach a friend who could not hear, which shaped the sign language card in Send It!",
+   "Notes on J.C. Bose (radio waves in Kolkata in the 1890s, credited alongside Marconi), used in 'challenging' and 'open_questions'. Ideas on communicating with words and pictures (describe it, draw it), which shaped the Words Only test. The idea of beings inventing gestures to reach a friend who could not hear, which shaped the hand signs card in Send It!",
    "Board chapter: NIOS Open Basic Education, Environmental Studies Level A, Lesson 10, Transport and Communication (pack nios/sci-L3-10.json): development of transport and communication, kinds, road signs and traffic lights, PIN code, animal communication. Its roller and string telephone experiments are not repeated here.",
    "Nearby units not repeated: sci.community.community-and-helpers.L3 (Postcard Test, Shared Pond), sci.sound.sources-of-sound.L3 (string telephone), sci.forces.friction.L3 and sci.forces.simple-machines.L3 (rollers, wheel and axle), sci.light.how-we-see.L3 (light into the eye)."
   ],
@@ -2944,7 +2917,7 @@
  "roots": {
   "context": "We have learned how people, goods and messages travel, and found in the dark that a driver sees us only by the light we send back. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "With the same dim torch, the black cloth vanished a few steps away. The white cloth was still clear across the room. Both were there the whole time. A driver knows you are on the road only when light from you reaches their eyes.",
+   "truth": "With the same dim torch, the black cloth vanished a few steps away. The white cloth was seen from much further. Both were there the whole time. A driver knows you are on the road only when light from you reaches their eyes.",
    "habit": "We think that being somewhere is the same as being seen there, and that if we can see a car, its driver can see us. The test showed that being seen depends on how much light comes back from us. Road safety needs both: we must see, and we must be seen.",
    "evidence": "In the Seen in the Dark test, every cloth stayed on the chair and got the same torch light. Only the light reflected back to the eye changed, and the black cloth vanished first. A reflective strip, which sends light straight back to the lamp, shone brightest of all."
   },
@@ -2953,7 +2926,7 @@
    "what_is_life": "Bees dance, ants leave smell trails, crows call and plants release smells that warn their neighbours. Living beings are always sending messages.",
    "what_is_this_world": "Roads, rails, wires and radio waves join far places, so rice from Andhra Pradesh reaches a kitchen in Kochi."
   },
-  "thread": "Every message needs a sender, something that carries it, and a receiver. In the dark test, the torch, the cloth and your eye made one chain, and if any part was missing, nothing was seen. Roads, rails, wires and radio waves are longer chains of the same kind. Light, sound and signals pass between things all the time, so no part of the world is ever fully cut off from the rest. One world shows up as many separate things, and they stay in touch through what passes between them.",
+  "thread": "Every message needs a sender, something that carries it, and a receiver. In the dark test, the torch, the cloth and your eye made one chain, and if any part was missing, nothing was seen. Roads, rails, wires and radio waves are longer chains of the same kind.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
@@ -2963,7 +2936,7 @@
    {
     "source": "Thich Nhat Hanh, the idea of interbeing (in The Heart of Understanding, 1988)",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain, the tree and the logger in the paper. Nothing exists by itself alone.",
-    "link": "In the Kitchen Journey, one packet of rice held a farmer, a truck driver, a train, a shopkeeper and many messages. Transport and communication are how these many parts reach each other."
+    "link": "In the Kitchen Journey, a packet of rice reached your kitchen through a farmer, a truck driver, a train and a shopkeeper, who passed messages to each other along the way. Transport and communication are how these parts reach each other."
    }
   ],
   "science": [
@@ -2988,12 +2961,11 @@
   },
   "ask": [
    "The black cloth was there, but you could not see it. How did you know it was still there?",
-   "When you see a friend's face, does anything go from you to them, or only from them to you?",
-   "If a message is sent and nobody receives it, was anything really sent?"
+   "Everything on the Kitchen Journey reached you through other people. What does that tell you about the rice on your plate?"
   ],
   "art": "A dark room seen from above: a child holding a dim torch, a beam reaching a white cloth on a chair, and a few lines of light coming back from the cloth to the child's eyes, with tiny jewels drawn along the path of the light."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the listed materials. The Seen in the Dark test depends on two things: a dark background behind the cloth, and a dim enough torch. With a bare phone torch, even a black cloth may stay visible across a small room, so the torch is covered with a hanky folded into 4 layers, and the step says to add layers if needed. If a white wall is behind the chair, the black cloth shows up as a dark shape, so the chair stands in a doorway with a dark room behind it, or in front of a dark bedsheet. The child steps back heel to toe, which gives about 15 to 25 foot-steps in most flat rooms. A grown-up walks beside them and the floor is cleared first. The reflective strip step is optional, because not every home has one. The Words Only test needs only two people, paper and a clock. Sign Snap works for one child alone. The spine (intro, Kitchen Journey, Seen in the Dark, explanations, roots and quiz) fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the listed materials. The Seen in the Dark test depends on two things: a dark background behind the cloth, and a dim enough torch. With a bare phone torch, even a black cloth may stay visible across a small room, so the torch is covered with a hanky folded into 4 layers, and the step says to add layers if needed. If a white wall is behind the chair, the black cloth shows up as a dark shape, so the chair stands in a doorway with a dark room behind it, or in front of a dark bedsheet. The child steps back heel to toe, which gives about 15 to 25 foot-steps in most flat rooms. A grown-up walks beside them and the floor is cleared first. The reflective strip step is optional, because not every home has one. The Words Only test needs only two people, paper and a clock, and the two pairs of rounds are balanced so practice does not favour one kind of round. Sign Snap has 19 cards and works for one child alone. Send It! has 12 job cards and 15 means cards, and a job without a matching card cannot come up. The spine (intro, Kitchen Journey, Seen in the Dark, explanations, roots and quiz) fits about 85 minutes.",
  "how_we_found_out": {
   "story": "By the 1890s, scientists knew that radio waves travel in straight lines, like light. The Earth is round, so a straight line soon leaves the ground and heads off into space. Most experts therefore thought radio could never reach much beyond the horizon, perhaps a few hundred kilometres. Guglielmo Marconi, a young Italian inventor, tried anyway. In December 1901 he set up a receiver on a hill in Newfoundland, with its wire held up by a kite. He reported hearing three faint clicks, the letter S in Morse code, sent from Cornwall in England, about 3,400 kilometres away across the Atlantic. Some people doubted he really heard it. But within a few years his stations were sending messages across the ocean every day. In 1902, Arthur Kennelly and Oliver Heaviside suggested a reason: a layer of charged air high above the Earth that bends radio waves back down. In 1924, Edward Appleton and Miles Barnett proved it. They sent radio waves up from a BBC transmitter and timed the echoes coming back from this layer. Today we call it the ionosphere.",
   "who": "Guglielmo Marconi, Arthur Kennelly, Oliver Heaviside, Edward Appleton and Miles Barnett",
