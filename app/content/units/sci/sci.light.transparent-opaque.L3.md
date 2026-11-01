@@ -488,6 +488,31 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent says:* This is a steel plate. Its loose electrons catch the light. Most of it is sent back. A little is absorbed and warms the plate. None gets through.  
   *Child mode:* Now the atoms catch you. You can't get through. Turn back, or sit down as warmth.
   - Think: If you were light, which material would you like to visit?
+### a6 · Hand Shadow Animals (20 min)
+- **record:** Draw the outline of the shadow animal you invented. Write one sentence on why your hand made a dark shape.
+- **s1 (4 min)**  
+  *Parent does:* 1. Make the room as dark as you can. 2. Put the torch on a stool about two big steps from a plain wall. 3. Stack books under it so the light is level with your child's hands. Point it at the wall. 4. Before your child puts a hand in the light, ask them to guess.  
+  *Parent says:* Your hand will go between the torch and the wall. What do you think we will see on the wall? What shape will it be? Why?  
+  *Child mode:* Your hand goes in front of the torch. What will the wall show? Why?
+  - Note: Let your child guess first, with a reason. Most children say 'a shadow'. Ask what shape it will be, and why it is dark. Don't explain yet.
+- **s2 (8 min)**  
+  *Parent does:* 1. Switch on the torch. 2. Look at the 1930 chart with this activity together. 3. Your child picks an animal, for example the rabbit, the crow or the spider, and copies the hand shape. 4. Take turns. One person makes an animal, the other guesses which one.  
+  *Parent says:* Pick an animal from the chart. Copy the hands exactly. Can you make your crow flap their wings? Can your dog open and shut their mouth?  
+  *Child mode:* Pick an animal from the chart. Copy the hands. Can you make them move?
+  - Ask: Look at the edge of the shadow. What shape is it? (good: The same shape as my hands.; I can see the outline of my fingers.; It is dark inside, and the edge follows my hand.)
+  - Note: The rabbit, the spider, the crow and the dog (the hound) are the easiest. The horse and the elephant take practice. Moving the fingers makes a shadow come alive. The crow flaps, the spider wiggles, and the elephant swings the trunk.
+- **s3 (5 min)**  
+  *Parent does:* 1. Your child invents an animal that is not on the chart. A peacock, a cow, a crab or a lizard all work. 2. You guess what it is. 3. Then ask why the hand makes a dark shape with that outline.  
+  *Parent says:* Invent an animal that is not on the chart. I will guess what it is. Then tell me why the shadow is dark. Why does it have the outline of your hand?  
+  *Child mode:* Invent your own shadow animal. Let me guess. Why is the shadow dark?
+  - Note: Remember the glowing fingers, if you did that activity? A little red light gets through skin when the torch is pressed right against it. From two steps away, almost none gets through, so the hand acts as opaque.
+  - Check: You hold your hand between a torch and a wall. Why is there a dark shape on the wall? → **Your hand is opaque. It blocks the light, so that part of the wall gets no light.**
+- **s4 (3 min)**  
+  *Parent does:* 1. Your child holds one shadow animal still. 2. They move their hands slowly towards the torch, then back towards the wall. 3. Then tell them about India's own shadow-puppet plays.  
+  *Parent says:* Move your hands near the torch. What happens to the shadow? Now move them near the wall. In Andhra Pradesh, tholu bommalata puppeteers tell stories with leather puppets behind a lit cloth. In Odisha, ravana chhaya puppeteers do the same.  
+  *Child mode:* Move your hands near the torch. Now near the wall. What changes?
+  - Note: Near the torch, the hand blocks more of the light, so the shadow is big and blurry. Near the wall it is small and sharp. Tholu bommalata puppets are thin leather that lets coloured light through, so they are translucent. Ravana chhaya puppets are thick, unpainted deer skin. They are opaque, so their shadows are solid black.
+  - Think: Tholu bommalata puppets are thin, painted leather, and their shadows come out in colour. Are those puppets transparent, translucent or opaque?
 
 ## Projects
 ### p1 · The Three-Light Lantern (60 min, 2 days)
@@ -792,7 +817,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Archaeological Survey of India: Fatehpur Sikri](https://asi.nic.in/) · place · Fatehpur Sikri, near Agra: The marble jaalis of Salim Chishti's tomb let soft light into a cool room.
 
 ## Things to buy
-- [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): A small torch makes fingers glow, casts shadows and lets you test containers. Used in a1, g2, c1. 
+- [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): A small torch makes fingers glow, casts shadows and lets you test containers. Used in a1, g2, c1, a6. 
 - [Butter paper or tracing paper sheets](https://www.amazon.in/s?k=butter+paper+sheets) (material): The best translucent paper for the gap test, the lantern and the night-light. Used in e1, p1, c2. 
 - [Battery LED tealights](https://www.amazon.in/s?k=led+tealight+candles) (tool): A safe light with no flame, for paper lanterns and shades. Used in p1, c2. 
 
@@ -809,7 +834,7 @@ Follow the Light (sci.light.L3): Topic-level song
 
 ## Plan
 - Start options: intro, a1, story, e1, g1, big_questions, cards
-- Default order: intro → a1 → story → summary → terms → e1 → explanations → g1 → a2 → e2 → videos → ws-core → a4 → a5 → e3 → agreed → challenging → g2 → a3 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → story → summary → terms → e1 → explanations → g1 → a2 → e2 → videos → ws-core → a4 → a5 → a6 → e3 → agreed → challenging → g2 → a3 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, g1, a2, e2, ws-core, a4
 
 ## Sources

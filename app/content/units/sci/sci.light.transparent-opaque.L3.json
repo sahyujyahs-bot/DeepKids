@@ -1704,6 +1704,118 @@
      "context": "This is the last step of the Light Party drama. You act out light being stopped by a steel plate."
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "Hand Shadow Animals",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a torch, or a phone torch",
+     "qty": 1,
+     "buy": "b-torch"
+    },
+    {
+     "item": "a plain, light-coloured wall, or a white bedsheet hung on a wall",
+     "qty": 1
+    },
+    {
+     "item": "a room you can make dark",
+     "qty": 1
+    },
+    {
+     "item": "the 1930 hand shadow chart, shown with this activity",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "In a dark room, shine a torch at a wall. Make the animals from a 1930 chart with your hands. Then invent one of your own."
+    }
+   ],
+   "record": "Draw the outline of the shadow animal you invented. Write one sentence on why your hand made a dark shape.",
+   "context": "In this activity you make shadow animals on a wall with your hands and a torch. The picture shows how to hold your hands. It is a page from an American magazine, Modern Mechanics and Inventions, printed in January 1930. Your hand is opaque, so it blocks the light, and a dark shape with your hand's outline falls on the wall. India has its own shadow-puppet plays too: tholu bommalata in Andhra Pradesh and ravana chhaya in Odisha.",
+   "setup": [
+    {
+     "art": "A dark room with a phone torch on a stack of books on a stool, pointing at a plain wall, and a child standing between the torch and the wall.",
+     "caption": "1. Make the room dark. Point a torch at a plain wall."
+    },
+    {
+     "art": "A child's two hands held in the torch beam, with the dark shadow of a rabbit with long ears on the wall.",
+     "caption": "2. Hold your hands in the light. Copy an animal from the 1930 chart."
+    },
+    {
+     "art": "A child showing a new shadow animal of her own, a peacock with a fan of fingers, while a parent guesses.",
+     "caption": "3. Invent an animal of your own. Let someone guess what it is."
+    },
+    {
+     "art": "The same hand shadow shown twice: big and blurry when the hand is near the torch, small and sharp when the hand is near the wall.",
+     "caption": "4. Move your hands near the torch, then near the wall. Watch the shadow change."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Make the room as dark as you can. 2. Put the torch on a stool about two big steps from a plain wall. 3. Stack books under it so the light is level with your child's hands. Point it at the wall. 4. Before your child puts a hand in the light, ask them to guess.",
+     "say": "Your hand will go between the torch and the wall. What do you think we will see on the wall? What shape will it be? Why?",
+     "kid": "Your hand goes in front of the torch. What will the wall show? Why?",
+     "parent": "Let your child guess first, with a reason. Most children say 'a shadow'. Ask what shape it will be, and why it is dark. Don't explain yet.",
+     "context": "This is the first step of the hand shadow animals activity. You set up a torch and a wall, and guess what your hand will do."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Switch on the torch. 2. Look at the 1930 chart with this activity together. 3. Your child picks an animal, for example the rabbit, the crow or the spider, and copies the hand shape. 4. Take turns. One person makes an animal, the other guesses which one.",
+     "say": "Pick an animal from the chart. Copy the hands exactly. Can you make your crow flap their wings? Can your dog open and shut their mouth?",
+     "kid": "Pick an animal from the chart. Copy the hands. Can you make them move?",
+     "ask": [
+      {
+       "q": "Look at the edge of the shadow. What shape is it?",
+       "good": [
+        "The same shape as my hands.",
+        "I can see the outline of my fingers.",
+        "It is dark inside, and the edge follows my hand."
+       ]
+      }
+     ],
+     "parent": "The rabbit, the spider, the crow and the dog (the hound) are the easiest. The horse and the elephant take practice. Moving the fingers makes a shadow come alive. The crow flaps, the spider wiggles, and the elephant swings the trunk.",
+     "context": "This step of the hand shadow animals activity uses a chart from a 1930 magazine. You copy the hand shapes and make the animals move."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Your child invents an animal that is not on the chart. A peacock, a cow, a crab or a lizard all work. 2. You guess what it is. 3. Then ask why the hand makes a dark shape with that outline.",
+     "say": "Invent an animal that is not on the chart. I will guess what it is. Then tell me why the shadow is dark. Why does it have the outline of your hand?",
+     "kid": "Invent your own shadow animal. Let me guess. Why is the shadow dark?",
+     "check": {
+      "t": "mcq",
+      "q": "You hold your hand between a torch and a wall. Why is there a dark shape on the wall?",
+      "options": [
+       "Your hand is opaque. It blocks the light, so that part of the wall gets no light.",
+       "Your hand sends out darkness onto the wall.",
+       "The light goes through your hand and turns black."
+      ],
+      "a": 0,
+      "why": "Your hand is opaque, so the torch light cannot get through. The part of the wall behind your hand gets no light, so it looks dark. Light travels in straight lines, so the dark patch keeps the outline of your hand. Darkness does not come out of the hand. A shadow is only the place the light could not reach. Picking 'turns black' forgets that light which gets through stays light."
+     },
+     "parent": "Remember the glowing fingers, if you did that activity? A little red light gets through skin when the torch is pressed right against it. From two steps away, almost none gets through, so the hand acts as opaque.",
+     "context": "This step of the hand shadow animals activity asks you to invent your own shadow animal, and explain why a hand makes a shadow."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Your child holds one shadow animal still. 2. They move their hands slowly towards the torch, then back towards the wall. 3. Then tell them about India's own shadow-puppet plays.",
+     "say": "Move your hands near the torch. What happens to the shadow? Now move them near the wall. In Andhra Pradesh, tholu bommalata puppeteers tell stories with leather puppets behind a lit cloth. In Odisha, ravana chhaya puppeteers do the same.",
+     "kid": "Move your hands near the torch. Now near the wall. What changes?",
+     "think": "Tholu bommalata puppets are thin, painted leather, and their shadows come out in colour. Are those puppets transparent, translucent or opaque?",
+     "parent": "Near the torch, the hand blocks more of the light, so the shadow is big and blurry. Near the wall it is small and sharp. Tholu bommalata puppets are thin leather that lets coloured light through, so they are translucent. Ravana chhaya puppets are thick, unpainted deer skin. They are opaque, so their shadows are solid black.",
+     "context": "This is the last step of the hand shadow animals activity. You change the size of a shadow, and meet India's own shadow-puppet plays."
+    }
+   ]
   }
  ],
  "projects": [
@@ -3035,7 +3147,8 @@
    "used_in": [
     "a1",
     "g2",
-    "c1"
+    "c1",
+    "a6"
    ]
   },
   {
@@ -3125,6 +3238,7 @@
    "ws-core",
    "a4",
    "a5",
+   "a6",
    "e3",
    "agreed",
    "challenging",
