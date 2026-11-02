@@ -466,8 +466,8 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
    **Answer:** Nobody could tell that the ball had been a snake. Anyone can tell that a roti was heated, because it has brown spots and is stiff.. *Why:* A strong answer sees that a change that is undone leaves no sign, but a change that cannot be undone shows what happened.
 
 ## Videos
-- **A potter shaping a clay pot on a wheel, and firing it in a kiln** (, 5 min) id `to find`: Shows soft clay squashed and reshaped, and then changed for good by the heat of a kiln. *Check:* Not yet found. Search for a short video of an Indian potter, ideally from Tamil Nadu or Kerala, that shows both shaping and firing, and watch it first.
-- **Popcorn popping, filmed in slow motion** (, 3 min) id `to find`: Shows heat changing a hard maize kernel into popcorn in a moment, a change that cannot be undone. *Check:* Not yet found. Search for a slow-motion popcorn video and check it is accurate and has no adverts for snacks.
+- **Making ceramics: from clay to finished pot** (Asian Civilisations Museum, 3 min) id `08mkqd7Skmw`: Shows soft clay being shaped by hand, and then changed for good by firing. *Check:* Found by search: "Let’s Learn About…making ceramics!" by Asian Civilisations Museum, 3 minutes 23 seconds. A parent may preview it.
+- **Popping popcorn in super slow motion** (The Slow Mo Guys, 4 min) id `p_7Qi3mprKQ`: Shows heat changing a hard maize kernel into popcorn in a moment, a change that cannot be undone. *Check:* Found by search: "Popping Popcorn in super Slow Motion - The Slow Mo Guys" by The Slow Mo Guys, 3 minutes 40 seconds. A parent may preview it.
 - **Bending a metal wire: springing back or staying bent** (, 4 min) id `to find`: Shows that a small bend springs back and a big bend stays, like the paper clip in the bend test. *Check:* Not yet found. Search for a simple demonstration of elastic and plastic bending in a wire or a spring, and check the words used are correct.
 
 ## Quiz

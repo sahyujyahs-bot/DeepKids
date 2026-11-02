@@ -417,9 +417,9 @@ At night the lights went out for a while, as they sometimes did in the rain. The
    **Answer:** I smelled toast burning, so I told Amma.. *Why:* A strong answer names a real smell and what the child knew from it, such as food being ready or something burning.
 
 ## Videos
-- **A short film of people following a scent trail, from the 2007 Berkeley study** (, 2 min) id `to find`: Shows blindfolded people sniffing their way along a chocolate smell trail across grass, like dogs. *Check:* Find a real clip of the 2007 human scent-tracking study by Jess Porter, Noam Sobel and colleagues, or a news report showing it.
-- **A touch-me-not (Mimosa pudica) plant folding their leaves when touched** (, 2 min) id `to find`: Shows that plants sense touch too: the leaves fold within a few seconds of a finger touching them. *Check:* Find a real, unedited clip, not sped up without saying so.
-- **A snake flicking their tongue to smell** (, 3 min) id `to find`: Shows a snake picking up smells from the air with the tongue, a sense very different from ours. *Check:* Find a clip from a nature programme or a zoo that explains the tongue flick correctly.
+- **Nature Neuroscience video: a person tracking a scent trail** (xavius9, 1 min) id `xodlZWFZQIE`: Shows people following a scent trail across grass, like dogs, in a video from the 2007 Berkeley study. *Check:* Found by search: "Nature Neuroscience video: Participant tracking scent" by xavius9, 1 minute, 16 seconds. A parent may preview it.
+- **Sensitive Plant (Mimosa pudica) leaves folding up when touched** (99Chemicals, 2 min) id `XTi6eDeKkQI`: Shows that plants sense touch too: the leaves fold within a few seconds of a touch. *Check:* Found by search: "Sensitive Plant (Mimosa pudica) Leaves Folding up in Response to Touch" by 99Chemicals, 2 minutes, 19 seconds. A parent may preview it.
+- **How Do Snakes Smell With Their Tongues? (SciShow Kids)** (SciShow Kids, 5 min) id `fQaOrxS5iNc`: Explains how a snake picks up smells from the air with the tongue, a sense very different from ours. *Check:* Found by search: "How Do Snakes Smell With Their Tongues? | Amazing Animal Senses! | SciShow Kids" by SciShow Kids, 4 minutes, 43 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which sense organ do you use to hear?  

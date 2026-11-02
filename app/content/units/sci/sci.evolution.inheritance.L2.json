@@ -1276,31 +1276,28 @@
  ],
  "videos": [
   {
-   "title": "A young zebra finch learning to sing",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "A young zebra finch learns its song from its father",
+   "channel": "Okinawa Institute of Science and Technology (OIST)",
+   "youtube": "6LnWgeSbWd0",
+   "mins": 1,
    "why": "Shows a young bird learning his song by listening to an older male, so the child sees that other animals learn too.",
-   "check": "Find a short, accurate clip from a university or science channel. Check it says young males learn from an older male, and shows the song getting better."
+   "check": "Found by search: \"Development of the Juvenile Zebra Finch Song Using the Memory of the Father’s Song\" by Okinawa Institute of Science and Technology (OIST), 1 minute. A parent may preview it."
   },
   {
-   "title": "How babies learn the sounds of language",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
-   "why": "Shows that babies are born able to hear the sounds of every language, and tune in to the language around them.",
-   "check": "Find a clip suitable for a parent and child, for example a talk by Patricia Kuhl or Janet Werker. Check it says babies under about 8 months tell apart sounds from many languages, and lose this by about one year."
-  },
-  {
-   "title": "A young chimpanzee learning to fish for termites",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Tuning in to speech sounds",
+   "channel": "Reading Rockets",
+   "youtube": "WvM5bqUsbu8",
    "mins": 3,
+   "why": "Shows that babies are born able to hear the sounds of every language, and tune in to the language around them.",
+   "check": "Found by search: \"Tuning In to Speech Sounds\" by Reading Rockets, 3 minutes. A parent may preview it."
+  },
+  {
+   "title": "Mother chimpanzee teaches her baby to catch termites",
+   "channel": "BBC Earth",
+   "youtube": "aXSWlwT8sew",
+   "mins": 4,
    "why": "Shows a young chimpanzee watching her mother and copying her, so the child sees a skill passed on by watching.",
-   "check": "Find a calm, real wildlife clip, ideally from Gombe in Tanzania. Check it shows a young chimpanzee watching and then trying."
+   "check": "Found by search: \"Mother Chimpanzee Teaches Baby to Catch Termites | Natural World: Wild Mother and Babies | BBC Earth\" by BBC Earth, 4 minutes. A parent may preview it."
   }
  ],
  "quiz": [

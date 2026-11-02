@@ -452,9 +452,9 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
    **Answer:** False. *Why:* False. Moon rock and dust are dark grey. The Moon looks white from Earth because sunlight is strong and the night sky is dark.
 
 ## Videos
-- **Earthshine: the dark part of a crescent Moon glowing faintly** (, 2 min) id `to find`: Shows sunlight bouncing off the Earth, then off the Moon, lighting the Moon's dark part. It fits Leonardo da Vinci's idea in the story of how we found out. *Check:* Find a real photo or video of earthshine on a thin crescent Moon, from a space agency or an astronomy channel. Check it says the glow is sunlight reflected by the Earth.
-- **Chandrayaan-3 on the Moon: pictures of the grey ground** (, 3 min) id `to find`: Shows that the Moon's ground is grey rock and dust, lit by the Sun, with sharp black shadows. *Check:* Find an ISRO clip of the Vikram lander or Pragyan rover pictures from August 2023. Check that it shows the real ground, not an animation.
-- **A full Moon rising over the sea, sped up** (, 2 min) id `to find`: Shows how bright the Moon looks against the dark sky, and moonlight on the water. *Check:* Find a real time-lapse of a moonrise, ideally over the sea at Chennai, Puri or Kanyakumari. Check it is not edited to make the Moon bigger.
+- **What is earthshine? Why the dark part of a crescent Moon glows faintly** (Socratica, 4 min) id `4QpuPCyJD7c`: Shows sunlight bouncing off the Earth, then off the Moon, lighting the Moon's dark part. It fits Leonardo da Vinci's idea in the story of how we found out. *Check:* Found by search: "What is Earthshine?  (Astronomy)" by Socratica, 4 minutes. A parent may preview it.
+- **Chandrayaan-3 rover pictures of the Moon's ground near the south pole** (Sky News, 1 min) id `evdXcsw0rkI`: Shows real pictures of the Moon's grey ground from India's Chandrayaan-3 rover, lit by the Sun. *Check:* Found by search: "India moon landing: Chandrayaan-3 rover captures images from lunar south pole" by Sky News, 39 seconds. A parent may preview it.
+- **Full moon rising over the ocean, sped up** (TrainconductorX, 1 min) id `g98K3hOIPuQ`: Shows how bright the Moon looks against the dark sky, and moonlight on the water. *Check:* Found by search: "Full moon rise over the ocean in Mexico Time-lapse 4k" by TrainconductorX, 36 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a light source?  

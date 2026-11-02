@@ -1149,31 +1149,28 @@
  ],
  "videos": [
   {
-   "title": "Why do we sleep? For young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why do we need sleep?",
+   "channel": "SciShow Kids",
+   "youtube": "_aAmaCeq9v4",
    "mins": 4,
    "why": "Shows in simple words that sleep helps the body grow and mend and the brain keep what was learned.",
-   "check": "Find a short, accurate video. Check it does not say the brain switches off during sleep, and that it gives 9 to 12 hours for school-age children."
+   "check": "Found by search: \"Why Do We Need Sleep? | SciShow Kids\" by SciShow Kids, 3 minutes, 33 seconds. A parent may preview it."
   },
   {
-   "title": "The upside-down jellyfish that sleeps without a brain",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows real Cassiopea jellyfish pulsing on the sand, and how the Caltech team tested their sleep-like state in 2017.",
-   "check": "Find a clip from a university or a science news channel. Check it names the three tests: slower pulsing at night, slower to respond, and sleepier after a night kept awake."
-  },
-  {
-   "title": "Crows coming home to roost at dusk",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Do jellyfish sleep?",
+   "channel": "caltech",
+   "youtube": "UPtSlvU6nh8",
    "mins": 2,
-   "why": "Shows a large crow roost filling up at sunset, for children who cannot see one from home.",
-   "check": "Find a real, unedited clip, ideally of house crows in an Indian city. Check it is not sped up or set to scary music."
+   "why": "Shows real Cassiopea jellyfish pulsing on the sand, and how the Caltech team tested their sleep-like state in 2017.",
+   "check": "Found by search: \"Do Jellyfish Sleep?\" by caltech, 2 minutes, 19 seconds. A parent may preview it."
+  },
+  {
+   "title": "Thousands of crows flock to roost at dusk",
+   "channel": "CBC British Columbia",
+   "youtube": "uqmMmfcLL7E",
+   "mins": 4,
+   "why": "Shows a large crow roost filling up at dusk in Burnaby, Canada, for children who cannot see one from home.",
+   "check": "Found by search: \"Thousands of crows flock to Burnaby every day to roost. Witness their spectacular journey.\" by CBC British Columbia, 4 minutes, 7 seconds. A parent may preview it."
   }
  ],
  "quiz": [

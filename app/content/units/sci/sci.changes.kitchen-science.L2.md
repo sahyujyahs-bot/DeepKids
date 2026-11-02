@@ -475,8 +475,8 @@ Meenakshi did not know that. She decided to test it next.
 
 ## Videos
 - **What happens to rice when it cooks: starch and water** (, 4 min) id `to find`: Shows starch grains swelling as they take in water when heated. *Check:* Find a short, accurate video. Check it shows swelling starch, and does not say the water simply disappears.
-- **How milk becomes curd: the bacteria at work** (, 4 min) id `to find`: Shows lactic acid bacteria turning milk sugar into acid, and the milk thickening. *Check:* Find a short, accurate video, ideally one that shows bacteria under a microscope. Check it calls bacteria living beings.
-- **Making ghee from butter at home** (, 5 min) id `to find`: Shows the fizzing as the water leaves, the milk bits browning, and clear golden ghee. *Check:* Find a clear home-cooking video, preferably from an Indian kitchen. Check the cook uses low heat.
+- **Where does yogurt come from? Bacteria turn milk into yogurt** (SciShow Kids, 3 min) id `yNxiQEu3C6Q`: Shows that tiny living bacteria turn milk into yogurt, the same change that makes curd. *Check:* Found by search: "Where Does Yogurt Come From?" by SciShow Kids, 3 minutes 27 seconds. A parent may preview it.
+- **How to make ghee from butter at home** (Bhavna's Kitchen & Living, 3 min) id `TcQbIuoC3PA`: Shows butter melting on low heat, the fizzing and the milk bits browning, and clear golden ghee. *Check:* Found by search: "How to make Ghee (Clarified Butter) Video Recipe by Bhavna" by Bhavna's Kitchen & Living, 2 minutes 35 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Ten dry rice grains and ten boiled grains are lined up end to end. Which line is longer?  

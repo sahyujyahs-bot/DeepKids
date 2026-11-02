@@ -356,9 +356,9 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
    **Answer:** 2. *Why:* You cannot see wind, but you can see what it moves. A sharp shadow means sun, a puddle means rain and a grey sky means clouds.
 
 ## Videos
-- **What is wind? A short film for young children** (, 3 min) id `to find`: Shows that wind is moving air, with things it moves: leaves, kites, clothes. *Check:* Find a real, accurate video for age 6. Check it does not say that wind is 'cold air' only.
-- **Walking through a cloud on a hill** (, 2 min) id `to find`: Shows that a cloud is wet mist made of water drops. *Check:* Find real footage of fog or a cloud on a hill road, for example in Munnar, Ooty or Meghalaya.
-- **How the knup rain shield is made in Meghalaya** (, 4 min) id `to find`: Shows a real rain shield made of bamboo and leaves, worn so both hands stay free. *Check:* Find a real video of knup making. Check it is from Meghalaya and shows the real materials.
+- **Where does wind come from? (SciShow Kids)** (SciShow Kids, 5 min) id `oHUVxkx8QRo`: Explains that wind is air moving, in plain words for young children. *Check:* Found by search: "Where Does Wind Come From? | The Science of Flying | SciShow Kids" by SciShow Kids, 5 minutes. A parent may preview it.
+- **What are clouds made of? (SciShow Kids)** (SciShow Kids, 4 min) id `DigBbR3FeP8`: Explains that a cloud is made of tiny water drops. *Check:* Found by search: "What Are Clouds Made Of? | SciShow Kids" by SciShow Kids, 3 minutes 37 seconds. A parent may preview it.
+- **How the knup keeps people dry in Meghalaya** (TheNewsMill, 3 min) id `WdJy5K6Olk0`: Shows a real rain shield from Meghalaya that keeps people dry. *Check:* Found by search: "#KnowYourNortheast | How this unique 'Knup' keeps people dry in Meghalaya" by TheNewsMill, 3 minutes 8 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is wind?  

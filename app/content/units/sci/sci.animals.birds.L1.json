@@ -263,35 +263,67 @@
      "items": [
       {
        "f": "Hen",
-       "b": "A bird. She has feathers, even though she can hardly fly."
+       "b": "A bird. She has feathers, even though she can hardly fly.",
+       "img": {
+        "src": "media/cards/birds-g1-0-00.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bat",
-       "b": "Not a bird. A bat flies, but has fur and no feathers."
+       "b": "Not a bird. A bat flies, but has fur and no feathers.",
+       "img": {
+        "src": "media/cards/birds-g1-0-01.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ostrich",
-       "b": "A bird. An ostrich cannot fly, but has feathers."
+       "b": "A bird. An ostrich cannot fly, but has feathers.",
+       "img": {
+        "src": "media/cards/birds-g1-0-02.jpg",
+        "credit": "Andrew Allen, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "Not a bird. A butterfly is an insect, with tiny scales on the wings."
+       "b": "Not a bird. A butterfly is an insect, with tiny scales on the wings.",
+       "img": {
+        "src": "media/cards/birds-g1-0-03.jpg",
+        "credit": "Devin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "A bird. Feathers, a beak, two wings, two legs."
+       "b": "A bird. Feathers, a beak, two wings, two legs.",
+       "img": {
+        "src": "media/cards/birds-g1-0-04.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Housefly",
-       "b": "Not a bird. A fly is an insect with six legs and no feathers."
+       "b": "Not a bird. A fly is an insect with six legs and no feathers.",
+       "img": {
+        "src": "media/cards/birds-g1-0-05.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Penguin",
-       "b": "A bird. A penguin swims instead of flying, and has feathers."
+       "b": "A bird. A penguin swims instead of flying, and has feathers.",
+       "img": {
+        "src": "media/cards/birds-g1-0-06.jpg",
+        "credit": "Seig, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Peacock",
-       "b": "A bird. His long tail is made of feathers."
+       "b": "A bird. His long tail is made of feathers.",
+       "img": {
+        "src": "media/cards/birds-g1-0-07.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Paper kite",
@@ -299,11 +331,19 @@
       },
       {
        "f": "Black kite (the brown bird circling over the city)",
-       "b": "A bird. This kite is a bird of prey with feathers. The paper kite is a different thing."
+       "b": "A bird. This kite is a bird of prey with feathers. The paper kite is a different thing.",
+       "img": {
+        "src": "media/cards/birds-g1-0-09.jpg",
+        "credit": "Tero Linjama, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Duck",
-       "b": "A bird. Her feathers keep her dry in the water."
+       "b": "A bird. Her feathers keep her dry in the water.",
+       "img": {
+        "src": "media/cards/birds-g1-0-10.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Aeroplane",
@@ -1457,22 +1497,20 @@
    "check": "Find a real recording made in India at sunrise. Check the birds named are the ones heard."
   },
   {
-   "title": "A tailorbird stitching leaves to make a nest",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A tailorbird sewing leaves into a nest",
+   "channel": "Life On Planet Earth",
+   "youtube": "zGqCxZMb6_M",
    "mins": 3,
    "why": "Shows the stitching that the challenge copies, which is hard to see in real life.",
-   "check": "Find real footage of a common tailorbird (Orthotomus sutorius) stitching. Check the nest is not disturbed for filming."
+   "check": "Found by search: \"Tailorbird nest sewing like pro\" by Life On Planet Earth, 3 min. A parent may preview it."
   },
   {
-   "title": "A close look at feathers: barbs, hooks and down",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows the tiny hooks that zip a feather together, which a home magnifier cannot show.",
-   "check": "Find a clear, accurate close-up of feather barbs and barbules. Check it says feathers are made of keratin, like hair."
+   "title": "A close look at bird feathers",
+   "channel": "Nat Geo Kids",
+   "youtube": "9coPAfwNPEU",
+   "mins": 1,
+   "why": "Gives a close look at a feather, which a home magnifier cannot show as well.",
+   "check": "Found by search: \"Look Closely at Feathers | Nat Geo Kids Birds Playlist\" by Nat Geo Kids, 1 min. A parent may preview it."
   }
  ],
  "quiz": [

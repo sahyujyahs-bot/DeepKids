@@ -1450,30 +1450,27 @@
  "videos": [
   {
    "title": "How stainless steel spoons are made in a factory",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "channel": "Process Core",
+   "youtube": "032G15RINQ8",
+   "mins": 8,
    "why": "Shows steel sheets being cut and pressed into spoons, so the child sees where a kitchen spoon comes from.",
-   "check": "Find a real factory video. Check that it does not show unsafe machines up close in a frightening way."
+   "check": "Found by search: \"How Stainless Steel Spoons Are Made in a Factory\" by Process Core, 8 minutes. A parent may preview it."
   },
   {
-   "title": "Water rolling off a raincoat, filmed up close",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Absorbent and non-absorbent materials: what soaks up water and what does not",
+   "channel": "Pants Bear Kids - Cartoons",
+   "youtube": "JpUIytR9Aes",
    "mins": 2,
-   "why": "Shows raindrops beading and running off a waterproof cloth, next to cotton soaking them up, like the Biscuit in the Rain activity.",
-   "check": "Find a clip that shows a waterproof material next to cotton, with no brand advertising."
+   "why": "Shows which materials soak water up and which let it run off, the idea behind the Biscuit in the Rain activity.",
+   "check": "Found by search: \"Absorbent and non-absorbent Materials | Science For Kids | Educational #PantsBear\" by Pants Bear Kids - Cartoons, 2 minutes. A parent may preview it."
   },
   {
-   "title": "The palm leaf umbrella of Kerala, the olakkuda",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows a traditional umbrella made of dried palm leaves, an old way of keeping the rain off.",
-   "check": "Find a real documentary or news clip about olakkuda makers in Kerala. Check the name and the details shown."
+   "title": "The palm leaf umbrella of Kerala, the olakkuda (news clip in Malayalam)",
+   "channel": "Mathrubhumi News",
+   "youtube": "xibJ4J31G7I",
+   "mins": 3,
+   "why": "Shows how a traditional umbrella made of dried palm leaves is made, an old way of keeping the rain off. The clip is in Malayalam.",
+   "check": "Found by search: \"ശീലക്കുടകളുടെ വരവോടെ വിസ്മൃതിയിലായ ഓലക്കുട, നിര്‍മ്മാണക്കാഴ്ചകള്‍ കാണാം\" by Mathrubhumi News, 2 minutes. A parent may preview it."
   }
  ],
  "quiz": [

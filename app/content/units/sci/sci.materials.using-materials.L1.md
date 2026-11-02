@@ -400,9 +400,9 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
    **Answer:** True. *Why:* True. An umbrella has a cloth cover, metal rods and a plastic or wooden handle. Each part has its own job.
 
 ## Videos
-- **How stainless steel spoons are made in a factory** (, 4 min) id `to find`: Shows steel sheets being cut and pressed into spoons, so the child sees where a kitchen spoon comes from. *Check:* Find a real factory video. Check that it does not show unsafe machines up close in a frightening way.
-- **Water rolling off a raincoat, filmed up close** (, 2 min) id `to find`: Shows raindrops beading and running off a waterproof cloth, next to cotton soaking them up, like the Biscuit in the Rain activity. *Check:* Find a clip that shows a waterproof material next to cotton, with no brand advertising.
-- **The palm leaf umbrella of Kerala, the olakkuda** (, 4 min) id `to find`: Shows a traditional umbrella made of dried palm leaves, an old way of keeping the rain off. *Check:* Find a real documentary or news clip about olakkuda makers in Kerala. Check the name and the details shown.
+- **How stainless steel spoons are made in a factory** (Process Core, 8 min) id `032G15RINQ8`: Shows steel sheets being cut and pressed into spoons, so the child sees where a kitchen spoon comes from. *Check:* Found by search: "How Stainless Steel Spoons Are Made in a Factory" by Process Core, 8 minutes. A parent may preview it.
+- **Absorbent and non-absorbent materials: what soaks up water and what does not** (Pants Bear Kids - Cartoons, 2 min) id `JpUIytR9Aes`: Shows which materials soak water up and which let it run off, the idea behind the Biscuit in the Rain activity. *Check:* Found by search: "Absorbent and non-absorbent Materials | Science For Kids | Educational #PantsBear" by Pants Bear Kids - Cartoons, 2 minutes. A parent may preview it.
+- **The palm leaf umbrella of Kerala, the olakkuda (news clip in Malayalam)** (Mathrubhumi News, 3 min) id `xibJ4J31G7I`: Shows how a traditional umbrella made of dried palm leaves is made, an old way of keeping the rain off. The clip is in Malayalam. *Check:* Found by search: "ശീലക്കുടകളുടെ വരവോടെ വിസ്മൃതിയിലായ ഓലക്കുട, നിര്‍മ്മാണക്കാഴ്ചകള്‍ കാണാം" by Mathrubhumi News, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is the job of a raincoat?  

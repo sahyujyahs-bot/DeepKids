@@ -401,9 +401,9 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    **Answer:** 3. *Why:* Egg, fish and dal are rich in protein for growing. Rice is mostly starch, so it is a go food.
 
 ## Videos
-- **Saliva and starch: how digestion starts in the mouth** (, 3 min) id `to find`: Shows that saliva has amylase, which breaks starch into sugar. *Check:* Find a short, accurate video. Check it does not say digestion only happens in the stomach.
-- **Why we need protein, energy foods, vitamins and minerals, for young children** (, 4 min) id `to find`: Shows the three jobs of food with real foods. *Check:* Find one with foods familiar in India, such as rice, dal, greens and fruit. Check it does not call any whole food bad.
-- **How much sugar is in a sweet drink?** (, 3 min) id `to find`: Shows sugar spooned out next to common sweet drinks. *Check:* Check the sugar amounts against the label numbers, and that it is not an advert.
+- **Why do we have saliva?** (SciShow Kids, 3 min) id `SZYA9cQpSCU`: Shows that saliva in the mouth starts breaking food down, the first step of digestion. *Check:* Found by search: "Why Do We Have Saliva?" by SciShow Kids, 2 min 54 s. A parent may preview it.
+- **Food pyramid: how different foods affect your body** (Peekaboo Kidz, 5 min) id `tsgyWIsYvxs`: Shows what different kinds of food do for the body, using real foods. *Check:* Found by search: "FOOD PYRAMID | How Different Foods Affect Your Body | The Dr Binocs Show" by Peekaboo Kidz, 5 min 25 s. A parent may preview it.
+- **How much sugar is in soda?** (WonderGrove Kids, 2 min) id `Ibb1Se_ttvc`: Shows how much sugar is in a sweet drink. *Check:* Found by search: "How Much Sugar is in Soda? (Signing Savvy) S1 E18" by WonderGrove Kids, 1 min 45 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) What are the three main jobs of food?  

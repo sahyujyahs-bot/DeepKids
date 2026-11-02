@@ -495,9 +495,9 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
    **Answer:** ['arrow from the fingers into the lemon', 'arrow from the rolling pin down into the dough', 'arrow from the wall into the ball, pointing away from the wall']. *Why:* A strong answer shows each push going from the thing that pushes into the thing that changes.
 
 ## Videos
-- **Forces can change shape, speed and direction** (, 4 min) id `to find`: Shows everyday pushes and pulls changing shape, speed and direction, after your child has tried them at home. *Check:* Find a short, accurate clip for children of 6 to 8. Check that it calls a force a push or a pull, and shows all three changes.
-- **A ball leaving a curved track goes straight** (, 3 min) id `to find`: Shows, in slow motion if possible, a ball leaving a curved track or a circle with a gap and going straight on, to go with the Bend Wall test. *Check:* Find a clip showing a real ball or puck leaving a curved wall. Check that it goes straight on, not in a curve, and that the clip does not talk about a force flinging things outwards.
-- **How the Moon stays in its path round the Earth** (, 4 min) id `to find`: Shows how the Earth's gravity bends the Moon's path, like the wall bending the marble's path. *Check:* Find a simple animation for children. Check that it says the Moon would go off straight without the Earth's pull, and does not say the Moon is held by nothing.
+- **Effects of force on objects (animation)** (EarthPen, 4 min) id `M0IaxJ3ekFc`: Shows everyday pushes and pulls changing shape, speed and direction, after your child has tried them at home. *Check:* Found by search: "Effects of Force on Objects | Animation" by EarthPen, 3 min 53 s. A parent may preview it.
+- **A marble in a hoop goes straight when it leaves the hoop** (PhysicsNerd4Life, 1 min) id `pp0xp7qv5lQ`: Shows a marble going round inside a hoop and, when it leaves the gap, moving straight on, to go with the Bend Wall test. *Check:* Found by search: "Newton's First Law of Motion - Marble & Hoop" by PhysicsNerd4Life, 1 min 27 s. A parent may preview it.
+- **Why doesn't the Moon fall to Earth?** (NASA Night Sky Network, 5 min) id `OKXVRu6JL54`: Shows how the Earth's gravity keeps bending the Moon's path so it goes round the Earth, like the wall bending the marble's path. *Check:* Found by search: "Why Doesn't the Moon Fall to Earth? Exploring Orbits and Gravity" by NASA Night Sky Network, 5 min 27 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a force?  

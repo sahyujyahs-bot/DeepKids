@@ -449,9 +449,9 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
    **Answer:** half. *Why:* Twice as far makes a thing look about half as big, as in the bottle strip test. The Sun itself would not change.
 
 ## Videos
-- **How far away is the Moon? A to-scale model** (, 4 min) id `to find`: Shows the Earth and Moon as small balls with the right distance between them, so a child sees how much space is between them. *Check:* Not yet found. Look for a short video that models the Earth and Moon to scale, with true distances and no made-up facts.
-- **Two facing mirrors: an infinity mirror explained** (, 4 min) id `to find`: Explains why two facing mirrors make a tunnel of copies that get smaller and dimmer, like the mirror tunnel. *Check:* Not yet found. Look for a video that says the copies fade because each mirror keeps a little light, and does not claim the tunnel is truly endless.
-- **Henrietta Leavitt and how we measure the distance to stars** (, 6 min) id `to find`: Tells how Henrietta Leavitt's discovery let astronomers measure the distance to far galaxies. For the grown-up to watch first, then share parts. *Check:* Not yet found. Check that the video credits Leavitt and gives the dates 1912 for her rule and 1923 to 1925 for Hubble's work on Andromeda.
+- **How far away is the Moon? The scale of the Universe** (Veritasium, 2 min) id `Bz9D6xba9Og`: Shows the Earth and Moon as small balls with the right distance between them, so a child sees how much space is between them. *Check:* Found by search: "How Far Away is the Moon? (The Scale of the Universe)" by Veritasium, 2 minutes. A parent may preview it.
+- **Build an infinity mirror: two facing mirrors** (Science Buddies, 5 min) id `KPK9SFr7jDQ`: Shows an infinity mirror being built and the tunnel of copies it makes, like the mirror tunnel. A parent can explain that the copies fade because each mirror keeps a little light. *Check:* Found by search: "Build an Infinity Mirror | Science Project | Science Buddies" by Science Buddies, 5 minutes. A parent may preview it.
+- **Who was Henrietta Leavitt? The astronomer behind star distances** (SciShow, 4 min) id `2FrY6gRPC7k`: Tells how Henrietta Leavitt's discovery let astronomers measure the distance to far galaxies. For the grown-up to watch first, then share parts. *Check:* Found by search: "Who Was Henrietta Leavitt? The Brilliant Female Astronomer" by SciShow, 4 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is space?  

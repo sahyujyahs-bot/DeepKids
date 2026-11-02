@@ -421,9 +421,9 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
    **Answer:** From plants, from animals, and a little, like salt and water, from the Earth.. *Why:* A strong answer says that people, like other animals, must eat food that plants or other animals made.
 
 ## Videos
-- **Honey bees fanning their wings at the hive** (, 2 min) id `to find`: Shows bees fanning their wings to move air through the hive, the way the fan dried the sugar water. *Check:* No video id was confirmed from here. Choose real close-up footage of bees fanning, short and calm, with no scary music.
-- **The honey bee waggle dance** (, 3 min) id `to find`: Shows a bee dancing on the comb to tell her sisters where flowers are. *Check:* No video id was confirmed from here. Choose real footage, and check that it calls the dancing bees female workers.
-- **A rock bee comb in India** (, 3 min) id `to find`: Shows a huge open comb of rock bees, like the one under the water tank in the story. *Check:* No video id was confirmed from here. Avoid videos that show combs being burnt. Prefer one filmed from a safe distance, or a honey hunter's careful harvest.
+- **Why honey bees fan their wings at the hive** (Carolina Honeybees with Charlotte Anderson, 3 min) id `X6ZlmUsWExo`: Shows bees fanning their wings to move air through the hive, the way the fan dried the sugar water. *Check:* Found by search: "Honey Bee Fanning - Why do bees fan their Wings?" by Carolina Honeybees with Charlotte Anderson, 2 minutes 31 seconds. A parent may preview it.
+- **The waggle dance of the honey bee** (BBC Earth, 3 min) id `12Q8FfyLLso`: Shows a bee dancing on the comb to tell her sisters where flowers are. *Check:* Found by search: "The Waggle Dance | Inside the Animal Mind | BBC" by BBC Earth, 2 minutes 39 seconds. A parent may preview it.
+- **A rock bee comb hanging from a tree branch** (WildFilmsIndia, 1 min) id `3yQudtjHXh0`: Shows a huge open comb of rock bees hanging from a branch, like the one under the water tank in the story. *Check:* Found by search: "Honey bee hive hanging heavy beneath a tree branch: Rock Bee or Giant Honey Bee (Apis dorsata)" by WildFilmsIndia, 1 minute 8 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is food from an animal?  

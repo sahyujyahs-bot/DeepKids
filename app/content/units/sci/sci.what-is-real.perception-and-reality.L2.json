@@ -1829,31 +1829,28 @@
  ],
  "videos": [
   {
-   "title": "Eyes moving under closed lids in REM sleep (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows what Aserinsky and Kleitman saw in 1953: a sleeper's eyes darting under the lids during dreaming sleep.",
-   "check": "Find real footage from a sleep lab or a trusted science channel. Check that it is a real sleeper, not an animation, and that it says most vivid dreams come in REM sleep without claiming all dreams do."
+   "title": "Why do we dream? (SciShow Kids)",
+   "channel": "SciShow Kids",
+   "youtube": "jYu966AONZI",
+   "mins": 5,
+   "why": "Explains in plain words that we dream while we sleep, the sleep in which the eyes move that Aserinsky and Kleitman noticed in 1953. It is an explainer, not sleep-lab footage of darting eyes.",
+   "check": "Found by search: \"Why Do We Dream?\" by SciShow Kids, 5 min. A parent may preview it."
   },
   {
-   "title": "How sound travels through air (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows that a sound is a vibration passed from air particle to air particle, which is what reached the listener in the door test.",
-   "check": "Find a short animation for young children that shows particles nudging each other, not air flowing like wind. Watch it fully first."
+   "title": "What is sound? (SciShow Kids)",
+   "channel": "SciShow Kids",
+   "youtube": "3-xKZKxXuu0",
+   "mins": 4,
+   "why": "Shows that a sound is a vibration that travels through the air to our ears, which is what reached the listener in the door test.",
+   "check": "Found by search: \"What is Sound? | Physics for Kids | SciShow Kids\" by SciShow Kids, 4 min. A parent may preview it."
   },
   {
-   "title": "Evening primrose flowers responding to a bee's buzz (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows Lilach Hadany's finding that flowers sense the sound of a bee they cannot see, and make sweeter nectar.",
-   "check": "Find a news or university video about the 2019 study by Marine Veits, Lilach Hadany and others at Tel Aviv University. Check that it describes the flowers sensing the buzz, and does not overstate the result."
+   "title": "Tel Aviv University: flowers can hear bees",
+   "channel": "ILTV Israel News",
+   "youtube": "2TCW-UbXRWg",
+   "mins": 1,
+   "why": "News clip on the Tel Aviv University study showing that flowers sense the sound of a bee they cannot see, and make sweeter nectar.",
+   "check": "Found by search: \"TAU researchers say flowers can “hear” bees!\" by ILTV Israel News, 1 min. A parent may preview it."
   }
  ],
  "quiz": [

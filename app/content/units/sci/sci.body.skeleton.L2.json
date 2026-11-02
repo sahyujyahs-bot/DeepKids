@@ -1774,31 +1774,28 @@
  ],
  "videos": [
   {
-   "title": "The human skeleton for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Your Super Skeleton!",
+   "channel": "SciShow Kids",
+   "youtube": "vRuh9aBwUdM",
    "mins": 4,
    "why": "Shows the main bones of the skeleton and their jobs, after your child has felt their own bones.",
-   "check": "Find a short, accurate clip for children of 6 to 8. Check it says about 206 bones in a grown-up, and does not show scary pictures."
+   "check": "Found by search: \"Your Super Skeleton!\" by SciShow Kids, 4 minutes. A parent may preview it."
   },
   {
-   "title": "How joints move: hinge and ball and socket",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows inside an elbow and a shoulder, to go with the torch test.",
-   "check": "Find a clip with a clear animation of a hinge joint and a ball and socket joint. Check that it calls the elbow and knee hinges, and the shoulder and hip ball and socket joints."
+   "title": "How Do Our Bodies Move?",
+   "channel": "SciShow Kids",
+   "youtube": "j918PoWWaB0",
+   "mins": 4,
+   "why": "Shows how bones, joints and muscles let the body move, to go with the torch test.",
+   "check": "Found by search: \"How Do Our Bodies Move?\" by SciShow Kids, 3 minutes, 36 seconds. A parent may preview it."
   },
   {
-   "title": "How a broken bone heals",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows bone cells building new bone across a break, to go with the story of Thatha's wrist.",
-   "check": "Find a gentle clip with an animation or X-rays, without pictures of open wounds. Check it says a cast keeps the bone still while the bone mends itself."
+   "title": "How Do Broken Bones Heal?",
+   "channel": "Peekaboo Kidz",
+   "youtube": "yovH2-Uw7i8",
+   "mins": 5,
+   "why": "Shows how a broken bone mends itself, to go with the story of Thatha's wrist.",
+   "check": "Found by search: \"How Bone Fractures Heal? | How Does a Broken Bone Heal? | Process of Bone Healing | Dr. Binocs Show\" by Peekaboo Kidz, 5 minutes, 27 seconds. A parent may preview it."
   }
  ],
  "quiz": [

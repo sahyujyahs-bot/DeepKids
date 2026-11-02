@@ -454,9 +454,9 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
    **Answer:** Cells have chemicals and metals inside. In the dustbin they can leak into the soil and water. At e-waste, the metals can be used again.. *Why:* A strong answer names the harm (chemicals leaking) and the good (metals used again).
 
 ## Videos
-- **How electricity gets from a power station to your home** (, 4 min) id `to find`: Shows the path of mains electricity: the power station, tall towers, street wires and the home. *Check:* Find a short, accurate clip for children, for example from a science museum or a power company. Check that it does not tell children to touch any wires.
+- **How does electricity get into our homes?** (Fun Kids Learn, 2 min) id `39DHRal-uzM`: Shows the path of mains electricity: the power station, tall towers, street wires and the home. *Check:* Found by search: "How does electricity get into our homes?" by Fun Kids Learn, 2 minutes. A parent may preview it.
 - **Inside a hydroelectric dam in India** (, 4 min) id `to find`: Shows falling water spinning machines that make electricity, as at the Idukki dam in Kerala. *Check:* Find real footage of an Indian hydroelectric station, such as Idukki or Bhakra Nangal. Check that the facts said are correct.
-- **A touch-me-not plant folding her leaves** (, 2 min) id `to find`: Shows a plant sensing a touch and acting within seconds, using electric signals. *Check:* Find a clear slow or real-time clip of Mimosa pudica being touched. Check it shows real footage, not animation.
+- **Sensitive plant (touch-me-not) leaves folding when touched** (99Chemicals, 2 min) id `XTi6eDeKkQI`: Shows real footage of a plant sensing a touch and acting within seconds, as the leaves fold up. *Check:* Found by search: "Sensitive Plant (Mimosa pudica) Leaves Folding up in Response to Touch" by 99Chemicals, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What job does electricity do in a tube light?  

@@ -447,9 +447,9 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
    **Answer:** A drawing of an adult animal with her young.. *Why:* A strong drawing shows an adult animal close to the young ones, and says what she does for them, such as feeding or guarding.
 
 ## Videos
-- **How smell works, for children** (, 4 min) id `to find`: Shows how tiny bits of a thing float into the nose, and how the nose tells smells apart. *Check:* Find a short, accurate video. Check it does not say humans have a weak sense of smell.
-- **An Asian elephant family in an Indian forest** (, 4 min) id `to find`: Shows real elephant mothers, aunts and calves walking and bathing together. *Check:* Find real footage of Asian elephants in India, for example from Nagarahole, Bandipur or Kaziranga. Check that it says males leave the family group.
-- **Ants in their nest: a queen and her daughters** (, 3 min) id `to find`: Shows inside an ant nest, with the queen laying eggs and her daughters caring for the young. *Check:* Find real footage. Check it says worker ants are female and daughters of a queen.
+- **How your nose works, for children** (Peekaboo Kidz, 6 min) id `V9CpmgTPhu8`: Shows how tiny bits of a thing float into the nose, and how the nose tells smells apart. *Check:* Found by search: "How Your Nose Works? - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz" by Peekaboo Kidz, 6 minutes. A parent may preview it.
+- **What makes Indian elephants special** (BBC Earth Kids, 3 min) id `cMh4uCcvK7Q`: Shows real Indian (Asian) elephants and what is special about them, as a start for talking about elephant families. *Check:* Found by search: "What Makes Indian Elephants So Special? | Asia Fun Facts | BBC Earth Kids" by BBC Earth Kids, 3 minutes. A parent may preview it.
+- **What's inside an anthill** (Insider Science, 3 min) id `HedZXw_hAbs`: Shows inside an ant nest, with the queen laying eggs and her daughters caring for the young. *Check:* Found by search: "What's Inside An Anthill? | Insider Science" by Insider Science, 3 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a family?  

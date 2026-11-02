@@ -365,9 +365,9 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
    **Answer:** One pod could be unusual. Five pods show us if the pattern is true for many pods.. *Why:* A strong answer says that more pods make the result more trustworthy.
 
 ## Videos
-- **Gregor Mendel and his pea plants, explained simply** (, 4 min) id `to find`: Shows how a monk found out, with pea plants, that features are passed from parents to children. *Check:* Find a short, accurate animation. Check it says tall and short pea plants gave all tall children, and short came back in the next generation.
-- **Pea plants growing, from seed to pod, as a time-lapse** (, 3 min) id `to find`: Shows a pea becoming a pea plant, and the plant making new pods of peas. *Check:* Find a real time-lapse of garden peas, not a cartoon. Check it shows flowers turning into pods.
-- **Identical twins: alike and different** (, 3 min) id `to find`: Shows real twins who look the same, and the small ways they differ. *Check:* Find a calm, accurate clip suitable for a 6-year-old. Check it says identical twins have the same genes but different fingerprints.
+- **How Mendel's pea plants helped us understand genetics** (TED-Ed, 3 min) id `Mehz7tCxjSE`: Shows how a monk found out, with pea plants, that features are passed from parents to children. *Check:* Found by search: "How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz" by TED-Ed, 3 min 7 s. A parent may preview it.
+- **Growing Pea Time Lapse** (Boxlapse, 4 min) id `jiVIz8R0JWI`: Shows a pea becoming a pea plant, in real time-lapse footage. *Check:* Found by search: "Growing Pea Time Lapse" by Boxlapse, 4 min 3 s. A parent may preview it.
+- **What's it like to be a twin?** (Mystery Science, 7 min) id `Xyq4y9JD5XE`: Shows real twins and how they are alike and different, in a calm clip made for children. *Check:* Found by search: "What's it like to be a twin?" by Mystery Science, 6 min 56 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is true for every person in the world?  

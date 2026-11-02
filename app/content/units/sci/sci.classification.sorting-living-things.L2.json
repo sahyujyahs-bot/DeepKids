@@ -1151,31 +1151,28 @@
  ],
  "videos": [
   {
-   "title": "Jane Goodall's chimpanzees fishing for termites at Gombe",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows chimpanzees poking grass stems into a termite mound and eating the termites. This is how Jane Goodall found that chimpanzees eat animal food too.",
-   "check": "Find real footage of chimpanzees termite fishing, ideally from Gombe or the Jane Goodall Institute. Check that the narration is accurate."
-  },
-  {
-   "title": "The Indian pangolin up close: scales, hair and a baby",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a pangolin's scales, and the mother carrying her baby, so the child sees why a scaly animal is a mammal.",
-   "check": "Find a real video of an Indian or other Asian pangolin. Check it shows the scales clearly and says nothing false. Avoid videos of pangolins being sold or hunted."
-  },
-  {
-   "title": "Ants carrying food back to the nest",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Termite fishing: chimpanzees at work",
+   "channel": "Dr. Jane Goodall & the Jane Goodall Institute USA",
+   "youtube": "inFkERO30oM",
    "mins": 2,
-   "why": "Shows ants carrying both sweet food and dead insects, close up, so the child can compare the film with their own ant test.",
-   "check": "Find a short, real close-up video of ants carrying food. Check no ants are harmed for the film."
+   "why": "Shows chimpanzees poking grass stems into a termite mound and eating the termites. This is how Jane Goodall found that chimpanzees eat animal food too.",
+   "check": "Found by search: \"Termite Fishing\" by Dr. Jane Goodall & the Jane Goodall Institute USA, 2 minutes. A parent may preview it."
+  },
+  {
+   "title": "Getting to know pangolins",
+   "channel": "Wildlife SOS",
+   "youtube": "26fJRVtMG3g",
+   "mins": 2,
+   "why": "Shows pangolins and their scales up close, so the child sees what a scaly animal that is a mammal looks like.",
+   "check": "Found by search: \"Get to Know Pangolins on World Pangolin Day!\" by Wildlife SOS, 1 minute 44 seconds. A parent may preview it."
+  },
+  {
+   "title": "How crazy ants carry heavy loads",
+   "channel": "National Geographic",
+   "youtube": "fjyTkagc8BI",
+   "mins": 1,
+   "why": "Shows ants carrying food together, close up, so the child can compare the film with their own ant test.",
+   "check": "Found by search: \"How Crazy Ants Carry Heavy Loads\" by National Geographic, 1 minute. A parent may preview it."
   }
  ],
  "quiz": [

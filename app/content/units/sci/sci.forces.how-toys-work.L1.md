@@ -461,9 +461,9 @@ Ammamma clapped, and Tara wrote it in her science book.
    **Answer:** Any toy, with a clear way it moves and what starts it, such as 'a spinning flower top that I start by twisting it with my fingers'.. *Why:* A strong answer names the move, roll, bounce or spin, and the push or pull that starts it.
 
 ## Videos
-- **Toy makers in Channapatna or Etikoppaka turning wooden tops and toys on a lathe** (, 4 min) id `to find`: Shows real toy makers in Karnataka or Andhra Pradesh shaping round toys and tops by spinning the wood. *Check:* Find a real clip from a news channel, a crafts council or a documentary. Check it shows the lathe spinning and a top being shaped.
-- **A bouncing ball filmed in slow motion** (, 2 min) id `to find`: In slow motion you can see the ball squash flat on the floor and spring back up. *Check:* Find a real slow-motion clip from a science channel or a museum. Check that the squash is clearly visible and the clip is real footage, not animation.
-- **Arvind Gupta making a simple spinning toy from waste** (Arvind Gupta Toys, 3 min) id `to find`: Arvind Gupta, an Indian toy maker and science teacher, shows how to make a top or a roller from things people throw away. *Check:* Find a short clip on the Arvind Gupta Toys channel that makes a top or a rolling toy. Check that the materials are home things and the toy works.
+- **How Channapatna's 200-year-old wooden toy craft is made** (The News Minute, 6 min) id `7SM38YUcem0`: Shows real toy makers in Karnataka shaping wooden toys on a spinning lathe. *Check:* Found by search: "How Channapatna’s 200-year-old toy making craft is bouncing back from the edge of death" by The News Minute, 6 minutes. A parent may preview it.
+- **A tennis ball bounce in slow motion** (ScienceLuxembourg, 1 min) id `1yT0hxplVBg`: In slow motion you can see the ball squash flat on the floor and spring back up. *Check:* Found by search: "The Beauty of Slow Motion - Tennis Ball Bounce" by ScienceLuxembourg, 21 seconds. A parent may preview it.
+- **Bottle spinner made from waste** (Arvind Gupta, 3 min) id `fEj5f85ObFI`: Arvind Gupta, an Indian toy maker and science teacher, shows how to make a spinning toy from things people throw away. *Check:* Found by search: "Bottle Spinner | English" by Arvind Gupta, 2 minutes 49 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these will roll down a slope?  

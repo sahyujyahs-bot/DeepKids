@@ -1387,31 +1387,28 @@
  ],
  "videos": [
   {
-   "title": "What happens to your body when you exercise: breathing and heart rate, for children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What happens inside your body when you exercise",
+   "channel": "British Heart Foundation",
+   "youtube": "wWGulLAa0O0",
    "mins": 3,
    "why": "Shows the lungs and heart working harder during exercise, which a child cannot see inside themselves.",
-   "check": "Find a real, accurate video for age 7. Check it says muscles need more oxygen, not that the lungs 'run out of air'."
+   "check": "Found by search: \"What happens inside your body when you exercise?\" by British Heart Foundation, 2 min 33 s. A parent may preview it."
   },
   {
-   "title": "Why do we need sleep? An animated explainer for children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows that the body grows and repairs, and the brain sorts memories, during sleep.",
-   "check": "Find a real video from a hospital, university or science channel. Check it gives 9 to 12 hours for school-age children and does not overclaim what is known about dreams."
-  },
-  {
-   "title": "How other animals sleep: elephants, dolphins, bats and birds",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why do we need sleep?",
+   "channel": "SciShow Kids",
+   "youtube": "_aAmaCeq9v4",
    "mins": 4,
-   "why": "Shows real footage of humans' fellow animals sleeping in very different ways.",
-   "check": "Find a real nature or science video. Check any sleep hours given, and that dolphins are shown sleeping with half the brain at a time."
+   "why": "Shows that the body grows and repairs, and the brain sorts memories, during sleep.",
+   "check": "Found by search: \"Why Do We Need Sleep?\" by SciShow Kids, 3 min 33 s. A parent may preview it."
+  },
+  {
+   "title": "The funny ways that animals sleep",
+   "channel": "National Geographic",
+   "youtube": "8JSZkfMpJko",
+   "mins": 2,
+   "why": "Shows real footage of other animals sleeping in very different ways from humans.",
+   "check": "Found by search: \"The Funny Ways That Animals Sleep\" by National Geographic, 1 min 30 s. A parent may preview it."
   }
  ],
  "quiz": [

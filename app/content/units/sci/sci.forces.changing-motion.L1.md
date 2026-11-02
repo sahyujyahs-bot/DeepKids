@@ -435,9 +435,9 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
    **Answer:** The ball slows down over a longer time, so it stings less. *Why:* Pulling the hands back makes the ball slow down more slowly. The push on her hands is then smaller.
 
 ## Videos
-- **A spacecraft or astronaut drifting on the International Space Station** (, 3 min) id `to find`: Shows that a thing pushed gently in space keeps drifting until something stops it, because there is almost no air and no floor to slow it. *Check:* Find a real clip from NASA or ISRO of an astronaut pushing off gently and floating across a module. Check it is real footage.
-- **Ducks or geese landing on water, in slow motion** (, 2 min) id `to find`: Shows birds pushing their feet forward and spreading their wings to slow down as they land, like Ammu's oar. *Check:* Find a slow-motion nature clip of real ducks or geese landing feet first.
-- **A country boat on the Kerala backwaters** (, 3 min) id `to find`: Shows a rower pulling the oar back to go and pushing forward to slow down, as in the story. *Check:* Find a real clip of a small rowing boat or canoe in Alappuzha or Kuttanad. Check that the rowing is shown clearly.
+- **Astronauts floating and swimming through the space station** (VideoFromSpace, 3 min) id `Yso7ga84NMQ`: Shows that a thing pushed gently in space keeps drifting until something stops it, because there is almost no air and no floor to slow it. *Check:* Found by search: "Astronauts show off 'synchronized space swimming' skills on space station" by VideoFromSpace, 2 minutes 46 seconds. A parent may preview it.
+- **Ducks landing on water in slow motion** (Joe Flo, 2 min) id `mfHhc6_YOek`: Shows birds pushing their feet forward and spreading their wings to slow down as they land, like Ammu's oar. *Check:* Found by search: "Ducks landing in water - slow motion" by Joe Flo, 1 minute 34 seconds. A parent may preview it.
+- **How to row a boat** (boats.com, 2 min) id `uHn94aJPSeo`: Shows a rower pulling the oars back to move the boat and pushing forward to slow it, as in the story. *Check:* Found by search: "How To Row a Boat" by boats.com, 2 minutes 7 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) A ball is lying still on the floor. What will make it start rolling?  

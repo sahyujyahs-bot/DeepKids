@@ -406,9 +406,9 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
    **Answer:** I could shut my eyes and point to my friend when they say my name. Or I could find a hidden phone by walking to where the song gets louder.. *Why:* A strong answer uses something from the unit, such as the Find the Hidden Song game or pointing to a voice, to show that ears can tell where a sound is.
 
 ## Videos
-- **Katy Payne and the elephants' low rumbles** (, 3 min) id `to find`: Shows elephants calling each other with rumbles too low for people to hear, and how Katy Payne found them. *Check:* Find a real clip from a nature programme or the Elephant Listening Project at Cornell that shows elephant rumbles and credits Katy Payne correctly.
-- **A cricket's ears on her front legs, close up** (, 2 min) id `to find`: Shows the tiny round ears on a cricket's front legs, and a female walking towards a male's song. *Check:* Find a clip that shows the ear patches clearly and says they are on the front legs.
-- **Evelyn Glennie on listening with the whole body** (, 4 min) id `to find`: Evelyn Glennie is a drummer who is deaf. She plays barefoot and feels sound through her body. It shows that hearing is more than ears. *Check:* Find a short part of her real talk or an interview, and choose a part a six-year-old can follow.
+- **How elephants talk with sounds too low for us to hear** (BBC Earth, 3 min) id `uQfDazQ9Rkg`: Shows elephants calling each other with rumbles too low for people to hear, and how scientists found them. *Check:* Found by search: "Mystery of Elephant Infrasounds Revealed | Animal Super Senses | BBC Earth" by BBC Earth, 3 minutes. A parent may preview it.
+- **Why crickets sing, close up** (Deep Look (KQED), 4 min) id `fh3uNUrAnss`: Close-up footage of a cricket singing to be heard by other crickets. A parent can point out that crickets hear with ears on their front legs. *Check:* Found by search: "Why Crickets Just Won't Shut Up | Deep Look" by Deep Look, 4 minutes. A parent may preview it.
+- **Feeling sound with Evelyn Glennie** (Evelyn Glennie, 6 min) id `Gl2a6w6sTAs`: Evelyn Glennie is a drummer who is deaf. She plays barefoot and feels sound through her body. It shows that hearing is more than ears. *Check:* Found by search: "Feeling Sound with Evelyn Glennie" by Evelyn Glennie, 6 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which part of your ear can you see and touch?  

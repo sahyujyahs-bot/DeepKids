@@ -403,9 +403,9 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
    **Answer:** ['banana: P', 'rice: P', 'dead mosquito: A', 'boiled egg: A']. *Why:* Banana and rice grew on plants. A mosquito is an animal, and an egg was laid by a hen.
 
 ## Videos
-- **Jane Goodall's chimpanzees fishing for termites at Gombe** (, 3 min) id `to find`: Shows chimpanzees poking grass stems into a termite mound and eating the termites. This is how Jane Goodall found that chimpanzees eat animal food too. *Check:* Find real footage of chimpanzees termite fishing, ideally from Gombe or the Jane Goodall Institute. Check that the narration is accurate.
-- **The Indian pangolin up close: scales, hair and a baby** (, 3 min) id `to find`: Shows a pangolin's scales, and the mother carrying her baby, so the child sees why a scaly animal is a mammal. *Check:* Find a real video of an Indian or other Asian pangolin. Check it shows the scales clearly and says nothing false. Avoid videos of pangolins being sold or hunted.
-- **Ants carrying food back to the nest** (, 2 min) id `to find`: Shows ants carrying both sweet food and dead insects, close up, so the child can compare the film with their own ant test. *Check:* Find a short, real close-up video of ants carrying food. Check no ants are harmed for the film.
+- **Termite fishing: chimpanzees at work** (Dr. Jane Goodall & the Jane Goodall Institute USA, 2 min) id `inFkERO30oM`: Shows chimpanzees poking grass stems into a termite mound and eating the termites. This is how Jane Goodall found that chimpanzees eat animal food too. *Check:* Found by search: "Termite Fishing" by Dr. Jane Goodall & the Jane Goodall Institute USA, 2 minutes. A parent may preview it.
+- **Getting to know pangolins** (Wildlife SOS, 2 min) id `26fJRVtMG3g`: Shows pangolins and their scales up close, so the child sees what a scaly animal that is a mammal looks like. *Check:* Found by search: "Get to Know Pangolins on World Pangolin Day!" by Wildlife SOS, 1 minute 44 seconds. A parent may preview it.
+- **How crazy ants carry heavy loads** (National Geographic, 1 min) id `fjyTkagc8BI`: Shows ants carrying food together, close up, so the child can compare the film with their own ant test. *Check:* Found by search: "How Crazy Ants Carry Heavy Loads" by National Geographic, 1 minute. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which animal has feathers?  

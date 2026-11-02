@@ -400,9 +400,9 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
    **Answer:** For example: snip every loop before it goes in the bin, so no animal gets trapped. Or carry a cloth bag, so we use fewer plastic bags.. *Why:* A strong answer names a real action and says which harm it stops.
 
 ## Videos
-- **The Hargila Army: women in Assam who saved the greater adjutant stork** (, 4 min) id `to find`: A true story of village women in Assam, led by Purnima Devi Barman, protecting the nests of a rare stork. *Check:* Find a real video about Purnima Devi Barman and the Hargila Army. Check that it names the bird correctly and shows the village women.
-- **How bird rescuers help birds hurt by kite string at Uttarayan or Sankranti** (, 3 min) id `to find`: Shows why kite string is dangerous, and what a family should do if they find a trapped bird. *Check:* Find a real video from an Indian bird rescue group. Check that it is gentle for young children and does not show badly hurt birds.
-- **Sea turtles and plastic bags** (, 3 min) id `to find`: Shows how a floating bag looks like a jellyfish to a turtle, like the bag-in-the-bucket test. *Check:* Find a real, accurate video. Check that it does not show distressing injuries and that it says scientists think turtles mistake bags for jellyfish.
+- **Purnima Devi Barman and the Hargila Army, Whitley Gold Award film** (Whitley Awards, 4 min) id `KHMty9NW1II`: A true story of village women in Assam, led by Purnima Devi Barman, protecting the nests of a rare stork. *Check:* Found by search: "Purnima Devi Barman | Sir David Attenborough presents 2024 Whitley Gold Award | India" by Whitley Awards, 4 min. A parent may preview it.
+- **Handling bird emergencies during Makar Sankranti** (Wildlife Trust of India, 4 min) id `be2DXrhWE0s`: Shows what a family should do if they find a bird hurt or trapped by kite string, from an Indian wildlife group. *Check:* Found by search: "Handling Bird Emergencies during Makar Sankranti Festival in India" by Wildlife Trust of India, 4 min. A parent may preview it.
+- **Jellyfish or plastic bag? A look at what turtles may mistake** (Providence Children's Museum, 4 min) id `g89iTWrgixc`: Shows how a floating bag can look like a jellyfish to a turtle, like the bag-in-the-bucket test. *Check:* Found by search: "Jellyfish or Plastic Bag?" by Providence Children's Museum, 4 min. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is our environment?  

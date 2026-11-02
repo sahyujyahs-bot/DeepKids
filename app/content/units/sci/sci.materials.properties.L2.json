@@ -1423,31 +1423,28 @@
  ],
  "videos": [
   {
-   "title": "Transparent, translucent and opaque materials tested with a torch",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows light going through some materials and not others, like our light test.",
-   "check": "Not yet found. Search for a short torch test of transparent, translucent and opaque materials, and watch it first."
-  },
-  {
-   "title": "Water drops rolling off a lotus or chembu leaf, in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Transparent, translucent and opaque objects: how light passes through",
+   "channel": "Make It Easy Education",
+   "youtube": "Hy-XtuTlmN4",
    "mins": 2,
-   "why": "Shows a living leaf that is waterproof, with drops rolling off.",
-   "check": "Not yet found. Search for slow-motion water on a lotus or taro leaf, and watch it first."
+   "why": "Shows light going through some materials and not others, like our light test.",
+   "check": "Found by search: \"TRANSPARENT, TRANSLUCENT, OPAQUE OBJECT | LIGHT | HOW DO WE SEE THINGS? || SCIENCE EDUCATIONAL VIDEO\" by Make It Easy Education, 1 minute 34 seconds. A parent may preview it."
   },
   {
-   "title": "Stephanie Kwolek and the invention of Kevlar",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Tells the true story of the cloudy liquid that made a very strong fibre.",
-   "check": "Not yet found. Search for a short film about Stephanie Kwolek and Kevlar, and check the facts against the unit."
+   "title": "Pearl on a taro leaf: water drops rolling on a chembu leaf",
+   "channel": "Arvind Gupta",
+   "youtube": "XXmjDyyYYSU",
+   "mins": 1,
+   "why": "Shows a living leaf that is waterproof, with drops rolling off like pearls.",
+   "check": "Found by search: \"PEARL ON TARO LEAF - ENGLISH - 8MB.avi\" by Arvind Gupta, 1 minute 17 seconds. A parent may preview it."
+  },
+  {
+   "title": "The life of chemist Stephanie Kwolek, inventor of Kevlar",
+   "channel": "PBS NewsHour",
+   "youtube": "3TfsvaMsk8w",
+   "mins": 6,
+   "why": "Tells the true story of the chemist who made a very strong fibre from a cloudy liquid.",
+   "check": "Found by search: \"The life and achievements of chemist Stephanie Kwolek, inventor of Kevlar\" by PBS NewsHour, 5 minutes 47 seconds. A parent may preview it."
   }
  ],
  "quiz": [

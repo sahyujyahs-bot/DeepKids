@@ -1635,31 +1635,28 @@
  ],
  "videos": [
   {
-   "title": "A water drop falling and splashing, filmed in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "A water drop falling in slow motion",
+   "channel": "NatureFootage",
+   "youtube": "egOXgqjpNUM",
+   "mins": 1,
    "why": "Shows a single drop falling straight down and landing, slowly enough to watch.",
-   "check": "Find a real slow-motion clip of a falling water drop from a science channel. Check that it is real footage, not animation."
+   "check": "Found by search: \"Slow Motion Water Drop Falling\" by NatureFootage, 19 seconds. A parent may preview it."
   },
   {
-   "title": "A kite or an eagle soaring and swooping",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a bird staying up on spread wings and swooping down when she folds them, like the kite in the story.",
-   "check": "Find a real nature clip of a black kite or a similar bird soaring and diving. Check that it shows wings spread and then tucked in."
-  },
-  {
-   "title": "Jog Falls in Karnataka during the monsoon",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Black kites soaring in the sky, close up",
+   "channel": "vogelarchiv.de",
+   "youtube": "GyhuhgUSYwI",
    "mins": 2,
+   "why": "Shows kites staying up on spread wings and gliding, like the kite in the story.",
+   "check": "Found by search: \"Black Kites in flight- close up\" by vogelarchiv.de, 1 minute, 41 seconds. A parent may preview it."
+  },
+  {
+   "title": "Jog Falls in Karnataka in full flow",
+   "channel": "High Level Tourism",
+   "youtube": "vTBddXPeAvE",
+   "mins": 5,
    "why": "Shows a huge amount of water falling straight down a cliff, pulled by the Earth.",
-   "check": "Find a real clip of Jog Falls in the monsoon, from a news channel or a travel channel. Check that it is the real place."
+   "check": "Found by search: \"Jog Falls in full flow | Full water in Jogfalls\" by High Level Tourism, 4 minutes, 36 seconds. A parent may preview it."
   }
  ],
  "quiz": [

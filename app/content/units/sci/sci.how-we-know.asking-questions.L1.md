@@ -407,9 +407,9 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
    **Answer:** A strong answer uses the dabbas: we never saw inside, but sounds, weight and rolling told us. Opening the lid checked it.. *Why:* A strong answer uses the child's own experiment as evidence against the idea.
 
 ## Videos
-- **Inge Lehmann and the inner core of the Earth, a short explainer** (, 4 min) id `to find`: Shows how earthquake shaking travels through the Earth, and how Inge Lehmann found the inner core from it. *Check:* Find a short, accurate explainer for children or families that names Inge Lehmann and the year 1936.
-- **A magpie robin or another bird pecking at their reflection in a window** (, 2 min) id `to find`: Shows the real behaviour in the story: a bird mistaking their reflection for another bird. *Check:* Find a real, unedited clip, ideally of an oriental magpie robin in India.
-- **Crows exploring a new object or solving a puzzle** (, 3 min) id `to find`: Shows another animal observing closely and finding out about something new. *Check:* Find a clip from a university study or a nature programme that describes the crows' behaviour accurately.
+- **Inge Lehmann, a journey to the centre of the Earth** (Geopop, 5 min) id `glPqWiz1YVM`: Shows how earthquake shaking travels through the Earth, and how Inge Lehmann found the inner core from it. *Check:* Found by search: "Inge Lehmann, a journey to discover the center of the Earth" by Geopop, 4 minutes, 43 seconds. A parent may preview it.
+- **Why do birds attack windows and mirrors?** (wgaltv, 2 min) id `1yrBXQaOTgI`: Shows the real behaviour in the story: a bird mistaking their reflection for another bird, and why that happens. *Check:* Found by search: "Wild Moments: Why are birds attacking windows and mirrors?" by wgaltv, 1 minute, 41 seconds. A parent may preview it.
+- **Are crows the ultimate problem solvers?** (BBC, 3 min) id `AVaITA7eBZE`: Shows another animal observing closely and finding out about something new. *Check:* Found by search: "Are crows the ultimate problem solvers? - Inside the Animal Mind: Episode 2 - BBC" by BBC, 3 minutes, 20 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Meera sees a snail on the balcony wall. Which one is a question?  

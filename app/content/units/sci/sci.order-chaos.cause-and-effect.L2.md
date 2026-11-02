@@ -455,9 +455,9 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
    **Answer:** 1. *Why:* The wide empty gap means the domino before it has nothing to hit. In the other two, every link can reach the next.
 
 ## Videos
-- **Domino chain reaction where each domino is bigger than the last** (, 3 min) id `to find`: Shows a small domino starting a chain of growing dominoes that ends with a very big one, so children see a small push passing along and growing. *Check:* Not yet found. Look for a domino chain of growing sizes, such as one based on Lorne Whitehead's 1983 idea, with no wrong claims about energy.
-- **Newton's cradle and a line of coins in slow motion** (, 3 min) id `to find`: Shows a push passing through balls or coins that hardly move, so only the last one swings or slides away. *Check:* Not yet found. Look for a slow-motion video that shows the middle balls staying almost still.
-- **A simple chain reaction machine built at home** (, 4 min) id `to find`: Shows a chain of causes with dominoes, ramps and balls, so children get ideas for the Chain Reaction Machine challenge. *Check:* Not yet found. Choose a short video that uses home things and has no dangerous parts such as fire or mousetraps.
+- **Domino chain reaction where each domino is bigger than the last** (Stephen Morris, 1 min) id `5JCm5FY-dEY`: Shows a small domino starting a chain of growing dominoes that ends with a very big one, so children see a small push passing along and growing. *Check:* Found by search: "Domino Chain Reaction (short version): geometric growth in action" by Stephen Morris, 1 minute 11 seconds. A parent may preview it.
+- **Science Max: Giant Newton's Cradle** (Science Max - Scholastic, 2 min) id `UJY8WAlS-hM`: Shows a push passing through a line of hanging balls, so only the last one swings away. *Check:* Found by search: "Science Max | Mini Max | Giant Newton's Cradle" by Science Max - Scholastic, 1 minute 51 seconds. A parent may preview it.
+- **Chain Reaction Machine from Design Squad** (Design Squad, 3 min) id `vblk7RIwa4A`: Shows a chain of causes with simple parts, so children get ideas for the Chain Reaction Machine challenge. *Check:* Found by search: "Chain Reaction Machine | Design Squad" by Design Squad, 2 minutes 37 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a cause?  

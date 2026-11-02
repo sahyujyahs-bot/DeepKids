@@ -473,9 +473,9 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
    **Answer:** 3. *Why:* A lift has a motor that starts it. The football, the curtain and the cart are moved by a foot, the wind and a person.
 
 ## Videos
-- **Jupiter's four big moons moving over several nights, seen through a telescope** (, 2 min) id `to find`: Shows the moons going back and forth beside Jupiter, as Galileo saw them, because we see their circles from the side. *Check:* Find real telescope footage or a real photo sequence, not an animation passed off as a photo. NASA or an astronomy club is a good source.
-- **Seedlings bending towards light, a time-lapse** (, 2 min) id `to find`: Shows seedlings moving by themselves towards a light, as in the seedling project. *Check:* Find a real time-lapse of seedlings such as mustard, cress or beans bending to a window or lamp.
-- **A ball going round on a string and its shadow on a wall** (, 2 min) id `to find`: Shows a round motion and its back-and-forth shadow side by side, as in the keys test. *Check:* Find a real demonstration of circular motion and its shadow, often shown next to a swinging pendulum. Check that it does not use any wrong words for the child's level.
+- **Jupiter and its moons, a six hour time-lapse** (Ted Judah, 1 min) id `WuJWitQx_Zk`: Shows the moons going back and forth beside Jupiter, as Galileo saw them, because we see their circles from the side. *Check:* Found by search: "Jupiter and Its Moons - Six Hour Timelapse" by Ted Judah, 27 seconds. A parent may preview it.
+- **Tomato seedlings bending towards light, a time-lapse** (MOTH, 1 min) id `Y_EjZdNUtEU`: Shows seedlings moving by themselves towards a light, as in the seedling project. *Check:* Found by search: "Phototropism Time Lapse | Tomato Seedlings Reaching for the Sun" by MOTH, 18 seconds. A parent may preview it.
+- **A ball going round in a circle and its shadow moving back and forth** (Brown Physics Demos, 1 min) id `J2gpEgjy1qg`: Shows a round motion and its back-and-forth shadow side by side, as in the keys test. Short, with no talking needed. *Check:* Found by search: "1D10.50 Simple Harmonic Motion and Uniform Circular Motion" by Brown Physics Demos, 26 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these moves in a straight line?  

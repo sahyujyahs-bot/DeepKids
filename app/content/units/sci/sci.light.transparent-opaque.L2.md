@@ -435,9 +435,9 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
    **Answer:** picture. *Why:* The layers scatter the light, so the picture gets mixed up, but some light still comes out.
 
 ## Videos
-- **A thin slice of rock under a microscope, with light shining through** (, 3 min) id `to find`: Shows that rock ground thinner than paper lets light through, as in the story of how we found out. *Check:* Find a real video of a geology thin section on a microscope with light from below, from a university or museum channel. Check it shows a real rock slice, not an animation.
-- **Going down into the deep sea: watching the sunlight fade** (, 3 min) id `to find`: Shows the water getting darker and darker as a deep-sea vehicle goes down, and animals that make their own light. *Check:* Find real footage from a submersible or a research ship, for example from an ocean research institute. Check the darkening is real, not edited, and that any depths shown match the unit.
-- **Beating gold into gold leaf** (, 3 min) id `to find`: Shows gold hammered so thin that light shines through it. *Check:* Find a real video of gold-leaf beating, ideally one that holds a leaf up to the light. Check that it shows real gold leaf.
+- **Rock slices thinner than a human hair, made in a geology lab** (Faculty of Geosciences Utrecht University, 5 min) id `7dFdUhHPWAk`: Shows how a rock is ground into a slice so thin that light shines through it, as in the story of how we found out. *Check:* Found by search: "Thin Section Lab – Rocks thinner than a human hair" by Faculty of Geosciences Utrecht University, 5 minutes 8 seconds. A parent may preview it.
+- **How deep is the ocean, and how the light fades** (Peekaboo Kidz, 6 min) id `fi-jB6MX6WU`: Explains, zone by zone, how the sea gets darker and darker as you go deeper, and that deep animals make their own light. *Check:* Found by search: "How Deep Is The Ocean? | OCEAN DEPTH | Dr Binocs Show | Peekaboo Kidz" by Peekaboo Kidz, 6 minutes 19 seconds. A parent may preview it.
+- **The art of gold beating, a 1959 film** (British Pathé, 3 min) id `2Lak64SAaIY`: Shows gold hammered into leaf so thin that light shines through it. *Check:* Found by search: "The Art of Gold Beating (1959) | British Pathé" by British Pathé, 3 minutes 16 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is transparent?  

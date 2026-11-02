@@ -1250,31 +1250,28 @@
  ],
  "videos": [
   {
-   "title": "Rice and pencil friction experiment: lifting a bottle of rice",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "Friction experiment: lifting a bottle of rice with a stick",
+   "channel": "Fizzics Education",
+   "youtube": "vn9fKJc1jkE",
+   "mins": 2,
    "why": "Shows the Rice Bottle Lift done well, so a family can see how tightly the rice must be packed.",
-   "check": "Find a short, real demonstration with a plastic bottle and a pencil or chopstick, which explains friction correctly."
+   "check": "Found by search: \"How to demonstrate friction using rice\" by Fizzics Education, 1 minute 58 seconds. A parent may preview it."
   },
   {
-   "title": "Halley's Comet, and how its return was predicted",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Halley's Comet and how its return was predicted",
+   "channel": "Scientific American",
+   "youtube": "Lzuh4eCrXzU",
+   "mins": 3,
    "why": "Shows what a comet looks like and how Halley predicted its return.",
-   "check": "Find an accurate explainer. Check it gives the 1705 prediction and the 1758 return, and ideally names Nicole-Reine Lepaute."
+   "check": "Found by search: \"Halley's Comet changed humanity. This is how.\" by Scientific American, 3 minutes 18 seconds. A parent may preview it."
   },
   {
-   "title": "How the India Meteorological Department forecasts the monsoon",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How do we know when it will rain? Predicting weather from measurements",
+   "channel": "SciShow Kids",
+   "youtube": "dLQ0lHpyZd8",
    "mins": 4,
-   "why": "Shows real predictions made from measurements, and why forecasts are often right but not always.",
-   "check": "Find a clear, accurate explainer from IMD, Prasar Bharati or a trusted science channel."
+   "why": "Shows how predictions are made from measurements, and why forecasts are often right but not always.",
+   "check": "Found by search: \"How Do We Know When It Will Rain? | Weather Science | SciShow Kids\" by SciShow Kids, 4 minutes 22 seconds. A parent may preview it."
   }
  ],
  "quiz": [

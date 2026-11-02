@@ -425,9 +425,9 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
    **Answer:** The surface of the metal became very smooth. *Why:* It was the same metal all along. Rubbing took away the tiny bumps, so the smooth surface reflected light back in one direction.
 
 ## Videos
-- **How an Aranmula kannadi, the metal mirror of Kerala, is made and polished** (, 4 min) id `to find`: Shows a dull metal disc becoming a mirror only by polishing, just like Achamma's mirror in the story. *Check:* Find a real clip of Aranmula mirror makers at work, from a news channel or a crafts body. Check that it shows the polishing.
-- **Paper and cloth under a microscope** (, 2 min) id `to find`: Shows that paper and cloth, which look and feel smooth, are tangles of tiny fibres. This is why they look dull. *Check:* Find a clip that shows real magnified paper fibres, not drawings.
-- **A telescope mirror being coated with shiny aluminium** (, 3 min) id `to find`: Shows that a telescope mirror is glass with a very thin shiny layer on top. The shine is all in the surface. *Check:* Find a clip from a real observatory showing a mirror being cleaned and coated.
+- **The making of the Aranmula Kannadi, the metal mirror of Kerala** (Aranmula Kannadi, 5 min) id `laoUeh8I2XM`: Shows a dull metal disc becoming a mirror only by polishing, just like Achamma's mirror in the story. *Check:* Found by search: "The Making Of Aranmula Kannadi (Aranmula Metal Mirror) by Sudhammal J" by Aranmula Kannadi, 5 minutes. A parent may preview it.
+- **Different types of paper under a microscope** (Vadim I, 3 min) id `SNWgI7mVsSM`: Shows real magnified paper, a tangle of tiny fibres, though it looks smooth. This is why paper looks dull. *Check:* Found by search: "Different Types of Paper under microscope [in 4K 2160p]" by Vadim I, 3 minutes. A parent may preview it.
+- **The 200-inch mirror and coating chamber at Palomar Observatory** (Palomar Observatory, 3 min) id `5PM8Gaf4fK8`: Shows that a telescope mirror is glass with a very thin shiny layer on top. The shine is all in the surface. *Check:* Found by search: "The 200-inch Mirror and Coating Chamber" by Palomar Observatory, 3 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) You press your thumb on a steel tumbler. Nothing squashes. What is the tumbler like?  

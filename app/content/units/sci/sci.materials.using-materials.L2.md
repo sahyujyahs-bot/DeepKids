@@ -422,9 +422,9 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
    **Answer:** ['the body: steel or aluminium, strong and carries heat to the food', 'the ring inside the lid: rubber, bends to seal the steam in', 'the handle: hard plastic, does not get very hot, so you can hold it']. *Why:* A pressure cooker uses three materials, each suited to its own part of the job.
 
 ## Videos
-- **A short video showing friction on a slope with different surfaces** (, 3 min) id `to find`: Shows the same idea as the tilt test: some surfaces let things slide sooner. *Check:* Find a real video and check it before adding an id.
-- **A short video on how rubber chappals or tyres are made to grip** (, 4 min) id `to find`: Shows why rubber is chosen where grip matters. *Check:* Find a real video and check it before adding an id.
-- **A short video on choosing materials for a job, for young children** (, 3 min) id `to find`: Shows how the job decides which material is suitable. *Check:* Find a real video and check it before adding an id.
+- **Friction on Different Surfaces** (Mrs. Arroyo, 2 min) id `IG4cc2A1MFI`: Shows the same idea as the tilt test: some surfaces let things slide sooner. *Check:* Found by search: "Friction on Different Surfaces" by Mrs. Arroyo, 2 minutes. A parent may preview it.
+- **How is rubber made?** (Maddie Moate, 6 min) id `tpAFPJ8pEdA`: Shows where rubber comes from and why it is stretchy, which is why it is used where grip matters. *Check:* Found by search: "How is RUBBER made?" by Maddie Moate, 6 minutes. A parent may preview it.
+- **Materials and their properties** (ClickView, 4 min) id `340MmuY_osY`: Shows how the job decides which material is suitable. *Check:* Found by search: "Materials And Their Properties" by ClickView, 4 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is friction?  

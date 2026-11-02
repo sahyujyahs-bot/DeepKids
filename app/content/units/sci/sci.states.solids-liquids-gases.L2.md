@@ -438,9 +438,9 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** 12. *Why:* 2 rows of 6 make 12. Each cube takes the shape of its little box, because the water was a liquid when she poured it in.
 
 ## Videos
-- **Solids, liquids and gases for young children** (, 4 min) id `to find`: Shows solids keeping their shape, liquids pouring into new shapes and gases spreading out. *Check:* Not yet found. Search for a short video on solids, liquids and gases for ages 6 to 8, and watch it first.
-- **The same water poured into different glasses: the conservation test** (, 3 min) id `to find`: Shows young children guessing that a tall glass holds more, like our pouring test. *Check:* Not yet found. Search for a video of the Piaget liquid conservation task, and check that it shows the pouring back.
-- **Ice melting and water boiling, filmed up close** (, 3 min) id `to find`: Shows ice turning into water, and water boiling into steam, with the clear gap above the water. *Check:* Not yet found. Search for a time-lapse of ice melting and a close-up of boiling water, and watch it first.
+- **3 States of Matter for Kids: solid, liquid, gas** (Free School, 5 min) id `wclY8F-UoTE`: Shows solids keeping their shape, liquids pouring into new shapes and gases spreading out. *Check:* Found by search: "3 States of Matter for Kids (Solid, Liquid, Gas): Science for Children - FreeSchool" by Free School, 4 min 35 s. A parent may preview it.
+- **A typical child on Piaget's conservation tasks** (munakatay, 4 min) id `gnArvcWaH6I`: Shows young children guessing that a tall glass holds more, like our pouring test. *Check:* Found by search: "A typical child on Piaget's conservation tasks" by munakatay, 3 min 50 s. A parent may preview it.
+- **Freezing point, melting point and boiling point (Dr. Binocs)** (Peekaboo Kidz, 6 min) id `Yv_vDQerOBk`: Explains ice melting into water and water boiling into steam, in simple cartoon form. *Check:* Found by search: "What is Freezing Point, Melting Point and Boiling Point? | Chemistry Lessons | Dr. Binocs Show" by Peekaboo Kidz, 6 min 26 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) What does a solid do?  

@@ -489,9 +489,9 @@ Kutti was already lying in the new patch.
    **Answer:** False. *Why:* False. The Sun sets exactly in the west only around 21 March and 23 September. On other days it sets a little north or south of west.
 
 ## Videos
-- **The Sun's path across the sky in a time-lapse** (, 3 min) id `to find`: Shows the Sun rising, climbing and setting in a few seconds, and shadows swinging round, after your child has watched their own sun patch move. *Check:* Find a real time-lapse, not a cartoon. Check that the camera stays still, that shadows can be seen moving, and that it never encourages looking at the Sun.
-- **Why does the Sun seem to move? The Earth turns, for young children** (, 4 min) id `to find`: Shows the turning Earth from space, so your child can see why the Sun seems to cross our sky. *Check:* Check that it says the Earth turns once a day, that it does not say the Sun goes round the Earth, and that it is clear for children of 6 to 8.
-- **Zero Shadow Day in an Indian city** (, 3 min) id `to find`: Shows upright objects losing their side shadows at noon on Zero Shadow Day, as in the noon card. *Check:* Find a clip filmed in India, for example in Bengaluru or Chennai. Check that the date and city are given and that it shows real objects at noon.
+- **Shadow time lapse: a shadow moving through the day** (GazdonianProductions, 1 min) id `3B7KLstUZbI`: Shows a shadow swinging round as the Sun crosses the sky in one day, after your child has watched their own sun patch move. *Check:* Found by search: "Sun's shadow time lapse  (N arrow is off a little bit)" by GazdonianProductions, 1 minute, 21 seconds. A parent may preview it.
+- **Earth's rotation and revolution, for children** (Crash Course Kids, 4 min) id `l64YwNl1wr0`: Shows the turning Earth, so your child can see why the Sun seems to cross our sky. It also mentions the Earth going round the Sun; the first part is the one for today. *Check:* Found by search: "Earth's Rotation & Revolution: Crash Course Kids 8.1" by Crash Course Kids, 4 minutes, 1 second. A parent may preview it.
+- **Zero Shadow Day in Bengaluru** (Firstpost, 3 min) id `I7kQR7mXnRs`: Shows objects losing their side shadows at noon on Zero Shadow Day in Bengaluru, as in the noon card. *Check:* Found by search: "India: Bengaluru Experiences Rare Celestial Event "Zero Shadow Day", Here is What it Means" by Firstpost, 3 minutes, 1 second. A parent may preview it.
 
 ## Quiz
 1. (mcq) On which side of the sky does the Sun set?  

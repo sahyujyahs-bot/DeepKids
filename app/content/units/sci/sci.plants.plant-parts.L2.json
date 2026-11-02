@@ -1837,31 +1837,28 @@
  ],
  "videos": [
   {
-   "title": "A banyan tree's hanging roots growing down to the ground",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows prop roots growing from branches and turning into pillars.",
-   "check": "Find a real video, check that it shows a banyan (Ficus benghalensis), and watch it fully first."
+   "title": "A banyan tree growing, with its hanging roots",
+   "channel": "Biologicallife",
+   "youtube": "LFVLnyn3UzI",
+   "mins": 1,
+   "why": "Shows how a banyan grows and sends roots down from its branches.",
+   "check": "Found by search: \"How does banyan tree grows?\" by Biologicallife, 1 minute, 23 seconds. A parent may preview it."
   },
   {
-   "title": "A lotus pond: leaves, stalks and the stem in the mud",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows where each lotus part grows, and the holes in a cut lotus stem.",
-   "check": "Find a real video and watch it first."
+   "title": "A lotus in its pond: leaves and flowers on stalks",
+   "channel": "WildFilmsIndia",
+   "youtube": "zerUknVf3oY",
+   "mins": 1,
+   "why": "Shows a real lotus in water, with its round leaves and flowers held up on long stalks.",
+   "check": "Found by search: \"Lotus or Nelumbo nucifera, National flower of India\" by WildFilmsIndia, 1 minute, 12 seconds. A parent may preview it."
   },
   {
-   "title": "A cactus swelling after rain",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a cactus stem storing water.",
-   "check": "Find a real video and check that it shows a true cactus, not another succulent."
+   "title": "How a cactus keeps water inside its stem",
+   "channel": "TED-Ed",
+   "youtube": "g9Szzb2YBXY",
+   "mins": 4,
+   "why": "Shows how a cactus stem stores water and holds it in.",
+   "check": "Found by search: \"Nature's fortress: How cacti keep water in and predators out\" by TED-Ed, 4 minutes, 20 seconds. A parent may preview it."
   }
  ],
  "quiz": [

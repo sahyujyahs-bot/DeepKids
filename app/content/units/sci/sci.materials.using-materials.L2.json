@@ -1583,31 +1583,28 @@
  ],
  "videos": [
   {
-   "title": "A short video showing friction on a slope with different surfaces",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "Friction on Different Surfaces",
+   "channel": "Mrs. Arroyo",
+   "youtube": "IG4cc2A1MFI",
+   "mins": 2,
    "why": "Shows the same idea as the tilt test: some surfaces let things slide sooner.",
-   "check": "Find a real video and check it before adding an id."
+   "check": "Found by search: \"Friction on Different Surfaces\" by Mrs. Arroyo, 2 minutes. A parent may preview it."
   },
   {
-   "title": "A short video on how rubber chappals or tyres are made to grip",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How is rubber made?",
+   "channel": "Maddie Moate",
+   "youtube": "tpAFPJ8pEdA",
+   "mins": 6,
+   "why": "Shows where rubber comes from and why it is stretchy, which is why it is used where grip matters.",
+   "check": "Found by search: \"How is RUBBER made?\" by Maddie Moate, 6 minutes. A parent may preview it."
+  },
+  {
+   "title": "Materials and their properties",
+   "channel": "ClickView",
+   "youtube": "340MmuY_osY",
    "mins": 4,
-   "why": "Shows why rubber is chosen where grip matters.",
-   "check": "Find a real video and check it before adding an id."
-  },
-  {
-   "title": "A short video on choosing materials for a job, for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
    "why": "Shows how the job decides which material is suitable.",
-   "check": "Find a real video and check it before adding an id."
+   "check": "Found by search: \"Materials And Their Properties\" by ClickView, 4 minutes. A parent may preview it."
   }
  ],
  "quiz": [

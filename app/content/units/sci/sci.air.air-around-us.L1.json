@@ -281,7 +281,11 @@
       },
       {
        "f": "The Moon",
-       "b": "I can see it, but I can't touch it. It is too far away."
+       "b": "I can see it, but I can't touch it. It is too far away.",
+       "img": {
+        "src": "media/cards/air-around-us-g1-0-10.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "A star at night",

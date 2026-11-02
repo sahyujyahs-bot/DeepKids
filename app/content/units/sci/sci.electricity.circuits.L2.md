@@ -467,9 +467,9 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    **Answer:** An electric signal. *Why:* Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do.
 
 ## Videos
-- **A child building a simple circuit with a cell, wires and a bulb** (, 3 min) id `to find`: Shows a real circuit being built, the bulb lighting and going dark when one wire is unclipped. *Check:* Find a short real-footage clip, without music that drowns the words. Check that it uses only small cells and no wall sockets.
-- **Inside a torch bulb, close up** (, 2 min) id `to find`: Shows the filament glowing up close, so children see which part makes the light. *Check:* Find a slow close-up of a filament bulb being switched on. Check that it is real footage, not a cartoon.
-- **A Venus flytrap closing** (, 2 min) id `to find`: Shows a plant who counts touches and acts on an electric signal in her leaf. *Check:* Find real footage of a Venus flytrap closing after her trigger hairs are touched twice. Check that it does not say she closes after one touch.
+- **The Power of Circuits** (SciShow Kids, 5 min) id `HOFp8bHTN30`: Explains for children how electricity needs a complete loop of cell, wires and bulb to work. *Check:* Found by search: "The Power of Circuits! | Technology for Kids | SciShow Kids" by SciShow Kids, 4 minutes 42 seconds. A parent may preview it.
+- **Light bulb filament, up close** (engineerguy, 4 min) id `DIGqBb3iZPo`: Shows the thin filament inside a bulb up close, so children see which part makes the light. *Check:* Found by search: "Light bulb filament" by engineerguy, 3 minutes 38 seconds. A parent may preview it.
+- **How a Venus flytrap works** (Peekaboo Kidz, 6 min) id `Rj4FiwB1FWE`: Shows a Venus flytrap closing its leaf trap, and how it works. *Check:* Found by search: "Deadliest Plants | How Does A Venus Flytrap Work? | Carnivorous Plants | The Dr. Binocs Show" by Peekaboo Kidz, 5 minutes 42 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) How many wires does a simple circuit with one cell and one bulb need?  

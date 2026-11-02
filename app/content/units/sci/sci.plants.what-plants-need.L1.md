@@ -364,8 +364,8 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 
 ## Videos
 - **A time-lapse of sprouts grown in the dark turning green in the light** (, 2 min) id `to find`: Shows in a minute what plate 3 does in a day. *Check:* Find a real video of yellow seedlings greening in light. Check it shows sprouts, not grown plants.
-- **A time-lapse of a wilted plant standing up after watering** (, 2 min) id `to find`: Shows what water does for a thirsty plant. *Check:* Find a real time-lapse. Check the plant is watered, not just moved.
-- **How plants make food from sunlight, for young children** (, 3 min) id `to find`: A short, simple picture of leaves making food with light, air and water. *Check:* Find a short, accurate video for age 6. Check it does not say plants get their food from the soil.
+- **A time-lapse of a wilted plant coming back to life after watering** (No, you can't have your wasted watching time back, 2 min) id `SNueDB29cwM`: Shows what water does for a thirsty plant. *Check:* Found by search: "Timelapse: Plant resurrected by water!" by No, you can't have your wasted watching time back, 2 minutes. A parent may preview it.
+- **Photosynthesis for kids: how plants make food from sunlight** (Free School, 5 min) id `XCzFE0SB2N4`: A short, simple picture of leaves making food with light, air and water. *Check:* Found by search: "Photosynthesis for Kids - Introduction to Photosynthesis for Children: FreeSchool" by Free School, 5 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What do plants need to grow?  

@@ -1836,13 +1836,12 @@
  ],
  "videos": [
   {
-   "title": "How electricity gets from a power station to your home",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How does electricity get into our homes?",
+   "channel": "Fun Kids Learn",
+   "youtube": "39DHRal-uzM",
+   "mins": 2,
    "why": "Shows the path of mains electricity: the power station, tall towers, street wires and the home.",
-   "check": "Find a short, accurate clip for children, for example from a science museum or a power company. Check that it does not tell children to touch any wires."
+   "check": "Found by search: \"How does electricity get into our homes?\" by Fun Kids Learn, 2 minutes. A parent may preview it."
   },
   {
    "title": "Inside a hydroelectric dam in India",
@@ -1854,13 +1853,12 @@
    "check": "Find real footage of an Indian hydroelectric station, such as Idukki or Bhakra Nangal. Check that the facts said are correct."
   },
   {
-   "title": "A touch-me-not plant folding her leaves",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Sensitive plant (touch-me-not) leaves folding when touched",
+   "channel": "99Chemicals",
+   "youtube": "XTi6eDeKkQI",
    "mins": 2,
-   "why": "Shows a plant sensing a touch and acting within seconds, using electric signals.",
-   "check": "Find a clear slow or real-time clip of Mimosa pudica being touched. Check it shows real footage, not animation."
+   "why": "Shows real footage of a plant sensing a touch and acting within seconds, as the leaves fold up.",
+   "check": "Found by search: \"Sensitive Plant (Mimosa pudica) Leaves Folding up in Response to Touch\" by 99Chemicals, 2 minutes. A parent may preview it."
   }
  ],
  "applications": [

@@ -1806,31 +1806,28 @@
  ],
  "videos": [
   {
-   "title": "Time-lapse of seedlings bending towards light",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows in a few seconds what takes a day by the window: young shoots curving towards a light from one side.",
-   "check": "Find a real time-lapse of seedlings (any kind) bending to side light. Check that the light source is shown, and watch it fully first."
+   "title": "Seedlings growing and bending towards light",
+   "channel": "GPhase",
+   "youtube": "DhITXtENPrU",
+   "mins": 1,
+   "why": "Shows young shoots curving towards a light from one side, in a few seconds instead of a day by the window.",
+   "check": "Found by search: \"Positive Phototropism | Demonstration\" by GPhase, 39 seconds. A parent may preview it."
   },
   {
    "title": "A touch-me-not (Mimosa pudica) folding when touched",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "channel": "99Chemicals",
+   "youtube": "XTi6eDeKkQI",
    "mins": 2,
    "why": "Shows the leaflets folding pair after pair, and the leaf stalk dropping after a firm touch.",
-   "check": "Find a real, unedited video. Check that the plant is Mimosa pudica, and choose one that also shows the leaflets opening again."
+   "check": "Found by search: \"Sensitive Plant (Mimosa pudica) Leaves Folding up in Response to Touch\" by 99Chemicals, 2 minutes, 19 seconds. A parent may preview it."
   },
   {
-   "title": "Time-lapse of roots turning down after a seedling is turned on their side",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows a root tip curving down within hours, like the root box.",
-   "check": "Find a real time-lapse of root gravitropism. Check that it is real footage, not an animation, and watch it fully first."
+   "title": "Bending plant roots with gravity",
+   "channel": "Science Buddies",
+   "youtube": "FSMbrMxCyYU",
+   "mins": 1,
+   "why": "Shows roots turning to grow downwards when a seedling is turned, like the root box.",
+   "check": "Found by search: \"Bending Plant Roots with Gravity | STEM Lesson Plan\" by Science Buddies, 1 minute, 25 seconds. A parent may preview it."
   }
  ],
  "quiz": [

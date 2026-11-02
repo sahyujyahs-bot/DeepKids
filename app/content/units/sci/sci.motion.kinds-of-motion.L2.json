@@ -1931,31 +1931,28 @@
  ],
  "videos": [
   {
-   "title": "Jupiter's four big moons moving over several nights, seen through a telescope",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "Jupiter and its moons, a six hour time-lapse",
+   "channel": "Ted Judah",
+   "youtube": "WuJWitQx_Zk",
+   "mins": 1,
    "why": "Shows the moons going back and forth beside Jupiter, as Galileo saw them, because we see their circles from the side.",
-   "check": "Find real telescope footage or a real photo sequence, not an animation passed off as a photo. NASA or an astronomy club is a good source."
+   "check": "Found by search: \"Jupiter and Its Moons - Six Hour Timelapse\" by Ted Judah, 27 seconds. A parent may preview it."
   },
   {
-   "title": "Seedlings bending towards light, a time-lapse",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "Tomato seedlings bending towards light, a time-lapse",
+   "channel": "MOTH",
+   "youtube": "Y_EjZdNUtEU",
+   "mins": 1,
    "why": "Shows seedlings moving by themselves towards a light, as in the seedling project.",
-   "check": "Find a real time-lapse of seedlings such as mustard, cress or beans bending to a window or lamp."
+   "check": "Found by search: \"Phototropism Time Lapse | Tomato Seedlings Reaching for the Sun\" by MOTH, 18 seconds. A parent may preview it."
   },
   {
-   "title": "A ball going round on a string and its shadow on a wall",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows a round motion and its back-and-forth shadow side by side, as in the keys test.",
-   "check": "Find a real demonstration of circular motion and its shadow, often shown next to a swinging pendulum. Check that it does not use any wrong words for the child's level."
+   "title": "A ball going round in a circle and its shadow moving back and forth",
+   "channel": "Brown Physics Demos",
+   "youtube": "J2gpEgjy1qg",
+   "mins": 1,
+   "why": "Shows a round motion and its back-and-forth shadow side by side, as in the keys test. Short, with no talking needed.",
+   "check": "Found by search: \"1D10.50 Simple Harmonic Motion and Uniform Circular Motion\" by Brown Physics Demos, 26 seconds. A parent may preview it."
   }
  ],
  "applications": [

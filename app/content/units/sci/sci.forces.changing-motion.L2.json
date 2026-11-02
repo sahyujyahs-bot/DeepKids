@@ -2230,31 +2230,28 @@
  "playtest": "Played every game through with 2 and with 4 players, and followed every experiment, activity, project and challenge step by step in a flat. Made the Shape, Speed or Direction rules clear for two players, with a reader who keeps the back hidden, a bonus point that does not give the answer away, and a tie-break; gave Ball Hockey a tie-break, a ball and a score sheet that grows with the players. Checked the minutes and steps add up, moved the rubber band warning into its own safety line, and took out the internal song note. Removed repeated questions between the experiment checks, quiz, worksheets and warm-up, gave the made-up ramp results to named children instead of the child's own, and changed living beings from 'it' to 'she'.",
  "videos": [
   {
-   "title": "Forces can change shape, speed and direction",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Effects of force on objects (animation)",
+   "channel": "EarthPen",
+   "youtube": "M0IaxJ3ekFc",
    "mins": 4,
    "why": "Shows everyday pushes and pulls changing shape, speed and direction, after your child has tried them at home.",
-   "check": "Find a short, accurate clip for children of 6 to 8. Check that it calls a force a push or a pull, and shows all three changes."
+   "check": "Found by search: \"Effects of Force on Objects | Animation\" by EarthPen, 3 min 53 s. A parent may preview it."
   },
   {
-   "title": "A ball leaving a curved track goes straight",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows, in slow motion if possible, a ball leaving a curved track or a circle with a gap and going straight on, to go with the Bend Wall test.",
-   "check": "Find a clip showing a real ball or puck leaving a curved wall. Check that it goes straight on, not in a curve, and that the clip does not talk about a force flinging things outwards."
+   "title": "A marble in a hoop goes straight when it leaves the hoop",
+   "channel": "PhysicsNerd4Life",
+   "youtube": "pp0xp7qv5lQ",
+   "mins": 1,
+   "why": "Shows a marble going round inside a hoop and, when it leaves the gap, moving straight on, to go with the Bend Wall test.",
+   "check": "Found by search: \"Newton's First Law of Motion - Marble & Hoop\" by PhysicsNerd4Life, 1 min 27 s. A parent may preview it."
   },
   {
-   "title": "How the Moon stays in its path round the Earth",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows how the Earth's gravity bends the Moon's path, like the wall bending the marble's path.",
-   "check": "Find a simple animation for children. Check that it says the Moon would go off straight without the Earth's pull, and does not say the Moon is held by nothing."
+   "title": "Why doesn't the Moon fall to Earth?",
+   "channel": "NASA Night Sky Network",
+   "youtube": "OKXVRu6JL54",
+   "mins": 5,
+   "why": "Shows how the Earth's gravity keeps bending the Moon's path so it goes round the Earth, like the wall bending the marble's path.",
+   "check": "Found by search: \"Why Doesn't the Moon Fall to Earth? Exploring Orbits and Gravity\" by NASA Night Sky Network, 5 min 27 s. A parent may preview it."
   }
  ]
 }

@@ -1222,31 +1222,28 @@
  ],
  "videos": [
   {
-   "title": "Saliva and starch: how digestion starts in the mouth",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why do we have saliva?",
+   "channel": "SciShow Kids",
+   "youtube": "SZYA9cQpSCU",
    "mins": 3,
-   "why": "Shows that saliva has amylase, which breaks starch into sugar.",
-   "check": "Find a short, accurate video. Check it does not say digestion only happens in the stomach."
+   "why": "Shows that saliva in the mouth starts breaking food down, the first step of digestion.",
+   "check": "Found by search: \"Why Do We Have Saliva?\" by SciShow Kids, 2 min 54 s. A parent may preview it."
   },
   {
-   "title": "Why we need protein, energy foods, vitamins and minerals, for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows the three jobs of food with real foods.",
-   "check": "Find one with foods familiar in India, such as rice, dal, greens and fruit. Check it does not call any whole food bad."
+   "title": "Food pyramid: how different foods affect your body",
+   "channel": "Peekaboo Kidz",
+   "youtube": "tsgyWIsYvxs",
+   "mins": 5,
+   "why": "Shows what different kinds of food do for the body, using real foods.",
+   "check": "Found by search: \"FOOD PYRAMID | How Different Foods Affect Your Body | The Dr Binocs Show\" by Peekaboo Kidz, 5 min 25 s. A parent may preview it."
   },
   {
-   "title": "How much sugar is in a sweet drink?",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows sugar spooned out next to common sweet drinks.",
-   "check": "Check the sugar amounts against the label numbers, and that it is not an advert."
+   "title": "How much sugar is in soda?",
+   "channel": "WonderGrove Kids",
+   "youtube": "Ibb1Se_ttvc",
+   "mins": 2,
+   "why": "Shows how much sugar is in a sweet drink.",
+   "check": "Found by search: \"How Much Sugar is in Soda? (Signing Savvy) S1 E18\" by WonderGrove Kids, 1 min 45 s. A parent may preview it."
   }
  ],
  "quiz": [

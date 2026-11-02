@@ -520,9 +520,9 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
    **Answer:** True. *Why:* True. Each calendar counts days in its own way, by the Sun or the Moon. The day itself is the same day.
 
 ## Videos
-- **How does an hourglass work? Sand that flows at a steady speed** (, 4 min) id `to find`: Shows sand running through an hourglass, and why it keeps steady time. *Check:* Find a short, accurate video. Check it says sand runs at nearly the same speed however much is left above it.
-- **A short history of clocks, from water clocks to atomic clocks** (, 5 min) id `to find`: Shows that every clock counts a steady change: water, sand, swings, quartz and atoms. *Check:* Find an accurate video for young children. Check that it includes clocks from India, China or the Islamic world, not only Europe.
-- **Jantar Mantar, Jaipur: the giant stone sundial** (, 4 min) id `to find`: Shows the Samrat Yantra, a huge sundial built by Sawai Jai Singh II, whose shadow moves visibly as time passes. *Check:* Find a real video of the Jaipur Jantar Mantar. Check the dates (completed by 1734) and that it does not overstate how exact the sundial is.
+- **An hourglass: what it is and how the sand runs** (Kids Station, 1 min) id `S6FrzrWksWA`: Shows sand running through an hourglass, so a child sees a steady fall of sand count out time. *Check:* Found by search: "Exploring the Hourglass: A Children's Guide with Braino | شرح الساعة الرملية" by Kids Station, 1 min. A parent may preview it.
+- **The history of keeping time** (TED-Ed, 4 min) id `74I0M0RKNIE`: Shows that clocks count a steady change, from sundials and water clocks onward. *Check:* Found by search: "The history of keeping time - Karen Mensing" by TED-Ed, 4 min. A parent may preview it.
+- **How an 18th century observatory in India was built so precisely** (HISTORY TV18, 4 min) id `DAMdQ-1yVbU`: Shows the stone observatory built in the 18th century in India, where shadows from huge stone instruments tell time. *Check:* Found by search: "How did they build an observatory so precise and accurate in 18th Century? #OMGIndia S01E08 Story 2" by HISTORY TV18, 4 min. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which happens first when making dosa?  

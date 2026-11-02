@@ -476,8 +476,8 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
    **Answer:** ['hide the real hand behind a book', 'put the glove where you can see it', 'stroke the glove and the hidden hand at the same moment', 'ask what each person felt']. *Why:* First hide the hand and set up the glove, then stroke, then ask.
 
 ## Videos
-- **Why can't you tickle yourself?** (, 4 min) id `to find`: Shows the robot tickle experiments, after your child has done the tickle test. *Check:* Find a short, accurate clip explaining that the brain predicts self-made touch. Check that it credits Sarah-Jayne Blakemore's work and does not say knowing alone explains it.
-- **Why does my voice sound weird on a recording?** (, 3 min) id `to find`: Explains hearing your voice through the bones of the head, after the recording activity. *Check:* Find a clip that explains bone conduction simply. Check it is suitable for a child of 7.
+- **Why can't you tickle yourself?** (SciShow, 3 min) id `LzGT3ICgB7A`: Explains that the brain predicts the touch of its own hand, after your child has done the tickle test. *Check:* Found by search: "Why can't you tickle yourself?" by SciShow, 2 min 41 s. A parent may preview it.
+- **Why does your voice sound different on a recording?** (Head Squeeze | BBC Earth Science, 3 min) id `uvosNz0Xq7g`: Explains hearing your voice through the bones of the head, after the recording activity. *Check:* Found by search: "Why does your voice sound different on a recording? Greg Foot Answers Your Questions" by Head Squeeze | BBC Earth Science, 2 min 52 s. A parent may preview it.
 - **How babies discover themselves** (, 4 min) id `to find`: Shows how babies come to know their own body, and the mirror test with young children. *Check:* Find a clip from a university or science channel. Check that it does not use scary or upsetting scenes.
 
 ## Quiz

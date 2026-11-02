@@ -396,31 +396,59 @@
      "items": [
       {
        "f": "Duck",
-       "b": "Walks on two webbed feet, swims by paddling, and flies with wings."
+       "b": "Walks on two webbed feet, swims by paddling, and flies with wings.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-00.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "Hops with long back legs, and swims by kicking webbed feet."
+       "b": "Hops with long back legs, and swims by kicking webbed feet.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-01.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rohu fish",
-       "b": "Swims with a tail fin and steers with side fins. Cannot leave the water."
+       "b": "Swims with a tail fin and steers with side fins. Cannot leave the water.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-02.jpg",
+        "credit": "vaazhaikumar, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snake",
-       "b": "Slides by pushing curves of the body on bumps. Swims and climbs too."
+       "b": "Slides by pushing curves of the body on bumps. Swims and climbs too.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-03.jpg",
+        "credit": "Ramit Singal, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "Walks and hops on two legs, and flies with wings."
+       "b": "Walks and hops on two legs, and flies with wings.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-04.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gecko",
-       "b": "Runs on four legs, and climbs walls and ceilings with gripping toes."
+       "b": "Runs on four legs, and climbs walls and ceilings with gripping toes.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-05.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ant",
-       "b": "Walks on six legs, climbs walls, and fits through tiny cracks."
+       "b": "Walks on six legs, climbs walls, and fits through tiny cracks.",
+       "img": {
+        "src": "media/cards/animal-bodies-g1-0-06.jpg",
+        "credit": "🪶🐾🍀Nandan Sreejith🦌🍄🌍, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You, a human",
@@ -2115,30 +2143,27 @@
  "videos": [
   {
    "title": "A frog jumping, filmed in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "See the frog's folded back legs open out and push, just like your bent knees in the Jump Test.",
-   "check": "Find a real slow-motion film of a frog jumping. Check that the legs are seen folding and straightening."
-  },
-  {
-   "title": "A duck's feet paddling under the water",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Watch the toes spread wide to push back, and fold together to come forward.",
-   "check": "Find a real underwater film of duck feet. Check that the toes are seen spreading and folding."
-  },
-  {
-   "title": "A cow chewing grass, seen from the front",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "channel": "National Geographic",
+   "youtube": "yKpJElwama8",
    "mins": 2,
-   "why": "See the cow's jaw swing from side to side, like the rubbing in the Press or Grind test.",
-   "check": "Find a real film of a cow or buffalo chewing, filmed from the front. Check that the side-to-side jaw movement is clear."
+   "why": "See the frog's folded back legs open out and push, just like your bent knees in the Jump Test.",
+   "check": "Found by search: \"Frog Jumps Caught in Slow-Motion\" by National Geographic, 2 min 29 s. A parent may preview it."
+  },
+  {
+   "title": "Duck feet under the water",
+   "channel": "JasminesMom4691 Schulze",
+   "youtube": "VXrOdyRKoF4",
+   "mins": 1,
+   "why": "Watch the toes spread wide to push back, and fold together to come forward.",
+   "check": "Found by search: \"Duck Feet Under Water\" by JasminesMom4691 Schulze, 53 s. A parent may preview it."
+  },
+  {
+   "title": "How do cows eat?",
+   "channel": "Organic Valley",
+   "youtube": "QreiLGm89Qc",
+   "mins": 1,
+   "why": "See how a cow chews grass, and think of the rubbing in the Press or Grind test.",
+   "check": "Found by search: \"How Do Cows Eat? | Organic Valley Kids\" by Organic Valley, 1 min 26 s. A parent may preview it."
   }
  ],
  "applications": [

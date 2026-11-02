@@ -413,9 +413,9 @@ On the bus home, she counted on her fingers. 'Happy, angry, sad, calm, happy,' s
    **Answer:** Happy or excited, because the dog's whole body moves and the tail wags, just like I jump when I am happy.. *Why:* A strong answer names a feeling and gives the evidence: what the dog does with their body. Scientists judge other animals' feelings the same way, by watching what they do.
 
 ## Videos
-- **A short children's video about naming feelings: happy, sad, angry, scared and calm** (, 3 min) id `to find`: Shows faces and bodies for each feeling, and helps children learn the names. *Check:* Find a real, accurate video for age 6. Check it says all feelings are all right to have, and does not call any feeling bad.
-- **A slow breathing video for young children** (, 3 min) id `to find`: Goes with Tiger Body, Cat Body and the settling bottle: a calm guide to breathing in and out slowly. *Check:* Find a short, gentle video for age 6. Check it does not suggest hitting things to let anger out.
-- **Laughing rats: young rats calling when tickled, from Jaak Panksepp's lab** (, 2 min) id `to find`: Shows that other animals have happy feelings too, and how scientists found out. *Check:* Find a real video from a news or science channel. Check it explains that the calls are too high for us to hear without a special detector.
+- **A short song about feelings: all our feelings are okay** (The Scribbles Crew & Friends, 2 min) id `1bKaZhRXeyE`: Shows faces and bodies for each feeling, and helps children learn the names. *Check:* Found by search: "All Our Feelings Are Okay | Scribbles Crew Feelings Song for Kids | Emotional Literacy for Children" by The Scribbles Crew & Friends, 1 minute, 50 seconds. A parent may preview it.
+- **Belly breathing for children** (The Mindfulness Teacher, 4 min) id `RiMb2Bw4Ae8`: Goes with Tiger Body, Cat Body and the settling bottle: a calm guide to breathing in and out slowly. *Check:* Found by search: "Belly Breathing: Mindfulness for Children" by The Mindfulness Teacher, 4 minutes, 6 seconds. A parent may preview it.
+- **Tickling a rat: scientists find out that rats laugh** (National Geographic, 3 min) id `d-84UJpYFRM`: Shows that other animals have happy feelings too, and how scientists found out. *Check:* Found by search: "See What Happens When You Tickle a Rat" by National Geographic, 3 minutes, 19 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a feeling?  

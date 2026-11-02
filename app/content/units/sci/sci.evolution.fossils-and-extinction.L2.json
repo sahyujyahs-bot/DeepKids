@@ -1405,30 +1405,27 @@
  "videos": [
   {
    "title": "How a fossil forms",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "channel": "Natural History Museum",
+   "youtube": "87E8bQrX4Wg",
    "mins": 4,
    "why": "Shows a body being covered by mud and slowly turning to stone, which a child cannot see happen at home.",
-   "check": "Find a short animation from a museum or science channel. Check it shows hard parts lasting and soft parts rotting, and that the mud turns to rock over a very long time."
+   "check": "Found by search: \"How do dinosaur fossils form?\" by Natural History Museum, 3 min 49 s. A parent may preview it."
   },
   {
-   "title": "Dinosaur eggs of Balasinor, Gujarat",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
-   "why": "Shows real dinosaur eggs and bones found in India, at the Raiyoli fossil park.",
-   "check": "Find a calm, accurate clip, for example from a news channel or the Gujarat fossil park. Check the eggs shown are from Raiyoli and that no wrong dates are given."
+   "title": "Balasinor Dinosaur Museum, Gujarat",
+   "channel": "Gujarat Tourism",
+   "youtube": "LJ8jzkWdUZA",
+   "mins": 4,
+   "why": "Shows the dinosaur fossil park and museum at Balasinor in Gujarat, where real dinosaur eggs and bones were found in India.",
+   "check": "Found by search: \"Balasinor Dinosaur Museum - Enter into the World of Dinosaurs\" by Gujarat Tourism, 4 min 10 s. A parent may preview it."
   },
   {
    "title": "What happened when the asteroid hit",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
-   "why": "Shows the asteroid, the dark cold years after it, and the Deccan volcanoes, and that scientists still argue about the cause.",
-   "check": "Find a clip for children or families from a museum or science channel. Check it says 66 million years, that birds survived, and that it is not frightening for a child of seven."
+   "channel": "BBC Earth Science",
+   "youtube": "DGu6ZPyKyJ0",
+   "mins": 4,
+   "why": "Looks at the asteroid and the Deccan volcanoes as causes of the dinosaurs dying out, and shows that scientists still study the cause.",
+   "check": "Found by search: \"What Exactly Killed The Dinosaurs? | Earth | BBC Earth Science\" by BBC Earth Science, 3 min 55 s. A parent may preview it."
   }
  ],
  "quiz": [

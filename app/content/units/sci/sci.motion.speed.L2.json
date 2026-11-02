@@ -1848,31 +1848,28 @@
  ],
  "videos": [
   {
-   "title": "A cheetah running in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "The Science of a Cheetah's Speed",
+   "channel": "National Geographic",
+   "youtube": "icFMTB0Pi0g",
+   "mins": 4,
    "why": "Shows how a cheetah's long strides and quick steps together make the fastest land animal, after your child has done the Step Race.",
-   "check": "Find a short, accurate clip of a real cheetah running, filmed in slow motion. Check it shows stride length clearly and does not stage a hunt that is upsetting for young children."
+   "check": "Found by search: \"The Science of a Cheetah's Speed\" by National Geographic, 3:33. A parent may preview it."
   },
   {
-   "title": "A snake boat race in Kerala",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows long boats with many rowers pulling together to a boat song, like the boats in the story.",
-   "check": "Find a clip of a real vallam kali race, such as the Nehru Trophy Boat Race in Alappuzha. Check it shows rowers pulling in time and the boat song."
+   "title": "The Nehru Trophy snake boat race in Kerala",
+   "channel": "Kerala Tourism",
+   "youtube": "RJP03ergWhk",
+   "mins": 2,
+   "why": "Shows long boats with many rowers pulling together in time, like the boats in the story.",
+   "check": "Found by search: \"Nehru Trophy Boat Race - An emotion that runs through generations\" by Kerala Tourism, 1:30. A parent may preview it."
   },
   {
-   "title": "How Ole Rømer found that light has a speed",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How Jupiter's moons showed the speed of light",
+   "channel": "SciShow Space",
+   "youtube": "dku-cIfXtQE",
+   "mins": 6,
    "why": "For the parent and curious children: how timing Jupiter's moon Io showed that light takes time to travel.",
-   "check": "Find a simple animation. Check that it names Ole Rømer, the year 1676 and Jupiter's moon Io, and does not claim he measured the exact modern speed."
+   "check": "Found by search: \"How Jupiter's Moons Showed Us the Speed of Light\" by SciShow Space, 5:54. A parent may preview it."
   }
  ],
  "applications": [

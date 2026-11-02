@@ -393,9 +393,9 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
    **Answer:** For example: ants find crumbs in the kitchen. A gecko finds insects near the light.. *Why:* A strong answer names real animals and links each to what the flat gives them: food, shelter or water.
 
 ## Videos
-- **Moss and lichens growing on rocks and old walls, close up** (, 3 min) id `to find`: Shows the living beings who grow on rock, which children walk past every day. *Check:* Find a real close-up video of moss and lichens on rock. Check that moss and lichens are named correctly, and that lichens are described as a fungus and an alga living together.
-- **Mangrove trees in the Sundarbans as the tide comes in** (, 3 min) id `to find`: Shows a habitat where trees stand in salty mud, and crabs and fish live among the roots. *Check:* Find a real video filmed in the Sundarbans or another Indian mangrove forest. Check the facts about the tide.
-- **Camels and other animals of the Thar desert** (, 3 min) id `to find`: Shows that a desert is full of life, and how the animals there find water and shade. *Check:* Find a real video filmed in the Thar desert. Check that the animals are named correctly.
+- **Lichen: two living things in one** (SciShow Kids, 3 min) id `4_cgm6kh0ns`: Shows lichen, which grows on rock and walls that children walk past every day, and explains it as a fungus and an alga living together. *Check:* Found by search: "Lichen: Two Living Things In One | Biology for Kids | SciShow Kids" by SciShow Kids, 3 minutes. A parent may preview it.
+- **Largest mangrove forest: exploring the Sundarbans** (Roundglass Sustain, 6 min) id `xx_QjhbH3No`: Shows a habitat where trees stand in salty mud and water, in the Sundarbans of India. *Check:* Found by search: "Largest Mangrove Forest: Exploring Sundarbans | Sundarbans Mangroves" by Roundglass Sustain, 6 minutes. A parent may preview it.
+- **Camel of the Thar desert** (Animal Wild Life, 4 min) id `6674orAR66I`: Shows camels living in the Thar desert, a dry place that still has life. *Check:* Found by search: "camel of Thar Desert Area" by Animal Wild Life, 4 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a habitat?  

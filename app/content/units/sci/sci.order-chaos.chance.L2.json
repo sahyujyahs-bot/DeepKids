@@ -1686,22 +1686,20 @@
  ],
  "videos": [
   {
-   "title": "A coin toss filmed in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "Super slow motion: flipping a quarter",
+   "channel": "GE Research",
+   "youtube": "xyqmN8uX8QI",
+   "mins": 1,
    "why": "Shows a coin spinning many times in the air before it lands, too fast for our eyes to follow. That is why nobody can know how one toss will land.",
-   "check": "Not yet found. Look for a short slow-motion video of a coin being flipped and landing, with no claims about luck."
+   "check": "Found by search: \"Super slow motion: Flipping a quarter\" by GE Research, 33 seconds. A parent may preview it."
   },
   {
-   "title": "Persi Diaconis on how random a coin toss is",
+   "title": "How random is a coin toss? (Numberphile)",
    "channel": "Numberphile",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 10,
+   "youtube": "AYnJv68T3MM",
+   "mins": 8,
    "why": "A scientist who studied coin tosses explains that a coin tossed by hand lands on its starting side a little more often. For the grown-up to watch first, then share parts.",
-   "check": "Not yet found. Search Numberphile for a video with Persi Diaconis about coin tossing, and check that it matches the 51 in 100 result described in this unit."
+   "check": "Found by search: \"How random is a coin toss? - Numberphile\" by Numberphile, 7 min 40 sec. A parent may preview it, and check it matches the 51 in 100 result described in this unit."
   },
   {
    "title": "Rolling a die many times: what comes up most?",

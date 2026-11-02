@@ -1573,22 +1573,20 @@
  ],
  "videos": [
   {
-   "title": "A short video showing a city's wet and dry waste being collected separately",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows children where the green and blue bins go after they leave home.",
-   "check": "No video has been chosen yet. Find one that is accurate and suits Class 2, and preview it first."
+   "title": "Why waste segregation is important",
+   "channel": "The Planet Voice",
+   "youtube": "0ZiD_Lb3Tm0",
+   "mins": 2,
+   "why": "Shows children why waste is kept apart at home, so it can be collected and handled the right way.",
+   "check": "Found by search: \"Why Waste Segregation is Important | Waste Management | The Planet Voice\" by The Planet Voice, 2 minutes, 7 seconds. A parent may preview it."
   },
   {
-   "title": "A short video of kitchen waste turning into compost",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows peels being eaten by decomposers and becoming soil, which a child cannot watch at home in one day.",
-   "check": "No video has been chosen yet. Find one that is accurate and suits Class 2, and preview it first."
+   "title": "How compost is made: a field trip",
+   "channel": "SciShow Kids",
+   "youtube": "26IO95Xt5WU",
+   "mins": 7,
+   "why": "Shows scraps being eaten by decomposers and becoming soil, which a child cannot watch at home in one day.",
+   "check": "Found by search: \"How Compost Is Made: A Field Trip!\" by SciShow Kids, 6 minutes, 43 seconds. A parent may preview it."
   },
   {
    "title": "A short video of women sorting dry waste at a sorting centre in India",

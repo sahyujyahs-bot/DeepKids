@@ -428,9 +428,9 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** For example: the dip in a grinding stone, or a worn step. The middle is smooth and low where it was rubbed most.. *Why:* A strong answer names a real place and what it looks like when rock has been rubbed for years.
 
 ## Videos
-- **How a river turns rocks into pebbles and sand** (, 4 min) id `to find`: Shows stones rolling in a fast river and getting rounder downstream, which a child cannot watch for years at home. *Check:* Find a short clip from a museum, geological survey or science channel. Check it shows rounding by knocking and rubbing, and says it takes a long time.
-- **Inside a granite quarry** (, 4 min) id `to find`: Shows how big blocks of rock are cut from the ground, and what a quarry does to the land. *Check:* Find a calm, accurate clip, ideally from India. Check it does not show unsafe blasting close up, and that it is fine for a child of seven.
-- **Rocks and minerals up close** (, 4 min) id `to find`: Shows the grains of minerals inside granite and other rocks under a magnifier or microscope. *Check:* Find a short clip for families from a museum or geological survey. Check the minerals named for granite are quartz, feldspar and mica.
+- **Why rocks are smoother near rivers** (TheGeoScholar, 3 min) id `ZC6EaVYdiVo`: Shows stones rolling in a fast river and getting rounder downstream, which a child cannot watch for years at home. *Check:* Found by search: "Geology - Why Rocks Are Smoother Near Rivers." by TheGeoScholar, 2 minutes 54 seconds. A parent may preview it.
+- **How granite is mined in a quarry** (Stone Galleria LLP, 2 min) id `Bx6LHoICuSM`: Shows how big blocks of rock are cut from the ground, and what a quarry does to the land. *Check:* Found by search: "How Is Granite Mined? | Inside the Granite Quarry" by Stone Galleria LLP, 2 minutes 20 seconds. A parent may preview it.
+- **What minerals are in granite?** (ehow, 3 min) id `SIV4N9pB8F8`: Names the minerals that make up granite, so a child can match them to the grains seen in a real piece. *Check:* Found by search: "Rocks & Minerals : What Is the Mineral Content of Granite?" by ehow, 2 minutes 59 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What are most rocks made of?  

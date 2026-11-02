@@ -1610,31 +1610,28 @@
  ],
  "videos": [
   {
-   "title": "How a river turns rocks into pebbles and sand",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Why rocks are smoother near rivers",
+   "channel": "TheGeoScholar",
+   "youtube": "ZC6EaVYdiVo",
+   "mins": 3,
    "why": "Shows stones rolling in a fast river and getting rounder downstream, which a child cannot watch for years at home.",
-   "check": "Find a short clip from a museum, geological survey or science channel. Check it shows rounding by knocking and rubbing, and says it takes a long time."
+   "check": "Found by search: \"Geology - Why Rocks Are Smoother Near Rivers.\" by TheGeoScholar, 2 minutes 54 seconds. A parent may preview it."
   },
   {
-   "title": "Inside a granite quarry",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How granite is mined in a quarry",
+   "channel": "Stone Galleria LLP",
+   "youtube": "Bx6LHoICuSM",
+   "mins": 2,
    "why": "Shows how big blocks of rock are cut from the ground, and what a quarry does to the land.",
-   "check": "Find a calm, accurate clip, ideally from India. Check it does not show unsafe blasting close up, and that it is fine for a child of seven."
+   "check": "Found by search: \"How Is Granite Mined? | Inside the Granite Quarry\" by Stone Galleria LLP, 2 minutes 20 seconds. A parent may preview it."
   },
   {
-   "title": "Rocks and minerals up close",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows the grains of minerals inside granite and other rocks under a magnifier or microscope.",
-   "check": "Find a short clip for families from a museum or geological survey. Check the minerals named for granite are quartz, feldspar and mica."
+   "title": "What minerals are in granite?",
+   "channel": "ehow",
+   "youtube": "SIV4N9pB8F8",
+   "mins": 3,
+   "why": "Names the minerals that make up granite, so a child can match them to the grains seen in a real piece.",
+   "check": "Found by search: \"Rocks & Minerals : What Is the Mineral Content of Granite?\" by ehow, 2 minutes 59 seconds. A parent may preview it."
   }
  ],
  "quiz": [

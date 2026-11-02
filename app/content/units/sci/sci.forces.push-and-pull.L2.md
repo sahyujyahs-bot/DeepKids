@@ -450,9 +450,9 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
    **Answer:** No. One right answer could be a lucky guess. She should try many more times and count how many she gets right.. *Why:* A strong answer says that one try can be luck, and that more tries show the real pattern.
 
 ## Videos
-- **A vegetable seller weighing on a two-pan balance** (, 2 min) id `to find`: Shows the balance from the story: the pans hang level when the weights match. *Check:* Find a short, real clip of a market seller using a two-pan balance in India. Check that the pans and the weights can be seen clearly.
-- **Thousands of people pulling the chariots at the Rath Yatra in Puri** (, 2 min) id `to find`: Shows a huge pull made by many people on ropes, a force everyone can see the effect of. *Check:* Find real news footage of the Rath Yatra chariots being pulled in Puri, Odisha. Check it shows the ropes and the crowd pulling.
-- **Astronauts on the space station showing that things float** (, 3 min) id `to find`: Shows that on the space station, a bag does not pull down on a hand. *Check:* Find a NASA or ISRO clip of astronauts letting go of objects that float inside the International Space Station.
+- **Measuring and comparing masses with a simple balance** (Next Generation Science, 2 min) id `O1KJ2AqWxqE`: Shows the balance from the story: the pans hang level when the weights match. *Check:* Found by search: "Measuring and Comparing Masses Using a Simple Balance" by Next Generation Science, 1 minute 50 seconds. A parent may preview it.
+- **Lakhs of devotees pull Lord Jagannath's chariot at the Puri Rath Yatra** (NDTV, 3 min) id `csLSpsORrsg`: Shows a huge pull made by many people on ropes, a force everyone can see the effect of. *Check:* Found by search: "Puri Rath Yatra 2026: Lakhs Brave Rain to Pull Lord Jagannath's Chariot" by NDTV, 2 minutes 56 seconds. A parent may preview it.
+- **Why do things float in space?** (SciShow Kids, 7 min) id `dh5wGSLw1p4`: Explains why things float on the space station, so a bag does not pull down on a hand. *Check:* Found by search: "Why Do Things Float in Space? | How We Study Space | SciShow Kids" by SciShow Kids, 7 minutes 18 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a force?  

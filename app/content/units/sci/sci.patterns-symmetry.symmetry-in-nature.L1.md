@@ -396,9 +396,9 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
    **Answer:** False. *Why:* False. The bigger side catches more wind and pulls the kite round. A kite needs two matching sides to fly straight.
 
 ## Videos
-- **A butterfly coming out of her chrysalis and spreading her wings** (, 3 min) id `to find`: Shows a butterfly's four soft wings spreading out together, already matching, as in the story of how we found out. *Check:* Find a real, not animated, clip of a butterfly coming out of a chrysalis, preferably an Indian species. Check that it does not say butterflies come from anything other than eggs and caterpillars.
-- **Butterfly wing scales up close** (, 3 min) id `to find`: Shows that a butterfly's spots are made of tiny coloured scales, and that the spots on both sides match. *Check:* Find a short microscope clip of real butterfly wing scales. Check that it says plainly that the scales are part of the living butterfly and rub off easily.
-- **Drawing a kolam that is the same on both sides** (, 4 min) id `to find`: Shows a person drawing a symmetric kolam with rice flour, for the child to copy on paper. *Check:* Find a clip of a woman drawing a real kolam at a doorstep, with no talking over it or with simple, accurate words. Check that the kolam has a clear line of symmetry.
+- **Caterpillar to butterfly in time-lapse** (BBC Earth, 3 min) id `bb1ysx40Wdo`: Real time-lapse footage of a caterpillar becoming a butterfly, for the child to see how a butterfly comes out of the chrysalis and her wings open. *Check:* Found by search: "Caterpillar Cocoon Timelapse | BBC Earth" by BBC Earth, 2 minutes 53 seconds. A parent may preview it.
+- **Scales on a monarch butterfly wing under a microscope** (The Singing Zoologist, 3 min) id `s-DdzUkHdBc`: Shows the tiny scales that cover a real butterfly wing, up close. *Check:* Found by search: "See microscopic scales on a monarch butterfly's wing on "Dude with a Microscope Episode 2!"" by The Singing Zoologist, 2 minutes 35 seconds. A parent may preview it.
+- **Drawing a symmetrical rangoli with dots** (Drawings by Rekha, 4 min) id `VQ3Y1ChRqhw`: Shows a person drawing a rangoli with dots that is the same on both sides, for the child to copy on paper. *Check:* Found by search: "How to Draw Symmetrical Rangoli With Dots || Geometric Patterns With Dots || Dots Rangoli Design" by Drawings by Rekha, 3 minutes 55 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) A shape has symmetry. What does that mean?  

@@ -1114,31 +1114,28 @@
  ],
  "videos": [
   {
-   "title": "Tu Youyou and the malaria medicine: a short film",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Tells the true story of how Tu Youyou found artemisinin in an old book and tested it.",
-   "check": "Find a real, accurate film suitable for young children, for example from the Nobel Prize channel. Check it says she used a low-heat method, and that the clue came from Ge Hong's book."
+   "title": "How an ancient remedy became a modern cure for malaria",
+   "channel": "SciShow",
+   "youtube": "JZQc9S12ZvM",
+   "mins": 5,
+   "why": "Tells the true story of how Tu Youyou found a clue to artemisinin in an old Chinese book and tested it.",
+   "check": "Found by search: \"How an Ancient Remedy Became a Modern Cure for Malaria\" by SciShow, 5 minutes 25 seconds. A parent may preview it."
   },
   {
-   "title": "Turmeric turns red with soap: kitchen science",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows haldi turning red with soap and yellow again with lemon, the same as the haldi test.",
-   "check": "Check it uses ordinary soap or washing powder and lemon, and does not give wrong safety advice."
+   "title": "Turmeric colour change with acids and bases: kitchen science",
+   "channel": "TheDadLab",
+   "youtube": "2uHZ4Fwjx7o",
+   "mins": 2,
+   "why": "Shows turmeric changing colour with a base and an acid, the same idea as the haldi test with soap and lemon.",
+   "check": "Found by search: \"Turmeric pH Indicator Art Project - Experiment for Acids & Bases\" by TheDadLab, 2 minutes 3 seconds. A parent may preview it."
   },
   {
-   "title": "Mary Anning, the girl who found sea dragons",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Mary Anning: fossil hunter",
+   "channel": "SciShow Kids",
+   "youtube": "koota_lwU_4",
    "mins": 4,
    "why": "A true story of a girl who found famous fossils on an English beach.",
-   "check": "Check the dates (the ichthyosaur, 1811 to 1812) and that her brother Joseph is named."
+   "check": "Found by search: \"Mary Anning: Fossil Hunter | Science for Kids\" by SciShow Kids, 4 minutes 14 seconds. A parent may preview it."
   }
  ],
  "quiz": [

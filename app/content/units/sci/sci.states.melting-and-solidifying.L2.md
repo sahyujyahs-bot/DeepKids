@@ -490,9 +490,9 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
    **Answer:** Chocolate melts with only a little warmth, and a flame can burn it. *Why:* Chocolate melts a little below the warmth of your body, so warm water is enough. A direct flame is far hotter, and the chocolate can burn.
 
 ## Videos
-- **Ice, chocolate and wax melting, filmed as a time-lapse** (, 3 min) id `to find`: Shows different solids melting at different speeds, like the melting race. *Check:* Not yet found. Search for a time-lapse of different solids melting side by side, and watch it first.
-- **Water freezing in a cup, filmed as a time-lapse** (, 3 min) id `to find`: Shows ice starting at the top and sides of a cup, like the freezer watch. *Check:* Not yet found. Search for a time-lapse of water freezing in a glass, and check that it shows where the ice starts.
-- **How chocolate is made, from cocoa beans** (, 5 min) id `to find`: Shows cocoa beans being turned into chocolate, and melted chocolate being poured into moulds and set. *Check:* Not yet found. Search for a short factory or farm video, ideally from cocoa farms in Kerala or Karnataka, and check it shows chocolate being melted and set.
+- **What is freezing point, melting point and boiling point (Dr. Binocs)** (Peekaboo Kidz, 6 min) id `Yv_vDQerOBk`: Explains that different solids melt at different temperatures, which is why some things melt faster than others in the melting race. *Check:* Found by search: "What is Freezing Point, Melting Point and Boiling Point? | Chemistry Lessons | Dr. Binocs Show" by Peekaboo Kidz, 6 minutes, 26 seconds. A parent may preview it.
+- **Time-lapse of a glass of water freezing** (Johnathon Choate, 1 min) id `xFRu2mt6SgQ`: Shows a glass of water turning to ice in time-lapse, like the freezer watch. *Check:* Found by search: "Time Lapse Test - Freezing A Glass of Water" by Johnathon Choate, 50 seconds. A parent may preview it.
+- **Where does chocolate come from?** (SciShow Kids, 4 min) id `zJdeQABAc_w`: Shows how cocoa beans become chocolate, the food we melt and set in this unit. *Check:* Found by search: "Where Does Chocolate Come From?" by SciShow Kids, 3 minutes, 43 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is melting?  

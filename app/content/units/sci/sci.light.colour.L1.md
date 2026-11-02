@@ -412,9 +412,9 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
    **Answer:** Yellow paint soaks up blue light and blue paint soaks up red and yellow light. Together, green is what is left to come back to my eyes.. *Why:* A strong answer says that each paint soaks up some light, and green is the light left over. Any answer that uses what the child saw in the test is good thinking.
 
 ## Videos
-- **Mixing red, yellow and blue paint to make orange, green and purple** (, 3 min) id `to find`: Shows the three mixes from the Colour Mixing Test, up close, so a child can compare with their own plate. *Check:* Find a short clip of real paint being mixed, with no talking over it or with simple, accurate words. Check that the colours are red, yellow and blue paint, not coloured light.
+- **SciShow Kids: Mixing Colors** (SciShow Kids, 4 min) id `-PgMk1EzVkk`: Shows the three mixes from the Colour Mixing Test, up close, so a child can compare with their own plate. *Check:* Found by search: "Mixing Colors!" by SciShow Kids, 3 minutes, 51 seconds. A parent may preview it.
 - **Kalamkari painting in Srikalahasti, with colours from plants** (, 4 min) id `to find`: Shows painters using a bamboo pen and plant colours, as in the story of Lakshmi's green parrots. *Check:* Find a clip of real Kalamkari painters in Srikalahasti, from a news channel or a crafts body. Check that it shows the pen and the natural colours.
-- **Flowers in ultraviolet light, the way a bee might see them** (, 3 min) id `to find`: Shows the patterns on flowers that bees can see and people cannot. *Check:* Find a clip that uses real ultraviolet photographs of flowers. Check that it says plainly that we cannot see ultraviolet, and that the photos show it in colours we can see.
+- **How bees can see the invisible: ultraviolet patterns on flowers** (Be Smart, 3 min) id `N1TUDFCOwjY`: Shows the patterns on flowers that bees can see and people cannot. *Check:* Found by search: "How Bees Can See the Invisible" by Be Smart, 2 minutes, 58 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) You mix yellow and blue paint. What colour do you get?  

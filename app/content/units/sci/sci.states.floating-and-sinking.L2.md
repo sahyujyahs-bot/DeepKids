@@ -440,9 +440,9 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
    **Answer:** The coconut seed floats away to new beaches far away. There she can grow into a new palm, where no palm grew before.. *Why:* A strong answer says floating carries the seed to new places to grow.
 
 ## Videos
-- **Float or sink: guessing and testing kitchen things** (, 4 min) id `to find`: Shows children guessing first, then testing everyday things in a tub of water. *Check:* Not yet found. Search for a short float and sink video for ages 6 to 8 that pushes things under, and watch it first.
-- **Why does a peeled orange sink?** (, 3 min) id `to find`: Shows a whole orange floating and a peeled orange sinking, like our orange test. *Check:* Not yet found. Search for the orange peel float test and check that it shows the peel floating alone.
-- **Coconuts at sea: how a seed travels by floating** (, 4 min) id `to find`: Shows coconuts floating on the sea and sprouting on a beach. *Check:* Not yet found. Search for a nature video on coconut seed dispersal by sea, and check the facts the video gives.
+- **Sink or float?** (SciShow Kids, 6 min) id `eQuW8G2QV_Q`: Shows children guessing first, then testing everyday things in a tub of water. *Check:* Found by search: "Sink or Float?" by SciShow Kids, 5 minutes 51 seconds. A parent may preview it.
+- **Why do whole oranges float, but peeled oranges sink?** (The Science Girl, 4 min) id `rJR4Esmp7qQ`: Shows a whole orange floating and a peeled orange sinking, like our orange test. *Check:* Found by search: "Density Experiment For Kids | Why Do Whole Oranges Float, but Peeled Oranges Sink?" by The Science Girl, 4 minutes 23 seconds. A parent may preview it.
+- **Coconuts and seed dispersal** (Adventures With Eric, 5 min) id `-ThRQo6lOXo`: Shows coconuts floating on the sea and sprouting on a beach. *Check:* Found by search: "300_16 Coconuts and Seed Dispersal 2016 Updated Version" by Adventures With Eric, 4 minutes 52 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What does 'float' mean?  

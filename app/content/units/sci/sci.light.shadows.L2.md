@@ -553,9 +553,9 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
    **Answer:** 8. *Why:* Each child has one shadow from each lamp, so 2 each. Four children with 2 shadows each make 8.
 
 ## Videos
-- **How shadows are made, for young children** (, 4 min) id `to find`: Shows light travelling in straight lines and being blocked, after your child has made their own shadows. *Check:* Find a short, accurate clip for children of 6 to 8. Check that it says a shadow forms where light is blocked, and that a shadow grows as the object moves nearer the light.
-- **Tholpavakoothu: shadow puppets of Kerala** (, 5 min) id `to find`: Shows a real shadow play from Kerala, with oil lamps, leather puppets and a white cloth screen. *Check:* Find a clip of a real tholpavakoothu performance or a puppeteer showing the puppets. Check that it is from Kerala and that it shows the lamps behind the screen.
-- **Lotte Reiniger and her shadow-puppet films** (, 4 min) id `to find`: Shows how Lotte Reiniger cut paper puppets and filmed their shadows to make The Adventures of Prince Achmed in 1926. *Check:* Find a short clip about Lotte Reiniger at work, or a short scene from her films. Check that it is free to view and suitable for young children.
+- **Shadow, with Dr. Binocs** (Peekaboo Kidz, 3 min) id `lOIGOT88Aqc`: Shows light travelling in straight lines and being blocked, after your child has made their own shadows. *Check:* Found by search: "Shadow | The Dr. Binocs Show | Educational Videos For Kids" by Peekaboo Kidz, 2 minutes 49 seconds. A parent may preview it.
+- **Tholpavakoothu: shadow puppetry of Kerala** (Kerala Tourism, 2 min) id `NwtGSAcDyeQ`: Shows a real shadow puppet art of Kerala, played with puppets behind a screen. *Check:* Found by search: "Shadow Puppetry - Tholpavakoothu | Traditional Artforms | Kerala Tourism" by Kerala Tourism, 1 minute 41 seconds. A parent may preview it.
+- **The Adventures of Prince Achmed (1926), trailer** (Skwigly Online Animation Magazine, 2 min) id `G_9L7r8NIBc`: Shows scenes of the silhouette film Lotte Reiniger made in 1926, The Adventures of Prince Achmed, from her cut paper puppets. *Check:* Found by search: "The Adventures of Prince Achmed [1926] Trailer - Lotte Reiniger" by Skwigly Online Animation Magazine, 2 minutes 9 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a shadow?  

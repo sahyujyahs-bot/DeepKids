@@ -467,9 +467,9 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
    **Answer:** Pick a small racer and a big racer at the same height. Start them together and see which reaches the bottom first. Try it three times.. *Why:* A strong answer compares two drops fairly, from the same place, and tries more than once.
 
 ## Videos
-- **What are clouds made of? Cloud drops up close** (, 4 min) id `to find`: Shows that clouds are made of tiny water drops, with a close-up view. *Check:* Not yet found. Search for a short video for young children that shows cloud droplets, and watch it first to check it says clouds are water, not vapour.
-- **How raindrops form: drops joining inside a cloud** (, 4 min) id `to find`: Shows tiny cloud drops colliding and joining into raindrops, like on the spray plate. *Check:* Not yet found. Search for an animation of droplet collision and coalescence, and check it does not show tear-shaped raindrops.
-- **Monsoon clouds over India from space** (, 3 min) id `to find`: Shows monsoon clouds moving in from the sea over India, from a satellite. *Check:* Not yet found. Search for a satellite time-lapse of the Indian monsoon, from a space agency or weather service.
+- **What Are Clouds Made Of?** (SciShow Kids, 4 min) id `DigBbR3FeP8`: Shows that clouds are made of tiny water drops, with a close-up view. *Check:* Found by search: "What Are Clouds Made Of?" by SciShow Kids, 3 minutes, 37 seconds. A parent may preview it.
+- **How Are Rain Droplets Formed? The Dr. Binocs Show** (Peekaboo Kidz, 6 min) id `LkGvA0WZS5o`: Shows how tiny water drops in a cloud grow bigger until they fall as rain, like on the spray plate. *Check:* Found by search: "How Are Rain Droplets Formed? | WATER CYCLE | The Dr Binocs Show" by Peekaboo Kidz, 5 minutes, 45 seconds. A parent may preview it.
+- **Monsoons: Wet, Dry, Repeat (satellite views)** (NASA Goddard, 4 min) id `CR7KL6KSlx4`: Shows, with satellite views, how the monsoon brings wet seasons to India and other places. *Check:* Found by search: "Monsoons: Wet, Dry, Repeat (satellite views)" by NASA Goddard, 3 minutes, 32 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a cloud made of?  

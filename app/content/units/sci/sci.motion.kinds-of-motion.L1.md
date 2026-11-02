@@ -451,9 +451,9 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
    **Answer:** ['ROLL', 'SPIN', 'SWING']. *Why:* Wheels roll along the road. A wheel turned in the air spins round its middle. A hanging bag swings back and forth from the handlebar.
 
 ## Videos
-- **A rubber ball bouncing, in slow motion** (, 2 min) id `to find`: Shows the ball squashing flat where it hits the floor and springing back to round, as in the Bounce Test. *Check:* Find real slow-motion footage of a rubber or tennis ball hitting a hard floor, where the squash is clearly visible.
-- **A potter's wheel spinning in an Indian pottery village** (, 3 min) id `to find`: Shows a wheel that spins in one place, and a potter shaping clay on it, as in How We Found Out. *Check:* Find a real clip of a potter at work on a wheel in India, for example from Kumbharwada in Mumbai or a village in Tamil Nadu or Bengal.
-- **The Earth spinning, seen from space** (, 2 min) id `to find`: Shows that the whole Earth spins round once a day, carrying us with it. *Check:* Find real footage or a time-lapse of real satellite images from NASA, ISRO or ESA, not an animation passed off as a photo.
+- **Ball bouncing in slow motion: rubber ball** (Florian Knorn, 1 min) id `sVTJNv3-mWk`: Shows the ball squashing flat where it hits the floor and springing back to round, as in the Bounce Test. *Check:* Found by search: "Ball bouncing in slow motion: Rubber ball" by Florian Knorn, 15 seconds. A parent may preview it.
+- **A hand-spun pottery wheel outside Jodhpur, India** (Ditch The Map, 2 min) id `SHW1XoRLfuo`: Shows a wheel that spins in one place, and a potter shaping clay on it, as in How We Found Out. *Check:* Found by search: "Manual Hand Spun Pottery Wheel outside Jodhpur, India" by Ditch The Map, 1 minute, 32 seconds. A parent may preview it.
+- **Earth's rotation and revolution (Crash Course Kids)** (Crash Course Kids, 4 min) id `l64YwNl1wr0`: Explains that the whole Earth spins round once a day, carrying us with it, and that it also goes round the Sun. *Check:* Found by search: "Earth's Rotation & Revolution: Crash Course Kids 8.1" by Crash Course Kids, 4 minutes, 1 second. A parent may preview it.
 
 ## Quiz
 1. (mcq) A ceiling fan turns round and round in one place. How does it move?  

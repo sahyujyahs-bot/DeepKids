@@ -1656,31 +1656,28 @@
  ],
  "videos": [
   {
-   "title": "What are clouds made of? Cloud drops up close",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What Are Clouds Made Of?",
+   "channel": "SciShow Kids",
+   "youtube": "DigBbR3FeP8",
    "mins": 4,
    "why": "Shows that clouds are made of tiny water drops, with a close-up view.",
-   "check": "Not yet found. Search for a short video for young children that shows cloud droplets, and watch it first to check it says clouds are water, not vapour."
+   "check": "Found by search: \"What Are Clouds Made Of?\" by SciShow Kids, 3 minutes, 37 seconds. A parent may preview it."
   },
   {
-   "title": "How raindrops form: drops joining inside a cloud",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How Are Rain Droplets Formed? The Dr. Binocs Show",
+   "channel": "Peekaboo Kidz",
+   "youtube": "LkGvA0WZS5o",
+   "mins": 6,
+   "why": "Shows how tiny water drops in a cloud grow bigger until they fall as rain, like on the spray plate.",
+   "check": "Found by search: \"How Are Rain Droplets Formed? | WATER CYCLE | The Dr Binocs Show\" by Peekaboo Kidz, 5 minutes, 45 seconds. A parent may preview it."
+  },
+  {
+   "title": "Monsoons: Wet, Dry, Repeat (satellite views)",
+   "channel": "NASA Goddard",
+   "youtube": "CR7KL6KSlx4",
    "mins": 4,
-   "why": "Shows tiny cloud drops colliding and joining into raindrops, like on the spray plate.",
-   "check": "Not yet found. Search for an animation of droplet collision and coalescence, and check it does not show tear-shaped raindrops."
-  },
-  {
-   "title": "Monsoon clouds over India from space",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows monsoon clouds moving in from the sea over India, from a satellite.",
-   "check": "Not yet found. Search for a satellite time-lapse of the Indian monsoon, from a space agency or weather service."
+   "why": "Shows, with satellite views, how the monsoon brings wet seasons to India and other places.",
+   "check": "Found by search: \"Monsoons: Wet, Dry, Repeat (satellite views)\" by NASA Goddard, 3 minutes, 32 seconds. A parent may preview it."
   }
  ],
  "quiz": [

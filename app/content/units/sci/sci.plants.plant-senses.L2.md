@@ -492,9 +492,9 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
    **Answer:** Plants move by growing: a shoot bends to a window, a root turns down, a touch-me-not folds in a second. We miss most of it because it is slow.. *Why:* A strong answer gives one example the child saw, such as shoots leaning in the window test, and says that most plants move slowly, by growing.
 
 ## Videos
-- **Time-lapse of seedlings bending towards light** (, 2 min) id `to find`: Shows in a few seconds what takes a day by the window: young shoots curving towards a light from one side. *Check:* Find a real time-lapse of seedlings (any kind) bending to side light. Check that the light source is shown, and watch it fully first.
-- **A touch-me-not (Mimosa pudica) folding when touched** (, 2 min) id `to find`: Shows the leaflets folding pair after pair, and the leaf stalk dropping after a firm touch. *Check:* Find a real, unedited video. Check that the plant is Mimosa pudica, and choose one that also shows the leaflets opening again.
-- **Time-lapse of roots turning down after a seedling is turned on their side** (, 2 min) id `to find`: Shows a root tip curving down within hours, like the root box. *Check:* Find a real time-lapse of root gravitropism. Check that it is real footage, not an animation, and watch it fully first.
+- **Seedlings growing and bending towards light** (GPhase, 1 min) id `DhITXtENPrU`: Shows young shoots curving towards a light from one side, in a few seconds instead of a day by the window. *Check:* Found by search: "Positive Phototropism | Demonstration" by GPhase, 39 seconds. A parent may preview it.
+- **A touch-me-not (Mimosa pudica) folding when touched** (99Chemicals, 2 min) id `XTi6eDeKkQI`: Shows the leaflets folding pair after pair, and the leaf stalk dropping after a firm touch. *Check:* Found by search: "Sensitive Plant (Mimosa pudica) Leaves Folding up in Response to Touch" by 99Chemicals, 2 minutes, 19 seconds. A parent may preview it.
+- **Bending plant roots with gravity** (Science Buddies, 1 min) id `FSMbrMxCyYU`: Shows roots turning to grow downwards when a seedling is turned, like the root box. *Check:* Found by search: "Bending Plant Roots with Gravity | STEM Lesson Plan" by Science Buddies, 1 minute, 25 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Nila, the girl in the story, put a cup of straight moong shoots by a window. The next day, which way did they lean?  

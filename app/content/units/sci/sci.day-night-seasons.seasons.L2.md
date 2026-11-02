@@ -523,9 +523,9 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
    **Answer:** A strong answer picks one and gives a reason. Rohan's idea is old, from 1686, and the land really does get hotter than the sea. Dr Lata's idea is what many scientists say today, and it explains why the rain moves north.. *Why:* Scientists still argue about how much each idea explains. Both see part of it.
 
 ## Videos
-- **The monsoon arrives in Kerala** (, 4 min) id `to find`: Shows the first monsoon rains on the Kerala coast, after your child has heard the story of Ammamma and the first day of June. *Check:* Find a short clip of the monsoon's arrival in Kerala, filmed in late May or early June. Check that it is calm, not a flood disaster report, and suitable for young children.
-- **India's seasons for young children** (, 4 min) id `to find`: Shows summer, the monsoon and winter in different parts of India. *Check:* Find an accurate clip for children of 6 to 8. Check that it does not say all of India has the same season at the same time, and that it does not say summer is hot because the Earth is closer to the Sun.
-- **Black and white in the sunshine** (, 3 min) id `to find`: Shows a black and a white surface warming in the sun, after your child has done the Black or White test. *Check:* Find a short demonstration, for example with thermometers or ice under coloured cloth. Check that it says black absorbs and white reflects most of the light.
+- **Why Kerala for the monsoon** (Kerala Tourism, 1 min) id `D7szWUIEgmc`: Shows the monsoon rains over Kerala and why the rains reach Kerala first, after your child has heard the story of Ammamma and the first day of June. *Check:* Found by search: "Why Kerala for Monsoon? - Best Monsoon video" by Kerala Tourism, 1 minute. A parent may preview it.
+- **The seasons of India** (Plufo, 4 min) id `lJ0g7ELTXfs`: Shows summer, the monsoon and winter in different parts of India. *Check:* Found by search: "Different Types of Seasons in India – Autumn , Spring, Summer, Monsoon, Winter and Pre-winter" by Plufo, 4 minutes. A parent may preview it.
+- **Do different colours absorb heat better** (Teach Engineering, 2 min) id `61JT9SYBk4A`: Shows a black and a white surface warming in the sun, after your child has done the Black or White test. *Check:* Found by search: "Do Different Colors Absorb Heat Better" by Teach Engineering, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a season?  

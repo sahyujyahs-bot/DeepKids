@@ -2012,31 +2012,28 @@
  ],
  "videos": [
   {
-   "title": "Bacteria growing into colonies: a time-lapse",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows tiny dots on food or a plate growing into big coloured spots over a few days, as on the potato slices.",
-   "check": "Find a real time-lapse with no wrong facts in the words. Check it does not say all bacteria are bad."
+   "title": "Bacteria growing in a petri dish: a time-lapse",
+   "channel": "Science Is Fun",
+   "youtube": "TjxMECOU3w8",
+   "mins": 1,
+   "why": "Shows tiny dots on a plate growing into big spots over time, like the colonies on the potato slices.",
+   "check": "Found by search: \"Time Lapse of Bacteria - Bacillus Cereus - Growing in Petri Dish\" by Science Is Fun, 55 seconds. A parent may preview it."
   },
   {
-   "title": "Curd or yogurt bacteria under a microscope",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "Curd under a microscope: Lactobacillus bacteria",
+   "channel": "Manocha Academy",
+   "youtube": "cntn8HGD0bM",
+   "mins": 5,
    "why": "Shows the real curd bacteria, the tiny rods and chains that set milk.",
-   "check": "Find real microscope footage of yogurt or curd. Check the bacteria named are lactic acid bacteria, and that nothing scary is added."
+   "check": "Found by search: \"Curd Under Microscope | Yogurt Under Microscope | Lactobacillus Bacteria\" by Manocha Academy, 4 minutes, 43 seconds. A parent may preview it."
   },
   {
-   "title": "Why rain smells: soil bacteria and petrichor",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Explains the earthy rain smell from the smell test, and the soil bacteria that make geosmin.",
-   "check": "Find a clear, accurate explainer. Check it names soil bacteria and geosmin, and credits Isabel Joy Bear and Richard Thomas for the word petrichor."
+   "title": "Why does rain smell?",
+   "channel": "SciShow",
+   "youtube": "PDrElHWBT6A",
+   "mins": 2,
+   "why": "Explains the earthy rain smell from the smell test, and the soil bacteria and the chemical geosmin they make.",
+   "check": "Found by search: \"Why Does Rain Smell?\" by SciShow, 2 minutes, 21 seconds. A parent may preview it."
   }
  ],
  "applications": [

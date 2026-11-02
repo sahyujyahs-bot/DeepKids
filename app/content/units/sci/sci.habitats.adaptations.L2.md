@@ -514,9 +514,9 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
    **Answer:** ['spines: the sharp points all over', 'thick green stem: the fat body of the cactus, which stores water', 'waxy skin: the shiny outside of the stem', 'wide roots: spreading under the soil, near the top']. *Why:* Spines in place of leaves lose less water. The thick stem stores water and makes food. The waxy skin keeps water in. Wide roots near the top soak up rain quickly when it comes.
 
 ## Videos
-- **A fish hanging still in the water, then rising and sinking, filmed in an aquarium** (, 3 min) id `to find`: Shows a fish staying at one depth with her fins nearly still, the way the swim bladder lets her. *Check:* Find real footage of a fish hovering. Check that any words say the swim bladder holds gas, and do not say fish breathe with the swim bladder.
-- **Camels walking on soft sand, and closing their nostrils in a sandstorm** (, 4 min) id `to find`: Shows a camel's wide feet spreading on sand, her long eyelashes and her nostrils closing. *Check:* Find a nature film clip. Check it says the hump is fat, not water.
-- **Mudskippers hopping and breathing on mangrove mud** (, 3 min) id `to find`: Shows fish who live much of their life out of water, using their fins to move on mud. *Check:* Find a short nature clip, ideally from the Sundarbans or another Indian mangrove. Check the facts said about breathing through the skin.
+- **BiteSize Science: Swimming Bladder** (Discovery Centre Halifax, 3 min) id `mwhEMma-vjg`: Explains how a fish's swim bladder holds gas so she can stay at one depth in the water. *Check:* Found by search: "BiteSize Science- Swimming Bladder" by Discovery Centre Halifax, 3 minutes. A parent may preview it.
+- **Camels for Kids: how this adaptable animal lives in the desert** (Learn Bright, 8 min) id `IJ4YajWrDcA`: Shows how a camel is built for the desert, such as wide feet on sand, long eyelashes and nostrils that close. *Check:* Found by search: "Camels for Kids | Learn all about this adaptable animal" by Learn Bright, 8 minutes. A parent may preview it.
+- **Mudskippers: the fish that walk on land** (BBC Earth, 4 min) id `CAQuoH_fOWM`: Shows fish who live much of their life out of water, using their fins to move on mud. *Check:* Found by search: "Mudskippers: The Fish That Walks on Land | Life | BBC Earth" by BBC Earth, 4 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is an adaptation?  

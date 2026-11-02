@@ -380,8 +380,8 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
    **Answer:** Waste collector → takes waste from our homes; Sorting shed worker → sorts dry waste into paper, plastic, glass and tins; Decomposers → eat wet waste and turn it into soil. *Why:* People and other living beings all work on our waste. Decomposers are living beings too.
 
 ## Videos
-- **A short video showing a city's wet and dry waste being collected separately** (, 4 min) id `to find`: Shows children where the green and blue bins go after they leave home. *Check:* No video has been chosen yet. Find one that is accurate and suits Class 2, and preview it first.
-- **A short video of kitchen waste turning into compost** (, 4 min) id `to find`: Shows peels being eaten by decomposers and becoming soil, which a child cannot watch at home in one day. *Check:* No video has been chosen yet. Find one that is accurate and suits Class 2, and preview it first.
+- **Why waste segregation is important** (The Planet Voice, 2 min) id `0ZiD_Lb3Tm0`: Shows children why waste is kept apart at home, so it can be collected and handled the right way. *Check:* Found by search: "Why Waste Segregation is Important | Waste Management | The Planet Voice" by The Planet Voice, 2 minutes, 7 seconds. A parent may preview it.
+- **How compost is made: a field trip** (SciShow Kids, 7 min) id `26IO95Xt5WU`: Shows scraps being eaten by decomposers and becoming soil, which a child cannot watch at home in one day. *Check:* Found by search: "How Compost Is Made: A Field Trip!" by SciShow Kids, 6 minutes, 43 seconds. A parent may preview it.
 - **A short video of women sorting dry waste at a sorting centre in India** (, 4 min) id `to find`: Shows why dry waste must be clean and dry, and who does the sorting. *Check:* No video has been chosen yet. Find one that is accurate and suits Class 2, and preview it first.
 
 ## Quiz

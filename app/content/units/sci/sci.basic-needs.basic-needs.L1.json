@@ -271,11 +271,19 @@
       },
       {
        "f": "A plate of idli and sambar",
-       "b": "Food. It gives you energy."
+       "b": "Food. It gives you energy.",
+       "img": {
+        "src": "media/cards/basic-needs-g1-1-04.jpg",
+        "credit": "Chainwit., CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A banana",
-       "b": "Food. Fruit gives you energy, and some water too."
+       "b": "Food. Fruit gives you energy, and some water too.",
+       "img": {
+        "src": "media/cards/basic-needs-g1-1-05.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A raincoat",

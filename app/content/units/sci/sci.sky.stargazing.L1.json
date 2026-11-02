@@ -1070,13 +1070,12 @@
  ],
  "videos": [
   {
-   "title": "A dung beetle rolling a ball by the light of the Milky Way",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows the real beetles that Marie Dacke's team studied, rolling straight under the stars.",
-   "check": "Find a clip from Lund University, the University of the Witwatersrand or a nature channel about the 2013 Milky Way study. Check that it shows real beetles, not animation."
+   "title": "Dung beetles navigate using the stars",
+   "channel": "Science Channel",
+   "youtube": "MMlOKY734TM",
+   "mins": 2,
+   "why": "Shows the real beetles that Marie Dacke's team studied, finding their way using the Milky Way.",
+   "check": "Found by search: \"Dung Beetles Navigate Using the Stars\" by Science Channel, 1 minute 48 seconds. A parent may preview it."
   },
   {
    "title": "The Moon seen through a telescope: craters and dark plains",
@@ -1088,13 +1087,12 @@
    "check": "Find a real telescope video of the Moon from an observatory, a planetarium or an amateur astronomer. Check it says the Moon shines with sunlight."
   },
   {
-   "title": "Chandrayaan-3 landing near the Moon's south pole",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows Indian scientists landing on the Moon on 23 August 2023, and real pictures of the Moon's rocky ground.",
-   "check": "Find ISRO's own video of the landing or of the pictures sent back. Check it is short and from ISRO or a news channel."
+   "title": "India's Chandrayaan-3 makes a historic Moon landing",
+   "channel": "Guardian News",
+   "youtube": "dim8elzo5vE",
+   "mins": 2,
+   "why": "Shows news of Indian scientists landing on the Moon on 23 August 2023, near its south pole.",
+   "check": "Found by search: \"India's Chandrayaan-3 makes historic moon landing\" by Guardian News, 1 minute 46 seconds. A parent may preview it."
   }
  ],
  "quiz": [

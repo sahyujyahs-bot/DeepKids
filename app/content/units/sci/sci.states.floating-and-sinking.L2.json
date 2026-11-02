@@ -1606,31 +1606,28 @@
  ],
  "videos": [
   {
-   "title": "Float or sink: guessing and testing kitchen things",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Sink or float?",
+   "channel": "SciShow Kids",
+   "youtube": "eQuW8G2QV_Q",
+   "mins": 6,
    "why": "Shows children guessing first, then testing everyday things in a tub of water.",
-   "check": "Not yet found. Search for a short float and sink video for ages 6 to 8 that pushes things under, and watch it first."
+   "check": "Found by search: \"Sink or Float?\" by SciShow Kids, 5 minutes 51 seconds. A parent may preview it."
   },
   {
-   "title": "Why does a peeled orange sink?",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a whole orange floating and a peeled orange sinking, like our orange test.",
-   "check": "Not yet found. Search for the orange peel float test and check that it shows the peel floating alone."
-  },
-  {
-   "title": "Coconuts at sea: how a seed travels by floating",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why do whole oranges float, but peeled oranges sink?",
+   "channel": "The Science Girl",
+   "youtube": "rJR4Esmp7qQ",
    "mins": 4,
+   "why": "Shows a whole orange floating and a peeled orange sinking, like our orange test.",
+   "check": "Found by search: \"Density Experiment For Kids | Why Do Whole Oranges Float, but Peeled Oranges Sink?\" by The Science Girl, 4 minutes 23 seconds. A parent may preview it."
+  },
+  {
+   "title": "Coconuts and seed dispersal",
+   "channel": "Adventures With Eric",
+   "youtube": "-ThRQo6lOXo",
+   "mins": 5,
    "why": "Shows coconuts floating on the sea and sprouting on a beach.",
-   "check": "Not yet found. Search for a nature video on coconut seed dispersal by sea, and check the facts the video gives."
+   "check": "Found by search: \"300_16 Coconuts and Seed Dispersal 2016 Updated Version\" by Adventures With Eric, 4 minutes 52 seconds. A parent may preview it."
   }
  ],
  "quiz": [

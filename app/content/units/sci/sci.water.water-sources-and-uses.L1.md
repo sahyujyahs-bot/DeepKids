@@ -391,9 +391,9 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
    **Answer:** True. *Why:* True. More than half of your body is water, and you need to drink every day to keep it so.
 
 ## Videos
-- **A cat lapping water, filmed in slow motion** (, 2 min) id `to find`: Shows how a cat pulls up a little column of water with the tip of the tongue, as the scientists in 2010 saw. *Check:* Find a real slow-motion video. Check it shows the tongue touching the top of the water, not scooping.
-- **An elephant drinking with their trunk** (, 2 min) id `to find`: Shows an elephant filling the trunk and squirting water into the mouth. *Check:* Find a real video of an elephant drinking, ideally an Asian elephant in India. Check the water goes into the mouth, not just a bath.
-- **Poha soaking in water, close up** (, 2 min) id `to find`: Shows poha flakes swelling as water soaks in, for families who cannot do the test today. *Check:* Find a short cooking video that shows dry and soaked poha side by side. Check it shows real soaking, not cooking with heat.
+- **How a cat drinks, in super slow motion** (Sic Pixels, 3 min) id `z2fC6ryJuDs`: Shows how a cat pulls up a little column of water with the tip of the tongue, as the scientists in 2010 saw. *Check:* Found by search: "How a Cat Drinks - Amazing Super Slow Motion 2000FPS" by Sic Pixels, 2 minutes 53 seconds. A parent may preview it.
+- **A baby elephant drinking with his trunk at a zoo** (TheOriginalEnZOOsiast, 1 min) id `FQ7olZwfq7E`: Shows an elephant filling the trunk with water and bringing it to the mouth. *Check:* Found by search: "Cute Baby Elephant Using His Trunk to Drink Water @ Cologne Zoo" by TheOriginalEnZOOsiast, 1 minute 8 seconds. A parent may preview it.
+- **How to soak poha (flattened rice)** (Relish 360, 1 min) id `bXqjuTdXuds`: Shows dry poha flakes being soaked in water, for families who cannot do the test today. *Check:* Found by search: "How to soak POHA / FLATTENED RICE | Relish360" by Relish 360, 54 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a job that water does for us?  

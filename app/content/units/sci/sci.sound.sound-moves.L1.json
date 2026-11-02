@@ -1538,31 +1538,28 @@
  ],
  "videos": [
   {
-   "title": "Lightning and thunder: why we see it before we hear it",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows lightning and the thunder arriving later, so children see and hear that sound takes time to travel.",
-   "check": "Find a real recording of a thunderstorm where the flash comes clearly before the thunder, from a weather service or science channel. Check that the sound is not edited to match the flash."
+   "title": "What causes thunder and lightning (Dr Binocs)",
+   "channel": "Peekaboo Kidz",
+   "youtube": "ZR0O1wodxyE",
+   "mins": 6,
+   "why": "Explains thunder and lightning for children, including why we see the flash before we hear the thunder, so they learn that sound takes time to travel.",
+   "check": "Found by search: \"What Causes Thunder & Lightning? | THUNDERSTORM | The Dr Binocs Show | Peekaboo Kidz\" by Peekaboo Kidz, 5 minutes 38 seconds. A parent may preview it."
   },
   {
-   "title": "How a megaphone works",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a cone sending a voice one way, like the paper cone in the experiment.",
-   "check": "Find a short, accurate explanation from a science museum or education channel. Check that it says the cone directs the sound, and does not say it creates extra sound."
-  },
-  {
-   "title": "Ripples spreading on a pond",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Working of a megaphone",
+   "channel": "KClassScienceChannel",
+   "youtube": "Ptp-a6MfBYk",
    "mins": 2,
-   "why": "A slow, clear look at ripples spreading out on every side and getting smaller, a picture of how a sound spreads out from its source.",
-   "check": "Find real slow-motion footage of a drop or a stone making ripples on still water. Use it as a picture of spreading only: sound is not a water ripple. Check that it is not animation."
+   "why": "Shows how a cone sends a voice one way, like the paper cone in the experiment.",
+   "check": "Found by search: \"Working of a megaphone | Sound | Physics\" by KClassScienceChannel, 1 minute 44 seconds. A parent may preview it."
+  },
+  {
+   "title": "Ripples on a pond",
+   "channel": "IRIS Earthquake Science",
+   "youtube": "T9QwiBFN9gI",
+   "mins": 1,
+   "why": "Real footage of ripples spreading out on every side across a pond, a picture of how a sound spreads out from its source. Sound is not a water ripple.",
+   "check": "Found by search: \"Ripples on a pond\" by IRIS Earthquake Science, 11 seconds. A parent may preview it."
   }
  ],
  "applications": [

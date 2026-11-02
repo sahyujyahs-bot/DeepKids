@@ -249,31 +249,59 @@
      "items": [
       {
        "f": "Ant",
-       "b": "Eats sugar, crumbs, sweet fruit and dead insects."
+       "b": "Eats sugar, crumbs, sweet fruit and dead insects.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-00.jpg",
+        "credit": "stli_, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "Eats almost anything: rice, fruit, insects and scraps."
+       "b": "Eats almost anything: rice, fruit, insects and scraps.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-01.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pigeon",
-       "b": "Eats grains and seeds."
+       "b": "Eats grains and seeds.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-02.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gecko",
-       "b": "Eats moths, mosquitoes and other small insects."
+       "b": "Eats moths, mosquitoes and other small insects.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-03.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cow",
-       "b": "Eats grass, hay and vegetable peels."
+       "b": "Eats grass, hay and vegetable peels.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-04.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "Sips sweet juice called nectar from flowers."
+       "b": "Sips sweet juice called nectar from flowers.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-05.jpg",
+        "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Spider",
-       "b": "Eats flies and other insects caught in the web."
+       "b": "Eats flies and other insects caught in the web.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-0-06.jpg",
+        "credit": "kumarkv, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Me, a human",
@@ -295,11 +323,19 @@
       },
       {
        "f": "A moth",
-       "b": "Gecko, spider and crow."
+       "b": "Gecko, spider and crow.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-02.jpg",
+        "credit": "lovelymon lamin, CC0, via iNaturalist"
+       }
       },
       {
        "f": "A mosquito",
-       "b": "Gecko and spider."
+       "b": "Gecko and spider.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-03.jpg",
+        "credit": "Ashwin Viswanathan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A bundle of grass",
@@ -311,7 +347,11 @@
       },
       {
        "f": "A fly",
-       "b": "Spider, gecko and crow."
+       "b": "Spider, gecko and crow.",
+       "img": {
+        "src": "media/cards/animals-around-us-g1-1-06.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Wheat and bajra grains",
@@ -434,15 +474,27 @@
      "items": [
       {
        "f": "Ant",
-       "b": "Hide: near a kitchen corner or a crack in the floor. Why: Ants live in cracks, close to crumbs."
+       "b": "Hide: near a kitchen corner or a crack in the floor. Why: Ants live in cracks, close to crumbs.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-00.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Gecko",
-       "b": "Hide: behind a photo frame or a cupboard. Why: Geckos hide in dark gaps in the day."
+       "b": "Hide: behind a photo frame or a cupboard. Why: Geckos hide in dark gaps in the day.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-01.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Spider",
-       "b": "Hide: a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in."
+       "b": "Hide: a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-02.jpg",
+        "credit": "Ram Dayal Vaishnav, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pigeon",
@@ -450,23 +502,43 @@
       },
       {
        "f": "Mosquito",
-       "b": "Hide: near a bucket or a plant pot saucer. Why: Mosquitoes lay eggs in still water."
+       "b": "Hide: near a bucket or a plant pot saucer. Why: Mosquitoes lay eggs in still water.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-04.jpg",
+        "credit": "Rodolfo Salinas Villarreal, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cockroach",
-       "b": "Hide: under the kitchen sink. Why: Cockroaches like dark, damp places near food."
+       "b": "Hide: under the kitchen sink. Why: Cockroaches like dark, damp places near food.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-05.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "Hide: near the window that looks out at a tree. Why: Crows build nests high up in trees."
+       "b": "Hide: near the window that looks out at a tree. Why: Crows build nests high up in trees.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-06.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Moth",
-       "b": "Hide: near a light. Why: Many moths fly to lights at night."
+       "b": "Hide: near a light. Why: Many moths fly to lights at night.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-07.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Squirrel",
-       "b": "Hide: near a window with a tree outside. Why: Squirrels make nests of grass high in trees."
+       "b": "Hide: near a window with a tree outside. Why: Squirrels make nests of grass high in trees.",
+       "img": {
+        "src": "media/cards/animals-around-us-g2-0-08.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Me, a human",

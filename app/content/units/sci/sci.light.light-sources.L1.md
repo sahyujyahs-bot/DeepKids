@@ -423,9 +423,9 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
    **Answer:** The one with fresh cells. *Why:* A torch makes light from the energy in its cells. Weak cells give less light, so the far wall looks dim.
 
 ## Videos
-- **Fireflies flashing at night in the Western Ghats** (, 2 min) id `to find`: Shows living light sources: fireflies who make their own light and flash to find each other. *Check:* Find a real clip of fireflies at night in India, such as near Bhandardara in Maharashtra, from a nature or news channel. Check it is real footage, not animation.
-- **Sunrise over the sea, sped up** (, 2 min) id `to find`: Shows our biggest light source lighting up the whole sky and land. *Check:* Find a real time-lapse of a sunrise over the sea, ideally at Kanyakumari or Puri. Check that it never tells children to look straight at the Sun.
-- **The great lamp lit on the hill for Karthigai Deepam at Tiruvannamalai** (, 2 min) id `to find`: Shows a huge flame used as a light source, seen from far across the town at night. *Check:* Find a news clip of the Maha Deepam on the Arunachala hill at Tiruvannamalai, Tamil Nadu. Check that the clip is short and shows the flame clearly.
+- **Lakhs of fireflies flashing together in India** (The Hindu, 2 min) id `cTLMflIyxys`: Shows living light sources: fireflies make their own light and flash together in the night. *Check:* Found by search: "Watch lakhs of fireflies flashing together" by The Hindu, 2 minutes, 9 seconds. A parent may preview it.
+- **Sunrise by the sea, sped up** (Free Stock Footage 4K, 1 min) id `cN-4D5midGU`: Shows our biggest light source lighting up the whole sky and land. *Check:* Found by search: "Time Lapse - Sunrise By The Sea - Free HD Stock Footage (No Copyright) Shore Beach Ocean" by Free Stock Footage 4K, 24 seconds. A parent may preview it.
+- **The great lamp lit on the hill at Tiruvannamalai** (Girivalam Alert, 3 min) id `1Xq44vYV2zE`: Shows a huge flame used as a light source, seen from far across the town at night. *Check:* Found by search: "Thiruvannamalai Karthigai Maha Deepam" by Girivalam Alert, 2 minutes, 56 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a light source?  

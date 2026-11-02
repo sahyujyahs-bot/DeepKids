@@ -420,9 +420,9 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
    **Answer:** soap → turns it red; lemon juice → keeps it yellow; cooking soda → turns it orange-red; lemon on a red spot → turns it yellow again. *Why:* Soap and cooking soda turn haldi red. Lemon keeps it yellow, and turns red haldi yellow again.
 
 ## Videos
-- **Tu Youyou and the malaria medicine: a short film** (, 4 min) id `to find`: Tells the true story of how Tu Youyou found artemisinin in an old book and tested it. *Check:* Find a real, accurate film suitable for young children, for example from the Nobel Prize channel. Check it says she used a low-heat method, and that the clue came from Ge Hong's book.
-- **Turmeric turns red with soap: kitchen science** (, 3 min) id `to find`: Shows haldi turning red with soap and yellow again with lemon, the same as the haldi test. *Check:* Check it uses ordinary soap or washing powder and lemon, and does not give wrong safety advice.
-- **Mary Anning, the girl who found sea dragons** (, 4 min) id `to find`: A true story of a girl who found famous fossils on an English beach. *Check:* Check the dates (the ichthyosaur, 1811 to 1812) and that her brother Joseph is named.
+- **How an ancient remedy became a modern cure for malaria** (SciShow, 5 min) id `JZQc9S12ZvM`: Tells the true story of how Tu Youyou found a clue to artemisinin in an old Chinese book and tested it. *Check:* Found by search: "How an Ancient Remedy Became a Modern Cure for Malaria" by SciShow, 5 minutes 25 seconds. A parent may preview it.
+- **Turmeric colour change with acids and bases: kitchen science** (TheDadLab, 2 min) id `2uHZ4Fwjx7o`: Shows turmeric changing colour with a base and an acid, the same idea as the haldi test with soap and lemon. *Check:* Found by search: "Turmeric pH Indicator Art Project - Experiment for Acids & Bases" by TheDadLab, 2 minutes 3 seconds. A parent may preview it.
+- **Mary Anning: fossil hunter** (SciShow Kids, 4 min) id `koota_lwU_4`: A true story of a girl who found famous fossils on an English beach. *Check:* Found by search: "Mary Anning: Fossil Hunter | Science for Kids" by SciShow Kids, 4 minutes 14 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What does a scientist do?  

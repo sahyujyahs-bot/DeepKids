@@ -766,7 +766,11 @@
       },
       {
        "f": "Elephant calf",
-       "b": "Ready. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years."
+       "b": "Ready. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years.",
+       "img": {
+        "src": "media/cards/animal-babies-g1-0-06.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Baby spider",
@@ -1597,31 +1601,28 @@
  ],
  "videos": [
   {
-   "title": "House sparrow parents feeding chicks in a nest hole",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "House sparrow feeding babies in the nest",
+   "channel": "kinbigbird",
+   "youtube": "ekSpqX6ElmE",
+   "mins": 4,
    "why": "Shows the chicks' yellow-edged mouths opening when a parent arrives, as in Kavya's story and the dark nest test.",
-   "check": "Find a real clip of house sparrows feeding nestlings. Check the birds are house sparrows and that nobody handles the chicks."
+   "check": "Found by search: \"House Sparrow Feeding Babies\" by kinbigbird, 3 minutes, 39 seconds. A parent may preview it."
   },
   {
-   "title": "A calf standing up for the first time",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "A newborn calf standing up for the first time",
+   "channel": "OlivemeadFarm",
+   "youtube": "QuGkTmeFDjw",
+   "mins": 1,
    "why": "Shows a newborn calf getting up on wobbly legs within about an hour, to compare with a human baby.",
-   "check": "Find a real, calm clip of a newborn calf standing, ideally an Indian cow or buffalo. Check there is no birth scene that is too graphic for a 7-year-old."
+   "check": "Found by search: \"Newborn calf standing up for the first time at Olivemead Farm\" by OlivemeadFarm, 1 minute, 22 seconds. A parent may preview it."
   },
   {
-   "title": "Langur monkeys passing a baby between females",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A langur female takes a baby to practise being a mother",
+   "channel": "Smithsonian Channel",
+   "youtube": "u_IjTDYpj9o",
    "mins": 3,
-   "why": "Shows that many carers can look after one baby.",
-   "check": "Find a real wildlife clip of Hanuman (grey) langurs with a young infant handled by females other than the mother. Check the narration is accurate."
+   "why": "Shows a langur female other than the mother carrying and caring for a baby, so many carers can look after one baby.",
+   "check": "Found by search: \"A Langur Female Steals a Baby to Practice Being a Mom\" by Smithsonian Channel, 3 minutes, 26 seconds. A parent may preview it."
   }
  ],
  "quiz": [

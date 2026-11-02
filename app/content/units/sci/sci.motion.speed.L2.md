@@ -468,9 +468,9 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    **Answer:** short. *Why:* In a short race, the faster walker runs out of distance before catching up.
 
 ## Videos
-- **A cheetah running in slow motion** (, 3 min) id `to find`: Shows how a cheetah's long strides and quick steps together make the fastest land animal, after your child has done the Step Race. *Check:* Find a short, accurate clip of a real cheetah running, filmed in slow motion. Check it shows stride length clearly and does not stage a hunt that is upsetting for young children.
-- **A snake boat race in Kerala** (, 4 min) id `to find`: Shows long boats with many rowers pulling together to a boat song, like the boats in the story. *Check:* Find a clip of a real vallam kali race, such as the Nehru Trophy Boat Race in Alappuzha. Check it shows rowers pulling in time and the boat song.
-- **How Ole Rømer found that light has a speed** (, 4 min) id `to find`: For the parent and curious children: how timing Jupiter's moon Io showed that light takes time to travel. *Check:* Find a simple animation. Check that it names Ole Rømer, the year 1676 and Jupiter's moon Io, and does not claim he measured the exact modern speed.
+- **The Science of a Cheetah's Speed** (National Geographic, 4 min) id `icFMTB0Pi0g`: Shows how a cheetah's long strides and quick steps together make the fastest land animal, after your child has done the Step Race. *Check:* Found by search: "The Science of a Cheetah's Speed" by National Geographic, 3:33. A parent may preview it.
+- **The Nehru Trophy snake boat race in Kerala** (Kerala Tourism, 2 min) id `RJP03ergWhk`: Shows long boats with many rowers pulling together in time, like the boats in the story. *Check:* Found by search: "Nehru Trophy Boat Race - An emotion that runs through generations" by Kerala Tourism, 1:30. A parent may preview it.
+- **How Jupiter's moons showed the speed of light** (SciShow Space, 6 min) id `dku-cIfXtQE`: For the parent and curious children: how timing Jupiter's moon Io showed that light takes time to travel. *Check:* Found by search: "How Jupiter's Moons Showed Us the Speed of Light" by SciShow Space, 5:54. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is speed?  

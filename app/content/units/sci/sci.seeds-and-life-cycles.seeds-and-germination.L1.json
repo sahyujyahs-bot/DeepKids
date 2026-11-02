@@ -1523,31 +1523,28 @@
  ],
  "videos": [
   {
-   "title": "A time-lapse of a bean or chana seed sprouting in soil, filmed from the side",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows in two minutes what the dug-up seeds showed over five days: the root first, then the curled shoot.",
-   "check": "Find a real time-lapse filmed through glass. Check the root comes out first and there is no wrong narration."
-  },
-  {
-   "title": "A time-lapse of a pumpkin seedling coming up and opening their seed leaves",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows the curled shoot pushing out of the soil and the round seed leaves opening, as in the project.",
-   "check": "Find a real time-lapse of pumpkin or squash. Check it is a real seedling, not an animation."
-  },
-  {
-   "title": "Seeds and how they grow, for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Bean time-lapse in soil, seen from the side",
+   "channel": "GPhase",
+   "youtube": "w77zPAtVTuI",
    "mins": 3,
-   "why": "A short, simple picture of a seed growing into a plant.",
-   "check": "Find a short, accurate video for age 6. Check it shows the root coming out before the leaves."
+   "why": "Shows in two minutes what the dug-up seeds showed over five days: the root first, then the curled shoot.",
+   "check": "Found by search: \"Bean Time-Lapse - 25 days | Soil cross section\" by GPhase, 3 minutes, 10 seconds. A parent may preview it."
+  },
+  {
+   "title": "Pumpkin growing from seed, time-lapse",
+   "channel": "Seemingly Forever",
+   "youtube": "6TQgHKmACq4",
+   "mins": 3,
+   "why": "Real time-lapse of a pumpkin seed coming up, the round seed leaves opening, and the plant growing on. Watch the first part for the seedling.",
+   "check": "Found by search: \"Pumpkin Growing from Seed to Flowers 🎃 120 days Time Lapse\" by Seemingly Forever, 2 minutes, 58 seconds. A parent may preview it."
+  },
+  {
+   "title": "What is seed germination? (Dr. Binocs)",
+   "channel": "Peekaboo Kidz",
+   "youtube": "JSe_VUMymjo",
+   "mins": 6,
+   "why": "A simple cartoon explanation of how a seed wakes up and grows into a plant.",
+   "check": "Found by search: \"What Is Seed Germination? | SEED GERMINATION | Plant Germination | Dr Binocs Show | Peekaboo Kidz\" by Peekaboo Kidz, 6 minutes, 28 seconds. A parent may preview it."
   }
  ],
  "quiz": [

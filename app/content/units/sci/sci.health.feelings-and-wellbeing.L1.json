@@ -1714,31 +1714,28 @@
  ],
  "videos": [
   {
-   "title": "A short children's video about naming feelings: happy, sad, angry, scared and calm",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows faces and bodies for each feeling, and helps children learn the names.",
-   "check": "Find a real, accurate video for age 6. Check it says all feelings are all right to have, and does not call any feeling bad."
-  },
-  {
-   "title": "A slow breathing video for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Goes with Tiger Body, Cat Body and the settling bottle: a calm guide to breathing in and out slowly.",
-   "check": "Find a short, gentle video for age 6. Check it does not suggest hitting things to let anger out."
-  },
-  {
-   "title": "Laughing rats: young rats calling when tickled, from Jaak Panksepp's lab",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A short song about feelings: all our feelings are okay",
+   "channel": "The Scribbles Crew & Friends",
+   "youtube": "1bKaZhRXeyE",
    "mins": 2,
+   "why": "Shows faces and bodies for each feeling, and helps children learn the names.",
+   "check": "Found by search: \"All Our Feelings Are Okay | Scribbles Crew Feelings Song for Kids | Emotional Literacy for Children\" by The Scribbles Crew & Friends, 1 minute, 50 seconds. A parent may preview it."
+  },
+  {
+   "title": "Belly breathing for children",
+   "channel": "The Mindfulness Teacher",
+   "youtube": "RiMb2Bw4Ae8",
+   "mins": 4,
+   "why": "Goes with Tiger Body, Cat Body and the settling bottle: a calm guide to breathing in and out slowly.",
+   "check": "Found by search: \"Belly Breathing: Mindfulness for Children\" by The Mindfulness Teacher, 4 minutes, 6 seconds. A parent may preview it."
+  },
+  {
+   "title": "Tickling a rat: scientists find out that rats laugh",
+   "channel": "National Geographic",
+   "youtube": "d-84UJpYFRM",
+   "mins": 3,
    "why": "Shows that other animals have happy feelings too, and how scientists found out.",
-   "check": "Find a real video from a news or science channel. Check it explains that the calls are too high for us to hear without a special detector."
+   "check": "Found by search: \"See What Happens When You Tickle a Rat\" by National Geographic, 3 minutes, 19 seconds. A parent may preview it."
   }
  ],
  "applications": [

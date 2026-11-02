@@ -368,8 +368,8 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 
 ## Videos
 - **A slow-motion or close-up video of water inside a cucumber or watermelon** (, 2 min) id `to find`: Shows how juicy plant foods hold water in tiny cells. *Check:* Find a real, accurate close-up video. Check it does not claim exact numbers it cannot show.
-- **Why do we feel thirsty? A short explainer for young children** (, 3 min) id `to find`: Shows that the body loses water all day and that thirst asks for more. *Check:* Find a short video for age 6. Check it does not claim everyone needs exactly 8 glasses a day.
-- **How sugar and mouth bacteria make holes in teeth, for children** (, 3 min) id `to find`: Shows why lots of sweet food and drink is hard on teeth. *Check:* Find a short, accurate video, ideally from dentists. Check it is not an advert for a product.
+- **Why do we get thirsty? A short explainer for children** (It's AumSum Time, 5 min) id `7IoFmGD2yN8`: Shows that the body loses water all day and that thirst asks for more. *Check:* Found by search: "Why do we get Thirsty? | #aumsum #kids #education #science" by It's AumSum Time, 5 minutes, 29 seconds. A parent may preview it.
+- **Cavities with Dr. Binocs: how sweet things harm teeth** (Peekaboo Kidz, 5 min) id `3ZHYQ6f1BhU`: Shows why lots of sweet food and drink is hard on teeth. *Check:* Found by search: "Cavities - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz" by Peekaboo Kidz, 4 minutes, 42 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Why does your body need food?  

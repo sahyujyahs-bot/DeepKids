@@ -386,9 +386,9 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
    **Answer:** False. *Why:* False. A pill bug has 14 legs, and an insect has 6. Pill bugs are cousins of crabs and prawns, not of ants.
 
 ## Videos
-- **A pill bug rolling into a ball and uncurling, close up** (, 2 min) id `to find`: Shows a pill bug rolling up when touched, which a child may never see up close. *Check:* Find a real, close-up video of a pill bug (a woodlouse who rolls up). Check nobody hurts the animal.
-- **Earthworms moving through soil, close up** (, 2 min) id `to find`: Shows how an earthworm stretches and squeezes through damp soil. *Check:* Find a real video of earthworms moving in soil. Check the narration is accurate about breathing through the skin.
-- **Life in a pond: tadpoles, pond skaters and dragonflies** (, 3 min) id `to find`: Shows the living beings under, on and above the water of a pond. *Check:* Find a real pond-life video, ideally filmed in India. Check the animals are named correctly.
+- **Roly poly (pill bug) close up: A close-up look at pill bugs and how they roll into a ball.** (Deep Look, 4 min) id `sj8pFX9SOXE`: Shows a pill bug up close and how it rolls into a ball, which a child may never see up close. *Check:* Found by search: "Roly Polies Came From the Sea to Conquer the Earth" by Deep Look, 3 minutes, 30 seconds. A parent may preview it.
+- **Earthworms: how worms move and live in soil** (SciShow Kids, 5 min) id `l-zc_1vjLnI`: Shows how earthworms live and move through soil. *Check:* Found by search: "Worms Are Wonderful" by SciShow Kids, 4 minutes, 34 seconds. A parent may preview it.
+- **Who lives at the pond?** (Dr. Seuss (The Lorax Nature Keepers Club), 3 min) id `qJxPv8QNU38`: Shows the living beings that live in and around a pond. *Check:* Found by search: "Who Lives at the Pond? Let's Find Out!" by Dr. Seuss (The Lorax Nature Keepers Club), 3 minutes, 8 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a habitat, a home place for living beings?  

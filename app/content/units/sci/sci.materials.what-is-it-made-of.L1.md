@@ -457,9 +457,9 @@ And some things, like her pencil, were made of more than one thing.
    **Answer:** You can see through it → Glass; It has threads → Fabric; It has brown grain lines → Wood; It is shiny and rings when tapped → Metal; It tears easily and gets soggy in water → Paper. *Why:* Each material has clues you can see, feel or hear. Detectives use these clues to name a material.
 
 ## Videos
-- **How paper cups are made in a factory** (, 4 min) id `to find`: Shows sheets of paper with a thin plastic coat being cut, rolled and sealed into cups, which matches what the child found in the Paper Cup Puzzle. *Check:* Find a real factory video that shows the coated paper. Check that it does not show unsafe machines up close in a frightening way.
-- **Making glass bangles in Firozabad** (, 4 min) id `to find`: Shows glass being melted and shaped into bangles, so the child sees that glass starts as a hot, glowing liquid made from sand. *Check:* Find a real documentary or news clip from Firozabad. Check that it does not show child workers.
-- **How cotton becomes cloth on a handloom** (, 4 min) id `to find`: Shows cotton fluff spun into thread and woven over and under on a loom, like the threads the child pulled out of an old cloth. *Check:* Find a real clip of a handloom weaver, for example from Tamil Nadu, Andhra Pradesh, Assam or West Bengal.
+- **How paper cups are made** (How It's Made, 3 min) id `c94ciENITiI`: Shows paper being cut, rolled and sealed into cups in a factory, which matches the paper cup the child examined in the Paper Cup Puzzle. *Check:* Found by search: "How Paper Cups Are Made" by How It's Made, 3 minutes 2 seconds. A parent may preview it.
+- **How glass bangles are made in India** (Insider Art, 5 min) id `HhQrEoXoWdU`: Shows glass being melted and shaped into bangles, so the child sees that glass starts as a hot, glowing liquid made from sand. *Check:* Found by search: "How Millions Of Bangles Are Made Every Day In One City In India" by Insider Art, 5 minutes 6 seconds. A parent may preview it. Check it does not show child workers.
+- **Traditional Indian weaving** (Victoria and Albert Museum, 3 min) id `9OHbJQ90hfY`: Shows threads woven over and under on a traditional Indian loom, like the threads the child pulled out of an old cloth. *Check:* Found by search: "How was it made? Traditional Indian Weaving" by Victoria and Albert Museum, 3 minutes 8 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a material?  

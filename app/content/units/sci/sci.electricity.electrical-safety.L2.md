@@ -484,9 +484,9 @@ Amma and Ammamma looked at each other and smiled.
    **Answer:** 1.5. *Why:* A torch cell gives about 1.5 volts. 230 is about 150 times as much.
 
 ## Videos
-- **Electrical safety for young children** (, 4 min) id `to find`: Shows in simple words why children do not touch sockets, plugs and wires, and why water and electricity must be kept apart. *Check:* Find a short, accurate video for children. Check it uses dry hands, says children must not touch sockets or plugs, and does not show a child unplugging things.
-- **Why birds on a power line are safe** (, 3 min) id `to find`: Shows birds on a wire and explains, with a simple drawing, that the electricity has no path through a bird touching one wire. *Check:* Find a clear explainer from a science channel or an electricity board. Check it also says that birds touching two wires, and people on ladders, can be killed.
-- **Monsoon electricity safety** (, 3 min) id `to find`: Shows what to do about fallen wires and waterlogged streets in the rain, in an Indian city. *Check:* Find a video from an Indian electricity board or a news channel. Check it says to keep far from fallen wires and poles in water, and to tell the electricity board.
+- **Be Safe with Electricity** (WonderGrove Kids, 3 min) id `5Uufmn8ZpPg`: Shows in simple words why children do not touch sockets, plugs and wires, and why water and electricity must be kept apart. *Check:* Found by search: "Be Safe with Electricity [CC]" by WonderGrove Kids, 2 minutes 46 seconds. A parent may preview it.
+- **Why birds on power lines do not get zapped** (SciShow, 3 min) id `cxjZtRZj64g`: Shows birds on a wire and explains, with a simple drawing, that the electricity has no path through a bird touching one wire. *Check:* Found by search: "Why Don't Birds on Power Lines Get Zapped?" by SciShow, 3 minutes 12 seconds. A parent may preview it.
+- **Monsoon electrical safety guide** (Tata Power, 1 min) id `bP0g9msrfPA`: Gives short monsoon safety advice from an Indian electricity company, including staying away from wires and water. *Check:* Found by search: "Tata Power's Guide to Monsoon Electrical Safety" by Tata Power, 1 minute 19 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Why can you hold a torch cell, but must never touch the holes of a wall socket?  

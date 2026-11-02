@@ -510,9 +510,9 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
    **Answer:** Thread: the thin lines at the edge. Spot: the round fuzzy patch. Bread: the slice underneath.. *Why:* Mould is a fungus that grows by spreading thin threads. A strong answer labels the threads at the edge, where the mould is growing outwards.
 
 ## Videos
-- **Bacteria growing into colonies: a time-lapse** (, 3 min) id `to find`: Shows tiny dots on food or a plate growing into big coloured spots over a few days, as on the potato slices. *Check:* Find a real time-lapse with no wrong facts in the words. Check it does not say all bacteria are bad.
-- **Curd or yogurt bacteria under a microscope** (, 3 min) id `to find`: Shows the real curd bacteria, the tiny rods and chains that set milk. *Check:* Find real microscope footage of yogurt or curd. Check the bacteria named are lactic acid bacteria, and that nothing scary is added.
-- **Why rain smells: soil bacteria and petrichor** (, 4 min) id `to find`: Explains the earthy rain smell from the smell test, and the soil bacteria that make geosmin. *Check:* Find a clear, accurate explainer. Check it names soil bacteria and geosmin, and credits Isabel Joy Bear and Richard Thomas for the word petrichor.
+- **Bacteria growing in a petri dish: a time-lapse** (Science Is Fun, 1 min) id `TjxMECOU3w8`: Shows tiny dots on a plate growing into big spots over time, like the colonies on the potato slices. *Check:* Found by search: "Time Lapse of Bacteria - Bacillus Cereus - Growing in Petri Dish" by Science Is Fun, 55 seconds. A parent may preview it.
+- **Curd under a microscope: Lactobacillus bacteria** (Manocha Academy, 5 min) id `cntn8HGD0bM`: Shows the real curd bacteria, the tiny rods and chains that set milk. *Check:* Found by search: "Curd Under Microscope | Yogurt Under Microscope | Lactobacillus Bacteria" by Manocha Academy, 4 minutes, 43 seconds. A parent may preview it.
+- **Why does rain smell?** (SciShow, 2 min) id `PDrElHWBT6A`: Explains the earthy rain smell from the smell test, and the soil bacteria and the chemical geosmin they make. *Check:* Found by search: "Why Does Rain Smell?" by SciShow, 2 minutes, 21 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Why can't we see one microbe with our eyes?  

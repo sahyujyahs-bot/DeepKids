@@ -463,9 +463,9 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
    **Answer:** The leaves stand up again after a few hours. *Why:* Water keeps the leaves firm. A plant that is only a little dry can stand up again after a drink.
 
 ## Videos
-- **A time-lapse of seedlings bending towards light** (, 2 min) id `to find`: Shows in seconds what our turning cup did overnight. *Check:* Find a real time-lapse of seedlings bending to a one-sided light. Check that the light really moves or the pot is really turned.
-- **A potato shoot growing through a maze box** (, 2 min) id `to find`: Shows a shoot finding the light round walls, like the maze box challenge. *Check:* Find a real time-lapse of a potato or bean maze. Check it is filmed, not animated.
-- **Young sunflowers following the Sun** (, 3 min) id `to find`: Shows young sunflowers turning east to west through the day, as in Stacey Harmer's study. *Check:* Find an accurate video. Check it says only young sunflowers turn, and open flowers face east.
+- **A time-lapse of a plant bending towards light, then the light changes** (Green Timelapse, 2 min) id `jJrqmkbiwdE`: Shows in seconds what our turning cup did overnight, and the plant turning again when the light moves. *Check:* Found by search: "Changing the direction of the light during plant growth - Time lapse #greentimelapse #gtl #timelapse" by Green Timelapse, 2 minutes, 10 seconds. A parent may preview it.
+- **A plant growing through a maze to find the light** (STEAM Powered Family, 4 min) id `qJusc1SYlBY`: Shows a shoot finding the light round walls, like the maze box challenge. *Check:* Found by search: "Plant Maze Experiment 🌱 Phototropism STEM Activity for Kids" by STEAM Powered Family, 4 minutes, 17 seconds. A parent may preview it.
+- **How sunflowers track the Sun** (Australian Academy of Science, 2 min) id `WHtTiNsOYBY`: Shows young sunflowers turning east to west through the day, as in Stacey Harmer's study. *Check:* Found by search: "How sunflowers track the sun's movements" by Australian Academy of Science, 1 minute, 55 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) A plant has water, air, warmth and soil, but is kept in a dark cupboard. Which need is missing?  

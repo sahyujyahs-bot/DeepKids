@@ -1256,31 +1256,28 @@
  ],
  "videos": [
   {
-   "title": "Electrical safety for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Be Safe with Electricity",
+   "channel": "WonderGrove Kids",
+   "youtube": "5Uufmn8ZpPg",
+   "mins": 3,
    "why": "Shows in simple words why children do not touch sockets, plugs and wires, and why water and electricity must be kept apart.",
-   "check": "Find a short, accurate video for children. Check it uses dry hands, says children must not touch sockets or plugs, and does not show a child unplugging things."
+   "check": "Found by search: \"Be Safe with Electricity [CC]\" by WonderGrove Kids, 2 minutes 46 seconds. A parent may preview it."
   },
   {
-   "title": "Why birds on a power line are safe",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why birds on power lines do not get zapped",
+   "channel": "SciShow",
+   "youtube": "cxjZtRZj64g",
    "mins": 3,
    "why": "Shows birds on a wire and explains, with a simple drawing, that the electricity has no path through a bird touching one wire.",
-   "check": "Find a clear explainer from a science channel or an electricity board. Check it also says that birds touching two wires, and people on ladders, can be killed."
+   "check": "Found by search: \"Why Don't Birds on Power Lines Get Zapped?\" by SciShow, 3 minutes 12 seconds. A parent may preview it."
   },
   {
-   "title": "Monsoon electricity safety",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows what to do about fallen wires and waterlogged streets in the rain, in an Indian city.",
-   "check": "Find a video from an Indian electricity board or a news channel. Check it says to keep far from fallen wires and poles in water, and to tell the electricity board."
+   "title": "Monsoon electrical safety guide",
+   "channel": "Tata Power",
+   "youtube": "bP0g9msrfPA",
+   "mins": 1,
+   "why": "Gives short monsoon safety advice from an Indian electricity company, including staying away from wires and water.",
+   "check": "Found by search: \"Tata Power's Guide to Monsoon Electrical Safety\" by Tata Power, 1 minute 19 seconds. A parent may preview it."
   }
  ],
  "quiz": [

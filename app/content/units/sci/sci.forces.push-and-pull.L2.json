@@ -1782,31 +1782,28 @@
  ],
  "videos": [
   {
-   "title": "A vegetable seller weighing on a two-pan balance",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Measuring and comparing masses with a simple balance",
+   "channel": "Next Generation Science",
+   "youtube": "O1KJ2AqWxqE",
    "mins": 2,
    "why": "Shows the balance from the story: the pans hang level when the weights match.",
-   "check": "Find a short, real clip of a market seller using a two-pan balance in India. Check that the pans and the weights can be seen clearly."
+   "check": "Found by search: \"Measuring and Comparing Masses Using a Simple Balance\" by Next Generation Science, 1 minute 50 seconds. A parent may preview it."
   },
   {
-   "title": "Thousands of people pulling the chariots at the Rath Yatra in Puri",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows a huge pull made by many people on ropes, a force everyone can see the effect of.",
-   "check": "Find real news footage of the Rath Yatra chariots being pulled in Puri, Odisha. Check it shows the ropes and the crowd pulling."
-  },
-  {
-   "title": "Astronauts on the space station showing that things float",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Lakhs of devotees pull Lord Jagannath's chariot at the Puri Rath Yatra",
+   "channel": "NDTV",
+   "youtube": "csLSpsORrsg",
    "mins": 3,
-   "why": "Shows that on the space station, a bag does not pull down on a hand.",
-   "check": "Find a NASA or ISRO clip of astronauts letting go of objects that float inside the International Space Station."
+   "why": "Shows a huge pull made by many people on ropes, a force everyone can see the effect of.",
+   "check": "Found by search: \"Puri Rath Yatra 2026: Lakhs Brave Rain to Pull Lord Jagannath's Chariot\" by NDTV, 2 minutes 56 seconds. A parent may preview it."
+  },
+  {
+   "title": "Why do things float in space?",
+   "channel": "SciShow Kids",
+   "youtube": "dh5wGSLw1p4",
+   "mins": 7,
+   "why": "Explains why things float on the space station, so a bag does not pull down on a hand.",
+   "check": "Found by search: \"Why Do Things Float in Space? | How We Study Space | SciShow Kids\" by SciShow Kids, 7 minutes 18 seconds. A parent may preview it."
   }
  ],
  "applications": [

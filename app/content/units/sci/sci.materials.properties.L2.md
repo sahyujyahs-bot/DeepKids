@@ -378,9 +378,9 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    **Answer:** 16. *Why:* 4 boxes with 4 cards each: 4 + 4 + 4 + 4 = 16.
 
 ## Videos
-- **Transparent, translucent and opaque materials tested with a torch** (, 3 min) id `to find`: Shows light going through some materials and not others, like our light test. *Check:* Not yet found. Search for a short torch test of transparent, translucent and opaque materials, and watch it first.
-- **Water drops rolling off a lotus or chembu leaf, in slow motion** (, 2 min) id `to find`: Shows a living leaf that is waterproof, with drops rolling off. *Check:* Not yet found. Search for slow-motion water on a lotus or taro leaf, and watch it first.
-- **Stephanie Kwolek and the invention of Kevlar** (, 4 min) id `to find`: Tells the true story of the cloudy liquid that made a very strong fibre. *Check:* Not yet found. Search for a short film about Stephanie Kwolek and Kevlar, and check the facts against the unit.
+- **Transparent, translucent and opaque objects: how light passes through** (Make It Easy Education, 2 min) id `Hy-XtuTlmN4`: Shows light going through some materials and not others, like our light test. *Check:* Found by search: "TRANSPARENT, TRANSLUCENT, OPAQUE OBJECT | LIGHT | HOW DO WE SEE THINGS? || SCIENCE EDUCATIONAL VIDEO" by Make It Easy Education, 1 minute 34 seconds. A parent may preview it.
+- **Pearl on a taro leaf: water drops rolling on a chembu leaf** (Arvind Gupta, 1 min) id `XXmjDyyYYSU`: Shows a living leaf that is waterproof, with drops rolling off like pearls. *Check:* Found by search: "PEARL ON TARO LEAF - ENGLISH - 8MB.avi" by Arvind Gupta, 1 minute 17 seconds. A parent may preview it.
+- **The life of chemist Stephanie Kwolek, inventor of Kevlar** (PBS NewsHour, 6 min) id `3TfsvaMsk8w`: Tells the true story of the chemist who made a very strong fibre from a cloudy liquid. *Check:* Found by search: "The life and achievements of chemist Stephanie Kwolek, inventor of Kevlar" by PBS NewsHour, 5 minutes 47 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What does opaque mean?  

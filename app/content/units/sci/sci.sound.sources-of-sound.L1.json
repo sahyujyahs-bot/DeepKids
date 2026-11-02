@@ -1681,31 +1681,28 @@
  ],
  "videos": [
   {
-   "title": "A cricket chirping, close up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "Why crickets chirp, close up",
+   "channel": "Deep Look",
+   "youtube": "fh3uNUrAnss",
+   "mins": 4,
    "why": "Shows a tiny sound source making a loud sound, by rubbing the wings together.",
-   "check": "Find real close-up footage of a male field cricket chirping, from a nature channel or a university. Check that the wings are seen rubbing while the sound plays, and that it is not animation."
+   "check": "Found by search: \"Why Crickets Just Won't Shut Up | Deep Look\" by Deep Look, 4 minutes. A parent may preview it."
   },
   {
-   "title": "Fish sounds recorded underwater",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Lets children hear sound sources most people never hear: croakers, toadfish and snapping shrimp.",
-   "check": "Find a short recording from a real research group or aquarium that names each animal as their sound plays. Check the animals named are correct."
+   "title": "Fish sounds from a coral reef",
+   "channel": "Guardian News",
+   "youtube": "97M2muq9JQc",
+   "mins": 2,
+   "why": "Lets children hear sound sources most people never hear: fish whooping, purring and grunting underwater.",
+   "check": "Found by search: \"Previously unheard fish sounds from restored coral reef: 'Whoops, purrs and grunts'\" by Guardian News, 1 minute 36 seconds. A parent may preview it."
   },
   {
-   "title": "Birds singing at dawn in an Indian city",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "A real dawn chorus to listen to with eyes closed, and to pick out the different callers.",
-   "check": "Find a real recording of morning birdsong in an Indian city or park, ideally naming the birds, such as from a bird-watching group. Check that it is not mixed with music."
+   "title": "Common bird sounds of India, backyard birds",
+   "channel": "Indian Bird Videos",
+   "youtube": "ssiP9ZGUKRk",
+   "mins": 15,
+   "why": "Real Indian birds to listen to with eyes closed, and to pick out the different callers. A parent can play just the first few minutes.",
+   "check": "Found by search: \"Common bird sounds of India - Backyard bird sounds- Indian Bird sounds for kids\" by Indian Bird Videos, about 15 minutes. A parent may preview it."
   }
  ],
  "applications": [

@@ -436,9 +436,9 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
    **Answer:** False. *Why:* False. The floor is what holds you up. Without it, the Earth's pull would make you fall, like the tumbler when the book went.
 
 ## Videos
-- **A water drop falling and splashing, filmed in slow motion** (, 2 min) id `to find`: Shows a single drop falling straight down and landing, slowly enough to watch. *Check:* Find a real slow-motion clip of a falling water drop from a science channel. Check that it is real footage, not animation.
-- **A kite or an eagle soaring and swooping** (, 3 min) id `to find`: Shows a bird staying up on spread wings and swooping down when she folds them, like the kite in the story. *Check:* Find a real nature clip of a black kite or a similar bird soaring and diving. Check that it shows wings spread and then tucked in.
-- **Jog Falls in Karnataka during the monsoon** (, 2 min) id `to find`: Shows a huge amount of water falling straight down a cliff, pulled by the Earth. *Check:* Find a real clip of Jog Falls in the monsoon, from a news channel or a travel channel. Check that it is the real place.
+- **A water drop falling in slow motion** (NatureFootage, 1 min) id `egOXgqjpNUM`: Shows a single drop falling straight down and landing, slowly enough to watch. *Check:* Found by search: "Slow Motion Water Drop Falling" by NatureFootage, 19 seconds. A parent may preview it.
+- **Black kites soaring in the sky, close up** (vogelarchiv.de, 2 min) id `GyhuhgUSYwI`: Shows kites staying up on spread wings and gliding, like the kite in the story. *Check:* Found by search: "Black Kites in flight- close up" by vogelarchiv.de, 1 minute, 41 seconds. A parent may preview it.
+- **Jog Falls in Karnataka in full flow** (High Level Tourism, 5 min) id `vTBddXPeAvE`: Shows a huge amount of water falling straight down a cliff, pulled by the Earth. *Check:* Found by search: "Jog Falls in full flow | Full water in Jogfalls" by High Level Tourism, 4 minutes, 36 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) A baby opens his hand and lets go of a steel spoon. What does the spoon do?  

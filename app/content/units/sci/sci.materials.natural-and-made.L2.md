@@ -425,9 +425,9 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
    **Answer:** Because it will stay there for a very long time. It does not break down like peel or paper, so it piles up.. *Why:* A strong answer uses the test result and says what happens when plastic is not broken down.
 
 ## Videos
-- **How glass is made in a glass factory** (, 4 min) id `to find`: Shows sand melting in a furnace and glowing glass being shaped, which a child cannot see at home. *Check:* Find a real video showing a glass furnace and molten glass. Check the facts said before using it.
-- **Glass bangles being made in Firozabad** (, 4 min) id `to find`: Shows workers pulling and coiling hot glass into bangles, in India. *Check:* Find a real video of bangle making in Firozabad. Watch it fully first.
-- **How paper is made from wood or bagasse** (, 4 min) id `to find`: Shows pulp being spread, pressed and dried into paper. *Check:* Find a real video of a paper mill. Check the steps match the card.
+- **How glass is made (How It's Made)** (How It's Made, 4 min) id `0NMHCozDsOY`: Shows sand melting in a furnace and glowing glass being shaped, which a child cannot see at home. *Check:* Found by search: "How Glass Is Made" by How It's Made, 3 minutes 30 seconds. A parent may preview it.
+- **How millions of glass bangles are made in one Indian city** (Insider Art, 5 min) id `HhQrEoXoWdU`: Shows workers pulling and coiling hot glass into bangles, in India. *Check:* Found by search: "How Millions Of Bangles Are Made Every Day In One City In India" by Insider Art, 5 minutes 6 seconds. A parent may preview it.
+- **How do they turn wood into paper?** (Mystery Science, 5 min) id `0VEJCWvfhQg`: Shows wood being turned into pulp, spread, pressed and dried into paper. *Check:* Found by search: "How do they turn wood into paper?" by Mystery Science, 4 minutes 36 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a natural material?  

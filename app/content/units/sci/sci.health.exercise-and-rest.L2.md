@@ -490,9 +490,9 @@ And they both started to laugh too much to count anything.
    **Answer:** That while we sleep, the body grows and mends, and the brain sorts what we learned. Without sleep we can't learn or play well.. *Why:* A strong answer gives at least one thing the body does in sleep, and says how the next day changes without it.
 
 ## Videos
-- **What happens to your body when you exercise: breathing and heart rate, for children** (, 3 min) id `to find`: Shows the lungs and heart working harder during exercise, which a child cannot see inside themselves. *Check:* Find a real, accurate video for age 7. Check it says muscles need more oxygen, not that the lungs 'run out of air'.
-- **Why do we need sleep? An animated explainer for children** (, 3 min) id `to find`: Shows that the body grows and repairs, and the brain sorts memories, during sleep. *Check:* Find a real video from a hospital, university or science channel. Check it gives 9 to 12 hours for school-age children and does not overclaim what is known about dreams.
-- **How other animals sleep: elephants, dolphins, bats and birds** (, 4 min) id `to find`: Shows real footage of humans' fellow animals sleeping in very different ways. *Check:* Find a real nature or science video. Check any sleep hours given, and that dolphins are shown sleeping with half the brain at a time.
+- **What happens inside your body when you exercise** (British Heart Foundation, 3 min) id `wWGulLAa0O0`: Shows the lungs and heart working harder during exercise, which a child cannot see inside themselves. *Check:* Found by search: "What happens inside your body when you exercise?" by British Heart Foundation, 2 min 33 s. A parent may preview it.
+- **Why do we need sleep?** (SciShow Kids, 4 min) id `_aAmaCeq9v4`: Shows that the body grows and repairs, and the brain sorts memories, during sleep. *Check:* Found by search: "Why Do We Need Sleep?" by SciShow Kids, 3 min 33 s. A parent may preview it.
+- **The funny ways that animals sleep** (National Geographic, 2 min) id `8JSZkfMpJko`: Shows real footage of other animals sleeping in very different ways from humans. *Check:* Found by search: "The Funny Ways That Animals Sleep" by National Geographic, 1 min 30 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) What happens to your breathing when you dance fast?  

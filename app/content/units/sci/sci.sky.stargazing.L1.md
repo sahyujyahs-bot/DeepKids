@@ -415,9 +415,9 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
    **Answer:** The window strip test → Near things slide past, and the far Moon stays put; The hot tawa test → Moving warm air makes a steady light shiver; Rolling a ball with your eyes shut → Beetles and people need to see the sky to go straight. *Why:* Each test shows one idea from this unit: how far away the Moon is, why stars twinkle, and why a dung beetle watches the sky.
 
 ## Videos
-- **A dung beetle rolling a ball by the light of the Milky Way** (, 3 min) id `to find`: Shows the real beetles that Marie Dacke's team studied, rolling straight under the stars. *Check:* Find a clip from Lund University, the University of the Witwatersrand or a nature channel about the 2013 Milky Way study. Check that it shows real beetles, not animation.
+- **Dung beetles navigate using the stars** (Science Channel, 2 min) id `MMlOKY734TM`: Shows the real beetles that Marie Dacke's team studied, finding their way using the Milky Way. *Check:* Found by search: "Dung Beetles Navigate Using the Stars" by Science Channel, 1 minute 48 seconds. A parent may preview it.
 - **The Moon seen through a telescope: craters and dark plains** (, 2 min) id `to find`: Shows that the Moon is grey rock, lit by the Sun, with no light of its own. *Check:* Find a real telescope video of the Moon from an observatory, a planetarium or an amateur astronomer. Check it says the Moon shines with sunlight.
-- **Chandrayaan-3 landing near the Moon's south pole** (, 3 min) id `to find`: Shows Indian scientists landing on the Moon on 23 August 2023, and real pictures of the Moon's rocky ground. *Check:* Find ISRO's own video of the landing or of the pictures sent back. Check it is short and from ISRO or a news channel.
+- **India's Chandrayaan-3 makes a historic Moon landing** (Guardian News, 2 min) id `dim8elzo5vE`: Shows news of Indian scientists landing on the Moon on 23 August 2023, near its south pole. *Check:* Found by search: "India's Chandrayaan-3 makes historic moon landing" by Guardian News, 1 minute 46 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) From a moving bus, the street lamps rush past. What does the Moon seem to do?  

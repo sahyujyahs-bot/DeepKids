@@ -1708,31 +1708,28 @@
  ],
  "videos": [
   {
-   "title": "Earthshine: the dark part of a crescent Moon glowing faintly",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "What is earthshine? Why the dark part of a crescent Moon glows faintly",
+   "channel": "Socratica",
+   "youtube": "4QpuPCyJD7c",
+   "mins": 4,
    "why": "Shows sunlight bouncing off the Earth, then off the Moon, lighting the Moon's dark part. It fits Leonardo da Vinci's idea in the story of how we found out.",
-   "check": "Find a real photo or video of earthshine on a thin crescent Moon, from a space agency or an astronomy channel. Check it says the glow is sunlight reflected by the Earth."
+   "check": "Found by search: \"What is Earthshine?  (Astronomy)\" by Socratica, 4 minutes. A parent may preview it."
   },
   {
-   "title": "Chandrayaan-3 on the Moon: pictures of the grey ground",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows that the Moon's ground is grey rock and dust, lit by the Sun, with sharp black shadows.",
-   "check": "Find an ISRO clip of the Vikram lander or Pragyan rover pictures from August 2023. Check that it shows the real ground, not an animation."
+   "title": "Chandrayaan-3 rover pictures of the Moon's ground near the south pole",
+   "channel": "Sky News",
+   "youtube": "evdXcsw0rkI",
+   "mins": 1,
+   "why": "Shows real pictures of the Moon's grey ground from India's Chandrayaan-3 rover, lit by the Sun.",
+   "check": "Found by search: \"India moon landing: Chandrayaan-3 rover captures images from lunar south pole\" by Sky News, 39 seconds. A parent may preview it."
   },
   {
-   "title": "A full Moon rising over the sea, sped up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "Full moon rising over the ocean, sped up",
+   "channel": "TrainconductorX",
+   "youtube": "g98K3hOIPuQ",
+   "mins": 1,
    "why": "Shows how bright the Moon looks against the dark sky, and moonlight on the water.",
-   "check": "Find a real time-lapse of a moonrise, ideally over the sea at Chennai, Puri or Kanyakumari. Check it is not edited to make the Moon bigger."
+   "check": "Found by search: \"Full moon rise over the ocean in Mexico Time-lapse 4k\" by TrainconductorX, 36 seconds. A parent may preview it."
   }
  ],
  "applications": [

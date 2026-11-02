@@ -1283,31 +1283,28 @@
  ],
  "videos": [
   {
-   "title": "Gregor Mendel and his pea plants, explained simply",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How Mendel's pea plants helped us understand genetics",
+   "channel": "TED-Ed",
+   "youtube": "Mehz7tCxjSE",
+   "mins": 3,
    "why": "Shows how a monk found out, with pea plants, that features are passed from parents to children.",
-   "check": "Find a short, accurate animation. Check it says tall and short pea plants gave all tall children, and short came back in the next generation."
+   "check": "Found by search: \"How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz\" by TED-Ed, 3 min 7 s. A parent may preview it."
   },
   {
-   "title": "Pea plants growing, from seed to pod, as a time-lapse",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a pea becoming a pea plant, and the plant making new pods of peas.",
-   "check": "Find a real time-lapse of garden peas, not a cartoon. Check it shows flowers turning into pods."
+   "title": "Growing Pea Time Lapse",
+   "channel": "Boxlapse",
+   "youtube": "jiVIz8R0JWI",
+   "mins": 4,
+   "why": "Shows a pea becoming a pea plant, in real time-lapse footage.",
+   "check": "Found by search: \"Growing Pea Time Lapse\" by Boxlapse, 4 min 3 s. A parent may preview it."
   },
   {
-   "title": "Identical twins: alike and different",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows real twins who look the same, and the small ways they differ.",
-   "check": "Find a calm, accurate clip suitable for a 6-year-old. Check it says identical twins have the same genes but different fingerprints."
+   "title": "What's it like to be a twin?",
+   "channel": "Mystery Science",
+   "youtube": "Xyq4y9JD5XE",
+   "mins": 7,
+   "why": "Shows real twins and how they are alike and different, in a calm clip made for children.",
+   "check": "Found by search: \"What's it like to be a twin?\" by Mystery Science, 6 min 56 s. A parent may preview it."
   }
  ],
  "quiz": [

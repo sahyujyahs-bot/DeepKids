@@ -1338,31 +1338,28 @@
  ],
  "videos": [
   {
-   "title": "A timelapse of roots growing (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows roots growing down and branching through soil or against glass, like the roots in the clear cup.",
-   "check": "No video id was confirmed from here. Choose a real timelapse of roots growing, not an animation, short and calm enough for a six-year-old."
-  },
-  {
-   "title": "A timelapse of a flower turning into a fruit (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows petals falling and a fruit swelling in the same place, like the brinjal in the story.",
-   "check": "No video id was confirmed from here. A tomato, brinjal, bhindi or bean is best. Check that it is real footage."
-  },
-  {
-   "title": "The Great Banyan Tree in Howrah, held up by prop roots (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Root growth timelapse in a soil cross section",
+   "channel": "Temponaut Timelapse",
+   "youtube": "Y6vgAnMhGxs",
    "mins": 3,
+   "why": "Shows roots growing down and branching through soil or against glass, like the roots in the clear cup.",
+   "check": "Found by search: \"Root Growth Timelapse | Soil Cross Section\" by Temponaut Timelapse, 3 minutes, 16 seconds. A parent may preview it."
+  },
+  {
+   "title": "A pepper flower turning into a fruit, in time-lapse",
+   "channel": "little flowers time lapse",
+   "youtube": "Yqj8P1RVGj4",
+   "mins": 1,
+   "why": "Shows petals falling and a fruit swelling in the same place, like the brinjal in the story (a pepper is a close relative of the brinjal).",
+   "check": "Found by search: \"Growing peppers time lapse - flower to fruit in 60 days\" by little flowers time lapse, 1 minute, 26 seconds. A parent may preview it."
+  },
+  {
+   "title": "The Great Banyan Tree in Kolkata (Howrah)",
+   "channel": "HISTORY TV18",
+   "youtube": "vg75tanAQ5s",
+   "mins": 4,
    "why": "Shows a tree held up by thousands of roots that grew down from the branches.",
-   "check": "No video id was confirmed from here. Check that it says the main trunk was removed in the 1920s and does not exaggerate the tree's age."
+   "check": "Found by search: \"This tree in Kolkata is bigger than Eden Gardens! #OMGIndia S01E10 Story 3\" by HISTORY TV18, 3 minutes, 57 seconds. A parent may preview it. Check that it does not exaggerate the tree's age or size; the main trunk was removed in the 1920s."
   }
  ],
  "worksheets": [

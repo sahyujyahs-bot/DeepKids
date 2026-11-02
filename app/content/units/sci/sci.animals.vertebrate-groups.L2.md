@@ -495,9 +495,9 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
    **Answer:** A crab. *Why:* A crab has a hard shell outside and no backbone. A shark is a fish and a toad is an amphibian, so both have a backbone.
 
 ## Videos
-- **A frog's life cycle: from eggs to tadpoles to frogs** (, 4 min) id `to find`: Shows how an amphibian starts life in water with gills, then grows legs and lungs. *Check:* Find a real time-lapse of frog eggs hatching into tadpoles and tadpoles growing legs, ideally an Indian species. Check the narration is accurate and calls the frogs she, he or they.
-- **An Indian pangolin walking and curling up** (, 3 min) id `to find`: Shows a mammal covered in scales, so children see why one clue is not enough. *Check:* Find a real wildlife clip of an Indian pangolin, ideally with a mother and baby. Check it is not a staged clip of a trafficked or captive animal in distress.
-- **How a snake's backbone moves: many vertebrae at work** (, 3 min) id `to find`: Shows a snake skeleton or X-ray, so children see the long chain of vertebrae that lets a snake coil. *Check:* Find a real clip of a snake skeleton or an X-ray video of a moving snake from a museum or university. Check the number of vertebrae given, if any.
+- **The life cycle of a frog: from tadpole to frog** (Free School, 4 min) id `etGmCvIL014`: Shows how an amphibian starts life in water with gills, then grows legs and lungs. *Check:* Found by search: "The Life Cycle of a Frog: Metamorphosis from Tadpole to Frog for Kids - FreeSchool" by Free School, 3 min 59 s. A parent may preview it.
+- **A pangolin: a mammal covered in scales** (Nat Geo Animals, 2 min) id `gz4HXyxcess`: Shows a mammal covered in scales, so children see why one clue is not enough. *Check:* Found by search: "Pangolin | World's Weirdest" by Nat Geo Animals, 2 min 6 s. A parent may preview it.
+- **Do snakes have bones? A museum looks at a snake's body** (Peggy Notebaert Nature Museum, 3 min) id `kpHat1ybVaM`: Shows a snake's bones from a museum, so children see the backbone that lets a snake coil. *Check:* Found by search: "All About Snake Body Parts (Do Snakes Have Bones?)" by Peggy Notebaert Nature Museum, 3 min 28 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is your backbone made of?  

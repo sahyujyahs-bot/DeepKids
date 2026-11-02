@@ -1631,31 +1631,28 @@
  ],
  "videos": [
   {
-   "title": "A spacecraft or astronaut drifting on the International Space Station",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Astronauts floating and swimming through the space station",
+   "channel": "VideoFromSpace",
+   "youtube": "Yso7ga84NMQ",
    "mins": 3,
    "why": "Shows that a thing pushed gently in space keeps drifting until something stops it, because there is almost no air and no floor to slow it.",
-   "check": "Find a real clip from NASA or ISRO of an astronaut pushing off gently and floating across a module. Check it is real footage."
+   "check": "Found by search: \"Astronauts show off 'synchronized space swimming' skills on space station\" by VideoFromSpace, 2 minutes 46 seconds. A parent may preview it."
   },
   {
-   "title": "Ducks or geese landing on water, in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Ducks landing on water in slow motion",
+   "channel": "Joe Flo",
+   "youtube": "mfHhc6_YOek",
    "mins": 2,
    "why": "Shows birds pushing their feet forward and spreading their wings to slow down as they land, like Ammu's oar.",
-   "check": "Find a slow-motion nature clip of real ducks or geese landing feet first."
+   "check": "Found by search: \"Ducks landing in water - slow motion\" by Joe Flo, 1 minute 34 seconds. A parent may preview it."
   },
   {
-   "title": "A country boat on the Kerala backwaters",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a rower pulling the oar back to go and pushing forward to slow down, as in the story.",
-   "check": "Find a real clip of a small rowing boat or canoe in Alappuzha or Kuttanad. Check that the rowing is shown clearly."
+   "title": "How to row a boat",
+   "channel": "boats.com",
+   "youtube": "uHn94aJPSeo",
+   "mins": 2,
+   "why": "Shows a rower pulling the oars back to move the boat and pushing forward to slow it, as in the story.",
+   "check": "Found by search: \"How To Row a Boat\" by boats.com, 2 minutes 7 seconds. A parent may preview it."
   }
  ],
  "applications": [

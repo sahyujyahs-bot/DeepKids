@@ -475,9 +475,9 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
    **Answer:** For example: 'Is there life near another star?' We can't go there yet.. *Why:* A strong answer gives a real reason: too far, too long ago, or too small to see with the tools we have.
 
 ## Videos
-- **Rice and pencil friction experiment: lifting a bottle of rice** (, 3 min) id `to find`: Shows the Rice Bottle Lift done well, so a family can see how tightly the rice must be packed. *Check:* Find a short, real demonstration with a plastic bottle and a pencil or chopstick, which explains friction correctly.
-- **Halley's Comet, and how its return was predicted** (, 4 min) id `to find`: Shows what a comet looks like and how Halley predicted its return. *Check:* Find an accurate explainer. Check it gives the 1705 prediction and the 1758 return, and ideally names Nicole-Reine Lepaute.
-- **How the India Meteorological Department forecasts the monsoon** (, 4 min) id `to find`: Shows real predictions made from measurements, and why forecasts are often right but not always. *Check:* Find a clear, accurate explainer from IMD, Prasar Bharati or a trusted science channel.
+- **Friction experiment: lifting a bottle of rice with a stick** (Fizzics Education, 2 min) id `vn9fKJc1jkE`: Shows the Rice Bottle Lift done well, so a family can see how tightly the rice must be packed. *Check:* Found by search: "How to demonstrate friction using rice" by Fizzics Education, 1 minute 58 seconds. A parent may preview it.
+- **Halley's Comet and how its return was predicted** (Scientific American, 3 min) id `Lzuh4eCrXzU`: Shows what a comet looks like and how Halley predicted its return. *Check:* Found by search: "Halley's Comet changed humanity. This is how." by Scientific American, 3 minutes 18 seconds. A parent may preview it.
+- **How do we know when it will rain? Predicting weather from measurements** (SciShow Kids, 4 min) id `dLQ0lHpyZd8`: Shows how predictions are made from measurements, and why forecasts are often right but not always. *Check:* Found by search: "How Do We Know When It Will Rain? | Weather Science | SciShow Kids" by SciShow Kids, 4 minutes 22 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which question can you test by trying?  

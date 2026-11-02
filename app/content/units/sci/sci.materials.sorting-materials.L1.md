@@ -426,8 +426,8 @@ She smiled and fell asleep.
    **Answer:** A glass window → Yes; A wooden rolling pin → No; A clear plastic bottle → Yes; A steel tumbler → No; A glass jar → Yes; A paper bag → No. *Why:* Glass and clear plastic let light through, so you can see through them. Wood, steel and paper do not.
 
 ## Videos
-- **A big steel ship floating out of a shipyard** (, 3 min) id `to find`: Shows a huge steel ship launched into water and floating, like a giant version of the katori in the Sink or Float Sort. *Check:* Find a real launch video, for example from Cochin Shipyard in Kochi. Check that it shows the ship floating clearly and has no frightening scenes.
-- **Sink and float tanks at a plastic recycling plant** (, 4 min) id `to find`: Shows workers and machines sorting shredded plastic by floating it in water: bottle pieces sink and cap pieces float. It is the same test as the Sink or Float Sort. *Check:* Find a real factory video that shows the water tank clearly. Check that the plastic types named are right.
+- **A huge cruise ship floats out of its shipyard** (HD1080ide, 3 min) id `VyMFdjCPiFs`: Shows a huge steel ship floated out of its dock into the water, like a giant version of the katori in the Sink or Float Sort. *Check:* Found by search: "Big Ship Launch: Float Out of Cruise Ship DISNEY WISH at Meyer Werft Shipyard" by HD1080ide, 3 minutes. A parent may preview it.
+- **Plastic pieces sorted in a sink and float tank** (Paul Vanderpool, 2 min) id `GtlihM9m08Y`: Shows a recycling line where shredded plastic is washed and separated in water tanks: some pieces sink and some float. It is the same test as the Sink or Float Sort. *Check:* Found by search: "Most Efficient Plastic Recycling Washing & Sink Float System" by Paul Vanderpool, 2 minutes. A parent may preview it.
 - **A kabadiwala sorting scrap into paper, plastic and metal** (, 4 min) id `to find`: Shows how sorting by material lets old things be sold and made into new things, as in the Recycling Corner. *Check:* Find a real documentary or news clip from an Indian city. Check that it does not show child workers.
 
 ## Quiz

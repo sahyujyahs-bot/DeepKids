@@ -451,9 +451,9 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
    **Answer:** The leaves got less water. *Why:* Roots drink water for the whole plant. With fewer roots, less water reaches the leaves, so the leaves go floppy until new roots grow.
 
 ## Videos
-- **A timelapse of roots growing (to find)** (, 2 min) id `to find`: Shows roots growing down and branching through soil or against glass, like the roots in the clear cup. *Check:* No video id was confirmed from here. Choose a real timelapse of roots growing, not an animation, short and calm enough for a six-year-old.
-- **A timelapse of a flower turning into a fruit (to find)** (, 2 min) id `to find`: Shows petals falling and a fruit swelling in the same place, like the brinjal in the story. *Check:* No video id was confirmed from here. A tomato, brinjal, bhindi or bean is best. Check that it is real footage.
-- **The Great Banyan Tree in Howrah, held up by prop roots (to find)** (, 3 min) id `to find`: Shows a tree held up by thousands of roots that grew down from the branches. *Check:* No video id was confirmed from here. Check that it says the main trunk was removed in the 1920s and does not exaggerate the tree's age.
+- **Root growth timelapse in a soil cross section** (Temponaut Timelapse, 3 min) id `Y6vgAnMhGxs`: Shows roots growing down and branching through soil or against glass, like the roots in the clear cup. *Check:* Found by search: "Root Growth Timelapse | Soil Cross Section" by Temponaut Timelapse, 3 minutes, 16 seconds. A parent may preview it.
+- **A pepper flower turning into a fruit, in time-lapse** (little flowers time lapse, 1 min) id `Yqj8P1RVGj4`: Shows petals falling and a fruit swelling in the same place, like the brinjal in the story (a pepper is a close relative of the brinjal). *Check:* Found by search: "Growing peppers time lapse - flower to fruit in 60 days" by little flowers time lapse, 1 minute, 26 seconds. A parent may preview it.
+- **The Great Banyan Tree in Kolkata (Howrah)** (HISTORY TV18, 4 min) id `vg75tanAQ5s`: Shows a tree held up by thousands of roots that grew down from the branches. *Check:* Found by search: "This tree in Kolkata is bigger than Eden Gardens! #OMGIndia S01E10 Story 3" by HISTORY TV18, 3 minutes, 57 seconds. A parent may preview it. Check that it does not exaggerate the tree's age or size; the main trunk was removed in the 1920s.
 
 ## Quiz
 1. (mcq) Which part of a plant usually grows under the soil?  

@@ -1536,21 +1536,19 @@
  "videos": [
   {
    "title": "Why can't you tickle yourself?",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows the robot tickle experiments, after your child has done the tickle test.",
-   "check": "Find a short, accurate clip explaining that the brain predicts self-made touch. Check that it credits Sarah-Jayne Blakemore's work and does not say knowing alone explains it."
+   "channel": "SciShow",
+   "youtube": "LzGT3ICgB7A",
+   "mins": 3,
+   "why": "Explains that the brain predicts the touch of its own hand, after your child has done the tickle test.",
+   "check": "Found by search: \"Why can't you tickle yourself?\" by SciShow, 2 min 41 s. A parent may preview it."
   },
   {
-   "title": "Why does my voice sound weird on a recording?",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why does your voice sound different on a recording?",
+   "channel": "Head Squeeze | BBC Earth Science",
+   "youtube": "uvosNz0Xq7g",
    "mins": 3,
    "why": "Explains hearing your voice through the bones of the head, after the recording activity.",
-   "check": "Find a clip that explains bone conduction simply. Check it is suitable for a child of 7."
+   "check": "Found by search: \"Why does your voice sound different on a recording? Greg Foot Answers Your Questions\" by Head Squeeze | BBC Earth Science, 2 min 52 s. A parent may preview it."
   },
   {
    "title": "How babies discover themselves",

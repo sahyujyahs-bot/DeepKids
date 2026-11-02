@@ -515,9 +515,9 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. Sti
    **Answer:** 0. *Why:* Tapping harder makes the sound louder, but not higher or lower. The other three change the size or the amount of air, so they change the pitch.
 
 ## Videos
-- **Making a box drum and a rubber-band instrument at home** (, 4 min) id `to find`: Shows children making simple instruments from boxes and rubber bands, after your child has made their own. *Check:* Find a short clip for children of 6 to 8. Check that it says the sound comes from something vibrating, and that it uses only home materials.
-- **A ghatam played in a Carnatic concert** (, 4 min) id `to find`: Shows a real ghatam, a clay-pot drum, being played with fingers and palms, so your child can hear how a pot becomes a drum. *Check:* Find a clip of a real ghatam performance, if possible by Sukanya Ramgopal or another woman ghatam player. Check that it is a live performance and suitable for children.
-- **Snowball the cockatoo dancing to music** (, 3 min) id `to find`: Shows Snowball, the cockatoo that scientists studied, bobbing his head in time to a song. *Check:* Find the original clip of Snowball, the sulphur-crested cockatoo studied by Aniruddh Patel's team. Check that it is the real bird and not an imitation.
+- **Building a rubber band guitar from a box** (Ms Shelley's Science Show, 3 min) id `elEUVo16dls`: Shows a child-friendly build of a rubber-band guitar from a box, so your child can see and hear that the plucked bands vibrate to make sound. *Check:* Found by search: "Build a Rubber Band Guitar! 🎸 Fun Science with Ms. Shelley | 1st Grade NGSS" by Ms Shelley's Science Show, 3 minutes 29 seconds. A parent may preview it.
+- **Sukanya Ramgopal playing the ghatam** (Adorable India, 4 min) id `ikaiWiquWbg`: Shows a real ghatam, a clay-pot drum, being played with fingers and palms by Sukanya Ramgopal, so your child can hear how a pot becomes a drum. *Check:* Found by search: "Amazing Ghatam Performance by Sukanya Ramgopal | Ghatam Instrumental Music" by Adorable India, 3 minutes 47 seconds. A parent may preview it.
+- **Scientists study Snowball the dancing cockatoo** (Guardian News, 1 min) id `iMjr8MsB1qo`: Shows Snowball, the cockatoo that scientists studied, moving in time to music. *Check:* Found by search: "Scientists discover Snowball the cockatoo has 14 distinct dance moves" by Guardian News, 1 minute 22 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Meenakshi stretches a rubber band over a tissue box and plucks it. What vibrates to make the sound?  

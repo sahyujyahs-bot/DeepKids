@@ -442,9 +442,9 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
    **Answer:** A strong answer sees that prop roots start as roots and take on the job of a trunk. *Why:* Prop roots begin as roots and take in water from the soil. Later they also hold the tree up, like a trunk. A part can do more than one job.
 
 ## Videos
-- **A banyan tree's hanging roots growing down to the ground** (, 3 min) id `to find`: Shows prop roots growing from branches and turning into pillars. *Check:* Find a real video, check that it shows a banyan (Ficus benghalensis), and watch it fully first.
-- **A lotus pond: leaves, stalks and the stem in the mud** (, 3 min) id `to find`: Shows where each lotus part grows, and the holes in a cut lotus stem. *Check:* Find a real video and watch it first.
-- **A cactus swelling after rain** (, 3 min) id `to find`: Shows a cactus stem storing water. *Check:* Find a real video and check that it shows a true cactus, not another succulent.
+- **A banyan tree growing, with its hanging roots** (Biologicallife, 1 min) id `LFVLnyn3UzI`: Shows how a banyan grows and sends roots down from its branches. *Check:* Found by search: "How does banyan tree grows?" by Biologicallife, 1 minute, 23 seconds. A parent may preview it.
+- **A lotus in its pond: leaves and flowers on stalks** (WildFilmsIndia, 1 min) id `zerUknVf3oY`: Shows a real lotus in water, with its round leaves and flowers held up on long stalks. *Check:* Found by search: "Lotus or Nelumbo nucifera, National flower of India" by WildFilmsIndia, 1 minute, 12 seconds. A parent may preview it.
+- **How a cactus keeps water inside its stem** (TED-Ed, 4 min) id `g9Szzb2YBXY`: Shows how a cactus stem stores water and holds it in. *Check:* Found by search: "Nature's fortress: How cacti keep water in and predators out" by TED-Ed, 4 minutes, 20 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which part of the plant is a carrot?  

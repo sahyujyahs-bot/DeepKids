@@ -452,9 +452,9 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
    **Answer:** It can be moved with a bigger push: many people pushing together, or a machine.. *Why:* A strong answer says a heavy thing needs a bigger push or pull, and says how to get one.
 
 ## Videos
-- **Fishing families pulling a long net up the beach by hand, in Kerala or Tamil Nadu** (, 3 min) id `to find`: Shows many people pulling together on a rope to bring in a heavy net, like the fishers in the story. *Check:* Find a real clip of shore net fishing in Kerala or Tamil Nadu, from a news channel or a documentary. Check that it shows people pulling the rope in a line.
-- **Ants carrying a big piece of food together** (, 2 min) id `to find`: Shows ants pulling and pushing food that is too heavy for one ant. *Check:* Find a close-up clip of real ants moving food as a group, from a nature channel or a science lab. Check it is real footage, not animation.
-- **Astronauts moving around the space station by pushing and pulling** (, 3 min) id `to find`: Shows that in space, astronauts mostly move by pushing off walls and pulling on handles. *Check:* Find a NASA or ESA clip of astronauts moving inside the International Space Station. Check that it shows them pushing off and pulling on handrails.
+- **Fishermen pulling in their nets on Kovalam beach, Kerala** (Scott, 2 min) id `YsUuueZpV1g`: Shows many people pulling together on a rope to bring in a heavy net, like the fishers in the story. *Check:* Found by search: "Kovalam Beach fishermen pulling in their nets. November 2016" by Scott, 2 minutes, 5 seconds. A parent may preview it.
+- **How ants carry heavy loads** (National Geographic, 1 min) id `fjyTkagc8BI`: Shows real ants pulling and pushing food that is heavy for one ant. *Check:* Found by search: "How Crazy Ants Carry Heavy Loads | National Geographic" by National Geographic, 1 minute, 1 second. A parent may preview it.
+- **An astronaut flying through the space station** (NASA, 1 min) id `FKsghZt8bLs`: Shows an astronaut in space pushing off and floating from place to place. *Check:* Found by search: "Astronaut Matthew Dominick Flies Through The International Space Station" by NASA, 21 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) A girl called Diya drags a mat across the room by its corner, walking backwards. Is that a push or a pull?  

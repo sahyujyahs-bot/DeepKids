@@ -439,9 +439,9 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
    **Answer:** Tiny changes in the air grow bigger over time. *Why:* Weather is chaotic, like the falling leaf. Tiny changes in the air grow over the days. Choosing 'no rules at all' mixes up hard to predict with having no rules.
 
 ## Videos
-- **A water drop splash filmed in slow motion** (, 3 min) id `to find`: Shows a drop spreading into a thin ring and breaking into little droplets, which is too fast for our eyes to see. *Check:* Not yet found. Search for a slow-motion water drop splash video, and check that it shows several splashes so children can see that each one is different.
-- **Falling leaves and paper, fluttering and tumbling** (, 3 min) id `to find`: Shows how a flat leaf or a card swings and turns as it falls, while a heavy object falls straight. *Check:* Not yet found. Look for a short science video of falling paper or leaves, ideally slowed down, with no wrong claims about air.
-- **Drawing a pulli kolam around a grid of dots** (, 4 min) id `to find`: Shows how a kolam follows a rule, so it can be drawn the same way again. *Check:* Not yet found. Look for a woman drawing a simple dot kolam by hand, step by step, from Tamil Nadu or Andhra Pradesh.
+- **Water droplets colliding, filmed in slow motion** (The Slow Mo Guys, 3 min) id `cNI-LIVs-to`: Shows drops splashing, spreading and breaking into little droplets, which is too fast for our eyes to see. *Check:* Found by search: "Droplet Collisions at 5000fps - The Slow Mo Guys" by The Slow Mo Guys, 2 minutes, 48 seconds. A parent may preview it.
+- **Showing how air slows a falling sheet of paper** (Howcast, 4 min) id `O-KYLXp2MG4`: Shows a flat sheet of paper falling slowly and unevenly while a heavy object falls straight, because of the air. *Check:* Found by search: "How to Demonstrate Air Resistance | Science Projects | Howcast" by Howcast, 3 minutes, 59 seconds. A parent may preview it.
+- **Drawing an easy kolam with 4 by 4 dots** (YT Muggulu, 2 min) id `ZG3OoSuZDZc`: Shows how a dot kolam follows a rule, so it can be drawn the same way again. *Check:* Found by search: "latest & easy rangoli with 4x4 dots || 4x4 dots kolam design || daily muggulu" by YT Muggulu, 1 minute, 38 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is order?  

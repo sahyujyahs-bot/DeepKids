@@ -1238,13 +1238,12 @@
  ],
  "videos": [
   {
-   "title": "2D and 3D shapes for children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows flat shapes and solid shapes side by side, with real objects, so a child sees that a solid has height.",
-   "check": "Not yet found. Look for a short video that uses real objects, names sphere, cube, cuboid, cylinder and cone correctly, and does not call paper truly flat."
+   "title": "2D vs 3D shapes for children",
+   "channel": "Mr. B's Brain",
+   "youtube": "YxoLlSTu1jo",
+   "mins": 5,
+   "why": "Shows flat shapes and solid shapes side by side, so a child sees that a solid has height.",
+   "check": "Found by search: \"2D vs. 3D Shapes! Mr. B's Brain - Ep. 2: 2D and 3D Shapes\" by Mr. B's Brain, 5 minutes. A parent may preview it."
   },
   {
    "title": "Slicing solids: what shape is the cross-section?",
@@ -1256,13 +1255,12 @@
    "check": "Not yet found. Look for a video that shows a cube giving a triangle when a corner is cut off, and a sphere giving circles of different sizes."
   },
   {
-   "title": "Flatland: a sphere visits a flat world",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Exploring other dimensions (Flatland)",
+   "channel": "TED-Ed",
+   "youtube": "C6kn6nXMWF0",
    "mins": 5,
-   "why": "An animation of a flat creature meeting a ball as a circle that grows and shrinks. For the grown-up to watch first, then share.",
-   "check": "Not yet found. Check that the video is suitable for a child of 7, and that it says Flatland is a story by Edwin Abbott Abbott from 1884."
+   "why": "An animation of a flat world and what a visitor from a higher dimension would look like to it. For the grown-up to watch first, then share what suits the child.",
+   "check": "Found by search: \"Exploring other dimensions - Alex Rosenthal and George Zaidan\" by TED-Ed, 5 minutes. A parent may preview it."
   }
  ],
  "quiz": [

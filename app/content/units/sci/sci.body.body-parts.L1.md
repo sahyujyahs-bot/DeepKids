@@ -467,9 +467,9 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    **Answer:** legs → Move; eyes → Sense; arms → Move; ears → Sense; knees → Move; nose → Sense. *Why:* Legs, arms and knees move you about. Eyes, ears and nose take in what is around you. Your hands and skin do both.
 
 ## Videos
-- **How the Jaipur Foot is made and fitted** (, 4 min) id `to find`: Shows a rubber foot that bends like a real foot, and people walking, squatting and climbing with it. *Check:* No video id was confirmed from here. Choose real footage from Jaipur, short and calm enough for a six-year-old. Check that it credits Ram Chandra Sharma as well as Dr P. K. Sethi.
-- **An elephant picking up small things with the trunk** (, 2 min) id `to find`: Shows the tip of a trunk gripping something small, the way our thumb and finger pinch. *Check:* No video id was confirmed from here. Choose real footage of an elephant who is not performing tricks for people.
-- **An X-ray of a hand moving** (, 2 min) id `to find`: Shows the bones staying straight while the hand bends at the joints. *Check:* No video id was confirmed from here. Choose a real moving X-ray of a hand, with no scary music.
+- **How a Jaipur Foot is made** (Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 8 min) id `E4D1Cuplctg`: Shows how the rubber Jaipur Foot is made by hand, the foot that bends like a real foot. *Check:* Found by search: "How To Make A Prosthetic Leg In Jaipur Foot" by Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 7 minutes 44 seconds. A parent may preview it.
+- **Secrets of an elephant's trunk and tusks** (BBC, 4 min) id `QTEJw7WtRRA`: Shows how elephants use the tip of the trunk to pick things up, a little like our thumb and finger pinch. *Check:* Found by search: "Secrets of an elephants's trunk and tusks - BBC" by BBC, 4 minutes 29 seconds. A parent may preview it.
+- **A moving X-ray of fingers** (Pat McKee, 1 min) id `nctBBQSoZ18`: Shows the bones staying straight while the fingers bend at the joints. *Check:* Found by search: "Finger Motion Xray - Fluoroscopy" by Pat McKee, 1 minute 11 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which part of your body helps you hear?  

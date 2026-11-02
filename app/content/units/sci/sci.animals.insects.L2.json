@@ -872,67 +872,131 @@
      "items": [
       {
        "f": "Ant",
-       "b": "Six legs. An ant is an insect."
+       "b": "Six legs. An ant is an insect.",
+       "img": {
+        "src": "media/cards/insects-g1-0-00.jpg",
+        "credit": "stli_, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Honeybee",
-       "b": "Six legs. A honeybee is an insect, with four wings."
+       "b": "Six legs. A honeybee is an insect, with four wings.",
+       "img": {
+        "src": "media/cards/insects-g1-0-01.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Butterfly",
-       "b": "Six legs, though many butterflies keep the two front legs folded up. A butterfly is an insect."
+       "b": "Six legs, though many butterflies keep the two front legs folded up. A butterfly is an insect.",
+       "img": {
+        "src": "media/cards/insects-g1-0-02.jpg",
+        "credit": "Abhimanyu.A, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mosquito",
-       "b": "Six long, thin legs. A mosquito is an insect, with two wings."
+       "b": "Six long, thin legs. A mosquito is an insect, with two wings.",
+       "img": {
+        "src": "media/cards/insects-g1-0-03.jpg",
+        "credit": "Ashwin Viswanathan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Housefly",
-       "b": "Six legs. A housefly is an insect, with two wings."
+       "b": "Six legs. A housefly is an insect, with two wings.",
+       "img": {
+        "src": "media/cards/insects-g1-0-04.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cockroach",
-       "b": "Six legs. A cockroach is an insect."
+       "b": "Six legs. A cockroach is an insect.",
+       "img": {
+        "src": "media/cards/insects-g1-0-05.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Ladybird beetle",
-       "b": "Six short legs. A ladybird beetle is an insect. Her red spotted back covers her wings."
+       "b": "Six short legs. A ladybird beetle is an insect. Her red spotted back covers her wings.",
+       "img": {
+        "src": "media/cards/insects-g1-0-06.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Dragonfly",
-       "b": "Six legs. A dragonfly is an insect, with four long wings."
+       "b": "Six legs. A dragonfly is an insect, with four long wings.",
+       "img": {
+        "src": "media/cards/insects-g1-0-07.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "House spider",
-       "b": "Eight legs. A spider is not an insect."
+       "b": "Eight legs. A spider is not an insect.",
+       "img": {
+        "src": "media/cards/insects-g1-0-08.jpg",
+        "credit": "Kyle Elshoff, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Jumping spider",
-       "b": "Eight legs. A jumping spider has no web, and jumps on her food."
+       "b": "Eight legs. A jumping spider has no web, and jumps on her food.",
+       "img": {
+        "src": "media/cards/insects-g1-0-09.jpg",
+        "credit": "Kartikey Tiwari, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Scorpion",
-       "b": "Eight legs, plus two big claws at the front. A scorpion belongs to the spider group."
+       "b": "Eight legs, plus two big claws at the front. A scorpion belongs to the spider group.",
+       "img": {
+        "src": "media/cards/insects-g1-0-10.jpg",
+        "credit": "Jaya Rakesh, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Tick",
-       "b": "Eight legs as a grown-up. A tick belongs to the spider group."
+       "b": "Eight legs as a grown-up. A tick belongs to the spider group.",
+       "img": {
+        "src": "media/cards/insects-g1-0-11.jpg",
+        "credit": "@dineshphotography7797, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Earthworm",
-       "b": "No legs. An earthworm moves with muscles and tiny bristles."
+       "b": "No legs. An earthworm moves with muscles and tiny bristles.",
+       "img": {
+        "src": "media/cards/insects-g1-0-12.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Snail",
-       "b": "No legs. A snail glides on one big, flat, slimy foot."
+       "b": "No legs. A snail glides on one big, flat, slimy foot.",
+       "img": {
+        "src": "media/cards/insects-g1-0-13.jpg",
+        "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Centipede",
-       "b": "Lots of legs: one pair on each part of the body. A centipede is not an insect."
+       "b": "Lots of legs: one pair on each part of the body. A centipede is not an insect.",
+       "img": {
+        "src": "media/cards/insects-g1-0-14.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Millipede",
-       "b": "Lots of legs: two pairs on most parts of the body. A millipede is not an insect."
+       "b": "Lots of legs: two pairs on most parts of the body. A millipede is not an insect.",
+       "img": {
+        "src": "media/cards/insects-g1-0-15.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
       }
      ]
     },
@@ -1663,31 +1727,28 @@
  ],
  "videos": [
   {
-   "title": "Ants carrying food much bigger than themselves",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows ants lifting and dragging loads bigger than their bodies, and teams of ants moving a big piece together, as in the crumb test.",
-   "check": "Find a real, close-up clip of ants carrying crumbs or leaves. Check that the narration does not claim an ant could lift a car if she were big."
+   "title": "How crazy ants carry heavy loads",
+   "channel": "National Geographic",
+   "youtube": "fjyTkagc8BI",
+   "mins": 1,
+   "why": "Shows ants working together to carry food far bigger than one ant, as in the crumb test.",
+   "check": "Found by search: \"How Crazy Ants Carry Heavy Loads | National Geographic\" by National Geographic, 1 minute, 1 second. A parent may preview it."
   },
   {
    "title": "The honeybee waggle dance",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "channel": "BBC Earth",
+   "youtube": "12Q8FfyLLso",
    "mins": 3,
    "why": "Shows a real honeybee dancing on the comb while her sisters follow, as in the Bee Dance game.",
-   "check": "Find a clear clip of a waggle dance inside a hive, ideally with a simple explanation. Check that it credits Karl von Frisch correctly."
+   "check": "Found by search: \"The Waggle Dance | Inside the Animal Mind | BBC Earth\" by BBC Earth, 2 minutes, 39 seconds. A parent may preview it."
   },
   {
-   "title": "A jumping spider up close",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Jumping spider facts",
+   "channel": "Animal Fact Files",
+   "youtube": "N9cQ25tSiC0",
    "mins": 3,
    "why": "Shows a jumping spider's eight legs, two body parts and big front eyes, so the child can count the legs and compare with an insect.",
-   "check": "Find a calm close-up clip, with no scary music. Check that the spider is not called an insect."
+   "check": "Found by search: \"Jumping Spider Facts: the CUTEST Spiders Animal Fact Files\" by Animal Fact Files, 3 minutes, 22 seconds. A parent may preview it."
   }
  ],
  "quiz": [

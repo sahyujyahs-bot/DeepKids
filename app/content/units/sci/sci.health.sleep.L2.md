@@ -425,9 +425,9 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
    **Answer:** For example: 'dupatta over the eyes blocks light' and 'soft cap over the ears makes noise quieter'.. *Why:* A strong label names the thing and the trouble it fixes: light, noise or a strange bed.
 
 ## Videos
-- **Why do we sleep? For young children** (, 4 min) id `to find`: Shows in simple words that sleep helps the body grow and mend and the brain keep what was learned. *Check:* Find a short, accurate video. Check it does not say the brain switches off during sleep, and that it gives 9 to 12 hours for school-age children.
-- **The upside-down jellyfish that sleeps without a brain** (, 3 min) id `to find`: Shows real Cassiopea jellyfish pulsing on the sand, and how the Caltech team tested their sleep-like state in 2017. *Check:* Find a clip from a university or a science news channel. Check it names the three tests: slower pulsing at night, slower to respond, and sleepier after a night kept awake.
-- **Crows coming home to roost at dusk** (, 2 min) id `to find`: Shows a large crow roost filling up at sunset, for children who cannot see one from home. *Check:* Find a real, unedited clip, ideally of house crows in an Indian city. Check it is not sped up or set to scary music.
+- **Why do we need sleep?** (SciShow Kids, 4 min) id `_aAmaCeq9v4`: Shows in simple words that sleep helps the body grow and mend and the brain keep what was learned. *Check:* Found by search: "Why Do We Need Sleep? | SciShow Kids" by SciShow Kids, 3 minutes, 33 seconds. A parent may preview it.
+- **Do jellyfish sleep?** (caltech, 2 min) id `UPtSlvU6nh8`: Shows real Cassiopea jellyfish pulsing on the sand, and how the Caltech team tested their sleep-like state in 2017. *Check:* Found by search: "Do Jellyfish Sleep?" by caltech, 2 minutes, 19 seconds. A parent may preview it.
+- **Thousands of crows flock to roost at dusk** (CBC British Columbia, 4 min) id `uqmMmfcLL7E`: Shows a large crow roost filling up at dusk in Burnaby, Canada, for children who cannot see one from home. *Check:* Found by search: "Thousands of crows flock to Burnaby every day to roost. Witness their spectacular journey." by CBC British Columbia, 4 minutes, 7 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) How many hours of sleep does a child of 7 need each night?  

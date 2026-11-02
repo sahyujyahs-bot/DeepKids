@@ -465,8 +465,8 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
    **Answer:** Bar of pure gold: element. Brass lamp: alloy. Steel tumbler: alloy. Copper wire: element.. *Why:* Pure gold and copper are elements. Brass is copper and zinc. Steel is mostly iron, with carbon and other elements.
 
 ## Videos
-- **Cleaning tarnished silver with foil, soda and hot water** (, 4 min) id `to find`: Shows the black fading from silver lying on aluminium foil in hot soda water. *Check:* Find a short, clear video. Check it says the sulfur moves to the aluminium, and does not call it magic or dirt washing off.
-- **What is an element? Atoms of one kind** (, 4 min) id `to find`: Shows, with simple pictures, that an element is made of one kind of atom, and that water and salt are elements joined. *Check:* Find a short, accurate video made for young children. Check it does not call water or air an element.
+- **Cleaning silver with baking soda, foil and boiling water** (Science in a Van, 2 min) id `esJ02gXGbFo`: Shows the black fading from silver lying on aluminium foil in hot soda water. *Check:* Found by search: "Cleaning Silver Home Hack using Baking Soda, Aluminium Foil, Boiling Water AND Chemistry!" by Science in a Van, 2 minutes 8 seconds. A parent may preview it.
+- **Elements and compounds** (Macmillan Education India, 4 min) id `bJvZOlTWzVo`: Shows, with simple pictures, what an element is, and that things like water and salt are made of elements joined together. *Check:* Found by search: "Elements and Compounds" by Macmillan Education India, 4 minutes 7 seconds. A parent may preview it.
 - **Gold that stays shiny: ancient gold ornaments** (, 4 min) id `to find`: Shows very old gold objects that still shine, next to old silver or iron objects that have darkened or rusted. *Check:* Find a museum video. Check the dates given for the objects, and that it explains gold hardly reacts.
 
 ## Quiz

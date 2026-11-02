@@ -458,9 +458,9 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
    **Answer:** A baby cannot stand still, so lying down is the way to measure the same each time. A child can stand straight against a wall.. *Why:* A strong answer says the method must suit the body and be the same each time.
 
 ## Videos
-- **How children grow: from baby to grown-up** (, 4 min) id `to find`: Shows the life stages and how fast children grow at each age, to go with the growing cards. *Check:* Find a short, accurate clip for young children about human growth. Check the numbers match this unit: about 25 centimetres in the first year, then about 5 to 6 centimetres a year.
-- **Why you are taller in the morning** (, 3 min) id `to find`: Explains the discs of the backbone, after your child has done the bedtime and morning test. *Check:* Find a clip that explains spinal discs losing and regaining water. Check it does not give scary medical pictures.
-- **Astronauts grow taller in space** (, 3 min) id `to find`: Shows the same backbone change on a bigger scale, with no weight pressing down. *Check:* Find a clip from a space agency, such as NASA or ESA. Check it says the change goes back after returning to Earth.
+- **The Life Cycle of a Human, from baby to grown-up** (Twinkl Kids TV, 4 min) id `2vUPhZUofco`: Shows the life stages from baby to grown-up, to go with the growing cards. *Check:* Found by search: "The Life Cycle of a Human" by Twinkl Kids TV, 4 minutes. A parent may preview it.
+- **Why you are taller in the morning than at night** (Business Insider, 1 min) id `tcq0y_lL_O4`: Explains the discs of the backbone, after your child has done the bedtime and morning test. *Check:* Found by search: "Why You're Taller In The Morning Than At Night" by Business Insider, 1 minute. A parent may preview it.
+- **Why do you grow taller in space?** (National Space Centre, 2 min) id `q__ShYA0dM8`: Shows the same backbone change on a bigger scale, with no weight pressing down. *Check:* Found by search: "Why Do You Grow Taller In Space?" by National Space Centre, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which life stage comes right after toddler?  

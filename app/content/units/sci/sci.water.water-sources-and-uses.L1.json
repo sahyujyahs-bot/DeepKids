@@ -1404,31 +1404,28 @@
  ],
  "videos": [
   {
-   "title": "A cat lapping water, filmed in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "How a cat drinks, in super slow motion",
+   "channel": "Sic Pixels",
+   "youtube": "z2fC6ryJuDs",
+   "mins": 3,
    "why": "Shows how a cat pulls up a little column of water with the tip of the tongue, as the scientists in 2010 saw.",
-   "check": "Find a real slow-motion video. Check it shows the tongue touching the top of the water, not scooping."
+   "check": "Found by search: \"How a Cat Drinks - Amazing Super Slow Motion 2000FPS\" by Sic Pixels, 2 minutes 53 seconds. A parent may preview it."
   },
   {
-   "title": "An elephant drinking with their trunk",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows an elephant filling the trunk and squirting water into the mouth.",
-   "check": "Find a real video of an elephant drinking, ideally an Asian elephant in India. Check the water goes into the mouth, not just a bath."
+   "title": "A baby elephant drinking with his trunk at a zoo",
+   "channel": "TheOriginalEnZOOsiast",
+   "youtube": "FQ7olZwfq7E",
+   "mins": 1,
+   "why": "Shows an elephant filling the trunk with water and bringing it to the mouth.",
+   "check": "Found by search: \"Cute Baby Elephant Using His Trunk to Drink Water @ Cologne Zoo\" by TheOriginalEnZOOsiast, 1 minute 8 seconds. A parent may preview it."
   },
   {
-   "title": "Poha soaking in water, close up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows poha flakes swelling as water soaks in, for families who cannot do the test today.",
-   "check": "Find a short cooking video that shows dry and soaked poha side by side. Check it shows real soaking, not cooking with heat."
+   "title": "How to soak poha (flattened rice)",
+   "channel": "Relish 360",
+   "youtube": "bXqjuTdXuds",
+   "mins": 1,
+   "why": "Shows dry poha flakes being soaked in water, for families who cannot do the test today.",
+   "check": "Found by search: \"How to soak POHA / FLATTENED RICE | Relish360\" by Relish 360, 54 seconds. A parent may preview it."
   }
  ],
  "quiz": [

@@ -424,8 +424,8 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 
 ## Videos
 - **White-crowned sparrows of San Francisco: how their songs changed when the city went quiet in 2020** (, 4 min) id `to find`: Shows real recordings of city birds changing their songs when traffic noise dropped. *Check:* Find a real video about the 2020 study by Elizabeth Derryberry and her team. Check that it says the birds sang more softly and could be heard about twice as far.
-- **Birds of an Indian city: crows, mynas, koels, parakeets and pigeons** (, 4 min) id `to find`: Helps a child put names and calls to the birds outside the window. *Check:* Find a real video filmed in an Indian city with the birds named correctly and their real calls.
-- **Fruit bats roosting in a big tree in an Indian town** (, 3 min) id `to find`: Shows a daytime roost of Indian flying foxes, nocturnal animals many city children never notice. *Check:* Find a real video of Indian flying foxes roosting. Check that the bats are named correctly and that nobody disturbs them.
+- **Common Birds of India - Learning for kids** (Indian Bird Videos, 10 min) id `MqfVjwjg-Ws`: Helps a child put names and calls to the birds outside the window. *Check:* Found by search: "Common Birds of India - Learning for kids ( HD Quality)" by Indian Bird Videos, 10 minutes. A parent may preview it.
+- **Facts About The Indian Flying Fox** (Wildlife SOS, 2 min) id `8IUUOMFAaOg`: Shows Indian flying foxes, nocturnal animals many city children never notice, and tells simple facts about them. *Check:* Found by search: "Facts About The Indian Flying Fox" by Wildlife SOS, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a habitat?  

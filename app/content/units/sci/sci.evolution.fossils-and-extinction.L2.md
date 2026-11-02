@@ -393,9 +393,9 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
    **Answer:** crocodile → Still alive today; ammonite → Extinct; Tyrannosaurus rex → Extinct; turtle → Still alive today; mammoth → Extinct; crow → Still alive today. *Why:* Crocodiles, turtles and crows are alive today. Ammonites, Tyrannosaurus rex and mammoths are extinct.
 
 ## Videos
-- **How a fossil forms** (, 4 min) id `to find`: Shows a body being covered by mud and slowly turning to stone, which a child cannot see happen at home. *Check:* Find a short animation from a museum or science channel. Check it shows hard parts lasting and soft parts rotting, and that the mud turns to rock over a very long time.
-- **Dinosaur eggs of Balasinor, Gujarat** (, 5 min) id `to find`: Shows real dinosaur eggs and bones found in India, at the Raiyoli fossil park. *Check:* Find a calm, accurate clip, for example from a news channel or the Gujarat fossil park. Check the eggs shown are from Raiyoli and that no wrong dates are given.
-- **What happened when the asteroid hit** (, 5 min) id `to find`: Shows the asteroid, the dark cold years after it, and the Deccan volcanoes, and that scientists still argue about the cause. *Check:* Find a clip for children or families from a museum or science channel. Check it says 66 million years, that birds survived, and that it is not frightening for a child of seven.
+- **How a fossil forms** (Natural History Museum, 4 min) id `87E8bQrX4Wg`: Shows a body being covered by mud and slowly turning to stone, which a child cannot see happen at home. *Check:* Found by search: "How do dinosaur fossils form?" by Natural History Museum, 3 min 49 s. A parent may preview it.
+- **Balasinor Dinosaur Museum, Gujarat** (Gujarat Tourism, 4 min) id `LJ8jzkWdUZA`: Shows the dinosaur fossil park and museum at Balasinor in Gujarat, where real dinosaur eggs and bones were found in India. *Check:* Found by search: "Balasinor Dinosaur Museum - Enter into the World of Dinosaurs" by Gujarat Tourism, 4 min 10 s. A parent may preview it.
+- **What happened when the asteroid hit** (BBC Earth Science, 4 min) id `DGu6ZPyKyJ0`: Looks at the asteroid and the Deccan volcanoes as causes of the dinosaurs dying out, and shows that scientists still study the cause. *Check:* Found by search: "What Exactly Killed The Dinosaurs? | Earth | BBC Earth Science" by BBC Earth Science, 3 min 55 s. A parent may preview it.
 
 ## Quiz
 1. (mcq) Lakshmi, a girl in Class 2, finds the shape of a leaf in a dark rock. What is it?  

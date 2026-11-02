@@ -1556,31 +1556,28 @@
  ],
  "videos": [
   {
-   "title": "How glass is made in a glass factory",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How glass is made (How It's Made)",
+   "channel": "How It's Made",
+   "youtube": "0NMHCozDsOY",
    "mins": 4,
    "why": "Shows sand melting in a furnace and glowing glass being shaped, which a child cannot see at home.",
-   "check": "Find a real video showing a glass furnace and molten glass. Check the facts said before using it."
+   "check": "Found by search: \"How Glass Is Made\" by How It's Made, 3 minutes 30 seconds. A parent may preview it."
   },
   {
-   "title": "Glass bangles being made in Firozabad",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How millions of glass bangles are made in one Indian city",
+   "channel": "Insider Art",
+   "youtube": "HhQrEoXoWdU",
+   "mins": 5,
    "why": "Shows workers pulling and coiling hot glass into bangles, in India.",
-   "check": "Find a real video of bangle making in Firozabad. Watch it fully first."
+   "check": "Found by search: \"How Millions Of Bangles Are Made Every Day In One City In India\" by Insider Art, 5 minutes 6 seconds. A parent may preview it."
   },
   {
-   "title": "How paper is made from wood or bagasse",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows pulp being spread, pressed and dried into paper.",
-   "check": "Find a real video of a paper mill. Check the steps match the card."
+   "title": "How do they turn wood into paper?",
+   "channel": "Mystery Science",
+   "youtube": "0VEJCWvfhQg",
+   "mins": 5,
+   "why": "Shows wood being turned into pulp, spread, pressed and dried into paper.",
+   "check": "Found by search: \"How do they turn wood into paper?\" by Mystery Science, 4 minutes 36 seconds. A parent may preview it."
   }
  ],
  "quiz": [

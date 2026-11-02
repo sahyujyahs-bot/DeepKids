@@ -234,7 +234,11 @@
      "items": [
       {
        "f": "Kitten",
-       "b": "Like the parent. A kitten looks like a small cat, with a big head and big eyes."
+       "b": "Like the parent. A kitten looks like a small cat, with a big head and big eyes.",
+       "img": {
+        "src": "media/cards/animal-babies-g1-0-00.jpg",
+        "credit": "Apalce365, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Puppy",
@@ -1436,7 +1440,7 @@
    "channel": "BBC Earth",
    "youtube": "ciVsS-oZEPc",
    "mins": 3,
-   "why": "Shows a whole elephant herd gathering around a newborn calf to look after it.",
+   "why": "Shows a whole elephant herd gathering around a newborn calf and look after the baby.",
    "check": "Found by search: \"Elephant Herd Celebrates a New Born Calf\" by BBC Earth, 2 minutes, 39 seconds. A parent may preview it."
   }
  ],

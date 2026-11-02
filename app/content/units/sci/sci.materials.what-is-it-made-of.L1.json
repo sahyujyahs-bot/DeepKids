@@ -1660,31 +1660,28 @@
  ],
  "videos": [
   {
-   "title": "How paper cups are made in a factory",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows sheets of paper with a thin plastic coat being cut, rolled and sealed into cups, which matches what the child found in the Paper Cup Puzzle.",
-   "check": "Find a real factory video that shows the coated paper. Check that it does not show unsafe machines up close in a frightening way."
+   "title": "How paper cups are made",
+   "channel": "How It's Made",
+   "youtube": "c94ciENITiI",
+   "mins": 3,
+   "why": "Shows paper being cut, rolled and sealed into cups in a factory, which matches the paper cup the child examined in the Paper Cup Puzzle.",
+   "check": "Found by search: \"How Paper Cups Are Made\" by How It's Made, 3 minutes 2 seconds. A parent may preview it."
   },
   {
-   "title": "Making glass bangles in Firozabad",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How glass bangles are made in India",
+   "channel": "Insider Art",
+   "youtube": "HhQrEoXoWdU",
+   "mins": 5,
    "why": "Shows glass being melted and shaped into bangles, so the child sees that glass starts as a hot, glowing liquid made from sand.",
-   "check": "Find a real documentary or news clip from Firozabad. Check that it does not show child workers."
+   "check": "Found by search: \"How Millions Of Bangles Are Made Every Day In One City In India\" by Insider Art, 5 minutes 6 seconds. A parent may preview it. Check it does not show child workers."
   },
   {
-   "title": "How cotton becomes cloth on a handloom",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows cotton fluff spun into thread and woven over and under on a loom, like the threads the child pulled out of an old cloth.",
-   "check": "Find a real clip of a handloom weaver, for example from Tamil Nadu, Andhra Pradesh, Assam or West Bengal."
+   "title": "Traditional Indian weaving",
+   "channel": "Victoria and Albert Museum",
+   "youtube": "9OHbJQ90hfY",
+   "mins": 3,
+   "why": "Shows threads woven over and under on a traditional Indian loom, like the threads the child pulled out of an old cloth.",
+   "check": "Found by search: \"How was it made? Traditional Indian Weaving\" by Victoria and Albert Museum, 3 minutes 8 seconds. A parent may preview it."
   }
  ],
  "quiz": [

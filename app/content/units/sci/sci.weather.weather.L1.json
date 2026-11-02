@@ -1268,31 +1268,28 @@
  ],
  "videos": [
   {
-   "title": "What is wind? A short film for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows that wind is moving air, with things it moves: leaves, kites, clothes.",
-   "check": "Find a real, accurate video for age 6. Check it does not say that wind is 'cold air' only."
+   "title": "Where does wind come from? (SciShow Kids)",
+   "channel": "SciShow Kids",
+   "youtube": "oHUVxkx8QRo",
+   "mins": 5,
+   "why": "Explains that wind is air moving, in plain words for young children.",
+   "check": "Found by search: \"Where Does Wind Come From? | The Science of Flying | SciShow Kids\" by SciShow Kids, 5 minutes. A parent may preview it."
   },
   {
-   "title": "Walking through a cloud on a hill",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows that a cloud is wet mist made of water drops.",
-   "check": "Find real footage of fog or a cloud on a hill road, for example in Munnar, Ooty or Meghalaya."
-  },
-  {
-   "title": "How the knup rain shield is made in Meghalaya",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What are clouds made of? (SciShow Kids)",
+   "channel": "SciShow Kids",
+   "youtube": "DigBbR3FeP8",
    "mins": 4,
-   "why": "Shows a real rain shield made of bamboo and leaves, worn so both hands stay free.",
-   "check": "Find a real video of knup making. Check it is from Meghalaya and shows the real materials."
+   "why": "Explains that a cloud is made of tiny water drops.",
+   "check": "Found by search: \"What Are Clouds Made Of? | SciShow Kids\" by SciShow Kids, 3 minutes 37 seconds. A parent may preview it."
+  },
+  {
+   "title": "How the knup keeps people dry in Meghalaya",
+   "channel": "TheNewsMill",
+   "youtube": "WdJy5K6Olk0",
+   "mins": 3,
+   "why": "Shows a real rain shield from Meghalaya that keeps people dry.",
+   "check": "Found by search: \"#KnowYourNortheast | How this unique 'Knup' keeps people dry in Meghalaya\" by TheNewsMill, 3 minutes 8 seconds. A parent may preview it."
   }
  ],
  "quiz": [

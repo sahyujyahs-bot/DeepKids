@@ -465,9 +465,9 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
    **Answer:** A dog on a cold night → Curls up into a ball; A crow on a cold morning → Fluffs up their feathers; Emperor penguins in a storm → Huddle close together; A very small baby → Held skin to skin on a parent's chest. *Why:* Each one keeps the warmth their body makes: curling up, fluffing feathers, huddling and skin-to-skin care all slow heat from leaving.
 
 ## Videos
-- **Kangaroo mother care: a parent keeping a small baby warm, skin to skin** (, 3 min) id `to find`: Shows a mother or father holding a small baby against their bare chest, so the parent's body heat keeps the baby warm. *Check:* Find a short clip from the World Health Organization or a hospital in India. Check it is gentle and suitable for a child of 7.
-- **Emperor penguins huddling together in an Antarctic storm** (, 3 min) id `to find`: Shows thousands of penguins standing close together, keeping in the warmth their bodies make. *Check:* Find a short clip from a nature documentary channel. Check that it shows the huddle and says why they do it.
-- **Why does a woollen sweater keep you warm?** (, 4 min) id `to find`: Explains that wool traps still air and slows body heat from escaping, and that clothes make no heat themselves. *Check:* Find a short, accurate explainer for children. Check that it does not say the sweater makes heat.
+- **Kangaroo mother care: keeping a small baby warm skin to skin** (World Health Organization (WHO), 3 min) id `YfhWxMmBIW4`: Shows a mother or father holding a small baby against their bare chest, so the parent's body heat keeps the baby warm. *Check:* Found by search: "Maternal health: Ensuring kangaroo mother care for every small or preterm baby" by World Health Organization (WHO), 3 minutes. A parent may preview it.
+- **How does huddling help penguins stay warm?** (BBC Earth, 3 min) id `UA43xr2zR-A`: Shows thousands of penguins standing close together, keeping in the warmth their bodies make. *Check:* Found by search: "How Does Huddling Help Penguins Stay Warm?" by BBC Earth, 3 minutes. A parent may preview it.
+- **Why do woollen clothes keep us warm?** (It's AumSum Time, 1 min) id `DWaWocvbpQI`: Explains that wool traps still air and slows body heat from escaping, and that clothes make no heat themselves. *Check:* Found by search: "Why do woolen clothes keep us warm?" by It's AumSum Time, 1 minute. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which word means how hot or cold something is?  

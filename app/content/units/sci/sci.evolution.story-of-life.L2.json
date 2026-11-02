@@ -1678,31 +1678,28 @@
  ],
  "videos": [
   {
-   "title": "The history of life on Earth squeezed into one year or one day (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows the same idea as the Year of Life calendar, with pictures, so the child sees how late big animals come, humans among them.",
-   "check": "Find a short, accurate animation. Check its dates against the Year of Life list in this unit, and watch it fully first."
-  },
-  {
-   "title": "Living stromatolites at Shark Bay, Australia (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows real stromatolites growing in shallow salty water today, like the oldest signs of life.",
-   "check": "Find real footage of Hamelin Pool at Shark Bay. Check that it says the mats are made of tiny living cells."
-  },
-  {
-   "title": "Baking soda and citric acid fizzing in water, slowed down (to find)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Evolution of Life on Earth, in a short animation",
+   "channel": "AsapSCIENCE",
+   "youtube": "H2_6cqa2cP4",
    "mins": 2,
-   "why": "Shows the fizz up close and slowly, after the child has done the dry mix test.",
-   "check": "Find a clear close-up video with no dangerous chemicals. Watch it fully first."
+   "why": "Shows the long history of life in a few minutes with pictures, so the child sees how late big animals come, humans among them. It does not use the year calendar, so match it to the Year of Life list yourself.",
+   "check": "Found by search: \"The Evolution of Life on Earth\" by AsapSCIENCE, 2 minutes, 20 seconds. A parent may preview it."
+  },
+  {
+   "title": "Hamelin Pool at Shark Bay, home of living stromatolites",
+   "channel": "Parks and Wildlife Service Western Australia",
+   "youtube": "xRy1DM6d9ys",
+   "mins": 3,
+   "why": "Shows the real stromatolites of Hamelin Pool in Shark Bay, growing in shallow salty water today, like the oldest signs of life.",
+   "check": "Found by search: \"New facilities to provide insight to earliest life on Earth at Hamelin Pool in Shark Bay\" by Parks and Wildlife Service Western Australia, 2 minutes, 59 seconds. A parent may preview it."
+  },
+  {
+   "title": "Citric acid and baking soda science experiment for kids",
+   "channel": "Science Starz",
+   "youtube": "Q7bot9QRs1c",
+   "mins": 6,
+   "why": "Shows the fizz of citric acid and baking soda in water, after the child has done the dry mix test. It is not slowed down.",
+   "check": "Found by search: \"Citric Acid & Baking Soda Science Experiment for Kids (Chemistry!)\" by Science Starz, 5 minutes, 30 seconds. A parent may preview it."
   }
  ],
  "quiz": [

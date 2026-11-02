@@ -491,9 +491,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    **Answer:** The ribs keep my heart and lungs safe. My tummy needs to bend when I bend over, and to stretch when I eat a big meal.. *Why:* A strong answer gives a reason for both: soft parts that need guarding get bone, and parts that must bend and stretch do not.
 
 ## Videos
-- **The human skeleton for young children** (, 4 min) id `to find`: Shows the main bones of the skeleton and their jobs, after your child has felt their own bones. *Check:* Find a short, accurate clip for children of 6 to 8. Check it says about 206 bones in a grown-up, and does not show scary pictures.
-- **How joints move: hinge and ball and socket** (, 3 min) id `to find`: Shows inside an elbow and a shoulder, to go with the torch test. *Check:* Find a clip with a clear animation of a hinge joint and a ball and socket joint. Check that it calls the elbow and knee hinges, and the shoulder and hip ball and socket joints.
-- **How a broken bone heals** (, 3 min) id `to find`: Shows bone cells building new bone across a break, to go with the story of Thatha's wrist. *Check:* Find a gentle clip with an animation or X-rays, without pictures of open wounds. Check it says a cast keeps the bone still while the bone mends itself.
+- **Your Super Skeleton!** (SciShow Kids, 4 min) id `vRuh9aBwUdM`: Shows the main bones of the skeleton and their jobs, after your child has felt their own bones. *Check:* Found by search: "Your Super Skeleton!" by SciShow Kids, 4 minutes. A parent may preview it.
+- **How Do Our Bodies Move?** (SciShow Kids, 4 min) id `j918PoWWaB0`: Shows how bones, joints and muscles let the body move, to go with the torch test. *Check:* Found by search: "How Do Our Bodies Move?" by SciShow Kids, 3 minutes, 36 seconds. A parent may preview it.
+- **How Do Broken Bones Heal?** (Peekaboo Kidz, 5 min) id `yovH2-Uw7i8`: Shows how a broken bone mends itself, to go with the story of Thatha's wrist. *Check:* Found by search: "How Bone Fractures Heal? | How Does a Broken Bone Heal? | Process of Bone Healing | Dr. Binocs Show" by Peekaboo Kidz, 5 minutes, 27 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What do we call the hard, living parts inside your body?  

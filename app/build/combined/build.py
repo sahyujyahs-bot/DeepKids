@@ -207,7 +207,7 @@ for subj in plan:
             if not refs:   # a DeepKids-only topic (no board chapters): the units of the same topic, by name
                 pre = slug(e['title'].split(':')[0])
                 refs = [{"id": i, "title": x['title']} for i, x in data['units'].items()
-                        if slug(x['topic'].split(':')[0]) == pre or len(ws & (set(re.findall(r'[a-z]{4,}', (x['topic'] + ' ' + x['title']).lower())) - STOP)) >= 2]
+                        if pre in (slug(x['topic'].split(':')[0]), slug(x['subtopic'])) or len(ws & (set(re.findall(r'[a-z]{4,}', (x['topic'] + ' ' + x['title']).lower())) - STOP)) >= 2]
             refs = [r for i, r in enumerate(refs) if r not in refs[:i]]
             # the closest unit first, so the topic gets its picture
             refs.sort(key=lambda r: -len(ws & (set(re.findall(r'[a-z]{4,}', (data['units'][r['id']]['topic'] + ' ' + r['title']).lower())) - STOP)) if r['id'] in data['units'] else 0)

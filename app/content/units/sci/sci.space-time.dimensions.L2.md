@@ -453,9 +453,9 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
    **Answer:** We have never seen a fourth direction, just as Pulli has never seen up. We might only see slices of things that go into it.. *Why:* A strong answer compares us with Pulli: a flat creature meets a ball only as circles, so we might meet things in a fourth direction only as solids. Nobody knows yet whether a fourth direction exists.
 
 ## Videos
-- **2D and 3D shapes for children** (, 4 min) id `to find`: Shows flat shapes and solid shapes side by side, with real objects, so a child sees that a solid has height. *Check:* Not yet found. Look for a short video that uses real objects, names sphere, cube, cuboid, cylinder and cone correctly, and does not call paper truly flat.
+- **2D vs 3D shapes for children** (Mr. B's Brain, 5 min) id `YxoLlSTu1jo`: Shows flat shapes and solid shapes side by side, so a child sees that a solid has height. *Check:* Found by search: "2D vs. 3D Shapes! Mr. B's Brain - Ep. 2: 2D and 3D Shapes" by Mr. B's Brain, 5 minutes. A parent may preview it.
 - **Slicing solids: what shape is the cross-section?** (, 4 min) id `to find`: Shows solids being cut in different places, and the flat shapes that appear, like the slice and trace test. *Check:* Not yet found. Look for a video that shows a cube giving a triangle when a corner is cut off, and a sphere giving circles of different sizes.
-- **Flatland: a sphere visits a flat world** (, 5 min) id `to find`: An animation of a flat creature meeting a ball as a circle that grows and shrinks. For the grown-up to watch first, then share. *Check:* Not yet found. Check that the video is suitable for a child of 7, and that it says Flatland is a story by Edwin Abbott Abbott from 1884.
+- **Exploring other dimensions (Flatland)** (TED-Ed, 5 min) id `C6kn6nXMWF0`: An animation of a flat world and what a visitor from a higher dimension would look like to it. For the grown-up to watch first, then share what suits the child. *Check:* Found by search: "Exploring other dimensions - Alex Rosenthal and George Zaidan" by TED-Ed, 5 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is a flat (2D) shape?  

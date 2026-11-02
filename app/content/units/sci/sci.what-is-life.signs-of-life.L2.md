@@ -516,9 +516,9 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
    **Answer:** Sprouts on the bottom, on the wet cloth. Chuna water in the small glass in the middle. The lid on top, closed tight.. *Why:* A strong answer also says why each part is there: the lid keeps room air out, and the wet cloth keeps the sprouts damp.
 
 ## Videos
-- **Seeds germinating and growing: a time-lapse** (, 3 min) id `to find`: Shows a seed that seemed still pushing out a root and a shoot, in a few minutes instead of a few days. *Check:* Find a real time-lapse with no wrong facts in any words. Check the plant is shown growing, not just being swapped for a bigger one.
+- **Bean seed growing in soil: a 25-day time-lapse** (GPhase, 3 min) id `w77zPAtVTuI`: Shows a seed that seemed still pushing out a root and a shoot, in a few minutes instead of a few days. *Check:* Found by search: "Bean Time-Lapse - 25 days | Soil cross section" by GPhase, 3 minutes. A parent may preview it.
 - **A potato shoot growing through a maze towards the light** (, 3 min) id `to find`: Shows what the potato maze project shows over three weeks, for families who cannot wait or whose potato does not sprout. *Check:* Find a real time-lapse or photos of a potato maze. Check it is a real potato, not a drawing.
-- **Plant movements in time-lapse: tendrils, leaves folding and turning to light** (, 4 min) id `to find`: Shows that plants move all the time, only slowly: tendrils coiling, leaves folding at night, shoots turning to the light. *Check:* Find a real time-lapse for children or adults. Check any narration says plants sense and move, and does not say plants never move.
+- **How climbing plants move: a tendril time-lapse** (Time Print, 3 min) id `xmoVMY2Uqas`: Shows that plants move all the time, only slowly: climbing shoots and tendrils reaching out and coiling. *Check:* Found by search: "How Plants Climb Time Lapse" by Time Print, 3 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) How many signs of life are there?  

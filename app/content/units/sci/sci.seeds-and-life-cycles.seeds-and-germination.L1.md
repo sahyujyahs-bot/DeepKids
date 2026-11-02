@@ -436,9 +436,9 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
    **Answer:** Plant soaked chana in two cups. Keep one cup in the light and one in a dark cupboard. Give both the same water. See which seeds grow a root.. *Why:* A strong answer changes only the light and keeps the seeds, soil and water the same.
 
 ## Videos
-- **A time-lapse of a bean or chana seed sprouting in soil, filmed from the side** (, 2 min) id `to find`: Shows in two minutes what the dug-up seeds showed over five days: the root first, then the curled shoot. *Check:* Find a real time-lapse filmed through glass. Check the root comes out first and there is no wrong narration.
-- **A time-lapse of a pumpkin seedling coming up and opening their seed leaves** (, 2 min) id `to find`: Shows the curled shoot pushing out of the soil and the round seed leaves opening, as in the project. *Check:* Find a real time-lapse of pumpkin or squash. Check it is a real seedling, not an animation.
-- **Seeds and how they grow, for young children** (, 3 min) id `to find`: A short, simple picture of a seed growing into a plant. *Check:* Find a short, accurate video for age 6. Check it shows the root coming out before the leaves.
+- **Bean time-lapse in soil, seen from the side** (GPhase, 3 min) id `w77zPAtVTuI`: Shows in two minutes what the dug-up seeds showed over five days: the root first, then the curled shoot. *Check:* Found by search: "Bean Time-Lapse - 25 days | Soil cross section" by GPhase, 3 minutes, 10 seconds. A parent may preview it.
+- **Pumpkin growing from seed, time-lapse** (Seemingly Forever, 3 min) id `6TQgHKmACq4`: Real time-lapse of a pumpkin seed coming up, the round seed leaves opening, and the plant growing on. Watch the first part for the seedling. *Check:* Found by search: "Pumpkin Growing from Seed to Flowers 🎃 120 days Time Lapse" by Seemingly Forever, 2 minutes, 58 seconds. A parent may preview it.
+- **What is seed germination? (Dr. Binocs)** (Peekaboo Kidz, 6 min) id `JSe_VUMymjo`: A simple cartoon explanation of how a seed wakes up and grows into a plant. *Check:* Found by search: "What Is Seed Germination? | SEED GERMINATION | Plant Germination | Dr Binocs Show | Peekaboo Kidz" by Peekaboo Kidz, 6 minutes, 28 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What grows out of a seed?  

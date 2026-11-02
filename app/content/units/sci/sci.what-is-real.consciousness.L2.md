@@ -471,9 +471,9 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
    **Answer:** Some meaning from the ignored ear still gets through. *Why:* If the ignored ear were shut out like a closed door, nobody could follow a story into it. Its sounds are turned down, not shut out.
 
 ## Videos
-- **The selective attention test (the gorilla film)** (, 2 min) id `to find`: Your child counts ball passes and may miss something surprising, after they have done the sound test. *Check:* Find the original short film by Daniel Simons and Christopher Chabris. Watch it first, as it works only if the child does not know the surprise.
-- **Why do we stop noticing smells and sounds?** (, 4 min) id `to find`: Explains getting used to steady sounds and smells, after the Sound That Went Away activity. *Check:* Find a short, accurate clip on habituation for children. Check it does not say the ears switch off.
-- **What happens when we dream?** (, 4 min) id `to find`: Shows deep sleep and dreaming sleep in a night, after the Awake, Dream, Deep Sleep game. *Check:* Find a clip for children on sleep stages and dreams. Check it says almost everyone dreams, and that nobody yet knows exactly why we dream.
+- **The selective attention test (the gorilla film)** (Daniel Simons, 1 min) id `vJG698U2Mvo`: Your child counts ball passes and may miss something surprising, after they have done the sound test. *Check:* Found by search: "selective attention test" by Daniel Simons, 1 minute 22 seconds. A parent may preview it.
+- **Why do we stop noticing smells after a while?** (BrainStuff - HowStuffWorks, 4 min) id `n8EvWzWEbz0`: Explains getting used to a steady smell, which works the same way as steady sounds, after the Sound That Went Away activity. *Check:* Found by search: "Why Do You Stop Noticing Smells After A While?" by BrainStuff - HowStuffWorks, 3 minutes 35 seconds. A parent may preview it.
+- **Why do we dream?** (SciShow Kids, 5 min) id `jYu966AONZI`: Explains why we dream during sleep, after the Awake, Dream, Deep Sleep game. *Check:* Found by search: "Why Do We Dream?" by SciShow Kids, 4 minutes 40 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) What does it mean to be aware of something?  

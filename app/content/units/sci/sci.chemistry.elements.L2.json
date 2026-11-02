@@ -1818,22 +1818,20 @@
  ],
  "videos": [
   {
-   "title": "Cleaning tarnished silver with foil, soda and hot water",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Cleaning silver with baking soda, foil and boiling water",
+   "channel": "Science in a Van",
+   "youtube": "esJ02gXGbFo",
+   "mins": 2,
    "why": "Shows the black fading from silver lying on aluminium foil in hot soda water.",
-   "check": "Find a short, clear video. Check it says the sulfur moves to the aluminium, and does not call it magic or dirt washing off."
+   "check": "Found by search: \"Cleaning Silver Home Hack using Baking Soda, Aluminium Foil, Boiling Water AND Chemistry!\" by Science in a Van, 2 minutes 8 seconds. A parent may preview it."
   },
   {
-   "title": "What is an element? Atoms of one kind",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Elements and compounds",
+   "channel": "Macmillan Education India",
+   "youtube": "bJvZOlTWzVo",
    "mins": 4,
-   "why": "Shows, with simple pictures, that an element is made of one kind of atom, and that water and salt are elements joined.",
-   "check": "Find a short, accurate video made for young children. Check it does not call water or air an element."
+   "why": "Shows, with simple pictures, what an element is, and that things like water and salt are made of elements joined together.",
+   "check": "Found by search: \"Elements and Compounds\" by Macmillan Education India, 4 minutes 7 seconds. A parent may preview it."
   },
   {
    "title": "Gold that stays shiny: ancient gold ornaments",

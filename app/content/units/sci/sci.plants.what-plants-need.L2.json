@@ -1746,31 +1746,28 @@
  ],
  "videos": [
   {
-   "title": "A time-lapse of seedlings bending towards light",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A time-lapse of a plant bending towards light, then the light changes",
+   "channel": "Green Timelapse",
+   "youtube": "jJrqmkbiwdE",
    "mins": 2,
-   "why": "Shows in seconds what our turning cup did overnight.",
-   "check": "Find a real time-lapse of seedlings bending to a one-sided light. Check that the light really moves or the pot is really turned."
+   "why": "Shows in seconds what our turning cup did overnight, and the plant turning again when the light moves.",
+   "check": "Found by search: \"Changing the direction of the light during plant growth - Time lapse #greentimelapse #gtl #timelapse\" by Green Timelapse, 2 minutes, 10 seconds. A parent may preview it."
   },
   {
-   "title": "A potato shoot growing through a maze box",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "A plant growing through a maze to find the light",
+   "channel": "STEAM Powered Family",
+   "youtube": "qJusc1SYlBY",
+   "mins": 4,
    "why": "Shows a shoot finding the light round walls, like the maze box challenge.",
-   "check": "Find a real time-lapse of a potato or bean maze. Check it is filmed, not animated."
+   "check": "Found by search: \"Plant Maze Experiment 🌱 Phototropism STEM Activity for Kids\" by STEAM Powered Family, 4 minutes, 17 seconds. A parent may preview it."
   },
   {
-   "title": "Young sunflowers following the Sun",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "How sunflowers track the Sun",
+   "channel": "Australian Academy of Science",
+   "youtube": "WHtTiNsOYBY",
+   "mins": 2,
    "why": "Shows young sunflowers turning east to west through the day, as in Stacey Harmer's study.",
-   "check": "Find an accurate video. Check it says only young sunflowers turn, and open flowers face east."
+   "check": "Found by search: \"How sunflowers track the sun's movements\" by Australian Academy of Science, 1 minute, 55 seconds. A parent may preview it."
   }
  ],
  "quiz": [

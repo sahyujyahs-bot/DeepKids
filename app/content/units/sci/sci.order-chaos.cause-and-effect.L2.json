@@ -1654,30 +1654,27 @@
  "videos": [
   {
    "title": "Domino chain reaction where each domino is bigger than the last",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "channel": "Stephen Morris",
+   "youtube": "5JCm5FY-dEY",
+   "mins": 1,
    "why": "Shows a small domino starting a chain of growing dominoes that ends with a very big one, so children see a small push passing along and growing.",
-   "check": "Not yet found. Look for a domino chain of growing sizes, such as one based on Lorne Whitehead's 1983 idea, with no wrong claims about energy."
+   "check": "Found by search: \"Domino Chain Reaction (short version): geometric growth in action\" by Stephen Morris, 1 minute 11 seconds. A parent may preview it."
   },
   {
-   "title": "Newton's cradle and a line of coins in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Science Max: Giant Newton's Cradle",
+   "channel": "Science Max - Scholastic",
+   "youtube": "UJY8WAlS-hM",
+   "mins": 2,
+   "why": "Shows a push passing through a line of hanging balls, so only the last one swings away.",
+   "check": "Found by search: \"Science Max | Mini Max | Giant Newton's Cradle\" by Science Max - Scholastic, 1 minute 51 seconds. A parent may preview it."
+  },
+  {
+   "title": "Chain Reaction Machine from Design Squad",
+   "channel": "Design Squad",
+   "youtube": "vblk7RIwa4A",
    "mins": 3,
-   "why": "Shows a push passing through balls or coins that hardly move, so only the last one swings or slides away.",
-   "check": "Not yet found. Look for a slow-motion video that shows the middle balls staying almost still."
-  },
-  {
-   "title": "A simple chain reaction machine built at home",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows a chain of causes with dominoes, ramps and balls, so children get ideas for the Chain Reaction Machine challenge.",
-   "check": "Not yet found. Choose a short video that uses home things and has no dangerous parts such as fire or mousetraps."
+   "why": "Shows a chain of causes with simple parts, so children get ideas for the Chain Reaction Machine challenge.",
+   "check": "Found by search: \"Chain Reaction Machine | Design Squad\" by Design Squad, 2 minutes 37 seconds. A parent may preview it."
   }
  ],
  "quiz": [

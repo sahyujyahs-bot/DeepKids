@@ -1879,31 +1879,28 @@
  ],
  "videos": [
   {
-   "title": "A rubber ball bouncing, in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "title": "Ball bouncing in slow motion: rubber ball",
+   "channel": "Florian Knorn",
+   "youtube": "sVTJNv3-mWk",
+   "mins": 1,
    "why": "Shows the ball squashing flat where it hits the floor and springing back to round, as in the Bounce Test.",
-   "check": "Find real slow-motion footage of a rubber or tennis ball hitting a hard floor, where the squash is clearly visible."
+   "check": "Found by search: \"Ball bouncing in slow motion: Rubber ball\" by Florian Knorn, 15 seconds. A parent may preview it."
   },
   {
-   "title": "A potter's wheel spinning in an Indian pottery village",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a wheel that spins in one place, and a potter shaping clay on it, as in How We Found Out.",
-   "check": "Find a real clip of a potter at work on a wheel in India, for example from Kumbharwada in Mumbai or a village in Tamil Nadu or Bengal."
-  },
-  {
-   "title": "The Earth spinning, seen from space",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A hand-spun pottery wheel outside Jodhpur, India",
+   "channel": "Ditch The Map",
+   "youtube": "SHW1XoRLfuo",
    "mins": 2,
-   "why": "Shows that the whole Earth spins round once a day, carrying us with it.",
-   "check": "Find real footage or a time-lapse of real satellite images from NASA, ISRO or ESA, not an animation passed off as a photo."
+   "why": "Shows a wheel that spins in one place, and a potter shaping clay on it, as in How We Found Out.",
+   "check": "Found by search: \"Manual Hand Spun Pottery Wheel outside Jodhpur, India\" by Ditch The Map, 1 minute, 32 seconds. A parent may preview it."
+  },
+  {
+   "title": "Earth's rotation and revolution (Crash Course Kids)",
+   "channel": "Crash Course Kids",
+   "youtube": "l64YwNl1wr0",
+   "mins": 4,
+   "why": "Explains that the whole Earth spins round once a day, carrying us with it, and that it also goes round the Sun.",
+   "check": "Found by search: \"Earth's Rotation & Revolution: Crash Course Kids 8.1\" by Crash Course Kids, 4 minutes, 1 second. A parent may preview it."
   }
  ],
  "applications": [

@@ -1725,31 +1725,28 @@
  ],
  "videos": [
   {
-   "title": "Fishing families pulling a long net up the beach by hand, in Kerala or Tamil Nadu",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows many people pulling together on a rope to bring in a heavy net, like the fishers in the story.",
-   "check": "Find a real clip of shore net fishing in Kerala or Tamil Nadu, from a news channel or a documentary. Check that it shows people pulling the rope in a line."
-  },
-  {
-   "title": "Ants carrying a big piece of food together",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Fishermen pulling in their nets on Kovalam beach, Kerala",
+   "channel": "Scott",
+   "youtube": "YsUuueZpV1g",
    "mins": 2,
-   "why": "Shows ants pulling and pushing food that is too heavy for one ant.",
-   "check": "Find a close-up clip of real ants moving food as a group, from a nature channel or a science lab. Check it is real footage, not animation."
+   "why": "Shows many people pulling together on a rope to bring in a heavy net, like the fishers in the story.",
+   "check": "Found by search: \"Kovalam Beach fishermen pulling in their nets. November 2016\" by Scott, 2 minutes, 5 seconds. A parent may preview it."
   },
   {
-   "title": "Astronauts moving around the space station by pushing and pulling",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows that in space, astronauts mostly move by pushing off walls and pulling on handles.",
-   "check": "Find a NASA or ESA clip of astronauts moving inside the International Space Station. Check that it shows them pushing off and pulling on handrails."
+   "title": "How ants carry heavy loads",
+   "channel": "National Geographic",
+   "youtube": "fjyTkagc8BI",
+   "mins": 1,
+   "why": "Shows real ants pulling and pushing food that is heavy for one ant.",
+   "check": "Found by search: \"How Crazy Ants Carry Heavy Loads | National Geographic\" by National Geographic, 1 minute, 1 second. A parent may preview it."
+  },
+  {
+   "title": "An astronaut flying through the space station",
+   "channel": "NASA",
+   "youtube": "FKsghZt8bLs",
+   "mins": 1,
+   "why": "Shows an astronaut in space pushing off and floating from place to place.",
+   "check": "Found by search: \"Astronaut Matthew Dominick Flies Through The International Space Station\" by NASA, 21 seconds. A parent may preview it."
   }
  ],
  "applications": [

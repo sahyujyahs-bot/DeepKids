@@ -1611,31 +1611,28 @@
  ],
  "videos": [
   {
-   "title": "A short film of people following a scent trail, from the 2007 Berkeley study",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows blindfolded people sniffing their way along a chocolate smell trail across grass, like dogs.",
-   "check": "Find a real clip of the 2007 human scent-tracking study by Jess Porter, Noam Sobel and colleagues, or a news report showing it."
+   "title": "Nature Neuroscience video: a person tracking a scent trail",
+   "channel": "xavius9",
+   "youtube": "xodlZWFZQIE",
+   "mins": 1,
+   "why": "Shows people following a scent trail across grass, like dogs, in a video from the 2007 Berkeley study.",
+   "check": "Found by search: \"Nature Neuroscience video: Participant tracking scent\" by xavius9, 1 minute, 16 seconds. A parent may preview it."
   },
   {
-   "title": "A touch-me-not (Mimosa pudica) plant folding their leaves when touched",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Sensitive Plant (Mimosa pudica) leaves folding up when touched",
+   "channel": "99Chemicals",
+   "youtube": "XTi6eDeKkQI",
    "mins": 2,
-   "why": "Shows that plants sense touch too: the leaves fold within a few seconds of a finger touching them.",
-   "check": "Find a real, unedited clip, not sped up without saying so."
+   "why": "Shows that plants sense touch too: the leaves fold within a few seconds of a touch.",
+   "check": "Found by search: \"Sensitive Plant (Mimosa pudica) Leaves Folding up in Response to Touch\" by 99Chemicals, 2 minutes, 19 seconds. A parent may preview it."
   },
   {
-   "title": "A snake flicking their tongue to smell",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows a snake picking up smells from the air with the tongue, a sense very different from ours.",
-   "check": "Find a clip from a nature programme or a zoo that explains the tongue flick correctly."
+   "title": "How Do Snakes Smell With Their Tongues? (SciShow Kids)",
+   "channel": "SciShow Kids",
+   "youtube": "fQaOrxS5iNc",
+   "mins": 5,
+   "why": "Explains how a snake picks up smells from the air with the tongue, a sense very different from ours.",
+   "check": "Found by search: \"How Do Snakes Smell With Their Tongues? | Amazing Animal Senses! | SciShow Kids\" by SciShow Kids, 4 minutes, 43 seconds. A parent may preview it."
   }
  ],
  "quiz": [

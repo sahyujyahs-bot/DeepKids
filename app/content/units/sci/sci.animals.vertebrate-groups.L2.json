@@ -924,55 +924,107 @@
      "items": [
       {
        "f": "Sardine",
-       "b": "Fish. Fins, gills and scales."
+       "b": "Fish. Fins, gills and scales.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-00.jpg",
+        "credit": "Pranav Chandra Bose, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Shark",
-       "b": "Fish. Fins and gills."
+       "b": "Fish. Fins and gills.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-01.jpg",
+        "credit": "Pauline Walsh Jacobson, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Seahorse",
-       "b": "Fish. Gills and a small fin on the back."
+       "b": "Fish. Gills and a small fin on the back.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-02.jpg",
+        "credit": "Pauline Walsh Jacobson, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Rohu",
-       "b": "Fish. Fins, gills and scales."
+       "b": "Fish. Fins, gills and scales.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-03.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Frog",
-       "b": "Amphibian. Smooth damp skin, and starts life as a tadpole."
+       "b": "Amphibian. Smooth damp skin, and starts life as a tadpole.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-04.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Toad",
-       "b": "Amphibian. Damp, bumpy skin with no scales."
+       "b": "Amphibian. Damp, bumpy skin with no scales.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-05.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Purple frog",
-       "b": "Amphibian. Lives underground in the Western Ghats."
+       "b": "Amphibian. Lives underground in the Western Ghats.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-06.jpg",
+        "credit": "rajesh rocky, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "House gecko",
-       "b": "Reptile. Dry scales, lays eggs."
+       "b": "Reptile. Dry scales, lays eggs.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-07.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cobra",
-       "b": "Reptile. Dry scales, no legs, lays eggs."
+       "b": "Reptile. Dry scales, no legs, lays eggs.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-08.jpg",
+        "credit": "Chayant Gonsalves, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Mugger crocodile",
-       "b": "Reptile. Dry scales, lays eggs in a hole in the sand."
+       "b": "Reptile. Dry scales, lays eggs in a hole in the sand.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-09.jpg",
+        "credit": "Mike Prince, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Olive ridley turtle",
-       "b": "Reptile. A shell and dry scales, lays eggs on a beach."
+       "b": "Reptile. A shell and dry scales, lays eggs on a beach.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-10.jpg",
+        "credit": "Sundar Lakshmanan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Crow",
-       "b": "Bird. Feathers and a beak."
+       "b": "Bird. Feathers and a beak.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-11.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Peacock",
-       "b": "Bird. Feathers and a beak, and can fly up into trees."
+       "b": "Bird. Feathers and a beak, and can fly up into trees.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-12.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Hen",
@@ -980,23 +1032,43 @@
       },
       {
        "f": "Duck",
-       "b": "Bird. Feathers, and swims with webbed feet."
+       "b": "Bird. Feathers, and swims with webbed feet.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-14.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cow",
-       "b": "Mammal. Hair, and feeds her calf milk."
+       "b": "Mammal. Hair, and feeds her calf milk.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-15.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Bat",
-       "b": "Mammal. Fur, and feeds her baby milk."
+       "b": "Mammal. Fur, and feeds her baby milk.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-16.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "River dolphin",
-       "b": "Mammal. Breathes air and feeds her baby milk."
+       "b": "Mammal. Breathes air and feeds her baby milk.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-17.jpg",
+        "credit": "Fábio Olmos, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Pangolin",
-       "b": "Mammal. Scales, but some hair too, and feeds her baby milk."
+       "b": "Mammal. Scales, but some hair too, and feeds her baby milk.",
+       "img": {
+        "src": "media/cards/vertebrate-groups-g1-0-18.jpg",
+        "credit": "Shedron Mukhumo, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Elephant",
@@ -1801,31 +1873,28 @@
  ],
  "videos": [
   {
-   "title": "A frog's life cycle: from eggs to tadpoles to frogs",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The life cycle of a frog: from tadpole to frog",
+   "channel": "Free School",
+   "youtube": "etGmCvIL014",
    "mins": 4,
    "why": "Shows how an amphibian starts life in water with gills, then grows legs and lungs.",
-   "check": "Find a real time-lapse of frog eggs hatching into tadpoles and tadpoles growing legs, ideally an Indian species. Check the narration is accurate and calls the frogs she, he or they."
+   "check": "Found by search: \"The Life Cycle of a Frog: Metamorphosis from Tadpole to Frog for Kids - FreeSchool\" by Free School, 3 min 59 s. A parent may preview it."
   },
   {
-   "title": "An Indian pangolin walking and curling up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
+   "title": "A pangolin: a mammal covered in scales",
+   "channel": "Nat Geo Animals",
+   "youtube": "gz4HXyxcess",
+   "mins": 2,
    "why": "Shows a mammal covered in scales, so children see why one clue is not enough.",
-   "check": "Find a real wildlife clip of an Indian pangolin, ideally with a mother and baby. Check it is not a staged clip of a trafficked or captive animal in distress."
+   "check": "Found by search: \"Pangolin | World's Weirdest\" by Nat Geo Animals, 2 min 6 s. A parent may preview it."
   },
   {
-   "title": "How a snake's backbone moves: many vertebrae at work",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Do snakes have bones? A museum looks at a snake's body",
+   "channel": "Peggy Notebaert Nature Museum",
+   "youtube": "kpHat1ybVaM",
    "mins": 3,
-   "why": "Shows a snake skeleton or X-ray, so children see the long chain of vertebrae that lets a snake coil.",
-   "check": "Find a real clip of a snake skeleton or an X-ray video of a moving snake from a museum or university. Check the number of vertebrae given, if any."
+   "why": "Shows a snake's bones from a museum, so children see the backbone that lets a snake coil.",
+   "check": "Found by search: \"All About Snake Body Parts (Do Snakes Have Bones?)\" by Peggy Notebaert Nature Museum, 3 min 28 s. A parent may preview it."
   }
  ],
  "quiz": [

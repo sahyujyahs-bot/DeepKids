@@ -551,9 +551,9 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
    **Answer:** 2. *Why:* A sweet cola has sugar for the bacteria. The cola is also sour, with acid in the drink itself. The others rinse, make saliva or remove plaque.
 
 ## Videos
-- **How milk teeth fall out and adult teeth come in: an animation or X-ray view** (, 3 min) id `to find`: Shows adult teeth already in the jaw under the milk teeth, which a child cannot see. *Check:* Find a real, accurate video for age 7. Check it shows adult teeth forming under the milk teeth and the milk tooth root being taken away, not snapping off.
-- **Eggshell in vinegar, filmed close up or sped up** (, 2 min) id `to find`: Shows the bubbles and the shell going soft over a day, to compare with the child's own test. *Check:* Find a real video. Check it does not claim eggshell is the same material as tooth enamel.
-- **How to brush teeth, for children, from a dental school or health service** (, 3 min) id `to find`: Shows gentle brushing of every surface, including the back molars, with a pea-sized blob of fluoride toothpaste. *Check:* Find a real video from a dental school, dental association or health service. Check it says brush gently, twice a day, about two minutes, and spit out.
+- **Baby teeth to adult teeth: a time-lapse animation** (Fauquier ENT, 1 min) id `m-jzikJNDws`: Shows adult teeth already in the jaw under the milk teeth, which a child cannot see. *Check:* Found by search: "Baby Teeth to Adult Teeth Time Lapse Animation" by Fauquier ENT, 1 minute 11 seconds. A parent may preview it.
+- **The naked egg: an eggshell soaking in vinegar** (The Sci Guys, 6 min) id `SrON0nEEWmo`: Shows the eggshell going soft in vinegar, to compare with the child's own test. *Check:* Found by search: "The Sci Guys: Science at Home - SE1 - EP14: The Naked Egg and Osmosis" by The Sci Guys, 5 minutes 48 seconds. A parent may preview it.
+- **How to brush your teeth: an animation from the NHS** (NHS England Workforce, Training and Education, 2 min) id `BapR9J86ZZw`: Shows gentle brushing of every surface, including the back molars, with a pea-sized blob of fluoride toothpaste. *Check:* Found by search: "How to Brush Your Teeth Animation MCM" by NHS England Workforce, Training and Education, 2 minutes 12 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) How many milk teeth does a child usually have when they are all in?  

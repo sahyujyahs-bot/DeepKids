@@ -467,9 +467,9 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
    **Answer:** Louder. Coins are hard and heavy, so they hit the bottle hard. Cotton is soft, so it hits gently and makes almost no sound.. *Why:* A strong answer uses what the Shaker Test showed: hard things hitting make loud sounds and soft things make soft sounds.
 
 ## Videos
-- **A cricket chirping, close up** (, 2 min) id `to find`: Shows a tiny sound source making a loud sound, by rubbing the wings together. *Check:* Find real close-up footage of a male field cricket chirping, from a nature channel or a university. Check that the wings are seen rubbing while the sound plays, and that it is not animation.
-- **Fish sounds recorded underwater** (, 3 min) id `to find`: Lets children hear sound sources most people never hear: croakers, toadfish and snapping shrimp. *Check:* Find a short recording from a real research group or aquarium that names each animal as their sound plays. Check the animals named are correct.
-- **Birds singing at dawn in an Indian city** (, 3 min) id `to find`: A real dawn chorus to listen to with eyes closed, and to pick out the different callers. *Check:* Find a real recording of morning birdsong in an Indian city or park, ideally naming the birds, such as from a bird-watching group. Check that it is not mixed with music.
+- **Why crickets chirp, close up** (Deep Look, 4 min) id `fh3uNUrAnss`: Shows a tiny sound source making a loud sound, by rubbing the wings together. *Check:* Found by search: "Why Crickets Just Won't Shut Up | Deep Look" by Deep Look, 4 minutes. A parent may preview it.
+- **Fish sounds from a coral reef** (Guardian News, 2 min) id `97M2muq9JQc`: Lets children hear sound sources most people never hear: fish whooping, purring and grunting underwater. *Check:* Found by search: "Previously unheard fish sounds from restored coral reef: 'Whoops, purrs and grunts'" by Guardian News, 1 minute 36 seconds. A parent may preview it.
+- **Common bird sounds of India, backyard birds** (Indian Bird Videos, 15 min) id `ssiP9ZGUKRk`: Real Indian birds to listen to with eyes closed, and to pick out the different callers. A parent can play just the first few minutes. *Check:* Found by search: "Common bird sounds of India - Backyard bird sounds- Indian Bird sounds for kids" by Indian Bird Videos, about 15 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) What is a sound source?  

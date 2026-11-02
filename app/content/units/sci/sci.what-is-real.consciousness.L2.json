@@ -1256,30 +1256,27 @@
  "videos": [
   {
    "title": "The selective attention test (the gorilla film)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
+   "channel": "Daniel Simons",
+   "youtube": "vJG698U2Mvo",
+   "mins": 1,
    "why": "Your child counts ball passes and may miss something surprising, after they have done the sound test.",
-   "check": "Find the original short film by Daniel Simons and Christopher Chabris. Watch it first, as it works only if the child does not know the surprise."
+   "check": "Found by search: \"selective attention test\" by Daniel Simons, 1 minute 22 seconds. A parent may preview it."
   },
   {
-   "title": "Why do we stop noticing smells and sounds?",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why do we stop noticing smells after a while?",
+   "channel": "BrainStuff - HowStuffWorks",
+   "youtube": "n8EvWzWEbz0",
    "mins": 4,
-   "why": "Explains getting used to steady sounds and smells, after the Sound That Went Away activity.",
-   "check": "Find a short, accurate clip on habituation for children. Check it does not say the ears switch off."
+   "why": "Explains getting used to a steady smell, which works the same way as steady sounds, after the Sound That Went Away activity.",
+   "check": "Found by search: \"Why Do You Stop Noticing Smells After A While?\" by BrainStuff - HowStuffWorks, 3 minutes 35 seconds. A parent may preview it."
   },
   {
-   "title": "What happens when we dream?",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "Shows deep sleep and dreaming sleep in a night, after the Awake, Dream, Deep Sleep game.",
-   "check": "Find a clip for children on sleep stages and dreams. Check it says almost everyone dreams, and that nobody yet knows exactly why we dream."
+   "title": "Why do we dream?",
+   "channel": "SciShow Kids",
+   "youtube": "jYu966AONZI",
+   "mins": 5,
+   "why": "Explains why we dream during sleep, after the Awake, Dream, Deep Sleep game.",
+   "check": "Found by search: \"Why Do We Dream?\" by SciShow Kids, 4 minutes 40 seconds. A parent may preview it."
   }
  ],
  "quiz": [

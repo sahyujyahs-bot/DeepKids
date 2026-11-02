@@ -685,7 +685,11 @@
       },
       {
        "f": "You are a turtle hatchling. You crawl to the bright sea.",
-       "b": "Born ready. Move forward 3."
+       "b": "Born ready. Move forward 3.",
+       "img": {
+        "src": "media/cards/born-knowing-g1-0-02.jpg",
+        "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You are a baby. You drink milk on your first day.",
@@ -697,7 +701,11 @@
       },
       {
        "f": "You are a turtle hatchling. A street light is brighter than the sea, and you crawl to it.",
-       "b": "Born-with know-how fooled by something new. Go back 2."
+       "b": "Born-with know-how fooled by something new. Go back 2.",
+       "img": {
+        "src": "media/cards/born-knowing-g1-0-05.jpg",
+        "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "You are a spiderling. Wind tears your web in the night.",
@@ -737,7 +745,11 @@
       },
       {
        "f": "You are a weaver bird. Your first nest is untidy.",
-       "b": "Weave again. Practice makes it neater. Move forward 1."
+       "b": "Weave again. Practice makes it neater. Move forward 1.",
+       "img": {
+        "src": "media/cards/born-knowing-g1-0-15.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       }
      ]
     },

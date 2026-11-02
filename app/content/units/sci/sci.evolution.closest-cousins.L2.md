@@ -485,9 +485,9 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    **Answer:** For example, an orangutan: a mother cares for her child for years, and the child learns by watching her. But orangutans mostly live alone, not in a family home.. *Why:* A strong answer uses true facts about one ape and compares them carefully with the child's own family.
 
 ## Videos
-- **Young apes laughing while being tickled** (, 3 min) id `to find`: Lets the child hear a real chimpanzee or orangutan pant-laugh, after doing the laugh test. *Check:* Find a short clip from a sanctuary or a university, ideally linked to Marina Davila-Ross's research. Check that the apes are being tickled gently by their keepers, and watch it fully first.
-- **An orangutan building a nest in the trees** (, 3 min) id `to find`: Shows how an orangutan bends and weaves branches into a bed in a few minutes, before the nest challenge. *Check:* Find real footage of wild or rescued orangutans in Borneo or Sumatra. Check it shows branches being bent and leaves added.
-- **Hoolock gibbons singing in Assam** (, 3 min) id `to find`: Lets the child hear India's own ape singing, after the gibbon duet. *Check:* Find a recording of western hoolock gibbons, ideally from the Hollongapar Gibbon Sanctuary or another forest in North-east India. Check the species named is the hoolock gibbon.
+- **A bonobo loves being tickled** (BBC Earth, 4 min) id `TumK4bem3fg`: Lets the child see and hear a great ape (a bonobo, a close cousin of the chimpanzee) laugh when it is tickled, after doing the laugh test. *Check:* Found by search: "Bonobo Loves Being Tickled | Animals In Love | BBC Earth" by BBC Earth, 4 minutes. A parent may preview it.
+- **Orangutans get a crash course in nest building** (Smithsonian Channel, 2 min) id `q5ic4j7s7j4`: Shows how orangutans bend and weave branches into a bed in the trees, before the nest challenge. *Check:* Found by search: "These Orangutans Get a Crash Course in Nest Building" by Smithsonian Channel, 2 minutes. A parent may preview it.
+- **The orchestra of Hollongapar: Assam's forest of gibbons** (Roundglass Sustain, 3 min) id `vq9-5NASj9M`: Lets the child hear India's own ape singing in Assam, after the gibbon duet. *Check:* Found by search: "🎶The Orchestra of Hollongapar: Assam’s Forest Island of Gibbons" by Roundglass Sustain, 3 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these is an ape?  

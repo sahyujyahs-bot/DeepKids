@@ -1386,31 +1386,28 @@
  ],
  "videos": [
   {
-   "title": "The Sun's path across the sky in a time-lapse",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows the Sun rising, climbing and setting in a few seconds, and shadows swinging round, after your child has watched their own sun patch move.",
-   "check": "Find a real time-lapse, not a cartoon. Check that the camera stays still, that shadows can be seen moving, and that it never encourages looking at the Sun."
+   "title": "Shadow time lapse: a shadow moving through the day",
+   "channel": "GazdonianProductions",
+   "youtube": "3B7KLstUZbI",
+   "mins": 1,
+   "why": "Shows a shadow swinging round as the Sun crosses the sky in one day, after your child has watched their own sun patch move.",
+   "check": "Found by search: \"Sun's shadow time lapse  (N arrow is off a little bit)\" by GazdonianProductions, 1 minute, 21 seconds. A parent may preview it."
   },
   {
-   "title": "Why does the Sun seem to move? The Earth turns, for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Earth's rotation and revolution, for children",
+   "channel": "Crash Course Kids",
+   "youtube": "l64YwNl1wr0",
    "mins": 4,
-   "why": "Shows the turning Earth from space, so your child can see why the Sun seems to cross our sky.",
-   "check": "Check that it says the Earth turns once a day, that it does not say the Sun goes round the Earth, and that it is clear for children of 6 to 8."
+   "why": "Shows the turning Earth, so your child can see why the Sun seems to cross our sky. It also mentions the Earth going round the Sun; the first part is the one for today.",
+   "check": "Found by search: \"Earth's Rotation & Revolution: Crash Course Kids 8.1\" by Crash Course Kids, 4 minutes, 1 second. A parent may preview it."
   },
   {
-   "title": "Zero Shadow Day in an Indian city",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Zero Shadow Day in Bengaluru",
+   "channel": "Firstpost",
+   "youtube": "I7kQR7mXnRs",
    "mins": 3,
-   "why": "Shows upright objects losing their side shadows at noon on Zero Shadow Day, as in the noon card.",
-   "check": "Find a clip filmed in India, for example in Bengaluru or Chennai. Check that the date and city are given and that it shows real objects at noon."
+   "why": "Shows objects losing their side shadows at noon on Zero Shadow Day in Bengaluru, as in the noon card.",
+   "check": "Found by search: \"India: Bengaluru Experiences Rare Celestial Event \"Zero Shadow Day\", Here is What it Means\" by Firstpost, 3 minutes, 1 second. A parent may preview it."
   }
  ],
  "quiz": [
