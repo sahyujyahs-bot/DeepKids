@@ -925,7 +925,11 @@
       },
       {
        "f": "A coconut falling from a tree",
-       "b": "STRAIGHT, straight down"
+       "b": "STRAIGHT, straight down",
+       "img": {
+        "src": "media/cards/kinds-of-motion-g1-0-09.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A cycle on a straight road",
@@ -1023,7 +1027,11 @@
      "items": [
       {
        "f": "An ant walking to a grain of sugar",
-       "b": "BY THEMSELVES"
+       "b": "BY THEMSELVES",
+       "img": {
+        "src": "media/cards/kinds-of-motion-g2-0-00.jpg",
+        "credit": "Joss Carr, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A football after a kick",
@@ -1035,7 +1043,11 @@
       },
       {
        "f": "A crow flying off the window grille",
-       "b": "BY THEMSELVES"
+       "b": "BY THEMSELVES",
+       "img": {
+        "src": "media/cards/kinds-of-motion-g2-0-03.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A kite in the sky at Sankranti",
@@ -1059,7 +1071,11 @@
       },
       {
        "f": "A fish swimming in a pond",
-       "b": "BY THEMSELVES"
+       "b": "BY THEMSELVES",
+       "img": {
+        "src": "media/cards/kinds-of-motion-g2-0-09.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A pulled cart of vegetables",

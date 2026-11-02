@@ -1,4 +1,12 @@
 {
+ "intro": {
+  "src": "media/img/sci.microorganisms.microbes-everywhere.L2/intro.jpg",
+  "credit": "Juan Cruzado Cortés, CC BY, via iNaturalist"
+ },
+ "summary": {
+  "src": "media/img/sci.microorganisms.microbes-everywhere.L2/summary.jpg",
+  "credit": "Rodolfo Salinas Villarreal, CC BY, via iNaturalist"
+ },
  "term.2": {
   "src": "media/img/sci.microorganisms.microbes-everywhere.L2/term.2.jpg",
   "credit": "Katja Schulz, CC BY, via iNaturalist"
