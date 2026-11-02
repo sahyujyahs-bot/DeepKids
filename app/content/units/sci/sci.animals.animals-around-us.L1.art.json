@@ -27,6 +27,18 @@
   "src": "media/img/sci.animals.animals-around-us.L1/intro.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.animals.animals-around-us.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.animals.animals-around-us.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.animals.animals-around-us.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.animals.animals-around-us.L1/summary.jpg",
   "credit": "Chandu Bandi, CC BY, via iNaturalist"
