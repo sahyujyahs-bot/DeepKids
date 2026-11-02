@@ -7,13 +7,41 @@
   "src": "media/img/sci.plants.plant-parts.L3/expl.9.jpg",
   "credit": "avocat, CC BY, via iNaturalist"
  },
+ "flow.a1": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.a1.jpg",
+  "drawn": true
+ },
  "flow.a2": {
   "src": "media/img/sci.plants.plant-parts.L3/flow.a2.jpg",
   "credit": "Suhel Quader, CC BY, via iNaturalist"
  },
+ "flow.a3": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.a3.jpg",
+  "drawn": true
+ },
  "flow.a4": {
   "src": "media/img/sci.plants.plant-parts.L3/flow.a4.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.plants.plant-parts.L3/flow.e3.jpg",
+  "drawn": true
  },
  "flow.p1": {
   "src": "media/img/sci.plants.plant-parts.L3/flow.p1.jpg",
@@ -75,13 +103,37 @@
   "src": "media/img/sci.plants.plant-parts.L3/summary.jpg",
   "credit": "Ashwin A, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.12.jpg",
+  "drawn": true
+ },
  "term.13": {
   "src": "media/img/sci.plants.plant-parts.L3/term.13.jpg",
   "credit": "ritirene, CC BY, via iNaturalist"
  },
+ "term.14": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.14.jpg",
+  "drawn": true
+ },
  "term.15": {
   "src": "media/img/sci.plants.plant-parts.L3/term.15.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+ },
+ "term.16": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.16.jpg",
+  "drawn": true
  },
  "term.17": {
   "src": "media/img/sci.plants.plant-parts.L3/term.17.jpg",
@@ -99,6 +151,10 @@
   "src": "media/img/sci.plants.plant-parts.L3/term.2.jpg",
   "credit": "Prasanta Hembram, CC0, via iNaturalist"
  },
+ "term.20": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.20.jpg",
+  "drawn": true
+ },
  "term.21": {
   "src": "media/img/sci.plants.plant-parts.L3/term.21.jpg",
   "credit": "Cheongweei Gan, CC BY, via iNaturalist"
@@ -107,8 +163,48 @@
   "src": "media/img/sci.plants.plant-parts.L3/term.22.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
  },
+ "term.23": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.23.jpg",
+  "drawn": true
+ },
+ "term.24": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.24.jpg",
+  "drawn": true
+ },
+ "term.25": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.25.jpg",
+  "drawn": true
+ },
+ "term.26": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.26.jpg",
+  "drawn": true
+ },
+ "term.27": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.27.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.4.jpg",
+  "drawn": true
+ },
  "term.5": {
   "src": "media/img/sci.plants.plant-parts.L3/term.5.jpg",
   "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "term.6": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.plants.plant-parts.L3/term.9.jpg",
+  "drawn": true
  }
 }

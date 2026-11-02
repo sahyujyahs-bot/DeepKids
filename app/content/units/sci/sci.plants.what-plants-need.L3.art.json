@@ -1,7 +1,87 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.10": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.10.jpg",
+  "drawn": true
+ },
  "expl.11": {
   "src": "media/img/sci.plants.what-plants-need.L3/expl.11.jpg",
   "credit": "NASA, public domain"
+ },
+ "expl.2": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.plants.what-plants-need.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.e4": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.e4.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.plants.what-plants-need.L3/flow.p1.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.plants.what-plants-need.L3/intro.jpg",
@@ -59,12 +139,52 @@
   "src": "media/img/sci.plants.what-plants-need.L3/summary.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
  },
+ "term.1": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.15.jpg",
+  "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.16.jpg",
+  "drawn": true
+ },
+ "term.17": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.17.jpg",
+  "drawn": true
+ },
  "term.18": {
   "src": "media/img/sci.plants.what-plants-need.L3/term.18.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
  },
+ "term.19": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.19.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.23": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.23.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.4.jpg",
+  "drawn": true
+ },
  "term.5": {
   "src": "media/img/sci.plants.what-plants-need.L3/term.5.jpg",
   "credit": "User:Nino Barbieri, CC BY 2.5, via Wikimedia Commons"
+ },
+ "term.6": {
+  "src": "media/img/sci.plants.what-plants-need.L3/term.6.jpg",
+  "drawn": true
  }
 }

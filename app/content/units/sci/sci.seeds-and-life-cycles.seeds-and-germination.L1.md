@@ -140,7 +140,7 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 ## Games
 ### g1 · Whose Seed? A memory game (15 min)
 - **rules:** Cut out the 16 cards. Colour the border of each card: brown for seeds and green for plants.; Mix the cards and lay them face down in rows.; On your turn, turn over one brown card and one green card. Read them out loud.; If the seed grows into that plant, keep the pair and have another turn.; If not, turn both cards back over. The next player has a turn.; When all the pairs are found, each player counts their pairs. The player with the most pairs wins, or everyone wins together if it is a tie. Then lay the pairs out and look: which tiny seed made the biggest plant?
-- **Printable cards: 16 cards to cut out. Each card has its name on it.:** A mango stone; A mango tree; A coconut; A coconut palm; A chana seed; A chana plant; A tamarind seed; A tamarind tree; A pumpkin seed; A pumpkin plant; A sunflower seed; A sunflower; A tiny banyan seed; A huge banyan tree; A chilli seed; A chilli plant
+- **Printable cards: 16 cards to cut out. Each card has its name on it.:** A mango stone; A mango tree [picture]; A coconut [picture]; A coconut palm [picture]; A chana seed; A chana plant [picture]; A tamarind seed; A tamarind tree [picture]; A pumpkin seed; A pumpkin plant [picture]; A sunflower seed; A sunflower [picture]; A tiny banyan seed; A huge banyan tree [picture]; A chilli seed; A chilli plant [picture]
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Colour the borders: brown for seeds, green for plants. 3. Mix the cards and lay them face down.  
   *Parent says:* Each brown card is a seed. Each green card is a plant. Can you find each seed and their own plant?  

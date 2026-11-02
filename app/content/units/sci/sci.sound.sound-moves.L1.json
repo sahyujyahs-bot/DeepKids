@@ -773,9 +773,27 @@
      "kind": "cards",
      "title": "6 Whisper Walk word cards",
      "items": [
-      "Elephant",
-      "Peacock",
-      "Coconut",
+      {
+       "f": "Elephant",
+       "img": {
+        "src": "media/cards/sound-moves-g1-0-00.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Peacock",
+       "img": {
+        "src": "media/cards/sound-moves-g1-0-01.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Coconut",
+       "img": {
+        "src": "media/cards/sound-moves-g1-0-02.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
       "Dosa",
       "Kite",
       "Boat"

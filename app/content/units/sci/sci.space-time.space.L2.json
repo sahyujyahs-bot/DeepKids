@@ -944,7 +944,11 @@
       },
       {
        "f": "The International Space Station",
-       "b": "About 400 kilometres up, in outer space. People live and work on board."
+       "b": "About 400 kilometres up, in outer space. People live and work on board.",
+       "img": {
+        "src": "media/cards/space-g2-0-04.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "From the top of India to the bottom",
@@ -952,11 +956,19 @@
       },
       {
        "f": "The Moon",
-       "b": "About 384,000 kilometres away. Light from the Moon takes just over 1 second to reach you."
+       "b": "About 384,000 kilometres away. Light from the Moon takes just over 1 second to reach you.",
+       "img": {
+        "src": "media/cards/space-g2-0-06.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
       },
       {
        "f": "The Sun",
-       "b": "About 150 million kilometres away. Its light takes about 8 minutes to reach you."
+       "b": "About 150 million kilometres away. Its light takes about 8 minutes to reach you.",
+       "img": {
+        "src": "media/cards/space-g2-0-07.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "The nearest star after the Sun",
@@ -964,7 +976,11 @@
       },
       {
        "f": "The Andromeda galaxy",
-       "b": "One of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us."
+       "b": "One of the farthest things you can see without a telescope, on a very dark night. Its light takes about 2.5 million years to reach us.",
+       "img": {
+        "src": "media/cards/space-g2-0-09.jpg",
+        "credit": "NASA, public domain"
+       }
       }
      ]
     }

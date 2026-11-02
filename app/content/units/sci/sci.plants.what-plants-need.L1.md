@@ -395,7 +395,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 9. (mcq) Before you lifted the bowl, what did a good scientist do first?  
    Options: Guessed what would happen, and said why / Threw the seeds away / Painted the sprouts  
    **Answer:** Guessed what would happen, and said why. *Why:* Scientists guess first, then look carefully, then say what they saw.
-10. (mcq) Why did plates 2 and 3 both get the same water?  
+10. (mcq) Two plates of methi seeds get the same water. One is under a bowl, one is in the light. Why give them the same water?  
    Options: So that light was the only difference / Because we had extra water / So the bowl would float  
    **Answer:** So that light was the only difference. *Why:* When only one thing is different, we know that thing made the change. Here, the only difference was light.
 

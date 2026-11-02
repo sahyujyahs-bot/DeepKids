@@ -208,21 +208,75 @@
      "title": "16 cards to cut out. Each card has its name on it.",
      "items": [
       "A mango stone",
-      "A mango tree",
-      "A coconut",
-      "A coconut palm",
+      {
+       "f": "A mango tree",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-01.jpg",
+        "credit": "S.MORE, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "A coconut",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-02.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "A coconut palm",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-03.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "A chana seed",
-      "A chana plant",
+      {
+       "f": "A chana plant",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-05.jpg",
+        "credit": "Nico Hernandez, CC BY, via iNaturalist"
+       }
+      },
       "A tamarind seed",
-      "A tamarind tree",
+      {
+       "f": "A tamarind tree",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-07.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
       "A pumpkin seed",
-      "A pumpkin plant",
+      {
+       "f": "A pumpkin plant",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-09.jpg",
+        "credit": "Shami Narayanan, CC BY, via iNaturalist"
+       }
+      },
       "A sunflower seed",
-      "A sunflower",
+      {
+       "f": "A sunflower",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-11.jpg",
+        "credit": "Manav Dhamani, CC BY, via iNaturalist"
+       }
+      },
       "A tiny banyan seed",
-      "A huge banyan tree",
+      {
+       "f": "A huge banyan tree",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-13.jpg",
+        "credit": "Yoav Daniel Bar-Ness, CC BY, via iNaturalist"
+       }
+      },
       "A chilli seed",
-      "A chilli plant"
+      {
+       "f": "A chilli plant",
+       "img": {
+        "src": "media/cards/seeds-and-germination-g1-0-15.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      }
      ]
     }
    ],

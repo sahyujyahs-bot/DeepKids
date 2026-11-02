@@ -189,7 +189,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 ## Games
 ### g1 · Whisper Walk (10 min)
 - **rules:** Cut out the cards and put them face down.; The whisperer stands at one end of the room or the hallway.; The walkers stand at the far end, next to each other.; The whisperer picks a card and whispers the word. A child who cannot read yet gets the word whispered to them by a grown-up first.; If no walker can hear it, every walker takes one step closer, and the whisperer whispers the same word again.; The first walker to say the word right keeps the card.; Everyone goes back to the far end for the next card, and the next person becomes the whisperer. When the 6 cards run out, the most cards wins. If the cards are level, everyone wins.
-- **Printable cards: 6 Whisper Walk word cards:** Elephant; Peacock; Coconut; Dosa; Kite; Boat
+- **Printable cards: 6 Whisper Walk word cards:** Elephant [picture]; Peacock [picture]; Coconut [picture]; Dosa; Kite; Boat
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Read the rules together. You whisper first.  
   *Parent says:* I will whisper a word from far away. If you can't hear it, take one step closer. Let's see how close you need to come.  

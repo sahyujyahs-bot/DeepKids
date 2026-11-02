@@ -544,15 +544,15 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. Sti
 8. (mcq) Kavya claps her name: Ka-vya, 2 claps. How many claps is 'Mee-nak-shi'?  
    Options: 2 / 3 / 4  
    **Answer:** 3. *Why:* Mee-nak-shi has three parts, so it is three claps. That pattern of claps is the name's rhythm.
-9. (mcq) How many beats are in one round of Adi talam?  
-   Options: 4 / 8 / 16  
-   **Answer:** 8. *Why:* Adi talam has 8 beats: a clap, three finger counts, a clap and a wave, and a clap and a wave. Teentaal, in Hindustani music, is the one with 16.
+9. (mcq) In Adi talam, you clap, count three fingers, clap and wave, clap and wave, and then start again from the top. Why does a tala go round in a cycle like this?  
+   Options: It gives a steady beat that every musician can count and come back to together / It makes the song louder / It tells the singer which words to sing  
+   **Answer:** It gives a steady beat that every musician can count and come back to together. *Why:* A tala is a cycle of beats that repeats. Because everyone counts the same cycle, singers and drummers stay together and land on beat 1 at the same time. It does not change how loud the song is or what the words are.
 10. (mcq) Bidisha pats along to a lullaby and then to a dance song, for 15 seconds each. Which one usually gives more pats?  
    Options: The dance song / The lullaby / Every song gives the same number  
    **Answer:** The dance song. *Why:* A dance song usually has a faster tempo, so it has more beats in 15 seconds. Lullabies are slow, to help a baby calm down.
-11. (mcq) Snowball is a cockatoo in America. What did scientists see Snowball do?  
-   Options: Bob his head in time with music, and change speed when the music changed / Sing whole songs with words / Play a drum with sticks  
-   **Answer:** Bob his head in time with music, and change speed when the music changed. *Why:* Snowball danced to the beat. When the song was played faster or slower, he often changed his speed to match.
+11. (mcq) Scientists played a song to a cockatoo, first slow and then fast. How could they tell whether the bird was really keeping the beat?  
+   Options: The bird's head bobs speed up and slow down to match the music / The bird sings the words of the song / The bird plays a drum with sticks  
+   **Answer:** The bird's head bobs speed up and slow down to match the music. *Why:* If a bird only bobs at its own speed, it might be matching by luck. If its bobbing changes speed when the music changes, it is following the beat. A cockatoo has really been seen doing this.
 12. (mcq) Arjun wants to find out if the size of a box changes its sound. Which test is fair?  
    Options: Tap every box the same way, in the same place / Tap the small box gently and the big box hard / Tap only the biggest box  
    **Answer:** Tap every box the same way, in the same place. *Why:* In a fair test only one thing changes, here the size of the box. If the taps are different, you cannot tell what made the sound change.

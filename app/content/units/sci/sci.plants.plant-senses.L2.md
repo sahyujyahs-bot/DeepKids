@@ -497,9 +497,9 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **Bending plant roots with gravity** (Science Buddies, 1 min) id `FSMbrMxCyYU`: Shows roots turning to grow downwards when a seedling is turned, like the root box. *Check:* Found by search: "Bending Plant Roots with Gravity | STEM Lesson Plan" by Science Buddies, 1 minute, 25 seconds. A parent may preview it.
 
 ## Quiz
-1. (mcq) Nila, the girl in the story, put a cup of straight moong shoots by a window. The next day, which way did they lean?  
-   Options: Towards the window / Away from the window / They fell flat  
-   **Answer:** Towards the window. *Why:* The shoots sensed the light and grew towards it. Picking 'fell flat' may mean thinking the shoots were knocked over, but they stood up, only leaning.
+1. (mcq) You put a cup of straight moong shoots by a window. The next day, which way will they lean?  
+   Options: Towards the window / Away from the window / They fall flat  
+   **Answer:** Towards the window. *Why:* The shoots sense the light and grow towards it. Picking 'fall flat' may mean thinking the shoots get knocked over, but they stand up, only leaning.
 2. (mcq) Which part of a shoot senses the light?  
    Options: The tip / The roots / The seed  
    **Answer:** The tip. *Why:* Darwin covered the tips of seedlings, and they stopped bending to the light. Picking 'roots' mixes up light with gravity.

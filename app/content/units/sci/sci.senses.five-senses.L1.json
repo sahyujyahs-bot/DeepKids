@@ -250,7 +250,11 @@
       },
       {
        "f": "Jasmine flowers",
-       "b": "Nose"
+       "b": "Nose",
+       "img": {
+        "src": "media/cards/five-senses-g1-1-02.jpg",
+        "credit": "Nathasha K V, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A spoon of sugar in your mouth",
@@ -258,11 +262,19 @@
       },
       {
        "f": "A soft kitten",
-       "b": "Skin"
+       "b": "Skin",
+       "img": {
+        "src": "media/cards/five-senses-g1-1-04.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A crow cawing on the balcony",
-       "b": "Ears and eyes"
+       "b": "Ears and eyes",
+       "img": {
+        "src": "media/cards/five-senses-g1-1-05.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A hot cup of tea",

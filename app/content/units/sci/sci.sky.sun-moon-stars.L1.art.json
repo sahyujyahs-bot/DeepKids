@@ -1,7 +1,31 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.sky.sun-moon-stars.L1/expl.0.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.1": {
+  "src": "media/img/sci.sky.sun-moon-stars.L1/expl.1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "flow.a2": {
+  "src": "media/img/sci.sky.sun-moon-stars.L1/flow.a2.jpg",
+  "credit": "NASA, public domain"
+ },
+ "intro": {
+  "src": "media/img/sci.sky.sun-moon-stars.L1/intro.jpg",
+  "credit": "NASA/SDO/AIA, public domain"
+ },
+ "summary": {
+  "src": "media/img/sci.sky.sun-moon-stars.L1/summary.jpg",
+  "credit": "NASA/JPL-Caltech/JAXA, public domain"
+ },
  "term.0": {
   "src": "media/img/sci.sky.sun-moon-stars.L1/term.0.jpg",
   "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.sky.sun-moon-stars.L1/term.1.jpg",
+  "credit": "NASA, public domain"
  },
  "term.2": {
   "src": "media/img/sci.sky.sun-moon-stars.L1/term.2.jpg",

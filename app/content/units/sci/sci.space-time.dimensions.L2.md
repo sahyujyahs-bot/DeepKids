@@ -180,7 +180,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 ## Games
 ### g1 · Solid and Shape: a matching card game (15 min)
 - **rules:** Cut out the 12 cards. Mix them up and lay them face down in rows.; On your turn, turn over two cards.; If one is a solid and one is a flat shape, say how that solid could make that shape. Use its face, or a slice cut from it.; If the other players agree, keep the pair and have another turn. If not, turn both cards back over.; Many solids can make more than one shape. A birthday cap has a round end, and looks like a triangle from the side. Any match you can explain counts.; When all the cards are matched, the player with the most pairs wins.
-- **Printable cards: 12 cards: 6 solids and 6 flat shapes:** Solid: a dice; Solid: a matchbox; Solid: a steel tumbler; Solid: a ladoo; Solid: a birthday cap; Solid: a samosa; Flat shape: a square; Flat shape: a rectangle; Flat shape: a circle; Flat shape: a circle; Flat shape: a circle; Flat shape: a triangle
+- **Printable cards: 12 cards: 6 solids and 6 flat shapes:** Solid: a dice [picture]; Solid: a matchbox; Solid: a steel tumbler; Solid: a ladoo; Solid: a birthday cap; Solid: a samosa; Flat shape: a square; Flat shape: a rectangle; Flat shape: a circle; Flat shape: a circle; Flat shape: a circle; Flat shape: a triangle
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Read the rules aloud. 3. Put a real dice, a matchbox and a tumbler on the table to look at.  
   *Parent says:* Turn over two cards. If a solid and a flat shape match, tell us how. A face counts, and a slice counts.  

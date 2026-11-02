@@ -1,7 +1,95 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.11": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.11.jpg",
+  "drawn": true
+ },
+ "expl.13": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.13.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.7.jpg",
+  "drawn": true
+ },
  "expl.8": {
   "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/expl.8.jpg",
   "credit": "Nihal Mahesh, CC BY, via iNaturalist"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.a5": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.a6.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.c2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.e3": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/intro.jpg",
+  "drawn": true
  },
  "setup.e1.0": {
   "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/setup.e1.0.jpg",
@@ -44,8 +132,40 @@
   "drawn": true
  },
  "summary": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/summary.jpg",
+ "term.1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.16.jpg",
+  "drawn": true
+ },
+ "term.17": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.17.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.5.jpg",
+  "drawn": true
+ },
  "term.6": {
   "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.6.jpg",
   "credit": "pics_pd, CC0, via Wikimedia Commons"
+ },
+ "term.7": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L3/term.7.jpg",
+  "drawn": true
  }
 }

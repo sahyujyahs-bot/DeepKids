@@ -987,7 +987,11 @@
       },
       {
        "f": "A whole coconut",
-       "b": "Floats. Coconuts can float across the sea to new islands."
+       "b": "Floats. Coconuts can float across the sea to new islands.",
+       "img": {
+        "src": "media/cards/floating-and-sinking-g1-1-04.jpg",
+        "credit": "phiroza, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "An ice cube",

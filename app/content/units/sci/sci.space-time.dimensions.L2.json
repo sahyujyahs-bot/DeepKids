@@ -283,7 +283,13 @@
      "kind": "cards",
      "title": "12 cards: 6 solids and 6 flat shapes",
      "items": [
-      "Solid: a dice",
+      {
+       "f": "Solid: a dice",
+       "img": {
+        "src": "media/cards/dimensions-g1-0-00.jpg",
+        "credit": "PierreSelim, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
       "Solid: a matchbox",
       "Solid: a steel tumbler",
       "Solid: a ladoo",

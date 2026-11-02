@@ -496,7 +496,11 @@
       },
       {
        "f": "The Moon going from full moon to the next full moon",
-       "b": "Months or years: about a month, 29 and a half days."
+       "b": "Months or years: about a month, 29 and a half days.",
+       "img": {
+        "src": "media/cards/time-g2-1-07.jpg",
+        "credit": "NASA/Kim Shiflett, public domain"
+       }
       },
       {
        "f": "A baby growing inside the mother",
@@ -504,7 +508,11 @@
       },
       {
        "f": "The Earth going once round the Sun",
-       "b": "Months or years: one year."
+       "b": "Months or years: one year.",
+       "img": {
+        "src": "media/cards/time-g2-1-09.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "Milk teeth falling out and grown-up teeth growing in",

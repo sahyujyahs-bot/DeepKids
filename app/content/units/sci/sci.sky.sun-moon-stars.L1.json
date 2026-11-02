@@ -816,7 +816,11 @@
      "items": [
       {
        "f": "The Sun, shining",
-       "b": "DAY. When we can see the Sun, it is day where we are."
+       "b": "DAY. When we can see the Sun, it is day where we are.",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-00.jpg",
+        "credit": "NASA/JPL-Caltech/GSFC/JAXA, public domain"
+       }
       },
       {
        "f": "A bright blue sky",
@@ -828,7 +832,11 @@
       },
       {
        "f": "A full Moon",
-       "b": "NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight."
+       "b": "NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight.",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
       },
       {
        "f": "A pale half Moon",
@@ -840,11 +848,19 @@
       },
       {
        "f": "An owl hunting",
-       "b": "NIGHT. Many owls hunt at night, with their big eyes and sharp ears."
+       "b": "NIGHT. Many owls hunt at night, with their big eyes and sharp ears.",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-06.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A crow warming up on a ledge",
-       "b": "DAY. Crows sit in the morning sun to get warm."
+       "b": "DAY. Crows sit in the morning sun to get warm.",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-07.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Street lights switched on",
@@ -860,7 +876,11 @@
       },
       {
        "f": "A bat flying",
-       "b": "NIGHT. Many bats fly out at dusk to find food."
+       "b": "NIGHT. Many bats fly out at dusk to find food.",
+       "img": {
+        "src": "media/cards/sun-moon-stars-g1-0-11.jpg",
+        "credit": "sam-rajnikant, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Fireflies flashing",

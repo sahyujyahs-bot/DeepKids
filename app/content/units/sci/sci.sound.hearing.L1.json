@@ -245,7 +245,11 @@
      "items": [
       {
        "f": "A mosquito buzzing by your ear",
-       "b": "Near. A mosquito is soft, so if you hear one, it is very close."
+       "b": "Near. A mosquito is soft, so if you hear one, it is very close.",
+       "img": {
+        "src": "media/cards/hearing-g1-1-00.jpg",
+        "credit": "ginko14, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Thunder in a storm",
@@ -273,7 +277,11 @@
       },
       {
        "f": "A koel calling in a tree outside",
-       "b": "Middle or far. A koel is loud, so the bird can be quite far."
+       "b": "Middle or far. A koel is loud, so the bird can be quite far.",
+       "img": {
+        "src": "media/cards/hearing-g1-1-07.jpg",
+        "credit": "Tom Heijnen, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "The doorbell of your own flat",
