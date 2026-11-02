@@ -373,8 +373,20 @@
       "WALLS: Round mud walls",
       "WALLS: Laterite stone walls",
       "WALLS: Concrete frame with steel rods",
-      "WALLS: Bamboo walls",
-      "WALLS: Bamboo walls",
+      {
+       "f": "WALLS: Bamboo walls",
+       "img": {
+        "src": "media/cards/houses-and-shelter-g1-1-12.jpg",
+        "credit": "Jyotsna Nag, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "WALLS: Bamboo walls",
+       "img": {
+        "src": "media/cards/houses-and-shelter-g1-1-13.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
       "EXTRA: Bamboo stilts",
       "EXTRA: Bamboo stilts",
       "EXTRA: Lift and stairs",

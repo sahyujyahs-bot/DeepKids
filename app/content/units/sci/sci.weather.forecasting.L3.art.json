@@ -1,4 +1,8 @@
 {
+ "intro": {
+  "src": "media/img/sci.weather.forecasting.L3/intro.jpg",
+  "credit": "Kingshuk Mondal, CC BY 4.0, via Wikimedia Commons"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.weather.forecasting.L3/setup.e1.0.jpg",
   "drawn": true
@@ -54,5 +58,9 @@
  "term.6": {
   "src": "media/img/sci.weather.forecasting.L3/term.6.jpg",
   "credit": "Kingshuk Mondal, CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.8": {
+  "src": "media/img/sci.weather.forecasting.L3/term.8.jpg",
+  "credit": "ESO/G. Hüdepohl (atacamaphoto.com), CC BY 4.0, via Wikimedia Commons"
  }
 }

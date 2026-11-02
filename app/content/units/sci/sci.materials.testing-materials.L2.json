@@ -1040,7 +1040,11 @@
      "items": [
       {
        "f": "Rubber",
-       "b": "Stretchy and elastic. Waterproof."
+       "b": "Stretchy and elastic. Waterproof.",
+       "img": {
+        "src": "media/cards/testing-materials-g1-1-00.jpg",
+        "credit": "Fructibus, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Polythene",
@@ -1064,7 +1068,11 @@
       },
       {
        "f": "Banana leaf",
-       "b": "Waterproof. Soft and bendy."
+       "b": "Waterproof. Soft and bendy.",
+       "img": {
+        "src": "media/cards/testing-materials-g1-1-06.jpg",
+        "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Steel",

@@ -9635,7 +9635,10 @@ function moreView() {
   const du = dailyUnit(),
     open = S.exps.filter((e) => !e.closed),
     li = learnItems().length;
-  let h = `<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
+  const oc = openCount(),
+    row = (act, ic, label, sub, extra = "") =>
+      `<button class="menurow" data-act="${act}" ${extra}><span class="mqi">${icon(ic)}</span><span><b>${label}</b><br><span class="xs muted">${sub}</span></span>${icon("next")}</button>`;
+  let h = `${row("quizgo", "spark", "Quick quiz", "A few questions on what was learned")}${row("uploads", "plus", "Add photos", "Work samples and things made")}${row("lifeadd", "plus", "Something they did", "A class, cooking, a question")}${row("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${row("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}<button class="menurow" data-act="learn">${youBlob("", "calm", 'width="40" height="40"')}<span><b>For you</b><br><span class="xs muted">${li ? li + " guides and readings for today and tomorrow" : "Guides for teaching each topic"}</span></span>${icon("next")}</button>`;
   h += `<button class="menurow" data-act="games">${blob("var(--gum)", 21, "wow", "", 'width="40" height="40"')}<span><b>Jokes and games</b><br><span class="xs muted">Word of the Day, True or False, Odd One Out</span></span>${icon("next")}</button>`;
   if (du)
     h += `<div class="hs">${du.c.x.jokes
@@ -10127,49 +10130,16 @@ function viewToday() {
     h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
   h += `</section><div class="lotusline" aria-hidden="true"></div>${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
   window.FXANIMED = 1;
-  {
-    const oc = openCount(),
-      tile = (act, ic, label, sub, extra = "") =>
-        `<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;
-    h += `<div class="qtiles">${tile("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${tile("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}${tile("quizgo", "spark", "Quick quiz", "Ask a few questions")}${tile("uploads", "plus", "Add photos", "Work samples")}${tile("lifeadd", "plus", "Something they did", "a class, cooking, a question")}</div>`;
-  }
-  h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
+  h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button>`;
   return h;
 }
 function fxTodayTop(animate) {
-  const wd = parse(today).getDay(),
-    mon = addDays(today, -((wd + 6) % 7));
-  let planned = 0,
-    doneM = 0;
-  for (let i = 0; i < 7; i++) {
-    const d = addDays(mon, i);
-    if (d >= today)
-      dayPlan(d)
-        .filter((x) => x.kind === "lesson" && !x.done)
-        .forEach((x) => (planned += x.dur));
-  }
-  // learned = the minutes really timed (lesson steps and time inside units); a lesson marked done without a timer counts its planned minutes
-  const timed = {};
-  Object.entries(S.mins || {}).forEach(([k, m]) => {
-    const [d, sj] = k.split("|");
-    if (d >= mon && d <= today) timed[d + "|" + sj] = m;
-  });
-  S.log
-    .filter((l) => l.date >= mon && l.date <= today && l.kind !== "skipped")
-    .forEach((l) => {
-      const m = lessonMins(l.subj);
-      planned += m;
-      if (!timed[l.date + "|" + l.subj]) timed[l.date + "|" + l.subj] = m;
-    });
-  doneM = Object.values(timed).reduce((a, b) => a + b, 0);
   const units = Object.keys(DATA.units || {}).map((id) => ({
     id,
     st: fxUnitSt("unit|" + id),
     t: Object.values(fxSt().time[id] || {}).reduce((a, b) => a + b, 0),
   }));
-  const going = units.filter((x) => x.st === "learning").sort((a, b) => b.t - a.t),
-    doneU = units.filter((x) => rank[x.st] >= 2).length;
-  const tiles = `<div class="fxgoals"><button class="fxgoal plain" data-act="hist"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span><em class="goalgo">See history ›</em></button><button class="fxgoal plain" data-act="tofinish"><b>${going.length}<small> started · ${doneU} finished</small></b><span>topics</span><em class="goalgo">See the list ›</em></button></div>`;
+  const going = units.filter((x) => x.st === "learning").sort((a, b) => b.t - a.t);
   const c = going[0];
   let cont = "";
   if (c) {
@@ -10185,7 +10155,7 @@ function fxTodayTop(animate) {
         ? ["empty-done", "All of today's lessons are done. Well learned!"]
         : null;
   const em = pic ? `<div class="fxempty"><img src="media/ui/${pic[0]}.jpg" alt=""><p>${pic[1]}</p></div>` : "";
-  return `<section class="sec fxtoday${animate ? " fxanim" : ""}">${tiles}${em}${cont}</section>`;
+  return em || cont ? `<section class="sec fxtoday${animate ? " fxanim" : ""}">${em}${cont}</section>` : "";
 }
 
 /* Plan: Calendar, Up next, To finish, Shopping, Refresher, Plan settings, and the work lists behind them */

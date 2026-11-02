@@ -465,7 +465,11 @@
       },
       {
        "f": "A low grey sheet of cloud over the whole sky.",
-       "b": "Steady rain"
+       "b": "Steady rain",
+       "img": {
+        "src": "media/cards/forecasting-g1-0-05.jpg",
+        "credit": "Rollcloud, CC BY 3.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "No clouds at all, dry air, no wind, in March.",
