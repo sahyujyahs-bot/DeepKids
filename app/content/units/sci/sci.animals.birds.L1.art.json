@@ -43,6 +43,18 @@
   "src": "media/img/sci.animals.birds.L1/intro.jpg",
   "credit": "avocat, CC BY, via iNaturalist"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.animals.birds.L1/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.animals.birds.L1/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.animals.birds.L1/setup.e1.2.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.animals.birds.L1/summary.jpg",
   "credit": "John Brew, CC BY, via iNaturalist"
