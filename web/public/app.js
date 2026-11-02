@@ -9845,13 +9845,13 @@ const ADDK = [
   ["class", "🏸", "Class", "Swimming, Science tuition, tabla"],
   ["interest", "💡", "Interest", "Dinosaurs, stitching, space"],
   ["todo", "✅", "To-do", "Buy chart paper"],
-  ["outing", "🚌", "Outing or plan", "Zoo trip, cousin's wedding"],
-  ["did", "🧺", "Something they did", "Made rotis, planted beans"],
-  ["went", "📍", "Place they went", "Planetarium, the beach"],
+  ["outing", "🚌", "Outing or plan", "Zoo trip, cousin's wedding", "Outing"],
+  ["did", "🧺", "Something they did", "Made rotis, planted beans", "They did"],
+  ["went", "📍", "Place they went", "Planetarium, the beach", "Went to"],
   ["remind", "⏰", "Reminder", "Pay the tuition fees"],
-  ["rest", "🍽️", "Rest or meal", "Lunch, nap, quiet time"],
+  ["rest", "🍽️", "Rest or meal", "Lunch, nap, quiet time", "Rest, meal"],
   ["other", "🩺", "Appointment", "Dentist, parent-teacher meet"],
-  ["have", "📚", "Something we own", "Microscope, Lego, Tinkle comics"],
+  ["have", "📚", "Something we own", "Microscope, Lego, Tinkle comics", "We own"],
 ];
 const ADDJOB = {
   class: "It goes on the calendar every week. Mark it done on Today and the hours build up as a skill.",
@@ -9890,7 +9890,7 @@ function quickAdd(date) {
     dated = !["interest", "have"].includes(kd) && !(repeats && r !== "once"),
     life = kd === "did" || kd === "went";
   return `<div class="addbox">
-   <div class="addkinds">${ADDK.map(([k, e, n]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${n}</button>`).join("")}</div>
+   <div class="addkinds">${ADDK.map(([k, e, n, , sh]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${sh || n}</button>`).join("")}</div>
    <div class="addform"><label class="sm" for="qa-t"><b>${K[2]}</b></label><input class="inp" id="qa-t" maxlength="${kd === "have" ? 300 : 80}" value="${esc(Q.t || "")}" placeholder="${esc(K[3])}">
    ${
      timed
@@ -11285,23 +11285,21 @@ function askList() {
   Q.push([`What does ${esc(S.child || "your child")} love doing these days?`, "say:These days they love: "]);
   return Q.slice(0, 3);
 }
+// "Type or speak": write plans in a sentence or send a photo of a timetable, and DeepKids sorts them into the plan
 function dumpCard() {
-  const D_ = ui.dump || {},
-    empty = !D_.text && !D_.items && !D_.files?.length,
-    head = `<div class="row" style="flex-wrap:nowrap;gap:12px;align-items:center">${blob("var(--aqua)", 3, "wow", "", 'width="44" height="44"')}<div><h3 style="font-size:19px">Tell DeepKids your plans</h3><p class="xs muted">Type or speak your plans, or send a photo of a timetable. DeepKids adds them to your plan.</p></div></div>`;
+  const D_ = ui.dump || {};
   if (!fxAIOn())
-    return `<button class="dumpline" data-act="plus" data-r="chat"><span class="inp">Tell DeepKids your plans…</span><span class="pill">🔒 Plus</span></button>`;
-  return `<section class="card dump">${head}
+    return `<button class="dumpline" data-act="plus" data-r="chat"><span class="inp">Type or speak your plans…</span><span class="pill">🔒 Plus</span></button>`;
+  return `<div class="dump"><p class="xs muted">Type or speak your plans, or send a photo of a timetable. DeepKids adds them to your plan.</p>
    ${D_.chat?.length || D_.items ? `<div class="chat">${D_.text ? `<div class="bub me">${esc(D_.text.split("\n")[0].slice(0, 200))}${D_.text.includes("\n") ? "…" : ""}</div>` : ""}</div>` : ""}
    ${D_.items ? `<div class="col" style="gap:8px"><span class="xs muted">Here's what we found. Untick anything that's wrong.</span>${D_.items.map((it, i) => `<div class="parsed ${it.keep ? "" : "off"}"><button class="ck ${it.keep ? "on" : ""}" data-act="dkeep" data-i="${i}" aria-label="Keep">${icon("check")}</button><div><input class="ptitle" data-pi="${i}" value="${esc(it.title)}" maxlength="80" aria-label="Name (tap to change)"><p class="xs muted">${esc(parsedLine(it))}</p></div><button class="pill" data-act="dwho" data-i="${i}">${it.type === "have" ? "We have it" : it.type === "interest" ? "Interest" : ROLE[it.who] || "For you"}</button></div>`).join("")}${dumpChat(D_)}<div class="row"><button class="btn green" data-act="dadd">${icon("check")}Add ${D_.items.filter((x) => x.keep).length} to my plan</button><button class="btn line sm" data-act="dclear">Clear</button></div></div>` : dumpChat(D_)}
    ${D_.err ? `<p class="sm" style="color:var(--bad)">${esc(D_.err)}</p>` : ""}
    ${needAICard(D_)}
    ${D_.files?.length ? `<div class="row" style="gap:6px"><span class="chip" style="pointer-events:none">${icon("plus")}${D_.files.length} photo${D_.files.length > 1 ? "s" : ""} attached</span><button class="link xs" data-act="dnofiles">Remove</button></div>` : ""}
-   <div class="composer tall ${D_.busy ? "busy" : ""}">${IMGOK && SAMPLE ? `<label class="cbtn" aria-label="Add a photo or screenshot">📷<input type="file" id="dumpImg" accept="image/*" multiple hidden></label>` : lockBtn("photo", "cbtn", "📷")}<textarea class="inp" id="dumpText" rows="3" placeholder="${D_.items || D_.chat?.length ? "Add more…" : "Type or speak a plan…"}">${esc(D_.items ? "" : D_.text || "")}</textarea><button class="send" data-act="dump" aria-label="Sort it into my plan" ${D_.busy ? "disabled" : ""}>${D_.busy ? `<span class="dots"><i></i><i></i><i></i></span>` : icon("next")}</button></div>
+   <div class="composer tall ${D_.busy ? "busy" : ""}">${IMGOK && SAMPLE ? `<label class="cbtn" aria-label="Add a photo or screenshot">📷<input type="file" id="dumpImg" accept="image/*" multiple hidden></label>` : lockBtn("photo", "cbtn", "📷")}<textarea class="inp" id="dumpText" rows="3" placeholder="${D_.items || D_.chat?.length ? "Add more…" : "Swimming every Tue and Thu, 5 to 6 pm"}">${esc(D_.items ? "" : D_.text || "")}</textarea><button class="send" data-act="dump" aria-label="Sort it into my plan" ${D_.busy ? "disabled" : ""}>${D_.busy ? `<span class="dots"><i></i><i></i><i></i></span>` : icon("next")}</button></div>
    ${D_.busy ? `<p class="xs muted">Reading it and putting it on your plan…</p>` : ""}
-   ${empty ? `<div class="dex">${DEX.map(([l, t]) => `<button class="chip" data-act="dex" data-t="${esc(t)}">${esc(l)}</button>`).join("")}</div>` : ""}
    ${SAMPLE ? "" : `<p class="xs muted">Read on this phone, however long: classes, trips, times, days, dates, rest, to-dos and things you own. Reading a photo 📷 is part of DeepKids Plus.</p>`}
-</section>`;
+</div>`;
 }
 // a found item's name can be changed before it goes in
 function ptitleInput(e) {
@@ -11343,11 +11341,19 @@ function parsedLine(it) {
 // One part of the Plan screen; the tabs below put these together
 function planPart(k) {
   const v = ui.pv || "week";
-  // adding to the plan: the own-words chat (Plus) in one line, Add by hand, DeepKids' questions, everything you've added
+  // adding to the plan: one card, picking what it is or typing it (Plus); then DeepKids' questions and everything you've added
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec">${dumpCard()}</section><section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3>${quickAdd(ui.pday || today)}</div></section>` +
+      `<section class="sec"><div class="card"><h3 style="font-size:19px">Add to your plan</h3><div class="seg addmode">${[
+        ["pick", "Pick what it is"],
+        ["say", "Type or speak"],
+      ]
+        .map(
+          ([m, n]) =>
+            `<button aria-pressed="${(ui.addmode || "pick") === m}" data-act="addmode" data-m="${m}">${n}</button>`,
+        )
+        .join("")}</div>${ui.addmode === "say" ? dumpCard() : quickAdd(ui.pday || today)}</div></section>` +
       (Q.length ? plPart("asks") : "") +
       (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
     );
@@ -15609,13 +15615,6 @@ function segBar(k) {
 }
 const pageHead = (t, extra = "") =>
   `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${t}</h1>${extra}</div>`;
-const DEX = [
-  ["A class or tuition", "Swimming every Tue and Thu 5 to 6 pm"],
-  ["A trip or outing", "Visiting grandma in Mysore from 2 to 5 Nov"],
-  ["Rest or meals", "Liri naps 2 to 3 pm every day"],
-  ["Something we own", "We have a microscope, Ludo and a globe"],
-  ["A to-do", "Buy a geometry box this week"],
-];
 const navSnap = () => ({
   tab,
   lt: ui.lt,
@@ -17586,15 +17585,10 @@ function onAct(e) {
       commit();
       break;
     }
-    case "dex": {
-      const t = document.getElementById("dumpText");
-      if (t) {
-        t.value = b.dataset.t;
-        t.dispatchEvent(new Event("input", { bubbles: true }));
-        t.focus();
-        t.select();
-      }
+    case "addmode": {
+      ui.addmode = b.dataset.m;
       sfx("tap");
+      render();
       break;
     }
     case "dnofiles": {

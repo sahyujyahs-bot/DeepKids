@@ -595,7 +595,11 @@
       },
       {
        "f": "Tug of war",
-       "b": "Hands pull the rope, feet push on the ground"
+       "b": "Hands pull the rope, feet push on the ground",
+       "img": {
+        "src": "media/cards/physics-of-sport-g2-0-10.jpg",
+        "credit": "LemonLad1111111, CC0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Running on sand",

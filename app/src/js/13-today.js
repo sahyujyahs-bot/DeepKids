@@ -336,13 +336,13 @@ const ADDK = [
   ["class", "🏸", "Class", "Swimming, Science tuition, tabla"],
   ["interest", "💡", "Interest", "Dinosaurs, stitching, space"],
   ["todo", "✅", "To-do", "Buy chart paper"],
-  ["outing", "🚌", "Outing or plan", "Zoo trip, cousin's wedding"],
-  ["did", "🧺", "Something they did", "Made rotis, planted beans"],
-  ["went", "📍", "Place they went", "Planetarium, the beach"],
+  ["outing", "🚌", "Outing or plan", "Zoo trip, cousin's wedding", "Outing"],
+  ["did", "🧺", "Something they did", "Made rotis, planted beans", "They did"],
+  ["went", "📍", "Place they went", "Planetarium, the beach", "Went to"],
   ["remind", "⏰", "Reminder", "Pay the tuition fees"],
-  ["rest", "🍽️", "Rest or meal", "Lunch, nap, quiet time"],
+  ["rest", "🍽️", "Rest or meal", "Lunch, nap, quiet time", "Rest, meal"],
   ["other", "🩺", "Appointment", "Dentist, parent-teacher meet"],
-  ["have", "📚", "Something we own", "Microscope, Lego, Tinkle comics"],
+  ["have", "📚", "Something we own", "Microscope, Lego, Tinkle comics", "We own"],
 ];
 const ADDJOB = {
   class: "It goes on the calendar every week. Mark it done on Today and the hours build up as a skill.",
@@ -381,7 +381,7 @@ function quickAdd(date) {
     dated = !["interest", "have"].includes(kd) && !(repeats && r !== "once"),
     life = kd === "did" || kd === "went";
   return `<div class="addbox">
-   <div class="addkinds">${ADDK.map(([k, e, n]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${n}</button>`).join("")}</div>
+   <div class="addkinds">${ADDK.map(([k, e, n, , sh]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${sh || n}</button>`).join("")}</div>
    <div class="addform"><label class="sm" for="qa-t"><b>${K[2]}</b></label><input class="inp" id="qa-t" maxlength="${kd === "have" ? 300 : 80}" value="${esc(Q.t || "")}" placeholder="${esc(K[3])}">
    ${
      timed

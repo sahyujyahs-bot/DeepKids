@@ -68,13 +68,6 @@ function segBar(k) {
 }
 const pageHead = (t, extra = "") =>
   `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">${t}</h1>${extra}</div>`;
-const DEX = [
-  ["A class or tuition", "Swimming every Tue and Thu 5 to 6 pm"],
-  ["A trip or outing", "Visiting grandma in Mysore from 2 to 5 Nov"],
-  ["Rest or meals", "Liri naps 2 to 3 pm every day"],
-  ["Something we own", "We have a microscope, Ludo and a globe"],
-  ["A to-do", "Buy a geometry box this week"],
-];
 const navSnap = () => ({
   tab,
   lt: ui.lt,

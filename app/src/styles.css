@@ -3797,14 +3797,6 @@ a.btn {
     opacity: 0.5;
   }
 }
-.dex {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-.dex .chip {
-  font-size: 13px;
-}
 .dumpline {
   display: flex;
   align-items: center;
@@ -3831,32 +3823,33 @@ a.btn {
   display: grid;
   gap: 14px;
 }
+/* the ten kinds of thing to add: a compact grid of five, an emoji over a short name */
 .addkinds {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
   gap: 6px;
 }
 .addk {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  padding: 6px 11px;
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+  padding: 8px 2px;
   border: 1.5px solid var(--line);
-  border-radius: 999px;
+  border-radius: 14px;
   background: var(--surface);
   color: var(--ink);
-  font: inherit;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 1.2;
-  cursor: pointer;
+  font: 600 12px/1.15 var(--body);
+  text-align: center;
 }
 .addk > span {
-  font-size: 16px;
+  font-size: 20px;
 }
 .addk[aria-pressed="true"] {
-  background: var(--sun);
-  border-color: var(--ink);
+  background: color-mix(in srgb, var(--sun) 25%, #fff);
+  border-color: var(--sun);
+}
+.addmode {
+  margin: 10px 0 12px;
 }
 .addform {
   display: grid;

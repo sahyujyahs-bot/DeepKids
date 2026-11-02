@@ -1060,7 +1060,11 @@
       },
       {
        "f": "Newspaper",
-       "b": "Absorbent. Hardly stretches."
+       "b": "Absorbent. Hardly stretches.",
+       "img": {
+        "src": "media/cards/testing-materials-g1-1-04.jpg",
+        "credit": "Kai Hendry from Singapore, Malaysia, CC BY 2.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "Foil",

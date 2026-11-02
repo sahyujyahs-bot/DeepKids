@@ -51,6 +51,7 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
     document.getElementById("guide")?.remove();
   }); // walkthrough off: guide.js tests it
   const out = {};
+  await p.click('[data-act="moresheet"]'); // "Something they did" sits in More for today
   await p.click('[data-act="lifeadd"]');
   await p.click('[data-act="lifekind"][data-k="class"]');
   await p.fill("#lfTitle", "Badminton");

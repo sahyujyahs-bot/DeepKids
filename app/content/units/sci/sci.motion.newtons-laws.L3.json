@@ -462,7 +462,11 @@
       },
       {
        "f": "A carrom striker glides over a powdered board. Keep going or change?",
-       "b": "Keep going, almost. The powder gives very little friction."
+       "b": "Keep going, almost. The powder gives very little friction.",
+       "img": {
+        "src": "media/cards/newtons-laws-g1-0-08.jpg",
+        "credit": "Unknown, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "A card is flicked fast from under a coin on a tumbler. Keep going or change?",

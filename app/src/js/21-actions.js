@@ -1627,15 +1627,10 @@ function onAct(e) {
       commit();
       break;
     }
-    case "dex": {
-      const t = document.getElementById("dumpText");
-      if (t) {
-        t.value = b.dataset.t;
-        t.dispatchEvent(new Event("input", { bubbles: true }));
-        t.focus();
-        t.select();
-      }
+    case "addmode": {
+      ui.addmode = b.dataset.m;
       sfx("tap");
+      render();
       break;
     }
     case "dnofiles": {
