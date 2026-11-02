@@ -378,9 +378,21 @@
       },
       "a dabbawala in Mumbai carrying lunch boxes",
       "a girl who just moved from Kolkata to Hyderabad",
-      "a cow on a road",
+      {
+       "f": "a cow on a road",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-21.jpg",
+        "credit": "Paul Asman, CC BY, via iNaturalist"
+       }
+      },
       "a tourist who speaks no Tamil in Madurai",
-      "a mosquito looking for blood"
+      {
+       "f": "a mosquito looking for blood",
+       "img": {
+        "src": "media/cards/me-and-others-g1-0-23.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

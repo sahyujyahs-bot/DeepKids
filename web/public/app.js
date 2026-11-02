@@ -15373,7 +15373,7 @@ const GUIDE = {
     [
       ".card.dump",
       "Plan your days",
-      "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
+      "Type your classes, trips, holidays or worries. DeepKids plans around them.",
     ],
     [".fxfold", "To-dos and other plans", "Things to get ready for coming lessons, and your own to-dos."],
   ],
@@ -15574,7 +15574,7 @@ const SEGS = {
     [
       "days",
       "Planner",
-      "Tell us your family's week in your own words, answer DeepKids' questions, and see your classes and to-dos.",
+      "Tell DeepKids your plans, answer its questions, and see your classes and to-dos.",
     ],
     ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],

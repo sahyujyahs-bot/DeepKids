@@ -33,7 +33,7 @@ const GUIDE = {
     [
       ".card.dump",
       "Plan your days",
-      "Type classes, trips, holidays or worries in your own words. DeepKids re-plans around them.",
+      "Type your classes, trips, holidays or worries. DeepKids plans around them.",
     ],
     [".fxfold", "To-dos and other plans", "Things to get ready for coming lessons, and your own to-dos."],
   ],
