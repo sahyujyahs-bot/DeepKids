@@ -421,9 +421,9 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
    **Answer:** Your breath, which is air. *Why:* A bubble is a thin skin of soapy water with your breath inside. Your breath is air.
 
 ## Videos
-- **Wind moving trees, clothes and kites: a short film for young children** (, 3 min) id `to find`: Shows that we cannot see wind, but we can see what moving air pushes. *Check:* Find a real, accurate video for age 6. Check it says wind is moving air, and does not say trees make the wind.
-- **Soap bubbles floating in a breeze, in slow motion** (, 2 min) id `to find`: Shows air trapped inside a bubble, and bubbles carried by moving air. *Check:* Find calm, real footage with no wrong facts in the words.
-- **Why is the sky blue? A simple film** (, 3 min) id `to find`: Shows that the sky is blue because air sends back blue sunlight, so the sky is air we can see. *Check:* Check it says the air itself scatters blue light, not that the sky reflects the sea.
+- **Where Does Wind Come From? The Science of Flying** (SciShow Kids, 5 min) id `oHUVxkx8QRo`: Explains that wind is moving air that we cannot see, and what moving air can push. *Check:* Found by search: "Where Does Wind Come From? | The Science of Flying" by SciShow Kids, 5 minutes. A parent may preview it.
+- **Fun With Bubbles! Physics for Kids** (SciShow Kids, 4 min) id `XxU_QenIO54`: Shows soap bubbles up close, with air trapped inside each bubble. *Check:* Found by search: "Fun With Bubbles! | Physics for Kids" by SciShow Kids, 4 minutes. A parent may preview it.
+- **Why Is the Sky Blue?** (NASA Space Place, 3 min) id `ehUIlhKhzDA`: Shows that the sky is blue because air scatters blue sunlight, so the sky is air we can see. *Check:* Found by search: "Why Is the Sky Blue?" by NASA Space Place, 2 minutes. A parent may preview it.
 
 ## Quiz
 1. (mcq) Where is there air?  

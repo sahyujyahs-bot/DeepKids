@@ -383,9 +383,9 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
    **Answer:** The father hornbill. *Why:* The father hornbill brings fruit to a thin slit in the wall, and passes it to the mother and, later, the chicks.
 
 ## Videos
-- **Pigeon chicks growing, from hatching to flying, day by day** (, 3 min) id `to find`: Shows in a few minutes how pink, fluffy chicks become grey pigeons. *Check:* Find a real day-by-day video of rock pigeon squabs. Check the birds are pigeons, and that nobody handles the chicks.
-- **A tadpole turning into a frog, as a time-lapse** (, 3 min) id `to find`: Shows a baby who looks nothing like the parent changing into the grown-up shape. *Check:* Find a real time-lapse of one tadpole growing legs and losing the tail. Check it is not a cartoon.
-- **An elephant herd caring for a young calf** (, 3 min) id `to find`: Shows the mother, the aunts and the oldest female looking after a calf together. *Check:* Find a real wildlife clip of wild elephants, ideally Asian elephants in India. Check the narration is accurate and calm for a 6-year-old.
+- **Growth of baby pigeons, from hatching to 4 weeks old** (Lost In The Wild Canada, 3 min) id `bDvSH7LhK8k`: Shows in a few minutes how pink, fluffy chicks become grey pigeons. *Check:* Found by search: "Growth of baby pigeons | From hatching to 4 weeks old" by Lost In The Wild Canada, 3 minutes, 8 seconds. A parent may preview it.
+- **Tadpoles growing into frogs, a time-lapse** (Temponaut Timelapse, 4 min) id `nDPw3AXbhSM`: Shows a baby who looks nothing like the parent changing into the grown-up shape. *Check:* Found by search: "Tadpoles Development Time-lapse" by Temponaut Timelapse, 3 minutes, 46 seconds. A parent may preview it.
+- **An elephant herd welcomes a newborn calf** (BBC Earth, 3 min) id `ciVsS-oZEPc`: Shows a whole elephant herd gathering around a newborn calf to look after it. *Check:* Found by search: "Elephant Herd Celebrates a New Born Calf" by BBC Earth, 2 minutes, 39 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Which of these animals has young?  

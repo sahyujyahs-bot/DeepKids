@@ -1106,31 +1106,28 @@
  ],
  "videos": [
   {
-   "title": "Wind moving trees, clothes and kites: a short film for young children",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "Shows that we cannot see wind, but we can see what moving air pushes.",
-   "check": "Find a real, accurate video for age 6. Check it says wind is moving air, and does not say trees make the wind."
+   "title": "Where Does Wind Come From? The Science of Flying",
+   "channel": "SciShow Kids",
+   "youtube": "oHUVxkx8QRo",
+   "mins": 5,
+   "why": "Explains that wind is moving air that we cannot see, and what moving air can push.",
+   "check": "Found by search: \"Where Does Wind Come From? | The Science of Flying\" by SciShow Kids, 5 minutes. A parent may preview it."
   },
   {
-   "title": "Soap bubbles floating in a breeze, in slow motion",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "Shows air trapped inside a bubble, and bubbles carried by moving air.",
-   "check": "Find calm, real footage with no wrong facts in the words."
+   "title": "Fun With Bubbles! Physics for Kids",
+   "channel": "SciShow Kids",
+   "youtube": "XxU_QenIO54",
+   "mins": 4,
+   "why": "Shows soap bubbles up close, with air trapped inside each bubble.",
+   "check": "Found by search: \"Fun With Bubbles! | Physics for Kids\" by SciShow Kids, 4 minutes. A parent may preview it."
   },
   {
-   "title": "Why is the sky blue? A simple film",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why Is the Sky Blue?",
+   "channel": "NASA Space Place",
+   "youtube": "ehUIlhKhzDA",
    "mins": 3,
-   "why": "Shows that the sky is blue because air sends back blue sunlight, so the sky is air we can see.",
-   "check": "Check it says the air itself scatters blue light, not that the sky reflects the sea."
+   "why": "Shows that the sky is blue because air scatters blue sunlight, so the sky is air we can see.",
+   "check": "Found by search: \"Why Is the Sky Blue?\" by NASA Space Place, 2 minutes. A parent may preview it."
   }
  ],
  "quiz": [

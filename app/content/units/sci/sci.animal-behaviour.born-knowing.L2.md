@@ -452,8 +452,8 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
    **Answer:** For example: a spider is born knowing how to spin, but she still picks where to put her web and mends holes. So she is making choices too.. *Why:* A strong answer uses a fact about choices the spider makes, and can also say what Grace's idea gets right: the know-how is the same in every spider of a kind.
 
 ## Videos
-- **A spider spinning a round web, start to finish** (, 4 min) id `to find`: Shows the spokes going out from the middle and the spiral laid round them, as in the Web Watch. *Check:* Find a real, clear time-lapse of an orb-web spider spinning. Check that it does not say a mother spider teaches her young.
-- **Olive ridley hatchlings crawling to the sea in Odisha** (, 3 min) id `to find`: Shows hatchlings coming out of the sand and heading straight for the sea, as in the Turtle Run game. *Check:* Find a real clip from Rushikulya or Gahirmatha, or from a Chennai turtle walk. Check that nobody handles the hatchlings roughly.
+- **Beautiful spider web build time-lapse** (BBC Earth, 5 min) id `zNtSAQHNONo`: Shows the spokes going out from the middle and the spiral laid round them, as in the Web Watch. *Check:* Found by search: "Beautiful Spider Web Build Time-lapse | BBC Earth" by BBC Earth, 4 min 37 s. A parent may preview it.
+- **Baby sea turtles hatch and walk to the ocean** (The Dodo, 2 min) id `fKPKfC7SnDM`: Shows hatchlings coming out of the sand and heading straight for the sea, as in the Turtle Run game (sea turtles, not filmed in Odisha). *Check:* Found by search: "Baby Sea Turtles Hatch and Walk To The Ocean" by The Dodo, 1 min 46 s. A parent may preview it.
 - **Arabella and Anita: spiders spinning webs in space, 1973** (, 3 min) id `to find`: Shows the webs spun on the Skylab space station, for the How We Found Out card. *Check:* Find a NASA clip or an accurate short film. Check that Judith Miles is named as the student who suggested the test.
 
 ## Quiz
