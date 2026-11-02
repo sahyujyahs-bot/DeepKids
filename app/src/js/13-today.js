@@ -58,7 +58,7 @@ function ioptsView() {
 function todayHero(parts) {
   dayCheer();
   const st = streak(),
-    bits = [...parts, ...(st > 1 ? [`<span class="streak">${st} days in a row</span>`] : [])];
+    bits = [...parts, ...(st > 1 ? [`<span class="streak" title="${st} days in a row">🔥 ${st} days</span>`] : [])];
   return `<section class="thero ${dayPart() < 2 ? "" : "night"}"><img src="${greetPic()}" alt=""><div class="therotxt"><h1>${greetWord()}${pname() ? ", " + esc(pname()) : ""}</h1><p>${bits.map((b) => `<span>${b}</span>`).join("")}</p></div></section>`;
 }
 function calHead(d) {
@@ -625,7 +625,7 @@ function viewToday() {
     doneL = real.filter((i) => i.done);
   let h = todayHero([
     ...(S.child ? [esc(S.child) + "'s day"] : []),
-    longDate(),
+    shortDate(),
     real.length ? `${dn} of ${real.length} done` : "nothing planned",
   ]);
   if (S.setup && !S.parent?.saved && !S.parent?.name)

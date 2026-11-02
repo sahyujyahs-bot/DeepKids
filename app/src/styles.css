@@ -6869,7 +6869,7 @@ body {
   display: flex;
   flex-wrap: nowrap;
   overflow: hidden;
-  font: 700 clamp(11px, 3.3vw, 13.5px) / 1.5 var(--body);
+  font: 700 14px/1.5 var(--body);
   color: var(--ink);
   margin-top: 4px;
 }

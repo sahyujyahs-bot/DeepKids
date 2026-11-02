@@ -34,7 +34,7 @@ const addDays = (s, n) => {
   d.setDate(d.getDate() + n);
   return iso(d);
 };
-const longDate = () => new Date().toLocaleDateString(undefined, { weekday: "long", day: "numeric", month: "long" });
+const shortDate = () => new Date().toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" });
 const nowMin = () => {
   const d = new Date();
   return d.getHours() * 60 + d.getMinutes();
