@@ -4932,9 +4932,6 @@ input.fxin {
   font: 700 15px var(--body);
   padding: 0 12px;
 }
-.fxact .fxaskb {
-  background: var(--tang);
-}
 .fxfab {
   position: fixed;
   right: 12px;
@@ -5614,7 +5611,6 @@ dialog .fxfab {
   padding: 8px 12px;
   margin: 10px 0;
 }
-body.ai-locked [data-fx="chat"]::after,
 body.ai-locked [data-fx="askcard"]::after,
 body.ai-locked [data-fx="photo"]::after {
   content: " 🔒";

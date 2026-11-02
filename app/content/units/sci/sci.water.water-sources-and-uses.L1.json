@@ -394,9 +394,21 @@
      "items": [
       "A cat",
       "Laps with a fast tongue",
-      "An elephant",
+      {
+       "f": "An elephant",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g2-0-02.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
       "Fills a trunk and squirts the water into the mouth",
-      "A pigeon",
+      {
+       "f": "A pigeon",
+       "img": {
+        "src": "media/cards/water-sources-and-uses-g2-0-04.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
       "Sucks water up like a straw",
       "A frog",
       "Drinks through the skin",

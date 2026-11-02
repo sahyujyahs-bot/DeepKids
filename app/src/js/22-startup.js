@@ -883,7 +883,7 @@ document.addEventListener(
   (e) => {
     if (fxAIOn()) return;
     // the buttons that open an AI feature open IAm's Plus page instead; the chat's own buttons are never blocked
-    const b = e.target.closest('[data-fx="chat"],[data-fx="askcard"],[data-fx="photo"],.fxfab');
+    const b = e.target.closest('[data-fx="askcard"],[data-fx="photo"],.fxfab');
     if (!b) return;
     e.preventDefault();
     e.stopPropagation();

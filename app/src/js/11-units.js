@@ -877,8 +877,7 @@ function fxMap() {
       const st = fxSecState(u, s),
         [kn, , kc, ki] = fxKC(s.kind);
       return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${kc}"><span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span><b>${esc(s.title)}</b><span class="fxsm">${kn} · ${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span>${icon("next")}</button></li>`;
-    }).join("")}</ol></div></div>
-    <div class="fxact"><button class="fxaskb" data-fx="chat">${iamFace("mini")}Ask IAm</button></div>`;
+    }).join("")}</ol></div></div>`;
 }
 function fxShowSection(si, ci) {
   const u = FXU,
@@ -910,7 +909,7 @@ function fxShowSection(si, ci) {
   d.innerHTML =
     fxTop() +
     `<div class="fxfeed" style="--kc:${fxKC(s.kind)[2]}">${FXCARDS.map((c, i) => `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}"><div class="fxin">${c.html}</div></section>`).join("")}</div>
-   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button><button class="fxaskb" data-fx="askcard">${iamFace("mini")}Ask IAm</button></div>`;
+   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>`;
   const feed = d.querySelector(".fxfeed"),
     bar = d.querySelector(".fxbar i");
   FXOBS?.disconnect();
@@ -1330,7 +1329,6 @@ function fxClick(e) {
   if (a === "print") return fxPrint(b.dataset.id);
   if (a === "sheet") return fxSheet(b);
   if (a === "askcard") return fxChat(sec ? fxCardText(sec) : "");
-  if (a === "chat") return fxChat("");
   if (a === "photo") return fxChat("", true);
 }
 const fxSongBtns = () => {

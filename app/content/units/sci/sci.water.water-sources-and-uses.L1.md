@@ -149,7 +149,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 ## Games
 ### g1 · Water Jobs (15 min)
 - **rules:** Draw the five baskets on a big sheet. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and read it aloud (or ask the grown-up to). Say what the water is doing.; Put the card on the basket you think is right. Say why.; The grown-up reads the back. If the basket is right, the card stays there.; If it is wrong, the card goes to the bottom of the pile, to try again later.; With two players, take turns one after the other. With four, go round the circle. Everyone is helping to fill the baskets.; When the pile is finished, count each basket. Every basket should have 3 cards. If one has more or less, check it together.
-- **Printable cards: 15 cards to cut out:** A girl drinking from a steel tumbler (back: Drinking); A baby having a bottle of water (back: Drinking); A grandmother drinking from a clay pot (back: Drinking); Rice boiling in a pot (back: Cooking); Urad dal soaking for idli batter (back: Cooking); Dal cooking in a pressure cooker (back: Cooking); Hands being washed under a tap (back: Washing); Plates being washed in the sink (back: Washing); Clothes soaking in a bucket (back: Washing); A child watering a tulsi pot (back: Plants); Rain falling on a rice field (back: Plants); A money plant growing in a glass of water (back: Plants); A crow drinking from a clay saucer (back: Animals); A cow drinking from a trough (back: Animals); Fish swimming in a pond (back: Animals)
+- **Printable cards: 15 cards to cut out:** A girl drinking from a steel tumbler (back: Drinking); A baby having a bottle of water (back: Drinking); A grandmother drinking from a clay pot (back: Drinking); Rice boiling in a pot (back: Cooking); Urad dal soaking for idli batter (back: Cooking); Dal cooking in a pressure cooker (back: Cooking); Hands being washed under a tap (back: Washing); Plates being washed in the sink (back: Washing); Clothes soaking in a bucket (back: Washing); A child watering a tulsi pot (back: Plants) [picture]; Rain falling on a rice field (back: Plants); A money plant growing in a glass of water (back: Plants) [picture]; A crow drinking from a clay saucer (back: Animals) [picture]; A cow drinking from a trough (back: Animals) [picture]; Fish swimming in a pond (back: Animals) [picture]
 - **Printable board: Five baskets to draw on a big sheet:** A basket with a tumbler drawn on it: Drinking; A basket with a cooking pot: Cooking; A basket with a soap and bubbles: Washing; A basket with a leaf: Plants; A basket with a crow: Animals
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 15 cards. 2. Draw the five baskets on a big sheet. 3. Mix the cards and put them face down.  
@@ -167,7 +167,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   - Check: A girl pours water on a tulsi pot. Which job is that? → **Plants**
 ### g2 · Who Drinks How? A pairs game (15 min)
 - **rules:** Lay all 12 cards face down in rows. The back of every card is blank.; Take turns. Turn over two cards and read them aloud.; If an animal and their way of drinking match, keep the pair and have another turn.; If they do not match, turn them back over. The next player has a go.; When all the pairs are found, count your pairs. The player with the most pairs wins. If you are playing together, count the pairs and cheer.; Then act out each way of drinking together.
-- **Printable cards: 12 cards to cut out: 6 animals and 6 ways of drinking:** A cat; Laps with a fast tongue; An elephant; Fills a trunk and squirts the water into the mouth; A pigeon; Sucks water up like a straw; A frog; Drinks through the skin; A butterfly; Sips with a long tube tongue; A child; Sips from a tumbler
+- **Printable cards: 12 cards to cut out: 6 animals and 6 ways of drinking:** A cat; Laps with a fast tongue; An elephant [picture]; Fills a trunk and squirts the water into the mouth; A pigeon [picture]; Sucks water up like a straw; A frog; Drinks through the skin; A butterfly; Sips with a long tube tongue; A child; Sips from a tumbler
 - **s1 (2 min)**  
   *Parent does:* Cut out the 12 cards. Read every card aloud once. Mix them and lay them face down.  
   *Parent says:* Six animals, and six ways to drink. Let's find which way goes with which animal.  
@@ -346,7 +346,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 ### Water and Its Jobs (core) (core, 10 questions)
 1. (sort) Circle in blue the things that need water. Cross out the things that do not.  
    **Answer:** a crow → Needs water; a tulsi plant → Needs water; you → Needs water; a stone → Does not need water; a spoon → Does not need water; a cow → Needs water. *Why:* Every living being needs water: crows, plants, cows and you. A stone and a spoon are not alive, so they do not drink.
-2. (mcq) In the poha test, one katori got nothing. Why did we keep a katori with nothing?  
+2. (mcq) To test what water and oil do to poha, you set up three katoris of poha: one with water, one with oil, and one with nothing. Why keep one with nothing?  
    Options: To see what dry poha does by itself / Because we ran out of water / Because the poha was tired  
    **Answer:** To see what dry poha does by itself. *Why:* The katori with nothing shows what poha does on its own. Then we know the water or the oil made the change.
 3. (draw) Draw one flake of poha from the water katori and one from the oil katori. Show which one squashed.  
@@ -363,7 +363,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
    Options: Rain / A river / A well / A bag of rice  
    **Answer:** 3. *Why:* A water source is a place we get water from. Rain, rivers and wells give us water. A bag of rice does not.
 9. (perspective) Two friends in Kochi are washing plates after lunch. The rice on the plates has dried hard.  
-   **Answer:** Kavya is closer: the soaked plate came clean in a few wipes. But Farhan is right that soaking takes a few minutes of waiting.. *Why:* A strong answer uses the sticky plate result, and is fair to both: soaking makes cleaning easier, but it takes a little time.
+   **Answer:** Kavya is closer: water soaks into the dried rice and loosens it, so a soaked plate comes clean in a few wipes. But Farhan is right that soaking takes a few minutes of waiting.. *Why:* A strong answer uses what water does to dried food, and is fair to both: soaking makes cleaning easier, but it takes a little time.
 10. (truefalse) Water does only one job: we drink it.  
    **Answer:** False. *Why:* False. Water also cooks our food, washes things, helps plants grow and gives animals a drink.
 ### Water Gets Inside (stretch) (stretch, 10 questions)
@@ -411,9 +411,9 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 5. (mcq) Poha sat in oil for ten minutes. What was it like?  
    Options: Soft and squashy / Shiny and still hard / Gone  
    **Answer:** Shiny and still hard. *Why:* Oil does not go inside poha. It only coats the outside, so the poha stays hard.
-6. (mcq) Why did the poha in water go soft?  
+6. (mcq) Dry poha is put in a katori of plain water. After a while it goes soft. Why?  
    Options: The water went inside each flake / The water was hot / The katori was steel  
-   **Answer:** The water went inside each flake. *Why:* Water soaks into poha. The water was not hot, and all the katoris were the same.
+   **Answer:** The water went inside each flake. *Why:* Water soaks into each flake of poha and makes it soft. It does not need to be hot.
 7. (mcq) Which of these needs water to live?  
    Options: A spoon / A plant / A stone  
    **Answer:** A plant. *Why:* A plant is alive and needs water. A spoon and a stone are not alive.

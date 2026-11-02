@@ -1269,7 +1269,11 @@
       },
       {
        "f": "Candle wax",
-       "b": "Near a flame. Most candle wax melts at around 45 to 70 degrees Celsius."
+       "b": "Near a flame. Most candle wax melts at around 45 to 70 degrees Celsius.",
+       "img": {
+        "src": "media/cards/melting-and-solidifying-g2-1-08.jpg",
+        "credit": "Kansieelina, CC BY 4.0, via Wikimedia Commons"
+       }
       },
       {
        "f": "A wax crayon",

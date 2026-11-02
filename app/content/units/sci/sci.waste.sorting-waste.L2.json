@@ -300,7 +300,11 @@
      "items": [
       {
        "f": "Banana peel",
-       "b": "Wet bin. It rots."
+       "b": "Wet bin. It rots.",
+       "img": {
+        "src": "media/cards/sorting-waste-g1-1-00.jpg",
+        "credit": "Priwo, Public domain, via Wikimedia Commons"
+       }
       },
       {
        "f": "Dry onion skin (star card)",
@@ -348,7 +352,11 @@
       },
       {
        "f": "Old marigold garland",
-       "b": "Wet bin. Flowers rot. Take out the thread first."
+       "b": "Wet bin. Flowers rot. Take out the thread first.",
+       "img": {
+        "src": "media/cards/sorting-waste-g1-1-12.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "Cardboard box",
@@ -372,7 +380,11 @@
       },
       {
        "f": "Curry leaves left on the plate",
-       "b": "Wet bin. They rot."
+       "b": "Wet bin. They rot.",
+       "img": {
+        "src": "media/cards/sorting-waste-g1-1-18.jpg",
+        "credit": "Aruna Gamuz, CC0, via iNaturalist"
+       }
       },
       {
        "f": "Dosa wrapped in greasy paper (star card)",
